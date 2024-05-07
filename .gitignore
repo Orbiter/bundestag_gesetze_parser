@@ -3,6 +3,9 @@ __pycache__
 bundestag_gesetze_part1.jsonl
 bundestag_gesetze_part2.jsonl
 bundestag_gesetze_part3.jsonl
+bundestag_gesetze_part1.jsonl.gz
+bundestag_gesetze_part2.jsonl.gz
+bundestag_gesetze_part3.jsonl.gz
 bundestag_gesetze_part1.jsonl.faiss
 bundestag_gesetze_part2.jsonl.faiss
 bundestag_gesetze_part3.jsonl.faiss
