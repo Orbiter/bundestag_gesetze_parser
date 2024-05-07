@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 11.8.1993 I 1473;
 
 Zuletzt geändert durch
-:   Art. 4 G v. 20.11.2019 I 1724
+:   Art. 2 G v. 12.4.2024 I Nr. 121
 
 
 ## I. Teil - Verfassung und Zuständigkeit des Bundesverfassungsgerichts
@@ -909,11 +909,15 @@ aufbewahrt werden, gelten nach Ablauf von 30 Jahren seit Abschluss des
 Verfahrens die archivgesetzlichen Regelungen. Für Entwürfe von
 Urteilen, Beschlüssen und Verfügungen, Arbeiten zu ihrer Vorbereitung
 und Dokumente, die Abstimmungen betreffen, gilt dies nach Ablauf von
-60 Jahren. Das Bundesverfassungsgericht behält für das abgegebene
-Schriftgut, das beim Bundesarchiv aufbewahrt wird, zu gerichtsinternen
-und prozessualen Zwecken das jederzeitige und vorrangige
-Rückgriffsrecht. Zu diesem Zweck ist es ihm auf Anforderung umgehend
-zu übersenden.
+60 Jahren; soweit die Einsicht zur Durchführung eines
+Forschungsvorhabens unerlässlich ist, das im Schwerpunkt mögliche
+Auswirkungen des Nationalsozialismus auf das Bundesverfassungsgericht
+einschließlich seiner Mitglieder zum Gegenstand hat, gilt dies nach
+Ablauf von 50 Jahren. Das Bundesverfassungsgericht behält für das
+abgegebene Schriftgut, das beim Bundesarchiv aufbewahrt wird, zu
+gerichtsinternen und prozessualen Zwecken das jederzeitige und
+vorrangige Rückgriffsrecht. Zu diesem Zweck ist es ihm auf Anforderung
+umgehend zu übersenden.
 
 (6) Die Akten zu Kammerentscheidungen, die nicht zur Veröffentlichung
 bestimmt sind, einschließlich der Entwürfe von Beschlüssen und

@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 19.4.1972 I 713;
 
 Zuletzt geändert durch
-:   Art. 4 G v. 25.6.2021 I 2154
+:   Art. 2 G v. 20.12.2023 I Nr. 389
 
 
 ## Teil 1 - Richteramt in Bund und Ländern
@@ -651,6 +651,10 @@ Geltungsbereich dieses Gesetzes erkannt auf
 
 1.  Freiheitsstrafe von mindestens einem Jahr wegen einer vorsätzlichen
     Tat,
+
+
+1a. Freiheitsstrafe von mindestens sechs Monaten wegen einer Tat, die nach
+    § 130 des Strafgesetzbuchs (Volksverhetzung) strafbar ist,
 
 
 2.  Freiheitsstrafe wegen einer vorsätzlichen Tat, die nach den
@@ -1882,7 +1886,8 @@ gegen Urteile der Dienstgerichte der Länder (§ 79).
 #### § 63 Disziplinarverfahren
 
 (1) Für das Verfahren in Disziplinarsachen gelten die Vorschriften des
-Bundesdisziplinargesetzes sinngemäß.
+Bundesdisziplinargesetzes in der am 31. März 2024 geltenden Fassung
+sinngemäß.
 
 (2) Über die vorläufige Dienstenthebung und die Einbehaltung von
 Bezügen sowie über die Aufhebung dieser Maßnahmen entscheidet auf

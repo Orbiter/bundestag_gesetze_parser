@@ -16,10 +16,10 @@ Fundstelle
 :   BGBl I: 1966, 300
 
 Stand: Konstitutive Neufassung gem. Art. I V v. 28.4.1966 I 300, in Kraft getreten am 4.5.1966
-Stand: Ersetzt V v. 6.4.1955 I 157
 Zuletzt geändert durch
-:   Art. 3 V v. 2.12.2021 I 5049
+:   Art. 3 V v. 17.4.2024 I Nr. 130
 
+Stand: Ersetzt V v. 6.4.1955 I 157
 
 ## I. - Selbständige Berufe
 
@@ -938,9 +938,10 @@ Der monatliche Höchstbetrag der Rente beträgt
     *
     *
 
-*    *   ab
+*    *   vom
 
-    *
+    *   ab
+
     *
     *
     *
@@ -948,20 +949,23 @@ Der monatliche Höchstbetrag der Rente beträgt
 
 *    *   1.9.2021
 
+    *   1.12.2023
+
+    *
+    *
+    *
+    *
+
+*    *   bis
+
     *
     *
     *
     *
     *
 
-*    *
-    *
-    *
-    *
-    *
-    *
+*    *   30.11.2023
 
-*    *
     *
     *
     *
@@ -970,7 +974,8 @@ Der monatliche Höchstbetrag der Rente beträgt
 
 *    *   Euro
 
-    *
+    *   Euro
+
     *
     *
     *
@@ -978,7 +983,8 @@ Der monatliche Höchstbetrag der Rente beträgt
 
 *    *   2 641
 
-    *
+    *   2 939
+
     *
     *
     *
@@ -1039,7 +1045,11 @@ bürgerlichen Rechts gleichgestellten Kinder.
 
 4.  Rentenleistungen nach dem BEG für Schaden im wirtschaftlichen
     Fortkommen, sofern diese wegen des Todes des Verfolgten gezahlt
-    werden.
+    werden,
+
+
+5.  Entschädigungszahlungen nach Kapitel 9 des Vierzehnten Buches
+    Sozialgesetzbuch.
 
 
 
@@ -1322,8 +1332,7 @@ Bundesentschädigungsgesetzes beträgt
 *    *   vom
         1\.8.2004
         bis
-        31\.5.2008
-        Euro
+        31\.5.2008 Euro
 
     *   vom
         1\.6.2008
@@ -1382,11 +1391,16 @@ Bundesentschädigungsgesetzes beträgt
         31\.8.2021
         Euro
 
-    *   ab
+    *   vom
         1\.9.2021
+        bis
+        30\.11.2023
         Euro
 
-    *
+    *   ab
+        1\.12.2023
+        Euro
+
     *
     *
     *
@@ -1395,7 +1409,8 @@ Bundesentschädigungsgesetzes beträgt
 
     *   776
 
-    *
+    *   864
+
     *
     *
     *
@@ -1764,6 +1779,9 @@ dem 1. September 2016 geltenden Rentenbeträge werden ab dem 1. Januar
 nicht überschritten werden darf. Die seit dem 1. Januar 2019 geltenden
 Rentenbeträge werden ab dem 1. September 2021 um 3,1 Prozent erhöht,
 wobei der Höchstbetrag von 2 641 Euro nicht überschritten werden darf.
+Die seit dem 1. September 2021 geltenden Rentenbeträge werden ab dem
+1\. Dezember 2023 um 11,3 Prozent erhöht, wobei der Höchstbetrag von
+2 939 Euro nicht überschritten werden darf.
 
 (5) Die Rente wird mit Wirkung vom Ersten des Monats an gezahlt, in
 dem der Verfolgte das 65. Lebensjahr vollendet hat oder in seinem
@@ -2375,9 +2393,10 @@ Der monatliche Höchstbetrag der Rente beträgt
     *
     *
 
-*    *   ab
+*    *   vom
 
-    *
+    *   ab
+
     *
     *
     *
@@ -2385,20 +2404,23 @@ Der monatliche Höchstbetrag der Rente beträgt
 
 *    *   1.9.2021
 
+    *   1.12.2023
+
+    *
+    *
+    *
+    *
+
+*    *   bis
+
     *
     *
     *
     *
     *
 
-*    *
-    *
-    *
-    *
-    *
-    *
+*    *   30.11.2023
 
-*    *
     *
     *
     *
@@ -2407,7 +2429,8 @@ Der monatliche Höchstbetrag der Rente beträgt
 
 *    *   Euro
 
-    *
+    *   Euro
+
     *
     *
     *
@@ -2415,7 +2438,8 @@ Der monatliche Höchstbetrag der Rente beträgt
 
 *    *   2 641
 
-    *
+    *   2 939
+
     *
     *
     *
@@ -2450,7 +2474,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 3.  Leistungen nach dem Bundesversorgungsgesetz,
 
 
-4.  Rentenleistungen nach BEG für Schaden im wirtschaftlichen Fortkommen.
+4.  Rentenleistungen nach BEG für Schaden im wirtschaftlichen Fortkommen,
+
+
+5.  laufende Zahlungen auf Grund des Vierzehnten Buches Sozialgesetzbuch.
 
 
 
@@ -3057,7 +3084,10 @@ Bundesentschädigungsgesetzes betragen für
         31\.8.2021
         Euro
 
-    *   ab 1.9.2021
+    *   vom
+        1\.9.2021
+        bis
+        30\.11.2023
         Euro
 
 
@@ -3095,9 +3125,43 @@ Bundesentschädigungsgesetzes betragen für
     *   139
 
 
+*    *
+    *   ab
+        1\.12.2023
+        Euro
+
+    *
+    *
+    *
+
+*    *   den unverheirateten Verfolgten
+
+    *   1 488
+
+    *
+    *
+    *
+
+*    *   den verheirateten Verfolgten
+
+    *   1 874
+
+    *
+    *
+    *
+
+*    *   jedes nach dem bis zum 31.12.1974 geltenden Beamtenrecht
+        kinderzuschlagsberechtigte Kind
+
+    *   155
+
+    *
+    *
+    *
 
 
-(4) Die §§ 26 und 27 finden entsprechende Anwendung.
+
+   (4) Die §§ 26 und 27 finden entsprechende Anwendung.
 
 
 ##### § 35 Grundlagen der Berechnung für die Rente des überlebenden Ehegatten und der Kinder
@@ -3438,9 +3502,16 @@ für die Witwe oder den Witwer durch folgende Beträge ersetzt:
     *   Euro,
 
 
-*    *   ab 1. September 2021
+*    *   bis 30. November 2023
 
     *   1 218
+
+    *   Euro,
+
+
+*    *   ab 1. Dezember 2023
+
+    *   1 356
 
     *   Euro.
 
@@ -3680,9 +3751,14 @@ werden können,
     *   135 Euro,
 
 
-*    *   ab 1. September 2021
+*    *   bis 30. November 2023
 
-    *   139 Euro.
+    *   139 Euro,
+
+
+*    *   ab 1. Dezember 2023
+
+    *   155 Euro.
 
 
 
@@ -3921,9 +3997,14 @@ Bundesentschädigungsgesetzes genannten Beträge folgende Beträge:
     *   424 Euro,
 
 
-*    *   ab 1. September 2021
+*    *   bis 30. November 2023
 
-    *   437 Euro.
+    *   437 Euro,
+
+
+*    *   ab 1. Dezember 2023
+
+    *   486 Euro.
 
 
 
@@ -4161,9 +4242,14 @@ an die Stelle der in Absatz 4 genannten Beträge folgende Beträge:
     *   556 Euro,
 
 
-*    *   ab 1. September 2021
+*    *   bis 30. November 2023
 
-    *   573 Euro.
+    *   573 Euro,
+
+
+*    *   ab 1. Dezember 2023
+
+    *   638 Euro.
 
 
 
@@ -4516,7 +4602,9 @@ Bundesentschädigungsgesetzes beträgt
     *   ab 1.9.2021
         Euro
 
-    *
+    *   ab 1.12.2023
+        Euro
+
     *
     *
     *
@@ -4526,7 +4614,8 @@ Bundesentschädigungsgesetzes beträgt
 
     *   836
 
-    *
+    *   930
+
     *
     *
     *
@@ -4775,7 +4864,9 @@ Bundesentschädigungsgesetzes beträgt
     *   ab 1.9.2021
         Euro
 
-    *
+    *   ab 1.12.2023
+        Euro
+
     *
     *
     *
@@ -4785,7 +4876,8 @@ Bundesentschädigungsgesetzes beträgt
 
     *   642
 
-    *
+    *   715
+
     *
     *
     *
@@ -5034,7 +5126,9 @@ Bundesentschädigungsgesetzes beträgt
     *   ab 1.9.2021
         Euro
 
-    *
+    *   ab 1.12.2023
+        Euro
+
     *
     *
     *
@@ -5044,7 +5138,8 @@ Bundesentschädigungsgesetzes beträgt
 
     *   321
 
-    *
+    *   357
+
     *
     *
     *
@@ -6285,13 +6380,25 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *
     *
-    *   ab 1.9.2021
+    *   bis 30.11.2023
 
     *   29 630
 
     *   31 802
 
     *   32 888
+
+    *
+
+*    *
+    *
+    *   ab 1.12.2023
+
+    *   32 978
+
+    *   35 396
+
+    *   36 604
 
     *
 
@@ -7009,13 +7116,25 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *
     *
-    *   ab 1.9.2021
+    *   bis 30.11.2023
 
     *   33 429
 
     *   38 182
 
     *   40 556
+
+    *
+
+*    *
+    *
+    *   ab 1.12.2023
+
+    *   37 206
+
+    *   42 497
+
+    *   45 139
 
     *
 
@@ -7733,13 +7852,25 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *
     *
-    *   ab 1.9.2021
+    *   bis 30.11.2023
 
     *   40 661
 
     *   46 716
 
     *   49 748
+
+    *
+
+*    *
+    *
+    *   ab 1.12.2023
+
+    *   45 256
+
+    *   51 995
+
+    *   55 370
 
     *
 
@@ -8487,7 +8618,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *
     *
-    *   ab 1.9.2021
+    *   bis 30.11.2023
 
     *   51 973
 
@@ -8498,9 +8629,44 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   66 029
 
 
+*    *
+    *
+    *
+    *   Bis zum
+        vollendeten
+        35\.
+        Lebensjahr
+        Euro
+
+    *   Bis zum
+        vollendeten
+        45\.
+        Lebensjahr
+        Euro
+
+    *   Ab
+        vollendetem
+        45\.
+        Lebensjahr
+        Euro
+
+    *
+
+*    *
+    *
+    *   ab 1.12.2023
+
+    *   57 846
+
+    *   65 667
+
+    *   69 580
+
+    *
 
 
-(zu § 22 der 3. DV-BEG)
+
+   (zu § 22 der 3. DV-BEG)
 
 ### Anlage 5a Besoldungsübersicht Rente
 
@@ -11488,13 +11654,24 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *
     *
-    *   ab 1.9.2021
+    *   bis 30.11.2023
 
     *   29 630
 
     *   31 802
 
     *   32 888
+
+
+*    *
+    *
+    *   ab 1.12.2023
+
+    *   32 978
+
+    *   35 396
+
+    *   36 604
 
 
 *    *   2.
@@ -11921,13 +12098,24 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *
     *
-    *   ab 1.9.2021
+    *   bis 30.11.2023
 
     *   13 334
 
     *   20 671
 
     *   24 008
+
+
+*    *
+    *
+    *   ab 1.12.2023
+
+    *   14 840
+
+    *   23 007
+
+    *   26 721
 
 
 *    *   3.
@@ -12354,13 +12542,24 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *
     *
-    *   ab 1.9.2021
+    *   bis 30.11.2023
 
     *   8 892
 
     *   13 776
 
     *   16 008
+
+
+*    *
+    *
+    *   ab 1.12.2023
+
+    *   9 888
+
+    *   15 336
+
+    *   17 820
 
 
 *    *   4.
@@ -12794,13 +12993,25 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *
     *
     *
-    *   ab 1.9.2021
+    *   bis 30.11.2023
 
     *   741
 
     *   1 148
 
     *   1 334
+
+
+*    *
+    *
+    *
+    *   ab 1.12.2023
+
+    *   824
+
+    *   1 278
+
+    *   1 485
 
 
 *    *   2.
@@ -13232,13 +13443,24 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *
     *
-    *   ab 1.9.2021
+    *   bis 30.11.2023
 
     *   33 429
 
     *   38 182
 
     *   40 556
+
+
+*    *
+    *
+    *   ab 1.12.2023
+
+    *   37 206
+
+    *   42 497
+
+    *   45 139
 
 
 *    *   2.
@@ -13665,13 +13887,24 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *
     *
-    *   ab 1.9.2021
+    *   bis 30.11.2023
 
     *   15 043
 
     *   24 818
 
     *   29 606
+
+
+*    *
+    *
+    *   ab 1.12.2023
+
+    *   16 743
+
+    *   27 623
+
+    *   32 951
 
 
 *    *   3.
@@ -14098,13 +14331,24 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *
     *
-    *   ab 1.9.2021
+    *   bis 30.11.2023
 
     *   10 032
 
     *   16 548
 
     *   19 740
+
+
+*    *
+    *
+    *   ab 1.12.2023
+
+    *   11 160
+
+    *   18 420
+
+    *   21 972
 
 
 *    *   4.
@@ -14538,13 +14782,25 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *
     *
     *
-    *   ab 1.9.2021
+    *   bis 30.11.2023
 
     *   836
 
     *   1 379
 
     *   1 645
+
+
+*    *
+    *
+    *
+    *   ab 1.12.2023
+
+    *   930
+
+    *   1 535
+
+    *   1 831
 
 
 *    *   3.
@@ -14977,13 +15233,24 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *
     *
-    *   ab 1.9.2021
+    *   bis 30.11.2023
 
     *   40 661
 
     *   46 716
 
     *   49 748
+
+
+*    *
+    *
+    *   ab 1.12.2023
+
+    *   45 256
+
+    *   51 995
+
+    *   55 370
 
 
 *    *   2.
@@ -15410,13 +15677,24 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *
     *
-    *   ab 1.9.2021
+    *   bis 30.11.2023
 
     *   18 297
 
     *   30 365
 
     *   36 316
+
+
+*    *
+    *
+    *   ab 1.12.2023
+
+    *   20 365
+
+    *   33 797
+
+    *   40 420
 
 
 *    *   3.
@@ -15843,13 +16121,24 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *
     *
-    *   ab 1.9.2021
+    *   bis 30.11.2023
 
     *   12 204
 
     *   20 244
 
     *   24 216
+
+
+*    *
+    *
+    *   ab 1.12.2023
+
+    *   13 572
+
+    *   22 536
+
+    *   26 952
 
 
 *    *   4.
@@ -16283,13 +16572,25 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *
     *
     *
-    *   ab 1.9.2021
+    *   bis 30.11.2023
 
     *   1 017
 
     *   1 687
 
     *   2 018
+
+
+*    *
+    *
+    *
+    *   ab 1.12.2023
+
+    *   1 131
+
+    *   1 878
+
+    *   2 246
 
 
 
@@ -16887,7 +17188,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *
     *
     *
-    *   ab 1.9.2021
+    *   bis 30.11.2023
 
     *   51 973
 
@@ -16897,6 +17198,43 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   66 029
 
+
+*    *
+    *
+    *
+    *
+    *   Bis zum
+        vollendeten
+        35\.
+        Lebensjahr
+        Euro
+
+    *   Bis zum
+        vollendeten
+        45\.
+        Lebensjahr
+        Euro
+
+    *   Ab
+        vollendetem
+        45\.
+        Lebensjahr
+        Euro
+
+    *
+
+*    *
+    *
+    *
+    *   ab 1.12.2023
+
+    *   57 846
+
+    *   65 667
+
+    *   69 580
+
+    *
 
 *    *
     *   2.
@@ -17477,7 +17815,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *
     *
     *
-    *   ab 1.9.2021
+    *   bis 30.11.2023
 
     *   18 346
 
@@ -17487,6 +17825,43 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   47 541
 
+
+*    *
+    *
+    *
+    *
+    *   Bis zum
+        vollendeten
+        35\.
+        Lebensjahr
+        Euro
+
+    *   Bis zum
+        vollendeten
+        45\.
+        Lebensjahr
+        Euro
+
+    *   Ab
+        vollendetem
+        45\.
+        Lebensjahr
+        Euro
+
+    *
+
+*    *
+    *
+    *
+    *   ab 1.12.2023
+
+    *   20 420
+
+    *   36 117
+
+    *   48 010
+
+    *
 
 *    *
     *   3.
@@ -18067,7 +18442,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *
     *
     *
-    *   ab 1.9.2021
+    *   bis 30.11.2023
 
     *   12 228
 
@@ -18077,6 +18452,43 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   31 692
 
+
+*    *
+    *
+    *
+    *
+    *   Bis zum
+        vollendeten
+        35\.
+        Lebensjahr
+        Euro
+
+    *   Bis zum
+        vollendeten
+        45\.
+        Lebensjahr
+        Euro
+
+    *   Ab
+        vollendetem
+        45\.
+        Lebensjahr
+        Euro
+
+    *
+
+*    *
+    *
+    *
+    *   ab 1.12.2023
+
+    *   13 608
+
+    *   24 084
+
+    *   32 004
+
+    *
 
 *    *
     *   4.
@@ -18657,7 +19069,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *
     *
     *
-    *   ab 1.9.2021
+    *   bis 30.11.2023
 
     *   1 019
 
@@ -18667,6 +19079,43 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   2 641
 
+
+*    *
+    *
+    *
+    *
+    *   Bis zum
+        vollendeten
+        35\.
+        Lebensjahr
+        Euro
+
+    *   Bis zum
+        vollendeten
+        45\.
+        Lebensjahr
+        Euro
+
+    *   Ab
+        vollendetem
+        45\.
+        Lebensjahr
+        Euro
+
+    *
+
+*    *
+    *
+    *
+    *   ab 1.12.2023
+
+    *   1 134
+
+    *   2 007
+
+    *   2 667
+
+    *
 
 
 

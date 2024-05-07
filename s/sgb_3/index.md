@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 1997, 594, 595
 
 Zuletzt geändert durch
-:   Art. 7 G v. 16.8.2023 I Nr. 217
-
-Mittelbare änderung durch
-:   Art. 7a G v. 16.8.2023 I Nr. 217 ist berücksichtigt
+:   Art. 5 G v. 22.12.2023 I Nr. 412
 
 
 ## Erstes Kapitel - Allgemeine Vorschriften
@@ -235,7 +232,10 @@ mit Ausnahme
 4.  Kurzarbeitergeld bei Arbeitsausfall,
 
 
-5.  Insolvenzgeld bei Zahlungsunfähigkeit des Arbeitgebers.
+5.  Insolvenzgeld bei Zahlungsunfähigkeit des Arbeitgebers und
+
+
+6.  Qualifizierungsgeld bei strukturwandelbedingtem Qualifizierungsbedarf.
 
 
 
@@ -336,8 +336,7 @@ den Gemeinden, Kreisen und Bezirken sowie den weiteren Beteiligten des
 den
 
 1.  Leistungsträgern im Sinne des § 12 des Ersten Buches sowie Trägern von
-    Leistungen nach dem Bundesversorgungsgesetz und dem
-    Asylbewerberleistungsgesetz,
+    Leistungen nach dem Asylbewerberleistungsgesetz,
 
 
 2.  Vertreterinnen und Vertretern der Arbeitgeber sowie der
@@ -561,7 +560,7 @@ Berufsrückkehrende sind Frauen und Männer, die
 
 #### § 21 Träger
 
-Träger sind natürliche oder juristische Personen oder
+Träger sind natürliche oder juristische Personen oder rechtsfähige
 Personengesellschaften, die Maßnahmen der Arbeitsförderung selbst
 durchführen oder durch Dritte durchführen lassen.
 
@@ -575,11 +574,18 @@ durchführen oder durch Dritte durchführen lassen.
 (1) Leistungen der aktiven Arbeitsförderung dürfen nur erbracht
 werden, wenn nicht andere Leistungsträger oder andere öffentlich-
 rechtliche Stellen zur Erbringung gleichartiger Leistungen gesetzlich
-verpflichtet sind.
+verpflichtet sind. Leistungen nach den §§ 82 und 82a dürfen auch
+erbracht werden, wenn ein anderer Rehabilitationsträger im Sinne des
+Neunten Buches zuständig ist.
 
-(1a) Leistungen nach § 82 dürfen nur erbracht werden, wenn die
-berufliche Weiterbildung nicht auf ein nach § 2 Absatz 1 des
+(1a) Leistungen nach den §§ 82 und 82a dürfen nur erbracht werden,
+wenn die berufliche Weiterbildung nicht auf ein nach § 2 Absatz 1 des
 Aufstiegsfortbildungsförderungsgesetzes förderfähiges Fortbildungsziel
+vorbereitet. Abweichend von Satz 1 dürfen nach § 82a Arbeitnehmerinnen
+und Arbeitnehmer gefördert werden, die vor dem 1. April 2028 eine
+Maßnahme beginnen, die auf einen Fortbildungsabschluss zu öffentlich-
+rechtlich geregelten Prüfungen auf Grundlage des § 53b des
+Berufsbildungsgesetzes oder des § 42b der Handwerksordnung
 vorbereitet.
 
 (2) Allgemeine und besondere Leistungen zur Teilhabe am Arbeitsleben
@@ -617,12 +623,12 @@ erbracht:
 
 
 3.  Leistungen zur Berufsausbildung nach dem Vierten Unterabschnitt des
-    Dritten Abschnitts und Leistungen nach § 54a,
+    Dritten Abschnitts und Leistungen nach den §§ 48a und 54a,
 
 
 4.  Leistungen zur beruflichen Weiterbildung nach dem Vierten Abschnitt,
-    mit Ausnahme von Leistungen nach § 82 Absatz 6, und Leistungen nach
-    den §§ 131a und 131b,
+    mit Ausnahme von Leistungen nach § 82 Absatz 5 und § 82a, und
+    Leistungen nach den §§ 131a und 131b,
 
 
 5.  Leistungen zur Aufnahme einer sozialversicherungspflichtigen
@@ -703,7 +709,9 @@ Voraussetzungen für die Versicherungspflicht erfüllt sind.
 
 (3) Das Versicherungspflichtverhältnis für Beschäftigte besteht
 während eines Arbeitsausfalls mit Entgeltausfall im Sinne der
-Vorschriften über das Kurzarbeitergeld fort.
+Vorschriften über das Kurzarbeitergeld oder während eines
+weiterbildungsbedingten Entgeltausfalls im Sinne der Vorschriften über
+das Qualifizierungsgeld fort.
 
 (4) Das Versicherungspflichtverhältnis endet für Beschäftigte mit dem
 Tag des Ausscheidens aus dem Beschäftigungsverhältnis oder mit dem Tag
@@ -795,8 +803,8 @@ haben.
 
 (2) Versicherungspflichtig sind Personen in der Zeit, für die sie
 
-1.  von einem Leistungsträger Mutterschaftsgeld, Krankengeld,
-    Versorgungskrankengeld, Verletztengeld oder von einem Träger der
+1.  von einem Leistungsträger Mutterschaftsgeld, Krankengeld, Krankengeld
+    der Sozialen Entschädigung, Verletztengeld oder von einem Träger der
     medizinischen Rehabilitation Übergangsgeld beziehen,
 
 
@@ -955,7 +963,9 @@ nicht für Personen, die
 
 
 2.  wegen eines Arbeitsausfalls mit Entgeltausfall im Sinne der
-    Vorschriften über das Kurzarbeitergeld oder
+    Vorschriften über das Kurzarbeitergeld oder wegen eines
+    weiterbildungsbedingten Entgeltausfalls im Sinne der Vorschriften über
+    das Qualifizierungsgeld oder
 
 
 3.  wegen stufenweiser Wiedereingliederung in das Erwerbsleben (§ 74
@@ -1562,9 +1572,8 @@ Arbeitsverhältnisses unter Benennung des Arbeitgebers und seines
 Sitzes unverzüglich mitzuteilen. Sie können die Weitergabe ihrer
 Unterlagen von deren Rückgabe an die Agentur für Arbeit abhängig
 machen oder ihre Weitergabe an namentlich benannte Arbeitgeber
-ausschließen. Die Anzeige- und Bescheinigungspflichten im
-Leistungsverfahren bei Arbeitsunfähigkeit nach § 311 gelten
-entsprechend.
+ausschließen. Die Anzeige- und Nachweispflichten im Leistungsverfahren
+bei Arbeitsunfähigkeit nach § 311 gelten entsprechend.
 
 (4) Die Arbeitsvermittlung ist durchzuführen,
 
@@ -1984,6 +1993,56 @@ Schülerinnen und Schülern sollen bei der Ausgestaltung der Maßnahmen
 berücksichtigt werden.
 
 
+##### § 48a Berufsorientierungspraktikum
+
+(1) Die Agentur für Arbeit kann junge Menschen, die ihre Berufswahl
+noch nicht abschließend getroffen haben, durch ein
+Berufsorientierungspraktikum fördern, um sie beim Übergang in eine
+Berufsausbildung zu unterstützen. Voraussetzung für die Förderung ist,
+dass die jungen Menschen
+
+1.  die Vollzeitschulpflicht nach den Gesetzen der Länder erfüllt haben,
+
+
+2.  keine Schule besuchen und
+
+
+3.  bei der Agentur für Arbeit ausbildungsuchend gemeldet sind.
+
+
+
+
+(2) Das Berufsorientierungspraktikum kann bei einem oder bei mehreren
+Arbeitgebern durchgeführt werden. Die Dauer des
+Berufsorientierungspraktikums muss dessen Zweck und Inhalt
+entsprechen. Das Berufsorientierungspraktikum bei dem jeweiligen
+Arbeitgeber soll
+
+1.  eine Dauer von einer Woche nicht unterschreiten und
+
+
+2.  eine Dauer von sechs Wochen nicht überschreiten.
+
+
+
+
+(3) Die Förderung umfasst im Regelfall die Übernahme der Kosten
+
+1.  für Fahrten zwischen Unterkunft und Praktikumsbetrieb sowie
+
+
+2.  für Unterkunft, sofern der Praktikumsbetrieb vom Wohnort des jungen
+    Menschen nicht in angemessener Zeit erreicht werden kann.
+
+
+
+Für die Höhe der Fahrkosten gilt § 63 Absatz 3 entsprechend. Für die
+Unterkunft wird der jeweils geltende Bedarf nach § 13 Absatz 2 Nummer
+2 des Bundesausbildungsförderungsgesetzes zugrunde gelegt.
+Hinsichtlich der Übernahme sonstiger Aufwendungen gilt § 64 Absatz 1
+und 3 entsprechend.
+
+
 ##### § 49 Berufseinstiegsbegleitung
 
 (1) Die Agentur für Arbeit kann förderungsbedürftige junge Menschen
@@ -2167,7 +2226,7 @@ Handlungsfähigkeit. Soweit die betriebliche Einstiegsqualifizierung
 als Berufsausbildungsvorbereitung nach dem Berufsbildungsgesetz
 durchgeführt wird, gelten die §§ 68 bis 70 des Berufsbildungsgesetzes.
 
-(2) Eine Einstiegsqualifizierung kann für die Dauer von sechs bis
+(2) Eine Einstiegsqualifizierung kann für die Dauer von vier bis
 längstens zwölf Monaten gefördert werden, wenn sie
 
 1.  auf der Grundlage eines Vertrags im Sinne des § 26 des
@@ -2181,12 +2240,15 @@ längstens zwölf Monaten gefördert werden, wenn sie
     Altenpflegegesetzes vorbereitet und
 
 
-3.  in Vollzeit oder wegen der Erziehung eigener Kinder oder der Pflege
-    von Familienangehörigen in Teilzeit von mindestens 20 Wochenstunden
+3.  in Vollzeit oder in Teilzeit von mindestens 20 Wochenstunden
     durchgeführt wird.
 
 
 
+Eine Einstiegsqualifizierung kann für Menschen mit Behinderungen im
+Sinne des § 19 auch gefördert werden, wenn sie auf eine Ausbildung
+nach den Ausbildungsregelungen des § 66 des Berufsbildungsgesetzes
+oder des § 42r der Handwerksordnung vorbereitet.
 
 (3) Der Abschluss des Vertrags ist der nach dem Berufsbildungsgesetz,
 im Fall der Vorbereitung auf einen nach Teil 2 des
@@ -2222,7 +2284,8 @@ verbundenen Unternehmens in den letzten drei Jahren vor Beginn der
 Einstiegsqualifizierung versicherungspflichtig beschäftigt war, ist
 ausgeschlossen. Gleiches gilt, wenn die Einstiegsqualifizierung im
 Betrieb der Ehegatten, Lebenspartnerinnen oder Lebenspartner oder
-Eltern durchgeführt wird.
+Eltern durchgeführt wird. Satz 1 gilt nicht in Fällen, in denen ein
+betriebliches Berufsausbildungsverhältnis vorzeitig gelöst worden ist.
 
 (6) Teilnehmende an einer Einstiegsqualifizierung können durch
 Übernahme der Fahrkosten gefördert werden. Für die Übernahme und die
@@ -2746,6 +2809,31 @@ erbracht werden, sofern während der Aus- oder Weiterbildung Zuschüsse
 erbracht wurden.
 
 
+##### § 73a Mobilitätszuschuss
+
+(1) Die Agentur für Arbeit kann junge Menschen während des ersten
+Ausbildungsjahres einer nach § 57 Absatz 1 förderungsfähigen
+Berufsausbildung mit einem Mobilitätszuschuss fördern, wenn
+
+1.  die Ausbildungsstätte vom bisherigen Wohnort der oder des
+    Auszubildenden nicht in angemessener Zeit erreicht werden kann und
+
+
+2.  ein Wechsel des Wohnortes für die Aufnahme der Ausbildung erforderlich
+    ist.
+
+
+
+§ 116 Absatz 2 gilt entsprechend.
+
+(2) Die Höhe des Mobilitätszuschusses richtet sich nach den
+erforderlichen Fahrkosten für zwei monatliche Familienheimfahrten. Für
+die Höhe der Fahrkosten gilt § 63 Absatz 3 entsprechend.
+
+(3) § 56 Absatz 1 Nummer 3 und § 63 dieses Buches sowie § 73 des
+Neunten Buches bleiben unberührt.
+
+
 ##### § 74 Assistierte Ausbildung
 
 (1) Die Agentur für Arbeit kann
@@ -3191,13 +3279,11 @@ beschäftigten Arbeitnehmerinnen und Arbeitnehmern verzichten, wenn
 
 
 2.  die Arbeitnehmerin oder der Arbeitnehmer oder die Betriebsvertretung
-    das Einverständnis zu der Qualifizierung nach § 82 Absatz 6 Satz 1
+    das Einverständnis zu der Qualifizierung nach § 82 Absatz 5 Satz 1
     Nummer 2 erklärt haben.
 
 
 
-
-(5) (weggefallen)
 
 
 #### § 82 Förderung beschäftigter Arbeitnehmerinnen und Arbeitnehmer
@@ -3214,18 +3300,16 @@ Weiterbildungskosten gefördert werden, wenn
 
 2.  der Erwerb des Berufsabschlusses, für den nach bundes- oder
     landesrechtlichen Vorschriften eine Ausbildungsdauer von mindestens
-    zwei Jahren festgelegt ist, in der Regel mindestens vier Jahre
+    zwei Jahren festgelegt ist, in der Regel mindestens zwei Jahre
     zurückliegt,
 
 
-3.  die Arbeitnehmerin oder der Arbeitnehmer in den letzten vier Jahren
+3.  die Arbeitnehmerin oder der Arbeitnehmer in den letzten zwei Jahren
     vor Antragsstellung nicht an einer nach dieser Vorschrift geförderten
     beruflichen Weiterbildung teilgenommen hat,
 
 
-4.  die Maßnahme außerhalb des Betriebes oder von einem zugelassenen
-    Träger im Betrieb, dem sie angehören, durchgeführt wird und mehr als
-    120 Stunden dauert und
+4.  die Maßnahme mehr als 120 Stunden dauert und
 
 
 5.  die Maßnahme und der Träger der Maßnahme für die Förderung zugelassen
@@ -3233,18 +3317,6 @@ Weiterbildungskosten gefördert werden, wenn
 
 
 
-Die Förderung soll darauf gerichtet sein, Arbeitnehmerinnen und
-Arbeitnehmern, die berufliche Tätigkeiten ausüben, die durch
-Technologien ersetzt werden können oder in sonstiger Weise vom
-Strukturwandel betroffen sind, eine Anpassung und Fortentwicklung
-ihrer beruflichen Kompetenzen zu ermöglichen, um den genannten
-Herausforderungen besser begegnen zu können. Gleiches gilt für
-Arbeitnehmerinnen und Arbeitnehmer, die eine Weiterbildung in einem
-Engpassberuf anstreben. Die Sätze 2 und 3 gelten nicht, wenn die
-Arbeitnehmerinnen und Arbeitnehmer einem Betrieb mit weniger als 250
-Beschäftigten angehören und soweit sie nach dem 31. Dezember 2020 mit
-der Teilnahme beginnen, das 45. Lebensjahr vollendet haben oder
-schwerbehindert im Sinne des § 2 Absatz 2 des Neunten Buches sind.
 Ausgeschlossen von der Förderung ist die Teilnahme an Maßnahmen, zu
 deren Durchführung der Arbeitgeber auf Grund bundes- oder
 landesrechtlicher Regelungen verpflichtet ist.
@@ -3254,23 +3326,18 @@ in angemessenem Umfang an den Lehrgangskosten beteiligt. Angemessen
 ist die Beteiligung, wenn der Betrieb, dem die Arbeitnehmerin oder der
 Arbeitnehmer angehört,
 
-1.  mindestens zehn und weniger als 250 Beschäftigte hat und der
-    Arbeitgeber mindestens 50 Prozent,
+1.  mindestens 50 und weniger als 500 Beschäftigte hat und der Arbeitgeber
+    50 Prozent,
 
 
-2.  250 Beschäftigte und weniger als 2 500 Beschäftigte hat und der
-    Arbeitgeber mindestens 75 Prozent,
-
-
-3.  2 500 Beschäftigte oder mehr hat und der Arbeitgeber mindestens 85
-    Prozent
+2.  500 Beschäftigte oder mehr hat und der Arbeitgeber 75 Prozent
 
 
 
 der Lehrgangskosten trägt. Abweichend von Satz 1 soll in Betrieben mit
-weniger als zehn Beschäftigten von einer Kostenbeteiligung des
-Arbeitgebers abgesehen werden. Bei Betrieben mit weniger als 250
-Beschäftigten kann von einer Kostenbeteiligung des Arbeitgebers
+weniger als 50 Beschäftigten von einer Kostenbeteiligung des
+Arbeitgebers abgesehen werden. Bei Betrieben mit weniger als 500
+Beschäftigten soll von einer Kostenbeteiligung des Arbeitgebers
 abgesehen werden, wenn die Arbeitnehmerin oder der Arbeitnehmer
 
 1.  bei Beginn der Teilnahme das 45. Lebensjahr vollendet hat oder
@@ -3295,14 +3362,14 @@ Gesamtsozialversicherungsbeitrag. Im Übrigen können bei Vorliegen der
 Voraussetzungen nach Absatz 1 Zuschüsse für Arbeitnehmerinnen und
 Arbeitnehmer in Betrieben mit
 
-1.  weniger als zehn Beschäftigten in Höhe von bis zu 75 Prozent,
+1.  weniger als 50 Beschäftigten in Höhe von 75 Prozent,
 
 
-2.  mindestens zehn und weniger als 250 Beschäftigten in Höhe von bis zu
-    50 Prozent,
+2.  mindestens 50 und weniger als 500 Beschäftigten in Höhe von 50
+    Prozent,
 
 
-3.  250 Beschäftigten oder mehr in Höhe von bis zu 25 Prozent
+3.  500 Beschäftigten oder mehr in Höhe von 25 Prozent
 
 
 
@@ -3311,22 +3378,13 @@ erbracht werden.
 
 (4) Bei Vorliegen einer Betriebsvereinbarung über die berufliche
 Weiterbildung oder eines Tarifvertrages, der betriebsbezogen
-berufliche Weiterbildung vorsieht, verringert sich die
-Mindestbeteiligung des Arbeitgebers an den Lehrgangskosten nach Absatz
-2 unabhängig von der Betriebsgröße um fünf Prozentpunkte. Die
-Zuschüsse zum Arbeitsentgelt nach Absatz 3 Satz 4 können bei Vorliegen
-der Voraussetzungen nach Satz 1 um fünf Prozentpunkte erhöht werden.
-
-(5) Die Beteiligung des Arbeitgebers an den Lehrgangskosten nach
-Absatz 2 verringert sich um jeweils 10 Prozentpunkte, wenn die
-beruflichen Kompetenzen von mindestens 20 Prozent, im Fall des
-Absatzes 2 Satz 2 Nummer 1 10 Prozent, der Beschäftigten eines
-Betriebes den betrieblichen Anforderungen voraussichtlich nicht oder
-teilweise nicht mehr entsprechen. Die Zuschüsse zum Arbeitsentgelt
+berufliche Weiterbildung vorsieht, verringert sich die Beteiligung des
+Arbeitgebers an den Lehrgangskosten nach Absatz 2 unabhängig von der
+Betriebsgröße um fünf Prozentpunkte. Die Zuschüsse zum Arbeitsentgelt
 nach Absatz 3 Satz 4 können bei Vorliegen der Voraussetzungen nach
-Satz 1 um 10 Prozentpunkte erhöht werden.
+Satz 1 um fünf Prozentpunkte erhöht werden.
 
-(6) Der Antrag auf Förderung nach Absatz 1 kann auch vom Arbeitgeber
+(5) Der Antrag auf Förderung nach Absatz 1 kann auch vom Arbeitgeber
 gestellt und die Förderleistungen an diesen erbracht werden, wenn
 
 1.  der Antrag mehrere Arbeitnehmerinnen oder Arbeitnehmer betrifft, bei
@@ -3339,18 +3397,17 @@ gestellt und die Förderleistungen an diesen erbracht werden, wenn
 
 
 
-Bei der Ermessensentscheidung über die Höhe der Förderleistungen nach
-den Absätzen 1 bis 5 kann die Agentur für Arbeit die individuellen und
-betrieblichen Belange pauschalierend für alle betroffenen
-Arbeitnehmerinnen und Arbeitnehmer einheitlich und maßnahmebezogen
-berücksichtigen und die Leistungen als Gesamtleistung bewilligen. Der
-Arbeitgeber hat der Agentur für Arbeit die Weiterleitung der
-Leistungen für Kosten, die den Arbeitnehmerinnen und Arbeitnehmern
-sowie dem Träger der Maßnahme unmittelbar entstehen, spätestens drei
-Monate nach Ende der Maßnahme nachzuweisen. § 83 Absatz 2 bleibt
-unberührt.
+Bei der Ermessensentscheidung nach den Absätzen 1 bis 4 kann die
+Agentur für Arbeit die individuellen und betrieblichen Belange
+pauschalierend für alle betroffenen Arbeitnehmerinnen und Arbeitnehmer
+einheitlich und maßnahmebezogen berücksichtigen und die Leistungen als
+Gesamtleistung bewilligen. Der Arbeitgeber hat der Agentur für Arbeit
+die Weiterleitung der Leistungen für Kosten, die den Arbeitnehmerinnen
+und Arbeitnehmern sowie dem Träger der Maßnahme unmittelbar entstehen,
+spätestens drei Monate nach Ende der Maßnahme nachzuweisen. § 83
+Absatz 2 bleibt unberührt.
 
-(7) § 81 Absatz 4 findet Anwendung. Der Bildungsgutschein kann in
+(6) § 81 Absatz 4 findet Anwendung. Der Bildungsgutschein kann in
 Förderhöhe und Förderumfang beschränkt werden. Bei der Feststellung
 der Zahl der Beschäftigten sind zu berücksichtigen,
 
@@ -3377,12 +3434,251 @@ der Zahl der Beschäftigten sind zu berücksichtigen,
 
 
 
-(8) Bei der Ausübung des Ermessens hat die Agentur für Arbeit die
+(7) Bei der Ausübung des Ermessens hat die Agentur für Arbeit die
 unterschiedlichen Betriebsgrößen angemessen zu berücksichtigen.
 
-(9) Die Förderung von Arbeitnehmerinnen und Arbeitnehmern in
+(8) Die Förderung von Arbeitnehmerinnen und Arbeitnehmern in
 Maßnahmen, die während des Bezugs von Kurzarbeitergeld beginnen, ist
 bis zum 31. Juli 2024 ausgeschlossen.
+
+(9) Behinderungsbedingt erforderliche Mehraufwendungen, die im
+Zusammenhang mit der Teilnahme an einer nach Absatz 1 geförderten
+Maßnahme entstehen, werden übernommen.
+
+
+#### § 82a Qualifizierungsgeld
+
+(1) Arbeitnehmerinnen und Arbeitnehmer können bei beruflicher
+Weiterbildung für die Dauer der Maßnahme ein Qualifizierungsgeld von
+der Agentur für Arbeit erhalten, wenn
+
+1.  die betrieblichen Voraussetzungen erfüllt sind,
+
+
+2.  die persönlichen Voraussetzungen erfüllt sind,
+
+
+3.  Fertigkeiten, Kenntnisse und Fähigkeiten vermittelt werden, die über
+    ausschließlich arbeitsplatzbezogene kurzfristige
+    Anpassungsfortbildungen hinausgehen,
+
+
+4.  der Träger der Maßnahme für die Förderung zugelassen ist und
+
+
+5.  die Maßnahme mehr als 120 Stunden dauert und maximal die Dauer einer
+    Vollzeitmaßnahme nach § 180 Absatz 4 umfasst.
+
+
+
+
+(2) Die betrieblichen Voraussetzungen sind erfüllt, wenn
+
+1.  strukturwandelbedingte Qualifizierungsbedarfe im Betrieb bestehen und
+    diese mindestens 20 Prozent der Arbeitnehmerinnen und Arbeitnehmer
+    betreffen,
+
+
+2.  der Arbeitgeber die berufliche Weiterbildung finanziert und
+
+
+3.  beim Arbeitgeber durch eine Betriebsvereinbarung oder durch einen
+    Tarifvertrag betriebsbezogene Regelungen getroffen wurden über
+
+    a)  das Bestehen des strukturwandelbedingten Qualifizierungsbedarfs,
+
+
+    b)  die damit verbundenen Perspektiven der Arbeitnehmerinnen und
+        Arbeitnehmer für eine nachhaltige Beschäftigung im Betrieb und
+
+
+    c)  die Inanspruchnahme des Qualifizierungsgeldes.
+
+
+
+
+
+
+Abweichend von Satz 1 Nummer 1 ist es in Betrieben mit weniger als 250
+Arbeitnehmerinnen und Arbeitnehmern ausreichend, wenn mindestens 10
+Prozent der Arbeitnehmerinnen und Arbeitnehmer von
+strukturwandelbedingtem Qualifizierungsbedarf betroffen sind. Die
+Anzahl der Arbeitnehmerinnen und Arbeitnehmer nach Satz 1 Nummer 1 und
+Satz 2 ist in dem Betrieb zu ermitteln, für den die
+Betriebsvereinbarung oder der Tarifvertrag abgeschlossen wurde. Der
+nach Satz 1 Nummer 1 oder Satz 2 ermittelte Anteil der betroffenen
+Arbeitnehmerinnen und Arbeitnehmer gilt für die Dauer von drei Jahren
+ab Antragstellung. Arbeitnehmerinnen und Arbeitnehmer dürfen nicht an
+den Kosten nach Satz 1 Nummer 2 beteiligt werden; zulässig ist eine
+Kostenübernahme durch Dritte. Abweichend von Satz 1 Nummer 3 ist in
+Betrieben mit weniger als zehn Arbeitnehmerinnen und Arbeitnehmern
+anstelle einer Betriebsvereinbarung oder eines Tarifvertrags eine
+schriftliche Erklärung des Arbeitgebers ausreichend.
+
+(3) Bei der Ausübung des Ermessens hat die Agentur für Arbeit die
+Notwendigkeit der strukturwandelbedingten Qualifizierungsbedarfe, die
+mit der beruflichen Weiterbildung verbundenen
+Beschäftigungsperspektiven und das Ausmaß der Inanspruchnahme nach §
+323 Absatz 3 angemessen zu berücksichtigen.
+
+(4) Die persönlichen Voraussetzungen sind erfüllt, wenn
+
+1.  die Weiterbildung im Rahmen eines bestehenden Arbeitsverhältnisses
+    durchgeführt wird,
+
+
+2.  die Arbeitnehmerin oder der Arbeitnehmer in den letzten vier Jahren
+    vor Antragstellung nicht an einer nach dieser Vorschrift geförderten
+    beruflichen Weiterbildung teilgenommen hat und
+
+
+3.  das Arbeitsverhältnis nicht gekündigt oder durch Aufhebungsvertrag
+    aufgelöst ist.
+
+
+
+Die persönlichen Voraussetzungen sind auch erfüllt, wenn die
+Arbeitnehmerin oder der Arbeitnehmer während des Bezugs von
+Qualifizierungsgeld arbeitsunfähig wird, solange Anspruch auf
+Fortzahlung des Arbeitsentgelts im Krankheitsfall besteht oder ohne
+den Arbeitsausfall bestehen würde. § 98 Absatz 3 gilt entsprechend.
+Die persönlichen Voraussetzungen sind in Zeiten, in denen ein Anspruch
+der Arbeitnehmerin oder des Arbeitnehmers auf Urlaubsentgelt besteht,
+nicht erfüllt.
+
+(5) Eine Förderung ist nicht möglich, wenn
+
+1.  der Arbeitgeber auf Grund bundes- oder landesrechtlicher Regelungen
+    zur Durchführung der Maßnahme verpflichtet ist oder
+
+
+2.  für die gleiche Maßnahme Leistungen nach § 82 beantragt wurden.
+
+
+
+Die §§ 107 und 108 gelten entsprechend, das Qualifizierungsgeld tritt
+an die Stelle des Kurzarbeitergeldes.
+
+(6) Behinderungsbedingt erforderliche Mehraufwendungen, die im
+Zusammenhang mit der Teilnahme an einer nach Absatz 1 geförderten
+Maßnahme entstehen, werden übernommen.
+
+(7) § 318 Absatz 1 findet mit der Maßgabe Anwendung, dass die
+Pflichten nur für den Arbeitgeber gelten, auch wenn die Maßnahme bei
+einem Träger durchgeführt wurde oder wird. § 318 Absatz 2 findet keine
+Anwendung.
+
+
+#### § 82b Höhe und Bemessung des Qualifizierungsgeldes
+
+(1) Das Qualifizierungsgeld beträgt
+
+1.  für Arbeitnehmerinnen und Arbeitnehmer, die beim Arbeitslosengeld die
+    Voraussetzungen für den erhöhten Leistungssatz erfüllen würden, 67
+    Prozent,
+
+
+2.  für die übrigen Arbeitnehmerinnen und Arbeitnehmer 60 Prozent
+
+
+
+der durchschnittlich auf den Tag entfallenden Nettoentgeltdifferenz im
+Referenzzeitraum. Die Nettoentgeltdifferenz entspricht der Differenz
+zwischen dem pauschalierten Nettoentgelt aus dem beitragspflichtigen
+Bruttoarbeitsentgelt im Referenzzeitraum (Soll-Entgelt) und dem
+pauschalierten Nettoentgelt aus einem fiktiven beitragspflichtigen
+Bruttoarbeitsentgelt, das sich unter Annahme des Entgeltausfalls durch
+den weiterbildungsbedingten Arbeitsausfall wegen einer Maßnahme im
+Rahmen von § 82a im Referenzzeitraum ergibt (Ist-Entgelt). Der
+Referenzzeitraum ist der letzte Entgeltabrechnungszeitraum, welcher
+spätestens drei Monate vor Anspruchsbeginn abgerechnet wurde.
+
+(2) Bei der Bestimmung der Nettoentgeltdifferenz bleiben
+Arbeitsentgelte außer Betracht,
+
+1.  die Arbeitnehmerinnen und Arbeitnehmer für Mehrarbeit erhalten haben,
+
+
+2.  die Arbeitnehmerinnen oder Arbeitnehmern einmalig gewährt werden,
+
+
+3.  die im Hinblick auf den weiterbildungsbedingten Arbeitsausfall für den
+    Referenzzeitraum zusätzlich vereinbart worden sind oder
+
+
+4.  die als Wertguthaben einer Vereinbarung nach § 7b des Vierten Buches
+    nicht nach dieser Vereinbarung verwendet werden.
+
+
+
+
+(3) Erzielt die Arbeitnehmerin oder der Arbeitnehmer aus anderen
+Gründen als wegen der Teilnahme an einer Maßnahme im Rahmen von § 82a
+kein Arbeitsentgelt, so ist das Ist-Entgelt um den Betrag zu erhöhen,
+um den das Arbeitsentgelt aus diesen Gründen gemindert ist. Bei der
+Berechnung der Nettoentgeltdifferenz nach Absatz 1 bleiben auf Grund
+von kollektivrechtlichen Beschäftigungssicherungsvereinbarungen
+durchgeführte vorübergehende Änderungen der vertraglich vereinbarten
+Arbeitszeit außer Betracht; Satz 1 ist insoweit nicht anzuwenden.
+
+(4) Als Arbeitsentgelt ist für Zeiten, in denen die Arbeitnehmerin
+oder der Arbeitnehmer Kurzarbeitergeld bezogen hat, das
+Bruttoarbeitsentgelt zugrunde zu legen, das die Arbeitnehmerin oder
+der Arbeitnehmer ohne den Arbeitsausfall erzielt hätte.
+
+(5) Lässt sich das Soll-Entgelt einer Arbeitnehmerin oder eines
+Arbeitnehmers in dem Referenzzeitraum nicht hinreichend bestimmt
+feststellen, so ist als Soll-Entgelt das Arbeitsentgelt maßgebend, das
+die Arbeitnehmerin oder der Arbeitnehmer in den letzten drei
+abgerechneten Kalendermonaten vor Beginn des Referenzzeitraumes im
+Betrieb durchschnittlich erzielt hat, vermindert um Entgelt für
+Mehrarbeit. Ist eine Berechnung nach Satz 1 nicht möglich, so ist das
+durchschnittliche Soll-Entgelt einer vergleichbaren Arbeitnehmerin
+oder eines vergleichbaren Arbeitnehmers zugrunde zu legen.
+
+(6) Soll-Entgelt und Ist-Entgelt sind auf den nächsten durch 20
+teilbaren Euro-Betrag zu runden. Mit Ausnahme der Regelungen über den
+Zeitpunkt der Zuordnung der Lohnsteuerklassen und den
+Steuerklassenwechsel gilt § 153 für die Berechnung der pauschalierten
+Nettoentgelte beim Qualifizierungsgeld entsprechend; bei der
+Berechnung der pauschalierten Nettoentgelte wird die Steuerklasse
+zugrunde gelegt, die im Referenzzeitraum zuletzt galt. § 317 gilt
+entsprechend.
+
+
+#### § 82c Anrechnung von Nebeneinkommen und sonstigen Zahlungen des Arbeitgebers
+
+(1) Ist eine Arbeitnehmerin oder ein Arbeitnehmer während einer Zeit
+erwerbstätig, für die ihr oder ihm Qualifizierungsgeld zusteht, ist
+das daraus erzielte Einkommen nach Abzug der Steuern, der
+Sozialversicherungsbeiträge, der Werbungskosten sowie eines
+Freibetrages in Höhe von 165 Euro in dem Kalendermonat, in dem die
+Tätigkeit neben der Weiterbildung ausgeübt wird, auf das
+Qualifizierungsgeld anzurechnen. Handelt es sich um eine selbständige
+Tätigkeit, eine Tätigkeit als mithelfende Familienangehörige oder
+mithelfender Familienangehöriger, sind bei der Anrechnung pauschal 30
+Prozent der Betriebseinnahmen als Betriebsausgaben abzusetzen, es sei
+denn, die Arbeitnehmerin oder der Arbeitnehmer weist höhere
+Betriebsausgaben nach. Die Sätze 1 und 2 gelten nicht für Einkommen
+aus Erwerbstätigkeiten, die bereits im maßgeblichen Referenzzeitraum
+ausgeübt wurden.
+
+(2) Leistungen, die eine Bezieherin oder ein Bezieher von
+Qualifizierungsgeld
+
+1.  vom Arbeitgeber wegen der Teilnahme an einer Maßnahme im Rahmen von §
+    82a erhält oder
+
+
+2.  auf Grund eines bestehenden Arbeitsverhältnisses ohne Ausübung einer
+    Beschäftigung für die Zeit der Teilnahme an einer Maßnahme im Rahmen
+    von § 82a erhält,
+
+
+
+werden nicht auf das Qualifizierungsgeld angerechnet, soweit sie
+zusammen mit dem Qualifizierungsgeld das Soll-Entgelt nicht
+übersteigen.
 
 
 #### § 83 Weiterbildungskosten
@@ -3523,8 +3819,8 @@ Arbeitnehmers und nach den Anforderungen des jeweiligen Arbeitsplatzes
 (Minderleistung). Der Eingliederungszuschuss kann bis zu 50 Prozent
 des zu berücksichtigenden Arbeitsentgelts und die Förderdauer bis zu
 zwölf Monate betragen. Bei Arbeitnehmerinnen und Arbeitnehmern, die
-das 50. Lebensjahr vollendet haben, kann die Förderdauer bis zu 36
-Monate betragen, wenn die Förderung bis zum 31. Dezember 2023 begonnen
+das 55. Lebensjahr vollendet haben, kann die Förderdauer bis zu 36
+Monate betragen, wenn die Förderung bis zum 31. Dezember 2028 begonnen
 hat.
 
 
@@ -3736,11 +4032,7 @@ Nummer 1 haben in der Schlechtwetterzeit Anspruch auf Kurzarbeitergeld
 in Form des Saison-Kurzarbeitergeldes.
 
 
-#### Fünfter Unterabschnitt - Anordnungsermächtigung
-
-
-
-##### § 96 Erheblicher Arbeitsausfall
+###### § 96 Erheblicher Arbeitsausfall
 
 (1) Ein Arbeitsausfall ist erheblich, wenn
 
@@ -3830,7 +4122,7 @@ Arbeitszeitschwankungen nicht mehr ausgeglichen werden kann, als nicht
 vermeidbar.
 
 
-##### § 97 Betriebliche Voraussetzungen
+###### § 97 Betriebliche Voraussetzungen
 
 Die betrieblichen Voraussetzungen sind erfüllt, wenn in dem Betrieb
 mindestens eine Arbeitnehmerin oder ein Arbeitnehmer beschäftigt ist.
@@ -3838,7 +4130,7 @@ Betrieb im Sinne der Vorschriften über das Kurzarbeitergeld ist auch
 eine Betriebsabteilung.
 
 
-##### § 98 Persönliche Voraussetzungen
+###### § 98 Persönliche Voraussetzungen
 
 (1) Die persönlichen Voraussetzungen sind erfüllt, wenn
 
@@ -3878,9 +4170,9 @@ Arbeitsausfall bestehen würde.
 Arbeitnehmerinnen und Arbeitnehmern
 
 1.  während der Teilnahme an einer beruflichen Weiterbildungsmaßnahme mit
-    Bezug von Arbeitslosengeld oder Übergangsgeld, wenn diese Leistung
-    nicht für eine neben der Beschäftigung durchgeführte Teilzeitmaßnahme
-    gezahlt wird,
+    Bezug von Arbeitslosengeld, Qualifizierungsgeld oder Übergangsgeld,
+    wenn diese Leistung nicht für eine neben der Beschäftigung
+    durchgeführte Teilzeitmaßnahme gezahlt wird,
 
 
 2.  während des Bezugs von Krankengeld sowie
@@ -3916,7 +4208,7 @@ Verhalten einen wichtigen Grund zu haben, sind die Vorschriften über
 die Sperrzeit beim Arbeitslosengeld entsprechend anzuwenden.
 
 
-##### § 99 Anzeige des Arbeitsausfalls
+###### § 99 Anzeige des Arbeitsausfalls
 
 (1) Der Arbeitsausfall ist bei der Agentur für Arbeit, in deren Bezirk
 der Betrieb seinen Sitz hat, schriftlich oder elektronisch anzuzeigen.
@@ -3940,7 +4232,7 @@ Arbeitsausfall vorliegt und die betrieblichen Voraussetzungen erfüllt
 sind.
 
 
-##### § 100 Kurzarbeitergeld bei Arbeitskämpfen
+###### § 100 Kurzarbeitergeld bei Arbeitskämpfen
 
 (1) § 160 über das Ruhen des Anspruchs auf Arbeitslosengeld bei
 Arbeitskämpfen gilt entsprechend für den Anspruch auf Kurzarbeitergeld
@@ -4741,11 +5033,12 @@ Die allgemeinen Leistungen umfassen
 
 
 2.  Leistungen zur Förderung der Berufsvorbereitung und Berufsausbildung
-    einschließlich der Berufsausbildungsbeihilfe und der Assistierten
-    Ausbildung,
+    einschließlich der Berufsausbildungsbeihilfe und des
+    Berufsorientierungspraktikums,
 
 
-3.  Leistungen zur Förderung der beruflichen Weiterbildung,
+3.  Leistungen zur Förderung der beruflichen Weiterbildung mit Ausnahme
+    der Leistungen nach den §§ 82 und 82a,
 
 
 4.  Leistungen zur Förderung der Aufnahme einer selbständigen Tätigkeit.
@@ -5470,11 +5763,11 @@ er bisher ausgeübt hat.
 (1) Die oder der Arbeitslose hat sich elektronisch im Fachportal der
 Bundesagentur oder persönlich bei der zuständigen Agentur für Arbeit
 arbeitslos zu melden. Das in Satz 1 genannte elektronische Verfahren
-muss die Voraussetzungen des § 36a Absatz 2 Satz 4 Nummer 1 in
-Verbindung mit Satz 5 erster Halbsatz des Ersten Buches erfüllen. Eine
-Meldung ist auch zulässig, wenn die Arbeitslosigkeit noch nicht
-eingetreten, der Eintritt der Arbeitslosigkeit aber innerhalb der
-nächsten drei Monate zu erwarten ist.
+muss die Voraussetzungen des § 36a Absatz 2a Nummer 1 Buchstabe a des
+Ersten Buches erfüllen. Eine Meldung ist auch zulässig, wenn die
+Arbeitslosigkeit noch nicht eingetreten, der Eintritt der
+Arbeitslosigkeit aber innerhalb der nächsten drei Monate zu erwarten
+ist.
 
 (2) Ist die zuständige Agentur für Arbeit am ersten Tag der
 Beschäftigungslosigkeit der oder des Arbeitslosen nicht dienstbereit,
@@ -5998,10 +6291,27 @@ nicht zugeflossen sind.
     außerbetrieblichen Einrichtung durchgeführt wurde (§ 25 Absatz 1 Satz
     2 Nummer 1), die erzielte Ausbildungsvergütung; wurde keine
     Ausbildungsvergütung erzielt, der nach § 17 Absatz 2 des
-    Berufsbildungsgesetzes als Mindestvergütung maßgebliche Betrag.
+    Berufsbildungsgesetzes als Mindestvergütung maßgebliche Betrag,
+
+
+4.  für Zeiten, in denen Arbeitslose Qualifizierungsgeld bezogen haben,
+    das Arbeitsentgelt, das Arbeitslose ohne den weiterbildungsbedingten
+    Arbeitsausfall und ohne Mehrarbeit erzielt hätten; dies gilt auch,
+    wenn die Entscheidung über den Anspruch auf Qualifizierungsgeld
+    rückwirkend aufgehoben wird oder die Leistung zurückgefordert oder
+    zurückgezahlt worden ist.
 
 
 
+
+(3a) War die oder der Arbeitslose innerhalb des auf zwei Jahre
+erweiterten Bemessungsrahmens in einer berufsvorbereitenden
+Bildungsmaßnahme versicherungspflichtig nach § 26 Absatz 1 Nummer 1
+und kann ein Bemessungszeitraum von 150 Tagen mit Anspruch auf
+Arbeitsentgelt nicht festgestellt werden, ist Bemessungsentgelt ein
+Dreißigstel des Betrages, der bei Entstehung des Anspruchs als
+Mindestausbildungsvergütung nach § 17 Absatz 2 Satz 1 Nummer 1 des
+Berufsbildungsgesetzes maßgeblich ist; insoweit gilt § 152 nicht.
 
 (4) Haben Arbeitslose innerhalb der letzten zwei Jahre vor der
 Entstehung des Anspruchs Arbeitslosengeld bezogen, ist
@@ -6085,7 +6395,7 @@ Bemessungsentgelt. Abzüge sind
     auf Grund des § 51 Absatz 4 Nummer 1a des Einkommensteuergesetzes
     bekannt gegebenen Programmablaufplan bei Berücksichtigung der
     Vorsorgepauschale nach § 39b Absatz 2 Satz 5 Nummer 3 Buchstabe a bis
-    c des Einkommensteuergesetzes zu Beginn des Jahres, in dem der
+    c und e des Einkommensteuergesetzes zu Beginn des Jahres, in dem der
     Anspruch entstanden ist, ergibt und
 
 
@@ -6107,8 +6417,9 @@ Bei der Berechnung der Abzüge nach Satz 2 Nummer 2 und 3 sind
 Für die Feststellung der Lohnsteuer wird die Vorsorgepauschale mit
 folgenden Maßgaben berücksichtigt:
 
-1.  für Beiträge zur Rentenversicherung als Beitragsbemessungsgrenze die
-    für das Bundesgebiet West maßgebliche Beitragsbemessungsgrenze,
+1.  für Beiträge zur Rentenversicherung und zur Arbeitsförderung als
+    Beitragsbemessungsgrenze die für das Bundesgebiet West maßgebliche
+    Beitragsbemessungsgrenze,
 
 
 2.  für Beiträge zur Krankenversicherung der ermäßigte Beitragssatz nach §
@@ -6220,10 +6531,10 @@ ein Anspruch auf eine der folgenden Leistungen zuerkannt ist:
 1.  Berufsausbildungsbeihilfe für Arbeitslose,
 
 
-2.  Krankengeld, Versorgungskrankengeld, Verletztengeld, Mutterschaftsgeld
-    oder Übergangsgeld nach diesem oder einem anderen Gesetz, dem eine
-    Leistung zur Teilhabe zugrunde liegt, wegen der keine ganztägige
-    Erwerbstätigkeit ausgeübt wird,
+2.  Krankengeld, Krankengeld der Sozialen Entschädigung, Verletztengeld,
+    Mutterschaftsgeld oder Übergangsgeld nach diesem oder einem anderen
+    Gesetz, dem eine Leistung zur Teilhabe zugrunde liegt, wegen der keine
+    ganztägige Erwerbstätigkeit ausgeübt wird,
 
 
 3.  Rente wegen voller Erwerbsminderung aus der gesetzlichen
@@ -8101,13 +8412,14 @@ Arbeitnehmerinnen und Arbeitnehmern Weisungen erteilen.
 ###### § 288a Untersagung der Berufsberatung
 
 (1) Die Agentur für Arbeit hat einer natürlichen oder juristischen
-Person oder Personengesellschaft, die Berufsberatung betreibt
-(Berufsberatende), die Ausübung dieser Tätigkeit ganz oder teilweise
-zu untersagen, sofern dies zum Schutz der Ratsuchenden erforderlich
-ist. Bei einer juristischen Person oder Personengesellschaft kann auch
-einer von ihr für die Leitung des Betriebes bestellten Person die
-Ausübung der Tätigkeit ganz oder teilweise untersagt werden, sofern
-dies zum Schutz der Ratsuchenden erforderlich ist.
+Person oder rechtsfähigen Personengesellschaft, die Berufsberatung
+betreibt (Berufsberatende), die Ausübung dieser Tätigkeit ganz oder
+teilweise zu untersagen, sofern dies zum Schutz der Ratsuchenden
+erforderlich ist. Bei einer juristischen Person oder rechtsfähigen
+Personengesellschaft kann auch einer von ihr für die Leitung des
+Betriebes bestellten Person die Ausübung der Tätigkeit ganz oder
+teilweise untersagt werden, sofern dies zum Schutz der Ratsuchenden
+erforderlich ist.
 
 (2) Im Untersagungsverfahren hat die betreffende Person auf Verlangen
 der Agentur für Arbeit
@@ -8445,34 +8757,55 @@ oder er sich bei der nunmehr zuständigen Agentur für Arbeit
 unverzüglich zu melden.
 
 
-#### Zweiter Unterabschnitt - Anzeige- und Bescheinigungspflichten
+#### Zweiter Unterabschnitt - Anzeige-, Nachweis- und Bescheinigungspflichten
 
 
 
-##### § 311 Anzeige- und Bescheinigungspflicht bei Arbeitsunfähigkeit
+##### § 311 Anzeige- und Nachweispflichten bei Arbeitsunfähigkeit und stationärer Behandlung
 
-Wer Arbeitslosengeld oder Übergangsgeld beantragt hat oder bezieht,
-ist verpflichtet, der Agentur für Arbeit
+(1) Wer Anspruch auf Arbeitslosengeld erhebt, ist verpflichtet,
 
-1.  eine eingetretene Arbeitsunfähigkeit und deren voraussichtliche Dauer
-    unverzüglich anzuzeigen und
+1.  eine Arbeitsunfähigkeit und deren voraussichtliche Dauer
 
-
-2.  spätestens vor Ablauf des dritten Kalendertages nach Eintritt der
-    Arbeitsunfähigkeit eine ärztliche Bescheinigung über die
-    Arbeitsunfähigkeit und deren voraussichtliche Dauer vorzulegen.
+    a)  unverzüglich der Agentur für Arbeit anzuzeigen, ärztlich feststellen
+        und sich eine ärztliche Bescheinigung aushändigen zu lassen und
 
 
+    b)  spätestens vor Ablauf des dritten Kalendertages nach Eintritt der
+        Arbeitsunfähigkeit der Agentur für Arbeit durch eine ärztliche
+        Bescheinigung nachzuweisen;
 
-Die Agentur für Arbeit ist berechtigt, die Vorlage der ärztlichen
-Bescheinigung früher zu verlangen. Dauert die Arbeitsunfähigkeit
-länger als in der Bescheinigung angegeben, so ist der Agentur für
-Arbeit eine neue ärztliche Bescheinigung vorzulegen. Die
-Bescheinigungen müssen einen Vermerk der behandelnden Ärztin oder des
-behandelnden Arztes darüber enthalten, daß dem Träger der
-Krankenversicherung unverzüglich eine Bescheinigung über die
-Arbeitsunfähigkeit mit Angaben über den Befund und die
-voraussichtliche Dauer der Arbeitsunfähigkeit übersandt wird.
+
+
+
+
+2.  eine stationäre Behandlung auf Kosten der Krankenkasse unverzüglich
+    bei der Agentur für Arbeit anzuzeigen und deren Beginn und Ende
+    nachzuweisen.
+
+
+
+Dauert die Arbeitsunfähigkeit länger als in der Bescheinigung nach
+Satz 1 Nummer 1 angegeben, gilt Satz 1 Nummer 1 Buchstabe a
+entsprechend. Das Fortbestehen der Arbeitsunfähigkeit und die
+voraussichtliche Dauer sind der Agentur für Arbeit durch eine neue
+ärztliche Bescheinigung nachzuweisen.
+
+(2) Der Nachweis durch die ärztliche Bescheinigung nach Absatz 1 Satz
+1 Nummer 1 Buchstabe b und Satz 3 entfällt, wenn die in § 295 Absatz 1
+Satz 1 Nummer 1 des Fünften Buches genannten Arbeitsunfähigkeitsdaten
+nach § 295 Absatz 1 Satz 10 des Fünften Buches elektronisch an die
+Krankenkasse zu übermitteln sind. Satz 1 gilt entsprechend, wenn die
+Arbeitsunfähigkeitsdaten nach § 201 Absatz 2 des Siebten Buches
+elektronisch an die Krankenkassen zu übermitteln sind. Der Nachweis
+nach Absatz 1 Satz 1 Nummer 2 entfällt, wenn die in § 301 Absatz 1
+Satz 1 Nummer 3 und 7 des Fünften Buches genannten Daten zur
+stationären Behandlung nach § 301 Absatz 1 des Fünften Buches
+elektronisch an die Krankenkasse zu übermitteln sind.
+
+(3) Die Absätze 1 und 2 gelten entsprechend auch für Teilnehmende an
+Maßnahmen der beruflichen Weiterbildung oder einer Maßnahme nach § 45,
+die keinen Anspruch auf Arbeitslosengeld erheben.
 
 
 ##### § 312 Arbeitsbescheinigung
@@ -8496,9 +8829,13 @@ insbesondere
 
 
 
-es gilt das Bescheinigungsverfahren nach § 313a Absatz 1. Für
-Zwischenmeisterinnen, Zwischenmeister und andere Auftraggeber von
-Heimarbeiterinnen und Heimarbeitern gilt Satz 1 entsprechend.
+es gilt das Bescheinigungsverfahren nach § 313a Absatz 1. Für die
+Bescheinigung von Tatsachen, die für die Entscheidung über ein
+Versicherungspflichtverhältnis auf Antrag oder einen Anspruch auf
+Teilarbeitslosengeld erheblich sein können, gilt Satz 1 entsprechend.
+Für Zwischenmeisterinnen, Zwischenmeister und andere Auftraggeber von
+Heimarbeiterinnen und Heimarbeitern gelten die Sätze 1 und 2
+entsprechend.
 
 (2) Macht der Bescheinigungspflichtige nach Absatz 1 geltend, die
 Arbeitslosigkeit sei die Folge eines Arbeitskampfes, so hat er dies
@@ -8557,9 +8894,9 @@ verpflichtet, die Bescheinigung nach Absatz 1 unverzüglich nach
 Aufnahme der Beschäftigung oder der selbständigen Tätigkeit zu
 verlangen.
 
-(3) Die Absätze 1 und 2 gelten für Personen, die Kurzarbeitergeld
-beziehen oder für die Kurzarbeitergeld beantragt worden ist,
-entsprechend.
+(3) Die Absätze 1 und 2 gelten für Personen, die Kurzarbeitergeld oder
+Qualifizierungsgeld beziehen oder für die Kurzarbeitergeld oder
+Qualifizierungsgeld beantragt worden ist, entsprechend.
 
 
 ##### § 313a Bescheinigungsverfahren
@@ -8800,6 +9137,12 @@ oder den Arbeitnehmer zuständigen Agentur für Arbeit hat er den
 erhöhten Leistungssatz auch anzuwenden, wenn für ein Kind ein
 Kinderfreibetrag nicht als Lohnsteuerabzugsmerkmal gebildet ist.
 
+(1a) Der Arbeitgeber hat der Agentur für Arbeit mit dem Antrag nach §
+323 Absatz 3 und auf Verlangen die Voraussetzungen für die Erbringung
+von Qualifizierungsgeld nachzuweisen. Er hat diese Leistung kostenlos
+zu errechnen und nach Bewilligung durch die Agentur für Arbeit
+auszuzahlen.
+
 (2) Die Insolvenzverwalterin oder der Insolvenzverwalter hat auf
 Verlangen der Agentur für Arbeit das Insolvenzgeld zu errechnen und
 auszuzahlen, wenn ihr oder ihm dafür geeignete Arbeitnehmerinnen oder
@@ -8863,7 +9206,7 @@ Wer vorsätzlich oder fahrlässig
     Abs. 3 und 4a nicht erfüllt,
 
 
-3a. als Arbeitgeber Leistungen zur Förderung nach § 82 Absatz 6 Satz 3
+3a. als Arbeitgeber Leistungen zur Förderung nach § 82 Absatz 5 Satz 3
     nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig an die
     Arbeitnehmerinnen und Arbeitnehmer und den Träger der Maßnahme
     weiterleitet,
@@ -8872,6 +9215,10 @@ Wer vorsätzlich oder fahrlässig
 4.  als Insolvenzverwalterin oder Insolvenzverwalter die Verpflichtung zur
     Errechnung und Auszahlung des Insolvenzgeldes nach § 320 Abs. 2 Satz 1
     nicht erfüllt,
+
+
+5.  als Arbeitgeber seine Pflichten nach § 320 Absatz 1a beim
+    Qualifizierungsgeld nicht erfüllt,
 
 
 
@@ -8916,7 +9263,7 @@ Arbeitslosengeld gilt mit der Arbeitslosmeldung als beantragt, wenn
 die oder der Arbeitslose keine andere Erklärung abgibt. Leistungen der
 aktiven Arbeitsförderung können auch von Amts wegen erbracht werden,
 wenn die Berechtigten zustimmen. Die Zustimmung gilt insoweit als
-Antrag.
+Antrag. Die Sätze 3 und 4 gelten nicht für das Qualifizierungsgeld.
 
 (2) Kurzarbeitergeld, Leistungen zur Förderung der Teilnahme an
 Transfermaßnahmen und ergänzende Leistungen nach § 102 sind vom
@@ -8939,6 +9286,20 @@ Erstattung der Sozialversicherungsbeiträge für die Bezieherinnen und
 Bezieher von Kurzarbeitergeld oder ergänzende Leistungen nach § 102
 elektronisch gestellt wird, kann das Verfahren nach § 108 Absatz 1 des
 Vierten Buches genutzt werden.
+
+(3) Qualifizierungsgeld ist vom Arbeitgeber schriftlich zu beantragen.
+Dem Antrag ist eine Zustimmung der Arbeitnehmerinnen und Arbeitnehmer,
+die Qualifizierungsgeld erhalten sollen, zur Teilnahme an der Maßnahme
+beizufügen. Der Arbeitgeber hat in Folgeanträgen darzulegen, wie viele
+der für die Erfüllung der betrieblichen Voraussetzungen betroffenen
+Arbeitnehmerinnen und Arbeitnehmer auf Grundlage der
+Betriebsvereinbarung, des Tarifvertrags oder der schriftlichen
+Erklärung des Arbeitgebers eine Maßnahme im Rahmen von § 82a
+abgeschlossen haben und ob diese noch im Betrieb beschäftigt sind.
+Sind zum Zeitpunkt eines Folgeantrags seit dem letzten Nachweis des
+nach § 82a Absatz 2 Satz 1 Nummer 1 und Satz 2 zu belegenden Anteils
+der betroffenen Arbeitnehmerinnen und Arbeitnehmer weniger als drei
+Jahre vergangen, ist kein erneuter Nachweis hierüber erforderlich.
 
 
 #### § 324 Antrag vor Leistung
@@ -8990,6 +9351,9 @@ werden.
 innerhalb einer Ausschlussfrist von drei Monaten nach Ende der
 Maßnahme zu beantragen.
 
+(6) Qualifizierungsgeld wird nicht rückwirkend geleistet. Der Antrag
+sollte spätestens drei Monate vor Beginn der Maßnahme gestellt werden.
+
 
 #### § 326 Ausschlußfrist für Gesamtabrechnung
 
@@ -9013,15 +9377,16 @@ sind.
 #### § 327 Grundsatz
 
 (1) Für Leistungen an Arbeitnehmerinnen und Arbeitnehmer, mit Ausnahme
-des Kurzarbeitergeldes, des Wintergeldes, des Insolvenzgeldes und der
-Leistungen zur Förderung der Teilnahme an Transfermaßnahmen, ist die
-Agentur für Arbeit zuständig, in deren Bezirk die Arbeitnehmerin oder
-der Arbeitnehmer bei Eintritt der leistungsbegründenden Tatbestände
-ihren oder seinen Wohnsitz hat. Solange die Arbeitnehmerin oder der
-Arbeitnehmer sich nicht an ihrem oder seinem Wohnsitz aufhält, ist die
-Agentur für Arbeit zuständig, in deren Bezirk die Arbeitnehmerin oder
-der Arbeitnehmer bei Eintritt der leistungsbegründenden Tatbestände
-ihren oder seinen gewöhnlichen Aufenthalt hat.
+des Kurzarbeitergeldes, des Wintergeldes, des Insolvenzgeldes, der
+Leistungen zur Förderung der Teilnahme an Transfermaßnahmen und des
+Qualifizierungsgeldes, ist die Agentur für Arbeit zuständig, in deren
+Bezirk die Arbeitnehmerin oder der Arbeitnehmer bei Eintritt der
+leistungsbegründenden Tatbestände ihren oder seinen Wohnsitz hat.
+Solange die Arbeitnehmerin oder der Arbeitnehmer sich nicht an ihrem
+oder seinem Wohnsitz aufhält, ist die Agentur für Arbeit zuständig, in
+deren Bezirk die Arbeitnehmerin oder der Arbeitnehmer bei Eintritt der
+leistungsbegründenden Tatbestände ihren oder seinen gewöhnlichen
+Aufenthalt hat.
 
 (2) Auf Antrag der oder des Arbeitslosen hat die Agentur für Arbeit
 eine andere Agentur für Arbeit für zuständig zu erklären, wenn nach
@@ -9037,8 +9402,9 @@ Bezirk die für den Arbeitgeber zuständige Lohnabrechnungsstelle liegt.
 Für Insolvenzgeld ist, wenn der Arbeitgeber im Inland keine
 Lohnabrechnungsstelle hat, die Agentur für Arbeit zuständig, in deren
 Bezirk das Insolvenzgericht seinen Sitz hat. Für Leistungen zur
-Förderung der Teilnahme an Transfermaßnahmen ist die Agentur für
-Arbeit zuständig, in deren Bezirk der Betrieb des Arbeitgebers liegt.
+Förderung der Teilnahme an Transfermaßnahmen und für
+Qualifizierungsgeld ist die Agentur für Arbeit zuständig, in deren
+Bezirk der Betrieb des Arbeitgebers liegt.
 
 (4) Für Leistungen an Arbeitgeber, mit Ausnahme der Erstattung von
 Beiträgen zur Sozialversicherung für Personen, die Saison-
@@ -9171,9 +9537,9 @@ Lebensunterhalts, insbesondere auf
 1.  Renten der Sozialversicherung,
 
 
-2.  Renten nach dem Bundesversorgungsgesetz sowie Renten, die nach anderen
-    Gesetzen in entsprechender Anwendung des Bundesversorgungsgesetzes
-    gewährt werden,
+2.  Leistungen des Berufsschadensausgleichs nach Kapitel 10 des
+    Vierzehnten Buches sowie nach Gesetzen, die eine entsprechende
+    Anwendung des Vierzehnten Buches vorsehen,
 
 
 3.  Renten nach dem Gesetz zur Regelung der Rechtsverhältnisse der unter
@@ -9544,8 +9910,8 @@ Als beitragspflichtige Einnahme gilt bei Personen,
     Geld- und Sachbezüge,
 
 
-5.  die als Bezieherinnen oder Bezieher von Krankengeld,
-    Versorgungskrankengeld, Verletztengeld oder Übergangsgeld
+5.  die als Bezieherinnen oder Bezieher von Krankengeld, Krankengeld der
+    Sozialen Entschädigung, Verletztengeld oder Übergangsgeld
     versicherungspflichtig sind, 80 Prozent des der Leistung zugrunde
     liegenden Arbeitsentgelts oder Arbeitseinkommens, wobei 80 Prozent des
     beitragspflichtigen Arbeitsentgelts aus einem versicherungspflichtigen
@@ -9560,11 +9926,12 @@ Als beitragspflichtige Einnahme gilt bei Personen,
     gezahlt, gilt Nummer 5,
 
 
-5b. die Krankengeld nach § 45 Absatz 1 des Fünften Buches oder
-    Verletztengeld nach § 45 Absatz 4 des Siebten Buches in Verbindung mit
-    § 45 Absatz 1 des Fünften Buches beziehen, 80 Prozent des während der
-    Freistellung ausgefallenen, laufenden Arbeitsentgelts oder des der
-    Leistung zugrunde liegenden Arbeitseinkommens,
+5b. die Krankengeld nach § 45 Absatz 1 oder Absatz 1a des Fünften Buches
+    oder Verletztengeld nach § 45 Absatz 4 des Siebten Buches in
+    Verbindung mit § 45 Absatz 1 oder Absatz 1a des Fünften Buches
+    beziehen, 80 Prozent des während der Freistellung ausgefallenen,
+    laufenden Arbeitsentgelts oder des der Leistung zugrunde liegenden
+    Arbeitseinkommens,
 
 
 6.  die als Bezieherinnen oder Bezieher von Krankentagegeld
@@ -9776,7 +10143,7 @@ Die Beiträge werden getragen
     tragen die Beiträge auch allein, soweit sie folgende Leistungen
     zahlen:
 
-    a)  Versorgungskrankengeld oder Übergangsgeld,
+    a)  Krankengeld der Sozialen Entschädigung oder Übergangsgeld,
 
 
     b)  Krankengeld oder Verletztengeld in Höhe der Entgeltersatzleistungen
@@ -9938,12 +10305,7 @@ die Zahlung der Beiträge für Gefangene gelten die Vorschriften für den
 Einzug der Beiträge, die an die Einzugsstellen zu zahlen sind,
 entsprechend, soweit die Besonderheiten der Beiträge nicht
 entgegenstehen; die Bundesagentur ist zur Prüfung der Beitragszahlung
-berechtigt. Die Zahlung der Beiträge nach Absatz 4a erfolgt in Form
-eines Gesamtbeitrags für das Kalenderjahr, in dem die Pflegetätigkeit
-geleistet oder das Pflegeunterstützungsgeld in Anspruch genommen wurde
-(Beitragsjahr). Abweichend von § 23 Abs. 1 Satz 4 des Vierten Buches
-ist der Gesamtbeitrag spätestens im März des Jahres fällig, das dem
-Beitragsjahr folgt.
+berechtigt.
 
 
 ##### § 349a Beitragstragung und Beitragszahlung bei einem Versicherungspflichtverhältnis auf Antrag
@@ -10164,10 +10526,10 @@ die Beiträge zur gesetzlichen Rentenversicherung für die im Betrieb
 beschäftigten Arbeitnehmerinnen, Arbeitnehmer und Auszubildenden
 bemessen werden oder im Fall einer Versicherungspflicht in der
 gesetzlichen Rentenversicherung zu bemessen wären. Für die Zeit des
-Bezugs von Kurzarbeitergeld, Saisonkurzarbeitergeld oder
-Transferkurzarbeitergeld bemessen sich die Umlagebeträge nach dem
-tatsächlich erzielten Arbeitsentgelt bis zur Beitragsbemessungsgrenze
-der gesetzlichen Rentenversicherung.
+Bezugs von Kurzarbeitergeld, Saisonkurzarbeitergeld,
+Transferkurzarbeitergeld oder Qualifizierungsgeld bemessen sich die
+Umlagebeträge nach dem tatsächlich erzielten Arbeitsentgelt bis zur
+Beitragsbemessungsgrenze der gesetzlichen Rentenversicherung.
 
 (3) Zu den durch die Umlage zu deckenden Aufwendungen gehören
 
@@ -11452,7 +11814,7 @@ weiß, dass diese oder dieser zur Erfüllung dieses Auftrags
     oder den genannten Aufwendungsersatz erstatten lässt,
 
 
-1a. entgegen § 82 Absatz 6 Satz 3 einen Nachweis nicht, nicht richtig,
+1a. entgegen § 82 Absatz 5 Satz 3 einen Nachweis nicht, nicht richtig,
     nicht vollständig oder nicht rechtzeitig erbringt,
 
 
@@ -11526,8 +11888,9 @@ weiß, dass diese oder dieser zur Erfüllung dieses Auftrags
 
 19. entgegen
 
-    a)  § 312 Absatz 1 Satz 1, auch in Verbindung mit Satz 2, oder Absatz 3
-        oder § 313 Absatz 1, auch in Verbindung mit Absatz 3,
+    a)  § 312 Absatz 1 Satz 1, auch in Verbindung mit Satz 2, jeweils auch in
+        Verbindung mit Satz 3, § 312 Absatz 1 oder § 313 Absatz 1, auch in
+        Verbindung mit Absatz 3,
 
 
     b)  § 312a Absatz 1 Satz 1, auch in Verbindung mit Satz 2, oder § 314
@@ -11869,9 +12232,14 @@ Tage fortgezahlt; für das Kalenderjahr 2023 besteht der Anspruch auf
 Leistungsfortzahlung für jedes Kind längstens für 30 Tage, bei
 alleinerziehenden Arbeitslosen längstens für 60 Tage; Arbeitslosengeld
 wird insgesamt für nicht mehr als 65 Tage, für alleinerziehende
-Arbeitslose für nicht mehr als 130 Tage fortgezahlt. Satz 1 ist nur
-anzuwenden, wenn die oder der Arbeitslose dies verlangt und die
-übrigen Voraussetzungen vorliegen.
+Arbeitslose für nicht mehr als 130 Tage fortgezahlt; für die
+Kalenderjahre 2024 und 2025 besteht der Anspruch auf
+Leistungsfortzahlung für jedes Kind längstens für jeweils 15 Tage, bei
+alleinerziehenden Arbeitslosen längstens für jeweils 30 Tage;
+Arbeitslosengeld wird insgesamt für nicht mehr als jeweils 35 Tage,
+für alleinerziehende Arbeitslose für nicht mehr als jeweils 70 Tage
+fortgezahlt. Satz 1 ist nur anzuwenden, wenn die oder der Arbeitslose
+dies verlangt und die übrigen Voraussetzungen vorliegen.
 
 (4) Personen, die im Monat Juli 2022 für mindestens einen Tag Anspruch
 auf Arbeitslosengeld haben, erhalten eine Einmalzahlung in Höhe von
@@ -12562,6 +12930,20 @@ anzuwenden, wenn das Versicherungsverhältnis oder die
 Nebenerwerbstätigkeit vor dem 1. Januar 2023 geendet hat.
 
 
+#### § 452 Gesetz zur Regelung des Sozialen Entschädigungsrechts
+
+(1) Bei der Anwendung von § 26 Absatz 2 Nummer 1, § 156 Absatz 1 Satz
+1 Nummer 2, § 345 Nummer 5 und § 347 Nummer 5 Buchstabe a gilt das
+Versorgungskrankengeld als Krankengeld der Sozialen Entschädigung.
+
+(2) Für Personen, die Leistungen nach dem Soldatenversorgungsgesetz in
+Verbindung mit dem Bundesversorgungsgesetz erhalten, gelten § 9 Absatz
+3 Satz 1 Nummer 1, § 26 Absatz 2 Nummer 1, § 156 Absatz 1 Satz 1
+Nummer 2, § 332 Absatz 1 Satz 1 Nummer 2, § 345 Nummer 5 und § 347
+Nummer 5 Buchstabe a in der bis zum 31. Dezember 2023 geltenden
+Fassung weiter.
+
+
 #### § 453 Gesetz zur Umsetzung der Richtlinie (EU) 2019/882 des Europäischen Parlaments und des Rates über die Barrierefreiheitsanforderungen für Produkte und Dienstleistungen und zur Änderung anderer Gesetze
 
 § 336 in der bis zum 31. März 2022 geltenden Fassung ist weiter
@@ -12616,4 +12998,17 @@ Juli 2023 begonnen worden ist.
 geltenden Fassung ist auch anzuwenden, wenn die berufliche
 Weiterbildung vor dem 1. Juli 2023 begonnen und nach dem 30. Juni 2023
 beendet worden ist.
+
+
+#### § 457 Achtes Gesetz zur Änderung des Vierten Buches Sozialgesetzbuch und anderer Gesetze
+
+§ 349 Absatz 5 Satz 2 und 3 in der bis zum 31. Dezember 2023 geltenden
+Fassung gilt für Zeiten eines Versicherungspflichtverhältnisses nach §
+26 Absatz 2 Nummer 2b und § 26 Absatz 2b bis zum 31. Dezember 2023.
+
+
+#### § 458 Gesetz zur Stärkung der Aus- und Weiterbildungsförderung
+
+§ 73a findet keine Anwendung auf Berufsausbildungen, die vor dem 1.
+April 2024 begonnen haben.
 

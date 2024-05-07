@@ -15,7 +15,7 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2007, 2386
 
-Stand: Zuletzt geändert Art. 8 V v. 30.10.2023 I Nr. 290
+Stand: Zuletzt geändert Art. 1 V v. 12.4.2024 I Nr. 125
 
 ## Kapitel 1 - Passmuster
 
@@ -40,17 +40,7 @@ den Wohnort vorgesehenen Feld anzubringen.
 dem in der Anlage 1d abgedruckten Muster verwendet werden.
 
 
-### § 2 Muster des Kinderreisepasses; Änderung von Daten
-
-(1) Der Kinderreisepass der Bundesrepublik Deutschland ist nach dem in
-der Anlage 2 abgedruckten Muster auszustellen. Für die einzutragenden
-Daten gelten die formalen Anforderungen der Anlage 11.
-
-(2) Zur Eintragung amtlicher Vermerke kann ein Änderungsaufkleber nach
-dem in der Anlage 1d abgedruckten Muster verwendet werden.
-
-
-### § 3 Muster des vorläufigen Reisepasses; Änderung von Daten
+### § 2 Muster des vorläufigen Reisepasses; Änderung von Daten
 
 (1) Der vorläufige Reisepass der Bundesrepublik Deutschland ist nach
 dem in der Anlage 3 abgedruckten Muster auszustellen. Für die
@@ -60,7 +50,7 @@ einzutragenden Daten gelten die formalen Anforderungen der Anlage 11.
 dem in der Anlage 1d abgedruckten Muster verwendet werden.
 
 
-### § 4 Muster des amtlichen Passes; Änderung von Daten
+### § 3 Muster des amtlichen Passes; Änderung von Daten
 
 (1) Der Dienstpass der Bundesrepublik Deutschland ist nach dem in der
 Anlage 4 abgedruckten Muster auszustellen.
@@ -80,7 +70,7 @@ kann ein Änderungsaufkleber nach dem in der Anlage 7a abgedruckten
 Muster verwendet werden.
 
 
-### § 5 Lichtbild
+### § 4 Lichtbild
 
 Bei der Beantragung eines Passes ist vom Passbewerber ein aktuelles
 Lichtbild in der Größe von 45 Millimeter x 35 Millimeter im Hochformat
@@ -92,6 +82,10 @@ Kopfbedeckung insbesondere aus religiösen Gründen, von den übrigen
 Anforderungen aus medizinischen Gründen, die nicht nur vorübergehender
 Art sind, Ausnahmen zulassen. Weitere zulässige Abweichungen bei
 Lichtbildern von Kindern regelt Anlage 8.
+
+
+### § 5 (weggefallen)
+
 
 
 ## Kapitel 2 - Befreiung von der Passpflicht und Passersatzpapiere
@@ -207,7 +201,7 @@ Deutschland berechtigt (§ 7 Abs. 1 Nr. 8), ist nach dem in der Anlage
 ### § 9 Lichtbilder für den Passersatz
 
 Sofern auf einem Passersatz die Anbringung eines Lichtbildes
-vorgesehen ist, gilt § 5 entsprechend.
+vorgesehen ist, gilt § 4 entsprechend.
 
 
 ### § 10 Gültigkeitsdauer des Passersatzes
@@ -314,7 +308,7 @@ an der Belassung des amtlichen Passes vorliegt.
     *   eines Reisepasses nach Anlage 1 an Personen, die das 24. Lebensjahr
         vollendet haben,
 
-    *   60 Euro,
+    *   70 Euro,
 
 
 *    *
@@ -355,35 +349,27 @@ an der Belassung des amtlichen Passes vorliegt.
 *    *
     *   f)
 
-    *   eines Kinderreisepasses
-
-    *   13 Euro,
-
-
-*    *
-    *   g)
-
     *   eines Ausweises für Binnenschiffer und deren Familienangehörige für
-        die Flussschifffahrt auf der Donau (§ 7 Abs. 1 Nr. 2)
+        die Flussschifffahrt auf der Donau (§ 7 Absatz 1 Nummer 2)
 
     *   16 Euro,
 
 
 *    *
-    *   h)
+    *   g)
 
     *   eines Ausweises, der von den Behörden und Dienststellen ausgestellt
         wird, die für die polizeiliche Kontrolle des grenzüberschreitenden
-        Verkehrs zuständig sind (§ 7 Abs. 1 Nr. 7)
+        Verkehrs zuständig sind (§ 7 Absatz 1 Nummer 7)
 
     *   8 Euro,
 
 
 *    *
-    *   i)
+    *   h)
 
     *   eines Ausweises, der ausschließlich zur Einreise in die Bundesrepublik
-        Deutschland berechtigt (§ 7 Abs. 1 Nr. 8)
+        Deutschland berechtigt (§ 7 Absatz 1 Nummer 8)
 
     *   8 Euro,
 
@@ -391,22 +377,22 @@ an der Belassung des amtlichen Passes vorliegt.
 *    *   2.
 
     *   für die Änderung eines Reisepasses oder vorläufigen Reisepasses und
-        für die Verlängerung oder Änderung eines Kinderreisepasses oder eines
-        anderen unter Nummer 1 genannten Ausweises
+        für die Verlängerung oder Änderung eines anderen unter Nummer 1
+        genannten Ausweises
 
-    *   6 Euro.
+    *   6 Euro,
 
 
 
 
 (2) Die Gebühr ist zu verdoppeln
 
-1.  für eine der in Absatz 1 Nr. 1 Buchstabe e bis i und Nr. 2 genannten
-    Amtshandlungen, wenn sie auf Veranlassung des Antragstellers außerhalb
-    der behördlichen Dienstzeit vorgenommen werden;
+1.  für eine der in Absatz 1 Nummer 1 Buchstabe e bis h und Nummer 2
+    genannten Amtshandlungen, wenn sie auf Veranlassung des Antragstellers
+    außerhalb der behördlichen Dienstzeit vorgenommen werden;
 
 
-2.  für eine der in Absatz 1 Nr. 1 Buchstabe a, b, e und f und Nr. 2
+2.  für eine der in Absatz 1 Nummer 1 Buchstabe a, b, e und Nummer 2
     genannten Amtshandlungen, wenn sie auf Veranlassung des Antragstellers
     von einer nicht zuständigen Behörde vorgenommen werden.
 
@@ -416,8 +402,8 @@ an der Belassung des amtlichen Passes vorliegt.
 (3) Wird die Amtshandlung bei einer konsularischen oder diplomatischen
 Vertretung der Bundesrepublik Deutschland im Ausland vorgenommen, sind
 die Gebühren nach Absatz 1 Nummer 1 Buchstabe a und b um 31 Euro, die
-Gebühren nach Absatz 1 Nummer 1 Buchstabe e, f und i um 44 Euro und
-die Gebühren nach Absatz 1 Nummer 2 um 17 Euro anzuheben.
+Gebühren nach Absatz 1 Nummer 1 Buchstabe e und h um 44 Euro und die
+Gebühren nach Absatz 1 Nummer 2 um 17 Euro anzuheben.
 
 (4) Gebühren sind nicht zu erheben
 
@@ -425,14 +411,14 @@ die Gebühren nach Absatz 1 Nummer 2 um 17 Euro anzuheben.
 
 
 2.  für die Ausstellung oder Änderung eines Reisepasses, eines vorläufigen
-    Reisepasses oder eines anderen in Absatz 1 Nr. 1 genannten Ausweises,
-    wenn die Ausstellung von Amts wegen erfolgt oder die Änderung von Amts
-    wegen eingetragen wird;
+    Reisepasses oder eines anderen in Absatz 1 Nummer 1 genannten
+    Ausweises, wenn die Ausstellung von Amts wegen erfolgt oder die
+    Änderung von Amts wegen eingetragen wird;
 
 
 3.  für die Berichtigung der Wohnortangabe im Reisepass, im vorläufigen
-    Reisepass, im Kinderreisepass oder in einem anderen in Absatz 1 Nr. 1
-    genannten Ausweis.
+    Reisepass oder in einem anderen in Absatz 1 Nummer 1 genannten
+    Ausweis.
 
 
 
@@ -483,7 +469,7 @@ verwenden.
 
 ### Anlage 1 Passmuster Reisepass (32 Seiten)
 
-(Fundstelle: BGBl. I 2017, 163 — 172)
+(Fundstelle: BGBl. 2024 I Nr. 125)
 
 
 *    *   Reisepass (32 Seiten)
@@ -491,11 +477,9 @@ verwenden.
     *   Einband
 
 
-*    *        ![bgbl1_2017_j0162-1_0010.jpg](bgbl1_2017_j0162-1_0010.jpg)
-    *        ![bgbl1_2017_j0162-1_0020.jpg](bgbl1_2017_j0162-1_0020.jpg)
 
 
-
+![bgbl1_2024_j01250_0010.jpg](bgbl1_2024_j01250_0010.jpg)
 
 *    *   Reisepass (32 Seiten)
 
@@ -504,7 +488,7 @@ verwenden.
 
 
 
-![bgbl1_2017_j0162-1_0030.jpg](bgbl1_2017_j0162-1_0030.jpg)
+![bgbl1_2024_j01250_0020.jpg](bgbl1_2024_j01250_0020.jpg)
 
 *    *   Reisepass (32 Seiten)
 
@@ -513,7 +497,7 @@ verwenden.
 
 
 
-![bgbl1_2017_j0162-1_0040.jpg](bgbl1_2017_j0162-1_0040.jpg)
+![bgbl1_2024_j01250_0030.jpg](bgbl1_2024_j01250_0030.jpg)
 Die Seiten 1 bis 32 sowie der hintere Einband
 werden am unteren Rand mit der Seriennummer perforiert.
 
@@ -525,7 +509,7 @@ werden am unteren Rand mit der Seriennummer perforiert.
 
 
 
-![bgbl1_2017_j0162-1_0050.jpg](bgbl1_2017_j0162-1_0050.jpg)
+![bgbl1_2024_j01250_0040.jpg](bgbl1_2024_j01250_0040.jpg)
 
 *    *   Reisepass (32 Seiten)
 
@@ -534,7 +518,7 @@ werden am unteren Rand mit der Seriennummer perforiert.
 
 
 
-![bgbl1_2017_j0162-1_0060.jpg](bgbl1_2017_j0162-1_0060.jpg)
+![bgbl1_2024_j01250_0050.jpg](bgbl1_2024_j01250_0050.jpg)
 
 *    *   Reisepass (32 Seiten)
 
@@ -543,7 +527,7 @@ werden am unteren Rand mit der Seriennummer perforiert.
 
 
 
-![bgbl1_2017_j0162-1_0070.jpg](bgbl1_2017_j0162-1_0070.jpg)
+![bgbl1_2024_j01250_0060.jpg](bgbl1_2024_j01250_0060.jpg)
 
 *    *   Reisepass (32 Seiten)
 
@@ -552,7 +536,7 @@ werden am unteren Rand mit der Seriennummer perforiert.
 
 
 
-![bgbl1_2017_j0162-1_0080.jpg](bgbl1_2017_j0162-1_0080.jpg)
+![bgbl1_2024_j01250_0070.jpg](bgbl1_2024_j01250_0070.jpg)
 
 *    *   Reisepass (32 Seiten)
 
@@ -561,7 +545,7 @@ werden am unteren Rand mit der Seriennummer perforiert.
 
 
 
-![bgbl1_2017_j0162-1_0090.jpg](bgbl1_2017_j0162-1_0090.jpg)
+![bgbl1_2024_j01250_0080.jpg](bgbl1_2024_j01250_0080.jpg)
 
 *    *   Reisepass (32 Seiten)
 
@@ -570,7 +554,7 @@ werden am unteren Rand mit der Seriennummer perforiert.
 
 
 
-![bgbl1_2017_j0162-1_0100.jpg](bgbl1_2017_j0162-1_0100.jpg)
+![bgbl1_2024_j01250_0090.jpg](bgbl1_2024_j01250_0090.jpg)
 
 *    *   Reisepass (32 Seiten)
 
@@ -579,7 +563,7 @@ werden am unteren Rand mit der Seriennummer perforiert.
 
 
 
-![bgbl1_2017_j0162-1_0110.jpg](bgbl1_2017_j0162-1_0110.jpg)
+![bgbl1_2024_j01250_0100.jpg](bgbl1_2024_j01250_0100.jpg)
 
 *    *   Reisepass (32 Seiten)
 
@@ -588,7 +572,7 @@ werden am unteren Rand mit der Seriennummer perforiert.
 
 
 
-![bgbl1_2017_j0162-1_0120.jpg](bgbl1_2017_j0162-1_0120.jpg)
+![bgbl1_2024_j01250_0110.jpg](bgbl1_2024_j01250_0110.jpg)
 
 *    *   Reisepass (32 Seiten)
 
@@ -597,7 +581,7 @@ werden am unteren Rand mit der Seriennummer perforiert.
 
 
 
-![bgbl1_2017_j0162-1_0130.jpg](bgbl1_2017_j0162-1_0130.jpg)
+![bgbl1_2024_j01250_0120.jpg](bgbl1_2024_j01250_0120.jpg)
 
 *    *   Reisepass (32 Seiten)
 
@@ -606,7 +590,7 @@ werden am unteren Rand mit der Seriennummer perforiert.
 
 
 
-![bgbl1_2017_j0162-1_0140.jpg](bgbl1_2017_j0162-1_0140.jpg)
+![bgbl1_2024_j01250_0130.jpg](bgbl1_2024_j01250_0130.jpg)
 
 *    *   Reisepass (32 Seiten)
 
@@ -615,7 +599,7 @@ werden am unteren Rand mit der Seriennummer perforiert.
 
 
 
-![bgbl1_2017_j0162-1_0150.jpg](bgbl1_2017_j0162-1_0150.jpg)
+![bgbl1_2024_j01250_0140.jpg](bgbl1_2024_j01250_0140.jpg)
 
 *    *   Reisepass (32 Seiten)
 
@@ -624,7 +608,7 @@ werden am unteren Rand mit der Seriennummer perforiert.
 
 
 
-![bgbl1_2017_j0162-1_0160.jpg](bgbl1_2017_j0162-1_0160.jpg)
+![bgbl1_2024_j01250_0150.jpg](bgbl1_2024_j01250_0150.jpg)
 
 *    *   Reisepass (32 Seiten)
 
@@ -633,7 +617,7 @@ werden am unteren Rand mit der Seriennummer perforiert.
 
 
 
-![bgbl1_2017_j0162-1_0170.jpg](bgbl1_2017_j0162-1_0170.jpg)
+![bgbl1_2024_j01250_0160.jpg](bgbl1_2024_j01250_0160.jpg)
 
 *    *   Reisepass (32 Seiten)
 
@@ -642,7 +626,7 @@ werden am unteren Rand mit der Seriennummer perforiert.
 
 
 
-![bgbl1_2017_j0162-1_0180.jpg](bgbl1_2017_j0162-1_0180.jpg)
+![bgbl1_2024_j01250_0170.jpg](bgbl1_2024_j01250_0170.jpg)
 
 *    *   Reisepass (32 Seiten)
 
@@ -651,7 +635,7 @@ werden am unteren Rand mit der Seriennummer perforiert.
 
 
 
-![bgbl1_2017_j0162-1_0190.jpg](bgbl1_2017_j0162-1_0190.jpg)
+![bgbl1_2024_j01250_0180.jpg](bgbl1_2024_j01250_0180.jpg)
 
 *    *   Reisepass (32 Seiten)
 
@@ -660,11 +644,11 @@ werden am unteren Rand mit der Seriennummer perforiert.
 
 
 
-![bgbl1_2017_j0162-1_0200.jpg](bgbl1_2017_j0162-1_0200.jpg)
+![bgbl1_2024_j01250_0190.jpg](bgbl1_2024_j01250_0190.jpg)
 
 ### Anlage 1a Passmuster Reisepass (48 Seiten)
 
-(Fundstelle: BGBl. I 2017, 173 — 186)
+(Fundstelle: BGBl. 2024 I Nr. 125)
 
 
 *    *   Reisepass (48 Seiten)
@@ -672,11 +656,9 @@ werden am unteren Rand mit der Seriennummer perforiert.
     *   Einband
 
 
-*    *        ![bgbl1_2017_j0162-1_0210.jpg](bgbl1_2017_j0162-1_0210.jpg)
-    *        ![bgbl1_2017_j0162-1_0220.jpg](bgbl1_2017_j0162-1_0220.jpg)
 
 
-
+![bgbl1_2024_j01250_0200.jpg](bgbl1_2024_j01250_0200.jpg)
 
 *    *   Reisepass (48 Seiten)
 
@@ -685,7 +667,7 @@ werden am unteren Rand mit der Seriennummer perforiert.
 
 
 
-![bgbl1_2017_j0162-1_0230.jpg](bgbl1_2017_j0162-1_0230.jpg)
+![bgbl1_2024_j01250_0210.jpg](bgbl1_2024_j01250_0210.jpg)
 
 *    *   Reisepass (48 Seiten)
 
@@ -694,7 +676,7 @@ werden am unteren Rand mit der Seriennummer perforiert.
 
 
 
-![bgbl1_2017_j0162-1_0240.jpg](bgbl1_2017_j0162-1_0240.jpg)
+![bgbl1_2024_j01250_0220.jpg](bgbl1_2024_j01250_0220.jpg)
 Die Seiten 1 bis 48 sowie der hintere Einband
 werden am unteren Rand mit der Seriennummer perforiert.
 
@@ -706,7 +688,7 @@ werden am unteren Rand mit der Seriennummer perforiert.
 
 
 
-![bgbl1_2017_j0162-1_0250.jpg](bgbl1_2017_j0162-1_0250.jpg)
+![bgbl1_2024_j01250_0230.jpg](bgbl1_2024_j01250_0230.jpg)
 
 *    *   Reisepass (48 Seiten)
 
@@ -715,7 +697,7 @@ werden am unteren Rand mit der Seriennummer perforiert.
 
 
 
-![bgbl1_2017_j0162-1_0260.jpg](bgbl1_2017_j0162-1_0260.jpg)
+![bgbl1_2024_j01250_0240.jpg](bgbl1_2024_j01250_0240.jpg)
 
 *    *   Reisepass (48 Seiten)
 
@@ -724,7 +706,7 @@ werden am unteren Rand mit der Seriennummer perforiert.
 
 
 
-![bgbl1_2017_j0162-1_0270.jpg](bgbl1_2017_j0162-1_0270.jpg)
+![bgbl1_2024_j01250_0250.jpg](bgbl1_2024_j01250_0250.jpg)
 
 *    *   Reisepass (48 Seiten)
 
@@ -733,7 +715,7 @@ werden am unteren Rand mit der Seriennummer perforiert.
 
 
 
-![bgbl1_2017_j0162-1_0280.jpg](bgbl1_2017_j0162-1_0280.jpg)
+![bgbl1_2024_j01250_0260.jpg](bgbl1_2024_j01250_0260.jpg)
 
 *    *   Reisepass (48 Seiten)
 
@@ -742,7 +724,7 @@ werden am unteren Rand mit der Seriennummer perforiert.
 
 
 
-![bgbl1_2017_j0162-1_0290.jpg](bgbl1_2017_j0162-1_0290.jpg)
+![bgbl1_2024_j01250_0270.jpg](bgbl1_2024_j01250_0270.jpg)
 
 *    *   Reisepass (48 Seiten)
 
@@ -751,7 +733,7 @@ werden am unteren Rand mit der Seriennummer perforiert.
 
 
 
-![bgbl1_2017_j0162-1_0300.jpg](bgbl1_2017_j0162-1_0300.jpg)
+![bgbl1_2024_j01250_0280.jpg](bgbl1_2024_j01250_0280.jpg)
 
 *    *   Reisepass (48 Seiten)
 
@@ -760,7 +742,7 @@ werden am unteren Rand mit der Seriennummer perforiert.
 
 
 
-![bgbl1_2017_j0162-1_0310.jpg](bgbl1_2017_j0162-1_0310.jpg)
+![bgbl1_2024_j01250_0290.jpg](bgbl1_2024_j01250_0290.jpg)
 
 *    *   Reisepass (48 Seiten)
 
@@ -769,7 +751,7 @@ werden am unteren Rand mit der Seriennummer perforiert.
 
 
 
-![bgbl1_2017_j0162-1_0320.jpg](bgbl1_2017_j0162-1_0320.jpg)
+![bgbl1_2024_j01250_0300.jpg](bgbl1_2024_j01250_0300.jpg)
 
 *    *   Reisepass (48 Seiten)
 
@@ -778,7 +760,7 @@ werden am unteren Rand mit der Seriennummer perforiert.
 
 
 
-![bgbl1_2017_j0162-1_0330.jpg](bgbl1_2017_j0162-1_0330.jpg)
+![bgbl1_2024_j01250_0310.jpg](bgbl1_2024_j01250_0310.jpg)
 
 *    *   Reisepass (48 Seiten)
 
@@ -787,7 +769,7 @@ werden am unteren Rand mit der Seriennummer perforiert.
 
 
 
-![bgbl1_2017_j0162-1_0340.jpg](bgbl1_2017_j0162-1_0340.jpg)
+![bgbl1_2024_j01250_0320.jpg](bgbl1_2024_j01250_0320.jpg)
 
 *    *   Reisepass (48 Seiten)
 
@@ -796,7 +778,7 @@ werden am unteren Rand mit der Seriennummer perforiert.
 
 
 
-![bgbl1_2017_j0162-1_0350.jpg](bgbl1_2017_j0162-1_0350.jpg)
+![bgbl1_2024_j01250_0330.jpg](bgbl1_2024_j01250_0330.jpg)
 
 *    *   Reisepass (48 Seiten)
 
@@ -805,7 +787,7 @@ werden am unteren Rand mit der Seriennummer perforiert.
 
 
 
-![bgbl1_2017_j0162-1_0360.jpg](bgbl1_2017_j0162-1_0360.jpg)
+![bgbl1_2024_j01250_0340.jpg](bgbl1_2024_j01250_0340.jpg)
 
 *    *   Reisepass (48 Seiten)
 
@@ -814,7 +796,7 @@ werden am unteren Rand mit der Seriennummer perforiert.
 
 
 
-![bgbl1_2017_j0162-1_0370.jpg](bgbl1_2017_j0162-1_0370.jpg)
+![bgbl1_2024_j01250_0350.jpg](bgbl1_2024_j01250_0350.jpg)
 
 *    *   Reisepass (48 Seiten)
 
@@ -823,7 +805,7 @@ werden am unteren Rand mit der Seriennummer perforiert.
 
 
 
-![bgbl1_2017_j0162-1_0380.jpg](bgbl1_2017_j0162-1_0380.jpg)
+![bgbl1_2024_j01250_0360.jpg](bgbl1_2024_j01250_0360.jpg)
 
 *    *   Reisepass (48 Seiten)
 
@@ -832,7 +814,7 @@ werden am unteren Rand mit der Seriennummer perforiert.
 
 
 
-![bgbl1_2017_j0162-1_0390.jpg](bgbl1_2017_j0162-1_0390.jpg)
+![bgbl1_2024_j01250_0370.jpg](bgbl1_2024_j01250_0370.jpg)
 
 *    *   Reisepass (48 Seiten)
 
@@ -841,7 +823,7 @@ werden am unteren Rand mit der Seriennummer perforiert.
 
 
 
-![bgbl1_2017_j0162-1_0400.jpg](bgbl1_2017_j0162-1_0400.jpg)
+![bgbl1_2024_j01250_0380.jpg](bgbl1_2024_j01250_0380.jpg)
 
 *    *   Reisepass (48 Seiten)
 
@@ -850,7 +832,7 @@ werden am unteren Rand mit der Seriennummer perforiert.
 
 
 
-![bgbl1_2017_j0162-1_0410.jpg](bgbl1_2017_j0162-1_0410.jpg)
+![bgbl1_2024_j01250_0390.jpg](bgbl1_2024_j01250_0390.jpg)
 
 *    *   Reisepass (48 Seiten)
 
@@ -859,7 +841,7 @@ werden am unteren Rand mit der Seriennummer perforiert.
 
 
 
-![bgbl1_2017_j0162-1_0420.jpg](bgbl1_2017_j0162-1_0420.jpg)
+![bgbl1_2024_j01250_0400.jpg](bgbl1_2024_j01250_0400.jpg)
 
 *    *   Reisepass (48 Seiten)
 
@@ -868,7 +850,7 @@ werden am unteren Rand mit der Seriennummer perforiert.
 
 
 
-![bgbl1_2017_j0162-1_0430.jpg](bgbl1_2017_j0162-1_0430.jpg)
+![bgbl1_2024_j01250_0410.jpg](bgbl1_2024_j01250_0410.jpg)
 
 *    *   Reisepass (48 Seiten)
 
@@ -877,7 +859,7 @@ werden am unteren Rand mit der Seriennummer perforiert.
 
 
 
-![bgbl1_2017_j0162-1_0440.jpg](bgbl1_2017_j0162-1_0440.jpg)
+![bgbl1_2024_j01250_0420.jpg](bgbl1_2024_j01250_0420.jpg)
 
 *    *   Reisepass (48 Seiten)
 
@@ -886,7 +868,7 @@ werden am unteren Rand mit der Seriennummer perforiert.
 
 
 
-![bgbl1_2017_j0162-1_0450.jpg](bgbl1_2017_j0162-1_0450.jpg)
+![bgbl1_2024_j01250_0430.jpg](bgbl1_2024_j01250_0430.jpg)
 
 *    *   Reisepass (48 Seiten)
 
@@ -895,7 +877,7 @@ werden am unteren Rand mit der Seriennummer perforiert.
 
 
 
-![bgbl1_2017_j0162-1_0460.jpg](bgbl1_2017_j0162-1_0460.jpg)
+![bgbl1_2024_j01250_0440.jpg](bgbl1_2024_j01250_0440.jpg)
 
 *    *   Reisepass (48 Seiten)
 
@@ -904,7 +886,7 @@ werden am unteren Rand mit der Seriennummer perforiert.
 
 
 
-![bgbl1_2017_j0162-1_0470.jpg](bgbl1_2017_j0162-1_0470.jpg)
+![bgbl1_2024_j01250_0450.jpg](bgbl1_2024_j01250_0450.jpg)
 
 *    *   Reisepass (48 Seiten)
 
@@ -913,7 +895,8 @@ werden am unteren Rand mit der Seriennummer perforiert.
 
 
 
-![bgbl1_2017_j0162-1_0480.jpg](bgbl1_2017_j0162-1_0480.jpg)
+![bgbl1_2024_j01250_0460.jpg](bgbl1_2024_j01250_0460.jpg)
+
 
 ### Anlage 1b Muster des Aufklebers zur Änderung des Wohnortes
 
@@ -945,100 +928,12 @@ werden am unteren Rand mit der Seriennummer perforiert.
 
 
 
-### Anlage 2 Passmuster Kinderreisepass
+### Anlage 2 (weggefallen)
 
-   (Fundstelle: BGBl. I 2017, 187 — 192)
-
-
-*    *   Kinderreisepass
-
-    *   Einband
-
-
-
-
-![bgbl1_2017_j0162-1_0490.jpg](bgbl1_2017_j0162-1_0490.jpg)
-
-*    *   Kinderreisepass
-
-    *   Vorsatz und Passbuchinnenseite 1
-
-
-
-
-![bgbl1_2017_j0162-1_0500.jpg](bgbl1_2017_j0162-1_0500.jpg)
-Die Seiten 1 bis 16 sowie der hintere Einband
-werden am unteren Rand mit der Dokumentennummer perforiert.
-
-
-*    *   Kinderreisepass
-
-    *   Passbuchinnenseiten 2 und 3
-
-
-
-
-![bgbl1_2017_j0162-1_0510.jpg](bgbl1_2017_j0162-1_0510.jpg)
-
-*    *   Kinderreisepass
-
-    *   Passbuchinnenseiten 4 und 5
-
-
-
-
-![bgbl1_2017_j0162-1_0520.jpg](bgbl1_2017_j0162-1_0520.jpg)
-
-*    *   Kinderreisepass
-
-    *   Passbuchinnenseiten 6 und 7
-
-
-
-
-![bgbl1_2017_j0162-1_0530.jpg](bgbl1_2017_j0162-1_0530.jpg)
-
-*    *   Kinderreisepass
-
-    *   Passbuchinnenseiten 8 und 9
-
-
-
-
-![bgbl1_2017_j0162-1_0540.jpg](bgbl1_2017_j0162-1_0540.jpg)
-Seiten 8 bis 15 gleichlautend.
-
-
-*    *   Kinderreisepass
-
-    *   Passbuchinnenseite 16 und Vorsatz
-
-
-
-
-![bgbl1_2017_j0162-1_0550.jpg](bgbl1_2017_j0162-1_0550.jpg)
-
-*    *   Kinderreisepass
-
-    *   Aufkleber Personaldaten
-
-
-
-
-![bgbl1_2017_j0162-1_0560.jpg](bgbl1_2017_j0162-1_0560.jpg)
-
-*    *   Kinderreisepass
-
-    *   Aufkleber Verlängerung/Änderung
-
-
-
-
-![bgbl1_2017_j0162-1_0570.jpg](bgbl1_2017_j0162-1_0570.jpg)
 
 ### Anlage 3
 
-(Fundstelle: BGBl. I 2007, 2413 - 2420;
+   (Fundstelle: BGBl. I 2007, 2413 - 2420;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   Vorläufiger Reisepass
@@ -1123,7 +1018,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 ### Anlage 4 Passmuster Dienstpass
 
-   (Fundstelle: BGBl. I 2017, 193 — 206)
+   (Fundstelle: BGBl. 2024 I Nr. 125)
 
 
 *    *   Dienstpass
@@ -1131,11 +1026,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Einband
 
 
-*    *        ![bgbl1_2017_j0162-1_0580.jpg](bgbl1_2017_j0162-1_0580.jpg)
-    *        ![bgbl1_2017_j0162-1_0590.jpg](bgbl1_2017_j0162-1_0590.jpg)
 
 
-
+![bgbl1_2024_j01250_0470.jpg](bgbl1_2024_j01250_0470.jpg)
 
 *    *   Dienstpass
 
@@ -1144,7 +1037,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-![bgbl1_2017_j0162-1_0600.jpg](bgbl1_2017_j0162-1_0600.jpg)
+![bgbl1_2024_j01250_0480.jpg](bgbl1_2024_j01250_0480.jpg)
 
 *    *   Dienstpass
 
@@ -1153,7 +1046,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-![bgbl1_2017_j0162-1_0610.jpg](bgbl1_2017_j0162-1_0610.jpg)
+![bgbl1_2024_j01250_0490.jpg](bgbl1_2024_j01250_0490.jpg)
 Die Seiten 1 bis 48 sowie der hintere Einband
 werden am unteren Rand mit der Seriennummer perforiert.
 
@@ -1165,7 +1058,7 @@ werden am unteren Rand mit der Seriennummer perforiert.
 
 
 
-![bgbl1_2017_j0162-1_0620.jpg](bgbl1_2017_j0162-1_0620.jpg)
+![bgbl1_2024_j01250_0500.jpg](bgbl1_2024_j01250_0500.jpg)
 
 *    *   Dienstpass
 
@@ -1174,7 +1067,7 @@ werden am unteren Rand mit der Seriennummer perforiert.
 
 
 
-![bgbl1_2017_j0162-1_0630.jpg](bgbl1_2017_j0162-1_0630.jpg)
+![bgbl1_2024_j01250_0510.jpg](bgbl1_2024_j01250_0510.jpg)
 
 *    *   Dienstpass
 
@@ -1183,7 +1076,7 @@ werden am unteren Rand mit der Seriennummer perforiert.
 
 
 
-![bgbl1_2017_j0162-1_0640.jpg](bgbl1_2017_j0162-1_0640.jpg)
+![bgbl1_2024_j01250_0520.jpg](bgbl1_2024_j01250_0520.jpg)
 
 *    *   Dienstpass
 
@@ -1192,7 +1085,7 @@ werden am unteren Rand mit der Seriennummer perforiert.
 
 
 
-![bgbl1_2017_j0162-1_0650.jpg](bgbl1_2017_j0162-1_0650.jpg)
+![bgbl1_2024_j01250_0530.jpg](bgbl1_2024_j01250_0530.jpg)
 
 *    *   Dienstpass
 
@@ -1201,7 +1094,7 @@ werden am unteren Rand mit der Seriennummer perforiert.
 
 
 
-![bgbl1_2017_j0162-1_0660.jpg](bgbl1_2017_j0162-1_0660.jpg)
+![bgbl1_2024_j01250_0540.jpg](bgbl1_2024_j01250_0540.jpg)
 
 *    *   Dienstpass
 
@@ -1210,7 +1103,7 @@ werden am unteren Rand mit der Seriennummer perforiert.
 
 
 
-![bgbl1_2017_j0162-1_0670.jpg](bgbl1_2017_j0162-1_0670.jpg)
+![bgbl1_2024_j01250_0550.jpg](bgbl1_2024_j01250_0550.jpg)
 
 *    *   Dienstpass
 
@@ -1219,7 +1112,7 @@ werden am unteren Rand mit der Seriennummer perforiert.
 
 
 
-![bgbl1_2017_j0162-1_0680.jpg](bgbl1_2017_j0162-1_0680.jpg)
+![bgbl1_2024_j01250_0560.jpg](bgbl1_2024_j01250_0560.jpg)
 
 *    *   Dienstpass
 
@@ -1228,7 +1121,7 @@ werden am unteren Rand mit der Seriennummer perforiert.
 
 
 
-![bgbl1_2017_j0162-1_0690.jpg](bgbl1_2017_j0162-1_0690.jpg)
+![bgbl1_2024_j01250_0570.jpg](bgbl1_2024_j01250_0570.jpg)
 
 *    *   Dienstpass
 
@@ -1237,7 +1130,7 @@ werden am unteren Rand mit der Seriennummer perforiert.
 
 
 
-![bgbl1_2017_j0162-1_0700.jpg](bgbl1_2017_j0162-1_0700.jpg)
+![bgbl1_2024_j01250_0580.jpg](bgbl1_2024_j01250_0580.jpg)
 
 *    *   Dienstpass
 
@@ -1246,7 +1139,7 @@ werden am unteren Rand mit der Seriennummer perforiert.
 
 
 
-![bgbl1_2017_j0162-1_0710.jpg](bgbl1_2017_j0162-1_0710.jpg)
+![bgbl1_2024_j01250_0590.jpg](bgbl1_2024_j01250_0590.jpg)
 
 *    *   Dienstpass
 
@@ -1255,7 +1148,7 @@ werden am unteren Rand mit der Seriennummer perforiert.
 
 
 
-![bgbl1_2017_j0162-1_0720.jpg](bgbl1_2017_j0162-1_0720.jpg)
+![bgbl1_2024_j01250_0600.jpg](bgbl1_2024_j01250_0600.jpg)
 
 *    *   Dienstpass
 
@@ -1264,7 +1157,7 @@ werden am unteren Rand mit der Seriennummer perforiert.
 
 
 
-![bgbl1_2017_j0162-1_0730.jpg](bgbl1_2017_j0162-1_0730.jpg)
+![bgbl1_2024_j01250_0610.jpg](bgbl1_2024_j01250_0610.jpg)
 
 *    *   Dienstpass
 
@@ -1273,7 +1166,7 @@ werden am unteren Rand mit der Seriennummer perforiert.
 
 
 
-![bgbl1_2017_j0162-1_0740.jpg](bgbl1_2017_j0162-1_0740.jpg)
+![bgbl1_2024_j01250_0620.jpg](bgbl1_2024_j01250_0620.jpg)
 
 *    *   Dienstpass
 
@@ -1282,7 +1175,7 @@ werden am unteren Rand mit der Seriennummer perforiert.
 
 
 
-![bgbl1_2017_j0162-1_0750.jpg](bgbl1_2017_j0162-1_0750.jpg)
+![bgbl1_2024_j01250_0630.jpg](bgbl1_2024_j01250_0630.jpg)
 
 *    *   Dienstpass
 
@@ -1291,7 +1184,7 @@ werden am unteren Rand mit der Seriennummer perforiert.
 
 
 
-![bgbl1_2017_j0162-1_0760.jpg](bgbl1_2017_j0162-1_0760.jpg)
+![bgbl1_2024_j01250_0640.jpg](bgbl1_2024_j01250_0640.jpg)
 
 *    *   Dienstpass
 
@@ -1300,7 +1193,7 @@ werden am unteren Rand mit der Seriennummer perforiert.
 
 
 
-![bgbl1_2017_j0162-1_0770.jpg](bgbl1_2017_j0162-1_0770.jpg)
+![bgbl1_2024_j01250_0650.jpg](bgbl1_2024_j01250_0650.jpg)
 
 *    *   Dienstpass
 
@@ -1309,7 +1202,7 @@ werden am unteren Rand mit der Seriennummer perforiert.
 
 
 
-![bgbl1_2017_j0162-1_0780.jpg](bgbl1_2017_j0162-1_0780.jpg)
+![bgbl1_2024_j01250_0660.jpg](bgbl1_2024_j01250_0660.jpg)
 
 *    *   Dienstpass
 
@@ -1318,7 +1211,7 @@ werden am unteren Rand mit der Seriennummer perforiert.
 
 
 
-![bgbl1_2017_j0162-1_0790.jpg](bgbl1_2017_j0162-1_0790.jpg)
+![bgbl1_2024_j01250_0670.jpg](bgbl1_2024_j01250_0670.jpg)
 
 *    *   Dienstpass
 
@@ -1327,7 +1220,7 @@ werden am unteren Rand mit der Seriennummer perforiert.
 
 
 
-![bgbl1_2017_j0162-1_0800.jpg](bgbl1_2017_j0162-1_0800.jpg)
+![bgbl1_2024_j01250_0680.jpg](bgbl1_2024_j01250_0680.jpg)
 
 *    *   Dienstpass
 
@@ -1336,7 +1229,7 @@ werden am unteren Rand mit der Seriennummer perforiert.
 
 
 
-![bgbl1_2017_j0162-1_0810.jpg](bgbl1_2017_j0162-1_0810.jpg)
+![bgbl1_2024_j01250_0690.jpg](bgbl1_2024_j01250_0690.jpg)
 
 *    *   Dienstpass
 
@@ -1345,7 +1238,7 @@ werden am unteren Rand mit der Seriennummer perforiert.
 
 
 
-![bgbl1_2017_j0162-1_0820.jpg](bgbl1_2017_j0162-1_0820.jpg)
+![bgbl1_2024_j01250_0700.jpg](bgbl1_2024_j01250_0700.jpg)
 
 *    *   Dienstpass
 
@@ -1354,7 +1247,7 @@ werden am unteren Rand mit der Seriennummer perforiert.
 
 
 
-![bgbl1_2017_j0162-1_0830.jpg](bgbl1_2017_j0162-1_0830.jpg)
+![bgbl1_2024_j01250_0710.jpg](bgbl1_2024_j01250_0710.jpg)
 
 *    *   Dienstpass
 
@@ -1363,7 +1256,7 @@ werden am unteren Rand mit der Seriennummer perforiert.
 
 
 
-![bgbl1_2017_j0162-1_0840.jpg](bgbl1_2017_j0162-1_0840.jpg)
+![bgbl1_2024_j01250_0720.jpg](bgbl1_2024_j01250_0720.jpg)
 
 *    *   Dienstpass
 
@@ -1372,11 +1265,11 @@ werden am unteren Rand mit der Seriennummer perforiert.
 
 
 
-![bgbl1_2017_j0162-1_0850.jpg](bgbl1_2017_j0162-1_0850.jpg)
+![bgbl1_2024_j01250_0730.jpg](bgbl1_2024_j01250_0730.jpg)
 
 ### Anlage 5 Passmuster Diplomatenpass
 
-(Fundstelle: BGBl. I 2017, 207 — 220)
+(Fundstelle: BGBl. 2024 I Nr. 125)
 
 
 *    *   Diplomatenpass
@@ -1384,11 +1277,9 @@ werden am unteren Rand mit der Seriennummer perforiert.
     *   Einband
 
 
-*    *        ![bgbl1_2017_j0162-1_0860.jpg](bgbl1_2017_j0162-1_0860.jpg)
-    *        ![bgbl1_2017_j0162-1_0870.jpg](bgbl1_2017_j0162-1_0870.jpg)
 
 
-
+![bgbl1_2024_j01250_0740.jpg](bgbl1_2024_j01250_0740.jpg)
 
 *    *   Diplomatenpass
 
@@ -1397,7 +1288,7 @@ werden am unteren Rand mit der Seriennummer perforiert.
 
 
 
-![bgbl1_2017_j0162-1_0880.jpg](bgbl1_2017_j0162-1_0880.jpg)
+![bgbl1_2024_j01250_0750.jpg](bgbl1_2024_j01250_0750.jpg)
 
 *    *   Diplomatenpass
 
@@ -1406,7 +1297,7 @@ werden am unteren Rand mit der Seriennummer perforiert.
 
 
 
-![bgbl1_2017_j0162-1_0890.jpg](bgbl1_2017_j0162-1_0890.jpg)
+![bgbl1_2024_j01250_0760.jpg](bgbl1_2024_j01250_0760.jpg)
 Die Seiten 1 bis 48 sowie der hintere Einband
 werden am unteren Rand mit der Seriennummer perforiert.
 
@@ -1418,7 +1309,7 @@ werden am unteren Rand mit der Seriennummer perforiert.
 
 
 
-![bgbl1_2017_j0162-1_0900.jpg](bgbl1_2017_j0162-1_0900.jpg)
+![bgbl1_2024_j01250_0770.jpg](bgbl1_2024_j01250_0770.jpg)
 
 *    *   Diplomatenpass
 
@@ -1427,7 +1318,7 @@ werden am unteren Rand mit der Seriennummer perforiert.
 
 
 
-![bgbl1_2017_j0162-1_0910.jpg](bgbl1_2017_j0162-1_0910.jpg)
+![bgbl1_2024_j01250_0780.jpg](bgbl1_2024_j01250_0780.jpg)
 
 *    *   Diplomatenpass
 
@@ -1436,7 +1327,7 @@ werden am unteren Rand mit der Seriennummer perforiert.
 
 
 
-![bgbl1_2017_j0162-1_0920.jpg](bgbl1_2017_j0162-1_0920.jpg)
+![bgbl1_2024_j01250_0790.jpg](bgbl1_2024_j01250_0790.jpg)
 
 *    *   Diplomatenpass
 
@@ -1445,7 +1336,7 @@ werden am unteren Rand mit der Seriennummer perforiert.
 
 
 
-![bgbl1_2017_j0162-1_0930.jpg](bgbl1_2017_j0162-1_0930.jpg)
+![bgbl1_2024_j01250_0800.jpg](bgbl1_2024_j01250_0800.jpg)
 
 *    *   Diplomatenpass
 
@@ -1454,7 +1345,7 @@ werden am unteren Rand mit der Seriennummer perforiert.
 
 
 
-![bgbl1_2017_j0162-1_0940.jpg](bgbl1_2017_j0162-1_0940.jpg)
+![bgbl1_2024_j01250_0810.jpg](bgbl1_2024_j01250_0810.jpg)
 
 *    *   Diplomatenpass
 
@@ -1463,7 +1354,7 @@ werden am unteren Rand mit der Seriennummer perforiert.
 
 
 
-![bgbl1_2017_j0162-1_0950.jpg](bgbl1_2017_j0162-1_0950.jpg)
+![bgbl1_2024_j01250_0820.jpg](bgbl1_2024_j01250_0820.jpg)
 
 *    *   Diplomatenpass
 
@@ -1472,7 +1363,7 @@ werden am unteren Rand mit der Seriennummer perforiert.
 
 
 
-![bgbl1_2017_j0162-1_0960.jpg](bgbl1_2017_j0162-1_0960.jpg)
+![bgbl1_2024_j01250_0830.jpg](bgbl1_2024_j01250_0830.jpg)
 
 *    *   Diplomatenpass
 
@@ -1481,7 +1372,7 @@ werden am unteren Rand mit der Seriennummer perforiert.
 
 
 
-![bgbl1_2017_j0162-1_0970.jpg](bgbl1_2017_j0162-1_0970.jpg)
+![bgbl1_2024_j01250_0840.jpg](bgbl1_2024_j01250_0840.jpg)
 
 *    *   Diplomatenpass
 
@@ -1490,7 +1381,7 @@ werden am unteren Rand mit der Seriennummer perforiert.
 
 
 
-![bgbl1_2017_j0162-1_0980.jpg](bgbl1_2017_j0162-1_0980.jpg)
+![bgbl1_2024_j01250_0850.jpg](bgbl1_2024_j01250_0850.jpg)
 
 *    *   Diplomatenpass
 
@@ -1499,7 +1390,7 @@ werden am unteren Rand mit der Seriennummer perforiert.
 
 
 
-![bgbl1_2017_j0162-1_0990.jpg](bgbl1_2017_j0162-1_0990.jpg)
+![bgbl1_2024_j01250_0860.jpg](bgbl1_2024_j01250_0860.jpg)
 
 *    *   Diplomatenpass
 
@@ -1508,7 +1399,7 @@ werden am unteren Rand mit der Seriennummer perforiert.
 
 
 
-![bgbl1_2017_j0162-1_1000.jpg](bgbl1_2017_j0162-1_1000.jpg)
+![bgbl1_2024_j01250_0870.jpg](bgbl1_2024_j01250_0870.jpg)
 
 *    *   Diplomatenpass
 
@@ -1517,7 +1408,7 @@ werden am unteren Rand mit der Seriennummer perforiert.
 
 
 
-![bgbl1_2017_j0162-1_1010.jpg](bgbl1_2017_j0162-1_1010.jpg)
+![bgbl1_2024_j01250_0880.jpg](bgbl1_2024_j01250_0880.jpg)
 
 *    *   Diplomatenpass
 
@@ -1526,7 +1417,7 @@ werden am unteren Rand mit der Seriennummer perforiert.
 
 
 
-![bgbl1_2017_j0162-1_1020.jpg](bgbl1_2017_j0162-1_1020.jpg)
+![bgbl1_2024_j01250_0890.jpg](bgbl1_2024_j01250_0890.jpg)
 
 *    *   Diplomatenpass
 
@@ -1535,7 +1426,7 @@ werden am unteren Rand mit der Seriennummer perforiert.
 
 
 
-![bgbl1_2017_j0162-1_1030.jpg](bgbl1_2017_j0162-1_1030.jpg)
+![bgbl1_2024_j01250_0900.jpg](bgbl1_2024_j01250_0900.jpg)
 
 *    *   Diplomatenpass
 
@@ -1544,7 +1435,7 @@ werden am unteren Rand mit der Seriennummer perforiert.
 
 
 
-![bgbl1_2017_j0162-1_1040.jpg](bgbl1_2017_j0162-1_1040.jpg)
+![bgbl1_2024_j01250_0910.jpg](bgbl1_2024_j01250_0910.jpg)
 
 *    *   Diplomatenpass
 
@@ -1553,7 +1444,7 @@ werden am unteren Rand mit der Seriennummer perforiert.
 
 
 
-![bgbl1_2017_j0162-1_1050.jpg](bgbl1_2017_j0162-1_1050.jpg)
+![bgbl1_2024_j01250_0920.jpg](bgbl1_2024_j01250_0920.jpg)
 
 *    *   Diplomatenpass
 
@@ -1562,7 +1453,7 @@ werden am unteren Rand mit der Seriennummer perforiert.
 
 
 
-![bgbl1_2017_j0162-1_1060.jpg](bgbl1_2017_j0162-1_1060.jpg)
+![bgbl1_2024_j01250_0930.jpg](bgbl1_2024_j01250_0930.jpg)
 
 *    *   Diplomatenpass
 
@@ -1571,7 +1462,7 @@ werden am unteren Rand mit der Seriennummer perforiert.
 
 
 
-![bgbl1_2017_j0162-1_1070.jpg](bgbl1_2017_j0162-1_1070.jpg)
+![bgbl1_2024_j01250_0940.jpg](bgbl1_2024_j01250_0940.jpg)
 
 *    *   Diplomatenpass
 
@@ -1580,7 +1471,7 @@ werden am unteren Rand mit der Seriennummer perforiert.
 
 
 
-![bgbl1_2017_j0162-1_1080.jpg](bgbl1_2017_j0162-1_1080.jpg)
+![bgbl1_2024_j01250_0950.jpg](bgbl1_2024_j01250_0950.jpg)
 
 *    *   Diplomatenpass
 
@@ -1589,7 +1480,7 @@ werden am unteren Rand mit der Seriennummer perforiert.
 
 
 
-![bgbl1_2017_j0162-1_1090.jpg](bgbl1_2017_j0162-1_1090.jpg)
+![bgbl1_2024_j01250_0960.jpg](bgbl1_2024_j01250_0960.jpg)
 
 *    *   Diplomatenpass
 
@@ -1598,7 +1489,7 @@ werden am unteren Rand mit der Seriennummer perforiert.
 
 
 
-![bgbl1_2017_j0162-1_1100.jpg](bgbl1_2017_j0162-1_1100.jpg)
+![bgbl1_2024_j01250_0970.jpg](bgbl1_2024_j01250_0970.jpg)
 
 *    *   Diplomatenpass
 
@@ -1607,7 +1498,7 @@ werden am unteren Rand mit der Seriennummer perforiert.
 
 
 
-![bgbl1_2017_j0162-1_1110.jpg](bgbl1_2017_j0162-1_1110.jpg)
+![bgbl1_2024_j01250_0980.jpg](bgbl1_2024_j01250_0980.jpg)
 
 *    *   Diplomatenpass
 
@@ -1616,7 +1507,7 @@ werden am unteren Rand mit der Seriennummer perforiert.
 
 
 
-![bgbl1_2017_j0162-1_1120.jpg](bgbl1_2017_j0162-1_1120.jpg)
+![bgbl1_2024_j01250_0990.jpg](bgbl1_2024_j01250_0990.jpg)
 
 *    *   Diplomatenpass
 
@@ -1625,7 +1516,7 @@ werden am unteren Rand mit der Seriennummer perforiert.
 
 
 
-![bgbl1_2017_j0162-1_1130.jpg](bgbl1_2017_j0162-1_1130.jpg)
+![bgbl1_2024_j01250_1000.jpg](bgbl1_2024_j01250_1000.jpg)
 
 ### Anlage 6
 
@@ -1985,27 +1876,26 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 ### Anlage 11 Formale Anforderungen an die Einträge in Pässe im Sinne des § 1 Absatz 2 des Passgesetzes
 
-   (Fundstelle: BGBl. I 2017, 221 — 225)
+   (Fundstelle: BGBl. I 2017, 221 - 225;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 **Vorbemerkung:**
 
 1.  Für den Reisepass sowie für den Dienst- und Diplomatenpass gelten die
     in der nachstehenden Tabelle 1 beschriebenen Anforderungen an die
     Einträge. Die in der nachstehenden Tabelle 2 beschriebenen
-    Anforderungen an die Einträge gelten für den Kinderreisepass,
-    vorläufigen Reisepass und für den vorläufigen Dienst- und
-    Diplomatenpass. Für den Aufkleber zur Änderung des Wohnortes gelten
-    die in der Tabelle 3 beschriebenen Anforderungen an Einträge, für den
-    Aufkleber zur Eintragung amtlicher Vermerke die in der Tabelle 4
-    beschriebenen Anforderungen. Die in der Tabelle 5 beschriebenen
-    Anforderungen an Einträge gelten für den Aufkleber zur Änderung des
-    Dienstortes und der Dienstbezeichnung.
+    Anforderungen an die Einträge gelten für den vorläufigen Reisepass und
+    für den vorläufigen Dienst- und Diplomatenpass. Für den Aufkleber zur
+    Änderung des Wohnortes gelten die in der Tabelle 3 beschriebenen
+    Anforderungen an Einträge, für den Aufkleber zur Eintragung amtlicher
+    Vermerke die in der Tabelle 4 beschriebenen Anforderungen. Die in der
+    Tabelle 5 beschriebenen Anforderungen an Einträge gelten für den
+    Aufkleber zur Änderung des Dienstortes und der Dienstbezeichnung.
 
 
 2.  Die Passbehörden verwenden zur Personalisierung der Aufkleber
-    Personaldaten der Kinderreisepässe, der vorläufigen Reisepässe, der
-    vorläufigen Dienst- und Diplomatenpässe, der Aufkleber Verlängerung/
-    Änderung der Kinderreisepässe sowie der Aufkleber Dienstort- und
+    Personaldaten der vorläufigen Reisepässe, der vorläufigen Dienst- und
+    Diplomatenpässe sowie der Aufkleber Dienstort- und
     Dienstbezeichnungsänderung, Wohnortänderung und Eintragung amtlicher
     Vermerke den Schriftfont „UnicodeDoc“. Hierfür sind
     Tintenstrahldrucker einzusetzen. Die Tinte hat die nach der ISO 1831
@@ -2046,8 +1936,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         gekürzt vorzunehmen.
 
 
-    b)  Für den Kinderreisepass, den vorläufigen Reisepass sowie den
-        vorläufigen Dienst- und Diplomatenpass gilt:
+    b)  Für den vorläufigen Reisepass sowie den vorläufigen Dienst- und
+        Diplomatenpass gilt:
 
         Grundsätzlich sind alle Einträge in der Schriftgröße 1 im Fettsatz
         gemäß den Vorgaben der nachstehenden Tabelle 2 vorzunehmen. Einträge
@@ -2073,19 +1963,21 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     Der Geburtsname ist in das Feld „Geburtsname“ einzutragen.
 
-    Für den Kinderreisepass, den vorläufigen Reisepass sowie den
-    vorläufigen Dienst- und Diplomatenpass gilt:
+    Für den vorläufigen Reisepass sowie den vorläufigen Dienst- und
+    Diplomatenpass gilt:
 
     Der Geburtsname ist im Feld „Name“ in einer eigenen Zeile einzutragen.
-    Ihm ist die Zeichenfolge „GEB.“ bzw. „geb. “ unter Hinzufügung eines
-    Leerzeichens voranzustellen.
+    Ihm ist die Zeichenfolge „GEB.“ unter Hinzufügung eines Leerzeichens
+    voranzustellen.
 
 
 8.  Soweit ein oder mehrere Doktorgrade vorhanden sind, wird dieser bzw.
-    werden diese im Datenfeld „Name“ eingetragen. Entsprechend der für die
-    Eintragung des Doktorgrades bzw. der Doktorgrade benötigten
-    Zeichenzahl verringert sich die Anzahl der verbleibenden Zeichen für
-    den Namenseintrag.
+    werden diese im Reise-, Dienst- und Diplomatenpass in dem Datenfeld
+    „Doktorgrad“, im vorläufigen Reise-, Diplomaten- und Dienstpass in dem
+    Datenfeld „Name“ eingetragen. Die Anzahl der für den Namenseintrag
+    vorgesehenen Zeichen verringert sich um die für die Eintragung des
+    Doktorgrades bzw. der Doktorgrade benötigte Zeichenzahl, sofern diese
+    Eintragung im Datenfeld „Name“ vorgenommen wird.
 
 
 9.  Die alphanumerische Seriennummer des Reisepasses, Dienstpasses und
@@ -2093,22 +1985,22 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     K, L, M, N, P, R, T, V, W, X, Y, Z und den Ziffern 1, 2, 3, 4, 5, 6,
     7, 8, 9 gebildet.
 
-    Beim Kinderreisepass, vorläufigen Reisepass, vorläufigen Dienstpass
-    und vorläufigen Diplomatenpass besteht die Seriennummer aus einem
-    Serienbuchstaben und sieben Ziffern.
+    Beim vorläufigen Reisepass, vorläufigen Dienstpass und vorläufigen
+    Diplomatenpass besteht die Seriennummer aus einem Serienbuchstaben und
+    sieben Ziffern.
 
 
 10. Das Lichtbild, das von der antragstellenden Person in den Abmaßen 35 x
     45 mm vorzulegen ist, ist bei der Personalisierung im vorläufigen
-    Reisepass, im Dienstpass, im Diplomatenpass sowie im Kinderreisepass
-    in den Abmessungen 32 x 41 mm verkleinert darzustellen.
+    Reisepass, im Dienstpass sowie im Diplomatenpass in den Abmessungen 32
+    x 41 mm verkleinert darzustellen.
 
 
 11. Die Schriftgröße ist am Großbuchstaben E auszurichten.
 
 
-12. Die Eintragung zur Staatsangehörigkeit im Reisepass, Kinderreisepass
-    und vorläufigen Reisepass lautet „DEUTSCH“.
+12. Die Eintragung zur Staatsangehörigkeit im Reisepass und vorläufigen
+    Reisepass lautet „DEUTSCH“.
 
     Für Dienstpass und Diplomatenpass sowie für vorläufigen Dienstpass und
     vorläufigen Diplomatenpass gilt:
@@ -2175,7 +2067,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   [a]
 
-    *[^F797417_01_BJNR238610007BJNE003604116]
+    *[^F797417_01_BJNR238610007BJNE003606130]
    Name
 
     *   40 Zeichen pro Zeile; 2 Zeilen
@@ -2187,7 +2079,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   [a]
 
-    *[^F797417_02_BJNR238610007BJNE003604116]
+    *[^F797417_02_BJNR238610007BJNE003606130]
    Name
 
     *   [a]
@@ -2356,18 +2248,26 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   14
 
-    *   Ordens- oder Künstlername
+    *   [a] Doktorgrad
         (Seite 1)
 
-    *   35 Zeichen pro Zeile; 1 Zeile
-        (insgesamt 35 Zeichen)
+    *   [a] 31 Zeichen pro Zeile; 1 Zeile
 
-    *   Nicht zulässig
+    *   [a] Nicht zulässig
+
+
+*    *   [b] Ordens- oder Künstlername
+        (Seite 1)
+
+    *   [b] 31 Zeichen pro Zeile; 1 Zeile
+        (insgesamt 62 Zeichen)
+
+    *   [b] Nicht zulässig
 
 
 *    *   11
 
-    *[^F797417_03_BJNR238610007BJNE003604116]
+    *[^F797417_03_BJNR238610007BJNE003606130]
    Dienstort und Dienstbezeichnung
         (Seite 1)
 
@@ -2379,7 +2279,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   ohne
 
-    *[^F797417_04_BJNR238610007BJNE003604116]
+    *[^F797417_04_BJNR238610007BJNE003606130]
    Passaktennummer
         (Seite 1)
 
@@ -2394,7 +2294,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Behörde bzw. Ausstellungsort
         (Seite 2)
 
-    *   35 Zeichen pro Zeile; 3 Zeilen
+    *[^F829576_01_BJNR238610007BJNE003606130]
+   35 Zeichen pro Zeile; 3 Zeilen
         (insgesamt 105 Zeichen)
 
     *   Nicht zulässig
@@ -2412,8 +2313,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-**Tabelle 2: Kinderreisepass, vorläufiger Reisepass, vorläufiger
-Dienst- und Diplomatenpass**
+**Tabelle 2: Vorläufiger Reisepass, vorläufiger Dienst- und
+Diplomatenpass**
 
 
 *    *   Datenfelder
@@ -2566,7 +2467,7 @@ Dienst- und Diplomatenpass**
 
 *    *   12
 
-    *[^F797417_05_BJNR238610007BJNE003604116]
+    *[^F797417_05_BJNR238610007BJNE003606130]
    Größe
 
     *   6 Zeichen pro Zeile, 1 Zeile
@@ -2741,8 +2642,9 @@ Dienstbezeichnung bei amtlichen Pässen**
 
 
     Fall: Es gibt keinen Geburtsnamen.
-[^F797417_01_BJNR238610007BJNE003604116]:     Fall: Es gibt einen Geburtsnamen.
-[^F797417_02_BJNR238610007BJNE003604116]:     Gilt nur für amtliche Pässe.
-[^F797417_03_BJNR238610007BJNE003604116]:     Gilt nur für amtliche Pässe.
-[^F797417_04_BJNR238610007BJNE003604116]:     Größenangabe im Format „123 CM“.
-[^F797417_05_BJNR238610007BJNE003604116]: 
+[^F797417_01_BJNR238610007BJNE003606130]:     Fall: Es gibt einen Geburtsnamen.
+[^F797417_02_BJNR238610007BJNE003606130]:     Gilt nur für amtliche Pässe.
+[^F797417_03_BJNR238610007BJNE003606130]:     Gilt nur für amtliche Pässe.
+[^F797417_04_BJNR238610007BJNE003606130]:     Beim Diplomaten- und Dienstpass ist nur eine Zeile vorgesehen.
+[^F829576_01_BJNR238610007BJNE003606130]:     Größenangabe im Format „123 CM“.
+[^F797417_05_BJNR238610007BJNE003606130]: 

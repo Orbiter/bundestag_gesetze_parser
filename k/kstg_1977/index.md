@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 15.10.2002 I 4144;
 
 Zuletzt geändert durch
-:   Art. 9 G v. 16.12.2022 I 2294
+:   Art. 18 G v. 27.3.2024 I Nr. 108
 
 
 ## Erster Teil - Steuerpflicht
@@ -47,8 +47,8 @@ Geschäftsleitung oder ihren Sitz im Inland haben:
 4.  sonstige juristische Personen des privaten Rechts;
 
 
-5.  nichtrechtsfähige Vereine, Anstalten, Stiftungen und andere
-    Zweckvermögen des privaten Rechts;
+5.  Vereine ohne Rechtspersönlichkeit, nicht rechtsfähige Anstalten,
+    Stiftungen und andere Zweckvermögen des privaten Rechts;
 
 
 6.  Betriebe gewerblicher Art von juristischen Personen des öffentlichen
@@ -108,32 +108,35 @@ Bundesrepublik Deutschland zustehende Anteil
 ### § 1a Option zur Körperschaftsbesteuerung
 
 (1) Auf unwiderruflichen Antrag sind für Zwecke der Besteuerung nach
-dem Einkommen eine Personenhandels- oder Partnerschaftsgesellschaft
-wie eine Kapitalgesellschaft (optierende Gesellschaft) und ihre
+dem Einkommen eine Personenhandelsgesellschaft,
+Partnerschaftsgesellschaft oder eingetragene Gesellschaft bürgerlichen
+Rechts wie eine Kapitalgesellschaft (optierende Gesellschaft) und ihre
 Gesellschafter wie die nicht persönlich haftenden Gesellschafter einer
 Kapitalgesellschaft zu behandeln; § 217 Absatz 1 des
 Umwandlungsgesetzes gilt sinngemäß. Der Antrag ist von der
-Personenhandels- oder Partnerschaftsgesellschaft nach amtlich
+Personenhandelsgesellschaft, Partnerschaftsgesellschaft oder
+eingetragenen Gesellschaft bürgerlichen Rechts nach amtlich
 vorgeschriebenem Datensatz durch Datenfernübertragung bei dem für die
 gesonderte und einheitliche Feststellung der Einkünfte nach § 180 der
 Abgabenordnung zuständigen Finanzamt spätestens einen Monat vor Beginn
 des Wirtschaftsjahrs zu stellen, ab dem die Besteuerung wie eine
 Kapitalgesellschaft gelten soll; § 31 Absatz 1a Satz 2 gilt
-entsprechend. Erfolgt für die Personenhandels- oder
-Partnerschaftsgesellschaft keine gesonderte und einheitliche
-Feststellung der Einkünfte, ist der Antrag bei dem für die
-Einkommensteuer oder Körperschaftsteuer des Gesellschafters
-zuständigen Finanzamt zu stellen. Erzielt eine Personenhandels- oder
-Partnerschaftsgesellschaft ausschließlich Einkünfte, die dem
-Steuerabzug vom Kapitalertrag oder dem Steuerabzug auf Grund des § 50a
-des Einkommensteuergesetzes unterliegen und gilt infolgedessen die
-Einkommensteuer nach § 50 Absatz 2 Satz 1 des Einkommensteuergesetzes
-oder die Körperschaftsteuer nach § 32 Absatz 1 als abgegolten, ist der
-Antrag bei dem Bundeszentralamt für Steuern zu stellen. Hat die
-Gesellschaft ihren Sitz im Inland, ist der Antrag abweichend von den
-Sätzen 3 und 4 bei dem Finanzamt zu stellen, in dessen Bezirk die
-Gesellschaft ihren Sitz hat. Die Sätze 1 bis 5 finden keine Anwendung
-auf
+entsprechend. Erfolgt für die Personenhandelsgesellschaft,
+Partnerschaftsgesellschaft oder eingetragene Gesellschaft bürgerlichen
+Rechts keine gesonderte und einheitliche Feststellung der Einkünfte,
+ist der Antrag bei dem für die Einkommensteuer oder Körperschaftsteuer
+des Gesellschafters zuständigen Finanzamt zu stellen. Erzielt eine
+Personenhandelsgesellschaft, Partnerschaftsgesellschaft oder
+eingetragene Gesellschaft bürgerlichen Rechts ausschließlich
+Einkünfte, die dem Steuerabzug vom Kapitalertrag oder dem Steuerabzug
+auf Grund des § 50a des Einkommensteuergesetzes unterliegen und gilt
+infolgedessen die Einkommensteuer nach § 50 Absatz 2 Satz 1 des
+Einkommensteuergesetzes oder die Körperschaftsteuer nach § 32 Absatz 1
+als abgegolten, ist der Antrag bei dem Bundeszentralamt für Steuern zu
+stellen. Hat die Gesellschaft ihren Sitz im Inland, ist der Antrag
+abweichend von den Sätzen 3 und 4 bei dem Finanzamt zu stellen, in
+dessen Bezirk die Gesellschaft ihren Sitz hat. Die Sätze 1 bis 5
+finden keine Anwendung auf
 
 1.  Investmentfonds im Sinne des Investmentsteuergesetzes und
 
@@ -144,11 +147,28 @@ auf
 
 
 
+Abweichend von Satz 2 kann der Antrag im Fall
+
+1.  einer Neugründung bis zum Ablauf eines Monats nach Abschluss des
+    Gesellschaftsvertrags,
+
+
+2.  eines Formwechsels einer Körperschaft in eine Personengesellschaft bis
+    zum Ablauf eines Monats nach Anmeldung des Formwechsels beim
+    zuständigen Register von der Körperschaft oder der
+    Personengesellschaft
+
+
+
+mit Wirkung für das bereits laufende Wirtschaftsjahr gestellt werden.
 
 (2) Der Übergang zur Körperschaftsbesteuerung gilt als Formwechsel im
 Sinne des § 1 Absatz 3 Nummer 3 des Umwandlungssteuergesetzes. Die §§
-1 und 25 des Umwandlungssteuergesetzes sind entsprechend anzuwenden.
-Als Einbringungszeitpunkt gilt das Ende des Wirtschaftsjahrs, das dem
+1 und 25 des Umwandlungssteuergesetzes sind entsprechend anzuwenden;
+dabei schließt allein die Zurückbehaltung der Beteiligung an einer
+Komplementärin der optierenden Gesellschaft die Anwendung des § 20
+Absatz 2 des Umwandlungssteuergesetzes nicht aus. Als
+Einbringungszeitpunkt gilt das Ende des Wirtschaftsjahrs, das dem
 Wirtschaftsjahr im Sinne des Absatzes 1 Satz 2 unmittelbar vorangeht;
 § 9 Satz 3 des Umwandlungssteuergesetzes ist nicht anzuwenden. Das im
 Einbringungszeitpunkt in der Steuerbilanz auszuweisende Eigenkapital
@@ -186,11 +206,11 @@ Einnahmen bei einem Gesellschafter einer Kapitalgesellschaft anderen
 Einkunftsarten zuzurechnen wären, gilt abweichend von Satz 3, dass
 auch die Einnahmen des Gesellschafters der optierenden Gesellschaft zu
 diesen Einkünften gehören. Gewinnanteile gelten erst dann als
-ausgeschüttet, wenn sie entnommen werden oder ihre Auszahlung verlangt
-werden kann. § 4 Absatz 3 des Einkommensteuergesetzes ist bei einer
-optierenden Gesellschaft nicht anzuwenden. In den Fällen des Satzes 2
-Nummer 2 gelten die optierende Gesellschaft als lohnsteuerlicher
-Arbeitgeber und der Gesellschafter als Arbeitnehmer.
+ausgeschüttet, wenn sie entnommen werden. § 4 Absatz 3 des
+Einkommensteuergesetzes ist bei einer optierenden Gesellschaft nicht
+anzuwenden. In den Fällen des Satzes 2 Nummer 2 gelten die optierende
+Gesellschaft als lohnsteuerlicher Arbeitgeber und der Gesellschafter
+als Arbeitnehmer.
 
 (4) Eine Gesellschaft, die nach Absatz 1 zur Körperschaftsbesteuerung
 optiert hat, kann beantragen, dass sie nicht mehr wie eine
@@ -271,10 +291,10 @@ Beschränkt körperschaftsteuerpflichtig sind
 
 
 
-### § 3 Abgrenzung der Steuerpflicht bei nichtrechtsfähigen Personenvereinigungen und Vermögensmassen sowie bei Realgemeinden
+### § 3 Abgrenzung der Steuerpflicht bei Personenvereinigungen und nicht rechtsfähigen Vermögensmassen sowie bei Realgemeinden
 
-(1) Nichtrechtsfähige Personenvereinigungen, Anstalten, Stiftungen und
-andere Zweckvermögen sind körperschaftsteuerpflichtig, wenn ihr
+(1) Personenvereinigungen, nicht rechtsfähige Anstalten, Stiftungen
+und andere Zweckvermögen sind körperschaftsteuerpflichtig, wenn ihr
 Einkommen weder nach diesem Gesetz noch nach dem Einkommensteuergesetz
 unmittelbar bei einem anderen Steuerpflichtigen zu versteuern ist.
 
@@ -565,9 +585,12 @@ Hoheitsbetrieb zusammengefasst werden.
     3                   Erzielt das Unternehmen Einnahmen aus der
     Lieferung von Strom aus Anlagen, für den es unter den Voraussetzungen
     des § 21 Absatz 3 des Erneuerbare-Energien-Gesetzes einen Anspruch auf
-    Zahlung eines Mieterstromzuschlags hat, erhöht sich die Grenze des
-    Satzes 2 für diese Einnahmen auf 20 Prozent, wenn die Grenze des
-    Satzes 2 nur durch diese Einnahmen überschritten wird.
+    Zahlung eines Mieterstromzuschlags hat, oder aus der Bereitstellung
+    von Strom aus Gebäudestromanlagen gemäß § 3 Nummer 20a des
+    Energiewirtschaftsgesetzes zur Nutzung durch Letztverbraucher im
+    Rahmen der Gemeinschaftlichen Gebäudeversorgung, erhöht sich die
+    Grenze des Satzes 2 für diese Einnahmen auf 30 Prozent, wenn die
+    Grenze des Satzes 2 nur durch diese Einnahmen überschritten wird.
     4                   Zu den Einnahmen nach Satz 3 gehören auch
     Einnahmen aus der zusätzlichen Stromlieferung im Sinne des § 42a
     Absatz 2 Satz 6 des Energiewirtschaftsgesetzes sowie Einnahmen aus der
@@ -1006,10 +1029,10 @@ nicht die Anschaffungskosten der Beteiligung.
 
 (4) (weggefallen)
 
-(5) Bei Personenvereinigungen bleiben für die Ermittlung des
-Einkommens Beiträge, die auf Grund der Satzung von den Mitgliedern
-lediglich in ihrer Eigenschaft als Mitglieder erhoben werden, außer
-Ansatz.
+(5) Bei Körperschaften und Personenvereinigungen bleiben für die
+Ermittlung des Einkommens Beiträge, die auf Grund der Satzung von den
+Mitgliedern lediglich in ihrer Eigenschaft als Mitglieder erhoben
+werden, außer Ansatz.
 
 (6) Besteht das Einkommen nur aus Einkünften, von denen lediglich ein
 Steuerabzug vorzunehmen ist, so ist ein Abzug von Betriebsausgaben
@@ -1145,37 +1168,26 @@ entsprechend, dass stille Reserven im Sinne des § 8c Absatz 1 Satz 6
 nur zu berücksichtigen sind, soweit sie die nach § 8c Absatz 1 Satz 5
 und § 8d Absatz 2 Satz 1 abziehbaren nicht genutzten Verluste
 übersteigen.
-4             Auf Kapitalgesellschaften, die ihre Einkünfte nach § 2
-Abs. 2 Nr. 2 des Einkommensteuergesetzes ermitteln, ist § 4h des
-Einkommensteuergesetzes sinngemäß anzuwenden.
+4             Bei Steuerpflichtigen im Sinne dieses Gesetzes gelten
+alle Einkünfte als in einem Betrieb im Sinne des § 4h Absatz 1 Satz 1
+des Einkommensteuergesetzes erzielt.
 
-(2) § 4h Abs. 2 Satz 1 Buchstabe b des Einkommensteuergesetzes ist nur
-anzuwenden, wenn die Vergütungen für Fremdkapital an einen zu mehr als
-einem Viertel unmittelbar oder mittelbar am Grund- oder Stammkapital
-beteiligten Anteilseigner, eine diesem nahe stehende Person (§ 1 Abs.
-2 des Außensteuergesetzes vom 8. September 1972 – BGBl. I S. 1713 –,
-das zuletzt durch Artikel 3 des Gesetzes vom 28. Mai 2007 – BGBl. I S.
-914 – geändert worden ist, in der jeweils geltenden Fassung) oder
-einen Dritten, der auf den zu mehr als einem Viertel am Grund- oder
-Stammkapital beteiligten Anteilseigner oder eine diesem nahe stehende
-Person zurückgreifen kann, nicht mehr als 10 Prozent der die
-Zinserträge übersteigenden Zinsaufwendungen der Körperschaft im Sinne
-des § 4h Abs. 3 des Einkommensteuergesetzes betragen und die
-Körperschaft dies nachweist.
+(2) (weggefallen)
 
 (3)
-1             § 4h Abs. 2 Satz 1 Buchstabe c des
+1             § 4h Absatz 2 Satz 1 Buchstabe c des
 Einkommensteuergesetzes ist nur anzuwenden, wenn die Vergütungen für
 Fremdkapital der Körperschaft oder eines anderen demselben Konzern
-zugehörenden Rechtsträgers an einen zu mehr als einem Viertel
-unmittelbar oder mittelbar am Kapital beteiligten Gesellschafter einer
-konzernzugehörigen Gesellschaft, eine diesem nahe stehende Person (§ 1
-Abs. 2 des Außensteuergesetzes) oder einen Dritten, der auf den zu
-mehr als einem Viertel am Kapital beteiligten Gesellschafter oder eine
-diesem nahe stehende Person zurückgreifen kann, nicht mehr als 10
-Prozent der die Zinserträge übersteigenden Zinsaufwendungen des
-Rechtsträgers im Sinne des § 4h Abs. 3 des Einkommensteuergesetzes
-betragen und die Körperschaft dies nachweist.
+zugehörenden Rechtsträgers an zu mindestens einem Viertel unmittelbar
+oder mittelbar am Kapital beteiligte Gesellschafter einer
+konzernzugehörigen Gesellschaft, diesen nahestehende Personen (§ 1
+Absatz 2 des Außensteuergesetzes) oder Dritte, die auf zu mindestens
+einem Viertel am Kapital beteiligte Gesellschafter oder diesen
+nahestehende Personen zurückgreifen können, bezogen auf den jeweiligen
+Rechtsträger insgesamt nicht mehr als 10 Prozent der die Zinserträge
+übersteigenden Zinsaufwendungen des Rechtsträgers im Sinne des § 4h
+Absatz 3 des Einkommensteuergesetzes betragen und die Körperschaft
+dies nachweist.
 2             Satz 1 gilt nur für Zinsaufwendungen aus
 Verbindlichkeiten, die in dem voll konsolidierten Konzernabschluss
 nach § 4h Abs. 2 Satz 1 Buchstabe c des Einkommensteuergesetzes
@@ -2030,10 +2042,7 @@ Voraussetzungen erfüllt sind:
     vernünftiger kaufmännischer Beurteilung wirtschaftlich begründet ist.
 
 
-5.  Negative Einkünfte des Organträgers oder der Organgesellschaft bleiben
-    bei der inländischen Besteuerung unberücksichtigt, soweit sie in einem
-    ausländischen Staat im Rahmen der Besteuerung des Organträgers, der
-    Organgesellschaft oder einer anderen Person berücksichtigt werden.
+5.  (weggefallen)
 
 
 
@@ -3082,6 +3091,94 @@ in einem Kalenderjahr bezogenen Kapitalerträge im Sinne des Satzes 1
 auf der Grundlage eines Freistellungsbescheids nach § 155 Absatz 1
 Satz 3 der Abgabenordnung.
 
+(6)
+1             Ist die Körperschaftsteuer des Gläubigers für
+Kapitalerträge im Sinne des § 49 Absatz 1 Nummer 5 des
+Einkommensteuergesetzes nach Absatz 1 abgegolten, wird dem Gläubiger
+der Kapitalerträge auf Antrag die einbehaltene und abgeführte
+Kapitalertragsteuer erstattet, wenn
+
+1.  der Gläubiger der Kapitalerträge eine nach § 2 Nummer 1 beschränkt
+    steuerpflichtige Körperschaft, Personenvereinigung oder Vermögensmasse
+    ist, die
+
+    a)  die Voraussetzungen des § 5 Absatz 1 Nummer 9 erfüllt,
+
+
+    b)  Sitz und Geschäftsleitung in einem Mitgliedstaat der Europäischen
+        Union oder in einem Staat hat, der auf Grund völkervertraglicher
+        Abkommen oder Übereinkommen verpflichtet ist, der Bundesrepublik
+        Deutschland entsprechend dem OECD-Standard für Transparenz und
+        effektiven Informationsaustausch auf Ersuchen im Sinne des § 4 Absatz
+        2 Nummer 2 in Verbindung mit Absatz 4 Satz 1 des Steueroasen-
+        Abwehrgesetzes Amtshilfe zu leisten und tatsächlich leistet,
+
+
+    c)[^F829427_02_BJNR025990976BJNE006320123]
+  Sitz und Geschäftsleitung in einem Mitgliedstaat der Europäischen
+        Union oder in einem Staat hat, der auf Grund völkervertraglicher
+        Abkommen oder Übereinkommen verpflichtet ist, der Bundesrepublik
+        Deutschland Amtshilfe bei der Beitreibung gemäß der Richtlinie
+        2010/24/EU des Rates vom 16. März 2010 über die Amtshilfe bei der
+        Beitreibung von Forderungen in Bezug auf bestimmte Steuern, Abgaben
+        und sonstige Maßnahmen (ABl. L 84 vom 31.3.2010, S. 1) oder gemäß
+        einem dem Artikel 27 des OECD-Musterabkommens 2017 zur Vermeidung der
+        Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen und vom
+        Vermögen
+        entsprechenden Artikel in einem Abkommen zur Vermeidung der
+        Doppelbesteuerung zu leisten, und tatsächlich leistet, und
+
+
+    d)  im Staat des Orts ihrer Geschäftsleitung ohne Wahlmöglichkeit einer §
+        1 vergleichbaren unbeschränkten Steuerpflicht unterliegt,
+
+
+
+
+
+2.  in den Fällen des § 20 Absatz 1 Nummer 1, 2 und 9 des
+    Einkommensteuergesetzes der Gläubiger unmittelbar am Grund- oder
+    Stammkapital der Schuldnerin der Kapitalerträge beteiligt ist und
+
+
+3.  im Fall der Ansässigkeit des Gläubigers außerhalb eines
+    Mitgliedstaates der Europäischen Union oder eines Vertragsstaates, auf
+    den das Abkommen über den Europäischen Wirtschaftraums Anwendung
+    findet, die Kapitalerträge nicht im Zusammenhang mit
+    Direktinvestitionen stehen.
+
+
+
+2             Satz 1 gilt nur, soweit
+
+1.  keine Erstattung der betreffenden Kapitalertragsteuer nach anderen
+    Vorschriften vorgesehen ist,
+
+
+2.  ein Anspruch auf völlige oder teilweise Erstattung der
+    Kapitalertragsteuer bei entsprechender Anwendung des § 50d Absatz 3
+    oder § 50j des Einkommensteuergesetzes nicht ausgeschlossen wäre und
+
+
+3.  die Kapitalertragsteuer beim Gläubiger nicht angerechnet oder von der
+    Steuerbemessungsgrundlage abgezogen werden kann; die Möglichkeit eines
+    Anrechnungsvortrags steht der Anrechnung gleich.
+
+
+
+3             Der Gläubiger der Kapitalerträge hat die
+Erstattungsvoraussetzungen nach den Sätzen 1 und 2 nachzuweisen.
+4             Der Gläubiger hat insbesondere nachzuweisen, inwieweit
+die deutsche Kapitalertragsteuer im anderen Staat tatsächlich nicht
+angerechnet, nicht abgezogen oder nicht vorgetragen worden ist.
+5             § 50c Absatz 3 Satz 1, 2 und Satz 3 erster Halbsatz
+sowie Absatz 5 des Einkommensteuergesetzes sind entsprechend
+anzuwenden.
+
+[^F829427_02_BJNR025990976BJNE006320123]:     Amtlicher Hinweis: Dieses Dokument ist im Internet abrufbar unter
+    www.bzst.de/DE/Behoerden/InternationaleAmtshilfe/AmtshilfeBeitreibungZ
+    ustellung/amtshilfe\_beitreibung\_zustellung\_node.html
+
 
 ### § 32a Erlass, Aufhebung oder Änderung von Steuerbescheiden bei verdeckter Gewinnausschüttung oder verdeckter Einlage
 
@@ -3229,7 +3326,7 @@ Gesetzes mit Zustimmung des Bundesrates durch Rechtsverordnung
 
 (1) Diese Fassung des Gesetzes gilt, soweit in den folgenden Absätzen
 nichts anderes bestimmt ist, erstmals für den Veranlagungszeitraum
-2022\.
+2024\.
 
 (1a) § 1a in der Fassung des Artikels 1 des Gesetzes vom 25. Juni 2021
 (BGBl. I S. 2050) ist erstmals für den Veranlagungszeitraum 2021
@@ -3285,9 +3382,9 @@ anzuwenden.
 am 1. Januar 2016 geltenden Fassung ist erstmals für den
 Veranlagungszeitraum 2016 anzuwenden.
 
-(3b) § 5 Absatz 1 Nummer 10 in der Fassung des Artikels 2 des Gesetzes
-vom 4. August 2019 (BGBl. I S. 1122) ist erstmals für den
-Veranlagungszeitraum 2019 anzuwenden.
+(3b) § 5 Absatz 1 Nummer 10 in der Fassung des Artikels 18 des
+Gesetzes vom 27. März 2024 (BGBl. 2024 I Nr. 108) ist erstmals für den
+Veranlagungszeitraum 2023 anzuwenden.
 
 (3c) § 8 Absatz 1 in der Fassung des Artikels 3 des Gesetzes vom 25.
 Juni 2021 (BGBl. I S. 2056) ist auch für Veranlagungszeiträume vor
@@ -3301,13 +3398,17 @@ anzuwenden, wenn der Steuerpflichtige einen Antrag nach § 52 Absatz 4a
 Satz 3 des Einkommensteuergesetzes in der Fassung des Artikels 2 des
 Gesetzes vom 11. Dezember 2018 (BGBl. I S. 2338) stellt.
 
-(4) § 8a Absatz 2 und 3 ist nicht anzuwenden, wenn die
+(4)
+1             § 8a Absatz 2 und 3 ist nicht anzuwenden, wenn die
 Rückgriffsmöglichkeit des Dritten allein auf der Gewährträgerhaftung
 einer Gebietskörperschaft oder einer anderen Einrichtung des
 öffentlichen Rechts gegenüber den Gläubigern eines Kreditinstituts für
 Verbindlichkeiten beruht, die bis zum 18. Juli 2001 vereinbart waren;
 Gleiches gilt für bis zum 18. Juli 2005 vereinbarte Verbindlichkeiten,
 wenn deren Laufzeit nicht über den 31. Dezember 2015 hinausgeht.
+2             § 8a in der am 31. Dezember 2023 geltenden Fassung ist
+weiter anzuwenden, soweit dieser auf § 4h des Einkommensteuergesetzes
+in der am 31. Dezember 2023 geltenden Fassung Bezug nimmt.
 
 (5)
 1             § 8b Absatz 1 Satz 3 in der Fassung des Artikels 2 des
@@ -3532,7 +3633,11 @@ Körperschaftsteuer noch nicht bestandskräftig festgesetzt ist.
 Leistungen und Nennkapitalrückzahlungen, die nach dem 31. Dezember
 2022 erbracht werden.
 
-(10a) § 33 Absatz 1 Nummer 2 Buchstabe d in der am 1. Januar 2016
+(10a) § 32 Absatz 6 in der Fassung des Artikels 18 des Gesetzes vom
+27\. März 2024 (BGBl. 2024 I Nr. 108) ist in allen offenen Fällen
+anzuwenden.
+
+(10b) § 33 Absatz 1 Nummer 2 Buchstabe d in der am 1. Januar 2016
 geltenden Fassung ist erstmals für den Veranlagungszeitraum 2016
 anzuwenden.
 

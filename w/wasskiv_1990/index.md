@@ -16,6 +16,9 @@ Fundstelle
 :   BGBl I: 1990, 107
 
 Stand: Zuletzt geändert Art. 36 V v. 2.6.2016 I 1257
+Änderung durch
+:   Art. 5 V v. 18.3.2024 I Nr. 100 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Eingangsformel
 
@@ -84,9 +87,8 @@ erforderlich, die Breite der freigegebenen Strecken oder Wasserflächen
 an.
 
 (3) Eine Übersicht über die freigegebenen Strecken und Wasserflächen
-wird im Verkehrsblatt - Amtsblatt des Bundesministers für Verkehr und
-digitale Infrastruktur der Bundesrepublik Deutschland -
-veröffentlicht.
+wird im Verkehrsblatt - Amtsblatt des Bundesministeriums für Digitales
+und Verkehr der Bundesrepublik Deutschland - veröffentlicht.
 
 
 ## § 2
@@ -142,27 +144,30 @@ Schiffsführers den Wasserskiläufer und die von diesem zu durchfahrende
 Strecke zu beobachten.
 
 (3) Als ziehendes Fahrzeug darf ein Wasserfahrzeug nur eingesetzt
-werden, wenn es
+werden, wenn es über
 
-1.  ausreichenden Platz für den Beobachter bietet, um in sicherer Position
-    mit dem Rücken zum Schiffsführer zu sitzen,
-
-
-2.  über ausreichenden Platz oder Einrichtungen verfügt, um im Notfall
-    einen Wasserskiläufer bergen zu können.
+1.  ausreichenden Platz für den Beobachter verfügt, um in sicherer
+    Position mit dem Rücken zum Schiffsführer zu sitzen,
 
 
+2.  ausreichenden Platz oder eine Einrichtung verfügt, um im Notfall einen
+    Wasserskiläufer retten zu können,
 
-Ein Wassermotorrad (§ 1 Nr. 3 der Wassermotorräder-Verordnung vom 31.
-Mai 1995 (BGBl. I S. 79), die zuletzt durch Artikel 9 der Verordnung
-vom 18. Dezember 2002 (BGBl. I S. 4580) geändert worden ist, in der
-jeweils geltenden Fassung) darf als ziehendes Fahrzeug nur eingesetzt
-werden, wenn es zusätzlich zu den Anforderungen nach Satz 1 über
-ausreichende Kippstabilität verfügt und sein Typ in einer amtlichen
-Liste des Bundesministeriums für Verkehr und digitale Infrastruktur,
-die im Verkehrsblatt bekannt gemacht wird, aufgeführt ist. Die
-Aufnahme in die Liste erfolgt, wenn der Typ die Anforderungen nach den
-Sätzen 1 und 2 erfüllt.
+
+3.  eine fest mit dem Fahrzeug verbundene Wiederaufstiegshilfe
+    (Aufstiegsstufe, Aufstiegsleiter) verfügt,
+
+
+4.  eine fest mit dem Fahrzeug verbundene, zum Ziehen von Wasserskiläufern
+    ausreichend ausgelegte Zugeinrichtung verfügt.
+
+
+
+Die in der Amtlichen Liste des Bundesministeriums für Digitales und
+Verkehr vom 14. Mai 2012 (VkBl. 2012 S. 412), die zuletzt durch die
+Bekanntmachung vom 10. Juni 2022 (VkBl. 2022 S. 475) geändert worden
+ist, enthaltenen Wassermotorräder dürfen weiterhin als ziehende
+Fahrzeuge beim Wasserskilaufen eingesetzt werden.
 
 
 ## § 4
@@ -213,13 +218,14 @@ fahrlässig
 
 
 2.  entgegen § 3 Abs. 1 Satz 2 einen ausreichenden Abstand nicht einhält
-    oder sich nicht im Kielwasser des ziehenden Fahrzeugs hält oder
+    oder sich nicht im Kielwasser des ziehenden Fahrzeugs hält,
 
 
-3.  entgegen § 3 Abs. 2 Satz 1 einen oder mehrere Wasserskiläufer zieht.
+3.  entgegen § 3 Abs. 2 Satz 1 einen oder mehrere Wasserskiläufer zieht
+    oder
 
 
-4.  (weggefallen)
+4.  entgegen § 3 Absatz 3 Satz 1 ein Wasserfahrzeug einsetzt.
 
 
 

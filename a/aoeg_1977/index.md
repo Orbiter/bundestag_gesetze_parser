@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1976, 3341 (1977 I 667)
 
 Zuletzt geändert durch
-:   Art. 6 G v. 20.12.2022 I 2730
+:   Art. 16 G v. 27.3.2024 I Nr. 108
 
 Stand: Bek. v. 12.10.2023 I Nr. 293 mWv 1.11.2023 ist berücksichtigt
 
@@ -702,6 +702,10 @@ alle am 24. Juni 2017 noch nicht abgelaufenen Verjährungsfristen.
 geltenden Fassung gelten für alle am 21. Dezember 2022 noch nicht
 abgelaufenen Verjährungsfristen.
 
+(7) § 230 Absatz 2 der Abgabenordnung in der am 28. März 2024
+geltenden Fassung gilt für alle am 28. März 2024 noch nicht
+abgelaufenen Verjährungsfristen.
+
 
 ### § 15 Zinsen
 
@@ -796,6 +800,10 @@ Verzinsungszeiträume ab dem 1. Januar 2019 entsprechend anzuwenden,
 solange die technischen und organisatorischen Voraussetzungen für die
 Anwendung des § 238 Absatz 1a der Abgabenordnung in der am 22. Juli
 2022 geltenden Fassung noch nicht vorliegen.
+
+(17) § 237 Absatz 6 der Abgabenordnung in der am 28. März 2024
+geltenden Fassung gilt für alle Haftungsansprüche, die nach dem 31.
+Dezember 2024 entstehen.
 
 
 ### § 16 Säumniszuschläge
@@ -1088,84 +1096,47 @@ geltenden Fassung ist auf alle nach dem 20. Dezember 2022 anhängig
 gewordenen Klagen anzuwenden.
 
 
-### § 19
+### § 19 Buchführungspflicht bestimmter Steuerpflichtiger
 
-(1) § 141 Abs. 1 Satz 1 Nr. 1 der Abgabenordnung in der Fassung des
-Artikels 6 des Gesetzes vom 31. Juli 2003 (BGBl. I S. 1550) ist auf
-Umsätze der Kalenderjahre anzuwenden, die nach dem 31. Dezember 2003
-beginnen.
-
-(2) § 141 Abs. 1 Satz 1 Nr. 3 der Abgabenordnung in der Fassung des
-Artikels 6 des Gesetzes vom 31. Juli 2003 (BGBl. I S. 1550) ist für
-Feststellungen anzuwenden, die nach dem 31. Dezember 2003 getroffen
-werden.
-
-(3) § 141 Abs. 1 Satz 1 Nr. 4 der Abgabenordnung in der Fassung des
-Artikels 6 des Gesetzes vom 31. Juli 2003 (BGBl. I S. 1550) ist auf
-Gewinne der Wirtschaftsjahre anzuwenden, die nach dem 31. Dezember
-2003 beginnen. § 141 Abs. 1 Satz 1 Nr. 4 der Abgabenordnung in der
-Fassung des Artikels 5 des Gesetzes vom 7. September 2007 (BGBl. I S.
-2246) ist auf Gewinne der Wirtschaftsjahre anzuwenden, die nach dem
-31\. Dezember 2007 beginnen. § 141 Absatz 1 Satz 1 Nummer 4 der
-Abgabenordnung in der am 1. Januar 2016 geltenden Fassung ist auf
-Gewinne der Wirtschaftsjahre anzuwenden, die nach dem 31. Dezember
-2015 beginnen.
-
-(4) § 141 Abs. 1 Satz 1 Nr. 5 der Abgabenordnung in der Fassung des
-Artikels 6 des Gesetzes vom 31. Juli 2003 (BGBl. I S. 1550) ist auf
-Gewinne der Kalenderjahre anzuwenden, die nach dem 31. Dezember 2003
-beginnen. § 141 Abs. 1 Satz 1 Nr. 5 der Abgabenordnung in der Fassung
-des Artikels 5 des Gesetzes vom 7. September 2007 (BGBl. I S. 2246)
-ist auf Gewinne der Kalenderjahre anzuwenden, die nach dem 31.
-Dezember 2007 beginnen. § 141 Absatz 1 Satz 1 Nummer 5 der
-Abgabenordnung in der am 1. Januar 2016 geltenden Fassung ist auf
-Gewinne der Kalenderjahre anzuwenden, die nach dem 31. Dezember 2015
-beginnen.
-
-(5) Eine Mitteilung über den Beginn der Buchführungspflicht ergeht
-nicht, wenn die Voraussetzungen des § 141 Abs. 1 der Abgabenordnung
-für Kalenderjahre, die vor dem 1. Januar 2004 liegen, erfüllt sind,
-jedoch nicht die Voraussetzungen des § 141 Abs. 1 der Abgabenordnung
-in der Fassung des Gesetzes vom 31. Juli 2003 (BGBl. I S. 1550) im
-Kalenderjahr 2004. Entsprechendes gilt für Feststellungen, die vor dem
-1\. Januar 2004 getroffen werden, oder für Wirtschaftsjahre, die vor
-dem 1. Januar 2004 enden.
-
-(6) § 141 Abs. 1 Satz 1 Nr. 1 der Abgabenordnung in der am 26. August
-2006 geltenden Fassung ist auf Umsätze der Kalenderjahre anzuwenden,
-die nach dem 31. Dezember 2006 beginnen. Eine Mitteilung über den
-Beginn der Buchführungspflicht ergeht nicht, wenn die Voraussetzungen
-des § 141 Abs. 1 Satz 1 Nr. 1 der Abgabenordnung in der am 25. August
-2006 geltenden Fassung für Kalenderjahre, die vor dem 1. Januar 2007
-liegen, erfüllt sind, jedoch im Kalenderjahr 2006 nicht die des § 141
-Abs. 1 Satz 1 Nr. 1 der Abgabenordnung in der am 26. August 2006
-geltenden Fassung.
-
-(7) Eine Mitteilung über den Beginn der Buchführungspflicht ergeht
-nicht, wenn die Voraussetzungen des § 141 Abs. 1 Satz 1 Nr. 4 und Nr.
-5 der Abgabenordnung in der am 13. September 2007 geltenden Fassung
-für Kalenderjahre, die vor dem 1. Januar 2008 liegen, erfüllt sind,
-jedoch im Kalenderjahr 2007 nicht die Voraussetzungen des § 141 Abs. 1
-Satz 1 Nr. 4 und Nr. 5 der Abgabenordnung in der Fassung des Artikels
-5 des Gesetzes vom 7. September 2007 (BGBl. I S. 2246).
-
-(8) § 141 Absatz 1 Satz 1 Nummer 1 der Abgabenordnung in der am 1.
+(1) § 141 Absatz 1 Satz 1 Nummer 1 der Abgabenordnung in der am 1.
 Januar 2016 geltenden Fassung ist auf Umsätze der Kalenderjahre
 anzuwenden, die nach dem 31. Dezember 2015 beginnen. Eine Mitteilung
 über den Beginn der Buchführungspflicht ergeht nicht, wenn die
-Voraussetzungen des § 141 Absatz 1 Satz 1 Nummer 1 der Abgabenordnung
+Voraussetzungen des § 141 Absatz 1 Satz 1 Nummer 1 der Abgabenordnung
 in der am 31. Dezember 2015 geltenden Fassung für Kalenderjahre, die
 vor dem 1. Januar 2016 liegen, erfüllt sind, jedoch im Kalenderjahr
 2015 die Voraussetzungen des § 141 Absatz 1 Satz 1 Nummer 1 der
 Abgabenordnung in der am 1. Januar 2016 geltenden Fassung nicht
 erfüllt sind.
 
-(9) Eine Mitteilung über den Beginn der Buchführungspflicht ergeht
+(2) Eine Mitteilung über den Beginn der Buchführungspflicht ergeht
 nicht, wenn die Voraussetzungen des § 141 Absatz 1 Satz 1 Nummer 4 und
 5 der Abgabenordnung in der am 31. Dezember 2015 geltenden Fassung für
 Kalenderjahre, die vor dem 1. Januar 2016 liegen, erfüllt sind, jedoch
 im Kalenderjahr 2015 die Voraussetzungen des § 141 Absatz 1 Satz 1
 Nummer 4 und 5 der Abgabenordnung in der am 1. Januar 2016 geltenden
+Fassung nicht erfüllt sind.
+
+(3) § 141 Absatz 1 Satz 1 Nummer 1 der Abgabenordnung in der am 28.
+März 2024 geltenden Fassung ist auf Umsätze der Kalenderjahre
+anzuwenden, die nach dem 31. Dezember 2023 beginnen. Eine Mitteilung
+über den Beginn der Buchführungspflicht ergeht nicht, wenn die
+Voraussetzungen des § 141 Absatz 1 Satz 1 Nummer 1 der Abgabenordnung
+in der am 31. Dezember 2023 geltenden Fassung für Kalenderjahre, die
+vor dem 1. Januar 2024 liegen, erfüllt sind, jedoch im Kalenderjahr
+2023 die Voraussetzungen des § 141 Absatz 1 Satz 1 Nummer 1 der
+Abgabenordnung in der am 28. März 2024 geltenden Fassung nicht erfüllt
+sind.
+
+(4) § 141 Absatz 1 Satz 1 Nummer 4 und 5 der Abgabenordnung in der am
+28\. März 2024 geltenden Fassung ist auf Gewinne der Wirtschaftsjahre
+anzuwenden, die nach dem 31. Dezember 2023 beginnen. Eine Mitteilung
+über den Beginn der Buchführungspflicht ergeht nicht, wenn die
+Voraussetzungen des § 141 Absatz 1 Satz 1 Nummer 4 und 5 der
+Abgabenordnung in der am 31. Dezember 2023 geltenden Fassung für
+Kalenderjahre, die vor dem 1. Januar 2024 liegen, erfüllt sind, jedoch
+im Kalenderjahr 2023 die Voraussetzungen des § 141 Absatz 1 Satz 1
+Nummer 4 und 5 der Abgabenordnung in der am 28. März 2024 geltenden
 Fassung nicht erfüllt sind.
 
 
@@ -1844,6 +1815,54 @@ Landesfinanzbehörden bis zum 30. April 2029 zu evaluieren. Die
 obersten Finanzbehörden der Länder haben die Ergebnisse der
 Evaluierung dem Bundesministerium der Finanzen bis zum 30. Juni 2029
 mitzuteilen.
+
+
+### § 39 Übergangs- und Anwendungsbestimmungen anlässlich der steuerverfahrensrechtlichen Umsetzung der Reform des Personengesellschaftsrechts
+
+(1) § 152 Absatz 4 Satz 3 und § 181 Absatz 2 Satz 2 Nummer 1 und 4 der
+Abgabenordnung in der am 1. Januar 2024 geltenden Fassung sind
+erstmals auf Feststellungserklärungen anzuwenden, die nach dem 31.
+Dezember 2023 einzureichen sind; eine Verlängerung der
+Feststellungserklärungsfrist nach § 109 der Abgabenordnung ist hierbei
+nicht zu berücksichtigen.
+
+(2) Wird die Feststellungserklärung für eine rechtsfähige
+Personenvereinigung nach dem 31. Dezember 2023 und vor dem 1. Januar
+2026 durch eine Person im Sinne des § 181 Absatz 2 Satz 2 Nummer 1
+oder 4 der Abgabenordnung in der am 31. Dezember 2023 geltenden
+Fassung abgegeben, ist die rechtsfähige Personenvereinigung von ihrer
+Erklärungspflicht nach § 181 Absatz 2 Satz 2 Nummer 1 der
+Abgabenordnung in der am 1. Januar 2024 geltenden Fassung befreit.
+
+(3) Bei einer rechtsfähigen Personenvereinigung können Verwaltungsakte
+und Mitteilungen, die nach der Abgabenordnung und den Steuergesetzen
+mit der gesonderten und einheitlichen Feststellung zusammenhängen,
+nach dem 31. Dezember 2023 und vor dem 1. Januar 2026 abweichend von §
+183 Absatz 1 bis 3 der Abgabenordnung in der am 1. Januar 2024
+geltenden Fassung auch nach Maßgabe des § 183 der Abgabenordnung in
+der am 31. Dezember 2023 geltenden Fassung dem
+Empfangsbevollmächtigten wirksam bekannt gegeben werden.
+
+(4) Wird gegen einen vor dem 1. Januar 2024 wirksam gewordenen
+Bescheid über die gesonderte und einheitliche Feststellung von
+Besteuerungsgrundlagen Einspruch eingelegt, bestimmt sich die
+Einspruchsbefugnis nach § 352 der Abgabenordnung in der am 31.
+Dezember 2023 geltenden Fassung. Das Gleiche gilt, wenn der eine
+rechtsfähige Personenvereinigung betreffende Feststellungsbescheid
+nach dem 31. Dezember 2023 und vor dem 1. Januar 2026 nach Maßgabe von
+Absatz 3 dem Empfangsbevollmächtigten nach § 183 der Abgabenordnung in
+der bis zum 31. Dezember 2023 geltenden Fassung bekannt gegeben worden
+ist. Ist über den Einspruch gegen einen vor dem 1. Januar 2024 wirksam
+gewordenen Bescheid nach dem 31. Dezember 2023 zu entscheiden, richtet
+sich das weitere Verfahren nach den ab dem 1. Januar 2024 geltenden
+Vorschriften der Abgabenordnung.
+
+(5) Wurde über das Vermögen einer Personenvereinigung vor dem 1.
+Januar 2024 das Insolvenzverfahren eröffnet, sind für
+Feststellungszeiträume und Feststellungszeitpunkte vor dem 1. Januar
+2024 § 152 Absatz 4 Satz 3, § 181 Absatz 2 Satz 2 Nummer 1, die §§ 183
+und 352 der Abgabenordnung in der am 31. Dezember 2023 geltenden
+Fassung weiterhin anzuwenden.
 
 
 ### Art 97a - Überleitungsregelungen aus Anlaß der Herstellung der Einheit Deutschlands

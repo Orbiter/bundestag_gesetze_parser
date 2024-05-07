@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2011, 3120
 
 Zuletzt geändert durch
-:   Art. 126 G v. 10.8.2021 I 3436
+:   Art. 7 Abs. 6 G v. 11.4.2024 I Nr. 119
 
 
 ## Eingangsformel
@@ -103,8 +103,7 @@ unanfechtbar geworden ist
         Tätigkeit ergeben,
 
 
-    e)  § 1 des Pflichtversicherungsgesetzes vom 5. April 1965 (BGBl. I S.
-        213) in der jeweils geltenden Fassung,
+    e)  § 6 des Pflichtversicherungsgesetzes,
 
 
     f)  umweltschützende Vorschriften, insbesondere des Abfall- und
@@ -295,8 +294,8 @@ Absatzes 2 auf Verlangen nachzuweisen:
 
 
 2.  das zuständige Registergericht, falls das Unternehmen im Handels-,
-    Partnerschafts-, Genossenschafts- oder Vereinsregister eingetragen
-    ist,
+    Genossenschafts-, Gesellschafts-, Partnerschafts- oder Vereinsregister
+    eingetragen ist,
 
 
 3.  Anschrift des Sitzes,
@@ -351,9 +350,9 @@ Erlaubnis erforderlich sind:
 
 1.  für das antragstellende Unternehmen:
 
-    a)  ein Auszug aus dem Handels-, Partnerschafts-, Genossenschafts- oder
-        Vereinsregister in beglaubigter Abschrift oder als amtlicher Ausdruck,
-        wenn eine entsprechende Eintragung besteht,
+    a)  ein Auszug aus dem Handels-, Genossenschafts-, Gesellschafts-,
+        Partnerschafts- oder Vereinsregister in beglaubigter Abschrift oder
+        als amtlicher Ausdruck, wenn eine entsprechende Eintragung besteht,
 
 
     b)  der Nachweis der Vertretungsberechtigung,

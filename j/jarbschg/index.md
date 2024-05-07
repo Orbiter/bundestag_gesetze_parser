@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1976, 965
 
 Zuletzt geändert durch
-:   Art. 2 G v. 16.7.2021 I 2970
+:   Art. 9 G v. 27.3.2024 I Nr. 109
 
 
 ## Eingangsformel
@@ -956,11 +956,14 @@ ist.
     233a des Strafgesetzbuches,
 
 
-4.  wegen einer Straftat nach dem Betäubungsmittelgesetz oder
+4.  wegen einer Straftat nach dem Betäubungsmittelgesetz,
 
 
-5.  wegen einer Straftat nach dem Jugendschutzgesetz oder nach dem Gesetz
-    über die Verbreitung jugendgefährdender Schriften wenigstens zweimal
+5.  wegen einer Straftat nach dem Konsumcannabisgesetz oder nach dem
+    Medizinal-Cannabisgesetz oder
+
+
+6.  wegen einer Straftat nach dem Jugendschutzgesetz wenigstens zweimal
 
 
 

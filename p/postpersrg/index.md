@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1994, 2325, 2353
 
 Zuletzt geändert durch
-:   Art. 14 Abs. 1 G v. 28.6.2021 I 2250
+:   Art. 4 G v. 20.12.2023 I Nr. 389
 
 
 ## Abschnitt 1 - Allgemeine dienstrechtliche Regelungen
@@ -53,9 +53,8 @@ Einstellungsverfügung ein Dienstvergehen zur Last zu legen, hat er die
 Verfügung vor ihrem Erlass unverzüglich unter Vorlage der Akten von
 der Bundesanstalt für Post und Telekommunikation Deutsche Bundespost
 auf Rechtmäßigkeit und sachgerechte Ausübung des Ermessens prüfen zu
-lassen. Entsprechendes gilt vor Erhebung der Disziplinarklage. Dem
-Prüfungsergebnis der Bundesanstalt hat die zuständige Stelle des
-jeweiligen Postnachfolgeunternehmens Rechnung zu tragen.
+lassen. Dem Prüfungsergebnis der Bundesanstalt hat die zuständige
+Stelle des jeweiligen Postnachfolgeunternehmens Rechnung zu tragen.
 
 (6) Beabsichtigt der Vorstand des Postnachfolgeunternehmens oder ein
 ihm nachgeordneter Stelleninhaber mit den Befugnissen eines

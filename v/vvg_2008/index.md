@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2007, 2631
 
 Zuletzt geändert durch
-:   Art. 17 G v. 22.2.2023 I Nr. 51
+:   Art. 4 G v. 11.4.2024 I Nr. 119
 
 
 ## Teil 1 - Allgemeiner Teil
@@ -1874,7 +1874,19 @@ nach dem für ihn maßgeblichen Recht zur Ausgleichung verpflichtet ist.
 (3) In der Haftpflichtversicherung von Gespannen sind bei einer
 Mehrfachversicherung die Versicherer im Verhältnis zueinander zu
 Anteilen entsprechend der Regelung in § 19 Absatz 4 des
-Straßenverkehrsgesetzes verpflichtet.
+Straßenverkehrsgesetzes verpflichtet. Wird ein Unfall durch ein
+Gespann verursacht und ist der Kraftfahrzeughaftpflichtversicherer des
+Anhängers nicht verpflichtet, dem Dritten vollständigen Schadensersatz
+zu leisten, so unterrichtet dieser Versicherer den Dritten auf dessen
+Verlangen unverzüglich über die Identität des
+Kraftfahrzeughaftpflichtversicherers des Zugfahrzeugs oder, wenn er
+den Kraftfahrzeughaftpflichtversicherer des Zugfahrzeugs nicht
+ermitteln kann, über den Entschädigungsmechanismus nach Artikel 10 der
+Richtlinie 2009/103/EG des Europäischen Parlaments und des Rates vom
+16\. September 2009 über die Kraftfahrzeug-Haftpflichtversicherung und
+die Kontrolle der entsprechenden Versicherungspflicht (ABl. L 263 vom
+7\.10.2009, S. 11), die durch die Richtlinie (EU) 2021/2118 (ABl. L 430
+vom 2.12.2021, S. 1) geändert worden ist.
 
 (4) Hat der Versicherungsnehmer eine Mehrfachversicherung in der
 Absicht vereinbart, sich dadurch einen rechtswidrigen Vermögensvorteil
@@ -2462,8 +2474,9 @@ geltend gemacht werden.
 Versicherer geltend machen,
 
 1.  wenn es sich um eine Haftpflichtversicherung zur Erfüllung einer nach
-    dem Pflichtversicherungsgesetz bestehenden Versicherungspflicht
-    handelt oder
+    § 1 des Pflichtversicherungsgesetzes oder nach § 3 des
+    Auslandsfahrzeug-Pflichtversicherungsgesetzes bestehenden
+    Versicherungspflicht handelt oder
 
 
 2.  wenn über das Vermögen des Versicherungsnehmers das Insolvenzverfahren
@@ -4619,10 +4632,10 @@ auf Großrisiken und auf laufende Versicherungen nicht anzuwenden.
     sonstigen Schadensversicherungen bei Versicherungsnehmern, die
     mindestens zwei der folgenden drei Merkmale überschreiten:
 
-    a)  6 200 000 Euro Bilanzsumme,
+    a)  6 600 000 Euro Bilanzsumme,
 
 
-    b)  12 800 000 Euro Nettoumsatzerlöse,
+    b)  13 600 000 Euro Nettoumsatzerlöse,
 
 
     c)  im Durchschnitt 250 Arbeitnehmer pro Wirtschaftsjahr.

@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 27.2.1997 I 378;
 
 Zuletzt geändert durch
-:   Art. 8 G v. 16.7.2021 I 2947
+:   Art. 28 G v. 27.3.2024 I Nr. 108
 
 
 ## Abschnitt 1 - Steuerpflicht
@@ -107,18 +107,19 @@ Zweckzuwendungen unter Lebenden.
 
 
 3.  in allen anderen Fällen für den Vermögensanfall, der in
-    Inlandsvermögen im Sinne des § 121 des Bewertungsgesetzes besteht
-    (beschränkte Steuerpflicht). Bei Inlandsvermögen im Sinne des § 121
-    Nr. 4 des Bewertungsgesetzes ist es ausreichend, wenn der Erblasser
-    zur Zeit seines Todes oder der Schenker zur Zeit der Ausführung der
-    Schenkung entsprechend der Vorschrift am Grund- oder Stammkapital der
-    inländischen Kapitalgesellschaft beteiligt ist. Wird nur ein Teil
-    einer solchen Beteiligung durch Schenkung zugewendet, gelten die
-    weiteren Erwerbe aus der Beteiligung, soweit die Voraussetzungen des §
-    14 erfüllt sind, auch dann als Erwerb von Inlandsvermögen, wenn im
-    Zeitpunkt ihres Erwerbs die Beteiligung des Erblassers oder Schenkers
-    weniger als ein Zehntel des Grund- oder Stammkapitals der Gesellschaft
-    beträgt.
+    Inlandsvermögen im Sinne des § 121 des Bewertungsgesetzes besteht oder
+    einen Anspruch auf Übertragung von Inlandsvermögen im Sinne des § 121
+    des Bewertungsgesetzes umfasst (beschränkte Steuerpflicht). Bei
+    Inlandsvermögen im Sinne des § 121 Nr. 4 des Bewertungsgesetzes ist es
+    ausreichend, wenn der Erblasser zur Zeit seines Todes oder der
+    Schenker zur Zeit der Ausführung der Schenkung entsprechend der
+    Vorschrift am Grund- oder Stammkapital der inländischen
+    Kapitalgesellschaft beteiligt ist. Wird nur ein Teil einer solchen
+    Beteiligung durch Schenkung zugewendet, gelten die weiteren Erwerbe
+    aus der Beteiligung, soweit die Voraussetzungen des § 14 erfüllt sind,
+    auch dann als Erwerb von Inlandsvermögen, wenn im Zeitpunkt ihres
+    Erwerbs die Beteiligung des Erblassers oder Schenkers weniger als ein
+    Zehntel des Grund- oder Stammkapitals der Gesellschaft beträgt.
 
 
 
@@ -129,6 +130,17 @@ dort Naturschätze des Meeresgrundes und des Meeresuntergrundes
 erforscht oder ausgebeutet werden.
 
 (3) (weggefallen)
+
+
+### § 2a Rechtsfähige Personengesellschaft
+
+Rechtsfähige Personengesellschaften (§ 14a Absatz 2 Nummer 2 der
+Abgabenordnung) gelten für Zwecke der Erbschaft- und Schenkungsteuer
+als Gesamthand und deren Vermögen als Gesamthandsvermögen. Bei einem
+Erwerb nach § 1 Absatz 1 Nummer 1 bis 3 durch eine rechtsfähige
+Personengesellschaft gelten deren Gesellschafter als Erwerber. Bei
+einer Zuwendung durch eine rechtsfähige Personengesellschaft gelten
+deren Gesellschafter als Zuwendende.
 
 
 ### § 3 Erwerb von Todes wegen
@@ -415,6 +427,13 @@ unmittelbar oder mittelbar dieselben Gesellschafter zu gleichen
 Anteilen beteiligt sind. Die Sätze 1 und 2 gelten außer für
 Kapitalgesellschaften auch für Genossenschaften.
 
+(9) Als Schenkung gilt auch die Werterhöhung einer Beteiligung eines
+persönlich haftenden Gesellschafters einer Kommanditgesellschaft auf
+Aktien, die eine an der Gesellschaft unmittelbar oder mittelbar
+beteiligte natürliche Person oder Stiftung (Bedachte) durch die
+Leistung einer anderen Person (Zuwendender) an die Gesellschaft
+erlangt. Absatz 8 Satz 2 ist entsprechend anzuwenden.
+
 
 ### § 8 Zweckzuwendungen
 
@@ -519,16 +538,16 @@ abgezogen werden. Die vom Erblasser herrührenden
 Steuererstattungsansprüche sind bei der Ermittlung der Bereicherung zu
 berücksichtigen, auch wenn sie rechtlich erst nach dem Tod des
 Erblassers entstanden sind. Der unmittelbare oder mittelbare Erwerb
-einer Beteiligung an einer Personengesellschaft oder einer anderen
-Gesamthandsgemeinschaft, die nicht unter § 97 Abs. 1 Satz 1 Nr. 5 des
-Bewertungsgesetzes fällt, gilt als Erwerb der anteiligen
-Wirtschaftsgüter; die dabei übergehenden Schulden und Lasten der
-Gesellschaft sind bei der Ermittlung der Bereicherung des Erwerbers
-wie eine Gegenleistung zu behandeln. Bei der Zweckzuwendung tritt an
-die Stelle des Vermögensanfalls die Verpflichtung des Beschwerten. Der
-steuerpflichtige Erwerb wird auf volle 100 Euro nach unten abgerundet.
-In den Fällen des § 1 Abs. 1 Nr. 4 tritt an die Stelle des
-Vermögensanfalls das Vermögen der Stiftung oder des Vereins.
+einer Beteiligung an einer Personenvereinigung, die nicht unter § 97
+Abs. 1 Satz 1 Nr. 5 des Bewertungsgesetzes fällt, gilt als Erwerb der
+anteiligen Wirtschaftsgüter; die dabei übergehenden Schulden und
+Lasten der Gesellschaft sind bei der Ermittlung der Bereicherung des
+Erwerbers wie eine Gegenleistung zu behandeln. Bei der Zweckzuwendung
+tritt an die Stelle des Vermögensanfalls die Verpflichtung des
+Beschwerten. Der steuerpflichtige Erwerb wird auf volle 100 Euro nach
+unten abgerundet. In den Fällen des § 1 Abs. 1 Nr. 4 tritt an die
+Stelle des Vermögensanfalls das Vermögen der Stiftung oder des
+Vereins.
 
 (2) Hat der Erblasser die Entrichtung der von dem Erwerber
 geschuldeten Steuer einem anderen auferlegt oder hat der Schenker die
@@ -1557,12 +1576,13 @@ Absatzes 6 außer Betracht.
 
 
     d)  die überlassenen Grundstücke, Grundstücksteile, grundstücksgleichen
-        Rechte und Bauten zum Betriebsvermögen, zum gesamthänderisch
-        gebundenen Betriebsvermögen einer Personengesellschaft oder zum
-        Vermögen einer Kapitalgesellschaft gehören und der Hauptzweck des
-        Betriebs in der Vermietung von Wohnungen im Sinne des § 181 Absatz 9
-        des Bewertungsgesetzes besteht, dessen Erfüllung einen
-        wirtschaftlichen Geschäftsbetrieb (§ 14 der Abgabenordnung) erfordert;
+        Rechte und Bauten zum Betriebsvermögen, zum Betriebsvermögen im Sinne
+        des § 97 Absatz 1a Nummer 1 des Bewertungsgesetzes einer
+        Personengesellschaft oder zum Vermögen einer Kapitalgesellschaft
+        gehören und der Hauptzweck des Betriebs in der Vermietung von
+        Wohnungen im Sinne des § 181 Absatz 9 des Bewertungsgesetzes besteht,
+        dessen Erfüllung einen wirtschaftlichen Geschäftsbetrieb (§ 14 der
+        Abgabenordnung) erfordert;
 
 
     e)  die Grundstücke, Grundstücksteile, grundstücksgleichen Rechte und
@@ -2061,11 +2081,11 @@ oder eines entsprechenden Nachfolgerechtsaktes.
 
 ### § 18 Mitgliederbeiträge
 
-Beiträge an Personenvereinigungen, die nicht lediglich die Förderung
-ihrer Mitglieder zum Zweck haben, sind steuerfrei, soweit die von
-einem Mitglied im Kalenderjahr der Vereinigung geleisteten Beiträge
-300 Euro nicht übersteigen. § 13 Abs. 1 Nr. 16 und 18 bleibt
-unberührt.
+Beiträge an Personenvereinigungen und rechtsfähige Vereine, die nicht
+lediglich die Förderung ihrer Mitglieder zum Zweck haben, sind
+steuerfrei, soweit die von einem Mitglied im Kalenderjahr der
+Vereinigung geleisteten Beiträge 300 Euro nicht übersteigen. § 13 Abs.
+1 Nr. 16 und 18 bleibt unberührt.
 
 
 ### § 19 Steuersätze
@@ -2264,8 +2284,8 @@ Gesetzes wohnhaften Berechtigten zur Verfügung stellen.
 (7) Die Haftung nach Absatz 6 ist nicht geltend zu machen, wenn der in
 einem Steuerfall in ein Gebiet außerhalb des Geltungsbereichs dieses
 Gesetzes gezahlte oder außerhalb des Geltungsbereichs dieses Gesetzes
-wohnhaften Berechtigten zur Verfügung gestellte Betrag 600 Euro nicht
-übersteigt.
+wohnhaften Berechtigten zur Verfügung gestellte Betrag 5 000 Euro
+nicht übersteigt.
 
 
 ### § 21 Anrechnung ausländischer Erbschaftsteuer
@@ -3127,6 +3147,10 @@ die Steuer nach dem 28. Dezember 2020 entsteht.
 Gesetzes vom 16. Juli 2021 (BGBl. I S. 2931) ist in allen Fällen
 anzuwenden, soweit die Steuerbescheide noch nicht bestandskräftig
 sind.
+
+(20) § 2 Absatz 1 Nummer 3 Satz 1 in der am 28. März 2024 geltenden
+Fassung ist auf Erwerbe anzuwenden, für die die Steuer nach dem 27.
+März 2024 entsteht.
 
 
 ### § 37a Sondervorschriften aus Anlass der Herstellung der Einheit Deutschlands

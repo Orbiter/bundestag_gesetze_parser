@@ -16,10 +16,10 @@ Fundstelle
 :   BGBl I: 1966, 292 (393)
 
 Stand: Konstitutive Neufassung gem. Art. I V v. 13.4.1966, in Kraft getreten am 4.5.1966
-Stand: Ersetzt V v. 7.9.1954 I 271
 Zuletzt geändert durch
-:   Art. 1 V v. 2.12.2021 I 5049
+:   Art. 1 V v. 17.4.2024 I Nr. 130
 
+Stand: Ersetzt V v. 7.9.1954 I 271
 
 ## I. - Besondere Anspruchsvoraussetzungen
 
@@ -158,12 +158,17 @@ den §§ 15 bis 26 BEG wie den Kindern eines Verfolgten zu.
 
     *        *   ab 1. Januar 2019
 
-        *   ein höherer Betrag als 670 Euro monatlich und
+        *   ein höherer Betrag als 670 Euro monatlich,
 
 
     *        *   ab 1. September 2021
 
-        *   ein höherer Betrag als 700 Euro monatlich
+        *   ein höherer Betrag als 700 Euro monatlich und
+
+
+    *        *   ab 1. Dezember 2023
+
+        *   ein höherer Betrag als 780 Euro monatlich
 
 
 
@@ -277,12 +282,17 @@ wenn sie
 
     *        *   ab 1. Januar 2019
 
-        *   von mehr als 670 Euro monatlich und
+        *   von mehr als 670 Euro monatlich,
 
 
     *        *   ab 1. September 2021
 
-        *   von mehr als 700 Euro monatlich
+        *   von mehr als 700 Euro monatlich und
+
+
+    *        *   ab 1. Dezember 2023
+
+        *   von mehr als 780 Euro monatlich
 
 
 
@@ -589,12 +599,17 @@ berücksichtigt, als sie den Betrag
 
 *    *   ab 1. Januar 2019
 
-    *   von 670 Euro und
+    *   von 670 Euro,
 
 
 *    *   ab 1. September 2021
 
-    *   von 700 Euro
+    *   von 700 Euro und
+
+
+*    *   ab 1. Dezember 2023
+
+    *   von 780 Euro
 
 
 
@@ -750,12 +765,17 @@ Die Rente erlischt
 
     *        *   ab 1. Januar 2019
 
-        *   ein höherer Betrag als 670 Euro monatlich und
+        *   ein höherer Betrag als 670 Euro monatlich,
 
 
     *        *   ab 1. September 2021
 
-        *   ein höherer Betrag als 700 Euro monatlich
+        *   ein höherer Betrag als 700 Euro monatlich und
+
+
+    *        *   ab 1. Dezember 2023
+
+        *   ein höherer Betrag als 780 Euro monatlich
 
 
 
@@ -876,12 +896,17 @@ Entschädigungsbehörde unverzüglich anzuzeigen:
 
     *        *   ab 1. Januar 2019
 
-        *   von mehr als 670 Euro monatlich und
+        *   von mehr als 670 Euro monatlich,
 
 
     *        *   ab 1. September 2021
 
-        *   von mehr als 700 Euro monatlich,
+        *   von mehr als 700 Euro monatlich und
+
+
+    *        *   ab 1. Dezember 2023
+
+        *   von mehr als 780 Euro monatlich,
 
 
 
@@ -967,12 +992,17 @@ Entschädigungsbehörde unverzüglich anzuzeigen:
 
     *        *   ab 1. Januar 2019
 
-        *   von mehr als 670 Euro monatlich und
+        *   von mehr als 670 Euro monatlich,
 
 
     *        *   ab 1. September 2021
 
-        *   von mehr als 700 Euro monatlich
+        *   von mehr als 700 Euro monatlich und
+
+
+    *        *   ab 1. Dezember 2023
+
+        *   von mehr als 780 Euro monatlich
 
 
 
@@ -2419,9 +2449,11 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   vom 1.1.2019
         bis 31.8.2021
 
-    *   ab 1.9.2021
+    *   vom 1.9.2021
+        bis 30.11.2023
 
-    *
+    *   ab 1.12.2023
+
     *
 
 *    *
@@ -2431,7 +2463,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   Euro
 
-    *
+    *   Euro
+
     *
 
 *    *   die Witwe ..........
@@ -2442,7 +2475,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   1 179
 
-    *
+    *   1 312
+
     *
 
 *    *   den Witwer .........
@@ -2453,7 +2487,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   1 179
 
-    *
+    *   1 312
+
     *
 
 *    *   die Vollwaise ......
@@ -2464,7 +2499,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   594
 
-    *
+    *   661
+
     *
 
 *    *   die erste und zweite Halbwaise,
@@ -2483,7 +2519,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   448
 
-    *
+    *   499
+
     *
 
 *    *   wenn eine Rente für die Witwe oder den Witwer gezahlt wird, je
@@ -2494,7 +2531,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   330
 
-    *
+    *   367
+
     *
 
 *    *   die dritte und jede folgende Halbwaise, je
@@ -2505,7 +2543,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   297
 
-    *
+    *   331
+
     *
 
 *    *   den elternlosen Enkel ...............
@@ -2516,7 +2555,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   594
 
-    *
+    *   661
+
     *
 
 *    *   die Eltern oder Adoptiveltern zusammen ............
@@ -2527,7 +2567,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   885
 
-    *
+    *   985
+
     *
 
 *    *   einen überlebenden Eltern- oder Adoptivelternteil ...
@@ -2538,7 +2579,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   594
 
-    *
+    *   661
+
     *
 
 
@@ -3335,7 +3377,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *
-    *   ab 1.9.2021
+    *   bis 30.11.2023
 
     *   32 888
 
@@ -3344,6 +3386,18 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   54 218
 
     *   70 931
+
+
+*    *
+    *   ab 1.12.2023
+
+    *   36 604
+
+    *   45 139
+
+    *   60 345
+
+    *   78 946
 
 
 *    *   2. Unfallruhegehalt (66 2/3% aus Nr. 1)
@@ -3974,7 +4028,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *
-    *   ab 1.9.2021
+    *   bis 30.11.2023
 
     *   21 925
 
@@ -3983,6 +4037,18 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   36 145
 
     *   47 287
+
+
+*    *
+    *   ab 1.12.2023
+
+    *   24 403
+
+    *   30 093
+
+    *   40 230
+
+    *   52 631
 
 
 *    *   3. Witwengeld (60% aus Nr. 2)
@@ -4613,7 +4679,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *
-    *   ab 1.9.2021
+    *   bis 30.11.2023
 
     *   13 152
 
@@ -4622,6 +4688,18 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   21 684
 
     *   28 368
+
+
+*    *
+    *   ab 1.12.2023
+
+    *   14 640
+
+    *   18 060
+
+    *   24 144
+
+    *   31 584
 
 
 *    *   4. Waisengeld (30% aus Nr. 2)
@@ -5252,7 +5330,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *
-    *   ab 1.9.2021
+    *   bis 30.11.2023
 
     *   6 576
 
@@ -5261,6 +5339,18 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   10 848
 
     *   14 184
+
+
+*    *
+    *   ab 1.12.2023
+
+    *   7 320
+
+    *   9 024
+
+    *   12 072
+
+    *   15 792
 
 
 

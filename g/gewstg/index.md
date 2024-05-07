@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 15.10.2002 I 4167;
 
 Zuletzt geändert durch
-:   Art. 10 G v. 16.12.2022 I 2294
+:   Art. 19 G v. 27.3.2024 I Nr. 108
 
 
 ## Abschnitt I - Allgemeines
@@ -54,9 +54,9 @@ der § 14 oder § 17 des Körperschaftsteuergesetzes, so gilt sie als
 Betriebsstätte des Organträgers.
 
 (3) Als Gewerbebetrieb gilt auch die Tätigkeit der sonstigen
-juristischen Personen des privaten Rechts und der nichtrechtsfähigen
-Vereine, soweit sie einen wirtschaftlichen Geschäftsbetrieb
-(ausgenommen Land- und Forstwirtschaft) unterhalten.
+juristischen Personen des privaten Rechts und der Vereine ohne
+Rechtspersönlichkeit, soweit sie einen wirtschaftlichen
+Geschäftsbetrieb (ausgenommen Land- und Forstwirtschaft) unterhalten.
 
 (4) Vorübergehende Unterbrechungen im Betrieb eines Gewerbes, die
 durch die Art des Betriebs veranlasst sind, heben die Steuerpflicht
@@ -887,7 +887,7 @@ Die Summe des Gewinns und der Hinzurechnungen wird gekürzt um
 
 
         erzielt werden und diese Einnahmen im Wirtschaftsjahr nicht höher als
-        10 Prozent der Einnahmen aus der Gebrauchsüberlassung des
+        20 Prozent der Einnahmen aus der Gebrauchsüberlassung des
         Grundbesitzes sind; die Einnahmen im Sinne von Doppelbuchstabe aa
         dürfen nicht aus der Lieferung an Letztverbraucher stammen, es sei
         denn, diese sind Mieter des Anlagenbetreibers, oder
@@ -1931,6 +1931,10 @@ Erhebungszeitraum 2030 anzuwenden.
 (4a) § 8 Nummer 5 in der Fassung des Artikels 3 des Gesetzes vom 25.
 Juni 2021 (BGBl. I S. 2035) ist erstmals für den Erhebungszeitraum
 2022 anzuwenden.
+
+(4b) § 9 Nummer 1 Satz 3 Buchstabe b in der Fassung des Artikels 19
+des Gesetzes vom 27. März 2024 (BGBl. 2024 I Nr. 108) ist erstmals für
+den Erhebungszeitraum 2023 anzuwenden.
 
 (5)
 1             § 9 Nummer 3 Satz 1 erster Halbsatz in der Fassung des

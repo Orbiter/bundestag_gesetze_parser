@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 6 G v. 20.7.2022 I 1166
 
+Änderung durch
+:   Art. 4 G v. 11.4.2024 I Nr. 120 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Abschnitt 1 - Errichtung der Genossenschaft
 
@@ -1200,8 +1203,8 @@ Mitglieder.
 Stimmrecht geschäftsunfähiger oder in der Geschäftsfähigkeit
 beschränkter natürlicher Personen sowie das Stimmrecht von
 juristischen Personen wird durch ihre gesetzlichen Vertreter, das
-Stimmrecht von Personenhandelsgesellschaften durch zur Vertretung
-ermächtigte Gesellschafter ausgeübt.
+Stimmrecht von rechtsfähigen Personengesellschaften durch deren
+vertretungsbefugte Gesellschafter ausgeübt.
 
 (5) Das Mitglied oder sein gesetzlicher Vertreter können
 Stimmvollmacht erteilen. Für die Vollmacht ist die schriftliche Form
@@ -3996,4 +3999,13 @@ anzuwenden. Die in Satz 1 bezeichneten Vorschriften in der bis
 einschließlich 31. Juli 2022 geltenden Fassung sind letztmals
 anzuwenden auf Rechnungslegungsunterlagen für das vor dem 1. Januar
 2022 beginnende Geschäftsjahr.
+
+
+### § 176 Übergangsvorschrift zum Zweiten Gesetz zur Änderung des DWD-Gesetzes sowie zur Änderung handelsrechtlicher Vorschriften
+
+Die Größenmerkmale des § 267a Absatz 1 Satz 1 des Handelsgesetzbuchs
+in der ab dem 17. April 2024 geltenden Fassung sind für die Einstufung
+als Kleinstgenossenschaft in § 53a Absatz 1 Satz 1 erstmals anzuwenden
+auf die Prüfung für ein frühestens am 31. Dezember 2024 endendes
+Geschäftsjahr.
 

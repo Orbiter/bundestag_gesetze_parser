@@ -19,7 +19,16 @@ Neugefasst durch
 :   Bek. v. 1.10.2002 I 3866; 2003 I 61;
 
 Zuletzt geändert durch
-:   Art. 4 G v. 20.12.2022 I 2730
+:   Art. 12 G v. 27.3.2024 I Nr. 108
+
+Änderung durch
+:   Art. 13 G v. 27.3.2024 I Nr. 108 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 14 G v. 27.3.2024 I Nr. 108 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Mittelbare änderung durch
+:   Art. 34 Abs. 6 G v. 22.12.2023 I Nr. 411 ist berücksichtigt
 
 Stand: Bek. v. 12.10.2023 I Nr. 293 mWv 1.11.2023 ist berücksichtigt
 
@@ -152,8 +161,9 @@ das Recht der Europäischen Union, im Besonderen die Verordnung (EU)
 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener
 Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie
 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1;
-L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2) in der jeweils
-geltenden Fassung unmittelbar oder nach Absatz 5 entsprechend gilt.
+L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2; L 47 vom
+4\.3.2021, S. 35) in der jeweils geltenden Fassung unmittelbar oder
+nach Absatz 5 entsprechend gilt.
 
 (4) Für die Verarbeitung personenbezogener Daten zum Zweck der
 Verhütung, Ermittlung, Aufdeckung, Verfolgung oder Ahndung von
@@ -171,8 +181,7 @@ oder identifizierbare
 1.  verstorbene natürliche Personen oder
 
 
-2.  Körperschaften, rechtsfähige oder nicht rechtsfähige
-    Personenvereinigungen oder Vermögensmassen.
+2.  Körperschaften, Personenvereinigungen (§ 14a) oder Vermögensmassen.
 
 
 
@@ -481,6 +490,71 @@ Vermögensverwaltung hinausgeht. Die Absicht, Gewinn zu erzielen, ist
 nicht erforderlich. Eine Vermögensverwaltung liegt in der Regel vor,
 wenn Vermögen genutzt, zum Beispiel Kapitalvermögen verzinslich
 angelegt oder unbewegliches Vermögen vermietet oder verpachtet wird.
+
+
+#### § 14a Personenvereinigungen
+
+(1) Personenvereinigungen im Sinne dieses Gesetzes und der
+Steuergesetze sind Personenzusammenschlüsse ohne Rechtspersönlichkeit
+zur Verfolgung eines gesetzlich zulässigen Zwecks.
+
+(2) Rechtsfähige Personenvereinigungen sind insbesondere
+
+1.  Vereine ohne Rechtspersönlichkeit (§ 54 des Bürgerlichen Gesetzbuchs),
+
+
+2.  rechtsfähige Personengesellschaften einschließlich Gesellschaften (§
+    705 des Bürgerlichen Gesetzbuchs), Personenhandelsgesellschaften,
+    Partnerschaftsgesellschaften, Partenreedereien und Europäische
+    wirtschaftliche Interessenvereinigungen und
+
+
+3.  Gemeinschaften der Wohnungseigentümer (§ 9a des
+    Wohnungseigentumsgesetzes).
+
+
+
+
+(3) Nicht rechtsfähige Personenvereinigungen sind insbesondere
+
+1.  Bruchteilsgemeinschaften (§ 741 des Bürgerlichen Gesetzbuchs),
+
+
+2.  Gütergemeinschaften (§ 1415 des Bürgerlichen Gesetzbuchs) und
+
+
+3.  Erbengemeinschaften (§ 2032 des Bürgerlichen Gesetzbuchs).
+
+
+
+
+(4) Auf nicht rechtsfähige Gesellschaften (§ 740 des Bürgerlichen
+Gesetzbuchs) sind die für nicht rechtsfähige Personenvereinigungen
+geltenden Vorschriften mit Ausnahme des § 267 Absatz 1 Satz 1
+sinngemäß anzuwenden.
+
+
+#### § 14b Körperschaften mit Sitz im Ausland
+
+(1) Ist eine Körperschaft mit Sitz (§ 11) im Ausland und Ort der
+Geschäftsleitung (§ 10) im Geltungsbereich dieses Gesetzes nach dem
+Recht des Staates, in dem sie ihren Sitz hat, rechtsfähig, sind
+Verwaltungsakte an sie zu richten, soweit sie nach den Steuergesetzen
+Steuerschuldner ist. Dies gilt auch dann, wenn sie nach inländischem
+Gesellschaftsrecht mangels Rechtsfähigkeit nicht als juristische
+Person zu behandeln ist.
+
+(2) Auf Körperschaften im Sinne des Absatzes 1 Satz 2 sind die für
+juristische Personen geltenden Regelungen der §§ 34 und 79
+entsprechend anzuwenden.
+
+(3) Für die Vollstreckung in das Vermögen einer Körperschaft im Sinne
+des Absatzes 1 genügt ein an sie gerichteter vollstreckbarer
+Verwaltungsakt.
+
+(4) Die Anteilseigner einer Körperschaft im Sinne des Absatzes 1 Satz
+2 haften für die von der Körperschaft geschuldeten Ansprüche aus dem
+Steuerschuldverhältnis unbeschränkt.
 
 
 #### § 15 Angehörige
@@ -1311,8 +1385,8 @@ eines Strafverfahrens wegen einer zu Unrecht erlangten Leistung aus
 
 (2) Die Finanzbehörden sind in den Fällen des Absatzes 1 verpflichtet,
 der zuständigen Stelle die jeweils benötigten Tatsachen mitzuteilen.
-In den Fällen des Absatzes 1 Nr. 1 Buchstabe b und Nr. 2 erfolgt die
-Mitteilung auch auf Antrag der betroffenen Person. Die
+In den Fällen des Absatzes 1 Satz 1 Nummer 1 Buchstabe b und Nummer 2
+erfolgt die Mitteilung auch auf Antrag der betroffenen Person. Die
 Mitteilungspflicht nach den Sätzen 1 und 2 besteht nicht, soweit deren
 Erfüllung mit einem unverhältnismäßigen Aufwand verbunden wäre.
 
@@ -1951,18 +2025,18 @@ Grundstücken, Geschäfts- und Betriebsräumen zu gestatten hat.
 #### § 34 Pflichten der gesetzlichen Vertreter und der Vermögensverwalter
 
 (1) Die gesetzlichen Vertreter natürlicher und juristischer Personen
-und die Geschäftsführer von nicht rechtsfähigen Personenvereinigungen
-und Vermögensmassen haben deren steuerliche Pflichten zu erfüllen. Sie
+sowie rechtsfähiger Personenvereinigungen und die Geschäftsführer von
+Vermögensmassen haben deren steuerliche Pflichten zu erfüllen. Sie
 haben insbesondere dafür zu sorgen, dass die Steuern aus den Mitteln
 entrichtet werden, die sie verwalten.
 
-(2) Soweit nicht rechtsfähige Personenvereinigungen ohne
-Geschäftsführer sind, haben die Mitglieder oder Gesellschafter die
-Pflichten im Sinne des Absatzes 1 zu erfüllen. Die Finanzbehörde kann
-sich an jedes Mitglied oder jeden Gesellschafter halten. Für nicht
-rechtsfähige Vermögensmassen gelten die Sätze 1 und 2 mit der Maßgabe,
-dass diejenigen, denen das Vermögen zusteht, die steuerlichen
-Pflichten zu erfüllen haben.
+(2) Bei nicht rechtsfähigen Personenvereinigungen haben die
+Mitglieder, Gesellschafter oder Gemeinschafter die Pflichten im Sinne
+des Absatzes 1 zu erfüllen. Die Finanzbehörde kann sich an jedes
+Mitglied oder jeden Gesellschafter halten. Für nicht rechtsfähige
+Vermögensmassen gelten die Sätze 1 und 2 mit der Maßgabe, dass
+diejenigen, denen das Vermögen zusteht, die steuerlichen Pflichten zu
+erfüllen haben.
 
 (3) Steht eine Vermögensverwaltung anderen Personen als den
 Eigentümern des Vermögens oder deren gesetzlichen Vertretern zu, so
@@ -2031,9 +2105,12 @@ knüpft.
     Sicherungsgeber und beim Eigenbesitz dem Eigenbesitzer zuzurechnen.
 
 
-2.  Wirtschaftsgüter, die mehreren zur gesamten Hand zustehen, werden den
-    Beteiligten anteilig zugerechnet, soweit eine getrennte Zurechnung für
-    die Besteuerung erforderlich ist.
+2.  Wirtschaftsgüter, die mehreren zur gesamten Hand oder einer
+    rechtsfähigen Personengesellschaft zustehen, werden den Beteiligten
+    oder Gesellschaftern anteilig zugerechnet, soweit eine getrennte
+    Zurechnung für die Besteuerung erforderlich ist. Rechtsfähige
+    Personengesellschaften gelten für Zwecke der Ertragsbesteuerung als
+    Gesamthand und deren Vermögen als Gesamthandsvermögen.
 
 
 
@@ -2753,6 +2830,68 @@ das Einverständnis der Vereinigung auf Auskunftserteilung nach § 24
 Absatz 1 Satz 3 des Geldwäschegesetzes vorliegt.
 
 
+#### § 60b Zuwendungsempfängerregister
+
+(1) Das Bundeszentralamt für Steuern führt ein Register, in dem
+Körperschaften und juristische Personen des öffentlichen Rechts
+geführt werden, an die steuerbegünstigt Zuwendungen nach den §§ 10b,
+34g des Einkommensteuergesetzes geleistet werden können
+(Zuwendungsempfängerregister).
+
+(2) Im Zuwendungsempfängerregister speichert das Bundeszentralamt für
+Steuern zu Zwecken des Sonderausgabenabzugs nach § 10b des
+Einkommensteuergesetzes und der Steuerermäßigung nach § 34g des
+Einkommensteuergesetzes automatisiert folgende Daten:
+
+1.  Wirtschafts-Identifikationsnummer,
+
+
+2.  Name,
+
+
+3.  Anschrift,
+
+
+4.  steuerbegünstigte Zwecke nach den §§ 52 bis 54,
+
+
+5.  Datum der Anerkennung als Partei im Sinne des § 2 des
+    Parteiengesetzes,
+
+
+6.  Datum der Anerkennung als Wählervereinigung,
+
+
+7.  Status als juristische Person des öffentlichen Rechts,
+
+
+8.  zuständige Finanzbehörde,
+
+
+9.  Datum der Erteilung des letzten Freistellungsbescheides, der Anlage
+    zum Körperschaftsteuerbescheid oder des Feststellungsbescheides nach §
+    60a,
+
+
+10. Kontoverbindungen bei Banken/Kreditinstituten und
+    Bezahldienstleistern.
+
+
+
+
+(3) Die für die Besteuerung nach dem Einkommen zuständige
+Finanzbehörde übermittelt dem Bundeszentralamt für Steuern die Daten
+nach Absatz 2 sowie unverzüglich jede Änderung dieser Daten.
+
+(4) Das Bundeszentralamt für Steuern ist befugt, die Daten nach Absatz
+2 Dritten zu offenbaren. § 30 steht dem nicht entgegen.
+
+(5) Die im Zuwendungsempfängerregister Geführten können Änderungen und
+Ergänzungen der Eintragungen nach Absatz 2 Nummer 10 mit Hilfe eines
+amtlich vorgeschriebenen Datensatzes durch Datenfernübertragung
+bewirken.
+
+
 #### § 61 Satzungsmäßige Vermögensbindung
 
 (1) Eine steuerlich ausreichende Vermögensbindung (§ 55 Abs. 1 Nr. 4)
@@ -3360,8 +3499,9 @@ Beteiligte sind
     handlungsfähig anerkannt sind,
 
 
-3.  juristische Personen, Vereinigungen oder Vermögensmassen durch ihre
-    gesetzlichen Vertreter oder durch besonders Beauftragte,
+3.  juristische Personen sowie Personenvereinigungen oder Vermögensmassen
+    durch die in § 34 bezeichneten Personen oder durch besonders
+    Beauftragte,
 
 
 4.  Behörden durch ihre Leiter, deren Vertreter oder Beauftragte.
@@ -4403,6 +4543,204 @@ festgesetzte Gebühr nicht erstattet; dies gilt auch im Fall des
 Scheiterns des Vorabverständigungsverfahrens.
 
 
+###### § 89b Internationale Risikobewertungsverfahren
+
+(1) Soweit in einem internationalen Risikobewertungsverfahren nach
+Absatz 2 das Risiko eines Steuerausfalls unter Beibehaltung der
+erklärten oder im Rahmen des internationalen
+Risikobewertungsverfahrens angepassten Angaben in Bezug auf die
+bewerteten Sachverhalte als gering eingeschätzt wird, kann die
+Ermittlung der steuerlichen Verhältnisse des Steuerpflichtigen im
+Rahmen einer Außenprüfung unterbleiben.
+
+(2) Ein internationales Risikobewertungsverfahren ist eine gemeinsame
+Einschätzung von steuerlichen Risiken von bereits verwirklichten
+Sachverhalten mit einem oder mehreren Staaten oder Hoheitsgebieten in
+einem auf Kooperation und Transparenz angelegten Verfahren. Die
+steuerlichen Risiken sind dabei nur unter Würdigung des Umfangs und
+der Plausibilität der vom Steuerpflichtigen vorgelegten Unterlagen und
+Informationen, der zu erwartenden steuerlichen Auswirkungen und des zu
+erwartenden zeitlichen und personellen Aufwands einer vertieften
+Sachverhaltsprüfung zu bewerten.
+
+(3) Ein internationales Risikobewertungsverfahren kann auf
+schriftlichen oder elektronischen Antrag des Steuerpflichtigen bei dem
+für seine Besteuerung nach dem Einkommen zuständigen Finanzamt oder
+auf Anregung eines anderen Staates oder Hoheitsgebietes geführt
+werden. Antragsbefugt ist ein Steuerpflichtiger, sofern es sich bei
+ihm um eine inländische Konzernobergesellschaft im Sinne des § 138a
+Absatz 1 Satz 1, die zur Erstellung eines länderbezogenen Berichts
+verpflichtet ist, oder um die beherrschende inländische Gesellschaft
+einer multinationalen Unternehmensgruppe, für die nach § 90 Absatz 3
+Satz 3 eine Stammdokumentation (§ 5 der
+Gewinnabgrenzungsaufzeichnungs-Verordnung) zu erstellen ist, handelt.
+Im Antrag hat der antragsbefugte Steuerpflichtige
+
+1.  alle für die Prüfung, ob das jeweilige internationale
+    Risikobewertungsverfahren in Betracht kommt, erforderlichen Unterlagen
+    beizufügen,
+
+
+2.  zuzusichern, alle Mitwirkungspflichten einschließlich der Pflichten
+    des jeweiligen internationalen Risikobewertungsverfahrens zu erfüllen,
+
+
+3.  die Einwilligung in die Offenbarung und den Austausch personen- und
+    unternehmensbezogener Daten im Rahmen des internationalen
+    Risikobewertungsverfahrens entsprechend den jeweiligen internationalen
+    und nationalen Verfahrensgrundsätzen sowie die Einwilligung nach § 87a
+    Absatz 1 Satz 3 zweiter Halbsatz bezogen auf unternehmensbezogene
+    Daten für alle betroffenen Unternehmen der Unternehmensgruppe zu
+    erteilen und
+
+
+4.  zuzusichern, die für das Verfahren notwendige technische Infrastruktur
+    für alle beteiligten in- und ausländischen Finanzbehörden unter
+    Einhaltung der gesetzlichen Regelungen zum Datenschutz und zur
+    Informationssicherheit bei der Verarbeitung von personenbezogenen
+    Daten zur Verfügung zu stellen, sofern nicht eine geeignete technische
+    Infrastruktur von diesen Finanzbehörden bereitgestellt wird.
+
+
+
+Bei durch einen anderen Staat oder ein anderes Hoheitsgebiet
+angeregten internationalen Risikobewertungsverfahren gilt Satz 3
+Nummer 3 entsprechend für das ausländische leitende Unternehmen.
+
+(4) Die Durchführung eines internationalen Risikobewertungsverfahrens
+ist ausgeschlossen, wenn auf Grund der bestehenden Erfahrungen,
+insbesondere bei Außenprüfungen, bei dem betroffenen Steuerpflichtigen
+und den seiner Unternehmensgruppe angehörigen Unternehmen oder auf
+Grund der im Zusammenhang mit dem Antrag gemachten Angaben und
+eingereichten Unterlagen nicht zu erwarten ist, dass das Verfahren
+zeitnah, kooperativ, wirtschaftlich und mit einer Einschätzung der
+Risiken abgeschlossen werden kann. Das ist insbesondere dann der Fall,
+wenn
+
+1.  der Steuerpflichtige oder ein der Unternehmensgruppe angehöriges
+    Unternehmen von den Finanzbehörden als nicht kooperativ eingeschätzt
+    wird,
+
+
+2.  das leitende Unternehmen im Sinne des Absatzes 7 Satz 3 sich nicht
+    bereit erklärt, die zusätzlichen Pflichten des jeweiligen Verfahrens
+    zu erfüllen und die für das Verfahren notwendige technische
+    Infrastruktur für alle beteiligten Finanzbehörden zur Verfügung zu
+    stellen,
+
+
+3.  der Grundsatz der Wirtschaftlichkeit der Verwaltung nicht gewahrt
+    wird,
+
+
+4.  es unwahrscheinlich ist, eine übereinstimmende Risikoeinschätzung mit
+    der zuständigen Behörde des anderen Staates oder Hoheitsgebietes zu
+    erzielen, oder
+
+
+5.  sich nicht genügend Staaten oder Hoheitsgebiete an einem
+    internationalen Risikobewertungsverfahren beteiligen oder die
+    wirtschaftliche Tätigkeit der inländischen Unternehmen in den Staaten,
+    die sich beteiligen wollen, unbedeutend ist.
+
+
+
+An einem kooperativen Verhalten im Sinne des Satzes 1 Nummer 1 fehlt
+es insbesondere, wenn steuerliche Mitwirkungspflichten schuldhaft
+nicht, nicht hinreichend oder nicht fristgerecht erfüllt wurden. Das
+ist insbesondere dann der Fall, wenn innerhalb der letzten fünf Jahre
+
+1.  Steuererklärungen, länderbezogene Berichte im Sinne des § 138a oder
+    Stammdokumentationen im Sinne des § 90 Absatz 3 Satz 3 nicht oder
+    nicht rechtzeitig abgegeben wurden,
+
+
+2.  ein Mitwirkungsverzögerungsgeld nach § 200a Absatz 2 oder ein Zuschlag
+    nach § 162 Absatz 4 oder 4a festgesetzt worden ist oder
+
+
+3.  der inländische Steuerpflichtige oder eine ihn nach § 34 vertretende
+    oder nach § 79 für ihn handelnde Person rechtskräftig wegen einer das
+    Unternehmen betreffenden Steuerstraftat rechtskräftig verurteilt
+    worden ist.
+
+
+
+
+(5) Über das Ergebnis der Prüfung nach Absatz 4, ob ein
+internationales Risikobewertungsverfahren erfolgen kann, und die
+Einleitung des Verfahrens ist der Antragsteller zu informieren,
+insbesondere über die teilnehmenden Staaten und Hoheitsgebiete und die
+zu bewertenden Sachverhalte. Das internationale
+Risikobewertungsverfahren wird durch Übersendung des
+Risikobewertungsberichts im Sinne des Absatzes 6 beendet. Es wird auch
+beendet, wenn der inländische Steuerpflichtige vom Verfahren
+zurücktritt oder die Finanzbehörde das Verfahren vor dessen Abschluss
+beendet. Eine Beendigung ist möglich, wenn nicht mehr zu erwarten ist,
+dass eine Einigung über das weitere Vorgehen im Verfahren erzielt wird
+oder die Mitwirkung der beteiligten Unternehmen eine angemessene
+Fortführung ermöglicht, insbesondere weil
+
+1.  über den Umfang der vorzulegenden Unterlagen oder zu erteilenden
+    Auskünfte keine Einigung erzielt wird oder
+
+
+2.  die erforderlichen technischen und rechtlichen Voraussetzungen für ein
+    elektronisches Bereitstellen von und Zugreifen auf Unterlagen im
+    Verfahren fehlen.
+
+
+
+Über die Beendigung werden der Antragsteller und die ausländische
+zuständige Behörde informiert.
+
+(6) Die Bewertung nach Absatz 2, einschließlich ihres Ergebnisses,
+wird mit den an dem internationalen Risikobewertungsverfahren
+beteiligten Staaten oder Hoheitsgebieten abgestimmt. Es soll ein
+Risikobewertungsbericht erstellt werden, der
+
+1.  alle bewerteten Sachverhalte beschreibt,
+
+
+2.  die beteiligten Unternehmen sowie die an dem internationalen
+    Risikobewertungsverfahren beteiligten Staaten und Hoheitsgebiete
+    bezeichnet,
+
+
+3.  die steuerlichen Risiken der bewerteten Sachverhalte einschätzt und
+
+
+4.  darlegt, für welche Zeiträume die Bewertung vorgenommen wurde.
+
+
+
+Der Risikobewertungsbericht ist dem Antragsteller oder dem leitenden
+Unternehmen im Sinne des Absatzes 7 Satz 3 zu übersenden; auf die
+Anwendung des § 194 Absatz 1a ist hinzuweisen.
+
+(7) Über den Eingang eines Antrags auf ein internationales
+Risikobewertungsverfahren ist das Bundeszentralamt für Steuern
+unverzüglich in Kenntnis zu setzen. Geht beim Bundeszentralamt für
+Steuern eine Anregung eines anderen Staates oder Hoheitsgebietes auf
+ein internationales Risikobewertungsverfahren ein, informiert es das
+Finanzamt, das für die Besteuerung des Unternehmens nach dem Einkommen
+zuständig ist, welches am Verfahren beteiligt sein soll. Handelt es
+sich um mehrere Unternehmen, ist das Unternehmen maßgeblich, das den
+gesamten inländischen Teil der Unternehmensgruppe leitet. Fehlt es an
+einem solchen, sind vom Bundeszentralamt für Steuern alle betroffenen
+Finanzämter zu informieren und ist darauf hinzuwirken, dass eine
+Zuständigkeitsvereinbarung für die Durchführung des internationalen
+Risikobewertungsverfahrens getroffen wird. Über die Durchführung eines
+internationalen Risikobewertungsverfahrens entscheidet das
+Bundeszentralamt für Steuern im Einvernehmen mit der zuständigen
+obersten Landesfinanzbehörde. Das Bundeszentralamt für Steuern ist
+insbesondere dafür zuständig, das internationale
+Risikobewertungsverfahren zu koordinieren und die zwischenstaatliche
+Amtshilfe durchzuführen. Die Risikobewertung und die Durchführung
+erfolgen durch die örtlich zuständige Finanzbehörde unter Mitwirkung
+und in Abstimmung mit dem Bundeszentralamt für Steuern.
+
+
 ###### § 90 Mitwirkungspflichten der Beteiligten
 
 (1) Die Beteiligten sind zur Mitwirkung bei der Ermittlung des
@@ -4606,19 +4944,23 @@ erforderlich ist oder er erforderlich ist
 4a. zur Ermittlung, in welchen Fällen ein inländischer Steuerpflichtiger
     im Sinne des § 138 Absatz 2 Satz 1 Verfügungsberechtigter oder
     wirtschaftlich Berechtigter im Sinne des Geldwäschegesetzes eines
-    Kontos oder Depots einer natürlichen Person, Personengesellschaft,
-    Körperschaft, Personenvereinigung oder Vermögensmasse mit Wohnsitz,
-    gewöhnlichem Aufenthalt, Sitz, Hauptniederlassung oder
-    Geschäftsleitung außerhalb des Geltungsbereichs dieses Gesetzes ist,
-    oder
+    Kontos oder Depots einer natürlichen Person, Körperschaft,
+    Personenvereinigung oder Vermögensmasse mit Wohnsitz, gewöhnlichem
+    Aufenthalt, Sitz, Hauptniederlassung oder Geschäftsleitung außerhalb
+    des Geltungsbereichs dieses Gesetzes ist, oder
 
 
 4b. zur Ermittlung der Besteuerungsgrundlagen in den Fällen des § 208
-    Absatz 1 Satz 1 Nummer 3
+    Absatz 1 Satz 1 Nummer 3 oder
 
 
 4c. zur Durchführung der Amtshilfe für andere Mitgliedstaaten der
     Europäischen Union nach § 3a des EU-Amtshilfegesetzes oder
+
+
+4d. zur Verifizierung der Kontoverbindung des Zuwendungsempfängers nach §
+    60b Absatz 2 Nummer 10, wenn dieser eine Änderung oder Ergänzung von
+    Kontoverbindungen nach § 60b Absatz 5 beantragt,
 
 
 
@@ -5649,11 +5991,9 @@ Fällen leisten, wenn
 4.  die Erledigung des Ersuchens die Souveränität, die Sicherheit, die
     öffentliche Ordnung oder andere wesentliche Interessen des Bundes oder
     seiner Gebietskörperschaften nicht beeinträchtigt und keine Gefahr
-    besteht, dass dem inländischen Beteiligten ein mit dem Zweck der
-    Rechts- und Amtshilfe nicht zu vereinbarender Schaden entsteht, falls
-    ein Handels-, Industrie-, Gewerbe- oder Berufsgeheimnis oder ein
-    Geschäftsverfahren, das auf Grund des Ersuchens offenbart werden soll,
-    preisgegeben wird.
+    besteht, dass ein Handels-, Industrie-, Gewerbe- oder Berufsgeheimnis
+    oder ein Geschäftsverfahren, das auf Grund des Ersuchens offenbart
+    werden soll, preisgegeben wird.
 
 
 
@@ -5682,6 +6022,11 @@ gegenseitige Rechts- und Amtshilfe auf dem Gebiete des Zollwesens in
 Kraft zu setzen, wenn sich die darin übernommenen Verpflichtungen im
 Rahmen der nach diesem Gesetz zulässigen zwischenstaatlichen Rechts-
 und Amtshilfe halten.
+
+(6) § 2a Absatz 5 Nummer 2 gilt nicht, soweit seine Anwendung der
+Inanspruchnahme oder der Leistung der zwischenstaatlichen Amtshilfe
+entgegensteht; die Pflicht zur Wahrung des Steuergeheimnisses bleibt
+unberührt.
 
 
 ##### § 117a Übermittlung personenbezogener Daten an Mitgliedstaaten der Europäischen Union
@@ -5889,6 +6234,67 @@ Informationen, die im Zuge der zwischenstaatlichen Amts- und
 Rechtshilfe verarbeitet werden, dürfen statistisch pseudonymisiert
 oder anonymisiert aufbereitet werden. Diese statistischen Daten dürfen
 öffentlich zugänglich gemacht werden.
+
+
+##### § 117e Besondere Formen der Amtshilfe mit Drittstaaten
+
+(1) Die Finanzbehörden können im Verhältnis zu Staaten und
+Hoheitsgebieten, die nicht Mitgliedstaaten der Europäischen Union sind
+(Drittstaaten), in entsprechender Anwendung von § 2 Absatz 1 und 13, §
+3 Absatz 2 Satz 3 und 4 und Absatz 3a sowie der §§ 10 bis 12a des EU-
+Amtshilfegesetzes nach Maßgabe des Absatzes 2 besondere Formen der
+zwischenstaatlichen Amtshilfe in Anspruch nehmen und unter der
+Voraussetzung der Gegenseitigkeit leisten. § 117 bleibt unberührt,
+soweit diese Vorschrift nichts anderes bestimmt.
+
+(2) Abweichend von
+
+1.  § 10 Absatz 1 Satz 2 erster Halbsatz des EU-Amtshilfegesetzes kann die
+    Teilnahme an behördlichen Ermittlungen mittels elektronischer
+    Kommunikation gestattet werden;
+
+
+2.  § 10 Absatz 1 Satz 3 und § 12 Absatz 5 Satz 2 des EU-Amtshilfegesetzes
+    soll die Bestätigung oder die Ablehnung innerhalb von 60 Tagen nach
+    Erhalt des Ersuchens übermittelt werden;
+
+
+3.  § 10 Absatz 2 Satz 1 und § 12 Absatz 2 Satz 2 bis 5 des EU-
+    Amtshilfegesetzes bestimmt sich die Zulässigkeit des Austausches von
+    Informationen nach den im Einzelfall innerstaatlich anwendbaren
+    völkerrechtlichen Vereinbarungen oder, in Ermangelung solcher, nach §
+    117 Absatz 3;
+
+
+4.  § 12a Absatz 4 Satz 2 erster Halbsatz des EU-Amtshilfegesetzes sollen
+    die Feststellungen in einem gemeinsamen Prüfbericht festgehalten
+    werden;
+
+
+5.  § 12a Absatz 4 Satz 4 des EU-Amtshilfegesetzes können die beteiligten
+    Behörden, sofern die Gegenseitigkeit verbürgt ist, mit der zuständigen
+    Behörde des Drittstaates vereinbaren, die Beweisführung der
+    entsprechenden Behörde des Drittstaates zu unterstützen.
+
+
+
+An die Stelle des zentralen Verbindungsbüros treten im Inland das
+Bundeszentralamt für Steuern und im Drittstaat die jeweils zuständige
+Behörde. § 12 Absatz 7 des EU-Amtshilfegesetzes gilt nicht; zielen die
+behördlichen Ermittlungen im Inland auf ein Verfahren nach den §§ 193
+bis 207, kann auf die Anhörung des inländischen Beteiligten bis zur
+Bekanntgabe der Prüfungsanordnung verzichtet werden, sofern
+andernfalls der Erfolg der gleichzeitigen oder gemeinsamen Prüfung
+gefährdet würde.
+
+(3) Hinsichtlich der Einfuhr- und Ausfuhrabgaben nach Artikel 5 Nummer
+20 und 21 des Zollkodex der Union sowie den Verbrauch- und
+Verkehrssteuern kann das Zollkriminalamt als Zentralstelle gemäß § 3
+Absatz 7 Satz 1 Nummer 1 des Zollfahndungsdienstgesetzes entsprechend
+den Absätzen 1 bis 2 zwischenstaatliche Amtshilfe für den
+Zuständigkeitsbereich der Zollverwaltung bewilligen und ersuchen,
+soweit das Bundesministerium der Finanzen die Aufgabe nicht selbst
+wahrnimmt oder eine abweichende Zuweisung vorsieht.
 
 
 ### Zweiter Abschnitt - Verwaltungsakte
@@ -6436,6 +6842,13 @@ das nach § 22 Abs. 2 zuständige Finanzamt. Wer eine freiberufliche
 Tätigkeit aufnimmt, hat dies dem nach § 19 zuständigen Finanzamt
 mitzuteilen. Das Gleiche gilt für die Verlegung und die Aufgabe eines
 Betriebs, einer Betriebstätte oder einer freiberuflichen Tätigkeit.
+Unternehmer im Sinne des § 21 Absatz 1 Satz 2 haben die Aufnahme einer
+im Geltungsbereich des Gesetzes umsatzsteuerbaren Tätigkeit dem nach
+der Umsatzsteuer-Zuständigkeitsverordnung zuständigen Finanzamt
+anzuzeigen, es sei denn, diese Unternehmer erbringen in Deutschland
+ausschließlich steuerbare und steuerpflichtige Umsätze, die in den
+besonderen Besteuerungsverfahren nach den §§ 18i bis 18k des
+Umsatzsteuergesetzes zu erklären sind.
 
 (1a) Unternehmer im Sinne des § 2 des Umsatzsteuergesetzes können ihre
 Anzeigepflichten nach Absatz 1 zusätzlich bei der für die
@@ -6451,7 +6864,17 @@ im Sinne des Satzes 1 sind nach amtlich vorgeschriebenem Datensatz
 kann das Finanzamt zur Vermeidung unbilliger Härten auf eine
 Übermittlung gemäß Satz 2 verzichten; in diesem Fall sind die
 Auskünfte im Sinne des Satzes 1 nach amtlich vorgeschriebenem Vordruck
-zu erteilen.
+zu erteilen. Die Sätze 1 bis 3 gelten entsprechend für
+Steuerpflichtige im Sinne des § 137, die nicht nach Absatz 1 zur
+Anzeige verpflichtet sind.
+
+(1c) Das Bundesministerium der Finanzen kann im Einvernehmen mit den
+obersten Finanzbehörden der Länder durch ein im Bundessteuerblatt zu
+veröffentlichendes Schreiben Ausnahmen von der Verpflichtung zur
+Anzeige einer Erwerbstätigkeit nach Absatz 1 und der Auskunftspflicht
+nach Absatz 1b gegenüber dem zuständigen Finanzamt bestimmen, soweit
+die anzuzeigende Tätigkeit keine oder nur geringfügige steuerliche
+Auswirkung hat.
 
 (2) Steuerpflichtige mit Wohnsitz, gewöhnlichem Aufenthalt,
 Geschäftsleitung oder Sitz im Geltungsbereich dieses Gesetzes
@@ -6500,22 +6923,20 @@ zuständigen Finanzamt mitzuteilen:
     im Sinne des § 1 Absatz 2 des Außensteuergesetzes erstmals unmittelbar
     oder mittelbar einen beherrschenden oder bestimmenden Einfluss auf die
     gesellschaftsrechtlichen, finanziellen oder geschäftlichen
-    Angelegenheiten einer Drittstaat-Gesellschaft ausüben können;
-
-
-5.  die Art der wirtschaftlichen Tätigkeit des Betriebs, der
-    Betriebstätte, der Personengesellschaft, Körperschaft,
-    Personenvereinigung, Vermögensmasse oder der Drittstaat-Gesellschaft.
+    Angelegenheiten einer Drittstaat-Gesellschaft ausüben können.
 
 
 
-In den Fällen des Satzes 1 Nummer 3 sind unmittelbare und mittelbare
-Beteiligungen zusammenzurechnen.
+In den Fällen des Satzes 1 Nummer 1 bis 4 ist auch die Art der
+wirtschaftlichen Tätigkeit des Betriebs, der Betriebsstätte, der
+Körperschaft, Personenvereinigung, Vermögensmasse oder der Drittstaat-
+Gesellschaft mitzuteilen. In den Fällen des Satzes 1 Nummer 3 sind
+unmittelbare und mittelbare Beteiligungen zusammenzurechnen.
 
-(3) Drittstaat-Gesellschaft ist eine Personengesellschaft,
-Körperschaft, Personenvereinigung oder Vermögensmasse mit Sitz oder
-Geschäftsleitung in Staaten oder Territorien, die nicht Mitglieder der
-Europäischen Union oder der Europäischen Freihandelsassoziation sind.
+(3) Drittstaat-Gesellschaft ist eine Körperschaft, Personenvereinigung
+oder Vermögensmasse mit Sitz oder Geschäftsleitung in Staaten oder
+Territorien, die nicht Mitglieder der Europäischen Union oder der
+Europäischen Freihandelsassoziation sind.
 
 (4) Mitteilungen nach den Absätzen 1, 1a und 1b sind innerhalb eines
 Monats nach dem meldepflichtigen Ereignis zu erstatten.
@@ -6711,7 +7132,7 @@ Aufgaben auswerten. Das Bundeszentralamt für Steuern speichert die
 länderbezogenen Berichte und löscht sie mit Ablauf des 15. Jahres, das
 dem Jahr der Übermittlung folgt.
 
-(8) § 2a Absatz 5 Nummer 2 gilt nicht.
+(8) (weggefallen)
 
 
 ##### § 138b Mitteilungspflicht Dritter über Beziehungen inländischer Steuerpflichtiger zu Drittstaat-Gesellschaften
@@ -6925,8 +7346,8 @@ Betriebsstätte im Sinne eines im konkreten Fall anwendbaren Abkommens
 zur Vermeidung der Doppelbesteuerung.
 
 (5) Nutzer einer grenzüberschreitenden Steuergestaltung ist jede
-natürliche oder juristische Person, Personengesellschaft, Gemeinschaft
-oder Vermögensmasse,
+natürliche oder juristische Person, Personenvereinigung oder
+Vermögensmasse,
 
 1.  der die grenzüberschreitende Steuergestaltung zur Umsetzung
     bereitgestellt wird,
@@ -7148,8 +7569,8 @@ b sind:
 
     b)  die in anderen Steuerhoheitsgebieten eingetragen, ansässig oder
         niedergelassen sind oder verwaltet oder kontrolliert werden als dem
-        Steuerhoheitsgebiet, in dem ein oder mehrere der wirtschaftlichen
-        Eigentümer der von diesen Personen, Rechtsvereinbarungen oder
+        Steuerhoheitsgebiet, in dem ein oder mehrere der wirtschaftlich
+        Berechtigten der von diesen Personen, Rechtsvereinbarungen oder
         Strukturen gehaltenen Vermögenswerte ansässig sind,
 
 
@@ -7390,9 +7811,10 @@ Ereignisse eintritt:
 Soweit dem Intermediär bekannt ist, dass neben ihm mindestens ein
 weiterer Intermediär im Geltungsbereich dieses Gesetzes oder in einem
 anderen Mitgliedstaat der Europäischen Union zur Mitteilung derselben
-grenzüberschreitenden Steuergestaltung verpflichtet ist, so kann er im
-Datensatz nach Satz 1 die Angaben nach Satz 1 Nummer 1 auch
-hinsichtlich der anderen ihm bekannten Intermediäre machen.
+grenzüberschreitenden Steuergestaltung verpflichtet ist, so kann er
+mit deren Einwilligung im Datensatz nach Satz 1 die Angaben nach Satz
+1 Nummer 1 auch hinsichtlich der anderen ihm bekannten Intermediäre
+machen.
 
 (4) Der mitteilende Intermediär hat den Nutzer darüber zu informieren,
 welche den Nutzer betreffenden Angaben er gemäß Absatz 3 an das
@@ -7454,7 +7876,8 @@ dieser in seiner Mitteilung die Registriernummer und die
 Offenlegungsnummer anzugeben; die Absätze 1 und 2 gelten in diesem
 Fall entsprechend. Die Information des Nutzers nach Satz 1 Nummer 2
 ist vom Intermediär nach Zugang der Mitteilung der Offenlegungsnummer
-unverzüglich zu veranlassen. Erlangt der Nutzer die in Satz 1 Nummer 2
+unverzüglich zu veranlassen und dem Bundeszentralamt für Steuern auf
+Verlangen mitzuteilen. Erlangt der Nutzer die in Satz 1 Nummer 2
 bezeichneten Informationen erst nach Eintritt des nach Absatz 2
 maßgebenden Ereignisses, so beginnt die Frist zur Übermittlung der in
 Absatz 3 Satz 1 Nummer 2, 3 und 10 bezeichneten Angaben abweichend von
@@ -7501,9 +7924,9 @@ entsprechend.
 Steuergestaltung zur Mitteilung im Geltungsbereich dieses Gesetzes und
 zugleich in mindestens einem anderen Mitgliedstaat der Europäischen
 Union verpflichtet, so ist er von der Mitteilungspflicht nach diesem
-Gesetz nur dann befreit, wenn er nachweisen kann, dass er die
-grenzüberschreitende Steuergestaltung bereits in einem anderen
-Mitgliedstaat der Europäischen Union im Einklang mit den dort
+Gesetz nur dann befreit, wenn er nachweisen kann, dass er oder der
+Nutzer die grenzüberschreitende Steuergestaltung bereits in einem
+anderen Mitgliedstaat der Europäischen Union im Einklang mit den dort
 geltenden Rechtsvorschriften der zuständigen Behörde mitgeteilt hat.
 
 (9) Mehrere Intermediäre derselben grenzüberschreitenden
@@ -7512,9 +7935,10 @@ Intermediär ist in diesem Fall von der Mitteilungspflicht gegenüber
 dem Bundeszentralamt für Steuern befreit, soweit er nachweisen kann,
 dass die in Absatz 3 bezeichneten Informationen zu derselben
 grenzüberschreitenden Steuergestaltung bereits durch einen anderen
-Intermediär dem Bundeszentralamt für Steuern oder der zuständigen
-Behörde eines anderen Mitgliedstaats der Europäischen Union im
-Einklang mit den dort geltenden Rechtsvorschriften mitgeteilt wurden.
+Intermediär oder durch den Nutzer dem Bundeszentralamt für Steuern
+oder der zuständigen Behörde eines anderen Mitgliedstaats der
+Europäischen Union im Einklang mit den dort geltenden
+Rechtsvorschriften mitgeteilt wurden.
 
 
 ##### § 138g Verfahren zur Mitteilung grenzüberschreitender Steuergestaltungen durch Nutzer
@@ -7860,7 +8284,13 @@ Die in Absatz 3 Nummer 1 und 8 aufgeführten Daten werden auch zur
 Ermittlung des Einkommens nach § 97a des Sechsten Buches
 Sozialgesetzbuch gespeichert und können von den Trägern der
 gesetzlichen Rentenversicherung zu diesem Zweck verarbeitet werden.
-Die Regelungen des Identifikationsnummerngesetzes bleiben unberührt.
+Die in Absatz 3 Nummer 1 und 8 aufgeführten Daten werden auch zum
+Nachweis der Elterneigenschaft sowie zur Ermittlung der Anzahl der
+berücksichtigungsfähigen Kinder des beitragspflichtigen Mitglieds für
+die Beitragssatzermittlung nach § 55 Absatz 3 und 3a des Elften Buches
+Sozialgesetzbuch gespeichert und können von den beitragsabführenden
+Stellen und den Pflegekassen zu diesem Zweck verarbeitet werden. Die
+Regelungen des Identifikationsnummerngesetzes bleiben unberührt.
 
 (4a) Die in Absatz 3 Nummer 3 bis 6, 8 und 10 aufgeführten Daten
 werden bei einer natürlichen Person, die ein Nutzerkonto im Sinne des
@@ -8188,8 +8618,8 @@ Personenvereinigungen folgende Daten:
 10. Datum des Gesellschaftsvertrags,
 
 
-11. Handels- oder Partnerschaftsregistereintrag (Registergericht, Datum
-    und Nummer der Eintragung),
+11. Eintrag im Handels-, Partnerschafts- oder Gesellschaftsregister
+    (Registergericht, Datum und Nummer der Eintragung),
 
 
 12. Datum der Betriebseröffnung oder Zeitpunkt der Aufnahme der Tätigkeit,
@@ -8311,12 +8741,12 @@ erfolgt, um
 
 (6a) Die in Absatz 4 Nummer 3, 5, 8 und 10 aufgeführten Daten und die
 in Absatz 5 Nummer 4, 6, 9 und 11 aufgeführten Daten werden bei einer
-juristischen Person oder bei einer Personengesellschaft, die ein
-Nutzerkonto im Sinne des § 2 Absatz 5 des Onlinezugangsgesetzes nutzt,
-auch zum Nachweis der Identität als Nutzer dieses Nutzerkontos
-gespeichert; diese Daten dürfen elektronisch an das Nutzerkonto
-übermittelt werden, wenn der Nutzer zuvor in die Übermittlung
-eingewilligt hat.
+juristischen Person oder bei einer rechtsfähigen Personengesellschaft,
+die ein Nutzerkonto im Sinne des § 2 Absatz 5 des
+Onlinezugangsgesetzes nutzt, auch zum Nachweis der Identität als
+Nutzer dieses Nutzerkontos gespeichert; diese Daten dürfen
+elektronisch an das Nutzerkonto übermittelt werden, wenn der Nutzer
+zuvor in die Übermittlung eingewilligt hat.
 
 (7) Die in Absatz 3 aufgeführten Daten dürfen nur für die in Absatz 6
 genannten Zwecke verarbeitet werden, es sei denn, eine
@@ -8370,7 +8800,7 @@ obliegen, auch für die Besteuerung zu erfüllen.
 Feststellungen der Finanzbehörde für den einzelnen Betrieb
 
 1.  einen Gesamtumsatz im Sinne des § 19 Absatz 3 Satz 1 des
-    Umsatzsteuergesetzes von mehr als 600 000 Euro im Kalenderjahr oder
+    Umsatzsteuergesetzes von mehr als 800 000 Euro im Kalenderjahr oder
 
 
 2.  (weggefallen)
@@ -8381,11 +8811,11 @@ Feststellungen der Finanzbehörde für den einzelnen Betrieb
     oder
 
 
-4.  einen Gewinn aus Gewerbebetrieb von mehr als 60 000 Euro im
+4.  einen Gewinn aus Gewerbebetrieb von mehr als 80 000 Euro im
     Wirtschaftsjahr oder
 
 
-5.  einen Gewinn aus Land- und Forstwirtschaft von mehr als 60 000 Euro im
+5.  einen Gewinn aus Land- und Forstwirtschaft von mehr als 80 000 Euro im
     Kalenderjahr
 
 
@@ -8675,9 +9105,9 @@ widerrufen werden.
 
 (3) Das Bundesministerium der Finanzen wird ermächtigt, durch
 Rechtsverordnung mit Zustimmung des Bundestages und des Bundesrates
-und im Einvernehmen mit dem Bundesministerium des Innern, für Bau und
-Heimat und dem Bundesministerium für Wirtschaft und Energie Folgendes
-zu bestimmen:
+und im Einvernehmen mit dem Bundesministerium des Innern und für
+Heimat und dem Bundesministerium für Wirtschaft und Klimaschutz
+Folgendes zu bestimmen:
 
 1.  die elektronischen Aufzeichnungssysteme, die über eine zertifizierte
     technische Sicherheitseinrichtung verfügen müssen, und
@@ -8731,7 +9161,8 @@ zugeleitet.
 (4) Wer aufzeichnungspflichtige Geschäftsvorfälle oder andere Vorgänge
 mit Hilfe eines elektronischen Aufzeichnungssystems im Sinne des
 Absatzes 1 erfasst, hat dem nach den §§ 18 bis 20 zuständigen
-Finanzamt nach amtlich vorgeschriebenen Vordruck mitzuteilen:
+Finanzamt nach amtlich vorgeschriebenen Datensatz durch
+Datenfernübertragung mitzuteilen:
 
 1.  Name des Steuerpflichtigen,
 
@@ -8970,7 +9401,7 @@ diese Beziehung und alle damit verbundenen Einnahmen und Ausgaben
 sechs Jahre aufzubewahren. Diese Aufbewahrungspflicht ist von dem
 Zeitpunkt an zu erfüllen, in dem der Sachverhalt erstmals verwirklicht
 worden ist, der den Tatbestand des Satzes 1 erfüllt. Absatz 1 Satz 4
-sowie § 147 Absatz 2, 3 Satz 3 und Absatz 5 bis 7 gelten entsprechend.
+sowie § 147 Absatz 2, 3 Satz 5 und Absatz 5 bis 7 gelten entsprechend.
 
 
 ##### § 147b Verordnungsermächtigung zur Vereinheitlichung von digitalen Schnittstellen
@@ -9295,8 +9726,9 @@ abgegeben wurde.
 
 4.  bei jährlich abzugebenden Lohnsteueranmeldungen, bei Anmeldungen von
     Umsatzsteuer-Sondervorauszahlungen nach § 48 Absatz 2 der
-    Umsatzsteuer-Durchführungsverordnung sowie bei jährlich abzugebenden
-    Versicherungsteuer- und Feuerschutzsteueranmeldungen.
+    Umsatzsteuer-Durchführungsverordnung, bei jährlich abzugebenden
+    Versicherungsteuer- und Feuerschutzsteueranmeldungen sowie bei
+    Erklärungen nach § 95 des Mindeststeuergesetzes.
 
 
 
@@ -9309,9 +9741,17 @@ alle erklärungspflichtigen Personen festsetzt. Wird der
 Verspätungszuschlag gegen mehrere oder gegen alle
 erklärungspflichtigen Personen festgesetzt, sind diese Personen
 Gesamtschuldner des Verspätungszuschlags. In Fällen des § 180 Absatz 1
-Satz 1 Nummer 2 Buchstabe a ist der Verspätungszuschlag vorrangig
-gegen die nach § 181 Absatz 2 Satz 2 Nummer 4 erklärungspflichtigen
-Personen festzusetzen.
+Satz 1 Nummer 2 Buchstabe a ist der Verspätungszuschlag festzusetzen
+
+1.  bei rechtsfähigen Personenvereinigungen vorrangig gegen die
+    Personenvereinigung und
+
+
+2.  bei nicht rechtsfähigen Personenvereinigungen vorrangig gegen die nach
+    § 181 Absatz 2 Satz 2 Nummer 4 erklärungspflichtigen Personen.
+
+
+
 
 (5) Der Verspätungszuschlag beträgt vorbehaltlich des Satzes 2, der
 Absätze 8 und 13 Satz 2 für jeden angefangenen Monat der eingetretenen
@@ -10798,10 +11238,21 @@ Teilabschlussbescheid unmittelbar Bindungswirkung entfaltet.
 abzugeben, dem der Gegenstand der Feststellung ganz oder teilweise
 zuzurechnen ist. Erklärungspflichtig sind insbesondere
 
-1.  in den Fällen des § 180 Absatz 1 Satz 1 Nummer 2 Buchstabe a jeder
-    Feststellungsbeteiligte, dem ein Anteil an den
-    einkommensteuerpflichtigen oder körperschaftsteuerpflichtigen
-    Einkünften zuzurechnen ist;
+1.  in den Fällen des § 180 Absatz 1 Satz 1 Nummer 2 Buchstabe a
+
+    a)  bei rechtsfähigen Personenvereinigungen vorrangig die
+        Personenvereinigung und nachrangig jeder Feststellungsbeteiligte, dem
+        ein Anteil an den einkommensteuerpflichtigen oder
+        körperschaftsteuerpflichtigen Einkünften zuzurechnen ist,
+
+
+    b)  bei nicht rechtsfähigen Personenvereinigungen und in sonstigen Fällen
+        jeder Feststellungsbeteiligte, dem ein Anteil an den
+        einkommensteuerpflichtigen oder körperschaftsteuerpflichtigen
+        Einkünften zuzurechnen ist;
+
+
+
 
 
 2.  in den Fällen des § 180 Absatz 1 Satz 1 Nummer 2 Buchstabe b der
@@ -10814,7 +11265,8 @@ zuzurechnen ist. Erklärungspflichtig sind insbesondere
 
 
 4.  in den Fällen des § 180 Absatz 1 Satz 1 Nummer 2 Buchstabe a und
-    Nummer 3 auch die in § 34 bezeichneten Personen.
+    Nummer 3 bei nicht rechtsfähigen Personenvereinigungen auch die in §
+    34 bezeichneten Personen.
 
 
 
@@ -10894,47 +11346,106 @@ Rechtsnachfolge eingetreten ist, kann dies durch besonderen Bescheid
 gegenüber dem Rechtsnachfolger berichtigt werden.
 
 
-###### § 183 Empfangsbevollmächtigte bei der einheitlichen Feststellung
+###### § 183 Bekanntgabe bei der gesonderten und einheitlichen Feststellung gegenüber rechtsfähigen Personenvereinigungen
 
-(1) Richtet sich ein Feststellungsbescheid gegen mehrere Personen, die
-an dem Gegenstand der Feststellung als Gesellschafter oder
-Gemeinschafter beteiligt sind (Feststellungsbeteiligte), so sollen sie
-einen gemeinsamen Empfangsbevollmächtigten bestellen, der ermächtigt
-ist, für sie alle Verwaltungsakte und Mitteilungen in Empfang zu
-nehmen, die mit dem Feststellungsverfahren und dem anschließenden
-Verfahren über einen Einspruch zusammenhängen. Ist ein gemeinsamer
-Empfangsbevollmächtigter nicht vorhanden, so gilt ein zur Vertretung
-der Gesellschaft oder der Feststellungsbeteiligten oder ein zur
-Verwaltung des Gegenstands der Feststellung Berechtigter als
-Empfangsbevollmächtigter. Anderenfalls kann die Finanzbehörde die
-Beteiligten auffordern, innerhalb einer bestimmten angemessenen Frist
-einen Empfangsbevollmächtigten zu benennen. Hierbei ist ein
-Beteiligter vorzuschlagen und darauf hinzuweisen, dass diesem die in
-Satz 1 genannten Verwaltungsakte und Mitteilungen mit Wirkung für und
-gegen alle Beteiligten bekannt gegeben werden, soweit nicht ein
-anderer Empfangsbevollmächtigter benannt wird. Bei der Bekanntgabe an
-den Empfangsbevollmächtigten ist darauf hinzuweisen, dass die
-Bekanntgabe mit Wirkung für und gegen alle Feststellungsbeteiligten
-erfolgt.
+(1) Sind mehrere Personen am Gegenstand der gesonderten und
+einheitlichen Feststellung als Gesellschafter oder Gemeinschafter
+beteiligt (Feststellungsbeteiligte) und bilden sie eine rechtsfähige
+Personenvereinigung, sind alle Verwaltungsakte und Mitteilungen, die
+nach diesem Gesetz und den Steuergesetzen mit der gesonderten und
+einheitlichen Feststellung zusammenhängen, der Personenvereinigung in
+Vertretung der Feststellungsbeteiligten bekannt zu geben. Bei der
+Bekanntgabe ist darauf hinzuweisen, dass die Bekanntgabe mit Wirkung
+für und gegen alle Feststellungsbeteiligten erfolgt.
+
+(2) Absatz 1 ist nicht anzuwenden,
+
+1.  wenn die Personenvereinigung vollbeendet ist oder der Finanzbehörde
+    bekannt ist, dass die Personenvereinigung nicht mehr rechtsfähig ist,
+    oder
+
+
+2.  soweit ein Feststellungsbeteiligter aus der Personenvereinigung
+    ausgeschieden ist oder zwischen den Feststellungsbeteiligten
+    ernstliche Meinungsverschiedenheiten bestehen.
+
+
+
+In den Fällen von Satz 1 Nummer 2 können die in Absatz 1 Satz 1
+genannten Verwaltungsakte und Mitteilungen der Personenvereinigung
+auch mit Wirkung für und gegen einen in Satz 1 Nummer 2 genannten
+Feststellungsbeteiligten bekannt gegeben werden, soweit und solange
+dieser Feststellungsbeteiligte dem nicht widersprochen hat. Ein
+Widerspruch nach Satz 2 wird der Finanzbehörde gegenüber erst wirksam,
+wenn er ihr zugeht.
+
+(3) Ist nach Absatz 2 Satz 1 Einzelbekanntgabe erforderlich, so sind
+dem Feststellungsbeteiligten
+
+1.  der Gegenstand der gesonderten und einheitlichen Feststellung,
+
+
+2.  die alle Feststellungsbeteiligten betreffenden Besteuerungsgrundlagen,
+
+
+3.  sein Anteil,
+
+
+4.  die Zahl der Feststellungsbeteiligten und
+
+
+5.  die ihn persönlich betreffenden Besteuerungsgrundlagen
+
+
+
+bekannt zu geben. Bei berechtigtem Interesse ist dem
+Feststellungsbeteiligten der gesamte Inhalt des Feststellungsbescheids
+mitzuteilen.
+
+
+###### § 183a Empfangsbevollmächtigte bei der gesonderten und einheitlichen Feststellung bei nicht rechtsfähigen Personenvereinigungen und in sonstigen Fällen
+
+(1) Bilden die Feststellungsbeteiligten keine rechtsfähige
+Personenvereinigung, so sollen sie einen gemeinsamen
+Empfangsbevollmächtigten bestellen, der ermächtigt ist, für sie alle
+Verwaltungsakte und Mitteilungen in Empfang zu nehmen, die nach diesem
+Gesetz und den Steuergesetzen mit der gesonderten und einheitlichen
+Feststellung zusammenhängen. Ist kein gemeinsamer
+Empfangsbevollmächtigter nach Satz 1 vorhanden, kann die Finanzbehörde
+die Feststellungsbeteiligten auffordern, innerhalb einer bestimmten
+angemessenen Frist einen Empfangsbevollmächtigten zu benennen. Hierbei
+ist ein Feststellungsbeteiligter vorzuschlagen und darauf hinzuweisen,
+dass diesem die in Satz 1 genannten Verwaltungsakte und Mitteilungen
+mit Wirkung für und gegen alle Feststellungsbeteiligten bekannt
+gegeben werden, soweit nicht ein anderer Empfangsbevollmächtigter
+benannt wird. Bei der Bekanntgabe an den Empfangsbevollmächtigten ist
+darauf hinzuweisen, dass die Bekanntgabe mit Wirkung für und gegen
+alle Feststellungsbeteiligten erfolgt.
 
 (2) Absatz 1 ist insoweit nicht anzuwenden, als der Finanzbehörde
-bekannt ist, dass die Gesellschaft oder Gemeinschaft nicht mehr
-besteht, dass ein Beteiligter aus der Gesellschaft oder der
-Gemeinschaft ausgeschieden ist oder dass zwischen den Beteiligten
-ernstliche Meinungsverschiedenheiten bestehen. Ist nach Satz 1
-Einzelbekanntgabe erforderlich, so sind dem Beteiligten der Gegenstand
-der Feststellung, die alle Beteiligten betreffenden
-Besteuerungsgrundlagen, sein Anteil, die Zahl der Beteiligten und die
-ihn persönlich betreffenden Besteuerungsgrundlagen bekannt zu geben.
-Bei berechtigtem Interesse ist dem Beteiligten der gesamte Inhalt des
-Feststellungsbescheids mitzuteilen.
+bekannt ist, dass
 
-(3) Ist ein Empfangsbevollmächtigter nach Absatz 1 Satz 1 vorhanden,
-können Feststellungsbescheide ihm gegenüber auch mit Wirkung für einen
-in Absatz 2 Satz 1 genannten Beteiligten bekannt gegeben werden,
-soweit und solange dieser Beteiligte oder der Empfangsbevollmächtigte
-nicht widersprochen hat. Der Widerruf der Vollmacht wird der
-Finanzbehörde gegenüber erst wirksam, wenn er ihr zugeht.
+1.  die Personenvereinigung nicht mehr besteht oder rechtsfähig geworden
+    ist,
+
+
+2.  ein Feststellungsbeteiligter aus der Personenvereinigung ausgeschieden
+    ist oder zwischen den Feststellungsbeteiligten ernstliche
+    Meinungsverschiedenheiten bestehen.
+
+
+
+Ist ein Empfangsbevollmächtigter nach Absatz 1 Satz 1 vorhanden,
+können die in Absatz 1 Satz 1 genannten Verwaltungsakte und
+Mitteilungen ihm auch mit Wirkung für einen in Satz 1 Nummer 2
+genannten Feststellungsbeteiligten bekannt gegeben werden, soweit und
+solange dieser Feststellungsbeteiligte oder der
+Empfangsbevollmächtigte nicht widersprochen hat. Ein Widerruf der
+Empfangsvollmacht nach Absatz 1 Satz 1 und ein Widerspruch nach Satz 2
+werden der Finanzbehörde gegenüber erst wirksam, wenn sie ihr zugehen.
+
+(3) Ist nach Absatz 2 Einzelbekanntgabe erforderlich, gilt § 183
+Absatz 3 entsprechend.
 
 (4) Wird eine wirtschaftliche Einheit
 
@@ -10946,7 +11457,7 @@ Finanzbehörde gegenüber erst wirksam, wenn er ihr zugeht.
 
 
 
-zugerechnet und haben die Beteiligten keinen gemeinsamen
+zugerechnet und haben die Feststellungsbeteiligten keinen gemeinsamen
 Empfangsbevollmächtigten bestellt, so gelten für die Bekanntgabe von
 Feststellungsbescheiden über den Einheitswert oder den Grundsteuerwert
 die Regelungen über zusammengefasste Bescheide in § 122 Absatz 7
@@ -11179,6 +11690,12 @@ ist, für Rechnung dieser Personen Steuern zu entrichten oder Steuern
 einzubehalten und abzuführen; dies gilt auch dann, wenn etwaige
 Steuernachforderungen den anderen Personen gegenüber geltend zu machen
 sind.
+
+(1a) Das Ergebnis eines internationalen Risikobewertungsverfahrens
+nach § 89b und auch die bei dessen Durchführung erlangten
+Erkenntnisse, die nicht im Risikobewertungsbericht nach § 89b Absatz 6
+enthalten sind, sollen bei der Bestimmung des sachlichen Umfangs einer
+Außenprüfung nach Absatz 1 Satz 2 berücksichtigt werden.
 
 (2) Die steuerlichen Verhältnisse von Gesellschaftern und Mitgliedern
 sowie von Mitgliedern der Überwachungsorgane können über die in Absatz
@@ -12170,9 +12687,9 @@ geworden ist.
 Gewalt innerhalb der letzten sechs Monate der Verjährungsfrist nicht
 verfolgt werden kann.
 
-(2) Die Verjährung ist gehemmt, solange die Festsetzungsfrist des
-Anspruchs noch nicht abgelaufen ist. § 171 Absatz 14 ist dabei nicht
-anzuwenden.
+(2) Die Verjährungsfrist läuft nicht ab, solange die Festsetzungsfrist
+des Anspruchs noch nicht abgelaufen ist. § 171 Absatz 14 ist dabei
+nicht anzuwenden.
 
 
 ##### § 231 Unterbrechung der Verjährung
@@ -12478,6 +12995,10 @@ Gewerbesteuerbescheids ausgesetzt wird.
 (5) Ein Zinsbescheid ist nicht aufzuheben oder zu ändern, wenn der
 Steuerbescheid nach Abschluss des Rechtsbehelfsverfahrens aufgehoben,
 geändert oder nach § 129 berichtigt wird.
+
+(6) Die Absätze 1 bis 5 gelten für festgesetzte Haftungsansprüche
+entsprechend, soweit sich die Haftung auf Steuern und zurückzuzahlende
+Steuervergütungen erstreckt.
 
 
 ##### § 238 Höhe und Berechnung der Zinsen
@@ -13084,13 +13605,17 @@ nach den §§ 1480, 1504 und 2187 des Bürgerlichen Gesetzbuchs
 eintretende beschränkte Haftung entsprechend anzuwenden.
 
 
-##### § 267 Vollstreckungsverfahren gegen nicht rechtsfähige Personenvereinigungen
+##### § 267 Vollstreckungsverfahren gegen Personenvereinigungen
 
-Bei nicht rechtsfähigen Personenvereinigungen, die als solche
+(1) Bei nicht rechtsfähigen Personenvereinigungen, die als solche
 steuerpflichtig sind, genügt für die Vollstreckung in deren Vermögen
 ein vollstreckbarer Verwaltungsakt gegen die Personenvereinigung. Dies
 gilt entsprechend für Zweckvermögen und sonstige einer juristischen
 Person ähnliche steuerpflichtige Gebilde.
+
+(2) Hat eine nicht rechtsfähige Personenvereinigung nachträglich
+Rechtsfähigkeit erlangt, so kann auch aus einem Verwaltungsakt
+vollstreckt werden, der vor diesem Zeitpunkt wirksam geworden ist.
 
 
 #### 2. Unterabschnitt - Aufteilung einer Gesamtschuld
@@ -13372,9 +13897,10 @@ Vollstreckungsbehörde unter Hinweis auf die Verpflichtung zur Abgabe
 der Vermögensauskunft zur Zahlung aufgefordert hat. Zusätzlich hat er
 seinen Geburtsnamen, sein Geburtsdatum und seinen Geburtsort
 anzugeben. Handelt es sich bei dem Vollstreckungsschuldner um eine
-juristische Person oder um eine Personenvereinigung, so hat er seine
-Firma, die Nummer des Registerblatts im Handelsregister und seinen
-Sitz anzugeben.
+juristische Person oder um eine rechtsfähige Personenvereinigung, so
+hat er seine Firma oder den Namen, die Nummer des Registerblatts im
+Handels-, Genossenschafts-, Gesellschafts-, Partnerschafts- oder
+Vereinsregister und seinen Sitz anzugeben.
 
 (2) Zur Auskunftserteilung hat der Vollstreckungsschuldner alle ihm
 gehörenden Vermögensgegenstände anzugeben. Bei Forderungen sind Grund
@@ -14792,23 +15318,41 @@ nur durch Anfechtung dieses Bescheids, nicht auch durch Anfechtung des
 Folgebescheids, angegriffen werden.
 
 
-#### § 352 Einspruchsbefugnis bei der einheitlichen Feststellung
+#### § 352 Einspruchsbefugnis bei der gesonderten und einheitlichen Feststellung
 
-(1) Gegen Bescheide über die einheitliche und gesonderte Feststellung
+(1) Gegen Bescheide über die gesonderte und einheitliche Feststellung
 von Besteuerungsgrundlagen können Einspruch einlegen:
 
-1.  zur Vertretung berufene Geschäftsführer oder, wenn solche nicht
-    vorhanden sind, der Einspruchsbevollmächtigte im Sinne des Absatzes 2;
+1.  bei rechtsfähigen Personenvereinigungen:
+
+    a)  die Personenvereinigung,
 
 
-2.  wenn Personen nach Nummer 1 nicht vorhanden sind, jeder
-    Gesellschafter, Gemeinschafter oder Mitberechtigte, gegen den der
-    Feststellungsbescheid ergangen ist oder zu ergehen hätte;
+    b)  wenn die rechtsfähige Personenvereinigung nicht mehr besteht, jeder
+        Gesellschafter oder Gemeinschafter, gegen den der
+        Feststellungsbescheid ergangen ist oder zu ergehen hätte;
 
 
-3.  auch wenn Personen nach Nummer 1 vorhanden sind, ausgeschiedene
-    Gesellschafter, Gemeinschafter oder Mitberechtigte, gegen die der
-    Feststellungsbescheid ergangen ist oder zu ergehen hätte;
+
+
+
+2.  bei nicht rechtsfähigen Personenvereinigungen und in sonstigen Fällen:
+
+    a)  der Einspruchsbefugte im Sinne des Absatzes 2,
+
+
+    b)  wenn Personen nach Buchstabe a nicht vorhanden sind, jeder
+        Gesellschafter, Gemeinschafter oder Mitberechtigte, gegen den der
+        Feststellungsbescheid ergangen ist oder zu ergehen hätte;
+
+
+
+
+
+3.  in den Fällen des § 183 Absatz 2 Satz 1 Nummer 2 oder des § 183a
+    Absatz 2 Satz 1 Nummer 2 jeder Gesellschafter, Gemeinschafter oder
+    Mitberechtigte, gegen den der Feststellungsbescheid ergangen ist oder
+    zu ergehen hätte;
 
 
 4.  soweit es sich darum handelt, wer an dem festgestellten Betrag
@@ -14823,20 +15367,18 @@ von Besteuerungsgrundlagen können Einspruch einlegen:
 
 
 
-(2) Einspruchsbefugt im Sinne des Absatzes 1 Nr. 1 ist der gemeinsame
-Empfangsbevollmächtigte im Sinne des § 183 Abs. 1 Satz 1 oder des § 6
-Abs. 1 Satz 1 der Verordnung über die gesonderte Feststellung von
-Besteuerungsgrundlagen nach § 180 Abs. 2 der Abgabenordnung vom 19.
-Dezember 1986 (BGBl. I S. 2663). Haben die Feststellungsbeteiligten
-keinen gemeinsamen Empfangsbevollmächtigten bestellt, ist
-einspruchsbefugt im Sinne des Absatzes 1 Nr. 1 der nach § 183 Abs. 1
-Satz 2 fingierte oder der nach § 183 Abs. 1 Satz 3 bis 5 oder nach § 6
-Abs. 1 Satz 3 bis 5 der Verordnung über die gesonderte Feststellung
-von Besteuerungsgrundlagen nach § 180 Abs. 2 der Abgabenordnung von
-der Finanzbehörde bestimmte Empfangsbevollmächtigte; dies gilt nicht
-für Feststellungsbeteiligte, die gegenüber der Finanzbehörde der
-Einspruchsbefugnis des Empfangsbevollmächtigten widersprechen. Die
-Sätze 1 und 2 sind nur anwendbar, wenn die Beteiligten in der
+(2) Einspruchsbefugt im Sinne des Absatzes 1 Nummer 2 Buchstabe a ist
+der gemeinsame Empfangsbevollmächtigte im Sinne des § 183a Absatz 1
+Satz 1 oder des § 6 Absatz 1 Satz 1 der Verordnung über die gesonderte
+Feststellung von Besteuerungsgrundlagen nach § 180 Abs. 2 der
+Abgabenordnung. Haben die Feststellungsbeteiligten keinen gemeinsamen
+Empfangsbevollmächtigten bestellt, ist einspruchsbefugt im Sinne des
+Absatzes 1 Nummer 2 Buchstabe a der nach § 183a Absatz 1 Satz 2 und 3
+oder nach § 6 Absatz 1 Satz 3 und 4 der Verordnung über die gesonderte
+Feststellung von Besteuerungsgrundlagen nach § 180 Abs. 2 der
+Abgabenordnung von der Finanzbehörde bestimmte
+Empfangsbevollmächtigte; Absatz 1 Nummer 3 bleibt unberührt. Die Sätze
+1 und 2 sind nur anwendbar, wenn die Beteiligten in der
 Feststellungserklärung oder in der Aufforderung zur Benennung eines
 Empfangsbevollmächtigten über die Einspruchsbefugnis des
 Empfangsbevollmächtigten belehrt worden sind.
@@ -15702,16 +16244,15 @@ anderen Mitgliedstaat der Europäischen Union verwaltet werden.
     vollständig oder nicht rechtzeitig nachkommt,
 
 
-1e. entgegen § 138d Absatz 1, entgegen § 138f Absatz 1, 2, 3 Satz 1 Nummer
-    1 bis 7 sowie 9 und 10 oder entgegen § 138h Absatz 2 eine Mitteilung
-    über eine grenzüberschreitende Steuergestaltung nicht oder nicht
-    rechtzeitig macht oder zur Verfügung stehende Angaben nicht
-    vollständig mitteilt,
+1e. entgegen § 138d Absatz 1 in Verbindung mit § 138f Absatz 1, 2, 3 Satz
+    1 Nummer 1 bis 7 sowie 9 und 10 oder § 138h Absatz 2, jeweils auch in
+    Verbindung mit § 138f Absatz 6 Satz 1 und 2 oder § 138g Absatz 1 Satz
+    1, eine Mitteilung über eine grenzüberschreitende Steuergestaltung
+    nicht oder nicht rechtzeitig macht oder zur Verfügung stehende Angaben
+    nicht vollständig mitteilt,
 
 
-1f. entgegen § 138g Absatz 1 Satz 1 oder entgegen § 138h Absatz 2 die
-    Angaben nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig
-    mitteilt,
+1f. (weggefallen)
 
 
 1g. entgegen § 138k Satz 1 in der Steuererklärung die Angabe der von ihm
@@ -15751,7 +16292,7 @@ Absatz 2 Nummer 1h und 1i kann mit einer Geldbuße bis zu 25 000 Euro
 geahndet werden, wenn die Handlung nicht nach § 378 geahndet werden
 kann.
 
-(7) Die Ordnungswidrigkeit nach Absatz 2 Nummer 1 und 1d bis 1g kann
+(7) Die Ordnungswidrigkeit nach Absatz 2 Nummer 1, 1d, 1e und 1g kann
 mit einer Geldbuße bis zu 25 000 Euro geahndet werden, wenn die
 Handlung nicht nach § 378 geahndet werden kann.
 

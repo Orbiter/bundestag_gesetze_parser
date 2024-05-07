@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 10.5.2000 I 717;
 
 Zuletzt geändert durch
-:   Art. 10 G v. 2.6.2021 I 1259
+:   Art. 9 G v. 27.3.2024 I Nr. 108
 
 
 ## § 1 Anwendung auf Ehegatten und Lebenspartner
@@ -377,16 +377,12 @@ Steuer ist als Nachsteuer zu erheben.
 
 ### § 50 Zuwendungsbestätigung
 
-(1)
-1             Zuwendungen im Sinne der §§ 10b und 34g des Gesetzes
-dürfen vorbehaltlich des Absatzes 2 nur abgezogen werden, wenn der
-Zuwendende eine Zuwendungsbestätigung, die der Zuwendungsempfänger
-unter Berücksichtigung des § 63 Absatz 5 der Abgabenordnung nach
-amtlich vorgeschriebenem Vordruck ausgestellt hat, oder die in den
-Absätzen 4 bis 6 bezeichneten Unterlagen erhalten hat.
-2             Dies gilt nicht für Zuwendungen an nicht im Inland
-ansässige Zuwendungsempfänger nach § 10b Absatz 1 Satz 2 Nummer 1 und
-3 des Gesetzes.
+(1) Zuwendungen im Sinne der §§ 10b und 34g des Gesetzes dürfen
+vorbehaltlich des Absatzes 2 nur abgezogen werden, wenn der Zuwendende
+eine Zuwendungsbestätigung, die der Zuwendungsempfänger unter
+Berücksichtigung des § 63 Absatz 5 der Abgabenordnung nach amtlich
+vorgeschriebenem Vordruck ausgestellt hat, oder die in den Absätzen 4
+bis 6 bezeichneten Unterlagen erhalten hat.
 
 (2)
 1             Der Zuwendende kann den Zuwendungsempfänger
@@ -1180,7 +1176,8 @@ Einkommensteuererklärung für das abgelaufene Kalenderjahr
 
 2             Eine Steuererklärung ist außerdem abzugeben, wenn zum
 Schluss des vorangegangenen Veranlagungszeitraums ein verbleibender
-Verlustabzug festgestellt worden ist.
+Verlustabzug oder ein nachversteuerungspflichtiger Betrag im Sinne von
+§ 34a Absatz 3 Satz 3 des Gesetzes festgestellt worden ist.
 
 
 ### (XXXX) §§ 57 bis 59 (weggefallen)
@@ -1954,7 +1951,7 @@ sofort abzugsfähige Betriebsausgaben behandelt werden.
 
 
 
-an Stelle der nach § 7 Abs. 4 oder 5 oder § 7b des Gesetzes zu
+an Stelle der nach § 7 Absatz 4, 5 oder 5a oder § 7b des Gesetzes zu
 bemessenden Absetzungen für Abnutzung im Jahr der Herstellung und in
 den folgenden neun Jahren jeweils bis zu 10 Prozent absetzen.
 2             Nach Ablauf dieser zehn Jahre ist ein etwa noch
@@ -2092,7 +2089,7 @@ Durchführung sich der Eigentümer neben bestimmten
 Modernisierungsmaßnahmen gegenüber der Gemeinde verpflichtet hat, die
 für Gebäude in einem förmlich festgelegten Sanierungsgebiet oder
 städtebaulichen Entwicklungsbereich aufgewendet worden sind, an Stelle
-der nach § 7 Abs. 4 oder 5 oder § 7b des Gesetzes zu bemessenden
+der nach § 7 Absatz 4, 5 oder 5a oder § 7b des Gesetzes zu bemessenden
 Absetzungen für Abnutzung im Jahr der Herstellung und in den neun
 folgenden Jahren jeweils bis zu 10 Prozent absetzen.
 2             § 82a Abs. 1 Satz 2 gilt entsprechend.
@@ -2186,6 +2183,10 @@ sind.
 (2c) § 50 in der am 1. Januar 2020 geltenden Fassung ist erstmals auf
 Zuwendungen anzuwenden, die dem Zuwendungsempfänger nach dem 31.
 Dezember 2019 zufließen.
+
+(2d) § 50 in der Fassung des Artikels 7 des Gesetzes vom 21. Dezember
+2020 (BGBl. I S. 3096) ist erstmals auf Zuwendungen anzuwenden, die
+dem Zuwendungsempfänger nach dem 31. Dezember 2024 zufließen.
 
 (3) § 29 Abs. 3 bis 6, §§ 31 und 32 sind in der vor dem 1. Januar 1996
 geltenden Fassung für vor diesem Zeitpunkt an Bausparkassen geleistete

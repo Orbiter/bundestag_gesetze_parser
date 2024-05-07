@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 7 V v. 5.4.2023 II Nr. 105
 
+Änderung durch
+:   Art. 7 V v. 18.3.2024 I Nr. 100 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## § 1 Anwendungsbereich
 
@@ -124,9 +127,8 @@ die jeweilige Antriebsart als erbracht für die Inhaber
 1.  eines im Geltungsbereich dieser Verordnung nach anderen Vorschriften
     erteilten amtlichen Befähigungsnachweises zum Führen eines Fahrzeugs
     mit Antriebsmaschine oder unter Segel auf Binnengewässern außerhalb
-    der Seeschifffahrtsstraßen, sofern das Bundesministerium für Verkehr
-    und digitale Infrastruktur diesen als Befähigungsnachweis anerkannt
-    hat,
+    der Seeschifffahrtsstraßen, sofern das Bundesministerium für Digitales
+    und Verkehr diesen als Befähigungsnachweis anerkannt hat,
 
 
 2.  eines Schifferpatents für den Bodensee der Kategorien A oder D nach
@@ -136,15 +138,14 @@ die jeweilige Antriebsart als erbracht für die Inhaber
 3.  eines von einer als gemeinnützig anerkannten Körperschaft oder
     staatlichen Organisation erteilten Berechtigungsscheins zum Führen
     eines Wasserrettungsfahrzeugs, sofern das Bundesministerium für
-    Verkehr und digitale Infrastruktur diesen als Befähigungsnachweis
-    anerkannt hat.
+    Digitales und Verkehr diesen als Befähigungsnachweis anerkannt hat.
 
 
 
 Eine Übersicht über die durch Satz 1 Nummer 1 und 3 erfassten
 Befähigungsnachweise und Berechtigungsscheine wird im Verkehrsblatt –
-Amtsblatt des Bundesministeriums für Verkehr und digitale
-Infrastruktur der Bundesrepublik Deutschland – veröffentlicht.
+Amtsblatt des Bundesministeriums für Digitales und Verkehr der
+Bundesrepublik Deutschland – veröffentlicht.
 
 (4) Der nach dieser Verordnung vorgeschriebene Sportbootführerschein
 mit dem Geltungsbereich Binnenschifffahrtsstraßen wird für die
@@ -186,14 +187,11 @@ jeweilige Antriebsart ersetzt durch einen:
 
 
 
-(5) Gegen Vorlage eines der in Absatz 2 genannten Befähigungszeugnisse
-bei einem der beliehenen Verbände wird dessen Inhaber auf Antrag ein
-Sportbootführerschein mit dem Geltungsbereich
-Binnenschifffahrtsstraßen für die jeweilige Antriebsart ausgestellt.
-Dies gilt auch für ruhende Befähigungszeugnisse, sofern der Grund
-ihres Ruhens in der Nichterneuerung des Nachweises der Tauglichkeit
-liegt. Das Ablegen einer Prüfung ist in diesem Fall nicht
-erforderlich.
+(5) Gegen Vorlage eines der in Absatz 2 Nummer 1, 4 und 5 bis 7
+genannten Befähigungszeugnisse bei einem der beliehenen Verbände wird
+dessen Inhaber auf Antrag ein Sportbootführerschein mit dem
+Geltungsbereich Binnenschifffahrtsstraßen für die jeweilige
+Antriebsart ausgestellt.
 
 (6) Gegen Vorlage eines der in Absatz 3 genannten Befähigungsnachweise
 bei einem der beliehenen Verbände wird dessen Inhaber auf Antrag eine
@@ -236,9 +234,8 @@ anerkannt:
 
 2.  ein im Geltungsbereich dieser Verordnung nach anderen Vorschriften
     erteilter amtlicher Befähigungsnachweis zum Führen eines Fahrzeugs auf
-    den Seeschifffahrtsstraßen, soweit das Bundesministerium für Verkehr
-    und digitale Infrastruktur diesen als Befähigungsnachweis anerkannt
-    hat.
+    den Seeschifffahrtsstraßen, soweit das Bundesministerium für Digitales
+    und Verkehr diesen als Befähigungsnachweis anerkannt hat.
 
 
 
@@ -248,8 +245,8 @@ Seeschifffahrtsstraßen für ein Sportboot erforderlich ist, gilt als
 erbracht für die Inhaber eines von einer als gemeinnützig anerkannten
 Körperschaft oder staatlichen Organisation erteilten
 Berechtigungsscheins zum Führen eines Wasserrettungsfahrzeugs, sofern
-das Bundesministerium für Verkehr und digitale Infrastruktur diesen
-als Befähigungsnachweis anerkannt hat.
+das Bundesministerium für Digitales und Verkehr diesen als
+Befähigungsnachweis anerkannt hat.
 
 (4) Der nach dieser Verordnung vorgeschriebene Sportbootführerschein
 mit dem Geltungsbereich Seeschifffahrtsstraßen wird ersetzt durch
@@ -296,8 +293,8 @@ diesem Fall nicht erforderlich.
 
 (8) Eine Übersicht über die nach Absatz 2 Nummer 2 und Absatz 3
 anerkannten Befähigungsnachweise wird im Verkehrsblatt – Amtsblatt des
-Bundesministeriums für Verkehr und digitale Infrastruktur der
-Bundesrepublik Deutschland – veröffentlicht.
+Bundesministeriums für Digitales und Verkehr der Bundesrepublik
+Deutschland – veröffentlicht.
 
 (9) Die Anträge nach den Absätzen 5 bis 7 können auch elektronisch
 über das Verwaltungsportal des Bundes gestellt werden.
@@ -337,7 +334,7 @@ Bundesrepublik Deutschland – veröffentlicht.
 
 
 
-Ist im Fall des Satzes 1 Nummer 4 in dem Staat des Wohnsitzes für das
+Ist im Fall des Satzes 1 Nummer 3 in dem Staat des Wohnsitzes für das
 Führen eines Sportbootes auf den jeweiligen Gewässern ein
 Befähigungsnachweis amtlich vorgeschrieben oder wendet dieser Staat
 die Resolution Nr. 40 ECE (TRANS/SC.3/147/Rev.3, VkBl. 2013 S. 987)
@@ -644,11 +641,11 @@ flächendeckend Prüfungsausschüsse eingerichtet. Die Prüfungsausschüsse
 bestehen aus einem Leiter und aus weiteren Prüfern. Die
 Prüfungsausschüsse werden von den beliehenen Verbänden gemeinsam oder
 jeweils getrennt eingerichtet. Die beliehenen Verbände legen dem
-Bundesministerium für Verkehr und digitale Infrastruktur jährlich eine
-Liste über die Prüfungsausschüsse und deren Besetzung vor und
-unterrichten es im Fall einer Änderung. Das Bundesministerium für
-Verkehr und digitale Infrastruktur kann sich hierbei durch die
-Generaldirektion Wasserstraßen und Schifffahrt unterstützen lassen.
+Bundesministerium für Digitales und Verkehr jährlich eine Liste über
+die Prüfungsausschüsse und deren Besetzung vor und unterrichten es im
+Fall einer Änderung. Das Bundesministerium für Digitales und Verkehr
+kann sich hierbei durch die Generaldirektion Wasserstraßen und
+Schifffahrt unterstützen lassen.
 
 (2) Die Leiter und die anderen Prüfer werden von den beliehenen
 Verbänden bestellt und entlassen.
@@ -924,8 +921,8 @@ folgende Rechte und Pflichten:
 2.  die Abnahme von Prüfungen, die Erteilung von Fahrerlaubnissen (§§ 3,
     4, 8) und die Übermittlung der zur Herstellung eines
     Sportbootführerscheins erforderlichen Daten unter Berücksichtigung des
-    Bundesdatenschutzgesetzes an die vom Bundesministerium für Verkehr und
-    digitale Infrastruktur benannte Stelle,
+    Bundesdatenschutzgesetzes an die vom Bundesministerium für Digitales
+    und Verkehr benannte Stelle,
 
 
 3.  die Entscheidung über Anträge auf Ersatzausfertigungen (§ 11),
@@ -935,21 +932,20 @@ folgende Rechte und Pflichten:
 
 
 5.  die Erhebung von Gebühren und Auslagen nach Maßgabe einer Besonderen
-    Gebührenverordnung des Bundesministeriums für Verkehr und digitale
-    Infrastruktur nach § 22 Absatz 4 des Bundesgebührengesetzes.
+    Gebührenverordnung des Bundesministeriums für Digitales und Verkehr
+    nach § 22 Absatz 4 des Bundesgebührengesetzes.
 
 
 
 
 (2) Die beliehenen Verbände unterstehen bei der Erfüllung der ihnen
 übertragenen Aufgaben der Fachaufsicht des Bundesministeriums für
-Verkehr und digitale Infrastruktur. Das Bundesministerium für Verkehr
-und digitale Infrastruktur bedient sich bei der Durchführung der
-Fachaufsicht über die beliehenen Verbände der Generaldirektion
-Wasserstraßen und Schifffahrt. Die beliehenen Verbände haben die ihnen
-übertragenen Aufgaben nach Maßgabe dieser Verordnung und der vom
-Bundesministerium für Verkehr und digitale Infrastruktur zu ihrer
-Durchführung erlassenen Richtlinien wahrzunehmen.
+Digitales und Verkehr. Das Bundesministerium für Digitales und Verkehr
+bedient sich bei der Durchführung der Fachaufsicht über die beliehenen
+Verbände der Generaldirektion Wasserstraßen und Schifffahrt. Die
+beliehenen Verbände haben die ihnen übertragenen Aufgaben nach Maßgabe
+dieser Verordnung und der vom Bundesministerium für Digitales und
+Verkehr zu ihrer Durchführung erlassenen Richtlinien wahrzunehmen.
 
 (3) Über die Entziehung der Fahrerlaubnis nach § 13 oder die Anordnung
 des Ruhens der Fahrerlaubnis nach § 14 entscheidet die
@@ -1062,10 +1058,10 @@ Generaldirektion Wasserstraßen und Schifffahrt übertragen.
 
 Vorderseite
 
-![bgbl1_2022_j2211-1_0010.jpg](bgbl1_2022_j2211-1_0010.jpg)
+![bgbl1_2024_j01000_0010.jpg](bgbl1_2024_j01000_0010.jpg)
 Rückseite
 
-![bgbl1_2022_j2211-1_0020.jpg](bgbl1_2022_j2211-1_0020.jpg)
+![bgbl1_2024_j01000_0020.jpg](bgbl1_2024_j01000_0020.jpg)
 Das Zertifikat ist unter Berücksichtigung der internationalen ISO/IEC-
 Norm 7810 auszustellen.
 
@@ -2601,13 +2597,9 @@ Fähigkeiten, die beim Erwerb des Sportbootführerscheins für einen
 Geltungsbereich oder eine Antriebsart bereits erfolgreich geprüft
 wurden, werden beim Erwerb des Sportbootführerscheins für den anderen
 Geltungsbereich oder die andere Antriebsart grundsätzlich nicht erneut
-geprüft. Erfolgt die Prüfung für den anderen Geltungsbereich oder die
-andere Antriebsart nicht bei demselben Prüfungsausschuss für den
-zuerst erworbenen Geltungsbereich oder die zuerst erworbene
-Antriebsart, ist zum Nachweis der geprüften Fähigkeiten die Vorlage
-des Sportbootführerscheins erforderlich. Prüfungsteile (theoretische
-oder praktische Prüfung), die bei einem Prüfungsausschuss des anderen
-Verbands durchgeführt wurden, werden nicht anerkannt.
+geprüft. Prüfungsteile (theoretische oder praktische Prüfung), die bei
+einem Prüfungsausschuss des anderen Verbands durchgeführt wurden,
+werden nicht anerkannt.
 
 2\. Praxisprotokoll ****
 
@@ -3174,9 +3166,9 @@ Die Prüfer haben folgende Rechte und Pflichten:
 
 
 –   alle Entscheidungen nach Maßgabe der gesetzlichen Vorschriften zu
-    treffen und dabei die Richtlinien des Bundesministeriums für Verkehr
-    und digitale Infrastruktur, die sonstigen Anordnungen der Verbände
-    sowie die Weisungen der zuständigen Fachaufsichtsbehörde zu beachten;
+    treffen und dabei die Richtlinien des Bundesministeriums für Digitales
+    und Verkehr, die sonstigen Anordnungen der Verbände sowie die
+    Weisungen der zuständigen Fachaufsichtsbehörde zu beachten;
 
 
 –   sich bei Entscheidungen, die nach pflichtgemäßem Ermessen zu treffen

@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2019, 1112
 
-Geändert durch
-:   Art. 1 AnO v. 21.4.2021 I 871
+Zuletzt geändert durch
+:   Art. 1 AnO v. 14.2.2024 I Nr. 57
 
 
 ## Eingangsformel
@@ -80,10 +80,9 @@ Beamtenverhältnis wird der Abteilung Sovereign Civil Servants Services
 
 ## § 2 Befugnisse und Zuständigkeiten im Bereich des Disziplinarrechts
 
-(1) Die Befugnisse zur Kürzung der Dienstbezüge bis zum Höchstmaß und
-zur Erhebung der Disziplinarklage gegen Beamtinnen und Beamte werden
-der Leitung der Abteilung Sovereign Civil Servants Services
-übertragen.
+(1) Die Befugnisse zur Kürzung der Dienstbezüge bis zum Höchstmaß, zur
+Zurückstufung und zur Entfernung aus dem Beamtenverhältnis werden der
+Leitung der Abteilung Sovereign Civil Servants Services übertragen.
 
 (2) Die Zuständigkeit zum Erlass von Widerspruchsbescheiden in
 disziplinarrechtlichen Angelegenheiten wird der Abteilung Sovereign

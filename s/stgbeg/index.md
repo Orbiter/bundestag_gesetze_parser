@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1974, 469 (1975 I 1916)(1976 I 507)
 
 Zuletzt geändert durch
-:   Art. 4 G v. 26.7.2023 I Nr. 203, dieser geändert durch Art. 3 G v. 16.8.2023 I Nr. 218
+:   Art. 13 G v. 27.3.2024 I Nr. 109
 
 
 ## Übersicht
@@ -619,8 +619,10 @@ Regelungen zu treffen, wonach die Vollstreckungsbehörde dem
 Verurteilten gestatten kann, die Vollstreckung einer
 Ersatzfreiheitsstrafe nach § 43 des Strafgesetzbuches durch freie
 Arbeit abzuwenden. Soweit der Verurteilte die freie Arbeit geleistet
-hat, ist die Ersatzfreiheitsstrafe erledigt. Die Arbeit muß
-unentgeltlich sein; sie darf nicht erwerbswirtschaftlichen Zwecken
+hat, ist die Ersatzfreiheitsstrafe erledigt. In der Rechtsverordnung
+ist die Zahl der Arbeitsstunden zu bestimmen, die geleistet werden
+müssen, um einen Tag Ersatzfreiheitsstrafe zu erledigen. Die Arbeit
+muß unentgeltlich sein; sie darf nicht erwerbswirtschaftlichen Zwecken
 dienen. Die Landesregierungen können die Ermächtigung durch
 Rechtsverordnung auf die Landesjustizverwaltungen übertragen.
 
@@ -1428,6 +1430,27 @@ nach dem 3. Oktober 1990 ergangen sind, werden aufgehoben:
 
 (2) Die Verfahren, die den in Absatz 1 genannten Urteilen zugrunde
 liegen, werden eingestellt.
+
+
+### Art 316o Übergangsvorschrift zum Gesetz zur Überarbeitung des Sanktionenrechts – Ersatzfreiheitsstrafe, Strafzumessung, Auflagen und Weisungen sowie Unterbringung in einer Entziehungsanstalt
+
+(1) Für die Vollstreckung von vor dem 1. Oktober 2023 rechtskräftig
+angeordneten Unterbringungen nach § 63 oder § 64 des Strafgesetzbuches
+gilt § 67 des Strafgesetzbuches in der bis zu diesem Tag geltenden
+Fassung. Artikel 313 Absatz 2 gilt entsprechend.
+
+(2) Für die Vollstreckung von vor dem 1. Februar 2024 rechtskräftig
+verhängten Geldstrafen gelten § 43 des Strafgesetzbuches und § 11 des
+Wehrstrafgesetzes jeweils in der bis zu diesem Tag geltenden Fassung.
+Artikel 313 Absatz 2 gilt entsprechend.
+
+
+### Art 316p Noch nicht vollstreckte Strafen im Zusammenhang mit Cannabis nach dem Betäubungsmittelgesetz
+
+Im Hinblick auf vor dem 1. April 2024 verhängte Strafen nach dem
+Betäubungsmittelgesetz, die nach dem Konsumcannabisgesetz oder dem
+Medizinal-Cannabisgesetz nicht mehr strafbar und auch nicht mit
+Geldbuße bedroht sind, ist Artikel 313 entsprechend anzuwenden.
 
 
 ### Art 317 Überleitung des Verfahrens wegen Ordnungswidrigkeiten nach neuem Recht

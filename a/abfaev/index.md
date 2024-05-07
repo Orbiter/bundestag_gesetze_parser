@@ -706,9 +706,9 @@ Vermerk versehene Kopie oder der mit dem Vermerk versehene Ausdruck
 der Anzeige mitzuführen. Als Entsorgungsfachbetriebe zertifizierte
 Sammler und Beförderer von gefährlichen Abfällen, die nach § 54 Absatz
 3 Nummer 2 von der Erlaubnispflicht nach § 54 Absatz 1 Satz 1 des
-Kreislaufwirtschaftsgesetzes ausgenommen sind, haben zudem eine Kopie
-des aktuell gültigen Zertifikats nach § 56 Absatz 3 des
-Kreislaufwirtschaftsgesetzes mitzuführen. Sammler und Beförderer von
+Kreislaufwirtschaftsgesetzes ausgenommen sind, haben das aktuell
+gültige Zertifikat nach § 56 Absatz 3 des Kreislaufwirtschaftsgesetzes
+elektronisch oder als Ausdruck mitzuführen. Sammler und Beförderer von
 gefährlichen Abfällen, die einen EMAS-Standort betreiben und nach § 12
 Absatz 1 Nummer 4 von der Erlaubnispflicht nach § 54 Absatz 1 Satz 1
 des Kreislaufwirtschaftsgesetzes ausgenommen sind, haben zudem eine
@@ -716,8 +716,9 @@ Kopie der aktuell gültigen Registrierungsurkunde mitzuführen.
 
 (2) Soweit die Tätigkeit erlaubnispflichtig ist, haben Sammler und
 Beförderer von gefährlichen Abfällen eine Kopie oder einen Ausdruck
-der Erlaubnis mitzuführen. Im Falle des Eintritts der
-Genehmigungsfiktion nach § 54 Absatz 6 Satz 2 des
+der Erlaubnis mitzuführen. Die Mitführungspflicht gilt auch bei der
+Beförderung von nicht gefährlichen Abfällen. Im Falle des Eintritts
+der Genehmigungsfiktion nach § 54 Absatz 6 Satz 2 des
 Kreislaufwirtschaftsgesetzes in Verbindung mit § 42a des
 Verwaltungsverfahrensgesetzes ist eine Kopie des Antrags nach § 9
 Absatz 1 oder ein Ausdruck des Antrags nach § 11 Absatz 1 und sofern

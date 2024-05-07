@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 4.4.2006 I 846, 1202;
 
 Zuletzt geändert durch
-:   Art. 7 G v. 20.12.2022 I 2730
+:   Art. 17 G v. 27.3.2024 I Nr. 108
 
 
 ## Abschnitt I - Allgemeine Vorschriften
@@ -315,11 +315,28 @@ und 3 folgende Aufgaben:
     Steuertransparenzgesetzes;
 
 
-5h. die Auswertung der Informationen nach den Nummern 5c, 5d, 5e, 5f und
-    5g im Rahmen der dem Bundeszentralamt für Steuern gesetzlich
-    übertragenen Aufgaben; Auswertungen der Informationen nach den Nummern
-    5c, 5d, 5e, 5f und 5g durch die jeweils zuständige Landesfinanzbehörde
-    bleiben hiervon unberührt;
+5h.
+    a)  die Entgegennahme der Mindeststeuer-Berichte nach § 75 des
+        Mindeststeuergesetzes und ihre Weiterleitung an die jeweils zuständige
+        Landesfinanzbehörde,
+
+
+    b)  die Entgegennahme der Meldungen nach § 3 Absatz 4 des
+        Mindeststeuergesetzes und Weiterleitung an die jeweils zuständige
+        Länderfinanzbehörde sowie
+
+
+    c)  die Durchführung von Bußgeldverfahren nach § 98 des
+        Mindeststeuergesetzes;
+
+
+
+
+
+5i. die Auswertung der Informationen nach den Nummern 5c bis 5h im Rahmen
+    der dem Bundeszentralamt für Steuern gesetzlich übertragenen Aufgaben;
+    Auswertungen der Informationen nach den Nummern 5c bis 5h durch die
+    jeweils zuständige Landesfinanzbehörde bleiben hiervon unberührt;
 
 
 6.  die zentrale Sammlung und Auswertung von Unterlagen über steuerliche
@@ -388,19 +405,10 @@ und 3 folgende Aufgaben:
     erhalten oder Arbeitnehmer des Bundes oder einer sonstigen
     Körperschaft, einer Anstalt oder einer Stiftung des öffentlichen
     Rechts im Bereich des Bundes sind, benennt die Bundesagentur für
-    Arbeit als Familienkasse zentrale Ansprechpartner. Die
-    Landesregierungen werden ermächtigt, durch Rechtsverordnung
-    Landesfamilienkassen zur Wahrnehmung der Aufgaben nach § 72 Abs. 1 des
-    Einkommensteuergesetzes einzurichten. Diese können auch Aufgaben der
-    mittelbaren Verwaltung wahrnehmen. Die Ermächtigung kann durch
-    Rechtsverordnung auf die zuständigen obersten Landesbehörden
-    übertragen werden. Die Familienkassen gelten als Bundesfinanzbehörden,
-    soweit sie den Familienleistungsausgleich durchführen, und unterliegen
-    insoweit der Fachaufsicht des Bundeszentralamtes für Steuern. Das
-    Bundeszentralamt für Steuern erteilt diesen Familienkassen ein Merkmal
-    zur Identifizierung (Familienkassenschlüssel) und veröffentlicht die
-    Namen und die Anschriften dieser Familienkassen jeweils zu Beginn
-    eines Kalenderjahres im Bundessteuerblatt;
+    Arbeit als Familienkasse zentrale Ansprechpartner. Die Familienkassen
+    gelten als Bundesfinanzbehörden, soweit sie den
+    Familienleistungsausgleich durchführen, und unterliegen insoweit der
+    Fachaufsicht des Bundeszentralamtes für Steuern.
 
 
 12. die Durchführung der Veranlagung nach § 50 Absatz 2 Satz 2 Nummer 5
@@ -726,6 +734,10 @@ und 3 folgende Aufgaben:
     Abgabenordnung;
 
 
+44a. die Durchführung des Bußgeldverfahrens in den Fällen des § 379 Absatz
+    2 Nummer 1e und 1f der Abgabenordnung;
+
+
 45. die Übermittlung von Daten im Rahmen des automatisierten
     Datenabrufverfahrens mit den Trägern der gesetzlichen
     Rentenversicherung in den in § 151b Absatz 2 Satz 2 und § 151c Absatz
@@ -747,7 +759,54 @@ und 3 folgende Aufgaben:
     steuerrechtliche Maßnahmen bei Erhöhung des Nennkapitals aus
     Gesellschaftsmitteln, wenn im Zeitpunkt der Antragstellung keine
     Finanzbehörde nach § 20 der Abgabenordnung für die Besteuerung der
-    ausländischen Gesellschaft nach dem Einkommen örtlich zuständig ist.
+    ausländischen Gesellschaft nach dem Einkommen örtlich zuständig ist;
+
+
+46b. die Koordinierung von und Mitwirkung an internationalen
+    Risikobewertungsverfahren im Sinne des § 89b der Abgabenordnung;
+
+
+47.
+    a)  die zentrale Sammlung sowohl der von den Finanzbehörden der Länder
+        nach § 60b der Abgabenordnung übermittelten Daten als auch der
+        Zuwendungsempfänger des Buchstaben b,
+
+
+    b)  für Körperschaften, juristische Personen des öffentlichen Rechts oder
+        öffentliche Dienststellen ohne Sitz im Geltungsbereich des
+        Grundgesetzes, die die Voraussetzungen des § 10b Absatz 1 Satz 2
+        Nummer 1 oder Nummer 3, Satz 3 bis 6 des Einkommensteuergesetzes
+        erfüllen und nachweislich Zuwendungen von Personen mit Wohnsitz,
+        Aufenthalt, Sitz oder Geschäftsleitung im Geltungsbereich dieses
+        Gesetzes erhalten haben, auf Antrag nach amtlich vorgeschriebenem
+        Datensatz durch Datenfernübertragung des Zuwendungsempfängers die
+        Aufnahme in das Zuwendungsempfängerregister für die Zwecke des § 50
+        Absatz 1 der Einkommensteuer-Durchführungsverordnung,
+
+
+    c)  der Abgleich der in den Verfassungsschutzberichten des Bundes und der
+        Länder als „extremistisch“ eingestuften Organisationen mit den im
+        Zuwendungsempfängerregister aufgeführten Körperschaften auf die
+        Voraussetzungen des § 51 Absatz 3 der Abgabenordnung und die
+        Mitteilung des Ergebnisses der Prüfung an die zuständige
+        Landesfinanzbehörde,
+
+
+    d)  die Bereitstellung für Zwecke des Sonderausgabenabzugs nach § 10b des
+        Einkommensteuergesetzes und der Steuerermäßigung des § 34g des
+        Einkommensteuergesetzes der in § 60b Absatz 2 der Abgabenordnung als
+        automatisiert abrufbare Merkmale der im Zuwendungsempfängerregister
+        geführten Körperschaften, Personenvereinigungen, Vermögensmassen,
+        juristischen Personen des öffentlichen Rechts oder öffentlichen
+        Dienststellen für die Finanzbehörden der Länder und für Dritte,
+
+
+    e)  die Erteilung von Auskünften aus der zentralen Sammlung nach Buchstabe
+        a im Wege einer elektronischen Abfrage durch die Finanzbehörden der
+        Länder und durch Dritte.
+
+
+
 
 
 
@@ -763,8 +822,8 @@ Datenschutzkontrolle zu speichern.
 wurden, ist hiervon auch die Durchführung von Vorfeldermittlungen nach
 § 208 Absatz 1 Satz 1 Nummer 3 der Abgabenordnung umfasst. Dies gilt
 nicht für Fälle des Absatzes 1 Satz 1 Nummer 1, 5, 5c bis 5f, 6, 7, 9,
-10, 13 bis 17, 19, 22 bis 24, 26, 28, 28a, 28b, 29a bis 34, 36, 38 und
-42 bis 46.
+10, 13 bis 17, 19, 22 bis 24, 26, 28, 28a, 28b, 29a bis 34, 36, 38, 42
+bis 46 und 46b.
 
 (2) Die vom Bundeszentralamt für Steuern auf Grund gesetzlicher
 Vorschriften gewährten Steuererstattungen und Steuervergütungen sowie

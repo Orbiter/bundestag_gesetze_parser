@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2000, 851
 
 Zuletzt geändert durch
-:   Art. 24 G v. 2.3.2023 I Nr. 56
+:   Art. 7 Abs. 5 G v. 11.4.2024 I Nr. 119
 
 Die Neufassung dieser Verordnung dient der Umsetzung der Richtlinie
 96/26/EG des Rates vom 29. April 1996 über den Zugang zum Beruf des
@@ -87,8 +87,7 @@ sind insbesondere
         Tätigkeit ergeben,
 
 
-    e)  § 1 des Pflichtversicherungsgesetzes vom 5. April 1965 (BGBl. I S.
-        213) in der jeweils geltenden Fassung,
+    e)  § 6 des Pflichtversicherungsgesetzes,
 
 
     f)  umweltschützende Vorschriften, dabei insbesondere des Bundes-
@@ -163,8 +162,7 @@ Verurteilung oder ein unanfechtbarer Bußgeldbescheid vorliegt
         Tätigkeit ergeben,
 
 
-    e)  § 1 des Pflichtversicherungsgesetzes vom 5. April 1965 (BGBl. I S.
-        213) in der jeweils geltenden Fassung,
+    e)  § 6 des Pflichtversicherungsgesetzes,
 
 
     f)  umweltschützende Vorschriften, insbesondere des Abfall- und
@@ -258,8 +256,8 @@ Eigenkapital hinzugerechnet werden:
 
 
 4.  die zu Gunsten des Unternehmens beliehenen Gegenstände des
-    Privatvermögens der Gesellschafter von Personengesellschaften in Höhe
-    der Beleihung.
+    Privatvermögens der Gesellschafter von rechtsfähigen
+    Personengesellschaften in Höhe der Beleihung.
 
 
 

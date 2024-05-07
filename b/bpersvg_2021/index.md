@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2021, 1614
 
+Zuletzt geändert durch
+:   Art. 8 G v. 20.12.2023 I Nr. 389
+
 Stand: Ersetzt G 2035-4 v. 15.3.1974 I 693 (BPersVG)
 Dieses Gesetzes dient der Umsetzung der Richtlinie 2002/14/EG des
 Europäischen Parlaments und des Rates vom 11. März 2002 zur Festlegung
@@ -2210,7 +2213,9 @@ fortzusetzen.
     andere Rechtsträger in der Rechtsform des Privatrechts,
 
 
-4.  Erhebung der Disziplinarklage gegen eine Beamtin oder einen Beamten,
+4.  Erlass einer Disziplinarverfügung gegen eine Beamtin oder einen
+    Beamten, mit der eine Zurückstufung oder Entfernung aus dem
+    Beamtenverhältnis ausgesprochen wird,
 
 
 5.  Entlassung einer Beamtin oder eines Beamten auf Probe oder auf
@@ -2224,7 +2229,7 @@ fortzusetzen.
 
 
 (2) Maßnahmen nach Absatz 1 Nummer 4 bis 6 gegenüber den in § 78
-Absatz 3 genannten Beschäftigten unterliegen nicht der Mitwirkung. Im
+Absatz 4 genannten Beschäftigten unterliegen nicht der Mitwirkung. Im
 Übrigen wird der Personalrat in den Fällen des Absatzes 1 Nummer 4 bis
 6 nur auf Antrag der oder des Beschäftigten beteiligt; die oder der
 Beschäftigte ist von der beabsichtigten Maßnahme rechtzeitig vorher in
@@ -2236,7 +2241,7 @@ bezeichneten Gründe stützen.
 ###### § 85 Ordentliche Kündigung
 
 (1) Der Personalrat wirkt bei der ordentlichen Kündigung durch den
-Arbeitgeber mit. § 78 Absatz 3 gilt entsprechend. Der Personalrat kann
+Arbeitgeber mit. § 78 Absatz 4 gilt entsprechend. Der Personalrat kann
 gegen die Kündigung Einwendungen erheben, wenn nach seiner Ansicht
 
 1.  bei der Auswahl der zu kündigenden Arbeitnehmerin oder des zu

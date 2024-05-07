@@ -19,10 +19,10 @@ Fundstelle
 :   BGBl I: 2007, 1816, 1864
 
 Neugefasst durch
-:   Bek. v. 3.9.2018 I 1358;
+:   Bek. v. 3.9.2018 I 1358, 1844
 
-Geändert durch
-:   Art. 3 V v. 19.6.2020 I 1480
+Zuletzt geändert durch
+:   Art. 2 V v. 11.4.2024 I Nr. 129
 
 [^F804041_01_BJNR186400007]:     Notifiziert gemäß der Richtlinie (EU) 2015/1535 des Europäischen
     Parlaments und des Rates vom 9. September 2015 über ein
@@ -335,7 +335,7 @@ Hygieneverordnung zur amtlichen Untersuchung angemeldet worden sind,
 sind folgende Untersuchungen durchzuführen:
 
 1.  die amtliche Schlachttieruntersuchung nach Artikel 11 Absatz 2 und 5
-    der Durchführungsverordnung (EU) 2019/627 oder
+    der Durchführungsverordnung (EU) 2019/627,
 
 
 2.  die amtliche Fleischuntersuchung nach Artikel 12 Absatz 2 und 3, auch
@@ -410,7 +410,7 @@ kennzeichnen.
 nach Artikel 45 oder Artikel 28 Absatz 6 der Durchführungsverordnung
 (EU) 2019/627 genussuntauglich erklärt wurde, ist mit einem
 Kennzeichen nach Form und Inhalt des Musters der Anlage 1 Nummer 4 in
-der in den Absätzen 1 bis 3 geregelten Weise zu kennzeichnen.
+der in den Absätzen 1 bis 2 geregelten Weise zu kennzeichnen.
 
 (5) (weggefallen)
 

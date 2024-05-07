@@ -16,10 +16,10 @@ Fundstelle
 :   BGBl I: 1966, 285
 
 Stand: Konstitutive Neufassung gem. Art. I V v. 31.3.1966, in Kraft getreten am 4.5.1966
-Stand: Ersetzt V v. 24.12.1954 I 510
 Zuletzt geändert durch
-:   Art. 2 V v. 2.12.2021 I 5049
+:   Art. 2 V v. 17.4.2024 I Nr. 130
 
+Stand: Ersetzt V v. 24.12.1954 I 510
 
 ## I. - Besondere Anspruchsvoraussetzungen
 
@@ -240,8 +240,7 @@ Körper oder Gesundheit verursacht hat, auszugehen.
 (3) Durchschnittseinkommen im Sinne dieser Bestimmung ist der
 durchschnittliche Gesamtbetrag der Einkünfte aus Land- und
 Forstwirtschaft, aus Gewerbebetrieb, aus selbständiger Arbeit und aus
-nichtselbständiger Arbeit (§ 2 Abs. 3 Ziff. 1 bis 4 des
-Einkommensteuergesetzes). Einkünfte aus Land- und Forstwirtschaft und
+nichtselbständiger Arbeit. Einkünfte aus Land- und Forstwirtschaft und
 aus Gewerbebetrieb bleiben insoweit außer Betracht, als sie nicht auf
 der eigenen Arbeitsleistung des Verfolgten beruhen. Bei der Ermittlung
 des Wertes der eigenen Arbeitsleistung ist zum Vergleich die Vergütung
@@ -458,12 +457,17 @@ berücksichtigt, als sie den Betrag
 
 *    *   ab 1. Januar 2019
 
-    *   von 670 Euro und
+    *   von 670 Euro,
 
 
 *    *   ab 1. September 2021
 
-    *   von 700 Euro
+    *   von 700 Euro und
+
+
+*    *   ab 1. Dezember 2023
+
+    *   von 780 Euro
 
 
 
@@ -628,12 +632,17 @@ sonstige unterhaltsberechtigte Person ein
 
 *    *   ab 1. Januar 2019 von mindestens
 
-    *   690 Euro und
+    *   690 Euro,
 
 
 *    *   ab 1. September 2021 von mindestens
 
-    *   720 Euro
+    *   720 Euro und
+
+
+*    *   ab 1. Dezember 2023 von mindestens
+
+    *   800 Euro
 
 
 
@@ -1750,10 +1759,14 @@ Beeinträchtigung der Erwerbsfähigkeit
         bis 31.8.2021
         Euro
 
-    *   ab 1.9.2021
+    *   vom 1.9.2021
+        bis 30.11.2023
         Euro
 
-    *
+    *   ab
+        1\.12.2023
+        Euro
+
     *
     *
     *
@@ -1764,7 +1777,8 @@ Beeinträchtigung der Erwerbsfähigkeit
 
     *   600
 
-    *
+    *   667
+
     *
     *
     *
@@ -1775,7 +1789,8 @@ Beeinträchtigung der Erwerbsfähigkeit
 
     *   744
 
-    *
+    *   828
+
     *
     *
     *
@@ -1786,7 +1801,8 @@ Beeinträchtigung der Erwerbsfähigkeit
 
     *   888
 
-    *
+    *   988
+
     *
     *
     *
@@ -1797,7 +1813,8 @@ Beeinträchtigung der Erwerbsfähigkeit
 
     *   1 036
 
-    *
+    *   1 153
+
     *
     *
     *
@@ -1808,7 +1825,8 @@ Beeinträchtigung der Erwerbsfähigkeit
 
     *   1 182
 
-    *
+    *   1 316
+
     *
     *
     *
@@ -1819,7 +1837,8 @@ Beeinträchtigung der Erwerbsfähigkeit
 
     *   1 474
 
-    *
+    *   1 641
+
     *
     *
     *
@@ -2107,7 +2126,8 @@ Der monatliche Mindestbetrag der Rente beträgt
 
 *    *   vom 1.8.2004
         bis
-        31\.5.2008 Euro
+        31\.5.2008
+        Euro
 
     *   vom 1.6.2008
         bis
@@ -2165,11 +2185,16 @@ Der monatliche Mindestbetrag der Rente beträgt
         31\.8.2021
         Euro
 
-    *   ab
+    *   vom
         1\.9.2021
+        bis
+        30\.11.2023
         Euro
 
-    *
+    *   ab
+        1\.12.2023
+        Euro
+
     *
     *
     *
@@ -2178,7 +2203,8 @@ Der monatliche Mindestbetrag der Rente beträgt
 
     *   1 377
 
-    *
+    *   1 533
+
     *
     *
     *
@@ -2995,7 +3021,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *
-    *   ab 1.9.2021
+    *   bis 30.11.2023
 
     *   27 456
 
@@ -3004,6 +3030,18 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   29 616
 
     *   30 732
+
+
+*    *
+    *   ab 1.12.2023
+
+    *   30 564
+
+    *   31 800
+
+    *   32 964
+
+    *   34 200
 
 
 *    *
@@ -3584,12 +3622,21 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
 
 *    *
-    *   ab 1.9.2021
+    *   bis 30.11.2023
 
     *   31 800
 
     *   32 880
 
+    *
+    *
+
+*    *
+    *   ab 1.12.2023
+
+    *   35 388
+
+    *
     *
     *
 
@@ -4264,7 +4311,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *
-    *   ab 1.9.2021
+    *   bis 30.11.2023
 
     *   28 680
 
@@ -4273,6 +4320,18 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   33 444
 
     *   35 832
+
+
+*    *
+    *   ab 1.12.2023
+
+    *   31 920
+
+    *   34 560
+
+    *   37 224
+
+    *   39 876
 
 
 *    *
@@ -4855,12 +4914,21 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
 
 *    *
-    *   ab 1.9.2021
+    *   bis 30.11.2023
 
     *   38 196
 
     *   40 560
 
+    *
+    *
+
+*    *
+    *   ab 1.12.2023
+
+    *   42 516
+
+    *
     *
     *
 
@@ -5536,7 +5604,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *
-    *   ab 1.9.2021
+    *   bis 30.11.2023
 
     *   34 608
 
@@ -5545,6 +5613,18 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   40 680
 
     *   43 680
+
+
+*    *
+    *   ab 1.12.2023
+
+    *   38 520
+
+    *   41 880
+
+    *   45 276
+
+    *   48 612
 
 
 *    *
@@ -6129,12 +6209,21 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
 
 *    *
-    *   ab 1.9.2021
+    *   bis 30.11.2023
 
     *   46 716
 
     *   49 764
 
+    *
+    *
+
+*    *
+    *   ab 1.12.2023
+
+    *   51 996
+
+    *
     *
     *
 
@@ -6799,7 +6888,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *
-    *   ab 1.9.2021
+    *   bis 30.11.2023
 
     *   44 940
 
@@ -6808,6 +6897,18 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   51 948
 
     *   55 476
+
+
+*    *
+    *   ab 1.12.2023
+
+    *   50 016
+
+    *   53 964
+
+    *   57 816
+
+    *   61 740
 
 
 *    *
@@ -7426,7 +7527,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
 
 *    *
-    *   ab 1.9.2021
+    *   bis 30.11.2023
 
     *   58 992
 
@@ -7434,6 +7535,15 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   66 024
 
+    *
+
+*    *
+    *   ab 1.12.2023
+
+    *   65 664
+
+    *
+    *
     *
 
 

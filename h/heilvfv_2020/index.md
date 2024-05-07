@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2020, 2349
 
-Geändert durch
-:   Art. 1 V v. 4.7.2023 I Nr. 179
+Zuletzt geändert durch
+:   Art. 4 V v. 6.3.2024 I Nr. 92
 
 Stand: Ersetzt V 2030-25-3 v. 25.4.1979 I 502 (HeilvfV)
 
@@ -203,7 +203,7 @@ Dienstunfall vorliegt oder ob Dienstunfallfolgen eingetreten sind.
 sind, gilt § 11 Absatz 1 und 2 der Bundesbeihilfeverordnung
 entsprechend. Für verletzte Personen, die ihren dienstlichen Wohnsitz
 im Ausland haben oder in das Ausland abgeordnet sind, gelten § 11
-Absatz 3, § 18a Absatz 4 Satz 2, § 23 Absatz 2 Satz 1, § 26a Absatz 6,
+Absatz 3, § 18a Absatz 4 Satz 2, § 23 Absatz 3 Satz 1, § 26a Absatz 6,
 § 29 Absatz 1 und 3, § 31 Absatz 6, § 32 Absatz 3, § 36 Absatz 3 sowie
 § 44 Absatz 2 der Bundesbeihilfeverordnung entsprechend.
 
@@ -332,7 +332,7 @@ gezahlt.
     ohne Abzug von Eigenbehalten entstanden wären,
 
 
-2.  die gesondert berechnete Unterkunft ohne Abzug von Eigenbehalten
+2.  die gesondert berechnete Unterkunft
 
     a)  bis zur Höhe der Aufwendungen für ein Zweibettzimmer der jeweiligen
         Abteilung oder
@@ -559,12 +559,10 @@ Operation oder einer ambulanten Krankenhausbehandlung (Absatz 1 Nummer
 (5) Der Dienstunfallfürsorgestelle ist eine fachärztliche
 Bescheinigung über die Notwendigkeit und den zeitlichen Umfang der
 Haushaltshilfe vorzulegen. Die Aufwendungen für eine Haushaltshilfe
-sind pro Stunde bis zur Höhe von 0,32 Prozent der sich aus § 18 Absatz
-1 des Vierten Buches Sozialgesetzbuch ergebenden monatlichen
-Bezugsgröße, aufgerundet auf volle Euro, erstattungsfähig.
-Aufwendungen für notwendige Fahrten der Haushaltshilfe werden in
-sinngemäßer Anwendung des § 12 Absatz 1 Satz 1 erstattet. § 3 Absatz 3
-gilt entsprechend.
+sind entsprechend § 28 Absatz 1 Satz 1 der Bundesbeihilfeverordnung
+erstattungsfähig. Aufwendungen für notwendige Fahrten der
+Haushaltshilfe werden in sinngemäßer Anwendung des § 12 Absatz 1 Satz
+1 erstattet. § 3 Absatz 3 gilt entsprechend.
 
 
 ### § 12 Fahrten
@@ -654,14 +652,13 @@ Absatzes 3 Satz 1 Nummer 3 sowie von Angehörigen im Fall des Absatzes
 
 Aufwendungen, die infolge eines dienstunfallbedingt erhöhten Kleider-
 und Wäscheverschleißes entstehen, werden von Amts wegen mit einem
-monatlichen Pauschbetrag in entsprechender Anwendung des § 15 des
-Bundesversorgungsgesetzes in Verbindung mit der Verordnung zur
-Durchführung des § 15 des Bundesversorgungsgesetzes erstattet. Die
-Entscheidung trifft die Dienstunfallfürsorgestelle auf Grund einer
-fachärztlichen Bescheinigung, die auch Aussagen zur Dauer des Zustands
-beinhaltet. Die in Sonderfällen den Pauschbetrag nachweislich
-übersteigenden Aufwendungen werden jeweils für das abgelaufene
-Kalenderjahr auf Antrag erstattet.
+monatlichen Pauschbetrag in entsprechender Anwendung des § 46 Absatz 2
+des Vierzehnten Buches Sozialgesetzbuch erstattet. Die Entscheidung
+trifft die Dienstunfallfürsorgestelle auf Grund einer fachärztlichen
+Bescheinigung, die auch Aussagen zur Dauer des Zustands beinhaltet.
+Die in Sonderfällen den Pauschbetrag nachweislich übersteigenden
+Aufwendungen werden jeweils für das abgelaufene Kalenderjahr auf
+Antrag erstattet.
 
 
 ### § 14 Kraftfahrzeughilfe

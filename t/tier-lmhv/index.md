@@ -17,10 +17,10 @@ Fundstelle
 :   BGBl I: 2007, 1816, 1828
 
 Neugefasst durch
-:   Bek. v. 18.4.2018 I 480 (619);
+:   Bek. v. 18.4.2018 I 480, 619, 1844
 
 Zuletzt geändert durch
-:   Art. 2 V v. 11.1.2021 I 47
+:   Art. 1 V v. 11.4.2024 I Nr. 129
 
 [^BJNR182800007_01]:     Diese Verordnung dient der Umsetzung der Richtlinie 96/23/EG des Rates
     vom 29. April 1996 über Kontrollmaßnahmen hinsichtlich bestimmter
@@ -204,17 +204,23 @@ Wildursprungsscheins elektronisch übermitteln.
 Tieren vor Abschluss einer nach § 2a Absatz 1 erforderlichen amtlichen
 Untersuchung für den menschlichen Verzehr im eigenen häuslichen
 Bereich zuzubereiten oder zu be- oder verarbeiten. Die zuständige
-Behörde kann die Zubereitung, Be- oder Verarbeitung von in Satz 1
-bezeichnetem Fleisch vor Abschluss der Untersuchung nach § 2a Absatz 1
-Nummer 3 genehmigen, sofern der zur Anmeldung der Untersuchung
-Verpflichtete sicherstellt, dass der Verzehr dieses Fleisches bis zur
-Bestätigung, dass Trichinen nicht nachgewiesen worden sind,
-ausgeschlossen ist.
+Behörde kann die Zubereitung, die Be- oder die Verarbeitung von in
+Satz 1 bezeichnetem Fleisch bereits vor Abschluss der Untersuchung
+nach § 2a Absatz 1 Nummer 3 genehmigen, sofern der zur Anmeldung der
+Untersuchung Verpflichtete sicherstellt, dass der Verzehr dieses
+Fleisches bis zur Bestätigung, dass keine Trichinen nachgewiesen
+worden sind, ausgeschlossen ist.
 
 (2) Es ist verboten, nach § 2b Absatz 1 erlegtes Wild vor Abschluss
 einer nach § 2b Absatz 1 erforderlichen amtlichen Untersuchung für den
 menschlichen Verzehr im eigenen häuslichen Bereich zuzubereiten oder
-zu be- oder verarbeiten.
+zu be- oder verarbeiten. Die zuständige Behörde kann die Zubereitung,
+die Be- oder die Verarbeitung von in Satz 1 bezeichnetem Fleisch von
+erlegtem Wild bereits vor Abschluss der Untersuchung nach § 2b Absatz
+1 Nummer 2 genehmigen, sofern der zur Anmeldung der Untersuchung
+Verpflichtete sicherstellt, dass der Verzehr dieses Fleisches bis zur
+Bestätigung, dass keine Trichinen nachgewiesen worden sind,
+ausgeschlossen ist.
 
 
 ## Abschnitt 2 - Abgabe kleiner Mengen von Primärerzeugnissen und anderen Lebensmitteln tierischen Ursprungs
@@ -641,27 +647,11 @@ zuständigen Behörde auszudrucken.
 
 ### § 12 Schlachtungen außerhalb eines Schlachthofes
 
-(1) Tierkörper von als Haustiere gehaltenen Huftieren, die nach Anhang
-III Abschnitt I Kapitel VI der Verordnung (EG) Nr. 853/2004 außerhalb
+Tierkörper von als Haustiere gehaltenen Huftieren, die nach Anhang III
+Abschnitt I Kapitel VI der Verordnung (EG) Nr. 853/2004 außerhalb
 eines Schlachthofes notgeschlachtet worden sind, dürfen nur zu einem
 Schlachthof befördert werden, wenn ihnen ein Begleitschein nach Form
 und Inhalt des Musters der Anlage 8 beigefügt ist.
-
-(2) Einzelne Huftiere der Gattung Rind, die ganzjährig im Freiland
-gehalten werden, dürfen mit Genehmigung der zuständigen Behörde im
-Haltungsbetrieb geschlachtet oder zur Gewinnung von Fleisch für den
-menschlichen Verzehr getötet werden, wenn die Anforderungen nach
-Anhang III Abschnitt III Nummer 3 Buchstabe a bis j der Verordnung
-(EG) Nr. 853/2004 eingehalten werden. Fleisch von nach Satz 1
-geschlachteten oder getöteten Tieren darf abweichend von Anhang III
-Abschnitt I Kapitel IV Nummer 2 Buchstabe a der Verordnung (EG) Nr.
-853/2004 für den menschlichen Verzehr verwendet werden. Nach Satz 1
-geschlachtete oder getötete Tiere dürfen abweichend von Anhang III
-Abschnitt I Kapitel IV Nummer 2 Buchstabe b der Verordnung (EG) Nr.
-853/2004 in einen Schlachthof verbracht werden. Die Beförderung der
-geschlachteten oder getöteten Tiere in den Schlachthof darf abweichend
-von Anhang III Abschnitt III Nummer 3 Buchstabe h der Verordnung (EG)
-Nr. 853/2004 nicht länger als eine Stunde dauern.
 
 
 ### § 13 Abgabe von Wild an Wildbearbeitungsbetriebe
@@ -669,22 +659,9 @@ Nr. 853/2004 nicht länger als eine Stunde dauern.
 Wer als Jäger Wildkörper an einen Wildbearbeitungsbetrieb abgibt, hat
 auf Anweisung der zuständigen Behörde abweichend von Anhang III
 Abschnitt IV Kapitel II Nummer 4 Buchstabe a Satz 3 der Verordnung
-(EG) Nr. 853/2004 den Kopf oder die Eingeweide beizufügen, soweit dies
-zur Untersuchung auf
-
-1.  in Anhang I Gruppe B Nummer 3 der Richtlinie 96/23/EG des Rates vom
-    29\. April 1996 über Kontrollmaßnahmen hinsichtlich bestimmter Stoffe
-    und ihrer Rückstände in lebenden Tieren und tierischen Erzeugnissen
-    und zur Aufhebung der Richtlinien 85/358/EWG und 86/469/EWG und der
-    Entscheidungen 89/187/EWG und 91/664/EWG (ABl. EG Nr. L 125 S. 10) in
-    der jeweils geltenden Fassung genannte Stoffe oder
-
-
-2.  Krankheitserreger insbesondere zur Überwachung von Zoonosen und
-    Zoonoseerregern
-
-
-
+(EG) Nr. 853/2004 jedem Wildkörper den Kopf oder die Eingeweide
+beizufügen, sofern dies zur Untersuchung auf Krankheitserreger,
+insbesondere zur Überwachung von Zoonosen und Zoonoseerregern,
 erforderlich ist.
 
 
@@ -1111,7 +1088,7 @@ in den Verkehr zu bringen.
 (2) Es ist verboten, mit Wasserbindern behandeltes Geflügelfleisch als
 frisches Fleisch in den Verkehr zu bringen.
 
-(3) Es ist verboten, Eier nach Ablauf des 21. Tages nach dem Legen an
+(3) Es ist verboten, Eier nach Ablauf des 28. Tages nach dem Legen an
 Verbraucher abzugeben.
 
 
@@ -1167,7 +1144,7 @@ fahrlässig
 (2) Nach § 59 Absatz 1 Nummer 21 Buchstabe a des Lebensmittel- und
 Futtermittelgesetzbuches wird bestraft, wer
 
-1.  entgegen § 4 Absatz 3 Satz 3 einen Tierkörper oder Fleisch in den
+1.  entgegen § 4 Absatz 3 Satz 4 einen Tierkörper oder Fleisch in den
     Verkehr bringt,
 
 
@@ -1206,11 +1183,10 @@ Futtermittelgesetzbuches ordnungswidrig.
 des Lebensmittel- und Futtermittelgesetzbuches handelt, wer
 vorsätzlich oder fahrlässig
 
-1.  entgegen § 2b Absatz 1 Nummer 2 oder Absatz 2 Satz 1 das Wild nicht,
-    nicht richtig oder nicht rechtzeitig anmeldet,
+1.  (weggefallen)
 
 
-2.  entgegen § 2c Absatz 1 Satz 1 oder Absatz 2 Fleisch oder Wild
+2.  entgegen § 2c Absatz 1 Satz 1 oder Absatz 2 Satz 1 Fleisch oder Wild
     zubereitet oder be- oder verarbeitet,
 
 
@@ -4701,17 +4677,18 @@ II. Standarderklärung
 
 [^f802437_13_BJNR182800007BJNE003102124]:     Angabe der Tierart.               \*\* Zutreffendes ankreuzen.
 
-(zu § 12 Absatz 1)
+(zu § 12)
 
 ### Anlage 8 Muster
 
-(Fundstelle: BGBl. I 2018, 517 - 518)
+(Fundstelle: BGBl. I 2018, 517 - 518
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Begleitschein
 zu einer außerhalb eines Schlachthofes erfolgten Notschlachtung eines
 frisch
-## **verletzten Tieres nach Anhang III Abschnitt I Kapitel VI der
-Verordnung (EG) Nr. 853/2004**
+## **verletzten Tieres nach Anhang III Abschnitt I Kapitel VI Nummer 5
+der Verordnung (EG) Nr. 853/2004**
 
 
 1.  **Angaben zum Tier:**
@@ -4730,7 +4707,7 @@ Verordnung (EG) Nr. 853/2004**
             .....
 
 
-    *        *[^f802437_31_BJNR182800007BJNE003201124]
+    *        *[^f802437_31_BJNR182800007BJNE003202128]
    Ohrmarken-, Chip- oder Equidenpass-Nr. oder Tätowierung
             .....
 
@@ -4783,131 +4760,13 @@ Verordnung (EG) Nr. 853/2004**
 
 
 
-3.  **Der unterzeichnende Tierarzt erklärt**                   , dass das
-    unter Nummer 1 beschriebene transportunfähige Tier
-
-    –
-        *            *   am
-
-            *   .....
-
-            *   um
-
-            *   .....
-
-            *   im Erzeugerbetrieb
-
-
-        *            *
-            *   (Datum)
-
-            *
-            *   (Uhrzeit)
-
-            *
-
-        *            *   ......
-
-
-        *            *   (Name und Adresse des Erzeugerbetriebs)
-
-
-        *            *   von ihm untersucht und, abgesehen von kurz vor der Schlachtung
-                aufgrund eines Unfalls entstandenen Verletzungen, für gesund befunden
-                worden ist;
-
-
-
-
-
-    –
-        *            *   am
-
-            *   .....
-
-            *   um
-
-            *   .....
-
-            *   in dem vorgenannten Betrieb geschlachtet worden ist.
-
-
-        *            *
-            *   (Datum)
-
-            *
-            *   (Uhrzeit)
-
-            *
-
-
-
-
-
-
-   **Ergebnis der Schlachttieruntersuchung**
-
-    *        *   Körpertemperatur:
-            ..... °C
-
-        *   Herzschlagfrequenz:
-            .....
-
-        *   Atemfrequenz:
-            .....
-
-
-    *        *   Sonstige Befunde:
-
-
-    *        *   .....
-
-
-    *        *   .....
-
-
-    *        *   **Grund der Notschlachtung (Diagnose/Verdachtsdiagnose**
-            **)**
-
-
-    *        *   .....
-
-
-    *        *   .....
-
-
-    *        *   Es wurde eine Behandlung durch den unterzeichnenden Tierarzt
-            durchgeführt: **Ja/Nein**
-
-
-    *        *   Wenn ja, durchgeführte Behandlung:
-
-
-    *        *   .....
-
-
-    *        *   .....
-
-
-
-
-
-    *        *   .....
-
-
-    *        *   (Ort, Datum)
-
-        *   (Name und Unterschrift des Tierarztes)
-
-
-
-    *_\_\__\_\__\_\__*
+3.  (weggefallen)
 
 
 
 
     Nicht Zutreffendes streichen.
-[^f802437_31_BJNR182800007BJNE003201124]: 
+[^f802437_31_BJNR182800007BJNE003202128]: 
 (zu § 2b Absatz 2, § 4 Absatz 3 und § 4a)
 
 ### Anlage 8a Wildursprungsschein für Untersuchung auf Trichinen im Falle der Trichinenprobenahme durch den Jäger (§ 6 Absatz 2 der Tierische Lebensmittel-Überwachungsverordnung)

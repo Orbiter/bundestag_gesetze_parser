@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1994, 1837
 
 Zuletzt geändert durch
-:   Art. 5 V v. 13.1.2012 I 103
+:   Art. 5 G v. 11.4.2024 I Nr. 119
 
 
 ## Eingangsformel
@@ -32,12 +32,12 @@ der Finanzen und dem Bundesministerium für Verkehr:
 
 (1) Die Kraftfahrzeug-Haftpflichtversicherung hat Versicherungsschutz
 in Europa sowie in den außereuropäischen Gebieten, die zum
-Geltungsbereich des Vertrages über die Europäische
-Wirtschaftsgemeinschaft gehören, in der Höhe zu gewähren, die in dem
-jeweiligen Land gesetzlich vorgeschrieben ist, mindestens jedoch in
-der in Deutschland vorgeschriebenen Höhe. Wird eine Erweiterung des
-räumlichen Geltungsbereichs des Versicherungsschutzes vereinbart, gilt
-Satz 1 entsprechend.
+Geltungsbereich des Vertrages über die Europäischen Union gehören,
+nach den dort jeweils geltenden Vorschriften über die
+Pflichtversicherung zu gewähren, mindestens jedoch in dem in der
+Bundesrepublik Deutschland vorgeschriebenen Umfang. Wird eine
+Erweiterung des räumlichen Geltungsbereichs des Versicherungsschutzes
+vereinbart, gilt Satz 1 entsprechend.
 
 (2) Beginn und Ende des Versicherungsschutzes bestimmen sich nach den
 §§ 187 und 188 des Bürgerlichen Gesetzbuchs.
@@ -45,7 +45,7 @@ Satz 1 entsprechend.
 
 ## § 2
 
-(1) Die Versicherung hat die Befriedigung begründeter und die Abwehr
+Die Versicherung hat die Befriedigung begründeter und die Abwehr
 unbegründeter Schadensersatzansprüche zu umfassen, die auf Grund
 gesetzlicher Haftpflichtbestimmungen privatrechtlichen Inhalts gegen
 den Versicherungsnehmer oder mitversicherte Personen erhoben werden,
@@ -64,37 +64,6 @@ wenn durch den Gebrauch des versicherten Fahrzeugs
 
 
 
-
-(2) Mitversicherte Personen sind
-
-1.  der Halter,
-
-
-2.  der Eigentümer,
-
-
-3.  der Fahrer,
-
-
-4.  Beifahrer, das heißt Personen, die im Rahmen ihres
-    Arbeitsverhältnisses zum Versicherungsnehmer oder Halter den
-    berechtigten Fahrer zu seiner Ablösung oder zur Vornahme von Lade- und
-    Hilfsarbeiten nicht nur gelegentlich begleiten,
-
-
-5.  Omnibusschaffner, soweit sie im Rahmen ihres Arbeitsverhältnisses zum
-    Versicherungsnehmer oder Halter tätig werden,
-
-
-6.  Arbeitgeber oder öffentlicher Dienstherr des Versicherungsnehmers,
-    wenn das versicherte Fahrzeug mit Zustimmung des Versicherungsnehmers
-    für dienstliche Zwecke gebraucht wird.
-
-
-
-
-(3) Mitversicherten Personen ist das Recht auf selbständige
-Geltendmachung ihrer Ansprüche einzuräumen.
 
 
 ## § 3
@@ -132,10 +101,19 @@ Von der Versicherung kann die Haftung nur ausgeschlossen werden
     mit sich führen;
 
 
-4.  für Ersatzansprüche aus der Verwendung des Fahrzeugs bei behördlich
-    genehmigten kraftfahrt-sportlichen Veranstaltungen, bei denen es auf
-    die Erzielung einer Höchstgeschwindigkeit ankommt oder den
-    dazugehörigen Übungsfahrten;
+4.  für Ersatzansprüche aus dem Gebrauch des Fahrzeugs bei einer
+    Motorsportveranstaltung oder Motorsportaktivität, einschließlich
+    Rennen, Wettbewerben, Trainings, Tests und Demonstrationen, wenn
+
+    a)  das Fahrzeug in einem hierfür abgegrenzten Gebiet mit
+        Zugangsbeschränkungen gebraucht wird und
+
+
+    b)  für diesen Gebrauch des Fahrzeugs Versicherungsschutz nach Maßgabe des
+        § 5d des Pflichtversicherungsgesetzes besteht;
+
+
+
 
 
 5.  für Ersatzansprüche wegen Vermögensschäden durch die Nichteinhaltung
@@ -160,6 +138,22 @@ vereinbart werden die Verpflichtung,
 2.  das Fahrzeug nicht zu behördlich nicht genehmigten Fahrveranstaltungen
     zu verwenden, bei denen es auf die Erzielung einer
     Höchstgeschwindigkeit ankommt;
+
+
+2a. das Fahrzeug nur dann bei einer Motorsportveranstaltung oder
+    Motorsportaktivität, einschließlich Rennen, Wettbewerben, Trainings,
+    Tests und Demonstrationen, zu gebrauchen oder gebrauchen zu lassen,
+    wenn
+
+    a)  das Fahrzeug in einem hierfür abgegrenzten Gebiet mit
+        Zugangsbeschränkungen gebraucht wird und
+
+
+    b)  für diesen Gebrauch des Fahrzeugs Versicherungsschutz nach Maßgabe des
+        § 5d des Pflichtversicherungsgesetzes besteht;
+
+
+
 
 
 3.  das Fahrzeug nicht unberechtigt zu gebrauchen oder wissentlich
