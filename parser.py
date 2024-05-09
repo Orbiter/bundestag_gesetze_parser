@@ -2,6 +2,8 @@ import os
 import json
 import re
 
+file_count = 4
+
 def get_headline_level(line):
     """ Return the headline level based on the number of '#' characters """
     return line.count('#')
@@ -96,15 +98,15 @@ def find_and_parse_index_md(start_path):
 
     # Calculate the number of chunks per file
     total_chunks = len(all_chunks)
-    chunks_per_file = total_chunks // 3
+    chunks_per_file = total_chunks // file_count
 
-    # Write the JSON lines to three separate files
-    for i in range(3):
+    # Write the JSON lines to separate files
+    for i in range(file_count):
         start_index = i * chunks_per_file
-        end_index = (i + 1) * chunks_per_file if i < 2 else total_chunks
+        end_index = (i + 1) * chunks_per_file if i < (file_count - 1) else total_chunks
         file_chunks = all_chunks[start_index:end_index]
 
-        file_name = f'bundestag_gesetze_part{i + 1}.jsonl'
+        file_name = f'bundestag_gesetze_index_bulk_{i + 1}_of_{file_count}.jsonl'
         with open(file_name, 'w', encoding='utf-8') as json_file:
             for chunk in file_chunks:
                 # Write the prefix line
