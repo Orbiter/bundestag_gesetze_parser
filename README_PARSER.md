@@ -33,9 +33,10 @@ python3 parser.py
 
 The resulting files...
 ```
-bundestag_gesetze_part1.jsonl
-bundestag_gesetze_part2.jsonl
-bundestag_gesetze_part3.jsonl
+bundestag_gesetze_index_bulk_1_of_4.jsonl
+bundestag_gesetze_index_bulk_2_of_4.jsonl
+bundestag_gesetze_index_bulk_3_of_4.jsonl
+bundestag_gesetze_index_bulk_4_of_4.jsonl
 ```
 are in elasticsearch index format, a json list format with indexing directions.
 The result is splitted into separate files because the bulk upload process accepts only files less than 100MB in size.
@@ -72,9 +73,10 @@ curl -X PUT localhost:9200/bundestag_gesetze
 
 Finally we can bulk-upload the jsonlist files:
 ```
-curl -XPOST "http://localhost:9200/bundestag_gesetze/_bulk?filter_path=took,errors" -H "Content-Type: application/x-ndjson" --data-binary @bundestag_gesetze_part1.jsonl
-curl -XPOST "http://localhost:9200/bundestag_gesetze/_bulk?filter_path=took,errors" -H "Content-Type: application/x-ndjson" --data-binary @bundestag_gesetze_part2.jsonl
-curl -XPOST "http://localhost:9200/bundestag_gesetze/_bulk?filter_path=took,errors" -H "Content-Type: application/x-ndjson" --data-binary @bundestag_gesetze_part3.jsonl
+curl -XPOST "http://localhost:9200/bundestag_gesetze/_bulk?filter_path=took,errors" -H "Content-Type: application/x-ndjson" --data-binary @bundestag_gesetze_index_bulk_1_of_4.jsonl
+curl -XPOST "http://localhost:9200/bundestag_gesetze/_bulk?filter_path=took,errors" -H "Content-Type: application/x-ndjson" --data-binary @bundestag_gesetze_index_bulk_2_of_4.jsonl
+curl -XPOST "http://localhost:9200/bundestag_gesetze/_bulk?filter_path=took,errors" -H "Content-Type: application/x-ndjson" --data-binary @bundestag_gesetze_index_bulk_3_of_4.jsonl
+curl -XPOST "http://localhost:9200/bundestag_gesetze/_bulk?filter_path=took,errors" -H "Content-Type: application/x-ndjson" --data-binary @bundestag_gesetze_index_bulk_4_of_4.jsonl
 ```
 
 To check if the upload was successfull, read the index size:
@@ -121,9 +123,10 @@ python3 faiss_indexing.py
 
 The following faiss files will be generated here as result:
 ```
-bundestag_gesetze_part1.jsonl.faiss
-bundestag_gesetze_part2.jsonl.faiss
-bundestag_gesetze_part3.jsonl.faiss
+bundestag_gesetze_index_bulk_1_of_4.jsonl.faiss
+bundestag_gesetze_index_bulk_2_of_4.jsonl.faiss
+bundestag_gesetze_index_bulk_3_of_4.jsonl.faiss
+bundestag_gesetze_index_bulk_4_of_4.jsonl.faiss
 ```
 
 ### FAISS Search Server
