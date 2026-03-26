@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1997, 594, 595
 
 Zuletzt geändert durch
-:   Art. 5 G v. 22.12.2023 I Nr. 412
+:   Art. 6 G v. 22.12.2025 I Nr. 371
 
 
 ## Erstes Kapitel - Allgemeine Vorschriften
@@ -626,9 +626,7 @@ erbracht:
     Dritten Abschnitts und Leistungen nach den §§ 48a und 54a,
 
 
-4.  Leistungen zur beruflichen Weiterbildung nach dem Vierten Abschnitt,
-    mit Ausnahme von Leistungen nach § 82 Absatz 5 und § 82a, und
-    Leistungen nach den §§ 131a und 131b,
+4.  (weggefallen)
 
 
 5.  Leistungen zur Aufnahme einer sozialversicherungspflichtigen
@@ -636,25 +634,7 @@ erbracht:
 
 
 6.  Leistungen zur Teilhabe von Menschen mit Behinderungen am Arbeitsleben
-    nach
-
-    a)  den §§ 112 bis 114, 115 Nummer 1 bis 3 mit Ausnahme
-        berufsvorbereitender Bildungsmaßnahmen und der
-        Berufsausbildungsbeihilfe sowie § 116 Absatz 1, 2 und 6,
-
-
-    b)  § 117 Absatz 1 und § 118 Nummer 1 und 3 für die besonderen Leistungen
-        zur Förderung der beruflichen Weiterbildung,
-
-
-    c)  den §§ 119 bis 121,
-
-
-    d)  den §§ 127 und 128 für die besonderen Leistungen zur Förderung der
-        beruflichen Weiterbildung.
-
-
-
+    nach den §§ 119 bis 121.
 
 
 
@@ -804,8 +784,9 @@ haben.
 (2) Versicherungspflichtig sind Personen in der Zeit, für die sie
 
 1.  von einem Leistungsträger Mutterschaftsgeld, Krankengeld, Krankengeld
-    der Sozialen Entschädigung, Verletztengeld oder von einem Träger der
-    medizinischen Rehabilitation Übergangsgeld beziehen,
+    der Sozialen Entschädigung, Krankengeld der Soldatenentschädigung,
+    Verletztengeld oder von einem Träger der medizinischen Rehabilitation
+    Übergangsgeld beziehen,
 
 
 2.  von einem privaten Krankenversicherungsunternehmen Krankentagegeld
@@ -1550,9 +1531,7 @@ von drei Tagen nach Kenntnis des Beendigungszeitpunktes zu melden. Die
 Pflicht zur Meldung besteht unabhängig davon, ob der Fortbestand des
 Ausbildungs- oder Arbeitsverhältnisses gerichtlich geltend gemacht
 oder vom Arbeitgeber in Aussicht gestellt wird. Die Pflicht zur
-Meldung gilt nicht bei einem betrieblichen Ausbildungsverhältnis. Im
-Übrigen gelten für Ausbildung- und Arbeitsuchende die Meldepflichten
-im Leistungsverfahren nach den §§ 309 und 310 entsprechend.
+Meldung gilt nicht bei einem betrieblichen Ausbildungsverhältnis.
 
 (1a) Die zuständige Agentur für Arbeit soll mit der nach Absatz 1
 arbeitsuchend gemeldeten Person unverzüglich nach der
@@ -1659,8 +1638,10 @@ dem Asylgesetz besitzen und auf Grund des § 61 des Asylgesetzes keine
 Erwerbstätigkeit ausüben dürfen, können Leistungen nach diesem
 Unterabschnitt erbracht werden, wenn bei ihnen ein rechtmäßiger und
 dauerhafter Aufenthalt zu erwarten ist. Stammen sie aus einem sicheren
-Herkunftsstaat nach § 29a des Asylgesetzes, so wird vermutet, dass ein
-rechtmäßiger und dauerhafter Aufenthalt nicht zu erwarten ist.
+Herkunftsstaat nach § 29a des Asylgesetzes oder einer auf Grundlage
+von § 29b des Asylgesetzes erlassenen Rechtsverordnung, so wird
+vermutet, dass ein rechtmäßiger und dauerhafter Aufenthalt nicht zu
+erwarten ist.
 
 
 #### Dritter Unterabschnitt - Gemeinsame Vorschriften
@@ -2219,7 +2200,7 @@ Maßnahmekosten erstattet:
 durchführen, können durch Zuschüsse in Höhe der von ihnen mit der oder
 dem Auszubildenden vereinbarten Vergütung zuzüglich des pauschalierten
 Anteils am durchschnittlichen Gesamtsozialversicherungsbeitrag
-gefördert werden. Der Zuschuss zur Vergütung ist auf 262 Euro
+gefördert werden. Der Zuschuss zur Vergütung ist auf 276 Euro
 monatlich begrenzt. Die betriebliche Einstiegsqualifizierung dient der
 Vermittlung und Vertiefung von Grundlagen für den Erwerb beruflicher
 Handlungsfähigkeit. Soweit die betriebliche Einstiegsqualifizierung
@@ -2449,7 +2430,7 @@ begleiteten Wohnform im Sinne des Achten Buches untergebracht, werden
 abweichend von Absatz 1 als Bedarf für den Lebensunterhalt die im
 Rahmen der §§ 78a bis 78g des Achten Buches vereinbarten Entgelte für
 Verpflegung und Unterbringung ohne sozialpädagogische Begleitung
-zuzüglich 109 Euro monatlich für sonstige Bedürfnisse zugrunde gelegt.
+zuzüglich 115 Euro monatlich für sonstige Bedürfnisse zugrunde gelegt.
 Als Bedarf für den Lebensunterhalt von Auszubildenden unter 27 Jahren
 werden zusätzlich die Entgelte für die sozialpädagogische Begleitung
 zugrunde gelegt, soweit diese nicht von Dritten erstattet werden. Ist
@@ -2475,7 +2456,7 @@ Lebensunterhalt der jeweils geltende Bedarf nach § 12 Absatz 2 Nummer
 Wohnheim oder einem Internat untergebracht, werden abweichend von
 Absatz 2 als Bedarf für den Lebensunterhalt die im Rahmen der §§ 78a
 bis 78g des Achten Buches vereinbarten Entgelte für Verpflegung und
-Unterbringung ohne sozialpädagogische Begleitung zuzüglich 109 Euro
+Unterbringung ohne sozialpädagogische Begleitung zuzüglich 115 Euro
 monatlich für sonstige Bedürfnisse zugrunde gelegt. Als Bedarf für den
 Lebensunterhalt von Auszubildenden unter 18 Jahren werden zusätzlich
 die Entgelte für die sozialpädagogische Begleitung zugrunde gelegt,
@@ -2533,7 +2514,7 @@ gelegt, der nach § 86 insgesamt erbracht werden kann.
 
 (1) Bei einer Berufsausbildung wird als Bedarf für sonstige
 Aufwendungen eine Pauschale für Kosten der Arbeitskleidung in Höhe von
-15 Euro monatlich zugrunde gelegt.
+16 Euro monatlich zugrunde gelegt.
 
 (2) Bei einer berufsvorbereitenden Bildungsmaßnahme werden als Bedarf
 für sonstige Aufwendungen bei Auszubildenden, deren Schutz im
@@ -2616,9 +2597,9 @@ Rechtsverordnungen entsprechend. Abweichend von
     Entscheidung sind zu berücksichtigen;
 
 
-3.  § 23 Absatz 3 des Bundesausbildungsförderungsgesetzes bleiben 80 Euro
+3.  § 23 Absatz 3 des Bundesausbildungsförderungsgesetzes bleiben 85 Euro
     der Ausbildungsvergütung und abweichend von § 25 Absatz 1 des
-    Bundesausbildungsförderungsgesetzes zusätzlich 856 Euro
+    Bundesausbildungsförderungsgesetzes zusätzlich 901 Euro
     anrechnungsfrei, wenn die Ausbildungsstätte von der Wohnung der Eltern
     oder eines Elternteils aus nicht in angemessener Zeit erreicht werden
     kann;
@@ -2662,7 +2643,11 @@ auch unter Berücksichtigung des Einkommens der Ehefrau oder des
 Ehemanns oder der Lebenspartnerin oder des Lebenspartners im
 Bewilligungszeitraum, gefährdet, so wird nach Anhörung der Eltern ohne
 Anrechnung dieses Betrags Berufsausbildungsbeihilfe geleistet. Von der
-Anhörung der Eltern kann aus wichtigem Grund abgesehen werden.
+Anhörung der Eltern kann aus wichtigem Grund abgesehen werden. Eine
+Anrechnung des weitergeleiteten oder direkt ausgezahlten Kindergeldes
+auf den vorausgeleisteten Betrag sowie eine Anrechnung
+überobligatorischer Leistungen eines Elternteils auf den angerechneten
+Unterhaltsbetrag des anderen Elternteils findet nicht statt.
 
 (2) Ein Anspruch der oder des Auszubildenden auf Unterhaltsleistungen
 gegen ihre oder seine Eltern geht bis zur Höhe des anzurechnenden
@@ -3016,11 +3001,11 @@ Sinne von § 75 Absatz 7 unterstützt werden.
 
 ##### § 76 Außerbetriebliche Berufsausbildung
 
-(1) Die Agentur für Arbeit kann förderungsberechtigte junge Menschen
-durch eine nach § 57 Absatz 1 förderungsfähige Berufsausbildung in
-einer außerbetrieblichen Einrichtung (außerbetriebliche
-Berufsausbildung) fördern. Der Anteil betrieblicher Ausbildungsphasen
-je Ausbildungsjahr muss angemessen sein.
+(1) Die Agentur für Arbeit fördert förderungsberechtigte junge
+Menschen durch eine nach § 57 Absatz 1 förderungsfähige
+Berufsausbildung in einer außerbetrieblichen Einrichtung
+(außerbetriebliche Berufsausbildung). Der Anteil betrieblicher
+Ausbildungsphasen je Ausbildungsjahr muss angemessen sein.
 
 (2) Während der Durchführung einer außerbetrieblichen Berufsausbildung
 sind alle Möglichkeiten wahrzunehmen, um den Übergang der oder des
@@ -3028,13 +3013,20 @@ Auszubildenden in ein betriebliches Berufsausbildungsverhältnis zu
 unterstützen. Die Agentur für Arbeit zahlt dem Träger, der die
 außerbetriebliche Berufsausbildung durchführt, für jede vorzeitige und
 nachhaltige Vermittlung aus einer außerbetrieblichen Berufsausbildung
-in eine betriebliche Berufsausbildung eine Pauschale in Höhe von 2 000
+in eine betriebliche Berufsausbildung eine Pauschale in Höhe von 3 000
 Euro. Die Vermittlung gilt als vorzeitig, wenn die oder der
 Auszubildende spätestens zwölf Monate vor dem vertraglichen Ende der
 außerbetrieblichen Berufsausbildung vermittelt worden ist. Die
 Vermittlung gilt als nachhaltig, wenn das Berufsausbildungsverhältnis
 länger als vier Monate fortbesteht. Die Pauschale wird für jede
-Auszubildende und jeden Auszubildenden nur einmal gezahlt.
+Auszubildende und jeden Auszubildenden nur einmal gezahlt. Zur
+Sicherstellung des erfolgreichen Abschlusses der betrieblichen
+Berufsausbildung kann eine Förderung des jungen Menschen auch nach
+Übergang in ein betriebliches Berufsausbildungsverhältnis erfolgen.
+Die Agentur für Arbeit legt die erforderlichen Unterstützungselemente
+in Abstimmung mit dem Träger der Maßnahme im Einzelfall fest. Diese
+Förderung endet spätestens mit dem Abschluss der betrieblichen
+Berufsausbildung.
 
 (2a) Die Gestaltung des Lehrplans, die Unterrichtsmethode und die Güte
 der zum Einsatz vorgesehenen Lehr- und Lernmittel müssen eine
@@ -3067,6 +3059,14 @@ erfolgreich absolvierte Teile der Berufsausbildung auszustellen.
 
 
 
+Förderungsberechtigt sind auch junge Menschen, die hinreichende
+Bewerbungsbemühungen nachgewiesen sowie Angebote der Berufsberatung
+wahrgenommen haben und bei denen ungeachtet der Vermittlungsbemühungen
+der Agentur für Arbeit die Aufnahme einer betrieblichen
+Berufsausbildung auch mit ausbildungsfördernden Leistungen nach diesem
+Buch nicht zu erwarten ist, wenn sie in einer Region wohnen, in der
+die Agenturen für Arbeit unter Einbindung der Sozialpartner eine
+erhebliche Unterversorgung an Ausbildungsplätzen festgestellt haben.
 
 (6) Nicht förderungsberechtigt sind
 
@@ -3434,14 +3434,11 @@ der Zahl der Beschäftigten sind zu berücksichtigen,
 
 
 
-(7) Bei der Ausübung des Ermessens hat die Agentur für Arbeit die
-unterschiedlichen Betriebsgrößen angemessen zu berücksichtigen.
-
-(8) Die Förderung von Arbeitnehmerinnen und Arbeitnehmern in
+(7) Die Förderung von Arbeitnehmerinnen und Arbeitnehmern in
 Maßnahmen, die während des Bezugs von Kurzarbeitergeld beginnen, ist
 bis zum 31. Juli 2024 ausgeschlossen.
 
-(9) Behinderungsbedingt erforderliche Mehraufwendungen, die im
+(8) Behinderungsbedingt erforderliche Mehraufwendungen, die im
 Zusammenhang mit der Teilnahme an einer nach Absatz 1 geförderten
 Maßnahme entstehen, werden übernommen.
 
@@ -3793,6 +3790,14 @@ Ausbildungsdauer von mindestens zwei Jahren festgelegt ist:
 (2) Arbeitslose Arbeitnehmerinnen und Arbeitnehmer erhalten bei
 Teilnahme an einer Weiterbildung nach Absatz 1 zusätzlich einen
 monatlichen Zuschuss in Höhe von 150 Euro (Weiterbildungsgeld).
+
+(3) Erwerbsfähige Leistungsberechtigte im Sinne des Zweiten Buches
+erhalten auch im Rahmen eines bestehenden Arbeitsverhältnisses das
+Weiterbildungsgeld, wenn sie an einer nach § 81 oder § 82 geförderten
+Weiterbildung teilnehmen, die zu einem Abschluss in einem
+Ausbildungsberuf führt, für den nach bundes- oder landesrechtlichen
+Vorschriften eine Ausbildungsdauer von mindestens zwei Jahren
+festgelegt ist.
 
 
 ### Fünfter Abschnitt - Aufnahme einer Erwerbstätigkeit
@@ -5297,7 +5302,7 @@ folgender Bedarf zugrunde gelegt:
 
 
 2.  bei Unterbringung in einem Wohnheim, einem Internat oder einer
-    besonderen Einrichtung für Menschen mit Behinderungen 126 Euro
+    besonderen Einrichtung für Menschen mit Behinderungen 133 Euro
     monatlich, wenn die Kosten für Unterbringung und Verpflegung von der
     Agentur für Arbeit oder einem anderen Leistungsträger übernommen
     werden,
@@ -5335,7 +5340,7 @@ wird folgender Bedarf zugrunde gelegt:
 
 
 2.  bei Unterbringung in einem Wohnheim, einem Internat oder einer
-    besonderen Einrichtung für Menschen mit Behinderungen 126 Euro
+    besonderen Einrichtung für Menschen mit Behinderungen 133 Euro
     monatlich, wenn die Kosten für Unterbringung und Verpflegung von der
     Agentur für Arbeit oder einem anderen Leistungsträger übernommen
     werden,
@@ -5355,7 +5360,7 @@ wird folgender Bedarf zugrunde gelegt:
 Bei Maßnahmen im Eingangsverfahren und Berufsbildungsbereich
 anerkannter Werkstätten für behinderte Menschen und bei vergleichbaren
 Maßnahmen anderer Leistungsanbieter nach § 60 des Neunten Buches wird
-ein Ausbildungsgeld in Höhe von 126 Euro monatlich gezahlt.
+ein Ausbildungsgeld in Höhe von 133 Euro monatlich gezahlt.
 
 
 ###### § 126 Einkommensanrechnung
@@ -5369,17 +5374,17 @@ erzielt, wird nicht auf den Bedarf angerechnet.
 Einkommen
 
 1.  des Menschen mit Behinderungen aus Waisenrenten, Waisengeld oder aus
-    Unterhaltsleistungen bis zu 334 Euro monatlich,
+    Unterhaltsleistungen bis zu 352 Euro monatlich,
 
 
-2.  der Eltern bis zu 4 392 Euro monatlich, des verwitweten Elternteils
+2.  der Eltern bis zu 4 623 Euro monatlich, des verwitweten Elternteils
     oder, bei getrennt lebenden Eltern, das Einkommen des Elternteils, bei
     dem der Mensch mit Behinderungen lebt, ohne Anrechnung des Einkommens
-    des anderen Elternteils, bis zu 2 736 Euro monatlich und
+    des anderen Elternteils, bis zu 2 880 Euro monatlich und
 
 
 3.  der Ehegattin oder des Ehegatten oder der Lebenspartnerin oder des
-    Lebenspartners bis zu 2 736 Euro monatlich.
+    Lebenspartners bis zu 2 880 Euro monatlich.
 
 
 
@@ -6418,8 +6423,8 @@ Für die Feststellung der Lohnsteuer wird die Vorsorgepauschale mit
 folgenden Maßgaben berücksichtigt:
 
 1.  für Beiträge zur Rentenversicherung und zur Arbeitsförderung als
-    Beitragsbemessungsgrenze die für das Bundesgebiet West maßgebliche
-    Beitragsbemessungsgrenze,
+    Beitragsbemessungsgrenze die maßgebliche Beitragsbemessungsgrenze der
+    allgemeinen Rentenversicherung,
 
 
 2.  für Beiträge zur Krankenversicherung der ermäßigte Beitragssatz nach §
@@ -6531,10 +6536,11 @@ ein Anspruch auf eine der folgenden Leistungen zuerkannt ist:
 1.  Berufsausbildungsbeihilfe für Arbeitslose,
 
 
-2.  Krankengeld, Krankengeld der Sozialen Entschädigung, Verletztengeld,
-    Mutterschaftsgeld oder Übergangsgeld nach diesem oder einem anderen
-    Gesetz, dem eine Leistung zur Teilhabe zugrunde liegt, wegen der keine
-    ganztägige Erwerbstätigkeit ausgeübt wird,
+2.  Krankengeld, Krankengeld der Sozialen Entschädigung, Krankengeld der
+    Soldatenentschädigung, Verletztengeld, Mutterschaftsgeld oder
+    Übergangsgeld nach diesem oder einem anderen Gesetz, dem eine Leistung
+    zur Teilhabe zugrunde liegt, wegen der keine ganztägige
+    Erwerbstätigkeit ausgeübt wird,
 
 
 3.  Rente wegen voller Erwerbsminderung aus der gesetzlichen
@@ -8653,8 +8659,10 @@ die die oder der Arbeitsuchende versteht, zu informieren über:
 10. die Möglichkeit, die Beratungsdienste der Sozialpartner und
     staatlicher Stellen in Anspruch zu nehmen; hierbei sind mindestens
     beispielhaft die Beratungsstellen nach § 31 des Arbeitnehmer-
-    Entsendegesetzes zu nennen und die jeweils aktuellen Kontaktdaten der
-    erwähnten Beratungsdienste anzugeben.
+    Entsendegesetzes oder im Fall von Staatsangehörigen aus Drittstaaten
+    mindestens beispielhaft die Beratungsstellen nach § 45b Absatz 1 Satz
+    1 und 2 des Aufenthaltsgesetzes zu nennen und die jeweils aktuellen
+    Kontaktdaten der erwähnten Beratungsdienste anzugeben.
 
 
 
@@ -8757,6 +8765,15 @@ oder er sich bei der nunmehr zuständigen Agentur für Arbeit
 unverzüglich zu melden.
 
 
+##### § 310a Meldepflicht für sonstige Personen
+
+Für Ratsuchende, Ausbildung- und Arbeitsuchende sowie für Arbeitslose,
+die keinen Anspruch auf Arbeitslosengeld erheben, gilt § 309
+entsprechend. Satz 1 gilt auch, wenn die Agentur für Arbeit Leistungen
+nach dem Dritten Kapitel für erwerbsfähige Leistungsberechtigte nach
+dem Zweiten Buch erbringen darf.
+
+
 #### Zweiter Unterabschnitt - Anzeige-, Nachweis- und Bescheinigungspflichten
 
 
@@ -8804,8 +8821,10 @@ stationären Behandlung nach § 301 Absatz 1 des Fünften Buches
 elektronisch an die Krankenkasse zu übermitteln sind.
 
 (3) Die Absätze 1 und 2 gelten entsprechend auch für Teilnehmende an
-Maßnahmen der beruflichen Weiterbildung oder einer Maßnahme nach § 45,
-die keinen Anspruch auf Arbeitslosengeld erheben.
+einer Maßnahme zur Aktivierung und beruflichen Eingliederung nach § 45
+oder an einer nach § 81 geförderten Weiterbildung, die keinen Anspruch
+auf Arbeitslosengeld erheben und nicht versicherungspflichtig
+beschäftigt sind.
 
 
 ##### § 312 Arbeitsbescheinigung
@@ -9351,9 +9370,6 @@ werden.
 innerhalb einer Ausschlussfrist von drei Monaten nach Ende der
 Maßnahme zu beantragen.
 
-(6) Qualifizierungsgeld wird nicht rückwirkend geleistet. Der Antrag
-sollte spätestens drei Monate vor Beginn der Maßnahme gestellt werden.
-
 
 #### § 326 Ausschlußfrist für Gesamtabrechnung
 
@@ -9539,7 +9555,8 @@ Lebensunterhalts, insbesondere auf
 
 2.  Leistungen des Berufsschadensausgleichs nach Kapitel 10 des
     Vierzehnten Buches sowie nach Gesetzen, die eine entsprechende
-    Anwendung des Vierzehnten Buches vorsehen,
+    Anwendung des Vierzehnten Buches vorsehen, und Leistungen des
+    Erwerbsschadensausgleichs nach dem Soldatenentschädigungsgesetz,
 
 
 3.  Renten nach dem Gesetz zur Regelung der Rechtsverhältnisse der unter
@@ -9911,10 +9928,11 @@ Als beitragspflichtige Einnahme gilt bei Personen,
 
 
 5.  die als Bezieherinnen oder Bezieher von Krankengeld, Krankengeld der
-    Sozialen Entschädigung, Verletztengeld oder Übergangsgeld
-    versicherungspflichtig sind, 80 Prozent des der Leistung zugrunde
-    liegenden Arbeitsentgelts oder Arbeitseinkommens, wobei 80 Prozent des
-    beitragspflichtigen Arbeitsentgelts aus einem versicherungspflichtigen
+    Sozialen Entschädigung, Krankengeld der Soldatenentschädigung,
+    Verletztengeld oder Übergangsgeld versicherungspflichtig sind, 80
+    Prozent des der Leistung zugrunde liegenden Arbeitsentgelts oder
+    Arbeitseinkommens, wobei 80 Prozent des beitragspflichtigen
+    Arbeitsentgelts aus einem versicherungspflichtigen
     Beschäftigungsverhältnis abzuziehen sind; bei gleichzeitigem Bezug von
     Krankengeld neben einer anderen Leistung ist das dem Krankengeld
     zugrunde liegende Einkommen nicht zu berücksichtigen,
@@ -9968,9 +9986,7 @@ Als beitragspflichtige Einnahme gilt bei Personen,
 
 
 8.  die als Pflegepersonen versicherungspflichtig sind (§ 26 Abs. 2b), ein
-    Arbeitsentgelt in Höhe von 50 Prozent der monatlichen Bezugsgröße;
-    dabei ist die Bezugsgröße für das Beitrittsgebiet maßgebend, wenn der
-    Tätigkeitsort im Beitrittsgebiet liegt.
+    Arbeitsentgelt in Höhe von 50 Prozent der monatlichen Bezugsgröße.
 
 
 
@@ -10062,8 +10078,6 @@ Abweichend von Satz 1 Nummer 2 gilt in Fällen des § 28a Absatz 1
 Nummer 2 bis zum Ablauf von einem Kalenderjahr nach dem Jahr der
 Aufnahme der selbständigen Tätigkeit als beitragspflichtige Einnahme
 ein Arbeitsentgelt in Höhe von 50 Prozent der monatlichen Bezugsgröße.
-Dabei ist die Bezugsgröße für das Beitrittsgebiet maßgebend, wenn der
-Tätigkeitsort im Beitrittsgebiet liegt.
 
 
 #### Zweiter Unterabschnitt - Verfahren
@@ -10143,7 +10157,9 @@ Die Beiträge werden getragen
     tragen die Beiträge auch allein, soweit sie folgende Leistungen
     zahlen:
 
-    a)  Krankengeld der Sozialen Entschädigung oder Übergangsgeld,
+    a)  Krankengeld der Sozialen Entschädigung
+        , Krankengeld der Soldatenentschädigung                          oder
+        Übergangsgeld,
 
 
     b)  Krankengeld oder Verletztengeld in Höhe der Entgeltersatzleistungen
@@ -10820,6 +10836,20 @@ Weiterbildungsportals. Abhängig von den Ergebnissen der Prüfung kann
 sie ein Weiterbildungsportal probeweise entwickeln und betreiben. Der
 Bund kann sich an den Kosten der Entwicklung des Weiterbildungsportals
 einschließlich der Prüfung nach Satz 1 beteiligen.
+
+(2c) Um die örtliche rechtskreisübergreifende Zusammenarbeit zwischen
+den Agenturen für Arbeit und den zugelassenen kommunalen Trägern bei
+der Förderung der beruflichen Weiterbildung nach dem Vierten Abschnitt
+des Dritten Kapitels und der Teilhabe von Menschen mit Behinderungen
+am Arbeitsleben nach dem Siebten Abschnitt des Dritten Kapitels zu
+unterstützen, entwickelt und betreibt die Bundesagentur ein IT-System,
+das an eine Schnittstelle angebunden wird, die auch den zugelassenen
+kommunalen Trägern die Anbindung ihrer IT-Systeme ermöglicht. Die
+Bundesagentur kann eine vorhandene Schnittstelle nutzen oder eine neue
+Schnittstelle entwickeln, betreiben und den zugelassenen kommunalen
+Trägern für die Anbindung ihrer IT-Systeme zur Verfügung stellen. Die
+zugelassenen kommunalen Träger müssen der Bundesagentur die hierfür
+entstehenden Aufwendungen nicht erstatten.
 
 (3) Die Bundesregierung kann der Bundesagentur durch Rechtsverordnung
 mit Zustimmung des Bundesrates weitere Aufgaben übertragen, die im
@@ -11794,7 +11824,7 @@ indem sie oder er eine andere Unternehmerin oder einen anderen
 Unternehmer beauftragt, von dem sie oder er weiß oder fahrlässig nicht
 weiß, dass diese oder dieser zur Erfüllung dieses Auftrags
 
-1.  entgegen § 284 Absatz 1 oder § 4a Absatz 5 Satz 1 des
+1.  entgegen § 284 Absatz 1 oder § 4a Absatz 5 Satz 1 oder 2 des
     Aufenthaltsgesetzes eine Ausländerin oder einen Ausländer beschäftigt
     oder
 
@@ -11802,7 +11832,7 @@ weiß, dass diese oder dieser zur Erfüllung dieses Auftrags
 2.  eine Nachunternehmerin oder einen Nachunternehmer einsetzt oder es
     zulässt, dass eine Nachunternehmerin oder ein Nachunternehmer tätig
     wird, die oder der entgegen § 284 Absatz 1 oder § 4a Absatz 5 Satz 1
-    des Aufenthaltsgesetzes eine Ausländerin oder einen Ausländer
+    oder 2 des Aufenthaltsgesetzes eine Ausländerin oder einen Ausländer
     beschäftigt.
 
 
@@ -11828,18 +11858,17 @@ weiß, dass diese oder dieser zur Erfüllung dieses Auftrags
 
 4.  entgegen § 284 Absatz 1 oder entgegen § 4a Absatz 3 Satz 4 oder Absatz
     4, § 6 Absatz 2a, § 7 Absatz 1 Satz 4 erster Halbsatz, § 16a Absatz 3
-    Satz 1, § 16b Absatz 3, auch in Verbindung mit Absatz 7 Satz 3, § 16b
-    Absatz 5 Satz 3 zweiter Halbsatz, § 16c Absatz 2 Satz 3, § 16d Absatz
-    1 Satz 4, Absatz 3 Satz 2 oder Absatz 4 Satz 3, § 16f Absatz 3 Satz 4,
-    § 17 Absatz 3 Satz 1, § 20 Absatz 1 Satz 4, auch in Verbindung mit
-    Absatz 2 Satz 2, § 23 Absatz 1 Satz 4 erster Halbsatz, § 24 Absatz 6
-    Satz 2 erster Halbsatz oder § 25 Absatz 4 Satz 3 erster Halbsatz,
-    Absatz 4a Satz 4 erster Halbsatz oder Absatz 4b Satz 4 erster Halbsatz
-    des Aufenthaltsgesetzes eine Beschäftigung ausübt,
+    Satz 1, § 16b Absatz 3 Satz 1, auch in Verbindung mit Absatz 5 Satz 2
+    oder 3 erster Halbsatz oder Absatz 7 Satz 3, § 16c Absatz 2 Satz 3, §
+    16d Absatz 1 Satz 4, auch in Verbindung mit Absatz 6 Satz 3, § 16d
+    Absatz 3 Satz 8, Absatz 4 Satz 3 oder Absatz 5 Satz 2, § 16f Absatz 3
+    Satz 4 oder 5, § 16g Absatz 3a, § 17 Absatz 3 Satz 1, § 20a Absatz 2,
+    § 23 Absatz 1 Satz 4 erster Halbsatz oder § 25 Absatz 4 Satz 3 erster
+    Halbsatz, Absatz 4a Satz 4 erster Halbsatz oder Absatz 4b Satz 4
+    erster Halbsatz des Aufenthaltsgesetzes eine Beschäftigung ausübt,
 
 
-5.  entgegen § 39 Absatz 4 Satz 2 des Aufenthaltsgesetzes eine Auskunft
-    nicht, nicht richtig oder nicht rechtzeitig erteilt,
+5.  (weggefallen)
 
 
 6.  einer vollziehbaren Anordnung nach § 288a Abs. 1 zuwiderhandelt,
@@ -11883,13 +11912,16 @@ weiß, dass diese oder dieser zur Erfüllung dieses Auftrags
     Bußgeldvorschrift verweist,
 
 
-17. u. 18. (weggefallen)
+17. (weggefallen)
+
+
+18. (weggefallen)
 
 
 19. entgegen
 
     a)  § 312 Absatz 1 Satz 1, auch in Verbindung mit Satz 2, jeweils auch in
-        Verbindung mit Satz 3, § 312 Absatz 1 oder § 313 Absatz 1, auch in
+        Verbindung mit Satz 3, § 312 Absatz 3 oder § 313 Absatz 1, auch in
         Verbindung mit Absatz 3,
 
 
@@ -11935,24 +11967,33 @@ weiß, dass diese oder dieser zur Erfüllung dieses Auftrags
 
 
 26. entgegen § 60 Absatz 1 Satz 1 Nummer 1 des Ersten Buches eine Angabe
-    nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht
-    oder
+    nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht,
 
 
 27. entgegen § 60 Abs. 1 Satz 1 Nr. 2 des Ersten Buches eine Änderung in
     den Verhältnissen, die für einen Anspruch auf eine laufende Leistung
     erheblich ist, nicht, nicht richtig, nicht vollständig oder nicht
-    rechtzeitig mitteilt.
+    rechtzeitig mitteilt,
+
+
+28. entgegen § 39 Absatz 4 Satz 1, auch in Verbindung mit Absatz 6 Satz 1,
+    des Aufenthaltsgesetzes eine Auskunft nicht richtig erteilt oder
+
+
+29. entgegen § 39 Absatz 4 Satz 2, auch in Verbindung mit Absatz 6 Satz 1,
+    des Aufenthaltsgesetzes eine Auskunft nicht, nicht richtig, nicht
+    vollständig oder nicht rechtzeitig erteilt.
 
 
 
 
-(3) Die Ordnungswidrigkeit kann in den Fällen der Absätze 1 und 2 Nr.
-3 mit einer Geldbuße bis zu fünfhunderttausend Euro, in den Fällen des
-Absatzes 2 Nr. 1, 5 bis 9 und 11 bis 13 mit einer Geldbuße bis zu
-dreißigtausend Euro, in den Fällen des Absatzes 2 Nr. 2, 4, 16, 26 und
-27 mit einer Geldbuße bis zu fünftausend Euro, in den übrigen Fällen
-mit einer Geldbuße bis zu zweitausend Euro geahndet werden.
+(3) Die Ordnungswidrigkeit kann in den Fällen der Absätze 1 und 2
+Nummer 3 mit einer Geldbuße bis zu fünfhunderttausend Euro, in den
+Fällen des Absatzes 2 Nummer 1, 6 bis 9, 11 bis 13, 28 und 29 mit
+einer Geldbuße bis zu dreißigtausend Euro, in den Fällen des Absatzes
+2 Nummer 2, 4, 16, 26 und 27 mit einer Geldbuße bis zu fünftausend
+Euro und in den übrigen Fällen mit einer Geldbuße bis zu zweitausend
+Euro geahndet werden.
 
 
 #### § 405 Zuständigkeit, Vollstreckung und Unterrichtung
@@ -11964,7 +12005,7 @@ mit einer Geldbuße bis zu zweitausend Euro geahndet werden.
     Zollverwaltung,
 
 
-2.  des § 404 Abs. 2 Nr. 1, 1a, 2, 5 bis 16 und 19 bis 25 die
+2.  des § 404 Absatz 2 Nummer 1, 1a, 2, 6 bis 16, 19 bis 25, 28 und 29 die
     Bundesagentur,
 
 
@@ -11994,11 +12035,11 @@ Buches arbeiten die Behörden nach Absatz 1 mit den in § 2 Absatz 4 des
 Schwarzarbeitsbekämpfungsgesetzes genannten Behörden zusammen.
 
 (5) Die Bundesagentur unterrichtet das Gewerbezentralregister über
-rechtskräftige Bußgeldbescheide nach § 404 Abs. 2 Nr. 1, 5 bis 16 und
-19 Buchstabe a. Die Behörden der Zollverwaltung unterrichten das
-Gewerbezentralregister über rechtskräftige Bußgeldbescheide nach § 404
-Abs. 1 und 2 Nr. 3. Dies gilt nur, sofern die Geldbuße mehr als 200
-Euro beträgt.
+rechtskräftige Bußgeldbescheide nach § 404 Absatz 2 Nummer 1, 6 bis
+16, 19 Buchstabe a, Nummer 28 und 29. Die Behörden der Zollverwaltung
+unterrichten das Gewerbezentralregister über rechtskräftige
+Bußgeldbescheide nach § 404 Abs. 1 und 2 Nr. 3. Dies gilt nur, sofern
+die Geldbuße mehr als 200 Euro beträgt.
 
 (6) Gerichte, Strafverfolgungs- oder Strafvollstreckungsbehörden
 sollen den Behörden der Zollverwaltung Erkenntnisse aus sonstigen
@@ -12023,25 +12064,11 @@ sind.
 
 
 
-### Erster Abschnitt - Sonderregelungen im Zusammenhang mit der Herstellung der Einheit Deutschlands
+### Erster Abschnitt - (weggefallen)
 
 
 
-#### § 408 Besondere Bezugsgröße und Beitragsbemessungsgrenze
-
-Soweit Vorschriften dieses Buches bei Entgelten oder
-Beitragsbemessungsgrundlagen
-
-1.  an die Bezugsgröße anknüpfen, ist die Bezugsgröße für das in Artikel 3
-    des Einigungsvertrages genannte Gebiet (Beitrittsgebiet),
-
-
-2.  an die Beitragsbemessungsgrenze anknüpfen, ist die
-    Beitragsbemessungsgrenze für das Beitrittsgebiet
-
-
-
-maßgebend, wenn der Beschäftigungsort im Beitrittsgebiet liegt.
+#### § 408 (weggefallen)
 
 
 #### (XXXX) §§ 409 u. 410 (weggefallen)
@@ -12233,7 +12260,7 @@ Leistungsfortzahlung für jedes Kind längstens für 30 Tage, bei
 alleinerziehenden Arbeitslosen längstens für 60 Tage; Arbeitslosengeld
 wird insgesamt für nicht mehr als 65 Tage, für alleinerziehende
 Arbeitslose für nicht mehr als 130 Tage fortgezahlt; für die
-Kalenderjahre 2024 und 2025 besteht der Anspruch auf
+Kalenderjahre 2024 bis 2026 besteht der Anspruch auf
 Leistungsfortzahlung für jedes Kind längstens für jeweils 15 Tage, bei
 alleinerziehenden Arbeitslosen längstens für jeweils 30 Tage;
 Arbeitslosengeld wird insgesamt für nicht mehr als jeweils 35 Tage,
@@ -12296,6 +12323,16 @@ Stichprobenkontrollen zu übermitteln, indem sie diese Daten zum
 automatisierten Abruf aus ihrem Datenbestand bereitstellt.
 
 (2) § 79 Absatz 2 bis 4 des Zehnten Buches gilt entsprechend.
+
+
+#### § 421g Vorübergehende Sonderregelung für anerkennungssuchende Fachkräfte im Inland
+
+Die Bundesagentur baut durch Zusammenwirken mit den Projektträgern des
+ESF Plus-Förderprogramms „IQ – Integration durch Qualifizierung“ ab
+dem 1. Januar 2026 das für die Übernahme notwendige Fach- und
+Erfahrungswissen zur Anerkennungs- und Qualifizierungsberatung auf.
+Die Bundesagentur kann in diesem Zusammenhang in Absprache mit den
+Projektträgern auch selbst beraten.
 
 
 ### Dritter Abschnitt - Grundsätze bei Rechtsänderungen
@@ -12843,11 +12880,6 @@ Arbeitslosengeld bei beruflicher Weiterbildung (§ 144) und für die
 Berechnung von Ansprüchen auf Berufsausbildungsbeihilfe für
 Arbeitslose (§ 70).
 
-(3) Die Bundesregierung berichtet dem Deutschen Bundestag in jeder
-Legislaturperiode, beginnend mit dem Jahr 2020, über die Förderung der
-beruflichen Weiterbildung im Rahmen der aktiven Arbeitsförderung und
-die entsprechenden Ausgaben.
-
 
 #### § 448 Gesetz zur Förderung der Ausbildung und Beschäftigung von Ausländerinnen und Ausländern
 
@@ -12984,6 +13016,12 @@ Abweichend von § 422 sind die §§ 54a, 61, 62, 64, 67 und 123 bis 126
 ab dem 1. August 2022 anzuwenden.
 
 
+#### § 455a Neunundzwanzigstes Gesetz zur Änderung des Bundesausbildungsförderungsgesetzes
+
+Abweichend von § 422 sind die §§ 54a, 61, 62, 64, 67, 68 und die §§
+123 bis 126 ab dem 1. August 2024 anzuwenden.
+
+
 #### § 456 Zwölftes Gesetz zur Änderung des Zweiten Buches Sozialgesetzbuch und anderer Gesetze – Einführung eines Bürgergeldes
 
 (1) § 87a Absatz 2 ist auch anzuwenden, wenn die berufliche
@@ -13011,4 +13049,16 @@ Fassung gilt für Zeiten eines Versicherungspflichtverhältnisses nach §
 
 § 73a findet keine Anwendung auf Berufsausbildungen, die vor dem 1.
 April 2024 begonnen haben.
+
+
+#### § 459 Übergangsregelung aus Anlass des Haushaltsfinanzierungsgesetzes 2024
+
+Die Bundesagentur trägt ab dem 1. Januar 2025 die Aufwendungen, die
+sich aus der Anwendung des § 66a des Zweiten Buches ergeben. Eine
+Pauschalierung des Aufwendungsersatzes ist zulässig. Die
+Bundesagentur, das Bundesministerium für Arbeit und Soziales und das
+Bundesministerium der Finanzen vereinbaren die Höhe des Gesamtbetrages
+zur Abgeltung der Aufwendungen sowie im Rahmen ihrer jeweiligen
+Zuständigkeiten die Einzelheiten zum Verfahren. Die Bundesagentur
+zahlt den Gesamtbetrag zu Beginn des Jahres an den Bund.
 

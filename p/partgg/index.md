@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1994, 1744
 
 Zuletzt geändert durch
-:   Art. 68 G v. 10.8.2021 I 3436
+:   Art. 11 G v. 22.10.2024 I Nr. 320
 
 
 ## § 1 Voraussetzungen der Partnerschaft; Anwendbarkeit der Vorschriften über die Gesellschaft bürgerlichen Rechts
@@ -120,8 +120,9 @@ nicht.
 (1) Die Partner erbringen ihre beruflichen Leistungen unter Beachtung
 des für sie geltenden Berufsrechts.
 
-(2) Einzelne Partner können im Partnerschaftsvertrag nur von der
-Führung der sonstigen Geschäfte ausgeschlossen werden.
+(2) Ein Partner kann im Partnerschaftsvertrag nicht von der Führung
+solcher Geschäfte ausgeschlossen werden, die die Ausübung des eigenen
+Berufes betreffen.
 
 (3) Im übrigen richtet sich das Rechtsverhältnis der Partner
 untereinander nach dem Partnerschaftsvertrag. Soweit der

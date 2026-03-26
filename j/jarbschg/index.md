@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1976, 965
 
 Zuletzt geändert durch
-:   Art. 9 G v. 27.3.2024 I Nr. 109
+:   Art. 53 G v. 23.10.2024 I Nr. 323
 
 
 ## Eingangsformel
@@ -76,6 +76,13 @@ die noch nicht 18 Jahre alt sind,
 
 
 
+
+
+### § 1a Formvorgaben
+
+Soweit in diesem Gesetz schriftliche Handlungen vorgesehen sind,
+können diese auch in Textform erfolgen. Dies gilt nicht für § 6 Absatz
+4 Satz 1 und § 21a Absatz 2.
 
 
 ### § 2 Kind, Jugendlicher
@@ -346,15 +353,14 @@ beschäftigen
     durchschnittlichen wöchentlichen Arbeitszeit,
 
 
-3.  im Übrigen die Unterrichtszeit einschließlich der Pausen.
+3.  im Übrigen die Unterrichtszeit einschließlich der Pausen und der
+    notwendigen Wegezeiten zwischen Berufsschule und Ausbildungsstätte.
 
 
 
 
 (3) Ein Entgeltausfall darf durch den Besuch der Berufsschule nicht
 eintreten.
-
-(4) (weggefallen)
 
 
 #### § 10 Prüfungen und außerbetriebliche Ausbildungsmaßnahmen
@@ -376,7 +382,8 @@ freizustellen.
 (2) Auf die Arbeitszeit des Jugendlichen werden angerechnet
 
 1.  die Freistellung nach Absatz 1 Nr. 1 mit der Zeit der Teilnahme
-    einschließlich der Pausen,
+    einschließlich der Pausen und der notwendigen Wegezeiten zwischen
+    Teilnahmeort und Ausbildungsstätte,
 
 
 2.  die Freistellung nach Absatz 1 Nr. 2 mit der durchschnittlichen
@@ -1438,17 +1445,23 @@ Mitteilungen zu verwendenden Vordrucke erlassen.
 #### § 47 Bekanntgabe des Gesetzes und der Aufsichtsbehörde
 
 Arbeitgeber, die regelmäßig mindestens einen Jugendlichen
-beschäftigen, haben einen Abdruck dieses Gesetzes und die Anschrift
-der zuständigen Aufsichtsbehörde an geeigneter Stelle im Betrieb zur
-Einsicht auszulegen oder auszuhängen.
+beschäftigen, haben eine Kopie dieses Gesetzes und die Anschrift der
+zuständigen Aufsichtsbehörde den Arbeitnehmern über die im Betrieb
+oder in der Dienststelle übliche Informations- und
+Kommunikationstechnik zur Verfügung zu stellen oder an geeigneter
+Stelle im Betrieb oder in der Dienststelle zur Einsicht auszulegen
+oder auszuhängen.
 
 
-#### § 48 Aushang über Arbeitszeit und Pausen
+#### § 48 Information über Arbeitszeit und Pausen
 
 Arbeitgeber, die regelmäßig mindestens drei Jugendliche beschäftigen,
-haben einen Aushang über Beginn und Ende der regelmäßigen täglichen
-Arbeitszeit und der Pausen der Jugendlichen an geeigneter Stelle im
-Betrieb anzubringen.
+haben eine Information über Beginn und Ende der regelmäßigen täglichen
+Arbeitszeit und der Pausen der Jugendlichen den Arbeitnehmern über die
+im Betrieb oder in der Dienststelle übliche Informations- und
+Kommunikationstechnik zur Verfügung zu stellen oder an geeigneter
+Stelle im Betrieb oder in der Dienststelle zur Einsicht auszulegen
+oder auszuhängen.
 
 
 #### § 49 Verzeichnisse der Jugendlichen
@@ -1545,8 +1558,11 @@ kann, sind zu befristen. Die Ausnahmebewilligungen können
 oder einzelne Teile des Betriebs bewilligt werden.
 
 (3) Ist eine Ausnahme für einen Betrieb oder einen Teil des Betriebs
-bewilligt worden, so hat der Arbeitgeber hierüber an geeigneter Stelle
-im Betrieb einen Aushang anzubringen.
+bewilligt worden, so hat der Arbeitgeber eine Kopie der Bewilligung
+den Arbeitnehmern über die im Betrieb oder in der Dienststelle übliche
+Informations- und Kommunikationstechnik zur Verfügung zu stellen oder
+an geeigneter Stelle im Betrieb oder in der Dienststelle zur Einsicht
+auszulegen oder auszuhängen.
 
 
 ### Dritter Titel - Ausschüsse für Jugendarbeitsschutz
@@ -1889,12 +1905,17 @@ fahrlässig
     nicht freistellt,
 
 
-7.  entgegen § 47 einen Abdruck des Gesetzes oder die Anschrift der
-    zuständigen Aufsichtsbehörde nicht auslegt oder aushängt,
+7.  entgegen § 47 eine Kopie des Gesetzes oder die Anschrift der
+    zuständigen Aufsichtsbehörde nicht, nicht richtig oder nicht
+    vollständig zur Verfügung stellt und nicht, nicht richtig oder nicht
+    vollständig auslegt und nicht, nicht richtig oder nicht vollständig
+    aushängt,
 
 
-8.  entgegen § 48 Arbeitszeit und Pausen nicht oder nicht in der
-    vorgeschriebenen Weise aushängt,
+8.  entgegen § 48 eine Information nicht, nicht richtig oder nicht
+    vollständig zur Verfügung stellt und nicht, nicht richtig oder nicht
+    vollständig auslegt und nicht, nicht richtig oder nicht vollständig
+    aushängt,
 
 
 9.  entgegen § 49 ein Verzeichnis nicht oder nicht in der vorgeschriebenen
@@ -1911,7 +1932,10 @@ fahrlässig
     Arbeitsstätten nicht gestattet,
 
 
-12. entgegen § 54 Abs. 3 einen Aushang nicht anbringt.
+12. entgegen § 54 Abs. 3 eine Kopie nicht, nicht richtig oder nicht
+    vollständig zur Verfügung stellt und nicht, nicht richtig oder nicht
+    vollständig auslegt und nicht, nicht richtig oder nicht vollständig
+    aushängt.
 
 
 

@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2008, 2186
 
 Zuletzt geändert durch
-:   Art. 7 V v. 10.3.2022 I 428
+:   Art. 1 V v. 30.10.2024 I Nr. 342
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
@@ -213,22 +213,29 @@ Angaben zu enthalten:
 
 
     b)  die mit den Schlachtgewichten gewogenen Durchschnitte der
-        Auszahlungspreise pro 100 Kilogramm sowie
+        Auszahlungspreise pro 100 Kilogramm,
 
 
 
 
 
-2.  für die Schlachtkörper der Rinder, bei deren Aufzucht und Haltung die
-    Produktionsvorschriften nach den Artikeln 11 und 14 der Verordnung
-    (EG) Nr. 834/2007 des Rates vom 28. Juni 2007 über die
+2.  für die Schlachtkörper von Schweinen und Schafen, bei deren Aufzucht
+    und Haltung die Produktionsvorschriften der Verordnung (EU) 2018/848
+    des europäischen Parlaments und des Rates vom 30. Mai 2018 über die
     ökologische/biologische Produktion und die Kennzeichnung von
-    ökologischen/biologischen Erzeugnissen und zur Aufhebung der
-    Verordnung (EWG) Nr. 2092/91 (ABl. L 189 vom 20.7.2007, S. 1; L 300
-    vom 18.10.2014, S. 72), die zuletzt durch die Verordnung (EU) Nr.
-    517/2013 (ABl. L 158 vom 10.6.2013, S. 1) geändert worden ist in der
-    jeweils geltenden Fassung, eingehalten worden sind, zusätzlich und in
-    separater Form:
+    ökologischen/biologischen Erzeugnissen sowie zur Aufhebung der
+    Verordnung (EG) Nr. 834/2007 des Rates (ABl. L 150 vom 14.6.2018, S.
+    1; L 270 vom 29.10.2018, S. 37; L 305 vom 26.11.2019, S. 59; L 37 vom
+    10\.2.2020, S. 26; L 324 vom 6.10.2020, S. 65; L 7 vom 11.1.2021, S.
+    53; L 204 vom 10.6.2021, S. 47; L 318 vom 9.9.2021, S. 5) in der
+    jeweils geltenden Fassung eingehalten worden sind, zusätzlich und in
+    separater Form die geschlachtete Gesamtmenge nach Stückzahl und nach
+    Schlachtgewicht,
+
+
+3.  für die Schlachtkörper der Rinder, bei deren Aufzucht und Haltung die
+    Produktionsvorschriften nach der Verordnung (EU) 2018/848 eingehalten
+    worden sind, zusätzlich und in separater Form:
 
     a)  die geschlachtete Gesamtmenge nach Stückzahl und nach Schlachtgewicht
         sowie
@@ -240,33 +247,33 @@ Angaben zu enthalten:
         Durchführungsbestimmungen zu den Verordnungen (EU) Nr. 1307/2013 und
         (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates in Bezug
         auf die Übermittlung von Informationen und Dokumenten an die
-        Kommission (ABl. L 268 vom 22.10.2019, S. 6). Die repräsentativen
-        Verkaufspreise sind die mit den Schlachtgewichten gewogenen
-        Durchschnitte der Auszahlungspreise an die Lieferanten.
-
-
-
-    Die Preismeldungen sind wie folgt zu unterteilen:
-
-    1.  bei Rindern
-
-        a)  nach den gesetzlichen Kategorien für Rinderschlachtkörper und
-
-
-        b)  nach den gesetzlichen Handelsklassen für Rinderschlachtkörper,
+        Kommission (ABl. L 268 vom 22.10.2019, S. 6), wobei die
+        repräsentativen Verkaufspreise die mit den Schlachtgewichten gewogenen
+        Durchschnitte der Auszahlungspreise an die Lieferanten sind.
 
 
 
 
 
-    2.  bei Schweinen nach den gesetzlichen Handelsklassen für
-        Schweineschlachtkörper und
+
+Die Preismeldungen sind wie folgt zu unterteilen:
+
+1.  bei Rindern
+
+    a)  nach den gesetzlichen Kategorien für Rinderschlachtkörper und
 
 
-    3.  bei Schafen nach den gesetzlichen Kategorien für Schafschlachtkörper.
+    b)  nach den gesetzlichen Handelsklassen für Rinderschlachtkörper,
 
 
 
+
+
+2.  bei Schweinen nach den gesetzlichen Handelsklassen für
+    Schweineschlachtkörper und
+
+
+3.  bei Schafen nach den gesetzlichen Kategorien für Schafschlachtkörper.
 
 
 
@@ -313,17 +320,19 @@ worden ist.
 
 (1) Die Meldungen sind nach vorgeschriebenem Muster schriftlich oder
 elektronisch an die nach Landesrecht zuständige Behörde (Meldebehörde)
-zu erstatten. Sie sind wöchentlich für die Zeit von Montag bis
-einschließlich Sonntag zu erstatten. Die Meldebehörde kann bestimmen,
-dass zusätzlich zu der nach den Sätzen 1 und 2 zu erstattenden
-Wochenmeldung bis zu zwei Zwischenmeldungen über jeweils einen Tag
-oder mehrere Tage abgegeben werden müssen, soweit dies aus Gründen der
-Marktbeobachtung erforderlich ist. Die Verpflichtung zur Abgabe der
-Zwischenmeldung kann auf bestimmte Tierarten, Kategorien und
-Handelsklassen beschränkt werden. Von ihr können Betriebe ausgenommen
-werden, deren Meldungen unter Berücksichtigung der umgesetzten Mengen
-keine Bedeutung haben. Die Meldebehörde kann festlegen, dass die
-Zwischenmeldung nur die Preise zu enthalten hat.
+zu erstatten. Sie sind im Fall des § 6 Absatz 1 Nummer 2 jährlich für
+die Zeit vom 1. Januar bis zum 31. Dezember und im Übrigen wöchentlich
+für die Zeit von Montag bis einschließlich Sonntag zu erstatten. Die
+Meldebehörde kann bestimmen, dass zusätzlich zu der nach den Sätzen 1
+und 2 zu erstattenden Wochenmeldung bis zu zwei Zwischenmeldungen über
+jeweils einen Tag oder mehrere Tage abgegeben werden müssen, soweit
+dies aus Gründen der Marktbeobachtung erforderlich ist. Die
+Verpflichtung zur Abgabe der Zwischenmeldung kann auf bestimmte
+Tierarten, Kategorien und Handelsklassen beschränkt werden. Von ihr
+können Betriebe ausgenommen werden, deren Meldungen unter
+Berücksichtigung der umgesetzten Mengen keine Bedeutung haben. Die
+Meldebehörde kann festlegen, dass die Zwischenmeldung nur die Preise
+zu enthalten hat.
 
 (2) Die Meldebehörde legt den Zeitpunkt fest, bis zu dem die Meldungen
 eingegangen sein müssen. Sie kann bestimmen, dass die Meldung

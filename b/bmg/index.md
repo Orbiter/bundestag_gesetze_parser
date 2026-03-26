@@ -16,11 +16,10 @@ Fundstelle
 :   BGBl I: 2013, 1084
 
 Zuletzt geändert durch
-:   Art. 22 G v. 19.12.2022 I 2606
+:   Art. 12 G v. 22.12.2025 I Nr. 370
 
-Änderung durch
-:   Art. 3 Abs. 3 G v. 22.3.2024 I Nr. 104 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
+Stand: Bek. v. 15.10.2024 I Nr. 338 ist berücksichtigt
+Stand: Bek. v. 15.10.2025 I Nr. 262 ist berücksichtigt
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
 
@@ -81,7 +80,7 @@ erforderlichen Hinweise im Melderegister:
 7.  Geschlecht,
 
 
-8.  keine Eintragung,
+8.  die Identifikationsnummer nach § 139b der Abgabenordnung,
 
 
 9.  zum gesetzlichen Vertreter
@@ -275,11 +274,10 @@ erforderlichen Hinweise im Melderegister:
 
 
 
-3.  für Zwecke nach § 139b Absatz 2 der Abgabenordnung
-
-    die Identifikationsnummer nach § 139b der Abgabenordnung und bis zu
-    deren Speicherung im Melderegister das Vorläufige Bearbeitungsmerkmal
-    nach § 139b Absatz 6 Satz 2 der Abgabenordnung,
+3.  für Zwecke der Vergabe der Identifikationsnummer nach § 139b der
+    Abgabenordnung bis zu deren Speicherung im Melderegister das
+    Vorläufige Bearbeitungsmerkmal nach § 139b Absatz 6 Satz 2 der
+    Abgabenordnung,
 
 
 4.  für die Ausstellung von Pässen und Ausweisen
@@ -288,12 +286,7 @@ erforderlichen Hinweise im Melderegister:
     oder § 6a Absatz 2 des Personalausweisgesetzes getroffen worden ist,
 
 
-5.  für staatsangehörigkeitsrechtliche Verfahren
-
-    die Tatsache, dass die deutsche Staatsangehörigkeit nach § 4 Absatz 3
-    oder § 40b des Staatsangehörigkeitsgesetzes erworben wurde und nach §
-    29 des Staatsangehörigkeitsgesetzes ein Verlust der deutschen
-    Staatsangehörigkeit eintreten kann,
+5.  (weggefallen)
 
 
 6.  (weggefallen)
@@ -331,13 +324,7 @@ erforderlichen Hinweise im Melderegister:
 
     den Namen und die Anschrift des Eigentümers der Wohnung und, wenn
     dieser nicht selbst Wohnungsgeber ist, den Namen des Eigentümers der
-    Wohnung sowie den Namen und die Anschrift des Wohnungsgebers,
-
-
-11. im Spannungs- oder Verteidigungsfall für die Wehrerfassung
-
-    die Tatsache, dass ein Einwohner bereits vor der Erfassung seines
-    Jahrganges erfasst worden ist.
+    Wohnung sowie den Namen und die Anschrift des Wohnungsgebers.
 
 
 
@@ -637,7 +624,7 @@ für die Erfüllung ihrer Aufgaben weiterhin die in § 3 Absatz 1 Nummer
 darf in diesen Fällen auch die Daten nach § 3 Absatz 2 Nummer 1 und 2
 im Melderegister speichern. Bei Wegzug eines Einwohners speichert die
 Meldebehörde außerdem die Daten nach § 3 Absatz 1 Nummer 17 und die
-Feststellung der Tatsachen nach § 3 Absatz 2 Nummer 4, 5, 7 und 8.
+Feststellung der Tatsachen nach § 3 Absatz 2 Nummer 4, 7 und 8.
 
 (2) Nach Ablauf von fünf Jahren nach dem Ende des Kalenderjahres, in
 dem ein Einwohner weggezogen oder verstorben ist, sind die nach Absatz
@@ -647,7 +634,8 @@ Artikel 24, 25 und 32 der Verordnung (EU) 2016/679 zu sichern, es sei
 denn, § 14 sieht eine frühere Löschung vor. Während dieser Zeit dürfen
 die Daten nicht mehr verarbeitet werden. Davon ausgenommen sind
 Familienname und Vornamen sowie frühere Namen, Geburtsdatum,
-Geburtsort sowie bei Geburt im Ausland auch der Staat, derzeitige und
+Geburtsort sowie bei Geburt im Ausland auch der Staat, die
+Identifikationsnummer nach § 139b der Abgabenordnung, derzeitige und
 frühere Anschriften, Auszugsdatum, Auskunftssperren nach § 51 Absatz 1
 sowie Sterbedatum, Sterbeort sowie bei Versterben im Ausland auch der
 Staat. Satz 2 gilt nicht, wenn
@@ -671,8 +659,7 @@ Staat. Satz 2 gilt nicht, wenn
 
 
     e)  zur Durchführung des staatsangehörigkeitsrechtlichen Verfahrens nach §
-        3 Absatz 2 Nummer 5 dieses Gesetzes sowie nach § 29 Absatz 6 und § 30
-        des Staatsangehörigkeitsgesetzes oder
+        30 des Staatsangehörigkeitsgesetzes oder
 
 
 
@@ -761,7 +748,9 @@ Aufenthalt bestimmen kann, obliegt diesem die An- oder Abmeldung.
 
 (4) Die Standesämter teilen den Meldebehörden unverzüglich die
 Beurkundung der Geburt eines Kindes sowie jede Änderung des
-Personenstandes einer Person mit.
+Personenstandes einer Person mit. Die Meldebehörden teilen den
+Standesämtern in diesen Fällen unverzüglich die Identifikationsnummer
+nach § 139b der Abgabenordnung mit.
 
 
 ### § 18 Meldebescheinigung
@@ -1020,7 +1009,7 @@ versendet und von dieser bestätigt wird, ersetzt werden.
 
 (1) Bei der An- oder Abmeldung oder der Änderung der Hauptwohnung
 dürfen bei der meldepflichtigen Person die in § 3 Absatz 1 Nummer 1
-bis 18 und in Absatz 2 Nummer 2 Buchstabe a bis c, Nummer 5 und 10
+bis 18 und in Absatz 2 Nummer 2 Buchstabe a bis c und Nummer 10
 genannten Daten erhoben werden. Dies gilt auch für die Hinweise, die
 zum Nachweis der Richtigkeit dieser Daten erforderlich sind.
 
@@ -1218,12 +1207,13 @@ oder § 28. Wer nicht für eine Wohnung im Inland gemeldet ist, hat sich
 innerhalb von zwei Wochen bei der Meldebehörde anzumelden, sobald sein
 Aufenthalt die Dauer von drei Monaten überschreitet.
 
-(2) Beherbergte Personen haben am Tag der Ankunft einen besonderen
-Meldeschein handschriftlich zu unterschreiben, der die in § 30 Absatz
-2 aufgeführten Daten enthält. Mitreisende Angehörige sind auf dem
+(2) Beherbergte ausländische Personen haben am Tag der Ankunft einen
+besonderen Meldeschein handschriftlich zu unterschreiben, der die in §
+30 Absatz 2 aufgeführten Daten enthält. Mitreisende ausländische
+Ehegatten, Lebenspartner und minderjährige Kinder sind auf dem
 Meldeschein nur der Zahl nach anzugeben. Bei Reisegesellschaften von
 mehr als zehn Personen betrifft die Verpflichtung nach Satz 1 nur den
-Reiseleiter; er hat die Anzahl der Mitreisenden und ihre
+Reiseleiter; er hat die Anzahl der ausländischen Mitreisenden und ihre
 Staatsangehörigkeit anzugeben.
 
 (3) Beherbergte ausländische Personen, die nach Absatz 2 namentlich
@@ -1238,7 +1228,8 @@ Wasserfahrzeugen auf gewerbs- oder geschäftsmäßig überlassenen Plätzen
 2, solange sie im Inland nach § 17 oder § 28 gemeldet sind. Wer nicht
 nach § 17 oder § 28 gemeldet ist, hat sich innerhalb von zwei Wochen
 bei der Meldebehörde anzumelden, sobald der Aufenthalt die Dauer von
-drei Monaten überschreitet. Die Absätze 2 und 3 gelten entsprechend.
+drei Monaten überschreitet. Die Absätze 2 und 3 gelten für
+ausländische Personen entsprechend.
 
 (5) Abweichend von Absatz 2 Satz 1 kann die Meldepflicht mit
 Zustimmung der beherbergten Person auch dadurch erfüllt werden, dass
@@ -1252,15 +1243,13 @@ der Ankunft bestätigt, indem die beherbergte Person
     Zuordnungsnummer des eingesetzten Zahlungsmittels erhoben wird,
 
 
-2.  den elektronischen Identitätsnachweis nach § 18 des
-    Personalausweisgesetzes, nach § 12 des eID-Karte-Gesetzes oder nach §
-    78 Absatz 5 des Aufenthaltsgesetzes erbringt oder
+2.  den elektronischen Identitätsnachweis nach § 12 des eID-Karte-Gesetzes
+    oder nach § 78 Absatz 5 des Aufenthaltsgesetzes erbringt oder
 
 
-3.  ihren Personalausweis nach § 18a des Personalausweisgesetzes, ihre
-    eID-Karte nach § 13 des eID-Karte-Gesetzes oder ihren Aufenthaltstitel
-    nach § 78 Absatz 5 des Aufenthaltsgesetzes zum Vor-Ort-Auslesen
-    verwendet.
+3.  ihre eID-Karte nach § 13 des eID-Karte-Gesetzes oder ihren
+    Aufenthaltstitel nach § 78 Absatz 5 des Aufenthaltsgesetzes zum Vor-
+    Ort-Auslesen verwendet.
 
 
 
@@ -1268,10 +1257,10 @@ Wer Beherbergungsstätten betreibt, kann für seine und andere mit
 seinen Beherbergungsstätten vertraglich zum Zweck des Erbringens von
 Beherbergungsdienstleistungen verbundenen Beherbergungsstätten zur
 Erprobung weiterer elektronischer Verfahren zur Erfüllung der
-Meldepflicht bei dem Bundesministerium des Innern, für Bau und Heimat
-bis zum Ablauf des 31. Dezember 2023 für die Dauer von höchstens zwei
-Jahren einen Antrag auf Zulassung eines von Satz 1 abweichenden
-Verfahrens stellen, bei dem
+Meldepflicht bei dem Bundesamt für Sicherheit in der
+Informationstechnik für die Dauer von höchstens fünf Jahren einen
+Antrag auf Zulassung eines von Satz 1 abweichenden Verfahrens stellen,
+bei dem
 
 1.  die in § 30 Absatz 2 genannten Daten elektronisch mit Zustimmung der
     beherbergten Person erhoben werden,
@@ -1281,12 +1270,13 @@ Verfahrens stellen, bei dem
     nach Nummer 1 am Tag der Ankunft in geeigneter Weise bestätigt und
 
 
-3.  das Bundesamt für Sicherheit in der Informationstechnik bei einer
-    vorherigen Prüfung des Verfahrens ein vergleichbares Sicherheitsniveau
-    zu den in Satz 1 Nummer 1 bis 3 genannten Verfahren festgestellt hat.
+3.  ein vergleichbares Sicherheitsniveau zu den in Satz 1 Nummer 1 bis 3
+    genannten Verfahren besteht.
 
 
 
+Antragsberechtigt nach Satz 2 ist auch, wer elektronische Verfahren
+zur Erfüllung der Meldepflicht anbietet.
 
 (6) Die Absätze 2 und 3 gelten nicht für
 
@@ -1347,20 +1337,19 @@ ausschließlich folgende Daten:
 6.  Anschrift,
 
 
-7.  Zahl der Mitreisenden und ihre Staatsangehörigkeit in den Fällen des §
-    29 Absatz 2 Satz 2 und 3 sowie
+7.  Zahl der ausländischen Mitreisenden und ihre Staatsangehörigkeit sowie
 
 
 8.  Seriennummer des anerkannten und gültigen Passes oder
-    Passersatzpapiers bei ausländischen Personen.
+    Passersatzpapiers.
 
 
 
-Bei ausländischen Personen haben die Leiter der Beherbergungsstätten
-oder der Einrichtungen nach § 29 Absatz 4 die Angaben im Meldeschein
-mit denen des Identitätsdokumentes zu vergleichen. Ergeben sich
-hierbei Abweichungen, ist dies auf dem Meldeschein zu vermerken. Legen
-ausländische Personen kein oder kein gültiges Identitätsdokument vor,
+Die Leiter der Beherbergungsstätten oder der Einrichtungen nach § 29
+Absatz 4 haben die Angaben im Meldeschein mit denen des
+Identitätsdokumentes zu vergleichen. Ergeben sich hierbei
+Abweichungen, ist dies auf dem Meldeschein zu vermerken. Legen
+beherbergte Personen kein oder kein gültiges Identitätsdokument vor,
 ist dies auf dem Meldeschein zu vermerken. Im Fall des § 29 Absatz 5
 Nummer 1 ist die zweckgebundene Zuordnungsnummer des eingesetzten
 Zahlungsmittels zusammen mit den Daten nach Satz 1 zu speichern.
@@ -1474,8 +1463,8 @@ Datenübertragung zu übermitteln; § 10 Absatz 2 gilt entsprechend.
 Wegzugsmeldebehörde zu verarbeiten. Die Wegzugsmeldebehörde hat die
 Zuzugsmeldebehörde unverzüglich, spätestens jedoch drei Werktage nach
 Eingang der Rückmeldung, über die in § 3 Absatz 2 Nummer 1, 2
-Buchstabe d, Nummer 3, 4, 5, 7, 8 und 11 genannten Tatsachen sowie
-dann zu unterrichten, wenn die in Satz 1 bezeichneten Daten von den
+Buchstabe d, Nummer 3, 4, 7, 8 und 11 genannten Tatsachen sowie dann
+zu unterrichten, wenn die in Satz 1 bezeichneten Daten von den
 bisherigen Angaben abweichen (Auswertung der Rückmeldung). Soweit
 Meldebehörden desselben Landes beteiligt sind, können für die
 Datenübermittlung weitergehende Regelungen durch Landesrecht getroffen
@@ -1540,8 +1529,7 @@ ihrer Zuständigkeit oder in der Zuständigkeit des Empfängers liegt:
 7.  Geschlecht,
 
 
-8.  derzeitige Staatsangehörigkeiten einschließlich der nach § 3 Absatz 2
-    Nummer 5 gespeicherten Daten,
+8.  derzeitige Staatsangehörigkeiten,
 
 
 9.  derzeitige und frühere Anschriften, gekennzeichnet nach Haupt- und
@@ -1825,11 +1813,11 @@ Satz 2 abrufen.
 
 (3) Zu einer Vielzahl von Personen, die nicht namentlich bestimmt sind
 (freie Suche), dürfen nur die Daten nach § 34 Absatz 1 Satz 1 Nummer 1
-bis 7, Nummer 8 mit Ausnahme der Daten nach § 3 Absatz 2 Nummer 5, 16
-sowie die Anschrift der derzeitigen Haupt- oder alleinigen Wohnung
-abgerufen werden. Die in § 34 Absatz 4 Satz 1 genannten Behörden
-dürfen auch das Einzugsdatum nach § 34 Absatz 1 Satz 1 Nummer 10 sowie
-die Daten nach § 34 Absatz 1 Satz 2 Nummer 1, 3 und 4 abrufen.
+bis 8 und 16 sowie die Anschrift der derzeitigen Haupt- oder
+alleinigen Wohnung abgerufen werden. Die in § 34 Absatz 4 Satz 1
+genannten Behörden dürfen auch das Einzugsdatum nach § 34 Absatz 1
+Satz 1 Nummer 10 sowie die Daten nach § 34 Absatz 1 Satz 2 Nummer 1, 3
+und 4 abrufen.
 
 (4) Der Abruf weiterer Daten und Hinweise nach Absatz 2 ist zulässig,
 soweit dies durch Bundes- oder Landesrecht bestimmt ist, in dem auch
@@ -1881,20 +1869,12 @@ Vereinbarungen, wenn Daten übermittelt werden an
 
 #### § 36 Regelmäßige Datenübermittlungen
 
-(1) Datenübermittlungen an andere öffentliche Stellen, die ohne
-Ersuchen in allgemein bestimmten Fällen regelmäßig wiederkehrend
-durchgeführt werden (regelmäßige Datenübermittlungen), sind zulässig,
-soweit dies durch Bundes- oder Landesrecht bestimmt ist, in dem Anlass
-und Zweck der Übermittlungen, der Empfänger und die zu übermittelnden
-Daten festgelegt sind.
-
-(2) Eine Datenübermittlung nach § 58c Absatz 1 Satz 1 des
-Soldatengesetzes ist nur zulässig, soweit die betroffene Person nicht
-widersprochen hat. Bei einem Widerspruch hat die betroffene Person
-gegenüber der Meldebehörde ein Recht auf unentgeltliche Einrichtung
-einer Übermittlungssperre. Die betroffene Person ist auf ihr
-Widerspruchsrecht bei der Anmeldung und spätestens im Oktober eines
-jeden Jahres durch ortsübliche Bekanntmachung hinzuweisen.
+Datenübermittlungen an andere öffentliche Stellen, die ohne Ersuchen
+in allgemein bestimmten Fällen regelmäßig wiederkehrend durchgeführt
+werden (regelmäßige Datenübermittlungen), sind zulässig, soweit dies
+durch Bundes- oder Landesrecht bestimmt ist, in dem Anlass und Zweck
+der Übermittlungen, der Empfänger und die zu übermittelnden Daten
+festgelegt sind.
 
 
 #### § 37 Datenweitergabe
@@ -2289,10 +2269,12 @@ Kindern. Familienangehörige, die nicht derselben oder keiner
 öffentlich-rechtlichen Religionsgesellschaft angehören, haben das
 Recht, der Übermittlung ihrer Daten zu widersprechen; sie sind auf
 dieses Recht bei der Anmeldung nach § 17 Absatz 1 sowie einmal
-jährlich durch ortsübliche Bekanntmachung hinzuweisen. § 36 Absatz 2
-Satz 2 gilt entsprechend. Satz 2 gilt nicht, soweit Daten für Zwecke
-des Steuererhebungsrechts der jeweiligen öffentlich-rechtlichen
-Religionsgesellschaft übermittelt werden.
+jährlich durch ortsübliche Bekanntmachung hinzuweisen. Bei einem
+Widerspruch hat die betroffene Person gegenüber der Meldebehörde ein
+Recht auf unentgeltliche Einrichtung einer Übermittlungssperre. Satz 2
+gilt nicht, soweit Daten für Zwecke des Steuererhebungsrechts der
+jeweiligen öffentlich-rechtlichen Religionsgesellschaft übermittelt
+werden.
 
 (4) Für Datenübermittlungen nach den Absätzen 1 und 2 gilt § 34 Absatz
 5 entsprechend.
@@ -2724,7 +2706,9 @@ Absatz 2 und 3 gilt entsprechend.
 (5) Die betroffene Person hat das Recht, der Übermittlung ihrer Daten
 nach den Absätzen 1 bis 3 zu widersprechen; hierauf ist bei der
 Anmeldung nach § 17 Absatz 1 sowie einmal jährlich durch ortsübliche
-Bekanntmachung hinzuweisen. § 36 Absatz 2 Satz 2 gilt entsprechend.
+Bekanntmachung hinzuweisen. Bei einem Widerspruch hat die betroffene
+Person gegenüber der Meldebehörde ein Recht auf unentgeltliche
+Einrichtung einer Übermittlungssperre.
 
 (6) Eine Erteilung von Auskünften nach den Absätzen 1 bis 3
 unterbleibt, wenn eine Auskunftssperre nach § 51 vorliegt. Eine
@@ -2774,8 +2758,8 @@ unterrichten, wenn die betroffene Person nicht erreichbar ist.
 
 (5) Die Melderegisterauskunft ist ferner nicht zulässig,
 
-1.  soweit die Einsicht in ein Personenstandsregister nach § 63 des
-    Personenstandsgesetzes nicht gestattet werden darf und
+1.  soweit die Einsicht in ein Personenstandsregister nach § 63 Absatz 1
+    des Personenstandsgesetzes nicht gestattet werden darf und
 
 
 2.  in den Fällen des § 1758 des Bürgerlichen Gesetzbuchs.

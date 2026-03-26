@@ -40,8 +40,8 @@ unverändert die europäischen Sterne, das Ausgabejahr 2008 und das
 Ausgabeland „BUNDESREPUBLIK DEUTSCHLAND“ zu sehen.
 
 Das Münzzeichen der jeweiligen Prägestätte („A“, „D“, „F“, „G“, „J“)
-und die Initialen des Graveurs
-"OE"             befinden sich im rechten oberen Kernbereich.
+und die Initialen des Graveurs „OE” befinden sich im rechten oberen
+Kernbereich.
 
 Der Entwurf der nationalen Seite der Gedenkmünze stammt von Herrn
 Erich Ott aus München.

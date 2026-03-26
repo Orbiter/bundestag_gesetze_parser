@@ -17,29 +17,33 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2018, 1398, 1419
 
+Geändert durch
+:   Art. 1 Nr. 14 V v. 14.10.2025 I Nr. 242
+
 
 ## (XXXX)
 
-(Fundstelle: BGBl. I 2018, 1419 - 1421)
+(Fundstelle: BGBl. I 2018, 1419 - 1421;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
+
 
 ## Zone 1
-
 
 *    *   Ems
 
     *   Von der Verbindungslinie zwischen dem ehemaligen Leuchtturm Greetsiel
         und der Westmole der Hafeneinfahrt des Eemshavens seewärts bis zum
         Breitenparallel
-[^F804091_04_BJNR141900018BJNE000100000]
-        53° 30' N                      und dem Meridian 6° 45' O, d. h.
+[^F804091_04_BJNR141900018BJNE000101119]
+        53° 30' N                        und dem Meridian 6° 45' O, d. h.
         geringfügig seewärts des Leichterplatzes für Trockenfrachter in der
         Alten Ems
 
 
 
+
 Zone 2
 ## Zone 2-See
-
 
 *    *   Ems
 
@@ -131,7 +135,7 @@ Zone 2
     *   Seewärts begrenzt durch die Verbindungslinie von der Ostspitze
         Thiessower Haken (Südperd) über die Ostspitze Insel Ruden zur
         Nordspitze Insel Usedom
-        (54° 10' 37'' N,                      13° 47' 51'' O) bis zur Grenze
+        (54° 10' 37'' N,                        13° 47' 51'' O) bis zur Grenze
         des Greifswalder Hafengebietes
 
 
@@ -145,8 +149,8 @@ Zone 2
 
 
 
-## Zone 2-Binnen
 
+## Zone 2-Binnen
 
 *    *   Ems
 
@@ -187,8 +191,8 @@ Zone 2
 
 *    *   Lühe
 
-    *   Vom Unterwasser der Au-Mühle in Horneburg (km 0,00) bis zur Mündung in
-        die Elbe
+    *   Von der Nordkante der Marschdammbrücke in Horneburg (km 0,26) bis zur
+        Mündung in die Elbe
 
 
 *    *   Schwinge
@@ -216,8 +220,8 @@ Zone 2
 
 *    *   Pinnau
 
-    *   Von der Südwestkante der Eisenbahnbrücke in Pinneberg bis zur Mündung
-        in die Elbe
+    *   Von der Westkante der im Verlauf der Elmshorner Straße liegenden
+        Straßenbrücke in Pinneberg (km 0,36) bis zur Mündung in die Elbe
 
 
 *    *   Krückau
@@ -354,6 +358,11 @@ Zone 2
         südliche Hafengrenze und den Meridian 13° 7' 42" O
 
 
+*    *   Selliner See
+
+    *   Selliner See und Baaber Bek bis zur Mündung in die Having
+
+
 *    *   Greifswalder Hafengebiet mit Ryck
 
     *   Von der Ostkante der Steinbecker Brücke in Greifswald bis zur
@@ -371,8 +380,8 @@ Zone 2
 
 
 
-## Zone 3
 
+## Zone 3
 
 *    *   Donau
 
@@ -399,14 +408,15 @@ Zone 2
     *
 
 
+
    ## Zone 4
 
-
 *    *   Alle Binnenwasserstraßen außer denen der Zonen 1, 2 und 3
+
 
 
 
     Für Schiffe, die in einem anderen Staat beheimatet sind, nach Maßgabe
     des Artikels 32 des Ems-Dollart-Vertrages vom 8. April 1960 (BGBl.
     1963 II S. 602) anzuwenden.
-[^F804091_04_BJNR141900018BJNE000100000]: 
+[^F804091_04_BJNR141900018BJNE000101119]: 

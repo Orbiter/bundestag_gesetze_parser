@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2016, 2770
 
 Zuletzt geändert durch
-:   Art. 2 G v. 8.12.2022 I 2240
+:   Art. 9 Abs. 1 G v. 30.9.2025 I Nr. 233
 
 Stand: Ersetzt V 2129-27-2-5 v. 10.9.1996 I 1421 (EfbV)
 
@@ -1507,7 +1507,8 @@ Vordrucks nach Anlage 3 entsprechen.
 
 ### Anlage 1 Lehrgangsinhalte
 
-(Fundstelle: BGBl. I 2016, 2782 - 2783)
+(Fundstelle: BGBl. I 2016, 2782 - 2783;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Die Lehrgänge sollen Kenntnisse insbesondere über folgende Bereiche
 vermitteln:
@@ -1583,7 +1584,9 @@ vermitteln:
     a)  das Elektro- und Elektronikgerätegesetz,
 
 
-    b)  das Batteriegesetz und
+    b)  Kapitel VIII der Verordnung (EU) 2023/1542 in der Fassung vom 12. Juli
+        2023 sowie das Batterierecht-Durchführungsgesetz vom 30. September
+        2025 (BGBl. 2025 I Nr. 233) und
 
 
     c)  das Verpackungsgesetz,

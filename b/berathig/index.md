@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1980, 689
 
 Zuletzt geändert durch
-:   Art. 12 G v. 25.6.2021 I 2154
+:   Art. 2 G v. 15.7.2024 I Nr. 237
 
 
 ## § 1 Voraussetzungen
@@ -110,10 +110,10 @@ haben. Haben Rechtsuchende im Inland keinen allgemeinen Gerichtsstand,
 so ist das Amtsgericht zuständig, in dessen Bezirk ein Bedürfnis für
 Beratungshilfe auftritt.
 
-(2) Der Antrag kann mündlich oder schriftlich gestellt werden; § 130a
-der Zivilprozessordnung und auf dessen Grundlage erlassene
-Rechtsverordnungen gelten entsprechend. Der Sachverhalt, für den
-Beratungshilfe beantragt wird, ist anzugeben.
+(2) Der Antrag kann vor der Geschäftsstelle zu Protokoll erklärt oder
+schriftlich gestellt werden; § 130a der Zivilprozessordnung und auf
+dessen Grundlage erlassene Rechtsverordnungen gelten entsprechend. Der
+Sachverhalt, für den Beratungshilfe beantragt wird, ist anzugeben.
 
 (3) Dem Antrag sind beizufügen:
 
@@ -129,6 +129,8 @@ Beratungshilfe beantragt wird, ist anzugeben.
 
 
 
+In geeigneten Fällen kann die Geschäftsstelle Erklärungen und
+Versicherungen nach Satz 1 auch zu Protokoll aufnehmen.
 
 (4) Das Gericht kann verlangen, dass Rechtsuchende ihre tatsächlichen
 Angaben glaubhaft machen, und kann insbesondere auch die Abgabe einer

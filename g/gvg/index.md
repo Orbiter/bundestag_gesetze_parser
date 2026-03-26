@@ -19,7 +19,13 @@ Neugefasst durch
 :   Bek. v. 9.5.1975 I 1077;
 
 Zuletzt geändert durch
-:   Art. 14a G v. 27.3.2024 I Nr. 109
+:   Art. 1 G v. 8.12.2025 I Nr. 318
+
+Mittelbare änderung durch
+:   Art. 39 G v. 8.12.2025 I Nr. 319 ist berücksichtigt
+
+Änderung durch
+:   Art. 4 G v. 9.1.2026 I Nr. 3 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Erster Titel - Gerichtsbarkeit
@@ -230,7 +236,9 @@ dieses Gesetzes aufhalten.
 auf andere als die in Absatz 1 und in den §§ 18 und 19 genannten
 Personen, soweit sie nach den allgemeinen Regeln des Völkerrechts, auf
 Grund völkerrechtlicher Vereinbarungen oder sonstiger
-Rechtsvorschriften von ihr befreit sind.
+Rechtsvorschriften von ihr befreit sind. Funktionelle Immunität
+hindert nicht die Erstreckung deutscher Gerichtsbarkeit auf die
+Verfolgung von Verbrechen nach dem Völkerstrafgesetzbuch.
 
 
 ### § 21
@@ -632,7 +640,7 @@ Rechtsstreitigkeiten, soweit sie nicht ohne Rücksicht auf den Wert des
 Streitgegenstandes den Landgerichten zugewiesen sind:
 
 1.  Streitigkeiten über Ansprüche, deren Gegenstand an Geld oder
-    Geldeswert die Summe von fünftausend Euro nicht übersteigt;
+    Geldeswert die Summe von zehntausend Euro nicht übersteigt;
 
 
 2.  ohne Rücksicht auf den Wert des Streitgegenstandes:
@@ -657,7 +665,12 @@ Streitgegenstandes den Landgerichten zugewiesen sind:
     d)  Streitigkeiten wegen Wildschadens;
 
 
-    e)  (weggefallen)
+    e)  Streitigkeiten über Ansprüche aus dem Nachbarrecht nach den §§ 910,
+        911, 923 des Bürgerlichen Gesetzbuchs und nach § 906 des Bürgerlichen
+        Gesetzbuchs sowie nach den landesgesetzlichen Vorschriften im Sinne
+        des Artikels 124 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche,
+        sofern es sich nicht um Einwirkungen von einem gewerblichen Betrieb
+        handelt;
 
 
     f)  (weggefallen)
@@ -1534,11 +1547,8 @@ Streitgegenstandes ausschließlich zuständig
     Amtshandlungen;
 
 
-3.  für Ansprüche, die auf eine falsche, irreführende oder unterlassene
-    öffentliche Kapitalmarktinformation, auf die Verwendung einer falschen
-    oder irreführenden öffentlichen Kapitalmarktinformation oder auf die
-    Unterlassung der gebotenen Aufklärung darüber, dass eine öffentliche
-    Kapitalmarktinformation falsch oder irreführend ist, gestützt werden;
+3.  für die in § 1 Absatz 1 des Kapitalanleger-Musterverfahrensgesetzes
+    genannten Ansprüche;
 
 
 4.  für Verfahren nach
@@ -1579,7 +1589,21 @@ Streitgegenstandes ausschließlich zuständig
 
 
 6.  für Ansprüche aus dem Unternehmensstabilisierungs- und
-    -restrukturierungsgesetz.
+    -restrukturierungsgesetz;
+
+
+7.  in Streitigkeiten über Ansprüche aus Veröffentlichungen durch
+    Druckerzeugnisse und Bild- und Tonträger jeder Art, insbesondere in
+    Presse, Rundfunk, Film und Fernsehen sowie im Internet;
+
+
+8.  in Streitigkeiten über die Vergabe von öffentlichen Aufträgen,
+    Konzessionen oder Rahmenvereinbarungen, soweit sich nicht aus Teil 4
+    des Gesetzes gegen Wettbewerbsbeschränkungen eine andere Zuständigkeit
+    ergibt;
+
+
+9.  in Streitigkeiten aus Heilbehandlungen.
 
 
 
@@ -1639,16 +1663,22 @@ folgende Sachgebiete gebildet:
 
 
 5.  Streitigkeiten über Ansprüche aus Veröffentlichungen durch
-    Druckerzeugnisse, Bild- und Tonträger jeder Art, insbesondere in
-    Presse, Rundfunk, Film und Fernsehen,
+    Druckerzeugnisse und Bild- und Tonträger jeder Art, insbesondere in
+    Presse, Rundfunk, Film und Fernsehen sowie im Internet,
 
 
-6.  erbrechtliche Streitigkeiten und
+6.  erbrechtliche Streitigkeiten,
 
 
 7.  insolvenzrechtliche Streitigkeiten und Beschwerden, Anfechtungssachen
     nach dem Anfechtungsgesetz sowie Streitigkeiten und Beschwerden aus
-    dem Unternehmensstabilisierungs- und -restrukturierungsgesetz.
+    dem Unternehmensstabilisierungs- und -restrukturierungsgesetz und
+
+
+8.  Streitigkeiten über die Vergabe von öffentlichen Aufträgen,
+    Konzessionen oder Rahmenvereinbarungen, soweit sich nicht aus Teil 4
+    des Gesetzes gegen Wettbewerbsbeschränkungen eine andere Zuständigkeit
+    ergibt.
 
 
 
@@ -1752,7 +1782,7 @@ Landgericht erhebt.
 
 
 17. des Herbeiführens einer Sprengstoffexplosion mit Todesfolge (§ 308
-    Abs. 3 des Strafgesetzbuches),
+    Absatz 4 des Strafgesetzbuches),
 
 
 18. des Mißbrauchs ionisierender Strahlen gegenüber einer unübersehbaren
@@ -1764,11 +1794,11 @@ Landgericht erhebt.
 
 
 20. des Herbeiführens einer Überschwemmung mit Todesfolge (§ 313 in
-    Verbindung mit § 308 Abs. 3 des Strafgesetzbuches),
+    Verbindung mit § 308 Absatz 4 des Strafgesetzbuches),
 
 
 21. der gemeingefährlichen Vergiftung mit Todesfolge (§ 314 in Verbindung
-    mit § 308 Abs. 3 des Strafgesetzbuches),
+    mit § 308 Absatz 4 des Strafgesetzbuches),
 
 
 22. des räuberischen Angriffs auf Kraftfahrer mit Todesfolge (§ 316a Abs.
@@ -1839,10 +1869,14 @@ zuständig für Straftaten
     Cannabisgesetz darstellt,
 
 
-5.  der Verschleppung (§ 234a des Strafgesetzbuches) und
+5.  der Verschleppung (§ 234a des Strafgesetzbuches),
 
 
-6.  der politischen Verdächtigung (§ 241a des Strafgesetzbuches).
+6.  des Verschwindenlassens von Personen (§ 234b des Strafgesetzbuches)
+    und
+
+
+7.  der politischen Verdächtigung (§ 241a des Strafgesetzbuches).
 
 
 
@@ -1894,7 +1928,8 @@ und §§ 73 und 74 gelten entsprechend.
 
 2.  nach den Gesetzen über das Bank-, Depot-, Börsen- und Kreditwesen
     sowie nach dem Versicherungsaufsichtsgesetz, dem
-    Zahlungsdiensteaufsichtsgesetz und dem Wertpapierhandelsgesetz,
+    Zahlungsdiensteaufsichtsgesetz, dem Kryptomärkteaufsichtsgesetz und
+    dem Wertpapierhandelsgesetz,
 
 
 3.  nach dem Wirtschaftsstrafgesetz 1954, dem Außenwirtschaftsgesetz, dem
@@ -2710,16 +2745,22 @@ für folgende Sachgebiete gebildet:
 
 
 5.  Streitigkeiten über Ansprüche aus Veröffentlichungen durch
-    Druckerzeugnisse, Bild- und Tonträger jeder Art, insbesondere in
-    Presse, Rundfunk, Film und Fernsehen,
+    Druckerzeugnisse und Bild- und Tonträger jeder Art, insbesondere in
+    Presse, Rundfunk, Film und Fernsehen sowie im Internet,
 
 
-6.  erbrechtliche Streitigkeiten und
+6.  erbrechtliche Streitigkeiten,
 
 
-7.  insolvenzrechtliche Streitigkeiten, Anfechtungssachen nach dem
-    Anfechtungsgesetz sowie Streitigkeiten aus dem
-    Unternehmensstabilisierungs- und -restrukturierungsgesetz.
+7.  insolvenzrechtliche Streitigkeiten und Beschwerden, Anfechtungssachen
+    nach dem Anfechtungsgesetz sowie Streitigkeiten und Beschwerden aus
+    dem Unternehmensstabilisierungs- und -restrukturierungsgesetz und
+
+
+8.  Streitigkeiten über die Vergabe von öffentlichen Aufträgen,
+    Konzessionen oder Rahmenvereinbarungen, soweit sich nicht aus Teil 4
+    des Gesetzes gegen Wettbewerbsbeschränkungen eine andere Zuständigkeit
+    ergibt.
 
 
 
@@ -2731,6 +2772,84 @@ Ermächtigung auf die Landesjustizverwaltungen übertragen.
 
 (3) Den Zivilsenaten nach den Absätzen 1 und 2 können auch
 Streitigkeiten nach § 119 Absatz 1 zugewiesen werden.
+
+
+### § 119b
+
+(1) Die Landesregierungen werden ermächtigt, jeweils durch
+Rechtsverordnung einen oder mehrere Senate bei einem Oberlandesgericht
+oder einem Obersten Landesgericht als Commercial Court einzurichten,
+der im ersten Rechtszug zuständig ist für folgende Streitigkeiten mit
+einem Streitwert ab 500 000 Euro:
+
+1.  Bürgerliche Rechtsstreitigkeiten zwischen Unternehmern (§ 14 des
+    Bürgerlichen Gesetzbuchs) mit Ausnahme von solchen auf dem Gebiet des
+    gewerblichen Rechtsschutzes, des Urheberrechts sowie über Ansprüche
+    nach dem Gesetz gegen den unlauteren Wettbewerb,
+
+
+2.  Streitigkeiten aus oder im Zusammenhang mit dem Erwerb eines
+    Unternehmens oder von Anteilen an einem Unternehmen,
+
+
+3.  Streitigkeiten zwischen Gesellschaft und Mitgliedern des
+    Leitungsorgans oder Aufsichtsrats.
+
+
+
+Die Zuständigkeit des Commercial Courts nach Satz 1 kann auf bestimmte
+Sachgebiete beschränkt werden. Die Zuständigkeit nach Satz 1 kann auch
+auf Sachgebiete erstreckt werden, in denen die ausschließliche
+Zuständigkeit des Landgerichts oder ein sonstiger ausschließlicher
+Gerichtsstand vorgesehen ist. Die Zuständigkeit des Commercial Courts
+nach Satz 1 kann nicht vorgesehen werden für Streitigkeiten über die
+Wirksamkeit oder Rechtmäßigkeit von Beschlüssen von Gesellschaftern
+oder Gesellschaftsorganen, Verfahren nach § 71 Absatz 2 Nummer 4 des
+Gerichtsverfassungsgesetzes oder nach § 375 des Gesetzes über
+Verfahren in Familiensachen und in den Angelegenheiten der
+freiwilligen Gerichtsbarkeit.
+
+(2) Der Commercial Court wird durch ausdrückliche oder
+stillschweigende Vereinbarung der Parteien zuständig, sofern die
+Voraussetzungen des Absatzes 1 vorliegen. Die vereinbarte
+Zuständigkeit ist ausschließlich, sofern die Parteien nichts anderes
+ausdrücklich vereinbart haben. Unter den Voraussetzungen des Absatzes
+1 wird der Commercial Court auch zuständig, wenn der Kläger dies in
+der Klageschrift beantragt hat und der Beklagte sich in der
+Klageerwiderung rügelos darauf einlässt.
+
+(3) Sind in einem Land mehrere Oberlandesgerichte errichtet, so kann
+die Landesregierung die Zuständigkeit des Commercial Courts durch
+Rechtsverordnung über das Gebiet des Oberlandesgerichts hinaus
+bestimmen.
+
+(4) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung
+abweichend von § 119 Absatz 1 Nummer 2 dem Commercial Court die
+Verhandlung und Entscheidung über die Rechtsmittel der Berufung und
+der Beschwerde gegen solche Entscheidungen der Landgerichte
+zuzuweisen, denen eine Streitigkeit zugrunde liegt, die die
+Sachgebiete des Commercial Courts betrifft.
+
+(5) Die Landesregierungen können die in den Absätzen 1, 3 und 4
+genannten Ermächtigungen durch Rechtsverordnung auf die
+Landesjustizverwaltungen übertragen.
+
+(6) Mehrere Länder können vereinbaren, einen gemeinsamen Commercial
+Court an einem Oberlandesgericht oder an einem Obersten Landesgericht
+einzurichten. Die Zuständigkeit eines gemeinsamen Commercial Courts
+nach Satz 1 kann über Ländergrenzen hinaus vereinbart werden.
+
+(7) Regelungen in völkerrechtlichen Vereinbarungen gehen, soweit sie
+unmittelbar anwendbares innerstaatliches Recht geworden sind, dieser
+Vorschrift vor. Regelungen in Rechtsakten der Europäischen Union
+bleiben unberührt. Die zur Aus- und Durchführung von Vereinbarungen
+und Rechtsakten im Sinne der Sätze 1 und 2 erlassenen Bestimmungen
+bleiben unberührt. Soweit eine Gerichtsstandsvereinbarung zur
+internationalen und gegebenenfalls örtlichen Zuständigkeit nach
+vorrangig anzuwendendem internationalen Recht unter geringeren
+Voraussetzungen wirksam wäre, gilt dies im Rahmen des
+Anwendungsbereiches dieses Rechts in gleicher Weise für die
+Vereinbarung nach Absatz 2 Satz 1.
 
 
 ### § 120
@@ -2799,14 +2918,14 @@ Entscheidung im ersten Rechtszug zuständig
     Strafgesetzbuchs), Brandstiftung mit Todesfolge (§ 306c des
     Strafgesetzbuchs), Herbeiführen einer Explosion durch Kernenergie in
     den Fällen des § 307 Abs. 1 und 3 Nr. 1 des Strafgesetzbuchs,
-    Herbeiführen einer Sprengstoffexplosion in den Fällen des § 308 Abs. 1
-    bis 3 des Strafgesetzbuchs, Missbrauch ionisierender Strahlen in den
+    Herbeiführen einer Sprengstoffexplosion in den Fällen des § 308 Absatz
+    1 bis 4 des Strafgesetzbuchs, Missbrauch ionisierender Strahlen in den
     Fällen des § 309 Abs. 1 bis 4 des Strafgesetzbuchs, Vorbereitung eines
     Explosions- oder Strahlungsverbrechens in den Fällen des § 310 Abs. 1
     Nr. 1 bis 3 des Strafgesetzbuchs, Herbeiführen einer Überschwemmung in
-    den Fällen des § 313 Abs. 2 in Verbindung mit § 308 Abs. 2 und 3 des
+    den Fällen des § 313 Abs. 2 in Verbindung mit § 308 Absatz 2 und 4 des
     Strafgesetzbuchs, gemeingefährlicher Vergiftung in den Fällen des §
-    314 Abs. 2 in Verbindung mit § 308 Abs. 2 und 3 des Strafgesetzbuchs
+    314 Abs. 2 in Verbindung mit § 308 Absatz 2 und 4 des Strafgesetzbuchs
     und Angriff auf den Luft- und Seeverkehr in den Fällen des § 316c Abs.
     1 und 3 des Strafgesetzbuchs, wenn die Tat nach den Umständen geeignet
     ist,
@@ -2832,10 +2951,11 @@ Entscheidung im ersten Rechtszug zuständig
     die Verfolgung übernimmt,
 
 
-4.  bei Straftaten nach dem Außenwirtschaftsgesetz sowie bei Straftaten
-    nach dem Gesetz über die Kontrolle von Kriegswaffen, wenn die Tat oder
-    im Falle des strafbaren Versuchs auch ihre unterstellte Vollendung
-    nach den Umständen
+4.  bei Straftaten nach dem Außenwirtschaftsgesetz, dem
+    Sanktionsdurchsetzungsgesetz sowie bei Straftaten nach dem Gesetz über
+    die Kontrolle von Kriegswaffen, wenn die Tat oder im Falle des
+    strafbaren Versuchs auch ihre unterstellte Vollendung nach den
+    Umständen
 
     a)  geeignet ist, die äußere Sicherheit oder die auswärtigen Beziehungen
         der Bundesrepublik Deutschland erheblich zu gefährden, oder
@@ -2909,8 +3029,9 @@ und 3 der Strafprozessordnung entsprechend.
 In Strafsachen sind die Oberlandesgerichte, in deren Bezirk die
 Landesregierungen ihren Sitz haben, zuständig für die Verhandlung und
 Entscheidung im ersten Rechtszug bei Bestechlichkeit und Bestechung
-von Mandatsträgern (§ 108e des Strafgesetzbuches). § 120 Absatz 3 und
-5 gilt entsprechend.
+von Mandatsträgern (§ 108e des Strafgesetzbuches) und unzulässiger
+Interessenwahrnehmung (§ 108f des Strafgesetzbuches). § 120 Absatz 3
+und 5 gilt entsprechend.
 
 
 ### § 121
@@ -3776,11 +3897,11 @@ Wahrung eines ordnungsgemäßen Ablaufs des Verfahrens teilweise
 untersagt werden. Im Übrigen gilt für den in den Arbeitsraum
 übertragenen Ton Satz 2 entsprechend.
 
-(2) Tonaufnahmen der Verhandlung einschließlich der Verkündung der
-Urteile und Beschlüsse können zu wissenschaftlichen und historischen
-Zwecken von dem Gericht zugelassen werden, wenn es sich um ein
-Verfahren von herausragender zeitgeschichtlicher Bedeutung für die
-Bundesrepublik Deutschland handelt. Zur Wahrung schutzwürdiger
+(2) Tonaufnahmen oder Ton- und Filmaufnahmen der Verhandlung
+einschließlich der Verkündung der Urteile und Beschlüsse können zu
+wissenschaftlichen und historischen Zwecken von dem Gericht zugelassen
+werden, wenn es sich um ein Verfahren von herausragender
+zeitgeschichtlicher Bedeutung handelt. Zur Wahrung schutzwürdiger
 Interessen der Beteiligten oder Dritter oder zur Wahrung eines
 ordnungsgemäßen Ablaufs des Verfahrens können die Aufnahmen teilweise
 untersagt werden. Die Aufnahmen sind nicht zu den Akten zu nehmen und
@@ -4049,6 +4170,106 @@ Heimatkreisen der sorbischen Bevölkerung vor Gericht sorbisch zu
 sprechen, ist gewährleistet.
 
 
+### § 184a
+
+(1) Die Landesregierungen werden ermächtigt, jeweils durch
+Rechtsverordnung zu bestimmen, dass Verfahren, die ausgewählte
+Sachgebiete der in § 119b Absatz 1 Satz 1 genannten Streitigkeiten
+betreffen, vollständig in englischer Sprache geführt werden
+
+1.  bei ausgewählten Landgerichten auch für den Bezirk mehrerer
+    Landgerichte durch hierfür bestimmte Zivilkammern und Kammern für
+    Handelssachen (Commercial Chambers) sowie bei den für Berufungen und
+    Beschwerden zuständigen Senaten der Oberlandesgerichte über
+    Entscheidungen der Commercial Chambers und
+
+
+2.  bei dem Commercial Court.
+
+
+
+In der Rechtsverordnung nach Satz 1 können die Landesregierungen den
+Commercial Chambers auch für den Bezirk mehrerer Landgerichte im
+Rahmen ihrer Zuständigkeit auch in deutscher Sprache zu führende
+Streitigkeiten übertragen, die ausgewählte Sachgebiete der in § 119b
+Absatz 1 Satz 1 genannten Streitigkeiten betreffen. In der
+Rechtsverordnung nach Satz 1 kann die Bestimmung zu den Commercial
+Chambers auf Zivilkammern oder auf Kammern für Handelssachen
+beschränkt werden. Werden Zivilkammern als Commercial Chambers
+bestimmt, findet § 98 keine Anwendung.
+
+(2) Die Landesregierungen können die in Absatz 1 genannte Ermächtigung
+durch Rechtsverordnung auf die Landesjustizverwaltungen übertragen.
+Mehrere Länder können die Einrichtung einer oder mehrerer gemeinsamer
+Commercial Chambers über Ländergrenzen hinaus vereinbaren.
+
+(3) Ist aufgrund einer Rechtsverordnung nach Absatz 1 als
+Gerichtssprache die englische Sprache bestimmt und haben die Parteien
+diese ausdrücklich oder stillschweigend vereinbart oder lässt sich der
+Beklagte in seiner Klageerwiderung rügelos in dieser Sprache darauf
+ein, so ist das gesamte Verfahren abweichend von § 184 mit folgenden
+Maßgaben in englischer Sprache zu führen:
+
+1.  ein Dolmetscher oder Übersetzer kann in jedem Stadium des Verfahrens
+    hinzugezogen werden, sofern dies im Einzelfall erforderlich ist;
+
+
+2.  § 142 Absatz 3 der Zivilprozessordnung ist auf englischsprachige
+    Urkunden nicht anzuwenden;
+
+
+3.  für deutschsprachige Urkunden gilt § 142 Absatz 3 der
+    Zivilprozessordnung mit der Maßgabe, dass das Gericht auf Antrag die
+    Beibringung einer Übersetzung in die englische Sprache von der die
+    Urkunde einführenden Partei anordnen kann.
+
+
+
+Ist die Gerichtssprache Deutsch oder nach Satz 1 Englisch, so bleibt
+es den Parteien unbenommen, vor den in Absatz 1 Satz 1 genannten
+Spruchkörpern auch in der jeweils anderen Sprache vorzutragen, sofern
+sie dies ausdrücklich oder stillschweigend vereinbart haben oder keine
+der Parteien unverzüglich widerspricht.
+
+(4) Wird ein Dritter in ein Verfahren, das nach Absatz 3 vollständig
+in englischer Sprache zu führen ist, als Nebenintervenient oder im
+Wege der Streitverkündung einbezogen oder soll das Urteil Rechtskraft
+für und gegen einen Dritten entfalten, so ist auf Antrag des Dritten
+ein Dolmetscher hinzuzuziehen. § 185 dieses Gesetzes und § 142 Absatz
+3 der Zivilprozessordnung sind anzuwenden.
+
+(5) Wird ein zunächst in englischer Sprache geführtes Verfahren in
+deutscher Sprache fortgeführt, so wird das Verfahren auch in dem sich
+anschließenden Instanzenzug in deutscher Sprache geführt.
+
+
+### § 184b
+
+(1) Die Zivilsenate des Bundesgerichtshofs führen das Verfahren in
+englischer Sprache, wenn
+
+1.  zuvor ein Berufungs- oder Beschwerdeverfahren nach Maßgabe des § 184a
+    Absatz 1 Satz 1 Nummer 1 oder ein Verfahren nach Maßgabe des § 184a
+    Absatz 1 Satz 1 Nummer 2 geführt worden ist,
+
+
+2.  dies in der Rechtsmittelschrift beantragt wird und
+
+
+3.  der Zivilsenat dem Antrag stattgibt.
+
+
+
+Stimmt der Zivilsenat der Verfahrensführung in englischer Sprache zu,
+so gilt § 184a Absatz 3 und 4 mit der Maßgabe, dass § 142 Absatz 3 der
+Zivilprozessordnung anwendbar bleibt.
+
+(2) Der Zivilsenat kann zu jedem Zeitpunkt des Verfahrens anordnen,
+dass das Verfahren in deutscher Sprache fortgeführt wird. Der
+Zivilsenat kann zudem jederzeit anordnen, dass Teile der
+Verfahrensakte in die deutsche Sprache übersetzt werden.
+
+
 ### § 185
 
 (1) Wird unter Beteiligung von Personen verhandelt, die der deutschen
@@ -4061,10 +4282,11 @@ oder in eine Anlage niedergeschrieben werden. In den dazu geeigneten
 Fällen soll dem Protokoll eine durch den Dolmetscher zu beglaubigende
 Übersetzung beigefügt werden.
 
-(1a) Das Gericht kann gestatten, dass sich der Dolmetscher während der
-Verhandlung, Anhörung oder Vernehmung an einem anderen Ort aufhält.
-Die Verhandlung, Anhörung oder Vernehmung wird zeitgleich in Bild und
-Ton an diesen Ort und in das Sitzungszimmer übertragen.
+(1a) Der Vorsitzende kann gestatten oder anordnen, dass der
+Dolmetscher per Bild- und Tonübertragung an der Verhandlung, Anhörung
+oder Vernehmung teilnimmt. Der Vorsitzende kann zusätzlich anordnen,
+dass sich der Dolmetscher an demselben Ort aufhält wie die Person, die
+der deutschen Sprache nicht mächtig ist.
 
 (2) Die Zuziehung eines Dolmetschers kann unterbleiben, wenn die
 beteiligten Personen sämtlich der fremden Sprache mächtig sind.
@@ -4073,6 +4295,12 @@ beteiligten Personen sämtlich der fremden Sprache mächtig sind.
 Gerichtsbarkeit bedarf es der Zuziehung eines Dolmetschers nicht, wenn
 der Richter der Sprache, in der sich die beteiligten Personen
 erklären, mächtig ist.
+
+(4) Personen, die für Presse, Hörfunk, Fernsehen oder für andere
+Medien berichten und der deutschen Sprache nicht mächtig sind, dürfen
+sich in Gerichtsverhandlungen Verdolmetschungen bedienen. Das Gericht
+kann die Nutzung gerichtlich bereitgestellter Verdolmetschungen
+zulassen. § 176 Absatz 1 bleibt unberührt.
 
 
 ### § 186
@@ -4220,15 +4448,20 @@ Personen barrierefrei zu gestalten, soweit sie in Schriftzeichen
 wiedergegeben werden. Erfolgt die Übermittlung eines elektronischen
 Dokuments auf einem sicheren Übermittlungsweg, ist dieser barrierefrei
 auszugestalten. Sind elektronische Formulare eingeführt (§ 130c der
-Zivilprozessordnung, § 14a des Gesetzes über das Verfahren in
-Familiensachen und in den Angelegenheiten der freiwilligen
-Gerichtsbarkeit, § 46f des Arbeitsgerichtsgesetzes, § 65c des
-Sozialgerichtsgesetzes, § 55c der Verwaltungsgerichtsordnung, § 52c
-der Finanzgerichtsordnung), sind diese blinden oder sehbehinderten
-Personen barrierefrei zugänglich zu machen. Dabei sind die Standards
-von § 3 der Barrierefreie-Informationstechnik-Verordnung vom 12.
-September 2011 (BGBl. I S. 1843) in der jeweils geltenden Fassung
-maßgebend.
+Zivilprozessordnung, § 32c der Strafprozessordnung, § 14a des Gesetzes
+über das Verfahren in Familiensachen und in den Angelegenheiten der
+freiwilligen Gerichtsbarkeit, § 46f des Arbeitsgerichtsgesetzes, § 65c
+des Sozialgerichtsgesetzes, § 55c der Verwaltungsgerichtsordnung, §
+52c der Finanzgerichtsordnung, § 110b des Gesetzes über
+Ordnungswidrigkeiten), sind diese blinden oder sehbehinderten Personen
+barrierefrei zugänglich zu machen. Dabei sind die Standards von § 3
+der Barrierefreie-Informationstechnik-Verordnung vom 12. September
+2011 (BGBl. I S. 1843) in der jeweils geltenden Fassung maßgebend.
+
+(4) In gerichtlichen Verfahren eingesetzte Videokonferenztechnik ist
+für die Verständigung mit einer blinden oder sehbehinderten Person auf
+deren Verlangen barrierefrei zugänglich zu machen. Absatz 3 Satz 4
+gilt entsprechend.
 
 
 ## Sechzehnter Titel - Beratung und Abstimmung
@@ -4250,36 +4483,43 @@ einzutreten haben.
 
 ### § 193
 
-(1) Bei der Beratung und Abstimmung dürfen außer den zur Entscheidung
+(1) Die Beratung und die Abstimmung können mit Einverständnis aller
+zur Entscheidung berufenen Richter ganz oder teilweise per Bild- und
+Tonübertragung durchgeführt werden. In diesem Fall ist durch
+organisatorische und technische Maßnahmen die Wahrung des
+Beratungsgeheimnisses sicherzustellen.
+
+(2) Bei der Beratung und Abstimmung dürfen außer den zur Entscheidung
 berufenen Richtern nur die bei demselben Gericht zu ihrer juristischen
 Ausbildung beschäftigten Personen und die dort beschäftigten
 wissenschaftlichen Hilfskräfte zugegen sein, soweit der Vorsitzende
 deren Anwesenheit gestattet.
 
-(2) Ausländische Berufsrichter, Staatsanwälte und Anwälte, die einem
+(3) Ausländische Berufsrichter, Staatsanwälte und Anwälte, die einem
 Gericht zur Ableistung eines Studienaufenthaltes zugewiesen worden
 sind, können bei demselben Gericht bei der Beratung und Abstimmung
 zugegen sein, soweit der Vorsitzende deren Anwesenheit gestattet und
-sie gemäß den Absätzen 3 und 4 verpflichtet sind. Satz 1 gilt
+sie gemäß den Absätzen 4 und 5 verpflichtet sind. Satz 1 gilt
 entsprechend für ausländische Juristen, die im Entsendestaat in einem
 Ausbildungsverhältnis stehen.
 
-(3) Die in Absatz 2 genannten Personen sind auf ihren Antrag zur
-Geheimhaltung besonders zu verpflichten. § 1 Abs. 2 und 3 des
-Verpflichtungsgesetzes vom 2. März 1974 (BGBl. I S. 469, 547 - Artikel
-42) gilt entsprechend. Personen, die nach Satz 1 besonders
-verpflichtet worden sind, stehen für die Anwendung der Vorschriften
-des Strafgesetzbuches über die Verletzung von Privatgeheimnissen (§
-203 Absatz 2 Satz 1 Nummer 2, Satz 2, Absatz 5 und 6, § 205),
-Verwertung fremder Geheimnisse (§§ 204, 205), Verletzung des
-Dienstgeheimnisses (§ 353b Abs. 1 Satz 1 Nr. 2, Satz 2, Abs. 3 und 4)
-sowie Verletzung des Steuergeheimnisses (§ 355) den für den
-öffentlichen Dienst besonders Verpflichteten gleich.
+(4) Die in Absatz 3 genannten Personen sind auf ihren Antrag zur
+Geheimhaltung besonders zu verpflichten. § 1 Absatz 2 und 3 des
+Verpflichtungsgesetzes vom 2. März 1974 (BGBl. I S. 469, 547), das
+durch § 1 Nummer 4 des Gesetzes vom 15. August 1974 (BGBl. I S. 1942)
+geändert worden ist, gilt entsprechend. Personen, die nach Satz 1
+besonders verpflichtet worden sind, stehen für die Anwendung der
+Vorschriften des Strafgesetzbuches über die Verletzung von
+Privatgeheimnissen (§ 203 Absatz 2 Satz 1 Nummer 2, Satz 2, Absatz 5
+und 6, § 205), Verwertung fremder Geheimnisse (§§ 204, 205),
+Verletzung des Dienstgeheimnisses (§ 353b Abs. 1 Satz 1 Nr. 2, Satz 2,
+Abs. 3 und 4) sowie Verletzung des Steuergeheimnisses (§ 355) den für
+den öffentlichen Dienst besonders Verpflichteten gleich.
 
-(4) Die Verpflichtung wird vom Präsidenten oder vom aufsichtsführenden
+(5) Die Verpflichtung wird vom Präsidenten oder vom aufsichtsführenden
 Richter des Gerichts vorgenommen. Er kann diese Befugnis auf den
 Vorsitzenden des Spruchkörpers oder auf den Richter übertragen, dem
-die in Absatz 2 genannten Personen zugewiesen sind. Einer erneuten
+die in Absatz 3 genannten Personen zugewiesen sind. Einer erneuten
 Verpflichtung bedarf es während der Dauer des Studienaufenthaltes
 nicht. In den Fällen des § 355 des Strafgesetzbuches ist der Richter,
 der die Verpflichtung vorgenommen hat, neben dem Verletzten

@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 24.2.2010 I 150;
 
 Zuletzt geändert durch
-:   Art. 6 G v. 22.1.2024 I Nr. 17
+:   Art. 11 G v. 27.2.2025 I Nr. 72
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
@@ -672,8 +672,8 @@ sie
 
 
 
-Eine besondere Verwendung im Ausland ist eine Verwendung nach § 31a
-Absatz 1 Satz 2 in der während der Verwendung geltenden Fassung.
+Eine besondere Verwendung im Ausland ist eine Verwendung nach § 31a in
+der während der Verwendung geltenden Fassung.
 
 (4) Sind sowohl die Voraussetzungen des Absatzes 1 als auch die
 Voraussetzungen der Absätze 2 und 3 erfüllt, findet nur die für den
@@ -1409,10 +1409,37 @@ in Luftfahrzeugen,
 
 
 Dem steht eine sonstige Verwendung im Ausland oder außerhalb des
-deutschen Hoheitsgebietes auf Schiffen oder in Luftfahrzeugen mit
-vergleichbar gesteigerter Gefährdungslage gleich. Die Verwendung im
-Sinne der Sätze 2 und 3 beginnt mit dem Eintreffen im Einsatzgebiet
-und endet mit dem Verlassen des Einsatzgebietes.
+deutschen Hoheitsgebietes auf Schiffen oder in Luftfahrzeugen gleich,
+
+1.  für die ein Zuschlag gezahlt wird
+
+    a)  auf Grundlage einer Rechtsverordnung nach § 53 Absatz 7 des
+        Bundesbesoldungsgesetzes zur Abgeltung immaterieller Belastungen wegen
+        der Auswirkungen eines bewaffneten Konflikts oder
+
+
+    b)  auf Grundlage einer Rechtsverordnung nach § 56 Absatz 6 des
+        Bundesbesoldungsgesetzes zur Abgeltung hoher immaterieller
+        Belastungen, insbesondere durch bürgerkriegsähnliche
+        Auseinandersetzungen, terroristische Handlungen, außerordentliche
+        Gewaltkriminalität, Piraterie, Minen oder vergleichbare
+        gesundheitliche Gefährdungen, oder
+
+
+
+
+
+2.  bei der eine gesteigerte Gefährdungslage, die der Gefährdungslage bei
+    einer Verwendung nach Satz 2 vergleichbar ist, durch die oberste
+    Dienstbehörde, die für die sonstige Verwendung im Ausland zuständig
+    ist, im Benehmen mit dem Bundesministerium des Innern und für Heimat,
+    dem Auswärtigen Amt und dem Bundesministerium der Verteidigung
+    festgestellt wird.
+
+
+
+Die Verwendung im Sinne der Sätze 2 und 3 beginnt mit dem Eintreffen
+im Einsatzgebiet und endet mit dem Verlassen des Einsatzgebietes.
 
 (2) Gleiches gilt, wenn bei einem Beamten eine Erkrankung oder ihre
 Folgen oder ein Unfall auf gesundheitsschädigende oder sonst vom
@@ -1518,16 +1545,51 @@ Dienstbehörde kann jedoch selbst für die Pflege Sorge tragen.
 ### § 35 Unfallausgleich
 
 (1) Ist der Verletzte infolge des Dienstunfalles in seiner
-Erwerbsfähigkeit länger als sechs Monate um mindestens 25 Prozent
+Erwerbsfähigkeit länger als sechs Monate um mindestens 30 Prozent
 gemindert, so erhält er, solange dieser Zustand andauert, neben den
 Dienstbezügen, den Anwärterbezügen oder dem Ruhegehalt einen
-Unfallausgleich. Dieser wird in Höhe von 125 Prozent der Grundrente
-nach § 31 Absatz 1 bis 3 in Verbindung mit § 30 Absatz 1 Satz 2
-zweiter Halbsatz des Bundesversorgungsgesetzes in der am 31. Dezember
-2023 geltenden Fassung gewährt. Wird die Minderung der
-Erwerbsfähigkeit bei der Feststellung gestaffelt eingeschätzt, ist der
-Unfallausgleich in Höhe desjenigen Grades der Minderung der
-Erwerbsfähigkeit zu zahlen, der wenigstens sechs Monate Bestand hat.
+Unfallausgleich. Dieser beträgt
+
+*    *   1.
+
+    *   bei einer Minderung der Erwerbsfähigkeit von 30 oder 40 Prozent
+
+    *   400 Euro,
+
+
+*    *   2.
+
+    *   bei einer Minderung der Erwerbsfähigkeit von 50 oder 60 Prozent
+
+    *   800 Euro,
+
+
+*    *   3.
+
+    *   bei einer Minderung der Erwerbsfähigkeit von 70 oder 80 Prozent
+
+    *   1 200 Euro,
+
+
+*    *   4.
+
+    *   bei einer Minderung der Erwerbsfähigkeit von 90 Prozent
+
+    *   1 600 Euro,
+
+
+*    *   5.
+
+    *   bei einer Minderung der Erwerbsfähigkeit von 100 Prozent
+
+    *   2 000 Euro.
+
+
+
+Wird die Minderung der Erwerbsfähigkeit bei der Feststellung
+gestaffelt eingeschätzt, ist der Unfallausgleich in Höhe desjenigen
+Grades der Minderung der Erwerbsfähigkeit zu zahlen, der wenigstens
+sechs Monate Bestand hat.
 
 (2) Die Minderung der Erwerbsfähigkeit ist nach der körperlichen
 Beeinträchtigung im Allgemeinen Erwerbsleben zu beurteilen. Hat bei
@@ -1631,7 +1693,7 @@ der Gewährung von Altersgeld.
     Dienstbezüge nach Absatz 4,
 
 
-2.  bei Minderung der Erwerbsfähigkeit um wenigstens 25 Prozent den der
+2.  bei Minderung der Erwerbsfähigkeit um wenigstens 30 Prozent den der
     Minderung entsprechenden Teil des Unterhaltsbeitrages nach Nummer 1.
 
 
@@ -1689,7 +1751,7 @@ Minderung der Erwerbsfähigkeit gewährt
     nach § 39 Abs. 1 Nr. 2 in Verbindung mit § 36 Abs. 3 Satz 3,
 
 
-2.  bei Minderung der Erwerbsfähigkeit um mindestens 25 Prozent in Höhe
+2.  bei Minderung der Erwerbsfähigkeit um mindestens 30 Prozent in Höhe
     eines der Minderung der Erwerbsfähigkeit entsprechenden Teils des
     Unterhaltsbeitrages nach Nummer 1.
 
@@ -1923,7 +1985,7 @@ Person von Zahlungspflichten auf Grund der Finanzierung des
 Wohneigentums freizustellen.
 
 (4) Der Schadensausgleich nach den Absätzen 1 bis 3 wird nur einmal
-gewährt. Wird er auf Grund derselben Ursache nach § 63b des
+gewährt. Wird er auf Grund derselben Ursache nach § 86 des
 Soldatenversorgungsgesetzes vorgenommen, sind die Absätze 1 bis 3
 nicht anzuwenden.
 
@@ -2629,7 +2691,8 @@ anzuwenden.
     von 71,75 Prozent des Eineinhalbfachen der jeweils ruhegehaltfähigen
     Dienstbezüge aus der Endstufe der Besoldungsgruppe A 4, zuzüglich des
     jeweils zustehenden Unterschiedsbetrages nach § 50 Abs. 1 sowie eines
-    Betrages von monatlich 606,67 Euro.
+    Betrages in Höhe von vierzehn Zwölfteln der Geringfügigkeitsgrenze im
+    Sinne des § 8 Absatz 1a des Vierten Buches Sozialgesetzbuch.
 
 
 
@@ -2851,14 +2914,9 @@ Absatz 2 bezeichneten Höchstgrenze gezahlt. Als Renten gelten
 
 
 3.  Renten aus der gesetzlichen Unfallversicherung, wobei für den
-    Ruhegehaltempfänger ein dem Unfallausgleich (§ 35) entsprechender
-    Betrag unberücksichtigt bleibt; bei einer Minderung der
-    Erwerbsfähigkeit um 20 Prozent bleiben zwei Drittel der
-    Mindestgrundrente nach dem Bundesversorgungsgesetz in der am 31.
-    Dezember 2023 geltenden Fassung, bei einer Minderung der
-    Erwerbsfähigkeit um 10 Prozent ein Drittel der Mindestgrundrente nach
-    dem Bundesversorgungsgesetz in der am 31. Dezember 2023 geltenden
-    Fassung unberücksichtigt,
+    Ruhegehaltsempfänger ein dem Unfallausgleich (§ 35) entsprechender
+    Betrag, mindestens aber in Höhe des Betrages nach § 35 Absatz 1 Satz 2
+    Nummer 1 unberücksichtigt bleibt,
 
 
 4.  Leistungen aus einer berufsständischen Versorgungseinrichtung oder aus
@@ -3015,6 +3073,13 @@ ausländischen Versicherungsträger nach einem für die Bundesrepublik
 Deutschland wirksamen zwischen- oder überstaatlichen Abkommen gewährt
 werden. Für die Umrechnung von Renten ausländischer Versorgungsträger
 gilt § 17a Absatz 1 des Vierten Buches Sozialgesetzbuch entsprechend.
+
+(9) Auf Verlangen der Regelungsbehörde ist der Träger einer Leistung
+im Sinne des Absatzes 1 Satz 2 verpflichtet, Auskunft über die Höhe
+und den Anspruchszeitraum der zustehenden Leistung zu erteilen, wenn
+diese Daten der Regelungsbehörde nicht durch den
+Versorgungsberechtigten übermittelt werden. Satz 1 gilt in den Fällen
+des Absatzes 1 Satz 3 entsprechend.
 
 
 ### § 55a Zusammentreffen von Versorgungsbezügen mit Versorgungsabfindungen
@@ -4816,6 +4881,25 @@ bis zum 31. Dezember 2024 gestellt werden, gelten als zum 1. Januar
 tritt die Änderung zum Beginn des Antragsmonats ein.
 
 
+### § 69o Übergangsregelungen zu Unfallfürsorgeleistungen
+
+(1) Personen, die im Dezember 2024 einen Unfallausgleich nach § 35 in
+der bis zum 31. Dezember 2024 geltenden Fassung erhalten haben, wird
+diese Leistung weitergewährt, solange in den Verhältnissen, die für
+die Feststellung maßgebend gewesen sind, keine wesentliche Änderung
+eingetreten ist. Eine höhere Leistung nach § 35 tritt anstelle der
+Leistung nach Satz 1.
+
+(2) Auf Personen mit einer Minderung der Erwerbsfähigkeit um weniger
+als 30 Prozent, die im Dezember 2024 einen Unterhaltsbeitrag nach § 38
+oder § 38a in der jeweils bis zum 31. Dezember 2024 geltenden Fassung
+erhalten haben, finden die §§ 38 beziehungsweise 38a in der bis zum
+31\. Dezember 2024 geltenden Fassung weiter Anwendung. Satz 1 gilt nur,
+solange in den Verhältnissen, die für die Feststellung des jeweiligen
+Unterhaltsbeitrags maßgebend gewesen sind, keine wesentliche Änderung
+eingetreten ist.
+
+
 ## Abschnitt 11 - Anpassung der Versorgungsbezüge
 
 
@@ -5111,9 +5195,12 @@ auch der Ruhegehaltssatz für die Höchstgrenze nach § 54 Abs. 2 und §
 (8) Auf die am 31. Dezember 1991 vorhandenen Beamten, denen auf Grund
 eines bis zu diesem Zeitpunkt erlittenen Dienstunfalles ein
 Unfallausgleich gewährt wird, findet § 35 in der bis zum 31. Dezember
-1991 geltenden Fassung Anwendung. Satz 1 gilt mit der Maßgabe, dass
-sich die Höhe des Unfallausgleichs nach § 35 Absatz 1 Satz 2 dieses
-Gesetzes bestimmt.
+1991 geltenden Fassung Anwendung. Anspruchsberechtigten nach Satz 1,
+die im Dezember 2024 einen Unfallausgleich erhalten, wird diese
+Leistung weitergewährt, solange in den Verhältnissen, die für die
+Feststellung des Unfallausgleichs maßgebend gewesen sind, keine
+wesentliche Änderung eingetreten ist. Eine höhere Leistung nach § 35
+tritt jeweils anstelle der Leistung nach Satz 2.
 
 (9) Bei der Anwendung der Absätze 1 und 3 bleibt der am 31. Dezember
 1991 erreichte Ruhegehaltssatz auch dann gewahrt, wenn dem

@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 11.1.2005 I 90
 
 Zuletzt geändert durch
-:   Art. 3 Abs. 1 G v. 14.9.2021 I 4250
+:   Art. 15 G v. 6.5.2024 I Nr. 149
 
 
 ## Abschnitt 1 - Grundlagen der Anstalt
@@ -59,7 +59,8 @@ die Satzung der Deutschen Welle.
 #### § 3 Aufgabe
 
 (1) Die Deutsche Welle bietet für das Ausland Rundfunk (Hörfunk,
-Fernsehen) und Telemedien an.
+Fernsehen) und digitale Dienste nach § 1 Absatz 4 Nummer 1 des
+Digitale-Dienste-Gesetzes an.
 
 (2) Die Angebote der Deutschen Welle werden in deutscher Sprache sowie
 auch in anderen Sprachen verbreitet.
@@ -310,8 +311,8 @@ abweichenden Bewertung zu unterrichten.
 
 (10) Die Absätze 1 und 4 gelten nicht für Nachrichtensendungen,
 Sendungen zum politischen Zeitgeschehen im Rundfunk und vergleichbare
-Angebote bei Telemedien, soweit ein berechtigtes Interesse gerade an
-dieser Form der Darstellung oder Berichterstattung vorliegt.
+Angebote bei digitalen Diensten, soweit ein berechtigtes Interesse
+gerade an dieser Form der Darstellung oder Berichterstattung vorliegt.
 
 
 #### § 7 Jugendschutzbeauftragte/Jugendschutzbeauftragter
@@ -415,9 +416,9 @@ Spielfilme, Fernsehspiele, Serien, Dokumentarsendungen und
 vergleichbare Produktionen vorgesehenen Sendezeit europäischen Werken
 entsprechend dem europäischen Recht vorbehalten. Die Deutsche Welle
 stellt in ihrem Angebot audiovisueller Mediendienste auf Abruf im
-Sinne des § 2 Satz 1 Nummer 8 des Telemediengesetzes sicher, dass der
-Anteil europäischer Werke mindestens 30 Prozent entspricht und solche
-Werke herausgestellt werden.
+Sinne des § 1 Absatz 4 Nummer 6 des Digitale-Dienste-Gesetzes sicher,
+dass der Anteil europäischer Werke mindestens 30 Prozent entspricht
+und solche Werke herausgestellt werden.
 
 (3) Die Spielfilme, Fernsehspiele, Serien, Dokumentarsendungen und
 vergleichbaren Produktionen der Deutschen Welle sollen jeweils einen
@@ -446,7 +447,8 @@ unbeweglicher Sachen, Rechte und Verpflichtungen, oder des
 Erscheinungsbilds natürlicher oder juristischer Personen, die einer
 wirtschaftlichen Tätigkeit nachgehen, dient und gegen Entgelt oder
 eine ähnliche Gegenleistung oder als Eigenwerbung im Rundfunk oder in
-einem Telemedium aufgenommen ist. Werbung ist insbesondere
+einem digitalen Dienst nach § 1 Absatz 4 Nummer 1 des Digitale-
+Dienste-Gesetzes aufgenommen ist. Werbung ist insbesondere
 Rundfunkwerbung, Sponsern und Produktplatzierung.
 
 (2) Werbung darf nicht die Menschenwürde verletzen oder
@@ -586,11 +588,13 @@ Richtlinien.
 
 (1) Sponsern ist der Beitrag einer natürlichen oder juristischen
 Person oder einer Personenvereinigung, die an Rundfunktätigkeiten, an
-der Bereitstellung von Telemedien oder an der Produktion
-audiovisueller Werke nicht beteiligt ist, zur direkten oder indirekten
-Finanzierung von Telemedien oder einer Sendung, um den Namen, die
-Marke, das Erscheinungsbild der Person, ihre Tätigkeit oder ihre
-Leistungen zu fördern.
+der Bereitstellung von digitalen Diensten nach § 1 Absatz 4 Nummer 1
+des Digitale-Dienste-Gesetzes oder an der Produktion audiovisueller
+Werke nicht beteiligt ist, zur direkten oder indirekten Finanzierung
+von digitalen Diensten nach § 1 Absatz 4 Nummer 1 des Digitale-
+Dienste-Gesetzes oder einer Sendung, um den Namen, die Marke, das
+Erscheinungsbild der Person, ihre Tätigkeit oder ihre Leistungen zu
+fördern.
 
 (2) Bei Angeboten, die ganz oder teilweise gesponsert werden, muss zu
 Beginn und am Ende auf die Finanzierung durch den Sponsor in

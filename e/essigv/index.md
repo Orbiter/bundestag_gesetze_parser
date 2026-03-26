@@ -16,7 +16,10 @@ Fundstelle
 :   BGBl I: 1972, 732
 
 Neugefasst durch
-:   Bek. v. 26.01.2023 I Nr. 31
+:   Bek. v. 26.01.2023 I Nr. 31;
+
+Geändert durch
+:   Art. 3 V v. 16.10.2024 I Nr. 315
 
 
 ## § 1
@@ -120,24 +123,13 @@ Lebensmittelinformations-Durchführungsverordnung entsprechend.
 
 ## § 5
 
-Nach § 59 Abs. 1 Nr. 21 Buchstabe a des Lebensmittel- und
-Futtermittelgesetzbuches wird bestraft, wer entgegen § 2 Essig oder
-Essigsäure in nicht vorschriftsmäßigen Behältnissen oder in
-Behältnissen ohne den vorgeschriebenen Warnhinweis in den Verkehr
-bringt.
+(1) Nach § 59 Absatz 1 Nummer 21 Buchstabe a des Lebensmittel- und
+Futtermittelgesetzbuches wird bestraft, wer entgegen § 2 Satz 1 oder §
+4 Absatz 1 oder 2 Essig oder Essigessenz in den Verkehr bringt.
 
-1.  Nach § 59 Abs. 1 Nr. 21 Buchstabe a des Lebensmittel- und
-    Futtermittelgesetzbuches wird bestraft, wer entgegen § 4 Absatz 1 oder
-    2 Essig oder Essigessenz, die nicht oder nicht in der vorgeschriebenen
-    Weise gekennzeichnet sind, in den Verkehr bringt.
-
-
-2.  Wer eine in den Absätzen 1 und 2 bezeichnete Handlung fahrlässig
-    begeht, handelt nach § 60 Abs. 1 des Lebensmittel- und
-    Futtermittelgesetzbuches ordnungswidrig.
-
-
-
+(2) Wer eine in Absatz 1 bezeichnete Handlung fahrlässig begeht,
+handelt nach § 60 Absatz 1 Nummer 2 des Lebensmittel- und
+Futtermittelgesetzbuches ordnungswidrig.
 
 
 ## § 6 (weggefallen)

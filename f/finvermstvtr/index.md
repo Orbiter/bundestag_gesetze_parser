@@ -19,7 +19,7 @@ Fundstelle
 
 Stand: Der Staatsvertrag ist gem. Art. 9 Satz 2 iVm Bek. v. 8.7.2013 I 2236 am 4.7.2013 in Kraft getreten
 
-## (XXXX)
+## Eingangsformel
 
 Die Bundesrepublik Deutschland
 als Treuhandverwalterin des Finanzvermögens nach Artikel 22 des

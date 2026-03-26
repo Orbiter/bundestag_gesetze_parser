@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 28.8.1986 I 1455;
 
 Zuletzt geändert durch
-:   Art. 3 G v. 10.8.2021 I 3490
+:   Art. 17 G v. 15.7.2024 I Nr. 237
 
 
 ## § 1
@@ -584,8 +584,8 @@ Zivilprozeßordnung (§§ 373 bis 401 sowie 402 bis 414) entsprechend.
 Die Beweisverhandlungen sind unter Zuziehung eines beeidigten
 Protokollführers aufzunehmen. Eine mündliche Verhandlung findet nur
 statt, wenn ein Beteiligter dies beantragt oder das Deutsche Patent-
-und Markenamt dies für sachdienlich erachtet. § 128a der
-Zivilprozessordnung ist entsprechend anzuwenden.
+und Markenamt dies für sachdienlich erachtet. Die §§ 128a und 284
+Absatz 2 und 3 der Zivilprozessordnung sind entsprechend anzuwenden.
 
 (3) Die Gebrauchsmusterabteilung entscheidet durch Beschluss über den
 Antrag. Der Beschluss ist zu begründen. Er ist den Beteiligten von

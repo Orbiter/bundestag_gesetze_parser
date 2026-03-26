@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 26.6.2013 I 1750, 3245;
 
 Zuletzt geändert durch
-:   Art. 2 G v. 22.12.2023 I Nr. 405
-
-Änderung durch
-:   Art. 20 Nr. 1 G v. 9.12.2004 I 3220 war nicht ausführbar, da zu diesem Zeitpunkt keine amtliche Inhaltsübersicht existierte
+:   Art. 3 G v. 10.2.2026 I Nr. 40
 
 
 ## Teil 1 - Wettbewerbsbeschränkungen
@@ -1439,8 +1436,9 @@ Bundeskartellamt zur Ergreifung von Abhilfemaßnahmen nach den Absätzen
 3 und 4 des Einvernehmens der Bundesnetzagentur; die Bundesnetzagentur
 veröffentlicht hierzu jeweils eine Stellungnahme. Mögliche
 Abhilfemaßnahmen nach den Absätzen 3 und 4 sind bei der Prüfung im
-Rahmen der Marktanalyse nach § 11 Absatz 2 Nummer 3 des
-Telekommunikationsgesetzes nicht zu berücksichtigen.
+Rahmen der Marktanalyse nach § 37 Absatz 2 Nummer 3 des Postgesetzes
+und § 11 Absatz 2 Nummer 3 des Telekommunikationsgesetzes nicht zu
+berücksichtigen.
 
 (9) Das Bundesministerium für Wirtschaft und Klimaschutz berichtet den
 gesetzgebenden Körperschaften nach Ablauf von zehn Jahren nach
@@ -2847,7 +2845,7 @@ geführten Akten einschließlich Betriebs- und Geschäftsgeheimnisse und
 personenbezogener Daten nehmen, soweit dies zur ordnungsgemäßen
 Erfüllung ihrer Aufgaben erforderlich ist. Dies gilt auch für die
 Erstellung der Gutachten nach § 78 des Eisenbahnregulierungsgesetzes,
-§ 62 des Energiewirtschaftsgesetzes, § 44 des Postgesetzes sowie nach
+§ 62 des Energiewirtschaftsgesetzes, § 84 des Postgesetzes sowie nach
 § 195 Absatz 2 des Telekommunikationsgesetzes.
 
 (2b) Im Rahmen der Akteneinsicht kann die Monopolkommission bei der
@@ -2857,7 +2855,7 @@ personenbezogener Daten, selbstständig auswerten, soweit dies zur
 ordnungsgemäßen Erfüllung ihrer Aufgaben erforderlich ist. Dies gilt
 auch für die Erstellung der Gutachten nach § 78 des
 Eisenbahnregulierungsgesetzes, § 62 des Energiewirtschaftsgesetzes, §
-44 des Postgesetzes sowie nach § 195 Absatz 2 des
+84 des Postgesetzes sowie nach § 195 Absatz 2 des
 Telekommunikationsgesetzes.
 
 (3) Die Mitglieder der Monopolkommission und die Angehörigen der
@@ -3199,21 +3197,21 @@ Mitteilung über den Abschluss der Untersuchung anfordern.
 genannten Mitteilungspflichtigen der Mitteilungspflicht nach den
 Absätzen 2 bis 5:
 
-1.  Großhändler im Sinne des § 3 Nummer 21 des Energiewirtschaftsgesetzes,
+1.  Großhändler im Sinne des § 3 Nummer 55 des Energiewirtschaftsgesetzes,
 
 
-2.  Energieversorgungsunternehmen im Sinne des § 3 Nummer 18 des
+2.  Energieversorgungsunternehmen im Sinne des § 3 Nummer 39 des
     Energiewirtschaftsgesetzes,
 
 
-3.  Betreiber von Energieanlagen im Sinne des § 3 Nummer 15 des
+3.  Betreiber von Energieanlagen im Sinne des § 3 Nummer 32 des
     Energiewirtschaftsgesetzes, ausgenommen Betreiber von Verteileranlagen
     der Letztverbraucher oder bei der Gasversorgung Betreiber der letzten
     Absperrvorrichtungen von Verbrauchsanlagen,
 
 
-4.  Kunden im Sinne des § 3 Nummer 24 des Energiewirtschaftsgesetzes,
-    ausgenommen Haushaltskunden im Sinne des § 3 Nummer 22 des
+4.  Kunden im Sinne des § 3 Nummer 64 des Energiewirtschaftsgesetzes,
+    ausgenommen Haushaltskunden im Sinne des § 3 Nummer 57 des
     Energiewirtschaftsgesetzes und
 
 
@@ -3412,7 +3410,7 @@ und Kategorien von Daten übermitteln:
 
 
 (5) Die Markttransparenzstelle kann festlegen, dass Betreiber von
-Übertragungsnetzen im Sinne des § 3 Nummer 10 des
+Übertragungsnetzen im Sinne des § 3 Nummer 16 des
 Energiewirtschaftsgesetzes Angaben zu den folgenden Daten und
 Kategorien von Daten übermitteln:
 
@@ -3471,7 +3469,7 @@ Kategorien von Daten übermitteln:
 
 
 (8) Die Markttransparenzstelle kann festlegen, dass Großhändler im
-Sinne des § 3 Nummer 21 des Energiewirtschaftsgesetzes, die mit Strom
+Sinne des § 3 Nummer 55 des Energiewirtschaftsgesetzes, die mit Strom
 handeln, Angaben zu den in § 47e Absatz 2 Nummer 1 genannten
 Transaktionen übermitteln, soweit diese Transaktionen nicht von Absatz
 7 erfasst sind. Beim Handel mit Strom aus erneuerbaren Energien kann
@@ -3481,7 +3479,7 @@ des Erneuerbare-Energien-Gesetzes sowie zu den danach gehandelten
 Strommengen übermitteln.
 
 (9) Die Markttransparenzstelle kann festlegen, dass Großhändler im
-Sinne des § 3 Nummer 21 des Energiewirtschaftsgesetzes, die mit Erdgas
+Sinne des § 3 Nummer 55 des Energiewirtschaftsgesetzes, die mit Erdgas
 handeln, Angaben zu den folgenden Daten und Kategorien von Daten
 übermitteln:
 
@@ -3502,7 +3500,7 @@ handeln, Angaben zu den folgenden Daten und Kategorien von Daten
 5.  die getätigten Transaktionen mit Großhandelskunden und
     Fernleitungsnetzbetreibern sowie mit Betreibern von Speicheranlagen
     und Anlagen für verflüssigtes Erdgas (LNG-Anlagen) im Rahmen von
-    Gasversorgungsverträgen und Energiederivate nach § 3 Nummer 15a des
+    Gasversorgungsverträgen und Energiederivate nach § 3 Nummer 33 des
     Energiewirtschaftsgesetzes, die auf Gas bezogen sind, einschließlich
     Laufzeit, Menge, Datum und Uhrzeit der Ausführung, Laufzeit-, Liefer-
     und Abrechnungsbestimmungen und Transaktionspreisen,
@@ -3521,7 +3519,7 @@ handeln, Angaben zu den folgenden Daten und Kategorien von Daten
 
 
 (10) Die Markttransparenzstelle kann festlegen, dass Betreiber von
-Fernleitungsnetzen im Sinne des § 3 Nummer 5 des
+Fernleitungsnetzen im Sinne des § 3 Nummer 11 des
 Energiewirtschaftsgesetzes Angaben zu folgenden Daten und Kategorien
 von Daten übermitteln:
 
@@ -3537,7 +3535,7 @@ von Daten übermitteln:
 
 
 (11) Die Markttransparenzstelle kann festlegen, dass
-Marktgebietsverantwortliche im Sinne des § 3 Nummer 26a des
+Marktgebietsverantwortliche im Sinne des § 3 Nummer 72 des
 Energiewirtschaftsgesetzes Angaben zu folgenden Daten und Kategorien
 von Daten übermitteln:
 
@@ -3605,7 +3603,7 @@ folgenden Stellen zusammen:
 
 2.  den Börsenaufsichtsbehörden sowie Handelsüberwachungsstellen
     derjenigen Börsen, an denen Elektrizität und Gas sowie Energiederivate
-    im Sinne des § 3 Nummer 15a des Energiewirtschaftsgesetzes gehandelt
+    im Sinne des § 3 Nummer 33 des Energiewirtschaftsgesetzes gehandelt
     werden,
 
 
@@ -3632,7 +3630,7 @@ Bundesministeriums für Wirtschaft und Energie
 Kooperationsvereinbarungen mit der Bundesanstalt für
 Finanzdienstleistungsaufsicht, den Börsenaufsichtsbehörden sowie
 Handelsüberwachungsstellen derjenigen Börsen, an denen Elektrizität
-und Gas sowie Energiederivate im Sinne des § 3 Nummer 15a des
+und Gas sowie Energiederivate im Sinne des § 3 Nummer 33 des
 Energiewirtschaftsgesetzes gehandelt werden, und der Agentur für die
 Zusammenarbeit der Energieregulierungsbehörden schließen.
 
@@ -3916,7 +3914,15 @@ Durchsuchungen und Vernehmungen mitzuwirken, die das Bundeskartellamt
 im Namen und für Rechnung dieser Wettbewerbsbehörde nach Artikel 22
 Absatz 1 der Verordnung (EG) Nr. 1/2003 durchführt.
 
-(4) In anderen als in den Absätzen 1 bis 3 bezeichneten Fällen nimmt
+(4) Das Bundeskartellamt nimmt die Aufgaben und Befugnisse nach
+Artikel 14 Absatz 5 bis 7 der Verordnung (EU) 2022/2560 wahr. Die bei
+der Anwendung dieses Gesetzes maßgeblichen Verfahrensvorschriften
+gelten entsprechend. Die erhobenen Informationen dürfen in
+entsprechender Anwendung des § 50d mit der Europäischen Kommission und
+den Wettbewerbsbehörden der anderen Mitgliedstaaten der Europäischen
+Union ausgetauscht und verwendet werden.
+
+(5) In anderen als in den Absätzen 1 bis 4 bezeichneten Fällen nimmt
 das Bundeskartellamt die Aufgaben wahr, die den Behörden der
 Mitgliedstaaten der Europäischen Union in den Artikeln 104 und 105 des
 Vertrages über die Arbeitsweise der Europäischen Union sowie in
@@ -4295,8 +4301,8 @@ austauschen. Dies gilt nicht
 
 
 2.  für Informationen, die nach § 50d dieses Gesetzes, nach der Verordnung
-    (EU) 2022/1925 oder nach Artikel 12 der Verordnung (EG) Nr. 1/2003
-    erlangt worden sind.
+    (EU) 2022/1925 nach der Verordnung (EU) 2022/2560 oder nach Artikel 12
+    der Verordnung (EG) Nr. 1/2003 erlangt worden sind.
 
 
 
@@ -5147,7 +5153,7 @@ Verletzung des rechtlichen Gehörs zu erheben; der Zeitpunkt der
 Kenntniserlangung ist glaubhaft zu machen. Nach Ablauf eines Jahres
 seit Bekanntgabe der angegriffenen Entscheidung kann die Rüge nicht
 mehr erhoben werden. Formlos mitgeteilte Entscheidungen gelten mit dem
-dritten Tage nach Aufgabe zur Post als bekannt gegeben. Die Rüge ist
+vierten Tage nach Aufgabe zur Post als bekannt gegeben. Die Rüge ist
 schriftlich oder zur Niederschrift des Urkundsbeamten der
 Geschäftsstelle bei dem Gericht zu erheben, dessen Entscheidung
 angegriffen wird. Die Rüge soll die angegriffene Entscheidung
@@ -7138,7 +7144,9 @@ erheblich beeinträchtigt wird. Keine besonderen oder ausschließlichen
 Rechte in diesem Sinne sind Rechte, die aufgrund eines Verfahrens nach
 den Vorschriften dieses Teils oder aufgrund eines sonstigen Verfahrens
 gewährt wurden, das angemessen bekannt gemacht wurde und auf
-objektiven Kriterien beruht.
+objektiven Kriterien beruht. Zu den in Satz 2 genannten Verfahren
+zählen dabei insbesondere solche, die in Anhang II der Richtlinie
+2014/25/EU genannt sind.
 
 (3) Die Ausübung eines beherrschenden Einflusses im Sinne von Absatz 1
 Nummer 2 Buchstabe b wird vermutet, wenn ein öffentlicher Auftraggeber
@@ -7168,18 +7176,20 @@ gemäß § 99 Nummer 1 bis 3
 
 
 2.  Sektorenauftraggeber gemäß § 100 Absatz 1 Nummer 1, die eine
-    Sektorentätigkeit gemäß § 102 Absatz 2 bis 6 ausüben und eine
+    Sektorentätigkeit gemäß § 102 Absatz 2 bis 7 ausüben und eine
     Konzession zum Zweck der Ausübung dieser Tätigkeit vergeben,
 
 
 3.  Sektorenauftraggeber gemäß § 100 Absatz 1 Nummer 2, die eine
-    Sektorentätigkeit gemäß § 102 Absatz 2 bis 6 ausüben und eine
+    Sektorentätigkeit gemäß § 102 Absatz 2 bis 7 ausüben und eine
     Konzession zum Zweck der Ausübung dieser Tätigkeit vergeben.
 
 
 
 
-(2) § 100 Absatz 2 und 3 gilt entsprechend.
+(2) § 100 Absatz 2 und 3 gilt entsprechend. Zu den in § 100 Absatz 2
+Satz 2 genannten Verfahren zählen dabei insbesondere solche, die in
+Anhang III der Richtlinie 2014/23/EU genannt sind.
 
 
 ##### § 102 Sektorentätigkeiten
@@ -7294,7 +7304,42 @@ Zweck
 
 
 
-(7) Für die Zwecke der Absätze 1 bis 3 umfasst der Begriff
+(7) Sektorentätigkeiten im Bereich Postdienstleistungen sind
+
+1.  Postdienste,
+
+
+2.  andere Dienste als Postdienste, vorausgesetzt, dass diese
+    Dienstleistungen von einer Stelle erbracht werden, die auch
+    Postdienste im Sinne der Sätze 2 und 3 erbringt, und dass die in § 140
+    Absatz 1 genannten Bedingungen hinsichtlich der Dienstleistungen nach
+    den Sätzen 2 und 3 nicht erfüllt sind.
+
+
+
+Postdienste im Sinne dieses Gesetzes sind Dienste, die die Abholung,
+das Sortieren, den Transport und die Zustellung von Postsendungen
+betreffen. Dies umfasst sowohl Dienstleistungen, die
+Universaldienstleistungen im Sinne der Richtlinie 97/67/EG darstellen,
+als auch andere Dienstleistungen. Postsendungen im Sinne dieses
+Gesetzes sind adressierte Sendungen in der endgültigen Form, in der
+sie befördert werden, ungeachtet ihres Gewichts. Neben Briefsendungen
+handelt es sich dabei beispielsweise um Bücher, Kataloge, Zeitungen
+und Zeitschriften sowie um Postpakete, die Waren mit oder ohne
+Handelswert enthalten, ungeachtet ihres Gewichts. Andere Dienste als
+Postdienste im Sinne dieses Gesetzes sind
+
+1.  Managementdienste für Postversandstellen (Dienste vor dem Versand und
+    nach dem Versand wie beispielsweise Mailroom Management) sowie
+
+
+2.  Dienste, die nicht unter Satz 4 erfasste Sendungen wie etwa nicht
+    adressierte Postwurfsendungen betreffen.
+
+
+
+
+(8) Für die Zwecke der Absätze 1 bis 3 umfasst der Begriff
 „Einspeisung“ die Erzeugung und Produktion sowie den Groß- und
 Einzelhandel. Die Erzeugung von Gas fällt unter Absatz 6.
 
@@ -7832,11 +7877,13 @@ nicht trennbar,
     jeweiligen Dienst- oder Lieferleistungen höher ist,
 
 
-2.  kann der Auftrag ohne Anwendung der Vorschriften dieses Teils oder
-    gemäß den Vorschriften über die Vergabe von verteidigungs- oder
-    sicherheitsspezifischen öffentlichen Aufträgen vergeben werden, wenn
-    der Auftrag Elemente enthält, auf die § 107 Absatz 2 Nummer 1 oder 2
-    anzuwenden ist.
+2.  kann der Auftrag oder die Konzession ohne Anwendung der Vorschriften
+    dieses Teils vergeben werden, wenn darin Elemente enthalten sind, auf
+    die § 107 Absatz 2 Nummer 1 oder 2 anzuwenden ist; der Auftrag oder
+    die Konzession kann auch gemäß den Vorschriften über die Vergabe von
+    verteidigungs- oder sicherheitsspezifischen öffentlichen Aufträgen
+    oder gemäß den Vorschriften über die Vergabe von Konzessionen vergeben
+    werden.
 
 
 
@@ -8124,6 +8171,35 @@ Wettbewerbe anzuwenden, die hauptsächlich den Zweck haben, dem
 mehrerer elektronischer Kommunikationsdienste für die Öffentlichkeit
 zu ermöglichen.
 
+(3) Dieser Teil ist darüber hinaus ebenfalls nicht anzuwenden auf die
+Vergabe von öffentlichen Aufträgen, wenn sie von einem öffentlichen
+Auftraggeber vergeben werden, der Postdienste im Sinne des § 102
+Absatz 7 erbringt, die der Durchführung einer der folgenden
+Tätigkeiten dienen:
+
+1.  Mehrwertdienste, die mit elektronischen Mitteln verknüpft sind und
+    gänzlich mit diesen Mitteln erbracht werden (einschließlich der
+    abgesicherten Übermittlung von verschlüsselten Dokumenten mit
+    elektronischen Mitteln, Adressenverwaltungsdiensten und der
+    Übermittlung von registrierten E-Mail-Sendungen),
+
+
+2.  Finanzdienstleistungen im Zusammenhang mit der Ausgabe, dem Verkauf,
+    dem Kauf oder der Übertragung von Wertpapieren oder anderen
+    Finanzinstrumenten, sowie gemäß den CPV-Codes 6610 00 00-1 bis
+    66720000-3, insbesondere Postanweisungen und -überweisungen,
+
+
+3.  philatelistische Dienstleistungen oder
+
+
+4.  logistische Dienstleistungen, bei denen die materielle Auslieferung,
+    Lagerung oder eine Kombination des Vorgenannten mit anderen nicht
+    postalischen Aufgaben kombiniert wird.
+
+
+
+
 
 ###### § 117 Besondere Ausnahmen für Vergaben, die Verteidigungs- oder Sicherheitsaspekte umfassen
 
@@ -8384,7 +8460,8 @@ Straftat nach:
 
 
 7.  § 108e des Strafgesetzbuchs (Bestechlichkeit und Bestechung von
-    Mandatsträgern),
+    Mandatsträgern) oder § 108f des Strafgesetzbuchs (unzulässige
+    Interessenwahrnehmung),
 
 
 8.  den §§ 333 und 334 des Strafgesetzbuchs (Vorteilsgewährung und
@@ -8916,12 +8993,16 @@ ist.
 (2) Die Unwirksamkeit nach Absatz 1 kann nur festgestellt werden, wenn
 sie im Nachprüfungsverfahren innerhalb von 30 Kalendertagen nach der
 Information der betroffenen Bieter und Bewerber durch den öffentlichen
-Auftraggeber über den Abschluss des Vertrags, jedoch nicht später als
-sechs Monate nach Vertragsschluss geltend gemacht worden ist. Hat der
-Auftraggeber die Auftragsvergabe im Amtsblatt der Europäischen Union
-bekannt gemacht, endet die Frist zur Geltendmachung der Unwirksamkeit
-30 Kalendertage nach Veröffentlichung der Bekanntmachung der
-Auftragsvergabe im Amtsblatt der Europäischen Union.
+Auftraggeber über den Abschluss des Vertrags einschließlich einer
+Zusammenfassung der einschlägigen Gründe entsprechend § 134 Absatz 1
+Satz 1 unter Berücksichtigung von Absatz 3 Satz 2, jedoch nicht später
+als sechs Monate nach Vertragsschluss geltend gemacht worden ist. Hat
+der Auftraggeber die Auftragsvergabe im Amtsblatt der Europäischen
+Union bekannt gemacht, endet die Frist zur Geltendmachung der
+Unwirksamkeit 30 Kalendertage nach Veröffentlichung der Bekanntmachung
+der Auftragsvergabe im Amtsblatt der Europäischen Union, sofern in der
+Bekanntmachung die Angaben entsprechend Absatz 3 Satz 2 enthalten
+sind.
 
 (3) Die Unwirksamkeit nach Absatz 1 Nummer 2 tritt nicht ein, wenn
 
@@ -10519,31 +10600,90 @@ im Krankenhausbereich, soweit
 
 
 2.  dem Zusammenschluss keine anderen wettbewerbsrechtlichen Vorschriften
-    entgegenstehen und dies das Land bei Antragstellung nach § 14 Absatz 2
-    Nummer 3 Buchstabe a der Krankenhausstrukturfonds-Verordnung bestätigt
-    hat,
+    entgegenstehen und dies das Land bei Antragstellung nach der
+    Krankenhausstrukturfonds-Verordnung bestätigt hat,
 
 
 3.  das Vorliegen der weiteren Voraussetzungen für eine Förderung nach §
     12a Absatz 1 Satz 4 des Krankenhausfinanzierungsgesetzes in Verbindung
-    mit § 11 Absatz 1 Nummer 2 der Krankenhausstrukturfonds-Verordnung in
-    einem Auszahlungsbescheid nach § 15 der Krankenhausstrukturfonds-
-    Verordnung festgestellt wurde und
+    mit § 11 Absatz 1 Nummer 2 der Krankenhausstrukturfonds-Verordnung
+    oder nach § 12b Absatz 1 Satz 4 Nummer 1 des
+    Krankenhausfinanzierungsgesetzes in einem Auszahlungsbescheid auf der
+    Grundlage der Krankenhausstrukturfonds-Verordnung festgestellt wurde
+    und
 
 
-4.  der Zusammenschluss bis zum 31. Dezember 2027 vollzogen wird.
+4.  der Zusammenschluss bis zum 31. Dezember 2038 vollzogen wird.
 
 
 
-Ein Zusammenschluss im Sinne des Satzes 1 ist dem Bundeskartellamt
+Werden Zusammenschlüsse im Krankenhausbereich beim Bundeskartellamt
+nach § 39 Absatz 1 angemeldet, ist das Bundeskartellamt darüber zu
+informieren, inwieweit ein Antrag auf Förderung aus den Mitteln des
+Krankenhausstrukturfonds oder des Transformationsfonds gestellt wurde;
+ein Zusammenschluss im Sinne des Satzes 1 ist dem Bundeskartellamt
 nach Vollzug anzuzeigen. Für die Evaluierung dieser Regelung sind die
 §§ 32e und 21 Absatz 3 Satz 8 des Krankenhausentgeltgesetzes
 entsprechend anzuwenden. Für die Zwecke der Evaluierung und zur
 Untersuchung der Auswirkungen dieser Regelung auf die
 Wettbewerbsverhältnisse und die Versorgungsqualität können Daten aus
-der amtlichen Krankenhausstatistik zusammengeführt werden.
+der amtlichen Krankenhausstatistik zusammengeführt werden. Diese
+Regelung ist anzuwenden auf Zusammenschlüsse, die ab dem 1. Januar
+2031 vollzogen werden.
 
-(10) Das Bundesministerium für Wirtschaft und Klimaschutz wird
+(10) Die §§ 35 bis 41 sind nicht anzuwenden auf einen Zusammenschluss
+im Krankenhausbereich, sofern
+
+1.  der Zusammenschluss eine standortübergreifende Konzentration von
+    mehreren Krankenhäusern im Sinne des § 2 Nummer 1 des
+    Krankenhausfinanzierungsgesetzes oder einzelnen Fachrichtungen solcher
+    Krankenhäuser zum Gegenstand hat,
+
+
+2.  die für die Krankenhausplanung zuständigen Landesbehörden der
+    Bundesländer, in denen die am Zusammenschluss beteiligten
+    Krankenhäuser oder einzelnen Fachrichtungen solcher Krankenhäuser
+    belegen sind, – im Falle der Zuständigkeit mehrerer Landesbehörden
+    einvernehmlich – schriftlich bestätigen, dass sie den Zusammenschluss
+    zur Verbesserung der Krankenhausversorgung für erforderlich halten und
+    dem Zusammenschluss nach vorliegenden Erkenntnissen keine anderen
+    wettbewerbsrechtlichen Vorschriften entgegenstehen,
+
+
+3.  der Zusammenschluss bis zum 31. Dezember 2030 vollzogen wird.
+
+
+
+Anträge auf schriftliche Bestätigung nach Satz 1 Nummer 2 sind
+unverzüglich durch die zuständigen Landesministerien auf ihren
+Internetseiten unter Nennung der Zusammenschlussbeteiligten zu
+veröffentlichen. Die für die Krankenhausplanung zuständigen
+Landesbehörden der Bundesländer setzen sich mit dem Bundeskartellamt
+vor einer Bestätigung nach Satz 1 Nummer 2 ins Benehmen. Über den
+Antrag nach Satz 1 Nummer 2 darf nicht vor Ablauf von einem Monat nach
+der Veröffentlichung entschieden werden. Eine Anmeldung eines
+Zusammenschlusses im Sinne des Satzes 1 Nummer 1 und 3 ist beim
+Bundeskartellamt nach § 39 Absatz 1 erst dann zulässig, wenn die
+Zusammenschlussparteien gegenüber dem Bundeskartellamt nachweisen,
+dass ihr Antrag auf schriftliche Bestätigung nach Satz 1 Nummer 2
+durch die zuständigen Landesbehörden abgelehnt oder nicht innerhalb
+von zwei Monaten beschieden wurde. Das Bundesministerium für
+Wirtschaft und Klimaschutz berichtet auf Grundlage einer Stellungnahme
+der Monopolkommission den gesetzgebenden Körperschaften spätestens
+nach Ablauf von sechs Jahren nach Inkrafttreten der Regelungen in den
+Sätzen 1 bis 4 über die Erfahrungen mit dieser Vorschrift. Für
+Datenanforderungen des Bundesministeriums für Wirtschaft und
+Klimaschutz und der Monopolkommission zur Evaluierung im Sinne dieses
+Absatzes ist § 21 Absatz 3 Satz 8 des Krankenhausentgeltgesetzes
+entsprechend anzuwenden, soweit die Krankenhäuser von einem
+Zusammenschluss im Sinne des Satzes 1 betroffen sind. § 21 Absatz 3
+Satz 9 des Krankenhausentgeltgesetzes findet insofern keine Anwendung.
+Für die Zwecke der Evaluierung und zur Untersuchung der Auswirkungen
+dieser Regelungen auf die Wettbewerbsverhältnisse und die
+Krankenhausversorgung können Daten aus der amtlichen
+Krankenhausstatistik zusammengeführt werden.
+
+(11) Das Bundesministerium für Wirtschaft und Klimaschutz wird
 ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates im
 Hinblick auf das Abkommen zwischen dem Bundesministerium für
 Wirtschaft und Klimaschutz der Bundesrepublik Deutschland und dem
@@ -10576,7 +10716,7 @@ Bildung und Forschung der Schweizerischen Eidgenossenschaft über
 Zusammenarbeit und Koordinierung der Wettbewerbsbehörden und dessen
 Fundstelle im Bundesgesetzblatt bekannt.
 
-(11) Das Bundeskartellamt kann eine Verfügung nach § 32f Absatz 2 auch
+(12) Das Bundeskartellamt kann eine Verfügung nach § 32f Absatz 2 auch
 auf der Grundlage einer Sektoruntersuchung nach § 32e erlassen, die am
 7\. November 2023 bereits abgeschlossen war, wenn die Veröffentlichung
 des Abschlussberichts nach § 32e Absatz 4 zu diesem Zeitpunkt weniger

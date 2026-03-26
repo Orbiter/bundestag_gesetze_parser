@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2011, 2481
 
 Zuletzt geändert durch
-:   Art. 12 G v. 11.12.2023 I Nr. 354
+:   Art. 22 G v. 4.2.2026 I Nr. 33
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
@@ -33,7 +33,13 @@ Europäische Schwarmfinanzierungsdienstleister für Unternehmen und zur
 2019/1937 (ABl. L 347 vom 20.10.2020, S. 1), in der jeweils geltenden
 Fassung, zugelassenen Schwarmfinanzierungsdienstleister unterbreitet
 wird, sofern es nicht den in Artikel 1 Absatz 2 Buchstabe c jener
-Verordnung genannten Schwellenwert übersteigt.
+Verordnung genannten Schwellenwert übersteigt. Dieses Gesetz gilt auch
+nicht, soweit ein Sachverhalt von der Verordnung (EU) 2023/1114 des
+Europäischen Parlaments und des Rates vom 31. Mai 2023 über Märkte für
+Kryptowerte und zur Änderung der Verordnungen (EU) Nr. 1093/2010 und
+(EU) Nr. 1095/2010 sowie der Richtlinien 2013/36/EU und (EU) 2019/1937
+(ABl. L 150 vom 9.6.2023, S. 40) in der jeweils geltenden Fassung
+geregelt ist.
 
 (2) Vermögensanlagen im Sinne dieses Gesetzes sind nicht in
 Wertpapieren im Sinne des Wertpapierprospektgesetzes verbriefte und
@@ -232,11 +238,12 @@ gestellt werden.
 3 Satz 1, die §§ 15a, 17 Absatz 1 und 2, § 18 Absatz 1 Nummer 2 bis 6,
 § 19 Absatz 1 Nummer 2, die §§ 20, 21, 23 Absatz 2 Nummer 2 und 4, §
 24 Absatz 5 bis 8 und § 25 sind nicht anzuwenden auf Vermögensanlagen
-im Sinne von § 1 Absatz 2 Nummer 3 bis 5 und 7, wenn der Verkaufspreis
-sämtlicher in einem Zeitraum von zwölf Monaten angebotenen
-Vermögensanlagen desselben Emittenten 6 Millionen Euro nicht
-übersteigt; nicht verkaufte oder vollständig getilgte Vermögensanlagen
-werden nicht angerechnet.
+im Sinne von § 1 Absatz 2 Nummer 3 bis 5 und 7 und auf Anteile an
+einer Genossenschaft im Sinne des § 1 des Genossenschaftsgesetzes,
+wenn der Verkaufspreis sämtlicher in einem Zeitraum von zwölf Monaten
+angebotenen Vermögensanlagen desselben Emittenten 6 Millionen Euro
+nicht übersteigt; nicht verkaufte oder vollständig getilgte
+Vermögensanlagen werden nicht angerechnet.
 
 (2) § 23 Absatz 2 Nummer 1 ist im Fall des Absatzes 1 mit der Maßgabe
 anzuwenden, dass der Jahresabschluss nicht von einem Abschlussprüfer

@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2009, 1292
 
 Zuletzt geändert durch
-:   Art. 5 G v. 16.10.2023 I Nr. 280
+:   Art. 1 V v. 15.1.2025 I Nr. 12
 
 [^F772203_01_BJNR129200009]:     Die Verpflichtungen aus der Richtlinie 98/34/EG des Europäischen
     Parlaments und des Rates vom 22. Juni 1998 über ein
@@ -247,7 +247,8 @@ bevollmächtigte Bezirksschornsteinfeger hat den Termin der
 Feuerstättenschau spätestens fünf Werktage vor der Durchführung
 anzukündigen, soweit nicht die Eigentümerin oder der Eigentümer des
 Grundstücks oder der Räume oder deren Beauftragter auf die Ankündigung
-verzichtet.
+verzichtet. Bei der Ankündigung ist die durchführende Person oder der
+Kreis möglicher durchführender Personen namentlich anzugeben.
 
 (2) Die zuständige bevollmächtigte Bezirksschornsteinfegerin oder der
 zuständige bevollmächtigte Bezirksschornsteinfeger setzt die Zeiträume
@@ -318,13 +319,17 @@ Monat zusammen.
 
 
 4.  Mahnung rückständiger Gebühren nach § 20 Absatz 1 Satz 2 des
-    Schornsteinfeger-Handwerksgesetzes sowie
+    Schornsteinfeger-Handwerksgesetzes,
 
 
-5.  Ersatzvornahme nach § 26 des Schornsteinfeger-Handwerksgesetzes.
+5.  Ersatzvornahme nach § 26 des Schornsteinfeger-Handwerksgesetzes,
 
 
-6.  anlassbezogene Überprüfung nach § 1 Absatz 8,
+6.  Ablehnung eines Antrags auf Herabsetzung der Kehrhäufigkeit nach § 1
+    Absatz 5a, sowie
+
+
+7.  anlassbezogene Überprüfung nach § 1 Absatz 8.
 
 
 
@@ -335,7 +340,7 @@ Gebührenrechnung nicht bezahlt wurde. Die Mahngebühr nach Absatz 1
 Nummer 4 darf nur einmal je fällige Gebührenrechnung erhoben werden.
 
 (3) Die Gebührensätze richten sich nach den in Anlage 3 festgesetzten
-Arbeitswerten. Der Arbeitswert beträgt 1,20 Euro zuzüglich der
+Arbeitswerten. Der Arbeitswert beträgt 1,40 Euro zuzüglich der
 gesetzlichen Umsatzsteuer.
 
 
@@ -2150,6 +2155,14 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
     *   2,0
 
 
+*    *   1.4
+
+    *   Ablehnung eines Antrags auf Herabsetzung der Kehrhäufigkeit nach § 1
+        Absatz 5a
+
+    *   25,0
+
+
 *    *   **2**
 
     *   **Feuerstättenschau**                      (§ 14 Absatz 1 SchfHwG)
@@ -2320,29 +2333,56 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
         musste, weiterhin betrieben wird (§ 14 Absatz 1 SchfHwG, § 97 Absatz 1
         Nummer 1 GEG)
 
+    *
+
+*    *   3.3.1
+
+    *   Überprüfung des Vorliegens von Ausnahmetatbeständen
+
     *   1,5
+
+
+*    *   3.3.2
+
+    *   bei Feststellung eines Verstoßes
+
+    *   9,0
 
 
 *    *   3.4
 
     *   Überprüfung, ob Wärmeverteilungs- und Warmwasserleitungen, die gedämmt
-        werden mussten, weiterhin ungedämmt sind (§ 14 Absatz 1 SchfHwG, § 97
+        werden mussten, weiterhin ungedämmt sind (§ 14 Absatz 1 SchfHwG, § 97
         Absatz 1 Nummer 2 GEG)
 
+    *
+
+*    *   3.4.1
+
+    *   Überprüfung des Vorliegens von Ausnahmetatbeständen
+
     *   1,5
+
+
+*    *   3.4.2
+
+    *   bei Feststellung eines Verstoßes
+
+    *   9,0
 
 
 *    *   3.5
 
     *   Überprüfung, ob die Abrechnungen und Bestätigungen nach § 96 Absatz 5
-        GEG vorliegen (§ 14 Absatz 1 SchfHwG, § 97 Absatz 1 Nummer 3 GEG)
+        GEG vorliegen (§ 14 Absatz 1 SchfHwG, § 97 Absatz 1 Nummer 3 GEG), je
+        Gasliefervertrag, Öllager oder Brennstofflager (feste Brennstoffe)
 
     *   10,0
 
 
 *    *   3.6
 
-    *   Überprüfung des Verschlechterungsverbots (§ 14 Absatz 1 SchfHwG, § 97
+    *   Überprüfung des Verschlechterungsverbots (§ 14 Absatz 1 SchfHwG, § 97
         Absatz 2 Nummer 1 GEG)
 
     *
@@ -2371,17 +2411,32 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
 *    *   3.8
 
-    *   Überprüfung, ob die Anforderungen nach den §§ 71 bis 71m eingehalten
-        worden sind (§ 14 Absatz 1 SchfHwG, § 97 Absatz 2 Nummer 3 GEG)
+    *   Überprüfung, ob die Anforderungen nach den §§ 71 bis 71m GEG
+        eingehalten worden sind (§ 14 Absatz 1 SchfHwG, § 97 Absatz 2 Nummer 3
+        GEG), je Gaszähler, Öllager oder Brennstofflager (feste Brennstoffe)
+
+    *
+
+*    *   3.8.1
+
+    *   Grundwert
 
     *   8,0
+
+
+*    *   3.8.2
+
+    *   Zuschlag bei Überprüfung von Abrechnungen und Bescheinigungen im Sinne
+        des § 96 Absatz 5 GEG, soweit nicht bereits von Nummer 3.5 erfasst
+
+    *   10,0
 
 
 *    *   3.9
 
     *   Überprüfung der Begrenzung der Wärmeabgabe bei Wärmeverteilungs- und
-        Warmwasserleitungen sowie Armaturen (§ 14 Absatz 1 SchfHwG, § 97
-        Absatz 2 Nummer 4 GEG)
+        Warmwasserleitungen sowie Armaturen (§ 14 Absatz 1 SchfHwG, § 97
+        Absatz 2 Nummer 4 GEG)
 
     *   2,0
 
@@ -2389,34 +2444,69 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 *    *   3.10
 
     *   Überprüfung, ob die Anforderungen an den Einbau von Heizungsanlagen
-        bei Nutzung von fester Biomasse eingehalten werden (§ 14 Absatz 1
+        bei Nutzung von fester Biomasse eingehalten werden (§ 14 Absatz 1
         SchfHwG, § 97 Absatz 2 Nummer 5 GEG)
+
+    *
+
+*    *   3.10.1
+
+    *   Grundwert
 
     *   2,0
 
 
+*    *   3.10.2
+
+    *   Zuschlag bei Überprüfung von Abrechnungen und Bescheinigungen im Sinne
+        des § 96 Absatz 5 GEG, soweit nicht bereits von Nummer 3.5 erfasst
+
+    *   10,0
+
+
 *    *   3.11
 
-    *   Überprüfung, ob die Anforderungen an den Einbau von Wärmepumpen- und
+    *   Überprüfung, ob die Anforderungen an den Einbau von Wärmepumpen- oder
         Solarthermie-Hybridheizungen eingehalten werden (§ 14 Absatz 1
         SchfHwG, § 97 Absatz 2 Nummer 6 GEG)
 
+    *
+
+*    *   3.11.1
+
+    *   Grundwert
+
     *   8,0
+
+
+*    *   3.11.2
+
+    *   Zuschlag bei Überprüfung von Abrechnungen und Bescheinigungen im Sinne
+        des § 96 Absatz 5 GEG, soweit nicht bereits von Nummer 3.5 erfasst
+
+    *   10,0
 
 
 *    *   3.12
 
     *   Überprüfung, ob der Eigentümer zur Nachrüstung der Ausstattung von
-        Zentralheizungen in bestehenden Gebäuden verpflichtet ist und ob diese
+        Zentralheizungen in bestehenden Gebäuden verpflichtet ist und diese
         Pflicht erfüllt wurde (§ 14 Absatz 1 SchfHwG, § 97 Absatz 4 GEG)
 
     *   7,0
 
 
+*    *
+    *   Anmerkung:
+        Diese Gebühr fällt nach der Feststellung, dass die Verpflichtung nicht
+        vorliegt oder erfüllt wurde, nicht erneut an.
+
+    *
+
 *    *   3.13
 
     *   Anlassbezogene Überprüfung der Verbrennungsluftversorgung oder der
-        Rauch- oder Abgasführung nach baulichen Maßnahmen (§ 1 Absatz 8),
+        Rauch- oder Abgasführung nach baulichen Maßnahmen (§ 1 Absatz 8),
         soweit eine Bescheinigung über das Ergebnis ausgestellt wird, je
         Arbeitsminute
 
@@ -2425,14 +2515,14 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
 *    *   3.13.1
 
-    *   bei Überprüfung nach Aktenlage pro Nutzungseinheit, jedoch maximal
+    *   bei Überprüfung nach Aktenlage pro Nutzungseinheit jedoch maximal
 
     *   35,0
 
 
 *    *   3.13.2
 
-    *   bei Überprüfung mit Termin vor Ort pro Nutzungseinheit, jedoch maximal
+    *   bei Überprüfung mit Termin vor Ort pro Nutzungseinheit jedoch maximal
 
     *   45,0
 

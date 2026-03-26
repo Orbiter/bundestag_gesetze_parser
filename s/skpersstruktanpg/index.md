@@ -53,7 +53,7 @@ fahrlässig vereitelt.
 zum 31. Dezember 2017 Berufssoldatinnen und Berufssoldaten auf Antrag
 Urlaub längstens für drei Jahre unter Fortfall der Geld- und
 Sachbezüge gewährt werden, um eine Tätigkeit auszuüben, die keine
-Verwendung im Sinne des § 53 Absatz 6 des Soldatenversorgungsgesetzes
+Verwendung im Sinne des § 68 Absatz 4 des Soldatenversorgungsgesetzes
 ist. Die Beurlaubung dient dienstlichen Interessen.
 
 (4) Zur Verringerung der Zahl der Soldatinnen und Soldaten kann bis
@@ -62,12 +62,12 @@ dienstliche Belange dem nicht entgegenstehen, auf Antrag bis zum
 Beginn des Ruhestandes Urlaub unter Fortfall der Geld- und Sachbezüge
 gewährt werden
 
-1.  für eine Tätigkeit, die keine Verwendung im Sinne des § 53 Absatz 6
+1.  für eine Tätigkeit, die keine Verwendung im Sinne des § 68 Absatz 4
     des Soldatenversorgungsgesetzes ist, oder
 
 
 2.  für eine Tätigkeit als Tarifbeschäftigte oder Tarifbeschäftigter in
-    dem von § 53 Absatz 6 Satz 2 und 3 des Soldatenversorgungsgesetzes
+    dem von § 68 Absatz 4 Satz 2 und 3 des Soldatenversorgungsgesetzes
     erfassten Bereich.
 
 
@@ -96,9 +96,9 @@ Beitragsbemessungsgrundlage gilt Absatz 5 Satz 3 entsprechend.
 
 ### § 2 Versetzung in den Ruhestand vor Erreichen der Altersgrenze
 
-(1) Bis zum 31. Dezember 2017 können bis zu
-2 170 Berufssoldatinnen              und Berufssoldaten mit ihrer
-Zustimmung in den Ruhestand versetzt werden, wenn
+(1) Bis zum 31. Dezember 2017 können bis zu 2 170 Berufssoldatinnen
+und Berufssoldaten mit ihrer Zustimmung in den Ruhestand versetzt
+werden, wenn
 
 1.  dies zur Verringerung der Zahl der Soldatinnen und Soldaten
     erforderlich ist,
@@ -129,7 +129,7 @@ Versetzung in den Ruhestand abweichend von Satz 1 Nummer 1 auch zur
 Verjüngung des Personalkörpers erfolgen kann.
 
 (2) Als Dienstzeit im Sinne des Absatzes 1 werden Zeiten im Sinne des
-§ 15 Absatz 2 und des § 23 Absatz 1 des Soldatenversorgungsgesetzes
+§ 27 Absatz 2 und des § 35 Absatz 1 des Soldatenversorgungsgesetzes
 berücksichtigt, soweit sie ruhegehaltfähig sind.
 
 (3) Die Versetzung in den Ruhestand wird von der Stelle verfügt, die
@@ -189,7 +189,7 @@ anrechnungsfähige Dienstzeit
 (3) Anrechnungsfähig sind die Dienstzeiten, die beim abgebenden
 Dienstherrn und bei früheren Dienstherren zurückgelegt worden sind,
 soweit sie ruhegehaltfähig sind. Anrechnungsfähig sind auch
-Dienstzeiten nach § 64 Absatz 1 Satz 1 Nummer 4 des
+Dienstzeiten nach § 92 Absatz 1 Satz 1 Nummer 4 des
 Soldatenversorgungsgesetzes, die die Soldatin oder der Soldat vor dem
 3\. Oktober 1990 in dem in Artikel 3 des Einigungsvertrages genannten
 Gebiet zurückgelegt hat. Die gesamte anrechnungsfähige Dienstzeit ist
@@ -258,32 +258,32 @@ Kalendermonate jeweils ein Zwölftel von 10 000 Euro gewährt.
 
 (2) Im Fall des § 2 Absatz 1 Satz 1 gilt:
 
-1.  § 16 des Soldatenversorgungsgesetzes ist mit der Maßgabe anzuwenden,
+1.  § 28 des Soldatenversorgungsgesetzes ist mit der Maßgabe anzuwenden,
     dass als ruhegehaltfähige Dienstzeit die Zeiten berücksichtigt werden,
-    die als Dienstzeit im Sinne des § 15 Absatz 2 des
+    die als Dienstzeit im Sinne des § 27 Absatz 2 des
     Soldatenversorgungsgesetzes angerechnet werden, zuzüglich der Zeiten,
-    die nach § 23 Absatz 1 des Soldatenversorgungsgesetzes ruhegehaltfähig
+    die nach § 35 Absatz 1 des Soldatenversorgungsgesetzes ruhegehaltfähig
     sind.
 
 
-2.  § 26a des Soldatenversorgungsgesetzes ist mit folgenden Maßgaben
+2.  § 41 des Soldatenversorgungsgesetzes ist mit folgenden Maßgaben
     entsprechend anzuwenden:
 
     a)  Die Versetzung in den Ruhestand nach § 2 Absatz 1 Satz 1 gilt als
-        Eintritt in den Ruhestand wegen Erreichens einer Altersgrenze
+        Eintritt in den Ruhestand wegen Erreichens einer Altersgrenze.
 
 
     b)  Nur Erwerbseinkommen aus einer Verwendung im öffentlichen Dienst im
-        Sinne des § 53 Absatz 6 des Soldatenversorgungsgesetzes wird
+        Sinne des § 68 Absatz 4 des Soldatenversorgungsgesetzes wird
         berücksichtigt.
 
 
 
 
 
-3.  § 53 des Soldatenversorgungsgesetzes ist mit der Maßgabe anzuwenden,
+3.  § 68 des Soldatenversorgungsgesetzes ist mit der Maßgabe anzuwenden,
     dass nur Erwerbseinkommen aus einer Verwendung im öffentlichen Dienst
-    im Sinne des § 53 Absatz 6 des Soldatenversorgungsgesetzes
+    im Sinne des § 68 Absatz 4 des Soldatenversorgungsgesetzes
     berücksichtigt wird.
 
 
@@ -313,11 +313,11 @@ ruhegehaltfähige Dienstzeit berücksichtigt worden wären.
 
 (2) Im Fall des § 2 Absatz 1 Satz 2 gilt:
 
-1.  § 26 Absatz 2 und 3 des Soldatenversorgungsgesetzes ist entsprechend
+1.  § 40 Absatz 2 und 3 des Soldatenversorgungsgesetzes ist entsprechend
     anzuwenden.
 
 
-2.  § 26a des Soldatenversorgungsgesetzes ist mit folgenden Maßgaben
+2.  § 41 des Soldatenversorgungsgesetzes ist mit folgenden Maßgaben
     entsprechend anzuwenden:
 
     a)  Die Versetzung in den Ruhestand nach § 2 Absatz 1 Satz 2 gilt als
@@ -325,15 +325,15 @@ ruhegehaltfähige Dienstzeit berücksichtigt worden wären.
 
 
     b)  Nur Erwerbseinkommen aus einer Verwendung im öffentlichen Dienst im
-        Sinne des § 53 Absatz 6 des Soldatenversorgungsgesetzes wird
+        Sinne des § 68 Absatz 4 des Soldatenversorgungsgesetzes wird
         berücksichtigt.
 
 
 
 
 
-3.  § 38 des Soldatenversorgungsgesetzes gilt entsprechend. Bei der
-    Anwendung des § 38 Absatz 4 Satz 1 des Soldatenversorgungsgesetzes ist
+3.  § 53 des Soldatenversorgungsgesetzes gilt entsprechend. Bei der
+    Anwendung des § 53 Absatz 4 Satz 1 des Soldatenversorgungsgesetzes ist
     die Berufssoldatin oder der Berufssoldat so zu behandeln, als hätte
     sie oder er zum Zeitpunkt der Versetzung in den Ruhestand nach § 2
     Absatz 1 Satz 2 das für eine Versetzung in den Ruhestand nach § 44
@@ -344,12 +344,12 @@ ruhegehaltfähige Dienstzeit berücksichtigt worden wären.
     Polizeivollzugsbeamte nach § 5 des Bundespolizeibeamtengesetzes
     übersteigt oder nach § 96 Absatz 2 Nummer 1 des Soldatengesetzes keine
     besondere Altersgrenze festgesetzt ist, steht ein Erhöhungsbetrag nach
-    § 38 Absatz 4 Satz 1 des Soldatenversorgungsgesetzes nicht zu.
+    § 53 Absatz 4 Satz 1 des Soldatenversorgungsgesetzes nicht zu.
 
 
-4.  § 53 des Soldatenversorgungsgesetzes ist mit der Maßgabe anzuwenden,
+4.  § 68 des Soldatenversorgungsgesetzes ist mit der Maßgabe anzuwenden,
     dass nur Erwerbseinkommen aus einer Verwendung im öffentlichen Dienst
-    im Sinne des § 53 Absatz 6 des Soldatenversorgungsgesetzes
+    im Sinne des § 68 Absatz 4 des Soldatenversorgungsgesetzes
     berücksichtigt wird.
 
 
@@ -365,7 +365,7 @@ oder als Soldat auf Zeit einen einmaligen Ausgleich in Höhe von 10 000
 Euro für jedes vollendete Jahr der Wehrdienstzeit, höchstens für 20
 Jahre Wehrdienstzeit. Die nach der Umwandlung verbleibende
 Wehrdienstzeit als Soldatin auf Zeit oder als Soldat auf Zeit darf die
-Zeit nicht überschreiten, die ihr oder ihm nach § 5 Absatz 5 des
+Zeit nicht überschreiten, die ihr oder ihm nach § 7 Absatz 6 des
 Soldatenversorgungsgesetzes in der bis zum Inkrafttreten dieses
 Gesetzes geltenden Fassung für die Freistellung vom militärischen
 Dienst zusteht.
@@ -378,7 +378,7 @@ für Offiziere in Verwendungen als Flugzeugführer oder
 Waffensystemoffizier in strahlgetriebenen Kampfflugzeugen
 festgesetzten besonderen Altersgrenze (§ 45 Absatz 2 Nummer 6 des
 Soldatengesetzes) bis zum 31. Dezember 2017 in den Ruhestand versetzt
-werden sollen, gilt § 39 des Soldatenversorgungsgesetzes mit der
+werden sollen, gilt § 54 des Soldatenversorgungsgesetzes mit der
 Maßgabe, dass auf Antrag mit der Durchführung von Maßnahmen der
 schulischen und beruflichen Bildung bis zu drei Jahren vor dem
 Dienstzeitende unter Freistellung vom militärischen Dienst begonnen
@@ -388,7 +388,7 @@ Soldaten erforderlich ist.
 
 ### § 10 Berufsförderung und Dienstzeitversorgung bei Verkürzung der Dienstzeit
 
-Die aus den §§ 5, 11 und 12 des Soldatenversorgungsgesetzes sich
+Die aus den §§ 7, 16 und 19 des Soldatenversorgungsgesetzes sich
 ergebenden Ansprüche der Soldatinnen auf Zeit und Soldaten auf Zeit,
 deren Anträgen auf Verkürzung der Dienstzeit nach § 40 Absatz 7 des
 Soldatengesetzes bis zum 31. Dezember 2017 stattgegeben wird,

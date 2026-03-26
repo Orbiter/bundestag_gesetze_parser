@@ -25,7 +25,6 @@ hiermit bekannt gemacht, mit welchen Staaten, Teilstaaten und
 Provinzen eines Bundesstaates die förmliche Gegenseitigkeit für die
 Geltendmachung von Unterhaltsansprüchen festgestellt ist:
 
-
 *    *   Staat
 
     *   Datum der erstmaligen
@@ -429,6 +428,7 @@ Geltendmachung von Unterhaltsansprüchen festgestellt ist:
 
     *   4. November 1987
         (BGBl. I S. 2381).
+
 
 
 

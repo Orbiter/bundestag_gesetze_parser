@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 11.3.2019 I 308;
 
 Zuletzt geändert durch
-:   Art. 4 V v. 28.6.2023 I Nr. 174
+:   Art. 5 V v. 19.6.2025 I Nr. 147
 
 
 ## § 1 Kosten
@@ -31,14 +31,13 @@ Zuletzt geändert durch
     Gesetzes erlassenen Rechtsverordnungen,
 
 
-2.  der Prüfstellen nach § 9 der Gefahrgutverordnung Straße, Eisenbahn und
-    Binnenschifffahrt und nach § 12 Absatz 1 Nummer 8 der
-    Gefahrgutverordnung See,
+2.  der Prüfstellen nach § 12 Absatz 1 Nummer 8 der Gefahrgutverordnung
+    See,
 
 
-3.  der Benannten Stellen nach § 12 der Gefahrgutverordnung Straße,
-    Eisenbahn und Binnenschifffahrt und nach § 16 Absatz 2 der
-    Gefahrgutverordnung See,
+3.  der Prüfstellen nach § 12 der Gefahrgutverordnung Straße, Eisenbahn
+    und Binnenschifffahrt und nach § 16 Absatz 2 der Gefahrgutverordnung
+    See,
 
 
 4.  der Benannten Stellen für Druckgefäße nach § 13 der
@@ -63,8 +62,8 @@ Zuletzt geändert durch
     Straße, Eisenbahn und Binnenschifffahrt,
 
 
-9.  der Marktüberwachungsbehörden nach § 22 Absatz 5 Satz 3 der
-    Ortsbewegliche-Druckgeräte-Verordnung
+9.  der Marktüberwachungsbehörden nach § 22 Absatz 6 Satz 1 und § 22a
+    Absatz 5 Satz 1 der Ortsbewegliche-Druckgeräte-Verordnung
 
 
 
@@ -842,21 +841,21 @@ miteinander verbunden, ist die Reisezeit anteilig zu berechnen.
 
     *   Für die
 
-        –   erstmalige Zulassung eines Baumusters,
+        a)  erstmalige Zulassung eines Baumusters,
 
 
-        –   Nachträge zu Zulassungen für Änderungen oder Ergänzungen,
+        b)  Nachträge zu Zulassungen für Änderungen oder Ergänzungen,
 
 
-        –   Bescheinigung über die Zulassung einer Änderung (Absatz 6.8.2.3.4 RID)
-            sowie
+        c)  Bescheinigung über die Zulassung einer Änderung (Absatz 6.8.2.3.4
+            RID),
 
 
-        –   Zustimmung nach Absatz 1.6.3.3.1 RID zur Weiterverwendung von
-            Kesselwagen für die Beförderung von Gasen der Klasse 2
+        d)  Zulassung zur Weiterverwendung alter Tiegel nach Unterabschnitt
+            1\.6.1.54 RID sowie
 
 
-        –   Anordnung von Inbetriebnahmeüberprüfungen von Kesselwagen und
+        e)  Anordnung von Inbetriebnahmeüberprüfungen von Kesselwagen und
             abnehmbaren Tanks nach Absatz 6.8.1.5.5 und Unterabschnitt 1.8.7.5 RID
 
 
@@ -1215,9 +1214,10 @@ miteinander verbunden, ist die Reisezeit anteilig zu berechnen.
 
 *    *   702.1
 
-    *   Anerkennung der ADN-Sachkundigen Schulungen (Absatz 8.2.2.6.1 ADN).
+    *   Anerkennung sowie Verlängerung einer Anerkennung der ADN-Sachkundigen
+        Schulungen (Absatz 8.2.2.6.1 ADN).
 
-    *   80 bis 320
+    *   80 bis 560
 
 
 *    *   702.2
@@ -1410,9 +1410,11 @@ miteinander verbunden, ist die Reisezeit anteilig zu berechnen.
 
 *    *   719
 
-    *   nicht vergeben
+    *   Prüfen und Anerkennen einer Gleichwertigkeit (Unterabschnitt 1.5.3.1
+        ADN).
 
-    *
+    *   560 bis 2 000
+
 
 *    *   720
 
@@ -2175,7 +2177,7 @@ bis 4
 
     *   Überwachung nach den §§ 21 bis 23 der Ortsbewegliche-Druckgeräte-
         Verordnung vom 29. November 2011 (BGBl. I S. 2349), die zuletzt durch
-        Artikel 491 der Verordnung vom 31. August 2015 (BGBl. I S. 1474)
+        Artikel 1 der Verordnung vom 17. Dezember 2024 (BGBl. 2024 I Nr. 422)
         geändert worden ist, des Herstellers, Bevollmächtigten, Einführers,
         Vertreibers, Eigentümers oder Betreibers durch die nach § 20 Absatz 1
         Nummer 1 und 2 zuständige Behörde, wenn die Überwachungsmaßnahme auf
@@ -2202,7 +2204,7 @@ bis 4
 
     *   Überwachung nach den §§ 21 bis 23 der Ortsbewegliche-Druckgeräte-
         Verordnung vom 29. November 2011 (BGBl. I S. 2349), die zuletzt durch
-        Artikel 491 der Verordnung vom 31. August 2015 (BGBl. I S. 1474)
+        Artikel 1 der Verordnung vom 17. Dezember 2024 (BGBl. 2024 I Nr. 422)
         geändert worden ist, des Herstellers, Bevollmächtigten, Einführers,
         Vertreibers, Eigentümers oder Betreibers durch die nach § 20 Absatz 1
         Nummer 3 zuständige Behörde, wenn die Überwachungsmaßnahme auf Grund
@@ -2397,16 +2399,15 @@ Eisenbahn und Binnenschifffahrt**
 
 
 (zu § 1 Absatz 3)
-Gebührenverzeichnis
 
-## Anlage 3 Gebühren der Bundesanstalt für Materialforschung und -prüfung
+## Anlage 3 Gebührenverzeichnis Gebühren der Bundesanstalt für Materialforschung und -prüfung
 
-(Fundstelle: BGBl. I 2019, 323)
+(Fundstelle: BGBl. 2025 I Nr. 147, S. 9)
 
 Amtshandlungen, einschließlich Prüfungen, der Bundesanstalt für
-Materialforschung und -prüfung (BAM) ergeben sich aus § 8 der
-Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt und aus §
-12 Absatz 1 der Gefahrgutverordnung See. Für die Gebührenfestsetzung
+Materialforschung und -prüfung (BAM) ergeben sich aus § 8 der
+Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt und aus
+§ 12 Absatz 1 der Gefahrgutverordnung See. Für die Gebührenfestsetzung
 werden die Stundensätze der jeweils tätigen Organisationseinheiten der
 BAM zugrunde gelegt.
 
@@ -2423,70 +2424,70 @@ BAM zugrunde gelegt.
 
     *   Analytische Chemie; Referenzmaterialien
 
-    *   126
+    *   173
 
 
 *    *   2
 
-    *   Chemische Sicherheitstechnik
+    *   Prozess- und Anlagensicherheit
 
-    *   154
+    *   194
 
 
 *    *   3
 
-    *   Gefahrgutumschließungen
+    *   Gefahrgutumschließungen; Energiespeicher
 
-    *   133
+    *   156
 
 
 *    *   4
 
     *   Material und Umwelt
 
-    *   137
+    *   164
 
 
 *    *   5
 
     *   Werkstofftechnik
 
-    *   149
+    *   163
 
 
 *    *   6
 
-    *   Materialschutz und Oberflächentechnik
+    *   Materialchemie
 
-    *   131
+    *   154
 
 
 *    *   7
 
     *   Bauwerkssicherheit
 
-    *   115
+    *   144
 
 
 *    *   8
 
     *   Zerstörungsfreie Prüfung
 
-    *   132
+    *   142
 
 
 *    *   9
 
     *   Komponentensicherheit
 
-    *   132
+    *   149
 
 
 *    *   S
 
     *   Qualitätsinfrastruktur
 
-    *   138
+    *   123
 
 
 

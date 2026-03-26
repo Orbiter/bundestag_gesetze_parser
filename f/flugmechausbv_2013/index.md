@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2013, 1890
 
-Geändert durch
-:   Art. 4 V v. 27.1.2014 I 90
+Zuletzt geändert durch
+:   Art. 1 V v. 11.6.2024 I Nr. 186
 
 [^f781321_01_BJNR189000013]:     Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 4
     des Berufsbildungsgesetzes. Die Ausbildungsordnung und der damit
@@ -184,16 +184,17 @@ Fähigkeiten in der Fachrichtung Triebwerkstechnik sind:
 
 (7) Integrative Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
-1.  Berufsbildung, Arbeits- und Tarifrecht,
+1.  Organisation des Ausbildungsbetriebes, Berufsbildung sowie Arbeits-
+    und Tarifrecht,
 
 
-2.  Aufbau und Organisation des Ausbildungsbetriebes,
+2.  Sicherheit und Gesundheit bei der Arbeit,
 
 
-3.  Sicherheit und Gesundheitsschutz bei der Arbeit,
+3.  Umweltschutz und Nachhaltigkeit,
 
 
-4.  Umweltschutz.
+4.  digitalisierte Arbeitswelt.
 
 
 
@@ -632,8 +633,8 @@ bestehen folgende Vorgaben:
 
 1.  Der Prüfling soll nachweisen, dass er in der Lage ist,
 
-    a)  Fluggerätstrukturen unter Verwendung von flugspezifischen Werkstoffen
-        zu fertigen, zu montieren und instand zu setzen,
+    a)  Fluggerätstrukturen unter Verwendung von luftfahrtspezifischen
+        Werkstoffen zu fertigen, zu montieren und instand zu setzen,
 
 
     b)  mechanische, hydraulische, pneumatische und elektrische
@@ -1067,7 +1068,8 @@ worden ist, außer Kraft.
 
 ## Anlage 1 Ausbildungsrahmenplan für die Berufsausbildung zum Fluggerätmechaniker und zur Fluggerätmechanikerin – Sachliche Gliederung –
 
-(Fundstelle: BGBl. I 2013, 1896 - 1900)
+(Fundstelle: BGBl. I 2013, 1896 - 1900
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 **Abschnitt A: Gemeinsame berufsprofilgebende Fertigkeiten, Kenntnisse
 und Fähigkeiten**
@@ -1144,7 +1146,7 @@ und Fähigkeiten**
         h)  Kommunikation, auch in englischer Sprache, durchführen
 
 
-        i)  IT-Systeme zur Auftragsplanung und -abwicklung und Terminverfolgung
+        i)  IT-Systeme zur Auftragsplanung und -abwicklung sowie Terminverfolgung
             anwenden
 
 
@@ -1169,33 +1171,44 @@ und Fähigkeiten**
             Funktion und Eigenschaften handhaben
 
 
-        c)  elektrische und mechanische Verbindungen nach Eigenschaften und
+        c)  elektrische und mechanische Verbindungen unter Berücksichtigung
+            mathematischer und physikalischer Grundlagen nach Eigenschaften und
             Funktionen unterscheiden, herstellen und sichern
 
 
         d)  Aufbau von elektrischen, pneumatischen und hydraulischen Leitungen und
-            deren Verlegungsarten unterscheiden
+            deren Verlegungsarten unter Berücksichtigung mathematischer und
+            physikalischer Grundlagen unterscheiden
 
 
-        e)  Bauteile, insbesondere aus luftfahrtspezifischen Werkstoffen, formen
+        e)  Bauteile, insbesondere aus luftfahrtspezifischen Werkstoffen, unter
+            Berücksichtigung mathematischer und physikalischer Grundlagen formen
 
 
-        f)  Montage- und Demontagetechniken anwenden und Bauteile anpassen
+        f)  gängige Fertigungsverfahren und ihren Einfluss auf die mechanischen
+            und physikalischen Eigenschaften des fertigen Teils unter
+            Berücksichtigung mathematischer und physikalischer Grundlagen
+            unterscheiden sowie häufige Produktionsfehler prüfen
 
 
-        g)  Bauteile, Geräte, Baugruppen und Systeme zur Lagerung und zum
+        g)  Montage- und Demontagetechniken anwenden und Bauteile anpassen
+
+
+        h)  Bauteile, Geräte, Baugruppen und Systeme zur Lagerung und zum
             Transport vorbereiten
 
 
-        h)  Funktion von Potenzialausgleichsleitern prüfen und beurteilen
+        i)  Funktion von Potenzialausgleichsleitern unter Berücksichtigung
+            mathematischer und physikalischer Grundlagen prüfen und beurteilen
 
 
-        i)  Übergangswiderstände messen und beurteilen; Isolationswiderstände
+        j)  Übergangswiderstände unter Berücksichtigung mathematischer und
+            physikalischer Grundlagen messen und beurteilen; Isolationswiderstände
             beachten
 
 
-        j)  Einbauorte identifizieren, Bauteile und Geräte einmessen und
-            ausrichten
+        k)  Einbauorte identifizieren, Bauteile und Geräte einmessen und
+            ausrichten.
 
 
 
@@ -1237,7 +1250,8 @@ und Fähigkeiten**
 
 
         c)  Fehlersuche und Überprüfungen an luftfahrzeug- und typenspezifischen
-            Systemen durchführen sowie Instandhaltungsmaßnahmen veranlassen
+            Systemen unter Berücksichtigung mathematischer und physikalischer
+            Grundlagen durchführen sowie Instandhaltungsmaßnahmen veranlassen.
 
 
 
@@ -1269,26 +1283,31 @@ und Fähigkeiten**
             prüfen
 
 
-        b)  Qualitätsabweichungen und ihre Ursachen durch Zwischen- und
-            Endkontrollen feststellen sowie Maßnahmen zur Behebung ergreifen und
-            dokumentieren
+        b)  Fehler unter Beachtung des Fehlermeldewesens melden und die
+            Schutzwürdigkeit sicherheitsrelevanter Meldungen anerkennen
 
 
-        c)  zur kontinuierlichen Verbesserung von Arbeitsvorgängen im eigenen
-            Arbeitsbereich beitragen
+        c)  Qualitätsabweichungen und ihre Ursachen durch Zwischen- und
+            Endkontrollen sowie durch Auswertung eigener und fremder Fehler
+            feststellen, Maßnahmen zur Behebung ergreifen und dokumentieren
 
 
-        d)  Befugnisse, Verantwortlichkeiten und prozessbezogene Schnittstellen
+        d)  zur kontinuierlichen Verbesserung von Arbeitsvorgängen im eigenen
+            Arbeitsbereich beitragen sowie die Redlichkeitskultur berücksichtigen
+            und fördern
+
+
+        e)  Befugnisse, Verantwortlichkeiten und prozessbezogene Schnittstellen
             beachten
 
 
-        e)  Bauvorschriften, betriebliches Qualitätsmanagementhandbuch,
-            Instandhaltungs-, Fertigungshandbücher sowie Arbeitsanweisungen und
+        f)  Bauvorschriften, betriebliches Qualitätsmanagementhandbuch,
+            Instandhaltungs- und Fertigungshandbücher sowie Arbeitsanweisungen und
             technische Informationen, auch in englischer Sprache, beachten und
             anwenden
 
 
-        f)  Fremdkörperkontrollen durchführen
+        g)  Fremdkörperkontrollen durchführen
 
 
 
@@ -1300,8 +1319,9 @@ und Fähigkeiten**
         (§ 4 Absatz 3 Nummer 8)
 
     *
-        a)  Verantwortung des Einzelnen und eines Teams bei der Arbeit
-            berücksichtigen
+        a)  Verantwortung und Verhalten des Einzelnen und eines Teams sowie die
+            Kommunikation bei der Arbeit und deren Bedeutung für die Minderung von
+            Risiken berücksichtigen
 
 
         b)  kulturelle Einflüsse und Identitäten bei der Planung und Abstimmung im
@@ -1310,13 +1330,13 @@ und Fähigkeiten**
 
         c)  psychische Einflüsse, insbesondere Gesundheit, Stress, Zeitdruck,
             Über- und Unterforderung, Routineaufgaben, Schlafmangel und
-            Drogenmissbrauch, bei der Arbeit am Fluggerät auf den Menschen
-            berücksichtigen
+            Drogenmissbrauch bei der Arbeit am Fluggerät, auf den Menschen und
+            deren Bedeutung für die Vergrößerung von Risiken berücksichtigen
 
 
         d)  physische Einflüsse, insbesondere durch Geräusche, Staub, Temperatur
             und Beleuchtung, und ihre Auswirkungen auf den Menschen sowie das
-            Arbeitsergebnis berücksichtigen
+            Arbeitsergebnis berücksichtigen.
 
 
 
@@ -1715,7 +1735,7 @@ Fähigkeiten in der Fachrichtung:
 
     *   Teil des Ausbildungsberufsbildes
 
-    *   Zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten
+    *   Fertigkeiten, Kenntnisse und Fähigkeiten
 
 
 *    *   1
@@ -1727,25 +1747,46 @@ Fähigkeiten in der Fachrichtung:
 
 *    *   1
 
-    *   Berufsbildung, Arbeits- und Tarifrecht
+    *   Organisation des Ausbildungsbetriebes, Berufsbildung sowie Arbeits-
+        und Tarifrecht
         (§ 4 Absatz 7 Nummer 1)
 
     *
-        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und
-            Beendigung, erklären
+        a)  den Aufbau und die grundlegenden Arbeits- und Geschäftsprozesse des
+            Ausbildungsbetriebes erläutern
 
 
-        b)  gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen
+        b)  Rechte und Pflichten aus dem Ausbildungsvertrag sowie Dauer und
+            Beendigung des Ausbildungsverhältnisses erläutern und Aufgaben der im
+            System der dualen Berufsausbildung Beteiligten beschreiben
 
 
-        c)  Möglichkeiten der beruflichen Fortbildung nennen
+        c)  die Bedeutung, die Funktion und die Inhalte der Ausbildungsordnung und
+            des betrieblichen Ausbildungsplans erläutern sowie zu deren Umsetzung
+            beitragen
 
 
-        d)  wesentliche Teile des Arbeitsvertrages nennen
+        d)  die für den Ausbildungsbetrieb geltenden arbeits-, sozial-, tarif- und
+            mitbestimmungsrechtlichen Vorschriften erläutern
 
 
-        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden
-            Tarifverträge nennen
+        e)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder
+            personalvertretungsrechtlichen Organe des Ausbildungsbetriebes
+            erläutern
+
+
+        f)  Beziehungen des Ausbildungsbetriebes und seiner Beschäftigten zu
+            Wirtschaftsorganisationen und Gewerkschaften erläutern
+
+
+        g)  Positionen der eigenen Entgeltabrechnung erläutern
+
+
+        h)  wesentliche Inhalte von Arbeitsverträgen erläutern
+
+
+        i)  Möglichkeiten des beruflichen Aufstiegs und der beruflichen
+            Weiterentwicklung erläutern
 
 
 
@@ -1753,31 +1794,36 @@ Fähigkeiten in der Fachrichtung:
 
 *    *   2
 
-    *   Aufbau und Organisation des Ausbildungsbetriebes
+    *   Sicherheit und Gesundheit bei der Arbeit
         (§ 4 Absatz 7 Nummer 2)
 
     *
-        a)  Aufbau und Aufgaben des ausbildenden Betriebes erläutern
+        a)  Rechte und Pflichten aus den berufsbezogenen Arbeitsschutz- und
+            Unfallverhütungsvorschriften kennen und diese Vorschriften anwenden
 
 
-        b)  Grundfunktionen des ausbildenden Betriebes, wie Beschaffung,
-            Fertigung, Absatz und Verwaltung, erklären
+        b)  Gefährdungen von Sicherheit und Gesundheit am Arbeitsplatz und auf dem
+            Arbeitsweg prüfen und beurteilen
 
 
+        c)  sicheres und gesundheitsgerechtes Arbeiten erläutern
 
 
-
-*    *
-    *
-    *
-        c)  Beziehungen des ausbildenden Betriebes und seiner Belegschaft zu
-            Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften
-            nennen
+        d)  technische und organisatorische Maßnahmen zur Vermeidung von
+            Gefährdungen sowie von psychischen und physischen Belastungen für sich
+            und andere, auch präventiv, ergreifen
 
 
-        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder
-            personalvertretungsrechtlichen Organe des ausbildenden Betriebes
-            beschreiben
+        e)  ergonomische Arbeitsweisen beachten und anwenden
+
+
+        f)  Verhaltensweisen bei Unfällen beschreiben und erste Maßnahmen bei
+            Unfällen einleiten
+
+
+        g)  betriebsbezogene Vorschriften des vorbeugenden Brandschutzes anwenden,
+            Verhaltensweisen bei Bränden beschreiben und erste Maßnahmen zur
+            Brandbekämpfung ergreifen
 
 
 
@@ -1785,28 +1831,36 @@ Fähigkeiten in der Fachrichtung:
 
 *    *   3
 
-    *   Sicherheit und Gesundheitsschutz bei der Arbeit
+    *   Umweltschutz und Nachhaltigkeit
         (§ 4 Absatz 7 Nummer 3)
 
     *
-        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
-            und Maßnahmen zu ihrer Vermeidung ergreifen
+        a)  Möglichkeiten zur Vermeidung betriebsbedingter Belastungen für Umwelt
+            und Gesellschaft im eigenen Aufgabenbereich erkennen und zu deren
+            Weiterentwicklung beitragen
 
 
-        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften
-            anwenden
+        b)  bei Arbeitsprozessen und im Hinblick auf Produkte, Waren oder
+            Dienstleistungen, Materialien und Energie unter wirtschaftlichen,
+            umweltverträglichen und sozialen Gesichtspunkten der Nachhaltigkeit
+            nutzen
 
 
-        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen
-            einleiten
+        c)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
+            einhalten
 
 
-        d)  Bestimmungen und Sicherheitsregeln beim Arbeiten an elektrischen
-            Anlagen, Geräten und Betriebsmitteln beachten
+        d)  Abfälle vermeiden sowie Stoffe und Materialien einer umweltschonenden
+            Wiederverwertung oder Entsorgung zuführen
 
 
-        e)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen
-            bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
+        e)  Vorschläge für nachhaltiges Handeln für den eigenen Arbeitsbereich
+            entwickeln
+
+
+        f)  unter Einhaltung betrieblicher Regelungen im Sinne einer ökonomischen,
+            ökologischen und sozial nachhaltigen Entwicklung zusammenarbeiten und
+            adressatengerecht kommunizieren
 
 
 
@@ -1814,26 +1868,45 @@ Fähigkeiten in der Fachrichtung:
 
 *    *   4
 
-    *   Umweltschutz
+    *   Digitalisierte Arbeitswelt
         (§ 4 Absatz 7 Nummer 4)
 
-    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen, insbesondere
-
-        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen
-            Beitrag zum Umweltschutz an Beispielen erklären
-
-
-        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
-            anwenden
+    *
+        a)  mit eigenen und betriebsbezogenen Daten sowie mit Daten Dritter
+            umgehen und dabei die Vorschriften zum Datenschutz und zur
+            Datensicherheit einhalten
 
 
-        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und
-            Materialverwendung nutzen
+        b)  Risiken bei der Nutzung von digitalen Medien und
+            informationstechnischen Systemen einschätzen und bei deren Nutzung
+            betriebliche Regelungen einhalten
 
 
-        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden
-            Entsorgung zuführen
+        c)  ressourcenschonend, adressatengerecht und effizient kommunizieren
+            sowie Kommunikationsergebnisse dokumentieren
+
+
+        d)  Störungen in Kommunikationsprozessen erkennen und zu ihrer Lösung
+            beitragen
+
+
+        e)  Informationen in digitalen Netzen recherchieren und aus digitalen
+            Netzen beschaffen sowie Informationen, auch fremde, prüfen, bewerten
+            und auswählen
+
+
+        f)  Lern- und Arbeitstechniken sowie Methoden des selbstgesteuerten
+            Lernens anwenden, digitale Lernmedien nutzen und Erfordernisse des
+            lebensbegleitenden Lernens erkennen und ableiten
+
+
+        g)  Aufgaben zusammen mit Beteiligten, einschließlich der Beteiligten
+            anderer Arbeits- und Geschäftsbereiche, auch unter Nutzung digitaler
+            Medien, planen, bearbeiten und gestalten
+
+
+        h)  Wertschätzung anderer unter Berücksichtigung gesellschaftlicher
+            Vielfalt praktizieren.
 
 
 
@@ -1842,21 +1915,20 @@ Fähigkeiten in der Fachrichtung:
 
 (zu § 4 Absatz 1)
 
-## Anlage 2 Ausbildungsrahmenplan für die Berufsausbildung zum Fluggerätmechaniker und zur Fluggerätmechanikerin – Zeitliche Gliederung –
+## Anlage 2 Ausbildungsrahmenplan für die Berufsausbildung zum Fluggerätmechaniker und zur Fluggerätmechanikerin - Zeitliche Gliederung –
 
-(Fundstelle: BGBl. I 2013, 1901 - 1915)
+(Fundstelle: BGBl. 2024 I Nr. 186, S. 6 – 22)
 
-**Abschnitt 1: Integrative Fertigkeiten, Kenntnisse und Fähigkeiten**
-
+**Abschnitt 1: Integrative Fertigkeiten, Kenntnisse und Fähigkeiten**
 
 *    *   Lfd. Nr.
 
     *   Teil des Ausbildungsberufsbildes
 
-    *   Zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten
+    *   Fertigkeiten, Kenntnisse und Fähigkeiten
 
-    *   Zeitrahmen
-        in Monaten
+    *   Zeitliche
+        Zuordnung
 
 
 *    *   1
@@ -1870,26 +1942,84 @@ Fähigkeiten in der Fachrichtung:
 
 *    *   1
 
-    *   Berufsbildung, Arbeits-
+    *   Organisation des Ausbildungsbetriebes, Berufsbildung sowie Arbeits-
         und Tarifrecht
         (§ 4 Absatz 7 Nummer 1)
 
     *
-        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und
-            Beendigung, erklären
+        a)  den Aufbau und die grundlegenden Arbeits- und Geschäftsprozesse des
+            Ausbildungsbetriebes erläutern
 
 
-        b)  gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen
+        b)  Rechte und Pflichten aus dem Ausbildungsvertrag sowie Dauer und
+            Beendigung des Ausbildungsverhältnisses erläutern und Aufgaben der im
+            System der dualen Berufsausbildung Beteiligten beschreiben
 
 
-        c)  Möglichkeiten der beruflichen Fortbildung nennen
+        c)  die Bedeutung, die Funktion und die Inhalte der Ausbildungsordnung und
+            des betrieblichen Ausbildungsplans erläutern sowie zu deren Umsetzung
+            beitragen
 
 
-        d)  wesentliche Teile des Arbeitsvertrages nennen
+        d)  die für den Ausbildungsbetrieb geltenden arbeits-, sozial-, tarif- und
+            mitbestimmungsrechtlichen Vorschriften erläutern
 
 
-        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden
-            Tarifverträge nennen
+        e)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder
+            personalvertretungsrechtlichen Organe des Ausbildungsbetriebes
+            erläutern
+
+
+        f)  Beziehungen des Ausbildungsbetriebes und seiner Beschäftigten zu
+            Wirtschaftsorganisationen und Gewerkschaften erläutern
+
+
+        g)  Positionen der eigenen Entgeltabrechnung erläutern
+
+
+        h)  wesentliche Inhalte von Arbeitsverträgen erläutern
+
+
+        i)  Möglichkeiten des beruflichen Aufstiegs und der beruflichen
+            Weiterentwicklung erläutern
+
+
+
+
+    *
+
+*    *   2
+
+    *   Sicherheit und Gesundheit bei der Arbeit
+        (§ 4 Absatz 7 Nummer 2)
+
+    *
+        a)  Rechte und Pflichten aus den berufsbezogenen Arbeitsschutz- und
+            Unfallverhütungsvorschriften kennen und diese Vorschriften anwenden
+
+
+        b)  Gefährdungen von Sicherheit und Gesundheit am Arbeitsplatz und auf dem
+            Arbeitsweg prüfen und beurteilen
+
+
+        c)  sicheres und gesundheitsgerechtes Arbeiten erläutern
+
+
+        d)  technische und organisatorische Maßnahmen zur Vermeidung von
+            Gefährdungen sowie von psychischen und physischen Belastungen für sich
+            und andere, auch präventiv, ergreifen
+
+
+        e)  ergonomische Arbeitsweisen beachten und anwenden
+
+
+        f)  Verhaltensweisen bei Unfällen beschreiben und erste Maßnahmen bei
+            Unfällen einleiten
+
+
+        g)  betriebsbezogene Vorschriften des vorbeugenden Brandschutzes anwenden,
+            Verhaltensweisen bei Bränden beschreiben und erste Maßnahmen zur
+            Brandbekämpfung ergreifen
 
 
 
@@ -1897,97 +2027,84 @@ Fähigkeiten in der Fachrichtung:
     *   während
         der gesamten
         Ausbildung
-        zu vermitteln
-
-
-*    *   2
-
-    *   Aufbau und Organisation
-        des Ausbildungsbetriebes
-        (§ 4 Absatz 7 Nummer 2)
-
-    *
-        a)  Aufbau und Aufgaben des ausbildenden Betriebes erläutern
-
-
-        b)  Grundfunktionen des ausbildenden Betriebes wie Beschaffung, Fertigung,
-            Absatz und Verwaltung erklären
-
-
-        c)  Beziehungen des ausbildenden Betriebes und seiner Belegschaft zu
-            Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften
-            nennen
-
-
-        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder
-            personalvertretungsrechtlichen Organe des ausbildenden Betriebes
-            beschreiben
-
-
-
 
 
 *    *   3
 
-    *   Sicherheit und Gesundheitsschutz bei der Arbeit
+    *   Umweltschutz und Nachhaltigkeit
         (§ 4 Absatz 7 Nummer 3)
 
     *
-        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
-            und Maßnahmen zu ihrer Vermeidung ergreifen
+        a)  Möglichkeiten zur Vermeidung betriebsbedingter Belastungen für Umwelt
+            und Gesellschaft im eigenen Aufgabenbereich erkennen und zu deren
+            Weiterentwicklung beitragen
 
 
-        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften
-            anwenden
+        b)  bei Arbeitsprozessen und im Hinblick auf Produkte, Waren oder
+            Dienstleistungen, Materialien und Energie unter wirtschaftlichen,
+            umweltverträglichen und sozialen Gesichtspunkten der Nachhaltigkeit
+            nutzen
 
 
-        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen
-            einleiten
+        c)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
+            einhalten
 
 
-        d)  Bestimmungen und Sicherheitsregeln beim Arbeiten an elektrischen
-            Anlagen, Geräten und Betriebsmitteln beachten
+        d)  Abfälle vermeiden sowie Stoffe und Materialien einer umweltschonenden
+            Wiederverwertung oder Entsorgung zuführen
 
 
-        e)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen
-            bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
+        e)  Vorschläge für nachhaltiges Handeln für den eigenen Arbeitsbereich
+            entwickeln
+
+
+        f)  unter Einhaltung betrieblicher Regelungen im Sinne einer ökonomischen,
+            ökologischen und sozial nachhaltigen Entwicklung zusammenarbeiten und
+            adressatengerecht kommunizieren
 
 
 
 
+    *
 
 *    *   4
 
-    *   Umweltschutz
+    *   Digitalisierte Arbeitswelt
         (§ 4 Absatz 7 Nummer 4)
 
-    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen, insbesondere
-
-        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen
-            Beitrag zum Umweltschutz an Beispielen erklären
-
-
-        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
-            anwenden
+    *
+        a)  mit eigenen und betriebsbezogenen Daten sowie mit Daten Dritter
+            umgehen und dabei die Vorschriften zum Datenschutz und zur
+            Datensicherheit einhalten
 
 
-        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und
-            Materialverwendung nutzen
+        b)  Risiken bei der Nutzung von digitalen Medien und
+            informationstechnischen Systemen einschätzen und bei deren Nutzung
+            betriebliche Regelungen einhalten
 
 
-        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden
-            Entsorgung zuführen
+        c)  ressourcenschonend, adressatengerecht und effizient kommunizieren
+            sowie Kommunikationsergebnisse dokumentieren
+
+
+        d)  Störungen in Kommunikationsprozessen erkennen und zu ihrer Lösung
+            beitragen
+
+
+        e)  Informationen in digitalen Netzen recherchieren und aus digitalen
+            Netzen beschaffen sowie Informationen, auch fremde, prüfen, bewerten
+            und auswählen
 
 
 
 
+    *
 
 
-**Abschnitt 2: 1. bis 18. Ausbildungsmonat**
 
-Zeitrahmen 1: Herstellen von Komponenten
+   **Abschnitt 2: 1. bis 18. Ausbildungsmonat**
 
+Zeitrahmen 1: Herstellen von Komponenten
 
 *    *   Lfd. Nr.
 
@@ -2010,9 +2127,7 @@ Zeitrahmen 1: Herstellen von Komponenten
 
 *    *   1
 
-    *   Planen und Organisieren
-        der Arbeit, Bewerten der
-        Arbeitsergebnisse
+    *   Planen und Organisieren der Arbeit, Bewerten der Arbeitsergebnisse
         (§ 4 Absatz 3 Nummer 1)
 
     *
@@ -2025,8 +2140,7 @@ Zeitrahmen 1: Herstellen von Komponenten
 
 
 
-    *   3 bis 5
-
+    *
 
 *    *   2
 
@@ -2043,6 +2157,7 @@ Zeitrahmen 1: Herstellen von Komponenten
 
 
 
+    *
 
 *    *   3
 
@@ -2055,14 +2170,30 @@ Zeitrahmen 1: Herstellen von Komponenten
             Betriebsmittelmanagements handhaben
 
 
-        e)  Bauteile, insbesondere aus luftfahrtspezifischen Werkstoffen, formen
+        e)  Bauteile, insbesondere aus luftfahrtspezifischen Werkstoffen, unter
+            Berücksichtigung mathematischer und physikalischer Grundlagen formen
 
 
-        g)  Bauteile, Geräte, Baugruppen und Systeme zur Lagerung und zum
+
+
+    *
+
+*    *
+    *
+    *
+        f)  gängige Fertigungsverfahren und ihren Einfluss auf die mechanischen
+            und physikalischen Eigenschaften des fertigen Teils unter
+            Berücksichtigung mathematischer und physikalischer Grundlagen
+            unterscheiden sowie häufige Produktionsfehler prüfen
+
+
+        h)  Bauteile, Geräte, Baugruppen und Systeme zur Lagerung und zum
             Transport vorbereiten
 
 
 
+
+    *   3 bis 5
 
 
 *    *   4
@@ -2075,13 +2206,14 @@ Zeitrahmen 1: Herstellen von Komponenten
             prüfen
 
 
-        b)  Qualitätsabweichungen und ihre Ursachen durch Zwischen- und
-            Endkontrollen feststellen sowie Maßnahmen zur Behebung ergreifen und
-            dokumentieren
+        c)  Qualitätsabweichungen und ihre Ursachen durch Zwischen- und
+            Endkontrollen sowie durch Auswertung eigener und fremder Fehler
+            feststellen, Maßnahmen zur Behebung ergreifen und dokumentieren
 
 
 
 
+    *
 
 *    *   5
 
@@ -2089,8 +2221,9 @@ Zeitrahmen 1: Herstellen von Komponenten
         (§ 4 Absatz 3 Nummer 8)
 
     *
-        a)  Verantwortung des Einzelnen und eines Teams bei der Arbeit
-            berücksichtigen
+        a)  Verantwortung und Verhalten des Einzelnen und eines Teams sowie die
+            Kommunikation bei der Arbeit und deren Bedeutung für die Minderung von
+            Risiken berücksichtigen
 
 
         d)  physische Einflüsse, insbesondere durch Geräusche, Staub, Temperatur
@@ -2100,10 +2233,11 @@ Zeitrahmen 1: Herstellen von Komponenten
 
 
 
+    *
 
 
-Zeitrahmen 2: Herstellen von Baugruppen
 
+   Zeitrahmen 2: Herstellen von Baugruppen
 
 *    *   Lfd. Nr.
 
@@ -2126,9 +2260,7 @@ Zeitrahmen 2: Herstellen von Baugruppen
 
 *    *   1
 
-    *   Planen und Organisieren
-        der Arbeit, Bewerten der
-        Arbeitsergebnisse
+    *   Planen und Organisieren der Arbeit, Bewerten der Arbeitsergebnisse
         (§ 4 Absatz 3 Nummer 1)
 
     *
@@ -2175,27 +2307,21 @@ Zeitrahmen 2: Herstellen von Baugruppen
             Funktion und Eigenschaften handhaben
 
 
-        e)  Bauteile, insbesondere aus luftfahrtspezifischen Werkstoffen, formen
+        e)  Bauteile, insbesondere aus luftfahrtspezifischen Werkstoffen, unter
+            Berücksichtigung mathematischer und physikalischer Grundlagen formen
 
 
-        f)  Montage- und Demontagetechniken anwenden und Bauteile anpassen
+        g)  Montage- und Demontagetechniken anwenden und Bauteile anpassen
+
+
+        k)  Einbauorte identifizieren, Bauteile und Geräte einmessen und
+            ausrichten
 
 
 
 
     *   3 bis 5
 
-
-*    *
-    *
-    *
-        j)  Einbauorte identifizieren, Bauteile und Geräte einmessen und
-            ausrichten
-
-
-
-
-    *
 
 *    *   4
 
@@ -2207,12 +2333,12 @@ Zeitrahmen 2: Herstellen von Baugruppen
             prüfen
 
 
-        b)  Qualitätsabweichungen und ihre Ursachen durch Zwischen- und
+        c)  Qualitätsabweichungen und ihre Ursachen durch Zwischen- und
             Endkontrollen feststellen sowie Maßnahmen zur Behebung ergreifen und
             dokumentieren
 
 
-        f)  Fremdkörperkontrollen durchführen
+        g)  Fremdkörperkontrollen durchführen
 
 
 
@@ -2225,14 +2351,15 @@ Zeitrahmen 2: Herstellen von Baugruppen
         (§ 4 Absatz 3 Nummer 8)
 
     *
-        a)  Verantwortung des Einzelnen und eines Teams bei der Arbeit
-            berücksichtigen
+        a)  Verantwortung und Verhalten des Einzelnen und eines Teams sowie die
+            Kommunikation bei der Arbeit und deren Bedeutung für die Minderung von
+            Risiken berücksichtigen
 
 
         c)  psychische Einflüsse, insbesondere Gesundheit, Stress, Zeitdruck,
             Über- und Unterforderung, Routineaufgaben, Schlafmangel und
-            Drogenmissbrauch, bei der Arbeit am Fluggerät auf den Menschen
-            berücksichtigen
+            Drogenmissbrauch bei der Arbeit am Fluggerät, auf den Menschen und
+            deren Bedeutung für die Vergrößerung von Risiken berücksichtigen
 
 
         d)  physische Einflüsse, insbesondere durch Geräusche, Staub, Temperatur
@@ -2245,8 +2372,8 @@ Zeitrahmen 2: Herstellen von Baugruppen
     *
 
 
-   Zeitrahmen 3: Montage und Demontage
 
+   Zeitrahmen 3: Montage und Demontage
 
 *    *   Lfd. Nr.
 
@@ -2269,9 +2396,7 @@ Zeitrahmen 2: Herstellen von Baugruppen
 
 *    *   1
 
-    *   Planen und Organisieren
-        der Arbeit, Bewerten der
-        Arbeitsergebnisse
+    *   Planen und Organisieren der Arbeit, Bewerten der Arbeitsergebnisse
         (§ 4 Absatz 3 Nummer 1)
 
     *
@@ -2288,8 +2413,7 @@ Zeitrahmen 2: Herstellen von Baugruppen
 
 *    *   2
 
-    *   Betriebliche und
-        technische Kommunikation
+    *   Betriebliche und technische Kommunikation
         (§ 4 Absatz 3 Nummer 2)
 
     *
@@ -2319,25 +2443,35 @@ Zeitrahmen 2: Herstellen von Baugruppen
             Funktion und Eigenschaften handhaben
 
 
-        c)  elektrische und mechanische Verbindungen nach Eigenschaften und
+        c)  elektrische und mechanische Verbindungen unter Berücksichtigung
+            mathematischer und physikalischer Grundlagen nach Eigenschaften und
             Funktionen unterscheiden, herstellen und sichern
 
 
         d)  Aufbau von elektrischen, pneumatischen und hydraulischen Leitungen und
-            deren Verlegungsarten unterscheiden
+            deren Verlegungsarten unter Berücksichtigung mathematischer und
+            physikalischer Grundlagen unterscheiden
 
 
-        e)  Bauteile, insbesondere aus luftfahrtspezifischen Werkstoffen, formen
+        e)  Bauteile, insbesondere aus luftfahrtspezifischen Werkstoffen, unter
+            Berücksichtigung mathematischer und physikalischer Grundlagen formen
 
 
-        f)  Montage- und Demontagetechniken anwenden und Bauteile anpassen
+        f)  gängige Fertigungsverfahren und ihren Einfluss auf die mechanischen
+            und physikalischen Eigenschaften des fertigen Teils unter
+            Berücksichtigung mathematischer und physikalischer Grundlagen
+            unterscheiden sowie häufige Produktionsfehler prüfen
 
 
-        g)  Bauteile, Geräte, Baugruppen und Systeme zur Lagerung und zum
+        g)  Montage- und Demontagetechniken anwenden und Bauteile anpassen
+
+
+        h)  Bauteile, Geräte, Baugruppen und Systeme zur Lagerung und zum
             Transport vorbereiten
 
 
-        h)  Funktion von Potenzialausgleichsleitern prüfen und beurteilen
+        i)  Funktion von Potenzialausgleichsleitern unter Berücksichtigung
+            mathematischer und physikalischer Grundlagen prüfen und beurteilen
 
 
 
@@ -2348,11 +2482,12 @@ Zeitrahmen 2: Herstellen von Baugruppen
 *    *
     *
     *
-        i)  Übergangswiderstände messen und beurteilen; Isolationswiderstände
+        j)  Übergangswiderstände unter Berücksichtigung mathematischer und
+            physikalischer Grundlagen messen und beurteilen; Isolationswiderstände
             beachten
 
 
-        j)  Einbauorte identifizieren, Bauteile und Geräte einmessen und
+        k)  Einbauorte identifizieren, Bauteile und Geräte einmessen und
             ausrichten
 
 
@@ -2370,12 +2505,16 @@ Zeitrahmen 2: Herstellen von Baugruppen
             prüfen
 
 
-        b)  Qualitätsabweichungen und ihre Ursachen durch Zwischen- und
-            Endkontrollen feststellen sowie Maßnahmen zur Behebung ergreifen und
-            dokumentieren
+        b)  Fehler unter Beachtung des Fehlermeldewesens melden und die
+            Schutzwürdigkeit sicherheitsrelevanter Meldungen anerkennen
 
 
-        f)  Fremdkörperkontrollen durchführen
+        c)  Qualitätsabweichungen und ihre Ursachen durch Zwischen- und
+            Endkontrollen sowie durch Auswertung eigener und fremder Fehler
+            feststellen, Maßnahmen zur Behebung ergreifen und dokumentieren
+
+
+        g)  Fremdkörperkontrollen durchführen
 
 
 
@@ -2389,8 +2528,9 @@ Zeitrahmen 2: Herstellen von Baugruppen
         (§ 4 Absatz 3 Nummer 8)
 
     *
-        a)  Verantwortung des Einzelnen und eines Teams bei der Arbeit
-            berücksichtigen
+        a)  Verantwortung und Verhalten des Einzelnen und eines Teams sowie die
+            Kommunikation bei der Arbeit und deren Bedeutung für die Minderung von
+            Risiken berücksichtigen
 
 
         b)  kulturelle Einflüsse und Identitäten bei der Planung und Abstimmung im
@@ -2399,8 +2539,8 @@ Zeitrahmen 2: Herstellen von Baugruppen
 
         c)  psychische Einflüsse, insbesondere Gesundheit, Stress, Zeitdruck,
             Über- und Unterforderung, Routineaufgaben, Schlafmangel und
-            Drogenmissbrauch, bei der Arbeit am Fluggerät auf den Menschen
-            berücksichtigen
+            Drogenmissbrauch bei der Arbeit am Fluggerät, auf den Menschen und
+            deren Bedeutung für die Vergrößerung von Risiken berücksichtigen
 
 
         d)  physische Einflüsse, insbesondere durch Geräusche, Staub, Temperatur
@@ -2413,11 +2553,12 @@ Zeitrahmen 2: Herstellen von Baugruppen
     *
 
 
-   Abschnitt 3: Fachrichtung Instandhaltungstechnik
+
+   **Abschnitt 3: Fachrichtung Instandhaltungstechnik**
+
 **19. bis 42. Ausbildungsmonat**
 
-Zeitrahmen 4: Wartung, Inspektion und Modifikation
-
+Zeitrahmen 4: Wartung, Inspektion und Modifikation
 
 *    *   Lfd. Nr.
 
@@ -2440,9 +2581,7 @@ Zeitrahmen 4: Wartung, Inspektion und Modifikation
 
 *    *   1
 
-    *   Planen und Organisieren
-        der Arbeit, Bewerten der
-        Arbeitsergebnisse
+    *   Planen und Organisieren der Arbeit, Bewerten der Arbeitsergebnisse
         (§ 4 Absatz 3 Nummer 1)
 
     *
@@ -2481,7 +2620,14 @@ Zeitrahmen 4: Wartung, Inspektion und Modifikation
         h)  Kommunikation, auch in englischer Sprache, durchführen
 
 
-        i)  IT-Systeme zur Auftragsplanung und -abwicklung und Terminverfolgung
+
+
+    *
+
+*    *
+    *
+    *
+        i)  IT-Systeme zur Auftragsplanung und -abwicklung sowie Terminverfolgung
             anwenden
 
 
@@ -2508,7 +2654,8 @@ Zeitrahmen 4: Wartung, Inspektion und Modifikation
 
 
         c)  Fehlersuche und Überprüfungen an luftfahrzeug- und typenspezifischen
-            Systemen durchführen sowie Instandhaltungsmaßnahmen veranlassen
+            Systemen unter Berücksichtigung mathematischer und physikalischer
+            Grundlagen durchführen sowie Instandhaltungsmaßnahmen veranlassen
 
 
 
@@ -2522,16 +2669,17 @@ Zeitrahmen 4: Wartung, Inspektion und Modifikation
         (§ 4 Absatz 3 Nummer 7)
 
     *
-        c)  zur kontinuierlichen Verbesserung von Arbeitsvorgängen im eigenen
-            Arbeitsbereich beitragen
+        d)  zur kontinuierlichen Verbesserung von Arbeitsvorgängen im eigenen
+            Arbeitsbereich beitragen sowie die Redlichkeitskultur berücksichtigen
+            und fördern
 
 
-        d)  Befugnisse, Verantwortlichkeiten und prozessbezogene Schnittstellen
+        e)  Befugnisse, Verantwortlichkeiten und prozessbezogene Schnittstellen
             beachten
 
 
-        e)  Bauvorschriften, betriebliches Qualitätsmanagementhandbuch,
-            Instandhaltungs-, Fertigungshandbücher sowie Arbeitsanweisungen und
+        f)  Bauvorschriften, betriebliches Qualitätsmanagementhandbuch,
+            Instandhaltungs- und Fertigungshandbücher sowie Arbeitsanweisungen und
             technische Informationen, auch in englischer Sprache, beachten und
             anwenden
 
@@ -2586,8 +2734,8 @@ Zeitrahmen 4: Wartung, Inspektion und Modifikation
     *
 
 
-   Zeitrahmen 5: Analyse und Behebung von Störungen und Schäden
 
+   Zeitrahmen 5: Analyse und Behebung von Störungen und Schäden
 
 *    *   Lfd. Nr.
 
@@ -2610,9 +2758,7 @@ Zeitrahmen 4: Wartung, Inspektion und Modifikation
 
 *    *   1
 
-    *   Planen und Organisieren
-        der Arbeit, Bewerten der
-        Arbeitsergebnisse
+    *   Planen und Organisieren der Arbeit, Bewerten der Arbeitsergebnisse
         (§ 4 Absatz 3 Nummer 1)
 
     *
@@ -2639,13 +2785,6 @@ Zeitrahmen 4: Wartung, Inspektion und Modifikation
             Vorschriften, auch in englischer Sprache, anwenden
 
 
-
-
-    *
-
-*    *
-    *
-    *
         d)  Daten erfassen, bearbeiten und sichern
 
 
@@ -2662,7 +2801,7 @@ Zeitrahmen 4: Wartung, Inspektion und Modifikation
         h)  Kommunikation, auch in englischer Sprache, durchführen
 
 
-        i)  IT-Systeme zur Auftragsplanung und -abwicklung und Terminverfolgung
+        i)  IT-Systeme zur Auftragsplanung und -abwicklung sowie Terminverfolgung
             anwenden
 
 
@@ -2688,7 +2827,8 @@ Zeitrahmen 4: Wartung, Inspektion und Modifikation
 
 
 
-    *
+    *   3 bis 5
+
 
 *    *   4
 
@@ -2696,24 +2836,24 @@ Zeitrahmen 4: Wartung, Inspektion und Modifikation
         (§ 4 Absatz 3 Nummer 7)
 
     *
-        c)  zur kontinuierlichen Verbesserung von Arbeitsvorgängen im eigenen
-            Arbeitsbereich beitragen
+        d)  zur kontinuierlichen Verbesserung von Arbeitsvorgängen im eigenen
+            Arbeitsbereich beitragen sowie die Redlichkeitskultur berücksichtigen
+            und fördern
 
 
-        d)  Befugnisse, Verantwortlichkeiten und prozessbezogene Schnittstellen
+        e)  Befugnisse, Verantwortlichkeiten und prozessbezogene Schnittstellen
             beachten
 
 
-        e)  Bauvorschriften, betriebliches Qualitätsmanagementhandbuch,
-            Instandhaltungs-, Fertigungshandbücher sowie Arbeitsanweisungen und
+        f)  Bauvorschriften, betriebliches Qualitätsmanagementhandbuch,
+            Instandhaltungs- und Fertigungshandbücher sowie Arbeitsanweisungen und
             technische Informationen, auch in englischer Sprache, beachten und
             anwenden
 
 
 
 
-    *   3 bis 5
-
+    *
 
 *    *   5
 
@@ -2767,8 +2907,8 @@ Zeitrahmen 4: Wartung, Inspektion und Modifikation
     *
 
 
-   Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
 
+   Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
 
 *    *   Lfd. Nr.
 
@@ -2791,9 +2931,7 @@ Zeitrahmen 4: Wartung, Inspektion und Modifikation
 
 *    *   1
 
-    *   Planen und Organisieren
-        der Arbeit, Bewerten der
-        Arbeitsergebnisse
+    *   Planen und Organisieren der Arbeit, Bewerten der Arbeitsergebnisse
         (§ 4 Absatz 3 Nummer 1)
 
     *
@@ -2808,8 +2946,7 @@ Zeitrahmen 4: Wartung, Inspektion und Modifikation
 
 
 
-    *   3 bis 5
-
+    *
 
 *    *   2
 
@@ -2827,12 +2964,6 @@ Zeitrahmen 4: Wartung, Inspektion und Modifikation
         e)  Gespräche organisieren und situationsgerecht und zielorientiert führen
 
 
-
-
-
-*    *
-    *
-    *
         f)  Sachverhalte darstellen, Protokolle anfertigen, englische Fachbegriffe
             anwenden
 
@@ -2843,7 +2974,7 @@ Zeitrahmen 4: Wartung, Inspektion und Modifikation
         h)  Kommunikation, auch in englischer Sprache, durchführen
 
 
-        i)  IT-Systeme zur Auftragsplanung und -abwicklung und Terminverfolgung
+        i)  IT-Systeme zur Auftragsplanung und -abwicklung sowie Terminverfolgung
             anwenden
 
 
@@ -2851,6 +2982,8 @@ Zeitrahmen 4: Wartung, Inspektion und Modifikation
 
 
 
+
+    *   3 bis 5
 
 
 *    *   3
@@ -2872,6 +3005,7 @@ Zeitrahmen 4: Wartung, Inspektion und Modifikation
 
 
 
+    *
 
 *    *   4
 
@@ -2879,26 +3013,28 @@ Zeitrahmen 4: Wartung, Inspektion und Modifikation
         (§ 4 Absatz 3 Nummer 7)
 
     *
-        c)  zur kontinuierlichen Verbesserung von Arbeitsvorgängen im eigenen
-            Arbeitsbereich beitragen
+        d)  zur kontinuierlichen Verbesserung von Arbeitsvorgängen im eigenen
+            Arbeitsbereich beitragen sowie die Redlichkeitskultur berücksichtigen
+            und fördern
 
 
-        d)  Befugnisse, Verantwortlichkeiten und prozessbezogene Schnittstellen
+        e)  Befugnisse, Verantwortlichkeiten und prozessbezogene Schnittstellen
             beachten
 
 
-        e)  Bauvorschriften, betriebliches Qualitätsmanagementhandbuch,
-            Instandhaltungs-, Fertigungshandbücher sowie Arbeitsanweisungen und
+        f)  Bauvorschriften, betriebliches Qualitätsmanagementhandbuch,
+            Instandhaltungs- und Fertigungshandbücher sowie Arbeitsanweisungen und
             technische Informationen, auch in englischer Sprache, beachten und
             anwenden
 
 
 
 
+    *
 
 
-Zeitrahmen 7: Flugbetrieb
 
+   Zeitrahmen 7: Flugbetrieb
 
 *    *   Lfd. Nr.
 
@@ -2921,9 +3057,7 @@ Zeitrahmen 7: Flugbetrieb
 
 *    *   1
 
-    *   Planen und Organisieren
-        der Arbeit, Bewerten der
-        Arbeitsergebnisse
+    *   Planen und Organisieren der Arbeit, Bewerten der Arbeitsergebnisse
         (§ 4 Absatz 3 Nummer 1)
 
     *
@@ -2980,12 +3114,12 @@ Zeitrahmen 7: Flugbetrieb
         (§ 4 Absatz 3 Nummer 7)
 
     *
-        d)  Befugnisse, Verantwortlichkeiten und prozessbezogene Schnittstellen
+        e)  Befugnisse, Verantwortlichkeiten und prozessbezogene Schnittstellen
             beachten
 
 
-        e)  Bauvorschriften, betriebliches Qualitätsmanagementhandbuch,
-            Instandhaltungs-, Fertigungshandbücher sowie Arbeitsanweisungen und
+        f)  Bauvorschriften, betriebliches Qualitätsmanagementhandbuch,
+            Instandhaltungs- und Fertigungshandbücher sowie Arbeitsanweisungen und
             technische Informationen, auch in englischer Sprache, beachten und
             anwenden
 
@@ -3031,693 +3165,12 @@ Zeitrahmen 7: Flugbetrieb
     *
 
 
-   **Abschnitt 4: Fachrichtung Fertigungstechnik**
+
+   **Abschnitt 4: Fachrichtung Fertigungstechnik**
+
 **19. bis 42. Ausbildungsmonat**
 
-Zeitrahmen 4: Herstellen von komplexen Baugruppen
-
-
-*    *   Lfd. Nr.
-
-    *   Teil des Ausbildungsberufsbildes
-
-    *   Zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten
-
-    *   Zeitrahmen
-        in Monaten
-
-
-*    *   1
-
-    *   2
-
-    *   3
-
-    *   4
-
-
-*    *   1
-
-    *   Planen und Organisieren der Arbeit, Bewerten der
-        Arbeitsergebnisse
-        (§ 4 Absatz 3 Nummer 1)
-
-    *
-        b)  Auftragsunterlagen sowie technische Durchführbarkeit des Auftrags
-            prüfen und mit den betrieblichen Möglichkeiten abstimmen
-
-
-        d)  Arbeitsabläufe unter Beachtung rechtlicher, wirtschaftlicher und
-            terminlicher Vorgaben planen, bei Abweichungen von der Planung
-            Prioritäten setzen
-
-
-
-
-    *
-
-*    *   2
-
-    *   Betriebliche und technische Kommunikation
-        (§ 4 Absatz 3 Nummer 2)
-
-    *
-        c)  Dokumente sowie technische Regelwerke und luftfahrtrechtliche
-            Vorschriften, auch in englischer Sprache, anwenden
-
-
-        d)  Daten erfassen, bearbeiten und sichern
-
-
-        e)  Gespräche organisieren und situationsgerecht und zielorientiert führen
-
-
-        f)  Sachverhalte darstellen, Protokolle anfertigen, englische Fachbegriffe
-            anwenden
-
-
-        g)  Dokumentationen, auch in englischer Sprache, erstellen
-
-
-
-
-    *
-
-*    *
-    *
-    *
-        h)  Kommunikation, auch in englischer Sprache, durchführen
-
-
-        i)  IT-Systeme zur Auftragsplanung und -abwicklung und Terminverfolgung
-            anwenden
-
-
-        j)  Rolle der nationalen und internationalen Luftfahrtbehörden beachten
-
-
-
-
-    *
-
-*    *   3
-
-    *   Durchführen von Funktionsprüfungen und Einstellarbeiten
-        (§ 4 Absatz 3 Nummer 4)
-
-    *
-        b)  Funktionsprüfungen an Baugruppen, Systemen und Fluggerät nach
-            Beanstandung, Fertigung und Instandhaltung durchführen
-
-
-
-
-    *
-
-*    *   4
-
-    *   Durchführen von qualitätssichernden Maßnahmen
-        (§ 4 Absatz 3 Nummer 7)
-
-    *
-        c)  zur kontinuierlichen Verbesserung von Arbeitsvorgängen im eigenen
-            Arbeitsbereich beitragen
-
-
-        d)  Befugnisse, Verantwortlichkeiten und prozessbezogene Schnittstellen
-            beachten
-
-
-        e)  Bauvorschriften, betriebliches Qualitätsmanagementhandbuch,
-            Instandhaltungs-, Fertigungshandbücher sowie Arbeitsanweisungen und
-            technische Informationen, auch in englischer Sprache, beachten und
-            anwenden
-
-
-
-
-    *   9 bis 11
-
-
-*    *   5
-
-    *   Herstellen und Instandhalten von metallischen Bauteilen für Fluggeräte
-        (§ 4 Absatz 5 Nummer 1)
-
-    *
-        a)  Bauteile, insbesondere Strukturbauteile, fertigen oder instand setzen
-
-
-        b)  Bauteile prüfen und nach Einbau auf Funktion kontrollieren
-
-
-        c)  Bauvorschriften sowie Wartungs- und Reparaturanweisungen anwenden
-
-
-        d)  Schäden an der Fluggerätstruktur bewerten und beheben
-
-
-        e)  Prüf- und Messverfahren an Bauteilen oder Fluggeräten anwenden
-
-
-        f)  Bauteile nach Bezugspunkten, -linien und -ebenen messen oder
-            ausrichten
-
-
-        g)  automatisierte Fertigungsverfahren unterscheiden
-
-
-
-
-    *
-
-*    *   6
-
-    *   Fügen und Lösen von Strukturbauteilen
-        (§ 4 Absatz 5 Nummer 3)
-
-    *
-        a)  Einzelteile zur Montage vorbereiten
-
-
-        b)  Einzelteile und Baugruppen durch Nieten, Schrauben und Kleben
-            verbinden und sichern
-
-
-        c)  luftfahrtspezifische Verbindungs- und Sicherungselemente unterscheiden
-            und verarbeiten
-
-
-        d)  Oberflächen behandeln und schützen
-
-
-
-
-    *
-
-
-   Zeitrahmen 5: Be- und Verarbeiten von Kunst- und Verbundwerkstoffen
-
-
-*    *   Lfd. Nr.
-
-    *   Teil des Ausbildungsberufsbildes
-
-    *   Zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten
-
-    *   Zeitrahmen
-        in Monaten
-
-
-*    *   1
-
-    *   2
-
-    *   3
-
-    *   4
-
-
-*    *   1
-
-    *   Planen und Organisieren
-        der Arbeit, Bewerten der
-        Arbeitsergebnisse
-        (§ 4 Absatz 3 Nummer 1)
-
-    *
-        b)  Auftragsunterlagen sowie technische Durchführbarkeit des Auftrags
-            prüfen und mit den betrieblichen Möglichkeiten abstimmen
-
-
-        d)  Arbeitsabläufe unter Beachtung rechtlicher, wirtschaftlicher und
-            terminlicher Vorgaben planen, bei Abweichungen von der Planung
-            Prioritäten setzen
-
-
-
-
-    *
-
-*    *   2
-
-    *   Betriebliche und technische Kommunikation
-        (§ 4 Absatz 3 Nummer 2)
-
-    *
-        c)  Dokumente sowie technische Regelwerke und luftfahrtrechtliche
-            Vorschriften, auch in englischer Sprache, anwenden
-
-
-        d)  Daten erfassen, bearbeiten und sichern
-
-
-
-
-    *
-
-*    *
-    *
-    *
-        e)  Gespräche organisieren und situationsgerecht und zielorientiert führen
-
-
-        f)  Sachverhalte darstellen, Protokolle anfertigen, englische Fachbegriffe
-            anwenden
-
-
-        g)  Dokumentationen, auch in englischer Sprache, erstellen
-
-
-        h)  Kommunikation, auch in englischer Sprache, durchführen
-
-
-
-
-    *
-
-*    *   3
-
-    *   Durchführen von qualitätssichernden Maßnahmen
-        (§ 4 Absatz 3 Nummer 7)
-
-    *
-        e)  Bauvorschriften, betriebliches Qualitätsmanagementhandbuch,
-            Instandhaltungs-, Fertigungshandbücher sowie Arbeitsanweisungen und
-            technische Informationen, auch in englischer Sprache, beachten und
-            anwenden
-
-
-
-
-    *   1 bis 3
-
-
-*    *   4
-
-    *   Herstellen und Instandhalten von Bauteilen aus Kunststoffen oder
-        Verbundwerkstoffen für Fluggeräte
-        (§ 4 Absatz 5 Nummer 2)
-
-    *
-        a)  beim Be- und Verarbeiten von Kunststoffbauteilen die dort geltenden
-            besonderen Maßnahmen zur Arbeitssicherheit sowie zum Gesundheits- und
-            Umweltschutz anwenden
-
-
-        b)  Bauteile fertigen oder instand setzen
-
-
-        c)  Bauteile prüfen und nach Einbau auf Funktion kontrollieren
-
-
-        d)  Bauvorschriften sowie Wartungs- und Reparaturanweisungen anwenden
-
-
-        e)  Prüf- und Messverfahren an Bauteilen oder Fluggeräten anwenden
-
-
-        f)  Bauteile nach Bezugspunkten, -linien und -ebenen messen oder
-            ausrichten
-
-
-        g)  Herstellungs- und Bearbeitungsverfahren unterscheiden
-
-
-
-
-    *
-
-*    *   5
-
-    *   Fügen und Lösen von Strukturbauteilen
-        (§ 4 Absatz 5 Nummer 3)
-
-    *
-        a)  Einzelteile zur Montage vorbereiten
-
-
-        b)  Einzelteile und Baugruppen durch Nieten, Schrauben und Kleben
-            verbinden und sichern
-
-
-        c)  luftfahrtspezifische Verbindungs- und Sicherungselemente unterscheiden
-            und verarbeiten
-
-
-        d)  Oberflächen behandeln und schützen
-
-
-
-
-    *
-
-
-   Zeitrahmen 6: Ausrüstung von Baugruppen
-
-
-*    *   Lfd. Nr.
-
-    *   Teil des Ausbildungsberufsbildes
-
-    *   Zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten
-
-    *   Zeitrahmen
-        in Monaten
-
-
-*    *   1
-
-    *   2
-
-    *   3
-
-    *   4
-
-
-*    *   1
-
-    *   Planen und Organisieren
-        der Arbeit, Bewerten der
-        Arbeitsergebnisse
-        (§ 4 Absatz 3 Nummer 1)
-
-    *
-        b)  Auftragsunterlagen sowie technische Durchführbarkeit des Auftrags
-            prüfen und mit den betrieblichen Möglichkeiten abstimmen
-
-
-        d)  Arbeitsabläufe unter Beachtung rechtlicher, wirtschaftlicher und
-            terminlicher Vorgaben planen, bei Abweichungen von der Planung
-            Prioritäten setzen
-
-
-
-
-    *
-
-*    *   2
-
-    *   Betriebliche und technische Kommunikation
-        (§ 4 Absatz 3 Nummer 2)
-
-    *
-        c)  Dokumente sowie technische Regelwerke und luftfahrtrechtliche
-            Vorschriften, auch in englischer Sprache, anwenden
-
-
-        d)  Daten erfassen, bearbeiten und sichern
-
-
-        e)  Gespräche organisieren und situationsgerecht und zielorientiert führen
-
-
-        f)  Sachverhalte darstellen, Protokolle anfertigen, englische Fachbegriffe
-            anwenden
-
-
-
-
-    *
-
-*    *
-    *
-    *
-        g)  Dokumentationen, auch in englischer Sprache, erstellen
-
-
-        h)  Kommunikation, auch in englischer Sprache, durchführen
-
-
-        i)  IT-Systeme zur Auftragsplanung und -abwicklung und Terminverfolgung
-            anwenden
-
-
-        j)  Rolle der nationalen und internationalen Luftfahrtbehörden beachten
-
-
-
-
-    *   9 bis 11
-
-
-*    *   3
-
-    *   Durchführen von Funktionsprüfungen und Einstellarbeiten
-        (§ 4 Absatz 3 Nummer 4)
-
-    *
-        a)  Test- und Prüfgeräte anwenden
-
-
-        b)  Funktionsprüfungen an Baugruppen, Systemen und Fluggerät nach
-            Beanstandung, Fertigung und Instandhaltung durchführen
-
-
-        c)  Einstellarbeiten an Baugruppen, Systemen und Fluggerät nach Fertigung
-            und Instandhaltung durchführen
-
-
-
-
-    *
-
-*    *   4
-
-    *   Instandhaltung
-        (§ 4 Absatz 3 Nummer 5)
-
-    *
-        b)  Bauteile, Geräte und Baugruppen mit begrenzter Lebensdauer
-            kontrollieren
-
-
-
-
-    *
-
-*    *   5
-
-    *   Durchführen von qualitätssichernden Maßnahmen
-        (§ 4 Absatz 3 Nummer 7)
-
-    *
-        c)  zur kontinuierlichen Verbesserung von Arbeitsvorgängen im eigenen
-            Arbeitsbereich beitragen
-
-
-        d)  Befugnisse, Verantwortlichkeiten und prozessbezogene Schnittstellen
-            beachten
-
-
-        e)  Bauvorschriften, betriebliches Qualitätsmanagementhandbuch,
-            Instandhaltungs-, Fertigungshandbücher sowie Arbeitsanweisungen und
-            technische Informationen, auch in englischer Sprache, beachten und
-            anwenden
-
-
-
-
-    *
-
-*    *   6
-
-    *   Montieren von Fluggerät-
-        systemkomponenten
-        (§ 4 Absatz 5 Nummer 4)
-
-    *
-        a)  Systemkomponenten, insbesondere Hydraulik und Pneumatik, nach
-            Fertigungsvorschriften montieren
-
-
-        b)  Baugruppen und mechanische Systeme am Fluggerät montieren
-
-
-
-
-    *
-
-
-   Zeitrahmen 7: Wartung und Inspektion
-
-
-*    *   Lfd. Nr.
-
-    *   Teil des Ausbildungsberufsbildes
-
-    *   Zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten
-
-    *   Zeitrahmen
-        in Monaten
-
-
-*    *   1
-
-    *   2
-
-    *   3
-
-    *   4
-
-
-*    *   1
-
-    *   Planen und Organisieren
-        der Arbeit, Bewerten der
-        Arbeitsergebnisse
-        (§ 4 Absatz 3 Nummer 1)
-
-    *
-        b)  Auftragsunterlagen sowie technische Durchführbarkeit des Auftrags
-            prüfen und mit den betrieblichen Möglichkeiten abstimmen
-
-
-        d)  Arbeitsabläufe unter Beachtung rechtlicher, wirtschaftlicher und
-            terminlicher Vorgaben planen, bei Abweichungen von der Planung
-            Prioritäten setzen
-
-
-
-
-    *
-
-*    *   2
-
-    *   Betriebliche und technische Kommunikation
-        (§ 4 Absatz 3 Nummer 2)
-
-    *
-        c)  Dokumente sowie technische Regelwerke und luftfahrtrechtliche
-            Vorschriften, auch in englischer Sprache, anwenden
-
-
-        d)  Daten erfassen, bearbeiten und sichern
-
-
-        e)  Gespräche organisieren und situationsgerecht und zielorientiert führen
-
-
-        f)  Sachverhalte darstellen, Protokolle anfertigen, englische Fachbegriffe
-            anwenden
-
-
-        g)  Dokumentationen, auch in englischer Sprache, erstellen
-
-
-
-
-    *
-
-*    *
-    *
-    *
-        h)  Kommunikation, auch in englischer Sprache, durchführen
-
-
-        i)  IT-Systeme zur Auftragsplanung und -abwicklung und Terminverfolgung
-            anwenden
-
-
-        j)  Rolle der nationalen und internationalen Luftfahrtbehörden beachten
-
-
-
-
-    *
-
-*    *   3
-
-    *   Durchführen von Funktionsprüfungen und Einstellarbeiten
-        (§ 4 Absatz 3 Nummer 4)
-
-    *
-        a)  Test- und Prüfgeräte anwenden
-
-
-        b)  Funktionsprüfungen an Baugruppen, Systemen und Fluggerät nach
-            Beanstandung, Fertigung und Instandhaltung durchführen
-
-
-        c)  Einstellarbeiten an Baugruppen, Systemen und Fluggerät nach Fertigung
-            und Instandhaltung durchführen
-
-
-
-
-    *   1 bis 3
-
-
-*    *   4
-
-    *   Instandhaltung
-        (§ 4 Absatz 3 Nummer 5)
-
-    *
-        a)  Inspektions-, Wartungs-, Instandsetzungs- und Modifikationsarbeiten
-            nach Instandhaltungsunterlagen an luftfahrzeug- und typenspezifischen
-            Systemen durchführen
-
-
-        b)  Bauteile, Geräte und Baugruppen mit begrenzter Lebensdauer
-            kontrollieren
-
-
-        c)  Fehlersuche und Überprüfungen an luftfahrzeug- und typenspezifischen
-            Systemen durchführen sowie Instandhaltungsmaßnahmen veranlassen
-
-
-
-
-    *
-
-*    *   5
-
-    *   Analysieren von Störungen an Antriebssystemen
-        (§ 4 Absatz 3 Nummer 6)
-
-    *
-        a)  Sicherheitsvorschriften beachten, Sicherungsmaßnamen sowie
-            vorbereitende Arbeiten für die Wartung und Instandsetzung durchführen
-
-
-        b)  Schäden feststellen und deren Behebung veranlassen
-
-
-
-
-    *
-
-*    *   6
-
-    *   Durchführen von qualitätssichernden Maßnahmen
-        (§ 4 Absatz 3 Nummer 7)
-
-    *
-        c)  zur kontinuierlichen Verbesserung von Arbeitsvorgängen im eigenen
-            Arbeitsbereich beitragen
-
-
-        d)  Befugnisse, Verantwortlichkeiten und prozessbezogene Schnittstellen
-            beachten
-
-
-        e)  Bauvorschriften, betriebliches Qualitätsmanagementhandbuch,
-            Instandhaltungs-, Fertigungshandbücher sowie Arbeitsanweisungen und
-            technische Informationen, auch in englischer Sprache, beachten und
-            anwenden
-
-
-
-
-    *
-
-
-   **Abschnitt 5: Fachrichtung Triebwerkstechnik**
-**19. bis 42. Ausbildungsmonat**
-
-Zeitrahmen 4: Wartung, Inspektion und Modifikation
-
+Zeitrahmen 4: Herstellen von komplexen Baugruppen
 
 *    *   Lfd. Nr.
 
@@ -3790,7 +3243,7 @@ Zeitrahmen 4: Wartung, Inspektion und Modifikation
         h)  Kommunikation, auch in englischer Sprache, durchführen
 
 
-        i)  IT-Systeme zur Auftragsplanung und -abwicklung und Terminverfolgung
+        i)  IT-Systeme zur Auftragsplanung und -abwicklung sowie Terminverfolgung
             anwenden
 
 
@@ -3803,8 +3256,665 @@ Zeitrahmen 4: Wartung, Inspektion und Modifikation
 
 *    *   3
 
-    *   Durchführen von Funktionsprüfungen und
-        Einstellarbeiten
+    *   Durchführen von Funktionsprüfungen und Einstellarbeiten
+        (§ 4 Absatz 3 Nummer 4)
+
+    *
+        b)  Funktionsprüfungen an Baugruppen, Systemen und Fluggerät nach
+            Beanstandung, Fertigung und Instandhaltung durchführen
+
+
+
+
+    *
+
+*    *   4
+
+    *   Durchführen von qualitätssichernden Maßnahmen
+        (§ 4 Absatz 3 Nummer 7)
+
+    *
+        d)  zur kontinuierlichen Verbesserung von Arbeitsvorgängen im eigenen
+            Arbeitsbereich beitragen sowie die Redlichkeitskultur berücksichtigen
+            und fördern
+
+
+        e)  Befugnisse, Verantwortlichkeiten und prozessbezogene Schnittstellen
+            beachten
+
+
+        f)  Bauvorschriften, betriebliches Qualitätsmanagementhandbuch,
+            Instandhaltungs- und Fertigungshandbücher sowie Arbeitsanweisungen und
+            technische Informationen, auch in englischer Sprache, beachten und
+            anwenden
+
+
+
+
+    *   9 bis 11
+
+
+*    *   5
+
+    *   Herstellen und Instandhalten von metallischen Bauteilen für Fluggeräte
+        (§ 4 Absatz 5 Nummer 1)
+
+    *
+        a)  Bauteile, insbesondere Strukturbauteile, fertigen oder instand setzen
+
+
+        b)  Bauteile prüfen und nach Einbau auf Funktion kontrollieren
+
+
+        c)  Bauvorschriften sowie Wartungs- und Reparaturanweisungen anwenden
+
+
+        d)  Schäden an der Fluggerätstruktur bewerten und beheben
+
+
+        e)  Prüf- und Messverfahren an Bauteilen oder Fluggeräten anwenden
+
+
+        f)  Bauteile nach Bezugspunkten, -linien und -ebenen messen oder
+            ausrichten
+
+
+        g)  automatisierte Fertigungsverfahren unterscheiden
+
+
+
+
+    *
+
+*    *   6
+
+    *   Fügen und Lösen von Strukturbauteilen
+        (§ 4 Absatz 5 Nummer 3)
+
+    *
+        a)  Einzelteile zur Montage vorbereiten
+
+
+        b)  Einzelteile und Baugruppen durch Nieten, Schrauben und Kleben
+            verbinden und sichern
+
+
+        c)  luftfahrtspezifische Verbindungs- und Sicherungselemente unterscheiden
+            und verarbeiten
+
+
+        d)  Oberflächen behandeln und schützen
+
+
+
+
+    *
+
+
+
+   Zeitrahmen 5: Be- und Verarbeiten von Kunst- und Verbundwerkstoffen
+
+*    *   Lfd. Nr.
+
+    *   Teil des Ausbildungsberufsbildes
+
+    *   Zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten
+
+    *   Zeitrahmen
+        in Monaten
+
+
+*    *   1
+
+    *   2
+
+    *   3
+
+    *   4
+
+
+*    *   1
+
+    *   Planen und Organisieren der Arbeit, Bewerten der Arbeitsergebnisse
+        (§ 4 Absatz 3 Nummer 1)
+
+    *
+        b)  Auftragsunterlagen sowie technische Durchführbarkeit des Auftrags
+            prüfen und mit den betrieblichen Möglichkeiten abstimmen
+
+
+        d)  Arbeitsabläufe unter Beachtung rechtlicher, wirtschaftlicher und
+            terminlicher Vorgaben planen, bei Abweichungen von der Planung
+            Prioritäten setzen
+
+
+
+
+    *
+
+*    *   2
+
+    *   Betriebliche und technische Kommunikation
+        (§ 4 Absatz 3 Nummer 2)
+
+    *
+        c)  Dokumente sowie technische Regelwerke und luftfahrtrechtliche
+            Vorschriften, auch in englischer Sprache, anwenden
+
+
+        d)  Daten erfassen, bearbeiten und sichern
+
+
+        e)  Gespräche organisieren und situationsgerecht und zielorientiert führen
+
+
+        f)  Sachverhalte darstellen, Protokolle anfertigen, englische Fachbegriffe
+            anwenden
+
+
+        g)  Dokumentationen, auch in englischer Sprache, erstellen
+
+
+        h)  Kommunikation, auch in englischer Sprache, durchführen
+
+
+
+
+    *
+
+*    *   3
+
+    *   Durchführen von qualitätssichernden Maßnahmen
+        (§ 4 Absatz 3 Nummer 7)
+
+    *
+        f)  Bauvorschriften, betriebliches Qualitätsmanagementhandbuch,
+            Instandhaltungs- und Fertigungshandbücher sowie Arbeitsanweisungen und
+            technische Informationen, auch in englischer Sprache, beachten und
+            anwenden
+
+
+
+
+    *   1 bis 3
+
+
+*    *   4
+
+    *   Herstellen und Instandhalten von Bauteilen aus Kunststoffen oder
+        Verbundwerkstoffen für Fluggeräte
+        (§ 4 Absatz 5 Nummer 2)
+
+    *
+        a)  beim Be- und Verarbeiten von Kunststoffbauteilen die dort geltenden
+            besonderen Maßnahmen zur Arbeitssicherheit sowie zum Gesundheits- und
+            Umweltschutz anwenden
+
+
+        b)  Bauteile fertigen oder instand setzen
+
+
+        c)  Bauteile prüfen und nach Einbau auf Funktion kontrollieren
+
+
+        d)  Bauvorschriften sowie Wartungs- und Reparaturanweisungen anwenden
+
+
+        e)  Prüf- und Messverfahren an Bauteilen oder Fluggeräten anwenden
+
+
+        f)  Bauteile nach Bezugspunkten, -linien und -ebenen messen oder
+            ausrichten
+
+
+        g)  Herstellungs- und Bearbeitungsverfahren unterscheiden
+
+
+
+
+    *
+
+*    *   5
+
+    *   Fügen und Lösen von Strukturbauteilen
+        (§ 4 Absatz 5 Nummer 3)
+
+    *
+        a)  Einzelteile zur Montage vorbereiten
+
+
+        b)  Einzelteile und Baugruppen durch Nieten, Schrauben und Kleben
+            verbinden und sichern
+
+
+        c)  luftfahrtspezifische Verbindungs- und Sicherungselemente unterscheiden
+            und verarbeiten
+
+
+        d)  Oberflächen behandeln und schützen
+
+
+
+
+    *
+
+
+
+   Zeitrahmen 6: Ausrüstung von Baugruppen
+
+*    *   Lfd. Nr.
+
+    *   Teil des Ausbildungsberufsbildes
+
+    *   Zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten
+
+    *   Zeitrahmen
+        in Monaten
+
+
+*    *   1
+
+    *   2
+
+    *   3
+
+    *   4
+
+
+*    *   1
+
+    *   Planen und Organisieren der Arbeit, Bewerten der Arbeitsergebnisse
+        (§ 4 Absatz 3 Nummer 1)
+
+    *
+        b)  Auftragsunterlagen sowie technische Durchführbarkeit des Auftrags
+            prüfen und mit den betrieblichen Möglichkeiten abstimmen
+
+
+        d)  Arbeitsabläufe unter Beachtung rechtlicher, wirtschaftlicher und
+            terminlicher Vorgaben planen, bei Abweichungen von der Planung
+            Prioritäten setzen
+
+
+
+
+    *
+
+*    *   2
+
+    *   Betriebliche und technische Kommunikation
+        (§ 4 Absatz 3 Nummer 2)
+
+    *
+        c)  Dokumente sowie technische Regelwerke und luftfahrtrechtliche
+            Vorschriften, auch in englischer Sprache, anwenden
+
+
+        d)  Daten erfassen, bearbeiten und sichern
+
+
+        e)  Gespräche organisieren und situationsgerecht und zielorientiert führen
+
+
+        f)  Sachverhalte darstellen, Protokolle anfertigen, englische Fachbegriffe
+            anwenden
+
+
+        g)  Dokumentationen, auch in englischer Sprache, erstellen
+
+
+        h)  Kommunikation, auch in englischer Sprache, durchführen
+
+
+        i)  IT-Systeme zur Auftragsplanung und -abwicklung sowie Terminverfolgung
+            anwenden
+
+
+        j)  Rolle der nationalen und internationalen Luftfahrtbehörden beachten
+
+
+
+
+    *   9 bis 11
+
+
+*    *   3
+
+    *   Durchführen von Funktionsprüfungen und Einstellarbeiten
+        (§ 4 Absatz 3 Nummer 4)
+
+    *
+        a)  Test- und Prüfgeräte anwenden
+
+
+        b)  Funktionsprüfungen an Baugruppen, Systemen und Fluggerät nach
+            Beanstandung, Fertigung und Instandhaltung durchführen
+
+
+        c)  Einstellarbeiten an Baugruppen, Systemen und Fluggerät nach Fertigung
+            und Instandhaltung durchführen
+
+
+
+
+    *
+
+*    *   4
+
+    *   Instandhaltung
+        (§ 4 Absatz 3 Nummer 5)
+
+    *
+        b)  Bauteile, Geräte und Baugruppen mit begrenzter Lebensdauer
+            kontrollieren
+
+
+
+
+    *
+
+*    *   5
+
+    *   Durchführen von qualitätssichernden Maßnahmen
+        (§ 4 Absatz 3 Nummer 7)
+
+    *
+        d)  zur kontinuierlichen Verbesserung von Arbeitsvorgängen im eigenen
+            Arbeitsbereich beitragen sowie die Redlichkeitskultur berücksichtigen
+            und fördern
+
+
+        e)  Befugnisse, Verantwortlichkeiten und prozessbezogene Schnittstellen
+            beachten
+
+
+        f)  Bauvorschriften, betriebliches Qualitätsmanagementhandbuch,
+            Instandhaltungs- und Fertigungshandbücher sowie Arbeitsanweisungen und
+            technische Informationen, auch in englischer Sprache, beachten und
+            anwenden
+
+
+
+
+    *
+
+*    *   6
+
+    *   Montieren von Fluggerätsystemkomponenten
+        (§ 4 Absatz 5 Nummer 4)
+
+    *
+        a)  Systemkomponenten, insbesondere Hydraulik und Pneumatik, nach
+            Fertigungsvorschriften montieren
+
+
+        b)  Baugruppen und mechanische Systeme am Fluggerät montieren
+
+
+
+
+    *
+
+
+
+   Zeitrahmen 7: Wartung und Inspektion
+
+*    *   Lfd. Nr.
+
+    *   Teil des Ausbildungsberufsbildes
+
+    *   Zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten
+
+    *   Zeitrahmen
+        in Monaten
+
+
+*    *   1
+
+    *   2
+
+    *   3
+
+    *   4
+
+
+*    *   1
+
+    *   Planen und Organisieren der Arbeit, Bewerten der Arbeitsergebnisse
+        (§ 4 Absatz 3 Nummer 1)
+
+    *
+        b)  Auftragsunterlagen sowie technische Durchführbarkeit des Auftrags
+            prüfen und mit den betrieblichen Möglichkeiten abstimmen
+
+
+        d)  Arbeitsabläufe unter Beachtung rechtlicher, wirtschaftlicher und
+            terminlicher Vorgaben planen, bei Abweichungen von der Planung
+            Prioritäten setzen
+
+
+
+
+    *
+
+*    *   2
+
+    *   Betriebliche und technische Kommunikation
+        (§ 4 Absatz 3 Nummer 2)
+
+    *
+        c)  Dokumente sowie technische Regelwerke und luftfahrtrechtliche
+            Vorschriften, auch in englischer Sprache, anwenden
+
+
+        d)  Daten erfassen, bearbeiten und sichern
+
+
+        e)  Gespräche organisieren und situationsgerecht und zielorientiert führen
+
+
+        f)  Sachverhalte darstellen, Protokolle anfertigen, englische Fachbegriffe
+            anwenden
+
+
+        g)  Dokumentationen, auch in englischer Sprache, erstellen
+
+
+        h)  Kommunikation, auch in englischer Sprache, durchführen
+
+
+        i)  IT-Systeme zur Auftragsplanung und -abwicklung sowie Terminverfolgung
+            anwenden
+
+
+        j)  Rolle der nationalen und internationalen Luftfahrtbehörden beachten
+
+
+
+
+    *
+
+*    *   3
+
+    *   Durchführen von Funktionsprüfungen und Einstellarbeiten
+        (§ 4 Absatz 3 Nummer 4)
+
+    *
+        a)  Test- und Prüfgeräte anwenden
+
+
+        b)  Funktionsprüfungen an Baugruppen, Systemen und Fluggerät nach
+            Beanstandung, Fertigung und Instandhaltung durchführen
+
+
+        c)  Einstellarbeiten an Baugruppen, Systemen und Fluggerät nach Fertigung
+            und Instandhaltung durchführen
+
+
+
+
+    *   1 bis 3
+
+
+*    *   4
+
+    *   Instandhaltung
+        (§ 4 Absatz 3 Nummer 5)
+
+    *
+        a)  Inspektions-, Wartungs-, Instandsetzungs- und Modifikationsarbeiten
+            nach Instandhaltungsunterlagen an luftfahrzeug- und typenspezifischen
+            Systemen durchführen
+
+
+        b)  Bauteile, Geräte und Baugruppen mit begrenzter Lebensdauer
+            kontrollieren
+
+
+        c)  Fehlersuche und Überprüfungen an luftfahrzeug- und typenspezifischen
+            Systemen unter Berücksichtigung mathematischer und physikalischer
+            Grundlagen durchführen sowie Instandhaltungsmaßnahmen veranlassen
+
+
+
+
+    *
+
+*    *   5
+
+    *   Analysieren von Störungen an Antriebssystemen
+        (§ 4 Absatz 3 Nummer 6)
+
+    *
+        a)  Sicherheitsvorschriften beachten, Sicherungsmaßnahmen sowie
+            vorbereitende Arbeiten für die Wartung und Instandsetzung durchführen
+
+
+        b)  Schäden feststellen und deren Behebung veranlassen
+
+
+
+
+    *
+
+*    *   6
+
+    *   Durchführen von qualitätssichernden Maßnahmen
+        (§ 4 Absatz 3 Nummer 7)
+
+    *
+        d)  zur kontinuierlichen Verbesserung von Arbeitsvorgängen im eigenen
+            Arbeitsbereich beitragen sowie die Redlichkeitskultur berücksichtigen
+            und fördern
+
+
+        e)  Befugnisse, Verantwortlichkeiten und prozessbezogene Schnittstellen
+            beachten
+
+
+
+
+    *
+
+*    *
+    *
+    *
+        f)  Bauvorschriften, betriebliches Qualitätsmanagementhandbuch,
+            Instandhaltungs- und Fertigungshandbücher sowie Arbeitsanweisungen und
+            technische Informationen, auch in englischer Sprache, beachten und
+            anwenden
+
+
+
+
+    *
+
+
+
+   **Abschnitt 5: Fachrichtung Triebwerkstechnik**
+
+**19. bis 42. Ausbildungsmonat**
+
+Zeitrahmen 4: Wartung, Inspektion und Modifikation
+
+*    *   Lfd. Nr.
+
+    *   Teil des Ausbildungsberufsbildes
+
+    *   Zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten
+
+    *   Zeitrahmen
+        in Monaten
+
+
+*    *   1
+
+    *   2
+
+    *   3
+
+    *   4
+
+
+*    *   1
+
+    *   Planen und Organisieren der Arbeit, Bewerten der Arbeitsergebnisse
+        (§ 4 Absatz 3 Nummer 1)
+
+    *
+        b)  Auftragsunterlagen sowie technische Durchführbarkeit des Auftrags
+            prüfen und mit den betrieblichen Möglichkeiten abstimmen
+
+
+        d)  Arbeitsabläufe unter Beachtung rechtlicher, wirtschaftlicher und
+            terminlicher Vorgaben planen, bei Abweichungen von der Planung
+            Prioritäten setzen
+
+
+
+
+    *
+
+*    *   2
+
+    *   Betriebliche und technische Kommunikation
+        (§ 4 Absatz 3 Nummer 2)
+
+    *
+        c)  Dokumente sowie technische Regelwerke und luftfahrtrechtliche
+            Vorschriften, auch in englischer Sprache, anwenden
+
+
+        d)  Daten erfassen, bearbeiten und sichern
+
+
+        e)  Gespräche organisieren und situationsgerecht und zielorientiert führen
+
+
+        f)  Sachverhalte darstellen, Protokolle anfertigen, englische Fachbegriffe
+            anwenden
+
+
+        g)  Dokumentationen, auch in englischer Sprache, erstellen
+
+
+        h)  Kommunikation, auch in englischer Sprache, durchführen
+
+
+        i)  IT-Systeme zur Auftragsplanung und -abwicklung sowie Terminverfolgung
+            anwenden
+
+
+        j)  Rolle der nationalen und internationalen Luftfahrtbehörden beachten
+
+
+
+
+    *
+
+*    *   3
+
+    *   Durchführen von Funktionsprüfungen und Einstellarbeiten
         (§ 4 Absatz 3 Nummer 4)
 
     *
@@ -3831,7 +3941,8 @@ Zeitrahmen 4: Wartung, Inspektion und Modifikation
 
 
         c)  Fehlersuche und Überprüfungen an luftfahrzeug- und typenspezifischen
-            Systemen durchführen sowie Instandhaltungsmaßnahmen veranlassen
+            Systemen unter Berücksichtigung mathematischer und physikalischer
+            Grundlagen durchführen sowie Instandhaltungsmaßnahmen veranlassen
 
 
 
@@ -3862,8 +3973,8 @@ Zeitrahmen 4: Wartung, Inspektion und Modifikation
         (§ 4 Absatz 3 Nummer 7)
 
     *
-        e)  Bauvorschriften, betriebliches Qualitätsmanagementhandbuch,
-            Instandhaltungs-, Fertigungshandbücher sowie Arbeitsanweisungen und
+        f)  Bauvorschriften, betriebliches Qualitätsmanagementhandbuch,
+            Instandhaltungs- und Fertigungshandbücher sowie Arbeitsanweisungen und
             technische Informationen, auch in englischer Sprache, beachten und
             anwenden
 
@@ -3937,8 +4048,8 @@ Zeitrahmen 4: Wartung, Inspektion und Modifikation
     *
 
 
-   Zeitrahmen 5: Analyse und Behebung von Störungen und Schäden
 
+   Zeitrahmen 5: Analyse und Behebung von Störungen und Schäden
 
 *    *   Lfd. Nr.
 
@@ -3961,9 +4072,7 @@ Zeitrahmen 4: Wartung, Inspektion und Modifikation
 
 *    *   1
 
-    *   Planen und Organisieren
-        der Arbeit, Bewerten der
-        Arbeitsergebnisse
+    *   Planen und Organisieren der Arbeit, Bewerten der Arbeitsergebnisse
         (§ 4 Absatz 3 Nummer 1)
 
     *
@@ -3978,8 +4087,7 @@ Zeitrahmen 4: Wartung, Inspektion und Modifikation
 
 
 
-    *   3 bis 5
-
+    *
 
 *    *   2
 
@@ -4009,6 +4117,7 @@ Zeitrahmen 4: Wartung, Inspektion und Modifikation
 
 
 
+    *
 
 *    *   3
 
@@ -4021,11 +4130,21 @@ Zeitrahmen 4: Wartung, Inspektion und Modifikation
             Systemen durchführen
 
 
+
+
+    *
+
+*    *
+    *
+    *
         c)  Fehlersuche und Überprüfungen an luftfahrzeug- und typenspezifischen
-            Systemen durchführen sowie Instandhaltungsmaßnahmen veranlassen
+            Systemen unter Berücksichtigung mathematischer und physikalischer
+            Grundlagen durchführen sowie Instandhaltungsmaßnahmen veranlassen
 
 
 
+
+    *   3 bis 5
 
 
 *    *   4
@@ -4043,6 +4162,7 @@ Zeitrahmen 4: Wartung, Inspektion und Modifikation
 
 
 
+    *
 
 *    *   5
 
@@ -4050,22 +4170,24 @@ Zeitrahmen 4: Wartung, Inspektion und Modifikation
         (§ 4 Absatz 3 Nummer 7)
 
     *
-        c)  zur kontinuierlichen Verbesserung von Arbeitsvorgängen im eigenen
-            Arbeitsbereich beitragen
+        d)  zur kontinuierlichen Verbesserung von Arbeitsvorgängen im eigenen
+            Arbeitsbereich beitragen sowie die Redlichkeitskultur berücksichtigen
+            und fördern
 
 
-        d)  Befugnisse, Verantwortlichkeiten und prozessbezogene Schnittstellen
+        e)  Befugnisse, Verantwortlichkeiten und prozessbezogene Schnittstellen
             beachten
 
 
-        e)  Bauvorschriften, betriebliches Qualitätsmanagementhandbuch,
-            Instandhaltungs-, Fertigungshandbücher sowie Arbeitsanweisungen und
+        f)  Bauvorschriften, betriebliches Qualitätsmanagementhandbuch,
+            Instandhaltungs- und Fertigungshandbücher sowie Arbeitsanweisungen und
             technische Informationen, auch in englischer Sprache, beachten und
             anwenden
 
 
 
 
+    *
 
 *    *   6
 
@@ -4090,10 +4212,11 @@ Zeitrahmen 4: Wartung, Inspektion und Modifikation
 
 
 
+    *
 
 
-Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
 
+   Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
 
 *    *   Lfd. Nr.
 
@@ -4116,9 +4239,7 @@ Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
 
 *    *   1
 
-    *   Planen und Organisieren
-        der Arbeit, Bewerten der
-        Arbeitsergebnisse
+    *   Planen und Organisieren der Arbeit, Bewerten der Arbeitsergebnisse
         (§ 4 Absatz 3 Nummer 1)
 
     *
@@ -4129,8 +4250,7 @@ Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
 
 
 
-    *   6 bis 8
-
+    *
 
 *    *   2
 
@@ -4144,6 +4264,7 @@ Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
 
 
 
+    *
 
 *    *   3
 
@@ -4164,6 +4285,7 @@ Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
 
 
 
+    *
 
 *    *   4
 
@@ -4172,11 +4294,13 @@ Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
 
     *
         c)  Fehlersuche und Überprüfungen an luftfahrzeug- und typenspezifischen
-            Systemen durchführen sowie Instandhaltungsmaßnahmen veranlassen
+            Systemen unter Berücksichtigung mathematischer und physikalischer
+            Grundlagen durchführen sowie Instandhaltungsmaßnahmen veranlassen
 
 
 
 
+    *
 
 *    *   5
 
@@ -4189,6 +4313,7 @@ Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
 
 
 
+    *
 
 *    *   6
 
@@ -4201,6 +4326,7 @@ Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
 
 
 
+    *
 
 *    *   7
 
@@ -4212,6 +4338,8 @@ Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
 
 
 
+
+    *   6 bis 8
 
 
 *    *   8
@@ -4247,6 +4375,7 @@ Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
 
 
 
+    *
 
 *    *   9
 
@@ -4268,28 +4397,30 @@ Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
 
 
 
+    *
 
 
-(zu § 4 Absatz 1)
 
-## Anlage 3 Regelung zur Vermittlung der Fertigkeiten, Kenntnisse und Fähigkeiten nach Verordnung (EU) Nr. 1149/2011 Anhang III (Teil 66)
+   (zu § 4 Absatz 1)
 
-(Fundstelle: BGBl. I 2013, 1916 - 1924)
+## Anlage 3 Regelung zur Vermittlung der Fertigkeiten, Kenntnisse und Fähigkeiten nach der Verordnung (EU) Nr. 1321/2014 in Verbindung mit der Verordnung (EU) 2023/989 Anhang III (Teil 66)
+
+(Fundstelle: BGBl. 2024 I Nr. 186, S. 23 – 37)
 
 
-*    *   erforderliche Kenntnisse für CAT A
+*    *   erforderliche Kenntnisse für Kat. A
 
     *   gefordertes LEVEL
 
-    *   Sind im
-        Zusammenhang
-        mit folgenden
-        Fertigkeiten
-        Kenntnissen und
-        Fähigkeiten des Ausbildungsrahmenplans zu vermitteln
+    *   Sind im Zusammenhang
+        mit folgenden Fertigkeiten,
+        Kenntnissen und Fähigkeiten
+        des Ausbildungsrahmenplans
+        zu vermitteln
         (Mehrfachnennung möglich)
 
-    *   im Rahmenlehrplan (RLP) enthalten in
+    *   im Rahmenlehrplan (RLP)
+        enthalten
         (Mehrfachnennung möglich)
 
 
@@ -4297,30 +4428,195 @@ Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
 
     *   Bezeichnung
 
-    *   Lernfelder
-        1–8
-        (1. und 2. Lehrjahr)
+    *   Lernfelder 1–4
+        (identisch mit FGE)
+        Lernfelder 5–12
+        (nur FGM)
 
-    *   Lernfelder
-        9–12
-        (Instandhaltung)
 
-    *   Lernfelder
-        9–12
-        (Fertigungs-technik)
+*    *   **01**
 
-    *   Lernfelder
-        9–12
-        (Triebwerks-technik)
+    *   **Modul 1. Mathematik**
+
+    *
+    *
+    *
+
+*    *
+    *   1.1 Arithmetik
+
+    *   1
+
+    *   Abschnitt A: 3c, 3d, 3e, 3f, 3i, 3j, 5c
+
+    *   Lernfeld 2
+
+
+*    *
+    *   1.2 Algebra
+
+    *
+    *
+    *
+
+*    *
+    *   a) Einfache algebraische Ausdrücke
+
+    *   1
+
+    *   Abschnitt A: 3c, 3d, 3e, 3f, 3i, 3j, 5c
+
+    *   Lernfeld 2
+
+
+*    *
+    *   1.3 Geometrie
+
+    *
+    *
+    *
+
+*    *
+    *   b) Grafische Darstellung
+
+    *   2
+
+    *   Abschnitt A: 3c, 3d, 3e, 3f, 3i, 3j, 5c
+
+    *   Lernfeld 3, 4
+
+
+*    *   **02**
+
+    *   **Modul 2. Physik**
+
+    *
+    *
+    *
+
+*    *
+    *   2.1 Materie
+
+    *   1
+
+    *   Abschnitt A: 3c, 3d, 3e, 3f, 3i, 3j
+
+    *   Lernfeld 1
+
+
+*    *
+    *   2.2 Mechanik
+
+    *
+    *
+    *
+
+*    *
+    *   2.2.1 Statik
+
+    *   1
+
+    *   Abschnitt A: 3c, 3d, 3e, 3f, 3i, 3j, 5c
+
+    *   Lernfeld 1
+
+
+*    *
+    *   2.2.2 Kinetik
+
+    *   1
+
+    *   Abschnitt A: 3c, 3d, 3e, 3f, 3i, 3j, 5c
+
+    *   Lernfeld 1
+
+
+*    *
+    *   2.2.3 Dynamik
+
+    *
+    *
+    *
+
+*    *
+    *   a) Masse, Kraft und Energie
+
+    *   1
+
+    *   Abschnitt A: 3c, 3d, 3e, 3f, 3i, 3j, 5c
+
+    *   Lernfeld 1
+
+
+*    *
+    *   b) Bewegungsenergie und Erhaltung der Bewegungsenergie
+
+    *   1
+
+    *   Abschnitt A: 3c, 3d, 3e, 3f, 3i, 3j, 5c
+
+    *   Lernfeld 1
+
+
+*    *
+    *   2.2.4 Fluiddynamik
+
+    *
+    *
+    *
+
+*    *
+    *   a) Spezifisches Gewicht und spezifische Dichte
+
+    *   2
+
+    *   Abschnitt A: 3c, 3d, 3e, 3f, 3i, 3j, 5c
+
+    *   Lernfeld 7
+
+
+*    *
+    *   b) Viskosität, Flüssigkeitswiderstand, Statischer, dynamischer und
+        Gesamtdruck
+
+    *   1
+
+    *   Abschnitt A: 3c, 3d, 3e, 3f, 3i, 3j, 5c
+
+    *   Lernfeld 7
+
+
+*    *
+    *   2.3 Thermodynamik
+
+    *
+    *
+    *
+
+*    *
+    *   a) Temperatur
+
+    *   2
+
+    *   Abschnitt A: 3c, 3d, 3e, 3f, 3i, 3j, 5c
+
+    *   Lernfeld 6
+
+
+*    *
+    *   b) Wärme
+
+    *   1
+
+    *   Abschnitt A: 3c, 3d, 3e, 3f, 3i, 3j, 5c
+
+    *   Lernfeld 6
 
 
 *    *   **03**
 
-    *   **Grundlagen Elektrik**
+    *   **Modul 3. Grundlagen der Elektrik**
 
-    *
-    *
-    *
     *
     *
     *
@@ -4330,13 +4626,10 @@ Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
 
     *   1
 
-    *   Abschnitt A: 3c, 3d, 3h, 3i, 4a, 4c
+    *   Abschnitt A: 3c, 3d, 3i, 3j, 4a, 4c
 
     *   Lernfeld 2
 
-    *
-    *
-    *
 
 *    *
     *   3.2 Statische Elektrizität und Leitung
@@ -4347,12 +4640,9 @@ Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
 
     *   Lernfeld 2
 
-    *
-    *
-    *
 
 *    *
-    *   3.3 Elektrische Begriffe
+    *   3.3 Terminologie der Elektrik
 
     *   1
 
@@ -4360,9 +4650,6 @@ Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
 
     *   Lernfeld 2
 
-    *
-    *
-    *
 
 *    *
     *   3.4 Stromerzeugung
@@ -4373,9 +4660,6 @@ Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
 
     *   Lernfeld 2
 
-    *
-    *
-    *
 
 *    *
     *   3.5 Gleichstromquellen
@@ -4386,9 +4670,16 @@ Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
 
     *   Lernfeld 2
 
-    *
-    *
-    *
+
+*    *
+    *   3.6 Gleichstromkreis
+
+    *   1
+
+    *   Abschnitt A: 3c, 3d, 4a, 4c
+
+    *   Lernfeld 2
+
 
 *    *
     *   3.13 Wechselstromtheorie
@@ -4399,46 +4690,28 @@ Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
 
     *   Lernfeld 2
 
-    *
-    *
-    *
 
 *    *   **05**
 
-    *   Digitaltechniken
-        und elektronische
-        **Instrumentensysteme**
+    *   **Modul 5. Instrumentensysteme der Digitaltechniken/Elektronik**
 
-    *
-    *
-    *
     *
     *
     *
 
 *    *
-    *   5.1 Elektronische
-        Instrumentensysteme
+    *   5.1 Elektronische Instrumentensysteme
 
     *   1
 
-    *   Abschnitt A: 3j, 4a, 4c
+    *   Abschnitt A: 3k, 4a, 4c
 
-    *   Lernfeld 2
-
-    *   Lernfeld 9
-
-    *   Lernfeld 10
-
-    *   Lernfeld 12
+    *   Lernfeld 2, Lernfeld 9
 
 
 *    *
     *   5.6 Computergrundstruktur
 
-    *
-    *
-    *
     *
     *
     *
@@ -4448,54 +4721,58 @@ Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
 
     *   1
 
-    *   Abschnitt A: 3j
+    *   Abschnitt A: 3k
 
     *   Lernfeld 2
 
-    *
-    *
-    *
 
 *    *
-    *   5.12 Elektrostatisch
-        empfindliche
-        Komponenten
+    *   5.11 Elektronische Anzeigen
 
     *   1
 
-    *   Abschnitt A: 3j, 4a, 4c
+    *   Abschnitt A: 3b, 3k, 4a, 4c
 
     *   Lernfeld 2
 
-    *
-    *
-    *
+
+*    *
+    *   5.12 Elektrostatisch empfindliche Komponenten
+
+    *   1
+
+    *   Abschnitt A: 3k, 4a, 4c
+
+    *   Lernfeld 2
+
+
+*    *
+    *   5.15 Typische elektronische/digitale Luftfahrzeugsysteme
+
+    *   1
+
+    *   Abschnitt A: 3b, 3k, 4b, 4c, 5a, 5c
+
+    *   Lernfeld 2
+
 
 *    *   **06**
 
-    *   Werkstoffe und
-        **Komponenten**
+    *   **Modul 6. Werkstoffe und Hardware**
 
-    *
-    *
-    *
     *
     *
     *
 
 *    *
-    *   6.1  Luftfahrzeugwerkstoffe – eisenhaltig
+    *   6.1 Luftfahrzeugwerkstoffe – eisenhaltig
 
-    *
-    *
-    *
     *
     *
     *
 
 *    *
-    *   a) Merkmale, Eigenschaften und Kennzeichnung von in Lfz verwendeten
-        üblichen legierten Stählen
+    *   a) Legierte Stähle für Luftfahrtzeuge
 
     *   1
 
@@ -4503,9 +4780,6 @@ Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
 
     *   Lernfeld 3
 
-    *
-    *
-    *
 
 *    *
     *   6.2 Luftfahrzeugwerkstoffe – nicht eisenhaltig
@@ -4513,13 +4787,9 @@ Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
     *
     *
     *
-    *
-    *
-    *
 
 *    *
-    *   a) Merkmale, Eigenschaften, Kennzeichnung von in Lfz verw. übl. nicht
-        eisenhaltigen Werkstoffen
+    *   a)  Merkmale
 
     *   1
 
@@ -4527,17 +4797,10 @@ Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
 
     *   Lernfeld 3
 
-    *
-    *
-    *
 
 *    *
-    *   6.3 Luftfahrzeugwerkstoffe – Verbund- und nicht-
-        metallische Werkstoffe
+    *   6.3 Luftfahrzeugwerkstoffe – Verbund- und nichtmetallische Werkstoffe
 
-    *
-    *
-    *
     *
     *
     *
@@ -4549,13 +4812,9 @@ Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
     *
     *
     *
-    *
-    *
-    *
 
 *    *
-    *   a) Merkmale, Eigenschaften und Identifizierung von in Lfz verwendeten
-        üblichen Verbund und nichtmetallischen Werkstoffen
+    *   a) Merkmale
 
     *   1
 
@@ -4563,13 +4822,9 @@ Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
 
     *   Lernfeld 3
 
-    *
-    *
-    *
 
 *    *
-    *   b) Erkennen von Mängeln/
-        Beeinträchtigungen
+    *   b) Erkennen von Mängeln
 
     *   1
 
@@ -4577,9 +4832,6 @@ Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
 
     *   Lernfeld 3
 
-    *
-    *
-    *
 
 *    *
     *   6.3.2 Holzstrukturen
@@ -4590,22 +4842,6 @@ Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
 
     *   Lernfeld 3
 
-    *
-    *
-    *
-
-*    *
-    *   6.3.3 Gewebeverkleidung
-
-    *   1
-
-    *   Abschnitt A: 2a, 3b, 3e, 5a
-
-    *   Lernfeld 3
-
-    *
-    *
-    *
 
 *    *
     *   6.4 Korrosion
@@ -4613,12 +4849,9 @@ Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
     *
     *
     *
-    *
-    *
-    *
 
 *    *
-    *   a) Chemische Grundlagen
+    *   a) Grundlagen der Chemie
 
     *   1
 
@@ -4626,29 +4859,20 @@ Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
 
     *   Lernfeld 4
 
-    *
-    *
-    *
 
 *    *
-    *   b) Korrosionsarten und ihre Identifikation
+    *   b) Korrosionsarten
 
     *   2
 
-    *   Abschnitt A: 3b, 3g, 5a, 5c
+    *   Abschnitt A: 3b, 3h, 5a, 5c
 
     *   Lernfeld 4
 
-    *
-    *
-    *
 
 *    *
     *   6.5 Verbindungselemente
 
-    *
-    *
-    *
     *
     *
     *
@@ -4662,13 +4886,9 @@ Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
 
     *   Lernfeld 4
 
-    *
-    *
-    *
 
 *    *
-    *   6.5.2 Bolzen, Nieten,
-        Schrauben
+    *   6.5.2 Bolzen, Nieten, Schrauben
 
     *   2
 
@@ -4676,9 +4896,6 @@ Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
 
     *   Lernfeld 4
 
-    *
-    *
-    *
 
 *    *
     *   6.5.3 Sperrvorrichtungen
@@ -4689,9 +4906,6 @@ Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
 
     *   Lernfeld 4
 
-    *
-    *
-    *
 
 *    *
     *   6.5.4 Luftfahrzeugnieten
@@ -4702,9 +4916,6 @@ Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
 
     *   Lernfeld 4
 
-    *
-    *
-    *
 
 *    *
     *   6.6 Rohre und Anschlüsse
@@ -4712,97 +4923,71 @@ Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
     *
     *
     *
-    *
-    *
-    *
 
 *    *
-    *   a) Kennzeichnung und Typen der starren und flexiblen Rohre, ihrer
-        Verbindungen, die in Lfz verw. werden
+    *   a) Kennzeichnung
 
     *   2
 
-    *   Abschnitt A: 2b, 3b, 3c, 3d, 3f, 3g, 3j, 4b, 4c
+    *   Abschnitt A: 2b, 3b, 3c, 3d, 3g, 3h, 3k, 4b, 4c
 
     *   Lernfeld 4
 
-    *
-    *
-    *
 
 *    *
-    *   b) Standardanschlüsse für Luftfahrzeughydraulik-, Kraftstoff-, Öl-,
-        Pneumatik- und Luftrohrsysteme
+    *   b) Standardanschlüsse
 
     *   2
 
-    *   Abschnitt A: 2b, 3b, 3c, 3d, 3f, 3g, 3j, 4b, 4c
+    *   Abschnitt A: 2b, 3b, 3c, 3d, 3g, 3h, 3k, 4b, 4c
 
     *   Lernfeld 4
 
-    *
-    *
-    *
 
 *    *
     *   6.8 Lager
 
     *   1
 
-    *   Abschnitt A: 2b, 3b, 3c, 3f, 3g, 3j, 4c, 6b
+    *   Abschnitt A: 2b, 3b, 3c, 3g, 3h, 3k, 4c, 6b
 
     *   Lernfeld 6
 
-    *
-    *
-    *
 
 *    *
     *   6.9 Getriebe
 
     *   1
 
-    *   Abschnitt A: 2b, 3b, 3c, 3f, 3g, 3j, 4c, 6b
+    *   Abschnitt A: 2b, 3b, 3c, 3g, 3h, 3k, 4c, 6b
 
     *   Lernfeld 6
 
-    *
-    *
-    *
 
 *    *
     *   6.10 Steuerkabel
 
     *   1
 
-    *   Abschnitt A: 3b, 3c, 3f, 3g, 3j, 4b, 4c
+    *   Abschnitt A: 3b, 3c, 3g, 3h, 3k, 4b, 4c
 
     *   Lernfeld 1
 
-    *
-    *
-    *
 
 *    *
     *   6.11 Elektrokabel und -stecker
 
     *   1
 
-    *   Abschnitt A: 3c, 3d, 3f, 4a, 4b
+    *   Abschnitt A: 3c, 3d, 3g, 4a, 4b
 
     *   Lernfeld 2, Lernfeld 4
 
-    *
-    *
-    *
 
-*    *   **07A**
+*    *   **07**
 
-    *   **Instandhaltung**
+    *   **Modul 7. Instandhaltung**
 
-    *
-    *
-    *
     *
     *
     *
@@ -4817,24 +5002,18 @@ Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
 
     *   Lernfeld 1, Lernfeld 3
 
-    *
-    *
-    *
 
 *    *
     *   7.2 Werkstattverfahren
 
     *   3
 
-    *   Abschnitt A: 1c, 2b, 3a, 5a, 6a, 6b, 7a, 7b, 7c, 7d, 7e, 7f
+    *   Abschnitt A: 1c, 2b, 3a, 5a, 6a, 6b, 7a, 7c, 7d, 7e, 7f, 7g
 
     *   Lernfeld 1, Lernfeld 3
-
-    *   Lernfeld 9
-
-    *   Lernfeld 9
-
-    *   Lernfeld 12
+        FR Instandhaltung: Lernfeld 9
+        FR Fertigungstechnik Lernfeld 9
+        FR Triebwerkstechnik Lernfeld 12
 
 
 *    *
@@ -4842,15 +5021,12 @@ Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
 
     *   3
 
-    *   Abschnitt A: 1c, 3a, 5a, 6a, 7a, 7b, 7c, 7d, 7e
+    *   Abschnitt A: 1c, 3a, 5a, 6a, 7a, 7c, 7d, 7e, 7f
 
     *   Lernfeld 1, Lernfeld 3, Lernfeld 4
-
-    *   Lernfeld 9
-
-    *   Lernfeld 9
-
-    *   Lernfeld 12
+        FR Instandhaltung: Lernfeld 9
+        FR Fertigungstechnik Lernfeld 9
+        FR Triebwerkstechnik Lernfeld 12
 
 
 *    *
@@ -4858,26 +5034,20 @@ Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
 
     *   1
 
-    *   Abschnitt A: 1b, 1d, 2a, 2b, 2c, 5a, 6a, 6b, 7e
+    *   Abschnitt A: 1b, 1d, 2a, 2b, 2c, 5a, 6a, 6b, 7f
 
     *   Lernfeld 1, Lernfeld 3, Lernfeld 4
 
-    *
-    *
-    *
 
 *    *
     *   7.6 Passungen und Abstände
 
     *   1
 
-    *   Abschnitt A: 2a, 2b, 2c, 3f, 5a, 7e
+    *   Abschnitt A: 2a, 2b, 2c, 3g, 5a, 7f
 
     *   Lernfeld 4
 
-    *
-    *
-    *
 
 *    *
     *   7.7 Verbindungssystem zur elektrischen Verkabelung (EWIS)
@@ -4888,35 +5058,26 @@ Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
 
     *   Lernfeld 2, Lernfeld 4
 
-    *
-    *
-    *
 
 *    *
     *   7.8 Nietverbindungen
 
     *   1
 
-    *   Abschnitt A: 3a, 3b, 3c, 3f, 5a, 5b, 5c
+    *   Abschnitt A: 3a, 3b, 3c, 3g, 5a, 5b, 5c
 
     *   Lernfeld 4
 
-    *
-    *
-    *
 
 *    *
     *   7.9 Rohre und Schläuche
 
     *   1
 
-    *   Abschnitt A: 3c, 3d, 3f, 5a, 5b, 5c
+    *   Abschnitt A: 3c, 3d, 3g, 5a, 5b, 5c
 
     *   Lernfeld 4
 
-    *
-    *
-    *
 
 *    *
     *   7.10 Federn
@@ -4927,9 +5088,6 @@ Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
 
     *   Lernfeld 6
 
-    *
-    *
-    *
 
 *    *
     *   7.11 Lager
@@ -4940,9 +5098,6 @@ Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
 
     *   Lernfeld 6
 
-    *
-    *
-    *
 
 *    *
     *   7.12 Getriebe
@@ -4953,9 +5108,6 @@ Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
 
     *   Lernfeld 6
 
-    *
-    *
-    *
 
 *    *
     *   7.13 Steuerkabel
@@ -4966,88 +5118,78 @@ Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
 
     *   Lernfeld 1
 
+
+*    *
+    *   7.14 Werkstoffbearbeitung
+
     *
     *
     *
 
 *    *
-    *   7.17 Handhabung und
-        Lagerung des Lfz
+    *   7.14.3 Additive Fertigung
+
+    *   1
+
+    *   Abschnitt A: 3a, 3b, 3e, 3f, 4b
+
+    *   Lernfeld 3
+
+
+*    *
+    *   7.17 Handhabung und Lagerung von Luftfahrzeugen
 
     *   2
 
-    *   Abschnitt A: 1a, 1d, 3b, 3g, 5a
+    *   Abschnitt A: 1a, 1d, 3b, 3h, 5a
 
     *   Lernfeld 1
 
+
+*    *
+    *   7.18 Demontage-, Prüf-, Reparatur- und Montagetechniken
+
     *
     *
     *
 
 *    *
-    *   7.18 Demontage-, Prüf-,
-        Reparatur- und
-        Montagetechniken
-
-    *
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *   a) Mängeltypen und
-        Sichtprüfungstechniken
+    *   a) Mängeltypen und Sichtprüfungstechniken
 
     *   2
 
-    *   Abschnitt A: 3f, 5a, 5b, 5c,
+    *   Abschnitt A: 3g, 5a, 5b, 5c
 
     *   Lernfeld 3, Lernfeld 4, Lernfeld 8
 
-    *
-    *
-    *
 
 *    *
-    *   d) Demontage- und
-        Wiedermontagetechniken
+    *   d) Demontage- und Wiedermontagetechniken
 
     *   2
 
-    *   Abschnitt A: 3f, 3j, 5a, 5b, 5c
+    *   Abschnitt A: 3g, 3k, 5a, 5b, 5c
 
     *   Lernfeld 4, Lernfeld 8
 
+
+*    *
+    *   7.19 Abnormale Ereignisse
+
     *
     *
     *
 
 *    *
-    *   7.19 Abnormale Ereignisse
-
-    *
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *   a) Prüfungen nach
-        Blitzschlägen und HIRF
+    *   a) Prüfungen nach Blitzschlägen und HIRF
 
     *   2
 
     *   Abschnitt A: 4a, 4b, 5a, 5b, 5c
 
-    *
-    *   Lernfeld 12
-
-    *   Lernfeld 11
-
-    *   Lernfeld 12
+    *   FR Instandhaltung: Lernfeld 12
+        FR Fertigungstechnik Lernfeld 11
+        FR Triebwerkstechnik Lernfeld 12
 
 
 *    *
@@ -5058,12 +5200,9 @@ Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
 
     *   Abschnitt A: 4a, 4b, 5a, 5b, 5c
 
-    *
-    *   Lernfeld 10, Lernfeld 12
-
-    *   Lernfeld 11
-
-    *   Lernfeld 12
+    *   FR Instandhaltung: Lernfeld 10, Lernfeld 12
+        FR Fertigungstechnik Lernfeld 11
+        FR Triebwerkstechnik Lernfeld 12
 
 
 *    *
@@ -5071,23 +5210,28 @@ Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
 
     *   1
 
-    *   Abschnitt A: 2c, 3g, 5a, 5b, 5c, 7a, 7b
+    *   Abschnitt A: 2c, 3h, 5a, 5b, 5c, 7a, 7c
 
-    *
-    *   Lernfeld 12
+    *   FR Instandhaltung: Lernfeld 12
+        FR Fertigungstechnik Lernfeld 11
+        FR Triebwerkstechnik Lernfeld 12
 
-    *   Lernfeld 11
 
-    *   Lernfeld 12
+*    *
+    *   7.21 Dokumentation und Kommunikation
+
+    *   1
+
+    *   Abschnitt A: 2b, 2f, 2g, 2h
+        Abschnitt E: 4c, 4d
+
+    *   Lernfeld 4
 
 
 *    *   **08**
 
-    *   **Grundlagen der Aerodynamik**
+    *   **Modul 8. Grundlagen der Aerodynamik**
 
-    *
-    *
-    *
     *
     *
     *
@@ -5101,9 +5245,6 @@ Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
 
     *   Lernfeld 1
 
-    *
-    *
-    *
 
 *    *
     *   8.2 Aerodynamik
@@ -5114,9 +5255,6 @@ Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
 
     *   Lernfeld 1
 
-    *
-    *
-    *
 
 *    *
     *   8.3 Flugtheorie
@@ -5127,60 +5265,55 @@ Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
 
     *   Lernfeld 1
 
-    *
-    *
-    *
 
 *    *
-    *   8.4 Flugstabilität und Dynamik
+    *   8.4 Hochgeschwindigkeitsluftstrom
+
+    *   1
+
+    *   Abschnitt A: 3b
+
+    *   Lernfeld 1, Lernfeld 8
+
+
+*    *
+    *   8.5 Flugstabilität und -dynamik
 
     *   1
 
     *   Abschnitt A: 3b, 4c
 
-    *   Lernfeld 1
+    *   Lernfeld 1, Lernfeld 8
 
-    *
-    *
-    *
 
-*    *   **09A**
+*    *   **09**
 
-    *   **Menschliche Faktoren**
-
-    *
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *   9.1 Allgemeines
-
-    *   1
-
-    *   Abschnitt A: 8b, 8c; Abschnitt E: 3a, 3b
-
-    *   Lernfeld 1
+    *   **Modul 9. Menschliche Faktoren**
 
     *
     *
     *
 
 *    *
-    *   9.2 Menschliche Leistung
-        und Einschränkungen
+    *   9.1  Allgemeines
 
-    *   1
+    *   2
+
+    *   Abschnitt A: 8b, 8c;
+        Abschnitt E: 2a, 2b
+
+    *   Lernfeld 1
+
+
+*    *
+    *   9.2 Menschliches Leistungsvermögen und dessen Grenzen
+
+    *   2
 
     *   Abschnitt A: 1b, 8a, 8c
 
     *   Lernfeld 1
 
-    *
-    *
-    *
 
 *    *
     *   9.3 Sozialpsychologie
@@ -5191,9 +5324,6 @@ Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
 
     *   Lernfeld 1
 
-    *
-    *
-    *
 
 *    *
     *   9.4 Leistungsbeeinflussende Faktoren
@@ -5204,9 +5334,6 @@ Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
 
     *   Lernfeld 1, Lernfeld 4
 
-    *
-    *
-    *
 
 *    *
     *   9.5 Physikalische Umgebung
@@ -5217,9 +5344,6 @@ Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
 
     *   Lernfeld 1
 
-    *
-    *
-    *
 
 *    *
     *   9.6 Aufgaben
@@ -5230,9 +5354,6 @@ Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
 
     *   Lernfeld 1
 
-    *
-    *
-    *
 
 *    *
     *   9.7 Kommunikation
@@ -5243,163 +5364,153 @@ Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
 
     *   Lernfeld 1, Lernfeld 4
 
-    *
-    *
-    *
 
 *    *
     *   9.8 Menschliche Fehler
 
-    *   1
+    *   2
 
     *   Abschnitt A: 1a, 1b, 8b, 8c, 8d
 
     *   Lernfeld 1
 
-    *
-    *
-    *
 
 *    *
-    *   9.9 Gefahren am Arbeitsplatz
+    *   9.9 Sicherheitsmanagement
 
-    *   1
+    *   2
 
-    *   Abschnitt A: 1a, 1b, 1d, 8d;
-        Abschnitt E: 3d
+    *   Abschnitt A: 1a, 1b, 1d, 7a, 7b, 7 c, 7d;
+        Abschnitt E: 2d
 
-    *   Lernfeld 1
+    *   Lernfeld 1, Lernfeld 4
 
-    *
-    *
-    *
+
+*    *
+    *   9.10 Das „schmutzige Dutzend“ („Dirty Dozen“) und Risikominderung
+
+    *   2
+
+    *   Abschnitt A: 1a, 1b, 7d, 8a, 8c
+
+    *   Lernfeld 1, Lernfeld 4
+
 
 *    *   **10**
 
-    *   **Luftfahrtgesetzgebung**
+    *   **Modul 10. Luftrecht**
 
-    *
-    *
-    *
     *
     *
     *
 
 *    *
-    *   10.1 Rechtsvorschriften
+    *   10.1 Rechtsrahmen
 
     *   1
 
-    *   Abschnitt A: 2a, 2c, 2j;
+    *   Abschnitt A: 2a, 2c, 2j
         Abschnitt E: 2a, 2c
 
     *   Lernfeld 1
-
-    *   Lernfeld 12
-
-    *   Lernfeld 11
-
-    *   Lernfeld 12
+        FR Instandhaltung: Lernfeld 12
+        FR Fertigungstechnik Lernfeld 11
+        FR Triebwerkstechnik Lernfeld 12
 
 
 *    *
-    *   10.2 Freigabeberechtigtes Personal – Instandhaltung
+    *   10.2 Freigabeberechtigtes Personal Instandhaltung
 
     *   2
 
-    *   Abschnitt A: 2a, 2c, 2j, 5a, 7d
+    *   Abschnitt A: 2a, 2c, 2j, 5a, 7e
 
-    *   Lernfeld 4
-
-    *   Lernfeld 12
-
-    *   Lernfeld 11
-
-    *   Lernfeld 12
+    *   Lernfeld 4,
+        FR Instandhaltung: Lernfeld 12
+        FR Fertigungstechnik Lernfeld 11
+        FR Triebwerkstechnik Lernfeld 12
 
 
 *    *
-    *   10.3 Genehmigter
-        Instandhaltungsbetrieb
+    *   10.3 Genehmigte Instandhaltungsorganisationen
 
     *   2
 
     *   Abschnitt A: 2a, 2c, 2j, 5a
+
+    *   Lernfeld 1,
+        FR Instandhaltung: Lernfeld 12
+        FR Fertigungstechnik Lernfeld 11
+        FR Triebwerkstechnik Lernfeld 12
+
+
+*    *
+    *   10.5 Flugbetrieb
+
+    *   1
+
+    *   Abschnitt A: 2a, 2c, 2j, 5a
+
+    *   FR Instandhaltung: Lernfeld 12
+        FR Fertigungstechnik Lernfeld 10
+        FR Triebwerkstechnik Lernfeld 12
+
+
+*    *
+    *   10.6 Zulassung von Luftfahrzeugen, Bau- und Ausrüstungsteilen
+
+    *   2
+
+    *   Abschnitt A: 2a, 2c, 2j, 5a, 7f
+
+    *   FR Instandhaltung: Lernfeld 12
+        FR Fertigungstechnik Lernfeld 11
+        FR Triebwerkstechnik Lernfeld 12
+
+
+*    *
+    *   10.7 Aufrechterhaltung der Lufttüchtigkeit
+
+    *   2
+
+    *   Abschnitt A: 2a, 2c, 2j, 5a, 7f
+
+    *   FR Instandhaltung: Lernfeld 12
+        FR Fertigungstechnik Lernfeld 10
+        FR Triebwerkstechnik Lernfeld 12
+
+
+*    *
+    *   10.8 Aufsichtsgrundsätze für die Aufrechterhaltung der Lufttüchtigkeit
+
+    *   1
+
+    *   Abschnitt A: 7e, 2j
 
     *   Lernfeld 1
-
-    *   Lernfeld 12
-
-    *   Lernfeld 11
-
-    *   Lernfeld 12
+        FR Instandhaltung: Lernfeld 12
+        FR Fertigungstechnik Lernfeld 11
+        FR Triebwerkstechnik Lernfeld 12
 
 
 *    *
-    *   10.4 Flugbetrieb
+    *   10.10 Cybersicherheit bei der Instandhaltung der Luftfahrt
 
     *   1
 
-    *   Abschnitt A: 2a, 2c, 2j, 5a
+    *   Abschnitt A: 2c, 2d, 2i
+        Abschnitt E: 4a, 4b, 4e
 
-    *
-    *   Lernfeld 12
-
-    *   Lernfeld 10
-
-    *   Lernfeld 12
-
-
-*    *
-    *   10.6 Aufrechterhaltung der Lufttüchtigkeit
-
-    *   2
-
-    *   Abschnitt A: 2a, 2c, 2j, 5a
-
-    *
-    *   Lernfeld 12
-
-    *   Lernfeld 10
-
-    *   Lernfeld 12
+    *   Lernfeld 1
+        FR Instandhaltung: Lernfeld 12
+        FR Fertigungstechnik Lernfeld 11
+        FR Triebwerkstechnik Lernfeld 12
 
 
-*    *
-    *   10.7 Geltende nationale
-        und internationale
-        Anforderungen
+*    *   **11**
 
-    *
-    *
-    *
-    *
-    *
-    *
+    *   **Modul 11. Aerodynamik, Strukturen und Systeme von Flugzeugen**
 
-*    *
-    *   a) Instandhaltungsprogramme, Lufttüchtigkeitsanforderungen …
-
-    *   1
-
-    *   Abschnitt A: 2a, 2c, 2j, 5a
-
-    *
-    *   Lernfeld 12
-
-    *   Lernfeld 11
-
-    *   Lernfeld 12
-
-
-*    *   **11A**
-
-    *   Aerodynamik, Strukturen
-        **und Systeme von Flugzeugen mit Turbinentriebwerk**
-
-    *
-    *
-    *
     *
     *
     *
@@ -5410,12 +5521,9 @@ Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
     *
     *
     *
-    *
-    *
-    *
 
 *    *
-    *   11.1.1 Flugzeugaerodynamik und Flugsteuerung
+    *   a) Flugzeugaerodynamik und Flugsteuerung
 
     *   1
 
@@ -5423,12 +5531,9 @@ Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
 
     *   Lernfeld 1
 
-    *
-    *
-    *
 
 *    *
-    *   11.1.2 Hochgeschwindigkeitsflug
+    *   b) Flugzeug, sonstige aerodynamische Geräte
 
     *   1
 
@@ -5436,47 +5541,43 @@ Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
 
     *   Lernfeld 1
 
+
+*    *
+    *   11.2 Luftfahrzeugzellenstrukturen (ATA 51)
+
     *
     *
     *
 
 *    *
-    *   11.2 Luftfahrzeugzellenstrukturen – allgemeine Begriffe
-
-    *
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *   a) Lufttüchtigkeitsfaktoren
-        für Zellenfestigkeit
+    *   a) Allgemeine Konzepte
 
     *   2
 
-    *   Abschnitt A: 3b, 3e, 3h, 3j, 4b, 4c
+    *   Abschnitt A: 2a, 2c, 3b, 3c, 3e, 3i, 3k, 4b, 4c
 
-    *   Lernfeld 1
+    *   Lernfeld 1, Lernfeld 3
 
-    *
-    *
-    *
 
 *    *
-    *   b) Konstruktionsmethoden von: Rumpf in Schalen-
-        bauweise, Stringern, Längsträgern, Spanten
+    *   b) Lufttüchtigkeitsanforderungen an die Zellenfestigkeit
 
-    *   1
+    *   2
 
-    *   Abschnitt A: 3b, 3e, 3h, 3j
+    *   Abschnitt A: 3b, 3e, 3i, 3k, 4b, 4c
 
     *   Lernfeld 1, Lernfeld 4
 
-    *
-    *
-    *
+
+*    *
+    *   c) Konstruktionsmethoden
+
+    *   1
+
+    *   Abschnitt A: 3b, 3e, 3i, 3k
+
+    *   Lernfeld 1, Lernfeld 4
+
 
 *    *
     *   11.3 Luftfahrzeugzellenstrukturen – Flugzeuge
@@ -5484,156 +5585,154 @@ Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
     *
     *
     *
+
+*    *
+    *   11.3.1 Rumpf, Türen, Fenster (ATA 52/53/56)
+
     *
     *
     *
 
 *    *
-    *   11.3.1 Rumpf (ATA 52/53/56)
+    *   a) Konstruktionsgrundsätze
 
     *   1
 
-    *   Abschnitt A: 3b, 3e, 3j, 5a, 5c
+    *   Abschnitt A: 3b, 3e, 3k, 5a, 5c
 
     *   Lernfeld 1, Lernfeld 4
 
-    *
-    *
-    *
+
+*    *
+    *   b) Geräte für das Schleppen in der Luft
+
+    *   1
+
+    *   Abschnitt A: 3b, 3k, 5a, 5c
+
+    *   Lernfeld 1
+
+
+*    *
+    *   c) Türen
+
+    *   1
+
+    *   Abschnitt A: 3b, 3e, 3k, 5a, 5c
+
+    *   Lernfeld 1
+
 
 *    *
     *   11.3.2 Flügel (ATA 57)
 
     *   1
 
-    *   Abschnitt A: 3b, 3e, 3j, 5a, 5c
+    *   Abschnitt A: 3b, 3e, 3k, 5a, 5c
 
     *   Lernfeld 1, Lernfeld 4
 
-    *
-    *
-    *
 
 *    *
     *   11.3.3 Höhenflossen (ATA 55)
 
     *   1
 
-    *   Abschnitt A: 3b, 3e, 3j, 5a, 5c
+    *   Abschnitt A: 3b, 3e, 3k, 5a, 5c
 
     *   Lernfeld 1, Lernfeld 4
 
-    *
-    *
-    *
 
 *    *
-    *   11.3.4 Steuerflächen
-        (ATA 55/57)
+    *   11.3.4 Steuerflächen (ATA 55/57)
 
     *   1
 
-    *   Abschnitt A: 3b, 3e, 3j, 5a, 5c
+    *   Abschnitt A: 3b, 3e, 3k, 5a, 5c
 
     *   Lernfeld 1, Lernfeld 4
 
-    *
-    *
-    *
 
 *    *
-    *   11.3.5 Gondeln/Ausleger
-        (ATA 54)
+    *   11.3.5 Gondeln/Ausleger (ATA 54)
 
     *   1
 
-    *   Abschnitt A: 3b, 3e, 3j, 5a, 5c
+    *   Abschnitt A: 3b, 3e, 3k, 5a, 5c
 
     *   Lernfeld 1
 
+
+*    *
+    *   11.4 Klima- und Druckbeaufschlagungsanlage (ATA 21)
+
     *
     *
     *
 
 *    *
-    *   11.4 Klima- und Druck-
-        beaufschlagungsanlage (ATA 21)
-
-    *
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *   11.4.1 Luftversorgung
+    *   a) Druckbeaufschlagung
 
     *   1
 
-    *   Abschnitt A: 3b, 3c, 3d, 3f, 3g, 3j, 4a, 5a, 5c
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3h, 3k, 4a, 5a, 5c
 
-    *
-    *   Lernfeld 12
-
-    *   Lernfeld 10
-
-    *   Lernfeld 12
+    *   FR Instandhaltung: Lernfeld 12
+        FR Fertigungstechnik Lernfeld 10
+        FR Triebwerkstechnik Lernfeld 12
 
 
 *    *
-    *   11.4.2 Klimaanlage
+    *   b) Luftversorgung
 
     *   1
 
-    *   Abschnitt A: 3b, 3c, 3d, 3f, 3g, 3j, 4a, 5a, 5c
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3h, 3k, 4a, 5a, 5c
 
-    *
-    *   Lernfeld 12
-
-    *   Lernfeld 10
-
-    *   Lernfeld 12
+    *   FR Instandhaltung: Lernfeld 12
+        FR Fertigungstechnik Lernfeld 10
+        FR Triebwerkstechnik Lernfeld 12
 
 
 *    *
-    *   11.4.3 Druckbeaufschlagung
+    *   c) Klimaanlage
 
     *   1
 
-    *   Abschnitt A: 3b, 3c, 3d, 3f, 3g, 3j, 4a, 5a, 5c
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3h, 3k, 4a, 5a, 5c
 
-    *
-    *   Lernfeld 12
-
-    *   Lernfeld 10
-
-    *   Lernfeld 12
+    *   FR Instandhaltung: Lernfeld 12
+        FR Fertigungstechnik Lernfeld 10
+        FR Triebwerkstechnik Lernfeld 12
 
 
 *    *
-    *   11.4.4 Sicherheits- und
-        Warneinrichtungen
+    *   d) Sicherheits- und Warneinrichtungen
 
     *   1
 
-    *   Abschnitt A: 3b, 3c, 3d, 3f, 3g, 3j, 4a, 5a, 5c
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3h, 3k, 4a, 5a, 5c
 
-    *
-    *   Lernfeld 12
-
-    *   Lernfeld 10
-
-    *   Lernfeld 12
+    *   FR Instandhaltung: Lernfeld 12
+        FR Fertigungstechnik Lernfeld 10
+        FR Triebwerkstechnik Lernfeld 12
 
 
 *    *
-    *   11.5 Instrumenten-/
-        Avioniksysteme
+    *   e) Heizung und Lüftung
 
-    *
-    *
-    *
+    *   1
+
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3h, 3k, 4a, 5a, 5c
+
+    *   FR Instandhaltung: Lernfeld 12
+        FR Fertigungstechnik Lernfeld 10
+        FR Triebwerkstechnik Lernfeld 12
+
+
+*    *
+    *   11.5 Instrumenten-/Avioniksysteme
+
     *
     *
     *
@@ -5643,87 +5742,68 @@ Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
 
     *   1
 
-    *   Abschnitt A: 3b, 3c, 3d, 3f, 3g, 3j, 4a, 5a, 5c
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3h, 3k, 4a, 5a, 5c
 
-    *
-    *   Lernfeld 9
-
-    *   Lernfeld 12
-
-    *   Lernfeld 12
+    *   FR Instandhaltung: Lernfeld 9
+        FR Fertigungstechnik Lernfeld 12
+        FR Triebwerkstechnik Lernfeld 12
 
 
 *    *
     *   11.5.2 Avioniksysteme
+        Grundlagen von System-Layouts und Arbeitsweise von:
+        Flugregelung (ATA 22)
+        Kommunikation (ATA 23)
+        Navigationssystem (ATA 34)
 
     *   1
 
-    *   Abschnitt A: 3b, 3c, 3d, 3f, 3g, 3j, 4a, 5a, 5c
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3h, 3k, 4a, 5a, 5c
 
-    *
-    *   Lernfeld 12
-
-    *   Lernfeld 12
-
-    *   Lernfeld 12
+    *   FR Instandhaltung: Lernfeld 12
+        FR Fertigungstechnik Lernfeld 12
+        FR Triebwerkstechnik Lernfeld 12
 
 
 *    *
-    *   11.6 Elektrische Leistung
-        (ATA 24)
+    *   11.6 Elektrische Leistung (ATA 24)
 
     *   1
 
-    *   Abschnitt A: 3b, 3c, 3d, 3f, 3g, 3h, 3i, 3j, 4a, 5a, 5c
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3h, 3i, 3j, 3k, 4a, 5a, 5c
 
     *   Lernfeld 2
 
+
+*    *
+    *   11.7 Geräte und Ausstattungen (ATA 25)
+
     *
     *
     *
 
 *    *
-    *   11.7 Geräte und
-        Ausstattungen (ATA 25)
-
-    *
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *   a) Anforderungen an
-        Notausrüstung; Sitze,
-        Sicherheitsgurte und Gurte
+    *   a) Notausrüstung
 
     *   2
 
-    *   Abschnitt A: 3b, 3c, 3d, 3f, 3g, 3j, 4a, 4b, 4c, 5a, 5c
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3h, 3k, 4a, 4b, 4c, 5a, 5c
 
-    *
-    *   Lernfeld 12
-
-    *   Lernfeld 12
-
-    *   Lernfeld 12
+    *   FR Instandhaltung: Lernfeld 12
+        FR Fertigungstechnik Lernfeld 12
+        FR Triebwerkstechnik Lernfeld 12
 
 
 *    *
-    *   b) Kabinenlayout, Geräte-
-        layout, Kabinenausstattung
+    *   b) Kabinen- und Frachtlayout
 
     *   1
 
-    *   Abschnitt A: 3b, 3c, 3d, 3f, 3g, 3j, 4a, 4c, 5a, 5c
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3h, 3k, 4a, 4b, 4c, 5a, 5c
 
-    *
-    *   Lernfeld 12
-
-    *   Lernfeld 12
-
-    *   Lernfeld 12
+    *   FR Instandhaltung: Lernfeld 12
+        FR Fertigungstechnik Lernfeld 12
+        FR Triebwerkstechnik Lernfeld 12
 
 
 *    *
@@ -5732,23 +5812,17 @@ Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
     *
     *
     *
-    *
-    *
-    *
 
 *    *
-    *   a) Feuer- und Raucherkennungs- und Warnsysteme
+    *   a) Feuer- und Rauchmelde- sowie Feuerlöschanlagen
 
     *   1
 
-    *   Abschnitt A: 3b, 3c, 3d, 3f, 3g, 3j, 4a, 4c, 5a, 5c
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3h, 3k, 4a, 4c, 5a, 5c
 
-    *
-    *   Lernfeld 12
-
-    *   Lernfeld 10, Lernfeld 12
-
-    *   Lernfeld 12
+    *   FR Instandhaltung: Lernfeld 12
+        FR Fertigungstechnik Lernfeld 10, Lernfeld 12
+        FR Triebwerkstechnik Lernfeld 12
 
 
 *    *
@@ -5756,86 +5830,284 @@ Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
 
     *   1
 
-    *   Abschnitt A: 3b, 3c, 3d, 3f, 3g, 3j, 4a, 4c, 5a, 5c
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3h, 3k, 4a, 4c, 5a, 5c
 
-    *
-    *   Lernfeld 12
-
-    *   Lernfeld 10, Lernfeld 12
-
-    *   Lernfeld 12
+    *   FR Instandhaltung: Lernfeld 12
+        FR Fertigungstechnik Lernfeld 10, Lernfeld 12
+        FR Triebwerkstechnik Lernfeld 12
 
 
 *    *
     *   11.9 Flugsteuerung (ATA 27)
 
+    *
+    *
+    *
+
+*    *
+    *   a) Primäre und sekundäre Flugsteuerung
+
     *   1
 
-    *   Abschnitt A: 3b, 3c, 3d, 3f, 3g, 3j, 4a, 4c, 5a, 5c
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3h, 3k, 4a, 4c, 5a, 5c
 
     *   Lernfeld 8
+
+
+*    *
+    *   b) Auslösung und Schutz
+
+    *   1
+
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3h, 3k, 4a, 4c, 5a, 5c
+
+    *   Lernfeld 8
+
+
+*    *
+    *   c) Systembetrieb
+
+    *   1
+
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3k, 4a, 4b, 4c, 5a, 5c
+
+    *   Lernfeld 8
+
+
+*    *
+    *   d) Trimmen und Justieren
+
+    *   1
+
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3k, 4a, 4b, 4c, 5a, 5c
+
+    *   Lernfeld 8
+
+
+*    *
+    *   11.10 Kraftstoffanlage (ATA 28)
 
     *
     *
     *
 
 *    *
-    *   11.10 Kraftstoffanlage
-        (ATA 28)
+    *   a) Systemlayout
 
     *   1
 
-    *   Abschnitt A: 3b, 3c, 3d, 3f, 3g, 3j, 4a, 4c, 5a, 5b, 5c
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3h, 3k, 4a, 4c, 5a, 5b, 5c
 
-    *
-    *   Lernfeld 12
+    *   FR Instandhaltung: Lernfeld 12
+        FR Fertigungstechnik Lernfeld 10
+        FR Triebwerkstechnik Lernfeld 12
 
-    *   Lernfeld 10
 
-    *   Lernfeld 12
+*    *
+    *   b) Kraftstoffhandling
+
+    *   1
+
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3h, 3k, 4a, 4c, 5a, 5b, 5c
+
+    *   FR Instandhaltung: Lernfeld 12
+        FR Fertigungstechnik Lernfeld 10
+        FR Triebwerkstechnik Lernfeld 12
+
+
+*    *
+    *   c) Anzeige- und Warneinrichtungen
+
+    *   1
+
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3k, 4a, 4c, 5a, 5b, 5c
+
+    *   FR Instandhaltung: Lernfeld 12
+        FR Fertigungstechnik Lernfeld 10
+        FR Triebwerkstechnik Lernfeld 12
+
+
+*    *
+    *   d) spezielle Systeme
+
+    *   1
+
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3h, 3k, 4a, 4c, 5a, 5b, 5c
+
+    *   FR Instandhaltung: Lernfeld 12
+        FR Fertigungstechnik Lernfeld 10
+        FR Triebwerkstechnik Lernfeld 12
+
+
+*    *
+    *   e) Trimmen
+
+    *   1
+
+    *   Abschnitt A: 3b, 3d, 3g, 3h, 3k, 4c, 5a, 5b, 5c
+
+    *   FR Instandhaltung: Lernfeld 12
+        FR Fertigungstechnik Lernfeld 10
+        FR Triebwerkstechnik Lernfeld 12
 
 
 *    *
     *   11.11 Hydraulik (ATA 29)
 
+    *
+    *
+    *
+
+*    *
+    *   a) Systembeschreibung
+
     *   1
 
-    *   Abschnitt A: 3b, 3c, 3d, 3f, 3g, 3j, 4a, 4c, 5a, 5b, 5c
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3h, 3k, 4a, 4c, 5a, 5b, 5c
 
     *   Lernfeld 7
+
+
+*    *
+    *   b) Systembetrieb (1)
+
+    *   1
+
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3h, 3k, 4a, 4c, 5a, 5b, 5c
+
+    *   Lernfeld 7
+
+
+*    *
+    *   c) Systembetrieb (2)
+
+    *   1
+
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3h, 3k, 4a, 4c, 5a, 5b, 5c
+
+    *   Lernfeld 7
+
+
+*    *
+    *   11.12 Eis- und Regenschutz
 
     *
     *
     *
 
 *    *
-    *   11.12 Eis- und Regenschutz
+    *   a) Prinzipien
 
     *   1
 
-    *   Abschnitt A: 3b, 3c, 3d, 3f, 3g, 3j, 4a, 4c, 5a, 5c
+    *   Abschnitt A: 5a, 5c
 
-    *
-    *   Lernfeld 12
+    *   FR Instandhaltung: Lernfeld 12
+        FR Fertigungstechnik Lernfeld 10
+        FR Triebwerkstechnik Lernfeld 12
 
-    *   Lernfeld 10
 
-    *   Lernfeld 12
+*    *
+    *   b) Enteisung
+
+    *   1
+
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3h, 3k, 4a, 4c, 5a, 5b, 5c
+
+    *   FR Instandhaltung: Lernfeld 12
+        FR Fertigungstechnik Lernfeld 10
+        FR Triebwerkstechnik Lernfeld 12
+
+
+*    *
+    *   c) Vereisungsschutz
+
+    *   1
+
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3h, 3k, 4a, 4c, 5a, 5b, 5c
+
+    *   FR Instandhaltung: Lernfeld 12
+        FR Fertigungstechnik Lernfeld 10
+        FR Triebwerkstechnik Lernfeld 12
+
+
+*    *
+    *   d) Wischeranlage
+
+    *   1
+
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3h, 3k, 4a, 4c, 5a, 5b, 5c
+
+    *   FR Instandhaltung: Lernfeld 12
+        FR Fertigungstechnik Lernfeld 10
+        FR Triebwerkstechnik Lernfeld 12
+
+
+*    *
+    *   e) regenwasserabweisende Systeme
+
+    *   1
+
+    *   Abschnitt A: 4c, 5a
+
+    *   FR Instandhaltung: Lernfeld 12
+        FR Fertigungstechnik Lernfeld 10
+        FR Triebwerkstechnik Lernfeld 12
 
 
 *    *
     *   11.13 Fahrwerk (ATA 32)
 
+    *
+    *
+    *
+
+*    *
+    *   a) Beschreibung
+
     *   2
 
-    *   Abschnitt A: 3b, 3c, 3d, 3f, 3g, 3j, 4a, 4b, 4c, 5a, 5b, 5c
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3h, 3k, 4a, 4b, 4c, 5a, 5b, 5c
 
-    *
-    *   Lernfeld 10
+    *   FR Instandhaltung: Lernfeld 10
+        FR Fertigungstechnik Lernfeld 10
+        FR Triebwerkstechnik Lernfeld 12
 
-    *   Lernfeld 10
 
-    *   Lernfeld 12
+*    *
+    *   b) Systembetrieb
+
+    *   2
+
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3h, 3k, 4a, 4b, 4c, 5a, 5b, 5c
+
+    *   FR Instandhaltung: Lernfeld 10
+        FR Fertigungstechnik Lernfeld 10
+        FR Triebwerkstechnik Lernfeld 12
+
+
+*    *
+    *   c) Luft-Boden-Schaltung
+
+    *   2
+
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3h, 3k, 4a, 4b, 4c, 5a, 5c
+
+    *   FR Instandhaltung: Lernfeld 10
+        FR Fertigungstechnik Lernfeld 10
+        FR Triebwerkstechnik Lernfeld 12
+
+
+*    *
+    *   d) Heckschutz
+
+    *   2
+
+    *   Abschnitt A: 3b, 3c, 3g, 3h, 3k, 4b, 5a, 5c
+
+    *   FR Instandhaltung: Lernfeld 10
+        FR Fertigungstechnik Lernfeld 10
+        FR Triebwerkstechnik Lernfeld 12
 
 
 *    *
@@ -5843,56 +6115,79 @@ Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
 
     *   2
 
-    *   Abschnitt A: 3b, 3c, 3d, 3f, 3g, 3j, 4a, 4b, 4c, 5a, 5c
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3h, 3k, 4a, 4b, 4c, 5a, 5c
 
     *   Lernfeld 2
 
-    *
-    *
-    *
 
 *    *
     *   11.15 Sauerstoff (ATA 35)
 
     *   1
 
-    *   Abschnitt A: 3b, 3c, 3d, 3f, 3g, 3j, 4a, 4c, 5a, 5c
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3h, 3k, 4a, 4c, 5a, 5c
 
-    *
-    *   Lernfeld 12
-
-    *   Lernfeld 12
-
-    *   Lernfeld 12
+    *   FR Instandhaltung: Lernfeld 12
+        FR Fertigungstechnik Lernfeld 12
+        FR Triebwerkstechnik Lernfeld 12
 
 
 *    *
-    *   11.16 Pneumatisch/
-        Vakuum (ATA 36)
+    *   11.16 Pneumatisch/Vakuum (ATA 36)
+
+    *
+    *
+    *
+
+*    *
+    *   a) Systeme
 
     *   1
 
-    *   Abschnitt A: 3b, 3c, 3d, 3f, 3g, 3j, 4a, 4c, 5a, 5c
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3h, 3k, 4a, 4c, 5a, 5c
 
     *   Lernfeld 7
+
+
+*    *
+    *   b) Pumpen
+
+    *   1
+
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3h, 3k, 4a, 4c, 5a, 5c
+
+    *   Lernfeld 7
+
+
+*    *
+    *   11.17 Wasser/Abfall (ATA 38)
 
     *
     *
     *
 
 *    *
-    *   11.17 Wasser/Abfall (ATA 38)
+    *   a) Systeme
 
     *   2
 
-    *   Abschnitt A: 3b, 3c, 3d, 3f, 3g, 3j, 4a, 4b, 4c, 5a, 5c
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3h, 3k, 4a, 4b, 4c, 5a, 5c
 
-    *
-    *   Lernfeld 12
+    *   FR Instandhaltung: Lernfeld 12
+        FR Fertigungstechnik Lernfeld 10
+        FR Triebwerkstechnik Lernfeld 12
 
-    *   Lernfeld 10
 
-    *   Lernfeld 12
+*    *
+    *   b) Korrosion
+
+    *   2
+
+    *   Abschnitt A: 3b, 3c, 3g, 3k, 4a, 4c, 5a, 5c
+
+    *   FR Instandhaltung: Lernfeld 12
+        FR Fertigungstechnik Lernfeld 10
+        FR Triebwerkstechnik Lernfeld 12
 
 
 *    *
@@ -5900,45 +6195,54 @@ Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
 
     *   1
 
-    *   Abschnitt A: 3b, 3c, 3d, 3f, 3g, 3j, 4a, 4c, 5a, 5c
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3h, 3k, 4a, 4c, 5a, 5c
 
-    *
-    *   Lernfeld 12
-
-    *   Lernfeld 12
-
-    *   Lernfeld 12
+    *   FR Instandhaltung: Lernfeld 12
+        FR Fertigungstechnik Lernfeld 12
+        FR Triebwerkstechnik Lernfeld 12
 
 
 *    *
     *   11.19 Integrierte modulare Avionik (ATA 42)
 
+    *
+    *
+    *
+
+*    *
+    *   a) Allgemeine Systembeschreibung und Theorie
+
     *   1
 
-    *   Abschnitt A: 3b, 3c, 3d, 3f, 3g, 3j, 4a, 4c, 5a, 5c
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3h, 3k, 4a, 4c, 5a, 5c
 
-    *
-    *   Lernfeld 12
-
-    *   Lernfeld 12
-
-    *   Lernfeld 12
+    *   FR Instandhaltung: Lernfeld 12
+        FR Fertigungstechnik Lernfeld 12
+        FR Triebwerkstechnik Lernfeld 12
 
 
 *    *
-    *   11.20 Kabinensysteme
-        (ATA 44)
+    *   b) Typische Systemlayouts
 
     *   1
 
-    *   Abschnitt A: 3b, 3c, 3d, 3f, 3g, 3j, 4a, 4c, 5a, 5c
+    *   Abschnitt A: 3b, 3g, 3h, 3k, 4a, 4c, 5a, 5c
 
-    *
-    *   Lernfeld 12
+    *   FR Instandhaltung: Lernfeld 12
+        FR Fertigungstechnik Lernfeld 12
+        FR Triebwerkstechnik Lernfeld 12
 
-    *   Lernfeld 12
 
-    *   Lernfeld 12
+*    *
+    *   11.20 Kabinensysteme (ATA 44)
+
+    *   1
+
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3h, 3k, 4a, 4c, 5a, 5c
+
+    *   FR Instandhaltung: Lernfeld 12
+        FR Fertigungstechnik Lernfeld 12
+        FR Triebwerkstechnik Lernfeld 12
 
 
 *    *
@@ -5946,30 +6250,23 @@ Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
 
     *   1
 
-    *   Abschnitt A: 3b, 3c, 3d, 3f, 3g, 3j, 4a, 4c, 5a, 5c
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3h, 3k, 4a, 4c, 5a, 5c
 
-    *
-    *   Lernfeld 12
-
-    *   Lernfeld 12
-
-    *   Lernfeld 12
+    *   FR Instandhaltung: Lernfeld 12
+        FR Fertigungstechnik Lernfeld 12
+        FR Triebwerkstechnik Lernfeld 12
 
 
 *    *   **12**
 
-    *   **Aerodynamik, Strukturen und Systeme von Hubschraubern**
+    *   **Modul 12. Aerodynamik, Strukturen und Systeme von Hubschraubern**
 
-    *
-    *
-    *
     *
     *
     *
 
 *    *
-    *   12.1 Flugtheorie –
-        Drehflügleraerodynamik
+    *   12.1 Flugtheorie – Drehflügleraerodynamik
 
     *   1
 
@@ -5977,49 +6274,36 @@ Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
 
     *   Lernfeld 1
 
-    *
-    *
-    *
 
 *    *
-    *   12.2 Flugsteueranlage
+    *   12.2 Flugsteuerungssystem (ATA 67)
 
     *   2
 
-    *   Abschnitt A: 3b, 3c, 3d, 3f, 3g, 3j, 4a, 4b, 4c
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3h, 3k, 4a, 4b, 4c
 
     *   Lernfeld 1
 
-    *
-    *
-    *
 
 *    *
-    *   12.3 Blattspurprüfung und
-        Vibrationsanalyse
+    *   12.3 Blattspurprüfung und Vibrationsanalyse (ATA 18)
 
     *   1
 
-    *   Abschnitt A: 3b, 3c, 3d, 3f, 3g, 3j, 4a, 4c
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3k, 4a, 4b, 4c
 
     *   Lernfeld 6
 
-    *
-    *
-    *
 
 *    *
     *   12.4 Getriebe
 
     *   1
 
-    *   Abschnitt A: 3b, 3c, 3d, 3f, 3g, 3j, 4a, 4c
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3h, 3k, 4a, 4c
 
     *   Lernfeld 6
 
-    *
-    *
-    *
 
 *    *
     *   12.5 Luftfahrzeugzellenstrukturen
@@ -6027,84 +6311,308 @@ Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
     *
     *
     *
-    *
-    *
-    *
 
 *    *
-    *   12.7 Instrumenten-/
-        Avioniksysteme
+    *   a) Allgemeine Konzepte
 
-    *
-    *
-    *
-    *
-    *
-    *
+    *   2
+
+    *   Abschnitt A:
+        2a, 2c, 3b, 3c, 3e, 3i, 3k, 4b, 4c
+
+    *   Lernfeld 1
+
 
 *    *
-    *   12.7.1 Instrumentensysteme (ATA 31) – Vibrationsanzeigesysteme (HUMS)
+    *   b) Konstruktionsmethoden der Hauptelemente
 
     *   1
 
-    *   Abschnitt A: 3b, 3c, 3d, 3f, 3g, 3j, 4a
+    *   Abschnitt A: 3b, 3e, 3i, 3k, 5b
 
-    *   Lernfeld 6
+    *   Lernfeld 1
+
+
+*    *
+    *   12.6 Klimaanlage (ATA 21)
 
     *
     *
     *
 
 *    *
-    *   12.9 Geräte und
-        Ausstattungen (ATA 25)
+    *   12.6.1 Luftversorgung
 
-    *
-    *
-    *
+    *   1
+
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3h, 3k, 4a, 5a, 5c
+
+    *   FR Instandhaltung: Lernfeld 12
+        FR Fertigungstechnik Lernfeld 10
+        FR Triebwerkstechnik Lernfeld 12
+
+
+*    *
+    *   12.6.2 Klimaanlage
+
+    *   1
+
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3h, 3k, 4a, 5a, 5c
+
+    *   FR Instandhaltung: Lernfeld 12
+        FR Fertigungstechnik Lernfeld 10
+        FR Triebwerkstechnik Lernfeld 12
+
+
+*    *
+    *   12.7 Instrumenten-/Avioniksysteme
+
     *
     *
     *
 
 *    *
-    *   a) Anforderungen an
-        Notausrüstung –
+    *   12.7.1 Instrumentensysteme (ATA 31)
+
+    *   1
+
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3h, 3k, 4a
+
+    *   FR Instandhaltung: Lernfeld 9
+        FR Fertigungstechnik Lernfeld 12
+        FR Triebwerkstechnik Lernfeld 12
+
+
+*    *
+    *   12.7.2 Avioniksysteme
+        Grundlagen von System-Layouts und Arbeitsweise von:
+        Flugregelung (ATA 22)
+        Kommunikation (ATA 23)
+        Navigationssystem (ATA 34)
+
+    *   1
+
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3h, 3k, 4a, 5a, 5c
+
+    *   FR Instandhaltung: Lernfeld 12
+        FR Fertigungstechnik Lernfeld 12
+        FR Triebwerkstechnik Lernfeld 12
+
+
+*    *
+    *   12.8 Elektrische Leistung (ATA 24)
+
+    *   1
+
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3h, 3i, 3j, 3k, 4a, 5a, 5c
+
+    *   Lernfeld 2
+
+
+*    *
+    *   12.9 Geräte und Ausstattungen (ATA 25)
+
+    *
+    *
+    *
+
+*    *
+    *   a) Notausrüstung
+        Sitze, Sicherheitsgurte und Gurte
         Auftriebssysteme
 
     *   2
 
-    *   Abschnitt A: 3b, 3c, 3d, 3f, 3g, 3j, 4a, 4b, 4c
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3h, 3k, 4a, 4b, 4c
 
-    *
-    *   Lernfeld 12
-
-    *   Lernfeld 10
-
-    *   Lernfeld 12
+    *   FR Instandhaltung: Lernfeld 12
+        FR Fertigungstechnik Lernfeld 12
+        FR Triebwerkstechnik Lernfeld 12
 
 
 *    *
-    *   b)  Notschwimmsysteme
+    *   b) Notschwimmsysteme
+        Kabinenlayout, Frachtbefestigung
+        Gerätelayout
+        Kabinenausstattung
 
     *   1
 
-    *   Abschnitt A: 3b, 3c, 3d, 3f, 3g, 3j, 4a, 4c
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3h, 3k, 4a, 4c
+
+    *   FR Instandhaltung: Lernfeld 12
+        FR Fertigungstechnik Lernfeld 12
+        FR Triebwerkstechnik Lernfeld 12
+
+
+*    *
+    *   12.10 Brandschutz (ATA 26)
 
     *
-    *   Lernfeld 12
+    *
+    *
 
-    *   Lernfeld 10
+*    *
+    *   a) Feuer- und Rauchmelde- sowie Feuerlöschanlagen
 
-    *   Lernfeld 12
+    *   1
+
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3h, 3k, 4a, 4c
+
+    *   FR Instandhaltung: Lernfeld 12
+        FR Fertigungstechnik Lernfeld 10, Lernfeld 12
+        FR Triebwerkstechnik Lernfeld 12
+
+
+*    *
+    *   b) Tragbare Feuerlöscher
+
+    *   1
+
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3h, 3k, 4a, 4c
+
+    *   FR Instandhaltung: Lernfeld 12
+        FR Fertigungstechnik Lernfeld 10, Lernfeld 12
+        FR Triebwerkstechnik Lernfeld 12
+
+
+*    *
+    *   12.11 Kraftstoffanlage (ATA 28)
+
+    *   1
+
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3h, 3k, 4a, 4c
+
+    *   FR Instandhaltung: Lernfeld 12
+        FR Fertigungstechnik Lernfeld 10
+        FR Triebwerkstechnik Lernfeld 12
+
+
+*    *
+    *   12.12 Hydraulik (ATA 29)
+
+    *   1
+
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3h, 3k, 4a, 4c
+
+    *   Lernfeld 7
+
+
+*    *
+    *   12.13 Eis- und Regenschutz (ATA 30)
+
+    *   1
+
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3h, 3k, 4a, 4c
+
+    *   FR Instandhaltung: Lernfeld 12
+        FR Fertigungstechnik Lernfeld 10
+        FR Triebwerkstechnik Lernfeld 12
+
+
+*    *
+    *   12.14 Fahrwerk (ATA 32)
+
+    *
+    *
+    *
+
+*    *
+    *   a) Beschreibung und Arbeitsweise des Systems
+
+    *   2
+
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3h, 3k, 4a, 4c
+
+    *   FR Instandhaltung: Lernfeld 10
+        FR Fertigungstechnik Lernfeld 10
+        FR Triebwerkstechnik Lernfeld 12
+
+
+*    *
+    *   b) Sensoren
+
+    *   2
+
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3h, 3k, 4a, 4c
+
+    *   FR Instandhaltung: Lernfeld 10
+        FR Fertigungstechnik Lernfeld 10
+        FR Triebwerkstechnik Lernfeld 12
+
+
+*    *
+    *   12.15 Lampen (ATA 33)
+
+    *   2
+
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3h, 3k, 4a, 4c
+
+    *   Lernfeld 2
+
+
+*    *
+    *   12.17 Integrierte modulare Avionik (ATA 42)
+
+    *
+    *
+    *
+
+*    *
+    *   a) Allgemeine Systembeschreibung und Theorie
+
+    *   1
+
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3h, 3k, 4a, 4c, 5a, 5c
+
+    *   FR Instandhaltung: Lernfeld 12
+        FR Fertigungstechnik Lernfeld 12
+        FR Triebwerkstechnik Lernfeld 12
+
+
+*    *
+    *   b) Typische Systemlayouts
+
+    *   1
+
+    *   Abschnitt A: 3b, 3g, 3h, 3k, 4a, 4c, 5a, 5c
+
+    *   FR Instandhaltung: Lernfeld 12
+        FR Fertigungstechnik Lernfeld 12
+        FR Triebwerkstechnik Lernfeld 12
+
+
+*    *
+    *   12.18 Bordinstandhaltungssysteme (ATA 45)
+        Zentrale Instandhaltungscomputer
+        Datenladesystem
+        Elektronisches Bibliothekssystem
+
+    *   1
+
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3h, 3k, 4a, 4c, 5a, 5c
+
+    *   FR Instandhaltung: Lernfeld 12
+        FR Fertigungstechnik Lernfeld 12
+        FR Triebwerkstechnik Lernfeld 12
+
+
+*    *
+    *   12.19 Informationssysteme (ATA 46)
+
+    *   1
+
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3h, 3k, 4a, 4c, 5a, 5c
+
+    *   FR Instandhaltung: Lernfeld 12
+        FR Fertigungstechnik Lernfeld 12
+        FR Triebwerkstechnik Lernfeld 12
 
 
 *    *   **15**
 
-    *   **Gasturbinentriebwerk**
+    *   **Modul 15. Gasturbinentriebwerke**
 
-    *
-    *
-    *
     *
     *
     *
@@ -6118,9 +6626,6 @@ Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
 
     *   Lernfeld 6
 
-    *
-    *
-    *
 
 *    *
     *   15.3 Einlass
@@ -6131,9 +6636,6 @@ Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
 
     *   Lernfeld 6
 
-    *
-    *
-    *
 
 *    *
     *   15.4 Verdichter
@@ -6144,9 +6646,6 @@ Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
 
     *   Lernfeld 6
 
-    *
-    *
-    *
 
 *    *
     *   15.5 Verbrennungsbereich
@@ -6157,9 +6656,6 @@ Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
 
     *   Lernfeld 6
 
-    *
-    *
-    *
 
 *    *
     *   15.6 Turbinenabschnitt
@@ -6170,9 +6666,6 @@ Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
 
     *   Lernfeld 6
 
-    *
-    *
-    *
 
 *    *
     *   15.7 Auslass
@@ -6183,13 +6676,9 @@ Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
 
     *   Lernfeld 6
 
-    *
-    *
-    *
 
 *    *
-    *   15.9 Schmiermittel und
-        Kraftstoffe
+    *   15.9 Schmiermittel und Kraftstoffe
 
     *   1
 
@@ -6197,9 +6686,6 @@ Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
 
     *   Lernfeld 6
 
-    *
-    *
-    *
 
 *    *
     *   15.10 Schmiersysteme
@@ -6210,9 +6696,6 @@ Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
 
     *   Lernfeld 6
 
-    *
-    *
-    *
 
 *    *
     *   15.11 Kraftstoffanlage
@@ -6223,9 +6706,6 @@ Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
 
     *   Lernfeld 6
 
-    *
-    *
-    *
 
 *    *
     *   15.12 Luftsysteme
@@ -6236,13 +6716,9 @@ Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
 
     *   Lernfeld 6
 
-    *
-    *
-    *
 
 *    *
-    *   15.13 Anlass- und
-        Zündsysteme
+    *   15.13 Anlass- und Zündsysteme
 
     *   1
 
@@ -6250,9 +6726,6 @@ Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
 
     *   Lernfeld 6
 
-    *
-    *
-    *
 
 *    *
     *   15.14 Triebwerksanzeigesysteme
@@ -6263,9 +6736,6 @@ Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
 
     *   Lernfeld 6
 
-    *
-    *
-    *
 
 *    *
     *   15.16 Turboproptriebwerke
@@ -6276,9 +6746,6 @@ Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
 
     *   Lernfeld 6
 
-    *
-    *
-    *
 
 *    *
     *   15.17 Wellenleistungstriebwerke
@@ -6289,12 +6756,9 @@ Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
 
     *   Lernfeld 6
 
-    *
-    *
-    *
 
 *    *
-    *   15.18 Hilfstriebwerke (APUs)
+    *   15.18 Hilfstriebwerke (APU)
 
     *   1
 
@@ -6302,9 +6766,6 @@ Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
 
     *   Lernfeld 6
 
-    *
-    *
-    *
 
 *    *
     *   15.19 Triebwerkseinbau
@@ -6315,9 +6776,6 @@ Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
 
     *   Lernfeld 6
 
-    *
-    *
-    *
 
 *    *
     *   15.20 Brandschutzsysteme
@@ -6328,9 +6786,6 @@ Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
 
     *   Lernfeld 6
 
-    *
-    *
-    *
 
 *    *
     *   15.21 Triebwerksüberwachung und Bodenbetrieb
@@ -6341,17 +6796,11 @@ Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
 
     *   Lernfeld 6
 
-    *
-    *
-    *
 
 *    *   **16**
 
-    *   **Kolbentriebwerke**
+    *   **Modul 16. Kolbentriebwerk**
 
-    *
-    *
-    *
     *
     *
     *
@@ -6365,9 +6814,6 @@ Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
 
     *   Lernfeld 6
 
-    *
-    *
-    *
 
 *    *
     *   16.2 Triebwerksleistung
@@ -6378,9 +6824,6 @@ Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
 
     *   Lernfeld 6
 
-    *
-    *
-    *
 
 *    *
     *   16.3 Triebwerkskonstruktion
@@ -6391,16 +6834,10 @@ Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
 
     *   Lernfeld 6
 
-    *
-    *
-    *
 
 *    *
     *   16.4 Triebwerkskraftstoffanlage
 
-    *
-    *
-    *
     *
     *
     *
@@ -6414,9 +6851,6 @@ Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
 
     *   Lernfeld 6
 
-    *
-    *
-    *
 
 *    *
     *   16.4.2 Kraftstoffeinspritzsysteme
@@ -6427,9 +6861,6 @@ Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
 
     *   Lernfeld 6
 
-    *
-    *
-    *
 
 *    *
     *   16.4.3 Elektronische Triebwerksregelung
@@ -6440,13 +6871,9 @@ Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
 
     *   Lernfeld 6
 
-    *
-    *
-    *
 
 *    *
-    *   16.5 Anlass- und
-        Zündsysteme
+    *   16.5 Anlass- und Zündsysteme
 
     *   1
 
@@ -6454,9 +6881,6 @@ Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
 
     *   Lernfeld 6
 
-    *
-    *
-    *
 
 *    *
     *   16.6 Ansaug-, Abgas- und Kühlsysteme
@@ -6467,9 +6891,6 @@ Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
 
     *   Lernfeld 6
 
-    *
-    *
-    *
 
 *    *
     *   16.7 Aufladen/Turboladen
@@ -6480,9 +6901,6 @@ Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
 
     *   Lernfeld 6
 
-    *
-    *
-    *
 
 *    *
     *   16.8 Schmiermittel und Kraftstoffe
@@ -6493,12 +6911,9 @@ Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
 
     *   Lernfeld 6
 
-    *
-    *
-    *
 
 *    *
-    *   16.9 Schmiersystem
+    *   16.9 Schmiersysteme
 
     *   1
 
@@ -6506,9 +6921,6 @@ Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
 
     *   Lernfeld 6
 
-    *
-    *
-    *
 
 *    *
     *   16.10 Triebwerksanzeigesysteme
@@ -6519,9 +6931,6 @@ Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
 
     *   Lernfeld 6
 
-    *
-    *
-    *
 
 *    *
     *   16.11 Triebwerkseinbau
@@ -6532,9 +6941,6 @@ Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
 
     *   Lernfeld 6
 
-    *
-    *
-    *
 
 *    *
     *   16.12 Triebwerksüberwachung und Bodenbetrieb
@@ -6545,17 +6951,21 @@ Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
 
     *   Lernfeld 6
 
-    *
-    *
-    *
 
-*    *   **17A**
+*    *
+    *   16.14 Alternative Kolbentriebwerkskonstruktionen
 
-    *   **Propeller**
+    *   1
 
-    *
-    *
-    *
+    *   Abschnitt A: 6a, 6b
+
+    *   Lernfeld 6
+
+
+*    *   **17**
+
+    *   **Modul 17. Propeller**
+
     *
     *
     *
@@ -6569,9 +6979,6 @@ Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
 
     *   Lernfeld 6
 
-    *
-    *
-    *
 
 *    *
     *   17.2 Propellerkonstruktion
@@ -6582,9 +6989,6 @@ Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
 
     *   Lernfeld 6
 
-    *
-    *
-    *
 
 *    *
     *   17.3 Propellerverstelleinrichtung
@@ -6595,9 +6999,6 @@ Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
 
     *   Lernfeld 6
 
-    *
-    *
-    *
 
 *    *
     *   17.5 Propellervereisungsschutz
@@ -6608,9 +7009,6 @@ Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
 
     *   Lernfeld 6
 
-    *
-    *
-    *
 
 *    *
     *   17.6 Propellerinstandhaltung
@@ -6621,21 +7019,15 @@ Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
 
     *   Lernfeld 6
 
-    *
-    *
-    *
 
 *    *
-    *   17.7 Lagerung und Konservierung des Propellers
+    *   17.7 Lagerung und Konservierung von Propellern
 
     *   1
 
-    *   Abschnitt A: 1a, 1d, 3b, 3g, 5a
+    *   Abschnitt A: 1a, 1d, 3b, 3h, 5a
 
-    *   Lernfeld 6
+    *   Lernfeld 6.
 
-    *
-    *
-    *
 
 

@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1966, 557
 
 Zuletzt geändert durch
-:   Art. 8 G v. 10.3.2023 I Nr. 64
-
-Änderung durch
-:   Art. 2 G v. 17.1.2024 I Nr. 12 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 12 G v. 11.1.2026 I Nr. 9
 
 
 ## Erster Teil - Der Patentanwalt
@@ -50,8 +47,10 @@ Beratung und Vertretung.
     Anfechtung eines Patents, eines ergänzenden Schutzzertifikats, eines
     Gebrauchsmusters, eines eingetragenen Designs, des Schutzes einer
     Topographie, einer Marke, eines anderen nach dem Markengesetz
-    geschützten Kennzeichens oder eines Sortenschutzrechts (gewerbliche
-    Schutzrechte) andere zu beraten und Dritten gegenüber zu vertreten;
+    geschützten Kennzeichens, eines Agrargeoschutzes im Sinne des § 1
+    Absatz 2 oder 5 des Agrargeoschutz-Durchführungsgesetzes oder eines
+    Sortenschutzrechts (gewerbliche Schutzrechte) andere zu beraten und
+    Dritten gegenüber zu vertreten;
 
 
 2.  in Angelegenheiten, die zum Geschäftskreis des Deutschen Patent- und
@@ -64,7 +63,15 @@ Beratung und Vertretung.
     Zwangslizenz andere vor dem Bundesgerichtshof zu vertreten;
 
 
-4.  in Angelegenheiten des Sortenschutzes andere vor dem Bundessortenamt
+4.  in Angelegenheiten des Agrargeoschutzes, die Schutzbezeichnungen im
+    Sinne des § 1 Absatz 2 oder 5 des Agrargeoschutz-Durchführungsgesetzes
+    betreffen, andere vor der Bundesanstalt für Landwirtschaft und
+    Ernährung zu vertreten;
+
+
+
+
+5.  in Angelegenheiten des Sortenschutzes andere vor dem Bundessortenamt
     zu vertreten.
 
 
@@ -101,11 +108,11 @@ unberührt.
 
 (1) In Rechtsstreitigkeiten, in denen ein Anspruch aus einem der im
 Patentgesetz, im Gebrauchsmustergesetz, im Halbleiterschutzgesetz, im
-Markengesetz, im Gesetz über Arbeitnehmererfindungen, im Designgesetz
-oder im Sortenschutzgesetz geregelten Rechtsverhältnisse geltend
-gemacht wird, sowie in Rechtsbeschwerdeverfahren gegen Beschlüsse der
-Beschwerdesenate des Bundespatentgerichts ist auf Antrag einer Partei
-ihrem Patentanwalt das Wort zu gestatten.
+Markengesetz, im Gesetz über Arbeitnehmererfindungen, im Designgesetz,
+im Agrargeoschutzrecht in Bezug auf Schutzbezeichnungen im Sinne des
+Agrargeoschutz-Durchführungsgesetzes oder im Sortenschutzgesetz
+geregelten Rechtsverhältnisse geltend gemacht wird, ist auf Antrag
+einer Partei ihrem Patentanwalt das Wort zu gestatten.
 
 (2) Das Gleiche gilt in sonstigen Rechtsstreitigkeiten, für deren
 Entscheidung eine der in § 3 Absatz 3 Nummer 1 genannten Fragen oder
@@ -113,7 +120,8 @@ Rechtsfragen von Bedeutung ist.
 
 (3) Soweit eine Vertretung durch Rechtsanwälte nicht geboten ist, ist
 der Patentanwalt in den Fällen der Absätze 1 und 2 als
-Bevollmächtigter vertretungsbefugt.
+Bevollmächtigter vertretungsbefugt. § 67 der
+Verwaltungsgerichtsordnung bleibt unberührt.
 
 
 ### § 4a Beiordnung von Patentanwälten bei Prozesskostenhilfe
@@ -809,22 +817,27 @@ Patentanwalt Folgendes ein:
     Zweigstellen;
 
 
-5.  den Zeitpunkt der Zulassung;
+5.  die Berufsbezeichnung; bei ausländischen Patentanwälten zudem den
+    Herkunftsstaat der Berufsbezeichnung sowie die Rechtsgrundlage der
+    Aufnahme in die Patentanwaltskammer;
 
 
-6.  bestehende Berufs-, Berufsausübungs- und Vertretungsverbote sowie
+6.  den Zeitpunkt der Zulassung;
+
+
+7.  bestehende Berufs-, Berufsausübungs- und Vertretungsverbote sowie
     bestehende, sofort vollziehbare Rücknahmen und Widerrufe der
     Zulassung;
 
 
-7.  die durch die Patentanwaltskammer erfolgte Bestellung einer Vertretung
+8.  die durch die Patentanwaltskammer erfolgte Bestellung einer Vertretung
     oder eines Abwicklers sowie die nach § 28 erfolgte Benennung eines
     Zustellungsbevollmächtigten unter Angabe von Familienname, Vorname
     oder Vornamen und Anschrift der Vertretung, des Abwicklers oder des
     Zustellungsbevollmächtigten;
 
 
-8.  in den Fällen des § 26 Absatz 3 Satz 1 oder des § 27 Absatz 2 Satz 1
+9.  in den Fällen des § 26 Absatz 3 Satz 1 oder des § 27 Absatz 2 Satz 1
     den Inhalt der Befreiung.
 
 
@@ -1018,7 +1031,21 @@ Gesetzes tätigen Personen und für das Steuergeheimnis nach § 30 der
 Abgabenordnung.
 
 
-#### (XXXX) §§ 35 bis 38 (weggefallen)
+#### § 35 Ersetzung der Schriftform
+
+Ist nach diesem Gesetz für die Abgabe einer Erklärung die Schriftform
+vorgeschrieben, so kann die Erklärung auch über das besondere
+elektronische Bürger- und Organisationenpostfach abgegeben werden,
+wenn Erklärender und Empfänger über ein solches verfügen. Ist die
+Erklärung von einer natürlichen Person abzugeben, so ist das Dokument
+mit einer qualifizierten elektronischen Signatur der Person zu
+versehen oder von ihr zu signieren und selbst zu versenden. Andere
+Postfächer nach § 130a Absatz 4 Satz 1 Nummer 1, 2 und 4 der
+Zivilprozessordnung stehen dem besonderen elektronischen Bürger- und
+Organisationenpostfach nach Satz 1 gleich.
+
+
+#### (XXXX) §§ 36 bis 38 (weggefallen)
 
 
 
@@ -1519,7 +1546,12 @@ Vertretung bestellen.
     Rechte beigeordnet ist;
 
 
-2.  in gerichtlichen Verfahren die Beratung einer Partei und die
+2.  in Verfahren vor dem Verwaltungsgericht die Vertretung von Beteiligten
+    übernehmen, wenn er ihnen nach § 39 Absatz 1 Satz 2 des
+    Agrargeoschutz-Durchführungsgesetzes beigeordnet worden ist;
+
+
+3.  in gerichtlichen Verfahren die Beratung einer Partei und die
     Unterstützung ihres Rechtsanwalts übernehmen, wenn er der Partei nach
     § 4a beigeordnet ist.
 
@@ -1555,8 +1587,8 @@ teilen.
 Einziehung an Patentanwälte, Rechtsanwälte,
 Berufsausübungsgesellschaften nach § 52b dieses Gesetzes oder nach §
 59b der Bundesrechtsanwaltsordnung ist zulässig. Im Übrigen sind
-Abtretung oder Übertragung nur zulässig, wenn eine ausdrückliche,
-schriftliche Einwilligung des Mandanten vorliegt oder die Forderung
+Abtretung oder Übertragung nur zulässig, wenn eine ausdrückliche
+Einwilligung des Mandanten in Textform vorliegt oder die Forderung
 rechtskräftig festgestellt ist. Vor der Einwilligung ist der Mandant
 über die Informationspflicht des Patentanwalts gegenüber dem neuen
 Gläubiger oder Einziehungsermächtigten aufzuklären. Der neue Gläubiger
@@ -1730,8 +1762,8 @@ entsprechend. Zuständige Stelle ist die Patentanwaltskammer. § 21 Abs.
 Patentanwalt bestehenden Vertragsverhältnis auf Ersatz eines
 fahrlässig verursachten Schadens kann beschränkt werden:
 
-1.  durch schriftliche Vereinbarung im Einzelfall bis zur Höhe der
-    Mindestversicherungssumme;
+1.  durch im Einzelfall in Textform getroffene Vereinbarung bis zur Höhe
+    der Mindestversicherungssumme;
 
 
 2.  durch vorformulierte Vertragsbedingungen für Fälle einfacher
@@ -1750,8 +1782,8 @@ Vertragsbedingungen beschränkt werden auf einzelne Mitglieder einer
 Berufsausübungsgesellschaft ohne Haftungsbeschränkung, die das Mandat
 im Rahmen ihrer eigenen beruflichen Befugnisse bearbeiten und
 namentlich bezeichnet sind. Die Zustimmungserklärung zu einer solchen
-Beschränkung darf keine anderen Erklärungen enthalten und muß vom
-Auftraggeber unterschrieben sein.
+Beschränkung darf keine anderen Erklärungen enthalten und bedarf der
+Textform.
 
 
 #### § 46 Bestellung einer Vertretung
@@ -1881,7 +1913,12 @@ unverzüglich anzuzeigen,
     Soldat auf Zeit verwendet wird,
 
 
-3.  daß er ein öffentliches Amt im Sinne des § 42 Abs. 2 bekleidet.
+3.  daß er ein öffentliches Amt im Sinne des § 42 Abs. 2 bekleidet,
+
+
+4.  dass er Mitglied eines Geschäftsführungs- oder Aufsichtsorgans einer
+    Berufsausübungsgesellschaft nach der Bundesrechtsanwaltsordnung oder
+    dem Steuerberatungsgesetz ist.
 
 
 
@@ -1991,6 +2028,7 @@ durchzuführen.
 
 (1) Das Nähere zu den beruflichen Rechten und Pflichten wird von der
 Kammerversammlung durch Satzung in einer Berufsordnung bestimmt.
+Stimmberechtigt ist nur, wer die Voraussetzungen des § 59 erfüllt.
 
 (2) Die Berufsordnung kann im Rahmen der Vorschriften dieses Gesetzes
 näher regeln:
@@ -2238,6 +2276,11 @@ vorzusehen, die in schwerwiegender Weise oder wiederholt gegen
 Pflichten, die in diesem Gesetz oder in der Berufsordnung nach § 52a
 bestimmt sind, verstoßen.
 
+(6) Beteiligt sich ein Patentanwalt an einer Mandatsgesellschaft (§
+52f Absatz 1 Satz 2 Nummer 2), so hat er für die Einhaltung der
+Berufspflichten nach § 52e Absatz 1 bis 3 durch die
+Mandatsgesellschaft Sorge zu tragen.
+
 
 #### § 52e Berufspflichten der Berufsausübungsgesellschaft
 
@@ -2261,17 +2304,44 @@ soweit ein Bezug zur Beratung und Vertretung nach § 3 besteht.
 Gesellschafter, Organmitglieder und sonstigen Mitarbeiter der
 Berufsausübungsgesellschaft bleibt unberührt.
 
+(5) Beteiligt sich eine Berufsausübungsgesellschaft an einer
+Mandatsgesellschaft (§ 52f Absatz 1 Satz 2 Nummer 2), so hat sie für
+die Einhaltung der Berufspflichten nach den Absätzen 1 bis 3 durch die
+Mandatsgesellschaft Sorge zu tragen. Absatz 4 gilt entsprechend.
+
 
 #### § 52f Zulassung
 
 (1) Berufsausübungsgesellschaften bedürfen der Zulassung durch die
 Patentanwaltskammer. Keiner Zulassung nach Satz 1 bedürfen
-Personengesellschaften, bei denen keine Beschränkung der Haftung der
-natürlichen Personen vorliegt und denen als Gesellschafter und als
-Mitglieder der Geschäftsführungs- und Aufsichtsorgane ausschließlich
-Patentanwälte oder Angehörige eines in § 52c Absatz 1 Satz 1 Nummer 1
-genannten Berufs angehören. Unberührt von Satz 2 bleibt der
-freiwillige Antrag auf eine Zulassung.
+
+1.  Personengesellschaften, bei denen keine Beschränkung der Haftung der
+    natürlichen Personen vorliegt und denen ausschließlich Patentanwälte
+    oder Angehörige eines in § 52c Absatz 1 Satz 1 Nummer 1 genannten
+    Berufs als Gesellschafter und als Mitglieder der Geschäftsführungs-
+    und Aufsichtsorgane angehören, und
+
+
+2.  Berufsausübungsgesellschaften, die als Personengesellschaften von
+
+    a)  mehreren zugelassenen Berufsausübungsgesellschaften nach diesem Gesetz
+        oder
+
+
+    b)  einer oder mehreren zugelassenen Berufsausübungsgesellschaften nach
+        diesem Gesetz und einem oder mehreren Patentanwälten
+
+
+
+    für die Bearbeitung eines einzelnen Mandats gegründet wurden
+    (Mandatsgesellschaft).
+
+
+
+Die Gründung einer Mandatsgesellschaft ist der Patentanwaltskammer
+durch die an ihr beteiligten Berufsausübungsgesellschaften und
+Patentanwälte anzuzeigen. Unberührt von Satz 2 bleibt der freiwillige
+Antrag auf eine Zulassung.
 
 (2) Die Zulassung ist zu erteilen, wenn
 
@@ -2298,6 +2368,10 @@ Schuldnerverzeichnis (§ 882b der Zivilprozessordnung) eingetragen ist.
 (3) Mit der Zulassung wird die Berufsausübungsgesellschaft Mitglied
 der zulassenden Patentanwaltskammer.
 
+(4) Die Patentanwaltskammer teilt dem Berufshaftpflichtversicherer,
+der in der Berufshaftpflichtversicherung oder der vorläufigen
+Deckungszusage angegeben ist, die Zulassung mit.
+
 
 #### § 52g Zulassungsverfahren; Anzeigepflicht
 
@@ -2312,7 +2386,9 @@ der zulassenden Patentanwaltskammer.
 
 3.  Name und Beruf der Gesellschafter, der Mitglieder der
     Geschäftsführungs- und Aufsichtsorgane sowie aller mittelbar
-    beteiligten Personen.
+    beteiligten Personen; sofern Gesellschafter eine zugelassene
+    Berufsausübungsgesellschaft ist, müssen Name und Beruf der an ihr
+    mittelbar beteiligten Personen nicht angegeben werden.
 
 
 
@@ -2421,20 +2497,20 @@ Abwicklers haften die Gesellschafter als Gesamtschuldner. § 47 Absatz
 
 #### § 52i Gesellschafter- und Kapitalstruktur von Berufsausübungsgesellschaften
 
-(1) Zugelassene Berufsausübungsgesellschaften können Gesellschafter
-einer Berufsausübungsgesellschaft sein. Bei gesetzlichen
-Voraussetzungen, die in der in der Person der Gesellschafter oder der
-Mitglieder der Geschäftsführung erfüllt sein müssen, kommt es in den
-Fällen des Satzes 1 auf die Gesellschafter und die Geschäftsführung
-der beteiligten Berufsausübungsgesellschaft an. Haben sich
-Patentanwälte, Angehörige eines der in § 52c Absatz 1 Satz 1 genannten
-Berufe sowie Berufsausübungsgesellschaften, die die Voraussetzungen
-dieses Abschnitts erfüllen, zu einer Gesellschaft bürgerlichen Rechts
-zusammengeschlossen, deren Zweck ausschließlich das Halten von
-Anteilen an einer zugelassenen Berufsausübungsgesellschaft ist, so
-werden ihnen die Anteile an der Berufsausübungsgesellschaft im
-Verhältnis ihrer Beteiligung an der Gesellschaft bürgerlichen Rechts
-zugerechnet.
+(1) Zugelassene Berufsausübungsgesellschaften nach diesem Gesetz
+können Gesellschafter einer Berufsausübungsgesellschaft sein. Bei
+gesetzlichen Voraussetzungen, die in der in der Person der
+Gesellschafter oder der Mitglieder der Geschäftsführung erfüllt sein
+müssen, kommt es in den Fällen des Satzes 1 auf die Gesellschafter und
+die Geschäftsführung der beteiligten Berufsausübungsgesellschaft an.
+Haben sich Patentanwälte, Angehörige eines der in § 52c Absatz 1 Satz
+1 genannten Berufe sowie Berufsausübungsgesellschaften, die die
+Voraussetzungen dieses Abschnitts erfüllen, zu einer Gesellschaft
+bürgerlichen Rechts zusammengeschlossen, deren Zweck ausschließlich
+das Halten von Anteilen an einer zugelassenen
+Berufsausübungsgesellschaft ist, so werden ihnen die Anteile an der
+Berufsausübungsgesellschaft im Verhältnis ihrer Beteiligung an der
+Gesellschaft bürgerlichen Rechts zugerechnet.
 
 (2) Die Übertragung von Gesellschaftsanteilen muss an die Zustimmung
 der Gesellschafterversammlung gebunden sein. Bei Aktiengesellschaften
@@ -2547,10 +2623,12 @@ ihrer Betätigung aufrechtzuerhalten.
 (2) Die Berufshaftpflichtversicherung muss die Haftpflichtgefahren für
 Vermögensschäden decken, die sich aus der Beratung und Vertretung nach
 § 3 ergeben. § 45 Absatz 1 Satz 2, Absatz 2 und 3 Nummer 2 bis 5 und
-Absatz 5 bis 7 ist entsprechend anzuwenden. Ist die Haftung der
-Gesellschaft nicht rechtsformbedingt beschränkt und liegt keine
-Beschränkung der Haftung der natürlichen Personen vor, so ist auch §
-45 Absatz 3 Nummer 1 entsprechend anzuwenden.
+Absatz 5 ist entsprechend anzuwenden; § 45 Absatz 6 und 7 ist mit der
+Maßgabe entsprechend anzuwenden, dass er nur für zugelassene
+Berufsausübungsgesellschaften gilt. Ist die Haftung der Gesellschaft
+nicht rechtsformbedingt beschränkt und liegt keine Beschränkung der
+Haftung der natürlichen Personen vor, so ist auch § 45 Absatz 3 Nummer
+1 entsprechend anzuwenden.
 
 (3) Wird die Berufshaftpflichtversicherung nicht oder nicht in dem
 vorgeschriebenen Umfang unterhalten, so haften neben der
@@ -2591,6 +2669,9 @@ beteiligte Berufsausübungsgesellschaft, sondern die Zahl ihrer
 patentanwaltlichen Gesellschafter, die in der Bundesrepublik
 Deutschland zugelassen oder niedergelassen sind, und der
 patentanwaltlichen Geschäftsführer, die nicht Gesellschafter sind,
+maßgeblich. Handelt es sich bei der Berufsausübungsgesellschaft um
+eine Mandatsgesellschaft, so ist Satz 2 nicht anzuwenden und die Zahl
+ihrer Gesellschafter ist für die Berechnung der Jahreshöchstleistung
 maßgeblich. Die Jahreshöchstleistung muss sich jedoch in jedem Fall
 mindestens auf den vierfachen Betrag der Mindestversicherungssumme
 belaufen.
@@ -2650,12 +2731,25 @@ ihre Satzung bestimmt.
     aufgenommen wurden,
 
 
-2.  Berufsausübungsgesellschaften, die von ihr zugelassen wurden, und
+2.  Berufsausübungsgesellschaften, die von ihr zugelassen wurden,
 
 
 3.  Mitglieder von Geschäftsführungs- und Aufsichtsorganen von
-    Berufsausübungsgesellschaften nach Nummer 2, die nicht schon nach
-    Nummer 1 Mitglied der Patentanwaltskammer sind.
+    Berufsausübungsgesellschaften nach Nummer 2, die nicht schon
+
+    a)  nach Nummer 1 Mitglied der Patentanwaltskammer sind oder
+
+
+    b)  Mitglied einer Rechtsanwaltskammer oder einer Steuerberaterkammer
+        sind, und
+
+
+
+
+
+4.  Mitglieder der Geschäftsleitung der deutschen Zweigniederlassungen von
+    ausländischen Berufsausübungsgesellschaften (§ 159 Absatz 1 Nummer 4),
+    die nicht schon nach Nummer 1 Mitglied der Patentanwaltskammer sind.
 
 
 
@@ -2913,10 +3007,10 @@ Dies gilt jedoch nicht für Wahlen.
 ist ein Protokoll aufzunehmen, das von dem Vorsitzenden und dem
 Schriftführer zu unterzeichnen ist.
 
-(4) Beschlüsse des Vorstandes können auch ohne Zusammenkunft gefasst
-werden, wenn kein Vorstandsmitglied widerspricht und sich mindestens
-die Hälfte der Vorstandsmitglieder an der Abstimmung beteiligt. Die
-Abstimmung ist in Textform durchzuführen.
+(4) Beschlüsse des Vorstandes können auch ohne Sitzung gefasst werden,
+wenn kein Vorstandsmitglied widerspricht und sich mindestens die
+Hälfte der Vorstandsmitglieder an der Abstimmung beteiligt. Die
+Abstimmung außerhalb von Sitzungen ist in Textform durchzuführen.
 
 
 ##### § 68 Abteilungen des Vorstands
@@ -2939,13 +3033,10 @@ Anordnungen können im Laufe des Jahres nur geändert werden, wenn dies
 wegen Überlastung der Abteilung oder infolge Wechsels oder dauernder
 Verhinderung einzelner Mitglieder der Abteilung erforderlich wird.
 
-(4) Der Vorstand kann die Abteilungen ermächtigen, ihre Sitzungen
-außerhalb des Sitzes der Kammer abzuhalten.
-
-(5) Die Abteilungen haben innerhalb ihrer Zuständigkeit die Rechte und
+(4) Die Abteilungen haben innerhalb ihrer Zuständigkeit die Rechte und
 Pflichten des Vorstands.
 
-(6) An Stelle der Abteilung entscheidet der Vorstand, wenn er es für
+(5) An Stelle der Abteilung entscheidet der Vorstand, wenn er es für
 angemessen hält oder wenn die Abteilung oder ihr Vorsitzender es
 beantragt.
 
@@ -3002,6 +3093,15 @@ des Berufsstands zu wahren und zu fördern.
 
 
 
+Ist ein Mitglied der Kammer auch Mitglied eines Geschäftsführungs-
+oder Aufsichtsorgans einer Berufsausübungsgesellschaft nach der
+Bundesrechtsanwaltsordnung oder dem Steuerberatungsgesetz, so umfassen
+die Aufgaben des Vorstandes nach Satz 1 Nummer 1 und 4 auch die
+Berufspflichten des Kammermitglieds als Mitglied dieses
+Geschäftsführungs- oder Aufsichtsorgans (§ 59d Absatz 1 bis 3 und §
+59j Absatz 4 und 5 Satz 1 der Bundesrechtsanwaltsordnung oder § 51
+Absatz 1 bis 3 und § 55b Absatz 4 und 5 Satz 1 des
+Steuerberatungsgesetzes).
 
 (3) In Beschwerdeverfahren setzt der Vorstand die Person, die die
 Beschwerde erhoben hatte von seiner Entscheidung in Kenntnis. Die
@@ -3010,7 +3110,7 @@ Einspruchsverfahrens und ist mit einer kurzen Darstellung der
 wesentlichen Gründe für die Entscheidung zu versehen. § 71 Absatz 1
 bleibt unberührt. Die Mitteilung ist nicht anfechtbar.
 
-(4) Der Vorstand kann die in Absatz 2 Nr. 1 bis 3 und Absatz 3
+(4) Der Vorstand kann die in Absatz 2 Satz 1 Nr. 1 bis 3 und Absatz 3
 bezeichneten Aufgaben einzelnen Mitgliedern des Vorstands übertragen.
 
 (5) Beantragt bei Streitigkeiten zwischen einem Mitglied der
@@ -3267,8 +3367,9 @@ geltend zu machen.
 (1) Die Kammerversammlung wird durch den Präsidenten einberufen.
 
 (2) Der Präsident muß die Kammerversammlung einberufen, wenn ein
-Zehntel der Mitglieder es schriftlich beantragt und hierbei den
-Gegenstand angibt, der in der Kammerversammlung behandelt werden soll.
+Zehntel der Mitglieder es schriftlich oder elektronisch beantragt und
+hierbei den Gegenstand angibt, der in der Kammerversammlung behandelt
+werden soll.
 
 (3) Wenn die Satzung nichts anderes bestimmt, soll die
 Kammerversammlung am Sitz der Kammer zusammentreten.
@@ -3277,11 +3378,61 @@ Kammerversammlung am Sitz der Kammer zusammentreten.
 ##### § 79 Einladung und Einberufungsfrist
 
 Die Kammerversammlung ist mindestens zwei Wochen vorher einzuberufen.
-Die Einberufung hat schriftlich oder öffentlich in den dazu von der
-Satzung bestimmten Blättern zu erfolgen. Bei der Fristberechnung sind
-der Tag der Versendung und der Tag der Versammlung nicht mitzuzählen.
-In dringenden Fällen kann die Kammerversammlung mit kürzerer Frist
-einberufen werden.
+Die Einberufung hat schriftlich oder elektronisch zu erfolgen. Bei der
+Fristberechnung sind der Tag der Versendung und der Tag der
+Versammlung nicht mitzuzählen. In dringenden Fällen kann die
+Kammerversammlung mit kürzerer Frist einberufen werden.
+
+
+##### § 79a Durchführung der Kammerversammlung
+
+(1) Die Kammerversammlung findet vorbehaltlich des Absatzes 2 in
+Präsenz aller Beteiligten am Ort der Versammlung statt.
+
+(2) Die Satzung der Kammer kann vorsehen, dass die Kammerversammlung
+auch wie folgt stattfinden kann:
+
+1.  in Präsenz und gleichzeitig online (hybride Kammerversammlung) oder
+
+
+2.  ausschließlich online (virtuelle Kammerversammlung).
+
+
+
+Das Nähere zu hybriden und virtuellen Kammerversammlungen bestimmt die
+Satzung. Die Satzung kann dabei vorsehen, dass bestimmte Gegenstände
+nicht in hybriden oder virtuellen Kammerversammlungen behandelt werden
+dürfen. In der Satzung soll insbesondere geregelt werden, ob und
+gegebenenfalls unter welchen Voraussetzungen eine Aufzeichnung der
+Versammlung zulässig ist. Sofern die Satzung keine abweichende
+Regelung trifft, bestimmt der Präsident die Form der Kammerversammlung
+bei deren Einberufung.
+
+(3) Sieht die Satzung der Kammer hybride oder virtuelle
+Kammerversammlungen vor, so dürfen diese nur abgehalten werden, wenn
+die folgenden Bedingungen eingehalten werden:
+
+1.  in der Einberufung muss angegeben werden, wie sich die Mitglieder
+    online zur Versammlung zuschalten können,
+
+
+2.  die gesamte Versammlung muss in Bild und Ton übertragen werden,
+
+
+3.  die online teilnehmenden Mitglieder müssen ihr Stimmrecht entweder
+    während der Versammlung elektronisch oder im Anschluss an die
+    Versammlung durch schriftliche Stimmabgabe ausüben können und
+
+
+4.  die Rechte der Mitglieder nach diesem Gesetz und nach der Satzung der
+    Kammer müssen gewahrt werden.
+
+
+
+Bei einer virtuellen Kammerversammlung muss in der Einberufung darauf
+hingewiesen werden, dass die Versammlung ausschließlich online
+stattfindet. § 78 Absatz 3 ist im Falle der virtuellen
+Kammerversammlung nicht anzuwenden.
 
 
 ##### § 80 Ankündigung der Tagesordnung
@@ -3724,7 +3875,12 @@ Patentanwaltskammer zu übermitteln.
 
 (1) Gegen einen Patentanwalt, der schuldhaft gegen Pflichten verstößt,
 die in diesem Gesetz oder in der Berufsordnung nach § 52a bestimmt
-sind, wird eine berufsgerichtliche Maßnahme verhängt.
+sind, wird eine berufsgerichtliche Maßnahme verhängt. Gleiches gilt,
+wenn ein Patentanwalt im Fall des § 69 Absatz 2 Satz 2 dieses Gesetzes
+gegen Berufspflichten nach § 59d Absatz 1 bis 3 oder § 59j Absatz 4
+oder 5 Satz 1 der Bundesrechtsanwaltsordnung oder gegen
+Berufspflichten nach § 51 Absatz 1 bis 3 oder § 55b Absatz 4 oder 5
+Satz 1 des Steuerberatungsgesetzes verstößt.
 
 (2) Ein außerhalb des Berufes liegendes Verhalten eines Patentanwalts,
 das eine rechtswidrige Tat oder eine mit Geldbuße bedrohte Handlung
@@ -3813,6 +3969,19 @@ Patentanwälte
 
 
 4.  Ausschließung aus der Patentanwaltschaft.
+
+
+
+(1a) Im Fall des § 69 Absatz 2 Satz 2 tritt an die Stelle der
+Ausschließung aus der Patentanwaltschaft
+
+1.  bei Mitgliedern von Geschäftsführungsorganen die Aberkennung der
+    Eignung, eine Berufsausübungsgesellschaft zu vertreten und ihre
+    Geschäfte zu führen, und
+
+
+2.  bei Mitgliedern eines Aufsichtsorgans die Aberkennung der Eignung,
+    Aufsichtsfunktionen einer Berufsausübungsgesellschaft wahrzunehmen.
 
 
 
@@ -5112,9 +5281,10 @@ Widerruf der Aufnahme in die Patentanwaltskammer gelten im Übrigen
 
 1.  sinngemäß der Zweite und Dritte Unterabschnitt des Ersten Abschnitts
     des Zweiten Teils mit Ausnahme des § 18 Absatz 2 Nummer 1 und Absatz 4
-    sowie der §§ 19 und 24, der Dritte Teil mit Ausnahme des § 52j Absatz
-    3, der Vierte Teil, der Dritte Abschnitt des Fünften Teils, der
-    Sechste, der Siebente, der Achte und der Zehnte Teil und
+    sowie der §§ 19 und 24, der Zweite Abschnitt des Zweiten Teils, der
+    Dritte Teil mit Ausnahme des § 52j Absatz 3, der Vierte Teil, der
+    Dritte Abschnitt des Fünften Teils, der Sechste, der Siebente, der
+    Achte und der Elfte Teil und
 
 
 2.  die auf Grund des § 29 Absatz 5 erlassene Rechtsverordnung.
@@ -5193,11 +5363,10 @@ wenn
 
 
 (2) Für Berufsausübungsgesellschaften nach Absatz 1 gelten § 52c
-Absatz 2, die §§ 52d, 52e, 52f, 52g, 52h und 52i Absatz 2 bis 5 sowie
-die §§ 52j, 52l, 52m und 52n entsprechend. § 52j ist dabei mit der
-Maßgabe anzuwenden, dass der Geschäftsleitung der deutschen
-Zweigniederlassung zur Geschäftsführung und Vertretung berechtigte
-Patentanwälte oder nach § 157 niedergelassene ausländische
+Absatz 2, die §§ 52d bis 52j und die §§ 52l bis 52n entsprechend. §
+52j ist dabei mit der Maßgabe anzuwenden, dass der Geschäftsleitung
+der deutschen Zweigniederlassung zur Geschäftsführung und Vertretung
+berechtigte Patentanwälte oder nach § 157 niedergelassene ausländische
 Patentanwälte in vertretungsberechtigter Zahl angehören müssen. § 52n
 ist mit der Maßgabe anzuwenden, dass nicht auf die Zahl der
 Geschäftsführer, sondern auf die Zahl der Mitglieder der
@@ -5235,7 +5404,10 @@ handelnden niedergelassenen ausländischen Patentanwalts.
 
 (7) In der Bundesrepublik Deutschland nach Absatz 1 niedergelassene
 ausländische Berufsausübungsgesellschaften sind in die Verzeichnisse
-nach § 29 Absatz 4 einzutragen.
+nach § 29 Absatz 4 einzutragen. § 29 Absatz 4 Nummer 6 ist mit der
+Maßgabe anzuwenden, dass nur Angaben zu solchen Gesellschaftern
+einzutragen sind, die zur Erbringung patentanwaltlicher
+Rechtsdienstleistungen in der Bundesrepublik Deutschland befugt sind.
 
 
 ### § 160 Inhaber von Erlaubnisscheinen
@@ -5280,6 +5452,18 @@ Zulassung der Berufsausübungsgesellschaft nach § 52f.
 müssen bis zum 1. November 2022 eine Zulassung beantragen. Ihnen
 stehen bis zur Entscheidung der Patentanwaltskammer über den Antrag
 auf Zulassung die Befugnisse nach § 52k zu.
+
+
+### § 163 Übergangsvorschrift zu aufsichtsrechtlichen Verfahren bei Wegfall der doppelten Kammermitgliedschaft
+
+Die Zuständigkeit für am 1. Januar 2025 anhängige aufsichtsrechtliche
+Verfahren gegen ein Mitglied eines Geschäftsführungs- oder
+Aufsichtsorgans einer patentanwaltlichen Berufsausübungsgesellschaft,
+das auch Mitglied einer Rechtsanwaltskammer oder einer
+Steuerberaterkammer ist, geht am 1. Januar 2025 auf diejenige Stelle
+über, der von diesem Tag an nach der
+Rechtsanwaltsordnung              oder dem Steuerberatungsgesetz die
+Zuständigkeit für das Verfahren zukommt.
 
 (zu § 52a Absatz 4 Satz 1)
 

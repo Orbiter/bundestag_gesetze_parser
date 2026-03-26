@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2021, 1858
 
 Zuletzt geändert durch
-:   Art. 5 G v. 14.3.2023 I Nr. 71
+:   Art. 6 G v. 11.3.2026 I Nr. 66
 
 Stand: Ersetzt G v. 22.6.2004 I 1190 (TKG 2004)
 
@@ -29,12 +29,15 @@ Stand: Ersetzt G v. 22.6.2004 I 1190 (TKG 2004)
 Regulierung den Wettbewerb im Bereich der Telekommunikation und
 leistungsfähige Telekommunikationsinfrastrukturen zu fördern und
 flächendeckend angemessene und ausreichende Dienstleistungen zu
-gewährleisten.
+gewährleisten. Die Verlegung und die Änderung von
+Telekommunikationslinien zum Ausbau von öffentlichen
+Telekommunikationsnetzen liegen bis zum Ablauf des 31. Dezember 2030
+im überragenden öffentlichen Interesse.
 
 (2) Diesem Gesetz unterliegen alle Unternehmen oder Personen, die im
 Geltungsbereich dieses Gesetzes Telekommunikationsnetze oder
 Telekommunikationsanlagen betreiben oder Telekommunikationsdienste
-erbringen sowie die weiteren, nach diesem Gesetz Berechtigten und
+erbringen, sowie die weiteren, nach diesem Gesetz Berechtigten und
 Verpflichteten.
 
 
@@ -169,7 +172,8 @@ bleiben unberührt.
 Sicherheitsaufgaben des Bundes und der Länder sind zu berücksichtigen,
 ebenso nach Maßgabe dieses Gesetzes die Belange der Bundeswehr.
 
-(7) Die Belange des Rundfunks und vergleichbarer Telemedien sind
+(7) Die Belange des Rundfunks und vergleichbarer digitaler Dienste
+nach § 1 Absatz 4 Nummer 1 des Digitale-Dienste-Gesetzes sind
 unabhängig von der Art der Übertragung zu berücksichtigen. Die
 medienrechtlichen Bestimmungen der Länder bleiben unberührt.
 
@@ -355,7 +359,8 @@ Im Sinne dieses Gesetzes ist oder sind
 
 26. „Kurzwahl-Datendienste“ Kurzwahldienste, die der Übermittlung von
     nichtsprachgestützten Inhalten mittels Telekommunikation dienen und
-    die keine Telemedien sind;
+    die keine digitalen Dienste nach § 1 Absatz 4 Nummer 1 des Digitale-
+    Dienste-Gesetzes sind;
 
 
 27. „Kurzwahldienste“ Dienste, die die Merkmale eines Premium-Dienstes
@@ -543,8 +548,11 @@ Im Sinne dieses Gesetzes ist oder sind
     sind, beeinträchtigen;
 
 
-53. „Sicherheitsvorfall“ ein Ereignis mit nachteiliger Wirkung auf die
-    Sicherheit von Telekommunikationsnetzen oder -diensten;
+53. „Sicherheitsvorfall“ ein Ereignis, das die Verfügbarkeit,
+    Authentizität, Integrität oder Vertraulichkeit gespeicherter,
+    übermittelter oder verarbeiteter Daten oder der Dienste, die über
+    Netz- und Informationssysteme angeboten werden oder zugänglich sind,
+    beeinträchtigt;
 
 
 54. „sonstige physische Infrastrukturen“ entstehende, betriebene oder
@@ -811,7 +819,27 @@ Im Sinne dieses Gesetzes ist oder sind
     oder den Zugang zu den von einem anderen Unternehmen angebotenen
     Diensten zu ermöglichen, soweit solche Dienste von den beteiligten
     Parteien oder von anderen Parteien, die Zugang zum Netz haben,
-    erbracht werden.
+    erbracht werden;
+
+
+80. „Netz- und Informationssystem“
+
+    a)  ein Telekommunikationsnetz im Sinne von Nummer 65,
+
+
+    b)  ein Gerät oder eine Gruppe miteinander verbundener oder
+        zusammenhängender Geräte, die einzeln oder zu mehreren auf der
+        Grundlage eines Programms die automatische Verarbeitung digitaler
+        Daten durchführen, oder
+
+
+    c)  digitale Daten, die von den in den Buchstaben a und b genannten
+        Elementen zum Zwecke ihres Betriebs, ihrer Nutzung, ihres Schutzes und
+        ihrer Pflege gespeichert, verarbeitet, abgerufen oder übertragen
+        werden.
+
+
+
 
 
 
@@ -1242,10 +1270,9 @@ sechs Monate mit, dass sie den Entwurf zurückzieht. Ändert die
 Bundesnetzagentur den Entwurf der beabsichtigten Maßnahme, so führt
 sie das Konsultationsverfahren nach Absatz 1 durch und legt der
 Kommission den geänderten Entwurf nach Absatz 2 vor. Die
-Bundesnetzagentur unterrichtet das Bundesministerium für Wirtschaft
-und Energie und das Bundesministerium für Verkehr und digitale
-Infrastruktur über den Beschluss der Kommission und über ihr weiteres
-Vorgehen nach Satz 1.
+Bundesnetzagentur unterrichtet das Bundesministerium für Digitales und
+Staatsmodernisierung über den Beschluss der Kommission und über ihr
+weiteres Vorgehen nach Satz 1.
 
 (6) Die Bundesnetzagentur veröffentlicht unverzüglich nach
 Stellungnahme der Kommission die Ergebnisse der Marktdefinition nach §
@@ -3411,14 +3438,14 @@ barrierefreien Format bereitzustellen. Die Bundesnetzagentur stellt
 sicher, dass die Anbieter diese Informationen veröffentlichen und
 regelmäßig auf den neuesten Stand bringen.
 
-(4) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
-im Einvernehmen mit dem Bundesministerium des Innern, für Bau und
-Heimat, dem Bundesministerium der Justiz und für Verbraucherschutz
-sowie dem Bundesministerium für Verkehr und digitale Infrastruktur
-durch Rechtsverordnung mit Zustimmung des Bundestages
-Rahmenvorschriften zur Förderung der Transparenz sowie zur
-Veröffentlichung von Informationen und zusätzlichen Dienstemerkmalen
-zur Kostenkontrolle auf dem Telekommunikationsmarkt zu erlassen.
+(4) Das Bundesministerium für Digitales und Staatsmodernisierung wird
+ermächtigt, im Einvernehmen mit dem Bundesministerium des Innern, dem
+Bundesministerium der Justiz und für Verbraucherschutz sowie dem
+Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung
+mit Zustimmung des Bundestages Rahmenvorschriften zur Förderung der
+Transparenz sowie zur Veröffentlichung von Informationen und
+zusätzlichen Dienstmerkmalen zur Kostenkontrolle auf dem
+Telekommunikationsmarkt zu erlassen.
 
 (5) In der Rechtsverordnung nach Absatz 4 können hinsichtlich Ort und
 Form der gemäß den Absätzen 2 und 3 zu veröffentlichenden
@@ -3434,15 +3461,14 @@ Telekommunikationsdiensten im Falle des Artikels 115 der Richtlinie
 unentgeltliche Warnhinweise für die Verbraucher im Falle eines
 anormalen oder übermäßigen Verbrauchsverhaltens.
 
-(6) Das Bundesministerium für Wirtschaft und Energie kann im
-Einvernehmen mit dem Bundesministerium für Verkehr und digitale
-Infrastruktur die Ermächtigung nach Absatz 4 durch Rechtsverordnung
-auf die Bundesnetzagentur übertragen. Eine Rechtsverordnung der
+(6) Das Bundesministerium für Digitales und Staatsmodernisierung kann
+im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie
+die Ermächtigung nach Absatz 4 durch Rechtsverordnung auf die
+Bundesnetzagentur übertragen. Eine Rechtsverordnung der
 Bundesnetzagentur bedarf des Einvernehmens mit dem Bundesministerium
-für Wirtschaft und Energie, dem Bundesministerium des Innern, für Bau
-und Heimat, dem Bundesministerium der Justiz und für
-Verbraucherschutz, dem Bundesministerium für Verkehr und digitale
-Infrastruktur und dem Bundestag.
+für Digitales und Staatsmodernisierung, dem Bundesministerium des
+Innern, dem Bundesministerium der Justiz und für Verbraucherschutz,
+dem Bundesministerium für Wirtschaft und Energie und dem Bundestag.
 
 (7) Die Bundesnetzagentur kann selbst oder über Dritte jegliche
 Information veröffentlichen, die für Endnutzer Bedeutung haben kann.
@@ -4420,9 +4446,9 @@ Bundesnetzagentur muss die Anforderungen nach dem
 Verbraucherstreitbeilegungsgesetz vom 19. Februar 2016 (BGBl. I S.
 254), das durch Artikel 2 Absatz 3 des Gesetzes vom 25. Juni 2020
 (BGBl. I S. 1474) geändert worden ist, erfüllen. Das Bundesministerium
-für Wirtschaft und Energie übermittelt der Zentralen Anlaufstelle für
-Verbraucherschlichtung die Mitteilungen nach § 32 Absatz 3 und 4 des
-Verbraucherstreitbeilegungsgesetzes.
+für Digitales und Staatsmodernisierung übermittelt der Zentralen
+Anlaufstelle für Verbraucherschlichtung die Mitteilungen nach § 32
+Absatz 3 und 4 des Verbraucherstreitbeilegungsgesetzes.
 
 
 ### § 69 Abwehr- und Schadensersatzansprüche
@@ -4680,7 +4706,8 @@ Bundesnetzagentur dem Betreiber öffentlicher Telekommunikationsnetze
 gestatten, für dieses Gerät den Anschluss zu verweigern, die
 Verbindung aufzuheben oder den Dienst einzustellen. Die
 Bundesnetzagentur teilt dem Bundesministerium für Wirtschaft und
-Energie die von ihr getroffenen Maßnahmen mit.
+Energie und dem Bundesministerium für Digitales und
+Staatsmodernisierung die von ihr getroffenen Maßnahmen mit.
 
 (6) Der Betreiber öffentlicher Telekommunikationsnetze kann eine
 Telekommunikationsendeinrichtung im Notfall ohne vorherige Erlaubnis
@@ -4978,13 +5005,13 @@ Bereichen
 
 
 (2) Die Aufgaben der zentralen Informationsstelle des Bundes werden
-vom Bundesministerium für Verkehr und digitale Infrastruktur
-wahrgenommen. Das Bundesministerium für Verkehr und digitale
-Infrastruktur kann die Aufgaben der zentralen Informationsstelle des
-Bundes vollständig oder teilweise an Behörden in seinem
-Geschäftsbereich oder an seiner Fachaufsicht unterstehende Behörden
-übertragen oder Dritte mit der Aufgabenwahrnehmung beleihen, soweit
-dies rechtlich zulässig ist.
+vom Bundesministerium für Digitales und Staatsmodernisierung
+wahrgenommen. Das Bundesministerium für Digitales und
+Staatsmodernisierung kann die Aufgaben der zentralen
+Informationsstelle des Bundes vollständig oder teilweise an Behörden
+in seinem Geschäftsbereich oder an seiner Fachaufsicht unterstehende
+Behörden übertragen oder Dritte mit der Aufgabenwahrnehmung beleihen,
+soweit dies rechtlich zulässig ist.
 
 (3) Die Informationen können auch für allgemeine Planungs- und
 Förderzwecke sowie für weitere durch Gesetz bestimmte Zwecke genutzt
@@ -5053,9 +5080,9 @@ auf, soweit konkrete Anhaltspunkte dafür vorliegen, dass
 
 
 3.  Teile einer Infrastruktur betroffen sind, die durch Gesetz oder
-    aufgrund eines Gesetzes als Kritische Infrastrukturen bestimmt worden
-    und nachweislich besonders schutzbedürftig und für die
-    Funktionsfähigkeit der Kritischen Infrastruktur maßgeblich sind, oder
+    aufgrund eines Gesetzes als kritische Anlagen bestimmt worden und
+    nachweislich besonders schutzbedürftig und für die Funktionsfähigkeit
+    kritischer Anlagen maßgeblich sind, oder
 
 
 4.  Teile öffentlicher Versorgungsnetze oder sonstiger physischer
@@ -5088,7 +5115,7 @@ gehören insbesondere
 
 
 
-Das Bundesministerium für Verkehr und digitale Infrastruktur sowie
+Das Bundesministerium für Digitales und Staatsmodernisierung sowie
 Gebietskörperschaften haben für allgemeine Planungs- und Förderzwecke
 sowie zur Erfüllung von Aufgaben nach diesem Gesetz das Recht auf:
 
@@ -5169,14 +5196,14 @@ Monaten ab erstmaliger Erhebung durch.
 
 
 
-Das Bundesministerium für Verkehr und digitale Infrastruktur legt im
+Das Bundesministerium für Digitales und Staatsmodernisierung legt im
 Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie
 Vorgaben zu den technischen Einzelheiten zu den in Absatz 1 Satz 2 und
 Satz 1 dieses Absatzes genannten Gegenständen in einer Technischen
 Richtlinie fest, die im Verkehrsblatt veröffentlicht wird.
 
 (4) Die zentrale Informationsstelle des Bundes kann auf Anforderung
-des Bundesministeriums für Verkehr und digitale Infrastruktur auf
+des Bundesministeriums für Digitales und Staatsmodernisierung auf
 Grundlage der geografischen Erhebung eine Übersicht für einen
 festgelegten Zeitraum hinsichtlich der künftigen örtlichen
 Verfügbarkeit sonstiger öffentlicher Telekommunikationsnetze
@@ -5230,10 +5257,10 @@ Absatz 1 geführte Datenportal ermöglicht die Einsicht in die
 Informationen über Liegenschaften im Sinne des Absatzes 1 nach Maßgabe
 von Einsichtnahmebedingungen, die die zentrale Informationsstelle des
 Bundes vorhält. Werden die Aufgaben der zentralen Informationsstelle
-des Bundes nicht unmittelbar durch das Bundesministerium für Verkehr
-und digitale Infrastruktur wahrgenommen, so bedürfen die
+des Bundes nicht unmittelbar durch das Bundesministerium für Digitales
+und Staatsmodernisierung wahrgenommen, so bedürfen die
 Einsichtnahmebedingungen der Zustimmung des Bundesministeriums für
-Verkehr und digitale Infrastruktur.
+Digitales und Staatsmodernisierung.
 
 
 ### § 84 Gebiete mit Ausbaudefizit
@@ -5316,7 +5343,7 @@ dem GEREK und der Kommission zur Verfügung gestellt.
 
 ### § 86 Verordnungsermächtigung
 
-Das Bundesministerium für Verkehr und digitale Infrastruktur wird
+Das Bundesministerium für Digitales und Staatsmodernisierung wird
 ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft
 und Energie durch Rechtsverordnung mit Zustimmung des Bundesrates zu
 bestimmen, in welcher Form, in welchem technischen Format und in
@@ -5443,7 +5470,7 @@ Luftfahrzeugen, die sich im Geltungsbereich dieses Gesetzes aufhalten.
 
 (3) Für Frequenznutzungen, die in den Aufgabenbereich des
 Bundesministeriums der Verteidigung fallen, stellt das
-Bundesministerium für Verkehr und digitale Infrastruktur das
+Bundesministerium für Digitales und Staatsmodernisierung das
 Einvernehmen mit dem Bundesministerium der Verteidigung her.
 
 
@@ -5959,8 +5986,8 @@ genutzt werden.
 
 (4) Für Frequenzen, die für den Funk der Behörden und Organisationen
 mit Sicherheitsaufgaben (BOS-Funk) ausgewiesen sind, legt das
-Bundesministerium des Innern, für Bau und Heimat im Benehmen mit den
-zuständigen obersten Landesbehörden in einer Richtlinie fest:
+Bundesministerium des Innern im Benehmen mit den zuständigen obersten
+Landesbehörden in einer Richtlinie fest:
 
 1.  die Zuständigkeiten der beteiligten Behörden,
 
@@ -5985,11 +6012,10 @@ zuständigen obersten Landesbehörden in einer Richtlinie fest:
 
 
 Die Richtlinie ist, insbesondere Satz 1 Nummer 4 und 5 betreffend, mit
-der Bundesnetzagentur abzustimmen. Das Bundesministerium des Innern,
-für Bau und Heimat bestätigt im Einzelfall nach Anhörung der jeweils
-sachlich zuständigen obersten Bundes- oder Landesbehörden die
-Zugehörigkeit eines Antragstellers zum Kreis der nach Satz 1
-anerkannten Berechtigten.
+der Bundesnetzagentur abzustimmen. Das Bundesministerium des Innern
+bestätigt im Einzelfall nach Anhörung der jeweils sachlich zuständigen
+obersten Bundes- oder Landesbehörden die Zugehörigkeit eines
+Antragstellers zum Kreis der nach Satz 1 anerkannten Berechtigten.
 
 (5) Die Bundesnetzagentur teilt Frequenzen für die Nutzung des
 Flugfunkdienstes zu, wenn die nach dem Luftverkehrsrecht
@@ -6046,7 +6072,7 @@ sofern
 (2) Die Bundesnetzagentur überprüft das Vorliegen der Voraussetzungen
 in regelmäßigen Abständen von Amts wegen oder auf Antrag eines an der
 harmonisierten Nutzung Interessierten. Die Bundesnetzagentur setzt das
-Bundesministerium für Verkehr und digitale Infrastruktur, die
+Bundesministerium für Digitales und Staatsmodernisierung, die
 Kommission und die anderen Mitgliedstaaten der Europäischen Union von
 der getroffenen Entscheidung einschließlich deren Gründe sowie über
 das Ergebnis der Überprüfung der Entscheidung in Kenntnis.
@@ -6425,14 +6451,14 @@ Frequenzregulierungsziels nach § 87 Absatz 2 Nummer 1 sicherzustellen.
 
 (5) Die Bundesnetzagentur berichtet erstmals sechs Monate nach
 Inkrafttreten der Absätze 3 und 4 und im Anschluss jährlich dem
-Ausschuss für Verkehr und digitale Infrastruktur des Deutschen
-Bundestags über den Zustand der Mobilfunkversorgung insbesondere im
-Hinblick auf die Entwicklung bezüglich der in Absatz 4 genannten
-Aspekte. Gegenstand des Berichts soll zudem der anbieterbezogene Stand
-der Erfüllung von Nebenbestimmungen im Sinne des § 99 Absatz 3 sein,
-die mit der Zuteilung von Frequenzen für den Mobilfunk verbunden und
-zum Zeitpunkt der Berichterstattung nicht bereits vollständig erfüllt
-sind.
+Ausschuss für Digitales und Staatsmodernisierung und dem
+Verkehrsausschuss des Deutschen Bundestags über den Zustand der
+Mobilfunkversorgung insbesondere im Hinblick auf die Entwicklung
+bezüglich der in Absatz 4 genannten Aspekte. Gegenstand des Berichts
+soll zudem der anbieterbezogene Stand der Erfüllung von
+Nebenbestimmungen im Sinne des § 99 Absatz 3 sein, die mit der
+Zuteilung von Frequenzen für den Mobilfunk verbunden und zum Zeitpunkt
+der Berichterstattung nicht bereits vollständig erfüllt sind.
 
 
 ### § 104 Einschränkung der Frequenzzuteilung
@@ -7801,13 +7827,13 @@ werden, soweit konkrete Anhaltspunkte dafür vorliegen, dass
     verletzt wird,
 
 
-3.  von dem Antrag Teile einer Kritischen Infrastruktur, insbesondere
-    deren Informationstechnik, betroffen sind, die nachweislich besonders
-    schutzbedürftig und für die Funktionsfähigkeit der Kritischen
-    Infrastruktur maßgeblich sind, und der Betreiber des öffentlichen
-    Versorgungsnetzes bei Erteilung der Informationen unverhältnismäßige
-    Maßnahmen ergreifen müsste, um die ihm durch Gesetz oder aufgrund
-    eines Gesetzes auferlegten Schutzpflichten zu erfüllen, oder
+3.  von dem Antrag Teile einer kritischen Anlagen, insbesondere deren
+    Informationstechnik, betroffen sind, die nachweislich besonders
+    schutzbedürftig und für die Funktionsfähigkeit kritischer Anlagen
+    maßgeblich sind, und der Betreiber des öffentlichen Versorgungsnetzes
+    bei Erteilung der Informationen unverhältnismäßige Maßnahmen ergreifen
+    müsste, um die ihm durch Gesetz oder aufgrund eines Gesetzes
+    auferlegten Schutzpflichten zu erfüllen, oder
 
 
 4.  ein Ablehnungsgrund für eine Mitnutzung nach § 141 Absatz 2 vorliegt.
@@ -7833,7 +7859,7 @@ Satz 2 erhaltenen Informationen unverzüglich zugänglich:
 1.  den Eigentümern oder Betreibern öffentlicher Telekommunikationsnetze,
 
 
-2.  dem Bundesministerium für Verkehr und digitale Infrastruktur sowie
+2.  dem Bundesministerium für Digitales und Staatsmodernisierung sowie
 
 
 3.  den Gebietskörperschaften der Länder und der Kommunen.
@@ -7880,14 +7906,13 @@ werden, soweit konkrete Anhaltspunkte dafür vorliegen, dass
     verletzt wird,
 
 
-3.  von dem Antrag Teile einer Kritischen Infrastruktur, insbesondere
-    deren Informationstechnik, betroffen sind, die nachweislich besonders
-    schutzbedürftig und für die Funktionsfähigkeit der Kritischen
-    Infrastruktur maßgeblich sind, und der Betreiber des öffentlichen
-    Versorgungsnetzes zur Durchführung der Vor-Ort-Untersuchung
-    unverhältnismäßige Maßnahmen ergreifen müsste, um die ihm durch Gesetz
-    oder aufgrund eines Gesetzes auferlegten Schutzpflichten zu erfüllen,
-    oder
+3.  von dem Antrag Teile einer kritischen Anlagen, insbesondere deren
+    Informationstechnik, betroffen sind, die nachweislich besonders
+    schutzbedürftig und für die Funktionsfähigkeit kritischer Anlagen
+    maßgeblich sind, und der Betreiber des öffentlichen Versorgungsnetzes
+    zur Durchführung der Vor-Ort-Untersuchung unverhältnismäßige Maßnahmen
+    ergreifen müsste, um die ihm durch Gesetz oder aufgrund eines Gesetzes
+    auferlegten Schutzpflichten zu erfüllen, oder
 
 
 4.  ein Versagungsgrund für eine Mitnutzung nach § 141 Absatz 2 oder für
@@ -8029,16 +8054,15 @@ der folgenden Gründe vorliegt:
 
 4.  konkrete Anhaltspunkte dafür, dass die beantragte Mitnutzung die
     Integrität oder Sicherheit bereits bestehender öffentlicher
-    Versorgungsnetze, insbesondere nationaler Kritischer Infrastrukturen,
-    gefährdet; bei Kritischen Infrastrukturen liegen konkrete
-    Anhaltspunkte für eine solche Gefährdung vor, soweit von dem Antrag
-    Teile einer Kritischen Infrastruktur, insbesondere die
-    Informationstechnik Kritischer Infrastrukturen, betroffen sind, die
-    nachweislich besonders schutzbedürftig und für die Funktionsfähigkeit
-    der Kritischen Infrastruktur maßgeblich sind, und der Betreiber die
-    Mitnutzung im Rahmen der ihm durch Gesetz oder aufgrund eines Gesetzes
-    auferlegten Schutzpflichten nicht durch verhältnismäßige Maßnahmen
-    ermöglichen kann,
+    Versorgungsnetze, insbesondere nationaler kritischer Anlagen,
+    gefährdet; bei kritischen Anlagen liegen konkrete Anhaltspunkte für
+    eine solche Gefährdung vor, soweit von dem Antrag Teile einer
+    kritischen Anlage, insbesondere die Informationstechnik kritischer
+    Anlagen, betroffen sind, die nachweislich besonders schutzbedürftig
+    und für die Funktionsfähigkeit kritischer Anlagen maßgeblich sind, und
+    der Betreiber die Mitnutzung im Rahmen der ihm durch Gesetz oder
+    aufgrund eines Gesetzes auferlegten Schutzpflichten nicht durch
+    verhältnismäßige Maßnahmen ermöglichen kann,
 
 
 5.  Anhaltspunkte für eine zu erwartende erhebliche Störung des
@@ -8119,13 +8143,13 @@ werden, soweit konkrete Anhaltspunkte dafür vorliegen, dass
     Wochen nicht überschreitet,
 
 
-4.  von dem Antrag Teile einer Kritischen Infrastruktur, insbesondere
-    deren Informationstechnik, betroffen sind, die nachweislich besonders
-    schutzbedürftig und für die Funktionsfähigkeit der Kritischen
-    Infrastruktur maßgeblich sind, und der Betreiber des öffentlichen
-    Versorgungsnetzes bei Erteilung der Informationen unverhältnismäßige
-    Maßnahmen ergreifen müsste, um die ihm durch Gesetz oder aufgrund
-    eines Gesetzes auferlegten Schutzpflichten zu erfüllen,
+4.  von dem Antrag Teile einer kritischen Anlagen, insbesondere deren
+    Informationstechnik, betroffen sind, die nachweislich besonders
+    schutzbedürftig und für die Funktionsfähigkeit kritischer Anlagen
+    maßgeblich sind, und der Betreiber des öffentlichen Versorgungsnetzes
+    bei Erteilung der Informationen unverhältnismäßige Maßnahmen ergreifen
+    müsste, um die ihm durch Gesetz oder aufgrund eines Gesetzes
+    auferlegten Schutzpflichten zu erfüllen,
 
 
 5.  die Koordinierung von Bauarbeiten unzumutbar ist oder
@@ -8211,10 +8235,10 @@ stattzugeben. Den Anträgen ist insbesondere zu entsprechen, sofern
 (4) Der Antrag nach Absatz 2 ist ganz oder teilweise insbesondere
 abzulehnen, sofern
 
-1.  von dem Antrag Teile einer Kritischen Infrastruktur, insbesondere
-    deren Informationstechnik, betroffen sind, die nachweislich besonders
-    schutzbedürftig und für die Funktionsfähigkeit der Kritischen
-    Infrastruktur maßgeblich sind,
+1.  von dem Antrag Teile einer kritischen Anlagen, insbesondere deren
+    Informationstechnik, betroffen sind, die nachweislich besonders
+    schutzbedürftig und für die Funktionsfähigkeit kritischer Anlagen
+    maßgeblich sind,
 
 
 2.  der Betreiber des öffentlichen Versorgungsnetzes zur Koordinierung der
@@ -8367,7 +8391,7 @@ Beteiligten. Die Verfahrensbeteiligten haben die aus den Verhandlungen
 oder Vereinbarungen gewonnenen Betriebs- und Geschäftsgeheimnisse zu
 wahren.
 
-(2) Das Bundesministerium für Verkehr und digitale Infrastruktur kann
+(2) Das Bundesministerium für Digitales und Staatsmodernisierung kann
 die Informationen, die es für die Aufgabenerfüllung nach § 78 Absatz 1
 Nummer 1 und 5 erhalten hat, verarbeiten und auf Antrag den am Ausbau
 von öffentlichen Versorgungsnetzen Beteiligten Einsicht in die
@@ -8530,20 +8554,19 @@ rechtzeitig mitzuteilen.
 
 #### § 151 Verordnungsermächtigungen
 
-(1) Das Bundesministerium für Verkehr und digitale Infrastruktur wird
+(1) Das Bundesministerium für Digitales und Staatsmodernisierung wird
 ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates im
 Benehmen mit dem Bundesministerium für Wirtschaft und Energie passive
 Netzinfrastrukturen zu benennen, die von den in den §§ 79, 82, 136 und
 137 genannten Rechten und Pflichten ausgenommen sind. Die Ausnahmen
 sind hinreichend zu begründen. Sie dürfen nur darauf gestützt werden,
-dass der Schutz von Teilen Kritischer Infrastrukturen betroffen ist
-oder dass die passiven Netzinfrastrukturen für die Telekommunikation
-technisch ungeeignet sind. Soweit die Ausnahmen auf den Schutz von
-Teilen Kritischer Infrastrukturen gestützt werden, bedarf die
-Rechtsverordnung des Einvernehmens mit dem Bundesministerium des
-Innern, für Bau und Heimat.
+dass der Schutz von Teilen kritischer Anlagen betroffen ist oder dass
+die passiven Netzinfrastrukturen für die Telekommunikation technisch
+ungeeignet sind. Soweit die Ausnahmen auf den Schutz von Teilen
+kritischer Anlagen gestützt werden, bedarf die Rechtsverordnung des
+Einvernehmens mit dem Bundesministerium des Innern.
 
-(2) Das Bundesministerium für Verkehr und digitale Infrastruktur wird
+(2) Das Bundesministerium für Digitales und Staatsmodernisierung wird
 ermächtigt, durch Rechtsverordnung, die der Zustimmung des Bundesrates
 bedarf, über die in § 142 Absatz 4 vorgesehenen Ablehnungsgründe von
 den in § 142 festgelegten Rechten und Pflichten hinausgehende
@@ -8552,31 +8575,30 @@ der zentralen Informationsstelle des Bundes zu melden sind. Solche
 Kategorien dürfen nur Bauarbeiten enthalten, deren anfänglich geplante
 Dauer acht Wochen überschreitet. Die Rechtsverordnung ist hinreichend
 zu begründen und kann im Umfang oder Wert geringfügige Bauarbeiten
-oder Kritische Infrastrukturen ausnehmen. Soweit die Ausnahmen auf den
-Schutz von Teilen Kritischer Infrastrukturen gestützt werden, bedarf
-die Rechtsverordnung des Einvernehmens mit dem Bundesministerium des
-Innern, für Bau und Heimat.
+oder kritische Anlagen ausnehmen. Soweit die Ausnahmen auf den Schutz
+von Teilen kritischer Anlagen gestützt werden, bedarf die
+Rechtsverordnung des Einvernehmens mit dem Bundesministerium des
+Innern.
 
-(3) Das Bundesministerium für Verkehr und digitale Infrastruktur wird
+(3) Das Bundesministerium für Digitales und Staatsmodernisierung wird
 ermächtigt, durch Rechtsverordnung, die der Zustimmung des Bundesrates
 bedarf, Ausnahmen von den in § 143 festgelegten Rechten und Pflichten
 vorzusehen. Die Ausnahmen können auf dem geringen Umfang und Wert der
-Bauarbeiten oder auf dem Schutz von Teilen Kritischer Infrastrukturen
-beruhen. Soweit die Ausnahmen auf den Schutz von Teilen Kritischer
-Infrastrukturen gestützt werden, bedarf die Rechtsverordnung des
-Einvernehmens mit dem Bundesministerium des Innern, für Bau und
-Heimat.
+Bauarbeiten oder auf dem Schutz von Teilen kritischer Anlagen beruhen.
+Soweit die Ausnahmen auf den Schutz von Teilen kritischer Anlagen
+gestützt werden, bedarf die Rechtsverordnung des Einvernehmens mit dem
+Bundesministerium des Innern.
 
-(4) Das Bundesministerium für Verkehr und digitale Infrastruktur wird
+(4) Das Bundesministerium für Digitales und Staatsmodernisierung wird
 ermächtigt, im Einvernehmen mit dem Bundesministerium für Umwelt,
-Naturschutz und nukleare Sicherheit durch Rechtsverordnung, die der
-Zustimmung des Bundesrates bedarf, Ausnahmen von § 145 Absatz 4 und 5
-vorzusehen. Die Rechtsverordnung ist hinreichend zu begründen und kann
-bestimmte Gebäudekategorien und umfangreiche Renovierungen ausnehmen,
-falls die Erfüllung der Pflichten unverhältnismäßig wäre. Die
-Unverhältnismäßigkeit kann insbesondere auf den voraussichtlichen
-Kosten für einzelne Eigentümer oder auf der spezifischen Art des
-Gebäudes beruhen.
+Klimaschutz, Naturschutz und nukleare Sicherheit durch
+Rechtsverordnung, die der Zustimmung des Bundesrates bedarf, Ausnahmen
+von § 145 Absatz 4 und 5 vorzusehen. Die Rechtsverordnung ist
+hinreichend zu begründen und kann bestimmte Gebäudekategorien und
+umfangreiche Renovierungen ausnehmen, falls die Erfüllung der
+Pflichten unverhältnismäßig wäre. Die Unverhältnismäßigkeit kann
+insbesondere auf den voraussichtlichen Kosten für einzelne Eigentümer
+oder auf der spezifischen Art des Gebäudes beruhen.
 
 (5) Eigentümern und Betreibern öffentlicher Versorgungsnetze und
 interessierten Parteien ist die Gelegenheit zu geben, innerhalb eines
@@ -8651,11 +8673,10 @@ werden, soweit konkrete Anhaltspunkte dafür vorliegen, dass
 
 3.  eine Erteilung der Informationen die Integrität oder Sicherheit
     bereits bestehender sonstiger physischer Infrastrukturen, insbesondere
-    nationaler, nachweislich besonders schutzbedürftiger Kritischer
-    Infrastrukturen, gefährdet und der Betreiber die Mitnutzung im Rahmen
-    der ihm durch Gesetz oder aufgrund eines Gesetzes auferlegten
-    Schutzpflichten nicht durch verhältnismäßige Maßnahmen ermöglichen
-    kann,
+    nationaler, nachweislich besonders schutzbedürftiger kritischer
+    Anlagen, gefährdet und der Betreiber die Mitnutzung im Rahmen der ihm
+    durch Gesetz oder aufgrund eines Gesetzes auferlegten Schutzpflichten
+    nicht durch verhältnismäßige Maßnahmen ermöglichen kann,
 
 
 4.  ein Ablehnungsgrund für eine Mitnutzung nach § 154 Absatz 4 vorliegt.
@@ -8680,7 +8701,7 @@ Satz 2 erhaltenen Informationen unverzüglich zugänglich:
 1.  den Eigentümern oder Betreibern öffentlicher Telekommunikationsnetze,
 
 
-2.  dem Bundesministerium für Verkehr und digitale Infrastruktur sowie
+2.  dem Bundesministerium für Digitales und Staatsmodernisierung sowie
 
 
 3.  den Gebietskörperschaften der Länder und der Kommunen.
@@ -8691,7 +8712,7 @@ Die Zugänglichmachung erfolgt elektronisch unter verhältnismäßigen,
 diskriminierungsfreien und transparenten Bedingungen. Näheres regelt
 die zentrale Informationsstelle des Bundes in
 Einsichtnahmebedingungen, die der vorherigen Zustimmung des
-Bundesministeriums für Verkehr und digitale Infrastruktur bedürfen.
+Bundesministeriums für Digitales und Staatsmodernisierung bedürfen.
 Die Einsichtnahmebedingungen haben insbesondere der Sensitivität der
 erfassten Daten und dem zu erwartenden Verwaltungsaufwand Rechnung zu
 tragen.
@@ -8780,10 +8801,10 @@ werden, wenn einer der folgenden Gründe vorliegt:
 4.  konkrete Anhaltspunkte dafür, dass die beantragte Mitnutzung die
     Integrität oder Sicherheit bereits bestehender sonstiger physischer
     Infrastrukturen, insbesondere nationaler, nachweislich besonders
-    schutzbedürftiger Kritischer Infrastrukturen, gefährdet, und der
-    Betreiber die Mitnutzung im Rahmen der ihm durch Gesetz oder aufgrund
-    eines Gesetzes auferlegten Schutzpflichten nicht durch
-    verhältnismäßige Maßnahmen ermöglichen kann,
+    schutzbedürftiger kritischer Anlagen, gefährdet, und der Betreiber die
+    Mitnutzung im Rahmen der ihm durch Gesetz oder aufgrund eines Gesetzes
+    auferlegten Schutzpflichten nicht durch verhältnismäßige Maßnahmen
+    ermöglichen kann,
 
 
 5.  die Verfügbarkeit tragfähiger Alternativen zur beantragten Mitnutzung
@@ -8821,9 +8842,8 @@ innerhalb von zwei Monaten nach deren Abschluss der Bundesnetzagentur
 zur Kenntnis zu geben.
 
 (4) Die Bundesnetzagentur veröffentlicht im Einvernehmen mit dem
-Bundesministerium für Verkehr und digitale Infrastruktur und dem
-Bundesministerium für Wirtschaft und Energie Grundsätze zu Art, Umfang
-und Bedingungen des offenen Netzzugangs nach Absatz 1. Sie
+Bundesministerium für Digitales und Staatsmodernisierung Grundsätze zu
+Art, Umfang und Bedingungen des offenen Netzzugangs nach Absatz 1. Sie
 berücksichtigt dabei unionsrechtliche Vorschriften über staatliche
 Beihilfen im Zusammenhang mit dem schnellen Breitbandausbau in der
 jeweils gültigen Fassung.
@@ -8892,9 +8912,9 @@ wirtschaftliche Teilhabe im Sinne des Absatzes 3, einschließlich des
 hierfür notwendigen Anschlusses an ein öffentliches
 Telekommunikationsnetz an einem festen Standort.
 
-(3) In einer Rechtsverordnung des Bundesministeriums für Verkehr und
-digitale Infrastruktur, die des Einvernehmens mit dem Ausschuss für
-Verkehr und digitale Infrastruktur des Deutschen Bundestages bedarf,
+(3) In einer Rechtsverordnung des Bundesministeriums für Digitales und
+Staatsmodernisierung, die des Einvernehmens mit dem Ausschuss für
+Digitales und Staatsmodernisierung des Deutschen Bundestages bedarf,
 wird mit Zustimmung des Bundesrates festgelegt, welche Anforderungen
 ein Internetzugangsdienst sowie ein Sprachkommunikationsdienst nach
 Absatz 2 erfüllen müssen. Bei der Festlegung der Anforderungen an den
@@ -8904,37 +8924,37 @@ Mindestbandbreite, Uploadrate und Latenz sowie weitere nationale
 Gegebenheiten, wie die Auswirkungen der festgelegten Qualität auf
 Anreize zum privatwirtschaftlichen Breitbandausbau und zu
 Breitbandfördermaßnahmen, berücksichtigt. Der Internetzugangsdienst
-muss stets mindestens die in Anhang V der Richtlinie (EU)
-2018/1972              in der jeweils gültigen Fassung aufgeführten
-Dienste, Teleheimarbeit einschließlich Verschlüsselungsverfahren im
-üblichen Umfang und eine für Verbraucher marktübliche Nutzung von
-Online-Inhaltediensten ermöglichen. Die nach Satz 1 festzulegende
-Uploadrate und Latenz können niedriger, als die von 80 Prozent der
-Verbraucher im Bundesgebiet genutzten Werte sein, wenn tatsächlich
-nachgewiesen ist, dass die in Satz 3 genannten Dienste auch bei
-geringeren Vorgaben beim Endnutzer funktionieren. In einer
-Rechtsverordnung nach Satz 1 können kürzere als die in § 160 und § 161
-genannten Fristen festgelegt werden, wenn durch eine Digitalisierung
-der Verfahrensabläufe eine Beschleunigung erreicht werden konnte.
+muss stets mindestens die in Anhang V der Richtlinie (EU) 2018/1972 in
+der jeweils gültigen Fassung aufgeführten Dienste, Teleheimarbeit
+einschließlich Verschlüsselungsverfahren im üblichen Umfang und eine
+für Verbraucher marktübliche Nutzung von Online-Inhaltediensten
+ermöglichen. Die nach Satz 1 festzulegende Uploadrate und Latenz
+können niedriger, als die von 80 Prozent der Verbraucher im
+Bundesgebiet genutzten Werte sein, wenn tatsächlich nachgewiesen ist,
+dass die in Satz 3 genannten Dienste auch bei geringeren Vorgaben beim
+Endnutzer funktionieren. In einer Rechtsverordnung nach Satz 1 können
+kürzere als die in § 160 und § 161 genannten Fristen festgelegt
+werden, wenn durch eine Digitalisierung der Verfahrensabläufe eine
+Beschleunigung erreicht werden konnte.
 
 (4) Die Rechtsverordnung nach Absatz 3 ist innerhalb von sechs Monaten
 nach Inkrafttreten dieser Regelung zu erlassen. Das Bundesministerium
-für Verkehr und digitale Infrastruktur hat die festgelegten
+für Digitales und Staatsmodernisierung hat die festgelegten
 Anforderungen jährlich zu überprüfen. Über das Ergebnis unterrichtet
-es den Ausschuss für Verkehr und digitale Infrastruktur des Deutschen
+es den Ausschuss für Digitales und Staatsmodernisierung des Deutschen
 Bundestages.
 
-(5) Das Bundesministerium für Verkehr und digitale Infrastruktur kann
+(5) Das Bundesministerium für Digitales und Staatsmodernisierung kann
 die Ermächtigung nach Absatz 3 sowie die Pflichten nach Absatz 4 durch
 Rechtsverordnung auf die Bundesnetzagentur übertragen. Eine
 Rechtsverordnung der Bundesnetzagentur nach Satz 1 bedarf des
-Einvernehmens mit dem Bundesministerium für Verkehr und digitale
-Infrastruktur und mit dem Ausschuss für Verkehr und digitale
-Infrastruktur des Deutschen Bundestages und der Zustimmung des
-Bunderates. Das Ergebnis des Prüfberichts der Bundesnetzagentur nach
+Einvernehmens mit dem Bundesministerium für Digitales und
+Staatsmodernisierung und mit dem Ausschuss für Digitales und
+Staatsmodernisierung des Deutschen Bundestages und der Zustimmung des
+Bundesrates. Das Ergebnis des Prüfberichts der Bundesnetzagentur nach
 Absatz 4 bedarf des Einvernehmens mit dem Bundesministerium für
-Verkehr und digitale Infrastruktur und mit dem Ausschuss für Verkehr
-und digitale Infrastruktur des Deutschen Bundestages.
+Digitales und Staatsmodernisierung und mit dem Ausschuss für Digitales
+und Staatsmodernisierung des Deutschen Bundestages.
 
 
 ### § 158 Erschwinglichkeit der Telekommunikationsdienste
@@ -9279,11 +9299,10 @@ entstehenden Kosten trägt jeder Anbieter eines
 Telekommunikationsdienstes selbst; die Entgeltlichkeit von
 Vorleistungen bleibt unberührt.
 
-(5) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
-im Einvernehmen mit dem Bundesministerium des Innern, für Bau und
-Heimat, dem Bundesministerium für Verkehr und digitale Infrastruktur
-und dem Bundesministerium für Arbeit und Soziales durch
-Rechtsverordnung mit Zustimmung des Bundesrates Regelungen zu treffen
+(5) Das Bundesministerium für Digitales und Staatsmodernisierung wird
+ermächtigt, im Einvernehmen mit dem Bundesministerium des Innern und
+dem Bundesministerium für Arbeit und Soziales durch Rechtsverordnung
+mit Zustimmung des Bundesrates Regelungen zu treffen
 
 1.  zu den Grundsätzen der Festlegung von Einzugsgebieten von
     Notrufabfragestellen und deren Unterteilungen durch die für den Notruf
@@ -9347,8 +9366,8 @@ erstellt die Technische Richtlinie unter Beteiligung
     Telekommunikationsdiensten und Betreiber von Telekommunikationsnetzen,
 
 
-2.  der vom Bundesministerium des Innern, für Bau und Heimat benannten
-    Vertreter der Betreiber von Notrufabfragestellen und
+2.  der vom Bundesministerium des Innern benannten Vertreter der Betreiber
+    von Notrufabfragestellen und
 
 
 3.  der Hersteller der in den Telekommunikationsnetzen und
@@ -9411,11 +9430,9 @@ interpersoneller Telekommunikationsdienste
 
 
 
-(4) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
-im Einvernehmen mit dem Bundesministerium des Innern, für Bau und
-Heimat und dem Bundesministerium für Verkehr und digitale
-Infrastruktur durch Rechtsverordnung mit Zustimmung des Bundesrates
-Regelungen zu treffen
+(4) Das Bundesministerium für Digitales und Staatsmodernisierung wird
+ermächtigt, im Einvernehmen mit dem Bundesministerium des Innern durch
+Rechtsverordnung mit Zustimmung des Bundesrates Regelungen zu treffen
 
 1.  über die grundlegenden technischen Anforderungen für die Aussendung
     von Warnungen im öffentlichen Mobilfunknetz, einschließlich der zu
@@ -9533,12 +9550,104 @@ in Form von Verschlüsselung, zu treffen, um Telekommunikations- und
 Datenverarbeitungssysteme gegen unerlaubte Zugriffe zu sichern und
 Auswirkungen von Sicherheitsverletzungen für Nutzer, andere
 Telekommunikationsnetze und Dienste so gering wie möglich zu halten.
-Bei diesen Maßnahmen ist der Stand der Technik zu berücksichtigen.
+Bei diesen Maßnahmen ist unter Berücksichtigung des Stands der
+Technik, der einschlägigen europäischen und internationalen Normen
+sowie der Umsetzungskosten ein Sicherheitsniveau der Netz- und
+Informationssysteme zu gewährleisten, das dem bestehenden Risiko
+angemessen ist. Bei der Bewertung, ob Maßnahmen dem bestehenden Risiko
+angemessen sind, sind das Ausmaß der Risikoexposition und die Größe
+des Betreibers oder des Anbieters sowie die
+Eintrittswahrscheinlichkeit und Schwere von Sicherheitsvorfällen sowie
+ihre gesellschaftlichen und wirtschaftlichen Auswirkungen zu
+berücksichtigen.
+
+(2a) Maßnahmen nach Absatz 2 von Betreibern öffentlicher
+Telekommunikationsnetze und Anbietern öffentlich zugänglicher
+Telekommunikationsdienste, die besonders wichtige Einrichtungen im
+Sinne von § 28 Absatz 1 Satz 1 Nummer 3 des BSI-Gesetzes oder wichtige
+Einrichtungen im Sinne von § 28 Absatz 2 Satz 1 Nummer 2 des BSI-
+Gesetzes sind, müssen auf einem gefahrenübergreifenden Ansatz beruhen,
+der darauf abzielt, die Netz- und Informationssysteme und die
+physische Umwelt dieser Systeme vor Sicherheitsvorfällen zu schützen,
+und zumindest Folgendes umfassen:
+
+1.  Konzepte in Bezug auf die Risikoanalyse und Sicherheit für
+    Informationssysteme,
+
+
+2.  Bewältigung von Sicherheitsvorfällen,
+
+
+3.  Aufrechterhaltung des Betriebs, wie Backup-Management und
+    Wiederherstellung nach einem Notfall, und Krisenmanagement,
+
+
+4.  Sicherheit der Lieferkette einschließlich sicherheitsbezogener Aspekte
+    der Beziehungen zwischen den einzelnen Einrichtungen und ihren
+    unmittelbaren Anbietern oder Diensteanbietern,
+
+
+5.  Sicherheitsmaßnahmen bei Erwerb, Entwicklung und Wartung von Netz- und
+    Informationssystemen, einschließlich Management und Offenlegung von
+    Schwachstellen,
+
+
+6.  Konzepte und Verfahren zur Bewertung der Wirksamkeit von Maßnahmen
+    nach Absatz 2 im Bereich der Sicherheit von Netzen und Diensten,
+
+
+7.  Grundlegende Verfahren und Schulungen im Bereich der Sicherheit von
+    Netzen und Diensten,
+
+
+8.  Konzepte und Verfahren für den Einsatz von Kryptografie und
+    Verschlüsselung,
+
+
+9.  Sicherheit des Personals, Konzepte für die Zugriffskontrolle und
+    Management von Anlagen,
+
+
+10. Verwendung von Lösungen zur Multi-Faktor-Authentifizierung oder
+    kontinuierlichen Authentifizierung, gesicherte Sprach, Video- und
+    Textkommunikation sowie gegebenenfalls gesicherte
+    Notfallkommunikationssysteme innerhalb der Einrichtung.
+
+
+
+
+(2b) Die Geschäftsleitungen von Betreibern öffentlicher
+Telekommunikationsnetze und Anbietern öffentlich zugänglicher
+Telekommunikationsdienste, die besonders wichtige Einrichtungen im
+Sinne von § 28 Absatz 1 Satz 1 Nummer 3 des BSI-Gesetzes oder wichtige
+Einrichtungen im Sinne von § 28 Absatz 2 Satz 1 Nummer 2 des BSI-
+Gesetzes sind, sind verpflichtet, die von diesen Einrichtungen nach
+Absatz 2 zu ergreifenden Maßnahmen umzusetzen und ihre Umsetzung zu
+überwachen.
+
+(2c) Geschäftsleitungen, die ihre Pflichten nach Absatz 2b verletzen,
+haften ihrer Einrichtung für einen schuldhaft verursachten Schaden
+nach den auf die Rechtsform der Einrichtung anwendbaren Regeln des
+Gesellschaftsrechts. Nach diesem Gesetz haften sie nur, wenn die für
+die Einrichtung maßgeblichen gesellschaftsrechtlichen Bestimmungen
+keine Haftungsregelung nach Satz 1 enthalten.
+
+(2d) Die Geschäftsleitungen von Betreibern öffentlicher
+Telekommunikationsnetze und Anbietern öffentlich zugänglicher
+Telekommunikationsdienste, die besonders wichtige Einrichtungen im
+Sinne von § 28 Absatz 1 Satz 1 Nummer 3 des BSI-Gesetzes oder wichtige
+Einrichtungen im Sinne von § 28 Absatz 2 Satz 1 Nummer 2 des BSI-
+Gesetzes sind, müssen regelmäßig an Schulungen teilnehmen, um
+ausreichende Kenntnisse und Fähigkeiten zur Erkennung und Bewertung
+von Risiken sowie Risikomanagementpraktiken im Bereich der Sicherheit
+in der Informationstechnik zu erlangen sowie um die Auswirkungen von
+Risiken sowie Risikomanagementpraktiken auf die von der Einrichtung
+erbrachten Dienste beurteilen zu können.
 
 (3) Als eine angemessene Maßnahme im Sinne des Absatzes 2 können
 Betreiber öffentlicher Telekommunikationsnetze und Anbieter öffentlich
 zugänglicher Telekommunikationsdienste Systeme zur Angriffserkennung
-im Sinne des § 2 Absatz 9b des BSI-Gesetzes einsetzen. Betreiber
+im Sinne des § 2 Nummer 41 des BSI-Gesetzes einsetzen. Betreiber
 öffentlicher Telekommunikationsnetze und Anbieter öffentlich
 zugänglicher Telekommunikationsdienste mit erhöhtem
 Gefährdungspotenzial haben entsprechende Systeme zur Angriffserkennung
@@ -9550,7 +9659,7 @@ eingetretene Störungen geeignete Beseitigungsmaßnahmen vorsehen.
 Weitere Einzelheiten kann die Bundesnetzagentur im Katalog von
 Sicherheitsanforderungen nach § 167 festlegen.
 
-(4) Kritische Komponenten im Sinne von § 2 Absatz 13 des BSI-Gesetzes
+(4) Kritische Komponenten im Sinne von § 2 Nummer 23 des BSI-Gesetzes
 dürfen von einem Betreiber öffentlicher Telekommunikationsnetze mit
 erhöhtem Gefährdungspotenzial nur eingesetzt werden, wenn sie vor dem
 erstmaligen Einsatz von einer anerkannten Zertifizierungsstelle
@@ -9605,16 +9714,12 @@ Abhilfemaßnahmen unterrichtet die Bundesnetzagentur unverzüglich das
 Bundesamt für Sicherheit in der Informationstechnik.
 
 (11) Die Bundesnetzagentur kann zur Unterstützung ein Computer-
-Notfallteam gemäß Artikel 9 der Richtlinie (EU) 2016/1148 des
-Europäischen Parlaments und des Rates vom 6. Juli 2016 über Maßnahmen
-zur Gewährleistung eines hohen gemeinsamen Sicherheitsniveaus von
-Netz- und Informationssystemen in der Union (ABl. L 194 vom 19.7.2016,
-S. 1; L 33 vom 7.2.2018, S. 5) im Rahmen der zugewiesenen Aufgaben in
-Anspruch nehmen. Die Bundesnetzagentur kann ferner das Bundesamt für
-Sicherheit in der Informationstechnik, die zuständigen nationalen
-Strafverfolgungsbehörden und die Bundesbeauftragte oder den
-Bundesbeauftragten für den Datenschutz und die Informationsfreiheit
-konsultieren.
+Notfallteam gemäß Artikel 10 der Richtlinie (EU) 2022/2555 im Rahmen
+der zugewiesenen Aufgaben in Anspruch nehmen. Die Bundesnetzagentur
+kann ferner das Bundesamt für Sicherheit in der Informationstechnik,
+die zuständigen nationalen Strafverfolgungsbehörden und die
+Bundesbeauftragte oder den Bundesbeauftragten für den Datenschutz und
+die Informationsfreiheit konsultieren.
 
 
 #### § 166 Sicherheitsbeauftragter und Sicherheitskonzept
@@ -9693,10 +9798,10 @@ personenbezogener Daten fest:
     öffentlich zugänglichen Telekommunikationsdienste,
 
 
-2.  welche Funktionen kritische Funktionen im Sinne von § 2 Absatz 13 Satz
-    1 Nummer 3 Buchstabe b des BSI-Gesetzes sind, die von kritischen
-    Komponenten im Sinne von § 2 Absatz 13 des BSI-Gesetzes realisiert
-    werden, und
+2.  welche Funktionen kritische Funktionen im Sinne von § 2 Nummer 23
+    Buchstabe c Doppelbuchstabe bb des BSI-Gesetzes sind, die von
+    kritischen Komponenten im Sinne von § 2 Nummer 23 des BSI-Gesetzes
+    realisiert werden, und
 
 
 3.  wer als Betreiber öffentlicher Telekommunikationsnetze und als
@@ -9713,82 +9818,130 @@ Verbänden der Betreiber öffentlicher Telekommunikationsnetze und den
 Verbänden der Anbieter öffentlich zugänglicher
 Telekommunikationsdienste Gelegenheit zur Stellungnahme.
 
-(2) Die Verpflichteten haben die Vorgaben des Katalogs spätestens ein
+(2) Die Befugnis der Bundesnetzagentur nach Absatz 1 Nummer 2 besteht
+bis zum Erlass einer Rechtsverordnung nach § 56 Absatz 7 des BSI-
+Gesetzes für den Sektor Informationstechnik und Telekommunikation im
+Sinne des § 2 Nummer 24 fort. Eine von der Bundesnetzagentur auf der
+Grundlage von Absatz 1 Satz 1 Nummer 2 erlassene Allgemeinverfügung
+ist mit dem Inkrafttreten einer Rechtsverordnung nach § 56 Absatz 7
+des BSI-Gesetzes für den Sektor Informationstechnik und
+Telekommunikation aufzuheben.
+
+(3) Die Verpflichteten haben die Vorgaben des Katalogs spätestens ein
 Jahr nach dessen Inkrafttreten zu erfüllen, es sei denn, in dem
 Katalog ist eine davon abweichende Umsetzungsfrist festgelegt worden.
 
 
-#### § 168 Mitteilung eines Sicherheitsvorfalls
+#### § 168 Meldung eines Sicherheitsvorfalls
 
 (1) Wer ein öffentliches Telekommunikationsnetz betreibt oder
-öffentlich zugängliche Telekommunikationsdienste erbringt, hat der
-Bundesnetzagentur und dem Bundesamt für Sicherheit in der
-Informationstechnik einen Sicherheitsvorfall mit beträchtlichen
-Auswirkungen auf den Betrieb der Netze oder die Erbringung der Dienste
-unverzüglich mitzuteilen. § 42 Absatz 4 und § 43 Absatz 4 des
-Bundesdatenschutzgesetzes gelten entsprechend.
+öffentlich zugängliche Telekommunikationsdienste erbringt, macht an
+die Bundesnetzagentur und an das Bundesamt für Sicherheit in der
+Informationstechnik:
 
-(2) Das Ausmaß der Auswirkungen eines Sicherheitsvorfalls ist – sofern
-verfügbar – insbesondere anhand folgender Kriterien zu bewerten:
-
-1.  die Zahl der von dem Sicherheitsvorfall betroffenen Nutzer,
-
-
-2.  die Dauer des Sicherheitsvorfalls,
+1.  unverzüglich, spätestens jedoch innerhalb von 24 Stunden nach
+    Kenntniserlangung von einem erheblichen Sicherheitsvorfall, eine frühe
+    Erstmeldung, in der angegeben wird, ob der Verdacht besteht, dass der
+    erhebliche Sicherheitsvorfall auf rechtswidrige oder böswillige
+    Handlungen zurückzuführen ist oder grenzüberschreitende Auswirkungen
+    haben könnte;
 
 
-3.  die geographische Ausdehnung des von dem Sicherheitsvorfall
-    betroffenen Gebiets,
+2.  unverzüglich, spätestens jedoch innerhalb von 72 Stunden nach
+    Kenntniserlangung von einem erheblichen Sicherheitsvorfall, eine
+    Meldung über den Sicherheitsvorfall, in der die in Nummer 1 genannten
+    Informationen bestätigt oder aktualisiert werden und eine erste
+    Bewertung des erheblichen Sicherheitsvorfalls, einschließlich seines
+    Schweregrads und seiner Auswirkungen, sowie gegebenenfalls die
+    Kompromittierungsindikatoren angegeben werden;
 
 
-4.  das Ausmaß der Beeinträchtigung des Telekommunikationsnetzes oder des
-    Dienstes,
+3.  auf Ersuchen der Bundesnetzagentur oder dem Bundesamt für Sicherheit
+    in der Informationstechnik eine Zwischenmeldung über relevante
+    Statusaktualisierungen;
 
 
-5.  das Ausmaß der Auswirkungen auf wirtschaftliche und gesellschaftliche
-    Tätigkeiten.
+4.  spätestens einen Monat nach Übermittlung der Meldung des erheblichen
+    Sicherheitsvorfalls gemäß Nummer 2, vorbehaltlich Absatz 2, eine
+    Abschlussmeldung, die Folgendes enthält:
+
+    a)  eine ausführliche Beschreibung des erheblichen Sicherheitsvorfalls,
+        einschließlich seines Schwergrads und seiner Auswirkungen;
 
 
+    b)  Angaben zur Art der Bedrohung beziehungsweise zugrunde liegenden
+        Ursache, die wahrscheinlich den Sicherheitsvorfall ausgelöst hat;
 
 
-(3) Die Mitteilung nach Absatz 1 Satz 1 muss die folgenden Angaben
-enthalten:
-
-1.  Angaben zu dem Sicherheitsvorfall,
+    c)  Angaben zu den getroffenen und laufenden Abhilfemaßnahmen;
 
 
-2.  Angaben zu den Kriterien nach Absatz 2,
-
-
-3.  Angaben zu den betroffenen Systemen sowie
-
-
-4.  Angaben zu der vermuteten oder tatsächlichen Ursache.
-
+    d)  Gegebenenfalls die grenzüberschreitenden Auswirkungen des erheblichen
+        Sicherheitsvorfalls.
 
 
 
-(4) Die Bundesnetzagentur legt Einzelheiten des Mitteilungsverfahrens
-fest. Die Bundesnetzagentur kann einen detaillierten Bericht über den
+    § 42 Absatz 4 und § 43 Absatz 4 des Bundesdatenschutzgesetzes gelten
+    entsprechend.
+
+
+
+
+(2) Dauert der erhebliche Sicherheitsvorfall im Zeitpunkt des Absatz 1
+Satz 1 Nummer 4 noch an, legt der Betroffene statt einer
+Abschlussmeldung zu diesem Zeitpunkt eine Fortschrittsmeldung und eine
+Abschlussmeldung innerhalb eines Monats nach Abschluss der Bearbeitung
+des erheblichen Sicherheitsvorfalls vor.
+
+(3) Ein Sicherheitsvorfall gilt als erheblich, wenn
+
+1.  er schwerwiegende Betriebsstörungen oder finanzielle Verluste für den
+    betreffenden Betreiber öffentlicher Telekommunikationsnetze oder
+    Anbieter öffentlich zugänglicher Telekommunikationsdienste verursacht
+    hat oder verursachen kann, oder
+
+
+2.  er andere natürliche oder juristische Personen durch erhebliche
+    materielle oder immaterielle Schäden beeinträchtigt hat oder
+    beeinträchtigen kann.
+
+
+
+
+(4) Die Bundesnetzagentur legt Einzelheiten des Meldeverfahrens fest.
+Die Bundesnetzagentur kann einen detaillierten Bericht über den
 Sicherheitsvorfall und die ergriffenen Abhilfemaßnahmen verlangen.
 
-(5) Erforderlichenfalls unterrichtet die Bundesnetzagentur die
+(5) Die Bundesnetzagentur übermittelt den nach Absatz 1 Satz 1
+Verpflichteten unverzüglich und nach Möglichkeit innerhalb von 24
+Stunden nach der frühen Erstmeldung nach Absatz 1 Satz 1 Nummer 1 eine
+Bestätigung über den Eingang der Meldung. Das Bundesamt für Sicherheit
+in der Informationstechnik kann auf Ersuchen der nach Absatz 1 Satz 1
+Verpflichteten zusätzliche technische Unterstützung,
+Orientierungshilfen oder operative Beratung zu Abhilfemaßnahmen
+leisten. Das Bundesamt für Sicherheit in der Informationstechnik
+informiert die Bundesnetzagentur über Maßnahmen nach Satz 2.
+
+(6) Erforderlichenfalls unterrichtet die Bundesnetzagentur die
 nationalen Regulierungsbehörden der anderen Mitgliedstaaten der
 Europäischen Union und die Agentur der Europäischen Union für
-Cybersicherheit über den Sicherheitsvorfall. Die Bundesnetzagentur
-kann die Öffentlichkeit unterrichten oder die nach Absatz 1 Satz 1
-Verpflichteten zu dieser Unterrichtung verpflichten, wenn sie zu dem
-Schluss gelangt, dass die Bekanntgabe des Sicherheitsvorfalls im
-öffentlichen Interesse liegt.
+Cybersicherheit über den Sicherheitsvorfall. Ist eine Sensibilisierung
+der Öffentlichkeit erforderlich, um einen erheblichen
+Sicherheitsvorfall zu verhindern oder zu bewältigen, oder liegt die
+Offenlegung des erheblichen Sicherheitsvorfalls anderweitig im
+öffentlichen Interesse, so kann die Bundesnetzagentur nach Anhörung
+der nach Absatz 1 Satz 1 Verpflichteten die Öffentlichkeit
+unterrichten oder die nach Absatz 1 Satz 1 Verpflichteten zu dieser
+Unterrichtung verpflichten.
 
-(6) Im Falle einer besonderen und erheblichen Gefahr eines
+(7) Im Falle einer besonderen und erheblichen Gefahr eines
 Sicherheitsvorfalls informieren die nach Absatz 1 Satz 1
 Verpflichteten die von dieser Gefahr potenziell betroffenen Nutzer
 über alle möglichen Schutz- oder Abhilfemaßnahmen, die von den Nutzern
 ergriffen werden können sowie gegebenenfalls auch über die Gefahr
-selbst. § 8e des BSI-Gesetzes gilt entsprechend.
+selbst. § 42 des BSI-Gesetzes gilt entsprechend.
 
-(7) Die Bundesnetzagentur legt der Kommission, der Agentur der
+(8) Die Bundesnetzagentur legt der Kommission, der Agentur der
 Europäischen Union für Cybersicherheit und dem Bundesamt für
 Sicherheit in der Informationstechnik einmal pro Jahr einen
 zusammenfassenden Bericht über die eingegangenen Meldungen und die
@@ -10127,10 +10280,7 @@ Hersteller oder Vertreiber das Prüfergebnis schriftlich mitzuteilen.
 Die Prüfergebnisse werden von der Bundesnetzagentur bei dem Nachweis
 der Übereinstimmung der technischen Einrichtungen mit den
 anzuwendenden technischen Vorschriften beachtet, den der Verpflichtete
-nach Absatz 1 Nummer 4 zu erbringen hat. Die vom Bundesministerium für
-Wirtschaft und Energie vor Inkrafttreten dieser Vorschrift
-ausgesprochenen Zustimmungen zu den von Herstellern vorgestellten
-Rahmenkonzepten gelten als Mitteilungen im Sinne des Satzes 3.
+nach Absatz 1 Nummer 4 zu erbringen hat.
 
 (8) Wer nach Absatz 1 oder 2 in Verbindung mit der Rechtsverordnung
 nach Absatz 5 und der Technischen Richtlinie nach Absatz 6
@@ -10185,17 +10335,20 @@ aufgehoben wird, soweit hierfür internationale technische Standards
 zur Verfügung stehen, die in der Technischen Richtlinie nach Absatz 6
 beschrieben werden.
 
+(12) Die Regelungen des Absatzes 1 Nummer 3 Buchstabe b und des
+Absatzes 2 Nummer 2 Buchstabe c gelten nicht im Anwendungsbereich der
+Richtlinie (EU) 2023/1544 in der Fassung vom 12. Juli 2023.
+
 
 #### § 171 Mitwirkung bei technischen Ermittlungsmaßnahmen bei Mobilfunkendgeräten
 
 Jeder Betreiber eines öffentlichen Mobilfunknetzes hat den
 berechtigten Stellen nach § 100i Absatz 1 der Strafprozessordnung, §
-53 des Bundekriminalamtsgesetzes, § 9 Absatz 4 des
-Bundesverfassungsschutzgesetzes, auch in Verbindung mit § 5 des MAD-
-Gesetzes und § 5 des BND-Gesetzes, oder nach Landesrecht nach Maßgabe
-der Rechtsverordnung nach § 170 Absatz 5 und der Technischen
-Richtlinie nach § 170 Absatz 6 ohne dass dies dem Endnutzer bekannt
-wird,
+53 des Bundekriminalamtsgesetzes, § 12 Absatz 1 des MAD-Gesetzes, § 9
+Absatz 4 des Bundesverfassungsschutzgesetzes, auch in Verbindung mit §
+5 des BND-Gesetzes, oder nach Landesrecht nach Maßgabe der
+Rechtsverordnung nach § 170 Absatz 5 und der Technischen Richtlinie
+nach § 170 Absatz 6 ohne dass dies dem Endnutzer bekannt wird,
 
 1.  den Einsatz von technischen Mitteln der berechtigten Stellen in seinem
     Mobilfunknetz zu ermöglichen, die der Ermittlung folgender
@@ -10477,11 +10630,10 @@ Auskunftsverfahren vorgelegt werden:
 
 
 
-(5) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
-im Einvernehmen mit dem Bundeskanzleramt, dem Bundesministerium des
-Innern, für Bau und Heimat, dem Bundesministerium der Justiz und für
-Verbraucherschutz, dem Bundesministerium der Finanzen, dem
-Bundesministerium für Verkehr und digitale Infrastruktur sowie dem
+(5) Das Bundesministerium für Digitales und Staatsmodernisierung wird
+ermächtigt, im Einvernehmen mit dem Bundeskanzleramt, dem
+Bundesministerium des Innern, dem Bundesministerium der Justiz und für
+Verbraucherschutz, dem Bundesministerium der Finanzen sowie dem
 Bundesministerium der Verteidigung eine Rechtsverordnung mit
 Zustimmung des Bundesrates zu erlassen, in der Folgendes geregelt
 wird:
@@ -10859,12 +11011,8 @@ Zulässigkeit der Auskunft tragen die um Auskunft ersuchenden Stellen.
 
 
 6.  an den Militärischen Abschirmdienst, soweit dies aufgrund
-    tatsächlicher Anhaltspunkte im Einzelfall zur Aufklärung bestimmter
-    Bestrebungen oder Tätigkeiten nach § 1 Absatz 1 des MAD-Gesetzes oder
-    zur Sicherung der Einsatzbereitschaft der Truppe oder zum Schutz der
-    Angehörigen, der Dienststellen oder Einrichtungen des
-    Geschäftsbereichs des Bundesministeriums der Verteidigung nach § 14
-    Absatz 1 des MAD-Gesetzes erforderlich ist,
+    tatsächlicher Anhaltspunkte im Einzelfall zur Wahrnehmung der Aufgaben
+    nach § 2 Absatz 1, 4 oder 5 des MAD-Gesetzes erforderlich ist,
 
 
 7.  an den Bundesnachrichtendienst, soweit dies erforderlich ist
@@ -10889,18 +11037,18 @@ Zulässigkeit der Auskunft tragen die um Auskunft ersuchenden Stellen.
 
 
 8.  an das Bundesamt für Sicherheit in der Informationstechnik zum Schutz
-    der Versorgung der Bevölkerung in den Bereichen des § 2 Absatz 10 Satz
-    1 Nummer 1 des BSI-Gesetzes oder der öffentlichen Sicherheit, um damit
-    eine Beeinträchtigung der Sicherheit oder Funktionsfähigkeit
-    informationstechnischer Systeme einer Kritischen Infrastruktur oder
-    eines Unternehmens im besonderen öffentlichen Interesse abzuwenden,
-    wenn Tatsachen den Schluss auf ein wenigstens seiner Art nach
+    der Versorgung der Bevölkerung in den Sektoren des § 2 Nummer 4 des
+    KRITIS-Dachgesetzes oder der öffentlichen Sicherheit, um damit eine
+    Beeinträchtigung der Sicherheit oder Funktionsfähigkeit
+    informationstechnischer Systeme einer kritischen Anlage oder eines
+    Unternehmens im besonderen öffentlichen Interesse abzuwenden, wenn
+    Tatsachen den Schluss auf ein wenigstens seiner Art nach
     konkretisiertes und zeitlich absehbares Geschehen zulassen, das auf
     die informationstechnischen Systeme bestimmbarer Infrastrukturen oder
     Unternehmen abzielen wird, und die in die Auskunft aufzunehmenden
     Daten im Einzelfall erforderlich sind, um den Betreiber der
-    betroffenen Kritischen Infrastruktur oder das betroffene Unternehmen
-    im besonderen öffentlichen Interesse vor dieser Beeinträchtigung zu
+    betroffenen kritischen Anlage oder das betroffene Unternehmen im
+    besonderen öffentlichen Interesse vor dieser Beeinträchtigung zu
     warnen, über diese zu informieren oder bei deren Beseitigung zu
     beraten oder zu unterstützen.
 
@@ -11143,13 +11291,9 @@ Auskunft ersuchenden Stellen.
 
 
 
-6.  den Militärischen Abschirmdienst, soweit dies aufgrund tatsächlicher
-    Anhaltspunkte im Einzelfall zur Aufklärung bestimmter Bestrebungen
-    oder Tätigkeiten nach § 1 Absatz 1 des MAD-Gesetzes oder zur Sicherung
-    der Einsatzbereitschaft der Truppe oder zum Schutz der Angehörigen,
-    der Dienststellen und Einrichtungen des Geschäftsbereichs des
-    Bundesministeriums der Verteidigung nach § 14 Absatz 1 des MAD-
-    Gesetzes erforderlich ist,
+6.  an den Militärischen Abschirmdienst, soweit dies aufgrund
+    tatsächlicher Anhaltspunkte im Einzelfall zur Wahrnehmung der Aufgaben
+    nach § 2 Absatz 1, 4 oder 5 des MAD-Gesetzes erforderlich ist,
 
 
 7.  den Bundesnachrichtendienst, soweit dies erforderlich ist
@@ -11174,18 +11318,18 @@ Auskunft ersuchenden Stellen.
 
 
 8.  an das Bundesamt für Sicherheit in der Informationstechnik zum Schutz
-    der Versorgung der Bevölkerung in den Bereichen des § 2 Absatz 10 Satz
-    1 Nummer 1 des BSI-Gesetzes oder der öffentlichen Sicherheit, um damit
-    eine Beeinträchtigung der Sicherheit oder Funktionsfähigkeit
-    informationstechnischer Systeme einer Kritischen Infrastruktur oder
-    eines Unternehmens im besonderen öffentlichen Interesse abzuwenden,
-    wenn Tatsachen den Schluss auf ein wenigstens seiner Art nach
+    der Versorgung der Bevölkerung in den Sektoren des § 2 Nummer 4 des
+    KRITIS-Dachgesetzes oder der öffentlichen Sicherheit, um damit eine
+    Beeinträchtigung der Sicherheit oder Funktionsfähigkeit
+    informationstechnischer Systeme einer kritischen Anlage oder eines
+    Unternehmens im besonderen öffentlichen Interesse abzuwenden, wenn
+    Tatsachen den Schluss auf ein wenigstens seiner Art nach
     konkretisiertes und zeitlich absehbares Geschehen zulassen, das auf
     die informationstechnischen Systeme bestimmbarer Infrastrukturen oder
     Unternehmen abzielen wird, und die in die Auskunft aufzunehmenden
     Daten im Einzelfall erforderlich sind, um den Betreiber der
-    betroffenen Kritischen Infrastruktur oder das betroffene Unternehmen
-    im besonderen öffentlichen Interesse vor dieser Beeinträchtigung zu
+    betroffenen kritischen Anlage oder das betroffene Unternehmen im
+    besonderen öffentlichen Interesse vor dieser Beeinträchtigung zu
     warnen, über diese zu informieren oder bei deren Beseitigung zu
     beraten oder zu unterstützen.
 
@@ -11315,7 +11459,7 @@ Satz 1 gilt entsprechend
 2.  für unbeantwortete oder wegen eines Eingriffs des Netzwerkmanagements
     erfolglose Anrufe, soweit der Anbieter öffentlich zugänglicher
     Sprachkommunikationsdienste die in Satz 1 genannten Verkehrsdaten für
-    die in § 9 des Telekommunikation-Telemedien-Datenschutz-Gesetzes
+    die in § 9 des Telekommunikation-Digitale-Dienste-Datenschutz-Gesetzes
     genannten Zwecke speichert oder protokolliert.
 
 
@@ -11353,13 +11497,13 @@ Funkantennen ergeben.
 Internetseiten und Daten von Diensten der elektronischen Post dürfen
 aufgrund dieser Vorschrift nicht gespeichert werden.
 
-(6) Daten, die den in § 11 Absatz 5 des Telekommunikation-Telemedien-
-Datenschutz-Gesetzes genannten Verbindungen zugrunde liegen, dürfen
-aufgrund dieser Vorschrift nicht gespeichert werden. Dies gilt
+(6) Daten, die den in § 11 Absatz 5 des Telekommunikation-Digitale-
+Dienste-Datenschutz-Gesetzes genannten Verbindungen zugrunde liegen,
+dürfen aufgrund dieser Vorschrift nicht gespeichert werden. Dies gilt
 entsprechend für Telefonverbindungen, die von den in § 11 Absatz 5 des
-Telekommunikation-Telemedien-Datenschutz-Gesetzes genannten Stellen
-ausgehen. § 11 Absatz 6 des Telekommunikation-Telemedien-Datenschutz-
-Gesetzes gilt entsprechend.
+Telekommunikation-Digitale-Dienste-Datenschutz-Gesetzes genannten
+Stellen ausgehen. § 11 Absatz 6 des Telekommunikation-Digitale-
+Dienste-Datenschutz-Gesetzes gilt entsprechend.
 
 (7) Die Speicherung der Daten hat so zu erfolgen, dass
 Auskunftsersuchen der berechtigten Stellen unverzüglich beantwortet
@@ -11519,9 +11663,9 @@ jeweils zwei Jahren schriftlich zu erklären.
 #### § 182 Auskunftsersuchen des Bundesnachrichtendienstes
 
 (1) Betreiber öffentlicher Telekommunikationsnetze haben dem
-Bundesministerium für Wirtschaft und Energie auf Anfrage entgeltfrei
-Auskünfte über die Strukturen der Telekommunikationsnetze sowie
-bevorstehende Änderungen zu erteilen. Einzelne
+Bundesministerium für Digitales und Staatsmodernisierung auf Anfrage
+entgeltfrei Auskünfte über die Strukturen der Telekommunikationsnetze
+sowie bevorstehende Änderungen zu erteilen. Einzelne
 Telekommunikationsvorgänge und Bestandsdaten von Endnutzern dürfen
 nicht Gegenstand einer Auskunft nach dieser Vorschrift sein.
 
@@ -11761,10 +11905,10 @@ bleibt unberührt.
 #### § 188 Mitwirkungspflichten und Entschädigung
 
 (1) Die nach diesem Abschnitt Verpflichteten haben auf Anordnung des
-Bundesministeriums für Wirtschaft und Energie in den Fällen des § 184
-sowie im Rahmen von Vorsorgeplanungen und Übungen in Arbeitsstäben im
-Inland mitzuwirken sowie das hierfür erforderliche Fachpersonal
-abzustellen.
+Bundesministeriums für Digitales und Staatsmodernisierung in den
+Fällen des § 184 sowie im Rahmen von Vorsorgeplanungen und Übungen in
+Arbeitsstäben im Inland mitzuwirken sowie das hierfür erforderliche
+Fachpersonal abzustellen.
 
 (2) Für Personal, das aufgrund einer Anordnung nach Absatz 1
 abgestellt wurde, wird ab Beginn des Einsatzes je Person und
@@ -11849,12 +11993,13 @@ nichts Abweichendes bestimmt ist.
 
 #### § 193 Veröffentlichung von Weisungen
 
-Weisungen, die das Bundesministerium für Wirtschaft und Energie oder
-das Bundesministerium für Verkehr und digitale Infrastruktur erteilen,
-sind im Bundesanzeiger zu veröffentlichen. Dies gilt nicht für
-Aufgaben, die von diesen Bundesministerien aufgrund dieses Gesetzes
-oder anderer Gesetze in eigener Zuständigkeit wahrzunehmen sind und
-mit deren Erfüllung sie die Bundesnetzagentur beauftragt haben.
+Weisungen, die das Bundesministerium für Digitales und
+Staatsmodernisierung oder das Bundesministerium für Wirtschaft und
+Energie erteilen, sind im Bundesanzeiger zu veröffentlichen. Dies gilt
+nicht für Aufgaben, die von diesen Bundesministerien aufgrund dieses
+Gesetzes oder anderer Gesetze in eigener Zuständigkeit wahrzunehmen
+sind und mit deren Erfüllung sie die Bundesnetzagentur beauftragt
+haben.
 
 
 #### § 194 Aufgaben und Rechte des Beirates
@@ -11995,7 +12140,7 @@ können.
 zusammen. Auf Anfrage übermittelt sie den Landesmedienanstalten
 Erkenntnisse, die für die Erfüllung von deren Aufgaben erforderlich
 sind. Im Falle einer Betroffenheit von Belangen von Rundfunk und
-vergleichbaren Telemedien nach § 2 Absatz 7 Satz 1, wird die
+vergleichbaren digitalen Diensten nach § 2 Absatz 7 Satz 1, wird die
 zuständige Landesmedienanstalt hierüber informiert und an
 eingeleiteten Verfahren beteiligt. Auf Antrag der zuständigen
 Landesmedienanstalt prüft die Bundesnetzagentur auf der Grundlage
@@ -12004,9 +12149,9 @@ Maßnahmen nach diesem Gesetz.
 
 (7) Bei der Wahrnehmung ihrer Aufgaben und Befugnisse nach Artikel 5
 der Verordnung (EU) 2015/2120 arbeitet die Bundesnetzagentur, soweit
-Belange des Rundfunks und vergleichbarer Telemedien nach § 2 Absatz 7
-Satz 1 betroffen sind, mit der nach dem jeweiligen Landesrecht
-zuständigen Stelle zusammen.
+Belange des Rundfunks und vergleichbarer digitaler Dienste nach § 2
+Absatz 7 Satz 1 betroffen sind, mit der nach dem jeweiligen
+Landesrecht zuständigen Stelle zusammen.
 
 
 #### § 198 Zusammenarbeit mit anderen Behörden auf der Ebene der Europäischen Union
@@ -12023,7 +12168,7 @@ bestimmter Situationen auf dem Markt am besten geeignet sind.
 bessere regulatorische Koordinierung und mehr Kohärenz.
 
 (3) Die Bundesnetzagentur arbeitet gemeinsam und im Einvernehmen mit
-dem Bundesministerium für Verkehr und digitale Infrastruktur in der
+dem Bundesministerium für Digitales und Staatsmodernisierung in der
 Gruppe für Frequenzpolitik mit.
 
 (4) Die Bundesnetzagentur trägt bei der Wahrnehmung ihrer Aufgaben
@@ -12300,12 +12445,11 @@ zur Erfüllung der Aufgaben nach § 78 Absatz 1 Nummer 2 in Verbindung
 mit § 80 und nach § 78 Absatz 1 Nummer 3 in Verbindung mit § 81
 erforderlich sind.
 
-(5) Die Bundesnetzagentur stellt dem Bundesministerium für Wirtschaft
-und Energie und dem Bundesministerium für Verkehr und digitale
-Infrastruktur Daten zum tatsächlichen, standortbezogenen Ausbau der
-Mobilfunknetze nach Absatz 1 Satz 2 Nummer 3 in Verbindung mit § 52
-Absatz 7 Satz 2, insbesondere Daten zu lokalen Schwerpunkten für
-Verbindungsabbrüche bei der Sprachtelefonie, einschließlich
+(5) Die Bundesnetzagentur stellt dem Bundesministerium für Digitales
+und Staatsmodernisierung Daten zum tatsächlichen, standortbezogenen
+Ausbau der Mobilfunknetze nach Absatz 1 Satz 2 Nummer 3 in Verbindung
+mit § 52 Absatz 7 Satz 2, insbesondere Daten zu lokalen Schwerpunkten
+für Verbindungsabbrüche bei der Sprachtelefonie, einschließlich
 unternehmensbezogener Daten und der Betriebs- und
 Geschäftsgeheimnisse, in einem weiterverarbeitungsfähigen Format zur
 Verfügung, soweit dies zur Erfüllung ihrer jeweiligen gesetzlichen
@@ -12557,17 +12701,17 @@ Verwaltungsverfahrensgesetzes gilt entsprechend.
 Fällen des Teils 2, des § 91 Absatz 9 sowie der §§ 100 und 101. Absatz
 4 Satz 1 bleibt unberührt. Die Entscheidung ergeht durch
 Verwaltungsakt. Die Beschlusskammern werden mit Ausnahme der Absätze 2
-und 4 nach Bestimmung des Bundesministeriums für Wirtschaft und
-Energie im Benehmen mit dem Bundesministerium für Verkehr und digitale
-Infrastruktur gebildet.
+und 4 nach Bestimmung des Bundesministeriums für Digitales und
+Staatsmodernisierung im Einvernehmen mit dem Bundesministerium für
+Wirtschaft und Energie gebildet.
 
 (2) Die Bundesnetzagentur entscheidet durch Beschlusskammern als
 nationale Streitbeilegungsstelle in den Fällen von § 72, § 128 Absatz
 4, § 134 Absatz 5 und § 149. Die Entscheidung ergeht durch
 Verwaltungsakt. Nationale Streitbeilegungsstellen werden nach
-Bestimmung des Bundesministeriums für Verkehr und digitale
-Infrastruktur im Benehmen mit dem Bundesministerium für Wirtschaft und
-Energie gebildet.
+Bestimmung des Bundesministeriums für Digitales und
+Staatsmodernisierung im Einvernehmen mit dem Bundesministerium für
+Wirtschaft und Energie gebildet.
 
 (3) Die Beschlusskammern entscheiden in der Besetzung mit einem
 Vorsitzenden oder einer Vorsitzenden und zwei beisitzenden
@@ -12717,8 +12861,8 @@ beteiligt:
 (3) Sind bei Streitigkeiten über das Vorliegen eines Ablehnungsgrundes
 nach § 136 Absatz 4 Nummer 3, § 137 Absatz 3 Nummer 3, § 141 Absatz 2
 Nummer 4, § 142 Absatz 4 Nummer 4, § 143 Absatz 4 Nummer 1, § 153
-Absatz 4 Nummer 3 oder § 154 Absatz 4 Satz 2 Nummer 4 Kritische
-Infrastrukturen im Sinne des § 2 Absatz 10 des BSI-Gesetzes betroffen,
+Absatz 4 Nummer 3 oder § 154 Absatz 4 Satz 2 Nummer 4 kritische
+Anlagen im Sinne des § 2 Nummer 4 des KRITIS-Dachgesetzes betroffen,
 so entscheidet die Bundesnetzagentur im Benehmen mit dem Bundesamt für
 Sicherheit in der Informationstechnik.
 
@@ -12911,20 +13055,20 @@ Präsidentin.
 Telekommunikationspolitik, insbesondere bei der Mitarbeit in
 europäischen und internationalen Institutionen und Organisationen,
 wird die Bundesnetzagentur im Auftrag des Bundesministeriums für
-Wirtschaft und Energie oder des Bundesministeriums für Verkehr und
-digitale Infrastruktur tätig. Dies gilt nicht für Aufgaben, die die
+Digitales und Staatsmodernisierung oder des Bundesministeriums für
+Wirtschaft und Energie tätig. Dies gilt nicht für Aufgaben, die die
 Bundesnetzagentur aufgrund dieses Gesetzes oder anderer Gesetze sowie
 aufgrund von Verordnungen der Europäischen Union in eigener
 Zuständigkeit wahrnimmt.
 
 (2) Die Bundesnetzagentur unterrichtet das Bundesministerium für
-Wirtschaft und Energie oder das Bundesministerium für Verkehr und
-digitale Infrastruktur vorab über die wesentlichen Inhalte geplanter
+Digitales und Staatsmodernisierung oder das Bundesministerium für
+Wirtschaft und Energie vorab über die wesentlichen Inhalte geplanter
 Sitzungen in europäischen und internationalen Gremien. Sie fasst die
 wesentlichen Ergebnisse und Schlussfolgerungen der Sitzungen zusammen
 und übermittelt sie unverzüglich an das Bundesministerium für
-Wirtschaft und Energie oder das Bundesministerium für Verkehr und
-digitale Infrastruktur. Bei Aufgaben, die die Bundesnetzagentur nach
+Digitales und Staatsmodernisierung oder das Bundesministerium für
+Wirtschaft und Energie. Bei Aufgaben, die die Bundesnetzagentur nach
 Absatz 1 Satz 2 in eigener Zuständigkeit wahrnimmt, finden die Sätze 1
 und 2 keine Anwendung, soweit zwingende Vorschriften die vertrauliche
 Behandlung von Informationen fordern.
@@ -12960,20 +13104,20 @@ eine effizientere Frequenznutzung bewirkt wird. Es werden keine
 Gebühren erhoben, wenn Frequenzen im Wege eines Verfahrens nach § 100
 Absatz 5 und 6 vergeben werden.
 
-(2) Das Bundesministerium für Wirtschaft und Energie bestimmt im
-Einvernehmen mit dem Bundesministerium für Verkehr und digitale
-Infrastruktur und dem Bundesministerium der Finanzen die Gebühren nach
+(2) Das Bundesministerium für Digitales und Staatsmodernisierung
+bestimmt im Einvernehmen mit dem Bundesministerium für Wirtschaft und
+Energie und dem Bundesministerium der Finanzen die Gebühren nach
 Absatz 1 Satz 1 sowie die mit einer Frequenzzuteilung im
 Sachzusammenhang stehenden Gebühren durch eine Besondere
 Gebührenverordnung nach § 22 Absatz 4 des Bundesgebührengesetzes. Das
-Bundesministerium für Wirtschaft und Energie kann die Ermächtigung
-durch Rechtsverordnung im Einvernehmen mit dem Bundesministerium der
-Finanzen und dem Bundesministerium für Verkehr und digitale
-Infrastruktur auf die Bundesnetzagentur übertragen. Eine
+Bundesministerium für Digitales und Staatsmodernisierung kann die
+Ermächtigung durch Rechtsverordnung im Einvernehmen mit dem
+Bundesministerium der Finanzen und dem Bundesministerium für
+Wirtschaft und Energie auf die Bundesnetzagentur übertragen. Eine
 Rechtsverordnung nach Satz 2, ihre Änderung und ihre Aufhebung
-bedürfen des Einvernehmens mit dem Bundesministerium für Wirtschaft
-und Energie, dem Bundesministerium der Finanzen und dem
-Bundesministerium für Verkehr und digitale Infrastruktur.
+bedürfen des Einvernehmens mit dem Bundesministerium für Digitales und
+Staatsmodernisierung, dem Bundesministerium der Finanzen und dem
+Bundesministerium für Wirtschaft und Energie.
 
 (3) Die Gebühren für Entscheidungen über die Zuteilung von Nummern
 können in einer Besonderen Gebührenverordnung nach § 22 Absatz 4 des
@@ -13028,9 +13172,9 @@ Rechtsverordnungen erhoben werden:
 
 
 2.  Gebühren nach den Besonderen Gebührenverordnungen des
-    Bundesministeriums für Wirtschaft und Energie im Einvernehmen mit dem
-    Bundesministerium für Verkehr und digitale Infrastruktur nach § 22
-    Absatz 4 des Bundesgebührengesetzes,
+    Bundesministeriums für Digitales und Staatsmodernisierung im
+    Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie nach
+    § 22 Absatz 4 des Bundesgebührengesetzes,
 
 
 3.  Beiträge nach § 31 des Elektromagnetische-Verträglichkeit-Gesetzes
@@ -13042,9 +13186,9 @@ Rechtsverordnungen erhoben werden:
 
 
 
-(4) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
-im Einvernehmen mit dem Bundesministerium der Finanzen und dem
-Bundesministerium für Verkehr und digitale Infrastruktur durch
+(4) Das Bundesministerium für Digitales und Staatsmodernisierung wird
+ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen und
+dem Bundesministerium für Wirtschaft und Energie durch
 Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf,
 nach Maßgabe der vorstehenden Absätze das Nähere festzulegen über
 
@@ -13063,13 +13207,13 @@ nach Maßgabe der vorstehenden Absätze das Nähere festzulegen über
 
 Der auf das Allgemeininteresse entfallende Kostenanteil ist
 beitragsmindernd zu berücksichtigen. Das Bundesministerium für
-Wirtschaft und Energie kann die Ermächtigung nach Satz 1 durch
-Rechtsverordnung unter Sicherstellung der Einvernehmensregelung auf
-die Bundesnetzagentur übertragen. Eine Rechtsverordnung der
+Digitales und Staatsmodernisierung kann die Ermächtigung nach Satz 1
+durch Rechtsverordnung unter Sicherstellung der Einvernehmensregelung
+auf die Bundesnetzagentur übertragen. Eine Rechtsverordnung der
 Bundesnetzagentur, ihre Änderung und ihre Aufhebung bedürfen des
-Einvernehmens mit dem Bundesministerium für Wirtschaft und Energie,
-dem Bundesministerium der Finanzen und dem Bundesministerium für
-Verkehr und digitale Infrastruktur.
+Einvernehmens mit dem Bundesministerium für Digitales und
+Staatsmodernisierung, dem Bundesministerium der Finanzen und dem
+Bundesministerium für Wirtschaft und Energie.
 
 
 ### § 225 Kosten von außergerichtlichen Streitbeilegungsverfahren
@@ -13325,8 +13469,8 @@ zuwiderhandelt.
 
 39. entgegen § 168 Absatz 1 Satz 1, § 170 Absatz 1 Nummer 3 Buchstabe a,
     Absatz 2 Nummer 2 oder Absatz 3 Satz 1 oder § 175 Absatz 1 Satz 2
-    Nummer 2 eine Mitteilung nicht, nicht richtig, nicht vollständig oder
-    nicht rechtzeitig macht,
+    Nummer 2 eine Meldung oder Mitteilung nicht, nicht richtig, nicht
+    vollständig oder nicht rechtzeitig macht,
 
 
 40. entgegen § 169 Absatz 1 Satz 1 oder 2 oder Absatz 5 Satz 1 eine
@@ -13802,4 +13946,11 @@ Vorschriften anwendbar.
 geltenden Fassung sind erstmals auf Jahresfinanzberichte sowie
 Tätigkeitsabschlüsse für das nach dem 31. Dezember 2020 beginnende
 Geschäftsjahr anzuwenden.
+
+(16) § 174 Absatz 3 Nummer 8 und Absatz 5 Nummer 8 sowie § 214 Absatz
+3 sind erst anzuwenden, wenn eine auf der Grundlage von § 4 Absatz 3
+und § 5 Absatz 1 des KRITIS-Dachgesetzes erlassene Rechtsverordnung
+gilt. Bis zur Geltung dieser Rechtsverordnung sind § 174 Absatz 3
+Nummer 8 und Absatz 5 Nummer 8 sowie § 214 Absatz 3 in der bis
+einschließlich 16. März 2026 geltenden Fassung weiter anzuwenden.
 

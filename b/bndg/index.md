@@ -16,9 +16,8 @@ Fundstelle
 :   BGBl I: 1990, 2954, 2979
 
 Zuletzt geändert durch
-:   Art. 1 G v. 22.12.2023 I Nr. 410
+:   Art. 2 G v. 2.12.2025 I Nr. 301
 
-Stand: Das G ist gem. Art. 6 Abs. 1 G v. 20.12.1990 I 2954 am 30.12.1990 in Kraft getreten
 
 ## Abschnitt 1 - Organisation, Aufgaben und allgemeine Befugnisse
 
@@ -155,9 +154,10 @@ geschäftsmäßig
     Telekommunikationsgesetzes,
 
 
-2.  Telemediendienste erbringt oder daran mitwirkt, über Bestandsdaten
-    nach § 2 Absatz 2 Nummer 2 des Telekommunikation-Telemedien-
-    Datenschutz-Gesetzes.
+2.  digitale Dienste nach § 1 Absatz 4 Nummer 1 des Digitale-Dienste-
+    Gesetzes erbringt oder daran mitwirkt, über Bestandsdaten nach § 2
+    Absatz 2 Nummer 2 des Telekommunikation-Digitale-Dienste-Datenschutz-
+    Gesetzes.
 
 
 
@@ -1708,26 +1708,28 @@ Bundesrepublik Deutschland stehen.
 (6) Soweit dies zur Durchführung strategischer Aufklärungsmaßnahmen
 nach Absatz 1 erforderlich ist, darf sich der Bundesnachrichtendienst
 mit technischen Mitteln Zugang zu informationstechnischen Systemen
-eines ausländischen Telekommunikations- oder
-Telemediendiensteanbieters im Ausland auch ohne dessen Wissen
-verschaffen und personenbezogene Daten, die dieser anlässlich der
-Erbringung seines Dienstes verarbeitet, aus der laufenden
-Kommunikation erheben. Dabei darf der Bundesnachrichtendienst auch
-personenbezogene Daten erheben, die der ausländische
-Telekommunikations- oder Telemediendiensteanbieter während seiner
-Verarbeitung der laufenden Kommunikation in seinen
-informationstechnischen Systemen speichert, sofern diese innerhalb des
-Anordnungszeitraums der strategischen Aufklärungsmaßnahme nach Absatz
-1 erhoben werden und vor ihrer Erhebung durch den
-Bundesnachrichtendienst nicht älter als 48 Stunden sind. Verschafft
-sich der Bundesnachrichtendienst nach Satz 1 Zugang zu einem
-informationstechnischen System eines ausländischen Telekommunikations-
-oder Telemediendiensteanbieters im Ausland, darf er auch Bestandsdaten
-des ausländischen Telekommunikations- oder Telemediendiensteanbieters
-verarbeiten, die dieser anlässlich der Erbringung seines Dienstes
-verarbeitet, soweit diese anhand von Suchbegriffen erhoben werden oder
-sich auf die Gegenstelle der anhand des Suchbegriffs erhobenen Daten
-beziehen.
+eines ausländischen Anbieters von Telekommunikationsdiensten oder von
+digitalen Diensten nach § 1 Absatz 4 Nummer 1 des Digitale-Dienste-
+Gesetzes im Ausland auch ohne dessen Wissen verschaffen und
+personenbezogene Daten, die dieser anlässlich der Erbringung seines
+Dienstes verarbeitet, aus der laufenden Kommunikation erheben. Dabei
+darf der Bundesnachrichtendienst auch personenbezogene Daten erheben,
+die der ausländische Anbieter von Telekommunikationsdiensten oder von
+digitalen Diensten nach § 1 Absatz 4 Nummer 1 des Digitale-Dienste-
+Gesetzes während seiner Verarbeitung der laufenden Kommunikation in
+seinen informationstechnischen Systemen speichert, sofern diese
+innerhalb des Anordnungszeitraums der strategischen
+Aufklärungsmaßnahme nach Absatz 1 erhoben werden und vor ihrer
+Erhebung durch den Bundesnachrichtendienst nicht älter als 48 Stunden
+sind. Verschafft sich der Bundesnachrichtendienst nach Satz 1 Zugang
+zu einem informationstechnischen System eines ausländischen Anbieters
+von Telekommunikationsdiensten oder von digitalen Diensten nach § 1
+Absatz 4 Nummer 1 des Digitale-Dienste-Gesetzes im Ausland, darf er
+auch Bestandsdaten des ausländischen Telekommunikations- oder
+Telemediendiensteanbieters verarbeiten, die dieser anlässlich der
+Erbringung seines Dienstes verarbeitet, soweit diese anhand von
+Suchbegriffen erhoben werden oder sich auf die Gegenstelle der anhand
+des Suchbegriffs erhobenen Daten beziehen.
 
 (7) Eine Erhebung von personenbezogenen Daten der folgenden Personen
 aus Telekommunikationsverkehren ist unzulässig:
@@ -2045,8 +2047,8 @@ vorgenannten Dienste oder Mitwirkungshandlungen in Deutschland
 erbringt, gilt § 25 entsprechend.
 
 (5) Die im Rahmen einer Eignungsprüfung erhobenen personenbezogenen
-Daten dürfen nur zum Zweck der Eignungsprüfung verwendet werden. § 5
-Absatz 7 Satz 2 bis 8 des BSI-Gesetzes gilt entsprechend. Der
+Daten dürfen nur zum Zweck der Eignungsprüfung verwendet werden. § 8
+Absatz 8 Satz 2 bis 8 des BSI-Gesetzes gilt entsprechend. Der
 Bundesnachrichtendienst darf die erhobenen personenbezogenen Daten
 speichern, soweit dies zur Durchführung der Eignungsprüfung
 erforderlich ist. Die Auswertung ist unverzüglich nach der Erhebung

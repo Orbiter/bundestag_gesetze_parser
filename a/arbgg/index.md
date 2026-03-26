@@ -19,7 +19,19 @@ Neugefasst durch
 :   Bek. v. 2.7.1979 I 853, 1036;
 
 Zuletzt geändert durch
-:   Art. 17 G v. 8.10.2023 I Nr. 272
+:   Art. 27 G v. 8.12.2025 I Nr. 319
+
+Mittelbare änderung durch
+:   Art. 37 G v. 8.12.2025 I Nr. 319 ist berücksichtigt
+
+Mittelbare änderung durch
+:   Art. 38 G v. 8.12.2025 I Nr. 319 ist berücksichtigt
+
+Änderung durch
+:   Art. 11 G v. 22.12.2025 I Nr. 349 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 12 G v. 22.12.2025 I Nr. 349 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Mittelbare änderung durch
 :   Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war
@@ -397,12 +409,28 @@ Bundesarbeitsgericht nach Maßgabe des § 92 statt.
 und Vollstreckungsbeamte, über die Aufrechterhaltung der Ordnung in
 der Sitzung, über die Gerichtssprache, über die Wahrnehmung
 richterlicher Geschäfte durch Referendare und über Beratung und
-Abstimmung gelten in allen Rechtszügen entsprechend. Die Vorschriften
-des Siebzehnten Titels des Gerichtsverfassungsgesetzes sind mit der
-Maßgabe entsprechend anzuwenden, dass an die Stelle des
-Oberlandesgerichts das Landesarbeitsgericht, an die Stelle des
-Bundesgerichtshofs das Bundesarbeitsgericht und an die Stelle der
-Zivilprozessordnung das Arbeitsgerichtsgesetz tritt.
+Abstimmung gelten in allen Rechtszügen entsprechend. Abweichend von
+Satz 1 findet
+
+1.  § 185 Absatz 1a des Gerichtsverfassungsgesetzes mit der Maßgabe
+    Anwendung, dass das Gericht dem Dolmetscher die Teilnahme an der
+    Verhandlung, Anhörung oder Vernehmung per Bild- und Tonübertragung
+    gestatten kann;
+
+
+2.  § 193 Absatz 1 des Gerichtsverfassungsgesetzes keine Anwendung für die
+    erstmalige gemeinsame Beratung und Abstimmung mit den ehrenamtlichen
+    Richterinnen und Richtern bei einer Entscheidung aufgrund mündlicher
+    Verhandlung.
+
+
+
+Die Vorschriften des Siebzehnten Titels des
+Gerichtsverfassungsgesetzes sind mit der Maßgabe entsprechend
+anzuwenden, dass an die Stelle des Oberlandesgerichts das
+Landesarbeitsgericht, an die Stelle des Bundesgerichtshofs das
+Bundesarbeitsgericht und an die Stelle der Zivilprozessordnung das
+Arbeitsgerichtsgesetz tritt.
 
 (3) Die Vorschriften über die Wahrnehmung der Geschäfte bei den
 ordentlichen Gerichten durch Rechtspfleger gelten in allen Rechtszügen
@@ -550,8 +578,11 @@ widerrufen oder berichtigt wird.
 (1) Die Vorschriften der Zivilprozessordnung über die
 Prozesskostenhilfe und über die grenzüberschreitende
 Prozesskostenhilfe innerhalb der Europäischen Union nach der
-Richtlinie 2003/8/EG gelten in Verfahren vor den Gerichten für
-Arbeitssachen entsprechend.
+Richtlinie 2003/8/EG mit Ausnahme des § 118 Absatz 1 Satz 6 der
+Zivilprozessordnung gelten in Verfahren vor den Gerichten für
+Arbeitssachen entsprechend. Im Bewilligungsverfahren gilt für den
+Erörterungstermin nach § 118 Absatz 1 Satz 3 der Zivilprozessordnung §
+50a dieses Gesetzes entsprechend.
 
 (2) Das Bundesministerium für Arbeit und Soziales wird ermächtigt, zur
 Vereinfachung und Vereinheitlichung des Verfahrens durch
@@ -613,7 +644,14 @@ entsprechende Anwendung.
 Die Vorschriften des Buches 11 der Zivilprozessordnung über die
 justizielle Zusammenarbeit in der Europäischen Union finden in
 Verfahren vor den Gerichten für Arbeitssachen Anwendung, soweit dieses
-Gesetz nichts anderes bestimmt.
+Gesetz nichts anderes bestimmt. § 1100 Absatz 1 der
+Zivilprozessordnung ist mit der Maßgabe anzuwenden, dass anstelle von
+§ 128a Absatz 6 der Zivilprozessordnung § 50a Absatz 3 dieses Gesetzes
+anwendbar ist. § 1101 Absatz 2 findet mit der Maßgabe Anwendung, dass
+anstelle von § 284 Absatz 2 Satz 3 der Zivilprozessordnung in
+Verbindung mit § 128a Absatz 6 und § 284 Absatz 3 der
+Zivilprozessordnung § 58 Absatz 4 Satz 3 in Verbindung mit § 50a
+Absatz 3 dieses Gesetzes anwendbar ist.
 
 
 ## Zweiter Teil - Aufbau der Gerichte für Arbeitssachen
@@ -1225,15 +1263,25 @@ Vorschriften der Zivilprozeßordnung über das Verfahren vor den
 Amtsgerichten entsprechend, soweit dieses Gesetz nichts anderes
 bestimmt. Die Vorschriften über den frühen ersten Termin zur
 mündlichen Verhandlung und das schriftliche Vorverfahren (§§ 275 bis
-277 der Zivilprozeßordnung), über das vereinfachte Verfahren (§ 495a
-der Zivilprozeßordnung), über den Urkunden- und Wechselprozeß (§§ 592
-bis 605a der Zivilprozeßordnung), über die Entscheidung ohne mündliche
-Verhandlung (§ 128 Abs. 2 der Zivilprozeßordnung) und über die
+277 der Zivilprozessordnung), über das vereinfachte Verfahren (§ 495a
+der Zivilprozessordnung), über den Urkunden- und Wechselprozess (§§
+592 bis 605a der Zivilprozessordnung), über die Entscheidung ohne
+mündliche Verhandlung (§ 128 Absatz 2 der Zivilprozessordnung), über
+die Förderung von Videoverhandlungen bei Terminsänderungsanträgen (§
+227 Absatz 1 Satz 3 und Absatz 4 der Zivilprozessordnung), über die
 Verlegung von Terminen in der Zeit vom 1. Juli bis 31. August (§ 227
-Abs. 3 Satz 1 der Zivilprozeßordnung) finden keine Anwendung. § 127
-Abs. 2 der Zivilprozessordnung findet mit der Maßgabe Anwendung, dass
-die sofortige Beschwerde bei Bestandsschutzstreitigkeiten unabhängig
-von dem Streitwert zulässig ist.
+Absatz 3 Satz 1 der Zivilprozessordnung) und die Äußerung über
+Bedenken gegen eine Videoverhandlung in der Klageschrift und der
+Klageerwiderung (§ 253 Absatz 3 Nummer 4 und § 277 Absatz 1 Satz 2
+Nummer 2 der Zivilprozessordnung) finden keine Anwendung. § 127 Abs. 2
+der Zivilprozessordnung findet mit der Maßgabe Anwendung, dass die
+sofortige Beschwerde bei Bestandsschutzstreitigkeiten unabhängig von
+dem Streitwert zulässig ist. Abweichend von § 160 Absatz 1 Nummer 4
+der Zivilprozessordnung enthält das Protokoll die Namen der
+erschienenen Parteien, Nebenintervenienten, Vertreter,
+Bevollmächtigten, Beistände, Zeugen und Sachverständigen sowie im Fall
+der §§ 50a und 58 Absatz 4 die Angabe, wer an der Verhandlung oder der
+Beweisaufnahme per Bild- und Tonübertragung teilnimmt.
 
 
 ##### § 46a Mahnverfahren
@@ -1242,7 +1290,9 @@ von dem Streitwert zulässig ist.
 die Vorschriften der Zivilprozeßordnung über das Mahnverfahren
 einschließlich der maschinellen Bearbeitung entsprechend, soweit
 dieses Gesetz nichts anderes bestimmt. § 702 Absatz 2 Satz 2 der
-Zivilprozessordnung ist nicht anzuwenden.
+Zivilprozessordnung ist nicht anzuwenden. § 689 Absatz 1 Satz 4 der
+Zivilprozessordnung gilt mit der Maßgabe, dass die Akten elektronisch
+geführt werden können.
 
 (2) Zuständig für die Durchführung des Mahnverfahrens ist das
 Arbeitsgericht, das für die im Urteilsverfahren erhobene Klage
@@ -1326,63 +1376,65 @@ gestellt.
 
 (1) Vorbereitende Schriftsätze und deren Anlagen, schriftlich
 einzureichende Anträge und Erklärungen der Parteien sowie schriftlich
-einzureichende Auskünfte, Aussagen, Gutachten, Übersetzungen und
-Erklärungen Dritter können nach Maßgabe der folgenden Absätze als
+einzureichende Auskünfte, Aussagen, Gutachten, Übersetzungen, Anträge
+und Erklärungen Dritter können nach Maßgabe der folgenden Absätze als
 elektronische Dokumente bei Gericht eingereicht werden.
 
 (2) Das elektronische Dokument muss für die Bearbeitung durch das
 Gericht geeignet sein. Die Bundesregierung bestimmt durch
 Rechtsverordnung mit Zustimmung des Bundesrates technische
 Rahmenbedingungen für die Übermittlung und die Eignung zur Bearbeitung
-durch das Gericht.
+durch das Gericht sowie das Nähere zur Verarbeitung von Daten der
+Postfachinhaber nach Absatz 4 Satz 1 Nummer 3 und 4 in einem sicheren
+elektronischen Verzeichnis.
 
 (3) Das elektronische Dokument muss mit einer qualifizierten
 elektronischen Signatur der verantwortenden Person versehen sein oder
 von der verantwortenden Person signiert und auf einem sicheren
 Übermittlungsweg eingereicht werden. Satz 1 gilt nicht für Anlagen,
-die vorbereitenden Schriftsätzen beigefügt sind.
+die vorbereitenden Schriftsätzen beigefügt sind. Soll ein schriftlich
+einzureichender Antrag oder eine schriftlich einzureichende Erklärung
+einer Partei oder eines Dritten als elektronisches Dokument
+eingereicht werden, so kann der unterschriebene Antrag oder die
+unterschriebene Erklärung in ein elektronisches Dokument übertragen
+und durch den Bevollmächtigten, den Vertreter oder den Beistand nach
+Satz 1 übermittelt werden.
 
 (4) Sichere Übermittlungswege sind
 
-1.  der Postfach- und Versanddienst eines De-Mail-Kontos, wenn der
-    Absender bei Versand der Nachricht sicher im Sinne des § 4 Absatz 1
-    Satz 2 des De-Mail-Gesetzes angemeldet ist und er sich die sichere
-    Anmeldung gemäß § 5 Absatz 5 des De-Mail-Gesetzes bestätigen lässt,
-
-
-2.  der Übermittlungsweg zwischen den besonderen elektronischen
+1.  der Übermittlungsweg zwischen den besonderen elektronischen
     Anwaltspostfächern nach den §§ 31a und 31b der
     Bundesrechtsanwaltsordnung oder einem entsprechenden, auf gesetzlicher
     Grundlage errichteten elektronischen Postfach und der elektronischen
     Poststelle des Gerichts,
 
 
-3.  der Übermittlungsweg zwischen einem nach Durchführung eines
+2.  der Übermittlungsweg zwischen einem nach Durchführung eines
     Identifizierungsverfahrens eingerichteten Postfach einer Behörde oder
     einer juristischen Person des öffentlichen Rechts und der
     elektronischen Poststelle des Gerichts,
 
 
-4.  der Übermittlungsweg zwischen einem nach Durchführung eines
+3.  der Übermittlungsweg zwischen einem nach Durchführung eines
     Identifizierungsverfahrens eingerichteten elektronischen Postfach
     einer natürlichen oder juristischen Person oder einer sonstigen
     Vereinigung und der elektronischen Poststelle des Gerichts,
 
 
-5.  der Übermittlungsweg zwischen einem nach Durchführung eines
+4.  der Übermittlungsweg zwischen einem nach Durchführung eines
     Identifizierungsverfahrens genutzten Postfach- und Versanddienst eines
     Nutzerkontos im Sinne des § 2 Absatz 5 des Onlinezugangsgesetzes und
     der elektronischen Poststelle des Gerichts,
 
 
-6.  sonstige bundeseinheitliche Übermittlungswege, die durch
+5.  sonstige bundeseinheitliche Übermittlungswege, die durch
     Rechtsverordnung der Bundesregierung mit Zustimmung des Bundesrates
     festgelegt werden, bei denen die Authentizität und Integrität der
     Daten sowie die Barrierefreiheit gewährleistet sind.
 
 
 
-Das Nähere zu den Übermittlungswegen gemäß Satz 1 Nummer 3 bis 5
+Das Nähere zu den Übermittlungswegen gemäß Satz 1 Nummer 2 bis 4
 regelt die Rechtsverordnung nach Absatz 2 Satz 2.
 
 (5) Ein elektronisches Dokument ist eingegangen, sobald es auf der für
@@ -1414,33 +1466,16 @@ das handschriftlich unterzeichnete Schriftstück gemäß § 46e Absatz 2
 
 ##### § 46e Elektronische Akte; Verordnungsermächtigung
 
-(1) Die Prozessakten können elektronisch geführt werden. Die
-Bundesregierung und die Landesregierungen bestimmen für ihren Bereich
-durch Rechtsverordnung den Zeitpunkt, von dem an elektronische Akten
-geführt werden sowie die hierfür geltenden organisatorisch-technischen
-Rahmenbedingungen für die Bildung, Führung und Aufbewahrung der
-elektronischen Akten. Die Landesregierungen können die Ermächtigung
-durch Rechtsverordnung auf die jeweils zuständige oberste
-Landesbehörde übertragen. Die Zulassung der elektronischen Akte kann
-auf einzelne Gerichte oder Verfahren beschränkt werden; wird von
-dieser Möglichkeit Gebrauch gemacht, kann in der Rechtsverordnung
-bestimmt werden, dass durch Verwaltungsvorschrift, die öffentlich
-bekanntzumachen ist, geregelt wird, in welchen Verfahren die Akten
-elektronisch zu führen sind.
-
-(1a) Die Prozessakten werden ab dem 1. Januar 2026 elektronisch
-geführt. Die Bundesregierung und die Landesregierungen bestimmen
-jeweils für ihren Bereich durch Rechtsverordnung die organisatorischen
-und dem Stand der Technik entsprechenden technischen Rahmenbedingungen
-für die Bildung, Führung und Aufbewahrung der elektronischen Akten
-einschließlich der einzuhaltenden Anforderungen der Barrierefreiheit.
-Die Bundesregierung und die Landesregierungen können jeweils für ihren
-Bereich durch Rechtsverordnung bestimmen, dass Akten, die in
-Papierform angelegt wurden, in Papierform weitergeführt werden. Die
-Landesregierungen können die Ermächtigungen nach den Sätzen 2 und 3
-durch Rechtsverordnung auf die für die Arbeitsgerichtsbarkeit
-zuständigen obersten Landesbehörden übertragen. Die Rechtsverordnungen
-der Bundesregierung bedürfen nicht der Zustimmung des Bundesrates.
+(1) Die Prozessakten werden elektronisch geführt. Die Bundesregierung
+und die Landesregierungen bestimmen jeweils für ihren Bereich durch
+Rechtsverordnung die organisatorischen und dem Stand der Technik
+entsprechenden technischen Rahmenbedingungen für die Bildung, Führung
+und Aufbewahrung der elektronischen Akten einschließlich der
+einzuhaltenden Anforderungen der Barrierefreiheit. Die
+Landesregierungen können die Ermächtigung nach Satz 2 durch
+Rechtsverordnung auf die für die Arbeitsgerichtsbarkeit zuständigen
+obersten Landesbehörden übertragen. Die Rechtsverordnung der
+Bundesregierung bedarf nicht der Zustimmung des Bundesrates.
 
 (2) Werden die Prozessakten elektronisch geführt, sind in Papierform
 vorliegende Schriftstücke und sonstige Unterlagen nach dem Stand der
@@ -1457,6 +1492,16 @@ Signatur des Urkundsbeamten der Geschäftsstelle zu versehen. Die in
 Papierform vorliegenden Schriftstücke und sonstigen Unterlagen können
 sechs Monate nach der Übertragung vernichtet werden, sofern sie nicht
 rückgabepflichtig sind.
+
+(3) Akten, die in Papierform angelegt wurden, können in Papierform
+weitergeführt werden. Sie können ab einem bestimmten Stichtag oder
+Ereignis in elektronischer Form weitergeführt werden. Der Beginn der
+Weiterführung der Akten in elektronischer Form ist aktenkundig zu
+machen.
+
+(4) Die Bundesregierung kann durch Rechtsverordnung mit Zustimmung des
+Bundesrates die für die Übermittlung elektronischer Akten zwischen
+Behörden und Gerichten geltenden Standards bestimmen.
 
 
 ##### § 46f Formulare; Verordnungsermächtigung
@@ -1475,7 +1520,7 @@ Personalausweisgesetzes, § 12 des eID-Karte-Gesetzes oder § 78 Absatz
 5 des Aufenthaltsgesetzes erfolgen kann.
 
 
-##### § 46g Nutzungspflicht für Rechtsanwälte, Behörden und vertretungsberechtigte Personen
+##### § 46g Nutzungspflicht für Rechtsanwälte, Behörden und vertretungsberechtigte Bevollmächtigte
 
 Vorbereitende Schriftsätze und deren Anlagen sowie schriftlich
 einzureichende Anträge und Erklärungen, die durch einen Rechtsanwalt,
@@ -1483,13 +1528,27 @@ durch eine Behörde oder durch eine juristische Person des öffentlichen
 Rechts einschließlich der von ihr zur Erfüllung ihrer öffentlichen
 Aufgaben gebildeten Zusammenschlüsse eingereicht werden, sind als
 elektronisches Dokument zu übermitteln. Gleiches gilt für die nach
-diesem Gesetz vertretungsberechtigten Personen, für die ein sicherer
-Übermittlungsweg nach § 46c Absatz 4 Satz 1 Nummer 2 zur Verfügung
-steht. Ist eine Übermittlung aus technischen Gründen vorübergehend
+diesem Gesetz vertretungsberechtigten Personen und Bevollmächtigten,
+für die ein sicherer Übermittlungsweg nach § 46c Absatz 4 Satz 1
+Nummer 1 oder 3 zur Verfügung steht; ausgenommen sind nach § 11 Absatz
+2 Satz 2 Nummer 1 Halbsatz 1 oder Nummer 2 vertretungsbefugte
+Personen. Ist eine Übermittlung aus technischen Gründen vorübergehend
 nicht möglich, bleibt die Übermittlung nach den allgemeinen
 Vorschriften zulässig. Die vorübergehende Unmöglichkeit ist bei der
 Ersatzeinreichung oder unverzüglich danach glaubhaft zu machen; auf
 Anforderung ist ein elektronisches Dokument nachzureichen.
+
+
+##### § 46h Formfiktion
+
+Ist eine empfangsbedürftige Willenserklärung, die der schriftlichen
+oder elektronischen Form bedarf, klar erkennbar in einem
+vorbereitenden Schriftsatz enthalten, der als elektronisches Dokument
+nach § 46c bei Gericht eingereicht und dem Empfänger zugestellt oder
+mitgeteilt wurde, so gilt die Willenserklärung als in schriftlicher
+oder elektronischer Form zugegangen. Dies gilt auch dann, wenn die
+Ersetzung der schriftlichen Form durch die elektronische Form
+ausgeschlossen ist.
 
 
 ##### § 47 Sondervorschriften über Ladung und Einlassung \*)
@@ -1579,12 +1638,40 @@ entsprechend anzuwenden.
 (3) (weggefallen)
 
 
+##### § 50a Videoverhandlung
+
+(1) Die mündliche Verhandlung kann in geeigneten Fällen und soweit
+ausreichende Kapazitäten zur Verfügung stehen als Videoverhandlung
+stattfinden. Eine mündliche Verhandlung findet als Videoverhandlung
+statt, wenn an ihr mindestens ein Verfahrensbeteiligter per Bild- und
+Tonübertragung teilnimmt. Verfahrensbeteiligte nach dieser Vorschrift
+sind die Parteien und Nebenintervenienten sowie ihre Bevollmächtigten,
+Vertreter und Beistände.
+
+(2) Der Vorsitzende kann unter den Voraussetzungen des Absatzes 1 Satz
+1 auf Antrag eines Verfahrensbeteiligten oder von Amts wegen die
+Teilnahme per Bild- und Tonübertragung für einen
+Verfahrensbeteiligten, mehrere oder alle Verfahrensbeteiligte
+gestatten. Die Ablehnung eines Antrags auf Teilnahme per Bild- und
+Tonübertragung ist kurz zu begründen.
+
+(3) Den Verfahrensbeteiligten und Dritten ist es untersagt, die
+Videoverhandlung aufzuzeichnen. Hierauf sind sie zu Beginn der
+Verhandlung hinzuweisen. Die Videoverhandlung kann für die Zwecke des
+§ 160a der Zivilprozessordnung ganz oder teilweise aufgezeichnet
+werden. Über Beginn und Ende der Aufzeichnung sind die
+Verfahrensbeteiligten zu informieren.
+
+(4) Entscheidungen nach dieser Vorschrift sind unanfechtbar.
+
+
 ##### § 51 Persönliches Erscheinen der Parteien
 
 (1) Der Vorsitzende kann das persönliche Erscheinen der Parteien in
-jeder Lage des Rechtsstreits anordnen. Im übrigen finden die
-Vorschriften des § 141 Abs. 2 und 3 der Zivilprozeßordnung
-entsprechende Anwendung.
+jeder Lage des Rechtsstreits anordnen. Als persönliches Erscheinen
+gilt auch die nach § 50a Absatz 2 Satz 1 gestattete Teilnahme per
+Bild- und Tonübertragung. Im übrigen finden die Vorschriften des § 141
+Abs. 2 und 3 der Zivilprozeßordnung entsprechende Anwendung.
 
 (2) Der Vorsitzende kann die Zulassung eines Prozeßbevollmächtigten
 ablehnen, wenn die Partei trotz Anordnung ihres persönlichen
@@ -1633,7 +1720,7 @@ Umstände zu erörtern. Zur Aufklärung des Sachverhalts kann er alle
 Handlungen vornehmen, die sofort erfolgen können. Eidliche
 Vernehmungen sind jedoch ausgeschlossen. Der Vorsitzende kann die
 Güteverhandlung mit Zustimmung der Parteien in einem weiteren Termin,
-der alsbald stattzufinden hat, fortsetzen.
+der alsbald stattzufinden hat, fortsetzen. § 50a ist anzuwenden.
 
 (2) Die Klage kann bis zum Stellen der Anträge ohne Einwilligung des
 Beklagten zurückgenommen werden. In der Güteverhandlung erklärte
@@ -1827,6 +1914,23 @@ stehenden Mitglieder oder das Vertretensein einer Gewerkschaft in
 einem Betrieb kann Beweis auch durch die Vorlegung öffentlicher
 Urkunden angetreten werden.
 
+(4) Der Vorsitzende kann auf Antrag oder von Amts wegen die
+Beweisaufnahmeper Bild- und Tonübertragung gestatten. Das
+Antragsrechtsteht den Verfahrensbeteiligten, Zeugen und
+Sachverständigen zu. § 50a Absatz 1, 3 und 4 gilt entsprechend. Satz 1
+gilt nichtfür den Beweis durch Urkunden.
+
+(5) § 375 Absatz 1 Nummer 2 und 3 der Zivilprozessordnung ist
+entsprechend anzuwenden für den Fall, dass eine Zeugenvernehmung nach
+§ 58 Absatz 4 nicht stattfindet. § 479 Absatz 1 der
+Zivilprozessordnung ist entsprechend anzuwenden für den Fall, dass die
+Leistung des Eides nach § 58 Absatz 4 nicht stattfindet. § 411 Absatz
+3 der Zivilprozessordnung ist mit der Maßgabe anzuwenden, dass das
+Erscheinen des Sachverständigen auch als Teilnahme per Bild- und
+Tonübertragung nach § 50a gestattet werden kann. § 492 Absatz 3 der
+Zivilprozessordnung ist mit der Maßgabe anzuwenden, dass für den
+Erörterungstermin § 50a entsprechend gilt.
+
 
 ##### § 59 Versäumnisverfahren
 
@@ -1848,7 +1952,9 @@ insbesondere weil die Beratung nicht mehr am Tag der Verhandlung
 stattfinden kann. Der Verkündungstermin wird nur dann über drei Wochen
 hinaus angesetzt, wenn wichtige Gründe, insbesondere der Umfang oder
 die Schwierigkeit der Sache, dies erfordern. Dies gilt auch dann, wenn
-ein Urteil nach Lage der Akten erlassen wird.
+ein Urteil nach Lage der Akten erlassen wird. Der Vorsitzende kann den
+Verfahrensbeteiligten gestatten, an der Urteilsverkündung per Bild-
+und Tonübertragung teilzunehmen.
 
 (2) Bei Verkündung des Urteils ist der wesentliche Inhalt der
 Entscheidungsgründe mitzuteilen. Dies gilt nicht, wenn beide Parteien
@@ -2061,17 +2167,17 @@ dieses Gesetz nichts anderes bestimmt, die Vorschriften der
 Zivilprozeßordnung über die Berufung entsprechend. Die Vorschriften
 über das Verfahren vor dem Einzelrichter finden keine Anwendung.
 
-(7) Die Vorschriften der §§ 46c bis 46g, 49 Abs. 1 und 3, des § 50,
-des § 51 Abs. 1, der §§ 52, 53, 55 Abs. 1 Nr. 1 bis 9, Abs. 2 und 4,
+(7) Die Vorschriften der §§ 46c bis 46g, 49 Abs. 1 und 3, der §§ 50
+bis 51 Absatz 1, der §§ 52, 53, 55 Abs. 1 Nr. 1 bis 9, Abs. 2 und 4,
 des § 54 Absatz 6, des § 54a, der §§ 56 bis 59, 61 Abs. 2 und 3 und
 der §§ 62 und 63 über den elektronischen Rechtsverkehr, Ablehnung von
-Gerichtspersonen, Zustellungen, persönliches Erscheinen der Parteien,
-Öffentlichkeit, Befugnisse des Vorsitzenden und der ehrenamtlichen
-Richter, Güterichter, Mediation und außergerichtliche
-Konfliktbeilegung, Vorbereitung der streitigen Verhandlung,
-Verhandlung vor der Kammer, Beweisaufnahme, Versäumnisverfahren,
-Inhalt des Urteils, Zwangsvollstreckung und Übersendung von Urteilen
-in Tarifvertragssachen gelten entsprechend.
+Gerichtspersonen, Zustellungen, Videoverhandlung, persönliches
+Erscheinen der Parteien, Öffentlichkeit, Befugnisse des Vorsitzenden
+und der ehrenamtlichen Richter, Güterichter, Mediation und
+außergerichtliche Konfliktbeilegung, Vorbereitung der streitigen
+Verhandlung, Verhandlung vor der Kammer, Beweisaufnahme,
+Versäumnisverfahren, Inhalt des Urteils, Zwangsvollstreckung und
+Übersendung von Urteilen in Tarifvertragssachen gelten entsprechend.
 
 (8) Berufungen in Rechtsstreitigkeiten über das Bestehen, das
 Nichtbestehen oder die Kündigung eines Arbeitsverhältnisses sind
@@ -2229,18 +2335,19 @@ wird, ist die Revision nicht zulässig.
 
 (5) Für das Verfahren vor dem Bundesarbeitsgericht gelten, soweit
 dieses Gesetz nichts anderes bestimmt, die Vorschriften der
-Zivilprozeßordnung über die Revision mit Ausnahme des § 566
-entsprechend.
+Zivilprozeßordnung über die Revision mit Ausnahme der §§ 552b, 565 und
+566 entsprechend.
 
-(6) Die Vorschriften der §§ 46c bis 46g, 49 Abs. 1, der §§ 50, 52 und
-53, des § 57 Abs. 2, des § 61 Abs. 2 und des § 63 dieses Gesetzes über
-den elektronischen Rechtsverkehr, Ablehnung von Gerichtspersonen,
-Zustellung, Öffentlichkeit, Befugnisse des Vorsitzenden und der
-ehrenamtlichen Richter, gütliche Erledigung des Rechtsstreits sowie
-Inhalt des Urteils und Übersendung von Urteilen in Tarifvertragssachen
-und des § 169 Absatz 3 und 4 des Gerichtsverfassungsgesetzes über die
-Ton- und Fernseh-Rundfunkaufnahmen sowie Ton- und Filmaufnahmen bei
-der Entscheidungsverkündung gelten entsprechend.
+(6) Die Vorschriften der §§ 46c bis 46g, 49 Abs. 1, der §§ 50, 50a, 52
+und 53, des § 57 Abs. 2, des § 61 Abs. 2 und des § 63 dieses Gesetzes
+über den elektronischen Rechtsverkehr, Ablehnung von Gerichtspersonen,
+Zustellung, Videoverhandlung, Öffentlichkeit, Befugnisse des
+Vorsitzenden und der ehrenamtlichen Richter, gütliche Erledigung des
+Rechtsstreits sowie Inhalt des Urteils und Übersendung von Urteilen in
+Tarifvertragssachen und des § 169 Absatz 3 und 4 des
+Gerichtsverfassungsgesetzes über die Ton- und Fernseh-
+Rundfunkaufnahmen sowie Ton- und Filmaufnahmen bei der
+Entscheidungsverkündung gelten entsprechend.
 
 
 ##### § 72a Nichtzulassungsbeschwerde
@@ -2488,7 +2595,7 @@ Kenntnis von der Verletzung des rechtlichen Gehörs zu erheben; der
 Zeitpunkt der Kenntniserlangung ist glaubhaft zu machen. Nach Ablauf
 eines Jahres seit Bekanntgabe der angegriffenen Entscheidung kann die
 Rüge nicht mehr erhoben werden. Formlos mitgeteilte Entscheidungen
-gelten mit dem dritten Tage nach Aufgabe zur Post als bekannt gegeben.
+gelten mit dem vierten Tage nach Aufgabe zur Post als bekannt gegeben.
 Die Rüge ist schriftlich bei dem Gericht zu erheben, dessen
 Entscheidung angegriffen wird. Die Rüge muss die angegriffene
 Entscheidung bezeichnen und das Vorliegen der in Absatz 1 Satz 1 Nr. 2
@@ -3356,7 +3463,7 @@ Seiten anerkannt sind, findet die Zwangsvollstreckung statt. Die §§
 107 und 109 gelten entsprechend.
 
 
-### § 112 Übergangsregelungen
+### § 112 Übergangsregelungen; Verordnungsermächtigung
 
 (1) Für Beschlussverfahren nach § 2a Absatz 1 Nummer 4, die bis zum
 Ablauf des 15. August 2014 anhängig gemacht worden sind, gilt § 97 in
@@ -3365,6 +3472,36 @@ durch einen rechtskräftigen Beschluss fort.
 
 (2) § 43 des Einführungsgesetzes zum Gerichtsverfassungsgesetz gilt
 entsprechend.
+
+(3) Dokumente und Aktenteile, die nach den Verschlusssachenanweisungen
+des Bundes oder der Länder als Verschlusssache höher als VS-NUR FÜR
+DEN DIENSTGEBRAUCH eingestuft sind, dürfen abweichend von den §§ 46c
+bis 46f bis zum 31. Dezember 2035 in Papierform erstellt, geführt und
+übermittelt werden. Dokumente und Aktenteile, die nach den
+Verschlusssachenanweisungen des Bundes oder der Länder als
+Verschlusssache VS-NUR FÜR DEN DIENSTGEBRAUCH eingestuft sind, dürfen
+bis zum 31. Dezember 2035 abweichend von den §§ 46c bis 46f in
+Papierform übermittelt werden. Die für die Handhabung von
+Verschlusssachen geltenden Geheimschutzvorschriften bleiben unberührt.
+
+(4) Die Bundesregierung und die Landesregierungen können jeweils für
+ihren Bereich durch Rechtsverordnung bestimmen, dass Akten abweichend
+von § 46e Absatz 1 Satz 1 und Absatz 3 Satz 1 bis einschließlich 31.
+Dezember 2026 in Papierform angelegt sowie von anderer Stelle bis
+einschließlich 31. Dezember 2026 übermittelte elektronische Akten in
+Papierform geführt oder weitergeführt werden. Die Bestimmung kann auf
+einzelne Gerichte oder Verfahren beschränkt werden; wird von dieser
+Möglichkeit Gebrauch gemacht, so kann in der Rechtsverordnung bestimmt
+werden, dass durch Verwaltungsvorschrift, die öffentlich
+bekanntzumachen ist, geregelt wird, in welchen Verfahren Akten in
+Papierform angelegt oder elektronisch übermittelte Akten in Papierform
+geführt oder weitergeführt werden. Die Rechtsverordnung der
+Bundesregierung bedarf nicht der Zustimmung des Bundesrates. Die
+Bundesregierung kann die in Satz 1 genannte Ermächtigung durch
+Rechtsverordnung auf die zuständigen Bundesministerien übertragen. Die
+Landesregierungen können die in Satz 1 genannte Ermächtigung durch
+Rechtsverordnung auf die für die Arbeitsgerichtsbarkeit zuständigen
+obersten Landesbehörden übertragen.
 
 
 ### § 113 Berichterstattung

@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 813
 
+Geändert durch
+:   Art. 1 V v. 29.8.2024 I Nr. 273
+
 
 ## Eingangsformel
 
@@ -41,6 +44,13 @@ enthaltene Ermächtigung wird auf den Vorstand der Deutschen Bundesbank
 
 
 ## § 3
+
+Die in § 31 Absatz 7 Satz 1 des Gesetzes über die Deutsche Bundesbank
+enthaltene Ermächtigung wird auf den Vorstand der Deutschen Bundesbank
+übertragen.
+
+
+## § 4
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

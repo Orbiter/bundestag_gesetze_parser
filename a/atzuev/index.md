@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1999, 1525
 
 Zuletzt geändert durch
-:   Art. 82 G v. 10.8.2021 I 3436
+:   Art. 17 V v. 11.12.2024 I Nr. 411
 
 
 ## Eingangsformel
@@ -428,9 +428,13 @@ schriftlich zu belehren.
 schriftlichen Belehrung auf dem Erklärungsbogen durch Unterschrift zu
 bestätigen.
 
-(5) Die zuständige Behörde gibt für die Belehrung des Betroffenen,
-insbesondere über Anfragen nach dem Bundeszentralregistergesetz, sowie
-für den Erklärungsbogen ein amtliches Formular bekannt.
+(5)
+1             Die zuständige Behörde gibt für die Belehrung des
+Betroffenen, insbesondere über Anfragen nach dem
+Bundeszentralregistergesetz, sowie für den Erklärungsbogen ein
+amtliches Formular bekannt.
+2             Sie stellt den Erklärungsbogen und das Formular für die
+Belehrung des Betroffenen als elektronische Formulare zur Verfügung.
 
 
 ## § 7 Abschluß der Zuverlässigkeitsüberprüfung

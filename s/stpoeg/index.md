@@ -16,7 +16,10 @@ Fundstelle
 :   RGBl: 1877, 346
 
 Zuletzt geändert durch
-:   Art. 6b G v. 16.9.2022 I 1454
+:   Art. 4 G v. 8.12.2025 I Nr. 319
+
+Mittelbare änderung durch
+:   Art. 38 G v. 8.12.2025 I Nr. 319 ist berücksichtigt
 
 
 ## Eingangsformel
@@ -354,16 +357,63 @@ Ansprüche eines Verletzten im Sinne des § 73 Absatz 1 Satz 2 des
 Strafgesetzbuches entgegenstehen.
 
 
-## § 15 Übergangsregelung zum Gesetz zur Einführung der elektronischen Akte in der Justiz und zur weiteren Förderung des elektronischen Rechtsverkehrs; Verordnungsermächtigungen
+## § 15 Übergangsregelung zum Gesetz zur Einführung der elektronischen Akte in der Justiz und zur weiteren Förderung des elektronischen Rechtsverkehrs; Verordnungsermächtigung
 
-Die Bundesregierung und die Landesregierungen können jeweils für ihren
-Bereich durch Rechtsverordnung bestimmen, dass die Einreichung
-elektronischer Dokumente abweichend von § 32a der Strafprozessordnung
-erst zum 1. Januar des Jahres 2019 oder 2020 möglich ist und § 41a der
-Strafprozessordnung in der am 31. Dezember 2017 geltenden Fassung bis
-jeweils zum 31. Dezember des Jahres 2018 oder 2019 weiter Anwendung
-findet. Sie können die Ermächtigung nach Satz 1 durch Rechtsverordnung
-auf die zuständigen Bundes- oder Landesministerien übertragen.
+(1) Dokumente und Aktenteile, die nach den Verschlusssachenanweisungen
+des Bundes oder der Länder als Verschlusssache höher als VS-NUR FÜR
+DEN DIENSTGEBRAUCH eingestuft sind, dürfen bis zum 31. Dezember 2035
+abweichend von den §§ 32 bis 32f der Strafprozessordnung in Papierform
+erstellt, geführt und übermittelt werden. Dokumente und Aktenteile,
+die nach den Verschlusssachenanweisungen des Bundes oder der Länder
+als Verschlusssache VS-NUR FÜR DEN DIENSTGEBRAUCH eingestuft sind,
+dürfen bis zum 31. Dezember 2035 abweichend von den §§ 32 bis 32f der
+Strafprozessordnung in Papierform übermittelt werden. Die für die
+Handhabung von Verschlusssachen geltenden Geheimschutzvorschriften
+bleiben unberührt.
+
+(2) Die Bundesregierung und die Landesregierungen können jeweils für
+ihren Bereich durch Rechtsverordnung bestimmen, dass Akten abweichend
+von § 32 Absatz 1 Satz 1 und 2 der Strafprozessordnung bis
+einschließlich 31. Dezember 2026 in Papierform angelegt sowie von
+anderer Stelle bis einschließlich 31. Dezember 2026 übermittelte
+elektronische Akten in Papierform geführt oder weitergeführt werden.
+Die Bestimmung kann auf einzelne Gerichte oder
+Strafverfolgungsbehörden oder allgemein bestimmte gerichtliche
+Verfahren beschränkt werden; wird von dieser Möglichkeit Gebrauch
+gemacht, so kann in der Rechtsverordnung bestimmt werden, dass durch
+Verwaltungsvorschrift, die öffentlich bekanntzumachen ist, geregelt
+wird, in welchen Verfahren Akten in Papierform angelegt oder
+elektronisch übermittelte Akten in Papierform geführt oder
+weitergeführt werden. Die Rechtsverordnung der Bundesregierung bedarf
+nicht der Zustimmung des Bundesrates. Die Bundesregierung und die
+Landesregierungen können die in Satz 1 genannte Ermächtigung durch
+Rechtsverordnung auf die zuständigen Bundes- oder Landesministerien
+übertragen.
+
+(3) Abweichend von § 32 Absatz 1 Satz 1 der Strafprozessordnung können
+die Akten ohne gesonderte Bestimmung nach Absatz 2 in Papierform
+angelegt oder elektronisch angelegte Akten in Papierform geführt oder
+weitergeführt werden, wenn Behörden des Polizeidienstes oder sonstige
+Behörden ihre Ermittlungsvorgänge im Sinne des § 163 Absatz 2 Satz 1
+der Strafprozessordnung
+
+1.  in Papierform übermitteln und die elektronische Aktenführung mit
+    unverhältnismäßigem Aufwand verbunden wäre oder
+
+
+2.  in elektronischer Form übermitteln und eine Verarbeitung im
+    Empfängersystem aus technischen Gründen nicht oder nur mit
+    unverhältnismäßigem Aufwand möglich wäre.
+
+
+
+(4) Abweichend von § 32 Absatz 1 Satz 1 der Strafprozessordnung können
+elektronisch angelegte Akten ohne gesonderte Bestimmung nach Absatz 2
+in Papierform geführt oder weitergeführt werden, wenn Gerichte oder
+Strafverfolgungsbehörden die Akten zur Abgabe der Aktenführung oder
+der Bearbeitung übermitteln und eine Verarbeitung im Empfängersystem
+aus technischen Gründen nicht oder nur mit unverhältnismäßigem Aufwand
+möglich wäre.
 
 
 ## § 16 Übergangsregelung zum Gesetz zur effektiveren und praxistauglicheren Ausgestaltung des Strafverfahrens
@@ -406,4 +456,12 @@ den 2. April 2021 folgende Berichtsjahr zu erstellen. Für die
 vorangehenden Berichtsjahre ist § 101b Absatz 5 der
 Strafprozessordnung in der bis zum 1. April 2021 geltenden Fassung
 anzuwenden.
+
+
+## § 19 Übergangsvorschrift zum Gesetz zur Änderung des Zuständigkeitsstreitwerts der Amtsgerichte, zum Ausbau der Spezialisierung der Justiz in Zivilsachen sowie zur Änderung weiterer prozessualer Regelungen
+
+§ 304 Absatz 3 der Strafprozessordnung ist in seiner bis
+einschließlich 31. Dezember 2025 geltenden Fassung weiter anzuwenden,
+wenn die anzufechtende Entscheidung bis einschließlich 31. Dezember
+2025 bekannt gemacht (§ 35 der Strafprozessordnung) worden ist.
 

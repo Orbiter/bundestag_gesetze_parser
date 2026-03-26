@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 16.12.1980; 1981 I 1;
 
 Zuletzt geändert durch
-:   Art. 1 G v. 30.8.2021 I 4074
+:   Art. 26 G v. 23.10.2024 I Nr. 323
 
 Stand: Bek. v. 27.6.2023 I Nr. 175 ist berücksichtigt
 
@@ -686,11 +686,11 @@ der Schutzbereich des Patents erweitert worden ist.
 
 (1) Erklärt sich der Patentanmelder oder der im Register (§ 30 Abs. 1)
 als Patentinhaber Eingetragene dem Deutschen Patent- und Markenamt
-gegenüber schriftlich bereit, jedermann die Benutzung der Erfindung
-gegen angemessene Vergütung zu gestatten, so ermäßigen sich die für
-das Patent nach Eingang der Erklärung fällig werdenden Jahresgebühren
-auf die Hälfte. Die Erklärung ist im Register einzutragen und im
-Patentblatt zu veröffentlichen.
+gegenüber schriftlich im Sinne des § 125a bereit, jedermann die
+Benutzung der Erfindung gegen angemessene Vergütung zu gestatten, so
+ermäßigen sich die für das Patent nach Eingang der Erklärung fällig
+werdenden Jahresgebühren auf die Hälfte. Die Erklärung ist im Register
+einzutragen und im Patentblatt zu veröffentlichen.
 
 (2) Die Erklärung ist unzulässig, solange im Register ein Vermerk über
 die Einräumung einer ausschließlichen Lizenz (§ 30 Abs. 4) eingetragen
@@ -730,14 +730,14 @@ Absatz 4 entsprechend.
 Bestimmungen der Absätze 1 bis 5 entsprechend anzuwenden.
 
 (7) Die Erklärung kann jederzeit gegenüber dem Deutschen Patent- und
-Markenamt schriftlich zurückgenommen werden, solange dem Patentinhaber
-noch nicht die Absicht angezeigt worden ist, die Erfindung zu
-benutzen. Die Zurücknahme wird mit ihrer Einreichung wirksam. Der
-Betrag, um den sich die Jahresgebühren ermäßigt haben, ist innerhalb
-eines Monats nach der Zurücknahme der Erklärung zu entrichten. Wird
-der Unterschiedsbetrag nicht innerhalb der Frist des Satzes 3 gezahlt,
-so kann er mit dem Verspätungszuschlag noch bis zum Ablauf einer Frist
-von weiteren vier Monaten gezahlt werden.
+Markenamt schriftlich im Sinne des § 125a zurückgenommen werden,
+solange dem Patentinhaber noch nicht die Absicht angezeigt worden ist,
+die Erfindung zu benutzen. Die Zurücknahme wird mit ihrer Einreichung
+wirksam. Der Betrag, um den sich die Jahresgebühren ermäßigt haben,
+ist innerhalb eines Monats nach der Zurücknahme der Erklärung zu
+entrichten. Wird der Unterschiedsbetrag nicht innerhalb der Frist des
+Satzes 3 gezahlt, so kann er mit dem Verspätungszuschlag noch bis zum
+Ablauf einer Frist von weiteren vier Monaten gezahlt werden.
 
 
 ### § 24
@@ -1717,12 +1717,13 @@ innerhalb einer bestimmten Frist zu äußern.
 (1) Die Prüfungsstelle kann jederzeit die Beteiligten laden und
 anhören, Zeugen, Sachverständige und Beteiligte eidlich oder uneidlich
 vernehmen sowie andere zur Aufklärung der Sache erforderliche
-Ermittlungen anstellen. § 128a der Zivilprozessordnung ist
-entsprechend anzuwenden. Bis zum Beschluß über die Erteilung ist der
-Anmelder auf Antrag zu hören. Der Antrag ist schriftlich einzureichen.
-Wird der Antrag nicht in der vorgeschriebenen Form eingereicht, so
-weist sie den Antrag zurück. Der Beschluß, durch den der Antrag
-zurückgewiesen wird, ist selbständig nicht anfechtbar.
+Ermittlungen anstellen. Die §§ 128a und 284 Absatz 2 und 3 der
+Zivilprozessordnung sind entsprechend anzuwenden. Bis zum Beschluß
+über die Erteilung ist der Anmelder auf Antrag zu hören. Der Antrag
+ist schriftlich einzureichen. Wird der Antrag nicht in der
+vorgeschriebenen Form eingereicht, so weist sie den Antrag zurück. Der
+Beschluß, durch den der Antrag zurückgewiesen wird, ist selbständig
+nicht anfechtbar.
 
 (2) Über die Anhörungen und Vernehmungen ist eine Niederschrift zu
 fertigen, die den wesentlichen Gang der Verhandlung wiedergeben und
@@ -3742,15 +3743,15 @@ entsprechend anzuwenden.
 
 ### § 136
 
-Die Vorschriften des § 117 Abs. 2 bis 4, des § 118 Abs. 2 und 3, der
-§§ 119 und 120 Absatz 1 und 3, des § 120a Absatz 1, 2 und 4 sowie der
-§§ 124 und 127 Abs. 1 und 2 der Zivilprozeßordnung sind entsprechend
-anzuwenden, § 127 Abs. 2 der Zivilprozessordnung mit der Maßgabe, dass
-die Beschwerde unabhängig von dem Verfahrenswert stattfindet. Im
-Einspruchsverfahren sowie in den Verfahren wegen Erklärung der
-Nichtigkeit des Patents oder in Zwangslizenzverfahren (§§ 81, 85 und
-85a) gilt dies auch für § 117 Abs. 1 Satz 2, § 118 Abs. 1, § 122 Abs.
-2 sowie die §§ 123, 125 und 126 der Zivilprozeßordnung.
+Die Vorschriften des § 117 Absatz 2 bis 4 Satz 1, des § 118 Abs. 2 und
+3, der §§ 119 und 120 Absatz 1 und 3, des § 120a Absatz 1, 2 und 4
+sowie der §§ 124 und 127 Abs. 1 und 2 der Zivilprozeßordnung sind
+entsprechend anzuwenden, § 127 Abs. 2 der Zivilprozessordnung mit der
+Maßgabe, dass die Beschwerde unabhängig von dem Verfahrenswert
+stattfindet. Im Einspruchsverfahren sowie in den Verfahren wegen
+Erklärung der Nichtigkeit des Patents oder in Zwangslizenzverfahren
+(§§ 81, 85 und 85a) gilt dies auch für § 117 Abs. 1 Satz 2, § 118 Abs.
+1, § 122 Abs. 2 sowie die §§ 123, 125 und 126 der Zivilprozeßordnung.
 
 
 ### § 137

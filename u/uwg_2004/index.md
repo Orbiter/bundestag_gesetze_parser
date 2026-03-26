@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 3.3.2010 I 254;
 
 Zuletzt geändert durch
-:   Art. 13 G v. 8.10.2023 I Nr. 272
+:   Art. 1 G vom 12.2.2026 I Nr. 43
 
 Dieses Gesetz dient der Umsetzung der Richtlinie 2005/29/EG des
 Europäischen Parlaments und des Rates vom 11. Mai 2005 über unlautere
@@ -642,9 +642,9 @@ Marktteilnehmer diese Werbung nicht wünscht.
         übermittelt wird, verschleiert oder verheimlicht wird oder
 
 
-    b)  bei der gegen § 6 Absatz 1 des Telemediengesetzes verstoßen wird oder
-        in der der Empfänger aufgefordert wird, eine Website aufzurufen, die
-        gegen diese Vorschrift verstößt, oder
+    b)  bei der gegen § 6 Absatz 1 des Digitale-Dienste-Gesetzes verstoßen
+        wird oder in der der Empfänger aufgefordert wird, eine Website
+        aufzurufen, die gegen diese Vorschrift verstößt, oder
 
 
     c)  bei der keine gültige Adresse vorhanden ist, an die der Empfänger eine
@@ -1059,9 +1059,9 @@ erforderlichen Aufwendungen verlangen.
 Absatz 3 ist für Anspruchsberechtigte nach § 8 Absatz 3 Nummer 1
 ausgeschlossen bei
 
-1.  im elektronischen Geschäftsverkehr oder in Telemedien begangenen
-    Verstößen gegen gesetzliche Informations- und Kennzeichnungspflichten
-    oder
+1.  im elektronischen Geschäftsverkehr oder in digitalen Diensten nach § 1
+    Absatz 4 Nummer 1 des Digitale-Dienste-Gesetzes begangenen Verstößen
+    gegen gesetzliche Informations- und Kennzeichnungspflichten oder
 
 
 2.  sonstigen Verstößen gegen die Verordnung (EU) 2016/679 des
@@ -1150,7 +1150,8 @@ außerdem das Gericht zuständig, in dessen Bezirk die Zuwiderhandlung
 begangen wurde. Satz 2 gilt nicht für
 
 1.  Rechtsstreitigkeiten wegen Zuwiderhandlungen im elektronischen
-    Geschäftsverkehr oder in Telemedien oder
+    Geschäftsverkehr oder in digitalen Diensten nach § 1 Absatz 4 Nummer 1
+    des Digitale-Dienste-Gesetzes oder
 
 
 2.  Rechtsstreitigkeiten, die von den nach § 8 Absatz 3 Nummer 2 bis 4 zur
@@ -1345,7 +1346,7 @@ geahndet werden.
 (4) Verwaltungsbehörden im Sinne des § 36 Absatz 1 Nummer 1 des
 Gesetzes über Ordnungswidrigkeiten sind
 
-1.  das Umweltbundesamt,
+1.  das Bundesamt für Justiz,
 
 
 2.  die Bundesanstalt für Finanzdienstleistungsaufsicht bei einer

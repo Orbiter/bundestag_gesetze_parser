@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1981, 431
 
 Neugefasst durch
-:   Bek. vom 25.7.1991 I 1739;
+:   Bek. v. 25.7.1991 I 1739;
 
 Zuletzt geändert durch
 :   Art. 52 G v. 20.8.2021 I 3932
@@ -60,7 +60,7 @@ dieser Verordnung abgedruckten Muster 5 auszustellen.
 wenn der schwerbehinderte Mensch wegen eines Grades der
 Schädigungsfolgen von mindestens 50 Anspruch auf Versorgung nach dem
 Bundesversorgungsgesetz in der am 31. Dezember 2023 geltenden Fassung
-oder nach § 24 des Vierzehnten Buches Sozialgesetzbuch hat.
+oder nach § 21 des Vierzehnten Buches Sozialgesetzbuch hat.
 
 (2) Im Ausweis sind folgende Merkzeichen einzutragen:
 
@@ -101,6 +101,11 @@ oder nach § 24 des Vierzehnten Buches Sozialgesetzbuch hat.
 
 
 
+
+
+    c)  wenn der schwerbehinderte Mensch wegen eines Grades der
+        Schädigungsfolgen von mindestens 50 Anspruch auf Leistungen nach dem
+        Soldatenentschädigungsgesetz,
 
 
 

@@ -19,7 +19,7 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 6.4.2005 I 997;
 
-Stand: Zuletzt geändert Art. 139 G v. 29.3.2017 I 626
+Stand: Zuletzt geändert Art. 2 G v. 8.12.2024 I Nr. 405
 Stand: § 27 Abs. 2 ist gem. § 44 Halbs 2 iVm Bek 6.4.1994 II 515 mWv 1.1.1994 in Kraft getreten
 Diese Verordnung dient der Umsetzung folgender Rechtsakte:
 
@@ -2393,26 +2393,7 @@ Verordnung (EG) Nr. 416/2005 der Kommission vom 11. März 2005 (ABl. EU
 Nr. L 66 S. 10), ein tierisches Nebenprodukt oder ein verarbeitetes
 Erzeugnis in einen anderen Mitgliedstaat versendet.
 
-(5) Ordnungswidrig im Sinne des § 32 Absatz 2 Nummer 8 des
-Tiergesundheitsgesetzes handelt, wer gegen die Verordnung (EU) Nr.
-576/2013 des Europäischen Parlaments und des Rates vom 12. Juni 2013
-über die Verbringung von Heimtieren zu anderen als Handelszwecken und
-zur Aufhebung der Verordnung (EG) Nr. 998/2003 (ABl. L 178 vom
-28\.6.2013, S. 1, L 115 vom 6.5.2015, S. 43) verstößt, indem er
-vorsätzlich oder fahrlässig entgegen
-
-1.  Artikel 6 oder Artikel 10 Absatz 1 oder Absatz 2 ein Heimtier
-    verbringt,
-
-
-2.  Artikel 34 Absatz 2 Buchstabe a einen Ausweis nicht vorlegt oder
-
-
-3.  Artikel 34 Absatz 2 Buchstabe b ein Heimtier für die Kontrolle nicht
-    zur Verfügung stellt.
-
-
-
+(5) (weggefallen)
 
 (6) Ordnungswidrig im Sinne des § 32 Absatz 2 Nummer 8 des
 Tiergesundheitsgesetzes handelt, wer vorsätzlich oder fahrlässig

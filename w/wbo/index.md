@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 22.1.2009 I 81
 
 Zuletzt geändert durch
-:   Art. 24 Abs. 1 G v. 25.6.2021 I 2154
+:   Art. 3 G v. 17.12.2024 I Nr. 424
 
 
 ## § 1 Beschwerderecht
@@ -322,7 +322,7 @@ Bundeswehr den Beschwerdebescheid, gelten die Sätze 1 bis 3
 entsprechend mit der Maßgabe, dass das Bundesverwaltungsgericht an die
 Stelle des Truppendienstgerichts tritt.
 
-(6) § 140 Absatz 8 und § 142 der Wehrdisziplinarordnung gelten
+(6) § 144 Absatz 8 und § 146 der Wehrdisziplinarordnung gelten
 entsprechend.
 
 
@@ -445,8 +445,8 @@ verursacht hat, sind ihm aufzuerlegen.
 geworden, sind die Absätze 1 und 2 unter Berücksichtigung des
 bisherigen Sachstands sinngemäß anzuwenden.
 
-(4) § 137 Absatz 1 und 2 Nummer 1 bis 3, § 140 Absatz 8, § 141 Absatz
-1 und 2 sowie § 142 der Wehrdisziplinarordnung gelten entsprechend.
+(4) § 141 Absatz 1 und 2 Nummer 1 bis 3, § 144 Absatz 8, § 145 Absatz
+1 und 2 sowie § 146 der Wehrdisziplinarordnung gelten entsprechend.
 
 
 ## § 21 Entscheidungen des Bundesministers der Verteidigung
@@ -459,7 +459,7 @@ beim Bundesministerium der Verteidigung zu stellen.
 
 (2) Für den Antrag auf Entscheidung des Bundesverwaltungsgerichts und
 für das Verfahren gelten die §§ 17 bis 20 entsprechend. § 20 Absatz 4
-in Verbindung mit § 142 der Wehrdisziplinarordnung ist mit der Maßgabe
+in Verbindung mit § 146 der Wehrdisziplinarordnung ist mit der Maßgabe
 anzuwenden, dass an die Stelle des Truppendienstgerichts das
 Bundesverwaltungsgericht tritt.
 
@@ -541,12 +541,12 @@ Verfahrensmangel bezeichnet werden.
 (3) Die Einlegung der Nichtzulassungsbeschwerde hemmt die Rechtskraft
 des angefochtenen Beschlusses.
 
-(4) Hilft das Truppendienstgericht der Nichtzulassungsbeschwerde nicht
-ab, entscheidet das Bundesverwaltungsgericht in der Besetzung ohne
-ehrenamtliche Richter durch Beschluss. Der Beschluss ist zu begründen.
-Mit der Ablehnung der Nichtzulassungsbeschwerde durch das
-Bundesverwaltungsgericht wird der Beschluss des Truppendienstgerichts
-rechtskräftig.
+(4) Hilft der Vorsitzende der Truppendienstkammer der
+Nichtzulassungsbeschwerde nicht ab, entscheidet das
+Bundesverwaltungsgericht in der Besetzung ohne ehrenamtliche Richter
+durch Beschluss. Der Beschluss ist zu begründen. Mit der Ablehnung der
+Nichtzulassungsbeschwerde durch das Bundesverwaltungsgericht wird der
+Beschluss des Truppendienstgerichts rechtskräftig.
 
 (5) Wird der Nichtzulassungsbeschwerde abgeholfen oder lässt das
 Bundesverwaltungsgericht die Rechtsbeschwerde zu, wird das

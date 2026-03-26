@@ -80,7 +80,7 @@ des Ersten Gesetzes zur Vereinheitlichung und Neuregelung des
 Besoldungsrechts in Bund und Ländern.
 
 (3) Absatz 2 gilt in den Fällen des § 24a des
-Bundespolizeibeamtengesetzes, des § 27 Abs. 1 Satz 2 des
+Bundespolizeibeamtengesetzes, des § 42 Absatz 1 Satz 2 des
 Soldatenversorgungsgesetzes und des Artikels 3 Abs. 1 Satz 2 des
 Zweiten Gesetzes zur Änderung des Bundesbeamtengesetzes vom 28. Juli
 1972 (Bundesgesetzbl. I S. 1288) entsprechend.

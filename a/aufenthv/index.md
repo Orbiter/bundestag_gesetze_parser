@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2004, 2945
 
 Zuletzt geändert durch
-:   Art. 3 V v. 12.4.2024 I Nr. 125
+:   Art. 6 G v. 30.1.2026 I Nr. 31
 
 
 ## Kapitel 1 - Allgemeine Bestimmungen
@@ -75,6 +75,9 @@ Drittstaatsangehöriger (Europäische Reisedokumente für die Rückkehr)
 sind Dokumente nach der Verordnung (EU) 2016/1953 des Europäischen
 Parlaments und des Rates vom 26. Oktober 2016 (ABl. L 311 vom
 17\.11.2016, S. 13).
+
+(9) EU-Rückkehrausweise sind Reisedokumente im Sinne des Artikels 3
+Absatz 1 der Richtlinie (EU) 2019/997 in der Fassung vom 6. Mai 2024.
 
 
 ## Kapitel 2 - Einreise und Aufenthalt im Bundesgebiet
@@ -167,11 +170,14 @@ dass
 
 
 7.  Flugbesatzungsausweise, soweit sie für einen Aufenthalt nach § 23
-    gebraucht werden, und
+    gebraucht werden,
 
 
 8.  Binnenschifffahrtsausweise, soweit sie für einen Aufenthalt nach § 25
-    gebraucht werden.
+    gebraucht werden, und
+
+
+9.  EU-Rückkehrausweise (§ 1 Absatz 9).
 
 
 
@@ -200,7 +206,10 @@ Ausländer sind:
 6.  die Bescheinigung über die Wohnsitzverlegung (§ 43 Absatz 2),
 
 
-7.  das Europäische Reisedokument für die Rückkehr (§ 1 Absatz 8).
+7.  das Europäische Reisedokument für die Rückkehr (§ 1 Absatz 8),
+
+
+8.  der EU-Rückkehrausweis (§ 1 Absatz 9, § 13a Absatz 1).
 
 
 
@@ -272,8 +281,21 @@ war. Diesem abweichenden Eintrag kommt keine weitere Rechtswirkung zu.
 (3) Passersatzpapiere nach Absatz 1 Satz 1 Nummer 1, 3 und 4 enthalten
 eine Zone für das automatische Lesen. Diese darf lediglich enthalten:
 
-1.  die Abkürzung „PT“ für Passtyp von Passersatzpapieren nach Absatz 1
-    Satz 1 Nummer 1, 3 und 4 einschließlich vorläufiger Passersatzpapiere,
+1.  die Abkürzung
+
+    a)  „PT“ für Passtyp von Passersatzpapieren nach Absatz 1 Satz 1 Nummer 1
+        einschließlich vorläufiger Passersatzpapiere,
+
+
+    b)  „PR“ für Passtyp von Passersatzpapieren nach Absatz 1 Satz 1 Nummer 3
+        einschließlich vorläufiger Passersatzpapiere oder
+
+
+    c)  „PS“ für Passtyp von Passersatzpapieren nach Absatz 1 Satz 1 Nummer 4
+        einschließlich vorläufiger Passersatzpapiere,
+
+
+
 
 
 2.  die Abkürzung „D“ für Bundesrepublik Deutschland,
@@ -683,6 +705,167 @@ Passersatzpapiere, mitführt. Absatz 4 findet keine Anwendung.
 
 (6) Die Gültigkeitsdauer des Notreiseausweises darf längstens einen
 Monat betragen.
+
+
+#### § 13a EU-Rückkehrausweis
+
+(1) Einem Unionsbürger, dessen Pass oder Passersatz verloren gegangen
+ist, gestohlen oder vernichtet wurde oder sonst nicht innerhalb einer
+angemessenen Zeit beschafft werden kann, wird auf seinen Antrag in
+einem Drittstaat, in dem der Mitgliedstaat seiner Staatsangehörigkeit
+konsularisch nicht durch eine eigene Auslandsvertretung im Sinne von
+Artikel 6 der Richtlinie (EU) 2015/637 vertreten ist, ein EU-
+Rückkehrausweis zum Zwecke der Einreise in den Mitgliedstaat, dessen
+Staatsangehörigkeit er besitzt oder in dem er seinen Aufenthalt hat,
+von einer deutschen Auslandsvertretung ausgestellt, sofern der
+Mitgliedstaat, dessen Staatsangehörigkeit der Antragsteller besitzt,
+die Angaben des Antragstellers zu dessen Staatsangehörigkeit bestätigt
+und keine Einwände erhebt. Abweichend von Satz 1 darf ausnahmsweise
+das Dokument auch zum Zwecke einer einzigen Reise in ein anderes Land
+ausgestellt werden.
+
+(2) Die Gültigkeitsdauer des EU-Rückkehrausweises ist nach dem
+Zeitraum zu bemessen, der für die Reise in den in Absatz 1 genannten
+Staat erforderlich ist, zuzüglich zwei Tage Nachfrist. Die
+Gültigkeitsdauer darf nur unter außergewöhnlichen Umständen 15
+Kalendertage überschreiten.
+
+(3) Die deutsche Auslandsvertretung konsultiert spätestens zwei
+Arbeitstage nach Antragstellung den Mitgliedstaat der Europäischen
+Union, dessen Staatsangehörigkeit der Antragsteller besitzt, nach
+Maßgabe von Artikel 10 Absatz 2 der Richtlinie (EU) 2015/637 zum
+Zwecke der Überprüfung der Staatsangehörigkeit und Identität des
+Antragstellers. Die deutsche Auslandsvertretung übermittelt hierfür
+dem jeweiligen Mitgliedstaat die notwendigen Angaben zur Identität,
+insbesondere Namen und Vornamen, Staatsangehörigkeit, Geburtsdatum und
+Geschlecht des Antragstellers sowie ein Gesichts- oder Lichtbild des
+Antragstellers im Sinne von Artikel 4 Absatz 2 Buchstabe b der
+Richtlinie (EU) 2019/997 und eine Fotokopie oder elektronische Kopie
+eines verfügbaren Identifizierungsmittels und, soweit verfügbar, Art
+und Nummer des zu ersetzenden Dokuments sowie eine nationale
+Registrierungs- oder Sozialversicherungsnummer. Hat der Mitgliedstaat,
+dessen Staatsangehörigkeit der Antragsteller besitzt, Einwände gegen
+die Ausstellung eines EU-Rückkehrausweises, findet Artikel 4 Absatz 4
+der Richtlinie (EU) 2019/997 in der Fassung vom 6. Mai 2024 Anwendung.
+
+(4) Der EU-Rückkehrausweis ist spätestens zwei Arbeitstage nach Erhalt
+der Bestätigung der Angaben zur Staatsangehörigkeit und Identität des
+Antragstellers auszustellen und eine Kopie an den Mitgliedstaat,
+dessen Staatsangehörigkeit der Antragsteller besitzt, zu übersenden.
+In begründeten Fällen darf die Frist nach Satz 1 überschritten werden.
+In äußersten Notfällen kann ein EU-Rückkehrausweis für einen
+Unionsbürger auch ohne vorherige Bestätigung des Mitgliedstaats,
+dessen Staatsangehörigkeit er besitzt, ausgestellt werden, wenn die
+deutsche Auslandsvertretung zuvor alle Kommunikationsmittel
+ausgeschöpft hat. Der Mitgliedstaat ist anschließend über die
+Ausstellung des EU-Rückkehrausweises sowie die darin enthaltenen
+Informationen so schnell wie möglich zu informieren.
+
+(5) Eingehende Konsultationsanfragen anderer Mitgliedstaaten leitet
+das Auswärtige Amt an die jeweils zuständige deutsche Behörde weiter.
+Die Rückmeldung ist dem jeweiligen Mitgliedstaat über das Auswärtige
+Amt spätestens drei Arbeitstage nach Erhalt der Informationen im Sinne
+des Absatzes 3 Satz 2 und 3 zu übermitteln. Kann die Frist nicht
+eingehalten werden, unterrichtet das Auswärtige Amt den anfragenden
+Mitgliedstaat und gibt eine Einschätzung ab, wann mit einer Antwort zu
+rechnen ist.
+
+(6) Der EU-Rückkehrausweis ist nach Ankunft am Zielort bei der für die
+Beantragung von Reisedokumenten zuständigen Behörde abzugeben. Die
+zurückgegebenen EU-Rückkehrausweise und Kopien sind umgehend zu
+vernichten.
+
+(7) EU-Rückkehrausweise nach Artikel 8 Absatz 1 der Richtlinie (EU)
+2019/997 in der Fassung vom 6. Mai 2024 enthalten neben der Angabe des
+ausstellenden Staates, dem Tag und Ort der Ausstellung, dem letzten
+Tag der Gültigkeitsdauer, der Seriennummer des EU-Rückkehrausweises
+und dem Gesichts- oder Lichtbild, der Unterschrift des Inhabers sowie
+dem Reiseziel und gegebenenfalls Transitstaaten ausschließlich
+folgende sichtbar aufgebrachte Angaben über den Inhaber des
+Passersatzpapiers:
+
+1.  Familienname,
+
+
+2.  den oder die Vornamen,
+
+
+3.  Staatsangehörigkeit,
+
+
+4.  Tag der Geburt,
+
+
+5.  Geschlechtsangabe mit der Abkürzung „F“ für Personen weiblichen
+    Geschlechts, „M“ für Personen männlichen Geschlechts und „X“ in allen
+    anderen Fällen,
+
+
+6.  ein Anmerkungsfeld.
+
+
+
+EU-Rückkehrausweise enthalten zudem eine Zone für das automatische
+Lesen. Diese darf lediglich enthalten:
+
+1.  die Abkürzung „PU“ für Dokumententyp,
+
+
+2.  die Abkürzung „D“ für Bundesrepublik Deutschland,
+
+
+3.  den Familiennamen,
+
+
+4.  den oder die Vornamen,
+
+
+5.  die Seriennummer des EU-Rückkehrausweises,
+
+
+6.  die Abkürzung der Staatsangehörigkeit,
+
+
+7.  den Tag der Geburt,
+
+
+8.  die Abkürzung „F“ für Personen weiblichen Geschlechts, „M“ für
+    Personen männlichen Geschlechts und das Zeichen „<“ in allen anderen
+    Fällen,
+
+
+9.  die Gültigkeitsdauer des EU-Rückkehrausweises,
+
+
+10. die Prüfziffern und
+
+
+11. Leerstellen.
+
+
+
+Die Seriennummer und Prüfziffern dürfen keine Daten über die Person
+des Inhabers oder Hinweise auf solche Daten enthalten. Jeder EU-
+Rückkehrausweis enthält eine neue Seriennummer. Bei der Ausstellung
+des EU-Rückkehrausweises findet Artikel 8 Absatz 2, 5 bis 8 der
+Richtlinie (EU) 2019/997 in der Fassung vom 6. Mai 2024 Anwendung.
+
+(8) Die für die Zwecke der Ausstellung eines EU-Rückkehrausweises
+verarbeiteten personenbezogenen Daten einschließlich des Gesichts-
+oder Lichtbilds des Antragstellers dürfen ausschließlich für die
+Überprüfung der Identität nach dieser Vorschrift, für das Drucken der
+einheitlichen EU-Rückkehrausweismarke und zur Erleichterung der Reise
+des Antragstellers verwendet werden. Die Berichtigung, Speicherung und
+Löschung der personenbezogenen Daten, die zur Ausstellung eines EU-
+Rückkehrausweises verarbeitet oder auf einem EU-Rückkehrausweis
+gespeichert werden, richten sich nach Artikel 15 Absatz 2 und 4 der
+Richtlinie (EU)
+2019/997              in der Fassung vom 6. Mai 2024.
+
+(9) Die Ausstellung des EU-Rückkehrausweises ist gemäß Artikel 16
+Absatz 1 und 2 der Richtlinie (EU) 2019/997 in der Fassung vom 6. Mai
+2024 zu überwachen und die Informationen an die Europäische Kommission
+zu übermitteln.
 
 
 #### § 14 Befreiung von der Passpflicht in Rettungsfällen
@@ -1188,29 +1371,53 @@ abgelaufen war.
 (1) Ein Visum bedarf der vorherigen Zustimmung der für den
 vorgesehenen Aufenthaltsort zuständigen Ausländerbehörde, wenn
 
-1.  der Ausländer sich zu anderen Zwecken als zur Erwerbstätigkeit oder
-    zur Arbeits- oder Ausbildungsplatzsuche länger als 90 Tage im
+1.  der Ausländer sich zu anderen Zwecken als zur Ausbildung nach Kapitel
+    2 Abschnitt 3 des Aufenthaltsgesetzes oder zur Erwerbstätigkeit nach
+    Kapitel 2 Abschnitt 4 des Aufenthaltsgesetzes länger als 90 Tage im
     Bundesgebiet aufhalten will,
 
 
-2.  der Ausländer im Bundesgebiet
+2.  der Ausländer
 
-    a)  eine selbständige Tätigkeit ausüben will,
-
-
-    b)  eine Beschäftigung nach § 19c Absatz 3 des Aufenthaltsgesetzes ausüben
-        will oder
+    a)  im Bundesgebiet eine selbständige Tätigkeit ausüben will,
 
 
-    c)  eine sonstige Beschäftigung ausüben will und wenn er sich entweder
-        bereits zuvor auf der Grundlage einer Duldung oder einer
+    b)  im Bundesgebiet eine Beschäftigung nach § 19c Absatz 3 des
+        Aufenthaltsgesetzes ausüben will,
+
+
+    c)  im Bundesgebiet
+
+        aa) eine sonstige Beschäftigung ausüben will,
+
+
+        bb) mit einem Aufenthaltstitel nach § 18d des Aufenthaltsgesetzes forschen
+            will,
+
+
+        cc) mit einem Aufenthaltstitel nach §§ 16a, 16b, 16d, 16e oder 16f Absatz
+            1 des Aufenthaltsgesetzes die jeweils zulässigen Aufenthaltszwecke
+            verfolgen will, oder
+
+
+        dd) mit einem Aufenthaltstitel nach § 17 des Aufenthaltsgesetzes einen
+            Ausbildungs- oder Studienplatz suchen oder sich mit einer Chancenkarte
+            nach § 20a des Aufenthaltsgesetzes aufhalten will, und
+
+
+
+        wenn er sich bereits zuvor auf der Grundlage einer Duldung oder einer
         Aufenthaltsgestattung im Bundesgebiet aufgehalten hat oder wenn gegen
-        ihn aufenthaltsbeendende Maßnahmen erfolgt sind oder
+        ihn aufenthaltsbeendende Maßnahmen erfolgt sind,
 
 
-    d)  eine Beschäftigung gemäß § 14 Absatz 1a der Beschäftigungsverordnung
-        ausüben will und dabei einen Fall des § 14 Absatz 1a Satz 2 der
-        Beschäftigungsverordnung geltend macht, oder
+    d)  im Bundesgebiet eine Beschäftigung gemäß § 14 Absatz 1a der
+        Beschäftigungsverordnung ausüben will und dabei einen Fall des § 14
+        Absatz 1a Satz 2 der Beschäftigungsverordnung geltend macht,
+
+
+    e)  im Bundesgebiet einen Schulbesuch nach § 16f Absatz 2 des
+        Aufenthaltsgesetzes beabsichtigt, oder
 
 
 
@@ -1225,16 +1432,19 @@ vorgesehenen Aufenthaltsort zuständigen Ausländerbehörde, wenn
 
 
 Das Visum des Ehegatten oder Lebenspartners und der minderjährigen
-Kinder eines Ausländers, der eine sonstige Beschäftigung ausüben will,
-bedarf in der Regel nicht der Zustimmung der Ausländerbehörde, wenn
+Kinder eines Ausländers, der eine sonstige Beschäftigung ausüben oder
+mit einem Aufenthaltstitel nach § 18d des Aufenthaltsgesetzes forschen
+will, bedarf in der Regel nicht der Zustimmung der Ausländerbehörde,
+wenn
 
 1.  das Visum des Ausländers nicht der Zustimmungspflicht der
-    Ausländerbehörde nach Satz 1 Nummer 2 Buchstabe c unterliegt,
+    Ausländerbehörde nach Satz 1 Nummer 2 Buchstabe c Doppelbuchstabe aa
+    oder bb unterliegt,
 
 
 2.  das Visum des Ehegatten oder Lebenspartners nicht selbst der
-    Zustimmungspflicht der Ausländerbehörde nach Satz 1 Nummer 2 Buchstabe
-    a bis c unterliegt,
+    Zustimmungspflicht der Ausländerbehörde nach Satz 1 Nummer 2
+    unterliegt,
 
 
 3.  die Visumanträge in zeitlichem Zusammenhang gestellt werden und
@@ -1251,14 +1461,21 @@ die Ausländerbehörde der Erteilung des Visums binnen zehn Tagen nach
 Ausländerbehörde im Einzelfall innerhalb dieses Zeitraums der
 Auslandsvertretung mitgeteilt hat, dass die Prüfung nicht innerhalb
 dieser Frist abgeschlossen wird. Dasselbe gilt im Fall eines
-Ausländers, der eine sonstige Beschäftigung ausüben will, und seiner
-Familienangehörigen nach Satz 2, wenn das Visum nur auf Grund eines
-Voraufenthalts im Sinne von Satz 1 Nummer 2 Buchstabe c der Zustimmung
-der Ausländerbehörde bedarf. Dasselbe gilt bei Anträgen auf Erteilung
-eines Visums zu einem Aufenthalt nach § 16b Absatz 1 oder Absatz 5, §
-17 Absatz 2 oder § 18d des Aufenthaltsgesetzes, soweit das Visum nicht
-nach § 34 Nummer 3 bis 5 zustimmungsfrei ist, mit der Maßgabe, dass
-die Frist drei Wochen und zwei Werktage beträgt.
+Ausländers, der
+
+1.  eine sonstige Beschäftigung ausüben oder mit einem Aufenthaltstitel
+    nach § 18d des Aufenthaltsgesetzes forschen will, und seiner
+    Familienangehörigen nach Satz 2, oder
+
+
+2.  die Voraussetzungen nach Satz 1 Nummer 2 Buchstabe c Doppelbuchstabe
+    bb, cc oder dd erfüllt,
+
+
+
+wenn das Visum nur auf Grund eines Voraufenthalts im Sinne von Satz 1
+Nummer 2 Buchstabe c der Zustimmung der Ausländerbehörde bedarf und
+das Visum nicht nach anderen Bestimmungen zustimmungsfrei ist.
 
 (2) Wird der Aufenthalt des Ausländers von einer öffentlichen Stelle
 mit Sitz im Bundesgebiet vermittelt, kann die Zustimmung zur
@@ -2369,7 +2586,16 @@ Deutscher sind von den Gebühren befreit.
     *   für die Durchführung des beschleunigten Fachkräfteverfahrens nach §
         81a des Aufenthaltsgesetzes
 
-    *   411 Euro.
+    *   411 Euro,
+
+
+*    *   16.
+
+    *   im Fall einer Übergabe nach § 60a Absatz 2 zusätzlich zu den jeweils
+        festgesetzten Gebühren für die Ausstellung des elektronischen
+        Aufenthaltstitels gemäß § 78 Absatz 1 Satz 1 des Aufenthaltsgesetzes
+
+    *   15 Euro.
 
 
 
@@ -2629,7 +2855,32 @@ von 10 Euro zu erheben.
         Aufenthaltsgesetzes mit dem Zusatz Ausweisersatz (§ 78 Absatz 1 Satz 4
         des Aufenthaltsgesetzes)
 
-    *   72 Euro.
+    *   72 Euro,
+
+
+*    *   16.
+
+    *   für die Anfertigung eines Lichtbilds (§ 60 Absatz 2 Satz 2 in
+        Verbindung mit § 6 Absatz 2 Satz 3 Nummer 2 Passgesetz)
+
+    *   6 Euro,
+
+
+*    *   17.
+
+    *   für die Ausstellung eines EU-Rückkehrausweises (§ 4 Absatz 1 Satz 1
+        Nummer 8, § 13a)
+        und
+
+    *   52 Euro
+
+
+*    *
+    *   wenn die Ausstellung auf Veranlassung des Antragstellers außerhalb der
+        behördlichen
+        Dienstzeiten vorgenommen wird
+
+    *   60 Euro.
 
 
 
@@ -3192,7 +3443,14 @@ ausgestellt worden ist, ist verpflichtet, unverzüglich
 
 2.  nach Kenntnis vom Verlust der technischen Funktionsfähigkeit des Chips
     der zuständigen Ausländerbehörde das Dokument vorzulegen und die
-    Neuausstellung zu beantragen.
+    Neuausstellung zu beantragen,
+
+
+3.  im Fall der Ausgabe durch postalischen Versand der zuständigen
+    Ausländerbehörde anzuzeigen, wenn die Postsendung unbefugt geöffnet
+    worden ist oder den elektronischen Aufenthaltstitel nicht enthält oder
+    wenn eine Angabe auf dem elektronischen Aufenthaltstitel unrichtig
+    ist.
 
 
 
@@ -3301,11 +3559,16 @@ verwenden:
 
 13. für die Bescheinigung des Daueraufenthalts für Unionsbürger oder
     Staatsangehörige eines EWR-Staates das in Anlage D15 abgedruckte
-    Muster und
+    Muster,
 
 
 14. für die Änderung der Anschrift auf Dokumenten mit Chip (§ 78 Absatz 7
-    Satz 2 des Aufenthaltsgesetzes) das in Anlage D16 abgedruckte Muster.
+    Satz 2 des Aufenthaltsgesetzes) das in Anlage D16 abgedruckte Muster
+    und
+
+
+15. für den EU-Rückkehrausweis (§ 4 Absatz 1 Satz 1 Nummer 8) das in den
+    Anlagen D18 und D19 abgedruckte Muster.
 
 
 
@@ -3320,9 +3583,10 @@ Aufenthaltsgesetzes (Visum) richtet sich nach der Verordnung (EG) Nr.
 1683/95 des Rates vom 29. Mai 1995 über eine einheitliche
 Visagestaltung (ABl. EG Nr. L 164 S. 1), zuletzt geändert durch die
 Verordnung (EG) Nr. 856/2008 (ABl. L 235 vom 2.9.2008, S. 1), in der
-jeweils geltenden Fassung. Es ist in Anlage D13a abgedruckt. Für die
-Verlängerung im Inland ist das in Anlage D13b abgedruckte Muster zu
-verwenden.
+jeweils geltenden Fassung. Es ist in Anlage D13a abgedruckt. Im Falle
+des § 20a des Aufenthaltsgesetzes wird der Vermerk „Chancenkarte“
+eingetragen. Für die Verlängerung im Inland ist das in Anlage D13b
+abgedruckte Muster zu verwenden.
 
 (2) Die Muster der Aufenthaltstitel, die nach § 78 Absatz 1 des
 Aufenthaltsgesetzes als eigenständige Dokumente mit Chip auszustellen
@@ -3404,6 +3668,12 @@ D11a oder in dem Trägervordruck nach der Anlage D1 angegeben.
 diesem Aufenthaltstitel gehörenden Zusatzblatt nach Anlage D11 oder in
 dem Trägervordruck nach Anlage D13a wird im Feld Anmerkungen der
 Vermerk „Saisonbeschäftigung“ eingetragen.
+
+(4f) In einer Aufenthaltserlaubnis, die nach § 20a des
+Aufenthaltsgesetzes erteilt wird, oder in einem zu dieser
+Aufenthaltserlaubnis gehörenden Zusatzblatt nach den Anlagen D11 und
+D11a oder in dem Trägervordruck nach der Anlage D1 wird der Vermerk
+„Chancenkarte“ eingetragen.
 
 (5) Ist in einem Aufenthaltstitel die Nebenbestimmung eingetragen,
 wonach die Ausübung einer Erwerbstätigkeit nicht gestattet ist,
@@ -3560,12 +3830,103 @@ identifiziert werden kann.
 (2) Der Ausländer, für den ein Dokument nach § 58 oder § 59
 ausgestellt werden soll, hat der zuständigen Behörde auf Verlangen ein
 aktuelles Lichtbild nach Absatz 1 vorzulegen oder bei der Anfertigung
-eines Lichtbildes mitzuwirken.
+eines Lichtbildes mitzuwirken. § 6 Absatz 2 Satz 3 des Passgesetzes
+findet entsprechende Anwendung
+
+1.  für Aufenthaltstitel nach § 4 Absatz 1 Satz 2 Nummer 2 bis 4 des
+    Aufenthaltsgesetzes mit elektronischem Speicher- und
+    Verarbeitungsmedium gemäß § 78 Absatz 1 Satz 1 des
+    Aufenthaltsgesetzes,
+
+
+2.  für Aufenthaltstitel nach einheitlichem Vordruckmuster gemäß § 78a
+    Absatz 1 Satz 1 des Aufenthaltsgesetzes sowie
+
+
+3.  für Reiseausweise für Ausländer, Flüchtlinge und Staatenlose gemäß § 4
+    Absatz 1 Satz 1 Nummer 1, 3 und 4.
+
+
+
+Eine Veränderung des Lichtbilds ist nur nach Maßgabe des
+Aufenthaltsgesetzes oder dieser Verordnung zulässig.
+
+(2a) Die zuständige Ausländerbehörde trägt in den Fällen des Absatzes
+2 Satz 2 in der Ausländerdatei A (§ 63) als lichtbildaufnehmende
+Stelle gemäß § 65 Nummer 7 ein
+
+1.  das übermittelte Pseudonym, wenn ein Lichtbild entsprechend den
+    Vorgaben nach § 6 Absatz 2 Satz 3 Nummer 1 des Passgesetzes und § 4
+    Absatz 2 Nummer 1 der Passverordnung gefertigt wurde,
+
+
+2.  den Namen des Dienstleisters, der das Lichtbildaufnahmegerät zur
+    Verfügung gestellt hat, sowie die Kennung des verwendeten
+    Lichtbildaufnahmegeräts, wenn ein Lichtbild entsprechend den Vorgaben
+    nach § 6 Absatz 2 Satz 3 Nummer 1 des Passgesetzes und § 4 Absatz 2
+    Nummer 2 der Passverordnung gefertigt wurde, oder
+
+
+3.  die jeweilige Ausländerbehörde, wenn ein Lichtbild entsprechend den
+    Vorgaben nach § 6 Absatz 2 Satz 3 Nummer 2 des Passgesetzes gefertigt
+    wurde.
+
+
+
 
 (3) Das Lichtbild darf von den zuständigen Behörden zum Zweck des
 Einbringens in ein Dokument nach § 58 oder § 59 und zum späteren
 Abgleich mit dem tatsächlichen Aussehen des Dokumenteninhabers
 verarbeitet werden.
+
+
+#### § 60a Ausgabe und Versand des elektronischen Aufenthaltstitels und des Sperrkennworts
+
+(1) Der elektronische Aufenthaltstitel wird gemeinsam mit dem
+Sperrkennwort von der zuständigen Ausländerbehörde an die
+antragstellende Person, an eine andere nach § 80 des
+Aufenthaltsgesetzes berechtigte Person oder an eine von der
+antragstellenden Person bevollmächtigte Person persönlich ausgegeben.
+
+(2) Der elektronische Aufenthaltstitel wird gemeinsam mit dem
+Sperrkennwort der antragstellenden Person durch den Hersteller auf dem
+Postweg an die zustellfähige inländische Meldeadresse der
+antragstellenden Person versendet, wenn sie einen anerkannten und
+gültigen Pass, Passersatz oder einen Ausweisersatz besitzt und sie
+gegenüber der zuständigen Ausländerbehörde in dieses Verfahren
+eingewilligt hat. Ein Versand nach Satz 1 ist ausgeschlossen, wenn
+keine zustellfähige inländische Meldeadresse vorhanden ist. Der
+Zusteller hat vor der Übergabe die Identität der antragstellenden
+Person durch Vorlage eines der in Satz 1 genannten Dokumente zu
+überprüfen. Der Hersteller unterrichtet die Ausländerbehörde über die
+erfolgte Übergabe des elektronischen Aufenthaltstitels an den Inhaber
+des elektronischen Aufenthaltstitels. Ein Versand des elektronischen
+Aufenthaltstitels als Ausweisersatz ist ausgeschlossen.
+
+(3) Die antragstellende Person soll bei einem Verfahren nach Absatz 2
+der zuständigen Ausländerbehörde eine E-Mail-Adresse mitteilen, sofern
+eine solche der Ausländerbehörde noch nicht vorliegt. Die
+Ausländerbehörde übermittelt diese E-Mail-Adresse an den Hersteller,
+damit dieser die E-Mail-Adresse dem Zusteller übermittelt. Der
+Zusteller kündigt in diesem Fall der antragstellenden Person den
+Zeitraum der Übergabe per E-Mail an die hinterlegte E-Mail-Adresse an.
+Die Ankündigung darf ausschließlich die Anrede, den Hinweis auf die
+bevorstehende Zustellung des elektronischen Aufenthaltstitels, den
+voraussichtlichen Zustellzeitpunkt sowie die Modalitäten der
+Zustellung nach Absatz 2 Satz 3 enthalten. Die E-Mail-Adresse darf von
+der Ausländerbehörde, dem Hersteller sowie dem Zusteller nicht für
+andere als die genannten Zwecke verwendet werden und ist bei der
+Ausländerbehörde, beim Hersteller und beim Zusteller nach Übergabe des
+elektronischen Aufenthaltstitels und des Sperrkennworts an die
+antragstellende Person unverzüglich zu löschen, sofern sie
+ausschließlich für das Verfahren nach Absatz 2 gespeichert wurde.
+Erfolgt eine Übergabe nicht, so findet Satz 5 mit der Maßgabe
+Anwendung, dass der Hersteller und der Zusteller die E-Mail-Adresse
+unverzüglich nach der Hinterlegung des elektronischen
+Aufenthaltstitels bei der zuständigen Ausländerbehörde, die
+Ausländerbehörde diese unverzüglich nach der Ausgabe des
+elektronischen Aufenthaltstitels an die antragstellende Person zu
+löschen haben.
 
 
 #### § 61 Sicherheitsstandard, Ausstellungstechnik
@@ -3802,14 +4163,42 @@ Erfüllung dieser Pflichten nicht mehr erforderlich sind.
 ##### § 61h Anwendung der Personalausweisverordnung
 
 (1) Hinsichtlich des elektronischen Identitätsnachweises gemäß § 78
-Absatz 5 des Aufenthaltsgesetzes sind die §§ 1, 2 mit Ausnahme von
-Satz 1 Nummer 2 Buchstabe e und f, die §§ 3 und 4, 5 Absatz 2, 3 und 4
-Satz 1 bis 4, die §§ 10, 13 bis 17, 18 Absatz 1, 2 und 4, § 20 Absatz
-1, 3 und 4 Satz 1, die §§ 21 bis 25 Absatz 1, 2 Satz 1, Absatz 3, die
-§§ 25a und 26 Absatz 1 und 3 sowie die §§ 26a bis 36a der
-Personalausweisverordnung mit der Maßgabe entsprechend anzuwenden,
-dass die Ausländerbehörde an die Stelle der Personalausweisbehörde
-tritt.
+Absatz 5 des Aufenthaltsgesetzes sowie hinsichtlich der technischen
+Vorgaben für das Verfahren zur sicheren Übermittlung des Lichtbilds
+gemäß § 60 Absatz 2 sind die folgenden Regelungen unter der Maßgabe
+entsprechend anzuwenden, dass die Ausländerbehörde an die Stelle der
+Personalausweisbehörde tritt:
+
+1.  §§ 1, 2 mit Ausnahme von Satz 1 Nummer 2 Buchstabe e und f der
+    Personalausweisverordnung,
+
+
+2.  §§ 3, 4 und 5 Absatz 1 Satz 2, Absatz 2, 3, 4 Satz 1 bis 5 und Absatz
+    7 der Personalausweisverordnung,
+
+
+3.  §§ 5a, 5b und 5c Absatz 1, 2, 3, 4 und 5 Satz 1 und 2, §§ 5d und 5e
+    Absatz 1 der Personalausweisverordnung,
+
+
+4.  §§ 10, 13 bis 16, § 17 Absatz 1, 2 Satz 2 und 3 sowie Absatz 3, § 18
+    Absatz 5 der Personalausweisverordnung,
+
+
+5.  § 20 Absatz 1, 3 und 4 Satz 1 der Personalausweisverordnung,
+
+
+6.  §§ 21 bis 25 Absatz 1, 2 Satz 1 und Absatz 3 der
+    Personalausweisverordnung,
+
+
+7.  §§ 25a und 26 Absatz 1 und 3 der Personalausweisverordnung sowie
+
+
+8.  §§ 26a bis 36a der Personalausweisverordnung.
+
+
+
 
 (2) Die Nutzung des elektronischen Identitätsnachweises ist
 ausgeschlossen, wenn die Identität des Ausländers durch die
@@ -3825,7 +4214,12 @@ Ausländerbehörde nicht zweifelsfrei festgestellt ist.
 Die Ausländerbehörden führen zwei Dateisysteme unter den Bezeichnungen
 "Ausländerdatei A" und "Ausländerdatei B". Die Pflicht zur Führung der
 Ausländerdatei A entfällt, sofern die Speicherung der Daten im
-Ausländerzentralregister erfolgt.
+Ausländerzentralregister erfolgt. Die Daten sollen ausschließlich im
+Ausländerzentralregister gespeichert werden, soweit die Speicherung
+des Datums im Ausländerzentralregister vorgesehen ist; eine
+jederzeitige, wechselseitige und wirksame Übertragung in die
+beteiligten Register und IT-Fachverfahren, sowie die Kommunikation mit
+den Datenübermittlungsstandards nach § 76a ist sicherzustellen.
 
 
 ##### § 63 Ausländerdatei A
@@ -3958,7 +4352,7 @@ werden:
 6.  freiwillig gemachte Angaben zur Religionszugehörigkeit,
 
 
-7.  Lichtbild,
+7.  Lichtbild und die lichtbildaufnehmende Stelle,
 
 
 8.  Visadatei-Nummer,
@@ -4089,10 +4483,13 @@ werden:
 ##### § 66 Dateisystem über Passersatzpapiere
 
 Über die ausgestellten Reiseausweise für Ausländer, Reiseausweise für
-Flüchtlinge, Reiseausweise für Staatenlose und Notreiseausweise hat
-die ausstellende Behörde oder Dienststelle ein Dateisystem zu führen.
-Die Vorschriften über das Passregister für deutsche Pässe gelten
-entsprechend.
+Flüchtlinge, Reiseausweise für Staatenlose, Notreiseausweise und EU-
+Rückkehrausweise hat die ausstellende Behörde oder Dienststelle ein
+Dateisystem zu führen. Die Vorschriften über das Passregister für
+deutsche Pässe gelten für die in Satz 1 genannten Dokumente mit
+Ausnahme des EU-Rückkehrausweises entsprechend. Die personenbezogenen
+Daten eines EU-Rückkehrausweises werden nur so lange wie erforderlich,
+maximal aber für 180 Tage im Dateisystem gespeichert.
 
 
 ##### § 67 Ausländerdatei B
@@ -4669,7 +5066,7 @@ der Ausstellung einer Bescheinigung nach § 15 Abs. 1 oder 2 des
 Bundesvertriebenengesetzes mit.
 
 
-##### § 74 Mitteilungen der Justizbehörden
+##### § 74 Mitteilungen der Justizvollzugsbehörden und der Maßregelvollzugseinrichtungen
 
 (1) Die Strafvollstreckungsbehörden teilen den Ausländerbehörden mit
 
@@ -4681,16 +5078,28 @@ Bundesvertriebenengesetzes mit.
 
 
 
-(2) Die Strafvollzugsbehörden teilen den Ausländerbehörden mit
+(2) Die Justizvollzugsbehörden teilen den Ausländerbehörden mit
 
-1.  den Antritt der Auslieferungs-, Untersuchungs- und Strafhaft,
+1.  den Antritt der Auslieferungs-, Untersuchungs- und Strafhaft und den
+    Beginn der Unterbringung in einem psychiatrischen Krankenhaus nach §
+    63 des Strafgesetzbuches, der Unterbringung in einer
+    Entziehungsanstalt nach § 64 des Strafgesetzbuches und der
+    Unterbringung in der Sicherungsverwahrung nach § 66 des
+    Strafgesetzbuches,
 
 
 2.  die Verlegung in eine andere Justizvollzugsanstalt,
 
 
-3.  die vorgesehenen und festgesetzten Termine für die Entlassung aus der
-    Haft.
+3.  den Zeitpunkt der hälftigen Vollstreckung einer Freiheitsstrafe,
+
+
+4.  die vorgesehenen und festgesetzten Termine für die Entlassung aus der
+    Haft und das Ende der Unterbringung in einem psychiatrischen
+    Krankenhaus nach § 63 des Strafgesetzbuches, der Unterbringung in
+    einer Entziehungsanstalt nach § 64 des Strafgesetzbuches und der
+    Unterbringung in der Sicherungsverwahrung nach § 66 des
+    Strafgesetzbuches.
 
 
 
@@ -4750,70 +5159,84 @@ Gleichwertigkeit ist durch den Verantwortlichen zu dokumentieren.
 
 ##### § 76b Technische Richtlinien des Bundesamtes für Sicherheit in der Informationstechnik
 
-(1) Die nach § 49 Absatz 6, 8 und 9 des Aufenthaltsgesetzes
-zuständigen Behörden haben das Folgende dem Stand der Technik
-entsprechend zu gewährleisten:
+(1) Die nach § 49 des Aufenthaltsgesetzes zuständigen Behörden haben
+die Einhaltung des Stands der Technik zu gewährleisten bei
 
-1.  die Überprüfung des Standards und der Aktualität des bereits im
-    Ausländerzentralregister gespeicherten Lichtbildes,
+1.  der Erfassung des Lichtbildes und der Fingerabdrücke,
 
 
-2.  die Erfassung und Verarbeitung der von ihnen im Rahmen einer
-    erkennungsdienstlichen Maßnahme zu erhebenden Fingerabdruckdaten und
-    des in den Ankunftsnachweis zu übernehmenden Lichtbildes.
+2.  der Qualitätssicherung des Lichtbildes und der Fingerabdrücke,
 
 
+3.  der maschinellen Echtheitsprüfung von ausländischen Ausweis- oder
+    Identifikationsdokumenten sowie
 
 
-(2) Die Einhaltung des Stands der Technik wird vermutet, wenn nach der
-Technischen Richtlinie BSI-TR-03121 – Biometrics for Public Sector
-Applications – des Bundesamtes für Sicherheit in der
-Informationstechnik in der jeweils geltenden Fassung verfahren wurde,
-die im Bundesanzeiger bekannt gemacht worden ist.
-
-
-##### § 76c Qualitätssicherung des Lichtbildes und der Fingerabdruckdaten
-
-(1) Die nach § 49 Absatz 6, 8 und 9 des Aufenthaltsgesetzes
-zuständigen Behörden stellen durch geeignete technische und
-organisatorische Maßnahmen die erforderliche Qualität der Erfassung
-und Verarbeitung des Lichtbildes und der Fingerabdruckdaten,
-insbesondere die Einhaltung der in § 76b genannten technischen
-Anforderungen, sicher. Dazu haben sie das Lichtbild und die
-Fingerabdruckdaten mit einer zertifizierten
-Qualitätssicherungssoftware zu prüfen. Darüber hinaus hat auch die
-Erfassung der Fingerabdruckdaten mit zertifizierter Hardware zu
-erfolgen. Soweit die Technischen Richtlinien eine Zertifizierung der
-zur Erfassung und Überprüfungen erforderlichen Komponenten vorsieht,
-gilt dieses Erfordernis für folgende Systemkomponenten:
-
-1.  Erfassungsstation zur Fertigung des Lichtbildes,
-
-
-2.  Fingerabdruckscanner,
-
-
-3.  Software zur Erfassung und Qualitätssicherung des Lichtbildes und
-
-
-4.  Software zur Erfassung und Qualitätssicherung der Fingerabdruckdaten.
+4.  der Erhebung von anonymisierten Einzeldaten zur Sicherung des
+    Sicherheits- und Qualitätsniveaus.
 
 
 
-Bis zum 30. Juni 2020 ist die Nutzung nicht zertifizierter Geräte zur
-Erfassung und Überprüfung des Standards und der Aktualität des
-Lichtbildes und der Fingerabdruckdaten zulässig.
 
-(2) Das Bundesverwaltungsamt erstellt eine Qualitätsstatistik mit
-anonymisierten Qualitätswerten zu Lichtbildern, die von den nach § 49
-Absatz 6, 8 und 9 des Aufenthaltsgesetzes zuständigen Behörden erhoben
-und übermittelt werden.
+(2) Die Einhaltung des Stands der Technik wird vermutet, wenn die
+Prozesse nach den in Anlage E genannten Technischen Richtlinien des
+Bundesamtes für Sicherheit in der Informationstechnik in der jeweils
+zuletzt im Bundesanzeiger veröffentlichten Fassung durchgeführt
+wurden.
 
-(3) Das Bundesverwaltungsamt stellt die Ergebnisse der
-Qualitätsstatistik und auf Ersuchen die in der Statistik erfassten
-anonymisierten Einzeldaten dem Bundesministerium des Innern, für Bau
-und Heimat, dem Bundesamt für Sicherheit in der Informationstechnik
-und dem Bundeskriminalamt zur Verfügung.
+(3) Sofern die jeweils zuletzt im Bundesanzeiger veröffentlichte
+Technische Richtlinie eine Zertifizierung beim Bundesamt für
+Sicherheit in der Informationstechnik vorsieht, ist diese für folgende
+Systemkomponenten erforderlich:
+
+1.  für Hardware zur Erfassung des Lichtbildes,
+
+
+2.  für Hardware zur Erfassung der Fingerabdrücke,
+
+
+3.  für Software zur Erfassung und Qualitätssicherung des Lichtbildes,
+
+
+4.  für Software zur Erfassung und Qualitätssicherung der
+    Fingerabdruckdaten,
+
+
+5.  für Hardware zur Prüfung von Dokumenten und
+
+
+6.  für Software zur Prüfung von Dokumenten.
+
+
+
+In Sonderlagen kann im Einvernehmen mit dem Bundesamt für Sicherheit
+in der Informationstechnik übergangsweise vom Verfahren nach den
+Absätzen 2 und 3 abgewichen werden.
+
+
+##### § 76c Nationale Sicherheits- und Qualitätsstatistik
+
+(1) Das Bundesamt für Sicherheit in der Informationstechnik führt eine
+nationale Sicherheits- und Qualitätsstatistik zu den nach § 49 des
+Aufenthaltsgesetzes erhobenen biometrischen Daten und zu den
+durchgeführten maschinellen Dokumentenprüfungen nach dem Stand der
+Technik. Das Bundesverwaltungsamt ermöglicht dem Bundesamt für
+Sicherheit in der Informationstechnik den Zugang zu anonymisierten
+Einzeldaten zum Zwecke der Sicherheits- und Qualitätsstatistik. Das
+Bundesamt für Sicherheit in der Informationstechnik stellt die in Satz
+1 genannten Statistiken dem Bundesministerium des Innern und für
+Heimat, dem Bundesverwaltungsamt, der Bundespolizei, dem
+Bundeskriminalamt und dem Bundesamt für Migration und Flüchtlinge
+sowie den Ländern ganz oder teilweise zur Verfügung, sofern sie zur
+Aufgabenerfüllung benötigt werden.
+
+(2) Für die Statistiken des Bundesamtes für Sicherheit in der
+Informationstechnik gelten die Grundsätze der Neutralität und
+Objektivität. Die Vorschriften der Geheimhaltung nach § 16 des
+Bundesstatistikgesetzes gelten entsprechend. Das Statistikgeheimnis
+ist durch technische und organisatorische Maßnahmen zu wahren, die die
+Trennung zwischen statistischen und nichtstatistischen Aufgaben
+gewährleisten.
 
 
 ## Kapitel 6 - Ordnungswidrigkeiten
@@ -6226,3 +6649,51 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (Fundstelle: BGBl. I 2021, 3703)
 
 ![bgbl1_2021_j3682-1_0400.jpg](bgbl1_2021_j3682-1_0400.jpg)
+(zu § 13a)
+
+### Anlage D18 Muster Trägervordruck EU-Rückkehrausweis
+
+(Fundstelle: BGBl. 2025 I Nr. 260, S. 4)
+
+*    *   EU-Rückkehrausweis
+
+    *   Vorderseite
+
+
+*    *        ![bgbl1_2025_j02600_0010.jpg](bgbl1_2025_j02600_0010.jpg)
+
+*    *   EU-Rückkehrausweis
+
+    *   Rückseite
+
+
+*    *        ![bgbl1_2025_j02600_0020.jpg](bgbl1_2025_j02600_0020.jpg)
+
+
+
+   (zu § 13a)
+
+### Anlage D19 Muster Etikett EU-Rückkehrausweis
+
+(Fundstelle: BGBl. 2025 I Nr. 260, S. 5)
+
+![bgbl1_2025_j02600_0030.jpg](bgbl1_2025_j02600_0030.jpg)
+
+### Anlage E Technische Richtlinien des Bundesamtes für Sicherheit in der Informationstechnik
+
+(Fundstelle: BGBl. 2024 I Nr. 152, S. 24)
+
+
+1.  BSI TR-03121 – Biometrics for Public Sector Applications
+
+
+2.  BSI-TR 03135 – Machine Authentication of MRTDs for Public Sector
+    Applications
+
+
+3.  BSI-TR 03156 – Hoheitliches Identitätsmanagement in Verbindung mit EU-
+    Informationssystemen
+
+
+
+

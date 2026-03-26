@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2021, 154
 
+Geändert durch
+:   Art. 65 G v. 23.10.2024 I Nr. 323
+
 
 ## § 1 Zweck
 
@@ -74,7 +77,11 @@ Für dieses Gesetz gelten die folgenden Begriffsbestimmungen:
 
 5.  erreichbare Altersvorsorgeansprüche: die Altersvorsorgeansprüche bei
     Beginn des Leistungsbezugs oder bei Ablauf des Vertrages unter der
-    Annahme, dass bis dahin weitere Ansprüche erworben werden,
+    Annahme, dass bis dahin weitere Ansprüche erworben werden; ist ein
+    weiterer Erwerb von Ansprüchen insbesondere aus vertraglichen oder
+    versicherungsrechtlichen Gründen nicht vorgesehen oder zu erwarten,
+    entsprechen die erreichbaren Altersvorsorgeansprüche den erreichten
+    Altersvorsorgeansprüchen,
 
 
 6.  garantierte Werte: die erreichten oder erreichbaren
@@ -132,6 +139,10 @@ die Altersvorsorgeansprüche aus den einzelnen Altersvorsorgeprodukten
 der jeweiligen Vorsorgeeinrichtungen. Die Zentrale Stelle für die
 Digitale Rentenübersicht erteilt Vorsorgeeinrichtungen Auskunft über
 die Anwendung dieses Gesetzes.
+
+(5) Die Zentrale Stelle für die Digitale Rentenübersicht hat die
+Nutzung der Digitalen Rentenübersicht für statistische Zwecke zu
+erfassen und auszuwerten.
 
 
 ## § 4 Grundsätze der Digitalen Rentenübersicht
@@ -282,14 +293,19 @@ Digitale Rentenübersicht entstehen, werden diesen nicht erstattet.
 ## § 8 Gestaltung der Zentralen Stelle für die Digitale Rentenübersicht
 
 (1) Die Zentrale Stelle für die Digitale Rentenübersicht wird bei der
-Deutschen Rentenversicherung Bund eingerichtet.
+Deutschen Rentenversicherung Bund eingerichtet. Damit erhält die
+Deutsche Rentenversicherung Bund die Aufgabe, das Portal zu betreiben,
+die Digitale Rentenübersicht den Bürgerinnen und Bürgern zur Verfügung
+zu stellen und diese weiterzuentwickeln.
 
-(2) Der Bund erstattet der Deutschen Rentenversicherung Bund die
-Verwaltungsaufwendungen für die Erfüllung der Aufgaben nach diesem
-Gesetz, soweit sie erforderlich sind. Das Nähere, insbesondere die
-Höhe der Verwaltungskostenerstattung, wird durch
-Verwaltungsvereinbarung zwischen dem Bundesministerium für Arbeit und
-Soziales und der Deutschen Rentenversicherung Bund geregelt.
+(2) Der Bund beteiligt sich an den Verwaltungsaufwendungen der
+Deutschen Rentenversicherung Bund für die Erfüllung der Aufgaben nach
+diesem Gesetz in Höhe von bis zu 6,8 Millionen Euro im Jahr 2024, in
+Höhe von bis zu 7,3 Millionen Euro im Jahr 2025, in Höhe von bis zu
+7,9 Millionen Euro im Jahr 2026 und in Höhe von bis zu 8,6 Millionen
+Euro jährlich ab dem Jahr 2027. Etwaige Ausgleichsansprüche, die ab
+dem Jahr 2024 für davor liegende Zeiträume vorliegen, gelten mit der
+Beteiligung nach Satz 1 als abgegolten.
 
 (3) Die Zentrale Stelle für die Digitale Rentenübersicht steht unter
 Rechtsaufsicht des Bundesministeriums für Arbeit und Soziales. Das
@@ -382,7 +398,12 @@ Rechtsverordnung ohne Zustimmung des Bundesrates Näheres zu regeln
 
 
 2.  zum Verfahren für die Authentifizierung der Nutzenden nach § 12 Absatz
-    1\.
+    1,
+
+
+3.  zu Inhalt, Art und Form der statistischen Erfassung und Auswertung von
+    Daten nach § 3 Absatz 5 sowie zu deren Übermittlung an das
+    Bundesministerium für Arbeit und Soziales.
 
 
 

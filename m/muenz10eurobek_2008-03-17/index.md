@@ -50,12 +50,8 @@ Württemberg, Prägestätte Stuttgart.
 Der glatte Münzrand enthält in vertiefter Prägung die Inschrift (Zitat
 von Max Planck):
 
-
-*    *   „DEM ANWENDEN MUSS
-        DAS ERKENNEN VORAUSGEHEN*                       “.
-
-
-
+„DEM ANWENDEN MUSS
+DAS ERKENNEN VORAUSGEHEN*             “.
 
 Der Entwurf der Münze stammt von Herrn Michael Otto, Rodenbach.
 

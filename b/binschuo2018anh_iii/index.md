@@ -17,8 +17,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2018, 1398, 1459
 
-Geändert durch
-:   Art. 1 Nr. 16 V v. 5.1.2022 I 2
+Zuletzt geändert durch
+:   Art. 1 Nr. 16 V v. 14.10.2025 I Nr. 242
 
 
 ## Inhaltsverzeichnis
@@ -704,38 +704,24 @@ mindestens 60 m lang sein.
 4.  Kompasse auf Magnet-Basis und Steuerkurstransmitter auf Magnet-Basis
     müssen
 
-    a)  vor dem Einbau von der zuständigen Behörde oder von einer von ihr für
-        die Prüfung der jeweiligen Anlage anerkannten Einrichtung geprüft
-        sein; dies ist nicht erforderlich für Kompasse oder
-        Steuerkurstransmitter, die nach Abschnitt D Nummer 10 der Anlage zum
-        Schiffssicherheitsgesetz zugelassen sind,
+    a)  vor dem Einbau von der zuständigen Behörde geprüft sein; dies ist
+        nicht erforderlich für Kompasse oder Steuerkurstransmitter, die nach
+        Abschnitt D Nummer 10 der Anlage zum Schiffssicherheitsgesetz
+        zugelassen sind,
 
 
     b)  entsprechend den technischen Bestimmungen nach Anlage 1 Teil 2 an Bord
-        eingebaut sein,
+        eingebaut sein und
 
 
-    c)  vor Inbetriebnahme sowie spätestens bei einer Verlängerung der
-        Fahrtauglichkeitsbescheinigung von einer von der zuständigen Behörde
-        aufgrund eines Sachkundenachweises anerkannten Person (Regulierer)
-        reguliert sein.
+    c)  vor Inbetriebnahme sowie spätestens bei jeder Verlängerung der
+        Fahrttauglichkeitsbescheinigung reguliert werden; der Nachweis der
+        Regulierung ist in Form einer Deviationstabelle mitzuführen.
 
 
 
-    Der Regulierer prüft gleichzeitig den ordnungsgemäßen Einbau nach Satz
-    1 Buchstabe b. Er stellt eine Bescheinigung über den ordnungsgemäßen
-    Einbau und die durchgeführte Regulierung, aus der auch das Datum der
-    Regulierung hervorgeht, aus. Die aktuelle Bescheinigung ist an Bord
-    mitzuführen. Kann ein Regulierer den Kompass auf Magnetbasis oder
-    Steuerkurstransmitter auf Magnetbasis nicht so regulieren, dass die
-    größte Abweichung nicht mehr als 6° beträgt, so ist die Aufstellung
-    des Kompasses auf Magnetbasis oder Steuerkurstransmitter auf
-    Magnetbasis von der zuständigen Behörde überprüfen zu lassen.
-
-
-5.  Die Regulierung und Kompensierung durch eine anerkannte Person
-    (Regulierer) eines Mitgliedstaates der Internationalen
-    Seeschifffahrts-Organisation (IMO) wird als gleichwertig anerkannt.
+    Die maximale Deviation darf nach der Regulierung nicht mehr als 6 Grad
+    betragen.
 
 
 
@@ -960,9 +946,10 @@ Der Freibord muss mindestens 0,50 m betragen.
 #### § 10.04 Verschlusszustand
 
 
-1.  Abweichend von Artikel 4.05 ES-TRIN ist die Ebene der größten
-    Einsenkung unter der Voraussetzung festzusetzen, dass die Laderäume
-    mindestens sprühwasser- und wetterdicht geschlossen werden können.
+1.  Abweichend von Artikel 4.03 Nummer 11 ES-TRIN ist die Ebene der
+    größten Einsenkung unter der Voraussetzung festzusetzen, dass die
+    Laderäume mindestens sprühwasser- und wetterdicht geschlossen werden
+    können.
 
 
 2.  Die Festsetzung der höchstzulässigen Einsenkung für die Fahrt mit
@@ -1221,7 +1208,7 @@ der jeweiligen Fahrtauglichkeitsbescheinigung zu bescheinigen.
 
 
 
-#### Anlage 1 Anforderungen an Kompasse und Steuerkurstransmitter
+#### Anlage Anforderungen an Kompasse und Steuerkurstransmitter
 
 (Fundstelle: BGBl. I 2018, 1468 - 1471)
 

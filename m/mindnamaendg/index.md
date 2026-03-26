@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl II: 1997, 1406
 
 Zuletzt geändert durch
-:   Art. 32 V v. 19.6.2020 I 1328
+:   Art. 3 G v. 11.6.2024 I Nr. 185
 
 
 ## § 1
@@ -49,7 +49,8 @@ oder gewöhnlichen Aufenthalt hat, ist für die Entgegennahme der
 Erklärung zuständig. Die Landesregierungen werden ermächtigt, durch
 Rechtsverordnung die Zuständigkeit einem anderen Standesamt zu
 übertragen. Ergibt sich danach keine Zuständigkeit, ist das Standesamt
-I in Berlin zuständig.
+I in Berlin zuständig. Der Vorname eines Kindes kann sogleich in der
+Sprache der nationalen Minderheit oder Volksgruppe bestimmt werden.
 
 (2) Name im Sinne dieses Gesetzes ist der Geburts- oder Vorname, den
 eine Person nach den Vorschriften des Bürgerlichen Gesetzbuchs sowie
@@ -62,6 +63,10 @@ bleiben für den nach Absatz 1 angenommenen Namen maßgebend.
 beurkundet werden, wenn sie nicht bei der Eheschließung gegenüber
 einem deutschen Standesamt abgegeben werden. Sie können auch von den
 Standesbeamten beglaubigt oder beurkundet werden.
+
+(5) Die Erklärungen nach Absatz 1 können gegenüber dem Standesamt
+widerrufen werden. Absatz 4 gilt entsprechend. Im Fall des Widerrufs
+ist eine erneute Erklärung nach Absatz 1 nicht zulässig.
 
 
 ## § 2
@@ -79,12 +84,4 @@ Vorschriften des Bürgerlichen Gesetzbuchs.
 
 Für die Entgegennahme der Erklärungen und ihre Beglaubigung oder
 Beurkundung werden Gebühren nicht erhoben.
-
-
-## § 4
-
-Das Bundesministerium des Innern, für Bau und Heimat wird ermächtigt,
-im Benehmen mit dem Bundesministerium der Justiz und für
-Verbraucherschutz und mit Zustimmung des Bundesrates zur Durchführung
-dieses Gesetzes Verwaltungsvorschriften zu erlassen.
 

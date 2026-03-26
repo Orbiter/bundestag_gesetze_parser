@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2021, 2874
 
 Zuletzt geändert durch
-:   Art. 3 V v. 6.7.2022 I 1102
+:   Art. 9 V v. 24.6.2024 I Nr. 215, Nr. 350
 
 
 ## Eingangsformel
@@ -56,12 +56,14 @@ erhoben, die aufgrund der folgenden Vorschriften erbracht werden:
         Lebensmittelspezialitätenverordnung,
 
 
-    b)  der Verordnung (EU) Nr. 1151/2012 des Europäischen Parlaments und des
-        Rates vom 21. November 2012 über Qualitätsregelungen für
-        Agrarerzeugnisse und Lebensmittel (ABl. L 343 vom 14.12.2012, S. 1),
-        die durch die Verordnung (EU) 2017/625 (ABl. L 95 vom 7.4.2017, S. 1;
-        L 137 vom 24.5.2017, S. 40; L 322 vom 18.12.2018, S. 85) geändert
-        worden ist, in der jeweils geltenden Fassung,
+    b)  der Verordnung (EU) 2024/1143 des Europäischen Parlaments und des
+        Rates vom 11. April 2024 über geografische Angaben für Wein,
+        Spirituosen und landwirtschaftliche Erzeugnisse und über garantiert
+        traditionelle Spezialitäten und fakultative Qualitätsangaben für
+        landwirtschaftliche Erzeugnisse sowie zur Änderung der Verordnungen
+        (EU) Nr. 1308/2013, (EU) 2019/787 und (EU) 2019/1753 und zur Aufhebung
+        der Verordnung (EU) Nr. 1151/2012 (ABl. L, 2024/1143, 23.4.2024) in
+        der jeweils geltenden Fassung,
 
 
     c)  der Delegierten Verordnung (EU) Nr. 664/2014 der Kommission vom 18.
@@ -445,6 +447,15 @@ und Auslagen nach Maßgabe der neuen gebührenrechtlichen Regelungen
 erhoben werden, soweit sich die gebührenerhebende Behörde unter
 Hinweis auf eine bevorstehende Änderung dieser Verordnung eine solche
 Gebührenfestsetzung ausdrücklich vorbehalten hat.
+
+(3) Soweit nach den in den Artikeln 90 und 91 der Verordnung (EU)
+2024/1143 enthaltenen Übergangsbestimmungen Vorschriften der
+Verordnung (EU) Nr. 1151/2012 des Europäischen Parlaments und des
+Rates vom 21. November 2012 über Qualitätsregelungen für
+Agrarerzeugnisse und Lebensmittel (ABl. L 343 vom 14.12.2012, S. 1) in
+ihrer jeweils in Bezug genommenen Fassung weiterhin Anwendung finden,
+ist § 1 Nummer 3 Buchstabe b in der bis zum 27. Juni 2024 geltenden
+Fassung weiter anzuwenden.
 
 
 ### § 8 Inkrafttreten

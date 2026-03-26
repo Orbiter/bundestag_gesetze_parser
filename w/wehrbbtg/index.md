@@ -300,20 +300,7 @@ anzuwenden, daß das Amtsgehalt und der Ortszuschlag 75 vom Hundert des
 Amtsgehaltes und des Ortszuschlages eines Bundesministers betragen.
 Die Amtsbezüge werden monatlich im voraus gezahlt.
 
-(1a) Zur Abmilderung der Folgen der gestiegenen Verbraucherpreise
-werden dem oder der Wehrbeauftragten in entsprechender Anwendung des
-§ 14 Absatz 4 bis 8 des Bundesbesoldungsgesetzes die folgenden
-Sonderzahlungen gewährt:
-
-1.  für den Monat Juni 2023 eine einmalige Sonderzahlung in Höhe von 1 240
-    Euro sowie
-
-
-2.  für die Monate Juli 2023 bis Februar 2024 eine monatliche
-    Sonderzahlung in Höhe von jeweils 220 Euro.
-
-
-
+(1a) (weggefallen)
 
 (2) Im übrigen werden § 11 Abs. 2 und 4, § 12 Abs. 6 und die §§ 13 bis
 20 und 21a des Bundesministergesetzes entsprechend angewandt mit der

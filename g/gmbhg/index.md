@@ -16,7 +16,7 @@ Fundstelle
 :   RGBl: 1892, 477
 
 Zuletzt geändert durch
-:   Art. 9 G v. 22.2.2023 I Nr. 51
+:   Art. 21 G v. 23.10.2024 I Nr. 323
 
 
 ## Abschnitt 1 - Errichtung der Gesellschaft
@@ -667,9 +667,9 @@ Betrags den Geschäftsanteil des ausgeschlossenen Gesellschafters.
 
 Ist die Zahlung des rückständigen Betrags von Rechtsvorgängern nicht
 zu erlangen, so kann die Gesellschaft den Geschäftsanteil im Wege
-öffentlicher Versteigerung verkaufen lassen. Eine andere Art des
-Verkaufs ist nur mit Zustimmung des ausgeschlossenen Gesellschafters
-zulässig.
+öffentlicher Versteigerung verkaufen lassen. Die Versteigerung kann
+auch durch einen Notar erfolgen. Eine andere Art des Verkaufs ist nur
+mit Zustimmung des ausgeschlossenen Gesellschafters zulässig.
 
 
 ### § 24 Aufbringung von Fehlbeträgen
@@ -1302,8 +1302,8 @@ abgehalten werden, wenn sämtliche Gesellschafter sich damit in
 Textform einverstanden erklären.
 
 (2) Der Abhaltung einer Versammlung bedarf es nicht, wenn sämtliche
-Gesellschafter in Textform mit der zu treffenden Bestimmung oder mit
-der schriftlichen Abgabe der Stimmen sich einverstanden erklären.
+Gesellschafter sich in Textform mit der zu treffenden Bestimmung oder
+mit der Abgabe der Stimmen in Textform einverstanden erklären.
 
 (3) Befinden sich alle Geschäftsanteile der Gesellschaft in der Hand
 eines Gesellschafters oder daneben in der Hand der Gesellschaft, so
@@ -2166,9 +2166,8 @@ ihre Willenserklärungen kundzugeben und für die Gesellschaft zu
 zeichnen. Ist nichts darüber bestimmt, so muß die Erklärung und
 Zeichnung durch sämtliche Liquidatoren erfolgen.
 
-(2) Die Zeichnungen geschehen in der Weise, daß die Liquidatoren der
-bisherigen, nunmehr als Liquidationsfirma zu bezeichnenden Firma ihre
-Namensunterschrift beifügen.
+(2) Zeichnen Liquidatoren für die Gesellschaft, ist der Firma ein auf
+die Liquidation hinweisender Zusatz hinzuzufügen.
 
 
 ### § 69 Rechtsverhältnisse von Gesellschaft und Gesellschaftern

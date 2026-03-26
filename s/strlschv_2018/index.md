@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2018, 2034, 2036 (2021 I 5261)
 
 Zuletzt geändert durch
-:   Art. 2 V v. 17.4.2024 I Nr. 132
+:   Art. 10 G v. 23.10.2024 I Nr. 324
 
 Stand: Ersetzt V 751-1-8 v. 20.7.2001 I 1714; 2002 I 1459 (StrlSchV 2001)
 Diese Verordnung dient der Umsetzung der Richtlinie 2013/59/Euratom
@@ -5920,6 +5920,13 @@ durch das Forschungsvorhaben bedingte effektive Dosis für eine im
 Sinne des Forschungsvorhabens gesunde Person den Grenzwert von 20
 Millisievert nicht überschreitet.
 
+(2a) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass die
+Summe der studienbedingten effektiven Dosen durch nach § 32 Absatz 1
+Satz 1 Nummer 1 Buchstabe b des Strahlenschutzgesetzes angezeigte
+Anwendungen an minderjährigen, kranken Menschen, die im Rahmen eines
+Forschungsvorhabens erfolgen, den Grenzwert von 6 Millisievert nicht
+überschreitet.
+
 (3) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass von
 der Anwendung eine im Sinne des Forschungsvorhabens gesunde Person
 ausgeschlossen wird, bei der in den vergangenen zehn Jahren eine
@@ -9608,8 +9615,6 @@ der Oberflächenkontamination
     *   15
 
     *
-
-
 
 *    *   H-3
 

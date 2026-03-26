@@ -17,12 +17,11 @@ Fundstelle
 :   BGBl I: 2016, 1782
 
 Stand: Ersetzt V 7823-7-8 v. 20.7.2015 BAnz AT 20.07.2015 V1, BAnz AT 23.07.2015 V1 (PflSchGetreidesaatgAnwendV)
-    Notifiziert nach der Richtlinie (EU) 2015/1535 des Europäischen
+[^F795004_01_BJNR178200016]:     Notifiziert nach der Richtlinie (EU) 2015/1535 des Europäischen
     Parlaments und des Rates vom 9. September 2015 über ein
     Informationsverfahren auf dem Gebiet der technischen Vorschriften und
     der Vorschriften für die Dienste der Informationsgesellschaft (ABl. L
     241 vom 17. 9. 2015, S. 1).
-[^F795004_01_BJNR178200016]: 
 
 
 ## Eingangsformel

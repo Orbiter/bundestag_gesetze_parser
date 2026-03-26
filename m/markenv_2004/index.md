@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2004, 872
 
 Zuletzt geändert durch
-:   Art. 6 G v. 10.8.2021 I 3490
+:   Art. 7 G v. 11.1.2026 I Nr. 9
 
 
 ## Eingangsformel
@@ -462,8 +462,8 @@ eingegangen.
 
 (1) Beruft sich der Anmelder auf eine im Ursprungsland eingetragene
 Marke nach Artikel 6
-quinquies der Pariser Verbandsübereinkunft, so kann die entsprechende
-Erklärung auch noch nach der Anmeldung abgegeben werden.
+quinquies              der Pariser Verbandsübereinkunft, so kann die
+entsprechende Erklärung auch noch nach der Anmeldung abgegeben werden.
 
 (2) Der Anmelder hat eine von der zuständigen Behörde ausgestellte
 Bescheinigung über die Eintragung im Ursprungsland vorzulegen.
@@ -1408,7 +1408,7 @@ Rechtsmittelbelehrung beigefügt sein. § 61 Abs. 2 des Markengesetzes
 ist entsprechend anzuwenden.
 
 
-## Teil 6 - Verfahren nach der Verordnung (EU) Nr. 1151/2012
+## Teil 6 - Verfahren nach der Verordnung (EU) 2024/1143
 
 
 
@@ -1419,12 +1419,16 @@ ist entsprechend anzuwenden.
 #### § 47 Eintragungsantrag
 
 (1) Der Antrag auf Eintragung einer geografischen Angabe oder einer
-Ursprungsbezeichnung nach Artikel 49 der Verordnung (EU) Nr. 1151/2012
-des Europäischen Parlaments und des Rates vom 21. November 2012 über
-Qualitätsregelungen für Agrarerzeugnisse und Lebensmittel (ABl. L 343
-vom 14.12.2012, S. 1) in ihrer jeweils geltenden Fassung muss unter
-Verwendung des vom Deutschen Patent- und Markenamt herausgegebenen
-Formblatts eingereicht werden.
+Ursprungsbezeichnung nach Artikel 9 der Verordnung (EU) 2024/1143 des
+Europäischen Parlaments und des Rates vom 11. April 2024 über
+geografische Angaben für Wein, Spirituosen und landwirtschaftliche
+Erzeugnisse und über garantiert traditionelle Spezialitäten und
+fakultative Qualitätsangaben für landwirtschaftliche Erzeugnisse sowie
+zur Änderung der Verordnungen (EU) Nr. 1308/2013, (EU) 2019/787 und
+(EU) 2019/1753 und zur Aufhebung der Verordnung (EU) Nr. 1151/2012
+(ABl. L, 2024/1143, 23.4.2024) in der jeweils geltenden Fassung muss
+unter Verwendung des vom Deutschen Patent- und Markenamt
+herausgegebenen Formblatts eingereicht werden.
 
 (2) In dem Antrag sind anzugeben:
 
@@ -1446,8 +1450,8 @@ Formblatts eingereicht werden.
 5.  die Art des Agrarerzeugnisses oder Lebensmittels,
 
 
-6.  die Spezifikation nach Artikel 7 Absatz 1 der Verordnung (EU) Nr.
-    1151/2012 gemäß Formblatt.
+6.  die Spezifikation nach Artikel 49 Absatz 1 der Verordnung (EU)
+    2024/1143 gemäß Formblatt.
 
 
 
@@ -1455,8 +1459,9 @@ Formblatts eingereicht werden.
 
 #### § 48 Veröffentlichung des Antrags
 
-(1) In der Veröffentlichung des Antrags (§ 130 Abs. 4 des
-Markengesetzes) sind mindestens anzugeben:
+(1) In der Veröffentlichung des Antrags (§ 130 Absatz 4 des
+Markengesetzes in der vor dem 16. Januar 2026 geltenden Fassung) sind
+mindestens anzugeben:
 
 1.  der Name und die Anschrift des Antragstellers,
 
@@ -1472,23 +1477,25 @@ Markengesetzes) sind mindestens anzugeben:
 4.  die Art des Agrarerzeugnisses oder Lebensmittels,
 
 
-5.  die Spezifikation nach Artikel 7 Absatz 1 der Verordnung (EU) Nr.
-    1151/2012.
+5.  die Spezifikation nach Artikel 49 Absatz 1 der Verordnung (EU)
+    2024/1143.
 
 
 
 
 (2) In der Veröffentlichung ist auf die Möglichkeit des Einspruchs
-nach § 130 Abs. 4 des Markengesetzes in Verbindung mit Artikel 49
-Absatz 3 der Verordnung (EU) Nr. 1151/2012 hinzuweisen.
+nach § 130 Absatz 4 des Markengesetzes in der vor dem 16. Januar 2026
+geltenden Fassung in Verbindung mit Artikel 10 Absatz 4 der Verordnung
+(EU) 2024/1143 hinzuweisen.
 
 
 #### § 49 Nationaler Einspruch
 
-(1) Der Einspruch nach § 130 Abs. 4 des Markengesetzes in Verbindung
-mit Artikel 49 Absatz 3 der Verordnung (EU) Nr. 1151/2012 soll unter
-Verwendung des vom Deutschen Patent- und Markenamt herausgegebenen
-Formblatts eingereicht werden.
+(1) Der Einspruch nach § 130 Absatz 4 des Markengesetzes in der vor
+dem 16. Januar 2026 geltenden Fassung in Verbindung mit Artikel 10
+Absatz 4 der Verordnung (EU) 2024/1143 soll unter Verwendung des vom
+Deutschen Patent- und Markenamt herausgegebenen Formblatts eingereicht
+werden.
 
 (2) In der Einspruchsschrift sind anzugeben:
 
@@ -1513,16 +1520,16 @@ Formblatts eingereicht werden.
 
 
 
-### Abschnitt 2 - Zwischenstaatliches Einspruchsverfahren nach § 131 des Markengesetzes
+### Abschnitt 2 - Zwischenstaatliches Einspruchsverfahren
 
 
 
 #### § 50 Einspruch
 
-(1) Der Einspruch nach § 131 des Markengesetzes in Verbindung mit
-Artikel 51 Absatz 1 Unterabsatz 2 der Verordnung (EU) Nr. 1151/2012
-soll unter Verwendung des vom Deutschen Patent- und Markenamt
-herausgegebenen Formblatts eingereicht werden.
+(1) Der Einspruch nach § 131 des Markengesetzes in der vor dem 16.
+Januar 2026 geltenden Fassung in Verbindung mit Artikel 17 Absatz 2
+der Verordnung (EU) 2024/1143 soll unter Verwendung des vom Deutschen
+Patent- und Markenamt herausgegebenen Formblatts eingereicht werden.
 
 (2) In der Einspruchsschrift sind anzugeben:
 
@@ -1548,8 +1555,8 @@ herausgegebenen Formblatts eingereicht werden.
 
 
 (3) Der Einspruch ist innerhalb von zwei Monaten nach Einreichung zu
-begründen. Die Gründe nach Artikel 10 Absatz 1 der Verordnung (EU) Nr.
-1151/2012, auf welche der Einspruch gestützt wird, sind anzugeben.
+begründen. Die Gründe nach Artikel 19 Absatz 1 der Verordnung (EU)
+2024/1143, auf welche der Einspruch gestützt wird, sind anzugeben.
 
 
 #### § 51 Einspruchsverfahren
@@ -1567,8 +1574,8 @@ Einspruchsbegründungen werden unverzüglich weitergeleitet.
 
 #### § 52 Änderungen der Spezifikation
 
-(1) Der Antrag auf Änderung der Spezifikation gemäß Artikel 53 der
-Verordnung (EU) Nr. 1151/2012 soll unter Verwendung des vom Deutschen
+(1) Der Antrag auf Änderung der Spezifikation gemäß Artikel 24 der
+Verordnung (EU) 2024/1143 soll unter Verwendung des vom Deutschen
 Patent- und Markenamt herausgegebenen Formblatts eingereicht werden.
 
 (2) In dem Antrag sind anzugeben:
@@ -1599,16 +1606,16 @@ Patent- und Markenamt herausgegebenen Formblatts eingereicht werden.
 
 
 
-(3) Für Anträge nach Artikel 53 Absatz 2 Satz 1 der Verordnung (EU)
-Nr. 1151/2012 gelten im Übrigen die §§ 48 bis 51 entsprechend.
+(3) Für Anträge nach Artikel 24 Absatz 2 der Verordnung (EU) 2024/1143
+gelten im Übrigen die §§ 48 bis 51 entsprechend.
 
 
 #### § 53 Löschungsantrag
 
 (1) Der Antrag auf Löschung einer eingetragenen geografischen Angabe
-oder Ursprungsbezeichnung nach Artikel 54 Absatz 1 der Verordnung (EU)
-Nr. 1151/2012 soll unter Verwendung des vom Deutschen Patent- und
-Markenamt herausgegebenen Formblatts eingereicht werden.
+oder Ursprungsbezeichnung nach Artikel 25 Absatz 1 und 2 der
+Verordnung (EU) 2024/1143 soll unter Verwendung des vom Deutschen
+Patent- und Markenamt herausgegebenen Formblatts eingereicht werden.
 
 (2) In dem Antrag sind anzugeben:
 
@@ -1635,7 +1642,7 @@ Markenamt herausgegebenen Formblatts eingereicht werden.
 
 #### § 54 Akteneinsicht
 
-In den Verfahren nach der Verordnung (EU) Nr. 1151/2012 gewährt das
+In den Verfahren nach der Verordnung (EU) 2024/1143 gewährt das
 Deutsche Patent- und Markenamt Einsicht in die Akten.
 
 
@@ -1660,6 +1667,10 @@ Verordnung vom 1. September 2003 (BGBl. I S. 1701).
 Für Markenanmeldungen, die vor Inkrafttreten von Änderungen dieser
 Verordnung eingereicht worden sind, gelten die Vorschriften dieser
 Verordnung in ihrer bis dahin geltenden Fassung.
+
+
+### § 57a (weggefallen)
+
 
 
 ### § 58 Inkrafttreten, Außerkrafttreten

@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2019, 205
 
+Zuletzt geändert durch
+:   Art. 2 Abs. 24 V v. 11.3.2026 I Nr. 67
+
 Stand: Ersetzt V 2030-7-12-3 v. 14.3.2005 I 779 (LAP-gntDBWVV 2005)
 
 ## Eingangsformel
@@ -102,8 +105,8 @@ herabgesetzt werden.
 2.  bei den Prüfungen im Studium das Prüfungsamt der Hochschule und
 
 
-3.  bei den Prüfungen in den Praxismodulen die Ausbildungsstelle im
-    Einvernehmen mit dem Prüfungsamt der Hochschule.
+3.  bei den Prüfungen in den Praxismodulen das Prüfungsamt der Hochschule
+    im Benehmen mit der Ausbildungsstelle.
 
 
 
@@ -176,8 +179,8 @@ ihrer Kenntnisse, Fähigkeiten und persönlichen Eigenschaften für den
 Vorbereitungsdienst geeignet und befähigt sind. Die Hochschule ist an
 der Ausgestaltung des Auswahlverfahrens zu beteiligen.
 
-(2) Wird die Zahl der am Auswahlverfahren Teilnehmenden nach § 10a
-Absatz 3 der Bundeslaufbahnverordnung beschränkt, so werden
+(2) Wird die Zahl der am Auswahlverfahren Teilnehmenden nach § 11
+Absatz 4 der Bundeslaufbahnverordnung beschränkt, so werden
 schwerbehinderte Menschen und gleichgestellte behinderte Menschen
 sowie ehemalige Soldatinnen auf Zeit und Soldaten auf Zeit mit
 Eingliederungs- oder Zulassungsschein zusätzlich und ohne Beschränkung
@@ -479,10 +482,10 @@ interdisziplinär ausgestaltet werden. Sie enthalten ein Studienfach
 oder mehrere Studienfächer.
 
 (3) Die Module unterteilen sich in 20 Fachmodule und vier
-Praxismodule. Die Fachmodule sind unterteilt in Pflichtmodule und
-Wahlpflichtmodule. In den Wahlpflichtmodulen können die Studierenden
-zwischen verschiedenen Studienfächern oder Studienfachkombinationen
-wählen.
+Praxismodule. Die Fachmodule und die Praxismodule sind jeweils
+unterteilt in Pflichtmodule und Wahlpflichtmodule. In den
+Wahlpflichtmodulen können die Studierenden zwischen verschiedenen
+Studienfächern oder Studienfachkombinationen wählen.
 
 
 ### § 22 Verteilung und Inhalt der Module
@@ -636,6 +639,7 @@ wählen.
     *   Praxismodul I
 
     *   Praxismodul
+        Pflichtmodul
 
     *   Infrastruktur, Umweltschutz und Dienstleistung
 
@@ -645,6 +649,7 @@ wählen.
     *   Praxismodul II
 
     *   Praxismodul
+        Pflichtmodul
 
     *   Personal
 
@@ -709,6 +714,7 @@ wählen.
     *   Praxismodul III
 
     *   Praxismodul
+        Wahlpflichtmodul
 
     *   Bundesoberbehörden
 
@@ -718,6 +724,7 @@ wählen.
     *   Praxismodul IV
 
     *   Praxismodul
+        Wahlpflichtmodul
 
     *   Englisch in der Bundeswehr
 
@@ -754,7 +761,7 @@ wählen.
         Wahlpflichtmodul
 
     *   Recht III: Straf- und Staatsrecht oder Umweltschutz- und
-        Verwaltungsrecht
+        Verwaltungsrecht oder Steuerrecht und Steuerlehre
 
 
 *    *   24
@@ -775,6 +782,17 @@ wählen.
         Wahlpflichtmodul
 
     *   Die Bundeswehr als internationaler Partner
+
+
+*    *   26
+
+    *   Modul 20
+        (zweiter Teil)
+
+    *   Fachmodul:
+        Pflichtmodul
+
+    *   Abschlussarbeit
 
 
 
@@ -1043,7 +1061,8 @@ zusammengefasst werden, wird als Bewertung eine Rangpunktzahl
 berechnet.
 
 (4) Bei zwei Prüfenden ist die Rangpunktzahl das arithmetische Mittel
-aus den beiden Bewertungen.
+aus den beiden Bewertungen. Die berechnete Rangpunktzahl wird
+kaufmännisch auf eine ganze Zahl gerundet.
 
 
 ### Unterabschnitt 2 - Modulprüfungen
@@ -1443,8 +1462,8 @@ nicht weisungsgebunden.
 (1) Zur Anfertigung der Bachelorthesis werden die Studierenden für die
 letzten vier Wochen des fünften Semesters von der Anwesenheitspflicht
 und vom Dienst freigestellt. Die weitere Anfertigung der
-Bachelorthesis erfolgt studienbegleitend in den ersten acht Wochen des
-sechsten Semesters.
+Bachelorthesis erfolgt studienbegleitend zu Beginn des sechsten
+Semesters.
 
 (2) Während der Anfertigung der Bachelorthesis wird die oder der
 Studierende von der oder dem Erstprüfenden betreut.
@@ -1703,15 +1722,15 @@ eine ganze Zahl gerundet.
 Gesamtbewertungen der Module 2 bis 19 berechnet. In diese
 Rangpunktzahl geht die Gesamtbewertung eines Moduls mit der Gewichtung
 ein, die den in diesem Modul vergebenen ECTS-Leistungspunkten
-entspricht. Die berechnete Rangpunktzahl wird kaufmännisch auf eine
-ganze Zahl gerundet.
+entspricht. Die berechnete Rangpunktzahl wird kaufmännisch auf die
+zweite Stelle nach dem Komma gerundet.
 
 (4) Die Rangpunktzahl der Praxismodule wird aus den einzelnen
 Gesamtbewertungen der Praxismodule berechnet. In diese Rangpunktzahl
 geht die Gesamtbewertung eines Praxismoduls mit der Gewichtung ein,
 die den in diesem Praxismodul vergebenen ECTS-Leistungspunkten
-entspricht. Die berechnete Rangpunktzahl wird kaufmännisch auf eine
-ganze Zahl gerundet.
+entspricht. Die berechnete Rangpunktzahl wird kaufmännisch auf die
+zweite Stelle nach dem Komma gerundet.
 
 (5) Der gerundeten Rangpunktzahl der Bachelorprüfung wird die
 entsprechende Note als Abschlussnote zugeordnet.
@@ -1826,15 +1845,14 @@ amtsärztliches Attest vorzulegen.
 vorbehaltlich des Absatzes 4 als nicht begonnen. Das Prüfungsamt
 bestimmt, zu welchem Zeitpunkt die Prüfungsleistung nachgeholt wird.
 
-(4) Wird die Verhinderung bei der Anfertigung der Bearbeitung der
-Bachelorthesis oder einer anderen Prüfungsleistung, für die eine
-Bearbeitungszeit von mindestens zwei Tagen vorgesehen ist, genehmigt,
-so verlängert das Prüfungsamt die Bearbeitungszeit um die Dauer der
-Verhinderung. Die Verlängerung darf jedoch die Hälfte der vorgesehenen
-Bearbeitungszeit nicht überschreiten. Überschreitet die Verhinderung
-die Hälfte der Bearbeitungszeit, so gilt die Prüfungsleistung als
-nicht begonnen. Es wird ein anderes Thema für die jeweilige
-Prüfungsleistung festgelegt.
+(4) Wird die Verhinderung bei der Anfertigung der Bachelorthesis oder
+einer anderen Prüfungsleistung, für die eine Bearbeitungszeit von
+mindestens zwei Tagen vorgesehen ist, genehmigt, so verlängert das
+Prüfungsamt die Bearbeitungszeit um die Dauer der Verhinderung. Die
+Verlängerung darf jedoch die Hälfte der vorgesehenen Bearbeitungszeit
+nicht überschreiten. Überschreitet die Verhinderung die Hälfte der
+Bearbeitungszeit, so gilt die Prüfungsleistung als nicht begonnen. Es
+wird ein anderes Thema für die jeweilige Prüfungsleistung festgelegt.
 
 (5) Wird die Verhinderung nicht genehmigt, so gilt die Zeit der
 Verhinderung als Bearbeitungszeit. Wird in diesem Fall gar keine
@@ -1916,7 +1934,7 @@ fünf und höchstens zehn Jahre aufzubewahren.
 
 (3) Nach Abschluss jeder Modulprüfung können die Betroffenen nach
 Antrag Einsicht in ihre Prüfungsakte nehmen. Die Gutachten zur
-Bachelorthesis dürfen erst nach der Verteidigung der Bachelorthesis
+Bachelorthesis dürfen vor der Verteidigung der Bachelorthesis
 eingesehen werden. Die Einsichtnahme ist in der Akte zu vermerken.
 
 
@@ -1925,27 +1943,12 @@ eingesehen werden. Die Einsichtnahme ist in der Akte zu vermerken.
 
 ### § 60 Anerkennung von Studien- und Prüfungsleistungen
 
-(1) Auf Antrag werden folgende Leistungen anerkannt:
-
-1.  Studien- und Prüfungsleistungen aus anderen Studiengängen sowie
-
-
-2.  Prüfungsleistungen, die erfolgreich abgelegt worden sind
-
-    a)  vor einer öffentlichen oder staatlich anerkannten Bildungseinrichtung
-        oder
-
-
-    b)  vor einem staatlichen Prüfungsausschuss.
-
-
-
-
-
-
-Voraussetzung für die Anerkennung ist, dass die Leistungen
-gleichwertig sind mit den Leistungen, die im Studiengang „Bachelor of
-Public Administration“ zu erbringen sind.
+(1) Auf Antrag werden Studien- und Prüfungsleistungen, die an anderen
+staatlichen oder staatlich anerkannten Hochschulen oder
+Berufsakademien erbracht worden sind, anerkannt, wenn hinsichtlich der
+erworbenen Kompetenzen kein wesentlicher Unterschied zu den Studien-
+und Prüfungsleistungen besteht, die im Studiengang „Bachelor of Public
+Administration“ ersetzt werden.
 
 (2) Über die Anerkennung entscheidet das Prüfungsamt der Hochschule.
 

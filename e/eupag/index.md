@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2017, 1121, 1137
 
 Zuletzt geändert durch
-:   Art. 9 G v. 10.3.2023 I Nr. 64
+:   Art. 5 G v. 22.10.2024 I Nr. 320
 
 
 ## Teil 1 - Voraussetzungen für die Zulassung zur Patentanwaltschaft
@@ -756,4 +756,27 @@ bis 6, §§ 204 und 205), über die Gebührenüberhebung (§ 352) und über
 den Parteiverrat (§ 356) stehen dienstleistende europäische
 Patentanwälte und niedergelassene europäische Patentanwälte
 Patentanwälten und Anwälten gleich.
+
+
+### § 30 Übergangsvorschrift zum Austritt des Vereinigten Königreichs aus der Europäischen Union
+
+(1) Teil 1 gilt auch für Staatsangehörige eines Mitgliedstaates, die
+im Besitz eines Ausbildungs- und Befähigungsnachweises sind, der im
+Vereinigten Königreich
+
+1.  in den Fällen des § 1 Absatz 2 Nummer 1 bis 3 vor dem 1. Januar 2021
+    ausgestellt wurde oder
+
+
+2.  im Fall des § 1 Absatz 2 Nummer 4 vor dem 1. Januar 2021 anerkannt
+    wurde.
+
+
+
+
+(2) Soweit eine antragstellende Person nach § 1 Absatz 2 Nummer 3 oder
+4 oder Absatz 3 Zeiten nachzuweisen hat, in denen sie den Beruf des
+Patentanwalts in einem Mitgliedstaat ausgeübt hat, sind Zeiten
+anzuerkennen, in denen der Beruf im Vereinigten Königreich vor dem 1.
+Januar 2021 ausgeübt wurde.
 

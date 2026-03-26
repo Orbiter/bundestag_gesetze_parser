@@ -16,36 +16,26 @@ Fundstelle
 :   BGBl I: 2014, 460
 
 Zuletzt geändert durch
-:   Art. 1 V v. 28.7.2021 I 3236
-
-Änderung durch
-:   Art. 3 V v. 9.4.2024 I Nr. 126 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 4 V v. 25.3.2025 I Nr. 100
 
 [^F785283_00_BJNR046000014]:     Die Verordnung dient auch der Umsetzung der
-    1\.                                            Richtlinie 2012/35/EU
-    des Europäischen Parlaments und des Rates vom 21. November 2012 zur
-    Änderung der Richtlinie 2008/106/EG über Mindestanforderungen für die
-    Ausbildung von Seeleuten (ABl. L 343 vom 14.12.2012, S. 78),
+    1\.                                    Richtlinie (EU) 2022/993 des
+    Europäischen Parlaments und des Rates vom 8. Juni 2022 über
+    Mindestanforderungen für die Ausbildung von Seeleuten (ABl. L 169 vom
+    27\.6.2022, S. 45),
 
 
-    2\.                                            Richtlinie 2008/106/EG
-    des Europäischen Parlaments und des Rates vom 19. November 2008 über
-    Mindestanforderungen für die Ausbildung von Seeleuten (Neufassung)
-    (ABl. L 323 vom 3.12.2008, S. 33),
+    2\.                                    Richtlinie 2005/45/EG des
+    Europäischen Parlaments und des Rates vom 7. September 2005 über die
+    gegenseitige Anerkennung von Befähigungszeugnissen der Mitgliedstaaten
+    für Seeleute und zur Änderung der Richtlinie 2001/25/EG (ABl. L 255
+    vom 30.9.2005, S. 160),
 
 
-    3\.                                            Richtlinie 2005/45/EG
-    des Europäischen Parlaments und des Rates vom 7. September 2005 über
-    die gegenseitige Anerkennung von Befähigungszeugnissen der
-    Mitgliedstaaten für Seeleute und zur Änderung der Richtlinie
-    2001/25/EG (ABl. L 255 vom 30.9.2005, S. 160),
-
-
-    4\.                                            Richtlinie 2005/36/EG
-    des Europäischen Parlaments und des Rates vom 7. September 2005 über
-    die Anerkennung von Berufsqualifikationen (ABl. L 255 vom 30.9.2005,
-    S. 22), soweit Berufe in der Seeschifffahrt berührt sind.
-
+    3\.                                    Richtlinie 2005/36/EG des
+    Europäischen Parlaments und des Rates vom 7. September 2005 über die
+    Anerkennung von Berufsqualifikationen (ABl. L 255 vom 30.9.2005, S.
+    22), soweit Berufe in der Seeschifffahrt berührt sind.
 
 
 
@@ -121,7 +111,7 @@ Fassung.
 (3) „IGF-Code“ bedeutet der Internationale Code für die Sicherheit von
 Schiffen, die Gase oder andere Brennstoffe mit niedrigem Flammpunkt
 verwenden (VkBl. 2016 S. 655, Sonderband C 8151), nach der
-Begriffsbestimmung in der Regel II-1.2.29 des Internationalen
+Begriffsbestimmung in der Regel II-1.2.28 des Internationalen
 Übereinkommens von 1974 zum Schutz des menschlichen Lebens auf See mit
 Anlage und Anhang sowie Protokolle von 1978 und 1988 zu diesem
 Übereinkommen (SOLAS) (BGBl. 1979 II S. 141; 1980 II S. 525; 1983 II
@@ -139,8 +129,8 @@ jeweils geltenden Fassung.
 Entschließung 2 der Konferenz der Vertragsregierungen des
 Internationalen Übereinkommens von 1974 zum Schutz des menschlichen
 Lebens auf See (SOLAS) beschlossene Internationale Code für die
-Gefahrenabwehr auf Schiffen in Hafenanlagen (BGBl. 2003 II S. 2018) in
-der jeweils geltenden Fassung.
+Gefahrenabwehr auf Schiffen und in Hafenanlagen (BGBl. 2003 II S.
+2018) in der jeweils geltenden Fassung.
 
 (6) Im Sinne dieser Verordnung bedeutet der Ausdruck
 
@@ -339,11 +329,11 @@ genannten Abkürzungen verwendet.
 
 5.  vorbehaltlich des Absatzes 5 Satz 1 Nummer 1 für die Feststellung, ob
     Ausbildungen in der Metallbearbeitung und Elektrotechnik den
-    Anforderungen genügen, und
+    Anforderungen genügen,
 
 
 6.  für die Erteilung des Nachweises über eine berufliche Tätigkeit in der
-    Seeschifffahrt.
+    Seeschifffahrt,
 
 
 7.  für die Überwachung der Durchführung der praktischen Ausbildung und
@@ -814,7 +804,7 @@ der Anlage zu dem STCW-Übereinkommen gewährleistet ist:
 
 5.  hinsichtlich der Überprüfung der fachlichen Kenntnisse und Fähigkeiten
     der Bewerber sowie hinsichtlich der Befähigungsbewertung die
-    Einhaltung der Regel I/6,
+    Einhaltung der Regel I/6.
 
 
 
@@ -882,7 +872,7 @@ berücksichtigen.
 
 
 
-##### § 14 Aussetzen der Anerkennung als Berufseingangsprüfungen
+##### § 14 Aufhebung der Anerkennung als Berufseingangsprüfungen
 
 Liegen dem Bundesministerium für Verkehr und digitale Infrastruktur
 oder dem Bundesamt begründete Beanstandungen darüber vor oder wird die
@@ -1834,7 +1824,12 @@ Schiffsmaschinisten TSM hat der Bewerber nachzuweisen
 
     c)  Besitz eines nautischen Befähigungszeugnisses nach Teil 2 ausgenommen
         des Befähigungszeugnisses nach § 29 Absatz 3 sowie eine Ausbildung in
-        der Metallbearbeitung nach Anlage 6 von mindestens sieben Wochen und
+        der Metallbearbeitung nach Anlage 6 von mindestens sieben Wochen oder
+
+
+    d)  Besitz des Zeugnisses über die Abschlussprüfung zum
+        berufsqualifizierenden Bildungsgang Schiffsbetriebstechnischer
+        Assistent SBTA Technik und
 
 
 
@@ -2928,11 +2923,10 @@ Seeschifffahrtsaufgaben-Übertragungsverordnung vom 23. Juni 1982
 
 ### § 61 Verhältnis zu anderen Rechtsvorschriften
 
-Zuständigkeiten und Befugnisse nach Maßgabe des Seesicherheits-
-Untersuchungs-Gesetzes, des Seefischereigesetzes und anderen
-Rechtsvorschriften zur Entziehung von Berechtigungen, Beschränkung von
-Berechtigungen oder Sicherstellung und Beschlagnahme der
-entsprechenden Urkunden bleiben durch die §§ 56 bis 59 unberührt.
+Zuständigkeiten und Befugnisse nach Maßgabe des Seefischereigesetzes
+und anderen Rechtsvorschriften zur Entziehung von Berechtigungen,
+Beschränkung von Berechtigungen oder Sicherstellung und Beschlagnahme
+der entsprechenden Urkunden bleiben durch die §§ 56 bis 59 unberührt.
 
 
 ## Teil 9 - Nachweis einer beruflichen Tätigkeit in der Seeschifffahrt
@@ -2953,7 +2947,7 @@ zusätzlich die Bezeichnung „seafarer´s card“ enthalten.
 
 
 2.  jedes sonstige Besatzungsmitglied auf einem Kauffahrteischiff, das die
-    Bundesflagge führt.
+    Bundesflagge führt,
 
 
 3.  Fachschüler oder Hochschulstudenten, die an nach Landesrecht
@@ -5744,7 +5738,8 @@ Ausbildungsstätte
 
 ### Anlage 6a Anforderungen an die Ausbildung in der Elektrofertigung und Metallbearbeitung
 
-(Fundstelle: BGBl. I 2021, 3268 - 3270)
+(Fundstelle: BGBl. I 2021, 3268 - 3270;
+bezüglich der einzelnen Änderungen vgl. Fußnote)
 
 Eine Ausbildung in der Elektrofertigung und Metallbearbeitung muss
 mindestens folgende Kenntnisse, Verständnisse und Fachkunde

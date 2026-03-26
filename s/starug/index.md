@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2020, 3256
 
 Zuletzt geändert durch
-:   Art. 34 Abs. 14 G v. 22.12.2023 I Nr. 411
+:   Art. 7 G v. 15.7.2024 I Nr. 236
 
 
 ## Teil 1 - Krisenfrüherkennung und Krisenmanagement
@@ -444,10 +444,11 @@ gemacht ist.
 
 (1) Der Schuldner kann den Restrukturierungsplan im Rahmen einer
 Versammlung der Planbetroffenen zur Abstimmung stellen. Die
-Einberufung erfolgt schriftlich. Die Einberufungsfrist beträgt 14
-Tage. Räumt der Schuldner die Möglichkeit einer elektronischen
-Teilnahme ein, beträgt die Frist sieben Tage. Der Einberufung ist der
-vollständige Restrukturierungsplan nebst Anlagen beizufügen.
+Einberufung erfolgt, sofern keine Formerleichterung vereinbart ist,
+schriftlich. Die Einberufungsfrist beträgt 14 Tage. Räumt der
+Schuldner die Möglichkeit einer elektronischen Teilnahme ein, beträgt
+die Frist sieben Tage. Der Einberufung ist der vollständige
+Restrukturierungsplan nebst Anlagen beizufügen.
 
 (2) Das Planangebot kann vorsehen, dass Planbetroffene auch ohne
 Anwesenheit an dem Versammlungsort teilnehmen und sämtliche oder
@@ -482,7 +483,7 @@ Planbetroffenen nicht statt, ist unter den Voraussetzungen des § 17
 Absatz 3 auf Verlangen eines Planbetroffenen eine Versammlung der
 Planbetroffenen zur Erörterung des Plans abzuhalten.
 
-(2) Die Einberufung erfolgt schriftlich. Die Frist zur Einberufung
+(2) § 20 Absatz 1 Satz 2 gilt entsprechend. Die Frist zur Einberufung
 beträgt mindestens 14 Tage. Räumt der Schuldner die Möglichkeit einer
 elektronischen Teilnahme ein, beträgt die Frist sieben Tage.
 
@@ -1051,15 +1052,16 @@ Beglaubigung des zuzustellenden Schriftstücks bedarf. Sie können
 dadurch bewirkt werden, dass das Schriftstück unter der Anschrift des
 Zustellungsadressaten zur Post gegeben wird; § 184 Absatz 2 Satz 1, 2
 und 4 der Zivilprozessordnung gilt entsprechend. Soll die Zustellung
-im Inland bewirkt werden, gilt das Schriftstück drei Tage nach Aufgabe
-zur Post als zugestellt.
+im Inland bewirkt werden, gilt das Schriftstück am vierten Tag nach
+Aufgabe zur Post als zugestellt.
 
 (2) An Personen, deren Aufenthalt unbekannt ist, wird nicht
 zugestellt. Haben sie einen zur Entgegennahme von Zustellungen
 berechtigten Vertreter, so wird dem Vertreter zugestellt.
 
 (3) Beauftragt das Gericht den Schuldner mit der Zustellung, erfolgt
-diese nach Maßgabe der §§ 191 bis 194 der Zivilprozessordnung.
+diese nach Maßgabe der §§ 191 bis 195 der Zivilprozessordnung; § 173
+der Zivilprozessordnung bleibt unberührt.
 
 
 ##### Unterabschnitt 2 - Restrukturierungsrecht
@@ -1162,7 +1164,11 @@ Planbetroffenen erörtert werden und anschließend über den Plan
 abgestimmt wird. Die Ladungsfrist beträgt mindestens 14 Tage.
 
 (2) Dem Antrag ist der vollständige Restrukturierungsplan nebst
-Anlagen beizufügen.
+Anlagen beizufügen. Soll auf die Zustellung des vollständigen
+Restrukturierungsplans und der Anlagen verzichtet werden, hat der
+Antrag Angaben dazu zu enthalten, wie der elektronische Zugang zu
+diesen Dokumenten sichergestellt wird; insbesondere sind die den
+Betroffenen bereitzustellenden Zugangsdaten mitzuteilen.
 
 (3) Die Planbetroffenen sind zu dem Termin zu laden. Der Ladung ist
 der vollständige Restrukturierungsplan nebst Anlagen beizufügen. Die
@@ -1170,6 +1176,13 @@ Ladung enthält den Hinweis darauf, dass der Termin und die Abstimmung
 auch dann durchgeführt werden können, wenn nicht alle Planbetroffenen
 teilnehmen. Das Gericht kann den Schuldner mit der Zustellung der
 Ladungen beauftragen.
+
+(3a) Auf die Beifügung des vollständigen Restrukturierungsplans nebst
+Anlagen gemäß Absatz 3 Satz 2 kann verzichtet werden, wenn der
+Schuldner den elektronischen Zugriff auf diese Dokumente gewährleistet
+und der Geladene anhand der in der Ladung enthaltenen Zugangsdaten auf
+die Dokumente zugreifen kann. Liegt ein wichtiger Grund vor, kann der
+Geladene die Übermittlung der schriftlichen Dokumente verlangen.
 
 (4) Auf das Verfahren finden die §§ 239 bis 242 der Insolvenzordnung
 sowie die §§ 24 bis 28 dieses Gesetzes entsprechende Anwendung. Ist
@@ -2415,42 +2428,81 @@ ergeht, anzugeben:
 
 
 
-Öffentlich bekannt zu machen sind die in Artikel 24 Absatz 2 der
-Verordnung (EU) 2015/848 genannten Angaben. Artikel 102c § 4 des
-Einführungsgesetzes zur Insolvenzordnung ist entsprechend anzuwenden.
+Auf Antrag des Schuldners stellt das Gericht in einem Beschluss seine
+internationale Zuständigkeit und die Art des Verfahrens fest. Artikel
+102c § 4 des Einführungsgesetzes zur Insolvenzordnung ist entsprechend
+anzuwenden.
 
 
 #### § 85 Besondere Bestimmungen
 
-(1) Öffentlich bekannt zu machen sind neben den in § 84 Absatz 2 Satz
-2 genannten Angaben:
+(1) Öffentlich bekannt zu machen sind die in Artikel 24 Absatz 2 der
+Verordnung (EU) 2015/848 genannten Angaben.
+
+(2) Des Weiteren sind öffentlich bekannt zu machen:
 
 1.  Ort und Zeit gerichtlicher Termine,
 
 
-2.  die Bestellung und Abberufung eines Restrukturierungsbeauftragten,
+2.  die Bestellung eines Restrukturierungsbeauftragten,
 
 
-3.  sämtliche gerichtliche Entscheidungen, die in der
-    Restrukturierungssache ergehen.
+3.  die Entscheidungen des Restrukturierungsgerichts nach § 37 Absatz 1
+    und 2,
+
+
+4.  die Stabilisierungsanordnung nach § 49 Absatz 1, wenn sich diese gegen
+    die Gesamtheit der Gläubiger richtet; wurde eine
+    Stabilisierungsanordnung öffentlich bekannt gemacht, ist auch deren
+    Aufhebung nach § 59 Absatz 1 oder Absatz 2 oder deren Beendigung nach
+    § 59 Absatz 4 öffentlich bekannt zu machen,
+
+
+5.  die sonstigen Entscheidungen des Restrukturierungsgerichts nach § 72
+    Absatz 4 sowie nach § 81 Absatz 4 und 6, § 82 Absatz 1 und § 93 Absatz
+    4, jedoch ohne festgesetzte Stundensätze, ohne Honorar- und
+    Vergütungsbeträge sowie ohne die Höhe der Auslagen,
+
+
+6.  der Verlust der Wirkungen der Anzeige gemäß § 31 Absatz 4.
 
 
 
 
-(2) Erfolgen öffentliche Bekanntmachungen nach Absatz 1, ist eine
-Zustellung von Ladungen zu Terminen gegenüber Aktionären,
+(3) Sobald eine Entscheidung, die eine von dem
+Restrukturierungsgericht öffentlich bekannt gemachte Entscheidung
+aufhebt oder abändert, Rechtskraft erlangt hat, hat das
+Restrukturierungsgericht auch die Aufhebung oder Abänderung der
+Entscheidung öffentlich bekannt zu machen. Satz 1 gilt entsprechend,
+wenn das Beschwerdegericht gemäß § 66 Absatz 4 die aufschiebende
+Wirkung der Beschwerde gegen die Bestätigung des
+Restrukturierungsplans anordnet.
+
+(4) Erfolgen öffentliche Bekanntmachungen nach den Absätzen 1 und 2,
+so ist eine Zustellung von Ladungen zu Terminen gegenüber Aktionären,
 Kommanditaktionären und Inhabern von Schuldverschreibungen nicht
-erforderlich. Handelt es sich bei dem Schuldner um eine börsennotierte
-Aktiengesellschaft, findet § 121 Absatz 4a des Aktiengesetzes
-entsprechende Anwendung.
+erforderlich. Unterbleibt die Zustellung von Ladungen nach § 45 Absatz
+3, sind jedem Planbetroffenen auf dessen Verlangen die Ladung sowie
+der vollständige Restrukturierungsplan nebst Anlagen elektronisch
+zuzuleiten oder elektronisch zugänglich zu machen. Handelt es sich bei
+dem Schuldner um eine börsennotierte Aktiengesellschaft, so ist § 121
+Absatz 4a des Aktiengesetzes entsprechend anzuwenden.
+
+(5) In den Fällen des Absatzes 2 Nummer 5 sind die vollständigen
+Beschlüsse und Entscheidungen nach § 81 Absatz 4 und 6, § 82 Absatz 1
+und § 93 Absatz 4 in der Geschäftsstelle des Restrukturierungsgerichts
+zur Einsichtnahme auszulegen. In der Bekanntmachung ist auf die
+Möglichkeit der Einsichtnahme hinzuweisen.
 
 
 #### § 86 Öffentliche Bekanntmachung; Verordnungsermächtigung
 
+[^BJNR325610020BJNE008701125_1]
 (1) Die öffentliche Bekanntmachung erfolgt durch eine zentrale und
-länderübergreifende Veröffentlichung im Internet; diese kann
-auszugsweise geschehen. Die Bekanntmachung gilt als bewirkt, sobald
-nach dem Tag der Veröffentlichung zwei weitere Tage verstrichen sind.
+länderübergreifende Veröffentlichung im Internet
+; diese kann auszugsweise geschehen. Die Bekanntmachung gilt als
+bewirkt, sobald nach dem Tag der Veröffentlichung zwei weitere Tage
+verstrichen sind.
 
 (2) Das Bundesministerium der Justiz und für Verbraucherschutz wird
 ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die
@@ -2471,6 +2523,8 @@ Veröffentlichungen
 an alle Beteiligten, auch wenn dieses Gesetz neben ihr eine besondere
 Zustellung vorschreibt.
 
+    www.restrukturierungsbekanntmachung.de
+[^BJNR325610020BJNE008701125_1]: 
 
 #### § 87 Restrukturierungsforum; Verordnungsermächtigung
 

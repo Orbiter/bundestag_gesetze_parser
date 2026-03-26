@@ -2594,7 +2594,8 @@ weitergewährt, solange
 
 
 4.  Krankengeld der Sozialen Entschädigung nach § 47 des Vierzehnten
-    Buches Sozialgesetzbuch,
+    Buches Sozialgesetzbuch oder Krankengeld der Soldatenentschädigung
+    nach § 19 des Soldatenentschädigungsgesetzes,
 
 
 5.  Kurzarbeitergeld oder Schlechtwettergeld,

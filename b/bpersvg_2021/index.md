@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2021, 1614
 
 Zuletzt geändert durch
-:   Art. 8 G v. 20.12.2023 I Nr. 389
+:   Art. 13 G v. 9.1.2026 I Nr. 7
 
 Stand: Ersetzt G 2035-4 v. 15.3.1974 I 693 (BPersVG)
 Dieses Gesetzes dient der Umsetzung der Richtlinie 2002/14/EG des
@@ -3110,6 +3110,9 @@ von ihnen keine Anwendung, soweit militärische Gründe entgegenstehen.
 
 
 
+(6) Die Mitgliedschaft in einem Personalrat beim Bundesamt für den
+Militärischen Abschirmdienst ruht bei Personen, die zu einer
+sicherheitsempfindlichen Tätigkeit nicht zugelassen sind.
 
 
 #### Abschnitt 2 - Dienststellen des Bundes im Ausland
@@ -3405,32 +3408,10 @@ Zustimmung des Bundesrates bedarf, Vorschriften zu erlassen über
 
 
 
-### § 130 Übergangsregelung für bestehende Jugend- und Auszubildendenvertretungen und Personalvertretungen
-
-(1) § 102 Absatz 2 Satz 2 findet erstmalig Anwendung auf die
-regelmäßigen Wahlen der Jugend- und Auszubildendenvertretung im Jahr
-2022\. Die am 15. Juni 2021 bestehenden Jugend- und
-Auszubildendenvertretungen führen die Geschäfte weiter, bis sich die
-neu gewählten Jugend- und Auszubildendenvertretungen konstituiert
-haben, längstens jedoch bis zum Ablauf des in § 102 Absatz 2 Satz 3 in
-Verbindung mit § 27 Absatz 2 Satz 2 bestimmten Zeitpunkts.
-
-(2) § 27 Absatz 2 Satz 1 und § 121 Absatz 4 Satz 2 finden erstmalig
-Anwendung auf die regelmäßigen Personalratswahlen im Jahr 2024. Die am
-15\. Juni 2021 bestehenden Personalvertretungen führen die Geschäfte
-weiter, bis sich die neu gewählten Personalvertretungen konstituiert
-haben, längstens jedoch bis zum Ablauf des in § 27 Absatz 2 Satz 2 und
-§ 121 Absatz 4 Satz 3 bestimmten Zeitpunkts.
-
-(3) § 52 Absatz 3 Satz 3 und § 53 Absatz 2 Satz 2 finden auf am 15.
-Juni 2021 bestehende Freistellungen keine Anwendung.
+### § 130 (weggefallen)
 
 
-### § 131 Übergangsregelung für die Personalvertretungen in den Ländern
 
-Die §§ 90, 94 bis 107 Satz 1 und § 109 des
-Bundespersonalvertretungsgesetzes vom 15. März 1974 (BGBl. I S. 693),
-das zuletzt durch Artikel 2 des Gesetzes vom 25. Mai 2020 (BGBl. I S.
-1063) geändert worden ist, sind bis zum Ablauf des 31. Dezember 2024
-weiter anzuwenden.
+### § 131 (weggefallen)
+
 

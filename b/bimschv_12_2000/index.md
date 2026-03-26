@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 15.3.2017 I 483;
 
 Zuletzt geändert durch
-:   Art. 107 V v. 19.6.2020 I 1328
+:   Art. 7 G v. 3.7.2024 I Nr. 225
 
 
 ## Erster Teil - Allgemeine Vorschriften
@@ -926,17 +926,21 @@ Bundes-Immissionsschutzgesetzes alle Unterlagen beizufügen, die für
 die Prüfung der Genehmigungsvoraussetzungen erforderlich sind. Die
 zuständige Behörde teilt dem Antragsteller nach Eingang des Antrags
 und der Unterlagen unverzüglich mit, welche zusätzlichen Unterlagen
-sie für die Prüfung benötigt. Erfolgt die Antragstellung elektronisch,
-kann die zuständige Behörde Mehrfertigungen sowie die Übermittlung der
-dem Antrag beizufügenden Unterlagen auch in schriftlicher Form
-verlangen.
+sie für die Prüfung benötigt. Erfolgt die Antragstellung schriftlich,
+kann die zuständige Behörde einen elektronischen Antrag verlangen und
+bezüglich des elektronischen Formats Vorgaben machen. Hat die
+zuständige Behörde einen Zugang für die elektronische Antragstellung
+eröffnet, so ist ausschließlich dieser für die elektronische
+Antragstellung zu nutzen. Erfolgt die Antragstellung elektronisch,
+kann die zuständige Behörde verlangen, dass die dem Antrag
+beizufügenden Unterlagen auch in Papierform übermittelt werden, soweit
+eine Bearbeitung anders nicht möglich ist.
 
 (2) Hat der Antragsteller den Antrag und die erforderlichen Unterlagen
 vollständig übermittelt, macht die zuständige Behörde das Vorhaben in
-ihrem amtlichen Veröffentlichungsblatt und außerdem entweder im
-Internet oder in örtlichen Tageszeitungen, die im Bereich des
-Standortes des Vorhabens verbreitet sind, öffentlich bekannt. In der
-Bekanntmachung ist die Öffentlichkeit über Folgendes zu informieren:
+ihrem amtlichen Veröffentlichungsblatt, und auf ihrer Internetseite
+öffentlich bekannt. In der Bekanntmachung ist die Öffentlichkeit über
+Folgendes zu informieren:
 
 1.  über den Gegenstand des Vorhabens,
 
@@ -950,9 +954,9 @@ Bekanntmachung ist die Öffentlichkeit über Folgendes zu informieren:
     Absatz 3 Satz 4,
 
 
-3.  über die für die Genehmigung zuständige Behörde, bei der der Antrag
-    nebst Unterlagen zur Einsicht ausgelegt wird, sowie wo und wann
-    Einsicht genommen werden kann,
+3.  über die Internetseite auf der die Zugänglichmachung erfolgt und über
+    die Möglichkeit, eine leicht zu erreichende Zugangsmöglichkeit zur
+    Verfügung gestellt zu bekommen,
 
 
 4.  darüber, dass Personen, deren Belange berührt sind, und Vereinigungen,
@@ -985,12 +989,16 @@ machen. Besteht für das Vorhaben eine UVP-Pflicht, muss die
 Bekanntmachung darüber hinaus den Anforderungen des § 19 Absatz 1 des
 Gesetzes über die Umweltverträglichkeitsprüfung entsprechen.
 
-(3) Die Auslegung des Antrags und der Unterlagen nach § 23b Absatz 2
-Satz 2 des Bundes-Immissionsschutzgesetzes erfolgt bei der
-Genehmigungsbehörde und, soweit erforderlich, bei einer geeigneten
-Stelle in der Nähe des Standortes des Vorhabens. Die Einwendungen
-können bei der Genehmigungsbehörde oder bei der Stelle erhoben werden,
-bei der Antrag und Unterlagen zur Einsicht ausliegen.
+(3) Die Auslegung ist dadurch zu bewirken, dass die Dokumente auf
+einer Internetseite der zuständigen Behörde zugänglich gemacht werden.
+Auf Verlangen eines Beteiligten wird ihm eine leicht zu erreichende
+Zugangsmöglichkeit zur Verfügung gestellt. Der Vorhabenträger kann der
+Veröffentlichung im Internet widersprechen, soweit er die Gefährdung
+von Betriebs- oder Geschäftsgeheimnissen oder wichtiger
+Sicherheitsbelange befürchtet; in diesem Fall muss die Behörde eine
+andere Form der Veröffentlichung wählen. Die Einwendungen können bei
+der Genehmigungsbehörde oder bei der Stelle erhoben werden, bei der
+Antrag und Unterlagen zur Einsicht ausliegen.
 
 (4) Der Genehmigungsbescheid ist schriftlich zu erlassen, schriftlich
 zu begründen und dem Antragsteller und den Personen, die Einwendungen
@@ -1008,14 +1016,24 @@ Teil des Bescheids und die Rechtsbehelfsbelehrung in entsprechender
 Anwendung des Absatzes 2 Satz 1 bekannt gemacht werden; auf Auflagen
 ist hinzuweisen. Eine Ausfertigung des gesamten Genehmigungsbescheids
 ist vom Tage nach der Bekanntmachung an zwei Wochen zur Einsicht
-auszulegen. In der öffentlichen Bekanntmachung ist anzugeben, wo und
-wann der Bescheid und seine Begründung eingesehen und nach Satz 6
-angefordert werden können. Mit dem Ende der Auslegungsfrist gilt der
-Bescheid auch Dritten gegenüber, die keine Einwendungen erhoben haben,
-als zugestellt; darauf ist in der Bekanntmachung hinzuweisen. Nach der
-öffentlichen Bekanntmachung können der Bescheid und seine Begründung
-bis zum Ablauf der Widerspruchsfrist von den Personen, die
-Einwendungen erhoben haben, schriftlich angefordert werden.
+auszulegen. Die Auslegung ist dadurch zu bewirken, dass die Dokumente
+auf einer Internetseite der zuständigen Behörde zugänglich gemacht
+werden. Auf Verlangen eines Beteiligten wird ihm eine leicht zu
+erreichende Zugangsmöglichkeit zur Verfügung gestellt. Der
+Vorhabenträger kann der Veröffentlichung im Internet widersprechen,
+soweit er die Gefährdung von Betriebs- oder Geschäftsgeheimnissen oder
+wichtiger Sicherheitsbelange befürchtet; in diesem Fall muss die
+Behörde eine andere Form der Veröffentlichung wählen. In der
+öffentlichen Bekanntmachung ist anzugeben, wo und wann der Bescheid
+und seine Begründung eingesehen und nach Satz 8 angefordert werden
+können; hierzu ist auch die Angabe der Internetseite auf der die
+Zugänglichmachung erfolgt, anzugeben. Mit dem Ende der Auslegungsfrist
+gilt der Bescheid auch gegenüber Dritten, die keine Einwendungen
+erhoben haben, als zugestellt; darauf ist in der Bekanntmachung
+hinzuweisen. Nach der öffentlichen Bekanntmachung können der Bescheid
+und seine Begründung bis zum Ablauf der Widerspruchsfrist von den
+Personen, die Einwendungen erhoben haben, schriftlich oder
+elektronisch angefordert werden.
 
 (6) Die Absätze 1 bis 5 gelten für Vorhaben nach § 23c Satz 1 des
 Bundes-Immissionsschutzgesetzes entsprechend, soweit § 57d des

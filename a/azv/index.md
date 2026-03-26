@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2006, 427
 
 Zuletzt geändert durch
-:   Art. 2 V v. 17.12.2020 I 3011
+:   Art. 1 V v. 19.2.2025 I Nr. 49
 
 
 ## § 1 Geltungsbereich
@@ -151,7 +151,7 @@ beantragen. Gleiches gilt für Beamtinnen und Beamte,
 
 2.  die eine nahe Angehörige oder einen nahen Angehörigen nach § 7 Absatz
     3 des Pflegezeitgesetzes im eigenen Haushalt oder im eigenen Haushalt
-    der oder des nahen Angehörigen tatsächlich betreut oder pflegt, die
+    der oder des nahen Angehörigen tatsächlich betreuen oder pflegen, die
     oder der
 
     a)  pflegebedürftig ist und die Pflegebedürftigkeit nach § 18 des Elften
@@ -362,7 +362,49 @@ genehmigte Mehrarbeit im Umfang von bis zu 40 Stunden im Jahr
 gutgeschrieben werden. Dem Langzeitkonto kann ein Zeitguthaben bis zur
 Höhe von 1 400 Stunden gutgeschrieben werden.
 
-(6) Den unmittelbaren Vorgesetzten sind ausschließlich für Zwecke des
+(6) Den in Absatz 7 bestimmten Beamtinnen und Beamten kann die Führung
+eines Langzeitkontos gestattet werden, mit dem die folgenden Ansprüche
+als Zeitguthaben angespart werden:
+
+1.  Dienstbefreiung für dienstlich angeordnete oder genehmigte Mehrarbeit
+    nach § 88 des Bundesbeamtengesetzes und
+
+
+2.  einheitlicher Freizeitausgleich bei Einsätzen und Übungen nach § 11
+    des Bundespolizeibeamtengesetzes.
+
+
+
+Dem Langzeitkonto können auf Antrag Ansprüche im Umfang von bis zu 196
+Stunden im Jahr gutgeschrieben werden. Absatz 5 Satz 4 gilt
+entsprechend.
+
+(7) Absatz 6 gilt für
+
+1.  Polizeivollzugsbeamtinnen und Polizeivollzugsbeamte in der
+    Bundespolizei, die Schicht- oder Einsatzdienst leisten, und
+
+
+2.  Beamtinnen und Beamte der Zollverwaltung, die Schichtdienst leisten
+    und
+
+    a)  in der Grenzabfertigung verwendet werden,
+
+
+    b)  in einem Bereich verwendet werden, in dem gemäß Bestimmung des
+        Bundesministeriums der Finanzen typischerweise vollzugspolizeilich
+        geprägte Tätigkeiten wahrgenommen werden, oder
+
+
+    c)  mit vollzugspolizeilichen Aufgaben betraut sind.
+
+
+
+
+
+
+
+(8) Den unmittelbaren Vorgesetzten sind ausschließlich für Zwecke des
 gezielten Personaleinsatzes und für die Überprüfung nach Absatz 4 Satz
 3 die Salden der Langzeitkonten ihrer Mitarbeiterinnen und Mitarbeiter
 mitzuteilen. Daten nach Satz 1 dürfen nicht für eine Kontrolle oder
@@ -370,7 +412,7 @@ Bewertung der Leistung oder des Verhaltens der Beamtinnen oder Beamten
 verwendet werden. Die Aufbewahrung und Löschung der Daten erfolgt
 entsprechend § 7 Absatz 7 Satz 3 und 4.
 
-(7) Nähere Bestimmungen über das Langzeitkonto und den Zeitausgleich
+(9) Nähere Bestimmungen über das Langzeitkonto und den Zeitausgleich
 werden in Dienstvereinbarungen festgelegt.
 
 
@@ -419,13 +461,22 @@ vorübergehenden Abwesenheit kann bis zur Rückkehr in die Dienststelle
 kein weiteres Zeitguthaben angespart werden. Das Langzeitkonto bleibt
 bei der bisherigen Dienststelle bestehen.
 
-(2) In den Fällen der Versetzung oder der Beendigung des
+(2) Bei den in § 7a Absatz 7 Nummer 1 genannten Beamtinnen und Beamten
+im Fall einer Abordnung innerhalb der Bundespolizei und bei den in §
+7a Absatz 7 Nummer 2 genannten Beamtinnen und Beamten im Fall einer
+Abordnung innerhalb der Zollverwaltung kann bis zur Rückkehr in die
+Dienststelle weiteres Zeitguthaben angespart werden. Das Langzeitkonto
+bleibt bei der bisherigen Dienststelle bestehen. Das Zeitguthaben kann
+bei der aufnehmenden Behörde ausgeglichen werden, sofern die
+dienstlichen Belange der aufnehmenden Behörde dies zulassen.
+
+(3) In den Fällen der Versetzung oder der Beendigung des
 Beamtenverhältnisses ist das Zeitguthaben grundsätzlich bei derjenigen
 Dienststelle auszugleichen, bei der es erworben worden ist. Diese
 Dienststelle soll den Ausgleich gegebenenfalls durch Anordnung
 ermöglichen.
 
-(3) Im Fall einer Versetzung kann im Einvernehmen mit der
+(4) Im Fall einer Versetzung kann im Einvernehmen mit der
 Dienststelle, zu der die Beamtin oder der Beamte versetzt wird, ein
 Zeitguthaben übertragen werden, sofern diese Dienststelle ebenfalls
 Langzeitkonten führt. Ein Anspruch auf Übertragung des Zeitguthabens

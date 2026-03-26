@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1965, 1185
 
 Zuletzt geändert durch
-:   Art. 14 G v. 11.12.2023 I Nr. 354
+:   Art. 24 G v. 4.2.2026 I Nr. 33
 
 
 ## Übersicht
@@ -28,7 +28,7 @@ Zuletzt geändert durch
 
     *   Übergangsvorschriften
 
-    *   §§ 1-26p
+    *   §§ 1-26q
 
 
 *    *   2.
@@ -919,6 +919,14 @@ nach § 342d Absatz 2 Nummer 1 des Handelsgesetzbuchs für ein nach dem
 Fassung sowie die §§ 255a und 255b des Aktiengesetzes sind erstmals
 auf Hauptversammlungen anzuwenden, die ab dem 15. Dezember 2023
 einberufen werden.
+
+
+### § 26q Übergangsvorschrift zum Vierten Bürokratieentlastungsgesetz
+
+§ 124 Absatz 2 und § 124a Satz 1 des Aktiengesetzes in der Fassung des
+Vierten Bürokratieentlastungsgesetzes vom 23. Oktober 2024 (BGBl. 2024
+I Nr. 323) sind erstmals auf Hauptversammlungen anzuwenden, die ab dem
+1\. Februar 2025 einberufen werden.
 
 
 ## Zweiter Abschnitt - Anwendung aktienrechtlicher Vorschriften auf Unternehmen mit anderer Rechtsform

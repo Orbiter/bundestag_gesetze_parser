@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1994, 1084
 
 Zuletzt geändert durch
-:   Art. 9 G v. 11.7.2021 I 2754
-
-Änderung durch
-:   Art. 8z3 G v. 12.12.2023 I Nr. 359 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 8z3 G v. 12.12.2023 I Nr. 359
 
 
 ## Eingangsformel
@@ -555,7 +552,7 @@ schulen (Ausbildungsziel).
 
 ### § 9
 
-(1) Die Ausbildung dauert drei Jahre und besteht aus theoretischem und
+Die Ausbildung dauert drei Jahre und besteht aus theoretischem und
 praktischem Unterricht und einer praktischen Ausbildung. Sie wird
 durch staatlich anerkannte Schulen vermittelt und schließt mit der
 staatlichen Prüfung ab. Schulen, die nicht an einem Krankenhaus
@@ -563,56 +560,7 @@ eingerichtet sind, haben die praktische Ausbildung im Rahmen einer
 Regelung mit Krankenhäusern oder anderen geeigneten medizinischen
 Einrichtungen sicherzustellen.
 
-(2) Zur Erprobung von Ausbildungsangeboten, die der Weiterentwicklung
-des Physiotherapeutenberufs unter Berücksichtigung der
-berufsfeldspezifischen Anforderungen sowie moderner
-berufspädagogischer Erkenntnisse dienen sollen, können die Länder von
-Absatz 1 Satz 2 erster Halbsatz abweichen. Abweichungen von der
-Ausbildungs- und Prüfungsverordnung für Physiotherapeuten sind nur
-zulässig, soweit sie den theoretischen und praktischen Unterricht in §
-1 Absatz 1 sowie die Anlage 1 Buchstabe A der Verordnung betreffen. Es
-ist dabei zulässig, den Unterricht modularisiert und
-kompetenzorientiert zu gestalten. Wird von der Möglichkeit des Satzes
-3 Gebrauch gemacht, kann die zuständige Behörde abweichend von § 12
-Absatz 1 Satz 1 und § 13 Absatz 1 Satz 1 der Ausbildungs- und
-Prüfungsverordnung für Physiotherapeuten eine der Unterrichtsform
-entsprechende modularisierte und kompetenzorientierte Gestaltung des
-schriftlichen und mündlichen Teils der staatlichen Prüfung zulassen.
-Dabei können Modulprüfungen, die nicht früher als zwei Monate vor dem
-Ende der Studienzeit durchgeführt werden, mit Zustimmung der
-zuständigen Behörde den schriftlichen oder mündlichen Teil der
-staatlichen Prüfung ganz oder teilweise ersetzen, sofern sie den
-inhaltlichen Anforderungen der §§ 12 und 13 der Ausbildungs- und
-Prüfungsverordnung für Physiotherapeuten entsprechen. Im Übrigen gilt
-die Verordnung unverändert mit der Maßgabe, dass an die Stelle der
-Schule die Hochschule tritt. Durch die Erprobung darf das Erreichen
-des Ausbildungsziels nicht gefährdet werden. Die Vereinbarkeit der
-Ausbildung mit der Richtlinie 2005/36/EG ist zu gewährleisten.
-
-(3) Ziele, Dauer, Art und allgemeine Vorgaben zur Ausgestaltung der
-Modellvorhaben sowie die Bedingungen für die Teilnahme sind jeweils
-von den Ländern festzulegen. Die Länder stellen jeweils eine
-wissenschaftliche Begleitung und Auswertung der Modellvorhaben im
-Hinblick auf die Erreichung der Ziele sicher. Diese erfolgt auf der
-Grundlage von Richtlinien, die das Bundesministerium für Gesundheit
-bis zum 30. November 2009 im Bundesanzeiger bekannt macht. Ergänzend
-hat die wissenschaftliche Begleitung und Auswertung der Modellvorhaben
-valide Aussagen zur Nachhaltigkeit der Modellvorhaben, die
-insbesondere den dauerhaften Nutzen einer akademischen Qualifikation,
-die Kostenfolgen im Gesundheitswesen oder die Auswirkungen des
-Ausschlusses von Schülerinnen und Schülern mit mittlerem
-Schulabschluss betreffen, zu enthalten. Duale Studiengänge, die nicht
-unter Absatz 2 fallen, weil das Studium parallel zur grundständigen,
-fachschulischen Ausbildung abgeleistet wird, können in die
-wissenschaftliche Begleitung und Auswertung der Modellvorhaben
-einbezogen werden.
-
-(4) Das Bundesministerium für Gesundheit erstattet dem Deutschen
-Bundestag über die Ergebnisse der Modellvorhaben nach Absatz 2
-Bericht. Absatz 3 Satz 3 bis 5 gilt entsprechend. Die Länder
-übermitteln dem Bundesministerium für Gesundheit auf Anforderung die
-für die Erstellung des Berichts erforderlichen Ergebnisse ihrer
-Auswertungen nach Absatz 3.
+(2) bis (4) (weggefallen)
 
 
 ### § 10
@@ -1062,6 +1010,35 @@ Durchführung der Ausbildung und die Erreichung des Ausbildungsziels
 dadurch nicht gefährdet werden. Die Sätze 1 und 2 gelten nur für
 Umschulungen, die bis zum 31. Dezember 2000 begonnen werden. § 6 Abs.
 2 und § 12 Abs. 3 bleiben unberührt.
+
+
+### § 18a
+
+(1) Die Länder können bestimmen, dass die Ausbildung abweichend von §
+9 Absatz 1 Satz 2 an Hochschulen durchgeführt wird. Sie legen Ziele,
+Dauer, Art und allgemeine Vorgaben zur Ausgestaltung der Studiengänge
+sowie die Bedingungen für die Teilnahme fest. Die Vereinbarkeit der
+Ausbildung mit der Richtlinie 2005/36/EG ist zu gewährleisten.
+Abweichungen von der Ausbildungs- und Prüfungsverordnung für
+Physiotherapeuten sind nur zulässig, soweit sie den theoretischen und
+praktischen Unterricht nach § 1 Absatz 1 in Verbindung mit der Anlage
+1 Teil A der Ausbildungs- und Prüfungsverordnung für Physiotherapeuten
+betreffen. Der Studiengang kann modularisiert und kompetenzorientiert
+ausgestaltet werden.
+
+(2) In den Fällen des Absatzes 1 kann die zuständige Behörde eine der
+Ausbildung entsprechende modularisierte und kompetenzorientierte
+Gestaltung der staatlichen Prüfung zulassen. Dabei kann die Hochschule
+Teile der staatlichen Prüfung mit Zustimmung der zuständigen Behörde
+durch Modulprüfungen ganz oder teilweise ersetzen, sofern sie den
+inhaltlichen Anforderungen an den jeweiligen Teil der Prüfung nach den
+§§ 12 bis 14 der Ausbildungs- und Prüfungsverordnung für
+Physiotherapeuten entsprechen.
+
+(3) Im Übrigen gilt die Ausbildungs- und Prüfungsverordnung für
+Physiotherapeuten unverändert mit der Maßgabe, dass an die Stelle der
+Schule die Hochschule tritt. Das Erreichen des Ausbildungsziels darf
+nicht gefährdet werden.
 
 
 ### § 19

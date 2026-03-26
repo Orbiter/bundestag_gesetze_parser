@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2005, 3021
 
-Geändert durch
-:   Art. 3 V v. 12.7.2017 I 2360
+Zuletzt geändert durch
+:   Art. 19 Abs. 7 G v. 22.12.2025 I Nr. 369
 
 
 
@@ -115,7 +115,12 @@ Die Erteilung einer Abrufbefugnis kommt in Betracht bei
 
 6.  Amtsträgern der Gemeinden, soweit sie in einem Realsteuerverfahren in
     Ausübung der nach § 21 des Finanzverwaltungsgesetzes den Gemeinden
-    zustehenden Rechte tätig sind.
+    zustehenden Rechte tätig sind,
+
+
+7.  Amtsträgern der Zollverwaltung oder gleichgestellten Personen, soweit
+    die Abrufbefugnis für die Wahrnehmung der Aufgaben oder Befugnisse
+    nach dem Schwarzarbeitsbekämpfungsgesetz erforderlich ist.
 
 
 

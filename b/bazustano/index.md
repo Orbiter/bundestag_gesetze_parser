@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2018, 127
 
+Geändert durch
+:   Art. 1 AnO v. 28.6.2024 I Nr. 232
+
 Stand: Ersetzt AnO 860-3-31 v. 22.7.2008 I 1405 (BAVorstBeamtRuaAnO 2008)
 
 ## Eingangsformel
@@ -250,10 +253,7 @@ ordnet der Vorstand der Bundesagentur für Arbeit an:
         4.2.2 folgende Befugnisse auf die Leiterin oder den Leiter des BA-Service-
             Hauses:
 
-            4.2.2.1 Befugnisse zu Entscheidungen aufgrund der Vorschriften über die
-                Gewährung von Beihilfen in Krankheits-, Pflege-, Geburts- und
-                Todesfällen für alle Beschäftigten sowie Versorgungsempfängerinnen und
-                Versorgungsempfänger;
+            4.2.2.1 (weggefallen)
 
 
             4.2.2.2 Befugnisse zu Entscheidungen auf dem Gebiet des Versorgungsrechts;
@@ -288,9 +288,20 @@ ordnet der Vorstand der Bundesagentur für Arbeit an:
         Maßgabe der Nummer 1 für die Ernennung zuständig sind.
 
 
-    4.5 Die Befugnis nach § 66 des Bundesbeamtengesetzes, die Führung der
-        Dienstgeschäfte zu verbieten, wird übertragen auf den für die Erhebung
-        der Disziplinarklage zuständigen Dienstvorgesetzten.
+    4.5 Nach § 66 des Bundesbeamtengesetzes wird die Befugnis, die Führung der
+        Dienstgeschäfte zu verbieten, auf die für die Zurückstufung oder die
+        Entfernung aus dem Beamtenverhältnis zuständigen Dienstvorgesetzten
+        übertragen.
+
+
+    4.6 Der Postbeamtenkrankenkasse wird die Zuständigkeit für die
+        Beihilfebearbeitung einschließlich der Beihilfefestsetzung für
+        Beihilfeanträge der beihilfeberechtigten Beschäftigten sowie
+        Versorgungsempfängerinnen und Versorgungsempfänger der Bundesagentur
+        für Arbeit übertragen. Die Postbeamtenkrankenkasse entscheidet als
+        Festsetzungsstelle. Die Festsetzungsstelle ist nicht zu Entscheidungen
+        befugt, die nach den Vorschriften der obersten Dienstbehörde
+        vorbehalten sind.
 
 
 
@@ -307,7 +318,14 @@ ordnet der Vorstand der Bundesagentur für Arbeit an:
     Dienststellen oder Geschäftsführerinnen oder Geschäftsführer der
     gemeinsamen Einrichtungen im Bezirk der Regionaldirektionen für den
     Erlass des Verwaltungsakts oder die beamtenrechtliche Maßnahme
-    zuständig waren und dem Widerspruch nicht abgeholfen wird.
+    zuständig waren und dem Widerspruch nicht abgeholfen wird. Der
+    Postbeamtenkrankenkasse wird die Zuständigkeit für den Erlass von
+    Widerspruchsbescheiden übertragen, soweit es sich um Widersprüche von
+    Beamtinnen und Beamten sowie Versorgungsempfängerinnen und
+    Versorgungsempfänger der Bundesagentur für Arbeit in
+    Beihilfeangelegenheiten handelt und die Postbeamtenkrankenkasse für
+    den Erlass des Verwaltungsaktes oder die Ablehnung des Anspruchs
+    zuständig war.
 
 
 **6.** **Befugnisse bei Klagen**
@@ -326,34 +344,41 @@ ordnet der Vorstand der Bundesagentur für Arbeit an:
     Versorgungsausgleichsgesetz und dem Gesetz über das Verfahren in
     Familiensachen und in den Angelegenheiten der freiwilligen
     Gerichtsbarkeit vor den Oberlandesgerichten zu vertreten, wird auf die
-    Leiterin oder den Leiter des BA-Service-Hauses übertragen.
+    Leiterin oder den Leiter des BA-Service-Hauses übertragen. Dem
+    Vorstand der Postbeamtenkrankenkasse wird die Vertretung der
+    Bundesagentur für Arbeit in gerichtlichen Verfahren der Beamtinnen und
+    Beamten sowie Versorgungsempfängerinnen und Versorgungsempfängern der
+    Bundesagentur für Arbeit in Beihilfeangelegenheiten übertragen, soweit
+    die Postbeamtenkrankenkasse für den Erlass des Widerspruchsbescheids
+    zuständig war.
 
 
 **7.** **Befugnisse nach dem Bundesdisziplinargesetz**
 
-    Die Befugnisse als oberste Dienstbehörde im Sinne des
-    Bundesdisziplinargesetzes werden im Rahmen der dem Vorstand der
-    Bundesagentur für Arbeit nach § 1 Nummer 1 der Verordnung zur
-    Durchführung des Bundesdisziplinargesetzes bei den bundesunmittelbaren
-    Körperschaften mit Dienstherrnfähigkeit im Geschäftsbereich des
-    Bundesministeriums für Arbeit und Soziales übertragenen Befugnisse –
-    mit Ausnahme für die Mitglieder der Geschäftsführung der Agenturen für
-    Arbeit sowie für die Leiterinnen und Leiter der besonderen
-    Dienststellen – wie folgt übertragen:
+    Im Rahmen der dem Vorstand der Bundesagentur für Arbeit nach § 1
+    Nummer 1 der Verordnung zur Durchführung des Bundesdisziplinargesetzes
+    bei den bundesunmittelbaren Körperschaften mit Dienstherrnfähigkeit im
+    Geschäftsbereich des Bundesministeriums für Arbeit und Soziales
+    übertragenen Befugnisse werden – mit Ausnahme für die Mitglieder der
+    Geschäftsführung der Agenturen für Arbeit sowie für die Leiterinnen
+    und Leiter der besonderen Dienststellen – wie folgt übertragen:
 
-    7.1 Nach § 33 Absatz 3 Nummer 1 in Verbindung mit Absatz 5 des
-        Bundesdisziplinargesetzes die Befugnis, die Kürzung der Dienstbezüge
-        bis zum Höchstmaß festzusetzen, richtet sich nach Nummer 1 mit
-        folgender Ausnahme:
+    7.1 Nach § 34 Absatz 5 des Bundesdisziplinargesetzes wird die Befugnis,
+        nach § 34 Absatz 2 Nummer 1 die Kürzung der Dienstbezüge bis zum
+        Höchstmaß festzusetzen, auf die nach Nummer 1 für die Ernennung,
+        Entlassung und Versetzung in den Ruhestand zuständigen
+        Dienstvorgesetzten mit folgender Ausnahme übertragen:
 
         Für die in Nummer 1.1.1 genannten Beamtinnen und Beamten der Agenturen
         für Arbeit sind die Vorsitzenden der Geschäftsführungen der jeweiligen
         Regionaldirektion zuständig.
 
 
-    7.2 Nach § 34 Absatz 1 des Bundesdisziplinargesetzes richtet sich die
-        Befugnis, Disziplinarklage zu erheben, nach Nummer 1 mit folgender
-        Ausnahme:
+    7.2 Nach § 34 Absatz 5 des Bundesdisziplinargesetzes wird die Befugnis,
+        nach § 34 Absatz 4 die Zurückstufung oder die Entfernung aus dem
+        Beamtenverhältnis auszusprechen, auf die nach Nummer 1 für die
+        Ernennung, Entlassung und Versetzung in den Ruhestand zuständigen
+        Dienstvorgesetzten mit folgender Ausnahme übertragen:
 
         Für die in Nummer 1.1.1 genannten Beamtinnen und Beamten der Agenturen
         für Arbeit sind die Vorsitzenden der Geschäftsführung der jeweiligen
@@ -424,7 +449,30 @@ Geschäftsführerinnen oder Geschäftsführern der Agenturen für Arbeit in
 deren Bezirk.
 
 
-## III. Schlussvorschriften
+## III. Übergangsregelungen
+
+Die Anordnung des Vorstands der Bundesagentur für Arbeit über die
+Übertragung von Befugnissen auf dem Gebiet des Beamten-, Versorgungs-
+und Disziplinarrechts in der Fassung vom 28. Dezember 2017 (BGBl. 2018
+I S. 127) ist weiterhin anzuwenden:
+
+a)  auf vor dem 1. April 2024 eingeleitete Disziplinarverfahren,
+
+
+b)  auf die am 30. September 2024 anhängigen Widerspruchsverfahren und
+    Klagen von Beamtinnen und Beamten sowie Versorgungsempfängerinnen und
+    Versorgungsempfängern der Bundesagentur für Arbeit in
+    Beihilfeangelegenheiten,
+
+
+c)  bis zum Abschluss von Rechtsbehelfsverfahren gegen beihilferechtliche
+    Bescheide, die vor dem 1. Oktober 2024 erlassen worden sind.
+
+
+
+
+
+## IV. Schlussvorschriften
 
 Diese Anordnung tritt am Tag nach der Veröffentlichung in Kraft.
 Gleichzeitig wird die Anordnung des Vorstands der Bundesagentur für

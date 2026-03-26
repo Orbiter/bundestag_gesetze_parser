@@ -150,7 +150,7 @@ und 15. September zu leisten.
 
 (4) Beträge, die von einem in § 1 Absatz 1 genannten Dienstherren als
 Versorgungszuschläge nach § 6 Absatz 1 Satz 2 Nummer 5 Buchstabe b des
-Beamtenversorgungsgesetzes oder nach § 20 Absatz 1 Satz 2 Nummer 1
+Beamtenversorgungsgesetzes oder nach § 31 Absatz 1 Satz 2 Nummer 1
 Buchstabe b des Soldatenversorgungsgesetzes vereinnahmt werden, sind
 dem Sondervermögen zuzuführen. Entsprechendes gilt für
 Versorgungszuschläge, die bei Abordnungen zu einem in § 2 des

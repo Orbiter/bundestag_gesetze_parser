@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 11.8.1993 I 1473;
 
 Zuletzt geändert durch
-:   Art. 2 G v. 12.4.2024 I Nr. 121
+:   Art. 3 G v. 22.12.2025 I Nr. 349
 
 
 ## I. Teil - Verfassung und Zuständigkeit des Bundesverfassungsgerichts
@@ -42,7 +42,7 @@ das Plenum beschließt.
 
 (1) Das Bundesverfassungsgericht besteht aus zwei Senaten.
 
-(2) In jedem Senat werden acht Richter gewählt.
+(2) In jeden Senat werden acht Richter gewählt.
 
 (3) Drei Richter jedes Senats werden aus der Zahl der Richter an den
 obersten Gerichtshöfen des Bundes gewählt. Gewählt werden sollen nur
@@ -169,6 +169,12 @@ tritt.
 (4) Das Recht des Wahlorgans, einen nicht vom Bundesverfassungsgericht
 Vorgeschlagenen zu wählen, bleibt unberührt.
 
+(5) Hat das zuständige Wahlorgan innerhalb von drei Monaten, nachdem
+ihm das Bundesverfassungsgericht einen Wahlvorschlag gemacht hat,
+keinen Nachfolger gewählt, kann sein Wahlrecht auch vom anderen
+Wahlorgan ausgeübt werden. Ein so gewählter Richter gilt als vom
+ursprünglich zuständigen Wahlorgan gewählt.
+
 
 ### § 8
 
@@ -257,7 +263,7 @@ Das Bundesverfassungsgericht entscheidet
 
 
 3a. über Beschwerden von Vereinigungen gegen ihre Nichtanerkennung als
-    Partei für die Wahl zum Bundestag (Artikel 93 Absatz 1 Nummer 4c des
+    Partei für die Wahl zum Bundestag (Artikel 94 Absatz 1 Nummer 4c des
     Grundgesetzes),
 
 
@@ -269,44 +275,44 @@ Das Bundesverfassungsgericht entscheidet
     den Umfang der Rechte und Pflichten eines obersten Bundesorgans oder
     anderer Beteiligter, die durch das Grundgesetz oder in der
     Geschäftsordnung eines obersten Bundesorgans mit eigenen Rechten
-    ausgestattet sind (Artikel 93 Abs. 1 Nr. 1 des Grundgesetzes),
+    ausgestattet sind (Artikel 94 Absatz 1 Nummer 1 des Grundgesetzes),
 
 
 6.  bei Meinungsverschiedenheiten oder Zweifeln über die förmliche oder
     sachliche Vereinbarkeit von Bundesrecht oder Landesrecht mit dem
     Grundgesetz oder die Vereinbarkeit von Landesrecht mit sonstigem
     Bundesrecht auf Antrag der Bundesregierung, einer Landesregierung oder
-    eines Viertels der Mitglieder des Bundestages (Artikel 93 Abs. 1 Nr. 2
-    des Grundgesetzes),
+    eines Viertels der Mitglieder des Bundestages (Artikel 94 Absatz 1
+    Nummer 2 des Grundgesetzes),
 
 
 6a. bei Meinungsverschiedenheiten, ob ein Gesetz den Voraussetzungen des
     Artikels 72 Abs. 2 des Grundgesetzes entspricht, auf Antrag des
     Bundesrates, einer Landesregierung oder der Volksvertretung eines
-    Landes (Artikel 93 Abs. 1 Nr. 2a des Grundgesetzes),
+    Landes (Artikel 94 Absatz 1 Nummer 2a des Grundgesetzes),
 
 
 6b. darüber, ob im Falle des Artikels 72 Abs. 4 die Erforderlichkeit für
     eine bundesgesetzliche Regelung nach Artikel 72 Abs. 2 nicht mehr
     besteht oder Bundesrecht in den Fällen des Artikels 125a Abs. 2 Satz 1
     nicht mehr erlassen werden könnte, auf Antrag des Bundesrates, einer
-    Landesregierung oder der Volksvertretung eines Landes (Artikel 93 Abs.
-    2 des Grundgesetzes),
+    Landesregierung oder der Volksvertretung eines Landes (Artikel 94
+    Absatz 2 des Grundgesetzes),
 
 
 7.  bei Meinungsverschiedenheiten über Rechte und Pflichten des Bundes und
     der Länder, insbesondere bei der Ausführung von Bundesrecht durch die
-    Länder und bei der Ausübung der Bundesaufsicht (Artikel 93 Abs. 1 Nr.
-    3 und Artikel 84 Abs. 4 Satz 2 des Grundgesetzes),
+    Länder und bei der Ausübung der Bundesaufsicht (Artikel 94 Absatz 1
+    Nummer 3 und Artikel 84 Abs. 4 Satz 2 des Grundgesetzes),
 
 
 8.  in anderen öffentlich-rechtlichen Streitigkeiten zwischen dem Bund und
     den Ländern, zwischen verschiedenen Ländern oder innerhalb eines
-    Landes, soweit nicht ein anderer Rechtsweg gegeben ist (Artikel 93
-    Abs. 1 Nr. 4 des Grundgesetzes),
+    Landes, soweit nicht ein anderer Rechtsweg gegeben ist (Artikel 94
+    Absatz 1 Nummer 4 des Grundgesetzes),
 
 
-8a. über Verfassungsbeschwerden (Artikel 93 Abs. 1 Nr. 4a und 4b des
+8a. über Verfassungsbeschwerden (Artikel 94 Absatz 1 Nummer 4a und 4b des
     Grundgesetzes),
 
 
@@ -347,8 +353,8 @@ Das Bundesverfassungsgericht entscheidet
     Bundesrecht (Artikel 126 des Grundgesetzes),
 
 
-15. in den ihm sonst durch Bundesgesetz zugewiesenen Fällen (Artikel 93
-    Abs. 3 des Grundgesetzes).
+15. in den ihm sonst durch Bundesgesetz zugewiesenen Fällen (Artikel 94
+    Absatz 3 des Grundgesetzes).
 
 
 
@@ -615,7 +621,174 @@ Aufforderung zu, sich binnen einer zu bestimmenden Frist dazu zu
 aufgeben, binnen einer zu bestimmenden Frist die erforderliche Zahl
 von Abschriften seiner Schriftsätze und der angegriffenen
 Entscheidungen für das Gericht und für die übrigen Beteiligten
-nachzureichen.
+nachzureichen. Das gilt nicht für elektronisch übermittelte Dokumente.
+
+
+#### § 23a
+
+(1) Schriftlich einzureichende Anträge und Erklärungen sowie sonstige
+Schriftsätze und deren Anlagen können nach Maßgabe der folgenden
+Absätze als elektronische Dokumente beim Bundesverfassungsgericht
+eingereicht werden.
+
+(2) Das elektronische Dokument muss für die Bearbeitung durch das
+Bundesverfassungsgericht geeignet sein. Für die Übermittlung und die
+Eignung zur Bearbeitung durch das Bundesverfassungsgericht gelten die
+in der Elektronischer-Rechtsverkehr-Verordnung geregelten technischen
+Rahmenbedingungen des elektronischen Rechtsverkehrs entsprechend.
+
+(3) Das elektronische Dokument muss mit einer qualifizierten
+elektronischen Signatur der verantwortenden Person versehen sein oder
+von der verantwortenden Person signiert und auf einem sicheren
+Übermittlungsweg eingereicht werden. Satz 1 gilt nicht für Anlagen.
+Soll ein schriftlich einzureichender Antrag oder eine schriftlich
+einzureichende Erklärung eines Beteiligten oder eines Dritten als
+elektronisches Dokument eingereicht werden, so kann der
+unterschriebene Antrag oder die unterschriebene Erklärung in ein
+elektronisches Dokument übertragen und durch den Bevollmächtigten, den
+Vertreter oder den Beistand nach Satz 1 übermittelt werden.
+
+(4) Sichere Übermittlungswege sind
+
+1.  der Übermittlungsweg zwischen den besonderen elektronischen
+    Anwaltspostfächern nach den §§ 31a und 31b der
+    Bundesrechtsanwaltsordnung oder einem entsprechenden, auf gesetzlicher
+    Grundlage errichteten elektronischen Postfach und der elektronischen
+    Poststelle des Bundesverfassungsgerichts,
+
+
+2.  der Übermittlungsweg zwischen einem nach Durchführung eines
+    Identifizierungsverfahrens eingerichteten Postfach einer Behörde oder
+    einer juristischen Person des öffentlichen Rechts und der
+    elektronischen Poststelle des Bundesverfassungsgerichts,
+
+
+3.  der Übermittlungsweg zwischen einem nach Durchführung eines
+    Identifizierungsverfahrens eingerichteten elektronischen Postfach
+    einer natürlichen oder juristischen Person oder einer sonstigen
+    Vereinigung und der elektronischen Poststelle des
+    Bundesverfassungsgerichts,
+
+
+4.  der Übermittlungsweg zwischen einem nach Durchführung eines
+    Identifizierungsverfahrens genutzten Postfach- und Versanddienst eines
+    Nutzerkontos im Sinne des § 2 Absatz 5 des Onlinezugangsgesetzes und
+    der elektronischen Poststelle des Bundesverfassungsgerichts,
+
+
+5.  sonstige bundeseinheitliche Übermittlungswege, die durch
+    Rechtsverordnung der Bundesregierung mit Zustimmung des Bundesrates
+    festgelegt werden, bei denen die Authentizität und Integrität der
+    Daten sowie die Barrierefreiheit gewährleistet sind.
+
+
+
+Für die Übermittlungswege gemäß Satz 1 Nummer 2 bis 4 gelten die
+näheren Regelungen der Elektronischer-Rechtsverkehr-Verordnung
+entsprechend.
+
+(5) Ein elektronisches Dokument ist eingegangen, sobald es auf der für
+den Empfang bestimmten Einrichtung des Bundesverfassungsgerichts
+gespeichert ist. Dem Absender ist eine automatisierte Bestätigung über
+den Zeitpunkt des Eingangs zu erteilen.
+
+(6) Ist ein elektronisches Dokument für das Bundesverfassungsgericht
+zur Bearbeitung nicht geeignet, ist dies dem Absender unter Hinweis
+auf die Unwirksamkeit des Eingangs unverzüglich mitzuteilen. Das
+Dokument gilt als zum Zeitpunkt der früheren Einreichung eingegangen,
+sofern der Absender es unverzüglich in einer für das
+Bundesverfassungsgericht zur Bearbeitung geeigneten Form nachreicht
+und glaubhaft macht, dass es mit dem zuerst eingereichten Dokument
+inhaltlich übereinstimmt.
+
+
+#### § 23b
+
+Soweit die handschriftliche Unterzeichnung durch den Richter, den
+Rechtspfleger oder den Urkundsbeamten der Geschäftsstelle
+vorgeschrieben ist, genügt dieser Form die Aufzeichnung als
+elektronisches Dokument, wenn die verantwortenden Personen am Ende des
+Dokuments ihren Namen hinzufügen und das Dokument mit einer
+qualifizierten elektronischen Signatur versehen. Der in Satz 1
+genannten Form genügt auch ein elektronisches Dokument, in welches das
+handschriftlich unterzeichnete Schriftstück gemäß § 23e Absatz 2 Satz
+4 übertragen worden ist.
+
+
+#### § 23c
+
+(1) Schriftlich einzureichende Anträge und Erklärungen sowie sonstige
+Schriftsätze und deren Anlagen, die durch einen Rechtsanwalt, durch
+einen nach § 22 Absatz 1 Satz 1 vertretungsberechtigten Rechtslehrer,
+durch eine Behörde oder durch eine juristische Person des öffentlichen
+Rechts einschließlich der von ihr zur Erfüllung ihrer öffentlichen
+Aufgaben gebildeten Zusammenschlüsse eingereicht werden, sind als
+elektronische Dokumente zu übermitteln. Ist dies aus technischen
+Gründen vorübergehend nicht möglich, bleibt die Übermittlung nach den
+allgemeinen Vorschriften zulässig. Die vorübergehende Unmöglichkeit
+ist bei der Ersatzeinreichung oder unverzüglich danach glaubhaft zu
+machen; auf Anforderung ist ein elektronisches Dokument nachzureichen.
+
+(2) Dokumente und Aktenteile, die nach den Verschlusssachenanweisungen
+des Bundes oder der Länder als Verschlusssache VS-NUR FÜR DEN
+DIENSTGEBRAUCH oder höher eingestuft sind, dürfen bis zum 31. Dezember
+2035 in Papierform übermittelt werden. Die für die Handhabung von
+Verschlusssachen geltenden Geheimschutzvorschriften bleiben unberührt.
+
+
+#### § 23d
+
+(1) Werden die Akten in Papierform geführt, ist von einem
+elektronischen Dokument ein Ausdruck für die Akte zu fertigen. Kann
+dies bei Anlagen nicht oder nur mit unverhältnismäßigem Aufwand
+erfolgen, so kann ein Ausdruck unterbleiben. Die Daten sind in diesem
+Fall dauerhaft zu speichern; der Speicherort ist aktenkundig zu
+machen.
+
+(2) Wird das elektronische Dokument auf einem sicheren
+Übermittlungsweg eingereicht, so ist dies aktenkundig zu machen.
+
+(3) Ist das elektronische Dokument mit einer qualifizierten
+elektronischen Signatur versehen und nicht auf einem sicheren
+Übermittlungsweg eingereicht, muss der Ausdruck einen Vermerk darüber
+enthalten,
+
+1.  welches Ergebnis die Integritätsprüfung des Dokumentes ausweist,
+
+
+2.  wen die Signaturprüfung als Inhaber der Signatur ausweist,
+
+
+3.  welchen Zeitpunkt die Signaturprüfung für die Anbringung der Signatur
+    ausweist.
+
+
+
+
+(4) Ein eingereichtes elektronisches Dokument kann nach Ablauf von
+sechs Monaten gelöscht werden.
+
+
+#### § 23e
+
+(1) Die Verfahrensakten können elektronisch geführt werden. Sie können
+auch teilweise elektronisch geführt werden.
+
+(2) Werden die Verfahrensakten elektronisch geführt, sind in
+Papierform vorliegende Schriftstücke und sonstige Unterlagen nach dem
+Stand der Technik zur Ersetzung der Urschrift in ein elektronisches
+Dokument zu übertragen. Es ist sicherzustellen, dass das elektronische
+Dokument mit den vorliegenden Schriftstücken und sonstigen Unterlagen
+bildlich und inhaltlich übereinstimmt. Das elektronische Dokument ist
+mit einem Übertragungsnachweis zu versehen, der das bei der
+Übertragung angewandte Verfahren und die bildliche und inhaltliche
+Übereinstimmung dokumentiert. Wird ein von den verantwortenden
+Personen handschriftlich unterzeichnetes gerichtliches Schriftstück
+übertragen, ist der Übertragungsnachweis mit einer qualifizierten
+elektronischen Signatur des Urkundsbeamten der Geschäftsstelle zu
+versehen. Die in Papierform vorliegenden Schriftstücke und sonstigen
+Unterlagen können sechs Monate nach der Übertragung vernichtet werden,
+sofern sie nicht rückgabepflichtig sind.
 
 
 #### § 24
@@ -1257,13 +1430,13 @@ Satz 2 entsprechend anzuwenden.
 beschließt der Bundestag nicht vor rechtskräftiger Beendigung des
 gerichtlichen Verfahrens oder, wenn vorher wegen desselben Verstoßes
 ein förmliches Disziplinarverfahren eingeleitet worden ist, nicht vor
-der Eröffnung dieses Verfahrens. Nach Ablauf von sechs Monaten seit
-der rechtskräftigen Beendigung des gerichtlichen Verfahrens, in dem
-der Bundesrichter sich des Verstoßes schuldig gemacht haben soll, ist
-der Antrag nicht mehr zulässig.
+der Eröffnung dieses Verfahrens. Nach Ablauf von einem Jahr seit der
+rechtskräftigen Beendigung des gerichtlichen Verfahrens, in dem der
+Bundesrichter sich des Verstoßes schuldig gemacht haben soll, ist der
+Antrag nicht mehr zulässig.
 
 (3) Abgesehen von den Fällen des Absatzes 2 ist ein Antrag gemäß
-Absatz 1 nicht mehr zulässig, wenn seit dem Verstoß zwei Jahre
+Absatz 1 nicht mehr zulässig, wenn seit dem Verstoß fünf Jahre
 verflossen sind.
 
 (4) Der Antrag wird vor dem Bundesverfassungsgericht von einem
@@ -1431,20 +1604,20 @@ angefochten werden.
 
 (1) Antragsteller und Antragsgegner können nur sein
 
-1.  bei öffentlich-rechtlichen Streitigkeiten gemäß Artikel 93 Abs. 1 Nr.
-    4 des Grundgesetzes zwischen dem Bund und den Ländern:
+1.  bei öffentlich-rechtlichen Streitigkeiten gemäß Artikel 94 Absatz 1
+    Nummer 4 des Grundgesetzes zwischen dem Bund und den Ländern:
 
     die Bundesregierung und die Landesregierungen;
 
 
-2.  bei öffentlich-rechtlichen Streitigkeiten gemäß Artikel 93 Abs. 1 Nr.
-    4 des Grundgesetzes zwischen den Ländern:
+2.  bei öffentlich-rechtlichen Streitigkeiten gemäß Artikel 94 Absatz 1
+    Nummer 4 des Grundgesetzes zwischen den Ländern:
 
     die Landesregierungen;
 
 
-3.  bei öffentlich-rechtlichen Streitigkeiten gemäß Artikel 93 Abs. 1 Nr.
-    4 des Grundgesetzes innerhalb eines Landes:
+3.  bei öffentlich-rechtlichen Streitigkeiten gemäß Artikel 94 Absatz 1
+    Nummer 4 des Grundgesetzes innerhalb eines Landes:
 
     die obersten Organe des Landes und die in der Landesverfassung oder in
     der Geschäftsordnung eines obersten Organs des Landes mit eigenen
@@ -1517,9 +1690,9 @@ dieses Gesetzes entsprechend.
 #### § 76
 
 (1) Der Antrag der Bundesregierung, einer Landesregierung oder eines
-Viertels der Mitglieder des Bundestages gemäß Artikel 93 Abs. 1 Nr. 2
-des Grundgesetzes ist nur zulässig, wenn der Antragsteller Bundes-
-oder Landesrecht
+Viertels der Mitglieder des Bundestages gemäß Artikel 94 Absatz 1
+Nummer 2 des Grundgesetzes ist nur zulässig, wenn der Antragsteller
+Bundes- oder Landesrecht
 
 1.  wegen seiner förmlichen oder sachlichen Unvereinbarkeit mit dem
     Grundgesetz oder dem sonstigen Bundesrecht für nichtig hält oder
@@ -1533,7 +1706,7 @@ oder Landesrecht
 
 
 (2) Der Antrag des Bundesrates, einer Landesregierung oder der
-Volksvertretung eines Landes gemäß Artikel 93 Abs. 1 Nr. 2a des
+Volksvertretung eines Landes gemäß Artikel 94 Absatz 1 Nummer 2a des
 Grundgesetzes ist nur zulässig, wenn der Antragsteller ein
 Bundesgesetz wegen Nichterfüllung der Voraussetzungen des Artikels 72
 Abs. 2 des Grundgesetzes für nichtig hält; der Antrag kann auch darauf
@@ -1950,9 +2123,9 @@ Die Vorschrift des § 79 gilt entsprechend.
 
 #### § 96
 
-(1) Aus der Begründung eines Antrags nach Artikel 93 Abs. 2 Satz 1 des
-Grundgesetzes muss sich das Vorliegen der in Artikel 93 Abs. 2 Satz 3
-des Grundgesetzes bezeichneten Voraussetzung ergeben.
+(1) Aus der Begründung eines Antrags nach Artikel 94 Absatz 2 Satz 1
+des Grundgesetzes muss sich das Vorliegen der in Artikel 94 Absatz 2
+Satz 3 des Grundgesetzes bezeichneten Voraussetzung ergeben.
 
 (2) Das Bundesverfassungsgericht gibt den anderen Antragsberechtigten
 sowie dem Bundestag und der Bundesregierung binnen einer zu
@@ -2068,7 +2241,7 @@ Geschäftsordnung.
 eines Monats nach Eingang der Begründung der Verzögerungsbeschwerde
 eine Stellungnahme vorlegen.
 
-(2) Die Beschwerdekammer entscheidet mit Mehr-heit. Bei
+(2) Die Beschwerdekammer entscheidet mit Mehrheit. Bei
 Stimmengleichheit gilt die Verzögerungsbeschwerde als zurückgewiesen.
 Die Beschwerdekammer entscheidet ohne mündliche Verhandlung. Der
 Beschluss über die Verzögerungsbeschwerde bedarf keiner Begründung.

@@ -16,7 +16,7 @@ Fundstelle
 :   RGBl: 1897, 97
 
 Zuletzt geändert durch
-:   Art. 24 G v. 19.12.2022 I 2606
+:   Art. 1 G v. 24.10.2024 I Nr. 329
 
 
 ## Erster Abschnitt - Zwangsversteigerung und Zwangsverwaltung von Grundstücken im Wege der Zwangsvollstreckung
@@ -1757,6 +1757,66 @@ Pflichten finden die Vorschriften über die Zwangsverwaltung
 entsprechende Anwendung.
 
 
+##### § 94a
+
+(1) Auf Antrag der Gemeinde, in der das Grundstück belegen ist, ist
+dieses für Rechnung des Erstehers in gerichtliche Verwaltung zu
+nehmen, solange nicht
+
+1.  die Zahlung oder Hinterlegung des Bargebots erfolgt ist,
+
+
+2.  die außergerichtliche Einigung über die Erlösverteilung nach § 143 dem
+    Gericht nachgewiesen ist oder
+
+
+3.  die außergerichtliche Befriedigung nach § 144 dem Gericht nachgewiesen
+    ist.
+
+
+
+
+(2) Der Antrag kann ab Anordnung der Zwangsversteigerung und
+spätestens im Verteilungstermin gestellt werden. Die Gemeinde hat mit
+dem Antrag zu bestätigen, dass die zu verwaltende Immobilie
+
+1.  eine Gefahr für die öffentliche Sicherheit oder Ordnung darstellt,
+
+
+2.  bauliche Missstände oder Mängel aufweist,
+
+
+3.  den geltenden Vorschriften zu Umgang, Nutzung und Bewirtschaftung
+    nicht entspricht oder
+
+
+4.  nicht angemessen genutzt wird.
+
+
+
+Liegt ein Antrag im Zeitpunkt der Bestimmung des Versteigerungstermins
+vor, so ist dies in der Terminsbestimmung anzugeben.
+
+(3) Die gerichtliche Verwaltung darf ab Erteilung des Zuschlags
+angeordnet werden. Sie ist aufzuheben, wenn der Teilungsplan durch
+Forderungsübertragung ausgeführt ist und
+
+1.  die Zwangsverwaltung gegen den Ersteher angeordnet ist oder
+
+
+2.  der Ersteher dem Gericht die vollständige Befriedigung der
+    Berechtigten aus der Forderungsübertragung nachgewiesen hat.
+
+
+
+
+(4) § 94 Absatz 2 findet Anwendung. Der Verwalter kann die Zahlung der
+Vergütung von der antragstellenden Gemeinde verlangen, wenn der
+Ersteher die festgesetzte Vergütung nach Aufforderung durch den
+Verwalter nicht gezahlt hat. Zahlt die Gemeinde die Vergütung, kann
+sie vom Ersteher die Erstattung verlangen.
+
+
 #### VII. - Beschwerde
 
 
@@ -3084,6 +3144,8 @@ gerichtliche Bewachung und Verwahrung des versteigerten Schiffs.
 (2) Das Gericht hat die getroffenen Maßregeln aufzuheben, wenn der zu
 ihrer Fortsetzung erforderliche Geldbetrag nicht vorgeschossen wird.
 
+(3) § 94a ist nicht anzuwenden.
+
 
 #### § 170a
 
@@ -3097,9 +3159,11 @@ gelten sinngemäß. An die Stelle des Grundbuchs tritt das
 Schiffsbauregister. Wird das Schiffsbauregister von einem anderen
 Gericht als dem Vollstreckungsgericht geführt, so soll die
 Terminsbestimmung auch durch das für Bekanntmachungen dieses Gerichts
-bestimmte Blatt bekanntgemacht werden. An Stelle der im § 43 Abs. 1
-bestimmten Frist tritt eine Frist von zwei Wochen, an Stelle der im §
-43 Abs. 2 bestimmten Frist eine solche von einer Woche.
+bestimmte Blatt oder in einem für das Gericht bestimmten
+elektronischen Informations- und Kommunikationssystem öffentlich
+bekanntgemacht werden. An Stelle der im § 43 Abs. 1 bestimmten Frist
+tritt eine Frist von zwei Wochen, an Stelle der im § 43 Abs. 2
+bestimmten Frist eine solche von einer Woche.
 
 
 #### § 171
@@ -3139,10 +3203,10 @@ Das Meistgebot ist in seinem ganzen Betrag durch Zahlung zu
 berichtigen.
 
 (5) Die Vorschriften der §§ 165, 166, 168 Abs. 1 und 3, §§ 169a, 170
-Abs. 1 sind anzuwenden. Die vom Gericht angeordnete Überwachung und
-Verwahrung des Schiffs darf erst aufgehoben und das Schiff dem
-Ersteher erst übergeben werden, wenn die Berichtigung des Meistgebots
-oder die Einwilligung der Beteiligten nachgewiesen wird.
+Absatz 1 und 3 sind anzuwenden. Die vom Gericht angeordnete
+Überwachung und Verwahrung des Schiffs darf erst aufgehoben und das
+Schiff dem Ersteher erst übergeben werden, wenn die Berichtigung des
+Meistgebots oder die Einwilligung der Beteiligten nachgewiesen wird.
 
 
 ### Zweiter Titel - Zwangsversteigerung von Luftfahrzeugen
@@ -3249,6 +3313,8 @@ gerichtliche Bewachung und Verwahrung des versteigerten Luftfahrzeugs.
 
 (2) Das Gericht hat die getroffenen Maßregeln aufzuheben, wenn der zu
 ihrer Fortsetzung erforderliche Geldbetrag nicht vorgeschossen wird.
+
+(3) § 94a ist nicht anzuwenden.
 
 
 #### § 171h

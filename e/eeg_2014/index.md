@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2014, 1066
 
 Zuletzt geändert durch
-:   Art. 1 G v. 5.2.2024 I Nr. 33
+:   Art. 23 G v. 18.12.2025 I Nr. 347
 
 
 ## Teil 1 - Allgemeine Bestimmungen
@@ -77,9 +77,9 @@ des Kohleausstiegs erfolgen soll.
 
 Die Errichtung und der Betrieb von Anlagen sowie den dazugehörigen
 Nebenanlagen liegen im überragenden öffentlichen Interesse und dienen
-der öffentlichen Sicherheit. Bis die Stromerzeugung im Bundesgebiet
-nahezu treibhausgasneutral ist, sollen die erneuerbaren Energien als
-vorrangiger Belang in die jeweils durchzuführenden
+der öffentlichen Gesundheit und Sicherheit. Bis die Stromerzeugung im
+Bundesgebiet nahezu treibhausgasneutral ist, sollen die erneuerbaren
+Energien als vorrangiger Belang in die jeweils durchzuführenden
 Schutzgüterabwägungen eingebracht werden. Satz 2 ist nicht gegenüber
 Belangen der Landes- und Bündnisverteidigung anzuwenden.
 
@@ -162,11 +162,15 @@ Im Sinn dieses Gesetzes ist oder sind
 
 
 
+7a. „Betriebsviertelstunde“ jede Viertelstunde, in der die Anlage Strom
+    erzeugt, unabhängig vom Grad der Auslastung der Anlage,
+
+
 8.  „bezuschlagtes Gebot“ ein Gebot, für das ein Zuschlag erteilt worden
     ist,
 
 
-9.  „Bilanzkreis“ ein Bilanzkreis nach § 3 Nummer 10d des
+9.  „Bilanzkreis“ ein Bilanzkreis nach § 3 Nummer 21 des
     Energiewirtschaftsgesetzes,
 
 
@@ -230,6 +234,14 @@ Im Sinn dieses Gesetzes ist oder sind
     Voraussetzungen nach den Buchstaben a bis d erfüllt,
 
 
+15a. „dazugehörige Nebenanlage“ eine Nebenanlage, die der Errichtung oder
+    dem Betrieb einer Anlage dient, einschließlich elektrischer Leitungen,
+    Steuerungs- und Kommunikationsleitungen, Montage- und
+    Kranstellflächen, Zuwegungen, Transformator- und Übergabestationen,
+    wobei Anlagen jenseits der Übergabestation, einschließlich des
+    Umspannwerks, nicht erfasst sind,
+
+
 16. „Direktvermarktung“ die Veräußerung von Strom aus erneuerbaren
     Energien oder aus Grubengas an Dritte, es sei denn, der Strom wird in
     unmittelbarer räumlicher Nähe zur Anlage verbraucht und nicht durch
@@ -273,6 +285,11 @@ Im Sinn dieses Gesetzes ist oder sind
 
 
 
+
+
+21a. „Flugwindenergieanlage an Land“ jede Windenergieanlage an Land, die
+    Strom aus Windenergie mittels unbemannter Flugkörper erzeugt, die über
+    Seile oder Leinen mit einer stationären Bodenstation verbunden sind,
 
 
 22. „Freiflächenanlage“ jede Solaranlage, die nicht auf, an oder in einem
@@ -477,14 +494,18 @@ Im Sinn dieses Gesetzes ist oder sind
 
 42a. „Spotmarktpreis“ der Strompreis in Cent pro Kilowattstunde, der sich
     in der Preiszone für Deutschland aus der Kopplung der Orderbücher
-    aller Strombörsen in der vortägigen Auktion von Stromstundenkontrakten
-    ergibt; wenn die Kopplung der Orderbücher aller Strombörsen nicht oder
-    nur teilweise erfolgt, ist für die Dauer der unvollständigen Kopplung
-    der Durchschnittspreis aller Strombörsen gewichtet nach dem jeweiligen
+    aller Strombörsen in der vortägigen Auktion von
+    Stromviertelstundenkontrakten am Day-Ahead-Markt ergibt; wenn die
+    Kopplung der Orderbücher aller Strombörsen nicht oder nur teilweise
+    erfolgt, ist für die Dauer der unvollständigen Kopplung der
+    Durchschnittspreis aller Strombörsen gewichtet nach dem jeweiligen
     Handelsvolumen zugrunde zu legen,
 
 
-43. (weggefallen)
+43. „Steckersolargerät“ ein Gerät, das aus einer Solaranlage oder aus
+    mehreren Solaranlagen, einem Wechselrichter, einer Anschlussleitung
+    und einem Stecker zur Verbindung mit dem Endstromkreis eines
+    Letztverbrauchers besteht,
 
 
 43a. „Strombörse“ eine Börse, an der für die Preiszone für Deutschland
@@ -511,10 +532,19 @@ Im Sinn dieses Gesetzes ist oder sind
     oder Umweltgutachterorganisation tätig werden darf,
 
 
+46a. „unentgeltliche Abnahme“ die Veräußerungsform der Einspeisevergütung
+    in der Variante nach § 21 Absatz 1 Satz 1 Nummer 2,
+
+
 47. „Unternehmen in Schwierigkeiten“ ein Unternehmen in Schwierigkeiten im
     Sinn der Mitteilung der Kommission – Leitlinien für staatliche
     Beihilfen zur Rettung und Umstrukturierung nichtfinanzieller
     Unternehmen in Schwierigkeiten (ABl. C 249 vom 31.7.2014, S. 1),
+
+
+47a. „Wärmeversorgungseinrichtung“ eine Einrichtung zur leitungsgebundenen
+    Versorgung von mehreren Gebäuden mit Wärme aus einer Biomasseanlage
+    mit einer thermischen Gesamtnennleistung von mindestens 300 Kilowatt,
 
 
 48. „Windenergieanlage an Land“ jede Anlage zur Erzeugung von Strom aus
@@ -604,6 +634,11 @@ Die Ziele nach § 1 sollen erreicht werden durch
 
 
 
+Dabei soll für die Steigerung der installierten Leistung nach Satz 1
+Nummer 3 ein Zubau von Solaranlagen auf, an oder in einem Gebäude oder
+einer Lärmschutzwand mindestens im Umfang des Zubaus von
+Freiflächenanlagen und Solaranlagen auf, an oder in einer baulichen
+Anlage, die weder Gebäude noch Lärmschutzwand ist, angestrebt werden.
 
 
 ### § 4a Strommengenpfad
@@ -821,15 +856,18 @@ zuständige Landkreis als betroffen. Im Übrigen ist Absatz 2 Satz 4 bis
 7 entsprechend anzuwenden.
 
 (4) Vereinbarungen über Zuwendungen nach diesem Paragrafen bedürfen
-der Schriftform und dürfen bereits geschlossen werden
+der schriftlichen oder der elektronischen Form und dürfen bereits
+geschlossen werden
 
 1.  vor der Genehmigung der Windenergieanlage nach dem Bundes-
     Immissionsschutzgesetz oder
 
 
 2.  vor der Genehmigung der Freiflächenanlage, jedoch nicht vor dem
-    Beschluss des Bebauungsplans für die Fläche zur Errichtung der
-    Freiflächenanlage.
+    Beschluss des Bebauungsplans für die Fläche zur Errichtung der Anlage,
+    wenn vor Erteilung der für die Anlage erforderlichen Genehmigung ein
+    Bebauungsplan zur Herstellung der bauplanungsrechtlichen
+    Genehmigungsfähigkeit beschlossen wird.
 
 
 
@@ -904,7 +942,12 @@ günstigster Verknüpfungspunkt.
 (2) Anlagenbetreiber dürfen einen anderen Verknüpfungspunkt dieses
 oder eines anderen im Hinblick auf die Spannungsebene geeigneten
 Netzes wählen, es sei denn, die daraus resultierenden Mehrkosten des
-Netzbetreibers sind nicht unerheblich.
+Netzbetreibers sind nicht unerheblich. Dies kann auch ein
+Verknüpfungspunkt sein, der bereits von einer bestehenden Anlage
+genutzt wird, sofern der Betreiber der bestehenden Anlage der
+Mitnutzung zustimmt. Die Wahl nach Satz 1 oder Satz 2 kann mit dem
+Angebot einer flexiblen Netzanschlussvereinbarung nach § 8a verbunden
+werden.
 
 (3) Der Netzbetreiber darf abweichend von den Absätzen 1 und 2 der
 Anlage einen anderen Verknüpfungspunkt zuweisen, es sei denn, die
@@ -916,33 +959,45 @@ des Stroms erst durch die Optimierung, die Verstärkung oder den Ausbau
 des Netzes nach § 12 möglich wird.
 
 (5) Netzbetreiber müssen Anschlussbegehrenden nach Eingang eines
-Netzanschlussbegehrens unverzüglich einen genauen Zeitplan für die
-Bearbeitung des Netzanschlussbegehrens übermitteln. In diesem Zeitplan
-ist anzugeben,
+Netzanschlussbegehrens, einschließlich eines Begehrens auf Änderung
+oder Erweiterung einer Anlage zur Erhöhung der installierten Leistung,
+unverzüglich einen genauen Zeitplan für die Bearbeitung des
+Netzanschlussbegehrens übermitteln. In diesem Zeitplan ist anzugeben,
 
 1.  in welchen Arbeitsschritten das Netzanschlussbegehren bearbeitet wird
     und
 
 
-2.  welche Informationen die Anschlussbegehrenden aus ihrem
+2.  welche weiteren Informationen die Anschlussbegehrenden aus ihrem
     Verantwortungsbereich den Netzbetreibern übermitteln müssen, damit die
-    Netzbetreiber den Verknüpfungspunkt ermitteln oder ihre Planungen nach
-    § 12 durchführen können.
+    Netzbetreiber ihre Pflichten nach diesem Paragrafen erfüllen oder ihre
+    Planungen nach § 12 durchführen können.
 
 
 
-Übermitteln Netzbetreiber Anschlussbegehrenden im Fall von Anlagen mit
-einer installierten Leistung von bis zu 10,8 Kilowatt den Zeitplan
-nach Satz 1 nicht innerhalb von einem Monat nach Eingang des
-Netzanschlussbegehrens, können die Anlagen unter Einhaltung der für
-die Ausführung eines Netzanschlusses maßgeblichen Regelungen
-angeschlossen werden. Zur Bestimmung der Größe der Anlagen und des
-günstigsten Netzverknüpfungspunktes ist Absatz 1 Satz 2 entsprechend
-anzuwenden.
+Übermitteln Netzbetreiber Anschlussbegehrenden im Fall von Anlagen
+nach Absatz 1 Satz 2 den Zeitplan nach Satz 1 nicht innerhalb von
+einem Monat nach Eingang des Netzanschlussbegehrens, können die
+Anlagen unter Einhaltung der für die Ausführung eines Netzanschlusses
+maßgeblichen Regelungen angeschlossen werden. Zur Bestimmung der Größe
+der Anlagen und des günstigsten Netzverknüpfungspunktes ist Absatz 1
+Satz 2 entsprechend anzuwenden.
+
+(5a) Ein Steckersolargerät oder mehrere Steckersolargeräte mit einer
+installierten Leistung von insgesamt bis zu 2 Kilowatt und einer
+Wechselrichterleistung von insgesamt bis zu 800 Voltampere, die hinter
+der Entnahmestelle eines Letztverbrauchers betrieben werden und der
+unentgeltlichen Abnahme zugeordnet werden, können unter Einhaltung der
+für die Ausführung eines Netzanschlusses maßgeblichen Regelungen
+angeschlossen werden. Registrierungspflichten nach der
+Marktstammdatenregisterverordnung bleiben unberührt; zusätzliche
+gegenüber dem Netzbetreiber abzugebende Meldungen von Anlagen nach
+Satz 1 können nicht verlangt werden.
 
 (6) Netzbetreiber müssen Anschlussbegehrenden nach Eingang der
 erforderlichen Informationen unverzüglich, spätestens aber innerhalb
-von acht Wochen, Folgendes übermitteln:
+von acht Wochen, mit dem Ergebnis ihrer Netzverträglichkeitsprüfung
+Folgendes übermitteln:
 
 1.  einen Zeitplan für die unverzügliche Herstellung des Netzanschlusses
     mit allen erforderlichen Arbeitsschritten,
@@ -977,25 +1032,44 @@ Wenn Netzbetreiber Anschlussbegehrenden im Fall von Anlagen nach
 Absatz 1 Satz 2 die Information nach Satz 1 Nummer 3 nicht
 fristgerecht übermitteln, können die Anlagen unter Einhaltung der für
 die Ausführung eines Netzanschlusses maßgeblichen Regelungen auch ohne
-die Anwesenheit des Netzbetreibers angeschlossen werden. Das Recht der
-Anlagenbetreiber nach § 10 Absatz 1 bleibt auch dann unberührt, wenn
-der Netzbetreiber den Kostenvoranschlag nach Satz 1 Nummer 4
-übermittelt hat.
+die Anwesenheit des Netzbetreibers angeschlossen werden. Übermitteln
+Netzbetreiber Anschlussbegehrenden im Fall von Anlagen nach Absatz 1
+Satz 2 nicht innerhalb der Frist nach Satz 1 die Information, dass der
+bereits bestehende Netzanschluss technisch noch nicht als
+Verknüpfungspunkt geeignet ist, so können die Anlagen unter Einhaltung
+der für die Ausführung eines Netzanschlusses maßgeblichen Regelungen
+an dem bestehenden Verknüpfungspunkt des Grundstücks nach Absatz 1
+Satz 2 angeschlossen werden. Das Recht der Anlagenbetreiber nach § 10
+Absatz 1 bleibt auch dann unberührt, wenn der Netzbetreiber den
+Kostenvoranschlag nach Satz 1 Nummer 4 übermittelt hat.
 
-(7) Abweichend von Absatz 5 Satz 1 und 2 sowie Absatz 6 Satz 1 sind
-für Netzanschlussbegehren nach Absatz 1 Satz 2 ab dem 1. Januar 2025
-die Sätze 2 bis 6 anzuwenden. Netzbetreiber müssen auf ihrer
-Internetseite insbesondere die folgenden allgemeinen Informationen zur
-Verfügung stellen:
+(6a) Für eine Solaranlage oder mehrere Solaranlagen mit einer
+installierten Leistung von insgesamt über 30 Kilowatt bis insgesamt
+höchstens 100 Kilowatt ist Absatz 6 Satz 3 entsprechend anzuwenden,
+wenn sich die Solaranlagen auf einem Grundstück mit bereits
+bestehendem Netzanschluss befinden und die insgesamt installierte
+Leistung an diesem Verknüpfungspunkt die Kapazität des bestehenden
+Netzanschlusses nicht übersteigt. In diesem Fall gilt der
+Verknüpfungspunkt des Grundstücks mit dem Netz als günstigster
+Verknüpfungspunkt.
+
+(7) Abweichend von Absatz 5 sowie Absatz 6 Satz 1 sind für
+Netzanschlussbegehren, einschließlich Begehren auf Änderung oder
+Erweiterung der Anlagen zur Erhöhung der insgesamt installierten
+Leistung bis zu dem in Absatz 1 Satz 2 genannten Schwellenwert, nach
+Absatz 1 Satz 2 ab dem 1. Januar 2025 die Sätze 2 bis 6 anzuwenden.
+Netzbetreiber müssen auf ihrer Internetseite insbesondere die
+folgenden allgemeinen Informationen zur Verfügung stellen:
 
 1.  die Information, in welchen Arbeitsschritten ein Netzanschlussbegehren
     bearbeitet wird,
 
 
 2.  die Angabe, welche Informationen die Anschlussbegehrenden aus ihrem
-    Verantwortungsbereich dem Netzbetreiber übermitteln müssen, damit der
-    Netzbetreiber den Verknüpfungspunkt ermitteln oder seine Planung nach
-    § 12 durchführen kann,
+    Verantwortungsbereich dem Netzbetreiber für ein Netzanschlussbegehren
+    übermitteln müssen, damit der Netzbetreiber seine Pflichten nach
+    diesem Paragrafen erfüllen oder seine Planung nach § 12 durchführen
+    kann,
 
 
 3.  die Kosten, die Anlagenbetreibern durch einen Netzanschluss entstehen,
@@ -1003,7 +1077,7 @@ Verfügung stellen:
 
 
 4.  die Informationen über die zur Erfüllung der Pflichten nach § 9 Absatz
-    1 bis 2a notwendige Ausstattung.
+    1 bis 2 notwendige Ausstattung.
 
 
 
@@ -1011,8 +1085,9 @@ Netzbetreiber müssen ein Webportal zur Verfügung stellen, über das das
 Netzanschlussbegehren nach Satz 1 gestellt und die Informationen nach
 Satz 2 Nummer 2 übermittelt werden können. Netzbetreiber müssen
 Anschlussbegehrenden nach Eingang des Anschlussbegehrens unverzüglich,
-spätestens innerhalb von einem Monat, die folgenden spezifischen
-Informationen übermitteln:
+spätestens innerhalb von einem Monat, mit dem Ergebnis ihrer
+Netzverträglichkeitsprüfung die folgenden spezifischen Informationen
+übermitteln:
 
 1.  einen Zeitplan für die unverzügliche Herstellung des Netzanschlusses
     mit allen erforderlichen Arbeitsschritten,
@@ -1038,100 +1113,182 @@ Informationen übermitteln:
 
 
 5.  die Informationen über die zur Erfüllung der Pflichten nach § 9 Absatz
-    1 bis 2a notwendige Ausstattung.
+    1 bis 2 notwendige Ausstattung.
 
 
 
 Das Format und die Inhalte der nach Satz 2 bis 4 bereitzustellenden
 Informationen und Webportale sind möglichst weitgehend zu
-vereinheitlichen. Im Übrigen sind Absatz 5 Satz 3 und 4 sowie Absatz 6
-Satz 2 und 3 entsprechend anzuwenden.
+vereinheitlichen. Im Übrigen ist Absatz 6 Satz 2 und 3 entsprechend
+mit der Maßgabe anzuwenden, dass für die fristgerechte Übermittlung
+die in Satz 4 geregelte Frist von einem Monat maßgeblich ist. Des
+Weiteren ist Absatz 6 Satz 4 entsprechend anzuwenden.
+
+
+#### § 8a Flexible Netzanschlussvereinbarungen
+
+(1) Der Netzbetreiber und der Anlagenbetreiber können eine
+anschlussseitige Begrenzung der maximalen Wirkleistungseinspeisung in
+das Netz vereinbaren (flexible Netzanschlussvereinbarung). Die
+Einhaltung der Wirkleistungsbegrenzung ist durch den Anlagenbetreiber
+jederzeit durch geeignete technische Maßnahmen sicherzustellen. Die
+Wirkleistungsbegrenzung kann auch auf einzelne Zeitfenster beschränkt
+sein und in ihrer Höhe je Zeitfenster variieren.
+
+(2) In der flexiblen Netzanschlussvereinbarung sind insbesondere
+Regelungen zu treffen
+
+1.  zur Höhe der anschlussseitig begrenzten maximalen
+    Wirkleistungseinspeisung,
+
+
+2.  zu Zeitfenstern mit unterschiedlich hoch begrenzten maximalen
+    Wirkleistungseinspeisungen, sofern dies ermöglicht werden soll,
+
+
+3.  zur Dauer der anschlussseitigen Begrenzung sowie zu den anschließend
+    geltenden Regelungen, sofern die Begrenzung nicht dauerhaft vorgesehen
+    ist,
+
+
+4.  zur Sicherstellung der technischen Anforderungen an die Begrenzung der
+    maximalen Wirkleistungseinspeisung,
+
+
+5.  zur Haftung des Anlagenbetreibers bei Überschreitung der maximalen
+    Wirkleistungseinspeisung und
+
+
+6.  zum Einverständnis anderer Anlagenbetreiber oder Betreiber von
+    Stromspeichern, sofern über denselben Netzverknüpfungspunkt Anlagen
+    oder Stromspeicher anderer Betreiber bereits angeschlossen sind oder
+    zeitgleich angeschlossen werden sollen.
+
+
+
+Im Fall des Satzes 1 Nummer 6 sind ergänzende Regelungen zu treffen
+zur gemeinsamen Verantwortung der Anlagenbetreiber oder Betreiber von
+Stromspeichern für die Einhaltung der Regelungen sowie zu einer
+gesamtschuldnerischen Haftung nach Satz 1 Nummer 5.
+
+(3) Liegt der technisch und wirtschaftlich günstigste
+Verknüpfungspunkt, der im Hinblick auf die Spannungsebene geeignet
+ist, nach § 8 Absatz 1 Satz 1 zweite Alternative nicht an der Stelle
+mit der in der Luftlinie kürzesten Entfernung zum Standort der Anlage
+nach § 8 Absatz 1 Satz 1 erste Alternative, so hat der Netzbetreiber
+für diesen Punkt die grundsätzliche Möglichkeit des Abschlusses einer
+flexiblen Netzanschlussvereinbarung zu prüfen und dem Anlagenbetreiber
+das Ergebnis dieser Prüfung gemeinsam mit dem Ergebnis seiner
+Netzverträglichkeitsprüfung mitzuteilen.
+
+
+#### § 8b Mitteilung des Einspeiseortes
+
+Der Netzbetreiber teilt dem Anschlussbegehrenden innerhalb von vier
+Wochen, nachdem sich der Netzbetreiber und der Anschlussbegehrende auf
+einen Verknüpfungspunkt geeinigt haben, alphanumerische Bezeichnungen
+des vereinbarten Ortes der Messung, der Entnahme und der Einspeisung
+von Energie mit.
 
 
 #### § 9 Technische Vorgaben
 
-(1) Vorbehaltlich abweichender Vorgaben in einer aufgrund des § 95
-Nummer 2 erlassenen Verordnung müssen die Betreiber von Anlagen und
-KWK-Anlagen mit einer installierten Leistung von mehr als 25 Kilowatt
-und die Betreiber von Anlagen, die hinter einem Netzanschluss mit
-mindestens einer steuerbaren Verbrauchseinrichtung nach § 14a des
-Energiewirtschaftsgesetzes betrieben werden, sicherstellen, dass bei
-ihren Anlagen und KWK-Anlagen spätestens zusammen mit dem
-intelligenten Messsystem technische Einrichtungen eingebaut werden,
-die notwendig sind, damit über ein Smart-Meter-Gateway nach § 2 Satz 1
-Nummer 19 des Messstellenbetriebsgesetzes Netzbetreiber oder andere
-Berechtigte jederzeit entsprechend den Vorgaben in Schutzprofilen und
-in Technischen Richtlinien nach dem Messstellenbetriebsgesetz
+(1) Betreiber von Anlagen oder KWK-Anlagen haben den ordnungsgemäßen
+technischen Zustand der Anlage und der jeweiligen elektrischen Anlage
+hinter der Hausanschlusssicherung sicherzustellen, so dass
 
-1.  die Ist-Einspeisung abrufen können und
+1.  der Messstellenbetreiber seine Verpflichtungen zum Einbau und Betrieb
+    von intelligenten Messsystemen und Steuerungseinrichtungen nach den §§
+    3, 29 und 45 des Messstellenbetriebsgesetzes erfüllen kann und
 
 
-2.  die Einspeiseleistung stufenweise oder, sobald die technische
-    Möglichkeit besteht, stufenlos ferngesteuert regeln können.
+2.  Netzbetreiber oder andere Berechtigte jederzeit die Ist-Einspeisung
+    abrufen und die Einspeiseleistung bei Anlagen und KWK-Anlagen, die
+    Strom in das Netz einspeisen, vollständig oder, sobald jeweils die
+    technische Möglichkeit besteht, stufenweise oder stufenlos
+    ferngesteuert regeln können.
 
 
 
-Solange der Messstellenbetreiber von der Möglichkeit des agilen
-Rollouts nach § 31 Absatz 1 Nummer 2 in Verbindung mit § 21 Absatz 1
-Nummer 1 Buchstabe c des Messstellenbetriebsgesetzes für Anlagen mit
-einer installierten Leistung von höchstens 25 Kilowatt, die hinter
-einem Netzanschluss mit mindestens einer steuerbaren
-Verbrauchseinrichtung nach § 14a des Energiewirtschaftsgesetzes
-betrieben werden, Gebrauch macht und gegenüber dem Anlagenbetreiber in
-Textform das Vorliegen der Voraussetzungen des § 31 Absatz 1 des
-Messstellenbetriebsgesetzes bestätigt, ist die Pflicht nach Satz 1
-Nummer 2 spätestens mit dem Anwendungsupdate nach § 31 Absatz 1 des
-Messstellenbetriebsgesetzes zu erfüllen.
+Dabei sind vorbehaltlich sonstiger Rechtsvorschriften die allgemein
+anerkannten Regeln der Technik zu beachten. Die Sätze 1 und 2 sind
+nicht anzuwenden auf Steckersolargeräte mit einer installierten
+Leistung von insgesamt bis zu 2 Kilowatt und mit einer
+Wechselrichterleistung von insgesamt bis zu 800 Voltampere, die hinter
+der Entnahmestelle eines Letztverbrauchers betrieben werden.
 
-(1a) Vorbehaltlich abweichender Vorgaben in einer aufgrund des § 95
-Nummer 2 erlassenen Verordnung müssen die Betreiber von Anlagen und
-KWK-Anlagen mit einer installierten Leistung von mehr als 7 Kilowatt
-und höchstens 25 Kilowatt, die nicht hinter einem Netzanschluss mit
-mindestens einer steuerbaren Verbrauchseinrichtung nach § 14a des
-Energiewirtschaftsgesetzes betrieben werden, sicherstellen, dass bei
-ihren Anlagen spätestens zusammen mit dem intelligenten Messsystem
-technische Einrichtungen eingebaut werden, die notwendig sind, damit
-über ein Smart-Meter-Gateway nach § 2 Satz 1 Nummer 19 des
-Messstellenbetriebsgesetzes Netzbetreiber oder andere Berechtigte
-jederzeit entsprechend den Vorgaben in Schutzprofilen und Technischen
-Richtlinien nach dem Messstellenbetriebsgesetz die Ist-Einspeisung
-abrufen können.
+(2) Bis zum Einbau von intelligenten Messsystemen und
+Steuerungseinrichtungen nach § 29 Absatz 1 Nummer 2 des
+Messstellenbetriebsgesetzes und zur erstmaligen erfolgreichen Testung
+der Anlage oder KWK-Anlage auf Ansteuerbarkeit durch den Netzbetreiber
+über diese neu eingebaute Technik sowie unbeschadet weiterer Vorgaben
+im Zusammenhang mit der netzorientierten Steuerung von steuerbaren
+Verbrauchseinrichtungen nach § 14a des Energiewirtschaftsgesetzes
+müssen
 
-(1b) Ihre Verpflichtungen aus den Absätzen 1 und 1a können die
-Betreiber auch durch einen Dritten erfüllen lassen. Beauftragt der
-Anlagenbetreiber den Messstellenbetreiber nach § 34 Absatz 2 des
-Messstellenbetriebsgesetzes mit den erforderlichen Zusatzleistungen,
-so genügt er abweichend von Absatz 1 Satz 1 und Absatz 1a bereits mit
-der Auftragserteilung seinen dort genannten Verpflichtungen.
-
-(2) Bis zum Einbau von intelligenten Messsystemen und technischen
-Einrichtungen im Sinne der Absätze 1 und 1a und unbeschadet weiterer
-Vorgaben im Zusammenhang mit steuerbaren Verbrauchseinrichtungen nach
-§ 14a des Energiewirtschaftsgesetzes müssen Betreiber von
-
-1.  Anlagen und KWK-Anlagen mit einer installierten Leistung von mehr als
-    100 Kilowatt sicherstellen, dass ihre Anlagen mit technischen
-    Einrichtungen ausgestattet sind, mit denen der Netzbetreiber jederzeit
-    die Ist-Einspeisung abrufen und die Einspeiseleistung ganz oder
-    teilweise ferngesteuert reduzieren kann, oder
+1.  Betreiber von Anlagen oder KWK-Anlagen, die jeweils eine installierte
+    Leistung von mindestens 100 Kilowatt haben, sicherstellen, dass diese
+    Anlagen jeweils mit technischen Einrichtungen ausgestattet sind, mit
+    denen der Netzbetreiber jederzeit die Ist-Einspeisung abrufen und die
+    Einspeiseleistung ganz oder teilweise ferngesteuert reduzieren kann,
 
 
-2.  Anlagen und KWK-Anlagen mit einer installierten Leistung von mehr als
-    25 Kilowatt und höchstens 100 Kilowatt sicherstellen, dass ihre
-    Anlagen mit technischen Einrichtungen ausgestattet sind, mit denen der
-    Netzbetreiber jederzeit die Einspeiseleistung ganz oder teilweise
-    ferngesteuert reduzieren kann.
+2.  Betreiber von Anlagen oder KWK-Anlagen, die jeweils eine installierte
+    Leistung ab 25 Kilowatt und von weniger als 100 Kilowatt haben,
+
+    a)  sicherstellen, dass diese Anlagen jeweils mit technischen
+        Einrichtungen ausgestattet sind, mit denen der Netzbetreiber jederzeit
+        die Einspeiseleistung ganz oder teilweise ferngesteuert reduzieren
+        kann, und
+
+
+    b)  soweit es sich um Anlagen handelt, die der Einspeisevergütung oder dem
+        Mieterstromzuschlag nach § 19 Absatz 1 Nummer 2 oder Nummer 3
+        zugeordnet sind, am Verknüpfungspunkt ihrer Anlage mit dem Netz die
+        maximale Wirkleistungseinspeisung auf 60 Prozent der installierten
+        Leistung begrenzen oder
 
 
 
-Die Pflicht nach Satz 1 Nummer 2 ist nicht anzuwenden, soweit der
-Anlagenbetreiber den Messstellenbetreiber nach Absatz 1b Satz 2
-beauftragt hat. Die Pflicht nach Satz 1 kann bei mehreren Anlagen, die
-gleichartige erneuerbare Energien einsetzen und über denselben
+
+
+3.  Betreiber von Anlagen, die der Einspeisevergütung oder dem
+    Mieterstromzuschlag nach § 19 Absatz 1 Nummer 2 oder Nummer 3
+    zugeordnet sind und die eine installierte Leistung von weniger als 25
+    Kilowatt haben, oder von KWK-Anlagen, die jeweils eine installierte
+    Leistung von weniger als 25 Kilowatt haben, am Verknüpfungspunkt
+    dieser Anlagen mit dem Netz jeweils die maximale
+    Wirkleistungseinspeisung auf 60 Prozent der installierten Leistung
+    begrenzen.
+
+
+
+Die Pflicht nach Satz 1 kann bei mehreren Anlagen oder KWK-Anlagen,
+die gleichartige erneuerbare Energien einsetzen und über denselben
 Verknüpfungspunkt mit dem Netz verbunden sind, auch mit einer
 gemeinsamen technischen Einrichtung erfüllt werden, wenn hiermit die
-jeweilige Pflicht nach Satz 1 für die Gesamtheit der Anlagen erfüllt
-werden kann.
+jeweilige Pflicht nach Satz 1 für die Gesamtheit der Anlagen oder KWK-
+Anlagen erfüllt werden kann. Der Netzbetreiber hat die Testung auf
+Ansteuerbarkeit nach Satz 1 spätestens im Rahmen der nächsten auf den
+Einbau des intelligenten Messsystems und der Steuerungseinrichtungen
+nach § 29 Absatz 1 Nummer 2 des Messstellenbetriebsgesetzes folgenden,
+nach § 12 Absatz 2b Satz 1 des Energiewirtschaftsgesetzes
+durchzuführenden testweisen Anpassungen sowie Abrufung der Ist-
+Einspeisung vorzunehmen. Satz 1 Nummer 3 ist nicht anzuwenden auf
+Steckersolargeräte mit einer installierten Leistung von insgesamt bis
+zu 2 Kilowatt und mit einer Wechselrichterleistung von insgesamt bis
+zu 800 Voltampere, die hinter der Entnahmestelle eines
+Letztverbrauchers betrieben werden.
+
+(2a) Nach dem Einbau von intelligenten Messsystemen und
+Steuerungseinrichtungen nach § 29 Absatz 1 Nummer 2 des
+Messstellenbetriebsgesetzes hat der Netzbetreiber dem Anlagenbetreiber
+bis zu einer nach Absatz 2 Satz 1 erfolgreich durchgeführten Testung
+zum Ausgleich der entstehenden Aufwendungen für den Weiterbetrieb von
+technischen Einrichtungen nach Absatz 2 Satz 1 Nummer 1 und 2 ab dem
+1\. Januar 2028 für jedes angefangene Jahr einen Betrag von 100 Euro
+brutto zu zahlen. Die Zahlungspflicht entfällt, wenn der Netzbetreiber
+eine erfolglose Testung nach Satz 1 nicht zu vertreten hat.
 
 (3) Mehrere Solaranlagen gelten unabhängig von den
 Eigentumsverhältnissen und ausschließlich zum Zweck der Ermittlung der
@@ -1146,41 +1303,38 @@ Anlage, wenn
 
 
 
+Abweichend von Satz 1 gelten mehrere Solaranlagen, die ausschließlich
+auf, an oder in einem Gebäude oder einer Lärmschutzwand angebracht
+sind und die nicht hinter demselben Netzverknüpfungspunkt betrieben
+werden, nicht als eine Anlage. Bei der Fiktion nach Satz 1 bleiben
+Steckersolargeräte unberücksichtigt,
+
+1.  deren installierte Leistung insgesamt bis zu 2 Kilowatt beträgt,
+
+
+2.  deren Wechselrichterleistung insgesamt bis zu 800 Voltampere beträgt
+    und
+
+
+3.  die hinter der Entnahmestelle eines Letztverbrauchers betrieben
+    werden.
+
+
+
 Entsteht eine Pflicht nach Absatz 1, 1a oder 2 für einen
 Anlagenbetreiber erst durch den Zubau von Anlagen eines anderen
 Anlagenbetreibers, kann er von diesem den Ersatz der daraus
 entstehenden Kosten verlangen.
 
-(4) (weggefallen)
+(4) Regelungen zur Weitverkehrsnetzanbindung von Anlagen in einer nach
+§ 19 Absatz 2 Satz 3 des Messstellenbetriebsgesetzes erlassenen
+Verordnung sind unabhängig von den Vorgaben nach den Absätzen 1 bis 3
+anzuwenden und lassen die sich hieraus ergebenden Pflichten unberührt.
 
 (5) Betreiber von Anlagen zur Erzeugung von Strom aus Biogas müssen
-sicherstellen, dass bei der Erzeugung des Biogases
-
-1.  bei Gärrestlagern, die nach dem 31. Dezember 2011 errichtet worden
-    sind, die hydraulische Verweilzeit in dem gesamten gasdichten und an
-    eine Gasverwertung angeschlossenen System der Biogasanlage mindestens
-    150 Tage beträgt und
-
-
-2.  zusätzliche Gasverbrauchseinrichtungen zur Vermeidung einer
-    Freisetzung von Biogas verwendet werden.
-
-
-
-Satz 1 Nummer 1 ist nicht anzuwenden, wenn zur Erzeugung des Biogases
-
-1.  ausschließlich Gülle eingesetzt wird oder
-
-
-2.  mindestens 90 Masseprozent getrennt erfasster Bioabfälle im Sinn des
-    Anhangs 1 Nummer 1 Buchstabe a Abfallschlüssel Nummer 20 02 01, 20 03
-    01 und 20 03 02 der Bioabfallverordnung eingesetzt werden.
-
-
-
-Satz 1 Nummer 1 ist ferner nicht anzuwenden, wenn für den in der
-Anlage erzeugten Strom der Anspruch nach § 19 in Verbindung mit § 43
-geltend gemacht wird.
+sicherstellen, dass bei der Erzeugung des Biogases zusätzliche
+Gasverbrauchseinrichtungen zur Vermeidung einer Freisetzung von Biogas
+verwendet werden.
 
 (6) (weggefallen)
 
@@ -1224,6 +1378,12 @@ wirtschaftlich unzumutbar ist.
 
 (1) Anlagenbetreiber dürfen den Anschluss der Anlagen von dem
 Netzbetreiber oder einer fachkundigen dritten Person vornehmen lassen.
+Soweit bei dem Anschluss nach Satz 1 eine elektrische Anlage hinter
+einer Hausanschlusssicherung im Sinne des § 13 Absatz 1 Satz 1 der
+Niederspannungsanschlussverordnung errichtet, erweitert, geändert oder
+instandgehalten wird, bleiben die dafür geltenden Anforderungen an
+eine Eintragung in das Installateursverzeichnis eines Netzbetreibers
+unberührt.
 
 (2) Die Ausführung des Anschlusses und die übrigen für die Sicherheit
 des Netzes notwendigen Einrichtungen müssen den im Einzelfall
@@ -1235,9 +1395,9 @@ Grubengas ist zugunsten des Anlagenbetreibers § 18 Absatz 2 der
 Niederspannungsanschlussverordnung entsprechend anzuwenden.
 
 
-#### § 10a Messstellenbetrieb
+#### § 10a Messstellenbetrieb; Übergangsregelung für Steckersolargeräte
 
-Für den Messstellenbetrieb sind die Vorschriften des
+(1) Für den Messstellenbetrieb sind die Vorschriften des
 Messstellenbetriebsgesetzes anzuwenden. Abweichend von Satz 1 kann
 anstelle der Beauftragung eines Dritten nach § 5 Absatz 1 des
 Messstellenbetriebsgesetzes der Anlagenbetreiber den
@@ -1246,10 +1406,36 @@ gelten dann alle gesetzlichen Anforderungen, die das
 Messstellenbetriebsgesetz an einen Dritten als Messstellenbetreiber
 stellt.
 
+(2) Der Messstellenbetreiber hat Messstellen an Zählpunkten von
+Steckersolargeräten im Sinne von § 8 Absatz 5a Satz 1 abweichend von §
+3 Absatz 3a des Messstellenbetriebsgesetzes mit Rücksicht auf seine
+Rollout-Planung nach dem Messstellenbetriebsgesetz unverzüglich nach
+der Aufforderung durch die Bundesnetzagentur an den Netzbetreiber zur
+Prüfung der im Marktstammdatenregister eingetragenen Daten nach § 13
+Absatz 1 der Markstammdatenregisterverordnung mit einer modernen
+Messeinrichtung als Zweirichtungszähler oder einem intelligenten
+Messsystem entsprechend den Regelungen des Messstellenbetriebsgesetzes
+auszustatten, ohne dass es einer gesonderten Beauftragung durch den
+Anschlussnehmer oder Anschlussnutzer bedarf. Die Rechte nach § 34
+Absatz 2 Satz 2 des Messstellenbetriebsgesetzes bleiben unberührt.
+
+(3) Steckersolargeräte im Sinn von § 8 Absatz 5a dürfen an der
+Entnahmestelle eines Letztverbrauchers bereits vor dem Einbau einer
+modernen Messeinrichtung als Zweirichtungszähler oder eines
+intelligenten Messsystems mit einer bereits vorhandenen
+Messeinrichtung betrieben werden. Die Richtigkeit der von der
+Messeinrichtung ermittelten Messwerte wird zu Zwecken der Abrechnung
+und Bilanzierung längstens bis zur Ausstattung mit einer modernen
+Messeinrichtung als Zweirichtungszähler oder einem intelligenten
+Messsystem nach Absatz 2 Satz 1 vermutet, dabei kann diese Vermutung
+nur durch den Nachweis einer technischen Störung oder einer
+Manipulation der Messeinrichtung widerlegt werden.
+
 
 #### § 10b Vorgaben zur Direktvermarktung
 
-(1) Anlagenbetreiber, die den in ihren Anlagen erzeugten Strom direkt
+(1) Betreiber von Anlagen mit einer installierten Leistung von mehr
+als 25 Kilowatt, die den in ihren Anlagen erzeugten Strom direkt
 vermarkten, müssen
 
 1.  ihre Anlagen mit technischen Einrichtungen ausstatten, über die das
@@ -1259,8 +1445,9 @@ vermarkten, müssen
     a)  die Ist-Einspeisung abrufen kann und
 
 
-    b)  die Einspeiseleistung stufenweise oder, sobald die technische
-        Möglichkeit besteht, stufenlos ferngesteuert regeln kann, und
+    b)  die Einspeiseleistung vollständig oder, sobald jeweils die technische
+        Möglichkeit besteht, stufenweise oder, stufenlos ferngesteuert regeln
+        kann, und
 
 
 
@@ -1293,35 +1480,24 @@ veräußert, sind die Sätze 1 und 2 entsprechend anzuwenden mit der
 Maßgabe, dass der Anlagenbetreiber die Befugnisse des
 Direktvermarktungsunternehmers oder der anderen Person wahrnimmt. Die
 Pflicht nach Satz 1 muss nicht vor dem Beginn des zweiten auf die
-Inbetriebnahme der Anlage folgenden Kalendermonats erfüllt werden.
+erstmalige Einspeisung der Anlage folgenden Kalendermonats und nicht
+vor dem Beginn des zweiten auf die Meldung des
+Direktvermarktungsunternehmens an den Netzbetreiber zur Übernahme der
+Vermarktung folgenden Kalendermonats erfüllt werden. § 9 Absatz 3 ist
+zur Ermittlung der installierten Leistung entsprechend anzuwenden.
 
-(2) Die Pflicht nach Absatz 1 muss ab Einbau eines intelligenten
-Messsystems über das Smart-Meter-Gateway nach § 2 Nummer 19 des
-Messstellenbetriebsgesetzes erfüllt werden. § 9 Absatz 1b ist
-entsprechend anzuwenden. Hinsichtlich der Pflicht nach Absatz 1 Satz 2
-Nummer 1 Buchstabe b ist auch § 9 Absatz 1 Satz 2 entsprechend
-anzuwenden. Bis zum Einbau eines intelligenten Messsystems
-
-1.  müssen die Anlagenbetreiber Übertragungstechniken und Übertragungswege
-    zur Abrufung der Ist-Einspeisung und zur ferngesteuerten Regelung der
-    Einspeiseleistung verwenden, die dem Stand der Technik bei
-    Inbetriebnahme der Anlage entsprechen und wirtschaftlich vertretbar
-    sind; die Einhaltung des Stands der Technik wird vermutet, wenn die
-    einschlägigen Standards und Empfehlungen des Bundesamtes für
-    Sicherheit in der Informationstechnik berücksichtigt werden, und
-
-
-2.  können die Betreiber von Anlagen mit einer installierten Leistung von
-    höchstens 100 Kilowatt mit dem Direktvermarktungsunternehmer oder der
-    anderen Person, an die der Strom veräußert wird, vertragliche
-    Regelungen vereinbaren, die von den Pflichten nach Absatz 1 Satz 1
-    Nummer 1 abweichen, wenn der gesamte in der Anlage erzeugte Strom
-    eingespeist wird.
-
-
-
-Zur Bestimmung der Größe einer Anlage nach Satz 2 ist § 9 Absatz 3
-Satz 1 entsprechend anzuwenden.
+(2) Die Pflicht nach Absatz 1 muss ab dem 1. Januar 2028 und ab Einbau
+eines intelligenten Messsystems über das Smart-Meter-Gateway nach § 2
+Nummer 19 des Messstellenbetriebsgesetzes erfüllt werden. Sofern die
+Pflicht nach Absatz 1 nicht über das Smart-Meter-Gateway erfüllt wird,
+müssen die Anlagenbetreiber Übertragungstechniken und Übertragungswege
+zur Abrufung der Ist-Einspeisung und zur ferngesteuerten Regelung der
+Einspeiseleistung verwenden, die dem Stand der Technik bei
+Inbetriebnahme der Anlage entsprechen und wirtschaftlich vertretbar
+sind. Die Einhaltung des Stands der Technik wird widerleglich
+vermutet, wenn die einschlägigen Standards und Empfehlungen des
+Bundesamtes für Sicherheit in der Informationstechnik berücksichtigt
+werden.
 
 (3) Die Nutzung der technischen Einrichtungen zur Abrufung der Ist-
 Einspeisung und zur ferngesteuerten Regelung der Einspeiseleistung
@@ -1329,16 +1505,65 @@ sowie die Befugnis, diese zu nutzen, dürfen das Recht des
 Netzbetreibers zu Maßnahmen nach § 13 Absatz 1 und 2 des
 Energiewirtschaftsgesetzes nicht beschränken.
 
+(4) Regelungen zur Weitverkehrsnetzanbindung von Anlagen in einer nach
+§ 19 Absatz 2 Satz 3 und 4 des Messstellenbetriebsgesetzes erlassenen
+Verordnung sind unabhängig von den Vorgaben nach den Absätzen 1 bis 3
+anzuwenden und lassen die sich hieraus ergebenden Pflichten unberührt.
+
+(5) Die Netzbetreiber stimmen untereinander bis zum Ablauf des 1. März
+2026 einheitliche, für Anlagenbetreiber und
+Direktvermarktungsunternehmen einfach umsetzbare Nachweise ab, die sie
+zur Überprüfung der in diesem Paragraphen genannten Pflichten
+heranziehen. Sie stellen dabei die Massengeschäftstauglichkeit der
+Nachweisführung sicher. Soweit die Bundesnetzagentur eine Festlegung
+nach § 85 Absatz 2 Nummer 2 getroffen hat, müssen Netzbetreiber,
+Direktvermarktungsunternehmen und Anlagenbetreiber für die
+Nachweisführung das festgelegte Verfahren und Format nutzen.
+
+(6) Das Direktvermarktungsunternehmen ist verpflichtet,
+
+1.  den Anlagenbetreiber bei einem Verstoß gegen die Pflichten nach diesem
+    Paragraphen zur unverzüglichen Einhaltung aufzufordern und
+
+
+2.  dem Netzbetreiber mitzuteilen, wenn der Anlagenbetreiber der
+    Aufforderung nach Nummer 1 nicht binnen vier Wochen nachgekommen ist.
+
+
+
+
+
+#### § 10c Zuordnung geringfügiger Verbräuche
+
+Im Fall von Solaranlagen mit einer installierten Leistung von
+insgesamt bis zu 100 Kilowatt, die auf, an oder in einem Gebäude
+angebracht sind und bei denen die Einspeisung und die Entnahme über
+eine eigene Messeinrichtung erfasst werden, können die Strombezüge aus
+dem Netz, die in den Solaranlagen oder in deren Neben- und
+Hilfsanlagen zur Erzeugung von Strom im technischen Sinn verbraucht
+werden, auf Verlangen sonstigen, über eine andere Entnahmestelle
+bezogenen Verbrauchsmengen des Betreibers der Solaranlage in diesem
+Gebäude zugerechnet werden, wenn über die Entnahmestelle der
+Solaranlage kein weiterer Strom entnommen und der gesamte in der
+Solaranlage erzeugte Strom mit Ausnahme des Stroms, der in der
+Solaranlage oder in deren Neben- und Hilfsanlagen zur Erzeugung von
+Strom im technischen Sinn verbraucht wird, in das Netz eingespeist
+wird.
+
 
 #### § 11 Abnahme, Übertragung und Verteilung
 
-(1) Netzbetreiber müssen vorbehaltlich des § 13 des
+(1) Netzbetreiber müssen vorbehaltlich abweichender Vorgaben in einer
+aufgrund des § 91 Nummer 2 erlassenen Verordnung oder in § 13 des
 Energiewirtschaftsgesetzes den gesamten Strom aus erneuerbaren
 Energien oder aus Grubengas, der in einer Veräußerungsform nach § 21b
 Absatz 1 veräußert wird, unverzüglich vorrangig physikalisch abnehmen,
-übertragen und verteilen. Macht der Anlagenbetreiber den Anspruch nach
-§ 19 in Verbindung mit § 21 geltend, umfasst die Pflicht aus Satz 1
-auch die kaufmännische Abnahme.
+übertragen und verteilen. Macht der Anlagenbetreiber einen Anspruch
+nach § 19 Absatz 1 Nummer 2 geltend, umfasst die Pflicht aus Satz 1
+auch die kaufmännische Abnahme. Besteht eine flexible
+Netzanschlussvereinbarung nach § 8a, so beschränkt sich die
+Verpflichtung nach Satz 1 auf den Anteil des Stroms, der im Rahmen der
+vereinbarten maximalen Wirkleistungseinspeisung erzeugt wird.
 
 (2) Soweit Strom aus einer Anlage, die an das Netz des
 Anlagenbetreibers oder einer dritten Person, die nicht Netzbetreiber
@@ -1364,6 +1589,104 @@ treffen im Verhältnis zum aufnehmenden Netzbetreiber, der nicht
 
 
 
+
+
+#### § 11a Recht zur Verlegung von Leitungen
+
+(1) Eigentümer und sonstige Nutzungsberechtigte eines Grundstücks im
+Eigentum der öffentlichen Hand haben auf dem Grundstück die Verlegung,
+die Errichtung, die Instandhaltung, die Instandsetzung, den Schutz und
+den Betrieb von elektrischen Leitungen sowie von Steuer- und
+Kommunikationsleitungen (Leitungen) und sonstigen Einrichtungen zum
+Anschluss von Anlagen zur Erzeugung von Strom aus erneuerbaren
+Energien an den Verknüpfungspunkt nach § 8 Absatz 1 bis 3 sowie von
+Direktleitungen im Sinn von § 3 Nummer 27 des
+Energiewirtschaftsgesetzes zu dulden. Der Betreiber der Leitung und
+von ihm Beauftragte sind berechtigt, das Grundstück zu diesem Zweck zu
+betreten und zu befahren. Die Duldungspflicht besteht nicht, soweit
+dadurch die Nutzung des Grundstücks unzumutbar beeinträchtigt wird
+oder Belange der Landes- und Bündnisverteidigung dem entgegenstehen.
+Die Duldungspflicht besteht nicht für Leitungen zum Anschluss von
+Anlagen nach § 8 Absatz 1 Satz 2. Die Leitung und die sonstigen
+Einrichtungen werden keine wesentlichen Bestandteile des Grundstücks
+im Sinn des § 94 Absatz 1 des Bürgerlichen Gesetzbuchs.
+
+(2) Hat der Grundstückseigentümer die Nutzung des Grundstücks nach
+Absatz 1 zu dulden, zahlt der Betreiber dem Grundstückseigentümer bei
+Inbetriebnahme der Leitung einmalig 5 Prozent des Verkehrswertes der
+in Anspruch genommenen Schutzstreifenfläche. Schadensersatzansprüche
+des Grundstückseigentümers und des Nutzungsberechtigten bleiben
+unberührt. Der Betreiber hat die Pflicht, den dem
+Grundstückseigentümer und dem Nutzungsberechtigten entstehenden
+Schaden so gering wie möglich zu halten. Der Betreiber übergibt dem
+Grundstückseigentümer und dem Nutzungsberechtigten nach Verlegung der
+Leitung einen Bestandsplan, in dem der Verlauf der Leitung und die
+Schutzstreifen auf dem Grundstück eingezeichnet sind.
+
+(3) Der Grundstückseigentümer und sonstige Nutzungsberechtigte sind
+verpflichtet, alle Maßnahmen zu unterlassen, die den Bestand oder den
+Betrieb der Leitung oder sonstiger Einrichtungen gefährden oder
+beeinträchtigen. Der Grundstückseigentümer kann die Umverlegung der
+Leitung verlangen, wenn die Lage an der bisherigen Stelle für ihn
+nicht mehr zumutbar ist. Der Betreiber trägt die Kosten der
+Umverlegung.
+
+(4) Wenn der Betrieb der Leitung dauerhaft eingestellt wird, haben der
+Eigentümer und sonstige Nutzungsberechtigte des Grundstücks die
+Leitung und die sonstigen Einrichtungen noch 48 Monate unentgeltlich
+zu dulden, es sei denn, dass ihnen dies nicht zugemutet werden kann.
+Der Betreiber hat dem Grundstückseigentümer und sonstigen
+Nutzungsberechtigten die dauerhafte Betriebseinstellung unverzüglich
+anzuzeigen.
+
+(5) Für die Durchsetzung des Anspruchs des Betreibers ist § 83 Absatz
+2 entsprechend anzuwenden. Eine etwaige Verpflichtung zur Einholung
+öffentlich-rechtlicher Genehmigungen, Gestattungen oder Erlaubnisse,
+die nach anderen Rechtsvorschriften erforderlich sind, bleibt
+unberührt.
+
+(6) Die Absätze 1 bis 5 sind auf öffentliche Verkehrswege entsprechend
+anzuwenden mit der Maßgabe, dass die Modalitäten der zu duldenden
+Nutzung unter Beachtung der Absätze 1 bis 5 vertraglich oder in Form
+von Nebenbestimmungen zu einer Sondernutzungserlaubnis zu regeln sind.
+Auf Leitungen zum Anschluss von Anlagen zur Herstellung oder
+Speicherung von Grünem Wasserstoff und sonstigen Stromspeichern sind
+Satz 1 und die Absätze 1 bis 5 entsprechend anzuwenden.
+
+
+#### § 11b Recht zur Überfahrt während der Errichtung und des Rückbaus
+
+(1) Eigentümer und sonstige Nutzungsberechtigte eines Grundstücks im
+Eigentum der öffentlichen Hand haben die Überfahrt und die
+Überschwenkung des Grundstücks zur Errichtung und zum Rückbau von
+Windenergieanlagen durch den Betreiber der Windenergieanlagen und
+durch von ihm Beauftragte zu dulden. Der Betreiber und von ihm
+Beauftragte dürfen nur die Grundstücke nutzen, die für den Transport
+benötigt werden. Die Duldungspflicht besteht nicht, soweit dadurch die
+Nutzung des Grundstücks unzumutbar beeinträchtigt wird oder Belange
+der Landes- und Bündnisverteidigung dem entgegenstehen. Die
+Duldungspflicht erstreckt sich auch auf die Ertüchtigung des
+Grundstücks für die Überfahrt und Überschwenkung. Der Betreiber hat
+nach der letzten Überfahrt einen dem ursprünglichen Zustand im
+Wesentlichen gleichartigen Zustand herzustellen.
+
+(2) Ist die Überfahrt des Grundstücks nach Absatz 1 zu dulden, zahlt
+der Betreiber dem Nutzungsberechtigten, der unmittelbar in der Nutzung
+seines Grundstücks eingeschränkt war, nach Errichtung oder Rückbau der
+Windenergieanlage 28 Euro pro Monat und in Anspruch genommenen Hektar.
+Eine Überschwenkung ist unentgeltlich zu dulden.
+Schadensersatzansprüche des Grundstückeigentümers und des
+Nutzungsberechtigten bleiben unberührt.
+
+(3) Für die Durchsetzung des Anspruchs des Betreibers ist § 83 Absatz
+2 entsprechend anzuwenden. Eine etwaige Verpflichtung zur Einholung
+öffentlich-rechtlicher Genehmigungen, Gestattungen oder Erlaubnisse,
+die nach anderen Rechtsvorschriften erforderlich sind, bleibt
+unberührt.
+
+(4) Die Absätze 1 bis 3 sind auf öffentliche Verkehrswege entsprechend
+anzuwenden. Auf öffentliche Straßen sind Satz 1 sowie die Absätze 1
+bis 3 nicht anzuwenden.
 
 
 ### Abschnitt 2 - Kapazitätserweiterung und Einspeisemanagement
@@ -1458,8 +1781,8 @@ Anlagen erzeugten Strom gegen den Netzbetreiber einen Anspruch auf
 1.  die Marktprämie nach § 20,
 
 
-2.  eine Einspeisevergütung nach § 21 Absatz 1 Nummer 1, Nummer 2 oder
-    Nummer 3 oder
+2.  eine Einspeisevergütung nach § 21 Absatz 1 Satz 1 Nummer 1, Nummer 2,
+    Nummer 3 oder Nummer 4 oder
 
 
 3.  einen Mieterstromzuschlag nach § 21 Absatz 3.
@@ -1471,15 +1794,95 @@ Anlagen erzeugten Strom gegen den Netzbetreiber einen Anspruch auf
 Anlagenbetreiber für den Strom kein vermiedenes Netzentgelt nach § 18
 Absatz 1 Satz 1 der Stromnetzentgeltverordnung in Anspruch nimmt.
 
-(3) Der Anspruch nach Absatz 1 besteht auch, wenn der Strom vor der
-Einspeisung in ein Netz zwischengespeichert worden ist. In diesem Fall
-bezieht sich der Anspruch auf die Strommenge, die aus dem
-Stromspeicher in das Netz eingespeist wird. Die Höhe des Anspruchs pro
-eingespeister Kilowattstunde bestimmt sich nach der Höhe des
-Anspruchs, die bei einer Einspeisung ohne Zwischenspeicherung
-bestanden hätte. Der Anspruch nach Absatz 1 besteht auch bei einem
-gemischten Einsatz mit Speichergasen. Die Sätze 1 bis 4 sind für den
-Anspruch nach Absatz 1 Nummer 3 entsprechend anzuwenden.
+(3) Wird der Strom vor der Einspeisung in ein Netz in einem
+Stromspeicher zwischengespeichert, so kann der Betreiber des
+Stromspeichers den Anspruch nach Absatz 1 nach folgenden Maßgaben
+geltend machen:
+
+1.  der Ausschließlichkeitsoption nach Absatz 3a,
+
+
+2.  der Abgrenzungsoption nach Absatz 3b oder
+
+
+3.  der Pauschaloption nach Absatz 3c.
+
+
+
+Die Höhe des Anspruchs pro eingespeister Kilowattstunde bestimmt sich
+in den Fällen des Satzes 1 nach der Höhe des Anspruchs, die bei einer
+Einspeisung ohne Zwischenspeicherung bestanden hätte; dabei ist § 24
+Absatz 3 entsprechend anzuwenden. Wird an einer Einspeisestelle aus
+mehreren Stromspeichern Strom in ein Netz eingespeist, kann der
+Anspruch nur einheitlich nach Maßgabe einer Option geltend gemacht
+werden. Die Option nach Satz 1 Nummer 1 ist für den Anspruch nach
+Absatz 1 Nummer 3 entsprechend anzuwenden. Die Optionen nach Satz 1
+Nummer 2 und 3 sind entsprechend auf Ladepunkte für Elektromobile mit
+den Maßgaben anzuwenden, dass ausschließlich für die Zwecke dieses
+Absatzes sowie der Absätze 3b und 3c
+
+1.  Ladepunkte Stromspeichern gleichzusetzen sind,
+
+
+2.  der Verbrauch von über einen Ladepunkt bezogenem Strom in einem
+    Elektromobil als in dem Ladepunkt verbraucht gilt und
+
+
+3.  der mit dem Elektromobil erzeugte und über den Ladepunkt in ein Netz
+    eingespeiste Strom als in dem Ladepunkt erzeugt gilt.
+
+
+
+
+(3a) Im Fall eines Stromspeichers, in dem innerhalb eines
+Kalenderjahres ausschließlich Strom aus erneuerbaren Energien oder
+Grubengas zum Zweck der Zwischenspeicherung verbraucht wird, besteht
+der Anspruch nach Absatz 3 in Verbindung mit Absatz 1 Nummer 1 und 2
+auch für den in diesem Stromspeicher erzeugten und in das Netz
+eingespeisten Strom (Ausschließlichkeitsoption). Der Anspruch nach
+Satz 1 besteht auch bei einem gemischten Einsatz mit Speichergasen.
+
+(3b) Im Fall eines Stromspeichers, in dem nicht ausschließlich Strom
+aus erneuerbaren Energien oder Grubengas zur Zwischenspeicherung
+verbraucht wird, besteht der Anspruch nach Absatz 3 in Verbindung mit
+Absatz 1 Nummer 1 für einen Anteil an der in diesem Stromspeicher
+erzeugten und in das Netz eingespeisten Strommenge, der nach Maßgabe
+einer Festlegung nach § 85d als förderfähiger Anteil bestimmt und
+nachgewiesen wird (Abgrenzungsoption). Die Vorschriften dieses
+Gesetzes und des Energiefinanzierungsgesetzes sind entsprechend
+anzuwenden, soweit der Anspruch nach Satz 1 geltend gemacht wird.
+
+(3c) Im Fall des gemeinsamen Betriebs von Solaranlagen und einem oder
+mehreren Stromspeichern können der Anspruch nach Absatz 1 Nummer 1
+sowie der Anspruch nach Absatz 3 in Verbindung mit Absatz 1 Nummer 1
+auch für einen pauschalen Anteil an den in diesen Solaranlagen und
+diesen Stromspeichern erzeugten und in das Netz eingespeisten
+Strommengen geltend gemacht werden (Pauschaloption). Dies setzt
+voraus, dass hinter der Einspeisestelle
+
+1.  Strom ausschließlich in Solaranlagen und Stromspeichern erzeugt wird,
+
+
+2.  alle Solaranlagen und Stromspeicher von demselben Betreiber betrieben
+    werden und
+
+
+3.  die Solaranlagen eine installierte Leistung von insgesamt höchstens 30
+    Kilowatt haben, wobei Steckersolargeräte bei der Ermittlung der
+    installierten Leistung in entsprechender Anwendung des § 24 Absatz 1
+    Satz 5 unberücksichtigt bleiben.
+
+
+
+Der Anspruch nach Satz 1 besteht für die insgesamt in einem
+Kalenderjahr an der Einspeisestelle in das Netz eingespeiste
+Strommenge, höchstens jedoch für eine Strommenge von bis zu 500
+Kilowattstunden pro Kalenderjahr je Kilowatt installierter Leistung
+der Solaranlagen. Die förderfähige Strommenge ist nach Maßgabe einer
+Festlegung der Bundesnetzagentur nach § 85d zu bestimmen und
+nachzuweisen. Die Vorschriften dieses Gesetzes und des
+Energiefinanzierungsgesetzes sind entsprechend anzuwenden, soweit der
+Anspruch nach Satz 1 geltend gemacht wird.
 
 (4) Der Anspruch nach Absatz 1 entfällt bei Anlagen, deren
 anzulegender Wert gesetzlich bestimmt wird, wenn zum Zeitpunkt der
@@ -1539,6 +1942,16 @@ Der Anspruch auf die Zahlung der Marktprämie nach § 19 Absatz 1 Nummer
 
 
 
+Abweichend von Satz 1 Nummer 3 setzt der Anspruch auf die Zahlung der
+Marktprämie nach § 19 Absatz 1 Nummer 1 in Verbindung mit Absatz 3
+Satz 1 Nummer 2 oder Nummer 3 und Absatz 3b oder Absatz 3c voraus,
+dass der gesamte an der betroffenen Einspeisestelle in ein Netz
+eingespeiste Strom in einem gesonderten Bilanz- oder Unterbilanzkreis
+bilanziert wird, in dem ausschließlich Strom bilanziert wird, bei dem
+der förderfähige Anteil aus dem Stromspeicher nach der Abgrenzungs-
+oder Pauschaloption bestimmt wird oder dessen Einstellung in den
+Bilanz- oder Unterbilanzkreis nicht von dem Anlagenbetreiber oder dem
+Direktvermarktungsunternehmer zu vertreten ist.
 
 
 #### § 21 Einspeisevergütung und Mieterstromzuschlag
@@ -1546,7 +1959,7 @@ Der Anspruch auf die Zahlung der Marktprämie nach § 19 Absatz 1 Nummer
 (1) Der Anspruch auf die Zahlung der Einspeisevergütung nach § 19
 Absatz 1 Nummer 2 besteht nur für Kalendermonate, in denen der
 Anlagenbetreiber den Strom in ein Netz einspeist und dem Netzbetreiber
-nach § 11 zur Verfügung stellt, und zwar für
+nach § 11 Absatz 1 Satz 2 zur Verfügung stellt, und zwar für
 
 1.  Strom aus Anlagen mit einer installierten Leistung von bis zu 100
     Kilowatt, deren anzulegender Wert gesetzlich bestimmt worden ist,
@@ -1554,20 +1967,28 @@ nach § 11 zur Verfügung stellt, und zwar für
     53 Absatz 1,
 
 
-2.  Strom aus Anlagen mit einer installierten Leistung von mehr als 100
+2.  Strom aus Anlagen mit einer installierten Leistung von weniger als 200
+    Kilowatt, für den keine Zahlung nach den Nummern 1, 3 oder 4 geltend
+    gemacht wird, dabei verringert sich in diesem Fall der Anspruch auf
+    null,
+
+
+3.  Strom aus Anlagen mit einer installierten Leistung von mehr als 100
     Kilowatt für eine Dauer von bis zu drei aufeinanderfolgenden
     Kalendermonaten und insgesamt bis zu sechs Kalendermonaten pro
     Kalenderjahr (Ausfallvergütung), dabei verringert sich in diesem Fall
     der Anspruch nach Maßgabe des § 53 Absatz 3 und bei Überschreitung
     einer der Höchstdauern nach dem ersten Halbsatz für den gesamten
-    Kalendermonat auf den Marktwert, oder
+    Kalendermonat auf null, oder
 
 
-3.  Strom aus ausgeförderten Anlagen; dabei verringert sich in diesem Fall
-    der Anspruch nach Maßgabe des § 53 Absatz 2.
+4.  Strom aus ausgeförderten Anlagen; dabei verringert sich in diesem Fall
+    der Anspruch nach Maßgabe des § 53 Absatz 4.
 
 
 
+Der nach Satz 1 eingespeiste und zur Verfügung gestellte Strom steht
+nach § 19 Absatz 1 Nummer 2 vergütetem Strom gleich.
 
 (2) Anlagenbetreiber, die die Einspeisevergütung in Anspruch nehmen,
 
@@ -1590,24 +2011,36 @@ nach § 11 zur Verfügung stellt, und zwar für
 
 (3) Der Anspruch auf die Zahlung des Mieterstromzuschlags nach § 19
 Absatz 1 Nummer 3 besteht für Strom aus Solaranlagen, die auf, an oder
-in einem Wohngebäude installiert sind, soweit er von dem
-Anlagenbetreiber oder einem Dritten an einen Letztverbraucher
-geliefert und verbraucht worden ist
+in einem Gebäude oder einer Nebenanlage dieses Gebäudes installiert
+sind, soweit er von dem Anlagenbetreiber oder einem Dritten an einen
+Letztverbraucher geliefert und verbraucht worden ist
 
-1.  innerhalb dieses Gebäudes oder in Wohngebäuden oder Nebenanlagen in
-    demselben Quartier, in dem auch dieses Gebäude liegt, und
+1.  innerhalb dieses Gebäudes, dieser Nebenanlage oder in Gebäuden oder
+    Nebenanlagen in demselben Quartier, in dem auch dieses Gebäude liegt,
+    und
 
 
 2.  ohne Durchleitung durch ein Netz.
 
 
 
-§ 3 Nummer 50 ist mit der Maßgabe anzuwenden, dass mindestens 40
-Prozent der Fläche des Gebäudes dem Wohnen dient. Im Fall der Nutzung
-eines Speichers besteht der Anspruch nach § 19 Absatz 1 Nummer 3 nicht
-für Strom, der in den Speicher eingespeist wird. Die Strommenge nach
-Satz 1 muss so genau ermittelt werden, wie es die Messtechnik zulässt,
-die nach dem Messstellenbetriebsgesetz zu verwenden ist.
+Der Anspruch nach Satz 1 besteht bei Gebäuden, die nicht Wohngebäude
+sind, oder bei Nebenanlagen solcher Gebäude dann nicht, wenn es sich
+bei dem Anlagenbetreiber oder dem Dritten und dem Letztverbraucher
+jeweils um Unternehmen handelt, die zueinander in einer der in Artikel
+3 Absatz 3 des Anhangs I der Verordnung (EU) Nr. 651/2014 der
+Kommission vom 17. Juni 2014 zur Feststellung der Vereinbarkeit
+bestimmter Gruppen von Beihilfen mit dem Binnenmarkt in Anwendung der
+Artikel 107 und 108 des Vertrags über die Arbeitsweise der
+Europäischen Union (ABl. L 187 vom 26.6.2014, S. 1), die zuletzt durch
+die Verordnung (EU) 2021/1237 (ABl. L 270 vom 29.7.2021, S. 39)
+geändert worden ist, genannten Beziehungen stehen. § 3 Nummer 50 ist
+mit der Maßgabe anzuwenden, dass mindestens 40 Prozent der Fläche des
+Gebäudes dem Wohnen dient. Im Fall der Nutzung eines Speichers besteht
+der Anspruch nach § 19 Absatz 1 Nummer 3 nicht für Strom, der in den
+Speicher eingespeist wird. Die Strommenge nach Satz 1 muss so genau
+ermittelt werden, wie es die Messtechnik zulässt, die nach dem
+Messstellenbetriebsgesetz zu verwenden ist.
 
 (4) Das Bundesministerium für Wirtschaft und Klimaschutz evaluiert den
 Schwellenwert nach Absatz 1 Nummer 1 innerhalb eines Jahres nach der
@@ -1631,8 +2064,8 @@ Veräußerungsformen zuordnen:
 1.  der Marktprämie nach § 20,
 
 
-2.  der Einspeisevergütung nach § 21 Absatz 1 Nummer 1, Nummer 2 oder
-    Nummer 3,
+2.  der Einspeisevergütung nach § 21 Absatz 1 Satz 1 Nummer 1, Nummer 2,
+    Nummer 3 oder Nummer 4,
 
 
 3.  dem Mieterstromzuschlag nach § 21 Absatz 3 oder
@@ -1646,15 +2079,21 @@ Sie dürfen mit jeder Anlage nur zum ersten Kalendertag eines Monats
 zwischen den Veräußerungsformen wechseln. Ordnet der Anlagenbetreiber
 die Anlage dem Mieterstromzuschlag nach § 21 Absatz 3 zu, ist zugleich
 die Veräußerungsform für den Strom zu wählen, der aus dieser Anlage in
-das Netz eingespeist wird.
+das Netz eingespeist wird. Eine Anlage kann der Ausfallvergütung nach
+§ 21 Absatz 1 Satz 1 Nummer 3 nicht zugeordnet werden, wenn sie
+innerhalb der letzten 24 Monate zumindest zeitweise der
+unentgeltlichen Abnahme zugeordnet war.
 
 (1a) (weggefallen)
 
 (2) Anlagenbetreiber dürfen den in ihren Anlagen erzeugten Strom
 prozentual auf verschiedene Veräußerungsformen nach Absatz 1
-aufteilen; in diesem Fall müssen sie die Prozentsätze nachweislich
-jederzeit einhalten. Satz 1 ist nicht für die Ausfallvergütung und
-nicht für den Mieterstromzuschlag nach § 21 Absatz 3 anzuwenden.
+aufteilen. Erfolgt die prozentuale Aufteilung nicht ausschließlich auf
+die Veräußerungsformen des Absatzes 1 Satz 1 Nummer 1 und 4, müssen
+die Anlagenbetreiber die Prozentsätze nachweislich jederzeit
+einhalten. Die Sätze 1 und 2 sind nicht für die Ausfallvergütung, die
+unentgeltliche Abnahme und den Mieterstromzuschlag nach § 21 Absatz 3
+anzuwenden.
 
 (3) Die Zuordnung einer Anlage oder eines prozentualen Anteils des
 erzeugten Stroms einer Anlage zur Veräußerungsform einer
@@ -1677,8 +2116,8 @@ bilanziert wird.
 
 
     c)  kein Fall des Absatzes 1 Satz 1 Nummer 2 in Form der
-        Einspeisevergütung nach § 21 Absatz 1 Nummer 3 oder des Absatzes 1
-        Satz 1 Nummer 3 vorliegt.
+        Einspeisevergütung nach § 21 Absatz 1 Satz 1 Nummer 4 oder des
+        Absatzes 1 Satz 1 Nummer 3 vorliegt.
 
 
 
@@ -1688,10 +2127,10 @@ bilanziert wird.
 
 (5) Für ausgeförderte Anlagen ist im Fall der Einspeisevergütung nach
 § 19 Absatz 1 Nummer 2 ausschließlich eine Zuordnung nach § 21 Absatz
-1 Nummer 3 möglich.
+1 Satz 1 Nummer 4 möglich.
 
 
-#### § 21c Verfahren für den Wechsel
+#### § 21c Verfahren für die Zuordnung und den Wechsel
 
 (1) Anlagenbetreiber müssen dem Netzbetreiber vor Beginn des jeweils
 vorangehenden Kalendermonats mitteilen, wenn sie erstmals Strom in
@@ -1700,11 +2139,18 @@ sie zwischen den Veräußerungsformen wechseln. Im Fall der
 Ausfallvergütung reicht es aus, wenn der Wechsel in die
 Einspeisevergütung oder aus dieser heraus dem Netzbetreiber abweichend
 von Satz 1 bis zum fünftletzten Werktag des Vormonats mitgeteilt wird.
-Eine ausgeförderte Anlage gilt mit Beendigung des Anspruchs auf
-Zahlung nach der für sie maßgeblichen Fassung des Erneuerbare-
-Energien-Gesetzes als der Veräußerungsform nach § 21b Absatz 1 Satz 1
-Nummer 2 und § 21 Absatz 1 Nummer 3 zugeordnet, soweit der
-Anlagenbetreiber keine andere Zuordnung getroffen hat.
+Anlagen mit einer installierten Leistung von weniger als 200 Kilowatt,
+für die der Anlagenbetreiber keine andere Zuordnung getroffen hat,
+gelten als der Veräußerungsform der Einspeisevergütung in der Variante
+der unentgeltlichen Abnahme zugeordnet. Abweichend von Satz 3 gilt
+eine ausgeförderte Anlage mit Beendigung des Anspruchs auf Zahlung
+nach der für sie maßgeblichen Fassung des Erneuerbare-Energien-
+Gesetzes als der Veräußerungsform der Einspeisevergütung in der
+Variante für ausgeförderte Anlagen nach § 21b Absatz 1 Satz 1 Nummer 2
+in Verbindung mit § 21 Absatz 1 Satz 1 Nummer 4 zugeordnet, soweit der
+Anlagenbetreiber keine andere Zuordnung getroffen hat. Die Zuordnung
+einer Anlage entspricht der Geltendmachung des entsprechenden
+Anspruchs.
 
 (2) Bei den Mitteilungen nach Absatz 1 müssen die Anlagenbetreiber
 auch angeben:
@@ -1718,8 +2164,25 @@ auch angeben:
 
 
 3.  bei einer prozentualen Aufteilung des Stroms auf verschiedene
-    Veräußerungsformen nach § 21b Absatz 2 Satz 1 die Prozentsätze, zu
+    Veräußerungsformen nach § 21b Absatz 2 Satz 2 die Prozentsätze, zu
     denen der Strom den Veräußerungsformen zugeordnet wird.
+
+
+
+Bei einer erstmaligen Zuordnung oder einem Wechsel zum
+Mieterstromzuschlag nach § 21 Absatz 3 von Anlagen auf Gebäuden, die
+nicht Wohngebäude sind, oder Nebenanlagen solcher Gebäude sind
+zusätzlich abzugeben:
+
+1.  eine Eigenerklärung, dass der Anlagenbetreiber oder der Dritte und der
+    Letztverbraucher nicht in einer gemäß § 21 Absatz 3 Satz 2 den
+    Anspruch auf Mieterstromzuschlag ausschließenden Beziehung zueinander
+    stehen, und
+
+
+2.  eine Selbstverpflichtung, dass jede Änderung der der Erklärung nach
+    Nummer 1 zugrundeliegenden Umstände unverzüglich dem Netzbetreiber
+    mitgeteilt wird.
 
 
 
@@ -1781,8 +2244,12 @@ in der Anlage erzeugten Strom
 
 Von diesem Erfordernis sind folgende Solaranlagen ausgenommen:
 
-1.  Solaranlagen mit einer installierten Leistung bis einschließlich 1
-    Megawatt und
+1.  Solaranlagen des ersten Segments mit einer installierten Leistung bis
+    einschließlich 1 Megawatt,
+
+
+1a. Solaranlagen des zweiten Segments mit einer installierten Leistung bis
+    einschließlich 750 Kilowatt und
 
 
 2.  Solaranlagen von Bürgerenergiegesellschaften mit einer installierten
@@ -1871,8 +2338,7 @@ Anforderungen nach § 3 Nummer 37 Buchstabe b erfüllt sind.
 3.  die Bürgerenergiegesellschaft sowie ihre stimmberechtigten Mitglieder
     oder Anteilseigner, die juristische Personen des Privatrechts sind,
     und die mit diesen jeweils verbundenen Unternehmen nach Artikel 3 des
-    Anhangs I der Verordnung (EU) Nr. 651/2014 der Kommission vom 17. Juni
-    2014 (ABl. L 187 vom 26.6.2014, S. 1) in den vorangegangenen drei
+    Anhangs I der Verordnung (EU) Nr. 651/2014 in den vorangegangenen drei
     Jahren keine weiteren Windenergieanlagen an Land in Betrieb genommen
     haben.
 
@@ -1891,8 +2357,7 @@ Satz 2 Nummer 2 ist nur zulässig, wenn
 2.  die Bürgerenergiegesellschaft sowie ihre stimmberechtigten Mitglieder
     oder Anteilseigner, die juristische Personen des Privatrechts sind,
     und die mit diesen jeweils verbundenen Unternehmen nach Artikel 3 des
-    Anhangs I der Verordnung (EU) Nr. 651/2014 der Kommission vom 17. Juni
-    2014 (ABl. L 187 vom 26.6.2014, S. 1) in den vorangegangenen drei
+    Anhangs I der Verordnung (EU) Nr. 651/2014 in den vorangegangenen drei
     Jahren keine weiteren Solaranlagen desselben Segments in Betrieb
     genommen haben.
 
@@ -1935,8 +2400,7 @@ Absatz 2 Nummer 2 entsprechend anzuwenden.
 (5) Bürgerenergiegesellschaften sowie deren stimmberechtigte
 Mitglieder oder Anteilseigner, die juristische Personen des
 Privatrechts sind, und die mit diesen jeweils verbundenen Unternehmen
-nach Artikel 3 des Anhangs I der Verordnung (EU) Nr. 651/2014 der
-Kommission vom 17. Juni 2014 (ABl. L 187 vom 26.6.2014, S. 1) dürfen
+nach Artikel 3 des Anhangs I der Verordnung (EU) Nr. 651/2014 dürfen
 für drei Jahre ab der Mitteilung nach Absatz 1 Nummer 1 oder Absatz 2
 Nummer 1 keine Förderung nach diesem Gesetz oder einer auf Grund
 dieses Gesetzes erlassenen Rechtsverordnung für weitere Anlagen
@@ -1990,11 +2454,17 @@ Anspruch keinen negativen Wert annehmen kann:
     ermittelt wird,
 
     a)  nach Maßgabe des § 54 Absatz 1 im Fall der verspäteten Inbetriebnahme
-        einer Solaranlage und
+        einer Solaranlage,
 
 
     b)  nach Maßgabe des § 54 Absatz 2 im Fall der Übertragung der
-        Zahlungsberechtigung für eine Solaranlage auf einen anderen Standort.
+        Zahlungsberechtigung für eine Solaranlage auf einen anderen Standort
+        und
+
+
+    c)  nach Maßgabe des § 54 Absatz 3 im Fall der Nichterbringung des
+        Nachweises über den gleichzeitigen Nutzpflanzenanbau oder die
+        gleichzeitige landwirtschaftliche Nutzung.
 
 
 
@@ -2013,9 +2483,10 @@ wird nach Anlage 1 berechnet.
 
 Bei ausgeförderten Anlagen ist als anzulegender Wert für die Höhe des
 Anspruchs auf die Einspeisevergütung nach § 19 Absatz 1 Nummer 2 in
-Verbindung mit § 21 Absatz 1 Nummer 3 der Jahresmarktwert anzuwenden,
-der sich in entsprechender Anwendung von Anlage 1 Nummer 4 berechnet,
-ab dem Kalenderjahr 2023 höchstens jedoch 10 Cent pro Kilowattstunde.
+Verbindung mit § 21 Absatz 1 Satz 1 Nummer 4 der Jahresmarktwert
+anzuwenden, der sich in entsprechender Anwendung von Anlage 1 Nummer 4
+berechnet, ab dem Kalenderjahr 2023 höchstens jedoch 10 Cent pro
+Kilowattstunde.
 
 
 #### § 23c Anteilige Zahlung
@@ -2069,10 +2540,24 @@ gesetzten Generator als eine Anlage anzusehen, wenn sie Strom aus
 Biogas mit Ausnahme von Biomethan erzeugen und das Biogas aus
 derselben Biogaserzeugungsanlage stammt. Abweichend von Satz 1 werden
 Freiflächenanlagen nicht mit Solaranlagen auf, in oder an Gebäuden und
-Lärmschutzwänden zusammengefasst. Abweichend von Satz 1 werden
-Solaranlagen, die nicht an demselben Anschlusspunkt betrieben werden,
-zum Zweck der Ermittlung des Anspruchs nach § 19 Absatz 1 Nummer 3
-nicht zusammengefasst.
+Lärmschutzwänden zusammengefasst. Abweichend von Satz 1 gelten
+Solaranlagen, die ausschließlich auf, an oder in einem Gebäude oder
+einer Lärmschutzwand angebracht sind und die nicht hinter demselben
+Netzverknüpfungspunkt betrieben werden, nicht als eine Anlage. Bei der
+Fiktion nach Satz 1 bleiben Steckersolargeräte unberücksichtigt,
+
+1.  deren installierte Leistung insgesamt bis zu 2 Kilowatt beträgt,
+
+
+2.  deren Wechselrichterleistung insgesamt bis zu 800 Voltampere beträgt
+    und
+
+
+3.  die hinter der Entnahmestelle eines Letztverbrauchers betrieben
+    werden.
+
+
+
 
 (2) Unbeschadet von Absatz 1 Satz 1 stehen mehrere Windenergieanlagen
 an Land oder Freiflächenanlagen unabhängig von den
@@ -2093,6 +2578,11 @@ gesetzten Generator einer Anlage gleich, wenn sie
 
 
 
+Zum Zweck der Ermittlung der Anlagengröße von Windenergieanlagen an
+Land von Bürgerenergiegesellschaften nach § 22 Absatz 2 Satz 2 Nummer
+3 und Freiflächenanlagen von Bürgerenergiegesellschaften nach § 22
+Absatz 3 Satz 2 Nummer 2 ist Satz 1 mit der Maßgabe anzuwenden, dass
+nur Anlagen von Bürgerenergiegesellschaften zu berücksichtigen sind.
 
 (3) Anlagenbetreiber können Strom aus mehreren Anlagen, die
 gleichartige erneuerbare Energien oder Grubengas einsetzen, über eine
@@ -2122,11 +2612,11 @@ dieses Gesetzes nichts anderes ergibt, der Zeitpunkt der
 Inbetriebnahme der Anlage.
 
 (2) Abweichend von Absatz 1 ist die Einspeisevergütung nach § 19
-Absatz 1 Nummer 2 in Verbindung mit § 21 Absatz 1 Nummer 3 bei
-ausgeförderten Anlagen bis zum 31. Dezember 2027 zu zahlen.
+Absatz 1 Nummer 2 in Verbindung mit § 21 Absatz 1 Satz 1 Nummer 4 bei
+ausgeförderten Anlagen bis zum 31. Dezember 2032 zu zahlen.
 
 
-#### § 26 Abschläge und Fälligkeit
+#### § 26 Abschläge, Fälligkeit und Endabrechnung
 
 (1) Auf die zu erwartenden Zahlungen nach § 19 Absatz 1 sind monatlich
 jeweils zum 15. Kalendertag für den Vormonat Abschläge in angemessenem
@@ -2142,6 +2632,11 @@ Anlagenbetreiber seine Pflichten zur Übermittlung von Daten nach § 71
 Absatz 1 erfüllt hat. Satz 1 ist für den Anspruch auf monatliche
 Abschläge nach Absatz 1 erst ab März des auf die Inbetriebnahme der
 Anlage folgenden Jahres anzuwenden.
+
+(3) Die Endabrechnung nach Absatz 1 muss die Nummer der EEG-Anlage
+nach § 8 Absatz 2 der Marktstammdatenregisterverordnung enthalten und
+ist dem Berechtigten auf Verlangen in digitaler und
+massengeschäftstauglicher Form auszustellen.
 
 
 #### § 27 Aufrechnung
@@ -2230,7 +2725,7 @@ des Absatzes 3
     Kalenderjahr
 
     a)  der Ausbaupfad für die installierte Leistung von Solaranlagen nach § 4
-        Nummer 3 unterschritten worden ist,
+        Satz 1 Nummer 3 unterschritten worden ist,
 
 
     b)  der Strommengenpfad nach § 4a unterschritten worden ist oder
@@ -2248,7 +2743,7 @@ des Absatzes 3
     Kalenderjahr
 
     a)  der Ausbaupfad für die installierte Leistung von Solaranlagen nach § 4
-        Nummer 3 überschritten worden ist,
+        Satz 1 Nummer 3 überschritten worden ist,
 
 
     b)  der Strommengenpfad nach § 4a überschritten worden ist oder
@@ -2418,16 +2913,21 @@ Februar, 1. Juni und 1. Oktober statt.
 1.  im Jahr 2023 650 Megawatt zu installierende Leistung,
 
 
-2.  im Jahr 2024 900 Megawatt zu installierende Leistung und
+2.  im Jahr 2024 1 400 Megawatt zu installierende Leistung,
 
 
-3.  in den Jahren 2025 bis 2029 jeweils 1 100 Megawatt zu installierende
+3.  im Jahr 2025 1 800 Megawatt zu installierende Leistung
+
+
+4.  in den Jahren 2026 bis 2029 jeweils 2 300 Megawatt zu installierende
     Leistung.
 
 
 
 Das Ausschreibungsvolumen wird jeweils gleichmäßig auf die
-Gebotstermine eines Kalenderjahres verteilt.
+Gebotstermine eines Kalenderjahres verteilt. Abweichend von Satz 2
+beträgt das Ausschreibungsvolumen im Jahr 2024 bei den Gebotsterminen
+am 1. Juni und 1. Oktober jeweils 550 Megawatt.
 
 (3) Das Ausschreibungsvolumen
 
@@ -2491,16 +2991,9 @@ Ausschreibungsvolumen um die Differenz dieser beiden Gebotsmengen.
 
 ##### § 28c Ausschreibungsvolumen und Gebotstermine für Biomasse
 
-(1) Die Ausschreibungen für Biomasseanlagen finden statt:
-
-1.  in den Jahren 2023 bis 2025 jeweils zu den Gebotsterminen am 1. April
-    und 1. Oktober und
-
-
-2.  in den Jahren 2026 bis 2028 jeweils zu dem Gebotstermin am 1. Juni.
-
-
-
+(1) Die Ausschreibungen für Biomasseanlagen finden in den Jahren 2023
+bis 2028 jeweils zu den Gebotsterminen am 1. April und 1. Oktober
+statt.
 
 (2) Das Ausschreibungsvolumen beträgt
 
@@ -2510,23 +3003,38 @@ Ausschreibungsvolumen um die Differenz dieser beiden Gebotsmengen.
 2.  im Jahr 2024 500 Megawatt zu installierende Leistung,
 
 
-3.  im Jahr 2025 400 Megawatt zu installierende Leistung und
+3.  im Jahr 2025 1 300 Megawatt zu installierende Leistung,
 
 
-4.  in den Jahren 2026 bis 2028 jeweils 300 Megawatt zu installierende
-    Leistung.
+4.  im Jahr 2026 1 126 Megawatt zu installierende Leistung,
+
+
+5.  im Jahr 2027 326 Megawatt zu installierende Leistung und
+
+
+6.  im Jahr 2028 76 Megawatt zu installierende Leistung.
 
 
 
-Das Ausschreibungsvolumen nach Satz 1 Nummer 1 bis 3 wird jeweils
-gleichmäßig auf die Gebotstermine eines Kalenderjahres verteilt.
+Das Ausschreibungsvolumen nach Satz 1 wird jeweils gleichmäßig auf die
+Gebotstermine eines Kalenderjahres verteilt.
 
 (3) Das Ausschreibungsvolumen
 
-1.  erhöht sich ab dem Jahr 2026 um die Mengen, für die in dem jeweils
-    dritten vorangegangenen Kalenderjahr bei den Ausschreibungen für
-    Biomasseanlagen nach diesem Gesetz keine Zuschläge erteilt werden
-    konnten, und
+1.  erhöht sich jeweils
+
+    a)  ab dem Jahr 2025 um 29 Prozent der Mengen, für die im vorangegangenen
+        Kalenderjahr bei den Ausschreibungen für Biomethananlagen nach diesem
+        Gesetz keine Zuschläge erteilt werden konnten, und
+
+
+    b)  ab dem Jahr 2026 um die Mengen, für die in dem jeweils dritten
+        vorangegangenen Kalenderjahr bei den Ausschreibungen für
+        Biomasseanlagen nach diesem Gesetz keine Zuschläge erteilt werden
+        konnten, und
+
+
+
 
 
 2.  verringert sich jeweils
@@ -2591,22 +3099,22 @@ jeweils 600 Megawatt zu installierende Leistung. Das
 Ausschreibungsvolumen wird jeweils gleichmäßig auf die Gebotstermine
 eines Kalenderjahres verteilt.
 
-(3) Das Ausschreibungsvolumen erhöht sich ab dem Jahr 2024 jeweils um
-die Mengen, für die in dem jeweils vorangegangenen Kalenderjahr bei
-den Ausschreibungen für Biomethananlagen nach diesem Gesetz keine
-Zuschläge erteilt werden konnten.
+(3) Das Ausschreibungsvolumen erhöht sich im Jahr 2024 um die Mengen,
+für die in dem vorangegangenen Kalenderjahr bei den Ausschreibungen
+für Biomethananlagen nach diesem Gesetz keine Zuschläge erteilt werden
+konnten.
 
 (4) Die Bundesnetzagentur verteilt die Menge, um die sich das
 Ausschreibungsvolumen nach Absatz 3 erhöht, gleichmäßig auf das
 Ausschreibungsvolumen der folgenden zwei noch nicht bekanntgemachten
 Gebotstermine.
 
-(5) Das nach Absatz 4 ermittelte Ausschreibungsvolumen eines
-Gebotstermins erhöht sich um die Gebotsmenge der Zuschläge, die nach
-dem 31. Dezember 2022 erteilt und vor der Bekanntmachung des
-jeweiligen Gebotstermins nach § 35a entwertet wurden. Nach Satz 1 zu
-berücksichtigende Erhöhungen werden dem auf eine Entwertung folgenden
-noch nicht bekanntgemachten Gebotstermin nach Absatz 1 zugerechnet.
+(5) Das Ausschreibungsvolumen eines Gebotstermins erhöht sich um die
+Gebotsmenge der Zuschläge, die nach dem 31. Dezember 2022 erteilt und
+vor der Bekanntmachung des jeweiligen Gebotstermins nach § 35a
+entwertet wurden. Nach Satz 1 zu berücksichtigende Erhöhungen werden
+dem auf eine Entwertung folgenden noch nicht bekanntgemachten
+Gebotstermin nach Absatz 1 zugerechnet.
 
 (6) Die Bundesnetzagentur kann das nach den Absätzen 2 bis 5
 errechnete Ausschreibungsvolumen eines Gebotstermins bei einer
@@ -2630,7 +3138,8 @@ Summe der Leistung der nach der Meldefrist nach § 39 Absatz 1 Nummer 3
 des vorangegangenen Gebotstermins dem Register gemeldeten genehmigten
 Anlagen und der Gebotsmenge der im vorangegangenen Gebotstermin nicht
 bezuschlagten Gebote entsprechen. Für das nach Satz 1 gekürzte
-Ausschreibungsvolumen ist Absatz 3 entsprechend anzuwenden.
+Ausschreibungsvolumen sind im Jahr 2024 Absatz 3 und ab dem Jahr 2025
+§ 28c Absatz 3 Nummer 1 Buchstabe a entsprechend anzuwenden.
 
 
 ##### § 28e Ausschreibungsvolumen und Gebotstermine für Innovationsausschreibungen
@@ -2807,7 +3316,13 @@ Bekanntmachungen müssen mindestens folgende Angaben enthalten:
 
 4.  die Angabe, ob Landesregierungen Rechtsverordnungen aufgrund von § 37c
     Absatz 2 erlassen haben und auf welchen Flächen nach diesen
-    Rechtsverordnungen Gebote für Solaranlagen bezuschlagt werden können,
+    Rechtsverordnungen Gebote für Solaranlagen auszuschließen sind,
+
+
+4a. die Angabe, ob nach § 37 Absatz 4 keine Gebote für Freiflächenanlagen
+    abgegeben werden dürfen, die auf landwirtschaftlich genutzten Flächen
+    errichtet werden sollen, sowie die nach § 37 Absatz 4 ermittelte
+    installierte Leistung solcher Anlagen,
 
 
 5.  die Formatvorgaben, die nach § 30a Absatz 1 von der Bundesnetzagentur
@@ -2874,13 +3389,23 @@ Bekanntmachungen müssen mindestens folgende Angaben enthalten:
 
 8.  die Eigenerklärung des Bieters, dass kein Verbot zur Teilnahme an
     dieser Ausschreibung nach diesem Gesetz oder nach einer auf Grund
-    dieses Gesetzes erlassenen Rechtsverordnung besteht, und
+    dieses Gesetzes erlassenen Rechtsverordnung besteht,
 
 
-9.  bei Anlagen, die auf einem entwässerten Moorboden errichtet werden
-    sollen, die Eigenerklärung des Bieters, dass er geprüft hat, dass
-    durch die Errichtung der Anlage kein zusätzliches Hemmnis für eine
-    zukünftige Wiedervernässung des Moorbodens entsteht.
+9.  bei Geboten für besondere Solaranlagen nach § 37 Absatz 1 Nummer 3
+    Buchstabe a bis c die Angabe des Bieters, ob die geplanten Anlagen bei
+    ausschließlich senkrecht ausgerichteten Solaranlagen insgesamt mit
+    einer lichten Höhe von mindestens 0,80 Metern und sonst insgesamt mit
+    einer lichten Höhe von mindestens 2,10 Metern aufgeständert werden
+    sollen, und
+
+
+10. soweit Solaranlagen auf einer in § 37c Absatz 2 Nummer 2 bezeichneten
+    Fläche errichtet werden sollen, für die die jeweilige Landesregierung
+    in einer Verordnung nach § 37c Absatz 2 bestimmt hat, dass Gebote auf
+    solchen Flächen teilweise nicht berücksichtigt werden, die Angabe, auf
+    welcher der in der Verordnung bestimmten Flächen die Anlage errichtet
+    werden soll.
 
 
 
@@ -2888,14 +3413,18 @@ Bekanntmachungen müssen mindestens folgende Angaben enthalten:
 (2) Ein Gebot muss eine Gebotsmenge von mehr als 1 000 Kilowatt
 umfassen. Abweichend von Satz 1
 
-1.  besteht für Zusatzgebote nach § 36j keine Mindestgröße für die
+1.  muss ein Gebot bei Solaranlagen des zweiten Segments eine Gebotsmenge
+    von mehr als 750 Kilowatt umfassen,
+
+
+2.  besteht für Zusatzgebote nach § 36j keine Mindestgröße für die
     Gebotsmenge und
 
 
-2.  muss ein Gebot bei Biomasseanlagen und Biomethananlagen nach Teil 3
-    Abschnitt 3 Unterabschnitt 6 eine Mindestgröße von 150 Kilowatt
-    umfassen, dabei besteht bei Geboten für bestehende Biomasseanlagen
-    nach § 39g keine Mindestgröße für die Gebotsmenge.
+3.  muss ein Gebot bei Biomasseanlagen und Biomethananlagen nach Teil 3
+    Abschnitt 3 Unterabschnitt 6 eine Mindestgröße von mehr als 150
+    Kilowatt umfassen, dabei besteht bei Geboten für bestehende
+    Biomasseanlagen nach § 39g keine Mindestgröße für die Gebotsmenge.
 
 
 
@@ -2935,8 +3464,9 @@ Gebotstermin zugegangen sein.
 (3) Die Rücknahme von Geboten ist bis zum jeweiligen Gebotstermin
 zulässig; maßgeblich ist der Zugang einer Rücknahmeerklärung bei der
 Bundesnetzagentur. Die Rücknahme muss durch eine unbedingte,
-unbefristete und der Schriftform genügende Erklärung des Bieters
-erfolgen, die sich dem entsprechenden Gebot eindeutig zuordnen lässt.
+unbefristete und schriftlich oder elektronisch übermittelte Erklärung
+des Bieters erfolgen, die sich dem entsprechenden Gebot eindeutig
+zuordnen lässt.
 
 (4) Bieter sind an ihre Gebote, die bis zum Gebotstermin abgegeben und
 nicht zurückgenommen worden sind, gebunden, bis ihnen von der
@@ -2945,7 +3475,7 @@ Zuschlag erhalten hat.
 
 (5) Die Ausschreibungen können von der Bundesnetzagentur ganz oder
 teilweise auf ein elektronisches Verfahren umgestellt werden; dabei
-kann auch von dem Schriftformerfordernis nach Absatz 3 Satz 2
+kann auch von der Zustellung nach § 73 des Energiewirtschaftsgesetzes
 abgewichen werden. In diesem Fall kann die Bundesnetzagentur
 insbesondere Vorgaben über die Authentifizierung für die gesicherte
 Datenübertragung machen. Bei einer Umstellung auf ein elektronisches
@@ -2978,18 +3508,18 @@ sich die Sicherheit bezieht, eindeutig bezeichnen.
 
 
 
-(4) Die Bürgschaftserklärung ist schriftlich in deutscher Sprache
-unter Verzicht auf die Einrede der Vorausklage nach § 771 des
-Bürgerlichen Gesetzbuchs und unter Verzicht auf die Einreden der
-Aufrechenbarkeit und Anfechtbarkeit nach § 770 des Bürgerlichen
-Gesetzbuchs einzureichen. Der Bürge muss in der Europäischen Union
-oder in einem Staat der Vertragsparteien des Abkommens über den
-Europäischen Wirtschaftsraum als Kreditinstitut oder als
-Kreditversicherer zugelassen sein. Die Bundesnetzagentur kann im
-Einzelfall bei begründeten Bedenken gegen die Tauglichkeit des Bürgen
-vom Bieter verlangen, die Tauglichkeit des Bürgen nachzuweisen. Für
-den Nachweis der Tauglichkeit im Einzelfall ist der Maßstab des § 239
-Absatz 1 des Bürgerlichen Gesetzbuchs heranzuziehen.
+(4) Die Bürgschaftserklärung ist in deutscher Sprache unter Verzicht
+auf die Einrede der Vorausklage nach § 771 des Bürgerlichen
+Gesetzbuchs und unter Verzicht auf die Einreden der Aufrechenbarkeit
+und Anfechtbarkeit nach § 770 des Bürgerlichen Gesetzbuchs
+einzureichen. Der Bürge muss in der Europäischen Union oder in einem
+Staat der Vertragsparteien des Abkommens über den Europäischen
+Wirtschaftsraum als Kreditinstitut oder als Kreditversicherer
+zugelassen sein. Die Bundesnetzagentur kann im Einzelfall bei
+begründeten Bedenken gegen die Tauglichkeit des Bürgen vom Bieter
+verlangen, die Tauglichkeit des Bürgen nachzuweisen. Für den Nachweis
+der Tauglichkeit im Einzelfall ist der Maßstab des § 239 Absatz 1 des
+Bürgerlichen Gesetzbuchs heranzuziehen.
 
 (5) Die Bundesnetzagentur verwahrt die Sicherheiten nach Absatz 3
 Nummer 2 treuhänderisch zugunsten der Bieter und der
@@ -3204,6 +3734,42 @@ auf ihrer Internetseite bekannt:
 
 
 
+(1a) Bei Ausschreibungen von Solaranlagen des ersten Segments
+veröffentlicht die Bundesnetzagentur zusätzlich eine Aufstellung der
+bezuschlagten Mengen differenziert nach:
+
+1.  der bezuschlagten Gesamtmenge für besondere Solaranlagen nach § 37
+    Absatz 1 Nummer 3 Buchstabe a bis c sowie nach den davon jeweils
+    bezuschlagten Teilmengen für Anlagen, die
+
+    a)  ausschließlich senkrecht ausgerichtet und insgesamt mit einer lichten
+        Höhe von mindestens 0,80 Metern aufgeständert werden sollen und
+
+
+    b)  insgesamt mit einer lichten Höhe von mindestens 2,10 Metern
+        aufgeständert werden sollen,
+
+
+
+
+
+2.  der bezuschlagten Gesamtmenge für besondere Solaranlagen nach § 37
+    Absatz 1 Nummer 3 Buchstabe d,
+
+
+3.  der bezuschlagten Gesamtmenge für besondere Solaranlagen nach § 37
+    Absatz 1 Nummer 3 Buchstabe e,
+
+
+4.  der bezuschlagten Gesamtmenge für besondere Solaranlagen nach § 37
+    Absatz 1 Nummer 3 Buchstabe f und
+
+
+5.  der außerhalb dieser Kategorien bezuschlagten Gesamtmenge.
+
+
+
+
 (2) Der Zuschlag ist eine Woche nach der öffentlichen Bekanntgabe nach
 Absatz 1 als bekanntgegeben anzusehen.
 
@@ -3212,10 +3778,10 @@ erhalten haben, unverzüglich über die Zuschlagserteilung und den
 Zuschlagswert.
 
 (4) Die Bundesnetzagentur gibt auf ihrer Internetseite spätestens drei
-Monate nach Ablauf der Fristen nach § 36e Absatz 1, § 37d, § 39e
+Monate nach Ablauf der Fristen nach § 36e Absatz 1, § 37e, § 39e
 Absatz 1, § 39g Absatz 5 Nummer 4 und § 39j in Verbindung mit § 39e
-Absatz 1 die Projektrealisierungsrate des jeweiligen Gebotstermins
-bekannt.
+Absatz 1 sowie § 13 Absatz 1 der Innovationsausschreibungsverordnung
+die Projektrealisierungsrate des jeweiligen Gebotstermins bekannt.
 
 
 ##### § 35a Entwertung von Zuschlägen
@@ -3275,11 +3841,15 @@ Anforderungen erfüllen:
 
 2.  das Aktenzeichen der Genehmigung nach dem Bundes-
     Immissionsschutzgesetz, unter dem die Genehmigung der Anlagen erteilt
-    worden ist, sowie die Genehmigungsbehörde und deren Anschrift und
+    worden ist, sowie die Genehmigungsbehörde und deren Anschrift,
 
 
 3.  sofern das Gebot für mehrere Anlagen abgegeben wird, die jeweils auf
-    die einzelne Anlage entfallende Gebotsmenge.
+    die einzelne Anlage entfallende Gebotsmenge und
+
+
+4.  sofern das Gebot für eine Flugwindenergieanlage an Land abgegeben
+    wird, die Angabe, dass es sich um eine solche Anlage handelt.
 
 
 
@@ -3502,15 +4072,25 @@ Absatz 1 ist zulässig.
 
 
 
+Abweichend von Satz 1 besteht der Anspruch nach § 19 Absatz 1 in
+Verbindung mit Absatz 1 für Flugwindenergieanlagen an Land ohne den
+Nachweis des Gütefaktors gegenüber dem Netzbetreiber erst, sobald der
+Betreiber der Flugwindenergieanlage an Land der Bundesnetzagentur nach
+der Inbetriebnahme der Anlage unter Angabe der Registernummer
+mitgeteilt hat, dass die Anlage eine Flugwindenergieanlage an Land
+ist. In den Fällen des Satzes 2 wird für die Berechnung des
+anzulegenden Wertes angenommen, dass der Ertrag der
+Flugwindenergieanlage an Land 50 Prozent des Referenzertrags beträgt;
+dieser Gütefaktor ist auch außerhalb der Südregion anzuwenden.
 
-[^F811746_01_BJNR106610014BJNE012705311]
+[^F811746_01_BJNR106610014BJNE012706128]
 (4) Der Nachweis nach Absatz 3 ist zu führen durch Gutachten, die den
 allgemein anerkannten Regeln der Technik entsprechen und die die
 jeweiligen Zeiträume nach Absatz 2 Satz 1 erfassen. Es wird vermutet,
 dass die allgemeinen Regeln der Technik eingehalten worden sind, wenn
 die Technischen Richtlinien für Windenergieanlagen der „FGW e. V. –
 Fördergesellschaft Windenergie und andere Dezentrale Energien“
-[^F811746_02_BJNR106610014BJNE012705311]
+[^F811746_02_BJNR106610014BJNE012706128]
 eingehalten und das Gutachten von einer nach DIN EN ISO IEC 17025
 für die Anwendung dieser Richtlinie akkreditierten Institution
 erstellt worden ist.
@@ -3521,10 +4101,10 @@ Stellen nach dem Komma gerundet.
     Amtlicher Hinweis: Zu beziehen bei der FGW e. V. – Fördergesellschaft
     Windenergie und andere Erneuerbare Energien, Oranienburger Straße 45,
     10117 Berlin.
-[^F811746_01_BJNR106610014BJNE012705311]:     Amtlicher Hinweis: Zu beziehen bei der Beuth Verlag GmbH, 10772
+[^F811746_01_BJNR106610014BJNE012706128]:     Amtlicher Hinweis: Zu beziehen bei der Beuth Verlag GmbH, 10772
     Berlin, und in der Deutschen Nationalbibliothek archivmäßig gesichert
     niedergelegt.
-[^F811746_02_BJNR106610014BJNE012705311]: 
+[^F811746_02_BJNR106610014BJNE012706128]: 
 
 ##### § 36i Dauer des Zahlungsanspruchs für Windenergieanlagen an Land
 
@@ -3582,8 +4162,7 @@ sollen
     ist,
 
 
-2.  auf einer Fläche, die kein entwässerter, landwirtschaftlich genutzter
-    Moorboden ist und
+2.  auf einer Fläche, die kein entwässerter Moorboden ist und
 
     a)  die zum Zeitpunkt des Beschlusses über die Aufstellung oder Änderung
         des Bebauungsplans bereits versiegelt war,
@@ -3633,27 +4212,44 @@ sollen
 
     h)  deren Flurstücke zum Zeitpunkt des Beschlusses über die Aufstellung
         oder Änderung des Bebauungsplans als Ackerland genutzt worden sind und
-        in einem benachteiligten Gebiet lagen und die nicht unter eine der in
-        den Buchstaben a bis g oder j genannten Flächen fällt,
+        in einem benachteiligten Gebiet lagen, die nicht unter eine der in den
+        Buchstaben a bis g genannten Flächen fällt, die nicht in einem Natura
+        2000-Gebiet im Sinn des § 7 Absatz 1 Nummer 8 des
+        Bundesnaturschutzgesetzes liegt, kein Lebensraumtyp ist, der in Anhang
+        I der Richtlinie 92/43/EWG des Rates vom 21. Mai 1992 zur Erhaltung
+        der natürlichen Lebensräume sowie der wildlebenden Tiere und Pflanzen
+        (ABl. L 206 vom 22.7.1992, S. 7), die zuletzt durch die Richtlinie
+        2006/105/EG (ABl. L 363 vom 20.12.2006, S. 368) geändert worden ist,
+        aufgeführt ist, kein gesetzlich geschütztes Biotop nach § 30 des
+        Bundesnaturschutzgesetzes darstellt und die nicht als
+        Naturschutzgebiet im Sinn des § 23 des Bundesnaturschutzgesetzes, als
+        Nationalpark oder als Nationales Naturmonument im Sinn des § 24 des
+        Bundesnaturschutzgesetzes oder als Kern- und Pflegezonen von
+        Biosphärenreservaten im Sinn des § 25 Absatz 3 des
+        Bundesnaturschutzgesetzes festgesetzt worden ist, oder
 
 
     i)  deren Flurstücke zum Zeitpunkt des Beschlusses über die Aufstellung
         oder Änderung des Bebauungsplans als Grünland genutzt worden sind und
-        in einem benachteiligten Gebiet lagen und die nicht unter eine der in
-        den Buchstaben a bis g oder j genannten Flächen fällt oder
+        in einem benachteiligten Gebiet lagen, die nicht unter eine der in den
+        Buchstaben a bis g genannten Flächen fällt, die nicht in einem Natura
+        2000-Gebiet im Sinn des § 7 Absatz 1 Nummer 8 des
+        Bundesnaturschutzgesetzes liegt, kein Lebensraumtyp ist, der in Anhang
+        I der Richtlinie 92/43/EWG aufgeführt ist, kein gesetzlich geschütztes
+        Biotop nach § 30 des Bundesnaturschutzgesetzes darstellt und die nicht
+        als Naturschutzgebiet im Sinn des § 23 des Bundesnaturschutzgesetzes,
+        als Nationalpark oder als Nationales Naturmonument im Sinn des § 24
+        des Bundesnaturschutzgesetzes oder als Kern- und Pflegezone von
+        Biosphärenreservaten im Sinn des § 25 Absatz 3 des
+        Bundesnaturschutzgesetzes festgesetzt worden ist, oder
 
 
-    j)  die ein künstliches Gewässer im Sinn des § 3 Nummer 4 des
-        Wasserhaushaltsgesetzes oder ein erheblich verändertes Gewässer im
-        Sinn des § 3 Nummer 5 des Wasserhaushaltsgesetzes ist, oder
 
 
 
-
-
-3.  als besondere Solaranlagen, die den Anforderungen entsprechen, die in
-    einer Festlegung der Bundesnetzagentur nach § 85c an sie gestellt
-    werden,
+3.  als besondere Solaranlagen, die im Fall der Buchstaben a bis e den
+    Anforderungen entsprechen, die in einer Festlegung der
+    Bundesnetzagentur nach § 85c an sie gestellt werden,
 
     a)  auf Ackerflächen, die kein Moorboden sind, mit gleichzeitigem
         Nutzpflanzenanbau auf derselben Fläche,
@@ -3668,19 +4264,76 @@ sollen
         landwirtschaftlicher Nutzung als Dauergrünland, wenn das Grünland
         nicht in einem Natura 2000-Gebiet im Sinn des § 7 Absatz 1 Nummer 8
         des Bundesnaturschutzgesetzes liegt und kein Lebensraumtyp ist, der in
-        Anhang I der Richtlinie 92/43/EWG des Rates vom 21. Mai 1992 zur
-        Erhaltung der natürlichen Lebensräume sowie der wildlebenden Tiere und
-        Pflanzen (ABl. L 206 vom 22.7.1992, S. 7), die zuletzt durch die
-        Richtlinie 2006/105/EG (ABl. L 363 vom 20.12.2006, S. 368) geändert
-        worden ist, aufgeführt ist,
+        Anhang I der Richtlinie 92/43/EWG aufgeführt ist,
 
 
-    d)  auf Parkplatzflächen oder
+    d)  auf Parkplatzflächen,
 
 
     e)  auf Moorböden, die entwässert und landwirtschaftlich genutzt worden
         sind, wenn die Flächen mit der Errichtung der Solaranlage dauerhaft
-        wiedervernässt werden.
+        wiedervernässt werden, oder
+
+
+    f)  auf Flächen, die ein künstliches Gewässer im Sinn des § 3 Nummer 4 des
+        Wasserhaushaltsgesetzes oder ein erheblich verändertes Gewässer im
+        Sinn des § 3 Nummer 5 des Wasserhaushaltsgesetzes sind.
+
+
+
+
+
+
+
+(1a) Gebote für Anlagen nach Absatz 1 Nummer 1 und 2 dürfen nur
+abgegeben werden, wenn die Anlagen mindestens drei der folgenden
+Kriterien erfüllen sollen:
+
+1.  die von den Modulen maximal in Anspruch genommene Grundfläche beträgt
+    höchstens 60 Prozent der Grundfläche des Gesamtvorhabens,
+
+
+2.  auf den Boden unter der Anlage wird ein biodiversitätsförderndes
+    Pflegekonzept angewandt, indem
+
+    a)  die Mahd zur Förderung der Biodiversität maximal zweischürig erfolgt
+        und das Mahdgut abgeräumt wird oder
+
+
+    b)  die Fläche als Portionsweide mit biodiversitätsfördernd an den
+        Flächenertrag angepasster Besatzdichte beweidet wird,
+
+
+
+
+
+3.  die Durchgängigkeit für Tierarten wird gewährleistet, indem
+
+    a)  bei Anlagen, die an mindestens einer Seite eine Seitenlänge von mehr
+        als 500 Metern aufweisen, Wanderkorridore für Großsäuger angelegt
+        werden, deren Breite und Bepflanzung die örtlichen Gegebenheiten
+        berücksichtigen, und
+
+
+    b)  die Durchgängigkeit für kleinere Tierarten gewährleistet wird,
+
+
+
+
+
+4.  auf mindestens 10 Prozent der Fläche der Anlage werden
+    standortangepasste Typen von Biotopelementen angelegt,
+
+
+5.  die Anlage wird bodenschonend betrieben, indem
+
+    a)  auf der Fläche keine Pflanzenschutz- oder Düngemittel verwendet werden
+        und
+
+
+    b)  die Anlage nur mit Reinigungsmitteln gereinigt wird, wenn diese
+        biologisch abbaubar sind und die Reinigung ohne die Verwendung der
+        Reinigungsmittel nicht möglich ist.
 
 
 
@@ -3697,6 +4350,12 @@ werden:
     Gebot mit Zustimmung des Eigentümers dieser Fläche abgibt,
 
 
+1a. bei Geboten für Anlagen, die auf einem entwässerten Moorboden
+    errichtet werden sollen, die Eigenerklärung des Bieters, dass er
+    geprüft hat, dass durch die Errichtung der Anlage kein zusätzliches
+    Hemmnis für eine zukünftige Wiedervernässung des Moorbodens entsteht,
+
+
 2.  bei Geboten, denen die Kopie eines beschlossenen Bebauungsplans oder
     ein Nachweis für die Durchführung eines in Absatz 1 Nummer 2 Buchstabe
     f genannten Verfahrens beigefügt wurde, die Eigenerklärung des
@@ -3704,10 +4363,22 @@ werden:
     den in dem Gebot angegebenen Standort der Solaranlagen bezieht,
 
 
+2a. bei Geboten für Anlagen nach Absatz 1 Nummer 2 Buchstabe h oder i die
+    Eigenerklärung des Bieters, dass er geprüft hat, dass die Fläche nicht
+    in einem Natura 2000-Gebiet im Sinn des § 7 Absatz 1 Nummer 8 des
+    Bundesnaturschutzgesetzes liegt, kein Lebensraumtyp ist, der in Anhang
+    I der Richtlinie 92/43/EWG aufgeführt ist, kein gesetzlich geschütztes
+    Biotop nach § 30 des Bundesnaturschutzgesetzes darstellt und nicht als
+    Naturschutzgebiet im Sinn des § 23 des Bundesnaturschutzgesetzes, als
+    Nationalpark oder als Nationales Naturmonument im Sinn des § 24 des
+    Bundesnaturschutzgesetzes oder als Kern- und Pflegezonen von
+    Biosphärenreservaten im Sinn des § 25 Absatz 3 des
+    Bundesnaturschutzgesetzes festgesetzt worden ist,
+
+
 3.  bei Geboten für besondere Solaranlagen nach Absatz 1 Nummer 3
     Buchstabe a oder b die Eigenerklärung des Bieters, dass er geprüft
     hat, dass es sich nicht um naturschutzrelevante Ackerflächen handelt,
-    und
 
 
 4.  bei Geboten für besondere Solaranlagen nach Absatz 1 Nummer 3
@@ -3715,14 +4386,36 @@ werden:
     es sich nicht um Grünland in einem Natura 2000-Gebiet im Sinn des § 7
     Absatz 1 Nummer 8 des Bundesnaturschutzgesetzes oder um einen
     Lebensraumtyp, der in Anhang I der Richtlinie 92/43/EWG aufgeführt
-    ist, handelt.
+    ist, handelt,
+
+
+5.  bei Geboten für Anlagen auf Flächen nach Absatz 1 Nummer 2 Buchstabe h
+    oder Buchstabe i die Eigenerklärung des Bieters, dass zusätzliche
+    Bedingungen, die die jeweilige Landesregierung nach § 37c Absatz 2
+    gestellt hat, eingehalten werden, und
+
+
+6.  bei Geboten für Anlagen nach Absatz 1 Nummer 1 oder Nummer 2 eine
+    Eigenerklärung des Bieters, dass die Anlage die Voraussetzung des
+    Absatz 1a erfüllen soll.
 
 
 
 
 (3) In Ergänzung zu den Anforderungen nach § 30 darf die Gebotsmenge
 bei den Ausschreibungen für Solaranlagen des ersten Segments pro Gebot
-eine zu installierende Leistung von 20 Megawatt nicht überschreiten.
+eine zu installierende Leistung von 50 Megawatt nicht überschreiten.
+
+(4) Abweichend von Absatz 1 dürfen keine Gebote für
+Freiflächenanlagen, die auf landwirtschaftlich genutzten Flächen
+errichtet werden sollen, abgegeben werden, wenn drei Monate vor dem
+jeweiligen Gebotstermin Freiflächenanlagen, die nach dem Ablauf des
+31\. Dezember 2022 in Betrieb genommen wurden, mit einer installierten
+Leistung von mehr als 80 Gigawatt auf landwirtschaftlich genutzten
+Flächen betrieben werden und im Marktstammdatenregister als in Betrieb
+genommen registriert wurden. Nach dem Ablauf des 31. Dezember 2030 ist
+Satz 1 mit der Maßgabe anzuwenden, dass die Leistungsschwelle 177,5
+Gigawatt beträgt.
 
 
 ##### § 37a Sicherheiten für Solaranlagen des ersten Segments
@@ -3737,40 +4430,159 @@ Absatz 2 Nummer 2 enthält.
 
 ##### § 37b Höchstwert für Solaranlagen des ersten Segments
 
-Der Höchstwert ergibt sich aus dem um 8 Prozent erhöhten Durchschnitt
-der Gebotswerte des jeweils höchsten noch bezuschlagten Gebots der
-letzten drei Gebotstermine, deren Zuschläge bei der Bekanntmachung des
-jeweiligen Gebotstermins nach § 29 bereits nach § 35 Absatz 1
-bekanntgegeben waren, dabei beträgt er jedoch höchstens 5,9 Cent pro
-Kilowattstunde. Ein sich aus der Berechnung ergebender Wert wird auf
-zwei Stellen nach dem Komma gerundet. Für die Berechnung des
-Höchstwertes für die Ausschreibungen im Jahr 2023 nach Maßgabe der
+(1) Der Höchstwert ergibt sich aus dem um 8 Prozent erhöhten
+Durchschnitt der Gebotswerte des jeweils höchsten noch bezuschlagten
+Gebots der letzten drei Gebotstermine, deren Zuschläge bei der
+Bekanntmachung des jeweiligen Gebotstermins nach § 29 bereits nach §
+35 Absatz 1 bekanntgegeben waren, dabei beträgt er jedoch höchstens
+5,9 Cent pro Kilowattstunde. Ein sich aus der Berechnung ergebender
+Wert wird auf zwei Stellen nach dem Komma gerundet. Für die Berechnung
+des Höchstwertes für die Ausschreibungen im Jahr 2023 nach Maßgabe der
 Sätze 1 und 2 sind die Gebotswerte der im Jahr 2022 durchgeführten
 Gebotstermine heranzuziehen.
 
+(2) Abweichend von Absatz 1 ist für besondere Solaranlagen nach § 37
+Absatz 1 Nummer 3 unter entsprechender Anwendung des § 37d Absatz 1
+Satz 2 ein abweichender Höchstwert anzuwenden. Dieser beträgt im Jahr
+2024 9,5 Cent pro Kilowattstunde. Der Höchstwert ergibt sich ab dem
+Jahr 2025 aus dem um 8 Prozent erhöhten Durchschnitt der Gebotswerte
+des jeweils höchsten im Untersegment für besondere Solaranlagen nach §
+37d Absatz 1 Nummer 1 im Verfahren nach § 37d Absatz 2 noch
+bezuschlagten Gebots der letzten drei Gebotstermine, deren Zuschläge
+bei der Bekanntmachung des jeweiligen Gebotstermins nach § 29 bereits
+nach § 35 Absatz 1 bekanntgegeben waren, dabei beträgt er jedoch
+höchstens 9,5 Cent pro Kilowattstunde. Ein sich aus der Berechnung
+ergebender Wert wird auf zwei Stellen nach dem Komma gerundet.
 
-##### § 37c Besondere Zuschlagsvoraussetzung für benachteiligte Gebiete; Verordnungsermächtigung für die Länder
 
-(1) Die Bundesnetzagentur darf Gebote für Freiflächenanlagen auf
-Flächen nach § 37 Absatz 1 Nummer 2 Buchstabe h und i bei dem
-Zuschlagsverfahren für Solaranlagen des ersten Segments nur
-berücksichtigen, wenn und soweit die Landesregierung für Gebote auf
-den entsprechenden Flächen eine Rechtsverordnung nach Absatz 2
-erlassen hat und die Bundesnetzagentur den Erlass der Rechtsverordnung
-vor dem Gebotstermin nach § 29 bekannt gemacht hat.
+##### § 37c Nichtberücksichtigung von Geboten in benachteiligten Gebieten; Verordnungsermächtigung für die Länder
+
+(1) Gebote für Freiflächenanlagen auf Flächen nach § 37 Absatz 1
+Nummer 2 Buchstabe h und i werden im Zuschlagsverfahren für
+Solaranlagen des ersten Segments nicht berücksichtigt, wenn und soweit
+die Landesregierung für Gebote auf den entsprechenden Flächen in einer
+Rechtsverordnung nach Absatz 2 bestimmt hat, dass Gebote teilweise
+oder ganz nicht zu berücksichtigen sind, die Bundesnetzagentur den
+Erlass der Rechtsverordnung vor der Bekanntmachung nach § 29 bekannt
+gemacht hat und die jeweilige Landesregierung die Überschreitung einer
+Auslöseschwelle drei Monate vor dem jeweiligen Gebotstermin der
+Bundesnetzagentur mitgeteilt hat.
 
 (2) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung zu
-regeln, dass Gebote für Freiflächenanlagen auf Flächen nach § 37
-Absatz 1 Nummer 2 Buchstabe h oder i in ihrem Landesgebiet bezuschlagt
-werden können.
+bestimmen, dass
 
-(3) Gebote bei den Ausschreibungen für Solaranlagen des ersten
-Segments, die nur aufgrund einer Rechtsverordnung nach Absatz 2 einen
-Zuschlag erhalten haben, muss die Bundesnetzagentur entsprechend
-kennzeichnen.
+1.  Gebote für Freiflächenanlagen auf Flächen nach § 37 Absatz 1 Nummer 2
+    Buchstabe h oder Buchstabe i in ihrem Landesgebiet teilweise oder ganz
+    nicht zu berücksichtigen sind
+
+    a)  vor dem 1. Januar 2031, wenn und solange auf mehr als 1 Prozent der
+        landwirtschaftlich genutzten Flächen des jeweiligen Landes
+        Freiflächenanlagen betrieben werden, wobei die Länder in ihren
+        Verordnungen auch höhere Auslöseschwellen bestimmen können, und
 
 
-##### § 37d Erlöschen von Zuschlägen für Solaranlagen des ersten Segments
+    b)  nach dem Ablauf des 31. Dezember 2030, wenn und solange auf mehr als
+        1,5 Prozent der landwirtschaftlich genutzten Flächen des jeweiligen
+        Landes Freiflächenanlagen betrieben werden, wobei die Länder in ihren
+        Verordnungen auch höhere Auslöseschwellen bestimmen können, und
+
+
+
+
+
+2.  Gebote für Freiflächenanlagen auf Flächen nach § 37 Absatz 1 Nummer 2
+    Buchstabe h oder Buchstabe i auf ihrem Landesgebiet teilweise oder
+    ganz nicht zu berücksichtigen sind, die auf Flächen errichtet werden
+    sollen, die zum Zeitpunkt des Beschlusses über die Aufstellung des
+    Bebauungsplans rechtsverbindlich als Landschaftsschutzgebiet im Sinn
+    des § 26 des Bundesnaturschutzgesetzes oder als Naturpark im Sinn des
+    § 27 des Bundesnaturschutzgesetzes festgesetzt worden sind, wobei die
+    Länder in ihren Verordnungen auch zusätzliche Bedingungen für die
+    Nichtberücksichtigung bestimmen können, insbesondere in Form von
+    Auslöseschwellen entsprechend Nummer 1.
+
+
+
+
+
+##### § 37d Besonderes Zuschlagsverfahren für Solaranlagen des ersten Segments
+
+(1) Abweichend von § 32 Absatz 1 führt die Bundesnetzagentur für
+Solaranlagen des ersten Segments folgendes zweistufiges
+Zuschlagsverfahren durch, wobei sie
+
+1.  zunächst nach Maßgabe von Absatz 2 Zuschläge erteilt für besondere
+    Solaranlagen nach § 37 Absatz 1 Nummer 3 bis zur Höhe eines jeweils
+    gleichmäßig auf die verbleibenden Gebotstermine eines Kalenderjahres
+    zu verteilenden Volumens von
+
+    a)  im Jahr 2024 300 Megawatt zu installierender Leistung,
+
+
+    b)  im Jahr 2025 800 Megawatt zu installierender Leistung,
+
+
+    c)  im Jahr 2026 1 200 Megawatt zu installierender Leistung,
+
+
+    d)  im Jahr 2027 1 500 Megawatt zu installierender Leistung,
+
+
+    e)  im Jahr 2028 2 000 Megawatt zu installierender Leistung,
+
+
+    f)  im Jahr 2029 2 075 Megawatt zu installierender Leistung und
+
+
+
+
+
+2.  anschließend nach Maßgabe von Absatz 3 Zuschläge für die übrigen
+    Gebote in Höhe des verbleibenden Ausschreibungsvolumens nach § 28a
+    dieses Gesetzes erteilt.
+
+
+
+Besondere Solaranlagen nach § 37 Absatz 1 Nummer 3 Buchstabe a bis c
+berücksichtigt die Bundesnetzagentur bei der Zuschlagserteilung nach
+Satz 1 Nummer 1 nur unter der zusätzlichen Voraussetzung, dass diese
+Solaranlagen bei ausschließlich senkrecht ausgerichteten Solaranlagen
+insgesamt mit einer lichten Höhe von mindestens 0,80 Metern und sonst
+insgesamt mit einer lichten Höhe von mindestens 2,10 Metern
+aufgeständert werden sollen.
+
+(2) Die Bundesnetzagentur öffnet die fristgerecht eingegangenen Gebote
+nach dem Gebotstermin und prüft die Zulässigkeit der Gebote nach den
+§§ 33 und 34. Anschließend separiert die Bundesnetzagentur die Gebote
+nach § 37 Absatz 1 Nummer 3 Buchstabe d. Die Bundesnetzagentur
+sortiert die nach Satz 2 separierten Gebote nach Maßgabe des § 32
+Absatz 1 Satz 3. Den zulässigen Geboten für Anlagen nach § 37 Absatz 1
+Nummer 3 Buchstabe d erteilt die Bundesnetzagentur in der Reihenfolge
+nach Satz 3 einen Zuschlag im Umfang ihres Gebots, bis das Volumen
+nach Absatz 1 Nummer 1 erstmals durch den Zuschlag zu einem Gebot
+erreicht oder überschritten ist. Wenn durch die Zuschläge nach Satz 4
+das Volumen nach Absatz 1 Satz 1 Nummer 1 nicht erreicht wird,
+separiert die Bundesnetzagentur die übrigen zulässigen Gebote für
+besondere Solaranlagen nach § 37 Absatz 1 Nummer 3 unter
+entsprechender Anwendung des Absatzes 1 Satz 2 und sortiert sie nach
+Maßgabe des § 32 Absatz 1 Satz 3. Sodann bezuschlagt die
+Bundesnetzagentur die Gebote nach Satz 5, bis das Volumen nach Absatz
+1 Satz 1 Nummer 1 erstmals durch den Zuschlag zu einem Gebot erreicht
+oder überschritten ist.
+
+(3) Anschließend sortiert die Bundesnetzagentur die zulässigen Gebote,
+die keinen Zuschlag nach Absatz 2 erlangt haben und deren Gebotswert
+den Höchstwert nach § 37b Absatz 1 nicht überschreitet, nach Maßgabe
+des § 32 Absatz 1 Satz 3. Diesen Geboten erteilt die Bundesnetzagentur
+in der Reihenfolge nach Satz 1 einen Zuschlag im Umfang ihres Gebots,
+bis das Ausschreibungsvolumen erstmals durch den Zuschlag zu einem
+Gebot erreicht oder überschritten ist. Maßgeblich ist das nach § 28a
+ermittelte Ausschreibungsvolumen abzüglich des bereits nach Absatz 2
+bezuschlagten Volumens. Geboten oberhalb der Zuschlagsgrenze wird kein
+Zuschlag erteilt.
+
+
+##### § 37e Erlöschen von Zuschlägen für Solaranlagen des ersten Segments
 
 Der Zuschlag erlischt bei Geboten bei den Ausschreibungen für
 Solaranlagen des ersten Segments, soweit die Anlagen nicht innerhalb
@@ -3802,11 +4614,24 @@ Solaranlagen aus.
 
 4.  den Umfang der Gebotsmenge pro bezuschlagtem Gebot, der den
     Solaranlagen zugeteilt werden soll, einschließlich der jeweils für die
-    Gebote registrierten Zuschlagsnummern und
+    Gebote registrierten Zuschlagsnummern,
 
 
 5.  die Angabe des Bieters, dass er zum Zeitpunkt der Inbetriebnahme
-    Betreiber der Solaranlagen war.
+    Betreiber der Solaranlagen war,
+
+
+6.  sofern der Antrag für bezuschlagte Gebote für besondere Solaranlagen
+    nach § 37 Absatz 1 Nummer 3 Buchstabe a bis c, die bei ausschließlich
+    senkrecht ausgerichteten Solaranlagen insgesamt mit einer lichten Höhe
+    von mindestens 0,80 Metern und sonst insgesamt mit einer lichten Höhe
+    von mindestens 2,10 Metern aufgeständert werden sollen, gestellt wird,
+    die Bestätigung des Bieters, dass diese Anforderung erfüllt ist, und
+
+
+7.  sofern der Antrag für Gebote für Anlagen nach § 37 Absatz 1 Nummer 1
+    oder Nummer 2 gestellt wird, die Bestätigung des Bieters, dass die
+    Anforderung nach § 37 Absatz 1a erfüllt wird.
 
 
 
@@ -3827,44 +4652,60 @@ ausgestellt werden,
 
 3.  soweit für den Bieter eine entsprechende Gebotsmenge bezuschlagter
     Gebote besteht, die nicht bereits einer anderen Zahlungsberechtigung
-    zugeordnet worden ist; hierbei dürfen nur die folgenden Gebotsmengen
+    zugeordnet worden ist, hierbei dürfen nur die folgenden Gebotsmengen
     zugeteilt werden:
 
     a)  die Gebotsmenge eines bezuschlagten Gebots, bei dem als Standort für
-        die Solaranlagen eine Fläche nach § 37 Absatz 1 Nummer 1, Nummer 2
-        Buchstabe a bis g, j oder Nummer 3 angegeben worden ist, kann nur
-        Solaranlagen zugeteilt werden, die sich auf einem dieser Standorte
-        befinden und
+        die Solaranlagen eine Fläche nach § 37 Absatz 1 Nummer 1 oder Nummer 2
+        angegeben worden ist, kann nur Solaranlagen zugeteilt werden, die sich
+        auf einem dieser Standorte befinden,
 
 
-    b)  die Gebotsmengen von Geboten, die nur aufgrund einer Rechtsverordnung
-        nach § 37c Absatz 2 bezuschlagt wurden, dürfen nur für
-        Freiflächenanlagen verwendet werden, die auf einer der im
-        bezuschlagten Gebot benannten Flächenkategorien im Gebiet des
-        Bundeslands, das die Rechtsverordnung erlassen hat, errichtet worden
-        sind,
+    b)  die Gebotsmenge eines bezuschlagten Gebots, bei dem als Standort für
+        die Solaranlagen eine Fläche nach § 37 Absatz 1 Nummer 3 Buchstabe a
+        bis c, e oder Buchstabe f angegeben worden ist, kann nur Solaranlagen
+        zugeteilt werden, die sich auf einem dieser Standorte befinden, und
+
+
+    c)  die Gebotsmenge eines bezuschlagten Gebots, bei dem als Standort für
+        die Solaranlagen eine Fläche nach § 37 Absatz 1 Nummer 3 Buchstabe d
+        angegeben worden ist, kann nur Solaranlagen zugeteilt werden, die sich
+        auf einem Standort nach § 37 Absatz 1 Nummer 3 Buchstabe d befinden,
 
 
 
 
 
 4.  soweit die für die Solaranlagen zuzuteilende Gebotsmenge die
-    installierte Leistung der Solaranlagen nicht überschreitet und
+    installierte Leistung der Solaranlagen nicht überschreitet,
 
 
 5.  soweit bei Freiflächenanlagen
 
-    a)  die installierte Leistung von 20 Megawatt nicht überschritten wird und
+    a)  die installierte Leistung von 50 Megawatt nicht überschritten wird und
 
 
     b)  sich die Anlagen nicht auf einer Fläche befinden, die zum Zeitpunkt
         des Beschlusses über die Aufstellung oder Änderung des Bebauungsplans
         rechtsverbindlich als Naturschutzgebiet im Sinn des § 23 des
         Bundesnaturschutzgesetzes oder als Nationalpark im Sinn des § 24 des
-        Bundesnaturschutzgesetzes festgesetzt worden ist.
+        Bundesnaturschutzgesetzes festgesetzt worden ist,
 
 
 
+
+
+6.  sofern der Antrag für bezuschlagte Gebote für besondere Solaranlagen
+    nach § 37 Absatz 1 Nummer 3 Buchstabe a bis c, die bei ausschließlich
+    senkrecht ausgerichteten Solaranlagen insgesamt mit einer lichten Höhe
+    von mindestens 0,80 Metern und sonst insgesamt mit einer lichten Höhe
+    von mindestens 2,10 Metern aufgeständert werden sollen, gestellt wird,
+    die Bestätigung des Bieters, dass diese Anforderung erfüllt ist, und
+
+
+7.  sofern der Antrag für bezuschlagte Gebote für Anlagen nach § 37 Absatz
+    1 Nummer 1 oder Nummer 2 gestellt wird, die Bestätigung des Bieters,
+    dass die Anforderung nach § 37 Absatz 1a erfüllt ist.
 
 
 
@@ -3880,14 +4721,18 @@ spätestens drei Wochen nach der Inbetriebnahme der Anlage gestellt
 wurde.
 
 (3) Der Netzbetreiber muss die Erfüllung der Anforderungen nach Absatz
-1 Nummer 1, 4 und 5 sowie § 38 Absatz 2 Nummer 2 und 5 prüfen. Er kann
-hierfür die Vorlage entsprechender Nachweise verlangen. Soweit die
-Bundesnetzagentur eine Festlegung nach § 85 getroffen hat, muss der
-Netzbetreiber entsprechende Nachweise verlangen und diese der
+1 Nummer 1 und 4 bis 7 sowie § 38 Absatz 2 Nummer 2 und 5 prüfen. Er
+kann hierfür die Vorlage entsprechender Nachweise verlangen. Soweit
+die Bundesnetzagentur eine Festlegung nach § 85 getroffen hat, muss
+der Netzbetreiber entsprechende Nachweise verlangen und diese der
 Bundesnetzagentur auf Anforderung vorlegen. Der Netzbetreiber muss der
 Bundesnetzagentur das Ergebnis der Prüfung und die installierte
 Leistung der Solaranlagen innerhalb eines Monats nach der Mitteilung
-nach Absatz 2 mitteilen.
+nach Absatz 2 mitteilen. Wählt der Anlagenbetreiber die Kriterien aus
+§ 37 Absatz 1a Nummer 2 oder Nummer 5, muss er gegenüber dem
+Netzbetreiber die Einhaltung dieser Kriterien auch zum Ablauf jedes
+fünften Jahres nach der Ausstellung der Zahlungsberechtigung
+nachweisen.
 
 (4) Ausgestellte Zahlungsberechtigungen stehen unter der auflösenden
 Bedingung der Prüfung nach Absatz 3 und der Prüfung nach § 13 Absatz 1
@@ -3901,32 +4746,7 @@ auf andere Anlagen übertragen werden.
 (1) Die Höhe des anzulegenden Werts bei den Ausschreibungen für
 Solaranlagen des ersten Segments entspricht dem Zuschlagswert des
 bezuschlagten Gebots, dessen Gebotsmenge der Solaranlage zugeteilt
-worden ist. Wenn es sich bei der Solaranlage um eine besondere
-Solaranlage nach § 37 Absatz 1 Nummer 3 Buchstabe a, b oder c handelt
-und die Anlage insgesamt mit einer lichten Höhe von mindestens 2,10
-Metern aufgeständert ist, erhöht sich der anzulegende Wert nach Satz 1
-bei Anlagen, die
-
-1.  im Jahr 2023 einen Zuschlag erhalten haben, um 1,2 Cent pro
-    Kilowattstunde,
-
-
-2.  im Jahr 2024 einen Zuschlag erhalten haben, um 1 Cent pro
-    Kilowattstunde,
-
-
-3.  im Jahr 2025 einen Zuschlag erhalten haben, um 0,7 Cent pro
-    Kilowattstunde und
-
-
-4.  in den Jahren 2026 bis 2028 einen Zuschlag erhalten haben, um 0,5 Cent
-    pro Kilowattstunde.
-
-
-
-Wenn es sich bei der Solaranlage um eine besondere Solaranlage nach §
-37 Absatz 1 Nummer 3 Buchstabe e handelt, erhöht sich der anzulegende
-Wert nach Satz 1 um 0,5 Cent pro Kilowattstunde.
+worden ist.
 
 (2) Solaranlagen, die Solaranlagen an demselben Standort ersetzen,
 sind abweichend von § 3 Nummer 30 bis zur Höhe der vor der Ersetzung
@@ -3987,11 +4807,10 @@ zurückgenommen hat.
 Projektsicherungsbeiträge der bezuschlagten Gebote auf ein Geldkonto
 des jeweils regelverantwortlichen Übertragungsnetzbetreibers.
 
-(6) Der Netzbetreiber erstattet nach der Inbetriebnahme einer Anlage
-den von dem Anlagenbetreiber geleisteten Projektsicherungsbeitrag in
-Höhe von 35 Euro je Kilowatt installierter und bezuschlagter
-Gebotsmenge im Rahmen der ersten auf die Inbetriebnahme folgenden
-Endabrechnung in Form einer Einmalzahlung.
+(6) Der Netzbetreiber erstattet innerhalb von drei Monaten nach der
+Inbetriebnahme einer Anlage den von dem Anlagenbetreiber geleisteten
+Projektsicherungsbeitrag in Höhe von 35 Euro je Kilowatt installierter
+und bezuschlagter Gebotsmenge.
 
 
 ##### § 38e Höchstwert für Solaranlagen des zweiten Segments
@@ -4025,7 +4844,23 @@ Kalendermonats.
 ##### § 38h Anzulegender Wert für Solaranlagen des zweiten Segments
 
 § 38b ist bei den Ausschreibungen für Solaranlagen des zweiten
-Segments entsprechend anzuwenden.
+Segments entsprechend anzuwenden. Abweichend von § 38b Absatz 2 Satz 2
+und 3 gilt bei einer Erhöhung der Leistung durch die Ersetzung, dass
+
+1.  die Zahlungsberechtigung im Zeitpunkt der Ersetzung ihre Wirksamkeit
+    für die ersetzte Anlage verliert und stattdessen die ersetzende Anlage
+    für den Teil des eingespeisten Stroms, dessen Anteil am eingespeisten
+    Strom dem Anteil der ersetzten Anlage zur Leistung der ersetzenden
+    Anlage entspricht, erfasst und
+
+
+2.  für den über die Leistung der ersetzten Anlage hinausgehenden Anteil
+    des eingespeisten Stroms der Zahlungsanspruch nach § 19 nicht
+    ausgeschlossen ist, dabei richtet sich dieser Anspruch nach den
+    Vorschriften dieses Gesetzes.
+
+
+
 
 
 ##### § 38i (weggefallen)
@@ -4150,83 +4985,104 @@ Zuschlagsverfahren für Biomasseanlagen durch, sofern die insgesamt
 eingereichte Gebotsmenge der zugelassenen Gebote unter der
 ausgeschriebenen Menge des Gebotstermins liegt. Sie separiert die
 Gebote, die für Neuanlagen abgegeben wurden, von denen, die für
-Bestandsanlagen im Sinn des § 39g abgegeben wurden. Die
+bestehende Biomasseanlagen im Sinn des § 39g abgegeben wurden. Die
 Bundesnetzagentur prüft die Zulässigkeit aller Gebote nach den §§ 33
 und 34. Die Bundesnetzagentur sortiert die Gebote für Neuanlagen und
-für Bestandsanlagen jeweils nach § 32 Absatz 1 Satz 3. Sie erteilt der
-Reihenfolge nach jeweils allen zulässigen Geboten für Neuanlagen einen
-Zuschlag im Umfang ihres Gebots, bis 80 Prozent der eingereichten
-Gebotsmenge der zugelassenen Gebote für Neuanlagen erreicht oder
-erstmalig durch ein Gebot überschritten sind, und allen zulässigen
-Geboten für Bestandsanlagen einen Zuschlag im Umfang ihres Gebots, bis
-80 Prozent der eingereichten Gebotsmenge der zugelassenen Gebote für
-Bestandsanlagen erreicht oder erstmalig durch ein Gebot überschritten
-sind (Zuschlagsbegrenzung). Geboten oberhalb der Zuschlagsbegrenzung
-wird kein Zuschlag erteilt; das Gebot, durch das die
+für bestehende Biomasseanlagen jeweils nach § 32 Absatz 1 Satz 3. Sie
+erteilt der Reihenfolge nach jeweils allen zulässigen Geboten für
+Neuanlagen einen Zuschlag im Umfang ihres Gebots, bis 80 Prozent der
+eingereichten Gebotsmenge der zugelassenen Gebote für Neuanlagen
+erreicht oder erstmalig durch ein Gebot überschritten sind, und allen
+zulässigen Geboten für bestehende Biomasseanlagen einen Zuschlag im
+Umfang ihres Gebots, bis 80 Prozent der eingereichten Gebotsmenge der
+zugelassenen Gebote für bestehende Biomasseanlagen erreicht oder
+erstmalig durch ein Gebot überschritten sind (Zuschlagsbegrenzung).
+Geboten oberhalb der Zuschlagsbegrenzung wird kein Zuschlag erteilt;
+das Gebot, durch das die Zuschlagsbegrenzung erreicht oder
+überschritten wird, erhält den Zuschlag in dem Umfang, für den das
+Gebot abgegeben worden ist.
+
+(2) Abweichend von Absatz 1 und § 32 Absatz 1 führt die
+Bundesnetzagentur ab dem 25. Februar 2025 bis zum Ablauf des 31.
+Dezember 2027 folgendes Zuschlagsverfahren für Biomasseanlagen durch,
+sofern die insgesamt eingereichte Gebotsmenge der zugelassenen Gebote
+mindestens der ausgeschriebenen Menge des Gebotstermins entspricht.
+Sie öffnet die fristgerecht eingegangenen Gebote nach dem
+Gebotstermin. Sie prüft die Zulässigkeit der Gebote nach den §§ 33 und
+34\. Sie separiert die Gebote für bestehende Biomasseanlagen, die
+bereits am 1. Januar 2024 an eine Wärmeversorgungseinrichtung
+angeschlossen waren und zum Zeitpunkt der Gebotsabgabe noch immer an
+diese angeschlossen sind (bestehende Biomasseanlagen mit Anschluss an
+eine Wärmeversorgungseinrichtung) und deren bisherige Förderung nach
+der für die Anlage maßgeblichen Fassung des Erneuerbare-Energien-
+Gesetzes vor dem 1. Januar 2029 endet. Die Bundesnetzagentur sortiert
+die nach Satz 4 separierten Gebote entsprechend § 32 Absatz 1 Satz 3.
+Sodann erteilt die Bundesnetzagentur allen nach Satz 5 sortierten
+Geboten einen Zuschlag im Umfang ihres Gebots, bis eine Zuschlagsmenge
+von 50 Prozent des an diesem Gebotstermin zu vergebenden
+Ausschreibungsvolumens durch einen Zuschlag erreicht oder erstmalig
+überschritten ist (Zuschlagsgrenze). Die Bundesnetzagentur separiert
+die Gebote für bestehende Biomasseanlagen mit Anschluss an eine
+Wärmeversorgungseinrichtung, deren bisherige Förderung nach der für
+die Anlage maßgeblichen Fassung des Erneuerbare-Energien-Gesetzes vor
+dem 1. Januar 2031 endet. Die Bundesnetzagentur sortiert die nach Satz
+7 separierten Gebote nach § 32 Absatz 1 Satz 3. Sodann erteilt die
+Bundesnetzagentur allen nach Satz 8 sortierten Geboten einen Zuschlag
+im Umfang ihres Gebots, bis eine Zuschlagsmenge von insgesamt 70
+Prozent des an diesem Gebotstermin zu vergebenden
+Ausschreibungsvolumens, einschließlich des nach Satz 6 bezuschlagten
+Ausschreibungsvolumens, erreicht oder erstmalig überschritten ist
+(Zuschlagsgrenze). Schließlich sortiert die Bundesnetzagentur
+sämtliche zugelassenen Gebote, die nicht bereits nach Satz 6 oder Satz
+9 einen Zuschlag erhalten haben, entsprechend § 32 Absatz 1 Satz 3 und
+erteilt allen Geboten einen Zuschlag im Umfang ihres Gebots, bis das
+gesamte Ausschreibungsvolumen, einschließlich der nach den Sätzen 6
+und 9 bezuschlagten Gebotsmenge, durch den Zuschlag zu einem Gebot
+erreicht oder erstmalig überschritten ist (Zuschlagsgrenze). Geboten
+oberhalb der Zuschlagsgrenze wird kein Zuschlag erteilt; das Gebot,
+durch das die jeweilige Zuschlagsgrenze erreicht oder überschritten
+wird, erhält den Zuschlag in dem Umfang, für den das Gebot abgegeben
+worden ist.
+
+(3) Abweichend von Absatz 1 und § 32 Absatz 1 führt die
+Bundesnetzagentur ab dem 25. Februar 2025 bis zum Ablauf des 31.
+Dezember 2027 folgendes Zuschlagsverfahren für Biomasseanlagen durch,
+sofern die insgesamt eingereichte Gebotsmenge der zugelassenen Gebote
+unter der ausgeschriebenen Menge des Gebotstermins liegt. Sie öffnet
+die fristgerecht eingegangenen Gebote nach dem Gebotstermin. Sie prüft
+die Zulässigkeit der Gebote nach den §§ 33 und 34. Sie separiert die
+Gebote für bestehende Biomasseanlagen mit Anschluss an eine
+Wärmeversorgungseinrichtung, deren bisherige Förderung nach der für
+die Anlage maßgeblichen Fassung des Erneuerbare-Energien-Gesetzes vor
+dem 1. Januar 2029 endet. Die Bundesnetzagentur sortiert die nach Satz
+4 separierten Gebote entsprechend § 32 Absatz 1 Satz 3. Sodann erteilt
+die Bundesnetzagentur allen nach Satz 5 sortierten Geboten einen
+Zuschlag im Umfang ihres Gebots, bis eine Zuschlagsmenge von 40
+Prozent der an diesem Gebotstermin eingereichten Gebotsmenge der
+zugelassenen Gebote durch einen Zuschlag erreicht oder erstmalig
+überschritten ist (Zuschlagsbegrenzung). Die Bundesnetzagentur
+separiert die Gebote für bestehende Biomasseanlagen mit Anschluss an
+eine Wärmeversorgungseinrichtung, deren bisherige Förderung nach der
+für die Anlage maßgeblichen Fassung des Erneuerbare-Energien-Gesetzes
+vor dem 1. Januar 2031 endet. Die Bundesnetzagentur sortiert die nach
+Satz 7 separierten Gebote entsprechend § 32 Absatz 1 Satz 3. Sodann
+erteilt die Bundesnetzagentur allen nach Satz 8 sortierten Geboten
+einen Zuschlag im Umfang ihres Gebots, bis eine Zuschlagsmenge von
+insgesamt 60 Prozent, einschließlich der nach Satz 6 bezuschlagten
+Gebotsmenge, der an diesem Gebotstermin eingereichten Gebotsmenge der
+zugelassenen Gebote durch einen Zuschlag erreicht oder erstmalig
+überschritten ist (Zuschlagsbegrenzung). Schließlich sortiert die
+Bundesnetzagentur sämtliche zugelassenen Gebote, die nicht bereits
+nach Satz 6 oder Satz 9 einen Zuschlag erhalten haben, entsprechend §
+32 Absatz 1 Satz 3 und erteilt allen Geboten einen Zuschlag im Umfang
+ihres Gebots, bis eine Zuschlagsmenge von insgesamt 80 Prozent,
+einschließlich der nach den Sätzen 6 und 9 bezuschlagten Gebotsmenge,
+der an diesem Gebotstermin eingereichten Gebotsmenge der zugelassenen
+Gebote durch einen Zuschlag erreicht oder erstmalig überschritten ist
+(Zuschlagsbegrenzung). Geboten oberhalb der Zuschlagsbegrenzung wird
+kein Zuschlag erteilt; das Gebot, durch das die jeweilige
 Zuschlagsbegrenzung erreicht oder überschritten wird, erhält den
 Zuschlag in dem Umfang, für den das Gebot abgegeben worden ist.
-
-(2) Ab dem Jahr 2022 führt die Bundesnetzagentur abweichend von Absatz
-1 und § 32 Absatz 1 folgendes Zuschlagsverfahren für Biomasseanlagen
-durch, sofern die insgesamt eingereichte Gebotsmenge der zugelassenen
-Gebote mindestens der ausgeschriebenen Menge des Gebotstermins
-entspricht. Sie öffnet die fristgerecht eingegangenen Gebote nach dem
-Gebotstermin. Sie prüft die Zulässigkeit der Gebote nach den §§ 33 und
-34\. Sie separiert die zugelassenen Gebote, die für Projekte in der
-Südregion abgegeben wurden, und sortiert diese Gebote entsprechend §
-32 Absatz 1 Satz 3. Sodann erteilt die Bundesnetzagentur allen nach
-Satz 4 separierten Geboten einen Zuschlag im Umfang ihres Gebots, bis
-eine Zuschlagsmenge von 50 Prozent des an diesem Gebotstermin zu
-vergebenden Ausschreibungsvolumens durch einen Zuschlag erreicht oder
-erstmalig überschritten ist. Sodann sortiert die Bundesnetzagentur
-sämtliche zugelassenen Gebote, die nicht bereits nach Satz 5 einen
-Zuschlag erhalten haben, entsprechend § 32 Absatz 1 Satz 3 und erteilt
-allen Geboten einen Zuschlag im Umfang ihres Gebots, bis eine weitere
-Menge in Höhe von 50 Prozent des Ausschreibungsvolumens erstmals durch
-den Zuschlag zu einem Gebot erreicht oder überschritten ist
-(Zuschlagsgrenze). Geboten oberhalb der Zuschlagsgrenze wird kein
-Zuschlag erteilt.
-
-(3) Ab dem Jahr 2022 führt die Bundesnetzagentur abweichend von Absatz
-1 und § 32 Absatz 1 folgendes Zuschlagsverfahren für Biomasseanlagen
-durch, sofern die insgesamt eingereichte Gebotsmenge der zugelassenen
-Gebote unter der ausgeschriebenen Menge des Gebotstermins liegt. Sie
-öffnet die fristgerecht eingegangenen Gebote nach dem Gebotstermin.
-Sie prüft die Zulässigkeit der Gebote nach den §§ 33 und 34. Sie
-separiert die zugelassenen Gebote, die für Anlagen in der Südregion
-abgegeben wurden; sie separiert diese Gebote danach, ob sie für
-Neuanlagen oder für Bestandsanlagen im Sinne des § 39g abgegeben
-wurden. Die Bundesnetzagentur sortiert die Gebote, die für
-Bestandsanlagen in der Südregion abgegeben wurden, entsprechend § 32
-Absatz 1 Satz 3. Sodann erteilt die Bundesnetzagentur allen nach Satz
-5 separierten Geboten einen Zuschlag im Umfang ihres Gebots, bis eine
-Zuschlagsmenge von 20 Prozent der an diesem Gebotstermin eingereichten
-Gebotsmenge der zugelassenen Gebote durch einen Zuschlag erreicht oder
-erstmalig überschritten ist. Sodann sortiert die Bundesnetzagentur die
-nach Satz 4 erster Halbsatz separierten Gebote, denen noch kein
-Zuschlag erteilt wurde, entsprechend § 32 Absatz 1 Satz 3. Sodann
-erteilt die Bundesnetzagentur allen nach Satz 7 sortierten Geboten
-einen Zuschlag im Umfang ihres Gebots, bis eine Zuschlagsmenge von
-insgesamt 40 Prozent einschließlich der nach Satz 6 bezuschlagten
-Gebotsmenge der an diesem Gebotstermin eingereichten Gebotsmenge der
-zugelassenen Gebote durch einen Zuschlag erreicht oder erstmalig
-überschritten ist. Sie separiert die zugelassenen Gebote, die noch
-nicht bezuschlagt wurden; sie separiert diese Gebote danach, ob sie
-für Neuanlagen oder für Bestandsanlagen im Sinn des § 39g abgegeben
-wurden. Die Bundesnetzagentur sortiert die Gebote, die für
-Bestandsanlagen abgegeben wurden, entsprechend § 32 Absatz 1 Satz 3.
-Sodann erteilt die Bundesnetzagentur allen nach Satz 10 separierten
-Geboten einen Zuschlag im Umfang ihres Gebots, bis eine Zuschlagsmenge
-von 20 Prozent der an diesem Gebotstermin eingereichten Gebotsmenge
-der zugelassenen Gebote durch einen Zuschlag erreicht oder erstmalig
-überschritten ist. Sodann sortiert die Bundesnetzagentur die Gebote,
-denen noch kein Zuschlag erteilt wurde, entsprechend § 32 Absatz 1
-Satz 3. Sodann erteilt die Bundesnetzagentur allen nach Satz 12
-sortierten Geboten einen Zuschlag im Umfang ihres Gebots, bis eine
-Zuschlagsmenge von weiteren 40 Prozent einschließlich der nach Satz 11
-bezuschlagten Gebotsmenge der an diesem Gebotstermin eingereichten
-Gebotsmenge der zugelassenen Gebote durch einen Zuschlag erreicht oder
-erstmalig überschritten ist.
 
 
 ##### § 39e Erlöschen von Zuschlägen für Biomasseanlagen
@@ -4275,15 +5131,12 @@ Fassung in Betrieb genommen worden sind (bestehende Biomasseanlagen),
 Gebote abgegeben werden, wenn der bisherige Zahlungsanspruch für Strom
 aus dieser Anlage nach dem Erneuerbare-Energien-Gesetz in der für die
 Anlage maßgeblichen Fassung zum Zeitpunkt der Ausschreibung nur noch
-für höchstens acht Jahre besteht. Abweichend von § 22 Absatz 4 Satz 2
+für höchstens fünf Jahre besteht. Abweichend von § 22 Absatz 4 Satz 2
 können auch bestehende Biomasseanlagen mit einer installierten
 Leistung von 150 Kilowatt oder weniger Gebote abgeben. Der
 Zuschlagswert ist für alle bezuschlagten Gebote von Anlagen nach Satz
-2 abweichend von § 3 Nummer 51 und § 39i Absatz 5 der Gebotswert des
-höchsten noch bezuschlagten Gebots desselben Gebotstermins zuzüglich
-0,5 Cent pro Kilowattstunde in den Ausschreibungen der Kalenderjahre
-2023 bis 2025 für Anlagen mit einer installierten Leistung bis
-einschließlich 500 Kilowatt.
+2 abweichend von § 3 Nummer 51 der Gebotswert des höchsten noch
+bezuschlagten Gebots desselben Gebotstermins.
 
 (2) Erteilt die Bundesnetzagentur nach Absatz 1 einer bestehenden
 Biomasseanlage einen Zuschlag, tritt der Anspruch nach § 19 Absatz 1
@@ -4292,19 +5145,19 @@ Kalendermonats für die Zukunft an die Stelle aller bisherigen
 Ansprüche nach dem Erneuerbare-Energien-Gesetz in der für die Anlage
 maßgeblichen Fassung. Der Anlagenbetreiber muss dem Netzbetreiber
 einen Kalendermonat mitteilen, der nicht vor dem dritten und nicht
-nach dem 60. Kalendermonat liegt, der auf die öffentliche Bekanntgabe
+nach dem 42. Kalendermonat liegt, der auf die öffentliche Bekanntgabe
 des Zuschlags folgt. Die Mitteilung hat vor Beginn des Kalendermonats
 zu erfolgen, der dem nach Satz 2 mitzuteilenden Kalendermonat
 vorangeht. Wenn der Anlagenbetreiber keine Mitteilung nach Satz 2
-macht, tritt der neue Anspruch am ersten Tag des 61. Kalendermonats,
+macht, tritt der neue Anspruch am ersten Tag des 43. Kalendermonats,
 der auf die öffentliche Bekanntgabe des Zuschlags folgt, an die Stelle
 der bisherigen Ansprüche. Der Netzbetreiber muss der Bundesnetzagentur
 den Tag nach Satz 1 mitteilen, sobald dieser ihm bekannt ist.
 
 (3) Die Anlage gilt als an dem Tag nach Absatz 2 neu in Betrieb
 genommen. Ab diesem Tag sind für diese Anlagen alle Rechte und
-Pflichten verbindlich, die für Anlagen gelten, die nach dem 31.
-Dezember 2022 in Betrieb genommen worden sind, und es ist die
+Pflichten verbindlich, die zum Zeitpunkt des Gebotstermins gelten, in
+dem das Angebot für die Anlage abgegeben wurde, und es ist die
 Biomasseverordnung in der zum Zeitpunkt der Bekanntmachung der
 Ausschreibung geltenden Fassung verbindlich.
 
@@ -4317,19 +5170,27 @@ Netzbetreiber vorgelegt hat. Maßgeblich für einen bedarfsorientierten
 Betrieb sind
 
 1.  für Anlagen, die Biogas einsetzen, die Anforderungen nach § 39i Absatz
-    2 Satz 2 Nummer 1 und
+    2a und
 
 
 2.  für Anlagen, die feste Biomasse einsetzen, die Anforderungen nach §
-    39i Absatz 2 Satz 2 Nummer 2.
+    39i Absatz 2.
 
 
 
+Sofern der Zuschlag aufgrund von § 39d Absatz 2 Satz 6 oder Satz 9
+oder § 39d Absatz 3 Satz 6 oder Satz 9 erteilt wurde, besteht der
+Anspruch nach § 19 Absatz 1 in Verbindung mit Absatz 2 nur, wenn ein
+Umweltgutachter mit einer Zulassung für den Bereich Wärmeversorgung
+bescheinigt hat, dass die Anlage bereits am 1. Januar 2024 an eine
+Wärmeversorgungseinrichtung angeschlossen und zum Zeitpunkt der
+Gebotsabgabe noch immer an diese angeschlossen war, und der
+Anlagenbetreiber diese Bescheinigung dem Netzbetreiber vorgelegt hat.
 
 (5) Die §§ 39 bis 39f sind mit den Maßgaben anzuwenden, dass
 
 1.  die Genehmigung nach § 39 Absatz 1 Nummer 2 für einen Zeitraum bis
-    mindestens zum letzten Tag des elften Kalenderjahres, das auf den
+    mindestens zum letzten Tag des 13. Kalenderjahres, das auf den
     Gebotstermin folgt, erteilt worden sein muss,
 
 
@@ -4339,10 +5200,16 @@ Betrieb sind
 2.  der Bieter in Ergänzung zu § 39 Absatz 3 Eigenerklärungen beifügen
     muss, nach denen
 
-    a)  er Betreiber der Biomasseanlage ist und
+    a)  er Betreiber der Biomasseanlage ist,
 
 
-    b)  die Genehmigung nach § 39 Absatz 1 Nummer 2 die Anforderung nach
+    b)  falls zutreffend, die Biomasseanlage eine bestehende Biomasseanlage
+        ist, die bereits am 1. Januar 2024 an eine Wärmeversorgungseinrichtung
+        angeschlossen war und zum Zeitpunkt der Gebotsabgabe noch immer
+        angeschlossen ist, und
+
+
+    c)  die Genehmigung nach § 39 Absatz 1 Nummer 2 die Anforderung nach
         Nummer 1 erfüllt,
 
 
@@ -4408,7 +5275,7 @@ spätestens 36 Monate nach der öffentlichen Bekanntgabe des Zuschlags.
 
 
 (3) Abweichend von § 25 Absatz 1 Satz 1 beträgt der Zahlungszeitraum
-für bestehende Biomasseanlagen zehn Jahre. Dieser Zeitraum kann nicht
+für bestehende Biomasseanlagen zwölf Jahre. Dieser Zeitraum kann nicht
 erneut nach § 39g verlängert werden.
 
 
@@ -4422,12 +5289,18 @@ eingesetzte Anteil von Getreidekorn und Mais bei Anlagen, die
     insgesamt höchstens 40 Masseprozent beträgt,
 
 
-2.  im Jahr 2024 oder 2025 einen Zuschlag erhalten haben, in jedem
+2.  einen Zuschlag in einem Gebotstermin nach dem Ablauf des 31. Dezember
+    2023 und vor dem 25. Februar 2025 erhalten haben, in jedem
     Kalenderjahr insgesamt höchstens 35 Masseprozent beträgt,
 
 
-3.  im Jahr 2026, 2027 oder 2028 einen Zuschlag erhalten haben, in jedem
-    Kalenderjahr höchstens 30 Masseprozent beträgt.
+3.  einen Zuschlag in einem Gebotstermin nach dem 25. Februar 2025 und vor
+    dem 1. Januar 2026 erhalten haben, in jedem Kalenderjahr insgesamt
+    höchstens 30 Masseprozent beträgt,
+
+
+4.  im Jahr 2026, 2027 oder 2028 einen Zuschlag erhalten haben, in jedem
+    Kalenderjahr höchstens 25 Masseprozent beträgt.
 
 
 
@@ -4438,25 +5311,50 @@ Gemisch, Körnermais und Lieschkolbenschrot anzusehen.
 für Strom aus Biogas besteht nur, wenn in der Anlage kein Biomethan
 eingesetzt wird.
 
-(2) Für Strom aus Biomasseanlagen verringert sich der Anspruch nach §
-19 Absatz 1 für jede Kilowattstunde, um die in einem Kalenderjahr die
+(2) Für Strom aus Biomasseanlagen, die feste Biomasse einsetzen,
+verringert sich der Anspruch nach § 19 Absatz 1 für jede
+Kilowattstunde, um die in einem Kalenderjahr die
 Höchstbemessungsleistung der Anlage überschritten wird, in der
 Veräußerungsform der Marktprämie auf null und in den
 Veräußerungsformen einer Einspeisevergütung auf den Marktwert.
-Höchstbemessungsleistung im Sinn von Satz 1 ist
+Höchstbemessungsleistung im Sinn des Satzes 1 ist der um 25 Prozent
+verringerte Wert der bezuschlagten Gebotsmenge. Wird der Zuschlag nach
+§ 35a teilweise entwertet, ist bei der Bestimmung der
+Höchstbemessungsleistung nach Satz 2 die bezuschlagte Gebotsmenge
+entsprechend zu verringern.
 
-1.  für Anlagen, die Biogas einsetzen, der um 55 Prozent verringerte Wert
-    der bezuschlagten Gebotsmenge und
+(2a) Für Strom aus Biogasanlagen, deren anzulegender Wert in einem
+Zuschlagsverfahren ermittelt worden ist, besteht der Anspruch nach §
+19 Absatz 1 nur für die Kilowattstunden, die in den 11 680
+Betriebsviertelstunden eines Kalenderjahres eingespeist werden, in
+denen die Anlage die höchsten Strommengen je Betriebsviertelstunde
+eingespeist hat (förderfähige Betriebsviertelstunden). Im ersten Jahr
+der Geltendmachung des Anspruchs nach Satz 1 reduziert sich die Anzahl
+der förderfähigen Betriebsviertelstunden nach Satz 1 anteilig im
+Verhältnis der vollen Kalendermonate, in denen der Anspruch nach Satz
+1 geltend gemacht wird, zu zwölf Kalendermonaten. Die Zahl der
+förderfähigen Betriebsviertelstunden nach Satz 1 oder Satz 5 reduziert
+sich jeweils um 500 Betriebsviertelstunden
+
+1.  für Biogasanlagen, die einen Zuschlag in einem Gebotstermin am 1.
+    April erhalten haben, ab dem 1. Januar des fünften, des siebten, des
+    neunten und des elften Jahres nach Zuschlagserteilung und
 
 
-2.  für Anlagen, die feste Biomasse einsetzen, der um 25 Prozent
-    verringerte Wert der bezuschlagten Gebotsmenge.
+2.  für Biogasanlagen, die einen Zuschlag in einem Gebotstermin am 1.
+    Oktober erhalten haben, ab dem 1. Januar des sechsten, des achten, des
+    neunten und des elften Jahres nach Zuschlagserteilung.
 
 
 
-Wird der Zuschlag nach § 35a teilweise entwertet, ist bei der
-Bestimmung der Höchstbemessungsleistung nach Satz 2 die bezuschlagte
-Gebotsmenge entsprechend zu verringern.
+Im letzten Jahr der Geltendmachung des Anspruchs nach Satz 1 reduziert
+sich die Anzahl der Betriebsviertelstunden nach Satz 3 anteilig im
+Verhältnis der vollen Kalendermonate, in denen der Anspruch nach Satz
+1 geltend gemacht wird, zu zwölf Kalendermonaten. Abweichend von Satz
+1 beträgt die Anzahl der förderfähigen Betriebsviertelstunden für
+Biogasanlagen mit einer installierten Leistung bis einschließlich 350
+Kilowatt, deren anzulegender Wert in einem Zuschlagsverfahren
+ermittelt worden ist, 16 000 Betriebsviertelstunden.
 
 (3) Soweit in Biomasseanlagen Biogas eingesetzt wird, das in dem
 jeweiligen Kalenderjahr durch anaerobe Vergärung von Biomasse im Sinn
@@ -4491,11 +5389,11 @@ entsprechender Anwendung des § 44c Absatz 1 Nummer 1 und Absatz 2
 jährlich durch Vorlage einer Kopie eines Einsatzstoff-Tagebuchs
 nachzuweisen ist.
 
-(5) Der Zuschlagswert ist für alle bezuschlagten Gebote in den
-Ausschreibungen in den Kalenderjahren 2023 bis 2025 für
+(5) Der anzulegende Wert ist für alle bezuschlagten Gebote in den
+Ausschreibungen in den Kalenderjahren 2024 und 2025 für
 Biomasseanlagen mit einer installierten Leistung bis einschließlich
-500 Kilowatt abweichend von § 3 Nummer 51 der jeweilige Gebotswert
-zuzüglich 0,5 Cent pro Kilowattstunde.
+500 Kilowatt der jeweilige Zuschlagswert zuzüglich 0,5 Cent pro
+Kilowattstunde.
 
 
 #### Unterabschnitt 6 - Ausschreibungen für Biomethananlagen
@@ -4503,10 +5401,20 @@ zuzüglich 0,5 Cent pro Kilowattstunde.
 
 ##### § 39j Anwendbarkeit des Unterabschnitts 5
 
-Für die Ausschreibungen für Biomethananlagen sind die Bestimmungen des
-Unterabschnitts 5 mit Ausnahme des § 39 Absatz 3 Nummer 5, Absatz 4,
-der §§ 39b, 39d, 39g und 39i Absatz 1a bis 5 anzuwenden, sofern in
+(1) Für die Ausschreibungen für Biomethananlagen sind die Bestimmungen
+des Unterabschnitts 5 mit Ausnahme des § 39 Absatz 3 Nummer 5, Absatz
+4, der §§ 39b, 39d, 39g und 39i Absatz 1a bis 5 anzuwenden, sofern in
 diesem Unterabschnitt nicht etwas Abweichendes geregelt ist.
+
+(2) § 39e Absatz 1 ist mit der Maßgabe anzuwenden, dass der Zuschlag
+bei Geboten für Biomethananlagen 42 Monate nach der öffentlichen
+Bekanntgabe des Zuschlags erlischt, soweit die Anlage nicht bis zu
+diesem Zeitpunkt in Betrieb genommen worden ist.
+
+(3) § 39h Absatz 1 ist mit der Maßgabe anzuwenden, dass abweichend von
+§ 25 Absatz 1 Satz 3 der Zeitraum nach § 25 Absatz 1 Satz 1 für
+Biomethananlagen spätestens 42 Monate nach der öffentlichen
+Bekanntgabe des Zuschlags beginnt.
 
 
 ##### § 39k Gebote für Biomethananlagen
@@ -4524,9 +5432,7 @@ Biomethananlage mit gleicher Leistung nach dem aktuellen Stand der
 Technik betragen würde, so umgestellt werden können, dass sie ihren
 Strom ausschließlich auf Basis von Wasserstoff gewinnen können.
 
-(3) In Ergänzung zu den Anforderungen nach § 39 Absatz 1 müssen die
-Biomethananlagen, für die Gebote abgegeben werden, in der Südregion
-errichtet werden.
+(3) (weggefallen)
 
 (4) In den Fällen des § 28d Absatz 6 korrigiert die Bundesnetzagentur
 das nach § 29 Absatz 1 Satz 2 Nummer 2 bekanntgemachte
@@ -4903,10 +5809,17 @@ entspricht. Für den darüber hinausgehenden Anteil der in dem
 Kalenderjahr erzeugten Strommenge verringert sich der Anspruch nach §
 19 Absatz 1 in der Veräußerungsform der Marktprämie auf null und in
 den Veräußerungsformen einer Einspeisevergütung auf den Marktwert. Die
-Sätze 1 und 2 sind nicht für Strom aus Anlagen im Sinn von § 44
-anzuwenden, in denen Biogas eingesetzt wird, das durch anaerobe
-Vergärung von Biomasse im Sinn der Biomasseverordnung gewonnen worden
-ist.
+Sätze 1 und 2 sind nicht anzuwenden für Strom
+
+1.  aus Anlagen im Sinn des § 44, in denen Biogas eingesetzt wird, das
+    durch anaerobe Vergärung von Biomasse im Sinn der Biomasseverordnung
+    gewonnen worden ist, und
+
+
+2.  aus Biogasanlagen, die einen Zuschlag nach § 39 erhalten haben.
+
+
+
 
 (2) Der Anspruch nach § 19 Absatz 1 für Strom aus Biomasse nach § 42
 oder § 43 besteht ferner nur, soweit bei Anlagen, in denen Biomethan
@@ -5090,9 +6003,14 @@ Ausschreibungsrunden eines Kalenderjahres jeweils bis zum 31. Januar
 des darauf folgenden Kalenderjahres.
 
 (3) Für Anlagen mit einer installierten Leistung bis einschließlich 50
-Kilowatt wird für die Berechnung des anzulegenden Werts angenommen,
-dass ihr Ertrag 50 Prozent des Referenzertrags beträgt; dieser
-Gütefaktor ist auch außerhalb der Südregion anzuwenden.
+Kilowatt und für Flugwindenergieanlagen an Land wird für die
+Berechnung des anzulegenden Werts angenommen, dass ihr Ertrag 50
+Prozent des Referenzertrags beträgt; dieser Gütefaktor ist auch
+außerhalb der Südregion anzuwenden. Für Flugwindenergieanlagen an Land
+ist Satz 1 erst anzuwenden, sobald der Betreiber der
+Flugwindenergieanlage an Land der Bundesnetzagentur nach der
+Inbetriebnahme der Anlage unter Angabe der Registernummer mitgeteilt
+hat, dass die Anlage eine Flugwindenergieanlage an Land ist.
 
 (4) (weggefallen)
 
@@ -5129,13 +6047,13 @@ bestimmt wird, beträgt dieser vorbehaltlich der nachfolgenden Absätze
     Bedeutung oder ein Verfahren auf Grund des Bundes-
     Immissionsschutzgesetzes für die Errichtung und den Betrieb öffentlich
     zugänglicher Abfallbeseitigungsanlagen durchgeführt worden ist und die
-    Gemeinde beteiligt wurde und die Fläche kein entwässerter
-    landwirtschaftlich genutzter Moorboden ist,
+    Gemeinde beteiligt wurde und die Fläche kein entwässerter Moorboden
+    ist,
 
 
 3.  im Bereich eines beschlossenen Bebauungsplans im Sinn des § 30 des
     Baugesetzbuchs errichtet worden ist, die Fläche kein entwässerter
-    landwirtschaftlich genutzter Moorboden ist und
+    Moorboden ist und
 
     a)  der Bebauungsplan vor dem 1. September 2003 aufgestellt und später
         nicht mit dem Zweck geändert worden ist, eine Solaranlage zu
@@ -5161,7 +6079,6 @@ bestimmt wird, beträgt dieser vorbehaltlich der nachfolgenden Absätze
 
         bb) auf Flächen befindet, die zum Zeitpunkt des Beschlusses über die
             Aufstellung oder Änderung des Bebauungsplans bereits versiegelt waren,
-            oder
 
 
         cc) auf Konversionsflächen aus wirtschaftlicher, verkehrlicher,
@@ -5170,7 +6087,25 @@ bestimmt wird, beträgt dieser vorbehaltlich der nachfolgenden Absätze
             Änderung des Bebauungsplans nicht rechtsverbindlich als
             Naturschutzgebiet im Sinn des § 23 des Bundesnaturschutzgesetzes oder
             als Nationalpark im Sinn des § 24 des Bundesnaturschutzgesetzes
-            festgesetzt worden sind,
+            festgesetzt worden sind oder
+
+
+        dd) auf Flächen befindet, deren Flurstücke zum Zeitpunkt des Beschlusses
+            über die Aufstellung des Bebauungsplans als Ackerland oder Grünland
+            genutzt worden sind und in einem benachteiligten Gebiet lagen, auf dem
+            nicht aufgrund einer Rechtsverordnung nach § 37c Absatz 2 Gebote für
+            Freiflächenanlagen nicht zu berücksichtigen sind, und wenn diese
+            Flächen zum Zeitpunkt des Beschlusses über die Aufstellung oder
+            Änderung des Bebauungsplans nicht in einem Natura 2000-Gebiet im Sinn
+            des § 7 Absatz 1 Nummer 8 des Bundesnaturschutzgesetzes liegen, kein
+            Lebensraumtyp sind, der in Anhang I der Richtlinie 92/43/EWG
+            aufgeführt ist, kein gesetzlich geschütztes Biotop nach § 30 des
+            Bundesnaturschutzgesetzes darstellen und nicht rechtsverbindlich als
+            Naturschutzgebiet im Sinn des § 23 des Bundesnaturschutzgesetzes oder
+            als Nationalpark oder als Nationales Naturmonument im Sinn des § 24
+            des Bundesnaturschutzgesetzes oder als Kern- und Pflegezonen von
+            Biosphärenreservaten im Sinn des § 25 Absatz 3 des
+            Bundesnaturschutzgesetzes festgesetzt worden sind,
 
 
 
@@ -5179,15 +6114,13 @@ bestimmt wird, beträgt dieser vorbehaltlich der nachfolgenden Absätze
 
 
 
-4.  auf einer Fläche errichtet worden ist, die ein künstliches Gewässer im
-    Sinn des § 3 Nummer 4 des Wasserhaushaltsgesetzes oder ein erheblich
-    verändertes Gewässer im Sinn des § 3 Nummer 5 des
-    Wasserhaushaltsgesetzes ist,
+4.  (weggefallen)
 
 
-5.  eine besondere Solaranlage ist, die den Anforderungen entspricht, die
-    in einer Festlegung der Bundesnetzagentur nach § 85c an sie gestellt
-    werden, und errichtet worden ist
+5.  eine besondere Solaranlage ist, die im Fall der Buchstaben a bis e den
+    Anforderungen entspricht, die in einer Festlegung der
+    Bundesnetzagentur nach § 85c an sie gestellt werden, und errichtet
+    worden ist
 
     a)  auf Ackerflächen, die kein Moorboden sind und nicht rechtsverbindlich
         als Naturschutzgebiet im Sinn des § 23 des Bundesnaturschutzgesetzes
@@ -5214,7 +6147,7 @@ bestimmt wird, beträgt dieser vorbehaltlich der nachfolgenden Absätze
         Anhang I der Richtlinie 92/43/EWG aufgeführt ist,
 
 
-    d)  auf Parkplatzflächen oder
+    d)  auf Parkplatzflächen,
 
 
     e)  auf Moorböden, die entwässert und landwirtschaftlich genutzt worden
@@ -5222,11 +6155,17 @@ bestimmt wird, beträgt dieser vorbehaltlich der nachfolgenden Absätze
         wiedervernässt werden, oder
 
 
+    f)  auf einer Fläche, die ein künstliches Gewässer im Sinn des § 3 Nummer
+        4 des Wasserhaushaltsgesetzes oder ein erheblich verändertes Gewässer
+        im Sinn des § 3 Nummer 5 des Wasserhaushaltsgesetzes ist, oder
+
+
 
 
 
 6.  auf einer Fläche nach § 35 Absatz 1 Nummer 8 Buchstabe b des
-    Baugesetzbuchs errichtet worden ist.
+    Baugesetzbuchs, die kein entwässerter Moorboden ist, errichtet worden
+    ist.
 
 
 
@@ -5258,19 +6197,32 @@ für das jeweils höchste noch bezuschlagte Gebot aller
 Ausschreibungsrunden eines Kalenderjahres jeweils bis zum 31. Januar
 des darauf folgenden Kalenderjahres.
 
+(1b) Der anzulegende Wert nach den Absätzen 1 und 1a erhöht sich für
+besondere Solaranlagen nach Absatz 1 Satz 1 Nummer 5 Buchstabe a bis
+c, die bei ausschließlich senkrecht ausgerichteten Solaranlagen
+insgesamt mit einer lichten Höhe von mindestens 0,80 Metern und sonst
+insgesamt mit einer lichten Höhe von mindestens 2,10 Metern
+aufgeständert sind, und für besondere Solaranlagen nach Absatz 1 Satz
+1 Nummer 5 Buchstabe d bis f um die Differenz zwischen dem jeweils im
+vorangegangenen Kalenderjahr im Untersegment für besondere
+Solaranlagen nach § 37b Absatz 2 geltenden Höchstwert und dem
+anzulegenden Wert nach Absatz 1. Im Kalenderjahr 2024 erhöht sich der
+anzulegende Wert nach den Absätzen 1 und 1a abweichend von Satz 1 um
+2,5 Cent pro Kilowattstunde.
+
 (2) Für Strom aus Solaranlagen, die ausschließlich auf, an oder in
 einem Gebäude oder einer Lärmschutzwand angebracht sind, beträgt der
 anzulegende Wert
 
-1.  bis einschließlich einer installierten Leistung von 10 Kilowatt 8,6
+1.  bis einschließlich einer installierten Leistung von 10 Kilowatt 8,51
     Cent pro Kilowattstunde,
 
 
-2.  bis einschließlich einer installierten Leistung von 40 Kilowatt 7,5
+2.  bis einschließlich einer installierten Leistung von 40 Kilowatt 7,43
     Cent pro Kilowattstunde und
 
 
-3.  bis einschließlich einer installierten Leistung von 1 Megawatt 6,2
+3.  bis einschließlich einer installierten Leistung von 1 Megawatt 7,64
     Cent pro Kilowattstunde.
 
 
@@ -5314,29 +6266,30 @@ bestimmen kann, dass Solaranlagen, die innerhalb von weniger als zwölf
 aufeinander folgenden Kalendermonaten in Betrieb genommen werden,
 nicht als eine Anlage, sondern als zwei Anlagen anzusehen sind, wenn
 
-1.  sie auf, an oder in demselben Gebäude angebracht sind,
-
-
-2.  der Strom aus beiden Anlagen über jeweils eine eigene Messeinrichtung
+1.  der Strom aus beiden Anlagen über jeweils eine eigene Messeinrichtung
     abgerechnet wird und
 
 
-3.  der Anlagenbetreiber dem Netzbetreiber im Jahr der Inbetriebnahme der
-    zweiten Anlage vor deren Inbetriebnahme und im Übrigen vor dem 1.
-    Dezember des vorangegangenen Kalenderjahres mitgeteilt hat, für welche
-    der beiden Anlagen er den erhöhten anzulegenden Wert nach Satz 1 in
+2.  der Anlagenbetreiber dem Netzbetreiber im Jahr der Inbetriebnahme der
+    zweiten Anlage vor deren Inbetriebnahme mitgeteilt hat, für welche der
+    beiden Anlagen er den erhöhten anzulegenden Wert nach Satz 1 in
     Anspruch nehmen möchte; für Strom aus der anderen Anlage ist die
     Erhöhung des anzulegenden Wertes nach Satz 1 ausgeschlossen.
 
 
 
+Der Anlagenbetreiber kann die Entscheidung nach Satz 2 Nummer 2, für
+welche der beiden Anlagen er den erhöhten anzulegenden Wert in
+Anspruch nehmen möchte, mit Wirkung zum 1. Januar des Folgejahres
+ändern, indem er dies dem Netzbetreiber vor dem 1. Dezember eines
+Jahres mitteilt.
 
 (3) Für Solaranlagen, die ausschließlich auf, an oder in einem Gebäude
 angebracht sind, das kein Wohngebäude ist und das im Außenbereich nach
 § 35 des Baugesetzbuchs errichtet worden ist, ist Absatz 2 nur
 anzuwenden, wenn
 
-1.  nachweislich vor dem 1. April 2012
+1.  nachweislich vor dem 1. März 2023
 
     a)  für das Gebäude der Bauantrag oder der Antrag auf Zustimmung gestellt
         oder die Bauanzeige erstattet worden ist,
@@ -5369,14 +6322,82 @@ anzuwenden, wenn
 Im Übrigen ist Absatz 1 Satz 1 Nummer 1 anzuwenden.
 
 (4) Für Solaranlagen nach Absatz 1 ist § 38b Absatz 2 Satz 1 und 3
-entsprechend anzuwenden. Solaranlagen nach Absatz 2, die aufgrund
-eines technischen Defekts, einer Beschädigung oder eines Diebstahls
-Solaranlagen an demselben Standort ersetzen, sind abweichend von § 3
-Nummer 30 bis zur Höhe der von der Ersetzung an demselben Standort
-installierten Leistung von Solaranlagen als zu dem Zeitpunkt in
-Betrieb genommen anzusehen, zu dem die ersetzten Anlagen in Betrieb
-genommen worden sind. Der Anspruch nach § 19 Absatz 1 entfällt in den
-Fällen der Sätze 1 und 2 für die ersetzten Anlagen endgültig.
+entsprechend anzuwenden. Für Solaranlagen nach Absatz 2 sind § 38b
+Absatz 2 Satz 1 und § 38h Satz 2 Nummer 2 entsprechend anzuwenden. Der
+Anspruch nach § 19 Absatz 1 entfällt in den Fällen der Sätze 1 und 2
+für die ersetzten Anlagen endgültig.
+
+(5) Abweichend von den Absätzen 1 bis 1b beträgt der anzulegende Wert
+für Freiflächenanlagen, die auf landwirtschaftlich genutzten Flächen
+errichtet werden, null, wenn die Bundesnetzagentur in der letzten
+mindestens einen Monat vor der Inbetriebnahme liegenden Bekanntmachung
+nach § 29 Absatz 1 Satz 2 Nummer 4a angegeben hat, dass nach § 37
+Absatz 4 keine Gebote für Freiflächenanlagen abgegeben werden dürfen,
+die auf landwirtschaftlich genutzten Flächen errichtet werden sollen.
+
+(6) Betreiber von Solaranlagen nach Absatz 1 Nummer 1 bis 3 und Nummer
+6 müssen sicherstellen, dass die Anlagen mindestens drei der folgenden
+Kriterien erfüllen:
+
+1.  die von den Modulen maximal in Anspruch genommene Grundfläche beträgt
+    höchstens 60 Prozent der Grundfläche des Gesamtvorhabens,
+
+
+2.  auf den Boden unter der Anlage wird ein biodiversitätsförderndes
+    Pflegekonzept angewandt, indem
+
+    a)  die Mahd zur Förderung der Biodiversität maximal zweischürig erfolgt
+        und das Mahdgut abgeräumt wird oder
+
+
+    b)  die Fläche als Portionsweide mit biodiversitätsfördernd an den
+        Flächenertrag angepasster Besatzdichte beweidet wird,
+
+
+
+
+
+3.  die Durchgängigkeit für Tierarten wird gewährleistet, indem
+
+    a)  bei Anlagen, die an mindestens einer Seite eine Seitenlänge von mehr
+        als 500 Metern aufweisen, Wanderkorridore für Großsäuger angelegt
+        werden, deren Breite und Bepflanzung die örtlichen Gegebenheiten
+        berücksichtigen, und
+
+
+    b)  die Durchgängigkeit für kleinere Tierarten gewährleistet wird,
+
+
+
+
+
+4.  auf mindestens 10 Prozent der Fläche der Anlage werden
+    standortangepasste Typen von Biotopelementen angelegt,
+
+
+5.  die Anlage wird bodenschonend betrieben, indem
+
+    a)  auf der Fläche keine Pflanzenschutz- oder Düngemittel verwendet werden
+        und
+
+
+    b)  die Anlage nur mit Reinigungsmitteln gereinigt wird, wenn diese
+        biologisch abbaubar sind und die Reinigung ohne die Verwendung der
+        Reinigungsmittel nicht möglich ist.
+
+
+
+    Anlagenbetreiber können die Erfüllung der Anforderung nach Satz 1
+    gegenüber dem Netzbetreiber durch Eigenerklärungen nachweisen, wobei
+    die Anforderungen nach Satz 1 Nummer 1, 3 und 4 einmalig zum Zeitpunkt
+    der Inbetriebnahme und die Anforderungen nach Satz 1 Nummer 2 und 5
+    zum Zeitpunkt der Inbetriebnahme und danach zum Ablauf jedes fünften
+    Jahres gegenüber dem Netzbetreiber nachzuweisen sind. Anlagenbetreiber
+    müssen dem Netzbetreiber auf Verlangen geeignete Nachweise zur
+    Überprüfung der abgegebenen Eigenerklärungen vorlegen.
+
+
+
 
 
 ##### § 48a Mieterstromzuschlag bei solarer Strahlungsenergie
@@ -5477,8 +6498,8 @@ sämtlichen Viertelstunden des jeweiligen Kalenderjahres gekürzt.
 ##### § 50a Flexibilitätszuschlag für neue Anlagen
 
 (1) Der Anspruch nach § 50 beträgt für die Bereitstellung flexibler
-installierter Leistung 65 Euro pro Kilowatt installierter Leistung und
-Jahr (Flexibilitätszuschlag) in
+installierter Leistung 100 Euro pro Kilowatt installierter Leistung
+und Jahr (Flexibilitätszuschlag) in
 
 1.  Anlagen zur Erzeugung von Strom aus Biogas mit einer installierten
     Leistung von mehr als 100 Kilowatt, deren anzulegender Wert gesetzlich
@@ -5500,9 +6521,11 @@ ergibt, auf 50 Euro je Kilowatt installierter Leistung und Jahr.
 
 (2) Der Anspruch auf den Flexibilitätszuschlag besteht nur, wenn der
 Anlagenbetreiber für den in § 44b Absatz 1 bestimmten Anteil der in
-einem Kalenderjahr erzeugten Strommenge einen Anspruch nach § 19
-Absatz 1 in Verbindung mit § 39, § 42 oder § 43 in Anspruch nimmt und
-dieser Anspruch nicht nach § 52 verringert ist.
+einem Kalenderjahr erzeugten Strommenge oder für die in den nach § 39i
+Absatz 2a festgelegten Betriebsviertelstunden erzeugten Strommenge
+einen Anspruch nach § 19 Absatz 1 in Verbindung mit § 39, § 42 oder §
+43 in Anspruch nimmt und dieser Anspruch nicht nach § 52 verringert
+ist.
 
 (3) Der Flexibilitätszuschlag kann für die gesamte Dauer des Anspruchs
 nach § 19 Absatz 1 verlangt werden.
@@ -5528,42 +6551,25 @@ Flexibilitätsprämie bestimmt sich nach Anlage 3 Nummer II.
 
 #### § 51 Verringerung des Zahlungsanspruchs bei negativen Preisen
 
-(1) Wenn der Spotmarktpreis
-
-1.  im Jahr 2023 für die Dauer von mindestens vier aufeinanderfolgenden
-    Stunden,
-
-
-2.  in den Jahren 2024 und 2025 für die Dauer von mindestens drei
-    aufeinanderfolgenden Stunden,
-
-
-3.  im Jahr 2026 für die Dauer von mindestens zwei aufeinanderfolgenden
-    Stunden und
-
-
-4.  ab dem Jahr 2027 für die Dauer von mindestens einer Stunde
-
-
-
-negativ ist, verringert sich der anzulegende Wert für den gesamten
-Zeitraum, in dem der Spotmarktpreis ohne Unterbrechung negativ ist,
-auf null.
+(1) Für Zeiträume, in denen der Spotmarktpreis negativ ist, verringert
+sich der anzulegende Wert auf null.
 
 (2) Absatz 1 ist nicht anzuwenden auf
 
-1.  Anlagen mit einer installierten Leistung von weniger als 400 Kilowatt,
-    wobei § 24 Absatz 1 entsprechend anzuwenden ist,
+1.  Anlagen mit einer installierten Leistung von weniger als 100 Kilowatt
+    für Zeiträume vor dem Ablauf des Kalenderjahres, in dem die Anlage mit
+    einem intelligenten Messsystem ausgestattet wird, und
 
 
-2.  Pilotwindenergieanlagen an Land nach § 3 Nummer 37 Buchstabe b und
+2.  Anlagen mit einer installierten Leistung von weniger als 2 Kilowatt
+    für Zeiträume vor dem Ablauf des Kalenderjahres, in dem die
+    Bundesnetzagentur die Festlegung nach § 85 Absatz 2 Nummer 12
+    getroffen hat.
 
 
-3.  Pilotwindenergieanlagen auf See nach § 3 Nummer 6 des Windenergie-auf-
-    See-Gesetzes.
 
-
-
+Zur Ermittlung der Anlagengröße nach Satz 1 ist § 24 entsprechend
+anzuwenden.
 
 (3) Wenn der Strom in einem Kalendermonat, in dem die Voraussetzungen
 nach Absatz 1 mindestens einmal erfüllt sind, in der Ausfallvergütung
@@ -5578,60 +6584,148 @@ Kalendertag, in dem dieser Zeitraum ganz oder teilweise liegt.
 #### § 51a Verlängerung des Vergütungszeitraums bei negativen Preisen
 
 (1) Für Strom aus Anlagen, für den sich der anzulegende Wert nach
-Maßgabe des § 51 verringert und deren anzulegender Wert durch
-Ausschreibungen ermittelt wird, verlängert sich der Vergütungszeitraum
-um die Anzahl der Stunden, in denen sich der anzulegende Wert nach
+Maßgabe des § 51 verringert, verlängert sich der Vergütungszeitraum um
+die Anzahl der Viertelstunden, in denen sich der anzulegende Wert nach
 Maßgabe des § 51 Absatz 1 im Jahr der Inbetriebnahme und in den
-darauffolgenden 19 Kalenderjahren auf null verringert hat, aufgerundet
-auf den nächsten vollen Kalendertag.
+darauffolgenden 19 Kalenderjahren auf null verringert hat. Die nach
+Satz 1 ermittelte Anzahl an Viertelstunden wird aufgerundet auf den
+nächsten vollen Kalendertag.
 
-(2) Die Strombörsen müssen den Übertragungsnetzbetreibern jeweils bis
-zum 15. Januar eines Kalenderjahres die Anzahl der Stunden mitteilen,
-in denen sich der anzulegende Wert jeweils
+(2) Für Strom aus Solaranlagen, für den sich der anzulegende Wert nach
+Maßgabe des § 51 verringert, wird die Anzahl der Viertelstunden, um
+die sich der Vergütungszeitraum nach Absatz 1 Satz 1 verlängern würde,
+mit dem Faktor 0,5 multipliziert und das Ergebnis wird auf die nächste
+volle Viertelstunde aufgerundet (Volllastviertelstunden). Die Anzahl
+der Volllastviertelstunden entspricht einem Zeitkontingent, um das der
+Vergütungszeitraum verlängert wird. Dabei entsprechen die Monate des
+Jahres jeweils der folgenden Anzahl an Volllastviertelstunden:
 
-1.  nach Maßgabe des § 51 Absatz 1 und
+1.  87 für den Monat Januar,
 
 
-2.  nach Maßgabe des § 51 Absatz 1 des Erneuerbare-Energien-Gesetzes in
-    der am 31. Dezember 2022 geltenden Fassung
+2.  189 für den Monat Februar,
+
+
+3.  340 für den Monat März,
+
+
+4.  442 für den Monat April,
+
+
+5.  490 für den Monat Mai,
+
+
+6.  508 für den Monat Juni,
+
+
+7.  498 für den Monat Juli,
+
+
+8.  453 für den Monat August,
+
+
+9.  371 für den Monat September,
+
+
+10. 231 für den Monat Oktober,
+
+
+11. 118 für den Monat November und
+
+
+12. 73 für den Monat Dezember.
 
 
 
-im Vorjahr auf null verringert hat.
+Endet der ursprüngliche Vergütungszeitraum der Solaranlage
+untermonatlich, entsprechen die für die verbleibenden Tage dieses
+Monats anzulegenden Volllastviertelstunden dem Quotienten aus den nach
+Ende des Vergütungszeitraums verbleibenden Tagen des Monats und der
+Gesamtanzahl der Tage dieses Monats, multipliziert mit den
+Volllastviertelstunden dieses Monats nach Satz 3. Der
+Vergütungszeitraum verlängert sich um einen Zeitraum, der sich
+gegebenenfalls über mehrere aufeinanderfolgende Monate erstreckt, bis
+das nach Satz 1 errechnete Zeitkontingent an auszugleichenden
+Volllastviertelstunden aufgebraucht ist. Der Vergütungszeitraum
+verlängert sich bis zum Ende des Monats, auf den die letzte
+auszugleichende Volllastviertelstunde entfällt.
 
-(3) Die Übertragungsnetzbetreiber müssen jeweils bis zum 31. Januar
+(3) Die Strombörsen müssen den Übertragungsnetzbetreibern jeweils bis
+zum 15. Januar eines Kalenderjahres die Anzahl der Viertelstunden und
+Stunden, in denen sich der anzulegende Wert jeweils im Vorjahr auf
+null verringert hat,
+
+1.  in Viertelstunden nach Maßgabe des § 51 Absatz 1 mitteilen,
+
+
+2.  in Stunden nach Maßgabe des § 51 Absatz 1 des Erneuerbare-Energien-
+    Gesetzes in der am 24. Februar 2025 geltenden Fassung mitteilen und
+
+
+3.  in Stunden nach Maßgabe des § 51 Absatz 1 des Erneuerbare-Energien-
+    Gesetzes in der am 31. Dezember 2022 geltenden Fassung mitteilen.
+
+
+
+
+(4) Die Übertragungsnetzbetreiber müssen jeweils bis zum 31. Januar
 eines Kalenderjahres auf einer gemeinsamen Internetseite folgende
-Informationen veröﬀentlichen:
+Informationen veröffentlichen:
 
-1.  die Anzahl der Stunden, in denen sich der anzulegende Wert jeweils
+1.  die Anzahl der
 
-    a)  nach Maßgabe des § 51 Absatz 1 und
-
-
-    b)  nach Maßgabe des § 51 Absatz 1 des Erneuerbare-Energien-Gesetzes in
-        der am 31. Dezember 2022 geltenden Fassung
+    a)  Viertelstunden, in denen sich der anzulegende Wert nach Maßgabe des §
+        51 Absatz 1 im Vorjahr auf null verringert hat,
 
 
-
-    im Vorjahr auf null verringert hat, und
-
-
-2.  ab dem Jahr 2041 die Anzahl der Stunden, in denen sich der anzulegende
-    Wert jeweils
-
-    a)  nach Maßgabe des § 51 Absatz 1 und
+    b)  Stunden, in denen sich der anzulegende Wert nach Maßgabe des § 51
+        Absatz 1 des Erneuerbare-Energien-Gesetzes in der am 24. Februar 2025
+        geltenden Fassung im Vorjahr auf null verringert hat, und
 
 
-    b)  nach Maßgabe des § 51 Absatz 1 des Erneuerbare-Energien-Gesetzes in
-        der am 31. Dezember 2022 geltenden Fassung
+    c)  Stunden, in denen sich der anzulegende Wert nach Maßgabe des § 51
+        Absatz 1 des Erneuerbare-Energien-Gesetzes in der am 31. Dezember 2022
+        geltenden Fassung im Vorjahr auf null verringert hat, und
 
 
 
-    in den vorangegangenen 20 Jahren auf null verringert hat, und die auf
-    den nächsten vollen Kalendertag aufgerundete Anzahl dieser Stunden.
+
+
+2.  ab dem Jahr 2041 die Anzahl der
+
+    a)  Viertelstunden, in denen sich der anzulegende Wert nach Maßgabe des §
+        51 Absatz 1 in den vorangegangenen 20 Jahren auf null verringert hat,
+        und die auf den nächsten vollen Kalendertag aufgerundete Anzahl dieser
+        Viertelstunden,
+
+
+    b)  Stunden, in denen sich der anzulegende Wert nach Maßgabe des § 51
+        Absatz 1 des Erneuerbare-Energien-Gesetzes in der am 24. Februar 2025
+        geltenden Fassung in den vorangegangenen 20 Jahren auf null verringert
+        hat, und die auf den nächsten vollen Kalendertag aufgerundete Anzahl
+        dieser Stunden, und
+
+
+    c)  Stunden, in denen sich der anzulegende Wert nach Maßgabe des § 51
+        Absatz 1 des Erneuerbare-Energien-Gesetzes in der am 31. Dezember 2022
+        geltenden Fassung in den vorangegangenen 20 Jahren auf null verringert
+        hat, und die auf den nächsten vollen Kalendertag aufgerundete Anzahl
+        dieser Viertelstunden und Stunden.
 
 
 
+
+
+
+
+
+#### § 51b Verringerung des Zahlungsanspruchs für Biogasanlagen in Ausschreibungen bei schwach positiven und negativen Preisen
+
+Für Anlagen, die Biogas mit Ausnahme von Biomethan einsetzen und deren
+anzulegender Wert in einem Zuschlagsverfahren ermittelt worden ist,
+verringert sich der anzulegende Wert auf null für Zeiträume, in denen
+der Spotmarktpreis 2 Cent pro Kilowattstunde oder weniger beträgt. Die
+§§ 51 und 51a sind auf diese Anlagen nicht anzuwenden.
 
 
 #### § 52 Zahlungen bei Pflichtverstößen
@@ -5639,7 +6733,7 @@ Informationen veröﬀentlichen:
 (1) Anlagenbetreiber müssen an den Netzbetreiber, an dessen Netz die
 Anlage angeschlossen ist, eine Zahlung leisten, wenn sie
 
-1.  gegen § 9 Absatz 1, 1a oder 2 verstoßen,
+1.  gegen § 9 Absatz 1 oder Absatz 2 verstoßen,
 
 
 2.  gegen § 9 Absatz 5 verstoßen,
@@ -5652,7 +6746,7 @@ Anlage angeschlossen ist, eine Zahlung leisten, wenn sie
 
 
 5.  die Ausfallvergütung in Anspruch nehmen und dabei eine der
-    Höchstdauern nach § 21 Absatz 1 Nummer 2 erster Halbsatz
+    Höchstdauern nach § 21 Absatz 1 Satz 1 Nummer 3 erster Halbsatz
     überschreiten,
 
 
@@ -5670,6 +6764,10 @@ Anlage angeschlossen ist, eine Zahlung leisten, wenn sie
 9.  dem Netzbetreiber die Zuordnung zu oder den Wechsel zwischen den
     verschiedenen Veräußerungsformen nach § 21b Absatz 1 nicht nach
     Maßgabe des § 21c übermittelt haben,
+
+
+9a. nach der Inbetriebnahme gegen die Vorgabe aus § 37 Absatz 1a oder § 48
+    Absatz 6 verstoßen,
 
 
 10. entgegen der Mitteilung nach § 48 Absatz 2a nicht den gesamten in
@@ -5717,10 +6815,17 @@ installierter Leistung der Anlage und Kalendermonat
     zurück bis zum Beginn des Pflichtverstoßes, und
 
 
-2.  bei einem Pflichtverstoß nach Absatz 1 Nummer 10.
+2.  bei einem Pflichtverstoß nach Absatz 1 Nummer 9a und 10.
 
 
 
+Bei einem nach dem Ablauf des 31. Dezember 2023 auftretenden
+Pflichtverstoß nach Absatz 1 Nummer 1, Nummer 3, Nummer 4 oder Nummer
+8, der aufgrund des Defekts einer technischen Einrichtung eintritt,
+entfällt die zu leistende Zahlung für den Kalendermonat, in dem der
+Pflichtverstoß eintritt, und für den darauffolgenden Kalendermonat,
+dabei trägt der Anlagenbetreiber für das Vorliegen eines Defektes die
+Darlegungs- und Beweislast.
 
 (4) Die Zahlung ist zu leisten
 
@@ -5766,6 +6871,93 @@ von KWK-Anlagen sind die Absätze 2, 3, 6 und 7 entsprechend
 anzuwenden.
 
 
+#### § 52a Netztrennung oder Unterbindung der Einspeisung durch andere Maßnahmen bei schweren Pflichtverstößen
+
+(1) Der Netzbetreiber, an dessen Netz eine Anlage angeschlossen ist,
+muss die Anlage vorbehaltlich der Androhung nach Absatz 2 vom Netz
+trennen oder deren Einspeisung durch andere Maßnahmen unterbinden,
+wenn der Anlagenbetreiber hinsichtlich dieser Anlage in einem Zeitraum
+von zwölf Monaten in insgesamt mindestens sechs Monaten jeweils
+mindestens einmal gegen § 9 Absatz 1 oder Absatz 2 oder gegen § 10b
+Absatz 1 oder Absatz 2 verstoßen hat und der Anlagenbetreiber die
+Anlage nicht bereits nachweislich außer Betrieb genommen hat.
+
+(2) Bevor der Netzbetreiber eine Anlage nach Absatz 1 vom Netz trennt
+oder deren Einspeisung durch andere Maßnahmen unterbindet, hat er dem
+Anlagenbetreiber unter Benennung der konkreten Pflichtverletzung in
+Textform eine Frist von einem Monat zur Behebung zu setzen und auf die
+Rechtsfolgen nach Absatz 1 bei fehlender Behebung hinzuweisen. Der
+Netzbetreiber kann die Frist nach Satz 1 einmalig um bis zu einen
+Monat verlängern.
+
+(3) Bei Trennung einer Anlage vom Netz oder Unterbindung der
+Einspeisung durch andere Maßnahmen nach Absatz 1 ist eine
+Wiederzuschaltung durch den Anlagenbetreiber zu verhindern. Dies wird
+in der Regel dadurch bewirkt, dass bei ausschließlich manuell zu
+bedienenden Schalteinrichtungen die Anlage vom Netzanschluss in einem
+plombierten Bereich dauerhaft getrennt wird, oder durch Rückbau
+wesentlicher Teile der Anlage.
+
+(4) Soweit dies für die Trennung der Anlage vom Netz oder für die
+Unterbindung der Einspeisung durch andere Maßnahmen erforderlich ist,
+darf der Netzbetreiber durch von ihm beschäftigte oder beauftragte
+Personen
+
+1.  die Räume und Grundstücke, in oder auf denen sich die Anlage befindet,
+    während der üblichen Geschäftszeiten betreten, wobei der
+    Anlagenbetreiber und, bei juristischen Personen, rechtsfähigen
+    Personengesellschaften oder nichtrechtsfähigen Vereinen, die nach
+    Gesetz oder Satzung zur Vertretung berufenen Personen verpflichtet
+    sind, das Betreten von Geschäftsräumen und Geschäftsgrundstücken
+    während der üblichen Geschäftszeiten zu dulden, und
+
+
+2.  die Anlage und, soweit erforderlich, die Kundenanlage oder die
+    Kundenanlage zur betrieblichen Eigenversorgung hinter der
+    Anschlusssicherung ändern, wobei
+
+    a)  die berechtigten Interessen des Anlagenbetreibers und des
+        Anschlussnehmers zu beachten sind,
+
+
+    b)  durch die Änderung der Leitungs- und Messaufbau in der Kundenanlage
+        nicht verändert werden darf und
+
+
+    c)  der Anlagenbetreiber und, bei juristischen Personen, rechtsfähigen
+        Personengesellschaften oder nichtrechtsfähigen Vereinen, die nach
+        Gesetz oder Satzung zur Vertretung berufenen Personen verpflichtet
+        sind, die Änderung zu dulden.
+
+
+
+
+
+
+Die vom Netzbetreiber beschäftigten oder beauftragten Personen müssen
+sich gegenüber dem Anlagenbetreiber durch Vorlage eines Auftrags des
+Netzbetreibers in Textform sowie eines gültigen Ausweisdokumentes
+legitimieren.
+
+(5) Der Anlagenbetreiber hat dafür Sorge zu tragen, dass die Anlage
+für die Trennung der Anlage vom Netz oder die Unterbindung der
+Einspeisung durch andere Maßnahmen nach Absatz 1 zugänglich ist, und
+dem Netzbetreiber auf Anforderung alle für die Netztrennung
+erforderlichen Informationen zur Verfügung zu stellen.
+
+(6) Eine Anlage, die nach Absatz 1 vom Netz getrennt wurde, wird nach
+Maßgabe des § 8 unter Rückbau der Maßnahmen nach den Absätzen 3 und 4
+Satz 1 Nummer 2 wieder an das Netz angeschlossen, sobald der
+Anlagenbetreiber die Behebung der nach Absatz 2 benannten
+Pflichtverletzung vollständig nachgewiesen hat.
+
+(7) Der Anlagenbetreiber hat dem Netzbetreiber die Kosten der
+Netztrennung oder der Unterbindung der Einspeisung durch andere
+Maßnahmen, einschließlich der Kosten von Maßnahmen zur Verhinderung
+der Wiederzuschaltung nach Absatz 3, und die Kosten der etwaigen
+Wiederherstellung des Anschlusses zu erstatten.
+
+
 #### § 53 Verringerung der Einspeisevergütung
 
 (1) Die Höhe des Anspruchs auf die Einspeisevergütung berechnet sich
@@ -5782,19 +6974,36 @@ aus den anzulegenden Werten, wobei von den anzulegenden Werten
 
 
 
-(2) Für Strom aus ausgeförderten Anlagen, für die ein Anspruch auf
+(2) Abweichend von Absatz 1 verringert sich der Anspruch nicht,
+solange die unentgeltliche Abnahme in Anspruch genommen wird.
+
+(3) Abweichend von Absatz 1 verringert sich der anzulegende Wert um 20
+Prozent, wobei das Ergebnis auf zwei Stellen nach dem Komma gerundet
+wird, solange die Ausfallvergütung in Anspruch genommen wird.
+
+(4) Für Strom aus ausgeförderten Anlagen, für die ein Anspruch auf
 Einspeisevergütung nach § 19 Absatz 1 in Verbindung mit § 21 Absatz 1
-Nummer 3 geltend gemacht wird, ist abweichend von Absatz 1 von dem
-anzulegenden Wert der Wert abzuziehen, den die
+Satz 1 Nummer 4 geltend gemacht wird, ist abweichend von Absatz 1 von
+dem anzulegenden Wert der Wert abzuziehen, den die
 Übertragungsnetzbetreiber nach § 51 Absatz 1 Nummer 4 Buchstabe b des
 Energiefinanzierungsgesetzes auf ihrer Internetseite veröffentlicht
 haben. Der Wert nach Satz 1 verringert sich um die Hälfte für Strom
 aus ausgeförderten Anlagen, die mit einem intelligenten Messsystem
 ausgestattet sind.
 
-(3) Abweichend von Absatz 1 verringert sich der anzulegende Wert um 20
-Prozent, wobei das Ergebnis auf zwei Stellen nach dem Komma gerundet
-wird, solange die Ausfallvergütung in Anspruch genommen wird.
+(5) Wenn für besondere Solaranlagen nach § 48 Absatz 1 Satz 1 Nummer 5
+Buchstabe a der Nachweis über den gleichzeitigen Nutzpflanzenanbau
+gemäß den Festlegungen der Bundesnetzagentur nach § 85c Absatz 1 Satz
+4 nicht erbracht wird, verringert sich der anzulegende Wert um 2,5
+Cent pro Kilowattstunde. Die Rechtsfolge nach Satz 1 entfällt für die
+Zukunft, wenn im darauffolgenden Jahr der erforderliche Nachweis für
+das jeweils zurückliegende Jahr erbracht wird. Die Rechtsfolge nach
+Satz 1 entfällt außerdem für die Zeiträume, für die der erforderliche
+Nachweis nachträglich erbracht wird. Die Sätze 1 bis 3 sind
+entsprechend anzuwenden, wenn für besondere Solaranlagen nach § 48
+Absatz 1 Satz 1 Nummer 5 Buchstabe b und c der Nachweis über die
+gleichzeitige landwirtschaftliche Nutzung gemäß den Festlegungen der
+Bundesnetzagentur nach § 85c Absatz 1 Satz 4 nicht erbracht wird.
 
 
 #### § 53a (weggefallen)
@@ -5838,6 +7047,27 @@ bezuschlagten Geboten zugeordnet, verringert sich jeweils der
 Zuschlagswert der bezuschlagten Gebote, bei denen keine
 Übereinstimmung nach Satz 1 besteht, um 0,3 Cent pro Kilowattstunde.
 
+(3) Wenn für besondere Solaranlagen nach § 37 Absatz 1 Nummer 3
+Buchstabe a der Nachweis über den gleichzeitigen Nutzpflanzenanbau
+gemäß den Festlegungen der Bundesnetzagentur nach § 85c Absatz 1 Satz
+4 nicht erbracht wird, verringert sich der anzulegende Wert um 2,5
+Cent pro Kilowattstunde. Die Rechtsfolge nach Satz 1 entfällt für die
+Zukunft, wenn im darauffolgenden Jahr der erforderliche Nachweis für
+das jeweils zurückliegende Jahr erbracht wird. Die Rechtsfolge nach
+Satz 1 entfällt außerdem für die Zeiträume, für die der erforderliche
+Nachweis nachträglich erbracht wird. Die Sätze 1 bis 3 sind
+entsprechend anzuwenden, wenn für besondere Solaranlagen nach § 37
+Absatz 1 Nummer 3 Buchstabe b und c der Nachweis über die
+gleichzeitige landwirtschaftliche Nutzung gemäß den Festlegungen der
+Bundesnetzagentur nach § 85c Absatz 1 Satz 4 nicht erbracht wird.
+
+(4) Soweit Solaranlagen nach § 37 Absatz 1 Nummer 2 Buchstabe h und i,
+deren Berücksichtigung im Zuschlagsverfahren nach § 37c Absatz 1 von
+der Einhaltung einer Verordnung abhängt, die die jeweilige
+Landesregierung nach § 37c Absatz 2 erlassen hat, die Vorgaben dieser
+Verordnung nicht erfüllen, verringert sich der anzulegende Wert auf
+null.
+
 
 #### § 54a (weggefallen)
 
@@ -5857,8 +7087,11 @@ Zusatzgebote nach § 36j müssen Bieter an den regelverantwortlichen
 
 
 
-Die Höhe der Pönale nach Satz 1 Nummer 1 und 2 berechnet sich aus der
-Gebotsmenge des bezuschlagten Gebots
+Wenn und soweit ein Zuschlag nach § 35a entwertet wird, berechnet sich
+die Höhe der Pönale nach Satz 1 Nummer 1 aus der entwerteten
+Gebotsmenge multipliziert mit 30 Euro pro Kilowatt. Die Höhe der
+Pönale nach Satz 1 Nummer 2 berechnet sich aus der Gebotsmenge des
+bezuschlagten Gebots
 
 1.  abzüglich der innerhalb von 30 Monaten nach der öffentlichen
     Bekanntgabe des Zuschlags in Betrieb genommenen Anlagenleistung
@@ -5889,8 +7122,7 @@ pro Kilowatt.
 (3) (weggefallen)
 
 (4) Bei Geboten für Biomasseanlagen, die keine bestehenden
-Biomasseanlagen nach § 39g sind, sowie für Biomethananlagen nach Teil
-3 Abschnitt 3 Unterabschnitt 6 müssen Bieter an den verantwortlichen
+Biomasseanlagen nach § 39g sind, müssen Bieter an den verantwortlichen
 Übertragungsnetzbetreiber eine Pönale leisten,
 
 1.  soweit mehr als 5 Prozent der Gebotsmenge eines bezuschlagten Gebots
@@ -5902,7 +7134,10 @@ Biomasseanlagen nach § 39g sind, sowie für Biomethananlagen nach Teil
 
 
 
-Die Höhe der Pönale berechnet sich aus der Gebotsmenge des
+Wenn und soweit ein Zuschlag nach § 35a entwertet wird, berechnet sich
+die Höhe der Pönale nach Satz 1 Nummer 1 aus der entwerteten
+Gebotsmenge multipliziert mit 60 Euro pro Kilowatt. Die Höhe der
+Pönale nach Satz 1 Nummer 2 berechnet sich aus der Gebotsmenge des
 bezuschlagten Gebots
 
 1.  abzüglich der innerhalb von 24 Monaten nach der öffentlichen
@@ -5916,6 +7151,42 @@ bezuschlagten Gebots
 
 
 3.  abzüglich der innerhalb von 32 Monaten nach der öffentlichen
+    Bekanntgabe des Zuschlags in Betrieb genommenen Anlagenleistung
+    multipliziert mit 60 Euro pro Kilowatt.
+
+
+
+
+(4a) Bei Geboten für Biomethananlagen nach Teil 3 Abschnitt 3
+Unterabschnitt 6 müssen Bieter an den verantwortlichen
+Übertragungsnetzbetreiber eine Pönale leisten,
+
+1.  soweit mehr als 5 Prozent der Gebotsmenge eines bezuschlagten Gebots
+    für eine Biomasseanlage nach § 35a entwertet werden oder
+
+
+2.  wenn eine Biomasseanlage mehr als 30 Monate nach der öffentlichen
+    Bekanntgabe des Zuschlags in Betrieb genommen worden ist.
+
+
+
+Wenn und soweit ein Zuschlag nach § 35a entwertet wird, berechnet sich
+die Höhe der Pönale nach Satz 1 Nummer 1 aus der entwerteten
+Gebotsmenge multipliziert mit 60 Euro pro Kilowatt. Die Höhe der
+Pönale nach Satz 1 Nummer 2 berechnet sich aus der Gebotsmenge des
+bezuschlagten Gebots
+
+1.  abzüglich der innerhalb von 30 Monaten nach der öffentlichen
+    Bekanntgabe des Zuschlags in Betrieb genommenen Anlagenleistung
+    multipliziert mit 20 Euro pro Kilowatt,
+
+
+2.  abzüglich der innerhalb von 34 Monaten nach der öffentlichen
+    Bekanntgabe des Zuschlags in Betrieb genommenen Anlagenleistung
+    multipliziert mit 40 Euro pro Kilowatt oder
+
+
+3.  abzüglich der innerhalb von 38 Monaten nach der öffentlichen
     Bekanntgabe des Zuschlags in Betrieb genommenen Anlagenleistung
     multipliziert mit 60 Euro pro Kilowatt.
 
@@ -5967,7 +7238,7 @@ bezuschlagten Gebots
 
 (5a) Im Fall einer Zuschlagsverlängerung nach § 36e Absatz 2 oder
 Absatz 3 oder nach § 39e Absatz 2 verlängern sich die Fristen der
-Absätze 1, 4 und 5 um die Dauer der Zuschlagsverlängerung.
+Absätze 1, 4, 4a und 5 um die Dauer der Zuschlagsverlängerung.
 
 (6) Die Forderung nach den Absätzen 1 bis 5 muss durch Überweisung
 eines entsprechenden Geldbetrags auf ein Geldkonto des
@@ -6075,8 +7346,9 @@ Netzbetreiber müssen unverzüglich an den vorgelagerten
 1.  den nach § 19 Absatz 1 Nummer 2 vergüteten Strom und
 
 
-2.  für den gesamten Strom, für den sie Zahlungen an die Anlagenbetreiber
-    leisten, das Recht, diesen Strom als „Strom aus erneuerbaren Energien,
+2.  für den nach § 19 Absatz 1 Nummer 2 vergüteten Strom sowie für den
+    gesamten Strom, für den sie Zahlungen an die Anlagenbetreiber leisten,
+    das Recht, diesen Strom als „Strom aus erneuerbaren Energien,
     gefördert nach dem EEG“ zu kennzeichnen.
 
 
@@ -6147,9 +7419,9 @@ Energiewirtschaftsgesetzes bleiben unberührt.
 
 Anlagenbetreiber, Betreiber von Stromerzeugungsanlagen und
 Netzbetreiber müssen einander die für den bundesweiten Ausgleich nach
-den §§ 56 bis 62 jeweils erforderlichen Daten, insbesondere die in den
-§§ 71 bis 74a genannten Daten, unverzüglich zur Verfügung stellen. §
-62 ist entsprechend anzuwenden.
+§ 11 Absatz 1 Satz 2 und den §§ 56 bis 62 jeweils erforderlichen
+Daten, insbesondere die in den §§ 71 bis 74a genannten Daten,
+unverzüglich zur Verfügung stellen. § 62 ist entsprechend anzuwenden.
 
 
 #### § 71 Anlagenbetreiber
@@ -6157,8 +7429,10 @@ den §§ 56 bis 62 jeweils erforderlichen Daten, insbesondere die in den
 (1) Anlagenbetreiber müssen dem Netzbetreiber
 
 1.  bis zum 28. Februar eines Jahres alle für die Endabrechnung des
-    jeweils vorangegangenen Kalenderjahres erforderlichen Daten
-    anlagenscharf zur Verfügung stellen,
+    jeweils vorangegangenen Kalenderjahres erforderlichen Daten,
+    einschließlich der im Fall einer kaufmännischen Abnahme nach § 11
+    Absatz 1 Satz 2 erforderlichen Daten, anlagenscharf zur Verfügung
+    stellen,
 
 
 2.  mitteilen, wenn und in welchem Umfang im vorangegangenen Kalenderjahr
@@ -6707,7 +7981,8 @@ Kreditinstitut, an dem der Bund oder das Land beteiligt sind, dürfen
 neben einer Zahlung nach diesem Gesetz nur gewährt werden, soweit die
 kumulierten Zahlungen zuzüglich der Erlöse aus der Veräußerung der in
 der Anlage erzeugten Energie die Erzeugungskosten dieser Energie nicht
-überschreiten.
+überschreiten. Die Inanspruchnahme der unentgeltlichen Abnahme steht
+einer Zahlung im Sinne des Satzes 1 nicht gleich.
 
 
 ## Teil 6 - Rechtsschutz und behördliches Verfahren
@@ -6951,7 +8226,7 @@ treffen
     zu den Datenformaten,
 
 
-2.  (weggefallen)
+2.  zur Nachweisführung nach § 10b Absatz 5,
 
 
 3.  zur Abwicklung von Zuordnungen und Wechseln nach den §§ 21b und 21c,
@@ -6962,7 +8237,8 @@ treffen
     die Ernsthaftigkeit und Verbindlichkeit der Gebote zu gewährleisten,
 
 
-5.  (weggefallen)
+5.  zur standardisierten und massengeschäftstauglichen Abwicklung der
+    Direktvermarktung,
 
 
 6.  zu Nachweisen, die der Bieter erbringen muss, um zu belegen, dass die
@@ -6970,6 +8246,12 @@ treffen
     Buchstabe h geplant und nach § 38a Absatz 1 Nummer 3 errichtet worden
     ist, tatsächlich zum Zeitpunkt des Beschlusses über die Aufstellung
     oder Änderung des Bebauungsplans als Ackerland genutzt worden ist,
+
+
+6a. zu den Nachweisen zur Erfüllung der Anforderung nach § 37 Absatz 1a
+    und § 48 Absatz 6, wobei sie hinsichtlich der Art der geeigneten
+    Nachweise und der Häufigkeit der Nachweisführung von § 38a Absatz 3
+    Satz 4 und § 48 Absatz 6 abweichende Vorgaben bestimmen kann,
 
 
 7.  zusätzlich zu den Ausschlussgründen nach § 33 Absatz 2 einen
@@ -6997,10 +8279,16 @@ treffen
     Kilowatt der Gebotsmenge zu erhöhen,
 
 
-12. (weggefallen)
+12. zur Anwendbarkeit von § 51 Absatz 1 auf Anlagen mit einer
+    installierten Leistung von weniger als 2 Kilowatt, wenn die technische
+    Ausstattung dieser Anlagen und die Abrechnungsprozesse der
+    Netzbetreiber hinreichend massengeschäftstauglich und digitalisiert
+    sind, um eine Anwendbarkeit des § 51 Absatz 1 bei diesen Anlagen mit
+    angemessenem Aufwand abzubilden,
 
 
-13. (weggefallen)
+13. um abweichend von § 51a Absatz 2 Satz 1 den Faktor zur Ermittlung der
+    Volllastviertelstunden anzupassen,
 
 
 14. zur Berücksichtigung von Strom aus solarer Strahlungsenergie, der
@@ -7020,7 +8308,16 @@ treffen
     20 03 02 der Nummer 1 Buchstabe a des Anhangs 1 der
     Bioabfallverordnung gewonnen worden ist, für den aus diesen
     Bioabfällen erzeugten Strom, einschließlich der entsprechenden
-    Nachweisanforderungen.
+    Nachweisanforderungen und
+
+
+16. abweichend von einer Rechtsverordnung nach § 91 Nummer 1 Buchstabe c
+    zur Preissetzung von preislimitierten Geboten, soweit sich
+    Anhaltspunkte dafür ergeben haben, dass die Preissetzung anderer
+    Marktteilnehmer zu deutlich niedrigeren oder höheren Preisen
+    abgeschlossen wird als zu der in einer Rechtsverordnung nach § 91
+    Nummer 1 Buchstabe c geregelten Preissetzung durch den
+    Übertragungsnetzbetreiber.
 
 
 
@@ -7037,7 +8334,7 @@ keine Unternehmen sind, entsprechend.
 ### § 85a Festlegung zu den Höchstwerten bei Ausschreibungen
 
 (1) Die Bundesnetzagentur kann durch Festlegung nach § 29 des
-Energiewirtschaftsgesetzes den Höchstwert nach § 36b, § 37b oder §
+Energiewirtschaftsgesetzes die Höchstwerte nach § 36b, § 37b oder §
 38e, § 39b, § 39l dieses Gesetzes oder § 10 der
 Innovationsausschreibungsverordnung für die Ausschreibungen mit einem
 Gebotstermin in den jeweils darauffolgenden zwölf Kalendermonaten neu
@@ -7045,11 +8342,8 @@ bestimmen, wenn sich bei den letzten drei vor Einleitung des
 Festlegungsverfahrens durchgeführten Ausschreibungen gemeinsam oder
 jeweils für sich betrachtet Anhaltspunkte dafür ergeben haben, dass
 der Höchstwert unter Berücksichtigung des § 1 zu hoch oder zu niedrig
-ist. Dabei darf der neue Höchstwert nach den §§ 36b, 37b und 38e
-dieses Gesetzes und nach § 10 der Innovationsausschreibungsverordnung
-um nicht mehr als 25 Prozent und der Höchstwert nach allen anderen
-Bestimmungen um nicht mehr als 10 Prozent von dem zum Zeitpunkt der
-Neufestlegung geltenden Höchstwert abweichen.
+ist. Dabei darf der neue Höchstwert um nicht mehr als 15 Prozent von
+dem zum Zeitpunkt der Neufestlegung geltenden Höchstwert abweichen.
 
 (2) Ein Höchstwert soll nach Absatz 1 gesenkt werden, wenn die
 durchschnittlichen Erzeugungskosten deutlich unter dem Höchstwert
@@ -7132,14 +8426,24 @@ diesem Gesetz auswirken können, übermitteln.
 
 (1) Die Bundesnetzagentur bestimmt durch Festlegung nach § 29 des
 Energiewirtschaftsgesetzes die Anforderungen, die an die besonderen
-Solaranlagen nach § 37 Absatz 1 Nummer 3 und § 48 Absatz 1 Satz 1
-Nummer 5 zu stellen sind. Eine Festlegung nach Satz 1 kann zum 1.
-Oktober eines Jahres mit Wirkung zum 1. Januar des folgenden
-Kalenderjahres erlassen werden. Bei der Festlegung der Anforderungen
-für besondere Solaranlagen nach § 37 Absatz 1 Nummer 3 Buchstabe e und
-§ 48 Absatz 1 Satz 1 Nummer 5 Buchstabe e kann die zusätzliche
-landwirtschaftliche Nutzung der Flächen (Paludikultur) geregelt
-werden.
+Solaranlagen nach § 37 Absatz 1 Nummer 3 Buchstabe a bis e und § 48
+Absatz 1 Satz 1 Nummer 5 Buchstabe a bis e zu stellen sind. Eine
+Festlegung nach Satz 1 kann zum 1. Oktober eines Jahres mit Wirkung
+zum 1. Januar des folgenden Kalenderjahres erlassen werden. Bei der
+Festlegung der Anforderungen für besondere Solaranlagen nach § 37
+Absatz 1 Nummer 3 Buchstabe e und § 48 Absatz 1 Satz 1 Nummer 5
+Buchstabe e kann die zusätzliche landwirtschaftliche Nutzung der
+Flächen (Paludikultur) geregelt werden. Die Bundesnetzagentur trifft
+zudem Festlegungen nach § 29 des Energiewirtschaftsgesetzes zu den
+Anforderungen für den fortlaufenden Nachweis des gleichzeitigen
+landwirtschaftlichen Nutzpflanzenanbaus nach § 37 Absatz 1 Nummer 3
+Buchstabe a und § 48 Absatz 1 Satz 1 Nummer 5 Buchstabe a sowie für
+den fortlaufenden Nachweis der gleichzeitigen landwirtschaftlichen
+Nutzung nach § 37 Absatz 1 Nummer 3 Buchstabe b, c und, soweit hierzu
+eine Regelung nach Satz 3 getroffen wurde, nach § 37 Absatz 1 Nummer 3
+Buchstabe e sowie nach § 48 Absatz 1 Satz 1 Nummer 5 Buchstabe b, c
+und, soweit hierzu eine Regelung nach Satz 3 getroffen wurde, nach §
+37 Absatz 1 Nummer 3 Buchstabe e.
 
 (2) Für besondere Solaranlagen nach § 37 Absatz 1 Nummer 3 Buchstabe
 a, b und d und § 48 Absatz 1 Satz 1 Nummer 5 Buchstabe a, b und d ist
@@ -7153,6 +8457,35 @@ Solaranlagen ergeht.
 und e und § 48 Absatz 1 Satz 1 Nummer 5 Buchstabe c und e legt die
 Bundesnetzagentur zum 1. Juli 2023 erstmalig die Anforderungen mit
 sofortiger Wirkung fest.
+
+
+### § 85d Festlegung zu flexibler Speichernutzung
+
+Die Bundesnetzagentur kann unter Beachtung der Schutzprofile und
+Technischen Richtlinien des Bundesamtes für Sicherheit in der
+Informationstechnik nach dem Messstellenbetriebsgesetz und im Benehmen
+mit dem Bundesamt für Sicherheit in der Informationstechnik und der
+Physikalisch-Technischen Bundesanstalt Festlegungen nach § 29 Absatz 1
+des Energiewirtschaftsgesetzes treffen
+
+1.  zu den näheren Anforderungen an die Bestimmung und den Nachweis der
+    Strommengen, auf die sich die Ansprüche nach § 19 Absatz 3b und 3c
+    beziehen, einschließlich einer sicheren, automatisierten und
+    massengeschäftstauglichen Erhebung, Ermittlung, Zuordnung, Abgrenzung,
+    Verarbeitung und Übermittlung der erforderlichen Werte, wobei
+    hinsichtlich erforderlicher Messwerte die geltenden mess- und
+    eichrechtlichen Anforderungen zu beachten sind, und
+
+
+2.  zu den näheren Bedingungen für ein erstmaliges Geltendmachen oder
+    einen Wechsel in die Optionen nach § 19 Absatz 3b und 3c,
+    einschließlich der Bestimmung der maßgeblichen Strommenge für den
+    Anspruch nach § 19 Absatz 3c bei einer unterjährigen Inanspruchnahme.
+
+
+
+Festlegungen nach Satz 1 trifft die Bundesnetzagentur erstmals bis zum
+Ablauf des 30. Juni 2026.
 
 
 ### § 86 Bußgeldvorschriften
@@ -8448,7 +9781,8 @@ Rechtsverordnung ohne Zustimmung des Bundesrates
     Buchstabe c zu regeln,
 
 
-3.  festzulegen, wie Anlagenbetreiber die Einhaltung der Anforderungen
+3.  festzulegen, wie Wirtschaftsteilnehmer nach Artikel 2 Nummer 11 der
+    Durchführungsverordnung (EU) 2022/996 die Einhaltung der Anforderungen
     nach den Nummern 1 und 2 nachweisen müssen; dies schließt Regelungen
     ein
 
@@ -8462,14 +9796,16 @@ Rechtsverordnung ohne Zustimmung des Bundesrates
         Nachweisführung und
 
 
-    c)  zu den Anforderungen an die Anerkennung von Systemen und unabhängigen
-        Kontrollstellen sowie zu den Maßnahmen zu ihrer Überwachung
-        einschließlich erforderlicher Auskunfts-, Einsichts-, Probenentnahme-
-        und Weisungsrechte sowie des Rechts der zuständigen Behörde oder
-        unabhängiger Kontrollstellen, während der Geschäfts- oder Betriebszeit
-        Grundstücke, Geschäfts-, Betriebs- und Lagerräume sowie
-        Transportmittel zu betreten, soweit dies für die Überwachung oder
-        Kontrolle erforderlich ist,
+    c)  zu den Anforderungen an die Anerkennung von Systemen und
+        Zertifizierungsstellen sowie zum Akkreditierungsverfahren und zu den
+        Maßnahmen zu der Überwachung von Systemen, Zertifizierungsstellen und
+        Wirtschaftsteilnehmern, einschließlich erforderlicher Einsichts-,
+        Probenentnahme- und Weisungsrechte sowie Auskunfts-, Herausgabe-,
+        Duldungs- und Mitwirkungspflichten, einschließlich des Rechts der
+        zuständigen Behörde oder Zertifizierungsstellen, während der
+        Geschäfts- oder Betriebszeit, Grundstücke, Geschäfts-, Betriebs- und
+        Lagerräume sowie Transportmittel zu betreten, soweit dies für die
+        Überwachung oder Kontrolle erforderlich ist,
 
 
 
@@ -8479,8 +9815,14 @@ Rechtsverordnung ohne Zustimmung des Bundesrates
     betrauen, die die Einhaltung der in der Rechtsverordnung nach den
     Nummern 1 bis 3 geregelten Anforderungen sicherstellen, insbesondere
     mit der näheren Bestimmung der in der Rechtsverordnung auf Grund der
-    Nummern 1 und 2 geregelten Anforderungen sowie mit der Wahrnehmung von
-    Aufgaben nach Nummer 3.
+    Nummern 1 und 2 geregelten Anforderungen sowie die Bundesanstalt für
+    Landwirtschaft und Ernährung und in Bezug auf das
+    Akkreditierungsverfahren die Stellen, die nach § 8 des
+    Akkreditierungsstellengesetz vom 31. Juli 2009 (BGBl. I S. 2625), das
+    zuletzt durch Artikel 47 des Gesetzes vom 23. Oktober 2024 (BGBl. 2024
+    I Nr. 323) geändert worden ist, in der jeweils geltenden Fassung,
+    beliehen oder errichtet sind, mit der Wahrnehmung von Aufgaben nach
+    Nummer 3.
 
 
 
@@ -8503,19 +9845,20 @@ Zustimmung des Bundesrates zu regeln,
     b)  der Überwachung der Vermarktung,
 
 
-    c)  Anforderungen an die Vermarktung und Kontoführung sowie an die
-        Ermittlung des Werts des Abzugs für Strom aus ausgeförderten Anlagen
-        nach § 53 Absatz 2 einschließlich von Veröffentlichungs- und
-        Transparenzpflichten, Fristen und Übergangsregelungen für den
-        Ausgleich des EEG-Finanzierungsbedarfs nach den Teilen 3 und 4
-        Abschnitt 1 des Energiefinanzierungsgesetzes und
+    c)  Anforderungen an die Vermarktung, insbesondere an die Preissetzung von
+        preislimitierten Geboten, und Kontoführung sowie an die Ermittlung des
+        Werts des Abzugs für Strom aus ausgeförderten Anlagen nach § 53 Absatz
+        4 einschließlich von Veröffentlichungs- und Transparenzpflichten,
+        Fristen und Übergangsregelungen für den Ausgleich des EEG-
+        Finanzierungsbedarfs nach den Teilen 3 und 4 Abschnitt 1 des
+        Energiefinanzierungsgesetzes und
 
 
 
 
 
 2.  dass und unter welchen Voraussetzungen die Übertragungsnetzbetreiber
-    berechtigt werden können,
+    berechtigt oder verpflichtet werden können,
 
     a)  mit Anlagenbetreibern vertragliche Vereinbarungen zu treffen, die
         unter angemessener Berücksichtigung des Einspeisevorrangs der
@@ -8526,8 +9869,10 @@ Zustimmung des Bundesrates zu regeln,
         volkswirtschaftlich angemessen sind,
 
 
-    b)  Anlagen, die nach dem 31. Dezember 2015 in Betrieb genommen werden,
-        bei andauernden negativen Preisen abzuregeln.
+    b)  Anlagen bei negativen Preisen abzuregeln und den Anlagenbetreibern die
+        durch die Abregelung entgangenen Einnahmen, insbesondere einen
+        entgangenen Anspruch nach § 19 Absatz 1 Nummer 2, finanziell
+        auszugleichen.
 
 
 
@@ -8684,7 +10029,49 @@ Verordnung nach § 37d Absatz 2 Satz 1 Nummer 13 des Bundes-
 Immissionsschutzgesetzes zu bestimmen.
 
 
-#### § 94 (weggefallen)
+#### § 94 Verordnungsermächtigung zu systemdienlichem Anlagenbetrieb
+
+Das Bundesministerium für Wirtschaft und Klimaschutz wird ermächtigt,
+zur Sicherstellung eines netz- und systemdienlichen Betriebs von
+Anlagen, soweit sie der Einspeisevergütung zugeordnet sind, durch
+Rechtsverordnung ohne Zustimmung des Bundesrates zu regeln,
+
+1.  dass Übertragungsnetzbetreiber aufgrund von Gefahren für die
+    Sicherheit oder Zuverlässigkeit des Elektrizitätsversorgungssystems
+    die Einspeisung von Strom in ein Netz für bestimmte Zeiträume auf
+    einen Anteil der Wirkleistungseinspeisung zwischen 0 und 100 Prozent
+    begrenzen können,
+
+
+2.  welche weiteren Berechtigten aufgrund einer Begrenzung nach Nummer 1
+    die Ist-Einspeisung von Anlagen abrufen und die Einspeiseleistung
+    ferngesteuert regeln können,
+
+
+3.  in welchen Verfahren, Fristen und Datenformaten
+    Übertragungsnetzbetreiber Begrenzungen nach Nummer 1 gegenüber
+    betroffenen Marktakteuren kommunizieren,
+
+
+4.  welche Rechtsfolgen Anlagenbetreiber bei Zuwiderhandlung gegen eine
+    Begrenzung nach Nummer 1 treffen, und dabei insbesondere zu bestimmen,
+    dass der Anlagenbetreiber Zahlungen entsprechend § 52 Absatz 1 zu
+    leisten hat oder dass der Netzbetreiber Maßnahmen entsprechend § 52a
+    vorzunehmen hat,
+
+
+5.  dass die Verlängerung des Förderzeitraums abweichend von § 51a Absatz
+    1 und 2 auf solche Viertelstunden beschränkt wird, in denen kein
+    Strom, für den ein Anspruch nach § 19 Absatz 1 besteht, aus der Anlage
+    in das Netz eingespeist wurde, und
+
+
+6.  in welcher Form und zu welchen Zeitpunkten Zeiträume nach Nummer 1 und
+    Zeiten, in denen der Spotmarktpreis negativ ist, öffentlich
+    bekanntgemacht werden müssen.
+
+
+
 
 
 #### § 95 Weitere Verordnungsermächtigungen
@@ -8712,12 +10099,10 @@ ohne Zustimmung des Bundesrates
 
 
 
-2.  im Anwendungsbereich des § 9 zu regeln, ab welchem Schwellenwert die
-    Pflichten des § 9 Absatz 1 oder 1a auch für Anlagen und KWK-Anlagen
-    mit einer installierten Leistung von weniger als 25 Kilowatt gelten
-    und, soweit erforderlich, dafür kostenschützende Regelungen angelehnt
-    an die Preisobergrenzen in § 30 des Messstellenbetriebsgesetzes
-    vorzusehen,
+2.  (weggefallen)
+
+
+2a. (weggefallen)
 
 
 3.  festzulegen, wann ein Gebäude nach § 48 Absatz 1 Satz 1 Nummer 1a
@@ -8802,8 +10187,7 @@ ohne Zustimmung des Bundesrates
 #### § 96 Gemeinsame Bestimmungen
 
 (1) Die Rechtsverordnungen auf Grund der §§ 88, 88b, 88c, 88d, 88e,
-88f, 89, 91, 92, 93 und 95 Nummer 2 bedürfen der Zustimmung des
-Bundestages.
+88f, 89, 91, 92 und 93 bedürfen der Zustimmung des Bundestages.
 
 (2) Wenn Rechtsverordnungen nach Absatz 1 der Zustimmung des
 Bundestages bedürfen, kann diese Zustimmung davon abhängig gemacht
@@ -8839,8 +10223,7 @@ Kooperationsausschuss koordiniert die Erfassung
 2.  der Flächenausweisung in den Ländern für das Erreichen der
     Flächenbeitragswerte nach der Anlage zum
     Windenergieflächenbedarfsgesetz vom 20. Juli 2022 (BGBl. I S. 1353),
-    das zuletzt durch Artikel 3 des Gesetzes vom 3. Juli 2023 (BGBl. 2023
-    I Nr. 176) geändert worden ist, und
+    in der jeweils geltenden Fassung, und
 
 
 3.  des Stands der Umsetzung der Ziele nach Nummer 1 und der
@@ -9004,7 +10387,7 @@ leitet den Bericht den Regierungschefinnen und Regierungschefs der
 Länder und dem Bundestag zu und legt, soweit erforderlich,
 unverzüglich den Entwurf für eine Rechtsverordnung nach § 88c vor.
 
-(5) Ab dem 1. Januar 2024 umfasst der Bericht nach Absatz 3 zusätzlich
+(4) Ab dem 1. Januar 2024 umfasst der Bericht nach Absatz 3 zusätzlich
 eine Bewertung zum Stand der Umsetzung des
 Windenergieflächenbedarfsgesetzes und enthält insbesondere Angaben
 über
@@ -9035,7 +10418,7 @@ Windenergieflächenbedarfsgesetzes und enthält insbesondere Angaben
 
 
 
-(6) Die Berichterstattung nach den Absätzen 3 und 4 erfolgt mit der
+(5) Die Berichterstattung nach den Absätzen 3 und 4 erfolgt mit der
 Unterstützung des Umweltbundesamtes und auf der Grundlage der nach §
 97 Absatz 5 beschafften und der nach § 98 Absatz 1 zu übermittelnden
 Daten. Die Berichterstattung nach Satz 1 darf keine personenbezogenen
@@ -9168,6 +10551,36 @@ Dezember 2022 geltenden Fassung anzuwenden
 
 
 
+(1a) Für Strom aus Anlagen nach Absatz 1 gilt abweichend von Absatz 1,
+dass
+
+1.  § 10b Absatz 1 dieses Gesetzes anstelle von § 10b Absatz 1 des
+    Erneuerbare-Energien-Gesetzes in der am 31. Dezember 2022 geltenden
+    Fassung anzuwenden ist,
+
+
+2.  der Anspruch auf unentgeltliche Abnahme und die Regelung zur Zuordnung
+    nach § 21c Absatz 1 Satz 3 dieses Gesetzes entsprechend anzuwenden
+    sind, dabei sind im Fall einer Zuordnung zur unentgeltlichen Abnahme §
+    21b Absatz 1 Satz 4 und Absatz 2 Satz 2, § 21c Absatz 1 Satz 5, § 53
+    Absatz 2 und § 80a Satz 2 dieses Gesetzes auf diese Anlagen ebenfalls
+    entsprechend anzuwenden,
+
+
+3.  für Anlagen, die nach dem Ablauf des 29. Juli 2022 in Betrieb genommen
+    wurden, an Stelle von § 100 Absatz 14 Satz 3 Nummer 3 des Erneuerbare-
+    Energien-Gesetzes in der am 31. Dezember 2022 geltenden Fassung § 48
+    Absatz 2a Satz 2 Nummer 2 und Satz 3 dieses Gesetzes anzuwenden ist,
+
+
+4.  für Anlagen zur Erzeugung von Strom aus Biogas § 9 Absatz 5 dieses
+    Gesetzes anwendbar ist, unabhängig vom Zeitpunkt der Inbetriebnahme
+    der Anlage und unabhängig vom Zeitpunkt der Zuschlagserteilung für
+    diese Anlage.
+
+
+
+
 (2) Für Anlagen nach Absatz 1, die nach dem 31. Dezember 2020 in
 Betrieb genommen worden sind, deren anzulegender Wert in einem
 Zuschlagsverfahren eines Gebotstermins nach dem 31. Dezember 2020
@@ -9186,101 +10599,106 @@ Gebotstermins vor dem 1. Januar 2021 ermittelt worden ist oder die vor
 dem 1. Januar 2021 als Pilotwindenergieanlage an Land im Sinn des § 3
 Nummer 37 Buchstabe b durch das Bundesministerium für Wirtschaft und
 Klimaschutz festgestellt worden sind, ist § 6 dieses Gesetzes
-anzuwenden.
+anzuwenden. Auf Vereinbarungen, die vor dem 16. Mai 2024 geschlossen
+wurden, ist § 6 Absatz 4 Satz 1 in der am 15. Mai 2024 geltenden
+Fassung anzuwenden.
 
-(3) Sobald
+(3) § 9 Absatz 1 ist anstelle der technischen Vorgaben nach der für
+eine Anlage oder eine KWK-Anlage maßgeblichen Fassung des Erneuerbare-
+Energien-Gesetzes entsprechend anzuwenden bei
 
-1.  eine Anlage nach Absatz 1, die eine installierte Leistung von mehr als
-    25 Kilowatt hat oder die nach der für sie maßgeblichen Fassung des
-    Erneuerbare-Energien-Gesetzes mit einer technischen Einrichtung
-    ausgestattet werden muss, mit der der Netzbetreiber jederzeit die
-    Einspeiseleistung bei Netzüberlastung ferngesteuert reduzieren kann,
-
-
-2.  eine KWK-Anlage, die vor dem 1. Januar 2023 in Betrieb genommen worden
-    ist und eine installierte Leistung von mehr als 25 Kilowatt hat, oder
+1.  Anlagen nach Absatz 1, die Strom in das Netz einspeisen, und
 
 
-3.  eine Anlage nach Absatz 1, die hinter einem steuerbaren Netzanschluss
-    nach § 14a des Energiewirtschaftsgesetzes betrieben wird,
+2.  KWK-Anlagen, die vor dem 1. Januar 2023 in Betrieb genommen worden
+    sind und eine installierte Leistung von mehr als 25 Kilowatt haben.
 
 
 
-nach dem Messstellenbetriebsgesetz mit einem intelligenten Messsystem
-ausgestattet wird, ist § 9 Absatz 1 und 1b dieses Gesetzes anstelle
-der technischen Vorgaben nach der für die Anlage oder die KWK-Anlage
-maßgeblichen Fassung des Erneuerbare-Energien-Gesetzes entsprechend
-anzuwenden. In den Fällen des Satzes 1 Nummer 1 und 2 gilt bis zum
-Einbau des intelligenten Messsystems nach dem
-Messstellenbetriebsgesetz die Pflicht nach der maßgeblichen Fassung
-des Erneuerbare-Energien-Gesetzes, die Anlage oder die KWK-Anlage mit
-technischen Einrichtungen auszustatten, mit denen der Netzbetreiber
-jederzeit die Einspeiseleistung bei Netzüberlastung ferngesteuert
-reduzieren kann, auch als erfüllt, wenn die technischen Einrichtungen
-nur dazu geeignet sind,
+Bis zum Einbau von intelligenten Messsystemen und
+Steuerungseinrichtungen nach § 29 Absatz 1 Nummer 2 des
+Messstellenbetriebsgesetzes und zur erstmaligen erfolgreichen Testung
+der Anlage auf Ansteuerbarkeit durch den Netzbetreiber gilt die
+Pflicht nach der für die Anlage maßgeblichen Fassung des Erneuerbare-
+Energien-Gesetzes, die Anlage oder die KWK-Anlage mit technischen
+Einrichtungen auszustatten, mit denen der Netzbetreiber jederzeit die
+Einspeiseleistung bei Netzüberlastung ferngesteuert reduzieren kann,
+auch als erfüllt, wenn
 
-1.  die Einspeiseleistung bei Netzüberlastung stufenweise ferngesteuert zu
+1.  die technischen Einrichtungen nur dazu geeignet sind, die
+    Einspeiseleistung bei Netzüberlastung vollständig oder, sobald die
+    technische Möglichkeit besteht, stufenweise ferngesteuert zu
     reduzieren,
 
 
-2.  die Anlage oder die KWK-Anlage vollständig ferngesteuert abzuschalten
-    oder
+2.  der Anlagenbetreiber nach § 9 Absatz 2 Satz 1 Nummer 3 in der am 31.
+    Dezember 2022 geltenden Fassung oder nach einer entsprechenden
+    Bestimmung einer früheren Fassung die maximale
+    Wirkleistungseinspeisung seiner Anlage am Verknüpfungspunkt mit dem
+    Netz auf 70 Prozent der installierten Leistung begrenzt oder
 
 
-3.  die Anforderungen zu erfüllen, die der Netzbetreiber dem
-    Anlagenbetreiber oder dem Betreiber der KWK-Anlage zur Erfüllung der
-    Pflicht vor der Inbetriebnahme der Anlage übermittelt hat.
-
-
-
-Satz 2 ist rückwirkend anzuwenden. Abweichend von Satz 3 sind die
-Bestimmungen in Satz 2 nicht anzuwenden auf Fälle, in denen vor dem 1.
-Januar 2021 ein Rechtsstreit zwischen Anlagenbetreiber und
-Netzbetreiber rechtskräftig entschieden wurde.
-
-(3a) Für Betreiber von Solaranlagen mit einer installierten Leistung
-von höchstens 7 Kilowatt entfällt ab dem 1. Januar 2023 die Pflicht
-nach § 9 Absatz 2 Satz 1 Nummer 3 des Erneuerbare-Energien-Gesetzes in
-der am 31. Dezember 2022 geltenden Fassung oder nach einer
-entsprechenden Bestimmung einer früheren Fassung des Erneuerbare-
-Energien-Gesetzes, nach der die Anlagen mit technischen Einrichtungen
-ausgestattet werden mussten, mit denen der Netzbetreiber jederzeit die
-Einspeiseleistung bei Netzüberlastung ferngesteuert reduzieren kann,
-oder die Betreiber am Verknüpfungspunkt ihrer Anlage mit dem Netz die
-maximale Wirkleistungseinspeisung auf 70 Prozent der installierten
-Leistung begrenzen mussten. Im Übrigen bleibt Absatz 3 unberührt.
-Sofern Betreiber von Anlagen nach dem Entfallen der Pflicht nach Satz
-1 die maximale Wirkleistungseinspeisung ihrer Anlagen nicht mehr auf
-70 Prozent der installierten Leistung begrenzen oder die bisherige
-Ausstattung ihrer Anlage mit einer technischen Einrichtung, mit der
-der Netzbetreiber jederzeit die Einspeiseleistung ganz oder teilweise
-ferngesteuert reduzieren kann, beenden wollen, ist § 8 entsprechend
-anzuwenden; insbesondere ist dem Netzbetreiber das Begehren vorab
-mitzuteilen.
-
-(4) Sobald
-
-1.  eine Anlage nach Absatz 1, die eine installierte Leistung von mehr als
-    7 Kilowatt und höchstens 25 Kilowatt hat und die nicht nach der für
-    sie maßgeblichen Fassung des Erneuerbare-Energien-Gesetzes mit einer
-    technischen Einrichtung ausgestattet werden muss, mit welcher der
-    Netzbetreiber jederzeit die Einspeiseleistung bei Netzüberlastung
-    ferngesteuert reduzieren kann, oder
-
-
-2.  eine KWK-Anlage, die vor dem 1. Januar 2023 in Betrieb genommen worden
-    ist und eine installierte Leistung von mehr als 7 Kilowatt und
-    höchstens 25 Kilowatt hat,
+3.  die technischen Einrichtungen nur dazu geeignet sind, die
+    Anforderungen zu erfüllen, die der Netzbetreiber dem Anlagenbetreiber
+    oder dem Betreiber der KWK-Anlage zur Erfüllung der Pflicht vor der
+    Inbetriebnahme der Anlage übermittelt hat.
 
 
 
-nach dem Messstellenbetriebsgesetz mit einem intelligenten Messsystem
-ausgestattet wird, ist § 9 Absatz 1a und 1b dieses Gesetzes anstelle
-der technischen Vorgaben nach der für die Anlage oder die KWK-Anlage
-maßgeblichen Fassung des Erneuerbare-Energien-Gesetzes entsprechend
-anzuwenden.
+Der Netzbetreiber hat die Testung auf Ansteuerbarkeit nach Satz 2
+spätestens im Rahmen der nächsten, auf den Einbau des intelligenten
+Messsystems und der Steuerungseinrichtungen nach § 29 Absatz 1 Nummer
+2 des Messstellenbetriebsgesetzes folgenden, nach § 12 Absatz 2b Satz
+1 des Energiewirtschaftsgesetzes durchzuführenden testweisen
+Anpassungen sowie Abrufung der Ist-Einspeisung vorzunehmen. Satz 2 ist
+rückwirkend anzuwenden. Abweichend von Satz 4 sind die Bestimmungen in
+Satz 2 nicht anzuwenden auf Fälle, in denen vor dem 1. Januar 2021 ein
+Rechtsstreit zwischen Anlagenbetreiber und Netzbetreiber rechtskräftig
+entschieden wurde. Nach dem Einbau von intelligenten Messsystemen und
+Steuerungseinrichtungen nach § 29 Absatz 1 Nummer 2 des
+Messstellenbetriebsgesetzes hat der Netzbetreiber dem Anlagenbetreiber
+bis zu einer nach Satz 2 erstmals erfolgreich durchgeführten Testung
+zum Ausgleich der entstehenden Aufwendungen für den Weiterbetrieb von
+technischen Einrichtungen nach Satz 2 Nummer 1 und 2 ab dem 1. Januar
+2028 für jedes angefangene Jahr einen Betrag von 100 Euro brutto zu
+zahlen. Die Zahlungspflicht entfällt, wenn der Netzbetreiber die
+erfolglose Testung nach Satz 2 nicht zu vertreten hat.
 
-(5) Zur Bestimmung der Größe einer Anlage nach den Absätzen 3 bis 4
+(3a) Soweit die Aufhebung der Begrenzung vor dem Ablauf des 25.
+Februar 2025 erfolgt, entfällt für Betreiber von Solaranlagen mit
+einer installierten Leistung von höchstens 7 Kilowatt ab dem 1. Januar
+2023 die Pflicht nach § 9 Absatz 2 Satz 1 Nummer 3 des Erneuerbare-
+Energien-Gesetzes in der am 31. Dezember 2022 geltenden Fassung oder
+nach einer entsprechenden Bestimmung einer früheren Fassung des
+Erneuerbare-Energien-Gesetzes, nach der
+
+1.  die Anlagen mit technischen Einrichtungen ausgestattet werden mussten,
+    mit denen der Netzbetreiber jederzeit die Einspeiseleistung bei
+    Netzüberlastung ferngesteuert reduzieren kann, oder
+
+
+2.  die Betreiber am Verknüpfungspunkt ihrer Anlage mit dem Netz die
+    maximale Wirkleistungseinspeisung auf 70 Prozent der installierten
+    Leistung begrenzen mussten.
+
+
+
+Im Übrigen bleibt Absatz 3 unberührt. Sofern Betreiber von Anlagen
+nach dem Entfallen der Pflicht nach Satz 1 die maximale
+Wirkleistungseinspeisung ihrer Anlagen nicht mehr auf 70 Prozent der
+installierten Leistung begrenzen oder die bisherige Ausstattung ihrer
+Anlage mit einer technischen Einrichtung, mit der der Netzbetreiber
+jederzeit die Einspeiseleistung ganz oder teilweise ferngesteuert
+reduzieren kann, beenden wollen, ist § 8 entsprechend anzuwenden;
+insbesondere ist dem Netzbetreiber das Begehren vorab mitzuteilen.
+
+(3b) § 9 Absatz 2 Satz 1 Nummer 2 Buchstabe b und Nummer 3 ist nicht
+anzuwenden auf Anlagen, die nach dem Ablauf des 31. Dezember 2022 und
+vor dem 25. Februar 2025 in Betrieb genommen wurden.
+
+(4) (weggefallen)
+
+(5) Zur Bestimmung der Größe einer Anlage nach den Absätzen 3 und 3a
 ist § 9 Absatz 3 Satz 1 entsprechend anzuwenden.
 
 (6) § 9 Absatz 8 dieses Gesetzes ist für Anlagen nach Absatz 1
@@ -9290,11 +10708,11 @@ nach § 9 Absatz 8 nur von Anlagen erfüllt werden müssen, die nach dem
 31\. Dezember 2005 in Betrieb genommen worden sind. Dabei ist § 9
 Absatz 8 Satz 4 erst ab dem 9. Februar 2024 anzuwenden.
 
-(7) § 19 in Verbindung mit § 21 Absatz 1 Nummer 3, Absatz 2, die §§
-21b, 21c Absatz 1 Satz 3, die §§ 23b, 25 Absatz 2 und § 53 sind auch
-für ausgeförderte Anlagen anzuwenden, die vor dem 1. Januar 2021 in
-Betrieb genommen worden sind und am 31. Dezember 2020 einen Anspruch
-auf Einspeisevergütung hatten.
+(7) § 19 in Verbindung mit § 21 Absatz 1 Satz 1 Nummer 4, Absatz 2,
+die §§ 21b, 21c Absatz 1 Satz 4 und 5, die §§ 23b, 25 Absatz 2 und §
+53 Absatz 4 sind auch für ausgeförderte Anlagen anzuwenden, die vor
+dem 1. Januar 2021 in Betrieb genommen worden sind und am 31. Dezember
+2020 einen Anspruch auf Einspeisevergütung hatten.
 
 (8) Für Anlagen, die vor dem 1. Januar 2017 in Betrieb genommen worden
 sind und Ablaugen der Zellstoffherstellung einsetzen, ist auch nach
@@ -9318,7 +10736,12 @@ Erneuerbare-Energien-Gesetzes. Im Übrigen bestimmen sich die
 Sanktionsbewehrungen nach der für die Anlage oder KWK-Anlage
 maßgeblichen Fassung des Erneuerbare-Energien-Gesetzes. Abweichend von
 Satz 4 ist bei einem Verstoß gegen eine Registrierungspflicht ab dem
-1\. Januar 2023 ausschließlich § 52 dieses Gesetzes anzuwenden.
+1\. Januar 2023 ausschließlich § 52 dieses Gesetzes anzuwenden. § 52a
+ist auf Anlagen nach Absatz 1 und KWK-Anlagen anzuwenden, wenn der
+Betreiber ab dem 25. Februar 2025 gegen eine Pflicht verstößt, die
+einer der in § 52a Absatz 1 genannten Pflichten in der für die Anlage
+oder KWK-Anlage maßgeblichen Fassung des Erneuerbare-Energien-Gesetzes
+entspricht.
 
 (10) § 71 Absatz 2 bis 6 ist auch für Zahlungen an die Betreiber von
 Anlagen nach Absatz 1 anzuwenden, die nach dem 31. Juli 2014 in
@@ -9393,10 +10816,22 @@ Gülle im Zeitraum vom 1. Mai 2023 bis einschließlich zum 30. April
 der Anspruch nur für die Kalendertage, in denen der Mindestanteil an
 Gülle nicht eingehalten wurde.
 
-(17) Betreiber von Anlagen zur Erzeugung von Strom aus Biogas müssen
-für Gärrestlager die technischen Vorgaben nach § 9 Absatz 5 Satz 1
-Nummer 1 EEG bis einschließlich 30. April 2024 nicht erfüllen. Satz 1
-gilt unabhängig vom Zeitpunkt der Inbetriebnahme der Anlage.
+(17) Für Strom aus Anlagen, die nach dem am 31. Dezember 2011
+geltenden Inbetriebnahmebegriff vor dem 1. Januar 2012 in Betrieb
+genommen worden sind, entfällt der Anspruch auf den Bonus für Strom
+aus nachwachsenden Rohstoffen nach § 27 Absatz 4 Nummer 2 in
+Verbindung mit Anlage 2 Nummer VI.2 des Erneuerbare-Energien-Gesetzes
+in der am 31. Dezember 2011 geltenden Fassung oder nach einer
+entsprechenden Bestimmung einer früheren Fassung des Erneuerbare-
+Energien-Gesetzes abweichend von Anlage 2 Nummer VII.2 des
+Erneuerbare-Energien-Gesetzes in der am 31. Dezember 2011 geltenden
+Fassung oder nach einer entsprechenden Bestimmung einer früheren
+Fassung nicht endgültig, wenn die in der Anlage eingesetzten
+nachwachsenden Rohstoffe oder die Anlage im Zeitraum vom 1. Januar
+2023 bis einschließlich 31. Dezember 2025 die Anforderungen der
+Biomassestrom-Nachhaltigkeitsverordnung nicht erfüllen. § 19 Absatz 2
+Satz 2 in Verbindung mit § 19 Absatz 1 Nummer 2 der Biomassestrom-
+Nachhaltigkeitsverordnung bleibt unberührt.
 
 (18) Abweichend von § 39c können Bieter in den Ausschreibungen für
 Biomasseanlagen nach den §§ 39 bis 39i in den Jahren 2024 und 2025
@@ -9434,7 +10869,7 @@ bilden.
 36j für Zusatzgebote, die vor dem 1. Januar 2023 erteilt wurden, sind
 § 36e Absatz 1 und § 55 Absatz 1 dieses Gesetzes anstelle des § 36e
 Absatz 1 und des § 55 Absatz 1 in der für die Anlage maßgeblichen
-Fassung des Erneuerbare-Energien- Gesetzes anzuwenden, soweit
+Fassung des Erneuerbare-Energien-Gesetzes anzuwenden, soweit
 
 1.  die Frist des § 36e Absatz 1 der für die Anlage maßgeblichen Fassung
     des Erneuerbare-Energien-Gesetzes am 9. Februar 2024 noch nicht
@@ -9458,26 +10893,321 @@ Erneuerbare-Energien-Gesetzes anwendbar, wenn der Bieter in Textform
 gegenüber der Bundesnetzagentur erklärt, dass diese anwendbar bleiben
 sollen.
 
+(20) Anlagen, die vor dem 1. Januar 2026 in Betrieb genommen werden,
+können abweichend von § 21 Absatz 1 Satz 1 Nummer 2 der
+unentgeltlichen Abnahme zugeordnet werden, wenn ihre installierte
+Leistung weniger als 400 Kilowatt beträgt.
+
+(21) Für Solaranlagen, die vor Inkrafttreten der auf Grundlage von
+§ 95 Nummer 3 durch das Bundesministerium für Wirtschaft und
+Klimaschutz erlassenen Verordnung in Betrieb genommen werden, bleibt
+die Voraussetzung des § 48 Absatz 1 Satz 1 Nummer 1a, dass das auf dem
+Grundstück bestehende Wohngebäude nicht dazu geeignet ist, dass auf,
+an oder in ihm eine Solaranlage errichtet werden kann,
+unberücksichtigt.
+
+(22) Auf Anschlussbegehren, die nach dem Ablauf des 31. Dezember 2022
+und vor dem 16. Mai 2024 gestellt werden, ist § 8 in der am 15. Mai
+2024 geltenden Fassung anzuwenden.
+
+(23) § 9 Absatz 3 Satz 2 und 3, § 10a Absatz 2 und 3 und § 24 Absatz 1
+Satz 4 und 5 sind nicht anzuwenden auf Anlagen, die vor dem 16. Mai
+2024 in Betrieb genommen worden sind.
+
+(24) § 21 Absatz 3 ist nicht anzuwenden auf Strom aus Solaranlagen,
+die vor dem 16. Mai 2024 in Betrieb genommen worden sind und die auf,
+an oder in einem Gebäude, das nicht Wohngebäude ist, oder einer
+Nebenanlage dieses Gebäudes installiert sind.
+
+(25) Für Anlagen, die nach dem Ablauf des 31. Dezember 2022 und vor
+dem 16. Mai 2024 in Betrieb genommen worden sind, ist zusätzlich § 48
+Absatz 2a Satz 2 Nummer 1 in der am 15. Mai 2024 geltenden Fassung
+anwendbar.
+
+(26) Für Anlagen, die nach dem Ablauf des 31. Dezember 2022 und vor
+dem 16. Mai 2024 in Betrieb genommen worden sind, ist § 48 Absatz 3 in
+der am 15. Mai 2024 geltenden Fassung anzuwenden.
+
+(27) Für Solaranlagen, die vor dem 16. Mai 2024 Solaranlagen an
+demselben Standort ersetzen, ist § 38h oder § 48 Absatz 4 in der am
+15\. Mai 2024 geltenden Fassung anzuwenden.
+
+(28) Für Anlagen, die nach dem Ablauf des 31. Dezember 2022 und vor
+dem 16. Mai 2024 in Betrieb genommen worden sind oder deren
+anzulegender Wert in einem Zuschlagsverfahren eines Gebotstermins nach
+dem Ablauf des 31. Dezember 2022 und vor dem 16. Mai 2024 ermittelt
+worden ist, sind § 30 Absatz 1 Nummer 9, § 37 Absatz 1 und 2, die §§
+37c, 38a Absatz 1 Nummer 3, die §§ 38b, 39g Absatz 1 Satz 3, § 39i
+Absatz 5 und § 48 Absatz 1 Satz 1 in der am 15. Mai 2024 geltenden
+Fassung anzuwenden. § 48 Absatz 1b ist nicht auf Anlagen nach Satz 1
+anzuwenden.
+
+(29) Für Ausschreibungen mit einem Gebotstermin nach dem Ablauf des
+31\. Dezember 2022 und vor dem 16. Mai 2024 sind § 29 Absatz 1 Satz 2,
+die §§ 35, 37b, 38 und 38a in der am 15. Mai 2024 geltenden Fassung
+anzuwenden und ist § 37d nicht anzuwenden.
+
+(30) § 53 Absatz 5 und § 54 Absatz 3 sind vor dem 16. Mai 2024 mit der
+Maßgabe anzuwenden, dass sich der anzulegende Wert um 0 Cent
+verringert.
+
+(31) § 8 Absatz 6 Satz 1 ist auf Netzanschlussbegehren nach § 8 Absatz
+1 Satz 2, die nach dem Ablauf des 30. Juni 2024 und vor dem 1. Januar
+2025 gestellt werden, mit der Maßgabe anzuwenden, dass die Frist zur
+Übermittlung der in § 8 Absatz 6 Satz 1 genannten Informationen
+höchstens einen Monat beträgt. § 8 Absatz 6 Satz 3 ist in den Fällen
+nach Satz 1 entsprechend mit einer Frist von einem Monat anzuwenden.
+
+(32) (weggefallen)
+
+(33) § 36h Absatz 3 Satz 2 und 3 und § 46 Absatz 3 sind nicht
+anzuwenden auf Flugwindenergieanlagen an Land, die vor dem 1. Januar
+2025 in Betrieb genommen worden sind oder deren anzulegender Wert in
+einem Zuschlagsverfahren eines Gebotstermins vor dem 1. Januar 2025
+ermittelt worden ist. Wenn die Summe der installierten Leistung aller
+Flugwindenergieanlagen an Land, die an das Register als in Betrieb
+genommen gemeldet worden sind, bis zum 1. Oktober eines Jahres
+erstmals 50 Megawatt überschritten hat, ist
+
+1.  § 46 Absatz 3 nicht mehr anzuwenden auf Flugwindenergieanlagen an
+    Land, deren anzulegender Wert gesetzlich bestimmt wird und die nach
+    dem Ablauf des 31. Dezember desselben Jahres in Betrieb genommen
+    worden sind, und
+
+
+2.  § 36h Absatz 3 Satz 2 und 3 nicht mehr anzuwenden auf
+    Flugwindenergieanlagen an Land, deren anzulegender Wert in einem
+    Zuschlagsverfahren eines Gebotstermins nach dem Ablauf des 31.
+    Dezember desselben Jahres ermittelt worden ist.
+
+
+
+Die Bundesnetzagentur veröffentlicht jährlich unverzüglich nach dem 1.
+Oktober die Summe der installierten Leistung aller
+Flugwindenergieanlagen an Land, die an das Register als in Betrieb
+genommen gemeldet worden sind.
+
+(34) § 19 Absatz 3b und 3c ist erst anzuwenden, wenn und soweit
+jeweils konkretisierende Festlegungen der Bundesnetzagentur nach § 85d
+wirksam werden. Für Strom aus Anlagen nach Absatz 1 sind, abweichend
+von Absatz 1, § 19 Absatz 3 bis 3c sowie § 20 Satz 2 dieses Gesetzes
+anstelle von § 19 Absatz 3 des Erneuerbare-Energien-Gesetzes in der am
+31\. Dezember 2022 geltenden Fassung anzuwenden; dabei greift auch
+insoweit die Einschränkung nach Satz 1.
+
+(35) Abweichend von § 46 Absatz 1 Satz 1 zweiter Halbsatz ist bei der
+Berechnung des anzulegenden Wertes für Strom aus Windenergieanlagen an
+Land nach § 22 Absatz 2 Satz 2 Nummer 1 bis 3, die nach dem 15. Mai
+2024 und vor dem 1. Januar 2025 in Betrieb genommen worden sind, der
+Zuschlagswert durch den Durchschnitt aus den Gebotswerten des jeweils
+höchsten noch bezuschlagten Gebots der Gebotstermine für
+Windenergieanlagen an Land im Vorjahr zu ersetzen.
+
+(36) Für Zuschläge nach § 39k für Biomethananlagen, die in einem
+Zuschlagsverfahren eines Gebotstermins vor dem 1. Januar 2023 erteilt
+wurden, sind § 39j und § 55 Absatz 4, 4a und 5a dieses Gesetzes
+anstelle des § 39j und des § 55 Absatz 4 und 5a in der für die Anlage
+maßgeblichen Fassung des Erneuerbare-Energien-Gesetzes anzuwenden,
+soweit
+
+1.  die Frist des § 39e in der für die Anlage maßgeblichen Fassung des
+    Erneuerbare-Energien-Gesetzes am 16. Mai 2024 noch nicht abgelaufen
+    ist und
+
+
+2.  der Bieter für das bezuschlagte Gebot am 16. Mai 2024 noch keine
+    Pönale nach § 55 Absatz 4 und 5a in der für die Anlage maßgeblichen
+    Fassung des Erneuerbare-Energien-Gesetzes leisten muss.
+
+
+
+Für Anlagen, die in einem Zuschlagsverfahren eines Gebotstermins nach
+dem 31. Dezember 2022 und vor dem 16. Mai 2024 einen Zuschlag erhalten
+haben, sind § 39j und § 55 Absatz 4 und 5a in der am 15. Mai 2024
+geltenden Fassung des Erneuerbare-Energien-Gesetzes anwendbar, wenn
+der Bieter in Textform gegenüber der Bundesnetzagentur erklärt, dass
+diese anwendbar bleiben sollen.
+
+(37) Für Anlagen, deren anzulegender Wert in einem Zuschlagsverfahren
+eines Gebotstermins nach dem Ablauf des 31. Dezember 2022 und vor dem
+24\. Februar 2025 ermittelt worden ist, sind § 28c Absatz 1, die §§
+39d, 39g Absatz 1 Satz 1, Absatz 2 Satz 2 und 4, Absatz 3 Satz 2,
+Absatz 4 und 5 Nummer 1 und 2, § 39h Absatz 3 Satz 1, § 39i Absatz 1
+Satz 1, Absatz 2 Satz 1 und 2, § 44b Absatz 1 Satz 3 und § 50a Absatz
+1 Satz 1 und Absatz 2 in der am 24. Februar 2025 geltenden Fassung
+anzuwenden. § 3 Nummer 7a und 47b, § 39i Absatz 2a und § 51b sind
+nicht auf Anlagen nach Satz 1 anzuwenden.
+
+(38) Für Biogasanlagen, in denen Biogas eingesetzt wird, das durch
+anaerobe Vergärung von Biomasse im Sinn der Biomasseverordnung
+gewonnen worden ist, und deren installierte Leistung aufgrund der für
+die Anlage maßgeblichen Fassung des Erneuerbare-Energien-Gesetzes
+insgesamt höchstens 75 Kilowatt betragen darf, bleibt der
+Vergütungsanspruch nach der für die Anlage maßgeblichen Fassung des
+Erneuerbare-Energien-Gesetzes bestehen, wenn die installierte Leistung
+der Anlage auf höchstens 150 Kilowatt erhöht wird. Der nach Satz 1
+fortbestehende Vergütungsanspruch ist jährlich auf die Strommenge
+begrenzt, die in den drei der Leistungserhöhung vorangegangenen
+Kalenderjahren durchschnittlich innerhalb eines Kalenderjahres in das
+Netz eingespeist und vergütet wurde. Es besteht kein
+Vergütungsanspruch nach diesem Gesetz für Strommengen, die aufgrund
+der Leistungserhöhung nach Satz 1 erzeugt werden. Der
+Vergütungsanspruch besteht nach Satz 1 nur fort, wenn bei der
+Erzeugung des gesamten in der Anlage eingesetzten Biogases die
+Voraussetzungen von § 44 Absatz 2 Nummer 3 dieses Gesetzes erfüllt
+sind. § 44 Absatz 3 dieses Gesetzes ist entsprechend anzuwenden. Die
+aufgrund der Leistungserhöhung zusätzlich erzeugten Strommengen müssen
+dem Netzbetreiber nicht zur Verfügung gestellt werden. Eine Pflicht
+zur Direktvermarktung besteht auch dann nicht, wenn durch die
+Leistungserhöhung eine installierte Leistung von 100 Kilowatt
+überschritten wird.
+
+(39) Für Anlagen, die nach dem Ablauf des 31. Dezember 2022 und vor
+dem 1. Mai 2025 in Betrieb genommen werden, sind § 22 Absatz 3 Satz 2
+und § 48 Absatz 1a in der am 15. Mai 2024 geltenden Fassung
+anzuwenden. Für Ausschreibungen zu Gebotsterminen vor dem 1. Mai 2025
+ist § 30 Absatz 2 in der am 15. Mai 2024 geltenden Fassung anzuwenden.
+
+(40) Für Anlagen, die vor dem 16. Mai 2024 in Betrieb genommen werden,
+ist § 48 Absatz 2 in der am 15. Mai 2024 geltenden Fassung anzuwenden.
+Bei der Anwendung des § 49 zum 1. August 2024 gelten die in § 48
+Absatz 2 genannten Werte als im vorangegangenen Zeitraum geltende
+anzulegende Werte.
+
+(41) § 37 Absatz 1a und 2 Nummer 5, § 38 Absatz 2 Nummer 7 und § 38a
+Absatz 1 Nummer 7 sind nicht für Zuschlagsverfahren eines
+Gebotstermins vor dem 1. August 2024 anzuwenden. § 48 Absatz 6 ist
+nicht anzuwenden auf Anlagen, die vor dem 1. November 2025 in Betrieb
+genommen werden.
+
+(42) Bei Anlagen, die nach dem 31. Dezember 2023 in Betrieb genommen
+wurden, ist abweichend von § 38d Absatz 6 die Erstattung des
+Projektsicherungsbeitrags nicht vor dem 1. Juni 2024 fällig.
+
+(43) Für Strom aus Anlagen nach Absatz 1 sind abweichend von Absatz 1
+und vorbehaltlich des Absatzes 44 ab dem 1. Januar 2025 § 3 Nummer 42a
+und Anlage 1 dieses Gesetzes anstelle von § 3 Nummer 42a und Anlage 1
+des Erneuerbare-Energien-Gesetzes in der am 31. Dezember 2022
+geltenden Fassung anzuwenden.
+
+(44) Für den Zeitraum vom 1. Januar 2025 bis einschließlich zu dem
+Tag, an dem die Strombörsen erstmals in der vortägigen Auktion am Day-
+Ahead-Markt Stromviertelstundenkontrakte der Kopplung der Orderbücher
+zugrunde legen, sind § 3 Nummer 42a und Anlage 1 in der am 31.
+Dezember 2024 geltenden Fassung anzuwenden für
+
+1.  die Berechnung der energieträgerspezifischen Monatsmarktwerte nach
+    Anlage 1 Nummer 3, sofern nicht ein Fall des Satzes 3 vorliegt,
+
+
+2.  die Veröffentlichungspflichten der Übertragungsnetzbetreiber nach
+    Anlage 1 Nummer 5.1, 5.2 und 5.4 und
+
+
+3.  die Mitteilung der Informationen nach Anlage 1 Nummer 6 durch die
+    Strombörsen an die Übertragungsnetzbetreiber.
+
+
+
+Für die Berechnung der energieträgerspezifischen Jahresmarktwerte nach
+Anlage 1 Nummer 4 für das Jahr 2025 ist Anlage 1 Nummer 4 für den
+Zeitraum bis einschließlich zu dem Tag, an dem die Strombörsen
+erstmals in der vortägigen Auktion am Day-Ahead-Markt
+Stromviertelstundenkontrakte der Kopplung der Orderbücher zugrunde
+legen, mit folgenden Maßgaben anzuwenden:
+
+1.  als Spotmarktpreis ist für jede Viertelstunde einer Kalenderstunde der
+    für die betreffende Kalenderstunde ermittelte durchschnittliche
+    Strompreis in Cent pro Kilowattstunde, der sich in der Preiszone für
+    Deutschland aus der Kopplung der Orderbücher aller Strombörsen in der
+    vortägigen Auktion von Stromstundenkontrakten am Day-Ahead-Markt
+    ergibt, anzusetzen und
+
+
+2.  die für jede einzelne Viertelstunde der Kalenderstunde maßgebliche
+    Strommenge wird ermittelt, indem die Menge des nach der Online-
+    Hochrechnung nach Anlage 1 Nummer 5.1 zum Erneuerbare-Energien-Gesetz
+    in der am 31. Dezember 2022 geltenden Fassung nach Satz 1 Nummer 2 in
+    dieser Kalenderstunde erzeugten Stroms der jeweiligen Technologie
+    gleichmäßig auf die Viertelstunden verteilt wird.
+
+
+
+Fällt der Tag, an dem die Strombörsen erstmals in der vortägigen
+Auktion am Day-Ahead-Markt Stromviertelstundenkontrakte der Kopplung
+der Orderbücher zugrunde legen, in einem Monat auf einen anderen Tag
+als den Monatsersten, sind bei der Berechnung der
+energieträgerspezifischen Monatsmarktwerte nach Anlage 1 Nummer 3.2
+und 3.3 für diesen Monat die Maßgaben nach Satz 2 Nummer 1 und 2 für
+alle Kalendertage des Monats bis einschließlich zu dem Tag, an dem die
+Strombörsen erstmals in der vortägigen Auktion am Day-Ahead-Markt
+Stromviertelstundenkontrakte der Kopplung der Orderbücher zugrunde
+legen, entsprechend anzuwenden.
+
+(45) Um die Stunden zu ermitteln, in denen der Spotmarktpreis nach
+Maßgabe des § 51 Absatz 1 dieses Gesetzes, nach Maßgabe des § 51
+Absatz 1 des Erneuerbare-Energien-Gesetzes in der am 24. Februar 2025
+geltenden Fassung und nach Maßgabe des § 51 Absatz 1 des Erneuerbare-
+Energien-Gesetzes in der am 31. Dezember 2022 geltenden Fassung
+negativ ist, ist für den Zeitraum vom 1. Januar 2025 bis
+einschließlich zu dem Tag, an dem die Strombörsen erstmals in der
+vortägigen Auktion am Day-Ahead-Markt Stromviertelstundenkontrakte der
+Kopplung der Orderbücher zugrunde legen, § 3 Nummer 42a des
+Erneuerbare-Energien-Gesetzes in der am 31. Dezember 2024 geltenden
+Fassung anzuwenden. Sofern nach der jeweils anzuwendenden Fassung des
+§ 51 Absatz 1 als maßgebliche Zeiteinheit Stunden, in denen der
+Spotmarktpreis negativ ist, zugrunde zu legen sind, ist ab dem Tag, an
+dem die Strombörsen erstmals in der vortägigen Auktion am Day-Ahead-
+Markt Stromviertelstundenkontrakte der Kopplung der Orderbücher
+zugrunde legen, eine Kalenderstunde dann zu berücksichtigen, wenn das
+arithmetische Mittel aus den Spotmarktpreisen der Viertelstunden
+dieser Kalenderstunde negativ ist.
+
+(46) Für Anlagen, die nach dem 31. Dezember 2022 und vor dem 25.
+Februar 2025 in Betrieb genommen wurden oder deren anzulegender Wert
+in einem Zuschlagsverfahren eines Gebotstermins nach dem 31. Dezember
+2022 und vor dem 25. Februar 2025 ermittelt wurde, sind die §§ 51 und
+51a Absatz 1 in der am 24. Februar 2025 geltenden Fassung anzuwenden.
+§ 51a Absatz 2 ist nicht anzuwenden auf Strom aus Solaranlagen, die
+vor dem 25. Februar 2025 in Betrieb genommen wurden.
+
+(47) Für Anlagen, deren anzulegender Wert sich nach der für sie
+maßgeblichen Fassung des Erneuerbare-Energien-Gesetzes in Zeiträumen,
+in denen der Spotmarktpreis negativ ist, nicht verringert, sind die §§
+51 und § 51a anzuwenden, wenn der Anlagenbetreiber in Textform
+gegenüber dem Netzbetreiber erklärt, dass diese anwendbar sein sollen.
+Die Erklärung nach Satz 1 kann nur mit Wirkung frühestens zum Ablauf
+des Kalenderjahres, in dem die Anlage mit einem intelligenten
+Messsystem ausgestattet wird, abgegeben werden. Nach Wirksamwerden der
+Erklärung nach Satz 1 erhöht sich der anzulegende Wert für die Anlage
+um 0,6 Cent pro Kilowattstunde.
+
 
 #### § 101 Beihilferechtlicher Genehmigungsvorbehalt
 
-(1) Die Bestimmungen des Teils 3 dürfen, soweit sie durch Artikel 2
-des Gesetzes zu Sofortmaßnahmen für einen beschleunigten Ausbau der
-erneuerbaren Energien und weiteren Maßnahmen im Stromsektor vom 20.
-Juli 2022 (BGBl. I S. 1237) geändert worden sind, erst nach der
-beihilferechtlichen Genehmigung durch die Europäische Kommission und
-nur nach Maßgabe dieser Genehmigung angewandt werden.
-
-(2) Absatz 1 ist für die Änderungen in Teil 3 Abschnitt 3
-Unterabschnitt 2 bis 7 mit der Maßgabe anzuwenden, dass diese
-Änderungen einschließlich der Maßgaben der Genehmigung erst bei den
-Ausschreibungen angewandt werden, die zum Zeitpunkt der
-beihilferechtlichen Genehmigung noch nicht bekannt gemacht worden
-sind.
-
-(3) § 100 Absatz 15 und 16 dürfen erst nach der beihilferechtlichen
+(1) Die Bestimmungen von § 19 Absatz 3c, § 22 Absatz 3 Satz 2, § 28b
+Absatz 2, § 30 Absatz 2, § 36h Absatz 3 Satz 2 und 3, § 37 Absatz 3, §
+37b Absatz 2, § 37d, § 38a Absatz 1 Nummer 5, § 38h Satz 2, § 46
+Absatz 3, § 48 Absatz 1b, 2 und 4 Satz 2, § 85a Absatz 1 Satz 2 und §
+100 Absatz 35 und 47 dürfen erst nach der beihilferechtlichen
 Genehmigung durch die Europäische Kommission und nur nach Maßgabe
-dieser Genehmigung angewandt werden.
+dieser Genehmigung angewandt werden. Bis zu dieser Genehmigung sind §
+22 Absatz 3 Satz 2, § 28b Absatz 2, § 30 Absatz 2, § 37 Absatz 3, §
+38a Absatz 1 Nummer 5, § 38b Absatz 1 Satz 2 und 3, § 46 Absatz 3, §
+48 Absatz 2 und 4 Satz 2 sowie § 85a Absatz 1 Satz 2 in der am 15. Mai
+2024 geltenden Fassung anzuwenden.
+
+(2) Die Bestimmungen von § 28c Absatz 1, der §§ 39d, 39g Absatz 1 Satz
+1, Absatz 2 Satz 2 und 4, Absatz 3 Satz 2, Absatz 4 und 5 Nummer 1 und
+2, von § 39h Absatz 3 Satz 1, § 39i Absatz 2 Satz 1 und 2, Absatz 2a,
+§ 44b Absatz 1 Satz 3, § 50a Absatz 1 Satz 1, Absatz 2 und § 51b
+dürfen erst nach der beihilferechtlichen Genehmigung durch die
+Europäische Kommission und nur nach Maßgabe dieser Genehmigung
+angewandt werden. Bis zu dieser Genehmigung sind § 28c Absatz 1, die
+§§ 39d, 39g Absatz 1 Satz 1, Absatz 2 Satz 2 und 4, Absatz 3 Satz 2,
+Absatz 4 und 5 Nummer 1 und 2, § 39h Absatz 3 Satz 1, § 39i Absatz 2
+Satz 1 und 2, § 44b Absatz 1 Satz 3 und § 50a Absatz 1 Satz 1 und
+Absatz 2 in der am 24. Februar 2025 geltenden Fassung anzuwenden.
 
 (zu § 23a)
 
@@ -9506,7 +11236,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   –
 
     *   „AW“ der anzulegende Wert unter Berücksichtigung der §§ 19 bis 54 in
-        Cent pro Kilowattstunde, in den Fällen des § 23d ist dies der
+        Cent pro Kilowattstunde, in den Fällen des § 23c ist dies der
         Gesamtwert für eine Anlage,
 
 
@@ -9534,7 +11264,11 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         energieträgerspezifischen Monatsmarktwertes nach Nummer 3 berechnet.
         Für Strom aus anderen Anlagen wird die Höhe der Marktprämie nach § 23a
         („MP“) anhand des energieträgerspezifischen Jahresmarktwertes nach
-        Nummer 4 berechnet.
+        Nummer 4 berechnet. Für Strom aus Anlagen nach Satz 1 wird abweichend
+        von Satz 1 die Höhe der Marktprämie nach § 23a („MP“) anhand des
+        energieträgerspezifischen Jahresmarktwertes nach Nummer 4 berechnet,
+        wenn der Anspruch nach der Abgrenzungs- oder der Pauschaloption nach §
+        19 Absatz 3b oder 3c geltend gemacht wird.
 
 
 *    *   **3.**
@@ -9585,8 +11319,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   **3.3**
 
-    *   **Berechnung es Monatsmarktwerts „MW“ bei Strom aus Windenergie und
-        solarer Strahlungsenergie**
+    *   Berechnung
+        des **Monatsmarktwerts „MW“ bei Strom aus Windenergie und solarer
+        Strahlungsenergie**
 
 
 *    *   **3.3.1**
@@ -9635,16 +11370,17 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *
     *   –
 
-    *   Für jede Stunde eines Kalendermonats wird der durchschnittliche
-        Spotmarktpreis mit der Menge des in dieser Stunde nach der Online-
-        Hochrechnung nach Nummer 5.1 erzeugten Stroms aus Windenergieanlagen
-        an Land multipliziert.
+    *   Für jede Viertelstunde eines Kalendermonats wird der durchschnittliche
+        Spotmarktpreis mit der Menge des in dieser Viertelstunde nach der
+        Online-Hochrechnung nach Nummer 5.1 erzeugten Stroms aus
+        Windenergieanlagen an Land multipliziert.
 
 
 *    *
     *   –
 
-    *   Die Ergebnisse für alle Stunden des Kalendermonats werden summiert.
+    *   Die Ergebnisse für alle Viertelstunden des Kalendermonats werden
+        summiert.
 
 
 *    *
@@ -9790,16 +11526,17 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *
     *   –
 
-    *   Für jede Stunde eines Kalenderjahres wird der durchschnittliche
-        Spotmarktpreis mit der Menge des in dieser Stunde nach der Online-
-        Hochrechnung nach Nummer 5.1 erzeugten Stroms aus Windenergieanlagen
-        an Land multipliziert.
+    *   Für jede Viertelstunde eines Kalenderjahres wird der durchschnittliche
+        Spotmarktpreis mit der Menge des in dieser Viertelstunde nach der
+        Online-Hochrechnung nach Nummer 5.1 erzeugten Stroms aus
+        Windenergieanlagen an Land multipliziert.
 
 
 *    *
     *   –
 
-    *   Die Ergebnisse für alle Stunden des Kalenderjahres werden summiert.
+    *   Die Ergebnisse für alle Viertelstunden des Kalenderjahres werden
+        summiert.
 
 
 *    *
@@ -9858,10 +11595,11 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         Grundlage einer repräsentativen Anzahl von gemessenen Referenzanlagen
         erstellte Online-Hochrechnung der Menge des tatsächlich erzeugten
         Stroms aus Windenergieanlagen an Land, Windenergieanlagen auf See und
-        Solaranlagen in ihren Regelzonen in mindestens stündlicher Auflösung
-        veröffentlichen. Für die Erstellung der Online-Hochrechnung sind
-        Reduzierungen der Einspeiseleistung der Anlage durch den Netzbetreiber
-        oder im Rahmen der Direktvermarktung nicht zu berücksichtigen.
+        Solaranlagen in ihren Regelzonen in mindestens viertelstündlicher
+        Auflösung veröffentlichen. Für die Erstellung der Online-Hochrechnung
+        sind Reduzierungen der Einspeiseleistung der Anlage durch den
+        Netzbetreiber oder im Rahmen der Direktvermarktung nicht zu
+        berücksichtigen.
 
 
 *    *   5.2
@@ -9876,7 +11614,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *
     *   a)
 
-    *   den Spotmarktpreis für jeden Kalendertag in stündlicher Auflösung,
+    *   den Spotmarktpreis für jeden Kalendertag in viertelstündlicher
+        Auflösung,
 
 
 *    *
@@ -9978,7 +11717,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   bis zum Ablauf des zweiten Werktags des Folgemonats den von ihnen im
         Rahmen der Kopplung der Orderbücher aller Strombörsen ermittelten
-        Spotmarktpreis für jeden Kalendertag in stündlicher Auflösung und
+        Spotmarktpreis für jeden Kalendertag in viertelstündlicher Auflösung
+        und
 
 
 *    *
@@ -9986,11 +11726,11 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   im Fall einer nicht vollständigen oder nur teilweisen Kopplung der
         Orderbücher aller Strombörsen für die jeweils hiervon betroffenen
-        Stunden den an ihrer Strombörse ermittelten Preis für die
-        Stromstundenkontrakte in der vortägigen Auktion und ihr Handelsvolumen
-        für diese Stromstundenkontrakte; diese Mitteilung muss unverzüglich,
-        spätestens zwei Stunden nach Abschluss der vortägigen Auktion
-        erfolgen.
+        Viertelstunden den an ihrer Strombörse ermittelten Preis für die
+        Stromviertelstundenkontrakte in der vortägigen Auktion und ihr
+        Handelsvolumen für diese Stromviertelstundenkontrakte; diese
+        Mitteilung muss unverzüglich, spätestens zwei Stunden nach Abschluss
+        der vortägigen Auktion erfolgen.
 
 
 
@@ -10171,15 +11911,10 @@ bzgl. einzelner Änderungen vgl. Fußnote)
 
     b)  wenn die Bemessungsleistung der Anlage im Sinne der Nummer II.1 erster
         Spiegelstrich mindestens das 0,2fache der installierten Leistung der
-        Anlage beträgt,
+        Anlage beträgt und
 
 
-    c)  wenn der Anlagenbetreiber die zur Registrierung der Inanspruchnahme
-        der Flexibilitätsprämie erforderlichen Angaben an das Register
-        übermittelt hat und
-
-
-    d)  sobald ein Umweltgutachter mit einer Zulassung für den Bereich
+    c)  sobald ein Umweltgutachter mit einer Zulassung für den Bereich
         Elektrizitätserzeugung aus erneuerbaren Energien bescheinigt hat, dass
         die Anlage für den zum Anspruch auf die Flexibilitätsprämie
         erforderlichen bedarfsorientierten Betrieb nach den allgemein

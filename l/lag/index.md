@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 2.6.1993 I 845; 1995 I 248
 
 Zuletzt geändert durch
-:   Art. 34 Abs. 17 G v. 22.12.2023 I Nr. 411
+:   Art. 24 G v. 15.7.2024 I Nr. 236
 
 
 ## Präambel
@@ -6470,7 +6470,7 @@ In welchen Fällen die Zustellung durch einfachen Brief erfolgen kann,
 bestimmt der Präsident des Bundesausgleichsamtes nach Maßgabe des §
 319 Abs. 2. Eine Entscheidung, die durch die Post mittels einfachen
 Briefes im Geltungsbereich dieses Gesetzes übermittelt wird, gilt mit
-dem dritten Tage nach der Aufgabe zur Post als bekannt gegeben, außer
+dem vierten Tage nach der Aufgabe zur Post als bekannt gegeben, außer
 wenn sie nicht oder zu einem späteren Zeitpunkt zugegangen ist; im
 Zweifel hat die Behörde den Zugang der Entscheidung und den Zeitpunkt
 des Zugangs nachzuweisen.

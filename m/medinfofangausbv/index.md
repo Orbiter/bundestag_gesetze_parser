@@ -1,6 +1,6 @@
 ---
 Title: Verordnung über die Berufsausbildung zum Fachangestellten für Medien- und Informationsdienste/zur
-  Fachangestellten für Medien- und Informations*/dienste
+  Fachangestellten für Medien- und Informationsdienste
 jurabk: MedInfoFAngAusbV
 layout: default
 origslug: medinfofangausbv
@@ -8,7 +8,7 @@ slug: medinfofangausbv
 
 ---
 
-# Verordnung über die Berufsausbildung zum Fachangestellten für Medien- und Informationsdienste/zur Fachangestellten für Medien- und Informations*/dienste (MedInfoFAngAusbV)
+# Verordnung über die Berufsausbildung zum Fachangestellten für Medien- und Informationsdienste/zur Fachangestellten für Medien- und Informationsdienste (MedInfoFAngAusbV)
 
 Ausfertigungsdatum
 :   1998-06-03
@@ -19,6 +19,13 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 15.3.2000 I 222
 
+    Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 25
+    des Berufsbildungsgesetzes. Die Ausbildungsordnung und der damit
+    abgestimmte, von der Ständigen Konferenz der Kultusminister der Länder
+    in der Bundesrepublik Deutschland beschlossene Rahmenlehrplan für die
+    Berufsschule werden demnächst als Beilage zum Bundesanzeiger
+    veröffentlicht.
+[^bjnr125700998_01_BJNR125700998]: 
 
 ## Eingangsformel
 

@@ -56,8 +56,8 @@ Gebieten des Steuerrechts und des gewerblichen Rechtsschutzes dürfen
 sie nur erbringen, soweit ihre Registrierung diese Gebiete
 ausdrücklich umfasst.
 
-(4) Abweichend von § 13 des Rechtsdienstleistungsgesetzes prüft die
-zuständige Behörde vor der Registrierung nur, ob eine ausreichende
+(4) Abweichend von § 13 des Rechtsdienstleistungsgesetzes prüft das
+Bundesamt für Justiz vor der Registrierung nur, ob eine ausreichende
 Berufshaftpflichtversicherung nach § 12 Abs. 1 Nr. 3 des
 Rechtsdienstleistungsgesetzes besteht. Als qualifizierte Personen
 werden die zur Zeit der Antragstellung in der Erlaubnisurkunde
@@ -70,10 +70,9 @@ für registrierte Erlaubnisinhaber möglich.
 (5) Ist ein registrierter Erlaubnisinhaber, der nach Maßgabe des § 3
 Absatz 2 zur gerichtlichen Vertretung oder zum Auftreten in der
 Verhandlung befugt ist, verstorben oder wurde seine Registrierung
-zurückgenommen oder widerrufen, kann die für die Registrierung
-zuständige Behörde einen Abwickler für seine Praxis bestellen. § 14a
-Absatz 1 Satz 2 und Absatz 2 des Rechtsdienstleistungsgesetzes gilt
-entsprechend.
+zurückgenommen oder widerrufen, kann das Bundesamt für Justiz einen
+Abwickler für seine Praxis bestellen. § 14a Absatz 1 Satz 2 und Absatz
+2 des Rechtsdienstleistungsgesetzes gilt entsprechend.
 
 
 ## § 2 Versicherungsberater

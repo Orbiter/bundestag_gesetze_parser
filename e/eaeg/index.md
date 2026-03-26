@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1998, 1842
 
 Zuletzt geändert durch
-:   Art. 7 Abs. 11 G v. 12.5.2021 I 990
+:   Art. 18 G v. 27.12.2024 I Nr. 438
 
 
 ## § 1 Begriffsbestimmungen
@@ -62,8 +62,9 @@ Zuletzt geändert durch
     des Kreditwesengesetzes,
 
 
-2.  Wertpapierdienstleistungen im Sinne des § 2 Absatz 1 Nummer 1 bis 10
-    Buchstabe c des Wertpapierinstitutsgesetzes oder
+2.  Wertpapierdienstleistungen und Wertpapiernebendienstleistungen im
+    Sinne des § 2 Absatz 2 Nummer 1 bis 10 oder Absatz 3 Nummer 1 des
+    Wertpapierinstitutsgesetzes oder
 
 
 3.  Dienstleistungen und Nebendienstleistungen nach § 20 Absatz 2 Nummer
@@ -72,9 +73,7 @@ Zuletzt geändert durch
 
 
 soweit sie sich nicht auf Rechnungseinheiten im Sinne des § 1 Absatz
-11 Satz 1 Nummer 7 des Kreditwesengesetzes oder auf Kryptowerte im
-Sinne des § 1 Absatz 11 Satz 1 Nummer 10 des Kreditwesengesetzes
-beziehen.
+11 Satz 1 Nummer 7 des Kreditwesengesetzes beziehen.
 
 (3) Verbindlichkeiten aus Wertpapiergeschäften im Sinne dieses
 Gesetzes sind die Verpflichtungen eines Instituts zur Rückzahlung von

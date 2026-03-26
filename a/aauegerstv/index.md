@@ -18,7 +18,7 @@ Fundstelle
 :   BGBl I: 1992, 999
 
 Zuletzt geändert durch
-:   Art. 57 Abs. 15 G v. 12.12.2019 I 2652
+:   Art. 1 V v. 26.2.2025 I Nr. 65
 
 
 ## Eingangsformel
@@ -78,27 +78,26 @@ nach den §§ 9 und 11 dieses Gesetzes.
 
 (1) Erstattungsbetrag ist bei Renten, die nach den Vorschriften des
 Sechsten Buches Sozialgesetzbuch festgestellt sind, der aus
-persönlichen Entgeltpunkten (Ost) für Zeiten der Zugehörigkeit zu
-einem Zusatz- oder Sonderversorgungssystem errechnete Monatsteilbetrag
-der Rente, der aufgrund der aus einem Zusatz- oder
-Sonderversorgungssystem überführten Ansprüche oder Anwartschaften zu
-zahlen ist. Für Zeiten der Zugehörigkeit zu einem
-Zusatzversorgungssystem werden Entgeltpunkte (Ost), denen Verdienste
-von bis zu 7 200 Mark jährlich zugrunde liegen, bei der Berechnung des
-erstattungsfähigen Betrages nicht berücksichtigt. Nach der
-Gesamtleistungsbewertung ermittelte Entgeltpunkte (Ost) werden in dem
-Verhältnis für die Berechnung des erstattungsfähigen Betrages
-berücksichtigt, in dem die für die Ermittlung des
-Gesamtleistungswertes zugrunde gelegten Entgeltpunkte (Ost) für Zeiten
-der Zugehörigkeit zu einem Zusatz- oder Sonderversorgungssystem zu
-allen zugrunde gelegten Entgeltpunkten (Ost) stehen. Zusatzleistungen
-und der von der Deutschen Rentenversicherung Bund zu tragende Teil der
-Beteiligung an den Beiträgen zur Krankenversicherung sind in dem
-Verhältnis aufzuteilen, in dem die entsprechend ermittelten
-persönlichen Entgeltpunkte (Ost) zu allen persönlichen Entgeltpunkten
-(Ost) stehen. Zuschläge bei Waisenrenten bestehen in dem Verhältnis
-aus erstattungsfähigen Aufwendungen, in dem die ihnen zugrunde
-liegenden persönlichen Entgeltpunkte (Ost) auf Zeiten der
+persönlichen Entgeltpunkten für Zeiten der Zugehörigkeit zu einem
+Zusatz- oder Sonderversorgungssystem errechnete Monatsteilbetrag der
+Rente, der aufgrund der aus einem Zusatz- oder Sonderversorgungssystem
+überführten Ansprüche oder Anwartschaften zu zahlen ist. Für Zeiten
+der Zugehörigkeit zu einem Zusatzversorgungssystem werden
+Entgeltpunkte, denen Verdienste von bis zu 7 200 Mark jährlich
+zugrunde liegen, bei der Berechnung des erstattungsfähigen Betrages
+nicht berücksichtigt. Nach der Gesamtleistungsbewertung ermittelte
+Entgeltpunkte werden in dem Verhältnis für die Berechnung des
+erstattungsfähigen Betrages berücksichtigt, in dem die für die
+Ermittlung des Gesamtleistungswertes zugrunde gelegten Entgeltpunkte
+für Zeiten der Zugehörigkeit zu einem Zusatz- oder
+Sonderversorgungssystem zu allen zugrunde gelegten Entgeltpunkten
+stehen. Zusatzleistungen und der von der Deutschen Rentenversicherung
+Bund zu tragende Teil der Beteiligung an den Beiträgen zur
+Krankenversicherung sind in dem Verhältnis aufzuteilen, in dem die
+entsprechend ermittelten persönlichen Entgeltpunkte zu allen
+persönlichen Entgeltpunkten stehen. Zuschläge bei Waisenrenten
+bestehen in dem Verhältnis aus erstattungsfähigen Aufwendungen, in dem
+die ihnen zugrunde liegenden persönlichen Entgeltpunkte auf Zeiten der
 Zugehörigkeit zu einem Zusatz- oder Sonderversorgungssystem entfallen.
 Vermindert sich der Monatsbetrag der Rente bei Anwendung der
 Anrechnungsvorschriften, ist der erstattungsfähige Betrag in dem
@@ -153,6 +152,11 @@ jährlich um 4 Millionen Euro gemindert.
 Anspruchs- und Anwartschaftsüberführungsgesetzes die durch die
 Deutsche Rentenversicherung Bund ausgezahlte Leistung in der vom
 Versorgungsträger mitgeteilten Höhe.
+
+(6) Erstattungsbetrag ist bei Rentenzuschlägen nach § 307j des
+Sechsten Buches Sozialgesetzbuch der jeweilige Anteilswert der Anlage
+multipliziert mit dem Betrag der monatlich für den Zeitraum vom 1.
+Juli 2024 bis zum 30. November 2025 ausgezahlten Rentenzuschläge.
 
 
 ## § 3 Erstattung der Verwaltungskosten
@@ -233,4 +237,157 @@ Diese Verordnung tritt mit Wirkung vom 1. Januar 1992 in Kraft.
 ## Schlußformel
 
 Der Bundesrat hat zugestimmt.
+
+(zu § 2 Absatz 6)
+
+## Anlage Anteilswerte nach § 2 Absatz 6
+
+(Fundstelle: BGBl. 2025 I Nr. 65, S. 2)
+
+
+*    *   **Anteilswerte knappschaftliche Rentenversicherung**
+
+    *   **Bereich Ost**
+
+    *   **Bereich West**
+
+
+*    *   Zusatzversorgung nach Anlage 1 Nummer 1 – 22 zum Anspruchs- und
+        Anwartschaftsüberführungsgesetz
+
+    *   0,964007 %
+
+    *   0,025288 %
+
+
+*    *   Zusatzversorgung nach Anlage 1 Nummer 23 – 26 zum Anspruchs- und
+        Anwartschaftsüberführungsgesetz
+
+    *   0,001992 %
+
+    *   0,000246 %
+
+
+*    *   Zusatzversorgung nach Anlage 1 Nummer 27 zum Anspruchs- und
+        Anwartschaftsüberführungsgesetz
+
+    *   0,039842 %
+
+    *   0,001306 %
+
+
+*    *   Sonderversorgung nach Anlage 2 Nummer 1 zum Anspruchs- und
+        Anwartschaftsüberführungsgesetz
+
+    *   1,041501 %
+
+    *   0,046055 %
+
+
+*    *   Sonderversorgung nach Anlage 2 Nummer 2 zum Anspruchs- und
+        Anwartschaftsüberführungsgesetz
+
+    *   0,442752 %
+
+    *   0,014084 %
+
+
+*    *   Sonderversorgung nach Anlage 2 Nummer 3 zum Anspruchs- und
+        Anwartschaftsüberführungsgesetz
+
+    *   0,028261 %
+
+    *   0,000576 %
+
+
+*    *   Sonderversorgung nach Anlage 2 Nummer 4 zum Anspruchs- und
+        Anwartschaftsüberführungsgesetz
+
+    *   0,455721 %
+
+    *   0,017217 %
+
+
+*    *   Pensionsstatut Carl-Zeiss-Stiftung Jena nach § 1 Absatz 1 des
+        Zusatzversorgungssystem-Gleichstellungsgesetzes
+
+    *   0,013696 %
+
+    *   0,000627 %
+
+
+
+
+*    *   **Anteilswerte allgemeine Rentenversicherung**
+
+    *   **Bereich Ost**
+
+    *   **Bereich West**
+
+
+*    *   Zusatzversorgung nach Anlage 1 Nummer 1 – 22 zum Anspruchs- und
+        Anwartschaftsüberführungsgesetz
+
+    *   1,301967 %
+
+    *   0,030701 %
+
+
+*    *   Zusatzversorgung nach Anlage 1 Nummer 23 – 26 zum Anspruchs- und
+        Anwartschaftsüberführungsgesetz
+
+    *   0,007310 %
+
+    *   0,000302 %
+
+
+*    *   Zusatzversorgung nach Anlage 1 Nummer 27 zum Anspruchs- und
+        Anwartschaftsüberführungsgesetz
+
+    *   0,048652 %
+
+    *   0,001488 %
+
+
+*    *   Sonderversorgung nach Anlage 2 Nummer 1 zum Anspruchs- und
+        Anwartschaftsüberführungsgesetz
+
+    *   0,737330 %
+
+    *   0,034741 %
+
+
+*    *   Sonderversorgung nach Anlage 2 Nummer 2 zum Anspruchs- und
+        Anwartschaftsüberführungsgesetz
+
+    *   0,450682 %
+
+    *   0,015388 %
+
+
+*    *   Sonderversorgung nach Anlage 2 Nummer 3 zum Anspruchs- und
+        Anwartschaftsüberführungsgesetz
+
+    *   0,036188 %
+
+    *   0,001171 %
+
+
+*    *   Sonderversorgung nach Anlage 2 Nummer 4 zum Anspruchs- und
+        Anwartschaftsüberführungsgesetz
+
+    *   0,376653 %
+
+    *   0,011810 %
+
+
+*    *   Pensionsstatut Carl-Zeiss-Stiftung Jena nach § 1 Absatz 1 des
+        Zusatzversorgungssystem-Gleichstellungsgesetzes
+
+    *   0,026719 %
+
+    *   0,001602 %
+
+
+
 

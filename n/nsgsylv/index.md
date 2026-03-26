@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2017, 3423
 
+Geändert durch
+:   Art. 1 V v. 4.12.2024 I Nr. 397
+
 Stand: Ersetzt V 791-8-3 v, 15.9.2005 I 2782 (NatSGÖDeuBuchtV)
 [^F800312_01_BJNR342300017]:     Diese Verordnung dient der Umsetzung der Richtlinie 92/43/EWG des
     Rates vom 21. Mai 1992 zur Erhaltung der natürlichen Lebensräume sowie
@@ -61,7 +64,14 @@ und vereint die Gebiete
     Europäischen Parlaments und des Rates vom 30. November 2009 über die
     Erhaltung der wildlebenden Vogelarten (ABl. L 20 vom 26.1.2010, S. 7),
     die durch die Richtlinie 2013/17/EU (ABl. L 158 vom 10.6.2013, S. 193)
-    geändert worden ist, registriert.
+    geändert worden ist, registriert sowie
+
+
+3.  „Zentrale Deutsche Bucht nordwestlich der Insel Helgoland“, als
+    Ausgleichsmaßnahme nach Artikel 6 Absatz 4 Satz 1 der Richtlinie
+    92/43/EWG und § 34 Absatz 5 Satz 1 des Bundesnaturschutzgesetzes für
+    mögliche erhebliche Beeinträchtigungen des Gebietes „Östliche Deutsche
+    Bucht“ durch den Offshore-Windpark „Butendiek“.
 
 
 
@@ -97,19 +107,26 @@ Länge gemäß dem World Geodetic System 1984 (WGS 84) bestimmt.
 ausschließlichen Wirtschaftszone bleiben die diesbezüglichen
 Proklamationen der Bundesrepublik Deutschland von 1994 maßgeblich.
 
-(4) Das Naturschutzgebiet wird in die Bereiche I und II gegliedert.
-Bereich I bezeichnet das Gebiet „Sylter Außenriff“ im Sinne von § 1
-Satz 3 Nummer 1 und ist durch die Verbindung der in Anlage 1 Abschnitt
-B Nummer 1 aufgeführten Punkte begrenzt. Die Punkte SYL4 und SYL6 der
-Grenze des Bereiches I sind durch Loxodrome miteinander verbunden, im
-Übrigen ist die Grenze deckungsgleich mit den Außengrenzen des
-Naturschutzgebietes nach den Absätzen 2 und 3. Bereich II bezeichnet
-das Gebiet „Östliche Deutsche Bucht“ im Sinne von § 1 Satz 3 Nummer 2
-und ist durch die Verbindung der in Anlage 1 Abschnitt B Nummer 2
-aufgeführten Punkte begrenzt. Die Punkte SYL7, SYL12 und SYL13 der
-Grenze des Bereiches II sind durch Loxodrome miteinander verbunden, im
-Übrigen ist die Grenze deckungsgleich mit den Außengrenzen des
-Naturschutzgebietes nach den Absätzen 2 und 3.
+(4) Das Naturschutzgebiet wird in die Bereiche I, II und III
+gegliedert. Bereich I bezeichnet das Gebiet „Sylter Außenriff“ im
+Sinne von § 1 Satz 3 Nummer 1 und ist durch die Verbindung der in
+Anlage 1 Abschnitt B Nummer 1 aufgeführten Punkte begrenzt. Die Punkte
+SYL4 und SYL6 der Grenze des Bereiches I sind durch Loxodrome
+miteinander verbunden, im Übrigen ist die Grenze deckungsgleich mit
+den Außengrenzen des Naturschutzgebietes nach den Absätzen 2 und 3.
+Bereich II bezeichnet das Gebiet „Östliche Deutsche Bucht“ im Sinne
+von § 1 Satz 3 Nummer 2 und ist durch die Verbindung der in Anlage 1
+Abschnitt B Nummer 2 aufgeführten Punkte begrenzt. Die Punkte SYL7 und
+SYL12 bis SYL14 der Grenze des Bereiches II sind durch Loxodrome
+miteinander verbunden, im Übrigen ist die Grenze deckungsgleich mit
+den Außengrenzen des Naturschutzgebietes nach den Absätzen 2 und 3.
+Bereich III bezeichnet das Gebiet „Zentrale Deutsche Bucht
+nordwestlich der Insel Helgoland“ im Sinne von § 1 Satz 3 Nummer 3 und
+ist durch die Verbindung der in Anlage 1 Abschnitt B Nummer 3
+aufgeführten Punkte begrenzt. Zwischen den Punkten SYL7 und SYL8 ist
+die Grenze deckungsgleich mit den Außengrenzen des Naturschutzgebietes
+nach den Absätzen 2 und 3. Die Punkte SYL8, SYL11, SYL13, SYL12 und
+SYL7 sind durch Loxodrome miteinander verbunden.
 
 (5) Bereich I enthält die Unterbereiche Ia und Ib. Unterbereich Ia ist
 im Westen durch den Längengrad 6° 42' E und im Osten durch den
@@ -123,7 +140,7 @@ Grenze des Unterbereichs Ib sind durch eine Loxodrome miteinander
 verbunden.
 
 (6) Die Grenze des Naturschutzgebietes ist in Anlage 2 in einer
-Übersichtskarte im Maßstab 1 : 275 000 blau gekennzeichnet. Die
+Übersichtskarte im Maßstab 1 : 300 000 blau gekennzeichnet. Die
 Bereiche nach § 2 Absatz 4 und Unterbereiche nach § 2 Absatz 5 sind in
 Anlage 2 ebenfalls grafisch dargestellt.
 
@@ -373,6 +390,36 @@ Wiederherstellung
 
 
 
+## § 5a Schutzzweck des Bereiches III
+
+(1) Zu den im Bereich III des Naturschutzgebietes verfolgten
+Schutzzwecken gehören die Erhaltung oder, soweit erforderlich, die
+Wiederherstellung eines günstigen Erhaltungszustands
+
+1.  der im Bereich vorkommenden Arten nach Anhang I der Richtlinie
+    2009/147/EG
+
+    a)  Sterntaucher (Gavia stellata, EU-Code A001) und
+
+
+    b)  Prachttaucher (Gavia arctica, EU-Code A002) sowie
+
+
+
+
+
+2.  des Bereiches in seiner Funktion als Nahrungs-, Überwinterungs-,
+    Mauser, Durchzugs- und Rastgebiet für die genannten Arten.
+
+
+
+
+(2) Zum Schutz der Lebensräume und zur Sicherung des Überlebens und
+der Vermehrung der in Absatz 1 Nummer 1 aufgeführten Vogelarten sowie
+zum Schutz des Bereiches III in seinen in Absatz 1 Nummer 2 genannten
+Funktionen gilt § 5 Absatz 2 entsprechend.
+
+
 ## § 6 Verbote
 
 (1) Vorbehaltlich des § 7 sind verboten
@@ -407,8 +454,8 @@ insbesondere
         Unterbereichs Ia,
 
 
-    b)  im Gebiet südlich von Bereich I in der Zeit vom 1. Oktober bis zum 15.
-        Mai sowie
+    b)  im Gebiet südlich von Bereich I und im Bereich III in der Zeit vom 1.
+        Oktober bis zum 15. Mai sowie
 
 
 
@@ -464,11 +511,11 @@ insbesondere
 
 innerhalb des Naturschutzgebietes sind vor ihrer Zulassung oder
 Durchführung auf ihre Verträglichkeit mit dem Schutzzweck nach den §§
-4 und 5 zu prüfen.
+4 bis 5a zu prüfen.
 
 (2) Projekte im Sinne des Absatzes 1 sind zulässig, wenn sie nach § 34
 Absatz 2 des Bundesnaturschutzgesetzes nicht zu erheblichen
-Beeinträchtigungen der für den Schutzzweck nach den §§ 4 und 5
+Beeinträchtigungen der für den Schutzzweck nach den §§ 4 bis 5a
 maßgeblichen Bestandteile des Gebietes führen können oder die
 Anforderungen nach § 34 Absatz 3 bis 5 des Bundesnaturschutzgesetzes
 erfüllen.
@@ -478,14 +525,14 @@ erforderlichen Unterlagen vorzulegen.
 
 (4) Für Projekte im Sinne des Absatzes 1 außerhalb des
 Naturschutzgebietes, die einzeln oder im Zusammenwirken mit anderen
-Projekten oder Plänen geeignet sind, den Schutzzweck nach den §§ 4 und
-5 erheblich zu beeinträchtigen, gelten die Absätze 1 bis 3
+Projekten oder Plänen geeignet sind, den Schutzzweck nach den §§ 4 bis
+5a erheblich zu beeinträchtigen, gelten die Absätze 1 bis 3
 entsprechend.
 
 (5) Für Projekte zur wissenschaftlichen Meeresforschung im
 Naturschutzgebiet, die einzeln oder im Zusammenwirken mit anderen
-Projekten oder Plänen geeignet sind, den Schutzzweck nach den §§ 4 und
-5 erheblich zu beeinträchtigen, und die
+Projekten oder Plänen geeignet sind, den Schutzzweck nach den §§ 4 bis
+5a erheblich zu beeinträchtigen, und die
 
 1.  die Errichtung oder die wesentliche Änderung künstlicher Inseln,
     Anlagen oder Bauwerke vorsehen,
@@ -525,7 +572,7 @@ zuständigen Behörde.
 Naturschutz im Einzelfall auf Antrag eine Ausnahme erteilen, soweit
 die Handlung nach § 34 Absatz 2 des Bundesnaturschutzgesetzes nicht zu
 erheblichen Beeinträchtigungen der für den Schutzzweck nach den §§ 4
-und 5 maßgeblichen Bestandteile des Gebietes führen kann.
+bis 5a maßgeblichen Bestandteile des Gebietes führen kann.
 
 (2) Von den Verboten des § 6 Absatz 1 und 2 kann das Bundesamt für
 Naturschutz auf Antrag nach Maßgabe des § 67 des
@@ -534,7 +581,7 @@ Bundesnaturschutzgesetzes eine Befreiung gewähren.
 
 ## § 9 Bewirtschaftungsplan
 
-(1) Die zur Erreichung des Schutzzwecks nach den §§ 4 und 5
+(1) Die zur Erreichung des Schutzzwecks nach den §§ 4 bis 5a
 notwendigen Maßnahmen einschließlich der erforderlichen
 Wiederherstellungsmaßnahmen werden in einem Bewirtschaftungsplan
 dargestellt. Der Plan kann auch die zur Erreichung des Schutzzwecks
@@ -608,7 +655,8 @@ Kraft.
 
 ## Anlage 1 (zu § 2 Absatz 2, 4 und 5)
 
-(Fundstelle: BGBl. I 2017, 3428)
+(Fundstelle: BGBl. I 2017, 3428;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *   Abschnitt A ****
@@ -690,7 +738,7 @@ Kraft.
     *   6° 56' 17,0" E
 
 
-*    *   SYL13
+*    *   SYL14
 
     *   55° 02' 54,0" N
 
@@ -777,7 +825,7 @@ Kraft.
         *   6° 56' 17,0" E
 
 
-    *        *   SYL13
+    *        *   SYL14
 
         *   55° 02' 54,0" N
 
@@ -847,6 +895,13 @@ Kraft.
 
     *        *   SYL13
 
+        *   54° 59' 49,8" N
+
+        *   7° 16' 09,8" E
+
+
+    *        *   SYL14
+
         *   55° 02' 54,0" N
 
         *   7° 15' 24,0" E
@@ -857,6 +912,53 @@ Kraft.
         *   55° 14' 03,9" N
 
         *   7° 12' 37,9" E
+
+
+
+
+
+**3.** **Geografische Koordinaten des Bereiches III**
+
+    *        *   SYL7
+
+        *   54° 32' 20,0" N
+
+        *   7° 33' 34,0" E
+
+
+    *        *   SYL8
+
+        *   54° 32' 20,0" N
+
+        *   7° 01' 13,0" E
+
+
+    *        *   SYL11
+
+        *   54° 57' 26,0" N
+
+        *   6° 56' 17,0" E
+
+
+    *        *   SYL13
+
+        *   54° 59' 49,8" N
+
+        *   7° 16' 09,8" E
+
+
+    *        *   SYL12
+
+        *   54° 43' 59,0" N
+
+        *   7° 20' 05,0" E
+
+
+    *        *   SYL7
+
+        *   54° 32' 20,0" N
+
+        *   7° 33' 34,0" E“
 
 
 
@@ -888,10 +990,9 @@ Kraft.
 
 
 
-(zu § 2 Absatz 6)
 
-## Anlage 2 Übersichtskarte des Naturschutzgebietes
+## Anlage 2 (zu § 2 Absatz 6) Übersichtskarte des Naturschutzgebietes "Sylter Außenriff - Östliche Deutsche Bucht"
 
-(Fundstelle: Anlageband zum BGBl. I Nr. 63 v. 27.9.2017)
+(Fundstelle: BGBl. 2024 I 397 S. 5)
 
-
+![bgbl1_2024_j03970_0010.jpg](bgbl1_2024_j03970_0010.jpg)

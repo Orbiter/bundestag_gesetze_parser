@@ -25,7 +25,7 @@ Gemäß § 26 des Reichssiedlungsgesetzes vom 11. August 1919
 (Reichsgesetzbl. Nr. 155 S. 1429) wird bestimmt:
 
 
-## - - Zu § 1
+## (XXXX) Zu § 1
 
 1\. Den Landeszentralbehörden bleibt die Bestimmung überlassen, welche
 Siedlungen als solche im Sinne des Reichssiedlungsgesetzes anzusehen
@@ -43,7 +43,7 @@ welcher Weise die Wohnungszentralbehörde des betreffenden Landes an
 der staatlichen Aufsicht über das Siedlungswesen zu beteiligen ist.
 
 
-## - - Zu § 2
+## (XXXX) Zu § 2
 
 1\. Als Staatsdomänen im Sinne der Verordnung gelten sämtliche in
 Staatseigentum oder unter staatlicher Verwaltung stehende Güter, also
@@ -55,7 +55,7 @@ Pachtvertrags den gemeinnützigen Siedlungsunternehmungen angeboten zu
 werden.
 
 
-## - - Zu § 3
+## (XXXX) Zu § 3
 
 Die Entscheidung darüber, was als unbewirtschaftetes oder im Wege der
 dauernden Brennkultur oder zur Torfnutzung verwendetes Moorland oder
@@ -63,7 +63,7 @@ als anderes Ödland anzusprechen ist, treffen die
 Landeszentralbehörden.
 
 
-## - - Zu § 4
+## (XXXX) Zu § 4
 
 Der Begriff "Grundstück" ist im wirtschaftlichen Sinne zu verstehen
 und trifft jeden einheitlich bewirtschafteten landwirtschaftlichen
@@ -73,14 +73,14 @@ Grundbuchblättern eingetragen ist, sondern allein die wirtschaftliche
 Zusammengehörigkeit.
 
 
-## - - Zu § 7
+## (XXXX) Zu § 7
 
 Den Ländern wird es überlassen, notfalls Verwaltungszwangsmaßnahmen
 festzusetzen, um die Besichtigungsbefugnis der Vorkaufsberechtigten zu
 gewährleisten.
 
 
-## - - Zu § 12
+## (XXXX) Zu § 12
 
 1\. ... Zur Übertragung der Aufgaben der Landlieferungsverbände auf die
 gemeinnützigen Siedlungsunternehmungen ist deren Einverständnis
@@ -91,19 +91,19 @@ Kenntlichmachung der Veränderungen durch Zugänge und Abgänge jederzeit
 ersichtlich ist.
 
 
-## - - Zu § 13
+## (XXXX) Zu § 13
 
 Als bereitgestellt für Siedlungszwecke gilt Land, wenn dadurch
 Siedlungen im Sinne des § 1 des Gesetzes begründet werden.
 
 
-## - - Zu § 15
+## (XXXX) Zu § 15
 
 Bei Bemessung der Entschädigung sind etwaige Verbesserungen des Grund
 und Bodens, der Gebäude und des Inventars mitzuberücksichtigen.
 
 
-## - - Zu § 16
+## (XXXX) Zu § 16
 
 1\. Über die Frage, auf welche Güter die Voraussetzungen des § 16
 zutreffen, entscheidet, sofern die Länder nichts anderes bestimmen,
@@ -122,7 +122,7 @@ schaffen oder freiwillig das meiste geeignete Siedlungsland zu
 angemessenem Preise (§ 13 Abs. 1 und 3) bereitstellen.
 
 
-## - - Zu § 18
+## (XXXX) Zu § 18
 
 Welche Kosten dem Erwerbspreis zugerechnet werden dürfen, bleibt der
 Vereinbarung zwischen den Landlieferungsverbänden und den
@@ -131,7 +131,7 @@ Einigung hierüber nicht zustande kommt, entscheidet endgültig der
 ständige Ausschuß (§ 15).
 
 
-## - - Zu § 22
+## (XXXX) Zu § 22
 
 1\. Inländische Arbeiter können als ständig beschäftigt angesehen
 werden, wenn sie mindestens ein Jahr ohne wesentliche Unterbrechung in
@@ -142,21 +142,21 @@ mindestens zwei Jahre lang in einem forstwirtschaftlichen Betrieb
 beschäftigt sind.
 
 
-## - - Zu § 23
+## (XXXX) Zu § 23
 
 Den Ländern bleiben Maßnahmen dahingehend überlassen, wie den gemäß §§
 22 bis 24 mit Pachtland versehenen Arbeitern auf Wunsch die Ansiedlung
 zu Eigentum erleichtert werden kann.
 
 
-## - - Zu § 24
+## (XXXX) Zu § 24
 
 Den Ländern bleibt es überlassen, die Regelung der Rechtsbehelfe gegen
 die Festsetzung der Entschädigung entsprechend den §§ 3 und 15 zu
 treffen.
 
 
-## - - Zu § 25
+## (XXXX) Zu § 25
 
 Den Ländern bleiben Maßnahmen dahingehend überlassen, soweit Land zur
 Hebung bestehender Kleinbetriebe nicht zu Eigentum zur Verfügung
@@ -165,12 +165,12 @@ auf das ihnen zur Verfügung gestellte Land einzuräumen für den Fall,
 daß die Domäne gemäß § 2 bei Ablauf des Pachtvertrags aufgeteilt wird.
 
 
-## - - Zu § 26
+## (XXXX) Zu § 26
 
 -
 
 
-### Schlußformel
+## Schlußformel
 
 Der Reichsarbeitsminister
 

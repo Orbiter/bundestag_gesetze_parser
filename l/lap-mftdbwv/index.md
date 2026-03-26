@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2002, 1031
 
 Zuletzt geändert durch
-:   Art. 59 G v. 20.8.2021 I 3932
+:   Art. 2 Abs. 11 V v. 11.3.2026 I Nr. 67
 
 
 ## Eingangsformel
@@ -164,7 +164,7 @@ Bewerbung sind beizufügen
 5.  gegebenenfalls
 
     a)  eine Ablichtung des Zulassungs- oder Eingliederungsscheins oder der
-        Bestätigung nach § 10 Abs. 4 des Soldatenversorgungsgesetzes und
+        Bestätigung nach § 14 Absatz 3 des Soldatenversorgungsgesetzes und
 
 
     b)  Ablichtungen der Zeugnisse, die bei Beendigung des Grundwehrdienstes
@@ -316,7 +316,7 @@ Bundeswehrverwaltungsschule unterstehen sie auch deren Dienstaufsicht.
 
 (1) Der Vorbereitungsdienst dauert 18 Monate.
 
-(2) Eine Verkürzung des Vorbereitungsdienstes nach § 16 Absatz 1 der
+(2) Eine Verkürzung des Vorbereitungsdienstes nach § 19 Absatz 1 der
 Bundeslaufbahnverordnung ist nur zulässig, wenn das Erreichen des
 Ausbildungsziels nicht gefährdet erscheint. Dabei können der
 zielgerechten Gestaltung des Vorbereitungsdienstes entsprechende
@@ -1338,7 +1338,7 @@ werden.
 
 ### § 37 Anderweitige Zuerkennung der Laufbahnbefähigung
 
-Die anderweitige Zuerkennung der Laufbahnbefähigung nach § 19 Absatz 1
+Die anderweitige Zuerkennung der Laufbahnbefähigung nach § 23 Absatz 1
 der Bundeslaufbahnverordnung durch die oberste Dienstbehörde setzt
 voraus, dass der verwaltungsexterne berufliche Bildungsgang die
 Inhalte des Vorbereitungsdienstes vermittelt hat und die abgelegte

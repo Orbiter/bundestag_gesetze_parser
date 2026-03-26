@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2017, 896
 
 Zuletzt geändert durch
-:   Art. 3 V v. 28.4.2022 I 700
+:   Art. 9 Abs. 3 G v. 30.9.2025 I Nr. 233
 
 Stand: § 4 Abs. 2 und § 6 Abs. 1 u. 3 bis 6 treten gem. § 15 Abs. 2 dieser V am 1.1.2019 in Kraft
 Stand: Ersetzt V 2129-27-2-15 v. 19.6.2002 I 1938 (GewAbfV)
@@ -90,10 +90,9 @@ zurückgeben.
     unterliegen,
 
 
-2.  dem Batteriegesetz vom 25. Juni 2009 (BGBl. I S. 1582), das zuletzt
-    durch Artikel 1 des Gesetzes vom 20. November 2015 (BGBl. I S. 2071)
-    geändert worden ist, in der jeweils geltenden Fassung unterliegen,
-    oder
+2.  der Verordnung (EU) 2023/1542 und dem Batterierecht-
+    Durchführungsgesetz vom 30. September 2025 (BGBl. 2025 I Nr. 233)
+    unterliegen oder
 
 
 3.  einem öffentlich-rechtlichen Entsorgungsträger im Rahmen der

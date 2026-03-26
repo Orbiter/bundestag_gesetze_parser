@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2016, 1284
 
 Zuletzt geändert durch
-:   Art. 2 V v. 7.2.2024 I Nr. 37
+:   Art. 2 Abs. 3 V v. 11.3.2026 I Nr. 67
 
 Stand: Ersetzt V 2030-2-11 v. 18.8.1965 I 902 (SUrlV)
 
@@ -126,7 +126,7 @@ zu fünf Jahre Sonderurlaub unter Wegfall der Besoldung zu gewähren.
 Mit Zustimmung des Bundesministeriums des Innern und für Heimat ist
 Sonderurlaub unter Fortzahlung der Besoldung zu gewähren, wenn
 Beamtinnen oder Beamte im Rahmen eines Aufstiegs in eine Laufbahn des
-gehobenen oder des höheren Dienstes nach § 39 Absatz 1 der
+gehobenen oder des höheren Dienstes nach § 47 der
 Bundeslaufbahnverordnung an Studiengängen außerhalb der Hochschulen
 des Bundes teilnehmen.
 
@@ -594,16 +594,15 @@ gewähren:
 
 
 (2) Abweichend von Absatz 1 Nummer 4 beträgt die Dauer des gewährten
-Sonderurlaubs für die Jahre 2024 und 2025
+Sonderurlaubs im Jahr 2026
 
-1.  für jedes Kind längstens bis zu 13 Arbeitstage im Urlaubsjahr, für
-    alle Kinder zusammen höchstens 30 Arbeitstage im Urlaubsjahr,
+1.  für jedes Kind bis zu 13 Arbeitstage im Urlaubsjahr, für alle Kinder
+    zusammen höchstens 30 Arbeitstage im Urlaubsjahr,
 
 
-2.  bei alleinerziehenden Beamtinnen und Beamten beträgt die Dauer des
-    gewährten Sonderurlaubs für jedes Kind längstens bis zu 26 Arbeitstage
-    im Urlaubsjahr, für alle Kinder zusammen höchstens 60 Arbeitstage im
-    Urlaubsjahr.
+2.  bei alleinerziehenden Beamtinnen und Beamten für jedes Kind bis zu 26
+    Arbeitstage im Urlaubsjahr, für alle Kinder zusammen höchstens 60
+    Arbeitstage im Urlaubsjahr.
 
 
 

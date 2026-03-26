@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2020, 1964
 
+Geändert durch
+:   Art. 4 Abs. 2 G v. 17.12.2024 I Nr. 424
+
 Stand: Ersetzt V 52-5-4 v. 7.2.2016 I 178 (WDOBezV 2016)
 
 ## Eingangsformel
@@ -27,7 +30,7 @@ Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat:
 
 ## § 1 Dienstbezüge und Wehrsold
 
-(1) Dienstbezüge im Sinne der §§ 24, 59 und 126 der
+(1) Dienstbezüge im Sinne der §§ 24, 61 und 130 der
 Wehrdisziplinarordnung sind
 
 1.  das Grundgehalt der jeweiligen Stufe nach den §§ 20 und 27 des
@@ -109,7 +112,7 @@ Wehrdisziplinarordnung sind
 
 
 
-(3) Dienstbezüge im Sinne der §§ 61 bis 63 der Wehrdisziplinarordnung
+(3) Dienstbezüge im Sinne der §§ 63 bis 65 der Wehrdisziplinarordnung
 sind alle auf Grund des Soldatenverhältnisses zu gewährenden Bezüge.
 
 (4) Wehrsold im Sinne des § 24 der Wehrdisziplinarordnung sind für

@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2013, 973, 1011 (3756)
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 3 G v. 9.12.2020 I 2873
+:   Art. 2 G v. 3.7.2024 I Nr. 225
 
 
 ## Abschnitt 1 - Anwendungsbereich und Begriffsbestimmungen
@@ -672,7 +672,9 @@ Vor-Ort-Besichtigung durchzuführen.
 (4) Die zuständige Behörde führt unbeschadet des Absatzes 2 bei
 Ereignissen mit erheblichen Umweltauswirkungen, bei Verstößen gegen
 wasserrechtliche Vorschriften sowie bei Beschwerden wegen ernsthafter
-Umweltbeeinträchtigungen eine Überwachung durch.
+Umweltbeeinträchtigungen unverzüglich und, soweit erforderlich, vor
+der Erteilung, Erneuerung oder Aktualisierung einer Genehmigung oder
+Erlaubnis eine Überwachung durch.
 
 (5) Nach jeder Vor-Ort-Besichtigung erstellt die zuständige Behörde
 einen Bericht mit den relevanten Feststellungen über die Einhaltung

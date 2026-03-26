@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2009, 481
 
 Zuletzt geändert durch
-:   Art. 44 G v. 23.6.2021 I 1858
+:   Art. 34 G v. 6.5.2024 I Nr. 149
 
 
 ## Eingangsformel
@@ -248,13 +248,13 @@ Notrufabfragestelle als Teil der Notrufverbindung zu übermitteln:
 1.  die Rufnummer des Anschlusses, von dem die Notrufverbindung ausgeht,
     auch wenn die Anzeige der Rufnummer im Einzelfall oder dauernd
     ausgeschlossen ist (§ 15 Absatz 1 Satz 3 des Telekommunikation-
-    Telemedien-Datenschutz-Gesetzes),
+    Digitale-Dienste-Datenschutz-Gesetzes),
 
 
 2.  Angaben zum Standort des Endgerätes, von dem die Notrufverbindung
     ausgeht, auch wenn die Übermittlung von Angaben zum Standort im
     Einzelfall oder dauernd ausgeschlossen ist (§ 13 Absatz 3 des
-    Telekommunikation-Telemedien-Datenschutz-Gesetzes), und
+    Telekommunikation-Digitale-Dienste-Datenschutz-Gesetzes), und
 
 
 3.  seine Anbieterkennung.

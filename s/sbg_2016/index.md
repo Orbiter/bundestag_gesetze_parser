@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2016, 2065
 
 Zuletzt geändert durch
-:   Art. 31 G v. 20.8.2021 I 3932
+:   Art. 3 G v. 21.02.2025 I Nr. 55
 
 Stand: Ersetzt G 51-3 v. 16.1.1991 I 47 (SBG)
 
@@ -54,9 +54,9 @@ Angelegenheiten oder Tatsachen, die offenkundig sind oder ihrer
 Bedeutung nach keiner Geheimhaltung bedürfen.
 
 (3) Die Wahrnehmung von Rechten und die Erfüllung von Pflichten nach
-diesem Gesetz gelten als Dienst im Sinne des § 27 des
-Soldatenversorgungsgesetzes oder als Wehrdienst im Sinne des § 81 des
-Soldatenversorgungsgesetzes.
+diesem Gesetz gelten als Dienst im Sinne des § 42 des
+Soldatenversorgungsgesetzes oder als Wehrdienst im Sinne des
+Soldatengesetzes.
 
 
 ## Kapitel 2 - Beteiligung der Soldatinnen und Soldaten durch Vertrauenspersonen
@@ -270,7 +270,20 @@ Dienstbefreiung in entsprechendem Umfang zu gewähren.
 geben, Sprechstunden und Versammlungen innerhalb dienstlicher
 Unterkünfte oder Anlagen abzuhalten, soweit dies zur Wahrnehmung ihrer
 Aufgaben erforderlich ist und zwingende dienstliche Gründe nicht
-entgegenstehen.
+entgegenstehen. Die Sprechstunde kann mittels Video- oder
+Telefonkonferenz durchgeführt werden, wenn
+
+1.  vorhandene Einrichtungen genutzt werden, die durch die Dienststelle
+    zur dienstlichen Nutzung freigegeben sind, und
+
+
+2.  die Vertrauensperson geeignete organisatorische Maßnahmen trifft, um
+    sicherzustellen, dass Dritte vom Inhalt der Besprechung keine Kenntnis
+    nehmen können.
+
+
+
+Eine Aufzeichnung ist unzulässig.
 
 (4) Die durch die Tätigkeit der Vertrauensperson entstehenden Kosten
 trägt die Dienststelle. Die Vertrauensperson erhält bei Reisen, die
@@ -294,13 +307,14 @@ des Bundespersonalvertretungsgesetzes gilt entsprechend.
 stellvertretenden Vertrauenspersonen werden durch die nächste
 Disziplinarvorgesetzte oder den nächsten Disziplinarvorgesetzten
 beurteilt, es sei denn, sie beantragen in den ersten sechs Monaten
-ihrer Amtszeit oder bei Wechsel der oder des nächsten
-Disziplinarvorgesetzten, durch die nächsthöhere Disziplinarvorgesetzte
-oder den nächsthöheren Disziplinarvorgesetzten beurteilt zu werden.
-Ist die Vertrauensperson für den Bereich ihrer oder ihres
-nächsthöheren Disziplinarvorgesetzten gewählt worden, geht auf ihren
-Antrag die Zuständigkeit für die Beurteilung auf deren nächste
-Disziplinarvorgesetzte oder nächsten Disziplinarvorgesetzten über.
+ihrer Amtszeit oder in den ersten sechs Monaten nach dem Wechsel der
+oder des nächsten Disziplinarvorgesetzten, durch die nächsthöhere
+Disziplinarvorgesetzte oder den nächsthöheren Disziplinarvorgesetzten
+beurteilt zu werden. Ist die Vertrauensperson für den Bereich ihrer
+oder ihres nächsthöheren Disziplinarvorgesetzten gewählt worden, geht
+auf ihren Antrag die Zuständigkeit für die Beurteilung auf deren
+nächste Disziplinarvorgesetzte oder nächsten Disziplinarvorgesetzten
+über.
 
 (2) Absatz 1 gilt entsprechend für Soldatinnen und Soldaten, die für
 mindestens ein Viertel des Beurteilungszeitraumes als Vertrauensperson
@@ -316,7 +330,7 @@ Vertrauensperson im Amt ist, mit dem Ablauf des Tages, an dem die
 Amtszeit dieser Vertrauensperson endet. Schließt sich die Amtszeit der
 neu zu wählenden Vertrauensperson nicht unmittelbar an, so verlängert
 sich die Amtszeit der bisherigen Vertrauensperson bis zur Neuwahl,
-jedoch höchstens um zwei Monate.
+jedoch höchstens um drei Monate.
 
 (2) Das Amt der Vertrauensperson endet durch
 
@@ -643,14 +657,25 @@ Schlichtungsausschusses.
 (4) Der Schlichtungsausschuss verhandelt nichtöffentlich und soll
 binnen zwei Monaten nach seiner Anrufung entscheiden. Er entscheidet
 mit Stimmenmehrheit. Bei Stimmengleichheit entscheidet die Stimme der
-oder des Vorsitzenden des Schlichtungsausschusses.
+oder des Vorsitzenden des Schlichtungsausschusses. Die Verhandlung und
+die Beschlussfassung des Schlichtungsausschusses finden in der Regel
+als Präsenzsitzung in Anwesenheit seiner Mitglieder vor Ort statt. Die
+Verhandlung und die Beschlussfassung können vollständig oder unter
+Zuschaltung einzelner Mitglieder mittels Video- und Telefonkonferenz
+durchgeführt werden, wenn nicht ein Mitglied des
+Schlichtungsausschusses binnen einer von der oder dem Vorsitzenden zu
+bestimmenden Frist gegenüber der oder dem Vorsitzenden widerspricht. §
+8 Absatz 3 Satz 2 und 3 gilt entsprechend. Mitglieder, die mittels
+Video- oder Telefonkonferenz an Sitzungen teilnehmen, gelten als
+anwesend.
 
 (5) Kommt in den Fällen des § 25 Absatz 3 Satz 1 Nummer 2 bis 6 eine
 Einigung nicht zustande, gibt der Schlichtungsausschuss eine
 Empfehlung ab. Will die oder der zuständige Vorgesetzte von dieser
 Empfehlung abweichen, hat sie oder er die Angelegenheit der
-zuständigen Inspekteurin oder dem zuständigen Inspekteur binnen zwei
-Wochen auf dem Dienstweg zur Entscheidung vorzulegen. Satz 2 gilt
+zuständigen Inspekteurin oder dem zuständigen Inspekteur oder der
+Inhaberin oder dem Inhaber einer entsprechenden Dienststellung binnen
+zwei Wochen auf dem Dienstweg zur Entscheidung vorzulegen. Satz 2 gilt
 nicht im Fall des § 25 Absatz 3 Satz 1 Nummer 6; in diesem Fall
 entscheidet die zuständige schadensbearbeitende Dienststelle. In den
 Fällen des § 25 Absatz 3 Satz 1 Nummer 7, 9 und 10 gilt § 75 Absatz 2
@@ -894,7 +919,7 @@ Vertrauensperson anzuhören. Sie kann auch Vorschläge machen.
 
 (1) Bei Ermessensentscheidungen der oder des Disziplinarvorgesetzten
 über Maßnahmen der Berufsförderung bestimmt die Vertrauensperson auf
-Antrag der Soldatin oder des Soldaten mit. § 23 Absatz 3 gilt
+Antrag der Soldatin oder des Soldaten mit. § 23 Absatz 5 gilt
 entsprechend.
 
 (2) Berufsförderung im Sinne des Absatzes 1 umfasst berufsbildende
@@ -905,24 +930,24 @@ berufsfördernde und berufsbildende Maßnahmen.
 #### § 28 Ahndung von Dienstvergehen
 
 (1) Wollen Disziplinarvorgesetzte Disziplinarmaßnahmen verhängen, so
-haben sie oder hat ein von ihnen beauftragter Offizier die
-Vertrauensperson vor der Entscheidung zur Person der Soldatin oder des
-Soldaten, zum Sachverhalt und zum Disziplinarmaß anzuhören, außer im
-Fall der ausdrücklichen Ablehnung der Soldatin oder des Soldaten.
-
-(2) Beabsichtigt die Einleitungsbehörde, gegen eine Soldatin oder
-einen Soldaten ein gerichtliches Disziplinarverfahren einzuleiten, so
-hat die Einleitungsbehörde oder die von ihr bestimmte Stelle die
-Vertrauensperson zur Person der Soldatin oder des Soldaten und zum
-Sachverhalt anzuhören, außer im Fall der ausdrücklichen Ablehnung der
-Soldatin oder des Soldaten.
-
-(3) Der Sachverhalt ist der Vertrauensperson vor Beginn der Anhörung
-bekannt zu geben. Ein Recht auf Einsicht in Unterlagen und Akten
-besteht nur mit Einwilligung der betroffenen Person.
-
-(4) Über die Anhörung der Vertrauensperson ist ein Protokoll
+haben sie die Vertrauensperson vor der Entscheidung zur Person der
+Soldatin oder des Soldaten, zum Sachverhalt und zum Disziplinarmaß
+anzuhören, es sei denn, die Soldatin oder der Soldat lehnt dies
+ausdrücklich ab. Mit der Anhörung kann auch eine Offizierin oder ein
+Offizier beauftragt werden. Der Sachverhalt ist der Vertrauensperson
+vor Beginn der Anhörung bekannt zu geben. Ein Recht auf Einsicht in
+Unterlagen und Akten besteht nur mit Einwilligung der betroffenen
+Person. Über die Anhörung der Vertrauensperson ist ein Protokoll
 anzufertigen, das zu den Akten zu nehmen ist.
+
+(2) In einem gerichtlichen Disziplinarverfahren gegen eine Soldatin
+oder einen Soldaten hat das Truppendienstgericht in der
+Hauptverhandlung die Vertrauensperson zur Person der Soldatin oder des
+Soldaten und zum Sachverhalt anzuhören, es sei denn, die Soldatin oder
+der Soldat lehnt dies ausdrücklich ab. Die Vertrauensperson schöpft
+ihre Kenntnis des Sachverhalts aus dem Inbegriff der Hauptverhandlung
+bis zum Schluss der Beweisaufnahme. § 21 ist in gerichtlichen
+Disziplinarverfahren nicht anzuwenden.
 
 
 #### § 29 Förmliche Anerkennungen, Bestpreise
@@ -980,9 +1005,12 @@ Bestimmungen der Wehrbeschwerdeordnung Folgendes betrifft:
 (2) Betrifft die Beschwerde persönliche Kränkungen, soll die
 Vertrauensperson der Beschwerdeführerin oder des Beschwerdeführers und
 der oder des Betroffenen angehört werden. Bei Beschwerden in
-Personalangelegenheiten im Sinne des § 24 Absatz 1 und 2 ist die
-Vertrauensperson nur auf Antrag der Beschwerdeführerin oder des
-Beschwerdeführers anzuhören, die oder der hierauf hinzuweisen ist.
+Personalangelegenheiten im Sinne des § 24 Absatz 1 soll die
+Vertrauensperson angehört werden, es sei denn, die Beschwerdeführerin
+oder der Beschwerdeführer lehnt die Anhörung ausdrücklich ab. Bei
+Beschwerden in Personalangelegenheiten im Sinne des § 24 Absatz 2 wird
+die Vertrauensperson, außer im Falle der ausdrücklichen Ablehnung der
+Beschwerdeführerin oder des Beschwerdeführers, angehört.
 
 
 #### § 32 Vermittlung durch die Vertrauensperson
@@ -1075,7 +1103,7 @@ gewählt sind. Zu diesen Versammlungen treten jeweils bis zu drei
 Vertrauenspersonen der unterstellten selbständigen Einheiten und
 Verbände oder vergleichbarer militärischer Dienststellen hinzu.
 
-(3) § 33 Absatz 4 bis 7, die §§ 35 und 36 Absatz 1 bis 5 finden
+(3) § 33 Absatz 4 bis 7, die §§ 35 und 36 Absatz 1 bis 5 und 7 finden
 entsprechend Anwendung mit der Maßgabe, dass die Versammlungen nach
 den Absätzen 1 und 2 abweichend von § 36 Absatz 1 Satz 1 anlassbezogen
 zusammentreten.
@@ -1103,7 +1131,8 @@ erforderlichen Umfang freizustellen.
 Vertrauenspersonen der Verbände und ihre Stellvertreterinnen und
 Stellvertreter kommen einmal jährlich zu einer
 Fortbildungsveranstaltung zusammen. Die Inspekteurinnen und
-Inspekteure entscheiden über die Ebene, in der die
+Inspekteure und die Inhaberinnen und Inhaber einer entsprechenden
+Dienststellung entscheiden über die Ebene, in der die
 Fortbildungsveranstaltungen durchzuführen sind.
 
 (4) § 12 gilt mit der Maßgabe, dass anstelle der oder des
@@ -1144,7 +1173,15 @@ jede Teilnehmerin und jeder Teilnehmer einzutragen hat.
 
 (5) Die Versammlung der Vertrauenspersonen kann ergänzende Regelungen
 in einer Geschäftsordnung treffen, die sie mit der Mehrheit der
-Stimmen der Mitglieder beschließt.
+Stimmen der Mitglieder beschließt. In der Geschäftsordnung kann die
+Beschlussfassung im elektronischen Verfahren vorgesehen werden. § 8
+Absatz 3 Satz 2 gilt entsprechend. Die Beschlussfassung im
+elektronischen Verfahren ist unzulässig, wenn ein Mitglied der
+Versammlung binnen einer von der Sprecherin oder dem Sprecher zu
+bestimmenden Frist gegenüber der Sprecherin oder dem Sprecher
+widerspricht. Die Sprecherin oder der Sprecher gibt das Ergebnis der
+Beschlussfassung im elektronischen Verfahren spätestens in der
+nächsten Sitzung der Versammlung bekannt.
 
 (6) Ist im Bereich einer Versammlung der Vertrauenspersonen des
 Verbands ein Personalrat gebildet, soll zur Behandlung gemeinsamer
@@ -1158,33 +1195,18 @@ der Vertrauenspersonen an den Sitzungen des Personalrats.
 Präsenzsitzung in Anwesenheit ihrer Mitglieder vor Ort statt. Die
 Versammlung kann vollständig oder unter Zuschaltung einzelner
 Mitglieder mittels Video- oder Telefonkonferenz durchgeführt werden,
-wenn
-
-1.  vorhandene Einrichtungen genutzt werden, die durch die Dienststelle
-    zur dienstlichen Nutzung freigegeben sind,
-
-
-2.  nicht mindestens ein Viertel der Mitglieder der Versammlung der
-    Vertrauenspersonen binnen einer von der Sprecherin oder dem Sprecher
-    zu bestimmenden Frist gegenüber der Sprecherin oder dem Sprecher
-    widerspricht und
-
-
-3.  die Versammlung der Vertrauenspersonen geeignete organisatorische
-    Maßnahmen trifft, um sicherzustellen, dass Dritte vom Inhalt der
-    Sitzung keine Kenntnis nehmen können.
-
-
-
-Eine Aufzeichnung ist unzulässig. Mitglieder, die mittels Video- oder
-Telefonkonferenz an Sitzungen teilnehmen, gelten als anwesend im Sinne
-der Absätze 2 und 3. Absatz 4 Satz 2 zweiter Halbsatz findet mit der
-Maßgabe Anwendung, dass die Sprecherin oder der Sprecher vor Beginn
-der Beratung die zugeschalteten Mitglieder feststellt und in die
-Anwesenheitsliste einträgt. Das Recht eines Mitglieds der Versammlung
-der Vertrauenspersonen auf Teilnahme an der Sitzung vor Ort bleibt
-durch die Durchführung der Sitzung mittels Video- oder
-Telefonkonferenz unberührt.
+wenn nicht mindestens ein Viertel der Mitglieder der Versammlung der
+Vertrauenspersonen binnen einer von der Sprecherin oder dem Sprecher
+zu bestimmenden Frist gegenüber der Sprecherin oder dem Sprecher
+widerspricht. § 8 Absatz 3 Satz 2 und 3 gilt entsprechend. Mitglieder,
+die mittels Video- oder Telefonkonferenz an Sitzungen teilnehmen,
+gelten als anwesend im Sinne der Absätze 2 und 3. Absatz 4 Satz 2
+zweiter Halbsatz ist mit der Maßgabe anzuwenden, dass die Sprecherin
+oder der Sprecher vor Beginn der Beratung die zugeschalteten
+Mitglieder feststellt und in die Anwesenheitsliste einträgt. Das Recht
+eines Mitglieds der Versammlung der Vertrauenspersonen auf Teilnahme
+an der Sitzung vor Ort bleibt durch die Durchführung der Sitzung
+mittels Video- oder Telefonkonferenz unberührt.
 
 
 ### Abschnitt 2 - Vertrauenspersonenausschüsse
@@ -1197,8 +1219,8 @@ Telefonkonferenz unberührt.
 1.  der Gesamtvertrauenspersonenausschuss sowie
 
 
-2.  die Vertrauenspersonenausschüsse der militärischen
-    Organisationsbereiche.
+2.  die Vertrauenspersonenausschüsse bei den unmittelbar dem
+    Bundesministerium der Verteidigung nachgeordneten Kommandos.
 
 
 
@@ -1212,18 +1234,17 @@ nachfolgend nichts anderes bestimmt ist.
 
 (1) Beim Bundesministerium der Verteidigung wird ein
 Gesamtvertrauenspersonenausschuss mit 35 Mitgliedern gebildet. In ihm
-sollen die Soldatinnen und Soldaten der militärischen
-Organisationsbereiche sowie der Dienststellen, die keinem
-militärischen Organisationsbereich angehören, nach Laufbahngruppen
-angemessen vertreten sein. Die Mitglieder der Gruppe der Soldatinnen
-und Soldaten im Hauptpersonalrat beim Bundesministerium der
-Verteidigung treten dem Gesamtvertrauenspersonenausschuss als weitere
-Mitglieder hinzu.
+sollen die Soldatinnen und Soldaten der Kommandobereiche im Sinne des
+§ 39 Absatz 1 sowie der Dienststellen, die keinem dieser Bereiche
+angehören, nach Laufbahngruppen angemessen vertreten sein. Die
+Mitglieder der Gruppe der Soldatinnen und Soldaten im Hauptpersonalrat
+beim Bundesministerium der Verteidigung treten dem
+Gesamtvertrauenspersonenausschuss als weitere Mitglieder hinzu.
 
-(2) Die einem militärischen Organisationsbereich angehörenden
+(2) Die einem Kommandobereich im Sinne des § 39 Absatz 1 angehörenden
 Mitglieder des Gesamtvertrauenspersonenausschusses bilden jeweils eine
-Gruppe. Die Mitglieder, die keinem militärischen Organisationsbereich
-angehören, bilden zusammen eine weitere Gruppe.
+Gruppe. Die Mitglieder, die keinem solchen Bereich angehören, bilden
+zusammen eine weitere Gruppe.
 
 (3) Der Gesamtvertrauenspersonenausschuss wird bei Grundsatzregelungen
 des Bundesministeriums der Verteidigung im personellen, sozialen und
@@ -1236,17 +1257,18 @@ Vertrauenspersonen ein solches einräumt. Gleiches gilt bei
 Grundsatzregelungen im personellen, sozialen und organisatorischen
 Bereich von Stellen, die dem Bundesministerium der Verteidigung
 nachgeordnet sind, wenn diese Grundsatzregelungen Wirkung auf mehrere
-Organisationsbereiche oder den gesamten Geschäftsbereich des
-Bundesministeriums der Verteidigung entfalten. Die Sätze 1 bis 4
-finden keine Anwendung auf die Vorbereitung von Gesetzen oder auf den
-Erlass von Rechtsverordnungen. Erhebungen mittels Fragebogen sind
+Kommandobereiche im Sinne des § 39 Absatz 1 oder Organisationsbereiche
+oder auf den gesamten Geschäftsbereich des Bundesministeriums der
+Verteidigung entfalten. Die Sätze 1 bis 4 finden keine Anwendung auf
+die Vorbereitung von Gesetzen oder auf den Erlass von
+Rechtsverordnungen. Erhebungen mittels Fragebogen sind
 Grundsatzregelungen gleichgestellt, sofern sie solche vorbereiten.
 
 (4) Kommt in Mitbestimmungsangelegenheiten, die Soldatinnen und
 Soldaten betreffen, zwischen dem Bundesministerium der Verteidigung
 und dem Gesamtvertrauenspersonenausschuss keine Einigung zustande,
 können diese Mitbestimmungsangelegenheiten einem Schlichtungsausschuss
-vorgelegt werden. Dieser besteht abweichend von § 23 Absatz 2 aus je
+vorgelegt werden. Dieser besteht abweichend von § 23 Absatz 3 aus je
 drei vom Bundesministerium der Verteidigung und vom
 Gesamtvertrauenspersonenausschuss bestimmten Beisitzerinnen oder
 Beisitzern sowie einer oder einem einvernehmlich berufenen
@@ -1256,56 +1278,42 @@ der Verteidigung aus, das auf Grundlage der Empfehlung endgültig
 entscheidet.
 
 
-#### § 39 Vertrauenspersonenausschüsse der militärischen Organisationsbereiche
+#### § 39 Vertrauenspersonenausschüsse bei den unmittelbar dem Bundesministerium der Verteidigung nachgeordneten Kommandos
 
 (1) Bei den unmittelbar dem Bundesministerium der Verteidigung
-nachgeordneten Kommandos der militärischen Organisationsbereiche
-werden Vertrauenspersonenausschüsse der militärischen
-Organisationsbereiche gebildet. In ihnen sollen die Laufbahngruppen
-angemessen vertreten sein. Sie setzen sich zusammen aus
+nachgeordneten Kommandos werden Vertrauenspersonenausschüsse gebildet,
+sofern in deren Kommandobereichen mindestens zwei Versammlungen der
+Vertrauenspersonen nach § 33 oder § 34 zu bilden sind. Sie setzen sich
+zusammen aus je einem Mitglied pro angefangenen 4 000 zu vertretenden
+Soldatinnen und Soldaten, mindestens aber sechs Mitgliedern. In ihnen
+sollen die Laufbahngruppen angemessen vertreten sein.
 
-1.  13 Mitgliedern beim Organisationsbereich Heer,
-
-
-2.  sieben Mitgliedern bei den Organisationsbereichen Streitkräftebasis
-    und Luftwaffe sowie
-
-
-3.  fünf Mitgliedern bei den Organisationsbereichen Marine, Zentraler
-    Sanitätsdienst der Bundeswehr sowie Cyber- und Informationsraum.
-
-
-
-
-(2) Die Vertrauenspersonenausschüsse der militärischen
-Organisationsbereiche werden bei Grundsatzregelungen ihres
-Organisationsbereichs im personellen, sozialen und organisatorischen
-Bereich angehört, sofern diese Grundsatzregelungen Soldatinnen und
-Soldaten betreffen. Sie können in diesen Angelegenheiten auch vor
-einer Anhörung Anregungen geben. Die Vertrauenspersonenausschüsse der
-militärischen Organisationsbereiche haben bei Grundsatzregelungen ein
-Vorschlags- oder Mitbestimmungsrecht, sofern dieses Gesetz
-Vertrauenspersonen ein solches einräumt. Gleiches gilt bei
-Grundsatzregelungen im personellen, sozialen und organisatorischen
-Bereich von Stellen, die dem Kommando des militärischen
-Organisationsbereichs nachgeordnet sind, wenn diese
+(2) Die Vertrauenspersonenausschüsse im Sinne des Absatzes 1 werden
+bei Grundsatzregelungen ihres Kommandobereichs im personellen,
+sozialen und organisatorischen Bereich angehört, sofern diese
+Grundsatzregelungen Soldatinnen und Soldaten betreffen. Sie können in
+diesen Angelegenheiten auch vor einer Anhörung Anregungen geben. Sie
+haben bei Grundsatzregelungen ein Vorschlags- oder
+Mitbestimmungsrecht, sofern dieses Gesetz Vertrauenspersonen ein
+solches einräumt. Gleiches gilt bei Grundsatzregelungen im
+personellen, sozialen und organisatorischen Bereich von Stellen, die
+den Kommandos im Sinne des Absatzes 1 nachgeordnet sind, wenn diese
 Grundsatzregelungen Soldatinnen und Soldaten betreffen und Wirkung auf
-den jeweiligen Organisationsbereich entfalten. Erhebungen mittels
+den jeweiligen Kommandobereich entfalten. Erhebungen mittels
 Fragebogen sind Grundsatzregelungen gleichgestellt, sofern sie solche
 vorbereiten.
 
 (3) Kommt in Mitbestimmungsangelegenheiten, die Soldatinnen und
-Soldaten betreffen, zwischen dem Kommando eines militärischen
-Organisationsbereichs und dem bei ihm gebildeten
-Vertrauenspersonenausschuss keine Einigung zustande, können diese
-Mitbestimmungsangelegenheiten einem Schlichtungsausschuss vorgelegt
-werden. Dieser besteht abweichend von § 23 Absatz 2 aus je zwei
-Vertreterinnen oder Vertretern des Kommandos und des
-Vertrauenspersonenausschusses sowie einer oder einem einvernehmlich
-berufenen unparteiischen Vorsitzenden. Der Schlichtungsausschuss
-verhandelt nicht öffentlich. Er spricht eine Empfehlung an den
-militärischen Organisationsbereich aus, der auf Grundlage der
-Empfehlung endgültig entscheidet.
+Soldaten betreffen, zwischen dem Kommando im Sinne des Absatzes 1 und
+dem bei ihm gebildeten Vertrauenspersonenausschuss keine Einigung
+zustande, können diese Mitbestimmungsangelegenheiten einem
+Schlichtungsausschuss vorgelegt werden. Dieser besteht abweichend von
+§ 23 Absatz 3 aus je zwei Vertreterinnen oder Vertretern des Kommandos
+im Sinne des Absatzes 1 und des Vertrauenspersonenausschusses sowie
+einer oder einem einvernehmlich berufenen unparteiischen Vorsitzenden.
+Der Schlichtungsausschuss verhandelt nicht öffentlich. Er spricht eine
+Empfehlung an das Kommando im Sinne des Absatzes 1 aus, das auf
+Grundlage der Empfehlung endgültig entscheidet.
 
 
 #### § 40 Wahl des Gesamtvertrauenspersonenausschusses
@@ -1322,7 +1330,7 @@ Monate gebildet wurde, und die Mitglieder des
 Gesamtvertrauenspersonenausschusses. Satz 1 gilt für Wahlberechtigte,
 die zum Zeitpunkt der Wahl zu Lehrgängen oder anderen Dienststellen
 kommandiert sind, mit der Maßgabe, dass sie ausschließlich im
-Organisationsbereich ihres Stammtruppenteils wählbar sind.
+Kommandobereich ihres Stammtruppenteils wählbar sind.
 
 (3) Für die Durchführung der Wahlen des
 Gesamtvertrauenspersonenausschusses wird beim Bundesministerium der
@@ -1330,35 +1338,36 @@ Verteidigung ein zentraler Wahlvorstand gebildet. Der zentrale
 Wahlvorstand besteht aus fünf Soldatinnen oder Soldaten sowie fünf
 Ersatzmitgliedern, die das Bundesministerium der Verteidigung auf
 Vorschlag des Gesamtvertrauenspersonenausschusses beruft. Jeder
-militärische Organisationsbereich soll vertreten sein.
+Kommandobereich im Sinne des § 39 Absatz 1 soll vertreten sein.
 
 (4) Das Bundesministerium der Verteidigung trägt die Kosten der Wahl.
 
 
-#### § 41 Wahl der Vertrauenspersonenausschüsse der militärischen Organisationsbereiche
+#### § 41 Wahl der Vertrauenspersonenausschüsse bei den unmittelbar dem Bundesministerium der Verteidigung nachgeordneten Kommandos
 
-(1) Die Mitglieder der Vertrauenspersonenausschüsse der militärischen
-Organisationsbereiche werden in allgemeiner, unmittelbarer, freier,
-gleicher und geheimer Wahl gewählt. Wahlberechtigt sind alle
-Vertrauenspersonen des jeweiligen militärischen Organisationsbereichs,
-die sich 21 Kalendertage vor dem Wahltag im Amt befinden.
+(1) Die Mitglieder der Vertrauenspersonenausschüsse im Sinne des § 39
+Absatz 1 werden in allgemeiner, unmittelbarer, freier, gleicher und
+geheimer Wahl gewählt. Wahlberechtigt sind alle Vertrauenspersonen des
+jeweiligen Kommandobereichs im Sinne des § 39 Absatz 1, die sich 21
+Kalendertage vor dem Wahltag im Amt befinden.
 
 (2) Wählbar sind alle Wahlberechtigten nach Absatz 1, die
 Vertrauenspersonen eines Wahlbereichs sind, der für mindestens drei
 Monate gebildet wurde, und die jeweiligen Mitglieder der
-Vertrauenspersonenausschüsse der militärischen Organisationsbereiche.
-Satz 1 gilt für Wahlberechtigte, die zum Zeitpunkt der Wahl zu
-Lehrgängen oder anderen Dienststellen kommandiert sind, mit der
-Maßgabe, dass sie ausschließlich im Organisationsbereich ihres
-Stammtruppenteils wählbar sind.
+Vertrauenspersonenausschüsse im Sinne des § 39 Absatz 1. Satz 1 gilt
+für Wahlberechtigte, die zum Zeitpunkt der Wahl zu Lehrgängen oder
+anderen Dienststellen kommandiert sind, mit der Maßgabe, dass sie
+ausschließlich im Kommandobereich ihres Stammtruppenteils wählbar
+sind.
 
 (3) Für die Durchführung der Wahlen der Vertrauenspersonenausschüsse
-der militärischen Organisationsbereiche werden in den
-Organisationsbereichen Wahlvorstände gebildet. Diese Wahlvorstände
-bestehen aus drei Soldatinnen oder Soldaten sowie drei
-Ersatzmitgliedern. Diese werden in den militärischen
-Organisationsbereichen von der jeweiligen Inspekteurin oder vom
-jeweiligen Inspekteur auf Vorschlag des Vertrauenspersonenausschusses
+im Sinne des § 39 Absatz 1 werden in den Kommandobereichen
+Wahlvorstände gebildet. Diese Wahlvorstände bestehen aus drei
+Soldatinnen oder Soldaten sowie drei Ersatzmitgliedern. Diese werden
+in den Kommandos im Sinne des § 39 Absatz 1 von der jeweiligen
+Inspekteurin oder dem jeweiligen Inspekteur oder von der jeweiligen
+Inhaberin oder dem jeweiligen Inhaber einer entsprechenden
+Dienststellung auf Vorschlag des Vertrauenspersonenausschusses
 berufen. Jede Laufbahngruppe soll vertreten sein.
 
 (4) Die Dienststelle trägt die Kosten der Wahl.
@@ -1393,7 +1402,7 @@ mit dessen Amtszeit. Sie erlischt
     erlangen,
 
 
-5.  durch Versetzung aus dem jeweiligen Organisationsbereich,
+5.  durch Versetzung aus dem jeweiligen Kommandobereich,
 
 
 6.  durch Versetzung zu einer Dienststelle, in der Soldatinnen und
@@ -1448,10 +1457,11 @@ Das Bundesverwaltungsgericht entscheidet unter entsprechender
 Anwendung der Wehrbeschwerdeordnung.
 
 (5) Absatz 4 gilt entsprechend für die Abberufung eines Mitglieds
-eines Vertrauenspersonenausschusses der militärischen
-Organisationsbereiche durch das zuständige Truppendienstgericht mit
-der Maßgabe, dass die jeweilige Inspekteurin oder der jeweilige
-Inspekteur oder ein Viertel der Mitglieder des jeweiligen
+eines Vertrauenspersonenausschusses im Sinne des § 39 Absatz 1 durch
+das zuständige Truppendienstgericht mit der Maßgabe, dass die
+jeweilige Inspekteurin oder der jeweilige Inspekteur oder die
+jeweilige Inhaberin oder der jeweilige Inhaber einer entsprechenden
+Dienststellung oder ein Viertel der Mitglieder des jeweiligen
 Vertrauenspersonenausschusses antragsberechtigt ist und das
 Truppendienstgericht entscheidet. Gegen die Entscheidung des
 Truppendienstgerichts kann Rechtsbeschwerde nach der
@@ -1473,7 +1483,11 @@ Dienststellen sollen diese bei ihrer Entscheidung berücksichtigen.
 Berücksichtigen sie die Stellungnahmen oder Anregungen nicht, sind dem
 Ausschuss die Gründe hierfür mitzuteilen. Die Maßnahme gilt als
 gebilligt, wenn der Vertrauenspersonenausschuss nicht innerhalb der
-genannten Frist schriftlich Einwendungen erhebt.
+genannten Frist schriftlich oder elektronisch Einwendungen erhebt. Die
+Dienststelle und der bei ihr gebildete Vertrauenspersonenausschuss
+können im Einzelfall oder für die Dauer der Amtszeit des
+Vertrauenspersonenausschusses schriftlich oder elektronisch eine von
+Satz 2 abweichende Frist vereinbaren.
 
 (2) Die Dienststellen können bei Maßnahmen, die der Natur der Sache
 nach keinen Aufschub dulden, bis zur endgültigen Entscheidung
@@ -1505,7 +1519,7 @@ der betreffenden Person den Beginn der Mitgliedschaft mit.
 
 (2) In den Gesamtvertrauenspersonenausschuss rückt für das
 ausgeschiedene Mitglied die Bewerberin oder der Bewerber aus demselben
-Organisationsbereich nach.
+Kommandobereich oder Organisationsbereich nach.
 
 (3) Scheidet ein Mitglied aus und stehen keine Bewerberinnen oder
 Bewerber zum Nachrücken in den Vertrauenspersonenausschuss nach Absatz
@@ -1529,8 +1543,8 @@ vier Monate, wird das ausgeschiedene Mitglied nicht ersetzt.
 
 (6) Ist ein Mitglied eines Vertrauenspersonenausschusses zeitweilig
 verhindert, tritt als Ersatzmitglied die Bewerberin oder der Bewerber
-mit der nächstniedrigeren Stimmenzahl aus demselben
-Organisationsbereich ein. Das Ersatzmitglied soll derselben
+mit der nächstniedrigeren Stimmenzahl aus demselben Kommandobereich
+oder Organisationsbereich ein. Das Ersatzmitglied soll derselben
 Laufbahngruppe wie das ausgeschiedene Mitglied angehören.
 
 
@@ -1551,27 +1565,25 @@ Gesamtvertrauenspersonenausschuss
 
 Bei Stimmengleichheit entscheidet das Los.
 
-(2) In der ersten Sitzung der Vertrauenspersonenausschüsse der
-militärischen Organisationsbereiche wählen diese unter Leitung der
-oder des Vorsitzenden des Wahlvorstands des jeweiligen militärischen
-Organisationsbereichs eine Sprecherin oder einen Sprecher und zwei
-Stellvertreterinnen oder Stellvertreter. Bei Stimmengleichheit
-entscheidet das Los.
+(2) In der ersten Sitzung der Vertrauenspersonenausschüsse im Sinne
+des § 39 Absatz 1 wählen diese unter Leitung der oder des Vorsitzenden
+des Wahlvorstands des jeweiligen Kommandos seine Sprecherin oder einen
+Sprecher und zwei Stellvertreterinnen oder Stellvertreter. Bei
+Stimmengleichheit entscheidet das Los.
 
 (3) Die Sprecherin oder der Sprecher des
 Gesamtvertrauenspersonenausschusses führt die laufenden Geschäfte und
 vertritt die Beschlüsse des Gremiums gegenüber dem Bundesministerium
-der Verteidigung. In Angelegenheiten, die nur einen
-Organisationsbereich betreffen, vertritt die Beschlüsse des
-Gesamtvertrauenspersonenausschusses die Sprecherin oder der Sprecher
-gemeinsam mit der jeweiligen Bereichssprecherin oder dem jeweiligen
-Bereichssprecher.
+der Verteidigung. In Angelegenheiten, die nur einen Kommandobereich im
+Sinne des § 39 Absatz 1 oder nur einen Organisationsbereich betreffen,
+vertritt die Beschlüsse des Gesamtvertrauenspersonenausschusses die
+Sprecherin oder der Sprecher gemeinsam mit der jeweiligen
+Bereichssprecherin oder dem jeweiligen Bereichssprecher.
 
 (4) Die Sprecherinnen oder Sprecher der Vertrauenspersonenausschüsse
-der militärischen Organisationsbereiche führen die laufenden Geschäfte
-und vertreten die Beschlüsse ihres Vertrauenspersonenausschusses
-gegenüber dem jeweiligen Kommando des militärischen
-Organisationsbereichs.
+im Sinne des § 39 Absatz 1 führen die laufenden Geschäfte und
+vertreten die Beschlüsse ihres Vertrauenspersonenausschusses gegenüber
+dem jeweiligen Kommando.
 
 (5) Jeder Vertrauenspersonenausschuss gibt sich eine Geschäftsordnung,
 die er mit der Mehrheit seiner Mitglieder beschließt.
@@ -1605,11 +1617,12 @@ Gesamtvertrauenspersonenausschusses können jeweils Beauftragte von
 Berufsorganisationen der Soldatinnen und Soldaten und deren
 Gewerkschaften an der Sitzung beratend teilnehmen.
 
-(3) Die Vertrauenspersonenausschüsse der militärischen
-Organisationsbereiche können die jeweilige Inspekteurin oder den
-jeweiligen Inspekteur oder Vertreterinnen oder Vertreter des
-jeweiligen Kommandos des militärischen Organisationsbereichs zu den
-Sitzungen einladen. Absatz 2 Satz 2 gilt entsprechend.
+(3) Die Vertrauenspersonenausschüsse im Sinne des § 39 Absatz 1 können
+die jeweilige Inspekteurin oder den jeweiligen Inspekteur oder die
+jeweilige Inhaberin oder den jeweiligen Inhaber einer entsprechenden
+Dienststellung oder Vertreterinnen oder Vertreter des jeweiligen
+Kommandos zu den Sitzungen einladen. Absatz 2 Satz 2 gilt
+entsprechend.
 
 
 #### § 48 Beschlussfassung
@@ -1621,8 +1634,8 @@ mindestens die Hälfte seiner Mitglieder anwesend ist.
 Stimmengleichheit ist der Antrag abgelehnt.
 
 (3) In Angelegenheiten des Bundesministeriums der Verteidigung, die
-einzelne Organisationsbereiche betreffen, wirken im
-Gesamtvertrauenspersonenausschuss nur die Mitglieder der jeweiligen
+einzelne Kommandobereiche oder Organisationsbereiche betreffen, wirken
+im Gesamtvertrauenspersonenausschuss nur die Mitglieder der jeweiligen
 Gruppe mit. Dies gilt nicht, wenn eine Gruppe nicht oder nicht mehr
 vertreten ist.
 
@@ -1662,13 +1675,12 @@ Sofern eine Angelegenheit, an der der
 Gesamtvertrauenspersonenausschuss zu beteiligen ist, als
 Verschlusssache mindestens des Geheimhaltungsgrades „VS-Vertraulich“
 eingestuft ist, tritt an dessen Stelle ein Verschlusssachenausschuss
-mit fünf Mitgliedern. In den Vertrauenspersonenausschüssen der
-militärischen Organisationsbereiche hat der Verschlusssachenausschuss
-mindestens drei Mitglieder. Die Mitglieder des
-Verschlusssachenausschusses werden aus der Mitte des jeweiligen
-Vertrauenspersonenausschusses gewählt und müssen ermächtigt sein,
-Kenntnis von Verschlusssachen des in Betracht kommenden
-Geheimhaltungsgrades zu erhalten.
+mit fünf Mitgliedern. In den Vertrauenspersonenausschüssen im Sinne
+des § 39 Absatz 1 hat der Verschlusssachenausschuss mindestens drei
+Mitglieder. Die Mitglieder des Verschlusssachenausschusses werden aus
+der Mitte des jeweiligen Vertrauenspersonenausschusses gewählt und
+müssen ermächtigt sein, Kenntnis von Verschlusssachen des in Betracht
+kommenden Geheimhaltungsgrades zu erhalten.
 
 
 #### § 52 Anfechtung der Wahl
@@ -1683,25 +1695,24 @@ worden und eine Berichtigung nicht erfolgt ist. Satz 1 gilt nicht,
 wenn durch den Verstoß das Wahlergebnis nicht verändert oder
 beeinflusst werden konnte.
 
-(2) Für die Wahl der Vertrauenspersonenausschüsse der militärischen
-Organisationsbereiche gilt Absatz 1 mit der Maßgabe, dass die Wahl von
-drei Wahlberechtigten oder dem jeweiligen Kommando des militärischen
-Organisationsbereichs beim zuständigen Truppendienstgericht
-angefochten werden kann.
+(2) Für die Wahl der Vertrauenspersonenausschüsse im Sinne des § 39
+Absatz 1 gilt Absatz 1 mit der Maßgabe, dass die Wahl von drei
+Wahlberechtigten oder dem jeweiligen Kommando beim zuständigen
+Truppendienstgericht angefochten werden kann.
 
 (3) Das zuständige Gericht entscheidet unter entsprechender Anwendung
 der Wehrbeschwerdeordnung. Anstelle der ehrenamtlichen Richterinnen
-und Richter nach den §§ 75 und 80 der Wehrdisziplinarordnung gehört
+und Richter nach den §§ 77 und 82 der Wehrdisziplinarordnung gehört
 der Kammer oder dem Senat des Wehrdienstgerichts jeweils eine
 ehrenamtliche Richterin oder ein ehrenamtlicher Richter aus den
 Laufbahngruppen der Offiziere, Unteroffiziere und Mannschaften an, die
 oder der aus der Mitte der Vertrauenspersonen zu berufen ist.
 
-(4) Das Bundesministerium der Verteidigung und die Kommandos der
-militärischen Organisationsbereiche sind auch im Fall, dass sie die
-Wahl nicht selbst angefochten haben, Beteiligte des
-Wahlanfechtungsverfahrens. Beteiligt ist ferner der
-Vertrauenspersonenausschuss, dessen Wahl angefochten wurde.
+(4) Das Bundesministerium der Verteidigung und die Kommandos im Sinne
+des § 39 Absatz 1 sind auch im Fall, dass sie die Wahl nicht selbst
+angefochten haben, Beteiligte des Wahlanfechtungsverfahrens. Beteiligt
+ist ferner der Vertrauenspersonenausschuss, dessen Wahl angefochten
+wurde.
 
 
 ## Kapitel 4 - Beteiligung in besonderen Verwendungen im Ausland
@@ -1913,8 +1924,8 @@ wahrgenommen werden, hat die Gruppe der Soldatinnen und Soldaten im
 Personalrat ein entsprechendes Beschwerderecht nach § 17.
 
 (4) In Angelegenheiten im Sinne von § 39 Absatz 2, von denen nur
-Soldatinnen und Soldaten betroffen sind, werden in den militärischen
-Organisationsbereichen neben den Vertrauenspersonenausschüssen auch
+Soldatinnen und Soldaten betroffen sind, werden in den Kommandos im
+Sinne des § 39 Absatz 1 neben den Vertrauenspersonenausschüssen auch
 die dort gebildeten Bezirkspersonalräte beteiligt.
 
 (5) Ist in einem Organisationsbereich ein Vertrauenspersonenausschuss
@@ -1976,13 +1987,9 @@ ergibt, im Amt.
 Inkrafttreten dieses Gesetzes der Wahlvorstand bestellt worden ist.
 
 (3) Die Wahl der erstmalig zu bildenden Vertrauenspersonenausschüsse
-der militärischen Organisationsbereiche ist unverzüglich nach
-Inkrafttreten dieses Gesetzes einzuleiten. Bei der erstmaligen Wahl
-der Vertrauenspersonenausschüsse der militärischen
-Organisationsbereiche sind auch die dem jeweiligen militärischen
-Organisationsbereich angehörigen Mitglieder des
-Gesamtvertrauenspersonenausschusses beim Bundesministerium der
-Verteidigung wählbar.
+im Sinne des § 39 Absatz 1 ist unverzüglich nach Inkrafttreten dieses
+Gesetzes einzuleiten.
 
-(4) (weggefallen)
+(4) § 28 Absatz 2 gilt nicht für gerichtliche Disziplinarverfahren,
+die vor dem 1. April 2025 eingeleitet worden sind.
 

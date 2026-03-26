@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1975, 3015
 
 Zuletzt geändert durch
-:   Art. 2a G v. 22.12.2023 I Nr. 408
+:   Art. 62 Abs. 3 G v. 4.2.2026 I Nr. 33
 
 Mittelbare änderung durch
 :   Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war
@@ -727,9 +727,15 @@ genommen werden:
 Träger der Sozialen Entschädigung. Bei der Durchführung der
 Krankenbehandlung wirken die Träger der gesetzlichen
 Krankenversicherung und bei der Durchführung der Hilfsmittelversorgung
-die Träger der gesetzlichen Unfallversicherung mit. Für die Leistungen
-nach den §§ 80, 81a bis 83a des Soldatenversorgungsgesetzes ist die
-Bundeswehrverwaltung zuständig.
+die Träger der gesetzlichen Unfallversicherung mit.
+
+
+#### § 24a Leistungen der Soldatenentschädigung
+
+Die Entschädigung für Soldatinnen und Soldaten sowie frühere
+Soldatinnen und Soldaten richtet sich nach dem
+Soldatenentschädigungsgesetz. Zuständig für die Durchführung ist die
+Bundeswehrverwaltung.
 
 
 #### § 25 Kindergeld, Kinderzuschlag, Elterngeld und Leistungen für Bildung und Teilhabe
@@ -933,8 +939,9 @@ Menschen können in Anspruch genommen werden
 
 4.  unterhaltssichernde und andere ergänzende Leistungen, insbesondere
 
-    a)  Krankengeld, Krankengeld der Sozialen Entschädigung, Verletztengeld,
-        Übergangsgeld, Ausbildungsgeld oder Unterhaltsbeihilfe,
+    a)  Krankengeld, Krankengeld der Sozialen Entschädigung, Krankengeld der
+        Soldatenentschädigung, Verletztengeld, Übergangsgeld, Ausbildungsgeld
+        oder Unterhaltsbeihilfe,
 
 
     b)  Beiträge zur gesetzlichen Kranken-, Unfall-, Renten- und
@@ -960,7 +967,7 @@ Menschen können in Anspruch genommen werden
 
 
 
-(2) Zuständig sind die in den §§ 19 bis 24, 27 und 28 genannten
+(2) Zuständig sind die in den §§ 19 bis 24a, 27 und 28 genannten
 Leistungsträger und die Integrationsämter.
 
 
@@ -1086,13 +1093,13 @@ Datenstelle der Rentenversicherung, die in diesem Gesetzbuch genannten
 öffentlich-rechtlichen Vereinigungen, Integrationsfachdienste, die
 Künstlersozialkasse, die Deutsche Post AG, soweit sie mit der
 Berechnung oder Auszahlung von Sozialleistungen betraut ist, die
-Behörden der Zollverwaltung, soweit sie Aufgaben nach § 2 des
-Schwarzarbeitsbekämpfungsgesetzes und § 66 des Zehnten Buches
+Behörden der Zollverwaltung, soweit sie Aufgaben nach § 2 oder § 25
+des Schwarzarbeitsbekämpfungsgesetzes und § 66 des Zehnten Buches
 durchführen, die Versicherungsämter und Gemeindebehörden sowie die
 anerkannten Adoptionsvermittlungsstellen (§ 2 Absatz 3 des
 Adoptionsvermittlungsgesetzes), soweit sie Aufgaben nach diesem
 Gesetzbuch wahrnehmen, und die Stellen, die Aufgaben nach § 67c Absatz
-3 des Zehnten Buches wahrnehmen. Die Beschäftigten haben auch nach
+4 des Zehnten Buches wahrnehmen. Die Beschäftigten haben auch nach
 Beendigung ihrer Tätigkeit bei den genannten Stellen das
 Sozialgeheimnis zu wahren.
 
@@ -1288,6 +1295,13 @@ verwenden. Die Sätze 1 und 2 gelten entsprechend für die
 Leistungserbringer nach dem Fünften und dem Elften Buch und die von
 ihnen gebildeten Organisationen.
 
+(5) Die Identifizierung und Authentifizierung der Nutzer im Sinne des
+§ 2 Absatz 4 Nummer 1 des Onlinezugangsgesetzes für die
+Inanspruchnahme elektronischer Verwaltungsleistungen nach dem
+Sozialgesetzbuch kann in Ergänzung zum zentralen Bürgerkonto nach § 3
+Absatz 1 Satz 1 des Onlinezugangsgesetzes auch über die Nutzerkonten
+der Leistungsträger erfolgen.
+
 
 #### § 37 Vorbehalt abweichender Regelungen
 
@@ -1428,15 +1442,21 @@ bei einem Geldinstitut, für das die Verordnung (EU) Nr. 260/2012 des
 Europäischen Parlaments und des Rates vom 14. März 2012 zur Festlegung
 der technischen Vorschriften und der Geschäftsanforderungen für
 Überweisungen und Lastschriften in Euro und zur Änderung der
-Verordnung (EG) Nr. 924/2009 (ABl. L 94 vom 30.3.2012, S. 22) gilt,
-überwiesen oder, wenn der Empfänger es verlangt, an seinen Wohnsitz
-oder gewöhnlichen Aufenthalt innerhalb des Geltungsbereiches dieser
-Verordnung übermittelt. Werden Geldleistungen an den Wohnsitz oder an
-den gewöhnlichen Aufenthalt des Empfängers übermittelt, sind die
-dadurch veranlassten Kosten von den Geldleistungen abzuziehen. Dies
-gilt nicht, wenn der Empfänger nachweist, dass ihm die Einrichtung
-eines Kontos bei einem Geldinstitut ohne eigenes Verschulden nicht
-möglich ist.
+Verordnung (EG) Nr. 924/2009 (ABl. L 94 vom 30.3.2012, S. 22), die
+zuletzt durch die Verordnung (EU) 2024/886 (ABl. L, 2024/886,
+19\.3.2024) geändert worden ist, gilt, überwiesen. Abweichend von Satz
+1 werden Geldleistungen kostenfrei an den Wohnsitz oder gewöhnlichen
+Aufenthalt des Empfängers innerhalb des Geltungsbereiches der in Satz
+1 genannten Verordnung übermittelt, wenn
+
+1.  der Empfänger nachweist, dass ihm die Einrichtung eines Kontos bei
+    einem Geldinstitut ohne eigenes Verschulden nicht möglich ist, oder
+
+
+2.  die Auszahlung im Einzelfall keinen Aufschub duldet.
+
+
+
 
 (2) Bei Zahlungen außerhalb des Geltungsbereiches der in Absatz 1
 genannten Verordnung trägt der Leistungsträger die Kosten bis zu dem
@@ -1769,8 +1789,11 @@ Verwaltungsverfahren über sie anhängig ist.
 Satz 1 gilt entsprechend für denjenigen, der Leistungen zu erstatten
 hat.
 
-(2) Soweit für die in Absatz 1 Satz 1 Nr. 1 und 2 genannten Angaben
-Vordrucke vorgesehen sind, sollen diese benutzt werden.
+(2) Soweit für die in Absatz 1 Satz 1 Nummer 1 und 2 genannten Angaben
+Vordrucke vorgesehen sind, sollen diese benutzt werden. Soweit diese
+Vordrucke als elektronische Formulare über öffentlich zugängliche
+Netze oder in einem Eingabegerät zur Verfügung stehen, sollen diese
+vorrangig benutzt werden.
 
 
 #### § 61 Persönliches Erscheinen
@@ -1869,14 +1892,14 @@ notwendig anerkennt.
 #### § 66 Folgen fehlender Mitwirkung
 
 (1) Kommt derjenige, der eine Sozialleistung beantragt oder erhält,
-seinen Mitwirkungspflichten nach den §§ 60 bis 62, 65 nicht nach und
-wird hierdurch die Aufklärung des Sachverhalts erheblich erschwert,
-kann der Leistungsträger ohne weitere Ermittlungen die Leistung bis
-zur Nachholung der Mitwirkung ganz oder teilweise versagen oder
-entziehen, soweit die Voraussetzungen der Leistung nicht nachgewiesen
-sind. Dies gilt entsprechend, wenn der Antragsteller oder
-Leistungsberechtigte in anderer Weise absichtlich die Aufklärung des
-Sachverhalts erheblich erschwert.
+seinen Mitwirkungspflichten nach § 60 Absatz 1, den §§ 61, 62 und 65
+nicht nach und wird hierdurch die Aufklärung des Sachverhalts
+erheblich erschwert, kann der Leistungsträger ohne weitere
+Ermittlungen die Leistung bis zur Nachholung der Mitwirkung ganz oder
+teilweise versagen oder entziehen, soweit die Voraussetzungen der
+Leistung nicht nachgewiesen sind. Dies gilt entsprechend, wenn der
+Antragsteller oder Leistungsberechtigte in anderer Weise absichtlich
+die Aufklärung des Sachverhalts erheblich erschwert.
 
 (2) Kommt derjenige, der eine Sozialleistung wegen
 Pflegebedürftigkeit, wegen Arbeitsunfähigkeit, wegen Gefährdung oder
@@ -1979,9 +2002,7 @@ als dessen besondere Teile:
 17. der Fünfte Abschnitt des Schwangerschaftskonfliktgesetzes,
 
 
-18. die §§ 80 bis 83a des Soldatenversorgungsgesetzes, soweit sie die
-    entsprechende Anwendung des Bundesversorgungsgesetzes in der bis zum
-    31\. Dezember 2023 geltenden Fassung vorsehen.
+18. das Soldatenentschädigungsgesetz.
 
 
 
@@ -2008,10 +2029,6 @@ soweit diese nach dem 30. März 2005 ganz oder teilweise zu Unrecht
 erbracht werden.
 
 
-### § 72 Übergangsregelung aus Anlass des Gesetzes zur Regelung des Sozialen Entschädigungsrechts
+### § 72 (weggefallen)
 
-Für Personen, die Leistungen nach dem Soldatenversorgungsgesetz in
-Verbindung mit dem Bundesversorgungsgesetz erhalten, gilt die
-Vorschrift des § 29 Absatz 1 Nummer 4 Buchstabe a in der bis zum 31.
-Dezember 2023 geltenden Fassung weiter.
 

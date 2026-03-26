@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2005, 2354
 
 Zuletzt geändert durch
-:   Art. 6 G v. 10.8.2021 I 3436
-
-Änderung durch
-:   Art. 34 Abs. 5 G v. 22.12.2023 I Nr. 411 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 3 G v. 15.7.2024 I Nr. 236
 
 
 
@@ -74,7 +71,7 @@ nach der Zustellungsvordruckverordnung zu verwenden.
 Übergabe oder mittels Einschreiben mit Rückschein zugestellt werden.
 
 (2) Zum Nachweis der Zustellung genügt der Rückschein. Im Übrigen gilt
-das Dokument am dritten Tag nach der Aufgabe zur Post als zugestellt,
+das Dokument am vierten Tag nach der Aufgabe zur Post als zugestellt,
 es sei denn, dass es nicht oder zu einem späteren Zeitpunkt zugegangen
 ist. Im Zweifel hat die Behörde den Zugang und dessen Zeitpunkt
 nachzuweisen. Der Tag der Aufgabe zur Post ist in den Akten zu
@@ -156,7 +153,7 @@ lassen, der das Dokument zur Übermittlung aufgegeben hat.
 mit Datum und Unterschrift versehene Empfangsbekenntnis, das an die
 Behörde durch die Post oder elektronisch zurückzusenden ist. Ein
 elektronisches Dokument gilt in den Fällen des Absatzes 5 Satz 2 am
-dritten Tag nach der Absendung an den vom Empfänger hierfür eröffneten
+vierten Tag nach der Absendung an den vom Empfänger hierfür eröffneten
 Zugang als zugestellt, wenn der Behörde nicht spätestens an diesem Tag
 ein Empfangsbekenntnis nach Satz 1 zugeht. Satz 2 gilt nicht, wenn der
 Empfänger nachweist, dass das Dokument nicht oder zu einem späteren
@@ -190,7 +187,7 @@ gelten § 371 Absatz 1 Satz 2 und § 371a Absatz 3 der
 Zivilprozessordnung.
 
 (4) Ein elektronisches Dokument gilt in den Fällen des § 5 Absatz 5
-Satz 2 am dritten Tag nach der Absendung an das De-Mail-Postfach des
+Satz 2 am vierten Tag nach der Absendung an das De-Mail-Postfach des
 Empfängers als zugestellt, wenn er dieses Postfach als Zugang eröffnet
 hat und der Behörde nicht spätestens an diesem Tag eine elektronische
 Abholbestätigung nach § 5 Absatz 9 des De-Mail-Gesetzes zugeht. Satz 1

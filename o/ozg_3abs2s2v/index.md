@@ -1,5 +1,5 @@
 ---
-Title: Verordnung nach § 3 Absatz 2 Satz 2 des Onlinezugangsgesetzes
+Title: Verordnung nach § 3 Absatz 2 des Onlinezugangsgesetzes
 jurabk: OZG§3Abs2S2V
 layout: default
 origslug: ozg_3abs2s2v
@@ -7,13 +7,16 @@ slug: ozg_3abs2s2v
 
 ---
 
-# Verordnung nach § 3 Absatz 2 Satz 2 des Onlinezugangsgesetzes (OZG§3Abs2S2V)
+# Verordnung nach § 3 Absatz 2 des Onlinezugangsgesetzes (OZG§3Abs2S2V)
 
 Ausfertigungsdatum
 :   2021-09-22
 
 Fundstelle
 :   BGBl I: 2021, 4370
+
+Geändert durch
+:   Art. 7 G v. 19.7.2024 I Nr. 245
 
 
 ## Eingangsformel
@@ -28,11 +31,10 @@ Bau und Heimat:
 
 Dem Freistaat Bayern sowie der Freien Hansestadt Bremen wird gemeinsam
 die Aufgabe übertragen, für die Identifizierung und Authentifizierung
-von juristischen Personen, Vereinigungen, denen ein Recht zustehen
-kann, natürlichen Personen, die gewerblich oder beruflich tätig sind,
-und Behörden im Portalverbund nach dem Onlinezugangsgesetz ein
-Nutzerkonto in Form eines einheitlichen Organisationskontos bereit zu
-stellen.
+von Unternehmen im Sinne des § 3 Absatz 2 des
+Unternehmensbasisdatenregistergesetzes und Behörden im Portalverbund
+nach dem Onlinezugangsgesetz ein Nutzerkonto in Form eines
+einheitlichen Organisationskontos bereitzustellen.
 
 
 ## § 2 Inkrafttreten

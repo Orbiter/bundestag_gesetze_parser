@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2018, 891
 
 Zuletzt geändert durch
-:   Art. 11 V v. 8.1.2020 I 27
+:   Art. 4 V v. 6.3.2025 I Nr. 78
 
 
 ## § 1 Regelungsgegenstand
@@ -479,7 +479,12 @@ jeweils sechs Monate der getrennten Haushaltsführung eine
 Reisebeihilfe für eine Heimfahrt. Die oberste Dienstbehörde kann
 insbesondere unter Berücksichtigung der Besonderheiten des Dienstortes
 und der persönlichen Situation des Betroffenen Ausnahmen zulassen;
-dies gilt auch für Fälle des § 12 Absatz 7.
+dies gilt auch für Fälle des § 12 Absatz 7. Das Bundesministerium der
+Verteidigung kann insbesondere unter Berücksichtigung der
+Besonderheiten des Dienstortes und der persönlichen Situation des
+Betroffenen in seinem Geschäftsbereich auch Ledigen ohne eigene
+Wohnung Reisebeihilfen für Heimfahrten im gleichen Umfang wie den nach
+§ 4 Absatz 2 berechtigten Personen gewähren.
 
 (2) Der Anspruchszeitraum beginnt mit dem ersten Tag, für den
 Auslandstrennungsgeld zusteht.

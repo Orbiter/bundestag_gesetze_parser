@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2007, 2631
 
 Zuletzt geändert durch
-:   Art. 4 G v. 11.4.2024 I Nr. 119
+:   Art. 4 G v. 3.2.2026 I Nr. 28
 
 
 ## Teil 1 - Allgemeiner Teil
@@ -433,14 +433,16 @@ und Bedürfnisse des Versicherungsnehmers im Zusammenhang mit den
 Versicherungsprodukten, die Teil des Pakets oder derselben
 Vereinbarung sind, zu ermitteln.
 
-(5) Wird eine Restschuldversicherung als Nebenprodukt oder als Teil
-eines Pakets oder derselben Vereinbarung angeboten, ist der
-Versicherungsnehmer eine Woche nach Abgabe seiner Vertragserklärung
-für das Versicherungsprodukt erneut in Textform über sein
-Widerrufsrecht zu belehren. Das Informationsblatt zu
-Versicherungsprodukten ist dem Versicherungsnehmer mit dieser
-Belehrung erneut zur Verfügung zu stellen. Die Widerrufsfrist beginnt
-nicht vor Zugang dieser Unterlagen.
+(5) Der Versicherer darf einen Restschuldversicherungsvertrag, der
+sich auf einen Allgemein-Verbraucherdarlehensvertrag bezieht, nur dann
+schließen, wenn der Versicherungsnehmer die Vertragserklärung
+frühestens eine Woche nach Abschluss des Allgemein-
+Verbraucherdarlehensvertrags abgegeben hat. Verstößt der Versicherer
+gegen diese Verpflichtung, so ist der Restschuldversicherungsvertrag
+nichtig. Der Versicherungsnehmer eines Gruppenversicherungsvertrags
+für Restschuldversicherungen hat gegenüber der versicherten Person die
+Pflichten eines Versicherers. Die versicherte Person hat die Rechte
+eines Versicherungsnehmers, insbesondere das Widerrufsrecht.
 
 
 ##### § 7b Information bei Versicherungsanlageprodukten
@@ -612,17 +614,8 @@ Zielen und anderen kundenspezifischen Merkmalen des
 Versicherungsnehmers entspricht.
 
 
-##### § 7d Beratung, Information und Widerruf bei bestimmten Gruppenversicherungen
+##### § 7d (weggefallen)
 
-Der Versicherungsnehmer eines Gruppenversicherungsvertrags für
-Restschuldversicherungen hat gegenüber der versicherten Person die
-Beratungs- und Informationspflichten eines Versicherers. Die
-versicherte Person hat die Rechte eines Versicherungsnehmers,
-insbesondere das Widerrufsrecht. Über dieses Widerrufsrecht ist eine
-Woche nach Abgabe der Vertragserklärung erneut in Textform zu
-belehren. Das Informationsblatt zu Versicherungsprodukten ist mit
-dieser Belehrung erneut zur Verfügung zu stellen. Die Widerrufsfrist
-beginnt nicht vor Zugang dieser Unterlagen.
 
 
 ##### § 8 Widerrufsrecht des Versicherungsnehmers; Verordnungsermächtigung
@@ -4847,7 +4840,8 @@ Versicherer.
 
 ### Anlage Muster für die Widerrufsbelehrung
 
-(Fundstelle: BGBl I 2021, 1687 – 1690)
+(Fundstelle: BGBl I 2021, 1687 – 1690, bzgl. der einzelnen Änderungen
+vgl. Fußnote)
 
 *    *   *Widerrufsbelehrung* ****
 
@@ -5327,8 +5321,8 @@ Versicherer.
 *    *   *
 
     *   Der Punkt **„der Versicherungsschein,“**                      entfällt
-        bei Belehrung der versicherten Person eines Vertrages gemäß § 7d des
-        Versicherungsvertragsgesetzes (VVG).
+        bei Belehrung der versicherten Person eines Vertrages gemäß § 7a
+        Absatz 5 Satz 3 und 4 des Versicherungsvertragsgesetzes (VVG).
 
 
 *    *   *
@@ -5347,17 +5341,7 @@ Versicherer.
 
 *    *   *
 
-    *   Bei Restschuldversicherungen, die als Nebenprodukt oder als Teil eines
-        Pakets oder derselben Vereinbarung angeboten werden (§ 7a Absatz 5
-        VVG), sowie bei Belehrung der versicherten Person eines Vertrages
-        gemäß § 7d VVG ist folgender Satz einzufügen:
-
-
-*    *
-    *   **„Die Widerrufsfrist beginnt zudem nicht, bevor Ihnen mindestens eine
-        Woche nach Abgabe Ihrer Vertragserklärung die Belehrung über das
-        Widerrufsrecht und das Informationsblatt zu Versicherungsprodukten
-        erneut in Textform zugegangen sind.“**
+    *   (weggefallen)
 
 
 *    *   *
@@ -5482,8 +5466,8 @@ Versicherer.
 
 *    *   *
 
-    *   Bei Belehrung der versicherten Person eines Vertrages nach § 7d VVG
-        lautet der Klammerzusatz „der versicherten Person“.
+    *   Bei Belehrung der versicherten Person eines Vertrages nach § 7a Absatz
+        5 Satz 3 und 4 VVG lautet der Klammerzusatz „der versicherten Person“.
 
 
 *    *   *

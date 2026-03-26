@@ -18,7 +18,7 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 10.8.2007 I 1902;
 
-Stand: zuletzt geändert Art. 1 G v. 20.12.2023 I Nr. 390
+Stand: zuletzt geändert Art. 5 Abs. 1 G v. 11.6.2024 I Nr. 185
 
 ## Erster Abschnitt - Allgemeine Bestimmungen
 
@@ -891,8 +891,8 @@ Verteilungsverfahren oder dem Standesamt
 
 
 4.  im Falle der Führung eines gemeinsamen Familiennamens durch Ehegatten
-    einen Ehenamen nach § 1355 Abs. 1 des Bürgerlichen Gesetzbuchs
-    bestimmen und eine Erklärung nach § 1355 Abs. 4 des Bürgerlichen
+    einen Ehenamen nach § 1355 Absatz 1 bis 3 des Bürgerlichen Gesetzbuchs
+    bestimmen und eine Erklärung nach § 1355a Absatz 1 des Bürgerlichen
     Gesetzbuchs abgeben,
 
 

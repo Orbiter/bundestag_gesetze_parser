@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2009, 2702, 2704
 
 Zuletzt geändert durch
-:   Art. 245 V v. 31.8.2015 I 1474
+:   Art. 1 G v. 30.9.2025 I Nr. 231
 
 
 ## § 1 Kreditermächtigungen
@@ -39,6 +39,26 @@ Ablauf des Haushaltsjahres, für das sie aufgenommen worden sind,
 fällig werden.
 
 
+## § 1a Bereichsausnahme
+
+(1) Ausgaben der Bereichsausnahme sind die Verteidigungsausgaben, die
+Ausgaben des Bundes für den Zivil- und Bevölkerungsschutz sowie für
+die Nachrichtendienste, für den Schutz der informationstechnischen
+Systeme und für die Hilfe für völkerrechtswidrig angegriffene Staaten,
+soweit es sich bei diesen Ausgaben nicht um finanzielle Transaktionen
+gemäß § 3 handelt. Die nähere Bestimmung der von Satz 1 umfassten
+Ausgaben erfolgt im Haushaltsgesetz.
+
+(2) Von den Einnahmen aus Krediten zur Deckung von Ausgaben ist für
+die Zwecke dieses Gesetzes der Betrag abzuziehen, um den die Ausgaben
+der Bereichsausnahme 1 Prozent im Verhältnis zum nominalen
+Bruttoinlandsprodukt übersteigen. Maßgeblich ist das nominale
+Bruttoinlandsprodukt gemäß § 4.
+
+(3) Von Absatz 1 nicht umfasste Ausgaben sind Ausgaben außerhalb der
+Bereichsausnahme.
+
+
 ## § 2 Grundsätze für die Veranschlagung von Kreditaufnahmen zur Deckung von Ausgaben
 
 (1) Einnahmen und Ausgaben sind bei der Veranschlagung in einer
@@ -58,11 +78,11 @@ Entwicklung auf den Haushalt entsprechen.
 
 ## § 3 Bereinigung um finanzielle Transaktionen
 
-Aus den Ausgaben nach § 2 Absatz 1 erster Halbsatz sind die Ausgaben
-für den Erwerb von Beteiligungen, für Tilgungen an den öffentlichen
-Bereich und für die Darlehensvergabe herauszurechnen, aus den
-Einnahmen nach § 2 Absatz 1 erster Halbsatz diejenigen aus der
-Veräußerung von Beteiligungen, aus der Kreditaufnahme beim
+Aus den Ausgaben nach § 2 Absatz 1 Satz 1 erster Halbsatz sind die
+Ausgaben für den Erwerb von Beteiligungen, für Tilgungen an den
+öffentlichen Bereich und für die Darlehensvergabe herauszurechnen, aus
+den Einnahmen nach § 2 Absatz 1 Satz 1 erster Halbsatz diejenigen aus
+der Veräußerung von Beteiligungen, aus der Kreditaufnahme beim
 öffentlichen Bereich sowie aus Darlehensrückflüssen.
 
 
@@ -111,7 +131,7 @@ Im Falle von Naturkatastrophen oder außergewöhnlichen Notsituationen,
 die sich der Kontrolle des Staates entziehen und die staatliche
 Finanzlage erheblich beeinträchtigen, können die Kreditgrenzen nach §
 2 aufgrund eines Beschlusses des Bundestages nach Artikel 115 Absatz 2
-Satz 6 des Grundgesetzes überschritten werden. Dieser Beschluss ist
+Satz 7 des Grundgesetzes überschritten werden. Dieser Beschluss ist
 mit einem Tilgungsplan zu verbinden. Die Rückführung der nach Satz 1
 aufgenommenen Kredite hat binnen eines angemessenen Zeitraumes zu
 erfolgen.
@@ -123,14 +143,17 @@ erfolgen.
 nach Abschluss des betreffenden Haushaltsjahres auf der Grundlage der
 tatsächlichen Wirkung der konjunkturellen Entwicklung auf den Haushalt
 nach § 2 als Obergrenze ergibt, wird diese Abweichung auf einem
-Verrechnungskonto (Kontrollkonto) verbucht. Soweit von der
-Ausnahmeregelung des Artikels 115 Absatz 2 Satz 6 des Grundgesetzes
-Gebrauch gemacht worden ist, ist der zu verbuchende Betrag um die
-aufgrund des entsprechenden Beschlusses erhöhte Nettokreditaufnahme zu
-bereinigen. Die zu verbuchende Abweichung wird jährlich zum 1. März
-des dem Haushaltsjahr folgenden Jahres festgestellt und im weiteren
-Jahresverlauf aktualisiert, abschließend zum 1. September des dem
-Haushaltsjahr folgenden Jahres.
+Verrechnungskonto (Kontrollkonto) verbucht. Für die Berechnung des
+Abzugs von den zu berücksichtigenden Einnahmen aus Krediten aufgrund
+der Bereichsausnahme nach § 1a sind die im Haushaltsjahr tatsächlich
+geleisteten Ausgaben maßgeblich. Soweit von der Ausnahmeregelung des
+Artikels 115 Absatz 2 Satz 7 des Grundgesetzes Gebrauch gemacht worden
+ist, ist der zu verbuchende Betrag um die aufgrund des entsprechenden
+Beschlusses erhöhte Nettokreditaufnahme zu bereinigen. Die zu
+verbuchende Abweichung wird jährlich zum 1. März des dem Haushaltsjahr
+folgenden Jahres festgestellt und im weiteren Jahresverlauf
+aktualisiert, abschließend zum 1. September des dem Haushaltsjahr
+folgenden Jahres.
 
 (2) Bei negativem Saldo ist auf einen Ausgleich des Kontrollkontos
 hinzuwirken. Der negative Saldo des Kontrollkontos soll einen
@@ -159,17 +182,5 @@ die erwartete wirtschaftliche Entwicklung aktualisiert. Die Regelungen
 des § 7 bleiben unberührt.
 
 
-## § 9 Übergangsregelung
-
-(1) Dieses Gesetz ist erstmals auf den Bundeshaushalt des Jahres 2011
-anzuwenden.
-
-(2) § 2 Absatz 1 findet im Zeitraum vom 1. Januar 2011 bis zum 31.
-Dezember 2015 mit der Maßgabe Anwendung, dass das strukturelle Defizit
-des Haushaltsjahres 2010 ab dem Jahr 2011 in gleichmäßigen Schritten
-zurückgeführt wird.
-
-(3) § 7 gilt mit der Maßgabe, dass mit Wirkung zum 31. Dezember 2015
-der über die Haushaltsjahre 2011 bis 2015 kumulierte Saldo des
-Kontrollkontos gelöscht wird.
+## § 9 (weggefallen)
 

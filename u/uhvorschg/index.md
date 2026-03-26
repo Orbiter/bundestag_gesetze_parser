@@ -1,6 +1,6 @@
 ---
 Title: Gesetz zur Sicherung des Unterhalts von Kindern alleinstehender Mütter und
-  Väter durch Unterhaltsvorschüsse oder -ausfalleistungen
+  Väter durch Unterhaltsvorschüsse oder -ausfallleistungen
 jurabk: UhVorschG
 layout: default
 origslug: uhvorschg
@@ -8,7 +8,7 @@ slug: uhvorschg
 
 ---
 
-# Gesetz zur Sicherung des Unterhalts von Kindern alleinstehender Mütter und Väter durch Unterhaltsvorschüsse oder -ausfalleistungen (UhVorschG)
+# Gesetz zur Sicherung des Unterhalts von Kindern alleinstehender Mütter und Väter durch Unterhaltsvorschüsse oder -ausfallleistungen (UhVorschG)
 
 Ausfertigungsdatum
 :   1979-07-23
@@ -20,7 +20,7 @@ Neugefasst durch
 :   Bek. v. 17.7.2007 I 1446;
 
 Zuletzt geändert durch
-:   Art. 13 G v. 23.5.2022 I 760
+:   Art. 44 G v. 2.12.2024 I Nr. 387
 
 
 ## § 1 Berechtigte
@@ -104,17 +104,20 @@ Absatz 1 Nummer 2
         Absatz 1 des Aufenthaltsgesetzes zum Zweck der Beschäftigung als Au-
         Pair oder zum Zweck der Saisonbeschäftigung, nach § 19e des
         Aufenthaltsgesetzes zum Zweck der Teilnahme an einem Europäischen
-        Freiwilligendienst oder nach § 20 Absatz 1 und 2 des
-        Aufenthaltsgesetzes zur Arbeitsplatzsuche erteilt,
+        Freiwilligendienst oder nach § 20a Absatz 5 Satz 1 des
+        Aufenthaltsgesetzes zur Suche nach einer Erwerbstätigkeit oder nach
+        Maßnahmen zur Anerkennung ausländischer Berufsqualifikationen erteilt,
 
 
     b)  nach § 16b des Aufenthaltsgesetzes zum Zweck eines Studiums, nach §
         16d des Aufenthaltsgesetzes für Maßnahmen zur Anerkennung
-        ausländischer Berufsqualifikationen oder nach § 20 Absatz 3 des
-        Aufenthaltsgesetzes zur Arbeitsplatzsuche erteilt und er ist weder
-        erwerbstätig noch nimmt er Elternzeit nach § 15 des Bundeselterngeld-
-        und Elternzeitgesetzes oder laufende Geldleistungen nach dem Dritten
-        Buch Sozialgesetzbuch in Anspruch,
+        ausländischer Berufsqualifikationen, nach § 20 des Aufenthaltsgesetzes
+        zur Suche nach einer Erwerbstätigkeit oder nach § 20a Absatz 5 Satz 2
+        des Aufenthaltsgesetzes zur Suche nach einer Erwerbstätigkeit oder
+        nach Maßnahmen zur Anerkennung ausländischer Berufsqualifikationen
+        erteilt und er ist weder erwerbstätig noch nimmt er Elternzeit nach §
+        15 des Bundeselterngeld- und Elternzeitgesetzes oder laufende
+        Geldleistungen nach dem Dritten Buch Sozialgesetzbuch in Anspruch,
 
 
     c)  nach § 23 Absatz 1 des Aufenthaltsgesetzes wegen eines Krieges in
@@ -210,19 +213,26 @@ Einkünfte und Erträge nach den Sätzen 1 und 2 sind nur zur Hälfte zu
 berücksichtigen.
 
 
-## § 3 (weggefallen)
+## § 3 Dauer und Bewilligung der Unterhaltsleistung
+
+Die Unterhaltsleistung wird bis zum Entfallen des Anspruchs auf die
+Unterhaltsleistung erbracht und für diese Dauer bewilligt.
 
 
+## § 4 Beginn und beschränkte Rückwirkung der Unterhaltsleistung
 
-## § 4 Beschränkte Rückwirkung
+(1) Die Unterhaltsleistung wird erbracht, sobald ein wirksamer Antrag
+gestellt wurde und die Anspruchsvoraussetzungen für die
+Unterhaltsleistung vorliegen. Liegen alle Anspruchsvoraussetzungen für
+die Unterhaltsleistung am Beginn des Kalendermonats vor, in dem der
+Antrag gestellt wurde, so besteht der Anspruch auf die
+Unterhaltsleistung ab Beginn dieses Kalendermonats.
 
-Die Unterhaltsleistung wird rückwirkend längstens für den letzten
-Monat vor dem Monat gezahlt, in dem der Antrag hierauf bei der
-zuständigen Stelle oder bei einer der in § 16 Abs. 2 Satz 1 des Ersten
-Buches Sozialgesetzbuch bezeichneten Stellen eingegangen ist; dies
-gilt nicht, soweit es an zumutbaren Bemühungen des Berechtigten
-gefehlt hat, den in § 1 Abs. 1 Nr. 3 bezeichneten Elternteil zu
-Unterhaltszahlungen zu veranlassen.
+(2) Die Unterhaltsleistung wird rückwirkend längstens für den letzten
+Monat vor dem Monat der Antragstellung gezahlt, soweit es nicht an
+zumutbaren Bemühungen des Berechtigten gefehlt hat, den in § 1 Absatz
+1 Nummer 3 bezeichneten Elternteil zu Unterhaltszahlungen zu
+veranlassen.
 
 
 ## § 5 Ersatz- und Rückzahlungspflicht
@@ -292,7 +302,9 @@ befugten Sozialleistungsträger und anderen Stellen sowie die
 Finanzämter sind verpflichtet, der zuständigen Stelle auf Verlangen
 Auskünfte über den Wohnort, den Arbeitgeber und die Höhe der Einkünfte
 des in Absatz 1 bezeichneten Elternteils zu erteilen, soweit die
-Durchführung dieses Gesetzes es erfordert.
+Durchführung dieses Gesetzes es erfordert. Zur Erfüllung der Aufgaben
+nach diesem Buch dürfen die zuständigen Stellen Auskunft aus dem
+Ausländerzentralregister einholen.
 
 (6) Die zuständigen Stellen dürfen das Bundeszentralamt für Steuern
 ersuchen, bei den Kreditinstituten die in § 93b Absatz 1 der
@@ -360,15 +372,6 @@ Vollstreckungsbescheid, ist zum Nachweis des nach Absatz 1
 Bescheid gemäß § 9 Absatz 2 beizufügen.
 
 
-## § 7a Übergegangene Ansprüche des Berechtigten bei Leistungsunfähigkeit
-
-Solange der Elternteil, bei dem der Berechtigte nicht lebt, Leistungen
-nach dem Zweiten Buch Sozialgesetzbuch bezieht und über kein eigenes
-Einkommen im Sinne von § 11 Absatz 1 Satz 1 des Zweiten Buches
-Sozialgesetzbuch verfügt, wird der nach § 7 übergegangene
-Unterhaltsanspruch nicht verfolgt.
-
-
 ## § 8 Aufbringung der Mittel
 
 (1) Geldleistungen, die nach dem Gesetz zu zahlen sind, werden zu 40
@@ -395,6 +398,27 @@ bis 4 angerechneten Beträge anzugeben.
 (3) Die Unterhaltsleistung ist monatlich im Voraus zu zahlen.
 Auszuzahlende Beträge sind auf volle Euro aufzurunden. Beträge unter 5
 Euro werden nicht geleistet.
+
+(4) Die durch Landesrecht bestimmte Stelle kann die Zahlung einer
+laufenden Unterhaltsleistung ohne Erteilung eines Bescheides vorläufig
+einstellen, wenn sie Kenntnis von Tatsachen erhält, die kraft Gesetzes
+zum Ruhen oder zum Wegfall des Anspruchs führen, und wenn der
+Bescheid, aus dem sich der Anspruch ergibt, deshalb aufzuheben ist.
+Vor der vorläufigen Einstellung sind der Person, die den Antrag auf
+Zahlung der Unterhaltsleistung gestellt hat, die beabsichtigte
+vorläufige Einstellung der Zahlung sowie die dafür maßgeblichen Gründe
+mitzuteilen und es ist ihr Gelegenheit zu geben, sich innerhalb von 14
+Tagen zu äußern. Die vorläufige Einstellung der Zahlung ist ihr
+unverzüglich in Textform mitzuteilen. Sofern innerhalb des
+Äußerungszeitraums eine Unterhaltsleistung zu zahlen ist, soll die
+durch Landesrecht bestimmte Stelle die Unterhaltsleistung nur für den
+Äußerungszeitraum gewähren.
+
+(5) Die durch Landesrecht bestimmte Stelle hat eine vorläufig
+eingestellte Zahlung einer laufenden Unterhaltsleistung unverzüglich
+nachzuholen, soweit der Bescheid, aus dem sich der Anspruch ergibt,
+zwei Monate nach der vorläufigen Einstellung der Zahlung nicht
+aufgehoben ist.
 
 
 ## § 10 Bußgeldvorschriften
@@ -440,22 +464,11 @@ ist für Entscheidungen anzuwenden, die Zeiträume betreffen, die nach
 dem 31. Dezember 2019 beginnen. § 1 Absatz 2a Satz 1 Nummer 2
 Buchstabe c in der Fassung des Artikels 13 Nummer 1 des Gesetzes vom
 23\. Mai 2022 (BGBl. I S. 760) ist für Entscheidungen anzuwenden, die
-Zeiträume betreffen, die nach dem 31. Mai 2022 beginnen.
-
-
-## § 11a Anwendungsvorschrift
-
-Im Sinne dieses Gesetzes beträgt für die Zeit vom 1. Januar 2015 bis
-zum 30. Juni 2015 die Unterhaltsleistung nach § 2 Absatz 1 Satz 1
-monatlich 317 Euro für ein Kind, das das sechste Lebensjahr noch nicht
-vollendet hat, und monatlich 364 Euro für ein Kind, das das zwölfte
-Lebensjahr noch nicht vollendet hat. Für die Zeit vom 1. Juli 2015 bis
-zum 31. Dezember 2015 beträgt die Unterhaltsleistung nach § 2 Absatz 1
-Satz 1 monatlich 328 Euro für ein Kind, das das sechste Lebensjahr
-noch nicht vollendet hat, und monatlich 376 Euro für ein Kind, das das
-zwölfte Lebensjahr noch nicht vollendet hat. Bis zum 31. Dezember 2015
-gilt als für ein erstes Kind zu zahlendes Kindergeld im Sinne von § 2
-Absatz 2 Satz 1 ein Betrag in Höhe von monatlich 184 Euro.
+Zeiträume betreffen, die nach dem 31. Mai 2022 beginnen. § 1 Absatz 2a
+Satz 1 Nummer 2 Buchstabe a und b in der Fassung des Artikels 44 des
+Gesetzes vom 2. Dezember 2024 (BGBl. 2024 I Nr. 387) ist für
+Entscheidungen anzuwenden, die Zeiträume betreffen, die nach dem 31.
+Mai 2024 beginnen.
 
 
 ## § 12 Bericht

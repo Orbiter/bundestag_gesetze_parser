@@ -179,7 +179,7 @@ Bewerbung sind beizufügen:
 
 
     b)  des Zulassungs- oder Eingliederungsscheins oder der Bestätigung nach §
-        10 Abs. 4 des Soldatenversorgungsgesetzes.
+        14 Absatz 3 des Soldatenversorgungsgesetzes.
 
 
 

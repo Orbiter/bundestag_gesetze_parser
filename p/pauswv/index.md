@@ -17,7 +17,10 @@ Fundstelle
 :   BGBl I: 2010, 1460
 
 Zuletzt geändert durch
-:   Art. 2 V v. 12.4.2024 I Nr. 125
+:   Art. 13 G v. 2.12.2025 I Nr. 301
+
+Änderung durch
+:   Art. 3 V v. 30.1.2026 I Nr. 31 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Eingangsformel
@@ -28,7 +31,7 @@ Verwaltungskostengesetzes vom 23. Juni 1970 (BGBl. I S. 821) verordnet
 das Bundesministerium des Innern im Benehmen mit dem Auswärtigen Amt:
 
 
-## Kapitel 1 - Allgemeine Vorschriften
+## Abschnitt 1 - Allgemeine Vorschriften
 
 
 ### § 1 Begriffsbestimmungen
@@ -122,51 +125,72 @@ Nach dem Stand der Technik sind zu erfüllen
 
 
     f)  das Ändern der Anschrift auf dem Personalausweis unter Verwendung
-        eines Aufklebers nach Anhang 1 sowie auf dem Chip des
+        eines Aufklebers nach Anlage 1 sowie auf dem Chip des
         Personalausweises nach einer elektronischen Anmeldung nach § 23a des
         Bundesmeldegesetzes,
 
 
     g)  die Übermittlung der Daten nach § 10a Absatz 1 Satz 1 des
-        Personalausweisgesetzes und
+        Personalausweisgesetzes,
 
 
-    h)  den elektronischen Identitätsnachweis mit einem mobilen Endgerät.
+    h)  den elektronischen Identitätsnachweis mit einem mobilen Endgerät und
+
+
+    i)  das sichere Verfahren der Übermittlung von Lichtbildern von einem
+        Dienstleister an eine Personalausweisbehörde.
 
 
 
 
 
 
-Der Stand der Technik ist als niedergelegt zu vermuten in den
+Die Einhaltung des Standes der Technik wird vermutet, wenn die
 Technischen Richtlinien des Bundesamtes für Sicherheit in der
-Informationstechnik. Die Übersicht über die Technischen Richtlinien
-wird im Bundesanzeiger veröffentlicht; die jeweils geltende Fassung
-der Technischen Richtlinien wird im Bundesanzeiger durch Verweis auf
-die Internetseite des Bundesamtes für Sicherheit in der
+Informationstechnik eingehalten worden sind. Die Übersicht über die
+Technischen Richtlinien wird vom Bundesamt für Sicherheit in der
+Informationstechnik im Bundesanzeiger veröffentlicht. Die jeweils
+geltende Fassung der Technischen Richtlinien wird vom Bundesamt für
+Sicherheit in der Informationstechnik im Bundesanzeiger durch Verweis
+auf die Internetseite des Bundesamtes für Sicherheit in der
 Informationstechnik bekannt gemacht.
 
 
 ### § 3 Zertifizierung von Systemkomponenten
 
-(1) Die Systemkomponenten der Personalausweisbehörden, des
-Ausweisherstellers, der Diensteanbieter und ihrer Auftragnehmer nach §
-11 des Bundesdatenschutzgesetzes, deren Zertifizierung verpflichtend
-oder optional ist, ergeben sich aus dem Anhang 5. Die Art und die
-Einzelheiten der Zertifizierung sind den Technischen Richtlinien des
-Bundesamtes für Sicherheit in der Informationstechnik zu entnehmen.
+(1) Aus Anlage 4 ergeben sich die Systemkomponenten
 
-(2) Für die Zertifizierung gelten § 9 des BSI-Gesetzes vom 14. August
-2009 (BGBl. I S. 2821), das zuletzt durch Artikel 1 des Gesetzes vom
-23\. Juni 2017 (BGBl. I S. 1885) geändert worden ist, sowie die BSI-
-Zertifizierungs- und Anerkennungsverordnung vom 17. Dezember 2014
-(BGBl. I S. 2231), die durch Artikel 40 des Gesetzes vom 29. März 2017
-(BGBl. I S. 626) geändert worden ist, in der jeweils geltenden
-Fassung.
+1.  der Personalausweisbehörden,
 
-(3) Die Kosten der Zertifizierung trägt der Antragsteller. Die BSI-
-Kostenverordnung vom 3. März 2005 (BGBl. I S. 519) in der jeweils
-geltenden Fassung findet Anwendung.
+
+2.  des Ausweisherstellers,
+
+
+3.  der Hersteller von Hardware und Software im Sinne des § 2 Satz 1
+    Nummer 2 Buchstabe a,
+
+
+4.  der Cloudanbieter,
+
+
+5.  der Dienstleister, die Lichtbildaufnahmegeräte im Sinne des § 5a
+    Absatz 2 Nummer 2 verwenden,
+
+
+6.  der Diensteanbieter und ihrer Auftragsverarbeiter nach Artikel 4
+    Nummer 8 der Verordnung (EU) 2016/679, deren jeweilige Zertifizierung
+    verpflichtend oder optional ist.
+
+
+
+Die Art und die Einzelheiten der Zertifizierung sind den Technischen
+Richtlinien des Bundesamtes für Sicherheit in der Informationstechnik
+zu entnehmen.
+
+(2) Für die Zertifizierung gelten § 9 des BSI-Gesetzes sowie die BSI-
+Zertifizierungs- und -Anerkennungsverordnung.
+
+(3) Die Kosten der Zertifizierung hat der Antragsteller zu tragen.
 
 
 ### § 4 Dokumentationspflichten
@@ -178,25 +202,16 @@ elektronischen Identitätsnachweises mit dem Personalausweis:
     Ausweisverwaltung erfolgt sind;
 
 
-2.  das Datum und die Uhrzeit der Ausgabe des Personalausweises;
+2.  das Datum und die Uhrzeit der Übergabe des Briefes mit der
+    Geheimnummer und der Entsperrnummer, falls die Personalausweisbehörde
+    den Brief übergibt;
 
 
-3.  das Datum und die Uhrzeit der Übergabe des Briefes mit der
-    Geheimnummer, der Entsperrnummer und dem Sperrkennwort, falls die
-    Personalausweisbehörde den Brief übergibt;
+3.  das Datum und die Uhrzeit der Ausgabe des Personalausweises und des
+    Sperrkennworts, falls die Personalausweisbehörde dieses übergibt;
 
 
-4.  die Einschaltung des elektronischen Identitätsnachweises mit Datum und
-    Uhrzeit der Einschaltung sowie die Personalausweisbehörde, die den
-    elektronischen Identitätsnachweis eingeschaltet hat;
-
-
-5.  den Sperrantrag durch den Ausweisinhaber, die Übermittlung der
-    Sperrsumme an den Sperrlistenbetreiber sowie das Datum und die Uhrzeit
-    von Antrag und Übermittlung;
-
-
-6.  den Entsperrantrag des Ausweisinhabers, die Übermittlung der
+4.  den Entsperrantrag des Ausweisinhabers, die Übermittlung der
     Sperrsumme an den Sperrlistenbetreiber sowie das Datum und die Uhrzeit
     von Antrag und Übermittlung.
 
@@ -274,6 +289,20 @@ Datum und die Uhrzeit von Antrag und Übermittlung.
 
 
 
+
+
+
+
+(4) Der Cloudanbieter dokumentiert zum Zwecke der Nachverfolgbarkeit
+des Übermittlungsvorgangs eines erstellten und übermittelten
+Lichtbilds
+
+1.  die Übermittlung eines verschlüsselten Lichtbilds durch einen
+    Dienstleister, das Datum und die Uhrzeit der Übermittlung sowie
+
+
+2.  den Abruf eines verschlüsselten Lichtbilds durch die
+    Personalausweisbehörde sowie das Datum und die Uhrzeit des Abrufs.
 
 
 
@@ -359,8 +388,184 @@ Vollzug der Änderung der Anschrift auf dem Chip sowie Erstellung und
 Versand des Aufklebers, spätestens aber 30 Tage nach Erhalt der
 personenbezogenen Daten durch die Personalausweisbehörde.
 
+(7) Der Cloudanbieter ist verpflichtet, das Lichtbild unverzüglich
+nach Abruf durch die Personalausweisbehörde, spätestens aber sechs
+Monate nach Empfang des Lichtbilds von einem Dienstleister, zu
+löschen, es sei denn, die Personalausweisbehörde hat auf Veranlassung
+der antragstellenden Person vermerkt, dass das Lichtbild für einen
+Zeitraum von höchstens sechs Monaten ab Antragstellung nicht gelöscht
+werden soll. Im Übrigen ist der Cloudanbieter verpflichtet, die bei
+ihm gespeicherten Daten für folgende Fristen zu speichern; nach
+Fristablauf sind die Daten zu löschen:
 
-## Kapitel 2 - Übermittlung der Ausweisantragsdaten
+1.  die Protokolldaten nach § 4 Absatz 4 für zehn Jahre und sechs Monate
+    nach ihrer Erstellung;
+
+
+2.  die personenbezogenen Daten der Dienstleister sowie die diesen
+    Personen zuzuordnenden Pseudonyme für sechs Monate, ab dem Zeitpunkt,
+    ab dem der Kontoinhaber von dem Cloudanbieter die Auflösung seines
+    Nutzerkontos verlangt hat;
+
+
+3.  abweichend von Nummer 2 die dort genannten Daten für zehn Jahre und
+    sechs Monate seit der Übermittlung des Lichtbilds an die zuständige
+    Personalausweisbehörde, wenn dieses für die Personalausweisbeantragung
+    durch eine dem Nutzerkonto zuzuordnende Person übermittelt wurde.
+
+
+
+
+
+## Abschnitt 2 - Übermittlung des Lichtbilds durch Dienstleister
+
+
+### § 5a Fertigung und Übermittlung des Lichtbilds durch ein sicheres Verfahren
+
+(1) In Fällen, in denen ein Personalausweis bei einer
+Personalausweisbehörde nach § 8 Absatz 1 des Personalausweisgesetzes
+beantragt wird, kann die antragstellende Person einen Dienstleister
+mit der Fertigung des Lichtbilds beauftragen. Der Dienstleister hat
+das Lichtbild elektronisch zu fertigen und im Anschluss durch ein
+sicheres Verfahren an die Personalausweisbehörde zu übermitteln.
+Dienstleister ist jede natürliche oder juristische Person, die
+gewerbsmäßig Lichtbilder von anderen Personen anfertigt, die zur
+Vorlage bei einer Personalausweisbehörde bestimmt sind. Dienstleister
+im Sinne von Satz 3 ist ferner jede Justizvollzugsanstalt.
+
+(2) Ein sicheres Verfahren im Sinne des Absatzes 1 Satz 2 ist:
+
+1.  die Übermittlung des Lichtbilds an die Personalausweisbehörde von
+    einem Dienstleister unter Einbindung eines Cloudanbieters oder
+
+
+2.  die Übermittlung des Lichtbilds an die Personalausweisbehörde von
+    einem zertifizierten Lichtbildaufnahmegerät eines Dienstleisters, das
+    unmittelbar an das Behördennetz einer Personalausweisbehörde
+    angeschlossen ist.
+
+
+
+
+
+### § 5b Übermittlung des Lichtbilds unter Einbindung eines Cloudanbieters
+
+(1) Bei einer Übermittlung nach § 5a Absatz 2 Nummer 1 übermittelt der
+Dienstleister das Lichtbild an einen Cloudanbieter und übergibt der
+antragstellenden Person anschließend einen Code, den diese im Rahmen
+der Antragstellung der Personalausweisbehörde übergibt.
+
+(2) Mit diesem Code ruft die Personalausweisbehörde das Lichtbild bei
+dem Cloudanbieter ab. Durch den Abruf wird das Lichtbild gemeinsam mit
+dem Pseudonym des Dienstleisters an die Personalausweisbehörde
+übermittelt.
+
+(3) Die Übermittlung des Lichtbilds vom Dienstleister an die
+Personalausweisbehörde erfolgt verschlüsselt als Ende-zu-Ende-
+Verschlüsselung; eine Entschlüsselung durch den Cloudanbieter ist
+auszuschließen. Eine Übermittlung des Lichtbilds vom Dienstleister zum
+Cloudanbieter ist nur unter Verwendung von zertifizierten Komponenten
+nach Maßgabe von § 3 Absatz 1 Satz 1 zulässig.
+
+(4) Die Verarbeitung der personenbezogenen Daten darf ausschließlich
+durch einen im Gebiet der Europäischen Union ansässigen Cloudanbieter
+und ausschließlich im Gebiet der Europäischen Union erfolgen.
+
+
+### § 5c Registrierung und Identifizierung eines Dienstleisters bei einem Cloudanbieter
+
+(1) Dienstleister haben sich bei einem Cloudanbieter mit einem
+Nutzerkonto zu registrieren. Bei der Registrierung ist ein Nachweis
+über die Dienstleistereigenschaft sowie ein Nachweis über die
+Identität des Dienstleisters zu erbringen.
+
+(2) Der nach Absatz 1 Satz 2 erforderliche Nachweis über die
+Dienstleistereigenschaft ist zu erbringen durch Übermittlung:
+
+1.  eines Nachweises über die Gewerbeanmeldung,
+
+
+2.  durch einen Auszug aus dem Unternehmensregister,
+
+
+3.  durch eine Bescheinigung der Mitgliedschaft in der Handwerkskammer
+    oder
+
+
+4.  einer Bestätigung eines Finanzamtes über die Anmeldung einer
+    freiberuflichen Tätigkeit als Fotografin oder Fotograf.
+
+
+
+Die Dienstleistereigenschaft nach § 5a Absatz 1 Satz 4 ist durch die
+Übermittlung eines von der Anstaltsleitung unterschriebenen und
+gesiegelten Schreibens oder durch die Übermittlung eines mit einem
+qualifizierten elektronischen Siegel der Anstalt versehenen Schreibens
+zu erbringen.
+
+(3) Bei der Registrierung erfolgt der Nachweis der Identität des
+Dienstleisters durch
+
+1.  einen elektronischen Identitätsnachweis gemäß § 18 des
+    Personalausweisgesetzes, gemäß § 12 des eID-Karte-Gesetzes oder gemäß
+    § 78 Absatz 5 des Aufenthaltsgesetzes oder
+
+
+2.  ein anderes elektronisches Identifizierungsmittel, das nach Artikel 6
+    der Verordnung (EU) Nr. 910/2014 auf dem Sicherheitsniveau „hoch“ im
+    Sinne des Artikel 8 Absatz 2 Buchstabe c der Verordnung (EU) Nr.
+    910/2014 notifiziert worden ist.
+
+
+
+Einem Nutzerkonto können mehrere Personen zugeordnet werden, wenn
+diese vom Dienstleister auf Dauer angelegt beschäftigt werden.
+Personen nach Satz 2 müssen sich bei der Registrierung in einem
+Nutzerkonto ebenfalls mittels eines der in Satz 1 genannten
+Identifizierungsmittel in dem Nutzerkonto registrieren.
+
+(4) Für jede Person, die sich in einem Nutzerkonto nach Absatz 3
+registriert hat, wird durch den Cloudanbieter ein Pseudonym erzeugt.
+
+(5) Vor jeder Übermittlung eines Lichtbilds an den Cloudanbieter hat
+sich die übermittelnde Person des Dienstleisters erneut mit einem der
+in Absatz 3 Satz 1 genannten Identifizierungsmittel zu identifizieren.
+Bei jeder Übermittlung wird das Lichtbild durch den Cloudanbieter mit
+dem Pseudonym der übermittelnden Person dauerhaft verbunden. Die
+Personalausweisbehörde trägt im Personalausweisregister als
+lichtbildaufnehmende Stelle gemäß § 23 Absatz 3 Nummer 20 des
+Personalausweisgesetzes das übermittelte Pseudonym ein.
+
+
+### § 5d Pflichten des Cloudanbieters
+
+Wenn bestimmte Tatsachen die Annahme begründen, dass ein beim
+Cloudanbieter abgerufenes Lichtbild auf unzulässige Weise erstellt
+worden ist, kann die Personalausweisbehörde vom Cloudanbieter
+verlangen, Auskunft darüber zu geben, welcher Person das mit dem
+Lichtbild verbundene Pseudonym zuzuordnen ist. Dies gilt auch für den
+Fall, dass ein Cloudanbieter seinen Betrieb einstellt und solange, bis
+die Daten durch den Cloudanbieter gelöscht werden.
+
+
+### § 5e Übermittlung des Lichtbilds von einem Lichtbildaufnahmegerät eines Dienstleisters
+
+(1) Bei einer Übermittlung nach § 5a Absatz 2 Nummer 2 fertigt der
+Dienstleister das Lichtbild durch sein Lichtbildaufnahmegerät an, das
+mit Zustimmung der jeweiligen Personalausweisbehörde unmittelbar an
+ihr Behördennetzwerk angeschlossen ist.
+
+(2) Mit dem Lichtbild wird der Name des Dienstleisters, der das
+Lichtbildaufnahmegerät zur Verfügung gestellt hat, sowie die Kennung
+des verwendeten Lichtbildaufnahmegeräts der Personalausweisbehörde
+übermittelt. Die Personalausweisbehörde trägt im
+Personalausweisregister als lichtbildaufnehmende Stelle gemäß § 23
+Absatz 3 Nummer 20 des Personalausweisgesetzes den Namen des
+Dienstleisters und die Kennung des verwendeten Lichtbildaufnahmegeräts
+ein.
+
+
+## Abschnitt 3 - Übermittlung der Ausweisantragsdaten
 
 
 ### § 6 Erfassung der Anschrift
@@ -378,41 +583,51 @@ soweit diese technisch darstellbar sind und eine eindeutige Zuordnung
 der Anschrift ermöglichen.
 
 
+### § 6a Fertigung des Lichtbilds durch die Personalausweisbehörde
+
+(1) Wird das Lichtbild von der Personalausweisbehörde mit einem
+eigenen Lichtbildaufnahmegerät gefertigt, trägt die
+Personalausweisbehörde im Personalausweisregister als
+lichtbildaufnehmende Stelle nach § 23 Absatz 3 Nummer 20 des
+Personalausweisgesetzes die Personalausweisbehörde ein.
+
+(2) Die Anfertigung des Lichtbilds mit einem eigenen
+Lichtbildaufnahmegerät ist nur zulässig, wenn das
+Lichtbildaufnahmegerät als Systemkomponente zertifiziert worden ist.
+
+(3) Das nach Absatz 1 gefertigte Lichtbild ist unverzüglich durch die
+Personalausweisbehörde vom Lichtbildaufnahmegerät zu löschen, wenn es
+durch die Personalausweisbehörde abgerufen wurde. Wird das gefertigte
+Lichtbild nicht sofort durch die Personalausweisbehörde abgerufen, so
+ist dieses bis zum Abruf zu speichern, längstens jedoch für 96 Stunden
+nach dessen Anfertigung.
+
+
 ### § 7 Qualitätssicherung des Lichtbildes und der Fingerabdrücke
 
-(1) Von der Person, für die ein Ausweis im Sinne des § 2 Absatz 1 des
-Personalausweisgesetzes auszustellen ist, ist der
-Personalausweisbehörde ein aktuelles Lichtbild ohne Rand vorzulegen,
-das 45 Millimeter hoch und 35 Millimeter breit ist. Wenn die
-Personalausweisbehörde die technischen Voraussetzungen geschaffen hat,
-kann das Lichtbild auch
+(1) Ein Lichtbild, das nach § 9 Absatz 3 Satz 3 des
+Personalausweisgesetzes gefertigt wird, muss aktuell sein und den
+Vorgaben der Technischen Richtlinie TR-03121 des Bundesamtes für
+Sicherheit in der Informationstechnik in der jeweils geltenden Fassung
+entsprechen.
 
-1.  von Dritten elektronisch verschlüsselt und signiert an die
-    Personalausweisbehörde übermittelt werden, soweit diese Form der
-    Übermittlung durch eine Technische Richtlinie des Bundesamtes für
-    Sicherheit in der Informationstechnik vorgesehen ist, oder
-
-
-2.  durch die Personalausweisbehörde gefertigt werden.
-
-
-
-
-(2) Die Personalausweisbehörde stellt durch geeignete technische und
-organisatorische Maßnahmen die erforderliche Qualität der Erfassung
-des Lichtbildes und der Fingerabdruckbilder sicher. Dazu hat sie die
-Fingerabdruckbilder und das Lichtbild mit einer zertifizierten
-Qualitätssicherungssoftware zu prüfen und in dem für den Ausweis
-verwendeten Format zu speichern. Darüber hinaus hat auch die Erfassung
-der Fingerabdruckbilder mit zertifizierter Hardware zu erfolgen.
+(2) Abweichend von Absatz 1 kann für einen Personalausweis, der im
+Ausland bei der Personalausweisbehörde nach § 8 Absatz 2
+Personalausweisgesetz beantragt wird, auch ein aktuelles Lichtbild in
+der Größe von 45 Millimeter x 35 Millimeter im Hochformat und ohne
+Rand vorgelegt werden, sofern die elektronische Fertigung mittels
+Geräten der Behörde zur Lichtbildaufnahme nicht möglich ist. In diesem
+Fall trägt die Personalausweisbehörde in ihr Personalausweisregister
+als lichtbildaufnehmende Stelle gemäß § 23 Absatz 3 Nummer 20 des
+Personalausweisgesetzes „nicht verifizierbar“ ein.
 
 (3) Das Lichtbild muss die Person in einer Frontalaufnahme, ohne
-Kopfbedeckung und ohne Bedeckung der Augen zeigen. Im Übrigen muss das
-Lichtbild den Vorgaben des Anhangs 3 Abschnitt 2 entsprechen. Die
-Personalausweisbehörde kann von diesen Vorgaben aus medizinischen
-Gründen, die nicht nur vorübergehender Art sind, Ausnahmen zulassen.
-Vom Verbot der Kopfbedeckung kann sie auch aus religiösen Gründen
-Ausnahmen zulassen.
+Kopfbedeckung, ohne Bedeckung der Augen sowie ohne Uniformteile
+zeigen. Im Übrigen muss das Lichtbild den Vorgaben der Anlage 3
+Abschnitt 2 entsprechen. Die Personalausweisbehörde kann von diesen
+Vorgaben aus medizinischen Gründen, die nicht nur vorübergehender Art
+sind, Ausnahmen zulassen. Vom Verbot der Kopfbedeckung kann sie auch
+aus religiösen Gründen Ausnahmen zulassen.
 
 
 ### § 8 Übermittlung
@@ -436,11 +651,13 @@ Die Datenübermittlung erfolgt entweder durch Datenübertragung über die
 informationstechnischen Netze von Bund und Ländern oder über allgemein
 zugängliche Netze. Soweit die Datenübermittlung zwischen
 informationstechnischen Netzen von Bund und Ländern stattfindet, ist
-dafür spätestens ab dem 1. Januar 2015 nach § 3 des Gesetzes über die
-Verbindung der informationstechnischen Netze des Bundes und der Länder
-vom 10. August 2009 (BGBl. I S. 2706) das Verbindungsnetz zu nutzen.
-Die zu übermittelnden Daten sind nach dem Stand der Technik
-elektronisch zu signieren und zu verschlüsseln.
+dafür nach § 3 des Gesetzes über die Verbindung der
+informationstechnischen Netze des Bundes und der Länder – Gesetz zur
+Ausführung von Artikel 91c Absatz 4 des Grundgesetzes – vom 10. August
+2009 (BGBl. I S. 2706), das zuletzt durch Artikel 3 des Gesetzes vom
+19\. Juli 2024 (BGBl. 2024 I Nr. 245) geändert worden ist, das
+Verbindungsnetz zu nutzen. Die zu übermittelnden Daten sind nach dem
+Stand der Technik elektronisch zu signieren und zu verschlüsseln.
 
 (2) Zum Signieren und Verschlüsseln der nach Absatz 1 zu
 übermittelnden Daten sind geeignete gültige Zertifikate aus der
@@ -468,13 +685,13 @@ Verordnung entsprechendes Niveau aufweisen.
 Personalausweisbehörden, Ausweishersteller und Vermittlungsstellen
 alle für eine elektronische und automatisierte Kommunikation
 benötigten technischen Verbindungsparameter im Deutschen
-Verwaltungsdiensteverzeichnis (DVDV), insbesondere die dafür
-erforderlichen Zertifikate. Der Ausweishersteller nutzt eine
-Funktionalität des DVDV, um die Personalausweisbehörde als eine solche
-zu verifizieren. Das Auswärtige Amt kann die benötigten technischen
-Verbindungsparameter und die damit verbundenen erforderlichen
-Zertifikate technisch unabhängig vom Deutschen
-Verwaltungsdiensteverzeichnis (DVDV) lösen. Die Lösung muss
+Verwaltungsdiensteverzeichnis, insbesondere die dafür erforderlichen
+Zertifikate. Der Ausweishersteller nutzt eine Funktionalität des
+Deutschen Verwaltungsdiensteverzeichnisses, um die
+Personalausweisbehörde als eine solche zu verifizieren. Das Auswärtige
+Amt kann die benötigten technischen Verbindungsparameter und die damit
+verbundenen erforderlichen Zertifikate technisch unabhängig vom
+Deutschen Verwaltungsdiensteverzeichnis lösen. Die Lösung muss
 hinsichtlich Datensicherheit und Datenschutz ein den Anforderungen
 dieser Verordnung entsprechendes Niveau aufweisen.
 
@@ -489,12 +706,11 @@ Qualitätsstatistik ausgewertet und zusammengefasst werden.
 
 (2) Der Ausweishersteller stellt die Ergebnisse der Auswertung und auf
 Verlangen die in der Statistik erfassten anonymisierten Einzeldaten
-dem Bundesministerium des Innern, für Bau und Heimat, dem Bundesamt
-für Sicherheit in der Informationstechnik und dem Bundeskriminalamt
-zur Verfügung.
+dem Bundesministerium des Innern, dem Bundesamt für Sicherheit in der
+Informationstechnik und dem Bundeskriminalamt zur Verfügung.
 
 
-## Kapitel 3 - Produktion des Personalausweises
+## Abschnitt 4 - Produktion des Personalausweises
 
 
 ### § 10 Eingang der Antragsdaten
@@ -510,23 +726,23 @@ der übermittelnden Personalausweisbehörde.
 
 ### § 11 Muster für den Personalausweis
 
-Der Personalausweis ist nach dem in Anhang 1 abgedruckten Muster
+Der Personalausweis ist nach dem in Anlage 1 abgedruckten Muster
 herzustellen. Für die einzutragenden Daten gelten die formalen
-Anforderungen des Anhangs 3 Abschnitt 1.
+Anforderungen der Anlage 3 Abschnitt 1.
 
 
 ### § 12 Muster für den vorläufigen Personalausweis
 
-Der vorläufige Personalausweis ist nach dem in Anhang 2 abgedruckten
+Der vorläufige Personalausweis ist nach dem in Anlage 2 abgedruckten
 Muster herzustellen. Für die einzutragenden Daten gelten die formalen
-Anforderungen des Anhangs 3 Abschnitt 1.
+Anforderungen der Anlage 3 Abschnitt 1.
 
 
 ### § 12a Muster für den Ersatz-Personalausweis
 
-Der Ersatz-Personalausweis ist nach dem in Anhang 2a abgedruckten
+Der Ersatz-Personalausweis ist nach dem in Anlage 2a abgedruckten
 Muster herzustellen. Für die einzutragenden Daten gelten die formalen
-Anforderungen des Anhangs 3 Abschnitt 1.
+Anforderungen der Anlage 3 Abschnitt 1.
 
 
 ### § 13 Schnittstelle des Chips
@@ -627,52 +843,121 @@ Entsperrnummer erhalten hat, gewährleistet die Personalausweisbehörde,
 dass Dritte keine Kenntnisnahme der Geheimnummer und der
 Entsperrnummer erhalten können.
 
+(4) Die Absätze 1 bis 3 sind nicht anzuwenden, wenn die Person, für
+die der Personalausweis ausgestellt werden soll, bis zum Ablauf der
+Gültigkeitsdauer des auszustellenden Personalausweises ihr 16.
+Lebensjahr nicht vollenden wird.
 
-## Kapitel 4 - Aushändigung des Personalausweises; Braille-Aufkleber
+
+## Abschnitt 5 - Ausgabe und Versand des Personalausweises; Braille-Aufkleber
 
 
-### § 18 Aushändigung des Personalausweises
+### § 18 Ausgabe und Versand des Personalausweises und des Sperrkennworts
 
-(1) (weggefallen)
+(1) Der Personalausweis wird gemeinsam mit dem Sperrkennwort von der
+Personalausweisbehörde an die antragstellende Person, an eine andere
+nach § 9 Absatz 1 oder 2 des Personalausweisgesetzes berechtigte
+Person oder an eine von der antragstellenden Person bevollmächtigte
+Person ausgegeben. Hat die antragstellende Person aufgrund von § 17
+Absatz 4 kein Kuvert mit einer Geheimnummer und einer Entsperrnummer
+von der Personalausweisbehörde erhalten, wird nur der Personalausweis
+ausgegeben.
 
-(2) Bestätigt die antragstellende Person den Empfang des Briefes nach
-§ 17 Absatz 7 nicht, darf die Personalausweisbehörde den ausgestellten
-Ausweis nur übergeben, wenn sie zuvor die Neusetzung der Geheimnummer
-nach § 20 Absatz 1 bewirkt hat.
+(2) Der Personalausweis wird gemeinsam mit dem Sperrkennwort durch den
+Ausweishersteller an die zustellfähige inländische Meldeadresse der
+antragstellenden Person versendet, wenn sie einen gültigen
+Lichtbildausweis einer Behörde oder einer öffentlich-rechtlichen
+Körperschaft besitzt, der eine einwandfreie Feststellung ihrer
+Identität zulässt, und sie gegenüber der Personalausweisbehörde im
+Inland in dieses Verfahren eingewilligt hat. Ein Versand nach Satz 1
+ist ausgeschlossen, wenn keine zustellfähige inländische Meldeadresse
+vorhanden ist. Der bisherige Personalausweis ist bei der Beantragung
+von der Personalausweisbehörde zu entwerten. Der Zusteller hat vor der
+Übergabe die Identität der antragstellenden Person durch Vorlage eines
+in Satz 1 genannten Lichtbildausweises zu überprüfen. Der
+Ausweishersteller informiert die Personalausweisbehörde über die
+erfolgte Übergabe des Personalausweises und des Sperrkennworts an die
+antragstellende Person.
 
-(3) Der Ausweisinhaber kann sich die auslesbaren personenbezogenen
+(3) Die antragstellende Person soll bei einem Verfahren nach Absatz 2
+der Personalausweisbehörde eine
+E-Mail-Adresse              mitteilen, sofern eine solche der
+Personalausweisbehörde noch nicht vorliegt. Die Personalausweisbehörde
+übermittelt diese E-Mail-Adresse an den Ausweishersteller, damit
+dieser die E-Mail-Adresse dem Zusteller übermittelt. Der Zusteller
+kündigt in diesem Fall der antragstellenden Person den Zeitraum der
+Übergabe per E-Mail an die hinterlegte E-Mail-Adresse an. Die
+Ankündigung darf ausschließlich die Anrede, den Hinweis auf die
+bevorstehende Zustellung des Personalausweises, den voraussichtlichen
+Zustellzeitpunkt sowie die Modalitäten der Zustellung nach Absatz 2
+Satz 4 enthalten. Die E-Mail-Adresse darf nur für die Zwecke verwendet
+werden, für die sie gespeichert wurde, und ist bei der
+Personalausweisbehörde, beim Ausweishersteller und beim Zusteller
+unverzüglich nach der Übergabe des Personalausweises an die
+antragstellende Person zu löschen, sofern sie ausschließlich für das
+Verfahren nach Absatz 2 gespeichert wurde. Erfolgt eine Übergabe
+nicht, so findet Satz 5 mit der Maßgabe Anwendung, dass der
+Ausweishersteller und der Zusteller die E-Mail-Adresse unverzüglich
+nach der Hinterlegung des Personalausweises bei der zuständigen
+Personalausweisbehörde oder die Personalausweisbehörde diese
+unverzüglich nach der Ausgabe des Personalausweises an die
+antragstellende Person zu löschen haben.
+
+(4) Abweichend von Absatz 2 darf die Personalausweisbehörde im Ausland
+Personalausweise gemeinsam mit dem Sperrkennwort auch auf dem Postweg
+versenden, ohne dass der Zusteller die antragstellende Person
+identifiziert, sofern die Abholung des Personalausweises für die
+antragstellende Person nur unter unzumutbaren Umständen möglich wäre
+und der Wohnort in einem Staat liegt, in dem eine hinreichende Gewähr
+für eine ordnungsgemäße Übergabe besteht. Als unzustellbar
+zurückgesandte Personalausweise und Sperrkennwörter gibt die
+Personalausweisbehörde nach Maßgabe von Absatz 1 an die
+antragstellende Person aus.
+
+(5) Wurde gegenüber der antragstellenden Person, die keine Wohnung in
+der Bundesrepublik Deutschland hat, eine Anordnung nach § 6 Absatz 7
+des Personalausweisgesetzes getroffen, soll die Ausgabe des
+Personalausweises durch die Personalausweisbehörde in Deutschland
+erfolgen, in deren Bezirk die antragstellende Person für ihre Wohnung,
+bei mehreren Wohnungen für ihre Hauptwohnung, zuletzt meldepflichtig
+war. War die antragstellende Person noch nie in der Bundesrepublik
+Deutschland meldepflichtig, soll die Ausgabe durch eine von der
+antragstellenden Person zu benennende Personalausweisbehörde in der
+Bundesrepublik Deutschland erfolgen. Die Ausgabe des Personalausweises
+an eine andere nach § 9 Absatz 1 oder 2 des Personalausweisgesetzes
+berechtigte Person oder an eine von der antragstellenden Person
+bevollmächtigte Person ist in diesen Fällen ausgeschlossen.
+
+
+### § 18a Einsicht in die auslesbaren personenbezogenen Daten des Personalausweises
+
+(1) Der Ausweisinhaber kann sich die auslesbaren personenbezogenen
 Daten, die auf seinem Personalausweis gespeichert sind, jederzeit bei
 einer Personalausweisbehörde anzeigen lassen.
 
-(4) Für das Lesen der Daten nach den Absätzen 1 und 3 sind
-zertifizierte Lesegeräte mit hoheitlichem Berechtigungszertifikat zu
-verwenden.
-
-(5) Die Personalausweisbehörde im Ausland darf Personalausweise im
-Ausland auf dem Postweg an die antragstellende Person versenden,
-sofern die Abholung des Personalausweises für die antragstellende
-Person nur unter unzumutbaren Zuständen möglich wäre.
+(2) Für das Lesen der Daten nach Absatz 1 sind zertifizierte
+Lesegeräte mit hoheitlichem Berechtigungszertifikat zu verwenden.
 
 
-### § 18a Aufkleber mit Brailleschrift
+### § 18b Aufkleber mit Brailleschrift
 
 Auf Antrag des Ausweisinhabers wird durch die Personalausweisbehörde
-entweder bei Ausgabe des Personalausweises oder zu einem späteren
-Zeitpunkt ein Aufkleber mit Brailleschrift nach Anhang 1a auf dem
+entweder bei der Ausgabe des Personalausweises oder zu einem späteren
+Zeitpunkt ein Aufkleber mit Brailleschrift nach Anlage 1c auf dem
 Personalausweis angebracht.
 
 
-## Kapitel 5 - Änderung von Daten des Personalausweises; nachträgliches Einschalten
+## Abschnitt 6 - Änderung von Daten des Personalausweises; nachträgliches Einschalten
 
 
 ### § 19 Änderung der Anschrift
 
 (1) Die Personalausweisbehörde ändert die Anschrift auf dem
 Personalausweis, indem sie einen Aufkleber mit der neuen Anschrift und
-der Personalausweisnummer nach dem Muster in Anhang 1 anfertigt. Hat
+der Personalausweisnummer nach dem Muster in Anlage 1a anfertigt. Hat
 der Ausweisinhaber eine elektronische Anmeldung nach § 23a des
 Bundesmeldegesetzes durchgeführt, wird nach erfolgter Änderung der
-Anschrift nach Absatz 2 Satz 4 ein Aufkleber nach Anhang 1b mit der
+Anschrift nach Absatz 2 Satz 5 ein Aufkleber nach Anlage 1b mit der
 neuen Anschrift durch die Personalausweisbehörde auf dem Postweg an
 die Zuzugsanschrift der antragstellenden Person versendet. Der
 Ausweisinhaber hat den Aufkleber unverzüglich auf dem Ausweis auf dem
@@ -722,20 +1007,50 @@ die Funktion zum elektronischen Identitätsnachweis ab und versendet
 eine neue, zufällig generierte Geheimnummer in einem Brief an die im
 Chip gespeicherte Anschrift des Ausweisinhabers. Bei der Übergabe ist
 die Identität des Ausweisinhabers durch den Zusteller durch Vorlage
-des Personalausweises zu überprüfen. Nach Erhalt der neuen
-Geheimnummer meldet sich der Ausweisinhaber erneut beim
-Ausweishersteller unter Verwendung der Zugangsnummer an. Der
-Ausweishersteller schaltet die Funktion zum elektronischen
-Identitätsnachweis wieder ein und schreibt die neue, zufällig
-generierte Geheimnummer in den Chip. Der Ausweisinhaber ändert die
-neue, zufällig generierte Geheimnummer in eine selbst gewählte
-Geheimnummer.
+des gültigen Personalausweises oder eines gültigen Reisepasses zu
+überprüfen. Nach Erhalt der neuen Geheimnummer meldet sich der
+Ausweisinhaber erneut beim Ausweishersteller unter Verwendung der
+Zugangsnummer an. Der Ausweishersteller schaltet die Funktion zum
+elektronischen Identitätsnachweis wieder ein und schreibt die neue,
+zufällig generierte Geheimnummer in den Chip. Der Ausweisinhaber
+ändert die neue, zufällig generierte Geheimnummer in eine selbst
+gewählte Geheimnummer. Der Ausweishersteller kann dem Ausweisinhaber
+auch die Möglichkeit eröffnen, eine neue Geheimnummer über ein
+sicheres elektronisches Verfahren festzulegen, wenn sich der
+Ausweisinhaber zuvor mit einem elektronischen Identifizierungsmittel,
+das auf dem Sicherheitsniveau „hoch“ im Sinne des Artikels 8 Absatz 2
+Buchstabe c der Verordnung (EU) Nr. 910/2014 notifiziert oder
+zertifiziert worden ist, elektronisch identifiziert hat. Der
+Ausweishersteller ist berechtigt, die zur Durchführung des Verfahrens
+benötigten Daten zu verarbeiten, soweit dies zum Zweck der Neusetzung
+und Änderung der Geheimnummer erforderlich ist. Die Maßnahmen in den
+Sätzen 1 und 2 sowie 5, 7 bis 8 können vollständig durch automatische
+Einrichtungen vorgenommen werden.
 
-(3) Der Ausweisinhaber kann die Geheimnummer durch Eingabe der
+(3) Die antragstellende Person kann bei der Nutzung des elektronischen
+Formulars des Ausweisherstellers eine gültige E-Mail-Adresse
+mitteilen. Der Ausweishersteller ist berechtigt, diese E-Mail-Adresse
+zum Zwecke der Information über den Status des Antrages sowie über den
+Status des Versands des Briefes zu verarbeiten und dem Zusteller zu
+übermitteln. Der Zusteller kündigt in diesem Fall der antragstellenden
+Person den Zeitraum der voraussichtlichen Übergabe des PIN-
+Rücksetzbriefes per E-Mail an die hinterlegte E-Mail-Adresse an. Die
+Ankündigung darf ausschließlich die Anrede, den Hinweis auf die
+bevorstehende Zustellung des PIN-Rücksetzbriefes, den
+voraussichtlichen Zustellzeitpunkt sowie die Modalitäten der
+Zustellung nach Absatz 2 Satz 3 enthalten. Die E-Mail-Adresse darf nur
+für die Zwecke verwendet werden, für die sie gespeichert wurde, und
+ist beim Ausweishersteller und beim Zusteller unverzüglich nach der
+Übergabe des Briefes an die antragstellende Person zu löschen. Erfolgt
+eine Übergabe nicht, so ist zu gewährleisten, dass der
+Ausweishersteller und der Zusteller die E-Mail-Adresse unverzüglich zu
+löschen haben.
+
+(4) Der Ausweisinhaber kann die Geheimnummer durch Eingabe der
 bisherigen Geheimnummer und zweimalige Eingabe der neuen Geheimnummer
 ändern.
 
-(4) Für die Änderung der Daten nach Absatz 1 Satz 1 sind zertifizierte
+(5) Für die Änderung der Daten nach Absatz 1 Satz 1 sind zertifizierte
 Geräte mit hoheitlichem Berechtigungszertifikat zu verwenden. Für das
 Ändern der Daten nach Absatz 2 Satz 2 sowie für das Einschalten nach
 Absatz 2 Satz 5 verwendet der Ausweishersteller ein hoheitliches
@@ -747,13 +1062,8 @@ Berechtigungszertifikat.
 (1) Bevor die ausstellende oder zuständige Personalausweisbehörde
 einen ausgeschalteten elektronischen Identitätsnachweis nach § 10
 Absatz 3 des Personalausweisgesetzes einschaltet, prüft sie die
-Identität des Ausweisinhabers. Die Personalausweisbehörde löscht die
-Tatsache der Ausschaltung im Personalausweisregister. Handelt die
-zuständige Personalausweisbehörde, informiert sie die ausstellende
-Personalausweisbehörde über die Einschaltung; in diesem Fall löscht
-die ausstellende Personalausweisbehörde die Tatsache der Ausschaltung
-im Personalausweisregister. Die Personalausweisbehörde initiiert bei
-jeder nachträglichen Einschaltung die Neusetzung der Geheimnummer
+Identität des Ausweisinhabers. Die Personalausweisbehörde initiiert
+bei jeder nachträglichen Einschaltung die Neusetzung der Geheimnummer
 durch den Ausweisinhaber und teilt ihm auf Wunsch das Sperrkennwort
 aus dem Personalausweisregister mit.
 
@@ -764,24 +1074,27 @@ Ausweishersteller zur Verfügung gestellten elektronischen Formulars
 gestellt werden. Der Ausweishersteller versendet eine neue, zufällig
 generierte Geheimnummer in einem Brief an die im Chip gespeicherte
 Anschrift des Ausweisinhabers. Bei der Übergabe ist die Identität des
-Ausweisinhabers durch den Zusteller durch Vorlage des
-Personalausweises zu überprüfen. Nach Erhalt der neuen Geheimnummer
-meldet sich der Ausweisinhaber erneut beim Ausweishersteller unter
-Verwendung der Zugangsnummer an. Der Ausweishersteller schaltet die
-Funktion zum elektronischen Identitätsnachweis ein und schreibt die
-neue, zufällig generierte Geheimnummer in den Chip. Der Ausweisinhaber
-ändert die neue, zufällig generierte Geheimnummer in eine selbst
-gewählte Geheimnummer.
+Ausweisinhabers durch den Zusteller durch Vorlage des gültigen
+Personalausweises oder eines gültigen Reisepasses zu überprüfen. Nach
+Erhalt der neuen Geheimnummer meldet sich der Ausweisinhaber erneut
+beim Ausweishersteller unter Verwendung der Zugangsnummer an. Der
+Ausweishersteller schaltet die Funktion zum elektronischen
+Identitätsnachweis ein und schreibt die neue, zufällig generierte
+Geheimnummer in den Chip. Der Ausweisinhaber ändert die neue, zufällig
+generierte Geheimnummer in eine selbst gewählte Geheimnummer. Die
+Maßnahmen in den Sätzen 1, 2 und 5 können vollständig durch
+automatische Einrichtungen vorgenommen werden, § 20 Absatz 2 Satz 7
+bis 9 sowie Absatz 3 gilt entsprechend.
 
 (3) Für das nachträgliche Einschalten des elektronischen
-Identitätsnachweises nach Absatz 1 sind zertifizierte Geräte mit
-hoheitlichem Berechtigungszertifikat zu verwenden. Für das Ändern der
-Daten nach Absatz 2 Satz 2 sowie für das Einschalten nach Absatz 2
+Identitätsnachweises nach Absatz 1 Satz 2 sind zertifizierte Geräte
+mit hoheitlichem Berechtigungszertifikat zu verwenden. Für das Ändern
+der Daten nach Absatz 2 Satz 2 sowie für das Einschalten nach Absatz 2
 Satz 5 verwendet der Ausweishersteller ein hoheitliches
 Berechtigungszertifikat.
 
 
-## Kapitel 6 - Elektronischer Identitätsnachweis mit einem mobilen Endgerät
+## Abschnitt 7 - Elektronischer Identitätsnachweis mit einem mobilen Endgerät
 
 
 ### § 22 Einrichtung
@@ -838,8 +1151,7 @@ Formulars hat den Ausweisinhaber darauf hinzuweisen, dass das mobile
 Endgerät hinsichtlich der auf seinem Chip nach Absatz 1 gespeicherten
 Daten mit besonderer Sorgfalt zu behandeln ist. Der Inhalt des
 Hinweistextes ist von dem Hersteller einer nach Absatz 1 verwendeten
-Software mit dem Bundesministerium des Innern, für Bau und Heimat
-abzustimmen.
+Software mit dem Bundesministerium des Innern abzustimmen.
 
 
 ### § 23 Speicherung von personenbezogenen Daten; Zugriffsschutz
@@ -869,7 +1181,7 @@ Der elektronische Identitätsnachweis mit einem mobilen Endgerät hat
 eine Gültigkeitsdauer von zwei Jahren.
 
 
-## Kapitel 7 - Sperrung und Entsperrung des elektronischen Identitätsnachweises
+## Abschnitt 8 - Sperrung und Entsperrung des elektronischen Identitätsnachweises
 
 
 ### § 24 Referenzliste; allgemeine Sperrliste
@@ -974,7 +1286,7 @@ Personalausweisbehörde über elektronische Identitätsnachweise von
 Personalausweisen zu erteilen, die von ihr ausgestellt worden sind.
 
 
-## Kapitel 8 - Beantragung von Berechtigungen
+## Abschnitt 9 - Beantragung von Berechtigungen
 
 
 ### § 28 Antrag auf Erteilung einer Berechtigung für Vor-Ort-Diensteanbieter und sonstige Diensteanbieter
@@ -1044,14 +1356,10 @@ Angaben enthalten:
 
 8.  die Angabe, ob die antragstellende Person sich zur Durchführung des
     elektronischen Identitätsnachweises eines Auftragnehmers nach den
-    Artikeln 28 bis 31 der Verordnung (EU) 2016/679 des Europäischen
-    Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher
-    Personen bei der Verarbeitung personenbezogener Daten, zum freien
-    Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-
-    Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016,
-    S. 72) bedienen wird und in diesem Fall die Angaben nach Nummer 1 für
-    diesen Auftragnehmer; ist diese Angabe zum Zeitpunkt des Antrages noch
-    nicht bekannt, so ist sie, sobald bekannt, unverzüglich nachzuliefern.
+    Artikeln 28 bis 31 der Verordnung (EU) 2016/679 bedienen wird und in
+    diesem Fall die Angaben nach Nummer 1 für diesen Auftragnehmer; wobei
+    eine zum Zeitpunkt des Antrags noch nicht bekannte Angabe unverzüglich
+    nach ihrem Bekanntwerden nachzuliefern ist.
 
 
 
@@ -1133,7 +1441,7 @@ Daten dürfen ausschließlich für Zwecke des elektronischen
 Identitätsnachweises verwendet werden.
 
 
-## Kapitel 9 - Ausgabe von Berechtigungszertifikaten
+## Abschnitt 10 - Ausgabe von Berechtigungszertifikaten
 
 
 ### § 31 Angaben vor der Ausgabe von Berechtigungszertifikaten
@@ -1211,8 +1519,8 @@ werden. Zum Zwecke der Qualitätssicherung anhand von Testausweisen
 dürfen hoheitliche Berechtigungszertifikate auch an das Bundesamt für
 Sicherheit in der Informationstechnik ausgegeben werden.
 
-(2) Das Bundesministerium des Innern, für Bau und Heimat bestimmt,
-welche Stellen hoheitliche Berechtigungszertifikate an welche zur
+(2) Das Bundesministerium des Innern bestimmt, welche Stellen
+hoheitliche Berechtigungszertifikate an welche zur
 Identitätsfeststellung berechtigten Behörden ausgeben dürfen, und
 veröffentlicht dies im Bundesanzeiger.
 
@@ -1231,23 +1539,18 @@ Der Bund stellt Berechtigungszertifikate für öffentliche Stellen
 anderer Mitgliedstaaten zur Verfügung. Die Kommunikation und die
 Identifizierung der öffentlichen Stellen erfolgt über die
 einheitlichen Ansprechpartner nach dem Durchführungsbeschluss (EU)
-2015/296 der Kommission vom 24. Februar 2015 zur Festlegung von
-Verfahrensmodalitäten für die Zusammenarbeit zwischen den
-Mitgliedstaaten auf dem Gebiet der elektronischen Identifizierung
-gemäß Artikel 12 Absatz 7 der Verordnung (EU) Nr. 910/2014 des
-Europäischen Parlaments und des Rates über elektronische
-Identifizierung und Vertrauensdienste für elektronische Transaktionen
-im Binnenmarkt (ABl. L 53 vom 25.2.2015, S. 14).
+2015/296.
 
 
-## Kapitel 10 - eID-Karte für Unionsbürger und Angehörige des Europäischen Wirtschaftsraums
+## Abschnitt 11 - eID-Karte für Unionsbürger und Angehörige des Europäischen Wirtschaftsraums
 
 
 ### § 36b Entsprechende Anwendung der Vorschriften über den Personalausweis
 
-(1) Soweit dieses Kapitel keine besonderen Regelungen enthält, gelten
-für die die eID-Karte betreffenden Angelegenheiten die Vorschriften
-der Kapitel 1 bis 9 entsprechend.
+(1) Soweit dieser Abschnitt keine besonderen Regelungen enthält,
+gelten für die die eID-Karte betreffenden Angelegenheiten die
+Vorschriften des Abschnitts 1 sowie der Abschnitte 3 bis 10
+entsprechend.
 
 (2) An die Stelle von Ausweis und Ausweisinhaber treten die eID-Karte
 und ihr Inhaber, an die Stelle der Personalausweisbehörden treten die
@@ -1262,65 +1565,66 @@ Auf die eID-Karte finden keine Anwendung:
 1.  § 2 Satz 1 Nummer 1 Buchstabe a und Nummer 2 Buchstabe a,
 
 
-2.  § 4 Absatz 1 Nummer 4,
+2.  § 7,
 
 
-3.  § 7,
+3.  § 8 Absatz 1 Satz 2 Nummer 3,
 
 
-4.  § 8 Absatz 1 Satz 2 Nummer 3,
+4.  § 9,
 
 
-5.  § 9,
+5.  § 11,
 
 
-6.  § 11,
+6.  § 12,
 
 
-7.  § 12,
+7.  § 12a,
 
 
-8.  § 12a,
+8.  § 19 Absatz 1 und 4 sowie
 
 
-9.  § 19 Absatz 1 und 4 sowie
-
-
-10. § 21.
+9.  § 21.
 
 
 
 
 
-### § 36d Muster der eID-Karte
+### § 36d Abweichende Regelung für die eID-Karte
 
-Die eID-Karte ist nach dem in Anhang 3a abgedruckten Muster
+§ 20 Absatz 2 Satz 3 gilt mit der Maßgabe, dass der Zusteller bei der
+Übergabe des Briefes die Identität der antragstellenden Person durch
+Vorlage eines Personalausweises oder Passes des Mitgliedstaates,
+dessen Staatsangehörigkeit die antragstellende Person besitzt, zu
+überprüfen hat.
+
+
+### § 36e Muster der eID-Karte
+
+Die eID-Karte ist nach dem in Anlage 3a abgedruckten Muster
 herzustellen. Für die einzutragenden Daten gelten die formalen
-Anforderungen des Anhangs 3 Abschnitt 1 entsprechend.
+Anforderungen der Anlage 3 Abschnitt 1 entsprechend.
 
 
-## Kapitel 11 - Schlussvorschriften
+## Abschnitt 12 - Schlussvorschriften
 
 
 ### § 37 Übergangsregelungen
 
-(1) Vordrucke für vorläufige Personalausweise, die der Anlage 2 der
-bis zum 31. Oktober 2010 geltenden Verordnung zur Bestimmung der
-Muster der Personalausweise der Bundesrepublik Deutschland
-entsprechen, können bis zum 31. Oktober 2011 weiterverwendet werden.
-
-(2) Signaturkarten, die der Ausweishersteller zur Absicherung des
+(1) Signaturkarten, die der Ausweishersteller zur Absicherung des
 elektronischen Antragsprozesses der Ausweisbehörde vor dem 1. November
 2010 ausgestellt hat, behalten bis zum Ablauf der Gültigkeitsdauer
 ihre Geltung.
 
-(3) Abweichend von § 19 Absatz 1 Satz 1 können die
+(2) Abweichend von § 19 Absatz 1 Satz 1 können die
 Personalausweisbehörden der Länder, die nach § 23a des
 Bundesmeldegesetzes ein Verfahren zur elektronischen Anmeldung
 erproben, bis zum 30. April 2022 auch Änderungsaufkleber nach dem in
-Anhang 1a abgedruckten Muster verwenden.
+Anlage 1a abgedruckten Muster verwenden.
 
-(4) Bis zum Ablauf des 31. Dezember 2032 gilt § 5 Absatz 3 Nummer 1, 3
+(3) Bis zum Ablauf des 31. Dezember 2032 gilt § 5 Absatz 3 Nummer 1, 3
 und 4 sowie Absatz 4 Satz 4 mit den Maßgaben, dass die Frist zehn
 Jahre und drei Monate beträgt und wie folgt zu laufen beginnt:
 
@@ -1344,16 +1648,6 @@ Jahre und drei Monate beträgt und wie folgt zu laufen beginnt:
 
 
 
-(5) Bis zum 31. Oktober 2024 findet § 17 Absatz 1 und 2 mit der
-Maßgabe Anwendung, dass das Kuvert neben der Geheimnummer und der
-Entsperrnummer das Sperrkennwort enthalten kann, wenn dieses der
-antragstellenden Person von dem Ausweishersteller übersandt wird. Als
-Absenderanschrift ist die postalische Anschrift der ausstellenden
-Personalausweisbehörde anzugeben. Der Erhalt des Kuverts ist in diesem
-Fall unmittelbar vor der Aushändigung des Personalausweises und in der
-Form nach § 17 Absatz 1 Satz 2 durch die antragstellende Person zu
-bestätigen.
-
 
 ### § 38 Inkrafttreten
 
@@ -1365,9 +1659,10 @@ Diese Verordnung tritt mit Wirkung vom 1. November 2010 in Kraft.
 Der Bundesrat hat zugestimmt.
 
 
-### Anhang 1 Muster des Personalausweises
+### Anlage 1 Muster des Personalausweises
 
-(Fundstelle: BGBl. 2024 I Nr. 125)
+(Fundstelle: BGBl. 2024 I Nr. 125;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Vorderseite
 
@@ -1377,27 +1672,31 @@ Rückseite
 ![bgbl1_2024_j01250_1020.jpg](bgbl1_2024_j01250_1020.jpg)
 
 
-### Anhang 1a Muster des Aufklebers zur Anschriftenänderung des Personalausweises
+### Anlage 1a Muster des Aufklebers zur Anschriftenänderung des Personalausweises
 
-(Fundstelle: BGBl. I 2021, 3691)
+(Fundstelle: BGBl. I 2021, 3691;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 ![bgbl1_2021_j3682-1_0070.jpg](bgbl1_2021_j3682-1_0070.jpg)
 
-### Anhang 1b Muster des Aufklebers zur Anschriftenänderung des Personalausweises nach elektronischer Anmeldung nach § 23a des Bundesmeldegesetzes
+### Anlage 1b Muster des Aufklebers zur Anschriftenänderung des Personalausweises nach elektronischer Anmeldung nach § 23a des Bundesmeldegesetzes
 
-(Fundstelle: BGBl. I 2021, 3691)
+(Fundstelle: BGBl. I 2021, 3691;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 ![bgbl1_2021_j3682-1_0080.jpg](bgbl1_2021_j3682-1_0080.jpg)
 
-### Anhang 1c Muster des Aufklebers mit Brailleschrift für den Personalausweis und die eID-Karte
+### Anlage 1c Muster des Aufklebers mit Brailleschrift für den Personalausweis und die eID-Karte
 
-(Fundstelle: BGBl. I 2021, 3692)
+(Fundstelle: BGBl. I 2021, 3692;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 ![bgbl1_2021_j3682-1_0090.jpg](bgbl1_2021_j3682-1_0090.jpg)
 
-### Anhang 2 Muster des vorläufigen Personalausweises
+### Anlage 2 Muster des vorläufigen Personalausweises
 
-(Fundstelle: BGBl. I 2020, 2754)
+(Fundstelle: BGBl. I 2020, 2754;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Vorderseite
 
@@ -1410,9 +1709,10 @@ Personalausweises
 
 ![bgbl1_2020_j2744-1_0060.jpg](bgbl1_2020_j2744-1_0060.jpg)
 
-### Anhang 2a Muster des Ersatz-Personalausweises
+### Anlage 2a Muster des Ersatz-Personalausweises
 
-(Fundstelle: BGBl. I 2015, 1102)
+(Fundstelle: BGBl. I 2015, 1102;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Vorderseite
 
@@ -1421,7 +1721,7 @@ Rückseite
 
 ![bgbl1_2015_j1101-1_0020.jpg](bgbl1_2015_j1101-1_0020.jpg)
 
-### Anhang 3
+### Anlage 3
 
 (Fundstelle: BGBl. I 2010, 1471 - 1474;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1534,7 +1834,7 @@ Vorbemerkung:
     *   Anzahl der zur Verfügung stehenden Zeichen
 
 
-*    *[^F1_790187_BJNR146000010BJNE004407130]
+*    *[^F1_790187_BJNR146000010BJNE004409130]
    Schriftgröße
         1
         Schriftfont des Ausweisherstellers: (2 mm)
@@ -1637,7 +1937,7 @@ Vorbemerkung:
         1 Zeile (insgesamt 32 Zeichen)
 
 
-*    *[^F829576_02_BJNR146000010BJNE004407130]
+*    *[^F829576_02_BJNR146000010BJNE004409130]
    Ordens- und Künstlername
 
     *   20 Zeichen pro Zeile;
@@ -1713,163 +2013,196 @@ Vorbemerkung:
 
 
 
-Abschnitt 2
+**Abschnitt 2**              (zu § 7 Absatz 3)
+
+## Anforderungen an das Lichtbild für den Ausweis im Sinne des § 2
+Absatz 1 des Personalausweisgesetzes
 
 
-*    *   **Musterfoto**
+*    *        ![bgbl1_2025_j02600_0450.jpg](bgbl1_2025_j02600_0450.jpg)
+    *   Das Foto zeigt das Gesicht von der Kinnspitze bis zum oberen Kopfende.
+        Beide Gesichtshälften sind deutlich erkennbar. Das Gesicht nimmt 70
+        bis 80 % der Höhe des Fotos ein.
 
-    *        ![bgbl1_2010_j1460-1_0060.jpg](bgbl1_2010_j1460-1_0060.jpg)
+    *
+    *
+    *
 
-*    *   Qualitativ hochwertige Fotos sind die Grundlage einer einwandfreien
-        Wiedergabe des Bildes und Voraussetzung für die Anwendung der
-        Gesichtsbiometrie in Personalausweisen. Dieser Foto-Mustertafel sind
-        die Qualitätsmerkmale zu entnehmen, die die Eignung der Fotos für den
-        vorgesehenen Einsatz in Personalausweisen gewährleisten. Es ist
-        dringend erforderlich, die hier beschriebenen Anforderungen zu
-        beachten, da sonst eine biometrische Erkennung der antragstellenden
-        Person sowie die einwandfreie Wiedergabe des Bildes im Dokument nicht
-        gewährleistet sind. Die antragstellende Person ist grundsätzlich ohne
-        Kopfbedeckung abzubilden. Die Ausweisbehörde kann vom Gebot der
-        fehlenden Kopfbedeckung insbesondere aus religiösen Gründen, von den
-        übrigen Anforderungen aus medizinischen Gründen, die nicht nur
-        vorübergehender Art sind, Ausnahmen zulassen. Auf den Fotos sind keine
-        Uniformteile abzubilden.
+*    *        ![bgbl1_2025_j02600_0460.jpg](bgbl1_2025_j02600_0460.jpg)
+    *   **Ausleuchtung**
+        Das Gesicht ist an allen Stellen gleichmäßig ausgeleuchtet und
+        reflektiert nicht. Rote Augen sind zu vermeiden.
 
+    *        ![bgbl1_2025_j02600_0470.jpg](bgbl1_2025_j02600_0470.jpg)
+    *        ![bgbl1_2025_j02600_0480.jpg](bgbl1_2025_j02600_0480.jpg)
+    *        ![bgbl1_2025_j02600_0490.jpg](bgbl1_2025_j02600_0490.jpg)
 
-*    *   **Format**
+*    *   Schlagschatten
 
-    *        ![bgbl1_2010_j1460-1_0070.jpg](bgbl1_2010_j1460-1_0070.jpg)
+    *   Zu dunkel
 
-*    *   Das Foto muss die Gesichtszüge der Person von der Kinnspitze bis zum
-        oberen Kopfende sowie die linke und rechte Gesichtshälfte deutlich
-        zeigen. Die Gesichtshöhe muss 70 bis 80 Prozent des Fotos einnehmen.
-        Dies entspricht einer Höhe von 32 bis 36 Millimeter von der Kinnspitze
-        bis zum oberen Kopfende. Dabei ist das obere Kopfende unter
-        Vernachlässigung der Frisur anzunehmen. Wegen des häufig nicht
-        eindeutig zu bestimmenden oberen Kopfendes sind Lichtbilder jedoch
-        erst dann abzulehnen, wenn die Gesichtshöhe 27 Millimeter
-        unterschreitet oder 40 Millimeter überschreitet. Bei volumenreichem
-        Haar sollte darauf geachtet werden, dass der Kopf (einschließlich
-        Frisur) möglichst vollständig abgebildet ist, ohne aber die
-        Gesichtsgröße zu verkleinern. Das Gesicht muss zentriert auf dem Foto
-        platziert sein.
+    *   Reflexion im Gesicht
 
 
-*    *   **Schärfe und Kontrast**
+*    *        ![bgbl1_2025_j02600_0500.jpg](bgbl1_2025_j02600_0500.jpg)
+    *   **Kopfposition**
+        Der Kopf ist mittig im Foto positioniert und gerade.
 
-    *        ![bgbl1_2010_j1460-1_0080.jpg](bgbl1_2010_j1460-1_0080.jpg)
+    *        ![bgbl1_2025_j02600_0510.jpg](bgbl1_2025_j02600_0510.jpg)
+    *        ![bgbl1_2025_j02600_0520.jpg](bgbl1_2025_j02600_0520.jpg)
+    *        ![bgbl1_2025_j02600_0530.jpg](bgbl1_2025_j02600_0530.jpg)
 
-*    *   Das Gesicht muss in allen Bereichen scharf abgebildet, kontrastreich
-        und klar sein.
+*    *   Kopfneigung zur Seite
 
+    *   Nach unten oder oben
 
-*    *   **Ausleuchtung**
-
-    *        ![bgbl1_2010_j1460-1_0090.jpg](bgbl1_2010_j1460-1_0090.jpg)
-
-*    *   Das Gesicht muss gleichmäßig ausgeleuchtet werden. Reflexionen oder
-        Schatten im Gesicht sowie rote Augen sind zu vermeiden.
-
-
-*    *   **Hintergrund**
-
-    *        ![bgbl1_2010_j1460-1_0100.jpg](bgbl1_2010_j1460-1_0100.jpg)
-
-*    *   Der Hintergrund muss einfarbig hell sein (idealerweise neutral grau)
-        und einen Kontrast zum Gesicht und zu den Haaren aufweisen. Bei hellen
-        Haaren eignet sich ein mittelgrauer Hintergrund, bei dunklen Haaren
-        ein hellgrauer. Der Hintergrund darf kein Muster aufweisen. Das Foto
-        darf ausschließlich die zu fotografierende Person zeigen (keine
-        weiteren Personen oder Gegenstände im Bild). Auf dem Hintergrund
-        dürfen keine Schatten entstehen.
+    *   Nicht zentriert
 
 
-*    *   **Fotoqualität**
+*    *        ![bgbl1_2025_j02600_0540.jpg](bgbl1_2025_j02600_0540.jpg)
+    *   **Schärfe und Kontrast**
+        Das Gesicht ist in allen Bereichen scharf abgebildet und
+        kontrastreich.
 
-    *        ![bgbl1_2010_j1460-1_0110.jpg](bgbl1_2010_j1460-1_0110.jpg)
+    *        ![bgbl1_2025_j02600_0550.jpg](bgbl1_2025_j02600_0550.jpg)
+    *        ![bgbl1_2025_j02600_0560.jpg](bgbl1_2025_j02600_0560.jpg)
+    *        ![bgbl1_2025_j02600_0570.jpg](bgbl1_2025_j02600_0570.jpg)
 
-*    *   Das Foto sollte mit einer Auflösung von mindestens 600 dpi vorliegen.
-        Das Foto muss farbneutral sein und die natürlichen Hauttöne
-        wiedergeben. Digitale Fotos sind grundsätzlich in Farbe vorzulegen.
-        Ist die Vorlage eines papierbasierten Fotos in Ausnahmefällen
-        gestattet, darf dieses Foto in Farbe oder Schwarzweiß vorgelegt
-        werden; es darf jedoch keine Knicke oder Verunreinigung aufweisen.
+*    *   Schärfe unzureichend
 
+    *   Mangelnder Kontrast
+        (zu dunkel)
 
-*    *   **Kopfposition und Gesichtsausdruck**
-
-    *        ![bgbl1_2010_j1460-1_0120.jpg](bgbl1_2010_j1460-1_0120.jpg)
-
-*    *   Eine Darstellung der Person mit geneigtem oder gedrehtem Kopf (zum
-        Beispiel Halbprofil) ist nicht zulässig. Die Person muss mit neutralem
-        Gesichtsausdruck und geschlossenem Mund gerade in die Kamera blicken.
+    *   Mangelnder Kontrast
+        (zu hell)
 
 
-*    *   **Augen und Blickrichtung**
+*    *        ![bgbl1_2025_j02600_0580.jpg](bgbl1_2025_j02600_0580.jpg)
+    *   **Hintergrund**
+        Der schattenfreie Hintergrund ist einfarbig und bildet zum Gesicht
+        sowie zu den Haaren einen deutlichen Kontrast.
 
-    *        ![bgbl1_2010_j1460-1_0130.jpg](bgbl1_2010_j1460-1_0130.jpg)
+    *        ![bgbl1_2025_j02600_0590.jpg](bgbl1_2025_j02600_0590.jpg)
+    *        ![bgbl1_2025_j02600_0600.jpg](bgbl1_2025_j02600_0600.jpg)
+    *        ![bgbl1_2025_j02600_0610.jpg](bgbl1_2025_j02600_0610.jpg)
 
-*    *   Die Person muss auf dem Foto direkt in die Kamera blicken. Die Augen
-        müssen geöffnet und deutlich sichtbar sein und dürfen nicht durch
-        Haare oder Brillengestelle verdeckt werden.
+*    *   Hintergrund mit Muster
 
+    *   Hintergrund ohne Kontrast
 
-*    *   **Brillenträger**
-
-    *        ![bgbl1_2010_j1460-1_0140.jpg](bgbl1_2010_j1460-1_0140.jpg)
-
-*    *   Die Augen müssen klar und deutlich erkennbar sein (Reflexionen auf den
-        Brillengläsern, getönte Gläser oder Sonnenbrillen sind nicht
-        zulässig). Der Rand der Gläser oder das Gestell dürfen nicht die Augen
-        verdecken.
+    *   Hintergrund mit Schatten
 
 
-*    *   **Kopfbedeckung**
+*    *        ![bgbl1_2025_j02600_0620.jpg](bgbl1_2025_j02600_0620.jpg)
+    *   **Fotoqualität**
+        Die Farben und insbesondere der Hautton werden auf dem Foto
+        realitätsgetreu wiedergegeben. Digitale Fotos liegen in Farbe vor.
 
-    *        ![bgbl1_2010_j1460-1_0150.jpg](bgbl1_2010_j1460-1_0150.jpg)
+    *        ![bgbl1_2025_j02600_0630.jpg](bgbl1_2025_j02600_0630.jpg)
+    *        ![bgbl1_2025_j02600_0640.jpg](bgbl1_2025_j02600_0640.jpg)
+    *        ![bgbl1_2025_j02600_0650.jpg](bgbl1_2025_j02600_0650.jpg)
 
-*    *   Kopfbedeckungen sind grundsätzlich nicht erlaubt. Ausnahmen sind
-        insbesondere aus religiösen Gründen zulässig. In diesem Fall gilt: das
-        Gesicht muss von der unteren Kinnkante bis zur Stirn erkennbar sein.
-        Es dürfen keine Schatten auf dem Gesicht entstehen.
+*    *   Mit Retuschen/Filter
 
+    *   Weichzeichen
 
-*    *   **Kinder**
-
-    *        ![bgbl1_2010_j1460-1_0160.jpg](bgbl1_2010_j1460-1_0160.jpg)
-
-*    *   Bei Kindern bis zum vollendeten zehnten Lebensjahr sind folgende
-        Abweichungen bei der Gesichtshöhe und im Augenbereich zulässig: Die
-        Gesichtshöhe bei Kindern muss 50 bis 80 Prozent des Fotos einnehmen.
-        Dies entspricht einer Höhe von 22 bis 36 Millimeter von der Kinnspitze
-        bis zum oberen Kopfende. Dabei ist das obere Kopfende unter
-        Vernachlässigung der Frisur anzunehmen. Wegen des häufig nicht
-        eindeutig zu bestimmenden oberen Kopfendes sind Fotos jedoch erst dann
-        abzulehnen, wenn die Gesichtshöhe 17 Millimeter unterschreitet oder 40
-        Millimeter überschreitet. Bei Säuglingen und Kleinkindern gelten
-        zusätzlich die nachfolgend beschriebenen Abweichungen.
+    *   Zu geringe Auflösung
 
 
-*    *   **Säuglinge und Kleinkinder**
+*    *        ![bgbl1_2025_j02600_0660.jpg](bgbl1_2025_j02600_0660.jpg)
+    *   **Gesichtsausdruck**
+        Der Gesichtsausdruck ist neutral. Der Blick ist geradeaus in die
+        Kamera gerichtet und der Mund geschlossen.
 
-    *        ![bgbl1_2010_j1460-1_0170.jpg](bgbl1_2010_j1460-1_0170.jpg)
+    *        ![bgbl1_2025_j02600_0670.jpg](bgbl1_2025_j02600_0670.jpg)
+    *        ![bgbl1_2025_j02600_0680.jpg](bgbl1_2025_j02600_0680.jpg)
+    *        ![bgbl1_2025_j02600_0690.jpg](bgbl1_2025_j02600_0690.jpg)
 
-*    *   Bei Säuglingen und Kleinkindern bis zum vollendeten sechsten
-        Lebensjahr sind zusätzlich zu den unter der Überschrift „Kinder“
-        dargestellten Ausnahmen Abweichungen in der Kopfhaltung (nicht von der
-        Frontalaufnahme!), im Gesichtsausdruck, hinsichtlich Augen und
-        Blickrichtung sowie hinsichtlich der Zentrierung auf dem Foto
+*    *   Lachen, Mund offen
+
+    *   Augen zu, zusammengekniffen
+
+    *   Grimasse
+
+
+*    *        ![bgbl1_2025_j02600_0700.jpg](bgbl1_2025_j02600_0700.jpg)
+    *   **Sichtbarkeit der Augen**
+        Die Augen sind klar und deutlich erkennbar. Sie sind nicht verdeckt.
+
+    *        ![bgbl1_2025_j02600_0710.jpg](bgbl1_2025_j02600_0710.jpg)
+    *        ![bgbl1_2025_j02600_0720.jpg](bgbl1_2025_j02600_0720.jpg)
+    *        ![bgbl1_2025_j02600_0730.jpg](bgbl1_2025_j02600_0730.jpg)
+
+*    *   Brillenrahmen verdeckt Augen
+
+    *   Haare verdecken
+        die Augen,
+        Rote-Augen-Effekt
+
+    *   Brillengläser zu dunkel, Spiegelung
+
+
+*    *        ![bgbl1_2025_j02600_0740.jpg](bgbl1_2025_j02600_0740.jpg)
+    *   **Kopfbedeckung**
+        Kopfbedeckungen sind nur aus religiösen Gründen zulässig. In diesen
+        Fällen gilt: Das Gesicht ist von der unteren Kinnkante bis zur Stirn
+        sichtbar. Schatten auf dem Gesicht sind nicht erkennbar.
+
+    *        ![bgbl1_2025_j02600_0750.jpg](bgbl1_2025_j02600_0750.jpg)
+    *        ![bgbl1_2025_j02600_0760.jpg](bgbl1_2025_j02600_0760.jpg)
+    *        ![bgbl1_2025_j02600_0770.jpg](bgbl1_2025_j02600_0770.jpg)
+
+*    *   Mütze
+
+    *   Burka
+
+    *   Gesicht nicht ausreichend sichtbar
+
+
+*    *        ![bgbl1_2025_j02600_0780.jpg](bgbl1_2025_j02600_0780.jpg)
+    *   **Kinder**
+        Das Gesicht nimmt 50 bis 80 % der Höhe des Fotos ein. Bis zum
+        vollendeten 10. Lebensjahr sind im Übrigen kleinere Abweichungen
         zulässig.
+
+    *        ![bgbl1_2025_j02600_0790.jpg](bgbl1_2025_j02600_0790.jpg)
+    *        ![bgbl1_2025_j02600_0800.jpg](bgbl1_2025_j02600_0800.jpg)
+    *        ![bgbl1_2025_j02600_0810.jpg](bgbl1_2025_j02600_0810.jpg)
+
+*    *   Kopfbedeckung
+
+    *   Gegenstand im Bild
+
+    *   Grimasse
+
+
+*    *        ![bgbl1_2025_j02600_0820.jpg](bgbl1_2025_j02600_0820.jpg)
+    *   **(Klein-)Kinder und Babys**
+        Es handelt sich um eine Frontalaufnahme. Bis zum vollendeten 6.
+        Lebensjahr sind auf dem Foto weitere Ausnahmen in der Kopfposition, im
+        Gesichtsausdruck und bei der Sichtbarkeit der Augen zulässig.
+
+    *        ![bgbl1_2025_j02600_0830.jpg](bgbl1_2025_j02600_0830.jpg)
+    *        ![bgbl1_2025_j02600_0840.jpg](bgbl1_2025_j02600_0840.jpg)
+    *        ![bgbl1_2025_j02600_0850.jpg](bgbl1_2025_j02600_0850.jpg)
+
+*    *   Kopf zu groß
+
+    *   Zweite Person, Gegenstand im Hintergrund
+
+    *   Keine Frontalaufnahme
+
 
 
 
     Die Schriftgröße ist am Großbuchstaben E auszurichten.
-[^F1_790187_BJNR146000010BJNE004407130]:     Gilt nur für den Personalausweis.
-[^F829576_02_BJNR146000010BJNE004407130]: 
+[^F1_790187_BJNR146000010BJNE004409130]:     Gilt nur für den Personalausweis.
+[^F829576_02_BJNR146000010BJNE004409130]: 
 
-### Anhang 3a Muster der eID-Karte
+### Anlage 3a Muster der eID-Karte
 
-(Fundstelle: BGBl. I 2020, 2200)
+(Fundstelle: BGBl. I 2020, 2200;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Vorderseite
 
@@ -1879,7 +2212,7 @@ Rückseite
 
 
 
-### Anhang 4 Übersicht über die zu zertifizierenden Systemkomponenten
+### Anlage 4 Übersicht über die zu zertifizierenden Systemkomponenten
 
 (Fundstelle: BGBl. I 2010, 1476;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1919,19 +2252,17 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   4
 
-    *   System zur sicheren Übermittlung des Lichtbildes von Dritten an die
-        Personalausweisbehörde
+    *   (weggefallen)
 
-    *   Verpflichtung für die Personalausweisbehörden, welche das Lichtbild
-        gemäß § 7 Absatz 1 Satz 2 Nummer 1 von Dritten erhalten
-
+    *
 
 *    *   5
 
     *   Erfassungsstation zur Fertigung des Lichtbildes
 
     *   Verpflichtung für die Personalausweisbehörden, die das Lichtbild gemäß
-        § 7 Absatz 1 Satz 2 Nummer 2 selbst fertigen
+        §§ 6a, 7 Absatz 1 Satz 3 selbst fertigen oder für Dienstleister, die
+        Lichtbildaufnahmegeräte im Sinne des § 5a Absatz 2 Nummer 2 verwenden
 
 
 *    *   6
@@ -1984,6 +2315,21 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         Diensteanbietern oder ihrer Auftragnehmer (eID-Server)
 
     *   Verpflichtung für den Diensteanbieter oder dessen Auftragnehmer
+
+
+*    *   12
+
+    *   Hard- und Software zum Betrieb der Cloud
+
+    *   Verpflichtung für den Cloudanbieter
+
+
+*    *   13
+
+    *   Software zur Verschlüsselung und Übertragung der Lichtbilder von
+        Dienstleistern an die Cloud
+
+    *   Verpflichtung für die Softwarehersteller
 
 
 

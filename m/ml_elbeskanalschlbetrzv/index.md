@@ -32,7 +32,6 @@ wird verordnet:
 Die Betriebszeiten der Schleusen am Mittellandkanal, seinen
 Zweigkanälen und am Elbe-Seitenkanal werden wie folgt festgesetzt:
 
-
 *    *   1.
 
     *   Mittellandkanal
@@ -337,6 +336,7 @@ Zweigkanälen und am Elbe-Seitenkanal werden wie folgt festgesetzt:
     *   am Neujahrstag und an beiden Weihnachtsfeiertagen
 
     *   Betriebsruhe
+
 
 
 

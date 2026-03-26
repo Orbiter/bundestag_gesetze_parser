@@ -20,7 +20,7 @@ Neugefasst durch
 :   Bek. v. 13.5.2011 I 850, 2094;
 
 Zuletzt geändert durch
-:   Art. 5 G v. 27.3.2024 I Nr. 107
+:   Art. 8 G v. 22.12.2025 I Nr. 363
 
 
 ## Kapitel 1 - Fördern und Fordern
@@ -137,13 +137,12 @@ erforderlich. Von der Erforderlichkeit für die dauerhafte
 Eingliederung ist insbesondere auszugehen, wenn leistungsberechtigte
 Personen ohne Berufsabschluss Leistungen zur Unterstützung der
 Aufnahme einer Ausbildung nach diesem Buch, dem Dritten Buch oder auf
-anderer rechtlicher Grundlage erhalten oder an einer nach § 16 Absatz
-1 Satz 2 Nummer 4 in Verbindung mit § 81 des Dritten Buches zu
-fördernden beruflichen Weiterbildung teilnehmen oder voraussichtlich
-teilnehmen werden. Die Verpflichtung zur vorrangigen Aufnahme einer
-Ausbildung oder Erwerbstätigkeit gilt nicht im Verhältnis zur
-Förderung von Existenzgründungen mit einem Einstiegsgeld für eine
-selbständige Erwerbstätigkeit nach § 16b.
+anderer rechtlicher Grundlage erhalten oder an einer nach § 81 des
+Dritten Buches zu fördernden beruflichen Weiterbildung teilnehmen oder
+voraussichtlich teilnehmen werden. Die Verpflichtung zur vorrangigen
+Aufnahme einer Ausbildung oder Erwerbstätigkeit gilt nicht im
+Verhältnis zur Förderung von Existenzgründungen mit einem
+Einstiegsgeld für eine selbständige Erwerbstätigkeit nach § 16b.
 
 (2) Bei der Beantragung von Leistungen nach diesem Buch sollen
 unverzüglich Leistungen zur Eingliederung in Arbeit nach dem Ersten
@@ -567,8 +566,9 @@ Ausgenommen sind
     a)  die kein Aufenthaltsrecht haben oder
 
 
-    b)  deren Aufenthaltsrecht sich allein aus dem Zweck der Arbeitsuche
-        ergibt,
+    b)  deren Aufenthaltsrecht sich allein aus dem Zweck der Arbeitsuche, der
+        Ausbildungs- oder Studienplatzsuche oder aus einer
+        Aufenthaltserlaubnis nach § 20a des Aufenthaltsgesetzes ergibt,
 
 
 
@@ -1082,7 +1082,9 @@ monatlichen Teilbetrag zu berücksichtigen.
 1.  Leistungen nach diesem Buch,
 
 
-2.  (weggefallen)
+2.  Ausgleich für gesundheitliche Schädigungsfolgen nach dem
+    Soldatenentschädigungsgesetz sowie Ausgleichszahlungen an
+    Hinterbliebene nach dem Soldatenentschädigungsgesetz,
 
 
 3.  die Renten oder Beihilfen, die nach dem Bundesentschädigungsgesetz für
@@ -1097,9 +1099,9 @@ monatlichen Teilbetrag zu berücksichtigen.
 
 
 5.  Aufwandsentschädigungen oder Einnahmen aus nebenberuflichen
-    Tätigkeiten, die nach § 3 Nummer 12, Nummer 26 oder Nummer 26a des
-    Einkommensteuergesetzes steuerfrei sind, soweit diese Einnahmen einen
-    Betrag in Höhe von 3 000 Euro im Kalenderjahr nicht überschreiten,
+    Tätigkeiten, die nach § 3 Nummer 12, Nummer 26 oder Nummer 26a des
+    Einkommensteuergesetzes steuerfrei sind, bis zur Höhe des in § 3
+    Nummer 26 des Einkommensteuergesetzes genannten Betrags,
 
 
 6.  Mutterschaftsgeld nach § 19 des Mutterschutzgesetzes
@@ -1664,9 +1666,7 @@ des Dritten Kapitels des Dritten Buches erbringen:
     5,
 
 
-4.  Leistungen zur beruflichen Weiterbildung nach dem Vierten Abschnitt,
-    mit Ausnahme von Leistungen nach § 82 Absatz 5 und § 82a, und
-    Leistungen nach den §§ 131a und 131b,
+4.  (weggefallen)
 
 
 5.  Leistungen zur Aufnahme einer sozialversicherungspflichtigen
@@ -1674,26 +1674,8 @@ des Dritten Kapitels des Dritten Buches erbringen:
 
 
 
-Für Eingliederungsleistungen an erwerbsfähige Leistungsberechtigte mit
-Behinderungen nach diesem Buch gelten entsprechend
-
-1.  die §§ 112 bis 114, 115 Nummer 1 bis 3 mit Ausnahme
-    berufsvorbereitender Bildungsmaßnahmen und der
-    Berufsausbildungsbeihilfe sowie § 116 Absatz 1, 2, 5 und 6 des Dritten
-    Buches,
-
-
-2.  § 117 Absatz 1 und § 118 Nummer 3 des Dritten Buches für die
-    besonderen Leistungen zur Förderung der beruflichen Weiterbildung,
-
-
-3.  die §§ 127 und 128 des Dritten Buches für die besonderen Leistungen
-    zur Förderung der beruflichen Weiterbildung.
-
-
-
-§ 1 Absatz 2 Nummer 4 sowie § 36 und § 81 Absatz 2 und 3 des Dritten
-Buches sind entsprechend anzuwenden.
+§ 1 Absatz 2 Nummer 4 sowie die §§ 36 und 76 des Dritten Buches sind
+entsprechend anzuwenden.
 
 (2) Soweit dieses Buch nichts Abweichendes regelt, gelten für die
 Leistungen nach Absatz 1 die Regelungen des Dritten Buches mit
@@ -1703,39 +1685,11 @@ Maßgabe, dass an die Stelle des Arbeitslosengeldes das Bürgergeld nach
 § 19 Absatz 1 Satz 1 tritt. § 44 Absatz 3 Satz 3 des Dritten Buches
 gilt mit der Maßgabe, dass die Förderung aus dem Vermittlungsbudget
 auch die anderen Leistungen nach dem Zweiten Buch nicht aufstocken,
-ersetzen oder umgehen darf. Für die Teilnahme erwerbsfähiger
-Leistungsberechtigter an einer Maßnahme zur beruflichen Weiterbildung
-im Rahmen eines bestehenden Arbeitsverhältnisses werden Leistungen
-nach Absatz 1 Satz 2 Nummer 4 in Verbindung mit § 82 des Dritten
-Buches nicht gewährt, wenn die betreffende Maßnahme auf ein nach § 2
-Absatz 1 des Aufstiegsfortbildungsförderungsgesetzes förderfähiges
-Fortbildungsziel vorbereitet.
+ersetzen oder umgehen darf.
 
 (3) Abweichend von § 44 Absatz 1 Satz 1 des Dritten Buches können
 Leistungen auch für die Anbahnung und Aufnahme einer schulischen
 Berufsausbildung erbracht werden.
-
-(3a) Abweichend von § 81 Absatz 4 des Dritten Buches kann die Agentur
-für Arbeit unter Anwendung des Vergaberechts Träger mit der
-Durchführung von Maßnahmen der beruflichen Weiterbildung beauftragen,
-wenn die Maßnahme den Anforderungen des § 180 des Dritten Buches
-entspricht und
-
-1.  eine dem Bildungsziel entsprechende Maßnahme örtlich nicht verfügbar
-    ist oder
-
-
-2.  die Eignung und persönlichen Verhältnisse der erwerbsfähigen
-    Leistungsberechtigten dies erfordern.
-
-
-
-§ 176 Absatz 2 des Dritten Buches findet keine Anwendung.
-
-(3b) Abweichend von § 87a Absatz 2 des Dritten Buches erhalten
-erwerbsfähige Leistungsberechtigte auch im Rahmen eines bestehenden
-Arbeitsverhältnisses ein Weiterbildungsgeld, sofern sie die sonstigen
-Voraussetzungen nach § 87a Absatz 1 des Dritten Buches erfüllen.
 
 (4) Die Agentur für Arbeit als Träger der Grundsicherung für
 Arbeitsuchende kann die Ausbildungsvermittlung durch die für die
@@ -1745,8 +1699,6 @@ durch Rechtsverordnung ohne Zustimmung des Bundesrates das Nähere über
 die Höhe, Möglichkeiten der Pauschalierung und den Zeitpunkt der
 Fälligkeit der Erstattung von Aufwendungen bei der Ausführung des
 Auftrags nach Satz 1 festzulegen.
-
-(5) (weggefallen)
 
 
 #### § 16a Kommunale Eingliederungsleistungen
@@ -3772,11 +3724,15 @@ Absätzen 1 oder 2 zuständig ist oder wäre.
 
 #### § 36a Kostenerstattung bei Aufenthalt im Frauenhaus
 
-Sucht eine Person in einem Frauenhaus Zuflucht, ist der kommunale
+(1) Sucht eine Person in einem Frauenhaus Zuflucht, ist der kommunale
 Träger am bisherigen gewöhnlichen Aufenthaltsort verpflichtet, dem
 durch die Aufnahme im Frauenhaus zuständigen kommunalen Träger am Ort
 des Frauenhauses die Kosten für die Zeit des Aufenthaltes im
 Frauenhaus zu erstatten.
+
+(2) Bei Zeiträumen ab 1. Januar 2032 sind Kosten für die Zeit des
+Aufenthaltes im Frauenhaus nach Absatz 1 nicht mehr unter den
+kommunalen Trägern erstattungsfähig.
 
 
 #### § 37 Antragserfordernis
@@ -5312,7 +5268,8 @@ eines Bundeslandes umfasst.
 
 ### § 52a Überprüfung von Daten
 
-(1) Die Agentur für Arbeit darf bei Personen, die Leistungen nach
+(1) Die Agentur für Arbeit darf zur Sicherstellung einer
+ordnungsgemäßen Leistungserbringung bei Personen, die Leistungen nach
 diesem Buch beantragt haben, beziehen oder bezogen haben, Auskunft
 einholen
 
@@ -5322,11 +5279,10 @@ einholen
 
 
 2.  aus dem Melderegister nach den §§ 34 und 38 bis 41 des
-    Bundesmeldegesetzes und dem Ausländerzentralregister,
+    Bundesmeldegesetzes und dem Ausländerzentralregister.
 
 
 
-soweit dies zur Bekämpfung von Leistungsmissbrauch erforderlich ist.
 
 (2) Die Agentur für Arbeit darf Daten von Personen, die Leistungen
 nach diesem Buch beantragt haben, beziehen oder bezogen haben und die
@@ -5851,6 +5807,13 @@ worden, richtet sich eine Verlängerung nach den zum Zeitpunkt der
 Entscheidung über die Verlängerung geltenden Vorschriften.
 
 
+### § 66a Übergangsregelung aus Anlass des Haushaltsfinanzierungsgesetzes 2024
+
+§ 66 findet entsprechende Anwendung beim Übergang der Förderung der
+beruflichen Weiterbildung und der beruflichen Rehabilitation von den
+Jobcentern auf die Agenturen für Arbeit zum 1. Januar 2025.
+
+
 ### § 67 Vereinfachtes Verfahren für den Zugang zu sozialer Sicherung aus Anlass der COVID-19-Pandemie; Verordnungsermächtigung
 
 (1) Leistungen für Bewilligungszeiträume, die in der Zeit vom 1. März
@@ -5979,7 +5942,7 @@ leistungsberechtigte Person berücksichtigt wird.
 (1) Kinder, Jugendliche und junge Erwachsene, die Anspruch auf
 Bürgergeld haben, dem ein Regelbedarf nach den Regelbedarfsstufen 3,
 4, 5 oder 6 zu Grunde liegt, haben zusätzlich Anspruch auf einen
-monatlichen Sofortzuschlag in Höhe von 20 Euro. Satz 1 gilt auch für
+monatlichen Sofortzuschlag in Höhe von 25 Euro. Satz 1 gilt auch für
 Kinder, Jugendliche und junge Erwachsene, die
 
 1.  nur einen Anspruch auf eine Bildungs- und Teilhabeleistung haben oder
@@ -6107,12 +6070,8 @@ Einrichtungen, die nach § 44g Absatz 2 in der bis zum 31. Dezember
 2014 geltenden Fassung erfolgt ist, gilt fort.
 
 
-### § 80 Übergangsregelung aus Anlass des Gesetzes zur Regelung des Sozialen Entschädigungsrechts
+### § 80 (weggefallen)
 
-Für Personen, die Leistungen nach dem Soldatenversorgungsgesetz in
-Verbindung mit dem Bundesversorgungsgesetz erhalten, gelten § 11a
-Absatz 1 Nummer 2, § 18 Absatz 1 Nummer 1 und § 44a Absatz 3 Satz 2 in
-der bis zum 31. Dezember 2023 geltenden Fassung weiter.
 
 
 ### § 81 (weggefallen)

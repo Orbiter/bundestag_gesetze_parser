@@ -1,8 +1,6 @@
 ---
 Title: Verordnung über die Ausstellung von Pflichtversicherungsbescheinigungen nach
-  dem Ölschadengesetz (Artikel 1 der Verordnung über die Ausstellung von Bescheinigungen
-  nach dem Ölschadengesetz und zur Änderung der Kostenverordnung für Amtshandlungen
-  des Bundesamtes für Seeschiffahrt und Hydrographie)
+  dem Ölschadengesetz
 jurabk: ÖlHaftBeschV 1996
 layout: default
 origslug: _lhaftbeschv_1996
@@ -10,7 +8,7 @@ slug: oelhaftbeschv_1996
 
 ---
 
-# Verordnung über die Ausstellung von Pflichtversicherungsbescheinigungen nach dem Ölschadengesetz (Artikel 1 der Verordnung über die Ausstellung von Bescheinigungen nach dem Ölschadengesetz und zur Änderung der Kostenverordnung für Amtshandlungen des Bundesamtes für Seeschiffahrt und Hydrographie) (ÖlHaftBeschV 1996)
+# Verordnung über die Ausstellung von Pflichtversicherungsbescheinigungen nach dem Ölschadengesetz (ÖlHaftBeschV 1996)
 
 Ausfertigungsdatum
 :   1996-05-30

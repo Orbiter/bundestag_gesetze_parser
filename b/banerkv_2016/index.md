@@ -18,10 +18,7 @@ Fundstelle
 :   BGBl I: 2016, 77
 
 Zuletzt geändert durch
-:   Art. 3 Abs. 2 G v. 27.6.2017 I 1947
-
-Mittelbare änderung durch
-:   Art. 3 Abs. 4 G v. 27.6.2017 I 1947 ist berücksichtigt
+:   Art. 21 V v. 11.12.2024 I Nr. 411
 
 
 ## Eingangsformel
@@ -138,7 +135,8 @@ Beschwerden über einzelne Entscheidungen von notifizierten Stellen.
 
 (1) Um als notifizierte Stelle anerkannt zu werden, muss
 
-1.  ein schriftlicher Antrag bei der Bundesnetzagentur gestellt werden und
+1.  ein schriftlicher oder elektronischer Antrag bei der Bundesnetzagentur
+    gestellt werden und
 
 
 2.  der Antragsteller muss in Deutschland seinen Hauptsitz haben.
@@ -187,8 +185,8 @@ und eine Prüfung beim Antragsteller durchführen.
 (1) Hat die Bundesnetzagentur festgestellt, dass der Antragsteller die
 Anforderungen des § 5 dieser Verordnung erfüllt, so erteilt sie diesem
 die Befugnis, Konformitätsbewertungen durchzuführen. Die Befugnis wird
-durch schriftlichen Bescheid erteilt. Der Bescheid muss Folgendes
-enthalten:
+durch schriftlichen oder elektronischen Bescheid erteilt. Der Bescheid
+muss Folgendes enthalten:
 
 1.  Vollständige Angaben zu
 
@@ -676,7 +674,8 @@ durch diesen anerkannt und bestätigt ist.
 (1) Die Anerkennung als notifizierte Stelle oder
 Konformitätsbewertungsstelle für Drittstaaten erlischt mit der
 Einstellung des Betriebs dieser Stelle. Die Einstellung ist der
-Bundesnetzagentur unverzüglich schriftlich anzuzeigen.
+Bundesnetzagentur unverzüglich schriftlich oder elektronisch
+anzuzeigen.
 
 (2) Stellt die Bundesnetzagentur fest, dass eine notifizierte Stelle
 oder eine Konformitätsbewertungsstelle für Drittstaaten die in § 5

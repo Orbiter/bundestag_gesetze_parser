@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1994, 2750
 
 Zuletzt geändert durch
-:   Art. 5 G v. 20.12.2022 I 2793
+:   Art. 13b G v. 22.12.2025 I Nr. 371
 
 
 ## Erster Abschnitt - Allgemeine Vorschriften
@@ -94,7 +94,11 @@ Nicht zu den Krankenhausleistungen gehören
 1.  eine Dialyse,
 
 
-2.  bei der Krankenhausbehandlung von Menschen mit Hörbehinderung
+2.  eine Strahlentherapie, wenn ihre Durchführung durch Dritte medizinisch
+    notwendig ist,
+
+
+3.  bei der Krankenhausbehandlung von Menschen mit Hörbehinderung
     Leistungen der Dolmetscherassistenz zum Ausgleich der
     behinderungsbedingten Kommunikationsbeeinträchtigungen.
 
@@ -294,7 +298,7 @@ entsprechender Ausgleich durchzuführen.
 (4) Bei der Vereinbarung einer Erhöhungsrate für Tariferhöhungen nach
 § 9 Absatz 1 Nummer 7 des Krankenhausentgeltgesetzes ist der von den
 Vertragsparteien vereinbarte Gesamtbetrag nach Absatz 2 oder Absatz 3
-um 55 Prozent der nach § 9 Absatz 1 Nummer 7 des
+um 75 Prozent der nach § 9 Absatz 1 Nummer 7 des
 Krankenhausentgeltgesetzes vereinbarten Erhöhungsrate für
 Tariferhöhungen erhöhend zu berichtigen, wobei der Berichtigungsbetrag
 über das Budget des nächstmöglichen Pflegesatzzeitraums abzuwickeln
@@ -308,7 +312,21 @@ Absatz 3 Satz 12 die Summe der Zusatzentgelte abgezogen und der sich
 ergebende Betrag wird durch die vereinbarte Summe der effektiven
 Bewertungsrelationen dividiert. Der für das jeweilige Jahr geltende
 Basisentgeltwert ist der Abrechnung der mit Bewertungsrelationen
-bewerteten Entgelte zugrunde zu legen.
+bewerteten Entgelte zugrunde zu legen. Alternativ zu der in Absatz 4
+Satz 1 genannten Berichtigung kann das Krankenhaus ab dem Tag des
+Inkrafttretens der Vereinbarung einer Erhöhungsrate für
+Tariferhöhungen nach § 9 Absatz 1 Nummer 7 des
+Krankenhausentgeltgesetzes für den ab diesem Tag verbleibenden Teil
+des jeweiligen Kalenderjahres einen erhöhten Basisentgeltwert bei der
+Abrechnung der mit Bewertungsrelationen bewerteten Entgelte zugrunde
+legen. Der erhöhte Basisentgeltwert ergibt sich aus der Summe des nach
+Satz 1 für das jeweilige Kalenderjahr ermittelten Basisentgeltwerts
+und dem Produkt aus 75 Prozent der nach § 9 Absatz 1 Nummer 7 des
+Krankenhausentgeltgesetzes vereinbarten Erhöhungsrate für
+Tariferhöhungen und dem Quotienten aus 365 und der Anzahl der
+Kalendertage zwischen dem Tag des Inkrafttretens der Vereinbarung
+einer Erhöhungsrate für Tariferhöhungen nach § 9 Absatz 1 Nummer 7 des
+Krankenhausentgeltgesetzes und dem Ende des jeweiligen Kalenderjahres.
 
 (6) Auf Antrag eines nicht nach dem Krankenhausfinanzierungsgesetz
 geförderten Krankenhauses sind Investitionskosten für neue
@@ -679,9 +697,10 @@ Patienten von Belegärzten werden gesonderte Entgelte berechnet.
 nicht ein, so sind von den Entgelten nach § 7 Satz 1 Nummer 1 und 2
 Abschläge nach § 137 Absatz 1 oder Absatz 2 des Fünften Buches
 Sozialgesetzbuch vorzunehmen. Entgelte für Leistungen dürfen nicht
-berechnet werden, wenn die Prüfung nach § 275d des Fünften Buches
-Sozialgesetzbuch ergibt, dass die für die Leistungserbringung
-maßgeblichen Strukturmerkmale nicht erfüllt werden.
+berechnet werden, wenn die Prüfung nach § 275a Absatz 1 Satz 1 Nummer
+2 des Fünften Buches Sozialgesetzbuch ergibt, dass die für die
+Leistungserbringung maßgeblichen Strukturmerkmale nicht erfüllt
+werden.
 
 (4) Das Krankenhaus kann von Patientinnen und Patienten eine
 angemessene Vorauszahlung verlangen, soweit ein
@@ -717,12 +736,14 @@ erbrachten Leistungen nach den für vorstationäre Behandlungen nach §
 vergüten, soweit keine andere Möglichkeit zur Abrechnung der
 erbrachten Leistung besteht.
 
-(7) Das Krankenhaus berechnet bei Patientinnen und Patienten, die im
-Zeitraum vom 1. Mai 2020 bis zum 31. Dezember 2020 zur voll- oder
-teilstationären Krankenhausbehandlung in das Krankenhaus aufgenommen
-werden, einen Zuschlag in Höhe von 0,42 Prozent des Rechnungsbetrags
-und weist diesen gesondert in der Rechnung aus. Der Zuschlag wird bei
-der Ermittlung der Erlösausgleiche nicht berücksichtigt.
+(7) Das Krankenhaus berechnet abweichend von Absatz 1 Satz 1 erster
+Halbsatz bei Patientinnen und Patienten, die in der gesetzlichen
+Krankenversicherung versichert sind und im Zeitraum vom 1. November
+2025 bis zum 31. Oktober 2026 zur voll- oder teilstationären
+Behandlung in das Krankenhaus aufgenommen werden, einen Zuschlag in
+Höhe von 3,25 Prozent des Rechnungsbetrags und weist diesen gesondert
+in der Rechnung aus. Der Zuschlag wird bei der Ermittlung der
+Erlösausgleiche nicht berücksichtigt.
 
 
 ## Vierter Abschnitt - Vereinbarungsverfahren
@@ -760,14 +781,18 @@ für die Vertragsparteien nach § 11 insbesondere
     vereinbart werden können,
 
 
-5.  bis zum 31. Oktober jeden Jahres den Veränderungswert nach Maßgabe des
-    § 10 Absatz 6 Satz 2 oder Satz 3 des Krankenhausentgeltgesetzes, wobei
+5.  bis zum 31. Oktober jedes Jahres den Veränderungswert nach Maßgabe des
+    § 10 Absatz 6 Satz 6 oder 7 des Krankenhausentgeltgesetzes, wobei
     bereits anderweitig finanzierte Kostensteigerungen zu berücksichtigen
     sind, soweit dadurch die Veränderungsrate nach § 71 Absatz 3 des
     Fünften Buches Sozialgesetzbuch nicht unterschritten wird; im Falle
-    des § 10 Absatz 6 Satz 3 des Krankenhausentgeltgesetzes ist die
-    Veränderungsrate nach § 71 Absatz 3 des Fünften Buches
-    Sozialgesetzbuch um 40 Prozent dieser Differenz zu erhöhen,
+    des § 10 Absatz 6 Satz 7 des Krankenhausentgeltgesetzes ist der
+    Veränderungswert ausgehend von dem nach § 10 Absatz 6 Satz 1 des
+    Krankenhausentgeltgesetzes veröffentlichten Orientierungswert unter
+    Berücksichtigung bereits anderweitig finanzierter Kostensteigerungen
+    zu vereinbaren; für das Jahr 2026 entspricht der Veränderungswert dem
+    nach § 10 Absatz 6 Satz 1 des Krankenhausentgeltgesetzes im Jahr 2025
+    veröffentlichten Orientierungswert,
 
 
 6.  den einheitlichen Aufbau der Datensätze und das Verfahren für die
@@ -818,9 +843,12 @@ Abrechnungsbestimmungen nach Nummer 3 ganz oder teilweise nicht
 zustande, gilt § 17d Absatz 6 des Krankenhausfinanzierungsgesetzes. In
 den übrigen Fällen entscheidet auf Antrag einer Vertragspartei die
 Schiedsstelle nach § 18a Absatz 6 des
-Krankenhausfinanzierungsgesetzes; eine Entscheidung zu Absatz 1 Nummer
-5 hat die Schiedsstelle bis zum 15. November des jeweiligen Jahres zu
-treffen.
+Krankenhausfinanzierungsgesetzes; eine Entscheidung über den nach
+Absatz 1 Nummer 5 bis zum 31. Oktober eines Jahres zu vereinbarenden
+Veränderungswert hat die Schiedsstelle bis zum 15. November des
+jeweiligen Jahres und eine Entscheidung über den nach Absatz 1 Nummer
+5 bis zum 26. Dezember 2024 neu zu vereinbarenden Veränderungswert hat
+die Schiedsstelle bis zum 9. Januar 2025 zu treffen.
 
 
 ### § 10 (weggefallen)
@@ -830,9 +858,10 @@ treffen.
 
 (1) Nach Maßgabe der §§ 3 bis 6 und unter Beachtung des
 Versorgungsauftrags des Krankenhauses nach § 8 Absatz 1 Satz 3 und 4
-sowie unter Beachtung der Prüfergebnisse nach § 275d des Fünften
-Buches Sozialgesetzbuch regeln die Vertragsparteien nach § 18 Absatz 2
-des Krankenhausfinanzierungsgesetzes (Vertragsparteien) in der
+sowie unter Beachtung der Ergebnisse der Prüfungen nach § 275a Absatz
+1 Satz 1 Nummer 2 des Fünften Buches Sozialgesetzbuch regeln die
+Vertragsparteien nach § 18 Absatz 2 des
+Krankenhausfinanzierungsgesetzes (Vertragsparteien) in der
 Vereinbarung den Gesamtbetrag, das Erlösbudget, die Summe der
 Bewertungsrelationen, den krankenhausindividuellen Basisentgeltwert,
 die Erlössumme, die sonstigen Entgelte, die Zu- und Abschläge und die
@@ -862,7 +891,11 @@ Sechswochenfrist des § 18 Absatz 4 des
 Krankenhausfinanzierungsgesetzes so rechtzeitig abgeschlossen werden,
 dass das neue Budget und die neuen Entgelte mit Ablauf des Jahres, das
 dem Jahr vorausgeht, für das die Vereinbarung gelten soll, in Kraft
-treten können.
+treten können. Das für das Jahr 2025 zu vereinbarende Budget ist unter
+Berücksichtigung des Veränderungswerts nach § 9 Absatz 1 Nummer 5
+zweiter Halbsatz zu vereinbaren; bis zum Ablauf des 11. Dezember 2024
+getroffene Vereinbarungen über dieses Budget sind bis zum 12. Februar
+2025 entsprechend anzupassen.
 
 (4) Der Krankenhausträger übermittelt zur Vorbereitung der Verhandlung
 spätestens bis zum 31. Dezember des Jahres, das dem Jahr vorausgeht,

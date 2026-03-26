@@ -15,7 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2013, 2586, 2655
 
-Stand: Zuletzt geändert Art. 3 G v. 14.12.2023 I Nr. 365
+Zuletzt geändert durch
+:   Art. 9 G v. 7.4.2025 I Nr. 109
+
 
 ## Abschnitt 1 - Allgemeine Vorschriften
 
@@ -38,7 +40,7 @@ Justizverwaltungsangelegenheiten:
     Angelegenheiten der freiwilligen Gerichtsbarkeit),
 
 
-3.  Registrierung nach dem Rechtsdienstleistungsgesetz,
+3.  (weggefallen)
 
 
 4.  Einstellung von Schutzschriften in das Schutzschriftenregister,
@@ -84,18 +86,11 @@ Geltungsbereich der Richtlinie 2006/123/EG des Europäischen Parlaments
 und des Rates vom 12. Dezember 2006 über Dienstleistungen im
 Binnenmarkt (ABl. L 376 vom 27.12.2006, S. 36) befreit, wenn sie auf
 der Grundlage des Kapitels VI der Richtlinie Auskunft aus den in Teil
-1 Hauptabschnitt 1 Abschnitt 4 oder Abschnitt 5 des
-Kostenverzeichnisses bezeichneten Registern oder Grundbüchern erhalten
-und wenn vergleichbaren deutschen Behörden für diese Auskunft
-Gebührenfreiheit zustünde.
+1 Hauptabschnitt 1 Abschnitt 5 des Kostenverzeichnisses bezeichneten
+Registern oder Grundbüchern erhalten und wenn vergleichbaren deutschen
+Behörden für diese Auskunft Gebührenfreiheit zustünde.
 
-(3) Von den in § 380 des Gesetzes über das Verfahren in Familiensachen
-und in den Angelegenheiten der freiwilligen Gerichtsbarkeit genannten
-Stellen werden Gebühren nach Teil 1 Hauptabschnitt 1 Abschnitt 4 des
-Kostenverzeichnisses nicht erhoben, wenn die Abrufe erforderlich sind,
-um ein vom Gericht gefordertes Gutachten zu erstatten.
-
-(4) Sonstige bundesrechtliche oder landesrechtliche Vorschriften,
+(3) Sonstige bundesrechtliche oder landesrechtliche Vorschriften,
 durch die eine sachliche oder persönliche Befreiung von Kosten gewährt
 ist, bleiben unberührt.
 
@@ -307,7 +302,8 @@ ist.
 Angelegenheiten für den Verfolgten oder Verurteilten sowie im
 Schlichtungsverfahren nach § 57a des Luftverkehrsgesetzes. Die §§ 57a
 und 87n Absatz 6 des Gesetzes über die internationale Rechtshilfe in
-Strafsachen bleiben unberührt.
+Strafsachen sowie § 15 Absatz 5 des Deutsch-Schweizerischer-
+Polizeivertrag-Umsetzungsgesetzes bleiben unberührt.
 
 
 ### § 15 Datenabruf aus einem Register oder dem Grundbuch
@@ -447,10 +443,10 @@ Gerichtsbarkeit, in dessen Bezirk die Behörde ihren Sitz hat.
 
 ### § 23 Bekanntmachung von Neufassungen
 
-Das Bundesministerium der Justiz und für Verbraucherschutz kann nach
-Änderungen den Wortlaut des Gesetzes feststellen und als Neufassung im
-Bundesgesetzblatt bekannt machen. Die Bekanntmachung muss auf diese
-Vorschrift Bezug nehmen und angeben
+Das Bundesministerium der Justiz kann nach Änderungen den Wortlaut des
+Gesetzes feststellen und als Neufassung im Bundesgesetzblatt bekannt
+machen. Die Bekanntmachung muss auf diese Vorschrift Bezug nehmen und
+angeben
 
 1.  den Stichtag, zu dem der Wortlaut festgestellt wird,
 
@@ -546,7 +542,7 @@ Teil 1 Gebühren ****
 
 *    *   Abschnitt 1
 
-    *   Rechtsdienstleistungsregister
+    *   (weggefallen)
 
 
 *    *   Abschnitt 2
@@ -589,6 +585,11 @@ Teil 1 Gebühren ****
 *    *   Abschnitt 2
 
     *   Schlichtung nach § 57a LuftVG
+
+
+*    *   Abschnitt 3
+
+    *   Rechtsdienstleistungsregister
 
 
 
@@ -661,38 +662,12 @@ Teil 1
 
 
 *    *   Abschnitt 1
-        **Rechtsdienstleistungsregister**
+        **(weggefallen)**
 
 
-*    *   1110
-
-    *   Registrierung nach dem RDG
-        ..........
-        Bei Registrierung einer juristischen Person oder einer rechtsfähigen
-        Personengesellschaft wird mit der Gebühr auch die Eintragung einer
-        qualifizierten Person in das Rechtsdienstleistungsregister abgegolten.
-
-    *   150,00 €
-
-
-*    *   1111
-
-    *   Eintragung einer qualifizierten Person in das
-        Rechtsdienstleistungsregister, wenn die Eintragung nicht durch die
-        Gebühr 1110 abgegolten ist:
-        je Person
-        ..........
-
-    *   150,00 €
-
-
-*    *   1112
-
-    *   Widerruf oder Rücknahme der Registrierung
-        ..........
-
-    *   75,00 €
-
+*    *
+    *
+    *
 
 *    *   Abschnitt 2
         **(weggefallen)**
@@ -804,7 +779,7 @@ Teil 1
     *   Einstellung einer Schutzschrift
         ..........
 
-    *   83,00 €
+    *   115,00 €
 
 
 *    *   Hauptabschnitt 2
@@ -887,6 +862,49 @@ Teil 1
 
     *   30,00 €
 
+
+*    *
+    *
+    *
+
+*    *   Abschnitt 3
+        **Rechtsdienstleistungsregister**
+
+
+*    *   1230
+
+    *   Registrierung nach dem RDG ..........
+
+    *   300,00 €
+
+
+*    *
+    *   Bei Registrierung einer juristischen Person oder einer rechtsfähigen
+        Personengesellschaft wird mit der Gebühr auch die Eintragung einer
+        qualifizierten Person in das Rechtsdienstleistungsregister abgegolten.
+
+    *
+
+*    *   1231
+
+    *   Eintragung einer qualifizierten Person in das
+        Rechtsdienstleistungsregister, wenn die Eintragung nicht durch die
+        Gebühr 1230 abgegolten ist:
+        je Person ..........
+
+    *   150,00 €
+
+
+*    *   1232
+
+    *   Widerruf oder Rücknahme der Registrierung ..........
+
+    *   300,00 €
+
+
+*    *
+    *
+    *
 
 *    *   Hauptabschnitt 3
         **Justizverwaltungsangelegenheiten mit Auslandsbezug**
@@ -1471,10 +1489,6 @@ Teil 1
     *   220,00 €
 
 
-*    *
-    *
-    *
-
 *    *   **Abschnitt 4**
         **Sonstige Gebühren**
 
@@ -1492,20 +1506,25 @@ Teil 1
 
 *    *   1441
 
-    *   Verfahren zur Registrierung nach § 3 Abs. 2 und 3 URV; die
-        Identitätsprüfung erfolgt anhand
+    *   Verfahren zur Registrierung nach § 3 Abs. 2, § 3a URV; die
+        Identitätsprüfung erfolgt unter Verwendung
 
     *
 
 *    *
     *
         a)  eines elektronischen Identitätsnachweises oder elektronischen
-            Identifizierungsmittels nach § 3 Abs. 3 Satz 3 Nr. 1 oder Nr. 2 URV
+            Identifizierungsmittels nach § 3a Abs. 1 Satz 3 Nr. 1 oder Nr. 2 URV
             ..........
 
 
         b)  einer von der registerführenden Stelle zur Verfügung gestellten
-            Identifizierungsmethode nach § 3 Abs. 3 Satz 3 Nr. 3 URV
+            Identifizierungsmethode nach § 3a Abs. 1 Satz 3 Nr. 3 URV
+            ..........
+
+
+        c)  einer bereits über die Steuerberaterplattform (§ 86c StBerG) erfolgten
+            Identifizierung des Nutzers nach § 3a Abs. 4 URV
             ..........
 
 
@@ -1513,6 +1532,7 @@ Teil 1
 
     *   12,00 €
         22,00 €
+        7,60 €
 
 
 *    *   Hauptabschnitt 5

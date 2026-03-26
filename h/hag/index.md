@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1951, 191
 
 Zuletzt geändert durch
-:   Art. 6i G v. 16.9.2022 I 1454
+:   Art. 51 G v. 23.10.2024 I Nr. 323
 
 
 ## Erster Abschnitt - Allgemeine Vorschriften
@@ -279,9 +279,9 @@ Heimarbeitsausschusses fest.
 
 Wer Heimarbeit ausgibt oder weitergibt, hat jeden, den er mit
 Heimarbeit beschäftigt oder dessen er sich zur Weitergabe von
-Heimarbeit bedient, in Listen auszuweisen. Je drei Abschriften sind
-halbjährlich der obersten Arbeitsbehörde des Landes oder der von ihr
-bestimmten Stelle einzusenden.
+Heimarbeit bedient, in Listen auszuweisen. Diese sind halbjährlich der
+obersten Arbeitsbehörde des Landes oder der von ihr bestimmten Stelle
+zu übermitteln.
 
 
 ### § 7 Mitteilungspflicht

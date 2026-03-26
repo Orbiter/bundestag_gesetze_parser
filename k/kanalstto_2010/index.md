@@ -16,7 +16,7 @@ Fundstelle
 :   BAnz: 2010, Nr 165, 3646
 
 Zuletzt geändert durch
-:   Art. 1 V v. 19.12.2023 I Nr. 387
+:   Art. 1 V v. 15.12.2025 I Nr. 329
 
 
 ## Eingangsformel
@@ -138,8 +138,9 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
 
 ## Anlage Verzeichnis der Entgelte
 
-(Fundstelle: BGBl. 2023 I Nr. 387, S. 1 – 4)
+(Fundstelle: BGBl. 2025 I Nr. 329, S. 1 – 4)
 
+## **Verzeichnis der Entgelte**
 
 *    *   **Es sind zu entrichten für**
 
@@ -161,7 +162,6 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
 
     *   bis
 
-    *
     *   Euro
 
 
@@ -169,794 +169,696 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
 
     *   500
 
-    *
-    *   1 090
+    *   1 267
 
 
 *    *   501 –
 
     *   600
 
-    *
-    *   1 095
+    *   1 273
 
 
 *    *   601 –
 
     *   700
 
-    *
-    *   1 100
+    *   1 279
 
 
 *    *   701 –
 
     *   800
 
-    *
-    *   1 102
+    *   1 281
 
 
 *    *   801 –
 
     *   900
 
-    *
-    *   1 107
+    *   1 287
 
 
 *    *   901 –
 
     *   1 000
 
-    *
-    *   1 115
+    *   1 297
 
 
 *    *   1 001 –
 
     *   1 100
 
-    *
-    *   1 120
+    *   1 302
 
 
 *    *   1 101 –
 
     *   1 200
 
-    *
-    *   1 132
+    *   1 316
 
 
 *    *   1 201 –
 
     *   1 300
 
-    *
-    *   1 141
+    *   1 326
 
 
 *    *   1 301 –
 
     *   1 400
 
-    *
-    *   1 147
+    *   1 334
 
 
 *    *   1 401 –
 
     *   1 500
 
-    *
-    *   1 157
+    *   1 345
 
 
 *    *   1 501 –
 
     *   1 600
 
-    *
-    *   1 170
+    *   1 360
 
 
 *    *   1 601 –
 
     *   1 700
 
-    *
-    *   1 175
+    *   1 366
 
 
 *    *   1 701 –
 
     *   1 800
 
-    *
-    *   1 181
+    *   1 373
 
 
 *    *   1 801 –
 
     *   1 900
 
-    *
-    *   1 195
+    *   1 389
 
 
 *    *   1 901 –
 
     *   2 000
 
-    *
-    *   1 196
+    *   1 390
 
 
 *    *   2 001 –
 
     *   2 100
 
-    *
-    *   1 197
+    *   1 392
 
 
 *    *   2 101 –
 
     *   2 200
 
-    *
-    *   1 199
+    *   1 394
 
 
 *    *   2 201 –
 
     *   2 300
 
-    *
-    *   1 202
+    *   1 398
 
 
 *    *   2 301 –
 
     *   2 400
 
-    *
-    *   1 207
+    *   1 403
 
 
 *    *   2 401 –
 
     *   2 500
 
-    *
-    *   1 214
+    *   1 412
 
 
 *    *   2 501 –
 
     *   2 600
 
-    *
-    *   1 221
+    *   1 420
 
 
 *    *   2 601 –
 
     *   2 700
 
-    *
-    *   1 223
+    *   1 422
 
 
 *    *   2 701 –
 
     *   2 800
 
-    *
-    *   1 226
+    *   1 425
 
 
 *    *   2 801 –
 
     *   2 900
 
-    *
-    *   1 237
+    *   1 438
 
 
 *    *   2 901 –
 
     *   3 000
 
-    *
-    *   1 254
+    *   1 458
 
 
 *    *   3 001 –
 
     *   3 250
 
-    *
-    *   1 265
+    *   1 471
 
 
 *    *   3 251 –
 
     *   3 500
 
-    *
-    *   1 282
+    *   1 491
 
 
 *    *   3 501 –
 
     *   3 750
 
-    *
-    *   1 286
+    *   1 495
 
 
 *    *   3 751 –
 
     *   4 000
 
-    *
-    *   1 302
+    *   1 514
 
 
 *    *   4 001 –
 
     *   4 250
 
-    *
-    *   1 306
+    *   1 518
 
 
 *    *   4 251 –
 
     *   4 500
 
-    *
-    *   1 317
+    *   1 531
 
 
 *    *   4 501 –
 
     *   4 750
 
-    *
-    *   1 342
+    *   1 560
 
 
 *    *   4 751 –
 
     *   5 000
 
-    *
-    *   1 358
+    *   1 579
 
 
 *    *   5 001 –
 
     *   5 250
 
-    *
-    *   1 366
+    *   1 588
 
 
 *    *   5 251 –
 
     *   5 500
 
-    *
-    *   1 382
+    *   1 607
 
 
 *    *   5 501 –
 
     *   5 750
 
-    *
-    *   1 396
+    *   1 623
 
 
 *    *   5 751 –
 
     *   6 000
 
-    *
-    *   1 412
+    *   1 642
 
 
 *    *   6 001 –
 
     *   6 250
 
-    *
-    *   1 421
+    *   1 652
 
 
 *    *   6 251 –
 
     *   6 500
 
-    *
-    *   1 426
+    *   1 657
 
 
 *    *   6 501 –
 
     *   6 750
 
-    *
-    *   1 448
+    *   1 684
 
 
 *    *   6 751 –
 
     *   7 000
 
-    *
-    *   1 468
+    *   1 707
 
 
 *    *   7 001 –
 
     *   7 250
 
-    *
-    *   1 484
+    *   1 725
 
 
 *    *   7 251 –
 
     *   7 500
 
-    *
-    *   1 507
+    *   1 752
 
 
 *    *   7 501 –
 
     *   7 750
 
-    *
-    *   1 525
+    *   1 773
 
 
 *    *   7 751 –
 
     *   8 000
 
-    *
-    *   1 531
+    *   1 780
 
 
 *    *   8 001 –
 
     *   8 250
 
-    *
-    *   1 538
+    *   1 788
 
 
 *    *   8 251 –
 
     *   8 500
 
-    *
-    *   1 545
+    *   1 797
 
 
 *    *   8 501 –
 
     *   8 750
 
-    *
-    *   1 549
+    *   1 801
 
 
 *    *   8 751 –
 
     *   9 000
 
-    *
-    *   1 567
+    *   1 822
 
 
 *    *   9 001 –
 
     *   9 250
 
-    *
-    *   1 582
+    *   1 839
 
 
 *    *   9 251 –
 
     *   9 500
 
-    *
-    *   1 601
+    *   1 861
 
 
 *    *   9 501 –
 
     *   9 750
 
-    *
-    *   1 620
+    *   1 883
 
 
 *    *   9 751 –
 
     *   10 000
 
-    *
-    *   1 626
+    *   1 891
 
 
 *    *   10 001 –
 
     *   10 250
 
-    *
-    *   1 633
+    *   1 899
 
 
 *    *   10 251 –
 
     *   10 500
 
-    *
-    *   1 642
+    *   1 908
 
 
 *    *   10 501 –
 
     *   10 750
 
-    *
-    *   1 661
+    *   1 931
 
 
 *    *   10 751 –
 
     *   11 000
 
-    *
-    *   1 680
+    *   1 953
 
 
 *    *   11 001 –
 
     *   11 250
 
-    *
-    *   1 703
+    *   1 980
 
 
 *    *   11 251 –
 
     *   11 500
 
-    *
-    *   1 722
+    *   2 002
 
 
 *    *   11 501 –
 
     *   11 750
 
-    *
-    *   1 741
+    *   2 025
 
 
 *    *   11 751 –
 
     *   12 000
 
-    *
-    *   1 762
+    *   2 049
 
 
 *    *   12 001 –
 
     *   12 500
 
-    *
-    *   1 767
+    *   2 054
 
 
 *    *   12 501 –
 
     *   13 000
 
-    *
-    *   1 773
+    *   2 061
 
 
 *    *   13 001 –
 
     *   13 500
 
-    *
-    *   1 787
+    *   2 077
 
 
 *    *   13 501 –
 
     *   14 000
 
-    *
-    *   1 805
+    *   2 098
 
 
 *    *   14 001 –
 
     *   14 500
 
-    *
-    *   1 836
+    *   2 134
 
 
 *    *   14 501 –
 
     *   15 000
 
-    *
-    *   1 864
+    *   2 167
 
 
 *    *   15 001 –
 
     *   15 500
 
-    *
-    *   1 867
+    *   2 170
 
 
 *    *   15 501 –
 
     *   16 000
 
-    *
-    *   1 903
+    *   2 212
 
 
 *    *   16 001 –
 
     *   16 500
 
-    *
-    *   1 932
+    *   2 246
 
 
 *    *   16 501 –
 
     *   17 000
 
-    *
-    *   1 966
+    *   2 286
 
 
 *    *   17 001 –
 
     *   17 500
 
-    *
-    *   1 991
+    *   2 315
 
 
 *    *   17 501 –
 
     *   18 000
 
-    *
-    *   2 030
+    *   2 360
 
 
 *    *   18 001 –
 
     *   18 500
 
-    *
-    *   2 057
+    *   2 392
 
 
 *    *   18 501 –
 
     *   19 000
 
-    *
-    *   2 092
+    *   2 432
 
 
 *    *   19 001 –
 
     *   19 500
 
-    *
-    *   2 125
+    *   2 471
 
 
 *    *   19 501 –
 
     *   20 000
 
-    *
-    *   2 156
+    *   2 507
 
 
 *    *   20 001 –
 
     *   20 500
 
-    *
-    *   2 163
+    *   2 515
 
 
 *    *   20 501 –
 
     *   21 000
 
-    *
-    *   2 197
+    *   2 554
 
 
 *    *   21 001 –
 
     *   21 500
 
-    *
-    *   2 221
+    *   2 583
 
 
 *    *   21 501 –
 
     *   22 000
 
-    *
-    *   2 256
+    *   2 623
 
 
 *    *   22 001 –
 
     *   22 500
 
-    *
-    *   2 287
+    *   2 659
 
 
 *    *   22 501 –
 
     *   23 000
 
-    *
-    *   2 313
+    *   2 689
 
 
 *    *   23 001 –
 
     *   23 500
 
-    *
-    *   2 325
+    *   2 703
 
 
 *    *   23 501 –
 
     *   24 000
 
-    *
-    *   2 369
+    *   2 755
 
 
 *    *   24 001 –
 
     *   24 500
 
-    *
-    *   2 408
+    *   2 800
 
 
 *    *   24 501 –
 
     *   25 000
 
-    *
-    *   2 449
+    *   2 847
 
 
 *    *   25 001 –
 
     *   25 500
 
-    *
-    *   2 465
+    *   2 865
 
 
 *    *   25 501 –
 
     *   26 000
 
-    *
-    *   2 488
+    *   2 893
 
 
 *    *   26 001 –
 
     *   26 500
 
-    *
-    *   2 504
+    *   2 911
 
 
 *    *   26 501 –
 
     *   27 000
 
-    *
-    *   2 531
+    *   2 942
 
 
 *    *   27 001 –
 
     *   27 500
 
-    *
-    *   2 552
+    *   2 967
 
 
 *    *   27 501 –
 
     *   28 000
 
-    *
-    *   2 579
+    *   2 998
 
 
 *    *   28 001 –
 
     *   28 500
 
-    *
-    *   2 606
+    *   3 030
 
 
 *    *   28 501 –
 
     *   29 000
 
-    *
-    *   2 630
+    *   3 057
 
 
 *    *   29 001 –
 
     *   29 500
 
-    *
-    *   2 673
+    *   3 108
 
 
 *    *   29 501 –
 
     *   30 000
 
-    *
-    *   2 703
+    *   3 143
 
 
-*    *   für jede weitere angefangene 500 über 30 000
+*    *   für jede weiteren angefangenen 500 über 30 000
 
-    *   30
+    *   35
 
 
 *    *   höchstens jedoch
 
-    *   3 767
+    *   4 379
 
 
 *    *   1.2
@@ -982,26 +884,26 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
 
     *   die Wartezeit an Bord bis zur Abfahrt des Fahrzeugs, wenn die Abfahrt
         aus nicht revierbedingten Gründen verzögert wird, nach Ablauf einer
-        Stunde, für jede angefangene Stunde,
+        Stunde für jede weitere angefangene Stunde
 
-    *   63 Euro,
+    *   73 Euro,
 
 
 *    *   3
 
     *   die Zeit der Fahrtunterbrechung, wenn das Fahrzeug aus nicht
         revierbedingten Gründen ankert oder festmacht, für jede angefangene
-        Stunde,
+        Stunde
 
-    *   51 Euro,
+    *   59 Euro,
 
 
 *    *   4
 
-    *   die Tätigkeit bei den notwendigen Manövern in Fällen der Nummer 3 und
-        Nummer 5
+    *   die Tätigkeit bei den notwendigen Manövern in den Fällen der Nummern 3
+        und 5
 
-    *   60 Euro,
+    *   70 Euro,
 
 
 *    *   5
@@ -1010,7 +912,7 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
         der Fahrt aus revierbedingten Gründen verzögert wird, nach Ablauf von
         zwei Stunden für jede weitere angefangene Stunde
 
-    *   49 Euro,
+    *   57 Euro,
 
 
 *    *   6
@@ -1019,7 +921,7 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
         Fahrzeugs, wenn der oder die Steurer auf Wunsch der Schiffsführung an
         Bord bleiben, für jede angefangene Stunde
 
-    *   51 Euro,
+    *   59 Euro,
 
 
 *    *   7
@@ -1034,14 +936,14 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
     *   im Bereich der Binnenhäfen von Brunsbüttel und Kiel-Holtenau sowie an
         der Anlegebrücke der Bunkerstation Projensdorf
 
-    *   31 Euro,
+    *   36 Euro,
 
 
 *    *   7.2
 
     *   im übrigen Bereich des Nord-Ostsee-Kanals
 
-    *   45 Euro,
+    *   53 Euro,
 
 
 *    *   8
@@ -1050,7 +952,7 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
         revierbedingten Gründen nicht an Bord genommen oder vor Aufnahme ihrer
         Tätigkeit wieder entlassen werden
 
-    *   68 Euro,
+    *   79 Euro,
 
 
 *    *   9
@@ -1059,18 +961,19 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
         8, wenn das Fahrzeug außerhalb der Schleusen des Nord-Ostsee-Kanals
         liegt, für jede angefangene Stunde
 
-    *   51 Euro,
+    *   59 Euro,
 
 
 *    *   10
 
     *   das Fehlen einer angemessenen Bordunterkunft ein Ausgleich in Höhe von
 
-    *   207 Euro.
+    *   241 Euro.
 
 
-*    *   Außerdem sind die Fahrtauslagen in Fällen der Nummern 7 und 8 zu
+*    *   Außerdem sind die Fahrtauslagen in den Fällen der Nummern 7 und 8 zu
         erstatten.
+
 
 
 

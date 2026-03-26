@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1958, 605
 
 Zuletzt geändert durch
-:   Art. 3 G v. 17.1.2024 I Nr. 13
+:   Art. 4 G v. 27.2.2025 I Nr. 71
 
 
 ## § 1
@@ -65,10 +65,13 @@ Strompreisstatistik und zur Aufhebung der Richtlinie 2008/92/EG (ABl.
 L 311 vom 17.11.2016, S. 1).
 
 (1a) Soweit elektronische Aufzeichnungen von Transaktionen nach § 7b
-Absatz 3 angefordert werden, sind zu dem Zweck der Berechnung der in
-Absatz 1 genannten Preise und zum Zweck der Gewichtung der
-betrachteten Güter Angaben zu Umsatz und verkauften Mengen zu
-übermitteln. § 7c bleibt unberührt.
+Absatz 3 angefordert werden, müssen diese für eine eindeutige
+Zuordnung der bezeichneten Güter, Erhebungseinheiten und
+Berichtsstellen eindeutige, im Zeitverlauf gleichbleibende
+Identifikatoren und Bezeichnungen enthalten. Zum Zweck der Berechnung
+der in Absatz 1 genannten Preise und zum Zweck der Gewichtung der
+betrachteten Güter sind Angaben zu Umsatz und verkauften Mengen zu
+übermitteln. § 7c bleibt unberührt.
 
 (2) Auskunftspflichtig sind die landwirtschaftlichen,
 forstwirtschaftlichen und gewerblichen Unternehmen, Behörden und
@@ -335,12 +338,20 @@ verpflichtet, den Abruf der Daten zu gewähren.
 Auskunftspflichtigen den statistischen Ämtern des Bundes und der
 Länder auf Anforderung elektronische Aufzeichnungen von Transaktionen.
 Die Aufzeichnungen sind in der Gliederungstiefe zu übermitteln, die
-für die Erstellung der Statistiken erforderlich ist.
+für die Erstellung der Statistiken erforderlich ist. Aufzeichnungen
+nach Satz 1 können rückwirkend für einen Zeitraum von bis zu drei
+Jahren angefordert werden, soweit sie bei den auskunftspflichtigen
+Einheiten vorliegen.
 
-(4) Für die Durchführung von Revisionen dürfen Angaben zu Merkmalen,
-die in diesem Gesetz geregelt sind, rückwirkend für einen Zeitraum von
-bis zu drei Jahren angefordert werden, soweit diese bei den
-auskunftspflichtigen Einheiten vorliegen.
+(4) In der Preisstatistik werden regelmäßig Revisionen durchgeführt,
+bei welchen auf ein neues Basisjahr umgestellt wird. Für die
+Durchführung von Revisionen dürfen Angaben zu Merkmalen, die in diesem
+Gesetz geregelt sind, rückwirkend für einen Zeitraum von bis zu drei
+Jahren angefordert werden, soweit sie bei den auskunftspflichtigen
+Einheiten vorliegen. Elektronische Aufzeichnungen von Transaktionen
+nach Absatz 3 können rückwirkend für einen Zeitraum von bis zu drei
+Jahren ab Anforderung bereits vor Beginn des neuen Basisjahres
+angefordert werden.
 
 (5) Für Unternehmen, deren Inhaber Existenzgründer sind, besteht im
 Kalenderjahr der Betriebseröffnung abweichend von § 3 Absatz 2 Satz 1,

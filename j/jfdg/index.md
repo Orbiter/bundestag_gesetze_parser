@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2008, 842
 
 Zuletzt geändert durch
-:   Art. 80 G v. 20.8.2021 I 3932
-
-Mittelbare änderung durch
-:   Art. 89 Nr. 8 G v. 20.8.2021 I 3932 ist berücksichtigt
+:   Art. 2 G v. 23.5.2024 I Nr. 170
 
 
 ## § 1 Fördervoraussetzungen
@@ -46,16 +43,13 @@ freiwillige soziale Jahr (FSJ) und das freiwillige ökologische Jahr
     nicht vollendet haben,
 
 
-2.  einen freiwilligen Dienst
+2.  einen freiwilligen Dienst leisten ohne Erwerbsabsicht, außerhalb einer
+    Berufsausbildung und vergleichbar
 
-    a)  ohne Erwerbsabsicht, außerhalb einer Berufsausbildung und vergleichbar
-        einer Vollzeitbeschäftigung leisten oder
+    a)  einer Vollzeitbeschäftigung oder
 
 
-    b)  ohne Erwerbsabsicht, außerhalb einer Berufsausbildung und vergleichbar
-        einer Teilzeitbeschäftigung von mehr als 20 Stunden pro Woche leisten,
-        sofern ein berechtigtes Interesse der Freiwilligen an einer
-        Teilzeitbeschäftigung vorliegt,
+    b)  einer Teilzeitbeschäftigung von mehr als 20 Stunden pro Woche,
 
 
 
@@ -66,25 +60,27 @@ freiwillige soziale Jahr (FSJ) und das freiwillige ökologische Jahr
     höchstens 24 Monaten verpflichtet haben und
 
 
-4.  für den freiwilligen Dienst
+4.  für den Dienst nur folgende Geld- und Sachleistungen erhalten dürfen:
 
-    a)  nur unentgeltliche Unterkunft, Verpflegung und Arbeitskleidung sowie
-        ein angemessenes Taschengeld erhalten dürfen oder
-
-
-    b)  anstelle von unentgeltlicher Unterkunft, Verpflegung und
-        Arbeitskleidung entsprechende Geldersatzleistungen sowie ein
-        angemessenes Taschengeld erhalten dürfen.
+    a)  ein angemessenes Taschengeld,
 
 
+    b)  unentgeltliche Unterkunft, Verpflegung und Arbeitskleidung oder
+        entsprechende Geldersatzleistungen sowie
 
-    Angemessen ist ein Taschengeld, wenn es 6 Prozent der in der
-    allgemeinen Rentenversicherung geltenden Beitragsbemessungsgrenze
-    nicht übersteigt. Bei einem freiwilligen Dienst vergleichbar einer
-    Teilzeitbeschäftigung ist dieser Prozentsatz zu kürzen.
+
+    c)  Mobilitätszuschläge oder entsprechende Sachleistungen.
 
 
 
+
+
+
+Angemessen ist ein monatliches Taschengeld, das 8 Prozent der in der
+allgemeinen Rentenversicherung monatlich geltenden
+Beitragsbemessungsgrenze nicht übersteigt. Bei einem freiwilligen
+Dienst vergleichbar einer Teilzeitbeschäftigung ist das Taschengeld zu
+kürzen.
 
 (2) Als Freiwillige gelten auch Personen, die durch einen nach § 10
 zugelassenen Träger des Jugendfreiwilligendienstes darauf vorbereitet
@@ -154,9 +150,14 @@ beträgt bezogen auf eine zwölfmonatige Teilnahme am
 Jugendfreiwilligendienst mindestens 25 Tage. Wird ein Dienst über den
 Zeitraum von zwölf Monaten hinaus vereinbart oder verlängert, erhöht
 sich die Zahl der Seminartage um mindestens einen Tag je Monat der
-Verlängerung. Die Seminarzeit gilt als Dienstzeit. Die Teilnahme ist
-Pflicht. Die Freiwilligen wirken an der inhaltlichen Gestaltung und
-der Durchführung der Seminare mit.
+Verlängerung. Die Teilnahme an den Seminaren ist Pflicht. Die
+Seminarzeit gilt als Dienstzeit. An den Seminartagen gilt die
+regelmäßige Dienstzeit des jeweiligen Tages als geleistet. Fallen
+Seminartage auf Tage, die ansonsten für die an dem Seminar
+teilnehmende Person in der Einsatzstelle dienstfrei wären, so erhält
+die teilnehmende Person die gleiche Anzahl an dienstfreien Tagen als
+Ersatz. Die Freiwilligen wirken an der inhaltlichen Gestaltung und der
+Durchführung der Seminare mit.
 
 (3) Bis zu einer Höchstdauer von insgesamt 18 Monaten können ein
 freiwilliges soziales Jahr und ein freiwilliges ökologisches Jahr mit
@@ -242,75 +243,7 @@ bis zu einer Dauer von 24 Monaten geleistet werden, wenn dies im
 Rahmen eines besonderen pädagogischen Konzepts begründet ist.
 
 
-## § 9 Förderung
-
-Die Förderung des freiwilligen sozialen Jahres und des freiwilligen
-ökologischen Jahres richtet sich nach folgenden Rechtsnormen:
-
-1.  § 3 der Verordnung über Sonderurlaub für Bundesbeamte und Richter im
-    Bundesdienst (Sonderurlaub),
-
-
-2.  § 2 Abs. 1 Nr. 8 des Arbeitsgerichtsgesetzes (Zuständigkeit von
-    Gerichten),
-
-
-3.  § 32 Abs. 4 Satz 1 Nr. 2 Buchstabe b und d des Einkommensteuergesetzes
-    (Berücksichtigung von Kindern),
-
-
-4.  § 265 Abs. 2 Satz 3 Nr. 2 des Gesetzes über den Lastenausgleich
-    (Lastenausgleich),
-
-
-5.  § 27 Abs. 2 Satz 2 Nr. 1, § 150 Absatz 2 Satz 1 Nummer 2, § 344 Abs. 2
-    des Dritten Buches Sozialgesetzbuch (Arbeitsförderung),
-
-
-6.  § 20 Abs. 3 Satz 1 Nr. 2 des Vierten Buches Sozialgesetzbuch
-    (Gesamtsozialversicherungsbeitrag),
-
-
-7.  § 67 Abs. 3 Satz 1 Nr. 2 Buchstabe b und c, § 82 Abs. 2 Satz 2 des
-    Siebten Buches Sozialgesetzbuch (Gesetzliche Unfallversicherung),
-
-
-8.  § 87 Absatz 4 Nummer 2 des Vierzehnten Buches Sozialgesetzbuch,
-
-
-9.  § 2 Abs. 2 Satz 1 Nr. 2 Buchstabe b und d des Bundeskindergeldgesetzes
-    (Kindergeld),
-
-
-10. § 10 Abs. 1 des Vierten Buches Sozialgesetzbuch (Beschäftigungsort),
-
-
-11. § 7 Abs. 1 Satz 1 Nr. 2, § 10 Abs. 2 Nr. 3 des Fünften Buches
-    Sozialgesetzbuch (Krankenversicherung),
-
-
-12. § 6 Absatz 1b Satz 5, § 48 Abs. 4 Satz 1 Nr. 2 Buchstabe b und c des
-    Sechsten Buches Sozialgesetzbuch (Rentenversicherung),
-
-
-13. § 25 Abs. 2 Nr. 3 des Elften Buches Sozialgesetzbuch
-    (Pflegeversicherung),
-
-
-14. § 1 Abs. 1 Nr. 2 Buchstabe h der Verordnung über den Ausgleich
-    gemeinwirtschaftlicher Leistungen im Straßenpersonenverkehr
-    (Ermäßigungen im Straßenpersonenverkehr),
-
-
-15. § 1 Abs. 1 Nr. 2 Buchstabe h der Verordnung über den Ausgleich
-    gemeinwirtschaftlicher Leistungen im Eisenbahnverkehr (Ermäßigungen im
-    Eisenbahnverkehr),
-
-
-16. § 14c des Gesetzes über den Zivildienst der Kriegsdienstverweigerer
-    (Anerkannte Kriegsdienstverweigerer).
-
-
+## § 9 (weggefallen)
 
 
 
@@ -405,8 +338,7 @@ eine schriftliche Vereinbarung ab. Sie muss enthalten:
     Zulassung,
 
 
-6.  Angaben zur Art und Höhe der Geld- und Sachleistungen für Unterkunft,
-    Verpflegung, Arbeitskleidung und Taschengeld,
+6.  Angaben zur Art und Höhe der Geld- und Sachleistungen,
 
 
 7.  die Angabe der Anzahl der Urlaubstage und
@@ -421,10 +353,9 @@ eine schriftliche Vereinbarung ab. Sie muss enthalten:
 (2) Die Vereinbarung nach Absatz 1 kann auch als gemeinsame
 Vereinbarung zwischen dem zugelassenen Träger, der Einsatzstelle und
 der oder dem Freiwilligen geschlossen werden, in der die Einsatzstelle
-die Geld- und Sachleistungen für Unterkunft, Verpflegung,
-Arbeitskleidung und Taschengeld auf eigene Rechnung übernimmt. Der
-Träger haftet für die Erfüllung dieser Pflichten gegenüber der oder
-dem Freiwilligen und Dritten wie ein selbstschuldnerischer Bürge.
+die Geld- und Sachleistungen auf eigene Rechnung übernimmt. Der Träger
+haftet für die Erfüllung dieser Pflichten gegenüber der oder dem
+Freiwilligen und Dritten wie ein selbstschuldnerischer Bürge.
 
 (3) Der Träger stellt der Freiwilligen oder dem Freiwilligen nach
 Abschluss des Dienstes eine Bescheinigung aus. Absatz 1 Satz 2 Nr. 4
@@ -444,10 +375,10 @@ Jugendfreiwilligendienstes aufzunehmen.
 
 ## § 12 Datenschutz
 
-Der Träger des Jugendfreiwilligendienstes darf personenbezogene Daten
-nach § 11 Abs. 1 Satz 2 verarbeiten, soweit dies für die Förderung
-nach § 9 in Verbindung mit den dort genannten Vorschriften
-erforderlich ist. Die Daten sind nach Abwicklung des
+Die Einsatzstellen, Zentralstellen und Träger des
+Jugendfreiwilligendienstes dürfen personenbezogene Daten nach § 11
+Absatz 1 Satz 2 verarbeiten, soweit dies für die Durchführung dieses
+Gesetzes erforderlich ist. Die Daten sind nach Abwicklung des
 Jugendfreiwilligendienstes zu löschen.
 
 
@@ -455,14 +386,34 @@ Jugendfreiwilligendienstes zu löschen.
 
 Für eine Tätigkeit im Rahmen eines Jugendfreiwilligendienstes im Sinne
 dieses Gesetzes sind die Arbeitsschutzbestimmungen und das
-Bundesurlaubsgesetz entsprechend anzuwenden. Für Schäden bei der
+Jugendarbeitsschutzgesetz entsprechend anzuwenden. Für Schäden bei der
 Ausübung ihrer Tätigkeit haften Freiwillige nur wie Arbeitnehmerinnen
 und Arbeitnehmer.
 
 
-## § 14 Übergangsregelung
+## § 13a Urlaub
 
-Für Personen, die Leistungen nach dem Soldatenversorgungsgesetz in
-Verbindung mit dem Bundesversorgungsgesetz erhalten, gilt § 9 Nummer 8
-in der bis zum 31. Dezember 2023 geltenden Fassung weiter.
+(1) Freiwillige haben Anspruch auf Erholungsurlaub.
+
+(2) Bei Freiwilligen, die das 18. Lebensjahr vollendet haben, beträgt
+der Anspruch auf Erholungsurlaub bei einer Dienstdauer von zwölf
+Monaten und einer Verteilung der regelmäßigen Dienstzeit auf fünf
+Werktage in der Kalenderwoche mindestens 20 Werktage. Ist die
+regelmäßige Dienstzeit auf mehr oder weniger als fünf Tage in der
+Kalenderwoche verteilt, ist der Urlaubsanspruch nach Satz 1
+entsprechend umzurechnen. Bei Freiwilligen, die das 18. Lebensjahr
+noch nicht vollendet haben, richtet sich der Anspruch auf
+Erholungsurlaub nach § 19 Absatz 2 des Jugendarbeitsschutzgesetzes.
+
+(3) Bei einer kürzeren oder längeren Dienstdauer als zwölf Monate
+verringert oder erhöht sich der Urlaubsanspruch nach Absatz 1 für
+jeden vollen Monat um ein Zwölftel. Bruchteile von Urlaubstagen, die
+mindestens einen halben Tag ergeben, werden auf volle Urlaubstage
+aufgerundet.
+
+(4) Während des Urlaubs sind die den Freiwilligen nach der
+Vereinbarung zustehenden Geld- und Sachleistungen weiter zu gewähren.
+
+(5) Kann der Urlaub wegen Beendigung des Dienstes ganz oder teilweise
+nicht mehr gewährt werden, ist er abzugelten.
 

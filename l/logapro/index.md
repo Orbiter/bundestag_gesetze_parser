@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1980, 1892
 
 Zuletzt geändert durch
-:   Art. 6 V v. 7.6.2023 I Nr. 148
+:   Art. 2 V v. 21.11.2024 I Nr. 360
 
 
 ## Eingangsformel
@@ -228,8 +228,8 @@ Satz 1 Nr. 1, 2 und 5 aufgeführten Fächern einbezogen werden. Die
 Prüflinge werden einzeln oder in Gruppen bis zu fünf geprüft. In einem
 Fach soll der Prüfling nicht länger als 20 Minuten geprüft werden.
 
-(2) Der mündliche Teil der Prüfung wird von drei Fachprüfern
-abgenommen und nach § 9 benotet. Der Vorsitzende des
+(2) Jedes Fach des mündlichen Teils der Prüfung wird von zwei
+Fachprüfern abgenommen und nach § 9 benotet. Der Vorsitzende des
 Prüfungsausschusses ist berechtigt, am mündlichen Teil der Prüfung
 teilzunehmen; ihm steht kein Fragerecht zu. Aus den Noten der
 Fachprüfer bildet der Vorsitzende des Prüfungsausschusses die Note für
@@ -277,17 +277,17 @@ den Leiter der Schule im Einvernehmen mit einem dem Prüfungsausschuß
 angehörenden Logopäden. Der praktische Teil der Prüfung soll für den
 Prüfling in höchstens acht Stunden abgeschlossen sein.
 
-(3) Der praktische Teil der Prüfung wird von zwei Fachprüfern
-abgenommen und nach § 9 benotet. Der Vorsitzende des
-Prüfungsausschusses ist berechtigt, am praktischen Teil der Prüfung
-teilzunehmen; ihm steht kein Fragerecht zu. Aus den Noten der
-Fachprüfer bildet der Vorsitzende des Prüfungsausschusses die
-Prüfungsnote für den praktischen Teil der Prüfung als das
-arithmetische Mittel der Noten der einzelnen Fachprüfer. Die
-Berechnung erfolgt auf zwei Stellen nach dem Komma ohne Rundung. Dem
-berechneten Zahlenwert ist die entsprechende Note nach § 9 zuzuordnen.
-Der praktische Teil der Prüfung ist bestanden, wenn jedes Fach
-mindestens mit „ausreichend“ benotet wird.
+(3) Jede Aufgabe des praktischen Teils der Prüfung nach Absatz 1 Satz
+2 Nummer 1 und 2 wird von zwei Fachprüfern abgenommen und nach § 9
+benotet. Der Vorsitzende des Prüfungsausschusses ist berechtigt, am
+praktischen Teil der Prüfung teilzunehmen; ihm steht kein Fragerecht
+zu. Aus den Noten der Fachprüfer bildet der Vorsitzende des
+Prüfungsausschusses die Prüfungsnote für den praktischen Teil der
+Prüfung als das arithmetische Mittel der Noten der einzelnen
+Fachprüfer. Die Berechnung erfolgt auf zwei Stellen nach dem Komma
+ohne Rundung. Dem berechneten Zahlenwert ist die entsprechende Note
+nach § 9 zuzuordnen. Der praktische Teil der Prüfung ist bestanden,
+wenn jede Aufgabe mindestens mit „ausreichend“ benotet wird.
 
 (4) Der Vorsitzende des Prüfungsausschusses kann auf Antrag Zuhörer
 zum praktischen Teil der Prüfung zulassen.
@@ -381,8 +381,11 @@ sind. Über das Nichtbestehen erhält der Prüfling vom Vorsitzenden des
 Prüfungsausschusses eine schriftliche Mitteilung, in der die
 Prüfungsnoten anzugeben sind.
 
-(3) Jeder Teil der Prüfung kann zweimal wiederholt werden, wenn der
-Prüfling die Note "mangelhaft" oder "ungenügend" erhalten hat.
+(3) Jede Aufsichtsarbeit des schriftlichen Teils der Prüfung, jedes
+Fach des mündlichen Teils der Prüfung und jede Aufgabe des praktischen
+Teils der Prüfung, für die oder für das der Prüfling die Note
+„mangelhaft“ oder „ungenügend“ erhalten hat, kann zweimal wiederholt
+werden.
 
 (4) Hat der Prüfling alle Teile der Prüfung zu wiederholen, so darf er
 zur Prüfung nur zugelassen werden, wenn er an einer weiteren
@@ -1776,14 +1779,14 @@ Fundstelle des Originaltextes: BGBl. I 1980, 1897
 
 ## Anlage 3 (zu § 1 Abs. 2)
 
-(Inhalt: nicht darstellbare Anlage 3,
-Fundstelle: BGBl. I 1980, 1898)
+(Fundstelle: BGBl. I 1980, 1898)
+
 
 
 ## Anlage 4 (zu § 10 Abs. 2 Satz 1)
 
-(Inhalt: nicht darstellbare Anlage 4,
-Fundstelle: BGBl. I 1980, 1899)
+(Fundstelle: BGBl. I 1980, 1899)
+
 
 
 ## Anlage 5 (zu § 15)

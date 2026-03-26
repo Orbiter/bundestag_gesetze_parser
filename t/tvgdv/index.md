@@ -15,7 +15,7 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1970, 193
 
-Stand: Neufassung vom 16. 1.1989 I 76;
+Stand: Neufassung vom 16.1.1989 I 76;
 Zuletzt geändert durch
 :   Art. 1 V v. 25.6.2021 I 2146
 

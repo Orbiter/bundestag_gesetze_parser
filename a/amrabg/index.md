@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2010, 2262, 2275
 
 Zuletzt geändert durch
-:   Art. 2b G v. 19.7.2023 I Nr. 197
+:   Art. 5 G v. 23.10.2024 I Nr. 324
 
 
 ## § 1 Anspruch auf Abschläge
@@ -52,10 +52,17 @@ Fünften Buches Sozialgesetzbuch gilt, haben die pharmazeutischen
 Unternehmer den Unternehmen der privaten Krankenversicherung und den
 Trägern der Kosten in Krankheits-, Pflege- und Geburtsfällen nach
 beamtenrechtlichen Vorschriften die Differenz zwischen dem
-Erstattungsbetrag und dem tatsächlichen Abgabepreis nach dem Anteil
-der Kostentragung auszugleichen, sofern der tatsächliche Abgabepreis
-über dem zum Zeitpunkt der Abgabe geltenden Erstattungsbetrag liegt. §
-1 Satz 2 bis 4 sowie die §§ 2, 3, 4 und 5 gelten entsprechend.
+Erstattungsbetrag und dem tatsächlichen Abgabepreis einschließlich der
+zu viel entrichteten Zuschläge nach der Arzneimittelpreisverordnung
+und der zu viel entrichteten Umsatzsteuer nach dem Anteil der
+Kostentragung auszugleichen, sofern der tatsächliche Abgabepreis über
+dem zum Zeitpunkt der Abgabe geltenden Erstattungsbetrag liegt. § 1
+Satz 2 bis 5 sowie die §§ 2, 3, 4 und 5 gelten entsprechend. Die
+zentrale Stelle nach § 2 Satz 1 übermittelt Angaben, die ihr gemäß §
+130b Absatz 4a Satz 3 des Fünften Buches Sozialgesetzbuch übermittelt
+werden, unverzüglich an die Unternehmen der privaten
+Krankenversicherung und die Träger der Kosten in Krankheits-, Pflege-
+und Geburtsfällen nach beamtenrechtlichen Vorschriften.
 
 
 ## § 2 Nachweis

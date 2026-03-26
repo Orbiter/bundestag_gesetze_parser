@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2011, 2975
 
 Zuletzt geändert durch
-:   Art. 2 G v. 3.6.2021 I 1444
+:   Art. 3 G v. 3.4.2025 I Nr. 107
 
 
 ## § 1 Kinderschutz und staatliche Mitverantwortung
@@ -89,7 +89,7 @@ Verträge nach § 125 des Neunten Buches Sozialgesetzbuch bestehen,
 Gesundheitsämter, Sozialämter, Schulen, Polizei- und Ordnungsbehörden,
 Agenturen für Arbeit, Krankenhäuser, Sozialpädiatrische Zentren,
 Frühförderstellen, Beratungsstellen für soziale Problemlagen,
-Beratungsstellen nach den §§ 3 und 8 des
+Beratungsstellen nach den §§ 3 und 8 Absatz 1 des
 Schwangerschaftskonfliktgesetzes, Einrichtungen und Dienste zur
 Müttergenesung sowie zum Schutz gegen Gewalt in engen sozialen
 Beziehungen, Mehrgenerationenhäuser, Familienbildungsstätten,
@@ -144,7 +144,7 @@ Ländern schließt.
 
 
 5.  Mitgliedern oder Beauftragten einer anerkannten Beratungsstelle nach
-    den §§ 3 und 8 des Schwangerschaftskonfliktgesetzes,
+    den §§ 3 und 8 Absatz 1 des Schwangerschaftskonfliktgesetzes,
 
 
 6.  staatlich anerkannten Sozialarbeiterinnen oder -arbeitern oder
@@ -223,4 +223,61 @@ Umgang mit ihm hat oder haben wird, der Verdacht besteht, eine
 Straftat nach den §§ 171, 174, 176 bis 180, 182, 184b bis 184e, 225,
 232 bis 233a, 234, 235 oder 236 des Strafgesetzbuchs begangen zu
 haben.
+
+
+## § 6 Beratung im medizinischen Kinderschutz
+
+(1) Das Bundesministerium für Familie, Senioren, Frauen und Jugend
+stellt sicher, dass ein telefonisches Beratungsangebot im
+medizinischen Kinderschutz insbesondere für
+
+1.  Ärztinnen und Ärzte, Psychotherapeutinnen und Psychotherapeuten,
+    Zahnärztinnen und Zahnärzte, Hebammen und Entbindungspfleger sowie
+    Angehörige eines anderen Heilberufes, der für die Berufsausübung oder
+    die Führung der Berufsbezeichnung eine staatlich geregelte Ausbildung
+    erfordert,
+
+
+2.  Fachkräfte, die hauptberuflich oder nebenamtlich bei einem Träger der
+    öffentlichen oder freien Jugendhilfe oder einem Träger oder
+    Leistungserbringer der Eingliederungshilfe beschäftigt sind, und
+
+
+3.  Familienrichterinnen und Familienrichter
+
+
+
+bei Anhaltspunkten für die Gefährdung des Wohls eines Kindes oder
+eines Jugendlichen bedarfsgerecht zur Verfügung steht.
+
+(2) Das Beratungsangebot nach Absatz 1 ist unter einer entgeltfreien
+Rufnummer erreichbar und umfasst eine kostenlose Erstberatung und
+Information zu medizinischen Fragestellungen im Zusammenhang mit einer
+Kindeswohlgefährdung, zu adäquaten Vorgehensweisen bei Anhaltspunkten
+für eine Kindeswohlgefährdung sowie bei Bedarf zu geeigneten
+Ansprechpartnerinnen und Ansprechpartnern für eine weiterführende
+Beratung. Die medizinische Beratung nach Satz 1 erfolgt vertraulich.
+
+(3) Die Aufgaben nach Absatz 2 werden von insoweit erfahrenen
+Ärztinnen und Ärzten aus den Bereichen Rechtsmedizin, Kinder- und
+Jugendpsychiatrie und -psychotherapie und Kinder- und Jugendheilkunde
+sowie von insoweit erfahrenen Psychotherapeutinnen und
+Psychotherapeuten wahrgenommen.
+
+(4) Personenbezogene Daten dürfen verarbeitet werden, soweit dies für
+die in Absatz 2 genannten Zwecke erforderlich ist.
+
+(5) Das Bundesministerium für Familie, Senioren, Frauen und Jugend
+kann die Ausführung der ihm nach Absatz 1 obliegenden Aufgabe auch auf
+eine andere geeignete öffentliche Einrichtung übertragen. Erfolgt eine
+Übertragung nach Satz 1, nimmt das Bundesministerium für Familie,
+Senioren, Frauen und Jugend die Fachaufsicht wahr.
+
+(6) Das Bundesministerium für Familie, Senioren, Frauen und Jugend
+oder eine andere geeignete öffentliche Einrichtung nach Absatz 5
+evaluiert nach einem Jahr die Bedarfsgerechtigkeit des im Rahmen eines
+Modellprojekts 24 Stunden täglich zur Verfügung gestellten
+telefonischen Beratungsangebots. Die Wirkungen des telefonischen
+Beratungsangebots insgesamt werden erstmals nach zwei Jahren, im
+Folgenden alle vier Jahre evaluiert.
 

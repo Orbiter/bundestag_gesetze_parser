@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2014, 1208
 
 Zuletzt geändert durch
-:   Art. 1 V v. 17.4.2023 I Nr. 103
+:   Art. 10 V v. 11.12.2024 I Nr. 411
 
 Mittelbare änderung durch
 :   Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war
@@ -51,7 +51,9 @@ Für die Erstattung der Gewerbeanzeige ist zu verwenden
 
 3.  in den Fällen der Aufgabe des Betriebes im Sinne des § 14 Absatz 1
     Satz 2 Nummer 3 der Gewerbeordnung ein Vordruck nach dem Muster der
-    Anlage 3.
+    Anlage 3 und in den Fällen der Aufgabe des Betriebes im Sinne des § 14
+    Absatz 1 Satz 2 Nummer 3 in Verbindung mit Satz 3 der Gewerbeordnung
+    ein Vordruck nach dem Muster der Anlage 1.
 
 
 
@@ -345,6 +347,20 @@ aus den Gewerbeanzeigen gemäß den Anlagen 1 bis 3 an die statistischen
 
 
 
+(2a) Die Anzeige der Aufgabe des Betriebs im Zusammenhang mit dessen
+Verlegung in einen anderen Meldebezirk nach § 14 Absatz 1 Satz 2
+Nummer 3 in Verbindung mit Satz 3 der Gewerbeordnung gilt zugleich als
+Anzeige der Abmeldung für die bisherige Betriebsstätte. In diesen
+Fällen erhebt die für die Abmeldung zuständige Behörde die Daten des
+Vordrucks der Anlage 3 mithilfe der Daten, die ihr von der für die
+Anmeldung zuständigen Behörde auf der Grundlage des Vordrucks der
+Anlage 1 nach § 14 Absatz 1 Satz 3 der Gewerbeordnung übermittelt
+werden. Auf die Übermittlung der Daten aus der Gewerbeanzeige nach §
+14 Absatz 1 Satz 3 der Gewerbeordnung findet Absatz 4 entsprechende
+Anwendung. Die Verpflichtung der für die Gewerbeanmeldung zuständigen
+Behörde zur Übermittlung der mittels des Vordrucks der Anlage 1
+erhobenen Daten aus der Gewerbeanzeige bleibt unberührt.
+
 (3) Sofern sich bei der Anmeldung eines Gewerbes nach § 14 Absatz 1
 oder § 55c der Gewerbeordnung Anhaltspunkte für Verstöße gegen die in
 § 14 Absatz 8 Satz 1 Nummer 7 der Gewerbeordnung genannten
@@ -426,7 +442,8 @@ vgl. Fußnote)
 
 ## Anlage 3 Gewerbe-Abmeldung
 
-(Fundstelle: BGBl. I 2019, 922 – 923)
+(Fundstelle: BGBl. I 2019, 922 – 923; bzgl. der einzelnen Änderungen
+vgl. Fußnote)
 
 ## Gewerbe-Abmeldung
 

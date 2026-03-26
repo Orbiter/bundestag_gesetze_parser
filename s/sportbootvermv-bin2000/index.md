@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2000, 572
 
 Zuletzt geändert durch
-:   Art. 3 V v. 5.1.2022 I 2
+:   Art. 2 V v. 14.10.2025 I Nr. 242
 
 Die Verpflichtungen aus der Richtlinie 98/34/EG des Europäischen
 Parlaments und des Rates vom 22. Juni 1998 über ein
@@ -95,7 +95,7 @@ bedeuten
 1.  Binnenschiffsuntersuchungsordnung:
 
     Binnenschiffsuntersuchungsordnung vom 21. September 2018 (BGBl. I S.
-    1398) in der jeweils geltenden Fassung,
+    1398) in der jeweils geltenden und anzuwendenden Fassung,
 
 
 2.  Binnenschifffahrt-Kennzeichnungsverordnung:
@@ -116,13 +116,13 @@ bedeuten
 4.  ES-TRIN:
 
     Europäischer Standard der technischen Vorschriften für Binnenschiffe
-    in der Ausgabe 2019/1, der vom Europäischen Ausschuss für die
+    in der Ausgabe 2023/1, der vom Europäischen Ausschuss für die
     Ausarbeitung von Standards im Bereich der Binnenschifffahrt (CESNI)
-    angenommen wurde (Bekanntmachung des Bundesministeriums für Verkehr
-    und digitale Infrastruktur vom 9. Dezember 2019, BAnz AT 09.12.2019
-    B2). Bei der Anwendung des ES-TRIN ist unter Mitgliedstaat ein
-    Mitgliedstaat der Europäischen Union oder der Zentralkommission für
-    die Rheinschifffahrt zu verstehen,
+    angenommen wurde (Bekanntmachung des Bundesministeriums für Digitales
+    und Verkehr vom 16. März 2023, BAnz AT 02.05.2023 B3). Bei der
+    Anwendung des ES-TRIN ist unter Mitgliedstaat ein Mitgliedstaat der
+    Europäischen Union oder der Zentralkommission für die Rheinschifffahrt
+    zu verstehen,
 
 
 5.  Binnenschifffahrtsstraßen-Ordnung:
@@ -181,17 +181,14 @@ soll, ist der zuständigen Berufsgenossenschaft vor der Erteilung oder
 Verlängerung des Bootszeugnisses die Gelegenheit zur Stellungnahme zu
 geben.
 
-(2) Unbeschadet des Absatzes 1 darf für ein Sportboot, das keine
-gültige Konformitätserklärung nach dem Muster des Anhangs XV der
-Richtlinie 94/25/EG des Europäischen Parlaments und des Rates vom 16.
-Juni 1994 zur Angleichung der Rechts- und Verwaltungsvorschriften der
-Mitgliedstaaten über Sportboote (ABl. EG Nr. L 164 S. 15) besitzt, ein
-Bootszeugnis auch nur erteilt werden, wenn das Sportboot über einen
-ausreichenden Restauftrieb verfügt, der es auch in überflutetem
-Zustand schwimmfähig erhält, wenn nicht durch andere geeignete
-Maßnahmen, wie zum Beispiel verstärkte Ausrüstung mit Rettungsmitteln
-oder Fahrtbeschränkungen, ein für das jeweilige Fahrtgebiet
-gleichwertiges Sicherheitsniveau gewährleistet wird.
+(2) Unbeschadet des Absatzes 1 darf für ein Sportboot, das der
+Richtlinie 2013/53/EU nicht unterliegt, ein Bootszeugnis erteilt
+werden, wenn das Sportboot über einen ausreichenden Restauftrieb
+verfügt, der es auch in überflutetem Zustand schwimmfähig erhält, wenn
+nicht durch andere geeignete Maßnahmen, wie zum Beispiel verstärkte
+Ausrüstung mit Rettungsmitteln oder Fahrtbeschränkungen, ein für das
+jeweilige Fahrtgebiet gleichwertiges Sicherheitsniveau gewährleistet
+wird.
 
 (3) Das Unternehmen muss dem Wasserstraßen- und Schifffahrtsamt jede
 bauliche oder sonstige Veränderung des Sportbootes, die dessen
@@ -202,17 +199,17 @@ fahrtauglich ist. Ist eine der in Satz 1 genannten Veränderungen nicht
 gemeldet worden, kann das Wasserstraßen- und Schifffahrtsamt die
 Erteilung des Bootszeugnisses widerrufen.
 
-(4) Für Sportboote, die auch im Geltungsbereich der
-Sportbootvermietungsverordnung-See eingesetzt werden, kann an die
-Stelle des Bootszeugnisses nach Absatz 1 das Bootszeugnis nach § 7
-Abs. 1 Nr. 2 oder § 18 Abs. 1 der See-Sportbootverordnung treten,
-sofern darin als Fahrtbereich auch die zu befahrenden
-Binnenschifffahrtsstraßen eingetragen sind.
+(4) Für Sportboote, die auch im Geltungsbereich der See-
+Sportbootverordnung eingesetzt werden, kann an die Stelle des
+Bootszeugnisses nach Absatz 1 das Bootszeugnis nach § 7 Abs. 1 Nr. 2
+oder § 18 Abs. 1 der See-Sportbootverordnung treten, sofern darin als
+Fahrtbereich auch die zu befahrenden Binnenschifffahrtsstraßen
+eingetragen sind.
 
-(5) Das Bundesministerium für Verkehr und digitale Infrastruktur kann
-Bootszeugnisse oder andere Zulassungsurkunden anerkennen, die nach
-landesrechtlichen Vorschriften erteilt werden. Die Muster dieser
-Urkunden werden im Verkehrsblatt bekannt gemacht.
+(5) Das Bundesministerium für Verkehr kann Bootszeugnisse oder andere
+Zulassungsurkunden anerkennen, die nach landesrechtlichen Vorschriften
+erteilt werden. Die Muster dieser Urkunden werden im Verkehrsblatt
+bekannt gemacht.
 
 
 ## § 5 Nachweis über die Fahrtauglichkeit
@@ -223,48 +220,48 @@ Urkunden werden im Verkehrsblatt bekannt gemacht.
     Binnenschiffsuntersuchungsordnung,
 
 
-2.  ein gültiges Abnahmeprotokoll des Germanischen Lloyds oder einer
-    anderen benannten Stelle nach Artikel 9 der Richtlinie 94/25/EG oder
-    eines öffentlich bestellten und vereidigten Sachverständigen oder
-    eines gemäß Norm EN 45013 von einer akkreditierten Stelle
+2.  ein gültiges Abnahmeprotokoll eines öffentlich bestellten und
+    vereidigten Sachverständigen oder eines nach Norm DIN EN ISO/IEC
+    17024, Ausgabe November 2012, von einer akkreditierten Stelle
     zertifizierten Boots- und Yachtsachverständigen mit dem Inhalt der
     Anlage 2 oder
 
 
-3.  eine gültige Konformitätserklärung nach dem Muster des Anhangs XV der
-    Richtlinie 94/25/EG zur Angleichung der Rechts- und
-    Verwaltungsvorschriften der Mitgliedstaaten über Sportboote.
+3.  eine gültige EU-Konformitätserklärung nach dem Muster des Anhangs IV
+    der Richtlinie 2013/53/EU.
 
 
 
 
-(2) Abweichend von Absatz 1 kann die Fahrtauglichkeit für Sportboote
-ohne Antriebsmaschine und für Sportboote mit einer elektrischen
-Antriebsmaschine mit einer Antriebsleistung von weniger als 1 kW durch
-ein Abnahmeprotokoll mit dem Inhalt der Anlage 3 vom Wasserstraßen-
-und Schifffahrtsamt bescheinigt werden. Bei neuen Booten, die in Serie
-hergestellt werden und die mit einer Seriennummerierung versehen sind,
-kann der Hersteller einen Prototypen vom Wasserstraßen- und
+(2) Abweichend von Absatz 1 kann die Fahrtauglichkeit für Sportboote,
+die der Richtlinie 2013/53/EU nicht unterliegen, durch ein
+Abnahmeprotokoll mit dem Inhalt der Anlage 3 vom Wasserstraßen- und
+Schifffahrtsamt bescheinigt werden. Bei neuen Sportbooten, die in
+Serie hergestellt werden und die mit einer Seriennummerierung versehen
+sind, kann der Hersteller einen Prototyp vom Wasserstraßen- und
 Schifffahrtsamt überprüfen lassen. Der Nachweis der Fahrtauglichkeit
-ist für Fahrzeuge dieser Baureihe die Kopie des Abnahmeprotokolls für
-den Prototypen zusammen mit der Herstellerbescheinigung, die die
-Baugleichheit mit den übrigen Fahrzeugen dieser Baureihe bestätigt,
-wenn im Abnahmeprotokoll die Seriennummern der Fahrzeuge aufgeführt
+ist für Sportboote dieser Baureihe die Kopie des Abnahmeprotokolls für
+den Prototyp zusammen mit der Herstellerbescheinigung, die die
+Baugleichheit mit den übrigen Sportbooten dieser Baureihe bestätigt,
+wenn im Abnahmeprotokoll die Seriennummern der Sportboote aufgeführt
 sind, für die er gelten soll.
 
 (3) Durch den Nachweis über die Fahrtauglichkeit wird bescheinigt,
 dass das Sportboot zum Zeitpunkt der Abnahme oder im Falle des
-Absatzes 1 Nr. 3 zum Zeitpunkt des Inverkehrbringens für fahrtauglich
-befunden worden ist.
+Absatzes 1 Nummer 3 zum Zeitpunkt der Bereitstellung auf dem Markt
+oder der Inbetriebnahme für fahrtauglich befunden worden ist.
 
-(4) Abnahmeprotokolle nach Absatz 1 Nr. 2 für Neufahrzeuge sowie die
-Konformitätserklärung nach Absatz 1 Nr. 3 gelten zehn Jahre. Die
-Gültigkeitsdauer der Abnahmeprotokolle für die übrigen Fahrzeuge nach
-Absatz 1 Nr. 2 wird vom Germanischen Lloyd oder vom Sachverständigen
-festgelegt, längstens jedoch für zehn Jahre. Abnahmeprotokolle nach
-Absatz 2 für Neufahrzeuge gelten sechs Jahre. Für die übrigen
-Fahrzeuge bestimmt das Wasserstraßen- und Schifffahrtsamt die
-Gültigkeitsdauer; sie beträgt längstens sechs Jahre.
+(4) Abnahmeprotokolle nach Absatz 1 Nummer 2 für neue Sportboote
+gelten zehn Jahre. Die Gültigkeitsdauer der Abnahmeprotokolle für die
+übrigen Sportboote nach Absatz 1 Nummer 2 wird vom Sachverständigen
+festgelegt, längstens jedoch für zehn Jahre. Sportboote nach Absatz 1
+Nummer 3 müssen nach zehn Jahren ein Abnahmeprotokoll nach Absatz 1
+Nummer 2 beim zuständigen Wasserstraßen- und Schifffahrtsamt vorlegen;
+hinsichtlich der Gültigkeit ist Satz 2 anzuwenden. Abnahmeprotokolle
+nach Absatz 2 für neue Sportbote gelten sechs Jahre. Die
+Gültigkeitsdauer der Abnahmeprotokolle für die übrigen Sportboote nach
+Absatz 2 wird vom zuständigen Wasserstraßen- und Schifffahrtsamt
+festgelegt, längstens jedoch für sechs Jahre.
 
 (5) Abnahmeprotokolle aus anderen Mitgliedstaaten der Europäischen
 Gemeinschaft oder aus den Mitgliedstaaten des Europäischen
@@ -351,23 +348,26 @@ Wasserstraßen- und Schifffahrtsamt anzuzeigen.
 Kennzeichnungsverordnung oder mit einem Vermietungskennzeichen nach
 Absatz 2 zu versehen.
 
-(2) Das Vermietungskennzeichen, das im Übrigen § 2 Abs. 3 Satz 1 der
-Kennzeichnungsverordnung entsprechen muss, besteht aus einer
-Kombination von
+(2) Das Vermietungskennzeichen, das im Übrigen § 2 Absatz 3 Satz 1 der
+Binnenschifffahrt-Kennzeichnungsverordnung entsprechen muss, besteht
+aus einer Kombination von
 
-1.  einem oder mehreren Kennbuchstaben nach Maßgabe der Anlage 1 der
+1.  einem oder mehreren Kennbuchstaben nach Maßgabe des § 4 Absatz 1 Satz
+    1 Nummer 1 in Verbindung mit Satz 2 der Binnenschifffahrt-
     Kennzeichnungsverordnung für das zuständige Wasserstraßen- und
     Schifffahrtsamt,
 
 
-2.  der Nummer des Bootszeugnisses, die mit Bindestrich anzuschließen ist
+2.  der Nummer des Bootszeugnisses, die mit Bindestrich anzuschließen ist,
     und
 
 
-3.  dem Kennbuchstaben "V".
+3.  dem Kennbuchstaben „V“.
 
 
 
+Die Kennzeichen, die auf der Grundlage der am 30. Mai 2021 geltenden
+Fassung dieser Vorschrift erteilt worden sind, gelten weiter.
 
 
 ## § 8 Pflichten des Unternehmens
@@ -514,10 +514,12 @@ Fahrtantritt darauf hinzuweisen, dass
 (8) Sofern das Bootszeugnis für ein Sportboot eine Ausrüstungspflicht
 mit Rettungswesten nicht oder nichts anderes vorschreibt, hat das
 Unternehmen an der Betriebsstätte eine ausreichende Anzahl von
-Rettungswesten in verschiedenen Größen, die mindestens der Norm DIN EN
-395 entsprechen, vorzuhalten. Die Rettungswesten sind den Mietern auf
-Wunsch kostenlos zur Verfügung zu stellen. Hierauf hat das Unternehmen
-deutlich sichtbar durch einen Aushang hinzuweisen.
+Rettungswesten in verschiedenen Größen, die mindestens der DIN EN ISO
+12402-2 : Ausgabe April 2021 DIN EN ISO 12402-3 : April 2021, DIN EN
+ISO 12402-4 : April 2021 entsprechen, vorzuhalten. Die Rettungswesten
+sind den Mietern auf Wunsch kostenlos zur Verfügung zu stellen.
+Hierauf hat das Unternehmen deutlich sichtbar durch einen Aushang
+hinzuweisen.
 
 
 ## § 8a Gelegenheitsverkehr
@@ -902,111 +904,15 @@ Abnahmeprotokolls den Bootszeugnissen beigefügt wird.
 
 ## Anlage 1 (zu § 3)
 
-Fundstelle: BGBl. I 2000, 577 - 578
-Amtliche Vermerke (z.B. Veränderungen):
-......................................................................
-..
-......................................................................
-..
-......................................................................
-..
-Wasserstraßen- und Schifffahrtsamt
-..................................
-...................................   Im Auftrag
-Ort, Datum
-Dienstsiegel
-..................................
-Unterschrift
-----------------------------------------------------------------------
---
-Die Gültigkeit des Bootszeugnisses wird verlängert bis:
-Wasserstraßen- und Schifffahrtsamt
-..................................
-...................................   Im Auftrag
-Ort, Datum
-Dienstsiegel
-..................................
-Unterschrift
-----------------------------------------------------------------------
---
-Bundesrepublik Deutschland
-Wasserstraßen-
-und Schifffahrtsverwaltung des Bundes
-(... Bundesadler)
-Bootszeugnis
-Nr.
-Das Sportboot
-..................................
-(Kennzeichen)
-mit folgenden Identitätsmerkmalen:
-1\. Name und Adresse des Unternehmens:
-.....................................................................
-.....................................................................
-2\. Betriebsstätte:               --- ja     --- nein
-Adresse: ............................................................
-3\. Technische Daten des Bootes:
-- Fahrzeugart:
-- Fahrzeughersteller, Fabrikat:
-- Bau-/Serien-Nr., Bootsidentifizierungs-Nr.:
-- Hauptbaustoff:
-- Länge:                 Breite:          Tiefgang:
-- Baujahr:
-- Höchstzulässige Personenzahl:
-4\. Technische Daten des Motors:
-1\. Motor:        2. Motor\*):
-- Motor-Nr.:
-- Motorhersteller:
-- Motor-Fabrikat (Typ):
-- Antriebsart:
-- Leistung in kW:
-- Baujahr:
-- Art des Motors:
-darf unter den Voraussetzungen der Nummern 6 bis 8 auf
-folgenden Wasserstraßen gewerblich vermietet werden:
-......................................................................
-..
-......................................................................
-..
-......................................................................
-..
-Die Fahrtauglichkeit wurde nachgewiesen durch
---- Fahrtauglichkeitsbescheinigung nach der
-Binnenschiffsuntersuchungsordnung
---- Abnahmeprotokoll (GL, Sachverständiger, WSA)
---- Konformitätserklärung
-5\. CE-Kennzeichen:               --- ja     --- nein
-Herstellerbescheinigung über
-Prototypenabnahme:            --- ja     --- nein
-6\. Folgende Ausrüstung ist an Bord mitzuführen:
-.....................................................................
-.....................................................................
-.....................................................................
-.....................................................................
-.....................................................................
-7\. Mindestbesatzung:
-.....................................................................
-8\. Folgende Bedingungen/Auflagen sind zu beachten:
-.....................................................................
-.....................................................................
-.....................................................................
-.....................................................................
-.....................................................................
-Das Bootszeugnis ist gültig bis:
-.......................................
-Wasserstraßen- und Schifffahrtsamt
-..................................
-...................................   Im Auftrag
-Ort, Datum
-Dienstsiegel
-..................................
-Unterschrift
-\*) Weitere Motoren auf anliegendem Blatt.
+(Fundstelle: BGBl. 2025 I Nr. 242, S. 44 – 45)
 
+![bgbl1_2025_j02420_0400.jpg](bgbl1_2025_j02420_0400.jpg)
+![bgbl1_2025_j02420_0410.jpg](bgbl1_2025_j02420_0410.jpg)
 
 ## Anlage 2 (zu § 5 Abs. 1 Nr. 2)
 
-Fundstelle des Originaltextes: BGBl. I 2002, 4583 - 4587:
-bzgl. der einzelnen Änderungen vgl Fußnote
+(Fundstelle des Originaltextes: BGBl. I 2002, 4583 - 4587;
+bzgl. der einzelnen Änderungen vgl Fußnote)
 Abnahmeprotokoll
 gemäß § 5 Abs. 1 Nr. 2 der Binnenschifffahrt-
 Sportbootvermietungsverordnung
@@ -1315,8 +1221,8 @@ Stempel            Unterschrift .......................
     Seeschiffsregisternummer (mit Schiffsnamen und Heimathafen) oder IMO-
     Nummer, die Nummer des Flaggenzertifikats (gefolgt von dem
     Kennbuchstaben F), das Vermietungskennzeichen und die vom
-    Bundesministerium für Verkehr und digitale Infrastruktur anerkannten,
-    nach landesrechtlichen Vorschriften zugeteilten amtlichen Kennzeichen.
+    Bundesministerium für Verkehr anerkannten, nach landesrechtlichen
+    Vorschriften zugeteilten amtlichen Kennzeichen.
 
 
 2)  Amtlich anerkannte Kennzeichen sind: Die Nummer des Internationalen
@@ -2054,11 +1960,15 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   Finowkanal
 
-    *   89,3 (Schleuse Liepe)
+    *   89,30
+        (Schleuse Liepe)
 
-    *   57,37 (Zerpenschleuse)
+    *   57,10
+        (Untertor Schleuse Zerpenschleuse)
 
-    *
+    *   Querung der Havel-Oder-Wasserstraße nur, wenn auf der Havel-Oder-
+        Wasserstraße kein Fahrzeug in Sicht ist
+
 
 *    *   2.4
 
@@ -2066,21 +1976,11 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   2,73
 
-    *   4,00
+    *   19,80
 
     *   Querung der Havel-Oder-Wasserstraße nur, wenn auf der Havel-Oder-
         Wasserstraße kein Fahrzeug in Sicht ist
 
-
-*    *   2.5
-
-    *   Werbelliner Gewässer
-
-    *   4
-
-    *   19,8
-
-    *
 
 *    *   3
 
@@ -2500,8 +2400,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 ## Anlage 6 Anforderungen an Fahrzeuge, die mit Charterbescheinigung geführt werden dürfen
 
-Fundstelle des Originaltextes: BGBl. I 2003, 2533;
-bzgl. der einzelnen Änderungen vgl. Fußnote
+(Fundstelle des Originaltextes: BGBl. I 2003, 2533;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 1.  Bestehen einer Haftpflichtversicherung
@@ -2522,7 +2422,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
 5.  Ausrüstung:
 
-    a)  Für jede zugelassene Person Rettungsweste nach § 8 Abs. 9 an Bord
+    a)  Für jede zugelassene Person eine Rettungsweste nach § 8 Absatz 8 Satz
+        1 an Bord
 
 
     b)  1 tragbare Feuerlöscher, wenn nicht im Bootszeugnis eine größere Zahl
@@ -2623,121 +2524,143 @@ Es weichen aus - grundsätzlich nach Steuerbord -
 
 ## Anhang 2 (zu Anlage 6)
 
-Fundstelle des Originaltextes: BGBl. I 2003, 2538 - 2539;
-bzgl. der einzelnen Änderungen vgl. Fußnote)
+(Fundstelle: BGBl. 2025 I Nr. 242, S. 46 – 48)
 
-Merkblatt über das Verhalten in Schleusen
-Allgemeines
+## Merkblatt über das Verhalten in Schleusen
+
+## **Allgemeines**
+
 Ein besonderes Erlebnis ist für den Anfänger das Schleusen. Das
 anfängliche Unbehagen lässt sich vermeiden, wenn man sich die dabei zu
 beachtenden Grundregeln und die praktische Handhabung vergegenwärtigt.
-In jedem Fall während des Schleusens Rettungsweste tragen.
-Grundregeln
+In jedem Fall sind während des Schleusens Rettungswesten zu tragen.
 
-.   Die Einfahrt in die Schleuse wird durch Signallichter geregelt. Auch
-    nur ein rotes Licht bedeutet: - noch - keine Einfahrt. Deshalb bei
+## **Grundregeln**
+
+
+•   Die Einfahrt in die Schleuse wird durch Signallichter geregelt. Auch
+    nur ein rotes Licht bedeutet: – noch – keine Einfahrt. Deshalb bei
     Annäherung an den Schleusenbereich Fahrt verlangsamen und ggf.
     anhalten, und zwar spätestens dort, wo das Haltezeichen steht.
 
 
-.   Schleusenkammern nur auf Weisung des Schleusenpersonals befahren oder
+•   Schleusenkammern nur auf Weisung des Schleusenpersonals befahren oder
     ansteuern, wenn keine Bootsschleusen vorhanden sind. Bei
     Selbstbedienungsschleusen Hinweisschilder in den Schleusenvorhäfen
     beachten.
 
 
-.   In der Regel werden Kleinfahrzeuge nicht einzeln, sondern gemeinsam
+•   In der Regel werden Kleinfahrzeuge nicht einzeln, sondern gemeinsam
     mit anderen Kleinfahrzeugen geschleust. Werden sie zusammen mit
-    Fahrzeugen der Großschifffahrt, z.B. Fahrgastschiffen, geschleust,
+    Fahrzeugen der Großschifffahrt, z. B. Fahrgastschiffen, geschleust,
     fahren diese zuerst ein.
 
 
 
-Fahr- und Verhaltensregeln im Schleusenbereich und bei Ein- und
-Ausfahrt
 
-.   Überholen verboten.
-
-
-.   Anlegestellen von Fähren und Fahrgastschiffen freihalten.
+## **Fahr- und Verhaltensregeln im Schleusenbereich und bei Ein- und
+Ausfahrt**
 
 
-.   Ausrüstungsteile binnenbords nehmen.
+•   Überholen verboten.
 
 
-.   Geschwindigkeit so vermindern, dass ein sicheres Abstoppen auch ohne
+•   Anlegestellen von Fähren und Fahrgastschiffen freihalten.
+
+
+•   Ausrüstungsteile binnenbords nehmen.
+
+
+•   Geschwindigkeit so vermindern, dass ein sicheres Abstoppen auch ohne
     Maschinenkraft möglich und ein Anprall an die Schleusentore oder
     andere Fahrzeuge ausgeschlossen ist.
 
 
-.   Personen, die für die Schleusendurchfahrt erforderlich sind, müssen
+•   Personen, die für die Schleusendurchfahrt erforderlich sind, müssen
     sich vom Beginn der Einfahrt bis zur Beendigung der Ausfahrt an Deck,
-    ggf. auch auf der Kammerwand, befinden.
+    ggf. auch auf der Kammerwand befinden.
 
 
-.   So weit einfahren und so hinlegen, dass nachfolgende Fahrzeuge nicht
+•   Soweit einfahren und so hinlegen, dass nachfolgende Fahrzeuge nicht
     behindert werden. Als vom Oberwasser einfahrendes letztes Fahrzeug so
     weit vorfahren, dass ein Aufsetzen auf dem Drempel ausgeschlossen ist.
 
 
-.   Ausreichend Abstand zu anderen Fahrzeugen halten.
+•   Ausreichend Abstand zu anderen Fahrzeugen halten.
 
 
-.   Festmachen bis zur Freigabe der Ausfahrt. Leinen so bedienen, dass
+•   Festmachen bis zur Freigabe der Ausfahrt. Leinen so bedienen, dass
     Stöße gegen Schleusenwände, -tore, Schutzvorrichtungen oder andere
     Fahrzeuge vermieden werden.
 
 
-.   Fender verwenden.
+•   Fender verwenden.
 
 
-.   Nach dem Festmachen bis zur Freigabe der Ausfahrt Maschine nicht
+•   Nach dem Festmachen bis zur Freigabe der Ausfahrt Maschine nicht
     benutzen.
 
 
-.   Die Erlaubnis zur Ausfahrt wird durch grüne Lichter oder Tafeln
-    angezeigt; ist das nicht der Fall, ist die Ausfahrt ohne besondere
+•   Die Erlaubnis zur Ausfahrt wird durch grüne Lichter oder Tafeln
+    angezeigt. Ist das nicht der Fall, so ist die Ausfahrt ohne besondere
     Anordnung des Schleusenpersonals verboten.
 
 
-.   Grundsätzlich gilt: Anweisungen der Schleusenaufsicht haben Vorrang!
+
+**Es gilt: Anweisungen der Schleusenaufsicht haben Vorrang!**
+
+## **Verhalten in der Schleusenkammer – Praxis**
 
 
+*    *   **Aufwärtsschleusen**
 
-Verhalten in der Schleusenkammer - Praxis
-... (nicht darstellbare Schaubilder für Verhaltensregeln im
-Schleusenbereich, BGBl. I 2003, 2538 - 2539)
+    *
 
-Aufwärtsschleusen
-Fahren Sie langsam ein.
-Lassen Sie ein Mitglied der Crew auf der Seite der Leiter oder an der
-Böschung vor der Schleuse aussteigen.
-Der Schiffsführer wirft die Leinen, die Person an Land legt die Leinen
-um die Poller und gibt die Enden wieder zum Boot zurück.
-Bei Selbstbedienungsschleusen nach Hinweisen der Anzeigetafel
-vorgehen.
-Jeweils eine Person an Bord nimmt die vordere und die hintere Leine
-und holt sie beim Ansteigen des Bootes laufend dichter. Halten Sie das
-Boot eng an der Kammerwand.
-Nach Erlaubnis zur Ausfahrt oder Hinweis auf Anzeigetafel Leinen
-einholen; darauf achten, dass keine Leine ins Wasser fällt und in die
-Schiffsschraube gerät. Langsam und vorsichtig ausfahren.
+*    *   Fahren Sie langsam ein.
+        Legen Sie die Leinen jeweils um einen Poller und nehmen Sie die Enden
+        auf das Boot zurück.
+        Bei Selbstbedienungsschleusen nach Hinweisen der Anzeigetafel
+        vorgehen.
 
-Abwärtsschleusen
-Vorne und hinten am Boot jeweils eine Leine an einem Ende auf einer
-Klampe belegen.
-Fahren Sie langsam ein. Stoppen Sie das Boot mit dem Motor.
-Legen Sie die Leinen jeweils um einen Poller und nehmen Sie die Enden
-auf das Boot zurück.
-Bei Selbstbedienungsschleusen nach Hinweisen der Anzeigetafel
-vorgehen.
-Jeweils eine Person bedient eine Leine. Während des Absinkens Leine
-locker laufen lassen. Abstand zum Drempel und zu den Schleusentoren
-halten.
-Nach Erlaubnis zur Ausfahrt Leinen einholen; darauf achten, dass keine
-Leine ins Wasser fällt und in die Schiffsschraube gerät. Langsam und
-vorsichtig ausfahren.
-Wenn Sie eine Leine mit der Hand führen, legen Sie ihr Ende immer um
-eine Klampe an Bord, um das Boot auch bei starker Belastung noch
-halten zu können - Verletzungsgefahr: Quetschungen -.
+    *        ![bgbl1_2025_j02420_0420.jpg](bgbl1_2025_j02420_0420.jpg)
+
+*    *   Jeweils eine Person an Bord nimmt die vordere und die hintere Leine
+        und holt diese beim Ansteigen des Bootes laufend dichter. Halten Sie
+        das Boot eng an der Kammerwand.
+
+    *        ![bgbl1_2025_j02420_0430.jpg](bgbl1_2025_j02420_0430.jpg)
+
+*    *   Nach Erlaubnis zur Ausfahrt oder Hinweis auf Anzeigetafel Leinen
+        einholen; darauf achten, dass keine Leine ins Wasser fällt und in die
+        Schiffsschraube gerät. Langsam und vorsichtig ausfahren.
+
+    *        ![bgbl1_2025_j02420_0440.jpg](bgbl1_2025_j02420_0440.jpg)
+
+*    *   **Abwärtsschleusen**
+
+    *
+
+*    *   Fahren Sie langsam ein. Stoppen Sie das Boot mit dem Motor.
+        Legen Sie die Leinen jeweils um einen Poller und nehmen Sie die Enden
+        auf das Boot zurück.
+        Bei Selbstbedienungsschleusen nach Hinweisen der Anzeigetafel
+        vorgehen.
+
+    *        ![bgbl1_2025_j02420_0450.jpg](bgbl1_2025_j02420_0450.jpg)
+
+*    *   Jeweils eine Person bedient eine Leine. Während des Absinkens Leine
+        locker laufen lassen. Abstand zum Drempel und zu den Schleusentoren
+        halten.
+        Nach Erlaubnis zur Ausfahrt Leinen einholen; darauf achten, dass keine
+        Leine ins Wasser fällt und in die Schiffsschraube gerät. Langsam und
+        vorsichtig ausfahren.
+
+    *        ![bgbl1_2025_j02420_0460.jpg](bgbl1_2025_j02420_0460.jpg)
+
+*    *   Wenn Sie eine Leine mit der Hand führen, legen Sie ihr Ende immer um
+        eine Klampe an Bord, um das Boot auch bei starker Belastung noch
+        halten zu können: Verletzungsgefahr „Quetschungen.“
+
+    *        ![bgbl1_2025_j02420_0470.jpg](bgbl1_2025_j02420_0470.jpg)
+
 

@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1981, 705
 
 Zuletzt geändert durch
-:   Art. 5a G v. 22.3.2024 I Nr. 101
+:   Art. 17 G v. 22.12.2025 I Nr. 355
 
 
 ## Erster Teil - Sozialversicherung der selbständigen Künstler und Publizisten
@@ -673,8 +673,8 @@ Vierten Buches Sozialgesetzbuch entsprechend.
 Die Künstlersozialkasse hat dem Versicherten und dem
 Zuschußberechtigten jährlich eine Abrechnung zu erteilen, aus der die
 Berechnung der von ihm und für ihn erbrachten Beitragsleistungen
-ersichtlich ist. Die Jahresabrechnung gilt als Bescheinigung im Sinne
-des § 25 der Datenerfassungs- und -übermittlungsverordnung.
+ersichtlich ist. Die Jahresabrechnung gilt als Mitteilung im Sinne des
+§ 28a Absatz 5 des Vierten Buches Sozialgesetzbuch.
 
 
 ##### Dritter Unterabschnitt - Erstattungen
@@ -774,7 +774,7 @@ eines der folgenden Unternehmen betreibt:
 
 Die Abgabepflicht nach Satz 1 setzt voraus, dass die Summe der
 Entgelte nach § 25 für einen in einem Kalenderjahr erteilten Auftrag
-oder mehrere in einem Kalenderjahr erteilte Aufträge 450 Euro
+oder mehrere in einem Kalenderjahr erteilte Aufträge 1 000 Euro
 übersteigt. Eine Abgabepflicht nach Satz 1 besteht in Fällen des
 Satzes 1 Nummer 2 nicht
 
@@ -820,8 +820,8 @@ gesondert ausgewiesenen Umsatzsteuer. Ausgenommen hiervon sind
     Verwertungsgesellschaften gezahlt werden,
 
 
-2.  steuerfreie Aufwandsentschädigungen und die in § 3 Nr. 26 des
-    Einkommensteuergesetzes genannten steuerfreien Einnahmen.
+2.  steuerfreie Aufwandsentschädigungen und die in § 3 Nummer 26 und 26a
+    des Einkommensteuergesetzes genannten steuerfreien Einnahmen.
 
 
 
@@ -1076,7 +1076,7 @@ gilt § 27 des Vierten Buches Sozialgesetzbuch entsprechend.
 
 (1) Der Zuschuss des Bundes beträgt für das Kalenderjahr 20 vom
 Hundert der Ausgaben der Künstlersozialkasse. Überzahlungen sind mit
-dem Bundeszuschußss des übernächsten Jahres zu verrechnen.
+dem Bundeszuschuss des übernächsten Jahres zu verrechnen.
 
 (2) Der Bund trägt die Verwaltungskosten der Künstlersozialkasse.
 
@@ -1255,28 +1255,30 @@ Sozialgesetzbuch entsprechende Anwendung.
 
 ### § 37
 
-(1) Die Unfallversicherung Bund und Bahn führt dieses Gesetz im
-Auftrag des Bundes als Künstlersozialkasse durch.
+(1) Die Deutsche Rentenversicherung Knappschaft-Bahn-See führt dieses
+Gesetz im Auftrag des Bundes als Künstlersozialkasse durch. Der
+Dienstsitz der Künstlersozialkasse ist Wilhelmshaven.
 
-(2) In Angelegenheiten der Künstlersozialversicherung führt der
-Geschäftsführer der Unfallversicherung Bund und Bahn die
-Verwaltungsgeschäfte und vertritt die Künstlersozialkasse gerichtlich
-und außergerichtlich. Stellvertreter des Geschäftsführers in
-Angelegenheiten der Künstlersozialversicherung ist der für die
-Künstlersozialkasse zuständige Abteilungsleiter; dieser wird auf
-Vorschlag des Geschäftsführers nach Anhörung des Beirats bei der
-Künstlersozialkasse vom Bundesministerium für Arbeit und Soziales
-bestellt.
+(2) In Angelegenheiten der Künstlersozialversicherung führt das dafür
+zuständige Mitglied der Geschäftsführung der Deutschen
+Rentenversicherung Knappschaft-Bahn-See die Verwaltungsgeschäfte und
+vertritt die Künstlersozialkasse gerichtlich und außergerichtlich. Vor
+seiner Bestellung ist der Beirat bei der Künstlersozialkasse zu hören.
+Die für die Künstlersozialkasse zuständige Abteilungsleitung wird auf
+Vorschlag des Mitglieds der Geschäftsführung nach Anhörung des Beirats
+bei der Künstlersozialkasse vom Bundesministerium für Arbeit und
+Soziales bestellt.
 
 (3) Das Bundesministerium für Arbeit und Soziales ernennt und entlässt
 die Beamtinnen und Beamten der Künstlersozialkasse. Es kann seine
-Befugnisse auf die Geschäftsführerin oder den Geschäftsführer der
-Unfallversicherung Bund und Bahn übertragen.
+Befugnisse auf das zuständige Mitglied der Geschäftsführung der
+Deutschen Rentenversicherung Knappschaft-Bahn-See übertragen.
 
-(4) Oberste Dienstbehörde für den in Absatz 2 Satz 2 genannten
-Stellvertreter ist das Bundesministerium für Arbeit und Soziales, für
-die übrigen Beamten der Künstlersozialkasse der Geschäftsführer der
-Unfallversicherung Bund und Bahn.
+(4) Oberste Dienstbehörde für die in Absatz 2 Satz 3 genannte
+Abteilungsleitung ist das Bundesministerium für Arbeit und Soziales,
+für die übrigen Beamten der Künstlersozialkasse das zuständige
+Mitglied der Geschäftsführung der Deutschen Rentenversicherung
+Knappschaft-Bahn-See.
 
 
 ### § 37a
@@ -1400,29 +1402,31 @@ Verfahren des Beirats (§ 38) und der Ausschüsse (§ 39).
 
 Die Einnahmen aus Beitragsanteilen, der Künstlersozialabgabe und dem
 Bundeszuschuss sind als abgesondertes Vermögen zu verwalten. Dieses
-haftet nicht für Verbindlichkeiten der Unfallversicherung Bund und
-Bahn als Träger der gesetzlichen Unfallversicherung. Die Haftung der
-Unfallversicherung Bund und Bahn für Verbindlichkeiten der
-Künstlersozialkasse nach dem Ersten und Vierten Teil ist auf das
-abgesonderte Vermögen der Künstlersozialkasse beschränkt.
+haftet nicht für Verbindlichkeiten der Deutschen Rentenversicherung
+Knappschaft-Bahn-See aus der Durchführung ihrer weiteren
+Aufgabenstellungen. Die Haftung der Deutschen Rentenversicherung
+Knappschaft-Bahn-See für Verbindlichkeiten der Künstlersozialkasse
+nach dem Ersten und Vierten Teil ist auf das abgesonderte Vermögen der
+Künstlersozialkasse beschränkt.
 
 
 ### § 43
 
-(1) Die Unfallversicherung Bund und Bahn weist alle zu erwartenden
-Einnahmen, voraussichtlich zu leistenden Ausgaben und voraussichtlich
-benötigten Verpflichtungsermächtigungen der Künstlersozialkasse in
-einem gesonderten Haushaltsplan aus. Auf die Aufstellung und
-Ausführung des Haushaltsplans, die Zahlungen, die Buchführung und die
-Rechnungslegung sind die für die Träger der Rentenversicherung jeweils
-geltenden Bestimmungen, mit Ausnahme des Kontenrahmens, entsprechend
-anzuwenden.
+(1) Die Deutsche Rentenversicherung Knappschaft-Bahn-See weist alle zu
+erwartenden Einnahmen, voraussichtlich zu leistenden Ausgaben und
+voraussichtlich benötigten Verpflichtungsermächtigungen der
+Künstlersozialkasse in einem gesonderten Haushaltsplan aus. Auf die
+Aufstellung und Ausführung des Haushaltsplans, die Zahlungen, die
+Buchführung und die Rechnungslegung sind die für die Träger der
+Rentenversicherung jeweils geltenden Bestimmungen einschließlich § 71
+Absatz 2 des Vierten Buches Sozialgesetzbuch, mit Ausnahme des
+Kontenrahmens, entsprechend anzuwenden.
 
 (2) Die Künstlersozialkasse erstellt einen eigenen Kontenrahmen. Er
 bedarf der Genehmigung des Bundesamtes für Soziale Sicherung. Die
 Veranschlagung und Buchung der Verwaltungseinnahmen und -ausgaben
 sowie der Investitionseinnahmen und -ausgaben richtet sich nach dem
-Kontenrahmen für die Träger der allgemeinen Rentenversicherung.
+Kontenrahmen für die Träger der Deutschen Rentenversicherung.
 
 (3) Die Künstlersozialkasse stellt unter Mitwirkung des
 Bundesministeriums für Arbeit und Soziales den Haushaltsplan auf und
@@ -1433,7 +1437,7 @@ Soziale Sicherung, die mit Zustimmung des Bundesministeriums für
 Arbeit und Soziales und des Bundesministeriums der Finanzen erteilt
 wird. Die Genehmigung erstreckt sich auch auf die Zweckmäßigkeit der
 Ansätze. Der Haushaltsplan ist dem Bundesamt für Soziale Sicherung
-spätestens am 1. September vor Beginn des Haushaltsjahres, für das er
+spätestens am 1. November vor Beginn des Haushaltsjahres, für das er
 gelten soll, vorzulegen.
 
 (5) Soweit der Haushaltsplan zu Beginn des Haushaltsjahres noch nicht
@@ -1449,10 +1453,11 @@ des Bundesamtes für Soziale Sicherung, die mit Zustimmung des
 Bundesministeriums für Arbeit und Soziales und des Bundesministeriums
 der Finanzen erteilt wird, überplanmäßige und außerplanmäßige Ausgaben
 leisten. Bei Beitragsabführungen erforderliche überplanmäßige Ausgaben
-können abweichend von Satz 1 vom Geschäftsführer der
-Unfallversicherung Bund und Bahn bewilligt werden. Die Bewilligung ist
-unverzüglich von der Unfallversicherung Bund und Bahn dem Bundesamt
-für Soziale Sicherung anzuzeigen. Das Bundesversicherungsamt setzt das
+können abweichend von Satz 1 vom zuständigen Mitglied der
+Geschäftsführung der Deutschen Rentenversicherung Knappschaft-Bahn-See
+bewilligt werden. Die Bewilligung ist unverzüglich von der Deutschen
+Rentenversicherung Knappschaft-Bahn-See dem Bundesamt für Soziale
+Sicherung anzuzeigen. Das Bundesamt für Soziale Sicherung setzt das
 Bundesministerium für Arbeit und Soziales und das Bundesministerium
 der Finanzen über die Bewilligung in Kenntnis.
 
@@ -1530,10 +1535,6 @@ für die Zukunft erklärt werden und ist für die Dauer der
 künstlerischen oder publizistischen Tätigkeit bindend.
 
 
-### § 54 (weggefallen)
-
-
-
 ### § 52a (weggefallen)
 
 
@@ -1550,6 +1551,12 @@ ausübt und daraus ein Arbeitseinkommen erzielt, das voraussichtlich
 gesetzlichen Krankenversicherung und der sozialen Pflegeversicherung
 nach diesem Gesetz im Zeitraum ab dem 1. Januar 2020 eingetreten ist
 oder eintritt.
+
+
+### § 54
+
+Abweichend von § 24 Absatz 2 Satz 2 beträgt die Entgeltsumme 700 Euro
+im Kalenderjahr 2025.
 
 
 ### § 55

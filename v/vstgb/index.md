@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2002, 2254
 
-Geändert durch
-:   Art. 1 G v. 22.12.2016 I 3150
+Zuletzt geändert durch
+:   Art. 1 G v. 30.7.2024 I Nr. 255
 
 
 
@@ -141,21 +141,25 @@ gegen eine Zivilbevölkerung
     lediglich Folge völkerrechtlich zulässiger Sanktionen sind,
 
 
-6.  einen anderen Menschen sexuell nötigt oder vergewaltigt, ihn zur
-    Prostitution nötigt, der Fortpflanzungsfähigkeit beraubt oder in der
-    Absicht, die ethnische Zusammensetzung einer Bevölkerung zu
-    beeinflussen, eine unter Anwendung von Zwang geschwängerte Frau
-    gefangen hält,
+6.  einen sexuellen Übergriff auf einen anderen Menschen begeht, ihn
+    sexuell nötigt oder vergewaltigt, ihn zur Prostitution nötigt, ihn
+    sexuell versklavt, ihn der Fortpflanzungsfähigkeit beraubt, einen
+    unter Anwendung von Zwang geschwängerten Menschen in der Absicht, die
+    ethnische Zusammensetzung einer Bevölkerung zu beeinflussen oder Taten
+    nach den §§ 6 bis 13 zu begehen, gefangen hält oder eine
+    Schwangerschaft gegen oder ohne den Willen des schwangeren Menschen
+    abbricht,
 
 
 7.  einen Menschen dadurch zwangsweise verschwinden lässt, dass er in der
-    Absicht, ihn für längere Zeit dem Schutz des Gesetzes zu entziehen,
+    Absicht, ihn nicht nur kurzzeitig dem Schutz des Gesetzes zu
+    entziehen,
 
     a)  ihn im Auftrag oder mit Billigung eines Staates oder einer politischen
         Organisation entführt oder sonst in schwerwiegender Weise der
-        körperlichen Freiheit beraubt, ohne dass im Weiteren auf Nachfrage
-        unverzüglich wahrheitsgemäß Auskunft über sein Schicksal und seinen
-        Verbleib erteilt wird, oder
+        körperlichen Freiheit beraubt, ohne dass im Weiteren unverzüglich
+        wahrheitsgemäß Auskunft über sein Schicksal und seinen Verbleib
+        erteilt wird, oder
 
 
     b)  sich im Auftrag des Staates oder der politischen Organisation oder
@@ -180,10 +184,10 @@ gegen eine Zivilbevölkerung
 
 10. eine identifizierbare Gruppe oder Gemeinschaft verfolgt, indem er ihr
     aus politischen, rassischen, nationalen, ethnischen, kulturellen oder
-    religiösen Gründen, aus Gründen des Geschlechts oder aus anderen nach
-    den allgemeinen Regeln des Völkerrechts als unzulässig anerkannten
-    Gründen grundlegende Menschenrechte entzieht oder diese wesentlich
-    einschränkt,
+    religiösen Gründen, aus Gründen des Geschlechts, der sexuellen
+    Orientierung oder aus anderen nach den allgemeinen Regeln des
+    Völkerrechts als unzulässig anerkannten Gründen grundlegende
+    Menschenrechte entzieht oder diese wesentlich einschränkt,
 
 
 
@@ -241,11 +245,15 @@ nichtinternationalen bewaffneten Konflikt
     verstümmelt,
 
 
-4.  eine nach dem humanitären Völkerrecht zu schützende Person sexuell
-    nötigt oder vergewaltigt, sie zur Prostitution nötigt, der
-    Fortpflanzungsfähigkeit beraubt oder in der Absicht, die ethnische
-    Zusammensetzung einer Bevölkerung zu beeinflussen, eine unter
-    Anwendung von Zwang geschwängerte Frau gefangen hält,
+4.  einen sexuellen Übergriff auf eine nach dem humanitären Völkerrecht zu
+    schützende Person begeht, sie sexuell nötigt oder vergewaltigt, sie
+    zur Prostitution nötigt, sie sexuell versklavt, sie der
+    Fortpflanzungsfähigkeit beraubt, eine nach dem humanitären Völkerrecht
+    zu schützende und unter Anwendung von Zwang geschwängerte Person in
+    der Absicht, die ethnische Zusammensetzung einer Bevölkerung zu
+    beeinflussen oder Taten nach den §§ 6 bis 13 zu begehen, gefangen hält
+    oder eine Schwangerschaft gegen oder ohne den Willen der schwangeren,
+    nach dem humanitären Völkerrecht zu schützenden Person abbricht,
 
 
 5.  Kinder unter 15 Jahren für Streitkräfte zwangsverpflichtet oder in
@@ -465,11 +473,17 @@ nichtinternationalen bewaffneten Konflikt
 
 
 6.  als Befehlshaber anordnet oder androht, dass kein Pardon gegeben wird,
-    oder
 
 
 7.  einen Angehörigen der gegnerischen Streitkräfte oder einen Kämpfer der
-    gegnerischen Partei meuchlerisch tötet oder verwundet,
+    gegnerischen Partei meuchlerisch tötet oder verwundet, oder
+
+
+8.  mit militärischen Mitteln einen Angriff durchführt und dabei als
+    sicher erwartet, dass der Angriff weitreichende, langfristige und
+    schwere Schäden an der natürlichen Umwelt verursachen wird, die außer
+    Verhältnis zu dem insgesamt erwarteten konkreten und unmittelbaren
+    militärischen Vorteil stehen,
 
 
 
@@ -485,14 +499,6 @@ Jahren bestraft. Führt der Täter den Tod vorsätzlich herbei, ist die
 Strafe lebenslange Freiheitsstrafe oder Freiheitsstrafe nicht unter
 zehn Jahren.
 
-(3) Wer im Zusammenhang mit einem internationalen bewaffneten Konflikt
-mit militärischen Mitteln einen Angriff durchführt und dabei als
-sicher erwartet, dass der Angriff weit reichende, langfristige und
-schwere Schäden an der natürlichen Umwelt verursachen wird, die außer
-Verhältnis zu dem insgesamt erwarteten konkreten und unmittelbaren
-militärischen Vorteil stehen, wird mit Freiheitsstrafe nicht unter
-drei Jahren bestraft.
-
 
 #### § 12 Kriegsverbrechen des Einsatzes verbotener Mittel der Kriegsführung
 
@@ -502,12 +508,21 @@ nichtinternationalen bewaffneten Konflikt
 1.  Gift oder vergiftete Waffen verwendet,
 
 
-2.  biologische oder chemische Waffen verwendet oder
+2.  biologische oder chemische Waffen verwendet,
 
 
 3.  Geschosse verwendet, die sich leicht im Körper des Menschen ausdehnen
     oder flachdrücken, insbesondere Geschosse mit einem harten Mantel, der
     den Kern nicht ganz umschließt oder mit Einschnitten versehen ist,
+
+
+4.  Waffen verwendet, deren Hauptwirkung darin besteht, durch Splitter zu
+    verletzen, die im menschlichen Körper durch Röntgenstrahlen nicht
+    entdeckt werden können, oder
+
+
+5.  Laserwaffen verwendet, die eigens dazu entworfen sind, die dauerhafte
+    Erblindung des unbewehrten Auges zu verursachen,
 
 
 

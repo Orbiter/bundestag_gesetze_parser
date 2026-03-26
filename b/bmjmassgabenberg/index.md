@@ -18,7 +18,6 @@ Fundstelle
 
 Stand: Das G tritt gem. Art. 210 Abs. 3 G v. 19.4.2006 I 866 am Tag nach der Verkündung der Bekanntmachung nach seinem § 2 außer Kraft.
 
-
 ## § 1 Unanwendbarkeit von Maßgaben
 
 (1) Folgende Maßgaben zum Bundesrecht in Kapitel III der Anlage I des

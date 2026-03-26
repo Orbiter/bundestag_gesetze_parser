@@ -14,16 +14,10 @@ Ausfertigungsdatum
 :   2021-11-26
 
 Fundstelle
-:   BGBl I: 2021, 4982 (5204)
+:   BGBl I: 2021, 4982 (5204) (2023 I Nr. 144)
 
 Zuletzt geändert durch
-:   Art. 2 V v. 1.12.2022 I 2211
-
-Änderung durch
-:   Art. 3 V v. 5.4.2023 II Nr. 105 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 4 V v. 18.3.2024 I Nr. 100 mWv 1.5.2024 noch nicht berücksichtigt
+:   Art. 2 V v. 17.12.2025 I Nr. 381
 
 
 ## Teil 1 - Allgemeine Bestimmungen
@@ -590,8 +584,8 @@ für Beschäftigte von Behörden eines Landes oder seiner Gemeinden oder
 Gemeindeverbände steht einem Behördenschifferzeugnis nach Absatz 1
 Nummer 2 gleich, soweit die Befähigungsprüfung der nach Landesrecht
 zuständigen Behörde den Anforderungen an die Befähigungsprüfung nach §
-40 entspricht. Dies wird vom Bundesministerium für Digitales und
-Verkehr festgestellt. Die Sätze 1 und 2 gelten nicht für den amtlichen
+40 entspricht. Dies wird vom Bundesministerium für Verkehr
+festgestellt. Die Sätze 1 und 2 gelten nicht für den amtlichen
 Berechtigungsschein.
 
 (6) Das Behördenpatent nach der Rheinschiffspersonalverordnung gilt
@@ -608,8 +602,8 @@ ausreichend.
 
 #### § 12 Ausnahme von der Pflicht zum Besitz eines Befähigungszeugnisses für die Besatzungsmitglieder auf Führungsebene
 
-(1) Keines Befähigungszeugnisses für Schiffsführer und
-Schiffsführerinnen bedarf nach dieser Verordnung, wer
+Keines Befähigungszeugnisses für Schiffsführer und Schiffsführerinnen
+bedarf nach dieser Verordnung, wer
 
 1.  ein Fahrzeug führt, das
 
@@ -640,49 +634,6 @@ Schiffsführerinnen bedarf nach dieser Verordnung, wer
 
 Satz 1 gilt nicht für Fahrgastboote.
 
-(2) Zum Führen von Fahrzeugen mit einer Länge von weniger als 20
-Metern berechtigen auch
-
-1.  auf Wasserstraßen der Zonen 1 und 2
-
-    a)  ein Fährschifferzeugnis, wenn es für wenigstens eine Fährstelle dieser
-        Zonen gilt,
-
-
-    b)  ein Sportschifferzeugnis mit einer besonderen Berechtigung für
-        maritime Wasserstraßen oder
-
-
-    c)  ein Behördenschifferzeugnis mit einer besonderen Berechtigung für
-        maritime Wasserstraßen,
-
-
-
-
-
-2.  auf Wasserstraßen der Zonen 3 und 4
-
-    a)  ein Fährschifferzeugnis, wenn es für wenigstens eine Fährstelle dieser
-        Zonen gilt,
-
-
-    b)  ein Sportschifferzeugnis oder
-
-
-    c)  ein Behördenschifferzeugnis.
-
-
-
-
-
-
-Satz 1 gilt nicht für Fährschifferzeugnisse, die auf seil- oder
-kettengebundene Fähren beschränkt sind, und nicht für Fahrgastschiffe,
-Fahrgastboote, Sportfahrzeuge, die nach § 34 der
-Binnenschiffsuntersuchungsordnung zur Beförderung von Fahrgästen
-eingesetzt werden, Schub- und Schleppboote und schwimmende Geräte
-sowie Fähren.
-
 
 #### § 13 Amtlicher Berechtigungsschein
 
@@ -696,9 +647,9 @@ auch durch einen amtlichen Berechtigungsschein nachweisen:
 
 2.  Dienstfahrzeuge des Zivil- und Katastrophenschutzes, der
     Wasserstraßen- und Schifffahrtsverwaltung des Bundes, der
-    Schifffahrtsverwaltung oder der Fischereiverwaltung eines Landes,
-    eines Landeskriminalamtes und der Feuerwehr, jeweils mit einer Länge
-    von weniger als 20 Metern,
+    Wasserstraßen-, Wasserwirtschafts-, Schifffahrts- oder
+    Fischereiverwaltung eines Landes, eines Landeskriminalamtes und der
+    Feuerwehr, jeweils mit einer Länge von weniger als 20 Metern,
 
 
 3.  Wasserrettungsfahrzeuge einer als gemeinnützig anerkannten
@@ -748,28 +699,140 @@ Zonen 3 und 4.
 Behördenfahrzeugen, Feuerlöschbooten und Fahrzeugen des
 Katastrophenschutzes auf den Wasserstraßen der Zonen 3 und 4.
 
-(5) Das Kleinschifferzeugnis berechtigt zum Führen von Fahrzeugen, die
-nicht in den Anwendungsbereich der Richtlinie (EU) 2017/2397 fallen
-und für die nach anderen Vorschriften kein Schifferzeugnis
-erforderlich ist. Die Fahrzeugart und das Fahrtgebiet, für die das
-jeweilige Kleinschifferzeugnis gilt, ist durch die zuständige Behörde
-bei seiner Erteilung festzulegen und auf dem Befähigungszeugnis zu
-vermerken. Zur Vermeidung unbilliger Härten kann die zuständige
-Behörde auf Antrag genehmigen, dass das Kleinschifferzeugnis
-vorübergehend auch zum Führen von Fahrzeugen berechtigt, die in den
-Anwendungsbereich der Richtlinie (EU) 2017/2397 fallen. Dies setzt den
-erfolgreichen Abschluss einer theoretischen Prüfung für das
-Unionspatent durch den Inhaber oder die Inhaberin des
-Kleinschifferzeugnisses voraus.
+(5) Das Kleinschifferzeugnis berechtigt dazu, Fahrzeuge zu führen,
 
-(6) Die in den Absätzen 1 bis 5 genannten Befähigungszeugnisse gelten
-auch auf den Wasserstraßen der Zonen 1 und 2, wenn zusätzlich eine
-besondere Berechtigung für maritime Wasserstraßen vorliegt. Abweichend
-von Satz 1 gilt das Kleinschifferzeugnis im Falle des § 39 Absatz 1
-Nummer 5 Buchstabe a Doppelbuchstabe aa nur für Wasserstraßen der
-Zonen 1 und 2.
+1.  auf denen entgeltlich oder anderweitig geschäfts- oder erwerbsmäßig
+    Personen befördert werden,
 
-(7) (weggefallen)
+
+2.  die nicht in den Anwendungsbereich der Richtlinie (EU) 2017/2397
+    fallen und
+
+
+3.  für die nach anderen Vorschriften kein Schifferzeugnis erforderlich
+    ist.
+
+
+
+Keine entgeltliche oder anderweitig geschäfts- oder erwerbsmäßige
+Beförderung von Personen liegt vor bei
+
+1.  Chartereinweisung mit Chartergästen an Bord,
+
+
+2.  Rückführung oder Überführung von Chartergästen im Falle einer Havarie,
+    eines Skipper- oder Crewausfalls oder bei schlechtem Wetter,
+
+
+3.  Ausbildung auf Ausbildungsbooten mit Schülern,
+
+
+4.  Probefahrten sowie Fahrten zu Werbe- und Informationszwecken,
+
+
+5.  Überführung von Booten zur Reparatur in Werften, Testfahrten und
+    Fahrten vom oder zum Kran oder Slip oder
+
+
+6.  Begleitfahrten bei Sportveranstaltungen.
+
+
+
+Die Fahrzeugart und das Fahrtgebiet, für die das jeweilige
+Kleinschifferzeugnis gilt, ist durch die zuständige Behörde bei seiner
+Erteilung festzulegen und auf dem Befähigungszeugnis zu vermerken. Zur
+Vermeidung unbilliger Härten kann die zuständige Behörde auf Antrag
+genehmigen, dass das Kleinschifferzeugnis vorübergehend auch zum
+Führen von Fahrzeugen berechtigt, die in den Anwendungsbereich der
+Richtlinie (EU) 2017/2397 fallen.
+
+
+#### § 15a Erweiterung des Geltungsbereichs der Befähigungszeugnisse auf Führungsebene
+
+(1) Die in § 15 genannten Befähigungszeugnisse gelten auch auf den
+Wasserstraßen der Zonen 1 und 2, wenn zusätzlich eine besondere
+Berechtigung für maritime Wasserstraßen vorliegt. Abweichend von Satz
+1 gilt das Kleinschifferzeugnis im Falle des § 39 Absatz 1 Nummer 5
+Buchstabe a Doppelbuchstabe aa nur für Wasserstraßen der Zonen 1 und
+2\.
+
+(2) Zum Führen von Fahrzeugen mit einer Länge von weniger als 20
+Metern berechtigen auch
+
+1.  auf Wasserstraßen der Zonen 1 und 2
+
+    a)  ein Fährschifferzeugnis, wenn es für mindestens eine Fährstelle dieser
+        Zonen gilt und nicht auf seil- oder kettengebundene Fähren beschränkt
+        ist,
+
+
+    b)  ein Sportschifferzeugnis mit einer besonderen Berechtigung für
+        maritime Wasserstraßen,
+
+
+    c)  ein Behördenschifferzeugnis mit einer besonderen Berechtigung für
+        maritime Wasserstraßen,
+
+
+    d)  ein amtlicher Berechtigungsschein mit dem Geltungsbereich
+        Seeschifffahrtsstraßen oder
+
+
+    e)  eine Fahrerlaubnis mit dem Geltungsbereich Seeschifffahrtsstraßen nach
+        der Sportbootführerscheinverordnung,
+
+
+
+
+
+2.  auf Wasserstraßen der Zonen 3 und 4
+
+    a)  ein Fährschifferzeugnis, wenn es für mindestens eine Fährstelle dieser
+        Zonen gilt und nicht auf seil- oder kettengebundene Fähren beschränkt
+        ist,
+
+
+    b)  ein Sportschifferzeugnis,
+
+
+    c)  ein Behördenschifferzeugnis,
+
+
+    d)  ein amtlicher Berechtigungsschein mit dem Geltungsbereich
+        Binnenschifffahrtsstraßen oder
+
+
+    e)  eine Fahrerlaubnis für Sportboote unter Antriebsmaschine mit dem
+        Geltungsbereich Binnenschifffahrtsstraßen nach § 3 Absatz 1 oder ein
+        Befähigungszeugnis nach § 3 Absatz 4 der
+        Sportbootführerscheinverordnung.
+
+
+
+
+
+
+Satz 1 gilt nicht für
+
+1.  Fahrzeuge im Falle des § 15 Absatz 5 Satz 1,
+
+
+2.  Fahrgastschiffe, Fahrgastboote oder Sportfahrzeuge, die nach § 34 der
+    Binnenschiffsuntersuchungsordnung zur Beförderung von Fahrgästen
+    eingesetzt werden,
+
+
+3.  Schub- und Schleppboote,
+
+
+4.  schwimmende Geräte sowie
+
+
+5.  Übersetzverkehr an nicht im Fährschifferzeugnis eingetragenen
+    Fährstellen.
+
+
+
 
 
 #### § 16 Besondere Berechtigungen für das Führen von Fahrzeugen
@@ -781,9 +844,8 @@ besonderer Berechtigungen:
 
 1.  einer besonderen Berechtigung für Radar, wenn nach der
     Binnenschifffahrtsstraßenordnung, der
-    Rheinschifffahrtspolizeiverordnung, der
-    Moselschifffahrtspolizeiverordnung oder der
-    Donauschifffahrtspolizeiverordnung nur unter Verwendung des Radars
+    Rheinschifffahrtspolizeiverordnung oder der
+    Moselschifffahrtspolizeiverordnung nur unter Verwendung des Radars
     gefahren werden darf;
 
 
@@ -807,10 +869,18 @@ besonderer Berechtigungen:
 
 
 
-Satz 1 Nummer 2 gilt für das Führen von Schiffen unter 20 Metern nur,
-soweit es sich um Fahrgastschiffe, Fahrgastboote oder Fähren handelt.
-Satz 1 Nummer 3 gilt vorbehaltlich des § 15 Absatz 7 nicht für Fähren,
-die mit einem Fährschifferzeugnis geführt werden dürfen.
+Satz 1 Nummer 2 gilt nur für
+
+1.  Fahrzeuge, die in § 25 Absatz 3 oder 4 Satz 2 aufgeführt sind,
+
+
+2.  Fahrgastboote,
+
+
+3.  Behördenfahrzeuge und Sportfahrzeuge ab 20 m Länge.
+
+
+
 
 (2) Eine besondere Berechtigung nach Absatz 1 Satz 1 Nummer 1, 2, 3
 oder 5 wird durch einen entsprechenden Eintrag in dem
@@ -1092,20 +1162,31 @@ es den Tauglichkeitsnachweis nach § 21 Absatz 1 Satz 1 hierüber
 unverzüglich der ausstellenden Behörde zu übermitteln.
 
 (4) Rechtfertigen Tatsachen die Annahme, dass die medizinische
-Tauglichkeit eines Besatzungsmitglieds nicht mehr besteht, kann sein
-Arbeitgeber, der Schiffsführer oder die ausstellende Behörde von ihm
-die Vorlage eines aktuellen Tauglichkeitsnachweises im Sinne des § 21
-Absatz 1 Satz 1 über die entsprechende Tauglichkeit anordnen, was das
-Besatzungsmitglied bei Vorlage gegenüber dem Arbeitgeber oder dem
-Schiffsführer gegenüber der Behörde nachzuweisen hat. In der
-behördlichen Anordnung kann vorgegeben werden, dass die Untersuchung
-auf bestimmte Krankheitsbilder zu erstrecken ist. Erweist sich die
-Annahme als ungerechtfertigt, trägt die anordnende Behörde die Kosten
-für den Tauglichkeitsnachweis nach § 21 Absatz 1 Satz 1.
+Tauglichkeit eines Besatzungsmitglieds nicht mehr besteht, können die
+folgenden Stellen von ihm die Vorlage eines aktuellen
+Tauglichkeitsnachweises im Sinne des § 21 Absatz 1 Satz 1 verlangen:
 
-(5) Ein Wasserstraßen- und Schifffahrtsamt ist befugt, die Anordnung
-nach Absatz 4 zu treffen, auch wenn das Befähigungszeugnis von einem
-anderen Wasserstraßen- und Schifffahrtsamt erteilt worden ist.
+1.  sein Arbeitgeber,
+
+
+2.  der Schiffsführer,
+
+
+3.  die zuständige Behörde oder
+
+
+4.  jedes Wasserstraßen- und Schifffahrtsamt für Zeugnisse auf Einstiegs-
+    und Betriebsebene.
+
+
+
+In den Fällen des Satzes 1 Nummer 1 und 2 hat das Besatzungsmitglied
+den aktuellen Tauglichkeitsnachweis zudem der ausstellenden Behörde
+vorzulegen. In der behördlichen Anordnung kann vorgegeben werden, dass
+die Untersuchung auf bestimmte Krankheitsbilder zu erstrecken ist.
+Erweist sich die Annahme als ungerechtfertigt, trägt die anordnende
+Behörde die Kosten für den Tauglichkeitsnachweis nach § 21 Absatz 1
+Satz 1.
 
 
 ##### § 23 Medizinische Tauglichkeit der Maschinenkundigen
@@ -1191,16 +1272,17 @@ Befähigungszeugnis mindestens auf Einstiegsebene besitzt.
 
 
 (4) Fahrzeiten können auch auf Fähren erworben werden. Dabei werden
-für das Unionspatent nur Fahrzeiten anerkannt, die erworben wurden
+für das Unionspatent nur Fahrzeiten anerkannt, die erworben wurden auf
+frei fahrenden Fähren
 
-1.  auf frei fahrenden Fähren mit einer Länge von 20 Metern oder mehr,
-
-
-2.  auf Fähren, deren Produkt aus Länge, Breite und Tiefgang ein Volumen
-    von 100 Kubikmetern oder mehr ergibt oder
+1.  mit einer Länge von 20 Metern oder mehr,
 
 
-3.  auf Fähren, die zur Beförderung von mehr als 12 Fahrgästen gebaut und
+2.  deren Produkt aus Länge, Breite und Tiefgang ein Volumen von 100
+    Kubikmetern oder mehr ergibt oder
+
+
+3.  die zur Beförderung von mehr als zwölf Fahrgästen gebaut und
     eingerichtet sind.
 
 
@@ -1806,7 +1888,7 @@ oder Matrosin vor dem 18. Januar 2022 erworben haben.
 
 
 3.  für das Fährschifferzeugnis, das Behördenschifferzeugnis, das
-    Sportschifferzeugnis oder, im Falle des § 15 Absatz 5 Satz 3, für das
+    Sportschifferzeugnis oder, im Falle des § 15 Absatz 5 Satz 4, für das
     Kleinschifferzeugnis ein Sprechfunkzeugnis besitzen,
 
 
@@ -1845,44 +1927,7 @@ Sofern Fahrzeiten überwiegend oder ganz auf seil- oder
 kettengebundenen Fähren nachgewiesen werden, wird das
 Fährschifferzeugnis auf diesen Fährtyp beschränkt.
 
-(2) Wer ein Fährschifferzeugnis erwerben möchte, das zum Führen einer
-Fähre auf
-
-1.  der Kieler Förde,
-
-
-2.  der Trave unterhalb des Lübecker Hafens,
-
-
-3.  der Elbe, soweit diese zur Zone 2-See gehört,
-
-
-4.  der Weser unterhalb der Eisenbahnbrücke in Bremen oder
-
-
-5.  der Ems unterhalb des Emdener Hafens
-
-
-
-berechtigt, muss nachweisen, die nach Absatz 1 Satz 1 Nummer 4
-erforderliche Fahrzeit an der Fährstelle der betreffenden Wasserstraße
-erworben zu haben. Zusätzlich muss die Person
-
-1.  ein Fährschifferzeugnis für eine Fährstelle außerhalb der genannten
-    Wasserstraßen besitzen,
-
-
-2.  mindestens 360 Tage Fahrzeit auf Wasserstraßen der Zone 1 oder der
-    Zone 2 nachweisen oder
-
-
-3.  eine als Mitglied der Decksmannschaft auf einem Seeschiff erworbene
-    Berufserfahrung von mindestens 500 Tagen nachweisen.
-
-
-
-
-(3) Die zuständige Behörde kann zur Vermeidung unbilliger Härten für
+(2) Die zuständige Behörde kann zur Vermeidung unbilliger Härten für
 die Erteilung eines Schifferzeugnisses Ausnahmen von dem Besitz eines
 Sprechfunkzeugnisses oder von den Anforderungen an die Fahrzeit
 zulassen. Die zuständige Behörde kann die Erteilung mit Auflagen
@@ -1896,7 +1941,7 @@ verbinden. Ausnahmen sind insbesondere möglich bei Personen, die
 
 
 
-(4) Zudem muss die das Schifferzeugnis beantragende Person die
+(3) Zudem muss die das Schifferzeugnis beantragende Person die
 notwendige Zuverlässigkeit zum Führen eines Fahrzeugs besitzen.
 Unzuverlässig ist insbesondere,
 
@@ -2312,9 +2357,9 @@ Sicherheitsausbildung bestimmt sich nach Anlage 21.
 
 ##### § 54 Lehrgänge für Maschinenkundige
 
-Lehrgänge für Maschinenkundige lässt das Bundesministerium für
-Digitales und Verkehr zu. Die Voraussetzungen und das Verfahren hierzu
-bestimmen sich nach Anlage 22.
+Lehrgänge für Maschinenkundige lässt das Bundesministerium für Verkehr
+zu. Die Voraussetzungen und das Verfahren hierzu bestimmen sich nach
+Anlage 22.
 
 
 ##### § 55 Ausbildungsprogramme und Weiterbildungsprogramme
@@ -2394,9 +2439,9 @@ Voraussetzungen erfüllt sind:
 
 
 (5) Zuständig für die Zulassung nach Absatz 3 ist das
-Bundesministerium für Digitales und Verkehr. Es veröffentlicht die
-danach zugelassenen Weiterbildungsprogramme im Bundesanzeiger. § 57
-Absatz 2, 4 und 5 gilt entsprechend.
+Bundesministerium für Verkehr. Es veröffentlicht die danach
+zugelassenen Weiterbildungsprogramme im Bundesanzeiger. § 57 Absatz 2,
+4 und 5 gilt entsprechend.
 
 
 ##### § 56 Voraussetzungen für die Zulassung von Lehrgängen für Sachkundige
@@ -2850,11 +2895,7 @@ Bedingungen versehen werden. So kann etwa eine Sperrfrist von
 höchstens sechs Monaten, die Inanspruchnahme verfügbarer
 Schulungsangebote oder zusätzliche Streckenfahrten angeordnet werden.
 
-(5) Für den Prüfungsteil dürfen höchstens zwei Nachprüfungen erfolgen.
-Ist der Prüfungsteil bei der zweiten Nachprüfung nicht bestanden, wird
-die gesamte Prüfung als nicht bestanden gewertet.
-
-(6) Die Nachprüfungen müssen innerhalb eines Zeitraums von zwei Jahren
+(5) Die Nachprüfungen müssen innerhalb eines Zeitraums von zwei Jahren
 nach Ablegen des ersten Prüfungsteils abgeschlossen sein; ansonsten
 wird die gesamte Prüfung als nicht bestanden gewertet.
 
@@ -3372,9 +3413,8 @@ Unzuverlässigkeit nach § 98 Absatz 10 festgestellt worden ist. Dies
 ist insbesondere dann erforderlich, wenn der Schiffsführer oder die
 Schiffsführerin wiederholt oder erheblich gegen Regelungen der
 Binnenschifffahrtsstraßen-Ordnung, der Seeschifffahrtsstraßen-Ordnung,
-der Rheinschiffspolizeiverordnung, der
-Moselschifffahrtspolizeiverordnung oder der
-Donauschifffahrtspolizeiverordnung, insbesondere gegen § 1.02 Nummer 7
+der Rheinschifffahrtspolizeiverordnung oder der
+Moselschifffahrtspolizeiverordnung, insbesondere gegen § 1.02 Nummer 7
 der Binnenschifffahrtsstraßen-Ordnung oder gegen § 3 Nummer 3 und 4
 der Seeschifffahrtsstraßen-Ordnung verstoßen hat.
 
@@ -3553,12 +3593,15 @@ Die Festlegung der Besatzung gilt bis zum Ablauf der jeweiligen
 Bescheinigung.
 
 (2) Wer über ein Befähigungszeugnis für die Betriebsebene, ein
-Unionspatent oder ein Fährschifferzeugnis verfügt, kann für jede
-niedrigere Funktion auf Einstiegs- oder Betriebsebene eingesetzt
-werden. Dies gilt für die Funktion des Leichtmatrosen nur dort, wo
-diese Verordnung es ausdrücklich zulässt. Maschinisten im Sinne der
-Rheinschiffspersonalverordnung können als Maschinenkundige eingesetzt
-werden.
+Unionspatent, ein nach § 126 Absatz 1 ausreichendes Zeugnis oder ein
+Fährschifferzeugnis verfügt, kann für jede niedrigere Funktion auf
+Einstiegs- oder Betriebsebene eingesetzt werden. Ein Leichtmatrose
+oder eine Leichtmatrosin ohne Fahrzeiterfordernis kann durch ein
+Mitglied der Decksmannschaft ersetzt werden, das mindestens 17 Jahre
+alt ist. Im Übrigen kann ein Leichtmatrose oder eine Leichtmatrosin
+nur ersetzt werden, wo diese Verordnung es ausdrücklich zulässt.
+Maschinisten im Sinne der Rheinschiffspersonalverordnung können als
+Maschinenkundige eingesetzt werden.
 
 
 ### § 97 Ausrüstung der Schiffe und anwendbare Vorschriften für die Fahrt auf dem Rhein
@@ -3639,10 +3682,7 @@ einem ordnungsmäßigen Berufsausbildungsverhältnis steht, an Bord
 mitzuführen und den zuständigen Bediensteten der zuständigen Behörde,
 der Wasserstraßen- und Schifffahrtsämter oder der
 Wasserschutzpolizeien der Länder auf Verlangen zur Prüfung
-auszuhändigen. Ein Leichtmatrose oder eine Leichtmatrosin ohne
-Fahrzeiterfordernis, der oder die als Besatzungsmitglied
-vorgeschrieben ist, kann durch ein Mitglied der Decksmannschaft
-ersetzt werden, das mindestens 17 Jahre alt ist.
+auszuhändigen.
 
 (8) Ein Besatzungsmitglied muss zu Beginn seiner Tätigkeit an Bord an
 einer grundlegenden Sicherheitsausbildung nach Anlage 7 teilnehmen,
@@ -3724,11 +3764,11 @@ werden.
 
 (1) Zu Versuchszwecken und für einen begrenzten Zeitraum kann die
 zuständige Behörde im Einvernehmen mit dem Bundesministerium für
-Digitales und Verkehr für ein Fahrzeug mit technischen Neuerungen auf
-Antrag des Eigentümers oder Ausrüsters von den §§ 104 bis 118
-abweichende Festsetzungen zur Mindestbesatzung treffen, sofern diese
-Regelungen im Zusammenwirken mit den technischen Neuerungen eine
-hinreichende Sicherheit für den Schiffsverkehr bieten.
+Verkehr für ein Fahrzeug mit technischen Neuerungen auf Antrag des
+Eigentümers oder Ausrüsters von den §§ 104 bis 118 abweichende
+Festsetzungen zur Mindestbesatzung treffen, sofern diese Regelungen im
+Zusammenwirken mit den technischen Neuerungen eine hinreichende
+Sicherheit für den Schiffsverkehr bieten.
 
 (2) Die Abweichungen nach Absatz 1 sind in die
 Fahrtauglichkeitsbescheinigung oder in die Bescheinigung über die
@@ -6878,10 +6918,11 @@ gewährt.
 
 (1) Befinden sich in der Mindestbesatzung zwei oder mehr Steuerleute,
 Matrosen oder Bootsleute, kann in der Betriebsform A ein Matrose durch
-zwei Leichtmatrosen ersetzt werden. Der Besatzung können nicht mehr
-als zwei Leichtmatrosen angehören. Zwei Leichtmatrosen können durch
-einen Matrosen ersetzt werden, wenn der Besatzung darüber hinaus ein
-Matrose oder ein Bootsmann angehört.
+zwei Besatzungsmitglieder der Einstiegsebene ersetzt werden. Der
+Besatzung können nicht mehr als zwei Besatzungsmitglieder auf
+Einstiegsebene angehören. Zwei Besatzungsmitglieder der Einstiegsebene
+können durch einen Matrosen ersetzt werden, wenn der Besatzung darüber
+hinaus ein Matrose oder ein Bootsmann angehört.
 
 (2) Die Fahrt eines Fahrzeugs, auf dem durch unvorhergesehene
 Umstände, insbesondere in Folge von Krankheit, Unfall oder
@@ -6949,6 +6990,11 @@ Schiffsführer oder die Schiffsführerin haben dafür zu sorgen, dass
     vorgeschriebene Kontrollgang nachts stündlich durchgeführt wird.
 
 
+3.  nur Personen als Besatzungsmitglieder eingesetzt werden, die über das
+    für die auszuübende Funktion jeweils vorgeschriebene
+    Befähigungszeugnis verfügen,
+
+
 
 
 (4) Der Schiffsführer oder die Schiffsführerin
@@ -6970,15 +7016,11 @@ Schiffsführer oder die Schiffsführerin haben dafür zu sorgen, dass
 
 4.  hat das Bordbuch nach § 102 Absatz 1 Satz 1 nach Maßgabe der
     Anweisungen zur Führung des Bordbuchs auf Seite 2 des Musters des
-    Anhangs V der Durchführungsverordnung (EU)
-    2020/182                    zu führen,
+    Anhangs V der Durchführungsverordnung (EU) 2020/182 zu führen,
 
 
 5.  hat dafür zu sorgen, dass die Eintragungen nach § 28 Absatz 6 Satz 2
-    und nach Maßgabe der Anweisungen zur Führung des Schifferdienstbuches
-    im Muster des Anhangs III oder des Anhangs IV der
-    Durchführungsverordnung (EU)
-    2020/182                    nach Fahrtantritt vorgenommen werden.
+    nach Fahrtantritt vorgenommen werden.
 
 
 
@@ -7041,22 +7083,26 @@ fahrlässig
     dass der vorgeschriebene Kontrollgang durchgeführt wird,
 
 
-12. entgegen § 119 Absatz 4 Nummer 1 eine Fahrt nicht oder nicht
+12. entgegen § 119 Absatz 3 Nummer 3 nicht dafür sorgt, dass nur dort
+    genannte Personen eingesetzt werden,
+
+
+13. entgegen § 119 Absatz 4 Nummer 1 eine Fahrt nicht oder nicht
     rechtzeitig beendet,
 
 
-13. entgegen § 119 Absatz 4 Nummer 2 ein Mitglied der Besatzung einsetzt,
+14. entgegen § 119 Absatz 4 Nummer 2 ein Mitglied der Besatzung einsetzt,
 
 
-14. entgegen § 119 Absatz 4 Nummer 3 ein Bordbuch nicht oder nicht
+15. entgegen § 119 Absatz 4 Nummer 3 ein Bordbuch nicht oder nicht
     mindestens fünfzehn Monate aufbewahrt,
 
 
-15. entgegen § 119 Absatz 4 Nummer 4 ein Bordbuch nicht, nicht richtig
+16. entgegen § 119 Absatz 4 Nummer 4 ein Bordbuch nicht, nicht richtig
     oder nicht vollständig führt oder
 
 
-16. entgegen § 119 Absatz 4 Nummer 5 nicht dafür sorgt, dass eine
+17. entgegen § 119 Absatz 4 Nummer 5 nicht dafür sorgt, dass eine
     Eintragung vorgenommen wird.
 
 
@@ -7079,9 +7125,9 @@ sichergestellt ist, dass die Ziele dieser Verordnung erreicht werden.
 
 ### § 122 Evaluierung
 
-Das Bundesministerium für Digitales und Verkehr evaluiert die
-Regelungen dieser Verordnung und ihre Anwendung bis zum 17. Januar
-2037 nach Maßgabe des Artikels 28 der Richtlinie (EU) 2017/2397.
+Das Bundesministerium für Verkehr evaluiert die Regelungen dieser
+Verordnung und ihre Anwendung bis zum Ablauf des 17. Januar 2037 nach
+Maßgabe des Artikels 28 der Richtlinie (EU) 2017/2397.
 
 
 ## Teil 7 - Übergangs- und Schlussbestimmungen
@@ -7092,34 +7138,34 @@ Regelungen dieser Verordnung und ihre Anwendung bis zum 17. Januar
 (1) Statt eines Befähigungszeugnisses nach § 9 Absatz 1, auch in
 Verbindung mit den Absätzen 2, 4 und 5, und § 10 Absatz 1, auch in
 Verbindung mit den Absätzen 2, 3 und 4, ist ausreichend der Nachweis
-über eine entsprechende Befähigung, die bis zum 17. Januar 2022 nach
-der Schiffspersonalverordnung-Rhein, auch in Verbindung mit dem bis
-zum 17. Januar 2022 anzuwendenden Anhang VI der
+über eine entsprechende Befähigung, die bis zum Ablauf des 17. Januar
+2022 nach der Schiffspersonalverordnung-Rhein, auch in Verbindung mit
+dem bis zum Ablauf des 17. Januar 2022 anzuwendenden Anhang VI der
 Binnenschiffsuntersuchungsordnung, in einem Schifferdienstbuch
 eingetragen worden ist. Satz 1 gilt entsprechend für Nachweise über
-eine Befähigung, die bis zum 17. Januar 2022 von einem anderen
-Mitgliedstaat der Europäischen Union erteilt worden sind.
+eine Befähigung, die bis zum Ablauf des 17. Januar 2022 von einem
+anderen Mitgliedstaat der Europäischen Union erteilt worden sind.
 
 (2) Die in Absatz 1 genannten Schifferdienstbücher bleiben bis zu dem
-Zeitpunkt, in dem der Tauglichkeitsnachweis nach den bis zum 17.
-Januar 2022 geltenden Vorschriften erneuert werden muss, längstens
-aber bis zum 17. Januar 2032 gültig.
+Zeitpunkt, in dem der Tauglichkeitsnachweis nach den bis zum Ablauf
+des 17. Januar 2022 geltenden Vorschriften erneuert werden muss,
+längstens aber bis zum Ablauf des 17. Januar 2032 gültig.
 
 (3) Abweichend von Absatz 2 bleiben Schifferdienstbücher, die eine
 Befähigung als Fährjunge oder Fährgehilfe enthalten, längstens bis zum
-17\. Januar 2042 gültig.
+Ablauf des 17. Januar 2042 gültig.
 
 (4) Das Schifferdienstbuch nach Absatz 1 Satz 1 wird im Falle des
-Absatzes 2 bis zum 17. Januar 2032, im Falle des Absatzes 3 bis zum
-17\. Januar 2042, auf Antrag in ein nach dieser Verordnung
-ausgestelltes Schifferdienstbuch umgetauscht. Dabei wird diejenige
-Befähigung eingetragen, die nach § 124 Absatz 1 der bisherigen
-Befähigung entspricht oder die sich durch Nachweis von Fahrzeiten nach
-§ 124 Absatz 2 ergibt. Enthält das bisherige Schifferdienstbuch
-Befähigungen nach der bis zum 17. Januar 2022 geltenden
-Binnenschiffsuntersuchungsordnung und der Schiffspersonalverordnung-
-Rhein, wird hiervon die höchste Befähigung in ein Befähigungszeugnis
-nach dieser Verordnung umgetauscht.
+Absatzes 2 bis zum Ablauf des 17. Januar 2032, im Falle des Absatzes 3
+bis zum Ablauf des 17. Januar 2042, auf Antrag in ein nach dieser
+Verordnung ausgestelltes Schifferdienstbuch umgetauscht. Dabei wird
+diejenige Befähigung eingetragen, die nach § 124 Absatz 1 der
+bisherigen Befähigung entspricht oder die sich durch Nachweis von
+Fahrzeiten nach § 124 Absatz 2 ergibt. Enthält das bisherige
+Schifferdienstbuch Befähigungen nach der bis zum Ablauf des 17. Januar
+2022 geltenden Binnenschiffsuntersuchungsordnung und der
+Schiffspersonalverordnung-Rhein, wird hiervon die höchste Befähigung
+in ein Befähigungszeugnis nach dieser Verordnung umgetauscht.
 
 (5) Ein Wasserstraßen- und Schifffahrtsamt stellt das
 Schifferdienstbuch nach § 60 aus und erteilt das entsprechende
@@ -7128,11 +7174,11 @@ das Schifferdienstbuch nach Absatz 1 Satz 1 vorlegt und ihre Identität
 nachweist. Wer das 60. Lebensjahr vollendet hat, hat zudem einen
 Tauglichkeitsnachweis nach § 22 Absatz 1 vorzulegen.
 
-(6) Wer über ein bis zum 17. Januar 2022 von einem Wasserstraßen- und
-Schifffahrtsamt ausgestelltes Schifferdienstbuch verfügt und eine
-weitere Befähigung oder eine Ersatzausfertigung nach § 19 Absatz 3
-beantragt, dem stellt die zuständige Behörde von Amts wegen ein neues
-Schifferdienstbuch nach den §§ 60 und 61 aus.
+(6) Wer über ein bis zum Ablauf des 17. Januar 2022 von einem
+Wasserstraßen- und Schifffahrtsamt ausgestelltes Schifferdienstbuch
+verfügt und eine weitere Befähigung oder eine Ersatzausfertigung nach
+§ 19 Absatz 3 beantragt, dem stellt die zuständige Behörde von Amts
+wegen ein neues Schifferdienstbuch nach den §§ 60 und 61 aus.
 
 (7) Ausländische Nachweise über Befähigungen, die in einem
 Schifferdienstbuch eingetragen sind, werden nicht umgetauscht. Das
@@ -7144,7 +7190,7 @@ Rheinschifffahrt.
 
 (1) Für den Umtausch der bisherigen in eine neue Befähigung nach § 123
 Absatz 4 sowie für die Besatzungsvorschriften nach Teil 3 dieser
-Verordnung gilt Folgendes: Der bis zum 17. Januar 2022 nach
+Verordnung gilt Folgendes: Der bis zum Ablauf des 17. Januar 2022 nach
 Binnenschiffsuntersuchungsordnung erteilten Befähigung
 
 1.  als Fährjunge entspricht die neue Befähigung als Decksmann,
@@ -7221,25 +7267,25 @@ werden:
 
 (3) Die Mindestdauer der Fahrzeiten nach Absatz 2 kann um höchstens
 360 Tage Fahrzeit verkürzt werden, wenn die antragstellende Person
-Inhaber oder Inhaberin eines vom Bundesministerium für Digitales und
-Verkehr anerkannten Zeugnisses über eine Fachausbildung auf dem Gebiet
-der Binnenschifffahrt ist, die eine praktische Ausbildung im Führen
-von Schiffen umfasst. Die Verkürzung der Mindestdauer darf die Dauer
-der Fachausbildung nicht überschreiten.
+Inhaber oder Inhaberin eines vom Bundesministerium für Verkehr
+anerkannten Zeugnisses über eine Fachausbildung auf dem Gebiet der
+Binnenschifffahrt ist, die eine praktische Ausbildung im Führen von
+Schiffen umfasst. Die Verkürzung der Mindestdauer darf die Dauer der
+Fachausbildung nicht überschreiten.
 
 
 ### § 125 Gültigkeit der Fahrtenbücher und Bordbücher
 
-(1) Fahrtenbücher, ausgestellt nach den bis zum 17. Januar 2022
-geltenden Vorschriften der Binnenschiffsuntersuchungsordnung, sowie
-Bordbücher, ausgestellt bis zum 17. Januar 2022 nach der
-Schiffspersonalverordnung-Rhein, bleiben bis zum 17. Januar 2032
-gültig. Satz 1 gilt entsprechend für Bordbücher, die bis zum 17.
-Januar 2022 von einem anderen Mitgliedstaat der Europäischen Union
-ausgestellt worden sind.
+(1) Fahrtenbücher, ausgestellt nach den bis zum Ablauf des 17. Januar
+2022 geltenden Vorschriften der Binnenschiffsuntersuchungsordnung,
+sowie Bordbücher, ausgestellt bis zum Ablauf des 17. Januar 2022 nach
+der Schiffspersonalverordnung-Rhein, bleiben bis zum Ablauf des 17.
+Januar 2032 gültig. Satz 1 gilt entsprechend für Bordbücher, die bis
+zum Ablauf des 17. Januar 2022 von einem anderen Mitgliedstaat der
+Europäischen Union ausgestellt worden sind.
 
 (2) Ein Fahrtenbuch oder ein Bordbuch nach Absatz 1 Satz 1 kann auf
-Antrag bis zum 17. Januar 2032 bei einem Wasserstraßen- und
+Antrag bis zum Ablauf des 17. Januar 2032 bei einem Wasserstraßen- und
 Schifffahrtsamt gegen ein nach dieser Verordnung ausgestelltes
 Bordbuch ausgetauscht werden.
 
@@ -7254,31 +7300,32 @@ Dezember 1981 (BGBl. I S. 1333), die zuletzt durch § 7 Nummer 2 der
 Verordnung vom 27. Mai 1993 (BGBl. I S. 741) geändert worden ist, eine
 nach der Binnenschifferpatentverordnung vom 15. Dezember 1997 (BGBl. I
 S. 3066), die zuletzt durch Artikel 2 § 1 der Verordnung vom 21.
-September 2018 (BGBl. I S. 1398) geändert worden ist, bis zum 17.
-Januar 2022 erteilte Fahrerlaubnis der Klassen A, B und C sowie ein
-bis zum 17. Januar 2022 nach der Schiffspersonalverordnung-Rhein
-erteiltes Rheinpatent. Satz 1 gilt entsprechend für ein von einem
-anderen Mitgliedstaat der Europäischen Union nach den Anforderungen
-der Richtlinie 96/50/EG des Rates vom 23. Juli 1996 über die
-Harmonisierung der Bedingungen für den Erwerb einzelstaatlicher
-Schifferpatente für den Binnenschiffsgüter- und ‑personenverkehr in
-der Gemeinschaft (ABl. L 235 vom 17.9.1996, S. 31), die zuletzt durch
-Artikel 1 in Verbindung mit Anhang Nummer 9.3 der Verordnung (EG) Nr.
-1137/2008 vom 22. Oktober 2008 (ABl. L 311 vom 21.11.2008, S. 1)
-geändert worden ist, ausgestelltes Schiffsführerpatent sowie ein in
-Artikel 1 Absatz 6 der Richtlinie 96/50/EG bezeichnetes Patent.
+September 2018 (BGBl. I S. 1398) geändert worden ist, bis zum Ablauf
+des 17. Januar 2022 erteilte Fahrerlaubnis der Klassen A, B und C
+sowie ein bis zum Ablauf des 17. Januar 2022 nach der
+Schiffspersonalverordnung-Rhein erteiltes Rheinpatent. Satz 1 gilt
+entsprechend für ein von einem anderen Mitgliedstaat der Europäischen
+Union nach den Anforderungen der Richtlinie 96/50/EG des Rates vom 23.
+Juli 1996 über die Harmonisierung der Bedingungen für den Erwerb
+einzelstaatlicher Schifferpatente für den Binnenschiffsgüter- und
+‑personenverkehr in der Gemeinschaft (ABl. L 235 vom 17.9.1996, S.
+31), die zuletzt durch Artikel 1 in Verbindung mit Anhang Nummer 9.3
+der Verordnung (EG) Nr. 1137/2008 vom 22. Oktober 2008 (ABl. L 311 vom
+21\.11.2008, S. 1) geändert worden ist, ausgestelltes
+Schiffsführerpatent sowie ein in Artikel 1 Absatz 6 der Richtlinie
+96/50/EG bezeichnetes Patent.
 
-(2) Die in Absatz 1 genannten Befähigungszeugnisse bleiben bis zu dem
-auf der Patentkarte vermerkten Ungültigkeitsdatum, längstens jedoch
-bis zum 17. Januar 2032 gültig.
+(2) Die nach Absatz 1 ausreichenden Befähigungszeugnisse bleiben bis
+zu ihrem Ablaufdatum, längstens jedoch bis zum Ablauf des 17. Januar
+2032, gültig.
 
 (3) Eine nach der Binnenschifferpatentverordnung vom 15. Dezember 1997
 (BGBl. I S. 3066), die zuletzt durch Artikel 2 § 1 der Verordnung vom
-21\. September 2018 (BGBl. I S. 1398) geändert worden ist, bis zum 17.
-Januar 2022 erteilte Fahrerlaubnis der Klasse F bleibt bis zum 17.
-Januar 2042 gültig, wenn der Tauglichkeitsnachweis zu den nach § 22
-vorgesehenen Zeitpunkten unter Anwendung der Tauglichkeitskriterien
-des § 20 erneuert wird.
+21\. September 2018 (BGBl. I S. 1398) geändert worden ist, bis zum
+Ablauf des 17. Januar 2022 erteilte Fahrerlaubnis der Klasse F bleibt
+bis zum Ablauf des 17. Januar 2042 gültig, wenn der
+Tauglichkeitsnachweis zu den nach § 22 vorgesehenen Zeitpunkten unter
+Anwendung der Tauglichkeitskriterien des § 20 erneuert wird.
 
 (4) Die nach der Binnenschifferpatentverordnung vom 15. Dezember 1997
 (BGBl. I S. 3066), die zuletzt durch Artikel 2 § 1 der Verordnung vom
@@ -7295,33 +7342,33 @@ dem auf dem Patent vermerkten Ungültigkeitsdatum gültig.
 
 ### § 127 Anerkennung von Befähigungszeugnissen nach dem STCW-Übereinkommen
 
-Bis zum 17. Januar 2038 gilt abweichend von § 11 Absatz 1, auch in
-Verbindung mit den Absätzen 2 und 4, als Befähigungsnachweis für das
-Führen eines Fahrzeugs auf den Wasserstraßen der Zonen 1 und 2 auch
-ein Befähigungszeugnis für Kapitäne oder Kapitäninnen, das im Einklang
-mit den Bestimmungen des STCW-Übereinkommens erteilt wurde. Dies gilt
-auch für das Führen eines Fahrzeugs unter Verwendung des Radars.
+Bis zum Ablauf des 17. Januar 2038 gilt abweichend von § 11 Absatz 1,
+auch in Verbindung mit den Absätzen 2 und 4, als Befähigungsnachweis
+für das Führen eines Fahrzeugs auf den Wasserstraßen der Zonen 1 und 2
+auch ein Befähigungszeugnis für Kapitäne oder Kapitäninnen, das im
+Einklang mit den Bestimmungen des STCW-Übereinkommens erteilt wurde.
+Dies gilt auch für das Führen eines Fahrzeugs unter Verwendung des
+Radars.
 
 
 ### § 128 Anerkennung von Befähigungszeugnissen, Schifferdienstbüchern und Bordbüchern aus Drittstaaten
 
 Auf der Donau bleiben vorbehaltlich des § 10 Absatz 4
 Befähigungszeugnisse, Schifferdienstbücher und Bordbücher, die von der
-Ukraine oder Serbien bis zum 17. Januar 2024 ausgestellt worden sind,
-bis zum Ablauf ihrer Gültigkeit, längstens bis zum 17. Januar 2032
-anerkannt. Auf den Bundeswasserstraßen der Zonen 1 bis 4 bleiben bis
-zum 17. Januar 2024 von der Schweiz ausgestellte Befähigungszeugnisse,
-Schifferdienstbücher und Bordbücher nach der
-Schiffspersonalverordnung-Rhein sowie Hochrheinpatente bis zum 17.
-Januar 2032 anerkannt.
+Ukraine oder Serbien bis zum Ablauf des 17. Januar 2024 ausgestellt
+worden sind, bis zum Ablauf ihrer Gültigkeit, längstens bis zum Ablauf
+des 17. Januar 2032 anerkannt. Auf den Bundeswasserstraßen der Zonen 1
+bis 4 bleiben bis zum Ablauf des 17. Januar 2024 von der Schweiz
+ausgestellte Befähigungszeugnisse, Schifferdienstbücher und Bordbücher
+nach der Schiffspersonalverordnung-Rhein sowie Hochrheinpatente bis
+zum Ablauf des 17. Januar 2032 anerkannt.
 
 
 ### § 129 Umtausch in ein neues Befähigungszeugnis für Schiffsführer und Schiffsführerinnen
 
-(1) Die in § 126 Absatz 1 Satz 1 genannten Befähigungszeugnisse können
-bis zu dem auf der Patentkarte vermerkten Ungültigkeitsdatum,
-längstens jedoch bis zum 17. Januar 2032 in ein Unionspatent nach
-dieser Verordnung umgetauscht werden.
+(1) Die in § 126 Absatz 1 Satz 1 genannten Befähigungszeugnisse können
+bis zum Ablauf des 17. Januar 2032 in ein Unionspatent nach dieser
+Verordnung umgetauscht werden.
 
 (1a) Sind die Inhaber oder Inhaberinnen von Zeugnissen nach Absatz 1
 zugleich Inhaber oder Inhaberinnen von Radarpatenten oder
@@ -7345,7 +7392,7 @@ vermerkten Ungültigkeitsdatum gegen ein Sportschifferzeugnis nach
 dieser Verordnung umgetauscht werden.
 
 (5) Fahrerlaubnisse der Klasse F nach § 126 Absatz 3 können bis zum
-17\. Januar 2042 bei der zuständigen Behörde gegen ein
+Ablauf des 17. Januar 2042 bei der zuständigen Behörde gegen ein
 Fährschifferzeugnis nach dieser Verordnung umgetauscht werden.
 Zugleich wird ein Schifferdienstbuch nach dieser Verordnung
 ausgestellt. Darin wird das Unionsbefähigungszeugnis als Steuermann
@@ -7366,13 +7413,39 @@ Lebensjahr vollendet hat, hat zudem einen Tauglichkeitsnachweis nach §
 
 (1) § 34 der Binnenschiffsuntersuchungsordnung bleibt unberührt.
 
-(2) Gewerblich, beruflich oder dienstlich genutzte Fahrzeuge mit einer
+(2) Die in § 15 Absatz 5 Satz 1 genannten Fahrzeuge können bis zum
+Ablauf des 17. Januar 2028 abweichend von § 15 Absatz 1 Satz 1 auch
+mit folgenden Fahrerlaubnissen geführt werden:
+
+1.  auf Wasserstraßen der Zonen 1 und 2 mit einer Fahrerlaubnis für
+    Sportboote unter Antriebsmaschine mit dem Geltungsbereich
+    Seeschifffahrtsstraßen nach der Sportbootführerscheinverordnung,
+
+
+2.  auf Wasserstraßen der Zonen 3 und 4 mit einer Fahrerlaubnis für
+    Sportboote unter Antriebsmaschine mit dem Geltungsbereich
+    Binnenschifffahrtsstraßen nach der Sportbootführerscheinverordnung.
+
+
+
+Für das Führen der in § 15 Absatz 5 Satz 1 genannten Fahrzeuge hat die
+zuständige Behörde ein Kleinschifferzeugnis mit dem entsprechenden
+Geltungsbereich auszustellen, wenn der Inhaber der Fahrerlaubnis nach
+Absatz 2 bis zum Ablauf des 17. Januar 2027 einen entsprechenden
+Antrag stellt, die Fahrerlaubnis und einen Nachweis der Tätigkeit in
+der Personenbeförderung im Sinne des § 15 Absatz 5 Satz 1 Nummer 1
+zusammen mit dem Antrag vorlegt und zugleich seine Identität
+nachweist. Ein Tauglichkeitsnachweis ist nicht erforderlich, auch wenn
+die antragstellende Person zum Zeitpunkt der Antragstellung das 60.
+Lebensjahr vollendet hat.
+
+(3) Gewerblich, beruflich oder dienstlich genutzte Fahrzeuge mit einer
 Länge von weniger als 20 Metern, ausgenommen Fahrgastschiffe,
 Fahrgastboote, Sportfahrzeuge, die nach § 34 der
 Binnenschiffsuntersuchungsordnung zur Beförderung von Fahrgästen
 eingesetzt werden, Schub- und Schleppboote, schwimmende Geräte sowie
-Fähren, können bis zum 17. Januar 2027 mit folgenden Fahrerlaubnissen
-geführt werden:
+Fähren, können bis zum Ablauf des 30. Dezember 2025 auch mit folgenden
+Fahrerlaubnissen geführt werden:
 
 1.  auf Wasserstraßen der Zonen 1 und 2 mit einer Fahrerlaubnis mit dem
     Geltungsbereich Seeschifffahrtsstraßen nach der
@@ -7385,14 +7458,16 @@ geführt werden:
 
 
 
-
-(3) Im Falle des Absatzes 2 hat die zuständige Behörde bis zum 17.
-Januar 2027 ein Kleinschifferzeugnis mit dem entsprechenden
-Geltungsbereich auszustellen, wenn die antragstellende Person ihre
-Fahrerlaubnis nach Absatz 2 und einen Nachweis der gewerblichen,
-beruflichen oder dienstlichen Tätigkeit vorlegt und ihre Identität
-nachweist. Ein Tauglichkeitsnachweis ist nicht erforderlich, auch wenn
-die antragstellende Person das 60. Lebensjahr vollendet hat.
+Für das Führen der in Satz 1 genannten Fahrzeuge hat die zuständige
+Behörde ein Kleinschifferzeugnis mit dem entsprechenden
+Geltungsbereich auszustellen, wenn der Inhaber der Fahrerlaubnis nach
+Satz 1 bis zum Ablauf des 30. Dezember 2025 einen entsprechenden
+Antrag gestellt hat, die Fahrerlaubnis und einen Nachweis der
+gewerblichen, beruflichen oder dienstlichen Tätigkeit zusammen mit dem
+Antrag vorgelegt und zugleich seine Identität nachgewiesen hat. Ein
+Tauglichkeitsnachweis ist nicht erforderlich, auch wenn die
+antragstellende Person zum Zeitpunkt der Antragstellung das 60.
+Lebensjahr vollendet hat.
 
 
 ### § 131 Gültigkeit und Umtausch der Radarpatente und Radarbescheinigungen
@@ -7402,20 +7477,21 @@ Nummer 1 ist ausreichend ein Radarpatent nach der Verordnung über die
 Erteilung von Radarpatenten auf den Bundeswasserstraßen außerhalb des
 Rheins vom 26. Juni 2000 (BGBl. I S. 1018), die zuletzt durch Artikel
 2 § 5 der Verordnung vom 30. Mai 2014 (BGBl. I S. 610) geändert worden
-ist, oder ein bis zum 17. Januar 2022 nach der
+ist, oder ein bis zum Ablauf des 17. Januar 2022 nach der
 Schiffspersonalverordnung-Rhein erteiltes Radarpatent. Satz 1 gilt
 entsprechend für Bescheinigungen der Wasserschutzpolizeien der Länder
 über die Erlaubnis zur Fahrt mit Radar.
 
 (2) Die in Absatz 1 genannten Radarpatente und Bescheinigungen bleiben
-bis zum 17. Januar 2032 zur Durchführung von Radarfahrten gültig.
+bis zum Ablauf des 17. Januar 2032 zur Durchführung von Radarfahrten
+gültig.
 
 (3) Mit dem Umtausch einer Fahrerlaubnis der Klassen A, B, C, D, E
 oder F nach der Binnenschifferpatentverordnung oder eines
 Rheinpatentes wird ein Radarpatent nach Absatz 1 Satz 1 zugleich in
 eine besondere Berechtigung für Radar nach dieser Verordnung
 umgetauscht. Radarbescheinigungen nach Absatz 1 Satz 2 können bis zum
-17\. Januar 2032 gegen eine besondere Berechtigung für Radar
+Ablauf des 17. Januar 2032 gegen eine besondere Berechtigung für Radar
 umgetauscht werden.
 
 
@@ -7423,12 +7499,12 @@ umgetauscht werden.
 
 (1) Statt einer besonderen Berechtigung nach § 16 Absatz 1 Satz 1
 Nummer 2 ist ausreichend der Nachweis über die Streckenkunde nach der
-Binnenschifferpatentverordnung oder ein bis zum 17. Januar 2022 nach
-der Schiffspersonalverordnung-Rhein ausgestellter Nachweis über die
-Streckenkunde.
+Binnenschifferpatentverordnung oder ein bis zum Ablauf des 17. Januar
+2022 nach der Schiffspersonalverordnung-Rhein ausgestellter Nachweis
+über die Streckenkunde.
 
-(2) Die in Absatz 1 genannten Nachweise sind bis zum 17. Januar 2032
-gültig.
+(2) Die in Absatz 1 genannten Nachweise sind bis zum Ablauf des 17.
+Januar 2032 gültig.
 
 (3) Mit dem Umtausch einer Fahrerlaubnis der Klassen A, B, C, D, E
 oder F nach der Binnenschifferpatentverordnung oder eines
@@ -7441,12 +7517,12 @@ umgetauscht.
 
 (1) Statt einer besonderen Berechtigung nach § 16 Absatz 1 Satz 1
 Nummer 3 ist ausreichend eine Fahrerlaubnis der Klassen A, C1 oder D1
-nach der Binnenschifferpatentverordnung oder ein bis zum 17. Januar
-2022 nach der Schiffspersonalverordnung-Rhein erteiltes Großes oder
-Kleines Rheinpatent.
+nach der Binnenschifferpatentverordnung oder ein bis zum Ablauf des
+17\. Januar 2022 nach der Schiffspersonalverordnung-Rhein erteiltes
+Großes oder Kleines Rheinpatent.
 
-(2) Die in Absatz 1 genannten Nachweise sind bis zum 17. Januar 2032
-gültig.
+(2) Die in Absatz 1 genannten Nachweise sind bis zum Ablauf des 17.
+Januar 2032 gültig.
 
 (3) Mit dem Umtausch einer Fahrerlaubnis der Klassen A, C1 oder D1
 nach der Binnenschifferpatentverordnung oder eines Großen oder Kleinen
@@ -7454,10 +7530,10 @@ Rheinpatentes wird zugleich eine besondere Berechtigung für maritime
 Wasserstraßen erteilt.
 
 (4) Eine Fahrerlaubnis der Klasse F nach der
-Binnenschifferpatentverordnung berechtigt bis zum 17. Januar 2042 auch
-dann zum Befahren der im Fährführerschein eingetragenen Fährstelle,
-wenn diese sich an einer Binnenwasserstraße mit maritimem Charakter
-befindet.
+Binnenschifferpatentverordnung berechtigt bis zum Ablauf des 17.
+Januar 2042 auch dann zum Befahren der im Fährführerschein
+eingetragenen Fährstelle, wenn diese sich an einer Binnenwasserstraße
+mit maritimem Charakter befindet.
 
 
 ### § 134 Gültigkeit der Befähigungszeugnisse für Sachkundige für die Fahrgastschifffahrt und für Sachkundige für LNG
@@ -7508,62 +7584,9 @@ Schiffspersonalverordnung-Rhein als Sportschifferzeugnis im Sinne
 dieser Verordnung.
 
 
-### § 137 Durchführung von Tauglichkeitsuntersuchungen in besonderen Fällen
+### § 137 Sicherheitspersonal auf Fahrgastschiffen
 
-(1) Tauglichkeitsuntersuchungen nach den §§ 21 und 22 können
-abweichend von § 24 Absatz 1 bis zum 17. Januar 2024 auch durchgeführt
-werden von
-
-1.  einem Arzt oder einer Ärztin, der oder die hierzu vor dem 18. Januar
-    2022 von der Berufsgenossenschaft auf Grundlage
-    binnenschifffahrtsrechtlicher Vorschriften ermächtigt worden ist, im
-    Rahmen der Geltung der bis zum 17. Januar 2022 erteilten
-    Ermächtigungen,
-
-
-2.  einem Arzt oder einer Ärztin des betriebsärztlichen Dienstes der
-    Wasserstraßen- und Schifffahrtsverwaltung des Bundes oder der
-    Verwaltung eines Landes oder
-
-
-3.  einem Arzt oder einer Ärztin eines hafenärztlichen Dienstes.
-
-
-
-
-(2) Eine Ermächtigung im Sinne des Absatzes 1 Nummer 1, die vor dem
-18\. Januar 2024 abläuft, kann nach den Voraussetzungen und dem
-Verfahren des § 24 Absatz 2 in Verbindung mit Anlage 6a Abschnitt 2 in
-eine Zulassung nach § 24 Absatz 1 umgewandelt werden.
-
-
-### § 138 Fortgelten von Prüfungsvorschriften; Gebühren; Prüfungen von Landesbehörden
-
-(1) Bis zum 1. August 2023 sind § 59 und die auf Grund dieser
-Vorschrift erlassene Rechtsverordnung sowie § 65 in der am 13. April
-2023 geltenden Fassung weiter anzuwenden.
-
-(2) Bis zu dem in Absatz 1 genannten Zeitpunkt sind die Gebühren
-weiter nach der Nummer 1 Buchstabe d der Vorbemerkung des Abschnittes
-2 und den Nummern 1017 und 1061 des Tabellenabschnittes 1 des
-Abschnittes 2 der Anlage der BMDV-Wasserstraßen und Schifffahrt
-Besondere Gebührenverordnung vom 28. Oktober 2021 (BGBl. I S. 4744),
-die zuletzt durch Artikel 2 der Verordnung vom 22. September 2022
-(BGBl. I S. 1518) geändert worden ist, in der am 13. April 2023
-geltenden Fassung zu erheben.
-
-(3) Befähigungszeugnisse im Sinne des § 11 Absatz 5 Satz 1 stehen bis
-zum 1. Mai 2025 auch ohne Feststellung durch das Bundesministerium für
-Digitales und Verkehr nach § 11 Absatz 5 Satz 2 dem
-Behördenschifferzeugnis gleich.
-
-
-### § 139 Sicherheitspersonal auf Fahrgastschiffen
-
-(1) An Bord von Fahrgastschiffen muss sich bis zum 17. Januar 2024
-kein Sicherheitspersonal für Fahrgastschiffe befinden.
-
-(2) Für Kabinenschiffe werden die Festlegungen zur Besatzung in der
+Für Kabinenschiffe werden die Festlegungen zur Besatzung in der
 Fahrtauglichkeitsbescheinigung nach Anlage 3 des ES-TRIN oder in der
 Bescheinigung über die Besatzung für Binnenschiffe nach Anhang V
 Muster 2 der Binnenschiffsuntersuchungsordnung am 18. Januar 2024
@@ -7572,7 +7595,7 @@ Binnenschiffsuntersuchungsordnung in der Fassung vom 17. Januar 2022
 entsprechen.
 
 
-### § 140 Anrechnung und Nachweis von Fahrzeiten
+### § 138 Anrechnung und Nachweis von Fahrzeiten
 
 (1) Nach dieser Verordnung erforderliche Fahrzeiten werden auch dann
 berücksichtigt, wenn sie vor dem 18. Januar 2022 erbracht worden sind.
@@ -7586,7 +7609,7 @@ können auch durch andere Urkunden als ein Schifferdienstbuch
 nachgewiesen werden, sofern dieses nicht vorgeschrieben war.
 
 
-### § 141 Umtausch von Radarbescheinigungen
+### § 139 Umtausch von Radarbescheinigungen
 
 Bescheinigungen über eine bestandene Radarbefähigungsprüfung können
 nach § 16 Absatz 4 Satz 2 auch dann umgetauscht werden, wenn die
@@ -7594,21 +7617,38 @@ Prüfung an dem bisher genutzten Radarsimulator der
 Wasserschutzpolizei-Schule in Hamburg durchgeführt worden ist.
 
 
-### § 142 Befahren der Elbe; Befahren von maritimen Wasserstraßen mit Fähren
+### § 140 Befahren der Elbe; Befahren von maritimen Wasserstraßen mit Fähren
 
 (1) Inhaber oder Inhaberinnen von Befähigungszeugnissen, die bis zum
-17\. Januar 2022 erteilt wurden und die zum Befahren der auf den im
-Hamburger Hafen gelegenen Teilen der Elbe sowie des oberhalb dieses
-Bereichs gelegenen Abschnitts der Elbe berechtigten, sind hierzu bis
-zum 17. Januar 2032 weiterhin berechtigt.
+Ablauf des 17. Januar 2022 erteilt wurden und die zum Befahren der auf
+den im Hamburger Hafen gelegenen Teilen der Elbe sowie des oberhalb
+dieses Bereichs gelegenen Abschnitts der Elbe berechtigten, sind
+hierzu bis zum Ablauf des 17. Januar 2032 weiterhin berechtigt.
 
 (2) Wer am 14. April 2023 über ein Fährschifferzeugnis für eine
 Fährstelle in einer Binnenwasserstraße mit maritimem Charakter
 verfügt, bedarf keiner besonderen Berechtigung für maritime
-Wasserstraßen, soweit sich die Fährstelle nicht in einer in § 39
-Absatz 2 Satz 1 genannten Binnenwasserstraße befindet. Satz 1 gilt
-unter den dort genannten Voraussetzungen auch im Falle einer
-Erweiterung des Fährschifferzeugnisses.
+Wasserstraßen. Satz 1 gilt unter den dort genannten Voraussetzungen
+auch im Falle einer Erweiterung des Fährschifferzeugnisses.
+
+
+### § 141 Umschreibung von Fahrerlaubnissen der Klassen D1 und D2
+
+Ein Wasserstraßen- und Schifffahrtsamt hat bis zum Ablauf des 17.
+Januar 2032 ein Befähigungszeugnis als Matrose oder Matrosin
+auszustellen, wenn die antragstellende Person eine Fahrerlaubnis der
+Klasse D1 oder D2, die vor dem 18. Januar 2022 ausgestellt worden ist,
+vorlegt und ihre Identität nachweist. Ein Tauglichkeitsnachweis ist
+nicht erforderlich, auch wenn die antragstellende Person das 60.
+Lebensjahr vollendet hat.
+
+
+### § 142 Erwerb der besonderen Berechtigung Großverbände beim Umtausch
+
+Mit dem Umtausch einer Fahrerlaubnis der Klasse A oder B nach der
+Binnenschifferpatentverordnung oder eines Großen Rheinpatentes wird
+auf Antrag zugleich eine besondere Berechtigung für Großverbände
+erteilt.
 
 (zu § 12 Absatz 1 Satz 1 Nummer 2)
 
@@ -7676,7 +7716,8 @@ Erweiterung des Fährschifferzeugnisses.
 ### Anlage 2 Binnenwasserstraßenabschnitte mit besonderen Risiken
 
 (Fundstelle: Anlageband zu BGBl. I 2021, Ausgabe 81 vom 6. Dezember
-2021, S. 2)
+2021, S. 2;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
@@ -7688,27 +7729,13 @@ Erweiterung des Fährschifferzeugnisses.
 
 2.  Elbe:
 
-    von km 3,44 (Grenze zu Tschechien) bis km 607,50 Oortkaten (Obere
-    Grenze des Hamburger Hafens) mit Ausnahme der Fahrt zwischen
-
-    2.1 der Zufahrt zum Industriehafen Magdeburg (Elbe-km 332,75) und dem
-        Rothenseer Verbindungskanal (Elbe-km 333,65) sowie
-
-
-    2.2 der Hohnstorfer Brücke (Elbe-km 568,90) und der Einmündung des
-        Elbeseitenkanals (Elbe-km 573,50)
+    von km 50,00 (Anlegestellen Fahrgastschifffahrt) bis km 60,60
+    (oberhalb der Hafenmündung Alberthafen), von km 322,90 (Abzweig Alte
+    Elbe) bis km 329,85 (oberhalb Einfahrt Handelshafen) und von km 502,25
+    (Mündung der Alten Löcknitz) bis km 568,90 (Hohnstorfer Brücke)
 
 
-
-
-
-3.  Rhein:
-
-    von Rhein-km 335,92 (Schleuse Iffezheim) bis Rhein-km 857,40
-    (Spyck'sche Fähre/Grenze zu den Niederlanden)
-
-
-4.  Weser:
+3.  Weser:
 
     von km 000,00 (Hann. Münden) bis km 204,47 (Minden)
 
@@ -9867,7 +9894,7 @@ untersucht:
 
 ### Anlage 6a Voraussetzungen und Verfahren für die Zulassung und die Verlängerung der Zulassung von Ärzten und Ärztinnen
 
-(Fundstelle: BGBl. 2023 II Nr. 105, 16)
+(Fundstelle: BGBl. 2023 II Nr. 105, 16 - 18)
 
 
 *    *   **Abschnitt 1: Voraussetzungen für die Zulassung von Ärzten und
@@ -10376,7 +10403,7 @@ untersucht:
 
 ### Anhang 1 zu Anlage 6a Muster des Antragsformulars
 
-(Fundstelle: BGBl. 2023 II Nr. 105, 19)
+(Fundstelle: BGBl. 2023 II Nr. 105, 19 - 21)
 
 ### Muster des Antragsformulars
 
@@ -10663,49 +10690,39 @@ Rheinschiffspersonaleinführungsverordnung (RheinSchPersEV)
     *
     *
 
-
-
-*    *   Nr.
-
-    *   Angaben/Nachweise
-        gem. Abschnitt 1 der Anlage 6a
-        zu § 24 Abs. 2 BinSchPersV
-
-    *   Angaben
-
-    *   Beleg;
-        Seitenzahl
-        der Anlage
-
-
 *    *
     *   Gehöruntersuchung
 
     *
     *
 
-*    *   Ich verfüge über eine Hörprüfkabine gem. DIN EN ISO 8253-1
+*    *
+    *   Ich verfüge über eine Hörprüfkabine gem. DIN EN ISO 8253-1
 
     *
     *
 
-*    *   Über welche Audiometrie-Einrichtung, die die Norm nach ISO-8253-1:2010
+*    *
+    *   Über welche Audiometrie-Einrichtung, die die Norm nach ISO-8253-1:2010
         erfüllt, verfügen Sie?
 
     *
     *
 
-*    *   • Fabrikat/Hersteller
+*    *
+    *   • Fabrikat/Hersteller
 
     *
     *
 
-*    *   • Typ
+*    *
+    *   • Typ
 
     *
     *
 
-*    *   • Baujahr
+*    *
+    *   • Baujahr
 
     *
     *
@@ -10845,7 +10862,7 @@ _\_\__\_\__\_\__
 
 ### Anhang 2 zu Anlage 6a Muster für den Zulassungsbescheid
 
-(Fundstelle: BGBl. 2023 II Nr. 105, 22)
+(Fundstelle: BGBl. 2023 II Nr. 105, 22 - 23)
 
 ### Zulassung
 
@@ -18786,7 +18803,8 @@ erfüllen.
 ### Anlage 15 Kompetenzen für besondere Berechtigung für Risikostrecken
 
 (Fundstelle: Anlageband zu BGBl. I 2021, Ausgabe 81 vom 6. Dezember
-2021, S. 72 - 76)
+2021, S. 72 - 76;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 ## **Teil I. Donau – von km 2 249,00 (Liegestelle Vilshofen) bis km
@@ -18890,11 +18908,11 @@ Binnenwasserstraßenabschnitts.
 
 
 
-## **Teil II. Elbe – von km 3,4 (Grenze zu Tschechien) bis km 607,5
-Oortkaten (Obere Grenze des Hamburger Hafens) mit Ausnahme der Fahrt
-zwischen dem Rothenseer Verbindungskanal (Elbe-km 332,75) und der
-Zufahrt zum Industriehafen Magdeburg (Elbe-km 333,65) sowie der
-Hohnstorfer Brücke (Elbe-km 568,90) und dem Elbe-km 573,50**
+## **Teil II. Elbe – von km 50,00 (Anlegestellen Fahrgastschifffahrt)
+bis km 60,60 (oberhalb der Hafenmündung Alberthafen), von km 322,90
+(Abzweig Alte Elbe) bis km 329,85 (oberhalb Einfahrt Handelshafen) und
+von km 502,25 (Mündung der Alten Löcknitz) bis km 568,90 (Hohnstorfer
+Brücke)**
 
 Zusätzliche Befähigung
 
@@ -20910,14 +20928,13 @@ Vorname] erfolgreich teilgenommen.
 *    *   Lfd.
         Nummer
 
-    *   Unterrichts-
-        einheit
-        in Stunden
+    *   Unterrichtseinheit in Stunden
         Theorie
+        ca.
 
-    *   Unterrichts-
-        einheit in Stunden
+    *   Unterrichtseinheit in Stunden
         Praxis
+        ca.
 
     *   Unterrichtseinheit
 
@@ -21007,7 +21024,7 @@ Vorname] erfolgreich teilgenommen.
 *    *   3
 
     *
-    *[^F823324_02_BJNR498210021BJNE016901119]
+    *[^F823324_02_BJNR498210021BJNE016902119]
    **Brandbekämpfung an Bord eines Fahrzeugs**
 
 
@@ -21106,7 +21123,7 @@ Vorname] erfolgreich teilgenommen.
 *    *   6
 
     *
-    *[^F823324_03_BJNR498210021BJNE016901119]
+    *[^F823324_03_BJNR498210021BJNE016902119]
    **Grundlegende Maßnahmen der Ersten Hilfe**
 
 
@@ -21165,24 +21182,25 @@ Vorname] erfolgreich teilgenommen.
     Dieses Element kann auch von einer nachweislich hierfür sachkundigen
     Lehrkraft unterrichtet werden, die nicht die Voraussetzungen nach
     Abschnitt 2 Nummer 1.5 und 1.6 der Anlage 21 erfüllt.
-[^F823324_02_BJNR498210021BJNE016901119]:     Kann entfallen, wenn der Lehrgangsanbieter bestätigt, dass die
+[^F823324_02_BJNR498210021BJNE016902119]:     Kann entfallen, wenn der Lehrgangsanbieter bestätigt, dass die
     Teilnehmenden seiner Lehrgänge nachweislich stets über eine
     Bescheinigung über einen Erste-Hilfe-Kurs verfügen. Als Nachweis ist
     ausreichend ein Pkw-, LKW-, Bus- oder Motorradführerschein.
-[^F823324_03_BJNR498210021BJNE016901119]: 
+[^F823324_03_BJNR498210021BJNE016902119]: 
 (zu § 54)
 
 ### Anlage 22 Zulassung von Lehrgängen für Maschinenkundige
 
 (Fundstelle: Anlageband zu BGBl. I 2021, Ausgabe 81 vom 6. Dezember
-2021, S. 94 - 95)
+2021, S. 94 - 95;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 ## I. Voraussetzung für die Zulassung von Lehrgängen für
 Maschinenkundige
 
-Das Bundesministerium für Digitales und Verkehr lässt einen Lehrgang
-für Maschinenkundige zu, wenn er die nachstehenden Voraussetzungen
+Das Bundesministerium für Verkehr lässt einen Lehrgang für
+Maschinenkundige zu, wenn er die nachstehenden Voraussetzungen
 erfüllt.
 
 1.  Sachliche Voraussetzungen
@@ -21256,8 +21274,8 @@ erfüllt.
 1.  Antrag auf Zulassung
 
     Der Antrag auf Zulassung des Lehrgangs ist schriftlich oder
-    elektronisch beim Bundesministerium für Digitales und Verkehr zu
-    stellen. Der Antrag auf Zulassung muss Folgendes enthalten:
+    elektronisch beim Bundesministerium für Verkehr zu stellen. Der Antrag
+    auf Zulassung muss Folgendes enthalten:
 
     a)  einen ausführlichen Lehrgangsplan mit Angabe des Inhalts und der Dauer
         der unterrichteten Fächer sowie der Lehrmethode;
@@ -21277,10 +21295,10 @@ erfüllt.
 
 
     e)  die Erklärung, dass die Ausbildungsstätte sich dazu verpflichtet, das
-        Bundesministerium für Digitales und Verkehr unverzüglich und aus
-        eigener Initiative über jede Änderung der im Zulassungsantrag
-        enthaltenen Informationen zu informieren, sobald ein Antrag auf
-        Zulassung gestellt oder eine Zulassung erteilt wurde.
+        Bundesministerium für Verkehr unverzüglich und aus eigener Initiative
+        über jede Änderung der im Zulassungsantrag enthaltenen Informationen
+        zu informieren, sobald ein Antrag auf Zulassung gestellt oder eine
+        Zulassung erteilt wurde.
 
 
 
@@ -21295,15 +21313,15 @@ erfüllt.
 
 
     b)  Erfüllt ein Lehrgang die unter II. genannten Voraussetzungen nicht
-        mehr, so kann das Bundesministerium für Digitales und Verkehr die
-        Zulassung unverzüglich widerrufen oder aussetzen. Ab dem Zeitpunkt des
+        mehr, so kann das Bundesministerium für Verkehr die Zulassung
+        unverzüglich widerrufen oder aussetzen. Ab dem Zeitpunkt des
         Widerrufes oder der Aussetzung ausgestellte Zeugnisse dürfen von den
         Wasserstraßen- und Schifffahrtsämtern nicht mehr zur Ausstellung eines
         Befähigungszeugnisses berücksichtigt werden.
 
 
     c)  Das Verzeichnis der zugelassenen Lehrgänge wird vom Bundesministerium
-        für Digitales und Verkehr im Internet veröffentlicht.
+        für Verkehr im Internet veröffentlicht.
 
 
 
@@ -23908,5 +23926,10 @@ ISO/IEC 7810
 (zu § 137 Absatz 2)
 
 ### Anlage 32 (weggefallen)
+
+
+(zu § 138)
+
+### Anlage 33 (weggefallen)
 
 

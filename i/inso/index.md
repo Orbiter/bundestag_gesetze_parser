@@ -16,7 +16,10 @@ Fundstelle
 :   BGBl I: 1994, 2866
 
 Zuletzt geändert durch
-:   Art. 34 Abs. 13 G v. 22.12.2023 I Nr. 411
+:   Art. 6 G v. 15.7.2024 I Nr. 236
+
+Mittelbare änderung durch
+:   Art. 33 G v. 8.12.2025 I Nr. 319 ist berücksichtigt
 
 
 ## Erster Teil - Allgemeine Vorschriften
@@ -340,20 +343,27 @@ treffen. Dabei können sie auch Vorgaben für die Datenformate der
 elektronischen Einreichung machen. Die Landesregierungen können die
 Ermächtigung auf die Landesjustizverwaltungen übertragen.
 
-(5) Insolvenzverwalter sollen ein elektronisches
-Gläubigerinformationssystem vorhalten, mit dem jedem
+(5) Insolvenzverwalter haben ein elektronisches
+Gläubigerinformationssystem vorzuhalten und darin jedem
 Insolvenzgläubiger, der eine Forderung angemeldet hat, alle
-Entscheidungen des Insolvenzgerichts, alle an das Insolvenzgericht
-übersandten Berichte, welche nicht ausschließlich die Forderungen
-anderer Gläubiger betreffen, und alle die eigenen Forderungen
-betreffenden Unterlagen in einem gängigen Dateiformat zur Verfügung
-gestellt werden können. Hat der Schuldner im vorangegangenen
-Geschäftsjahr mindestens zwei der drei in § 22a Absatz 1 genannten
-Merkmale erfüllt, muss der Insolvenzverwalter ein elektronisches
-Gläubigerinformationssystem vorhalten und die in Satz 1 genannten
-Dokumente unverzüglich zum elektronischen Abruf zur Verfügung stellen.
-Den Einsichtsberechtigten stellt der Verwalter die für den Zugang
-erforderlichen Daten unverzüglich zur Verfügung.
+Entscheidungen des Insolvenzgerichts, alle Rechtsmittelentscheidungen,
+alle an das Insolvenzgericht übersandten Berichte, welche nicht
+ausschließlich die Forderungen anderer Gläubiger betreffen, und alle
+die eigenen Forderungen betreffenden Unterlagen unverzüglich in einem
+gängigen Dateiformat zum elektronischen Abruf zur Verfügung zu
+stellen. Über das Gläubigerinformationssystem müssen auch die
+Dokumente zugänglich sein, die dem Insolvenzgläubiger nach § 8 Absatz
+3 zugestellt wurden; sie sind besonders kenntlich zu machen. Dem
+Insolvenzgericht ist ein Zugang zur Ausübung der Aufsicht nach § 58 zu
+gewähren. Den Einsichtsberechtigten stellt der Verwalter die für den
+Zugang erforderlichen Daten unverzüglich zur Verfügung.
+
+(6) Ist die Eigenverwaltung angeordnet, gilt Absatz 5 mit der Maßgabe,
+dass den Schuldner die Pflicht zur Verfügungstellung sämtlicher in das
+System einzustellender Informationen und Dokumente trifft; verfügt der
+Schuldner selbst nicht über ein geeignetes System, so kann die
+Gläubigerinformation über ein vom Sachwalter geführtes System
+bewerkstelligt werden.
 
 
 ### § 6 Sofortige Beschwerde
@@ -382,8 +392,8 @@ Beglaubigung des zuzustellenden Schriftstücks bedarf. Sie können
 dadurch bewirkt werden, dass das Schriftstück unter der Anschrift des
 Zustellungsadressaten zur Post gegeben wird; § 184 Abs. 2 Satz 1, 2
 und 4 der Zivilprozessordnung gilt entsprechend. Soll die Zustellung
-im Inland bewirkt werden, gilt das Schriftstück drei Tage nach Aufgabe
-zur Post als zugestellt.
+im Inland bewirkt werden, gilt das Schriftstück am vierten Tag nach
+Aufgabe zur Post als zugestellt.
 
 (2) An Personen, deren Aufenthalt unbekannt ist, wird nicht
 zugestellt. Haben sie einen zur Entgegennahme von Zustellungen
@@ -392,9 +402,15 @@ berechtigten Vertreter, so wird dem Vertreter zugestellt.
 (3) Das Insolvenzgericht kann den Insolvenzverwalter beauftragen, die
 Zustellungen nach Absatz 1 durchzuführen. Zur Durchführung der
 Zustellung und zur Erfassung in den Akten kann er sich Dritter,
-insbesondere auch eigenen Personals, bedienen. Der Insolvenzverwalter
-hat die von ihm nach § 184 Abs. 2 Satz 4 der Zivilprozessordnung
-angefertigten Vermerke unverzüglich zu den Gerichtsakten zu reichen.
+insbesondere auch eigenen Personals, bedienen. Die Zustellung kann
+auch elektronisch nach Maßgabe des § 173 der Zivilprozessordnung
+erfolgen. Der Insolvenzverwalter hat die von ihm nach § 184 Abs. 2
+Satz 4 der Zivilprozessordnung angefertigten Vermerke unverzüglich zu
+den Gerichtsakten zu reichen. Im Fall des Satzes 3 hat er die
+Zustellnachweise zu den Akten zu nehmen und einen Vermerk über die
+erfolgte Zustellung mit dem Zeitpunkt der Zustellung und mit der
+genutzten Adresse des Zustellungsadressaten unverzüglich zu den
+Gerichtsakten zu reichen.
 
 
 ### § 9 Öffentliche Bekanntmachung
@@ -1198,6 +1214,14 @@ oder verzögert, haftet für den daraus entstehenden Schaden.
 (3) Im Eröffnungsbeschluß sind die Personen, die Verpflichtungen
 gegenüber dem Schuldner haben, aufzufordern, nicht mehr an den
 Schuldner zu leisten, sondern an den Verwalter.
+
+(4) Der Eröffnungsbeschluss hat den Hinweis darauf zu enthalten, dass
+Gläubiger, die elektronische Dokumente über sichere elektronische
+Übermittlungswege (§ 130a der Zivilprozessordnung) empfangen können,
+unter Angabe des über einen solchen Weg erreichbaren Postfachs ihre
+Zustimmung zu elektronischen Zustellungen erklären können; die
+Möglichkeit der elektronischen Zustellung an die in § 173 Absatz 2 der
+Zivilprozessordnung Genannten bleibt unberührt.
 
 
 #### § 29 Terminbestimmungen
@@ -2852,8 +2876,7 @@ Räume, die der Schuldner vermietet oder verpachtet hatte, und tritt
 der Erwerber anstelle des Schuldners in das Miet- oder Pachtverhältnis
 ein, so kann der Erwerber das Miet- oder Pachtverhältnis unter
 Einhaltung der gesetzlichen Frist kündigen. Die Kündigung kann nur für
-den ersten Termin erfolgen, für den sie zulässig ist. § 111: Früherer
-Satz 3 aufgeh. durch Art. 13 G v. 22.12.2006 I 3416 mWv 31.12.2006
+den ersten Termin erfolgen, für den sie zulässig ist.
 
 
 #### § 112 Kündigungssperre
@@ -4045,12 +4068,14 @@ auffordert. Bei der Anmeldung solcher Forderungen ist auf den Nachrang
 hinzuweisen und die dem Gläubiger zustehende Rangstelle zu bezeichnen.
 
 (4) Die Anmeldung kann durch Übermittlung eines elektronischen
-Dokuments erfolgen, wenn der Insolvenzverwalter der Übermittlung
-elektronischer Dokumente ausdrücklich zugestimmt hat. Als Urkunde im
-Sinne des Absatzes 1 Satz 2 kann in diesem Fall auch eine
-elektronische Rechnung übermittelt werden. Auf Verlangen des
-Insolvenzverwalters oder des Insolvenzgerichts sind Ausdrucke,
-Abschriften oder Originale von Urkunden einzureichen.
+Dokuments erfolgen; der Insolvenzverwalter kann einen gängigen
+elektronischen Übermittlungsweg sowie ein gängiges Dateiformat
+vorgeben. Der Insolvenzverwalter muss daneben einen sicheren
+Übermittlungsweg im Sinne des § 130a der Zivilprozessordnung für die
+Übermittlung anbieten. Als Urkunde im Sinne des Absatzes 1 Satz 2 kann
+in diesen Fällen auch eine elektronische Rechnung übermittelt werden.
+Auf Verlangen des Insolvenzverwalters oder des Insolvenzgerichts sind
+Ausdrucke, Abschriften oder Originale von Urkunden einzureichen.
 
 
 #### § 175 Tabelle

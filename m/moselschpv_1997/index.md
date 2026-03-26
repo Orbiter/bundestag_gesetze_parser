@@ -27,6 +27,9 @@ Zuletzt geändert durch
 Änderung durch
 :   Art. 3 iVm Anlage 5 V v. 11.3.2024 II Nr. 97 mWv 1.7.2024 noch nicht berücksichtigt
 
+Änderung durch
+:   Art. 2 iVm Anlage 10 bis 16 V v. 5.8.2025 II Nr. 216 mWv 1.9.2025 u. 1.1.2026 noch nicht berücksichtigt
+
 
 ## Inhaltsverzeichnis
 
@@ -1343,8 +1346,7 @@ aa) "ADN":
 
 
 ab) „Inland AIS Gerät“ ein Gerät, das auf einem Fahrzeug eingebaut ist und
-    im Sinne der Bestimmungen von Teil II „Standard für Verfolgungs- und
-    Aufspürungssysteme in der Binnenschifffahrt“ des ES-RIS genutzt wird;
+    im Sinne der Bestimmungen von Teil II des ES-RIS genutzt wird;
 
 
 ac) „LNG-System“ sämtliche Teile des Fahrzeugs, die Flüssigerdgas (LNG)
@@ -1386,7 +1388,7 @@ aj) „ES-TRIN“ der Europäische Standard der technischen Vorschriften für
 
 
 ak) „ES-RIS“ der Europäische Standard für
-    Binnenschifffahrtsinformationsdienste Ausgabe 2021/1. Bei der
+    Binnenschifffahrtsinformationsdienste Ausgabe 2023/1. Bei der
     Anwendung des ES-RIS ist unter Mitgliedstaat ein Moseluferstaat zu
     verstehen.
 
@@ -2591,155 +2593,6 @@ Bezeichnung einzeln fahrender Fahrzeuge mit Maschinenantrieb
 
 3.  Dieser Paragraph gilt weder für Kleinfahrzeuge noch für Fähren; für
     Kleinfahrzeuge gilt § 3.13, für Fähren § 3.16.
-
-
-
-
-Bezeichnung der Schleppverbände in Fahrt
-
-###### § 3.09 (Anlage 3  Bild 4, 5, 6, 7, 8, 9, 10)
-
-
-1.  An der Spitze eines Schleppverbandes in Fahrt muß das Fahrzeug mit
-    Maschinenantrieb bei Nacht führen:
-
-    -   bei Nacht:
-
-        a)  außer dem Topplicht und den Seitenlichtern nach § 3.08 Nr. 1 Buchstabe
-            a und b ein zweites Topplicht; dieses muß etwa 1,00 m unter dem ersten
-            Topplicht, jedoch nach Möglichkeit mindestens 1,00 m höher als die
-            Seitenlichter gesetzt werden;
-
-
-        b)  statt des Hecklichts nach § 3.08 Nr. 1 Buchstabe c ein gelbes
-            Hecklicht an geeigneter Stelle und in ausreichender Höhe, damit es von
-            dem nachfolgenden Anhang gesehen werden kann;
-
-            ... nicht darstellbares Bild 4
-
-            Fundstelle: Anlageband zum BGBl. II Nr. 38 v. 16.9.1997, S. 19
-
-
-
-
-
-    -   bei Tag:
-
-        einen gelben Zylinder, der oben und unten mit je einem schwarzen und
-        je einem weißen Streifen - letztere an den äußeren Enden - eingefaßt
-        ist. Der Zylinder muß auf dem Vorschiff senkrecht und so hoch gesetzt
-        werden, daß er von allen Seiten sichtbar ist.
-
-        ... nicht darstellbares Bild 4
-
-
-
-
-
-2.  Hat ein Schleppverband an der Spitze mehrere Fahrzeuge mit
-    Maschinenantrieb, die nebeneinander fahren, sei es längsseits
-    gekuppelt oder nicht, muß jedes dieser Fahrzeuge führen:
-
-    -   bei Nacht:
-
-        ein drittes Topplicht; dieses muß etwa 2,00 m unter dem ersten
-        Topplicht, jedoch nach Möglichkeit mindestens 1,00 m höher als die
-        Seitenlichter gesetzt werden.
-
-        ... nicht darstellbares Bild 5
-
-        (Fundstelle: Anlageband zum BGBl. II Nr. 38 v. 16.9.1997, S. 20)
-
-
-    -   bei Tag:
-
-        den Zylinder nach Nummer 1.
-
-        ... nicht darstellbares Bild 4
-
-
-
-
-    Das gleiche gilt für alle Fahrzeuge mit Maschinenantrieb, die
-    gemeinsam ein Fahrzeug, einen Schwimmkörper oder eine schwimmende
-    Anlage bugsieren.
-
-
-3.  Die geschleppten Fahrzeuge eines Schleppverbandes in Fahrt müssen
-    führen:
-
-    -   bei Nacht:
-
-        ein weißes helles, von allen Seiten sichtbares Licht, das mindestens
-        5,00 m über der Ebene der Einsenkungsmarken gesetzt werden muß. Diese
-        Höhe darf bis auf 4,00 m verringert werden, wenn die Länge des
-        Fahrzeugs 40,00 m nicht überschreitet;
-
-        ... nicht darstellbares Bild 6
-
-
-    -   bei Tag:
-
-        einen gelben Ball an einer geeigneten Stelle und so hoch, daß er von
-        allen Seiten sichtbar ist.
-
-        ... nicht darstellbares Bild 6
-
-
-
-
-    Wenn jedoch
-
-    a)  eine Anhanglänge des Verbandes 110,00 m überschreitet, muß sie bei
-        Nacht zwei Lichter nach Satz 1 führen, und zwar eines auf der vorderen
-        und eines auf der hinteren Hälfte,
-
-        ... nicht darstellbares Bild 7
-
-        (Fundstelle: Anlageband zum BGBl. II Nr. 38 v. 16.9.1997, S. 21)
-
-
-    b)  eine Anhanglänge des Verbandes aus mehr als zwei längsseits
-        verbundenen Fahrzeugen besteht, sind die Lichter oder die Bälle nach
-        Satz 1 nur von den beiden äußeren Fahrzeugen zu führen.
-
-        ... nicht darstellbare Bilder 8
-
-
-
-
-    Die Lichter und Bälle aller geschleppten Fahrzeuge eines Verbandes
-    sind so zu setzen, daß sie sich möglichst in gleicher Höhe über dem
-    Wasserspiegel befinden.
-
-
-4.  Das Fahrzeug oder die Fahrzeuge, die die letzte Anhanglänge eines
-    Schleppverbandes in Fahrt bilden, müssen bei Nacht führen:
-
-    a)  das Licht nach Nummer 3 oder das Topplicht nach § 3.08 Nr. 1 Buchstabe
-        a;
-
-        ... nicht darstellbares Bild 9
-
-
-    b)  das Hecklicht nach § 3.08 Nr. 1 Buchstabe c. Bilden mehr als zwei
-        längsseits verbundene Fahrzeuge den Schluß des Verbandes, brauchen nur
-        die beiden äußeren Fahrzeuge dieses Hecklicht zu führen.
-
-        ... nicht darstellbares Bild 10
-
-
-
-
-
-5.  Auf den Reeden brauchen Schleppverbände, die aus einem Fahrzeug mit
-    Maschinenantrieb und einer einzigen Anhanglänge bestehen, die
-    Tagbezeichnung nach diesem Paragraphen nicht zu führen.
-
-
-6.  Dieser Paragraph gilt weder für Kleinfahrzeuge, die ausschließlich
-    Kleinfahrzeuge schleppen, noch für das Schleppen von Kleinfahrzeugen;
-    für diese Kleinfahrzeuge gilt § 3.13 Nr. 2 und 3.
 
 
 
@@ -4248,14 +4101,12 @@ Schallzeichen
     Informationsmodus, das mit dem Inland AIS Gerät verbunden sein muss,
     ausgestattet sein und dieses zusammen mit einer aktuellen
     elektronischen Binnenschifffahrtskarte nutzen. Das Inland ECDIS Gerät
-    im Informationsmodus muss den Bestimmungen von Teil I „Elektronisches
-    Kartendarstellungs- und Informationssystem für die Binnenschifffahrt“
-    des ES-RIS entsprechen.
+    im Informationsmodus muss den Bestimmungen von Teil I des ES-RIS
+    entsprechen.
 
 
 4.  Es müssen mindestens folgende Daten gemäß den Bestimmungen von Teil II
-    „Standard für Verfolgungs- und Aufspürungssysteme in der
-    Binnenschifffahrt“ des ES-RIS übermittelt werden:
+    des ES-RIS übermittelt werden:
 
     a)  User Identifier (Maritime Mobile Service Identity, MMSI);
 
@@ -4263,9 +4114,8 @@ Schallzeichen
     b)  Schiffsname;
 
 
-    c)  Fahrzeug- oder Verbandstyp gemäß den Bestimmungen von Teil II
-        „Standard für Verfolgungs- und Aufspürungssysteme in der
-        Binnenschifffahrt“ des ES-RIS;
+    c)  Fahrzeug- oder Verbandstyp gemäß den Bestimmungen von Teil II des ES-
+        RIS;
 
 
     d)  einheitliche europäische Schiffsnummer (ENI), oder, für die Seeschiffe
@@ -4314,9 +4164,8 @@ Schallzeichen
     b)  Breite über alles mit einer Genauigkeit von 0,1 m gemäß Anlage 11;
 
 
-    c)  Fahrzeug- oder Verbandstyp gemäß den Bestimmungen von Teil II
-        „Standard für Verfolgungs- und Aufspürungssysteme in der
-        Binnenschifffahrt“ des ES-RIS;
+    c)  Fahrzeug- oder Verbandstyp gemäß den Bestimmungen von Teil II des ES-
+        RIS;
 
 
     d)  Navigationsstatus gemäß Anlage 11;
@@ -5763,34 +5612,6 @@ Das Durchfahren der Wehre ist verboten.
     möglich frei zu machen.
 
 
-4.  Bei unsichtigem Wetter dürfen Kleinfahrzeuge nur fahren, wenn sie auf
-    Kanal 10 oder dem von der zuständigen Behörde zugewiesenen anderen
-    Kanal auf Empfang geschaltet sind.
-
-
-5.  Fahrzeuge und Verbände, die kein Radar benutzen können, müssen bei
-    unsichtigem Wetter unverzüglich einen Liegeplatz aufsuchen.
-
-
-
-
-
-##### § 6.30 Alle fahrenden Fahrzeuge bei unsichtigem Wetter
-
-
-1.  Bei unsichtigem Wetter müssen alle Fahrzeuge Radar benutzen.
-
-
-2.  Bei unsichtigem Wetter müssen alle Fahrzeuge ihre Geschwindigkeit der
-    verminderten Sicht, dem übrigen Verkehr und den örtlichen Umständen
-    entsprechend anpassen. Sie müssen den anderen Fahrzeugen die für die
-    Sicherheit notwendigen Nachrichten geben.
-
-
-3.  Beim Anhalten bei unsichtigem Wetter ist die Fahrrinne so weit sie
-    möglich frei zu machen.
-
-
 4.  Bei unsichtigem Wetter dürfen Kleinfahrzeuge nur dann fahren, wenn sie
     darüber hinaus auf Kanal 10 oder dem von der zuständigen Behörde
     zugewiesenen anderen Kanal auf Empfang geschaltet sind.
@@ -5943,11 +5764,6 @@ d)  Sobald ein Fahrzeug den langen Ton eines anderen Fahrzeugs hört, mit
 
 
 
-
-
-##### § 6.34
-
-(ohne Inhalt)
 
 
 ##### § 6.34
@@ -7178,8 +6994,8 @@ Schleusenaufsicht von Diedenhofen/Thionville einfahren.
 4.  Sofern sich der Schiffsführer oder eine andere Stelle oder Person auf
     elektronischem Wege meldet,
 
-    a)  muss die Meldung gemäß den Bestimmungen von Teil IV „Standard für
-        elektronisches Melden in der Binnenschifffahrt“ des ES-RIS erfolgen,
+    a)  muss die Meldung gemäß den Bestimmungen von Teil IV des ES-RIS
+        erfolgen,
 
 
     b)  ist abweichend von Nummer 2 Buchstabe c der Typ des Fahrzeugs oder

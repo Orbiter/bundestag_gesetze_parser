@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1965, 1089
 
 Zuletzt geändert durch
-:   Art. 13 G v. 11.12.2023 I Nr. 354
+:   Art. 23 G v. 4.2.2026 I Nr. 33
 
 
 ## Eingangsformel
@@ -109,6 +109,13 @@ Stückaktien nach der Zahl der Aktien.
 (6) Diese Vorschriften gelten auch für Anteilscheine, die den
 Aktionären vor der Ausgabe der Aktien erteilt werden
 (Zwischenscheine).
+
+(7) Die Satzung kann vorsehen, dass Nennbetragsaktien einen geringeren
+Nennwert haben dürfen. In diesem Fall müssen sie auf mindestens einen
+Eurocent lauten. Für Stückaktien kann die Satzung vorsehen, dass der
+auf die einzelne Aktie entfallende anteilige Betrag des Grundkapitals
+einen Eurocent betragen darf. Im Übrigen findet Absatz 2 Satz 2 und 3
+entsprechende Anwendung.
 
 
 #### § 9 Ausgabebetrag der Aktien
@@ -309,7 +316,7 @@ oder abhängige Unternehmen sind, nicht anzuwenden.
 
 (1) Sobald einem Unternehmen mehr als der vierte Teil der Aktien einer
 Aktiengesellschaft mit Sitz im Inland gehört, hat es dies der
-Gesellschaft unverzüglich schriftlich mitzuteilen. Für die
+Gesellschaft unverzüglich in Textform mitzuteilen. Für die
 Feststellung, ob dem Unternehmen mehr als der vierte Teil der Aktien
 gehört, gilt § 16 Abs. 2 Satz 1, Abs. 4.
 
@@ -330,16 +337,16 @@ die dem Unternehmen gehören, auch Aktien,
 
 (3) Ist das Unternehmen eine Kapitalgesellschaft, so hat es, sobald
 ihm ohne Hinzurechnung der Aktien nach Absatz 2 mehr als der vierte
-Teil der Aktien gehört, auch dies der Gesellschaft unverzüglich
-schriftlich mitzuteilen.
+Teil der Aktien gehört, auch dies der Gesellschaft unverzüglich in
+Textform mitzuteilen.
 
 (4) Sobald dem Unternehmen eine Mehrheitsbeteiligung (§ 16 Abs. 1)
-gehört, hat es auch dies der Gesellschaft unverzüglich schriftlich
+gehört, hat es auch dies der Gesellschaft unverzüglich in Textform
 mitzuteilen.
 
 (5) Besteht die Beteiligung in der nach Absatz 1, 3 oder 4
 mitteilungspflichtigen Höhe nicht mehr, so ist dies der Gesellschaft
-unverzüglich schriftlich mitzuteilen.
+unverzüglich in Textform mitzuteilen.
 
 (6) Die Gesellschaft hat das Bestehen einer Beteiligung, die ihr nach
 Absatz 1 oder 4 mitgeteilt worden ist, unverzüglich in den
@@ -366,19 +373,19 @@ Sinne des § 33 Absatz 4 des Wertpapierhandelsgesetzes.
 
 (1) Sobald der Gesellschaft mehr als der vierte Teil der Anteile einer
 anderen Kapitalgesellschaft mit Sitz im Inland gehört, hat sie dies
-dem Unternehmen, an dem die Beteiligung besteht, unverzüglich
-schriftlich mitzuteilen. Für die Feststellung, ob der Gesellschaft
-mehr als der vierte Teil der Anteile gehört, gilt § 16 Abs. 2 Satz 1,
-Abs. 4 sinngemäß.
+dem Unternehmen, an dem die Beteiligung besteht, unverzüglich in
+Textform mitzuteilen. Für die Feststellung, ob der Gesellschaft mehr
+als der vierte Teil der Anteile gehört, gilt § 16 Abs. 2 Satz 1, Abs.
+4 sinngemäß.
 
 (2) Sobald der Gesellschaft eine Mehrheitsbeteiligung (§ 16 Abs. 1) an
 einem anderen Unternehmen gehört, hat sie dies dem Unternehmen, an dem
-die Mehrheitsbeteiligung besteht, unverzüglich schriftlich
+die Mehrheitsbeteiligung besteht, unverzüglich in Textform
 mitzuteilen.
 
 (3) Besteht die Beteiligung in der nach Absatz 1 oder 2
 mitteilungspflichtigen Höhe nicht mehr, hat die Gesellschaft dies dem
-anderen Unternehmen unverzüglich schriftlich mitzuteilen.
+anderen Unternehmen unverzüglich in Textform mitzuteilen.
 
 (4) Rechte aus Anteilen, die einer nach Absatz 1 oder 2
 mitteilungspflichtigen Gesellschaft gehören, bestehen nicht für die
@@ -4440,15 +4447,11 @@ Mitbestimmungsergänzungsgesetz gilt, ferner enthalten:
 
 
 
-Soll die Hauptversammlung über eine Satzungsänderung, das
-Vergütungssystem für die Vorstandsmitglieder, die Vergütung des
-Aufsichtsrats nach § 113 Absatz 3, den Vergütungsbericht oder über
-einen Vertrag beschließen, der nur mit Zustimmung der Hauptversammlung
+Soll die Hauptversammlung über eine Satzungsänderung oder über einen
+Vertrag beschließen, der nur mit Zustimmung der Hauptversammlung
 wirksam wird, so ist bei einer Satzungsänderung der Wortlaut der
-Satzungsänderung, bei einem vorbezeichneten Vertrag dessen
-wesentlicher Inhalt, im Übrigen der vollständige Inhalt der Unterlagen
-zu den jeweiligen Beschlussgegenständen bekanntzumachen. Satz 3 gilt
-auch im Fall des § 120a Absatz 5.
+Satzungsänderung und bei einem vorbezeichneten Vertrag dessen
+wesentlicher Inhalt bekanntzumachen.
 
 (3) Zu jedem Gegenstand der Tagesordnung, über den die
 Hauptversammlung beschließen soll, haben der Vorstand und der
@@ -4495,12 +4498,19 @@ zugänglich sein:
 3.  die der Versammlung zugänglich zu machenden Unterlagen;
 
 
-4.  die Gesamtzahl der Aktien und der Stimmrechte im Zeitpunkt der
+4.  wenn die Hauptversammlung über das Vergütungssystem für die
+    Vorstandsmitglieder, die Vergütung des Aufsichtsrats nach § 113 Absatz
+    3 oder den Vergütungsbericht beschließen soll, die Unterlagen zu den
+    jeweiligen Beschlussgegenständen; dies gilt auch im Fall des § 120a
+    Absatz 5;
+
+
+5.  die Gesamtzahl der Aktien und der Stimmrechte im Zeitpunkt der
     Einberufung, einschließlich getrennter Angaben zur Gesamtzahl für jede
     Aktiengattung;
 
 
-5.  gegebenenfalls die Formulare, die bei Stimmabgabe durch Vertretung
+6.  gegebenenfalls die Formulare, die bei Stimmabgabe durch Vertretung
     oder bei Stimmabgabe mittels Briefwahl zu verwenden sind, sofern diese
     Formulare den Aktionären nicht direkt übermittelt werden.
 
@@ -9310,9 +9320,8 @@ befugt ist.
 (5) Die Vertretungsbefugnis der Abwickler kann nicht beschränkt
 werden.
 
-(6) Abwickler zeichnen für die Gesellschaft, indem sie der Firma einen
-die Abwicklung andeutenden Zusatz und ihre Namensunterschrift
-hinzufügen.
+(6) Zeichnen Abwickler für die Gesellschaft, ist der Firma ein auf die
+Abwicklung hinweisender Zusatz hinzuzufügen.
 
 
 ###### § 270 Eröffnungsbilanz. Jahresabschluß und Lagebericht
@@ -11088,7 +11097,7 @@ Angelegenheiten der Hauptgesellschaft.
 (2) Befinden sich nicht mehr alle Aktien der eingegliederten
 Gesellschaft in der Hand der Hauptgesellschaft, so hat die
 Hauptgesellschaft dies der eingegliederten Gesellschaft unverzüglich
-schriftlich mitzuteilen.
+in Textform mitzuteilen.
 
 (3) Der Vorstand der bisher eingegliederten Gesellschaft hat das Ende
 der Eingliederung, seinen Grund und seinen Zeitpunkt unverzüglich zur
@@ -11272,7 +11281,7 @@ Aufsichtsrat nicht ausüben.
 (4) Sind eine Aktiengesellschaft oder Kommanditgesellschaft auf Aktien
 und ein anderes Unternehmen wechselseitig beteiligte Unternehmen, so
 haben die Unternehmen einander unverzüglich die Höhe ihrer Beteiligung
-und jede Änderung schriftlich mitzuteilen.
+und jede Änderung in Textform mitzuteilen.
 
 
 ### Sechster Teil - Rechnungslegung im Konzern

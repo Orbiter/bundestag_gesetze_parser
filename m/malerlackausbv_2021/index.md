@@ -513,7 +513,7 @@ jede Auszubildende einen Ausbildungsplan zu erstellen.
 ## Abschnitt 2 - Gesellenprüfung
 
 
-### § 7 - Aufteilung in zwei Teile und Zeitpunkt
+### § 7 Aufteilung in zwei Teile und Zeitpunkt
 
 (1) Die Gesellenprüfung besteht aus den Teilen 1 und 2.
 
@@ -522,10 +522,10 @@ Teil 2 am Ende der Berufsausbildung. Den jeweiligen Zeitpunkt legt die
 zuständige Stelle fest.
 
 
-#### Unterabschnitt 1 - Prüfung Teil 1
+### Unterabschnitt 1 - Prüfung Teil 1
 
 
-##### § 8 Inhalt des Teiles 1
+#### § 8 Inhalt des Teiles 1
 
 Teil 1 der Gesellenprüfung erstreckt sich auf
 
@@ -541,7 +541,7 @@ Teil 1 der Gesellenprüfung erstreckt sich auf
 
 
 
-##### § 9 Prüfungsbereich des Teiles 1
+#### § 9 Prüfungsbereich des Teiles 1
 
 (1) Teil 1 der Gesellenprüfung findet im Prüfungsbereich Herstellen
 von Oberflächen und Durchführen von Instandsetzungsmaßnahmen statt.
@@ -629,10 +629,10 @@ Prüfungszeit für das auftragsbezogene Fachgespräch beträgt höchstens
 Aufgaben beträgt 90 Minuten.
 
 
-#### Unterabschnitt 2 - Prüfung Teil 2 in der Fachrichtung Gestaltung und Instandhaltung
+### Unterabschnitt 2 - Prüfung Teil 2 in der Fachrichtung Gestaltung und Instandhaltung
 
 
-##### § 10 Inhalte des Teiles 2
+#### § 10 Inhalte des Teiles 2
 
 (1) Teil 2 der Gesellenprüfung in der Fachrichtung Gestaltung und
 Instandhaltung erstreckt sich auf
@@ -654,7 +654,7 @@ waren, nur insoweit einbezogen werden, als es für die Feststellung der
 beruflichen Handlungsfähigkeit erforderlich ist.
 
 
-##### § 11 Prüfungsbereiche des Teiles 2
+#### § 11 Prüfungsbereiche des Teiles 2
 
 Teil 2 der Gesellenprüfung findet in der Fachrichtung Gestaltung und
 Instandhaltung in den folgenden Prüfungsbereichen statt:
@@ -674,7 +674,7 @@ Instandhaltung in den folgenden Prüfungsbereichen statt:
 
 
 
-##### § 12 Prüfungsbereich Ausführen eines Kundenauftrags
+#### § 12 Prüfungsbereich Ausführen eines Kundenauftrags
 
 (1) Im Prüfungsbereich Ausführen eines Kundenauftrags hat der Prüfling
 nachzuweisen, dass er in der Lage ist,
@@ -727,7 +727,7 @@ das situative Fachgespräch beträgt insgesamt 20 Stunden. Innerhalb
 dieser Zeit dauert das situative Fachgespräch höchstens 15 Minuten.
 
 
-##### § 13 Prüfungsbereich Durchführen von Fassaden-, Raum- und Objektgestaltungen
+#### § 13 Prüfungsbereich Durchführen von Fassaden-, Raum- und Objektgestaltungen
 
 (1) Im Prüfungsbereich Durchführen von Fassaden-, Raum- und
 Objektgestaltungen hat der Prüfling nachzuweisen, dass er in der Lage
@@ -765,7 +765,7 @@ ist,
 (3) Die Prüfungszeit beträgt 75 Minuten.
 
 
-##### § 14 Prüfungsbereich Durchführen von Instandhaltungs- und Bautenschutzmaßnahmen
+#### § 14 Prüfungsbereich Durchführen von Instandhaltungs- und Bautenschutzmaßnahmen
 
 (1) Im Prüfungsbereich Durchführen von Instandhaltungs- und
 Bautenschutzmaßnahmen hat der Prüfling nachzuweisen, dass er in der
@@ -812,7 +812,7 @@ Lage ist,
 (3) Die Prüfungszeit beträgt 75 Minuten.
 
 
-##### § 15 Prüfungsbereich Wirtschafts- und Sozialkunde
+#### § 15 Prüfungsbereich Wirtschafts- und Sozialkunde
 
 (1) Im Prüfungsbereich Wirtschafts- und Sozialkunde hat der Prüfling
 nachzuweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
@@ -825,7 +825,7 @@ die Aufgaben schriftlich bearbeiten.
 (3) Die Prüfungszeit beträgt 60 Minuten.
 
 
-##### § 16 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Gesellenprüfung
+#### § 16 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Gesellenprüfung
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind in der
 Fachrichtung Gestaltung und Instandhaltung wie folgt zu gewichten:
@@ -907,7 +907,7 @@ folgt bewertet worden sind:
 
 
 
-##### § 17 Mündliche Ergänzungsprüfung
+#### § 17 Mündliche Ergänzungsprüfung
 
 (1) Der Prüfling kann in einem Prüfungsbereich eine mündliche
 Ergänzungsprüfung beantragen.
@@ -948,10 +948,10 @@ das bisherige Ergebnis und das Ergebnis der mündlichen
 Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
 
-#### Unterabschnitt 3 - Prüfung Teil 2 in der Fachrichtung Energieeffizienz- und Gestaltungstechnik
+### Unterabschnitt 3 - Prüfung Teil 2 in der Fachrichtung Energieeffizienz- und Gestaltungstechnik
 
 
-##### § 18 Inhalt des Teiles 2
+#### § 18 Inhalt des Teiles 2
 
 Die Gesellenprüfung in der Fachrichtung Energieeffizienz- und
 Gestaltungstechnik erstreckt sich auf
@@ -968,7 +968,7 @@ Gestaltungstechnik erstreckt sich auf
 
 
 
-##### § 19 Prüfungsbereiche des Teiles 2
+#### § 19 Prüfungsbereiche des Teiles 2
 
 Die Gesellenprüfung findet in der Fachrichtung Energieeffizienz- und
 Gestaltungstechnik in den folgenden Prüfungsbereichen statt:
@@ -990,7 +990,7 @@ Gestaltungstechnik in den folgenden Prüfungsbereichen statt:
 
 
 
-##### § 20 Prüfungsbereich Ausführen eines Kundenauftrags
+#### § 20 Prüfungsbereich Ausführen eines Kundenauftrags
 
 (1) Im Prüfungsbereich Ausführen eines Kundenauftrags hat der Prüfling
 nachzuweisen, dass er in der Lage ist,
@@ -1039,7 +1039,7 @@ das situative Fachgespräch beträgt insgesamt 20 Stunden. Innerhalb
 dieser Zeit dauert das situative Fachgespräch höchstens 15 Minuten.
 
 
-##### § 21 Prüfungsbereich Durchführen von Energieeffizienzmaßnahmen an Außenflächen von Bauten oder Anlagen sowie deren jeweiligen Bestandteilen
+#### § 21 Prüfungsbereich Durchführen von Energieeffizienzmaßnahmen an Außenflächen von Bauten oder Anlagen sowie deren jeweiligen Bestandteilen
 
 (1) Im Prüfungsbereich Durchführen von Energieeffizienzmaßnahmen an
 Außenflächen von Bauten oder Anlagen und deren jeweiligen
@@ -1093,7 +1093,7 @@ Bestandteilen hat der Prüfling nachzuweisen, dass er in der Lage ist,
 (3) Die Prüfungszeit beträgt 75 Minuten.
 
 
-##### § 22 Prüfungsbereich Durchführen von Energieeffizienzmaßnahmen an Innenflächen von Bauten oder Anlagen und deren Bestandteilen
+#### § 22 Prüfungsbereich Durchführen von Energieeffizienzmaßnahmen an Innenflächen von Bauten oder Anlagen und deren Bestandteilen
 
 (1) Im Prüfungsbereich Durchführen von Energieeffizienzmaßnahmen an
 Innenflächen von Bauten oder Anlagen und deren Bestandteilen hat der
@@ -1140,7 +1140,7 @@ Prüfling nachzuweisen, dass er in der Lage ist,
 (3) Die Prüfungszeit beträgt 75 Minuten.
 
 
-##### § 23 Prüfungsbereich Wirtschafts- und Sozialkunde
+#### § 23 Prüfungsbereich Wirtschafts- und Sozialkunde
 
 (1) Im Prüfungsbereich Wirtschafts- und Sozialkunde hat der Prüfling
 nachzuweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
@@ -1153,7 +1153,7 @@ die Aufgaben schriftlich bearbeiten.
 (3) Die Prüfungszeit beträgt 60 Minuten.
 
 
-##### § 24 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Gesellenprüfung
+#### § 24 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Gesellenprüfung
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind in der
 Fachrichtung Energieeffizienz- und Gestaltungstechnik wie folgt zu
@@ -1241,7 +1241,7 @@ wie folgt bewertet worden sind:
 
 
 
-##### § 25 Mündliche Ergänzungsprüfung
+#### § 25 Mündliche Ergänzungsprüfung
 
 (1) Der Prüfling kann in einem Prüfungsbereich eine mündliche
 Ergänzungsprüfung beantragen.
@@ -1284,10 +1284,10 @@ das bisherige Ergebnis und das Ergebnis der mündlichen
 Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
 
-#### Unterabschnitt 4 - Prüfung Teil 2 in der Fachrichtung Kirchenmalerei und Denkmalpflege
+### Unterabschnitt 4 - Prüfung Teil 2 in der Fachrichtung Kirchenmalerei und Denkmalpflege
 
 
-##### § 26 Inhalt des Teiles 2
+#### § 26 Inhalt des Teiles 2
 
 Die Gesellenprüfung in der Fachrichtung Kirchenmalerei und
 Denkmalpflege erstreckt sich auf
@@ -1304,7 +1304,7 @@ Denkmalpflege erstreckt sich auf
 
 
 
-##### § 27 Prüfungsbereiche des Teiles 2
+#### § 27 Prüfungsbereiche des Teiles 2
 
 Die Gesellenprüfung findet in der Fachrichtung Kirchenmalerei und
 Denkmalpflege in den folgenden Prüfungsbereichen statt:
@@ -1326,7 +1326,7 @@ Denkmalpflege in den folgenden Prüfungsbereichen statt:
 
 
 
-##### § 28 Prüfungsbereich Ausführen eines Kundenauftrags
+#### § 28 Prüfungsbereich Ausführen eines Kundenauftrags
 
 (1) Im Prüfungsbereich Ausführen eines Kundenauftrags hat der Prüfling
 nachzuweisen, dass er in der Lage ist,
@@ -1375,7 +1375,7 @@ das situative Fachgespräch beträgt insgesamt 20 Stunden. Innerhalb
 dieser Zeit dauert das situative Fachgespräch höchstens 15 Minuten.
 
 
-##### § 29 Prüfungsbereich Durchführen von Maßnahmen zur Instandhaltung und Rekonstruktion an historischen Objekten
+#### § 29 Prüfungsbereich Durchführen von Maßnahmen zur Instandhaltung und Rekonstruktion an historischen Objekten
 
 (1) Im Prüfungsbereich Maßnahmen zur Instandhaltung und Rekonstruktion
 an historischen Objekten hat der Prüfling nachzuweisen, dass er in der
@@ -1435,7 +1435,7 @@ Lage ist,
 (3) Die Prüfungszeit beträgt 75 Minuten.
 
 
-##### § 30 Prüfungsbereich Durchführen von Maßnahmen zur Reproduktion an historischen Objekten
+#### § 30 Prüfungsbereich Durchführen von Maßnahmen zur Reproduktion an historischen Objekten
 
 (1) Im Prüfungsbereich Durchführen von Maßnahmen zur Reproduktion an
 historischen Objekten hat der Prüfling nachzuweisen, dass er in der
@@ -1476,7 +1476,7 @@ Lage ist,
 (3) Die Prüfungszeit beträgt 75 Minuten.
 
 
-##### § 31 Prüfungsbereich Wirtschafts- und Sozialkunde
+#### § 31 Prüfungsbereich Wirtschafts- und Sozialkunde
 
 (1) Im Prüfungsbereich Wirtschafts- und Sozialkunde hat der Prüfling
 nachzuweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
@@ -1489,7 +1489,7 @@ die Aufgaben schriftlich bearbeiten.
 (3) Die Prüfungszeit beträgt 60 Minuten.
 
 
-##### § 32 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Gesellenprüfung
+#### § 32 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Gesellenprüfung
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind in der
 Fachrichtung Kirchenmalerei und Denkmalpflege wie folgt zu gewichten:
@@ -1573,7 +1573,7 @@ folgt bewertet worden sind:
 
 
 
-##### § 33 Mündliche Ergänzungsprüfung
+#### § 33 Mündliche Ergänzungsprüfung
 
 (1) Der Prüfling kann in einem Prüfungsbereich eine mündliche
 Ergänzungsprüfung beantragen.
@@ -1616,10 +1616,10 @@ das bisherige Ergebnis und das Ergebnis der mündlichen
 Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
 
-#### Unterabschnitt 5 - Prüfung Teil 2 in der Fachrichtung Bauten- und Korrosionsschutz
+### Unterabschnitt 5 - Prüfung Teil 2 in der Fachrichtung Bauten- und Korrosionsschutz
 
 
-##### § 34 Inhalt des Teiles 2
+#### § 34 Inhalt des Teiles 2
 
 Die Gesellenprüfung in der Fachrichtung Bauten- und Korrosionsschutz
 erstreckt sich auf
@@ -1636,7 +1636,7 @@ erstreckt sich auf
 
 
 
-##### § 35 Prüfungsbereiche des Teiles 2
+#### § 35 Prüfungsbereiche des Teiles 2
 
 Die Gesellenprüfung findet in der Fachrichtung Bauten- und
 Korrosionsschutz in den folgenden Prüfungsbereichen statt:
@@ -1656,7 +1656,7 @@ Korrosionsschutz in den folgenden Prüfungsbereichen statt:
 
 
 
-##### § 36 Prüfungsbereich Ausführen eines Kundenauftrags
+#### § 36 Prüfungsbereich Ausführen eines Kundenauftrags
 
 (1) Im Prüfungsbereich Ausführen eines Kundenauftrags hat der Prüfling
 nachzuweisen, dass er in der Lage ist,
@@ -1718,7 +1718,7 @@ beträgt insgesamt 20 Stunden. Innerhalb dieser Zeit dauern die
 situativen Fachgespräche insgesamt höchstens 15 Minuten.
 
 
-##### § 37 Prüfungsbereich Durchführen von Bautenschutzmaßnahmen
+#### § 37 Prüfungsbereich Durchführen von Bautenschutzmaßnahmen
 
 (1) Im Prüfungsbereich Durchführen von Bautenschutzmaßnahmen hat der
 Prüfling nachzuweisen, dass er in der Lage ist,
@@ -1774,7 +1774,7 @@ Prüfling nachzuweisen, dass er in der Lage ist,
 (3) Die Prüfungszeit beträgt 75 Minuten.
 
 
-##### § 38 Prüfungsbereich Durchführen von Korrosionsschutzmaßnahmen
+#### § 38 Prüfungsbereich Durchführen von Korrosionsschutzmaßnahmen
 
 (1) Im Prüfungsbereich Durchführen von Korrosionsschutzmaßnahmen hat
 der Prüfling nachzuweisen, dass er in der Lage ist,
@@ -1833,7 +1833,7 @@ der Prüfling nachzuweisen, dass er in der Lage ist,
 (3) Die Prüfungszeit beträgt 75 Minuten.
 
 
-##### § 39 Prüfungsbereich Wirtschafts- und Sozialkunde
+#### § 39 Prüfungsbereich Wirtschafts- und Sozialkunde
 
 (1) Im Prüfungsbereich Wirtschafts- und Sozialkunde hat der Prüfling
 nachzuweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
@@ -1846,7 +1846,7 @@ die Aufgaben schriftlich bearbeiten.
 (3) Die Prüfungszeit beträgt 60 Minuten.
 
 
-##### § 40 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Gesellenprüfung
+#### § 40 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Gesellenprüfung
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind in der
 Fachrichtung Bauten- und Korrosionsschutz wie folgt zu gewichten:
@@ -1927,7 +1927,7 @@ folgt bewertet worden sind:
 
 
 
-##### § 41 Mündliche Ergänzungsprüfung
+#### § 41 Mündliche Ergänzungsprüfung
 
 (1) Der Prüfling kann in einem Prüfungsbereich eine mündliche
 Ergänzungsprüfung beantragen.
@@ -1968,10 +1968,10 @@ das bisherige Ergebnis und das Ergebnis der mündlichen
 Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
 
-#### Unterabschnitt 6 - Prüfung Teil 2 in der Fachrichtung Ausbautechnik und Oberflächengestaltung
+### Unterabschnitt 6 - Prüfung Teil 2 in der Fachrichtung Ausbautechnik und Oberflächengestaltung
 
 
-##### § 42 Inhalt des Teiles 2
+#### § 42 Inhalt des Teiles 2
 
 Die Gesellenprüfung in der Fachrichtung Ausbautechnik und
 Oberflächengestaltung erstreckt sich auf
@@ -1988,7 +1988,7 @@ Oberflächengestaltung erstreckt sich auf
 
 
 
-##### § 43 Prüfungsbereiche des Teiles 2
+#### § 43 Prüfungsbereiche des Teiles 2
 
 Die Gesellenprüfung findet in der Fachrichtung Ausbautechnik und
 Oberflächengestaltung in den folgenden Prüfungsbereichen statt:
@@ -2008,7 +2008,7 @@ Oberflächengestaltung in den folgenden Prüfungsbereichen statt:
 
 
 
-##### § 44 Prüfungsbereich Ausführen eines Kundenauftrags
+#### § 44 Prüfungsbereich Ausführen eines Kundenauftrags
 
 (1) Im Prüfungsbereich Ausführen eines Kundenauftrags hat der Prüfling
 nachzuweisen, dass er in der Lage ist,
@@ -2072,7 +2072,7 @@ das situative Fachgespräch beträgt insgesamt 20 Stunden. Innerhalb
 dieser Zeit dauert das situative Fachgespräch höchstens 15 Minuten.
 
 
-##### § 45 Prüfungsbereich Ausführen von Ausbauarbeiten
+#### § 45 Prüfungsbereich Ausführen von Ausbauarbeiten
 
 (1) Im Prüfungsbereich Ausführen von Ausbauarbeiten hat der Prüfling
 nachzuweisen, dass er in der Lage ist,
@@ -2129,7 +2129,7 @@ nachzuweisen, dass er in der Lage ist,
 (3) Die Prüfungszeit beträgt 75 Minuten.
 
 
-##### § 46 Prüfungsbereich Ausführen von Dämmarbeiten
+#### § 46 Prüfungsbereich Ausführen von Dämmarbeiten
 
 (1) Im Prüfungsbereich Ausführen von Dämmarbeiten hat der Prüfling
 nachzuweisen, dass er in der Lage ist,
@@ -2188,7 +2188,7 @@ nachzuweisen, dass er in der Lage ist,
 (3) Die Prüfungszeit beträgt 75 Minuten.
 
 
-##### § 47 Prüfungsbereich Wirtschafts- und Sozialkunde
+#### § 47 Prüfungsbereich Wirtschafts- und Sozialkunde
 
 (1) Im Prüfungsbereich Wirtschafts- und Sozialkunde hat der Prüfling
 nachzuweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
@@ -2201,7 +2201,7 @@ die Aufgaben schriftlich bearbeiten.
 (3) Die Prüfungszeit beträgt 60 Minuten.
 
 
-##### § 48 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Gesellenprüfung
+#### § 48 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Gesellenprüfung
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind in der
 Fachrichtung Ausbautechnik und Oberflächengestaltung wie folgt zu
@@ -2281,7 +2281,7 @@ wie folgt bewertet worden sind:
 
 
 
-##### § 49 Mündliche Ergänzungsprüfung
+#### § 49 Mündliche Ergänzungsprüfung
 
 (1) Der Prüfling kann in einem Prüfungsbereich eine mündliche
 Ergänzungsprüfung beantragen.

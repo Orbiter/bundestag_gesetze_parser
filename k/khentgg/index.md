@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2002, 1412, 1422
 
 Zuletzt geändert durch
-:   Art. 2 G v. 22.3.2024 I Nr. 105
+:   Art. 13a G v. 22.12.2025 I Nr. 371
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
@@ -63,8 +63,8 @@ Patienten nach § 115b des Fünften Buches Sozialgesetzbuch und für
 sonstige Patienten nach den für sie geltenden Vorschriften,
 Vereinbarungen oder Tarifen vergütet. Die nach § 115f Absatz 1 Satz 1
 Nummer 2 des Fünften Buches Sozialgesetzbuch vereinbarten oder nach §
-115f Absatz 4 Satz 1 des Fünften Buches Sozialgesetzbuch bestimmten
-Leistungen werden für alle Benutzer und Benutzerinnen des
+115f Absatz 4 Satz 2 oder Satz 5 des Fünften Buches Sozialgesetzbuch
+bestimmten Leistungen werden für alle Benutzer und Benutzerinnen des
 Krankenhauses einheitlich nach § 115f des Fünften Buches
 Sozialgesetzbuch vergütet.
 
@@ -121,7 +121,11 @@ Nicht zu den Krankenhausleistungen nach Satz 2 Nummer 2 gehören
     Zusammenhang mit dem Grund der Krankenhausbehandlung nicht besteht,
 
 
-2.  bei der Krankenhausbehandlung von Menschen mit Hörbehinderung
+2.  eine Strahlentherapie, wenn ihre Durchführung durch Dritte medizinisch
+    notwendig ist,
+
+
+3.  bei der Krankenhausbehandlung von Menschen mit Hörbehinderung
     Leistungen der Dolmetscherassistenz zum Ausgleich der
     behinderungsbedingten Kommunikationsbeeinträchtigungen.
 
@@ -130,7 +134,10 @@ Nicht zu den Krankenhausleistungen nach Satz 2 Nummer 2 gehören
 Besondere Aufgaben nach Satz 2 Nummer 4 setzen deren Ausweisung und
 Festlegung im Krankenhausplan des Landes oder eine gleichartige
 Festlegung durch die zuständige Landesbehörde im Einzelfall gegenüber
-dem Krankenhaus voraus. Die besonderen Aufgaben umfassen nur
+dem Krankenhaus voraus; die Ausweisung und Festlegung im
+Krankenhausplan oder die Festlegung im Einzelfall kann durch die
+Genehmigung des nach § 5 Absatz 3 vereinbarten Zuschlags nach § 14
+Absatz 1 Satz 2 ersetzt werden. Die besonderen Aufgaben umfassen nur
 Leistungen, die nicht bereits durch die Fallpauschalen, nach sonstigen
 Regelungen dieses Gesetzes oder nach Regelungen des Fünften Buches
 Sozialgesetzbuch vergütet werden; sie können auch Leistungen, die
@@ -183,10 +190,16 @@ vergütet durch
 3a. ein Pflegebudget nach § 6a,
 
 
+3b. ein Vorhaltebudget nach § 6b ab dem Jahr 2027,
+
+
 4.  Zusatzentgelte für die Behandlung von Blutern,
 
 
-5.  Zu- und Abschläge nach § 7 Abs. 1.
+5.  Zu- und Abschläge nach § 7 Abs. 1,
+
+
+6.  ein Gesamtvolumen nach § 6c Absatz 1 Satz 1.
 
 
 
@@ -196,8 +209,10 @@ vergütet durch
 
 (1) Das von den Vertragsparteien nach § 11 Abs. 1 zu vereinbarende
 Erlösbudget umfasst für voll- und teilstationäre Leistungen die
-Fallpauschalen nach § 7 Abs. 1 Satz 1 Nr. 1 und die Zusatzentgelte
-nach § 7 Abs. 1 Satz 1 Nr. 2. Es umfasst nicht das Erlösvolumen nach §
+Fallpauschalen nach § 7 Absatz 1 Satz 1 Nummer 1, im Jahr 2026
+einschließlich der sich aus dem bundeseinheitlichen Entgeltkatalog
+ergebenden Vorhaltebewertungsrelationen, und die Zusatzentgelte nach §
+7 Absatz 1 Satz 1 Nummer 2. Es umfasst nicht das Erlösvolumen nach §
 4a, nicht die krankenhausindividuell zu vereinbarenden Entgelte nach §
 6 Abs. 1 bis 2a, nicht die Zusatzentgelte für die Behandlung von
 Blutern, nicht die Zu- und Abschläge nach § 7 Absatz 1, nicht die
@@ -217,12 +232,13 @@ stationär behandelt werden (Überlieger), werden die Erlöse aus
 Fallpauschalen in voller Höhe dem Jahr zugeordnet, in dem die
 Patientinnen und Patienten entlassen werden.
 
-(2a) Abweichend von Absatz 2 Satz 2 ist für mit Fallpauschalen
-bewertete Leistungen, die im Vergleich zur Vereinbarung für das
-laufende Kalenderjahr zusätzlich im Erlösbudget berücksichtigt werden,
-ein jeweils für drei Jahre zu erhebender Vergütungsabschlag von 35
-Prozent (Fixkostendegressionsabschlag) anzuwenden. Der für das
-Krankenhaus anzuwendende Abschlag nach Satz 1 gilt
+(2a) Abweichend von Absatz 2 Satz 2 ist, letztmalig für das Jahr 2026,
+für mit Fallpauschalen bewertete Leistungen, die im Vergleich zur
+Vereinbarung für das laufende Kalenderjahr zusätzlich im Erlösbudget
+berücksichtigt werden, ein jeweils für drei Jahre zu erhebender
+Vergütungsabschlag von 35 Prozent (Fixkostendegressionsabschlag)
+anzuwenden. Der für das Krankenhaus anzuwendende Abschlag nach Satz 1
+gilt
 
 1.  nicht bei
 
@@ -314,7 +330,11 @@ Vereinbarung für das Jahr 2019 zusätzlich im Erlösbudget
 berücksichtigt werden. Satz 8 Nummer 4 und Satz 9 finden keine
 Anwendung, sobald für das jeweilige Vorjahr mehr Leistungen, die mit
 Fallpauschalen bewertet werden, im Erlösbudget vereinbart wurden als
-für das Jahr 2019.
+für das Jahr 2019. Abweichend von Satz 1 ist der
+Fixkostendegressionsabschlag nicht für mit Fallpauschalen bewertete
+Leistungen anzuwenden, die aufgrund des Ablaufs der in § 4a Absatz 1
+Satz 1 genannten Anwendungsjahre für das Jahr 2025 zusätzlich im
+Erlösbudget berücksichtigt werden.
 
 (3) Das nach den Absätzen 1 und 2 vereinbarte Erlösbudget und die nach
 § 6 Abs. 3 vereinbarte Erlössumme werden für die Ermittlung von Mehr-
@@ -324,25 +344,28 @@ Krankenhauses aus den Entgelten nach § 7 Abs. 1 Satz 1 Nr. 1 und 2 und
 nach § 6 Abs. 1 Satz 1 und Abs. 2a von dem nach Satz 1 gebildeten
 Gesamtbetrag ab, werden die Mehr- oder Mindererlöse nach Maßgabe der
 folgenden Sätze ausgeglichen. Mindererlöse werden ab dem Jahr 2007
-grundsätzlich zu 20 vom Hundert ausgeglichen; Mindererlöse aus
-Zusatzentgelten für Arzneimittel und Medikalprodukte werden nicht
-ausgeglichen. Mehrerlöse aus Zusatzentgelten für Arzneimittel und
-Medikalprodukte und aus Fallpauschalen für schwerverletzte,
-insbesondere polytraumatisierte oder schwer brandverletzte Patienten
-werden zu 25 vom Hundert, sonstige Mehrerlöse zu 65 vom Hundert
-ausgeglichen. Für Fallpauschalen mit einem sehr hohen Sachkostenanteil
-sowie für teure Fallpauschalen mit einer schwer planbaren
-Leistungsmenge, insbesondere bei Transplantationen oder
-Langzeitbeatmung, sollen die Vertragsparteien im Voraus einen von den
-Sätzen 3 und 4 abweichenden Ausgleich vereinbaren; für Mehr- oder
-Mindererlöse, die auf Grund einer Epidemie entstehen, können die
-Vertragsparteien auch nach Ablauf des Vereinbarungszeitraums einen von
-den Sätzen 3 und 4 abweichenden Ausgleich vereinbaren. Mehr- oder
-Mindererlöse aus Zusatzentgelten für die Behandlung von Blutern sowie
-auf Grund von Abschlägen nach § 8 Abs. 4 werden nicht ausgeglichen.
-Zur Ermittlung der Mehr- oder Mindererlöse hat der Krankenhausträger
-eine vom Jahresabschlussprüfer bestätigte Aufstellung über die Erlöse
-nach § 7 Absatz 1 Satz 1 Nummer 1, 2 und 5 vorzulegen. Der nach diesen
+grundsätzlich zu 20 vom Hundert und ab dem Jahr 2027 nicht
+ausgeglichen; Mindererlöse aus Zusatzentgelten für Arzneimittel und
+Medikalprodukte werden nicht ausgeglichen. Mehrerlöse aus
+Zusatzentgelten für Arzneimittel und Medikalprodukte und aus
+Fallpauschalen für schwerverletzte, insbesondere polytraumatisierte
+oder schwer brandverletzte Patienten werden zu 25 vom Hundert,
+sonstige Mehrerlöse zu 65 vom Hundert ausgeglichen. Für Fallpauschalen
+mit einem sehr hohen Sachkostenanteil sowie für teure Fallpauschalen
+mit einer schwer planbaren Leistungsmenge, insbesondere bei
+Transplantationen oder Langzeitbeatmung, sollen die Vertragsparteien
+im Voraus einen von den Sätzen 3 und 4 abweichenden Ausgleich
+vereinbaren; für Mehr- oder Mindererlöse, die auf Grund einer Epidemie
+entstehen, können die Vertragsparteien auch nach Ablauf des
+Vereinbarungszeitraums einen von den Sätzen 3 und 4 abweichenden
+Ausgleich vereinbaren. Ab dem Jahr 2027 ist die Vereinbarung eines
+Ausgleichs für Mindererlöse auch bei Vorliegen der in Satz 5 genannten
+Voraussetzungen ausgeschlossen. Mehr- oder Mindererlöse aus
+Zusatzentgelten für die Behandlung von Blutern sowie auf Grund von
+Abschlägen nach § 8 Abs. 4 werden nicht ausgeglichen. Zur Ermittlung
+der Mehr- oder Mindererlöse hat der Krankenhausträger eine vom
+Jahresabschlussprüfer bestätigte Aufstellung über die Erlöse nach § 7
+Absatz 1 Satz 1 Nummer 1, 2, 5 und 6b vorzulegen. Der nach diesen
 Vorgaben ermittelte Ausgleichsbetrag wird im Rahmen des Zu- oder
 Abschlags nach § 5 Abs. 4 abgerechnet. Steht bei der Budgetverhandlung
 der Ausgleichsbetrag noch nicht fest, sind Teilbeträge als
@@ -964,37 +987,45 @@ erfüllt sind:
 
 der Sicherstellungszuschlag kann in diesem Fall für bis zu drei Jahre
 weiter vereinbart werden. Klagen gegen das Ergebnis der Prüfung nach
-den Sätzen 5 oder 6 haben keine aufschiebende Wirkung.
+den Sätzen 5 oder 6 haben keine aufschiebende Wirkung. Eine
+Vereinbarung nach Satz 1 kann abweichend von den Vorgaben des
+Gemeinsamen Bundesausschusses nach § 136c Absatz 3 des Fünften Buches
+Sozialgesetzbuch auch getroffen werden, wenn das Krankenhaus an dem
+jeweiligen Standort nicht die Anforderungen an die Notfallversorgung
+nach dem vom Gemeinsamen Bundesausschuss gemäß § 136c Absatz 4 des
+Fünften Buches Sozialgesetzbuch beschlossenen gestuften System der
+Notfallstrukturen in Krankenhäusern erfüllt.
 
-(2a) Ein Krankenhaus, das in die Liste nach § 9 Absatz 1a Nummer 6
-aufgenommen wurde, hat für das der Auflistung folgende Jahr Anspruch
-auf eine zusätzliche Finanzierung in Höhe von 400 000 Euro jährlich;
-hält ein Krankenhaus mehr als zwei Fachabteilungen vor, die die
-Vorgaben des Gemeinsamen Bundesausschusses gemäß § 136c Absatz 3 Satz
-2 des Fünften Buches Sozialgesetzbuch erfüllen, hat das Krankenhaus
-darüber hinaus Anspruch auf eine zusätzliche Finanzierung in Höhe von
-200 000 Euro jährlich je weiterer vorgehaltener Fachabteilung, die die
-Vorgaben des Gemeinsamen Bundesausschusses nach § 136c Absatz 3 Satz 2
-des Fünften Buches Sozialgesetzbuch erfüllt. Die Berechnung gegenüber
-den Patientinnen oder Patienten oder den Kostenträgern erfolgt, indem
-der jährliche Betrag nach Satz 1 durch die voraussichtliche Summe der
-voll- und teilstationären Fälle des Krankenhauses geteilt wird. Der
-Betrag nach Satz 2 ist erstmals bei Patientinnen oder Patienten
-abzurechnen, die ab dem 1. Januar 2020 zur Behandlung in das
-Krankenhaus aufgenommen wurden. Ist ein Krankenhaus nicht mehr in die
-Liste nach § 9 Absatz 1a Nummer 6 aufgenommen, so ist der Betrag nach
-Satz 2 letztmalig bei Patientinnen oder Patienten abzurechnen, die vor
-dem 1. Januar des auf die letztmalige Auflistung folgenden Jahres zur
+(2a) Ein Krankenhaus, dessen Standort in die Liste nach § 9 Absatz 1a
+Nummer 6 aufgenommen wurde, hat für das der Auflistung folgende Jahr
+Anspruch auf eine zusätzliche Finanzierung in Höhe von 500 000 Euro
+jährlich; hält ein Krankenhaus an einem Standort mehr als zwei
+Fachabteilungen vor, die die Vorgaben des Gemeinsamen
+Bundesausschusses gemäß § 136c Absatz 3 Satz 2 des Fünften Buches
+Sozialgesetzbuch erfüllen, hat das Krankenhaus darüber hinaus Anspruch
+auf eine zusätzliche Finanzierung in Höhe von 250 000 Euro jährlich je
+weiterer vorgehaltener Fachabteilung, die die Vorgaben des Gemeinsamen
+Bundesausschusses nach § 136c Absatz 3 Satz 2 des Fünften Buches
+Sozialgesetzbuch erfüllt. Die Berechnung gegenüber den Patientinnen
+oder Patienten oder den Kostenträgern erfolgt, indem der jährliche
+Betrag nach Satz 1 durch die voraussichtliche Summe der voll- und
+teilstationären Fälle des Krankenhauses geteilt wird. Der Betrag nach
+Satz 2 ist erstmals bei Patientinnen oder Patienten abzurechnen, die
+ab dem 1. Januar 2020 zur Behandlung in das Krankenhaus aufgenommen
+wurden. Ist ein Krankenhausstandort nicht mehr in die Liste nach § 9
+Absatz 1a Nummer 6 aufgenommen, so ist der Betrag nach Satz 2
+letztmalig bei Patientinnen oder Patienten abzurechnen, die vor dem 1.
+Januar des auf die letztmalige Auflistung folgenden Jahres zur
 Behandlung in das Krankenhaus aufgenommen wurden.
 
 (2b) Zur Förderung der geburtshilflichen Versorgung in Krankenhäusern
 erheben Krankenhäuser für ihre Standorte, für die die für
 Krankenhausplanung zuständige Landesbehörde nach Satz 2 die Höhe eines
 standortindividuellen Förderbetrages festgelegt hat, in den Jahren
-2023 und 2024 gegenüber den Patientinnen oder Patienten oder den
+2023 bis 2026 gegenüber den Patientinnen oder Patienten oder den
 Kostenträgern einen vom Krankenhausträger zu ermittelnden Zuschlag
 nach Absatz 2c. Die für die Krankenhausplanung zuständige
-Landesbehörde legt bis zum 31. März der Jahre 2023 und 2024 jeweils
+Landesbehörde legt bis zum 31. März der Jahre 2023 bis 2026 jeweils
 die Höhe eines standortindividuellen Förderbetrages zur Förderung der
 geburtshilflichen Versorgung in Krankenhäusern für
 Krankenhausstandorte fest, die eine Fachabteilung für Geburtshilfe
@@ -1002,7 +1033,7 @@ oder eine Fachabteilung für Gynäkologie und Geburtshilfe vorhalten und
 die von der für die Krankenhausplanung zuständigen Landesbehörde als
 bedarfsnotwendig bestimmt werden. Dabei sind für die
 Krankenhausstandorte im Gebiet des jeweiligen Landes für die Jahre
-2023 und 2024 jeweils insgesamt Förderbeträge in folgender Höhe
+2023 bis 2026 jeweils insgesamt Förderbeträge in folgender Höhe
 festzulegen:
 
 *    *   Baden-Württemberg
@@ -1115,7 +1146,7 @@ die Höhe des aufgrund der Festlegung nach Satz 2 auf den einzelnen
 Krankenhausstandort entfallenden Förderbetrages und die Information,
 inwieweit die von ihr für die Festlegung des standortindividuellen
 Förderbetrages zugrunde gelegten Kriterien maßgeblich waren, jeweils
-bis zum 31. März der Jahre 2023 und 2024 mitzuteilen.
+bis zum 31. März der Jahre 2023 bis 2026 mitzuteilen.
 
 (2c) Die Abrechnung des nach Absatz 2b Satz 2 festgelegten
 standortindividuellen Förderbetrages erfolgt gegenüber den
@@ -1124,16 +1155,18 @@ Krankenhausträger zu ermittelnden Zuschlag, der sich ergibt, indem die
 nach Absatz 2b Satz 2 für den jeweiligen Krankenhausstandort
 festgelegte Höhe des standortindividuellen Förderbetrages durch die
 Anzahl der voll- und teilstationären Fälle des Krankenhausstandortes
-in dem dem Jahr 2023 oder 2024 jeweils vorangegangenen Kalenderjahr
-geteilt wird. Der nach Satz 1 berechnete Zuschlag für das Jahr 2023
-ist bei Patientinnen oder Patienten abzurechnen, die zwischen dem 1.
-Januar 2023 und dem 31. Dezember 2023 zur Behandlung in das
-Krankenhaus aufgenommen werden. Der nach Satz 1 berechnete Zuschlag
-für das Jahr 2024 ist bei Patientinnen oder Patienten abzurechnen, die
-zwischen dem 1. Januar 2024 und dem 31. Dezember 2024 zur Behandlung
-in das Krankenhaus aufgenommen werden. Abweichend von den Sätzen 2 und
-3 sind Zuschläge, die auf die Fälle entfallen, die für das Jahr 2023
-oder 2024 vor der jeweiligen Festlegung der Höhe des
+in dem dem Jahr 2023, 2024, 2025 oder 2026 jeweils vorangegangenen
+Kalenderjahr geteilt wird. Der nach Satz 1 berechnete Zuschlag für das
+Jahr 2023 ist bei Patientinnen oder Patienten abzurechnen, die
+zwischen dem 1. Januar 2023 und dem 31. Dezember 2023 zur Behandlung
+in das Krankenhaus aufgenommen werden. Der nach Satz 1 für das
+Kalenderjahr 2024, 2025 und 2026 jeweils ermittelte Zuschlag ist bei
+Patientinnen oder Patienten abzurechnen, die im Zeitraum vom 1. Januar
+des jeweiligen Kalenderjahres bis zum 31. Dezember des jeweiligen
+Kalenderjahres zur voll- oder teilstationären Behandlung in das
+Krankenhaus aufgenommen werden. Abweichend von den Sätzen 2 und 3 sind
+Zuschläge, die auf die Fälle entfallen, die für das Jahr 2023, 2024,
+2025 oder 2026 vor der jeweiligen Festlegung der Höhe des
 standortindividuellen Förderbetrages durch die für die
 Krankenhausplanung zuständige Landesbehörde abgerechnet worden sind,
 nicht für diese Fälle abzurechnen, sondern durch entsprechende
@@ -1151,9 +1184,9 @@ Satz 2 festgelegte standortindividuelle Förderbetrag ist zweckgebunden
 für die Finanzierung von voll- und teilstationären Leistungen der
 Geburtshilfe zu verwenden. Der Krankenhausträger hat den anderen
 Vertragsparteien nach § 11 bei Abschluss der nächsten nach Ablauf des
-Jahres 2023 oder 2024 jeweils zu treffenden Vereinbarung nach § 11
-eine Bestätigung des Jahresabschlussprüfers vorzulegen, aus der
-hervorgeht oder für die das Krankenhaus glaubhaft dargelegt hat,
+Jahres 2023, 2024, 2025 oder 2026 jeweils zu treffenden Vereinbarung
+nach § 11 eine Bestätigung des Jahresabschlussprüfers vorzulegen, aus
+der hervorgeht oder für die das Krankenhaus glaubhaft dargelegt hat,
 inwieweit der nach Absatz 2b Satz 2 festgelegte standortindividuelle
 Förderbetrag zweckentsprechend verwendet wurde. Mittel, die nicht
 zweckentsprechend verwendet wurden, sind zurückzuzahlen. Der
@@ -1303,6 +1336,116 @@ Vertragsparteien nach § 11 unter Berücksichtigung der Vereinbarung
 nach § 9 Absatz 1a Nummer 9 einen Zuschlag je voll- oder
 teilstationären Fall.
 
+(3j) Krankenhäuser, denen Koordinierungs- und Vernetzungsaufgaben nach
+§ 6b Satz 1 des Krankenhausfinanzierungsgesetzes zugewiesen worden
+sind, erheben zur Abrechnung des für sie nach § 38 Absatz 1 Satz 5 des
+Krankenhausfinanzierungsgesetzes veröffentlichten Betrags gegenüber
+Patientinnen und Patienten, die ab dem 1. Januar des auf die jeweilige
+Zuweisung folgenden Kalenderjahres, erstmals ab dem 1. Januar 2027,
+zur voll- oder teilstationären Behandlung in das Krankenhaus
+aufgenommen werden, oder ihren Kostenträgern einen Zuschlag. Die Höhe
+des in Satz 1 genannten Zuschlags in einem Kalenderjahr ergibt sich,
+indem der für dieses Kalenderjahr nach § 38 Absatz 1 Satz 5 des
+Krankenhausfinanzierungsgesetzes für das jeweilige Krankenhaus
+veröffentlichte Betrag durch die voraussichtliche Summe der voll- und
+teilstationären Fälle des Krankenhauses im jeweiligen Kalenderjahr
+geteilt wird; die Höhe ist durch den jeweiligen Krankenhausträger zu
+ermitteln. Weicht die in einem Kalenderjahr abgerechnete Summe der
+Zuschläge nach Satz 1 von dem für das jeweilige Krankenhaus und das
+jeweilige Kalenderjahr nach § 38 Absatz 1 Satz 5 des
+Krankenhausfinanzierungsgesetzes veröffentlichten Betrag ab, werden
+die Mehr- oder Mindererlöse über den Zu- oder Abschlag für
+Erlösausgleiche nach Absatz 4 Satz 1 im nächstmöglichen
+Vereinbarungszeitraum vollständig ausgeglichen. Wird für ein in Satz 1
+genanntes Krankenhaus kein Betrag nach § 38 Absatz 1 Satz 5 des
+Krankenhausfinanzierungsgesetzes veröffentlicht, darf es für das
+jeweilige Kalenderjahr keinen Zuschlag erheben.
+
+(3k) Zur Förderung der Versorgung von Kindern und Jugendlichen erheben
+Krankenhäuser und die in § 17b Absatz 1 Satz 10 des
+Krankenhausfinanzierungsgesetzes genannten besonderen Einrichtungen,
+die im jeweiligen Kalenderjahr aus dem Vergütungssystem ausgenommen
+sind, für die Kalenderjahre 2025 und 2026 einen Zuschlag. Zur Erhebung
+dieses Zuschlags ermittelt das Institut für das Entgeltsystem im
+Krankenhaus auf der Grundlage der ihm nach § 21 Absatz 1 und 2
+übermittelten Daten für die im Jahr 2023 erbrachten nach Satz 3
+maßgeblichen und mit den Bewertungsrelationen für das Kalenderjahr
+2024 bewerteten Fälle die Summe der effektiven Bewertungsrelationen;
+bei der Ermittlung sind die im Katalog nach § 17b Absatz 4 Satz 5 des
+Krankenhausfinanzierungsgesetzes ausgewiesenen bundeseinheitlichen
+Bewertungsrelationen für Pflegepersonalkosten nicht zu
+berücksichtigen. Maßgebliche Fälle sind alle voll- oder teilstationär
+behandelten Patientinnen und Patienten, die zum Zeitpunkt der Aufnahme
+in das Krankenhaus mindestens 28 Tage und unter 16 Jahre alt sind. Für
+die Ermittlung eines Erlösvolumens für die Versorgung von Kindern und
+Jugendlichen multipliziert das Institut für das Entgeltsystem im
+Krankenhaus jeweils für die Kalenderjahre 2025 und 2026 die nach Satz
+2 berechnete Summe der effektiven Bewertungsrelationen mit dem nach §
+10 Absatz 9 Satz 1 für das dem jeweiligen Kalenderjahr vorausgegangene
+Kalenderjahr berechneten einheitlichen Basisfallwert und erhöht das
+sich jeweils ergebende Produkt um den für das jeweilige Kalenderjahr
+nach § 9 Absatz 1b Satz 1 vereinbarten Veränderungswert. Das Institut
+für das Entgeltsystem im Krankenhaus berechnet jeweils einen
+Prozentsatz für die Kalenderjahre 2025 und 2026 als Verhältnis eines
+Betrags in Höhe von 300 Millionen Euro und der Summe des jeweiligen
+nach Satz 4 ermittelten Erlösvolumens und eines Betrags in Höhe von 90
+Millionen Euro und veröffentlicht diesen Prozentsatz für das jeweilige
+Kalenderjahr bis zum 15. Dezember des jeweils vorhergehenden
+Kalenderjahres barrierefrei auf seiner Internetseite. Die nach Satz 5
+jeweils berechneten Prozentsätze sind kaufmännisch auf drei
+Nachkommastellen zu runden. In den Kalenderjahren 2025 und 2026
+berechnen die Krankenhäuser für die nach Satz 3 maßgeblichen Fälle,
+die im Zeitraum vom 1. Januar des jeweiligen Kalenderjahres bis zum
+31\. Dezember des jeweiligen Kalenderjahres zur voll- oder
+teilstationären Behandlung in das Krankenhaus aufgenommen werden,
+jeweils einen Zuschlag in Höhe des nach Satz 5 für das jeweilige
+Kalenderjahr ermittelten Prozentsatzes auf die im auf Bundesebene
+vereinbarten Entgeltkatalog bewerteten Fallpauschalen nach § 7 Absatz
+1 Satz 1 Nummer 1 und die Vergütung des Vorhaltebudgets nach § 7
+Absatz 1 Satz 1 Nummer 6b. Die Krankenhäuser haben den Zuschlag
+jeweils gesondert in der Rechnung auszuweisen. In den Kalenderjahren
+2025 und 2026 berechnen die in § 17b Absatz 1 Satz 10 des
+Krankenhausfinanzierungsgesetzes genannten besonderen Einrichtungen,
+die im jeweiligen Kalenderjahr aus dem Vergütungssystem ausgenommen
+sind, für die nach Satz 3 maßgeblichen Fälle, die im Zeitraum vom 1.
+Januar des jeweiligen Kalenderjahres bis zum 31. Dezember des
+jeweiligen Kalenderjahres aufgenommen werden, jeweils einen Zuschlag
+in Höhe des nach Satz 5 für das jeweilige Kalenderjahr ermittelten
+Prozentsatzes auf die nach § 6 Absatz 1 Satz 1 vereinbarten fall- oder
+tagesbezogenen Entgelte. Die in Satz 9 genannten Einrichtungen haben
+den Zuschlag jeweils gesondert in der Rechnung auszuweisen.
+
+(3l) Die in § 17b Absatz 1 Satz 10 des
+Krankenhausfinanzierungsgesetzes genannten besonderen Einrichtungen,
+die in einem Kalenderjahr, erstmals in dem Kalenderjahr 2027, aus dem
+Vergütungssystem ausgenommen sind, berechnen für die nach Absatz 3k
+Satz 3 maßgeblichen Fälle, die im Zeitraum vom 1. Januar des
+jeweiligen Kalenderjahres bis zum 31. Dezember des jeweiligen
+Kalenderjahres aufgenommen werden, einen Zuschlag in Höhe des nach
+Absatz 3k Satz 5 für das Kalenderjahr 2026 ermittelten Prozentsatzes
+auf die nach § 6 Absatz 1 Satz 1 vereinbarten fall- oder
+tagesbezogenen Entgelte. Die in Satz 1 genannten Einrichtungen haben
+den Zuschlag jeweils gesondert in der Rechnung auszuweisen.
+
+(3m) Die in § 108 Nummer 1 des Fünften Buches Sozialgesetzbuch
+genannten zugelassenen Krankenhäuser erheben zur Finanzierung ihrer
+speziellen Vorhaltung gegenüber den Patientinnen oder Patienten, die
+ab dem 1. Januar 2027 zur voll- oder teilstationären Behandlung in das
+Krankenhaus aufgenommen werden, oder ihren Kostenträgern einen
+Zuschlag. Der Krankenhausträger ermittelt die Höhe des Zuschlags nach
+Satz 1 in einem Kalenderjahr, indem der für dieses Kalenderjahr vom
+Institut für das Entgeltsystem im Krankenhaus nach § 38 Absatz 2 Satz
+3 des Krankenhausfinanzierungsgesetzes für das jeweilige Krankenhaus
+veröffentlichte Betrag durch die voraussichtliche Summe der voll- und
+teilstationären Fälle des jeweiligen Krankenhauses im jeweiligen
+Kalenderjahr geteilt wird. Weicht die in einem Kalenderjahr
+abgerechnete Summe der Zuschläge nach Satz 1 von dem für das jeweilige
+Krankenhaus und das jeweilige Kalenderjahr nach § 38 Absatz 2 Satz 3
+des Krankenhausfinanzierungsgesetzes veröffentlichten Betrag ab,
+werden die Mehr- oder Mindererlöse über den Zu- oder Abschlag für
+Erlösausgleiche nach Absatz 4 Satz 1 im nächstmöglichen
+Vereinbarungszeitraum vollständig ausgeglichen.
+
 (4) Die Erlösausgleiche nach § 4 Abs. 3 und § 15 Abs. 3 sowie ein
 Unterschiedsbetrag nach § 4 Abs. 5 werden über einen gemeinsamen Zu-
 und Abschlag auf die abgerechnete Höhe der DRG-Fallpauschalen und die
@@ -1416,10 +1559,10 @@ Berücksichtigung der Höhe des Erstattungsbetrags neu zu vereinbaren.
 
 (2a) In eng begrenzten Ausnahmefällen können die Vertragsparteien nach
 § 11 für Leistungen, die den Fallpauschalen und Zusatzentgelten aus
-den Entgeltkatalogen nach § 7 Satz 1 Nr. 1 und 2 zwar zugeordnet, mit
-ihnen jedoch nicht sachgerecht vergütet werden, im Rahmen der
-Erlössumme nach Absatz 3 ein gesondertes Zusatzentgelt vereinbaren,
-wenn
+den Entgeltkatalogen nach § 7 Absatz 1 Satz 1 Nummer 1 und 2 zwar
+zugeordnet, mit ihnen jedoch nicht sachgerecht vergütet werden, im
+Rahmen der Erlössumme nach Absatz 3 ein gesondertes Zusatzentgelt
+vereinbaren, wenn
 
 1.  diese Leistungen auf Grund einer Spezialisierung nur von sehr wenigen
     Krankenhäusern in der Bundesrepublik Deutschland mit überregionalem
@@ -1428,8 +1571,9 @@ wenn
 
 2.  auf Grund der Komplexität der Behandlung die Behandlungskosten, die um
     die vom Pflegebudget nach § 6a erfassten Kosten zu mindern sind, die
-    Höhe der DRG-Vergütung einschließlich der Zusatzentgelte um mindestens
-    50 vom Hundert überschreiten und
+    Höhe der Vergütung eines Vorhaltebudgets und der DRG-Vergütung
+    einschließlich der Zusatzentgelte um mindestens 50 vom Hundert
+    überschreiten und
 
 
 3.  das Krankenhaus sich an den Maßnahmen nach den §§ 136 und 136b des
@@ -1474,15 +1618,25 @@ anderen Vertragsparteien nach § 11 nicht darauf verzichten. Wird eine
 Erhöhungsrate für Tariferhöhungen nach § 9 Absatz 1 Nummer 7
 vereinbart, so ist die von den Vertragsparteien vereinbarte Erlössumme
 um die nach § 9 Absatz 1 Nummer 7 vereinbarte anteilige Erhöhungsrate
-nach § 10 Absatz 5 Satz 5 zu erhöhen, erstmals für das Jahr 2020,
-wobei der Erhöhungsbetrag über das Budget des nächstmöglichen
-Pflegesatzzeitraums abzuwickeln ist; für diese Erhöhung der Erlössumme
-gilt keine Begrenzung durch den Veränderungswert nach § 9 Absatz 1b
-Satz 1. Weichen die tatsächlich eintretenden Erlöse von der
-vereinbarten Erlössumme ab, sind die Mehr- oder Mindererlöse nach den
-Vorgaben des § 4 Abs. 3 zu ermitteln und auszugleichen. Die Erlössumme
-ist insoweit zu vermindern, als sie Pflegepersonalkosten umfasst, die
-über das Pflegebudget nach § 6a finanziert werden.
+nach § 10 Absatz 5 Satz 6 zu erhöhen, erstmals für das Jahr 2020,
+wobei der Erhöhungsbetrag auf Verlangen einer Vertragspartei über das
+Budget des jeweils laufenden Pflegesatzzeitraums und anderenfalls über
+das Budget des nächstmöglichen Pflegesatzzeitraums abzuwickeln ist;
+für diese Erhöhung der Erlössumme gilt keine Begrenzung durch den
+Veränderungswert nach § 9 Absatz 1b Satz 1. Weichen die tatsächlich
+eintretenden Erlöse von der vereinbarten Erlössumme ab, sind die Mehr-
+oder Mindererlöse nach den Vorgaben des § 4 Absatz 3 in der am 11.
+Dezember 2024 geltenden Fassung zu ermitteln und auszugleichen. Die
+Erlössumme ist insoweit zu vermindern, als sie Pflegepersonalkosten
+umfasst, die über das Pflegebudget nach § 6a finanziert werden. Die
+für das Jahr 2025 zu vereinbarende Erlössumme ist unter
+Berücksichtigung des nach § 9 Absatz 1b Satz 1 zweiter Halbsatz
+vereinbarten Veränderungswerts zu vereinbaren; bis zum Ablauf des 11.
+Dezember 2024 getroffene Vereinbarungen über diese Erlössumme sind bis
+zum 12. Februar 2025 entsprechend anzupassen. Als Ausgangsgrundlage
+für die Vereinbarung der Erlössumme für das Jahr 2027 ist die für das
+Jahr 2026 vereinbarte oder festgesetzte Erlössumme um 1,14 Prozent zu
+erhöhen.
 
 (4) Auf Verlangen der besonderen Einrichtung werden Leistungen für
 ausländische Patientinnen und Patienten, die mit dem Ziel einer
@@ -1497,7 +1651,10 @@ Rahmen der Erlössumme vergütet.
 (1) Die Vertragsparteien nach § 11 vereinbaren zur Finanzierung der
 Pflegepersonalkosten nach § 17b Absatz 4 des
 Krankenhausfinanzierungsgesetzes, die dem einzelnen Krankenhaus
-entstehen, ein Pflegebudget. Das Pflegebudget umfasst nicht
+entstehen, ein Pflegebudget; dies gilt nicht für die in § 115g Absatz
+1 Satz 1 des Fünften Buches Sozialgesetzbuch genannten
+sektorenübergreifenden Versorgungseinrichtungen. Das Pflegebudget
+umfasst nicht
 
 1.  die Entgelte, die im Erlösbudget nach § 4 oder in der Erlössumme nach
     § 6 Absatz 3 berücksichtigt werden,
@@ -1576,7 +1733,14 @@ Arbeitnehmerüberlassungsgesetzes, ist der Teil der Vergütungen, der
 über das tarifvertraglich vereinbarte Arbeitsentgelt für das
 Pflegepersonal mit direktem Arbeitsverhältnis mit dem Krankenhaus
 hinausgeht, und damit auch die Zahlung von Vermittlungsentgelten,
-nicht im Pflegebudget zu berücksichtigen.
+nicht im Pflegebudget zu berücksichtigen. Zur Förderung von Maßnahmen,
+die zu einer Entlastung von Pflegepersonal in der unmittelbaren
+Patientenversorgung auf bettenführenden Stationen führen, ist
+erstmalig für die Vereinbarung des Pflegebudgets für das Jahr 2025
+pauschal eine Höhe von 2,5 Prozent des Pflegebudgets erhöhend zu
+berücksichtigen; ein Nachweis über die Durchführung und die Kosten der
+Maßnahmen ist nicht erforderlich. Die Sätze 6 bis 8 sind letztmalig
+für die Vereinbarung des Pflegebudgets für das Jahr 2024 anzuwenden.
 
 (3) Der Krankenhausträger hat vor der Vereinbarung des jeweiligen
 Pflegebudgets den anderen Vertragsparteien nach § 11 Absatz 1 die
@@ -1714,7 +1878,7 @@ infolge der unterjährigen Vereinbarung entsprechend zu erhöhen.
 des Krankenhauses aus den tagesbezogenen Pflegeentgelten nach § 7
 Absatz 1 Satz 1 Nummer 6a von dem vereinbarten Pflegebudget ab, so
 werden Mehr- oder Mindererlöse vollständig ausgeglichen. § 4 Absatz 3
-Satz 7 und 9 ist entsprechend anzuwenden. Der ermittelte
+Satz 8 und 10 ist entsprechend anzuwenden. Der ermittelte
 Ausgleichsbetrag ist über das Pflegebudget für den nächstmöglichen
 Vereinbarungszeitraum abzuwickeln.
 
@@ -1743,6 +1907,391 @@ haben, legen sie hierfür die nach § 17b Absatz 4 Satz 2 des
 Krankenhausfinanzierungsgesetzes vereinbarte Definition der
 auszugliedernden Pflegepersonalkosten und der Zuordnung von Kosten von
 Pflegepersonal für das Vereinbarungsjahr 2021 zugrunde.
+
+
+### § 6b Vergütung eines Vorhaltebudgets
+
+(1) Jedes Krankenhaus erhält ab dem 1. Januar 2027 für jede
+Leistungsgruppe, die ihm nach § 6a Absatz 1 Satz 1 des
+Krankenhausfinanzierungsgesetzes für mindestens einen seiner
+Krankenhausstandorte zugewiesen wurde, ein Vorhaltebudget, wenn das
+jeweilige Krankenhaus für die betreffenden Krankenhausstandorte die
+jeweilige Mindestvorhaltezahl nach § 135f Absatz 1 des Fünften Buches
+Sozialgesetzbuch erfüllt oder für das jeweilige Krankenhaus und die
+jeweilige Leistungsgruppe eine Feststellung nach Absatz 2 Satz 1
+getroffen wurde. Das Vorhaltebudget für ein Krankenhaus und eine
+Leistungsgruppe in einem Kalenderjahr ergibt sich aus der Summe der in
+dem Bescheid gemäß § 37 Absatz 5 Satz 1 des
+Krankenhausfinanzierungsgesetzes für die Standorte des jeweiligen
+Krankenhauses, die jeweilige Leistungsgruppe und das jeweilige
+Kalenderjahr festgestellten, nach § 39 Absatz 3 Satz 5 des
+Krankenhausfinanzierungsgesetzes aufgeteilten Beträge und des Produkts
+der Summe der in dem Bescheid gemäß § 37 Absatz 5 Satz 1 des
+Krankenhausfinanzierungsgesetzes für die Standorte des jeweiligen
+Krankenhauses, die jeweilige Leistungsgruppe und das jeweilige
+Kalenderjahr festgestellten Vorhaltevolumina und des für das jeweilige
+Kalenderjahr vereinbarten oder festgesetzten Landesbasisfallwerts. Das
+Gesamtvorhaltebudget für ein Krankenhaus und ein Kalenderjahr ergibt
+sich aus der Summe der Vorhaltebudgets dieses Krankenhauses im
+jeweiligen Kalenderjahr für die Leistungsgruppen, die ihm nach § 6a
+Absatz 1 Satz 1 des Krankenhausfinanzierungsgesetzes für mindestens
+einen seiner Standorte zugewiesen wurden.
+
+(2) Die für die Krankenhausplanung zuständige Landesbehörde kann durch
+Bescheid feststellen, dass die Erbringung von Leistungen aus einer
+Leistungsgruppe durch ein Krankenhaus unabhängig von der Erfüllung der
+für die jeweilige Leistungsgruppe festgelegten Mindestvorhaltezahl zur
+Sicherstellung einer flächendeckenden Versorgung der Bevölkerung
+zwingend erforderlich ist; § 6a Absatz 4 Satz 2 und 3 des
+Krankenhausfinanzierungsgesetzes gilt entsprechend. Widerspruch und
+Klage gegen die Feststellung nach Satz 1 haben keine aufschiebende
+Wirkung. Die für die Krankenhausplanung zuständige Landesbehörde teilt
+dem Institut für das Entgeltsystem im Krankenhaus, den Landesverbänden
+der Krankenkassen und den Ersatzkassen sowie dem Landesausschuss des
+Verbandes der Privaten Krankenversicherung erstmalig spätestens bis
+zum 31. Oktober 2026 und anschließend jeweils spätestens zum 31.
+Oktober eines Kalenderjahres mit, für welche Krankenhausstandorte und
+für welche Leistungsgruppen für das jeweils nächste Kalenderjahr eine
+Feststellung nach Satz 1 getroffen wurde.
+
+(3) Der Anspruch des Krankenhauses auf ein Vorhaltebudget nach Absatz
+1 Satz 1 ist vorrangig durch die Abrechnung nach § 7 Absatz 1 Satz 1
+Nummer 6b und ergänzend nach den Regelungen der Absätze 4 und 5 zu
+erfüllen.
+
+(4) Wenn die Erlöse des Krankenhauses aus den Entgelten nach § 7
+Absatz 1 Satz 1 Nummer 6b im ersten, im zweiten oder im dritten
+Quartal eines Kalenderjahres ein Viertel des Gesamtvorhaltebudgets
+dieses Krankenhauses für dieses Kalenderjahr voraussichtlich jeweils
+um mindestens 5 Prozent unterschreiten, kann das Krankenhaus
+verlangen, dass die Entgelte nach § 7 Absatz 1 Satz 1 Nummer 6b für
+den Zeitraum der nach dem jeweiligen Quartal verbleibenden Monate
+dieses Kalenderjahres um einen Zuschlag erhöht werden, dessen Höhe dem
+Prozentsatz der jeweiligen Unterschreitung entspricht. Das Krankenhaus
+hat ein Verlangen nach Satz 1
+
+1.  bezogen auf das erste Quartal eines Kalenderjahres bis zum 31. März
+    dieses Kalenderjahres,
+
+
+2.  bezogen auf das zweite Quartal eines Kalenderjahres bis zum 30. Juni
+    dieses Kalenderjahres und
+
+
+3.  bezogen auf das dritte Quartal eines Kalenderjahres bis zum 30.
+    September dieses Kalenderjahres
+
+
+
+gegenüber den anderen Vertragsparteien nach § 18 Absatz 2 des
+Krankenhausfinanzierungsgesetzes, gegenüber dem Landesausschuss des
+Verbandes der Privaten Krankenversicherung sowie gegenüber der für die
+Krankenhausplanung zuständigen Landesbehörde auf elektronischem Wege
+anzuzeigen und die voraussichtliche Unterschreitung nach Satz 1
+hierbei glaubhaft zu machen; § 14 findet keine Anwendung.
+
+(5) Weicht die Summe der Erlöse eines Krankenhauses aus den Entgelten
+nach § 7 Absatz 1 Satz 1 Nummer 6b in einem Kalenderjahr von dem
+Betrag des Gesamtvorhaltebudgets dieses Krankenhauses für dieses
+Kalenderjahr ab, gilt ab dem Kalenderjahr 2027 für den Ausgleich
+dieser Mehr- oder Mindererlöse (Ausgleichsbetrag), dass
+
+1.  Mindererlöse, die entstehen, weil das Krankenhaus nach § 275a Absatz 5
+    Satz 1 des Fünften Buches Sozialgesetzbuch Leistungen nicht abrechnen
+    durfte, nicht ausgeglichen werden,
+
+
+2.  Mehrerlöse, die entstehen, weil das Krankenhaus entgegen § 275a Absatz
+    5 Satz 1 des Fünften Buches Sozialgesetzbuch Leistungen abgerechnet
+    hat, vollständig ausgeglichen werden,
+
+
+3.  sonstige Mehr- oder Mindererlöse vollständig ausgeglichen werden.
+
+
+
+Zur Ermittlung des Ausgleichsbetrags für ein Kalenderjahr bestimmt das
+Krankenhaus bis zum 28. Februar des jeweils folgenden Kalenderjahres
+die Summe der abgerechneten oder abzurechnenden Entgelte nach § 7
+Absatz 1 Satz 1 Nummer 6b für sämtliche Fälle, in denen die Patientin
+oder der Patient bis zum 31. Dezember des jeweiligen Kalenderjahres
+entlassen wurde; noch nicht abgerechnete Entgelte sind vom Krankenhaus
+sachgerecht zu schätzen. Der nach Satz 2 ermittelte Ausgleichsbetrag
+wird in einem Zeitraum von zwölf Wochen nach der Erteilung der
+Genehmigung nach § 14 Absatz 1a durch einen prozentualen Zu- oder
+Abschlag auf die Entgelte nach § 7 Absatz 1 Satz 1 Nummer 6b
+abgerechnet. Das Krankenhaus übermittelt bis zum 28. Februar des
+jeweils folgenden Kalenderjahres die nach Satz 2 bestimmte Summe der
+abgerechneten oder abzurechnenden Entgelte, die Höhe des ermittelten
+Ausgleichsbetrags, die Höhe des sich hieraus ergebenden prozentualen
+Zu- oder Abschlags und den in Satz 3 genannten Zeitraum sowie den
+Bescheid nach § 37 Absatz 5 Satz 1 des
+Krankenhausfinanzierungsgesetzes für das jeweilige Krankenhaus und das
+jeweilige Kalenderjahr an die anderen Vertragsparteien nach § 18
+Absatz 2 des Krankenhausfinanzierungsgesetzes sowie an die für die
+Krankenhausplanung zuständige Landesbehörde auf elektronischem Wege.
+Spätestens mit endgültiger Berechnung des Ausgleichs nach § 4 Absatz 3
+wird auch der Ausgleich nach den Sätzen 1 bis 3 endgültig vereinbart.
+Zur Ermittlung der in Satz 1 genannten Mehr- oder Mindererlöse hat der
+Krankenhausträger den anderen Vertragsparteien nach § 18 Absatz 2 des
+Krankenhausfinanzierungsgesetzes eine von einem Jahresabschlussprüfer
+bestätigte Aufstellung über die Erlöse aus den Entgelten nach § 7
+Absatz 1 Satz 1 Nummer 6b vorzulegen.
+
+(6) Die Vertragsparteien nach § 11 ermitteln für das jeweilige
+Krankenhaus und für jedes der Kalenderjahre 2027 und 2028 einen
+Konvergenzbetrag nach Maßgabe der Sätze 2 bis 4. Der Konvergenzbetrag
+beträgt unter Beachtung des jeweiligen Vorzeichens für das
+Kalenderjahr 2027 66 Prozent und für das Kalenderjahr 2028 33 Prozent
+der Differenz zwischen dem in Satz 3 genannten Ausgangswert und dem in
+Satz 4 genannten Zielwert. Der Ausgangswert für ein Kalenderjahr
+ergibt sich als Produkt der Summe der für das Kalenderjahr 2026 für
+das jeweilige Krankenhaus vereinbarten und genehmigten
+Vorhaltebewertungsrelationen und des für das jeweilige Kalenderjahr
+vereinbarten oder festgesetzten Landesbasisfallwerts. Der Zielwert für
+das jeweilige Kalenderjahr ist das für das jeweilige Kalenderjahr nach
+Absatz 1 Satz 3 ermittelte Gesamtvorhaltebudget des jeweiligen
+Krankenhauses abzüglich der Summe aller in dem Bescheid gemäß § 37
+Absatz 5 Satz 1 des Krankenhausfinanzierungsgesetzes für die Standorte
+des jeweiligen Krankenhauses und das jeweilige Kalenderjahr
+festgestellten, nach § 39 Absatz 3 Satz 5 des
+Krankenhausfinanzierungsgesetzes aufgeteilten Beträge. Der nach Satz 1
+ermittelte Konvergenzbetrag wird jeweils über einen prozentualen Zu-
+oder Abschlag auf die Entgelte nach § 7 Absatz 1 Satz 1 Nummer 6b
+abgerechnet. Spätestens mit endgültiger Berechnung des Ausgleichs nach
+§ 4 Absatz 3 wird auch der Ausgleich nach den Sätzen 1 bis 5 endgültig
+vereinbart. Zur Ermittlung der Mehr- oder Mindererlöse, die sich aus
+der jeweiligen in Satz 2 genannten Differenz zwischen dem jeweiligen
+Ausgangswert und dem jeweiligen Zielwert ergeben, hat der
+Krankenhausträger den anderen Vertragsparteien nach § 11 eine vom
+Jahresabschlussprüfer bestätigte Aufstellung über die Erlöse aus den
+Entgelten nach § 7 Absatz 1 Satz 1 Nummer 6b vorzulegen.
+
+
+### § 6c Vergütung von sektorenübergreifenden Versorgungseinrichtungen
+
+(1) Die Vertragsparteien nach § 11 vereinbaren für die nach § 115g
+Absatz 3 Satz 1 Nummer 1 bis 3 des Fünften Buches Sozialgesetzbuch
+vereinbarten stationären Leistungen einer in § 115g Absatz 1 Satz 1
+des Fünften Buches Sozialgesetzbuch genannten sektorenübergreifenden
+Versorgungseinrichtung unter Beachtung des Versorgungsauftrags dieser
+sektorenübergreifenden Versorgungseinrichtung, der Ergebnisse der
+Prüfungen nach § 275a Absatz 1 Satz 1 Nummer 2 des Fünften Buches
+Sozialgesetzbuch sowie der Vereinbarung nach § 9 Absatz 1 Nummer 10
+ein finanzielles Gesamtvolumen (Gesamtvolumen); § 18 Absatz 1 Satz 2
+bis 4 des Krankenhausfinanzierungsgesetzes gilt für diese Vereinbarung
+entsprechend. Die Vertragsparteien nach § 11 vereinbaren in der
+Vereinbarung nach Satz 1 insbesondere
+
+1.  Art und Menge der voraussichtlich zu erbringenden voll- und
+    teilstationären Leistungen,
+
+
+1a. die Höhe des Gesamtvolumens,
+
+
+2.  ein krankenhausindividuelles Tagesentgelt für diejenigen Fälle, in
+    denen die sektorenübergreifende Versorgungseinrichtung die ärztlichen
+    Leistungen erbringt, und dessen Degression,
+
+
+3.  ein verringertes krankenhausindividuelles Tagesentgelt für diejenigen
+    Fälle, in denen die ärztlichen Leistungen durch einen zur
+    vertragsärztlichen Versorgung zugelassenen Leistungserbringer erbracht
+    werden, und dessen Degression,
+
+
+4.  weitere krankenhausindividuelle Tagesentgelte mit Degression, soweit
+    dies für eine sachgerechte Vergütung erforderlich ist, einschließlich
+    eines krankenhausindividuellen Tagesentgelts mit Degression für
+    diejenigen Fälle, in denen die ärztlichen Leistungen teils durch die
+    sektorenübergreifende Versorgungseinrichtung und teils durch einen zur
+    vertragsärztlichen Versorgung zugelassenen Leistungserbringer erbracht
+    werden,
+
+
+5.  die sachgerechte Aufteilung des Gesamtvolumens auf die in den Nummern
+    2 bis 4 genannten Tagesentgelte,
+
+
+6.  die Höhe der Pflegepersonalkosten für die unmittelbare
+    Patientenversorgung auf bettenführenden Stationen und den Anteil
+    dieser Pflegepersonalkosten an dem Gesamtvolumen sowie
+
+
+7.  die Mehr- und Mindererlösausgleiche nach Absatz 5.
+
+
+
+Die Vereinbarung nach Satz 1 ist für ein zukünftiges Kalenderjahr zu
+schließen, wenn der Krankenhausstandort ganzjährig betrieben wird, und
+kann mehrere Kalenderjahre umfassen; § 11 Absatz 1 Satz 3 und 4 erster
+Halbsatz gilt entsprechend. Die Vereinbarung nach Satz 1 ist
+schriftlich oder elektronisch abzuschließen und unter Verwendung der
+nach § 9 Absatz 1 Nummer 10 vereinbarten vorzulegenden Unterlagen auf
+maschinenlesbaren Datenträgern zu dokumentieren. Die Vertragsparteien
+nehmen die Verhandlung über eine Vereinbarung nach Satz 1 unverzüglich
+auf, nachdem eine Vertragspartei sie dazu schriftlich oder
+elektronisch aufgefordert hat. Die Verhandlung soll so rechtzeitig
+abgeschlossen werden, dass das neue Gesamtvolumen und die neuen
+krankenhausindividuellen Tagesentgelte mit Ablauf des Kalenderjahres,
+das dem Kalenderjahr vorausgeht, für das die Vereinbarung gelten soll,
+in Kraft treten können; die Verhandlung ist innerhalb von sechs Wochen
+nach der in Satz 5 genannten Aufforderung abzuschließen.
+
+(2) Das Gesamtvolumen ist von den Vertragsparteien nach § 11
+sachgerecht zu kalkulieren. Bei der Kalkulation des Gesamtvolumens
+sind Art und Menge der in Absatz 1 Satz 2 Nummer 1 genannten
+voraussichtlich zu erbringenden Leistungen der jeweiligen
+sektorenübergreifenden Versorgungseinrichtung und die Kosten, die
+diesen Leistungen zuzuordnen sind, einschließlich der in Satz 4
+genannten Pflegepersonalkosten sowie der Kosten für das stationäre
+Case-Management und die Patientensteuerung zu berücksichtigen. Die in
+Satz 2 genannten Leistungen und deren Kosten der jeweiligen
+sektorenübergreifenden Versorgungseinrichtung sind von anderen
+Leistungen und deren Kosten der jeweiligen sektorenübergreifenden
+Versorgungseinrichtung, die anderweitig finanziert werden,
+abzugrenzen. Die Pflegepersonalkosten für die unmittelbare
+Patientenversorgung auf bettenführenden Stationen sind auf der
+Grundlage der Summe der im jeweiligen vorhergehenden Kalenderjahr
+entstandenen Pflegepersonalkosten, die der bundeseinheitlichen
+Definition der auszugliedernden Pflegepersonalkosten und den
+Regelungen für die Zuordnung von Kosten von Pflegepersonal
+entsprechen, die nach § 17b Absatz 4 Satz 2 des
+Krankenhausfinanzierungsgesetzes für das jeweilige Kalenderjahr
+vereinbart wurden, für das die Vereinbarung nach Absatz 1 Satz 1
+gelten soll, und unter Berücksichtigung der für das jeweilige
+Kalenderjahr zu erwartenden Veränderungen gegenüber dem jeweiligen
+vorhergehenden Kalenderjahr, insbesondere bei der Zahl und der
+beruflichen Qualifikation der Pflegevollkräfte sowie bei der
+Kostenentwicklung, zu ermitteln und vollständig im Gesamtvolumen zu
+berücksichtigen. Zu- und Abschläge sind gemäß den Vorgaben der
+Vereinbarung nach § 9 Absatz 1 Nummer 10 bei der Kalkulation des
+Gesamtvolumens erhöhend oder mindernd zu berücksichtigen. Weichen in
+einem Kalenderjahr die tatsächlichen Pflegepersonalkosten für die
+unmittelbare Patientenversorgung auf bettenführenden Stationen von den
+nach Satz 4 ermittelten und nach Absatz 1 Satz 2 Nummer 6 für das
+jeweilige Kalenderjahr vereinbarten Pflegepersonalkosten ab, sind die
+Mehr- oder Minderkosten bei der Vereinbarung des Gesamtvolumens für
+das auf dieses Kalenderjahr folgende Kalenderjahr zu berücksichtigen.
+
+(3) Die nach Absatz 1 Satz 2 Nummer 2 bis 4 vereinbarten
+krankenhausindividuellen Tagesentgelte und die in Absatz 7 Satz 4
+genannten vorläufigen Tagesentgelte sind für den Tag zu erheben, an
+dem die Behandlung erbracht wurde. Bei Patientinnen und Patienten, die
+über den Jahreswechsel in einer sektorenübergreifenden
+Versorgungseinrichtung stationär behandelt werden (Überlieger), werden
+die Erlöse aus den in Satz 1 genannten Tagesentgelten tagesbezogen dem
+jeweiligen Kalenderjahr zugeordnet, in dem die durch das jeweilige
+Tagesentgelt vergütete Behandlung erbracht wurde. Für das
+Gesamtvolumen gilt § 4 Absatz 4 entsprechend. Das Gesamtvolumen für
+ein Kalenderjahrjahr darf den Betrag, der sich ergibt, wenn das
+Gesamtvolumen des diesem Kalenderjahr vorangegangenen Kalenderjahres
+um den nach § 9 Absatz 1b Satz 1 erster Halbsatz für das jeweilige
+Kalenderjahr vereinbarten Veränderungswert erhöht wird, nur
+überschreiten, soweit diese Überschreitung durch eine Steigerung der
+nach Absatz 2 Satz 4 ermittelten Pflegepersonalkosten bedingt ist oder
+durch Veränderungen von der nach Absatz 1 Satz 2 Nummer 1 zu
+vereinbarenden Art und Menge der voraussichtlich zu erbringenden voll-
+und teilstationären Leistungen bedingt ist. Wird für ein Kalenderjahr
+eine Erhöhungsrate für Tariferhöhungen nach § 9 Absatz 1 Nummer 7
+vereinbart, so ist das Gesamtvolumen dieses Kalenderjahres um die nach
+§ 9 Absatz 1 Nummer 7 vereinbarte anteilige Erhöhungsrate zu erhöhen;
+für diese Erhöhung des Gesamtvolumens gilt keine Begrenzung durch den
+nach § 9 Absatz 1b Satz 1 erster Halbsatz vereinbarten
+Veränderungswert.
+
+(4) Krankenhäuser dürfen für die von ihren sektorenübergreifenden
+Versorgungseinrichtungen erbrachten voll- und teilstationären
+Leistungen ausschließlich die nach Absatz 1 Satz 2 Nummer 2 bis 4
+vereinbarten krankenhausindividuellen Tagesentgelte oder die in Absatz
+7 Satz 4 genannten vorläufigen Tagesentgelte abrechnen.
+
+(5) Weicht die Summe der auf ein Kalenderjahr entfallenden Erlöse der
+sektorenübergreifenden Versorgungseinrichtung aus den nach Absatz 1
+Satz 2 Nummer 2 bis 4 vereinbarten krankenhausindividuellen
+Tagesentgelten von dem für dieses Kalenderjahr vereinbarten
+Gesamtvolumen ab, werden die Mehr- oder Mindererlöse wie folgt
+ausgeglichen:
+
+1.  Mehr- oder Mindererlöse, soweit sie den nach Absatz 1 Satz 2 Nummer 6
+    vereinbarten Pflegepersonalkosten für die unmittelbare
+    Patientenversorgung auf bettenführenden Stationen zuzuordnen sind,
+    werden vollständig ausgeglichen,
+
+
+2.  andere Mindererlöse werden zu 40 Prozent ausgeglichen,
+
+
+3.  andere Mehrerlöse werden zu 65 Prozent ausgeglichen.
+
+
+
+Für den Ausgleich der Mehr- oder Mindererlöse sind die Erlöse der
+sektorenübergreifenden Versorgungseinrichtung aus den nach Absatz 1
+Satz 2 Nummer 2 bis 4 vereinbarten krankenhausindividuellen
+Tagesentgelten den Pflegepersonalkosten für die unmittelbare
+Patientenversorgung auf bettenführenden Stationen gemäß ihrem nach
+Absatz 1 Satz 2 Nummer 6 vereinbarten Anteil am Gesamtvolumen
+zuzuordnen. Der nach den Sätzen 1 und 2 auszugleichende Betrag ist im
+Rahmen der jeweils nächstmöglichen Vereinbarung nach Absatz 1 Satz 1
+durch eine entsprechende Erhöhung oder Absenkung des Gesamtvolumens
+auszugleichen. Mehr- oder Mindererlöse infolge der Weitererhebung
+bisheriger krankenhausindividueller Tagesentgelte nach Absatz 7 Satz 3
+oder vorläufiger Tagesentgelte nach Absatz 7 Satz 4 sind vollständig
+im verbleibenden Kalenderjahr auszugleichen, indem sie bei der
+Vereinbarung des Gesamtvolumens erhöhend oder absenkend berücksichtigt
+werden. Zur Ermittlung der Mehr- oder Mindererlöse für ein
+Kalenderjahr hat der Krankenhausträger der sektorenübergreifenden
+Versorgungseinrichtung nach Ablauf dieses Kalenderjahres für dieses
+Kalenderjahr eine von einem Jahresabschlussprüfer bestätigte
+Aufstellung über die Erlöse aus den nach Absatz 1 Satz 2 Nummer 2 bis
+4 vereinbarten krankenhausindividuellen Tagesentgelten oder den in
+Absatz 7 Satz 4 genannten vorläufigen Tagesentgelten sowie über die
+tatsächlich entstandenen Pflegepersonalkosten für die unmittelbare
+Patientenversorgung auf bettenführenden Stationen vorzulegen.
+
+(6) Auf Verlangen einer Vertragspartei ist bei wesentlichen Änderungen
+der der Vereinbarung des Gesamtvolumens nach Absatz 1 Satz 1 für das
+laufende Kalenderjahr zugrunde gelegten Annahmen das Gesamtvolumen,
+einschließlich der weiteren nach Absatz 1 Satz 2 in der Vereinbarung
+zu vereinbarenden Inhalte, für dieses laufende Kalenderjahr neu nach
+Absatz 1 Satz 1 zu vereinbaren. Die Vertragsparteien können
+vereinbaren, dass in bestimmten Fällen das Gesamtvolumen,
+einschließlich der weiteren nach Absatz 1 Satz 2 in der Vereinbarung
+zu vereinbarenden Inhalte, abweichend von Satz 1 nur teilweise neu zu
+vereinbaren ist. Der Unterschiedsbetrag zum bisherigen Gesamtvolumen
+ist vollständig im verbleibenden Kalenderjahr auszugleichen, indem er
+nach der Vereinbarung des neuen Gesamtvolumens durch die
+Vertragsparteien festgestellt wird und über eine Erhöhung oder
+Absenkung des neuen Gesamtvolumens berücksichtigt wird.
+
+(7) Krankenhäuser rechnen für ihre sektorenübergreifenden
+Versorgungseinrichtungen die für ein Kalenderjahr nach Absatz 1 Satz 2
+Nummer 2 bis 4 vereinbarten krankenhausindividuellen Tagesentgelte vom
+Beginn dieses Kalenderjahres an ab. Wird eine Vereinbarung nach Absatz
+1 Satz 1 erst nach dem Beginn eines Kalenderjahres genehmigt, rechnet
+das Krankenhaus für seine sektorenübergreifenden
+Versorgungseinrichtungen die krankenhausindividuellen Tagesentgelte ab
+dem ersten Tag des Kalendermonats ab, der auf die Genehmigung folgt,
+soweit in dieser Vereinbarung oder in der von der Schiedsstelle
+anstelle oder teilweise anstelle dieser Vereinbarung nach § 18 Absatz
+4 des Krankenhausfinanzierungsgesetzes getroffenen Entscheidung kein
+anderer Zeitpunkt bestimmt ist. Bis zu dem nach Satz 2 maßgeblichen
+Zeitpunkt rechnet das Krankenhaus für seine sektorenübergreifenden
+Versorgungseinrichtungen die für das vorangegangene Kalenderjahr
+vereinbarten krankenhausindividuellen Tagesentgelte weiter ab. Bis zu
+dem Zeitpunkt, zu dem erstmals krankenhausindividuelle Tagesentgelte
+nach Absatz 1 Satz 2 Nummer 2 bis 4 vereinbart und genehmigt werden,
+rechnet das Krankenhaus für seine sektorenübergreifenden
+Versorgungseinrichtungen die nach § 9 Absatz 1 Nummer 10 vereinbarten
+vorläufigen Tagesentgelte ab. Wird ein Krankenhausstandort erstmals
+nach § 6c Absatz 1 Satz 1 des Krankenhausfinanzierungsgesetzes als
+sektorenübergreifende Versorgungseinrichtung bestimmt, kann das
+Krankenhaus für diese sektorenübergreifende Versorgungseinrichtung
+krankenhausindividuelle Tagesentgelte oder vorläufige Tagesentgelte
+erstmals ab dem 1. Januar des Kalenderjahres, das dem Kalenderjahr
+folgt, in dem die Bestimmung erfolgte, abrechnen.
 
 
 ## Abschnitt 3 - Entgeltarten und Abrechnung
@@ -1785,7 +2334,15 @@ abgerechnet:
     6a,
 
 
-7.  Pflegezuschlag nach § 8 Absatz 10.
+6b. ab 2027 eine Vergütung des Vorhaltebudgets nach § 6b,
+
+
+7.  Pflegezuschlag nach § 8 Absatz 10,
+
+
+8.  nach § 6c Absatz 1 Satz 2 Nummer 2 bis 4 vereinbarte
+    krankenhausindividuelle Tagesentgelte oder in § 6c Absatz 7 Satz 4
+    genannte vorläufige Tagesentgelte.
 
 
 
@@ -1799,32 +2356,44 @@ Verbindung mit § 139c des Fünften Buches Sozialgesetzbuch und der
 Telematikzuschlag nach § 377 Absatz 1 und 2 des Fünften Buches
 Sozialgesetzbuch abgerechnet.
 
-(2) Die Höhe der Entgelte nach Absatz 1 Satz 1 wird wie folgt
-ermittelt:
-
-1.  Fallpauschalen nach Absatz 1 Satz 1 Nr. 1; die sich aus dem
-    bundeseinheitlichen Entgeltkatalog ergebende Bewertungsrelation
-    einschließlich der Regelungen zur Grenzverweildauer und zu Verlegungen
-    (effektive Bewertungsrelation) wird mit dem Landesbasisfallwert
-    multipliziert;
-
-
-2.  Zusatzentgelte nach Absatz 1 Satz 1 Nr. 2; die bundeseinheitliche
-    Entgelthöhe wird dem Entgeltkatalog entnommen;
-
-
-3.  Fallpauschalen, Zusatzentgelte und tagesbezogene Entgelte nach Absatz
-    1 Satz 1 Nummer 3, 5, 6 und 6a; die Entgelte sind in der nach den §§ 6
-    und 6a krankenhausindividuell vereinbarten Höhe abzurechnen;
-
-
-4.  Zu- und Abschläge nach Absatz 1 Satz 1 Nr. 4; die Zu- und Abschläge
-    werden krankenhausindividuell vereinbart.
-
-
-
-Die auf der Bundesebene vereinbarten Abrechnungsbestimmungen nach § 9
-Abs. 1 Satz 1 Nr. 3 sind anzuwenden.
+(2) Die Höhe der Entgelte nach Absatz 1 Satz 1 wird nach den folgenden
+Sätzen ermittelt. Die Höhe der Fallpauschalen nach Absatz 1 Satz 1
+Nummer 1 ergibt sich, indem die sich aus dem bundeseinheitlichen
+Entgeltkatalog einschließlich der Regelungen zur Grenzverweildauer und
+zu Verlegungen ergebende Bewertungsrelation (effektive
+Bewertungsrelation) mit dem Landesbasisfallwert multipliziert wird. Im
+Jahr 2026 umfasst die effektive Bewertungsrelation auch die sich aus
+dem bundeseinheitlichen Entgeltkatalog ergebende
+Vorhaltebewertungsrelation. Die Höhe der Zusatzentgelte nach Absatz 1
+Satz 1 Nummer 2 ergibt sich bundeseinheitlich aus dem Entgeltkatalog.
+Zusatzentgelte, fall- oder tagesbezogene Entgelte und tagesbezogene
+Pflegeentgelte nach Absatz 1 Satz 1 Nummer 3, 5, 6 und 6a sind in der
+nach den §§ 6 und 6a krankenhausindividuell vereinbarten Höhe
+abzurechnen. Zu- und Abschläge nach Absatz 1 Satz 1 Nummer 4 werden
+krankenhausindividuell vereinbart; die Höhe des Zuschlags nach § 6b
+Absatz 4 Satz 1 entspricht dem Prozentsatz der jeweiligen
+Unterschreitung. Die Höhe der Vergütung des Vorhaltebudgets nach
+Absatz 1 Satz 1 Nummer 6b ergibt sich, indem die sich aus dem
+bundeseinheitlichen Entgeltkatalog ergebende
+Vorhaltebewertungsrelation mit dem Landesbasisfallwert multipliziert
+wird. Im Fall des § 6b Absatz 4 Satz 1 werden die Entgelte nach Absatz
+1 Satz 1 Nummer 6b für den Zeitraum der nach dem jeweiligen Quartal
+verbleibenden Monate des betreffenden Kalenderjahres um einen Zuschlag
+erhöht, dessen Höhe dem Prozentsatz der jeweiligen Unterschreitung
+entspricht. Abweichend von Satz 7 erster Halbsatz sind für die
+Ermittlung der Vergütung des Vorhaltebudgets nach Absatz 1 Satz 1
+Nummer 6b hinsichtlich derjenigen Krankenhausstandorte, auf die ein
+Betrag nach § 39 Absatz 1 des Krankenhausfinanzierungsgesetzes
+aufgeteilt wurde, für die Fälle, in denen Leistungen aus einer
+Leistungsgruppe erbracht wurden, die dem für diese Aufteilung
+maßgeblichen Bereich nach § 39 Absatz 2 des
+Krankenhausfinanzierungsgesetzes zugeordnet wurden, die nach § 17b
+Absatz 4b Satz 5 des Krankenhausfinanzierungsgesetzes erhöhten
+Vorhaltebewertungsrelationen mit dem Landesbasisfallwert zu
+multiplizieren. Tagesentgelte nach Absatz 1 Satz 1 Nummer 8 werden
+unter Berücksichtigung der für sie geltenden Degression tagesbezogen
+berechnet. Die auf der Bundesebene nach § 9 Absatz 1 Satz 1 Nummer 3
+und 10 vereinbarten Abrechnungsbestimmungen sind anzuwenden.
 
 
 ### § 8 Berechnung der Entgelte
@@ -1853,16 +2422,21 @@ Krankenhauses ergibt sich
     Sozialgesetzbuch,
 
 
-3.  bei anderen Krankenhäusern aus dem Versorgungsvertrag nach § 108 Nr. 3
+3.  bei Bundeswehrkrankenhäusern aus der in § 108 Nummer 4 des Fünften
+    Buches Sozialgesetzbuch genannten Bestimmung,
+
+
+4.  bei anderen Krankenhäusern aus dem Versorgungsvertrag nach § 108 Nr. 3
     des Fünften Buches Sozialgesetzbuch.
 
 
 
 
-(2) Fallpauschalen werden für die Behandlungsfälle berechnet, die in
-dem Fallpauschalen-Katalog nach § 9 Abs. 1 Satz 1 Nr. 1 bestimmt sind.
-Für die Patienten von Belegärzten werden gesonderte Fallpauschalen
-berechnet. Zusätzlich zu einer Fallpauschale dürfen berechnet werden:
+(2) Fallpauschalen sowie die Vergütung eines Vorhaltebudgets werden
+für die Behandlungsfälle berechnet, die in dem Fallpauschalen-Katalog
+nach § 9 Abs. 1 Satz 1 Nr. 1 bestimmt sind. Für die Patienten von
+Belegärzten werden gesonderte Fallpauschalen berechnet. Zusätzlich zu
+einer Fallpauschale dürfen berechnet werden:
 
 1.  Zusatzentgelte nach dem Katalog nach § 9 Abs. 1 Satz 1 Nr. 2 oder nach
     § 6 Abs. 1 bis 2a, insbesondere für die Behandlung von Blutern mit
@@ -1912,9 +2486,29 @@ Sozialgesetzbuch nicht erfüllt, soweit kein Ausnahmetatbestand nach §
 werden kann oder keine berechtigte mengenmäßige Erwartung nach § 136b
 Absatz 5 des Fünften Buches Sozialgesetzbuch nachgewiesen wird. Ferner
 dürfen Entgelte für Leistungen nicht berechnet werden, wenn die
-Prüfung nach § 275d des Fünften Buches Sozialgesetzbuch ergibt, dass
-die für die Leistungserbringung maßgeblichen Strukturmerkmale nicht
-erfüllt werden.
+Prüfung nach § 275a Absatz 1 Satz 1 Nummer 2 des Fünften Buches
+Sozialgesetzbuch ergibt, dass die für die Leistungserbringung
+maßgeblichen Strukturmerkmale nicht erfüllt werden. Ab dem 1. Januar
+2027 dürfen Entgelte nicht für Leistungen aus einer Leistungsgruppe
+berechnet werden, die einem Krankenhaus nicht nach § 6a Absatz 1 Satz
+1 des Krankenhausfinanzierungsgesetzes zugewiesen wurde; dies gilt
+nicht für die Behandlung von Notfallpatienten. Entgelte nach § 7
+Absatz 1 Satz 1 Nummer 6b dürfen ab dem 1. Januar 2027 nicht für
+Leistungen aus einer Leistungsgruppe berechnet werden, wenn das
+jeweilige Krankenhaus für diese Leistungsgruppe die
+Mindestvorhaltezahl im Sinne des § 135f Absatz 1 Satz 1 des Fünften
+Buches Sozialgesetzbuch nicht erfüllt und die für die
+Krankenhausplanung zuständige Landesbehörde keine Feststellung nach §
+6b Absatz 2 Satz 1 getroffen hat. Ab dem 1. Januar 2027 dürfen für
+Krankenhausstandorte, die in der nach § 40 Absatz 2 Satz 3 des
+Krankenhausfinanzierungsgesetzes veröffentlichten Liste genannt sind,
+für einem nach § 40 Absatz 1 Satz 3 des
+Krankenhausfinanzierungsgesetzes definierten Indikationsbereich
+zugeordnete Fälle Entgelte nach § 7 Absatz 1 Satz 1 Nummer 1 bis 6 und
+8 nicht berechnet werden; für die Zuordnung von Fällen zu diesen
+Indikationsbereichen haben die Krankenhäuser ausschließlich nach § 40
+Absatz 1 Satz 6 des Krankenhausfinanzierungsgesetzes zertifizierte
+Datenverarbeitungslösungen zu verwenden.
 
 (5) Werden Patientinnen oder Patienten, für die eine Fallpauschale
 abrechenbar ist, wegen einer Komplikation im Zusammenhang mit der
@@ -1928,10 +2522,10 @@ Krankenhausfinanzierungsgesetzes. In anderen als den vertraglich oder
 gesetzlich bestimmten Fällen ist eine Fallzusammenführung insbesondere
 aus Gründen des Wirtschaftlichkeitsgebots nicht zulässig.
 
-(6) Werden die mit einer Fallpauschale vergüteten Leistungen ohne
-Verlegung des Patienten durch mehrere Krankenhäuser erbracht, wird die
-Fallpauschale durch das Krankenhaus berechnet, das den Patienten
-stationär aufgenommen hat.
+(6) Werden die mit einem Entgelt vergüteten Leistungen ohne Verlegung
+des Patienten durch mehrere Krankenhäuser erbracht, wird das Entgelt
+durch das Krankenhaus berechnet, das den Patienten stationär
+aufgenommen hat.
 
 (7) Das Krankenhaus kann eine angemessene Vorauszahlung verlangen,
 wenn und soweit ein Krankenversicherungsschutz nicht nachgewiesen
@@ -1952,12 +2546,13 @@ geben, es sei denn, der Patient ist in vollem Umfang für
 Krankenhausbehandlung versichert. Im Übrigen kann jeder Patient
 verlangen, dass ihm unverbindlich die voraussichtlich abzurechnende
 Fallpauschale und deren Höhe sowie voraussichtlich zu zahlende,
-ergänzende Entgelte mitgeteilt werden. Stehen bei der Aufnahme eines
-selbstzahlenden Patienten die Entgelte noch nicht endgültig fest, ist
-hierauf hinzuweisen. Dabei ist mitzuteilen, dass das zu zahlende
-Entgelt sich erhöht, wenn das neue Entgelt während der stationären
-Behandlung des Patienten in Kraft tritt. Die voraussichtliche Erhöhung
-ist anzugeben.
+ergänzende Entgelte oder die voraussichtlich abzurechnenden
+krankenhausindividuellen oder vorläufigen Tagesentgelte mitgeteilt
+werden. Stehen bei der Aufnahme eines selbstzahlenden Patienten die
+Entgelte noch nicht endgültig fest, ist hierauf hinzuweisen. Dabei ist
+mitzuteilen, dass das zu zahlende Entgelt sich erhöht, wenn das neue
+Entgelt während der stationären Behandlung des Patienten in Kraft
+tritt. Die voraussichtliche Erhöhung ist anzugeben.
 
 (9) Die Rechnungen des Krankenhauses für selbstzahlende Patientinnen
 oder selbstzahlende Patienten sind in einer verständlichen und
@@ -2016,12 +2611,33 @@ jeweiligen Land. § 5 Absatz 4 Satz 5, § 11 Absatz 4 Satz 3 und 4 sowie
 Patientinnen oder Patienten abzurechnen, die vor dem 1. Januar 2020
 zur vollstationären Behandlung in das Krankenhaus aufgenommen werden.
 
-(11) Das Krankenhaus berechnet bei Patientinnen und Patienten, die im
-Zeitraum vom 1. Mai 2020 bis zum 31. Dezember 2020 zur voll- oder
-teilstationären Krankenhausbehandlung in das Krankenhaus aufgenommen
-werden, einen Zuschlag in Höhe von 0,42 Prozent des Rechnungsbetrags
-und weist diesen gesondert in der Rechnung aus. Der Zuschlag wird bei
-der Ermittlung der Erlösausgleiche nicht berücksichtigt.
+(11) Das Krankenhaus berechnet abweichend von Absatz 1 Satz 1 erster
+Halbsatz bei Patientinnen und Patienten, die in der gesetzlichen
+Krankenversicherung versichert sind und im Zeitraum vom 1. November
+2025 bis zum 31. Oktober 2026 zur voll- oder teilstationären
+Behandlung in das Krankenhaus aufgenommen werden, einen Zuschlag in
+Höhe von 3,25 Prozent des Rechnungsbetrags und weist diesen gesondert
+in der Rechnung aus. Der Zuschlag wird bei der Ermittlung der
+Erlösausgleiche nicht berücksichtigt.
+
+(12) Ab dem 1. Januar 2027 ist für ein Krankenhaus, dem für mindestens
+einen seiner Krankenhausstandorte nach § 6a Absatz 1 Satz 1 des
+Krankenhausfinanzierungsgesetzes für das jeweilige Kalenderjahr
+mindestens eine Leistungsgruppe zugewiesen wurde, die in der für das
+jeweilige Kalenderjahr geltenden Vereinbarung nach § 39 Absatz 2 Satz
+2 des Krankenhausfinanzierungsgesetzes oder in der für das jeweilige
+Kalenderjahr geltenden Festlegung nach § 39 Absatz 2 Satz 4 des
+Krankenhausfinanzierungsgesetzes dem Bereich Pädiatrie zugeordnet ist,
+für Fälle, die auf Basis einer für das jeweilige Kalenderjahr
+geltenden nach § 21 Absatz 3c zertifizierten Datenverarbeitungslösung
+einer dieser Leistungsgruppen zuzuordnen sind, die Erhebung von
+Abschlägen von der Fallpauschale bei Unterschreitung der unteren
+Grenzverweildauer ausgeschlossen unabhängig davon, ob für die
+entsprechende Fallpauschale in dem für das jeweilige Kalenderjahr nach
+§ 9 Absatz 1 Satz 1 Nummer 1 vereinbarten Fallpauschalen-Katalog und
+den nach § 9 Absatz 1 Satz 1 Nummer 1 vereinbarten Regelungen ein
+Abschlag bei Unterschreitung der unteren Grenzverweildauer für die
+jeweilige Fallpauschale vorgesehen ist.
 
 
 ## Abschnitt 4 - Vereinbarungsverfahren
@@ -2107,7 +2723,61 @@ für die Vertragsparteien nach § 11 insbesondere
     301 Absatz 2 Satz 2 des Fünften Buches Sozialgesetzbuch, die zu
     streichen sind, da sie nach Einführung des Pflegebudgets nach § 6a für
     das Vergütungssystem nach § 17b des Krankenhausfinanzierungsgesetzes
-    nicht mehr benötigt werden.
+    nicht mehr benötigt werden,
+
+
+10. innerhalb von drei Monaten nach Zustandekommen einer Vereinbarung nach
+    § 115g Absatz 3 Satz 1 des Fünften Buches Sozialgesetzbuch oder, in
+    dem in § 115g Absatz 3 Satz 3 des Fünften Buches Sozialgesetzbuch
+    genannten Fall, nach der dort genannten Festlegung nähere
+    Einzelheiten, insbesondere
+
+    a)  zur Verhandlung des nach § 6c Absatz 1 Satz 1 zu vereinbarenden
+        Gesamtvolumens,
+
+
+    b)  zu den nach § 6c Absatz 1 Satz 2 Nummer 2 bis 4 zu vereinbarenden
+        krankenhausindividuellen Tagesentgelten, einschließlich deren
+        Degression,
+
+
+    c)  zu der nach § 6c Absatz 1 Satz 2 Nummer 5 zu vereinbarenden
+        sachgerechten Aufteilung,
+
+
+    d)  zu den nach § 6c Absatz 1 Satz 2 Nummer 1, 6 und 7 zu vereinbarenden
+        Inhalten,
+
+
+    e)  zu den vom Krankenhaus zur Vorbereitung der in Buchstabe a genannten
+        Verhandlung vorzulegenden Unterlagen,
+
+
+    f)  zu den wesentlichen Rechengrößen zur Herleitung der nach § 6c Absatz 2
+        Satz 2 zu berücksichtigenden Kosten einschließlich der bei der
+        Kalkulation des Gesamtvolumens nach § 6c Absatz 2 Satz 1 zu
+        berücksichtigenden Zu- und Abschläge,
+
+
+    g)  zu einer einheitlichen Form der Dokumentation der Höhe des nach § 6c
+        Absatz 1 Satz 1 zu vereinbarenden Gesamtvolumens, der nach § 6c Absatz
+        1 Satz 2 Nummer 2 bis 4 zu vereinbarenden krankenhausindividuellen
+        Tagesentgelte, der nach § 6c Absatz 2 Satz 2 zu berücksichtigenden
+        Kosten und der in Buchstabe f genannten wesentlichen Rechengrößen,
+
+
+    h)  Regelungen zur unterjährigen Refinanzierung von Tarifsteigerungen,
+
+
+    i)  vorläufige Tagesentgelte und deren Degression sowie
+
+
+    j)  Abrechnungsbestimmungen für die nach § 6c Absatz 1 Satz 2 Nummer 2 bis
+        4 zu vereinbarenden krankenhausindividuellen Tagesentgelte und für die
+        in Buchstabe i genannten vorläufigen Tagesentgelte.
+
+
+
 
 
 
@@ -2146,17 +2816,25 @@ Grundlage von Absatz 1 Nummer 3
     müssen sich auf das Stufensystem zu den Mindestvoraussetzungen für
     eine Teilnahme an der Notfallversorgung beziehen, das gemäß § 136c
     Absatz 4 des Fünften Buches Sozialgesetzbuch vom Gemeinsamen
-    Bundesausschuss zu entwickeln ist;
+    Bundesausschuss zu entwickeln ist; ab dem Jahr 2027 sind die Zuschläge
+    für eine Teilnahme von Krankenhäusern an der Notfallversorgung
+    jährlich um 33 Millionen Euro zu erhöhen;
 
 
-6.  jährlich zum 30. Juni, erstmals bis zum 30. Juni 2019, eine Liste der
-    Krankenhäuser, welche die Vorgaben des Gemeinsamen Bundesausschusses
-    zu § 136c Absatz 3 Satz 2 des Fünften Buches Sozialgesetzbuch
-    erfüllen, die Liste ist bis zum 31. Dezember 2020 um
-    Kinderkrankenhäuser und Krankenhäuser mit Fachabteilungen für Kinder-
-    und Jugendmedizin zu erweitern, welche die Vorgaben des Gemeinsamen
-    Bundesausschusses zu § 136c Absatz 3 Satz 2 des Fünften Buches
-    Sozialgesetzbuch erfüllen;
+6.  jährlich zum 30. Juni eine Liste der Krankenhausstandorte, der
+    Kinderkrankenhausstandorte und der Krankenhausstandorte mit
+    Fachabteilungen für Kinder- und Jugendmedizin, welche die Vorgaben des
+    Gemeinsamen Bundesausschusses zu § 136c Absatz 3 des Fünften Buches
+    Sozialgesetzbuch erfüllen; eine Aufnahme in die Liste ist abweichend
+    von den Vorgaben des Gemeinsamen Bundesausschusses nach § 136c Absatz
+    3 des Fünften Buches Sozialgesetzbuch vorzusehen, auch wenn das
+    Krankenhaus an dem jeweiligen Standort nicht die Anforderungen an die
+    Notfallversorgung nach dem vom Gemeinsamen Bundesausschuss gemäß §
+    136c Absatz 4 des Fünften Buches Sozialgesetzbuch beschlossenen
+    gestuften System der Notfallstrukturen in Krankenhäusern erfüllt,
+    wobei die Vertragsparteien auf Bundesebene bis zum 9. Januar 2025 eine
+    Erweiterung der für das Kalenderjahr 2025 bereits vereinbarten Liste
+    mit Krankenhausstandorten zu prüfen und bei Bedarf vorzunehmen haben;
 
 
 7.  bis zum 31. Dezember 2020 die Höhe und die nähere Ausgestaltung des
@@ -2199,11 +2877,12 @@ für die Begrenzung der Entwicklung des Basisfallwerts nach § 10 Absatz
 4, wobei bereits anderweitig finanzierte Kostensteigerungen zu
 berücksichtigen sind, soweit dadurch die Veränderungsrate nach § 71
 Absatz 3 des Fünften Buches Sozialgesetzbuch nicht unterschritten
-wird; im Falle des § 10 Absatz 6 Satz 3 ist die Veränderungsrate nach
-§ 71 Absatz 3 des Fünften Buches Sozialgesetzbuch unter
-Berücksichtigung der Gewährleistung der notwendigen medizinischen
-Versorgung und von Personal- und Sachkostensteigerungen um bis zu ein
-Drittel dieser Differenz zu erhöhen. Die Vertragsparteien auf
+wird; im Falle des § 10 Absatz 6 Satz 3 ist der Veränderungswert
+ausgehend von dem nach § 10 Absatz 6 Satz 1 veröffentlichten
+Orientierungswert unter Berücksichtigung bereits anderweitig
+finanzierter Kostensteigerungen zu vereinbaren; für das Jahr 2026
+entspricht der Veränderungswert dem nach § 10 Absatz 6 Satz 1 im Jahr
+2025 veröffentlichten Orientierungswert. Die Vertragsparteien auf
 Bundesebene können Empfehlungen an die Vertragsparteien auf
 Landesebene zur Vereinbarung der Basisfallwerte und der zu
 berücksichtigenden Tatbestände, insbesondere zur Ausschöpfung von
@@ -2227,14 +2906,22 @@ ist.
 oder teilweise nicht zustande, gilt § 17b Absatz 7 des
 Krankenhausfinanzierungsgesetzes; in den übrigen Fällen entscheidet
 auf Antrag einer Vertragspartei die Schiedsstelle nach § 18a Absatz 6
-des Krankenhausfinanzierungsgesetzes; eine Entscheidung zu Absatz 1b
-Satz 1 hat die Schiedsstelle bis zum 15. November des jeweiligen
-Jahres zu treffen. Kommt eine Vereinbarung nach Absatz 1a Nummer 5
-oder Nummer 8 nicht zustande, kann auch das Bundesministerium für
-Gesundheit die Schiedsstelle anrufen. Kommt eine Vereinbarung nach
-Absatz 1c nicht fristgerecht zustande, entscheidet die Schiedsstelle
-abweichend von Satz 1 ohne Antrag einer Vertragspartei innerhalb von
-sechs Wochen.
+des Krankenhausfinanzierungsgesetzes; eine Entscheidung über den nach
+Absatz 1b Satz 1 bis zum 31. Oktober eines Jahres zu vereinbarenden
+Veränderungswert hat die Schiedsstelle bis zum 15. November des
+jeweiligen Jahres und eine Entscheidung über den nach Absatz 1b Satz 1
+bis zum 26. Dezember 2024 neu zu vereinbarenden Veränderungswert hat
+die Schiedsstelle bis zum 9. Januar 2025 zu treffen. Kommt eine
+Vereinbarung nach Absatz 1a Nummer 5 oder Nummer 8 nicht zustande,
+kann auch das Bundesministerium für Gesundheit die Schiedsstelle
+anrufen. Kommt eine Vereinbarung nach Absatz 1c nicht fristgerecht
+zustande, entscheidet die Schiedsstelle abweichend von Satz 1 ohne
+Antrag einer Vertragspartei innerhalb von sechs Wochen. Kommt eine
+Vereinbarung der Erhöhungsrate und der anteiligen Erhöhungsrate nach
+Absatz 1 Nummer 7 nicht in der in § 10 Absatz 5 Satz 4 genannten Frist
+zustande, entscheidet die Schiedsstelle auf Antrag einer
+Vertragspartei innerhalb von sechs Wochen ab Antragstellung über die
+Erhöhungsrate und die anteilige Erhöhungsrate.
 
 
 ### § 10 Vereinbarung auf Landesebene
@@ -2265,10 +2952,15 @@ Beitragssatzstabilität bei der zu ändernden Vereinbarung des Vorjahres
 auch ohne eine Fehlschätzung eine Berücksichtigung des Betrags der
 Basisberichtigung zulässig gewesen wäre. Eine Veränderung der Summe
 der effektiven Bewertungsrelationen, die aus § 17b Absatz 4 des
-Krankenhausfinanzierungsgesetzes in Verbindung mit § 6a entsteht, ist
-im Erlösvolumen entsprechend verändernd zu berücksichtigen, so dass
-hieraus keine Veränderung des zu vereinbarenden Landesbasisfallwerts
-entsteht.
+Krankenhausfinanzierungsgesetzes in Verbindung mit § 6a, aus § 17b
+Absatz 4b des Krankenhausfinanzierungsgesetzes in Verbindung mit § 6b,
+aus § 6c oder aus § 115f des Fünften Buches Sozialgesetzbuch entsteht,
+ist im Erlösvolumen entsprechend verändernd zu berücksichtigen, so
+dass hieraus keine Veränderung des zu vereinbarenden
+Landesbasisfallwerts entsteht. Als Ausgangsgrundlage für die
+Vereinbarung des Landesbasisfallwerts für das Jahr 2027 ist der für
+das Jahr 2026 vereinbarte oder festgesetzte Landesbasisfallwert ohne
+Ausgleiche um 1,14 Prozent zu erhöhen.
 
 (2) (weggefallen)
 
@@ -2325,19 +3017,22 @@ Berücksichtigung von befristeten Zuschlägen nach § 5 Absatz 3c im
 Rahmen von Absatz 3 Satz 1 Nummer 7 begründet ist, ist abweichend von
 Satz 1 ein höherer Basisfallwert zu vereinbaren. Satz 2 findet im
 Zusammenhang mit der Einführung und Weiterentwicklung des
-Pflegebudgets nach § 6a keine Anwendung.
+Pflegebudgets nach § 6a, des Vorhaltebudgets nach § 6b, der Vergütung
+von sektorenübergreifenden Versorgungseinrichtungen nach § 6c und der
+speziellen sektorengleichen Vergütung nach § 115f des Fünften Buches
+Sozialgesetzbuch keine Anwendung.
 
 (5) Bei der Vereinbarung des Basisfallwerts sind erstmals für das Jahr
-2020 nach Maßgabe der folgenden Sätze Tariferhöhungen für Löhne und
+2024 nach Maßgabe der folgenden Sätze Tariferhöhungen für Löhne und
 Gehälter über den Veränderungswert nach Absatz 4 Satz 1 hinaus zu
 berücksichtigen; eine Erhöhung wirkt als Basiserhöhung auch für die
 Folgejahre. Bezogen auf die Personalkosten werden für den Pflegedienst
 ohne Pflegepersonal in der unmittelbaren Patientenversorgung auf
-bettenführenden Stationen 100 Prozent sowie für den übrigen
-nichtärztlichen Personalbereich und für den ärztlichen Personalbereich
-jeweils 50 Prozent des Unterschieds zwischen dem Veränderungswert und
-der Tarifrate berücksichtigt. Maßstab für die Ermittlung der Tarifrate
-ist für
+bettenführenden Stationen sowie für den übrigen nichtärztlichen
+Personalbereich und für den ärztlichen Personalbereich jeweils 100
+Prozent des Unterschieds zwischen dem Veränderungswert und der
+Tarifrate berücksichtigt. Maßstab für die Ermittlung der Tarifrate ist
+für
 
 1.  den Bereich des Pflegepersonals ohne Pflegepersonal in der
     unmittelbaren Patientenversorgung auf bettenführenden Stationen,
@@ -2352,14 +3047,24 @@ ist für
 
 jeweils diejenige tarifvertragliche Vereinbarung, die in dem
 jeweiligen Bereich für die meisten Beschäftigten maßgeblich ist;
-maßgeblich dabei sind für den Bereich nach Nummer 1 die
-durchschnittlichen Auswirkungen der tarifvertraglich vereinbarten
-linearen und strukturellen Steigerungen sowie Einmalzahlungen und für
-die Bereiche nach den Nummern 2 und 3 jeweils die durchschnittlichen
-Auswirkungen der tarifvertraglich vereinbarten linearen Steigerungen
-und Einmalzahlungen. Die Vertragsparteien auf Bundesebene nach § 9
-vereinbaren in Höhe des Unterschieds zwischen beiden Raten eine
-Erhöhungsrate. Der zu vereinbarende Basisfallwert ist unter
+maßgeblich dabei sind jeweils die durchschnittlichen Auswirkungen der
+tarifvertraglich vereinbarten linearen und strukturellen Steigerungen
+sowie Einmalzahlungen. Die Vertragsparteien auf Bundesebene nach § 9
+haben die Vereinbarung der Erhöhungsrate und der anteiligen
+Erhöhungsrate nach § 9 Absatz 1 Nummer 7 jeweils für das laufende
+Kalenderjahr innerhalb von vier Wochen nach Wirksamwerden einer nach
+Satz 3 maßgeblichen tarifvertraglichen Vereinbarung zu treffen; die
+Erhöhungsrate nach § 9 Absatz 1 Nummer 7 ist in Höhe des Unterschieds
+zwischen dem in § 9 Absatz 1b Satz 1 genannten Veränderungswert und
+der in Satz 3 genannten Tarifrate zu vereinbaren. Zusätzlich haben die
+Vertragsparteien auf Bundesebene nach § 9 bis zum 9. Januar 2025 eine
+Vereinbarung der Erhöhungsrate und der anteiligen Erhöhungsrate nach §
+9 Absatz 1 Nummer 7 zu treffen; die Erhöhungsrate nach § 9 Absatz 1
+Nummer 7 ist in Höhe des Unterschieds zwischen dem nach § 9 Absatz 1b
+Satz 1 für das Jahr 2024 vereinbarten Veränderungswert und der in Satz
+3 genannten Tarifrate, die unter Beachtung der im Jahr 2024 wirksam
+gewordenen maßgeblichen tarifvertraglichen Vereinbarungen zu ermitteln
+ist, zu vereinbaren. Der zu vereinbarende Basisfallwert ist unter
 Berücksichtigung des Zeitpunkts der erstmaligen Abrechnung von den
 Vertragsparteien auf Landesebene um die nach § 9 Absatz 1 Nummer 7
 vereinbarte anteilige Erhöhungsrate zu erhöhen. Sofern der
@@ -2368,7 +3073,13 @@ anteilige Erhöhungsrate nach Satz 5 bei der Vereinbarung des
 Basisfallwerts für das Folgejahr erhöhend zu berücksichtigen. Neben
 der Berichtigung des Basisfallwerts des Vorjahres ist ein einmaliger
 Ausgleich infolge der verspäteten Anwendung der anteiligen
-Erhöhungsrate vorzunehmen.
+Erhöhungsrate vorzunehmen. Abweichend von Satz 7 ist der
+Basisfallwert, sofern er bereits vereinbart oder festgesetzt ist, auf
+Verlangen einer in Absatz 1 Satz 1 genannten Vertragspartei auf
+Landesebene während eines laufenden Kalenderjahres unverzüglich unter
+Berücksichtigung der nach § 9 Absatz 1 Nummer 7 vereinbarten
+anteiligen Erhöhungsrate und des Zeitpunkts der erstmaligen Abrechnung
+neu zu vereinbaren.
 
 (6) Das Statistische Bundesamt hat jährlich einen Orientierungswert,
 der die tatsächlichen Kostenentwicklungen der Krankenhäuser ohne die
@@ -2377,13 +3088,28 @@ Patientenversorgung auf bettenführenden Stationen wiedergibt, zu
 ermitteln und spätestens bis zum 30. September jeden Jahres zu
 veröffentlichen; die hierfür vom Statistischen Bundesamt zu erhebenden
 Daten werden vom Bundesministerium für Gesundheit durch
-Rechtsverordnung ohne Zustimmung des Bundesrates festgelegt.
-Unterschreitet der Orientierungswert die Veränderungsrate nach § 71
-Absatz 3 des Fünften Buches Sozialgesetzbuch, entspricht der
-Veränderungswert der Veränderungsrate. Überschreitet der
-Orientierungswert die Veränderungsrate nach § 71 Absatz 3 des Fünften
-Buches Sozialgesetzbuch, ermitteln die Vertragsparteien auf
-Bundesebene die Differenz zwischen beiden Werten und vereinbaren den
+Rechtsverordnung ohne Zustimmung des Bundesrates festgelegt. Die
+Erhebungen werden jährlich vom Statistischen Bundesamt durchgeführt.
+Der Berichtszeitraum umfasst die zweite Hälfte des Vorjahres und die
+erste Hälfte des laufenden Jahres. Die Krankenhäuser nach § 2 Nummer 1
+des Krankenhausfinanzierungsgesetzes einschließlich der in den §§ 3
+und 5 des Krankenhausfinanzierungsgesetzes genannten Krankenhäuser,
+soweit sie zu den Krankenhäusern nach § 107 Absatz 1 des Fünften
+Buches Sozialgesetzbuch gehören, mit Ausnahme der Krankenhäuser, deren
+Träger der Bund ist, der Krankenhäuser ohne Versorgungsvertrag sowie
+reiner Tages- und Nachtkliniken, sind verpflichtet, dem Statistischen
+Bundesamt für die Zwecke nach Satz 1 Daten zu übermitteln. Soweit es
+zur Gewinnung von Informationen zur Bestimmung des Orientierungswertes
+erforderlich ist, darf das Statistische Bundesamt die erhobenen Daten
+mit den nach § 21 Absatz 3 Satz 1 Nummer 4 genannten Daten
+zusammenführen. Unterschreitet der Orientierungswert die
+Veränderungsrate nach § 71 Absatz 3 des Fünften Buches
+Sozialgesetzbuch, entspricht der Veränderungswert der
+Veränderungsrate; hiervon abweichend entspricht der Veränderungswert
+für das Jahr 2026 dem nach Satz 1 im Jahr 2025 veröffentlichten
+Orientierungswert. Überschreitet der Orientierungswert die
+Veränderungsrate nach § 71 Absatz 3 des Fünften Buches
+Sozialgesetzbuch, vereinbaren die Vertragsparteien auf Bundesebene den
 Veränderungswert gemäß § 9 Absatz 1b Satz 1 und § 9 Absatz 1 Nummer 5
 der Bundespflegesatzverordnung. Für die Zeit ab dem Jahr 2018 ist die
 Anwendung des vollen Orientierungswerts als Veränderungswert sowie die
@@ -2472,30 +3198,33 @@ Entgeltsystem im Krankenhaus. Sind diese Werte für ein Land bis zu
 diesem Termin nicht vereinbart und übermittelt, berechnet das Institut
 für das Entgeltsystem im Krankenhaus den einheitlichen Basisfallwert
 mit den Vorjahreswerten für dieses Land. Das Berechnungsergebnis des
-Instituts für das Entgeltsystem im Krankenhaus ist den
-Vertragsparteien auf Bundesebene spätestens bis zum 15. März jeden
-Jahres vorzulegen; die Vertragsparteien auf Bundesebene vereinbaren
-das Berechnungsergebnis als einheitlichen Basisfallwert und davon
-ausgehend den einheitlichen Basisfallwertkorridor bis zum 31. März
-jeden Jahres. Kommt eine Vereinbarung nicht zustande, entscheidet auf
-Antrag einer Vertragspartei die Schiedsstelle nach § 18a Abs. 6 des
+DRG-Instituts ist den Vertragsparteien auf Bundesebene spätestens bis
+zum 15. März jeden Jahres vorzulegen; die Vertragsparteien auf
+Bundesebene vereinbaren das Berechnungsergebnis als einheitlichen
+Basisfallwert und davon ausgehend den einheitlichen
+Basisfallwertkorridor bis zum 31. März jeden Jahres. Kommt eine
+Vereinbarung nicht zustande, entscheidet auf Antrag einer
+Vertragspartei die Schiedsstelle nach § 18a Abs. 6 des
 Krankenhausfinanzierungsgesetzes.
 
 (10) Die Vereinbarung des Basisfallwerts oder des angeglichenen
 Basisfallwerts nach Absatz 8 Satz 5 und 7 ist bis zum 30. November
-jeden Jahres zu schließen. Die Vertragsparteien auf Landesebene nehmen
-die Verhandlungen unverzüglich auf, nachdem eine Partei dazu
-schriftlich oder elektronisch aufgefordert hat. Die Vereinbarung kommt
-durch Einigung zwischen den Parteien zustande, die an der Verhandlung
-teilgenommen haben; sie ist schriftlich oder elektronisch
-abzuschließen und auf maschinenlesbaren Datenträgern zu dokumentieren.
-Kommt eine Vereinbarung bis zu diesem Zeitpunkt nicht zustande, setzt
-die Schiedsstelle nach § 13 den Basisfallwert auf Antrag einer
-Vertragspartei auf Landesebene unverzüglich fest. Abweichend von Satz
-4 setzt ab dem 1. Januar 2020 die Schiedsstelle den Basisfallwert ohne
-Antrag einer Vertragspartei innerhalb der Frist gemäß § 13 Absatz 2
-fest, wenn eine Vereinbarung bis zum 30. November nicht zustande
-kommt.
+jeden Jahres zu schließen; der bis zum 30. November 2025 zu
+schließende Basisfallwert ist unter Berücksichtigung des
+Veränderungswerts nach § 9 Absatz 1b Satz 1 letzter Teilsatz bis zum
+29\. Januar 2026 neu zu vereinbaren. Die Vertragsparteien auf
+Landesebene nehmen die Verhandlungen unverzüglich auf, nachdem eine
+Partei dazu schriftlich oder elektronisch aufgefordert hat. Die
+Vereinbarung kommt durch Einigung zwischen den Parteien zustande, die
+an der Verhandlung teilgenommen haben; sie ist schriftlich oder
+elektronisch abzuschließen und auf maschinenlesbaren Datenträgern zu
+dokumentieren. Kommt eine Vereinbarung bis zu diesem Zeitpunkt nicht
+zustande, setzt die Schiedsstelle nach § 13 den Basisfallwert auf
+Antrag einer Vertragspartei auf Landesebene unverzüglich fest.
+Abweichend von Satz 4 setzt ab dem 1. Januar 2020 die Schiedsstelle
+den Basisfallwert ohne Antrag einer Vertragspartei innerhalb der Frist
+gemäß § 13 Absatz 2 fest, wenn eine Vereinbarung bis zum 30. November
+nicht zustande kommt.
 
 (11) Liegt der vereinbarte oder festgesetzte Basisfallwert nach Absatz
 10 außerhalb des einheitlichen Basisfallwertkorridors nach Absatz 9
@@ -2531,30 +3260,31 @@ insoweit nicht.
 
 ### § 11 Vereinbarung für das einzelne Krankenhaus
 
-(1) Nach Maßgabe der §§ 3 bis 6a und unter Beachtung des
+(1) Nach Maßgabe der §§ 3 bis 6b und unter Beachtung des
 Versorgungsauftrags des Krankenhauses nach § 8 Absatz 1 Satz 3 und 4,
-der Beachtung der Prüfergebnisse nach § 275d des Fünften Buches
-Sozialgesetzbuch und der Einhaltung der Vorgaben des
-Mindestmengenkatalogs nach § 136b Absatz 1 Satz 1 Nummer 2 des Fünften
-Buches Sozialgesetzbuch regeln die Vertragsparteien nach § 18 Abs. 2
-des Krankenhausfinanzierungsgesetzes (Vertragsparteien) in der
-Vereinbarung das Erlösbudget nach § 4, die Summe der
+der Beachtung der Ergebnisse der Prüfungen nach § 275a Absatz 1 Satz 1
+Nummer 2 des Fünften Buches Sozialgesetzbuch und der Einhaltung der
+Vorgaben des Mindestmengenkatalogs nach § 136b Absatz 1 Satz 1 Nummer
+2 des Fünften Buches Sozialgesetzbuch regeln die Vertragsparteien nach
+§ 18 Abs. 2 des Krankenhausfinanzierungsgesetzes (Vertragsparteien) in
+der Vereinbarung das Erlösbudget nach § 4, die Summe der
 Bewertungsrelationen, die sonstigen Entgelte nach § 6, die Erlössumme
-nach § 6 Absatz 3, das Pflegebudget nach § 6a, die Zu- und Abschläge
-und die Mehr- und Mindererlösausgleiche. Die Vereinbarung ist für
-einen zukünftigen Zeitraum (Vereinbarungszeitraum) zu schließen. Die
-Vereinbarung muss Bestimmungen enthalten, die eine zeitnahe Zahlung
-der Entgelte an das Krankenhaus gewährleisten; hierzu sollen
-insbesondere Regelungen über angemessene monatliche Teilzahlungen und
-Verzugszinsen bei verspäteter Zahlung getroffen werden. Die
-Vereinbarung kommt durch Einigung zwischen den Vertragsparteien
-zustande, die an der Verhandlung teilgenommen haben; sie ist
-schriftlich oder elektronisch abzuschließen und unter Verwendung der
-in Absatz 4 Satz 1 genannten Unterlagen auf maschinenlesbaren
-Datenträgern zu dokumentieren. In der Vereinbarung ist zu regeln, dass
-Mittel, die nicht zweckentsprechend für die Finanzierung der
-Tariferhöhungen von Pflegepersonal verwendet werden, zurückzuzahlen
-sind.
+nach § 6 Absatz 3, das Pflegebudget nach § 6a, die Zu- und Abschläge,
+die Mehr- und Mindererlösausgleiche und den nach § 6b Absatz 5 Satz 5
+und Absatz 6 Satz 6 vorzunehmenden Ausgleich des Vorhaltebudgets. Die
+Vereinbarung ist für einen zukünftigen Zeitraum
+(Vereinbarungszeitraum) zu schließen. Die Vereinbarung muss
+Bestimmungen enthalten, die eine zeitnahe Zahlung der Entgelte an das
+Krankenhaus gewährleisten; hierzu sollen insbesondere Regelungen über
+angemessene monatliche Teilzahlungen und Verzugszinsen bei verspäteter
+Zahlung getroffen werden. Die Vereinbarung kommt durch Einigung
+zwischen den Vertragsparteien zustande, die an der Verhandlung
+teilgenommen haben; sie ist schriftlich oder elektronisch
+abzuschließen und unter Verwendung der in Absatz 4 Satz 1 genannten
+Unterlagen auf maschinenlesbaren Datenträgern zu dokumentieren. In der
+Vereinbarung ist zu regeln, dass Mittel, die nicht zweckentsprechend
+für die Finanzierung der Tariferhöhungen von Pflegepersonal verwendet
+werden, zurückzuzahlen sind.
 
 (2) Der Vereinbarungszeitraum beträgt ein Kalenderjahr, wenn das
 Krankenhaus ganzjährig betrieben wird. Ein Zeitraum, der mehrere
@@ -2562,12 +3292,17 @@ Kalenderjahre umfasst, kann vereinbart werden.
 
 (3) Die Vertragsparteien nehmen die Verhandlung unverzüglich auf,
 nachdem eine Vertragspartei dazu schriftlich oder elektronisch
-aufgefordert hat. Die Verhandlung soll unter Berücksichtigung der
-Sechswochenfrist des § 18 Absatz 4 des
-Krankenhausfinanzierungsgesetzes so rechtzeitig abgeschlossen werden,
-dass das neue Erlösbudget, das neue Pflegebudget und die neuen
+aufgefordert hat. Die Verhandlung soll so rechtzeitig abgeschlossen
+werden, dass das neue Erlösbudget, das neue Pflegebudget und die neuen
 Entgelte mit Ablauf des Jahres, das dem Jahr vorausgeht, für das die
-Vereinbarung gelten soll, in Kraft treten können.
+Vereinbarung gelten soll, in Kraft treten können; die Verhandlung ist
+innerhalb von sechs Wochen nach der in Satz 1 genannten Aufforderung
+einer Vertragspartei abzuschließen. Das für das Jahr 2025 zu
+vereinbarende Erlösbudget ist unter Berücksichtigung des nach § 9
+Absatz 1b Satz 1 zweiter Halbsatz vereinbarten Veränderungswerts zu
+vereinbaren; bis zum Ablauf des 11. Dezember 2024 getroffene
+Vereinbarungen über dieses Erlösbudget sind bis zum 12. Februar 2025
+entsprechend anzupassen.
 
 (4) Der Krankenhausträger übermittelt zur Vorbereitung der Verhandlung
 spätestens bis zum 31. Dezember des Jahres, das dem Jahr vorausgeht,
@@ -2672,25 +3407,26 @@ Absatz 4 Satz 6 wie folgt zu vereinbaren ist:
 ### § 12 Vorläufige Vereinbarung
 
 Können sich die Vertragsparteien insbesondere über die Höhe des
-Erlösbudgets, des Pflegebudgets oder über die Höhe sonstiger Entgelte
-nicht einigen und soll wegen der Gegenstände, über die keine Einigung
-erzielt werden konnte, die Schiedsstelle nach § 13 angerufen werden,
-schließen die Vertragsparteien eine Vereinbarung, soweit die Höhe
-unstrittig ist. Die auf dieser Vereinbarung beruhenden Entgelte sind
-zu erheben, bis die endgültig maßgebenden Entgelte in Kraft treten.
-Mehr- oder Mindererlöse des Krankenhauses infolge der erhobenen
-vorläufigen Entgelte werden durch Zu- oder Abschläge auf die Entgelte
-des laufenden oder eines folgenden Vereinbarungszeitraums
+Erlösbudgets, des Pflegebudgets, die Höhe sonstiger Entgelte oder über
+die Höhe des Gesamtvolumens und der krankenhausindividuellen
+Tagesentgelte nicht einigen und soll wegen der Gegenstände, über die
+keine Einigung erzielt werden konnte, die Schiedsstelle nach § 13
+angerufen werden, schließen die Vertragsparteien eine Vereinbarung,
+soweit die Höhe unstrittig ist. Die auf dieser Vereinbarung beruhenden
+Entgelte sind zu erheben, bis die endgültig maßgebenden Entgelte in
+Kraft treten. Mehr- oder Mindererlöse des Krankenhauses infolge der
+erhobenen vorläufigen Entgelte werden durch Zu- oder Abschläge auf die
+Entgelte des laufenden oder eines folgenden Vereinbarungszeitraums
 ausgeglichen.
 
 
 ### § 13 Schiedsstelle
 
-(1) Kommt eine Vereinbarung nach § 10 oder § 11 ganz oder teilweise
-nicht zustande, entscheidet die Schiedsstelle nach § 18a Abs. 1 des
-Krankenhausfinanzierungsgesetzes auf Antrag einer der in § 10 oder §
-11 genannten Vertragsparteien. Sie ist dabei an die für die
-Vertragsparteien geltenden Rechtsvorschriften gebunden.
+(1) Kommt eine Vereinbarung nach § 6c Absatz 1 Satz 1, § 10 oder § 11
+ganz oder teilweise nicht zustande, entscheidet die Schiedsstelle nach
+§ 18a Abs. 1 des Krankenhausfinanzierungsgesetzes auf Antrag einer der
+in § 10 oder § 11 genannten Vertragsparteien. Sie ist dabei an die für
+die Vertragsparteien geltenden Rechtsvorschriften gebunden.
 
 (2) Die Schiedsstelle entscheidet innerhalb von sechs Wochen über die
 Gegenstände, über die keine Einigung erreicht werden konnte.
@@ -2728,13 +3464,33 @@ Gründen beruht.
 (1) Die Genehmigung des vereinbarten oder von der Schiedsstelle nach §
 13 festgesetzten landesweit geltenden Basisfallwerts nach § 10, des
 Erlösbudgets nach § 4, der Entgelte nach § 6, des Pflegebudgets nach §
-6a und der krankenhausindividuell ermittelten Zu- und Abschläge ist
-von einer der Vertragsparteien bei der zuständigen Landesbehörde zu
-beantragen. Die zuständige Landesbehörde erteilt die Genehmigung, wenn
-die Vereinbarung oder Festsetzung den Vorschriften dieses Gesetzes
-sowie sonstigem Recht entspricht. Sie entscheidet über die Genehmigung
-des landesweit geltenden Basisfallwerts innerhalb von vier Wochen nach
+6a, der krankenhausindividuell ermittelten Zu- und Abschläge und des
+nach § 6c Absatz 1 Satz 1 vereinbarten Gesamtvolumens und der nach §
+6c Absatz 1 Satz 2 Nummer 2 bis 4 vereinbarten
+krankenhausindividuellen Tagesentgelte ist von einer der
+Vertragsparteien bei der zuständigen Landesbehörde zu beantragen. Die
+zuständige Landesbehörde erteilt die Genehmigung, wenn die
+Vereinbarung oder Festsetzung den Vorschriften dieses Gesetzes sowie
+sonstigem Recht entspricht. Sie entscheidet über die Genehmigung des
+landesweit geltenden Basisfallwerts innerhalb von vier Wochen nach
 Eingang des Antrags.
+
+(1a) Bei der zuständigen Landesbehörde ist zu beantragen
+
+1.  die Genehmigung des Ausgleichsbetrags nach § 6b Absatz 5 Satz 1 vom
+    Krankenhausträger sowie
+
+
+2.  die Genehmigung des Konvergenzbetrags nach § 6b Absatz 6 Satz 1 von
+    einer der Vertragsparteien.
+
+
+
+Die zuständige Landesbehörde erteilt die Genehmigung, wenn die
+Vereinbarung oder Festsetzung den Vorschriften dieses Gesetzes sowie
+sonstigem Recht entspricht. Die zuständige Landesbehörde entscheidet
+jeweils innerhalb von 14 Tagen nach Eingang über die in Satz 1
+genannten Anträge.
 
 (2) Die Vertragsparteien und die Schiedsstellen haben der zuständigen
 Landesbehörde die Unterlagen vorzulegen und die Auskünfte zu erteilen,
@@ -2984,7 +3740,13 @@ für das Entgeltsystem nach § 17d des Krankenhausfinanzierungsgesetzes
 frühestens für das Jahr 2017. Soweit für Belegpatientinnen und
 -patienten gesonderte Entgelte nach Satz 1 nicht oder noch nicht
 vereinbart wurden, werden gesonderte sonstige Entgelte nach § 6 oder
-nach § 6 der Bundespflegesatzverordnung vereinbart.
+nach § 6 der Bundespflegesatzverordnung vereinbart. Für die in
+sektorenübergreifenden Versorgungseinrichtungen im Sinne des § 115g
+Absatz 1 Satz 1 des Fünften Buches Sozialgesetzbuch durch Belegärzte
+behandelten Belegpatienten gelten die nach § 6c Absatz 1 Satz 2 Nummer
+3 vereinbarten verringerten krankenhausindividuellen Tagesentgelte;
+die erbrachten belegärztlichen Leistungen werden nach § 121 Absatz 3
+und 4 des Fünften Buches Sozialgesetzbuch vergütet.
 
 (3) Krankenhäuser mit Belegbetten, die nach § 121 Abs. 5 des Fünften
 Buches Sozialgesetzbuch zur Vergütung der belegärztlichen Leistungen
@@ -2994,7 +3756,13 @@ Belegärzten mit Honorarverträgen behandelten Belegpatientinnen und
 Hauptabteilungen in Höhe von 80 Prozent ab. Bei diesen Krankenhäusern
 ist bei der Vereinbarung sonstiger Entgelte nach § 6 oder nach § 6 der
 Bundespflegesatzverordnung die Vergütung des Belegarztes
-einzubeziehen.
+einzubeziehen. Sektorenübergreifende Versorgungseinrichtungen im Sinne
+des § 115g Absatz 1 Satz 1 des Fünften Buches Sozialgesetzbuch mit
+Belegbetten, die nach § 121 Absatz 5 des Fünften Buches
+Sozialgesetzbuch zur Vergütung der belegärztlichen Leistungen mit
+Belegärzten Honorarverträge schließen, rechnen für die von diesen
+Belegärzten behandelten Belegpatienten die nach § 6c Absatz 1 Satz 2
+Nummer 2 vereinbarten krankenhausindividuellen Tagesentgelte ab.
 
 
 ### § 19 Kostenerstattung der Ärzte
@@ -3090,9 +3858,18 @@ Entgeltsystem im Krankenhaus geführte Datenstelle auf Bundesebene.
     d)  Summe der vereinbarten und abgerechneten DRG-Fälle, der vereinbarten
         und abgerechneten Summe der Bewertungsrelationen des Fallpauschalen-
         Katalogs und des Pflegeerlöskatalogs sowie der Ausgleichsbeträge nach
-        § 5 Absatz 4 sowie der Zahlungen zum Ausgleich der Abweichungen
-        zwischen den tatsächlichen und den vereinbarten Pflegepersonalkosten
-        nach § 6a Absatz 2, jeweils für das vorangegangene Kalenderjahr,
+        § 5 Absatz 4 und § 6b Absatz 5 Satz 1 und der Zahlungen zum Ausgleich
+        der Abweichungen zwischen den tatsächlichen und den vereinbarten
+        Pflegepersonalkosten nach § 6a Absatz 2, die Summe der vereinbarten
+        und abgerechneten Fälle, die mit in § 6c Absatz 1 Satz 2 genannten
+        krankenhausindividuellen Tagesentgelten oder in § 6c Absatz 7 Satz 4
+        genannten vorläufigen Tagesentgelten abgerechnet werden und der nach §
+        6c Absatz 5 Satz 1 ermittelten Ausgleichsbeträge, jeweils für das
+        vorangegangene Kalenderjahr; in den Kalenderjahren 2026 und 2027
+        zusätzlich die Summe der vereinbarten und abgerechneten
+        Vorhaltebewertungsrelationen sowie ab dem Kalenderjahr 2028 zusätzlich
+        die abgerechneten Vorhaltebewertungsrelationen, jeweils für das
+        vorangegangene Kalenderjahr,
 
 
     e)  die Anzahl
@@ -3133,19 +3910,28 @@ Entgeltsystem im Krankenhaus geführte Datenstelle auf Bundesebene.
         und bei ärztlichem Personal in Weiterbildung jeweils unter Angabe des
         Weiterbildungsgebietes, umgerechnet jeweils auf Vollkräfte, gegliedert
         nach dem Kennzeichen des Standorts nach § 293 Absatz 6 des Fünften
-        Buches Sozialgesetzbuch und nach den Fachabteilungen des Standorts,
+        Buches Sozialgesetzbuch, nach den Leistungsgruppen nach Anlage 1 zum
+        Fünften Buch Sozialgesetzbuch und nach den Fachabteilungen des
+        Standorts,
 
 
-    g)  die in Anlage 1 zum Fünften Buch Sozialgesetzbuch genannten
-        Leistungsgruppen, denen die vom Krankenhaus erbrachten
+    g)  die nach § 135e Absatz 2 Satz 2 des Fünften Buches Sozialgesetzbuch
+        maßgeblichen Leistungsgruppen, denen die vom Krankenhaus erbrachten
         Behandlungsfälle zuzuordnen sind, jeweils gegliedert nach dem
         Kennzeichen des Standorts nach § 293 Absatz 6 des Fünften Buches
         Sozialgesetzbuch; im Fall der von § 135d Absatz 3 Satz 3 des Fünften
         Buches Sozialgesetzbuch betroffenen Krankenhäuser tritt bis zum 31.
-        Dezember 2025 an die Stelle der in Anlage 1 zum Fünften Buch
-        Sozialgesetzbuch genannten Leistungsgruppen die von der für die
-        Krankenhausplanung zuständigen Landesbehörde zugewiesene
-        Leistungsgruppe;
+        Dezember 2025 an die Stelle der nach § 135e Absatz 2 Satz 2 des
+        Fünften Buches Sozialgesetzbuch maßgeblichen Leistungsgruppen die von
+        der für die Krankenhausplanung zuständigen Landesbehörde zugewiesene
+        Leistungsgruppe,
+
+
+    h)  Informationen über die Teilnahme an dem vom Gemeinsamen
+        Bundesausschuss gemäß § 136c Absatz 4 Satz 1 des Fünften Buches
+        Sozialgesetzbuch beschlossenen gestuften System von Notfallstrukturen
+        in Krankenhäusern, gegliedert nach dem Kennzeichen des Standorts nach
+        § 293 Absatz 6 des Fünften Buches Sozialgesetzbuch;
 
 
 
@@ -3204,13 +3990,14 @@ Entgeltsystem im Krankenhaus geführte Datenstelle auf Bundesebene.
     h)  Höhe aller im einzelnen Behandlungsfall abgerechneten Entgelte,
 
 
-    i)  die in Anlage 1 zum Fünften Buch Sozialgesetzbuch genannte
-        Leistungsgruppe, der die vom Krankenhaus im einzelnen Behandlungsfall
-        erbrachte Leistung zuzuordnen ist; hinsichtlich der von § 135d Absatz
-        3 Satz 3 des Fünften Buches Sozialgesetzbuch betroffenen Krankenhäuser
-        tritt bis zum 31. Dezember 2025 an die Stelle der in Anlage 1 zum
-        Fünften Buch Sozialgesetzbuch genannten Leistungsgruppe die von der
-        für die Krankenhausplanung zuständigen Landesbehörde zugewiesene
+    i)  die nach § 135e Absatz 2 Satz 2 des Fünften Buches Sozialgesetzbuch
+        maßgebliche Leistungsgruppe, der die vom Krankenhaus im einzelnen
+        Behandlungsfall erbrachte Leistung zuzuordnen ist; hinsichtlich der
+        von § 135d Absatz 3 Satz 3 des Fünften Buches Sozialgesetzbuch
+        betroffenen Krankenhäuser tritt bis zum 31. Dezember 2025 an die
+        Stelle der nach § 135e Absatz 2 Satz 2 des Fünften Buches
+        Sozialgesetzbuch maßgeblichen Leistungsgruppe die von der für die
+        Krankenhausplanung zuständigen Landesbehörde zugewiesene
         Leistungsgruppe.
 
 
@@ -3236,22 +4023,22 @@ und übermittelt jeweils bis zum 1. Juli die
     an die Vertragsparteien auf der Landesebene,
 
 
-3.  landesbezogenen Daten nach Absatz 2 Nummer 1 Buchstabe a bis c und
-    Nummer 2 Buchstabe b, d bis g und i für Zwecke der Krankenhausplanung
-    sowie zusätzlich nach Absatz 2 Nummer 2 Buchstabe h für Zwecke der
-    Investitionsförderung, sofern das Land hierfür Investitionspauschalen
-    nach § 10 des Krankenhausfinanzierungsgesetzes verwendet oder dies
-    beabsichtigt, und, sofern ein gemeinsames Landesgremium nach § 90a des
-    Fünften Buches Sozialgesetzbuch besteht, für Empfehlungen zu
-    sektorenübergreifenden Versorgungsfragen an die zuständigen
-    Landesbehörden; die Datennutzung für Zwecke der Empfehlungen zu
-    sektorenübergreifenden Versorgungsfragen, insbesondere die Wahrung der
-    Betriebsgeheimnisse der Krankenhäuser, regeln die Länder unter
-    Einbeziehung des Datenschutzbeauftragten des jeweiligen Landes in
-    einer Verordnung,
+3.  landesbezogenen Daten nach Absatz 2 Nummer 1 Buchstabe a bis c, e, f
+    und h und Nummer 2 Buchstabe b, d bis g und i für Zwecke der
+    Krankenhausplanung sowie zusätzlich nach Absatz 2 Nummer 2 Buchstabe h
+    für Zwecke der Investitionsförderung, sofern das Land hierfür
+    Investitionspauschalen nach § 10 des Krankenhausfinanzierungsgesetzes
+    verwendet oder dies beabsichtigt, und, sofern ein gemeinsames
+    Landesgremium nach § 90a des Fünften Buches Sozialgesetzbuch besteht,
+    für Empfehlungen zu sektorenübergreifenden Versorgungsfragen an die
+    zuständigen Landesbehörden; die Datennutzung für Zwecke der
+    Empfehlungen zu sektorenübergreifenden Versorgungsfragen, insbesondere
+    die Wahrung der Betriebsgeheimnisse der Krankenhäuser, regeln die
+    Länder unter Einbeziehung des Datenschutzbeauftragten des jeweiligen
+    Landes in einer Verordnung,
 
 
-4.  Daten nach Absatz 2 Nummer 1 Buchstabe a, c, d und g und Nummer 2
+4.  Daten nach Absatz 2 Nummer 1 Buchstabe a, c, d, g und h und Nummer 2
     Buchstabe b und d bis i für Zwecke der amtlichen Krankenhausstatistik
     an das Statistische Bundesamt; dieses kann landesbezogene Daten an die
     Statistischen Landesämter übermitteln.
@@ -3304,12 +4091,13 @@ Institut oder einer anderen nach Satz 1 beauftragten Stelle glaubhaft
 dargelegt wurde. Absatz 3 Satz 9 gilt entsprechend.
 
 (3b) Für die Überprüfung nach § 24 des
-Krankenhausfinanzierungsgesetzes sowie für ergänzende Analysen zum
-Zweck der Weiterentwicklung der Entgeltsysteme übermittelt das
-Krankenhaus die Daten gemäß Absatz 2 Nummer 1 Buchstabe a und Nummer 2
-an die vom Institut für das Entgeltsystem im Krankenhaus geführte
-Datenstelle auf Bundesebene auf maschinenlesbaren Datenträgern
-zusätzlich zur Übermittlung nach Absatz 1
+Krankenhausfinanzierungsgesetzes, für ergänzende Analysen zum Zweck
+der Weiterentwicklung der Entgeltsysteme sowie für Zwecke der
+Krankenhausplanung übermittelt das Krankenhaus die Daten gemäß Absatz
+2 Nummer 1 Buchstabe a, h und Nummer 2 an die vom Institut für das
+Entgeltsystem im Krankenhaus geführte Datenstelle auf Bundesebene auf
+maschinenlesbaren Datenträgern zusätzlich zur Übermittlung nach Absatz
+1
 
 1.  bis zum 15. Juni jeden Jahres für Patientinnen und Patienten, die
     zwischen dem 1. Januar und dem 31. Mai des laufenden Kalenderjahres
@@ -3338,7 +4126,11 @@ Abschluss der Plausibilitätsprüfung darf die Herstellung eines
 Personenbezugs nicht mehr möglich sein. Die Datenstelle übermittelt
 die geprüften Daten an das Institut für das Entgeltsystem im
 Krankenhaus innerhalb von zwei Wochen nach Ablauf der jeweiligen Frist
-nach Satz 1. Die Datenstelle veröffentlicht die Daten nach Satz 1
+nach Satz 1; die Datenstelle übermittelt die geprüften landesbezogenen
+Daten nach Absatz 2 Nummer 1 Buchstabe a und Nummer 2 Buchstabe b, d
+bis g und i innerhalb von zwölf Wochen nach Ablauf der jeweiligen in
+Satz 1 genannten Frist an die für die Krankenhausplanung zuständige
+Landesbehörde. Die Datenstelle veröffentlicht die Daten nach Satz 1
 innerhalb von vier Wochen nach Ablauf der jeweiligen Frist nach Satz 1
 in anonymisierter und zusammengefasster Form barrierefrei auf der
 Internetseite des Instituts für das Entgeltsystem im Krankenhaus; eine
@@ -3374,16 +4166,31 @@ leistungsgruppenbezogen aus, soweit dies nach Abstimmung mit dem
 Institut für Qualitätssicherung und Transparenz im Gesundheitswesen
 für die Veröffentlichung und Aktualisierung des
 Transparenzverzeichnisses nach § 135d des Fünften Buches
-Sozialgesetzbuch erforderlich ist. Die Datenstelle übermittelt dem
+Sozialgesetzbuch geeignet und notwendig ist und das Institut für
+Qualitätssicherung und Transparenz im Gesundheitswesen die
+Notwendigkeit glaubhaft dargelegt hat. Die Datenstelle übermittelt dem
 Institut für das Entgeltsystem im Krankenhaus die in Satz 1 genannten
 Daten für die Auswertungen nach Satz 1. Das Institut für das
 Entgeltsystem im Krankenhaus übermittelt dem Institut für
 Qualitätssicherung und Transparenz im Gesundheitswesen und der nach §
 135d Absatz 1 Satz 3 des Fünften Buches Sozialgesetzbuch benannten
-Stelle barrierefrei unverzüglich die in Satz 1 genannten Daten sowie
-die Auswertung nach Satz 1 und die Zuordnung der Standorte von
-Krankenhäusern zu Versorgungsstufen nach § 135d Absatz 4 des Fünften
-Buches Sozialgesetzbuch.
+Stelle unverzüglich die Auswertungen nach Satz 1 und die Zuordnung der
+Standorte von Krankenhäusern zu Versorgungsstufen nach § 135d Absatz 4
+des Fünften Buches Sozialgesetzbuch.
+
+(3e) Das Institut für das Entgeltsystem im Krankenhaus wertet die an
+die von ihm geführte Datenstelle nach den Absätzen 1 und 3b
+übermittelten Daten in der jeweils aktuellen Fassung aus, soweit dies
+nach Abstimmung mit dem Institut für Qualität und Wirtschaftlichkeit
+im Gesundheitswesen für die Erfüllung eines nach § 135f Absatz 2 Satz
+1 des Fünften Buches Sozialgesetzbuch erteilten Auftrags geeignet und
+notwendig ist und das Institut für Qualität und Wirtschaftlichkeit im
+Gesundheitswesen die Notwendigkeit glaubhaft dargelegt hat. Die
+Datenstelle übermittelt dem Institut für das Entgeltsystem im
+Krankenhaus die in Satz 1 genannten Daten für die Auswertungen nach
+Satz 1. Das Institut für das Entgeltsystem im Krankenhaus übermittelt
+dem Institut für Qualität und Wirtschaftlichkeit im Gesundheitswesen
+die Auswertungen nach Satz 1.
 
 (4) Die Vertragsparteien nach § 17b Abs. 2 Satz 1 des
 Krankenhausfinanzierungsgesetzes vereinbaren im Benehmen mit dem
@@ -3437,21 +4244,21 @@ zustande, entscheidet auf Antrag einer Vertragspartei die
 Schiedsstelle nach § 18a Abs. 6 des Krankenhausfinanzierungsgesetzes.
 
 (7) Für die Veröffentlichung im Transparenzverzeichnis nach § 135d des
-Fünften Buches Sozialgesetzbuch übermittelt das Krankenhaus die in
-Absatz 2 Nummer 1 Buchstabe a und f genannten Daten an die vom
-Institut für das Entgeltsystem im Krankenhaus geführte Datenstelle auf
+Fünften Buches Sozialgesetzbuch und für die Zwecke der
+Personalbemessung übermittelt das Krankenhaus die in Absatz 2 Nummer 1
+Buchstabe a und f genannten Daten an die vom Institut für das
+Entgeltsystem im Krankenhaus geführte Datenstelle auf
 maschinenlesbaren Datenträgern zusätzlich zur Übermittlung nach Absatz
 1 für jedes Kalenderquartal jeweils bis zum 15. des folgenden Monats,
-erstmals bis zum 15. Januar 2024. Absatz 3b Satz 2 bis 5 gilt für die
-Übermittlung der Daten nach Satz 1 entsprechend. Die Leitung des
-Krankenhauses ist verpflichtet, für die ordnungsgemäße und
-rechtzeitige Übermittlung der Daten nach Satz 1 zu sorgen. Das
-Krankenhaus hat dem Institut für das Entgeltsystem im Krankenhaus und
-dem Institut für Qualitätssicherung und Transparenz im
-Gesundheitswesen die aufgrund einer nicht ordnungsgemäßen oder nicht
-rechtzeitigen Übermittlung der Daten nach Satz 1 entstehenden
-Mehraufwendungen zu erstatten, sofern das Krankenhaus die nicht
-vollständige oder nicht rechtzeitige Übermittlung zu vertreten hat.
+erstmals bis zum 15. Januar 2024. Absatz 3b Satz 2 bis 5 erster
+Halbsatz gilt für die Übermittlung der Daten nach Satz 1 entsprechend.
+Die Leitung des Krankenhauses ist verpflichtet, für die ordnungsgemäße
+und rechtzeitige Übermittlung der Daten nach Satz 1 zu sorgen. Absatz
+5 Satz 2 ist mit der Maßgabe entsprechend anzuwenden, dass der
+Abschlag nicht durch die Datenstelle festzulegen ist, sondern pauschal
+50 000 Euro je Kalenderquartal und Standort eines Krankenhauses
+beträgt. Absatz 5 Satz 7 und 8 gilt für den Abschlag nach Satz 4
+entsprechend.
 
 
 ### Anlage 1 Aufstellung der Entgelte und Budgetermittlung (AEB) nach § 11 Abs. 4 des Krankenhausentgeltgesetzes (KHEntgG)

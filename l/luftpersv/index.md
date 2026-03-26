@@ -1569,10 +1569,6 @@ nichts anderes bestimmt ist:
 
 
 
-### Unterabschnitt 5 - Berechtigung für Schleppflug und Passagierberechtigung für Luftsportgeräteführer
-
-
-
 #### (XXXX) §§ 50 bis 53 (weggefallen)
 
 
@@ -1751,6 +1747,10 @@ Absatz 3 aufgeführten Sachgebieten besitzt.
 
 
 #### (XXXX) §§ 78 bis 80 (weggefallen)
+
+
+
+### Unterabschnitt 5 - Berechtigung für Schleppflug und Passagierberechtigung für Luftsportgeräteführer
 
 
 

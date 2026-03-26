@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2009, 799
 
 Zuletzt geändert durch
-:   Art. 1 G v. 28.6.2023 I Nr. 172
+:   Art. 5a G v. 3.2.2026 I Nr. 29
 
 
 ## Eingangsformel
@@ -1042,7 +1042,7 @@ zuständig.
 
 ### § 17 Befugnisse der Behörden der Zollverwaltung und anderer Behörden
 
-Die §§ 2 bis 6, 14, 15, 20, 22 und 23 des
+Die §§ 2, 3 bis 7, 13, 14, 15 bis 20, 22 und 23 des
 Schwarzarbeitsbekämpfungsgesetzes sind entsprechend anzuwenden mit der
 Maßgabe, dass
 
@@ -1064,14 +1064,15 @@ Maßgabe, dass
 
 
 
-Die §§ 16 bis 19 des Schwarzarbeitsbekämpfungsgesetzes finden
-Anwendung. § 6 Absatz 4 des Schwarzarbeitsbekämpfungsgesetzes findet
-entsprechende Anwendung. Für die Datenverarbeitung, die dem in § 16
-genannten Zweck oder der Zusammenarbeit mit den Behörden des
-Europäischen Wirtschaftsraums nach § 20 Abs. 2 dient, findet § 67
-Absatz 3 Nummer 4 des Zehnten Buches Sozialgesetzbuch keine Anwendung.
-Das Grundrecht der Unverletzlichkeit der Wohnung (Artikel 13 des
-Grundgesetzes) wird durch Satz 1 Nummer 3 eingeschränkt.
+Entsandte Arbeitnehmer und Arbeitnehmerinnen können im Rahmen der
+Prüfungen nach dem Schwarzarbeitsbekämpfungsgesetz auch nach dem
+Abschluss der Entsendung kontaktiert werden. Für die
+Datenverarbeitung, die dem in § 16 genannten Zweck oder der
+Zusammenarbeit mit den Behörden des Europäischen Wirtschaftsraums nach
+§ 20 Abs. 2 dient, findet § 67 Absatz 3 Nummer 4 des Zehnten Buches
+Sozialgesetzbuch keine Anwendung. Das Grundrecht der Unverletzlichkeit
+der Wohnung (Artikel 13 des Grundgesetzes) wird durch Satz 1 Nummer 3
+eingeschränkt.
 
 
 ### § 18 Meldepflicht
@@ -1397,7 +1398,7 @@ Dienstleistungsauftrag der in §§ 99 und 100 des Gesetzes gegen
 Wettbewerbsbeschränkungen genannten Auftraggeber sollen Bewerber oder
 Bewerberinnen für eine angemessene Zeit bis zur nachgewiesenen
 Wiederherstellung ihrer Zuverlässigkeit ausgeschlossen werden, die
-wegen eines Verstoßes nach § 23 Absatz 1 Nummer 1 bis 9 und 11 oder
+wegen eines Verstoßes nach § 23 Absatz 1 Nummer 1 bis 11 und 13 oder
 Absatz 2 mit einer Geldbuße von wenigstens zweitausendfünfhundert Euro
 belegt worden sind. Das Gleiche gilt auch schon vor Durchführung eines
 Bußgeldverfahrens, wenn im Einzelfall angesichts der Beweislage kein
@@ -1405,17 +1406,17 @@ vernünftiger Zweifel an einer schwerwiegenden Verfehlung im Sinne des
 Satzes 1 besteht.
 
 (2) Die für die Verfolgung oder Ahndung der Ordnungswidrigkeiten nach
-§ 23 Absatz 1 Nummer 1 bis 9 und 11 oder Absatz 2 zuständigen Behörden
-dürfen öffentlichen Auftraggebern nach § 99 des Gesetzes gegen
-Wettbewerbsbeschränkungen und solchen Stellen, die von öffentlichen
-Auftraggebern zugelassene Präqualifikationsverzeichnisse oder
-Unternehmer- und Lieferantenverzeichnisse führen, auf Verlangen die
-erforderlichen Auskünfte geben.
+§ 23 Absatz 1 Nummer 1 bis 11 und 13 oder Absatz 2 zuständigen
+Behörden dürfen öffentlichen Auftraggebern nach § 99 des Gesetzes
+gegen Wettbewerbsbeschränkungen und solchen Stellen, die von
+öffentlichen Auftraggebern zugelassene Präqualifikationsverzeichnisse
+oder Unternehmer- und Lieferantenverzeichnisse führen, auf Verlangen
+die erforderlichen Auskünfte geben.
 
 (3) Öffentliche Auftraggeber nach Absatz 2 fordern im Rahmen ihrer
-Tätigkeit beim Wettbewerbsregisters Auskünfte über rechtskräftige
+Tätigkeit beim Wettbewerbsregister Auskünfte über rechtskräftige
 Bußgeldentscheidungen wegen einer Ordnungswidrigkeit nach § 23 Absatz
-1 Nummer 1 bis 9 und 11 oder Absatz 2 an oder verlangen von Bewerbern
+1 Nummer 1 bis 11 und 13 oder Absatz 2 an oder verlangen von Bewerbern
 oder Bewerberinnen eine Erklärung, dass die Voraussetzungen für einen
 Ausschluss nach Absatz 1 nicht vorliegen. Im Falle einer Erklärung des
 Bewerbers oder der Bewerberin können öffentliche Auftraggeber nach
@@ -1425,7 +1426,7 @@ anfordern.
 (4) Bei Aufträgen ab einer Höhe von 30 000 Euro fordert der
 öffentliche Auftraggeber nach Absatz 2 für den Bewerber oder die
 Bewerberin, der oder die den Zuschlag erhalten soll, vor der
-Zuschlagserteilung eine Auskunft aus dem Wettbewerbsregisters an.
+Zuschlagserteilung eine Auskunft aus dem Wettbewerbsregister an.
 
 (5) Vor der Entscheidung über den Ausschluss ist der Bewerber oder die
 Bewerberin zu hören.
@@ -1445,9 +1446,9 @@ Bewerberin zu hören.
     nicht rechtzeitig leistet,
 
 
-2.  entgegen § 17 Satz 1 in Verbindung mit § 5 Abs. 1 Satz 1 Nummer 1 oder
-    3 des Schwarzarbeitsbekämpfungsgesetzes eine Prüfung nicht duldet oder
-    bei einer Prüfung nicht mitwirkt,
+2.  entgegen § 17 Satz 1 in Verbindung mit § 5 Abs. 1 Satz 1 Nummer 1 des
+    Schwarzarbeitsbekämpfungsgesetzes eine Prüfung nicht duldet oder bei
+    einer Prüfung nicht mitwirkt,
 
 
 3.  entgegen § 17 Satz 1 in Verbindung mit § 5 Abs. 1 Satz 1 Nummer 2 des
@@ -1455,45 +1456,58 @@ Bewerberin zu hören.
     Geschäftsraums nicht duldet,
 
 
-4.  entgegen § 17 Satz 1 in Verbindung mit § 5 Absatz 5 Satz 1 des
-    Schwarzarbeitsbekämpfungsgesetzes Daten nicht, nicht richtig, nicht
-    vollständig, nicht in der vorgeschriebenen Weise oder nicht
-    rechtzeitig übermittelt,
+4.  entgegen § 17 Satz 1 in Verbindung mit § 5 Absatz 1 Satz 1 Nummer 3
+    Buchstabe a des Schwarzarbeitsbekämpfungsgesetzes eine dort genannte
+    Auskunft nicht, nicht richtig, nicht vollständig, nicht in der
+    vorgeschriebenen Weise oder nicht rechtzeitig erteilt,
 
 
-5.  entgegen § 18 Absatz 1 Satz 1, Absatz 2 Satz 1 oder Absatz 3 Satz 1
+5.  entgegen § 17 Satz 1 in Verbindung mit § 5 Absatz 1 Satz 1 Nummer 3
+    Buchstabe b des Schwarzarbeitsbekämpfungsgesetzes eine dort genannte
+    Unterlage nicht, nicht richtig, nicht vollständig oder nicht
+    rechtzeitig bereitstellt oder nicht, nicht richtig, nicht vollständig
+    oder nicht rechtzeitig vorlegt,
+
+
+6.  entgegen § 17 Satz 1 in Verbindung mit § 5 Absatz 1 Satz 1 Nummer 4
+    des Schwarzarbeitsbekämpfungsgesetzes die Einsicht in eine dort
+    genannte Unterlage nicht, nicht richtig oder nicht rechtzeitig
+    ermöglicht,
+
+
+7.  entgegen § 18 Absatz 1 Satz 1, Absatz 2 Satz 1 oder Absatz 3 Satz 1
     eine Anmeldung nicht, nicht richtig, nicht vollständig, nicht in der
     vorgeschriebenen Weise oder nicht rechtzeitig vorlegt oder nicht,
     nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise
     oder nicht rechtzeitig zuleitet,
 
 
-6.  entgegen § 18 Absatz 1 Satz 3, auch in Verbindung mit Absatz 2 Satz 2
+8.  entgegen § 18 Absatz 1 Satz 3, auch in Verbindung mit Absatz 2 Satz 2
     oder Absatz 3 Satz 2, eine Änderungsmeldung nicht, nicht richtig,
     nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht
     rechtzeitig macht,
 
 
-7.  entgegen § 19 Absatz 1 Satz 1, auch in Verbindung mit Satz 2, eine
+9.  entgegen § 19 Absatz 1 Satz 1, auch in Verbindung mit Satz 2, eine
     Aufzeichnung nicht, nicht richtig, nicht vollständig oder nicht
     rechtzeitig erstellt oder nicht oder nicht mindestens zwei Jahre
     aufbewahrt,
 
 
-8.  entgegen § 19 Absatz 2 eine Unterlage nicht, nicht richtig, nicht
+10. entgegen § 19 Absatz 2 eine Unterlage nicht, nicht richtig, nicht
     vollständig oder nicht in der vorgeschriebenen Weise bereithält,
 
 
-9.  entgegen § 19 Absatz 2a Satz 1 nicht sicherstellt, dass die dort
+11. entgegen § 19 Absatz 2a Satz 1 nicht sicherstellt, dass die dort
     genannten Unterlagen zur Verfügung stehen,
 
 
-10. entgegen § 19 Absatz 2a Satz 2 eine Unterlage nicht, nicht richtig,
+12. entgegen § 19 Absatz 2a Satz 2 eine Unterlage nicht, nicht richtig,
     nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht
     rechtzeitig vorlegt oder
 
 
-11. entgegen § 19 Absatz 2b Satz 1 oder 3 eine Unterlage nicht, nicht
+13. entgegen § 19 Absatz 2b Satz 1 oder 3 eine Unterlage nicht, nicht
     richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder
     nicht rechtzeitig übermittelt.
 
@@ -1522,8 +1536,9 @@ weiß, dass dieser bei der Erfüllung dieses Auftrags
 
 (3) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nr. 1 und
 des Absatzes 2 mit einer Geldbuße bis zu fünfhunderttausend Euro, in
-den übrigen Fällen mit einer Geldbuße bis zu dreißigtausend Euro
-geahndet werden.
+den Fällen des Absatzes 1 Nummer 9 mit einer Geldbuße bis zu
+fünfzigtausend Euro, in den übrigen Fällen mit einer Geldbuße bis zu
+dreißigtausend Euro geahndet werden.
 
 (4) Verwaltungsbehörden im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes
 über Ordnungswidrigkeiten sind die in § 16 genannten Behörden jeweils
@@ -1838,7 +1853,7 @@ Ersuchens.
 Unterhaltung von Beratungsstellen zu arbeits- und sozialrechtlichen
 Themen sowie für die in diesem Zusammenhang erfolgende Entwicklung und
 Bereitstellung von Fortbildungsangeboten und Informationsmaterialien
-einen kalenderjährlichen Anspruch in Höhe von bis zu 3,996 Millionen
+einen kalenderjährlichen Anspruch in Höhe von bis zu 4,2 Millionen
 Euro aus Mitteln des Bundes.
 
 (2) Der Anspruch besteht nur, wenn die Beratung
@@ -1937,10 +1952,10 @@ besteht, entfällt die Hinweispflicht.
 ## Abschnitt 9 - Sonderregelungen und Übergangsbestimmungen
 
 
-## Unterabschnitt 1 - Sonderregelungen für bestimmte Tätigkeiten von Arbeitnehmern und Arbeitnehmerinnen, die bei Arbeitgebern mit Sitz im Ausland beschäftigt sind
+### Unterabschnitt 1 - Sonderregelungen für bestimmte Tätigkeiten von Arbeitnehmern und Arbeitnehmerinnen, die bei Arbeitgebern mit Sitz im Ausland beschäftigt sind
 
 
-### § 34 Erstmontage- und Einbauarbeiten
+#### § 34 Erstmontage- und Einbauarbeiten
 
 Die Arbeitsbedingungen nach § 2 Absatz 1 Nummer 1 und 2, § 5 Satz 1
 Nummer 1 bis 3 und § 13b dieses Gesetzes sowie nach § 20 des
@@ -1973,7 +1988,7 @@ Satz 1 gilt nicht für Bauleistungen im Sinne des § 101 Absatz 2 des
 Dritten Buches Sozialgesetzbuch.
 
 
-### § 35 Bestimmte Tätigkeiten ohne Leistungsempfänger im Inland
+#### § 35 Bestimmte Tätigkeiten ohne Leistungsempfänger im Inland
 
 Die Arbeitsbedingungen nach § 2 Absatz 1 Nummer 1 und 2, § 5 Satz 1
 Nummer 1 bis 4 und § 13b dieses Gesetzes sowie nach § 20 des
@@ -1988,7 +2003,7 @@ Dienstleistungen für ihren Arbeitgeber gegenüber Dritten zu erbringen,
 
 
 2.  als Besucher an einer Messeveranstaltung, Fachkonferenz oder
-    Fachtagung teilnehmen, ohne Tätigkeiten nach § 2a Absatz 1 Nummer 8
+    Fachtagung teilnehmen, ohne Tätigkeiten nach § 2a Absatz 1 Nummer 7
     des Schwarzarbeitsbekämpfungsgesetzes zu erbringen,
 
 
@@ -2007,10 +2022,10 @@ als 30 Tage innerhalb eines Zeitraums von zwölf Monaten im Inland
 tätig ist.
 
 
-## Unterabschnitt 2 - Sonderregelungen für den Straßenverkehrssektor
+### Unterabschnitt 2 - Sonderregelungen für den Straßenverkehrssektor
 
 
-### § 36 Kraftfahrer und Kraftfahrerinnen, die im Inland von Arbeitgebern mit Sitz im Ausland beschäftigt werden
+#### § 36 Kraftfahrer und Kraftfahrerinnen, die im Inland von Arbeitgebern mit Sitz im Ausland beschäftigt werden
 
 (1) Die Arbeitsbedingungen nach den §§ 2, 5 und 13b dieses Gesetzes
 sowie nach § 20 des Mindestlohngesetzes sind auf jene Kraftfahrer oder
@@ -2053,7 +2068,7 @@ Deutschland geregelt ist, sind entsprechend dieser Regelungen in dem
 völkerrechtlichen Vertrag zu behandeln.
 
 
-### § 37 Bilaterale Beförderung von Gütern
+#### § 37 Bilaterale Beförderung von Gütern
 
 (1) Nicht als im Inland beschäftigt im Sinne des § 36 Absatz 1 gelten
 Kraftfahrer und Kraftfahrerinnen, wenn sie ausschließlich bilaterale
@@ -2103,7 +2118,7 @@ die mit intelligenten Fahrtenschreibern nach den Artikeln 8 bis 10 der
 Verordnung (EU) Nr. 165/2014 ausgestattet sind.
 
 
-### § 38 Bilaterale Beförderung von Personen
+#### § 38 Bilaterale Beförderung von Personen
 
 (1) Nicht als im Inland beschäftigt im Sinne des § 36 Absatz 1 gelten
 Kraftfahrer und Kraftfahrerinnen, wenn sie ausschließlich bilaterale
@@ -2154,7 +2169,7 @@ die mit intelligenten Fahrtenschreibern nach den Artikeln 8 bis 10 der
 Verordnung (EU) Nr. 165/2014 ausgestattet sind.
 
 
-### § 39 Kombinierter Verkehr
+#### § 39 Kombinierter Verkehr
 
 Nicht als im Inland beschäftigt im Sinne von § 36 Absatz 1 gelten
 Kraftfahrer und Kraftfahrerinnen, wenn sie im kombinierten Verkehr im
@@ -2169,7 +2184,7 @@ Beförderungen von Gütern und zusätzliche Beförderungen nach § 37
 durchgeführt werden.
 
 
-### § 40 Transit
+#### § 40 Transit
 
 Nicht als im Inland beschäftigt im Sinne des § 36 Absatz 1 gelten
 Kraftfahrer und Kraftfahrerinnen eines Arbeitgebers mit Sitz in einem
@@ -2179,10 +2194,10 @@ beladen oder zu entladen und ohne Fahrgäste aufzunehmen oder
 abzusetzen (Transit).
 
 
-## Unterabschnitt 3 - Übergangsbestimmungen
+### Unterabschnitt 3 - Übergangsbestimmungen
 
 
-### § 41 Übergangsbestimmungen für Langzeitentsendung
+#### § 41 Übergangsbestimmungen für Langzeitentsendung
 
 (1) Die nach § 13b Absatz 1 vorgeschriebenen Arbeitsbedingungen sind
 frühestens ab dem 30. Juli 2020 anzuwenden.
@@ -2193,7 +2208,7 @@ mitgezählt. Hat die Beschäftigung im Inland vor dem 30. Juli 2020
 begonnen, gilt die Mitteilung nach § 13b Absatz 2 als abgegeben.
 
 
-### § 42 Übergangsbestimmungen für das Baugewerbe
+#### § 42 Übergangsbestimmungen für das Baugewerbe
 
 Die vor dem 30. Juli 2020 ausgesprochene Allgemeinverbindlicherklärung
 eines Tarifvertrags im Baugewerbe nach § 4 Absatz 1 Nummer 1, § 6

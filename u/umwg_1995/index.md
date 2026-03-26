@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1994, 3210 (1995 I 428)
 
 Zuletzt geändert durch
-:   Art. 34 Abs. 16 G v. 22.12.2023 I Nr. 411
-
-Mittelbare änderung durch
-:   Art. 34 Abs. 4 G v. 22.12.2023 I Nr. 411 ist berücksichtigt
+:   Art. 17 G v. 23.10.2024 I Nr. 323
 
 Dieses Gesetz dient, soweit es Regelungen über Umwandlungen unter
 Beteiligung von Aktiengesellschaften enthält, der Umsetzung folgender
@@ -693,7 +690,7 @@ Würdigung der vertraglichen Rechte aller Beteiligten.
 ist, wenn sie binnen sechs Monaten nach dem Tag, an dem die Eintragung
 der Verschmelzung in das Register des Sitzes desjenigen Rechtsträgers,
 dessen Gläubiger sie sind, nach § 19 Abs. 3 bekannt gemacht worden
-ist, ihren Anspruch nach Grund und Höhe schriftlich anmelden,
+ist, ihren Anspruch nach Grund und Höhe in Textform anmelden,
 Sicherheit zu leisten, soweit sie nicht Befriedigung verlangen können.
 Dieses Recht steht den Gläubigern jedoch nur zu, wenn sie glaubhaft
 machen, daß durch die Verschmelzung die Erfüllung ihrer Forderung
@@ -2364,7 +2361,7 @@ Verschmelzung solcher Rechtsträger nicht gegründet werden.
 Der Verschmelzungsvertrag oder sein Entwurf ist für einen
 wirtschaftlichen Verein nach den §§ 9 bis 12 zu prüfen. Bei einem
 eingetragenen Verein ist diese Prüfung nur erforderlich, wenn
-mindestens zehn vom Hundert der Mitglieder sie schriftlich verlangen.
+mindestens zehn vom Hundert der Mitglieder sie in Textform verlangen.
 
 
 ##### § 101 Vorbereitung der Mitgliederversammlung

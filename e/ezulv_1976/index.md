@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 3.12.1998 I 3497;
 
 Zuletzt geändert durch
-:   Art. 74 G v. 20.8.2021 I 3932
-
-Änderung durch
-:   Art. 23 G v. 22.12.2023 I Nr. 414 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 23 G v. 22.12.2023 I Nr. 414
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
@@ -153,12 +150,12 @@ gewährt.
 
 2.  Soldaten, die vorübergehend dienstunfähig sind
 
-    a)  infolge eines Dienstunfalls im Sinne des § 27 des
+    a)  infolge eines Dienstunfalls im Sinne des § 42 des
         Soldatenversorgungsgesetzes in Verbindung mit § 37 Absatz 1 oder
         Absatz 2 des Beamtenversorgungsgesetzes oder
 
 
-    b)  infolge eines Unfalls im Sinne des § 63c Absatz 2 Satz 2 des
+    b)  infolge eines Unfalls im Sinne des § 87 Absatz 2 Satz 2 des
         Soldatenversorgungsgesetzes.
 
 
@@ -769,12 +766,12 @@ des Bundeskriminalamtes.
 
 2.  Soldaten, die vorübergehend dienstunfähig sind
 
-    a)  infolge eines Dienstunfalls im Sinne des § 27 des
+    a)  infolge eines Dienstunfalls im Sinne des § 42 des
         Soldatenversorgungsgesetzes in Verbindung mit § 37 Absatz 1 oder
         Absatz 2 des Beamtenversorgungsgesetzes oder
 
 
-    b)  infolge eines Unfalls im Sinne des § 63c Absatz 2 Satz 2 des
+    b)  infolge eines Unfalls im Sinne des § 87 Absatz 2 Satz 2 des
         Soldatenversorgungsgesetzes.
 
 
@@ -859,12 +856,12 @@ sechsten Monats, der auf den Eintritt der Unterbrechung folgt.
 
 2.  bei Soldaten, die vorübergehend dienstunfähig sind
 
-    a)  infolge eines Dienstunfalls im Sinne des § 27 des
+    a)  infolge eines Dienstunfalls im Sinne des § 42 des
         Soldatenversorgungsgesetzes in Verbindung mit § 37 Absatz 1 oder
         Absatz 2 des Beamtenversorgungsgesetzes oder
 
 
-    b)  infolge eines Unfalls im Sinne des § 63c Absatz 2 Satz 2 des
+    b)  infolge eines Unfalls im Sinne des § 87 Absatz 2 Satz 2 des
         Soldatenversorgungsgesetzes.
 
 

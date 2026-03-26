@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2002, 3457
 
 Zuletzt geändert durch
-:   Art. 3 V v. 3.3.2020 I 412
+:   Art. 2 V v. 25.3.2025 I Nr. 100
 
 [^BJNR345710002_01]:     Die Verpflichtungen aus der Richtlinie 98/34/EG des Europäischen
     Parlaments und des Rates vom 22. Juni 1998 über ein
@@ -44,12 +44,17 @@ Zuletzt geändert durch
 
 ### § 1 Geltungsbereich
 
-(1) Diese Verordnung gilt für die Sportboote und Wassermotorräder im
+(1) Diese Verordnung gilt für Sportboote und Wassermotorräder, die der
+Richtlinie 2013/53/EU des Europäischen Parlaments und des Rates vom
+20\. November 2013 über Sportboote und Wassermotorräder und zur
+Aufhebung der Richtlinie 94/25/EG (ABl. L 354 vom 28.12.2013, S. 90; L
+297 vom 13.11.2015, S. 9) unterliegen und unbeschadet des § 14, im
 Bereich der deutschen Seeschifffahrtsstraßen und der seewärts
 angrenzenden Gewässer des deutschen Küstenmeeres.
 
-(2) Diese Verordnung gilt außerdem für Sportboote, die die
-Bundesflagge führen und ihren ständigen Liegeplatz im Ausland haben.
+(2) Diese Verordnung gilt außerdem für die in Absatz 1 genannten
+Wasserfahrzeuge, die die Bundesflagge führen und ihren ständigen
+Liegeplatz im Ausland haben.
 
 (3) Dieser Verordnung unterliegen
 
@@ -68,8 +73,8 @@ Bundesflagge führen und ihren ständigen Liegeplatz im Ausland haben.
 
 
 (4) Diese Verordnung gilt, mit Ausnahme der §§ 14, 15, 17 und 19,
-nicht für Sportboote, die mit Gestellung eines Bootsführers oder einer
-Besatzung gegen Entgelt überlassen werden und der
+nicht für Wasserfahrzeuge, die mit Gestellung eines Bootsführers oder
+einer Besatzung gegen Entgelt überlassen werden und der
 Schiffssicherheitsverordnung vom 18. September 1998 (BGBl. I S. 3013,
 3023), zuletzt geändert durch Artikel 2 der Verordnung vom 24. August
 2001 (BGBl. I S. 2276), in der jeweils geltenden Fassung unterliegen.
@@ -89,28 +94,38 @@ Verhaltenspflichten bleiben unberührt.
 
 1.  Sportboote
 
-    Wasserfahrzeuge mit oder ohne Maschinenantrieb, die für Sport- und
-    Erholungszwecke gebaut worden sind und ausschließlich für Sport- oder
-    Erholungszwecke oder für die Ausbildung zum Führen von Sportbooten
-    verwendet werden und die für nicht mehr als zwölf Personen zuzüglich
-    Fahrzeugführer und Besatzung zugelassen sind,
+    Wasserfahrzeuge im Sinne der Richtlinie 2013/53/EU des Europäischen
+    Parlaments und des Rates vom 20. November 2013 über Sportboote und
+    Wassermotorräder und zur Aufhebung der Richtlinie 94/25/EG (ABl. L 354
+    vom 28.12.2013, S. 90; L 297 vom 13.11.2015, S. 9), die zu Sport- und
+    Freizeitzwecken bestimmt sind,
 
 
-2.  große Sportboote
+2.  Sport- und Freizeitzwecke
+
+    die nicht gewerbsmäßige Nutzung eines Wasserfahrzeugs zu
+    wassersportlichen Aktivitäten, zur Fortbewegung, zur Erholung oder zum
+    Vergnügen an Bord; Sport- und Freizeitzwecke liegen nicht vor bei
+    kulturellen, politischen, religiösen, wissenschaftlichen,
+    künstlerischen, wohltätigen und humanitären Aktivitäten oder
+    vergleichbaren ideellen Zwecken,
+
+
+3.  große Sportboote
 
     Sportboote mit Kajüte und Übernachtungsmöglichkeiten, die für Fahrten
     seewärts der Basislinie (Küstenmeer, küstennahe Seegewässer, Hohe See)
     geeignet und bestimmt sind, insbesondere Segel- und Motoryachten,
 
 
-3.  kleine Sportboote
+4.  kleine Sportboote
 
     Sportboote, die für Fahrten binnenwärts der Basislinie (andere
     Gewässer) oder in Strandnähe geeignet und bestimmt sind, insbesondere
     offene Segel-, Motor-, Ruder-, Falt-, Schlauch- und Wassertretboote,
 
 
-4.  Wassermotorräder
+5.  Wassermotorräder
 
     Wasserfahrzeuge mit weniger als vier Meter Länge, die einen
     Verbrennungsmotor mit Strahlpumpenantrieb als Hauptantriebsquelle
@@ -119,7 +134,7 @@ Verhaltenspflichten bleiben unberührt.
     sitzen, stehen oder knien,
 
 
-5.  Vermietung
+6.  Vermietung
 
     die gegen Entgelt erfolgende Überlassung eines Sportbootes oder
     Wassermotorrades zum Gebrauch an laufend wechselnde Mieter ohne
@@ -127,11 +142,24 @@ Verhaltenspflichten bleiben unberührt.
     Mieter das Sportboot gewerbsmäßig nutzt,
 
 
-6.  gewerbsmäßige Nutzung
-    der Einsatz von Sportbooten gegen ein Entgelt,
+7.  gewerbsmäßige Nutzung
+
+    die öffentlich einem unbestimmten Personenkreis mit einer gewissen
+    Regelmäßigkeit angebotene Beförderung von Personen oder Ladung gegen
+    Entgelt oder die Erbringung von Dienstleistungen gegen Entgelt
+    einschließlich der Sportausbildung, ohne Vermietung zu sein; eine
+    Gewinnerzielungsabsicht ist nicht erforderlich,
 
 
-7.  anerkannte Organisation
+8.  Sportausbildung
+
+    die Ausbildung zum Führen von Sportbooten auf Grundlage eines
+    schriftlichen Lehrprogramms, insbesondere zum Erwerb des
+    Sportbootführerschein nach der Sportbootführerscheinverordnung oder
+    eines Befähigungsnachweises nach der Sportseeschifferscheinverordnung,
+
+
+9.  anerkannte Organisation
 
     eine nach der Richtlinie 2009/15/EG anerkannte
     Klassifikationsgesellschaft, mit der ein Auftragsverhältnis im Sinne
@@ -139,7 +167,9 @@ Verhaltenspflichten bleiben unberührt.
     ist,
 
 
-8.  Berufsgenossenschaft
+
+
+10. Berufsgenossenschaft
 
     die Dienststelle Schiffssicherheit bei der Berufsgenossenschaft
     Verkehrswirtschaft Post-Logistik Telekommunikation.
@@ -546,64 +576,68 @@ Mieter und Bootsführer Verbote und Gebote erlassen oder Ausnahmen
 zulassen.
 
 
-## Abschnitt 4 - Gewerbsmäßige Nutzung von Sportbooten im Inland
+## Abschnitt 4 - Gewerbsmäßige Folgenutzung im Inland
 
 
 
 ### § 14 Sicherheitszeugnis
 
-Ein Sportboot darf nur gewerbsmäßig genutzt werden, wenn es ein
-Sicherheitszeugnis der Berufsgenossenschaft nach § 9 Absatz 3 der
+(1) Ein Wasserfahrzeug, das zu Sport- und Freizeitzwecken gebaut oder
+gewidmet wurde, unterliegt den Bestimmungen der
 Schiffssicherheitsverordnung vom 18. September 1998 (BGBl. I S. 3013,
-3023), die zuletzt durch Artikel 1 der Verordnung vom 7. März 2018
-(BGBl. I S. 237) geändert worden ist, besitzt und den übrigen
-Anforderungen der Schiffssicherheitsverordnung entspricht. Soweit die
-internationalen Regelungen und die Schiffssicherheitsverordnung nicht
-entgegenstehen, richten sich die Sicherheitsanforderungen für
-gewerbsmäßig genutzte Sportboote bis zum Inkrafttreten des Teils 4 der
-Anlage 1a zur Schiffssicherheitsverordnung vom 18. September 1998 in
-ihrer jeweils geltenden Fassung nach der Richtlinie über
-Sicherheitsvorschriften für gewerbsmäßig zu Ausbildungszwecken
-genutzte Sportfahrzeuge nach § 52a der Schiffssicherheitsverordnung
-1997 (Richtlinie für Ausbildungsfahrzeuge) vom 25. August 1997 (VkBl.
-S. 572).
+3023) in der jeweilig geltenden Fassung, sobald es gewerbsmäßig
+genutzt wird.
+
+(2) Abweichend von Absatz 1 gilt für Wasserfahrzeuge im Sinne des § 14
+Absatz 1 im Fall der Überlassung einer Koje oder Kabine gegen Entgelt
+zu Sport und Freizeitzwecken (Kojencharterboote) und für
+Wasserfahrzeuge, die mit Gestellung eines Bootsführers oder einer
+Besatzung gegen Entgelt zu Sport- und Freizeitzwecken überlassen oder
+die in der Sportausbildung eingesetzt werden, Regel 10.3 in Kapitel 3
+des Teil 6 der Anlage 1a der Schiffssicherheitsverordnung nicht.
 
 
 ### § 15 Fahrerlaubnis
 
-(1) Wer ein Sportboot zum Zweck der gewerbsmäßigen Nutzung führt,
-bedarf einer Fahrerlaubnis sowie eines für die Funkstelle
-ausreichenden gültigen Funkzeugnisses. Wird das Sportboot in den
-Küstengewässern eingesetzt, ist die Fahrerlaubnis durch Vorlage des
-Sportküstenschifferscheins im Sinne des § 1 Absatz 1 Satz 1 Nummer 1
-der Sportseeschifferscheinverordnung nachzuweisen. Wird das Sportboot
-in den küstennahen Seegewässern eingesetzt, ist die Fahrerlaubnis
-durch den Sportseeschifferschein im Sinne des § 1 Absatz 1 Satz 1
-Nummer 2 der Sportseeschifferscheinverordnung nachzuweisen, bei
-Einsatz des Sportbootes in der weltweiten Fahrt durch den
+(1) Wer ein Wasserfahrzeug im Sinne des § 14 Absatz 2 führt, bedarf
+einer Fahrerlaubnis sowie eines für die Funkstelle ausreichenden
+gültigen Funkzeugnisses. Wird das Wasserfahrzeug in den
+Küstengewässern und Binnenwasserstraßen, die zugleich
+Seeschifffahrtsstraßen sind, eingesetzt, ist die Fahrerlaubnis durch
+Vorlage des Sportküstenschifferscheins im Sinne des § 1 Absatz 1 Satz
+1 Nummer 1 der Sportseeschifferscheinverordnung nachzuweisen. Wird das
+Wasserfahrzeug in den küstennahen Seegewässern eingesetzt, ist die
+Fahrerlaubnis durch den Sportseeschifferschein im Sinne des § 1 Absatz
+1 Satz 1 Nummer 2 der Sportseeschifferscheinverordnung nachzuweisen,
+bei Einsatz des Wasserfahrzeugs in der weltweiten Fahrt durch den
 Sporthochseeschifferschein im Sinne des § 1 Absatz 1 Satz 1 Nummer 3
 der Sportseeschifferscheinverordnung. Der Nachweis des für die
-Funkstelle ausreichenden gültigen Funkzeugnisses richtet sich nach § 1
-Absatz 7 der Sportseeschifferscheinverordnung.
+Funkstelle ausreichenden gültigen Funkzeugnisses bestimmt sich nach §
+1 Absatz 7 der Sportseeschifferscheinverordnung.
 
-(1a) Im Einzelfall kann die Generaldirektion Wasserstraßen und
-Schifffahrt abweichend von Absatz 1 Satz 2 auf Antrag des
-Sportbootführers oder der Sportbootführerin einen
-Sportbootführerschein für den Geltungsbereich Seeschifffahrtsstraßen
-im Sinne der Sportbootführerscheinverordnung vom 3. Mai 2017 (BGBl. I
-S. 1016), in der jeweils geltenden Fassung als ausreichenden Nachweis
-der Fahrerlaubnis bei Einsatz des Sportbootes bis zu 300 Meter Abstand
-vom Ufer anerkennen, wenn die örtlichen Verhältnisse der Gewässer, das
-zu führende Sportboot und die Sicherheit und Leichtigkeit der
-Schifffahrt dies gestatten. Hierüber ist eine entsprechende
-Bescheinigung auszustellen. Die Bescheinigung ist beim Führen des
-Sportbootes mitzuführen und den zur Kontrolle befugten Personen auf
-Verlangen zur Prüfung auszuhändigen.
+(2) Im Einzelfall kann die Generaldirektion Wasserstraßen und
+Schifffahrt abweichend von Absatz 1 Satz 2 auf Antrag des Bootsführers
+einen Sportbootführerschein für den Geltungsbereich
+Seeschifffahrtsstraßen im Sinne der Sportbootführerscheinverordnung
+vom 3. Mai 2017 (BGBl. I S. 1016), in der jeweils geltenden Fassung
+als ausreichenden Nachweis der Fahrerlaubnis bei Einsatz des
+Sportbootes bis zu 300 Meter Abstand vom Ufer anerkennen, wenn die
+örtlichen Verhältnisse der Gewässer, das zu führende Wasserfahrzeug
+und die Sicherheit und Leichtigkeit der Schifffahrt dies gestatten.
+Hierüber ist eine entsprechende Bescheinigung auszustellen. Der
+Bootsführer hat die Bescheinigung beim Führen des Wasserfahrzeugs
+mitzuführen und den zur Kontrolle befugten Personen auf Verlangen zur
+Prüfung auszuhändigen.
 
-(2) Der Bootsführer muss dafür sorgen, dass gewerbsmäßig genutzte
-Sportboote entsprechend ihrer Antriebsart mindestens die sich aus der
-Anlage 4 ergebende Besetzung mit Inhabern von Fahrerlaubnissen nach
-Absatz 1 haben.
+(3) Der Bootsführer eines Wasserfahrzeugs im Sinne des § 14 Absatz 2
+muss dafür sorgen, dass dieses entsprechend seiner Antriebsart
+mindestens die sich aus der Anlage 4 ergebende Besetzung mit Inhabern
+von Fahrerlaubnissen nach Absatz 1 hat.
+
+(4) Die Absätze 1 bis 3 gelten entsprechend für Wasserfahrzeuge mit
+einem Sicherheitszeugnis, das vor dem 30. November 2024 nach § 14 der
+See-Sportbootverordnung ausgestellt worden ist, auch wenn das
+Sicherheitszeugnis nach dem 30. November 2024 erneuert wird.
 
 
 ## Abschnitt 5 - Schlussvorschriften für Sportboote und Wassermotorräder im Inland
@@ -712,25 +746,25 @@ Seeaufgabengesetzes handelt, wer vorsätzlich oder fahrlässig
         anlegt,
 
 
-    e)  entgegen § 14 Satz 1 ein Sportboot ohne Sicherheitszeugnis
-        gewerbsmäßig nutzt,
+    e)  entgegen § 14 Satz 1 ein Wasserfahrzeug ohne Sicherheitszeugnis
+        gewerbsmäßig nutzt oder
 
 
-    f)  ohne Fahrerlaubnis nach § 15 Abs. 1 Satz 1 ein Sportboot führt,
-
-
-    g)  entgegen § 15 Absatz 1a Satz 3 die dort genannte Bescheinigung nicht
-        mitführt oder nicht oder nicht rechtzeitig aushändigt oder
-
-
-    h)  entgegen § 15 Abs. 2 nicht dafür sorgt, dass ein gewerbsmäßig
-        genutztes Sportboot die vorgeschriebene Besetzung hat oder
+    f)  ohne Fahrerlaubnis nach § 15 Abs. 1 Satz 1 ein Wasserfahrzeug führt,
 
 
 
 
 
-5.  einer vollziehbaren Anordnung nach § 13 zuwiderhandelt.
+5.  einer vollziehbaren Anordnung nach § 13 zuwiderhandelt,
+
+
+6.  entgegen § 15 Absatz 2 Satz 3 eine Bescheinigung nicht mitführt oder
+    nicht oder nicht rechtzeitig aushändigt oder
+
+
+7.  entgegen § 15 Absatz 3 nicht dafür sorgt, dass ein Wasserfahrzeug die
+    vorgeschriebene Besetzung hat.
 
 
 
@@ -786,19 +820,20 @@ der jeweilige Staat für Sportboote unter deutscher Flagge ein eigenes
 Sicherheitszeugnis vorschreibt.
 
 
-### § 19 Gewerbsmäßige Nutzung im Ausland
+### § 19 Gewerbsmäßige Folgenutzung im Ausland
 
-(1) Für Sportboote unter deutscher Flagge, die im Ausland gewerbsmäßig
-genutzt werden, ist § 14 entsprechend anzuwenden.
+(1) Für ein Wasserfahrzeug unter deutscher Flagge, das zu Sport- und
+Freizeitzwecken gebaut oder gewidmet wurde, gilt § 14 auch im Fall der
+gewerbsmäßigen Nutzung im Ausland.
 
 (2) Deutsche mit Wohnsitz im Geltungsbereich des Grundgesetzes, die im
-Ausland ein Sportboot zum Zweck der gewerbsmäßigen Nutzung führen,
-bedürfen einer Fahrerlaubnis nach § 15 sowie eines
-Funkbetriebszeugnisses. Funkbetriebszeugnisse nach Satz 1 sind
-mindestens das UKW-Betriebszeugnis I im Sinne des § 2 Abs. 1 Nr. 3
-Buchstabe d der Verordnung über Seefunkzeugnisse oder das Beschränkt
-Gültige Funkbetriebszeugnis (SRC) im Sinne des Abschnitts A Nr. 1
-Buchstabe b Doppelbuchstabe bb der Anlage 3 zu § 13 Abs. 4a der
+Ausland ein dem § 14 Absatz 2 entsprechendes Wasserfahrzeug zum Zweck
+der gewerbsmäßigen Nutzung führen, bedürfen einer Fahrerlaubnis nach §
+15 sowie eines Funkbetriebszeugnisses. Funkbetriebszeugnisse nach Satz
+1 sind mindestens das UKW-Betriebszeugnis I im Sinne des § 2 Abs. 1
+Nr. 3 Buchstabe d der Verordnung über Seefunkzeugnisse oder das
+Beschränkt Gültige Funkbetriebszeugnis (SRC) im Sinne des Abschnitts A
+Nr. 1 Buchstabe b Doppelbuchstabe bb der Anlage 3 zu § 13 Abs. 4a der
 Schiffssicherheitsverordnung.
 
 
@@ -1982,19 +2017,20 @@ I
 ++) Prüfungsnachweis
 +++) baumustergeprüft
 
-(zu § 15 Abs. 2)
+(zu § 15 Absatz 3)
 
 ### Anlage 4 Besetzung von gewerbsmäßig genutzten Sportbooten
 
-(Fundstelle: BGBl. I 2010, 574)
+(Fundstelle: BGBl. I 2010, 574;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
-## **Besetzung von gewerbsmäßig genutzten Sportbooten**
+## **Besetzung von gewerbsmäßig genutzten Wasserfahrzeugen**
 
-*    *   Rumpflänge des Sportbootes/
+*    *   Rumpflänge des Wasserfahrzeuges/
         Fahrtgebiet
 
-    *[^F774137_01_BJNR345710002BJNE002402118]
+    *[^F774137_01_BJNR345710002BJNE002404119]
    Besetzung
 
 
@@ -2019,7 +2055,7 @@ I
 
 
 
-    *[^F774137_02_BJNR345710002BJNE002402118]
+    *[^F774137_02_BJNR345710002BJNE002404119]
    1 x Sportküstenschifferschein
 
 
@@ -2029,7 +2065,7 @@ I
 
 
 
-    *[^F774137_03_BJNR345710002BJNE002402118]
+    *[^F774137_03_BJNR345710002BJNE002404119]
    1 x Sportseeschifferschein
 
 
@@ -2106,14 +2142,14 @@ I
 
 
 
-    Befähigungsnachweis entsprechend der Antriebsart des Sportbootes.
-[^F774137_01_BJNR345710002BJNE002402118]:     Sportboote, die innerhalb von 24 Stunden länger als zehn Stunden
+    Befähigungsnachweis entsprechend der Antriebsart des Wasserfahrzeuges.
+[^F774137_01_BJNR345710002BJNE002404119]:     Wasserfahrzeuge, die innerhalb von 24 Stunden länger als zehn Stunden
     fahren, müssen zusätzlich mit einem Inhaber oder einer Inhaberin des
     Sportbootführerscheins-See besetzt werden, der oder die den Nachweis
     nach § 6 Absatz 1 Nummer 2 der Sportseeschifferscheinverordnung führt,
-    dass er oder sie mindestens 300 Seemeilen auf Sportbooten mit der
+    dass er oder sie mindestens 300 Seemeilen auf Wasserfahrzeugen mit der
     jeweiligen Antriebsart im Küstenbereich zurückgelegt hat.
-[^F774137_02_BJNR345710002BJNE002402118]:     Sportboote, die innerhalb von 24 Stunden länger als zehn Stunden
+[^F774137_02_BJNR345710002BJNE002404119]:     Wasserfahrzeuge, die innerhalb von 24 Stunden länger als zehn Stunden
     fahren, müssen zusätzlich mit einem Inhaber des
     Sportküstenschifferscheins besetzt werden.
-[^F774137_03_BJNR345710002BJNE002402118]: 
+[^F774137_03_BJNR345710002BJNE002404119]: 

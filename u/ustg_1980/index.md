@@ -19,10 +19,19 @@ Neugefasst durch
 :   Bek. v. 21.2.2005 I 386;
 
 Zuletzt geändert durch
-:   Art. 22 G v. 27.3.2024 I Nr. 108
+:   Art. 27 G v. 2.12.2024 I Nr. 387
+
+Mittelbare änderung durch
+:   Art. 52 G v. 2.12.2024 I Nr. 387 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 23 G v. 27.3.2024 I Nr. 108 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 4 G v. 22.12.2025 I Nr. 363 ist berücksichtigt
+
+Änderung durch
+:   Art. 4 G v. 22.12.2025 I Nr. 369 ist berücksichtigt
+
+Änderung durch
+:   Art. 62 Abs. 7 G v. 4.2.2026 I Nr. 33 ist berücksichtigt
 
 
 ## Erster Abschnitt - Steuergegenstand und Geltungsbereich
@@ -215,8 +224,7 @@ liegt nicht vor, wenn die folgenden Voraussetzungen erfüllt sind:
         Ausschluss vom Vorsteuerabzug führen,
 
 
-    b)  ein Unternehmer, für dessen Umsätze Umsatzsteuer nach § 19 Abs. 1
-        nicht erhoben wird,
+    b)  (weggefallen)
 
 
     c)  ein Unternehmer, der den Gegenstand zur Ausführung von Umsätzen
@@ -531,8 +539,8 @@ Inbetriebnahme durch den Lieferer oder für dessen Rechnung montiert
 oder installiert geliefert wird.
 
 (4) Hat der Unternehmer die Bearbeitung oder Verarbeitung eines
-Gegenstands übernommen und verwendet er hierbei Stoffe, die er selbst
-beschafft, so ist die Leistung als Lieferung anzusehen
+fremden Gegenstands übernommen und verwendet er hierbei Stoffe, die er
+selbst beschafft, so ist die Leistung als Lieferung anzusehen
 (Werklieferung), wenn es sich bei den Stoffen nicht nur um Zutaten
 oder sonstige Nebensachen handelt. Das gilt auch dann, wenn die
 Gegenstände mit dem Grund und Boden fest verbunden werden.
@@ -820,27 +828,32 @@ oder eines Gesellschafters bestimmt sind.
     diesem Ort befindet.
 
 
-3.  Die folgenden sonstigen Leistungen werden dort ausgeführt, wo sie vom
+3.  Kulturelle, künstlerische, wissenschaftliche, unterrichtende,
+    sportliche, unterhaltende oder ähnliche Leistungen, wie Leistungen im
+    Zusammenhang mit Messen und Ausstellungen, einschließlich der
+    Leistungen der jeweiligen Veranstalter sowie die damit
+    zusammenhängenden Tätigkeiten, die für die Ausübung der Leistungen
+    unerlässlich sind, an einen Empfänger, der weder ein Unternehmer ist,
+    für dessen Unternehmen die Leistung ausgeführt wird, noch eine
+    nichtunternehmerisch tätige juristische Person, der eine Umsatzsteuer-
+    Identifikationsnummer erteilt worden ist, werden dort ausgeführt, wo
+    sie vom Unternehmer tatsächlich erbracht werden. Werden die Leistungen
+    per Streaming übertragen oder auf andere Weise virtuell verfügbar
+    gemacht, gilt abweichend von Satz 1 als Ort der sonstigen Leistung der
+    Ort, an dem der Empfänger ansässig ist oder seinen Wohnsitz oder
+    gewöhnlichen Aufenthaltsort hat.
+
+
+3a. Die folgenden Leistungen werden dort ausgeführt, wo sie vom
     Unternehmer tatsächlich erbracht werden:
 
-    a)  kulturelle, künstlerische, wissenschaftliche, unterrichtende,
-        sportliche, unterhaltende oder ähnliche Leistungen, wie Leistungen im
-        Zusammenhang mit Messen und Ausstellungen, einschließlich der
-        Leistungen der jeweiligen Veranstalter sowie die damit
-        zusammenhängenden Tätigkeiten, die für die Ausübung der Leistungen
-        unerlässlich sind, an einen Empfänger, der weder ein Unternehmer ist,
-        für dessen Unternehmen die Leistung bezogen wird, noch eine nicht
-        unternehmerisch tätige juristische Person, der eine Umsatzsteuer-
-        Identifikationsnummer erteilt worden ist,
-
-
-    b)  die Abgabe von Speisen und Getränken zum Verzehr an Ort und Stelle
+    a)  die Abgabe von Speisen und Getränken zum Verzehr an Ort und Stelle
         (Restaurationsleistung), wenn diese Abgabe nicht an Bord eines
         Schiffs, in einem Luftfahrzeug oder in einer Eisenbahn während einer
-        Beförderung innerhalb des Gemeinschaftsgebiets erfolgt,
+        Beförderung innerhalb des Gemeinschaftsgebiets erfolgt;
 
 
-    c)  Arbeiten an beweglichen körperlichen Gegenständen und die Begutachtung
+    b)  Arbeiten an beweglichen körperlichen Gegenständen und die Begutachtung
         dieser Gegenstände für einen Empfänger, der weder ein Unternehmer ist,
         für dessen Unternehmen die Leistung ausgeführt wird, noch eine nicht
         unternehmerisch tätige juristische Person, der eine Umsatzsteuer-
@@ -864,7 +877,10 @@ oder eines Gesellschafters bestimmt sind.
     an einen Unternehmer für dessen Unternehmen oder an eine nicht
     unternehmerisch tätige juristische Person, der eine Umsatzsteuer-
     Identifikationsnummer erteilt worden ist, wird an dem Ort erbracht, an
-    dem die Veranstaltung tatsächlich durchgeführt wird.
+    dem die Veranstaltung tatsächlich durchgeführt wird. Wird mit der
+    Eintrittsberechtigung eine virtuelle Teilnahme an einer Veranstaltung
+    ermöglicht, gilt abweichend von Satz 1 für die Einräumung dieser
+    Eintrittsberechtigung Absatz 2.
 
 
 
@@ -1245,7 +1261,7 @@ Von den unter § 1 Abs. 1 Nr. 1 fallenden Umsätzen sind steuerfrei:
 
 
 
-2.  die Umsätze für die Seeschiffahrt und für die Luftfahrt (§ 8);
+2.  die Umsätze für die Seeschifffahrt und für die Luftfahrt (§ 8);
 
 
 3.  die folgenden sonstigen Leistungen:
@@ -1295,48 +1311,7 @@ Von den unter § 1 Abs. 1 Nr. 1 fallenden Umsätzen sind steuerfrei:
 4.  die Lieferungen von Gold an Zentralbanken;
 
 
-4a. die folgenden Umsätze:
-
-    a)  die Lieferungen der in der Anlage 1 bezeichneten Gegenstände an einen
-        Unternehmer für sein Unternehmen, wenn der Gegenstand der Lieferung im
-        Zusammenhang mit der Lieferung in ein Umsatzsteuerlager eingelagert
-        wird oder sich in einem Umsatzsteuerlager befindet. Mit der
-        Auslagerung eines Gegenstands aus einem Umsatzsteuerlager entfällt die
-        Steuerbefreiung für die der Auslagerung vorangegangene Lieferung, den
-        der Auslagerung vorangegangenen innergemeinschaftlichen Erwerb oder
-        die der Auslagerung vorangegangene Einfuhr; dies gilt nicht, wenn der
-        Gegenstand im Zusammenhang mit der Auslagerung in ein anderes
-        Umsatzsteuerlager im Inland eingelagert wird. Eine Auslagerung ist die
-        endgültige Herausnahme eines Gegenstands aus einem Umsatzsteuerlager.
-        Der endgültigen Herausnahme steht gleich der sonstige Wegfall der
-        Voraussetzungen für die Steuerbefreiung sowie die Erbringung einer
-        nicht nach Buchstabe b begünstigten Leistung an den eingelagerten
-        Gegenständen,
-
-
-    b)  die Leistungen, die mit der Lagerung, der Erhaltung, der Verbesserung
-        der Aufmachung und Handelsgüte oder der Vorbereitung des Vertriebs
-        oder Weiterverkaufs der eingelagerten Gegenstände unmittelbar
-        zusammenhängen. Dies gilt nicht, wenn durch die Leistungen die
-        Gegenstände so aufbereitet werden, dass sie zur Lieferung auf der
-        Einzelhandelsstufe geeignet sind.
-
-
-
-
-    Die Steuerbefreiung gilt nicht für Leistungen an Unternehmer, die
-    diese zur Ausführung von Umsätzen verwenden, für die die Steuer nach
-    den Durchschnittssätzen des § 24 festgesetzt ist. Die Voraussetzungen
-    der Steuerbefreiung müssen vom Unternehmer eindeutig und leicht
-    nachprüfbar nachgewiesen sein. Umsatzsteuerlager kann jedes Grundstück
-    oder Grundstücksteil im Inland sein, das zur Lagerung der in Anlage 1
-    genannten Gegenstände dienen soll und von einem Lagerhalter betrieben
-    wird. Es kann mehrere Lagerorte umfassen. Das Umsatzsteuerlager bedarf
-    der Bewilligung des für den Lagerhalter zuständigen Finanzamts. Der
-    Antrag ist schriftlich zu stellen. Die Bewilligung ist zu erteilen,
-    wenn ein wirtschaftliches Bedürfnis für den Betrieb des
-    Umsatzsteuerlagers besteht und der Lagerhalter die Gewähr für dessen
-    ordnungsgemäße Verwaltung bietet;
+4a. (weggefallen)
 
 
 4b. die einer Einfuhr vorangehende Lieferung von Gegenständen, wenn der
@@ -1403,7 +1378,7 @@ Von den unter § 1 Abs. 1 Nr. 1 fallenden Umsätzen sind steuerfrei:
 
 
     e)  die Abgabe von Speisen und Getränken zum Verzehr an Ort und Stelle im
-        Verkehr mit Wasserfahrzeugen für die Seeschiffahrt zwischen einem
+        Verkehr mit Wasserfahrzeugen für die Seeschifffahrt zwischen einem
         inländischen und ausländischen Seehafen und zwischen zwei
         ausländischen Seehäfen. Inländische Seehäfen im Sinne des Satzes 1
         sind auch die Freihäfen und Häfen auf der Insel Helgoland;
@@ -1600,11 +1575,9 @@ Von den unter § 1 Abs. 1 Nr. 1 fallenden Umsätzen sind steuerfrei:
 
     b)  auf Grund allgemeiner Geschäftsbedingungen zu abweichenden
         Qualitätsbedingungen oder zu günstigeren Preisen als den nach den
-        allgemein für jedermann zugänglichen Tarifen oder als den nach § 19
-        des Postgesetzes vom 22. Dezember 1997 (BGBl. I S. 3294), das zuletzt
-        durch Artikel 272 der Verordnung vom 31. Oktober 2006 (BGBl. I S.
-        2407) geändert worden ist, in der jeweils geltenden Fassung,
-        genehmigten Entgelten;
+        allgemein für jedermann zugänglichen Tarifen oder als den nach § 40
+        Absatz 1 des Postgesetzes vom 15. Juli 2024 (BGBl. 2024 I Nr. 236), in
+        der jeweils geltenden Fassung, genehmigten Entgelten;
 
 
 
@@ -1778,14 +1751,16 @@ Von den unter § 1 Abs. 1 Nr. 1 fallenden Umsätzen sind steuerfrei:
     § 44b Abs. 1 des Zweiten Buches Sozialgesetzbuch, der örtlichen und
     überörtlichen Träger der Sozialhilfe sowie der nach Bundes- oder
     Landesrecht zur Durchführung des Vierzehnten Buches Sozialgesetzbuch
-    zuständigen Verwaltungsbehörden
+    oder des Soldatenentschädigungsgesetzes zuständigen
+    Verwaltungsbehörden
 
     a)  untereinander,
 
 
     b)  an die Versicherten, die Bezieher von Leistungen nach dem Zweiten Buch
-        Sozialgesetzbuch, die Empfänger von Sozialhilfe oder die Berechtigten
-        der Sozialen Entschädigung;
+        Sozialgesetzbuch, die Empfänger von Sozialhilfe, die Berechtigten der
+        Sozialen Entschädigung oder die Berechtigten der
+        Soldatenentschädigung;
 
 
 
@@ -1913,9 +1888,10 @@ Von den unter § 1 Abs. 1 Nr. 1 fallenden Umsätzen sind steuerfrei:
         Kosten für eng mit der Betreuung oder Pflege verbundene Leistungen in
         mindestens 25 Prozent der Fälle von den gesetzlichen Trägern der
         Sozialversicherung, den Trägern der Sozialhilfe, den Trägern der
-        Eingliederungshilfe nach § 94 des Neunten Buches Sozialgesetzbuch oder
-        den für die Durchführung des Vierzehnten Buches Sozialgesetzbuch
-        zuständigen Stellen ganz oder zum überwiegenden Teil vergütet werden.
+        Eingliederungshilfe nach § 94 des Neunten Buches Sozialgesetzbuch, dem
+        Träger der Soldatenentschädigung oder den für die Durchführung des
+        Vierzehnten Buches Sozialgesetzbuch zuständigen Stellen ganz oder zum
+        überwiegenden Teil vergütet werden.
 
 
 
@@ -1967,8 +1943,7 @@ Von den unter § 1 Abs. 1 Nr. 1 fallenden Umsätzen sind steuerfrei:
         im Sinne des § 1 Abs. 2 und 3 des Energiesteuergesetzes und von
         Alkoholerzeugnissen im Sinne des Alkoholsteuergesetzes, wenn der
         Blinde für diese Erzeugnisse Energiesteuer oder Alkoholsteuer zu
-        entrichten hat, und für Lieferungen im Sinne der Nummer 4a Satz 1
-        Buchstabe a Satz 2,
+        entrichten hat,
 
 
     b)  die folgenden Umsätze der nicht unter Buchstabe a fallenden Inhaber
@@ -2015,17 +1990,18 @@ Von den unter § 1 Abs. 1 Nr. 1 fallenden Umsätzen sind steuerfrei:
 
 
 21.
-    a)  die unmittelbar dem Schul- und Bildungszweck dienenden Leistungen
-        privater Schulen und anderer allgemeinbildender oder berufsbildender
-        Einrichtungen,
+    a)  die unmittelbar dem Schul- und Bildungszweck dienenden Leistungen von
+        Einrichtungen des öffentlichen Rechts, die mit solchen Aufgaben
+        betraut sind, privaten Schulen und anderen allgemeinbildenden oder
+        berufsbildenden Einrichtungen,
 
         aa) wenn sie als Ersatzschulen gemäß Artikel 7 Abs. 4 des Grundgesetzes
             staatlich genehmigt oder nach Landesrecht erlaubt sind oder
 
 
-        bb) wenn die zuständige Landesbehörde bescheinigt, dass sie auf einen
-            Beruf oder eine vor einer juristischen Person des öffentlichen Rechts
-            abzulegende Prüfung ordnungsgemäß vorbereiten,
+        bb) wenn die zuständige Landesbehörde bescheinigt, dass sie
+            Schulunterricht, Hochschulunterricht, Ausbildung, Fortbildung oder
+            berufliche Umschulung erbringen,
 
 
 
@@ -2040,13 +2016,19 @@ Von den unter § 1 Abs. 1 Nr. 1 fallenden Umsätzen sind steuerfrei:
 
         bb) an privaten Schulen und anderen allgemeinbildenden oder
             berufsbildenden Einrichtungen, soweit diese die Voraussetzungen des
-            Buchstabens a erfüllen;
+            Buchstabens a erfüllen,
 
 
 
 
 
+    c)  Schul- und Hochschulunterricht, der von Privatlehrern erteilt wird.
 
+
+
+    Für die in den Nummern 15b und 15c bezeichneten Leistungen kommt die
+    Steuerbefreiung nur unter den dort genannten Voraussetzungen in
+    Betracht;
 
 
 21a. (weggefallen)
@@ -2442,19 +2424,10 @@ innerhalb eines Monats anzuzeigen.
 
 
 
-4.  der in der Anlage 1 bezeichneten Gegenstände, die im Anschluss an die
-    Einfuhr zur Ausführung von steuerfreien Umsätzen nach § 4 Nr. 4a Satz
-    1 Buchstabe a Satz 1 verwendet werden sollen; der Schuldner der
-    Einfuhrumsatzsteuer hat die Voraussetzungen der Steuerbefreiung
-    nachzuweisen;
+4.  (weggefallen)
 
 
-5.  der in der Anlage 1 bezeichneten Gegenstände, wenn die Einfuhr im
-    Zusammenhang mit einer Lieferung steht, die zu einer Auslagerung im
-    Sinne des § 4 Nr. 4a Satz 1 Buchstabe a Satz 2 führt und der Lieferer
-    oder sein Beauftragter Schuldner der Einfuhrumsatzsteuer ist; der
-    Schuldner der Einfuhrumsatzsteuer hat die Voraussetzungen der
-    Steuerbefreiung nachzuweisen;
+5.  (weggefallen)
 
 
 6.  von Erdgas über das Erdgasnetz oder von Erdgas, das von einem
@@ -2905,16 +2878,16 @@ Unternehmer die Nachweise zu führen hat.
 Sinne des § 3 Abs. 9a Nr. 2.
 
 
-### § 8 Umsätze für die Seeschiffahrt und für die Luftfahrt
+### § 8 Umsätze für die Seeschifffahrt und für die Luftfahrt
 
-(1) Umsätze für die Seeschiffahrt (§ 4 Nr. 2) sind:
+(1) Umsätze für die Seeschifffahrt (§ 4 Nr. 2) sind:
 
 1.  die Lieferungen, Umbauten, Instandsetzungen, Wartungen,
     Vercharterungen und Vermietungen von Wasserfahrzeugen für die
-    Seeschiffahrt, die dem Erwerb durch die Seeschiffahrt oder der Rettung
-    Schiffbrüchiger zu dienen bestimmt sind (aus Positionen 8901 und 8902
-    00, aus Unterposition 8903 92 10, aus Position 8904 00 und aus
-    Unterposition 8906 90 10 des Zolltarifs);
+    Seeschifffahrt, die dem Erwerb durch die Seeschifffahrt oder der
+    Rettung Schiffbrüchiger zu dienen bestimmt sind (aus Positionen 8901
+    und 8902 00, aus Unterposition 8903 92 10, aus Position 8904 00 und
+    aus Unterposition 8906 90 10 des Zolltarifs);
 
 
 2.  die Lieferungen, Instandsetzungen, Wartungen und Vermietungen von
@@ -3019,20 +2992,15 @@ unmittelbar mit dem Preis dieser Umsätze zusammenhängenden
 Subventionen, jedoch abzüglich der für diese Leistung gesetzlich
 geschuldeten Umsatzsteuer. Bei dem innergemeinschaftlichen Erwerb sind
 Verbrauchsteuern, die vom Erwerber geschuldet oder entrichtet werden,
-in die Bemessungsgrundlage einzubeziehen. Bei Lieferungen und dem
-innergemeinschaftlichen Erwerb im Sinne des § 4 Nr. 4a Satz 1
-Buchstabe a Satz 2 sind die Kosten für die Leistungen im Sinne des § 4
-Nr. 4a Satz 1 Buchstabe b und die vom Auslagerer geschuldeten oder
-entrichteten Verbrauchsteuern in die Bemessungsgrundlage
-einzubeziehen. Die Beträge, die der Unternehmer im Namen und für
-Rechnung eines anderen vereinnahmt und verausgabt (durchlaufende
-Posten), gehören nicht zum Entgelt. Liegen bei der Entgegennahme eines
-Mehrzweck-Gutscheins (§ 3 Absatz 15) keine Angaben über die Höhe der
-für den Gutschein erhaltenen Gegenleistung nach Satz 2 vor, so wird
-das Entgelt nach dem Gutscheinwert selbst oder nach dem in den damit
-zusammenhängenden Unterlagen angegebenen Geldwert bemessen, abzüglich
-der Umsatzsteuer, die danach auf die gelieferten Gegenstände oder die
-erbrachten Dienstleistungen entfällt.
+in die Bemessungsgrundlage einzubeziehen. Die Beträge, die der
+Unternehmer im Namen und für Rechnung eines anderen vereinnahmt und
+verausgabt (durchlaufende Posten), gehören nicht zum Entgelt. Liegen
+bei der Entgegennahme eines Mehrzweck-Gutscheins (§ 3 Absatz 15) keine
+Angaben über die Höhe der für den Gutschein erhaltenen Gegenleistung
+nach Satz 2 vor, so wird das Entgelt nach dem Gutscheinwert selbst
+oder nach dem in den damit zusammenhängenden Unterlagen angegebenen
+Geldwert bemessen, abzüglich der Umsatzsteuer, die danach auf die
+gelieferten Gegenstände oder die erbrachten Dienstleistungen entfällt.
 
 (2) Werden Rechte übertragen, die mit dem Besitz eines Pfandscheins
 verbunden sind, so gilt als vereinbartes Entgelt der Preis des
@@ -3174,8 +3142,7 @@ der Bemessungsgrundlage (§§ 10, 11, 25 Abs. 3 und § 25a Abs. 3 und 4).
 Umsätze:
 
 1.  die Lieferungen, die Einfuhr und der innergemeinschaftliche Erwerb der
-    in Anlage 2 bezeichneten Gegenstände mit Ausnahme der in der Nummer 49
-    Buchstabe f, den Nummern 53 und 54 bezeichneten Gegenstände;
+    in Anlage 2 bezeichneten Gegenstände;
 
 
 2.  die Vermietung der in Anlage 2 bezeichneten Gegenstände mit Ausnahme
@@ -3290,34 +3257,10 @@ Umsätze:
     diese Leistungen mit dem Entgelt für die Vermietung abgegolten sind;
 
 
-12. die Einfuhr der in Nummer 49 Buchstabe f, den Nummern 53 und 54 der
-    Anlage 2 bezeichneten Gegenstände;
+12. (weggefallen)
 
 
-13. die Lieferungen und der innergemeinschaftliche Erwerb der in Nummer 53
-    der Anlage 2 bezeichneten Gegenstände, wenn die Lieferungen
-
-    a)  vom Urheber der Gegenstände oder dessen Rechtsnachfolger bewirkt
-        werden oder
-
-
-    b)  von einem Unternehmer bewirkt werden, der kein Wiederverkäufer (§ 25a
-        Absatz 1 Nummer 1 Satz 2) ist, und die Gegenstände
-
-        aa) vom Unternehmer in das Gemeinschaftsgebiet eingeführt wurden,
-
-
-        bb) von ihrem Urheber oder dessen Rechtsnachfolger an den Unternehmer
-            geliefert wurden oder
-
-
-        cc) den Unternehmer zum vollen Vorsteuerabzug berechtigt haben;
-
-
-
-
-
-
+13. (weggefallen)
 
 
 14. die Überlassung der in Nummer 49 Buchstabe a bis e und Nummer 50 der
@@ -3335,9 +3278,8 @@ Umsätze:
     Zeitschriften oder Teile von diesen enthalten;
 
 
-15. die nach dem 30. Juni 2020 und vor dem 1. Januar 2024 erbrachten
-    Restaurant- und Verpflegungsdienstleistungen, mit Ausnahme der Abgabe
-    von Getränken.
+15. die Restaurant- und Verpflegungsdienstleistungen, mit Ausnahme der
+    Abgabe von Getränken.
 
 
 
@@ -3439,18 +3381,19 @@ Umsätze:
 
 
     f)  in den Fällen des § 18i mit Ablauf des Besteuerungszeitraums nach § 16
-        Absatz 1c Satz 1, in dem die Leistungen ausgeführt worden sind,
+        Absatz 1c Satz 1, in dem die Leistungen ausgeführt worden sind;
+        Buchstabe b bleibt unberührt,
 
 
     g)  in den Fällen des § 18j vorbehaltlich des Buchstabens i mit Ablauf des
         Besteuerungszeitraums nach § 16 Absatz 1d Satz 1, in dem die
-        Leistungen ausgeführt worden sind,
+        Leistungen ausgeführt worden sind; Buchstabe b bleibt unberührt,
 
 
     h)  in den Fällen des § 18k mit Ablauf des Besteuerungszeitraums nach § 16
         Absatz 1e Satz 1, in dem die Lieferungen ausgeführt worden sind; die
         Gegenstände gelten als zu dem Zeitpunkt geliefert, zu dem die Zahlung
-        angenommen wurde,
+        angenommen wurde; Buchstabe b bleibt unberührt,
 
 
     i)  in den Fällen des § 3 Absatz 3a zu dem Zeitpunkt, zu dem die Zahlung
@@ -3471,8 +3414,9 @@ Umsätze:
 4.  (weggefallen)
 
 
-5.  im Fall des § 17 Abs. 1 Satz 6 mit Ablauf des Voranmeldungszeitraums,
-    in dem die Änderung der Bemessungsgrundlage eingetreten ist;
+5.  im Fall des § 17 Absatz 1 Satz 7 mit Ablauf des
+    Voranmeldungszeitraums, in dem die Änderung der Bemessungsgrundlage
+    eingetreten ist;
 
 
 6.  für den innergemeinschaftlichen Erwerb im Sinne des § 1a mit
@@ -3485,12 +3429,7 @@ Umsätze:
 
 
 8.  im Fall des § 6a Abs. 4 Satz 2 in dem Zeitpunkt, in dem die Lieferung
-    ausgeführt wird;
-
-
-9.  im Fall des § 4 Nr. 4a Satz 1 Buchstabe a Satz 2 mit Ablauf des
-    Voranmeldungszeitraums, in dem der Gegenstand aus einem
-    Umsatzsteuerlager ausgelagert wird.
+    ausgeführt wird.
 
 
 
@@ -3519,11 +3458,7 @@ Umsätze:
 5.  des § 25b Abs. 2 der letzte Abnehmer;
 
 
-6.  des § 4 Nr. 4a Satz 1 Buchstabe a Satz 2 der Unternehmer, dem die
-    Auslagerung zuzurechnen ist (Auslagerer); daneben auch der Lagerhalter
-    als Gesamtschuldner, wenn er entgegen § 22 Abs. 4c Satz 2 die
-    inländische Umsatzsteuer-Identifikationsnummer des Auslagerers oder
-    dessen Fiskalvertreters nicht oder nicht zutreffend aufzeichnet;
+6.  (weggefallen)
 
 
 7.  des § 18k neben dem Unternehmer der im Gemeinschaftsgebiet ansässige
@@ -3634,9 +3569,9 @@ Ausführung der Leistung folgenden Kalendermonats:
 
 
 
-(3) Abweichend von den Absatz 1 und 2 Nummer 1 entsteht die Steuer für
-sonstige Leistungen, die dauerhaft über einen Zeitraum von mehr als
-einem Jahr erbracht werden, spätestens mit Ablauf eines jeden
+(3) Abweichend von den Absätzen 1 und 2 Nummer 1 entsteht die Steuer
+für sonstige Leistungen, die dauerhaft über einen Zeitraum von mehr
+als einem Jahr erbracht werden, spätestens mit Ablauf eines jeden
 Kalenderjahres, in dem sie tatsächlich erbracht werden.
 
 (4) Bei der Anwendung der Absätze 1 bis 3 gilt § 13 Absatz 1 Nummer 1
@@ -3687,20 +3622,20 @@ Umsatzes gültige auf längstens drei Jahre befristete Bescheinigung,
 die nur mit Wirkung für die Zukunft widerrufen oder zurückgenommen
 werden kann, darüber erteilt hat, dass er ein Unternehmer ist, der
 entsprechende Leistungen erbringt. Die Sätze 1 bis 6 gelten
-vorbehaltlich des Satzes 10 auch, wenn die Leistung für den
+vorbehaltlich des Satzes 11 auch, wenn die Leistung für den
 nichtunternehmerischen Bereich bezogen wird. Sind Leistungsempfänger
 und leistender Unternehmer in Zweifelsfällen übereinstimmend vom
 Vorliegen der Voraussetzungen des Absatzes 2 Nummer 4, 5 Buchstabe b,
 Nummer 6 bis 12 ausgegangen, obwohl dies nach der Art der Umsätze
 unter Anlegung objektiver Kriterien nicht zutreffend war, gilt der
 Leistungsempfänger dennoch als Steuerschuldner, sofern dadurch keine
-Steuerausfälle entstehen. Die Sätze 1 bis 7 gelten nicht, wenn bei dem
-Unternehmer, der die Umsätze ausführt, die Steuer nach § 19 Absatz 1
-nicht erhoben wird. Die Sätze 1 bis 9 gelten nicht, wenn ein in Absatz
-2 Nummer 2, 7 oder 9 bis 11 genannter Gegenstand von dem Unternehmer,
-der die Lieferung bewirkt, unter den Voraussetzungen des § 25a
-geliefert wird. In den in Absatz 2 Nummer 4, 5 Buchstabe b und Nummer
-7 bis 12 genannten Fällen schulden juristische Personen des
+Steuerausfälle entstehen. Die Sätze 2 und 5 gelten auch dann, wenn die
+entsprechenden Leistungen des Leistungsempfängers nach § 19 Absatz 1
+oder 4 steuerfrei sind. Die Sätze 1 bis 9 gelten nicht, wenn ein in
+Absatz 2 Nummer 2, 7 oder 9 bis 11 genannter Gegenstand von dem
+Unternehmer, der die Lieferung bewirkt, unter den Voraussetzungen des
+§ 25a geliefert wird. In den in Absatz 2 Nummer 4, 5 Buchstabe b und
+Nummer 7 bis 12 genannten Fällen schulden juristische Personen des
 öffentlichen Rechts die Steuer nicht, wenn sie die Leistung für den
 nichtunternehmerischen Bereich beziehen.
 
@@ -3766,15 +3701,14 @@ abgabenrechtlichen Vorschriften für die Besteuerung seiner Umsätze
 zuständigen Finanzamts nachweist, dass er kein Unternehmer im Sinne
 der Sätze 1 und 2 ist.
 
-(8) Bei der Berechnung der Steuer sind die §§ 19 und 24 nicht
-anzuwenden.
+(8) Bei der Berechnung der Steuer ist § 24 nicht anzuwenden.
 
 (9) Das Bundesministerium der Finanzen kann mit Zustimmung des
 Bundesrates durch Rechtsverordnung bestimmen, unter welchen
 Voraussetzungen zur Vereinfachung des Besteuerungsverfahrens in den
 Fällen, in denen ein anderer als der Leistungsempfänger ein Entgelt
-gewährt (§ 10 Absatz 1 Satz 3), der andere an Stelle des
-Leistungsempfängers Steuerschuldner nach Absatz 5 ist.
+gewährt, der andere an Stelle des Leistungsempfängers Steuerschuldner
+nach Absatz 5 ist.
 
 (10) Das Bundesministerium der Finanzen kann mit Zustimmung des
 Bundesrates durch Rechtsverordnung den Anwendungsbereich der
@@ -3836,7 +3770,11 @@ Gegenleistung in Geld vereinnahmt. Voraussetzung ist, dass dieser
 Geldbetrag tatsächlich in den Verfügungsbereich des leistenden
 Unternehmers gelangt; davon ist nicht auszugehen, soweit dieser
 Geldbetrag auf ein Konto gezahlt wird, auf das der Abtretungsempfänger
-die Möglichkeit des Zugriffs hat.
+die Möglichkeit des Zugriffs hat. Mit Eröffnung eines
+Insolvenzverfahrens gilt die Umsatzsteuer im Sinne des Satzes 1, die
+zum Zeitpunkt der Eröffnung eine Insolvenzforderung darstellt und noch
+nicht fällig geworden ist, im Verhältnis zum Abtretungsempfänger als
+fällig.
 
 (2) Der Abtretungsempfänger ist ab dem Zeitpunkt in Anspruch zu
 nehmen, in dem die festgesetzte Steuer fällig wird, frühestens ab dem
@@ -3863,54 +3801,87 @@ Pfändung der Vollstreckungsgläubiger.
 
 (1) Rechnung ist jedes Dokument, mit dem über eine Lieferung oder
 sonstige Leistung abgerechnet wird, gleichgültig, wie dieses Dokument
-im Geschäftsverkehr bezeichnet wird. Die Echtheit der Herkunft der
-Rechnung, die Unversehrtheit ihres Inhalts und ihre Lesbarkeit müssen
-gewährleistet werden. Echtheit der Herkunft bedeutet die Sicherheit
-der Identität des Rechnungsausstellers. Unversehrtheit des Inhalts
-bedeutet, dass die nach diesem Gesetz erforderlichen Angaben nicht
-geändert wurden. Jeder Unternehmer legt fest, in welcher Weise die
-Echtheit der Herkunft, die Unversehrtheit des Inhalts und die
-Lesbarkeit der Rechnung gewährleistet werden. Dies kann durch jegliche
-innerbetriebliche Kontrollverfahren erreicht werden, die einen
-verlässlichen Prüfpfad zwischen Rechnung und Leistung schaffen können.
-Rechnungen sind auf Papier oder vorbehaltlich der Zustimmung des
-Empfängers elektronisch zu übermitteln. Eine elektronische Rechnung
-ist eine Rechnung, die in einem elektronischen Format ausgestellt und
-empfangen wird.
+im Geschäftsverkehr bezeichnet wird. Eine Rechnung kann als
+elektronische Rechnung oder vorbehaltlich des Absatzes 2 als sonstige
+Rechnung übermittelt werden. Eine elektronische Rechnung ist eine
+Rechnung, die in einem strukturierten elektronischen Format
+ausgestellt, übermittelt und empfangen wird und eine elektronische
+Verarbeitung ermöglicht. Eine sonstige Rechnung ist eine Rechnung, die
+in einem anderen elektronischen Format oder auf Papier übermittelt
+wird. Die Übermittlung einer elektronischen Rechnung oder einer
+sonstigen Rechnung in einem elektronischen Format bedarf der
+Zustimmung des Empfängers, soweit keine Verpflichtung nach Absatz 2
+Satz 2 Nummer 1 besteht. Das strukturierte elektronische Format einer
+elektronischen Rechnung
 
-(2) Führt der Unternehmer eine Lieferung oder eine sonstige Leistung
-nach § 1 Abs. 1 Nr. 1 aus, gilt Folgendes:
-
-1.  führt der Unternehmer eine steuerpflichtige Werklieferung (§ 3 Abs. 4
-    Satz 1) oder sonstige Leistung im Zusammenhang mit einem Grundstück
-    aus, ist er verpflichtet, innerhalb von sechs Monaten nach Ausführung
-    der Leistung eine Rechnung auszustellen;
+1.  muss der europäischen Norm für die elektronische Rechnungsstellung und
+    der Liste der entsprechenden Syntaxen gemäß der Richtlinie 2014/55/EU
+    des Europäischen Parlaments und des Rates vom 16. April 2014 über die
+    elektronische Rechnungsstellung bei öffentlichen Aufträgen (ABl. L 133
+    vom 6.5.2014, S. 1) entsprechen oder
 
 
-2.  führt der Unternehmer eine andere als die in Nummer 1 genannte
-    Leistung aus, ist er berechtigt, eine Rechnung auszustellen. Soweit er
-    einen Umsatz an einen anderen Unternehmer für dessen Unternehmen oder
-    an eine juristische Person, die nicht Unternehmer ist, ausführt, ist
-    er verpflichtet, innerhalb von sechs Monaten nach Ausführung der
-    Leistung eine Rechnung auszustellen. Eine Verpflichtung zur
-    Ausstellung einer Rechnung besteht nicht, wenn der Umsatz nach § 4
-    Nummer 8 bis 29 steuerfrei ist. § 14a bleibt unberührt.
+2.  kann zwischen Rechnungsaussteller und Rechnungsempfänger vereinbart
+    werden. Voraussetzung ist, dass das Format die richtige und
+    vollständige Extraktion der nach diesem Gesetz erforderlichen Angaben
+    aus der elektronischen Rechnung in ein Format ermöglicht, das der Norm
+    nach Nummer 1 entspricht oder mit dieser interoperabel ist.
+
 
 
 
-Unbeschadet der Verpflichtungen nach Satz 1 Nr. 1 und 2 Satz 2 kann
-eine Rechnung von einem in Satz 1 Nr. 2 bezeichneten
-Leistungsempfänger für eine Lieferung oder sonstige Leistung des
-Unternehmers ausgestellt werden, sofern dies vorher vereinbart wurde
-(Gutschrift). Die Gutschrift verliert die Wirkung einer Rechnung,
-sobald der Empfänger der Gutschrift dem ihm übermittelten Dokument
-widerspricht. Eine Rechnung kann im Namen und für Rechnung des
-Unternehmers oder eines in Satz 1 Nr. 2 bezeichneten
-Leistungsempfängers von einem Dritten ausgestellt werden.
+(2) Führt der Unternehmer eine Lieferung oder eine sonstige Leistung
+nach § 1 Absatz 1 Nummer 1 aus, ist er berechtigt, eine Rechnung
+auszustellen. In den folgenden Fällen ist er zur Ausstellung einer
+Rechnung innerhalb von sechs Monaten nach Ausführung der Leistung
+verpflichtet, wenn der Umsatz nicht nach § 4 Nummer 8 bis 29
+steuerfrei ist:
 
-(3) Unbeschadet anderer nach Absatz 1 zulässiger Verfahren gelten bei
-einer elektronischen Rechnung die Echtheit der Herkunft und die
-Unversehrtheit des Inhalts als gewährleistet durch
+1.  für eine Leistung an einen anderen Unternehmer für dessen Unternehmen;
+    die Rechnung ist als elektronische Rechnung nach Absatz 1 Satz 3 und 6
+    auszustellen, wenn der leistende Unternehmer und der
+    Leistungsempfänger im Inland oder in einem der in § 1 Absatz 3
+    bezeichneten Gebiete ansässig sind;
+
+
+2.  für eine Leistung an eine juristische Person, die nicht Unternehmer
+    ist;
+
+
+3.  für eine steuerpflichtige Werklieferung (§ 3 Absatz 4 Satz 1) oder
+    sonstige Leistung im Zusammenhang mit einem Grundstück an einen
+    anderen als in den Nummern 1 oder 2 genannten Empfänger.
+
+
+
+Ein im Inland oder in einem der in § 1 Absatz 3 bezeichneten Gebiete
+ansässiger Unternehmer ist ein Unternehmer, der in einem dieser
+Gebiete seinen Sitz, seine Geschäftsleitung, eine Betriebsstätte, die
+an dem Umsatz beteiligt ist, oder in Ermangelung eines Sitzes seinen
+Wohnsitz oder gewöhnlichen Aufenthalt hat. § 14a bleibt unberührt.
+Unbeschadet der Verpflichtungen nach Satz 2 kann eine Rechnung von
+einem in Satz 2 Nummer 1 oder 2 bezeichneten Leistungsempfänger für
+eine Lieferung oder sonstige Leistung des Unternehmers ausgestellt
+werden, sofern dies vorher vereinbart wurde (Gutschrift). Die
+Gutschrift verliert die Wirkung einer Rechnung, sobald der Empfänger
+der Gutschrift dem ihm übermittelten Dokument widerspricht. Eine
+Rechnung kann im Namen und für Rechnung des Unternehmers oder eines in
+Satz 2 Nummer 1 oder 2 bezeichneten Leistungsempfängers von einem
+Dritten ausgestellt werden.
+
+(3) Die Echtheit der Herkunft der Rechnung, die Unversehrtheit ihres
+Inhalts und ihre Lesbarkeit müssen gewährleistet werden. Echtheit der
+Herkunft bedeutet die Sicherheit der Identität des
+Rechnungsausstellers. Unversehrtheit des Inhalts bedeutet, dass die
+nach diesem Gesetz erforderlichen Angaben nicht geändert wurden. Jeder
+Unternehmer legt fest, in welcher Weise die Echtheit der Herkunft, die
+Unversehrtheit des Inhalts und die Lesbarkeit der Rechnung
+gewährleistet werden. Dies kann durch jegliche innerbetriebliche
+Kontrollverfahren erreicht werden, die einen verlässlichen Prüfpfad
+zwischen Rechnung und Leistung schaffen können. Unbeschadet anderer
+zulässiger Verfahren gelten bei einer elektronischen Rechnung die
+Echtheit der Herkunft und die Unversehrtheit des Inhalts als
+gewährleistet durch
 
 1.  eine qualifizierte elektronische Signatur oder
 
@@ -3973,7 +3944,7 @@ Unversehrtheit des Inhalts als gewährleistet durch
 
 10. in den Fällen der Ausstellung der Rechnung durch den
     Leistungsempfänger oder durch einen von ihm beauftragten Dritten gemäß
-    Absatz 2 Satz 2 die Angabe „Gutschrift”.
+    Absatz 2 Satz 5 die Angabe „Gutschrift”.
 
 
 
@@ -4018,6 +3989,10 @@ Voraussetzungen
 
 
 
+Das Bundesministerium der Finanzen kann mit Zustimmung des Bundesrates
+zur Vereinfachung des Besteuerungsverfahrens durch Rechtsverordnung
+nähere Bestimmungen zur Ausgestaltung des strukturierten
+elektronischen Formats einer elektronischen Rechnung erlassen.
 
 (7) Führt der Unternehmer einen Umsatz im Inland aus, für den der
 Leistungsempfänger die Steuer nach § 13b schuldet, und hat der
@@ -4051,14 +4026,14 @@ aus, an dem eine Betriebsstätte in diesem Mitgliedstaat nicht
 beteiligt ist, so ist er zur Ausstellung einer Rechnung mit der Angabe
 „Steuerschuldnerschaft des Leistungsempfängers“ verpflichtet, wenn die
 Steuer in dem anderen Mitgliedstaat von dem Leistungsempfänger
-geschuldet wird und keine Gutschrift gemäß § 14 Absatz 2 Satz 2
+geschuldet wird und keine Gutschrift gemäß § 14 Absatz 2 Satz 5
 vereinbart worden ist. Führt der Unternehmer eine sonstige Leistung im
 Sinne des § 3a Absatz 2 in einem anderen Mitgliedstaat aus, so ist die
 Rechnung bis zum fünfzehnten Tag des Monats, der auf den Monat folgt,
 in dem der Umsatz ausgeführt worden ist, auszustellen. In dieser
 Rechnung sind die Umsatzsteuer-Identifikationsnummer des Unternehmers
 und die des Leistungsempfängers anzugeben. Wird eine Abrechnung durch
-Gutschrift gemäß § 14 Absatz 2 Satz 2 über eine sonstige Leistung im
+Gutschrift gemäß § 14 Absatz 2 Satz 5 über eine sonstige Leistung im
 Sinne des § 3a Absatz 2 vereinbart, die im Inland ausgeführt wird und
 für die der Leistungsempfänger die Steuer nach § 13b Absatz 1 und 5
 schuldet, sind die Sätze 2 und 3 und Absatz 5 entsprechend anzuwenden.
@@ -4114,8 +4089,8 @@ keine Anwendung.
 ein Dritter in seinem Namen und für seine Rechnung ausgestellt hat,
 sowie alle Rechnungen, die er erhalten oder die ein Leistungsempfänger
 oder in dessen Namen und für dessen Rechnung ein Dritter ausgestellt
-hat, zehn Jahre aufzubewahren. Die Rechnungen müssen für den gesamten
-Zeitraum die Anforderungen des § 14 Absatz 1 Satz 2 erfüllen. Die
+hat, acht Jahre aufzubewahren. Die Rechnungen müssen für den gesamten
+Zeitraum die Anforderungen des § 14 Absatz 3 Satz 1 erfüllen. Die
 Aufbewahrungsfrist beginnt mit dem Schluss des Kalenderjahres, in dem
 die Rechnung ausgestellt worden ist; § 147 Abs. 3 der Abgabenordnung
 bleibt unberührt. Die Sätze 1 bis 3 gelten auch
@@ -4132,9 +4107,10 @@ bleibt unberührt. Die Sätze 1 bis 3 gelten auch
 
 
 
-In den Fällen des § 14 Abs. 2 Satz 1 Nr. 1 hat der Leistungsempfänger
-die Rechnung, einen Zahlungsbeleg oder eine andere beweiskräftige
-Unterlage zwei Jahre gemäß den Sätzen 2 und 3 aufzubewahren, soweit er
+In den Fällen des § 14 Absatz 2 Satz 2 Nummer 3 hat der
+Leistungsempfänger die Rechnung, einen Zahlungsbeleg oder eine andere
+beweiskräftige Unterlage zwei Jahre gemäß den Sätzen 2 und 3
+aufzubewahren, soweit er
 
 1.  nicht Unternehmer ist oder
 
@@ -4200,18 +4176,29 @@ nach § 9 gilt Absatz 2 Satz 3 bis 5 entsprechend.
 (2) Wer in einer Rechnung einen Steuerbetrag gesondert ausweist,
 obwohl er zum gesonderten Ausweis der Steuer nicht berechtigt ist
 (unberechtigter Steuerausweis), schuldet den ausgewiesenen Betrag. Das
-Gleiche gilt, wenn jemand wie ein leistender Unternehmer abrechnet und
-einen Steuerbetrag gesondert ausweist, obwohl er nicht Unternehmer ist
-oder eine Lieferung oder sonstige Leistung nicht ausführt. Der nach
-den Sätzen 1 und 2 geschuldete Steuerbetrag kann berichtigt werden,
-soweit die Gefährdung des Steueraufkommens beseitigt worden ist. Die
-Gefährdung des Steueraufkommens ist beseitigt, wenn ein Vorsteuerabzug
-beim Empfänger der Rechnung nicht durchgeführt oder die geltend
-gemachte Vorsteuer an die Finanzbehörde zurückgezahlt worden ist. Die
-Berichtigung des geschuldeten Steuerbetrags ist beim Finanzamt
-gesondert schriftlich zu beantragen und nach dessen Zustimmung in
-entsprechender Anwendung des § 17 Abs. 1 für den Besteuerungszeitraum
-vorzunehmen, in dem die Voraussetzungen des Satzes 4 eingetreten sind.
+Gleiche gilt, wenn jemand
+
+1.  wie ein leistender Unternehmer abrechnet und einen Steuerbetrag
+    gesondert ausweist oder
+
+
+2.  einem nach einer vorherigen Vereinbarung erstellten, als Gutschrift
+    verwendeten Dokument mit gesondertem Steuerausweis nicht unverzüglich
+    widerspricht,
+
+
+
+obwohl er nicht Unternehmer ist oder eine Lieferung oder sonstige
+Leistung nicht ausführt. Der nach den Sätzen 1 und 2 geschuldete
+Steuerbetrag kann berichtigt werden, soweit die Gefährdung des
+Steueraufkommens beseitigt worden ist. Die Gefährdung des
+Steueraufkommens ist beseitigt, wenn ein Vorsteuerabzug beim Empfänger
+der Rechnung nicht durchgeführt oder die geltend gemachte Vorsteuer an
+die Finanzbehörde zurückgezahlt worden ist. Die Berichtigung des
+geschuldeten Steuerbetrags ist beim Finanzamt gesondert schriftlich zu
+beantragen und nach dessen Zustimmung in entsprechender Anwendung des
+§ 17 Abs. 1 für den Besteuerungszeitraum vorzunehmen, in dem die
+Voraussetzungen des Satzes 4 eingetreten sind.
 
 
 ### § 15 Vorsteuerabzug
@@ -4240,11 +4227,7 @@ vorzunehmen, in dem die Voraussetzungen des Satzes 4 eingetreten sind.
 4.  die Steuer für Leistungen im Sinne des § 13b Absatz 1 und 2, die für
     sein Unternehmen ausgeführt worden sind. Soweit die Steuer auf eine
     Zahlung vor Ausführung dieser Leistungen entfällt, ist sie abziehbar,
-    wenn die Zahlung geleistet worden ist;
-
-
-5.  die nach § 13a Abs. 1 Nr. 6 geschuldete Steuer für Umsätze, die für
-    sein Unternehmen ausgeführt worden sind.
+    wenn die Zahlung geleistet worden ist.
 
 
 
@@ -4279,19 +4262,24 @@ zur Ausführung folgender Umsätze verwendet:
 
 
 2.  Umsätze im Ausland, die steuerfrei wären, wenn sie im Inland
-    ausgeführt würden.
+    ausgeführt würden;
+
+
+3.  Umsätze im übrigen Gemeinschaftsgebiet, die auf Grund der
+    Sonderregelung für Kleinunternehmer des jeweiligen Mitgliedstaates
+    steuerfrei sind.
 
 
 
 Gegenstände oder sonstige Leistungen, die der Unternehmer zur
 Ausführung einer Einfuhr oder eines innergemeinschaftlichen Erwerbs
-verwendet, sind den Umsätzen zuzurechnen, für die der eingeführte oder
+verwendet, sind den Umsätzen zuzuordnen, für die der eingeführte oder
 innergemeinschaftlich erworbene Gegenstand verwendet wird.
 
 (3) Der Ausschluss vom Vorsteuerabzug nach Absatz 2 tritt nicht ein,
 wenn die Umsätze
 
-1.  in den Fällen des Absatzes 2 Nr. 1
+1.  in den Fällen des Absatzes 2 Satz 1 Nr. 1
 
     a)  nach § 4 Nr. 1 bis 7, § 25 Abs. 2 oder nach den in § 26 Abs. 5
         bezeichneten Vorschriften steuerfrei sind oder
@@ -4321,6 +4309,8 @@ wenn die Umsätze
 
 
 
+Satz 1 gilt nicht für Umsätze, die auch unter Absatz 2 Satz 1 Nummer 3
+oder § 19 fallen.
 
 (4) Verwendet der Unternehmer einen für sein Unternehmen gelieferten,
 eingeführten oder innergemeinschaftlich erworbenen Gegenstand oder
@@ -4328,13 +4318,16 @@ eine von ihm in Anspruch genommene sonstige Leistung nur zum Teil zur
 Ausführung von Umsätzen, die den Vorsteuerabzug ausschließen, so ist
 der Teil der jeweiligen Vorsteuerbeträge nicht abziehbar, der den zum
 Ausschluss vom Vorsteuerabzug führenden Umsätzen wirtschaftlich
-zuzurechnen ist. Der Unternehmer kann die nicht abziehbaren
-Teilbeträge im Wege einer sachgerechten Schätzung ermitteln. Eine
-Ermittlung des nicht abziehbaren Teils der Vorsteuerbeträge nach dem
-Verhältnis der Umsätze, die den Vorsteuerabzug ausschließen, zu den
-Umsätzen, die zum Vorsteuerabzug berechtigen, ist nur zulässig, wenn
-keine andere wirtschaftliche Zurechnung möglich ist. In den Fällen des
-Absatzes 1b gelten die Sätze 1 bis 3 entsprechend.
+zuzuordnen ist. Der Unternehmer kann die nicht abziehbaren Teilbeträge
+im Wege einer sachgerechten Schätzung ermitteln. Eine Ermittlung des
+nicht abziehbaren Teils der Vorsteuerbeträge nach dem Verhältnis der
+Umsätze, die den Vorsteuerabzug ausschließen, zu den Gesamtumsätzen
+ist nur zulässig, wenn keine andere, präzisere wirtschaftliche
+Zuordnung möglich ist. Für Grundstücke ist dabei eine Aufteilung nach
+dem Verhältnis der Nutzflächen vorzunehmen, es sei denn, eine andere
+Methode führt zu einer demgegenüber präziseren wirtschaftlichen
+Zuordnung. In den Fällen des Absatzes 1b gelten die Sätze 1 bis 4
+entsprechend.
 
 (4a) Für Fahrzeuglieferer (§ 2a) gelten folgende Einschränkungen des
 Vorsteuerabzugs:
@@ -4382,7 +4375,7 @@ treffen,
 3.  wann in Fällen von geringer steuerlicher Bedeutung zur Vereinfachung
     oder zur Vermeidung von Härten bei der Aufteilung der Vorsteuerbeträge
     (Absatz 4) Umsätze, die den Vorsteuerabzug ausschließen,
-    unberücksichtigt bleiben können oder von der Zurechnung von
+    unberücksichtigt bleiben können oder von der Zuordnung von
     Vorsteuerbeträgen zu diesen Umsätzen abgesehen werden kann.
 
 
@@ -4450,10 +4443,9 @@ sinngemäß anzuwenden.
 Verwendung im Sinne des § 15 Absatz 1b vor.
 
 (7) Eine Änderung der Verhältnisse im Sinne der Absätze 1 bis 3 ist
-auch beim Übergang von der allgemeinen Besteuerung zur Nichterhebung
-der Steuer nach § 19 Abs. 1 und umgekehrt und beim Übergang von der
-allgemeinen Besteuerung zur Durchschnittssatzbesteuerung nach den §§
-23a oder 24 und umgekehrt gegeben.
+auch beim Übergang von der allgemeinen Besteuerung zur
+Durchschnittssatzbesteuerung nach den §§ 23a oder 24 und umgekehrt
+gegeben.
 
 (8) Eine Änderung der Verhältnisse liegt auch vor, wenn das noch
 verwendungsfähige Wirtschaftsgut, das nicht nur einmalig zur
@@ -4626,6 +4618,16 @@ Besteuerungszeitraums an Stelle der Beförderungseinzelbesteuerung
 (Absatz 5) die Steuer nach den Absätzen 1 und 2 zu berechnen. Die
 Absätze 3 und 4 gelten entsprechend.
 
+(5c) Anstelle der Beförderungseinzelbesteuerung nach Absatz 5 kann der
+Unternehmer von einem der besonderen Besteuerungsverfahren
+entsprechend Titel XII Kapitel 6 Abschnitt 2 und 3 der Richtlinie
+2006/112/EG des Rates in der Fassung von Artikel 2 Nummer 14 bis 20
+der Richtlinie (EU) 2017/2455 des Rates vom 5. Dezember 2017 zur
+Änderung der Richtlinie 2006/112/EG und der Richtlinie 2009/132/EG in
+Bezug auf bestimmte mehrwertsteuerliche Pflichten für die Erbringung
+von Dienstleistungen und für Fernverkäufe von Gegenständen (ABl. L 348
+vom 29.12.2017, S. 7) Gebrauch machen.
+
 (6) Werte in fremder Währung sind zur Berechnung der Steuer und der
 abziehbaren Vorsteuerbeträge auf Euro nach den Durchschnittskursen
 umzurechnen, die das Bundesministerium der Finanzen für den Monat
@@ -4722,22 +4724,23 @@ unterschiedlich besteuerten Umsätze verteilt.
 ### § 18 Besteuerungsverfahren
 
 (1) Der Unternehmer hat vorbehaltlich des § 18i Absatz 3, des § 18j
-Absatz 4 und des § 18k Absatz 4 bis zum zehnten Tag nach Ablauf jedes
-Voranmeldungszeitraums eine Voranmeldung nach amtlich vorgeschriebenem
-Datensatz durch Datenfernübertragung zu übermitteln, in der er die
-Steuer für den Voranmeldungszeitraum (Vorauszahlung) selbst zu
-berechnen hat. Auf Antrag kann das Finanzamt zur Vermeidung von
-unbilligen Härten auf eine elektronische Übermittlung verzichten; in
-diesem Fall hat der Unternehmer eine Voranmeldung nach amtlich
-vorgeschriebenem Vordruck abzugeben. § 16 Abs. 1 und 2 und § 17 sind
-entsprechend anzuwenden. Die Vorauszahlung ist am zehnten Tag nach
-Ablauf des Voranmeldungszeitraums fällig und bis dahin vom Unternehmer
-zu entrichten.
+Absatz 4, des § 18k Absatz 4 und des § 19 Absatz 1 Satz 2 bis zum
+zehnten Tag nach Ablauf jedes Voranmeldungszeitraums eine Voranmeldung
+nach amtlich vorgeschriebenem Datensatz über die amtlich bestimmte
+Schnittstelle zu übermitteln, in der er die Steuer für den
+Voranmeldungszeitraum (Vorauszahlung) selbst zu berechnen hat. Auf
+Antrag kann das Finanzamt zur Vermeidung von unbilligen Härten auf
+eine elektronische Übermittlung verzichten; in diesem Fall hat der
+Unternehmer eine Voranmeldung nach amtlich vorgeschriebenem Vordruck
+abzugeben. § 16 Abs. 1 und 2 und § 17 sind entsprechend anzuwenden.
+Die Vorauszahlung ist am zehnten Tag nach Ablauf des
+Voranmeldungszeitraums fällig und bis dahin vom Unternehmer zu
+entrichten.
 
 (2) Voranmeldungszeitraum ist das Kalendervierteljahr. Beträgt die
-Steuer für das vorangegangene Kalenderjahr mehr als 7 500 Euro, ist
+Steuer für das vorangegangene Kalenderjahr mehr als 9 000 Euro, ist
 der Kalendermonat Voranmeldungszeitraum. Beträgt die Steuer für das
-vorangegangene Kalenderjahr nicht mehr als 1 000 Euro, kann das
+vorangegangene Kalenderjahr nicht mehr als 2 000 Euro, kann das
 Finanzamt den Unternehmer von der Verpflichtung zur Abgabe der
 Voranmeldungen und Entrichtung der Vorauszahlungen befreien. Nimmt der
 Unternehmer seine berufliche oder gewerbliche Tätigkeit auf, ist im
@@ -4773,20 +4776,21 @@ maßgebend.
 (2a) Der Unternehmer kann an Stelle des Kalendervierteljahres den
 Kalendermonat als Voranmeldungszeitraum wählen, wenn sich für das
 vorangegangene Kalenderjahr ein Überschuss zu seinen Gunsten von mehr
-als 7 500 Euro ergibt. In diesem Fall hat der Unternehmer bis zum 10.
+als 9 000 Euro ergibt. In diesem Fall hat der Unternehmer bis zum 10.
 Februar des laufenden Kalenderjahres eine Voranmeldung für den ersten
 Kalendermonat abzugeben. Die Ausübung des Wahlrechts bindet den
 Unternehmer für dieses Kalenderjahr. Absatz 2 Satz 6 gilt
 entsprechend.
 
 (3) Der Unternehmer hat vorbehaltlich des § 18i Absatz 3, des § 18j
-Absatz 4 und des § 18k Absatz 4 für das Kalenderjahr oder für den
-kürzeren Besteuerungszeitraum eine Steuererklärung nach amtlich
-vorgeschriebenem Datensatz durch Datenfernübertragung zu übermitteln,
-in der er die zu entrichtende Steuer oder den Überschuss, der sich zu
-seinen Gunsten ergibt, nach § 16 Absatz 1 bis 4 und § 17 selbst zu
-berechnen hat (Steueranmeldung). In den Fällen des § 16 Absatz 3 und 4
-ist die Steueranmeldung binnen einem Monat nach Ablauf des kürzeren
+Absatz 4, des § 18k Absatz 4 und des § 19 Absatz 1 Satz 2 für das
+Kalenderjahr oder für den kürzeren Besteuerungszeitraum eine
+Steuererklärung nach amtlich vorgeschriebenem Datensatz über die
+amtlich bestimmte Schnittstelle zu übermitteln, in der er die zu
+entrichtende Steuer oder den Überschuss, der sich zu seinen Gunsten
+ergibt, nach § 16 Absatz 1 bis 4 und § 17 selbst zu berechnen hat
+(Steueranmeldung). In den Fällen des § 16 Absatz 3 und 4 ist die
+Steueranmeldung binnen einem Monat nach Ablauf des kürzeren
 Besteuerungszeitraums zu übermitteln. Auf Antrag kann das Finanzamt
 zur Vermeidung von unbilligen Härten auf eine elektronische
 Übermittlung verzichten; in diesem Fall hat der Unternehmer eine
@@ -4823,8 +4827,8 @@ entsprechend.
 dem 1. Juli 2021 als Steuerschuldner Umsätze nach § 3a Absatz 5 im
 Gemeinschaftsgebiet erbringt, kann abweichend von den Absätzen 1 bis 4
 für jeden Besteuerungszeitraum (§ 16 Absatz 1a Satz 1) eine
-Steuererklärung nach amtlich vorgeschriebenem Datensatz durch
-Datenfernübertragung bis zum 20. Tag nach Ablauf jedes
+Steuererklärung nach amtlich vorgeschriebenem Datensatz über die
+amtlich bestimmte Schnittstelle bis zum 20. Tag nach Ablauf jedes
 Besteuerungszeitraums dem Bundeszentralamt für Steuern übermitteln, in
 der er die Steuer für die vorgenannten Umsätze selbst zu berechnen hat
 (Steueranmeldung). Die Steuer ist am 20. Tag nach Ablauf des
@@ -4854,8 +4858,8 @@ nicht.
 Absatz 7 Satz 2), der vor dem 1. Juli 2021 als Steuerschuldner Umsätze
 nach § 3a Absatz 5 im Inland erbringt, kann abweichend von den
 Absätzen 1 bis 4 für jeden Besteuerungszeitraum (§ 16 Absatz 1b Satz
-1) eine Steuererklärung nach amtlich vorgeschriebenem Datensatz durch
-Datenfernübertragung bis zum 20. Tag nach Ablauf jedes
+1) eine Steuererklärung nach amtlich vorgeschriebenem Datensatz über
+die amtlich bestimmte Schnittstelle bis zum 20. Tag nach Ablauf jedes
 Besteuerungszeitraums übermitteln, in der er die Steuer für die
 vorgenannten Umsätze selbst zu berechnen hat; dies gilt nur, wenn der
 Unternehmer im Inland, auf der Insel Helgoland und in einem der in § 1
@@ -5065,10 +5069,11 @@ Unternehmer seinen Sitz hat, keine Umsatzsteuer oder ähnliche Steuer
 erhoben oder im Fall der Erhebung im Inland ansässigen Unternehmern
 vergütet wird. Von der Vergütung ausgeschlossen sind bei Unternehmern,
 die nicht im Gemeinschaftsgebiet ansässig sind, die Vorsteuerbeträge,
-die auf den Bezug von Kraftstoffen entfallen. Die Sätze 6 und 7 gelten
-nicht für Unternehmer, die nicht im Gemeinschaftsgebiet ansässig sind,
-soweit sie im Besteuerungszeitraum (§ 16 Absatz 1 Satz 2) vor dem 1.
-Juli 2021 als Steuerschuldner Umsätze nach § 3a Absatz 5 im
+die auf den Bezug von Kraftstoffen entfallen, soweit diese nicht
+weitergeliefert werden. Die Sätze 6 und 7 gelten nicht für
+Unternehmer, die nicht im Gemeinschaftsgebiet ansässig sind, soweit
+sie im Besteuerungszeitraum (§ 16 Absatz 1 Satz 2) vor dem 1. Juli
+2021 als Steuerschuldner Umsätze nach § 3a Absatz 5 im
 Gemeinschaftsgebiet erbracht und für diese Umsätze von § 18 Absatz 4c
 Gebrauch gemacht haben oder diese Umsätze in einem anderen
 Mitgliedstaat erklärt sowie die darauf entfallende Steuer entrichtet
@@ -5248,21 +5253,21 @@ anzuhalten und die tatsächlichen und rechtlichen Verhältnisse
 festzustellen, die für die Umsatzsteuer maßgebend sind, und die
 festgestellten Daten den zuständigen Finanzbehörden zu übermitteln.
 
-(12) Im Ausland ansässige Unternehmer (§ 13b Absatz 7), die
+(12) Im Ausland ansässige Unternehmer nach § 13b Absatz 7, die
 grenzüberschreitende Personenbeförderungen mit nicht im Inland
-zugelassenen Kraftomnibussen durchführen, haben dies vor der
+zugelassenen Kraftomnibussen durchführen, haben sich vor der
 erstmaligen Ausführung derartiger auf das Inland entfallender Umsätze
-(§ 3b Abs. 1 Satz 2) bei dem für die Umsatzbesteuerung zuständigen
-Finanzamt anzuzeigen, soweit diese Umsätze nicht der
-Beförderungseinzelbesteuerung (§ 16 Abs. 5) unterliegen. Das Finanzamt
-erteilt hierüber eine Bescheinigung. Die Bescheinigung ist während
-jeder Fahrt mitzuführen und auf Verlangen den für die Steueraufsicht
-zuständigen Zolldienststellen vorzulegen. Bei Nichtvorlage der
-Bescheinigung können diese Zolldienststellen eine Sicherheitsleistung
-nach den abgabenrechtlichen Vorschriften in Höhe der für die einzelne
-Beförderungsleistung voraussichtlich zu entrichtenden Steuer
-verlangen. Die entrichtete Sicherheitsleistung ist auf die nach Absatz
-3 Satz 1 zu entrichtende Steuer anzurechnen.
+nach § 3b Absatz 1 Satz 2 bei dem für die Umsatzbesteuerung
+zuständigen Finanzamt zu registrieren; dies gilt nicht, soweit diese
+Umsätze der Beförderungseinzelbesteuerung nach § 16 Absatz 5
+unterliegen oder der Unternehmer an einem besonderen
+Besteuerungsverfahren entsprechend Titel XII Kapitel 6 Abschnitt 2 und
+3 der Richtlinie 2006/112/EG des Rates in der Fassung von Artikel 2
+Nummer 14 bis 20 der Richtlinie (EU) 2017/2455 des Rates vom 5.
+Dezember 2017 zur Änderung der Richtlinie 2006/112/EG und der
+Richtlinie 2009/132/EG in Bezug auf bestimmte mehrwertsteuerliche
+Pflichten für die Erbringung von Dienstleistungen und für Fernverkäufe
+von Gegenständen (ABl. L 348 vom 29.12.2017, S. 7) teilnimmt.
 
 
 ### § 18a Zusammenfassende Meldung
@@ -5272,14 +5277,14 @@ jedes Kalendermonats (Meldezeitraum), in dem er innergemeinschaftliche
 Warenlieferungen oder Lieferungen im Sinne des § 25b Absatz 2
 ausgeführt hat, dem Bundeszentralamt für Steuern eine Meldung
 (Zusammenfassende Meldung) nach amtlich vorgeschriebenem Datensatz
-durch Datenfernübertragung zu übermitteln, in der er die Angaben nach
-Absatz 7 Satz 1 Nummer 1, 2, 2a und 4 zu machen hat. Soweit die Summe
-der Bemessungsgrundlagen für innergemeinschaftliche Warenlieferungen
-und für Lieferungen im Sinne des § 25b Absatz 2 weder für das laufende
-Kalendervierteljahr noch für eines der vier vorangegangenen
-Kalendervierteljahre jeweils mehr als 50 000 Euro beträgt, kann die
-Zusammenfassende Meldung bis zum 25. Tag nach Ablauf des
-Kalendervierteljahres übermittelt werden. Übersteigt die Summe der
+über die amtlich bestimmte Schnittstelle zu übermitteln, in der er die
+Angaben nach Absatz 7 Satz 1 Nummer 1, 2, 2a und 4 zu machen hat.
+Soweit die Summe der Bemessungsgrundlagen für innergemeinschaftliche
+Warenlieferungen und für Lieferungen im Sinne des § 25b Absatz 2 weder
+für das laufende Kalendervierteljahr noch für eines der vier
+vorangegangenen Kalendervierteljahre jeweils mehr als 50 000 Euro
+beträgt, kann die Zusammenfassende Meldung bis zum 25. Tag nach Ablauf
+des Kalendervierteljahres übermittelt werden. Übersteigt die Summe der
 Bemessungsgrundlage für innergemeinschaftliche Warenlieferungen und
 für Lieferungen im Sinne des § 25b Absatz 2 im Laufe eines
 Kalendervierteljahres 50 000 Euro, hat der Unternehmer bis zum 25. Tag
@@ -5298,12 +5303,13 @@ Gemeinschaftsgebiet steuerpflichtige sonstige Leistungen im Sinne des
 § 3a Absatz 2, für die der in einem anderen Mitgliedstaat ansässige
 Leistungsempfänger die Steuer dort schuldet, ausgeführt hat, dem
 Bundeszentralamt für Steuern eine Zusammenfassende Meldung nach
-amtlich vorgeschriebenem Datensatz durch Datenfernübertragung zu
-übermitteln, in der er die Angaben nach Absatz 7 Satz 1 Nummer 3 zu
-machen hat. Soweit der Unternehmer bereits nach Absatz 1 zur
-monatlichen Übermittlung einer Zusammenfassenden Meldung verpflichtet
-ist, hat er die Angaben im Sinne von Satz 1 in der Zusammenfassenden
-Meldung für den letzten Monat des Kalendervierteljahres zu machen.
+amtlich vorgeschriebenem Datensatz über die amtlich bestimmte
+Schnittstelle zu übermitteln, in der er die Angaben nach Absatz 7 Satz
+1 Nummer 3 zu machen hat. Soweit der Unternehmer bereits nach Absatz 1
+zur monatlichen Übermittlung einer Zusammenfassenden Meldung
+verpflichtet ist, hat er die Angaben im Sinne von Satz 1 in der
+Zusammenfassenden Meldung für den letzten Monat des
+Kalendervierteljahres zu machen.
 
 (3) Soweit der Unternehmer im Sinne des § 2 die Zusammenfassende
 Meldung entsprechend Absatz 1 bis zum 25. Tag nach Ablauf jedes
@@ -5618,9 +5624,7 @@ Das Bundeszentralamt für Steuern bestätigt auf Anfrage
     Mitgliedstaat erteilt wurde;
 
 
-2.  dem Lagerhalter im Sinne des § 4 Nr. 4a die Gültigkeit der
-    inländischen Umsatzsteuer-Identifikationsnummer sowie den Namen und
-    die Anschrift des Auslagerers oder dessen Fiskalvertreters;
+2.  (weggefallen)
 
 
 3.  dem Betreiber im Sinne des § 25e Absatz 1 die Gültigkeit einer
@@ -5649,17 +5653,19 @@ Vorsteuerbeträgen entsprechend der Richtlinie 2008/9/EG des Rates vom
 der Richtlinie 2006/112/EG an nicht im Mitgliedstaat der Erstattung,
 sondern in einem anderen Mitgliedstaat ansässige Steuerpflichtige
 (ABl. EU Nr. L 44 S. 23) in einem anderen Mitgliedstaat stellen kann,
-hat diesen Antrag nach amtlich vorgeschriebenem Datensatz durch
-Datenfernübertragung dem Bundeszentralamt für Steuern zu übermitteln.
-In diesem hat er die Steuer für den Vergütungszeitraum selbst zu
-berechnen. § 18 Absatz 4f ist entsprechend anzuwenden. Leitet das
-Bundeszentralamt für Steuern den Antrag nicht an den Mitgliedstaat der
-Erstattung weiter, ist der Bescheid über die Ablehnung dem
-Antragsteller durch Bereitstellung zum Datenabruf nach § 122a in
-Verbindung mit § 87a Absatz 8 der Abgabenordnung bekannt zu geben. Hat
-der Empfänger des Bescheids der Bekanntgabe durch Bereitstellung zum
-Datenabruf nach Satz 4 nicht zugestimmt, ist der Bescheid schriftlich
-zu erteilen.
+hat diesen Antrag nach amtlich vorgeschriebenem Datensatz über die
+amtlich bestimmte Schnittstelle dem Bundeszentralamt für Steuern zu
+übermitteln. In diesem hat er die Steuer für den Vergütungszeitraum
+selbst zu berechnen. § 18 Absatz 4f ist entsprechend anzuwenden.
+Leitet das Bundeszentralamt für Steuern den Antrag nicht an den
+Mitgliedstaat der Erstattung weiter, ist der Bescheid über die
+Ablehnung dem Antragsteller durch Bereitstellung zum Datenabruf nach
+§ 122a in Verbindung mit § 87a Absatz 8 der Abgabenordnung bekannt zu
+geben. Abweichend von § 122a Absatz 2 der Abgabenordnung kann das
+Bundeszentralamt für Steuern nur zur Vermeidung von unbilligen Härten
+einem Antrag auf einmalige postalische Bekanntgabe nach § 122a Absatz
+2 der Abgabenordnung entsprechen und den Bescheid, bis zum Widerruf
+des Antrags, postalisch bekannt geben.
 
 
 ### § 18h Verfahren der Abgabe der Umsatzsteuererklärung für einen anderen Mitgliedstaat
@@ -5669,12 +5675,12 @@ einem anderen Mitgliedstaat der Europäischen Union Umsätze nach § 3a
 Absatz 5 erbringt, für die er dort die Steuer schuldet und
 Umsatzsteuererklärungen abzugeben hat, hat gegenüber dem
 Bundeszentralamt für Steuern nach amtlich vorgeschriebenem Datensatz
-durch Datenfernübertragung anzuzeigen, wenn er an dem besonderen
-Besteuerungsverfahren entsprechend Titel XII Kapitel 6 Abschnitt 3 der
-Richtlinie 2006/112/EG des Rates in der Fassung von Artikel 5 Nummer
-15 der Richtlinie 2008/8/EG des Rates vom 12. Februar 2008 zur
-Änderung der Richtlinie 2006/112/EG bezüglich des Ortes der
-Dienstleistung (ABl. L 44 vom 20.2.2008, S. 23) teilnimmt. Eine
+über die amtlich bestimmte Schnittstelle anzuzeigen, wenn er an dem
+besonderen Besteuerungsverfahren entsprechend Titel XII Kapitel 6
+Abschnitt 3 der Richtlinie 2006/112/EG des Rates in der Fassung von
+Artikel 5 Nummer 15 der Richtlinie 2008/8/EG des Rates vom 12. Februar
+2008 zur Änderung der Richtlinie 2006/112/EG bezüglich des Ortes der
+Dienstleistung (ABl. L 44 vom 20.2.2008, S. 11) teilnimmt. Eine
 Teilnahme im Sinne des Satzes 1 ist dem Unternehmer nur einheitlich
 für alle Mitgliedstaaten der Europäischen Union möglich, in denen er
 weder einen Sitz noch eine Betriebsstätte hat. Die Anzeige nach Satz 1
@@ -5741,11 +5747,11 @@ Bezug auf bestimmte mehrwertsteuerliche Pflichten für die Erbringung
 von Dienstleistungen und für Fernverkäufe von Gegenständen (ABl. L 348
 vom 29.12.2017, S. 7) teilnimmt. Die Anzeige ist der zuständigen
 Finanzbehörde eines Mitgliedstaates der Europäischen Union nach
-amtlich vorgeschriebenem Datensatz durch Datenfernübertragung zu
-übermitteln; zuständige Finanzbehörde im Inland ist insoweit das
-Bundeszentralamt für Steuern. Die Anzeige hat vor Beginn des
-Besteuerungszeitraums (§ 16 Absatz 1c Satz 1) zu erfolgen, ab dessen
-Beginn der Unternehmer von dem besonderen Besteuerungsverfahren
+amtlich vorgeschriebenem Datensatz über die amtlich bestimmte
+Schnittstelle zu übermitteln; zuständige Finanzbehörde im Inland ist
+insoweit das Bundeszentralamt für Steuern. Die Anzeige hat vor Beginn
+des Besteuerungszeitraums (§ 16 Absatz 1c Satz 1) zu erfolgen, ab
+dessen Beginn der Unternehmer von dem besonderen Besteuerungsverfahren
 Gebrauch macht. Eine Teilnahme an dem besonderen Besteuerungsverfahren
 ist dem Unternehmer nur einheitlich für alle Mitgliedstaaten der
 Europäischen Union und alle sonstigen Leistungen an Empfänger nach §
@@ -5754,7 +5760,7 @@ besonderen Besteuerungsverfahrens kann nur mit Wirkung vom Beginn
 eines Besteuerungszeitraums an widerrufen werden. Der Widerruf ist vor
 Beginn des Besteuerungszeitraums, für den er gelten soll, gegenüber
 der Finanzbehörde nach Satz 2 nach amtlich vorgeschriebenem Datensatz
-durch Datenfernübertragung zu erklären.
+über die amtlich bestimmte Schnittstelle zu erklären.
 
 (2) Erfolgt die Anzeige nach Absatz 1 Satz 1 im Inland und erfüllt der
 Unternehmer die Voraussetzungen für die Teilnahme an dem besonderen
@@ -5767,18 +5773,18 @@ Besteuerungsverfahren anwendet, hat der Finanzbehörde, bei der er die
 Teilnahme an dem besonderen Besteuerungsverfahren angezeigt hat, eine
 Steuererklärung innerhalb eines Monats nach Ablauf jedes
 Besteuerungszeitraums (§ 16 Absatz 1c Satz 1) nach amtlich
-vorgeschriebenem Datensatz durch Datenfernübertragung zu übermitteln.
-In der Steuererklärung hat er die Steuer für den Besteuerungszeitraum
-selbst zu berechnen. Die berechnete Steuer ist am letzten Tag des auf
-den Besteuerungszeitraum folgenden Monats fällig und bis dahin vom
-Unternehmer an die Finanzbehörde zu entrichten, bei der der
-Unternehmer die Teilnahme an dem besonderen Besteuerungsverfahren
-angezeigt hat. Soweit der Unternehmer im Inland Leistungen nach Absatz
-1 Satz 1 erbringt, ist § 18 Absatz 1 bis 4 nicht anzuwenden.
-Berichtigungen einer Steuererklärung, die innerhalb von drei Jahren
-nach dem letzten Tag des Zeitraums nach Satz 1 vorgenommen werden,
-sind mit einer späteren Steuererklärung unter Angabe des zu
-berichtigenden Besteuerungszeitraums anzuzeigen.
+vorgeschriebenem Datensatz über die amtlich bestimmte Schnittstelle zu
+übermitteln. In der Steuererklärung hat er die Steuer für den
+Besteuerungszeitraum selbst zu berechnen. Die berechnete Steuer ist am
+letzten Tag des auf den Besteuerungszeitraum folgenden Monats fällig
+und bis dahin vom Unternehmer an die Finanzbehörde zu entrichten, bei
+der der Unternehmer die Teilnahme an dem besonderen
+Besteuerungsverfahren angezeigt hat. Soweit der Unternehmer im Inland
+Leistungen nach Absatz 1 Satz 1 erbringt, ist § 18 Absatz 1 bis 4
+nicht anzuwenden. Berichtigungen einer Steuererklärung, die innerhalb
+von drei Jahren nach dem letzten Tag des Zeitraums nach Satz 1
+vorgenommen werden, sind mit einer späteren Steuererklärung unter
+Angabe des zu berichtigenden Besteuerungszeitraums anzuzeigen.
 
 (4) Die Steuererklärung nach Absatz 3 Satz 1 und 2, die der
 Unternehmer der zuständigen Finanzbehörde eines anderen
@@ -5853,8 +5859,8 @@ bestimmte inländische Lieferungen von Gegenständen (ABl.L 310 vom
 Finanzbehörde des nach Artikel 369a Nummer 2 der Richtlinie
 2006/112/EG des Rates in der Fassung von Artikel 1 Nummer 9 der
 Richtlinie (EU) 2019/1995 zuständigen Mitgliedstaates der Europäischen
-Union nach amtlich vorgeschriebenem Datensatz durch
-Datenfernübertragung zu übermitteln; zuständige Finanzbehörde im
+Union nach amtlich vorgeschriebenem Datensatz über die amtlich
+bestimmte Schnittstelle zu übermitteln; zuständige Finanzbehörde im
 Inland ist insoweit das Bundeszentralamt für Steuern. Die Anzeige hat
 vor Beginn des Besteuerungszeitraums (§ 16 Absatz 1d Satz 1) zu
 erfolgen, ab dessen Beginn der Unternehmer von dem besonderen
@@ -5869,7 +5875,7 @@ Besteuerungsverfahrens kann nur mit Wirkung vom Beginn eines
 Besteuerungszeitraums an widerrufen werden. Der Widerruf ist vor
 Beginn des Besteuerungszeitraums, für den er gelten soll, gegenüber
 der Finanzbehörde nach Satz 2 nach amtlich vorgeschriebenem Datensatz
-durch Datenfernübertragung zu erklären.
+über die amtlich bestimmte Schnittstelle zu erklären.
 
 (2) Im übrigen Gemeinschaftsgebiet ansässige Unternehmer (§ 13b Absatz
 7 Satz 2) können die Teilnahme an dem besonderen Besteuerungsverfahren
@@ -5911,17 +5917,17 @@ besonderen Besteuerungsverfahren ab.
 Besteuerungsverfahren anwendet, hat der Finanzbehörde nach Absatz 1
 Satz 2 in Verbindung mit Absatz 2 eine Steuererklärung innerhalb eines
 Monats nach Ablauf jedes Besteuerungszeitraums (§ 16 Absatz 1d Satz 1)
-nach amtlich vorgeschriebenem Datensatz durch Datenfernübertragung zu
-übermitteln. In der Steuererklärung hat er die Steuer für den
-Besteuerungszeitraum selbst zu berechnen. Die berechnete Steuer ist am
-letzten Tag des auf den Besteuerungszeitraum folgenden Monats fällig
-und bis dahin vom Unternehmer an die Finanzbehörde nach Absatz 1 Satz
-2 zu entrichten. Soweit der Unternehmer im Inland Leistungen nach
-Absatz 1 Satz 1 erbringt, ist § 18 Absatz 1 bis 4 nicht anzuwenden.
-Berichtigungen einer Steuererklärung, die innerhalb von drei Jahren
-nach dem letzten Tag des Zeitraums nach Satz 1 vorgenommen werden,
-sind mit einer späteren Steuererklärung unter Angabe des zu
-berichtigenden Besteuerungszeitraums anzuzeigen.
+nach amtlich vorgeschriebenem Datensatz über die amtlich bestimmte
+Schnittstelle zu übermitteln. In der Steuererklärung hat er die Steuer
+für den Besteuerungszeitraum selbst zu berechnen. Die berechnete
+Steuer ist am letzten Tag des auf den Besteuerungszeitraum folgenden
+Monats fällig und bis dahin vom Unternehmer an die Finanzbehörde nach
+Absatz 1 Satz 2 zu entrichten. Soweit der Unternehmer im Inland
+Leistungen nach Absatz 1 Satz 1 erbringt, ist § 18 Absatz 1 bis 4
+nicht anzuwenden. Berichtigungen einer Steuererklärung, die innerhalb
+von drei Jahren nach dem letzten Tag des Zeitraums nach Satz 1
+vorgenommen werden, sind mit einer späteren Steuererklärung unter
+Angabe des zu berichtigenden Besteuerungszeitraums anzuzeigen.
 
 (5) Die Steuererklärung nach Absatz 4 Satz 1 und 2, die der
 Unternehmer der zuständigen Finanzbehörde eines anderen
@@ -5990,27 +5996,28 @@ Anzeige ist der zuständigen Finanzbehörde des unter den
 Voraussetzungen des Artikels 369l Unterabsatz 2 Nummer 3 der
 Richtlinie 2006/112/EG zuständigen Mitgliedstaates der Europäischen
 Union vor Beginn des Besteuerungszeitraums (§ 16 Absatz 1e Satz 1)
-nach amtlich vorgeschriebenem Datensatz durch Datenfernübertragung zu
-übermitteln; zuständige Finanzbehörde im Inland ist insoweit das
-Bundeszentralamt für Steuern. Eine Teilnahme an dem besonderen
-Besteuerungsverfahren ist für nicht im Gemeinschaftsgebiet ansässige
-Unternehmer nur zulässig, wenn das Drittland, in dem sie ansässig
-sind, in der Durchführungsverordnung entsprechend Artikel 369m Absatz
-3 der Richtlinie 2006/112/EG aufgeführt ist, oder wenn sie einen im
-Gemeinschaftsgebiet ansässigen Vertreter vertraglich bestellt und dies
-der Finanzbehörde nach Satz 2 angezeigt haben. Satz 1 gilt nicht für
-Sendungen, die verbrauchsteuerpflichtige Waren enthalten. Eine
-Teilnahme an dem besonderen Besteuerungsverfahren ist nur einheitlich
-für alle Mitgliedstaaten der Europäischen Union und für alle
-Fernverkäufe im Sinne des Satzes 1 möglich; sie gilt ab dem Tag, an
-dem dem Unternehmer oder dem im Auftrag handelnden Vertreter die nach
-Artikel 369q Absatz 1 oder 3 der Richtlinie 2006/112/EG erteilte
+nach amtlich vorgeschriebenem Datensatz über die amtlich bestimmte
+Schnittstelle zu übermitteln; zuständige Finanzbehörde im Inland ist
+insoweit das Bundeszentralamt für Steuern. Eine Teilnahme an dem
+besonderen Besteuerungsverfahren ist für nicht im Gemeinschaftsgebiet
+ansässige Unternehmer nur zulässig, wenn das Drittland, in dem sie
+ansässig sind, in der Durchführungsverordnung entsprechend Artikel
+369m Absatz 3 der Richtlinie 2006/112/EG aufgeführt ist, oder wenn sie
+einen im Gemeinschaftsgebiet ansässigen Vertreter vertraglich bestellt
+und dies der Finanzbehörde nach Satz 2 angezeigt haben. Satz 1 gilt
+nicht für Sendungen, die verbrauchsteuerpflichtige Waren enthalten.
+Eine Teilnahme an dem besonderen Besteuerungsverfahren ist nur
+einheitlich für alle Mitgliedstaaten der Europäischen Union und für
+alle Fernverkäufe im Sinne des Satzes 1 möglich; sie gilt ab dem Tag,
+an dem dem Unternehmer oder dem im Auftrag handelnden Vertreter die
+nach Artikel 369q Absatz 1 oder 3 der Richtlinie 2006/112/EG erteilte
 individuelle Identifikationsnummer des Unternehmers bekannt gegeben
 wurde. Die Anwendung des besonderen Besteuerungsverfahrens kann nur
 mit Wirkung vom Beginn eines Besteuerungszeitraums an widerrufen
 werden. Der Widerruf ist vor Beginn des Besteuerungszeitraums, für den
 er gelten soll, gegenüber der Finanzbehörde nach Satz 2 nach amtlich
-vorgeschriebenem Datensatz durch Datenfernübertragung zu erklären.
+vorgeschriebenem Datensatz über die amtlich bestimmte Schnittstelle zu
+erklären.
 
 (2) Im übrigen Gemeinschaftsgebiet ansässige Unternehmer (§ 13b Absatz
 7 Satz 2) oder im Auftrag handelnde Vertreter können die Teilnahme an
@@ -6042,12 +6049,12 @@ Absatz 1 genannte besondere Besteuerungsverfahren anwendet, hat der
 Finanzbehörde nach Absatz 1 Satz 2 in Verbindung mit Absatz 2 eine
 Steuererklärung innerhalb eines Monats nach Ablauf jedes
 Besteuerungszeitraums (§ 16 Absatz 1e Satz 1) nach amtlich
-vorgeschriebenem Datensatz durch Datenfernübertragung zu übermitteln.
-In der Steuererklärung hat er die Steuer für den Besteuerungszeitraum
-selbst zu berechnen. Die berechnete Steuer ist am letzten Tag des auf
-den Besteuerungszeitraum folgenden Monats fällig und bis dahin vom
-Unternehmer oder vom im Auftrag handelnden Vertreter an die
-Finanzbehörde nach Absatz 1 Satz 2 zu entrichten. Soweit der
+vorgeschriebenem Datensatz über die amtlich bestimmte Schnittstelle zu
+übermitteln. In der Steuererklärung hat er die Steuer für den
+Besteuerungszeitraum selbst zu berechnen. Die berechnete Steuer ist am
+letzten Tag des auf den Besteuerungszeitraum folgenden Monats fällig
+und bis dahin vom Unternehmer oder vom im Auftrag handelnden Vertreter
+an die Finanzbehörde nach Absatz 1 Satz 2 zu entrichten. Soweit der
 Unternehmer im Inland Lieferungen nach Absatz 1 Satz 1 erbringt, ist §
 18 Absatz 1 bis 4 nicht anzuwenden. Berichtigungen einer
 Steuererklärung, die innerhalb von drei Jahren nach dem letzten Tag
@@ -6113,65 +6120,142 @@ Finanzgerichtsordnung anzuwenden.
 
 ### § 19 Besteuerung der Kleinunternehmer
 
-(1) Die für Umsätze im Sinne des § 1 Abs. 1 Nr. 1 geschuldete
-Umsatzsteuer wird von Unternehmern, die im Inland oder in den in § 1
-Abs. 3 bezeichneten Gebieten ansässig sind, nicht erhoben, wenn der in
-Satz 2 bezeichnete Umsatz zuzüglich der darauf entfallenden Steuer im
-vorangegangenen Kalenderjahr 22 000 Euro nicht überstiegen hat und im
-laufenden Kalenderjahr 50 000 Euro voraussichtlich nicht übersteigen
-wird. Umsatz im Sinne des Satzes 1 ist der nach vereinnahmten
-Entgelten bemessene Gesamtumsatz, gekürzt um die darin enthaltenen
-Umsätze von Wirtschaftsgütern des Anlagevermögens. Satz 1 gilt nicht
-für die nach § 13a Abs. 1 Nr. 6, § 13b Absatz 5, § 14c Abs. 2 und §
-25b Abs. 2 geschuldete Steuer. In den Fällen des Satzes 1 finden die
-Vorschriften über die Steuerbefreiung innergemeinschaftlicher
-Lieferungen (§ 4 Nr. 1 Buchstabe b, § 6a), über den Verzicht auf
-Steuerbefreiungen (§ 9), über den gesonderten Ausweis der Steuer in
-einer Rechnung (§ 14 Abs. 4), über die Angabe der Umsatzsteuer-
-Identifikationsnummern in einer Rechnung (§ 14a Abs. 1, 3 und 7) und
-über den Vorsteuerabzug (§ 15) keine Anwendung.
+(1) Ein von einem im Inland oder in den in § 1 Absatz 3 bezeichneten
+Gebieten ansässigen Unternehmer bewirkter Umsatz im Sinne des § 1
+Absatz 1 Nummer 1 ist steuerfrei, wenn der Gesamtumsatz nach Absatz 2
+im vorangegangenen Kalenderjahr 25 000 Euro nicht überschritten hat
+und im laufenden Kalenderjahr 100 000 Euro nicht überschreitet. In den
+Fällen des Satzes 1 finden die Vorschriften über die Steuerbefreiung
+innergemeinschaftlicher Lieferungen (§ 4 Nummer 1 Buchstabe b, § 6a),
+über den Verzicht auf Steuerbefreiungen (§ 9), über die Angabe der
+Umsatzsteuer-Identifikationsnummern in einer Rechnung (§ 14a Absatz 1
+Satz 3, Absatz 3 Satz 2 und Absatz 7 Satz 2) und über die
+Erklärungspflichten (§ 18 Absatz 1 bis 4) keine Anwendung; § 149
+Absatz 1 Satz 2 der Abgabenordnung und § 18 Absatz 4a dieses Gesetzes
+bleiben unberührt.
 
-(2) Der Unternehmer kann dem Finanzamt bis zur Unanfechtbarkeit der
-Steuerfestsetzung (§ 18 Abs. 3 und 4) erklären, dass er auf die
-Anwendung des Absatzes 1 verzichtet. Nach Eintritt der
-Unanfechtbarkeit der Steuerfestsetzung bindet die Erklärung den
-Unternehmer mindestens für fünf Kalenderjahre. Sie kann nur mit
-Wirkung von Beginn eines Kalenderjahres an widerrufen werden. Der
-Widerruf ist spätestens bis zur Unanfechtbarkeit der Steuerfestsetzung
-des Kalenderjahres, für das er gelten soll, zu erklären.
+(2) Gesamtumsatz ist die nach vereinnahmten Entgelten berechnete Summe
+der vom Unternehmer ausgeführten steuerbaren Umsätze im Sinne des § 1
+Absatz 1 Nummer 1 abzüglich folgender Umsätze:
 
-(3) Gesamtumsatz ist die Summe der vom Unternehmer ausgeführten
-steuerbaren Umsätze im Sinne des § 1 Abs. 1 Nr. 1 abzüglich folgender
-Umsätze:
-
-1.  der Umsätze, die nach § 4 Nr. 8 Buchstabe i, Nr. 9 Buchstabe b und
+1.  Umsätze, die nach § 4 Nummer 8 Buchstabe i, Nummer 9 Buchstabe b und
     Nummer 11 bis 29 steuerfrei sind;
 
 
-2.  der Umsätze, die nach § 4 Nr. 8 Buchstabe a bis h, Nr. 9 Buchstabe a
-    und Nr. 10 steuerfrei sind, wenn sie Hilfsumsätze sind.
+2.  Umsätze, die nach § 4 Nummer 8 Buchstabe a bis h, Nummer 9 Buchstabe a
+    und Nummer 10 steuerfrei sind, wenn sie Hilfsumsätze sind.
 
 
 
-Soweit der Unternehmer die Steuer nach vereinnahmten Entgelten
-berechnet (§ 13 Abs. 1 Nr. 1 Buchstabe a Satz 4 oder § 20), ist auch
-der Gesamtumsatz nach diesen Entgelten zu berechnen. Hat der
-Unternehmer seine gewerbliche oder berufliche Tätigkeit nur in einem
-Teil des Kalenderjahres ausgeübt, so ist der tatsächliche Gesamtumsatz
-in einen Jahresgesamtumsatz umzurechnen. Angefangene Kalendermonate
-sind bei der Umrechnung als volle Kalendermonate zu behandeln, es sei
-denn, dass die Umrechnung nach Tagen zu einem niedrigeren
-Jahresgesamtumsatz führt.
+Die Umsätze mit Wirtschaftsgütern des Anlagevermögens eines
+Unternehmers bleiben bei der Ermittlung des Gesamtumsatzes nach Satz 1
+außer Ansatz.
 
-(4) Absatz 1 gilt nicht für die innergemeinschaftlichen Lieferungen
-neuer Fahrzeuge. § 15 Abs. 4a ist entsprechend anzuwenden.
+(3) Ein Unternehmer nach Absatz 1 Satz 1 kann bis zum letzten Tag des
+Monats Februar des zweiten auf den Besteuerungszeitraum folgenden
+Kalenderjahres gegenüber dem Finanzamt unwiderruflich erklären, dass
+er auf die Anwendung des Absatzes 1 verzichtet. Der Verzicht wird von
+Beginn des Besteuerungszeitraums an, für den er gelten soll, wirksam.
+Der Verzicht bindet den Unternehmer mindestens für fünf Kalenderjahre.
+Der Unternehmer kann den Verzicht mit Wirkung von Beginn eines
+darauffolgenden Kalenderjahres an widerrufen.
+
+(4) Für im übrigen Gemeinschaftsgebiet ansässige Unternehmer gilt
+Absatz 1 entsprechend, wenn
+
+1.  der nach Artikel 288 der Richtlinie 2006/112/EG in der jeweils
+    geltenden Fassung ermittelte Jahresumsatz im Gemeinschaftsgebiet im
+    vorangegangenen Kalenderjahr 100 000 Euro nicht überschritten hat und
+    im laufenden Kalenderjahr nicht überschreitet, und
+
+
+2.  dem Unternehmer für die Steuerbefreiung nach Absatz 1 Satz 1 durch den
+    Mitgliedstaat der Ansässigkeit die insoweit gültige Kleinunternehmer-
+    Identifikationsnummer erteilt wurde.
+
+
+
+
+(5) Ein im übrigen Gemeinschaftsgebiet ansässiger Unternehmer kann
+gegenüber der zuständigen Finanzbehörde im Mitgliedstaat der
+Ansässigkeit erklären, dass er auf die Anwendung des Absatzes 4
+verzichtet. Der Verzicht wird von Beginn des auf den Eingang der
+Verzichtserklärung folgenden Kalendervierteljahres an wirksam. Geht
+die Verzichtserklärung im letzten Monat eines Kalendervierteljahres
+ein, wird der Verzicht von Beginn des zweiten Monats des folgenden
+Kalendervierteljahres an wirksam. Der Verzicht bindet den Unternehmer
+mindestens für fünf Kalenderjahre. Der Unternehmer kann den Verzicht
+mit Wirkung von Beginn eines darauffolgenden Kalenderjahres an
+widerrufen.
+
+(6) Absatz 1 gilt nicht für die innergemeinschaftlichen Lieferungen
+neuer Fahrzeuge. § 15 Absatz 4a ist entsprechend anzuwenden.
+
+
+### § 19a Besonderes Meldeverfahren für die Anwendung der Steuerbefreiung in einem anderen Mitgliedstaat
+
+(1) Beabsichtigt ein im Inland oder in den in § 1 Absatz 3
+bezeichneten Gebieten ansässiger Unternehmer, die Steuerbefreiung für
+Kleinunternehmer in einem anderen Mitgliedstaat in Anspruch zu nehmen,
+muss er an dem besonderen Meldeverfahren für Kleinunternehmer
+teilnehmen. Das Bundeszentralamt für Steuern erteilt für die Teilnahme
+an dem besonderen Meldeverfahren eine Kleinunternehmer-
+Identifikationsnummer. Die Teilnahme am besonderen Meldeverfahren
+setzt weiter voraus, dass
+
+1.  der Unternehmer nach amtlich vorgeschriebenem Datensatz über die
+    amtlich bestimmte Schnittstelle beim Bundeszentralamt für Steuern die
+    Teilnahme am besonderen Meldeverfahren beantragt,
+
+
+2.  der nach Artikel 288 der Richtlinie 2006/112/EG in der jeweils
+    geltenden Fassung ermittelte Jahresumsatz des Unternehmers im
+    Gemeinschaftsgebiet im vorangegangenen Kalenderjahr 100 000 Euro nicht
+    überschritten hat und im laufenden Kalenderjahr nicht überschreitet,
+
+
+3.  der Unternehmer die Voraussetzungen zur Inanspruchnahme der
+    Steuerbefreiung für Kleinunternehmer des Mitgliedstaates, der die
+    Steuerbefreiung gewährt, erfüllt und
+
+
+4.  der Unternehmer in keinem anderen Mitgliedstaat zur Anwendung der
+    Steuerbefreiung für Kleinunternehmer registriert ist.
+
+
+
+Änderungen der im Antrag nach Satz 3 Nummer 1 gemachten Angaben hat
+der Unternehmer unverzüglich dem Bundeszentralamt für Steuern nach dem
+in Satz 3 Nummer 1 amtlich vorgeschriebenen Datensatz mitzuteilen.
+
+(2) Beabsichtigt der Unternehmer, die Steuerbefreiung für
+Kleinunternehmer in einem anderen Mitgliedstaat nicht mehr in Anspruch
+zu nehmen, hat er dies nach amtlich vorgeschriebenem Datensatz über
+die amtlich bestimmte Schnittstelle dem Bundeszentralamt für Steuern
+zu erklären. § 19 Absatz 5 Satz 2 und 3 gilt entsprechend.
+
+(3) Der Unternehmer hat für jedes Kalendervierteljahr eine
+Umsatzmeldung abzugeben. Der Unternehmer hat die Umsatzmeldung nach
+Satz 1 innerhalb eines Monats nach Ablauf des Kalendervierteljahres
+dem Bundeszentralamt für Steuern nach amtlich vorgeschriebenem
+Datensatz über die amtlich bestimmte Schnittstelle zu übermitteln. Auf
+die Umsatzmeldung sind mit Ausnahme von § 152 der Abgabenordnung
+ergänzend die für Steuererklärungen geltenden Vorschriften der
+Abgabenordnung entsprechend anzuwenden.
+
+(4) Überschreitet der nach Absatz 1 Satz 3 Nummer 2 ermittelte
+Jahresumsatz im Gemeinschaftsgebiet 100 000 Euro, hat der Unternehmer
+dies binnen 15 Werktagen nach amtlich vorgeschriebenem Datensatz über
+die amtlich bestimmte Schnittstelle dem Bundeszentralamt für Steuern
+anzuzeigen. Mit Überschreiten endet die Teilnahme am besonderen
+Meldeverfahren.
 
 
 ### § 20 Berechnung der Steuer nach vereinnahmten Entgelten
 
 Das Finanzamt kann auf Antrag gestatten, dass ein Unternehmer,
 
-1.  dessen Gesamtumsatz (§ 19 Abs. 3) im vorangegangenen Kalenderjahr
+1.  dessen Gesamtumsatz (§ 19 Absatz 2) im vorangegangenen Kalenderjahr
     nicht mehr als 800 000 Euro betragen hat, oder
 
 
@@ -6363,6 +6447,57 @@ dass Einfuhrumsatzsteuer vom Sendungsempfänger der Sendung erhoben
 wurde, gilt Satz 3 entsprechend.
 
 
+### § 21b Sonderregelungen bei der Nutzung der zentralen Zollabwicklung nach Artikel 179 des Zollkodex der Union
+
+(1) Bei der Nutzung der Zentralen Zollabwicklung nach Artikel 179 des
+Zollkodex der Union, bei der eine Zollanmeldung für Gegenstände, die
+im Inland gestellt werden, bei der Zollbehörde eines anderen
+Mitgliedstaats der Europäischen Union abgegeben wird, entsteht die
+Einfuhrumsatzsteuer am Ort der Gestellung. Für Gegenstände, für die
+nach zollrechtlichen Vorschriften eine Befreiung von der
+Gestellungspflicht vorgesehen ist, entsteht die Einfuhrumsatzsteuer an
+dem Ort, an dem sich die Gegenstände zum Zeitpunkt der Annahme der
+Zollanmeldung im Inland befinden.
+
+(2) Die Festsetzung und Erhebung der Einfuhrumsatzsteuer erfolgt in
+den Fällen nach Absatz 1 durch das jeweils zuständige Hauptzollamt im
+Inland.
+
+(3) Die Zollanmeldung, die nach Artikel 179 Absatz 1 des Zollkodex der
+Union bei einer Zollbehörde eines anderen Mitgliedstaats der
+Europäischen Union abgegeben wird, wirkt als Steuererklärung, wenn sie
+
+1.  der zuständigen Zollbehörde im Inland übermittelt und in bearbeitbarer
+    Weise erfasst wurde,
+
+
+2.  alle für die Festsetzung der Einfuhrumsatzsteuer maßgeblichen Angaben
+    enthält und
+
+
+3.  dem Zollanmelder oder seinem Vertreter oder, soweit zulässig, einem
+    Dritten entsprechend Artikel 109 Absatz 2 des Zollkodex der Union für
+    Zwecke der Einfuhrumsatzsteuer im Inland ein Zahlungsaufschub
+    entsprechend Artikel 110 Buchstabe b oder Buchstabe c des Zollkodex
+    der Union bewilligt und die dafür erforderlichen Daten jeweils in der
+    Zollanmeldung angegeben sind.
+
+
+
+Dies gilt für eine Änderung der Zollanmeldung entsprechend, die
+gegenüber der Zollbehörde des anderen Mitgliedstaats, in dem die
+Zollanmeldung abgegeben worden ist, erklärt wird. Anderenfalls ist
+eine Steuererklärung, die alle für die Festsetzung der
+Einfuhrumsatzsteuer maßgeblichen Angaben enthält, bei der zuständigen
+Zollstelle im Inland abzugeben.
+
+(4) Der Steuerbescheid ist auf elektronischem Wege zu erteilen oder
+durch Bereitstellung zum Datenabruf nach § 122a der Abgabenordnung
+bekannt zu geben. Der oder die Beteiligte muss den Empfang des
+Steuerbescheids über einen durch die Zollverwaltung für die
+elektronische Datenübermittlung vorgesehenen Zugang sicherstellen.
+
+
 ### § 22 Aufzeichnungspflichten
 
 (1) Der Unternehmer ist verpflichtet, zur Feststellung der Steuer und
@@ -6449,8 +6584,7 @@ zur Verfügung zu stellen.
     Angaben nach den Nummern 1 und 2 gesondert aufzuzeichnen;
 
 
-9.  die Bemessungsgrundlage für Umsätze im Sinne des § 4 Nr. 4a Satz 1
-    Buchstabe a Satz 2 sowie die hierauf entfallenden Steuerbeträge;
+9.  (weggefallen)
 
 
 10. in den Fällen des § 21a Namen und Anschriften der Versender und der
@@ -6472,7 +6606,7 @@ wenn der Vorsteuerabzug ausgeschlossen ist (§ 15 Abs. 2 und 3). Ist
 der Unternehmer nur teilweise zum Vorsteuerabzug berechtigt, so müssen
 aus den Aufzeichnungen die Vorsteuerbeträge eindeutig und leicht
 nachprüfbar zu ersehen sein, die den zum Vorsteuerabzug berechtigenden
-Umsätzen ganz oder teilweise zuzurechnen sind. Außerdem hat der
+Umsätzen ganz oder teilweise zuzuordnen sind. Außerdem hat der
 Unternehmer in diesen Fällen die Bemessungsgrundlagen für die Umsätze,
 die nach § 15 Abs. 2 und 3 den Vorsteuerabzug ausschließen, getrennt
 von den Bemessungsgrundlagen der übrigen Umsätze, ausgenommen die
@@ -6508,15 +6642,10 @@ werden, wenn
 (4b) Gegenstände, die der Unternehmer von einem im übrigen
 Gemeinschaftsgebiet ansässigen Unternehmer mit Umsatzsteuer-
 Identifikationsnummer zur Ausführung einer sonstigen Leistung im Sinne
-des § 3a Abs. 3 Nr. 3 Buchstabe c erhält, müssen aufgezeichnet werden.
+des § 3a Absatz 3 Nummer 3a Buchstabe b erhält, müssen aufgezeichnet
+werden.
 
-(4c) Der Lagerhalter, der ein Umsatzsteuerlager im Sinne des § 4 Nr.
-4a betreibt, hat Bestandsaufzeichnungen über die eingelagerten
-Gegenstände und Aufzeichnungen über Leistungen im Sinne des § 4 Nr. 4a
-Satz 1 Buchstabe b Satz 1 zu führen. Bei der Auslagerung eines
-Gegenstands aus dem Umsatzsteuerlager muss der Lagerhalter Name,
-Anschrift und die inländische Umsatzsteuer-Identifikationsnummer des
-Auslagerers oder dessen Fiskalvertreters aufzeichnen.
+(4c) (weggefallen)
 
 (4d) Im Fall der Abtretung eines Anspruchs auf die Gegenleistung für
 einen steuerpflichtigen Umsatz an einen anderen Unternehmer (§ 13c)
@@ -6973,11 +7102,9 @@ ausgeführt wurde, aufzubewahren.
     Absatz 4 Buchstabe b der Richtlinie (EU) 2020/284 des Rates vom 18.
     Februar 2020 zur Änderung der Richtlinie 2006/112/EG im Hinblick auf
     die Einführung bestimmter Anforderungen für Zahlungsdienstleister
-    (ABl. L 62 vom 2.3.2020, S. 7) in Verbindung mit § 1 Absatz 4 Satz 2
-    des Zahlungsdiensteaufsichtsgesetzes im Inland im Wege des
+    (ABl. L 62 vom 2.3.2020, S. 7) im Inland im Wege des
     grenzüberschreitenden Dienstleistungsverkehrs Zahlungsdienste
-    erbringen oder durch einen Agenten im Sinne des § 1 Absatz 9 des
-    Zahlungsdiensteaufsichtsgesetzes ausführen lassen, ohne im Inland
+    erbringen oder durch einen Agenten ausführen lassen, ohne im Inland
     ansässig zu sein;
 
 
@@ -7009,8 +7136,9 @@ ausgeführt wurde, aufzubewahren.
     und des Rates vom 14. März 2012 zur Festlegung der technischen
     Vorschriften und der Geschäftsanforderungen für Überweisungen und
     Lastschriften in Euro und zur Änderung der Verordnung (EG) Nr.
-    924/2009 (ABl. L 94 vom 30.3.2012, S. 22), geändert durch die
-    Verordnung (EU) Nr. 248/2014 (ABl. L 84 vom 20.3.2014, S. 1);
+    924/2009 (ABl. L 94 vom 30.3.2012, S. 22), die zuletzt durch die
+    Verordnung (EU) 2024/886 (ABl. L, 2024/886, 19.3.2024) geändert worden
+    ist;
 
 
 8.  „BIC“ eine internationale Bankleitzahl gemäß der Definition in Artikel
@@ -7069,7 +7197,7 @@ festgesetzt. Ein weiterer Vorsteuerabzug ist ausgeschlossen.
 
 (2) Der Unternehmer, dessen steuerpflichtiger Umsatz, mit Ausnahme der
 Einfuhr und des innergemeinschaftlichen Erwerbs, im vorangegangenen
-Kalenderjahr 45 000 Euro überstiegen hat, kann den Durchschnittsatz
+Kalenderjahr 50 000 Euro überstiegen hat, kann den Durchschnittsatz
 nicht in Anspruch nehmen.
 
 (3) Der Unternehmer, bei dem die Voraussetzungen für die Anwendung des
@@ -7087,7 +7215,7 @@ zulässig.
 
 ### § 24 Durchschnittssätze für land- und forstwirtschaftliche Betriebe
 
-(1) Hat der Gesamtumsatz des Unternehmers (§ 19 Absatz 3) im
+(1) Hat der Gesamtumsatz des Unternehmers (§ 19 Absatz 2) im
 vorangegangenen Kalenderjahr nicht mehr als 600 000 Euro betragen,
 wird die Steuer für die im Rahmen eines land- und
 forstwirtschaftlichen Betriebs ausgeführten Umsätze vorbehaltlich der
@@ -7104,16 +7232,17 @@ Sätze 2 bis 4 wie folgt festgesetzt:
     Anlage 2 nicht aufgeführte Getränke abgegeben werden, auf 19 Prozent,
 
 
-3.  für die übrigen Umsätze im Sinne des § 1 Absatz 1 Nummer 1 auf 9,0
+3.  für die übrigen Umsätze im Sinne des § 1 Absatz 1 Nummer 1 auf 7,8
     Prozent der Bemessungsgrundlage.
 
 
 
 Die Befreiungen nach § 4 mit Ausnahme der Nummern 1 bis 7 bleiben
 unberührt; § 9 findet keine Anwendung. Die Vorsteuerbeträge werden,
-soweit sie den in Satz 1 Nr. 1 bezeichneten Umsätzen zuzurechnen sind,
-auf 5,5 Prozent, in den übrigen Fällen des Satzes 1 auf 9,0 Prozent
-der Bemessungsgrundlage für diese Umsätze festgesetzt. Ein weiterer
+soweit sie den in Satz 1 Nummer 1 bezeichneten Umsätzen zuzurechnen
+sind, mit dem dort bestimmten Prozentsatz, in den übrigen Fällen des
+Satzes 1 mit dem in Satz 1 Nummer 3 bestimmten Prozentsatz der
+Bemessungsgrundlage für diese Umsätze festgesetzt. Ein weiterer
 Vorsteuerabzug entfällt. § 14 ist mit der Maßgabe anzuwenden, dass der
 für den Umsatz maßgebliche Durchschnittssatz in der Rechnung
 zusätzlich anzugeben ist.
@@ -7127,9 +7256,11 @@ zusätzlich anzugeben ist.
     Teichwirtschaft, die Imkerei, die Wanderschäferei sowie die Saatzucht;
 
 
-2.  Tierzucht- und Tierhaltungsbetriebe, soweit ihre Tierbestände nach den
-    §§ 51 und 51a des Bewertungsgesetzes zur landwirtschaftlichen Nutzung
-    gehören.
+2.  Tierzucht- und Tierhaltungsbetriebe, soweit ihre Tierbestände nach §
+    241 des Bewertungsgesetzes zur landwirtschaftlichen Nutzung gehören
+    oder diese die Voraussetzungen des § 13 Absatz 1 Nummer 1 Satz 2 des
+    Einkommensteuergesetzes in Verbindung mit § 13b des
+    Einkommensteuergesetzes erfüllen.
 
 
 
@@ -7156,17 +7287,11 @@ bereits abgelaufen, so kann sie rückwirkend verlängert werden, wenn es
 unbillig wäre, die durch den Fristablauf eingetretenen Rechtsfolgen
 bestehen zu lassen.
 
-(5) Das Bundesministerium der Finanzen überprüft jährlich die Höhe des
-Durchschnittssatzes im Sinne des Absatzes 1 Satz 1 Nummer 3 und Satz 3
-und berichtet dem Deutschen Bundestag über das Ergebnis der
-Überprüfung. Der Durchschnittssatz wird ermittelt aus dem Verhältnis
-der Summe der Vorsteuern zu der Summe der Umsätze aller Unternehmer,
-die ihre Umsätze nach Absatz 1 Satz 1 Nummer 2 und 3 versteuern, in
-einem Zeitraum von drei Jahren. Der ermittelte Durchschnittssatz wird
-auf eine Nachkommastelle kaufmännisch gerundet. Soweit nach der
-Überprüfung eine Anpassung des Durchschnittssatzes in Absatz 1 Satz 1
-Nummer 3 und Satz 3 erforderlich ist, legt die Bundesregierung
-kurzfristig einen entsprechenden Gesetzentwurf vor.
+(5) Ergibt sich in einem Folgejahr aus der Berechnung nach Anlage 5
+eine Abweichung zum Prozentsatz nach Absatz 1 Satz 1 Nummer 3, so
+ändert das Bundesministerium der Finanzen diesen durch
+Rechtsverordnung mit Zustimmung des Bundesrates jeweils mit Wirkung
+zum 1. Januar des Folgejahres entsprechend.
 
 
 ### § 25 Besteuerung von Reiseleistungen
@@ -7235,7 +7360,7 @@ Voraussetzungen erfüllt sind:
 2.  Die Gegenstände wurden an den Wiederverkäufer im Gemeinschaftsgebiet
     geliefert. Für diese Lieferung wurde
 
-    a)  Umsatzsteuer nicht geschuldet oder nach § 19 Abs. 1 nicht erhoben oder
+    a)  Umsatzsteuer nicht geschuldet oder
 
 
     b)  die Differenzbesteuerung vorgenommen.
@@ -7258,7 +7383,7 @@ auch auf folgende Gegenstände anwendet:
 
 1.  Kunstgegenstände (Nummer 53 der Anlage 2), Sammlungsstücke (Nummer 49
     Buchstabe f und Nummer 54 der Anlage 2) oder Antiquitäten (Position
-    9706 00 00 des Zolltarifs), die er selbst eingeführt hat, oder
+    9706 des Zolltarifs), die er selbst eingeführt hat, oder
 
 
 2.  Kunstgegenstände, wenn die Lieferung an ihn steuerpflichtig war und
@@ -7287,7 +7412,7 @@ Besteuerungszeitraums ausgeführten Umsätze nach dem Gesamtbetrag
 bemessen, um den die Summe der Verkaufspreise und der Werte nach § 10
 Abs. 4 Nr. 1 die Summe der Einkaufspreise dieses Zeitraums übersteigt
 (Gesamtdifferenz). Die Besteuerung nach der Gesamtdifferenz ist nur
-bei solchen Gegenständen zulässig, deren Einkaufspreis 500 Euro nicht
+bei solchen Gegenständen zulässig, deren Einkaufspreis 750 Euro nicht
 übersteigt. Im Übrigen gilt Absatz 3 entsprechend.
 
 (5) Die Steuer ist mit dem allgemeinen Steuersatz nach § 12 Abs. 1 zu
@@ -7328,7 +7453,12 @@ Aufzeichnungen zu führen.
 
 
     b)  auf die innergemeinschaftliche Lieferung eines neuen Fahrzeugs im
-        Sinne des § 1b Abs. 2 und 3.
+        Sinne des § 1b Abs. 2 und 3,
+
+
+    c)  in den Fällen des Absatzes 2, wenn auf den der Lieferung des
+        Wiederverkäufers vorangegangenen Umsatz ein ermäßigter Steuersatz
+        angewandt worden ist.
 
 
 
@@ -7664,9 +7794,9 @@ zur Beseitigung von Unbilligkeiten in Härtefällen oder zur
 Vereinfachung des Besteuerungsverfahrens den Umfang der in diesem
 Gesetz enthaltenen Steuerbefreiungen, Steuerermäßigungen und des
 Vorsteuerabzugs näher bestimmen sowie die zeitlichen Bindungen nach §
-19 Abs. 2 und § 24 Abs. 4 verkürzen. Bei der näheren Bestimmung des
-Umfangs der Steuerermäßigung nach § 12 Abs. 2 Nr. 1 kann von der
-zolltariflichen Abgrenzung abgewichen werden.
+19 Absatz 3 und 5 und § 24 Abs. 4 verkürzen. Bei der näheren
+Bestimmung des Umfangs der Steuerermäßigung nach § 12 Abs. 2 Nr. 1
+kann von der zolltariflichen Abgrenzung abgewichen werden.
 
 (2) Das Bundesministerium der Finanzen kann mit Zustimmung des
 Bundesrates durch Rechtsverordnung den Wortlaut derjenigen
@@ -7776,13 +7906,13 @@ entrichtet.
 
 (2) Ordnungswidrig handelt, wer vorsätzlich oder leichtfertig
 
-1.  entgegen § 14 Abs. 2 Satz 1 Nr. 1 oder 2 Satz 2 eine Rechnung nicht
-    oder nicht rechtzeitig ausstellt,
+1.  entgegen § 14 Absatz 2 Satz 2 eine Rechnung nicht oder nicht
+    rechtzeitig ausstellt,
 
 
 2.  entgegen § 14b Abs. 1 Satz 1, auch in Verbindung mit Satz 4, ein dort
     bezeichnetes Doppel oder eine dort bezeichnete Rechnung nicht oder
-    nicht mindestens zehn Jahre aufbewahrt,
+    nicht mindestens acht Jahre aufbewahrt,
 
 
 3.  entgegen § 14b Abs. 1 Satz 5 eine dort bezeichnete Rechnung, einen
@@ -8045,16 +8175,16 @@ nach Satz 3 unterliegen.
 dem Finanzamt gemäß Absatz 22 Satz 3 erklärt, dass sie § 2 Absatz 3 in
 der am 31. Dezember 2015 geltenden Fassung für sämtliche nach dem 31.
 Dezember 2016 und vor dem 1. Januar 2021 ausgeführte Leistungen
-weiterhin anwendet und die Erklärung für vor dem 1. Januar 2023
+weiterhin anwendet und die Erklärung für vor dem 1. Januar 2025
 endende Zeiträume nicht widerrufen, gilt die Erklärung auch für
 sämtliche Leistungen, die nach dem 31. Dezember 2020 und vor dem 1.
-Januar 2025 ausgeführt werden. Die Erklärung nach Satz 1 kann auch für
+Januar 2027 ausgeführt werden. Die Erklärung nach Satz 1 kann auch für
 Zeiträume nach dem 31. Dezember 2020 nur mit Wirkung vom Beginn eines
 auf die Abgabe folgenden Kalenderjahres an widerrufen werden. Es ist
 nicht zulässig, den Widerruf auf einzelne Tätigkeitsbereiche oder
 Leistungen zu beschränken.
 
-(23) § 3 Absatz 13 bis 15 sowie § 10 Absatz 1 Satz 6 in der Fassung
+(23) § 3 Absatz 13 bis 15 sowie § 10 Absatz 1 Satz 5 in der Fassung
 des Artikels 9 des Gesetzes vom 11. Dezember 2018 (BGBl. I S. 2338)
 sind erstmals auf Gutscheine anzuwenden, die nach dem 31. Dezember
 2018 ausgestellt werden.
@@ -8143,6 +8273,76 @@ enden.
 16\. Dezember 2022 (BGBl. I S. 2294) ist erstmals auf die Übermittlung
 von Daten nach dem 31. Dezember 2022 anzuwenden.
 
+(38) Abweichend von § 14 Absatz 1 und 2 kann eine Rechnung
+
+1.  bis zum 31. Dezember 2026 für einen nach dem 31. Dezember 2024 und vor
+    dem 1. Januar 2027 ausgeführten Umsatz auf Papier oder vorbehaltlich
+    der Zustimmung des Empfängers in einem elektronischen Format, das
+    nicht § 14 Absatz 1 Satz 6 entspricht, übermittelt werden;
+
+
+2.  bis zum 31. Dezember 2027 für einen nach dem 31. Dezember 2026 und vor
+    dem 1. Januar 2028 ausgeführten Umsatz auf Papier oder vorbehaltlich
+    der Zustimmung des Empfängers in einem elektronischen Format, das
+    nicht § 14 Absatz 1 Satz 6 entspricht, übermittelt werden, wenn der
+    Gesamtumsatz (§ 19 Absatz 2) des die Rechnung ausstellenden
+    Unternehmers im vorangegangenen Kalenderjahr nicht mehr als 800 000
+    Euro betragen hat;
+
+
+3.  bis zum 31. Dezember 2027 für einen nach dem 31. Dezember 2026 und vor
+    dem 1. Januar 2028 ausgeführten Umsatz vorbehaltlich der Zustimmung
+    des Empfängers in einem elektronischen Format, das nicht § 14 Absatz 1
+    Satz 6 entspricht, ausgestellt werden, wenn diese mittels
+    elektronischem Datenaustausch (EDI) nach Artikel 2 der Empfehlung
+    94/820/EG der Kommission vom 19. Oktober 1994 über die rechtlichen
+    Aspekte des elektronischen Datenaustausches (ABl. L 338 vom
+    28\.12.1994, S. 98) übermittelt wird.
+
+
+
+Die Absätze 15 und 18 bleiben unberührt.
+
+(39) § 18 Absatz 3 Satz 1 und § 19 Absatz 1 Satz 4 sowie Absatz 2 in
+der Fassung des Artikels 23 des Gesetzes vom 27. März 2024 (BGBl. 2024
+I Nr. 108) sind erstmals auf Besteuerungszeiträume anzuwenden, die
+nach dem 31. Dezember 2023 enden.
+
+(40) § 14b Absatz 1 Satz 1 in der ab dem 1. Januar 2025 geltenden
+Fassung ist auf alle Rechnungen anzuwenden, deren Aufbewahrungsfrist
+am 31. Dezember 2024 noch nicht abgelaufen ist. Bei Unternehmen, die
+
+1.  Institute im Sinne des § 1 Absatz 1b des Kreditwesengesetzes sind,
+    einschließlich Zweigstellen nach § 53 des Kreditwesengesetzes,
+
+
+2.  der Aufsicht nach § 1 Absatz 1 des Versicherungsaufsichtsgesetzes
+    unterliegen oder
+
+
+3.  Wertpapierinstitute im Sinne des § 2 Absatz 1 des
+    Wertpapierinstitutsgesetzes sind,
+
+
+
+ist § 14b Absatz 1 Satz 1 in der ab dem 1. Januar 2025 geltenden
+Fassung abweichend von Satz 1 erstmals auf Unterlagen anzuwenden,
+deren Aufbewahrungsfrist nach § 14b Absatz 1 Satz 1 in der bis
+einschließlich 31. Dezember 2024 geltenden Fassung am 1. Januar 2026
+noch nicht abgelaufen ist.
+
+(40a) Für vor dem 1. Januar 2026 nach § 4 Nummer 4a Satz 1 von der
+Steuer befreite Umsätze sind § 4 Nummer 4a Satz 1 Buchstabe a und b,
+Nummer 19 Buchstabe a Satz 4, § 10 Absatz 1 Satz 4, § 13 Absatz 1
+Nummer 9, § 13a Absatz 1 Nummer 6, § 15 Absatz 1 Satz 1 Nummer 5, §
+18e Nummer 2, § 22 Absatz 2 Nummer 9 und Absatz 4c in der am 31.
+Dezember 2025 geltenden Fassung bis zur Auslagerung und für diese
+Auslagerung der jeweiligen Gegenstände weiterhin anzuwenden. Mit
+Ablauf des 30. Dezember 2029 gelten alle bis zu diesem Zeitpunkt nicht
+ausgelagerten Gegenstände als ausgelagert im Sinne des § 4 Nummer 4a
+Satz 1 Buchstabe a Satz 3 in der bis zum 31. Dezember 2025 geltenden
+Fassung.
+
 
 ### § 27a Umsatzsteuer-Identifikationsnummer
 
@@ -8172,11 +8372,12 @@ Steuern die für die Erteilung der Umsatzsteuer-Identifikationsnummer
 nach Absatz 1 erforderlichen Angaben über die bei ihnen
 umsatzsteuerlich geführten natürlichen und juristischen Personen und
 Personenvereinigungen. Diese Angaben dürfen nur für die Erteilung
-einer Umsatzsteuer-Identifikationsnummer, für Zwecke der Verordnung
-(EU) Nr. 904/2010 des Rates vom 7. Oktober 2010 über die
-Zusammenarbeit der Verwaltungsbehörden und die Betrugsbekämpfung auf
-dem Gebiet der Mehrwertsteuer (ABl. L 268 vom 12.10.2010, S. 1), für
-die Umsatzsteuerkontrolle, für Zwecke der Amtshilfe zwischen den
+einer Umsatzsteuer-Identifikationsnummer, die Erteilung einer
+Kleinunternehmer-Identifikationsnummer, für Zwecke der Verordnung (EU)
+Nr. 904/2010 des Rates vom 7. Oktober 2010 über die Zusammenarbeit der
+Verwaltungsbehörden und die Betrugsbekämpfung auf dem Gebiet der
+Mehrwertsteuer (ABl. L 268 vom 12.10.2010, S. 1), für die
+Umsatzsteuerkontrolle, für Zwecke der Amtshilfe zwischen den
 zuständigen Behörden anderer Staaten in Umsatzsteuersachen sowie für
 Übermittlungen an das Statistische Bundesamt nach § 2a des
 Statistikregistergesetzes und an das Bundeskartellamt zur Überprüfung
@@ -8195,8 +8396,9 @@ Unternehmensbasisdatenregistergesetzes gespeichert und verarbeitet
 werden. Außerdem übermitteln die Landesfinanzbehörden dem
 Bundeszentralamt für Steuern die nach Absatz 1a erforderlichen Daten.
 Das Bundeszentralamt für Steuern übermittelt den Landesfinanzbehörden
-die erteilten Umsatzsteuer-Identifikationsnummern und die Daten, die
-sie für die Umsatzsteuerkontrolle benötigen.
+die erteilten Umsatzsteuer-Identifikationsnummern, die erteilten
+Kleinunternehmer-Identifikationsnummern und die Daten, die sie für die
+Umsatzsteuerkontrolle benötigen.
 
 
 ### § 27b Umsatzsteuer-Nachschau
@@ -8222,7 +8424,8 @@ Umsatzsteuer-Nachschau betrauten Amtsträger auf Verlangen die
 gespeicherten Daten über die der Umsatzsteuer-Nachschau unterliegenden
 Sachverhalte einsehen und soweit erforderlich hierfür das
 Datenverarbeitungssystem nutzen. Dies gilt auch für elektronische
-Rechnungen nach § 14 Absatz 1 Satz 8.
+Rechnungen nach § 14 Absatz 1 Satz 3 und sonstige Rechnungen in einem
+anderen elektronischen Format.
 
 (3) Wenn die bei der Umsatzsteuer-Nachschau getroffenen Feststellungen
 hierzu Anlass geben, kann ohne vorherige Prüfungsanordnung (§ 196 der
@@ -8309,224 +8512,26 @@ entsprechend anzuwenden.
 
 (2) Absatz 1 gilt sinngemäß bei einer Änderung dieses Gesetzes.
 
-(zu § 4 Nr. 4a)
 
-### Anlage 1 Liste der Gegenstände, die der Umsatzsteuerlagerregelung unterliegen können
+### § 30 Austritt des Vereinigten Königreichs Großbritannien und Nordirland aus der Europäischen Union
 
-(Fundstelle: BGBl. I 2006, 2896 - 2897)
+(1) Für nach dem 31. Dezember 2020 ausgeführte Lieferungen und
+innergemeinschaftliche Erwerbe wird das Gebiet Nordirlands wie übriges
+Gemeinschaftsgebiet behandelt.
 
+(2) Eine Umsatzsteuer-Identifikationsnummer mit dem Präfix „XI“ gilt
+als eine von einem anderen Mitgliedstaat erteilte Umsatzsteuer-
+Identifikationsnummer.
 
-*    *   Lfd. Nr.
+(3) Eine durch das Vereinigte Königreich Großbritannien und Nordirland
+erteilte individuelle Identifikationsnummer gilt im Sinne dieses
+Gesetzes als von einem Mitgliedstaat der Europäischen Union erteilte
+individuelle Identifikationsnummer.
 
-    *   Warenbezeichnung
 
-    *   Zolltarif (Kapitel, Position, Unterposition)
+### Anlage 1 (weggefallen)
 
-
-*    *   1
-
-    *   Kartoffeln, frisch oder gekühlt
-
-    *   Position 0701
-
-
-*    *   2
-
-    *   Oliven, vorläufig haltbar gemacht (z. B. durch Schwefeldioxid oder in
-        Wasser, dem Salz, Schwefeldioxid oder andere vorläufig konservierend
-        wirkende Stoffe zugesetzt sind), zum unmittelbaren Genuss nicht
-        geeignet
-
-    *   Unterposition 0711 20
-
-
-*    *   3
-
-    *   Schalenfrüchte, frisch oder getrocknet, auch ohne Schalen oder
-        enthäutet
-
-    *   Positionen 0801 und 0802
-
-
-*    *   4
-
-    *   Kaffee, nicht geröstet, nicht entkoffeiniert, entkoffeiniert
-
-    *   Unterpositionen 0901 11 00 und 0901 12 00
-
-
-*    *   5
-
-    *   Tee, auch aromatisiert
-
-    *   Position 0902
-
-
-*    *   6
-
-    *   Getreide
-
-    *   Positionen 1001 bis 1005, 1007 00 und 1008
-
-
-*    *   7
-
-    *   Rohreis (Paddy-Reis)
-
-    *   Unterposition 1006 10
-
-
-*    *   8
-
-    *   Ölsamen und ölhaltige Früchte
-
-    *   Positionen 1201 00 bis 1207
-
-
-*    *   9
-
-    *   Pflanzliche Fette und Öle und deren Fraktionen, roh, auch raffiniert,
-        jedoch nicht chemisch modifiziert
-
-    *   Positionen 1507 bis 1515
-
-
-*    *   10
-
-    *   Rohzucker
-
-    *   Unterpositionen 1701 11 und 1701 12
-
-
-*    *   11
-
-    *   Kakaobohnen und Kakaobohnenbruch, roh oder geröstet
-
-    *   Position 1801 00 00
-
-
-*    *   12
-
-    *   Mineralöle (einschließlich Propan und Butan sowie Rohöle aus Erdöl)
-
-    *   Positionen 2709 00, 2710, Unterpositionen 2711 12 und 2711 13
-
-
-*    *   13
-
-    *   Erzeugnisse der chemischen Industrie
-
-    *   Kapitel 28 und 29
-
-
-*    *   14
-
-    *   Kautschuk, in Primärformen oder in Platten, Blättern oder Streifen
-
-    *   Positionen 4001 und 4002
-
-
-*    *   15
-
-    *   Chemische Halbstoffe aus Holz, ausgenommen solche zum Auflösen;
-        Halbstoffe aus Holz, durch Kombination aus mechanischem und chemischem
-        Aufbereitungsverfahren hergestellt
-
-    *   Positionen 4703 bis 4705 00 00
-
-
-*    *   16
-
-    *   Wolle, weder gekrempelt noch gekämmt
-
-    *   Position 5101
-
-
-*    *   17
-
-    *   Silber, in Rohform oder Pulver
-
-    *   aus Position 7106
-
-
-*    *   18
-
-    *   Gold, in Rohform oder als Pulver, zu nicht monetären Zwecken
-
-    *   Unterpositionen 7108 11 00 und 7108 12 00
-
-
-*    *   19
-
-    *   Platin, in Rohform oder als Pulver
-
-    *   aus Position 7110
-
-
-*    *   20
-
-    *   Eisen- und Stahlerzeugnisse
-
-    *   Positionen 7207 bis 7212, 7216, 7219, 7220, 7225 und 7226
-
-
-*    *   21
-
-    *   Nicht raffiniertes Kupfer und Kupferanoden zum elektrolytischen
-        Raffinieren; raffiniertes Kupfer und Kupferlegierungen, in Rohform;
-        Kupfervorlegierungen; Draht aus Kupfer
-
-    *   Positionen 7402 00 00, 7403, 7405 00 00 und 7408
-
-
-*    *   22
-
-    *   Nickel in Rohform
-
-    *   Position 7502
-
-
-*    *   23
-
-    *   Aluminium in Rohform
-
-    *   Position 7601
-
-
-*    *   24
-
-    *   Blei in Rohform
-
-    *   Position 7801
-
-
-*    *   25
-
-    *   Zink in Rohform
-
-    *   Position 7901
-
-
-*    *   26
-
-    *   Zinn in Rohform
-
-    *   Position 8001
-
-
-*    *   27
-
-    *   Andere unedle Metalle, ausgenommen Waren daraus und Abfälle und
-        Schrott
-
-    *   aus Positionen 8101 bis 8112
-
-
-
-Die Gegenstände dürfen nicht für die Lieferung auf der
-Einzelhandelsstufe aufgemacht sein.
-
-(zu § 12 Absatz 2 Nummer 1, 2, 12, 13 und 14)
+(zu § 12 Absatz 2 Nummer 1, 2 und 14)
 
 ### Anlage 2 Liste der dem ermäßigten Steuersatz unterliegenden Gegenstände
 
@@ -9246,23 +9251,28 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   Holz, und zwar
 
-        a)  Brennholz in Form von Rundlingen, Scheiten, Zweigen, Reisigbündeln
-            oder ähnlichen Formen,
+        a)  Brennholz in Form von Plättchen oder Schnitzeln, Rundlingen, Scheiten,
+            Zweigen, Reisigbündeln oder ähnlichen Formen,
 
 
 
 
-    *   Unterposition 4401 10 00
+    *   aus Position 4401
 
 
 *    *
         b)  Sägespäne, Holzabfälle und Holzausschuss, auch zu Pellets, Briketts,
-            Scheiten oder ähnlichen Formen zusammengepreßt,
+            Scheiten oder ähnlichen Formen zusammengepresst
 
 
 
 
-    *   Unterposition 4401 30
+    *   Unterpositionen
+        4401 3100,
+        4401 3200,
+        4401 3900,
+        4401 4100 und
+        4401 4900
 
 
 *    *   49
@@ -9285,7 +9295,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
     *   aus Positionen 4901,
-        9705 00 00                        und 9706 00 00
+        9705 und
+        9706
 
 
 *    *
@@ -9425,7 +9436,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-    *   Position 9702 00 00
+    *   Position 9702
 
 
 *    *
@@ -9434,7 +9445,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-    *   Position 9703 00 00
+    *   Position 9703
 
 
 *    *   54
@@ -9447,7 +9458,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-    *   aus Position 9705 00 00
+    *   aus Position 9705
 
 
 *    *
@@ -9457,7 +9468,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-    *   aus Position 9705 00 00
+    *   aus Position 9705
 
 
 *    *
@@ -9475,7 +9486,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-    *   aus Position 9705 00 00
+    *   aus Position 9705
 
 
 *    *
@@ -9484,7 +9495,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-    *   aus Position 9705 00 00
+    *   aus Position 9705
 
 
 *    *
@@ -9496,7 +9507,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-    *   aus Positionen 7118, 9705 00 00 und 9706 00 00
+    *   aus Positionen 9705 und 9706
 
 
 *    *   55
@@ -9620,7 +9631,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Abfälle und Schrott von Edelmetallen oder Edelmetallplattierungen;
         andere Abfälle und Schrott, Edelmetalle oder Edelmetallverbindungen
         enthaltend, von der hauptsächlich zur Wiedergewinnung von Edelmetallen
-        verwendeten Art
+        verwendeten Art; ausgenommen Waren der Position 8549
 
     *   Position 7112
 
@@ -9688,7 +9699,18 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         und Akkumulatoren; ausgebrauchte elektrische Primärelemente,
         Primärbatterien und Akkumulatoren
 
-    *   Unterposition 8548 10
+    *   Unterposition 8549 11, Unterposition 8549 12, Unterposition 8549 13,
+        Unterposition 8549 14 und Unterposition 8549 19
+
+
+*    *   17
+
+    *   Abfälle oder Schrott von elektrischen und elektronischen Geräten von
+        der hauptsächlich zur Wiedergewinnung von Edelmetallen verwendeten Art
+
+    *   Unterpositionen
+        8549 21 und
+        8549 29
 
 
 
@@ -9792,6 +9814,107 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Cermets in Rohform
 
     *   Unterposition 8113 00 20
+
+
+
+
+(zu § 24 Absatz 5)
+
+### Anlage 5 Berechnung des Durchschnittssatzes für Land- und Forstwirte im Sinne des § 24 Absatz 1 Satz 1 Nummer 3
+
+(Fundstelle: BGBl. 2024 I Nr. 387, S. 46)
+
+Für die Berechnung gilt Folgendes:
+
+Der maßgebliche Zeitraum beträgt drei Jahre. Er beginnt mit dem 1.
+Januar des vierten Jahres und endet mit Ablauf des 31. Dezember des
+zweiten Jahres jeweils vor dem Jahr, in dem die Neuberechnung erfolgt.
+Die Neuberechnung erfolgt auf Grundlage der Daten aus der
+landwirtschaftlichen Gesamtrechnung für Deutschland und der
+Umsatzsteuerstatistik. Der neu berechnete Durchschnittssatz wird auf
+eine Nachkommastelle kaufmännisch gerundet.
+
+Der Durchschnittssatz ergibt sich aus folgendem Berechnungsschema:
+
+*    *
+    *   Vorsteuer im maßgeblichen Zeitraum aller Unternehmer, die ihre Umsätze
+        nach Absatz 1 Nummer 3 versteuern
+
+
+*    *   x
+
+    *   100
+
+
+*    *   :
+
+    *   Umsätze im maßgeblichen Zeitraum aller Unternehmer, die ihre Umsätze
+        nach Absatz 1 Nummer 3 versteuern
+
+
+*    *   =
+
+    *   Durchschnittssatz in Prozent
+
+
+
+
+Die Vorsteuer im maßgeblichen Zeitraum aller Unternehmer, die ihre
+Umsätze nach Absatz 1 Nummer 3 versteuern, ergibt sich aus folgendem
+Berechnungsschema:
+
+*    *
+    *   Vorsteuer aller Unternehmer, die ihre Umsätze nach Absatz 1 Nummer 3
+        versteuern, und der regelbesteuerten Landwirte jeweils im maßgeblichen
+        Zeitraum
+
+
+*    *   ./.
+
+    *   Vorsteuer der regelbesteuerten Landwirte im maßgeblichen Zeitraum
+
+
+*    *   =
+
+    *   Vorsteuer im maßgeblichen Zeitraum aller Unternehmer, die ihre Umsätze
+        nach Absatz 1 Nummer 3 versteuern
+
+
+
+
+Die Umsätze im maßgeblichen Zeitraum aller Unternehmer, die ihre
+Umsätze nach Absatz 1 Nummer 3 versteuern, ergeben sich aus folgendem
+Berechnungsschema:
+
+*    *
+    *   Produktionswert der Landwirtschaft
+
+
+*    *   ./.
+
+    *   innerbetrieblich verbrauchte und erzeugte Futtermittel
+
+
+*    *   +
+
+    *   Verkäufe von lebenden Tieren an andere landwirtschaftliche Betriebe
+
+
+*    *   +
+
+    *   Verkäufe von gebrauchten Anlagegütern an andere landwirtschaftliche
+        Betriebe
+
+
+*    *   ./.
+
+    *   Umsätze der regelbesteuerten Landwirte
+
+
+*    *   =
+
+    *   Umsätze im maßgeblichen Zeitraum aller Unternehmer, die ihre Umsätze
+        nach Absatz 1 Nummer 3 versteuern
 
 
 

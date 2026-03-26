@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1956, 815
 
 Zuletzt geändert durch
-:   Art. 27 G v. 23.6.2021 I 1858
+:   Art. 19 G v. 15.7.2024 I Nr. 236
 
 
 ## Grundvorschrift
@@ -1889,8 +1889,8 @@ Anspruch genommen oder in dieser Weise behandelt worden sind, finden
 
 ### § 95
 
-Die nach § 1 des Postsicherstellungsgesetzes oder Teil 10 Abschnitt 2
-des Telekommunikationsgesetzes verpflichteten Unternehmen sowie
+Die nach Kapitel 12 des Postgesetzes oder Teil 10 Abschnitt 2 des
+Telekommunikationsgesetzes verpflichteten Unternehmen sowie
 öffentliche Eisenbahnen können nicht zu Leistungen nach diesem Gesetz
 herangezogen werden.
 

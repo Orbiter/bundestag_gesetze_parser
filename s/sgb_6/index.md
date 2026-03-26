@@ -20,9 +20,10 @@ Neugefasst durch
 :   Bek. v. 19.2.2002 I 754, 1404, 3384;
 
 Zuletzt geändert durch
-:   Art. 6 G v. 27.3.2024 I Nr. 107
+:   Art. 62 Abs. 4 G v. 4.2.2026 I Nr. 33
 
-Stand: Ergänzung aufgrund der Sozialversicherungsrechengrößen-Verordnung 2024 v. 29.11.2023 I Nr. 322 ist berücksichtigt
+Stand: Bek. v. 2.3.2026 I Nr. 56 ist berücksichtigt
+Stand: Ergänzung aufgrund der Sozialversicherungsrechengrößen-Verordnung 2026 v. 24.11.2025 I Nr. 278 ist berücksichtigt
 
 ## Erstes Kapitel - Versicherter Personenkreis
 
@@ -217,13 +218,13 @@ Versicherungspflichtig sind Personen in der Zeit,
 
 
 3.  für die sie von einem Leistungsträger Krankengeld, Verletztengeld,
-    Krankengeld der Sozialen Entschädigung, Übergangsgeld,
-    Arbeitslosengeld oder von der sozialen oder einer privaten
-    Pflegeversicherung Pflegeunterstützungsgeld beziehen, wenn sie im
-    letzten Jahr vor Beginn der Leistung zuletzt versicherungspflichtig
-    waren; der Zeitraum von einem Jahr verlängert sich um
-    Anrechnungszeiten wegen des Bezugs von Bürgergeld nach § 19 Absatz 1
-    Satz 1 des Zweiten Buches,
+    Krankengeld der Sozialen Entschädigung, Krankengeld der
+    Soldatenentschädigung, Übergangsgeld, Arbeitslosengeld oder von der
+    sozialen oder einer privaten Pflegeversicherung
+    Pflegeunterstützungsgeld beziehen, wenn sie im letzten Jahr vor Beginn
+    der Leistung zuletzt versicherungspflichtig waren; der Zeitraum von
+    einem Jahr verlängert sich um Anrechnungszeiten wegen des Bezugs von
+    Bürgergeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches,
 
 
 3a. für die sie von einem privaten Krankenversicherungsunternehmen, von
@@ -324,7 +325,12 @@ aufgrund dieser Tätigkeit beantragen.
     Teilhabe am Arbeitsleben, wenn sie im letzten Jahr vor Beginn der
     Arbeitsunfähigkeit oder der Ausführung von Leistungen zur
     medizinischen Rehabilitation oder zur Teilhabe am Arbeitsleben zuletzt
-    versicherungspflichtig waren, längstens jedoch für 18 Monate.
+    versicherungspflichtig waren, längstens jedoch für 18 Monate,
+
+
+3.  Erwerbsschadensausgleich nach dem Soldatenentschädigungsgesetz
+    beziehen, wenn die zuständige Behörde den Antrag nach § 41 des
+    Soldatenentschädigungsgesetzes stellt.
 
 
 
@@ -351,10 +357,10 @@ werden kann.
 
 (4) Die Versicherungspflicht beginnt
 
-1.  in den Fällen der Absätze 1 und 2 mit dem Tag, an dem erstmals die
-    Voraussetzungen nach den Absätzen 1 und 2 vorliegen, wenn sie
-    innerhalb von drei Monaten danach beantragt wird, sonst mit dem Tag,
-    der dem Eingang des Antrags folgt,
+1.  in den Fällen der Absätze 1 und 2 sowie des Absatzes 3 Satz 1 Nummer 3
+    mit dem Tag, an dem die dort genannten Voraussetzungen erstmals
+    vorliegen, wenn sie innerhalb von drei Monaten danach beantragt wird,
+    sonst mit dem Tag, der dem Eingang des Antrags folgt,
 
 
 2.  in den Fällen des Absatzes 3 Satz 1 Nr. 1 mit Beginn der Leistung und
@@ -477,12 +483,12 @@ Prüfungsordnung vorgeschrieben ist.
 
 
 Satz 1 gilt nicht für Beschäftigte in einer Beschäftigung, in der sie
-durch schriftliche Erklärung gegenüber dem Arbeitgeber auf die
-Versicherungsfreiheit verzichten. Der Verzicht kann nur mit Wirkung
-für die Zukunft erklärt werden und ist für die Dauer der Beschäftigung
-bindend. Die Sätze 2 und 3 gelten entsprechend für selbständig Tätige,
-die den Verzicht gegenüber dem zuständigen Träger der
-Rentenversicherung erklären.
+durch schriftliche oder elektronische Erklärung gegenüber dem
+Arbeitgeber auf die Versicherungsfreiheit verzichten. Der Verzicht
+kann nur mit Wirkung für die Zukunft erklärt werden und ist für die
+Dauer der Beschäftigung bindend. Die Sätze 2 und 3 gelten entsprechend
+für selbständig Tätige, die den Verzicht gegenüber dem zuständigen
+Träger der Rentenversicherung erklären.
 
 
 #### § 6 Befreiung von der Versicherungspflicht
@@ -497,22 +503,24 @@ Rentenversicherung erklären.
     Versorgungseinrichtung) und zugleich kraft gesetzlicher Verpflichtung
     Mitglied einer berufsständischen Kammer sind, wenn
 
-
-a)  am jeweiligen Ort der Beschäftigung oder selbständigen Tätigkeit für
-    ihre Berufsgruppe bereits vor dem 1. Januar 1995 eine gesetzliche
-    Verpflichtung zur Mitgliedschaft in der berufsständischen Kammer
-    bestanden hat,
-
-
-b)  für sie nach näherer Maßgabe der Satzung einkommensbezogene Beiträge
-    unter Berücksichtigung der Beitragsbemessungsgrenze zur
-    berufsständischen Versorgungseinrichtung zu zahlen sind und
+    a)  am jeweiligen Ort der Beschäftigung oder selbständigen Tätigkeit für
+        ihre Berufsgruppe bereits vor dem 1. Januar 1995 eine gesetzliche
+        Verpflichtung zur Mitgliedschaft in der berufsständischen Kammer
+        bestanden hat,
 
 
-c)  aufgrund dieser Beiträge Leistungen für den Fall verminderter
-    Erwerbsfähigkeit und des Alters sowie für Hinterbliebene erbracht und
-    angepasst werden, wobei auch die finanzielle Lage der
-    berufsständischen Versorgungseinrichtung zu berücksichtigen ist,
+    b)  für sie nach näherer Maßgabe der Satzung einkommensbezogene Beiträge
+        unter Berücksichtigung der Beitragsbemessungsgrenze zur
+        berufsständischen Versorgungseinrichtung zu zahlen sind und
+
+
+    c)  aufgrund dieser Beiträge Leistungen für den Fall verminderter
+        Erwerbsfähigkeit und des Alters sowie für Hinterbliebene erbracht und
+        angepasst werden, wobei auch die finanzielle Lage der
+        berufsständischen Versorgungseinrichtung zu berücksichtigen ist,
+
+
+
 
 
 2.  Lehrer oder Erzieher, die an nicht-öffentlichen Schulen beschäftigt
@@ -604,9 +612,9 @@ berufsständischen Versorgungseinrichtung, über das Bestehen einer
 Pflichtmitgliedschaft in der berufsständischen Kammer und über die
 Pflicht zur Zahlung einkommensbezogener Beiträge zur Entscheidung
 unverzüglich weiter. Der Träger der Rentenversicherung teilt seine
-Entscheidung dem Antragsteller in Textform und der den Antrag
-weiterleitenden berufsständischen Versorgungseinrichtung elektronisch
-mit. Der Eingang des Antrags bei der berufsständischen
+Entscheidung dem Antragsteller und dem Arbeitgeber in Textform und der
+den Antrag weiterleitenden berufsständischen Versorgungseinrichtung
+elektronisch mit. Der Eingang des Antrags bei der berufsständischen
 Versorgungseinrichtung ist für die Wahrung der in Absatz 4 bestimmten
 Frist maßgeblich. Der Datenaustausch erfolgt über die Annahmestelle
 der berufsständischen Versorgungseinrichtungen und die Datenstelle der
@@ -906,7 +914,8 @@ gelten für die Vorschriften dieses Abschnitts als Versicherte.
 (1) Leistungen zur Teilhabe werden nicht für Versicherte erbracht, die
 
 1.  wegen eines Arbeitsunfalls, einer Berufskrankheit, einer Schädigung im
-    Sinne des Sozialen Entschädigungsrechts oder wegen eines
+    Sinne des Sozialen Entschädigungsrechts, einer Wehrdienstbeschädigung
+    nach § 3 des Soldatenentschädigungsgesetzes oder wegen eines
     Einsatzunfalls, der Ansprüche nach dem Einsatz-Weiterverwendungsgesetz
     begründet, gleichartige Leistungen eines anderen
     Rehabilitationsträgers oder Leistungen zur Eingliederung nach dem
@@ -951,7 +960,7 @@ Gründen dringend erforderlich sind.
 
 
 
-##### Erster Titel - Allgemeines
+##### Erster Titel - Allgemeines und Fallmanagement
 
 
 
@@ -997,6 +1006,73 @@ verlangen.
 Spitzenverbänden der Krankenkassen gemeinsam und einheitlich im
 Benehmen mit dem Bundesministerium für Arbeit und Soziales Näheres zur
 Durchführung von Absatz 2 Nr. 1 und 2.
+
+
+###### § 13a Fallmanagement
+
+(1) Die Träger der Rentenversicherung können Versicherte mit
+gesundheitlichen Beeinträchtigungen und besonderem
+Unterstützungsbedarf in Bezug auf die berufliche Teilhabe, die die
+versicherungsrechtlichen Voraussetzungen nach § 11 Absatz 1 oder 2
+erfüllen, mit einem Fallmanagement aktivierend und koordinierend bei
+ihrer beruflichen Wiedereingliederung begleiten und unterstützen.
+
+(2) Zur frühzeitigen Erkennung eines Rehabilitationsbedarfs nach § 13
+des Neunten Buches können die Träger der Rentenversicherung bereits
+vor der Entscheidung über die Durchführung eines Fallmanagements
+Kontakt mit Versicherten aufnehmen. Das Fallmanagement ist nur mit
+Einwilligung der Versicherten zulässig. Die Einwilligung ist zu
+dokumentieren. Für die Durchführung des Fallmanagements erforderliche
+Datenverarbeitungen dürfen nur mit dem Einverständnis des Versicherten
+erfolgen.
+
+(3) Das Fallmanagement kann Folgendes umfassen:
+
+1.  die Erkennung, Ermittlung und Feststellung des individuellen
+    Rehabilitationsbedarfs nach § 13 des Neunten Buches einschließlich der
+    Dokumentation des Bedarfs,
+
+
+2.  die Entwicklung und Koordinierung eines individuellen
+    Rehabilitationsprozesses gemeinsam mit den Versicherten und unter
+    Einbindung weiterer Beteiligter sowie die Erstellung eines
+    individuellen Teilhabeplans nach § 19 des Neunten Buches soweit die
+    gesetzlichen Voraussetzungen vorliegen,
+
+
+3.  die rechtskreisübergreifende Unterstützung der Versicherten bei der
+    Beantragung von in Betracht kommenden Sozialleistungen und bei der
+    Inanspruchnahme weiterer unterstützender Angebote,
+
+
+4.  die Begleitung der Versicherten mit dem Ziel des Erhalts zügiger und
+    aufeinander abgestimmter Leistungen, soweit die Versicherten Ansprüche
+    gegen Träger von Sozialleistungen haben oder haben könnten, die die
+    berufliche Wiedereingliederung fördern und unterstützen können,
+
+
+5.  die begleitende Bewertung und mögliche Anpassung des individuellen
+    Rehabilitationsprozesses gemeinsam mit den Versicherten.
+
+
+
+
+(4) Das Fallmanagement kann vollständig oder in Teilen durch die
+Träger der Rentenversicherung oder durch beauftragte Dritte
+durchgeführt werden.
+
+(5) Sind bei der Durchführung des Fallmanagements spezifische
+Anforderungen erforderlich, so können die Träger der
+Rentenversicherung Dritte damit beauftragen, das Fallmanagement als
+Leistung durchzuführen. Die spezifischen Anforderungen dieser Leistung
+bestimmt die Deutsche Rentenversicherung Bund in einem gemeinsamen
+Rahmenkonzept der Träger der Rentenversicherung.
+
+(6) Führt ein Träger der Rentenversicherung ein Fallmanagement durch,
+werden die Bedarfsermittlung und, sofern die Voraussetzungen für ein
+Teilhabeplanverfahren nach Teil 1 Kapitel 2 bis 4 des Neunten Buches
+vorliegen, das Teilhabeplanverfahren als Bestandteil des
+Fallmanagements erbracht.
 
 
 ###### § 14 Leistungen zur Prävention
@@ -1389,10 +1465,11 @@ Benehmen mit dem Bundesministerium für Arbeit und Soziales anzupassen.
 
 
     b)  Krankengeld, Verletztengeld, Krankengeld der Sozialen Entschädigung,
-        Übergangsgeld, Kurzarbeitergeld, Qualifizierungsgeld, Arbeitslosengeld
-        oder Mutterschaftsgeld bezogen haben und für die von dem der
-        Sozialleistung zugrunde liegenden Arbeitsentgelt oder Arbeitseinkommen
-        Beiträge zur Rentenversicherung gezahlt worden sind.
+        Krankengeld der Soldatenentschädigung Übergangsgeld, Kurzarbeitergeld,
+        Qualifizierungsgeld, Arbeitslosengeld oder Mutterschaftsgeld bezogen
+        haben und für die von dem der Sozialleistung zugrunde liegenden
+        Arbeitsentgelt oder Arbeitseinkommen Beiträge zur Rentenversicherung
+        gezahlt worden sind.
 
 
 
@@ -1748,23 +1825,53 @@ beschäftigte Bergleute, wenn sie
 haben.
 
 
-###### § 41 Altersrente und Kündigungsschutz
+###### § 41 Altersrente und Ende des Arbeitsverhältnisses
 
-Der Anspruch des Versicherten auf eine Rente wegen Alters ist nicht
-als ein Grund anzusehen, der die Kündigung eines Arbeitsverhältnisses
-durch den Arbeitgeber nach dem Kündigungsschutzgesetz bedingen kann.
-Eine Vereinbarung, die die Beendigung des Arbeitsverhältnisses eines
-Arbeitnehmers ohne Kündigung zu einem Zeitpunkt vorsieht, zu dem der
-Arbeitnehmer vor Erreichen der Regelaltersgrenze eine Rente wegen
-Alters beantragen kann, gilt dem Arbeitnehmer gegenüber als auf das
-Erreichen der Regelaltersgrenze abgeschlossen, es sei denn, dass die
-Vereinbarung innerhalb der letzten drei Jahre vor diesem Zeitpunkt
-abgeschlossen oder von dem Arbeitnehmer innerhalb der letzten drei
-Jahre vor diesem Zeitpunkt bestätigt worden ist. Sieht eine
-Vereinbarung die Beendigung des Arbeitsverhältnisses mit dem Erreichen
-der Regelaltersgrenze vor, können die Arbeitsvertragsparteien durch
-Vereinbarung während des Arbeitsverhältnisses den
-Beendigungszeitpunkt, gegebenenfalls auch mehrfach, hinausschieben.
+(1) Der Anspruch des Versicherten auf eine Rente wegen Alters ist
+nicht als ein Grund anzusehen, der die Kündigung eines
+Arbeitsverhältnisses durch den Arbeitgeber nach dem
+Kündigungsschutzgesetz bedingen kann. Eine Vereinbarung, die die
+Beendigung des Arbeitsverhältnisses eines Arbeitnehmers ohne Kündigung
+zu einem Zeitpunkt vorsieht, zu dem der Arbeitnehmer vor Erreichen der
+Regelaltersgrenze eine Rente wegen Alters beantragen kann, gilt dem
+Arbeitnehmer gegenüber als auf das Erreichen der Regelaltersgrenze
+abgeschlossen, es sei denn, dass die Vereinbarung innerhalb der
+letzten drei Jahre vor diesem Zeitpunkt abgeschlossen oder von dem
+Arbeitnehmer innerhalb der letzten drei Jahre vor diesem Zeitpunkt
+bestätigt worden ist. Sieht eine Vereinbarung die Beendigung des
+Arbeitsverhältnisses mit dem Erreichen der Regelaltersgrenze vor,
+können die Arbeitsvertragsparteien durch Vereinbarung während des
+Arbeitsverhältnisses den Beendigungszeitpunkt, gegebenenfalls auch
+mehrfach, hinausschieben.
+
+(2) § 14 Absatz 2 Satz 2 des Teilzeit- und Befristungsgesetzes gilt
+nicht für Arbeitnehmer, die die Regelaltersgrenze erreicht haben, wenn
+mit befristeten Arbeitsverhältnissen nach § 14 Absatz 2 Satz 1 des
+Teilzeit- und Befristungsgesetzes bei demselben Arbeitgeber
+
+1.  die Voraussetzungen des § 14 Absatz 2 Satz 1 des Teilzeit- und
+    Befristungsgesetzes eingehalten werden und
+
+
+2.  keine der folgenden Grenzen überschritten wird:
+
+    a)  eine Höchstdauer von insgesamt acht Jahren und
+
+
+    b)  die Anzahl von zwölf befristeten Arbeitsverträgen.
+
+
+
+
+
+
+§ 14 Absatz 2 Satz 3 und 4 des Teilzeit- und Befristungsgesetzes
+bleibt unberührt.
+
+(3) Eine Vereinbarung, die die Beendigung des Arbeitsverhältnisses mit
+dem Erreichen der Regelaltersgrenze vorsieht, bedarf zu ihrer
+Wirksamkeit der Textform. § 14 Absatz 4 des Teilzeit- und
+Befristungsgesetzes gilt nicht.
 
 
 ###### § 42 Vollrente und Teilrente
@@ -1775,12 +1882,7 @@ Vollrente in Anspruch nehmen.
 
 (2) (weggefallen)
 
-(3) Versicherte, die wegen der beabsichtigten Inanspruchnahme einer
-Teilrente ihre Arbeitsleistung einschränken wollen, können von ihrem
-Arbeitgeber verlangen, dass er mit ihnen die Möglichkeiten einer
-solchen Einschränkung erörtert. Macht der Versicherte hierzu für
-seinen Arbeitsbereich Vorschläge, hat der Arbeitgeber zu diesen
-Vorschlägen Stellung zu nehmen.
+(3) (weggefallen)
 
 
 ##### Zweiter Titel - Renten wegen verminderter Erwerbsfähigkeit
@@ -2350,8 +2452,10 @@ ermitteln.
 1.  wegen eines Arbeitsunfalls oder einer Berufskrankheit,
 
 
-2.  wegen einer Wehrdienstbeschädigung nach dem Soldatenversorgungsgesetz
-    als Wehrdienstleistende oder Soldaten auf Zeit,
+2.  wegen einer Wehrdienstbeschädigung nach § 81 des
+    Soldatenversorgungsgesetzes in der am 31. Dezember 2024 geltenden
+    Fassung oder nach § 3 des Soldatenentschädigungsgesetzes als
+    Wehrdienstleistende oder Soldaten auf Zeit,
 
 
 3.  wegen einer Zivildienstbeschädigung nach dem Zivildienstgesetz als
@@ -3321,24 +3425,30 @@ Rentenwert und den Ausgleichsbedarf bis zum 30. Juni des jeweiligen
 Jahres zu bestimmen.
 
 (2) Die Bundesregierung hat durch Rechtsverordnung mit Zustimmung des
-Bundesrates zum Ende eines jeden Jahres
+Bundesrates bis zum Ablauf des 31. Dezembers des jeweiligen Jahres
+folgende Durchschnittsentgelte zu bestimmen:
 
 1.  für das vergangene Kalenderjahr das auf volle Euro gerundete
-    Durchschnittsentgelt in Anlage 1 entsprechend der Entwicklung der
-    Bruttolöhne und -gehälter je Arbeitnehmer (§ 68 Abs. 2 Satz 1),
+    Durchschnittsentgelt (Anlage 1), das sich ergibt, indem das
+    Durchschnittsentgelt des vorvergangenen Kalenderjahres mit der
+    prozentualen Veränderung der Bruttolöhne und -gehälter je Arbeitnehmer
+    nach § 68 Absatz 2 Satz 1 des vergangenen Kalenderjahres gegenüber dem
+    vorvergangenen Kalenderjahr fortgeschrieben wird, und
 
 
 2.  für das folgende Kalenderjahr das auf volle Euro gerundete vorläufige
-    Durchschnittsentgelt, das sich ergibt, wenn das Durchschnittsentgelt
-    für das vergangene Kalenderjahr um das Doppelte des Vomhundertsatzes
-    verändert wird, um den sich das Durchschnittsentgelt des vergangenen
-    Kalenderjahres gegenüber dem Durchschnittsentgelt des vorvergangenen
-    Kalenderjahres verändert hat,
+    Durchschnittsentgelt, das sich ergibt, indem das Durchschnittsentgelt
+    für das vergangene Kalenderjahr mit dem Doppelten der prozentualen
+    Veränderung der Bruttolöhne und -gehälter je Arbeitnehmer nach § 68
+    Absatz 2 Satz 1 des vergangenen Kalenderjahres gegenüber dem
+    vorvergangenen Kalenderjahr fortgeschrieben wird.
 
 
 
-zu bestimmen. Die Bestimmung soll bis zum 31. Dezember des jeweiligen
-Jahres erfolgen.
+Die Anlage 1 ist entsprechend der Bestimmung der Entgelte gemäß Satz 1
+zu ändern. Dabei ersetzt das Durchschnittsentgelt nach Satz 1 Nummer 1
+das vorläufige Durchschnittsentgelt für das jeweilige Kalenderjahr in
+Anlage 1.
 
 
 ##### Dritter Titel - Ermittlung der persönlichen Entgeltpunkte
@@ -3778,7 +3888,7 @@ Arbeitsentgelt aus geringfügiger Beschäftigung entsprechend.
 
 ###### § 76e Zuschläge an Entgeltpunkten für Zeiten einer besonderen Auslandsverwendung
 
-(1) Für Zeiten einer besonderen Auslandsverwendung nach § 63c Absatz 1
+(1) Für Zeiten einer besonderen Auslandsverwendung nach § 87 Absatz 1
 des Soldatenversorgungsgesetzes oder § 31a Absatz 1 des
 Beamtenversorgungsgesetzes ab dem 13. Dezember 2011 werden Zuschläge
 an Entgeltpunkten ermittelt, wenn während dieser Zeiten
@@ -3843,9 +3953,7 @@ der Anzahl der Kalendermonate mit Grundrentenbewertungszeiten,
 höchstens jedoch mit 420 Kalendermonaten, vervielfältigt.
 
 (5) Der Zuschlag an Entgeltpunkten wird den Kalendermonaten mit
-Grundrentenbewertungszeiten zu gleichen Teilen zugeordnet; dabei
-werden Kalendermonaten mit Entgeltpunkten (Ost) Zuschläge an
-Entgeltpunkten (Ost) zugeordnet.
+Grundrentenbewertungszeiten zu gleichen Teilen zugeordnet.
 
 
 ###### § 77 Zugangsfaktor
@@ -4266,7 +4374,6 @@ ständigen Arbeiten unter Tage zu gleichen Teilen zugeordnet.
 
 ###### § 86 (weggefallen)
 
--
 
 
 ###### § 86a Zugangsfaktor
@@ -4683,7 +4790,6 @@ verursachen. Satz 1 Nr. 1 gilt nicht für Hinterbliebenenrenten.
 
 ##### § 94 (weggefallen)
 
--
 
 
 ##### § 95 (weggefallen)
@@ -4769,7 +4875,8 @@ für Bergleute sind zusätzlich zu dem Hinzuverdienst nach Absatz 2 Satz
 
 
 
-2.  Krankengeld der Sozialen Entschädigung,
+2.  Krankengeld der Sozialen Entschädigung, Krankengeld der
+    Soldatenentschädigung,
 
     a)  das aufgrund einer Arbeitsunfähigkeit geleistet wird, die nach dem
         Beginn der Rente eingetreten ist, oder
@@ -5026,21 +5133,19 @@ sein Ehegatte über Einkommen nach Absatz 2 Satz 1 Nummer 3 innerhalb
 von drei Monaten nach Bekanntgabe des Bescheides über den Rentenanteil
 aus dem Zuschlag an Entgeltpunkten für langjährige Versicherung dem
 Träger der Rentenversicherung mitzuteilen, wenn solches Einkommen in
-dem nach Absatz 2 Satz 3 und 4 maßgeblichen Kalenderjahr erzielt wurde
-und dessen Höhe nachzuweisen. Der Berechtigte ist auf die
-Überprüfungsrechte nach § 151c hinzuweisen. Erfolgt keine Mitteilung
-nach Satz 2, gilt Einkommen nach Absatz 2 Satz 1 Nummer 3 als nicht
-erzielt. Teilen der Berechtigte und sein Ehegatte Einkommen nach
-Absatz 2 Satz 1 Nummer 3 mit und ergibt sich nach erneuter
-Einkommensprüfung ein veränderter Rentenanteil aus dem Zuschlag an
-Entgeltpunkten für langjährige Versicherung, ist der Bescheid mit
-Wirkung für die Zukunft aufzuheben. Im Fall einer zu Unrecht
-unterbliebenen oder unrichtigen Auskunft ist der Bescheid vom Beginn
-des Zeitraumes der Anrechnung von Einkommen nach Satz 1 aufzuheben.
-Soweit Bescheide aufgehoben wurden, sind zu viel erbrachte Leistungen
-zu erstatten; § 50 Absatz 2a bis 5 des Zehnten Buches bleibt
-unberührt. Nicht anzuwenden ist die Vorschrift zur Anhörung
-Beteiligter (§ 24 des Zehnten Buches).
+dem nach Absatz 2 Satz 2 bis 4 maßgeblichen Kalenderjahr erzielt wurde
+und dessen Höhe nachzuweisen. Erfolgt keine Mitteilung nach Satz 2,
+gilt Einkommen nach Absatz 2 Satz 1 Nummer 3 als nicht erzielt. Teilen
+der Berechtigte und sein Ehegatte Einkommen nach Absatz 2 Satz 1
+Nummer 3 mit und ergibt sich nach erneuter Einkommensprüfung ein
+veränderter Rentenanteil aus dem Zuschlag an Entgeltpunkten für
+langjährige Versicherung, ist der Bescheid mit Wirkung für die Zukunft
+aufzuheben. Im Fall einer zu Unrecht unterbliebenen oder unrichtigen
+Auskunft ist der Bescheid vom Beginn des Zeitraumes der Anrechnung von
+Einkommen nach Satz 1 aufzuheben. Soweit Bescheide aufgehoben wurden,
+sind zu viel erbrachte Leistungen zu erstatten; § 50 Absatz 2a bis 5
+des Zehnten Buches bleibt unberührt. Nicht anzuwenden ist die
+Vorschrift zur Anhörung Beteiligter (§ 24 des Zehnten Buches).
 
 (7) Ist in einer Rente ein Zuschlag an Entgeltpunkten für langjährige
 Versicherung enthalten, sind auf den hierauf beruhenden Rentenanteil
@@ -5947,26 +6052,26 @@ können für einen angemessenen Zeitraum im Voraus ausgezahlt werden.
 (2a) Nachzahlungsbeträge, die ein Zehntel des aktuellen Rentenwerts
 nicht übersteigen, sollen nicht ausgezahlt werden.
 
-(2b) In Fällen des § 47 Absatz 1 Satz 3 des Ersten Buches erfolgt eine
-kostenfreie Übermittlung von Geldleistungen an den Wohnsitz oder an
-den gewöhnlichen Aufenthalt spätestens ab dem zweiten Monat, der auf
-den Monat folgt, in dem der Nachweis erbracht worden ist.
+(2b) Abweichend von § 47 Absatz 1 des Ersten Buches werden
+Geldleistungen ausschließlich auf das angegebene Konto bei einem
+Geldinstitut, für das die Verordnung (EU) Nr. 260/2012 gilt,
+überwiesen. Die Überweisung erfolgt kostenfrei.
+
+(2c) Bei Zahlungen außerhalb des Geltungsbereiches der in Absatz 2b
+genannten Verordnung trägt der Leistungsträger die Kosten bis zu dem
+von ihm mit der Zahlung beauftragten Geldinstitut.
 
 (3) Geldleistungen, die für die Zeit nach dem Tod des Berechtigten auf
 ein Konto bei einem Geldinstitut, für das die Verordnung (EU) Nr.
-260/2012 des Europäischen Parlaments und des Rates vom 14. März 2012
-zur Festlegung der technischen Vorschriften und der
-Geschäftsanforderungen für Überweisungen und Lastschriften in Euro und
-zur Änderung der Verordnung (EG) Nr. 924/2009 (ABl. L 94 vom
-30\.3.2012, S. 22) gilt, überwiesen wurden, gelten als unter Vorbehalt
-erbracht. Das Geldinstitut hat sie der überweisenden Stelle oder dem
-Träger der Rentenversicherung zurückzuüberweisen, wenn diese sie als
-zu Unrecht erbracht zurückfordern. Eine Verpflichtung zur
-Rücküberweisung besteht nicht, soweit über den entsprechenden Betrag
-bei Eingang der Rückforderung bereits anderweitig verfügt wurde, es
-sei denn, dass die Rücküberweisung aus einem Guthaben erfolgen kann.
-Das Geldinstitut darf den überwiesenen Betrag nicht zur Befriedigung
-eigener Forderungen verwenden.
+260/2012 gilt, überwiesen wurden, gelten als unter Vorbehalt erbracht.
+Das Geldinstitut hat sie der überweisenden Stelle oder dem Träger der
+Rentenversicherung zurückzuüberweisen, wenn diese sie als zu Unrecht
+erbracht zurückfordern. Eine Verpflichtung zur Rücküberweisung besteht
+nicht, soweit über den entsprechenden Betrag bei Eingang der
+Rückforderung bereits anderweitig verfügt wurde, es sei denn, dass die
+Rücküberweisung aus einem Guthaben erfolgen kann. Das Geldinstitut
+darf den überwiesenen Betrag nicht zur Befriedigung eigener
+Forderungen verwenden.
 
 (4) Soweit Geldleistungen für die Zeit nach dem Tod des Berechtigten
 zu Unrecht erbracht worden sind, sind sowohl die Personen, die die
@@ -6174,11 +6279,11 @@ Ehegatten, getrennt nach
 
 
 
-die mit demselben aktuellen Rentenwert für die Berechnung einer Rente
-zu vervielfältigen sind. Der Ehegatte mit der jeweils niedrigeren
-Summe solcher Entgeltpunkte hat Anspruch auf Übertragung der Hälfte
-des Unterschieds zwischen den gleichartigen Entgeltpunkten der
-Ehegatten (Einzelsplitting).
+die mit dem aktuellen Rentenwert für die Berechnung einer Rente zu
+vervielfältigen sind. Der Ehegatte mit der jeweils niedrigeren Summe
+solcher Entgeltpunkte hat Anspruch auf Übertragung der Hälfte des
+Unterschieds zwischen den gleichartigen Entgeltpunkten der Ehegatten
+(Einzelsplitting).
 
 (8) Besteht zwischen den jeweiligen Summen aller Entgeltpunkte der
 Ehegatten in der Splittingzeit ein Unterschied, ergibt sich für den
@@ -6326,18 +6431,14 @@ Lebenspartnerschaft und als Ehegatte ein Lebenspartner.
 Versorgungsausgleichsgesetzes gelten die in der gesetzlichen
 Rentenversicherung erworbenen Anrechte.
 
-(2) Als Anrechte gleicher Art im Sinne des § 10 Abs. 2 des
+(2) Als Anrechte gleicher Art im Sinne des § 10 Absatz 2 des
 Versorgungsausgleichsgesetzes gelten nicht
 
-1.  die bis zum 30. Juni 2024 im Beitrittsgebiet und im übrigen
-    Bundesgebiet erworbenen Anrechte,
-
-
-2.  die in der allgemeinen Rentenversicherung und in der knappschaftlichen
+1.  die in der allgemeinen Rentenversicherung und in der knappschaftlichen
     Rentenversicherung erworbenen Anrechte,
 
 
-3.  die in der Rentenversicherung als Zuschläge für langjährige
+2.  die in der Rentenversicherung als Zuschläge für langjährige
     Versicherung gewährten Entgeltpunkte und die übrigen Entgeltpunkte.
 
 
@@ -7092,7 +7193,11 @@ Versicherung für Personen, die wegen
 bei ihr versichert sind, in der knappschaftlichen Rentenversicherung
 durch, wenn diese im letzten Jahr vor Beginn dieser Zeiten zuletzt
 wegen einer Beschäftigung in der knappschaftlichen Rentenversicherung
-versichert waren.
+versichert waren. Die Rentenversicherung für Bezieher von
+Erwerbsschadensausgleich ist in der knappschaftlichen
+Rentenversicherung durchzuführen, wenn der Erwerbsschadensausgleich
+für eine Beschäftigung gewährt wird, für die Beiträge zur
+knappschaftlichen Rentenversicherung gezahlt werden.
 
 
 #### Unterabschnitt 3a - Zuständigkeit der Deutschen Rentenversicherung Knappschaft-Bahn-See für die Seemannskasse
@@ -7631,9 +7736,8 @@ Bundesamt für Soziale Sicherung übertragen.
 (5) (weggefallen)
 
 
-##### § 146
+##### § 146 (weggefallen)
 
-(weggefallen)
 
 
 ### Zweiter Abschnitt - Datenschutz und Datensicherheit
@@ -7809,7 +7913,15 @@ Vermittlungsstellen eingeschaltet werden dürfen, ist nur zulässig:
 
 13. mit weiteren Zusatzversorgungseinrichtungen des öffentlichen Dienstes
     und öffentlich-rechtlichen Zusatzversorgungseinrichtungen, soweit
-    diese Daten zur Feststellung von Leistungen erforderlich sind.
+    diese Daten zur Feststellung von Leistungen erforderlich sind und
+
+
+14. mit den gemeinsamen Einrichtungen im Sinne von § 4 Absatz 2 des
+    Tarifvertragsgesetzes, soweit dies für die Ermittlung und
+    Sicherstellung der Beiträge, für die Feststellung des
+    Versicherungsfalles, für die Berechnung der Betriebsrente oder die
+    Prüfung des Fortbestehens des Anspruchs auf die Betriebsrente dem
+    Grund oder der Höhe nach, erforderlich ist.
 
 
 
@@ -7878,10 +7990,22 @@ Versendung des Versicherungsverlaufs seinem Inhalt nicht
 widersprochen, stellt der Versicherungsträger die im
 Versicherungsverlauf enthaltenen und nicht bereits festgestellten
 Daten, die länger als sechs Kalenderjahre zurückliegen, durch Bescheid
-fest. Bei Änderung der dem Feststellungsbescheid zugrunde liegenden
-Vorschriften ist der Feststellungsbescheid durch einen neuen
-Feststellungsbescheid oder im Rentenbescheid mit Wirkung für die
-Vergangenheit aufzuheben; die §§ 24 und 48 des Zehnten Buches sind
+fest. Wurden im Feststellungsbescheid Zeiten einer schulischen
+Ausbildung über die Höchstdauer nach § 58 Absatz 1 Satz 1 Nummer 4
+hinaus festgestellt, ist der Feststellungsbescheid insoweit durch
+einen neuen Feststellungsbescheid oder im Rentenbescheid mit Wirkung
+für die Vergangenheit aufzuheben; die Vorschriften zur Anhörung
+Beteiligter (§ 24 des Zehnten Buches), die Vorschriften zur Rücknahme
+eines rechtswidrigen nicht begünstigenden Verwaltungsaktes (§ 44 des
+Zehnten Buches) und die Vorschriften zur Rücknahme eines
+rechtswidrigen begünstigenden Verwaltungsaktes (§ 45 des Zehnten
+Buches) sind insoweit nicht anzuwenden. Bei Änderung der dem
+Feststellungsbescheid zugrunde liegenden Vorschriften ist der
+Feststellungsbescheid durch einen neuen Feststellungsbescheid oder im
+Rentenbescheid mit Wirkung für die Vergangenheit aufzuheben; die
+Vorschriften zur Anhörung Beteiligter (§ 24 des Zehnten Buches) und
+die Vorschriften zur Aufhebung eines Verwaltungsaktes mit Dauerwirkung
+bei Änderung der Verhältnisse (§ 48 des Zehnten Buches) sind insoweit
 nicht anzuwenden. Über die Anrechnung und Bewertung der im
 Versicherungsverlauf enthaltenen Daten wird erst bei Feststellung
 einer Leistung entschieden.
@@ -7925,9 +8049,10 @@ soweit dies erforderlich ist, um
     gesetzlichen Krankenversicherung überprüfen zu können,
 
 
-8.  es den Trägern der Rentenversicherung zu ermöglichen, überlebende
-    Ehegatten oder Lebenspartner auf das Bestehen eines Leistungsanspruchs
-    hinzuweisen,
+8.  es den Trägern der Rentenversicherung zu ermöglichen, einen
+    Leistungsanspruch überlebender Ehegatten oder Lebenspartner
+    festzustellen und auf das Bestehen eines solchen Leistungsanspruchs
+    hinzuweisen.
 
 
 9.  es den Trägern der Rentenversicherung und der landwirtschaftlichen
@@ -7974,7 +8099,13 @@ enthalten:
 7.  Betriebsnummer des Arbeitgebers,
 
 
-8.  Tag der Beschäftigungsaufnahme.
+8.  Tag der Beschäftigungsaufnahme,
+
+
+9.  Geburtsdatum,
+
+
+10. die Identifikationsnummer nach dem Identifikationsnummerngesetz.
 
 
 
@@ -8042,28 +8173,54 @@ Grundsätzen. Die gemeinsamen Grundsätze werden vom Bundesministerium
 für Arbeit und Soziales im Einvernehmen mit dem Bundesministerium der
 Finanzen genehmigt.
 
+(3a) Die Datenstelle ist berechtigt, der Zentralstelle im Sinne des §
+24 des Schwarzarbeitsbekämpfungsgesetzes alle erforderlichen Daten aus
+der Datenbank nach Absatz 3 zur Erfüllung der Aufgaben der
+Zentralstelle nach § 26 Absatz 1 des Schwarzarbeitsbekämpfungsgesetzes
+zu übermitteln.
+
 (4) Bei der Datenstelle darf zu den gesetzlich bestimmten
 Dateisystemen jeweils ein weiteres Dateisystem geführt werden, soweit
 dies erforderlich ist, um die Ausführung des Datenschutzes,
 insbesondere zur Feststellung der Benutzer der Dateisysteme, zu
 gewährleisten.
 
-(5) Die Einrichtung eines automatisierten Abrufverfahrens für ein
-Dateisystem der Datenstelle ist nur zulässig gegenüber den in § 148
-Absatz 3 genannten Stellen, der Deutschen Rentenversicherung Bund,
-soweit sie als zentrale Stelle Aufgaben nach dem Einkommensteuergesetz
-durchführt, den Behörden der Zollverwaltung, soweit diese Aufgaben
-nach § 2 des Schwarzarbeitsbekämpfungsgesetzes durchführen, und den
-Unternehmen der privaten Krankenversicherung, soweit sie
-Krankenversichertennummern nach § 290 in Verbindung mit § 362 Absatz 2
-des Fünften Buches vergeben. Die dort enthaltenen besonderen
-Voraussetzungen für die Deutsche Post AG, für die Versicherungsämter
-und Gemeindebehörden und für Leistungsträger im Ausland müssen auch
-bei Satz 1 erfüllt sein. Die Einrichtung eines automatisierten
-Abrufverfahrens für ein Dateisystem der Datenstelle ist ferner
-gegenüber dem Bundesamt für Logistik und Mobilität, soweit dieses
-Aufgaben nach § 11 Absatz 2 Nummer 3 Buchstabe a des
-Güterkraftverkehrsgesetzes wahrnimmt, zulässig.
+(5) Die Einrichtung eines automatisierten Verfahrens, das die
+Übermittlung von Sozialdaten aus Dateisystemen der Datenstelle der
+Rentenversicherung durch Abruf ermöglicht, ist nur zulässig
+
+1.  gegenüber den in § 148 Absatz 3 genannten Stellen unter den dort
+    genannten Voraussetzungen,
+
+
+2.  gegenüber der Deutschen Rentenversicherung Bund, soweit diese als
+    zentrale Stelle Aufgaben nach dem Einkommensteuergesetz durchführt,
+
+
+3.  gegenüber den Behörden der Zollverwaltung, soweit diese Aufgaben nach
+    § 2 oder § 25 des Schwarzarbeitsbekämpfungsgesetzes durchführen oder
+    Straftaten oder Ordnungswidrigkeiten verfolgen, die in Zusammenhang
+    mit einem der in § 2 Absatz 1 des Schwarzarbeitsbekämpfungsgesetzes
+    genannten Prüfgegenstände stehen,
+
+
+4.  gegenüber den Unternehmen der privaten Krankenversicherung, der
+    Postbeamtenkrankenkasse, der Krankenversorgung der Bundesbahnbeamten,
+    der Bundespolizei, den Landespolizeien, der Bundeswehr sowie den
+    Trägern der freien Heilfürsorge, soweit diese
+    Krankenversichertennummern nach § 290 in Verbindung mit § 362 Absatz 2
+    des Fünften Buches vergeben, und
+
+
+5.  gegenüber dem Bundesamt für Logistik und Mobilität, soweit dieses
+    Aufgaben nach § 11 Absatz 2 Nummer 3 Buchstabe a des
+    Güterkraftverkehrsgesetzes wahrnimmt.
+
+
+
+Für die Einrichtung eines automatisierten Verfahrens auf Abruf
+gegenüber den von Satz 1 Nummer 1 erfassten Stellen ist eine
+Genehmigung nach § 79 Absatz 1 des Zehnten Buches nicht erforderlich.
 
 
 #### § 151 Auskünfte der Deutschen Post AG
@@ -8128,6 +8285,13 @@ Anpassung der Renten oder anderen Geldleistungen der
 Rentenversicherung nicht selbst durchführt, diese Daten aber für
 Auskünfte nach Absatz 1 oder 2 von anderen Sozialleistungsträgern oder
 diesen Gleichgestellten benötigt werden.
+
+(4) Ab dem in § 3 Absatz 1 des Postaufgabenüberleitungsgesetzes vom
+22\. Dezember 2025 (BGBl. 2025 I Nr. 345) genannten Zeitpunkt sind die
+Absätze 1 und 2 mit der Maßgabe anzuwenden, dass sie sich auch auf
+solche Sozialdaten beziehen, die dem Vorgängerunternehmen nach § 1
+Absatz 1 des Postaufgabenüberleitungsgesetzes in den in den Absätzen 1
+und 2 genannten Zusammenhängen bekannt geworden sind.
 
 
 #### § 151a Antragstellung im automatisierten Verfahren beim Versicherungsamt
@@ -8292,48 +8456,13 @@ bestimmen, insbesondere über
 
 
 
-#### § 151c Auskunftsrechte zur Überprüfung von Einkünften aus Kapitalvermögen beim Zuschlag an Entgeltpunkten für langjährige Versicherung
+#### § 151c Übermittlung von Sozialdaten an den Träger der Insolvenzsicherung
 
-(1) Die Träger der Rentenversicherung können für Berechtigte, bei
-denen nach Prüfung des Einkommens nach § 97a ein Rentenanteil aus dem
-Zuschlag an Entgeltpunkten für langjährige Versicherung geleistet
-wird, und für deren Ehegatten im Wege des automatisierten
-Datenabgleichs bei einer durch Zufallsauswahl gewonnenen hinreichenden
-Anzahl von Fällen das Bundeszentralamt für Steuern nach § 93 Absatz 8
-Satz 1 Nummer 1 Buchstabe g der Abgabenordnung ersuchen, bei
-Kreditinstituten die in § 93b Absatz 1 und 1a der Abgabenordnung
-bezeichneten Daten für den Berechtigten und dessen Ehegatten
-abzurufen. § 93 Absatz 8a bis 10 und § 93b Absatz 2 bis 4 der
-Abgabenordnung gelten entsprechend. Ein Abruf nach Satz 1 ist
-frühestens nach Ablauf der in § 97a Absatz 6 Satz 2 genannten
-Auskunftsfrist zulässig. Die Träger der Rentenversicherung dürfen für
-einen Abruf nach Satz 1 Name, Vornamen, Geburtsdatum und Anschrift des
-Berechtigten und seines Ehegatten an das Bundeszentralamt für Steuern
-übermitteln. Das Bundeszentralamt für Steuern darf die ihm nach Satz 4
-vom Träger der Rentenversicherung übermittelten Daten nur zur
-Durchführung des Abrufs nach Satz 1 und zum Zweck der
-Datenschutzkontrolle verwenden. Die Träger der Rentenversicherung
-dürfen die vom Bundeszentralamt für Steuern erhobenen Daten nur für
-die Ermittlung des Einkommens nach § 97a nutzen. Für das Verfahren
-nach diesem Absatz gilt § 79 Absatz 1, 2 bis 4 des Zehnten Buches
-entsprechend mit der Maßgabe, dass es einer Genehmigung nach § 79
-Absatz 1 des Zehnten Buches nicht bedarf.
-
-(2) Die Träger der Rentenversicherung sind berechtigt, bei jedem im
-Verfahren nach Absatz 1 Satz 1 ermittelten Kreditinstitut die Höhe
-aller bei ihm in dem maßgeblichen Kalenderjahr erzielten, versteuerten
-Einkünfte aus Kapitalvermögen nach § 20 des Einkommensteuergesetzes
-von Berechtigten und deren Ehegatten zu erheben, sofern deren Kenntnis
-für die Einkommensprüfung nach § 97a zur Gewährung eines Zuschlags an
-Entgeltpunkten für langjährige Versicherung erforderlich ist. Die
-Träger der Rentenversicherung dürfen hierzu Name, Vornamen,
-Geburtsdatum und Anschrift des Berechtigten und seines Ehegatten an
-das betroffene Kreditinstitut übermitteln. Das nach Satz 1 um Auskunft
-ersuchte Kreditinstitut ist verpflichtet, die ihm bekannten, in Satz 1
-bezeichneten Daten an den um Auskunft ersuchenden Träger der
-Rentenversicherung zu übermitteln. Der Berechtigte und sein Ehegatte
-sind über die Durchführung der Datenerhebung und deren Ergebnis zu
-informieren.
+Auf Anforderung des Trägers der Insolvenzsicherung nach § 11 Absatz 1
+Satz 4 des Betriebsrentengesetzes haben die Träger der
+Rentenversicherung dem Träger der Insolvenzsicherung die angeforderten
+Sozialdaten zu übermitteln, die zur Feststellung von Leistungen beim
+Träger der Insolvenzsicherung erforderlich sind.
 
 
 #### § 152 Verordnungsermächtigung
@@ -8411,7 +8540,7 @@ Zahlungsverpflichtungen der allgemeinen Rentenversicherung.
 
 
 
-##### § 154 Rentenversicherungsbericht, Stabilisierung des Beitragssatzes und Sicherung des Rentenniveaus
+##### § 154 Rentenversicherungsbericht und weitere Berichte zur Alterssicherung
 
 (1) Die Bundesregierung erstellt jährlich einen
 Rentenversicherungsbericht. Der Bericht enthält
@@ -8419,20 +8548,15 @@ Rentenversicherungsbericht. Der Bericht enthält
 1.  auf der Grundlage der letzten Ermittlungen der Zahl der Versicherten
     und Rentner sowie der Einnahmen, der Ausgaben und der
     Nachhaltigkeitsrücklage insbesondere Modellrechnungen zur Entwicklung
-    von Einnahmen und Ausgaben, der Nachhaltigkeitsrücklage sowie des
-    jeweils erforderlichen Beitragssatzes in den künftigen 15
-    Kalenderjahren,
+    von Einnahmen und Ausgaben, der Nachhaltigkeitsrücklage, des jeweils
+    erforderlichen Beitragssatzes sowie des Sicherungsniveaus vor Steuern
+    in den künftigen 15 Kalenderjahren,
 
 
 2.  eine Übersicht über die voraussichtliche finanzielle Entwicklung der
     Rentenversicherung in den künftigen fünf Kalenderjahren auf der
     Grundlage der aktuellen Einschätzung der mittelfristigen
-    Wirtschaftsentwicklung,
-
-
-3.  eine Darstellung, wie sich die Anhebung der Altersgrenzen
-    voraussichtlich auf die Arbeitsmarktlage, die Finanzlage der
-    Rentenversicherung und andere öffentliche Haushalte auswirkt.
+    Wirtschaftsentwicklung.
 
 
 
@@ -8472,65 +8596,23 @@ darstellt:
 
 
 
-Die Darstellungen zu der Nummer 4 sind erstmals im Jahre 2005
-vorzulegen.
 
-(3) In der allgemeinen Rentenversicherung darf das Sicherungsniveau
-vor Steuern nach Absatz 3a bis zum Jahr 2025 48 Prozent nicht
-unterschreiten und darf der Beitragssatz bis zum Jahr 2025 20 Prozent
-nicht überschreiten. Die Bundesregierung hat den gesetzgebenden
-Körperschaften geeignete Maßnahmen vorzuschlagen, wenn in der
-allgemeinen Rentenversicherung in der mittleren Variante der
-15-jährigen Vorausberechnungen des Rentenversicherungsberichts
-
-1.  der Beitragssatz bis zum Jahr 2030 22 Prozent überschreitet oder
-
-
-2.  das Sicherungsniveau vor Steuern nach Absatz 3a bis zum Jahr 2030 43
-    Prozent unterschreitet.
-
-
-
-Die Bundesregierung soll den gesetzgebenden Körperschaften geeignete
-Maßnahmen vorschlagen, wenn sich zeigt, dass durch die Förderung der
-freiwilligen zusätzlichen Altersvorsorge eine ausreichende Verbreitung
-nicht erreicht werden kann.
-
-(3a) Das Sicherungsniveau vor Steuern für das jeweilige Kalenderjahr
-ist der Verhältniswert aus der verfügbaren Standardrente und dem
-verfügbaren Durchschnittsentgelt des jeweils betreffenden
-Kalenderjahres. Die verfügbare Standardrente des jeweiligen
-Kalenderjahres ist die Standardrente, gemindert um die von den
-Rentnerinnen und Rentnern zu tragenden Sozialversicherungsbeiträge.
-Die Standardrente ist die Regelaltersrente aus der allgemeinen
-Rentenversicherung mit 45 Entgeltpunkten, die sich unter
-Zugrundelegung des ab dem 1. Juli des betreffenden Kalenderjahres
-geltenden aktuellen Rentenwerts für zwölf Monate berechnet. Die von
-den Rentnerinnen und Rentnern zu tragenden Sozialversicherungsbeiträge
-berechnen sich, indem die Standardrente des betreffenden
-Kalenderjahres mit der Summe des von den Rentnerinnen und Rentnern zu
-tragenden Anteils des allgemeinen Beitragssatzes sowie des
-durchschnittlichen Zusatzbeitragssatzes zur gesetzlichen
-Krankenversicherung und des Beitragssatzes zur sozialen
-Pflegeversicherung des betreffenden Kalenderjahres vervielfältigt
-wird, deren jeweilige Höhe der Bekanntmachung des
-Gesamtsozialversicherungsbeitragssatzes nach § 20 Absatz 2a Satz 5 des
-Vierten Buches im Bundesanzeiger zu entnehmen ist. Das verfügbare
-Durchschnittsentgelt des jeweiligen Kalenderjahres wird ermittelt,
-indem das verfügbare Durchschnittsentgelt des Vorjahres mit der für
-die Rentenanpassung maßgebenden Veränderung der Bruttolöhne und
--gehälter je Arbeitnehmer (§ 68 Absatz 2) und der Veränderung der
-Nettoquote des Durchschnittsentgelts des jeweiligen Kalenderjahres
-gegenüber dem Vorjahr angepasst wird. Die Nettoquote des
-Durchschnittsentgelts des jeweiligen Kalenderjahres wird ermittelt,
-indem vom Wert 100 Prozent der vom Arbeitnehmer zu tragende Anteil des
-im Bundesanzeiger nach § 20 Absatz 2a Satz 5 des Vierten Buches
-bekannt gegebenen Gesamtsozialversicherungsbeitragssatzes des
-betreffenden Kalenderjahres abgezogen wird. Für die Bestimmung des
-Sicherungsniveaus vor Steuern für das Jahr 2022 beträgt das verfügbare
-Durchschnittsentgelt des Vorjahres 33 992,16 Euro. Die Sätze 1 bis 5
-sind für die Vorausberechnungen des Sicherungsniveaus vor Steuern
-entsprechend anzuwenden.
+(3) Die Bundesregierung hat den gesetzgebenden Körperschaften
+geeignete Maßnahmen vorzuschlagen, wenn in der allgemeinen
+Rentenversicherung in der mittleren Variante der 15-jährigen
+Vorausberechnungen des Rentenversicherungsberichts der Beitragssatz
+bis zum Jahr 2030 22 Prozent überschreitet. Die Bundesregierung hat
+den gesetzgebenden Körperschaften im Jahr 2029 einen Bericht über die
+tatsächliche Entwicklung des Beitragssatzes und des Bundeszuschusses
+vorzulegen, um gegebenenfalls weitere Maßnahmen zu ergreifen. Ziel
+dieses Berichts ist es, das Mindestsicherungsniveau von 48 Prozent
+sowie die daraus entstehenden Mehrausgaben zu prüfen. Nur eine
+wachstumsorientierte Wirtschaftspolitik, eine hohe Beschäftigungsquote
+und eine angemessene Lohnentwicklung ermöglichen es, dies dauerhaft zu
+finanzieren. Die Bundesregierung soll den gesetzgebenden
+Körperschaften geeignete Maßnahmen vorschlagen, wenn sich zeigt, dass
+durch die Förderung der freiwilligen zusätzlichen Altersvorsorge eine
+ausreichende Verbreitung nicht erreicht werden kann.
 
 (4) Die Bundesregierung hat den gesetzgebenden Körperschaften vom
 Jahre 2010 an alle vier Jahre über die Entwicklung der Beschäftigung
@@ -8539,16 +8621,51 @@ abzugeben, ob die Anhebung der Regelaltersgrenze unter
 Berücksichtigung der Entwicklung der Arbeitsmarktlage sowie der
 wirtschaftlichen und sozialen Situation älterer Arbeitnehmer weiterhin
 vertretbar erscheint und die getroffenen gesetzlichen Regelungen
-bestehen bleiben können. In diesem Bericht sind zur Beibehaltung eines
-Sicherungsniveauziels vor Steuern von 46 vom Hundert über das Jahr
-2020 hinaus von der Bundesregierung entsprechende Maßnahmen unter
-Wahrung der Beitragssatzstabilität vorzuschlagen. Die Bundesregierung
-berichtet zudem vom Jahre 2018 an über die Auswirkungen der
-Altersrente für besonders langjährig Versicherte in der Fassung des
-RV-Leistungsverbesserungsgesetzes, insbesondere über den Umfang der
-Inanspruchnahme und die Erfüllung der Zugangsvoraussetzungen vor dem
-Hintergrund der Berücksichtigung von Zeiten des Arbeitslosengeldbezugs
-und macht Vorschläge für eine Weiterentwicklung dieser Rentenart.
+bestehen bleiben können. Die Bundesregierung berichtet zudem vom Jahre
+2018 an über die Auswirkungen der Altersrente für besonders langjährig
+Versicherte in der Fassung des RV-Leistungsverbesserungsgesetzes,
+insbesondere über den Umfang der Inanspruchnahme und die Erfüllung der
+Zugangsvoraussetzungen vor dem Hintergrund der Berücksichtigung von
+Zeiten des Arbeitslosengeldbezugs und macht Vorschläge für eine
+Weiterentwicklung dieser Rentenart.
+
+
+##### § 154a Sicherungsniveau vor Steuern
+
+(1) Das Sicherungsniveau vor Steuern für das jeweilige Kalenderjahr
+ist der Verhältniswert aus der verfügbaren Standardrente und dem
+verfügbaren Durchschnittsentgelt des jeweils betreffenden
+Kalenderjahres.
+
+(2) Die verfügbare Standardrente des jeweiligen Kalenderjahres ist die
+Standardrente, gemindert um die von den Rentnerinnen und Rentnern zu
+tragenden Sozialversicherungsbeiträge. Die Standardrente ist die
+Regelaltersrente aus der allgemeinen Rentenversicherung mit 45
+Entgeltpunkten, die sich berechnet unter Zugrundelegung des ab dem 1.
+Juli des betreffenden Kalenderjahres geltenden aktuellen Rentenwerts
+für zwölf Monate. Die von den Rentnerinnen und Rentnern zu tragenden
+Sozialversicherungsbeiträge berechnen sich, indem die Standardrente
+des betreffenden Kalenderjahres multipliziert wird mit der Summe des
+von den Rentnerinnen und Rentnern zu tragenden Anteils des allgemeinen
+Beitragssatzes sowie des durchschnittlichen Zusatzbeitragssatzes zur
+gesetzlichen Krankenversicherung und des Beitragssatzes zur sozialen
+Pflegeversicherung des betreffenden Kalenderjahres. Dabei ist die
+jeweilige Höhe der Beitragssätze der Bekanntmachung des
+Gesamtsozialversicherungsbeitragssatzes nach § 20 Absatz 2a Satz 5 des
+Vierten Buches im Bundesanzeiger zu entnehmen.
+
+(3) Das verfügbare Durchschnittsentgelt des jeweiligen Kalenderjahres
+wird ermittelt, indem das verfügbare Durchschnittsentgelt des
+Vorjahres mit der für die Rentenanpassung maßgebenden Veränderung der
+Bruttolöhne und -gehälter je Arbeitnehmer (§ 68 Absatz 2) und mit der
+Veränderung der Nettoquote des Durchschnittsentgelts des jeweiligen
+Kalenderjahres gegenüber dem Vorjahr multipliziert wird. Die
+Nettoquote des Durchschnittsentgelts des jeweiligen Kalenderjahres
+wird ermittelt, indem der Wert 100 Prozent vermindert wird um den vom
+Arbeitnehmer zu tragenden Anteil des im Bundesanzeiger nach § 20
+Absatz 2a Satz 5 des Vierten Buches bekannt gegebenen
+Gesamtsozialversicherungsbeitragssatzes des betreffenden
+Kalenderjahres.
 
 
 ##### § 155 Aufgabe des Sozialbeirats
@@ -8629,7 +8746,7 @@ Januar eines Jahres an zu verändern, wenn am 31. Dezember dieses
 Jahres bei Beibehaltung des bisherigen Beitragssatzes die Mittel der
 Nachhaltigkeitsrücklage
 
-1.  das 0,2fache der durchschnittlichen Ausgaben zu eigenen Lasten der
+1.  das 0,3fache der durchschnittlichen Ausgaben zu eigenen Lasten der
     Träger der allgemeinen Rentenversicherung für einen Kalendermonat
     (Mindestrücklage) voraussichtlich unterschreiten oder
 
@@ -8824,12 +8941,12 @@ vom Hundert der monatlichen Beitragsbemessungsgrenze und dem
 Regelarbeitsentgelt, höchstens jedoch bis zur
 Beitragsbemessungsgrenze, als beitragspflichtige Einnahme. Für
 Personen, die nach § 3 Satz 1 Nr. 3 für die Zeit des Bezugs von
-Krankengeld, Krankengeld der Sozialen Entschädigung, Verletztengeld
-oder Übergangsgeld versichert sind, und für Personen, die für die Zeit
-der Arbeitsunfähigkeit oder der Ausführung von Leistungen zur
-Teilhabe, in der sie Krankentagegeld von einem privaten
-Krankenversicherungsunternehmen erhalten, nach § 4 Abs. 3 Satz 1 Nr. 2
-versichert sind, gilt Satz 1 entsprechend.
+Krankengeld, Krankengeld der Sozialen Entschädigung, Krankengeld der
+Soldatenentschädigung, Verletztengeld oder Übergangsgeld versichert
+sind, und für Personen, die für die Zeit der Arbeitsunfähigkeit oder
+der Ausführung von Leistungen zur Teilhabe, in der sie Krankentagegeld
+von einem privaten Krankenversicherungsunternehmen erhalten, nach § 4
+Abs. 3 Satz 1 Nr. 2 versichert sind, gilt Satz 1 entsprechend.
 
 (6) Soweit Kurzarbeitergeld oder Qualifizierungsgeld geleistet wird,
 gilt als beitragspflichtige Einnahmen 80 vom Hundert des
@@ -8982,22 +9099,28 @@ Beschäftigung behandelt werden.
     Arbeitsentgelt zu berücksichtigen wären,
 
 
-1c. bei Personen, die als ehemalige Soldaten auf Zeit Übergangsgebührnisse
-    beziehen, die nach § 11 des Soldatenversorgungsgesetzes gewährten
+1c. bei Personen, die als frühere Soldaten auf Zeit Übergangsgebührnisse
+    beziehen, die nach dem Soldatenversorgungsgesetz gewährten
     Übergangsgebührnisse; liegen weitere Versicherungsverhältnisse vor,
     ist beitragspflichtige Einnahme höchstens die Differenz aus der
     Beitragsbemessungsgrenze und den beitragspflichtigen Einnahmen aus den
     weiteren Versicherungsverhältnissen,
 
 
+1d. bei Personen, die Erwerbsschadensausgleich nach dem
+    Soldatenentschädigungsgesetz beziehen, der gewährte
+    Erwerbsschadensausgleich,
+
+
 2.  bei Personen, die Arbeitslosengeld, Übergangsgeld, Krankengeld,
-    Verletztengeld oder Krankengeld der Sozialen Entschädigung beziehen,
-    80 vom Hundert des der Leistung zugrunde liegenden Arbeitsentgelts
-    oder Arbeitseinkommens, wobei 80 vom Hundert des beitragspflichtigen
-    Arbeitsentgelts aus einem nicht geringfügigen Beschäftigungsverhältnis
-    abzuziehen sind, und bei gleichzeitigem Bezug von Krankengeld neben
-    einer anderen Leistung das dem Krankengeld zugrundeliegende Einkommen
-    nicht zu berücksichtigen ist,
+    Verletztengeld, Krankengeld der Sozialen Entschädigung oder
+    Krankengeld der Soldatenentschädigung beziehen, 80 vom Hundert des der
+    Leistung zugrunde liegenden Arbeitsentgelts oder Arbeitseinkommens,
+    wobei 80 vom Hundert des beitragspflichtigen Arbeitsentgelts aus einem
+    nicht geringfügigen Beschäftigungsverhältnis abzuziehen sind, und bei
+    gleichzeitigem Bezug von Krankengeld neben einer anderen Leistung das
+    dem Krankengeld zugrundeliegende Einkommen nicht zu berücksichtigen
+    ist,
 
 
 2a. bei Personen, die im Anschluss an den Bezug von Bürgergeld nach § 19
@@ -9265,9 +9388,9 @@ Kalenderjahres geltenden Geringfügigkeitsgrenze.
 
 7.  bei Arbeitnehmern, die nach dem Altersteilzeitgesetz
     Aufstockungsbeträge zum Krankengeld, Krankengeld der Sozialen
-    Entschädigung, Verletztengeld, Übergangsgeld oder Krankentagegeld
-    erhalten, für die sich nach § 163 Abs. 5 Satz 2 ergebende
-    beitragspflichtige Einnahme
+    Entschädigung, Krankengeld der Soldatenentschädigung, Verletztengeld,
+    Übergangsgeld oder Krankentagegeld erhalten, für die sich nach § 163
+    Abs. 5 Satz 2 ergebende beitragspflichtige Einnahme
 
     a)  von der Bundesagentur oder, im Fall der Leistungserbringung nach § 10
         Abs. 2 Satz 2 des Altersteilzeitgesetzes, von den Arbeitgebern, wenn
@@ -9321,9 +9444,9 @@ Die Beiträge werden getragen
 
 (1) Die Beiträge werden getragen
 
-1.  bei Wehr- oder Zivildienst Leistenden, ehemaligen Soldaten auf Zeit
-    während des Bezugs von Übergangsgebührnissen nach § 11 des
-    Soldatenversorgungsgesetzes, Personen in einem Wehrdienstverhältnis
+1.  bei Wehr- oder Zivildienstleistenden, früheren Soldaten auf Zeit
+    während des Bezugs von Übergangsgebührnissen nach dem
+    Soldatenversorgungsgesetz, Personen in einem Wehrdienstverhältnis
     besonderer Art nach § 6 des Einsatz-Weiterverwendungsgesetzes und für
     Kindererziehungszeiten vom Bund,
 
@@ -9341,8 +9464,9 @@ Die Beiträge werden getragen
         Geringfügigkeitsgrenze nicht übersteigt,
 
 
-    b)  Krankengeld der Sozialen Entschädigung, Übergangsgeld oder
-        Arbeitslosengeld beziehen, von den Leistungsträgern,
+    b)  Krankengeld der Sozialen Entschädigung, Krankengeld der
+        Soldatenentschädigung, Übergangsgeld oder Arbeitslosengeld beziehen,
+        von den Leistungsträgern,
 
 
     c)  Krankengeld nach § 44a des Fünften Buches beziehen, vom
@@ -9399,6 +9523,11 @@ Die Beiträge werden getragen
 4.  bei Entwicklungshelfern, bei Personen, die für eine begrenzte Zeit im
     Ausland beschäftigt sind, bei sekundierten Personen oder bei sonstigen
     im Ausland beschäftigten Personen von den antragstellenden Stellen,
+
+
+4a. bei Personen, die Erwerbsschadensausgleich nach dem
+    Soldatenentschädigungsgesetz beziehen, von der antragstellenden
+    Stelle.
 
 
 5.  bei Zeiten der Arbeitsunfähigkeit oder der Ausführung von Leistungen
@@ -9502,10 +9631,10 @@ des Vierten Buches entsprechend.
 
 Für Beschäftigte, die nach § 6 Absatz 1 Satz 1 Nummer 1 von der
 Versicherungspflicht befreit sind, zahlen die Arbeitgeber einen
-Zuschuss in Höhe der Hälfte des Beitrags zu einer berufsständischen
-Versorgungseinrichtung, höchstens aber die Hälfte des Beitrags, der zu
-zahlen wäre, wenn die Beschäftigten nicht von der Versicherungspflicht
-in der gesetzlichen Rentenversicherung befreit worden wären.
+Zuschuss zum Beitrag zu einer berufsständischen Versorgungseinrichtung
+in Höhe des Anteils, den sie zu tragen hätten, wenn die Beschäftigten
+nicht von der Versicherungspflicht in der gesetzlichen
+Rentenversicherung befreit worden wären.
 
 
 ##### Vierter Titel - Zahlung der Beiträge
@@ -9561,9 +9690,9 @@ gilt Absatz 1 entsprechend.
 
 (1) Die Künstlersozialkasse zahlt für nachgewiesene Zeiten des Bezugs
 von Krankengeld, Verletztengeld, Krankengeld der Sozialen
-Entschädigung, Übergangsgeld oder Mutterschaftsgeld sowie für
-nachgewiesene Anrechnungszeiten von Künstlern und Publizisten keine
-Beiträge.
+Entschädigung, Krankengeld der Soldatenentschädigung, Übergangsgeld
+oder Mutterschaftsgeld sowie für nachgewiesene Anrechnungszeiten von
+Künstlern und Publizisten keine Beiträge.
 
 (2) Die Künstlersozialkasse ist zur Zahlung eines Beitrags für
 Künstler und Publizisten nur insoweit verpflichtet, als diese ihren
@@ -9606,12 +9735,22 @@ Rentenversicherung Bund durch Vereinbarung regeln.
 
 ###### § 176b Beitragszahlung und Abrechnung für Bezieher von Übergangsgebührnissen
 
-Das Nähere über Zahlung und Abrechnung der Beiträge für ehemalige
+Das Nähere über Zahlung und Abrechnung der Beiträge für frühere
 Soldaten auf Zeit bei Bezug von Übergangsgebührnissen können das
 Bundesministerium der Verteidigung oder die von ihm bestimmte Stelle
 und die Deutsche Rentenversicherung Bund durch Vereinbarung regeln.
 Die Vereinbarung bedarf der Zustimmung des Bundesministeriums für
 Arbeit und Soziales.
+
+
+###### § 176c Beitragszahlung und Abrechnung für Bezieher von Erwerbsschadensausgleich
+
+Das Nähere über Zahlung und Abrechnung der Beiträge für Personen, die
+Erwerbsschadensausgleich nach dem Soldatenentschädigungsgesetz
+beziehen, können das Bundesministerium der Verteidigung oder die von
+ihm bestimmte Stelle und die Deutsche Rentenversicherung Bund durch
+Vereinbarung regeln. Die Vereinbarung bedarf des Einvernehmens des
+Bundesministeriums für Arbeit und Soziales.
 
 
 ###### § 177 Beitragszahlung für Kindererziehungszeiten
@@ -9985,11 +10124,11 @@ Nachversicherten durchgeführt, gilt
 mit der Zahlung der Beiträge an den Träger der Rentenversicherung oder
 in den Fällen des Absatzes 1 Satz 3 mit dem Eintritt der
 Voraussetzungen für die Nachversicherung als in der Rentenversicherung
-übertragen. In den Fällen des Satzes 2 Nr. 2 gelten für die Ermittlung
-des Abschlags an Entgeltpunkten § 76 Abs. 4 und § 264a Abs. 2
-entsprechend; an die Stelle des Monatsbetrags der Rentenanwartschaft
-tritt der vom Familiengericht für die ausgleichsberechtigte Person
-durch interne Teilung festgesetzte monatliche Betrag.
+übertragen. In den Fällen des Satzes 2 Nr. 2 gilt für die Ermittlung
+des Abschlags an Entgeltpunkten § 76 Abs. 4 entsprechend; an die
+Stelle des Monatsbetrags der Rentenanwartschaft tritt der vom
+Familiengericht für die ausgleichsberechtigte Person durch interne
+Teilung festgesetzte monatliche Betrag.
 
 (2a) Beiträge, die für frühere Soldaten auf Zeit während des Bezugs
 von Übergangsgebührnissen gezahlt worden sind, gelten bis zum Ablauf
@@ -10255,9 +10394,9 @@ haben oder ab dem eine Rente wegen Alters ohne Rentenminderungen
 bezogen werden kann.
 
 (1a) Grundlage für die Ausgleichszahlung ist die Auskunft nach § 109
-Absatz 5 Satz 4. Ein berechtigtes Interesse im Sinne des § 109 Absatz
-1 Satz 3 für diese Auskunft liegt nach Vollendung des 50. Lebensjahres
-vor.
+Absatz 5 Satz 4. Ein hierfür berechtigtes Interesse im Sinne des § 109
+Absatz 1 Satz 3 für diese Auskunft liegt nur nach Vollendung des 50.
+Lebensjahres vor.
 
 (2) Beiträge können bis zu der Höhe gezahlt werden, die sich nach der
 Auskunft über die Höhe der zum Ausgleich einer Rentenminderung bei
@@ -10289,12 +10428,11 @@ Erstattung gezahlter Beiträge erfolgt nicht.
 
 ###### § 187b Zahlung von Beiträgen bei Abfindungen von Anwartschaften auf betriebliche Altersversorgung oder von Anrechten bei der Versorgungsausgleichskasse
 
-(1) Versicherte, die bei Beendigung eines Arbeitsverhältnisses nach
-Maßgabe des Gesetzes zur Verbesserung der betrieblichen
-Altersversorgung eine Abfindung für eine unverfallbare Anwartschaft
-auf betriebliche Altersversorgung erhalten haben, können innerhalb
-eines Jahres nach Zahlung der Abfindung Beiträge zur allgemeinen
-Rentenversicherung bis zur Höhe der geleisteten Abfindung zahlen.
+(1) Bei Beendigung eines Arbeitsverhältnisses kann eine Abfindung für
+eine unverfallbare Anwartschaft auf betriebliche Altersversorgung nach
+Maßgabe des Betriebsrentengesetzes innerhalb eines Jahres nach Zahlung
+der Abfindung als Beitrag zur allgemeinen Rentenversicherung bis zur
+Höhe der geleisteten Abfindung gezahlt werden.
 
 (1a) Absatz 1 gilt entsprechend für die Abfindung von Anrechten, die
 bei der Versorgungsausgleichskasse begründet wurden.
@@ -10414,7 +10552,8 @@ Wehrdienstes zu melden.
 und zivilgesellschaftliche Aufgaben Beginn und Ende des Zivildienstes
 zu melden.
 
-(3) § 28a Abs. 5 und § 28c des Vierten Buches gelten entsprechend.
+(3) § 28a Absatz 5, § 28b Absatz 1, die §§ 28c und 95 des Vierten
+Buches gelten entsprechend.
 
 
 ###### § 192a Meldepflicht für Zeiten einer besonderen Auslandsverwendung
@@ -10423,19 +10562,30 @@ zu melden.
 Entgeltpunkten nach § 76e zu ermitteln sind, hat das Bundesministerium
 der Verteidigung oder die von ihm bestimmte Stelle zu melden.
 
-(2) § 28a Absatz 5 und § 28c des Vierten Buches gelten entsprechend.
+(2) § 28a Absatz 5, § 28b Absatz 1, die §§ 28c und 95 des Vierten
+Buches gelten entsprechend.
 
 
 ###### § 192b Meldepflichten bei Bezug von Übergangsgebührnissen
 
-(1) Bei ehemaligen Soldaten auf Zeit, die Übergangsgebührnisse
-beziehen, hat das Bundesministerium der Verteidigung oder die von ihm
-bestimmte Stelle Beginn und Ende des Bezuges der Übergangsgebührnisse
-zu melden.
+(1) Bei früheren Soldaten auf Zeit, die Übergangsgebührnisse beziehen,
+hat das Bundesministerium der Verteidigung oder die von ihm bestimmte
+Stelle Beginn und Ende des Bezuges der Übergangsgebührnisse zu melden.
 
-(2) § 28a Absatz 1 Satz 2, Absatz 3 und 5, § 28b Absatz 1, die §§ 28c
-und 95 Absatz 1 Satz 1 und 2 und Absatz 3 des Vierten Buches gelten
-entsprechend.
+(2) § 28a Absatz 5, § 28b Absatz 1, die §§ 28c und 95 des Vierten
+Buches gelten entsprechend.
+
+
+###### § 192c Meldepflichten bei Bezug von Erwerbsschadensausgleich
+
+(1) Bei Personen, die Erwerbsschadensausgleich nach dem
+Soldatenentschädigungsgesetz beziehen, hat das Bundesministerium der
+Verteidigung oder die von ihm bestimmte Stelle Beginn und Ende des
+Bezuges des Erwerbsschadensausgleichs sowie den Betrag des
+Erwerbsschadensausgleichs, der im gemeldeten Zeitraum gezahlt wurde,
+in vollen Euro zu melden.
+
+(2) Die §§ 28c und 95 des Vierten Buches gelten entsprechend.
 
 
 ###### § 193 Meldung von sonstigen rechtserheblichen Zeiten
@@ -10479,9 +10629,9 @@ von ihm bestimmte Stelle über die beitragspflichtigen Einnahmen von
 Beziehern von Übergangsgebührnissen und die Pflegekassen sowie die
 privaten Versicherungsunternehmen über die beitragspflichtigen
 Einnahmen nicht erwerbsmäßig tätiger Pflegepersonen zu erstatten.
-Absatz 1 Satz 6 gilt entsprechend. Die Meldepflicht nach § 191 Satz 1
-Nummer 2 und nach den §§ 192b und 44 Absatz 3 des Elften Buches bleibt
-unberührt.
+Absatz 1 Satz 6 gilt entsprechend. Die Meldepflichten nach § 191 Satz
+1 Nummer 2, den §§ 192b und 192c dieses Buches und nach § 44 Absatz 3
+des Elften Buches bleiben unberührt.
 
 (3) Die Beitragsberechnung erfolgt nach der tatsächlichen
 beitragspflichtigen Einnahme.
@@ -10567,7 +10717,8 @@ Rentenversicherung zur Wahrnehmung ihrer Aufgaben
     Jahr der Geburt und die Anschrift der alleinigen oder der Hauptwohnung
     oder bei Wegzug in das Ausland, soweit möglich, den Wohnsitzstaat und
     die Zuzugsanschrift des überlebenden Ehegatten oder Lebenspartners des
-    Verstorbenen,
+    Verstorbenen und das Datum der letzten Eheschließung oder der letzten
+    Begründung der Lebenspartnerschaft,
 
 
 2.  nach § 150 Absatz 1 Satz 1 Nummer 9 bei einer Eheschließung oder einer
@@ -10652,10 +10803,6 @@ Datenstelle der Rentenversicherung hat die gemeldeten Daten an den
 zuständigen Träger der Rentenversicherung weiterzuleiten.
 
 (4) (weggefallen)
-
-
-###### § 196a (weggefallen)
-
 
 
 ##### Dritter Titel - Wirksamkeit der Beitragszahlung
@@ -11069,7 +11216,7 @@ stimmen sich darüber ab, welche Zahlungspflichtigen sie prüfen. Soweit
 die Prüfungen durch die Regionalträger durchgeführt werden, ist
 örtlich der Regionalträger zuständig, in dessen Bereich der
 Zahlungspflichtige seinen Sitz oder Wohnsitz hat. Eine Prüfung beim
-Arbeitgeber nach § 28p des Vierten Buches soll zusammen mit einer
+Arbeitgeber nach § 28p des Vierten Buches kann zusammen mit einer
 Prüfung bei den Zahlungspflichtigen durchgeführt werden; eine
 entsprechende Kennzeichnung des Arbeitgebers im Dateisystem nach § 28p
 Abs. 8 Satz 1 des Vierten Buches ist zulässig.
@@ -11219,80 +11366,46 @@ entsprechend.
 (1) Der Bund leistet zu den Ausgaben der allgemeinen
 Rentenversicherung Zuschüsse.
 
-(2) Der Bundeszuschuss zu den Ausgaben der allgemeinen
-Rentenversicherung ändert sich im jeweils folgenden Kalenderjahr in
-dem Verhältnis, in dem die Bruttolöhne und -gehälter je Arbeitnehmer
-(§ 68 Abs. 2 Satz 1) im vergangenen Kalenderjahr zu den entsprechenden
-Bruttolöhnen und -gehältern im vorvergangenen Kalenderjahr stehen. Bei
-Veränderungen des Beitragssatzes ändert sich der Bundeszuschuss
-zusätzlich in dem Verhältnis, in dem der Beitragssatz des Jahres, für
-das er bestimmt wird, zum Beitragssatz des Vorjahres steht. Bei
-Anwendung von Satz 2 ist jeweils der Beitragssatz zugrunde zu legen,
-der sich ohne Berücksichtigung des zusätzlichen Bundeszuschusses nach
-Absatz 3 und des Erhöhungsbetrags nach Absatz 4 ergeben würde. Der
-Bundeszuschuss wird in den Jahren 2019 und 2020 um jeweils 400
-Millionen Euro, im Jahr 2021 um 1,5 Milliarden Euro, im Jahr 2022 um
-560 Millionen Euro und in den Jahren 2023 bis 2025 um jeweils 480
-Millionen Euro erhöht; diese Beträge sind jeweils bei den Änderungen
-des Bundeszuschusses in den darauf folgenden Kalenderjahren nach den
-Sätzen 1 bis 3 zu berücksichtigen.
+(2) Ausgehend von einem Betrag von 60 798 122 554,45 Euro im Jahr 2025
+wird der allgemeine Bundeszuschuss für das jeweils folgende
+Kalenderjahr neu bestimmt, indem der für das laufende Kalenderjahr
+ermittelte allgemeine Bundeszuschuss multipliziert wird mit
 
-(2a) Der allgemeine Bundeszuschuss wird für das Jahr 2006 um 170
-Millionen Euro und ab dem Jahr 2007 um jeweils 340 Millionen Euro
-pauschal vermindert. Abweichungen des pauschalierten
-Minderungsbetrages von den tatsächlichen zusätzlichen Einnahmen eines
-Kalenderjahres durch Mehreinnahmen aus der Begrenzung der
-Sozialversicherungsfreiheit für Sonn-, Feiertags- und Nachtzuschläge
-auf einen Stundenlohn bis zu 25 Euro und aufgrund der Erhöhung der
-Pauschalabgaben für geringfügige Beschäftigung ohne
-Versicherungspflicht im gewerblichen Bereich von 12 vom Hundert auf 15
-vom Hundert des Arbeitsentgelts in der gesetzlichen Rentenversicherung
-sind mit dem Bundeszuschuss nach Absatz 2 des auf die Abrechnung
-folgenden Haushaltsjahres zu verrechnen; Ausgangsbetrag für den
-Bundeszuschuss ist der jeweils zuletzt festgestellte Bundeszuschuss
-nach Absatz 2 ohne Minderungsbetrag.
+1.  dem Faktor für die Veränderung der Bruttolöhne und -gehälter je
+    Arbeitnehmer nach § 68 Absatz 2 Satz 1 des vergangenen Kalenderjahres
+    gegenüber dem vorvergangenen Kalenderjahr sowie
 
-(3) Der Bund zahlt zur pauschalen Abgeltung nicht beitragsgedeckter
-Leistungen an die allgemeine Rentenversicherung in jedem Kalenderjahr
-einen zusätzlichen Bundeszuschuss. Der zusätzliche Bundeszuschuss
-beträgt für die Monate April bis Dezember des Jahres 1998 9,6
-Milliarden Deutsche Mark und für das Jahr 1999 15,6 Milliarden
-Deutsche Mark. Für die Kalenderjahre ab 2000 verändert sich der
-zusätzliche Bundeszuschuss jährlich entsprechend der Veränderungsrate
-der Steuern vom Umsatz; hierbei bleiben Änderungen der Steuersätze im
-Jahr ihres Wirksamwerdens unberücksichtigt. Der sich nach Satz 3
-ergebende Betrag des zusätzlichen Bundeszuschusses wird für das Jahr
-2000 um 1,1 Milliarden Deutsche Mark, für das Jahr 2001 um 1,1
-Milliarden Deutsche Mark, für das Jahr 2002 um 664,679 Millionen Euro
-und für das Jahr 2003 um 102,258 Millionen Euro gekürzt. Auf den
-zusätzlichen Bundeszuschuss werden die Erstattungen nach § 291b
-angerechnet. Für die Zahlung, Aufteilung und Abrechnung des
-zusätzlichen Bundeszuschusses sind die Vorschriften über den
-Bundeszuschuss anzuwenden.
 
-(4) Der zusätzliche Bundeszuschuss nach Absatz 3 wird um die Einnahmen
-des Bundes aus dem Gesetz zur Fortführung der ökologischen
-Steuerreform abzüglich eines Betrages von 2,5 Milliarden Deutsche Mark
-im Jahr 2000 sowie eines Betrages von 1,9 Milliarden Deutsche Mark ab
-dem Jahr 2001 erhöht (Erhöhungsbetrag). Als Erhöhungsbetrag nach Satz
-1 werden für das Jahr 2000 2,6 Milliarden Deutsche Mark, für das Jahr
-2001 8,14 Milliarden Deutsche Mark, für das Jahr 2002 6,81040
-Milliarden Euro und für das Jahr 2003 9,51002 Milliarden Euro
-festgesetzt. Für die Kalenderjahre nach 2003 verändern sich die
-Erhöhungsbeträge in dem Verhältnis, in dem die Bruttolöhne und
--gehälter im vergangenen Kalenderjahr zu den entsprechenden
-Bruttolöhnen und -gehältern im vorvergangenen Kalenderjahr stehen; §
-68 Abs. 2 Satz 1 gilt entsprechend. Für die Zahlung, Aufteilung und
-Abrechnung des Erhöhungsbetrags sind die Vorschriften über den
-Bundeszuschuss anzuwenden.
+2.  dem Faktor für die Veränderung des Beitragssatzes zur allgemeinen
+    Rentenversicherung des folgenden Kalenderjahres gegenüber dem
+    laufenden Kalenderjahr.
 
-(5) Ab dem Jahr 2003 verringert sich der Erhöhungsbetrag um 409
-Millionen Euro. Bei der Feststellung der Veränderung der
-Erhöhungsbeträge nach Absatz 4 Satz 3 ist der Abzugsbetrag nach Satz 1
-nicht zu berücksichtigen.
 
-(6) Die Festsetzung und Auszahlung der Monatsraten sowie die
-Abrechnung führt das Bundesamt für Soziale Sicherung durch.
+
+
+(3) Ausgehend von einem Betrag von 15 717 551 040,57 Euro im Jahr 2025
+wird der zusätzliche Bundeszuschuss ohne den Erhöhungsbetrag nach
+Absatz 4 für das jeweils folgende Kalenderjahr neu bestimmt, indem der
+für das laufende Kalenderjahr ermittelte zusätzliche Bundeszuschuss
+ohne den Erhöhungsbetrag nach Absatz 4 mit dem Faktor für die
+Veränderung des erwarteten Aufkommens der Steuern vom Umsatz des
+folgenden Jahres gegenüber dem laufenden Jahr multipliziert wird.
+Dabei bleiben Änderungen der Steuersätze im Jahr ihres Wirksamwerdens
+unberücksichtigt. Mit dem zusätzlichen Bundeszuschuss werden die nicht
+beitragsgedeckten Leistungen pauschal abgegolten.
+
+(4) Der zusätzliche Bundeszuschuss nach Absatz 3 wird um einen
+Erhöhungsbetrag ergänzt. Ausgehend von dem Betrag von
+17 586 056 949,39 Euro im Jahr 2025 wird dieser für das jeweils
+folgende Kalenderjahr neu bestimmt, indem der für das laufende
+Kalenderjahr ermittelte Erhöhungsbetrag mit dem Faktor für die
+Veränderung der Bruttolöhne und -gehälter des vergangenen Jahres
+gegenüber dem vorvergangenen Jahr multipliziert wird. § 68 Absatz 2
+Satz 1 gilt entsprechend.
+
+(5) Die Festsetzung und Auszahlung der Monatsraten sowie die
+Abrechnung der Bundeszuschüsse führt das Bundesamt für Soziale
+Sicherung durch.
 
 
 ##### § 214 Liquiditätssicherung
@@ -11391,9 +11504,8 @@ Nachhaltigkeitsrücklage nicht ausreichen, die Zahlungsverpflichtungen
 zu erfüllen.
 
 
-##### § 218
+##### § 218 (weggefallen)
 
-(weggefallen)
 
 
 ##### § 219 Finanzverbund in der allgemeinen Rentenversicherung
@@ -11766,44 +11878,6 @@ Die Vorschriften dieses Abschnitts ergänzen die Vorschriften der
 vorangehenden Kapitel für Sachverhalte, die von dem Zeitpunkt des
 Inkrafttretens der Vorschriften der vorangehenden Kapitel an nicht
 mehr oder nur noch übergangsweise eintreten können.
-
-
-##### § 228a Besonderheiten für das Beitrittsgebiet
-
-(1) Soweit Vorschriften dieses Buches bei Arbeitsentgelten,
-Arbeitseinkommen oder Beitragsbemessungsgrundlagen
-
-1.  an die Bezugsgröße anknüpfen, ist die Bezugsgröße für das
-    Beitrittsgebiet (Bezugsgröße (Ost)),
-
-
-2.  an die Beitragsbemessungsgrenze anknüpfen, ist die
-    Beitragsbemessungsgrenze für das Beitrittsgebiet
-    (Beitragsbemessungsgrenze (Ost), Anlage 2a)
-
-
-
-maßgebend, wenn die Einnahmen aus einer Beschäftigung oder Tätigkeit
-im Beitrittsgebiet erzielt werden. Satz 1 gilt für die Ermittlung der
-Beitragsbemessungsgrundlagen bei sonstigen Versicherten entsprechend.
-
-(2)(weggefallen)
-
-(3) Soweit Vorschriften dieses Buches bei Einkommensanrechnung auf
-Renten wegen Todes an den aktuellen Rentenwert anknüpfen, ist der
-aktuelle Rentenwert (Ost) maßgebend, wenn der Berechtigte seinen
-gewöhnlichen Aufenthalt im Beitrittsgebiet hat.
-
-
-##### § 228b Maßgebende Werte in der Anpassungsphase
-
-Bei der Festsetzung von Werten für Zeiten bis einschließlich 31.
-Dezember 2024 sind, soweit Vorschriften dieses Buches auf die
-Veränderung der Bruttolöhne und -gehälter je Arbeitnehmer (§ 68 Abs. 2
-Satz 1) oder auf das Durchschnittsentgelt abstellen, die für das
-Bundesgebiet ohne das Beitrittsgebiet ermittelten Werte maßgebend,
-sofern nicht in den nachstehenden Vorschriften etwas anderes bestimmt
-ist.
 
 
 #### Zweiter Unterabschnitt - Versicherter Personenkreis
@@ -16091,108 +16165,17 @@ ausgeübte Tätigkeiten sind ständige Arbeiten unter Tage.
 
 
 
-##### § 254b Rentenformel für den Monatsbetrag der Rente
-
-(1) Bis zum 30. Juni 2024 werden persönliche Entgeltpunkte (Ost) und
-ein aktueller Rentenwert (Ost) für die Ermittlung des Monatsbetrags
-der Rente aus Zeiten außerhalb der Bundesrepublik Deutschland ohne das
-Beitrittsgebiet gebildet, die an die Stelle der persönlichen
-Entgeltpunkte und des aktuellen Rentenwerts treten.
-
-(2) Liegen der Rente auch persönliche Entgeltpunkte zugrunde, die mit
-dem aktuellen Rentenwert zu vervielfältigen sind, sind
-Monatsteilbeträge zu ermitteln, deren Summe den Monatsbetrag der Rente
-ergibt.
-
-
-##### § 254c Anpassung der Renten
-
-Renten, denen ein aktueller Rentenwert (Ost) zugrunde liegt, werden
-angepasst, indem der bisherige aktuelle Rentenwert (Ost) durch den
-neuen aktuellen Rentenwert (Ost) ersetzt wird. Rentenbezieher erhalten
-eine Anpassungsmitteilung, wenn sich die Höhe des aktuellen
-Rentenwerts (Ost) verändert.
-
-
-##### § 254d Entgeltpunkte (Ost)
-
-(1) An die Stelle der ermittelten Entgeltpunkte treten Entgeltpunkte
-(Ost) für
-
-1.  Zeiten mit Beiträgen für eine Beschäftigung oder selbständige
-    Tätigkeit,
-
-
-2.  Pflichtbeitragszeiten aufgrund der gesetzlichen Pflicht zur Leistung
-    von Wehrdienst oder Zivildienst oder aufgrund eines
-    Wehrdienstverhältnisses besonderer Art nach § 6 des Einsatz-
-    Weiterverwendungsgesetzes oder aufgrund des Bezugs von
-    Sozialleistungen, mit Ausnahme des Bezugs von Arbeitslosengeld II,
-
-
-3.  Zeiten der Erziehung eines Kindes,
-
-
-4.  Zeiten mit freiwilligen Beiträgen vor dem 1. Januar 1992 oder danach
-    bis zum 31. März 1999 zur Aufrechterhaltung des Anspruchs auf Rente
-    wegen verminderter Erwerbsfähigkeit (§ 279b) bei gewöhnlichem
-    Aufenthalt,
-
-
-4a. Zeiten der nicht erwerbsmäßigen Pflege,
-
-
-4b. zusätzliche Entgeltpunkte für Arbeitsentgelt aus nach § 23b Abs. 2
-    Satz 1 bis 4 des Vierten Buches aufgelösten Wertguthaben auf Grund
-    einer Arbeitsleistung
+##### § 254b (weggefallen)
 
 
 
-im Beitrittsgebiet und
-
-5.  Zeiten mit Beiträgen für eine Beschäftigung oder selbständige
-    Tätigkeit,
-
-
-6.  Zeiten der Erziehung eines Kindes,
-
-
-7.  Zeiten mit freiwilligen Beiträgen bei gewöhnlichem Aufenthalt
+##### § 254c (weggefallen)
 
 
 
-im jeweiligen Geltungsbereich der Reichsversicherungsgesetze außerhalb
-der Bundesrepublik Deutschland (Reichsgebiets-Beitragszeiten).
+##### § 254d Umbenennung in Entgeltpunkte
 
-(2) Absatz 1 findet keine Anwendung auf Zeiten vor dem 19. Mai 1990
-
-1.  von Versicherten, die ihren gewöhnlichen Aufenthalt am 18. Mai 1990
-    oder, falls sie verstorben sind, zuletzt vor dem 19. Mai 1990
-
-    a)  im Gebiet der Bundesrepublik Deutschland ohne das Beitrittsgebiet
-        hatten oder
-
-
-    b)  im Ausland hatten und unmittelbar vor Beginn des Auslandsaufenthalts
-        ihren gewöhnlichen Aufenthalt im Gebiet der Bundesrepublik Deutschland
-        ohne das Beitrittsgebiet hatten,
-
-
-
-
-
-2.  mit Beiträgen aufgrund einer Beschäftigung bei einem Unternehmen im
-    Beitrittsgebiet, für das Arbeitsentgelte in Deutsche Mark gezahlt
-    worden sind.
-
-
-
-Satz 1 gilt nicht für Zeiten, die von der Wirkung einer
-Beitragserstattung nach § 286d Abs. 2 nicht erfasst werden.
-
-(3) Für Zeiten mit Beiträgen für eine Beschäftigung oder selbständige
-Tätigkeit und für Zeiten der Erziehung eines Kindes vor dem 1. Februar
-1949 in Berlin gelten ermittelte Entgeltpunkte nicht als Entgeltpunkte
+Zum 1. Juli 2024 treten Entgeltpunkte an die Stelle von Entgeltpunkten
 (Ost).
 
 
@@ -16212,61 +16195,12 @@ dem Ende des dritten Kalendermonats nach Ablauf des Monats, in dem der
 Ehegatte verstorben ist, maßgebend ist.
 
 
-##### § 255a Bestimmung des aktuellen Rentenwerts (Ost) für die Zeit vom 1. Juli 2018 bis zum 1. Juli 2023
-
-(1) Der aktuelle Rentenwert (Ost) beträgt zum
-1\. Juli 2018 95,8 Prozent des aktuellen Rentenwerts,
-1\. Juli 2019 96,5 Prozent des aktuellen Rentenwerts,
-1\. Juli 2020 97,2 Prozent des aktuellen Rentenwerts,
-1\. Juli 2021 97,9 Prozent des aktuellen Rentenwerts,
-1\. Juli 2022 98,6 Prozent des aktuellen Rentenwerts,
-1\. Juli 2023 99,3 Prozent des aktuellen Rentenwerts.
-
-(2) Für die Zeit vom 1. Juli 2018 bis zum 1. Juli 2023 ist ein
-Vergleichswert zu dem nach Absatz 1 berechneten aktuellen Rentenwert
-(Ost) zu ermitteln. Der Vergleichswert wird zum 1. Juli eines jeden
-Jahres ausgehend von seinem Vorjahreswert nach dem für die Veränderung
-des aktuellen Rentenwerts geltenden Verfahren nach den §§ 68 und 255d
-ermittelt. Für die Ermittlung des Vergleichswerts zum 1. Juli 2018
-gilt der am 30. Juni 2018 geltende aktuelle Rentenwert (Ost) als
-Vorjahreswert. Abweichend von § 68 sind für die Ermittlung des
-Vergleichswerts jeweils die für das Beitrittsgebiet ermittelten
-Bruttolöhne und -gehälter je Arbeitnehmer (§ 68 Absatz 2 Satz 1)
-maßgebend. Ferner ist § 68 Absatz 2 Satz 3 mit der Maßgabe anzuwenden,
-dass die für das Beitrittsgebiet ermittelten beitragspflichtigen
-Bruttolöhne und -gehälter je Arbeitnehmer ohne Beamte einschließlich
-der Bezieher von Arbeitslosengeld zugrunde zu legen sind. Übersteigt
-der Vergleichswert den nach Absatz 1 berechneten aktuellen Rentenwert
-(Ost), ist der Vergleichswert als aktueller Rentenwert (Ost) zum 1.
-Juli festzusetzen. Der festzusetzende aktuelle Rentenwert (Ost) ist
-mindestens um den Prozentsatz anzupassen, um den der aktuelle
-Rentenwert angepasst wird und darf den zum 1. Juli festzusetzenden
-aktuellen Rentenwert nicht übersteigen.
-
-(3) Für die Ermittlung des Vergleichswerts zum 1. Juli 2022 gilt der
-Wert 33,41 Euro als Vorjahreswert.
-
-
-##### § 255b Verordnungsermächtigung
-
-(1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
-Zustimmung des Bundesrates den zum 1. Juli eines Jahres maßgebenden
-aktuellen Rentenwert (Ost) bis zum 30. Juni des jeweiligen Jahres zu
-bestimmen.
-
-(2) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
-Zustimmung des Bundesrates zum Ende eines jeden Kalenderjahres
-
-1.  für das vergangene Kalenderjahr den Wert der Anlage 10
-
-
-2.  für das folgende Kalenderjahr den vorläufigen Wert der Anlage 10
+##### § 255a (weggefallen)
 
 
 
-als das Vielfache des Durchschnittsentgelts der Anlage 1 zum
-Durchschnittsentgelt im Beitrittsgebiet zu bestimmen. Die Werte nach
-Satz 1 sind letztmals für das Jahr 2018 zu bestimmen.
+##### § 255b (weggefallen)
+
 
 
 ##### § 255c Anwendung des aktuellen Rentenwerts zum 1. Juli 2024
@@ -16314,20 +16248,24 @@ Beitrittsgebiet ist dabei bei der Berechnung der Regelaltersrente mit
 45 Entgeltpunkten der aktuelle Rentenwert (Ost) zugrunde zu legen.
 
 (4) Für die Bestimmung des aktuellen Rentenwerts zum 1. Juli 2025 sind
-abweichend von § 68 Absatz 7 die folgenden Daten zugrunde zu legen:
 
-1.  die dem Statistischen Bundesamt zu Beginn des Jahres 2025 für die
-    Jahre 2022 und 2023 vorliegenden Daten zu den gesamtdeutschen
-    Bruttolöhnen und -gehältern je Arbeitnehmer (§ 68 Absatz 2 Satz 1) und
-
-
-2.  die der Deutschen Rentenversicherung Bund zu Beginn des Jahres 2025
-    für das Jahr 2022 vorliegenden Daten zu den gesamtdeutschen
-    beitragspflichtigen Bruttolöhnen und -gehältern je Arbeitnehmer ohne
-    Beamte einschließlich der Bezieher von Arbeitslosengeld.
+1.  abweichend von § 68 Absatz 7 Satz 2 bei der Ermittlung des Faktors
+    nach § 68 Absatz 2 Satz 3 die dem Statistischen Bundesamt zu Beginn
+    des Jahres 2024 für die Jahre 2022 und 2023 vorliegenden Daten zu den
+    gesamtdeutschen Bruttolöhnen und -gehältern je Arbeitnehmer (§ 68
+    Absatz 2 Satz 1) und
 
 
+2.  abweichend von § 68 Absatz 7 Satz 4 bei der Ermittlung des Faktors
+    nach § 68 Absatz 2 Satz 3 die der Deutschen Rentenversicherung Bund zu
+    Beginn des Jahres 2024 für das Jahr 2022 vorliegenden Daten aus der
+    Versichertenstatistik zu den gesamtdeutschen beitragspflichtigen
+    Bruttolöhnen und -gehältern je Arbeitnehmer ohne Beamte einschließlich
+    der Bezieher von Arbeitslosengeld
 
+
+
+zugrunde zu legen.
 
 (5) Für die Bestimmung des aktuellen Rentenwerts zum 1. Juli 2026 wird
 abweichend von § 68 Absatz 4 als Anzahl an Äquivalenzrentnern für das
@@ -16338,18 +16276,18 @@ Beitrittsgebiet und der Anzahl der Äquivalenzrentner für das Jahr 2024
 für das Beitrittsgebiet ergibt.
 
 
-##### § 255e Niveauschutzklausel für die Zeit vom 1. Juli 2019 bis zum 1. Juli 2025
+##### § 255e Niveauschutzklausel für die Zeit vom 1. Juli 2019 bis zum Ablauf des 1. Juli 2031
 
-(1) Wird in der Zeit vom 1. Juli 2019 bis zum 1. Juli 2025 mit dem
-nach § 68 ermittelten aktuellen Rentenwert das Sicherungsniveau vor
-Steuern nach § 154 Absatz 3a des laufenden Jahres in Höhe von 48
-Prozent unterschritten, ist der aktuelle Rentenwert so anzuheben, dass
-das Sicherungsniveau vor Steuern mindestens 48 Prozent
+(1) Wird in der Zeit vom 1. Juli 2019 bis zum Ablauf des 1. Juli 2031
+mit dem nach § 68 ermittelten aktuellen Rentenwert das
+Sicherungsniveau vor Steuern nach § 154a des laufenden Jahres in Höhe
+von 48 Prozent unterschritten, ist der aktuelle Rentenwert so
+anzuheben, dass das Sicherungsniveau vor Steuern mindestens 48 Prozent
 (Mindestsicherungsniveau) beträgt.
 
 (2) Der für die Einhaltung des Mindestsicherungsniveaus erforderliche
 aktuelle Rentenwert wird ermittelt, indem das verfügbare
-Durchschnittsentgelt nach § 154 Absatz 3a Satz 5 des laufenden Jahres
+Durchschnittsentgelt nach § 154a Absatz 3 Satz 1 des laufenden Jahres
 mit 48 Prozent multipliziert wird und durch das Produkt aus 45 und 12
 und der Nettoquote der Standardrente für das laufende Kalenderjahr
 dividiert wird. Der für die Einhaltung des Mindestsicherungsniveaus
@@ -16371,7 +16309,7 @@ errechnet:
 *    *        ![bgbl1_2022_j0975-1_0030.jpg](bgbl1_2022_j0975-1_0030.jpg)
     *   =
 
-    *   verfügbares Durchschnittsentgelt nach § 154 Absatz 3a Satz 5 des
+    *   verfügbares Durchschnittsentgelt nach § 154a Absatz 3 Satz 1 des
         laufenden Kalenderjahres,
 
 
@@ -16394,11 +16332,8 @@ Der nach dieser Formel ermittelte aktuelle Rentenwert wird auf volle
 Eurocent aufgerundet.
 
 
-##### § 255f Verordnungsermächtigung
+##### § 255f (weggefallen)
 
-Die Bundesregierung hat durch Rechtsverordnung mit Zustimmung des
-Bundesrates zum 1. Juli eines Jahres das Sicherungsniveau vor Steuern
-des jeweiligen Jahres zu bestimmen.
 
 
 ##### § 255g Ausgleichsbedarf ab dem 1. Juli 2021
@@ -16406,15 +16341,15 @@ des jeweiligen Jahres zu bestimmen.
 Der Ausgleichsbedarf beträgt ab dem 1. Juli 2021 0,9883.
 
 
-##### § 255h Schutzklausel in der Zeit vom 1. Juli 2022 bis zum Ablauf des 1. Juli 2025
+##### § 255h Schutzklausel in der Zeit vom 1. Juli 2022 bis zum Ablauf des 1. Juli 2031
 
-(1) Ist in der Zeit vom 1. Juli 2022 bis zum Ablauf des 1. Juli 2025
+(1) Ist in der Zeit vom 1. Juli 2022 bis zum Ablauf des 1. Juli 2031
 der nach § 68 berechnete aktuelle Rentenwert geringer als der
 bisherige aktuelle Rentenwert, ist bei der Berechnung des
 Ausgleichsfaktors nach § 68a Absatz 2 die Niveauschutzklausel nach §
 255e nicht zu beachten.
 
-(2) Ist in der Zeit vom 1. Juli 2022 bis zum Ablauf des 1. Juli 2025
+(2) Ist in der Zeit vom 1. Juli 2022 bis zum Ablauf des 1. Juli 2031
 der nach § 68 berechnete aktuelle Rentenwert höher als der bisherige
 aktuelle Rentenwert, aber kleiner als der nach § 255e Absatz 2
 berechnete aktuelle Rentenwert, erfolgt keine Verrechnung
@@ -16422,7 +16357,7 @@ unterbliebener Minderungswirkungen (Ausgleichsbedarf) mit der Erhöhung
 des aktuellen Rentenwerts. Der Wert des Ausgleichsbedarfs bleibt dann
 unverändert.
 
-(3) Ist in der Zeit vom 1. Juli 2022 bis zum Ablauf des 1. Juli 2025
+(3) Ist in der Zeit vom 1. Juli 2022 bis zum Ablauf des 1. Juli 2031
 der nach § 68 berechnete aktuelle Rentenwert höher als der bisherige
 aktuelle Rentenwert und höher als der nach § 255e Absatz 2 berechnete
 aktuelle Rentenwert und ist der im Vorjahr bestimmte Wert des
@@ -16458,18 +16393,18 @@ Ausgleichsbedarfs dann 1,0000.
 (5) Sind die Absätze 1, 3 und 4 nicht anzuwenden, bleibt der Wert des
 Ausgleichsbedarfs unverändert.
 
-(6) Wird in der Zeit vom 1. Juli 2022 bis zum Ablauf des 1. Juli 2025
+(6) Wird in der Zeit vom 1. Juli 2022 bis zum Ablauf des 1. Juli 2031
 der aktuelle Rentenwert zum 1. Juli nach § 255i festgesetzt, beträgt
 der Ausgleichsbedarf 1,0000. Es erfolgt keine Berechnung des
 Ausgleichsbedarfs nach § 68a in Verbindung mit § 255h.
 
 
-##### § 255i Anpassung nach Mindestsicherungsniveau bis zum Ablauf des 1. Juli 2025
+##### § 255i Anpassung nach Mindestsicherungsniveau bis zum Ablauf des 1. Juli 2031
 
-Wird in der Zeit bis zum Ablauf des 1. Juli 2025 der neue aktuelle
+Wird in der Zeit bis zum Ablauf des 1. Juli 2031 der neue aktuelle
 Rentenwert zum 1. Juli eines Jahres so festgesetzt, dass dieser dem
 Wert nach § 255e Absatz 2 entspricht, so wird in den folgenden Jahren
-bis zum Ablauf des 1. Juli 2025 der aktuelle Rentenwert jeweils zum 1.
+bis zum Ablauf des 1. Juli 2031 der aktuelle Rentenwert jeweils zum 1.
 Juli eines Jahres nach § 255e Absatz 2 festgelegt. Abweichend davon
 verändert sich der bisherige aktuelle Rentenwert zum 1. Juli eines
 Jahres nicht, wenn der nach § 255e Absatz 2 berechnete aktuelle
@@ -16755,10 +16690,6 @@ Zusatzrentenversicherung nicht gezahlt werden konnten.
 anzuwenden.
 
 
-##### § 256d (weggefallen)
-
-
-
 ##### § 257 Entgeltpunkte für Berliner Beitragszeiten
 
 (1) Für Zeiten, für die Beiträge zur
@@ -16920,11 +16851,6 @@ hätte das Versorgungssystem bereits bestanden, im Versorgungssystem
 zurückgelegt worden wären.
 
 
-##### § 259c
-
-(weggefallen)
-
-
 ##### § 260 Beitragsbemessungsgrenzen
 
 Für Zeiten, für die Beiträge aufgrund einer Beschäftigung oder
@@ -16973,8 +16899,7 @@ Entgeltpunkten ergibt.
 
 (2) Die zusätzlichen Entgeltpunkte werden den Kalendermonaten mit
 vollwertigen Pflichtbeiträgen vor dem 1. Januar 1992 zu gleichen
-Teilen zugeordnet; dabei werden Kalendermonaten mit Entgeltpunkten
-(Ost) zusätzliche Entgeltpunkte (Ost) zugeordnet.
+Teilen zugeordnet.
 
 (3) Bei Anwendung der Absätze 1 und 2 gelten Pflichtbeiträge für
 Zeiten, in denen eine Rente aus eigener Versicherung bezogen worden
@@ -17002,11 +16927,11 @@ deshalb Anrechnungszeiten sind, weil Arbeitslosigkeit vor dem 1. März
 1990 im Beitrittsgebiet, jedoch nicht vor dem 1. Juli 1978, vorgelegen
 hat, werden nicht bewertet. Kalendermonate, die nur deshalb
 Anrechnungszeiten sind, weil Arbeitslosigkeit nach dem 30. Juni 1978
-vorgelegen hat, für die vor dem 1. Januar 2023 Arbeitslosenhilfe,
-Arbeitslosengeld oder Arbeitslosengeld II nicht oder Arbeitslosengeld
-II nur darlehensweise gezahlt worden ist oder nur Leistungen nach § 24
-Absatz 3 Satz 1 des Zweiten Buches erbracht worden sind, werden nicht
-bewertet. Kalendermonate, die nur deshalb Anrechnungszeiten sind, weil
+vorgelegen hat, für die vor dem 1. Januar 2023 Arbeitslosenhilfe oder
+Arbeitslosengeld II nicht oder Arbeitslosengeld II nur darlehensweise
+gezahlt worden ist oder nur Leistungen nach § 24 Absatz 3 Satz 1 des
+Zweiten Buches erbracht worden sind, werden nicht bewertet.
+Kalendermonate, die nur deshalb Anrechnungszeiten sind, weil
 Arbeitslosengeld II bis zum 31. Dezember 2022 bezogen worden ist,
 werden nicht bewertet.
 
@@ -17464,17 +17389,6 @@ ermittelten Entgeltpunkte zu berücksichtigen. Dies gilt auch für die
 in den Absätzen 5 und 6 genannten Zeiten.
 
 
-##### § 263a Gesamtleistungsbewertung für beitragsfreie und beitragsgeminderte Zeiten mit Entgeltpunkten (Ost)
-
-Nach der Gesamtleistungsbewertung ermittelte Entgeltpunkte für
-beitragsfreie Zeiten und der Zuschlag an Entgeltpunkten für
-beitragsgeminderte Zeiten werden in dem Verhältnis als Entgeltpunkte
-(Ost) berücksichtigt, in dem die für die Ermittlung des
-Gesamtleistungswerts zugrunde gelegten Entgeltpunkte (Ost) zu allen
-zugrunde gelegten Entgeltpunkten stehen. Dabei ist für Entgeltpunkte
-für Berücksichtigungszeiten § 254d entsprechend anzuwenden.
-
-
 ##### § 264 Zuschläge oder Abschläge beim Versorgungsausgleich
 
 Sind für Rentenanwartschaften Werteinheiten ermittelt worden, ergeben
@@ -17486,23 +17400,8 @@ Bemessungsgrundlage der Rentenversicherung der Arbeiter und der
 Angestellten für dasselbe Jahr zu teilen.
 
 
-##### § 264a Zuschläge oder Abschläge beim Versorgungsausgleich im Beitrittsgebiet
+##### § 264a (weggefallen)
 
-(1) Ein zugunsten oder zulasten von Versicherten durchgeführter
-Versorgungsausgleich wird durch einen Zuschlag oder Abschlag an
-Entgeltpunkten (Ost) berücksichtigt, soweit Entgeltpunkte (Ost)
-übertragen wurden oder das Familiengericht die Umrechnung des
-Monatsbetrags der begründeten Rentenanwartschaften in Entgeltpunkte
-(Ost) nach § 16 Abs. 3 des Versorgungsausgleichsgesetzes angeordnet
-hat.
-
-(2) Die Entgeltpunkte (Ost) werden in der Weise ermittelt, dass der
-Monatsbetrag der Rentenanwartschaften durch den aktuellen Rentenwert
-(Ost) mit seinem Wert bei Ende der Ehezeit oder
-Lebenspartnerschaftszeit geteilt wird.
-
-(3) Die Entgeltpunkte (Ost) treten bei der Anwendung der Vorschriften
-über den Versorgungsausgleich an die Stelle von Entgeltpunkten.
 
 
 ##### § 264b Zuschläge an Entgeltpunkten für Arbeitsentgelt aus geringfügiger versicherungsfreier Beschäftigung
@@ -17520,18 +17419,10 @@ Ermittlung der Zuschläge an Entgeltpunkten nach Satz 1 und 2 gilt §
 
 ##### § 264c Zuschlag bei Hinterbliebenenrenten
 
-(1) Der Zuschlag bei Witwenrenten und Witwerrenten besteht aus
-persönlichen Entgeltpunkten (Ost), wenn den Zeiten der Kindererziehung
-ausschließlich Entgeltpunkte (Ost) zugrunde liegen. Der Zuschlag bei
-Waisenrenten besteht aus persönlichen Entgeltpunkten (Ost), wenn der
-Rente des verstorbenen Versicherten ausschließlich Entgeltpunkte (Ost)
-zugrunde liegen.
-
-(2) Die Witwenrente oder Witwerrente erhöht sich nicht um einen
-Zuschlag an persönlichen Entgeltpunkten, wenn der Ehegatte vor dem 1.
-Januar 2002 verstorben ist oder die Ehe vor diesem Zeitpunkt
-geschlossen wurde und mindestens ein Ehegatte vor dem 2. Januar 1962
-geboren ist.
+Die Witwenrente oder Witwerrente erhöht sich nicht um einen Zuschlag
+an persönlichen Entgeltpunkten, wenn der Ehegatte vor dem 1. Januar
+2002 verstorben ist oder die Ehe vor diesem Zeitpunkt geschlossen
+wurde und mindestens ein Ehegatte vor dem 2. Januar 1962 geboren ist.
 
 
 ##### § 264d Zugangsfaktor
@@ -18006,20 +17897,6 @@ angegebenen Lebensalters maßgebend:
 35 Jahre treten.
 
 
-##### § 265a Knappschaftliche Besonderheiten bei rentenrechtlichen Zeiten im Beitrittsgebiet
-
-Entgeltpunkte aus dem Leistungszuschlag werden in dem Verhältnis als
-Entgeltpunkte (Ost) berücksichtigt, in dem die Kalendermonate mit
-ständigen Arbeiten unter Tage, die gleichzeitig Beitragszeiten mit
-Entgeltpunkten (Ost) sind, zu allen Kalendermonaten mit ständigen
-Arbeiten unter Tage stehen.
-
-
-##### § 265b
-
-(weggefallen)
-
-
 #### Sechster Unterabschnitt - Zusammentreffen von Renten und Einkommen
 
 
@@ -18035,11 +17912,8 @@ nach § 93 Abs. 2 Nr. 1 Buchstabe b und Nr. 2 Buchstabe a geminderte
 Betrag.
 
 
-##### § 267 Rente und Leistungen aus der Unfallversicherung
+##### § 267 (weggefallen)
 
-Bei der Ermittlung der Summe der zusammentreffenden Rentenbeträge
-bleibt bei der Rente aus der Unfallversicherung auch die Kinderzulage
-unberücksichtigt.
 
 
 #### Siebter Unterabschnitt - Beginn von Witwenrenten und Witwerrenten an vor dem 1. Juli 1977 geschiedene Ehegatten und Änderung von Renten beim Versorgungsausgleich
@@ -18227,18 +18101,30 @@ Aufenthalt im Ausland genommen haben, werden zusätzlich ermittelt aus
 
 
 
-(2) Entgeltpunkte für Beitragszeiten nach dem Fremdrentengesetz, die
-nach Absatz 1 aufgrund von Entgeltpunkten (Ost) zusätzlich zu
-berücksichtigen sind, gelten als Entgeltpunkte (Ost).
+(2) (weggefallen)
 
 (3) Zu den Entgeltpunkten von Berechtigten im Sinne von Absatz 1, die
 auf die Höhe der Entgeltpunkte für Bundesgebiets-Beitragszeiten
-begrenzt zu berücksichtigen sind, gehören auch Reichsgebiets-
-Beitragszeiten. Bei der Ermittlung von Entgeltpunkten aus einem
-Leistungszuschlag, aus einem Abschlag aus einem durchgeführten
-Versorgungsausgleich oder Rentensplitting und für den Zuschlag bei
-einer Waisenrente sind Reichsgebiets-Beitragszeiten wie Beitragszeiten
-nach dem Fremdrentengesetz zu berücksichtigen.
+begrenzt zu berücksichtigen sind, gehören auch Entgeltpunkte für
+Reichsgebiets-Beitragszeiten. Reichsgebiets-Beitragszeiten sind
+
+1.  Zeiten mit Beiträgen für eine Beschäftigung oder selbständige
+    Tätigkeit,
+
+
+2.  Zeiten der Erziehung eines Kindes,
+
+
+3.  Zeiten mit freiwilligen Beiträgen bei gewöhnlichem Aufenthalt
+
+
+
+im jeweiligen Geltungsbereich der Reichsversicherungsgesetze außerhalb
+der Bundesrepublik Deutschland. Bei der Ermittlung von Entgeltpunkten
+aus einem Leistungszuschlag, aus einem Abschlag aus einem
+durchgeführten Versorgungsausgleich oder Rentensplitting und für den
+Zuschlag bei einer Waisenrente sind Reichsgebiets-Beitragszeiten wie
+Beitragszeiten nach dem Fremdrentengesetz zu berücksichtigen.
 
 
 ##### § 272a Fälligkeit und Auszahlung laufender Geldleistungen bei Beginn vor dem 1. April 2004
@@ -18334,11 +18220,6 @@ knappschaftlichen Rentenversicherung für Arbeitnehmer außerhalb von
 knappschaftlichen Betrieben, die denen in knappschaftlichen Betrieben
 gleichgestellt sind, gegeben ist, entscheidet in Zweifelsfällen das
 Bundesamt für Soziale Sicherung.
-
-
-###### § 273b
-
-(weggefallen)
 
 
 ##### Zweiter Titel - Datenverarbeitung und Datenschutz
@@ -18528,10 +18409,6 @@ Rentenversicherung besteht und beschließt die erforderlichen
 Maßnahmen.
 
 
-###### § 274d (weggefallen)
-
-
-
 #### Elfter Unterabschnitt - Finanzierung
 
 
@@ -18546,32 +18423,6 @@ Maßnahmen.
 
 
 ##### Zweiter Titel - Beiträge
-
-
-
-###### § 275a Beitragsbemessungsgrenzen im Beitrittsgebiet für die Zeit bis zum 31. Dezember 2024
-
-Die Beitragsbemessungsgrenzen (Ost) in der allgemeinen
-Rentenversicherung sowie in der knappschaftlichen Rentenversicherung
-verändern sich zum 1. Januar eines jeden Kalenderjahres auf die Werte,
-die sich ergeben, wenn die für dieses Kalenderjahr jeweils geltenden
-Werte der Anlage 2 durch den für dieses Kalenderjahr bestimmten Wert
-der Anlage 10 geteilt werden. Dabei ist von den ungerundeten Beträgen
-auszugehen, aus denen die Beitragsbemessungsgrenzen errechnet wurden.
-Die Beitragsbemessungsgrenzen (Ost) sind für das Jahr, für das sie
-bestimmt werden, auf das nächsthöhere Vielfache von 600 aufzurunden.
-Für die Zeit ab 1. Januar 2025 sind Beitragsbemessungsgrenzen (Ost)
-nicht mehr zu bestimmen.
-
-
-###### § 275b Verordnungsermächtigung
-
-Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
-Zustimmung des Bundesrates die Beitragsbemessungsgrenzen in Ergänzung
-der Anlage 2a festzusetzen.
-
-
-###### § 275c (weggefallen)
 
 
 
@@ -18618,11 +18469,6 @@ zugrundeliegende Arbeitsentgelt angewendet wird, im Übrigen von den
 Beschäftigten.
 
 
-###### § 276c (weggefallen)
-
--
-
-
 ###### § 277 Beitragsrecht bei Nachversicherung
 
 (1) Die Durchführung der Nachversicherung von Personen, die vor dem 1.
@@ -18647,19 +18493,18 @@ Nachversicherungsbeiträge vor dem 1. Januar 2016 fällig geworden sind.
 nachversicherungspflichtige Beschäftigung im Beitrittsgebiet ausgeübt
 haben, ist die Beitragsbemessungsgrundlage für die Berechnung der
 Beiträge für Zeiten im Beitrittsgebiet vor dem 1. Januar 1992 mit den
-entsprechenden Werten der Anlage 10 und mit dem Verhältniswert zu
-vervielfältigen, in dem zum Zeitpunkt der Zahlung die Bezugsgröße
-(Ost) zur Bezugsgröße steht; die Beitragsbemessungsgrundlage ist nur
-bis zu einem Betrag zu berücksichtigen, der dem durch die
-entsprechenden Werte der Anlage 10 geteilten Betrag der jeweiligen
-Beitragsbemessungsgrenze in der allgemeinen Rentenversicherung
-entspricht. § 181 Abs. 4 bleibt unberührt. Für Personen, die nach §
-233a Abs. 1 Satz 2 als nachversichert gelten, erfolgt anstelle einer
-Zahlung von Beiträgen für die Nachversicherung eine Erstattung der
-Aufwendungen aus der Nachversicherung; der Durchführung der
-Nachversicherung und der Erstattung werden die bisherigen
-Vorschriften, die im Gebiet der Bundesrepublik Deutschland außerhalb
-des Beitrittsgebiets anzuwenden sind, fiktiv zugrunde gelegt.
+entsprechenden Werten der Anlage 10 zu vervielfältigen; die
+Beitragsbemessungsgrundlage ist nur bis zu einem Betrag zu
+berücksichtigen, der dem durch die entsprechenden Werte der Anlage 10
+geteilten Betrag der jeweiligen Beitragsbemessungsgrenze in der
+allgemeinen Rentenversicherung entspricht. § 181 Abs. 4 bleibt
+unberührt. Für Personen, die nach § 233a Abs. 1 Satz 2 als
+nachversichert gelten, erfolgt anstelle einer Zahlung von Beiträgen
+für die Nachversicherung eine Erstattung der Aufwendungen aus der
+Nachversicherung; der Durchführung der Nachversicherung und der
+Erstattung werden die bisherigen Vorschriften, die im Gebiet der
+Bundesrepublik Deutschland außerhalb des Beitrittsgebiets anzuwenden
+sind, fiktiv zugrunde gelegt.
 
 (2) Für Pfarrer, Pastoren, Prediger, Vikare und andere Mitarbeiter von
 Religionsgesellschaften im Beitrittsgebiet, die nach § 233a Abs. 3 als
@@ -18694,9 +18539,8 @@ Beitragsbemessungsgrundlage für Zeiten
 
 
 Die Beitragsbemessungsgrundlage ist für die Berechnung der Beiträge
-mit den entsprechenden Werten der Anlage 10 und mit dem Verhältniswert
-zu vervielfältigen, in dem im Zeitpunkt der Zahlung die Bezugsgröße
-(Ost) zur Bezugsgröße steht. § 181 Abs. 4 bleibt unberührt.
+mit den entsprechenden Werten der Anlage 10 zu vervielfältigen. § 181
+Abs. 4 bleibt unberührt.
 
 
 ###### § 278 Mindestbeitragsbemessungsgrundlage für die Nachversicherung
@@ -18751,8 +18595,9 @@ Beitrittsgebiet
     Rentenversicherung der Arbeiter und der Angestellten,
 
 
-3.  vom 1. Juli 1990 an ein monatliches Arbeitsentgelt in Höhe von 40 vom
-    Hundert der jeweiligen Bezugsgröße (Ost).
+3.  vom 1. Juli 1990 bis zum 31. Dezember 2024 ein monatliches
+    Arbeitsentgelt in Höhe von 40 vom Hundert der jeweiligen Bezugsgröße
+    (Ost).
 
 
 
@@ -18771,8 +18616,9 @@ Beitrittsgebiet ist
     Rentenversicherung der Arbeiter und der Angestellten,
 
 
-3.  vom 1. Juli 1990 an ein monatliches Arbeitsentgelt in Höhe von 20 vom
-    Hundert der jeweiligen Bezugsgröße (Ost).
+3.  vom 1. Juli 1990 bis zum 31. Dezember 2024 ein monatliches
+    Arbeitsentgelt in Höhe von 20 vom Hundert der jeweiligen Bezugsgröße
+    (Ost).
 
 
 
@@ -18816,12 +18662,8 @@ Beitragspflichtige Einnahmen bei im Beitrittsgebiet mitarbeitenden
 Ehegatten sind die Einnahmen aus der Tätigkeit.
 
 
-###### § 279b Beitragsbemessungsgrundlage für freiwillig Versicherte
+###### § 279b (weggefallen)
 
-Für freiwillig Versicherte, die ihren gewöhnlichen Aufenthalt im
-Beitrittsgebiet haben, ist Beitragsbemessungsgrundlage ein Betrag von
-der Mindestbemessungsgrundlage (§ 167) bis zur
-Beitragsbemessungsgrenze. § 228a gilt nicht.
 
 
 ###### § 279c Beitragstragung im Beitrittsgebiet
@@ -18872,45 +18714,8 @@ nachentrichtet sind, gelten sie erst mit der Zahlung im Sinne des §
 181 Abs. 1 Satz 2 als rechtzeitig entrichtete Pflichtbeiträge.
 
 
-###### § 281a Zahlung von Beiträgen im Rahmen des Versorgungsausgleichs im Beitrittsgebiet
+###### § 281a (weggefallen)
 
-(1) Im Rahmen des Versorgungsausgleichs können Beiträge gezahlt
-werden, um
-
-1.  Rentenanwartschaften, die durch einen Abschlag an Entgeltpunkten (Ost)
-    gemindert worden sind, ganz oder teilweise wieder aufzufüllen,
-
-
-2.  die Erstattungspflicht für die Begründung von Rentenanwartschaften in
-    Entgeltpunkten (Ost) zugunsten des Ausgleichsberechtigten abzulösen (§
-    225 Abs. 2, § 264a).
-
-
-
-
-(2) Für die Zahlung von Beiträgen werden die Rentenanwartschaften in
-Entgeltpunkte (Ost) umgerechnet, soweit das Familiengericht dies
-angeordnet hat (§ 264a Abs. 1). Die Entgeltpunkte (Ost) werden in der
-Weise ermittelt, dass der Monatsbetrag der Rentenanwartschaften durch
-den aktuellen Rentenwert (Ost) mit seinem Wert bei Ende der Ehezeit
-oder Lebenspartnerschaftszeit geteilt wird.
-
-(3) Für je einen Entgeltpunkt (Ost) ist der Betrag zu zahlen, der sich
-ergibt, wenn der im Zeitpunkt der Beitragszahlung geltende
-Beitragssatz auf das für das Kalenderjahr der Beitragszahlung zugrunde
-zu legende Durchschnittsentgelt im Beitrittsgebiet angewendet wird.
-Als Durchschnittsentgelt im Beitrittsgebiet ist das durch den Wert der
-Anlage 10 geteilte vorläufige Durchschnittsentgelt im übrigen
-Bundesgebiet zugrunde zu legen. Der Zahlbetrag wird nach den
-Rechengrößen zur Durchführung des Versorgungsausgleichs ermittelt, die
-das Bundesministerium für Arbeit und Soziales im Bundesgesetzblatt
-bekannt macht. Die Rechengrößen enthalten Faktoren zur Umrechnung von
-Entgeltpunkten (Ost) in Beiträge und umgekehrt; dabei können
-Rundungsvorschriften der Berechnungsgrundsätze unberücksichtigt
-bleiben, um genauere Ergebnisse zu erzielen.
-
-(4) § 187 Abs. 4, 5 und 7 gilt auch für die Zahlung von Beiträgen im
-Rahmen des Versorgungsausgleichs im Beitrittsgebiet.
 
 
 ###### § 281b Verordnungsermächtigung
@@ -19002,11 +18807,6 @@ aber bis zum 1. Januar 1924 zurück, nachzahlen, sofern diese Zeiten
 nicht bereits mit Beiträgen belegt sind. Nach bindender Bewilligung
 einer Vollrente wegen Alters ist eine Nachzahlung nicht zulässig, wenn
 der Monat abgelaufen ist, in dem die Regelaltersgrenze erreicht wurde.
-
-
-###### § 284a
-
-(weggefallen)
 
 
 ###### § 285 Nachzahlung bei Nachversicherung
@@ -19304,13 +19104,8 @@ Kalenderjahr nach § 213 Absatz 3.
 
 ###### § 287b Ausgaben für Leistungen zur Teilhabe
 
-(1) Bei der Anwendung von § 220 Abs. 1 ist die Veränderung der
-Bruttolöhne und -gehälter für die Bundesrepublik Deutschland ohne das
-Beitrittsgebiet und für das Beitrittsgebiet jeweils getrennt
-festzustellen.
-
-(2) Die jährlichen Ausgaben für Leistungen zur Teilhabe werden in der
-Zeit vom 1. Januar 2014 bis zum 31. Dezember 2050 bedarfsgerecht unter
+Die jährlichen Ausgaben für Leistungen zur Teilhabe werden in der Zeit
+vom 1. Januar 2014 bis zum 31. Dezember 2050 bedarfsgerecht unter
 Berücksichtigung einer Demografiekomponente fortgeschrieben. Die
 Demografiekomponente ist zusätzlich zur voraussichtlichen Entwicklung
 der Bruttolöhne und -gehälter je Arbeitnehmer bei der Festsetzung der
@@ -19421,28 +19216,13 @@ folgt festgesetzt:
 
 
 
-###### § 287c Förderung für sonstige Leistungen der Teilhabe
+###### § 287c (weggefallen)
 
-Der Bund überträgt an die allgemeine Rentenversicherung zusätzlich zu
-den Zuschüssen des Bundes nach den §§ 213 und 287e in den
-Kalenderjahren 2021 bis 2023 Mittel in Höhe von jährlich 5 Millionen
-Euro für sonstige Leistungen zur Teilhabe nach § 31 Absatz 1 Nummer 3.
-Die Auszahlung führt das Bundesamt für Soziale Sicherung durch.
 
 
 ###### § 287d Erstattungen in besonderen Fällen
 
-(1) Der Bund erstattet den Trägern der Rentenversicherung im
-Beitrittsgebiet die Aufwendungen für Kriegsbeschädigtenrenten und für
-die Auszahlung der weiteren Sonderleistungen.
-
-(2) Das Bundesamt für Soziale Sicherung verteilt die Beträge nach
-Absatz 1 auf die allgemeine und die knappschaftliche
-Rentenversicherung, setzt die Vorschüsse fest und führt die Abrechnung
-durch. Für die Träger der allgemeinen Rentenversicherung ist § 219
-Abs. 1 entsprechend anzuwenden.
-
-(3) § 179 Abs. 1a ist anzuwenden, wenn
+§ 179 Abs. 1a ist anzuwenden, wenn
 
 1.  das Erstattungsverfahren am 1. Januar 2001 noch nicht abschließend
     entschieden war und
@@ -19454,41 +19234,42 @@ Abs. 1 entsprechend anzuwenden.
 
 
 
-###### § 287e Veränderung des Bundeszuschusses im Beitrittsgebiet
-
-(1) § 213 Abs. 2 gilt für die Bundesrepublik Deutschland ohne das
-Beitrittsgebiet.
-
-(2) Der Zuschuss des Bundes zu den Ausgaben der allgemeinen
-Rentenversicherung, soweit sie für das Beitrittsgebiet zuständig ist
-(Bundeszuschuss-Beitrittsgebiet), wird jeweils für ein Kalenderjahr in
-der Höhe geleistet, die sich ergibt, wenn die Rentenausgaben für
-dieses Kalenderjahr einschließlich der Aufwendungen für
-Kindererziehungsleistungen für Mütter der Geburtsjahrgänge vor 1927
-und abzüglich erstatteter Aufwendungen für Renten und Rententeile mit
-dem Verhältnis vervielfältigt werden, in dem der Bundeszuschuss in der
-Bundesrepublik Deutschland ohne das Beitrittsgebiet zu den
-Rentenausgaben desselben Kalenderjahres einschließlich der
-Aufwendungen aus der Erbringung von Kindererziehungsleistungen für
-Mütter der Geburtsjahrgänge vor 1921 steht. Der Bundeszuschuss-
-Beitrittsgebiet ist auf die Träger der allgemeinen Rentenversicherung
-im Beitrittsgebiet entsprechend ihrem jeweiligen Verhältnis an den
-Beitragseinnahmen buchhalterisch aufzuteilen.
+###### § 287e (weggefallen)
 
 
-###### § 287f Getrennte Abrechnung
 
-Die Abrechnung und die Verteilung nach § 227 Absatz 1 und 1a erfolgen
-für Zahlungen bis zum Jahr 2024 für die Bundesrepublik Deutschland
-ohne das Beitrittsgebiet und für das Beitrittsgebiet getrennt.
+###### § 287f (weggefallen)
+
 
 
 ###### § 287g Minderung des Erhöhungsbetrages des zusätzlichen Bundeszuschusses in den Jahren 2024 bis 2027
 
 Der Erhöhungsbetrag nach § 213 Absatz 4 wird in den Jahren 2024 bis
 2027 jeweils um 1,2 Milliarden Euro gemindert. Bei der Feststellung
-der Veränderung der Erhöhungsbeträge nach § 213 Absatz 4 Satz 3 ist
+der Veränderung der Erhöhungsbeträge nach § 213 Absatz 4 Satz 2 ist
 der Abzugsbetrag nach Satz 1 nicht zu berücksichtigen.
+
+
+###### § 287h Bundesmittel und Mindestrücklage
+
+Ist der Beitragssatz in der allgemeinen Rentenversicherung vom 1.
+Januar eines Jahres an nach § 158 erstmals auf einen Wert von über
+18,6 Prozent zu verändern, ist für dieses Jahr zusätzlich ein
+rechnerischer Beitragssatz in der allgemeinen Rentenversicherung nach
+§ 158 zu ermitteln, der sich bei einer Mindestrücklage nach § 158
+Absatz 1 Satz 1 Nummer 1 in Höhe des 0,2fachen der durchschnittlichen
+Ausgaben zu eigenen Lasten der Träger der allgemeinen
+Rentenversicherung für einen Kalendermonat ergeben würde. Bei der
+Bestimmung des allgemeinen Bundeszuschusses nach § 213 Absatz 2 und
+der Beitragszahlung für Kindererziehungszeiten nach § 177 Absatz 2 ist
+für das Jahr nach Satz 1 an Stelle des Beitragssatzes zur allgemeinen
+Rentenversicherung nach § 158 jeweils der rechnerische Beitragssatz
+nach Satz 1 anzuwenden. Bei der Festlegung des allgemeinen
+Bundeszuschusses nach § 213 Absatz 2 und der Beitragszahlung für
+Kindererziehungszeiten nach § 177 Absatz 2 in dem darauf folgenden
+Jahr ist als Beitragssatz für das Jahr nach Satz 1 an Stelle des
+Beitragssatzes zur allgemeinen Rentenversicherung nach § 158 jeweils
+der rechnerische Beitragssatz nach Satz 1 anzuwenden.
 
 
 ###### § 288
@@ -19615,20 +19396,59 @@ Aufwendungen für die Zahlung von Invalidenrenten für behinderte
 Menschen.
 
 
-###### § 291b Erstattung nicht beitragsgedeckter Leistungen
+###### § 291b Erstattung der Mehraufwendungen aufgrund der Anpassung nach Mindestsicherungsniveau ab dem Jahr 2026
 
-Der Bund erstattet den Trägern der allgemeinen Rentenversicherung die
-Aufwendungen für Leistungen nach dem Fremdrentenrecht.
+(1) Der Bund erstattet den Trägern der allgemeinen Rentenversicherung
+jährlich die Mehraufwendungen, die sich daraus ergeben, dass der
+aktuelle Rentenwert abweichend vom Verfahren nach § 68 ab dem Jahr
+2026 bis einschließlich 2031 nach § 255i festzusetzen ist.
+
+(2) Für die Bestimmung des Erstattungsbetrags wird ab dem Jahr 2026
+bis einschließlich 2031 ein Vergleichswert zum festgesetzten aktuellen
+Rentenwert bestimmt. Der Vergleichswert wird zum 1. Juli eines jeden
+Jahres ausgehend von seinem Vorjahreswert nach dem Verfahren nach § 68
+ermittelt. Für die Ermittlung des Vergleichswerts zum 1. Juli 2026
+gilt der am 30. Juni 2026 geltende aktuelle Rentenwert als
+Vorjahreswert. Der Erstattungsbetrag für das jeweilige Kalenderjahr
+ergibt sich, indem die relative Abweichung zwischen
+jahresdurchschnittlichem Vergleichswert und jahresdurchschnittlichem
+aktuellen Rentenwert mit denjenigen Aufwendungen der allgemeinen
+Rentenversicherung multipliziert wird, die von der Höhe des aktuellen
+Rentenwerts abhängen und die nicht bereits anderweitig erstattet
+werden.
+
+(3) Ab dem Jahr 2032 wird der Erstattungsbetrag für das jeweilige
+Kalenderjahr bestimmt, indem die relative Abweichung zwischen dem am
+1\. Juli 2031 geltenden Vergleichswert und dem am 1. Juli 2031
+geltenden aktuellen Rentenwert mit denjenigen Aufwendungen der
+allgemeinen Rentenversicherung multipliziert wird, die von der Höhe
+des aktuellen Rentenwerts abhängen und die nicht bereits anderweitig
+erstattet werden.
+
+(4) Auf die Erstattungsbeträge sind angemessene Abschläge zu zahlen.
+Die Festsetzung und Auszahlung der Monatsraten sowie die Abrechnung
+der Erstattung führt das Bundesamt für Soziale Sicherung durch.
+
+(5) Bei der Bestimmung des aktuellen Rentenwerts sowie bei der
+Berechnung des Vergleichswerts nach Absatz 2 sind die erstatteten
+Mehraufwendungen für Renten und Rententeile nach dieser Vorschrift
+abweichend von § 68 Absatz 4 Satz 3 bei der Berechnung der Anzahl der
+Äquivalenzrentner beim Gesamtvolumen der Renten nicht in Abzug zu
+bringen.
 
 
-###### § 291c Anschubfinanzierung
+###### § 291c Erstattung der Mehraufwendungen zur vollständigen Gleichstellung der Kindererziehungszeiten ab dem Jahr 2027
 
-Der Bund überträgt an die allgemeine Rentenversicherung im
-Kalenderjahr 2023 Mittel in Höhe von 4,1 Millionen Euro zur pauschalen
-Erstattung der Kosten für die Entwicklung eines digitalen Verfahrens
-zur Erhebung und zum Nachweis der Anzahl der berücksichtigungsfähigen
-Kinder im Beitragsrecht der sozialen Pflegeversicherung gemäß § 55
-Absatz 3c Satz 1 des Elften Buches.
+Der Bund erstattet der allgemeinen Rentenversicherung jährlich die
+Mehraufwendungen, die sich aufgrund der ab dem Jahr 2028 geltenden
+zusätzlichen Kindererziehungszeiten von sechs Monaten und der ab dem
+Jahr 2027 geltenden zusätzlichen Zuschläge an persönlichen
+Entgeltpunkten für Kindererziehung für ein vor dem 1. Januar 1992
+geborenes Kind ergeben. Die Mehraufwendungen für das Jahr 2027 nach
+Satz 1, die im Jahr 2028 entstehen, werden im Jahr 2028 erstattet. Auf
+die Erstattungsbeträge sind angemessene Abschläge zu zahlen. Die
+Festsetzung und Auszahlung der Monatsraten sowie die Abrechnung der
+Erstattung führt das Bundesamt für Soziale Sicherung durch.
 
 
 ###### § 292 Verordnungsermächtigung
@@ -19636,20 +19456,13 @@ Absatz 3c Satz 1 des Elften Buches.
 (1) Das Bundesministerium für Arbeit und Soziales wird ermächtigt, im
 Einvernehmen mit dem Bundesministerium der Finanzen durch
 Rechtsverordnung mit Zustimmung des Bundesrates das Nähere über die
-Erstattungen gemäß § 287d zu bestimmen.
+Erstattungen gemäß § 289a zu bestimmen.
 
 (2) Das Bundesministerium für Arbeit und Soziales wird ermächtigt, im
 Einvernehmen mit dem Bundesministerium der Finanzen durch
 Rechtsverordnung mit Zustimmung des Bundesrates das Nähere über die
-Erstattungen gemäß § 289a zu bestimmen.
-
-(3) Das Bundesministerium für Arbeit und Soziales wird ermächtigt, im
-Einvernehmen mit dem Bundesministerium der Finanzen durch
-Rechtsverordnung mit Zustimmung des Bundesrates das Nähere über die
 Erstattung gemäß § 291a zu bestimmen, wobei eine pauschale Erstattung
 vorgesehen werden kann.
-
-(4) (weggefallen)
 
 
 ###### § 292a Verordnungsermächtigung für das Beitrittsgebiet
@@ -19777,24 +19590,6 @@ für die Berechnung von Renten jeweils maßgebenden aktuellen
 Rentenwerts.
 
 
-##### § 295a Höhe der Leistung im Beitrittsgebiet
-
-Monatliche Höhe der Leistung für Kindererziehung für Geburten im
-Beitrittsgebiet ist das 2,5-Fache des für die Berechnung von Renten
-jeweils maßgebenden aktuellen Rentenwerts (Ost). Dies gilt nicht für
-Mütter, die ihren gewöhnlichen Aufenthalt am 18. Mai 1990 entweder
-
-1.  im Gebiet der Bundesrepublik Deutschland ohne das Beitrittsgebiet oder
-
-
-2.  im Ausland hatten und unmittelbar vor Beginn des Auslandsaufenthalts
-    ihren gewöhnlichen Aufenthalt im Gebiet der Bundesrepublik Deutschland
-    ohne das Beitrittsgebiet hatten.
-
-
-
-
-
 ##### § 296 Beginn und Ende
 
 (1) Eine Leistung für Kindererziehung wird von dem Kalendermonat an
@@ -19808,11 +19603,6 @@ Kalendermonat, zu dessen Beginn der Wegfall wirksam ist.
 
 (4) Die Leistung wird bis zum Ende des Kalendermonats gezahlt, in dem
 die Berechtigte gestorben ist.
-
-
-##### § 296a
-
-(weggefallen)
 
 
 ##### § 297 Zuständigkeit
@@ -19945,8 +19735,9 @@ zum 31. Dezember 2000 geltenden Recht bewilligt und besteht deshalb
 ein Anspruch auf Rente wegen verminderter Erwerbsfähigkeit oder auf
 große Witwenrente oder große Witwerrente wegen Minderung der
 Erwerbsfähigkeit nicht, besteht der Anspruch auf Rente weiterhin
-nicht, solange Übergangsgeld, Verletztengeld oder Krankengeld der
-Sozialen Entschädigung geleistet wird.
+nicht, solange Übergangsgeld, Verletztengeld, Krankengeld der Sozialen
+Entschädigung oder Krankengeld der Soldatenentschädigung geleistet
+wird.
 
 (2) Die Träger der Rentenversicherung können die am 31. Dezember 1991
 bestehenden Fachkliniken zur Behandlung von Erkrankungen der
@@ -19964,25 +19755,6 @@ Leistungen zur medizinischen Rehabilitation aufgrund von
 Vereinbarungen mit einem Träger der Rentenversicherung erbracht haben,
 gilt eine Zulassungsentscheidung als erteilt, sofern die Anforderungen
 nach § 15 Absatz 3 erfüllt sind.
-
-
-##### § 301a Einmalzahlungs-Neuregelungsgesetz
-
-(1) Für die Ermittlung der Berechnungsgrundlage für Ansprüche auf
-Übergangsgeld, die vor dem 1. Januar 2001 entstanden sind, ist § 47
-Abs. 1 und 2 des Fünften Buches in der vor dem 22. Juni 2000 jeweils
-geltenden Fassung für Zeiten nach dem 31. Dezember 1996 mit der
-Maßgabe entsprechend anzuwenden, dass sich das Regelentgelt um 10 vom
-Hundert, höchstens aber bis zur Höhe des Betrages der
-kalendertäglichen Beitragsbemessungsgrenze, erhöht. Das regelmäßige
-Nettoarbeitsentgelt ist um denselben Vomhundertsatz zu erhöhen.
-
-(2) Die Erhöhung nach Absatz 1 gilt für Ansprüche, über die vor dem
-22\. Juni 2000 bereits unanfechtbar entschieden war, nur für Zeiten vom
-22\. Juni 2000 an bis zum Ende der Leistungsdauer. Entscheidungen über
-die Ansprüche auf Übergangsgeld, die vor dem 22. Juni 2000
-unanfechtbar geworden sind, sind nicht nach § 44 Abs. 1 des Zehnten
-Buches zurückzunehmen.
 
 
 #### Dritter Unterabschnitt - Anspruchsvoraussetzungen für einzelne Renten
@@ -20634,14 +20406,11 @@ Januar 1992 geborenes Kind berücksichtigt, wenn
 
 Der Zuschlag beträgt für jedes Kind 0,5 persönliche Entgeltpunkte.
 
-(2) Sind für Kindererziehungszeiten ausschließlich Entgeltpunkte (Ost)
-zugeordnet worden, sind für den Zuschlag persönliche Entgeltpunkte
-(Ost) zu ermitteln. Ist die Kindererziehungszeit oder
-Berücksichtigungszeit wegen Kindererziehung nach Absatz 1 Satz 1
-Nummer 1, Satz 3 Nummer 1 oder nach Absatz 1a Satz 1 Nummer 1 in der
-knappschaftlichen Rentenversicherung berücksichtigt worden, wird der
-Zuschlag an persönlichen Entgeltpunkten und persönlichen
-Entgeltpunkten (Ost) mit 0,75 vervielfältigt.
+(2) Ist die Kindererziehungszeit oder Berücksichtigungszeit wegen
+Kindererziehung nach Absatz 1 Satz 1 Nummer 1, Satz 3 Nummer 1 oder
+nach Absatz 1a Satz 1 Nummer 1 in der knappschaftlichen
+Rentenversicherung berücksichtigt worden, wird der Zuschlag an
+persönlichen Entgeltpunkten mit 0,75 vervielfältigt.
 
 (3) Folgt auf eine Rente mit einem Zuschlag nach Absatz 1 oder nach
 Absatz 1a eine Rente, die die Voraussetzungen nach § 88 Absatz 1 oder
@@ -20672,12 +20441,12 @@ berücksichtigt, wenn
 
 Sind die Kalendermonate der Erziehung der knappschaftlichen
 Rentenversicherung zuzuordnen, beträgt der Zuschlag für jeden
-Kalendermonat 0,0625 persönliche Entgeltpunkte oder persönliche
-Entgeltpunkte (Ost). Absatz 3 gilt entsprechend. Sind für das Kind
-keine Berücksichtigungszeiten wegen Kindererziehung anerkannt worden,
-wird der Zuschlag bei dem Elternteil berücksichtigt, der das Kind
-überwiegend erzogen hat. Liegt eine überwiegende Erziehung durch einen
-Elternteil nicht vor, erfolgt die Zuordnung zur Mutter.
+Kalendermonat 0,0625 persönliche Entgeltpunkte. Absatz 3 gilt
+entsprechend. Sind für das Kind keine Berücksichtigungszeiten wegen
+Kindererziehung anerkannt worden, wird der Zuschlag bei dem Elternteil
+berücksichtigt, der das Kind überwiegend erzogen hat. Liegt eine
+überwiegende Erziehung durch einen Elternteil nicht vor, erfolgt die
+Zuordnung zur Mutter.
 
 
 ##### § 307e Zuschlag an Entgeltpunkten für langjährige Versicherung bei Rentenbeginn in den Jahren 1992 bis 2020
@@ -20830,6 +20599,149 @@ langjährige Versicherung besteht nicht vor Ablauf des 31. Dezember
 Bis zum 31. Dezember 2025 wird durch die Bundesregierung evaluiert, ob
 die mit der Einführung der Grundrente formulierten Ziele erreicht
 wurden.
+
+
+##### § 307i Zuschlag an persönlichen Entgeltpunkten bei Renten wegen Erwerbsminderung und bei Renten wegen Todes
+
+(1) Ein Zuschlag an persönlichen Entgeltpunkten wird ab dem 1.
+Dezember 2025 berücksichtigt, wenn am 30. November 2025 ein Anspruch
+bestand auf
+
+1.  eine Rente wegen Erwerbsminderung oder eine Erziehungsrente, die
+    jeweils nach dem 31. Dezember 2000 und vor dem 1. Januar 2019 begonnen
+    hat,
+
+
+2.  eine Hinterbliebenenrente, die nach dem 31. Dezember 2000 und vor dem
+    1\. Januar 2019 begonnen hat und der kein Rentenbezug der verstorbenen
+    versicherten Person unmittelbar vorausging,
+
+
+3.  eine Rente wegen Alters, die unmittelbar an eine Rente wegen
+    Erwerbsminderung oder an eine Erziehungsrente nach Nummer 1 anschließt
+    oder
+
+
+4.  eine Hinterbliebenenrente, die unmittelbar an eine Rente wegen
+    Erwerbsminderung nach Nummer 1 oder an eine Rente wegen Alters nach
+    Nummer 3 anschließt.
+
+
+
+
+(2) Der Zuschlag wird ermittelt, indem die persönlichen Entgeltpunkte,
+die der Rente nach Absatz 1 am 30. November 2025 zugrunde liegen, mit
+dem Faktor nach Absatz 3 vervielfältigt werden.
+
+(3) Der Faktor zur Berechnung des Zuschlags beträgt
+
+1.  0,0750, wenn die Rente wegen Erwerbsminderung, die Erziehungsrente
+    oder die Hinterbliebenenrente nach dem 31. Dezember 2000 und vor dem
+    1\. Juli 2014 begonnen hat, oder
+
+
+2.  0,0450, wenn die Rente wegen Erwerbsminderung, die Erziehungsrente
+    oder die Hinterbliebenenrente nach dem 30. Juni 2014 und vor dem 1.
+    Januar 2019 begonnen hat.
+
+
+
+Der Faktor nach Satz 1 bestimmt sich in den Fällen des Absatzes 1
+Nummer 3 nach dem Beginn der Rente wegen Erwerbsminderung oder nach
+dem Beginn der Erziehungsrente. In den Fällen des Absatzes 1 Nummer 4
+bestimmt sich der Faktor nach dem Beginn der Hinterbliebenenrente,
+wenn diese vor dem 1. Januar 2019 begonnen hat, andernfalls nach dem
+Beginn der Rente wegen Erwerbsminderung.
+
+(4) Ein Zuschlag nach Absatz 1 Nummer 2 wird zu einer
+Hinterbliebenenrente nicht ermittelt, wenn die versicherte Person nach
+Vollendung des 65. Lebensjahres und acht Monaten verstorben ist.
+
+(5) Der Zuschlag ist weiterhin zu berücksichtigen, wenn auf eine Rente
+mit einem solchen Zuschlag
+
+1.  eine Rente wegen Alters folgt oder
+
+
+2.  eine Hinterbliebenenrente folgt, bei der keine Zurechnungszeit oder
+    nach § 253a Absatz 5 nur eine Zurechnungszeit in begrenztem Umfang zu
+    berücksichtigen ist.
+
+
+
+
+
+##### § 307j Rentenzuschlag bei Renten wegen Erwerbsminderung und Renten wegen Todes für die Zeit von Juli 2024 bis November 2025
+
+(1) Ein Rentenzuschlag wird als monatliche Rentenleistung vom 1. Juli
+2024 bis zum 30. November 2025 gezahlt, wenn am 30. Juni 2024 ein
+Anspruch bestand auf
+
+1.  eine Rente wegen Erwerbsminderung oder eine Erziehungsrente, die
+    jeweils nach dem 31. Dezember 2000 und vor dem 1. Januar 2019 begonnen
+    hat,
+
+
+2.  eine Hinterbliebenenrente, die nach dem 31. Dezember 2000 und vor dem
+    1\. Januar 2019 begonnen hat und der kein Rentenbezug der verstorbenen
+    versicherten Person unmittelbar vorausging,
+
+
+3.  eine Rente wegen Alters, die unmittelbar an eine Rente wegen
+    Erwerbsminderung oder an eine Erziehungsrente nach Nummer 1
+    anschließt, oder
+
+
+4.  eine Hinterbliebenenrente, die unmittelbar an eine Rente wegen
+    Erwerbsminderung nach Nummer 1 oder an eine Rente wegen Alters nach
+    Nummer 3 anschließt.
+
+
+
+Wird auf eine Rente nach Satz 1 eine Verletztenrente aus der
+Unfallversicherung nach § 93 angerechnet und besteht deshalb nur ein
+Anspruch auf teilweise Auszahlung der Rente, wird kein Rentenzuschlag
+gezahlt.
+
+(2) Die Höhe des Rentenzuschlags wird ermittelt, indem der Zahlbetrag
+der Rente zuzüglich eines geleisteten Zuschusses nach § 106 nach
+Anpassung der Rente am 1. Juli 2024 mit dem Faktor nach § 307i Absatz
+3 vervielfältigt wird. Wird auf eine Rente wegen Todes Einkommen nach
+§ 97 angerechnet und besteht ein Anspruch auf teilweise Auszahlung der
+Rente, tritt an die Stelle des Zahlbetrags der Rente die Rente vor
+Anwendung von § 97 zuzüglich eines geleisteten Zuschusses nach § 106.
+Besteht eine Versicherungspflicht in der gesetzlichen
+Krankenversicherung und in der sozialen Pflegeversicherung, ist der
+nach Satz 2 errechnete Betrag mit dem Faktor 0,8845 zu
+vervielfältigen. Der Rentenzuschlag verändert sich zum 1. Juli 2025 in
+dem Verhältnis, wie sich der aktuelle Rentenwert ändert. Änderungen
+des Zahlbetrags nach Satz 1 oder der Rente vor Anwendung von § 97 nach
+Satz 2 und 3 nach dem 1. Juli 2024 bleiben bei der Höhe des
+Rentenzuschlags unberücksichtigt.
+
+(3) § 307i Absatz 4 und 5 gelten entsprechend.
+
+(4) Bei dem Rentenzuschlag handelt es sich um eine monatliche
+Rentenleistung, die abweichend von §§ 118, 272a zwischen dem 10. und
+dem 20. eines Monats gezahlt wird. Die Vorschriften dieses Buches zum
+Zusammentreffen von Renten und Einkommen sind auf den Rentenzuschlag
+nicht anzuwenden.
+
+(5) Ist der monatliche Zahlbetrag der Rente zusammen mit dem
+Rentenzuschlag für den Monat November 2025 geringer als der Zahlbetrag
+der Rente unter Berücksichtigung des Zuschlags an persönlichen
+Entgeltpunkten nach § 307i für den Monat Dezember 2025, so hat der
+Rentenversicherungsträger den ermittelten Unterschiedsbetrag mit 17 zu
+multiplizieren und in einer Summe nachzuzahlen.
+
+(6) Der Rentenzuschlag wird kostenfrei an die Empfänger ausgezahlt.
+
+(7) Der Rentenzuschlag wird für die Rentenversicherungsträger durch
+die Deutsche Post AG berechnet und ausgezahlt; § 119 und die auf der
+Grundlage des § 120 erlassene Rechtsverordnung sind anzuwenden. Die
+Berechtigten erhalten von der Deutschen Post AG eine Mitteilung über
+den ihnen zustehenden Rentenzuschlag im Auftrag des für sie
+zuständigen Rentenversicherungsträgers.
 
 
 ##### § 308 Umstellungsrenten
@@ -21353,9 +21265,8 @@ wird diese in Höhe des um 6,84 vom Hundert erhöhten bisherigen
 Betrages weitergeleistet.
 
 
-##### § 316
+##### § 316 (weggefallen)
 
-(weggefallen)
 
 
 #### Siebter Unterabschnitt - Leistungen an Berechtigte im Ausland
@@ -21396,32 +21307,6 @@ oder hätte sie berücksichtigt werden können, gilt dies auch weiterhin.
 sie auf diese Rente bereits für die Zeit, in der sie ihren
 gewöhnlichen Aufenthalt noch im Inland gehabt haben, einen Anspruch
 hatten.
-
-
-##### § 317a Neufeststellung
-
-(1) Eine nach den Vorschriften dieses Buches berechnete Rente, in der
-die persönlichen Entgeltpunkte zu 70 vom Hundert berücksichtigt
-wurden, wird ab dem 1. Oktober 2013 neu festgestellt. Bei der
-Neufeststellung sind die §§ 113, 114 und 272 in der am 1. Oktober 2013
-geltenden Fassung anzuwenden.
-
-(2) Bestand am 31. Dezember 1991 Anspruch auf eine Rente, in der der
-Rentenbetrag zu 70 vom Hundert berücksichtigt wurde, wird diese auf
-Antrag ab 1. Oktober 2013 neu festgestellt. Bei der Neufeststellung
-sind das am 1. Januar 1992 geltende Recht und die §§ 113, 114 und 272
-in der am 1. Oktober 2013 geltenden Fassung anzuwenden.
-
-(3) Hatten Versicherte ihren gewöhnlichen Aufenthalt am 18. Mai 1990
-oder, falls sie verstorben sind, zuletzt vor dem 19. Mai 1990 im
-Gebiet der Bundesrepublik Deutschland ohne das Beitrittsgebiet und
-sind in einer Rente für Zeiten vor dem 19. Mai 1990 an die Stelle von
-Entgeltpunkten Entgeltpunkte (Ost) getreten, weil sich die berechtigte
-Person nach dem 18. Mai 1990 nicht mehr gewöhnlich im Inland
-aufgehalten hat, so ist diese Rente ab 1. Juli 2020 neu festzustellen
-und zu leisten. Bei der Neufeststellung ist § 254d Absatz 2 Satz 1
-Nummer 1 Buchstabe a in der am 1. Juli 2020 geltenden Fassung
-anzuwenden.
 
 
 ##### § 318 (weggefallen)
@@ -21547,10 +21432,12 @@ Anhaltspunkte für
 
 
 2.  eine Beschäftigung oder Tätigkeit von Ausländern ohne den
-    erforderlichen Aufenthaltstitel nach § 4 Abs. 3 des
-    Aufenthaltsgesetzes, eine Aufenthaltsgestattung oder eine Duldung, die
-    zur Ausübung der Beschäftigung berechtigen, oder eine Genehmigung nach
-    § 284 Abs. 1 des Dritten Buches,
+    erforderlichen Aufenthaltstitel nach § 4a Absatz 5 Satz 1 des
+    Aufenthaltsgesetzes, eine Erlaubnis oder Berechtigung nach § 4a Absatz
+    5 Satz 2 in Verbindung mit Absatz 4 des Aufenthaltsgesetzes, eine
+    Aufenthaltsgestattung oder eine Duldung, die zur Ausübung der
+    Beschäftigung berechtigen, oder eine Genehmigung nach § 284 Absatz 1
+    des Dritten Buches,
 
 
 3.  Verstöße gegen die Mitwirkungspflicht nach § 60 Abs. 1 Satz 1 Nr. 2
@@ -21572,7 +21459,17 @@ Anhaltspunkte für
 6.  Verstöße gegen die Steuergesetze,
 
 
-7.  Verstöße gegen das Aufenthaltsgesetz
+7.  Verstöße gegen das Aufenthaltsgesetz,
+
+
+8.  Verstöße gegen das Gesetz zur Sicherung von Arbeitnehmerrechten in der
+    Fleischwirtschaft,
+
+
+9.  Verstöße gegen das Mindestlohngesetz,
+
+
+10. Verstöße gegen das Arbeitnehmer-Entsendegesetz
 
 
 
@@ -21582,24 +21479,6 @@ nach § 71 des Aufenthaltsgesetzes. Die Unterrichtung kann auch Angaben
 über die Tatsachen enthalten, die für die Abgabe der Meldungen des
 Arbeitgebers und die Einziehung der Beiträge zur Sozialversicherung
 erforderlich sind.
-
-
-### § 322 Übergangsregelung aus Anlass des Gesetzes zur Regelung des Sozialen Entschädigungsrechts
-
-Für Personen, die Leistungen nach dem Soldatenversorgungsgesetz in der
-Fassung der Bekanntmachung vom 16. September 2009 (BGBl. I S. 3054),
-das zuletzt durch Artikel 19 des Gesetzes vom 4. August 2019 (BGBl. I
-S. 1147) geändert worden ist, in Verbindung mit dem
-Bundesversorgungsgesetz in der Fassung der Bekanntmachung vom 22.
-Januar 1982 (BGBl. I S. 21), das zuletzt durch Artikel 1 der
-Verordnung vom 13. Juni 2019 (BGBl. I S. 793) geändert worden ist,
-erhalten, gelten die Vorschriften des § 3 Satz 1 Nummer 3, des § 20
-Absatz 1 Nummer 3 Buchstabe b, des § 96a Absatz 3 Satz 1 Nummer 2, des
-§ 163 Absatz 5 Satz 2, des § 166 Absatz 1 Nummer 2, des § 168 Absatz 1
-Nummer 7, des § 170 Absatz 1 Nummer 2 Buchstabe b, des § 175 Absatz 1,
-des § 245 Absatz 2 Nummer 3 und 5, des § 250 Absatz 1 Nummer 1 und des
-§ 301 Absatz 1 Satz 2 in der am 31. Dezember 2023 geltenden Fassung
-weiter.
 
 
 ### Anlage 1 Durchschnittsentgelt in Euro/DM/RM
@@ -22346,7 +22225,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   10
+*    *   2010
 
     *   31 144
 
@@ -22406,7 +22285,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   20
+*    *   2020
 
     *   39 167
 
@@ -22426,20 +22305,32 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   23
 
-    *
-    *   43 142\*)
+    *   44 732
 
+    *
 
 *    *   24
 
+    *   47 085
+
     *
-    *   45 358\*)
+
+*    *   25
+
+    *
+    *   50 493\*)
+
+
+*    *   26
+
+    *
+    *   51 944\*)
 
 
 
 -----
 
-\*) vorläufiges Durchschnittsentgelt i. S. des § 69 Abs. 2 Nr. 2.
+\*) vorläufiges Durchschnittsentgelt i. S. des § 69 Abs. 2 Satz 1 Nr. 2.
 
 
 
@@ -23146,6 +23037,22 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
     *   111 600
+
+
+*    *   1.1.2025 - 31.12.2025
+
+    *   96 600
+
+    *
+    *   118 800
+
+
+*    *   1.1.2026 - 31.12.2026
+
+    *   101 400
+
+    *
+    *   124 800
 
 
 
@@ -49924,9 +49831,8 @@ Fundstelle des Originaltextes: BGBl. I 2002, 915
 (weggefallen)
 
 
-### Anlage 18
+### Anlage 18 (weggefallen)
 
-(weggefallen)
 
 
 ### Anlage 19
@@ -52129,21 +52035,6 @@ Fundstelle des Originaltextes: BGBl. I 2002, 918
 
 
 
-
-
-### Anlage 21 (weggefallen)
-
--
-
-
-### Anlage 22 (weggefallen)
-
--
-
-
-### Anlage 23 (weggefallen)
-
--
 
 Auszug aus EinigVtr Anlage I Kapitel VIII Sachgebiet H Abschnitt III
 (BGBl. II 1990, 889, 1060)

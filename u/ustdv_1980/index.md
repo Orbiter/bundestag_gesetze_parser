@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 21.2.2005 I 434;
 
 Zuletzt geändert durch
-:   Art. 24 G v. 27.3.2024 I Nr. 108
+:   Art. 7 V v. 19.12.2025 I Nr. 372
 
 
 ## - - Zu § 3a des Gesetzes
@@ -1008,10 +1008,10 @@ Abs. 1 entsprechend anzuwenden.
 
 (1) Die Steuervergütung ist bei dem zuständigen Finanzamt bis zum
 Ablauf des Kalenderjahres nach amtlich vorgeschriebenem Vordruck oder
-amtlich vorgeschriebenem Datensatz durch Datenfernübertragung zu
-beantragen, das auf das Kalenderjahr folgt, in dem der Gegenstand in
-das Drittlandsgebiet gelangt. Ein Antrag kann mehrere Ansprüche auf
-die Steuervergütung umfassen.
+amtlich vorgeschriebenem Datensatz über die amtlich bestimmte
+Schnittstelle zu beantragen, das auf das Kalenderjahr folgt, in dem
+der Gegenstand in das Drittlandsgebiet gelangt. Ein Antrag kann
+mehrere Ansprüche auf die Steuervergütung umfassen.
 
 (2) Der Nachweis, dass der Gegenstand in das Drittlandsgebiet gelangt
 ist, muss in der gleichen Weise wie bei Ausfuhrlieferungen geführt
@@ -1188,7 +1188,9 @@ mindestens folgende Angaben enthalten:
 
 Die §§ 31 und 32 sind entsprechend anzuwenden. Die Sätze 1 und 2
 gelten nicht für Rechnungen über Leistungen im Sinne der §§ 3c, 6a und
-13b des Gesetzes.
+13b des Gesetzes. Eine Rechnung nach Satz 1 kann abweichend von § 14
+Absatz 2 Satz 2 des Gesetzes immer als sonstige Rechnung im Sinne von
+§ 14 Absatz 1 Satz 4 des Gesetzes übermittelt werden.
 
 
 ### § 34 Fahrausweise als Rechnungen
@@ -1218,6 +1220,9 @@ mindestens die folgenden Angaben enthalten:
 
 
 
+Eine Rechnung nach Satz 1 kann abweichend von § 14 Absatz 2 Satz 2 des
+Gesetzes immer als sonstige Rechnung im Sinne von § 14 Absatz 1 Satz 4
+des Gesetzes übermittelt werden.
 
 (2) Fahrausweise für eine grenzüberschreitende Beförderung im
 Personenverkehr und im internationalen Eisenbahn-Personenverkehr
@@ -1230,6 +1235,45 @@ Beförderungsleistung anzuwenden ist.
 
 (3) Die Absätze 1 und 2 gelten für Belege im Reisegepäckverkehr
 entsprechend.
+
+
+### § 34a Rechnungen von Kleinunternehmern
+
+Eine Rechnung über Umsätze, die nach § 19 Absatz 1 des Gesetzes
+steuerfrei sind, muss mindestens folgende Angaben enthalten:
+
+1.  den vollständigen Namen und die vollständige Anschrift des leistenden
+    Unternehmers und des Leistungsempfängers,
+
+
+2.  die dem leistenden Unternehmer vom Finanzamt erteilte Steuernummer
+    oder die ihm vom Bundeszentralamt für Steuern erteilte Umsatzsteuer-
+    Identifikationsnummer oder Kleinunternehmer-Identifikationsnummer,
+
+
+3.  das Ausstellungsdatum,
+
+
+4.  die Menge und die Art (handelsübliche Bezeichnung) der gelieferten
+    Gegenstände oder den Umfang und die Art der sonstigen Leistung,
+
+
+5.  das Entgelt für die Lieferung oder sonstige Leistung in einer Summe
+    mit einem Hinweis darauf, dass für die Lieferung oder sonstige
+    Leistung die Steuerbefreiung für Kleinunternehmer gilt (§ 19 des
+    Gesetzes) und
+
+
+6.  in den Fällen der Ausstellung der Rechnung durch den
+    Leistungsempfänger oder durch einen von ihm beauftragten Dritten gemäß
+    § 14 Absatz 2 Satz 5 des Gesetzes die Angabe „Gutschrift“.
+
+
+
+Die §§ 33 und 34 bleiben unberührt. § 31 gilt entsprechend. Eine
+Rechnung nach Satz 1 kann abweichend von § 14 Absatz 2 Satz 2 des
+Gesetzes immer als sonstige Rechnung im Sinne von § 14 Absatz 1 Satz 4
+des Gesetzes übermittelt werden.
 
 
 ## - - Zu § 15 des Gesetzes
@@ -1257,7 +1301,7 @@ Fahrausweis angegeben ist.
 
 ### § 40 Vorsteuerabzug bei unfreien Versendungen
 
-(1) Läßt ein Absender einen Gegenstand durch einen Frachtführer oder
+(1) Lässt ein Absender einen Gegenstand durch einen Frachtführer oder
 Verfrachter unfrei zu einem Dritten befördern oder eine solche
 Beförderung durch einen Spediteur unfrei besorgen, so ist für den
 Vorsteuerabzug der Empfänger der Frachtsendung als Auftraggeber dieser
@@ -1293,9 +1337,9 @@ entsprechend.
 
 ### § 43 Erleichterungen bei der Aufteilung der Vorsteuern
 
-Die den folgenden steuerfreien Umsätzen zuzurechnenden
-Vorsteuerbeträge sind nur dann vom Vorsteuerabzug ausgeschlossen, wenn
-sie diesen Umsätzen ausschließlich zuzurechnen sind:
+Die den folgenden steuerfreien Umsätzen zuzuordnenden Vorsteuerbeträge
+sind nur dann vom Vorsteuerabzug ausgeschlossen, wenn sie diesen
+Umsätzen ausschließlich zuzuordnen sind:
 
 1.  Umsätze von Geldforderungen, denen zum Vorsteuerabzug berechtigende
     Umsätze des Unternehmers zugrunde liegen;
@@ -1304,7 +1348,7 @@ sie diesen Umsätzen ausschließlich zuzurechnen sind:
 2.  Umsätze von Wechseln, die der Unternehmer von einem Leistungsempfänger
     erhalten hat, weil er den Leistenden als Bürge oder Garantiegeber
     befriedigt. Das gilt nicht, wenn die Vorsteuern, die dem Umsatz dieses
-    Leistenden zuzurechnen sind, vom Vorsteuerabzug ausgeschlossen sind;
+    Leistenden zuzuordnen sind, vom Vorsteuerabzug ausgeschlossen sind;
 
 
 3.  sonstige Leistungen, die im Austausch von gesetzlichen Zahlungsmitteln
@@ -1407,11 +1451,11 @@ zu berechnen.
 Voranmeldungen bis zu dem Zeitpunkt zu beantragen, an dem die
 Voranmeldung, für die die Fristverlängerung erstmals gelten soll, nach
 § 18 Abs. 1, 2 und 2a des Gesetzes zu übermitteln ist. Der Antrag ist
-nach amtlich vorgeschriebenem Datensatz durch Datenfernübertragung zu
-übermitteln. Auf Antrag kann das Finanzamt zur Vermeidung von
-unbilligen Härten auf eine elektronische Übermittlung verzichten; in
-diesem Fall hat der Unternehmer einen Antrag nach amtlich
-vorgeschriebenem Vordruck zu stellen. In dem Antrag hat der
+nach amtlich vorgeschriebenem Datensatz über die amtlich bestimmte
+Schnittstelle zu übermitteln. Auf Antrag kann das Finanzamt zur
+Vermeidung von unbilligen Härten auf eine elektronische Übermittlung
+verzichten; in diesem Fall hat der Unternehmer einen Antrag nach
+amtlich vorgeschriebenem Vordruck zu stellen. In dem Antrag hat der
 Unternehmer, der die Voranmeldungen monatlich zu übermitteln hat, die
 Sondervorauszahlung (§ 47) selbst zu berechnen und anzumelden.
 Gleichzeitig hat er die angemeldete Sondervorauszahlung zu entrichten.
@@ -1596,9 +1640,9 @@ Absatz 3 Satz 3 gelten entsprechend.
 #### § 61 Vergütungsverfahren für im übrigen Gemeinschaftsgebiet ansässige Unternehmer
 
 (1) Der im übrigen Gemeinschaftsgebiet ansässige Unternehmer hat den
-Vergütungsantrag nach amtlich vorgeschriebenem Datensatz durch
-Datenfernübertragung über das in dem Mitgliedstaat, in dem der
-Unternehmer ansässig ist, eingerichtete elektronische Portal dem
+Vergütungsantrag nach amtlich vorgeschriebenem Datensatz über die
+amtlich bestimmte Schnittstelle über das in dem Mitgliedstaat, in dem
+der Unternehmer ansässig ist, eingerichtete elektronische Portal dem
 Bundeszentralamt für Steuern zu übermitteln. Der Vergütungsantrag gilt
 nur dann als vorgelegt, wenn der Unternehmer
 
@@ -1641,11 +1685,12 @@ gilt nicht, wenn der Vergütungszeitraum das Kalenderjahr oder der
 letzte Zeitraum des Kalenderjahres ist. Für diese Vergütungszeiträume
 muss die beantragte Vergütung mindestens 50 Euro betragen.
 
-(4) Der Bescheid über die Vergütung von Vorsteuerbeträgen ist durch
+(4) Der Bescheid über die Vergütung von Vorsteuerbeträgen kann durch
 Bereitstellung zum Datenabruf nach § 122a in Verbindung mit § 87a
-Absatz 8 der Abgabenordnung bekannt zu geben. Hat der Empfänger des
-Bescheids der Bekanntgabe durch Bereitstellung zum Datenabruf nach
-Satz 1 nicht zugestimmt, ist der Bescheid schriftlich zu erteilen.
+Absatz 8 der Abgabenordnung bekannt gegeben werden. Hat der Empfänger
+des Bescheids eine einmalige oder dauerhafte postalische Bekanntgabe
+nach § 122 Absatz 2 der Abgabenordnung beantragt, ist der Bescheid,
+bis zum Widerruf des Antrags, schriftlich zu erteilen.
 
 (5) Der nach § 18 Abs. 9 des Gesetzes zu vergütende Betrag ist zu
 verzinsen. Der Zinslauf beginnt mit Ablauf von vier Monaten und zehn
@@ -1680,20 +1725,44 @@ Bundeszentralamtes für Steuern nachkommt.
 #### § 61a Vergütungsverfahren für nicht im Gemeinschaftsgebiet ansässige Unternehmer
 
 (1) Der nicht im Gemeinschaftsgebiet ansässige Unternehmer hat den
-Vergütungsantrag nach amtlich vorgeschriebenem Datensatz durch
-Datenfernübertragung an das Bundeszentralamt für Steuern zu
+Vergütungsantrag nach amtlich vorgeschriebenem Datensatz über die
+amtlich bestimmte Schnittstelle an das Bundeszentralamt für Steuern zu
 übermitteln. Auf Antrag kann das Bundeszentralamt für Steuern zur
 Vermeidung von unbilligen Härten auf eine elektronische Übermittlung
 verzichten. In diesem Fall hat der nicht im Gemeinschaftsgebiet
 ansässige Unternehmer die Vergütung nach amtlich vorgeschriebenem
 Vordruck beim Bundeszentralamt für Steuern zu beantragen und den
-Vergütungsantrag eigenhändig zu unterschreiben.
+Vergütungsantrag eigenhändig zu unterschreiben. Der Bescheid über die
+Vergütung von Vorsteuerbeträgen ist durch Bereitstellung zum
+Datenabruf nach § 122a in Verbindung mit § 87a Absatz 8 der
+Abgabenordnung bekannt zu geben. Abweichend von § 122a Absatz 2 der
+Abgabenordnung kann das Bundeszentralamt für Steuern nur zur
+Vermeidung von unbilligen Härten einem Antrag auf einmalige
+postalischer Bekanntgabe nach § 122a Absatz 2 der Abgabenordnung
+entsprechen und den Bescheid, bis zum Widerruf des Antrags, postalisch
+bekannt geben.
 
 (2) Die Vergütung ist binnen sechs Monaten nach Ablauf des
 Kalenderjahres, in dem der Vergütungsanspruch entstanden ist, zu
-beantragen. Der Unternehmer hat die Vergütung selbst zu berechnen. Die
-Vorsteuerbeträge sind durch Vorlage von Rechnungen und Einfuhrbelegen
-im Original nachzuweisen.
+beantragen. Der Unternehmer hat die Vergütung selbst zu berechnen. In
+dem Antrag sind die Vorsteuerbeträge, deren Vergütung beantragt wird,
+im Einzelnen aufzuführen (Einzelaufstellung). Die Vorsteuerbeträge
+sind
+
+1.  durch Hochladen der Rechnungen und Einfuhrbelege im Online-Portal des
+    Bundeszentralamts für Steuern oder
+
+
+2.  in Ausnahmefällen durch Vorlage der Rechnungen und Einfuhrbelege auf
+    einem Speichermedium
+
+
+
+nachzuweisen, wenn der Gesamtbetrag der Rechnung oder des
+Einfuhrbeleges 250 Euro übersteigt. Das Bundeszentralamt für Steuern
+kann verlangen, dass die Vorsteuerbeträge durch Vorlage von Rechnungen
+und Einfuhrbelegen im Original nachgewiesen werden. In diesem Fall
+gilt der in Satz 4 genannte Schwellenwert nicht.
 
 (3) Die beantragte Vergütung muss mindestens 1 000 Euro betragen. Das
 gilt nicht, wenn der Vergütungszeitraum das Kalenderjahr oder der
@@ -1820,12 +1889,8 @@ Die Aufzeichnungspflichten nach § 22 Abs. 2 Nr. 4, 7, 8 und 9 des
 Gesetzes bleiben unberührt.
 
 
-### § 66 Aufzeichnungspflichten bei der Anwendung allgemeiner Durchschnittssätze
+### § 66 (weggefallen)
 
-Der Unternehmer ist von den Aufzeichnungspflichten nach § 22 Abs. 2
-Nr. 5 und 6 des Gesetzes befreit, soweit er die abziehbaren
-Vorsteuerbeträge nach einem Durchschnittssatz (§§ 69 und 70)
-berechnet.
 
 
 ### § 66a Aufzeichnungspflichten bei der Anwendung des Durchschnittssatzes für Körperschaften, Personenvereinigungen und Vermögensmassen im Sinne des § 5 Abs. 1 Nr. 9 des Körperschaftsteuergesetzes
@@ -1945,7 +2010,8 @@ Gesetzes bezeichneten Steuerbefreiungen wie folgt nachzuweisen:
 1.  bei Lieferungen und sonstigen Leistungen, die von einer amtlichen
     Beschaffungsstelle in Auftrag gegeben worden sind, durch eine
     Bescheinigung der amtlichen Beschaffungsstelle nach amtlich
-    vorgeschriebenem Vordruck (Abwicklungsschein);
+    vorgeschriebenem Vordruck oder eine elektronische Version des
+    Vordrucks (Abwicklungsschein);
 
 
 2.  bei Lieferungen und sonstigen Leistungen, die von einer deutschen

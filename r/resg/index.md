@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2012, 1583, 1588
 
 Zuletzt geändert durch
-:   Art. 11 G v. 20.8.2021 I 3932
-
-Änderung durch
-:   Art. 3 G v. 20.12.2023 I Nr. 392
+:   Art. 7 G v. 9.1.2026 I Nr. 7
 
 Änderung der inhaltsübersicht durch
 :   Art. 2 Nr. 1 G v. 20.8.2021 I 3930 ist nicht ausführbar, da dieses G keine amtliche Inhaltsübersicht hat
@@ -241,8 +238,9 @@ und 9 Absatz 7 des Arbeitsplatzschutzgesetzes entsprechend.
 ### § 11 Versorgung
 
 Erleidet eine Soldatin oder ein Soldat im Reservewehrdienstverhältnis
-bei der Verrichtung des Wehrdienstes eine Schädigung, richtet sich die
-Versorgung nach dem Soldatenversorgungsgesetz.
+bei der Verrichtung des Wehrdienstes eine gesundheitliche Schädigung,
+richtet sich die Versorgung nach dem Soldatenversorgungsgesetz und dem
+Soldatenentschädigungsgesetz.
 
 
 ### § 12 Beendigungsgründe

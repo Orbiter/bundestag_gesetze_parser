@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1974, 3681
 
 Zuletzt geändert durch
-:   Art. 1 G v. 23.6.2023 I Nr. 167
+:   Art. 21 G v. 18.12.2025 I Nr. 347
 
 
 ## Eingangsformel
@@ -226,12 +226,12 @@ Verordnung (EU) 2017/1938 über ein Drittland verbunden ist, um die
 Anwendung von marktbasierten oder nicht marktbasierten
 Solidaritätsmaßnahmen im Sinne von Artikel 13 Absatz 4 der Verordnung
 (EU) 2017/1938, beschafft der Marktgebietsverantwortliche im Sinne von
-§ 3 Nummer 26a des Energiewirtschaftsgesetzes im Auftrag der
+§ 3 Nummer 72 des Energiewirtschaftsgesetzes im Auftrag der
 Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und
 Eisenbahnen und im Einvernehmen mit dem Bundesministerium für
-Wirtschaft und Klimaschutz und auf Rechnung des Bundes Gasmengen, die
-für die Versorgung der durch Solidarität geschützten Kunden in
-Deutschland notwendig sind, bei den zuständigen Stellen der direkten
+Wirtschaft und Energie und auf Rechnung des Bundes Gasmengen, die für
+die Versorgung der durch Solidarität geschützten Kunden in Deutschland
+notwendig sind, bei den zuständigen Stellen der direkten
 Nachbarstaaten oder der Mitgliedstaaten der Europäischen Union im
 Sinne von Artikel 13 Absatz 2 der Verordnung (EU) 2017/1938 oder
 unterstützt der Marktgebietsverantwortliche diese Beschaffung und
@@ -274,14 +274,14 @@ werden:
 (1) Rechtsverordnungen nach den §§ 1, 2, 2a Absatz 1 und § 2b Absatz 2
 erläßt die Bundesregierung. Sie kann diese Befugnis durch
 Rechtsverordnung ohne Zustimmung des Bundesrates auf das
-Bundesministerium für Wirtschaft und Klimaschutz sowie in Bezug auf
-die leitungsgebundene Versorgung mit Elektrizität und Erdgas auf die
+Bundesministerium für Wirtschaft und Energie sowie in Bezug auf die
+leitungsgebundene Versorgung mit Elektrizität und Erdgas auf die
 Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und
 Eisenbahnen übertragen, wenn die Energieversorgung im Sinne des § 1
 Abs. 1 gefährdet oder gestört ist. Rechtsverordnungen des
-Bundesministeriums für Wirtschaft und Klimaschutz, die der
-Zollverwaltung Aufgaben übertragen, werden im Einvernehmen mit dem
-Bundesministerium der Finanzen erlassen.
+Bundesministeriums für Wirtschaft und Energie, die der Zollverwaltung
+Aufgaben übertragen, werden im Einvernehmen mit dem Bundesministerium
+der Finanzen erlassen.
 
 (2) Rechtsverordnungen, die nach Eintritt einer Gefährdung oder
 Störung der Energieversorgung im Sinne des § 1 Abs. 1 erlassen werden
@@ -348,9 +348,9 @@ werden, wenn:
     (EU) 2017/1938 als letztes Mittel erforderlich ist,
 
 
-2.  das Bundesministerium für Wirtschaft und Klimaschutz mitgeteilt hat,
-    dass ein Fall nach Nummer 1 eingetreten ist, und dies in geeigneter
-    Form veröffentlicht worden ist sowie
+2.  das Bundesministerium für Wirtschaft und Energie mitgeteilt hat, dass
+    ein Fall nach Nummer 1 eingetreten ist und dies in geeigneter Form
+    veröffentlicht                    worden ist sowie
 
 
 3.  die Erfüllung der Verpflichtung zu Solidaritätsmaßnahmen durch
@@ -432,7 +432,7 @@ Ausnahme der §§ 91 und 93 entsprechend anzuwenden.
 
 ### § 6 Verwaltungsvorschriften
 
-(1) Das Bundesministerium für Wirtschaft und Klimaschutz erläßt mit
+(1) Das Bundesministerium für Wirtschaft und Energie erläßt mit
 Zustimmung des Bundesrates zur Ausführung dieses Gesetzes und der auf
 Grund dieses Gesetzes erlassenen Rechtsverordnungen allgemeine
 Verwaltungsvorschriften.
@@ -446,7 +446,7 @@ sind.
 
 ### § 7 Einzelweisungen
 
-Das Bundesministerium für Wirtschaft und Klimaschutz kann, soweit die
+Das Bundesministerium für Wirtschaft und Energie kann, soweit die
 Ausführung der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen
 den Ländern obliegt, Einzelweisungen erteilen, wenn dies zur Sicherung
 einer regional ausgeglichenen Versorgung erforderlich ist und die
@@ -486,7 +486,7 @@ und zur Vorbereitung der Ausführung solcher Rechtsverordnungen haben
 natürliche und juristische Personen und sonstige Personenvereinigungen
 den zuständigen Behörden auf Verlangen die erforderlichen Auskünfte zu
 erteilen. Sie haben ferner dem Bundesministerium für Wirtschaft und
-Klimaschutz sowie der Bundesnetzagentur für Elektrizität, Gas,
+Energie sowie der Bundesnetzagentur für Elektrizität, Gas,
 Telekommunikation, Post und Eisenbahnen Auskünfte zu erteilen, soweit
 dies zur Wahrnehmung der ihnen nach diesem Gesetz obliegenden
 Aufgaben, insbesondere zur Vorbereitung der auf Grund dieses Gesetzes
@@ -497,7 +497,15 @@ Geschäftsgeheimnisse an andere Behörden, den
 Marktgebietsverantwortlichen und die Betreiber von
 Elektrizitätsversorgungsnetzen, soweit dies für die Vorbereitung und
 Wahrnehmung der Aufgaben nach diesem Gesetz sowie aufgrund dieses
-Gesetzes erlassenen Rechtsverordnungen erforderlich ist.
+Gesetzes erlassenen Rechtsverordnungen erforderlich ist. Soweit Daten
+im Sinne des Satzes 3 für Maßnahmen nach § 1 der
+Gassicherungsverordnung vom 26. April 1982 (BGBl. I S. 517), die
+zuletzt durch Artikel 1 der Verordnung vom 31. März 2023 (BGBl. 2023 I
+Nr. 94) geändert worden ist, und für Solidaritätsmaßnahmen nach § 2a
+von der Bundesnetzagentur erlangt werden, übermittelt diese die Daten
+auf deren Ersuchen und soweit dies für die Erfüllung von deren
+Aufgaben erforderlich ist, an die Bundesanstalt für
+Finanzdienstleistungsaufsicht.
 
 (2) Die mit der Einholung von Auskünften beauftragten Personen sind
 befugt, Grundstücke und die Geschäfts- und Betriebsräume des
@@ -812,7 +820,7 @@ Ordnungswidrigkeiten ist
     Rechtsverordnung ergangene Verfügung,
 
     a)  soweit Bundesbehörden zur Durchführung zuständig sind, das
-        Bundesministerium für Wirtschaft und Klimaschutz oder diese Behörden,
+        Bundesministerium für Wirtschaft und Energie oder diese Behörden,
         soweit sie durch Rechtsverordnungen für zuständig erklärt werden,
 
 
@@ -835,8 +843,8 @@ Ordnungswidrigkeiten ist
 #### § 17 Treuhandverwaltung von Unternehmen der Kritischen Infrastruktur
 
 (1) Ein Unternehmen, das selbst oder durch verbundene Unternehmen im
-Sinne von § 15 des Aktiengesetzes Kritische Infrastrukturen im Sinne
-von § 2 Absatz 10 des BSI-Gesetzes im Sektor Energie betreibt, kann
+Sinne von § 15 des Aktiengesetzes kritische Anlagen im Sinne von § 2
+Nummer 3 des KRITIS-Dachgesetzes im Sektor Energie betreibt, kann
 unter Treuhandverwaltung gestellt werden, wenn die konkrete Gefahr
 besteht, dass ohne eine Treuhandverwaltung das Unternehmen seine dem
 Funktionieren des Gemeinwesens im Sektor Energie dienenden Aufgaben
@@ -850,8 +858,8 @@ vorliegen.
 
 (3) Die Anordnung einer Treuhandverwaltung und ihre Verlängerung
 erfolgen durch Verwaltungsakt des Bundesministeriums für Wirtschaft
-und Klimaschutz. Ein Verwaltungsakt nach Satz 1 darf öffentlich
-bekannt gegeben werden. Die öffentliche Bekanntgabe wird durch
+und Energie. Ein Verwaltungsakt nach Satz 1 darf öffentlich bekannt
+gegeben werden. Die öffentliche Bekanntgabe wird durch
 Veröffentlichung des Verwaltungsakts im Bundesanzeiger bewirkt. Der
 Verwaltungsakt wird mit dieser Veröffentlichung wirksam.
 
@@ -899,14 +907,14 @@ Verwaltungsakts nach Absatz 3 Satz 1 wirksam bleiben können.
 Satz 1 über die Sozialbindung des Eigentums nach Artikel 14 Absatz 2
 des Grundgesetzes hinausgehen, ist ein angemessener Ausgleich zu
 leisten. Der Ausgleich wird auf Antrag durch das Bundesministerium für
-Wirtschaft und Klimaschutz im Einvernehmen mit dem Bundesministerium
-der Finanzen durch Verwaltungsakt festgesetzt. Der Antrag setzt
-voraus, dass sich der Antragsteller auf das Grundrecht aus Artikel 14
-Absatz 1 Satz 1 des Grundgesetzes berufen kann, und kann nur innerhalb
-eines Monats nach Beendigung der Treuhandverwaltung gestellt werden.
-Gegen die Entscheidung des Bundesministeriums für Wirtschaft und
-Klimaschutz nach Satz 2 sind die Rechtsbehelfe der
-Verwaltungsgerichtsordnung statthaft.
+Wirtschaft und Energie im Einvernehmen mit dem Bundesministerium der
+Finanzen durch Verwaltungsakt festgesetzt. Der Antrag setzt voraus,
+dass sich der Antragsteller auf das Grundrecht aus Artikel 14 Absatz 1
+Satz 1 des Grundgesetzes berufen kann, und kann nur innerhalb eines
+Monats nach Beendigung der Treuhandverwaltung gestellt werden. Gegen
+die Entscheidung des Bundesministeriums für Wirtschaft und Energie
+nach Satz 2 sind die Rechtsbehelfe der Verwaltungsgerichtsordnung
+statthaft.
 
 (8) Die Kosten der Treuhandverwaltung hat das unter Treuhandverwaltung
 gestellte Unternehmen zu tragen, das auf Verlangen der nach Absatz 4
@@ -935,8 +943,8 @@ für das Funktionieren des Gemeinwesens im Sektor Energie nicht
 fortgeführt werden kann.
 
 (2) Die Anordnung einer Kapitalmaßnahme erfolgt durch Verwaltungsakt
-des Bundesministeriums für Wirtschaft und Klimaschutz. § 17 Absatz 3
-Satz 2 bis 4 gilt entsprechend.
+des Bundesministeriums für Wirtschaft und Energie. § 17 Absatz 3 Satz
+2 bis 4 gilt entsprechend.
 
 (3) Die Anordnung einer Kapitalmaßnahme nach Absatz 2 Satz 1 kann
 vorsehen, dass
@@ -966,15 +974,15 @@ nachdem der Teil der Kapital- und Gewinnrücklagen, der zusammen über
 Stammkapitals hinausgeht, vorweg aufgelöst ist und solange ein
 Gewinnvortrag nicht vorhanden ist.
 
-(4) Das Bundesministerium für Wirtschaft und Klimaschutz hat dem
+(4) Das Bundesministerium für Wirtschaft und Energie hat dem
 Eigentümer des von der Kapitalmaßnahme betroffenen Unternehmens im
 Rahmen der Anhörung nach § 28 des Verwaltungsverfahrensgesetzes
 insbesondere Gelegenheit zu geben, seine Bereitschaft zu erklären, die
 erforderliche Kapitalmaßnahme in den Handlungsformen des privaten
 Rechts einvernehmlich durchzuführen. Das Bundesministerium für
-Wirtschaft und Klimaschutz kann von einer Anhörung absehen, soweit
-diese mit unverhältnismäßigem Aufwand verbunden wäre oder den Zweck
-der Kapitalmaßnahme gefährden würde.
+Wirtschaft und Energie kann von einer Anhörung absehen, soweit diese
+mit unverhältnismäßigem Aufwand verbunden wäre oder den Zweck der
+Kapitalmaßnahme gefährden würde.
 
 (5) Für eine nach Absatz 2 Satz 1 angeordnete Kapitalmaßnahme ist eine
 Entschädigung zu leisten. § 21 Absatz 1 Satz 2 und 3 gilt
@@ -986,12 +994,12 @@ Entschädigung bemisst sich nach dem Verkehrswert des unter
 Treuhandverwaltung gestellten Unternehmens. Die Ermittlung des
 Verkehrswertes erfolgt auf der Grundlage einer Bewertung des
 Unternehmens. Die Verwaltungsorgane des betroffenen Unternehmens sind
-verpflichtet, dem Bundesministerium für Wirtschaft und Klimaschutz die
-für die Ermittlung des Unternehmenswertes notwendigen Unterlagen zur
+verpflichtet, dem Bundesministerium für Wirtschaft und Energie die für
+die Ermittlung des Unternehmenswertes notwendigen Unterlagen zur
 Verfügung zu stellen und Auskünfte zu erteilen. Die
 Entschädigungszahlung ist mit Ablauf des Tages fällig, an dem die
 angeordnete Kapitalmaßnahme wirksam wird. Die Höhe der Entschädigung
-wird durch das Bundesministerium für Wirtschaft und Klimaschutz im
+wird durch das Bundesministerium für Wirtschaft und Energie im
 Einvernehmen mit dem Bundesministerium der Finanzen gesondert bekannt
 gemacht. Entschädigungsbeträge sind mit einem Prozentpunkt über dem
 Basiszinssatz nach § 247 des Bürgerlichen Gesetzbuchs jährlich von dem
@@ -1033,8 +1041,8 @@ Vermögensgegenständen über § 17 Absatz 5 Satz 2 hinaus anweisen, wenn
 
 Die Übertragung des Eigentums an den Vermögensgegenständen nach Satz 1
 bedarf zu ihrer Wirksamkeit der Zustimmung des Bundesministeriums für
-Wirtschaft und Klimaschutz. Die Zustimmung des Bundesministeriums für
-Wirtschaft und Klimaschutz erfolgt durch Verwaltungsakt und im
+Wirtschaft und Energie. Die Zustimmung des Bundesministeriums für
+Wirtschaft und Energie erfolgt durch Verwaltungsakt und im
 Einvernehmen mit dem Bundesministerium der Finanzen. § 17 Absatz 3
 Satz 2 bis 4 ist entsprechend anzuwenden.
 
@@ -1047,11 +1055,11 @@ stehendes Unternehmen oder an eine Tochtergesellschaft eines
 derartigen Unternehmens, die letztlich unter der Kontrolle des Bundes
 steht, erfolgt, ist § 20 Absatz 3 entsprechend anzuwenden.
 
-(3) Das Bundesministerium für Wirtschaft und Klimaschutz hört den oder
-die Eigentümer des Unternehmens, das durch Anordnung nach § 17 Absatz
-3 Satz 1 unter Treuhandverwaltung gestellt ist, an und gibt in
+(3) Das Bundesministerium für Wirtschaft und Energie hört den oder die
+Eigentümer des Unternehmens, das durch Anordnung nach § 17 Absatz 3
+Satz 1 unter Treuhandverwaltung gestellt ist, an und gibt in
 geeigneter Form Gelegenheit zur Stellungnahme. Das Bundesministerium
-für Wirtschaft und Klimaschutz kann von einer Anhörung absehen, soweit
+für Wirtschaft und Energie kann von einer Anhörung absehen, soweit
 diese mit unverhältnismäßigem Aufwand verbunden wäre oder den Zweck
 der Übertragung des Vermögensgegenstandes gefährden würde.
 
@@ -1069,11 +1077,11 @@ berücksichtigen. Der Verkehrswert des übertragenen
 Vermögensgegenstands wird auf der Grundlage einer Bewertung des
 Vermögensgegenstandes ermittelt. Die Verwaltungsorgane des betroffenen
 Unternehmens sind verpflichtet, dem Bundesministerium für Wirtschaft
-und Klimaschutz die notwendigen Unterlagen für die Ermittlung des
-Wertes des übertragenen Vermögensgegenstandes zur Verfügung zu stellen
-und Auskünfte zu erteilen. Die Höhe der Entschädigung wird durch das
-Bundesministerium für Wirtschaft und Klimaschutz im Einvernehmen mit
-dem Bundesministerium der Finanzen gesondert bekannt gemacht.
+und Energie die notwendigen Unterlagen für die Ermittlung des Wertes
+des übertragenen Vermögensgegenstandes zur Verfügung zu stellen und
+Auskünfte zu erteilen. Die Höhe der Entschädigung wird durch das
+Bundesministerium für Wirtschaft und Energie im Einvernehmen mit dem
+Bundesministerium der Finanzen gesondert bekannt gemacht.
 
 (6) Die Entschädigungszahlung wird mit der Übertragung des
 Vermögensgegenstandes fällig. Entschädigungsbeträge sind ab dem
@@ -1103,8 +1111,8 @@ Maßgabe dieses Gesetzes vorgenommen werden.
 Energieversorgung können sein:
 
 1.  Anteile an Unternehmen, die selbst oder durch verbundene Unternehmen
-    im Sinne von § 15 des Aktiengesetzes Kritische Infrastrukturen im
-    Sinne von § 2 Absatz 10 des BSI-Gesetzes im Sektor Energie betreiben,
+    im Sinne von § 15 des Aktiengesetzes kritische Anlagen im Sinne von §
+    2 Nummer 3 des KRITIS-Dachgesetzes im Sektor Energie betreiben,
 
 
 2.  sonstige Rechte, die Bestandteile der Eigenmittel von Unternehmen nach
@@ -1148,9 +1156,9 @@ geeignet ist, diesen Zweck zu erfüllen.
 #### § 19 Enteignungsakt; Verordnungsermächtigung
 
 (1) Die Enteignung erfolgt durch Rechtsverordnung des
-Bundesministeriums für Wirtschaft und Klimaschutz im Einvernehmen mit
-dem Bundesministerium der Finanzen ohne Zustimmung des Bundesrates.
-Die Rechtsverordnung muss die folgenden Angaben enthalten:
+Bundesministeriums für Wirtschaft und Energie im Einvernehmen mit dem
+Bundesministerium der Finanzen ohne Zustimmung des Bundesrates. Die
+Rechtsverordnung muss die folgenden Angaben enthalten:
 
 1.  die Bezeichnung des Enteignungsgegenstandes,
 
@@ -1188,9 +1196,8 @@ Amts wegen unverzüglich in das Handelsregister einzutragen.
 #### § 20 Verfahren
 
 (1) Zuständig für die Durchführung des Enteignungsverfahrens ist das
-Bundesministerium für Wirtschaft und Klimaschutz als
-Enteignungsbehörde. Das Bundesministerium der Finanzen ist zu
-beteiligen.
+Bundesministerium für Wirtschaft und Energie als Enteignungsbehörde.
+Das Bundesministerium der Finanzen ist zu beteiligen.
 
 (2) Die Enteignungsbehörde hört den oder die Eigentümer des von einer
 Enteignung betroffenen Enteignungsgegenstandes an und gibt in
@@ -1204,9 +1211,9 @@ Aufrechterhaltung der Versorgungssicherheit eine Privatisierung
 erlaubt und die Voraussetzungen nach § 7 Absatz 1 Satz 1 der
 Bundeshaushaltsordnung gegeben sind. Ein Rechtsanspruch auf
 Privatisierung besteht für natürliche und juristische Personen nicht.
-Das Bundesministerium für Wirtschaft und Klimaschutz legt dem
-Deutschen Bundestag alle zwei Jahre einen Bericht zum Stand der
-Privatisierung nach Satz 1 vor.
+Das Bundesministerium für Wirtschaft und Energie legt dem Deutschen
+Bundestag alle zwei Jahre einen Bericht zum Stand der Privatisierung
+nach Satz 1 vor.
 
 
 #### § 21 Entschädigung
@@ -1237,8 +1244,8 @@ Verfügung zu stellen und Auskünfte zu erteilen.
 Die Entschädigungszahlung ist mit Ablauf des Tages, in den der
 Übergangszeitpunkt fällt, fällig. Die Höhe der Entschädigung wird in
 der Rechtsverordnung nach § 19 Absatz 1 oder durch das
-Bundesministerium für Wirtschaft und Klimaschutz im Einvernehmen mit
-dem Bundesministerium der Finanzen gesondert bekannt gemacht.
+Bundesministerium für Wirtschaft und Energie im Einvernehmen mit dem
+Bundesministerium der Finanzen gesondert bekannt gemacht.
 
 (5) Entschädigungsbeträge sind mit einem Prozentpunkt über dem
 Basiszinssatz nach § 247 des Bürgerlichen Gesetzbuchs jährlich von dem
@@ -1418,8 +1425,8 @@ Gunsten die Nutzungsrechte eingeräumt werden, können auch durch
 Verwaltungsakt festgesetzt werden.
 
 (8) Verwaltungsakte nach dieser Vorschrift erlässt das
-Bundesministerium für Wirtschaft und Klimaschutz im Einvernehmen mit
-dem Bundesministerium der Finanzen. Eine Anfechtungsklage gegen einen
+Bundesministerium für Wirtschaft und Energie im Einvernehmen mit dem
+Bundesministerium der Finanzen. Eine Anfechtungsklage gegen einen
 Verwaltungsakt nach Absatz 1 hat keine aufschiebende Wirkung.
 
 
@@ -1429,12 +1436,12 @@ Verwaltungsakt nach Absatz 1 hat keine aufschiebende Wirkung.
 #### § 24 Preisanpassungsrechte bei verminderten Gasimporten
 
 (1) Nach der Ausrufung der Alarmstufe oder der Notfallstufe durch das
-Bundesministerium für Wirtschaft und Klimaschutz nach Artikel 8 Absatz
-2 Buchstabe b und Artikel 11 Absatz 1 der Verordnung (EU) 2017/1938 in
+Bundesministerium für Wirtschaft und Energie nach Artikel 8 Absatz 2
+Buchstabe b und Artikel 11 Absatz 1 der Verordnung (EU) 2017/1938 in
 Verbindung mit dem Notfallplan Gas des Bundesministeriums für
 Wirtschaft und Energie vom September 2019, der auf der Internetseite
-des Bundesministeriums für Wirtschaft und Klimaschutz veröffentlicht
-ist, kann die Bundesnetzagentur die Feststellung treffen, dass eine
+des Bundesministeriums für Wirtschaft und Energie veröffentlicht ist,
+kann die Bundesnetzagentur die Feststellung treffen, dass eine
 erhebliche Reduzierung der Gesamtgasimportmengen nach Deutschland
 vorliegt. Die Feststellung kann zu einem späteren Zeitpunkt als dem
 der Ausrufung der Alarm- oder Notfallstufe erfolgen und unter der
@@ -1444,7 +1451,7 @@ Bundesnetzagentur nach Satz 1 erhalten alle von der Reduzierung der
 Gesamtgasimportmengen nach Deutschland unmittelbar durch
 Lieferausfälle oder mittelbar durch Preissteigerung ihres Lieferanten
 infolge der Lieferausfälle betroffenen Energieversorgungsunternehmen
-im Sinne des § 3 Nummer 18 des Energiewirtschaftsgesetzes entlang der
+im Sinne des § 3 Nummer 39 des Energiewirtschaftsgesetzes entlang der
 Lieferkette das Recht, ihre Gaspreise gegenüber ihren Kunden auf ein
 angemessenes Niveau anzupassen. Eine Preisanpassung ist insbesondere
 dann nicht mehr angemessen, wenn sie die Mehrkosten einer
@@ -1539,16 +1546,16 @@ Angemessenheit dieses höheren Preises nachvollziehbar darlegen.
 #### § 25 Preisanpassungsmonitoring
 
 (1) Die Bundesnetzagentur und das Bundesministerium für Wirtschaft und
-Klimaschutz führen ein Monitoring über Preisanpassungen in dem
-Zeitraum, in dem Preisanpassungsrechte nach § 24 bestehen, durch. Für
-dieses Monitoring haben Energieversorgungsunternehmen der
-Bundesnetzagentur jegliche Preisanpassungen, die nach Feststellung der
-Bundesnetzagentur gemäß § 24 Absatz 1 Satz 1 oder aufgrund von deren
-Aufhebung erfolgen, elektronisch anzuzeigen. Die Anzeige über Inhalt
-und Umfang der Preisanpassung ist der Bundesnetzagentur innerhalb
-einer Woche nach erfolgter Anpassung zu übermitteln. Die
-Bundesnetzagentur übermittelt dem Bundesministerium für Wirtschaft und
-Klimaschutz auf Verlangen die erlangten Daten.
+Energie führen ein Monitoring über Preisanpassungen in dem Zeitraum,
+in dem Preisanpassungsrechte nach § 24 bestehen, durch. Für dieses
+Monitoring haben Energieversorgungsunternehmen der Bundesnetzagentur
+jegliche Preisanpassungen, die nach Feststellung der Bundesnetzagentur
+gemäß § 24 Absatz 1 Satz 1 oder aufgrund von deren Aufhebung erfolgen,
+elektronisch anzuzeigen. Die Anzeige über Inhalt und Umfang der
+Preisanpassung ist der Bundesnetzagentur innerhalb einer Woche nach
+erfolgter Anpassung zu übermitteln. Die Bundesnetzagentur übermittelt
+dem Bundesministerium für Wirtschaft und Energie auf Verlangen die
+erlangten Daten.
 
 (2) Die Bundesnetzagentur kann Vorgaben zu Inhalt und Format der zu
 übermittelnden Daten machen.
@@ -1647,20 +1654,20 @@ Führung eines saldierten Preisanpassungskontos.
 #### § 29 Erleichterungen zur Durchführung von Stabilisierungsmaßnahmen
 
 (1) Beantragt ein Unternehmen, das selbst oder durch verbundene
-Unternehmen im Sinne von § 15 des Aktiengesetzes Kritische
-Infrastrukturen im Sinne von § 2 Absatz 10 des BSI-Gesetzes im Sektor
-Energie betreibt, beim Bund Stabilisierungsmaßnahmen, gelten für die
+Unternehmen im Sinne von § 15 des Aktiengesetzes kritische Anlagen im
+Sinne von § 2 Nummer 3 des KRITIS-Dachgesetzes im Sektor Energie
+betreibt, beim Bund Stabilisierungsmaßnahmen, gelten für die
 Durchführung der Stabilisierungsmaßnahmen die nachfolgenden
 Regelungen. Stabilisierungsmaßnahmen im Sinne dieses Gesetzes sind
 alle Maßnahmen, die der Sicherung oder Wiederherstellung einer
 positiven Fortbestehensprognose nach § 19 Absatz 2 der
 Insolvenzordnung oder der Durchfinanzierung der Abwicklung des
 Unternehmens dienen. Ein Rechtsanspruch auf Stabilisierungsmaßnahmen
-besteht nicht. Das Bundesministerium für Wirtschaft und Klimaschutz
-ist die zuständige Behörde für die Verhandlungen über
+besteht nicht. Das Bundesministerium für Wirtschaft und Energie ist
+die zuständige Behörde für die Verhandlungen über
 Stabilisierungsmaßnahmen mit den in Satz 1 genannten Unternehmen.
-Anträge sind bei dem Bundesministerium für Wirtschaft und Klimaschutz
-zu stellen, das im Einvernehmen mit dem Bundesministerium der Finanzen
+Anträge sind bei dem Bundesministerium für Wirtschaft und Energie zu
+stellen, das im Einvernehmen mit dem Bundesministerium der Finanzen
 und dem Bundeskanzleramt über die Anträge entscheidet.
 
 (1a) Solange das Unternehmen Stabilisierungsmaßnahmen nach Absatz 1
@@ -1697,8 +1704,16 @@ sonstigen, vertraglich oder gesetzlich nicht geschuldeten,
 Gewinnausschüttungen an andere Gesellschafter als den Bund, die
 Kreditanstalt für Wiederaufbau oder an andere Gesellschafter, deren
 Anteile ausschließlich vom Bund unmittelbar oder mittelbar gehalten
-werden, geleistet werden. Weiterhin darf das Unternehmen keine Aktien
-oder sonstige Bestandteile der haftenden Eigenmittel des Unternehmens
+werden, geleistet werden; dies gilt nicht für Unternehmen, bei denen
+die zuletzt genannten Gesellschafter eine Mehrheitsbeteiligung nach §
+16 des Aktiengesetzes im Rahmen einer Stabilisierungsmaßnahme in Form
+einer Rekapitalisierung erworben haben und die nach § 3 Absatz 2 des
+Aktiengesetzes börsennotiert sind oder die im Zusammenhang mit der
+Rückführung von Stabilisierungsmaßnahmen einen Antrag auf Billigung
+eines Prospekts für eine Börsennotierung nach § 3 Absatz 2 des
+Aktiengesetzes bei der Bundesanstalt für Finanzdienstleistungsaufsicht
+eingereicht haben. Weiterhin darf das Unternehmen keine Aktien oder
+sonstige Bestandteile der haftenden Eigenmittel des Unternehmens
 zurückkaufen und keine sonstigen, vertraglich oder gesetzlich nicht
 geschuldeten Leistungen an andere Gesellschafter als den Bund, die
 Kreditanstalt für Wiederaufbau oder an Gesellschafter, deren Anteile
@@ -2063,7 +2078,7 @@ dann anzunehmen, wenn
     und Artikel 11 Absatz 1 der Verordnung (EU) 2017/1938 in Verbindung
     mit dem Notfallplan Gas des Bundesministeriums für Wirtschaft und
     Energie vom September 2019, der auf der Internetseite des
-    Bundesministeriums für Wirtschaft und Klimaschutz veröffentlicht ist,
+    Bundesministeriums für Wirtschaft und Energie veröffentlicht ist,
     ausgerufen wird,
 
 
@@ -2145,6 +2160,16 @@ anzuwenden.
 finden auf Maßnahmen des Bundes nach Kapitel 1 und 2 dieses Gesetzes
 mit der Maßgabe entsprechend Anwendung, dass an die Stelle des Fonds
 der Bund tritt.Satz 1 findet auf alle noch offenen Fälle Anwendung.
+
+
+### § 31a Übergangsbestimmung
+
+§ 17 Absatz 1, § 18 Absatz 2 Satz 1 Nummer 1 und § 29 Absatz 1 Satz 1
+sind erst anzuwenden, wenn eine auf der Grundlage von § 4 Absatz 3 und
+§ 5 Absatz 1 des KRITIS-Dachgesetzes erlassene Rechtsverordnung gilt.
+Bis zur Geltung dieser Rechtsverordnung sind § 17 Absatz 1, § 18
+Absatz 2 Satz 1 Nummer 1 und § 29 Absatz 1 Satz 1 in der bis
+einschließlich 16. März 2026 geltenden Fassung weiter anzuwenden.
 
 
 ### § 32 Inkrafttreten

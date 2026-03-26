@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2016, 118
 
 Zuletzt geändert durch
-:   Beschluss v. 5.12.2023; 2024 I Nr. 42
+:   Beschluss v. 2.12.2025; 2026 I Nr. 13
 
 
 ## Eingangsformel
@@ -31,7 +31,7 @@ I S. 1474) geändert worden ist, beschlossen:
 
 ## A.
 
-Mit Wirkung vom 1. Januar 2024 ist abweichend von § 14 Absatz 1 bis 3
+Mit Wirkung vom 1. Januar 2026 ist abweichend von § 14 Absatz 1 bis 3
 des Gesetzes über das Bundesverfassungsgericht der Zweite Senat des
 Bundesverfassungsgerichts auch zuständig:
 
@@ -79,7 +79,26 @@ I.  Für Normenkontrollverfahren (§ 13 Nummer 6 und Nummer 11 BVerfGG) und
     8.  des Bußgeldverfahrens;
 
 
-    9.  des Einkommensteuerrechts einschließlich des Kirchensteuerrechts,
+    9.  des Einkommensteuerrechts einschließlich des Kirchensteuerrechts;
+
+
+    10. des Rechts des Versicherungswesens;
+
+
+    11. des Glücksspielrechts;
+
+
+    12. grundstücks- und unternehmensbezogene Vermögensfragen im Zusammenhang
+        mit der Herstellung der Deutschen Einheit;
+
+
+    13. des Kreditrechts einschließlich des Rechts der Sicherungen;
+
+
+    14. Dienst- und Werkvertragsrecht;
+
+
+    15. Kaufrecht,
 
 
 
@@ -89,7 +108,7 @@ I.  Für Normenkontrollverfahren (§ 13 Nummer 6 und Nummer 11 BVerfGG) und
 
 
 II. Für Normenkontrollverfahren und Verfassungsbeschwerden, die ab dem
-    Geschäftsjahr 2024 eingehen, aus den Rechtsbereichen
+    Geschäftsjahr 2026 eingehen, aus den Rechtsbereichen
 
     1.  des Vertriebenenrechts;
 
@@ -123,7 +142,7 @@ II. Für Normenkontrollverfahren und Verfassungsbeschwerden, die ab dem
     Verfahren zu Befangenheitsanträgen.
 
 
-III. Für Verfassungsbeschwerden, die ab dem Geschäftsjahr 2024 eingehen,
+III. Für Verfassungsbeschwerden, die ab dem Geschäftsjahr 2026 eingehen,
     aus dem Bereich der Zivilgerichtsbarkeit mit Ausnahme der
     Rechtsbereiche
 
@@ -170,48 +189,32 @@ III. Für Verfassungsbeschwerden, die ab dem Geschäftsjahr 2024 eingehen,
     13. Wettbewerbsrecht;
 
 
-    14. grundstücks- und unternehmensbezogene Vermögensfragen im Zusammenhang
-        mit der Herstellung der Deutschen Einheit;
-
-
-    15. Bau- und Bodenrecht einschließlich Erschließungs- und
+    14. Bau- und Bodenrecht einschließlich Erschließungs- und
         Enteignungsrecht;
 
 
-    16. Gesellschaftsrecht einschließlich Genossenschaftsrecht;
+    15. Gesellschaftsrecht einschließlich des Genossenschaftsrechts;
 
 
-    17. Bank-, Börsen- und Wertpapierrecht;
+    16. Bank-, Börsen- und Wertpapierrecht;
 
 
-    18. Kreditrecht einschließlich des Rechts der Sicherungen;
+    17. Recht der Finanzmarktstabilisierung einschließlich Enteignungen;
 
 
-    19. Recht der Finanzmarktstabilisierung einschließlich Enteignungen;
+    18. Regulierungsrecht;
 
 
-    20. Regulierungsrecht;
+    19. Anwaltsvertragsrecht;
 
 
-    21. Anwaltsvertragsrecht;
+    20. wirtschaftsrechtliche Fragen der gesetzlichen Krankenversicherung;
 
 
-    22. wirtschaftsrechtliche Fragen der gesetzlichen Krankenversicherung;
+    21. Vollstreckung öffentlich-rechtlicher Forderungen;
 
 
-    23. Vollstreckung öffentlich-rechtlicher Forderungen;
-
-
-    24. Wohnungseigentumsrecht;
-
-
-    25. Dienst- und Werkvertragsrecht;
-
-
-    26. Kaufrecht;
-
-
-    27. Recht des Versicherungswesens,
+    22. Wohnungseigentumsrecht,
 
 
 
@@ -245,10 +248,4 @@ Rechtsbereich anhand des Verfahrensgegenstands des dem angegriffenen
 Hoheitsakt zugrundeliegenden Ausgangsverfahrens, es sei denn, der
 Schwerpunkt liegt erkennbar auf einem Rechtsgebiet, das dem anderen
 Senat zugewiesen ist.
-
-
-## C.
-
-Für die bis zum 31. Dezember 2023 anhängigen Verfahren bleibt es bei
-der bisherigen Senatszuständigkeit.
 

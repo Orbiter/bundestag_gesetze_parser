@@ -17,10 +17,10 @@ Fundstelle
 :   BGBl I: 1994, 1311
 
 Neugefasst durch
-:   Bek. v. 1. 7.1997 I 1620;
+:   Bek. v. 1.7.1997 I 1620;
 
 Zuletzt geändert durch
-:   Art. 13 G v. 12.12.2019 I 2652
+:   Art. 4 G v. 25.2.2025 I Nr. 63
 
 
 ## § 1 Aufhebung rechtsstaatswidriger Verwaltungsentscheidungen
@@ -84,13 +84,27 @@ Grundsätzen eines Rechtsstaates schlechthin unvereinbar ist und aus
 Gründen der politischen Verfolgung zu einer schweren Herabwürdigung
 des Betroffenen im persönlichen Lebensbereich geführt hat.
 
-(2) Ist die Rechtsstaatswidrigkeit wegen einer Maßnahme, die mit dem
-Ziel der Zersetzung erfolgte, festgestellt worden, erhält der
-Betroffene auf Antrag eine einmalige Leistung in Höhe von 1 500 Euro.
-Der Anspruch auf die Leistung nach Satz 1 ist unpfändbar, nicht
-übertragbar und nicht vererbbar. Die Leistung nach Satz 1 bleibt bei
-Sozialleistungen, deren Zahlung von anderen Einkommen abhängig ist,
-als Einkommen unberücksichtigt.
+(2) Ist die Rechtsstaatswidrigkeit wegen einer der folgenden Maßnahmen
+festgestellt worden, so erhält der Betroffene auf Antrag eine
+einmalige Leistung:
+
+1.  einer Maßnahme, die mit dem Ziel der Zersetzung erfolgte, oder
+
+
+2.  einer Maßnahme, die unter § 1 Absatz 3 Satz 1 in Verbindung mit Absatz
+    2 fällt.
+
+
+
+Die einmalige Leistung beträgt 1 500 Euro in den Fällen des Satzes 1
+Nummer 1 und 7 500 Euro in den Fällen des Satzes 1 Nummer 2. Eine
+Zersetzungsmaßnahme im Sinne des Satzes 1 Nummer 1 liegt auch dann
+vor, wenn die Maßnahme gegen eine Person außerhalb des
+Beitrittsgebiets gerichtet war. In den Fällen des Satzes 1 Nummer 2
+ist § 2 Absatz 4 nicht anzuwenden. Der Anspruch auf die Leistung nach
+Satz 1 ist unpfändbar, nicht übertragbar und nicht vererbbar. Die
+Leistung nach Satz 1 bleibt bei Sozialleistungen, deren Zahlung von
+anderen Einkommen abhängig ist, als Einkommen unberücksichtigt.
 
 (3) § 1 Abs. 3 Satz 1 in Verbindung mit Abs. 2 gilt entsprechend.
 
@@ -142,7 +156,7 @@ Sachverhalts Ausgleichsleistungen gewährt wurden oder zukünftig
 gewährt werden.
 
 
-## § 3 Leistungen der Sozialen Entschädigung bei gesundheitlicher Schädigung
+## § 3 Leistungen der Sozialen Entschädigung bei gesundheitlicher Schädigung; Verordnungsermächtigung
 
 (1) Ein Betroffener, der infolge einer Maßnahme nach § 1 eine
 gesundheitliche Schädigung erlitten hat, erhält wegen der
@@ -192,14 +206,16 @@ Zusammenhanges. Sie ist gegeben, wenn nach dem aktuellen Stand der
 medizinischen Wissenschaft mehr für als gegen einen ursächlichen
 Zusammenhang spricht.
 
-(6) Bei psychischen Gesundheitsstörungen wird die Wahrscheinlichkeit
-des ursächlichen Zusammenhangs im Einzelfall vermutet, wenn diejenigen
-medizinischen Tatsachen vorliegen, die nach den Erfahrungen der
-medizinischen Wissenschaft geeignet sind, einen Ursachenzusammenhang
-zwischen einem nach Art und Schwere geeigneten schädigenden Ereignis
-und der gesundheitlichen Schädigung und der Schädigungsfolge zu
-begründen, und diese Vermutung nicht durch einen anderen Kausalverlauf
-widerlegt wird.
+(6) Beim Vorliegen bestimmter schädigender Ereignisse und bestimmter
+gesundheitlicher Schädigungen des Antragstellers wird die
+Wahrscheinlichkeit des ursächlichen Zusammenhangs vermutet. Das
+Bundesministerium der Justiz bestimmt durch Rechtsverordnung im
+Einvernehmen mit dem Bundesministerium für Gesundheit und dem
+Bundesministerium für Arbeit und Soziales sowie im Benehmen mit der
+oder dem Bundesbeauftragten für die Opfer der SED-Diktatur beim
+Deutschen Bundestag unter Beachtung des aktuellen Standes der
+medizinischen Wissenschaft, welche schädigenden Ereignisse und welche
+gesundheitlichen Schädigungen solche im Sinne des Satzes 1 sind.
 
 (7) Wenn die zur Anerkennung einer Gesundheitsstörung als
 Schädigungsfolge erforderliche Wahrscheinlichkeit nur deshalb nicht

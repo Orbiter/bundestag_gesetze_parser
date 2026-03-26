@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2001, 623
 
 Zuletzt geändert durch
-:   Art. 20 G v. 5.10.2021 I 4607
+:   Art. 8 G v. 7.4.2025 I Nr. 109
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
@@ -49,11 +49,13 @@ Vorschriften Gläubiger der Forderung ist.
 Träger der Sozialhilfe, bei der Durchführung des Zweiten Buches
 Sozialgesetzbuch die nach diesem Buch zuständigen Träger der
 Leistungen, bei der Durchführung des Achten Buches Sozialgesetzbuch
-die Träger der öffentlichen Jugendhilfe und bei der Durchführung der
+die Träger der öffentlichen Jugendhilfe, bei der Durchführung der
 Besonderen Leistungen im Einzelfall nach dem Vierzehnten Buch
-Sozialgesetzbuch die Träger der Sozialen Entschädigung von den
-Gebühren befreit. Sonstige Vorschriften, die eine sachliche oder
-persönliche Befreiung von Kosten gewähren, gelten für
+Sozialgesetzbuch die Träger der Sozialen Entschädigung und bei der
+Durchführung der Leistungen nach Kapitel 5 des
+Soldatenentschädigungsgesetzes der Träger der Soldatenentschädigung
+von den Gebühren befreit. Sonstige Vorschriften, die eine sachliche
+oder persönliche Befreiung von Kosten gewähren, gelten für
 Gerichtsvollzieherkosten nur insoweit, als sie ausdrücklich auch diese
 Kosten umfassen.
 
@@ -221,12 +223,12 @@ nach Durchführung des Auftrags dem Zahlungspflichtigen mitgeteilt
 worden ist.
 
 
-### § 7 Nichterhebung von Kosten wegen unrichtiger Sachbehandlung
+### § 7 Nichterhebung von Kosten
 
 (1) Kosten, die bei richtiger Behandlung der Sache nicht entstanden
-wären, werden nicht erhoben. Das Gleiche gilt für Auslagen, die durch
-eine von Amts wegen veranlasste Verlegung eines Termins oder einer
-Maßnahme entstanden sind.
+wären, werden nicht erhoben. Das Gleiche gilt für Zustellungsgebühren
+und Auslagen, die durch eine von Amts wegen veranlasste Verlegung
+eines Termins oder einer Maßnahme entstanden sind.
 
 (2) Die Entscheidung trifft der Gerichtsvollzieher. § 5 Abs. 2 ist
 entsprechend anzuwenden. Solange nicht das Gericht entschieden hat,
@@ -477,19 +479,6 @@ erheben.
 erheben, soweit sie nach dem Inkrafttreten dieses Gesetzes entstanden
 sind.
 
-
-### § 20 Übergangsregelung aus Anlass des Gesetzes zur Regelung des Sozialen Entschädigungsrechts
-
-Für Personen, die Leistungen nach dem Soldatenversorgungsgesetz in der
-Fassung der Bekanntmachung vom 16. September 2009 (BGBl. I S. 3054),
-das zuletzt durch Artikel 19 des Gesetzes vom 4. August 2019 (BGBl. I
-S. 1147) geändert worden ist, in Verbindung mit dem
-Bundesversorgungsgesetz in der Fassung der Bekanntmachung vom 22.
-Januar 1982 (BGBl. I S. 21), das zuletzt durch Artikel 1 der
-Verordnung vom 13. Juni 2019 (BGBl. I S. 793) geändert worden ist,
-erhalten, gelten die Vorschriften des § 2 Absatz 2 Satz 1 in der am
-31\. Dezember 2023 geltenden Fassung weiter.
-
 (zu § 9)
 
 ### Anlage Kostenverzeichnis
@@ -557,8 +546,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         Beteiligter gilt als eine Zustellung.
 
 
-*    *   (2) Die Gebühr nach Nummer 100 oder 101 wird auch erhoben, wenn der
-        Gerichtsvollzieher die Ladung zum Termin zur Abnahme der
+*    *   (2) Die Gebühr nach Nummer 100, 101 oder 102 wird auch erhoben, wenn
+        der Gerichtsvollzieher die Ladung zum Termin zur Abnahme der
         Vermögensauskunft (§ 802f ZPO) oder den Pfändungs- und
         Überweisungsbeschluss an den Schuldner (§ 829 Abs. 2 Satz 2, auch
         i.V.m. § 835 Abs. 3 Satz 1 ZPO) zustellt.
@@ -568,17 +557,24 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   Persönliche Zustellung durch den Gerichtsvollzieher ..........
 
-    *   11,00 €
+    *   12,00 €
 
 
 *    *   101
 
-    *   Sonstige Zustellung ..........
+    *   Zustellung als elektronisches Dokument (§ 193a ZPO)
 
-    *   3,30 €
+    *   8,00 €
 
 
 *    *   102
+
+    *   Sonstige Zustellung ..........
+
+    *   3,60 €
+
+
+*    *   103
 
     *   Beglaubigung eines Schriftstückes, das dem Gerichtsvollzieher zum
         Zwecke der Zustellung übermittelt wurde (§ 193 Abs. 1 ZPO)
@@ -605,7 +601,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   Amtshandlung nach § 845 Abs. 1 Satz 2 ZPO (Vorpfändung) ..........
 
-    *   17,60 €
+    *   19,20 €
 
 
 *    *   205
@@ -613,7 +609,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Bewirkung einer Pfändung (§ 808 Abs. 1, 2 Satz 2, §§ 809, 826 oder §
         831 ZPO) ..........
 
-    *   28,60 €
+    *   31,20 €
 
 
 *    *
@@ -627,14 +623,14 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Übernahme beweglicher Sachen zum Zwecke der Verwertung in den Fällen
         der §§ 847 und 854 ZPO ..........
 
-    *   17,60 €
+    *   19,20 €
 
 
 *    *   207
 
     *   Versuch einer gütlichen Erledigung der Sache (§ 802b ZPO) ..........
 
-    *   17,60 €
+    *   19,20 €
 
 
 *    *   Die Gebühr entsteht auch im Fall der gütlichen Erledigung.
@@ -652,7 +648,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *
     *   Die Gebühr 207 ermäßigt sich auf ..........
 
-    *   8,80 €
+    *   9,60 €
 
 
 *    *   210
@@ -661,7 +657,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         Gerichtsvollzieher, wenn der Schuldner unter Mitnahme der Pfandstücke
         in einen anderen Amtsgerichtsbezirk verzogen ist ..........
 
-    *   17,60 €
+    *   19,20 €
 
 
 *    *   220
@@ -669,7 +665,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Entfernung von Pfandstücken, die im Gewahrsam des Schuldners, des
         Gläubigers oder eines Dritten belassen waren ..........
 
-    *   17,60 €
+    *   19,20 €
 
 
 *    *
@@ -684,7 +680,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Wegnahme oder Entgegennahme beweglicher Sachen durch den zur
         Vollstreckung erschienenen Gerichtsvollzieher ..........
 
-    *   28,60 €
+    *   31,20 €
 
 
 *    *
@@ -698,7 +694,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Wegnahme oder Entgegennahme einer Person durch den zur Vollstreckung
         erschienenen Gerichtsvollzieher ..........
 
-    *   57,20 €
+    *   62,40 €
 
 
 *    *
@@ -714,7 +710,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         Schiffe oder Schiffsbauwerke und die Einweisung in den Besitz
         ..........
 
-    *   150,00 €
+    *   163,50 €
 
 
 *    *
@@ -732,7 +728,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         im Protokoll und die Nutzung elektronischer Bildaufzeichnungsmittel
         abgegolten.
 
-    *   100,00 €
+    *   109,00 €
 
 
 *    *   242
@@ -741,7 +737,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         werden müssten, wenn sie deutsche Schiffe wären, und ihre Übergabe an
         den Gläubiger ..........
 
-    *   143,00 €
+    *   155,90 €
 
 
 *    *
@@ -755,7 +751,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Übergabe unbeweglicher Sachen an den Verwalter im Falle der
         Zwangsversteigerung oder Zwangsverwaltung ..........
 
-    *   107,80 €
+    *   117,50 €
 
 
 *    *
@@ -771,7 +767,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         nach § 1 GewSchG (§ 96 Abs. 1 FamFG) sowie Anwendung von unmittelbarem
         Zwang auf Anordnung des Gerichts im Fall des § 90 FamFG ..........
 
-    *   57,20 €
+    *   62,40 €
 
 
 *    *
@@ -785,7 +781,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Abnahme der Vermögensauskunft nach den §§ 802c, 802d Abs. 1 oder nach
         § 807 ZPO ..........
 
-    *   36,30 €
+    *   39,50 €
 
 
 *    *   261
@@ -794,7 +790,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         Vermögensverzeichnisses an einen Drittgläubiger (§ 802d Abs. 1 Satz 2,
         Abs. 2 ZPO) ..........
 
-    *   36,30 €
+    *   39,50 €
 
 
 *    *   262
@@ -802,14 +798,14 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Abnahme der eidesstattlichen Versicherung nach § 836 Abs. 3 oder § 883
         Abs. 2 ZPO ..........
 
-    *   41,80 €
+    *   45,60 €
 
 
 *    *   270
 
     *   Verhaftung, Nachverhaftung, zwangsweise Vorführung ..........
 
-    *   42,90 €
+    *   46,80 €
 
 
 *    *   Abschnitt 3
@@ -853,7 +849,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   Forderungen oder anderen Vermögensrechten ..........
 
-    *   57,20 €
+    *   62,40 €
 
 
 *    *   Neben dieser Gebühr wird gegebenenfalls ein Zeitzuschlag nach Nummer
@@ -865,7 +861,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   Öffentliche Verpachtung an den Meistbietenden ..........
 
-    *   57,20 €
+    *   62,40 €
 
 
 *    *
@@ -879,7 +875,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Anberaumung eines neuen Versteigerungs- oder Verpachtungstermins oder
         das nochmalige Ausgebot bei einer Versteigerung im Internet ..........
 
-    *   11,00 €
+    *   12,00 €
 
 
 *    *
@@ -903,7 +899,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Mitwirkung bei der Versteigerung durch einen Dritten (§ 825 Abs. 2
         ZPO) ..........
 
-    *   17,60 €
+    *   19,20 €
 
 
 *    *
@@ -925,7 +921,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         99 Abs. 2, § 106 Abs. 1 Nr. 1 des Gesetzes über Rechte an
         Luftfahrzeugen) ..........
 
-    *   107,80 €
+    *   117,50 €
 
 
 *    *
@@ -939,7 +935,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Feststellung der Mieter oder Pächter von Grundstücken im Auftrag des
         Gerichts je festgestellte Person ..........
 
-    *   7,70 €
+    *   8,40 €
 
 
 *    *
@@ -953,14 +949,14 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Tatsächliches Angebot einer Leistung (§§ 293, 294 BGB) außerhalb der
         Zwangsvollstreckung ..........
 
-    *   17,60 €
+    *   19,20 €
 
 
 *    *   411
 
     *   Beurkundung eines Leistungsangebots ..........
 
-    *   7,70 €
+    *   8,40 €
 
 
 *    *
@@ -974,7 +970,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         der Versteigerung oder Verwahrung außerhalb der Zwangsvollstreckung
         ..........
 
-    *   17,60 €
+    *   19,20 €
 
 
 *    *   430
@@ -983,7 +979,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         Kosten nach diesem Gesetz entfällt, die bei der Durchführung des
         Auftrags entstanden sind ..........
 
-    *   4,40 €
+    *   4,80 €
 
 
 *    *
@@ -1001,7 +997,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Erhebung von Daten bei einer der in § 755 Abs. 2, § 802l Abs. 1 ZPO
         genannten Stellen ..........
 
-    *   14,30 €
+    *   15,60 €
 
 
 *    *
@@ -1021,14 +1017,14 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Die Gebühr entsteht nicht, wenn die Auskunft nach § 882c Abs. 3 Satz 2
         ZPO eingeholt wird.
 
-    *   5,50 €
+    *   6,00 €
 
 
 *    *   442
 
     *   Übermittlung von Daten nach § 802l Abs. 4 ZPO ..........
 
-    *   5,50 €
+    *   6,00 €
 
 
 *    *   Abschnitt 5
@@ -1044,7 +1040,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         Stunden in Anspruch nimmt, für jede weitere angefangene Stunde
         ..........
 
-    *   22,00 €
+    *   24,00 €
 
 
 *    *
@@ -1085,9 +1081,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   -
 
-    *   Zustellung (Nummern 100 und 101) ..........
+    *   Zustellung (Nummern 100 bis 102) ..........
 
-    *   3,30 €
+    *   3,60 €
 
 
 *    *   601
@@ -1096,7 +1092,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   Wegnahme einer Person (Nummer 230) ..........
 
-    *   28,60 €
+    *   31,20 €
 
 
 *    *   602
@@ -1106,7 +1102,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Entsetzung aus dem Besitz (Nummer 240), Wegnahme ausländischer Schiffe
         (Nummer 242) oder Übergabe an den Verwalter (Nummer 243) ..........
 
-    *   35,20 €
+    *   38,40 €
 
 
 *    *   603
@@ -1115,7 +1111,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   Beurkundung eines Leistungsangebots (Nummer 411) ..........
 
-    *   6,60 €
+    *   7,20 €
 
 
 *    *   604
@@ -1125,7 +1121,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Amtshandlung der in den Nummern 205 bis 207, 210 bis 221, 250 bis 301,
         310, 400, 410 und 420 genannten Art ..........
 
-    *   16,50 €
+    *   18,00 €
 
 
 *    *
@@ -1434,7 +1430,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   1.
 
-    *   die sonstige Zustellung (Nummer 101),
+    *   die Zustellung als elektronisches Dokument (Nummer 101) sowie die
+        sonstige Zustellung (Nummer 102),
 
     *
 

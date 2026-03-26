@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1994, 2978, 2979
 
 Zuletzt geändert durch
-:   Art. 2 G v. 19.12.2022 I 2632
+:   Art. 8 G v. 10.2.2026 I Nr. 39
 
 
 ## Abschnitt 1 - Aufgaben und Verwendungen
@@ -725,10 +725,12 @@ Verwaltungsvollstreckungsgesetzes findet keine Anwendung.
 
 
 2.  über Bestandsdaten gemäß § 2 Absatz 2 Nummer 2 des Telekommunikation-
-    Telemedien-Datenschutz-Gesetzes (§ 22 Absatz 1 Satz 1 und § 23 Absatz
-    1 Satz 1 des Telekommunikation-Telemedien-Datenschutz-Gesetzes) von
-    demjenigen, der geschäftsmäßig eigene oder fremde Telemedien zur
-    Nutzung bereithält oder den Zugang zur Nutzung vermittelt.
+    Digitale-Dienste-Datenschutz-Gesetzes (§ 22 Absatz 1 Satz 1 und § 23
+    Absatz 1 Satz 1 des Telekommunikation-Digitale-Dienste-Datenschutz-
+    Gesetzes) von demjenigen, der geschäftsmäßig eigene oder fremde
+    digitale Dienste nach § 1 Absatz 4 Nummer 1 des Digitale-Dienste-
+    Gesetzes zur Nutzung bereithält oder den Zugang zur Nutzung
+    vermittelt.
 
 
 
@@ -769,9 +771,9 @@ Bezieht sich das Auskunftsverlangen nach Absatz 1 auf nach als
 Bestandsdaten erhobene Passwörter oder auf andere Daten, mittels derer
 der Zugriff auf Endgeräte oder auf Speichereinrichtungen, die in
 diesen Endgeräten oder hiervon räumlich getrennt eingesetzt werden,
-geschützt wird (§ 23 Absatz 1 Satz 1 des Telekommunikation-Telemedien-
-Datenschutz-Gesetzes), darf die Auskunft nur verlangt werden zur
-Abwehr einer konkreten Gefahr für Leib, Leben, Freiheit oder die
+geschützt wird (§ 23 Absatz 1 Satz 1 des Telekommunikation-Digitale-
+Dienste-Datenschutz-Gesetzes), darf die Auskunft nur verlangt werden
+zur Abwehr einer konkreten Gefahr für Leib, Leben, Freiheit oder die
 sexuelle Selbstbestimmung einer Person oder für den Bestand des Bundes
 oder eines Landes sowie Güter der Allgemeinheit, deren Bedrohung die
 Grundlagen der Existenz der Menschen berührt, und wenn die
@@ -808,7 +810,8 @@ Datenschutzaufsichtsbehörde.
 einem bestimmten Zeitpunkt zugewiesenen Internetprotokoll-Adresse
 verlangt werden (§ 174 Absatz 1 Satz 3, § 177 Absatz 1 Nummer 3 des
 Telekommunikationsgesetzes und § 22 Absatz 1 Satz 3 und 4 des
-Telekommunikation-Telemedien-Datenschutz-Gesetzes) in den Fällen von
+Telekommunikation-Digitale-Dienste-Datenschutz-Gesetzes) in den Fällen
+von
 
 1.  Absatz 1 Satz 2 Nummer 1 zum Schutz von Leib, Leben, Freiheit oder
     sexueller Selbstbestimmung der Person, dem Bestand und der Sicherheit
@@ -829,11 +832,12 @@ Telekommunikation-Telemedien-Datenschutz-Gesetzes) in den Fällen von
 Absatz 2 Satz 2 bleibt unberührt. Die Auskunft nach den Absätzen 1 und
 2 anhand einer zu einem bestimmten Zeitpunkt zugewiesenen
 Internetprotokoll-Adresse nach § 22 Absatz 1 Satz 3 und 4 des
-Telekommunikation-Telemedien-Datenschutz-Gesetzes darf darüber hinaus
-nur verlangt werden, wenn tatsächliche Anhaltspunkte dafür vorliegen,
-dass die betroffene Person Nutzer des Telemediendienstes ist, bei dem
-die Daten erhoben werden sollen. Die rechtlichen und tatsächlichen
-Grundlagen des Auskunftsverlangens sind aktenkundig zu machen.
+Telekommunikation-Digitale-Dienste-Datenschutz-Gesetzes darf darüber
+hinaus nur verlangt werden, wenn tatsächliche Anhaltspunkte dafür
+vorliegen, dass die betroffene Person Nutzer des digitalen Dienstes
+ist, bei dem die Daten erhoben werden sollen. Die rechtlichen und
+tatsächlichen Grundlagen des Auskunftsverlangens sind aktenkundig zu
+machen.
 
 (4) Die betroffene Person ist in den Fällen der Absätze 2 und 3 über
 die Auskunftserteilung zu benachrichtigen. Die Benachrichtigung
@@ -2148,6 +2152,90 @@ der Daten gestellte Bedingungen sind zu beachten.
 (2) Die Bundespolizei erteilt dem übermittelnden Staat auf dessen
 Ersuchen zu Zwecken der Datenschutzkontrolle Auskunft darüber, wie die
 übermittelten Daten verwendet wurden.
+
+
+##### § 33b Datenübermittlung und -bereitstellung an Mitgliedstaaten der Europäischen Union und Schengen-assoziierte Staaten gemäß der Richtlinie (EU) 2023/977
+
+(1) Für die Übermittlung von Daten an Polizeibehörden oder sonstige
+für die Verhütung oder Verfolgung von Straftaten zuständige
+öffentliche Stellen in den Mitgliedstaaten der Europäischen Union und
+der in § 32a Absatz 6 genannten Staaten gelten im Anwendungsbereich
+der Richtlinie (EU) 2023/977 ergänzend zu den §§ 32, 32a, 33, 33a die
+nachstehenden Regelungen. Im Rahmen der Wahrnehmung der Aufgabe nach
+§ 12 bleiben die Vorschriften über die internationale Rechtshilfe in
+strafrechtlichen Angelegenheiten unberührt. § 3 des
+Bundeskriminalamtgesetzes bleibt unberührt.
+
+(2) Eine für die Übermittlung von Daten nach deutschem Recht
+erforderliche Erlaubnis durch eine Justizbehörde ist unverzüglich
+einzuholen.
+
+(3) Bei der Übermittlung oder Bereitstellung von Daten ist
+mitzuteilen, dass die Verwendung als Beweismittel in einem
+Gerichtsverfahren unzulässig ist, es sei denn,
+
+1.  es liegt eine Zustimmung derjenigen Stelle vor, die für eine
+    Zustimmung der Verwendung als Beweismittel zuständig ist, oder
+
+
+2.  die Verwendung als Beweismittel ist durch eine anwendbare
+    völkerrechtliche Vereinbarung oder einen unmittelbar anwendbaren
+    Rechtsakt der Europäischen Union zugelassen.
+
+
+
+Die Zuständigkeit für die Zustimmung einer Verwendung als Beweismittel
+nach Satz 1 Nummer 1 richtet sich nach den Vorschriften über die
+internationale Rechtshilfe in Strafsachen.
+
+(4) Ersucht die Bundespolizei als benannte Stelle im Sinne von Artikel
+4 Absatz 1 der Richtlinie (EU) 2023/977 Daten bei einer zentralen
+Kontaktstelle eines anderen Mitgliedstaates der Europäischen Union
+oder eines der in § 32a Absatz 6 genannten Staaten, erfolgt dies in
+einer Sprache, die der Staat für diese Zwecke zugelassen hat. Dem
+Bundeskriminalamt als zentrale Kontaktstelle ist eine Kopie zu
+übermitteln.
+
+(5) Ein an eine zentrale Kontaktstelle gerichtetes Ersuchen muss
+mindestens die folgenden Angaben enthalten:
+
+1.  die Angabe, ob das Ersuchen dringend ist und, wenn dies der Fall ist,
+    Angabe der Gründe für die Dringlichkeit,
+
+
+2.  eine Präzisierung der angeforderten Informationen, die so detailliert
+    ist, wie dies unter den gegebenen Umständen in angemessener Weise
+    möglich ist,
+
+
+3.  die Beschreibung des Zwecks, zu dem die Informationen angefordert
+    werden, einschließlich einer Beschreibung des Sachverhalts und der
+    zugrunde liegenden Straftat, und
+
+
+4.  etwaige Beschränkungen einer Verwendung der in dem Ersuchen
+    enthaltenen Informationen zu anderen Zwecken als denen, für die sie
+    übermittelt wurden.
+
+
+
+
+(6) Bei der Übermittlung von Daten an Polizeibehörden oder sonstige
+für die Verhütung oder Verfolgung von Straftaten zuständige
+öffentliche Stellen, die nicht zugleich zentrale Kontaktstellen sind,
+ist dem Bundeskriminalamt sowie der zentralen Kontaktstelle des
+jeweiligen Staats gleichzeitig eine Kopie der Daten zu übermitteln.
+
+(7) Daten, welche die Bundespolizei selbst erhoben hat, sind unter den
+Voraussetzungen von § 32 in Verbindung mit § 32a aus eigener
+Initiative den Mitgliedstaaten oder zuständigen
+Strafverfolgungsbehörden zu übermitteln oder bereitzustellen, wenn
+tatsächliche Anhaltspunkte dafür vorliegen, dass diese Daten für einen
+anderen Mitgliedstaat der Europäischen Union oder einen der in § 32a
+Absatz 6 genannten Staaten zum Zwecke der Verhütung von Straftaten
+nach Artikel 2 Absatz 3 der Richtlinie (EU) 2023/977 relevant sein
+können und diese Daten dem Mitgliedstaat nicht bereits anderweitig
+übermittelt oder bereitgestellt wurden.
 
 
 ##### § 34 Abgleich personenbezogener Daten

@@ -16,10 +16,10 @@ Fundstelle
 :   BGBl I: 1977, 297
 
 Neugefasst durch
-:   Bek. v. 21. 2.1996 I 326;
+:   Bek. v. 21.2.1996 I 326;
 
 Zuletzt geändert durch
-:   Art 1 G v. 8.10.2021 I 4650
+:   Art. 1 G v. 28.10.2025 I Nr. 258
 
 
 ## Erster Abschnitt - Erwerb und Verlust der Mitgliedschaft im Bundestag
@@ -80,7 +80,7 @@ Verbesserung der betrieblichen Altersversorgung vorgenommen.
 
 (1) Die Rechte und Pflichten aus dem Dienstverhältnis eines in den
 Bundestag gewählten Beamten mit Dienstbezügen ruhen vom Tage der
-Feststellung des Bundeswahlausschusses (§ 42 Abs. 2 Satz 1 des
+Feststellung des Bundeswahlausschusses (§ 42 Absatz 3 Satz 1 des
 Bundeswahlgesetzes) oder der Annahme des Mandats für die Dauer der
 Mitgliedschaft mit Ausnahme der Pflicht zur Amtsverschwiegenheit und
 des Verbots der Annahme von Belohnungen und Geschenken. Das gleiche
@@ -363,36 +363,61 @@ bereits abgeschlossen hat.
 (1) An jedem Sitzungstag wird eine Anwesenheitsliste ausgelegt. Der
 Präsident bestimmt im Benehmen mit dem Ältestenrat, welche Tage als
 Sitzungstage gelten und in welcher Zeit die Anwesenheitsliste
-ausgelegt wird. Trägt sich ein Mitglied des Bundestages nicht in die
-Anwesenheitsliste ein, werden ihm 100 Euro von der Kostenpauschale
-einbehalten. Der einzubehaltende Betrag erhöht sich auf 200 Euro, wenn
+ausgelegt wird.
+
+(2) Trägt sich ein Mitglied des Bundestages nicht in die
+Anwesenheitsliste ein, werden ihm 200 Euro von der Kostenpauschale
+einbehalten. Der einzubehaltende Betrag erhöht sich auf 300 Euro, wenn
 ein Mitglied an einem Plenarsitzungstag sich nicht in die
-Anwesenheitsliste eingetragen hat und nicht beurlaubt war. Der
+Anwesenheitsliste eingetragen hat und nicht entschuldigt war. Der
 Kürzungsbetrag verringert sich auf 20 Euro, wenn ein Mitglied des
 Bundestages einen Aufenthalt in einem Krankenhaus oder in einem
 Sanatorium oder die Arbeitsunfähigkeit ärztlich nachweist. Während der
-Mutterschutzfristen infolge Schwangerschaft oder wenn ein Mitglied des
-Bundestages ein ärztlich nachgewiesen erkranktes, in seinem Haushalt
-lebendes Kind, das das 14. Lebensjahr noch nicht vollendet hat,
-mangels anderer im Haushalt dafür zur Verfügung stehender
-Aufsichtspersonen persönlich betreuen muss, führt die Nichteintragung
-in die Anwesenheitsliste nicht zu einer Kürzung der Kostenpauschale.
-Die Eintragung in die Anwesenheitsliste wird vom Zeitpunkt der
-Auslegung an ersetzt durch Amtieren als Präsident oder als
-Schriftführer, durch protokollierte Wortmeldung in einer Sitzung des
-Deutschen Bundestages, durch Teilnahme an einer namentlichen
-Abstimmung oder einer Wahl mit Namensaufruf, durch Eintragung in die
-Anwesenheitsliste eines Ausschusses oder eines sonstigen Gremiums des
-Bundestages, durch Wortmeldungen in einem Ausschuss oder einem
-sonstigen Gremium des Bundestages, durch Eintragung in die
-Anwesenheitsliste des Ältestenrates oder durch eine für den
-Sitzungstag genehmigte und durchgeführte Dienstreise.
+Mutterschutzfristen infolge Schwangerschaft, bis zum Ablauf von sieben
+Tagen nach der Geburt des Kindes für den anderen Elternteil oder wenn
+ein Mitglied des Bundestages ein ärztlich nachgewiesen erkranktes, in
+seinem Haushalt lebendes Kind, das das 14. Lebensjahr noch nicht
+vollendet hat, mangels anderer im Haushalt dafür zur Verfügung
+stehender Aufsichtspersonen persönlich betreuen muss, führt die
+Nichteintragung in die Anwesenheitsliste nicht zu einer Kürzung der
+Kostenpauschale.
 
-(2) Einem Mitglied des Bundestages, das an einer namentlichen
+(3) Die Eintragung in die Anwesenheitsliste wird vom Zeitpunkt der
+Auslegung an ersetzt durch
+
+1.  das Amtieren als Präsident oder als Schriftführer,
+
+
+2.  eine protokollierte Wortmeldung in einer Sitzung des Deutschen
+    Bundestages,
+
+
+3.  die Teilnahme an einer namentlichen Abstimmung oder einer Wahl mit
+    Namensaufruf,
+
+
+4.  die Eintragung in die Anwesenheitsliste eines Ausschusses oder eines
+    sonstigen Gremiums des Bundestages,
+
+
+5.  eine Wortmeldung in einem Ausschuss oder einem sonstigen Gremium des
+    Bundestages,
+
+
+6.  die Eintragung in die Anwesenheitsliste des Ältestenrates oder
+
+
+7.  eine für den Sitzungstag genehmigte und durchgeführte Dienstreise oder
+    eine dem Präsidenten angezeigte und für die Bundesregierung
+    durchgeführte Dienstreise.
+
+
+
+
+(4) Einem Mitglied des Bundestages, das an einer namentlichen
 Abstimmung oder einer Wahl mit Namensaufruf nicht teilnimmt, werden
-100 Euro von der monatlichen Kostenpauschale abgezogen. Das gilt
-nicht, wenn der Präsident das Mitglied beurlaubt hat, ein Abzug nach
-Absatz 1 erfolgt oder in den Fällen des Absatzes 1 Satz 6.
+200 Euro von der monatlichen Kostenpauschale abgezogen. Das gilt nicht
+in den Fällen des Absatzes 2 und des Absatzes 3 Nummer 7.
 
 
 ### § 15 Bezug anderer Tage- oder Sitzungsgelder
@@ -521,7 +546,6 @@ Bundestag mindestens ein Jahr angehört hat.
 sind, erreichen die Altersgrenze mit Vollendung des 65. Lebensjahres.
 Für Mitglieder des Bundestages, die nach dem 31. Dezember 1946 geboren
 sind, wird die Altersgrenze wie folgt angehoben:
-
 
 *    *   Geburtsjahr
 
@@ -686,6 +710,7 @@ sind, wird die Altersgrenze wie folgt angehoben:
     *   66
 
     *   10.
+
 
 
 
@@ -937,7 +962,9 @@ gilt auch für Versorgungsempfänger nach diesem Gesetz, soweit nicht
 auf Grund eines Dienstverhältnisses oder der Mitgliedschaft in einer
 anderen gesetzgebenden Körperschaft ein Anspruch auf Beihilfe besteht
 und auf den Anspruch nach diesem Gesetz gegenüber dem Bundestag
-schriftlich verzichtet wurde.
+schriftlich verzichtet wurde. § 76 des Bundesbeamtengesetzes ist mit
+der Maßgabe sinngemäß anzuwenden, dass der Schadensersatzanspruch auf
+die Bundesrepublik Deutschland übergeht.
 
 (2) Anstelle des Anspruchs auf den Zuschuß nach Absatz 1 erhalten die
 Mitglieder und Versorgungsempfänger einen Zuschuß zu ihren
@@ -967,14 +994,19 @@ umfasst nicht den Beitragszuschlag für Kinderlose nach § 55 des Elften
 Buches Sozialgesetzbuch.
 
 (4) Die Entscheidung darüber, ob das Mitglied anstelle der Leistungen
-nach Absatz 1 den Zuschuß nach Absatz 2 in Anspruch nehmen will, ist
+nach Absatz 1 den Zuschuss nach Absatz 2 in Anspruch nehmen will, ist
 innerhalb von vier Monaten nach Feststellung des Bundeswahlausschusses
-(§ 42 Abs. 2 Satz 1 des Bundeswahlgesetzes) oder Annahme des Mandats
+(§ 42 Absatz 3 Satz 1 des Bundeswahlgesetzes) oder Annahme des Mandats
 dem Präsidenten des Bundestages mitzuteilen; die Entscheidung ist für
-die Dauer der Wahlperiode unwiderruflich. Versorgungsempfänger haben
-die Entscheidung innerhalb von vier Monaten nach Bekanntgabe des
-Versorgungsbescheides dem Präsidenten mitzuteilen; sie bleiben an
-diese Entscheidung gebunden.
+die Dauer der Wahlperiode unwiderruflich. Nach Fristablauf kann die
+Mitteilung über die Entscheidung innerhalb einer Wahlperiode mit
+Wirkung zum Beginn des folgenden Kalendermonats nachgeholt werden.
+Erwirbt ein Mitglied auch in der folgenden Wahlperiode ein Mandat,
+gilt die getroffene Entscheidung fort, sofern das Mitglied nicht
+innerhalb der in Satz 1 genannten Frist eine andere Entscheidung
+trifft. Versorgungsempfänger haben die Entscheidung innerhalb von vier
+Monaten nach Bekanntgabe des Versorgungsbescheides dem Präsidenten
+mitzuteilen; sie bleiben an diese Entscheidung gebunden.
 
 
 ### § 28 Unterstützungen
@@ -1103,14 +1135,14 @@ der Zivilprozeßordnung.
 ### § 32 Beginn und Ende der Ansprüche, Zahlungsvorschriften
 
 (1) Die in den §§ 11, 12, 16, 27 und 28 geregelten Ansprüche entstehen
-mit dem Tag der Feststellung des Bundeswahlausschusses (§ 42 Abs. 2
-Satz 1 des Bundeswahlgesetzes) oder im Fall des § 45 Abs. 3 des
+mit dem Tag der Feststellung des Bundeswahlausschusses (§ 42 Absatz 3
+Satz 1 des Bundeswahlgesetzes) oder im Fall des § 45 Absatz 2 des
 Bundeswahlgesetzes mit dem Tag der Annahme des Mandats, auch wenn die
 Wahlperiode des letzten Bundestages noch nicht abgelaufen ist.
 Mandatsbezogene Aufwendungen, die einem gewählten Wahlkreisbewerber
 oder einem gewählten Landeslistenbewerber zwischen dem Wahltag und dem
-Tag der Feststellung des Bundeswahlausschusses (§ 42 Abs. 2 Satz 1 des
-Bundeswahlgesetzes) oder im Fall des § 45 Abs. 3 des
+Tag der Feststellung des Bundeswahlausschusses (§ 42 Absatz 3 Satz 1
+des Bundeswahlgesetzes) oder im Fall des § 45 Absatz 2 des
 Bundeswahlgesetzes mit dem Tag der Annahme des Mandats im Hinblick auf
 den Zusammentritt des neuen Bundestages entstehen, werden ebenfalls
 erstattet.
@@ -1549,30 +1581,47 @@ oder die Erfüllung öffentlicher Aufgaben ernstlich gefährden oder
 erheblich erschweren würde.
 
 
-### § 44e Ordnungsmaßnahmen gegen Mitglieder
+### § 44e Ordnungsmaßnahmen wegen Verletzung der Ordnung oder der Würde des Bundestages
 
-((1) Wegen einer nicht nur geringfügigen Verletzung der Ordnung oder
+(1) Wegen einer nicht nur geringfügigen Verletzung der Ordnung oder
 der Würde des Bundestages bei dessen Sitzungen kann der Präsident
-gegen ein Mitglied des Bundestages ein Ordnungsgeld in Höhe von 1 000
+gegen ein Mitglied des Bundestages ein Ordnungsgeld in Höhe von 2 000
 Euro festsetzen. Im Wiederholungsfall erhöht sich das Ordnungsgeld auf
-2 000 Euro. Bei gröblicher Verletzung der Ordnung oder der Würde des
+4 000 Euro. Ist ein Mitglied des Bundestages innerhalb von drei
+Sitzungswochen dreimal zur Ordnung gerufen worden, setzt der
+sitzungsleitende Präsident mit dem Erlass des dritten Ordnungsrufes
+zugleich ein Ordnungsgeld gegen das Mitglied fest. Dies gilt nicht,
+sofern gegen das Mitglied bereits eine Maßnahme nach Absatz 2 Satz 2
+ausgesprochen wurde.
+
+(2) Bei gröblicher Verletzung der Ordnung oder der Würde des
 Bundestages kann das Mitglied für die Dauer der Sitzung aus dem Saal
 verwiesen und bis zu 30 Sitzungstage von der Teilnahme an Sitzungen
-des Bundestages und seiner Gremien ausgeschlossen werden. Das Nähere
-regelt die Geschäftsordnung des Bundestages.
+des Bundestages und seiner Gremien ausgeschlossen werden. Ist ein
+Mitglied des Bundestages dreimal während einer Sitzung zur Ordnung
+gerufen, verweist es der sitzungsleitende Präsident für die Dauer der
+Sitzung aus dem Saal.
 
-(2) Wegen einer nicht nur geringfügigen Verletzung der Hausordnung des
+(3) Das Nähere regelt die Geschäftsordnung des Bundestages.
+
+(4) Zuständiges Gericht für Streitigkeiten über Maßnahmen und
+Entscheidungen nach den Absätzen 1 und 2 ist das
+Bundesverfassungsgericht.
+
+
+### § 44f Ordnungsmaßnahmen wegen Verletzung der Hausordnung
+
+(1) Wegen einer nicht nur geringfügigen Verletzung der Hausordnung des
 Bundestages kann der Präsident gegen ein Mitglied des Bundestages ein
-Ordnungsgeld in Höhe von 1 000 Euro festsetzen. Im Wiederholungsfall
-erhöht sich das Ordnungsgeld auf 2 000 Euro; ein Wiederholungsfall
+Ordnungsgeld in Höhe von 2 000 Euro festsetzen. Im Wiederholungsfall
+erhöht sich das Ordnungsgeld auf 4 000 Euro; ein Wiederholungsfall
 liegt in der Regel vor, wenn das betroffene Mitglied innerhalb von
 sechs Monaten erneut Anlass für die Festsetzung eines Ordnungsgeldes
 wegen einer nicht nur geringfügigen Verletzung der Hausordnung gegeben
 hat.
 
-(3) Zuständiges Gericht für Streitigkeiten über Maßnahmen und
-Entscheidungen nach den Absätzen 1 und 2 ist das
-Bundesverfassungsgericht.
+(2) Zuständiges Gericht für Streitigkeiten über Maßnahmen und
+Entscheidungen nach Absatz 1 ist das Bundesverfassungsgericht.
 
 
 ## Elfter Abschnitt - Verhaltensregeln für die Mitglieder des Bundestages
@@ -1778,13 +1827,18 @@ zu übermitteln.
 
 ### § 49 Interessenverknüpfung im Ausschuss
 
-Ein Mitglied des Bundestages, das entgeltlich mit einem Gegenstand
-beschäftigt ist, der in einem Ausschuss des Bundestages zur Beratung
-ansteht, hat als Mitglied dieses Ausschusses vor einer Wortmeldung
-eine Interessenverknüpfung offenzulegen. Ein Mitglied des Bundestages,
-das in einem Ausschuss die Berichterstattung übernommen hat, hat vor
-der Beratung eine konkrete Interessenverknüpfung offenzulegen; diese
-Angaben werden in der Beschlussempfehlung des Ausschusses angemerkt.
+Ein Mitglied des Bundestages, das entgeltlich mit einem
+Beratungsgegenstand beschäftigt ist, zu dem es in einem Ausschuss des
+Bundestages oder innerhalb einer Fraktion die Berichterstattung
+übernommen hat, hat vor einer Beratung in einem Ausschuss
+offenzulegen, wenn eine konkrete gegenwärtige oder zukünftige
+Interessenverknüpfung besteht. Sonstige an einer Ausschussberatung
+teilnehmende Mitglieder des Bundestages, die entgeltlich mit einem
+Beratungsgegenstand beschäftigt sind, haben eine konkrete
+Interessenverknüpfung offenzulegen, soweit sie nicht aus den gemäß §
+47 veröffentlichten Angaben ersichtlich ist. Die Angaben nach Satz 1
+und Satz 2 sind der oder dem Ausschussvorsitzenden mitzuteilen und
+werden in der Beschlussempfehlung des Ausschusses angemerkt.
 
 
 ### § 50 Rückfrage
@@ -1910,11 +1964,6 @@ Deutschen Bundestag.
 üben keine öffentliche Gewalt aus.
 
 
-## Zwölfter Abschnitt - (weggefallen)
-
--
-
-
 ### § 55 Aufgaben
 
 (1) Die Fraktionen wirken an der Erfüllung der Aufgaben des Deutschen
@@ -1924,8 +1973,20 @@ Bundestages mit.
 parlamentarischen Einrichtungen national und international
 zusammenarbeiten.
 
-(3) Die Fraktionen und ihre Mitglieder können die Öffentlichkeit über
-ihre Tätigkeit unterrichten.
+(3) Zu den Aufgaben der Fraktionen gehört eine eigenständige
+Öffentlichkeitsarbeit. Sie dient der Unterrichtung der Öffentlichkeit
+über parlamentarische Vorgänge, Initiativen und Konzepte der
+Fraktionen, der Vermittlung ihrer politischen Standpunkte und dem
+Dialog mit Bürgerinnen und Bürgern über parlamentarisch-politische
+Fragen. Die Fraktionen sind im Rahmen ihrer zulässigen
+Aufgabenwahrnehmung bei der Wahl der Mittel, des Orts, der Zeit und
+der Häufigkeit ihrer Unterrichtung frei. Zu den Mitteln gehört
+insbesondere auch die digitale Kommunikation. Die
+Öffentlichkeitsarbeit der Fraktionen unterliegt nicht dem Gebot der
+politischen Neutralität. Die Fraktionen müssen als Urheber
+ausdrücklich erkennbar sein. Sechs Wochen vor Wahlen zum Deutschen
+Bundestag oder zum Europäischen Parlament bedarf die
+Öffentlichkeitsarbeit eines besonderen parlamentarischen Anlasses.
 
 
 ### § 56 Organisation
@@ -1979,15 +2040,25 @@ verwenden, die ihnen nach dem Grundgesetz, diesem Gesetz und der
 Geschäftsordnung des Deutschen Bundestages obliegen. Eine Verwendung
 für Parteiaufgaben ist unzulässig.
 
-(5) Geldleistungen nach Absatz 1 können auf neue Rechnung vorgetragen
+(5) Eine rechtswidrige Verwendung der Geld- und Sachleistungen stellt
+der Ältestenrat nach Anhörung der betroffenen Fraktion fest. Die
+Feststellung wird als Drucksache veröffentlicht. Der Ältestenrat kann
+den Bundesrechnungshof in Einzelfällen ersuchen, die Rechtmäßigkeit
+der Verwendung von Geld- und Sachleistungen zu prüfen. Rechtswidrig
+verwendete Geld- und Sachleistungen sind an den Bundeshaushalt
+zurückzuführen. Der zu erstattende Betrag kann mit zukünftigen
+Leistungen nach Absatz 1 verrechnet werden. Als rechtswidrig
+festgestellte Maßnahmen sind unverzüglich einzustellen.
+
+(6) Geldleistungen nach Absatz 1 können auf neue Rechnung vorgetragen
 werden.
 
 
 ### § 59 Haushalts- und Wirtschaftsführung, Buchhaltung
 
-(1) Einzelheiten der Haushalts- und Wirtschaftsführung werden in
-Ausführungsbestimmungen geregelt, die der Ältestenrat nach Anhörung
-des Bundesrechnungshofes erläßt.
+(1) Einzelheiten der Haushalts- und Wirtschaftsführung können in
+Ausführungsbestimmungen geregelt werden, die der Ältestenrat nach
+Anhörung des Bundesrechnungshofes erläßt.
 
 (2) Die Fraktionen haben Bücher über ihre rechnungslegungspflichtigen
 Einnahmen und Ausgaben sowie über ihr Vermögen zu führen. Dabei ist

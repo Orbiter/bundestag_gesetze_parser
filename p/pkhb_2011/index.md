@@ -15,10 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 606
 
-Stand: Zeitlich überholt
-Abgelöst durch
-:   Bek. 310-19-2-19 v. 7.12.2011 I 2796 (PKHB 2012) mWv 21.12.2011
-
 
 ## (XXXX)
 

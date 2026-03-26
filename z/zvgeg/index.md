@@ -16,7 +16,7 @@ Fundstelle
 :   RGBl: 1897, 135
 
 Zuletzt geändert durch
-:   Art. 4 G v. 11.10.2016 I 2222
+:   Art. 2 G v. 24.10.2024 I Nr. 329
 
 
 ## § 1
@@ -186,10 +186,9 @@ angehört werden, entsprechend anzuwenden sind, ist deren bis zum 15.
 Oktober 2016 geltende Fassung weiterhin maßgeblich.
 
 
-## § 14 (weggefallen)
+## § 14
 
-
-
-## § 15 (weggefallen)
-
+§ 94a des Gesetzes über die Zwangsversteigerung und die
+Zwangsverwaltung ist auf die bis einschließlich 31. Dezember 2024
+angeordneten Zwangsversteigerungen nicht anzuwenden.
 

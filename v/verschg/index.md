@@ -695,6 +695,7 @@ Feststellung des Zeitpunktes des Todes. § 41 ist nicht anzuwenden.
 
 ### § 48
 
+(Überleitungsvorschrift)
 
 
 ### § 49

@@ -188,8 +188,6 @@ Zustimmung des Bundesrates
 
 
 2.  auf die Landesregierungen, auch mit der Ermächtigung zur
-
-    auf die Landesregierungen, auch mit der Ermächtigung zur
     Weiterübertragung der Befugnis,
 
 

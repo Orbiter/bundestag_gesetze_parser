@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2013, 3565
 
-Geändert durch
-:   Art. 560 V v. 31.8.2015 I 1474 (+++ Textnachweis ab: 15.9.2013 +++) \*% \*/
+Zuletzt geändert durch
+:   Art. 1 V v. 14.5.2025 I Nr. 133
 
 
 ## Eingangsformel
@@ -114,12 +114,12 @@ Die Berufsbildungsstelle Seeschifffahrt e. V.
 
 (2) Um das Ausbildungsziel zu erreichen, kann die zuständige Stelle
 auf Antrag eines Auszubildenden nach Anhörung des Ausbildenden und der
-Ausbilder die Ausbildungsdauer verlängern, wenn die Verlängerung
-erforderlich ist.
+Ausbilder die Ausbildungsdauer verlängern.
 
-(3) Wird die Berufsausbildung in einem Ausbildungsjahr um mehr als
-acht Wochen unterbrochen, so verlängert sich die Ausbildung in dem
-entsprechenden Ausbildungsjahr um den Zeitraum der Unterbrechung.
+(3) Wird die Berufsausbildung in einem Ausbildungsjahr um insgesamt
+mehr als acht Wochen unterbrochen, so verlängert sich die Ausbildung
+in dem entsprechenden Ausbildungsjahr um den Zeitraum der
+Unterbrechung.
 
 
 ### § 5 Ausbildungsberufsbild
@@ -693,15 +693,16 @@ zuständige Stelle Prüfungsausschüsse.
 
 ### § 17 Zusammensetzung und Berufung eines Prüfungsausschusses
 
-(1) Ein Prüfungsausschuss besteht aus mindestens fünf Mitgliedern. Die
+(1) Ein Prüfungsausschuss besteht aus mindestens drei Mitgliedern. Die
 Mitglieder müssen für die Prüfungsgebiete sachkundig und für die
 Mitwirkung im Prüfungswesen geeignet sein.
 
 (2) Dem Prüfungsausschuss müssen als Mitglieder Beauftragte der
-Arbeitgeber und der Arbeitnehmer in gleicher Zahl sowie eine Lehrkraft
-der seefahrtbezogenen beruflichen Schule angehören. Zwei Drittel der
-Gesamtzahl der Mitglieder müssen Beauftragte der Arbeitgeber und der
-Arbeitnehmer sein. Die Mitglieder haben Stellvertreter.
+Arbeitgeber und der Arbeitnehmer in gleicher Zahl sowie mindestens
+eine Lehrkraft der seefahrtsbezogenen beruflichen Schule angehören.
+Zwei Drittel der Gesamtzahl der Mitglieder müssen Beauftragte der
+Arbeitgeber und der Arbeitnehmer sein. Die Mitglieder haben
+Stellvertreter.
 
 (3) Die Beauftragten der Arbeitgeber werden vom Verband Deutscher
 Reeder, die Beauftragten der Arbeitnehmer von der Vereinten
@@ -716,12 +717,8 @@ werden.
 (5) Die zuständige Stelle kann nach Maßgabe der Absätze 2 bis 4
 ergänzend zu der Zusammensetzung nach Absatz 1 weitere Personen zu
 Mitgliedern eines Prüfungsausschusses berufen, soweit dafür ein
-konkreter Bedarf besteht. Die Bestellung zu Mitgliedern eines
-Prüfungsausschusses muss so rechtzeitig vor Beginn einer Prüfung
-erfolgen, dass den Prüflingen die Zusammensetzung des
-Prüfungsausschusses vor der Prüfung bekannt ist. Es müssen im Falle
-des Satzes 1 so viele Mitglieder berufen werden, dass dem
-Prüfungsausschuss stets eine ungerade Anzahl an Mitgliedern angehört.
+konkreter Bedarf besteht. Die Mitglieder des Prüfungsausschusses
+werden den Prüflingen zu Beginn der Prüfung vorgestellt.
 
 (6) Die Tätigkeit im Prüfungsausschuss ist ehrenamtlich. Für
 Aufwendungen, die im Zusammenhang mit der Prüfungstätigkeit entstehen,
@@ -885,15 +882,25 @@ zu werten.
 
 ### § 21 Prüfungsaufgaben
 
-(1) Die zuständige Stelle errichtet einen Aufgabenerstellungsausschuss
-aus Mitgliedern der Prüfungsausschüsse, der für die Arbeitsproben,
-Prüfungsstücke und sonstigen Prüfungsgebiete Aufgaben entwickelt. Bei
-Aufgaben, die Ausbildungsnormen nach den Regeln II/5 und III/5 der
-Anlage zum STCW-Übereinkommen betreffen, ist das Bundesamt für
-Seeschifffahrt und Hydrographie zu beteiligen.
+(1) Die zuständige Stelle errichtet Ausschüsse zur Erstellung von
+Prüfungsaufgaben, die für die Arbeitsproben, Prüfungsstücke und
+sonstigen Prüfungsgebiete Aufgaben entwickeln und überarbeiten. Die
+Mitglieder der Aufgabenerstellungsausschüsse müssen für die jeweiligen
+Gebiete fach- und sachkundig sein. Bei Aufgaben, die Ausbildungsnormen
+nach den Regeln II/5 und III/5 der Anlage zum STCW-Übereinkommen
+betreffen, ist das Bundesamt für Seeschifffahrt und Hydrographie zu
+beteiligen.
 
-(2) Der Prüfungsausschuss wählt vor Beginn der Prüfung aus den
-Aufgaben nach Absatz 1 die zu bearbeitenden Aufgaben aus.
+(2) Die zuständige Stelle wählt die zu bearbeitenden Kenntnisprüfungen
+vor der Prüfung aus und stellt diese dem Prüfungsausschuss bereit.
+
+(3) Die Prüfungsstücke nach § 14 Absatz 3 Nummer 1 Buchstabe b und
+§ 15 Absatz 3 Nummer 1 Buchstabe d werden von der zuständigen Stelle
+nach Verfügbarkeit der Halbzeuge an den Prüfungsstandorten ausgewählt.
+
+(4) Die Prüfungsstücke und Arbeitsproben werden mit Ausnahme der
+Prüfungsstücke nach Absatz 3 durch die Prüfer vor der Prüfung
+ausgewählt.
 
 
 ### § 22 Nichtöffentlichkeit der Abschlussprüfungen

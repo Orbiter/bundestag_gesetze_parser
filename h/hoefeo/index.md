@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 26.7.1976 I 1933;
 
 Zuletzt geändert durch
-:   Art. 24 G v. 20.11.2015 I 2010
+:   Art. 1 G v. 4.12.2024 I Nr. 395
 
 
 ## § 1 Begriff des Hofes
@@ -30,40 +30,35 @@ belegene land- oder forstwirtschaftliche Besitzung mit einer zu ihrer
 Bewirtschaftung geeigneten Hofstelle, die im Alleineigentum einer
 natürlichen Person oder im gemeinschaftlichen Eigentum von Ehegatten
 (Ehegattenhof) steht oder zum Gesamtgut einer fortgesetzten
-Gütergemeinschaft gehört, sofern sie einen Wirtschaftswert von
-mindestens 10.000 Euro hat. Wirtschaftswert ist der nach den
-steuerlichen Bewertungsvorschriften festgestellte Wirtschaftswert im
-Sinne des § 46 des Bewertungsgesetzes in der Fassung der
-Bekanntmachung vom 26. September 1974 (Bundesgesetzbl. I S. 2369),
-geändert durch Artikel 15 des Zuständigkeitslockerungsgesetzes vom 10.
-März 1975 (Bundesgesetzbl. I S. 685). Eine Besitzung, die einen
-Wirtschaftswert von weniger als 10.000 Euro, mindestens jedoch von
-5\.000 Euro hat, wird Hof, wenn der Eigentümer erklärt, daß sie Hof
-sein soll, und wenn der Hofvermerk im Grundbuch eingetragen wird.
+Gütergemeinschaft gehört, sofern der für sie zuletzt festgestellte
+Grundsteuerwert mindestens 54 000 Euro beträgt. Eine Besitzung, die
+einen Grundsteuerwert von weniger als 54 000 Euro, mindestens jedoch
+von 27 000 Euro hat, wird Hof, wenn der Eigentümer erklärt, dass sie
+Hof sein soll, und wenn der Hofvermerk im Grundbuch eingetragen wird.
 
 (2) Gehört die Besitzung Ehegatten, ohne nach Absatz 1 Ehegattenhof zu
-sein, so wird sie Ehegattenhof, wenn beide Ehegatten erklären, daß sie
-Ehegattenhof sein soll, und wenn diese Eigenschaft im Grundbuch
+sein, so wird sie Ehegattenhof, wenn beide Ehegatten erklären, dass
+sie Ehegattenhof sein soll, und wenn diese Eigenschaft im Grundbuch
 eingetragen wird.
 
 (3) Eine Besitzung verliert die Eigenschaft als Hof, wenn keine der in
 Absatz 1 aufgezählten Eigentumsformen mehr besteht oder eine der
 übrigen Voraussetzungen auf Dauer wegfällt. Der Verlust der
 Hofeigenschaft tritt jedoch erst mit der Löschung des Hofvermerks im
-Grundbuch ein, wenn lediglich der Wirtschaftswert unter 5.000 Euro
+Grundbuch ein, wenn lediglich der Grundsteuerwert unter 27 000 Euro
 sinkt oder keine zur Bewirtschaftung geeignete Hofstelle mehr besteht.
 
 (4) Eine Besitzung verliert die Eigenschaft als Hof auch, wenn der
-Eigentümer erklärt, daß sie kein Hof mehr sein soll, und wenn der
+Eigentümer erklärt, dass sie kein Hof mehr sein soll, und wenn der
 Hofvermerk im Grundbuch gelöscht wird. Die Besitzung wird, wenn sie
 die Voraussetzungen des Absatzes 1 erfüllt, wieder Hof, wenn der
-Eigentümer erklärt, daß sie Hof sein soll, und wenn der Hofvermerk im
+Eigentümer erklärt, dass sie Hof sein soll, und wenn der Hofvermerk im
 Grundbuch eingetragen wird.
 
 (5) Ein Ehegattenhof verliert diese Eigenschaft mit der Rechtskraft
 der Scheidung, der Aufhebung oder Nichtigerklärung der Ehe. Bei
 bestehender Ehe verliert er die Eigenschaft als Ehegattenhof, wenn
-beide Ehegatten erklären, daß die Besitzung kein Ehegattenhof mehr
+beide Ehegatten erklären, dass die Besitzung kein Ehegattenhof mehr
 sein soll, und wenn der die Eigenschaft als Ehegattenhof ausweisende
 Vermerk im Grundbuch gelöscht wird.
 
@@ -308,26 +303,23 @@ vorbehaltlich anderweitiger Regelung durch Übergabevertrag oder
 Verfügung von Todes wegen an Stelle eines Anteils am Hof ein Anspruch
 gegen den Hoferben auf Zahlung einer Abfindung in Geld zu.
 
-(2) Der Anspruch bemißt sich nach dem Hofeswert im Zeitpunkt des
-Erbfalls. Als Hofeswert gilt das Eineinhalbfache des zuletzt
-festgesetzten Einheitswertes im Sinne des § 48 des Bewertungsgesetzes
-in der Fassung der Bekanntmachung vom 26. September 1974
-(Bundesgesetzbl. I S. 2369), geändert durch Artikel 15 des
-Zuständigkeitslockerungsgesetzes vom 10. März 1975 (Bundesgesetzbl. I
-S. 685). Kommen besondere Umstände des Einzelfalls, die für den Wert
-des Hofes von erheblicher Bedeutung sind, in dem Hofeswert nicht oder
-ungenügend zum Ausdruck, so können auf Verlangen Zuschläge oder
-Abschläge nach billigem Ermessen gemacht werden.
+(2) Der Anspruch bemisst sich nach dem Hofeswert im Zeitpunkt des
+Erbfalls. Als Hofeswert gelten 60 Prozent des zuletzt für den Hof
+festgestellten Grundsteuerwertes des Betriebs der Land- und
+Forstwirtschaft. Kommen besondere Umstände des Einzelfalls, die für
+den Wert des Hofes von erheblicher Bedeutung sind, in dem Hofeswert
+nicht oder ungenügend zum Ausdruck, so können auf Verlangen Zuschläge
+oder Abschläge nach billigem Ermessen gemacht werden.
 
-(3) Von dem Hofeswert werden die Nachlaßverbindlichkeiten abgezogen,
+(3) Von dem Hofeswert werden die Nachlassverbindlichkeiten abgezogen,
 die im Verhältnis der Erben zueinander den Hof treffen und die der
 Hoferbe allein zu tragen hat. Der danach verbleibende Betrag, jedoch
-mindestens ein Drittel des Hofeswertes (Absatz 2 Satz 2), gebührt den
+mindestens ein Fünftel des Hofeswertes (Absatz 2 Satz 2), gebührt den
 Erben des Erblassers einschließlich des Hoferben, falls er zu ihnen
-gehört, zu dem Teil, der ihrem Anteil am Nachlaß nach dem allgemeinen
+gehört, zu dem Teil, der ihrem Anteil am Nachlass nach dem allgemeinen
 Recht entspricht.
 
-(4) Auf die Abfindung nach Absatz 1 muß sich der Miterbe dasjenige
+(4) Auf die Abfindung nach Absatz 1 muss sich der Miterbe dasjenige
 anrechnen lassen, was er oder sein vor dem Erbfall weggefallener
 Eltern- oder Großelternteil vom Erblasser als Abfindung aus dem Hof
 erhalten hat.
@@ -343,7 +335,7 @@ gestundete Forderung zu verzinsen und ob, in welcher Art und in
 welchem Umfang für sie Sicherheit zu leisten ist. Es kann die
 rechtskräftige Entscheidung über die Stundung, Verzinsung und
 Sicherheitsleistung auf Antrag aufheben oder ändern, wenn sich die
-Verhältnisse nach dem Erlaß der Entscheidung wesentlich geändert
+Verhältnisse nach dem Erlass der Entscheidung wesentlich geändert
 haben.
 
 (6) Ist der Miterbe minderjährig, so gilt die Abfindung bis zum
@@ -366,7 +358,7 @@ Unterhalt nicht gedeckt sind.
 
 (9) Hat der Hoferbe durch eine Zuwendung, die er nach § 2050 des
 Bürgerlichen Gesetzbuchs zur Ausgleichung zu bringen hat, mehr als die
-Hälfte des nach Abzug der Nachlaßverbindlichkeiten verbleibenden
+Hälfte des nach Abzug der Nachlassverbindlichkeiten verbleibenden
 Wertes (Absatz 3 Satz 1) erhalten, so ist er entgegen der Vorschrift
 des § 2056 des Bürgerlichen Gesetzbuchs zur Herausgabe des
 Mehrbetrages verpflichtet.
@@ -615,4 +607,14 @@ ist ein Lebenspartnerhof.
 Lebenspartners bleibt das bis zum 26. November 2015 geltende Recht
 maßgebend, wenn der Erblasser vor dem 26. November 2015 verstorben
 ist.
+
+(3) Eine Besitzung, die zwar nach den Vorschriften dieses Gesetzes
+kein Hof ist, aber nach den bis zum 31. Dezember 2024 geltenden
+Vorschriften ein Hof war und als Hof im Grundbuch eingetragen ist,
+gilt weiterhin bis zur Löschung des Hofvermerks als Hof, längstens
+jedoch bis zum 31. Dezember 2026. Eine Besitzung, die zwar nach den
+Vorschriften dieses Gesetzes ein Hof ist, aber nach den bis zum 31.
+Dezember 2024 geltenden Vorschriften kein Hof war, gilt weiterhin bis
+zum 31. Dezember 2026 nicht als Hof, es sei denn, der Besitzer erklärt
+bei dem Gericht, dass sie ein Hof sein soll.
 

@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2017, 3167
 
 Zuletzt geändert durch
-:   Art. 2 V v. 17.3.2023 I Nr. 81
+:   Art. 2 G v. 21.2.2025 I Nr. 54
 
 
 ## § 1 Anwendungsbereich
@@ -305,7 +305,7 @@ auszulösen.
 
 Die Ausschreibungen können von der ausschreibenden Stelle ganz oder
 teilweise auf ein elektronisches Verfahren umgestellt werden; dabei
-kann auch von dem Schriftformerfordernis nach § 9 Absatz 1 Satz 2
+kann auch von der Zustellung nach § 73 des Energiewirtschaftsgesetzes
 abgewichen werden. In diesem Fall kann die ausschreibende Stelle
 insbesondere Vorgaben zur Authentifizierung für die gesicherte
 Datenübertragung machen. Bei der Umstellung auf ein elektronisches
@@ -569,25 +569,10 @@ ist.
     e)  dass der Bieter der Eigentümer der Flächen ist, auf denen die KWK-
         Anlage oder das innovative KWK-System errichtet oder modernisiert
         werden soll, oder dass er das Gebot mit Zustimmung des Eigentümers der
-        Flächen abgibt,
+        Flächen abgibt.
 
 
 
-
-
-13. im Rahmen der Ausschreibungen für innovative KWK-Systeme einen
-    Wärmetransformationsplan, der nachvollziehbar darlegt, mit welchen
-    Maßnahmen der Betreiber das innovative KWK-System in das Wärmenetz
-    integrieren und die Dekarbonisierung des mit dem innovativen KWK-
-    System verbundenen Wärmenetzes in den ersten zehn Jahren ab Aufnahme
-    des Dauerbetriebs im Sinn des Klimaschutzes und einer sicheren
-    Wärmeversorgung voranbringen will; sofern kein Anschluss des
-    innovativen KWK-Systems an ein Wärmenetz erfolgt, hat der
-    Wärmetransformationsplan nachvollziehbar darzulegen, mit welchen
-    Maßnahmen der Betreiber das innovative KWK-System in die
-    Wärmeversorgung der Wärmesenke integrieren will und diese
-    Wärmeversorgung in den ersten zehn Jahren ab Aufnahme des
-    Dauerbetriebs weiter dekarbonisieren will.
 
 
 
@@ -631,8 +616,8 @@ nach Absatz 1 Nummer 12 abzugebenden Eigenerklärungen.
 (1) Die Rücknahme von Geboten ist bis zum jeweiligen Gebotstermin
 zulässig; maßgeblich ist der Zugang einer Rücknahmeerklärung bei der
 ausschreibenden Stelle. Die Rücknahme muss durch eine unbedingte,
-unbefristete und der Schriftform genügende Erklärung des Bieters
-erfolgen, die sich dem Gebot eindeutig zuordnen lässt.
+unbefristete und schriftlich oder elektronisch übermittelte Erklärung
+des Bieters erfolgen, die sich dem Gebot eindeutig zuordnen lässt.
 
 (2) Bieter sind an ihre Gebote, die bis zum Gebotstermin abgegeben und
 nicht zurückgenommen worden sind, gebunden, bis ihnen von der
@@ -658,8 +643,8 @@ sich die Sicherheit bezieht, eindeutig bezeichnen.
 
 1.  die unwiderrufliche, unbedingte, unbefristete und selbstschuldnerische
     Bürgschaft auf erstes Anfordern nach Maßgabe des Absatzes 5 und die
-    Übersendung einer entsprechenden schriftlichen Bürgschaftserklärung an
-    die ausschreibende Stelle oder
+    Übersendung einer entsprechenden Bürgschaftserklärung an die
+    ausschreibende Stelle oder
 
 
 2.  die Zahlung eines Geldbetrages auf das nach Absatz 6 eingerichtete
@@ -668,16 +653,16 @@ sich die Sicherheit bezieht, eindeutig bezeichnen.
 
 
 
-(5) Die Bürgschaftserklärung nach Absatz 4 Nummer 1 ist schriftlich in
-deutscher Sprache oder in einer Amtssprache des Kooperationsstaats
-unter Verzicht auf die Einrede der Vorausklage nach § 771 des
-Bürgerlichen Gesetzbuchs und unter Verzicht auf die Einreden der
-Aufrechenbarkeit und Anfechtbarkeit nach § 770 des Bürgerlichen
-Gesetzbuchs einzureichen. Der Bürge muss in der Europäischen Union
-oder in einem Staat der Vertragsparteien des Abkommens über den
-Europäischen Wirtschaftsraum als Kreditinstitut oder als
-Kreditversicherer zugelassen sein. Die ausschreibende Stelle kann bei
-begründeten Bedenken vom Bieter verlangen, die Tauglichkeit des Bürgen
+(5) Die Bürgschaftserklärung nach Absatz 4 Nummer 1 ist in deutscher
+Sprache oder in einer Amtssprache des Kooperationsstaats unter
+Verzicht auf die Einrede der Vorausklage nach § 771 des Bürgerlichen
+Gesetzbuchs und unter Verzicht auf die Einreden der Aufrechenbarkeit
+und Anfechtbarkeit nach § 770 des Bürgerlichen Gesetzbuchs
+einzureichen. Der Bürge muss in der Europäischen Union oder in einem
+Staat der Vertragsparteien des Abkommens über den Europäischen
+Wirtschaftsraum als Kreditinstitut oder als Kreditversicherer
+zugelassen sein. Die ausschreibende Stelle kann bei begründeten
+Bedenken vom Bieter verlangen, die Tauglichkeit des Bürgen
 nachzuweisen. Für den Nachweis der Tauglichkeit im Einzelfall ist §
 239 Absatz 1 des Bürgerlichen Gesetzbuchs heranzuziehen.
 
@@ -1222,8 +1207,9 @@ Kälteerzeugung oder Prozesswärme maßgeblich ist. In dem Kalenderjahr,
 in dem die KWK-Anlage in Betrieb genommen wird, sind die Sätze 1 und 2
 mit der Maßgabe entsprechend anzuwenden, dass für dieses Kalenderjahr
 anstelle des Wertes von 30 Prozent ein Wert von 2,5 Prozent pro
-Kalendermonat, der nach der Inbetriebnahme für dieses Kalenderjahr
-verbleibt, anzusetzen ist.
+Kalendermonat und anstelle des Wertes von 35 Prozent ein Wert von 2,92
+Prozent pro Kalendermonat, der nach der Inbetriebnahme für dieses
+Kalenderjahr verbleibt, anzusetzen ist.
 
 (6) Entgegen den Absätzen 2 bis 5 erhaltene Zahlungen sind dem zur
 Auszahlung der Zuschlagszahlung verpflichteten Netzbetreiber
@@ -1268,22 +1254,13 @@ Mitteilung nach Satz 1 ist anzugeben, welcher der folgenden
 Realisierungsschritte im Hinblick auf die KWK-Anlage oder das
 innovative KWK-System bereits verwirklicht wurde:
 
-1.  Genehmigungserteilung nach dem Bundes-Immissionsschutzgesetz,
+1.  Aufnahme des Probebetriebs,
 
 
-2.  verbindliche Bestellung,
+2.  Aufnahme oder Wiederaufnahme des Dauerbetriebs der KWK-Anlage,
 
 
-3.  Baubeginn,
-
-
-4.  Aufnahme des Probebetriebs,
-
-
-5.  Aufnahme oder Wiederaufnahme des Dauerbetriebs der KWK-Anlage,
-
-
-6.  Aufnahme des Dauerbetriebs der Komponenten zur Bereitstellung
+3.  Aufnahme des Dauerbetriebs der Komponenten zur Bereitstellung
     innovativer erneuerbarer Wärme des innovativen KWK-Systems.
 
 
@@ -1293,9 +1270,10 @@ Stelle veröffentlichten Formulars zu erfolgen. Wurde der Dauerbetrieb
 der Komponenten zur Bereitstellung innovativer erneuerbarer Wärme des
 innovativen KWK-Systems aufgenommen, ist zusätzlich anzugeben, ob und
 in welcher Höhe eine investive Förderung nach den Richtlinien zur
-Förderung der Nutzung erneuerbarer Energien im Wärmemarkt in Anspruch
-genommen wurde. Die Mitteilung nach Satz 4 hat zusätzlich gegenüber
-dem zuständigen Netzbetreiber zu erfolgen.
+Förderung der Nutzung erneuerbarer Energien im Wärmemarkt oder nach
+der Bundesförderung für effiziente Wärmenetze in Anspruch genommen
+wurde. Die Mitteilung nach Satz 4 hat zusätzlich gegenüber dem
+zuständigen Netzbetreiber zu erfolgen.
 
 (2) Während der Dauer der Zuschlagszahlung ist dem Bundesamt für
 Wirtschaft und Ausfuhrkontrolle und dem zur Zuschlagszahlung
@@ -1479,9 +1457,9 @@ erforderliche Angaben mit:
 
 (6) Die Übertragungsnetzbetreiber müssen die nach Absatz 1 zu
 leistenden Pönalen als Einnahme im Rahmen des Belastungsausgleichs
-nach § 28 des Kraft-Wärme-Kopplungsgesetzes verbuchen. Sie müssen den
-Eingang der Pönalen von Bietern der ausschreibenden Stelle
-unverzüglich mitteilen.
+nach Anlage 1 Nummer 6.2 des Energiefinanzierungsgesetzes verbuchen.
+Sie müssen den Eingang der Pönalen von Bietern der ausschreibenden
+Stelle unverzüglich mitteilen.
 
 
 ## § 22 Rechtsschutz

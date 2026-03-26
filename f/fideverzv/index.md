@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2011, 2057
 
 Zuletzt geändert durch
-:   Art. 29 G v. 23.6.2021 I 1858
+:   Art. 25 G v. 6.5.2024 I Nr. 149
 
 
 ## Eingangsformel
@@ -154,8 +154,8 @@ deren nationale Umsetzung zum Gegenstand haben:
     t)  § 27 Absatz 1 und 2 des Jugendschutzgesetzes,
 
 
-    u)  § 25 Absatz 1 Nummer 3 Variante 2 des Telekommunikation-Telemedien-
-        Datenschutz-Gesetzes,
+    u)  § 25 Absatz 1 Nummer 3 Variante 2 des Telekommunikation-Digitale-
+        Dienste-Datenschutz-Gesetzes,
 
 
     v)  § 5 des Hundeverbringungs- und -einfuhrbeschränkungsgesetzes;

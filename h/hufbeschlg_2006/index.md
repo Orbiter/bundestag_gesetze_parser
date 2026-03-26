@@ -18,8 +18,6 @@ Fundstelle
 Geändert durch
 :   Art. 285 V v. 31.8.2015 I 1474
 
-Stand: Gem. BVerfGE v. 5.12.2006 I 3228 - 2 BvR 2186/06 - wird das Inkrafttreten dieses G bis zur Entscheidung über die Verfassungsbeschwerde, längstens für die Dauer von sechs Monaten, insoweit einstweilen ausgesetzt, als Personen, die Verrichtungen an Hufen zum Zweck des Schutzes, der Gesunderhaltung, der Korrektur oder der Behandlung vornehmen, ohne dabei einen Eisenbeschlag anzubringen, sowie Personen und Einrichtungen, die zu solchen Verrichtungen ausbilden, den Bestimmungen dieses Gesetzes unterworfen werden.
-Stand: Gem. BVerfGE v. 22.5.2007 I 1057 - 1 BvR 2186/06 - wird die einstweilige Anordnung v. 5.12.2006 für die Dauer von weiteren sechs Monaten, längstens jedoch bis zur Entscheidung über die Verfassungsbeschwerde, wiederholt.
 
 
 ## § 1 Anwendungsbereich

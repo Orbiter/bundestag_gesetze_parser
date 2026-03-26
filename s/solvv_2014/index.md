@@ -20,7 +20,7 @@ Zuletzt geändert durch
 :   Art. 1 V v. 14.2.2023 I Nr. 40
 
 Stand: Ersetzt V 7610-2-29 v. 14.12.2006 I 2926
-    Diese Verordnung dient der Umsetzung der Richtlinie 2013/36/EU des
+[^F783290_01_BJNR416800013]:     Diese Verordnung dient der Umsetzung der Richtlinie 2013/36/EU des
     Europäischen Parlaments und des Rates vom 26. Juni 2013 über den
     Zugang zur Tätigkeit von Kreditinstituten und die Beaufsichtigung von
     Kreditinstituten und Wertpapierfirmen, zur Änderung der Richtlinie
@@ -30,7 +30,6 @@ Stand: Ersetzt V 7610-2-29 v. 14.12.2006 I 2926
     Parlaments und des Rates vom 26. Juni 2013 über Aufsichtsanforderungen
     an Kreditinstitute und Wertpapierfirmen und zur Änderung der
     Verordnung (EU) Nr. 646/2012 (ABl. L 176 vom 27.6.2013, S. 1).
-[^F783290_01_BJNR416800013]: 
 
 
 ## Eingangsformel
@@ -1703,8 +1702,10 @@ werden:
 (2) Die Institute berechnen den Kapitalpuffer für systemische Risiken
 nach § 10e Absatz 1 des Kreditwesengesetzes wie folgt:
 
-![bgbl1_2021_j4306-1_0010.jpg](bgbl1_2021_j4306-1_0010.jpg)
-Dabei steht
+*    *        ![bgbl1_2021_j4306-1_0010.jpg](bgbl1_2021_j4306-1_0010.jpg)
+
+
+   Dabei steht
 
 1.  B
     SR                    für den Kapitalpuffer für systemische Risiken,

@@ -16,11 +16,9 @@ Fundstelle
 :   BGBl I: 2008, 2263
 
 Zuletzt geändert durch
-:   Art. 4 G v. 17.7.2023 I Nr. 190
+:   Art. 1 V v. 11.4.2025 I Nr. 112
 
-Änderung durch
-:   Art. 3 Abs. 8 G v. 22.3.2024 I Nr. 104 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet (Ausnahme Anlage 12)
-
+Stand: Bek. v. 15.10.2025 I Nr. 262 ist berücksichtigt
 
 ## Eingangsformel
 
@@ -416,7 +414,10 @@ innerhalb eines Standesamts mit folgenden Berechtigungsstufen:
 
 
 5.  Stufe T erlaubt, einen automatisierten Datenabruf durch einen
-    technischen Benutzer nach § 68 Absatz 2 des Gesetzes auszulösen.
+    technischen Benutzer nach § 68 Absatz 2 des Gesetzes auszulösen sowie
+    die Identifikationsnummer gemäß § 2 Nummer 1 des
+    Identifikationsnummerngesetzes in den Datensatz eines Registereintrags
+    zu übernehmen.
 
 
 
@@ -424,11 +425,12 @@ Eine höhere Berechtigung schließt eine niedrigere ein.
 
 (2) Die Berechtigung und die jeweiligen Berechtigungsstufen nach
 Absatz 1 werden durch einen von dem Aufgabenträger des Standesamts
-dafür bestimmten Standesbeamten erteilt. Die Zugriffsberechtigung für
-ein nach § 67 des Gesetzes eingerichtetes zentrales
-Personenstandsregister wird durch Rechtsverordnung der Landesregierung
-geregelt. Die Ermächtigung kann durch Rechtsverordnung auf oberste
-Landesbehörden übertragen werden.
+dafür bestimmten Standesbeamten, nach Absatz 1 Nummer 5 durch den
+Verfahrensbetreiber für das Registerverfahren erteilt. Die
+Zugriffsberechtigung für ein nach § 67 des Gesetzes eingerichtetes
+zentrales Personenstandsregister wird durch Rechtsverordnung der
+Landesregierung geregelt. Die Ermächtigung kann durch Rechtsverordnung
+auf oberste Landesbehörden übertragen werden.
 
 (3) Das Löschen eines Registereintrags nach § 7 Absatz 3 und 4 des
 Gesetzes erfolgt durch einen von dem Aufgabenträger des Standesamts
@@ -804,7 +806,7 @@ Rechtsstellung oder des Aufenthaltstitels nach Absatz 1 erfüllt, holt
 das Standesamt mit einem Formular nach dem Muster der Anlage 12 eine
 schriftliche Auskunft der Ausländerbehörde darüber ein, ob die Angaben
 zutreffen und der Elternteil zum Zeitpunkt der Geburt des Kindes seit
-acht Jahren rechtmäßig seinen gewöhnlichen Aufenthalt im Inland hatte.
+fünf Jahren rechtmäßig seinen gewöhnlichen Aufenthalt im Inland hatte.
 Die Auskunft ist auch dann einzuholen, wenn die Eltern keine Angaben
 über ihre Rechtsstellung oder ihren Aufenthaltstitel machen oder das
 Standesamt Zweifel an der Richtigkeit der Angaben hat; in diesem Fall
@@ -983,10 +985,8 @@ wird in dem Datenfeld für die familienrechtliche Bezeichnung als
 1592 des Bürgerlichen Gesetzbuches besteht, wird die Nummer „2.“
 zugeordnet und sie wird in dem Datenfeld für die familienrechtliche
 Bezeichnung als „Vater“ eingetragen. Satz 1 gilt auch für Personen,
-die weder dem männlichen noch dem weiblichen Geschlecht zugeordnet
-sind. Satz 2 gilt für Personen, die weder dem männlichen noch dem
-weiblichen Geschlecht zugeordnet sind, nur dann, wenn sich die
-Vaterschaft aus § 1592 Nummer 3 BGB ergibt.
+die nicht dem weiblichen Geschlecht zugeordnet sind. Satz 2 gilt auch
+für Personen, die nicht dem männlichen Geschlecht zugeordnet sind.
 
 (3) Die Annahme eines Kindes wird im Geburtenregister ausschließlich
 in einer Folgebeurkundung dokumentiert, wobei weibliche Annehmende als
@@ -1109,7 +1109,8 @@ das
     Einführungsgesetzes zum Bürgerlichen Gesetzbuche entgegengenommen hat,
 
 
-3.  eine Erklärung nach § 45a oder nach § 45b des Gesetzes
+3.  eine Erklärung nach § 45a des Gesetzes oder nach § 2 des Gesetzes über
+    die Selbstbestimmung in Bezug auf den Geschlechtseintrag
     entgegengenommen hat oder
 
 
@@ -1167,16 +1168,22 @@ Richtigstellungen bedürfen keiner Mitteilung nach den Absätzen 1 und
 
 #### § 48 Personenstandsurkunden
 
-(1) Das Standesamt hat für die nach § 55 Abs. 1 des Gesetzes
-auszustellenden Personenstandsurkunden die Formulare nach den Mustern
-der Anlagen 2 bis 9 im Format DIN A4 zu verwenden. Die Formulare sind
-dem Beurkundungssachverhalt anzupassen und können programmgerecht
+(1) Das Standesamt hat für die nach § 55 Absatz 1 des Gesetzes
+auszustellenden Personenstandsurkunden und elektronischen
+Personenstandsbescheinigungen die Formulare nach den Mustern der
+Anlagen 2 bis 9E zu verwenden; die Personenstandsurkunden sind im
+Format DIN A4 auszustellen. Die Formulare sind dem
+Beurkundungssachverhalt anzupassen und können programmgerecht
 eingerichtet werden, soweit dies im Einzelfall notwendig ist. Die
 Formulare nach den Mustern der Anlagen 2 bis 5 sind zusätzlich mit
 einem Vermerk über die Übereinstimmung des Ausdrucks mit dem
 Registerinhalt zu versehen. Die Formulare nach den Mustern der Anlagen
 6 bis 9 können auch in einem kleineren Format hergestellt werden;
 dabei kann die Zeilengestaltung formatgerecht angepasst werden.
+
+(1a) Auf Verlangen der als „Mutter“ oder „Vater“ in einer
+Geburtsurkunde eingetragenen Person wird diese Bezeichnung durch
+„Elternteil“ ersetzt.
 
 (2) Wird bei der Beantragung einer Geburtsurkunde verlangt, Angaben
 nach § 59 Absatz 1 Nummer 2 oder 4 des Gesetzes nicht aufzunehmen,
@@ -1397,7 +1404,8 @@ es dies für erforderlich hält.
         Annahme als Kind im Ausland,
 
 
-    d)  Entscheidungen, durch die auf Grund des Transsexuellengesetzes
+    d)  Entscheidungen, durch die auf Grund des Transsexuellengesetzes in der
+        bis einschließlich 31. Oktober 2024 geltenden Fassung
 
         aa) die Vornamen einer Person geändert oder solche Entscheidungen
             aufgehoben werden,
@@ -1502,7 +1510,13 @@ es dies für erforderlich hält.
 
 
 
-(3) (weggefallen)
+(3) Die Meldebehörde teilt dem Standesamt die erstmalig erteilte
+Identifikationsnummer nach § 139b der Abgabenordnung mit. Ist zu einer
+Person noch keine Identifikationsnummer nach § 139b der Abgabenordnung
+im Personenstandsregister gespeichert, teilt die
+Registermodernisierungsbehörde nach dem Identifikationsnummerngesetz
+diese auf Anforderung dem Standesamt mit, das einen
+Personenstandseintrag für diese Person führt.
 
 (4) Das Jugendamt teilt folgende Beurkundungen mit:
 
@@ -2539,8 +2553,9 @@ Absätze 1 bis 5 entsprechend.
 
 (1) Für die Ausstellung von Personenstandsurkunden aus Altregistern
 und Übergangsbeurkundungen gilt § 48 entsprechend. An Stelle
-beglaubigter Registerausdrucke nach § 55 Abs. 1 Nr. 1 des Gesetzes
-werden beglaubigte Abschriften der Personenstandseinträge erteilt.
+beglaubigter Registerausdrucke nach § 55 Absatz 1 Nummer 5 des
+Gesetzes werden beglaubigte Abschriften der Personenstandseinträge
+erteilt.
 
 (2) Personenstandsurkunden aus Altregistern und Übergangsbeurkundungen
 werden nicht mehr ausgestellt, wenn die Einträge nach § 69 in
@@ -9152,5 +9167,6 @@ Der Bundesrat hat zugestimmt.
 
 ### Anlage 12 (zu § 34)
 
-(Fundstelle: BGBl. I 2008, 2314)
+(Fundstelle: BGBl. I 2008, 2314;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 

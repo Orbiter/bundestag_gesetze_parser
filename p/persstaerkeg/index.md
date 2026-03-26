@@ -133,7 +133,7 @@ Soldatenversorgungsgesetz nach Maßgabe der folgenden Vorschriften.
 
 ### § 6
 
-(1) § 15 Abs. 1 des Soldatenversorgungsgesetzes in der Fassung der
+(1) § 27 Absatz 1 des Soldatenversorgungsgesetzes in der Fassung der
 Bekanntmachung vom 5. März 1987 (BGBl. I S. 842), das zuletzt durch
 Artikel 7 des Gesetzes vom 6. Dezember 1991 (BGBl. I S. 2142) geändert
 worden ist, findet auch Anwendung auf Berufssoldaten, die nach § 2 in
@@ -152,13 +152,13 @@ Erreichens der allgemeinen Altersgrenze in den Ruhestand getreten
 wäre. Die Sätze 1 und 2 gelten nicht, soweit diese Zeiten bereits nach
 anderen Vorschriften als ruhegehaltfähig berücksichtigt werden.
 
-(3) Darüber hinaus gelten § 26 Abs. 2 und § 94b des
+(3) Darüber hinaus gelten § 40 Absatz 2 und § 115 des
 Soldatenversorgungsgesetzes entsprechend.
 
-(4) § 17 Abs. 2 Satz 1 des Soldatenversorgungsgesetzes gilt
+(4) § 29 Absatz 2 Satz 1 des Soldatenversorgungsgesetzes gilt
 entsprechend.
 
-(5) § 18 Abs. 1 des Soldatenversorgungsgesetzes findet keine
+(5) § 30 Absatz 1 des Soldatenversorgungsgesetzes findet keine
 Anwendung.
 
 (6) (weggefallen)
@@ -167,7 +167,7 @@ Anwendung.
 ### § 7
 
 (1) Berufssoldaten, die nach § 1 in den Ruhestand versetzt worden
-sind, erhalten unbeschadet der Regelung des § 38 des
+sind, erhalten unbeschadet der Regelung des § 53 des
 Soldatenversorgungsgesetzes einen einmaligen Ausgleich für die Anzahl
 der Monate, um die die Versetzung in den Ruhestand vor dem Zeitpunkt
 liegt, von dem an die Berufssoldaten nach § 44 Abs. 2 in Verbindung
@@ -199,7 +199,7 @@ Zurruhesetzung um
 
 
 (2) Für Berufssoldaten, die nach § 2 in den Ruhestand versetzt worden
-sind, findet § 38 des Soldatenversorgungsgesetzes entsprechende
+sind, findet § 53 des Soldatenversorgungsgesetzes entsprechende
 Anwendung. Darüber hinaus gilt § 4 Abs. 1 Satz 1 des
 Bundesbesoldungsgesetzes entsprechend mit der Maßgabe, daß der
 Mehrbetrag, der auf der Weitergewährung der Besoldung anstelle von

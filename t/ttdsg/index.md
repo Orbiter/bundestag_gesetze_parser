@@ -1,6 +1,6 @@
 ---
 Title: Gesetz über den Datenschutz und den Schutz der Privatsphäre in der Telekommunikation
-  und bei Telemedien
+  und bei digitalen Diensten
 jurabk: TTDSG
 layout: default
 origslug: ttdsg
@@ -8,7 +8,7 @@ slug: ttdsg
 
 ---
 
-# Gesetz über den Datenschutz und den Schutz der Privatsphäre in der Telekommunikation und bei Telemedien (TTDSG)
+# Gesetz über den Datenschutz und den Schutz der Privatsphäre in der Telekommunikation und bei digitalen Diensten (TTDSG)
 
 Ausfertigungsdatum
 :   2021-06-23
@@ -17,9 +17,8 @@ Fundstelle
 :   BGBl I: 2021, 1982 (2022 I 1045)
 
 Zuletzt geändert durch
-:   Art. 4 G v. 12.8.2021 I 3544
+:   Art. 3 G v. 10.3.2026 I Nr. 64
 
-Stand: Berichtigung vom 30.6.2022 I 1045 ist berücksichtigt
 [^F816794_01_BJNR198210021]:     Dieses Gesetz dient der Umsetzung der Richtlinie 2002/58/EG des
     Europäischen Parlaments und des Rates vom 12. Juli 2002 über die
     Verarbeitung personenbezogener Daten und den Schutz der Privatsphäre
@@ -42,7 +41,7 @@ Stand: Berichtigung vom 30.6.2022 I 1045 ist berücksichtigt
 
 
 2.  besondere Vorschriften zum Schutz personenbezogener Daten bei der
-    Nutzung von Telekommunikationsdiensten und Telemedien,
+    Nutzung von Telekommunikationsdiensten und digitalen Diensten,
 
 
 3.  die Anforderungen an den Schutz der Privatsphäre im Hinblick auf die
@@ -56,12 +55,12 @@ Stand: Berichtigung vom 30.6.2022 I 1045 ist berücksichtigt
     Nutzers und Anbieter von Endnutzerverzeichnissen,
 
 
-5.  die von Anbietern von Telemedien zu beachtenden technischen und
-    organisatorischen Vorkehrungen,
+5.  die von Anbietern von digitalen Diensten zu beachtenden technischen
+    und organisatorischen Vorkehrungen,
 
 
 6.  die Anforderungen an die Erteilung von Auskünften über Bestands- und
-    Nutzungsdaten durch Anbieter von Telemedien,
+    Nutzungsdaten durch Anbieter von digitalen Diensten,
 
 
 7.  den Schutz der Privatsphäre bei Endeinrichtungen hinsichtlich der
@@ -72,8 +71,8 @@ Stand: Berichtigung vom 30.6.2022 I 1045 ist berücksichtigt
 
 8.  die Aufsichtsbehörden und die Aufsicht im Hinblick auf den Datenschutz
     und den Schutz der Privatsphäre in der Telekommunikation; bei
-    Telemedien bleiben die Aufsicht durch die nach Landesrecht zuständigen
-    Behörden und § 40 des Bundesdatenschutzgesetzes unberührt.
+    digitalen Diensten bleiben die Aufsicht durch die nach Landesrecht
+    zuständigen Behörden und § 40 des Bundesdatenschutzgesetzes unberührt.
 
 
 
@@ -87,46 +86,48 @@ personenbezogenen Daten gleich.
 (3) Diesem Gesetz unterliegen alle Unternehmen und Personen, die im
 Geltungsbereich dieses Gesetzes eine Niederlassung haben oder
 Dienstleistungen erbringen oder daran mitwirken oder Waren auf dem
-Markt bereitstellen. § 3 des Telemediengesetzes bleibt unberührt.
+Markt bereitstellen. § 3 des Digitale-Dienste-Gesetzes bleibt
+unberührt.
 
 
 ### § 2 Begriffsbestimmungen
 
 (1) Die Begriffsbestimmungen des Telekommunikationsgesetzes, des
-Telemediengesetzes und der Verordnung (EU) 2016/679 des Europäischen
-Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher
-Personen bei der Verarbeitung personenbezogener Daten, zum freien
-Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-
-Grundverordnung) gelten auch für dieses Gesetz, soweit in Absatz 2
-keine abweichende Begriffsbestimmung getroffen wird.
+Digitale-Dienste-Gesetzes und der Verordnung (EU) 2016/679 des
+Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz
+natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum
+freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG
+(Datenschutz-Grundverordnung) gelten auch für dieses Gesetz, soweit in
+Absatz 2 keine abweichende Begriffsbestimmung getroffen wird.
 
 (2) Im Sinne dieses Gesetzes ist oder sind
 
-1.  „Anbieter von Telemedien“ jede natürliche oder juristische Person, die
-    eigene oder fremde Telemedien erbringt, an der Erbringung mitwirkt
-    oder den Zugang zur Nutzung von eigenen oder fremden Telemedien
-    vermittelt,
+1.  „Anbieter von digitalen Diensten“ jede natürliche oder juristische
+    Person, die eigene oder fremde digitale Dienste erbringt, an der
+    Erbringung mitwirkt oder den Zugang zur Nutzung von eigenen oder
+    fremden digitalen Diensten vermittelt,
 
 
 2.  „Bestandsdaten“ im Sinne des Teils 3 dieses Gesetzes die
     personenbezogenen Daten, deren Verarbeitung zum Zweck der Begründung,
     inhaltlichen Ausgestaltung oder Änderung eines Vertragsverhältnisses
-    zwischen dem Anbieter von Telemedien und dem Nutzer über die Nutzung
-    von Telemedien erforderlich ist,
+    zwischen dem Anbieter von digitalen Diensten und dem Nutzer über die
+    Nutzung von digitalen Diensten erforderlich ist,
 
 
 3.  „Nutzungsdaten“ die personenbezogenen Daten eines Nutzers von
-    Telemedien, deren Verarbeitung erforderlich ist, um die
-    Inanspruchnahme von Telemedien zu ermöglichen und abzurechnen; dazu
-    gehören insbesondere
+    digitalen Diensten, deren Verarbeitung erforderlich ist, um die
+    Inanspruchnahme von digitalen Diensten zu ermöglichen und abzurechnen;
+    dazu gehören insbesondere
 
     a)  Merkmale zur Identifikation des Nutzers,
 
 
-    b)  Angaben über Beginn und Ende sowie Umfang der jeweiligen Nutzung und
+    b)  Angaben über Beginn und Ende sowie über den Umfang der jeweiligen
+        Nutzung und
 
 
-    c)  Angaben über die vom Nutzer in Anspruch genommenen Telemedien,
+    c)  Angaben über die vom Nutzer in Anspruch genommenen digitalen Dienste,
 
 
 
@@ -883,7 +884,7 @@ kundenfreundlich gestaltetes Endnutzerverzeichnis oder in eine
 entsprechende Auskunftsdienste-Datenbank aufgenommen werden können.
 
 
-## Teil 3 - Telemediendatenschutz, Endeinrichtungen
+## Teil 3 - Datenschutz bei digitalen Diensten, Endeinrichtungen
 
 
 ### Kapitel 1 - Technische und organisatorische Vorkehrungen, Verarbeitung von Daten zum Zweck des Jugendschutzes und zur Auskunftserteilung
@@ -891,44 +892,53 @@ entsprechende Auskunftsdienste-Datenbank aufgenommen werden können.
 
 #### § 19 Technische und organisatorische Vorkehrungen
 
-(1) Anbieter von Telemedien haben durch technische und
+(1) Anbieter von digitalen Diensten haben durch technische und
 organisatorische Vorkehrungen sicherzustellen, dass der Nutzer von
-Telemedien die Nutzung des Dienstes jederzeit beenden kann und er
-Telemedien gegen Kenntnisnahme Dritter geschützt in Anspruch nehmen
-kann.
+digitalen Diensten
 
-(2) Anbieter von Telemedien haben die Nutzung von Telemedien und ihre
-Bezahlung anonym oder unter Pseudonym zu ermöglichen, soweit dies
-technisch möglich und zumutbar ist. Der Nutzer von Telemedien ist über
-diese Möglichkeit zu informieren.
-
-(3) Die Weitervermittlung zu einem anderen Anbieter von Telemedien ist
-dem Nutzer anzuzeigen.
-
-(4) Anbieter von Telemedien haben, soweit dies technisch möglich und
-wirtschaftlich zumutbar ist, im Rahmen ihrer jeweiligen
-Verantwortlichkeit für geschäftsmäßig angebotene Telemedien durch
-technische und organisatorische Vorkehrungen sicherzustellen, dass
-
-1.  kein unerlaubter Zugriff auf die für ihre Telemedienangebote genutzten
-    technischen Einrichtungen möglich ist und
+1.  die Nutzung des Dienstes jederzeit beenden kann und
 
 
-2.  diese gesichert sind gegen Störungen, auch soweit sie durch äußere
-    Angriffe bedingt sind.
+2.  digitale Dienste geschützt gegen Kenntnisnahme Dritter in Anspruch
+    nehmen kann.
+
+
+
+
+(2) Anbieter von digitalen Diensten haben die Nutzung von digitalen
+Diensten und ihre Bezahlung anonym oder unter Pseudonym zu
+ermöglichen, soweit dies technisch möglich und zumutbar ist. Der
+Nutzer von digitalen Diensten ist über diese Möglichkeit zu
+informieren.
+
+(3) Die Weitervermittlung zu einem anderen Anbieter von digitalen
+Diensten ist dem Nutzer anzuzeigen.
+
+(4) Anbieter von digitalen Diensten haben, soweit dies technisch
+möglich und wirtschaftlich zumutbar ist, im Rahmen ihrer jeweiligen
+Verantwortlichkeit für geschäftsmäßig angebotene digitale Dienste
+durch technische und organisatorische Vorkehrungen sicherzustellen,
+dass
+
+1.  kein unerlaubter Zugriff auf die technischen Einrichtungen, die sie
+    für das Angebot ihrer digitalen Dienste nutzen, möglich ist und
+
+
+2.  die technischen Einrichtungen nach Nummer 1 gesichert sind gegen
+    Störungen, auch gegen solche, die durch äußere Angriffe bedingt sind.
 
 
 
 Vorkehrungen nach Satz 1 müssen den Stand der Technik berücksichtigen.
 Eine Vorkehrung nach Satz 1 ist insbesondere die Anwendung eines als
 sicher anerkannten Verschlüsselungsverfahrens. Anordnungen des
-Bundesamtes für Sicherheit in der Informationstechnik nach § 7d Satz 1
-BSI-Gesetz bleiben unberührt.
+Bundesamtes für Sicherheit in der Informationstechnik nach § 17 Satz 1
+des BSI-Gesetzes bleiben unberührt.
 
 
 #### § 20 Verarbeitung personenbezogener Daten Minderjähriger
 
-Hat ein Telemedienanbieter zur Wahrung des Jugendschutzes
+Hat ein Anbieter von digitalen Diensten zur Wahrung des Jugendschutzes
 personenbezogene Daten von Minderjährigen erhoben, etwa durch Mittel
 zur Altersverifikation oder andere technische Maßnahmen, oder
 anderweitig gewonnen, so darf er diese Daten nicht für kommerzielle
@@ -938,18 +948,19 @@ Zwecke verarbeiten.
 #### § 21 Bestandsdaten
 
 (1) Auf Anordnung der zuständigen Stellen dürfen Anbieter von
-Telemedien im Einzelfall Auskunft über Bestandsdaten erteilen, soweit
-dies zur Durchsetzung der Rechte am geistigen Eigentum erforderlich
-ist.
+digitalen Diensten im Einzelfall Auskunft über Bestandsdaten erteilen,
+soweit dies zur Durchsetzung der Rechte am geistigen Eigentum
+erforderlich ist.
 
-(2) Der Anbieter von Telemedien darf darüber hinaus im Einzelfall
-Auskunft über bei ihm vorhandene Bestandsdaten erteilen, soweit dies
-zur Durchsetzung zivilrechtlicher Ansprüche wegen der Verletzung
-absolut geschützter Rechte aufgrund rechtswidriger Inhalte, die von §
-10a Absatz 1 des Telemediengesetzes oder § 1 Absatz 3 des
-Netzwerkdurchsetzungsgesetzes erfasst werden, erforderlich ist. In
-diesem Umfang ist er gegenüber dem Verletzten zur Auskunft
-verpflichtet.
+(2) Der Anbieter von digitalen Diensten darf darüber hinaus im
+Einzelfall Auskunft über bei ihm vorhandene Bestandsdaten erteilen,
+soweit dies zur Durchsetzung zivilrechtlicher Ansprüche wegen der
+Verletzung absolut geschützter Rechte aufgrund rechtswidriger
+audiovisueller Inhalte oder aufgrund von Inhalten, die den Tatbestand
+der §§ 86, 86a, 89a, 91, 100a, 111, 126, 129 bis 129b, 130, 131, 140,
+166, 184b, 185 bis 187, 189, 201a, 241 oder 269 des Strafgesetzbuches
+erfüllen und nicht gerechtfertigt sind, erforderlich ist. In diesem
+Umfang ist er gegenüber dem Verletzten zur Auskunft verpflichtet.
 
 (3) Für die Erteilung der Auskunft nach Absatz 2 ist eine vorherige
 gerichtliche Anordnung über die Zulässigkeit der Auskunftserteilung
@@ -966,14 +977,14 @@ den Angelegenheiten der freiwilligen Gerichtsbarkeit entsprechend. Die
 Kosten der richterlichen Anordnung trägt der Verletzte. Gegen die
 Entscheidung des Landgerichts ist die Beschwerde statthaft.
 
-(4) Der Anbieter von Telemedien ist als Beteiligter zu dem Verfahren
-nach Absatz 3 hinzuzuziehen. Er darf den Nutzer über die Einleitung
-des Verfahrens unterrichten.
+(4) Der Anbieter von digitalen Diensten ist als Beteiligter zu dem
+Verfahren nach Absatz 3 hinzuzuziehen. Er darf den Nutzer über die
+Einleitung des Verfahrens unterrichten.
 
 
 #### § 22 Auskunftsverfahren bei Bestandsdaten
 
-(1) Wer geschäftsmäßig Telemediendienste erbringt, daran mitwirkt oder
+(1) Wer geschäftsmäßig digitale Dienste erbringt, daran mitwirkt oder
 den Zugang zur Nutzung daran vermittelt, darf die Bestandsdaten nach
 Maßgabe dieser Vorschrift zur Erfüllung von Auskunftspflichten
 gegenüber den in Absatz 3 genannten Stellen verwenden. Dies gilt nicht
@@ -1230,12 +1241,8 @@ Zulässigkeit der Auskunft tragen die um Auskunft ersuchenden Stellen.
 
 
 7.  den Militärischen Abschirmdienst, soweit dies aufgrund tatsächlicher
-    Anhaltspunkte im Einzelfall zur Aufklärung bestimmter Bestrebungen
-    oder Tätigkeiten nach § 1 Absatz 1 des MAD-Gesetzes oder zur Sicherung
-    der Einsatzbereitschaft der Truppe oder zum Schutz der Angehörigen,
-    der Dienststellen und Einrichtungen des Geschäftsbereichs des
-    Bundesministeriums der Verteidigung nach § 14 Absatz 1 des MAD-
-    Gesetzes erforderlich ist,
+    Anhaltspunkte im Einzelfall zur Wahrnehmung der Aufgaben nach § 2
+    Absatz 1, 4 oder 5 des MAD-Gesetzes erforderlich ist,
 
 
 8.  den Bundesnachrichtendienst, soweit dies erforderlich ist
@@ -1497,12 +1504,8 @@ Zulässigkeit der Auskunft tragen die um Auskunft ersuchenden Stellen.
 
 
 7.  den Militärischen Abschirmdienst, soweit dies aufgrund tatsächlicher
-    Anhaltspunkte im Einzelfall zur Aufklärung bestimmter Bestrebungen
-    oder Tätigkeiten nach § 1 Absatz 1 des MAD-Gesetzes oder zur Sicherung
-    der Einsatzbereitschaft der Truppe oder zum Schutz der Angehörigen,
-    der Dienststellen und Einrichtungen des Geschäftsbereichs des
-    Bundesministeriums der Verteidigung nach § 14 Absatz 1 des MAD-
-    Gesetzes erforderlich ist,
+    Anhaltspunkte im Einzelfall zur Wahrnehmung der Aufgaben nach § 2
+    Absatz 1, 4 oder 5 des MAD-Gesetzes erforderlich ist,
 
 
 8.  den Bundesnachrichtendienst, soweit dies erforderlich ist
@@ -1528,14 +1531,14 @@ Zulässigkeit der Auskunft tragen die um Auskunft ersuchenden Stellen.
 
 
 
-(5) Derjenige, der geschäftsmäßig Telemediendienste erbringt, daran
+(5) Derjenige, der geschäftsmäßig digitale Dienste erbringt, daran
 mitwirkt oder den Zugang zur Nutzung daran vermittelt, hat die zu
 beauskunftenden Daten unverzüglich und vollständig zu übermitteln.
 Eine Verschlüsselung der Daten bleibt unberührt. Über das
 Auskunftsersuchen und die Auskunftserteilung haben die Verpflichteten
 gegenüber den Betroffenen sowie Dritten Stillschweigen zu wahren.
 
-(6) Wer geschäftsmäßig Telemediendienste erbringt oder daran mitwirkt,
+(6) Wer geschäftsmäßig digitale Dienste erbringt oder daran mitwirkt,
 hat die in seinem Verantwortungsbereich für die Auskunftserteilung
 erforderlichen Vorkehrungen auf seine Kosten zu treffen. Jedes
 Auskunftsverlangen ist durch eine verantwortliche Fachkraft auf
@@ -1546,10 +1549,10 @@ einem positiven Prüfergebnis freigegeben werden.
 
 #### § 23 Auskunftsverfahren bei Passwörtern und anderen Zugangsdaten
 
-(1) Abweichend von § 22 darf derjenige, der geschäftsmäßig
-Telemediendienste erbringt, daran mitwirkt oder den Zugang zur Nutzung
-daran vermittelt, die als Bestandsdaten erhobenen Passwörter oder
-andere Daten, mittels derer der Zugriff auf Endgeräte oder auf
+(1) Abweichend von § 22 darf derjenige, der geschäftsmäßig digitale
+Dienste erbringt, daran mitwirkt oder den Zugang zur Nutzung daran
+vermittelt, die als Bestandsdaten erhobenen Passwörter oder andere
+Daten, mittels derer der Zugriff auf Endgeräte oder auf
 Speichereinrichtungen, die in diesen Endgeräten oder hiervon räumlich
 getrennt eingesetzt werden, geschützt wird, nach Maßgabe dieser
 Vorschrift zur Erfüllung von Auskunftspflichten gegenüber den in
@@ -1585,14 +1588,14 @@ An andere öffentliche und nichtöffentliche Stellen dürfen Daten nach
 Absatz 1 nicht übermittelt werden. Die Verantwortung für die
 Zulässigkeit der Auskunft tragen die um Auskunft ersuchenden Stellen.
 
-(3) Derjenige, der geschäftsmäßig Telemediendienste erbringt, daran
+(3) Derjenige, der geschäftsmäßig digitale Dienste erbringt, daran
 mitwirkt oder den Zugang zur Nutzung daran vermittelt, hat die zu
 beauskunftenden Daten unverzüglich und vollständig zu übermitteln.
 Eine Verschlüsselung der Daten bleibt unberührt. Über das
 Auskunftsersuchen und die Auskunftserteilung haben die Verpflichteten
 gegenüber den Betroffenen sowie Dritten Stillschweigen zu wahren.
 
-(4) Wer geschäftsmäßig Telemediendienste erbringt oder daran mitwirkt,
+(4) Wer geschäftsmäßig digitale Dienste erbringt oder daran mitwirkt,
 hat die in seinem Verantwortungsbereich für die Auskunftserteilung
 erforderlichen Vorkehrungen auf seine Kosten zu treffen. Jedes
 Auskunftsverlangen ist durch eine verantwortliche Fachkraft auf
@@ -1603,7 +1606,7 @@ einem positiven Prüfergebnis freigegeben werden.
 
 #### § 24 Auskunftsverfahren bei Nutzungsdaten
 
-(1) Wer geschäftsmäßig Telemediendienste erbringt, daran mitwirkt oder
+(1) Wer geschäftsmäßig digitale Dienste erbringt, daran mitwirkt oder
 den Zugang zur Nutzung daran vermittelt, darf die Nutzungsdaten nach
 Maßgabe dieser Vorschrift zur Erfüllung von Auskunftspflichten
 gegenüber den in Absatz 3 genannten Stellen verwenden. Für die
@@ -1730,12 +1733,8 @@ Zulässigkeit der Auskunft tragen die um Auskunft ersuchenden Stellen.
 
 
 6.  den Militärischen Abschirmdienst, soweit dies aufgrund tatsächlicher
-    Anhaltspunkte im Einzelfall zur Aufklärung bestimmter Bestrebungen
-    oder Tätigkeiten nach § 1 Absatz 1 des MAD-Gesetzes oder zur Sicherung
-    der Einsatzbereitschaft der Truppe oder zum Schutz der Angehörigen,
-    der Dienststellen und Einrichtungen des Geschäftsbereichs des
-    Bundesministeriums der Verteidigung nach § 14 Absatz 1 des MAD-
-    Gesetzes erforderlich ist,
+    Anhaltspunkte im Einzelfall zur Wahrnehmung der Aufgaben nach § 2
+    Absatz 1, 4 oder 5 des MAD-Gesetzes erforderlich ist,
 
 
 7.  den Bundesnachrichtendienst zur Gewinnung von Erkenntnissen über das
@@ -1760,7 +1759,7 @@ Zulässigkeit der Auskunft tragen die um Auskunft ersuchenden Stellen.
     b)  eine Auskunftserteilung über bestimmte Nutzungsdaten im Sinne von § 2
         Absatz 2 Nummer 3 Buchstabe a erforderlich ist, um einen Nutzer zu
         identifizieren, von dem ein bestimmter, dem Bundesnachrichtendienst
-        bereits bekannter Inhalt der Nutzung des Telemediendienstes herrührt,
+        bereits bekannter Inhalt der Nutzung des digitalen Dienstes herrührt,
         zum Zweck
 
         aa) der politischen Unterrichtung der Bundesregierung, wenn im Einzelfall
@@ -1786,14 +1785,14 @@ Zulässigkeit der Auskunft tragen die um Auskunft ersuchenden Stellen.
 
 
 
-(4) Derjenige, der geschäftsmäßig Telemediendienste erbringt, daran
+(4) Derjenige, der geschäftsmäßig digitale Dienste erbringt, daran
 mitwirkt oder den Zugang zur Nutzung daran vermittelt, hat die zu
 beauskunftenden Daten unverzüglich und vollständig zu übermitteln.
 Eine Verschlüsselung der Daten bleibt unberührt. Über das
 Auskunftsersuchen und die Auskunftserteilung haben die Verpflichteten
 gegenüber den Betroffenen sowie Dritten Stillschweigen zu wahren.
 
-(5) Wer geschäftsmäßig Telemediendienste erbringt oder daran mitwirkt,
+(5) Wer geschäftsmäßig digitale Dienste erbringt oder daran mitwirkt,
 hat die in seinem Verantwortungsbereich für die Auskunftserteilung
 erforderlichen Vorkehrungen auf seine Kosten zu treffen. Jedes
 Auskunftsverlangen ist durch eine verantwortliche Fachkraft auf
@@ -1826,8 +1825,8 @@ haben gemäß der Verordnung (EU) 2016/679 zu erfolgen.
 2.  wenn die Speicherung von Informationen in der Endeinrichtung des
     Endnutzers oder der Zugriff auf bereits in der Endeinrichtung des
     Endnutzers gespeicherte Informationen unbedingt erforderlich ist,
-    damit der Anbieter eines Telemediendienstes einen vom Nutzer
-    ausdrücklich gewünschten Telemediendienst zur Verfügung stellen kann.
+    damit der Anbieter eines digitalen Dienstes einen vom Nutzer
+    ausdrücklich gewünschten digitalen Dienst zur Verfügung stellen kann.
 
 
 
@@ -1901,7 +1900,7 @@ des Bundestages und des Bundesrates die Anforderungen
 
 
 
-    b)  Anbieter von Telemedien bei der Verwaltung der von Endnutzern
+    b)  Anbieter von digitalen Diensten bei der Verwaltung der von Endnutzern
         erteilten Einwilligung die Einbindung von anerkannten Diensten zur
         Einwilligungsverwaltung und Einstellungen durch die Endnutzer
         berücksichtigen.

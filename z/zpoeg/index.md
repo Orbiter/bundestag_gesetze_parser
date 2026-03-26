@@ -16,7 +16,10 @@ Fundstelle
 :   RGBl: 1877, 244
 
 Zuletzt geändert durch
-:   Art. 4 G v. 8.10.2023 I Nr. 272
+:   Art. 17 G v. 8.12.2025 I Nr. 319
+
+Mittelbare änderung durch
+:   Art. 38 G v. 8.12.2025 I Nr. 319 ist berücksichtigt
 
 
 ## Eingangsformel
@@ -251,13 +254,104 @@ Vergleiche gelten als Vergleiche im Sinne des § 794 Abs. 1 Nr. 1 der
 Zivilprozessordnung.
 
 
-## § 16 (weggefallen)
+## § 16
+
+(1) Die Bundesregierung und die Landesregierungen werden ermächtigt,
+durch Rechtsverordnung für ihre jeweiligen Zuständigkeitsbereiche
+vollvirtuelle Videoverhandlungen zum Zwecke ihrer Erprobung
+zuzulassen. Eine Videoverhandlung (§ 128a der Zivilprozessordnung)
+findet als vollvirtuelle Videoverhandlung statt, wenn alle
+Verfahrensbeteiligten und alle Mitglieder des Gerichts an der
+mündlichen Verhandlung per Bild- und Tonübertragung teilnehmen und der
+Vorsitzende die Videoverhandlung von einem anderen Ort als der
+Gerichtsstelle aus leitet. Die Landesregierungen können die in Satz 1
+genannte Ermächtigung durch Rechtsverordnung auf die
+Landesjustizverwaltungen übertragen.
+
+(2) Die Zulassung vollvirtueller Videoverhandlungen kann auf einzelne
+Gerichte oder Verfahren beschränkt werden. In der Rechtsverordnung ist
+Folgendes zu bestimmen:
+
+1.  die technischen und organisatorischen Rahmenbedingungen für die
+    Herstellung der Öffentlichkeit nach Absatz 4 sowie
+
+
+2.  Art und Umfang der nach § 17 zu erhebenden Daten.
 
 
 
-## § 17 (weggefallen)
+Die Geltungsdauer der Rechtsverordnung ist längstens bis zum Ablauf
+des 31. Dezember 2033 zu befristen. Die Rechtsverordnung der
+Bundesregierung bedarf nicht der Zustimmung des Bundesrates.
 
-)
+(3) Ist durch Rechtsverordnung nach den Absätzen 1 und 2 eine
+vollvirtuelle Videoverhandlung zugelassen, so ist deren Durchführung
+nur zulässig, wenn
+
+1.  alle Mitglieder des Gerichts gegenüber dem Vorsitzenden erklärt haben,
+    an der mündlichen Verhandlung per Bild- und Tonübertragung
+    teilzunehmen,
+
+
+2.  gegenüber allen Verfahrensbeteiligten eine Videoverhandlung nach §
+    128a Absatz 2 Satz 1 der Zivilprozessordnung angeordnet wurde und
+
+
+3.  kein Verfahrensbeteiligter fristgerecht Einspruch nach § 128a Absatz 2
+    Satz 2 der Zivilprozessordnung eingelegt hat.
+
+
+
+Über die Durchführung einer vollvirtuellen Videoverhandlung
+entscheidet der Vorsitzende.
+
+(4) In öffentlichen Verhandlungen ist die Öffentlichkeit herzustellen,
+indem die vollvirtuelle Videoverhandlung in Bild und Ton an einen
+öffentlich zugänglichen Raum im zuständigen Gericht übertragen wird.
+
+(5) Absatz 4 gilt entsprechend für die Urteilsverkündung nach § 310
+Absatz 1 Satz 3 der Zivilprozessordnung.
+
+
+## § 17
+
+(1) Das Bundesministerium der Justiz evaluiert unter Beteiligung der
+an der Erprobung teilnehmenden Länder vier Jahre und acht Jahre nach
+dem 19. Juli 2024 die mit der vollvirtuellen Videoverhandlung
+gemachten Erfahrungen und die daraus gewonnenen Erkenntnisse.
+
+(2) Die an der Erprobung teilnehmenden Länder berichten dem
+Bundesministerium der Justiz zum Zwecke der Evaluierung nach Absatz 1
+am Ende eines jeden Kalenderjahres über die an den Gerichten in ihrem
+Zuständigkeitsbereich durchgeführten vollvirtuellen
+Videoverhandlungen. Der Bericht soll bezogen auf den Berichtszeitraum
+folgende Angaben enthalten:
+
+1.  Anzahl der durchgeführten vollvirtuellen Videoverhandlungen,
+
+
+2.  Angaben zu Art und Sachgebiet der Verfahren, in denen eine
+    vollvirtuelle Videoverhandlung stattgefunden hat,
+
+
+3.  Angaben zur anwaltlichen Vertretung in diesen Verfahren,
+
+
+4.  Angaben über die technische Ausstattung des öffentlichen
+    Übertragungsraums nach § 16 Absatz 4 sowie die hierfür entstandenen
+    Kosten und Aufwendungen,
+
+
+5.  Angaben zum Umfang, in welchem die Öffentlichkeit von den
+    Möglichkeiten des § 16 Absatz 4 Gebrauch gemacht hat und
+
+
+6.  Angaben über die Erfahrungen der Gerichte und Verfahrensbeteiligten
+    mit der Durchführung vollvirtueller Videoverhandlungen und der
+    Herstellung der Öffentlichkeit nach § 16 Absatz 4.
+
+
+
 
 
 ## § 18 (weggefallen)
@@ -804,6 +898,14 @@ dazu, dass keine Monatsrate zu zahlen ist, so ist dies auf Antrag
 bereits ab dem 1. Januar 2011 zu berücksichtigen.
 
 
+## § 37b Übergangsvorschrift zum Gesetz zur Stärkung des Justizstandortes Deutschland durch Einführung von Commercial Courts und der Gerichtssprache Englisch in der Zivilgerichtsbarkeit (Justizstandort-Stärkungsgesetz)
+
+§ 273a der Zivilprozessordnung ist auch in Verfahren anwendbar, die am
+1\. April 2025 bereits anhängig sind. Im Übrigen sind auf Verfahren,
+die am 1. April 2025 anhängig sind, die bis zu diesem Zeitpunkt
+geltenden Vorschriften anzuwenden.
+
+
 ## § 38 Informationspflicht aus Anlass des Gesetzes zur Reform des Kontopfändungsschutzes
 
 Die Kreditinstitute haben die Inhaber der bei ihnen geführten Konten
@@ -941,8 +1043,38 @@ Forderungen in Zivil- und Handelssachen (ABl. L 189 vom 27.6.2014, S.
 59).
 
 
-## § 43 (weggefallen)
+## § 43 Übergangsregelung zum Gesetz zur Einführung der elektronischen Akte in der Justiz und zur weiteren Förderung des elektronischen Rechtsverkehrs; Verordnungsermächtigung
 
+(1) Dokumente und Aktenteile, die nach den Verschlusssachenanweisungen
+des Bundes oder der Länder als Verschlusssache höher als VS-NUR FÜR
+DEN DIENSTGEBRAUCH eingestuft sind, dürfen bis zum 31. Dezember 2035
+abweichend von den §§ 130a bis 130d und 298a der Zivilprozessordnung
+in Papierform erstellt, geführt und übermittelt werden. Dokumente und
+Aktenteile, die nach den Verschlusssachenanweisungen des Bundes oder
+der Länder als Verschlusssache VS-NUR FÜR DEN DIENSTGEBRAUCH
+eingestuft sind, dürfen bis zum 31. Dezember 2035 abweichend von den
+§§ 130a bis 130d und 298a der Zivilprozessordnung in Papierform
+übermittelt werden. Die für die Handhabung von Verschlusssachen
+geltenden Geheimschutzvorschriften bleiben unberührt.
+
+(2) Die Bundesregierung und die Landesregierungen können jeweils für
+ihren Bereich durch Rechtsverordnung bestimmen, dass Akten abweichend
+von § 298a Absatz 1 der Zivilprozessordnung bis einschließlich 31.
+Dezember 2026 in Papierform angelegt sowie von anderer Stelle bis
+einschließlich 31. Dezember 2026 übermittelte elektronische Akten in
+Papierform geführt oder weitergeführt werden. Die Bestimmung kann auf
+einzelne Gerichte oder Verfahren beschränkt werden; wird von dieser
+Möglichkeit Gebrauch gemacht, so kann in der Rechtsverordnung bestimmt
+werden, dass durch Verwaltungsvorschrift, die öffentlich
+bekanntzumachen ist, geregelt wird, in welchen Verfahren Akten in
+Papierform angelegt oder elektronisch übermittelte Akten in Papierform
+geführt oder weitergeführt werden. Die Rechtsverordnung der
+Bundesregierung bedarf nicht der Zustimmung des Bundesrates. Die
+Bundesregierung kann die in Satz 1 genannte Ermächtigung durch
+Rechtsverordnung auf die zuständigen Bundesministerien übertragen. Die
+Landesregierungen können die in Satz 1 genannte Ermächtigung durch
+Rechtsverordnung auf die zuständigen obersten Landesbehörden
+übertragen.
 
 
 ## § 44 Vorrang- und Beschleunigungsgebot
@@ -973,4 +1105,25 @@ Zivilprozessordnung einschließlich der auf Grund des § 609 Absatz 7
 der Zivilprozessordnung erlassenen Musterfeststellungsklagenregister-
 Verordnung sowie § 119 Absatz 3 des Gerichtsverfassungsgesetzes in der
 bis einschließlich 12. Oktober 2023 geltenden Fassung anzuwenden.
+
+
+## § 47 Übergangsvorschrift zum Gesetz zur Änderung des Zuständigkeitsstreitwerts der Amtsgerichte, zum Ausbau der Spezialisierung der Justiz in Zivilsachen sowie zur Änderung weiterer prozessualer Regelungen
+
+Die §§ 511, 544 und 567 der Zivilprozessordnung sind in ihrer bis
+einschließlich 31. Dezember 2025 geltenden Fassung weiter anzuwenden,
+wenn
+
+1.  die anzufechtende Entscheidung bis einschließlich 31. Dezember 2025
+    verkündet oder, wenn eine Verkündung nicht stattgefunden hat, der
+    Geschäftsstelle übergeben worden ist oder
+
+
+2.  die mündliche Verhandlung, auf die die anzufechtende Entscheidung
+    ergeht, bis einschließlich 31. Dezember 2025 geschlossen worden ist;
+    in schriftlichen Verfahren tritt an die Stelle des Schlusses der
+    mündlichen Verhandlung der Zeitpunkt, bis zu dem Schriftsätze
+    eingereicht werden konnten.
+
+
+
 

@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1965, 1273
 
 Zuletzt geändert durch
-:   Art. 25 G v. 23.6.2021 I 1858
+:   Art. 28 G v. 23.10.2024 I Nr. 323
 
 
 ## Teil 1 - Urheberrecht
@@ -747,12 +747,14 @@ unterliegt.
 (1) Ein Vertrag, durch den der Urheber Rechte für unbekannte
 Nutzungsarten einräumt oder sich dazu verpflichtet, bedarf der
 Schriftform. Der Schriftform bedarf es nicht, wenn der Urheber
-unentgeltlich ein einfaches Nutzungsrecht für jedermann einräumt. Der
-Urheber kann diese Rechtseinräumung oder die Verpflichtung hierzu
-widerrufen. Das Widerrufsrecht erlischt nach Ablauf von drei Monaten,
-nachdem der andere die Mitteilung über die beabsichtigte Aufnahme der
-neuen Art der Werknutzung an den Urheber unter der ihm zuletzt
-bekannten Anschrift abgesendet hat.
+unentgeltlich ein einfaches Nutzungsrecht für jedermann einräumt.
+Schließt der Urheber einen Vertrag nach Satz 1 mit einer
+Verwertungsgesellschaft, so genügt die Textform. Der Urheber kann
+diese Rechtseinräumung oder die Verpflichtung hierzu widerrufen. Das
+Widerrufsrecht erlischt nach Ablauf von drei Monaten, nachdem der
+andere die Mitteilung über die beabsichtigte Aufnahme der neuen Art
+der Werknutzung an den Urheber unter der ihm zuletzt bekannten
+Anschrift abgesendet hat.
 
 (2) Das Widerrufsrecht entfällt, wenn sich die Parteien nach
 Bekanntwerden der neuen Nutzungsart auf eine Vergütung nach § 32c Abs.
@@ -1285,10 +1287,11 @@ zulässig.
 (1) Ein Vertrag, durch den sich der Urheber zur Einräumung von
 Nutzungsrechten an künftigen Werken verpflichtet, die überhaupt nicht
 näher oder nur der Gattung nach bestimmt sind, bedarf der
-schriftlichen Form. Er kann von beiden Vertragsteilen nach Ablauf von
-fünf Jahren seit dem Abschluß des Vertrages gekündigt werden. Die
-Kündigungsfrist beträgt sechs Monate, wenn keine kürzere Frist
-vereinbart ist.
+schriftlichen Form. Schließt der Urheber den Vertrag mit einer
+Verwertungsgesellschaft, so genügt die Textform. Der Vertrag kann von
+beiden Vertragsteilen nach Ablauf von fünf Jahren seit dem Abschluss
+des Vertrages gekündigt werden. Die Kündigungsfrist beträgt sechs
+Monate, wenn keine kürzere Frist vereinbart ist.
 
 (2) Auf das Kündigungsrecht kann im voraus nicht verzichtet werden.
 Andere vertragliche oder gesetzliche Kündigungsrechte bleiben
@@ -3737,8 +3740,8 @@ liegt darin im Zweifel die Einräumung des ausschließlichen Rechts, das
 Werk unverändert oder unter Bearbeitung oder Umgestaltung zur
 Herstellung eines Filmwerkes zu benutzen und das Filmwerk sowie
 Übersetzungen und andere filmische Bearbeitungen auf alle
-Nutzungsarten zu nutzen. § 31a Abs. 1 Satz 3 und 4 und Abs. 2 bis 4
-findet keine Anwendung.
+Nutzungsarten zu nutzen. § 31a Absatz 1 Satz 4 und 5 und Absatz 2 bis
+4 findet keine Anwendung.
 
 (2) Die in Absatz 1 bezeichneten Befugnisse berechtigen im Zweifel
 nicht zu einer Wiederverfilmung des Werkes. Der Urheber ist
@@ -3758,8 +3761,8 @@ verpflichtet, räumt damit für den Fall, daß er ein Urheberrecht am
 Filmwerk erwirbt, dem Filmhersteller im Zweifel das ausschließliche
 Recht ein, das Filmwerk sowie Übersetzungen und andere filmische
 Bearbeitungen oder Umgestaltungen des Filmwerkes auf alle
-Nutzungsarten zu nutzen. § 31a Abs. 1 Satz 3 und 4 und Abs. 2 bis 4
-findet keine Anwendung.
+Nutzungsarten zu nutzen. § 31a Absatz 1 Satz 4 und 5 und Absatz 2 bis
+4 findet keine Anwendung.
 
 (2) Hat der Urheber des Filmwerkes das in Absatz 1 bezeichnete
 Nutzungsrecht im voraus einem Dritten eingeräumt, so behält er
@@ -5225,8 +5228,8 @@ erschienen ist.
 43 auf Verträge, die vor dem 1. Januar 1966 abgeschlossen worden sind,
 nicht anzuwenden. § 43 gilt für ausübende Künstler entsprechend. Die
 §§ 40 und 41 gelten für solche Verträge mit der Maßgabe, daß die in §
-40 Abs. 1 Satz 2 und § 41 Abs. 2 genannten Fristen frühestens mit dem
-1\. Januar 1966 beginnen.
+40 Absatz 1 Satz 3 und § 41 Absatz 2 genannten Fristen frühestens mit
+dem 1. Januar 1966 beginnen.
 
 (2) Vor dem 1. Januar 1966 getroffene Verfügungen bleiben wirksam.
 

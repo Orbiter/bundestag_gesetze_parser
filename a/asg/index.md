@@ -17,7 +17,10 @@ Fundstelle
 :   BGBl I: 1968, 787
 
 Zuletzt geändert durch
-:   Art. 41 G v. 23.6.2021 I 1858
+:   Art. 6 G v. 22.12.2025 I Nr. 345
+
+Änderung durch
+:   Art. 13 G v. 22.12.2025 I Nr. 370 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Eingangsformel
@@ -80,6 +83,24 @@ Sicherstellung von Arbeitsleistungen
 1.  bei der Bundeswehr und bei den verbündeten Streitkräften,
 
 
+1a. bei mehrheitlich im Eigentum des Bundes befindlichen Gesellschaften,
+    soweit sie zur Versorgung der Bundeswehr und der verbündeten
+    Streitkräfte dienen,
+
+
+1b. bei sonstigen Unternehmen, soweit deren Leistungserbringung im Rahmen
+    von Vertragsverhältnissen zur Versorgung der Bundeswehr und der
+    verbündeten Streitkräfte erforderlich ist,
+
+
+1c. bei Betrieben, soweit sie Militärausrüstung, einschließlich
+    dazugehöriger Teile, Bauteile oder Bausätze liefern, erzeugen oder
+    Dienstleistungen in unmittelbarem Zusammenhang dazu erbringen, sowie
+
+
+1d. bei Forschungseinrichtungen, soweit sie militärisch forschen,
+
+
 2.  bei Dienststellen des Bundes, der Länder, der Gemeindeverbände, der
     Gemeinden und der sonstigen juristischen Personen des öffentlichen
     Rechts,
@@ -101,24 +122,38 @@ Sicherstellung von Arbeitsleistungen
     pflegebedürftige Personen betreut werden,
 
 
-6.  in Betrieben der Mineralölversorgung,
+6.  in Betrieben der Mineralöl-, Gas-, Kohle- und Wasserstoffversorgung,
 
 
 7.  in Verkehrsunternehmen einschließlich Unternehmen des Personen- und
     Güterbeförderungsgewerbes in der See- und Binnenschifffahrt,
 
 
-8.  bei der Deutschen Post AG, der Deutschen Postbank AG und der Deutschen
-    Telekom AG sowie bei Unternehmen, die nach § 1 des
-    Postsicherstellungsgesetzes oder Teil 10 Abschnitt 2 des
+8.  bei der Deutschen Telekom AG sowie bei Unternehmen, die nach Kapitel
+    12 des Postgesetzes oder Teil 10 Abschnitt 2 des
     Telekommunikationsgesetzes verpflichtet sind,
 
 
 9.  bei der nach § 31b Abs. 1 des Luftverkehrsgesetzes beauftragten
-    Flugsicherungsorganisation.
+    Flugsicherungsorganisation und, soweit die
+    Flugsicherungsorganisationen hoheitliche Aufgaben betreffend den
+    Luftraum über dem Hoheitsgebiet der Bundesrepublik Deutschland
+    wahrnehmen, bei den nach § 31f Absatz 1, auch in Verbindung mit Absatz
+    2 Satz 2, des Luftverkehrsgesetzes oder durch internationale
+    Vereinbarung beauftragten Flugsicherungsorganisationen,
+
+
+10. bei Betrieben, soweit sie Leistungen zur Sicherstellung der
+    Funktionsfähigkeit oder der Sicherheit der Informationstechnik
+    gegenüber Betrieben oder Dienststellen im Sinne der Nummern 1a bis 9
+    erbringen.
 
 
 
+Militärausrüstung im Sinne des Satzes 1 Nummer 1c ist jede Ausrüstung,
+die eigens zu militärischen Zwecken konzipiert oder für militärische
+Zwecke angepasst wird und zum Einsatz als Waffe, Munition oder
+Kriegsmaterial bestimmt ist.
 
 (2) Über Absatz 1 hinaus kann die Bundesregierung nach Eintritt der
 Voraussetzungen für die Sicherstellung von Arbeitsleistungen (§ 3)
@@ -128,6 +163,22 @@ Anwendungsbereichs nach Artikel 12a Abs. 3, 4 und 6 des Grundgesetzes
 zulässig sind. Die Rechtsverordnung kann den Anwendungsbereich auch
 einschränken oder abgrenzen. Die Bundesregierung hat die
 Rechtsverordnung aufzuheben, wenn der Bundestag es verlangt.
+
+(3) Verpflichtungen und Beschränkungen nach § 2 sind gegenüber
+deutschen Staatsangehörigen bei einem Beschäftigungsort außerhalb des
+Hoheitsgebietes der Bundesrepublik Deutschland auch zulässig zur
+Sicherstellung von Arbeitsleistungen
+
+1.  nach Absatz 1 Satz 1 Nummer 1 sowie, wenn der versorgende Betrieb der
+    Gesellschaft oder des Unternehmens seinen Sitz im Gebiet der
+    Bundesrepublik Deutschland hat, nach Absatz 1 Satz 1 Nummer 1a und 1b
+    und
+
+
+2.  nach Absatz 1 Satz 1 Nummer 9.
+
+
+
 
 
 ### § 5 Befreiungen
@@ -190,8 +241,8 @@ Verpflichtung nach dieser Vorschrift unvereinbar ist.
 
 ### § 6 Abgrenzung zum Wehrdienst und anderen Dienstleistungen
 
-Die Verpflichtung zum Dienst in den Streitkräften, im
-Bundesgrenzschutz, in einem Zivilschutzverband und im Zivildienst geht
+Die Verpflichtung zum Dienst in den Streitkräften, in der
+Bundespolizei, in einem Zivilschutzverband und im Zivildienst geht
 einer Maßnahme zur Sicherstellung von Arbeitsleistungen nach § 2 vor.
 Die §§ 13 und 13a des Wehrpflichtgesetzes und die §§ 14 und 16 des
 Zivildienstgesetzes bleiben unberührt.
@@ -834,7 +885,76 @@ persönlichen Verhältnissen zumutbar, Gefahren und Erschwernisse auf
 sich zu nehmen.
 
 
-## Sechster Abschnitt - Schlußvorschriften
+## Sechster Abschnitt - Datenverarbeitung
+
+
+
+### § 31a Datenübermittlung von den Meldebehörden
+
+(1) Die Bundesagentur für Arbeit ist berechtigt, im Verteidigungsfall
+und nach Maßgabe von Artikel 80a Absatz 1 des Grundgesetzes die
+folgenden Daten aller männlichen Personen vom vollendeten 18.
+Lebensjahr bis zum Ablauf des Jahres, in dem die Person das 60.
+Lebensjahr vollendet, bei den Meldebehörden abzurufen:
+
+1.  Familienname,
+
+
+2.  Vornamen,
+
+
+3.  Geburtsdatum und Geburtsort,
+
+
+4.  derzeitige Staatsangehörigkeiten,
+
+
+5.  derzeitige Anschriften, gekennzeichnet nach Haupt- und Nebenwohnung.
+
+
+
+
+(2) Die Bundesagentur für Arbeit ist berechtigt, im Verteidigungsfall
+die in Absatz 1 Satz 1 genannten Daten aller weiblichen Personen vom
+vollendeten 18. Lebensjahr bis zum vollendeten 55. Lebensjahr bei den
+Meldebehörden abzurufen.
+
+(3) Ist der Datenabruf nicht möglich, so erfolgt die Datenübermittlung
+durch elektronische Datenübertragung nach § 34 Absatz 2 Satz 1 Nummer
+2 des Bundesmeldegesetzes.
+
+
+### § 31b Datenübermittlung durch die Jobcenter; Verordnungsermächtigung
+
+Die Jobcenter sind verpflichtet, im Verteidigungsfall oder nach
+Maßgabe von Artikel 80a Absatz 1 des Grundgesetzes die zur
+Durchführung dieses Gesetzes erforderlichen Daten an die Bundesagentur
+für Arbeit zu übermitteln. Das Bundesministerium für Arbeit und
+Soziales legt durch Rechtsverordnung mit Zustimmung des Bundestages
+und des Bundesrates die erforderlichen Daten fest.
+
+
+### § 31c Zweck der Verarbeitung und Löschung der Daten
+
+(1) Die nach § 15d des Wehrpflichtgesetzes und den §§ 31a und 31b
+dieses Gesetzes erhobenen Daten dürfen durch die Bundesagentur für
+Arbeit ausschließlich zur Erfüllung der Aufgaben nach diesem Gesetz
+verarbeitet werden.
+
+(2) Die nach § 15d des Wehrpflichtgesetzes und den §§ 31a und 31b
+dieses Gesetzes erhobenen Daten einer Person sind zu löschen, wenn die
+jeweilige Person das in § 31a Absatz 1 oder 2 genannte Lebensjahr
+vollendet hat.
+
+(3) Die nach § 15d des Wehrpflichtgesetzes und den §§ 31a und 31b
+dieses Gesetzes erhobenen Daten einer Person sind nach Beendigung des
+Verteidigungsfalls oder eines Falls nach Maßgabe von Artikel 80a
+Absatz 1 des Grundgesetzes zu löschen, soweit diese nicht für aufgrund
+dieses Gesetzes begründete individuelle Rechtsverhältnisse weiter
+erforderlich sind.
+
+
+## Siebter Abschnitt - Schlussvorschriften
 
 
 
@@ -939,10 +1059,16 @@ Bereich gelten.
 
 ### § 38 Rechtsverordnung
 
-(1) Für Arbeitnehmer bei der Bundeswehr gelten § 7 Abs. 1, § 9 Abs. 1
-und 2 und § 32 Abs. 1 Nr. 1 und Abs. 4 mit der Maßgabe, daß an die
-Stelle der Agentur für Arbeit die vom Bundesministerium der
-Verteidigung durch Rechtsverordnung bestimmte Stelle tritt.
+(1) Für Arbeitnehmer bei der Bundeswehr und den verbündeten
+Streitkräften sowie bei Gesellschaften im Sinne von § 4 Absatz 1 Satz
+1 Nummer 1a und bei sonstigen Unternehmen im Sinne von § 4 Absatz 1
+Satz 1 Nummer 1b, deren Leistungserbringung im Rahmen von
+Vertragsverhältnissen zur Versorgung der Bundeswehr und der
+verbündeten Streitkräfte erforderlich ist, gelten § 7 Absatz 1, § 9
+Absatz 1 und 2 sowie § 32 Absatz 1 Nummer 1 und Absatz 4 mit der
+Maßgabe, dass an die Stelle der Agentur für Arbeit die vom
+Bundesministerium der Verteidigung durch Rechtsverordnung bestimmte
+Stelle tritt.
 
 (2) Die Rechtsverordnung bedarf nicht der Zustimmung des Bundesrates.
 

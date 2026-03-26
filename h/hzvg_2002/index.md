@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2002, 2167
 
 Zuletzt geändert durch
-:   Art. 6 G v. 8.12.2016 I 2838
+:   Art. 7 G v. 16.1.2026 I Nr. 14
 
 
 ## Erstes Kapitel - Allgemeine Vorschriften
@@ -887,11 +887,15 @@ Ablauf von einem Monat nach Feststellung der Rente aus der
 gesetzlichen Rentenversicherung gestellt wird. Haben Versicherte eine
 Zusatzrente wegen verminderter Erwerbsfähigkeit bis zum Erreichen der
 Regelaltersgrenze nach dem Sechsten Buch Sozialgesetzbuch bezogen, ist
-anschließend eine Zusatzaltersrente von Amts wegen zu leisten. Im
-Übrigen finden die Vorschriften des Sechsten Buches Sozialgesetzbuch
-über Beginn, Änderung und Ende von Renten, über Ausschluss und
-Minderung von Renten, über Leistungen an Berechtigte im Ausland sowie
-über Berechnungsgrundsätze Anwendung.
+anschließend eine Zusatzaltersrente von Amts wegen zu leisten. Die
+Hüttenknappschaftliche Zusatzversicherung soll die Berechtigten
+spätestens im Jahr des Erreichens der Regelaltersgrenze darauf
+hinweisen, dass sie eine Leistung erhalten können, wenn sie diese
+beantragen. Dies gilt nur, soweit ihr die dafür erforderlichen Daten
+der Berechtigten vorliegen. Im Übrigen finden die Vorschriften des
+Sechsten Buches Sozialgesetzbuch über Beginn, Änderung und Ende von
+Renten, über Ausschluss und Minderung von Renten, über Leistungen an
+Berechtigte im Ausland sowie über Berechnungsgrundsätze Anwendung.
 
 (2) Für die Beitragserstattung finden die für die allgemeine
 Rentenversicherung maßgebenden Vorschriften des Sechsten Buches

@@ -384,7 +384,7 @@ Versicherung, die Grundlage des Versicherungsvertrages ist, nach den
 in Satz 1 genannten Voraussetzungen betreibt.
 
 
-## Art 33 Überleitungsvorschriften
+## Art 33 - Überleitungsvorschriften
 
 
 

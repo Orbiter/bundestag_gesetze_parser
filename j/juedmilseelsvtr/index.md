@@ -545,9 +545,6 @@ dem Zentralrat der Juden in Deutschland. Die Zugehörigkeit zum
 jüdischen Glauben muss durch den Zentralrat der Juden in Deutschland
 ausdrücklich anerkannt werden.
 
-
-### Schlussformel
-
 Berlin, den 20. Dezember 2019
 
 

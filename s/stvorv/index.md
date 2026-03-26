@@ -1,6 +1,5 @@
 ---
-Title: Verordnung zur Durchführung des Stellenvorbehalts nach § 10 Abs. 4 Satz 7 des
-  Soldatenversorgungsgesetzes
+Title: Stellenvorbehaltsverordnung
 jurabk: StVorV
 layout: default
 origslug: stvorv
@@ -8,7 +7,7 @@ slug: stvorv
 
 ---
 
-# Verordnung zur Durchführung des Stellenvorbehalts nach § 10 Abs. 4 Satz 7 des Soldatenversorgungsgesetzes (StVorV)
+# Stellenvorbehaltsverordnung (StVorV)
 
 Ausfertigungsdatum
 :   1999-08-24
@@ -16,13 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1999, 1906
 
-Stand: Zukünftige amtl. Langüberschrift: Stellenvorbehaltsverordnung (ab 1.1.2025; 2021 I 3932)
 Zuletzt geändert durch
 :   Art. 16 G v. 20.8.2021 I 3932
-
-[^BJNR106610014_01_BJNR190600999]:     Nichtamtlicher Hinweis: Die Überschrift wird gem. Art. 16 Nr. 1 G v.
-    20\.8.2021 I 3932 mWv 1.1.2025 wie folgt gefasst:
-    **Stellenvorbehaltsverordnung (StVorV)**
 
 
 ## Eingangsformel
@@ -39,7 +33,7 @@ Bundesministerium der Verteidigung:
 
 ### § 1 Zuständigkeit
 
-Für die Berechnung und Bestimmung der nach § 10 Abs. 1 und 2 des
+Für die Berechnung und Bestimmung der nach 14 Abs. 1 und 2 des
 Gesetzes den Inhabern eines Eingliederungsscheins, eines
 Zulassungsscheins oder einer Bestätigung über den bei Ablauf der
 Verpflichtungszeit bestehenden Anspruch (Eingliederungsberechtigte)
@@ -133,7 +127,7 @@ die bei den Trägern der Sozialversicherung für eine
 dienstordnungsmäßige Anstellung ausgebildet werden, entsprechend.
 
 (3) Die Anzahl der vorbehaltenen Stellen ist aus den nach Absatz 1 und
-2 zusammengefassten Stellen nach § 10 Abs. 1 und 2 des Gesetzes zu
+2 zusammengefassten Stellen nach § 14 Abs. 1 und 2 des Gesetzes zu
 berechnen. Hierbei sind geteilte Stellen (Teilzeitstellen)
 entsprechend ihrem zu besetzenden Anteil rechnerisch zu
 berücksichtigen.
@@ -264,7 +258,7 @@ Eingliederungsberechtigten Stellung.
 
 
 2.  der Eingliederungsschein, der Zulassungsschein oder die Bestätigung
-    nach § 10 Abs. 4 Satz 4 des Gesetzes in Ablichtung,
+    nach § 14 Abs. 4 Satz 4 des Gesetzes in Ablichtung,
 
 
 3.  Ablichtungen der Zeugnisse über die schulische und berufliche
@@ -344,7 +338,7 @@ zuständigen Vormerkstelle unverzüglich mitzuteilen.
 innerhalb von zwei Wochen mitzuteilen, welche Verwendung er nunmehr
 anstrebt und prüft entsprechende Eingliederungsmöglichkeiten. Dies
 gilt nicht, wenn das Erlöschen des Rechts aus dem Eingliederungsschein
-nach § 9 Abs. 5 Nr. 5 des Soldatenversorgungsgesetzes festzustellen
+nach § 13 Abs. 5 Nr. 5 des Soldatenversorgungsgesetzes festzustellen
 ist. Eine Durchschrift der Aufforderung wird dem zuständigen
 Berufsförderungsdienst der Bundeswehr zur Unterrichtung und
 Unterstützung der weiteren Eingliederungsbemühungen zugeleitet.
@@ -368,7 +362,7 @@ anderweitige Besetzung nicht zulässig.
 
 Das Bundesministerium der Verteidigung oder die von ihm bestimmte
 Stelle trifft im Einvernehmen mit der für die Einstellungsbehörde
-zuständigen Vormerkstelle die Feststellung nach § 9 Abs. 5 des
+zuständigen Vormerkstelle die Feststellung nach § 13 Abs. 5 des
 Soldatenversorgungsgesetzes und erteilt dem Eingliederungsberechtigten
 einen Bescheid, der zuzustellen ist. Der zuständige
 Berufsförderungsdienst der Bundeswehr erhält hierüber eine Mitteilung,
@@ -382,7 +376,7 @@ der das Original des Eingliederungsscheins beizufügen ist.
 ### § 13 Verbleib des Eingliederungsscheins, des Zulassungsscheins oder der Bestätigung
 
 Das Original des Eingliederungsscheins, des Zulassungsscheins und in
-den Fällen des § 10 Abs. 4 Satz 4 des Gesetzes zunächst das Original
+den Fällen des § 14 Abs. 4 Satz 4 des Gesetzes zunächst das Original
 der Bestätigung über den bei Ablauf der festgesetzten Dienstzeit
 bestehenden Anspruch ist bei der Einstellung auf eine vorbehaltene
 Stelle zu der Personalakte zu nehmen. Bei einer Versetzung oder bei

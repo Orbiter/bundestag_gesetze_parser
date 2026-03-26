@@ -92,9 +92,6 @@ Einfuhrabgaben im Sinne des Artikels 4 Nr. 10 Zollkodex eingeführt
 werden können, in sinngemäßer Anwendung dieser Vorschriften.
 
 
-## § 1a (weggefallen)
-
-
 ## § 2 Investitionsgüter und andere Ausrüstungsgegenstände
 
 Die Einfuhrumsatzsteuerfreiheit für Investitionsgüter und andere

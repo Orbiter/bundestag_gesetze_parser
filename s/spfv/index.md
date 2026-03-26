@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2017, 1016 (4043)
 
 Zuletzt geändert durch
-:   Art. 7 V v. 5.4.2023 II Nr. 105
-
-Änderung durch
-:   Art. 7 V v. 18.3.2024 I Nr. 100 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 72 Abs. 4 G v. 23.10.2024 I Nr. 323
 
 
 ## § 1 Anwendungsbereich
@@ -770,11 +767,10 @@ die Anforderungen an den Rudergänger bleiben unberührt.
 ## § 13 Entziehung der Fahrerlaubnis oder des Befähigungsnachweises
 
 (1) Wenn sich der Inhaber einer Fahrerlaubnis zum Führen von
-Sportbooten als untauglich oder unzuverlässig erweist, ist ihm
-vorbehaltlich der Anwendung des Seesicherheitsuntersuchungsgesetzes
-die Fahrerlaubnis oder der Befähigungsnachweis von der nach § 16
-Absatz 3 Satz 1 zuständigen Behörde zu entziehen. Bestehen Zweifel an
-der Tauglichkeit, kann von der nach § 16 Absatz 3 Satz 1 zuständigen
+Sportbooten als untauglich oder unzuverlässig erweist, ist ihm die
+Fahrerlaubnis oder der Befähigungsnachweis von der nach § 16 Absatz 3
+Satz 1 zuständigen Behörde zu entziehen. Bestehen Zweifel an der
+Tauglichkeit, kann von der nach § 16 Absatz 3 Satz 1 zuständigen
 Behörde die Vorlage eines amts- oder fachärztlichen Zeugnisses
 verlangt werden. Der Inhaber der Fahrerlaubnis gilt als widerleglich
 unzuverlässig, wenn er seiner Verpflichtung nach § 14 Absatz 5 nicht
@@ -1054,7 +1050,8 @@ Generaldirektion Wasserstraßen und Schifffahrt übertragen.
 
 ## Anlage 1 Muster für den amtlichen Sportbootführerschein
 
-(Fundstelle: BGBl. I 2022, 2213)
+(Fundstelle: BGBl. I 2022, 2213; bzgl. der einzelnen Änderungen vgl.
+Fußnote)
 
 Vorderseite
 
@@ -2569,7 +2566,8 @@ Antriebsart zu erbringen:
 
 ## Anlage 4 Praktische Prüfung zum Erwerb des Sportbootführerscheins
 
-(Fundstelle: BGBl. I 2017, 1031 - 1033)
+(Fundstelle: BGBl. I 2017, 1031 - 1033; bzgl. der einzelnen Änderungen
+vgl. Fußnote)
 
 1\. Allgemeines ****
 
@@ -3133,7 +3131,8 @@ Einsatz als Prüfer/in bestehen nicht.
 
 ## Anlage 7 Belehrung gemäß § 10 Absatz 3 Satz 3
 
-(Fundstelle: BGBl. I 2017, 1036)
+(Fundstelle: BGBl. I 2017, 1036; bzgl. der einzelnen Änderungen vgl.
+Fußnote)
 
 Die für die beliehenen Verbände tätigen Prüfer erhalten
 Entscheidungsbefugnisse für die Ausübung ihrer Prüfungstätigkeit und

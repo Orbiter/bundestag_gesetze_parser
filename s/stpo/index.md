@@ -19,7 +19,28 @@ Neugefasst durch
 :   Bek. v. 7.4.1987 I 1074, 1319;
 
 Zuletzt geändert durch
-:   Art. 13a G v. 27.3.2024 I Nr. 109
+:   Art. 1 G v. 8.12.2025 I Nr. 319
+
+Mittelbare änderung durch
+:   Art. 37 G v. 8.12.2025 I Nr. 319 ist berücksichtigt
+
+Änderung durch
+:   Art. 7 G v. 22.12.2025 I Nr. 349 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 2 G v. 22.12.2025 I Nr. 369 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 5 G v. 9.1.2026 I Nr. 3 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 4 G v. 11.1.2026 I Nr. 6 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 3 G v. 11.1.2026 I Nr. 9 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 4 G v. 23.2.2026 I Nr. 46 ist berücksichtigt
 
 Mittelbare änderung durch
 :   Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war
@@ -505,20 +526,11 @@ entscheidet dieser über die Ablehnung oder Ausschließung.
 
 #### § 32 Elektronische Aktenführung; Verordnungsermächtigungen
 
-(1) Die Akten können elektronisch geführt werden. Die Bundesregierung
-und die Landesregierungen bestimmen jeweils für ihren Bereich durch
-Rechtsverordnung den Zeitpunkt, von dem an die Akten elektronisch
-geführt werden. Sie können die Einführung der elektronischen
-Aktenführung dabei auf einzelne Gerichte oder Strafverfolgungsbehörden
-oder auf allgemein bestimmte Verfahren beschränken und bestimmen, dass
-Akten, die in Papierform angelegt wurden, auch nach Einführung der
-elektronischen Aktenführung in Papierform weitergeführt werden; wird
-von der Beschränkungsmöglichkeit Gebrauch gemacht, kann in der
-Rechtsverordnung bestimmt werden, dass durch Verwaltungsvorschrift,
-die öffentlich bekanntzumachen ist, geregelt wird, in welchen
-Verfahren die Akten elektronisch zu führen sind. Die Ermächtigung kann
-durch Rechtsverordnung auf die zuständigen Bundes- oder
-Landesministerien übertragen werden.
+(1) Die Akten werden elektronisch geführt. Akten, die in Papierform
+angelegt wurden, können in Papierform weitergeführt werden. Sie können
+auch ab einem bestimmten Stichtag oder Ereignis in elektronischer Form
+weitergeführt werden. Der Beginn der Weiterführung der Akten in
+elektronischer Form ist aktenkundig zu machen.
 
 (2) Die Bundesregierung und die Landesregierungen bestimmen jeweils
 für ihren Bereich durch Rechtsverordnung die für die elektronische
@@ -546,56 +558,57 @@ Strafverfolgungsbehörde oder das Gericht geeignet sein. Die
 Bundesregierung bestimmt durch Rechtsverordnung mit Zustimmung des
 Bundesrates technische Rahmenbedingungen für die Übermittlung und die
 Eignung zur Bearbeitung durch die Strafverfolgungsbehörde oder das
-Gericht.
+Gericht sowie das Nähere zur Verarbeitung von Daten der
+Postfachinhaber nach Absatz 4 Satz 1 Nummer 3 und 4 in einem sicheren
+elektronischen Verzeichnis.
 
 (3) Ein Dokument, das schriftlich abzufassen, zu unterschreiben oder
 zu unterzeichnen ist, muss als elektronisches Dokument mit einer
 qualifizierten elektronischen Signatur der verantwortenden Person
 versehen sein oder von der verantwortenden Person signiert und auf
-einem sicheren Übermittlungsweg eingereicht werden.
+einem sicheren Übermittlungsweg eingereicht werden. Soll ein Dokument,
+das von einem Beschuldigten, einem anderen Verfahrensbeteiligten oder
+einem Dritten schriftlich abzufassen, zu unterschreiben oder zu
+unterzeichnen ist, elektronisch eingereicht werden, so kann es in ein
+elektronisches Dokument übertragen und durch einen Verteidiger oder
+Rechtsanwalt nach Satz 1 übermittelt werden.
 
 (4) Sichere Übermittlungswege sind
 
-1.  der Postfach- und Versanddienst eines De-Mail-Kontos, wenn der
-    Absender bei Versand der Nachricht sicher im Sinne des § 4 Absatz 1
-    Satz 2 des De-Mail-Gesetzes angemeldet ist und er sich die sichere
-    Anmeldung gemäß § 5 Absatz 5 des De-Mail-Gesetzes bestätigen lässt,
-
-
-2.  der Übermittlungsweg zwischen den besonderen elektronischen
+1.  der Übermittlungsweg zwischen den besonderen elektronischen
     Anwaltspostfächern nach den §§ 31a und 31b der
     Bundesrechtsanwaltsordnung oder einem entsprechenden, auf gesetzlicher
     Grundlage errichteten elektronischen Postfach und der elektronischen
     Poststelle der Behörde oder des Gerichts,
 
 
-3.  der Übermittlungsweg zwischen einem nach Durchführung eines
+2.  der Übermittlungsweg zwischen einem nach Durchführung eines
     Identifizierungsverfahrens eingerichteten Postfach einer Behörde oder
     einer juristischen Person des öffentlichen Rechts und der
     elektronischen Poststelle der Behörde oder des Gerichts,
 
 
-4.  der Übermittlungsweg zwischen einem nach Durchführung eines
+3.  der Übermittlungsweg zwischen einem nach Durchführung eines
     Identifizierungsverfahrens eingerichteten elektronischen Postfach
     einer natürlichen oder juristischen Person oder einer sonstigen
     Vereinigung und der elektronischen Poststelle der Behörde oder des
     Gerichts,
 
 
-5.  der Übermittlungsweg zwischen einem nach Durchführung eines
+4.  der Übermittlungsweg zwischen einem nach Durchführung eines
     Identifizierungsverfahrens genutzten Postfach- und Versanddienst eines
     Nutzerkontos im Sinne des § 2 Absatz 5 des Onlinezugangsgesetzes und
     der elektronischen Poststelle der Behörde oder des Gerichts,
 
 
-6.  sonstige bundeseinheitliche Übermittlungswege, die durch
+5.  sonstige bundeseinheitliche Übermittlungswege, die durch
     Rechtsverordnung der Bundesregierung mit Zustimmung des Bundesrates
     festgelegt werden, bei denen die Authentizität und Integrität der
     Daten sowie die Barrierefreiheit gewährleistet sind.
 
 
 
-Das Nähere zu den Übermittlungswegen gemäß Satz 1 Nummer 3 bis 5
+Das Nähere zu den Übermittlungswegen gemäß Satz 1 Nummer 2 bis 4
 regelt die Rechtsverordnung nach Absatz 2 Satz 2.
 
 (5) Ein elektronisches Dokument ist eingegangen, sobald es auf der für
@@ -646,7 +659,12 @@ Dokuments erstellt, das mit einer qualifizierten elektronischen
 Signatur versehen ist oder auf einem sicheren Übermittlungsweg
 eingereicht wurde, muss der Beglaubigungsvermerk das Ergebnis der
 Prüfung der Authentizität und Integrität des elektronischen Dokuments
-enthalten.
+enthalten. Eines erweiterten Beglaubigungsvermerks nach Satz 3 bedarf
+es nicht, wenn das elektronische Dokument von der beglaubigenden
+Stelle selbst erstellt wurde. Anstelle eines erweiterten
+Beglaubigungsvermerks nach Satz 3 kann das Ergebnis der Prüfung der
+Authentizität und Integrität auch auf andere Weise untrennbar mit der
+in Papierform erteilten Abschrift verbunden werden.
 
 (5) Die Bundesregierung bestimmt durch Rechtsverordnung mit Zustimmung
 des Bundesrates die für die Erstellung elektronischer Dokumente und
@@ -678,14 +696,29 @@ auf die zuständigen Bundesministerien übertragen.
 Verteidiger und Rechtsanwälte sollen den Strafverfolgungsbehörden und
 Gerichten Schriftsätze und deren Anlagen sowie schriftlich
 einzureichende Anträge und Erklärungen als elektronisches Dokument
-übermitteln. Die Berufung und ihre Begründung, die Revision, ihre
-Begründung und die Gegenerklärung sowie die Privatklage und die
-Anschlusserklärung bei der Nebenklage müssen sie als elektronisches
-Dokument übermitteln. Ist dies aus technischen Gründen vorübergehend
-nicht möglich, ist die Übermittlung in Papierform zulässig. Die
-vorübergehende Unmöglichkeit ist bei der Ersatzeinreichung oder
-unverzüglich danach glaubhaft zu machen; auf Anforderung ist ein
-elektronisches Dokument nachzureichen.
+übermitteln. Die folgenden Dokumente müssen sie elektronisch
+übermitteln:
+
+1.  die Berufung, ihre Begründung und ihre Rücknahme,
+
+
+2.  die Revision, ihre Begründung, ihre Rücknahme und die Gegenerklärung,
+
+
+3.  den Einspruch gegen den Strafbefehl und seine Rücknahme,
+
+
+4.  die Privatklage und
+
+
+5.  die Anschlusserklärung bei der Nebenklage.
+
+
+
+Ist dies aus technischen Gründen vorübergehend nicht möglich, ist die
+Übermittlung in Papierform zulässig. Die vorübergehende Unmöglichkeit
+ist bei der Ersatzeinreichung oder unverzüglich danach glaubhaft zu
+machen; auf Anforderung ist ein elektronisches Dokument nachzureichen.
 
 
 #### § 32e Übertragung von Dokumenten zu Aktenführungszwecken
@@ -1182,8 +1215,9 @@ dieses Recht auch während der Vernehmung widerrufen.
 
 
 3a. Mitglieder oder Beauftragte einer anerkannten Beratungsstelle nach den
-    §§ 3 und 8 des Schwangerschaftskonfliktgesetzes über das, was ihnen in
-    dieser Eigenschaft anvertraut worden oder bekanntgeworden ist;
+    §§ 3 und 8 Absatz 1 des Schwangerschaftskonfliktgesetzes über das, was
+    ihnen in dieser Eigenschaft anvertraut worden oder bekanntgeworden
+    ist;
 
 
 3b. Berater für Fragen der Betäubungsmittelabhängigkeit in einer
@@ -2061,12 +2095,15 @@ gilt § 81f Absatz 1 entsprechend.
 
 #### § 81f Verfahren bei der molekulargenetischen Untersuchung
 
-(1) Untersuchungen nach § 81e Abs. 1 dürfen ohne schriftliche
-Einwilligung der betroffenen Person nur durch das Gericht, bei Gefahr
-im Verzug auch durch die Staatsanwaltschaft und ihre
-Ermittlungspersonen (§ 152 des Gerichtsverfassungsgesetzes) angeordnet
-werden. Die einwilligende Person ist darüber zu belehren, für welchen
-Zweck die zu erhebenden Daten verwendet werden.
+(1) Untersuchungen nach § 81e Abs. 1 dürfen ohne Einwilligung der
+betroffenen Person nur durch das Gericht, bei Gefahr im Verzug auch
+durch die Staatsanwaltschaft und ihre Ermittlungspersonen (§ 152 des
+Gerichtsverfassungsgesetzes) angeordnet werden. Die einwilligende
+Person ist darüber zu belehren, für welchen Zweck die zu erhebenden
+Daten verwendet werden. Die Einwilligung ist schriftlich zu erklären
+oder von der Staatsanwaltschaft oder ihren Ermittlungspersonen in
+Gegenwart der einwilligenden Person zu protokollieren oder auf
+sonstige Weise zu dokumentieren.
 
 (2) Mit der Untersuchung nach § 81e sind in der schriftlichen
 Anordnung Sachverständige zu beauftragen, die öffentlich bestellt oder
@@ -2114,16 +2151,16 @@ diejenigen, die zur Ermittlung des DNA-Identifizierungsmusters sowie
 des Geschlechts erforderlich sind, nicht getroffen werden; hierauf
 gerichtete Untersuchungen sind unzulässig.
 
-(3) Die Entnahme der Körperzellen darf ohne schriftliche Einwilligung
-des Beschuldigten nur durch das Gericht, bei Gefahr im Verzug auch
-durch die Staatsanwaltschaft und ihre Ermittlungspersonen (§ 152 des
+(3) Die Entnahme der Körperzellen darf ohne Einwilligung des
+Beschuldigten nur durch das Gericht, bei Gefahr im Verzug auch durch
+die Staatsanwaltschaft und ihre Ermittlungspersonen (§ 152 des
 Gerichtsverfassungsgesetzes) angeordnet werden. Die
 molekulargenetische Untersuchung der Körperzellen darf ohne
-schriftliche Einwilligung des Beschuldigten nur durch das Gericht
-angeordnet werden. Die einwilligende Person ist darüber zu belehren,
-für welchen Zweck die zu erhebenden Daten verwendet werden. § 81f Abs.
-2 gilt entsprechend. In der schriftlichen Begründung des Gerichts sind
-einzelfallbezogen darzulegen
+Einwilligung des Beschuldigten nur durch das Gericht angeordnet
+werden. Die einwilligende Person ist darüber zu belehren, für welchen
+Zweck die zu erhebenden Daten verwendet werden. § 81f Absatz 1 Satz 3
+und Absatz 2 gilt entsprechend. In der schriftlichen Begründung des
+Gerichts sind einzelfallbezogen darzulegen
 
 1.  die für die Beurteilung der Erheblichkeit der Straftat bestimmenden
     Tatsachen,
@@ -2181,7 +2218,7 @@ die gerichtliche Entscheidung beantragen kann.
 gegen das Leben, die körperliche Unversehrtheit, die persönliche
 Freiheit oder die sexuelle Selbstbestimmung begangen worden ist,
 dürfen Personen, die bestimmte, auf den Täter vermutlich zutreffende
-Prüfungsmerkmale erfüllen, mit ihrer schriftlichen Einwilligung
+Prüfungsmerkmale erfüllen, mit ihrer Einwilligung
 
 1.  Körperzellen entnommen,
 
@@ -2200,7 +2237,11 @@ soweit dies zur Feststellung erforderlich ist, ob das Spurenmaterial
 von diesen Personen oder von ihren Verwandten in gerader Linie oder in
 der Seitenlinie bis zum dritten Grad stammt, und die Maßnahme
 insbesondere im Hinblick auf die Anzahl der von ihr betroffenen
-Personen nicht außer Verhältnis zur Schwere der Tat steht.
+Personen nicht außer Verhältnis zur Schwere der Tat steht. Die
+Einwilligung ist schriftlich zu erklären oder von der
+Staatsanwaltschaft oder ihren Ermittlungspersonen in Gegenwart der
+einwilligenden Person zu protokollieren oder auf sonstige Weise zu
+dokumentieren.
 
 (2) Eine Maßnahme nach Absatz 1 bedarf der gerichtlichen Anordnung.
 Diese ergeht schriftlich. Sie muss die betroffenen Personen anhand
@@ -2854,8 +2895,8 @@ werden, wenn sie auch während des laufenden Übertragungsvorgangs im
 
 
     i)  Straftaten gegen die persönliche Freiheit nach den §§ 232, 232a Absatz
-        1 bis 5, den §§ 232b, 233 Absatz 2, den §§ 233a, 234, 234a, 239a und
-        239b,
+        1 bis 5, den §§ 232b, 233 Absatz 2, den §§ 233a, 234 bis 234b, 239a
+        und 239b,
 
 
     j)  Bandendiebstahl nach § 244 Abs. 1 Nr. 2, Wohnungseinbruchdiebstahl
@@ -2888,7 +2929,7 @@ werden, wenn sie auch während des laufenden Übertragungsvorgangs im
 
 
     q)  Vorenthalten und Veruntreuen von Arbeitsentgelt unter den in § 266a
-        Absatz 4 Satz 2 Nummer 4 genannten Voraussetzungen,
+        Absatz 4 Satz 2 Nummer 3 oder 4 genannten Voraussetzungen,
 
 
     r)  Straftaten der Urkundenfälschung unter den in § 267 Abs. 3 Satz 2
@@ -2905,7 +2946,7 @@ werden, wenn sie auch während des laufenden Übertragungsvorgangs im
 
 
     u)  gemeingefährliche Straftaten in den Fällen der §§ 306 bis 306c, 307
-        Abs. 1 bis 3, des § 308 Abs. 1 bis 3, des § 309 Abs. 1 bis 4, des §
+        Abs. 1 bis 3, des § 308 Absatz 1 bis 4, des § 309 Abs. 1 bis 4, des §
         310 Abs. 1, der §§ 313, 314, 315 Abs. 3, des § 315b Abs. 3 sowie der
         §§ 316a und 316c,
 
@@ -2966,7 +3007,7 @@ werden, wenn sie auch während des laufenden Übertragungsvorgangs im
 
 5a. aus dem Ausgangsstoffgesetz:
 
-    Straftaten nach § 13 Absatz 3,
+    Straftaten nach § 13 Absatz 2,
 
 
 6.  aus dem Außenwirtschaftsgesetz:
@@ -3035,6 +3076,11 @@ werden, wenn sie auch während des laufenden Übertragungsvorgangs im
     Straftaten nach § 4 Absatz 3 Nummer 1 Buchstabe a,
 
 
+9b. aus dem Sprengstoffgesetz:
+
+    Straftaten nach § 40 Absatz 3a,
+
+
 10. aus dem Völkerstrafgesetzbuch:
 
     a)  Völkermord nach § 6,
@@ -3057,11 +3103,16 @@ werden, wenn sie auch während des laufenden Übertragungsvorgangs im
     a)  Straftaten nach § 51 Abs. 1 bis 3,
 
 
-    b)  Straftaten nach § 52 Abs. 1 Nr. 1 und 2 Buchstabe c und d sowie Abs. 5
-        und 6.
+    b)  Straftaten nach § 52 Abs. 1 Nr. 1 und 2 Buchstabe c und d sowie Absatz
+        5 und 6,
 
 
 
+
+
+12. aus dem Schwarzarbeitsbekämpfungsgesetz:
+
+    Straftaten nach § 9.
 
 
 
@@ -3649,8 +3700,8 @@ oder Teilnehmer
 
 
 
-so dürfen Verkehrsdaten (§§ 9 und 12 des Telekommunikation-Telemedien-
-Datenschutz-Gesetzes und § 2a Absatz 1 des Gesetzes über die
+so dürfen Verkehrsdaten (§§ 9 und 12 des Telekommunikation-Digitale-
+Dienste-Datenschutz-Gesetzes und § 2a Absatz 1 des Gesetzes über die
 Errichtung einer Bundesanstalt für den Digitalfunk der Behörden und
 Organisationen mit Sicherheitsaufgaben) erhoben werden, soweit dies
 für die Erforschung des Sachverhalts erforderlich ist und die Erhebung
@@ -3951,10 +4002,10 @@ darf Auskunft verlangt werden
 
 
 2.  über Bestandsdaten gemäß § 2 Absatz 2 Nummer 2 des Telekommunikation-
-    Telemedien-Datenschutz-Gesetzes (§ 22 Absatz 1 Satz 1 des
-    Telekommunikation-Telemedien-Datenschutz-Gesetzes) von demjenigen, der
-    geschäftsmäßig eigene oder fremde Telemedien zur Nutzung bereithält
-    oder den Zugang zur Nutzung vermittelt.
+    Digitale-Dienste-Datenschutz-Gesetzes (§ 22 Absatz 1 Satz 1 des
+    Telekommunikation-Digitale-Dienste-Datenschutz-Gesetzes) von
+    demjenigen, der geschäftsmäßig eigene oder fremde digitale Dienste zur
+    Nutzung bereithält oder den Zugang zur Nutzung vermittelt.
 
 
 
@@ -3968,8 +4019,8 @@ vorliegen. Bezieht sich das Auskunftsverlangen nach Satz 1 Nummer 2
 auf als Bestandsdaten erhobene Passwörter oder andere Daten, mittels
 derer der Zugriff auf Endgeräte oder auf Speichereinrichtungen, die in
 diesen Endgeräten oder hiervon räumlich getrennt eingesetzt werden,
-geschützt wird (§ 23 des Telekommunikation-Telemedien-Datenschutz-
-Gesetzes), darf die Auskunft nur verlangt werden, wenn die
+geschützt wird (§ 23 des Telekommunikation-Digitale-Dienste-
+Datenschutz-Gesetzes), darf die Auskunft nur verlangt werden, wenn die
 gesetzlichen Voraussetzungen für ihre Nutzung zur Verfolgung einer
 besonders schweren Straftat nach § 100b Absatz 2 Nummer 1 Buchstabe a,
 c, e, f, g, h oder m, Nummer 3 Buchstabe b erste Alternative oder
@@ -3979,9 +4030,9 @@ Nummer 5, 5a, 5b, 6, 9 oder 10 vorliegen.
 bestimmten Zeitpunkt zugewiesenen Internetprotokoll-Adresse verlangt
 werden (§ 174 Absatz 1 Satz 3, § 177 Absatz 1 Nummer 3 des
 Telekommunikationsgesetzes und § 22 Absatz 1 Satz 3 und 4 des
-Telekommunikation-Telemedien-Datenschutz- Gesetzes). Das Vorliegen der
-Voraussetzungen für ein Auskunftsverlangen nach Satz 1 ist aktenkundig
-zu machen.
+Telekommunikation-Digitale-Dienste-Datenschutz-Gesetzes). Das
+Vorliegen der Voraussetzungen für ein Auskunftsverlangen nach Satz 1
+ist aktenkundig zu machen.
 
 (3) Auskunftsverlangen nach Absatz 1 Satz 2 und 3 dürfen nur auf
 Antrag der Staatsanwaltschaft durch das Gericht angeordnet werden. Im
@@ -4012,17 +4063,17 @@ Auskunftserteilung erforderlichen Daten unverzüglich zu übermitteln. §
 95 Absatz 2 gilt entsprechend.
 
 
-#### § 100k Erhebung von Nutzungsdaten bei Telemediendiensten
+#### § 100k Erhebung von Nutzungsdaten bei digitalen Diensten
 
 (1) Begründen bestimmte Tatsachen den Verdacht, dass jemand als Täter
 oder Teilnehmer eine Straftat von auch im Einzelfall erheblicher
 Bedeutung, insbesondere eine in § 100a Absatz 2 bezeichnete Straftat,
 begangen hat, in Fällen, in denen der Versuch strafbar ist, zu begehen
 versucht hat oder durch eine Straftat vorbereitet hat, dürfen von
-demjenigen, der geschäftsmäßig eigene oder fremde Telemedien zur
+demjenigen, der geschäftsmäßig eigene oder fremde digitale Dienste zur
 Nutzung bereithält oder den Zugang zur Nutzung vermittelt,
-Nutzungsdaten (§ 2 Absatz 2 Nummer 3 des Telekommunikation-
-Telemedien-Datenschutz-Gesetzes) erhoben werden, soweit dies für die
+Nutzungsdaten (§ 2 Absatz 2 Nummer 3 des Telekommunikation-Digitale-
+Dienste-Datenschutz-Gesetzes) erhoben werden, soweit dies für die
 Erforschung des Sachverhalts erforderlich ist und die Erhebung der
 Daten in einem angemessenen Verhältnis zur Bedeutung der Sache steht.
 Die Erhebung gespeicherter (retrograder) Standortdaten ist nur unter
@@ -4098,20 +4149,23 @@ Satz 1 gilt nicht für die Erhebung von Standortdaten.
 
 (3) Abweichend von Absatz 1 und 2 darf die Staatsanwaltschaft
 ausschließlich zur Identifikation des Nutzers Auskunft über die nach §
-2 Absatz 2 Nummer 3 Buchstabe a des Telekommunikation-Telemedien-
-Datenschutz-Gesetzes erhobenen Daten verlangen, wenn ihr der Inhalt
-der Nutzung des Telemediendienstes bereits bekannt ist.
+2 Absatz 2 Nummer 3 Buchstabe a des Telekommunikation-Digitale-
+Dienste-Datenschutz-Gesetzes erhobenen Daten verlangen, wenn ihr der
+Inhalt der Nutzung des digitalen Dienstes nach § 1 Absatz 4 Nummer 1
+des Digitale-Dienste-Gesetzes bereits bekannt ist.
 
 (4) Die Erhebung von Nutzungsdaten nach Absatz 1 und 2 ist nur
 zulässig, wenn aufgrund von Tatsachen die Annahme gerechtfertigt ist,
-dass die betroffene Person den Telemediendienst nutzt, den derjenige,
-gegen den sich die Anordnung richtet, geschäftsmäßig zur Nutzung
-bereithält oder zu dem er den Zugang zur Nutzung vermittelt.
+dass die betroffene Person den digitalen Dienst nach § 1 Absatz 4
+Nummer 1 des Digitale-Dienste-Gesetzes nutzt, den derjenige, gegen den
+sich die Anordnung richtet, geschäftsmäßig zur Nutzung bereithält oder
+zu dem er den Zugang zur Nutzung vermittelt.
 
 (5) Erfolgt die Erhebung von Nutzungsdaten oder Inhalten der Nutzung
-eines Telemediendienstes nicht bei einem Diensteanbieter, der
-geschäftsmäßig Telemedien zur Nutzung bereithält, bestimmt sie sich
-nach Abschluss des Kommunikationsvorgangs nach den allgemeinen
+eines digitalen Dienstes nach § 1 Absatz 4 Nummer 1 des Digitale-
+Dienste-Gesetzes nicht bei einem Diensteanbieter, der geschäftsmäßig
+digitale Dienste zur Nutzung bereithält, bestimmt sie sich nach
+Abschluss des Kommunikationsvorgangs nach den allgemeinen
 Vorschriften.
 
 
@@ -4283,14 +4337,16 @@ zeitlich eng begrenzte und hinreichend bestimmte Bezeichnung der
 Telekommunikation.
 
 (1a) Bei der Erhebung und Beauskunftung von Nutzungsdaten eines
-Telemediendienstes nach § 100k gilt § 100a Absatz 3 und 4, bei der
-Erhebung von Nutzungsdaten nach § 100k Absatz 1 und 2 zudem § 100e
-Absatz 1 und 3 bis 5 entsprechend mit der Maßgabe, dass in der
-Entscheidungsformel nach § 100e Absatz 3 Satz 2 an die Stelle der
-Rufnummer (§ 100e Absatz 3 Satz 2 Nummer 5), soweit möglich eine
-eindeutige Kennung des Nutzerkontos des Betroffenen, ansonsten eine
-möglichst genaue Bezeichnung des Telemediendienstes tritt, auf den
-sich das Auskunftsverlangen bezieht.
+digitalen Dienstes nach § 1 Absatz 4 Nummer 1 des Digitale-Dienste-
+Gesetzes nach § 100k gilt § 100a Absatz 3 und 4, bei der Erhebung von
+Nutzungsdaten nach § 100k Absatz 1 und 2 zudem § 100e Absatz 1 und 3
+bis 5 entsprechend mit der Maßgabe, dass in der Entscheidungsformel
+nach § 100e Absatz 3 Satz 2 an die Stelle der Rufnummer (§ 100e Absatz
+3 Satz 2 Nummer 5), soweit möglich eine eindeutige Kennung des
+Nutzerkontos des Betroffenen, ansonsten eine möglichst genaue
+Bezeichnung des digitalen Dienstes nach § 1 Absatz 4 Nummer 1 des
+Digitale-Dienste-Gesetzes tritt, auf den sich das Auskunftsverlangen
+bezieht.
 
 (2) Wird eine Maßnahme nach § 100g oder § 100k Absatz 1 oder Absatz 2
 angeordnet oder verlängert, sind in der Begründung einzelfallbezogen
@@ -4348,10 +4404,11 @@ Satz 2, angeordnet werden könnte, oder zur Ermittlung des Aufenthalts
 der einer solchen Straftat beschuldigten Person verwendet werden.
 
 (6) Die Beteiligten der betroffenen Telekommunikation und die
-betroffenen Nutzer des Telemediendienstes sind von der Erhebung der
-Verkehrsdaten nach § 100g oder der Nutzungsdaten nach § 100k Absatz 1
-und 2 zu benachrichtigen. § 101 Absatz 4 Satz 2 bis 5 und Absatz 5 bis
-7 gilt entsprechend mit der Maßgabe, dass
+betroffenen Nutzer des digitalen Dienstes nach § 1 Absatz 4 Nummer 1
+des Digitale-Dienste-Gesetzes sind von der Erhebung der Verkehrsdaten
+nach § 100g oder der Nutzungsdaten nach § 100k Absatz 1 und 2 zu
+benachrichtigen. § 101 Absatz 4 Satz 2 bis 5 und Absatz 5 bis 7 gilt
+entsprechend mit der Maßgabe, dass
 
 1.  das Unterbleiben der Benachrichtigung nach § 101 Absatz 4 Satz 3 der
     Anordnung des zuständigen Gerichts bedarf;
@@ -5328,7 +5385,7 @@ Nummer 1 oder § 13 Absatz 1 des Völkerstrafgesetzbuches oder § 129a
 Abs. 1 oder Abs. 2, auch in Verbindung mit § 129b Abs. 1, oder nach
 den §§ 176c, 176d, 211, 212, 226, 306b oder 306c des Strafgesetzbuches
 oder, soweit durch die Tat Leib oder Leben eines anderen gefährdet
-worden ist, nach § 308 Abs. 1 bis 3 des Strafgesetzbuches dringend
+worden ist, nach § 308 Absatz 1 bis 4 des Strafgesetzbuches dringend
 verdächtig ist, darf die Untersuchungshaft auch angeordnet werden,
 wenn ein Haftgrund nach Absatz 2 nicht besteht.
 
@@ -5449,8 +5506,10 @@ Ist eine schriftliche Belehrung erkennbar nicht ausreichend, hat zudem
 eine mündliche Belehrung zu erfolgen. Entsprechend ist zu verfahren,
 wenn eine schriftliche Belehrung nicht möglich ist; sie soll jedoch
 nachgeholt werden, sofern dies in zumutbarer Weise möglich ist. Der
-Beschuldigte soll schriftlich bestätigen, dass er belehrt wurde; falls
-er sich weigert, ist dies zu dokumentieren.
+Erhalt der Belehrung ist durch den Beschuldigten schriftlich zu
+bestätigen oder von der Staatsanwaltschaft oder ihren
+Ermittlungspersonen in Gegenwart des Beschuldigten zu protokollieren
+oder auf sonstige Weise zu dokumentieren.
 
 (2) In der Belehrung nach Absatz 1 ist der Beschuldigte darauf
 hinzuweisen, dass er
@@ -7759,17 +7818,18 @@ Eröffnung des Hauptverfahrens beschlossen ist.
 
 (1) Die Anzeige einer Straftat und der Strafantrag können bei der
 Staatsanwaltschaft, den Behörden und Beamten des Polizeidienstes und
-den Amtsgerichten mündlich oder schriftlich angebracht werden. Die
-mündliche Anzeige ist zu beurkunden. Dem Verletzten ist auf Antrag der
-Eingang seiner Anzeige schriftlich zu bestätigen. Die Bestätigung soll
-eine kurze Zusammenfassung der Angaben des Verletzten zu Tatzeit,
-Tatort und angezeigter Tat enthalten. Die Bestätigung kann versagt
-werden, soweit der Untersuchungszweck, auch in einem anderen
-Strafverfahren, gefährdet erscheint.
+den Amtsgerichten angebracht werden. Die Anzeige und der Strafantrag
+sind durch die aufnehmende Stelle zu protokollieren oder auf sonstige
+Weise zu dokumentieren. Dem Verletzten ist auf Antrag der Eingang
+seiner Anzeige schriftlich zu bestätigen. Die Bestätigung soll eine
+kurze Zusammenfassung der Angaben des Verletzten zu Tatzeit, Tatort
+und angezeigter Tat enthalten. Die Bestätigung kann versagt werden,
+soweit der Untersuchungszweck, auch in einem anderen Strafverfahren,
+gefährdet erscheint.
 
-(2) Bei Straftaten, deren Verfolgung nur auf Antrag eintritt, muß der
-Antrag bei einem Gericht oder der Staatsanwaltschaft schriftlich oder
-zu Protokoll, bei einer anderen Behörde schriftlich angebracht werden.
+(2) Bei Straftaten, deren Verfolgung nur auf Antrag eintritt, müssen
+die Identität und der Verfolgungswille der antragstellenden Person
+sichergestellt sein.
 
 (3) Zeigt ein im Inland wohnhafter Verletzter eine in einem anderen
 Mitgliedstaat der Europäischen Union begangene Straftat an, so
@@ -10673,7 +10733,7 @@ Beschlüsse und Verfügungen, durch die sie betroffen werden, Beschwerde
 erheben.
 
 (3) Gegen Entscheidungen über Kosten oder notwendige Auslagen ist die
-Beschwerde nur zulässig, wenn der Wert des Beschwerdegegenstands 200
+Beschwerde nur zulässig, wenn der Wert des Beschwerdegegenstands 300
 Euro übersteigt.
 
 (4) Gegen Beschlüsse und Verfügungen des Bundesgerichtshofes ist keine
@@ -11452,8 +11512,10 @@ entscheidet es über das Rechtsmittel durch Urteil.
 (1) Dem Angeklagten, seinem gesetzlichen Vertreter und dem Verteidiger
 sowie dem Nebenkläger und den Personen, die nach § 214 Absatz 1 Satz 2
 vom Termin zu benachrichtigen sind, sind Ort und Zeit der
-Hauptverhandlung mitzuteilen. Ist die Mitwirkung eines Verteidigers
-notwendig, so ist dieser zu laden.
+Hauptverhandlung mitzuteilen. Das Revisionsgericht weist dabei auf die
+wesentlichen Gesichtspunkte hin, die Gegenstand der Hauptverhandlung
+werden sollen. Ist die Mitwirkung eines Verteidigers notwendig, so ist
+dieser zu laden.
 
 (2) Der Angeklagte kann in der Hauptverhandlung erscheinen oder sich
 durch einen Verteidiger mit nachgewiesener Vertretungsvollmacht
@@ -11464,7 +11526,28 @@ Entscheidung darüber, ob der Angeklagte, der nicht auf freiem Fuß ist,
 zu der Hauptverhandlung vorgeführt wird, liegt im Ermessen des
 Gerichts.
 
-(3) (weggefallen)
+(3) Dem Angeklagten, seinem gesetzlichen Vertreter, dem Verteidiger
+und dem Vertreter der Staatsanwaltschaft sowie dem Nebenkläger, dem
+Nebenklageberechtigten und den Personen, die nach § 397 Absatz 2 Satz
+3, § 404 Absatz 3, § 406h Absatz 2 Satz 2, § 429 Absatz 1 und § 444
+Absatz 2 Satz 1 vom Termin zu benachrichtigen sind, kann der
+Vorsitzende auf ihren jeweiligen Antrag die Anwesenheit an einem
+anderen Ort gestatten, wenn die Hauptverhandlung zeitgleich in Bild
+und Ton an den anderen Ort und in das Sitzungszimmer übertragen wird.
+Die Gestattung soll mit der Maßgabe erfolgen, dass sich die
+Verfahrensbeteiligten in einem Dienstraum oder in einem Geschäftsraum
+eines Verteidigers oder Rechtsanwalts aufhalten. Sieht das Gericht in
+den Fällen des Absatzes 2 Satz 3 von einer Vorführung des Angeklagten
+ab, so ist diesem auf seinen Antrag die Teilnahme an der
+Hauptverhandlung im Wege der Bild- und Tonübertragung zu gestatten.
+Liegen zwischen dem Eingang des Antrags nach Satz 3 bei Gericht und
+dem Hauptverhandlungstermin nicht mindestens drei Werktage, kann der
+Antrag vom Vorsitzenden abgelehnt werden. Die Entscheidung des
+Vorsitzenden nach den Sätzen 1 bis 4 ist unanfechtbar.
+
+(4) Eine Aufzeichnung der Übertragung ist nicht zulässig. Hierauf sind
+die Verfahrensbeteiligten spätestens zu Beginn der Bild- und
+Tonübertragung hinzuweisen.
 
 
 #### § 351 Gang der Revisionshauptverhandlung
@@ -11990,11 +12073,11 @@ ohne daß es einer vorgängigen Anrufung der Staatsanwaltschaft bedarf,
 
 8.  eine Straftat nach § 142 Abs. 1 des Patentgesetzes, § 25 Abs. 1 des
     Gebrauchsmustergesetzes, § 10 Abs. 1 des Halbleiterschutzgesetzes, §
-    39 Abs. 1 des Sortenschutzgesetzes, § 143 Abs. 1, § 143a Abs. 1 und §
-    144 Abs. 1 und 2 des Markengesetzes, § 51 Abs. 1 und § 65 Abs. 1 des
-    Designgesetzes, den §§ 106 bis 108 sowie § 108b Abs. 1 und 2 des
-    Urheberrechtsgesetzes und § 33 des Gesetzes betreffend das
-    Urheberrecht an Werken der bildenden Künste und der Photographie.
+    39 Abs. 1 des Sortenschutzgesetzes, § 143 Abs. 1 und § 144 Absatz 1
+    des Markengesetzes, § 51 Abs. 1 und § 65 Abs. 1 des Designgesetzes,
+    den §§ 106 bis 108 sowie § 108b Abs. 1 und 2 des Urheberrechtsgesetzes
+    und § 33 des Gesetzes betreffend das Urheberrecht an Werken der
+    bildenden Künste und der Photographie.
 
 
 
@@ -12356,6 +12439,12 @@ verletzt ist durch eine rechtswidrige Tat nach
 2.  den §§ 211 und 212 des Strafgesetzbuches, die versucht wurde,
 
 
+2a. den §§ 6 bis 8, 11 und 12 des Völkerstrafgesetzbuches gegen das Leben,
+    die versucht wurde, sofern auch hier ein unmittelbarer Zusammenhang
+    zwischen der verfahrensgegenständlichen Tat und der
+    Rechtsgutverletzung besteht,
+
+
 3.  den §§ 221, 223 bis 226a und 340 des Strafgesetzbuches,
 
 
@@ -12363,12 +12452,20 @@ verletzt ist durch eine rechtswidrige Tat nach
     Strafgesetzbuches,
 
 
+4a. den §§ 6 bis 8 und 10 bis 12 des Völkerstrafgesetzbuches in seinen
+    Rechten auf körperliche Unversehrtheit, Freiheit oder auf religiöse,
+    sexuelle oder reproduktive Selbstbestimmung oder als Kind in seinem
+    Recht auf ungestörte körperliche und seelische Entwicklung, sofern
+    auch hier ein unmittelbarer Zusammenhang zwischen der
+    verfahrensgegenständlichen Tat und der Rechtsgutverletzung besteht,
+
+
 5.  § 4 des Gewaltschutzgesetzes,
 
 
 6.  § 142 des Patentgesetzes, § 25 des Gebrauchsmustergesetzes, § 10 des
     Halbleiterschutzgesetzes, § 39 des Sortenschutzgesetzes, den §§ 143
-    bis 144 des Markengesetzes, den §§ 51 und 65 des Designgesetzes, den
+    und 144 des Markengesetzes, den §§ 51 und 65 des Designgesetzes, den
     §§ 106 bis 108b des Urheberrechtsgesetzes, § 33 des Gesetzes
     betreffend das Urheberrecht an Werken der bildenden Künste und der
     Photographie, § 16 des Gesetzes gegen den unlauteren Wettbewerb und §
@@ -12473,8 +12570,12 @@ Beistand zu bestellen, wenn er
 
 
 2.  durch eine versuchte rechtswidrige Tat nach den §§ 211 und 212 des
-    Strafgesetzbuches verletzt oder Angehöriger eines durch eine
-    rechtswidrige Tat Getöteten im Sinne des § 395 Absatz 2 Nummer 1 ist,
+    Strafgesetzbuches oder, sofern auch hier ein unmittelbarer
+    Zusammenhang zwischen der verfahrensgegenständlichen Tat und der
+    Rechtsgutverletzung besteht, nach den §§ 6 bis 8, 11 sowie 12 des
+    Völkerstrafgesetzbuches, die sich gegen das Leben richtet, verletzt
+    ist oder wenn er Angehöriger eines durch eine rechtswidrige Tat
+    Getöteten (§ 395 Absatz 2 Nummer 1) ist,
 
 
 3.  durch ein Verbrechen nach den §§ 226, 226a, 234 bis 235, 238 bis 239b,
@@ -12486,14 +12587,18 @@ Beistand zu bestellen, wenn er
 4.  durch eine rechtswidrige Tat nach den §§ 174 bis 182, 184i bis 184k
     und 225 des Strafgesetzbuchs verletzt ist und er zur Zeit der Tat das
     18\. Lebensjahr noch nicht vollendet hatte oder seine Interessen selbst
-    nicht ausreichend wahrnehmen kann oder
+    nicht ausreichend wahrnehmen kann,
 
 
 5.  durch eine rechtswidrige Tat nach den §§ 221, 226, 226a, 232 bis 235,
     237, 238 Absatz 2 und 3, §§ 239a, 239b, 240 Absatz 4, §§ 249, 250,
     252, 255 und 316a des Strafgesetzbuches verletzt ist und er bei
     Antragstellung das 18. Lebensjahr noch nicht vollendet hat oder seine
-    Interessen selbst nicht ausreichend wahrnehmen kann.
+    Interessen selbst nicht ausreichend wahrnehmen kann oder
+
+
+6.  durch ein Verbrechen nach dem Völkerstrafgesetzbuch verletzt ist, das
+    ihn nach § 395 Absatz 1 Nummer 4a zur Nebenklage berechtigt.
 
 
 
@@ -12519,8 +12624,20 @@ des mit der Sache befassten Gerichts.
 (1) Verfolgen mehrere Nebenkläger gleichgelagerte Interessen, so kann
 ihnen das Gericht einen gemeinschaftlichen Rechtsanwalt als Beistand
 bestellen oder beiordnen. Gleichgelagerte Interessen liegen in der
-Regel bei mehreren Angehörigen eines durch eine rechtswidrige Tat
-Getöteten im Sinne des § 395 Absatz 2 Nummer 1 vor.
+Regel vor, wenn es sich
+
+1.  bei den Nebenklägern um mehrere Angehörige desselben durch eine
+    rechtswidrige Tat Getöteten (§ 395 Absatz 2 Nummer 1) handelt oder
+
+
+2.  um mehrere Nebenkläger handelt, die Verletzte solcher Taten im Sinne
+    des § 395 Absatz 1 Nummer 2a und 4a sind, denen der gleiche
+    Lebenssachverhalt zugrunde liegt, wobei es dem Gericht unbenommen
+    bleibt, zusätzliche sachnahe Kriterien im Einzelfall zu
+    berücksichtigen.
+
+
+
 
 (2) Vor der Bestellung oder Beiordnung eines gemeinschaftlichen
 Rechtsanwalts soll den betroffenen Nebenklägern Gelegenheit gegeben
@@ -12534,6 +12651,15 @@ beigeordnet worden ist, so stellt das Gericht fest, ob die
 Voraussetzungen nach § 397a Absatz 3 Satz 2 in Bezug auf den nicht als
 Beistand bestellten oder nicht beigeordneten Rechtsanwalt vorgelegen
 hätten.
+
+(4) Die in § 397 Absatz 1 Satz 3 und 4 genannten Verfahrensrechte der
+Nebenkläger werden in den Fällen des Absatzes 1 Satz 2 Nummer 2 nur
+durch den bestellten oder beigeordneten Beistand ausgeübt, sofern es
+sich um Nebenkläger handelt, deren Befugnis zum Anschluss an die
+öffentliche Klage nur aufgrund des § 395 Absatz 1 Nummer 2a oder 4a
+begründet ist. Das Gericht kann dem Nebenkläger gestatten, sein Recht
+auf Abgabe von Erklärungen nach § 258 Absatz 1 in Verbindung mit § 397
+Absatz 1 Satz 3 selbst auszuüben.
 
 
 #### § 398 Fortgang des Verfahrens bei Anschluss
@@ -12911,7 +13037,7 @@ psychosozialen Prozessbegleiters richten sich nach dem Gesetz über die
 psychosoziale Prozessbegleitung im Strafverfahren vom 21. Dezember
 2015 (BGBl. I S. 2525, 2529) in der jeweils geltenden Fassung.
 
-(3) Unter den in § 397a Absatz 1 Nummer 4 und 5 bezeichneten
+(3) Unter den in § 397a Absatz 1 Nummer 4 bis 6 bezeichneten
 Voraussetzungen ist dem Verletzten auf seinen Antrag ein
 psychosozialer Prozessbegleiter beizuordnen. Unter den in § 397a
 Absatz 1 Nummer 1 bis 3 bezeichneten Voraussetzungen kann dem
@@ -12953,7 +13079,7 @@ Fragen an die vernommene Person zu stellen. Ungeeignete oder nicht zur
 Sache gehörende Fragen oder Erklärungen können zurückgewiesen werden.
 § 241a gilt entsprechend.
 
-(3) § 397a gilt entsprechend für
+(3) Die §§ 397a und 397b gelten entsprechend für
 
 1.  die Bestellung eines Rechtsanwalts und
 
@@ -13552,11 +13678,13 @@ Strafverfahren beteiligt, soweit dieses die Einziehung betrifft
 (Einziehungsbeteiligter).
 
 (2) Die Anordnung der Verfahrensbeteiligung unterbleibt, wenn
-derjenige, der von ihr betroffen wäre, bei Gericht oder bei der
-Staatsanwaltschaft schriftlich oder zu Protokoll oder bei einer
-anderen Behörde schriftlich erklärt, dass er gegen die Einziehung des
-Gegenstandes keine Einwendungen vorbringen wolle. War die Anordnung
-zum Zeitpunkt der Erklärung bereits ergangen, wird sie aufgehoben.
+derjenige, der von ihr betroffen wäre, erklärt, dass er gegen die
+Einziehung des Gegenstandes keine Einwendungen vorbringen wolle. Die
+Erklärung ist schriftlich abzugeben oder von dem Gericht, der
+Staatsanwaltschaft oder ihren Ermittlungspersonen in Gegenwart des
+Betroffenen zu protokollieren oder auf sonstige Weise zu
+dokumentieren. War die Anordnung zum Zeitpunkt der Erklärung bereits
+ergangen, wird sie aufgehoben.
 
 (3) Die Verfahrensbeteiligung kann bis zum Ausspruch der Einziehung
 und, wenn eine zulässige Berufung eingelegt ist, bis zur Beendigung
@@ -13911,7 +14039,7 @@ Vernichtung, Unbrauchbarmachung und Beseitigung eines gesetzwidrigen
 Zustandes stehen im Sinne der §§ 421 bis 436 der Einziehung gleich.
 
 
-#### (XXXX)§§ 440 bis 442 (weggefallen)
+#### (XXXX) §§ 440 bis 442 (weggefallen)
 
 
 
@@ -14061,8 +14189,7 @@ auch in einem anderen Verfahren auf die Strafe nicht angerechnet.
 (1) Die Strafvollstreckung erfolgt durch die Staatsanwaltschaft als
 Vollstreckungsbehörde auf Grund einer von dem Urkundsbeamten der
 Geschäftsstelle zu erteilenden, mit der Bescheinigung der
-Vollstreckbarkeit versehenen, beglaubigten Abschrift der
-Urteilsformel.
+Vollstreckbarkeit versehenen Abschrift der Urteilsformel.
 
 (2) Den Amtsanwälten steht die Strafvollstreckung nur insoweit zu, als
 die Landesjustizverwaltung sie ihnen übertragen hat.
@@ -16272,7 +16399,8 @@ Bundeskriminalamtgesetzes erforderlich ist. § 5 Abs. 5 Satz 1 Nr. 2
 des Waffengesetzes, § 8a Absatz 5 Satz 1 Nummer 2 des
 Sprengstoffgesetzes, § 7 Absatz 3 Satz 1 Nummer 3 des
 Luftsicherheitsgesetzes, § 12 Absatz 1 Nummer 2 des
-Sicherheitsüberprüfungsgesetzes und § 31 Absatz 4a Satz 1 des
+Sicherheitsüberprüfungsgesetzes oder eine entsprechende
+landesrechtliche Vorschrift und § 31 Absatz 4a Satz 1 des
 Geldwäschegesetzes bleiben unberührt; die Auskunft über die Eintragung
 wird insoweit im Einvernehmen mit der Staatsanwaltschaft, die die
 personenbezogenen Daten zur Eintragung in das Verfahrensregister

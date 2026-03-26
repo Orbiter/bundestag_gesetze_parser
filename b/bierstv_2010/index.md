@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2009, 3262, 3319
 
 Zuletzt geändert durch
-:   Art. 14 G v. 24.10.2022 I 1838; 2023 I Nr. 109
+:   Art. 48 G v. 2.12.2024 I Nr. 387
 
 
 ## Abschnitt 1 - Allgemeines
@@ -2168,9 +2168,7 @@ Ausnahmefällen Bier im Rahmen seiner Erlaubnis zur steuerfreien
 Verwendung an Steuerlager oder an andere Verwender abzugeben. Der
 Verwender hat dem Bier bei der Abgabe Handelspapiere beizugeben, die
 mit der Aufschrift
-
 „Unversteuertes Bier“
-
 versehen sind.
 
 (2) Die Steueranmeldung nach § 23a Absatz 3 Satz 5 des Gesetzes ist
@@ -2199,18 +2197,12 @@ berechtigtes Bedürfnis besteht.
 
 (1) Bier, das von Haus- und Hobbybrauern in ihren Haushalten
 ausschließlich zum eigenen Verbrauch hergestellt und nicht verkauft
-wird, ist von der Steuer bis zu einer Menge von 2 hl je Kalenderjahr
+wird, ist von der Steuer bis zu einer Menge von 5 hl je Kalenderjahr
 befreit. Bier, das von Hausbrauern in nicht gewerblichen
 Gemeindebrauhäusern hergestellt wird, gilt als in den Haushalten der
 Hausbrauer hergestellt.
 
-(2) Haus- und Hobbybrauer haben den Beginn der Herstellung und den
-Herstellungsort dem Hauptzollamt vorab anzuzeigen. In der Anzeige ist
-die Biermenge anzugeben, die voraussichtlich innerhalb eines
-Kalenderjahres erzeugt wird. Das Hauptzollamt kann Erleichterungen
-zulassen.
-
-(3) Wird die Menge nach Absatz 1 überschritten, ist eine
+(2) Wird die Menge nach Absatz 1 überschritten, ist eine
 Steueranmeldung nach amtlich vorgeschriebenem Vordruck abzugeben. § 15
 Absatz 2 in Verbindung mit § 14 Absatz 5 Satz 1 Nummer 2 des Gesetzes
 gilt entsprechend.
@@ -2345,8 +2337,8 @@ Abgabenordnung handelt, wer vorsätzlich oder leichtfertig
         Satz 2, entgegen § 30 Absatz 2 oder 3, jeweils auch in Verbindung mit
         § 38, entgegen § 31a Absatz 3, § 35 Absatz 4 Satz 1, auch in
         Verbindung mit Absatz 5 Satz 3, entgegen § 35a Absatz 4 Satz 1, auch
-        in Verbindung mit Absatz 5 Satz 3, entgegen § 39a Absatz 2 Satz 2 oder
-        § 41 Absatz 2 Satz 1 oder
+        in Verbindung mit Absatz 5 Satz 3, oder entgegen § 39a Absatz 2 Satz 2
+        oder
 
 
     c)  § 25 Absatz 4 Satz 1, auch in Verbindung mit § 27 Absatz 4, jeweils

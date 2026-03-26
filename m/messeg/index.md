@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2013, 2722, 2723
 
 Zuletzt geändert durch
-:   Art. 1 G v. 27.1.2024 I Nr. 26
+:   Art. 38 G v. 23.10.2024 I Nr. 323
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
@@ -1451,59 +1451,7 @@ Rahmen der vorgesehenen Verwendungsbedingungen eingesetzt werden.
 
 
 
-#### § 32 Anzeigepflicht
-
-(1) Wer neue oder erneuerte Messgeräte verwendet oder im Auftrag des
-Verwenders Messwerte von solchen Messgeräten erfasst, hat die
-betroffenen Messgeräte der nach Landesrecht zuständigen Behörde
-spätestens sechs Wochen nach Inbetriebnahme anzuzeigen. Anzugeben sind
-
-1.  die Geräteart,
-
-
-2.  der Hersteller,
-
-
-3.  die Typbezeichnung,
-
-
-4.  das Jahr der Kennzeichnung des Messgeräts sowie
-
-
-5.  die Anschrift desjenigen, der das Messgerät verwendet.
-
-
-
-Satz 1 ist nicht auf Maßverkörperungen oder Zusatzeinrichtungen und
-nicht auf einen Verwender von neuen oder erneuerten Messgeräten
-anzuwenden, der nachweisen kann, dass er einen Dritten mit der
-Erfassung der Messwerte beauftragt hat.
-
-(2) Werden mehr als ein Messgerät einer Messgeräteart verwendet oder
-von mehr als einem Messgerät einer Messgeräteart im Auftrag des
-Verwenders Messwerte erfasst, hat der Verpflichtete zur Erfüllung des
-Absatzes 1
-
-1.  die zuständige Behörde spätestens sechs Wochen nach Inbetriebnahme des
-    zweiten Messgeräts einer Messgeräteart darüber zu informieren oder
-    informieren zu lassen, welche Messgerätearten er verwendet oder von
-    welchen Messgerätearten er Messwerte erfasst; dabei ist die Anschrift
-    des Verpflichteten anzugeben und
-
-
-2.  sicherzustellen, dass Übersichten der verwendeten Messgeräte oder der
-    Messgeräte, von denen Messwerte erfasst werden, mit den in Absatz 1
-    Satz 2 genannten Angaben der zuständigen Behörde auf Anforderung
-    unverzüglich zur Verfügung gestellt werden.
-
-
-
-
-(3) Die nach Landesrecht zuständigen Behörden stellen sicher, dass
-eine zentrale, benutzerfreundliche Möglichkeit zur Erfüllung der
-Anzeigepflicht auf elektronischem Weg oder per Telefax sowie eine
-einheitliche Postadresse zur Verfügung stehen. Die Behörden bestätigen
-den Eingang der Anzeigen nach den Absätzen 1 und 2.
+#### § 32 (weggefallen)
 
 
 #### § 33 Anforderungen an das Verwenden von Messwerten
@@ -2912,8 +2860,7 @@ nicht am festgesetzten Termin stattfinden konnte.
     die dort genannten Nachweise aufbewahrt werden,
 
 
-18. entgegen § 32 Absatz 1 Satz 1 eine Anzeige nicht, nicht richtig, nicht
-    vollständig oder nicht rechtzeitig erstattet,
+18. (weggefallen)
 
 
 19. entgegen § 33 Absatz 1 Satz 1 einen dort genannten Wert angibt oder
@@ -2977,10 +2924,9 @@ nicht am festgesetzten Termin stattfinden konnte.
 
 
 (2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer 1,
-14, 15, 19, 21 und 22 mit einer Geldbuße bis zu fünfzigtausend Euro,
-in den Fällen des Absatzes 1 Nummer 18 mit einer Geldbuße bis zu
-zehntausend Euro und in den übrigen Fällen mit einer Geldbuße bis zu
-zwanzigtausend Euro geahndet werden.
+14, 15, 19, 21 und 22 mit einer Geldbuße bis zu fünfzigtausend Euro
+und in den übrigen Fällen mit einer Geldbuße bis zu zwanzigtausend
+Euro geahndet werden.
 
 (3) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des
 Gesetzes über Ordnungswidrigkeiten ist in den Fällen des Absatzes 1

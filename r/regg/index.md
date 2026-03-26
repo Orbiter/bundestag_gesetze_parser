@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1993, 2378 ,2395
 
 Zuletzt geändert durch
-:   Art. 1 G v. 20.4.2023 I Nr. 107
+:   Art. 1 G v. 25.11.2025 I Nr. 287
 
 
 ## § 1 Öffentliche Aufgabe, Zuständigkeit
@@ -662,32 +662,28 @@ verfügbaren Mittel zugerechnet werden.
 
 (1) Die Länder führen ab dem 1. Mai 2023 ein Ticket ein, das zur
 bundesweiten Nutzung des öffentlichen Personennahverkehrs berechtigt
-(Deutschlandticket). Es soll in digitaler Form erhältlich sein und für
-ein Entgelt zum Zeitpunkt der Einführung von 49 Euro je Monat in einem
-monatlich kündbaren Abonnement angeboten werden. Die für die Umsetzung
-der in Satz 1 genannten Maßnahme erforderliche Zustimmung nach § 39
-Absatz 1 Satz 1 und Absatz 6 Satz 1 und 2 des
-Personenbeförderungsgesetzes sowie die Genehmigung nach § 12 Absatz 3
-Satz 1 des Allgemeinen Eisenbahngesetzes gelten für den Zeitraum bis
-31\. Dezember 2023 als erteilt. Der Tarif ist bis zum Erlass
-entsprechender Regelungen durch die Aufgabenträger, längstens jedoch
-bis zum 30. September 2023 vorläufig anzuwenden. Der maßgebliche
+(Deutschlandticket). Es soll in digitaler Form erhältlich sein und in
+einem monatlich kündbaren Abonnement angeboten werden. Der maßgebliche
 Ausgleich finanzieller Nachteile entsprechend den Regelungen der
 Verordnung (EG) Nr. 1370/2007 wird von den Ländern bzw. den
 zuständigen Behörden abgewickelt.
 
-(2) Den Ländern steht für die Kalenderjahre 2023 bis 2025 für den
+(2) Den Ländern steht für die Kalenderjahre 2023 bis 2030 für den
 Ausgleich der durch die Einführung und Umsetzung der in Absatz 1 Satz
 1 genannten Maßnahme entstandenen finanziellen Nachteile ein Betrag
 von 1 500 000 000,00 Euro für jedes Kalenderjahr aus dem
 Steueraufkommen des Bundes zu. Mit den jährlichen Beträgen beteiligt
-sich der Bund zur Hälfte an der Finanzierung der durch das
-Deutschlandticket entstandenen finanziellen Nachteile. Für das Jahr
-2023 werden die tatsächlich entstandenen finanziellen Nachteile nach
-den Regelungen der Absätze 7 und 8 ausgeglichen.
+sich der Bund an der Finanzierung der durch das Deutschlandticket
+entstandenen finanziellen Nachteile. Die Länder beteiligen sich
+mindestens in gleicher Höhe. Für den Zeitraum vom 1. Mai 2023 bis 31.
+Dezember 2025 werden die tatsächlich entstandenen finanziellen
+Nachteile nach den Regelungen des Absatzes 7 ausgeglichen. Für den
+Zeitraum vom 1. Januar 2026 bis 31. Dezember 2030 werden die
+tatsächlich entstandenen finanziellen Nachteile nach den Regelungen
+des Absatzes 7a ausgeglichen.
 
-(3) Der jährliche Betrag nach Absatz 2 Satz 1 wird wie folgt auf die
-Länder verteilt:
+(3) Der jährliche Betrag nach Absatz 2 Satz 1 wird in den Jahren 2023
+bis 2025 wie folgt auf die Länder verteilt:
 
 *    *   Baden-Württemberg
 
@@ -771,54 +767,132 @@ Länder verteilt:
 
 
 
-(4) Der Betrag für das Jahr 2023 ist zum 15. Mai 2023 zu überweisen.
-Von den für die Jahre 2024 und 2025 jeweils zur Verfügung zu
+(3a) Der Betrag nach Absatz 2 Satz 1 wird in den Jahren 2026 bis 2030
+wie folgt auf die Länder verteilt:
+
+*    *   Baden-Württemberg
+
+    *   203 200 000 Euro
+
+
+*    *   Bayern
+
+    *   299 830 000 Euro
+
+
+*    *   Berlin
+
+    *   152 790 000 Euro
+
+
+*    *   Brandenburg
+
+    *   12 010 000 Euro
+
+
+*    *   Bremen
+
+    *   7 500 000 Euro
+
+
+*    *   Hamburg
+
+    *   99 030 000 Euro
+
+
+*    *   Hessen
+
+    *   96 940 000 Euro
+
+
+*    *   Mecklenburg-Vorpommern
+
+    *   14 770 000 Euro
+
+
+*    *   Niedersachsen
+
+    *   80 840 000 Euro
+
+
+*    *   Nordrhein-Westfalen
+
+    *   358 460 000 Euro
+
+
+*    *   Rheinland-Pfalz
+
+    *   45 650 000 Euro
+
+
+*    *   Saarland
+
+    *   7 500 000 Euro
+
+
+*    *   Sachsen
+
+    *   40 770 000 Euro
+
+
+*    *   Sachsen-Anhalt
+
+    *   17 130 000 Euro
+
+
+*    *   Schleswig-Holstein
+
+    *   42 930 000 Euro
+
+
+*    *   Thüringen
+
+    *   20 650 000 Euro.
+
+
+
+
+(4) Von den für die Jahre 2024 bis 2030 jeweils zur Verfügung zu
 stellenden Beträgen ist je ein Zwölftel zum 15. Tag eines jeden Monats
 zu überweisen.
 
-(5) Die Länder haben einvernehmlich die in Absatz 3 festgelegte
-Verteilung in einer Endabrechnung an die je Kalenderjahr tatsächlich
-entstandenen finanziellen Nachteile im öffentlichen Personennahverkehr
-in eigener Verantwortung anzupassen. Der Bund wird über eine solche
-Beschlussfassung und die anschließende Umsetzung jeweils zeitnah
-unterrichtet.
+(5) Die Länder haben einvernehmlich die in den Absätzen 3 und 3a
+jeweils festgelegte Verteilung in einer Endabrechnung an die
+tatsächlich entstandenen finanziellen Nachteile im öffentlichen
+Personennahverkehr in eigener Verantwortung anzupassen. Der Bund wird
+über eine solche Beschlussfassung und die anschließende Umsetzung
+jeweils zeitnah unterrichtet.
 
 (6) Die Länder sind für die zweckentsprechende Verwendung der Beträge
-nach Absatz 3 verantwortlich und weisen dem Bund jährlich, beginnend
-mit dem Jahr 2023, die Verwendung der Mittel nach Maßgabe der Anlage 8
-bis zum 30. Juni des jeweiligen Folgejahres nach. Nachzuweisen sind
-die dem jeweiligen Kalenderjahr zuzurechnenden finanziellen Nachteile,
+nach den Absätzen 3 und 3a verantwortlich und weisen dem Bund
+jährlich, beginnend mit dem Jahr 2023, die Verwendung der Mittel nach
+Maßgabe der Anlage 8, ab dem Jahr 2026 nach Maßgabe der Anlage 9, bis
+zum 30. Juni des jeweiligen Folgejahres nach. Nachzuweisen sind die
+dem jeweiligen Kalenderjahr zuzurechnenden finanziellen Nachteile,
 unabhängig davon, in welchem Jahr diese haushaltswirksam geworden
 sind. Bei der Erstellung des Verwendungsnachweises sind Veränderungen
 der Werte der Vorjahre kenntlich zu machen und zu erläutern. Eine
-Ergänzung des Bundesanteils durch Regionalisierungsmittel gemäß § 5
+Ergänzung des Bundesanteils durch Regionalisierungsmittel gemäß § 5
 sowie Verrechnungen, die dies bewirken, sind nicht gestattet. Nicht
 oder nicht zweckentsprechend verwendete Mittel sind dem Bund zu
 erstatten.
 
-(7) Für das Kalenderjahr 2023 ist nach Vorlage der endgültigen Daten
-gemäß Anlage 8 zu prüfen, auf welche Höhe sich der tatsächlich
-erforderliche Betrag beläuft, um die finanziellen Nachteile im Sinne
-des Absatzes 2 Satz 2 und 3, die im Jahr 2023 entstanden sind, hälftig
-auszugleichen. Im Benehmen mit den Ländern beauftragt der Bund eine
-Wirtschaftsprüferin, einen Wirtschaftsprüfer oder eine
-Wirtschaftsprüfungsgesellschaft mit der für die Prüfung erforderlichen
-Untersuchung der finanziellen Nachteile durch das Deutschlandticket.
+(7) Nach Vorlage der endgültigen Daten gemäß Anlage 8 für die
+Kalenderjahre 2023, 2024 und 2025 ist nachzuweisen, auf welche Höhe
+sich der tatsächlich erforderliche Betrag beläuft, um die finanziellen
+Nachteile im Sinne des Absatzes 2 Satz 2 und 3, die im Zeitraum vom 1.
+Mai 2023 bis 31. Dezember 2025 entstanden sind, auszugleichen und wie
+sich dieser auf die einzelnen Länder verteilt. Im Benehmen mit den
+Ländern beauftragt der Bund eine Wirtschaftsprüferin, einen
+Wirtschaftsprüfer oder eine Wirtschaftsprüfungsgesellschaft mit der
+für die Prüfung erforderlichen Untersuchung der finanziellen Nachteile
+durch das Deutschlandticket.
 
-(8) Sollte die Prüfung aufgrund des Absatzes 7 ergeben, dass der
-Betrag nach Absatz 2 für das Jahr 2023 nicht ausgereicht hat, um die
-finanziellen Nachteile im Sinne des Absatzes 2 Satz 2 und 3 hälftig
-auszugleichen, steht den Ländern nach Maßgabe einer gesetzlichen
-Regelung mit Wirkung zum Jahr 2025 ein Betrag in Höhe der Hälfte des
-Betrages zu, den die finanziellen Nachteile den Betrag von 3
-Milliarden Euro übersteigen. Sollte die Prüfung aufgrund des Absatzes
-7 ergeben, dass der Betrag nach Absatz 2 im Jahr 2023 zu hoch war, um
-die finanziellen Nachteile, die auf das Deutschlandticket
-zurückzuführen sind, hälftig auszugleichen, steht dem Bund nach
-Maßgabe einer gesetzlichen Regelung mit Wirkung zum Jahr 2025 ein
-Betrag entsprechend dem Ergebnis der Prüfung zu.
+(7a) Die Mittel nach Absatz 3a stehen für den Ausgleich der
+finanziellen Nachteile im Sinne des Absatzes 2 Satz 2 und 3 im
+Zeitraum vom 1. Januar 2026 bis 31. Dezember 2030 zur Verfügung.
 
-(9) Die Bundesregierung hat jährlich aus den Nachweisen der Länder
+(8) Die Bundesregierung hat jährlich aus den Nachweisen der Länder
 einen Gesamtbericht zu erstellen, der dem Deutschen Bundestag
 zugeleitet und veröffentlicht wird.
 
@@ -3895,7 +3969,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 ## Anlage 8 Nachweis über die Verwendung der zusätzlichen Regionalisierungsmittel nach § 9 Absatz 3
 
-(BGBl. 2023 I Nr. 107, 3)
+(Fundstelle: BGBl. 2024 I Nr. 441, S. 2)
 
 
 *    *   **Nachweis über die Verwendung der zusätzlichen
@@ -3908,11 +3982,11 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *
-    *
     *   zum Stichtag 30. Juni des Folgejahres
 
 
 *    *
+    *
     *   Bereich
 
     *   Landes-
@@ -3924,7 +3998,11 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Betrag
         (in EUR)
 
-    *   Betrag Vorjahr
+    *   Betrag
+        Vorjahr
+        (in EUR)
+
+    *   Summe
         (in EUR)
 
 
@@ -3939,12 +4017,14 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
     *
+    *
 
 *    *   1.2
 
     *
     *   Minderung/Aufstockung aufgrund Länderausgleich
 
+    *
     *
     *
 
@@ -3955,6 +4035,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
     *
+    *
 
 *    *   1.4
 
@@ -3962,6 +4043,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   verfügbare Mittel gesamt
         (Summe 1.1 bis 1.3)
 
+    *
     *
     *
 
@@ -3977,6 +4059,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
     *
+    *
 
 *    *   2.2
 
@@ -3985,18 +4068,49 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
     *
+    *
 
 *    *   2.3
 
     *
-    *   finanzielle Nachteile aufgrund
-        des Rückgangs von Fahrgeldeinnahmen durch das Deutschlandticket
-        (Differenz 2.1 und 2.2)
+    *   finanzielle Nachteile aufgrund des Rückgangs von Fahrgeldeinnahmen
+        durch das Deutschlandticket (Differenz aus 2.1 und 2.2)
 
+    *
     *
     *
 
 *    *   2.4
+
+    *
+    *   finanzielle Nachteile im Zusammenhang mit allgemeinen Vorschriften
+        durch das Deutschlandticket
+
+    *
+    *
+    *
+
+*    *   2.5
+
+    *
+    *   finanzielle Nachteile aufgrund von Minderungen der Erstattungsleistung
+        nach SGB IX durch das Deutschlandticket
+
+    *
+    *
+    *
+
+*    *   2.6
+
+    *
+    *   finanzielle Nachteile aufgrund der Gewährung von Umstellungspauschalen
+        bzw. anteiliger Deckung von Vertriebsmehrkosten
+
+    *
+    *
+    *
+
+*    *   2.7
 
     *
     *   finanzielle Nachteile aufgrund der Erstattung von Mehrkosten der
@@ -4004,12 +4118,23 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
     *
+    *
 
-*    *   2.5
+*    *   2.8
 
     *
-    *   Gesamtsumme (2.3 und 2.4)
+    *   abzgl. ersparter Aufwendungen
 
+    *
+    *
+    *
+
+*    *   2.9
+
+    *
+    *   Gesamtsumme (2.3 bis 2.8)
+
+    *
     *
     *
 
@@ -4019,8 +4144,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Differenz verfügbare Mittel/Ausgaben
 
     *
-    *   (Differenz aus 1.4 und 2.5)
+    *   (Differenz aus 1.4 und 2.9)
 
+    *
     *
     *
 
@@ -4029,4 +4155,110 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
    Zu den einzelnen Punkten werden geeignete inhaltliche Erläuterungen
 sowie Hinweise zur Validität (z. B. endgültige Testierung) beigefügt.
 Die Vorjahreswerte sind zu aktualisieren.
+
+(zu § 9 Absatz 6)
+
+## Anlage 9 Nachweis über die Verwendung der zusätzlichen Regionalisierungsmittel nach § 9 Absatz 3a
+
+(Fundstelle: BGBl. 2025 I Nr. 287, S. 3)
+
+
+*    *   **Nachweis über die Verwendung der zusätzlichen
+        Regionalisierungsmittel**
+
+
+*    *   für das Bundesland:
+
+    *   im Jahr
+        zum Stichtag 30. Juni
+
+
+*    *
+    *
+    *   Bereich
+
+    *   Landes-
+        haushalt
+        (Kapitel/Titel)
+
+    *   Verwendungszweck
+
+    *   Betrag
+        (in EUR)
+
+
+*    *   1
+
+    *   1.1
+
+    *   Verfügbare Mittel
+
+    *
+    *   Zuweisung nach § 9 Abs. 3a RegG
+
+    *
+
+*    *   1.2
+
+    *
+    *   Minderung/Aufstockung aufgrund Länderausgleich
+
+    *
+
+*    *   1.3
+
+    *
+    *   Landesmittel
+
+    *
+
+*    *   1.4
+
+    *
+    *   verfügbare Mittel gesamt (Summe 1.1 bis 1.3)
+
+    *
+
+*    *   2
+
+    *   2.1
+
+    *   Ausgleich von finanziellen Nachteilen im öffentlichen
+        Personennahverkehr
+
+    *
+    *   geleistete Zahlungen gemäß Landesrichtlinie
+
+    *
+
+*    *   2.2
+
+    *
+    *   geleistete Zahlungen für zusätzliche Ausgaben
+
+    *
+
+*    *   2.3
+
+    *
+    *   Summe (2.1 und 2.2)
+
+    *
+
+*    *   3
+
+    *
+    *   Differenz verfügbare Mittel/Ausgaben
+
+    *
+    *   (Differenz aus 1.4 und 2.3)
+
+    *
+
+
+
+   Dem Verwendungsnachweis sind geeignete inhaltliche Erläuterungen,
+Hinweise zur Validität (z. B. endgültige Testierung) sowie Aussagen
+zur Höhe des Mittelabflusses im Berichtsjahr beizufügen. Die
+Verwendungsnachweise der Vorjahre sind zu aktualisieren.
 

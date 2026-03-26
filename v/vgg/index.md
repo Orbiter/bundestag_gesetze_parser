@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2016, 1190
 
 Zuletzt geändert durch
-:   Art. 2 G v. 31.5.2021 I 1204
+:   Art. 29 G v. 23.10.2024 I Nr. 323
 
 [^F794123_01_BJNR119010016]:     Dieses Gesetz dient der Umsetzung der Richtlinie 2014/26/EU des
     Europäischen Parlaments und des Rates vom 26. Februar 2014 über die
@@ -180,9 +180,7 @@ sein.
 Nimmt eine Verwertungsgesellschaft auf Grundlage einer vertraglichen
 Vereinbarung mit dem Rechtsinhaber Urheberrechte oder verwandte
 Schutzrechte wahr, holt sie dessen Zustimmung zur Wahrnehmung für
-jedes einzelne Recht ein und dokumentiert diese. Die Vereinbarung
-bedarf, auch soweit Rechte an künftigen Werken eingeräumt werden, der
-Textform.
+jedes einzelne Recht ein und dokumentiert diese.
 
 
 ##### § 11 Nutzungen für nicht kommerzielle Zwecke

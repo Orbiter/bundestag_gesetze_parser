@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2017, 1305
 
 Zuletzt geändert durch
-:   Art. 97 G v. 10.8.2021 I 3436
+:   Art. 32 V v. 11.12.2024 I Nr. 411
 
 [^F2_798273_BJNR130510017]:     Diese Verordnung dient auch der Umsetzung folgender Richtlinien:
     1\.                                    Richtlinie 91/676/EWG des Rates
@@ -912,7 +912,7 @@ Kalenderjahres zu einer jährlichen betrieblichen Gesamtsumme des
 Düngebedarfs zusammenzufassen; die jährliche betriebliche Gesamtsumme
 des Düngebedarfs ist nach Maßgabe der Anlage 5 aufzuzeichnen.
 
-(2) Der Betriebsinhaber hat spätestens zwei Tage nach jeder
+(2) Der Betriebsinhaber hat spätestens 14 Tage nach jeder
 Düngungsmaßnahme, einschließlich der Aufbringung nach § 3 Absatz 3
 Satz 2 und 3 sowie § 5 Absatz 3 Satz 4, folgende Angaben über die
 Düngungsmaßnahme aufzuzeichnen:

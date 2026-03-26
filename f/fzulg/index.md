@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2019, 2763
 
 Zuletzt geändert durch
-:   Art. 26 G v. 27.3.2024 I Nr. 108
-
-Änderung durch
-:   Art. 27 G v. 27.3.2024 I Nr. 108 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 3 G v. 22.12.2025 I Nr. 363
 
 
 ## § 1 Anspruchsberechtigung
@@ -122,14 +119,14 @@ Schweizerischen Eidgenossenschaft zugewiesen ist.
 Einzelunternehmers in einem begünstigten Forschungs- und
 Entwicklungsvorhaben. Je nachgewiesener Arbeitsstunde, die der
 Einzelunternehmer mit Forschungs- und Entwicklungstätigkeiten
-beschäftigt ist, sind 70 Euro je Arbeitsstunde bei insgesamt maximal
+beschäftigt ist, sind 100 Euro je Arbeitsstunde bei insgesamt maximal
 40 Arbeitsstunden pro Woche als förderfähige Aufwendungen anzusetzen.
 Haben Gesellschafter einer anspruchsberechtigten Mitunternehmerschaft
 vertraglich vereinbart, dass ein oder mehrere Gesellschafter für
 Forschungs- und Entwicklungstätigkeiten in begünstigten Forschungs-
 und Entwicklungsvorhaben eine Tätigkeitsvergütung erhalten, dann ist
-diese Tätigkeitsvergütung förderfähiger Aufwand, soweit sie 70 Euro je
-Arbeitsstunde bei maximal 40 Arbeitsstunden pro Woche nicht
+diese Tätigkeitsvergütung förderfähiger Aufwand, soweit sie 100 Euro
+je Arbeitsstunde bei maximal 40 Arbeitsstunden pro Woche nicht
 übersteigt. Voraussetzung ist, dass die Vereinbarung zivilrechtlich
 wirksam, ernsthaft gewollt und tatsächlich durchgeführt und so
 eindeutig und klar abgefasst ist, dass sie von anderen
@@ -169,6 +166,15 @@ mindert sich der nach Satz 3 ermittelte förderfähige Aufwand um
 jeweils ein Zwölftel für jeden vollen Monat, in dem die
 Voraussetzungen nach Satz 1 nicht vorliegen.
 
+(3b) Zu den förderfähigen Aufwendungen gehört auch der pauschalisierte
+Betrag für zusätzliche Gemeinkosten und sonstige Betriebskosten nach
+Satz 2, die im Rahmen eines begünstigten Forschungs- und
+Entwicklungsvorhabens, welches nach dem 31. Dezember 2025 begonnen
+hat, entstanden sind. Die als förderfähige Aufwendungen zu
+berücksichtigenden Gemein- und Betriebskosten betragen pauschal 20
+Prozent der im Wirtschaftsjahr nach den Absätzen 1, 2, 3, 3a und 4
+entstandenen förderfähigen Aufwendungen.
+
 (4) Für vor dem 28. März 2024 in Auftrag gegebene Forschungs- und
 Entwicklungsvorhaben im Sinne des § 2 Absatz 5 betragen die
 förderfähigen Aufwendungen 60 Prozent des beim Anspruchsberechtigten
@@ -190,11 +196,15 @@ Absätze 1 bis 4. Die Bemessungsgrundlage beträgt höchstens für
 
 
 2.  nach dem 30. Juni 2020 und vor dem 28. März 2024 entstandene
-    förderfähige Aufwendungen 4 000 000 Euro und
+    förderfähige Aufwendungen 4 000 000 Euro,
 
 
-3.  nach dem 27. März 2024 entstandene förderfähige Aufwendungen
-    10 000 000 Euro.
+3.  nach dem 27. März 2024 und vor dem 1. Januar 2026 entstandene
+    förderfähige Aufwendungen 10 000 000 Euro und
+
+
+4.  nach dem 31. Dezember 2025 entstandene förderfähige Aufwendungen
+    12 000 000 Euro.
 
 
 
@@ -371,19 +381,9 @@ erforderlich sind.
 
 (5) Die Forschungszulage kann für den Teil der Bemessungsgrundlage,
 der auf Aufwendungen im Sinne des § 3 Absatz 3 Satz 1 und 2 entfällt,
-nur gewährt werden, soweit die Voraussetzungen der Verordnung (EU) Nr.
-1407/2013 der Kommission vom 18. Dezember 2013 über die Anwendung der
-Artikel 107 und 108 des Vertrags über die Arbeitsweise der
-Europäischen Union auf De-minimis-Beihilfen (ABl. L 352 vom
-24\.12.2013, S. 1) (De-minimis-Verordnung) in der jeweils geltenden
-Fassung eingehalten sind. Die Forschungszulage kann insoweit erst
-gewährt werden, wenn der Anspruchsberechtigte in geeigneter Weise den
-Nachweis erbracht hat, in welcher Höhe ihm in den beiden
-vorangegangenen sowie im laufenden Veranlagungszeitraum De-minimis-
-Beihilfen gewährt worden sind, für die die vorliegende oder andere De-
-minimis-Verordnungen gelten, und nur soweit, wie die Voraussetzungen
-der De-minimis-Verordnung bei dem Unternehmen im Sinne der De-minimis-
-Verordnung eingehalten werden.
+nur gewährt werden, soweit die Voraussetzungen der Verordnung (EU)
+2023/2831 eingehalten sind und dies durch den Anspruchsberechtigten in
+geeigneter Weise nachgewiesen wird.
 
 
 ## § 10 Festsetzung und Leistung der Forschungszulage
@@ -408,6 +408,15 @@ Verteilung ist der jeweils vereinbarte Gewinnverteilungsschlüssel.
 Wird der Forschungszulagenbescheid aufgehoben oder geändert, ist die
 gesonderte und einheitliche Feststellung nach Satz 2 entsprechend zu
 ändern.
+
+(2a) Wenn im Zeitpunkt der Festsetzung der Forschungszulage die
+Steuererklärung für die nächste erstmalige Festsetzung von Einkommen-
+oder Körperschaftsteuer noch nicht abgegeben worden ist und die
+Vorauszahlungen nach § 37 Absatz 3 Satz 3 des Einkommensteuergesetzes
+für den letzten noch nicht veranlagten Zeitraum angepasst werden
+können, hat das Finanzamt die Vorauszahlungen für diesen
+Veranlagungszeitraum um die festgesetzte Forschungszulage, jedoch
+höchstens auf 0 Euro, auf Antrag herabzusetzen.
 
 (3) Wird der Forschungszulagenbescheid aufgehoben oder geändert, ist
 die nach Absatz 1 Satz 2 oder Absatz 2 Satz 1 erfolgte Anrechnung

@@ -16,8 +16,9 @@ Fundstelle
 :   BGBl I: 2009, 2542
 
 Zuletzt geändert durch
-:   Art. 3 G v. 8.12.2022 I 2240
+:   Art. 48 G v. 23.10.2024 I Nr. 323
 
+Stand: Das G tritt gem. Art. 27 Satz 1 G v. 29.7.2009 I 2542 am 1.3.2010 in Kraft
 
 ## Kapitel 1 - Allgemeine Vorschriften
 
@@ -1539,7 +1540,7 @@ mit einem entsprechend dem jeweiligen Schutzzweck abgestuften Schutz
 gegliedert werden; hierbei kann auch die für den Schutz notwendige
 Umgebung einbezogen werden.
 
-(2) Soweit in den Absätzen 2a und 2b nichts Näheres bestimmt ist,
+(2) Soweit in den Absätzen 2a bis 2c, nichts Näheres bestimmt ist,
 richten sich Form und Verfahren der Unterschutzstellung, die
 Beachtlichkeit von Form- und Verfahrensfehlern und die Möglichkeit
 ihrer Behebung sowie die Fortgeltung bestehender Erklärungen zum
@@ -1553,9 +1554,9 @@ Unterschutzstellung kann auch länderübergreifend erfolgen.
 
 2.  mit Vorgaben der Richtlinie 2001/42/EG des Europäischen Parlaments und
     des Rates vom 27. Juni 2001 über die Prüfung der Umweltauswirkungen
-    bestimmter Pläne und Programme (ABl. L 197 vom 21.7.2001, S. 30)
-    unvereinbar sind, weil eine danach erforderliche Strategische
-    Umweltprüfung nicht durchgeführt wurde,
+    bestimmter Pläne und Programme (ABl. L 197 vom 21.7.2001, S. 30) ganz
+    oder teilweise unvereinbar sind, weil eine danach erforderliche
+    Strategische Umweltprüfung nicht durchgeführt wurde,
 
 
 
@@ -1591,6 +1592,16 @@ Februar 2010 geltenden Fassung sowie nach ausfüllendem Landesrecht.
 Pläne zur Durchführung von Pflege-, Entwicklungs- und
 Wiederherstellungsmaßnahmen im Sinne des Absatzes 1 Satz 2 bleiben
 gültig.
+
+(2c) Die Absätze 2a und 2b gelten entsprechend für Erklärungen zur
+Unterschutzstellung, die mit den Vorgaben der Richtlinie 92/43/EWG
+unvereinbar sind, weil eine danach erforderliche Prüfung, Feststellung
+oder Maßnahme nicht durchgeführt wurde. Ist in den Fällen des Satzes 1
+eine Fortgeltung des mit den Vorgaben des Rechts der Europäischen
+Union unvereinbaren Teiles der Erklärung zur Unterschutzstellung
+ausgeschlossen, finden insoweit die §§ 33 bis 36 Anwendung. Satz 2
+gilt entsprechend, wenn die Erklärung zur Unterschutzstellung
+insgesamt unwirksam ist.
 
 (3) Teile von Natur und Landschaft, deren Schutz beabsichtigt ist,
 können für einen Zeitraum von bis zu zwei Jahren einstweilig
@@ -2090,7 +2101,7 @@ Natur und Landschaft im Sinne des § 20 Absatz 2 richten sich nach §
 
 (7) Für Schutzerklärungen im Sinne der Absätze 2 und 3, für den Schutz
 nach anderen Rechtsvorschriften im Sinne von Absatz 4 sowie für Pläne
-im Sinne von Absatz 5 gilt § 22 Absatz 2a und 2b entsprechend. Dies
+im Sinne von Absatz 5 gilt § 22 Absatz 2a bis 2c entsprechend. Dies
 gilt auch für Schutzerklärungen nach § 33 Absatz 2 bis 4 des
 Bundesnaturschutzgesetzes in der bis zum 28. Februar 2010 geltenden
 Fassung.
@@ -3392,12 +3403,7 @@ angerechnet.
 
 (1) Die nachfolgenden Absätze gelten für Vorhaben zur Modernisierung
 von Windenergieanlagen an Land nach § 16b Absatz 1 und 2 des Bundes-
-Immissionsschutzgesetzes. Abweichend von § 16b Absatz 2 Satz 2 des
-Bundes-Immissionsschutzgesetzes werden auch neue Windenergieanlagen
-erfasst, die innerhalb von 48 Monaten nach dem Rückbau der
-Bestandsanlage errichtet werden und der Abstand zwischen der
-Bestandsanlage und der neuen Anlage höchstens das Fünffache der
-Gesamthöhe der neuen Anlage beträgt.
+Immissionsschutzgesetzes.
 
 (2) Der Umfang der artenschutzrechtlichen Prüfung wird durch das
 Änderungsgenehmigungsverfahren nach § 16b Absatz 1 des Bundes-
@@ -3895,7 +3901,7 @@ Grundgesetzes) wird insoweit eingeschränkt.
 ### Abschnitt 6 - Ermächtigungen
 
 
-#### § 54 
+#### § 54 Ermächtigung zum Erlass von Rechtsverordnungen; Erlass von Verwaltungsvorschriften
 
 (1) Das Bundesministerium für Umwelt, Naturschutz und nukleare
 Sicherheit wird ermächtigt, durch Rechtsverordnung mit Zustimmung des
@@ -4365,6 +4371,35 @@ insbesondere über
 
 
 
+(12) Die Bundesregierung erlässt mit Zustimmung des Bundesrates
+allgemeine Verwaltungsvorschriften über die Anforderungen hinsichtlich
+
+1.  der Bestandserfassung wild lebender Tiere der besonders geschützten
+    Arten im Hinblick auf die Zugriffsverbote nach § 44 Absatz 1 bei
+    Vorhaben an Eisenbahnbetriebsanlagen,
+
+
+2.  wirksamer und fachlich anerkannter Schutzmaßnahmen in Bezug auf wild
+    lebende Tiere der besonders geschützten Arten bei Vorhaben an
+    Eisenbahnbetriebsanlagen, bei deren Beachtung in der Regel kein
+    Verstoß gegen die Zugriffsverbote nach § 44 Absatz 1 vorliegt, sowie
+    hinsichtlich der Maßnahmen zur Sicherung des Erhaltungszustands dieser
+    Arten im Sinne des § 45 Absatz 7 Satz 2,
+
+
+3.  der Durchführung von Unterhaltungs- und Erneuerungsmaßnahmen an
+    Eisenbahnbetriebsanlagen, bei deren Beachtung in der Regel kein
+    Verstoß gegen die Zugriffsverbote nach § 44 Absatz 1 vorliegt,
+
+
+4.  der Ausstattung von Bahnstrecken mit einer Oberleitung
+    (Elektrifizierung), einschließlich deren Erneuerung, bei deren
+    Beachtung in Bezug auf Stromschlag und Leitungsanflug von Vögeln in
+    der Regel kein Verstoß gegen die Zugriffsverbote nach § 44 Absatz 1
+    vorliegt und den Vorgaben des § 41 Satz 1 entsprochen wird.
+
+
+
 
 
 #### § 55 Durchführung gemeinschaftsrechtlicher oder internationaler Vorschriften; Ermächtigung zum Erlass von Rechtsverordnungen
@@ -4489,8 +4524,9 @@ Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit
 unter Beteiligung der fachlich betroffenen Bundesministerien durch
 Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf. Für
 die Herstellung der Vereinbarkeit mit Vorgaben aus der Richtlinie
-2001/42/EG sowie für die Fortgeltung bestehender Schutzerklärungen
-gilt § 22 Absatz 2a und 2b Satz 2.
+2001/42/EG und der Richtlinie 92/43/EWG sowie für die Fortgeltung
+bestehender Schutzerklärungen gilt § 22 Absatz 2a und 2b Satz 2 sowie
+Absatz 2c.
 
 (3) Für die Erklärung der Meeresgebiete zu geschützten Teilen von
 Natur und Landschaft im Sinne des § 20 Absatz 2, einschließlich ihrer

@@ -15,24 +15,25 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1993, 704
 
-Zuletzt geändert durch
-:   Art. 23 G v. 27.7.2021 I 3146
+V aufgeh. durch
+:   § 10 dieser V, dieser eingef. durch Art. 2 G v. 2.12.2025 I Nr. 302, mit Ablauf des 19.1.2027
 
-Diese Verordnung dient der Umsetzung der Richtlinie
-89/392/EWG des Rates vom 14. Juni 1989 zur Angleichung der
-Rechtsvorschriften
-der Mitgliedstaaten für Maschinen (ABl. EG Nr. L 183 S. 9), zuletzt
-geändert
-durch die Richtlinie 91/368/EWG des Rates vom 20. Juni 1991 (ABl. EG
-Nr. L 198
-S. 16).
-Diese Verordnung ist gem. Art. 3 der V v. 12.5.1993 I 704 am 20.5.1993
-in Kraft getreten; sie wurde auf Grund d. § 4 Abs. 1 G v. 24.6.1968 I
-717
-von der Bundesregierung nach Anhörung des Ausschusses für technische
-Arbeitsmittel und der beteiligten Kreise mit Zustimmung des
-Bundesrates
-als Artikel 1 der vorgenannten V erlassen.
+Zuletzt geändert durch
+:   Art. 2 G v. 2.12.2025 I Nr. 302
+
+Änderung durch
+:   Art. 3 V v. 2.3.2026 I Nr. 54 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Stand: Zukünftige Überschrift: Neunte Verordnung zum Produktsicherheitsgesetz (Maschinenverordnung - 9. ProdSV)(ab 30.5.2026; BGBl 2026 I Nr. 54)
+[^bjnr070410993_01_BJNR070410993]:     Diese Verordnung dient der Umsetzung der Richtlinie 89/392/EWG des
+    Rates vom 14. Juni 1989 zur Angleichung der Rechtsvorschriften der
+    Mitgliedstaaten für Maschinen (ABl. EG Nr. L 183 S. 9), zuletzt
+    geändert durch die Richtlinie 91/368/EWG des Rates vom 20. Juni 1991
+    (ABl. EG Nr. L 198 S. 16).
+[^bjnr070410993_02_BJNR070410993]:     Nichtamtlicher Hinweis: Die Überschrift wurde gem. Art. 3 Nr. 1 V v.
+    2\.3.2026 I Nr. 54 mWv 30.5.2026 wie folgt gefasst:  **Neunte
+    Verordnung zum Produktsicherheitsgesetz (Maschinenverordnung - 9.
+    ProdSV)**
 
 
 ## § 1 Anwendungsbereich
@@ -594,4 +595,9 @@ Tragbare Befestigungsgeräte mit Treibladung und andere Schussgeräte,
 die den Bestimmungen der Beschussverordnung vom 13. Juli 2006 (BGBl. I
 S. 1474) entsprechen, dürfen noch bis zum 28. Juni 2011 auf dem Markt
 bereitgestellt und in Betrieb genommen werden.
+
+
+## § 10 Außerkrafttreten
+
+Diese Verordnung tritt mit Ablauf des 19. Januar 2027 außer Kraft.
 

@@ -17,7 +17,16 @@ Fundstelle
 :   BGBl I: 1976, 581 (2088) (1977 I 436)
 
 Zuletzt geändert durch
-:   Art. 27 G v. 5.10.2021 I 4607
+:   Art. 8 G v. 8.12.2025 I Nr. 319
+
+Mittelbare änderung durch
+:   Art. 37 G v. 8.12.2025 I Nr. 319 ist berücksichtigt
+
+Mittelbare änderung durch
+:   Art. 38 G v. 8.12.2025 I Nr. 319 ist berücksichtigt
+
+Änderung durch
+:   Art. 8 G v. 22.12.2025 I Nr. 349 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Eingangsformel
@@ -2072,19 +2081,37 @@ Bezirk die beteiligte Vollzugsbehörde ihren Sitz hat.
 
 #### § 110a Elektronische Aktenführung; Verordnungsermächtigungen
 
-(1) Die Gerichtsakten können elektronisch geführt werden. Die
-Landesregierungen bestimmen durch Rechtsverordnung den Zeitpunkt, von
-dem an die Akten elektronisch geführt werden. Sie können die
-Einführung der elektronischen Aktenführung dabei auf einzelne Gerichte
-oder auf allgemein bestimmte Verfahren beschränken und bestimmen, dass
-Akten, die in Papierform angelegt wurden, auch nach Einführung der
-elektronischen Aktenführung in Papierform weitergeführt werden; wird
-von der Beschränkungsmöglichkeit Gebrauch gemacht, kann in der
-Rechtsverordnung bestimmt werden, dass durch Verwaltungsvorschrift,
-die öffentlich bekanntzumachen ist, geregelt wird, in welchen
-Verfahren die Akten elektronisch zu führen sind. Die Ermächtigung kann
-durch Rechtsverordnung auf die zuständigen Landesministerien
-übertragen werden.
+(1) Die Gerichtsakten werden elektronisch geführt. Akten, die in
+Papierform angelegt wurden, können in Papierform weitergeführt werden.
+Sie können auch ab einem bestimmten Stichtag oder Ereignis in
+elektronischer Form weitergeführt werden. Der Beginn der Weiterführung
+der Akten in elektronischer Form ist aktenkundig zu machen.
+
+(1a) Die Landesregierungen können jeweils für ihren Bereich durch
+Rechtsverordnung bestimmen, dass Akten abweichend von Absatz 1 Satz 1
+und 2 bis einschließlich 31. Dezember 2026 in Papierform angelegt
+sowie von anderer Stelle bis einschließlich 31. Dezember 2026
+übermittelte elektronische Akten in Papierform geführt oder
+weitergeführt werden. Die Bestimmung kann auf einzelne Gerichte oder
+allgemein bestimmte Verfahren beschränkt werden; wird von dieser
+Möglichkeit Gebrauch gemacht, so kann in der Rechtsverordnung bestimmt
+werden, dass durch Verwaltungsvorschrift, die öffentlich
+bekanntzumachen ist, geregelt wird, in welchen Verfahren Akten in
+Papierform angelegt oder elektronisch übermittelte Akten in Papierform
+geführt oder weitergeführt werden. Die Landesregierungen können die in
+Satz 1 genannte Ermächtigung durch Rechtsverordnung auf die
+zuständigen Landesministerien übertragen.
+
+(1b) Dokumente und Aktenteile, die nach den
+Verschlusssachenanweisungen des Bundes oder der Länder als
+Verschlusssache höher als VS-NUR FÜR DEN DIENSTGEBRAUCH eingestuft
+sind, dürfen bis zum 31. Dezember 2035 in Papierform erstellt, geführt
+und übermittelt werden. Dokumente und Aktenteile, die nach den
+Verschlusssachenanweisungen des Bundes oder der Länder als
+Verschlusssache VS-NUR FÜR DEN DIENSTGEBRAUCH eingestuft sind, dürfen
+bis zum 31. Dezember 2035 in Papierform übermittelt werden. Die für
+die Handhabung von Verschlusssachen geltenden Geheimschutzvorschriften
+bleiben unberührt.
 
 (2) Die Landesregierungen bestimmen durch Rechtsverordnung die für die
 elektronische Aktenführung geltenden organisatorischen und dem Stand
@@ -2360,7 +2387,7 @@ des § 115 Absatz 2 Satz 2 und Absatz 4 der ihr in der einstweiligen
 Anordnung oder im Beschluss auferlegten Verpflichtung nicht nach, gilt
 § 172 der Verwaltungsgerichtsordnung entsprechend. Im Übrigen sind die
 Vorschriften der Strafprozessordnung und die auf der Grundlage des §
-32a Absatz 2 Satz 2 und Absatz 4 Satz 1 Nummer 6, des § 32b Absatz 5
+32a Absatz 2 Satz 2 und Absatz 4 Satz 1 Nummer 5, des § 32b Absatz 5
 und des § 32f Absatz 6 der Strafprozessordnung erlassenen
 Rechtsverordnungen entsprechend anzuwenden, soweit sich aus diesem
 Gesetz nichts anderes ergibt.

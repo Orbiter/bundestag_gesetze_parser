@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 16.8.1990 I 1809;
 
 Zuletzt geändert durch
-:   Art. 5 V v. 10.3.2022 I 428
+:   Art. 3 V v. 30.10.2024 I Nr. 342
 
 
 ## § 1 Gesetzliche Handelsklassen
@@ -48,9 +48,11 @@ durchschnittliche wöchentliche Schlachtzahl wird auf der Grundlage der
 im Jahresdurchschnitt des vorangegangenen Kalenderjahres
 geschlachteten Anzahl Schweine ermittelt. Die Verantwortung für die
 Rahmenbedingungen einer ordnungsgemäßen Durchführung der
-Klassifizierung obliegt dem Schlachtbetrieb; sie wird durch die
-Beauftragung eines zugelassenen Klassifizierungsunternehmens mit der
-Durchführung der Klassifizierung nicht berührt.
+Klassifizierung obliegt der Schlachtstätte im Sinne des § 1 Nummer 4
+des Fleischgesetzes und für die ordnungsgemäße Durchführung im
+Einzelnen dem Schlachtbetrieb; sie wird durch die Beauftragung eines
+zugelassenen Klassifizierungsunternehmens mit der Durchführung der
+Klassifizierung nicht berührt.
 
 (2) Von der Pflicht nach Absatz 1 Satz 1 ausgenommen sind
 Schlachtbetriebe, die nur in ihren eigenen Einrichtungen geborene und

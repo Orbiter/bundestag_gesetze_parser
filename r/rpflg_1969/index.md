@@ -19,9 +19,8 @@ Neugefasst durch
 :   Bek. v. 14.4.2013 I 778, 2014 I 46;
 
 Zuletzt geändert durch
-:   Art. 20 G v. 22.2.2023 I Nr. 51
+:   Art. 6 G v. 19.6.2024 I Nr. 206
 
-Stand: Bek. v. 15.8.2023 I Nr. 216 ist berücksichtigt
 
 ## Erster Abschnitt - Aufgaben und Stellung des Rechtspflegers
 
@@ -498,7 +497,11 @@ Lebenspartnerschaftssachen bleiben dem Richter vorbehalten:
 
     b)  eines gesetzlichen Vertreters zu der Sorgeerklärung eines beschränkt
         geschäftsfähigen Elternteils nach § 1626c Absatz 2 Satz 1 des
-        Bürgerlichen Gesetzbuchs;
+        Bürgerlichen Gesetzbuchs,
+
+
+    c)  des gesetzlichen Vertreters nach § 3 Absatz 1 Satz 2 des Gesetzes über
+        die Selbstbestimmung in Bezug auf den Geschlechtseintrag;
 
 
 
@@ -531,7 +534,13 @@ Lebenspartnerschaftssachen bleiben dem Richter vorbehalten:
     Vertreter eines geschäftsunfähigen Ehegatten oder Lebenspartners nach
     § 125 Absatz 2 Satz 2, § 270 Absatz 1 Satz 1 des Gesetzes über das
     Verfahren in Familiensachen und in den Angelegenheiten der
-    freiwilligen Gerichtsbarkeit.
+    freiwilligen Gerichtsbarkeit;
+
+
+17. die Genehmigung für die Erklärungen zur Änderung des
+    Geschlechtseintrags und der Vornamen nach § 3 Absatz 2 Satz 2 des
+    Gesetzes über die Selbstbestimmung in Bezug auf den
+    Geschlechtseintrag.
 
 
 
@@ -580,11 +589,9 @@ sind, bleiben dem Richter vorbehalten:
     und andere Behandlungsmethoden;
 
 
-9.  die Genehmigung nach § 3 Absatz 1 Satz 2 sowie nach § 6 Absatz 2 Satz
-    1, § 7 Absatz 3 Satz 2 und § 9 Absatz 3 Satz 1, jeweils in Verbindung
-    mit § 3 Absatz 1 Satz 2 des Gesetzes über die Änderung der Vornamen
-    und die Feststellung der Geschlechtszugehörigkeit in besonderen
-    Fällen;
+9.  die Genehmigung für die Erklärungen zur Änderung des
+    Geschlechtseintrags und der Vornamen nach § 3 Absatz 3 des Gesetzes
+    über die Selbstbestimmung in Bezug auf den Geschlechtseintrag;
 
 
 10. die Genehmigung für den Antrag auf Scheidung oder Aufhebung der Ehe

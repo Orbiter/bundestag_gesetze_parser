@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1979, 73
 
 Zuletzt geändert durch
-:   Art. 3 V v. 22.12.2003, 2004 I 21
+:   Art. 3 V v. 22.12.2003; 2004 I 21
 
 
 ## Eingangsformel

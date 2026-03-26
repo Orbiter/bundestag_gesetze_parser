@@ -16,7 +16,10 @@ Fundstelle
 :   BGBl I: 2001, 3955, 3956
 
 Zuletzt geändert durch
-:   Art. 1 G v. 13.11.2023 I Nr. 310
+:   Art. 2 G v. 27.10.2025 I Nr. 255
+
+Mittelbare änderung durch
+:   Art. 3 G v. 27.10.2025 I Nr. 255 ist berücksichtigt
 
 Das g tritt gem. § 20 mit ablauf des 31.12.2019 außer kraft; § 20 aufgeh. durch
 :   Art. 2 Nr. 21 G v. 14.8.2017 I 3122 mWv 1.1.2020; Art. 2 Nr. 21 aufgeh. durch Art. 4 Nr. 2 G v. 17.12.2018 I 2522; § 20 aufgeh. durch Art. 1 Nr. 2 G v. 17.12.2018 I 2522 mWv 21.12.2018; dadurch ist die Geltung dieses G über den 31.12.2019 hinaus verlängert worden
@@ -100,36 +103,63 @@ Bundes, der Länder und Gemeinden nach Absatz 1:
 
 *    *   2024
 
-    *   minus 10 980 407 683 Euro
+    *   minus 12 480 407 683 Euro
 
-    *   8 580 407 683 Euro
+    *   10 080 407 683 Euro
 
     *   2 400 000 000 Euro
 
 
 *    *   2025
 
-    *   minus 10 605 407 683 Euro
+    *   minus 12 226 540 183 Euro
 
-    *   8 205 407 683 Euro
+    *   9 578 540 183 Euro
 
-    *   2 400 000 000 Euro
+    *   2 648 000 000 Euro
 
 
 *    *   2026
 
-    *   minus 10 605 407 683 Euro
+    *   minus 13 102 407 683 Euro
 
-    *   8 205 407 683 Euro
+    *   9 086 407 683 Euro
 
-    *   2 400 000 000 Euro
+    *   4 016 000 000 Euro
 
 
-*    *   ab 2027
+*    *   2027
 
-    *   minus 10 417 407 683 Euro
+    *   minus 15 539 407 683 Euro
 
-    *   8 017 407 683 Euro
+    *   9 335 407 683 Euro
+
+    *   6 204 000 000 Euro
+
+
+*    *   2028
+
+    *   minus 17 010 907 683 Euro
+
+    *   9 689 907 683 Euro
+
+    *   7 321 000 000 Euro
+
+
+*    *   2029
+
+    *   minus 15 318 407 683 Euro
+
+    *   9 968 407 683 Euro
+
+    *   5 350 000 000 Euro
+
+
+*    *   ab 2030
+
+    *   minus 11 763 407 683 Euro
+
+    *   9 363 407 683 Euro
 
     *   2 400 000 000 Euro.
 
@@ -151,17 +181,46 @@ vereinnahmt oder erstattet werden.
 (4) (weggefallen)
 
 (5) Zum Ausgleich für Belastungen der Länder aus dem KiTa-Qualitäts-
-und -Teilhabeverbesserungsgesetz vom 19. Dezember 2018 (BGBl. I S.
+und Teilhabeverbesserungsgesetz vom 19. Dezember 2018 (BGBl. I S.
 2696) und aus der Änderung des Achten Buches Sozialgesetzbuch durch
 die Artikel 1 und 2 des Gesetzes vom 19. Dezember 2018 (BGBl. I S.
-2696) verringern sich die in Absatz 2 genannten Beträge für den Bund
-im Jahr 2020 um 993 Millionen Euro, in den Jahren 2021 und 2022 um
-jeweils 1 993 Millionen Euro, im Jahr 2023 um 1 884 Millionen Euro und
-im Jahr 2024 um 1 993 Millionen Euro; die in Absatz 2 genannten
-Beträge für die Länder erhöhen sich entsprechend im Jahr 2020 um 993
-Millionen Euro, in den Jahren 2021 und 2022 um jeweils 1 993 Millionen
-Euro, im Jahr 2023 um 1 884 Millionen Euro und im Jahr 2024 um 1 993
-Millionen Euro.
+2696)
+
+1.  verringern sich die in Absatz 2 genannten Beträge für den Bund
+
+    a)  im Jahr 2020 um 993 Millionen Euro,
+
+
+    b)  in den Jahren 2021 und 2022 um jeweils 1 993 Millionen Euro,
+
+
+    c)  im Jahr 2023 um 1 884 Millionen Euro und
+
+
+    d)  in den Jahren 2024, 2025 und 2026 um jeweils 1 993 Millionen Euro und
+
+
+
+
+
+2.  erhöhen sich die in Absatz 2 genannten Beträge für die Länder
+
+    a)  im Jahr 2020 um 993 Millionen Euro,
+
+
+    b)  in den Jahren 2021 und 2022 um jeweils 1 993 Millionen Euro,
+
+
+    c)  im Jahr 2023 um 1 884 Millionen Euro und
+
+
+    d)  in den Jahren 2024, 2025 und 2026 um jeweils 1 993 Millionen Euro.
+
+
+
+
+
+
 
 (6) Um den finanziellen Lasten der Länder, die ihnen aus der Umsetzung
 des Aktionsprogramms „Aufholen nach Corona für Kinder und Jugendliche
@@ -232,7 +291,8 @@ vervielfacht mit der Einwohnerzahl des Landes; hierbei sind die nach §
 (1) Als Steuereinnahmen eines Landes gelten die ihm im Ausgleichsjahr
 zugeflossenen Einnahmen
 
-1.  aus seinem Anteil an der Einkommensteuer und der Körperschaftsteuer;
+1.  aus seinem Anteil an der Einkommensteuer, der Körperschaftsteuer und
+    der Mindeststeuer;
 
 
 2.  aus seinem Anteil an der Gewerbesteuerumlage nach § 6 des
@@ -304,18 +364,67 @@ des Absatzes 3
 Für die von den Gemeinden geleistete Gewerbesteuerumlage sind die
 Feststellungen der Länder maßgebend.
 
-(2) Als Steuerkraftzahlen der Grundsteuer von den land- und
-forstwirtschaftlichen Betrieben, der Grundsteuer von den Grundstücken
-und der Gewerbesteuer werden jeweils für die einzelnen Länder die
-Beträge angesetzt, die sich ergeben, wenn die im Bundesgebiet
-insgesamt im Ausgleichsjahr aufgekommenen einzelnen Realsteuern im
+(2) Als Steuerkraftzahlen der Gewerbesteuer werden jeweils für die
+einzelnen Länder die Beträge angesetzt, die sich ergeben, wenn die im
+Bundesgebiet insgesamt im Ausgleichsjahr aufgekommene Gewerbesteuer im
 Verhältnis der länderweisen Grundbeträge dieser Steuern in dem dem
 Ausgleichsjahr vorausgehenden Kalenderjahr verteilt werden. Dabei sind
 die Grundbeträge maßgebend, die das Statistische Bundesamt nach dem
-Ergebnis der Gemeindefinanzstatistik festgestellt hat.
+Ergebnis der Gemeindefinanzstatistik festgestellt hat. Als
+Steuerkraftzahlen der Grundsteuer von den land- und
+forstwirtschaftlichen Betrieben und der Grundsteuer von den
+Grundstücken werden für die einzelnen Länder jeweils die Beträge
+angesetzt, die sich ergeben, wenn die im Bundesgebiet insgesamt im
+Ausgleichsjahr aufgekommenen Grundsteuern jeweils im Verhältnis der
+Summen der nach bundesgesetzlich normiertem Bewertungsrecht
+berechneten Grundsteuermessbeträge, die die Länder für das dem
+Ausgleichsjahr vorausgehende Kalenderjahr für ihr Gebiet festzustellen
+haben, verteilt werden; dies gilt nicht, soweit das Statistische
+Bundesamt für alle Länder in bundeseinheitlicher Abgrenzung
+Grundbeträge der Grundsteuern festgestellt hat. Bei der Ermittlung der
+Summen nach Satz 3 ist unverhältnismäßiger Verwaltungsaufwand zu
+vermeiden. Für die Steuerpflichtigen darf durch das Verfahren zur
+Normierung des Grundsteueraufkommens keine gesonderte
+Erklärungspflicht entstehen.
 
 (3) Die Steuereinnahmen der Gemeinden eines Landes nach Absatz 1
 werden je für sich auf 75 Prozent herabgesetzt.
+
+(4) Für die Ausgleichsjahre 2025 bis 2027 werden bei der Ermittlung
+der Steuerkraftzahlen der Grundsteuer von den land- und
+forstwirtschaftlichen Betrieben und der Grundsteuer von den
+Grundstücken abweichend von den Regelungen in Absatz 2 jeweils die vom
+Statistischen Bundesamt festgestellten Grundbeträge des Jahres 2024
+angesetzt.
+
+(5) Für die Ausgleichsjahre 2028 und 2029 werden bei der Ermittlung
+der Steuerkraftzahlen der Grundsteuer von den land- und
+forstwirtschaftlichen Betrieben und der Grundsteuer von den
+Grundstücken abweichend von den Regelungen in Absatz 2 jeweils die
+Steuerkraftzahlen für jedes Land ermittelt, indem jeweils anteilig
+
+1.  die Grundbeträge nach Absatz 4
+
+    im Jahr 2028 zu 67 Prozent und
+
+    im Jahr 2029 zu 33 Prozent sowie
+
+
+2.  die für das dem Ausgleichsjahr vorangehende Kalenderjahr ermittelten
+    Beträge gemäß Absatz 2
+
+    im Jahr 2028 zu 33 Prozent und
+
+    im Jahr 2029 zu 67 Prozent
+
+
+
+zugrunde gelegt werden.
+
+(6) Das Bundesministerium der Finanzen kann in der Verordnung nach §
+14 Absatz 4 für die Ausgleichsjahre 2025 bis 2029 bei den Grundsteuern
+in Anlehnung an die Festlegungen in Absatz 4 von § 13 Nummer 2
+abweichende Festlegungen treffen.
 
 
 ### § 9 Einwohnerzahl
@@ -378,27 +487,27 @@ Sonderbedarfs-Bundesergänzungszuweisungen:
 
 *    *   Brandenburg
 
-    *   15 580 000 Euro,
+    *   6 840 000 Euro,
 
 
 *    *   Mecklenburg-Vorpommern
 
-    *   10 496 000 Euro,
+    *   4 608 000 Euro,
 
 
 *    *   Sachsen
 
-    *   26 158 000 Euro,
+    *   11 484 000 Euro,
 
 
 *    *   Sachsen-Anhalt
 
-    *   15 334 000 Euro,
+    *   6 732 000 Euro,
 
 
 *    *   Thüringen
 
-    *   14 432 000 Euro.
+    *   6 336 000 Euro.
 
 
 
@@ -416,56 +525,62 @@ ermitteln.
 
 (4) Wegen überdurchschnittlich hoher Kosten politischer Führung
 erhalten nachstehende Länder jährlich folgende Sonderbedarfs-
-Bundesergänzungszuweisungen:
+Bundesergänzungszuweisungen, wenn sie im jeweiligen Ausgleichsjahr das
+Kriterium der Leistungsschwäche gemäß Absatz 2 Satz 2 erfüllen:
 
 *    *   Berlin
 
-    *   58 671 000 Euro,
+    *   62 831 000 Euro,
 
 
 *    *   Brandenburg
 
-    *   80 674 000 Euro,
+    *   76 524 000 Euro,
 
 
 *    *   Bremen
 
-    *   60 332 000 Euro,
+    *   62 501 000 Euro,
+
+
+*    *   Hamburg
+
+    *   78 699 000 Euro,
 
 
 *    *   Mecklenburg-Vorpommern
 
-    *   71 959 000 Euro,
+    *   77 987 000 Euro,
 
 
 *    *   Rheinland-Pfalz
 
-    *   48 337 000 Euro,
+    *   54 410 000 Euro,
 
 
 *    *   Saarland
 
-    *   66 309 000 Euro,
+    *   70 652 000 Euro,
 
 
 *    *   Sachsen
 
-    *   47 371 000 Euro,
+    *   54 510 000 Euro,
 
 
 *    *   Sachsen-Anhalt
 
-    *   70 993 000 Euro,
+    *   78 157 000 Euro,
 
 
 *    *   Schleswig-Holstein
 
-    *   66 308 000 Euro,
+    *   72 969 000 Euro,
 
 
 *    *   Thüringen
 
-    *   71 432 000 Euro.
+    *   78 404 000 Euro.
 
 
 
@@ -513,20 +628,6 @@ Das Bundesministerium der Finanzen stellt nach Ablauf des
 Ausgleichsjahres die endgültige Höhe der Länderanteile an der
 Umsatzsteuer durch Rechtsverordnung fest, die der Zustimmung des
 Bundesrates bedarf.
-
-
-### § 12a Abweichende Bestimmungen für die Ausgleichsjahre 2022 und 2023
-
-Für die Ausgleichsjahre 2022 und 2023 sind in der Rechtsverordnung
-nach § 12 die Unterschiede zwischen den fortgeschriebenen
-Einwohnerzahlen der Länder auf der Grundlage des Zensus 2022
-einerseits und den fortgeschriebenen Einwohnerzahlen der Länder auf
-der Grundlage des Zensus 2011 andererseits wie folgt zu
-berücksichtigen: Die Einwohnerzahlen der Länder nach den §§ 2, 7
-Absatz 3 und § 9 Absatz 1 werden ermittelt, indem den Einwohnerzahlen
-der Länder auf der Grundlage des Zensus 2011 für das Ausgleichsjahr
-2022 ein Drittel und für das Ausgleichsjahr 2023 zwei Drittel der
-Unterschiede nach Satz 1 hinzugerechnet werden.
 
 
 ### § 13 Verteilung der Umsatzsteuer und Vollzug des Finanzkraftausgleichs während des Ausgleichsjahres
@@ -584,7 +685,10 @@ Gesetzesänderungen mit Auswirkungen auf die Umsatzsteueranteile nach §
 
 (2) Der Länderanteil an der durch Bundesfinanzbehörden verwalteten
 Einfuhrumsatzsteuer wird auf die Länder nach der Einwohnerzahl
-verteilt und in monatlichen Teilbeträgen überwiesen.
+verteilt und in monatlichen Teilbeträgen überwiesen. Im Ausgleichsjahr
+2024 gilt ein Betrag von 1 750 000 000 Euro aus der in den Monaten
+Januar bis Juni überwiesenen Teilbetragssumme als Abschlagszahlung auf
+eine flüchtlingskostenbezogene Pro-Kopf-Pauschale.
 
 (3) Die Differenzen der vorläufigen Umsatzsteueranteile, Zuschläge und
 Abschläge nach § 13 zu den auf der Grundlage der tatsächlichen
@@ -607,7 +711,7 @@ trifft die für den Überweisungsverkehr erforderlichen Anordnungen.
 
 ### § 16 Zahlungsverkehr zum Vollzug der Bundesergänzungszuweisungen
 
-(1) Auf die Bundesergänzungszuweisungen nach § 11 Absatz 2 und 5
+(1) Auf die Bundesergänzungszuweisungen nach § 11 Absatz 2, 4, 5 und 6
 werden am 15. März, 15. Juni, 15. September und 15. Dezember
 Abschlagszahlungen nach Maßgabe der Verhältnisse des jeweils
 vorhergehenden Abrechnungszeitraums entrichtet. Gleichzeitig werden
@@ -615,9 +719,9 @@ die mit der Abschlagszahlung des vorausgegangenen Zahlungstermins zu
 viel oder zu wenig gezahlten Beträge verrechnet. Für die endgültige
 Abrechnung der Bundesergänzungszuweisungen gilt § 15 entsprechend.
 
-(2) Die Bundesergänzungszuweisungen nach § 11 Absatz 3, 4 und 6 sind
-mit je einem Viertel ihres Betrages am 15. März, 15. Juni, 15.
-September und 15. Dezember fällig.
+(2) Die Bundesergänzungszuweisungen nach § 11 Absatz 3 sind mit je
+einem Viertel ihres Betrages am 15. März, 15. Juni, 15. September und
+15\. Dezember fällig.
 
 
 ### § 17 Vollzug der Verteilung des Gemeindeanteils an der Umsatzsteuer

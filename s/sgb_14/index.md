@@ -1,5 +1,5 @@
 ---
-Title: Sozialgesetzbuch Vierzehntes Buch – Soziale Entschädigung –
+Title: Sozialgesetzbuch Vierzehntes Buch - Soziale Entschädigung -
 jurabk: SGB 14
 layout: default
 origslug: sgb_14
@@ -7,7 +7,7 @@ slug: sgb_14
 
 ---
 
-# Sozialgesetzbuch Vierzehntes Buch – Soziale Entschädigung – (SGB 14)
+# Sozialgesetzbuch Vierzehntes Buch - Soziale Entschädigung - (SGB 14)
 
 Ausfertigungsdatum
 :   2019-12-12
@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2019, 2652
 
 Zuletzt geändert durch
-:   Art. 11 G v. 22.12.2023 I Nr. 408
+:   Art. 1 V v. 13.6.2025 I Nr. 144
 
 
 ## Kapitel 1 - Allgemeine Vorschriften
@@ -273,18 +273,20 @@ den Entschädigungsanspruch bestehen.
 (2) Treffen Ansprüche aus mehreren schädigenden Ereignissen nach § 1
 Absatz 2 zusammen, so ist ein einheitlicher Grad der Schädigungsfolgen
 festzusetzen. Dies gilt auch, wenn Ansprüche aus diesem Gesetz mit
-Ansprüchen aus anderen Gesetzen, die eine entsprechende Anwendung
-dieses Gesetzes vorsehen, zusammentreffen.
+Ansprüchen nach dem Soldatenentschädigungsgesetz oder aus anderen
+Gesetzen, die eine entsprechende Anwendung dieses Gesetzes vorsehen,
+zusammentreffen.
 
 (3) Ansprüche nach dem Siebten Buch, nach dem
-Soldatenversorgungsgesetz oder nach der beamtenrechtlichen
+Soldatenentschädigungsgesetz oder nach der beamtenrechtlichen
 Unfallfürsorge gehen den Ansprüchen nach diesem Buch vor, soweit beide
 Ansprüche auf derselben Ursache beruhen. Der Anspruch auf Leistungen
 nach diesem Buch ruht in Höhe der Versorgung aus der gesetzlichen
-Unfallversicherung oder nach dem Soldatenversorgungsgesetz und in Höhe
-des Unterschiedsbetrags zwischen einer Versorgung nach allgemeinen
-beamtenrechtlichen Bestimmungen und aus der beamtenrechtlichen
-Unfallfürsorge, soweit beide Ansprüche auf derselben Ursache beruhen.
+Unfallversicherung oder nach dem Soldatenentschädigungsgesetz und in
+Höhe des Unterschiedsbetrags zwischen einer Versorgung nach
+allgemeinen beamtenrechtlichen Bestimmungen und aus der
+beamtenrechtlichen Unfallfürsorge, soweit beide Ansprüche auf
+derselben Ursache beruhen.
 
 
 #### § 9 Ausschluss der Pfändbarkeit von Ansprüchen
@@ -1237,10 +1239,11 @@ Leistungsbemessungsgrenze ist der 360. Teil der jährlichen
 Beitragsbemessungsgrenze der allgemeinen Rentenversicherung.
 
 (5) Haben Geschädigte von einem anderen Rehabilitationsträger
-Krankengeld, Versorgungskrankengeld, Verletztengeld oder Übergangsgeld
-bezogen und ist ihnen im Anschluss daran Krankengeld der Sozialen
-Entschädigung zu zahlen, so ist bei dessen Berechnung von dem bisher
-zugrunde gelegten Entgelt auszugehen.
+Krankengeld, Versorgungskrankengeld, Krankengeld der
+Soldatenentschädigung, Verletztengeld oder Übergangsgeld bezogen und
+ist ihnen im Anschluss daran Krankengeld der Sozialen Entschädigung zu
+zahlen, so ist bei dessen Berechnung von dem bisher zugrunde gelegten
+Entgelt auszugehen.
 
 (6) Für die nach dem Künstlersozialversicherungsgesetz Versicherten
 sowie für Versicherte, die eine Wahlerklärung nach § 44 Absatz 2 Satz
@@ -2486,19 +2489,19 @@ landesrechtlichen Leistungen für blindheitsbedingte Mehraufwendungen.
 
 (1) Geschädigte erhalten eine monatliche Entschädigungszahlung von
 
-1.  400 Euro bei einem Grad der Schädigungsfolgen von 30 und 40,
+1.  434 Euro bei einem Grad der Schädigungsfolgen von 30 und 40,
 
 
-2.  800 Euro bei einem Grad der Schädigungsfolgen von 50 und 60,
+2.  868 Euro bei einem Grad der Schädigungsfolgen von 50 und 60,
 
 
-3.  1 200 Euro bei einem Grad der Schädigungsfolgen von 70 und 80,
+3.  1 302 Euro bei einem Grad der Schädigungsfolgen von 70 und 80,
 
 
-4.  1 600 Euro bei einem Grad der Schädigungsfolgen von 90,
+4.  1 736 Euro bei einem Grad der Schädigungsfolgen von 90,
 
 
-5.  2 000 Euro bei einem Grad der Schädigungsfolgen von 100.
+5.  2 169 Euro bei einem Grad der Schädigungsfolgen von 100.
 
 
 
@@ -2556,9 +2559,9 @@ Entschädigungszahlungen für die Dauer von fünf Jahren abgegolten.
 
 #### § 85 Monatliche Entschädigungszahlung an Witwen und Witwer sowie an Partner einer eheähnlichen Gemeinschaft
 
-(1) Eine monatliche Entschädigungszahlung in Höhe von 1 055 Euro
+(1) Eine monatliche Entschädigungszahlung in Höhe von 1 144 Euro
 erhält die Witwe oder der Witwer des oder der schädigungsbedingt
-verstorbenen Geschädigten. Dieser Betrag erhöht sich um jeweils 50
+verstorbenen Geschädigten. Dieser Betrag erhöht sich um jeweils 54
 Euro monatlich für jedes im Haushalt lebende minderjährige Kind, das
 eine monatliche Entschädigungszahlung für Waisen bezieht oder einen
 monatlichen Betrag nach § 144 Absatz 1 erhält, in dem eine
@@ -2583,7 +2586,7 @@ Gemeinschaft heiraten.
 monatlichen Entschädigungszahlung. Der Antrag ist innerhalb eines
 Jahres nach Bewilligung der Entschädigungszahlung zu stellen.
 
-(2) Die Abfindung beträgt 126 600 Euro. Auf die Abfindung sind bereits
+(2) Die Abfindung beträgt 137 337 Euro. Auf die Abfindung sind bereits
 geleistete monatliche Entschädigungszahlungen anzurechnen.
 
 (3) Mit der Zahlung der Abfindung sind alle Ansprüche auf die
@@ -2593,10 +2596,10 @@ monatlichen Entschädigungszahlungen abgegolten.
 #### § 87 Monatliche Entschädigungszahlung an Waisen
 
 (1) Waisen eines schädigungsbedingt verstorbenen Elternteils erhalten
-jeweils eine monatliche Entschädigungszahlung in Höhe von 390 Euro.
+jeweils eine monatliche Entschädigungszahlung in Höhe von 423 Euro.
 
 (2) Waisen schädigungsbedingt verstorbener Eltern erhalten jeweils
-eine monatliche Entschädigungszahlung in Höhe von 610 Euro.
+eine monatliche Entschädigungszahlung in Höhe von 662 Euro.
 
 (3) Die monatlichen Entschädigungszahlungen werden gezahlt, bis die
 Waise 18 Jahre alt wird.
@@ -2643,10 +2646,10 @@ das 18. Lebensjahr vollendet hätte.
 (2) Die monatliche Entschädigungszahlung an Eltern beträgt für jedes
 Kind, das an den Folgen der Schädigung gestorben ist,
 
-1.  für ein noch lebendes Elternteil 250 Euro,
+1.  für ein noch lebendes Elternteil 271 Euro,
 
 
-2.  für beide Elternteile je 150 Euro.
+2.  für beide Elternteile je 163 Euro.
 
 
 
@@ -2951,11 +2954,11 @@ Sechsten Buches sind.
 (1) Geschädigte erhalten Leistungen zum Lebensunterhalt.
 Hinterbliebene erhalten Leistungen nach Satz 1 für einen Zeitraum von
 bis zu fünf Jahren nach dem Tod der oder des Geschädigten. Die
-Vorschriften des Dritten und Vierten Kapitels des Zwölften Buches
-gelten entsprechend unter Berücksichtigung der besonderen Lage der
-Geschädigten und Hinterbliebenen. Leistungen zum Lebensunterhalt
-werden nur erbracht, soweit der Lebensunterhalt nicht aus den übrigen
-Leistungen nach diesem Gesetz bestritten werden kann.
+Vorschriften des Dritten und Vierten Kapitels sowie § 145 Absatz 1 und
+2 des Zwölften Buches gelten entsprechend unter Berücksichtigung der
+besonderen Lage der Geschädigten und Hinterbliebenen. Leistungen zum
+Lebensunterhalt werden nur erbracht, soweit der Lebensunterhalt nicht
+aus den übrigen Leistungen nach diesem Gesetz bestritten werden kann.
 
 (2) Sind für Geschädigte und Waisen Leistungen zum Lebensunterhalt
 während der Erbringung von Leistungen nach dem Achten Buch
@@ -3270,20 +3273,20 @@ können Kosten, die anderweitig nicht gedeckt sind, nach § 51
 
 (4) Geschädigte erhalten Einmalzahlungen in Höhe von
 
-1.  2 600 Euro bei einem Grad der Schädigungsfolgen von mindestens 30,
+1.  2 821 Euro bei einem Grad der Schädigungsfolgen von mindestens 30,
     aber weniger als 50,
 
 
-2.  7 800 Euro bei einem Grad der Schädigungsfolgen von 50 und 60,
+2.  8 461 Euro bei einem Grad der Schädigungsfolgen von 50 bis 60,
 
 
-3.  13 000 Euro bei einem Grad der Schädigungsfolgen von 70 und 80,
+3.  14 102 Euro bei einem Grad der Schädigungsfolgen von 70 und 80,
 
 
-4.  20 800 Euro bei einem Grad der Schädigungsfolgen von 90,
+4.  22 564 Euro bei einem Grad der Schädigungsfolgen von 90,
 
 
-5.  28 600 Euro bei einem Grad der Schädigungsfolgen von 100.
+5.  31 026 Euro bei einem Grad der Schädigungsfolgen von 100.
 
 
 
@@ -3291,9 +3294,8 @@ können Kosten, die anderweitig nicht gedeckt sind, nach § 51
 (5) Ist eine Person, bei der die Voraussetzungen nach Absatz 1
 vorliegen, an den Folgen der Schädigung gestorben, erhalten
 Hinterbliebene eine Einmalzahlung. Die Einmalzahlung beträgt bei
-Halbwaisen
-2 600 Euro,              bei Vollwaisen 3 500 Euro und bei weiteren
-Hinterbliebenen 7 800 Euro.
+Halbwaisen 2 821 Euro, bei Vollwaisen 3 797 Euro und bei weiteren
+Hinterbliebenen 8 461 Euro.
 
 (6) Angehörige und Hinterbliebene haben Anspruch auf Leistungen der
 Schnellen Hilfen. Diese werden im Inland erbracht. Überführungs- und
@@ -4589,7 +4591,7 @@ Witwen und Witwer erhalten einen monatlichen Pflegeausgleich, wenn
 
 
 Der monatliche Pflegeausgleich beträgt für jedes Jahr der über zehn
-Jahre hinausgehenden Pflegezeit 20 Euro. Kalendermonate, in denen die
+Jahre hinausgehenden Pflegezeit 22 Euro. Kalendermonate, in denen die
 Pflege nicht unentgeltlich geleistet wurde, werden dabei nicht
 mitgezählt. Die anzurechnende Gesamtpflegezeit wird auf volle Jahre
 aufgerundet.
@@ -4662,8 +4664,8 @@ hatte.
 Nummer 1 und 2 genannten Leistungen muss im Zeitpunkt des Todes des
 Geschädigten bestanden haben.
 
-(5) Die monatliche Entschädigungszahlung beträgt 500 Euro. Sie beträgt
-750 Euro für Witwen und Witwer von Geschädigten mit einem Grad der
+(5) Die monatliche Entschädigungszahlung beträgt 543 Euro. Sie beträgt
+813 Euro für Witwen und Witwer von Geschädigten mit einem Grad der
 Schädigungsfolgen von 100.
 
 (6) Berechtigte nach Absatz 1 erhalten auf Antrag eine Abfindung
@@ -4671,8 +4673,8 @@ anstelle der monatlichen Entschädigungszahlung. Der Antrag ist
 innerhalb eines Jahres nach Bewilligung der Entschädigungszahlung zu
 stellen.
 
-(7) Die Abfindung beträgt 60 000 Euro bei einer monatlichen
-Entschädigungszahlung nach Absatz 5 Satz 1, 90 000 Euro bei einer
+(7) Die Abfindung beträgt 65 089 Euro bei einer monatlichen
+Entschädigungszahlung nach Absatz 5 Satz 1, 97 633 Euro bei einer
 monatlichen Entschädigungszahlung nach Absatz 5 Satz 2.
 
 (8) Auf die Abfindung sind bereits geleistete monatliche

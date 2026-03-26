@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2021, 3920
 
+Geändert durch
+:   Art. 1 V v. 4.6.2025 I Nr. 140
+
 
 ## Eingangsformel
 
@@ -78,10 +81,9 @@ anzuwenden.
 Diese Verordnung tritt am 1. Oktober 2021 in Kraft.
 
 
-## Anlage 1 Gebühren- und Auslagenverzeichnis
+## Anlage 1 Gebühren- und Auslageverzeichnis
 
-(Fundstelle: BGBl. I 2021, 3922 - 3925)
-
+(Fundstelle: BGBl. 2025 I Nr. 140, S. 1 – 4)
 
 
 *    *   Nummer
@@ -92,9 +94,10 @@ Diese Verordnung tritt am 1. Oktober 2021 in Kraft.
         in Euro
 
 
-*    *   I. ****
+*    *   **I.**
 
-    *   Auslandsgebühren und Auslagen ****
+    *   **Auslandsgebühren und Auslagen der Auslandsvertretungen (AVs) und
+        Honorarkonsularbeamten (HKs)**
 
     *
 
@@ -120,18 +123,18 @@ Diese Verordnung tritt am 1. Oktober 2021 in Kraft.
 *    *   1.2.1
 
     *   Beschaffung von Bescheinigungen, Urkunden oder von sonstigen
-        Schriftstücken in Deutschland (oder im Land der Auslandsvertretung),
-        sofern nicht Teil einer anderen gebührenpflichtigen individuell
-        zurechenbaren öffentlichen Leistung.
-        Erläuterung: Bei der gleichzeitigen Beschaffung von mehreren
-        Bescheinigungen, Urkunden oder sonstigen Schriftstücken bei einer
-        Stelle ist die Gebühr nur einmal zu erheben. Bei der gleichzeitigen
-        Beschaffung von Bescheinigungen, Urkunden oder sonstigen
-        Schriftstücken bei verschiedenen Stellen ist die Gebühr mehrfach zu
-        erheben.
+        Schriftstücken in Deutschland (oder im Land der Auslandsvertretung)
 
-    *   87,86 bis 115,38
+    *   93,00 bis 122,00
         (Festgebühr in Abhängigkeit von der Zonenstufe)
+
+
+*    *   Erläuterung:
+        Bei der gleichzeitigen Beschaffung von mehreren Bescheinigungen,
+        Urkunden oder sonstigen Schriftstücken bei einer Stelle ist die Gebühr
+        nur einmal zu erheben. Bei der gleichzeitigen Beschaffung von
+        Bescheinigungen, Urkunden oder sonstigen Schriftstücken bei
+        verschiedenen Stellen ist die Gebühr mehrfach zu erheben.
 
 
 *    *   1.2.2
@@ -153,7 +156,7 @@ Diese Verordnung tritt am 1. Oktober 2021 in Kraft.
 
     *   Mahnschreiben im Auftrag Dritter
 
-    *   52,18 bis 63,29
+    *   54,00 bis 68,00
         (Festgebühr in Abhängigkeit von der Zonenstufe)
 
 
@@ -167,15 +170,9 @@ Diese Verordnung tritt am 1. Oktober 2021 in Kraft.
 
 *    *   1.5
 
-    *   Übersendung, ausgenommen Sendungen, die in sachlichem Zusammenhang mit
-        einer anderen gebührenpflichtigen individuell zurechenbaren
-        öffentlichen Leistung stehen oder die für deutsche Behörden oder
-        Gerichte bestimmt sind.
-        Erläuterung: Bei der Übersendung von Fund-, Verwahrungs- und
-        Nachlasssachen sind stets Gebühren nach dieser Gebührennummer zu
-        veranschlagen.
+    *   Übersendung von Fund-, Verwahrungs- und Nachlasssachen.
 
-    *   66,04
+    *   71,00
 
 
 *    *   1.6
@@ -217,25 +214,31 @@ Diese Verordnung tritt am 1. Oktober 2021 in Kraft.
 
     *   Amtliche Verwahrung von Geld, Wertpapieren und Kostbarkeiten
         (Überweisungsgebühren inbegriffen)
-        Erläuterung: Wird Geld in unterschiedlichen Währungen für die gleiche
-        Person verwahrt, so sind die Gebühren nach dieser Gebührennummer nur
-        einmalig zu entrichten.
 
-    *   71,69
+    *   76,00
+
+
+*    *   Erläuterung:
+        Wird Geld in unterschiedlichen Währungen für die gleiche Person
+        verwahrt, so sind die Gebühren nach dieser Gebührennummer nur einmalig
+        zu entrichten.
 
 
 *    *   1.7.2
 
     *   Amtliche Verwahrung von sonstigen beweglichen Sachen
-        Erläuterung: Bei der Verwahrung mehrerer zusammen abgegebener
-        Verwahrungs- und Fundsachen für dieselbe Person können diese
-        abrechnungstechnisch zu einem Vorgang zusammengefasst und Gebühren
-        einmalig über diese Gebührennummer abgerechnet werden. Werden Geld,
-        Wertpapiere und Kostbarkeiten zusammen mit sonstigen beweglichen
-        Sachen für die gleiche Person verwahrt, so ist die Gebühr einmalig
-        nach Nummer 1.7.1 zu vereinnahmen.
 
-    *   56,69
+    *   61,00
+
+
+*    *   Erläuterung:
+        Bei der Verwahrung mehrerer zusammen abgegebener Verwahrungs- und
+        Fundsachen für dieselbe Person können diese abrechnungstechnisch zu
+        einem Vorgang zusammengefasst und Gebühren einmalig über diese
+        Gebührennummer abgerechnet werden.
+        Werden Geld, Wertpapiere und Kostbarkeiten zusammen mit sonstigen
+        beweglichen Sachen für die gleiche Person verwahrt, so ist die Gebühr
+        einmalig nach Nummer 1.7.1 zu vereinnahmen.
 
 
 *    *   1.8
@@ -248,12 +251,10 @@ Diese Verordnung tritt am 1. Oktober 2021 in Kraft.
 
 *    *   1.9
 
-    *   Persönliche Herausgabe von verwahrten Sachen (Geld, Kostbarkeiten,
-        Wertpapieren oder Gegenständen)
-        Erläuterung: Ist eine Sache verwertet worden, können die Gebühren und
-        Auslagen aus dem Erlös gedeckt werden.
+    *   Persönliche Herausgabe der an AVs oder bei HKs verwahrten Sachen
+        (Geld, Wertpapiere, Kostbarkeiten oder sonstige bewegliche Sachen)
 
-    *   46,71
+    *   50,00
 
 
 *    *   **2**
@@ -264,17 +265,18 @@ Diese Verordnung tritt am 1. Oktober 2021 in Kraft.
 
 *    *   2.1
 
-    *   Privatschriftliche Erklärung; Fertigung des Entwurfs einer
-        privatschriftlichen Erklärung zur Erledigung von Familiensachen, in
-        Angelegenheiten der freiwilligen Gerichtsbarkeit und in
-        Nachlassangelegenheiten
+    *   Fertigung des Entwurfs einer formlosen privatschriftlichen Erklärung
+        zur Erledigung von Familiensachen, in Angelegenheiten der freiwilligen
+        Gerichtsbarkeit und in Nachlassangelegenheiten, sofern nicht Teil
+        einer anderen individuell zurechenbaren öffentlichen Leistung.
 
-    *   56,98
+    *   61,00
 
 
 *    *   **3**
 
-    *   **Hilfeleistung nach § 5 und § 6 KonsG**
+    *   **Hilfeleistungen nach den §§ 5 und 6 sowie Haftbetreuung nach § 7
+        KonsG**
 
     *
 
@@ -283,13 +285,17 @@ Diese Verordnung tritt am 1. Oktober 2021 in Kraft.
     *   Gesamtheit der verwaltungsmäßig erforderlichen individuell
         zurechenbaren öffentlichen Leistungen mit dem Ziel der Gewährung einer
         Hilfe zur Behebung einer Notlage oder zur Schutzgewährung bei
-        Schadensereignissen
-        Erläuterung: Werden mehrere Stellen (AVs oder HKs) mit demselben
-        Hilfeleistungsfall befasst, so erhebt jede Stelle die bei ihr
-        angefallenen Gebühren und Auslagen. Auslagen werden von AVs und HKs
-        auch erhoben, wenn sie in der Zentrale angefallen sind.
+        Schadensereignissen sowie im Zusammenhang mit der Betreuung von
+        inhaftierten deutschen Personen.
 
     *   nach Zeitaufwand
+
+
+*    *   Erläuterung:
+        Werden mehrere Stellen (AVs oder HKs) mit demselben Hilfeleistungsfall
+        befasst, so werden die bei jeder Stelle angefallenen Gebühren und
+        Auslagen erhoben. Auslagen werden von AVs und HKs auch erhoben, wenn
+        sie in der Zentrale angefallen sind.
 
 
 *    *   **4**
@@ -308,7 +314,7 @@ Diese Verordnung tritt am 1. Oktober 2021 in Kraft.
 
     *   Leichenpass oder Urnenbescheinigung
 
-    *   64,07
+    *   68,00
 
 
 *    *   4.1.2
@@ -328,14 +334,14 @@ Diese Verordnung tritt am 1. Oktober 2021 in Kraft.
 
 *    *   **5**
 
-    *   **Beglaubigungen, Bescheinigungen und Beurkundungen nach § 10 bis § 12
-        KonsG**
+    *   **Beglaubigungen, Bescheinigungen und Beurkundungen nach den §§ 10 bis
+        12 KonsG**
 
     *
 
 *    *   5.1
 
-    *   Beglaubigung                      (Vermerk)
+    *   Beglaubigung
 
     *
 
@@ -346,7 +352,7 @@ Diese Verordnung tritt am 1. Oktober 2021 in Kraft.
         Namensführung aufgrund familienrechtlicher Vorschriften in einem
         Beglaubigungsvermerk
 
-    *   79,57
+    *   85,00
 
 
 *    *   5.1.2
@@ -354,18 +360,21 @@ Diese Verordnung tritt am 1. Oktober 2021 in Kraft.
     *   Beglaubigung einer oder mehrerer Unterschriften oder Handzeichen in
         sonstigen Angelegenheiten in einem Beglaubigungsvermerk
 
-    *   56,43
+    *   60,00
 
 
 *    *   5.1.3
 
-    *   Beglaubigung einer **durch die AV angefertigten Kopie**
-        eines Schriftstücks (unabhängig von der Seitenzahl des Schriftstücks)
-        Erläuterung: In der Gebühr sind die Kosten für die Kopien bereits
-        enthalten.
+    *   Beglaubigung einer durch die AVs/HKs angefertigten Kopie eines
+        Schriftstücks (unabhängig von der Seitenzahl des Schriftstücks)
 
-    *   22,92 bis 31,50
+    *   24,00 bis 33,00
         (Festgebühr in Abhängigkeit von der Zonenstufe)
+
+
+*    *   Erläuterung:
+        In der Gebühr sind die Kosten für die Herstellung der Kopien bereits
+        enthalten.
 
 
 *    *   5.2
@@ -378,135 +387,114 @@ Diese Verordnung tritt am 1. Oktober 2021 in Kraft.
 
     *   Konsularische Bescheinigung mit Vorlage
 
-    *   34,07
+    *   36,00
 
 
 *    *   5.2.2
 
     *   Konsularische Bescheinigung ohne Vorlage
 
-    *   70,33
+    *   75,00
 
 
 *    *   5.3
 
     *   Beurkundung
-        Erläuterung: Mit der Gebühr für die Beurkundung wird die Erteilung
-        einer Ausfertigung oder beglaubigten Kopie für jeden Beteiligten
-        abgegolten.
 
     *
 
+*    *   Erläuterung:
+        Mit der Gebühr für die Beurkundung wird die Erteilung einer
+        Ausfertigung oder beglaubigten Kopie für jeden Beteiligten abgegolten.
+
+
 *    *   5.3.1
 
-    *   Willenserklärungen und eidesstattliche Versicherungen
+    *   Willenserklärungen in familienrechtlichen Angelegenheiten und
+        eidesstattliche Versicherungen
 
     *
 
 *    *   5.3.1.1
 
-    *   Vorbereitung der Beurkundung von Willenserklärungen in folgenden
-        Angelegenheiten: Vaterschaftsanerkennung, Sorgerecht, Adoption,
-        Unterhalt; Vorbereitung der Beurkundung von Erklärungen über Tatsachen
-        oder Vorgänge und eidesstattlichen Versicherungen
-        Erläuterung: Die Gebühr wird nur erhoben, wenn der zu beurkundende
-        Text neu konzipiert wird.
+    *   Vorbereitung der Beurkundung von Willenserklärungen in
+        familienrechtlichen Angelegenheiten;
+        Vorbereitung der Beurkundung von Erklärungen über Tatsachen oder
+        Vorgänge sowie von eidesstattlichen Versicherungen
 
-    *   119,27 bis 146,11
+    *   124,00 bis 159,00
         (Festgebühr in Abhängigkeit von der Zonenstufe)
+
+
+*    *   Erläuterung:
+        Die Gebühr wird nur erhoben, wenn der zu beurkundende Text neu
+        konzipiert wird.
 
 
 *    *   5.3.1.2
 
-    *   Vornahme von Beurkundungen von Willenserklärungen in folgenden
-        Angelegenheiten: Vaterschaftsanerkennung, Sorgerecht, Adoption,
-        Unterhalt; Beurkundung von Erklärungen über Tatsachen oder Vorgänge
-        und eidesstattlichen Versicherungen
+    *   Beurkundung von Willenserklärungen in familienrechtlichen
+        Angelegenheiten;
+        Beurkundung von Erklärungen über Tatsachen oder Vorgänge sowie von
+        eidesstattlichen Versicherungen
 
-    *   84,22 bis 103,69
+    *   87,00 bis 113,00
         (Festgebühr in Abhängigkeit von der Zonenstufe)
 
 
 *    *   5.3.2
 
-    *   Antrag auf Erbschein, Nachlasszeugnis, Zeugnis über Fortsetzung der
-        Gütergemeinschaft
+    *   Anträge verbunden mit eidesstattlichen Versicherungen in
+        erbrechtlichen Angelegenheiten
 
     *
 
 *    *   5.3.2.1
 
-    *   Vorbereitung des Antrages auf Erlangung eines Erbscheins, eines
+    *   Vorbereitung des Antrags auf Erlangung eines Erbscheins, eines
         Europäischen Nachlasszeugnisses, eines
         Testamentsvollstreckerzeugnisses oder eines Zeugnisses über die
         Fortsetzung der Gütergemeinschaft, einschließlich der eidesstattlichen
         Versicherung.
-        Erläuterung: Die Gebühr wird nur erhoben, wenn der zu beurkundende
-        Text neu konzipiert wird.
 
-    *   240,71 bis 299,18
+    *   249,00 bis 327,00
         (Festgebühr in Abhängigkeit von der Zonenstufe)
+
+
+*    *   Erläuterung:
+        Die Gebühr wird nur erhoben, wenn der zu beurkundende Text neu
+        konzipiert wird.
 
 
 *    *   5.3.2.2
 
-    *   Vornahme einer Beurkundung eines Antrages auf Erlangung eines
-        Erbscheins, eines Europäischen Nachlasszeugnisses, eines
+    *   Beurkundung eines Antrags auf Erlangung eines Erbscheins, eines
+        Europäischen Nachlasszeugnisses, eines
         Testamentsvollstreckerzeugnisses oder eines Zeugnisses über die
         Fortsetzung der Gütergemeinschaft, einschließlich der eidesstattlichen
         Versicherung
 
-    *   127,31 bis 155,88
+    *   132,00 bis 170,00
         (Festgebühr in Abhängigkeit von der Zonenstufe)
 
 
 *    *   5.3.3
 
-    *   Sonstige Beurkundungen, z. B.
-        Beschluss einer Hauptversammlung, eines Aufsichtsrats oder eines
-        sonstigen Organs einer Kapitalgesellschaft, einer anderen Vereinigung
-        oder Stiftung
-        Vertrag, gemeinschaftliches Testament
-        Ergänzung oder Änderung eines Vertrags oder eines gemeinschaftlichen
-        Testaments
-        Gleichzeitige Beurkundung eines Erbvertrags mit einem Ehevertrag oder
-        einem Lebenspartnerschaftsvertrag
-        Beurkundung der Anerkennung des Inhalts einer schriftlich abgegebenen
-        Erklärung einschließlich der Beurkundung ergänzender oder ändernder
-        Erklärungen
-        Erläuterung: Für die Beurkundung eines Widerrufs einer letztwilligen
-        Verfügung, der Aufhebung oder Anfechtung eines Erbvertrags oder des
-        Rücktritts von einem Erbvertrag wird eine Gebühr nicht erhoben, wenn
-        gleichzeitig eine neue letztwillige Verfügung oder ein neuer
-        Erbvertrag beurkundet wird.
-        Bei Änderung eines Gesellschaftsvertrags oder einer Satzung wird die
-        für die Anmeldung zum Handelsregister erforderliche Bescheinigung des
-        neuen vollständigen Wortlauts des Gesellschaftsvertrags oder der
-        Satzung mit dieser Gebühr abgegolten.
+    *   Sonstige Beurkundungen
 
     *   nach Zeitaufwand
 
 
-*    *
-    *   Hinweis/Achtung: Beim Entwurf einer Urkunde in einer Fremdsprache sind
-        zusätzlich zu den Gebühren nach Nummer 5.3.1 oder Nummer 5.3.2 oder
-        nach Nummer 5.3.3 auch Gebühren nach Nummer 1.6 zu berechnen.
-        Bei der Vorbereitung und der Vornahme von Beurkunden nach den Nummern
-        5\.3.1 und 5.3.2 ist für jedes Rechtsgeschäft eine separate Gebühr zu
-        erheben.
-
-    *
-
 *    *   5.4
 
-    *   Nachlassverzeichnis
+    *   Anlegen eines Nachlassverzeichnisses
 
     *   nach Zeitaufwand
 
 
 *    *   5.5
 
-    *   Vermögensverzeichnis
+    *   Anlegen eines Vermögensverzeichnisses
 
     *   nach Zeitaufwand
 
@@ -535,7 +523,7 @@ Diese Verordnung tritt am 1. Oktober 2021 in Kraft.
     *   Legalisation ausländischer öffentlicher Urkunden nach § 13 Absatz 2
         KonsG (Legalisation im engeren Sinn)
 
-    *   28,11 bis 37,41
+    *   30,00 bis 39,00
         (Festgebühr in Abhängigkeit von der Zonenstufe)
 
 
@@ -564,72 +552,69 @@ Diese Verordnung tritt am 1. Oktober 2021 in Kraft.
 *    *   **9**
 
     *   **Bei den Gebührentatbeständen der Nummern 1 bis 8 sind neben den
-        Gebühren die Kosten für Dienstreisen, Kosten für Bekanntmachungen,
-        Kosten für andere Behörden und Dritte sowie in Anspruch genommene
-        Sach- oder Geldleistungen als Auslagen zu erheben.**
+        Gebühren die Kosten für Dienstreisen sowie Kosten für andere Behörden
+        und Dritte als Auslagen zu erheben.**
 
-    *
+    *   in tatsächlich entstandener Höhe
 
-*    *
-    *   **Sind individuell zurechenbare öffentliche Leistungen gebührenbefreit
-        oder ermäßigt und sind Schreibauslagen für Ausfertigungen, Abschriften
-        und Auszüge, die auf besonderen Antrag erteilt werden, als Auslagen
-        abzurechnen, so bestimmt sich die Auslage nach Nummer 31000 Nr. 1 und
-        2 des Kostenverzeichnisses zum Gerichts- und Notarkostengesetz.**
-        Erläuterung: Kosten für Dienstreisen umfassen die Kosten für
-        Reisemittel (ausgenommen behördeneigene Fahrzeuge), Übernachtungen,
-        Reisezeiten sowie Wartezeiten am Ort des Dienstgeschäfts.
 
-    *
+*    *   Erläuterung:
+        Kosten für Dienstreisen umfassen die Kosten für Reisemittel
+        (ausgenommen AV-eigene Fahrzeuge), Übernachtungskosten, Reisezeiten
+        sowie Wartezeiten am Ort des Dienstgeschäfts, gemäß Anlage 2.
+
 
 *    *   **10**
 
-    *   **Annahme von Anträgen im Pass- und Personalausweisverfahren durch
-        Honorarkonsularbeamte nach § 25a Absatz 1 Satz 2 KonsG in der Fassung
-        vom 25. März 2020**
+    *   **Annahme von Anträgen im Pass- und Personalausweisverfahren durch HKs
+        nach § 25a Absatz 1 Satz 2 KonsG in der Fassung vom 25. März 2020**
 
     *
 
 *    *   10.1
 
-    *   Annahme und Weiterleitung des Pass- oder Personalausweisantrages durch
-        Honorarkonsularbeamte
+    *   Annahme und Weiterleitung des Pass- oder Personalausweisantrags durch
+        HKs
 
-    *   33,60 bis 96,50
-        (Festgebühr in Abhängigkeit von der Zonenstufe)
+    *   64,00 bis 105,00
+        (Festgebühr in Abhängigkeit der Abschnitte 1 bis 6 Anlage 1
+        AuslZuschlV)
 
 
 *    *   **11**
 
     *   **Bei dem Gebührentatbestand der Nummer 10.1 sind neben den Gebühren
         die Kosten für Porto und Dienstreisen als Auslagen zu erheben.**
-        Erläuterung: Kosten für Dienstreisen umfassen die Kosten für
-        Reisemittel, Übernachtungen, Reisezeiten sowie Wartezeiten am Ort des
-        Dienstgeschäfts.
 
-    *
+    *   in tatsächlich entstandener Höhe
+
+
+*    *   Erläuterung:
+        Kosten für Dienstreisen umfassen die Kosten für Reisemittel,
+        Übernachtungskosten, Reisezeiten sowie Wartezeiten am Ort des
+        Dienstgeschäfts, gemäß Anlage 2.
+
 
 *    *   **12**
 
-    *   **Auslagen, die nach § 1 Absatz 3 zu erheben sind, sind
-        insbesondere:**
-        **Kosten für Übersendung, Kosten für Dienstreisen, Kosten für
-        Bekanntmachungen, Kosten für andere Behörden und Dritte sowie in
-        Anspruch genommene Sach- oder Geldleistungen.**
-        **Sind individuell zurechenbare öffentliche Leistungen gebührenbefreit
-        oder ermäßigt und sind Schreibauslagen für Ausfertigungen, Abschriften
-        und Auszüge, die auf besonderen Antrag erteilt werden, als Auslagen
-        abzurechnen, so bestimmt sich die Auslage nach Nummer 31000 Nr. 1 und
-        2 des Kostenverzeichnisses zum Gerichts- und Notarkostengesetz.**
-        Erläuterung: Kosten für Dienstreisen umfassen die Kosten für
-        Reisemittel (ausgenommen behördeneigene Fahrzeuge), Übernachtungen,
-        Reisezeiten sowie Wartezeiten am Ort des Dienstgeschäfts.
+    *   In Fällen nach § 1 Absatz 3 dieser Verordnung (Gebühr nach einer
+        anderen Rechtsvorschrift) werden Auslagen erhoben für Übersendungen,
+        Dienstreisen, Bekanntmachungen, Schreibauslagen, Kosten für andere
+        Behörden und Dritte sowie in Anspruch genommene Sach- oder
+        Geldleistungen.
 
-    *
+    *   in tatsächlich entstandener Höhe
 
-*    *   II. ****
 
-    *   Inlandsgebühren und Auslagen ****
+*    *   Erläuterung:
+        Kosten für Dienstreisen umfassen die Kosten für Reisemittel
+        (ausgenommen AV-eigene Fahrzeuge), Übernachtungen, Reisezeiten sowie
+        Wartezeiten am Ort des Dienstgeschäfts.
+
+
+*    *   **II.**
+
+    *   **Inlandsgebühren und Auslagen**
 
     *
 
@@ -638,7 +623,7 @@ Diese Verordnung tritt am 1. Oktober 2021 in Kraft.
     *   **Bestätigung der Echtheit der von einem deutschen Konsularbeamten
         errichteten öffentlichen Urkunde**
 
-    *   18,04
+    *   nach Zeitaufwand
 
 
 *    *   **2**
@@ -647,336 +632,340 @@ Diese Verordnung tritt am 1. Oktober 2021 in Kraft.
         inländischen öffentlichen Urkunde durch einen ausländischen
         Konsularbeamten**
 
-    *   14,27
+    *   22,00
 
 
 *    *   **3**
 
     *   **Bei den Gebührentatbeständen der Nummern II.1 und II.2 sind neben
-        den Gebühren die Kosten für Bekanntmachungen, Kosten für andere
-        Behörden und Dritte sowie in Anspruch genommene Sach- oder
-        Geldleistungen als Auslagen zu erheben.**
-        **Sind individuell zurechenbare öffentliche Leistungen gebührenbefreit
-        oder ermäßigt und sind Schreibauslagen für Ausfertigungen, Abschriften
-        und Auszüge, die auf besonderen Antrag erteilt werden, als Auslagen
-        abzurechnen, so bestimmt sich die Auslage nach Nummer 31000 Nr. 1 und
-        2 des Kostenverzeichnisses zum Gerichts- und Notarkostengesetz.**
+        den Gebühren die Kosten für andere Behörden und Dritte als Auslagen zu
+        erheben.**
 
-    *
+    *   in tatsächlich entstandener Höhe
 
 
 
-## Anlage 2 Besondere pauschale Stundensätze des Auswärtigen Amts nach Anlage 2 AGebV in der ab 18. Februar 2021 gültigen Fassung (einschließlich Sacheinzelkosten und Gemeinkostenzuschlag)
-
-   (Fundstelle: BGBl. I 2021, 3926)
 
 
-Wenn Dienstreisen als Auslagen abzurechnen sind, muss der Stundensatz
-für Entsandte um 0,76 Euro und für lokal Beschäftigte/Honorarkonsuln
-um 0,37 Euro gekürzt werden.
+## Anlage 2 Besondere pauschale Stundensätze des Auswärtigen Amts
+
+(Fundstelle: BGBl. 2025 I Nr. 140, S. 5)
+
+Vorbemerkungen:
+
+1.  Die Festlegung der besonderen pauschalen Stundensätze des Auswärtigen
+    Amts beruht auf den Vorgaben der Anlage 2 AGebV in der ab 18. Februar
+    2021 gültigen Fassung (einschließlich Sacheinzelkosten und
+    Gemeinkostenzuschlag).
+
+
+2.  Wenn Dienstreisen als Auslagen abzurechnen sind, muss der Stundensatz
+    für Entsandte um 0,86 Euro und für lokal
+    Beschäftigte/Honorarkonsularbeamte um 0,59 Euro gekürzt werden.
+
+
+3.  Die Orte, an denen sich die AVs des Bundes befinden, sind gemäß § 53
+    des Bundesbesoldungsgesetzes in Verbindung mit der
+    Auslandszuschlagsverordnung in insgesamt 20 Zonenstufen eingeteilt.
+    Die Besoldung der entsandten Angehörigen des Auswärtigen Dienstes ist
+    von der Zonenstufe abhängig.
+
+
+
 
 *    *   Zonen-
         stufe
 
     *   einfacher Dienst
-        bzw. vergleichbarer
-        einfacher Dienst
+        bzw. vergleichbarer einfacher Dienst
 
     *   mittlerer Dienst
-        bzw. vergleichbarer
-        mittlerer Dienst
+        bzw. vergleichbarer mittlerer Dienst
 
-    *   gehobener Dienst
-        bzw. vergleichbarer
-        gehobener Dienst
+    *   gehobener Dienst bzw. vergleichbarer gehobener Dienst
 
     *   höherer Dienst
-        bzw. vergleichbarer
-        höherer Dienst
+        bzw. vergleichbarer höherer Dienst
 
     *   Lokal Beschäftigte/
-        Honorarkonsuln
+        Honorarkonsular-
+        beamte
 
 
 *    *   Inland
 
-    *   71,41
+    *   73,50
 
-    *   81,82
+    *   82,03
 
-    *   98,96
+    *   105,42
 
-    *   131,74
+    *   126,04
 
     *   –
 
 
 *    *   1
 
-    *   84,45
+    *   88,25
 
-    *   96,07
+    *   99,45
 
-    *   116,99
+    *   120,15
 
-    *   153,52
+    *   154,86
 
-    *   60,37
+    *   70,89
 
 
 *    *   2
 
-    *   85,85
+    *   90,37
 
-    *   97,55
+    *   102,22
 
-    *   118,75
+    *   124,47
 
-    *   155,54
+    *   160,30
 
-    *   82,50
+    *   80,51
 
 
 *    *   3
 
-    *   87,25
+    *   91,98
 
-    *   99,04
+    *   103,99
 
-    *   120,52
+    *   126,45
 
-    *   157,55
+    *   162,59
 
-    *   67,02
+    *   86,04
 
 
 *    *   4
 
-    *   88,65
+    *   93,60
 
-    *   100,53
+    *   105,75
 
-    *   122,28
+    *   128,43
 
-    *   159,56
+    *   164,88
 
-    *   56,47
+    *   79,28
 
 
 *    *   5
 
-    *   90,06
+    *   95,22
 
-    *   102,02
+    *   107,52
 
-    *   124,04
+    *   130,40
 
-    *   161,58
+    *   167,17
 
-    *   66,39
+    *   58,56
 
 
 *    *   6
 
-    *   91,44
+    *   96,84
 
-    *   103,51
+    *   109,29
 
-    *   125,80
+    *   132,38
 
-    *   163,59
+    *   169,47
 
-    *   67,87
+    *   67,43
 
 
 *    *   7
 
-    *   92,84
+    *   98,45
 
-    *   105,00
+    *   111,05
 
-    *   127,57
+    *   134,36
 
-    *   165,60
+    *   171,76
 
-    *   57,81
+    *   81,34
 
 
 *    *   8
 
-    *   94,24
+    *   100,07
 
-    *   106,49
+    *   112,81
 
-    *   129,32
+    *   136,33
 
-    *   167,62
+    *   174,05
 
-    *   51,58
+    *   72,08
 
 
 *    *   9
 
-    *   95,64
+    *   101,68
 
-    *   107,98
+    *   114,58
 
-    *   131,09
+    *   138,31
 
-    *   169,63
+    *   176,34
 
-    *   48,59
+    *   56,18
 
 
 *    *   10
 
-    *   97,04
+    *   103,30
 
-    *   109,47
+    *   116,34
 
-    *   132,85
+    *   140,29
 
-    *   171,64
+    *   178,62
 
-    *   53,94
+    *   48,47
 
 
 *    *   11
 
-    *   98,42
+    *   104,91
 
-    *   110,96
+    *   118,11
 
-    *   134,61
+    *   142,26
 
-    *   173,65
+    *   180,91
 
-    *   58,93
+    *   67,27
 
 
 *    *   12
 
-    *   99,82
+    *   106,53
 
-    *   112,45
+    *   119,87
 
-    *   136,37
+    *   144,24
 
-    *   175,67
+    *   183,20
 
-    *   47,98
+    *   58,58
 
 
 *    *   13
 
-    *   101,22
+    *   108,13
 
-    *   113,93
+    *   121,63
 
-    *   138,13
+    *   146,21
 
-    *   177,68
+    *   185,49
 
-    *   51,78
+    *   53,80
 
 
 *    *   14
 
-    *   102,62
+    *   109,74
 
-    *   115,42
+    *   123,40
 
-    *   139,89
+    *   148,18
 
-    *   179,69
+    *   187,78
 
-    *   46,55
+    *   47,27
 
 
 *    *   15
 
-    *   104,01
+    *   111,36
 
-    *   116,91
+    *   125,16
 
-    *   141,65
+    *   150,16
 
-    *   181,70
+    *   190,07
 
-    *   44,99
+    *   49,03
 
 
 *    *   16
 
-    *   105,41
+    *   112,97
 
-    *   118,40
+    *   126,93
 
-    *   143,42
+    *   152,14
 
-    *   183,72
+    *   192,36
 
-    *   42,73
+    *   40,68
 
 
 *    *   17
 
-    *   106,81
+    *   114,59
 
-    *   119,89
+    *   128,69
 
-    *   145,18
+    *   154,12
 
-    *   185,73
+    *   194,65
 
-    *   37,81
+    *   40,06
 
 
 *    *   18
 
-    *   108,21
+    *   116,20
 
-    *   121,38
+    *   130,46
 
-    *   146,94
+    *   156,10
 
-    *   187,75
+    *   196,94
 
-    *   40,54
+    *   49,02
 
 
 *    *   19
 
-    *   105,91
+    *   117,83
 
-    *   118,96
+    *   132,22
 
-    *   144,13
+    *   158,08
 
-    *   184,56
+    *   199,23
 
-    *   38,79
+    *   47,54
 
 
 *    *   20
 
-    *   107,16
+    *   119,44
 
-    *   120,31
+    *   133,99
 
-    *   145,73
+    *   160,05
 
-    *   186,39
+    *   201,52
 
-    *   38,81
+    *   43,74
 
 
 
-Die Orte, an denen sich die Auslandsvertretungen des Bundes befinden,
-sind gemäß § 53 des Bundesbesoldungsgesetzes in Verbindung mit der
-Auslandszuschlagsverordnung in insgesamt 20 Auslandszonenstufen
-eingeteilt. Die Besoldung der entsandten Angehörigen des Auswärtigen
-Dienstes ist von der Zonenstufe abhängig.
 
 
 ## Anlage 3 Abrechnungsbogen für das Bestimmen von Zeitgebühren

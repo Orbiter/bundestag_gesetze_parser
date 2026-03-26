@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 22.10.1992 I 1782;
 
 Zuletzt geändert durch
-:   Art. 14 Abs. 3 G v. 28.6.2021 I 2250
+:   Art. 8 G v. 19.7.2024 I Nr. 247
 
 
 ## Erster Abschnitt - Rechtsform und Aufgabe
@@ -495,7 +495,7 @@ Abs. 3 Urkundsbeamte bestellen. Sie müssen die Befähigung zum
 Richteramt besitzen.
 
 
-### § 31 Rechtsverhältnisse der Beamten, Angestellten und Arbeiter der Deutschen Bundesbank
+### § 31 Rechtsverhältnisse der Beamten, Angestellten und Arbeiter der Deutschen Bundesbank; Verordnungsermächtigungen
 
 (1) Die Deutsche Bundesbank beschäftigt Beamte, Angestellte und
 Arbeiter.
@@ -617,6 +617,25 @@ und des Bundesministeriums der Finanzen; Rechtsverordnungen über die
 einzelnen Laufbahnen (Laufbahn-, Ausbildungs- und Prüfungsordnungen)
 bedürfen des Einvernehmens des Bundesministeriums des Innern, für Bau
 und Heimat.
+
+(7) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung, die
+der Zustimmung des Bundesrates nicht bedarf, Vorschriften zur
+Lehrverpflichtung des hauptberuflichen wissenschaftlichen Personals
+der Hochschule der Deutschen Bundesbank zu erlassen, insbesondere
+
+1.  zum Umfang,
+
+
+2.  zu Anrechnungs- und Ermäßigungstatbeständen und
+
+
+3.  zu den Nebenpflichten, die mit der Lehrverpflichtung verbunden sind.
+
+
+
+Die Bundesregierung kann die Ermächtigung nach Satz 1 durch
+Rechtsverordnung, die der Zustimmung des Bundesrates nicht bedarf, auf
+den Vorstand der Deutschen Bundesbank übertragen.
 
 
 ### § 32 Schweigepflicht

@@ -16,16 +16,7 @@ Fundstelle
 :   BGBl I: 2013, 1981
 
 Zuletzt geändert durch
-:   Art. 29 G v. 11.12.2023 I Nr. 354
-
-Änderung durch
-:   Art. 12 G v. 22.12.2023 I Nr. 411 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Mittelbare änderung durch
-:   Art. 34 Abs. 4 G v. 22.12.2023 I Nr. 411 ist berücksichtigt
-
-Änderung durch
-:   Art. 34 Abs. 20 G v. 22.12.2023 I Nr. 411 ist berücksichtigt
+:   Art. 51 G v. 4.2.2026 I Nr. 33
 
 
 ## Kapitel 1 - Allgemeine Bestimmungen für Investmentvermögen und Verwaltungsgesellschaften
@@ -271,6 +262,22 @@ folgt bestimmt:
     in vollem Umfang zuzurechnen.
 
 
+6a. Die Bewirtschaftung von erneuerbaren Energien im Sinne dieses Gesetzes
+    umfasst die Erzeugung, die Umwandlung, den Transport oder die
+    Speicherung von erneuerbaren Energien nach § 3 Nummer 21 des
+    Erneuerbare-Energien-Gesetzes vom 21. Juli 2014 (BGBl. I S. 1066), das
+    zuletzt durch Artikel 23 des Gesetzes vom 18. Dezember 2025 (BGBl.
+    2025 I Nr. 347) geändert worden ist, in der jeweils geltenden Fassung,
+    oder Wärme aus erneuerbaren Energien nach § 3 Absatz 1 Nummer 15 des
+    Wärmeplanungsgesetzes vom 20. Dezember 2023 (BGBl. 2023 I Nr. 394),
+    das zuletzt durch Artikel 9 des Gesetzes vom 22. Dezember 2025 (BGBl.
+    2025 I Nr. 348) geändert worden ist, in der jeweils geltenden Fassung,
+    sowie den Transport oder die Speicherung von technisch unvermeidbarer
+    Abwärme nach § 3 Nummer 27 des Energieeffizienzgesetzes vom 13.
+    November 2023 (BGBl. 2023 I Nr. 209), in der jeweils geltenden
+    Fassung.
+
+
 7.  Carried interest ist der Anteil an den Gewinnen des AIF, den eine AIF-
     Verwaltungsgesellschaft als Vergütung für die Verwaltung des AIF
     erhält; der carried interest umfasst nicht den Anteil der AIF-
@@ -444,9 +451,8 @@ folgt bestimmt:
 
 
 22. Immobilien-Gesellschaften sind Gesellschaften, die nach dem
-    Gesellschaftsvertrag oder der Satzung nur Immobilien sowie die zur
-    Bewirtschaftung der Immobilien erforderlichen Gegenstände erwerben
-    dürfen.
+    Gesellschaftsvertrag oder der Satzung nur Immobilien sowie die in §
+    231 Absatz 3 genannten Gegenstände erwerben dürfen.
 
 
 23. Immobilien-Sondervermögen sind Sondervermögen, die nach den
@@ -464,6 +470,17 @@ folgt bestimmt:
     Risikomanagement, administrative Tätigkeiten, den Vertrieb von eigenen
     Investmentanteilen sowie bei AIF Tätigkeiten im Zusammenhang mit den
     Vermögensgegenständen des AIF.
+
+
+24a. Kryptowerte im Sinne dieses Gesetzes sind solche nach Artikel 3 Absatz
+    1 Nummer 5 der Verordnung (EU) 2023/1114 des Europäischen Parlaments
+    und des Rates vom 31. Mai 2023 über Märkte für Kryptowerte und zur
+    Änderung der Verordnungen (EU) Nr. 1093/2010 und (EU) Nr. 1095/2010
+    sowie der Richtlinien 2013/36/EU und (EU) 2019/1937 (ABl. L 150 vom
+    9\.6.2023, S. 40), die durch die Verordnung (EU) 2023/2869 (ABl. L,
+    2023/2869, 20.12.2023) geändert worden ist. Keine Kryptowerte im Sinne
+    dieses Gesetzes sind solche nach Artikel 4 Absatz 3 Buchstabe c der
+    Verordnung (EU) 2023/1114.
 
 
 25. Leverage ist jede Methode, mit der die Verwaltungsgesellschaft den
@@ -566,7 +583,7 @@ folgt bestimmt:
         aa) der sich verpflichtet, mindestens 200 000 Euro zu investieren,
 
 
-        bb) der schriftlich in einem vom Vertrag über die
+        bb) der in Textform in einem vom Vertrag über die
             Investitionsverpflichtung getrennten Dokument angibt, dass er sich der
             Risiken im Zusammenhang mit der beabsichtigten Verpflichtung oder
             Investition bewusst ist,
@@ -1261,6 +1278,16 @@ Durchführungs- und Regulierungsstandards der Europäischen Kommission
 eingehalten werden. Insbesondere kann sie die in den Artikeln 30, 32
 und 33 der Verordnung (EU) 2017/2402 genannten Befugnisse ausüben.
 
+(12a) Die Bundesanstalt ist zuständige Behörde im Sinne des Artikels
+44 Absatz 2 der Verordnung (EU) 2023/2631 des Europäischen Parlaments
+und des Rates vom 22. November 2023 über europäische grüne Anleihen
+sowie fakultative Offenlegungen zu als ökologisch nachhaltig
+vermarkteten Anleihen und zu an Nachhaltigkeitsziele geknüpften
+Anleihen (ABl. L, 2023/2631, 30.11.2023), die durch die Verordnung
+(EU) 2023/2869 (ABl. L, 2023/2869, 20.12.2023) geändert worden ist,
+für die in den Geltungsbereich der Verordnung (EU) 2023/2631
+einbezogenen Originatoren.
+
 (13) Die Bundesanstalt ist zuständige Behörde im Sinne von Artikel 14
 Absatz 1 der Verordnung (EU) 2019/2088 des Europäischen Parlaments und
 des Rates vom 27. November 2019 über nachhaltigkeitsbezogene
@@ -1291,6 +1318,54 @@ technischen Durchführungs- und Regulierungsstandards eingehalten
 werden, oder um zu prüfen, ob die Voraussetzungen für eine Maßnahme
 nach Artikel 63 der Verordnung (EU) 2019/1238 vorliegen.
 
+(15) Für Kapitalverwaltungsgesellschaften, die in den
+Anwendungsbereich der Verordnung (EU) 2022/2554 des Europäischen
+Parlaments und des Rates vom 14. Dezember 2022 über die digitale
+operationale Resilienz im Finanzsektor und zur Änderung der Verordnung
+(EG) Nr. 1060/2009, (EU) Nr. 648/2012, (EU) Nr. 600/2014, (EU) Nr.
+909/2014 und (EU) 2016/1011 (ABl. L 333 vom 27.12.2022, S. 1) fallen,
+ist die Bundesanstalt zuständige Behörde nach Artikel 46 der
+Verordnung (EU) 2022/2554. Bei der Durchführung der Aufgaben nach den
+Artikeln 26 und 27 der Verordnung (EU) 2022/2554 wirkt die
+Bundesanstalt mit der Deutschen Bundesbank zusammen. Die Deutsche
+Bundesbank nimmt die operativen Aufgaben nach den Artikeln 26 und 27
+der Verordnung (EU) 2022/2554 wahr. § 7 Absatz 3 und 4 des
+Kreditwesengesetzes gilt entsprechend. Die Bundesanstalt kann bei
+Verstößen gegen die Verordnung (EU) 2022/2554 unbeschadet sonstiger in
+diesem Gesetz geregelter Befugnisse im Einzelfall Anordnungen treffen,
+die geeignet und erforderlich sind, um die Einhaltung der Vorgaben der
+Verordnung (EU) 2022/2554 sicherzustellen. Insbesondere kann sie
+gegenüber einer Kapitalverwaltungsgesellschaft anordnen,
+
+1.  das gegen diese Verordnung verstoßende Verhalten zu unterlassen und
+    von einer Wiederholung abzusehen,
+
+
+2.  Praktiken oder Verhaltensweisen, die den Bestimmungen der Verordnung
+    zuwiderlaufen, vorübergehend oder dauerhaft einzustellen und nicht zu
+    wiederholen,
+
+
+3.  sicherzustellen, dass weiterhin die rechtlichen Vorgaben erfüllt
+    werden, und
+
+
+4.  Korrektur- und Abhilfemaßnahmen vorzunehmen.
+
+
+
+Die Bundesanstalt kann Untersuchungen über die Einhaltung der Vorgaben
+der Verordnung (EU) 2022/2554 im Anwendungsbereich dieses Gesetzes
+vornehmen. Unbeschadet sonstiger in diesem Gesetz geregelter
+Befugnisse kann die Bundesanstalt zu diesem Zweck Mitglieder der
+Organe einer Kapitalverwaltungsgesellschaft zu einer Befragung
+vorladen, damit diese mündliche oder schriftliche Erklärungen zu
+Sachverhalten oder Unterlagen abgeben, die mit Gegenstand und Zweck
+der Untersuchung in Zusammenhang stehen, und die mündlichen
+Erklärungen aufzeichnen. Für das Recht zur Auskunftsverweigerung und
+die Belehrungspflicht gilt § 6 Absatz 15 des Wertpapierhandelsgesetzes
+entsprechend.
+
 
 #### § 6 Besondere Aufgaben
 
@@ -1307,11 +1382,11 @@ Durchführung einer Finanztransaktion dienen würden.
 
 (1) Widerspruch und Anfechtungsklage gegen Maßnahmen der Bundesanstalt
 einschließlich der Androhung und Festsetzung von Zwangsmitteln auf
-Grundlage von § 5 Absatz 5a, der §§ 6, 14, 15, 16, 19 Absatz 2 und 3,
-§§ 39, 40, 41, 42, 44 Absatz 5, § 68 Absatz 7, § 113 Absatz 2 und 3, §
-311 Absatz 1 und 3 Satz 1 Nummer 1, § 314 Absatz 1 und 2, § 329 Absatz
-2 Satz 3 Nummer 2 Buchstabe c und § 330 Absatz 2 Satz 3 Nummer 2
-Buchstabe c haben keine aufschiebende Wirkung.
+Grundlage von § 5 Absatz 5a und 15, der §§ 6, 14, 15, 16, 19 Absatz 2
+und 3, §§ 39, 40, 41, 42, 44 Absatz 5, § 68 Absatz 7, § 113 Absatz 2
+und 3, § 311 Absatz 1 und 3 Satz 1 Nummer 1, § 314 Absatz 1 und 2, §
+329 Absatz 2 Satz 3 Nummer 2 Buchstabe c und § 330 Absatz 2 Satz 3
+Nummer 2 Buchstabe c haben keine aufschiebende Wirkung.
 
 (2) Ergreift die Bundesanstalt gemäß den §§ 5, 11 Absatz 4 oder 6, §
 311 Absatz 1 und 3 Satz 1 Nummer 1, § 314, § 316 Absatz 3 Satz 2 auch
@@ -3747,8 +3822,10 @@ umfasst insbesondere
 
 
 5.  angemessene Kontroll- und Sicherheitsvorkehrungen für den Einsatz der
-    elektronischen Datenverarbeitung; für die Verarbeitung
-    personenbezogener Daten sind dies insbesondere technische und
+    elektronischen Datenverarbeitung einschließlich in Bezug auf Netzwerk-
+    und Informationssysteme, die in Einklang mit der Verordnung (EU)
+    2022/2554 eingerichtet und verwaltet werden, und im Hinblick auf die
+    Verarbeitung personenbezogener Daten insbesondere technische und
     organisatorische Maßnahmen nach den Artikeln 24, 25 und 32 der
     Verordnung (EU) 2016/679;
 
@@ -4715,11 +4792,16 @@ und 37 sowie die Anforderungen nach
 6.  den Artikeln 6 bis 9 und 18 bis 27 der Verordnung (EU) 2017/2402,
 
 
-7.  den Artikeln 3 bis 10 und 12 bis 13 der Verordnung (EU) 2019/2088
-    sowie
+7.  den Artikeln 3 bis 10 und 12 bis 13 der Verordnung (EU) 2019/2088,
 
 
-8.  den Artikeln 5 bis 7 der Verordnung (EU) 2020/852
+8.  den Artikeln 5 bis 7 der Verordnung (EU) 2020/852 sowie
+
+
+9.  nach den Artikeln 5 bis 14, 17 bis 19, 23 bis 25, 28 bis 30 und 45
+    Absatz 3 der Verordnung (EU) 2022/2554, auch in Verbindung mit einer
+    Delegierten Verordnung nach den Artikeln 15, 20, 28 oder Artikel 30
+    der Verordnung (EU) 2022/2554
 
 
 
@@ -10089,10 +10171,16 @@ Vermögens der Investmentaktiengesellschaft mit veränderlichem Kapital
         Verordnung (EU) 2017/2402,
 
 
-    f)  nach Artikel 3 bis 13 der Verordnung (EU) 2019/2088 und
+    f)  nach Artikel 3 bis 13 der Verordnung (EU) 2019/2088,
 
 
-    g)  nach den Artikeln 5 bis 7 der Verordnung (EU) 2020/852 sowie
+    g)  nach den Artikeln 5 bis 7 der Verordnung (EU) 2020/852 und
+
+
+    h)  nach den Artikeln 5 bis 14, 17 bis 19, 23 bis 25, 28 bis 30 und 45
+        Absatz 3 der Verordnung (EU) 2022/2554, auch in Verbindung mit einer
+        Delegierten Verordnung nach den Artikeln 15, 20, 28 oder Artikel 30
+        der Verordnung (EU) 2022/2554, sowie
 
 
 
@@ -10629,10 +10717,16 @@ die Anforderungen nach
     (EU) 2017/2402,
 
 
-6.  den Artikeln 3 bis 13 der Verordnung (EU) 2019/2088 sowie
+6.  den Artikeln 3 bis 13 der Verordnung (EU) 2019/2088,
 
 
-7.  den Artikeln 5 bis 7 der Verordnung (EU) 2020/852
+7.  den Artikeln 5 bis 7 der Verordnung (EU) 2020/852 sowie
+
+
+8.  den Artikeln 5 bis 14, 17 bis 19, 23 bis 25, 28 bis 30 und 45 Absatz 3
+    der Verordnung (EU) 2022/2554, auch in Verbindung mit einer
+    Delegierten Verordnung nach den Artikeln 15, 20, 28 oder Artikel 30
+    der Verordnung (EU) 2022/2554
 
 
 
@@ -14760,8 +14854,8 @@ Investmentvermögen nur erwerben:
 4.  unverbriefte Darlehensforderungen,
 
 
-5.  Kryptowerte im Sinne von § 1 Absatz 11 Satz 4 des Kreditwesengesetzes
-    zu Anlagezwecken, wenn deren Verkehrswert ermittelt werden kann.
+5.  Kryptowerte zu Anlagezwecken, wenn deren Verkehrswert ermittelt werden
+    kann.
 
 
 
@@ -15275,7 +15369,18 @@ Sondervermögen nur folgende Vermögensgegenstände erwerben:
     Sondervermögens nicht übersteigen;
 
 
-7.  die in den §§ 234 und 253 genannten Vermögensgegenstände.
+7.  die in den §§ 234 und 253 genannten Vermögensgegenstände;
+
+
+8.  Beteiligungen an Infrastruktur-Projektgesellschaften, deren
+    Unternehmensgegenstand im Gesellschaftsvertrag oder in der Satzung
+    darauf beschränkt ist, Anlagen zu errichten, zu erwerben, zu
+    betreiben, zu bewirtschaften oder zu halten, die zur Bewirtschaftung
+    von erneuerbaren Energien im Sinne von § 1 Absatz 19 Nummer 6a
+    bestimmt und geeignet sind, wenn zur Zeit des Erwerbs der Beteiligung
+    ihr Wert zusammen mit dem Wert weiterer solcher Beteiligungen, die
+    sich bereits in dem Sondervermögen befinden, 15 Prozent des Wertes des
+    Sondervermögens nicht übersteigt.
 
 
 
@@ -15326,19 +15431,36 @@ Vereinbarungen über die Bemessung des Erbbauzinses und über dessen
 etwaige spätere Änderung.
 
 (3) Für ein Immobilien-Sondervermögen dürfen auch Gegenstände erworben
-werden, die zur Bewirtschaftung der Vermögensgegenstände des
-Immobilien-Sondervermögens erforderlich sind.
+werden, die
+
+1.  zur Bewirtschaftung der Vermögensgegenstände des Immobilien-
+    Sondervermögens erforderlich sind,
+
+
+2.  der Bewirtschaftung von erneuerbaren Energien im Sinne von § 1 Absatz
+    19 Nummer 6a dienen, oder
+
+
+3.  für den Betrieb von Ladestationen für Elektromobilität erforderlich
+    sind.
+
+
+
 
 (4) Bei der Berechnung des Wertes des Sondervermögens gemäß Absatz 1
-Satz 1 Nummer 2, 3, 5 und 6, § 232 Absatz 4 sowie bei der Angabe des
-Anteils des Sondervermögens gemäß § 233 Absatz 1 Nummer 3 werden die
-aufgenommenen Darlehen nicht abgezogen.
+Satz 1 Nummer 2, 3, 5, 6 und 8, § 232 Absatz 4 sowie bei der Angabe
+des Anteils des Sondervermögens gemäß § 233 Absatz 1 Nummer 3 werden
+die aufgenommenen Darlehen nicht abgezogen.
 
 (5) Im Fall des § 234 sind die von der Immobilien-Gesellschaft
 gehaltenen Vermögensgegenstände bei dem Immobilien-Sondervermögen bei
 der Anwendung der in den Absätzen 1 und 2, §§ 232 und 233 genannten
 Anlagebeschränkungen und der Berechnung der dort genannten Grenzen
 entsprechend der Beteiligungshöhe zu berücksichtigen.
+
+(6) Gegenstände nach Absatz 3 dürfen auch von der
+Kapitalverwaltungsgesellschaft für das Immobilien-Sondervermögen
+betrieben werden.
 
 
 ##### § 232 Erbbaurechtsbestellung
@@ -16519,8 +16641,8 @@ geschlossenen inländischen Publikums-AIF nur investieren in
     gehaltenen Beteiligungen überschreiten,
 
 
-9.  Kryptowerte im Sinne des § 1 Absatz 11 Satz 4 des Kreditwesengesetzes
-    zu Anlagezwecken, wenn deren Verkehrswert ermittelt werden kann.
+9.  Kryptowerte zu Anlagezwecken, wenn deren Verkehrswert ermittelt werden
+    kann.
 
 
 
@@ -16536,8 +16658,8 @@ geschlossenen inländischen Publikums-AIF nur investieren in
 3.  Luftfahrzeuge, Luftfahrzeugbestand- und -ersatzteile,
 
 
-4.  Anlagen zur Erzeugung, zum Transport und zur Speicherung von Strom,
-    Gas oder Wärme aus erneuerbaren Energien,
+4.  Anlagen zur Bewirtschaftung von erneuerbaren Energien im Sinne von § 1
+    Absatz 19 Nummer 6a,
 
 
 5.  Schienenfahrzeuge, Schienenfahrzeugbestand- und -ersatzteile,
@@ -17911,8 +18033,7 @@ bis 211, 218 bis 224 und 230 bis 260d abweichen, wenn
     f)  Beteiligungen an Immobilien-Gesellschaften,
 
 
-    g)  Anteile oder Aktien an inländischen offenen Investmentvermögen sowie
-        an entsprechenden offenen EU- oder ausländischen Investmentvermögen,
+    g)  Anteile oder Aktien an Investmentvermögen,
 
 
     h)  Beteiligungen an ÖPP-Projektgesellschaften und Infrastruktur-
@@ -17925,8 +18046,8 @@ bis 211, 218 bis 224 und 230 bis 260d abweichen, wenn
         ermittelt werden kann,
 
 
-    j)  Kryptowerte im Sinne von § 1 Absatz 11 Satz 4 des Kreditwesengesetzes
-        zu Anlagezwecken, wenn deren Verkehrswert ermittelt werden kann;
+    j)  Kryptowerte zu Anlagezwecken, wenn deren Verkehrswert ermittelt werden
+        kann;
 
 
 
@@ -23663,6 +23784,15 @@ gemeinsame Anlagen und zur Änderung der Verordnungen (EU) Nr.
 
 
 
+(6h) Zuwiderhandlungen gegen die Verordnung (EU) 2022/2554 des
+Europäischen Parlaments und des Rates vom 14. Dezember 2022 über die
+digitale operationale Resilienz im Finanzsektor und zur Änderung der
+Verordnungen (EG) Nr. 1060/2009, (EU) Nr. 648/2012, (EU) Nr. 600/2014,
+(EU) Nr. 909/2014 und (EU) 2016/1011 (ABl. L 333 vom 27.12.2022, S. 1)
+durch Personen im Anwendungsbereich dieses Gesetzes können nach § 56
+Absatz 5e und 6 Nummer 1 und 2 des Kreditwesengesetzes geahndet
+werden.
+
 (7) Die Ordnungswidrigkeit kann wie folgt geahndet werden:
 
 1.  in den Fällen des Absatzes 1 Nummer 1, 4 und 5, des Absatzes 2 Nummer
@@ -23834,8 +23964,9 @@ Bußgeldentscheidungen der Bundesanstalt nach diesem Gesetz
     Absatz 7 Nummer 1 in Bezug genommen werden, kann die Bundesanstalt und
 
 
-3.  wegen Verstößen gegen die Verordnung (EU) 2015/2365 und die Verordnung
-    (EU) 2016/1011 im Zusammenhang mit OGAW und AIF muss die Bundesanstalt
+3.  wegen Verstößen gegen die Verordnung (EU) 2015/2365, die Verordnung
+    (EU) 2016/1011 und die Verordnung (EU) 2022/2554 im Zusammenhang mit
+    OGAW und AIF muss die Bundesanstalt
 
 
 
@@ -25247,4 +25378,12 @@ beginnende Geschäftsjahr anzuwenden. Die in Satz 1 bezeichneten
 Vorschriften in der bis einschließlich 31. Juli 2022 geltenden Fassung
 sind letztmals anzuwenden auf Jahresberichte für das vor dem 1. Januar
 2022 beginnende Geschäftsjahr.
+
+
+##### § 365 Übergangsvorschrift zum Finanzmarktdigitalisierungsgesetz
+
+§ 38 Absatz 3 Satz 2 Nummer 9, § 121 Absatz 3 Satz 1 Nummer 2
+Buchstabe h und § 136 Absatz 3 Satz 2 Nummer 8 sind erstmals
+anzuwenden auf Rechnungslegungsunterlagen für ein nach dem 31.
+Dezember 2024 beginnendes Geschäftsjahr.
 

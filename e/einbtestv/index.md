@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 1649
 
-Geändert durch
-:   Art. 1 V v. 18.3.2013 I 585
+Zuletzt geändert durch
+:   Art. 1 V v. 21.6.2024 I Nr. 211
 
 
 ## Eingangsformel
@@ -478,25 +478,19 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-14. Meinungsfreiheit in Deutschland heißt, dass ich …
+14. Meinungsfreiheit in Deutschland heißt zum Beispiel, dass ich
 
-    *   auf Flugblättern falsche Tatsachen behaupten darf.
-
-
+    *   Passanten auf der Straße beschimpfen darf
 
 
-    *   meine Meinung in Leserbriefen äußern kann.
+    *   meine Meinung im Internet äußern kann
 
 
+    *   Nazi-, Hamas- oder Islamischer Staat-Symbole öffentlich tragen darf
 
 
-    *   Nazi-Symbole tragen darf.
-
-
-
-
-    *   Meine Meinung sagen darf, solange ich der Regierung nicht
-        widerspreche.
+    *   meine Meinung nur dann äußern darf, solange ich der Regierung nicht
+        widerspreche
 
 
 
@@ -1662,24 +1656,19 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-59. Welche Parteien wurden in Deutschland 2007 zur Partei „Die Linke“?
+59. Vor wie vielen Jahren gab es erstmals eine jüdische Gemeinde auf dem
+    Gebiet des heutigen Deutschlands?
 
-    *   CDU und SSW
-
-
-
-
-    *   PDS und WASG
+    *   vor etwa 300 Jahren
 
 
+    *   vor etwa 700 Jahren
 
 
-    *   CSU und FDP
+    *   vor etwa 1150 Jahren
 
 
-
-
-    *   Bündnis 90/Die Grünen und SPD
+    *   vor etwa 1700 Jahren
 
 
 
@@ -1847,24 +1836,18 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-66. Wer schrieb den Text zur deutschen Nationalhymne?
+66. Welche Städte haben die größten jüdischen Gemeinden in Deutschland?
 
-    *   Friedrich von Schiller
-
-
+    *   Berlin und München
 
 
-    *   Clemens Brentano
+    *   Hamburg und Essen
 
 
+    *   Nürnberg und Stuttgart
 
 
-    *   Johann Wolfgang von Goethe
-
-
-
-
-    *   Heinrich Hoffmann von Fallersleben
+    *   Worms und Speyer
 
 
 
@@ -2012,25 +1995,19 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-72. Wie heißt der jetzige Bundeskanzler / die jetzige Bundeskanzlerin von
+72. Wie heißt der jetzige Bundeskanzler/die jetzige Bundeskanzlerin von
     Deutschland?
 
     *   Gerhard Schröder
 
 
-
-
-    *   Jürgen Rüttgers
-
-
-
-
-    *   Klaus Wowereit
-
-
-
-
     *   Angela Merkel
+
+
+    *   Franziska Giffey
+
+
+    *   Olaf Scholz
 
 
 
@@ -2093,22 +2070,16 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 75. Wie heißt Deutschlands heutiges Staatsoberhaupt?
 
+    *   Frank-Walter Steinmeier
+
+
+    *   Bärbel Bas
+
+
+    *   Bodo Ramelow
+
+
     *   Joachim Gauck
-
-
-
-
-    *   Norbert Lammert
-
-
-
-
-    *   Wolfgang Thierse
-
-
-
-
-    *   Edmund Stoiber
 
 
 
@@ -2645,25 +2616,18 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-96. Was muss jeder deutsche Staatsbürger / jede deutsche Staatsbürgerin ab
-    dem 16. Lebensjahr besitzen?
+96. Wie kann jemand, der den Holocaust leugnet, bestraft werden?
 
-    *   einen Reisepass
-
+    *   Kürzung sozialer Leistungen
 
 
-
-    *   einen Personalausweis
-
+    *   bis zu 100 Sozialstunden
 
 
-
-    *   einen Sozialversicherungsausweis
-
+    *   gar nicht, Holocaustleugnung ist erlaubt
 
 
-
-    *   einen Führerschein
+    *   mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe
 
 
 
@@ -3045,25 +3009,19 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-111. In Deutschland darf man wählen. Was bedeutet das?
+111. Welche Handlung mit Bezug auf den Staat Israel ist in Deutschland
+    verboten?
 
-    *   Alle deutschen Staatsangehörigen dürfen wählen, wenn sie das
-        Mindestalter erreicht haben.
-
-
+    *   die Politik Israels öffentlich kritisieren
 
 
-    *   Nur verheiratete Personen dürfen wählen.
+    *   das Aufhängen einer israelischen Flagge auf dem Privatgrundstück
 
 
+    *   eine Diskussion über die Politik Israels
 
 
-    *   Nur Personen mit einem festen Arbeitsplatz dürfen wählen.
-
-
-
-
-    *   Alle Einwohner und Einwohnerinnen in Deutschland müssen wählen.
+    *   der öffentliche Aufruf zur Vernichtung Israels
 
 
 
@@ -3231,24 +3189,19 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-118. Was regelt das Wahlrecht in Deutschland?
+118. Wer darf bei den rund 40 jüdischen Makkabi-Sportvereinen Mitglied
+    werden?
 
-    *   Wer wählen darf, muss wählen.
-
-
-
-
-    *   Alle die wollen, können wählen.
+    *   nur Deutsche
 
 
+    *   nur Israelis
 
 
-    *   Wer nicht wählt, verliert das Recht zu wählen.
+    *   nur religiöse Menschen
 
 
-
-
-    *   Wer wählen darf, kann wählen.
+    *   alle Menschen
 
 
 
@@ -4057,24 +4010,18 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-149. Wer kann Gerichtsschöffe / Gerichtsschöffin in Deutschland werden?
+149. Was ist ein Beispiel für antisemitisches Verhalten?
 
-    *   alle in Deutschland geborenen Einwohner / Einwohnerinnen über 18 Jahre
-
-
+    *   ein jüdisches Fest besuchen
 
 
-    *   alle deutschen Staatsangehörigen älter als 24 und jünger als 70 Jahre
+    *   die israelische Regierung kritisieren
 
 
+    *   den Holocaust leugnen
 
 
-    *   alle Personen, die seit mindestens 5 Jahren in Deutschland leben
-
-
-
-
-    *   nur Personen mit einem abgeschlossenen Jurastudium
+    *   gegen Juden Fußball spielen
 
 
 
@@ -4934,25 +4881,18 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-182. Welche Parteien wurden 1946 zwangsweise zur SED vereint, der
-    Einheitspartei der späteren DDR?
+182. Wie heißt das jüdische Gebetshaus?
 
-    *   KPD und SPD
-
+    *   Basilika
 
 
-
-    *   SPD und CDU
-
+    *   Moschee
 
 
-
-    *   CDU und FDP
-
+    *   Synagoge
 
 
-
-    *   KPD und CSU
+    *   Kirche
 
 
 
@@ -4987,26 +4927,18 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-184. Was nannten die Menschen in Deutschland sehr lange „Die Stunde Null“?
+184. Auf welcher rechtlichen Grundlage wurde der Staat Israel gegründet?
 
-    *   Damit wird die Zeit nach der Wende im Jahr 1989 bezeichnet.
-
-
+    *   eine Resolution der Vereinten Nationen
 
 
-    *   Damit wurde der Beginn des Zweiten Weltkrieges bezeichnet.
+    *   ein Beschluss des Zionistenkongresses
 
 
+    *   ein Vorschlag der Bundesregierung
 
 
-    *   Darunter verstand man das Ende des Zweiten Weltkrieges und den Beginn
-        des Wiederaufbaus.
-
-
-
-
-    *   Damit ist die Stunde gemeint, in der die Uhr von der Sommerzeit auf
-        die Winterzeit umgestellt wird.
+    *   ein Vorschlag der UdSSR
 
 
 
@@ -5573,26 +5505,18 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-206. Was bedeutete im Jahr 1989 in Deutschland das Wort
-    „Montagsdemonstration“?
+206. Woran erinnern die sogenannten „Stolpersteine“ in Deutschland?
 
-    *   In der Bundesrepublik waren Demonstrationen nur am Montag erlaubt.
-
+    *   an berühmte deutsche Politikerinnen und Politiker
 
 
-
-    *   Montags waren Demonstrationen gegen das DDR-Regime.
-
+    *   an die Opfer des Nationalsozialismus
 
 
-
-    *   Am ersten Montag im Monat trafen sich in der Bundesrepublik
-        Deutschland Demonstranten.
+    *   an Verkehrstote
 
 
-
-
-    *   Montags demonstrierte man in der DDR gegen den Westen.
+    *   an bekannte jüdische Musiker
 
 
 
@@ -5762,16 +5686,10 @@ die nur für das jeweilige Bundesland zu beantworten sind.
     *   70 Millionen
 
 
-
-
     *   78 Millionen
 
 
-
-
-    *   82 Millionen
-
-
+    *   84 Millionen
 
 
     *   90 Millionen
@@ -5950,19 +5868,14 @@ die nur für das jeweilige Bundesland zu beantworten sind.
     *   an das Ende des Zweiten Weltkrieges
 
 
-
-
     *   an die Verabschiedung des Grundgesetzes
-
-
 
 
     *   an die Wiedervereinigung Deutschlands
 
 
-
-
-    *   an die Opfer des Nationalsozialismus
+    *   an die Opfer des Nationalsozialismus (Tag der Befreiung des
+        Vernichtungslagers Auschwitz)
 
 
 
@@ -6329,21 +6242,15 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-234. Wo ist der Sitz des Europäischen Parlaments?
+234. Wo ist ein Sitz des Europäischen Parlaments?
 
     *   London
-
-
 
 
     *   Paris
 
 
-
-
     *   Berlin
-
-
 
 
     *   Straßburg
@@ -6868,24 +6775,18 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 254. In Deutschland dürfen Ehepaare sich scheiden lassen. Meistens müssen
     sie dazu das „Trennungsjahr“ einhalten. Was bedeutet das?
 
-    *   Der Scheidungsprozess dauert ein Jahr.
+    *   Der Scheidungsprozess dauert ein Jahr
 
 
+    *   Die Ehegatten sind ein Jahr verheiratet, dann ist die Scheidung
+        möglich
 
 
-    *   Mann und Frau sind ein Jahr verheiratet, dann ist die Scheidung
-        möglich.
+    *   Das Besuchsrecht für die Kinder gilt ein Jahr
 
 
-
-
-    *   Das Besuchsrecht für die Kinder gilt ein Jahr.
-
-
-
-
-    *   Mann und Frau führen mindestens ein Jahr getrennt ihr eigenes Leben.
-        Danach ist die Scheidung möglich.
+    *   Die Ehegatten führen mindestens ein Jahr getrennt ihr eigenes Leben.
+        Danach ist die Scheidung möglich
 
 
 
@@ -7795,25 +7696,18 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-288. Bei welchem Amt muss man in Deutschland in der Regel seinen Hund
-    anmelden?
+288. Woraus begründet sich Deutschlands besondere Verantwortung für Israel?
 
-    *   beim Finanzamt
-
+    *   aus der Mitgliedschaft in der Europäischen Union (EU)
 
 
-
-    *   beim Einwohnermeldeamt
-
+    *   aus den nationalsozialistischen Verbrechen gegen Juden
 
 
-
-    *   bei der Kommune (Stadt oder Gemeinde)
-
+    *   aus dem Grundgesetz der Bundesrepublik Deutschland
 
 
-
-    *   beim Gesundheitsamt
+    *   aus der christlichen Tradition
 
 
 
@@ -8181,19 +8075,13 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 2.  Welches ist ein Landkreis in Baden-Württemberg?
 
-    *   Demmin
-
-
+    *   Mecklenburgische Seenplatte
 
 
     *   Neckar-Odenwald-Kreis
 
 
-
-
     *   Nordfriesland
-
-
 
 
     *   Altötting
@@ -8717,19 +8605,13 @@ die nur für das jeweilige Bundesland zu beantworten sind.
     *   Altona
 
 
-
-
     *   Prignitz
-
-
 
 
     *   Pankow
 
 
-
-
-    *   Demmin
+    *   Mecklenburgische Seenplatte
 
 
 
@@ -9517,19 +9399,13 @@ die nur für das jeweilige Bundesland zu beantworten sind.
     *   Altona
 
 
-
-
     *   Hemelingen
-
-
 
 
     *   Pankow
 
 
-
-
-    *   Demmin
+    *   Mecklenburgische Seenplatte
 
 
 
@@ -10065,16 +9941,10 @@ die nur für das jeweilige Bundesland zu beantworten sind.
     *   Prignitz
 
 
-
-
-    *   Demmin
-
-
+    *   Mecklenburgische Seenplatte
 
 
     *   Vogtlandkreis
-
-
 
 
     *   Rhein-Sieg-Kreis
@@ -10436,19 +10306,13 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 6.  Wo können Sie sich in Niedersachsen über politische Themen
     informieren?
 
-    *   beim Koordinator für politische Bildung im Kultusministerium
-
-
+    *   bei der Landeszentrale für politische Bildung
 
 
     *   beim Ordnungsamt der Gemeinde
 
 
-
-
     *   bei der Verbraucherzentrale
-
-
 
 
     *   bei den Kirchen
@@ -11134,19 +10998,13 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 2.  Welches ist ein Landkreis im Saarland?
 
-    *   Demmin
-
-
+    *   Mecklenburgische Seenplatte
 
 
     *   Altötting
 
 
-
-
     *   Neunkirchen
-
-
 
 
     *   Rhein-Sieg-Kreis
@@ -11935,16 +11793,10 @@ die nur für das jeweilige Bundesland zu beantworten sind.
     *   Ammerland
 
 
-
-
-    *   Demmin
-
-
+    *   Mecklenburgische Seenplatte
 
 
     *   Nordfriesland
-
-
 
 
     *   Rhein-Sieg-Kreis
@@ -12041,16 +11893,10 @@ die nur für das jeweilige Bundesland zu beantworten sind.
     *   bei der Verbraucherzentrale
 
 
-
-
     *   beim Ordnungsamt der Gemeinde
 
 
-
-
-    *   bei der Landeszentrale für politische Bildung
-
-
+    *   beim Landesbeauftragten für politische Bildung
 
 
     *   bei den Kirchen

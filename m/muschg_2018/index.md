@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2017, 1228
 
-Geändert durch
-:   Art. 57 Abs. 8 G v. 12.12.2019 I 2652
+Zuletzt geändert durch
+:   Art. 13 G v. 22.12.2025 I Nr. 371
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
@@ -174,6 +174,11 @@ einer aufgrund des § 17 des Vierten Buches Sozialgesetzbuch erlassenen
 Verordnung bestimmt wird. Für Frauen im Sinne von § 1 Absatz 2 Satz 2
 gilt als Arbeitsentgelt ihre jeweilige Vergütung.
 
+(6) Eine Entbindung ist eine Lebend- oder eine Totgeburt. Die
+Regelungen zur Entbindung finden im Falle einer Fehlgeburt ab der 13.
+Schwangerschaftswoche entsprechende Anwendung, soweit nicht in diesem
+oder einem anderen Gesetz Abweichendes geregelt ist.
+
 
 ## Abschnitt 2 - Gesundheitsschutz
 
@@ -214,7 +219,7 @@ Bei vorzeitiger Entbindung verlängert sich die Schutzfrist nach der
 Entbindung nach Satz 1 oder nach Satz 2 um den Zeitraum der Verkürzung
 der Schutzfrist vor der Entbindung nach Absatz 1 Satz 4. Nach Satz 2
 Nummer 3 verlängert sich die Schutzfrist nach der Entbindung nur, wenn
-die Frau dies beantragt.
+die Frau dies beantragt. Satz 2 gilt nicht bei einer Totgeburt.
 
 (3) Die Ausbildungsstelle darf eine Frau im Sinne von § 1 Absatz 2
 Satz 2 Nummer 8 bereits in der Schutzfrist nach der Entbindung im
@@ -236,6 +241,26 @@ wenn
 
 Sie kann ihre Erklärung nach Satz 1 Nummer 1 jederzeit mit Wirkung für
 die Zukunft widerrufen.
+
+(5) Bei einer Fehlgeburt darf der Arbeitgeber eine Frau nicht
+beschäftigen, soweit sie sich nicht zur Arbeitsleistung ausdrücklich
+bereit erklärt,
+
+1.  bis zum Ablauf von zwei Wochen bei einer Fehlgeburt ab der 13.
+    Schwangerschaftswoche oder
+
+
+2.  bis zum Ablauf von sechs Wochen bei einer Fehlgeburt ab der 17.
+    Schwangerschaftswoche oder
+
+
+3.  bis zum Ablauf von acht Wochen bei einer Fehlgeburt ab der 20.
+    Schwangerschaftswoche.
+
+
+
+Sie kann ihre Erklärung nach Satz 1 jederzeit mit Wirkung für die
+Zukunft widerrufen. Die Absätze 1 bis 3 gelten nicht.
 
 
 #### § 4 Verbot der Mehrarbeit; Ruhezeit
@@ -426,8 +451,9 @@ Unterabschnitt in eigener Verantwortung wahrzunehmen.
 
 (6) Kosten für Maßnahmen nach diesem Gesetz darf der Arbeitgeber nicht
 den Personen auferlegen, die bei ihm beschäftigt sind. Die Kosten für
-Zeugnisse und Bescheinigungen, die die schwangere oder stillende Frau
-auf Verlangen des Arbeitgebers vorzulegen hat, trägt der Arbeitgeber.
+Zeugnisse und Bescheinigungen, die die schwangere Frau, die Frau nach
+der Entbindung oder die stillende Frau auf Verlangen des Arbeitgebers
+vorzulegen hat, trägt der Arbeitgeber.
 
 
 #### § 10 Beurteilung der Arbeitsbedingungen; Schutzmaßnahmen
@@ -460,14 +486,19 @@ Arbeitsschutzgesetzes hat der Arbeitgeber für jede Tätigkeit
 
 
 Bei gleichartigen Arbeitsbedingungen ist die Beurteilung eines
-Arbeitsplatzes oder einer Tätigkeit ausreichend.
+Arbeitsplatzes oder einer Tätigkeit ausreichend. Die Verpflichtung des
+Arbeitgebers nach Satz 1 entfällt, wenn gemäß einer zu diesem Zweck
+nach § 30 Absatz 4 veröffentlichten Regel oder Erkenntnis des
+Ausschusses für Mutterschutz eine schwangere oder stillende Frau die
+Tätigkeit nicht ausüben oder einer Arbeitsbedingung nicht ausgesetzt
+sein darf.
 
 (2) Sobald eine Frau dem Arbeitgeber mitgeteilt hat, dass sie
 schwanger ist oder stillt, hat der Arbeitgeber unverzüglich die nach
-Maßgabe der Gefährdungsbeurteilung nach Absatz 1 erforderlichen
-Schutzmaßnahmen festzulegen. Zusätzlich hat der Arbeitgeber der Frau
-ein Gespräch über weitere Anpassungen ihrer Arbeitsbedingungen
-anzubieten.
+Maßgabe der Gefährdungsbeurteilung nach Absatz 1 oder nach Maßgabe des
+§ 13 erforderlichen Schutzmaßnahmen festzulegen. Zusätzlich hat der
+Arbeitgeber der Frau ein Gespräch über weitere Anpassungen ihrer
+Arbeitsbedingungen anzubieten.
 
 (3) Der Arbeitgeber darf eine schwangere oder stillende Frau nur
 diejenigen Tätigkeiten ausüben lassen, für die er die erforderlichen
@@ -981,6 +1012,18 @@ Stelle. Satz 1 gilt entsprechend, wenn der Arbeitgeber wegen eines
 Insolvenzereignisses im Sinne von § 165 Absatz 1 Satz 2 des Dritten
 Buches Sozialgesetzbuch den Zuschuss nach Absatz 1 nicht zahlen kann.
 
+(4) Bei Personen, die nach einem Abkommen zur Vermeidung der
+Doppelbesteuerung nicht in der Bundesrepublik Deutschland ansässig
+sind und deren Ansässigkeitsstaat nach diesem Abkommen zur Vermeidung
+der Doppelbesteuerung das Besteuerungsrecht für den Zuschuss zum
+Mutterschaftsgeld zusteht, sind für die Berechnung des Zuschusses zum
+Mutterschaftsgeld nur die Beiträge zur Sozialversicherung als das
+durchschnittliche kalendertägliche Arbeitsentgelt nach Absatz 1 Satz 2
+vermindernde gesetzliche Abzüge zu berücksichtigen. Unterliegt der
+Zuschuss zum Mutterschaftsgeld im Ansässigkeitsstaat nach dessen
+maßgebenden Vorschriften nicht der Steuer, sind alle gesetzlichen
+Abzüge nach Absatz 1 Satz 2 zu berücksichtigen.
+
 
 ### § 21 Ermittlung des durchschnittlichen Arbeitsentgelts
 
@@ -1435,9 +1478,9 @@ Zustimmung des Bundesrates Folgendes zu regeln:
 
 1.  entgegen § 3 Absatz 1 Satz 1, auch in Verbindung mit Satz 4, entgegen
     § 3 Absatz 2 Satz 1, auch in Verbindung mit Satz 2 oder 3, entgegen §
-    3 Absatz 3 Satz 1, § 4 Absatz 1 Satz 1, 2 oder 4 oder § 5 Absatz 1
-    Satz 1, § 6 Absatz 1 Satz 1, § 13 Absatz 1 Nummer 3 oder § 16 eine
-    Frau beschäftigt,
+    3 Absatz 3 Satz 1, § 3 Absatz 5 Satz 1, § 4 Absatz 1 Satz 1, 2 oder 4
+    oder § 5 Absatz 1 Satz 1, § 6 Absatz 1 Satz 1, § 13 Absatz 1 Nummer 3
+    oder § 16 eine Frau beschäftigt,
 
 
 2.  entgegen § 4 Absatz 2 eine Ruhezeit nicht, nicht richtig oder nicht

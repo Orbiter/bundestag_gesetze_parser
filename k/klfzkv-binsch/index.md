@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 1995, 226
 
 Zuletzt geändert durch
-:   Art. 2 § 4 V v. 21.9.2018 I 1398
-
-Änderung durch
-:   Art. 6 V v. 18.3.2024 I Nr. 100, Nr. 115 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 7 V v. 14.10.2025 I Nr. 242
 
 
 ## Eingangsformel
@@ -594,8 +591,11 @@ genannten Verordnungen treten außer Kraft:
 
 ### Anlage (zu § 8 Abs. 2)
 
-(Inhalt: nicht darstellbarer Ausweis über das
-Kleinfahrzeugkennzeichen;
-Fundstelle: BGBl. I 1995, 231 - 232,
-bzgl. der einzelnen Änderungen vgl. Fußnote)
+(Fundstelle: BGBl. 2025 I Nr. 242, S. 56)
 
+Vorderseiten
+
+![bgbl1_2025_j02420_0480.jpg](bgbl1_2025_j02420_0480.jpg)
+Rückseiten
+
+![bgbl1_2025_j02420_0490.jpg](bgbl1_2025_j02420_0490.jpg)

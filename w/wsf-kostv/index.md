@@ -17,8 +17,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2020, 2051
 
-Geändert durch
-:   Art. 1 V v. 17.11.2022 I 2063
+Zuletzt geändert durch
+:   Art. 1 V v. 12.3.2025 I Nr. 82
 
 
 ## Eingangsformel
@@ -153,6 +153,25 @@ einheitliche und umfassende Kostenpauschale festgelegt werden.
 einzelnen Maßnahmen oder Tätigkeiten zu unterscheiden. Außerdem kann
 die Höhe der Kostenpauschale von dem Wert der jeweiligen Leistungen
 abhängig gemacht werden.
+
+
+## § 4a Kostenermäßigung
+
+(1) Aus Gründen des öffentlichen Interesses, insbesondere bei
+drohender Beeinträchtigung des Zwecks der Stabilisierungsmaßnahme oder
+aus Gründen der Billigkeit, können die zu erstattenden Kosten in
+Abhängigkeit von der wirtschaftlichen Leistungsfähigkeit des
+Kostenschuldners bis auf ein Drittel ermäßigt werden.
+
+(2) Absatz 1 findet auch Anwendung auf Leistungen, die vor dem 1.
+Januar 2024 begonnen, aber noch nicht vollständig erbracht wurden.
+
+(3) Die Ermäßigung der zu erstattenden Kosten nach Absatz 1 wird nur
+gewährt, wenn die Voraussetzungen der Verordnung (EU) 2023/2831 der
+Kommission vom 13. Dezember 2023 über die Anwendung der Artikel 107
+und 108 des Vertrags über die Arbeitsweise der Europäischen Union auf
+De-minimis-Beihilfen (ABl. L 2023/2831, 15.12.2023) in der jeweils
+geltenden Fassung erfüllt sind.
 
 
 ## § 5 Fälligkeit

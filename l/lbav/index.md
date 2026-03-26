@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2009, 3824
 
 Zuletzt geändert durch
-:   Art. 3 V v. 16.8.2021 I 3582
+:   Art. 2 Abs. 2 V v. 11.3.2026 I Nr. 67
 
 [^F772704_01_BJNR382400009]:     Diese Verordnung dient der Umsetzung der Richtlinie 2005/36/EG des
     Europäischen Parlaments und des Rates vom 7. September 2005 über die
@@ -324,7 +324,7 @@ ist unabhängig und nicht weisungsgebunden.
 
 (4) Die Eignungsprüfung besteht aus einem schriftlichen und einem
 mündlichen Teil. Der schriftliche Teil kann mehrere Aufsichtsarbeiten
-umfassen. § 10 Absatz 2 Satz 2 und § 17 Absatz 3 Nummer 1 und Absatz 5
+umfassen. § 10 Absatz 2 Satz 2 und § 20 Absatz 3 Nummer 1 und Absatz 5
 Satz 1 Nummer 1 der Bundeslaufbahnverordnung sind entsprechend
 anzuwenden.
 

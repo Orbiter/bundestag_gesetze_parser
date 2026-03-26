@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 8.4.2009 I 809
 
 Zuletzt geändert durch
-:   Art. 6 V v. 8.1.2020 I 27
+:   Art. 1 V v. 6.3.2025 I Nr. 78
 
 
 ## § 1 Anspruchsvoraussetzungen bei besonderen Verwendungen im Ausland
@@ -133,7 +133,7 @@ berücksichtigt:
         Bundesbesoldungsgesetzes typischerweise verbundene Mehraufwendungen
         und Belastungen
 
-    *   48 Euro
+    *   54 Euro
 
 
 *    *   2
@@ -165,7 +165,7 @@ berücksichtigt:
 
 
 
-    *   69 Euro
+    *   77 Euro
 
 
 *    *   3
@@ -184,7 +184,7 @@ berücksichtigt:
 
 
 
-    *   85 Euro
+    *   93 Euro
 
 
 *    *   4
@@ -196,7 +196,7 @@ berücksichtigt:
         Gewaltkriminalität, Piraterie, Minen oder vergleichbare
         gesundheitliche Gefährdungen
 
-    *   103 Euro
+    *   111 Euro
 
 
 *    *   5
@@ -207,7 +207,7 @@ berücksichtigt:
         Bürgerkriegsbedingungen, durch organisierte bewaffnete Aktionen,
         Terrorakte oder bei vergleichbaren gesundheitlichen Gefährdungen
 
-    *   123 Euro
+    *   131 Euro
 
 
 *    *   6
@@ -231,7 +231,7 @@ berücksichtigt:
 
 
 
-    *   145 Euro
+    *   153 Euro
 
 
 

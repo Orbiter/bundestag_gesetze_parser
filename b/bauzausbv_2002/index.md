@@ -15,8 +15,14 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2002, 2622 (2003 I 277)
 
+V aufgeh. durch
+:   § 11 idF d. Art. 2 V v. 3.9.2025 mWv 1.8.2026
+
 Zuletzt geändert durch
 :   Art. 1 V v. 31.10.2016 I 2493
+
+Ersetzt durch
+:   V 806-22-1-164 v. 3.9.2025 I Nr. 203 (BautechKonAusbV)
 
 
 ## Eingangsformel
@@ -613,13 +619,9 @@ anzuwenden, es sei denn, die Vertragsparteien vereinbaren die
 Anwendung der Verordnung in der am 18. Mai 2004 geltenden Fassung.
 
 
-## § 11 Weitere Übergangsregelung
+## § 11 Außerkrafttreten
 
-Berufsausbildungsverhältnisse, die am 1. August 2017 bereits bestehen,
-können nach den Vorschriften dieser Verordnung in der ab dem 1. August
-2017 geltenden Fassung unter Anrechnung der bisher absolvierten
-Ausbildungszeit fortgesetzt werden, wenn die Vertragsparteien dies
-vereinbaren.
+Diese Verordnung tritt mit Ablauf des 31. Juli 2026 außer Kraft.
 
 (zu § 5)
 

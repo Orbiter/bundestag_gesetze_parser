@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 15.10.2002 I 4167;
 
 Zuletzt geändert durch
-:   Art. 19 G v. 27.3.2024 I Nr. 108
+:   Art. 4 G v. 28.2.2025 I Nr. 69
 
 
 ## Abschnitt I - Allgemeines
@@ -164,11 +164,11 @@ Von der Gewerbesteuer sind befreit
     74) in der jeweils geltenden Fassung;
 
 
-2.  die Deutsche Bundesbank, die Kreditanstalt für Wiederaufbau, die
+2.  die Deutsche Bundesbank, die Kreditanstalt für Wiederaufbau, die DEG –
+    Deutsche Investitions- und Entwicklungsgesellschaft mbH, die
     Landwirtschaftliche Rentenbank, die Bayerische Landesanstalt für
-    Aufbaufinanzierung, die Niedersächsische Gesellschaft für öffentliche
-    Finanzierungen mit beschränkter Haftung, die Bremer Aufbau-Bank GmbH,
-    die Landeskreditbank Baden-Württemberg - Förderbank, die Bayerische
+    Aufbaufinanzierung, die Bremer Aufbau-Bank GmbH, die Landeskreditbank
+    Baden-Württemberg - Förderbank, die Bayerische
     Landesbodenkreditanstalt, die Investitionsbank Berlin, die
     Hamburgische Investitions- und Förderbank, die NRW.Bank, die
     Investitions- und Förderbank Niedersachsen, die Saarländische
@@ -252,7 +252,7 @@ Von der Gewerbesteuer sind befreit
 12. Gesellschaften, bei denen die Gesellschafter als Unternehmer
     (Mitunternehmer) anzusehen sind, sowie Genossenschaften, soweit die
     Gesellschaften und die Genossenschaften eine gemeinschaftliche
-    Tierhaltung im Sinne des § 51a des Bewertungsgesetzes betreiben;
+    Tierhaltung im Sinne des § 13b des Einkommensteuergesetzes betreiben;
 
 
 13. private Schulen und andere allgemeinbildende oder berufsbildende
@@ -590,15 +590,11 @@ Ermittlung des Gewerbeertrags entsprechend anzuwenden.
 7             Hinzurechnungsbeträge im Sinne des § 10 Absatz 1 des
 Außensteuergesetzes sind Einkünfte, die in einer inländischen
 Betriebsstätte anfallen.
-8             Einkünfte im Sinne des § 20 Absatz 2 Satz 1 des
-Außensteuergesetzes gelten als in einer inländischen Betriebsstätte
-erzielt; das gilt auch, wenn sie nicht von einem Abkommen zur
-Vermeidung der Doppelbesteuerung erfasst werden oder das Abkommen zur
-Vermeidung der Doppelbesteuerung selbst die Steueranrechnung anordnet.
-9             Satz 8 ist nicht anzuwenden, soweit auf die Einkünfte,
-würden sie in einer Zwischengesellschaft im Sinne des § 8 des
-Außensteuergesetzes erzielt, § 8 Absatz 2 bis 4 des
-Außensteuergesetzes zur Anwendung käme.
+8             Einkünfte, die in einer ausländischen Betriebsstätte
+anfallen und nach den §§ 7 bis 13 des Außensteuergesetzes
+steuerpflichtig wären, falls diese Betriebsstätte eine ausländische
+Gesellschaft im Sinne dieser Vorschriften wäre, gelten als in einer
+inländischen Betriebsstätte erzielt.
 
 
 ### § 7a Sonderregelung bei der Ermittlung des Gewerbeertrags einer Organgesellschaft
@@ -851,12 +847,8 @@ worden sind:
 
 Die Summe des Gewinns und der Hinzurechnungen wird gekürzt um
 
-1.  1,2 Prozent des Einheitswerts des zum Betriebsvermögen des
-    Unternehmers gehörenden und nicht von der Grundsteuer befreiten
-    Grundbesitzes; maßgebend ist der Einheitswert, der auf den letzten
-    Feststellungszeitpunkt (Hauptfeststellungs-, Fortschreibungs- oder
-    Nachfeststellungszeitpunkt) vor dem Ende des Erhebungszeitraums (§ 14)
-    lautet.
+1.  die im Erhebungszeitraum als Betriebsausgabe erfasste Grundsteuer für
+    zum Betriebsvermögen des Unternehmers gehörenden Grundbesitz.
     2                   An Stelle der Kürzung nach Satz 1 tritt auf Antrag
     bei Unternehmen, die ausschließlich eigenen Grundbesitz oder neben
     eigenem Grundbesitz eigenes Kapitalvermögen verwalten und nutzen oder
@@ -1320,8 +1312,8 @@ Zeitraum der Steuerpflicht (abgekürzter Erhebungszeitraum).
 1             Der Steuerschuldner (§ 5) hat für steuerpflichtige
 Gewerbebetriebe eine Erklärung zur Festsetzung des Steuermessbetrags
 und in den Fällen des § 28 außerdem eine Zerlegungserklärung nach
-amtlich vorgeschriebenem Datensatz durch Datenfernübertragung zu
-übermitteln.
+amtlich vorgeschriebenem Datensatz über die amtlich bestimmte
+Schnittstelle elektronisch zu übermitteln.
 2             Auf Antrag kann die Finanzbehörde zur Vermeidung
 unbilliger Härten auf eine elektronische Übermittlung verzichten; in
 diesem Fall ist die Erklärung nach amtlich vorgeschriebenem Vordruck
@@ -1525,7 +1517,7 @@ Zerlegungsanteil oder der Steuermessbetrag entfallen würde.
 
 (1) Zerlegungsmaßstab ist
 
-1.  vorbehaltlich der Nummer 2 das Verhältnis, in dem die Summe der
+1.  vorbehaltlich der Nummern 2 und 3 das Verhältnis, in dem die Summe der
     Arbeitslöhne, die an die bei allen Betriebsstätten (§ 28)
     beschäftigten Arbeitnehmer gezahlt worden sind, zu den Arbeitslöhnen
     steht, die an die bei den Betriebsstätten der einzelnen Gemeinden
@@ -1560,8 +1552,9 @@ Zerlegungsanteil oder der Steuermessbetrag entfallen würde.
 
 
 
-        Der auf Neuanlagen und auf übrige Anlagen jeweils entfallende Anteil
-        am Steuermessbetrag wird ermittelt aus dem Verhältnis, in dem
+        2                         Der auf Neuanlagen und auf übrige Anlagen
+        jeweils entfallende Anteil am Steuermessbetrag wird ermittelt aus dem
+        Verhältnis, in dem
 
         aa) die Summe der installierten Leistung im Sinne von § 3 Nummer 31 des
             Erneuerbare-Energien-Gesetzes für Neuanlagen und
@@ -1573,11 +1566,20 @@ Zerlegungsanteil oder der Steuermessbetrag entfallen würde.
 
 
         zur gesamten installierten Leistung im Sinne von § 3 Nummer 31 des
-        Erneuerbare-Energien-Gesetzes des Betriebs steht. Neuanlagen sind
-        Anlagen, die nach dem 30. Juni 2013 zur Erzeugung von Strom und
-        anderen Energieträgern sowie Wärme aus solarer Strahlungsenergie
-        genehmigt wurden. Die übrigen Anlagen sind Anlagen, die nicht unter
-        Satz 3 fallen.
+        Erneuerbare-Energien-Gesetzes des Betriebs steht.
+        3                         Neuanlagen sind Anlagen, die nach dem 30.
+        Juni 2013 zur Erzeugung von Strom und anderen Energieträgern sowie
+        Wärme aus solarer Strahlungsenergie genehmigt wurden.
+        4                         Die übrigen Anlagen sind Anlagen, die nicht
+        unter Satz 3 fallen;
+
+
+    3.  bei Betrieben, die ausschließlich Energiespeicheranlagen im Sinne des
+        § 3 Nummer 15d des Energiewirtschaftsgesetzes betreiben, zu einem
+        Zehntel das in Nummer 1 bezeichnete Verhältnis und zu neun Zehnteln
+        das Verhältnis, in dem die Summe der installierten Leistung in allen
+        Betriebsstätten (§ 28) zur installierten Leistung in den einzelnen
+        Betriebsstätten steht.
 
 
 
@@ -1616,10 +1618,10 @@ Behandlung zu den Arbeitslöhnen.
 (2) Zu den Arbeitslöhnen gehören nicht Vergütungen, die an Personen
 gezahlt worden sind, die zu ihrer Berufsausbildung beschäftigt werden.
 
-(3) In Fällen des § 3 Nr. 5, 6, 8, 9, 12, 13, 15, 17, 21, 26, 27, 28
-und 29 bleiben die Vergütungen an solche Arbeitnehmer außer Ansatz,
-die nicht ausschließlich oder überwiegend in dem steuerpflichtigen
-Betrieb oder Teil des Betriebs tätig sind.
+(3) In Fällen einer Befreiung von der Gewerbesteuer bleiben die
+Vergütungen an solche Arbeitnehmer außer Ansatz, die nicht
+ausschließlich oder überwiegend in dem steuerpflichtigen Betrieb oder
+Teil des Betriebs tätig sind.
 
 (4)
 1             Nach dem Gewinn berechnete einmalige Vergütungen (z. B.
@@ -1876,22 +1878,28 @@ Erhebungszeitraum 2021 anzuwenden.
 1             § 3 Nummer 1 in der Fassung des Artikels 8 des Gesetzes
 vom 12. Dezember 2019 (BGBl. I S. 2451) ist erstmals für den
 Erhebungszeitraum 2019 anzuwenden.
-2             § 3 Nummer 2 ist für die Investitionsbank Sachsen-Anhalt
+2             § 3 Nummer 12 in der Fassung des Artikels 9 des Gesetzes
+vom 12. Dezember 2019 (BGBl. I S. 2451) ist erstmals für den
+Erhebungszeitraum 2025 anzuwenden.
+3             § 3 Nummer 2 ist für die Investitionsbank Sachsen-Anhalt
 erstmals für den Erhebungszeitraum 2023 anzuwenden.
-3             Die Steuerbefreiung nach § 3 Nummer 2 in der bis zum 20.
+4             § 3 Nummer 2 ist für die DEG – Deutsche Investitions-
+und Entwicklungsgesellschaft mbH erstmals für den Erhebungszeitraum
+2024 anzuwenden.
+5             Die Steuerbefreiung nach § 3 Nummer 2 in der bis zum 20.
 Dezember 2022 geltenden Fassung ist für die Investitionsbank Sachsen-
 Anhalt – Anstalt der Norddeutschen Landesbank – Girozentrale –
 letztmalig für den Erhebungszeitraum 2023 anzuwenden.
-4             § 3 Nummer 13 in der Fassung des Artikels 8 des Gesetzes
+6             § 3 Nummer 13 in der Fassung des Artikels 8 des Gesetzes
 vom 12. Dezember 2019 (BGBl. I S. 2451) ist erstmals für den
 Erhebungszeitraum 2015 anzuwenden.
-5             § 3 Nummer 24 in der Fassung des Artikels 8 des Gesetzes
+7             § 3 Nummer 24 in der Fassung des Artikels 8 des Gesetzes
 vom 12. Dezember 2019 (BGBl. I S. 2451) ist erstmals für den
 Erhebungszeitraum 2019 anzuwenden.
-6             § 3 Nummer 32 in der Fassung des Artikels 8 des Gesetzes
+8             § 3 Nummer 32 in der Fassung des Artikels 8 des Gesetzes
 vom 12. Dezember 2019 (BGBl. I S. 2451) ist erstmals für den
 Erhebungszeitraum 2019 anzuwenden.
-7             § 3 Nummer 32 in der Fassung des Artikels 10 des
+9             § 3 Nummer 32 in der Fassung des Artikels 10 des
 Gesetzes vom 16. Dezember 2022 (BGBl. I S. 2294) ist erstmals für den
 Erhebungszeitraum 2022 anzuwenden.
 
@@ -1910,9 +1918,9 @@ Gewerbeertrag nach Satz 1.“
 3             § 7 Satz 7 in der Fassung des Artikels 16 des Gesetzes
 vom 20. Dezember 2016 (BGBl. I S. 3000) ist erstmals für den
 Erhebungszeitraum 2017 anzuwenden.
-4             § 7 Satz 9 in der Fassung des Artikels 3 des Gesetzes
-vom 25. Juni 2021 (BGBl. I S. 2035) ist erstmals für den
-Erhebungszeitraum 2022 anzuwenden.
+4             § 7 Satz 8 in der Fassung des Artikels 9 des Gesetzes
+vom 2. Dezember 2024 (BGBl. 2024 I Nr. 387) ist auch für
+Erhebungszeiträume vor 2024 anzuwenden.
 
 (3a) § 7b Absatz 2 Satz 4 in der Fassung des Artikels 10 des Gesetzes
 vom 16. Dezember 2022 (BGBl. I S. 2294) ist erstmals für den
@@ -1932,9 +1940,13 @@ Erhebungszeitraum 2030 anzuwenden.
 Juni 2021 (BGBl. I S. 2035) ist erstmals für den Erhebungszeitraum
 2022 anzuwenden.
 
-(4b) § 9 Nummer 1 Satz 3 Buchstabe b in der Fassung des Artikels 19
-des Gesetzes vom 27. März 2024 (BGBl. 2024 I Nr. 108) ist erstmals für
-den Erhebungszeitraum 2023 anzuwenden.
+(4b)
+1             § 9 Nummer 1 Satz 1 in der Fassung des Artikels 9 des
+Gesetzes vom 2. Dezember 2024 (BGBl. 2024 I Nr. 387) ist erstmals für
+den Erhebungszeitraum 2025 anzuwenden.
+2             § 9 Nummer 1 Satz 3 Buchstabe b in der Fassung des
+Artikels 19 des Gesetzes vom 27. März 2024 (BGBl. 2024 I Nr. 108) ist
+erstmals für den Erhebungszeitraum 2023 anzuwenden.
 
 (5)
 1             § 9 Nummer 3 Satz 1 erster Halbsatz in der Fassung des
@@ -1955,6 +1967,10 @@ mit der Maßgabe anzuwenden, dass für die Erhebungszeiträume 2019 bis
 Kalendermonat, für den Erhebungszeitraum 2023 der 18. Kalendermonat
 und für den Erhebungszeitraum 2024 der 17. Kalendermonat an die Stelle
 des 15. Kalendermonats tritt.
+
+(5c) § 29 Absatz 1 Nummer 3 und § 31 Absatz 3 in der jeweiligen
+Fassung des Artikels 9 des Gesetzes vom 2. Dezember 2024 (BGBl. 2024 I
+Nr. 387) sind erstmals für den Erhebungszeitraum 2025 anzuwenden.
 
 (6) § 35c Absatz 1 Nummer 2 Buchstabe f Satz 1 Doppelbuchstabe bb in
 der Fassung des Artikels 8 des Gesetzes vom 12. Dezember 2019 (BGBl. I

@@ -18,8 +18,8 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 19.3.2019 I 378
 
-Geändert durch
-:   Art. 1 V v. 9.12.2019 I 2142
+Zuletzt geändert durch
+:   Art. 1 V v. 28.11.2024 I Nr. 376
 
 
 ## § 1 Kosten der Grundsicherung für Arbeitsuchende
@@ -247,10 +247,19 @@ Leistungen Dritter sind
 ## § 12 Zentral verwaltete Verfahren der Informationstechnik
 
 Kosten der zentral verwalteten Verfahren der Informationstechnik sind
-die Aufwendungen der Bundesagentur für Arbeit für die Betreuung und
-Unterhaltung sowie Organisation des Betriebes der zentral verwalteten
-laufenden Verfahren der Informationstechnik für die gemeinsamen
-Einrichtungen nach § 50 Absatz 3 des Zweiten Buches Sozialgesetzbuch.
+die Aufwendungen der Bundesagentur für Arbeit für die Betreuung,
+Unterhaltung, Weiterentwicklung sowie Organisation des Betriebes der
+zentral verwalteten laufenden Verfahren der Informationstechnik für
+die gemeinsamen Einrichtungen nach § 50 Absatz 3 des Zweiten Buches
+Sozialgesetzbuch. Zu den Kosten der zentral verwalteten Verfahren der
+Informationstechnik zählen auch die Aufwendungen der Bundesagentur für
+Arbeit für die Betreuung, Unterhaltung, Weiterentwicklung und
+Organisation des Betriebes von laufenden Verfahren, die aus
+strukturellen, architektonischen oder sicherheitsrelevanten Gründen
+zum Betrieb der Verfahren nach Satz 1 notwendig sind, sowie die
+Aufwendungen für Informationstechnik zur Unterstützung der gemeinsamen
+Einrichtungen bei der Betrugsprävention und der Aufdeckung banden-
+oder gewerbsmäßiger Kriminalität.
 
 
 ## § 13 Grundsätze zur Bestimmung der Gesamtverwaltungskosten
@@ -317,9 +326,9 @@ entsprechend.
 ## § 16 Versorgungsaufwendungen für Beamtinnen und Beamte
 
 Für Versorgungsaufwendungen nach § 7 wird ein Zuschlag von bis zu 30
-Prozent der nach § 14 bestimmten Personalkosten für Beamtinnen und
-Beamte anerkannt. Abweichend von Satz 1 gilt vom 1. Januar 2015 bis
-31\. Dezember 2024 ein Zuschlag von bis zu 35 Prozent.
+Prozent der nach § 14 bestimmten ruhegehaltfähigen Personalkosten für
+Beamtinnen und Beamte anerkannt. Abweichend von Satz 1 gilt vom 1.
+Januar 2015 bis 31. Dezember 2025 ein Zuschlag von bis zu 35 Prozent.
 
 
 ## § 17 Bestimmung der Kosten für die Personalverwaltung

@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2003, 2123
 
 Zuletzt geändert durch
-:   Art. 1 V v. 1.9.2020 I 1977
+:   Art. 1 V v. 11.7.2025 I Nr. 162
 
 Die Verpflichtungen aus der Richtlinie 98/34/EG des Europäischen
 Parlaments und des Rates vom 22. Juni 1998 über ein
@@ -1321,9 +1321,13 @@ sicherzustellen, dass die Schusswaffe gemäß Absatz 1 gekennzeichnet
 ist.
 
 (7) Die Kennzeichnung gemäß den Absätzen 1 bis 6 hat eine Schriftgröße
-von mindestens 1,6 Millimetern aufzuweisen. Von der Mindestgröße gemäß
-Satz 1 kann abgewichen werden, wenn dies aufgrund der geringen Größe
-des zu kennzeichnenden wesentlichen Teils erforderlich ist. Für die
+von mindestens 1,6 Millimetern und eine Markierungstiefe von
+mindestens 0,0762 Millimetern aufzuweisen. Die Vorgabe zur
+Markierungstiefe nach Satz 1 ist nicht anzuwenden auf Schalldämpfer
+nach Anlage 1 Abschnitt 1 Unterabschnitt 1 Nummer 1.3 des
+Waffengesetzes. Von der Vorgabe zur Schriftgröße nach Satz 1 kann
+abgewichen werden, wenn dies aufgrund der geringen Größe des zu
+kennzeichnenden wesentlichen Teils erforderlich ist. Für die
 Kennzeichnung gemäß den Absätzen 1 bis 6 sind lateinische Buchstaben
 sowie das arabische und das römische Zahlensystem zulässig. Wird eine
 Schusswaffe in den Geltungsbereich des Waffengesetzes verbracht,

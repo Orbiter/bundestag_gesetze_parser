@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2014, 1945
 
 Zuletzt geändert durch
-:   Art. 1 V v. 23.6.2023 I Nr. 169
-
-Änderung durch
-:   Art. 3 Abs. 4 G v. 22.3.2024 I Nr. 104 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 14 G v. 22.12.2025 I Nr. 370
 
 
 ## Eingangsformel
@@ -109,9 +106,9 @@ bezogen werden.
 
 (5) Änderungen des Datenaustauschformats OSCI-XMeld, des
 Übermittlungsprotokolls OSCI-Transport sowie des DSMeld werden vom
-Bundesministerium des Innern, für Bau und Heimat im Bundesanzeiger
-bekannt gemacht. In der Bekanntmachung sind das Herausgabedatum und
-der Beginn der Anwendung anzugeben.
+Bundesministerium des Innern und für Heimat im Bundesanzeiger bekannt
+gemacht. In der Bekanntmachung sind das Herausgabedatum und der Beginn
+der Anwendung anzugeben.
 
 
 ## § 4 Automatisiertes Abrufverfahren zur Anmeldung
@@ -132,21 +129,21 @@ automatisierten Verfahren zum Abruf bereitzuhalten:
 
     *   Familienname
 
-    *   0101 bis 0106,
+    *   0101a bis 0105a,
 
 
 *    *   2.
 
-    *   Geburtsname
+    *   frühere Namen
 
-    *   0201 bis 0202,
+    *   0201a, 0203a,
 
 
 *    *   3.
 
     *   Vornamen unter Kennzeichnung des gebräuchlichen Vornamens
 
-    *   0301, 0302,
+    *   0301 bis 0303,
 
 
 *    *   4.
@@ -179,6 +176,13 @@ automatisierten Verfahren zum Abruf bereitzuhalten:
 
 *    *   8.
 
+    *   die Identifikationsnummer nach § 139b der Abgabenordnung
+
+    *   2701,
+
+
+*    *   9.
+
     *   zum gesetzlichen Vertreter: Familienname, Vornamen,
         Doktorgrad, Anschrift,
         Geburtsdatum, Geschlecht,
@@ -186,19 +190,19 @@ automatisierten Verfahren zum Abruf bereitzuhalten:
         Bundesmeldegesetzes
 
     *   0001,
-        0902 bis 0907a,
+        0902a bis 0907a,
         0917 bis 0919,
         1200 bis 1212, 1801a,
 
 
-*    *   9.
+*    *   10.
 
     *   derzeitige Staatsangehörigkeiten
 
     *   1001,
 
 
-*    *   10.
+*    *   11.
 
     *   rechtliche Zugehörigkeit zu einer öffentlich-rechtlichen
         Religionsgesellschaft
@@ -206,7 +210,7 @@ automatisierten Verfahren zum Abruf bereitzuhalten:
     *   1101, 1104,
 
 
-*    *   11.
+*    *   12.
 
     *   derzeitige Anschriften und Anschrift der letzten alleinigen Wohnung
         oder Hauptwohnung, Haupt- und Nebenwohnung, bei Zuzug aus dem Ausland
@@ -215,7 +219,7 @@ automatisierten Verfahren zum Abruf bereitzuhalten:
     *   1200 bis 1213a,
 
 
-*    *   12.
+*    *   13.
 
     *   Einzugsdatum, Auszugsdatum
 
@@ -223,7 +227,7 @@ automatisierten Verfahren zum Abruf bereitzuhalten:
         1305, 1306,
 
 
-*    *   13.
+*    *   14.
 
     *   Familienstand, bei Verheirateten oder Personen, die eine
         Lebenspartnerschaft führen,
@@ -236,7 +240,7 @@ automatisierten Verfahren zum Abruf bereitzuhalten:
         1408, 1409,
 
 
-*    *   14.
+*    *   15.
 
     *   zum Ehegatten oder Lebenspartner:
         Familienname, Vornamen, Geburtsname, Doktorgrad, Geburtsdatum,
@@ -246,25 +250,25 @@ automatisierten Verfahren zum Abruf bereitzuhalten:
         der Zuständigkeit der Meldebehörde, Auskunftssperren nach § 51 und
         bedingte Sperrvermerke nach § 52 des Bundesmeldegesetzes
 
-    *   1501 bis 1508,
+    *   1501a bis 1508,
         1516a bis 1524,
         1533, 1534,
         1200 bis 1213a, 1801a,
 
 
-*    *   15.
+*    *   16.
 
     *   zu minderjährigen Kindern: Familienname, Vornamen, Geburtsdatum,
         Geschlecht, Anschrift im Inland,
         Auskunftssperren nach § 51 und bedingte Sperrvermerke nach § 52 des
         Bundesmeldegesetzes
 
-    *   1601 bis 1604a,
+    *   1601a bis 1604a,
         1606, 1607,
         1200 bis 1212, 1801a,
 
 
-*    *   16.
+*    *   17.
 
     *   Ausstellungsbehörde, Ausstellungsdatum, letzter
         Tag der Gültigkeitsdauer und Seriennummer des
@@ -278,21 +282,21 @@ automatisierten Verfahren zum Abruf bereitzuhalten:
         1715 bis 1717,
 
 
-*    *   17.
+*    *   18.
 
     *   Auskunfts- und Übermittlungssperren
 
     *   1801 bis 1802,
 
 
-*    *   18.
+*    *   19.
 
     *   AZR-Nummer
 
     *   1712,
 
 
-*    *   19.
+*    *   20.
 
     *   für die Ausstellung von Pässen und Ausweisen die Tatsache, dass
         Passversagungsgründe vorliegen, ein Pass versagt oder entzogen oder
@@ -318,7 +322,7 @@ aufzunehmen und der Wegzugsmeldebehörde zu übermitteln:
 
     *   Familienname
 
-    *   0101 bis 0106,
+    *   0101a bis 0105a,
 
 
 *    *   2.
@@ -421,21 +425,21 @@ spätestens jedoch drei Werktage nach der Anmeldung zu übermitteln
 
     *   Familienname
 
-    *   0101 bis 0106,
+    *   0101a bis 0105a,
 
 
 *    *   2.
 
-    *   Geburtsname
+    *   frühere Namen
 
-    *   0201 bis 0202,
+    *   0201a, 0203a,
 
 
 *    *   3.
 
     *   Vornamen unter Kennzeichnung des gebräuchlichen Vornamens
 
-    *   0301, 0302,
+    *   0301 bis 0303,
 
 
 *    *   4.
@@ -468,6 +472,13 @@ spätestens jedoch drei Werktage nach der Anmeldung zu übermitteln
 
 *    *   8.
 
+    *   die Identifikationsnummer nach § 139b der Abgabenordnung
+
+    *   2701,
+
+
+*    *   9.
+
     *   zum gesetzlichen Vertreter: Familienname, Vornamen,
         Doktorgrad, Anschrift,
         Geburtsdatum, Geschlecht,
@@ -475,18 +486,18 @@ spätestens jedoch drei Werktage nach der Anmeldung zu übermitteln
         Bundesmeldegesetzes
 
     *   0001,
-        0902 bis 0907a, 0916 bis 0919,
+        0902a bis 0907a, 0916 bis 0919,
         1200 bis 1212, 1801a,
 
 
-*    *   9.
+*    *   10.
 
     *   derzeitige Staatsangehörigkeiten
 
     *   1001, 1005,
 
 
-*    *   10.
+*    *   11.
 
     *   rechtliche Zugehörigkeit zu einer öffentlich-rechtlichen
         Religionsgesellschaft
@@ -494,7 +505,7 @@ spätestens jedoch drei Werktage nach der Anmeldung zu übermitteln
     *   1101, 1104,
 
 
-*    *   11.
+*    *   12.
 
     *   derzeitige Anschriften und Anschrift der letzten
         alleinigen Wohnung oder Hauptwohnung, Haupt- und Nebenwohnung, bei
@@ -505,7 +516,7 @@ spätestens jedoch drei Werktage nach der Anmeldung zu übermitteln
         1223,
 
 
-*    *   12.
+*    *   13.
 
     *   Einzugsdatum, Auszugsdatum
 
@@ -513,7 +524,7 @@ spätestens jedoch drei Werktage nach der Anmeldung zu übermitteln
         1306, 1314,
 
 
-*    *   13.
+*    *   14.
 
     *   Familienstand, bei Verheirateten oder Personen, die eine
         Lebenspartnerschaft führen,
@@ -525,7 +536,7 @@ spätestens jedoch drei Werktage nach der Anmeldung zu übermitteln
         1408, 1409,
 
 
-*    *   14.
+*    *   15.
 
     *   zum Ehegatten oder Lebenspartner:
         Familienname, Vornamen, Geburtsname, Doktorgrad, Geburtsdatum,
@@ -536,25 +547,25 @@ spätestens jedoch drei Werktage nach der Anmeldung zu übermitteln
         Auskunftssperren nach § 51 und bedingte Sperrvermerke nach § 52 des
         Bundesmeldegesetzes
 
-    *   1501 bis 1508,
+    *   1501a bis 1508,
         1516a bis 1524,
         1533, 1534,
         1200 bis 1213a, 1801a,
 
 
-*    *   15.
+*    *   16.
 
     *   zu minderjährigen Kindern: Familienname, Vornamen, Geburtsdatum,
         Geschlecht, Anschrift im Inland,
         Auskunftssperren nach § 51 und bedingte Sperrvermerke nach § 52 des
         Bundesmeldegesetzes
 
-    *   1601 bis 1604a,
+    *   1601a bis 1604a,
         1606, 1607,
         1200 bis 1212, 1801a,
 
 
-*    *   16.
+*    *   17.
 
     *   Ausstellungsbehörde, Ausstellungsdatum, letzter
         Tag der Gültigkeitsdauer und Seriennummer des
@@ -568,14 +579,14 @@ spätestens jedoch drei Werktage nach der Anmeldung zu übermitteln
         1715 bis 1717,
 
 
-*    *   17.
+*    *   18.
 
     *   Auskunfts- und Übermittlungssperren
 
     *   1801 bis 1804,
 
 
-*    *   18.
+*    *   19.
 
     *   AZR-Nummer
 
@@ -604,14 +615,14 @@ Anschluss an das Rückmeldeverfahren gemäß Absatz 1 folgende Daten:
 
     *   Familienname
 
-    *   0101 bis 0106,
+    *   0101a bis 0105a,
 
 
 *    *   2.
 
     *   Geburtsname
 
-    *   0201 bis 0202,
+    *   0201a,
 
 
 *    *   3.
@@ -657,8 +668,8 @@ Anschluss an das Rückmeldeverfahren gemäß Absatz 1 folgende Daten:
         Hauptwohnung, Auskunftssperren nach § 51 und bedingte Sperrvermerke
         nach § 52 des Bundesmeldegesetzes
 
-    *   1501 bis 1506,
-        1517 bis 1522,
+    *   1501a bis 1506,
+        1517a bis 1522,
         1200 bis 1213, 1516a, 1516b, 1801a,
 
 
@@ -703,9 +714,9 @@ Ist die neue Wohnung die alleinige Wohnung oder die Hauptwohnung der
 zugezogenen Person, so unterrichtet die Wegzugsmeldebehörde die
 Zuzugsmeldebehörde unverzüglich, spätestens jedoch drei Werktage nach
 Eingang der Rückmeldung darüber, ob Tatsachen nach § 3 Absatz 2 Nummer
-1, 2 Buchstabe d, Nummer 3 bis 5, 7, 8 und 11 des Bundesmeldegesetzes
-vorliegen (Datenblätter 2101 bis 2106, 2301, 2302, 2401, 2601, 2602,
-2603, 2604, 2701 bis 2708, 2801, 2802 und 3101). Sie übermittelt der
+1, 2 Buchstabe d, Nummer 3 und 4, 7, 8 und 11 des Bundesmeldegesetzes
+vorliegen (Datenblätter 2101 bis 2106, 2301, 2302, 2601, 2602, 2603,
+2604, 2702 bis 2708, 2801 und 2802). Sie übermittelt der
 Zuzugsmeldebehörde auch die Datenblätter 1002 bis 1004 und 1305, das
 Sperrkennwort und die Sperrsumme des Personalausweises oder der eID-
 Karte nach § 3 Absatz 1 Nummer 17 des Bundesmeldegesetzes, sofern
@@ -746,14 +757,14 @@ Zuordnung zusätzlich folgende Daten der betroffenen Person zu
 
     *   Familienname
 
-    *   0101 bis 0106,
+    *   0101a bis 0105a,
 
 
 *    *   2.
 
     *   Geburtsname
 
-    *   0201 bis 0202,
+    *   0201a,
 
 
 *    *   3.
@@ -786,7 +797,7 @@ Zuordnung zusätzlich folgende Daten der betroffenen Person zu
 
 
 
-(4) In den Fällen des § 3 Absatz 2 Nummer 1, 4, 5, 7 und 8 des
+(4) In den Fällen des § 3 Absatz 2 Nummer 1, 4, 7 und 8 des
 Bundesmeldegesetzes hat die Wegzugsmeldebehörde der Zuzugsmeldebehörde
 auch die Hinweise zu übermitteln, die zum Nachweis der Richtigkeit
 dieser Daten erforderlich sind, soweit die Hinweise im Melderegister
@@ -823,9 +834,9 @@ besondere Erklärung der meldepflichtigen Person der Status der Wohnung
 
 (3) § 7 Absatz 3 gilt entsprechend.
 
-(4) Ändern sich die in § 3 Absatz 1 Nummer 14, 15 oder 18 oder Absatz
-2 Nummer 2 Buchstabe d und Nummer 3 des Bundesmeldegesetzes
-bezeichneten Daten von Ehegatten oder Lebenspartnern ohne gemeinsame
+(4) Ändern sich die in § 3 Absatz 1 Nummer 1 bis 4, 6 bis 8, 12, 14
+oder 18 oder Absatz 2 Nummer 3 des Bundesmeldegesetzes bezeichneten
+Daten von Personen mit Ehegatten oder Lebenspartnern ohne gemeinsame
 Wohnung oder findet ein Wegzug in das Ausland oder nach unbekannt
 statt, so übermittelt die Meldebehörde der für den anderen Ehegatten
 oder Lebenspartner zuständigen Meldebehörde die geänderten Daten
@@ -833,14 +844,13 @@ oder Lebenspartner zuständigen Meldebehörde die geänderten Daten
 zusätzlich anzugeben:
 
 1.  Name und Geburtsdatum der Person, deren Daten sich ändern
-    (Datenblätter 0101 bis 0106, 0201
-    bis 0202,                    0301, 0601) und
+    (Datenblätter 0101a bis 0105a, 0201a, 0301, 0601) und
 
 
-2.  Name und Geburtsdatum des Ehegatten oder des Lebenspartners sowie
-    Geburtsname des Ehegatten oder Lebenspartners, der zu der unter Nummer
-    1 genannten Person gespeichert ist (Datenblätter 1501 bis 1503, 1505,
-    1517 bis 1519, 1521).
+2.  Name, Geburtsname, Geburtsdatum und derzeitige Anschrift der Haupt-
+    oder alleinigen Wohnung des Ehegatten oder Lebenspartners der unter
+    Nummer 1 genannten Person (Datenblätter 1200 bis 1213, 1501a, 1502b,
+    1503, 1505, 1517a, 1518b, 1519, 1521).
 
 
 
@@ -851,14 +861,14 @@ Ehegatten oder den hinterbliebenen Lebenspartner zuständige
 Meldebehörde darüber zu unterrichten und ihr folgende Daten zu
 übermitteln (Sterbefallmitteilung Ehegatte oder Lebenspartner):
 
-1.  Name und Geburtsdatum der verstorbenen Person (Datenblätter 0101 bis
-    0106, 0201 bis 0202, 0301 und 0601),
+1.  Name und Geburtsdatum der verstorbenen Person (Datenblätter 0101a bis
+    0105a, 0201a, 0301 und 0601),
 
 
-2.  Name und Geburtsdatum des hinterbliebenen Ehegatten oder des
-    hinterbliebenen Lebenspartners, der zu der unter Nummer 1 genannten
-    Person gespeichert ist (Datenblätter 1501 bis 1503, 1505, 1517 bis
-    1519, 1521), sowie
+2.  Name, Geburtsname, Geburtsdatum und derzeitige Anschrift der Haupt-
+    oder alleinigen Wohnung des hinterbliebenen Ehegatten oder
+    Lebenspartners der unter Nummer 1 genannten Person (Datenblätter 1200
+    bis 1213, 1501a, 1502b, 1503, 1505, 1517a, 1518b, 1519, 1521), sowie
 
 
 3.  das Sterbedatum mit dem Datenblatt 1901.

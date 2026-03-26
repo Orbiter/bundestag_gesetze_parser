@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2013, 2201
 
-Geändert durch
-:   Art. 5 V v. 27.1.2014 I 90
+Zuletzt geändert durch
+:   Art. 2 V v. 11.6.2024 I Nr. 186
 
 [^f781296_01_BJNR220110013]:     Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 4
     des Berufsbildungsgesetzes. Die Ausbildungsordnung und der damit
@@ -118,16 +118,17 @@ Fluggerätelektronikerin gliedert sich in:
 
 (4) Integrative Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
-1.  Berufsbildung, Arbeits- und Tarifrecht,
+1.  Organisation des Ausbildungsbetriebes, Berufsbildung sowie Arbeits-
+    und Tarifrecht,
 
 
-2.  Aufbau und Organisation des Ausbildungsbetriebes,
+2.  Sicherheit und Gesundheit bei der Arbeit,
 
 
-3.  Sicherheit und Gesundheitsschutz bei der Arbeit,
+3.  Umweltschutz und Nachhaltigkeit,
 
 
-4.  Umweltschutz.
+4.  digitalisierte Arbeitswelt.
 
 
 
@@ -515,7 +516,8 @@ im Verhältnis von 2:1 zu gewichten.
 
 ## Anlage 1 Ausbildungsrahmenplan für die Berufsausbildung zum Fluggerätelektroniker und zur Fluggerätelektronikerin – Sachliche Gliederung –
 
-(Fundstelle: BGBl I 2013, 2204 - 2209)
+(Fundstelle: BGBl I 2013, 2204 - 2209
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 **Abschnitt A: Berufsprofilgebende Fertigkeiten, Kenntnisse und
 Fähigkeiten**
@@ -617,33 +619,44 @@ Fähigkeiten**
             Funktion und Eigenschaften handhaben
 
 
-        c)  elektrische und mechanische Verbindungen nach Eigenschaften und
+        c)  elektrische und mechanische Verbindungen unter Berücksichtigung
+            mathematischer und physikalischer Grundlagen nach Eigenschaften und
             Funktionen unterscheiden, herstellen und sichern
 
 
         d)  Aufbau von elektrischen, pneumatischen und hydraulischen Leitungen und
-            deren Verlegungsarten unterscheiden
+            deren Verlegungsarten unter Berücksichtigung mathematischer und
+            physikalischer Grundlagen unterscheiden
 
 
-        e)  Bauteile, insbesondere aus luftfahrtspezifischen Werkstoffen, formen
+        e)  Bauteile, insbesondere aus luftfahrtspezifischen Werkstoffen, unter
+            Berücksichtigung mathematischer und physikalischer Grundlagen formen
 
 
-        f)  Montage- und Demontagetechniken anwenden und Bauteile anpassen
+        f)  gängige Fertigungsverfahren und ihren Einfluss auf die mechanischen
+            und physikalischen Eigenschaften des fertigen Teils unter
+            Berücksichtigung mathematischer und physikalischer Grundlagen
+            unterscheiden sowie häufige Produktionsfehler prüfen
 
 
-        g)  Bauteile, Geräte, Baugruppen und Systeme zur Lagerung und zum
+        g)  Montage- und Demontagetechniken anwenden und Bauteile anpassen
+
+
+        h)  Bauteile, Geräte, Baugruppen und Systeme zur Lagerung und zum
             Transport vorbereiten
 
 
-        h)  Funktion von Potenzialausgleichsleitern prüfen und beurteilen
+        i)  Funktion von Potenzialausgleichsleitern unter Berücksichtigung
+            mathematischer und physikalischer Grundlagen prüfen und beurteilen
 
 
-        i)  Übergangswiderstände messen und beurteilen; Isolationswiderstände
+        j)  Übergangswiderstände unter Berücksichtigung mathematischer und
+            physikalischer Grundlagen messen und beurteilen; Isolationswiderstände
             beachten
 
 
-        j)  Einbauorte identifizieren, Bauteile und Geräte einmessen und
-            ausrichten
+        k)  Einbauorte identifizieren, Bauteile und Geräte einmessen und
+            ausrichten.
 
 
 
@@ -686,7 +699,8 @@ Fähigkeiten**
 
 
         c)  Fehlersuche und Überprüfungen an luftfahrzeug- und typenspezifischen
-            Systemen durchführen sowie Instandhaltungsmaßnahmen veranlassen
+            Systemen unter Berücksichtigung mathematischer und physikalischer
+            Grundlagen durchführen sowie Instandhaltungsmaßnahmen veranlassen.
 
 
 
@@ -718,26 +732,31 @@ Fähigkeiten**
             prüfen
 
 
-        b)  Qualitätsabweichungen und ihre Ursachen durch Zwischen- und
-            Endkontrollen feststellen sowie Maßnahmen zur Behebung ergreifen und
-            dokumentieren
+        b)  Fehler unter Beachtung des Fehlermeldewesens melden und die
+            Schutzwürdigkeit sicherheitsrelevanter Meldungen anerkennen
 
 
-        c)  zur kontinuierlichen Verbesserung von Arbeitsvorgängen im eigenen
-            Arbeitsbereich beitragen
+        c)  Qualitätsabweichungen und ihre Ursachen durch Zwischen- und
+            Endkontrollen sowie durch Auswertung eigener und fremder Fehler
+            feststellen, Maßnahmen zur Behebung ergreifen und dokumentieren
 
 
-        d)  Befugnisse, Verantwortlichkeiten und prozessbezogene Schnittstellen
+        d)  zur kontinuierlichen Verbesserung von Arbeitsvorgängen im eigenen
+            Arbeitsbereich beitragen sowie die Redlichkeitskultur berücksichtigen
+            und fördern
+
+
+        e)  Befugnisse, Verantwortlichkeiten und prozessbezogene Schnittstellen
             beachten
 
 
-        e)  Bauvorschriften, betriebliches Qualitätsmanagementhandbuch,
+        f)  Bauvorschriften, betriebliches Qualitätsmanagementhandbuch,
             Instandhaltungs- und Fertigungshandbücher sowie Arbeitsanweisungen und
-            technische Informationen auch in englischer Sprache beachten und
+            technische Informationen, auch in englischer Sprache, beachten und
             anwenden
 
 
-        f)  Fremdkörperkontrollen durchführen
+        g)  Fremdkörperkontrollen durchführen
 
 
 
@@ -749,8 +768,9 @@ Fähigkeiten**
         (§ 3 Absatz 3 Nummer 8)
 
     *
-        a)  Verantwortung des Einzelnen und eines Teams bei der Arbeit
-            berücksichtigen
+        a)  Verantwortung und Verhalten des Einzelnen und eines Teams sowie die
+            Kommunikation bei der Arbeit und deren Bedeutung für die Minderung von
+            Risiken berücksichtigen
 
 
         b)  kulturelle Einflüsse und Identitäten bei der Planung und Abstimmung im
@@ -759,13 +779,13 @@ Fähigkeiten**
 
         c)  psychische Einflüsse, insbesondere Gesundheit, Stress, Zeitdruck,
             Über- und Unterforderung, Routineaufgaben, Schlafmangel und
-            Drogenmissbrauch, bei der Arbeit am Fluggerät auf den Menschen
-            berücksichtigen
+            Drogenmissbrauch bei der Arbeit am Fluggerät, auf den Menschen und
+            deren Bedeutung für die Vergrößerung von Risiken berücksichtigen
 
 
         d)  physische Einflüsse, insbesondere durch Geräusche, Staub, Temperatur
             und Beleuchtung, und ihre Auswirkungen auf den Menschen sowie das
-            Arbeitsergebnis berücksichtigen
+            Arbeitsergebnis berücksichtigen.
 
 
 
@@ -1142,13 +1162,13 @@ Fähigkeiten**
 
 
 
-**Abschnitt B: Integrative Fertigkeiten, Kenntnisse und Fähigkeiten**
+Abschnitt B: Integrative Fertigkeiten, Kenntnisse und Fähigkeiten
 
 *    *   Lfd. Nr.
 
     *   Teil des Ausbildungsberufsbildes
 
-    *   Zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten
+    *   Fertigkeiten, Kenntnisse und Fähigkeiten
 
 
 *    *   1
@@ -1160,25 +1180,46 @@ Fähigkeiten**
 
 *    *   1
 
-    *   Berufsbildung, Arbeits- und Tarifrecht
+    *   Organisation des Ausbildungsbetriebes, Berufsbildung sowie Arbeits-
+        und Tarifrecht
         (§ 3 Absatz 4 Nummer 1)
 
     *
-        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und
-            Beendigung, erklären
+        a)  den Aufbau und die grundlegenden Arbeits- und Geschäftsprozesse des
+            Ausbildungsbetriebes erläutern
 
 
-        b)  gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen
+        b)  Rechte und Pflichten aus dem Ausbildungsvertrag sowie Dauer und
+            Beendigung des Ausbildungsverhältnisses erläutern und Aufgaben der im
+            System der dualen Berufsausbildung Beteiligten beschreiben
 
 
-        c)  Möglichkeiten der beruflichen Fortbildung nennen
+        c)  die Bedeutung, die Funktion und die Inhalte der Ausbildungsordnung und
+            des betrieblichen Ausbildungsplans erläutern sowie zu deren Umsetzung
+            beitragen
 
 
-        d)  wesentliche Teile des Arbeitsvertrages nennen
+        d)  die für den Ausbildungsbetrieb geltenden arbeits-, sozial-, tarif- und
+            mitbestimmungsrechtlichen Vorschriften erläutern
 
 
-        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden
-            Tarifverträge nennen
+        e)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder
+            personalvertretungsrechtlichen Organe des Ausbildungsbetriebes
+            erläutern
+
+
+        f)  Beziehungen des Ausbildungsbetriebes und seiner Beschäftigten zu
+            Wirtschaftsorganisationen und Gewerkschaften erläutern
+
+
+        g)  Positionen der eigenen Entgeltabrechnung erläutern
+
+
+        h)  wesentliche Inhalte von Arbeitsverträgen erläutern
+
+
+        i)  Möglichkeiten des beruflichen Aufstiegs und der beruflichen
+            Weiterentwicklung erläutern
 
 
 
@@ -1186,31 +1227,36 @@ Fähigkeiten**
 
 *    *   2
 
-    *   Aufbau und Organisation des Ausbildungsbetriebes
+    *   Sicherheit und Gesundheit bei der Arbeit
         (§ 3 Absatz 4 Nummer 2)
 
     *
-        a)  Aufbau und Aufgaben des ausbildenden Betriebes erläutern
+        a)  Rechte und Pflichten aus den berufsbezogenen Arbeitsschutz- und
+            Unfallverhütungsvorschriften kennen und diese Vorschriften anwenden
 
 
-        b)  Grundfunktionen des ausbildenden Betriebes wie Beschaffung, Fertigung,
-            Absatz und Verwaltung erklären
+        b)  Gefährdungen von Sicherheit und Gesundheit am Arbeitsplatz und auf dem
+            Arbeitsweg prüfen und beurteilen
 
 
-        c)  Beziehungen des ausbildenden Betriebes und seiner Belegschaft zu
-            Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften
-            nennen
+        c)  sicheres und gesundheitsgerechtes Arbeiten erläutern
 
 
+        d)  technische und organisatorische Maßnahmen zur Vermeidung von
+            Gefährdungen sowie von psychischen und physischen Belastungen für sich
+            und andere, auch präventiv, ergreifen
 
 
+        e)  ergonomische Arbeitsweisen beachten und anwenden
 
-*    *
-    *
-    *
-        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder
-            personalvertretungsrechtlichen Organe des ausbildenden Betriebes
-            beschreiben
+
+        f)  Verhaltensweisen bei Unfällen beschreiben und erste Maßnahmen bei
+            Unfällen einleiten
+
+
+        g)  betriebsbezogene Vorschriften des vorbeugenden Brandschutzes anwenden,
+            Verhaltensweisen bei Bränden beschreiben und erste Maßnahmen zur
+            Brandbekämpfung ergreifen
 
 
 
@@ -1218,28 +1264,36 @@ Fähigkeiten**
 
 *    *   3
 
-    *   Sicherheit und Gesundheitsschutz bei der Arbeit
+    *   Umweltschutz und Nachhaltigkeit
         (§ 3 Absatz 4 Nummer 3)
 
     *
-        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
-            und Maßnahmen zu ihrer Vermeidung ergreifen
+        a)  Möglichkeiten zur Vermeidung betriebsbedingter Belastungen für Umwelt
+            und Gesellschaft im eigenen Aufgabenbereich erkennen und zu deren
+            Weiterentwicklung beitragen
 
 
-        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften
-            anwenden
+        b)  bei Arbeitsprozessen und im Hinblick auf Produkte, Waren oder
+            Dienstleistungen, Materialien und Energie unter wirtschaftlichen,
+            umweltverträglichen und sozialen Gesichtspunkten der Nachhaltigkeit
+            nutzen
 
 
-        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen
-            einleiten
+        c)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
+            einhalten
 
 
-        d)  Bestimmungen und Sicherheitsregeln beim Arbeiten an elektrischen
-            Anlagen, Geräten und Betriebsmitteln beachten
+        d)  Abfälle vermeiden sowie Stoffe und Materialien einer umweltschonenden
+            Wiederverwertung oder Entsorgung zuführen
 
 
-        e)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen
-            bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
+        e)  Vorschläge für nachhaltiges Handeln für den eigenen Arbeitsbereich
+            entwickeln
+
+
+        f)  unter Einhaltung betrieblicher Regelungen im Sinne einer ökonomischen,
+            ökologischen und sozial nachhaltigen Entwicklung zusammenarbeiten und
+            adressatengerecht kommunizieren
 
 
 
@@ -1247,26 +1301,45 @@ Fähigkeiten**
 
 *    *   4
 
-    *   Umweltschutz
+    *   Digitalisierte Arbeitswelt
         (§ 3 Absatz 4 Nummer 4)
 
-    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen, insbesondere
-
-        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen
-            Beitrag zum Umweltschutz an Beispielen erklären
-
-
-        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
-            anwenden
+    *
+        a)  mit eigenen und betriebsbezogenen Daten sowie mit Daten Dritter
+            umgehen und dabei die Vorschriften zum Datenschutz und zur
+            Datensicherheit einhalten
 
 
-        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und
-            Materialverwendung nutzen
+        b)  Risiken bei der Nutzung von digitalen Medien und
+            informationstechnischen Systemen einschätzen und bei deren Nutzung
+            betriebliche Regelungen einhalten
 
 
-        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden
-            Entsorgung zuführen
+        c)  ressourcenschonend, adressatengerecht und effizient kommunizieren
+            sowie Kommunikationsergebnisse dokumentieren
+
+
+        d)  Störungen in Kommunikationsprozessen erkennen und zu ihrer Lösung
+            beitragen
+
+
+        e)  Informationen in digitalen Netzen recherchieren und aus digitalen
+            Netzen beschaffen sowie Informationen, auch fremde, prüfen, bewerten
+            und auswählen
+
+
+        f)  Lern- und Arbeitstechniken sowie Methoden des selbstgesteuerten
+            Lernens anwenden, digitale Lernmedien nutzen und Erfordernisse des
+            lebensbegleitenden Lernens erkennen und ableiten
+
+
+        g)  Aufgaben zusammen mit Beteiligten, einschließlich der Beteiligten
+            anderer Arbeits- und Geschäftsbereiche, auch unter Nutzung digitaler
+            Medien, planen, bearbeiten und gestalten
+
+
+        h)  Wertschätzung anderer unter Berücksichtigung gesellschaftlicher
+            Vielfalt praktizieren.
 
 
 
@@ -1276,21 +1349,20 @@ Fähigkeiten**
 
 (zu § 3 Absatz 1)
 
-## Anlage 2 Ausbildungsrahmenplan für die Berufsausbildung zum Fluggerätelektroniker und zur Fluggerätelektronikerin – Zeitliche Gliederung –
+## Anlage 2 Ausbildungsrahmenplan für die Berufsausbildung zum Fluggerätelektroniker und zur Fluggerätelektronikerin - Zeitliche Gliederung –
 
-(Fundstelle: BGBl I 2013, 2210 – 2220)
+(Fundstelle: BGBl. 2024 I Nr. 186, S. 42 – 53)
 
 **Abschnitt 1**
-
 
 *    *   Lfd. Nr.
 
     *   Teil des Ausbildungsberufsbildes
 
-    *   Zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten
+    *   Fertigkeiten, Kenntnisse und Fähigkeiten
 
-    *   Zeitrahmen
-        in Monaten
+    *   Zeitliche
+        Zuordnung
 
 
 *    *   1
@@ -1304,25 +1376,84 @@ Fähigkeiten**
 
 *    *   1
 
-    *   Berufsbildung, Arbeits- und Tarifrecht
+    *   Organisation des Ausbildungsbetriebes, Berufsbildung sowie Arbeits-
+        und Tarifrecht
         (§ 3 Absatz 4 Nummer 1)
 
     *
-        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und
-            Beendigung erklären
+        a)  den Aufbau und die grundlegenden Arbeits- und Geschäftsprozesse des
+            Ausbildungsbetriebes erläutern
 
 
-        b)  gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen
+        b)  Rechte und Pflichten aus dem Ausbildungsvertrag sowie Dauer und
+            Beendigung des Ausbildungsverhältnisses erläutern und Aufgaben der im
+            System der dualen Berufsausbildung Beteiligten beschreiben
 
 
-        c)  Möglichkeiten der beruflichen Fortbildung nennen
+        c)  die Bedeutung, die Funktion und die Inhalte der Ausbildungsordnung und
+            des betrieblichen Ausbildungsplans erläutern sowie zu deren Umsetzung
+            beitragen
 
 
-        d)  wesentliche Teile des Arbeitsvertrages nennen
+        d)  die für den Ausbildungsbetrieb geltenden arbeits-, sozial-, tarif- und
+            mitbestimmungsrechtlichen Vorschriften erläutern
 
 
-        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden
-            Tarifverträge nennen
+        e)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder
+            personalvertretungsrechtlichen Organe des Ausbildungsbetriebes
+            erläutern
+
+
+        f)  Beziehungen des Ausbildungsbetriebes und seiner Beschäftigten zu
+            Wirtschaftsorganisationen und Gewerkschaften erläutern
+
+
+        g)  Positionen der eigenen Entgeltabrechnung erläutern
+
+
+        h)  wesentliche Inhalte von Arbeitsverträgen erläutern
+
+
+        i)  Möglichkeiten des beruflichen Aufstiegs und der beruflichen
+            Weiterentwicklung erläutern
+
+
+
+
+    *
+
+*    *   2
+
+    *   Sicherheit und Gesundheit bei der Arbeit
+        (§ 3 Absatz 4 Nummer 2)
+
+    *
+        a)  Rechte und Pflichten aus den berufsbezogenen Arbeitsschutz- und
+            Unfallverhütungsvorschriften kennen und diese Vorschriften anwenden
+
+
+        b)  Gefährdungen von Sicherheit und Gesundheit am Arbeitsplatz und auf dem
+            Arbeitsweg prüfen und beurteilen
+
+
+        c)  sicheres und gesundheitsgerechtes Arbeiten erläutern
+
+
+        d)  technische und organisatorische Maßnahmen zur Vermeidung von
+            Gefährdungen sowie von psychischen und physischen Belastungen für sich
+            und andere, auch präventiv, ergreifen
+
+
+        e)  ergonomische Arbeitsweisen beachten und anwenden
+
+
+        f)  Verhaltensweisen bei Unfällen beschreiben und erste Maßnahmen bei
+            Unfällen einleiten
+
+
+        g)  betriebsbezogene Vorschriften des vorbeugenden Brandschutzes anwenden,
+            Verhaltensweisen bei Bränden beschreiben und erste Maßnahmen zur
+            Brandbekämpfung ergreifen
 
 
 
@@ -1330,104 +1461,106 @@ Fähigkeiten**
     *   während
         der gesamten
         Ausbildung
-        zu vermitteln
-
-
-*    *   2
-
-    *   Aufbau und Organisation
-        des Ausbildungsbetriebes
-        (§ 3 Absatz 4 Nummer 2)
-
-    *
-        a)  Aufbau und Aufgaben des ausbildenden Betriebes erläutern
-
-
-        b)  Grundfunktionen des ausbildenden Betriebes wie Beschaffung, Fertigung,
-            Absatz und Verwaltung erklären
-
-
-        c)  Beziehungen des ausbildenden Betriebes und seiner Belegschaft zu
-            Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften
-            nennen
-
-
-        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder
-            personalvertretungsrechtlichen Organe des ausbildenden Betriebes
-            beschreiben
-
-
-
 
 
 *    *   3
 
-    *   Sicherheit und Gesundheitsschutz bei der Arbeit
+    *   Umweltschutz und Nachhaltigkeit
         (§ 3 Absatz 4 Nummer 3)
 
     *
-        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
-            und Maßnahmen zu ihrer Vermeidung ergreifen
+        a)  Möglichkeiten zur Vermeidung betriebsbedingter Belastungen für Umwelt
+            und Gesellschaft im eigenen Aufgabenbereich erkennen und zu deren
+            Weiterentwicklung beitragen
 
 
-        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften
-            anwenden
+        b)  bei Arbeitsprozessen und im Hinblick auf Produkte, Waren oder
+            Dienstleistungen, Materialien und Energie unter wirtschaftlichen,
+            umweltverträglichen und sozialen Gesichtspunkten der Nachhaltigkeit
+            nutzen
 
 
-        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen
-            einleiten
+        c)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
+            einhalten
 
 
-        d)  Bestimmungen und Sicherheitsregeln beim Arbeiten an elektrischen
-            Anlagen, Geräten und Betriebsmitteln beachten
+        d)  Abfälle vermeiden sowie Stoffe und Materialien einer umweltschonenden
+            Wiederverwertung oder Entsorgung zuführen
 
 
-        e)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen
-            bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
+        e)  Vorschläge für nachhaltiges Handeln für den eigenen Arbeitsbereich
+            entwickeln
+
+
+        f)  unter Einhaltung betrieblicher Regelungen im Sinne einer ökonomischen,
+            ökologischen und sozial nachhaltigen Entwicklung zusammenarbeiten und
+            adressatengerecht kommunizieren
 
 
 
 
+    *
 
 *    *   4
 
-    *   Umweltschutz
+    *   Digitalisierte Arbeitswelt
         (§ 3 Absatz 4 Nummer 4)
 
-    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen, insbesondere
-
-        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen
-            Beitrag zum Umweltschutz an Beispielen erklären
-
-
-        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
-            anwenden
+    *
+        a)  mit eigenen und betriebsbezogenen Daten sowie mit Daten Dritter
+            umgehen und dabei die Vorschriften zum Datenschutz und zur
+            Datensicherheit einhalten
 
 
-        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und
-            Materialverwendung nutzen
+        b)  Risiken bei der Nutzung von digitalen Medien und
+            informationstechnischen Systemen einschätzen und bei deren Nutzung
+            betriebliche Regelungen einhalten
 
 
-        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden
-            Entsorgung zuführen
+        c)  ressourcenschonend, adressatengerecht und effizient kommunizieren
+            sowie Kommunikationsergebnisse dokumentieren
+
+
+        d)  Störungen in Kommunikationsprozessen erkennen und zu ihrer Lösung
+            beitragen
+
+
+        e)  Informationen in digitalen Netzen recherchieren und aus digitalen
+            Netzen beschaffen sowie Informationen, auch fremde, prüfen, bewerten
+            und auswählen
+
+
+        f)  Lern- und Arbeitstechniken sowie Methoden des selbstgesteuerten
+            Lernens anwenden, digitale Lernmedien nutzen und Erfordernisse des
+            lebensbegleitenden Lernens erkennen und ableiten
+
+
+        g)  Aufgaben zusammen mit Beteiligten, einschließlich der Beteiligten
+            anderer Arbeits- und Geschäftsbereiche, auch unter Nutzung digitaler
+            Medien, planen, bearbeiten und gestalten
+
+
+        h)  Wertschätzung anderer unter Berücksichtigung gesellschaftlicher
+            Vielfalt praktizieren
 
 
 
 
+    *
 
 
-**Abschnitt 2**
 
-**1. bis 3. Ausbildungshalbjahr**
+   **Abschnitt 2**
 
-Zeitrahmen 1: Herstellen und Installieren einfacher Systeme
+**1 bis 3. Ausbildungshalbjahr**
+
+Zeitrahmen 1: Herstellen und Installieren einfacher Systeme
 
 *    *   Lfd. Nr.
 
     *   Teil des Ausbildungsberufsbildes
 
-    *   Zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten
+    *   Fertigkeiten, Kenntnisse und Fähigkeiten
 
     *   Zeitrahmen
         in Monaten
@@ -1444,9 +1577,7 @@ Zeitrahmen 1: Herstellen und Installieren einfacher Systeme
 
 *    *   1
 
-    *   Planen und Organisieren
-        der Arbeit, Bewerten der
-        Arbeitsergebnisse
+    *   Planen und Organisieren der Arbeit, Bewerten der Arbeitsergebnisse
         (§ 3 Absatz 3 Nummer 1)
 
     *
@@ -1459,8 +1590,7 @@ Zeitrahmen 1: Herstellen und Installieren einfacher Systeme
 
 
 
-    *   3 bis 5
-
+    *
 
 *    *   2
 
@@ -1477,6 +1607,7 @@ Zeitrahmen 1: Herstellen und Installieren einfacher Systeme
 
 
 
+    *
 
 *    *   3
 
@@ -1493,17 +1624,27 @@ Zeitrahmen 1: Herstellen und Installieren einfacher Systeme
             Funktion und Eigenschaften handhaben
 
 
-        c)  elektrische und mechanische Verbindungen nach Eigenschaften und
+        c)  elektrische und mechanische Verbindungen unter Berücksichtigung
+            mathematischer und physikalischer Grundlagen nach Eigenschaften und
             Funktionen unterscheiden, herstellen und sichern
 
 
-        e)  Bauteile, insbesondere aus luftfahrtspezifischen Werkstoffen, formen
+        e)  Bauteile, insbesondere aus luftfahrtspezifischen Werkstoffen, unter
+            Berücksichtigung mathematischer und physikalischer Grundlagen formen
 
 
-        f)  Montage- und Demontagetechniken anwenden und Bauteile anpassen
+        f)  gängige Fertigungsverfahren und ihren Einfluss auf die mechanischen
+            und physikalischen Eigenschaften des fertigen Teils unter
+            Berücksichtigung mathematischer und physikalischer Grundlagen
+            unterscheiden sowie häufige Produktionsfehler prüfen
+
+
+        g)  Montage- und Demontagetechniken anwenden und Bauteile anpassen
 
 
 
+
+    *   3 bis 5
 
 
 *    *   4
@@ -1512,8 +1653,9 @@ Zeitrahmen 1: Herstellen und Installieren einfacher Systeme
         (§ 3 Absatz 3 Nummer 8)
 
     *
-        a)  Verantwortung des Einzelnen und eines Teams bei der Arbeit
-            berücksichtigen
+        a)  Verantwortung und Verhalten des Einzelnen und eines Teams sowie die
+            Kommunikation bei der Arbeit und deren Bedeutung für die Minderung von
+            Risiken berücksichtigen
 
 
         b)  kulturelle Einflüsse und Identitäten bei der Planung und Abstimmung im
@@ -1522,6 +1664,7 @@ Zeitrahmen 1: Herstellen und Installieren einfacher Systeme
 
 
 
+    *
 
 *    *   5
 
@@ -1546,17 +1689,18 @@ Zeitrahmen 1: Herstellen und Installieren einfacher Systeme
 
 
 
+    *
 
 
 
-Zeitrahmen 2: Geräte und Anlagen installieren und deren elektrische
+   Zeitrahmen 2: Geräte und Anlagen installieren und deren elektrische
 Sicherheit prüfen
 
 *    *   Lfd. Nr.
 
     *   Teil des Ausbildungsberufsbildes
 
-    *   Zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten
+    *   Fertigkeiten, Kenntnisse und Fähigkeiten
 
     *   Zeitrahmen
         in Monaten
@@ -1573,9 +1717,7 @@ Sicherheit prüfen
 
 *    *   1
 
-    *   Planen und Organisieren
-        der Arbeit, Bewerten der
-        Arbeitsergebnisse
+    *   Planen und Organisieren der Arbeit, Bewerten der Arbeitsergebnisse
         (§ 3 Absatz 3 Nummer 1)
 
     *
@@ -1616,10 +1758,12 @@ Sicherheit prüfen
         (§ 3 Absatz 3 Nummer 3)
 
     *
-        h)  Funktion von Potenzialausgleichsleitern prüfen und beurteilen
+        i)  Funktion von Potenzialausgleichsleitern unter Berücksichtigung
+            mathematischer und physikalischer Grundlagen prüfen und beurteilen
 
 
-        i)  Übergangswiderstände messen und beurteilen; Isolationswiderstände
+        j)  Übergangswiderstände unter Berücksichtigung mathematischer und
+            physikalischer Grundlagen messen und beurteilen; Isolationswiderstände
             beachten
 
 
@@ -1656,8 +1800,7 @@ Sicherheit prüfen
 
 *    *   5
 
-    *   Beurteilen der Sicherheit
-        von elektrischen Anlagen und Betriebsmitteln
+    *   Beurteilen der Sicherheit von elektrischen Anlagen und Betriebsmitteln
         (§ 3 Absatz 3 Nummer 11)
 
     *
@@ -1688,13 +1831,13 @@ Sicherheit prüfen
 
 
 
-   Zeitrahmen 3: Baugruppen und Geräte herstellen und prüfen
+   Zeitrahmen 3: Baugruppen und Geräte herstellen und prüfen
 
 *    *   Lfd. Nr.
 
     *   Teil des Ausbildungsberufsbildes
 
-    *   Zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten
+    *   Fertigkeiten, Kenntnisse und Fähigkeiten
 
     *   Zeitrahmen
         in Monaten
@@ -1711,9 +1854,7 @@ Sicherheit prüfen
 
 *    *   1
 
-    *   Planen und Organisieren
-        der Arbeit, Bewerten der
-        Arbeitsergebnisse
+    *   Planen und Organisieren der Arbeit, Bewerten der Arbeitsergebnisse
         (§ 3 Absatz 3 Nummer 1)
 
     *
@@ -1748,7 +1889,7 @@ Sicherheit prüfen
         (§ 3 Absatz 3 Nummer 3)
 
     *
-        j)  Einbauorte identifizieren, Bauteile und Geräte einmessen und
+        k)  Einbauorte identifizieren, Bauteile und Geräte einmessen und
             ausrichten
 
 
@@ -1764,8 +1905,8 @@ Sicherheit prüfen
     *
         c)  psychische Einflüsse, insbesondere Gesundheit, Stress, Zeitdruck,
             Über- und Unterforderung, Routineaufgaben, Schlafmangel und
-            Drogenmissbrauch, bei der Arbeit am Fluggerät auf den Menschen
-            berücksichtigen
+            Drogenmissbrauch bei der Arbeit am Fluggerät, auf den Menschen und
+            deren Bedeutung für die Vergrößerung von Risiken berücksichtigen
 
 
         d)  physische Einflüsse, insbesondere durch Geräusche, Staub, Temperatur
@@ -1864,14 +2005,14 @@ Sicherheit prüfen
 
 
 
-   Zeitrahmen 4: Versorgungs- und Steuerungssysteme in Betrieb nehmen und
+   Zeitrahmen 4: Versorgungs- und Steuerungssysteme in Betrieb nehmen und
 prüfen
 
 *    *   Lfd. Nr.
 
     *   Teil des Ausbildungsberufsbildes
 
-    *   Zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten
+    *   Fertigkeiten, Kenntnisse und Fähigkeiten
 
     *   Zeitrahmen
         in Monaten
@@ -1905,15 +2046,17 @@ prüfen
         (§ 3 Absatz 3 Nummer 3)
 
     *
-        c)  elektrische und mechanische Verbindungen nach Eigenschaften und
+        c)  elektrische und mechanische Verbindungen unter Berücksichtigung
+            mathematischer und physikalischer Grundlagen nach Eigenschaften und
             Funktionen unterscheiden, herstellen und sichern
 
 
         d)  Aufbau von elektrischen, pneumatischen und hydraulischen Leitungen und
-            deren Verlegungsarten unterscheiden
+            deren Verlegungsarten unter Berücksichtigung mathematischer und
+            physikalischer Grundlagen unterscheiden
 
 
-        g)  Bauteile, Geräte, Baugruppen und Systeme zur Lagerung und zum
+        h)  Bauteile, Geräte, Baugruppen und Systeme zur Lagerung und zum
             Transport vorbereiten
 
 
@@ -1931,12 +2074,16 @@ prüfen
             prüfen
 
 
-        b)  Qualitätsabweichungen und ihre Ursachen durch Zwischen- und
-            Endkontrollen feststellen sowie Maßnahmen zur Behebung ergreifen und
-            dokumentieren
+        b)  Fehler unter Beachtung des Fehlermeldewesens melden und die
+            Schutzwürdigkeit sicherheitsrelevanter Meldungen anerkennen
 
 
-        f)  Fremdkörperkontrollen durchführen
+        c)  Qualitätsabweichungen und ihre Ursachen durch Zwischen- und
+            Endkontrollen sowie durch Auswertung eigener und fremder Fehler
+            feststellen, Maßnahmen zur Behebung ergreifen und dokumentieren
+
+
+        g)  Fremdkörperkontrollen durchführen
 
 
 
@@ -1967,8 +2114,7 @@ prüfen
 
 *    *   5
 
-    *   Messen und Analysieren
-        von elektrischen Funktionen und Systemen
+    *   Messen und Analysieren von elektrischen Funktionen und Systemen
         (§ 3 Absatz 3 Nummer 10)
 
     *
@@ -1994,8 +2140,7 @@ prüfen
 
 *    *   6
 
-    *   Beurteilen der Sicherheit
-        von elektrischen Anlagen und Betriebsmitteln
+    *   Beurteilen der Sicherheit von elektrischen Anlagen und Betriebsmitteln
         (§ 3 Absatz 3 Nummer 11)
 
     *
@@ -2049,13 +2194,13 @@ prüfen
 
 
 
-   Zeitrahmen 5: Baugruppen und Geräte installieren
+   Zeitrahmen 5: Baugruppen und Geräte installieren
 
 *    *   Lfd. Nr.
 
     *   Teil des Ausbildungsberufsbildes
 
-    *   Zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten
+    *   Fertigkeiten, Kenntnisse und Fähigkeiten
 
     *   Zeitrahmen
         in Monaten
@@ -2072,9 +2217,7 @@ prüfen
 
 *    *   1
 
-    *   Planen und Organisieren
-        der Arbeit, Bewerten der
-        Arbeitsergebnisse
+    *   Planen und Organisieren der Arbeit, Bewerten der Arbeitsergebnisse
         (§ 3 Absatz 3 Nummer 1)
 
     *
@@ -2087,13 +2230,11 @@ prüfen
 
 
 
-    *   2 bis 4
-
+    *
 
 *    *   2
 
-    *   Betriebliche und
-        technische Kommunikation
+    *   Betriebliche und technische Kommunikation
         (§ 3 Absatz 3 Nummer 2)
 
     *
@@ -2102,12 +2243,11 @@ prüfen
 
 
 
+    *
 
 *    *   3
 
-    *   Installieren von
-        Komponenten und
-        Teilsystemen der Avionik
+    *   Installieren von Komponenten und Teilsystemen der Avionik
         (§ 3 Absatz 3 Nummer 13)
 
     *
@@ -2123,6 +2263,14 @@ prüfen
         f)  Kabelbäume anfertigen, prüfen und einbauen
 
 
+
+
+    *   2 bis 4
+
+
+*    *
+    *
+    *
         g)  Energie-, Signal- und Datenleitungen verlegen, verbinden und
             anschließen
 
@@ -2132,18 +2280,19 @@ prüfen
 
 
 
+    *
 
 
 
-**4. bis 7. Ausbildungshalbjahr**
+   **4. bis 7. Ausbildungshalbjahr**
 
-Zeitrahmen 6: Steuerungssysteme in Betrieb nehmen und instand halten
+Zeitrahmen 6: Steuerungssysteme in Betrieb nehmen und instand halten
 
 *    *   Lfd. Nr.
 
     *   Teil des Ausbildungsberufsbildes
 
-    *   Zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten
+    *   Fertigkeiten, Kenntnisse und Fähigkeiten
 
     *   Zeitrahmen
         in Monaten
@@ -2160,9 +2309,7 @@ Zeitrahmen 6: Steuerungssysteme in Betrieb nehmen und instand halten
 
 *    *   1
 
-    *   Planen und Organisieren
-        der Arbeit, Bewerten der
-        Arbeitsergebnisse
+    *   Planen und Organisieren der Arbeit, Bewerten der Arbeitsergebnisse
         (§ 3 Absatz 3 Nummer 1)
 
     *
@@ -2172,8 +2319,7 @@ Zeitrahmen 6: Steuerungssysteme in Betrieb nehmen und instand halten
 
 
 
-    *   2 bis 4
-
+    *
 
 *    *   2
 
@@ -2189,14 +2335,15 @@ Zeitrahmen 6: Steuerungssysteme in Betrieb nehmen und instand halten
             Fachbegriffe anwenden
 
 
-        g)  Dokumentationen auch in englischer Sprache erstellen
+        g)  Dokumentationen, auch in englischer Sprache, erstellen
 
 
-        h)  Kommunikation auch in englischer Sprache durchführen
+        h)  Kommunikation, auch in englischer Sprache, durchführen
 
 
 
 
+    *
 
 *    *   3
 
@@ -2211,17 +2358,23 @@ Zeitrahmen 6: Steuerungssysteme in Betrieb nehmen und instand halten
             Beanstandung, Fertigung und Instandhaltung durchführen
 
 
+
+
+
+*    *
+    *
+    *
         c)  Einstellarbeiten an Baugruppen, Systemen und Fluggerät nach Fertigung
             und Instandhaltung durchführen
 
 
 
 
+    *
 
 *    *   4
 
-    *   Messen und Analysieren
-        von elektrischen Funktionen und Systemen
+    *   Messen und Analysieren von elektrischen Funktionen und Systemen
         (§ 3 Absatz 3 Nummer 10)
 
     *
@@ -2237,6 +2390,8 @@ Zeitrahmen 6: Steuerungssysteme in Betrieb nehmen und instand halten
 
 
 
+
+    *   2 bis 4
 
 
 *    *   5
@@ -2265,11 +2420,11 @@ Zeitrahmen 6: Steuerungssysteme in Betrieb nehmen und instand halten
 
 
 
+    *
 
 *    *   6
 
-    *   In Betrieb nehmen von
-        Systemen der Avionik
+    *   In Betrieb nehmen von Systemen der Avionik
         (§ 3 Absatz 3 Nummer 15)
 
     *
@@ -2288,6 +2443,7 @@ Zeitrahmen 6: Steuerungssysteme in Betrieb nehmen und instand halten
 
 
 
+    *
 
 *    *   7
 
@@ -2306,16 +2462,17 @@ Zeitrahmen 6: Steuerungssysteme in Betrieb nehmen und instand halten
 
 
 
+    *
 
 
 
-Zeitrahmen 7: Teilsysteme der Avionik installieren
+   Zeitrahmen 7: Teilsysteme der Avionik installieren
 
 *    *   Lfd. Nr.
 
     *   Teil des Ausbildungsberufsbildes
 
-    *   Zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten
+    *   Fertigkeiten, Kenntnisse und Fähigkeiten
 
     *   Zeitrahmen
         in Monaten
@@ -2332,9 +2489,7 @@ Zeitrahmen 7: Teilsysteme der Avionik installieren
 
 *    *   1
 
-    *   Planen und Organisieren
-        der Arbeit, Bewerten der
-        Arbeitsergebnisse
+    *   Planen und Organisieren der Arbeit, Bewerten der Arbeitsergebnisse
         (§ 3 Absatz 3 Nummer 1)
 
     *
@@ -2349,8 +2504,7 @@ Zeitrahmen 7: Teilsysteme der Avionik installieren
 
 
 
-    *   2 bis 4
-
+    *
 
 *    *   2
 
@@ -2367,6 +2521,7 @@ Zeitrahmen 7: Teilsysteme der Avionik installieren
 
 
 
+    *
 
 *    *   3
 
@@ -2378,12 +2533,13 @@ Zeitrahmen 7: Teilsysteme der Avionik installieren
             Funktion und Eigenschaften handhaben
 
 
-        g)  Bauteile, Geräte, Baugruppen und Systeme zur Lagerung und zum
+        h)  Bauteile, Geräte, Baugruppen und Systeme zur Lagerung und zum
             Transport vorbereiten
 
 
 
 
+    *
 
 *    *   4
 
@@ -2391,21 +2547,24 @@ Zeitrahmen 7: Teilsysteme der Avionik installieren
         (§ 3 Absatz 3 Nummer 7)
 
     *
-        c)  zur kontinuierlichen Verbesserung von Arbeitsvorgängen im eigenen
-            Arbeitsbereich beitragen
+        d)  zur kontinuierlichen Verbesserung von Arbeitsvorgängen im eigenen
+            Arbeitsbereich beitragen sowie die Redlichkeitskultur berücksichtigen
+            und fördern
 
 
-        d)  Befugnisse, Verantwortlichkeiten und prozessbezogene Schnittstellen
+        e)  Befugnisse, Verantwortlichkeiten und prozessbezogene Schnittstellen
             beachten
 
 
-        e)  Bauvorschriften, betriebliches Qualitätsmanagementhandbuch,
+        f)  Bauvorschriften, betriebliches Qualitätsmanagementhandbuch,
             Instandhaltungs- und Fertigungshandbücher sowie Arbeitsanweisungen und
-            technische Informationen auch in englischer Sprache beachten und
+            technische Informationen, auch in englischer Sprache, beachten und
             anwenden
 
 
 
+
+    *   2 bis 4
 
 
 *    *   5
@@ -2424,6 +2583,7 @@ Zeitrahmen 7: Teilsysteme der Avionik installieren
 
 
 
+    *
 
 *    *   6
 
@@ -2441,17 +2601,18 @@ Zeitrahmen 7: Teilsysteme der Avionik installieren
 
 
 
+    *
 
 
 
-Zeitrahmen 8: Informations- und Kommunikationssysteme in Betrieb
+   Zeitrahmen 8: Informations- und Kommunikationssysteme in Betrieb
 nehmen
 
 *    *   Lfd. Nr.
 
     *   Teil des Ausbildungsberufsbildes
 
-    *   Zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten
+    *   Fertigkeiten, Kenntnisse und Fähigkeiten
 
     *   Zeitrahmen
         in Monaten
@@ -2468,9 +2629,7 @@ nehmen
 
 *    *   1
 
-    *   Planen und Organisieren
-        der Arbeit, Bewerten der
-        Arbeitsergebnisse
+    *   Planen und Organisieren der Arbeit, Bewerten der Arbeitsergebnisse
         (§ 3 Absatz 3 Nummer 1)
 
     *
@@ -2497,19 +2656,12 @@ nehmen
             Vorschriften, auch in englischer Sprache, anwenden
 
 
-        g)  Dokumentationen auch in englischer Sprache erstellen
+        g)  Dokumentationen, auch in englischer Sprache, erstellen
 
 
-        h)  Kommunikation auch in englischer Sprache durchführen
+        h)  Kommunikation, auch in englischer Sprache, durchführen
 
 
-
-
-    *
-
-*    *
-    *
-    *
         i)  IT-Systeme zur Auftragsplanung und -abwicklung sowie Terminverfolgung
             anwenden
 
@@ -2555,8 +2707,7 @@ nehmen
 
 *    *   5
 
-    *   Messen und Analysieren
-        von elektrischen Funktionen und Systemen
+    *   Messen und Analysieren von elektrischen Funktionen und Systemen
         (§ 3 Absatz 3 Nummer 10)
 
     *
@@ -2582,7 +2733,7 @@ nehmen
             zusammenbauen, verdrahten und installieren
 
 
-        m)  Softwarte-Updates durchführen
+        m)  Software-Updates durchführen
 
 
 
@@ -2607,8 +2758,7 @@ nehmen
 
 *    *   8
 
-    *   In Betrieb nehmen von
-        Systemen der Avionik
+    *   In Betrieb nehmen von Systemen der Avionik
         (§ 3 Absatz 3 Nummer 15)
 
     *
@@ -2628,13 +2778,13 @@ nehmen
 
 
 
-   Zeitrahmen 9: Flugüberwachungssysteme in Betrieb nehmen
+   Zeitrahmen 9: Flugüberwachungssysteme in Betrieb nehmen
 
 *    *   Lfd. Nr.
 
     *   Teil des Ausbildungsberufsbildes
 
-    *   Zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten
+    *   Fertigkeiten, Kenntnisse und Fähigkeiten
 
     *   Zeitrahmen
         in Monaten
@@ -2651,9 +2801,7 @@ nehmen
 
 *    *   1
 
-    *   Planen und Organisieren
-        der Arbeit, Bewerten der
-        Arbeitsergebnisse
+    *   Planen und Organisieren der Arbeit, Bewerten der Arbeitsergebnisse
         (§ 3 Absatz 3 Nummer 1)
 
     *
@@ -2674,7 +2822,7 @@ nehmen
         e)  Gespräche organisieren und situationsgerecht und zielorientiert führen
 
 
-        h)  Kommunikation auch in englischer Sprache durchführen
+        h)  Kommunikation, auch in englischer Sprache, durchführen
 
 
         i)  IT-Systeme zur Auftragsplanung und -abwicklung sowie Terminverfolgung
@@ -2690,9 +2838,7 @@ nehmen
 
 *    *   3
 
-    *   Beraten und Betreuen
-        von Kunden, Erbringen
-        von Serviceleistungen
+    *   Beraten und Betreuen von Kunden, Erbringen von Serviceleistungen
         (§ 3 Absatz 3 Nummer 12)
 
     *
@@ -2727,7 +2873,7 @@ nehmen
             korrigieren und Änderungen dokumentieren
 
 
-        m)  Softwarte-Updates durchführen
+        m)  Software-Updates durchführen
 
 
 
@@ -2787,13 +2933,13 @@ nehmen
 
 
 
-   Zeitrahmen 10: Antriebs- und Avioniksysteme instand halten
+   Zeitrahmen 10: Antriebs- und Avioniksysteme instand halten
 
 *    *   Lfd. Nr.
 
     *   Teil des Ausbildungsberufsbildes
 
-    *   Zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten
+    *   Fertigkeiten, Kenntnisse und Fähigkeiten
 
     *   Zeitrahmen
         in Monaten
@@ -2810,9 +2956,7 @@ nehmen
 
 *    *   1
 
-    *   Planen und Organisieren
-        der Arbeit, Bewerten der
-        Arbeitsergebnisse
+    *   Planen und Organisieren der Arbeit, Bewerten der Arbeitsergebnisse
         (§ 3 Absatz 3 Nummer 1)
 
     *
@@ -2826,8 +2970,7 @@ nehmen
 
 *    *   2
 
-    *   Betriebliche und
-        technische Kommunikation
+    *   Betriebliche und technische Kommunikation
         (§ 3 Absatz 3 Nummer 2)
 
     *
@@ -2838,7 +2981,7 @@ nehmen
             Fachbegriffe anwenden
 
 
-        g)  Dokumentationen auch in englischer Sprache erstellen
+        g)  Dokumentationen, auch in englischer Sprache, erstellen
 
 
         i)  IT-Systeme zur Auftragsplanung und -abwicklung sowie Terminverfolgung
@@ -2860,24 +3003,19 @@ nehmen
             Systemen durchführen
 
 
-
-
-    *
-
-*    *
-    *
-    *
         b)  Bauteile, Geräte und Baugruppen mit begrenzter Lebensdauer
             kontrollieren
 
 
         c)  Fehlersuche und Überprüfungen an luftfahrzeug- und typenspezifischen
-            Systemen durchführen sowie Instandhaltungsmaßnahmen veranlassen
+            Systemen unter Berücksichtigung mathematischer und physikalischer
+            Grundlagen durchführen sowie Instandhaltungsmaßnahmen veranlassen
 
 
 
 
-    *
+    *   3 bis 5
+
 
 *    *   4
 
@@ -2894,14 +3032,11 @@ nehmen
 
 
 
-    *   3 bis 5
-
+    *
 
 *    *   5
 
-    *   Beraten und Betreuen
-        von Kunden, Erbringen
-        von Serviceleistungen
+    *   Beraten und Betreuen von Kunden, Erbringen von Serviceleistungen
         (§ 3 Absatz 3 Nummer 12)
 
     *
@@ -2915,6 +3050,12 @@ nehmen
         c)  Störungsmeldungen aufnehmen
 
 
+
+
+
+*    *
+    *
+    *
         d)  Einzelheiten der Auftragsabwicklung vereinbaren, bei Störungen der
             Auftragsabwicklung Lösungsvarianten aufzeigen
 
@@ -2953,14 +3094,14 @@ nehmen
 
 
 
-   Zeitrahmen 11: Arbeitsprozess unter Beachtung des Qualitätsmanagements
+   Zeitrahmen 11: Arbeitsprozess unter Beachtung des Qualitätsmanagements
 gestalten
 
 *    *   Lfd. Nr.
 
     *   Teil des Ausbildungsberufsbildes
 
-    *   Zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten
+    *   Fertigkeiten, Kenntnisse und Fähigkeiten
 
     *   Zeitrahmen
         in Monaten
@@ -2977,8 +3118,7 @@ gestalten
 
 *    *   1
 
-    *   Arbeitsprozesse und
-        Qualitätsmanagement im Einsatzgebiet anwenden
+    *   Arbeitsprozesse und Qualitätsmanagement im Einsatzgebiet anwenden
         (§ 3 Absatz 3 Nummer 17)
 
     *
@@ -3011,16 +3151,8 @@ gestalten
         g)  Auftrag dokumentieren, übergeben und Abrechnungsdaten erstellen
 
 
-
-
-    *   7 bis 9
-
-
-*    *
-    *
-    *
-        h)  Abnahmeprotokolle ausfüllen, Fachauskünfte auch in englischer Sprache
-            erteilen, Geräte und Systemdokumentation, auch in Englisch,
+        h)  Abnahmeprotokolle ausfüllen, Fachauskünfte, auch in englischer
+            Sprache, erteilen, Geräte und Systemdokumentation, auch in Englisch,
             zusammenstellen
 
 
@@ -3029,18 +3161,19 @@ gestalten
 
 
 
-    *
+    *   7 bis 9
 
 
 
-   (zu § 3 Absatz 1)
 
-## Anlage 3 Regelung zur Vermittlung der Fertigkeiten, Kenntnisse und Fähigkeiten nach Verordnung (EU) Nr. 1149/2011 Anhang III (Teil 66)
+(zu § 3 Absatz 1)
 
-(Fundstelle: BGBl I 2013, 2221 – 2227)
+## Anlage 3 Regelung zur Vermittlung der Fertigkeiten, Kenntnisse und Fähigkeiten nach der Verordnung (EU) Nr. 1321/2014 in Verbindung mit der Verordnung (EU) 2023/989 Anhang III (Teil 66)
+
+(Fundstelle: BGBl. 2024 I Nr. 186, S. 54 – 63)
 
 
-*    *   erforderliche Kenntnisse für CAT A
+*    *   erforderliche Kenntnisse für Kat. A
 
     *   gefordertes LEVEL
 
@@ -3066,9 +3199,187 @@ gestalten
         (nur FGE)
 
 
+*    *   **01**
+
+    *   **Modul 1. Mathematik**
+
+    *
+    *
+    *
+
+*    *
+    *   1.1 Arithmetik
+
+    *   1
+
+    *   Abschnitt A: 3c, 3d, 3e, 3f, 3i, 3j, 5c
+
+    *   Lernfeld 2
+
+
+*    *
+    *   1.2 Algebra
+
+    *
+    *
+    *
+
+*    *
+    *   a) Einfache algebraische Ausdrücke
+
+    *   1
+
+    *   Abschnitt A: 3c, 3d, 3e, 3f, 3i, 3j, 5c
+
+    *   Lernfeld 2
+
+
+*    *
+    *   1.3 Geometrie
+
+    *
+    *
+
+*    *
+    *   b) Grafische Darstellung
+
+    *   2
+
+    *   Abschnitt A: 3c, 3d, 3e, 3f, 3i, 3j, 5c
+
+    *   Lernfeld 3, 4
+
+
+*    *   **02**
+
+    *   **Modul 2. Physik**
+
+    *
+    *
+    *
+
+*    *
+    *   2.1 Materie
+
+    *   1
+
+    *   Abschnitt A: 3c, 3d, 3e, 3f, 3i, 3j, 5c
+
+    *   Lernfeld 1
+
+
+*    *
+    *   2.2 Mechanik
+
+    *
+    *
+    *
+
+*    *
+    *   2.2.1 Statik
+
+    *   1
+
+    *   Abschnitt A: 3c, 3d, 3e, 3f, 3i, 3j, 5c
+
+    *   Lernfeld 1
+
+
+*    *
+    *   2.2.2 Kinetik
+
+    *   1
+
+    *   Abschnitt A: 3c, 3d, 3e, 3f, 3i, 3j, 5c
+
+    *   Lernfeld 1
+
+
+*    *
+    *   2.2.3 Dynamik
+
+    *
+    *
+    *
+
+*    *
+    *   a) Masse, Kraft und Energie
+
+    *   1
+
+    *   Abschnitt A: 3c, 3d, 3e, 3f, 3i, 3j, 5c
+
+    *   Lernfeld 1
+
+
+*    *
+    *   b) Bewegungsenergie und Erhaltung der Bewegungsenergie
+
+    *   1
+
+    *   Abschnitt A: 3c, 3d, 3e, 3f, 3i, 3j, 5c
+
+    *   Lernfeld 1
+
+
+*    *
+    *   2.2.4 Fluiddynamik
+
+    *
+    *
+    *
+
+*    *
+    *   a) Spezifisches Gewicht und spezifische Dichte
+
+    *   2
+
+    *   Abschnitt A: 3c, 3d, 3e, 3f, 3i, 3j, 5c
+
+    *   Lernfeld 12
+
+
+*    *
+    *   b) Viskosität, Flüssigkeitswiderstand, Statischer, dynamischer und
+        Gesamtdruck
+
+    *   1
+
+    *   Abschnitt A: 3c, 3d, 3e, 3f, 3i, 3j, 5c
+
+    *   Lernfeld 12
+
+
+*    *
+    *   2.3 Thermodynamik
+
+    *
+    *
+    *
+
+*    *
+    *   a) Temperatur
+
+    *   2
+
+    *   Abschnitt A: 3c, 3d, 3e, 3f, 3i, 3j, 5c
+
+    *   Lernfeld 7
+
+
+*    *
+    *   b) Wärme
+
+    *   1
+
+    *   Abschnitt A: 3c, 3d, 3e, 3f, 3i, 3j, 5c
+
+    *   Lernfeld 7
+
+
 *    *   **03**
 
-    *   **Grundlagen Elektrik**
+    *   **Modul 3. Grundlagen der Elektrik**
 
     *
     *
@@ -3079,7 +3390,7 @@ gestalten
 
     *   1
 
-    *   Abschnitt A: 3c, 3d, 3h, 3i, 4a, 4c
+    *   Abschnitt A: 3c, 3d, 3i, 3j, 4a, 4c
 
     *   Lernfeld 2
 
@@ -3095,7 +3406,7 @@ gestalten
 
 
 *    *
-    *   3.3 Elektrische Begriffe
+    *   3.3 Terminologie der Elektrik
 
     *   1
 
@@ -3125,6 +3436,16 @@ gestalten
 
 
 *    *
+    *   3.6 Gleichstromkreis
+
+    *   1
+
+    *   Abschnitt A: 3c, 3d, 4a, 4c
+
+    *   Lernfeld 2
+
+
+*    *
     *   3.13 Wechselstromtheorie
 
     *   1
@@ -3136,8 +3457,7 @@ gestalten
 
 *    *   **05**
 
-    *   Digitaltechniken und
-        **elektronische Instrumentensysteme**
+    *   **Modul 5. Instrumentensysteme der Digitaltechniken/Elektronik**
 
     *
     *
@@ -3148,36 +3468,61 @@ gestalten
 
     *   1
 
-    *   Abschnitt A: 3j, 4a, 4c
+    *   Abschnitt A: 3k, 4a, 4c
 
     *   Lernfeld 2, Lernfeld 9
 
 
 *    *
-    *   5.6 a) Computerterminologie,
-        -technologie
+    *   5.6 Computergrundstruktur
+
+    *
+    *
+    *
+
+*    *
+    *   a) Computerterminologie, -technologie
 
     *   1
 
-    *   Abschnitt A: 3j
+    *   Abschnitt A: 3k
 
     *   Lernfeld 2
 
 
 *    *
-    *   5.12 Elektrostatisch empfindliche
-        Komponenten
+    *   5.11 Elektronische Anzeigen
 
     *   1
 
-    *   Abschnitt A: 3j, 4a, 4c
+    *   Abschnitt A: 3b, 3k, 4a, 4c
+
+    *   Lernfeld 2
+
+
+*    *
+    *   5.12 Elektrostatisch empfindliche Komponenten
+
+    *   1
+
+    *   Abschnitt A: 3k, 4a, 4c
+
+    *   Lernfeld 2
+
+
+*    *
+    *   5.15 Typische elektronische/digitale Luftfahrzeugsysteme
+
+    *   1
+
+    *   Abschnitt A: 3b, 3k, 4b, 4c, 5a, 5c
 
     *   Lernfeld 2
 
 
 *    *   **06**
 
-    *   **Werkstoffe und Komponenten**
+    *   **Modul 6. Werkstoffe und Hardware**
 
     *
     *
@@ -3191,9 +3536,7 @@ gestalten
     *
 
 *    *
-    *   a) Merkmale, Eigenschaften und
-        Kennzeichnung von in Lfz ver-
-        wendeten üblichen legierten Stählen
+    *   a) Legierte Stähle für Luftfahrtzeuge
 
     *   1
 
@@ -3203,17 +3546,14 @@ gestalten
 
 
 *    *
-    *   6.2 Luftfahrzeugwerkstoffe – nicht
-        eisenhaltig
+    *   6.2 Luftfahrzeugwerkstoffe – nicht eisenhaltig
 
     *
     *
     *
 
 *    *
-    *   a) Merkmale, Eigenschaften und
-        Kennzeichnung von in Lfz verwendeten üblichen nicht eisenhaltigen
-        Werkstoffen
+    *   a)  Merkmale
 
     *   1
 
@@ -3238,9 +3578,7 @@ gestalten
     *
 
 *    *
-    *   a) Merkmale, Eigenschaften und
-        Identifizierung von in Lfz verwendeten üblichen Verbund und
-        nichtmetallischen Werkstoffen
+    *   a) Merkmale
 
     *   1
 
@@ -3250,8 +3588,7 @@ gestalten
 
 
 *    *
-    *   b) Erkennen von
-        Mängeln/Beeinträchtigungen
+    *   b) Erkennen von Mängeln
 
     *   1
 
@@ -3271,16 +3608,6 @@ gestalten
 
 
 *    *
-    *   6.3.3 Gewebeverkleidung
-
-    *   1
-
-    *   Abschnitt A: 2a, 3b, 3e, 5a
-
-    *   Lernfeld 3
-
-
-*    *
     *   6.4 Korrosion
 
     *
@@ -3288,7 +3615,7 @@ gestalten
     *
 
 *    *
-    *   a) Chemische Grundlagen
+    *   a) Grundlagen der Chemie
 
     *   1
 
@@ -3298,11 +3625,11 @@ gestalten
 
 
 *    *
-    *   b) Korrosionsarten und ihre Identifikation
+    *   b) Korrosionsarten
 
     *   2
 
-    *   Abschnitt A: 3b, 3g, 5a, 5c
+    *   Abschnitt A: 3b, 3h, 5a, 5c
 
     *   Lernfeld 4
 
@@ -3362,24 +3689,21 @@ gestalten
     *
 
 *    *
-    *   a) Kennzeichnung und Typen der
-        starren und flexiblen Rohre, ihrer
-        Verbindungen, die in Lfz verwendet werden
+    *   a) Kennzeichnung
 
     *   2
 
-    *   Abschnitt A: 2b, 3b, 3c, 3d, 3f, 3g, 3j, 4b, 4c
+    *   Abschnitt A: 2b, 3b, 3c, 3d, 3g, 3h, 3k, 4b, 4c
 
     *   Lernfeld 4
 
 
 *    *
-    *   b) Standardanschlüsse für Luftfahrzeughydraulik-, Kraftstoff-, Öl-,
-        Pneumatik- und Luftrohrsysteme
+    *   b) Standardanschlüsse
 
     *   2
 
-    *   Abschnitt A: 2b, 3b, 3c, 3d, 3f, 3g, 3j, 4b, 4c
+    *   Abschnitt A: 2b, 3b, 3c, 3d, 3g, 3h, 3k, 4b, 4c
 
     *   Lernfeld 4
 
@@ -3389,7 +3713,7 @@ gestalten
 
     *   1
 
-    *   Abschnitt A: 2b, 3b, 3c, 3f, 3g, 3j, 4c, 6b
+    *   Abschnitt A: 2b, 3b, 3c, 3g, 3h, 3k, 4c, 6b
 
     *   Lernfeld 7
 
@@ -3399,7 +3723,7 @@ gestalten
 
     *   1
 
-    *   Abschnitt A: 2b, 3b, 3c, 3f, 3g, 3j, 4c, 6b
+    *   Abschnitt A: 2b, 3b, 3c, 3g, 3h, 3k, 4c, 6b
 
     *   Lernfeld 7
 
@@ -3409,7 +3733,7 @@ gestalten
 
     *   1
 
-    *   Abschnitt A: 3b, 3c, 3f, 3g, 3j, 4b, 4c
+    *   Abschnitt A: 3b, 3c, 3g, 3h, 3k, 4b, 4c
 
     *   Lernfeld 1
 
@@ -3419,26 +3743,26 @@ gestalten
 
     *   1
 
-    *   Abschnitt A: 3c, 3d, 3f, 4a, 4b
+    *   Abschnitt A: 3c, 3d, 3g, 4a, 4b
 
     *   Lernfeld 2, Lernfeld 4
 
 
-*    *   **07A**
+*    *   **07**
 
-    *   **Instandhaltung**
+    *   **Modul 7. Instandhaltung**
 
     *
     *
     *
 
 *    *
-    *   7.1 Sicherheitsmaßnahmen –
-        Luftfahrzeug und Werkstatt
+    *   7.1 Sicherheitsmaßnahmen – Luftfahrzeug und Werkstatt
 
     *   3
 
-    *   Abschnitt A: 1a, 1c, 1d, 5a, 6a, 7a; Abschnitt B: 3a, 3b, 3c, 3d, 3e
+    *   Abschnitt A: 1a, 1c, 1d, 5a, 6a, 7a
+        Abschnitt B: 3a, 3b, 3c, 3d, 3e
 
     *   Lernfeld 1, Lernfeld 3
 
@@ -3448,10 +3772,9 @@ gestalten
 
     *   3
 
-    *   Abschnitt A: 1c, 2b, 3a, 5a, 6a, 6b, 7a, 7b, 7c, 7d, 7e, 7f
+    *   Abschnitt A: 1c, 2b, 3a, 5a, 6a, 6b, 7a, 7c, 7d, 7e, 7f, 7g
 
-    *   Lernfeld 1, Lernfeld 3,
-        Lernfeld 12
+    *   Lernfeld 1, Lernfeld 3, Lernfeld 12
 
 
 *    *
@@ -3459,22 +3782,19 @@ gestalten
 
     *   3
 
-    *   Abschnitt A: 1c, 3a, 5a, 6a, 7a, 7b, 7c, 7d, 7e
+    *   Abschnitt A: 1c, 3a, 5a, 6a, 7a, 7c, 7d, 7e, 7f
 
-    *   Lernfeld 1, Lernfeld 3,
-        Lernfeld 4, Lernfeld 12
+    *   Lernfeld 1, Lernfeld 3, Lernfeld 4, Lernfeld 12
 
 
 *    *
-    *   7.5 Technische Zeichnungen,
-        Diagramme und Normen
+    *   7.5 Technische Zeichnungen, Diagramme und Normen
 
     *   1
 
-    *   Abschnitt A: 1b, 1d, 2a, 2b, 2c, 5a, 6a, 6b, 7e
+    *   Abschnitt A: 1b, 1d, 2a, 2b, 2c, 5a, 6a, 6b, 7f
 
-    *   Lernfeld 1, Lernfeld 3,
-        Lernfeld 4
+    *   Lernfeld 1, Lernfeld 3, Lernfeld 4
 
 
 *    *
@@ -3482,7 +3802,7 @@ gestalten
 
     *   1
 
-    *   Abschnitt A: 2a, 2b, 2c, 3f, 5a, 7e
+    *   Abschnitt A: 2a, 2b, 2c, 3g, 5a, 7f
 
     *   Lernfeld 4
 
@@ -3502,7 +3822,7 @@ gestalten
 
     *   1
 
-    *   Abschnitt A: 3a, 3b, 3c, 3f, 5a, 5b, 5c
+    *   Abschnitt A: 3a, 3b, 3c, 3g, 5a, 5b, 5c
 
     *   Lernfeld 4
 
@@ -3512,7 +3832,7 @@ gestalten
 
     *   1
 
-    *   Abschnitt A: 3c, 3d, 3f, 5a, 5b, 5c
+    *   Abschnitt A: 3c, 3d, 3g, 5a, 5b, 5c
 
     *   Lernfeld 4
 
@@ -3558,11 +3878,28 @@ gestalten
 
 
 *    *
-    *   7.17 Handhabung und Lagerung des Lfz
+    *   7.14 Werkstoffbearbeitung
+
+    *
+    *
+    *
+
+*    *
+    *   7.14.3 Additive Fertigung
+
+    *   1
+
+    *   Abschnitt A: 3a, 3b, 3e, 3f, 4b
+
+    *   Lernfeld 3
+
+
+*    *
+    *   7.17 Handhabung und Lagerung von Luftfahrzeugen
 
     *   2
 
-    *   Abschnitt A: 1a, 1d, 3b, 3g, 5a
+    *   Abschnitt A: 1a, 1d, 3b, 3h, 5a
 
     *   Lernfeld 1
 
@@ -3579,31 +3916,30 @@ gestalten
 
     *   2
 
-    *   Abschnitt A: 3f, 5a, 5b, 5c,
+    *   Abschnitt A: 3g, 5a, 5b, 5c
 
-    *   Lernfeld 3, Lernfeld 4,
-        Lernfeld 12
+    *   Lernfeld 3, Lernfeld 4, Lernfeld 12
 
 
 *    *
-    *   d) Demontage- und Wiedermontagetechniken
+    *   d) Demontage- und Wiedermontagetechniken
 
     *   2
 
-    *   Abschnitt A: 3f, 3j, 5a, 5b, 5c
+    *   Abschnitt A: 3g, 3k, 5a, 5b, 5c
 
     *   Lernfeld 4, Lernfeld 12
 
 
 *    *
-    *   7.19 Abnormale Ereignisse
+    *   7.19 Abnormale Ereignisse
 
     *
     *
     *
 
 *    *
-    *   a) Prüfungen nach Blitzschlägen und HIRF
+    *   a) Prüfungen nach Blitzschlägen und HIRF
 
     *   2
 
@@ -3613,8 +3949,8 @@ gestalten
 
 
 *    *
-    *   b) Prüfungen nach abnormalen
-        Ereignissen, wie harten Landungen, Flug durch Turbulenzen
+    *   b) Prüfungen nach abnormalen Ereignissen, wie harten Landungen, Flug
+        durch Turbulenzen
 
     *   2
 
@@ -3628,14 +3964,25 @@ gestalten
 
     *   1
 
-    *   Abschnitt A: 2c, 3g, 5a, 5b, 5c, 7a, 7b
+    *   Abschnitt A: 2c, 3h, 5a, 5b, 5c, 7a, 7c
 
     *   Lernfeld 12
 
 
+*    *
+    *   7.21 Dokumentation und Kommunikation
+
+    *   1
+
+    *   Abschnitt A: 2b, 2f, 2g, 2h
+        Abschnitt B: 4c, 4d
+
+    *   Lernfeld 4
+
+
 *    *   **08**
 
-    *   **Grundlagen der Aerodynamik**
+    *   **Modul 8. Grundlagen der Aerodynamik**
 
     *
     *
@@ -3672,7 +4019,17 @@ gestalten
 
 
 *    *
-    *   8.4 Flugstabilität und Dynamik
+    *   8.4 Hochgeschwindigkeitsluftstrom
+
+    *   1
+
+    *   Abschnitt A: 3b
+
+    *   Lernfeld 1
+
+
+*    *
+    *   8.5 Flugstabilität und -dynamik
 
     *   1
 
@@ -3681,30 +4038,29 @@ gestalten
     *   Lernfeld 1
 
 
-*    *   **09A**
+*    *   **09**
 
-    *   **Menschliche Faktoren**
+    *   **Modul 9. Menschliche Faktoren**
 
     *
     *
     *
 
 *    *
-    *   9.1 Allgemeines
+    *   9.1  Allgemeines
 
-    *   1
+    *   2
 
-    *   Abschnitt A: 8b, 8c ;
-        Abschnitt B: 3a, 3b
+    *   Abschnitt A: 8b, 8c
+        Abschnitt B: 2a, 2b
 
     *   Lernfeld 1
 
 
 *    *
-    *   9.2 Menschliche Leistung und
-        Einschränkungen
+    *   9.2 Menschliches Leistungsvermögen und dessen Grenzen
 
-    *   1
+    *   2
 
     *   Abschnitt A: 1b, 8a, 8c
 
@@ -3764,7 +4120,7 @@ gestalten
 *    *
     *   9.8 Menschliche Fehler
 
-    *   1
+    *   2
 
     *   Abschnitt A: 1a, 1b, 8b, 8c, 8d
 
@@ -3772,26 +4128,36 @@ gestalten
 
 
 *    *
-    *   9.9 Gefahren am Arbeitsplatz
+    *   9.9 Sicherheitsmanagement
 
-    *   1
+    *   2
 
-    *   Abschnitt A: 1a, 1b, 1d, 8d;
-        Abschnitt B: 3d
+    *   Abschnitt A: 1a, 1b, 1d, 7a, 7b, 7c, 7d
+        Abschnitt B: 2d
 
-    *   Lernfeld 1
+    *   Lernfeld 1, Lernfeld 4
+
+
+*    *
+    *   9.10 Das „schmutzige Dutzend“ („Dirty Dozen“) und Risikominderung
+
+    *   2
+
+    *   Abschnitt A: 1a, 1b, 7d, 8a, 8c
+
+    *   Lernfeld 1, Lernfeld 4
 
 
 *    *   **10**
 
-    *   **Luftfahrtgesetzgebung**
+    *   **Modul 10. Luftrecht**
 
     *
     *
     *
 
 *    *
-    *   10.1 Rechtsvorschriften
+    *   10.1 Rechtsrahmen
 
     *   1
 
@@ -3802,19 +4168,17 @@ gestalten
 
 
 *    *
-    *   10.2 Freigabeberechtigtes Personal –
-        Instandhaltung
+    *   10.2 Freigabeberechtigtes Personal Instandhaltung
 
     *   2
 
-    *   Abschnitt A: 2a, 2c, 2j, 5a, 7d
+    *   Abschnitt A: 2a, 2c, 2j, 5a, 7e
 
     *   Lernfeld 4, Lernfeld 12
 
 
 *    *
-    *   10.3 Genehmigter
-        Instandhaltungsbetrieb
+    *   10.3 Genehmigte Instandhaltungsorganisationen
 
     *   2
 
@@ -3824,7 +4188,7 @@ gestalten
 
 
 *    *
-    *   10.4 Flugbetrieb
+    *   10.5 Flugbetrieb
 
     *   1
 
@@ -3834,54 +4198,63 @@ gestalten
 
 
 *    *
-    *   10.6 Aufrechterhaltung der
-        Lufttüchtigkeit
+    *   10.6 Zulassung von Luftfahrzeugen, Bau- und Ausrüstungsteilen
 
     *   2
 
-    *   Abschnitt A: 2a, 2c, 2j, 5a
+    *   Abschnitt A: 2a, 2c, 2j, 5a, 7f
 
     *   Lernfeld 9, Lernfeld 12
 
 
 *    *
-    *   10.7 Geltende nationale und
-        internationale Anforderungen
+    *   10.7 Aufrechterhaltung der Lufttüchtigkeit
 
-    *
-    *
-    *
+    *   2
+
+    *   Abschnitt A: 2a, 2c, 2j, 5a, 7f
+
+    *   Lernfeld 9, Lernfeld 12
+
 
 *    *
-    *   a) Instandhaltungsprogramme,
-        Lufttüchtigkeitsanforderungen …
+    *   10.8 Aufsichtsgrundsätze für die Aufrechterhaltung der Lufttüchtigkeit
 
     *   1
 
-    *   Abschnitt A: 2a, 2c, 2j, 5a
+    *   Abschnitt A: 7e, 2j
 
-    *   Lernfeld 9, Lernfeld 12
+    *   Lernfeld 1, Lernfeld 12
 
 
-*    *   **11A**
+*    *
+    *   10.10 Cybersicherheit bei der Instandhaltung der Luftfahrt
 
-    *   **Aerodynamik, Strukturen und Systeme von Flugzeugen mit
-        Turbinentriebwerk**
+    *   1
+
+    *   Abschnitt A: 2c, 2d, 2i
+        Abschnitt B: 4a, 4b, 4e
+
+    *   Lernfeld 1, Lernfeld 12
+
+
+*    *   **11**
+
+    *   **Modul 11. Aerodynamik, Strukturen und Systeme von Flugzeugen**
 
     *
     *
     *
 
 *    *
-    *   11.1 Flugtheorie
+    *   11.1 Flugtheorie
 
     *
     *
     *
 
 *    *
-    *   11.1.1 Flugzeugaerodynamik und
-        Flugsteuerung
+    *   a) Flugzeugaerodynamik und Flugsteuerung
 
     *   1
 
@@ -3891,7 +4264,7 @@ gestalten
 
 
 *    *
-    *   11.1.2 Hochgeschwindigkeitsflug
+    *   b) Flugzeug, sonstige aerodynamische Geräte
 
     *   1
 
@@ -3901,51 +4274,84 @@ gestalten
 
 
 *    *
-    *   11.2 Luftfahrzeugzellenstrukturen –
-        allgemeine Begriffe
+    *   11.2 Luftfahrzeugzellenstrukturen (ATA 51)
 
     *
     *
     *
 
 *    *
-    *   a) Lufttüchtigkeitsfaktoren für
-        Zellenfestigkeit
+    *   a) Allgemeine Konzepte
 
     *   2
 
-    *   Abschnitt A: 3b, 3e, 3h, 3j, 4b, 4c
+    *   Abschnitt A: 2a, 2c, 3b, 3c, 3e, 3i, 3k, 4b, 4c
+
+    *   Lernfeld 1, Lernfeld 3
+
+
+*    *
+    *   b) Lufttüchtigkeitsanforderungen an die Zellenfestigkeit
+
+    *   2
+
+    *   Abschnitt A: 3b, 3e, 3i, 3k, 4b, 4c
+
+    *   Lernfeld 1, Lernfeld 4
+
+
+*    *
+    *   c) Konstruktionsmethoden
+
+    *   1
+
+    *   Abschnitt A: 3b, 3e, 3i, 3k
+
+    *   Lernfeld 1, Lernfeld 4
+
+
+*    *
+    *   11.3 Luftfahrzeugzellenstrukturen – Flugzeuge
+
+    *
+    *
+    *
+
+*    *
+    *   11.3.1 Rumpf, Türen, Fenster (ATA 52/53/56)
+
+    *
+    *
+    *
+
+*    *
+    *   a) Konstruktionsgrundsätze
+
+    *   1
+
+    *   Abschnitt A: 3b, 3e, 3k, 5a, 5c
+
+    *   Lernfeld 1, Lernfeld 4
+
+
+*    *
+    *   b) Geräte für das Schleppen in der Luft
+
+    *   1
+
+    *   Abschnitt A: 3b, 3k, 5a, 5c
 
     *   Lernfeld 1
 
 
 *    *
-    *   b) Konstruktionsmethoden von:
-        Rumpf in Schalenbauweise, Stringern, Längsträgern, Spanten
+    *   c) Türen
 
     *   1
 
-    *   Abschnitt A: 3b, 3e, 3h, 3j
+    *   Abschnitt A: 3b, 3e, 3k, 5a, 5c
 
-    *   Lernfeld 1, Lernfeld 4
-
-
-*    *
-    *   11.3 Luftfahrzeugzellenstrukturen –
-        Flugzeuge
-
-    *
-    *
-    *
-
-*    *
-    *   11.3.1 Rumpf (ATA 52/53/56)
-
-    *   1
-
-    *   Abschnitt A: 3b, 3e, 3j, 5a, 5c
-
-    *   Lernfeld 1, Lernfeld 4
+    *   Lernfeld 1
 
 
 *    *
@@ -3953,7 +4359,7 @@ gestalten
 
     *   1
 
-    *   Abschnitt A: 3b, 3e, 3j, 5a, 5c
+    *   Abschnitt A: 3b, 3e, 3k, 5a, 5c
 
     *   Lernfeld 1, Lernfeld 4
 
@@ -3963,7 +4369,7 @@ gestalten
 
     *   1
 
-    *   Abschnitt A: 3b, 3e, 3j, 5a, 5c
+    *   Abschnitt A: 3b, 3e, 3k, 5a, 5c
 
     *   Lernfeld 1, Lernfeld 4
 
@@ -3973,7 +4379,7 @@ gestalten
 
     *   1
 
-    *   Abschnitt A: 3b, 3e, 3j, 5a, 5c
+    *   Abschnitt A: 3b, 3e, 3k, 5a, 5c
 
     *   Lernfeld 1, Lernfeld 4
 
@@ -3983,7 +4389,7 @@ gestalten
 
     *   1
 
-    *   Abschnitt A: 3b, 3e, 3j, 5a, 5c
+    *   Abschnitt A: 3b, 3e, 3k, 5a, 5c
 
     *   Lernfeld 1
 
@@ -3996,42 +4402,51 @@ gestalten
     *
 
 *    *
-    *   11.4.1 Luftversorgung
+    *   a) Druckbeaufschlagung
 
     *   1
 
-    *   Abschnitt A: 3b, 3c, 3d, 3f, 3g, 3j, 4a, 5a, 5c
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3h, 3k, 4a, 5a, 5c
 
     *   Lernfeld 12
 
 
 *    *
-    *   11.4.2 Klimaanlage
+    *   b) Luftversorgung
 
     *   1
 
-    *   Abschnitt A: 3b, 3c, 3d, 3f, 3g, 3j, 4a, 5a, 5c
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3h, 3k, 4a, 5a, 5c
 
     *   Lernfeld 12
 
 
 *    *
-    *   11.4.3 Druckbeaufschlagung
+    *   c) Klimaanlage
 
     *   1
 
-    *   Abschnitt A: 3b, 3c, 3d, 3f, 3g, 3j, 4a, 5a, 5c
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3h, 3k, 4a, 5a, 5c
 
     *   Lernfeld 12
 
 
 *    *
-    *   11.4.4 Sicherheits- und
-        Warneinrichtungen
+    *   d) Sicherheits- und Warneinrichtungen
 
     *   1
 
-    *   Abschnitt A: 3b, 3c, 3d, 3f, 3g, 3j, 4a, 5a, 5c
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3h, 3k, 4a, 5a, 5c
+
+    *   Lernfeld 12
+
+
+*    *
+    *   e) Heizung und Lüftung
+
+    *   1
+
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3h, 3k, 4a, 5a, 5c
 
     *   Lernfeld 12
 
@@ -4048,19 +4463,23 @@ gestalten
 
     *   1
 
-    *   Abschnitt A: 3b, 3c, 3d, 3f, 3g, 3j, 4a, 5a, 5c
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3h, 3k, 4a, 5a, 5c
 
     *   Lernfeld 9
 
 
 *    *
     *   11.5.2 Avioniksysteme
+        Grundlagen von System-Layouts und Arbeitsweise von:
+        Flugregelung (ATA 22)
+        Kommunikation (ATA 23)
+        Navigationssystem (ATA 34)
 
     *   1
 
-    *   Abschnitt A: 3b, 3c, 3d, 3f, 3g, 3j, 4a, 5a, 5c
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3h, 3k, 4a, 5a, 5c
 
-    *   Lernfeld 10, Lernfeld 11
+    *   Lernfeld 10, Lernfeld 11, Lernfeld 12
 
 
 *    *
@@ -4068,7 +4487,7 @@ gestalten
 
     *   1
 
-    *   Abschnitt A: 3b, 3c, 3d, 3f, 3g, 3h, 3i, 3j, 4a, 5a, 5c
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3h, 3i, 3j, 3k, 4a, 5a, 5c
 
     *   Lernfeld 2
 
@@ -4081,23 +4500,21 @@ gestalten
     *
 
 *    *
-    *   a) Anforderungen an Notausrüstung;
-        Sitze, Sicherheitsgurte und Gurte
+    *   a) Notausrüstung
 
     *   2
 
-    *   Abschnitt A: 3b, 3c, 3d, 3f, 3g, 3j, 4a, 4b, 4c, 5a, 5c
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3h, 3k, 4a, 4b, 4c, 5a, 5c
 
     *   Lernfeld 12
 
 
 *    *
-    *   b) Kabinenlayout, Gerätelayout,
-        Kabinenausstattung
+    *   b) Kabinen- und Frachtlayout
 
     *   1
 
-    *   Abschnitt A: 3b, 3c, 3d, 3f, 3g, 3j, 4a, 4c, 5a, 5c
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3h, 3k, 4a, 4b, 4c, 5a, 5c
 
     *   Lernfeld 12
 
@@ -4110,11 +4527,11 @@ gestalten
     *
 
 *    *
-    *   a) Feuer- und Raucherkennungs- und Warnsysteme
+    *   a) Feuer- und Rauchmelde- sowie Feuerlöschanlagen
 
     *   1
 
-    *   Abschnitt A: 3b, 3c, 3d, 3f, 3g, 3j, 4a, 4c, 5a, 5c
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3h, 3k, 4a, 4c, 5a, 5c
 
     *   Lernfeld 12
 
@@ -4124,7 +4541,7 @@ gestalten
 
     *   1
 
-    *   Abschnitt A: 3b, 3c, 3d, 3f, 3g, 3j, 4a, 4c, 5a, 5c
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3h, 3k, 4a, 4c, 5a, 5c
 
     *   Lernfeld 12
 
@@ -4132,9 +4549,46 @@ gestalten
 *    *
     *   11.9 Flugsteuerung (ATA 27)
 
+    *
+    *
+    *
+
+*    *
+    *   a) Primäre und sekundäre Flugsteuerung
+
     *   1
 
-    *   Abschnitt A: 3b, 3c, 3d, 3f, 3g, 3j, 4a, 4c, 5a, 5c
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3h, 3k, 4a, 4c, 5a, 5c
+
+    *   Lernfeld 12
+
+
+*    *
+    *   b) Auslösung und Schutz
+
+    *   1
+
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3h, 3k, 4a, 4c, 5a, 5c
+
+    *   Lernfeld 12
+
+
+*    *
+    *   c) Systembetrieb
+
+    *   1
+
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3k, 4a, 4b, 4c, 5a, 5c
+
+    *   Lernfeld 12
+
+
+*    *
+    *   d) Trimmen und Justieren
+
+    *   1
+
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3k, 4a, 4b, 4c, 5a, 5c
 
     *   Lernfeld 12
 
@@ -4142,9 +4596,56 @@ gestalten
 *    *
     *   11.10 Kraftstoffanlage (ATA 28)
 
+    *
+    *
+    *
+
+*    *
+    *   a) Systemlayout
+
     *   1
 
-    *   Abschnitt A: 3b, 3c, 3d, 3f, 3g, 3j, 4a, 4c, 5a, 5b, 5c
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3h, 3k, 4a, 4c, 5a, 5b, 5c
+
+    *   Lernfeld 12
+
+
+*    *
+    *   b) Kraftstoffhandling
+
+    *   1
+
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3h, 3k, 4a, 4c, 5a, 5b, 5c
+
+    *   Lernfeld 12
+
+
+*    *
+    *   c) Anzeige- und Warneinrichtungen
+
+    *   1
+
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3k, 4a, 4c, 5a, 5b, 5c
+
+    *   Lernfeld 12
+
+
+*    *
+    *   d) spezielle Systeme
+
+    *   1
+
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3h, 3k, 4a, 4c, 5a, 5b, 5c
+
+    *   Lernfeld 12
+
+
+*    *
+    *   e) Trimmen
+
+    *   1
+
+    *   Abschnitt A: 3b, 3d, 3g, 3h, 3k, 4c, 5a, 5b, 5c
 
     *   Lernfeld 12
 
@@ -4152,9 +4653,36 @@ gestalten
 *    *
     *   11.11 Hydraulik (ATA 29)
 
+    *
+    *
+    *
+
+*    *
+    *   a) Systembeschreibung
+
     *   1
 
-    *   Abschnitt A: 3b, 3c, 3d, 3f, 3g, 3j, 4a, 4c, 5a, 5b, 5c
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3h, 3k, 4a, 4c, 5a, 5b, 5c
+
+    *   Lernfeld 12
+
+
+*    *
+    *   b) Systembetrieb (1)
+
+    *   1
+
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3h, 3k, 4a, 4c, 5a, 5b, 5c
+
+    *   Lernfeld 12
+
+
+*    *
+    *   c) Systembetrieb (2)
+
+    *   1
+
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3h, 3k, 4a, 4c, 5a, 5b, 5c
 
     *   Lernfeld 12
 
@@ -4162,9 +4690,56 @@ gestalten
 *    *
     *   11.12 Eis- und Regenschutz
 
+    *
+    *
+    *
+
+*    *
+    *   a) Prinzipien
+
     *   1
 
-    *   Abschnitt A: 3b, 3c, 3d, 3f, 3g, 3j, 4a, 4c, 5a, 5c
+    *   Abschnitt A: 5a, 5c
+
+    *   Lernfeld 12
+
+
+*    *
+    *   b) Enteisung
+
+    *   1
+
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3h, 3k, 4a, 4c, 5a, 5b, 5c
+
+    *   Lernfeld 12
+
+
+*    *
+    *   c) Vereisungsschutz
+
+    *   1
+
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3h, 3k, 4a, 4c, 5a, 5b, 5c
+
+    *   Lernfeld 12
+
+
+*    *
+    *   d) Wischeranlage
+
+    *   1
+
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3h, 3k, 4a, 4c, 5a, 5b, 5c
+
+    *   Lernfeld 12
+
+
+*    *
+    *   e) regenwasserabweisende Systeme
+
+    *   1
+
+    *   Abschnitt A: 4c, 5a
 
     *   Lernfeld 12
 
@@ -4172,9 +4747,46 @@ gestalten
 *    *
     *   11.13 Fahrwerk (ATA 32)
 
+    *
+    *
+    *
+
+*    *
+    *   a) Beschreibung
+
     *   2
 
-    *   Abschnitt A: 3b, 3c, 3d, 3f, 3g, 3j, 4a, 4b, 4c, 5a, 5b, 5c
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3h, 3k, 4a, 4b, 4c, 5a, 5b, 5c
+
+    *   Lernfeld 12
+
+
+*    *
+    *   b) Systembetrieb
+
+    *   2
+
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3h, 3k, 4a, 4b, 4c, 5a, 5b, 5c
+
+    *   Lernfeld 12
+
+
+*    *
+    *   c) Luft-Boden-Schaltung
+
+    *   2
+
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3h, 3k, 4a, 4b, 4c, 5a, 5c
+
+    *   Lernfeld 12
+
+
+*    *
+    *   d) Heckschutz
+
+    *   2
+
+    *   Abschnitt A: 3b, 3c, 3g, 3h, 3k, 4b, 5a, 5c
 
     *   Lernfeld 12
 
@@ -4184,7 +4796,7 @@ gestalten
 
     *   2
 
-    *   Abschnitt A: 3b, 3c, 3d, 3f, 3g, 3j, 4a, 4b, 4c, 5a, 5c
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3h, 3k, 4a, 4b, 4c, 5a, 5c
 
     *   Lernfeld 2
 
@@ -4194,7 +4806,7 @@ gestalten
 
     *   1
 
-    *   Abschnitt A: 3b, 3c, 3d, 3f, 3g, 3j, 4a, 4c, 5a, 5c
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3h, 3k, 4a, 4c, 5a, 5c
 
     *   Lernfeld 12
 
@@ -4202,69 +4814,117 @@ gestalten
 *    *
     *   11.16 Pneumatisch/Vakuum (ATA 36)
 
+    *
+    *
+    *
+
+*    *
+    *   a) Systeme
+
     *   1
 
-    *   Abschnitt A: 3b, 3c, 3d, 3f, 3g, 3j, 4a, 4c, 5a, 5c
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3h, 3k, 4a, 4c, 5a, 5c
 
     *   Lernfeld 12
 
 
 *    *
-    *   11.17 Wasser/Abfall (ATA 38)
+    *   b) Pumpen
+
+    *   1
+
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3h, 3k, 4a, 4c, 5a, 5c
+
+    *   Lernfeld 12
+
+
+*    *
+    *   11.17 Wasser/Abfall (ATA 38)
+
+    *
+    *
+    *
+
+*    *
+    *   a) Systeme
 
     *   2
 
-    *   Abschnitt A: 3b, 3c, 3d, 3f, 3g, 3j, 4a, 4b, 4c, 5a, 5c
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3h, 3k, 4a, 4b, 4c, 5a, 5c
 
     *   Lernfeld 12
 
 
 *    *
-    *   11.18 Bordinstandhaltungssysteme
-        (ATA 45)
+    *   b) Korrosion
+
+    *   2
+
+    *   Abschnitt A: 3b, 3c, 3g, 3k, 4a, 4c, 5a, 5c
+
+    *   Lernfeld 12
+
+
+*    *
+    *   11.18 Bordinstandhaltungssysteme (ATA 45)
 
     *   1
 
-    *   Abschnitt A: 3b, 3c, 3d, 3f, 3g, 3j, 4a, 4c, 5a, 5c
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3h, 3k, 4a, 4c, 5a, 5c
 
     *   Lernfeld 6
 
 
 *    *
-    *   11.19 Integrierte modulare Avionik
-        (ATA 42)
+    *   11.19 Integrierte modulare Avionik (ATA 42)
+
+    *
+    *
+    *
+
+*    *
+    *   a) Allgemeine Systembeschreibung und Theorie
 
     *   1
 
-    *   Abschnitt A: 3b, 3c, 3d, 3f, 3g, 3j, 4a, 4c, 5a, 5c
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3h, 3k, 4a, 4c, 5a, 5c
 
     *   Lernfeld 9
 
 
 *    *
-    *   11.20 Kabinensysteme (ATA 44)
+    *   b) Typische Systemlayouts
 
     *   1
 
-    *   Abschnitt A: 3b, 3c, 3d, 3f, 3g, 3j, 4a, 4c, 5a, 5c
+    *   Abschnitt A: 3b, 3g, 3h, 3k, 4a, 4c, 5a, 5c
+
+    *   Lernfeld 9
+
+
+*    *
+    *   11.20 Kabinensysteme (ATA 44)
+
+    *   1
+
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3h, 3k, 4a, 4c, 5a, 5c
 
     *   Lernfeld 6, Lernfeld 10
 
 
 *    *
-    *   11.21 Informationssysteme (ATA 46)
+    *   11.21 Informationssysteme (ATA 46)
 
     *   1
 
-    *   Abschnitt A: 3b, 3c, 3d, 3f, 3g, 3j, 4a, 4c, 5a, 5c
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3h, 3k, 4a, 4c, 5a, 5c
 
     *   Lernfeld 6, Lernfeld 10
 
 
 *    *   **12**
 
-    *   Aerodynamik, Strukturen und
-        **Systeme von Hubschraubern**
+    *   **Modul 12. Aerodynamik, Strukturen und Systeme von Hubschraubern**
 
     *
     *
@@ -4281,22 +4941,21 @@ gestalten
 
 
 *    *
-    *   12.2 Flugsteueranlage
+    *   12.2 Flugsteuerungssystem (ATA 67)
 
     *   2
 
-    *   Abschnitt A: 3b, 3c, 3d, 3f, 3g, 3j, 4a, 4b, 4c
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3h, 3k, 4a, 4b, 4c
 
     *   Lernfeld 1
 
 
 *    *
-    *   12.3 Blattspurprüfung und
-        Vibrationsanalyse
+    *   12.3 Blattspurprüfung und Vibrationsanalyse (ATA 18)
 
     *   1
 
-    *   Abschnitt A: 3b, 3c, 3d, 3f, 3g, 3j, 4a, 4c
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3k, 4a, 4b, 4c
 
     *   Lernfeld 12
 
@@ -4306,7 +4965,7 @@ gestalten
 
     *   1
 
-    *   Abschnitt A: 3b, 3c, 3d, 3f, 3g, 3j, 4a, 4c
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3h, 3k, 4a, 4c
 
     *   Lernfeld 7
 
@@ -4319,6 +4978,54 @@ gestalten
     *
 
 *    *
+    *   a) Allgemeine Konzepte
+
+    *   2
+
+    *   Abschnitt A:
+        2a, 2c, 3b, 3c, 3e, 3i, 3k, 4b, 4c
+
+    *   Lernfeld 1
+
+
+*    *
+    *   b) Konstruktionsmethoden der Hauptelemente
+
+    *   1
+
+    *   Abschnitt A: 3b, 3e, 3i, 3k, 5b
+
+    *   Lernfeld 1
+
+
+*    *
+    *   12.6 Klimaanlage (ATA 21)
+
+    *
+    *
+    *
+
+*    *
+    *   12.6.1 Luftversorgung
+
+    *   1
+
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3h, 3k, 4a, 5a, 5c
+
+    *   Lernfeld 12
+
+
+*    *
+    *   12.6.2 Klimaanlage
+
+    *   1
+
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3h, 3k, 4a, 5a, 5c
+
+    *   Lernfeld 12
+
+
+*    *
     *   12.7 Instrumenten-/Avioniksysteme
 
     *
@@ -4326,13 +5033,37 @@ gestalten
     *
 
 *    *
-    *   12.7.1 Instrumentensysteme (ATA 31) – Vibrationsanzeigesysteme (HUMS)
+    *   12.7.1 Instrumentensysteme (ATA 31)
 
     *   1
 
-    *   Abschnitt A: 3b, 3c, 3d, 3f, 3g, 3j, 4a
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3h, 3k, 4a
 
     *   Lernfeld 9
+
+
+*    *
+    *   12.7.2 Avioniksysteme
+        Grundlagen von System-Layouts und Arbeitsweise von:
+        Flugregelung (ATA 22)
+        Kommunikation (ATA 23)
+        Navigationssystem (ATA 34)
+
+    *   1
+
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3h, 3k, 4a, 5a, 5c
+
+    *   Lernfeld 10, Lernfeld 11
+
+
+*    *
+    *   12.8 Elektrische Leistung (ATA 24)
+
+    *   1
+
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3h, 3i, 3j, 3k, 4a, 5a, 5c
+
+    *   Lernfeld 2
 
 
 *    *
@@ -4343,28 +5074,177 @@ gestalten
     *
 
 *    *
-    *   a) Anforderungen an Notausrüstung – Auftriebssysteme
+    *   a) Notausrüstung
+        Sitze, Sicherheitsgurte und Gurte
+        Auftriebssysteme
 
     *   2
 
-    *   Abschnitt A: 3b, 3c, 3d, 3f, 3g, 3j, 4a, 4b, 4c
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3h, 3k, 4a, 4b, 4c
 
     *   Lernfeld 12
 
 
 *    *
-    *   b) Notschwimmsysteme
+    *   b) Notschwimmsysteme
+        Kabinenlayout, Frachtbefestigung
+        Gerätelayout
+        Kabinenausstattung
 
     *   1
 
-    *   Abschnitt A: 3b, 3c, 3d, 3f, 3g, 3j, 4a, 4c
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3h, 3k, 4a, 4c
 
     *   Lernfeld 12
 
 
+*    *
+    *   12.10 Brandschutz (ATA 26)
+
+    *
+    *
+    *
+
+*    *
+    *   a) Feuer- und Rauchmelde- sowie Feuerlöschanlagen
+
+    *   1
+
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3h, 3k, 4a, 4c
+
+    *   Lernfeld 12
+
+
+*    *
+    *   b) Tragbare Feuerlöscher
+
+    *   1
+
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3h, 3k, 4a, 4c
+
+    *   Lernfeld 12
+
+
+*    *
+    *   12.11 Kraftstoffanlage (ATA 28)
+
+    *   1
+
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3h, 3k, 4a, 4c
+
+    *   Lernfeld 12
+
+
+*    *
+    *   12.12 Hydraulik (ATA 29)
+
+    *   1
+
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3h, 3k, 4a, 4c
+
+    *   Lernfeld 12
+
+
+*    *
+    *   12.13 Eis- und Regenschutz (ATA 30)
+
+    *   1
+
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3h, 3k, 4a, 4c
+
+    *   Lernfeld 12
+
+
+*    *
+    *   12.14 Fahrwerk (ATA 32)
+
+    *
+    *
+    *
+
+*    *
+    *   a) Beschreibung und Arbeitsweise des Systems
+
+    *   2
+
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3h, 3k, 4a, 4c
+
+    *   Lernfeld 12
+
+
+*    *
+    *   b) Sensoren
+
+    *   2
+
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3h, 3k, 4a, 4c
+
+    *   Lernfeld 2
+
+
+*    *
+    *   12.15 Lampen (ATA 33)
+
+    *   2
+
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3h, 3k, 4a, 4c
+
+    *   Lernfeld 2
+
+
+*    *
+    *   12.17 Integrierte modulare Avionik (ATA 42)
+
+    *
+    *
+    *
+
+*    *
+    *   a) Allgemeine Systembeschreibung und Theorie
+
+    *   1
+
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3h, 3k, 4a, 4c, 5a, 5c
+
+    *   Lernfeld 9
+
+
+*    *
+    *   b) Typische Systemlayouts
+
+    *   1
+
+    *   Abschnitt A: 3b, 3g, 3h, 3k, 4a, 4c, 5a, 5c
+
+    *   Lernfeld 9
+
+
+*    *
+    *   12.18 Bordinstandhaltungssysteme (ATA 45)
+        Zentrale Instandhaltungscomputer
+        Datenladesystem
+        Elektronisches Bibliothekssystem
+
+    *   1
+
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3h, 3k, 4a, 4c, 5a, 5c
+
+    *   Lernfeld 6, Lernfeld 10
+
+
+*    *
+    *   12.19 Informationssysteme (ATA 46)
+
+    *   1
+
+    *   Abschnitt A: 3b, 3c, 3d, 3g, 3h, 3k, 4a, 4c, 5a, 5c
+
+    *   Lernfeld 6, Lernfeld 10
+
+
 *    *   **15**
 
-    *   **Gasturbinentriebwerk**
+    *   **Modul 15. Gasturbinentriebwerke**
 
     *
     *
@@ -4511,7 +5391,7 @@ gestalten
 
 
 *    *
-    *   15.18 Hilfstriebwerke (APUs)
+    *   15.18 Hilfstriebwerke (APU)
 
     *   1
 
@@ -4541,8 +5421,7 @@ gestalten
 
 
 *    *
-    *   15.21 Triebwerksüberwachung und
-        Bodenbetrieb
+    *   15.21 Triebwerksüberwachung und Bodenbetrieb
 
     *   1
 
@@ -4553,7 +5432,7 @@ gestalten
 
 *    *   **16**
 
-    *   **Kolbentriebwerke**
+    *   **Modul 16. Kolbentriebwerk**
 
     *
     *
@@ -4667,7 +5546,7 @@ gestalten
 
 
 *    *
-    *   16.9 Schmiersystem
+    *   16.9 Schmiersysteme
 
     *   1
 
@@ -4697,8 +5576,7 @@ gestalten
 
 
 *    *
-    *   16.12 Triebwerksüberwachung und
-        Bodenbetrieb
+    *   16.12 Triebwerksüberwachung und Bodenbetrieb
 
     *   1
 
@@ -4707,9 +5585,19 @@ gestalten
     *   Lernfeld 7, Lernfeld 9
 
 
-*    *   **17A**
+*    *
+    *   16.14 Alternative Kolbentriebwerkskonstruktionen
 
-    *   **Propeller**
+    *   1
+
+    *   Abschnitt A: 6a, 6b
+
+    *   Lernfeld 7
+
+
+*    *   **17**
+
+    *   **Modul 17. Propeller**
 
     *
     *
@@ -4766,13 +5654,13 @@ gestalten
 
 
 *    *
-    *   17.7 Lagerung und Konservierung des Propellers
+    *   17.7 Lagerung und Konservierung von Propellern
 
     *   1
 
-    *   Abschnitt A: 1a, 1d, 3b, 3g, 5a
+    *   Abschnitt A: 1a, 1d, 3b, 3h, 5a
 
-    *   Lernfeld 7
+    *   Lernfeld 7.
 
 
 

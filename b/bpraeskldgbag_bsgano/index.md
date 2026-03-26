@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1954, 119
 
 Geändert durch
-:   Art. XIII § 1 Abs. 2 iVm § 2 Abs. 1 G v. 26.5.1972
+:   Art. XIII § 1 Abs. 2 iVm § 2 Abs. 1 G v. 26.5.1972 I 841
 
 
 ## Art 1

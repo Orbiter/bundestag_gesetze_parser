@@ -278,8 +278,8 @@ Sofern dieses Gesetz keine andere Regelung trifft, finden der Dritte
 Abschnitt des Ersten Teils (§§ 16 bis 29), der Dritte Teil (§§ 78 bis
 133) und der Siebente Teil (§§ 347 bis 368) der Abgabenordnung
 Anwendung. Die Vorschriften über die gesonderte Feststellung von
-Einheitswerten oder Grundsteuerwerten (§§ 180 bis 183a der
-Abgabenordnung) sind entsprechend anzuwenden.
+Grundsteuerwerten (§§ 180 bis 183a der Abgabenordnung) sind
+entsprechend anzuwenden.
 
 
 ### § 13 Offenlegung der Bodenschätzungsergebnisse

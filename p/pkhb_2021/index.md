@@ -25,7 +25,6 @@ zuletzt durch Artikel 10 Nummer 3 des Gesetzes vom 21. Dezember 2020
 Buchstabe b und Nummer 2 sowie Satz 5 der Zivilprozessordnung vom
 Einkommen der Partei abzusetzen sind, bekannt gemacht:
 
-
 *    *
     *   Freibetrag
         Bund
@@ -73,7 +72,7 @@ Einkommen der Partei abzusetzen sind, bekannt gemacht:
 *    *   Freibetrag für unterhaltsberechtigte
         Erwachsene
         (§ 115 Absatz 1 Satz 3 Nummer 2 Buchstabe b der Zivilprozessordnung
-        Regelbedarfsstufe 3                     )
+        Regelbedarfsstufe 3                       )
 
     *   393 Euro
 
@@ -88,7 +87,7 @@ Einkommen der Partei abzusetzen sind, bekannt gemacht:
         bis
         zur Vollendung des 18. Lebensjahres
         (§ 115 Absatz 1 Satz 3 Nummer 2 Buchstabe b der Zivilprozessordnung
-        Regelbedarfsstufe 4                     )
+        Regelbedarfsstufe 4                       )
 
     *   410 Euro
 
@@ -102,7 +101,7 @@ Einkommen der Partei abzusetzen sind, bekannt gemacht:
 *    *   Freibetrag für unterhaltsberechtigte Kinder vom Beginn des siebten bis
         zur Vollendung des 14. Lebensjahres
         (§ 115 Absatz 1 Satz 3 Nummer 2 Buchstabe b der Zivilprozessordnung
-        Regelbedarfsstufe 5                     )
+        Regelbedarfsstufe 5                       )
 
     *   340 Euro
 
@@ -116,7 +115,7 @@ Einkommen der Partei abzusetzen sind, bekannt gemacht:
 *    *   Freibetrag für unterhaltsberechtigte Kinder bis zur Vollendung des
         sechsten Lebensjahres
         (§ 115 Absatz 1 Satz 3 Nummer 2 Buchstabe b der Zivilprozessordnung
-        Regelbedarfsstufe 6                     )
+        Regelbedarfsstufe 6                       )
 
     *   311 Euro
 
@@ -125,6 +124,7 @@ Einkommen der Partei abzusetzen sind, bekannt gemacht:
     *   328 Euro
 
     *   323 Euro
+
 
 
 

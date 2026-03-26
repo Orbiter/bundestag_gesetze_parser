@@ -55,7 +55,7 @@ Haushaltsstrukturgesetzes sind nicht anzuwenden.
 nicht als Erhöhung der beamtenrechtlichen Versorgungsbezüge im Sinne
 des § 57 Abs. 2 Satz 2 und des § 58 Abs. 2 Satz 1 des
 Beamtenversorgungsgesetzes. Satz 1 gilt entsprechend in den Fällen des
-§ 55c Abs. 2 Satz 2 und des § 55d Abs. 2 Satz 1 des
+§ 73 Absatz 2 Satz 2 und des § 74 Absatz 2 Satz 1 des
 Soldatenversorgungsgesetzes.
 
 

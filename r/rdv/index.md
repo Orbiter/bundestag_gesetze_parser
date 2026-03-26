@@ -41,7 +41,7 @@ erforderliche theoretische Sachkunde in der Regel durch ein Zeugnis
 über einen erfolgreich abgeschlossenen Sachkundelehrgang im Sinn des §
 4 nachgewiesen. Zum Nachweis der theoretischen Sachkunde genügt auch
 das Zeugnis über die erste Prüfung nach § 5d Abs. 2 des Deutschen
-Richtergesetzes. Die zuständige Behörde kann als Nachweis der
+Richtergesetzes. Das Bundesamt für Justiz kann als Nachweis der
 theoretischen Sachkunde auch andere Zeugnisse anerkennen, insbesondere
 das Abschlusszeugnis einer deutschen Hochschule oder Fachhochschule
 über einen mindestens dreijährigen Hochschul- oder
@@ -51,9 +51,10 @@ Rechtsdienstleistungsgesetzes erforderlichen Rechtskenntnisse
 vermittelt. Insbesondere in Fällen, in denen bei
 Inkassodienstleistungen Tätigkeiten auf in § 11 Absatz 1 des
 Rechtsdienstleistungsgesetzes nicht genannten Rechtsgebieten erbracht
-werden sollen, kann die zuständige Behörde über den Sachkundelehrgang
-nach Satz 1 hinausgehende Nachweise der theoretischen Sachkunde wie
-die in den Sätzen 2 und 3 genannten Zeugnisse verlangen.
+werden sollen, kann das Bundesamt für Justiz über den
+Sachkundelehrgang nach Satz 1 hinausgehende Nachweise der
+theoretischen Sachkunde wie die in den Sätzen 2 und 3 genannten
+Zeugnisse verlangen.
 
 (2) In den Fällen des § 12 Absatz 3 Satz 4 des
 Rechtsdienstleistungsgesetzes ist durch geeignete Unterlagen,
@@ -233,18 +234,16 @@ Mindestversicherungssumme ist zulässig. Ein Selbstbehalt des
 Versicherungsnehmers kann dem Dritten nicht entgegengehalten und
 gegenüber einer mitversicherten Person nicht geltend gemacht werden.
 
-(6) Im Versicherungsvertrag ist der Versicherer zu verpflichten, der
-nach § 19 des Rechtsdienstleistungsgesetzes zuständigen Behörde die
-Beendigung oder Kündigung des Versicherungsvertrages sowie jede
-Änderung des Versicherungsvertrages, die den vorgeschriebenen
-Versicherungsschutz beeinträchtigt, unverzüglich mitzuteilen. Die nach
-§ 19 des Rechtsdienstleistungsgesetzes zuständige Behörde erteilt
-Dritten zur Geltendmachung von Schadensersatzansprüchen auf Antrag
-Auskunft über den Namen und die Adresse der
-Berufshaftpflichtversicherung der registrierten Person sowie die
-Versicherungsnummer, soweit das Auskunftsinteresse das schutzwürdige
-Interesse der registrierten Person an der Nichterteilung dieser
-Auskunft überwiegt.
+(6) Im Versicherungsvertrag ist der Versicherer zu verpflichten, dem
+Bundesamt für Justiz die Beendigung oder Kündigung des
+Versicherungsvertrages sowie jede Änderung des Versicherungsvertrages,
+die den vorgeschriebenen Versicherungsschutz beeinträchtigt,
+unverzüglich mitzuteilen. Das Bundesamt für Justiz erteilt Dritten zur
+Geltendmachung von Schadensersatzansprüchen auf Antrag Auskunft über
+den Namen und die Adresse der Berufshaftpflichtversicherung der
+registrierten Person sowie die Versicherungsnummer, soweit das
+Auskunftsinteresse das schutzwürdige Interesse der registrierten
+Person an der Nichterteilung dieser Auskunft überwiegt.
 
 
 ## § 6 Registrierungsverfahren
@@ -271,10 +270,8 @@ ausgestellt sind, kann die Vorlage einer Übersetzung verlangt werden.
 
 ## § 7 Aufbewahrungsfristen
 
-(1) Die nach § 13 Absatz 1 Satz 1 und 2 und § 15 Absatz 2 Satz 1 des
-Rechtsdienstleistungsgesetzes für die Registrierung zuständigen
-Behörden haben Akten und elektronische Akten über registrierte
-Personen für einen Zeitraum von zehn Jahren nach der Löschung der im
+(1) Akten und elektronische Akten über registrierte Personen sind für
+einen Zeitraum von zehn Jahren nach der Löschung der im
 Rechtsdienstleistungsregister öffentlich bekannt gemachten Daten gemäß
 § 17 Absatz 1 Satz 1 Nummer 1 bis 4 sowie 6 des
 Rechtsdienstleistungsgesetzes aufzubewahren.
@@ -292,9 +289,9 @@ Beendigung des Verfahrens aufzubewahren.
 
 ## § 8 Öffentliche Bekanntmachungen im Rechtsdienstleistungsregister
 
-(1) Für öffentliche Bekanntmachungen nach § 16 Absatz 2 Satz 1 Nummer
-1 des Rechtsdienstleistungsgesetzes und solche nach § 16 Absatz 2 Satz
-1 Nummer 2 des Rechtsdienstleistungsgesetzes sind innerhalb des
+Für öffentliche Bekanntmachungen nach § 16 Absatz 2 Satz 1 Nummer 1
+des Rechtsdienstleistungsgesetzes und solche nach § 16 Absatz 2 Satz 1
+Nummer 2 des Rechtsdienstleistungsgesetzes sind innerhalb des
 Rechtsdienstleistungsregisters zwei getrennte Bereiche vorzusehen.
 Eine Suche nach den eingestellten Daten darf nur anhand eines oder
 mehrerer der folgenden Suchkriterien erfolgen:
@@ -302,7 +299,7 @@ mehrerer der folgenden Suchkriterien erfolgen:
 1.  Bundesland,
 
 
-2.  zuständige Behörde,
+2.  (weggefallen)
 
 
 3.  behördliches Aktenzeichen,
@@ -338,29 +335,9 @@ mehrerer der folgenden Suchkriterien erfolgen:
 Die Angaben nach Satz 2 können unvollständig sein, sofern sie
 Unterscheidungskraft besitzen.
 
-(2) Die öffentlich bekanntzumachenden Daten werden von der Behörde,
-die nach § 9 Absatz 1 Satz 1, § 13 Absatz 1 Satz 1 oder 2 oder § 15
-Absatz 2 Satz 1 des Rechtsdienstleistungsgesetzes für die Untersagung
-oder für das Registrierungs- oder Meldeverfahren zuständig ist,
-unverzüglich nach der Registrierung elektronisch an die zentrale
-Veröffentlichungsstelle übermittelt. Durch technische und
-organisatorische Maßnahmen ist sicherzustellen, dass die Herkunft der
-Daten jederzeit nachvollziehbar ist.
 
+## § 9 (weggefallen)
 
-## § 9 Löschung von Veröffentlichungen
-
-(1) Die zuständige Behörde hat die Löschung der nach § 16 Abs. 2 des
-Rechtsdienstleistungsgesetzes öffentlich bekanntgemachten Daten aus
-dem Rechtsdienstleistungsregister unverzüglich nach Bekanntwerden des
-Löschungstatbestands zu veranlassen.
-
-(2) Soweit Daten in einem zentralen Dateisystem nach § 18 Abs. 1 Satz
-2 des Rechtsdienstleistungsgesetzes gespeichert sind, ist durch
-technische und organisatorische Maßnahmen sicherzustellen, dass ein
-Datenabruf nur durch die hierzu befugten Behörden erfolgt.
-Verantwortlich für die Zulässigkeit des Abrufs ist die abrufende
-Behörde.
 
 
 ## § 10 Inkrafttreten

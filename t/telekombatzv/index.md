@@ -18,7 +18,7 @@ Fundstelle
 :   BGBl I: 2013, 594
 
 Zuletzt geändert durch
-:   Art. 1 V v. 4.9.2020 I 1987
+:   Art. 1 V v. 19.11.2024 I Nr. 369
 
 
 ## Eingangsformel
@@ -47,8 +47,9 @@ Altersteilzeit auch bewilligt werden, wenn
     Jahre mindestens teilzeitbeschäftigt waren,
 
 
-3.  die Altersteilzeit vor dem 1. Januar 2025 beginnt und sich über die
-    gesamte Zeit bis zum Eintritt in den Ruhestand erstreckt sowie
+3.  die Altersteilzeit vor dem 1. Januar 2026 beantragt wird und sich der
+    Antrag über die gesamte Zeit bis zum Eintritt in den Ruhestand
+    erstreckt sowie
 
 
 4.  betriebliche oder betriebswirtschaftliche Belange nicht

@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1969, 1284
 
 Zuletzt geändert durch
-:   Art. 12 G v. 22.12.2023 I Nr. 412
+:   Art. 2 G v. 30.9.2025 I Nr. 231
 
 
 ## Teil I - Allgemeine Vorschriften zum Haushaltsplan
@@ -204,6 +204,12 @@ unterrichten. § 97 Abs. 4 bleibt unberührt.
 
 
 
+(3) Bei Verkauf und Kauf von Bundeswertpapieren sind die gesamten
+Zinskosten periodengerecht über die Laufzeit des jeweiligen
+Wertpapiers anteilig jeweils auf die Periode von Zahlungstermin zu
+Zahlungstermin aufzuteilen. Der Saldo aus Zinsausgaben und
+Krediteinnahme muss stets der Kassenwirkung der Zahlungen entsprechen.
+
 
 ### § 12 Geltungsdauer der Haushaltspläne
 
@@ -298,9 +304,11 @@ Ausgaben des Haushaltsplans nach Arten (Gruppierungsplan).
     Verpflichtungsermächtigungen der Einzelpläne (Haushaltsübersicht),
 
 
-2.  eine Berechnung der nach dem Gesetz zur Ausführung von Artikel 115 des
-    Grundgesetzes vom 10. August 2009 (BGBl. I S. 2702, 2704) in der
-    jeweils geltenden Fassung zulässigen Kreditaufnahme,
+2.  eine Übersicht der Ausgaben der Bereichsausnahme nach § 1a Absatz 1
+    des Gesetzes zur Ausführung von Artikel 115 des Grundgesetzes vom 10.
+    August 2009 (BGBl. I S. 2702, 2704) in der jeweils geltenden Fassung
+    sowie eine Berechnung der nach dem Artikel 115-Gesetz zulässigen
+    Kreditaufnahme,
 
 
 3.  eine Berechnung des Finanzierungssaldos (Finanzierungsübersicht). Der
@@ -340,11 +348,22 @@ Ausgaben des Haushaltsplans nach Arten (Gruppierungsplan).
 
 
 
-2.  eine Übersicht über die den Haushalt in Einnahmen und Ausgaben
+2.  eine aggregierte Darstellung des Anteils der für das jeweilige
+    Haushaltsjahr insgesamt veranschlagten Ausgaben für Investitionen an
+    den veranschlagten Ausgaben im Bundeshaushalt; dabei werden die
+    veranschlagten Ausgaben für Investitionen um ausgabenseitige
+    finanzielle Transaktionen bereinigt; darüber hinaus werden von den
+    veranschlagten Ausgaben im Bundeshaushalt die Ausgaben der
+    Bereichsausnahme nicht berücksichtigt, soweit sie 1 Prozent des
+    nominalen Bruttoinlandprodukts übersteigen sowie ausgabenseitige
+    finanzielle Transaktionen abgezogen,
+
+
+3.  eine Übersicht über die den Haushalt in Einnahmen und Ausgaben
     durchlaufenden Posten;
 
 
-3.  eine Übersicht über die Planstellen der Beamten und die Stellen der
+4.  eine Übersicht über die Planstellen der Beamten und die Stellen der
     Angestellten und Arbeiter.
 
 
@@ -392,24 +411,28 @@ Verpflichtungsermächtigungen nach Zwecken getrennt zu veranschlagen
 und, soweit erforderlich, zu erläutern. Erläuterungen können für
 verbindlich erklärt werden.
 
-(2) Bei Ausgaben für eine sich auf mehrere Jahre erstreckende Maßnahme
+(2) Ausgaben der Bereichsausnahme nach § 1a Absatz 1 des Artikel
+115-Gesetzes sind getrennt von Ausgaben außerhalb der Bereichsausnahme
+zu veranschlagen. Sie sind kenntlich zu machen.
+
+(3) Bei Ausgaben für eine sich auf mehrere Jahre erstreckende Maßnahme
 sind bei der ersten Veranschlagung im Haushaltsplan die
 voraussichtlichen Gesamtkosten und bei jeder folgenden Veranschlagung
 außerdem die finanzielle Abwicklung darzulegen.
 
-(3) Zweckgebundene Einnahmen und die dazugehörigen Ausgaben sind
+(4) Zweckgebundene Einnahmen und die dazugehörigen Ausgaben sind
 kenntlich zu machen.
 
-(4) Für denselben Zweck sollen Ausgaben und
+(5) Für denselben Zweck sollen Ausgaben und
 Verpflichtungsermächtigungen nicht bei verschiedenen Titeln
 veranschlagt werden.
 
-(5) Planstellen sind nach Besoldungsgruppen und Amtsbezeichnungen im
+(6) Planstellen sind nach Besoldungsgruppen und Amtsbezeichnungen im
 Haushaltsplan auszubringen. Sie dürfen nur für Aufgaben eingerichtet
 werden, zu deren Wahrnehmung die Begründung eines Beamtenverhältnisses
 zulässig ist und die in der Regel Daueraufgaben sind.
 
-(6) Andere Stellen als Planstellen sind in den Erläuterungen
+(7) Andere Stellen als Planstellen sind in den Erläuterungen
 auszuweisen.
 
 
@@ -677,10 +700,16 @@ beschränkt werden.
 
 ### § 18 Kreditermächtigungen
 
-(1) Einnahmen aus Krediten zur Deckung von Ausgaben dürfen nur bis zur
-Höhe der nach dem Gesetz zur Ausführung von Artikel 115 des
-Grundgesetzes in der jeweils geltenden Fassung zulässigen
-Kreditaufnahme in den Haushaltsplan eingestellt werden.
+(1) Einnahmen aus Krediten zur Deckung von Ausgaben dürfen bis zur
+Höhe der nach dem Artikel 115-Gesetz zulässigen Kreditaufnahme in den
+Haushaltsplan eingestellt werden. Die Kreditaufnahme, die in den
+Haushaltsplan eingestellt werden darf, erhöht sich um den Betrag, um
+den die im Haushaltsplan veranschlagten Ausgaben der Bereichsausnahme
+nach § 1a Absatz 1 des Artikel 115-Gesetzes 1 Prozent im Verhältnis
+zum nominalen Bruttoinlandsprodukt übersteigen. Maßgeblich ist
+dasjenige nominale Bruttoinlandsprodukt des der Aufstellung des
+Haushalts vorangegangenen Jahres, das durch das Statistische Bundesamt
+ermittelt wird.
 
 (2) Das Haushaltsgesetz bestimmt, bis zu welcher Höhe das
 Bundesministerium der Finanzen Kredite aufnehmen darf
@@ -705,6 +734,21 @@ Verkündung dieses Haushaltsgesetzes. Die Ermächtigungen nach Absatz 2
 Nr. 2 gelten bis zum Ende des laufenden Haushaltsjahres und, wenn das
 Haushaltsgesetz für das nächste Haushaltsjahr nicht rechtzeitig
 verkündet wird, bis zur Verkündung dieses Haushaltsgesetzes.
+
+(4) Die Ermächtigungen nach Absatz 2 Nummer 1 umfassen unbeschadet der
+Höhe der Einnahmen aus Krediten die Verpflichtung zur endfälligen
+Tilgung der durch den Verkauf von Bundeswertpapieren aufgenommenen
+Kredite in Höhe der Nennwerte. Das Haushaltsgesetz konkretisiert die
+Art der Anrechnung auf die Kreditermächtigung entsprechend § 11 Absatz
+3\.
+
+(5) Ist bis zum Schluss eines Rechnungsjahres der Haushaltsplan für
+das folgende Jahr nicht durch Gesetz festgestellt, so umfasst die
+Kreditermächtigung nach Artikel 111 Absatz 2 des Grundgesetzes sowie
+die Ermächtigung nach Absatz 3 Satz 1 auch das Recht, die
+Verpflichtung zur endfälligen Tilgung in Höhe des Nennwerts
+einzugehen. Die Höhe des maximal zulässigen Verpflichtungsvolumens ist
+identisch mit der Höhe dieser Kreditermächtigungen.
 
 
 ### § 19 Übertragbarkeit
@@ -1174,10 +1218,13 @@ im Einvernehmen mit dem Bundesrechnungshof erlassen.
 
 (2) Zuwendungen an Kommunen (Gemeinden und Landkreise) sollen bis zur
 Höhe von 6 Millionen Euro grundsätzlich als Festbetragsförderung
-gewährt werden. Der Verwendungsnachweis erfolgt grundsätzlich im
-vereinfachten Verfahren. Das Nähere regelt eine Rechtsverordnung, die
-der Zustimmung des Haushaltsausschusses des Deutschen Bundestages
-bedarf.
+gewährt werden. Der Verwendungsnachweis für Festbetragsförderungen
+nach Satz 1 erfolgt grundsätzlich im vereinfachten Verfahren. Das
+Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung
+ohne Zustimmung des Bundesrats, jedoch mit Zustimmung des
+Haushaltsausschusses des Deutschen Bundestages, Regelungen über den
+Verwendungsnachweis für Festbetragsförderungen im Sinne des Satzes 1
+zu erlassen.
 
 (3) Sollen Bundesmittel oder Vermögensgegenstände des Bundes von
 Stellen außerhalb der Bundesverwaltung verwaltet werden, ist Absatz 1
@@ -1283,7 +1330,7 @@ An die Stelle des 50. Lebensjahres tritt
 
 1.  das 55. Lebensjahr, wenn die zukünftigen Versorgungslasten nach dem
     Versorgungslastenteilungs-Staatsvertrag, nach § 107b des
-    Beamtenversorgungsgesetzes, nach § 92b des Soldatenversorgungsgesetzes
+    Beamtenversorgungsgesetzes, nach § 110 des Soldatenversorgungsgesetzes
     oder dem Militärseelsorgevertrag vom 22. Februar 1957 (BGBl. 1957 II
     S. 702) mit dem abgebenden Dienstherrn geteilt werden, oder
 
@@ -1410,7 +1457,9 @@ Verteidigung geschlossen werden sollen und die ein Finanzvolumen von
 25 Millionen Euro überschreiten, sind dem Haushaltsausschuss des
 Deutschen Bundestages zur Billigung vorzulegen. Bis zur Billigung des
 Haushaltsausschusses des Deutschen Bundestages sind Verträge zu der
-entsprechenden Maßnahme schwebend unwirksam.
+entsprechenden Maßnahme schwebend unwirksam. Die Sätze 1 und 2 finden
+auf Verträge im Rahmen von Regierungsverkäufen an Partnerstaaten keine
+Anwendung.
 
 
 ### § 55 Öffentliche Ausschreibung
@@ -1804,6 +1853,11 @@ Buchführung anordnen.
 
 (3) Absatz 2 Nr. 2 gilt entsprechend für außerplanmäßige Einnahmen und
 Ausgaben.
+
+(4) Abweichend von Absatz 1 wird der periodengerechte Anteil der
+Differenz zwischen Nennwert und Verkaufserlös, der beim Verkauf und
+Kauf von Bundeswertpapieren entsteht, ohne Zahlung im Bundeshaushalt
+gebucht.
 
 
 ### § 72 Buchung nach Haushaltsjahren

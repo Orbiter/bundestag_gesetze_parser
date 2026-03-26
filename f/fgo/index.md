@@ -19,7 +19,16 @@ Neugefasst durch
 :   Bek. v. 28.3.2001 I 442, 2262; 2002 I 679;
 
 Zuletzt geändert durch
-:   Art. 27 G v. 22.12.2023 I Nr. 411
+:   Art. 32 G v. 8.12.2025 I Nr. 319
+
+Mittelbare änderung durch
+:   Art. 37 G v. 8.12.2025 I Nr. 319 ist berücksichtigt
+
+Änderung durch
+:   Art. 17 G v. 22.12.2025 I Nr. 349 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 18 G v. 22.12.2025 I Nr. 349 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Mittelbare änderung durch
 :   Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war
@@ -910,62 +919,65 @@ Vorsitzende ihre Anwesenheit gestattet.
 (1) Vorbereitende Schriftsätze und deren Anlagen, schriftlich
 einzureichende Anträge und Erklärungen der Beteiligten sowie
 schriftlich einzureichende Auskünfte, Aussagen, Gutachten,
-Übersetzungen und Erklärungen Dritter können nach Maßgabe der Absätze
-2 bis 6 als elektronische Dokumente bei Gericht eingereicht werden.
+Übersetzungen, Anträge und Erklärungen Dritter können nach Maßgabe der
+Absätze 2 bis 6 als elektronische Dokumente bei Gericht eingereicht
+werden.
 
 (2) Das elektronische Dokument muss für die Bearbeitung durch das
 Gericht geeignet sein. Die Bundesregierung bestimmt durch
 Rechtsverordnung mit Zustimmung des Bundesrates technische
 Rahmenbedingungen für die Übermittlung und die Eignung zur Bearbeitung
-durch das Gericht.
+durch das Gericht sowie das Nähere zur Verarbeitung von Daten der
+Postfachinhaber nach Absatz 4 Satz 1 Nummer 3 und 4 in einem sicheren
+elektronischen Verzeichnis.
 
 (3) Das elektronische Dokument muss mit einer qualifizierten
 elektronischen Signatur der verantwortenden Person versehen sein oder
 von der verantwortenden Person signiert und auf einem sicheren
 Übermittlungsweg eingereicht werden. Satz 1 gilt nicht für Anlagen,
-die vorbereitenden Schriftsätzen beigefügt sind.
+die vorbereitenden Schriftsätzen beigefügt sind. Soll ein schriftlich
+einzureichender Antrag oder eine schriftlich einzureichende Erklärung
+eines Beteiligten oder eines Dritten als elektronisches Dokument
+eingereicht werden, so kann der unterschriebene Antrag oder die
+unterschriebene Erklärung in ein elektronisches Dokument übertragen
+und durch den Bevollmächtigten, den Vertreter oder den Beistand nach
+Satz 1 übermittelt werden.
 
 (4) Sichere Übermittlungswege sind
 
-1.  der Postfach- und Versanddienst eines De-Mail-Kontos, wenn der
-    Absender bei Versand der Nachricht sicher im Sinne des § 4 Absatz 1
-    Satz 2 des De-Mail-Gesetzes angemeldet ist und er sich die sichere
-    Anmeldung gemäß § 5 Absatz 5 des De-Mail-Gesetzes bestätigen lässt,
-
-
-2.  der Übermittlungsweg zwischen den besonderen elektronischen
+1.  der Übermittlungsweg zwischen den besonderen elektronischen
     Anwaltspostfächern nach den §§ 31a und 31b der
     Bundesrechtsanwaltsordnung oder einem entsprechenden, auf gesetzlicher
     Grundlage errichteten elektronischen Postfach und der elektronischen
     Poststelle des Gerichts,
 
 
-3.  der Übermittlungsweg zwischen einem nach Durchführung eines
+2.  der Übermittlungsweg zwischen einem nach Durchführung eines
     Identifizierungsverfahrens eingerichteten Postfach einer Behörde oder
     einer juristischen Person des öffentlichen Rechts und der
     elektronischen Poststelle des Gerichts,
 
 
-4.  der Übermittlungsweg zwischen einem nach Durchführung eines
+3.  der Übermittlungsweg zwischen einem nach Durchführung eines
     Identifizierungsverfahrens eingerichteten elektronischen Postfach
     einer natürlichen oder juristischen Person oder einer sonstigen
     Vereinigung und der elektronischen Poststelle des Gerichts,
 
 
-5.  der Übermittlungsweg zwischen einem nach Durchführung eines
+4.  der Übermittlungsweg zwischen einem nach Durchführung eines
     Identifizierungsverfahrens genutzten Postfach- und Versanddienst eines
     Nutzerkontos im Sinne des § 2 Absatz 5 des Onlinezugangsgesetzes und
     der elektronischen Poststelle des Gerichts,
 
 
-6.  sonstige bundeseinheitliche Übermittlungswege, die durch
+5.  sonstige bundeseinheitliche Übermittlungswege, die durch
     Rechtsverordnung der Bundesregierung mit Zustimmung des Bundesrates
     festgelegt werden, bei denen die Authentizität und Integrität der
     Daten sowie die Barrierefreiheit gewährleistet sind.
 
 
 
-Das Nähere zu den Übermittlungswegen gemäß Satz 1 Nummer 3 bis 5
+Das Nähere zu den Übermittlungswegen gemäß Satz 1 Nummer 2 bis 4
 regelt die Rechtsverordnung nach Absatz 2 Satz 2.
 
 (5) Ein elektronisches Dokument ist eingegangen, sobald es auf der für
@@ -995,37 +1007,22 @@ gemäß § 52b Absatz 6 Satz 4 übertragen worden ist.
 
 #### § 52b
 
-(1) Die Prozessakten können elektronisch geführt werden. Die
-Bundesregierung und die Landesregierungen bestimmen jeweils für ihren
-Bereich durch Rechtsverordnung den Zeitpunkt, von dem an die
-Prozessakten elektronisch geführt werden. In der Rechtsverordnung sind
-die organisatorisch-technischen Rahmenbedingungen für die Bildung,
-Führung und Verwahrung der elektronischen Akten festzulegen. Die
-Landesregierungen können die Ermächtigung auf die für die
+(1) Die Prozessakten werden elektronisch geführt. Die Bundesregierung
+und die Landesregierungen bestimmen jeweils für ihren Bereich durch
+Rechtsverordnung die organisatorischen und dem Stand der Technik
+entsprechenden technischen Rahmenbedingungen für die Bildung, Führung
+und Aufbewahrung der elektronischen Akten einschließlich der
+einzuhaltenden Anforderungen der Barrierefreiheit. Die
+Landesregierungen können die Ermächtigung nach Satz 2 auf die für die
 Finanzgerichtsbarkeit zuständigen obersten Landesbehörden übertragen.
-Die Zulassung der elektronischen Akte kann auf einzelne Gerichte oder
-Verfahren beschränkt werden; wird von dieser Möglichkeit Gebrauch
-gemacht, kann in der Rechtsverordnung bestimmt werden, dass durch
-Verwaltungsvorschrift, die öffentlich bekanntzumachen ist, geregelt
-wird, in welchen Verfahren die Prozessakten elektronisch zu führen
-sind. Die Rechtsverordnung der Bundesregierung bedarf nicht der
-Zustimmung des Bundesrates.
+Die Rechtsverordnung der Bundesregierung bedarf nicht der Zustimmung
+des Bundesrates.
 
-(1a) Die Prozessakten werden ab dem 1. Januar 2026 elektronisch
-geführt. Die Bundesregierung und die Landesregierungen bestimmen
-jeweils für ihren Bereich durch Rechtsverordnung die organisatorischen
-und dem Stand der Technik entsprechenden technischen Rahmenbedingungen
-für die Bildung, Führung und Verwahrung der elektronischen Akten
-einschließlich der einzuhaltenden Anforderungen der Barrierefreiheit.
-Die Bundesregierung und die Landesregierungen können jeweils für ihren
-Bereich durch Rechtsverordnung bestimmen, dass Akten, die in
-Papierform angelegt wurden, in Papierform weitergeführt werden. Die
-Landesregierungen können die Ermächtigungen nach den Sätzen 2 und 3
-auf die für die Finanzgerichtsbarkeit zuständigen obersten
-Landesbehörden übertragen. Die Rechtsverordnungen der Bundesregierung
-bedürfen nicht der Zustimmung des Bundesrates.
-
-(2) Werden die Akten in Papierform geführt, ist von einem
+(2) Akten, die in Papierform angelegt wurden, können in Papierform
+weitergeführt werden. Sie können ab einem bestimmten Stichtag oder
+Ereignis in elektronischer Form weitergeführt werden. Der Beginn der
+Weiterführung der Akten in elektronischer Form ist aktenkundig zu
+machen. Werden die Akten in Papierform geführt, ist von einem
 elektronischen Dokument ein Ausdruck für die Akten zu fertigen. Kann
 dies bei Anlagen zu vorbereitenden Schriftsätzen nicht oder nur mit
 unverhältnismäßigem Aufwand erfolgen, so kann ein Ausdruck
@@ -1071,6 +1068,10 @@ Papierform vorliegenden Schriftstücke und sonstigen Unterlagen können
 sechs Monate nach der Übertragung vernichtet werden, sofern sie nicht
 rückgabepflichtig sind.
 
+(7) Die Bundesregierung kann durch Rechtsverordnung mit Zustimmung des
+Bundesrates die für die Übermittlung elektronischer Akten zwischen
+Behörden und Gerichten geltenden Standards bestimmen.
+
 
 #### § 52c Formulare; Verordnungsermächtigung
 
@@ -1088,7 +1089,7 @@ Personalausweisgesetzes, § 12 des eID-Karte-Gesetzes oder § 78 Absatz
 5 des Aufenthaltsgesetzes erfolgen kann.
 
 
-#### § 52d Nutzungspflicht für Rechtsanwälte, Behörden und vertretungsberechtigte Personen
+#### § 52d Nutzungspflicht für Rechtsanwälte, Behörden und vertretungsberechtigte Bevollmächtigte
 
 Vorbereitende Schriftsätze und deren Anlagen sowie schriftlich
 einzureichende Anträge und Erklärungen, die durch einen Rechtsanwalt,
@@ -1096,9 +1097,11 @@ durch eine Behörde oder durch eine juristische Person des öffentlichen
 Rechts einschließlich der von ihr zur Erfüllung ihrer öffentlichen
 Aufgaben gebildeten Zusammenschlüsse eingereicht werden, sind als
 elektronisches Dokument zu übermitteln. Gleiches gilt für die nach
-diesem Gesetz vertretungsberechtigten Personen, für die ein sicherer
-Übermittlungsweg nach § 52a Absatz 4 Satz 1 Nummer 2 zur Verfügung
-steht. Ist eine Übermittlung aus technischen Gründen vorübergehend
+diesem Gesetz vertretungsberechtigten Personen und Bevollmächtigten,
+für die ein sicherer Übermittlungsweg nach § 52a Absatz 4 Satz 1
+Nummer 1 oder 3 zur Verfügung steht; ausgenommen sind nach § 62 Absatz
+2 Satz 2 Nummer 1 Halbsatz 1 oder Nummer 2 vertretungsbefugte
+Personen. Ist eine Übermittlung aus technischen Gründen vorübergehend
 nicht möglich, bleibt die Übermittlung nach den allgemeinen
 Vorschriften zulässig. Die vorübergehende Unmöglichkeit ist bei der
 Ersatzeinreichung oder unverzüglich danach glaubhaft zu machen; auf
@@ -1455,7 +1458,8 @@ zuständige Behörde zu richten.
 #### § 64
 
 (1) Die Klage ist bei dem Gericht schriftlich oder zu Protokoll des
-Urkundsbeamten der Geschäftsstelle zu erheben.
+Urkundsbeamten der Geschäftsstelle zu erheben. § 129a Absatz 2 der
+Zivilprozessordnung gilt entsprechend.
 
 (2) Der Klage sollen Abschriften für die übrigen Beteiligten beigefügt
 werden; § 77 Abs. 2 gilt sinngemäß.
@@ -1469,7 +1473,8 @@ Entscheidung über den außergerichtlichen Rechtsbehelf bezeichnen. Sie
 soll einen bestimmten Antrag enthalten. Die zur Begründung dienenden
 Tatsachen und Beweismittel sollen angegeben werden. Der Klage soll
 eine Abschrift des angefochtenen Verwaltungsakts und der
-Einspruchsentscheidung beigefügt werden.
+Einspruchsentscheidung beigefügt werden. § 253 Absatz 3 Nummer 4 der
+Zivilprozessordnung gilt entsprechend.
 
 (2) Entspricht die Klage diesen Anforderungen nicht, hat der
 Vorsitzende oder der nach § 21g des Gerichtsverfassungsgesetzes
@@ -1608,7 +1613,9 @@ des Gerichtsverfassungsgesetzes entsprechend. Beschlüsse entsprechend
 (1) Die Klageschrift ist dem Beklagten von Amts wegen zuzustellen.
 Zugleich mit der Zustellung der Klage ist der Beklagte aufzufordern,
 sich schriftlich oder zu Protokoll des Urkundsbeamten der
-Geschäftsstelle zu äußern. Hierfür kann eine Frist gesetzt werden.
+Geschäftsstelle zu äußern. Hierfür kann eine Frist gesetzt werden. §
+277 Absatz 1 Satz 2 Nummer 2 der Zivilprozessordnung gilt
+entsprechend.
 
 (2) Die beteiligte Finanzbehörde hat die den Streitfall betreffenden
 Akten nach Empfang der Klageschrift an das Gericht zu übermitteln.
@@ -1759,7 +1766,8 @@ sind, um den Rechtsstreit möglichst in einer mündlichen Verhandlung zu
 erledigen. Er kann insbesondere
 
 1.  die Beteiligten zur Erörterung des Sach- und Streitstandes und zur
-    gütlichen Beilegung des Rechtsstreits laden;
+    gütlichen Beilegung des Rechtsstreits laden; § 128a der
+    Zivilprozessordnung gilt entsprechend;
 
 
 2.  den Beteiligten die Ergänzung oder Erläuterung ihrer vorbereitenden
@@ -1879,9 +1887,10 @@ den Sachverhalt auch ohne Mitwirkung des Beteiligten zu ermitteln.
 #### § 80
 
 (1) Das Gericht kann das persönliche Erscheinen eines Beteiligten
-anordnen. Für den Fall des Ausbleibens kann es Ordnungsgeld wie gegen
-einen im Vernehmungstermin nicht erschienenen Zeugen androhen. Bei
-schuldhaftem Ausbleiben setzt das Gericht durch Beschluss das
+anordnen. § 141 Absatz 1 Satz 2 der Zivilprozessordnung gilt
+entsprechend. Für den Fall des Ausbleibens kann es Ordnungsgeld wie
+gegen einen im Vernehmungstermin nicht erschienenen Zeugen androhen.
+Bei schuldhaftem Ausbleiben setzt das Gericht durch Beschluss das
 angedrohte Ordnungsgeld fest. Androhung und Festsetzung des
 Ordnungsgelds können wiederholt werden.
 
@@ -1911,8 +1920,9 @@ Beweisfragen ein anderes Gericht um die Beweisaufnahme ersuchen.
 #### § 82
 
 Soweit §§ 83 bis 89 nicht abweichende Vorschriften enthalten, sind auf
-die Beweisaufnahme §§ 358 bis 371, 372 bis 377, 380 bis 382, 386 bis
-414 und 450 bis 494 der Zivilprozessordnung sinngemäß anzuwenden.
+die Beweisaufnahme § 284 Absatz 2 und 3 sowie die §§ 358 bis 371, 372
+bis 377, 380 bis 382, 386 bis 414 und 450 bis 494 der
+Zivilprozessordnung sinngemäß anzuwenden.
 
 
 #### § 83
@@ -2052,29 +2062,6 @@ Beteiligten auch ohne ihn verhandelt und entschieden werden kann.
 abhalten, wenn dies zur sachdienlichen Erledigung notwendig ist.
 
 (4) § 227 Abs. 3 Satz 1 der Zivilprozeßordnung ist nicht anzuwenden.
-
-
-#### § 91a
-
-(1) Das Gericht kann den Beteiligten, ihren Bevollmächtigten und
-Beiständen auf Antrag oder von Amts wegen gestatten, sich während
-einer mündlichen Verhandlung an einem anderen Ort aufzuhalten und dort
-Verfahrenshandlungen vorzunehmen. Die Verhandlung wird zeitgleich in
-Bild und Ton an diesen Ort und in das Sitzungszimmer übertragen.
-
-(2) Das Gericht kann auf Antrag gestatten, dass sich ein Zeuge, ein
-Sachverständiger oder ein Beteiligter während einer Vernehmung an
-einem anderen Ort aufhält. Die Vernehmung wird zeitgleich in Bild und
-Ton an diesen Ort und in das Sitzungszimmer übertragen. Ist
-Beteiligten, Bevollmächtigten und Beiständen nach Absatz 1 Satz 1
-gestattet worden, sich an einem anderen Ort aufzuhalten, so wird die
-Vernehmung auch an diesen Ort übertragen.
-
-(3) Die Übertragung wird nicht aufgezeichnet. Entscheidungen nach
-Absatz 1 Satz 1 und Absatz 2 Satz 1 sind unanfechtbar.
-
-(4) Die Absätze 1 und 3 gelten entsprechend für Erörterungstermine (§
-79 Absatz 1 Satz 2 Nummer 1).
 
 
 #### § 92
@@ -2261,7 +2248,9 @@ hat, in der Regel in dem Termin, in dem die mündliche Verhandlung
 geschlossen wird, verkündet, in besonderen Fällen in einem sofort
 anzuberaumenden Termin, der nicht über zwei Wochen hinaus angesetzt
 werden soll. Das Urteil wird durch Verlesung der Formel verkündet; es
-ist den Beteiligten zuzustellen.
+ist den Beteiligten zuzustellen. Der Vorsitzende kann den Beteiligten,
+ihren Bevollmächtigten und Beiständen gestatten, an der
+Urteilsverkündung per Bild- und Tonübertragung teilzunehmen.
 
 (2) Statt der Verkündung ist die Zustellung des Urteils zulässig; dann
 ist das Urteil binnen zwei Wochen nach der mündlichen Verhandlung der
@@ -2766,12 +2755,12 @@ Gesetz etwas anderes bestimmt ist.
 
 (2) Prozessleitende Verfügungen, Aufklärungsanordnungen, Beschlüsse
 über die Vertagung oder die Bestimmung einer Frist, Beweisbeschlüsse,
-Beschlüsse nach §§ 91a und 93a, Beschlüsse über die Ablehnung von
-Beweisanträgen, über Verbindung und Trennung von Verfahren und
-Ansprüchen und über die Ablehnung von Gerichtspersonen,
-Sachverständigen und Dolmetschern, Einstellungsbeschlüsse nach
-Klagerücknahme sowie Beschlüsse im Verfahren der Prozesskostenhilfe
-können nicht mit der Beschwerde angefochten werden.
+Beschlüsse über die Ablehnung von Beweisanträgen, über Verbindung und
+Trennung von Verfahren und Ansprüchen und über die Ablehnung von
+Gerichtspersonen, Sachverständigen und Dolmetschern,
+Einstellungsbeschlüsse nach Klagerücknahme sowie Beschlüsse im
+Verfahren der Prozesskostenhilfe können nicht mit der Beschwerde
+angefochten werden.
 
 (3) Gegen die Entscheidung über die Aussetzung der Vollziehung nach §
 69 Abs. 3 und 5 und über einstweilige Anordnungen nach § 114 Abs. 1
@@ -2859,7 +2848,7 @@ Verletzung des rechtlichen Gehörs zu erheben; der Zeitpunkt der
 Kenntniserlangung ist glaubhaft zu machen. Nach Ablauf eines Jahres
 seit Bekanntgabe der angegriffenen Entscheidung kann die Rüge nicht
 mehr erhoben werden. Formlos mitgeteilte Entscheidungen gelten mit dem
-dritten Tage nach Aufgabe zur Post als bekannt gegeben. Die Rüge ist
+vierten Tag nach Aufgabe zur Post als bekannt gegeben. Die Rüge ist
 schriftlich oder zu Protokoll des Urkundsbeamten der Geschäftsstelle
 bei dem Gericht zu erheben, dessen Entscheidung angegriffen wird. Die
 Rüge muss die angegriffene Entscheidung bezeichnen und das Vorliegen
@@ -3084,6 +3073,7 @@ eingelegt wird.
 #### (XXXX) §§ 146 bis 148 (weggefallen)
 
 
+
 #### § 149
 
 (1) Die den Beteiligten zu erstattenden Aufwendungen werden auf Antrag
@@ -3203,12 +3193,14 @@ Soweit dieses Gesetz keine Bestimmungen über das Verfahren enthält,
 sind das Gerichtsverfassungsgesetz und, soweit die grundsätzlichen
 Unterschiede der beiden Verfahrensarten es nicht ausschließen, die
 Zivilprozessordnung einschließlich § 278 Absatz 5 und § 278a sinngemäß
-anzuwenden. Die Vorschriften des Siebzehnten Titels des
-Gerichtsverfassungsgesetzes sind mit der Maßgabe entsprechend
-anzuwenden, dass an die Stelle des Oberlandesgerichts und des
-Bundesgerichtshofs der Bundesfinanzhof und an die Stelle der
-Zivilprozessordnung die Finanzgerichtsordnung tritt; die Vorschriften
-über das Verfahren im ersten Rechtszug sind entsprechend anzuwenden.
+anzuwenden; das Leitentscheidungsverfahren nach den §§ 552b und 565
+der Zivilprozessordnung ist nicht anzuwenden. Die Vorschriften des
+Siebzehnten Titels des Gerichtsverfassungsgesetzes sind mit der
+Maßgabe entsprechend anzuwenden, dass an die Stelle des
+Oberlandesgerichts und des Bundesgerichtshofs der Bundesfinanzhof und
+an die Stelle der Zivilprozessordnung die Finanzgerichtsordnung tritt;
+die Vorschriften über das Verfahren im ersten Rechtszug sind
+entsprechend anzuwenden.
 
 
 ### § 156
@@ -3258,7 +3250,21 @@ werden.
 (Aufhebung von Vorschriften)
 
 
-### (XXXX) §§ 162 bis 183 (weggefallen)
+### § 162
+
+Dokumente und Aktenteile, die nach den Verschlusssachenanweisungen des
+Bundes oder der Länder als Verschlusssache höher als VS-NUR FÜR DEN
+DIENSTGEBRAUCH eingestuft sind, dürfen bis zum 31. Dezember 2035
+abweichend von den §§ 52a bis 52d in Papierform erstellt, geführt und
+übermittelt werden. Dokumente und Aktenteile, die nach den
+Verschlusssachenanweisungen des Bundes oder der Länder als
+Verschlusssache VS-NUR FÜR DEN DIENSTGEBRAUCH eingestuft sind, dürfen
+bis zum 31. Dezember 2035 abweichend von den §§ 52a bis 52d in
+Papierform übermittelt werden. Die für die Handhabung von
+Verschlusssachen geltenden Geheimschutzvorschriften bleiben unberührt.
+
+
+### (XXXX) §§ 163 bis 183 (weggefallen)
 
 
 

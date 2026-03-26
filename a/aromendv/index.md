@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2021, 4723
 
+Geändert durch
+:   Art. 5 V v. 11.12.2024 I Nr. 411
+
 
 ## § 1 Anwendungsbereich
 
@@ -220,8 +223,8 @@ Selbstbedienung angeboten werden, sowie bei Lebensmitteln im Sinne des
 1.  nach Maßgabe des Artikels 12 Absatz 2 der Verordnung (EU) Nr.
     1169/2011 oder gemäß § 4 Absatz 3 und 4 der Lebensmittelinformations-
     Durchführungsverordnung vom 5. Juli 2017 (BGBl. I S. 2272), die
-    zuletzt durch Artikel 4 der Verordnung vom 18. November 2020 (BGBl. I
-    S. 2504) geändert worden ist, und
+    zuletzt durch Artikel 3 der Verordnung vom 11. Dezember 2024 (BGBl.
+    2024 I Nr. 411) geändert worden ist, und
 
 
 2.  soweit Angaben nach § 4 Absatz 2 der Lebensmittelinformations-

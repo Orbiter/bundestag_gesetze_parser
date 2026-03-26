@@ -1,8 +1,6 @@
 ---
 Title: Gesetz über das Verbot der Einbringung von Abfällen und anderen Stoffen und
-  Gegenständen in die Hohe See (Artikel 1 des Gesetzes zur Ausführung des Protokolls
-  vom 7. November 1996 zum Übereinkommen über die Verhütung der Meeresverschmutzung
-  durch das Einbringen von Abfällen und anderen Stoffen von 1972)
+  Gegenständen in die Hohe See
 jurabk: HoheSeeEinbrG
 layout: default
 origslug: hoheseeeinbrg
@@ -10,7 +8,7 @@ slug: hoheseeeinbrg
 
 ---
 
-# Gesetz über das Verbot der Einbringung von Abfällen und anderen Stoffen und Gegenständen in die Hohe See (Artikel 1 des Gesetzes zur Ausführung des Protokolls vom 7. November 1996 zum Übereinkommen über die Verhütung der Meeresverschmutzung durch das Einbringen von Abfällen und anderen Stoffen von 1972) (HoheSeeEinbrG)
+# Gesetz über das Verbot der Einbringung von Abfällen und anderen Stoffen und Gegenständen in die Hohe See (HoheSeeEinbrG)
 
 Ausfertigungsdatum
 :   1998-08-25
@@ -19,7 +17,7 @@ Fundstelle
 :   BGBl I: 1998, 2455
 
 Zuletzt geändert durch
-:   Art. 127 V v. 19.6.2020 I 1328
+:   Art. 1 G v. 13.3.2026 I Nr. 70
 
 
 ## § 1 Zielsetzung

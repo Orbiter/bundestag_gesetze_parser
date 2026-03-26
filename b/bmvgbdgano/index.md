@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2013, 1596
 
 Zuletzt geändert durch
-:   Art. 1 AnO v. 7.10.2022 I 1833
+:   Art. 1 AnO v. 4.6.2025 I Nr. 141
 
 
 ## Eingangsformel
@@ -30,8 +30,11 @@ Nach § 33 Absatz 5, § 34 Absatz 2 Satz 2, § 42 Absatz 1 Satz 2 und §
 ## § 1
 
 Die Befugnis zur Kürzung der Dienstbezüge bis zum Höchstmaß nach § 33
-Absatz 3 Nummer 1 des Bundesdisziplinargesetzes wird für den
-jeweiligen Kommando- oder Geschäftsbereich übertragen:
+Absatz 3 Nummer 1 des Bundesdisziplinargesetzes in der bis zum 31.
+März 2024 geltenden Fassung und nach § 34 Absatz 2 Nummer 1 des
+Bundesdisziplinargesetzes in der ab dem 1. April 2024 geltenden
+Fassung wird für den jeweiligen Kommando- oder Geschäftsbereich
+übertragen:
 
 1.  den Inspekteurinnen oder Inspekteuren
 
@@ -44,13 +47,7 @@ jeweiligen Kommando- oder Geschäftsbereich übertragen:
     c)  der Marine,
 
 
-    d)  des Zentralen Sanitätsdienstes der Bundeswehr,
-
-
-    e)  der Streitkräftebasis,
-
-
-    f)  des Cyber- und Informationsraums,
+    d)  des Cyber- und Informationsraums,
 
 
 
@@ -58,10 +55,10 @@ jeweiligen Kommando- oder Geschäftsbereich übertragen:
 
 2.  der Befehlshaberin oder dem Befehlshaber
 
-    a)  des Einsatzführungskommandos der Bundeswehr,
+    a)  des Unterstützungskommandos der Bundeswehr,
 
 
-    b)  des Territorialen Führungskommandos der Bundeswehr,
+    b)  des Operativen Führungskommandos der Bundeswehr,
 
 
 
@@ -98,40 +95,33 @@ jeweiligen Kommando- oder Geschäftsbereich übertragen:
 
 
 
-4.  der Amtschefin oder dem Amtschef des Luftfahrtamtes der Bundeswehr,
-
-
-5.  der Präsidentin, dem Präsidenten, der Amtschefin oder dem Amtschef des
-    Planungsamtes der Bundeswehr,
-
-
-6.  der Kommandeurin oder dem Kommandeur der Führungsakademie der
+4.  der Kommandeurin oder dem Kommandeur der Führungsakademie der
     Bundeswehr,
 
 
-7.  der Kommandeurin oder dem Kommandeur des Zentrums Innere Führung,
+5.  der Kommandeurin oder dem Kommandeur des Zentrums Innere Führung,
 
 
-8.  der Leiterin oder dem Leiter des Evangelischen Kirchenamtes für die
+6.  der Leiterin oder dem Leiter des Evangelischen Kirchenamtes für die
     Bundeswehr,
 
 
-9.  dem Leiter des Katholischen Militärbischofsamtes,
+7.  dem Leiter des Katholischen Militärbischofsamtes,
 
 
-10. der Leiterin oder dem Leiter des Militärrabbinats,
+8.  der Leiterin oder dem Leiter des Militärrabbinats,
 
 
-11. der Bundeswehrdisziplinaranwältin oder dem
+9.  der Bundeswehrdisziplinaranwältin oder dem
     Bundeswehrdisziplinaranwalt,
 
 
-12. der dienstaufsichtführenden Rechtsberaterin oder dem
+10. der dienstaufsichtführenden Rechtsberaterin oder dem
     dienstaufsichtführenden Rechtsberater in den dem Bundesministerium der
     Verteidigung unmittelbar nachgeordneten Dienststellen sowie
 
 
-13. der Leiterin oder dem Leiter des Fachbereichs Bundeswehrverwaltung der
+11. der Leiterin oder dem Leiter des Fachbereichs Bundeswehrverwaltung der
     Hochschule des Bundes für öffentliche Verwaltung.
 
 
@@ -140,9 +130,16 @@ jeweiligen Kommando- oder Geschäftsbereich übertragen:
 
 ## § 2
 
-Die Befugnis zur Erhebung der Disziplinarklage nach § 34 Absatz 2 Satz
-1 des Bundesdisziplinargesetzes wird den in § 1 genannten
-Dienstvorgesetzten übertragen.
+(1) Die Befugnis zur Erhebung der Disziplinarklage nach § 34 Absatz 2
+Satz 1 des Bundesdisziplinargesetzes in der bis zum 31. März 2024
+geltenden Fassung wird den in § 1 genannten Dienstvorgesetzten für bis
+zu diesem Zeitpunkt eingeleitete Disziplinarverfahren übertragen.
+
+(2) Die Befugnis zum Aussprechen der Zurückstufung und der Entfernung
+aus dem Beamtenverhältnis nach § 34 Absatz 4 Halbsatz 1 des
+Bundesdisziplinargesetzes wird für ab dem 1. April 2024 eingeleitete
+Disziplinarverfahren den in § 1 genannten Dienstvorgesetzten
+übertragen.
 
 
 ## § 3
@@ -159,7 +156,11 @@ erlassen hat, den Widerspruchsbescheid.
 Die Disziplinarbefugnisse gegenüber Ruhestandsbeamtinnen und
 Ruhestandsbeamten nach § 84 Satz 1 des Bundesdisziplinargesetzes
 werden der Präsidentin oder dem Präsidenten des Bundesamtes für das
-Personalmanagement der Bundeswehr übertragen.
+Personalmanagement der Bundeswehr übertragen. Für vor dem Ruhestand
+eingeleitete Disziplinarverfahren werden diese Disziplinarbefugnisse
+der bzw. dem in § 1 genannten Dienstvorgesetzten übertragen, die bzw.
+der vor Eintritt der Beamtin oder des Beamten in den Ruhestand
+disziplinarrechtlich zuständig gewesen ist.
 
 
 ## § 5

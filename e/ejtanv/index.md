@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2004, 3520
 
 Zuletzt geändert durch
-:   Art. 3 Abs. 2 G v. 9.12.2019 I 2010
+:   Art. 2 G v. 11.3.2026 I Nr. 69
 
 Diese Verordnung dient der Umsetzung des Beschlusses 2003/48/JI des
 Rates vom 19. Dezember 2002 über die Anwendung besonderer Maßnahmen im

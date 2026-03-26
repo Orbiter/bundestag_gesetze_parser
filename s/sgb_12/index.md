@@ -17,13 +17,13 @@ Fundstelle
 :   BGBl I: 2003, 3022, 3023
 
 Zuletzt geändert durch
-:   Art. 2 G v. 22.12.2023 I Nr. 408
+:   Art. 9 G v. 22.12.2025 I Nr. 363
 
-Mittelbare änderung durch
-:   Art. 14 Nr. 1 G v. 22.12.2023 I Nr. 408 ist berücksichtigt
+Änderung durch
+:   Art. 8 G v. 22.12.2025 I Nr. 371 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
-Mittelbare änderung durch
-:   Art. 15 G v. 22.12.2023 I Nr. 408 ist berücksichtigt
+Änderung durch
+:   Art. 15 G v. 16.1.2026 I Nr. 14 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Inhaltsverzeichnis
@@ -1439,12 +1439,6 @@ Mittelbare änderung durch
     *   Sozialhilfe für Ausländerinnen und Ausländer mit einem
         Aufenthaltstitel nach § 24 des Aufenthaltsgesetzes oder einer
         entsprechenden Fiktionsbescheinigung
-
-
-*    *   § 147
-
-    *   Übergangsregelung aus Anlass des Gesetzes zur Regelung des Sozialen
-        Entschädigungsrechts
 
 
 
@@ -3316,7 +3310,8 @@ des Mieters beruht. Die übermittelten Daten dürfen auch für
 entsprechende Zwecke der Sozialen Entschädigung, soweit es sich um
 Besondere Leistungen im Einzelfall nach Kapitel 11 des Vierzehnten
 Buches handelt, gespeichert, verändert, genutzt, übermittelt und in
-der Verarbeitung eingeschränkt werden.
+der Verarbeitung eingeschränkt werden. Gleiches gilt für die Zwecke
+der Soldatenentschädigung nach dem Soldatenentschädigungsgesetz.
 
 
 ### Fünfter Abschnitt - Gewährung von Darlehen
@@ -5971,7 +5966,8 @@ Nicht zum Einkommen gehören
 1.  Leistungen nach diesem Buch,
 
 
-2.  (weggefallen)
+2.  Leistungen des Ausgleichs für gesundheitliche Schädigungsfolgen nach
+    dem Soldatenentschädigungsgesetz,
 
 
 3.  Renten oder Beihilfen nach dem Bundesentschädigungsgesetz für Schaden
@@ -6021,9 +6017,9 @@ Nicht zum Einkommen gehören
 
 
 8.  Aufwandsentschädigungen oder Einnahmen aus nebenberuflichen
-    Tätigkeiten, die nach § 3 Nummer 12, Nummer 26 oder Nummer 26a des
-    Einkommensteuergesetzes steuerfrei sind, soweit diese einen Betrag in
-    Höhe von 3 000 Euro kalenderjährlich nicht überschreiten,
+    Tätigkeiten, die nach § 3 Nummer 12, Nummer 26 oder Nummer 26a des
+    Einkommensteuergesetzes steuerfrei sind, kalenderjährlich bis zur Höhe
+    des in § 3 Nummer 26 des Einkommensteuergesetzes genannten Betrags,
 
 
 9.  einmalige Einnahmen aus Erbschaften, Vermächtnissen und
@@ -6031,12 +6027,20 @@ Nicht zum Einkommen gehören
 
 
 10. Überbrückungsgeld nach § 51 des Strafvollzugsgesetzes oder
-    vergleichbare Leistungen nach landesrechtlichen Regelungen und
+    vergleichbare Leistungen nach landesrechtlichen Regelungen,
 
 
 11. Einnahmen in Geldeswert, die nicht im Rahmen einer Erwerbstätigkeit,
     des Bundesfreiwilligendienstes oder eines Jugendfreiwilligendienstes
-    zufließen.
+    zufließen, und
+
+
+12. Witwen- oder Witwerrente nach § 67 Nummer 5 und 6 des Sechsten Buches,
+    nach § 23 Absatz 6 Nummer 4 des Gesetzes über die Alterssicherung der
+    Landwirte und nach § 65 Absatz 2 Nummer 1 des Siebten Buches, soweit
+    diese Rente bis zum Ende des dritten Kalendermonats nach Ablauf des
+    Monats, in dem der Ehegatte verstorben ist, die anschließende Witwen-
+    oder Witwerrente überschreitet.
 
 
 
@@ -7269,6 +7273,12 @@ unverzüglich zu löschen. Eine Übermittlung durch diese Stellen
 unterbleibt, soweit ihr besondere gesetzliche Verwendungsregelungen
 entgegenstehen.
 
+(5) Die für die Ausführung dieses Buches zuständigen Stellen dürfen
+zur Sicherstellung einer ordnungsgemäßen Leistungserbringung bei
+Personen, die Leistungen nach diesem Buch beantragt haben, beziehen
+oder bezogen haben, Auskunft aus dem Ausländerzentralregister
+einholen.
+
 
 ### § 119 Wissenschaftliche Forschung im Auftrag des Bundes
 
@@ -7807,7 +7817,10 @@ Höhe der angerechneten Einkommensart, getrennt nach
 11. öffentlich-rechtliche Leistungen für Kinder,
 
 
-12. sonstige Einkünfte.
+12. Einkünfte nach dem Soldatenentschädigungsgesetz,
+
+
+13. sonstige Einkünfte.
 
 
 
@@ -8462,7 +8475,7 @@ Leistungsberechtigte nach dem Vierten Kapitel sind Bruttoausgaben nach
 (1) Minderjährige, die einen Anspruch auf Leistungen nach dem Dritten
 Kapitel haben, dem ein Regelsatz nach der Regelbedarfsstufe 4, 5 oder
 6 zugrunde liegt, haben Anspruch auf einen monatlichen Sofortzuschlag
-in Höhe von 20 Euro. Anspruch auf den Sofortzuschlag besteht für
+in Höhe von 25 Euro. Anspruch auf den Sofortzuschlag besteht für
 Minderjährige auch dann, wenn sie
 
 1.  einen Anspruch auf Leistungen nach § 34 haben oder
@@ -8541,15 +8554,6 @@ Asylbewerberleistungsgesetzes zuständigen Behörden unverzüglich
 anzuzeigen. Der für die Durchführung des Asylbewerberleistungsgesetzes
 zuständigen Behörde stehen Erstattungsansprüche nach Maßgabe des § 104
 des Zehnten Buches zu.
-
-
-### § 147 Übergangsregelung aus Anlass des Gesetzes zur Regelung des Sozialen Entschädigungsrechts
-
-Für Personen, die Leistungen nach dem Soldatenversorgungsgesetz in
-Verbindung mit dem Bundesversorgungsgesetz erhalten, gelten die
-Vorschriften des § 36 Absatz 2 Satz 4, des § 43 Absatz 3 Satz 2 und 3,
-des § 82 Absatz 1 Satz 2 und des § 128d Absatz 1 Nummer 8 in der am
-31\. Dezember 2023 geltenden Fassung weiter.
 
 (zu § 28)
 
@@ -8787,6 +8791,36 @@ des § 82 Absatz 1 Satz 2 und des § 128d Absatz 1 Nummer 8 in der am
     *   357
 
 
+*    *   1. Januar 2025
+
+    *   563
+
+    *   506
+
+    *   451
+
+    *   471
+
+    *   390
+
+    *   357
+
+
+*    *   1. Januar 2026
+
+    *   563
+
+    *   506
+
+    *   451
+
+    *   471
+
+    *   390
+
+    *   357
+
+
 
 
 Regelbedarfsstufe 1:
@@ -8823,7 +8857,8 @@ Für ein Kind bis zur Vollendung des sechsten Lebensjahres.
 
 ### Anlage Ausstattung mit persönlichem Schulbedarf in Euro
 
-(Fundstelle: BGBl. I 2019, 535)
+(Fundstelle: BGBl. I 2019, 535;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *   gültig im
@@ -8878,6 +8913,20 @@ Für ein Kind bis zur Vollendung des sechsten Lebensjahres.
 
 
 *    *   2024
+
+    *   130 Euro
+
+    *   65 Euro
+
+
+*    *   2025
+
+    *   130 Euro
+
+    *   65 Euro
+
+
+*    *   2026
 
     *   130 Euro
 

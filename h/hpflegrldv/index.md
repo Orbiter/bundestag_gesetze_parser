@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1974, 1062
 
 Zuletzt geändert durch
-:   Art. 6 G v. 11.4.2024 I Nr. 119
+:   Art. 4 V v. 19.12.2025 I Nr. 382
 
 
 ## Eingangsformel
@@ -30,7 +30,7 @@ Strafgesetzbuch vom 2. März 1974 (Bundesgesetzbl. I S. 469), wird nach
 Anhörung der obersten Landesbehörden verordnet:
 
 
-## Art 1
+## Art 1 - 
 
 
 
@@ -116,28 +116,31 @@ ausgenommen:
 1.  Kraftfahrzeuge und Kraftfahrzeuganhänger, die ein vorgeschriebenes
     Kennzeichen folgender Staaten oder Gebiete führen:
 
-    *   Andorra
+    Andorra
 
-        Grönland
+    Bosnien und Herzegowina
 
-        Island
+    Grönland
 
-        Liechtenstein
+    Island
 
-        Monaco
+    Liechtenstein
 
-        Norwegen
+    Monaco
 
-        San Marino
+    Montenegro
 
-        Schweiz
+    Norwegen
 
-        Serbien
+    San Marino
 
-        Vatikanstadt;
+    Schweiz
 
+    Serbien
 
+    Vatikanstadt
 
+    Vereinigtes Königreich;
 
 
 2.  zweirädrige Kraftfahrzeuge (einschließlich Fahrräder mit Hilfsmotor),
@@ -168,19 +171,21 @@ ausgenommen:
 
 
 
-(2) Die Ausnahme nach Absatz 1 Nr. 1 erstreckt sich nicht auf folgende
-Fahrzeuge von San Marino und Vatikanstadt:
+(2) Die Ausnahme nach Absatz 1 Nummer 1 erstreckt sich nicht auf
+folgende Fahrzeuge von San Marino und Vatikanstadt:
 landwirtschaftliche Fahrzeuge, insbesondere landwirtschaftliche
 Zugmaschinen, ihre Anhänger sowie landwirtschaftliche Arbeitsgeräte.
 
-(3) (weggefallen)
+(3) Die Ausnahme nach Absatz 1 Nummer 1 erstreckt sich nicht auf
+Militärfahrzeuge, die in Bosnien und Herzegowina, Montenegro oder im
+Vereinigten Königreich zugelassen sind.
 
 
-## Art 2
+## Art 2 - 
 
 
 
-## Art 3
+## Art 3 - 
 
 (weggefallen)
 
@@ -197,7 +202,8 @@ Der Bundesminister für Verkehr
 
 ## Anlage (zu § 2)
 
-Fundstelle des Originaltextes: BGBl. I 2004, 2157 u. 2158
+(Fundstelle des Originaltextes: BGBl. I 2004, 2157 u. 2158)
+
 **Zypern**
 Kraftfahrzeuge und Kraftfahrzeuganhänger der Streitkräfte oder
 sonstiger militärischer und ziviler Bediensteter, die internationalen
@@ -208,9 +214,6 @@ internationalen Vereinbarungen unterliegen.
 **Frankreich**
 Kraftfahrzeuge und Kraftfahrzeuganhänger der Streitkräfte, die
 internationalen Vereinbarungen unterliegen.
-**Vereinigtes Königreich Großbritannien und Nordirland einschließlich
-der Kanalinseln, Gibraltar und der Insel Man**
-Kraftfahrzeuge und Kraftfahrzeuganhänger der NATO-Streitkräfte.
 **Griechenland**
 
 1.  Fahrzeuge zwischenstaatlicher Organisationen (Grüne Schilder mit den

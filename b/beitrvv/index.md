@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2006, 1138
 
 Zuletzt geändert durch
-:   Art. 8 V v. 30.8.2023 I Nr. 233
+:   Art. 23 G v. 22.12.2025 I Nr. 355
 
 
 ## Eingangsformel
@@ -61,8 +61,9 @@ kann Satz 1 entsprechend angewandt werden. Werden Beiträge vom
 Arbeitgeber und vom Beschäftigten nicht je zur Hälfte getragen, ergibt
 sich der Beitrag aus der Summe der getrennt berechneten gerundeten
 Anteile. Beiträge, die vom Beschäftigten allein zu tragen sind, werden
-durch Anwendung des für diese Beiträge geltenden Beitragssatzes oder
-Beitragszuschlags auf das Arbeitsentgelt berechnet; Satz 3 zweiter
+durch Anwendung des für diese Beiträge geltenden Beitragssatzes
+gegebenenfalls unter Berücksichtigung eines Beitragszuschlags oder von
+Beitragsabschlägen auf das Arbeitsentgelt berechnet; Satz 3 zweiter
 Halbsatz gilt entsprechend. Wird die
 Mindestbeitragsbemessungsgrundlage des § 163 Abs. 8 des Sechsten
 Buches Sozialgesetzbuch nicht überschritten, wird der Beitragssatz auf
@@ -105,17 +106,18 @@ Buches Sozialgesetzbuch berechnet und auf zwei Dezimalstellen
 gerundet.
 
 (3) In Fällen des § 134 des Vierten Buches Sozialgesetzbuch gilt
-Absatz 2 Satz 1, 2 und 6 mit der Maßgabe, dass die beitragspflichtige
-Einnahme nach § 134 Satz 1 bis 3 des Vierten Buches Sozialgesetzbuch
-berechnet wird. In diesen Fällen wird der vom Arbeitgeber zu tragende
-Beitragsanteil durch Anwendung des halben Beitragssatzes zur
-gesetzlichen Rentenversicherung, der sozialen Pflegeversicherung, zur
-Arbeitsförderung und der gesetzlichen Krankenversicherung sowie des
-halben kassenindividuellen Zusatzbeitragssatzes auf das der
-Beschäftigung nach § 14 in Verbindung mit § 17 des Vierten Buches
-Sozialgesetzbuches zugrundeliegende Arbeitsentgelt berechnet und
-gerundet. Der Abzug des Arbeitgeberanteils von dem nach Satz 1
-errechneten Beitrag ergibt den Beitragsanteil des Beschäftigten.
+Absatz 2 Satz 1, 2, 6 und 7 mit der Maßgabe, dass die
+beitragspflichtige Einnahme nach § 134 Satz 1 bis 3 des Vierten Buches
+Sozialgesetzbuch berechnet wird. In diesen Fällen wird der vom
+Arbeitgeber zu tragende Beitragsanteil durch Anwendung des halben
+Beitragssatzes zur gesetzlichen Rentenversicherung, der sozialen
+Pflegeversicherung, zur Arbeitsförderung und der gesetzlichen
+Krankenversicherung sowie des halben kassenindividuellen
+Zusatzbeitragssatzes auf das der Beschäftigung nach § 14 in Verbindung
+mit § 17 des Vierten Buches Sozialgesetzbuches zugrundeliegende
+Arbeitsentgelt berechnet und gerundet. Der Abzug des
+Arbeitgeberanteils von dem nach Satz 1 errechneten Beitrag ergibt den
+Beitragsanteil des Beschäftigten.
 
 
 ## Zweiter Abschnitt - Zahlungen des Arbeitgebers
@@ -133,8 +135,7 @@ gilt
 
 2.  bei Zahlung durch Scheck, bei Überweisung oder Einzahlung auf ein
     Konto der Einzugsstelle der Tag der Wertstellung zugunsten der
-    Einzugsstelle, bei rückwirkender Wertstellung das Datum des
-    elektronischen Kontoauszuges des Geldinstituts der Einzugsstelle,
+    Einzugsstelle,
 
 
 3.  bei Vorliegen einer Einzugsermächtigung der Tag der Fälligkeit.
@@ -400,9 +401,8 @@ Meldungen zu summieren. Berichtigungen zu den Angaben nach Satz 1 Nr.
 machen. Die Angaben nach Satz 1 Nr. 8, 9 und 14 können verschlüsselt
 werden.
 
-(2) Folgende dem Arbeitgeber elektronisch zur Verfügung zu stellende
-Unterlagen sind in elektronischer Form zu den Entgeltunterlagen zu
-nehmen;
+(2) Folgende Unterlagen sind in elektronischer Form zu den
+Entgeltunterlagen zu nehmen:
 
 1.  Unterlagen, aus denen die nach Absatz 1 Satz 1 Nr. 3, 9 und 17
     erforderlichen Angaben ersichtlich sind,
@@ -437,8 +437,9 @@ nehmen;
 5a. (weggefallen)
 
 
-6.  die Niederschrift nach § 2 des Nachweisgesetzes sowie für
-    Seefahrtbetriebe der Heuervertrag nach § 28 des Seearbeitsgesetzes,
+6.  eine Kopie der Niederschrift nach § 2 des Nachweisgesetzes sowie für
+    Seefahrtbetriebe eine Kopie des Heuervertrages nach § 28 des
+    Seearbeitsgesetzes,
 
 
 7.  die Erklärung des kurzfristig geringfügigen Beschäftigten über weitere
@@ -477,8 +478,8 @@ nehmen;
     Sozialgesetzbuch,
 
 
-12. die Erklärung über den Auszahlungsverzicht von zustehenden
-    Entgeltansprüchen,
+12. die eine Kopie der Erklärung über den Auszahlungsverzicht von
+    zustehenden Entgeltansprüchen,
 
 
 13. die Aufzeichnungen nach § 19 Absatz 1 des Arbeitnehmer-
@@ -490,14 +491,15 @@ nehmen;
     Pflegeunterstützungsgeld unterbrochen wird,
 
 
-15. die Erklärung des oder der Beschäftigten zur Inanspruchnahme einer
-    Pflegezeit im Sinne des § 3 des Pflegezeitgesetzes,
+15. die eine Kopie der Erklärung des oder der Beschäftigten zur
+    Inanspruchnahme einer Pflegezeit im Sinne des § 3 des
+    Pflegezeitgesetzes,
 
 
 16. für Seefahrtbetriebe die Besatzungslisten sowie Seetagebücher nach §
     22 des Seearbeitsgesetzes, für Binnenschiffe die Schiffsatteste und
     für Schiffe der Rheinschifffahrt die
-    Rheinschifffahrtszugehörigkeitsurkunde,
+    Rheinschifffahrtszugehörigkeitsurkunde in Kopie,
 
 
 17. (weggefallen)
@@ -518,7 +520,12 @@ nehmen;
 19. die Erklärung des Verzichts auf die Versicherungsfreiheit nach § 5
     Absatz 4 Satz 2 oder § 230 Absatz 9 Satz 2 des Sechsten Buches
     Sozialgesetzbuch, auf der der Tag des Eingangs beim Arbeitgeber
-    dokumentiert ist.
+    dokumentiert ist,
+
+
+20. die Zustimmung des Beschäftigten zum Zeitpunkt des Eintritts der
+    Versicherungspflicht aufgrund Beschäftigung nach § 127 Absatz 1 Satz 1
+    Nummer 2 und Satz 2 des Vierten Buches Sozialgesetzbuch.
 
 
 
@@ -528,11 +535,11 @@ weiterhin eine Prüfung von schriftlichen Unterlagen erfolgen.
 (3) Die in Absatz 2 genannten Entgeltunterlagen, soweit sie nicht
 elektronisch aus der Abrechnung des Arbeitgebers entnommen werden
 können, sind dem Arbeitgeber von den zuständigen Stellen oder dem
-Beschäftigten, soweit möglich, in elektronischer Form zur Verfügung zu
-stellen. Bis zum 31. Dezember 2026 kann sich der Arbeitgeber von der
-Führung elektronischer Unterlagen auf Antrag bei dem für ihn
-zuständigen Prüfdienst der Deutschen Rentenversicherung nach § 28p des
-Vierten Buches Sozialgesetzbuch befreien lassen.
+Beschäftigten in elektronischer Form zur Verfügung zu stellen. Bis zum
+31\. Dezember 2026 kann sich der Arbeitgeber von der Führung
+elektronischer Unterlagen auf Antrag bei dem für ihn zuständigen
+Prüfdienst der Deutschen Rentenversicherung nach § 28p des Vierten
+Buches Sozialgesetzbuch befreien lassen.
 
 
 ### § 9 Beitragsabrechnung
@@ -620,13 +627,11 @@ aufzunehmen.
 (5) Die Daten der Entgeltunterlagen nach § 8 und der Absätze 1 bis 4
 sind in der Aufbewahrungsfrist jederzeit verfügbar und unverzüglich
 lesbar vorzuhalten. § 147 Abs. 5 und 6 der Abgabenordnung gilt
-entsprechend. Überführt der Arbeitgeber schriftliche Entgeltunterlagen
-mit Unterschriftserfordernis in elektronische Form, hat er diese mit
-einer fortgeschrittenen Signatur des Arbeitgebers zu versehen. Das ihm
-im Meldeverfahren nach dem Vierten Buch Sozialgesetzbuch ausgestellte
-Zertifikat kann dafür verwendet werden. Nach vollständiger Übernahme
-in elektronischer Form können die schriftlichen Entgeltunterlagen
-vernichtet werden.
+entsprechend. Werden dem Arbeitgeber Dokumente nach § 8 Absatz 2 in
+Papierform übermittelt, sind diese vom Arbeitgeber in ein
+elektronisches Format umzuwandeln. Die Originaldokumente sind bis zum
+bestandskräftigen Abschluss der Betriebsprüfung oder nach den für das
+Dokument geltenden weiteren gesetzlichen Vorschriften aufzubewahren.
 
 
 ### § 9a Gemeinsame Grundsätze

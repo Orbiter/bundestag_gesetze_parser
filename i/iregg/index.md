@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2019, 2494
 
 Zuletzt geändert durch
-:   Art. 7 G v. 20.12.2022 I 2793
+:   Art. 11a G v. 23.10.2024 I Nr. 324
 
 
 ## Abschnitt 1 - Zweck; Begriffsbestimmungen
@@ -1496,27 +1496,31 @@ sowie den §§ 18, 20, 24 und 25 und die zu zahlenden Gebühren nach § 33
 Absatz 1 Satz 2 Nummer 1 abgegolten.
 
 
-### § 35 Vergütungsausschluss
+### § 35 Vergütungsminderung
 
 (1) Der Anspruch einer verantwortlichen Gesundheitseinrichtung auf
 Vergütung der meldepflichtigen implantatbezogenen Maßnahme gegen eine
 gesetzliche Krankenkasse, gegen ein privates
 Krankenversicherungsunternehmen oder gegen die betroffene Patientin
-oder den betroffenen Patienten entfällt, wenn die verantwortliche
-Gesundheitseinrichtung
+oder den betroffenen Patienten vermindert sich angemessen, wenn die
+verantwortliche Gesundheitseinrichtung
 
 1.  ihrer Pflicht zur Datenübermittlung an die Registerstelle nach § 16
     Absatz 1 oder an die Vertrauensstelle nach § 17 Absatz 1 nicht
-    innerhalb einer Frist von sechs Monaten nach Durchführung der
-    meldepflichtigen implantatbezogenen Maßnahme nachkommt oder
+    innerhalb einer Frist von sechs Monaten nach Entlassung der Patientin
+    oder des Patienten aus der stationären Behandlung in der
+    verantwortlichen Gesundheitseinrichtung oder sonst nach Durchführung
+    der meldepflichtigen implantatbezogenen Maßnahme nachkommt oder
 
 
 2.  bei der Implantation ein Produkt verwendet, das entgegen der
     Registrierungspflicht nach § 15 nicht in der Produktdatenbank
     registriert ist, es sei denn, der Hersteller registriert das bei der
     Implantation verwendete Produkt in der Produktdatenbank nach § 15
-    binnen einer Frist von sechs Monaten nach Durchführung der
-    meldepflichtigen implantatbezogenen Maßnahme.
+    binnen einer Frist von sechs Monaten nach Entlassung der Patientin
+    oder des Patienten aus der stationären Behandlung in der
+    verantwortlichen Gesundheitseinrichtung oder sonst nach Durchführung
+    der meldepflichtigen implantatbezogenen Maßnahme.
 
 
 
@@ -1644,7 +1648,14 @@ Rechtsverordnung
     k)  die Anforderung an die Anträge, das Verfahren zur Entscheidung und die
         Anforderungen an die Entscheidung über die Übermittlung und den Zugang
         sowie die Entscheidung über die Weiterverwendung der Daten zu
-        Forschungszwecken und zu statistischen Zwecken nach § 31.
+        Forschungszwecken und zu statistischen Zwecken nach § 31,
+
+
+    l)  die Vergütungsminderung nach § 35, insbesondere zu dem Umfang, in dem
+        der Anspruch einer verantwortlichen Gesundheitseinrichtung auf
+        Vergütung der meldepflichtigen implantatbezogenen Maßnahme sich
+        vermindert; dabei kann auch vorgesehen werden, dass eine
+        Vergütungsminderung vollständig unterbleibt.
 
 
 

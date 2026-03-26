@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 26.9.1995 I 1195;
 
 Zuletzt geändert durch
-:   Art. 4a G v. 19.7.2023 I Nr. 197
-
-Änderung durch
-:   Art. 8z4 G v. 12.12.2023 I Nr. 359 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 8z4 G v. 12.12.2023 I Nr. 359
 
 
 ## Erster Abschnitt - Allgemeine Bestimmung
@@ -1601,7 +1598,7 @@ bestimmt ist, einverstanden ist.
 falls es sich um eine Verschreibung nach § 3a Absatz 1 Satz 1 der
 Arzneimittelverschreibungsverordnung handelt, auf der Durchschrift der
 Verschreibung, anzugeben oder im Falle der Verschreibung in
-elektronischer Form der elektronischen Verschreibung hinzufügen
+elektronischer Form der elektronischen Verschreibung hinzuzufügen
 
 1.  der Name oder die Firma des Inhabers der Apotheke und deren Anschrift,
 

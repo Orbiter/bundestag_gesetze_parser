@@ -18,10 +18,7 @@ Fundstelle
 :   BGBl I: 2006, 2523
 
 Zuletzt geändert durch
-:   Art. 3a G v. 9.8.2019 I 1202
-
-Mittelbare änderung durch
-:   Art. 4 Nr. 3 G v. 27.9.2021 I 4530 ist berücksichtigt
+:   Art. 9 G v. 23.10.2024 I Nr. 324
 
 
 ## Abschnitt 1 - Anwendungsbereich und Begriffsbestimmungen
@@ -397,7 +394,10 @@ Herstellungspraxis für Hilfsstoffe sind die hierzu von der
 Europäischen Kommission nach Artikel 47 Absatz 5 der Richtlinie
 2001/83/EG erlassenen Leitlinien zu beachten. Das Bundesministerium
 für Gesundheit macht die jeweils aktuelle Fassung der Leitlinien im
-Bundesanzeiger bekannt.
+Bundesanzeiger bekannt. Die von den zuständigen Bundesoberbehörden
+nach § 14 Absatz 6 des Arzneimittelgesetzes veröffentlichten
+Empfehlungen werden bei der Auslegung der Grundsätze und Leitlinien
+der Guten Herstellungspraxis nach Satz 2 berücksichtigt.
 
 (3) Absatz 2 findet keine Anwendung auf Entnahme- und
 Gewebeeinrichtungen sowie Gewebespenderlabore, die ihre Tätigkeiten

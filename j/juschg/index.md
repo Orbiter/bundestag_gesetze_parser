@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2002, 2730
 
 Zuletzt geändert durch
-:   Art. 1 G v. 9.4.2021 I 742
+:   Art. 12 G v. 6.5.2024 I Nr. 149
 
 Stand: Das G tritt gem. § 30 Abs. 1 Satz 1 an dem Tag in Kraft, an dem der Staatsvertrag der Länder über den Schutz der Menschenwürde und den Jugendschutz in Rundfunk und Telemedien in Kraft tritt\*. In Kraft gem. Bek. v. 1.4.2003 I 476 mWv 1.4.2003
 
@@ -54,7 +54,9 @@ beschlossen:
 
 
 
-(1a) Medien im Sinne dieses Gesetzes sind Trägermedien und Telemedien.
+(1a) Medien im Sinne dieses Gesetzes sind Trägermedien und digitale
+Dienste sowie abgrenzbare Inhalte innerhalb eines digitalen Dienstes
+im Sinne einer Bewertungseinheit.
 
 (2) Trägermedien im Sinne dieses Gesetzes sind Medien mit Texten,
 Bildern oder Tönen auf gegenständlichen Trägern, die zur Weitergabe
@@ -65,10 +67,8 @@ Trägermedien steht das elektronische Verbreiten, Überlassen, Anbieten
 oder Zugänglichmachen gleich, soweit es sich nicht um Rundfunk im
 Sinne des § 2 des Rundfunkstaatsvertrages handelt.
 
-(3) Telemedien im Sinne dieses Gesetzes sind Medien, die nach dem
-Telemediengesetz übermittelt oder zugänglich gemacht werden. Als
-Übermitteln oder Zugänglichmachen im Sinne von Satz 1 gilt das
-Bereithalten eigener oder fremder Inhalte.
+(3) Digitale Dienste im Sinne dieses Gesetzes sind digitale Dienste
+nach § 1 Absatz 4 Nummer 1 des Digitale-Dienste-Gesetzes.
 
 (4) Versandhandel im Sinne dieses Gesetzes ist jedes entgeltliche
 Geschäft, das im Wege der Bestellung und Übersendung einer Ware durch
@@ -81,8 +81,7 @@ und Jugendliche erfolgt, vollzogen wird.
 verheiratete Jugendliche.
 
 (6) Diensteanbieter im Sinne dieses Gesetzes sind Diensteanbieter nach
-dem Telemediengesetz vom 26. Februar 2007 (BGBl. I S. 179) in der
-jeweils geltenden Fassung.
+dem Digitale-Dienste-Gesetz in der jeweils geltenden Fassung.
 
 
 ### § 2 Prüfungs- und Nachweispflicht
@@ -446,9 +445,9 @@ Landesbehörde kann
 
 
 
-Anbieter von Telemedien, die Filme und Spielprogramme verbreiten,
-müssen auf eine vorhandene Kennzeichnung in ihrem Angebot deutlich
-hinweisen.
+Anbieter von digitalen Diensten, die Filme und Spielprogramme
+verbreiten, müssen auf eine vorhandene Kennzeichnung in ihrem Angebot
+deutlich hinweisen.
 
 (3) Bildträger, die nicht oder mit "Keine Jugendfreigabe" nach § 14
 Abs. 2 von der obersten Landesbehörde oder einer Organisation der
@@ -595,8 +594,8 @@ Prüfstelle für jugendgefährdende Medien herbei.
 soweit die obersten Landesbehörden nicht in der Vereinbarung zum
 Verfahren nach Absatz 6 etwas Anderes bestimmen. Die Kennzeichnung von
 Filmen für öffentliche Filmveranstaltungen können auf inhaltsgleiche
-Filme für Bildträger, Bildschirmspielgeräte und Telemedien übertragen
-werden; Absatz 4 gilt entsprechend.
+Filme für Bildträger, Bildschirmspielgeräte und digitale Dienste
+übertragen werden; Absatz 4 gilt entsprechend.
 
 (6) Die obersten Landesbehörden können ein gemeinsames Verfahren für
 die Freigabe und Kennzeichnung der Filme sowie Spielprogramme auf der
@@ -638,8 +637,8 @@ oder Jugendlichen beeinträchtigen, so sind diese bei der Entscheidung
 über die Kennzeichnung mit zu berücksichtigen.
 
 (9) Die Absätze 1 bis 6 und 8 gelten für die Kennzeichnung von zur
-Verbreitung in Telemedien bestimmten und kennzeichnungsfähigen Filmen
-und Spielprogrammen entsprechend.
+Verbreitung in digitalen Diensten bestimmten und kennzeichnungsfähigen
+Filmen und Spielprogrammen entsprechend.
 
 (10) Die oberste Landesbehörde kann Näheres über die Ausgestaltung und
 Anbringung der Kennzeichnung nach § 14a Absatz 1 mit den Einrichtungen
@@ -684,8 +683,8 @@ sichergestellt ist, dass sie ausschließlich Erwachsenen zugänglich
 gemacht werden.
 
 (3) Die Vorschrift findet auch auf Diensteanbieter Anwendung, deren
-Sitzland nicht Deutschland ist. Die §§ 2a und 3 des Telemediengesetzes
-bleiben unberührt.
+Sitzland nicht Deutschland ist. Die §§ 2 und 3 des Digitale-Dienste-
+Gesetzes bleiben unberührt.
 
 
 ### § 15 Jugendgefährdende Medien
@@ -719,8 +718,9 @@ bleiben unberührt.
 
 6.  öffentlich an einem Ort, der Kindern oder Jugendlichen zugänglich ist
     oder von ihnen eingesehen werden kann, oder durch Verbreiten von
-    Träger- oder Telemedien außerhalb des Geschäftsverkehrs mit dem
-    einschlägigen Handel angeboten, angekündigt oder angepriesen werden,
+    Trägermedien oder digitalen Diensten außerhalb des Geschäftsverkehrs
+    mit dem einschlägigen Handel angeboten, angekündigt oder angepriesen
+    werden,
 
 
 7.  hergestellt, bezogen, geliefert, vorrätig gehalten oder eingeführt
@@ -732,9 +732,10 @@ bleiben unberührt.
 
 
 (1a) Medien, deren Aufnahme in die Liste jugendgefährdender Medien
-nach § 24 Absatz 3 Satz 1 bekannt gemacht ist, dürfen als Telemedien
-nicht an einem Ort, der Kindern oder Jugendlichen zugänglich ist oder
-von ihnen eingesehen werden kann, vorgeführt werden.
+nach § 24 Absatz 3 Satz 1 bekannt gemacht ist, dürfen als Inhalte
+eines digitalen Dienstes nicht an einem Ort, der Kindern oder
+Jugendlichen zugänglich ist oder von ihnen eingesehen werden kann,
+vorgeführt werden.
 
 (2) Den Beschränkungen des Absatzes 1 unterliegen, ohne dass es einer
 Aufnahme in die Liste und einer Bekanntmachung bedarf, schwer
@@ -789,10 +790,10 @@ Absatzes 1 Nr. 1 bis 6 hinzuweisen.
 
 ### § 16 Landesrecht
 
-Die Länder können im Bereich der Telemedien über dieses Gesetz
+Die Länder können im Bereich der digitalen Dienste über dieses Gesetz
 hinausgehende Regelungen zum Jugendschutz treffen. Die an die Inhalte
-von Telemedien zu richtenden besonderen Anforderungen ergeben sich aus
-dem Jugendmedienschutz-Staatsvertrag.
+von digitalen Diensten zu richtenden besonderen Anforderungen ergeben
+sich aus dem Jugendmedienschutz-Staatsvertrag.
 
 
 ## Abschnitt 4 - Bundeszentrale für Kinder- und Jugendmedienschutz
@@ -843,10 +844,7 @@ insbesondere
 
 
 
-(3) Die Bundeszentrale überprüft die von Diensteanbietern nach § 24a
-vorzuhaltenden Vorsorgemaßnahmen.
-
-(4) Die Bundeszentrale kann zur Erfüllung ihrer Aufgabe aus Absatz 2
+(3) Die Bundeszentrale kann zur Erfüllung ihrer Aufgabe aus Absatz 2
 Maßnahmen, die von überregionaler Bedeutung sind, fördern oder selbst
 durchführen.
 
@@ -934,10 +932,10 @@ verliert eine Aufnahme in die Liste ihre Wirkung.
 auch in Verbindung mit § 14 Absatz 9 gekennzeichnet sind, findet
 Absatz 1 keine Anwendung. Absatz 1 ist außerdem nicht anzuwenden, wenn
 die zentrale Aufsichtsstelle der Länder für den Jugendmedienschutz
-über das Telemedium zuvor eine Entscheidung dahin gehend getroffen
-hat, dass die Voraussetzungen für die Aufnahme in die Liste
+über den digitalen Dienst zuvor eine Entscheidung dahin gehend
+getroffen hat, dass die Voraussetzungen für die Aufnahme in die Liste
 jugendgefährdender Medien nach Absatz 1 nicht vorliegen. Hat eine
-anerkannte Einrichtung der Selbstkontrolle das Telemedium zuvor
+anerkannte Einrichtung der Selbstkontrolle den digitalen Dienst zuvor
 bewertet, so findet Absatz 1 nur dann Anwendung, wenn die zentrale
 Aufsichtsstelle der Länder für den Jugendmedienschutz die
 Voraussetzungen für die Aufnahme in die Liste jugendgefährdender
@@ -985,7 +983,7 @@ Jugend zu ernennenden Beisitzerinnen und Beisitzer sind den Kreisen
 3.  des Buchhandels und der Verlegerschaft,
 
 
-4.  der Anbieter von Bildträgern und von Telemedien,
+4.  der Anbieter von Bildträgern und von digitalen Diensten,
 
 
 5.  der Träger der freien Jugendhilfe,
@@ -1005,15 +1003,16 @@ Jugend zu ernennenden Beisitzerinnen und Beisitzer sind den Kreisen
 
 auf Vorschlag der genannten Gruppen zu entnehmen. Dem Buchhandel und
 der Verlegerschaft sowie dem Anbieter von Bildträgern und von
-Telemedien stehen diejenigen Kreise gleich, die eine vergleichbare
-Tätigkeit bei der Auswertung und beim Vertrieb der Medien unabhängig
-von der Art der Aufzeichnung und der Wiedergabe ausüben.
+digitalen Diensten stehen diejenigen Kreise gleich, die eine
+vergleichbare Tätigkeit bei der Auswertung und beim Vertrieb der
+Medien unabhängig von der Art der Aufzeichnung und der Wiedergabe
+ausüben.
 
 (3) Die oder der Vorsitzende und die Beisitzerinnen oder Beisitzer
 werden auf die Dauer von drei Jahren bestimmt. Sie können von der
 Stelle, die sie bestimmt hat, vorzeitig abberufen werden, wenn sie der
-Verpflichtung zur Mitarbeit in der Bundesprüfstelle für
-jugendgefährdende Medien nicht nachkommen.
+Verpflichtung zur Mitarbeit in der Prüfstelle für jugendgefährdende
+Medien nicht nachkommen.
 
 (4) Die Mitglieder der Prüfstelle für jugendgefährdende Medien sind
 bei ihren Entscheidungen an Weisungen nicht gebunden.
@@ -1084,7 +1083,8 @@ Stellvertreter ausgeübt:
     des Deutschen Buchhandels,
 
 
-4.  für die Kreise der Anbieter von Bildträgern und von Telemedien durch
+4.  für die Kreise der Anbieter von Bildträgern und von digitalen Diensten
+    durch
 
     Bundesverband Video,
 
@@ -1169,11 +1169,11 @@ erwarten lassen, sind nicht zu berücksichtigen. Zwischen den
 Vorschlägen mehrerer Interessenten entscheidet das Los, sofern diese
 sich nicht auf einen Vorschlag einigen; Absatz 1 Satz 3 gilt
 entsprechend. Sofern es unter Berücksichtigung der Geschäftsbelastung
-der Bundesprüfstelle für jugendgefährdende Medien erforderlich
-erscheint und sofern die Vorschläge der innerhalb einer Gruppe
-namentlich bestimmten Organisationen zahlenmäßig nicht ausreichen,
-kann das Bundesministerium für Familie, Senioren, Frauen und Jugend
-auch mehrere Beisitzerinnen oder Beisitzer und stellvertretende
+der Prüfstelle für jugendgefährdende Medien erforderlich erscheint und
+sofern die Vorschläge der innerhalb einer Gruppe namentlich bestimmten
+Organisationen zahlenmäßig nicht ausreichen, kann das
+Bundesministerium für Familie, Senioren, Frauen und Jugend auch
+mehrere Beisitzerinnen oder Beisitzer und stellvertretende
 Beisitzerinnen oder Beisitzer ernennen; Satz 5 gilt entsprechend.
 
 
@@ -1182,16 +1182,37 @@ Beisitzerinnen oder Beisitzer ernennen; Satz 5 gilt entsprechend.
 (1) Die Prüfstelle für jugendgefährdende Medien wird in der Regel auf
 Antrag tätig.
 
-(2) Antragsberechtigt sind das Bundesministerium für Familie,
-Senioren, Frauen und Jugend, die obersten Landesjugendbehörden, die
-zentrale Aufsichtsstelle der Länder für den Jugendmedienschutz, die
-Landesjugendämter, die Jugendämter, die anerkannten Einrichtungen der
-freiwilligen Selbstkontrolle, die aus Mitteln des Bundes, der Länder
-oder der Landesmedienanstalten geförderten Internet-Beschwerdestellen
-sowie für den Antrag auf Streichung aus der Liste und für den Antrag
-auf Feststellung, dass ein Medium nicht mit einem bereits in die Liste
-aufgenommenen Medium ganz oder im Wesentlichen inhaltsgleich ist, auch
-die in Absatz 7 genannten Personen.
+(2) Antragsberechtigt sind
+
+1.  das Bundesministerium für Familie, Senioren, Frauen und Jugend,
+
+
+2.  die obersten Landesjugendbehörden,
+
+
+3.  die zentrale Aufsichtsstelle der Länder für den Jugendmedienschutz,
+
+
+4.  die Landesjugendämter,
+
+
+5.  die Jugendämter,
+
+
+6.  die anerkannten Einrichtungen der freiwilligen Selbstkontrolle,
+
+
+7.  die aus Mitteln der Europäischen Union, des Bundes, der Länder oder
+    der Landesmedienanstalten geförderten Internet-Beschwerdestellen sowie
+
+
+8.  für den Antrag auf Streichung aus der Liste und für den Antrag auf
+    Feststellung, dass ein Medium nicht mit einem bereits in die Liste
+    aufgenommenen Medium ganz oder im Wesentlichen inhaltsgleich ist, auch
+    die in Absatz 7 genannten Personen.
+
+
+
 
 (3) Kommt eine Listenaufnahme oder eine Streichung aus der Liste
 offensichtlich nicht in Betracht, so kann die oder der Vorsitzende das
@@ -1228,25 +1249,29 @@ der oder des Vorsitzenden von Amts wegen tätig,
 
 
 
-(6) Vor der Entscheidung über die Aufnahme eines Telemediums in die
-Liste hat die Prüfstelle für jugendgefährdende Medien der zentralen
-Aufsichtsstelle der Länder für den Jugendmedienschutz Gelegenheit zu
-geben, zu dem Telemedium unverzüglich Stellung zu nehmen.
-Stellungnahmen und Anträge der zentralen Stelle der Länder für den
-Jugendmedienschutz hat die Prüfstelle für jugendgefährdende Medien bei
-ihren Entscheidungen maßgeblich zu berücksichtigen. Soweit der
-Prüfstelle für jugendgefährdende Medien eine Stellungnahme der
-zentralen Aufsichtsstelle der Länder für den Jugendmedienschutz
-innerhalb von fünf Werktagen nach Aufforderung nicht vorliegt, kann
-sie ohne diese Stellungnahme entscheiden.
+(6) Vor der Entscheidung über die Aufnahme eines digitalen Dienstes
+oder eines abgrenzbaren Inhalts innerhalb eines digitalen Dienstes im
+Sinne einer Bewertungseinheit in die Liste hat die Prüfstelle für
+jugendgefährdende Medien der zentralen Aufsichtsstelle der Länder für
+den Jugendmedienschutz Gelegenheit zu geben, zu dem Telemedium
+unverzüglich Stellung zu nehmen. Stellungnahmen und Anträge der
+zentralen Stelle der Länder für den Jugendmedienschutz hat die
+Prüfstelle für jugendgefährdende Medien bei ihren Entscheidungen
+maßgeblich zu berücksichtigen. Soweit der Prüfstelle für
+jugendgefährdende Medien eine Stellungnahme der zentralen
+Aufsichtsstelle der Länder für den Jugendmedienschutz innerhalb von
+fünf Werktagen nach Aufforderung nicht vorliegt, kann sie ohne diese
+Stellungnahme entscheiden.
 
 (7) Der Urheberin oder dem Urheber, der Inhaberin oder dem Inhaber der
-Nutzungsrechte sowie bei Telemedien dem Anbieter ist Gelegenheit zur
-Stellungnahme zu geben, soweit der Prüfstelle für jugendgefährdende
-Medien die Anschriften bekannt sind oder die Prüfstelle für
-jugendgefährdende Medien die Anschriften durch Angaben im Zusammenhang
-mit dem Medium unter zumutbarem Aufwand aus öffentlich zugänglichen
-Quellen ermitteln kann.
+Nutzungsrechte sowie bei digitalen Diensten oder einem abgrenzbaren
+Inhalt innerhalb eines digitalen Dienstes im Sinne einer
+Bewertungseinheit dem Anbieter ist Gelegenheit zur Stellungnahme zu
+geben, soweit der Prüfstelle für jugendgefährdende Medien die
+Anschriften bekannt sind oder die Prüfstelle für jugendgefährdende
+Medien die Anschriften durch Angaben im Zusammenhang mit dem Medium
+unter zumutbarem Aufwand aus öffentlich zugänglichen Quellen ermitteln
+kann.
 
 (8) Die Entscheidungen sind
 
@@ -1254,7 +1279,9 @@ Quellen ermitteln kann.
     oder dem Inhaber der Nutzungsrechte,
 
 
-2.  bei Telemedien der Urheberin oder dem Urheber sowie dem Anbieter und
+2.  bei digitalen Diensten oder einem abgrenzbaren Inhalt innerhalb eines
+    digitalen Dienstes im Sinne einer Bewertungseinheit der Urheberin oder
+    dem Urheber sowie dem Anbieter und
 
 
 3.  der antragstellenden Behörde
@@ -1264,11 +1291,27 @@ Quellen ermitteln kann.
 zuzustellen. Sie hat die sich aus der Entscheidung ergebenden
 Verbreitungs- und Werbebeschränkungen im Einzelnen aufzuführen. Die
 Begründung ist beizufügen oder innerhalb einer Woche durch Zustellung
-nachzureichen. Dem Bundesministerium für Familie, Senioren, Frauen und
-Jugend, den obersten Landesjugendbehörden, der zentralen
-Aufsichtsstelle der Länder für den Jugendmedienschutz und der das
-Verfahren anregenden Behörde oder Einrichtung oder dem das Verfahren
-nach Absatz 4 anregenden Träger ist die Entscheidung zu übermitteln.
+nachzureichen. Die begründete Entscheidung ist zu übermitteln:
+
+1.  dem Bundesministerium für Familie, Senioren, Frauen und Jugend,
+
+
+2.  den obersten Landesjugendbehörden,
+
+
+3.  der zentralen Aufsichtsstelle der Länder für den Jugendmedienschutz,
+
+
+4.  den anerkannten Einrichtungen der freiwilligen Selbstkontrolle, den
+    aus Mitteln der Europäischen Union, des Bundes, der Länder oder der
+    Landesmedienanstalten geförderten Internet-Beschwerdestellen und
+
+
+5.  der das Verfahren anregenden Behörde oder Einrichtung oder dem das
+    Verfahren nach Absatz 4 anregenden Träger.
+
+
+
 
 (9) Die Prüfstelle für jugendgefährdende Medien soll mit der zentralen
 Aufsichtsstelle der Länder für den Jugendmedienschutz zusammenarbeiten
@@ -1297,8 +1340,8 @@ jugendgefährdender Medien entscheiden, wenn
     und gemeinschaftsfähigen Persönlichkeit zu gefährden oder
 
 
-2.  bei einem Telemedium auf Antrag oder nach einer Stellungnahme der
-    zentralen Aufsichtsstelle der Länder für den Jugendmedienschutz
+2.  bei einem digitalen Dienst auf Antrag oder nach einer Stellungnahme
+    der zentralen Aufsichtsstelle der Länder für den Jugendmedienschutz
     entschieden wird.
 
 
@@ -1364,22 +1407,22 @@ oder aus ihm gestrichen, so ist dies unter Hinweis auf die zugrunde
 liegende Entscheidung im Bundesanzeiger bekannt zu machen.
 
 (4) Die Bundeszentrale kann die Liste der zentralen Aufsichtsstelle
-der Länder für den Jugendmedienschutz, den im Bereich der Telemedien
-anerkannten Einrichtungen der Selbstkontrolle und den aus Mitteln des
-Bundes, der Länder oder der Landesmedienanstalten geförderten
-Internet-Beschwerdestellen in geeigneter Form mitteilen, damit der
-Listeninhalt zum Abgleich von Angeboten in Telemedien mit in die Liste
-aufgenommenen Medien genutzt werden kann, um Kindern und Jugendlichen
-möglichst ungefährdeten Zugang zu Angeboten zu ermöglichen und die
-Bearbeitung von Hinweisen auf jugendgefährdende Inhalte zu
-vereinfachen. Die Mitteilung umfasst einen Hinweis auf Einschätzungen
-nach § 18 Absatz 6.
+der Länder für den Jugendmedienschutz, den im Bereich der digitalen
+Dienste anerkannten Einrichtungen der Selbstkontrolle und den aus
+Mitteln des Bundes, der Länder oder der Landesmedienanstalten
+geförderten Internet-Beschwerdestellen in geeigneter Form mitteilen,
+damit der Listeninhalt zum Abgleich von Angeboten in digitalen
+Diensten mit in die Liste aufgenommenen Medien genutzt werden kann, um
+Kindern und Jugendlichen möglichst ungefährdeten Zugang zu Angeboten
+zu ermöglichen und die Bearbeitung von Hinweisen auf jugendgefährdende
+Inhalte zu vereinfachen. Die Mitteilung umfasst einen Hinweis auf
+Einschätzungen nach § 18 Absatz 6.
 
 (5) In Bezug auf die vor Ablauf des 30. April 2021 in die Liste
-jugendgefährdender Medien aufgenommenen Träger- und Telemedien gelten
-§ 18 Absatz 2 und § 24 Absatz 2 in der bis zu diesem Tag geltenden
-Fassung fort. Die Trägermedien, deren Aufnahme in die Liste
-jugendgefährdender Medien bis zum 30. April 2021 bekannt gemacht
+jugendgefährdender Medien aufgenommenen Trägermedien und digitalen
+Dienste gelten § 18 Absatz 2 und § 24 Absatz 2 in der bis zu diesem
+Tag geltenden Fassung fort. Die Trägermedien, deren Aufnahme in die
+Liste jugendgefährdender Medien bis zum 30. April 2021 bekannt gemacht
 worden ist, können unter Benennung der Listenteile A oder B in eine
 gemeinsame Listenstruktur mit der ab diesem Tag zu führenden Liste
 überführt werden.
@@ -1387,67 +1430,50 @@ gemeinsame Listenstruktur mit der ab diesem Tag zu führenden Liste
 
 ### § 24a Vorsorgemaßnahmen
 
-(1) Diensteanbieter, die fremde Informationen für Nutzerinnen und
-Nutzer mit Gewinnerzielungsabsicht speichern oder bereitstellen, haben
-unbeschadet des § 7 Absatz 2 und des § 10 des Telemediengesetzes durch
-angemessene und wirksame strukturelle Vorsorgemaßnahmen dafür Sorge zu
-tragen, dass die Schutzziele des § 10a Nummer 1 bis 3 gewahrt werden.
-Die Pflicht nach Satz 1 besteht nicht für Diensteanbieter, deren
-Angebote sich nicht an Kinder und Jugendliche richten und von diesen
-üblicherweise nicht genutzt werden sowie für journalistisch-
-redaktionell gestaltete Angebote, die vom Diensteanbieter selbst
-verantwortet werden.
+(1) Die Bundeszentrale für Kinder- und Jugendmedienschutz ist gemäß §
+12 Absatz 2 Satz 1 des Digitale-Dienste-Gesetzes zuständige Behörde
+für die Durchsetzung des Artikels 28 Absatz 1 der Verordnung (EU)
+2022/2065 des Europäischen Parlaments und des Rates vom 19. Oktober
+2022 über einen Binnenmarkt für digitale Dienste und zur Änderung der
+Richtlinie 2000/31/EG (Gesetz über digitale Dienste) (ABl. L 277 vom
+27\.10.2022, S. 1; L 310 vom 1.12.2022, S. 17), wonach Anbieter von
+Online-Plattformen, die für Minderjährige zugänglich sind, geeignete
+und verhältnismäßige Maßnahmen ergreifen müssen, um ein hohes Maß an
+Privatsphäre, Sicherheit und Schutz von Kindern und Jugendlichen
+innerhalb ihres Dienstes zu gewährleisten (Vorsorgemaßnahmen).
 
 (2) Als Vorsorgemaßnahmen kommen insbesondere in Betracht:
 
-1.  die Bereitstellung eines Melde- und Abhilfeverfahrens, mit dem
-    Nutzerinnen und Nutzer Beschwerden über
-
-    a)  unzulässige Angebote nach § 4 des Jugendmedienschutz-Staatsvertrages
-        oder
-
-
-    b)  entwicklungsbeeinträchtigende Angebote nach § 5 Absatz 1 und 2 des
-        Jugendmedienschutz-Staatsvertrages, die der Diensteanbieter der
-        Allgemeinheit bereitstellt, ohne seiner Verpflichtung aus § 5 Absatz 1
-        des Jugendmedienschutz-Staatsvertrages durch Maßnahmen nach § 5 Absatz
-        3 bis 5 des Jugendmedienschutz-Staatsvertrages nachzukommen
-
-
-
-    übermitteln können;
-
-
-2.  die Bereitstellung eines Melde- und Abhilfeverfahrens mit einer für
+1.  die Bereitstellung eines Melde- und Abhilfeverfahrens mit einer für
     Kinder und Jugendliche geeigneten Benutzerführung, im Rahmen dessen
     insbesondere minderjährige Nutzer und Nutzerinnen Beeinträchtigungen
     ihrer persönlichen Integrität durch nutzergenerierte Informationen dem
     Diensteanbieter melden können;
 
 
-3.  die Bereitstellung eines Einstufungssystems für nutzergenerierte
+2.  die Bereitstellung eines Einstufungssystems für nutzergenerierte
     audiovisuelle Inhalte, mit dem Nutzerinnen und Nutzer im Zusammenhang
     mit der Generierung standardmäßig insbesondere dazu aufgefordert
     werden, die Eignung eines Inhalts entsprechend der Altersstufe „ab 18
     Jahren“ als nur für Erwachsene zu bewerten;
 
 
-4.  die Bereitstellung technischer Mittel zur Altersverifikation für
+3.  die Bereitstellung technischer Mittel zur Altersverifikation für
     nutzergenerierte audiovisuelle Inhalte, die die Nutzerin oder der
     Nutzer im Zusammenhang mit der Generierung entsprechend der
     Altersstufe „ab 18 Jahren“ als nur für Erwachsene geeignet bewertet
     hat;
 
 
-5.  der leicht auffindbare Hinweis auf anbieterunabhängige
+4.  der leicht auffindbare Hinweis auf anbieterunabhängige
     Beratungsangebote, Hilfe- und Meldemöglichkeiten;
 
 
-6.  die Bereitstellung technischer Mittel zur Steuerung und Begleitung der
+5.  die Bereitstellung technischer Mittel zur Steuerung und Begleitung der
     Nutzung der Angebote durch personensorgeberechtigte Personen;
 
 
-7.  die Einrichtung von Voreinstellungen, die Nutzungsrisiken für Kinder
+6.  die Einrichtung von Voreinstellungen, die Nutzungsrisiken für Kinder
     und Jugendliche unter Berücksichtigung ihres Alters begrenzen, indem
     insbesondere ohne ausdrückliche anderslautende Einwilligung
 
@@ -1464,121 +1490,59 @@ verantwortet werden.
         ist und
 
 
-    d)  die Nutzung anonym oder unter Pseudonym erfolgt;
+    d)  die Nutzung anonym oder unter Pseudonym erfolgt.
 
 
 
 
 
-8.  die Verwendung von Bestimmungen in den Allgemeinen
-    Geschäftsbedingungen, die die für die Nutzung wesentlichen
-    Bestimmungen der Allgemeinen Geschäftsbedingungen in kindgerechter
-    Weise darstellen.
 
 
+(3) § 24b Absatz 3 gilt entsprechend für die Durchsetzung des Artikels
+14 Absatz 3 der Verordnung (EU) 2022/2065.
+
+(4) Die §§ 2 und 3 des Digitale-Dienste-Gesetzes sowie die
+Bestimmungen der Verordnung (EU) 2016/679 des Europäischen Parlaments
+und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei
+der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und
+zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung)
+(ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom
+23\.5.2018, S. 2) bleiben unberührt.
 
 
-(3) Der Diensteanbieter ist von der Pflicht nach Absatz 1 befreit,
-wenn das Angebot im Inland nachweislich weniger als eine Million
-Nutzerinnen und Nutzer hat.
+### § 24b Befugnisse und Verfahren
 
-(4) Die Vorschrift findet auch auf Diensteanbieter Anwendung, deren
-Sitzland nicht Deutschland ist. Die Bestimmungen des
-Netzwerkdurchsetzungsgesetzes vom 1. September 2017 (BGBl. I S. 3352)
-in der jeweils geltenden Fassung gehen vor. Weitergehende
-Anforderungen dieses Gesetzes zur Wahrung der Schutzziele des § 10a
-Nummer 1 bis 3 bleiben unberührt. Die §§ 2a und 3 des
-Telemediengesetzes sowie die Bestimmungen der Verordnung (EU) 2016/679
-des Europäischen Parlaments und des Rates vom 27. April 2016 zum
-Schutz natürlicher Personen bei der Verarbeitung personenbezogener
-Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie
-95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1;
-L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2) bleiben
-unberührt.
+(1) Im Rahmen ihrer Zuständigkeit nach § 12 Absatz 2 Satz 1 des
+Digitale-Dienste-Gesetzes verfügt die Bundeszentrale unter
+Berücksichtigung der ergänzenden Vorschriften des Digitale-Dienste-
+Gesetzes über die in der Verordnung (EU) 2022/2065 vorgesehenen
+Befugnisse.
 
-
-### § 24b Überprüfung der Vorsorgemaßnahmen
-
-(1) Die Bundeszentrale überprüft die Umsetzung, die konkrete
-Ausgestaltung und die Angemessenheit der von Diensteanbietern nach §
-24a Absatz 1 zu treffenden Vorsorgemaßnahmen. Das gemeinsame
-Kompetenzzentrum von Bund und Ländern für den Jugendmedienschutz im
-Internet „jugendschutz.net“ nimmt erste Einschätzungen der von den
-Diensteanbietern getroffenen Vorsorgemaßnahmen vor. „jugendschutz.net“
-unterrichtet die Bundeszentrale über seine ersten Einschätzungen nach
-Satz 2. Im Rahmen der Prüfung nach Satz 1 berücksichtigt die
+(2) Das gemeinsame Kompetenzzentrum von Bund und Ländern für den
+Jugendmedienschutz im Internet „jugendschutz.net“ nimmt erste
+Einschätzungen der von den Anbietern von Online-Plattformen
+getroffenen Vorsorgemaßnahmen vor und unterrichtet die Bundeszentrale
+über seine Einschätzung. Im Rahmen ihrer Zuständigkeit nach § 12
+Absatz 2 Satz 1 des Digitale-Dienste-Gesetzes berücksichtigt die
 Bundeszentrale die Stellungnahme der zentralen Aufsichtsstelle der
 Länder für den Jugendmedienschutz.
 
-(2) Der Diensteanbieter kann die Pflicht nach § 24a Absatz 1 erfüllen,
-indem er in einer Leitlinie Maßnahmen festlegt und umsetzt, welche die
-Vorsorgemaßnahmen nach § 24a Absatz 1 für seinen Bereich
-konkretisieren und die Leitlinie
+(3) Stellt die Bundeszentrale fest, dass ein Anbieter keine oder nur
+unzureichende Vorsorgemaßnahmen nach Artikel 28 Absatz 1 der
+Verordnung (EU) 2022/2065 getroffen hat, gibt sie ihm Gelegenheit,
+Stellung zu nehmen und berät ihn über die erforderlichen
+Vorsorgemaßnahmen. Trifft der Anbieter auch nach Abschluss der
+Beratung die erforderlichen Vorsorgemaßnahmen nicht, so fordert die
+Bundeszentrale den Anbieter unter angemessener Fristsetzung auf, die
+Vorsorgemaßnahmen zu treffen.
 
-1.  mit einer nach den Bestimmungen des Jugendmedienschutz-Staatsvertrages
-    anerkannten Einrichtung der freiwilligen Selbstkontrolle, bei der der
-    Diensteanbieter Mitglied ist, vereinbart wurde,
-
-
-2.  der Bundeszentrale zur Beurteilung der Angemessenheit gemäß § 24a
-    Absatz 1 vorgelegt wurde und
-
-
-3.  nach Bestätigung der Angemessenheit durch die Bundeszentrale
-    veröffentlicht wurde (§ 24c Absatz 2).
-
-
-
-
-(3) Stellt die Bundeszentrale fest, dass ein Diensteanbieter keine
-oder nur unzureichende Vorsorgemaßnahmen nach § 24a Absatz 1 getroffen
-hat, gibt sie ihm Gelegenheit, Stellung zu nehmen und berät ihn über
-die erforderlichen Vorsorgemaßnahmen. Trifft der Diensteanbieter auch
-nach Abschluss der Beratung die erforderlichen Vorsorgemaßnahmen
-nicht, fordert die Bundeszentrale den Diensteanbieter unter
-angemessener Fristsetzung zur Abhilfe auf.
-
-(4) Kommt der Diensteanbieter der Aufforderung nach Absatz 3 Satz 2
-innerhalb der gesetzten Frist nicht oder nur unzureichend nach, kann
-die Bundeszentrale die erforderlichen Vorsorgemaßnahmen nach § 24a
-Absatz 1 unter erneuter angemessener Fristsetzung selbst anordnen. Vor
-der Anordnung gibt die Bundeszentrale der zentralen Aufsichtsstelle
-der Länder für den Jugendmedienschutz Gelegenheit zur Stellungnahme.
-
-(5) Hat eine nach den Bestimmungen des Jugendmedienschutz-
-Staatsvertrages anerkannte Einrichtung der freiwilligen
-Selbstkontrolle eine Pflicht des Diensteanbieters gemäß § 24a Absatz 1
-ausgeschlossen, ist der Prüfumfang der Bundeszentrale auf die
-Überschreitung der Grenzen des Beurteilungsspielraums durch die
-Einrichtung der freiwilligen Selbstkontrolle beschränkt.
-
-
-### § 24c Leitlinie der freiwilligen Selbstkontrolle
-
-(1) Bei der Erarbeitung einer Leitlinie nach § 24b Absatz 2 sind die
-Sichtweise von Kindern und Jugendlichen und deren Belange in
-geeigneter Weise angemessen zu berücksichtigen.
-
-(2) Die vereinbarte Leitlinie ist in deutscher Sprache im
-Bundesanzeiger, auf der Homepage des Diensteanbieters und der Homepage
-der Einrichtung der freiwilligen Selbstkontrolle spätestens einen
-Monat nach Ende des Quartals, in dem die Vereinbarung durch die
-Bundeszentrale als angemessen beurteilt wurde, zu veröffentlichen. Die
-auf der Homepage veröffentlichte Leitlinie muss leicht erkennbar,
-unmittelbar erreichbar und ständig verfügbar sein.
-
-
-### § 24d Inländischer Empfangsbevollmächtigter
-
-Diensteanbieter im Sinne des § 24a Absatz 1 Satz 1 in Verbindung mit
-Absatz 4 Satz 1 haben sicherzustellen, dass ein
-Empfangsbevollmächtigter im Inland benannt ist und auf ihn in ihrem
-Angebot in leicht erkennbarer und unmittelbar erreichbarer Weise
-aufmerksam gemacht wird. An diesen Empfangsbevollmächtigten können
-unter Beachtung des § 24a Absatz 4 Bekanntgaben oder Zustellungen in
-Verfahren nach § 24b Absatz 3 und 4 bewirkt werden. Das gilt auch für
-die Bekanntgabe oder die Zustellung von Schriftstücken, die solche
-Verfahren einleiten oder vorbereiten.
+(4) Kommt der Anbieter der Aufforderung nach Absatz 3 Satz 2 innerhalb
+der gesetzten Frist nicht oder nur unzureichend nach, kann die
+Bundeszentrale die erforderlichen Vorsorgemaßnahmen nach Artikel 28
+Absatz 1 der Verordnung (EU) 2022/2065 unter erneuter angemessener
+Fristsetzung selbst anordnen. Vor der Anordnung gibt die
+Bundeszentrale der zentralen Aufsichtsstelle der Länder für den
+Jugendmedienschutz Gelegenheit zur Stellungnahme.
 
 
 ### § 25 Rechtsweg
@@ -1815,15 +1779,11 @@ fahrlässig
     bereithält,
 
 
-3.  entgegen § 24 Abs. 5 Satz 2 eine Mitteilung verwendet,
+3.  entgegen § 24 Abs. 5 Satz 2 eine Mitteilung verwendet oder
 
 
 4.  einer vollziehbaren Anordnung nach § 24b Absatz 4 Satz 1
-    zuwiderhandelt oder
-
-
-5.  entgegen § 24d Satz 1 nicht sicherstellt, dass ein
-    Empfangsbevollmächtigter im Inland benannt ist.
+    zuwiderhandelt.
 
 
 
@@ -1844,14 +1804,13 @@ Fällen mit einer Geldbuße bis zu fünfzigtausend Euro geahndet werden.
 § 30 Absatz 2 Satz 3 des Gesetzes über Ordnungswidrigkeiten ist für
 die Fälle des Absatzes 3 Nummer 4 anzuwenden.
 
-(6) In den Fällen des Absatzes 3 Nummer 2, 4 und 5 kann die
+(6) In den Fällen des Absatzes 3 Nummer 2 und 4 kann die
 Ordnungswidrigkeit auch dann geahndet werden, wenn sie nicht im
 Geltungsbereich dieses Gesetzes begangen wird.
 
 (7) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des
 Gesetzes über Ordnungswidrigkeiten ist in den Fällen des Absatzes 3
-Nummer 2, 4 und 5 die Bundeszentrale für Kinder- und
-Jugendmedienschutz.
+Nummer 2 und 4 die Bundeszentrale für Kinder- und Jugendmedienschutz.
 
 
 ## Abschnitt 7 - Schlussvorschriften
@@ -1878,7 +1837,7 @@ Vertreter berufen werden.
 
 ### § 29b Bericht und Evaluierung
 
-Dieses Gesetz wird drei Jahre nach Inkrafttreten evaluiert, um zu
+Dieses Gesetz wird fünf Jahre nach Inkrafttreten evaluiert, um zu
 untersuchen, inwiefern die in § 10a niedergelegten Schutzziele
 erreicht wurden. Die Bundesregierung unterrichtet den Deutschen
 Bundestag über das Ergebnis der Evaluation. In der Folge wird alle

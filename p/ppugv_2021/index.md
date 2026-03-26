@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2020, 2357
 
 Zuletzt geändert durch
-:   Art. 8z5 G v. 12.12.2023 I Nr. 359
+:   Art. 1 V v. 4.11.2025 I Nr. 267
 
 Stand: Ersetzt V 860-5-54 v. 28.10.2019 I 1492 (PpUGV 2019)
 
@@ -122,13 +122,7 @@ für diese Schicht vorgehaltene Personal anteilig der Tagschicht und
 der Nachtschicht zugeordnet werden.
 
 (3) Der Standort eines Krankenhauses im Sinne dieser Verordnung
-bestimmt sich nach § 2 der Vereinbarung über die Definition von
-Standorten der Krankenhäuser und ihrer Ambulanzen vom 29. August 2017,
-die zwischen dem Spitzenverband Bund der Krankenkassen und der
-Deutschen Krankenhausgesellschaft gemäß § 2a Absatz 1 des
-Krankenhausfinanzierungsgesetzes geschlossen wurde und die auf der
-Internetseite der Deutschen Krankenhausgesellschaft veröffentlicht
-ist.
+bestimmt sich nach § 2a des Krankenhausfinanzierungsgesetzes.
 
 (4) Eine Station im Sinne dieser Verordnung ist die kleinste
 bettenführende organisatorische Einheit in der Patientenversorgung am
@@ -972,15 +966,15 @@ außer Kraft.
 
 ## Anlage Indikatoren-DRGs
 
-(Fundstelle: BGBl. 2023 I Nr. 297, S. 3 - 44)
+(Fundstelle: BGBl. 2025 I Nr. 267, S. 2 - 44)
 
-Folgende DRGs des German Diagnosis Related Groups Fallpauschalen-
-Katalogs 2023, der auf der Internetseite des Instituts für das
-Entgeltsystem im Krankenhaus veröffentlicht ist, gelten als
-Indikatoren für das Vorhandensein eines pflegesensitiven Bereiches in
+Folgende DRGs des ausgegliederten German Diagnosis Related Groups
+Fallpauschalen-Katalogs 2025, der auf der Internetseite des Instituts
+für das Entgeltsystem im Krankenhaus veröffentlicht ist, gelten als
+Indikatoren für das Vorhandensein eines pflegesensitiven Bereichs in
 Krankenhäusern:
 
-*    *   DRG 2023
+*    *   DRG 2025
 
     *   DRG-Bezeichnung
 
@@ -1060,8 +1054,15 @@ Krankenhäusern:
 
 *    *   F13C
 
-    *   Amputation bei Kreislauferkrankungen an oberer oder unterer Extremität
-        oder Revisionseingriff ohne äußerst schwere CC
+    *   Amputation bei Kreislauferkrankungen an oberer Extremität oder
+        komplexe Amputation an unterer Extremität oder Revisionseingriff ohne
+        äußerst schwere CC
+
+
+*    *   F13D
+
+    *   Amputation bei Kreislauferkrankungen an unterer Extremität ohne
+        komplexe Amputationen, ohne äußerst schwere CC
 
 
 *    *   F14A
@@ -1074,12 +1075,6 @@ Krankenhäusern:
 
     *   Komplexe oder mehrfache Gefäßeingriffe außer große rekonstruktive
         Eingriffe, ohne äußerst schwere CC
-
-
-*    *   F20Z
-
-    *   Beidseitige Unterbindung und Stripping von Venen mit bestimmter
-        Diagnose oder äußerst schweren oder schweren CC
 
 
 *    *   F27A
@@ -1095,7 +1090,15 @@ Krankenhäusern:
     *   Verschiedene Eingriffe bei Diabetes mellitus mit Komplikationen, ohne
         äußerst schwere CC, ohne Gefäßeingriff, ohne bestimmte Amputation,
         ohne komplexe Arthrodese des Fußes, ohne komplexen Hauteingriff, ohne
-        Rngfixateur, mit mäßig komplexem Eingriff
+        Ringfixateur, mit mäßig komplexem Eingriff
+
+
+*    *   F27C
+
+    *   Verschiedene Eingriffe bei Diabetes mellitus mit Komplikationen, ohne
+        äußerst schwere CC, ohne Gefäßeingriff, ohne best. Amputation, ohne
+        komplexe Arthrodese des Fußes, ohne Ringfixateur, ohne mäßig komplexen
+        Eingriff, mit bestimmtem aufwendigen Eingriff
 
 
 *    *   F28A
@@ -1231,7 +1234,7 @@ Krankenhäusern:
 
     *   Appendekt. od. laparoskop. Adhäsiolyse bei Peritonitis mit äuß. schw.
         od. schw. CC od. kl. Eingr. an Dünn-/Dickdarm, oh. äuß. schw. CC od.
-        best. Anorektopl., Alt.*                        2 J. u. Alt. < 14 J.
+        best. Anorektopl., Alt.*                        9 J. u. Alt. < 16 J.
         od. mit laparoskop. Adhäsiolyse od. Rektopexie od. best. Magenexz.
 
 
@@ -1239,7 +1242,7 @@ Krankenhäusern:
 
     *   Appendektomie bei Peritonitis mit äußerst schweren oder schweren CC
         oder kleine Eingriffe an Dünn- und Dickdarm ohne äußerst schwere CC
-        oder bestimmte Anorektoplastik, Alter*                        13
+        oder bestimmte Anorektoplastik, Alter*                        15
         Jahre, ohne laparoskopische Adhäsiolyse, ohne Rektopexie
 
 
@@ -1253,6 +1256,11 @@ Krankenhäusern:
 
     *   Komplexe Rekonstruktion der Bauchwand, Alter*                        0
         Jahre, ohne äußerst schwere CC
+
+
+*    *   G09N
+
+    *   Hybrid-DRG der DRG G09Z
 
 
 *    *   G09Z
@@ -1434,30 +1442,32 @@ Krankenhäusern:
 *    *   G22A
 
     *   Appendektomie oder laparoskopische Adhäsiolyse bei Peritonitis oder
-        mit äußerst schweren oder schweren CC, Alter < 10 Jahre oder bei
+        mit äußerst schweren oder schweren CC, Alter < 6 Jahre oder bei
         bösartiger Neubildung
 
 
 *    *   G22B
 
     *   Appendektomie oder laparoskopische Adhäsiolyse bei Peritonitis oder
-        mit äußerst schweren oder schweren CC, Alter*                        9
-        Jahre, mit laparoskopischer Adhäsiolyse oder Alter < 16 Jahre, außer
-        bei bösartiger Neubildung
+        mit äußerst schweren oder schweren CC, Alter*                        5
+        Jahre, außer bei bösartiger Neubildung, mit laparoskopischer
+        Adhäsiolyse oder sekundärer Appendektomie oder Alter < 16 Jahre
 
 
 *    *   G22C
 
     *   Appendektomie oder laparoskopische Adhäsiolyse bei Peritonitis oder
         mit äußerst schweren oder schweren CC, Alter*
-        15 Jahre, außer bei bösartiger Neubildung
+        15 Jahre, außer bei bösartiger Neubildung, ohne laparoskopische
+        Adhäsiolyse, ohne sekundäre Appendektomie
 
 
 *    *   G23A
 
     *   Appendektomie oder laparoskopische Adhäsiolyse außer bei Peritonitis
         oder Exzision erkranktes Gewebe Dickdarm ohne äußerst schwere oder
-        schwere CC, Alter < 10 Jahre oder bei bösartiger Neubildung
+        schwere CC, Alter < 10 Jahre oder bei bösartiger Neubildung oder
+        Endometriose am Darm
 
 
 *    *   G23B
@@ -1465,7 +1475,7 @@ Krankenhäusern:
     *   Appendektomie oder laparoskopische Adhäsiolyse außer bei Peritonitis
         oder Exzision erkranktes Gewebe Dickdarm ohne äußerst schwere oder
         schwere CC, Alter*                        9 Jahre, außer bei
-        bösartiger Neubildung
+        bösartiger Neubildung oder Endometriose am Darm
 
 
 *    *   G24A
@@ -1488,20 +1498,38 @@ Krankenhäusern:
         13 Jahre oder ohne äußerst schwere oder schwere CC
 
 
+*    *   G24M
+
+    *   Hybrid-DRG der DRG G24C
+
+
+*    *   G24N
+
+    *   Hybrid-DRG der DRG G24B
+
+
 *    *   G26A
 
     *   Andere Eingriffe am Anus oder Anoproktoplastik und Rekonstruktion von
-        Anus und Sphinkter bei Analfissuren und Hämorrhoiden, Alter < 16 Jahre
-        oder bei bestimmter bösartiger Neubildung oder entzündlicher
-        Darmerkrankung oder mit kleinem Eingriff am Rektum
+        Anus und Sphinkter bei Analfissuren und Hämorrhoiden, Alter < 18 Jahre
+        oder mit komplexer Diagnose oder mit kleinem Eingriff am Rektum
 
 
 *    *   G26B
 
     *   Andere Eingriffe am Anus oder Anoproktoplastik und Rekonstruktion von
         Anus und Sphinkter bei Analfissuren und Hämorrhoiden, Alter*
-        15 Jahre, außer bei bestimmter bösartiger Neubildung oder
-        entzündlicher Darmerkrankung, ohne kleinen Eingriff am Rektum
+        17 Jahre, ohne komplexe Diagnose, ohne kleinen Eingriff am Rektum
+
+
+*    *   G26M
+
+    *   Hybrid-DRG der DRG G26B
+
+
+*    *   G26N
+
+    *   Hybrid-DRG der DRG G26A
 
 
 *    *   G33Z
@@ -1566,7 +1594,7 @@ Krankenhäusern:
     *   Eingriffe an Pankreas und Leber und portosystemische Shuntoperationen
         mit großem Eingriff oder Strahlentherapie oder komplexer Eingriff an
         Gallenblase und Gallenwegen, Alter < 14 J., ohne kompl. Eingriff, ohne
-        intensivmed. Komplexbeh.*                        392 / 368 / - P.
+        intensivmed. Komplexbeh. > 392 / 368 / - P.
 
 
 *    *   H02A
@@ -1618,7 +1646,8 @@ Krankenhäusern:
 *    *   H08B
 
     *   Laparoskopische Cholezystektomie oder bestimmte Eingriffe an Leber und
-        Bauchwand, Alter < 12 Jahre oder mit laparoskopischer Steinentfernung
+        Bauchwand, Alter < 12 Jahre oder mit endoskopischer Steinentfernung
+        oder mit bestimmter Diagnose
 
 
 *    *   H08C
@@ -1709,22 +1738,22 @@ Krankenhäusern:
 *    *   I20C
 
     *   Eingriffe am Fuß ohne mehrere komplexe Eingriffe, ohne hochkomplexen
-        Eingriff, mit bestimmten komplizierenden Faktoren
+        Eingriff, mit bestimmten komplizierenden Faktoren oder Alter*
+        11 Jahre
 
 
 *    *   I20D
 
     *   Eingriffe am Fuß ohne bestimmte komplizierende Faktoren, mit
         Knochentransplantation oder schwerem Weichteilschaden oder bestimmtem
-        Eingriff am Fuß oder Implantation einer Vorfuß- oder Zehenendoprothese
-        oder Kalkaneusfraktur
+        Eingriff am Fuß oder Kalkaneusfraktur
 
 
 *    *   I24B
 
     *   Arthroskopie oder andere Eingriffe an den Extremitäten oder Eingriffe
         am Weichteilgewebe ohne komplexen Eingriff, Alter*
-        15 Jahre
+        17 Jahre
 
 
 *    *   I27A
@@ -1790,6 +1819,11 @@ Krankenhäusern:
         15 Jahre
 
 
+*    *   J09N
+
+    *   Hybrid-DRG der DRG J09B
+
+
 *    *   J11D
 
     *   And. Eingr. an Haut, Unterhaut u. Mamma oh. kompliz. Diag., oh. mäßig
@@ -1807,8 +1841,8 @@ Krankenhäusern:
 
 *    *   J64C
 
-    *   Andere Infektion / Entzündung der Haut und Unterhaut, Alter*
-        5 Jahre
+    *   Andere Infektion / Entzündung der Haut und Unterhaut oder Alter*
+        5 Jahre oder ohne komplexe Diagnose
 
 
 *    *   K03A
@@ -1834,9 +1868,10 @@ Krankenhäusern:
 *    *   K06B
 
     *   Eingriffe an Schilddrüse, Nebenschilddrüse und Ductus thyreoglossus
-        ohne IntK*                        392 / 368 / - Punkte, bei BNB oder
-        mit äuß. schw. oder schw. CC oder Eingr. an der Schilddrüse außer kl.
-        Eingr., mit Thyreoidektomie durch Sternotomie oder Alter < 16 Jahre
+        ohne IntK*                        392 /
+        368 / - Punkte,                        bei BNB oder mit äuß. schw.
+        oder schw. CC oder Eingr. an der Schilddrüse außer kl. Eingr., mit
+        Thyreoidektomie durch Sternotomie oder Alter < 16 Jahre
 
 
 *    *   K06C
@@ -1918,10 +1953,11 @@ Krankenhäusern:
 
 *    *   X01C
 
-    *   Rekonstruktive Operation bei Verletzungen ohne kompliz. Konstellation,
-        ohne freie Lappenplastik mit mikrovask. Anastomosierung, ohne schwere
+    *   Rekonstr. Operation bei Verletzungen ohne kompliz. Konst., ohne freie
+        Lappenplastik mit mikrovask. Anastomosierung, ohne schw.
         Weichteilschäden, ohne kompl. OR-Prozedur, ohne äuß. schw. CC, mit
-        best. Nervennaht oder Hautplastik,*                        1 BT
+        best. Nervennaht od. Hautplastik,*                        1 BT od.
+        Alter < 18 J.
 
 
 *    *   Z02Z
@@ -1963,14 +1999,16 @@ Krankenhäusern:
 *    *   E42A
 
     *   Geriatrische frührehabilitative Komplexbehandlung bei Krankheiten und
-        Störungen der Atmungsorgane mit Komplexbehandlung bei
-        isolationspflichtigen Erregern, COVID-19, Virus nachgewiesen
+        Störungen der Atmungsorgane bei traumatischem Hämato-/Pneumothorax
+        oder Komplexbehandlung bei isolationspflichtigen Erregern, COVID-19,
+        Virus nachgewiesen
 
 
 *    *   E42B
 
     *   Geriatrische frührehabilitative Komplexbehandlung bei Krankheiten und
-        Störungen der Atmungsorgane
+        Störungen der Atmungsorgane, außer bei traumatischem
+        Hämato-/Pneumothorax
 
 
 *    *   F48Z
@@ -2119,8 +2157,8 @@ Krankenhäusern:
 
 *    *   J25Z
 
-    *   Kleine Eingriffe an der Mamma bei bösartiger Neubildung ohne äußerst
-        schwere oder schwere CC
+    *   Kleine Eingriffe an der Mamma und andere Eingriffe bei bösartiger
+        Neubildung ohne äußerst schwere oder schwere CC
 
 
 *    *   J62B
@@ -2215,6 +2253,11 @@ Krankenhäusern:
         15 Jahre
 
 
+*    *   N05N
+
+    *   Hybrid-DRG der DRG N05B
+
+
 *    *   N06Z
 
     *   Komplexe rekonstruktive Eingriffe an den weiblichen Geschlechtsorganen
@@ -2237,6 +2280,11 @@ Krankenhäusern:
         bei bösartiger Neubildung, mit komplexer Diagnose oder bestimmte
         Eingriffe am Uterus oder kleine rekonstruktive Eingriffe an den
         weiblichen Geschlechtsorganen, ohne bestimmten Eingriff
+
+
+*    *   N07N
+
+    *   Hybrid-DRG der DRG N07A
 
 
 *    *   N08Z
@@ -2273,26 +2321,27 @@ Krankenhäusern:
 
 *    *   N13A
 
-    *   Große Eingriffe an Vagina, Zervix und Vulva auß. bei BNB oder kl.
-        Eingriffe an Vagina/Douglasraum oder best. Eingriff an der Harnblase,
-        Alter*                        80 Jahre od. äuß. schw. od. schw. CC od.
-        best. Embolisation an viszeralen und and. abdominalen Gefäßen bei BNB
+    *   Große Eingriffe an Vagina, Zervix und Vulva auß. bei BNB od. kl.
+        Eingriffe an Vagina/Douglasr. od. best. Eingr. an der Harnblase,
+        Alter*                        80 J. od. äuß. schw. od. schw. CC od.
+        best. Fistelverschl. od. best. Embolis. an visz. und and. abd. Gefäßen
+        bei BNB
 
 
 *    *   N13B
 
-    *   Große Eingr. an Vagina, Zervix u. Vulva auß. bei BNB od. kl. Eingriffe
-        an Vagina/Douglasraum od. best. Eingr. an der Harnblase, Alter < 81
-        Jahre, ohne äuß. schw. od. schw. CC, mit aufwend. Eingr., ohne best.
-        Embol. an visz. u. and. abdom. Gefäßen bei BNB
+    *   Große Eingriffe an Vagina, Zervix und Vulva außer bei BNB oder kleine
+        Eingriffe an Vagina und Douglasraum oder best. Eingriff an der
+        Harnblase, Alt. < 81 Jahre, oh. äußerst schwere oder schwere CC, oh.
+        best. Fistelverschluss, mit aufwendigem Eingriff
 
 
 *    *   N13C
 
-    *   Große Eingriffe an Vagina, Zervix und Vulva außer bei bösartiger
-        Neubildung oder kleine Eingriffe an Vagina und Douglasraum oder
-        bestimmter Eingriff an der Harnblase, Alter < 81 Jahre, ohne äußerst
-        schwere oder schwere CC, ohne aufwendigen Eingriff
+    *   Große Eingriffe an Vagina, Zervix und Vulva außer bei BNB oder kleine
+        Eingriffe an Vagina und Douglasraum oder bestimmter Eingriff an der
+        Harnblase, Alter < 81 Jahre, ohne äuß. schw. od. schw. CC, oh. best.
+        Fistelverschluss, ohne aufwendigen Eingriff
 
 
 *    *   N14Z
@@ -2323,6 +2372,11 @@ Krankenhäusern:
 
     *   Andere rekonstruktive Eingriffe an den weiblichen Geschlechtsorganen
         oder andere Myomenukleation
+
+
+*    *   N25N
+
+    *   Hybrid-DRG der DRG N25Z
 
 
 *    *   N25Z
@@ -2381,9 +2435,8 @@ Krankenhäusern:
 *    *   O01A
 
     *   Sekundäre Sectio caesarea mit mehreren komplizierenden Diagnosen, mit
-        intrauteriner Therapie oder komplizierender Konstellation oder
-        Mehrlingsschwangerschaft oder Sectio caesarea mit IntK*
-        196 / 184 / 184 Punkte
+        intrauteriner Therapie oder komplizierender Konstellation oder Sectio
+        caesarea mit IntK*                        196 / 184 / 184 Punkte
 
 
 *    *   O01B
@@ -2497,28 +2550,31 @@ Krankenhäusern:
 *    *   O60A
 
     *   Vaginale Entbindung mit mehreren komplizierenden Diagnosen, mindestens
-        eine schwer, Schwangerschaftsdauer bis 33 vollendete Wochen oder mit
-        komplizierender Konstellation
+        eine schwer oder Maßnahmen bei postpart. Blutung, bis 19 vollendete
+        SSW oder mit komplizierender Prozedur oder schwere oder mäßig schwere
+        kompliz. Diagnose bis 33 vollendete SSW
 
 
 *    *   O60B
 
-    *   Vaginale Entbindung mit mehr. kompliz. Diag., mind. eine schwer,*
-        33 vollend. SSW, ohne kompliz. Konstell. od. Tamp. einer Blutung od.
-        Thromboemb. während der Gestationsp. oh. OR-Proz. od. schwere od.
-        mäßig schwere kompliz. Diag. bis 33 vollend. SSW
+    *   Vaginale Entbindung mit mehr. kompliz. Diag., mind. eine schwer od.
+        Maßn. bei postpart. Blutung,*                        19 vollend. SSW,
+        oh. kompliz. Proz. od. Thromboemb. während der Gestationsp. oh. OR-
+        Proz. od. schwere od. mäßig schwere kompliz. Diag. bis 33 vollend. SSW
 
 
 *    *   O60C
 
     *   Vaginale Entbindung mit schwerer oder mäßig schwerer komplizierender
-        Diagnose oder Schwangerschaftsdauer bis 33 vollendete Wochen
+        Diagnose oder Schwangerschaftsdauer bis 33 vollendete Wochen oder
+        Alter < 18 Jahre
 
 
 *    *   O60D
 
     *   Vaginale Entbindung ohne komplizierende Diagnose,
-        Schwangerschaftsdauer mehr als 33 vollendete Wochen
+        Schwangerschaftsdauer mehr als 33 vollendete Wochen, Alter*
+        17 Jahre
 
 
 *    *   O61Z
@@ -2670,12 +2726,13 @@ Krankenhäusern:
 
 *    *   D12A
 
-    *   Andere aufwendige Eingriffe an Ohr, Nase, Mund und Hals
+    *   Andere aufwendige Eingriffe an Ohr, Nase, Mund und Hals mit komplexer
+        Diagnose
 
 
 *    *   D12B
 
-    *   Andere Eingriffe an Ohr, Nase, Mund und Hals
+    *   Andere Eingriffe an Ohr, Nase, Mund und Hals ohne komplexe Diagnose
 
 
 *    *   D13A
@@ -2712,15 +2769,17 @@ Krankenhäusern:
 
 *    *   D22A
 
-    *   Eingriffe an Mundhöhle und Mund außer bei bösartiger Neubildung, mit
-        Mundboden- oder Vestibulumplastik oder komplexe Eingriffe am Kopf
+    *   Eingriffe an Mundhöhle und Mund, mit Mundboden- oder
+        Vestibulumplastik, mit Eingriffen an Gaumen- und Rachenmandeln bei
+        bösartiger Neubildung oder komplexe Eingriffe am Kopf
 
 
 *    *   D22B
 
-    *   Eingriffe an Mundhöhle und Mund außer bei bösartiger Neubildung oder
-        Eingriffe an Hals und Kopf, ohne Mundboden- oder Vestibulumplastik,
-        ohne komplexe Eingriffe am Kopf
+    *   Eingriffe an Mundhöhle und Mund oder Eingriffe an Hals und Kopf, ohne
+        Mundboden- oder Vestibulumplastik, ohne Eingriffe an Gaumen- und
+        Rachenmandeln bei bösartiger Neubildung, ohne komplexe Eingriffe am
+        Kopf
 
 
 *    *   D23Z
@@ -2999,7 +3058,7 @@ Krankenhäusern:
 
     *   Andere Eingriffe mit Herz-Lungen-Maschine, Alter < 1 Jahr oder mit
         best. kompliz. Konstellation od. kompl. Operation oder IntK*
-        - / 368 / - P. oder Alter < 18 Jahre mit Reop. Herz od. Perikard oder
+        - / 368 /- P. oder Alter < 18 Jahre mit Reop. Herz od. Perikard oder
         and. kompliz. Konstellation, mit best. kompl. Eingriffen
 
 
@@ -3007,15 +3066,15 @@ Krankenhäusern:
 
     *   And. Eingr. mit HLM, Alter < 1 J. od. mit best. kompl. Konst. od.
         IntK*                        -/368 /- P., oh. best. kompl. Eingr. od.
-        Alter*                        0 J., IntK < - / 369 / - P., m. and.
-        kompl. Eingr. mit Reop. Herz od. Perik. od. mit best. and. kompliz.
-        Konst. od. mit best. Aortklers.
+        Alter*                        0 J., IntK < -/369/- P., m. and. kompl.
+        Eingr. mit Reop. Herz od. Perik. od. mit best. and. kompliz. Konst.
+        od. mit best. Aortklers.
 
 
 *    *   F07C
 
     *   Andere Eingr. mit HLM, Alter*                        0 J., IntK < - /
-        369 / - P. oder Alter*                        17 J. od. ohne Reop. od.
+        369/- P. oder Alter*                        17 J. od. ohne Reop. od.
         ohne and. kompliz. Konst., ohne and. kompl. Eingriffe od. ohne Reop.
         an Herz od. Perikard od. ohne best. and. kompliz. Konst. od. ohne
         best. Aortklers.
@@ -3121,14 +3180,16 @@ Krankenhäusern:
     *   Krankheiten und Störungen der Atmungsorgane mit Beatmung*
         24 Stunden, mehr als 2 Belegungstage, mit komplexer Prozedur, mit
         äußerst schweren CC, Alter*                        15 Jahre oder bei
-        Para- / Tetraplegie
+        bestimmter Para- / Tetraplegie
 
 
 *    *   E40C
 
     *   Krankheiten und Störungen der Atmungsorgane mit Beatmung*
-        24 Stunden, mehr als 2 Belegungstage, mit komplexer Prozedur, ohne
-        äußerst schwere CC, außer bei Para- / Tetraplegie
+        24 h, mehr als 2 BT, mit kompl. Prozedur, IntK*
+        - / 184 / - und < 197 / 369 /- Punkte bei akuter Exazerb. best.
+        interstit. LungenKh, ohne äußerst schwere CC, außer bei best. Para- /
+        Tetraplegie
 
 
 *    *   E41Z
@@ -3146,13 +3207,23 @@ Krankenhäusern:
 *    *   E64A
 
     *   Respiratorische Insuffizienz, mehr als ein Belegungstag, mit äußerst
-        schweren CC oder Lungenembolie, Alter*                        15 Jahre
+        schweren CC oder bestimmte Lungenembolie oder IntK*
+        196 / 184 / 184 Aufwandspunkte oder Komplexbehandlung bei
+        isolationspflichtigen Erregern, Alter*                        15 Jahre
+
+
+*    *   E64B
+
+    *   Respiratorische Insuffizienz, mehr als ein Belegungstag, mit IntK*
+        0 / 0 / - Aufwandspunkten, ohne IntK*                        196 / 184
+        / 184 Aufwandspunkten, ohne äußerst schwere CC, Alter < 16 Jahre
 
 
 *    *   E64C
 
     *   Respiratorische Insuffizienz, mehr als ein Belegungstag, ohne äußerst
-        schwere CC, Alter*                        15 Jahre
+        schwere CC, IntK < - / - / 185 Aufwandspunkten, Alter*
+        15 Jahre
 
 
 *    *   E64D
@@ -3163,18 +3234,18 @@ Krankenhäusern:
 *    *   E65A
 
     *   Chron.-obstr. Atemwegserkrankung od. best. Atemwegsinfekt. mit äuß.
-        schw. CC od. best. hochaufw. Beh. od. Bronchitis u. Asthma bronch.,
-        mehr als ein BT, mit äuß. schw. od. schw. CC, Alter < 1 J., mit
-        RS-V.-Infekt., mit int. Komplexbeh.*                        196 / 184
-        / - P.
+        schw. CC od. best. hochaufw. Beh. od. kompliz. Fakt. od. Bronchitis u.
+        Asthma bronch.,*                        1 BT, mit äuß. schw. od. schw.
+        CC, Alter < 1 J., mit RS-V.-Infekt., mit IntK*
+        196 / 184 / - P.
 
 
 *    *   E65B
 
     *   Chronisch-obstruktive Atemwegserkrankung oder best. Atemwegsinfektion
         ohne äußerst schwere CC, mit komplizierender Diagnose oder mit FEV1 <
-        35% und mehr als ein Belegungstag oder Alter < 1 J. oder mit
-        bestimmter mäßig aufwendiger / aufwendiger Behandlung
+        35% und mehr als ein Belegungstag oder Alter < 1 J. oder mit best.
+        mäßig aufwendiger /and. aufwendiger Behandlung
 
 
 *    *   E65C
@@ -3182,7 +3253,7 @@ Krankenhäusern:
     *   Chronisch-obstruktive Atemwegserkrankung ohne äußerst schwere CC, ohne
         komplizierende Diagnose, ohne FEV1 < 35% oder ein Belegungstag oder
         Alter*                        1 Jahr, ohne bestimmte mäßig aufwendige
-        / aufwendige Behandlung
+        / andere aufwendige Behandlung
 
 
 *    *   E69A
@@ -3196,10 +3267,10 @@ Krankenhäusern:
 *    *   E69B
 
     *   Bronchitis und Asthma bronchiale, mehr als 1 BT u. Alter*
-        55 J. od. mit äuß. schw. od. schw. CC, Alt.*                        0
-        J. od. 1 BT od. oh. äuß. schw. od. schw. CC, Alt. < 1 J. od. flex.
-        Bronchoskopie, Alt. < 16 J. od. best. mäßig aufw. Beh., m. RS-Virus-
-        Infekt.
+        55 J. od. mit äuß. schw. od. schw. CC, Alter*                        0
+        J. od. 1 BT od. oh. äuß. schw. od. schw. CC, Alter < 1 J. od. flex.
+        Bronchoskopie, Alter < 16 J. od. andere mäßig aufw. Beh., mit RS-
+        Virus-Infekt.
 
 
 *    *   E69C
@@ -3212,16 +3283,17 @@ Krankenhäusern:
 
 *    *   E71A
 
-    *   Neubildungen der Atmungsorgane, mehr als ein Belegungstag, mit äußerst
-        schweren CC
+    *   Neubildungen der Atmungsorgane mit intensivmedizinischer
+        Komplexbehandlung*                        196 / 184 / -
+        Aufwandspunkten oder mehr als ein Belegungstag mit äußerst schweren CC
 
 
 *    *   E71B
 
     *   Neubildungen der Atmungsorgane, ein Belegungstag oder ohne äußerst
         schwere CC, mit Ösophagusprothese oder endoskopischer Stufenbiopsie
-        oder endoskopischer Biopsie am Respirationstrakt mit Chemotherapie,
-        mit int. Komplexbeh.*                        196 / 184 / - Punkten
+        oder endoskopischer Biopsie am Respirationstrakt mit Chemotherapie
+        ohne int. Komplexbeh.*                        196 / 184 / - Punkten
 
 
 *    *   E71C
@@ -3258,12 +3330,17 @@ Krankenhäusern:
 *    *   E75B
 
     *   Andere Krankheiten der Atmungsorgane mit äußerst schweren CC, Alter*
-        15 Jahre
+        15 Jahre oder best. andere Krankheiten der Atmungsorgane oder
+        intensivmed. Komplexbehandlung*                        196 / 184 / 368
+        Aufwandspunkten od. Komplexbehandlung bei isolationspflichtigen
+        Erregern
 
 
 *    *   E75C
 
-    *   Andere Krankheiten der Atmungsorgane ohne äußerst schwere CC oder
+    *   Andere Krankheiten der Atmungsorgane ohne äußerst schwere CC, ohne
+        best. andere Krankheiten der Atmungsorgane, ohne IntK*
+        196 / 184 / 368 P., ohne Komplexbeh. bei isolationspfl. Erregern oder
         Beschwerden und Symptome der Atmung mit komplexer Diagnose
 
 
@@ -3607,7 +3684,8 @@ Krankenhäusern:
 
     *   Hypertonie ohne komplizierende Diagnose, ohne äußerst schwere oder
         schwere CC, ohne bestimmte hochaufwendige / mäßig aufwendige /
-        aufwendige Behandlung, Alter*                        17 Jahre
+        aufwendige Behandlung, ohne primäre Überfunktion von Nebenschilddrüse
+        oder Nebenniere, Alter*                        17 Jahre
 
 
 *    *   F69A
@@ -3710,21 +3788,28 @@ Krankenhäusern:
     *   Verschiedenartige komplexe und andere Gastroskopie, ohne komplexe
         therapeutische Gastroskopie bei schw. Krankheiten der Verdauungsorgane
         und äuß. schw. oder schw. CC, ohne bestimmte Gastroskopie mit kompliz.
-        Faktoren, ohne ERCP mit and. endoskop. Eingr.
+        Faktoren, mit anderem aufwendigen Eingriff
+
+
+*    *   G46D
+
+    *   Verschiedenartige komplexe und andere Gastroskopie, ohne komplexe
+        therapeutische Gastroskopie bei schw. Krankheiten der Verdauungsorgane
+        und äuß. schw. oder schw. CC, ohne bestimmte Gastroskopie mit kompliz.
+        Faktoren, ohne anderen aufwendigen Eingriff
 
 
 *    *   G47A
 
-    *   Andere Gastroskopie oder bestimmte koloskopische Eingriffe, Alter < 16
-        Jahre oder mit endoskopischer submukosaler Dissektion am Dickdarm, ein
-        Belegungstag
+    *   Andere Gastroskopie oder bestimmte koloskopische Eingriffe, mit
+        bestimmter endoskopischer Maßnahme am Dickdarm, ein Belegungstag
 
 
 *    *   G47B
 
-    *   Andere Gastroskopie oder bestimmte koloskopische Eingriffe, Alter*
-        15 Jahre, ohne endoskopische submukosale Dissektion am Dickdarm oder
-        mehr als ein Belegungstag
+    *   Andere Gastroskopie oder bestimmte koloskopische Eingriffe, ohne
+        bestimmte endoskopische Maßnahme am Dickdarm oder mehr als ein
+        Belegungstag
 
 
 *    *   G48A
@@ -3732,7 +3817,7 @@ Krankenhäusern:
     *   Koloskopie mit äußerst schweren oder schweren CC, komplizierendem
         Eingriff oder Alter < 15 Jahre oder mehrzeitige endoskopische
         Blutstillung, mit schwerer Darminfektion oder bei bösartiger
-        Neubildung mit äußerst schweren CC
+        Neubildung oder bestimmter Darminfektion mit äußerst schweren CC
 
 
 *    *   G48B
@@ -3740,7 +3825,7 @@ Krankenhäusern:
     *   Koloskopie mit äußerst schweren oder schweren CC, komplizierendem
         Eingriff oder Alter < 15 Jahre oder mehrzeitige endoskopische
         Blutstillung, ohne schwere Darminfektion, außer bei bösartiger
-        Neubildung oder ohne äußerst schwere CC
+        Neubildung od. best. Darminfektion od. ohne äußerst schwere CC
 
 
 *    *   G50Z
@@ -3805,6 +3890,12 @@ Krankenhäusern:
         Ulkuserkrankung und verschiedene Erkrankungen der Verdauungsorgane
         ohne bestimmte oder andere komplizierende Faktoren, ohne äußerst
         schwere CC
+
+
+*    *   G70A
+
+    *   Andere schwere Erkrankungen der Verdauungsorgane ohne äußerst schwere
+        CC, Alter < 18 Jahre oder mit komplexer Diagnose
 
 
 *    *   G70B
@@ -3883,25 +3974,38 @@ Krankenhäusern:
 
 *    *   H41C
 
-    *   Best. ERCP mit schw. CC od. kompl. Eingriff oder Alter < 16 J., oh.
-        kompl. Proz. od. and. ERCP, oh. äuß. schw. od. schw. CC, oh. kompl.
-        Eingriff, mit Radiofrequenzabl. und endoskop. Stentimpl. od. and.
-        aufwend. ERCP / best. endoskop. Eingr. m. best. BNB
+    *   Bestimmte ERCP mit schweren CC oder komplexem Eingriff oder Alter < 16
+        J. oder andere ERCP mit Radiofrequenzablation und endoskopischer
+        Stentimplantation oder andere aufwendige ERCP oder bestimmter
+        endoskopischer Eingriff mit bestimmter BNB
 
 
 *    *   H41D
 
-    *   Andere aufwendige ERCP oh. best. ERCP, oh. äuß. schwere oder schwere
-        CC, Alter*                        15 Jahre, ohne kompl. Eingr., oh.
-        Radiofrequenzabl. mit endoskop. Stentimpl., ohne and. aufwend. ERCP /
-        best. endoskop. Eingr. m. best. BNB oder best. endoskop. Eingriffe
+    *   Andere aufwendige ERCP oder bestimmter endoskopischer Eingriff ohne
+        bestimmte BNB
 
 
 *    *   H41E
 
-    *   Andere ERCP ohne bestimmte ERCP, ohne äußerst schwere oder schwere CC,
-        Alter*                        15 Jahre, ohne komplexen Eingriff, ohne
-        Radiofrequenzablation mit endoskopischer Stentimplantation
+    *   Andere ERCP ohne bestimmte oder andere aufwendige ERCP, Alter*
+        15 Jahre, mit bestimmter BNB oder bestimmter Pankreatitis
+
+
+*    *   H41F
+
+    *   Andere ERCP ohne bestimmte oder andere aufwendige ERCP, Alter*
+        15 Jahre, ohne bestimmte BNB oder bestimmte Pankreatitis
+
+
+*    *   H41M
+
+    *   Hybrid-DRG der DRG H41F
+
+
+*    *   H41N
+
+    *   Hybrid-DRG der DRG H41D
 
 
 *    *   H60Z
@@ -3914,29 +4018,34 @@ Krankenhäusern:
 *    *   H61A
 
     *   Bösartige Neubildung an hepatobiliärem System und Pankreas, mehr als
-        ein Belegungstag, mit komplexer Diagnose, mit äußerst schweren CC oder
+        ein Belegungstag, mit komplexer Diagnose, mit äußerst schweren CC
+
+
+*    *   H61B
+
+    *   Bösartige Neubildung an hepatobiliärem System und Pankreas, Alter < 18
+        Jahre oder mehr als ein Belegungstag, mit komplexer Diagnose, mit
         Pfortaderthrombose
 
 
 *    *   H61C
 
-    *   Bösartige Neubildung an hepatobiliärem System und Pankreas, ein
-        Belegungstag oder ohne komplexe Diagnose oder ohne äußerst schwere CC,
-        ohne Pfortaderthrombose, Alter*                        16 Jahre
+    *   Bösartige Neubildung an hepatobiliärem System und Pankreas, Alter > 17
+        Jahre
 
 
 *    *   H62B
 
     *   Erkrankungen des Pankreas außer bösartige Neubildung, mit akuter
-        Pankreatitis oder Leberzirrhose oder bestimmter nichtinfektiöser
-        Hepatitis, Alter*                        15 Jahre
+        Pankreatitis mit Organkomplikation oder Leberzirrhose oder bestimmter
+        nichtinfektiöser Hepatitis, Alter*                        15 Jahre
 
 
 *    *   H62C
 
     *   Erkrankungen des Pankreas außer bösartige Neubildung, ohne akute
-        Pankreatitis, ohne Leberzirrhose, ohne bestimmte nichtinfektiöse
-        Hepatitis, Alter*                        15 Jahre
+        Pankreatitis mit Organkomplikation, ohne Leberzirrhose, ohne bestimmte
+        nichtinfektiöse Hepatitis, Alter*                        15 Jahre
 
 
 *    *   H63A
@@ -4126,19 +4235,18 @@ Krankenhäusern:
 
 *    *   L63B
 
-    *   Infektionen der Harnorgane ohne bestimmte hochaufwendige Behandlung,
-        mit best. aufwendiger Behandlung od. mit äußerst schweren CC, ohne
-        Komplexbeh. bei isolationspfl. Erregern oder mit Komplexbeh. bei
-        isolationspfl. Erregern, ohne äußerst schwere CC
+    *   Infektionen der Harnorgane ohne best. hochaufw. Beh., mit best.
+        aufwendiger Beh. od. mit äußerst schw. CC, ohne Komplexbeh. bei
+        isolationspfl. Erregern od. mit Komplexbeh. bei isolationspfl.
+        Erregern od. bei TBC des Urogenitalsyst., ohne äußerst schw. CC
 
 
 *    *   L63D
 
     *   Infektionen der Harnorgane oh. äuß. schwere CC, oh. best. mäßig
         aufwendige / aufwendige / hochaufw. Behandl., oh. Komplexbeh. b.
-        isolationspfl. Erregern, oh. best. schw. Infektionen, Alter> 2 J. u. <
-        6 J. od. Alter < 18 J. mit schw. CC od. Alter*
-        89 J.
+        isolationspfl. Erregern, oh. best. schw. Infektionen, Alter*
+        2 J. u. < 6 J. od. Alter < 18 J. mit schw. CC od. Alter > 89 J.
 
 
 *    *   L63E
@@ -4180,7 +4288,7 @@ Krankenhäusern:
 *    *   Q63B
 
     *   Aplastische Anämie, Alter*                        15 Jahre, ohne
-        paroxysmale nächtliche Hämoglobinurie
+        bestimmte Anämie
 
 
 *    *   R60E
@@ -4200,20 +4308,18 @@ Krankenhäusern:
 
 *    *   R61D
 
-    *   Lymphom u. nicht akute Leukämie m. Agranuloz., Portimpl., Komplbeh. b.
-        isolat.pfl. Erregern od. kompl. Diag. b. Leuk.,*
-        15 J., m. intens. Chemo od. < 18 J. od. m. äuß. schw. CC od.
-        Tumorlyse-Syndr. od. Blastenkr., oh. kompl. Diag. b. Leuk., oh. schw.
-        CC
+    *   Lymphom u. nicht akute Leukämie m. Agranuloz., Portimpl., Komplbeh.
+        bei isolationspfl. Erregern od. kompl. Diag. bei Leukämie,*
+        15 J., mit intens. Chemo od. < 18 J. od. m. äuß. schw. CC od.
+        Blastenkrise, oh. kompl. Diag. bei Leukämie, oh. schwerste CC
 
 
 *    *   R61E
 
-    *   Lymphom und nicht akute Leukämie ohne Sepsis, ohne komplizierende
-        Konstellation, mit Agranulozytose od. Portimpl. od. Komplbeh. b.
-        isolat.pflicht. Erregern od. komplexe Diagnostik b. Leukämie, oh.
-        äußerst schw. CC, Alter*                        17 J., oh. intensive
-        Chemoth.
+    *   Lymph. u. nicht akute Leukämie mit best. kompliz. Faktoren, oh. äuß.
+        schw. CC, Alt.*                        17 J., oh. intensive Chemoth.
+        od. kompl. Diag., kompliz. Proz., Alt. < 16 J. od. best. Lymph. mit
+        best. Chemo. od. kompl. Diag., and. Komplbeh. b. isolat.pfl. Erregern
 
 
 *    *   R61G
@@ -4283,15 +4389,13 @@ Krankenhäusern:
 
 *    *   S65A
 
-    *   Andere Erkrankungen bei HIV-Krankheit oder andere HIV-Krankheit mit
-        Herzinfarkt oder bei chronisch ischämischer Herzkrankheit oder äußerst
-        schweren CC
+    *   Andere Erkrankungen bei HIV-Krankheit oder andere HIV-Krankheit, mit
+        äußerst schweren CC
 
 
 *    *   S65B
 
-    *   Andere Erkrankungen bei HIV-Krankheit oder andere HIV-Krankheit ohne
-        Herzinfarkt, außer bei chronisch ischämischer Herzkrankheit, ohne
+    *   Andere Erkrankungen bei HIV-Krankheit oder andere HIV-Krankheit, ohne
         äußerst schwere CC
 
 
@@ -4307,17 +4411,17 @@ Krankenhäusern:
 
     *   Sepsis mit komplizierender Konstellation oder bei Z. n.
         Organtransplantation oder mit komplexer Diagnose oder äuß. schw. CC,
-        Alter < 18 J. oder mit Para- / Tetraplegie oder mit bestimmter ERCP
-        oder mit schwersten CC oder mit IntK*                        196 / 184
+        Alter < 18 J. oder bei best. Para- / Tetraplegie oder mit best. ERCP
+        od. mit schwersten CC oder mit IntK*                        196 / 184
         / 368 Punkte
 
 
 *    *   T60C
 
     *   Sepsis mit komplizierender Konstellation oder bei Z. n.
-        Organtransplantation oder mit komplexer Diagnose oder äußerst schweren
-        CC, Alter*                        17 Jahre, ohne Para- / Tetraplegie,
-        ohne bestimmte ERCP, ohne schwerste CC oder mit IntK*
+        Organtransplantation oder mit kompl. Diagnose oder äuß. schweren CC,
+        Alter*                        17 Jahre, außer bei best. Para- /
+        Tetraplegie, ohne best. ERCP, ohne schwerste CC oder mit IntK*
         196 / 184 / 368 Punkte
 
 
@@ -4406,15 +4510,15 @@ Krankenhäusern:
 *    *   V60A
 
     *   Alkoholintoxikation und Alkoholentzug oder Störungen durch
-        Alkoholmissbrauch und Alkoholabhängigkeit mit psychotischem Syndrom
-        oder HIV-Krankheit
+        Alkoholmissbrauch und Alkoholabhängigkeit mit bestimmten psychischen
+        und Verhaltensstörungen durch Alkohol oder HIV-Krankheit
 
 
 *    *   V60B
 
     *   Alkoholintoxikation und Alkoholentzug oder Störungen durch
-        Alkoholmissbrauch und Alkoholabhängigkeit ohne psychotisches Syndrom,
-        ohne HIV-Krankheit
+        Alkoholmissbrauch und Alkoholabhängigkeit ohne bestimmte psychische
+        und Verhaltensstörungen durch Alkohol, ohne HIV-Krankheit
 
 
 *    *   V61Z
@@ -4648,8 +4752,8 @@ Krankenhäusern:
 *    *   F19B
 
     *   Andere transluminale Intervention an Herz, Aorta und Lungengefäßen
-        ohne äußerst schwere CC oder Radiofrequenzablation über A. renalis
-        oder komplexe koronare Lithoplastie
+        ohne äußerst schwere CC oder Ablation über A. renalis oder komplexe
+        Rekanalisation von Koronargefäßen
 
 
 *    *   F24A
@@ -4951,7 +5055,7 @@ Krankenhäusern:
 
     *   Andere Krankheiten des Kreislaufsystems ohne äußerst schwere CC oder
         ein Belegungstag, Alter*                        9 Jahre und Alter < 16
-        Jahre, ohne schwere CC oder Alter*                        15
+        Jahre, ohne schwere CC oder Alter > 15
 
 
 *    *   F95A
@@ -5006,8 +5110,8 @@ Krankenhäusern:
 
     *   Kardiothorakale oder Gefäßeingriffe bei Neugeborenen, Beatmung*
         180 und < 481 Stunden oder bestimmte Eingriffe bei angeborenen
-        Fehlbildungen, Beatmung*                        180 und < 900 Stunden
-        oder Eingriff bei univentrikulärem Herzen, Beatmung < 481 Stunden
+        Fehlbildungen, Beatmung > 180 und < 900 Stunden oder Eingriff bei
+        univentrikulärem Herzen, Beatmung < 481 Stunden
 
 
 *    *   P02C
@@ -5019,7 +5123,7 @@ Krankenhäusern:
 
 *    *   P03A
 
-    *   Aufnahmegewicht 1000 – 1499 g, mehrere schwere Probleme mit
+    *   Aufnahmegewicht 1000 - 1499 g, mehrere schwere Probleme mit
         signifikanter OR-Prozedur oder mehrzeitige komplexe OR-Prozeduren, mit
         Beatmung*                        479 Stunden oder mehrere schwere
         Probleme ohne signifikante OR-Prozedur mit Beatmung*
@@ -5028,7 +5132,7 @@ Krankenhäusern:
 
 *    *   P03B
 
-    *   Aufnahmegewicht 1000 – 1499 g mit sig. OR-Prozedur oder Beat.*
+    *   Aufnahmegewicht 1000 - 1499 g mit sig. OR-Prozedur oder Beat.*
         120 Std., oh. Beat.*                        599 Std. oder oh. mehrere
         schwere Probleme, oh. Beat.*                        479 Std. oder oh.
         mehrere schwere Probleme oder oh. sig. OR-Prozedur oder oh.
@@ -5037,7 +5141,7 @@ Krankenhäusern:
 
 *    *   P04A
 
-    *   Aufnahmegewicht 1500 – 1999 g, mehrere schwere Probleme mit sig. OR-
+    *   Aufnahmegewicht 1500 - 1999 g, mehrere schwere Probleme mit sig. OR-
         Prozedur oder mehrz. kompl. OR-Prozeduren, mit Beatmung*
         240 Std. oder mehrere schwere Probleme mit Beatmung*
         320 Std. oder temporärer Verschluss eines Bauchwanddefektes
@@ -5045,7 +5149,7 @@ Krankenhäusern:
 
 *    *   P04B
 
-    *   Aufnahmegew. 1500 – 1999 g, sig. OR-Proz. od. Beat.*
+    *   Aufnahmegew. 1500 - 1999 g, sig. OR-Proz. od. Beat.*
         120 Std., oh. meh. schw. Probl. od. oh. Beat.*
         320 Std., oh. mehrz. kompl. OR-Proz. od. oh. Beat.*
         240 Std., oh. sig. OR-Proz. od. oh. Beat.*                        240
@@ -5054,7 +5158,7 @@ Krankenhäusern:
 
 *    *   P05A
 
-    *   Aufnahmegewicht 2000 – 2499 g mit sig. OR-Prozedur oder Beatmung*
+    *   Aufnahmegewicht 2000 - 2499 g mit sig. OR-Prozedur oder Beatmung*
         95 Stunden, mit mehreren schweren Problemen oder temporärem Verschluss
         eines Bauchwanddefektes, mit Beatmung*                        275
         Stunden oder mit mehrzeitigen komplexen OR-Prozeduren
@@ -5062,7 +5166,7 @@ Krankenhäusern:
 
 *    *   P05B
 
-    *   Aufnahmegewicht 2000 – 2499 g mit signifikanter OR-Prozedur oder
+    *   Aufnahmegewicht 2000 - 2499 g mit signifikanter OR-Prozedur oder
         Beatmung*                        95 Stunden, mit mehreren schweren
         Problemen oder temporärem Verschluss eines Bauchwanddefektes, ohne
         Beatmung*                        275 Stunden, ohne mehrzeitige
@@ -5071,7 +5175,7 @@ Krankenhäusern:
 
 *    *   P05C
 
-    *   Aufnahmegewicht 2000 – 2499 g mit signifikanter OR-Prozedur oder
+    *   Aufnahmegewicht 2000 - 2499 g mit signifikanter OR-Prozedur oder
         Beatmung*                        95 Stunden, ohne mehrere schwere
         Probleme, ohne mehrzeitige komplexe OR-Prozeduren, ohne temporären
         Verschluss eines Bauchwanddefektes
@@ -5080,8 +5184,8 @@ Krankenhäusern:
 *    *   P06A
 
     *   Neugeborenes, Aufnahmegewicht*                        2499 g, sig. OR-
-        Proz. oder Beatmung*                        95 Std., mehrere schwere
-        Probleme mit sig. OR-Proz. oder mit Beatmung*
+        Proz. oder Beatmung*                        95 Std., best. mehrere
+        schwere Probleme mit sig. OR-Proz. oder mit Beatmung*
         120 Std. oder best. aufwendige OR-Proz., mit Beatmung*
         240 Std. oder mehrz. kompl. OR-Proz. oder Dialyse
 
@@ -5089,10 +5193,10 @@ Krankenhäusern:
 *    *   P06B
 
     *   Neugeborenes, Aufnahmegewicht*                        2499 g, sig. OR-
-        Proz. od. Beatmung*                        95 Std., mehrere schwere
+        Proz. oder Beatmung*                        95 Std., mehrere schwere
         Probleme mit sig. OR-Proz. od. mit Beatmung*
-        120 Std. od. best. aufwendige OR-Proz., ohne Beatmung*
-        240 Std., ohne mehrz. kompl. OR-Proz., ohne Dialyse
+        120 Std. od. best. aufwendige OR-Proz., oder mit Beatmung*
+        240 Std. oder mehrz. kompl. OR-Proz. oder Dialyse
 
 
 *    *   P06C
@@ -5119,8 +5223,9 @@ Krankenhäusern:
 *    *   P60C
 
     *   Neugeborenes, verlegt < 5 Tage nach Aufnahme ohne signifikante OR-
-        Prozedur, nicht zuverlegt, ohne Beatmung*                        24
-        Stunden
+        Prozedur, nicht zuverlegt, ohne Beatmung > 24 Stunden
+        (Mindestverweildauer 24 Stunden für das Krankenhaus, in dem die Geburt
+        stattfindet)
 
 
 *    *   P61A
@@ -5135,13 +5240,13 @@ Krankenhäusern:
 
 *    *   P61C
 
-    *   Neugeborenes, Aufnahmegewicht 600 – 749 g mit signifikanter OR-
+    *   Neugeborenes, Aufnahmegewicht 600 - 749 g mit signifikanter OR-
         Prozedur
 
 
 *    *   P61D
 
-    *   Neugeborenes, Aufnahmegewicht 600 – 749 g ohne signifikante OR-
+    *   Neugeborenes, Aufnahmegewicht 600 - 749 g ohne signifikante OR-
         Prozedur
 
 
@@ -5153,65 +5258,65 @@ Krankenhäusern:
 
 *    *   P62A
 
-    *   Aufnahmegewicht 750 – 999 g mit signifikanter OR-Prozedur
+    *   Aufnahmegewicht 750 - 999 g mit signifikanter OR-Prozedur
 
 
 *    *   P62B
 
-    *   Aufnahmegewicht 750 – 874 g ohne signifikante OR-Prozedur
+    *   Aufnahmegewicht 750 - 874 g ohne signifikante OR-Prozedur
 
 
 *    *   P62C
 
-    *   Aufnahmegewicht 875 – 999 g ohne signifikante OR-Prozedur
+    *   Aufnahmegewicht 875 - 999 g ohne signifikante OR-Prozedur
 
 
 *    *   P62D
 
-    *   Aufnahmegewicht 750 – 999 g, verstorben < 29 Tage nach Aufnahme
+    *   Aufnahmegewicht 750 - 999 g, verstorben < 29 Tage nach Aufnahme
 
 
 *    *   P63Z
 
-    *   Aufnahmegewicht 1000 – 1249 g ohne signifikante OR-Prozedur, ohne
+    *   Aufnahmegewicht 1000 - 1249 g ohne signifikante OR-Prozedur, ohne
         Beatmung*                        120 Stunden
 
 
 *    *   P64Z
 
-    *   Aufnahmegewicht 1250 – 1499 g ohne signifikante OR-Prozedur, ohne
+    *   Aufnahmegewicht 1250 - 1499 g ohne signifikante OR-Prozedur, ohne
         Beatmung*                        120 Stunden
 
 
 *    *   P65A
 
-    *   Aufnahmegewicht 1500 – 1999 g ohne signifikante OR-Prozedur, ohne
+    *   Aufnahmegewicht 1500 - 1999 g ohne signifikante OR-Prozedur, ohne
         Beatmung*                        120 Stunden, mit mehreren schweren
         Problemen oder Beatmung*                        95 Stunden
 
 
 *    *   P65B
 
-    *   Aufnahmegewicht 1500 – 1999 g ohne signifikante OR-Prozedur, ohne
+    *   Aufnahmegewicht 1500 - 1999 g ohne signifikante OR-Prozedur, ohne
         Beatmung*                        95 Stunden, mit schwerem Problem
 
 
 *    *   P65C
 
-    *   Aufnahmegewicht 1500 – 1999 g ohne signifikante OR-Prozedur, ohne
+    *   Aufnahmegewicht 1500 - 1999 g ohne signifikante OR-Prozedur, ohne
         Beatmung*                        120 Stunden, mit anderem Problem
 
 
 *    *   P65D
 
-    *   Aufnahmegewicht 1500 – 1999 g ohne signifikante OR-Prozedur, ohne
+    *   Aufnahmegewicht 1500 - 1999 g ohne signifikante OR-Prozedur, ohne
         Beatmung*                        120 Stunden, ohne Problem
 
 
 *    *   P66A
 
     *   Neugeborenes ohne sign. OR-Prozedur, ohne Beatmung*
-        95 Std., Aufnahmegew. 2000 – 2499 g mit mehr. schw. Probl. oder
+        95 Std., Aufnahmegew. 2000 - 2499 g mit mehr. schw. Probl. oder
         Krampfanfall mit best. diag. Maßnahmen oder Beatmung*
         48 Std. od. Aufnahmegew.*                        2499 g, m. mehr.
         schw. Probl., m. Hypothermiebehandlung
@@ -5219,7 +5324,7 @@ Krankenhäusern:
 
 *    *   P66B
 
-    *   Aufnahmegewicht 2000 – 2499 g ohne signifikante OR-Prozedur, ohne
+    *   Aufnahmegewicht 2000 - 2499 g ohne signifikante OR-Prozedur, ohne
         Beatmung*                        95 Stunden, mit schwerem Problem,
         ohne Krampfanfall mit bestimmten diagnostischen Maßnahmen, ohne
         Beatmung*                        48 Stunden
@@ -5227,13 +5332,13 @@ Krankenhäusern:
 
 *    *   P66C
 
-    *   Aufnahmegewicht 2000 – 2499 g ohne signifikante OR-Prozedur, ohne
+    *   Aufnahmegewicht 2000 - 2499 g ohne signifikante OR-Prozedur, ohne
         Beatmung*                        95 Stunden, mit anderem Problem
 
 
 *    *   P66D
 
-    *   Aufnahmegewicht 2000 – 2499 g ohne signifikante OR-Prozedur, ohne
+    *   Aufnahmegewicht 2000 - 2499 g ohne signifikante OR-Prozedur, ohne
         Beatmung*                        95 Stunden, ohne Problem
 
 
@@ -5351,21 +5456,20 @@ Krankenhäusern:
 *    *   B18B
 
     *   Bestimmte Eingriffe an Wirbelsäule und Rückenmark bei Krankheiten und
-        Störungen des Nervensystems außer bei bösartiger Neubildung oder
-        Revision eines Ventrikelshuntes oder operative Eingriffe bei nicht
-        akuter Para- / Tetraplegie
+        Störungen des Nervensystems oder Revision eines Ventrikelshuntes oder
+        operative Eingriffe bei nicht akuter Para- / Tetraplegie
 
 
 *    *   B18C
 
     *   Andere Eingriffe an Wirbelsäule und Rückenmark bei Krankheiten und
-        Störungen des Nervensystems außer bei bösartiger Neubildung
+        Störungen des Nervensystems
 
 
 *    *   B18D
 
     *   Mäßig komplexe Eingriffe an Wirbelsäule und Rückenmark bei Krankheiten
-        und Störungen des Nervensystems außer bei bösartiger Neubildung
+        und Störungen des Nervensystems
 
 
 *    *   B19A
@@ -5394,16 +5498,18 @@ Krankenhäusern:
 *    *   B20A
 
     *   Kraniotomie oder große Wirbelsäulen-Operation mit bestimmter komplexer
-        Prozedur, Alter < 18 Jahre oder mit komplizierenden Faktoren, Alter <
-        16 Jahre
+        Prozedur, Alter
+        < 18 Jahre                        oder mit komplizierenden Faktoren,
+        Alter < 16 Jahre oder mit bestimmter intrakranieller Blutung
 
 
 *    *   B20B
 
-    *   Kraniotomie oder große WS-Operation mit komplexer Prozedur, mit
-        komplizierenden Faktoren, Alter*                        15 Jahre oder
-        Alter < 1 Jahr mit interventionellem oder großem intrakraniellen oder
-        best. Eingriff oder mit kompl. Diagnose od. bei bösartiger Neubildung
+    *   Kraniotomie oder große WS-Operation mit kompl. Prozedur, mit kompliz.
+        Faktoren, Alter*                        15 Jahre, ohne best.
+        intrakran. Blutung oder Alter < 1 J. mit interv. oder großem
+        intrakran. oder best. Eingriff oder mit kompl. Diagnose od. bei
+        bösart. Neubildung
 
 
 *    *   B20C
@@ -5508,7 +5614,7 @@ Krankenhäusern:
 *    *   **Neurologie**
 
 
-*    *   A07F
+*    *   A07E
 
     *   Beatmung*                        999 Stunden ohne komplexe OR-
         Prozedur, ohne Polytrauma, Alter*                        17 Jahre,
@@ -5532,14 +5638,7 @@ Krankenhäusern:
 
 *    *   B04A
 
-    *   Interventionelle oder beidseitige Eingriffe an den extrakraniellen
-        Gefäßen mit äußerst schweren CC
-
-
-*    *   B04B
-
-    *   Beidseitige Eingriffe an den extrakraniellen Gefäßen ohne äußerst
-        schwere CC oder mehrzeitige Eingriffe an den extrakraniellen Gefäßen
+    *   Beidseitige oder mehrzeitige Eingriffe an den extrakraniellen Gefäßen
         oder äußerst schwere CC
 
 
@@ -5557,16 +5656,15 @@ Krankenhäusern:
 
     *   Eingriffe an peripheren Nerven, Hirnnerven und anderen Teilen des
         Nervensystems oder Eingriff bei zerebraler Lähmung, Muskeldystrophie
-        oder Neuropathie, mit komplexer Diagnose oder Implantation eines
-        Ereignis-Rekorders
+        oder Neuropathie, mit komplexer Diagnose
 
 
-*    *   B17B
+*    *   B17C
 
-    *   Eingriffe an peripheren Nerven, Hirnnerven und and. Teilen des
-        Nervensystems oder Eingr. bei zerebr. Lähmung, Muskeldystr. od.
-        Neurop., mit best. kompl. Eingr., Alter < 16 J. oder mit mäßig kompl.
-        Eingr., Alter < 19 J. oder mit äuß. schw. oder schw. CC
+    *   Eingr. an periph. Nerven, Hirnnerven und and. Teilen des Nervensys.
+        oder Eingr. bei zerebr. Lähmung, Muskeldystr. od. Neurop., mit best.
+        kompl. Eingr., Alt. < 16 J. oder mit mäßig kompl. Eingr., Alt. < 19 J.
+        oder mit schw. CC od. Impl. Ereignis-Rekorder
 
 
 *    *   B21A
@@ -5765,17 +5863,16 @@ Krankenhäusern:
 
     *   Apoplexie ohne neurologische Komplexbehandlung des akuten
         Schlaganfalls, ohne andere neurol. Komplexbeh. des akuten
-        Schlaganfalls, mehr als 72 Stunden, ohne komplexen zerebrovask.
-        Vasospasmus, mit komplizierender Diagnose oder systemischer
-        Thrombolyse
+        Schlaganfalls, mehr als 72 Stunden, mit komplizierender Diagnose oder
+        systemischer Thrombolyse oder Alter < 16 Jahre
 
 
 *    *   B70F
 
     *   Apoplexie ohne neurologische Komplexbehandlung des akuten
         Schlaganfalls, ohne andere neurologische Komplexbehandlung des akuten
-        Schlaganfalls, ohne komplexen zerebrovaskulären Vasospasmus, ohne
-        komplizierende Diagnose, ohne systemische Thrombolyse
+        Schlaganfalls, ohne komplizierende Diagnose, ohne systemische
+        Thrombolyse, Alter < 15 Jahre
 
 
 *    *   B70G
@@ -5816,16 +5913,16 @@ Krankenhäusern:
 *    *   B71C
 
     *   Erkrankungen an Hirnnerven und peripheren Nerven ohne
-        Komplexbehandlung der Hand oder mit kompl. Diagnose, ohne schw. CC
-        oder außer bei Para- / Tetraplegie oder ohne komplexe Diagnose, mit
-        äußerst schweren oder schweren CC, außer bei Para- / Tetraplegie
+        Komplexbehandlung der Hand oder mit komplexer Diagnose, mit äußerst
+        schweren oder schweren CC, außer bei Para- / Tetraplegie
 
 
 *    *   B71D
 
     *   Erkrankungen an Hirnnerven und peripheren Nerven ohne komplexe
         Diagnose, ohne Komplexbehandlung der Hand, ohne äußerst schwere oder
-        schwere CC
+        schwere CC oder ohne Komplexbehandlung der Hand oder mit kompl.
+        Diagnose, ohne schw. CC oder außer bei Para- / Tetraplegie
 
 
 *    *   B72B
@@ -5857,8 +5954,8 @@ Krankenhäusern:
 
     *   Anfälle, ohne komplexe Diagnostik und Therapie, mehr als ein
         Belegungstag mit äußerst schweren CC oder Alter < 3 Jahre oder
-        komplexer Diagnose oder EEG, Alter < 1 Jahr, mehr als ein Belegungstag
-        oder mit bestimmter Diagnose, mit komplexer Diagnose
+        komplexer Diagnose oder EEG, Alter < 1 Jahr, mehr als ein
+        Belegungstag, mit komplexer Diagnose
 
 
 *    *   B76C
@@ -5866,7 +5963,7 @@ Krankenhäusern:
     *   Anfälle, ohne komplexe Diagnostik und Therapie, mehr als ein
         Belegungstag, mit schweren CC, Alter*                        2 Jahre,
         ohne komplexe Diagnose oder EEG, Alter < 1 Jahr, mehr als ein
-        Belegungstag oder mit bestimmter Diagnose, ohne komplexe Diagnose
+        Belegungstag, ohne komplexe Diagnose
 
 
 *    *   B76D
@@ -5878,9 +5975,8 @@ Krankenhäusern:
 *    *   B76E
 
     *   Anfälle, ein Belegungstag oder ohne komplexe Diagnostik und Therapie,
-        ohne äußerst schwere oder schwere CC, ohne EEG, ohne bestimmte
-        Diagnose, Alter*                        5 Jahre, ohne komplexe
-        Diagnose
+        ohne äußerst schwere oder schwere CC, ohne EEG, Alter*
+        5 Jahre, ohne komplexe Diagnose
 
 
 *    *   B77Z
@@ -5910,7 +6006,7 @@ Krankenhäusern:
     *   Degenerative Krankheiten des Nervensystems mit hochkomplexer Diagnose
         oder mit äußerst schweren oder schweren CC, mehr als ein Belegungstag,
         mit komplexer Diagnose oder bestimmter aufwendiger / hochaufwendiger
-        Behandlung
+        Behandlung oder Alter < 6 Jahre
 
 
 *    *   B85B
@@ -6111,7 +6207,7 @@ Krankenhäusern:
 *    *   I08B
 
     *   Andere Eingriffe an Hüftgelenk und Femur mit sehr komplexem Eingriff
-        bei komplexer Diagnose oder äußerst schweren CC oder Ersatz des
+        oder äußerst schweren CC oder bei komplexer Diagnose oder Ersatz des
         Hüftgelenkes mit Eingriff an oberer Extremität oder Wirbelsäule mit
         bestimmten komplizierenden Faktoren
 
@@ -6119,9 +6215,9 @@ Krankenhäusern:
 *    *   I08C
 
     *   Andere Eingriffe an Hüftgelenk und Femur mit Einbringen von
-        Abstandshaltern oder and. komplexen Eingriffen bei kompl. Diagnose od.
-        äuß. schw. CC oder Ersatz des Hüftgelenkes mit Eingriff an oberer
-        Extremität oder Wirbelsäule ohne best. kompliz. Faktoren
+        Abstandshaltern od. and. komplexen Eingriffen od. äuß. schw. CC od.
+        bei kompl. Diagnose od. Ersatz des Hüftgelenks mit Eingriff an oberer
+        Extremität od. Wirbelsäule ohne best. kompliz. Faktoren
 
 
 *    *   I08D
@@ -6161,14 +6257,16 @@ Krankenhäusern:
 *    *   I09A
 
     *   Bestimmte Eingriffe an der Wirbelsäule mit sehr komplexer
-        Osteosynthese und äußerst schweren CC oder aufwendiger
-        intensivmedizinischer Komplexbehandlung ab 369 Punkten
+        Osteosynthese und äußerst schweren CC oder bestimmter Spondylodese ab
+        10 Segmenten oder aufwendiger intensivmedizinischer Komplexbehandlung
+        ab 369 Punkten
 
 
 *    *   I09B
 
     *   Bestimmte Eingriffe an der Wirbelsäule mit bestimmten expandierbaren
-        Implantaten oder mehrzeitigen komplexen Eingriffen
+        Implantaten oder bestimmter langstreckigen Spondylodese oder
+        mehrzeitigen komplexen Eingriffen
 
 
 *    *   I09C
@@ -6230,7 +6328,7 @@ Krankenhäusern:
     *   Andere Eingriffe an der Wirbelsäule mit mäßig komplexem Eingriff, mit
         bestimmtem kleinen Eingriff oder wenig komplexer Eingriff, mehr als 1
         Belegungstag, Alter < 18 Jahre oder mit bestimmtem anderen kleinen
-        Eingriff
+        Eingriff ohne äußerst schwere oder schwere CC
 
 
 *    *   I10F
@@ -6328,24 +6426,24 @@ Krankenhäusern:
 
 *    *   I20B
 
-    *   Eingriffe am Fuß mit mehreren komplexen Eingriffen oder hochkomplexem
-        Eingriff oder Teilwechsel Endoprothese d. unteren Sprunggelenks oder
-        bei Zerebralparese oder mit komplexem Eingriff und komplexer Diagnose
-        oder mit Eingriff an Sehnen des Rückfußes
+    *   Eingriffe am Fuß mit mehreren komplexen Eingriffen od. hochkompl.
+        Eingriff od. Teilwechsel Endoprothese d. unteren Sprunggelenks od. bei
+        Zerebralparese od. mit kompl. Eingriff und kompl. Diagnose od. mit
+        Eingriff an Sehnen des Rückfußes, Alter < 12 Jahre
 
 
 *    *   I20C
 
     *   Eingriffe am Fuß ohne mehrere komplexe Eingriffe, ohne hochkomplexen
-        Eingriff, mit bestimmten komplizierenden Faktoren
+        Eingriff, mit bestimmten komplizierenden Faktoren oder Alter*
+        11 Jahre
 
 
 *    *   I20D
 
     *   Eingriffe am Fuß ohne bestimmte komplizierende Faktoren, mit
         Knochentransplantation oder schwerem Weichteilschaden oder bestimmtem
-        Eingriff am Fuß oder Implantation einer Vorfuß- oder Zehenendoprothese
-        oder Kalkaneusfraktur
+        Eingriff am Fuß oder Kalkaneusfraktur
 
 
 *    *   I20E
@@ -6360,6 +6458,16 @@ Krankenhäusern:
         Alter*                        15 Jahre
 
 
+*    *   I20M
+
+    *   Hybrid-DRG der DRG I20F
+
+
+*    *   I20N
+
+    *   Hybrid-DRG der DRG I20E
+
+
 *    *   I23B
 
     *   Andere kleine Eingriffe an Knochen und Weichteilen mit bestimmten
@@ -6370,14 +6478,14 @@ Krankenhäusern:
 *    *   I24A
 
     *   Arthroskopie oder andere Eingriffe an den Extremitäten oder Eingriffe
-        am Weichteilgewebe mit komplexem Eingriff oder Alter < 16 Jahre
+        am Weichteilgewebe oder Alter < 18 Jahre
 
 
 *    *   I24B
 
     *   Arthroskopie oder andere Eingriffe an den Extremitäten oder Eingriffe
         am Weichteilgewebe ohne komplexen Eingriff, Alter*
-        15 Jahre
+        17 Jahre
 
 
 *    *   I27B
@@ -6453,10 +6561,10 @@ Krankenhäusern:
 
 *    *   I32C
 
-    *   Eingr. an Handgel. und Hand oh. mehrz. Eingr., oh. Komplexb. Hand, mit
-        kompl. Eingr. od. bei angeb. Anomalie d. Hand od. Pseudarthr., Alter*
-        5 J. od. mit hochkompl. Eingr. bei angeb. Fehlb. d. Hand, Alter < 16
-        J. oder mit best. Eingr. od. kompl. Diagn.
+    *   Eingriffe an Handgelenk und Hand mit komplexem Eingriff oder bei
+        angeborener Anomalie der Hand oder Pseudarthrose, Alter*
+        5 Jahre oder mit hochkomplexem Eingriff bei angeb. Fehlbildung der
+        Hand, Alter < 16 Jahre oder mit best. Eingr. od. kompl. Diagnose
 
 
 *    *   I33Z
@@ -6468,12 +6576,6 @@ Krankenhäusern:
 
     *   Beidseitige oder kombinierte Implantation oder Wechsel einer
         Endoprothese an Hüft-, Kniegelenk und/oder an der oberen Extremität
-
-
-*    *   I37Z
-
-    *   Resezierender Eingriff am Becken bei bösartiger Neubildung des Beckens
-        oder Mehretageneingriffe an der unteren Extremität
 
 
 *    *   I42A
@@ -6636,14 +6738,16 @@ Krankenhäusern:
 
     *   Implantation einer Tumorendoprothese mit Implantation oder Wechsel
         einer bestimmten Endoprothese oder Knochentotalersatz am Femur oder
-        Alter < 18 Jahre
+        resezierende Eingriffe am Becken bei bösartiger Neubildung oder Alter
+        < 18 Jahre
 
 
 *    *   I95B
 
     *   Implantation einer Tumorendoprothese ohne Implantation oder Wechsel
-        einer bestimmten Endoprothese, ohne Knochentotalersatz am Femur,
-        Alter*                        17 Jahre
+        einer bestimmten Endoprothese, ohne Knochentotalersatz am Femur, ohne
+        resezierende Eingriffe am Becken bei bösartiger Neubildung, Alter*
+        17 Jahre
 
 
 *    *   I96Z
@@ -6685,14 +6789,15 @@ Krankenhäusern:
 
     *   Andere Erkrankungen des Bindegewebes, mehr als ein Belegungstag, ohne
         bestimmte Erkrankungen, ohne äußerst schwere CC, ohne intensivmed.
-        Komplexbeh.*                        196 / 184 / - Aufwandsp. oder
-        multisystemisches Entzündungssyndrom bei COVID-19, ein Belegungstag
+        Komplexbeh.*                        196 / 184 / - Aufwandsp. od.
+        multisystemisches Entzündungssyndrom bei COVID-19 od. Alter < 6 J., 1
+        BT
 
 
 *    *   I66H
 
     *   Andere Erkrankungen des Bindegewebes oder Frakturen an Becken und
-        Schenkelhals, ein Belegungstag
+        Schenkelhals, Alter*                        5 Jahre, ein Belegungstag
 
 
 *    *   I69A
@@ -6718,8 +6823,16 @@ Krankenhäusern:
 
     *   Verletzungen an Unterarm, Handgelenk, Hand oder Fuß oder leichte bis
         moderate Verletzungen von Schulter, Arm, Ellenbogen, Knie, Bein und
-        Sprunggelenk mit äußerst schweren oder schweren CC oder unspezifische
-        Arthropathien
+        Sprunggelenk mit unspezifischen Arthropathien, mit äußerst schweren
+        oder schweren CC
+
+
+*    *   I74B
+
+    *   Verletzungen an Unterarm, Handgelenk, Hand oder Fuß oder leichte bis
+        moderate Verletzungen von Schulter, Arm, Ellenbogen, Knie, Bein und
+        Sprunggelenk mit unspezifischen Arthropathien ohne äußerst schwere
+        oder schwere CC
 
 
 *    *   I79Z
@@ -6740,7 +6853,7 @@ Krankenhäusern:
 
     *   Schwere Erkrankungen der Haut, mehr als ein BT, Alter*
         17 Jahre oder mit kompl. Diagn., mit äuß. schw. CC od. Hautulkus bei
-        Para-/Tetraplegie od. hochkompl. Diagn. od. Epid. bullosa, Alter < 10
+        Para- /Tetraplegie od. hochkompl. Diagn. od. Epid. bullosa, Alter < 10
         Jahre oder mit schwerer Erkr. der Haut, mit aufw. Behandl.
 
 
@@ -6763,7 +6876,7 @@ Krankenhäusern:
 
 *    *   K60A
 
-    *   Diabetes mellitus und schwere Ernährungsstörungen, Alter < 6 Jahre,
+    *   Diabetes mellitus und schwere Ernährungsstörungen, Alter < 6 Jahre,
         mit multimodaler Komplexbehandlung bei Diabetes mellitus oder
         intensivmedizinischer Komplexbehandlung*                        196 /
         184 / - Aufwandspunkte
@@ -6861,8 +6974,8 @@ Krankenhäusern:
 
     *   Anfälle, ohne komplexe Diagnostik und Therapie, mehr als ein
         Belegungstag mit äußerst schweren CC oder Alter < 3 Jahre oder
-        komplexer Diagnose oder EEG, Alter < 1 Jahr, mehr als ein Belegungstag
-        oder mit bestimmter Diagnose, mit komplexer Diagnose
+        komplexer Diagnose oder EEG, Alter < 1 Jahr, mehr als ein
+        Belegungstag, mit komplexer Diagnose
 
 
 *    *   B76C
@@ -6870,7 +6983,7 @@ Krankenhäusern:
     *   Anfälle, ohne komplexe Diagnostik und Therapie, mehr als ein
         Belegungstag, mit schweren CC, Alter*                        2 Jahre,
         ohne komplexe Diagnose oder EEG, Alter < 1 Jahr, mehr als ein
-        Belegungstag oder mit bestimmter Diagnose, ohne komplexe Diagnose
+        Belegungstag, ohne komplexe Diagnose
 
 
 *    *   B76D
@@ -6882,9 +6995,8 @@ Krankenhäusern:
 *    *   B76E
 
     *   Anfälle, ein Belegungstag oder ohne komplexe Diagnostik und Therapie,
-        ohne äußerst schwere oder schwere CC, ohne EEG, ohne bestimmte
-        Diagnose, Alter*                        5 Jahre, ohne komplexe
-        Diagnose
+        ohne äußerst schwere oder schwere CC, ohne EEG, Alter*
+        5 Jahre, ohne komplexe Diagnose
 
 
 *    *   B81A
@@ -6904,7 +7016,7 @@ Krankenhäusern:
     *   Degenerative Krankheiten des Nervensystems mit hochkomplexer Diagnose
         oder mit äußerst schweren oder schweren CC, mehr als ein Belegungstag,
         mit komplexer Diagnose oder bestimmter aufwendiger / hochaufwendiger
-        Behandlung
+        Behandlung oder Alter < 6 Jahre
 
 
 *    *   B85B
@@ -6999,22 +7111,23 @@ Krankenhäusern:
 
 *    *   I66F
 
-    *   Frakturen an Becken und Schenkelhals oder systemischer Lupus
-        erythematodes ohne äußerst schwere CC
+    *   Frakturen an Becken und Schenkelhals oder bestimmte Systemkrankheiten
+        des Bindegewebes
 
 
 *    *   I66G
 
     *   Andere Erkrankungen des Bindegewebes, mehr als ein Belegungstag, ohne
         bestimmte Erkrankungen, ohne äußerst schwere CC, ohne intensivmed.
-        Komplexbeh.*                        196 / 184 / - Aufwandsp. oder
-        multisystemisches Entzündungssyndrom bei COVID-19, ein Belegungstag
+        Komplexbeh.*                        196 / 184 / - Aufwandsp. od.
+        multisystemisches Entzündungssyndrom bei COVID-19 od. Alter < 6 J., 1
+        BT
 
 
 *    *   I66H
 
     *   Andere Erkrankungen des Bindegewebes oder Frakturen an Becken und
-        Schenkelhals, ein Belegungstag
+        Schenkelhals, Alter*                        5 Jahre, ein Belegungstag
 
 
 *    *   I97Z
@@ -7108,7 +7221,7 @@ Krankenhäusern:
 *    *   I08B
 
     *   Andere Eingriffe an Hüftgelenk und Femur mit sehr komplexem Eingriff
-        bei komplexer Diagnose oder äußerst schweren CC oder Ersatz des
+        oder äußerst schweren CC oder bei komplexer Diagnose oder Ersatz des
         Hüftgelenkes mit Eingriff an oberer Extremität oder Wirbelsäule mit
         bestimmten komplizierenden Faktoren
 
@@ -7116,9 +7229,9 @@ Krankenhäusern:
 *    *   I08C
 
     *   Andere Eingriffe an Hüftgelenk und Femur mit Einbringen von
-        Abstandshaltern oder and. komplexen Eingriffen bei kompl. Diagnose od.
-        äuß. schw. CC oder Ersatz des Hüftgelenkes mit Eingriff an oberer
-        Extremität oder Wirbelsäule ohne best. kompliz. Faktoren
+        Abstandshaltern od. and. komplexen Eingriffen od. äuß. schw. CC od.
+        bei kompl. Diagnose od. Ersatz des Hüftgelenks mit Eingriff an oberer
+        Extremität od. Wirbelsäule ohne best. kompliz. Faktoren
 
 
 *    *   I08D
@@ -7185,8 +7298,8 @@ Krankenhäusern:
 *    *   I13A
 
     *   Bestimmte Eingriffe an den Extremitäten mit komplexem
-        Mehrfacheingriff, mit komplizierendem Eingriff an Humerus und Tibia
-        oder aufwendiger Osteosynthese
+        Mehrfacheingriff, mit komplizierendem Eingriff an der unteren
+        Extremität oder aufwendiger Osteosynthese
 
 
 *    *   I13B
@@ -7209,8 +7322,8 @@ Krankenhäusern:
 
     *   Bestimmte Eingriffe an den Extremitäten mit bestimmtem anderen
         Mehrfacheingriff oder komplizierender Diagnose oder bei
-        endoprothetischem Eingriff an der oberen Extremität oder mit Fixateur
-        externe oder bestimmte geschlossene Reposition an der Tibia
+        endoprothetischem Eingriff an der oberen Extremität od. mit Fixateur
+        externe oder mit and. kompl. Eingr. od. bei sek. BNB Knochen/-mark
 
 
 *    *   I13E
@@ -7224,16 +7337,16 @@ Krankenhäusern:
 
 *    *   I13F
 
-    *   Bestimmte Eingriffe an den Extremitäten mit bestimmtem Eingriff an
-        Unterschenkel und Humerus oder bei bösartiger Neubildung oder kleiner
-        Eingriff bei Knochen- und Gelenkinfektion oder Alter < 18 Jahre mit
-        äußerst schweren oder schweren CC
+    *   Bestimmte Eingriffe an den Extremitäten mit bestimmtem anderen
+        Eingriff an den Extremitäten oder bei bösartiger Neubildung oder
+        kleiner Eingriff bei Knochen- und Gelenkinfektion oder Alter < 18
+        Jahre mit äußerst schweren oder schweren CC
 
 
 *    *   I13G
 
-    *   Bestimmte Eingriffe an den Extremitäten ohne bestimmten Eingriff an
-        Unterschenkel und Humerus, außer bei bösartiger Neubildung, ohne
+    *   Bestimmte Eingriffe an den Extremitäten ohne bestimmten anderen
+        Eingriff an den Extremitäten, außer bei bösartiger Neubildung, ohne
         kleinen Eingriff bei Knochen- und Gelenkinfektion oder Alter*
         17 Jahre oder ohne äußerst schwere oder schwere CC
 
@@ -7260,10 +7373,10 @@ Krankenhäusern:
 
 *    *   I20B
 
-    *   Eingriffe am Fuß mit mehreren komplexen Eingriffen oder hochkomplexem
-        Eingriff oder Teilwechsel Endoprothese d. unteren Sprunggelenks oder
-        bei Zerebralparese oder mit komplexem Eingriff und komplexer Diagnose
-        oder mit Eingriff an Sehnen des Rückfußes
+    *   Eingriffe am Fuß mit mehreren komplexen Eingriffen od. hochkompl.
+        Eingriff od. Teilwechsel Endoprothese d. unteren Sprunggelenks od. bei
+        Zerebralparese od. mit kompl. Eingriff und kompl. Diagnose od. mit
+        Eingriff an Sehnen des Rückfußes, Alter < 12 Jahre
 
 
 *    *   I20E
@@ -7276,6 +7389,16 @@ Krankenhäusern:
 
     *   Eingriffe am Fuß ohne komplexe Eingriffe oder komplizierende Faktoren,
         Alter*                        15 Jahre
+
+
+*    *   I20M
+
+    *   Hybrid-DRG der DRG I20F
+
+
+*    *   I20N
+
+    *   Hybrid-DRG der DRG I20E
 
 
 *    *   I21Z
@@ -7305,8 +7428,9 @@ Krankenhäusern:
 *    *   I23A
 
     *   Andere kleine Eingriffe an Knochen und Weichteilen mit bestimmten
-        kleinen Eingriffen am Knochen oder Alter < 18 Jahre mit äußerst
-        schweren oder schweren CC
+        kleinen Eingriffen am Knochen oder Revision mit Osteosynthese an der
+        oberen Extremität oder Alter < 18 Jahre mit äußerst schweren oder
+        schweren CC
 
 
 *    *   I23B
@@ -7397,8 +7521,7 @@ Krankenhäusern:
 *    *   I32E
 
     *   Bestimmte mäßig komplexe Eingriffe an Handgelenk und Hand, mehr als
-        ein Belegungstag oder Mehrfacheingriff an 3 Strahlen oder Alter < 6
-        Jahre
+        ein Belegungstag oder Alter < 6 Jahre
 
 
 *    *   I32F
@@ -7464,8 +7587,8 @@ Krankenhäusern:
 
 *    *   I66F
 
-    *   Frakturen an Becken und Schenkelhals oder systemischer Lupus
-        erythematodes ohne äußerst schwere CC
+    *   Frakturen an Becken und Schenkelhals oder bestimmte Systemkrankheiten
+        des Bindegewebes
 
 
 *    *   I68B
@@ -7485,7 +7608,7 @@ Krankenhäusern:
         Beh.
 
 
-*    *   I74C
+*    *   I74D
 
     *   Verletzungen an Unterarm, Handgelenk, Hand oder Fuß oder leichte bis
         moderate Verletzungen von Schulter, Arm, Ellenbogen, Knie, Bein und
@@ -7559,7 +7682,7 @@ Krankenhäusern:
 
     *   Polytrauma mit anderen Eingriffen oder Beatmung*
         24 Stunden, mit komplizierender Konstellation oder Eingriffen an
-        mehreren Lokalisationen
+        mehreren Lokalisationen oder Alter < 6 Jahre
 
 
 *    *   W04B
@@ -7567,7 +7690,7 @@ Krankenhäusern:
     *   Polytrauma mit anderen Eingriffen oder Beatmung*
         24 Stunden, ohne komplizierende Konstellation, ohne Eingriffe an
         mehreren Lokalisationen, mit bestimmten anderen Eingriffen oder
-        Beatmung mehr als 24 Stunden
+        Beatmung mehr als 24 Stunden, Alter*                        5 Jahre
 
 
 *    *   W04C
@@ -7575,7 +7698,8 @@ Krankenhäusern:
     *   Polytrauma mit anderen Eingriffen oder Beatmung*
         24 Stunden, ohne komplizierende Konstellation, ohne Eingriffe an
         mehreren Lokalisationen, ohne bestimmte andere Eingriffe, ohne
-        Beatmung*                        24 Stunden
+        Beatmung*                        24 Stunden, Alter*
+        5 Jahre
 
 
 *    *   W36Z
@@ -7681,9 +7805,9 @@ Krankenhäusern:
 *    *   L07Z
 
     *   Andere Nieren-, Ureter-, Prostata- und große Harnblaseneingriffe bei
-        Neubildung, Alter < 19 Jahre oder mit äußerst schweren CC oder anderer
-        Kombinationseingriff oder bestimmte Zystektomien, ohne großen Eingriff
-        am Darm oder komplexe Harnblasenplastik
+        Neubildung, Alter < 19 J. od. mit äußerst schw. CC od. anderer
+        Kombinationseingriff od. best. Zystektomien, ohne gr. Eingriff am Darm
+        od. kompl. Harnblasenplastik od. Autotranspl. Niere
 
 
 *    *   L08Z
@@ -7709,21 +7833,21 @@ Krankenhäusern:
 *    *   L13A
 
     *   Nieren-, Ureter- und große Harnblaseneingriffe bei Neubildung, Alter*
-        18 Jahre, ohne Kombinationseingriff, mit bestimmtem Eingriff mit CC
+         18 Jahre, ohne Kombinationseingriff, mit bestimmtem Eingriff mit CC
         oder mit komplexem Eingriff
 
 
 *    *   L13B
 
     *   Nieren-, Ureter- und große Harnblaseneingriffe bei Neubildung, Alter*
-        18 Jahre, ohne Kombinationseingriff, ohne CC, ohne komplexen Eingriff,
-        mit anderem Eingriff
+         18 Jahre, ohne Kombinationseingriff, ohne CC, ohne komplexen
+        Eingriff, mit anderem Eingriff
 
 
 *    *   L13C
 
     *   Nieren-, Ureter- und große Harnblaseneingriffe bei Neubildung, Alter*
-        18 Jahre, ohne Kombinationseingriff, ohne äußerst schwere CC, ohne
+         18 Jahre, ohne Kombinationseingriff, ohne äußerst schwere CC, ohne
         bestimmten Eingriff oder ohne CC, ohne komplexen Eingriff, ohne
         anderen Eingriff
 
@@ -7756,6 +7880,11 @@ Krankenhäusern:
     *   Andere Eingriffe an der Urethra außer bei Para- / Tetraplegie, kleine
         Eingriffe an den Harnorganen, ohne bestimmte Eingriffe an der Urethra,
         Alter*                        15 Jahre
+
+
+*    *   L17N
+
+    *   Hybrid-DRG der DRG L17B
 
 
 *    *   L18A
@@ -7803,6 +7932,16 @@ Krankenhäusern:
         Alter < 90 Jahre
 
 
+*    *   L20M
+
+    *   Hybrid-DRG der DRG L20C
+
+
+*    *   L20N
+
+    *   Hybrid-DRG der DRG L20B
+
+
 *    *   L33Z
 
     *   Mehrzeitige komplexe OR-Prozeduren oder hochaufwendiges Implantat bei
@@ -7847,8 +7986,8 @@ Krankenhäusern:
 
     *   Andere Erkrankungen der Harnorgane mit äußerst schweren oder schweren
         CC oder bestimmter Diagnose, mehr als ein Belegungstag oder
-        Urethrozystoskopie, außer bei angeborener Fehlbildung, Alter*
-        2 Jahre
+        Urethrozystoskopie, außer bei angeborener Fehlbildung, außer bei BNB
+        der Harnorgane, Alter*                        2 Jahre
 
 
 *    *   L64C
@@ -7868,7 +8007,7 @@ Krankenhäusern:
 *    *   L68B
 
     *   Andere mäßig schwere Erkrankungen der Harnorgane, Alter*
-        15 Jahre
+        17 Jahre
 
 
 *    *   L74Z
@@ -7903,10 +8042,10 @@ Krankenhäusern:
 
 *    *   M03C
 
-    *   Mäßig komplexe Eingriffe am Penis, Alter*                        17
-        Jahre, ohne bestimmte Eingriffe am Penis, ohne aufwendige plastische
-        Rekonstruktion des Penis, ohne totale Amputation des Penis, ohne
-        Amputation des Penis mit bestimmter Lymphadenektomie
+    *   Eingriffe am Penis, Alter*                        17 Jahre oder kleine
+        Eingriffe an Urethra und Penis, Alter < 18 Jahre, ohne aufwendige
+        plastische Rekonstruktion, ohne totale Amputation des Penis, ohne
+        partielle Amputation mit bestimmter Lymphadenektomie
 
 
 *    *   M04A
@@ -7930,6 +8069,16 @@ Krankenhäusern:
         ohne mäßig komplexen Eingriff oder Alter*                        2
         Jahre, ohne schwere CC oder ohne beidseitigen Hodenhochstand oder
         Alter*                        13 Jahre
+
+
+*    *   M04M
+
+    *   Hybrid-DRG der DRG M04D
+
+
+*    *   M05N
+
+    *   Hybrid-DRG der DRG M05Z
 
 
 *    *   M05Z

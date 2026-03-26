@@ -31,8 +31,7 @@ zuletzt geändert durch den Vertrag vom 30. November 2011 (BGBl. I S.
 „(1) Zu den in Artikel 1 genannten Zwecken zahlt die Bundesrepublik
 Deutschland an den Zentralrat der Juden in Deutschland jährlich einen
 Betrag von 13 000 000 Euro, beginnend – unabhängig vom Inkrafttreten
-des Vertrages – mit dem Haushaltsjahr 2018."
-
+des Vertrages – mit dem Haushaltsjahr 2018.“
 
 
 ## Art 2 Zustimmung des Deutschen Bundestages, Inkrafttreten

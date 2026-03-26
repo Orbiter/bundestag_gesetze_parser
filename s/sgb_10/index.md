@@ -20,7 +20,7 @@ Neugefasst durch
 :   Bek. v. 18.1.2001 I 130;
 
 Zuletzt geändert durch
-:   Art. 7 Abs. 3 G v. 11.4.2024 I Nr. 119
+:   Art. 14 G v. 16.1.2026 I Nr. 14
 
 
 ## Erstes Kapitel - Verwaltungsverfahren
@@ -368,7 +368,7 @@ Geschäftsleitung im Inland hat der Behörde auf Verlangen innerhalb
 einer angemessenen Frist einen Empfangsbevollmächtigten im Inland zu
 benennen. Unterlässt er dies, gilt ein an ihn gerichtetes Schriftstück
 am siebenten Tage nach der Aufgabe zur Post und ein elektronisch
-übermitteltes Dokument am dritten Tage nach der Absendung als
+übermitteltes Dokument am vierten Tag nach der Absendung als
 zugegangen. Dies gilt nicht, wenn feststeht, dass das Dokument den
 Empfänger nicht oder zu einem späteren Zeitpunkt erreicht hat. Auf die
 Rechtsfolgen der Unterlassung ist der Beteiligte hinzuweisen.
@@ -1302,9 +1302,9 @@ Bevollmächtigter bestellt, kann die Bekanntgabe ihm gegenüber
 vorgenommen werden.
 
 (2) Ein schriftlicher Verwaltungsakt, der im Inland durch die Post
-übermittelt wird, gilt am dritten Tag nach der Aufgabe zur Post als
+übermittelt wird, gilt am vierten Tag nach der Aufgabe zur Post als
 bekannt gegeben. Ein Verwaltungsakt, der im Inland oder Ausland
-elektronisch übermittelt wird, gilt am dritten Tag nach der Absendung
+elektronisch übermittelt wird, gilt am vierten Tag nach der Absendung
 als bekannt gegeben. Dies gilt nicht, wenn der Verwaltungsakt nicht
 oder zu einem späteren Zeitpunkt zugegangen ist; im Zweifel hat die
 Behörde den Zugang des Verwaltungsaktes und den Zeitpunkt des Zugangs
@@ -1317,7 +1317,7 @@ Einwilligung kann jederzeit mit Wirkung für die Zukunft widerrufen
 werden. Die Behörde hat zu gewährleisten, dass der Abruf nur nach
 Authentifizierung der berechtigten Person möglich ist und der
 elektronische Verwaltungsakt von ihr gespeichert werden kann. Ein zum
-Abruf bereitgestellter Verwaltungsakt gilt am dritten Tag nach
+Abruf bereitgestellter Verwaltungsakt gilt am vierten Tag nach
 Absendung der elektronischen Benachrichtigung über die Bereitstellung
 des Verwaltungsaktes an die abrufberechtigte Person als bekannt
 gegeben. Im Zweifel hat die Behörde den Zugang der Benachrichtigung
@@ -1326,7 +1326,7 @@ bestrittenen Zugang der Benachrichtigung nicht nachweisen, gilt der
 Verwaltungsakt an dem Tag als bekannt gegeben, an dem die
 abrufberechtigte Person den Verwaltungsakt abgerufen hat. Das Gleiche
 gilt, wenn die abrufberechtigte Person unwiderlegbar vorträgt, die
-Benachrichtigung nicht innerhalb von drei Tagen nach der Absendung
+Benachrichtigung nicht innerhalb von vier Tagen nach der Absendung
 erhalten zu haben. Die Möglichkeit einer erneuten Bereitstellung zum
 Abruf oder der Bekanntgabe auf andere Weise bleibt unberührt.
 
@@ -2027,7 +2027,8 @@ sind befreit Urkunden, die
     werden,
 
 
-4.  im Recht der Sozialen Entschädigung für erforderlich gehalten werden,
+4.  im Recht der Sozialen Entschädigung und der Soldatenentschädigung für
+    erforderlich gehalten werden,
 
 
 5.  im Kindergeldrecht für erforderlich gehalten werden.
@@ -2198,8 +2199,11 @@ personenbezogener Daten im Sinne des Artikels 9 Absatz 1 der
 Verordnung (EU) 2016/679. § 22 Absatz 2 des Bundesdatenschutzgesetzes
 gilt entsprechend.
 
-(2) Sozialdaten sind bei der betroffenen Person zu erheben. Ohne ihre
-Mitwirkung dürfen sie nur erhoben werden
+(2) Sozialdaten sind bei der betroffenen Person zu erheben. Als
+Erhebung nach Satz 1 gilt auch die Entscheidung der betroffenen Person
+nach § 67f Absatz 1 Satz 1 Nummer 1 in Verbindung mit Absatz 4 Satz 2
+oder ein ausdrückliches Ersuchen im Anwendungsbereich des § 77a. Ohne
+ihre Mitwirkung dürfen sie nur erhoben werden
 
 1.  bei den in § 35 des Ersten Buches oder in § 69 Absatz 2 genannten
     Stellen, wenn
@@ -2310,7 +2314,32 @@ genutzt werden, wenn
 
 
 
-(3) Eine Speicherung, Veränderung oder Nutzung von Sozialdaten ist
+(3) Die in § 35 des Ersten Buches genannten Stellen dürfen die von
+ihnen für einen anderen Zweck erhobenen Sozialdaten auch zum
+Entwickeln, insbesondere zum Trainieren, Validieren und Testen, von
+KI-Modellen und KI-Systemen speichern, verändern oder nutzen, soweit
+die Daten dafür erforderlich sind, die Verwendung von anonymisierten
+Daten zu einer Verfälschung der Verarbeitungsergebnisse führen würde
+und die KI-Modelle und KI-Systeme der Erfüllung einer gesetzlichen
+Aufgabe nach diesem Gesetzbuch durch dieselbe Stelle dienen. Die
+Sozialdaten sind zu pseudonymisieren. Unter den in Satz 1 genannten
+Voraussetzungen dürfen die in § 35 des Ersten Buches genannten Stellen
+auch pseudonymisierte Sozialdaten von anderen in § 35 des Ersten
+Buches genannten Stellen erheben, speichern, verändern oder nutzen,
+soweit diese übermittelten Daten in einem sachlichen Zusammenhang zum
+Aufgabenbereich der erhebenden Stelle stehen. Die nach den Sätzen 1
+bis 3 erhobenen, gespeicherten, veränderten oder genutzten Daten
+dürfen nur für die in Satz 1 genannten Zwecke verwendet werden; die
+Stellen nach den Sätzen 1 und 3 haben die hierfür angemessenen
+technischen und organisatorischen Vorkehrungen, wie technische
+Zugriffsbeschränkungen auf eine begrenzte Anzahl von Mitarbeitern,
+deren besondere Qualifizierung und eine technische Trennung von
+Datenbeständen nach ihren unterschiedlichen Verarbeitungszwecken, zu
+treffen sowie eine angemessene Löschfrist festzulegen. Soweit Daten
+nach Artikel 9 der Verordnung (EU) 2016/679 verarbeitet werden, gilt
+§ 22 Absatz 2 des Bundesdatenschutzgesetzes entsprechend.
+
+(4) Eine Speicherung, Veränderung oder Nutzung von Sozialdaten ist
 zulässig, wenn sie für die Wahrnehmung von Aufsichts-, Kontroll- und
 Disziplinarbefugnissen, der Rechnungsprüfung oder der Durchführung von
 Organisationsuntersuchungen für den Verantwortlichen oder für die
@@ -2321,13 +2350,13 @@ für die Veränderung oder Nutzung zu Ausbildungs- und Prüfungszwecken
 durch den Verantwortlichen, soweit nicht überwiegende schutzwürdige
 Interessen der betroffenen Person entgegenstehen.
 
-(4) Sozialdaten, die ausschließlich zu Zwecken der
+(5) Sozialdaten, die ausschließlich zu Zwecken der
 Datenschutzkontrolle, der Datensicherung oder zur Sicherstellung eines
 ordnungsgemäßen Betriebes einer Datenverarbeitungsanlage gespeichert
 werden, dürfen nur für diese Zwecke verändert, genutzt und in der
 Verarbeitung eingeschränkt werden.
 
-(5) Für Zwecke der wissenschaftlichen Forschung oder Planung im
+(6) Für Zwecke der wissenschaftlichen Forschung oder Planung im
 Sozialleistungsbereich erhobene oder gespeicherte Sozialdaten dürfen
 von den in § 35 des Ersten Buches genannten Stellen nur für ein
 bestimmtes Vorhaben der wissenschaftlichen Forschung im
@@ -2339,6 +2368,14 @@ Einzelangaben über persönliche oder sachliche Verhältnisse einer
 bestimmten oder bestimmbaren Person zugeordnet werden können. Sie
 dürfen mit den Einzelangaben nur zusammengeführt werden, soweit der
 Forschungs- oder Planungszweck dies erfordert.
+
+(7) Die Speicherung und Nutzung der Identifikationsnummer nach dem
+Identifikationsnummerngesetz ist ausschließlich zum Zweck der
+eindeutigen Zuordnung der betroffenen Person bei der Erbringung von
+Verwaltungsleistungen nach dem Onlinezugangsgesetz zulässig sowie zur
+Qualitätssicherung nach § 10 des Identifikationsnummerngesetzes und
+zur Erfüllung der Aufgaben nach § 2 des
+Identifikationsnummerngesetzes.
 
 
 #### § 67d Übermittlungsgrundsätze
@@ -2361,6 +2398,17 @@ Veränderung oder Nutzung dieser Daten ist unzulässig.
 
 (3) Die Übermittlung von Sozialdaten ist auch über Vermittlungsstellen
 im Rahmen einer Auftragsverarbeitung zulässig.
+
+(4) Zur eindeutigen Zuordnung der betroffenen Person bei der
+Erbringung von Verwaltungsleistungen nach dem Onlinezugangsgesetz, bei
+Übermittlungen zur Qualitätssicherung gemäß § 10 des
+Identifikationsnummerngesetzes sowie zur Erfüllung der Aufgaben nach §
+2 des Identifikationsnummerngesetzes ist die Übermittlung der
+Identifikationsnummer nach dem Identifikationsnummerngesetz mit dem
+Geburtsdatum der betroffenen Person zulässig.  Dies gilt auch, wenn in
+den Rechtsvorschriften zur Übermittlung von Sozialdaten nach diesem
+Gesetzbuch die Daten nach Satz 1 nicht aufgeführt werden, ihre
+Übermittlung aber zu den in Satz 1 genannten Zwecken erforderlich ist.
 
 
 #### § 67e Erhebung und Übermittlung zur Bekämpfung von Leistungsmissbrauch und illegaler Ausländerbeschäftigung
@@ -2393,6 +2441,81 @@ den jeweils zuständigen Leistungsträger und nach Satz 1 Nummer 2 bis 4
 an die jeweils zuständige Einzugsstelle und die Bundesagentur für
 Arbeit übermittelt werden. Der Empfänger hat die Prüfung unverzüglich
 durchzuführen.
+
+
+#### § 67f Erhebung und Übermittlung von Sozialdaten zur Nachweiserbringung
+
+(1) Wird ein Verwaltungsverfahren elektronisch durchgeführt, ist die
+Erhebung von Sozialdaten zulässig, wenn nach Wahl der betroffenen
+Person
+
+1.  die nachweisanfordernde Stelle den jeweiligen Nachweis automatisiert
+    bei der nachweisliefernden Stelle abruft, sofern der jeweils
+    erforderliche Nachweis elektronisch vorliegt und ohne zeitlichen
+    Verzug automatisiert abgerufen werden kann, oder
+
+
+2.  die betroffene Person den jeweiligen Nachweis elektronisch einreicht.
+
+
+
+Nachweise sind Unterlagen und Daten jeder Art unabhängig vom
+verwendeten Medium, die zur Ermittlung des Sachverhalts geeignet sind.
+Nachweisanfordernde Stelle kann die für die Entscheidung zuständige
+Behörde oder eine andere öffentliche Stelle sein, die dafür zuständig
+ist, Nachweise einzuholen und an die für die Entscheidung zuständige
+Behörde weiterzuleiten. Nachweisliefernde Stelle ist diejenige
+öffentliche Stelle, die dafür zuständig ist, den Nachweis
+auszustellen.
+
+(2) Hat sich die betroffene Person für den automatisierten
+Nachweisabruf entschieden, darf die nachweisanfordernde Stelle den
+Nachweis der betroffenen Person bei der nachweisliefernden Stelle
+abrufen und die nachweisliefernde Stelle den Nachweis an die
+nachweisanfordernde Stelle übermitteln, wenn
+
+1.  dies zur Erfüllung der Aufgabe der nachweisanfordernden Stelle
+    erforderlich ist und
+
+
+2.  die nachweisanfordernde Stelle den Nachweis auch auf Grund anderer
+    Rechtsvorschriften bei der betroffenen Person erheben dürfte.
+
+
+
+Die in Absatz 1 Satz 3 zweite Alternative genannte andere öffentliche
+Stelle darf den Nachweis an die für die Entscheidung zuständige Stelle
+übermitteln. Die Datenübermittlungen zwischen öffentlichen Stellen
+nach diesem Absatz sind durch die jeweiligen Stellen in einer Weise zu
+protokollieren, die eine Kontrolle der Zulässigkeit von Datenabrufen
+technisch unterstützt. Die Pflicht nach Satz 3 gilt ab dem Tag, der
+dem Tag folgt, an dem das Bundesministerium des Innern und für Heimat
+im Bundesanzeiger bekannt gibt, dass die technischen und rechtlichen
+Voraussetzungen für eine Anzeige der Datenübermittlungen nach diesem
+Absatz im Datenschutzcockpit nach § 10 des Onlinezugangsgesetzes
+vorliegen. § 9 Absatz 2 und 3 des Identifikationsnummerngesetzes gilt
+ab diesem Zeitpunkt entsprechend.
+
+(3) Soll der Nachweis aus einem Register, welches in der Anlage zum
+Identifikationsnummerngesetz aufgeführt ist, abgerufen werden, darf
+die nachweisanfordernde Stelle die Identifikationsnummer nach § 1 des
+Identifikationsnummerngesetzes zur Zuordnung der Datensätze der
+betroffenen Person und zum Abruf des Nachweises an die
+nachweisliefernde Stelle übermitteln. Das Nachweisabrufersuchen darf
+zusätzlich weitere Daten im Sinne von § 4 Absatz 2 und 3 des
+Identifikationsnummerngesetzes, in der Regel das Geburtsdatum, zur
+Validierung der Zuordnung enthalten. Zu diesem Zweck darf die
+nachweisliefernde Stelle diese Daten verarbeiten.
+
+(4) Bevor die für die Entscheidung zuständige Behörde den abgerufenen
+Nachweis verwenden darf, hat die betroffene Person im Fall des
+Absatzes 1 Satz 1 Nummer 1 die Möglichkeit, den Nachweis vorab
+einzusehen. Die betroffene Person kann entscheiden, ob der Nachweis
+für das Verwaltungsverfahren verwendet werden soll.
+
+(5) Die Verantwortung für die Zulässigkeit der Nachweiserhebung und
+des Nachweisabrufs nach Absatz 1 Satz 1 Nummer 1 trägt die
+nachweisanfordernde Stelle.
 
 
 #### § 68 Übermittlung für Aufgaben der Polizeibehörden, der Staatsanwaltschaften, Gerichte und der Behörden der Gefahrenabwehr
@@ -2453,13 +2576,17 @@ erforderlich ist
 
 2.  für die Durchführung eines mit der Erfüllung einer Aufgabe nach Nummer
     1 zusammenhängenden gerichtlichen Verfahrens einschließlich eines
-    Strafverfahrens oder
+    Strafverfahrens,
 
 
 3.  für die Richtigstellung unwahrer Tatsachenbehauptungen der betroffenen
     Person im Zusammenhang mit einem Verfahren über die Erbringung von
     Sozialleistungen; die Übermittlung bedarf der vorherigen Genehmigung
-    durch die zuständige oberste Bundes- oder Landesbehörde.
+    durch die zuständige oberste Bundes- oder Landesbehörde oder
+
+
+4.  für das Entwickeln von KI-Modellen und KI-Systemen unter den
+    Voraussetzungen des § 67c Absatz 3 Satz 3 bis 5.
 
 
 
@@ -2474,7 +2601,7 @@ genannten Stellen gleichgestellt
     Gesetz über die Entschädigung für Strafverfolgungsmaßnahmen, dem
     Unterhaltssicherungsgesetz, dem Beamtenversorgungsgesetz und den
     Vorschriften, die auf das Beamtenversorgungsgesetz verweisen, dem
-    Soldatenversorgungsgesetz, dem Anspruchs- und
+    Soldatenentschädigungsgesetz, dem Anspruchs- und
     Anwartschaftsüberführungsgesetz und den Vorschriften der Länder über
     die Gewährung von Blinden- und Pflegegeldleistungen zu erbringen
     haben,
@@ -2508,7 +2635,7 @@ zulässig.
 
 (5) Die Übermittlung von Sozialdaten ist zulässig für die Erfüllung
 der gesetzlichen Aufgaben der Rechnungshöfe und der anderen Stellen,
-auf die § 67c Absatz 3 Satz 1 Anwendung findet.
+auf die § 67c Absatz 4 Satz 1 Anwendung findet.
 
 
 #### § 70 Übermittlung für die Durchführung des Arbeitsschutzes
@@ -2624,7 +2751,9 @@ ist die Übermittlung von Sozialdaten gemäß § 68 Absatz 7 des
 Einkommensteuergesetzes an die Familienkassen zulässig. Eine
 Übermittlung von Sozialdaten ist auch zulässig, soweit sie zum Schutz
 des Kindeswohls nach § 4 Absatz 1 und 5 des Gesetzes zur Kooperation
-und Information im Kinderschutz erforderlich ist.
+und Information im Kinderschutz erforderlich ist. Eine Übermittlung
+von Sozialdaten ist zulässig, soweit sie für die Qualitätssicherung
+nach § 10 des Identifikationsnummerngesetzes erforderlich ist.
 
 (2) Eine Übermittlung von Sozialdaten eines Ausländers ist auch
 zulässig, soweit sie erforderlich ist
@@ -2661,8 +2790,9 @@ zulässig, soweit sie erforderlich ist
 
 
 
-2.  für die Erfüllung der in § 87 Absatz 2 des Aufenthaltsgesetzes
-    bezeichneten Mitteilungspflichten,
+2.  für die Erfüllung der in § 87 Absatz 2 des Aufenthaltsgesetzes oder in
+    § 11 Absatz 7 des Freizügigkeitsgesetzes/EU bezeichneten
+    Mitteilungspflichten,
 
 
 3.  für die Erfüllung der in § 99 Absatz 1 Nummer 14 Buchstabe d, f und j
@@ -3001,14 +3131,15 @@ Genehmigung durch die oberste Bundes- oder Landesbehörde, die für den
 Bereich, aus dem die Daten herrühren, zuständig ist. Die oberste
 Bundesbehörde kann das Genehmigungsverfahren bei Anträgen von
 Versicherungsträgern nach § 1 Absatz 1 Satz 1 des Vierten Buches oder
-von deren Verbänden auf das Bundesversicherungsamt übertragen. Eine
-Übermittlung von Sozialdaten an eine nicht-öffentliche Stelle und eine
-weitere Verarbeitung durch diese nach Absatz 2 darf nur genehmigt
-werden, wenn sich die nicht-öffentliche Stelle gegenüber der
-Genehmigungsbehörde verpflichtet hat, die Daten nur für den
-vorgesehenen Zweck zu verarbeiten. Die Genehmigung darf im Hinblick
-auf die Wahrung des Sozialgeheimnisses nur versagt werden, wenn die
-Voraussetzungen des Absatzes 1, 2 oder 4a nicht vorliegen. Sie muss
+von deren Verbänden auf das Bundesamt für Soziale Sicherung
+übertragen. Eine Übermittlung von Sozialdaten an eine nicht-
+öffentliche Stelle und eine weitere Verarbeitung durch diese nach
+Absatz 2 darf nur genehmigt werden, wenn sich die nicht-öffentliche
+Stelle gegenüber der Genehmigungsbehörde verpflichtet hat, die Daten
+nur für den vorgesehenen Zweck zu verarbeiten. Die Genehmigung darf im
+Hinblick auf die Wahrung des Sozialgeheimnisses nur versagt werden,
+wenn die Voraussetzungen des Absatzes 1, 2 oder 4a nicht vorliegen.
+Sie muss
 
 1.  den Dritten, an den die Daten übermittelt werden,
 
@@ -3167,6 +3298,30 @@ Ausschluss der Übermittlung hat.
 (4) Die Stelle, an die die Sozialdaten übermittelt werden, ist auf den
 Zweck hinzuweisen, zu dessen Erfüllung die Sozialdaten übermittelt
 werden.
+
+
+#### § 77a Grenzüberschreitende Nachweisabrufe
+
+(1) Die zuständige Behörde darf bei einer Behörde eines anderen
+Mitgliedstaats der Europäischen Union einen Nachweis nach Artikel 14
+Absatz 2 der Verordnung (EU) 2018/1724 des Europäischen Parlaments und
+des Rates vom 2. Oktober 2018 über die Einrichtung eines einheitlichen
+digitalen Zugangstors zu Informationen, Verfahren, Hilfs- und
+Problemlösungsdiensten und zur Änderung der Verordnung (EU) Nr.
+1024/2012 (ABl. L 295 vom 21.11.2018, S. 1) automatisiert abrufen,
+wenn dies zur Erfüllung ihrer Aufgaben für eines der Verfahren nach
+Artikel 14 Absatz 1 der Verordnung (EU) 2018/1724 erforderlich ist.
+
+(2) Die automatisierte Übermittlung eines Nachweises nach Artikel 14
+Absatz 2 der Verordnung (EU)
+2018/1724              an eine Behörde eines anderen Mitgliedstaats
+der Europäischen Union ist zulässig, wenn diese Behörde zuständig ist
+und die Übermittlung zur Erfüllung ihrer Aufgaben für eines der
+Verfahren nach Artikel 14 Absatz 1 der Verordnung (EU) 2018/1724
+erforderlich ist.
+
+(3) Bei der Verarbeitung nach den Absätzen 1 und 2 können intermediäre
+Plattformen zum Einsatz kommen.
 
 
 #### § 78 Zweckbindung und Geheimhaltungspflicht eines Dritten, an den Daten übermittelt werden
@@ -3711,14 +3866,6 @@ Militärischen Abschirmdienst, ist sie nur mit Zustimmung dieser
 Stellen zulässig.
 
 
-#### § 83a Benachrichtigung bei einer Verletzung des Schutzes von Sozialdaten
-
-Ergänzend zu den Meldepflichten gemäß den Artikeln 33 und 34 der
-Verordnung (EU) 2016/679 meldet die in § 35 des Ersten Buches genannte
-Stelle die Verletzung des Schutzes von Sozialdaten auch der Rechts-
-oder Fachaufsichtsbehörde.
-
-
 #### § 84 Recht auf Berichtigung, Löschung, Einschränkung der Verarbeitung und Widerspruch
 
 (1) Ist eine Löschung von Sozialdaten im Fall nicht automatisierter
@@ -3778,12 +3925,12 @@ betroffene Person, der Verantwortliche, der oder die Bundesbeauftragte
 oder die nach Landesrecht für die Kontrolle des Datenschutzes
 zuständige Stelle.
 
-(3) Eine Meldung nach § 83a oder nach Artikel 33 der Verordnung (EU)
-2016/679 oder eine Benachrichtigung nach Artikel 34 Absatz 1 der
-Verordnung (EU) 2016/679 dürfen in einem Strafverfahren gegen die
-melde- oder benachrichtigungspflichtige Person oder gegen einen ihrer
-in § 52 Absatz 1 der Strafprozessordnung bezeichneten Angehörigen nur
-mit Zustimmung der melde- oder benachrichtigungspflichtigen Person
+(3) Eine Meldung nach Artikel 33 der Verordnung (EU) 2016/679 oder
+eine Benachrichtigung nach Artikel 34 Absatz 1 der Verordnung (EU)
+2016/679 dürfen in einem Strafverfahren gegen die melde- oder
+benachrichtigungspflichtige Person oder gegen einen ihrer in § 52
+Absatz 1 der Strafprozessordnung bezeichneten Angehörigen nur mit
+Zustimmung der melde- oder benachrichtigungspflichtigen Person
 verwendet werden.
 
 
@@ -3792,13 +3939,13 @@ verwendet werden.
 (1) Für Sozialdaten gilt § 41 des Bundesdatenschutzgesetzes
 entsprechend.
 
-(2) Eine Meldung nach § 83a oder nach Artikel 33 der Verordnung (EU)
-2016/679 oder eine Benachrichtigung nach Artikel 34 Absatz 1 der
-Verordnung (EU) 2016/679 dürfen in einem Verfahren nach dem Gesetz
-über Ordnungswidrigkeiten gegen die melde- oder
-benachrichtigungspflichtige Person oder einen ihrer in § 52 Absatz 1
-der Strafprozessordnung bezeichneten Angehörigen nur mit Zustimmung
-der melde- oder benachrichtigungspflichtigen Person verwendet werden.
+(2) Eine Meldung nach Artikel 33 der Verordnung (EU) 2016/679 oder
+eine Benachrichtigung nach Artikel 34 Absatz 1 der Verordnung (EU)
+2016/679 dürfen in einem Verfahren nach dem Gesetz über
+Ordnungswidrigkeiten gegen die melde- oder benachrichtigungspflichtige
+Person oder einen ihrer in § 52 Absatz 1 der Strafprozessordnung
+bezeichneten Angehörigen nur mit Zustimmung der melde- oder
+benachrichtigungspflichtigen Person verwendet werden.
 
 (3) Gegen Behörden und sonstige öffentliche Stellen werden keine
 Geldbußen verhängt.
@@ -4232,26 +4379,39 @@ Mitteilung eingewilligt hat. § 100 Abs. 1 Satz 2 gilt entsprechend.
 
 ##### § 101a Mitteilungen der Meldebehörden
 
-(1) Die Datenstelle der Rentenversicherung übermittelt die
-Mitteilungen aller Sterbefälle und Anschriftenänderungen und jede
-Änderung des Vor- und des Familiennamens unter den Voraussetzungen von
-§ 196 Absatz 2 des Sechsten Buches und bei einer Eheschließung eines
-Einwohners das Datum dieser Eheschließung unter den Voraussetzungen
-von § 196 Absatz 2a des Sechsten Buches unverzüglich an die Deutsche
-Post AG.
+(1) Die Datenstelle der Rentenversicherung übermittelt unverzüglich an
+die Deutsche Post AG:
+
+1.  die Mitteilungen aller Sterbefälle und Anschriftenänderungen und jede
+    Änderung des Vor- und des Familiennamens unter den Voraussetzungen von
+    § 196 Absatz 2 des Sechsten Buches;
+
+
+2.  bei einem Sterbefall zusätzlich das Datum der letzten Eheschließung
+    oder der Begründung der letzten Lebenspartnerschaft unter den
+    Voraussetzungen von § 196 Absatz 2a des Sechsten Buches;
+
+
+3.  bei einer Eheschließung oder einer Begründung einer
+    Lebenspartnerschaft eines Einwohners das Datum dieser Eheschließung
+    oder dieser Begründung einer Lebenspartnerschaft unter den
+    Voraussetzungen von § 196 Absatz 2a des Sechsten Buches.
+
+
+
 
 (2) Die Mitteilungen, die von der Datenstelle der Rentenversicherung
 an die Deutsche Post AG übermittelt werden, dürfen von der Deutschen
 Post AG
 
-1.  nur dazu verwendet werden, um laufende Geldleistungen der
-    Leistungsträger, der in § 69 Abs. 2 genannten Stellen sowie
-    ausländischer Leistungsträger mit laufenden Geldleistungen in die
-    Bundesrepublik Deutschland einzustellen oder deren Einstellung zu
-    veranlassen sowie um Anschriften von Empfängern laufender
-    Geldleistungen der Leistungsträger und der in § 69 Abs. 2 genannten
-    Stellen zu berichtigen oder deren Berichtigung zu veranlassen, und
-    darüber hinaus
+1.  nur dazu verwendet werden, um einen Sterbequartalsvorschuss
+    auszuzahlen, um laufende Geldleistungen der Leistungsträger, der in §
+    69 Abs. 2 genannten Stellen sowie ausländischer Leistungsträger mit
+    laufenden Geldleistungen in die Bundesrepublik Deutschland
+    einzustellen oder deren Einstellung zu veranlassen sowie um
+    Anschriften von Empfängern laufender Geldleistungen der
+    Leistungsträger und der in § 69 Abs. 2 genannten Stellen zu
+    berichtigen oder deren Berichtigung zu veranlassen, und darüber hinaus
 
 
 2.  nur weiter übermittelt werden, um den Trägern der Unfallversicherung,
@@ -4309,9 +4469,11 @@ zuständigen Leistungsträger geltenden Rechtsvorschriften.
 
 (3) Die Absätze 1 und 2 gelten gegenüber den Trägern der
 Eingliederungshilfe, der Sozialhilfe, der Sozialen Entschädigung,
-soweit diese Besondere Leistungen im Einzelfall erbringen, und der
-Jugendhilfe nur von dem Zeitpunkt ab, von dem ihnen bekannt war, dass
-die Voraussetzungen für ihre Leistungspflicht vorlagen.
+soweit diese Besondere Leistungen im Einzelfall erbringen, der
+Soldatenentschädigung nach Kapitel 5 des
+Soldatenentschädigungsgesetzes und der Jugendhilfe nur von dem
+Zeitpunkt ab, von dem ihnen bekannt war, dass die Voraussetzungen für
+ihre Leistungspflicht vorlagen.
 
 
 #### § 104 Anspruch des nachrangig verpflichteten Leistungsträgers
@@ -4330,7 +4492,8 @@ Leistungsträger seine Leistungen auch bei Leistung des vorrangig
 verpflichteten Leistungsträgers hätte erbringen müssen. Satz 1 gilt
 entsprechend, wenn von den Trägern der Eingliederungshilfe, der
 Sozialhilfe, der Sozialen Entschädigung, soweit diese Besondere
-Leistungen im Einzelfall erbringen, und der Jugendhilfe
+Leistungen im Einzelfall erbringen, der Soldatenentschädigung nach
+Kapitel 5 des Soldatenentschädigungsgesetzes und der Jugendhilfe
 Aufwendungsersatz geltend gemacht oder ein Kostenbeitrag erhoben
 werden kann; Satz 3 gilt in diesen Fällen nicht.
 
@@ -4364,9 +4527,11 @@ zuständigen Leistungsträger geltenden Rechtsvorschriften.
 
 (3) Die Absätze 1 und 2 gelten gegenüber den Trägern der
 Eingliederungshilfe, der Sozialhilfe, der Sozialen Entschädigung,
-soweit diese Besondere Leistungen im Einzelfall erbringen, und der
-Jugendhilfe nur von dem Zeitpunkt ab, von dem ihnen bekannt war, dass
-die Voraussetzungen für ihre Leistungspflicht vorlagen.
+soweit diese Besondere Leistungen im Einzelfall erbringen, der
+Soldatenentschädigung nach Kapitel 5 des
+Soldatenentschädigungsgesetzes und der Jugendhilfe nur von dem
+Zeitpunkt ab, von dem ihnen bekannt war, dass die Voraussetzungen für
+ihre Leistungspflicht vorlagen.
 
 
 #### § 106 Rangfolge bei mehreren Erstattungsberechtigten
@@ -4421,8 +4586,9 @@ unverzüglich vorzunehmen und den übrigen Leistungsträgern mitzuteilen.
 
 (2) Ein Erstattungsanspruch der Träger der Eingliederungshilfe, der
 Sozialhilfe, der Sozialen Entschädigung, soweit diese Besondere
-Leistungen im Einzelfall erbringen, und der Jugendhilfe ist von
-anderen Leistungsträgern
+Leistungen im Einzelfall erbringen, der Soldatenentschädigung nach
+Kapitel 5 des Soldatenentschädigungsgesetzes und der Jugendhilfe ist
+von anderen Leistungsträgern
 
 1.  für die Dauer des Erstattungszeitraumes und
 
@@ -4728,10 +4894,5 @@ oder den Beitritt zu Arbeitsgemeinschaften, wenn die Bildung oder der
 Beitritt nach dem 30. Juni 2020 erfolgt; die am 30. Juni 2020 bereits
 bestehenden Arbeitsgemeinschaften dürfen weitergeführt werden.
 
-(8) Für Personen, die Leistungen nach dem Soldatenversorgungsgesetz in
-Verbindung mit dem Bundesversorgungsgesetz erhalten, gelten § 64
-Absatz 2 Satz 3 Nummer 2 und Absatz 3 Satz 2, § 65 Absatz 1 Satz 3, §
-66 Absatz 2, § 88 Absatz 1 Satz 2, § 103 Absatz 3, § 104 Absatz 1 Satz
-4, § 105 Absatz 3 und § 108 Absatz 2 Satz 1 in der bis zum 31.
-Dezember 2023 geltenden Fassung weiter.
+(8) (weggefallen)
 

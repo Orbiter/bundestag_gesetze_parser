@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 18.3.2021 I 540
 
 Zuletzt geändert durch
-:   Art. 14c G v. 22.12.2023 I Nr. 405
-
-Änderung durch
-:   Art. 10 G v. 22.12.2023 I Nr. 409 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 4 G v. 22.12.2025 I Nr. 348
 
 Dieses Gesetz dient der Umsetzung der Richtlinie 2011/92/EU des
 Europäischen Parlaments und des Rates vom 13. Dezember 2011 über die
@@ -775,9 +772,9 @@ Umweltprüfung durchgeführt wurde.
 (2) Absatz 1 ist auf bereits laufende und nach dem 29. März 2023
 begonnene Zulassungsverfahren nur anzuwenden, wenn der Antragsteller
 dies gegenüber der zuständigen Behörde verlangt und den Antrag bis zum
-Ablauf des 30. Juni 2024 stellt. Satz 1 ist für das gesamte
+Ablauf des 30. Juni 2025 stellt. Satz 1 ist für das gesamte
 Zulassungsverfahren anzuwenden, ungeachtet dessen, ob es bis zum
-Ablauf des 30. Juni 2024 abgeschlossen wird.
+Ablauf des 30. Juni 2025 abgeschlossen wird.
 
 
 #### § 14c Ersatzneubauten mit baulicher Erweiterung im Vorgriff auf einen späteren Ausbau
@@ -1131,9 +1128,10 @@ nicht auf die Umweltauswirkungen des Vorhabens beziehen.
 
 (1) Ändert der Vorhabenträger im Laufe des Verfahrens die Unterlagen,
 die nach § 19 Absatz 2 auszulegen sind, so ist eine erneute
-Beteiligung der Öffentlichkeit erforderlich. Sie ist jedoch auf die
-Änderungen zu beschränken. Hierauf weist die zuständige Behörde in der
-Bekanntmachung hin.
+Beteiligung der Öffentlichkeit erforderlich. Die Äußerungsfrist nach §
+21 Absatz 2 und 3 kann angemessen verkürzt werden. Die
+Öffentlichkeitsbeteiligung ist auf die Änderungen zu beschränken.
+Hierauf weist die zuständige Behörde in der Bekanntmachung hin.
 
 (2) Die zuständige Behörde soll von einer erneuten Beteiligung der
 Öffentlichkeit absehen, wenn zusätzliche erhebliche oder andere
@@ -2317,6 +2315,13 @@ Betrieb und Änderung von Rohrleitungsanlagen zum Befördern
 wassergefährdender Stoffe sowie für die Änderung ihres Betriebs,
 ausgenommen Änderungen von unwesentlicher Bedeutung.
 
+(3) Für Vorhaben, die in der Anlage 1 Nummer 19.7 oder 19.8 aufgeführt
+sind und die zugleich die Errichtung, den Betrieb oder die Änderung
+von Wärmeleitungen betreffen, ist anstelle der Absätze 1 und 2 sowie
+anstelle der §§ 66 bis 69 der § 8 des Geothermie-
+Beschleunigungsgesetzes vom 22. Dezember 2025 (BGBl. 2025 I Nr. 348,
+S. 2) anzuwenden.
+
 
 ### § 66 Entscheidung; Nebenbestimmungen; Verordnungsermächtigung
 
@@ -2837,7 +2842,8 @@ dieses Gesetz nur anzuwenden, wenn das Verfahren nach dem 1. August
 
 ### Anlage 1 Liste „UVP-pflichtige Vorhaben“
 
-(Fundstelle: BGBl. I 2021, 565 – 582)
+(Fundstelle: BGBl. I 2021, 565 – 582;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Nachstehende Vorhaben fallen nach § 1 Absatz 1 Nummer 1 in den
 Anwendungsbereich dieses Gesetzes. Soweit nachstehend eine allgemeine
@@ -5516,6 +5522,32 @@ und 2.
     *   **A**
 
 
+*    *   **10.8**
+
+    *   Errichtung und Betrieb einer Anlage zur Wasserelektrolyse zur
+        Erzeugung von Wasserstoff sowie Sauerstoff, ausgenommen integrierte
+        chemische Anlagen nach Nummer 4.1, mit einer elektrischen Nennleistung
+        von
+
+    *
+    *
+
+*    *   10.8.1
+
+    *   50 MW oder mehr
+
+    *
+    *   **A**
+
+
+*    *   10.8.2
+
+    *   5 MW bis weniger als 50 MW
+
+    *
+    *   **S**
+
+
 *    *   **11.**
 
     *   **Kernenergie:**
@@ -7017,8 +7049,8 @@ und 2.
 *    *   **19.10**
 
     *   Errichtung und Betrieb einer Kohlendioxidleitung im Sinne des
-        Kohlendioxid-Speicherungsgesetzes, ausgenommen Anlagen, die den
-        Bereich eines Werksgeländes nicht überschreiten, mit
+        Kohlendioxid-Speicherung-und-Transport-Gesetzes, ausgenommen Anlagen,
+        die den Bereich eines Werksgeländes nicht überschreiten, mit
 
     *
     *

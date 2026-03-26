@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2017, 2097
 
 Zuletzt geändert durch
-:   Art. 10 G v. 22.12.2023 I Nr. 414
+:   Art. 7 G v. 6.5.2024 I Nr. 149
 
 Stand: Ersetzt G 204-3 v. 20.12.1990 I 2954, 2955 (BDSG 1990)
 
@@ -408,8 +408,8 @@ rechtliche Unternehmen am Wettbewerb teilnehmen, sowie über
 Unternehmen, soweit diese für die geschäftsmäßige Erbringung von
 Telekommunikationsdienstleistungen Daten von natürlichen oder
 juristischen Personen verarbeiten und sich die Zuständigkeit nicht
-bereits aus § 29 des Telekommunikation-Telemedien-Datenschutz-Gesetzes
-ergibt. Die Vorschriften dieses Kapitels gelten auch für
+bereits aus § 29 des Telekommunikation-Digitale-Dienste-Datenschutz-
+Gesetzes ergibt. Die Vorschriften dieses Kapitels gelten auch für
 Auftragsverarbeiter, soweit sie nichtöffentliche Stellen sind, bei
 denen dem Bund die Mehrheit der Anteile gehört oder die Mehrheit der
 Stimmen zusteht und der Auftraggeber eine öffentliche Stelle des
@@ -510,21 +510,6 @@ Bundesbeauftragte sich unmittelbar vor ihrer oder seiner Wahl zur oder
 zum Bundesbeauftragten als Beamtin oder Beamter oder als Richterin
 oder Richter mindestens in dem letzten gewöhnlich vor Erreichen der
 Besoldungsgruppe B 11 zu durchlaufenden Amt befunden hat.
-
-(5) Zur Abmilderung der Folgen der gestiegenen Verbraucherpreise
-werden der oder dem Bundesbeauftragten in entsprechender Anwendung des
-§ 14 Absatz 4 bis 8 des Bundesbesoldungsgesetzes die folgenden
-Sonderzahlungen gewährt:
-
-1.  für den Monat Juni 2023 eine einmalige Sonderzahlung in Höhe von 1 240
-    Euro sowie
-
-
-2.  für die Monate Juli 2023 bis Februar 2024 eine monatliche
-    Sonderzahlung in Höhe von jeweils 220 Euro.
-
-
-
 
 
 #### § 13 Rechte und Pflichten

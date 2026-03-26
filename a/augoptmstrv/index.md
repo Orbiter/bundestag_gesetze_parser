@@ -16,8 +16,14 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2005, 2610
 
+V aufgeh. durch
+:   § 9a idF d. Art. 2 V v. 8.7.2025 mWv 1.7.2026
+
 Zuletzt geändert durch
-:   Art. 2 Abs. 47 V v. 18.1.2022 I 39
+:   Art. 2 V v. 8.7.2025 I Nr. 157
+
+Ersetzt durch
+:   V 7110-3-222 v. 8.7.2025 I Nr. 157 (AugOptMstrV 2026)
 
 
 
@@ -466,6 +472,11 @@ sich nach der Allgemeinen Meisterprüfungsverordnung vom 26. Oktober
 Die Regelungen des § 7 Absatz 6 und 7 gelten nicht für die bis zum 31.
 Dezember 2011 begonnenen Prüfungsverfahren. Diese werden nach den
 bisherigen Vorschriften zu Ende geführt.
+
+
+## § 9a Außerkrafttreten
+
+Diese Verordnung tritt mit Ablauf des 30. Juni 2026 außer Kraft.
 
 
 ## § 10 Inkrafttreten, Außerkrafttreten

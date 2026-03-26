@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2009, 1870, 1908
 
 Zuletzt geändert durch
-:   Art. 39 G v. 16.12.2022 I 2294
+:   Art. 47 G v. 2.12.2024 I Nr. 387
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
@@ -1892,7 +1892,7 @@ Empfangsberechtigten festzulegen.
 (2) Das Bundesministerium der Finanzen wird ermächtigt, durch
 Rechtsverordnung mit Zustimmung des Bundesrates Bier, das von Haus-
 und Hobbybrauern in ihren Haushalten ausschließlich zum eigenen
-Verbrauch bereitet wird, bis zu einer Menge von 2 hl im Kalenderjahr
+Verbrauch bereitet wird, bis zu einer Menge von 5 hl im Kalenderjahr
 von der Steuer zu befreien.
 
 (3) Das Bundesministerium der Finanzen wird ermächtigt, durch

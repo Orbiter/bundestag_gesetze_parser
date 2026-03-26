@@ -504,16 +504,16 @@ erforderlich und vereinbart ist.
 
 ## § 17 Technische Anschlußbedingungen
 
-Das Wasserversorgungsunternehmen ist berechtigt, weitere technische
-Anforderungen an den Hausanschluß und andere Anlagenteile sowie an den
-Betrieb der Anlage festzulegen, soweit dies aus Gründen der sicheren
-und störungsfreien Versorgung, insbesondere im Hinblick auf die
-Erfordernisse des Verteilungsnetzes notwendig ist. Diese Anforderungen
-dürfen den anerkannten Regeln der Technik nicht widersprechen. Der
-Anschluß bestimmter Verbrauchseinrichtungen kann von der vorherigen
-Zustimmung des Versorgungsunternehmens abhängig gemacht werden. Die
-Zustimmung darf nur verweigert werden, wenn der Anschluß eine sichere
-und störungsfreie Versorgung gefährden würde.
+(1) Das Wasserversorgungsunternehmen ist berechtigt, weitere
+technische Anforderungen an den Hausanschluß und andere Anlagenteile
+sowie an den Betrieb der Anlage festzulegen, soweit dies aus Gründen
+der sicheren und störungsfreien Versorgung, insbesondere im Hinblick
+auf die Erfordernisse des Verteilungsnetzes notwendig ist. Diese
+Anforderungen dürfen den anerkannten Regeln der Technik nicht
+widersprechen. Der Anschluß bestimmter Verbrauchseinrichtungen kann
+von der vorherigen Zustimmung des Versorgungsunternehmens abhängig
+gemacht werden. Die Zustimmung darf nur verweigert werden, wenn der
+Anschluß eine sichere und störungsfreie Versorgung gefährden würde.
 
 (2) Das Wasserversorgungsunternehmen hat die weiteren technischen
 Anforderungen der zuständigen Behörde anzuzeigen. Die Behörde kann sie

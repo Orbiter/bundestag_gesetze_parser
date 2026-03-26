@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1982, 520
 
 Zuletzt geändert durch
-:   Art. 37 G v. 23.6.2021 I 1858
+:   Art. 29 G v. 15.7.2024 I Nr. 236
 
 
 ## Eingangsformel
@@ -351,10 +351,10 @@ Empfangsbestätigung aushändigen lassen.
 (4) Die Eisenbahnen des Bundes erhalten Bezugscheine vom
 Bundesministerium für Verkehr und digitale Infrastruktur.
 
-(5) Die Unternehmen, die nach § 1 des Postsicherstellungsgesetzes oder
-Teil 10 Abschnitt 2 des Telekommunikationsgesetzes verpflichtet sind,
-erhalten Bezugsscheine vom Bundesministerium für Wirtschaft und
-Energie. Absatz 2 Satz 2 gilt entsprechend.
+(5) Die Unternehmen, die nach Kapitel 12 des Postgesetzes oder Teil 10
+Abschnitt 2 des Telekommunikationsgesetzes verpflichtet sind, erhalten
+Bezugsscheine vom Bundesministerium für Wirtschaft und Energie. Absatz
+2 Satz 2 gilt entsprechend.
 
 
 ## 6. Abschnitt - Zuteilung von Kraftstoff für auswärtige Kraftfahrzeuge sowie in sonstigen besonderen Fällen
@@ -3640,12 +3640,10 @@ fahrlässig
             *
             *   (4)
 
-            *
             *   (5)
 
             *   (6)
 
-            *
             *
 
         *            *
@@ -3671,6 +3669,7 @@ fahrlässig
             *
             *
             *
+            *
 
         *            *
             *   Anzahl
@@ -3683,6 +3682,7 @@ fahrlässig
 
             *   PS
 
+            *
             *   Benzin
 
             *   Diesel

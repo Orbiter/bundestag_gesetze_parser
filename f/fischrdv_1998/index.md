@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1998, 1355
 
 Zuletzt geändert durch
-:   Art. 1 V v. 7.2.2018 I 196
-
-Änderung durch
-:   Art. 1 V v. 23.4.2024 I Nr. 136 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 V v. 23.4.2024 I Nr. 136
 
 
 ## Eingangsformel
@@ -2865,7 +2862,8 @@ fahrlässig
 
 1.  entgegen Artikel 3 Absatz 4 Roten Thun anlandet, umsetzt, umlädt, in
     einen Netzkäfig einsetzt, liefert, entnimmt, im Binnenhandel handelt,
-    einführt, ausführt oder widerausführt oder
+    einführt, ausführt oder
+    wieder ausführt                    oder
 
 
 2.  entgegen Artikel 9 Absatz 6 Roten Thun im Binnenhandel handelt,

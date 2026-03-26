@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 31.5.2017 I 1440;
 
 Zuletzt geändert durch
-:   Art. 1 V v. 12.10.2022 I 1799
+:   Art. 1 V v. 12.11.2024 I Nr. 355
 
 
 ## § 1 Genehmigungsbedürftige Anlagen
@@ -179,7 +179,8 @@ gekennzeichnet sind.
 
 ## Anhang 1
 
-(Fundstelle: BGBl. I 2017, 1443 — 1465; bzgl. )
+(Fundstelle: BGBl. I 2017, 1443 — 1465;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 **Rohstoffbegriff in Nummer 7**
 
@@ -1605,7 +1606,8 @@ Anlage gemäß Art. 10 der Richtlinie 2010/75/EU:
 
     *   Gasen wie Ammoniak, Chlor und Chlorwasserstoff, Fluor und
         Fluorwasserstoff, Kohlenstoffoxiden, Schwefelverbindungen,
-        Stickstoffoxiden, Wasserstoff, Schwefeldioxid, Phosgen,
+        Stickstoffoxiden, Wasserstoff (sofern die Herstellung nicht durch die
+        Elektrolyse von Wasser erfolgt), Schwefeldioxid, Phosgen,
 
     *   **G**
 
@@ -4875,7 +4877,33 @@ Anlage gemäß Art. 10 der Richtlinie 2010/75/EU:
 *    *   **10.25**
 
     *   Kälteanlagen mit einem Gesamtinhalt an Kältemittel von 3 Tonnen
-        Ammoniak oder mehr.
+        Ammoniak oder mehr;
+
+    *   **V**
+
+    *
+
+*    *   **10.26**
+
+    *   Anlagen zur Herstellung von Wasserstoff durch die Elektrolyse von
+        Wasser mit
+
+    *
+    *
+
+*    *   10.26.1
+
+    *   einer Produktionskapazität von 50 Tonnen Wasserstoff oder mehr je Tag,
+
+    *   **G**
+
+    *   **E**
+
+
+*    *   10.26.2
+
+    *   einer elektrischen Nennleistung von 5 Megawatt oder mehr, sofern nicht
+        von Nummer 10.26.1 erfasst.
 
     *   **V**
 

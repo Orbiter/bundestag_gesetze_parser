@@ -18,6 +18,9 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 5.3.2021 I 346
 
+Geändert durch
+:   Art. 2 Abs. 2 G v. 25.11.2025 I Nr. 282
+
 
 ## § 1 Verhältnis zu anderen Vorschriften
 
@@ -401,7 +404,8 @@ S. 666) anzuwenden.
 
 ## Anlage 1 Berufliche Tätigkeiten
 
-(Fundstelle: BGBl. I 2021, 350)
+(Fundstelle: BGBl. I 2021, 350;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 1.  Betrieb von Anlagen, für den eine Genehmigung gemäß der Richtlinie
@@ -517,7 +521,7 @@ S. 666) anzuwenden.
 
 
 14. Betrieb von Kohlendioxidspeichern nach § 3 Nummer 7 des Kohlendioxid-
-    Speicherungsgesetzes.
+    Speicherung-und-Transport-Gesetzes.
 
 
 

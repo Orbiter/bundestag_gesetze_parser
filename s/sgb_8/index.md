@@ -20,7 +20,7 @@ Neugefasst durch
 :   Bek. v. 11.9.2012 I 2022;
 
 Zuletzt geändert durch
-:   Art. 1 G v. 21.12.2022 I 2824; 2023 I Nr. 19
+:   Art. 2 G v. 3.4.2025 I Nr. 107
 
 
 ## Erstes Kapitel - Allgemeine Vorschriften
@@ -490,6 +490,44 @@ Klärung von Konflikten durch die Ombudsstellen entsprechend. Das
 Nähere regelt das Landesrecht.
 
 
+### § 9b Aufarbeitung
+
+(1) Die nach Landesrecht zuständigen Träger der öffentlichen Kinder-
+und Jugendhilfe haben Personen bei Vorliegen eines berechtigten
+Interesses Einsicht in die sie als Minderjährige betreffenden
+Erziehungshilfe-, Eingliederungshilfe-, Heim- oder Vormundschaftsakten
+zu gestatten und Auskunft zu den betreffenden Akten zu erteilen.
+
+(2) In Vereinbarung mit den Trägern von Einrichtungen und Diensten,
+die Leistungen nach diesem Buch erbringen, ist sicherzustellen, dass
+
+1.  Erziehungshilfe-, Eingliederungshilfe-, Heim- und Vormundschaftsakten
+    nach Vollendung des 30. Lebensjahres der Person nach Absatz 1 70 Jahre
+    lang aufzubewahren sind,
+
+
+2.  Personen bei Vorliegen eines berechtigten Interesses Einsicht
+    gestattetet wird in die betreffenden Akten sowie
+
+
+3.  Fachkräfte Auskunft erteilen zu den betreffenden Akten.
+
+
+
+
+(3) Ein berechtigtes Interesse besteht, wenn Anhaltspunkte für die
+Gefährdung des Wohls einer Person nach Absatz 1 im Zusammenhang mit
+dem Bezug einer Leistung nach diesem Buch, mit der Durchführung von
+Maßnahmen nach dem Gesetz für Jugendwohlfahrt oder nach der
+Jugendhilfeverordnung der Deutschen Demokratischen Republik bestehen.
+Die nach § 85 Absatz 2 zuständigen Behörden entwickeln unter
+Beteiligung der Unabhängigen Aufarbeitungskommission Grundsätze und
+Maßstäbe für die Bewertung, ob ein berechtigtes Interesse nach Satz 1
+vorliegt.
+
+(4) § 25 Absatz 2 und 3 des Zehnten Buches gilt entsprechend.
+
+
 ### § 10 Verhältnis zu anderen Leistungen und Verpflichtungen
 
 (1) Verpflichtungen anderer, insbesondere der Träger anderer
@@ -526,6 +564,9 @@ Leistungsträgern gewährt werden.
 (5) Soweit Leistungen zum Lebensunterhalt nach § 39 erbracht werden,
 gehen sie den Leistungen zum Lebensunterhalt nach § 93 des Vierzehnten
 Buches vor.
+
+(7) Die Leistungen nach diesem Buch gehen den Leistungen aus dem
+Gewalthilfegesetz vom 24. Februar 2025 (BGBl. 2025 I Nr. 57) vor.
 
 
 ### § 10a Beratung
@@ -3360,6 +3401,14 @@ personenbezogenen Daten sind zu anonymisieren, sobald dies nach dem
 Forschungszweck möglich ist. Vom Adoptionsverfahren betroffene
 Personen dürfen nicht kontaktiert werden.
 
+(2c) Abweichend von Absatz 1 dürfen Sozialdaten übermittelt und
+verarbeitet werden, soweit dies für die Durchführung einer bestimmten
+wissenschaftlichen Analyse nach § 79a Absatz 2 erforderlich ist.
+Personenbezogene Daten sind zu anonymisieren. Die Übermittlung und
+Verarbeitung erfolgt in pseudonymisierter Form, wenn anonymisierte
+Daten nicht gleich geeignet zur Aufgabenerfüllung sind und die
+Aufgabenerfüllung von erheblichem öffentlichem Interesse ist.
+
 (3) Sozialdaten dürfen beim Träger der öffentlichen Jugendhilfe zum
 Zwecke der Planung im Sinne des § 80 gespeichert oder genutzt werden;
 sie sind unverzüglich zu anonymisieren.
@@ -3410,7 +3459,12 @@ anvertraut worden sind, dürfen von diesem nur weitergegeben oder
     zur Erforschung möglicher politisch motivierter Adoptionsvermittlung
     in der DDR erforderlich ist. Vom Adoptionsverfahren betroffene
     Personen dürfen nicht kontaktiert werden; § 64 Absatz 2b Satz 1 und 2
-    gilt entsprechend.
+    gilt entsprechend, oder
+
+
+7.  wenn dies zur Durchführung bestimmter wissenschaftlicher Analysen nach
+    § 79a Absatz 2 erforderlich ist; § 64 Absatz 2c Satz 2 gilt
+    entsprechend.
 
 
 
@@ -3421,8 +3475,14 @@ Der Empfänger darf die Sozialdaten nur zu dem Zweck weitergeben oder
 behördeninternes Weitergabeverbot nach Absatz 1 besteht.
 
 
-### § 66 (weggefallen)
+### § 66 Auskünfte aus dem Ausländerzentralregister
 
+Zur Erfüllung der Aufgaben nach diesem Buch dürfen die öffentlichen
+Träger der Jugendhilfe über junge Menschen, die Hilfen oder Leistungen
+nach diesem Buch erhalten oder erhalten sollen oder in Obhut genommen
+wurden, mittels einer Auskunft aus dem Ausländerzentralregister die in
+§ 18d Absatz 1 des Ausländerzentralregistergesetzes genannten Daten
+abrufen.
 
 
 ### § 67 (weggefallen)
@@ -3709,7 +3769,8 @@ fördern, wenn der jeweilige Träger
 
 1.  die fachlichen Voraussetzungen für die geplante Maßnahme erfüllt und
     die Beachtung der Grundsätze und Maßstäbe der Qualitätsentwicklung und
-    Qualitätssicherung nach § 79a gewährleistet,
+    Qualitätssicherung nach § 79a Absatz 1 gewährleistet und grundsätzlich
+    zur Mitwirkung an Maßnahmen nach § 79a Absatz 2 bereit ist,
 
 
 2.  die Gewähr für eine zweckentsprechende und wirtschaftliche Verwendung
@@ -3823,13 +3884,16 @@ der Aufgaben verantwortlich.
 in Anspruch genommen, so sind Vereinbarungen über die Höhe der Kosten
 der Inanspruchnahme sowie über Inhalt, Umfang und Qualität der
 Leistung, über Grundsätze und Maßstäbe für die Bewertung der Qualität
-der Leistung und über geeignete Maßnahmen zu ihrer Gewährleistung
-zwischen der öffentlichen und der freien Jugendhilfe anzustreben. Zu
-den Grundsätzen und Maßstäben für die Bewertung der Qualität der
-Leistung nach Satz 1 zählen auch Qualitätsmerkmale für die inklusive
-Ausrichtung der Aufgabenwahrnehmung und die Berücksichtigung der
-spezifischen Bedürfnisse von jungen Menschen mit Behinderungen. Das
-Nähere regelt das Landesrecht. Die §§ 78a bis 78g bleiben unberührt.
+der Leistung, über geeignete Maßnahmen zu ihrer Gewährleistung und
+über die Mitwirkung an Maßnahmen nach § 79a Absatz 2 zwischen der
+öffentlichen und der freien Jugendhilfe anzustreben. Zu den
+Grundsätzen und Maßstäben für die Bewertung der Qualität der Leistung
+nach Satz 1 zählen auch Qualitätsmerkmale für den Schutz von Kindern
+und Jugendlichen vor Gewalt und Ausbeutung bei der Aufgabenwahrnehmung
+sowie für die inklusive Ausrichtung der Aufgabenwahrnehmung und für
+die Berücksichtigung der spezifischen Bedürfnisse von jungen Menschen
+mit Behinderungen. Das Nähere regelt das Landesrecht. Die §§ 78a bis
+78g bleiben unberührt.
 
 (2) Wird eine Leistung nach § 37 Absatz 1 oder § 37a erbracht, so ist
 der Träger der öffentlichen Jugendhilfe zur Übernahme der Kosten der
@@ -3942,7 +4006,8 @@ mit dem Träger der Einrichtung oder seinem Verband Vereinbarungen über
 
 
 abgeschlossen worden sind; dazu zählen auch die Qualitätsmerkmale nach
-§ 79a Satz 2.
+§ 79a Absatz 1 Satz 2 und die Mitwirkung an bestimmten
+wissenschaftlichen Analysen nach § 79a Absatz 2.
 
 (2) Die Vereinbarungen sind mit den Trägern abzuschließen, die unter
 Berücksichtigung der Grundsätze der Leistungsfähigkeit,
@@ -4146,7 +4211,7 @@ Personalausstattung ist ein Verfahren zur Personalbemessung zu nutzen.
 
 #### § 79a Qualitätsentwicklung in der Kinder- und Jugendhilfe
 
-Um die Aufgaben der Kinder- und Jugendhilfe nach § 2 zu erfüllen,
+(1) Um die Aufgaben der Kinder- und Jugendhilfe nach § 2 zu erfüllen,
 haben die Träger der öffentlichen Jugendhilfe Grundsätze und Maßstäbe
 für die Bewertung der Qualität sowie geeignete Maßnahmen zu ihrer
 Gewährleistung für
@@ -4165,15 +4230,28 @@ Gewährleistung für
 
 
 weiterzuentwickeln, anzuwenden und regelmäßig zu überprüfen. Dazu
-zählen auch Qualitätsmerkmale für die inklusive Ausrichtung der
-Aufgabenwahrnehmung und die Berücksichtigung der spezifischen
-Bedürfnisse von jungen Menschen mit Behinderungen sowie die Sicherung
-der Rechte von Kindern und Jugendlichen in Einrichtungen und in
-Familienpflege und ihren Schutz vor Gewalt. Die Träger der
+zählen auch Qualitätsmerkmale für den Schutz vor Gewalt und Ausbeutung
+von Kindern und Jugendlichen bei der Aufgabenwahrnehmung sowie für die
+inklusive Ausrichtung der Aufgabenwahrnehmung und für die
+Berücksichtigung der spezifischen Bedürfnisse von jungen Menschen mit
+Behinderungen sowie für die Sicherung der Rechte von Kindern und
+Jugendlichen in Einrichtungen und in Familienpflege. Die Träger der
 öffentlichen Jugendhilfe orientieren sich dabei an den fachlichen
-Empfehlungen der nach § 85 Absatz 2 zuständigen Behörden und an
-bereits angewandten Grundsätzen und Maßstäben für die Bewertung der
-Qualität sowie Maßnahmen zu ihrer Gewährleistung.
+Empfehlungen der nach § 85 Absatz 2 zuständigen Behörden, insbesondere
+zur Entwicklung, Anwendung und Überprüfung von Konzepten zum Schutz
+vor Gewalt und Ausbeutung, und an bereits angewandten Grundsätzen und
+Maßstäben für die Bewertung der Qualität sowie Maßnahmen zu ihrer
+Gewährleistung.
+
+(2) Die Träger der öffentlichen Jugendhilfe sollen bestimmte
+wissenschaftliche Analysen der Wahrnehmung von Aufgaben nach § 2 durch
+geeignete Dritte veranlassen, wenn dies erforderlich ist zur
+Überprüfung und Weiterentwicklung von Grundsätzen und Maßstäben für
+die Bewertung der Qualität sowie geeigneter Maßnahmen zu ihrer
+Gewährleistung nach Absatz 1 für den Schutz vor Gewalt und Ausbeutung
+von Kindern und Jugendlichen. Zur Erfüllung dieser Aufgabe sind die
+betreffenden Akten bei den Trägern der öffentlichen Jugendhilfe für
+einen angemessenen Zeitraum aufzubewahren.
 
 
 #### § 80 Jugendhilfeplanung
@@ -4271,7 +4349,7 @@ insbesondere mit
     sonstigen Einrichtungen und Diensten des Gesundheitswesens,
 
 
-6.  den Beratungsstellen nach den §§ 3 und 8 des
+6.  den Beratungsstellen nach den §§ 3 und 8 Absatz 1 des
     Schwangerschaftskonfliktgesetzes und Suchtberatungsstellen,
 
 
@@ -5210,16 +5288,17 @@ zu dem Kostenbeitrag stehen wird.
 (1) Zum Einkommen gehören alle Einkünfte in Geld oder Geldeswert mit
 Ausnahme der Leistungen nach diesem Buch, der Leistungen nach dem
 Vierzehnten Buch und der Leistungen nach Gesetzen, die eine
-entsprechende Anwendung des Vierzehnten Buches vorsehen, und der
-Renten oder Beihilfen nach dem Bundesentschädigungsgesetz für Schaden
-an Leben sowie an Körper oder Gesundheit bis zur Höhe der
-vergleichbaren Leistungen nach dem Vierzehnten Buch. Eine
-Entschädigung, die nach § 253 Absatz 2 des Bürgerlichen Gesetzbuchs
-wegen eines Schadens, der nicht Vermögensschaden ist, geleistet wird,
-ist nicht als Einkommen zu berücksichtigen. Geldleistungen, die dem
-gleichen Zwecke wie die jeweilige Leistung der Jugendhilfe dienen,
-zählen nicht zum Einkommen und sind unabhängig von einem Kostenbeitrag
-einzusetzen; dies gilt nicht für
+entsprechende Anwendung des Vierzehnten Buches vorsehen, der
+Leistungen nach dem Soldatenentschädigungsgesetz, der Renten oder
+Beihilfen nach dem Bundesentschädigungsgesetz für Schaden an Leben
+sowie an Körper oder Gesundheit bis zur Höhe der vergleichbaren
+Leistungen nach dem Vierzehnten Buch. Eine Entschädigung, die nach §
+253 Absatz 2 des Bürgerlichen Gesetzbuchs wegen eines Schadens, der
+nicht Vermögensschaden ist, geleistet wird, ist nicht als Einkommen zu
+berücksichtigen. Geldleistungen, die dem gleichen Zwecke wie die
+jeweilige Leistung der Jugendhilfe dienen, zählen nicht zum Einkommen
+und sind unabhängig von einem Kostenbeitrag einzusetzen; dies gilt
+nicht für
 
 1.  monatliche Leistungen nach § 56 des Dritten Buches bis zu einer Höhe
     des in § 61 Absatz 2 Satz 1 und § 62 Absatz 3 Satz 1 des Dritten
@@ -6332,17 +6411,8 @@ Freiheit der Person (Artikel 2 Absatz 2 Satz 3 des Grundgesetzes)
 eingeschränkt.
 
 
-### § 107 Übergangsregelung aus Anlass des Gesetzes zur Regelung des Sozialen Entschädigungsrechts
+### § 107 (weggefallen)
 
-Für Personen, die Leistungen nach dem Soldatenversorgungsgesetz in der
-Fassung der Bekanntmachung vom 16. September 2009 (BGBl. I S. 3054),
-das zuletzt durch Artikel 19 des Gesetzes vom 4. August 2019 (BGBl. I
-S. 1147) geändert worden ist, in Verbindung mit dem
-Bundesversorgungsgesetz in der Fassung der Bekanntmachung vom 22.
-Januar 1982 (BGBl. I S. 21), das zuletzt durch Artikel 1 der
-Verordnung vom 13. Juni 2019 (BGBl. I S. 793) geändert worden ist,
-erhalten, gelten die Vorschriften des § 81 Nummer 1 und des § 93
-Absatz 1 Satz 1 in der am 31. Dezember 2023 geltenden Fassung weiter.
 
 
 ### § 108 Übergangsregelung

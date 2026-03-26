@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2017, 1896, 1897
 
-Geändert durch
-:   Art. 2 V v. 23.4.2019 I 517
+Zuletzt geändert durch
+:   Art. 2 Abs. 20 V v. 11.3.2026 I Nr. 67
 
 Stand: Ersetzt V 2030-8-5-8 v. 13.7.2016 I 1775 (HArchDVDV)
 
@@ -255,8 +255,8 @@ Merkmale und die Leistungsmotivation verfügen, das oder die für die
 Erfüllung der Aufgaben im höheren Archivdienst erforderlich ist oder
 sind.
 
-(2) Wird die Zahl der am Auswahlverfahren Teilnehmenden nach § 10a
-Absatz 3 der Bundeslaufbahnverordnung beschränkt, so wird zugelassen,
+(2) Wird die Zahl der am Auswahlverfahren Teilnehmenden nach § 11
+Absatz 4 der Bundeslaufbahnverordnung beschränkt, so wird zugelassen,
 wer nach den eingereichten Unterlagen am besten geeignet erscheint.
 Bei der Zulassungsentscheidung sind insbesondere die Zeugnisnoten in
 den Fächern zu berücksichtigen, die für den Vorbereitungsdienst

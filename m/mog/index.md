@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 7.11.2017 I 3746;
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 23 G v. 20.12.2022 I 2752
+:   Art. 2 G v. 23.10.2024 I Nr. 327
 
 
 ## Abschnitt 1 - Begriffsbestimmungen
@@ -321,6 +321,14 @@ Verfahren sowie über
 
 3.  die Bezeichnung, die Kennzeichnung, die Aufmachung, die Verpackung
     oder die Mengen- und Gewichtseinheiten von Marktordnungswaren,
+
+
+4.  die Angabe der Güteklasse, der Haltungsform, der Erzeugerkennzeichnung
+    oder sonstige Angaben in Rechnungen, Lieferscheinen oder sonstigen
+    Transportbegleitpapieren, ausgenommen in Rechnungen, Lieferscheinen
+    oder sonstigen Transportbegleitpapieren des Einzelhandels, unter der
+    die Marktordnungswaren jeweils geliefert, verkauft oder sonst in den
+    Verkehr gebracht werden,
 
 
 
@@ -961,10 +969,12 @@ dieses Gesetzes berechtigt sein.
 (1) Ansprüche auf Erstattung von Vergünstigungen sowie auf Beträge,
 die wegen Nichteinhaltung anderweitiger Verpflichtungen zu erstatten
 sind, sind vom Zeitpunkt ihrer Entstehung an mit fünf Prozentpunkten
-über dem Basiszinssatz zu verzinsen. Werden Abgaben nicht rechtzeitig
-gezahlt, sind sie vom Fälligkeitstag an mit fünf Prozentpunkten über
-dem Basiszinssatz zu verzinsen. Satz 1 oder 2 ist nicht anzuwenden,
-soweit Regelungen im Sinne des § 1 Absatz 2 etwas anderes vorsehen.
+über dem Basiszinssatz zu verzinsen. § 49a Absatz 3 Satz 2 des
+Verwaltungsverfahrensgesetzes ist anzuwenden. Werden Abgaben nicht
+rechtzeitig gezahlt, sind sie vom Fälligkeitstag an mit fünf
+Prozentpunkten über dem Basiszinssatz zu verzinsen. Satz 1, 2 oder 3
+ist nicht anzuwenden, soweit Regelungen im Sinne des § 1 Absatz 2
+etwas anderes vorsehen.
 
 (2) Ansprüche auf Vergünstigungen und im Rahmen von Interventionen
 sind ab Rechtshängigkeit nach Maßgabe der §§ 236, 238 und 239 der

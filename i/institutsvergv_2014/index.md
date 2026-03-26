@@ -20,7 +20,7 @@ Zuletzt geändert durch
 :   Art. 1 V v. 14.2.2023 I Nr. 41
 
 Stand: Ersetzt V 7610-2-38 v. 6.10.2010 I 1374
-    Diese Verordnung dient der Umsetzung der Richtlinie 2013/36/EU des
+[^F1_783652_BJNR427000013]:     Diese Verordnung dient der Umsetzung der Richtlinie 2013/36/EU des
     Europäischen Parlaments und des Rates vom 26. Juni 2013 über den
     Zugang zur Tätigkeit von Kreditinstituten und die Beaufsichtigung von
     Kreditinstituten und Wertpapierfirmen, zur Änderung der Richtlinie
@@ -31,7 +31,6 @@ Stand: Ersetzt V 7610-2-38 v. 6.10.2010 I 1374
     Aufsichtsanforderungen an Kreditinstitute und Wertpapierfirmen und zur
     Änderung der Verordnung (EU) Nr. 646/2012 (ABl. L 176 vom 27.6.2013,
     S. 1).
-[^F1_783652_BJNR427000013]: 
 
 
 ## Eingangsformel

@@ -21,7 +21,7 @@ Neugefasst durch
 :   Bek. v. 28.2.2005 I 487;
 
 Zuletzt geändert durch
-:   Art. 10 V v. 19.12.2022 I 2432
+:   Art. 31 G v. 2.12.2024 I Nr. 387
 
 
 ## Abschnitt 1 - Grundsätze der Datenübermittlung
@@ -32,7 +32,7 @@ Zuletzt geändert durch
 
 (1) Eine Übermittlung von Daten nach
 
-1.  § 10 Absatz 2a, 2b und 4b, den §§ 10a, 22a oder Abschnitt XI des
+1.  § § 10 Absatz 2a, 2b, 2c und 4b, den §§ 10a, 22a oder Abschnitt XI des
     Einkommensteuergesetzes,
 
 
@@ -89,7 +89,7 @@ Bundesministerium der Finanzen im Bundessteuerblatt bekannt gegeben.
 
 (3) Der codierte Zeichensatz für eine Datenübermittlung nach
 
-1.  § 10 Absatz 2a, 2b und 4b oder § 22a des Einkommensteuergesetzes,
+1.  § 10 Absatz 2a, 2b, 2c und 4b oder § 22a des Einkommensteuergesetzes,
 
 
 2.  § 32b Absatz 3 des Einkommensteuergesetzes, soweit auf § 22a des
@@ -212,8 +212,8 @@ zentralen Stelle von dem am Verfahren Beteiligten unter Angabe der
 Kundennummer (Absatz 4) unverzüglich anzuzeigen.
 
 (6) Die Absätze 1 und 3 bis 5 gelten für die mitteilungspflichtigen
-Stellen im Sinne des § 10 Absatz 2a, 2b und 4b, § 22a Absatz 1 Satz 1
-und § 32b Absatz 3 des Einkommensteuergesetzes entsprechend.
+Stellen im Sinne des § 10 Absatz 2a, 2b, 2c und 4b, § 22a Absatz 1
+Satz 1 und § 32b Absatz 3 des Einkommensteuergesetzes entsprechend.
 
 
 ## Abschnitt 2 - Vorschriften zur Altersvorsorge nach § 10a oder Abschnitt XI des Einkommensteuergesetzes

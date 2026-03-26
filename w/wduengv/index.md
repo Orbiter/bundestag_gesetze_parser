@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2010, 1062
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 1 V v. 28.4.2020
+:   Art. 2 Abs. 1 V v. 28.4.2020 I 846
 
 [^F774435_01_BJNR106200010]:     Die Verpflichtungen aus der Richtlinie 98/34/EG des Europäischen
     Parlaments und des Rates vom 22. Juni 1998 über ein

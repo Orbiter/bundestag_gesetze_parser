@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2009, 2585
 
 Zuletzt geändert durch
-:   Art. 7 G v. 22.12.2023 I Nr. 409
+:   Art. 2 G v. 9.1.2026 I Nr. 4
 
 [^f772370_01_BJNR258510009]:     Dieses Gesetz dient der Umsetzung der
     –                                    Richtlinie 80/68/EWG des Rates
@@ -243,7 +243,15 @@ Für dieses Gesetz gelten folgende Begriffsbestimmungen:
 17. Wassernutzungen sind alle Wasserdienstleistungen sowie andere
     Handlungen mit Auswirkungen auf den Zustand eines Gewässers, die im
     Hinblick auf die Bewirtschaftungsziele nach den §§ 27 bis 31, 44 und
-    47 signifikant sind.
+    47 signifikant sind;
+
+
+
+
+18. Erdwärme
+
+    Energie, die in Form von Wärme unter der festen Erdoberfläche
+    gespeichert ist.
 
 
 
@@ -594,22 +602,41 @@ machen können.
 
 #### § 11a Verfahren bei Vorhaben zur Erzeugung von Energie aus erneuerbaren Quellen
 
-(1) Die Absätze 2 bis 5 gelten für die Erteilung einer Erlaubnis oder
-Bewilligung ergänzend bei folgenden Vorhaben:
+(1) Die Absätze 2 bis 7 gelten für die Erteilung einer Erlaubnis oder
+Bewilligung ergänzend bei den folgenden Vorhaben:
 
-1.  Errichtung und Betrieb sowie Modernisierung von Anlagen zur Nutzung
-    von Wasserkraft, ausgenommen Pumpspeicherkraftwerke,
-
-
-2.  Errichtung und Betrieb von Anlagen zur Gewinnung von Erdwärme, wenn
-    ein bergrechtlicher Betriebsplan nicht erforderlich ist.
+1.  Errichtung und Betrieb sowie Modernisierung einer Anlage zur Nutzung
+    von Wasserkraft, ausgenommen Pumpspeicherkraftwerke;
 
 
+2.  Errichtung und Betrieb sowie Modernisierung einer Anlage zur Gewinnung
+    von Erdwärme einschließlich Erdwärmepumpe, wenn ein bergrechtlicher
+    Betriebsplan nicht erforderlich ist;
 
-Die Modernisierung im Sinne des Satzes 1 Nummer 1 umfasst Maßnahmen
-zur Steigerung der Effizienz oder der Kapazität der Anlage,
-insbesondere den vollständigen oder teilweisen Austausch der Anlage,
-eines Anlagenteils oder des Betriebssystems.
+
+3.  Errichtung und Betrieb sowie Modernisierung einer Solarenergieanlage
+    in oder über einem oberirdischen Gewässer;
+
+
+4.  Errichtung und Betrieb sowie Modernisierung einer Wärmepumpe, die das
+    Wasser eines oberirdischen Gewässers oder Abwasser als Wärmequelle
+    nutzt;
+
+
+5.  Errichtung sowie Modernisierung einer Windenergieanlage;
+
+
+6.  Nutzung des Untergrunds als Wärmespeicher sowie Errichtung und Betrieb
+    eines Erdbeckens als Wärmespeicher, jeweils im Zusammenhang mit einer
+    zugehörigen Anlage zur Erzeugung erneuerbarer Energie am selben
+    Standort.
+
+
+
+Eine Modernisierung nach Satz 1 Nummer 1 bis 5 umfasst Maßnahmen zur
+Steigerung der Effizienz oder der Kapazität der Anlage, insbesondere
+den vollständigen oder teilweisen Austausch der Anlage, eines
+Anlagenteils oder des Betriebssystems.
 
 (2) Auf Antrag des Trägers des Vorhabens werden das Erlaubnis- oder
 Bewilligungsverfahren sowie alle sonstigen Zulassungsverfahren, die
@@ -617,74 +644,256 @@ für die Durchführung des Vorhabens nach Bundes- oder Landesrecht
 erforderlich sind, über eine einheitliche Stelle abgewickelt.
 
 (3) Die einheitliche Stelle nach Absatz 2 stellt ein
-Verfahrenshandbuch für Träger von Vorhaben bereit und macht diese
-Informationen auch im Internet zugänglich. Dabei geht sie gesondert
-auch auf kleinere Vorhaben und Vorhaben zur Eigenversorgung mit
-Elektrizität ein. In den im Internet veröffentlichten Informationen
-weist die einheitliche Stelle auch darauf hin, für welche Vorhaben sie
-zuständig ist und welche weiteren einheitlichen Stellen im jeweiligen
-Land für Vorhaben nach Absatz 1 Satz 1 zuständig sind.
+Verfahrenshandbuch für Träger von Vorhaben bereit und macht die im
+Verfahrenshandbuch enthaltenen Informationen auch im Internet
+zugänglich. Dabei geht sie gesondert auch auf kleinere Vorhaben,
+Vorhaben zur Eigenversorgung mit Elektrizität und Vorhaben von
+Erneuerbare-Energie-Gemeinschaften ein. In den im Internet
+veröffentlichten Informationen weist die einheitliche Stelle auch
+darauf hin, für welche Vorhaben sie zuständig ist und welche weiteren
+einheitlichen Stellen im jeweiligen Land für Vorhaben nach Absatz 1
+Satz 1 zuständig sind.
 
-(4) Nach Eingang der vollständigen Antragsunterlagen erstellt die
-zuständige Behörde unverzüglich einen Zeitplan für das weitere
-Verfahren nach Absatz 1 Satz 1 und teilt diesen Zeitplan in den Fällen
-des Absatzes 2 der einheitlichen Stelle, andernfalls dem Träger des
-Vorhabens mit.
+(4) Ab dem 21. November 2025 sind Erlaubnis- oder
+Bewilligungsverfahren elektronisch durchzuführen. Die Antragsteller
+können die Unterlagen in elektronischer Form einreichen.
 
-(5) Die zuständige Behörde entscheidet über die Erteilung der
-Erlaubnis oder Bewilligung
+(5) Sind die Antragsunterlagen vollständig, so bestätigt die
+zuständige Behörde dies in den Fällen des Absatzes 2 gegenüber der
+einheitlichen Stelle, andernfalls gegenüber dem Träger des Vorhabens
+innerhalb von 45 Tagen nach Eingang des Antrags. Bei Vorhaben nach
+Absatz 1 Satz 1 Nummer 5 oder Nummer 6 in einem für ein solches
+Vorhaben geltenden Beschleunigungsgebiet für die Windenergie an Land
+nach § 2 Nummer 4 des Windenergieflächenbedarfsgesetzes beträgt die
+Frist 30 Tage nach Eingang des Antrags. Die Antragsunterlagen sind
+vollständig, wenn sie sich zu allen relevanten Aspekten des Vorhabens
+verhalten und die Behörde in die Lage versetzen, den Antrag unter
+Berücksichtigung dieser Aspekte zu prüfen. Fachliche Einwände und
+Nachfragen zum Antrag stehen der Vollständigkeit nicht entgegen,
+sofern der Antrag bereits eine vollumfängliche Prüfung durch die
+zuständige Behörde ermöglicht. Sind die Antragsunterlagen nicht
+vollständig, so fordert die zuständige Behörde, in den Fällen des
+Absatzes 2 über die einheitliche Stelle, den Träger des Vorhabens
+unter Bezeichnung der fehlenden Angaben und Antragsunterlagen
+innerhalb der Frist nach Satz 1 auf, die Antragsunterlagen
+unverzüglich zu ergänzen.
 
-1.  innerhalb eines Jahres bei
+(6) Die Fristen nach Absatz 7 Satz 1 beginnen mit der Bestätigung der
+Vollständigkeit der Antragsunterlagen durch die zuständige Behörde
+oder, falls die Behörde nicht reagiert, mit Ablauf der jeweiligen
+Frist nach Absatz 5 Satz 1 oder Satz 2. Wenn die Behörde den Träger
+des Vorhabens gemäß Absatz 5 Satz 5 zur Ergänzung der
+Antragsunterlagen aufgefordert hat, beginnt die jeweilige Frist nach
+Absatz 7 Satz 1 mit der Bestätigung des vollständigen Eingangs der von
+der Behörde erstmals nachgeforderten Antragsunterlagen. Nach Eingang
+der vollständigen Antragsunterlagen erstellt die zuständige Behörde
+unverzüglich einen Zeitplan für das weitere Verfahren und teilt diesen
+Zeitplan in den Fällen des Absatzes 2 der einheitlichen Stelle,
+andernfalls dem Träger des Vorhabens mit.
 
-    a)  Errichtung und Betrieb von Anlagen zur Nutzung von Wasserkraft mit
-        einer Stromerzeugungskapazität von weniger als 150 Kilowatt,
+(7) Die zuständige Behörde entscheidet innerhalb der folgenden Fristen
+über die Erteilung der Erlaubnis oder der Bewilligung:
 
-
-    b)  Errichtung und Betrieb von Anlagen zur Gewinnung von Erdwärme, wenn
-        das Vorhaben der Erzeugung von Strom mit einer Kapazität von weniger
-        als 150 Kilowatt dient,
-
-
-    c)  der Modernisierung von Anlagen zur Nutzung von Wasserkraft,
-
-
-
-
-
-2.  innerhalb von zwei Jahren bei
-
-    a)  Errichtung und Betrieb von Anlagen zur Nutzung von Wasserkraft mit
-        einer Stromerzeugungskapazität von 150 Kilowatt oder mehr,
+1.  innerhalb eines Monats bei der Errichtung und dem Betrieb einer
+    Abwasserwärmepumpe;
 
 
-    b)  Errichtung und Betrieb von Anlagen zur Gewinnung von Erdwärme, wenn
-        das Vorhaben der Erzeugung von Strom in einem Kraftwerk dient.
+2.  innerhalb von drei Monaten bei
+
+    a)  der Errichtung einer Erdwärmepumpe mit einer thermischen Leistung bis
+        zu 50 Megawatt;
+
+
+    b)  der Errichtung und dem Betrieb einer Wärmepumpe, die das Wasser eines
+        oberirdischen Gewässers als Wärmequelle nutzt, mit einer thermischen
+        Leistung bis zu 100 Kilowatt, wenn an der Einleitungsstelle in das
+        Gewässer eine rechnerische Temperaturabsenkung nach vollständiger
+        Durchmischung von 1 Kelvin nicht überschritten wird;
 
 
 
 
 
+3.  innerhalb von sechs Monaten bei
 
-Die zuständige Behörde kann die jeweilige Frist nach Satz 1 einmalig
-um bis zu 18 und längstens um 24 Monate verlängern, soweit die Prüfung
-von Anforderungen nach umweltrechtlichen Vorschriften, die der
-Umsetzung entsprechender Vorgaben der Europäischen Gemeinschaften oder
-der Europäischen Union dienen, insbesondere die Prüfung der Einhaltung
-der Bewirtschaftungsziele, mit einem erhöhten Zeitaufwand verbunden
-ist. Im Übrigen kann die zuständige Behörde die jeweilige Frist nach
-Satz 1 um bis zu ein Jahr verlängern, wenn außergewöhnliche Umstände
-vorliegen. Sie teilt die Fristverlängerung nach Satz 2 oder Satz 3 in
-den Fällen des Absatzes 2 der einheitlichen Stelle, andernfalls dem
-Träger des Vorhabens mit. Insgesamt beträgt die Höchstdauer der
-Fristverlängerung nach Satz 2 und Satz 3 18 und längstens 24 Monate.
-Die Frist nach Satz 1 beginnt mit Eingang der vollständigen
-Antragsunterlagen. Weitergehende bestehende Rechtsvorschriften der
-Länder, die kürzere Fristen vorsehen, bleiben unberührt.
+    a)  der Errichtung einer Windenergieanlage mit einer
+        Stromerzeugungskapazität von weniger als 150 Kilowatt in einem für
+        eine solche Anlage geltenden Beschleunigungsgebiet für die Windenergie
+        an Land nach § 2 Nummer 4 des Windenergieflächenbedarfsgesetzes;
 
-(6) Die Absätze 4 und 5 Satz 1 Nummer 1 Buchstabe b und Nummer 2
-Buchstabe b gelten entsprechend für die Erteilung einer Erlaubnis oder
-Bewilligung bei Errichtung und Betrieb von Anlagen zur Gewinnung von
-Erdwärme, wenn ein bergrechtlicher Betriebsplan erforderlich ist.
+
+    b)  der Modernisierung einer Windenergieanlage in einem für eine solche
+        Anlage geltenden Beschleunigungsgebiet für die Windenergie an Land
+        nach § 2 Nummer 4 des Windenergieflächenbedarfsgesetzes;
+
+
+    c)  der Modernisierung einer Wärmepumpe, die das Wasser eines
+        oberirdischen Gewässers als Wärmequelle nutzt;
+
+
+    d)  der Errichtung und dem Betrieb eines Wärmespeichers ohne Bohrung ins
+        Erdreich im Zusammenhang mit einer zugehörigen Solar- oder
+        Windenergieanlage am selben Standort, sofern das Vorhaben in einem für
+        eine solche Anlage geltenden Beschleunigungsgebiet für die Windenergie
+        an Land nach § 2 Nummer 4 des Windenergieflächenbedarfsgesetzes liegt;
+
+
+
+
+
+4.  innerhalb von sieben Monaten bei der Errichtung oder Modernisierung
+    einer Windenergieanlage, wenn Nummer 3 Buchstabe a und b keine
+    Anwendung findet;
+
+
+5.  innerhalb eines Jahres bei
+
+    a)  der Errichtung und dem Betrieb einer Anlage zur Nutzung von
+        Wasserkraft mit einer Stromerzeugungskapazität von weniger als 150
+        Kilowatt;
+
+
+    b)  der Errichtung und dem Betrieb einer Anlage zur Gewinnung von
+        Erdwärme, wenn das Vorhaben der Erzeugung von Strom mit einer
+        Kapazität von weniger als 150 Kilowatt dient;
+
+
+    c)  der Errichtung und dem Betrieb einer Solarenergieanlage in oder über
+        einem oberirdischen Gewässer mit einer Stromerzeugungskapazität von
+        weniger als 150 Kilowatt;
+
+
+    d)  der Errichtung und dem Betrieb einer Wärmepumpe, die das Wasser eines
+        oberirdischen Gewässers als Wärmequelle nutzt,
+
+        aa) mit einer thermischen Leistung von bis zu 100 Kilowatt, wenn an der
+            Einleitungsstelle in das Gewässer eine rechnerische
+            Temperaturabsenkung nach vollständiger Durchmischung von 1 Kelvin
+            überschritten wird, oder
+
+
+        bb) mit einer thermischen Leistung von mehr als 100 Kilowatt;
+
+
+
+
+
+    e)  der Modernisierung einer Anlage nach Absatz 1 Satz 1, wenn Nummer 3
+        Buchstabe b und c sowie Nummer 4 keine Anwendung finden;
+
+
+    f)  der Nutzung des Untergrunds als Wärmespeicher sowie bei der Errichtung
+        und dem Betrieb eines Erdbeckens als Wärmespeicher, jeweils im
+        Zusammenhang mit einer zugehörigen Anlage zur Erzeugung erneuerbarer
+        Energie am selben Standort, sofern die Anlage außerhalb eines
+        Beschleunigungsgebiets für die Windenergie an Land nach § 2 Nummer 4
+        des Windenergieflächenbedarfsgesetzes liegt;
+
+
+
+
+
+6.  innerhalb von zwei Jahren bei
+
+    a)  der Errichtung und dem Betrieb einer Anlage zur Nutzung von
+        Wasserkraft mit einer Stromerzeugungskapazität von 150 Kilowatt oder
+        mehr;
+
+
+    b)  der Errichtung und dem Betrieb einer Anlage zur Gewinnung von
+        Erdwärme, wenn das Vorhaben der Erzeugung von Strom mit einer
+        Kapazität von mehr als 150 Kilowatt dient;
+
+
+    c)  der Errichtung und dem Betrieb einer Solarenergieanlage in oder über
+        einem oberirdischen Gewässer mit einer Stromerzeugungskapazität von
+        150 Kilowatt oder mehr.
+
+
+
+    Die zuständige Behörde kann die jeweilige Frist nach Satz 1 Nummer 3
+    Buchstabe a, b, d, Nummer 4 und 5, ausgenommen Buchstabe d
+    Doppelbuchstabe bb, in durch außergewöhnliche Umstände hinreichend
+    begründeten Fällen einmalig um bis zu drei Monate verlängern. Dies
+    gilt insbesondere, soweit die Prüfung von Anforderungen nach
+    umweltrechtlichen Vorschriften, die der Umsetzung entsprechender
+    Vorgaben der Europäischen Gemeinschaften oder der Europäischen Union
+    dienen, wie im Falle einer Prüfung der Einhaltung der
+    Bewirtschaftungsziele, mit einem erhöhten Zeitaufwand verbunden ist.
+    Die Frist nach Satz 1 Nummer 5 Buchstabe d Doppelbuchstabe bb und die
+    jeweilige Frist nach Satz 1 Nummer 6 kann einmalig in den Fällen des
+    Satzes 3 um bis zu sechs Monate verlängert werden. Die zuständige
+    Behörde teilt in den Fällen des Absatzes 2 der einheitlichen Stelle,
+    andernfalls dem Träger des Vorhabens die außergewöhnlichen Umstände
+    mit, die die jeweilige Verlängerung der Frist nach den Sätzen 2 bis 4
+    rechtfertigen. Weitergehende bestehende Rechtsvorschriften der Länder,
+    die kürzere Fristen vorsehen, bleiben unberührt. Die Fristen nach Satz
+    1 Nummer 5 Buchstabe c und Nummer 6 Buchstabe c werden nach einem
+    Erfahrungszeitraum von fünf Jahren im Hinblick auf die Zielerreichung
+    der Beschleunigung der Zulassungsverfahren sowie unter Einbeziehung
+    der wissenschaftlichen Ergebnisse laufender und neuer
+    Forschungsvorhaben zu den gewässerökologischen und
+    naturschutzfachlichen Auswirkungen evaluiert.
+
+
+
+
+(8) Ist für die Errichtung und für den Betrieb einer Anlage zur
+Gewinnung oder Speicherung von Erdwärme ein bergrechtlicher
+Betriebsplan erforderlich, gilt für die Erteilung der Erlaubnis oder
+Bewilligung § 57e Absatz 2 Satz 2, Absatz 5 und 6 des
+Bundesberggesetzes entsprechend.
+
+
+#### § 11b Projektmanager
+
+(1) Bei Vorhaben nach § 11a kann die zuständige Behörde auf Antrag
+oder mit Zustimmung des Trägers des Vorhabens und auf dessen Kosten in
+jeder Stufe des Verfahrens einen Dritten als Projektmanager, der als
+Verwaltungshelfer beschäftigt werden kann, mit der Vorbereitung und
+Durchführung von Verfahrensschritten beauftragen. Dies kann
+insbesondere folgende Verfahrensschritte umfassen:
+
+1.  die Erstellung von Verfahrensleitplänen unter Bestimmung von
+    Verfahrensabschnitten und Zwischenterminen,
+
+
+2.  die Fristenkontrolle,
+
+
+3.  die Koordinierung von erforderlichen Sachverständigengutachten,
+
+
+4.  das Qualitätsmanagement der Anträge und Unterlagen der Vorhabenträger,
+
+
+5.  bei Bewilligungsverfahren eine erste Auswertung der eingereichten
+    Stellungnahmen,
+
+
+6.  den Entwurf der Niederschrift über den Erörterungstermin,
+
+
+7.  den Entwurf der Zulassungsentscheidung sowie
+
+
+8.  die Prüfung der Vollständigkeit der Unterlagen.
+
+
+
+
+(2) Die Entscheidung über die Zulassung des Vorhabens trifft allein
+die zuständige Behörde.
+
+(3) Stimmt der Vorhabenträger zu, kann die zuständige Behörde bei der
+Beauftragung des Projektmanagers mit diesem vereinbaren, dass die
+Zahlungspflicht unmittelbar zwischen Vorhabenträger und Projektmanager
+entsteht und eine Abrechnung zwischen diesen erfolgt. Der
+Projektmanager ist verpflichtet, die Abrechnungsunterlagen ebenfalls
+der zuständigen Behörde zu übermitteln. Die zuständige Behörde prüft,
+ob die vom Projektmanager abgerechneten Leistungen dem jeweiligen
+Auftrag entsprechen, und teilt dem Vorhabenträger das Ergebnis dieser
+Prüfung unverzüglich mit.
 
 
 #### § 12 Voraussetzungen für die Erteilung der Erlaubnis und der Bewilligung, Bewirtschaftungsermessen
@@ -1884,7 +2093,7 @@ Einzelfall zu einer unbilligen Härte führt. Die Befreiung kann aus
 Gründen des Wohls der Allgemeinheit auch nachträglich mit
 Nebenbestimmungen versehen werden, insbesondere um zu gewährleisten,
 dass der Gewässerrandstreifen die in Absatz 1 genannten Funktionen
-erfüllt. Für die Erteilung der Befreiung gilt § 11a Absatz 4 und 5
+erfüllt. Für die Erteilung der Befreiung gilt § 11a Absatz 4 bis 7
 entsprechend, wenn die Befreiung für ein Vorhaben zur Erzeugung von
 Energie aus erneuerbaren Quellen erforderlich ist.
 
@@ -2531,9 +2740,10 @@ Vorschriften in diesem Bereich zu regeln.
 (1) Keiner Erlaubnis oder Bewilligung bedarf das Entnehmen,
 Zutagefördern, Zutageleiten oder Ableiten von Grundwasser
 
-1.  für den Haushalt, für den landwirtschaftlichen Hofbetrieb, für das
-    Tränken von Vieh außerhalb des Hofbetriebs oder in geringen Mengen zu
-    einem vorübergehenden Zweck,
+1.  für den Haushalt einschließlich der Wärmeversorgung über den Entzug
+    von Wärme aus dem Wasser, für den landwirtschaftlichen Hofbetrieb, für
+    das Tränken von Vieh außerhalb des Hofbetriebs oder in geringen Mengen
+    zu einem vorübergehenden Zweck,
 
 
 2.  für Zwecke der gewöhnlichen Bodenentwässerung landwirtschaftlich,
@@ -2618,9 +2828,20 @@ Behörde einen Monat vor Beginn der Arbeiten anzuzeigen. Werden bei
 diesen Arbeiten Stoffe in das Grundwasser eingebracht, ist abweichend
 von § 8 Absatz 1 in Verbindung mit § 9 Absatz 1 Nummer 4 anstelle der
 Anzeige eine Erlaubnis nur erforderlich, wenn sich das Einbringen
-nachteilig auf die Grundwasserbeschaffenheit auswirken kann. Die
-zuständige Behörde kann für bestimmte Gebiete die Tiefe nach Satz 1
-näher bestimmen.
+nachteilig auf die Grundwasserbeschaffenheit auswirken kann. Bei der
+Errichtung, dem Betrieb und der Modernisierung von Erdwärmekollektoren
+bis zu einer Tiefe von 4 Metern und außerhalb von Wasserschutzgebieten
+ist davon auszugehen, dass die Erdwärmekollektoren keine nachteiligen
+Auswirkungen auf die Grundwasserbeschaffenheit gemäß Satz 2 haben,
+wenn sie oder ihre Anlagenteile die Anforderungen nach § 35 Absatz 2
+der Verordnung über Anlagen zum Umgang mit wassergefährdenden Stoffen
+vom 18. April 2017 (BGBl. I S. 905), die durch Artikel 256 der
+Verordnung vom 19. Juni 2020 (BGBl. I S. 1328) geändert worden ist,
+erfüllen. Die Vermutung nach Satz 3 gilt nicht, wenn auf Grund der
+räumlichen Konzentration der Anlagen in einem Gebiet eine nachteilige
+thermische Wirkung auf das Grundwasser zu besorgen ist. Die zuständige
+Behörde kann für bestimmte Gebiete die Tiefe nach Satz 1 näher
+bestimmen.
 
 (2) Wird unbeabsichtigt Grundwasser erschlossen, ist dies der
 zuständigen Behörde unverzüglich anzuzeigen.
@@ -2818,7 +3039,7 @@ Wohls der Allgemeinheit dies erfordern. Sie hat eine Befreiung zu
 erteilen, soweit dies zur Vermeidung unzumutbarer Beschränkungen des
 Eigentums erforderlich ist und hierdurch der Schutzzweck nicht
 gefährdet wird. Für die Erteilung der Befreiung gilt § 11a Absatz 4
-und 5 entsprechend, wenn die Befreiung für ein Vorhaben zur Erzeugung
+bis 7 entsprechend, wenn die Befreiung für ein Vorhaben zur Erzeugung
 von Energie aus erneuerbaren Quellen erforderlich ist.
 
 (2) In einem als Wasserschutzgebiet vorgesehenen Gebiet können
@@ -3439,22 +3660,29 @@ wenn ihre Eignung von der zuständigen Behörde festgestellt worden ist.
 
 (4) Folgende Anlagenteile gelten als geeignet:
 
-1.  Bauprodukte im Sinne von Artikel 2 Nummer 1 und 2 der Verordnung (EU)
-    Nr. 305/2011 des Europäischen Parlaments und des Rates vom 9. März
-    2011 zur Festlegung harmonisierter Bedingungen für die Vermarktung von
-    Bauprodukten und zur Aufhebung der Richtlinie 89/106/EWG des Rates
-    (ABl. L 88 vom 4.4.2011, S. 5), wenn
+1.  Bauprodukte im Sinne des Artikels 2 Nummer 1 und 2 der Verordnung (EU)
+    Nr. 305/2011 und Bauprodukte im Sinne des Artikels 3 Nummer 1 der
+    Verordnung (EU) 2024/3110, wenn
 
-    a)  die Bauprodukte von einer harmonisierten Norm im Sinne von Artikel 2
-        Nummer 11 der Verordnung (EU) Nr. 305/2011 erfasst sind oder einer
-        Europäischen Technischen Bewertung im Sinne von Artikel 2 Nummer 13
-        der Verordnung (EU) Nr. 305/2011 entsprechen und die CE-Kennzeichnung
-        angebracht wurde und
+    a)  die Bauprodukte von einer harmonisierten Norm im Sinne des Artikels 2
+        Nummer 11 der Verordnung (EU) Nr. 305/2011 oder einer harmonisierten
+        technischen Spezifikation im Sinne des Artikels 3 Nummer 42 der
+        Verordnung (EU) 2024/3110 erfasst sind oder einer europäischen
+        technischen Bewertung im Sinne des Artikels 2 Nummer 13 der Verordnung
+        (EU) Nr. 305/2011 oder des Artikels 3 Nummer 19 der Verordnung (EU)
+        2024/3110 entsprechen und
 
 
-    b)  die erklärten Leistungen alle wesentlichen Merkmale der harmonisierten
-        Norm oder der Europäischen Technischen Bewertung umfassen, die dem
-        Gewässerschutz dienen,
+    b)  die CE-Kennzeichnung angebracht wurde und
+
+
+    c)  die erklärten Leistungen alle wesentlichen dem Gewässerschutz
+        dienenden Merkmale einer harmonisierten Norm im Sinne des Artikels 2
+        Nummer 11 der Verordnung (EU) Nr. 305/2011, einer harmonisierten
+        technischen Spezifikation im Sinne der Verordnung (EU) 2024/3110 oder
+        einer europäischen technischen Bewertung im Sinne des Artikels 2
+        Nummer 13 der Verordnung (EU) Nr. 305/2011 oder des Artikels 3 Nummer
+        19 der Verordnung (EU) 2024/3110 umfassen,
 
 
 
@@ -3705,12 +3933,21 @@ Plangenehmigungsverfahren nach § 68.
 
 (1) Für die Planfeststellung und die Plangenehmigung gelten § 13
 Absatz 1 und § 14 Absatz 3 bis 6 entsprechend; im Übrigen gelten die
-§§ 72 bis 78 des Verwaltungsverfahrensgesetzes. Für die Erteilung von
+§§ 72 bis 78 des Verwaltungsverfahrensgesetzes. § 11a Absatz 1 Satz 2
+und Absatz 2 bis 7 gilt entsprechend für die Erteilung von
 Planfeststellungen und Plangenehmigungen im Zusammenhang mit der
-Errichtung, dem Betrieb und der Modernisierung von Anlagen zur Nutzung
-von Wasserkraft, ausgenommen Pumpspeicherkraftwerke, gilt § 11a Absatz
-1 Satz 2 und Absatz 2 bis 5 entsprechend; die §§ 71a bis 71e des
-Verwaltungsverfahrensgesetzes sind anzuwenden.
+Errichtung, dem Betrieb und der Modernisierung von
+
+1.  Anlagen zur Nutzung von Wasserkraft, ausgenommen
+    Pumpspeicherkraftwerke, und
+
+
+2.  Wärmepumpen, die das Wasser eines oberirdischen Gewässers als
+    Wärmequelle nutzen;
+
+
+
+die §§ 71a bis 71e des Verwaltungsverfahrensgesetzes sind anzuwenden.
 
 (2) Das Planfeststellungsverfahren für einen Gewässerausbau, für den
 nach dem Gesetz über die Umweltverträglichkeitsprüfung eine
@@ -4214,7 +4451,7 @@ genehmigen, wenn
 
 Bei der Prüfung der Voraussetzungen des Satzes 1 sind auch die
 Auswirkungen auf die Nachbarschaft zu berücksichtigen. Für die
-Erteilung der Genehmigung gilt § 11a Absatz 4 und 5 entsprechend, wenn
+Erteilung der Genehmigung gilt § 11a Absatz 4 bis 7 entsprechend, wenn
 es sich um eine Anlage zur Erzeugung von Energie aus erneuerbaren
 Quellen handelt.
 
@@ -5546,12 +5783,13 @@ genannten Anforderungen ab dem 7. Juli 2015 zu erfüllen.
 
 ### § 108 Übergangsbestimmung für Verfahren zur Zulassung von Vorhaben zur Erzeugung von Energie aus erneuerbaren Quellen
 
-Wurde vor dem 31. August 2021 ein Zulassungs- oder Befreiungsverfahren
-eingeleitet, auf das die Vorschriften des § 11a, auch in Verbindung
-mit § 38 Absatz 5 Satz 3, § 52 Absatz 1 Satz 4, § 70 Absatz 1 Satz 2
-oder § 78 Absatz 5 Satz 3 Anwendung fänden, so führt die zuständige
-Behörde dieses Verfahren nach dem vor dem 31. August 2021 geltenden
-Recht fort.
+Wurde vor dem 15. August 2025 ein Zulassungs- oder ein
+Befreiungsverfahren eingeleitet, auf das die Vorschriften des § 11a,
+auch in Verbindung mit § 38 Absatz 5 Satz 3, § 52 Absatz 1 Satz 4, §
+70 Absatz 1 Satz 2 oder § 78 Absatz 5 Satz 3 in ihrer jeweils ab dem
+15\. August 2025 geltenden Fassung anzuwenden wären, so führt die
+zuständige Behörde dieses Verfahren nach dem vor dem 15. August 2025
+geltenden Recht fort.
 
 (zu § 3 Nummer 11)
 

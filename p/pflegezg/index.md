@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2008, 874, 896
 
 Zuletzt geändert durch
-:   Art. 2 G v. 19.12.2022 I 2510
+:   Art. 4 G v. 22.12.2025 I Nr. 371
 
 
 ## § 1 Ziel des Gesetzes
@@ -37,8 +37,9 @@ pflegerische Versorgung in dieser Zeit sicherzustellen.
 (2) Beschäftigte sind verpflichtet, dem Arbeitgeber ihre Verhinderung
 an der Arbeitsleistung und deren voraussichtliche Dauer unverzüglich
 mitzuteilen. Dem Arbeitgeber ist auf Verlangen eine ärztliche
-Bescheinigung über die Pflegebedürftigkeit des nahen Angehörigen und
-die Erforderlichkeit der in Absatz 1 genannten Maßnahmen vorzulegen.
+Bescheinigung oder eine Bescheinigung einer Pflegefachperson über die
+Pflegebedürftigkeit des nahen Angehörigen und die Erforderlichkeit der
+in Absatz 1 genannten Maßnahmen vorzulegen.
 
 (3) Der Arbeitgeber ist zur Fortzahlung der Vergütung nur
 verpflichtet, soweit sich eine solche Verpflichtung aus anderen
@@ -63,7 +64,7 @@ der privaten Pflege-Pflichtversicherung versicherten Pflegebedürftigen
 ist ein entsprechender Nachweis zu erbringen.
 
 (3) Wer Pflegezeit beanspruchen will, muss dies dem Arbeitgeber
-spätestens zehn Arbeitstage vor Beginn schriftlich ankündigen und
+spätestens zehn Arbeitstage vor Beginn in Textform ankündigen und
 gleichzeitig erklären, für welchen Zeitraum und in welchem Umfang die
 Freistellung von der Arbeitsleistung in Anspruch genommen werden soll.
 Wenn nur teilweise Freistellung in Anspruch genommen wird, ist auch
@@ -89,7 +90,7 @@ Familienpflegezeitgesetzes in Anspruch genommen, ist die Pflegezeit in
 unmittelbarem Anschluss an die Familienpflegezeit oder die
 Freistellung nach § 2 Absatz 5 des Familienpflegezeitgesetzes zu
 beanspruchen; sie ist abweichend von Satz 1 dem Arbeitgeber spätestens
-acht Wochen vor Beginn schriftlich anzukündigen.
+acht Wochen vor Beginn in Textform anzukündigen.
 
 (4) Wenn nur teilweise Freistellung in Anspruch genommen wird, haben
 Arbeitgeber und Beschäftigte über die Verringerung und die Verteilung

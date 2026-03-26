@@ -107,7 +107,7 @@ Auswahlverfahren zuzulassen, wie Ausbildungsplätze angeboten werden.
 In diesem Fall werden zunächst schwerbehinderte und diesen
 gleichgestellte behinderte Menschen sowie ehemalige Soldatinnen auf
 Zeit und ehemalige Soldaten auf Zeit mit Eingliederungs- oder
-Zulassungsschein nach § 9 des Soldatenversorgungsgesetzes zum
+Zulassungsschein nach § 13 des Soldatenversorgungsgesetzes zum
 Auswahlverfahren zugelassen; sodann wird zugelassen, wer nach den
 eingereichten Unterlagen, insbesondere nach den für die Ausbildung
 relevanten Zeugnisnoten, am besten geeignet ist.

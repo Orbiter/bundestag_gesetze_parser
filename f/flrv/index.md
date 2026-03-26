@@ -277,8 +277,6 @@ zu stellen.
 (2) Absatz 1 gilt entsprechend für den Verzicht des Berechtigten auf
 die Befugnis.
 
-(3)
-
 
 #### § 8
 

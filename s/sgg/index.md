@@ -19,7 +19,19 @@ Neugefasst durch
 :   Bek. v. 23.9.1975 I 2535;
 
 Zuletzt geändert durch
-:   Art. 3 G v. 22.3.2024 I Nr. 105
+:   Art. 30 G v. 8.12.2025 I Nr. 319
+
+Mittelbare änderung durch
+:   Art. 37 G v. 8.12.2025 I Nr. 319 ist berücksichtigt
+
+Mittelbare änderung durch
+:   Art. 38 G v. 8.12.2025 I Nr. 319 ist berücksichtigt
+
+Änderung durch
+:   Art. 13 G v. 22.12.2025 I Nr. 349 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 14 G v. 22.12.2025 I Nr. 349 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Mittelbare änderung durch
 :   Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war
@@ -149,10 +161,11 @@ Aufgaben der Bundesagentur für Arbeit, für Angelegenheiten der
 Grundsicherung für Arbeitsuchende, für Angelegenheiten der Sozialhilfe
 einschließlich der Angelegenheiten nach Teil 2 des Neunten Buches
 Sozialgesetzbuch und des Asylbewerberleistungsgesetzes sowie für
-Angelegenheiten des sozialen Entschädigungsrechts und des
-Schwerbehindertenrechts gebildet. Für Angelegenheiten der
-Knappschaftsversicherung einschließlich der Unfallversicherung für den
-Bergbau können eigene Kammern gebildet werden.
+Angelegenheiten des Sozialen Entschädigungsrechts, des
+Soldatenentschädigungsrechts und des Schwerbehindertenrechts gebildet.
+Für Angelegenheiten der Knappschaftsversicherung einschließlich der
+Unfallversicherung für den Bergbau können eigene Kammern gebildet
+werden.
 
 (2) Für Streitigkeiten aufgrund der Beziehungen zwischen Krankenkassen
 und Vertragsärzten, Psychotherapeuten, Vertragszahnärzten
@@ -200,9 +213,10 @@ bildenden Ausschuss auf Lebenszeit ernannt.
 (2) Der Ausschuss ist von der nach Landesrecht zuständigen Stelle zu
 errichten. Ihm sollen in angemessenem Verhältnis Vertreter der
 Versicherten, der Arbeitgeber, der Berechtigten nach dem Vierzehnten
-Buch Sozialgesetzbuch und der mit dem sozialen Entschädigungsrecht
-oder dem Recht der Teilhabe von Menschen mit Behinderungen vertrauten
-Personen sowie der Sozialgerichtsbarkeit angehören.
+Buch Sozialgesetzbuch und der mit dem Sozialen Entschädigungsrecht,
+dem Soldatenentschädigungsrecht oder dem Recht der Teilhabe von
+Menschen mit Behinderungen vertrauten Personen sowie der
+Sozialgerichtsbarkeit angehören.
 
 (3) Bei den Sozialgerichten können Richter auf Probe und Richter kraft
 Auftrags verwendet werden.
@@ -247,10 +261,12 @@ Entschädigungsrechts und des Schwerbehindertenrechts wirken je ein
 ehrenamtlicher Richter aus dem Kreis der mit dem Sozialen
 Entschädigungsrecht oder dem Recht der Teilhabe von Menschen mit
 Behinderungen vertrauten Personen und dem Kreis der Berechtigten nach
-dem Vierzehnten Buch Sozialgesetzbuch, der Menschen mit Behinderungen
-im Sinne des Neunten Buches Sozialgesetzbuch und der Versicherten mit;
-dabei sollen Hinterbliebene von Berechtigten nach dem Vierzehnten Buch
-Sozialgesetzbuch in angemessener Zahl beteiligt werden.
+dem Vierzehnten Buch Sozialgesetzbuch und der Berechtigten nach dem
+Soldatenentschädigungsgesetz, der Menschen mit Behinderungen im Sinne
+des Neunten Buches Sozialgesetzbuch und der Versicherten mit; dabei
+sollen Hinterbliebene von Berechtigten nach dem Vierzehnten Buch
+Sozialgesetzbuch und der Berechtigten nach dem
+Soldatenentschädigungsgesetz in angemessener Zahl beteiligt werden.
 
 (5) In den Kammern für Angelegenheiten der Sozialhilfe einschließlich
 der Angelegenheiten nach Teil 2 des Neunten Buches Sozialgesetzbuch
@@ -299,8 +315,9 @@ der einzelnen Versicherungszweige Rücksicht zu nehmen.
 Sozialen Entschädigungsrechts und des Schwerbehindertenrechts sind in
 angemessenem Verhältnis zu der Zahl der von den Vorschlagsberechtigten
 vertretenen Berechtigten nach dem Vierzehnten Buch Sozialgesetzbuch,
-der Menschen mit Behinderungen im Sinne des Neunten Buches
-Sozialgesetzbuch und der Versicherten zu berufen.
+der Berechtigten nach dem Soldatenentschädigungsgesetz, der Menschen
+mit Behinderungen im Sinne des Neunten Buches Sozialgesetzbuch und der
+Versicherten zu berufen.
 
 
 #### § 14
@@ -329,12 +346,13 @@ Entschädigungsrechts und des Schwerbehindertenrechts werden die
 Vorschlagslisten für die mit dem Sozialen Entschädigungsrecht oder dem
 Recht der Teilhabe von Menschen mit Behinderungen vertrauten Personen
 von den Stellen aufgestellt, die für die Durchführung des Vierzehnten
-Buches Sozialgesetzbuch oder des Rechts der Teilhabe von Menschen mit
-Behinderungen zuständig sind oder denen nach Maßgabe des Landesrechts
-deren Aufgaben übertragen worden sind. Die Vorschlagslisten für die
-Berechtigten nach dem Vierzehnten Buch Sozialgesetzbuch, die Menschen
-mit Behinderungen und die Versicherten werden aufgestellt von den im
-Gerichtsbezirk vertretenen Vereinigungen, deren satzungsgemäße
+Buches Sozialgesetzbuch, des Soldatenentschädigungsgesetzes oder des
+Rechts der Teilhabe von Menschen mit Behinderungen zuständig sind oder
+denen nach Maßgabe des Landesrechts deren Aufgaben übertragen worden
+sind. Die Vorschlagslisten für die Berechtigten nach dem Vierzehnten
+Buch Sozialgesetzbuch und nach dem Soldatenentschädigungsgesetz, die
+Menschen mit Behinderungen und die Versicherten werden aufgestellt von
+den im Gerichtsbezirk vertretenen Vereinigungen, deren satzungsgemäße
 Aufgaben die gemeinschaftliche Interessenvertretung, die Beratung und
 Vertretung der Leistungsempfänger nach dem Sozialen
 Entschädigungsrecht oder der Menschen mit Behinderungen wesentlich
@@ -415,8 +433,8 @@ Beschäftigungsverhältnis nach Satz 1 Nummer 3, 4 oder 5.
 Bevölkerung in der Seeschiffahrt beschäftigt sind, können
 ehrenamtliche Richter aus dem Kreis der Versicherten auch befahrene
 Schiffahrtskundige sein, die nicht Reeder, Reedereileiter
-(Korrespondentreeder, §§ 492 bis 499 des Handelsgesetzbuchs) oder
-Bevollmächtigte sind.
+(Korrespondentreeder, §§ 492 bis 499 des Handelsgesetzbuchs in der bis
+zum 24. April 2013 geltenden Fassung) oder Bevollmächtigte sind.
 
 (6) Die ehrenamtlichen Richter sollen im Bezirk des Sozialgerichts
 wohnen oder ihren Betriebssitz haben oder beschäftigt sein.
@@ -772,11 +790,12 @@ der Sozialversicherung, der Arbeitsförderung einschließlich der
 Grundsicherung für Arbeitsuchende, für Angelegenheiten der Sozialhilfe
 einschließlich der Angelegenheiten nach Teil 2 des Neunten Buches
 Sozialgesetzbuch und des Asylbewerberleistungsgesetzes sowie für
-Angelegenheiten des Sozialen Entschädigungsrechts und des
-Schwerbehindertenrechts gebildet. Für Angelegenheiten der
-Knappschaftsversicherung einschließlich der Unfallversicherung für den
-Bergbau sowie für Verfahren wegen eines überlangen Gerichtsverfahrens
-(§ 202 Satz 2) kann jeweils ein eigener Senat gebildet werden.
+Angelegenheiten des Sozialen Entschädigungsrechts, des
+Soldatenentschädigungsrechts und des Schwerbehindertenrechts gebildet.
+Für Angelegenheiten der Knappschaftsversicherung einschließlich der
+Unfallversicherung für den Bergbau sowie für Verfahren wegen eines
+überlangen Gerichtsverfahrens (§ 202 Satz 2) kann jeweils ein eigener
+Senat gebildet werden.
 
 (2) Für die Angelegenheiten des Vertragsarztrechts und für
 Antragsverfahren nach § 55a ist jeweils ein eigener Senat zu bilden.
@@ -904,20 +923,20 @@ und dem Kreis der Arbeitgeber sowie je einem ehrenamtlichen Richter
 aus dem Kreis der mit dem sozialen Entschädigungsrecht oder dem Recht
 der Teilhabe von Menschen mit Behinderungen vertrauten Personen und
 dem Kreis der Berechtigten nach dem Vierzehnten Buch Sozialgesetzbuch
-und Menschen mit Behinderungen im Sinne des Neunten Buches
-Sozialgesetzbuch. Legt der Senat für Angelegenheiten des
-Vertragsarztrechts vor oder soll von dessen Entscheidung abgewichen
-werden, gehören dem Großen Senat außerdem je ein ehrenamtlicher
-Richter aus dem Kreis der Krankenkassen und dem Kreis der
-Vertragsärzte, Vertragszahnärzte und Psychotherapeuten an. Legt der
-Senat für Angelegenheiten des § 51 Abs. 1 Nr. 6a vor oder soll von
+und nach dem Soldatenentschädigungsgesetz und Menschen mit
+Behinderungen im Sinne des Neunten Buches Sozialgesetzbuch. Legt der
+Senat für Angelegenheiten des Vertragsarztrechts vor oder soll von
 dessen Entscheidung abgewichen werden, gehören dem Großen Senat
-außerdem zwei ehrenamtliche Richter aus dem Kreis der von der
-Bundesvereinigung der kommunalen Spitzenverbände Vorgeschlagenen an.
-Sind Senate personengleich besetzt, wird aus ihnen nur ein
-Berufsrichter bestellt; er hat nur eine Stimme. Bei einer Verhinderung
-des Präsidenten tritt ein Berufsrichter des Senats, dem er angehört,
-an seine Stelle.
+außerdem je ein ehrenamtlicher Richter aus dem Kreis der Krankenkassen
+und dem Kreis der Vertragsärzte, Vertragszahnärzte und
+Psychotherapeuten an. Legt der Senat für Angelegenheiten des § 51 Abs.
+1 Nr. 6a vor oder soll von dessen Entscheidung abgewichen werden,
+gehören dem Großen Senat außerdem zwei ehrenamtliche Richter aus dem
+Kreis der von der Bundesvereinigung der kommunalen Spitzenverbände
+Vorgeschlagenen an. Sind Senate personengleich besetzt, wird aus ihnen
+nur ein Berufsrichter bestellt; er hat nur eine Stimme. Bei einer
+Verhinderung des Präsidenten tritt ein Berufsrichter des Senats, dem
+er angehört, an seine Stelle.
 
 (6) Die Mitglieder und die Vertreter werden durch das Präsidium für
 ein Geschäftsjahr bestellt. Den Vorsitz im Großen Senat führt der
@@ -1068,7 +1087,7 @@ ehrenamtlichen Richter beschließt.
 8.  die aufgrund des Aufwendungsausgleichsgesetzes entstehen,
 
 
-9.  (weggefallen)
+9.  in Angelegenheiten des Soldatenentschädigungsgesetzes,
 
 
 10. für die durch Gesetz der Rechtsweg vor diesen Gerichten eröffnet wird.
@@ -1146,7 +1165,8 @@ Verwaltungsakt nicht zu ergehen hatte.
 
 3.  die Feststellung, ob eine Gesundheitsstörung oder der Tod die Folge
     eines Arbeitsunfalls, einer Berufskrankheit oder einer Schädigung im
-    Sinne des Vierzehnten Buches Sozialgesetzbuch ist,
+    Sinne des Vierzehnten Buches Sozialgesetzbuch oder des
+    Soldatenentschädigungsgesetzes ist,
 
 
 4.  die Feststellung der Nichtigkeit eines Verwaltungsakts,
@@ -1233,10 +1253,10 @@ Beschäftigungsort zuständigen Sozialgericht klagen. Klagt eine
 Körperschaft oder Anstalt des öffentlichen Rechts, in Angelegenheiten
 nach dem Elften Buch Sozialgesetzbuch ein Unternehmen der privaten
 Pflegeversicherung oder in Angelegenheiten des Sozialen
-Entschädigungsrechts oder des Schwerbehindertenrechts ein Land, so ist
-der Sitz oder Wohnsitz oder Aufenthaltsort des Beklagten maßgebend,
-wenn dieser eine natürliche Person oder eine juristische Person des
-Privatrechts ist.
+Entschädigungsrechts, des Soldatenentschädigungsrechts oder des
+Schwerbehindertenrechts ein Land, so ist der Sitz oder Wohnsitz oder
+Aufenthaltsort des Beklagten maßgebend, wenn dieser eine natürliche
+Person oder eine juristische Person des Privatrechts ist.
 
 (2) Ist die erstmalige Bewilligung einer Hinterbliebenenrente
 streitig, so ist der Wohnsitz oder in Ermangelung dessen der
@@ -1387,10 +1407,17 @@ Interessen durch das Verfahren unmittelbar berührt werden.
 
 (1) Für die Öffentlichkeit, Sitzungspolizei und Gerichtssprache gelten
 die §§ 169, 171b bis 191a des Gerichtsverfassungsgesetzes
-entsprechend.
+entsprechend. Abweichend von Satz 1 ist § 185 Absatz 1a des
+Gerichtsverfassungsgesetzes mit der Maßgabe anzuwenden, dass das
+Gericht dem Dolmetscher die Teilnahme an der Verhandlung, Anhörung
+oder Vernehmung per Bild- und Tonübertragung gestatten kann.
 
 (2) Für die Beratung und Abstimmung gelten die §§ 192 bis 197 des
-Gerichtsverfassungsgesetzes entsprechend.
+Gerichtsverfassungsgesetzes entsprechend. Abweichend von Satz 1 findet
+§ 193 Absatz 1 des Gerichtsverfassungsgesetzes keine Anwendung für die
+erstmalige gemeinsame Beratung und Abstimmung mit den ehrenamtlichen
+Richterinnen und Richtern bei einer Entscheidung aufgrund mündlicher
+Verhandlung.
 
 
 ##### § 62
@@ -1445,62 +1472,65 @@ der vorigen Frist an berechnet.
 (1) Vorbereitende Schriftsätze und deren Anlagen, schriftlich
 einzureichende Anträge und Erklärungen der Beteiligten sowie
 schriftlich einzureichende Auskünfte, Aussagen, Gutachten,
-Übersetzungen und Erklärungen Dritter können nach Maßgabe der Absätze
-2 bis 6 als elektronische Dokumente bei Gericht eingereicht werden.
+Übersetzungen, Anträge und Erklärungen Dritter können nach Maßgabe der
+Absätze 2 bis 6 als elektronische Dokumente bei Gericht eingereicht
+werden.
 
 (2) Das elektronische Dokument muss für die Bearbeitung durch das
 Gericht geeignet sein. Die Bundesregierung bestimmt durch
 Rechtsverordnung mit Zustimmung des Bundesrates technische
 Rahmenbedingungen für die Übermittlung und die Eignung zur Bearbeitung
-durch das Gericht.
+durch das Gericht sowie das Nähere zur Verarbeitung von Daten der
+Postfachinhaber nach Absatz 4 Satz 1 Nummer 3 und 4 in einem sicheren
+elektronischen Verzeichnis.
 
 (3) Das elektronische Dokument muss mit einer qualifizierten
 elektronischen Signatur der verantwortenden Person versehen sein oder
 von der verantwortenden Person signiert und auf einem sicheren
 Übermittlungsweg eingereicht werden. Satz 1 gilt nicht für Anlagen,
-die vorbereitenden Schriftsätzen beigefügt sind.
+die vorbereitenden Schriftsätzen beigefügt sind. Soll ein schriftlich
+einzureichender Antrag oder eine schriftlich einzureichende Erklärung
+eines Beteiligten oder eines Dritten als elektronisches Dokument
+eingereicht werden, so kann der unterschriebene Antrag oder die
+unterschriebene Erklärung in ein elektronisches Dokument übertragen
+und durch den Bevollmächtigten, den Vertreter oder den Beistand nach
+Satz 1 übermittelt werden.
 
 (4) Sichere Übermittlungswege sind
 
-1.  der Postfach- und Versanddienst eines De-Mail-Kontos, wenn der
-    Absender bei Versand der Nachricht sicher im Sinne des § 4 Absatz 1
-    Satz 2 des De-Mail-Gesetzes angemeldet ist und er sich die sichere
-    Anmeldung gemäß § 5 Absatz 5 des De-Mail-Gesetzes bestätigen lässt,
-
-
-2.  der Übermittlungsweg zwischen den besonderen elektronischen
+1.  der Übermittlungsweg zwischen den besonderen elektronischen
     Anwaltspostfächern nach den §§ 31a und 31b der
     Bundesrechtsanwaltsordnung oder einem entsprechenden, auf gesetzlicher
     Grundlage errichteten elektronischen Postfach und der elektronischen
     Poststelle des Gerichts,
 
 
-3.  der Übermittlungsweg zwischen einem nach Durchführung eines
+2.  der Übermittlungsweg zwischen einem nach Durchführung eines
     Identifizierungsverfahrens eingerichteten Postfach einer Behörde oder
     einer juristischen Person des öffentlichen Rechts und der
     elektronischen Poststelle des Gerichts,
 
 
-4.  der Übermittlungsweg zwischen einem nach Durchführung eines
+3.  der Übermittlungsweg zwischen einem nach Durchführung eines
     Identifizierungsverfahrens eingerichteten elektronischen Postfach
     einer natürlichen oder juristischen Person oder einer sonstigen
     Vereinigung und der elektronischen Poststelle des Gerichts,
 
 
-5.  der Übermittlungsweg zwischen einem nach Durchführung eines
+4.  der Übermittlungsweg zwischen einem nach Durchführung eines
     Identifizierungsverfahrens genutzten Postfach- und Versanddienst eines
     Nutzerkontos im Sinne des § 2 Absatz 5 des Onlinezugangsgesetzes und
     der elektronischen Poststelle des Gerichts,
 
 
-6.  sonstige bundeseinheitliche Übermittlungswege, die durch
+5.  sonstige bundeseinheitliche Übermittlungswege, die durch
     Rechtsverordnung der Bundesregierung mit Zustimmung des Bundesrates
     festgelegt werden, bei denen die Authentizität und Integrität der
     Daten sowie die Barrierefreiheit gewährleistet sind.
 
 
 
-Das Nähere zu den Übermittlungswegen gemäß Satz 1 Nummer 3 bis 5
+Das Nähere zu den Übermittlungswegen gemäß Satz 1 Nummer 2 bis 4
 regelt die Rechtsverordnung nach Absatz 2 Satz 2.
 
 (5) Ein elektronisches Dokument ist eingegangen, sobald es auf der für
@@ -1530,37 +1560,22 @@ gemäß § 65b Absatz 6 Satz 4 übertragen worden ist.
 
 ##### § 65b
 
-(1) Die Prozessakten können elektronisch geführt werden. Die
-Bundesregierung und die Landesregierungen bestimmen jeweils für ihren
-Bereich durch Rechtsverordnung den Zeitpunkt, von dem an die
-Prozessakten elektronisch geführt werden. In der Rechtsverordnung sind
-die organisatorisch-technischen Rahmenbedingungen für die Bildung,
-Führung und Verwahrung der elektronischen Akten festzulegen. Die
-Landesregierungen können die Ermächtigung auf die für die
+(1) Die Prozessakten werden elektronisch geführt. Die Bundesregierung
+und die Landesregierungen bestimmen jeweils für ihren Bereich durch
+Rechtsverordnung die organisatorischen und dem Stand der Technik
+entsprechenden technischen Rahmenbedingungen für die Bildung, Führung
+und Aufbewahrung der elektronischen Akten einschließlich der
+einzuhaltenden Anforderungen der Barrierefreiheit. Die
+Landesregierungen können die Ermächtigung nach Satz 2 auf die für die
 Sozialgerichtsbarkeit zuständigen obersten Landesbehörden übertragen.
-Die Zulassung der elektronischen Akte kann auf einzelne Gerichte oder
-Verfahren beschränkt werden; wird von dieser Möglichkeit Gebrauch
-gemacht, kann in der Rechtsverordnung bestimmt werden, dass durch
-Verwaltungsvorschrift, die öffentlich bekanntzumachen ist, geregelt
-wird, in welchen Verfahren die Prozessakten elektronisch zu führen
-sind. Die Rechtsverordnung der Bundesregierung bedarf nicht der
-Zustimmung des Bundesrates.
+Die Rechtsverordnung der Bundesregierung bedarf nicht der Zustimmung
+des Bundesrates.
 
-(1a) Die Prozessakten werden ab dem 1. Januar 2026 elektronisch
-geführt. Die Bundesregierung und die Landesregierungen bestimmen
-jeweils für ihren Bereich durch Rechtsverordnung die organisatorischen
-und dem Stand der Technik entsprechenden technischen Rahmenbedingungen
-für die Bildung, Führung und Verwahrung der elektronischen Akten
-einschließlich der einzuhaltenden Anforderungen der Barrierefreiheit.
-Die Bundesregierung und die Landesregierungen können jeweils für ihren
-Bereich durch Rechtsverordnung bestimmen, dass Akten, die in
-Papierform angelegt wurden, in Papierform weitergeführt werden. Die
-Landesregierungen können die Ermächtigungen nach den Sätzen 2 und 3
-auf die für die Sozialgerichtsbarkeit zuständigen obersten
-Landesbehörden übertragen. Die Rechtsverordnungen der Bundesregierung
-bedürfen nicht der Zustimmung des Bundesrates.
-
-(2) Werden die Akten in Papierform geführt, ist von einem
+(2) Akten, die in Papierform angelegt wurden, können in Papierform
+weitergeführt werden. Sie können ab einem bestimmten Stichtag oder
+Ereignis in elektronischer Form weitergeführt werden. Der Beginn der
+Weiterführung der Akten in elektronischer Form ist aktenkundig zu
+machen. Werden die Akten in Papierform geführt, ist von einem
 elektronischen Dokument ein Ausdruck für die Akten zu fertigen. Kann
 dies bei Anlagen zu vorbereitenden Schriftsätzen nicht oder nur mit
 unverhältnismäßigem Aufwand erfolgen, so kann ein Ausdruck
@@ -1606,6 +1621,10 @@ Papierform vorliegenden Schriftstücke und sonstigen Unterlagen können
 sechs Monate nach der Übertragung vernichtet werden, sofern sie nicht
 rückgabepflichtig sind.
 
+(7) Die Bundesregierung kann durch Rechtsverordnung mit Zustimmung des
+Bundesrates die für die Übermittlung elektronischer Akten zwischen
+Behörden und Gerichten geltenden Standards bestimmen.
+
 
 ##### § 65c Formulare; Verordnungsermächtigung
 
@@ -1623,7 +1642,7 @@ Personalausweisgesetzes, § 12 des eID-Karte-Gesetzes oder § 78 Absatz
 5 des Aufenthaltsgesetzes erfolgen kann.
 
 
-##### § 65d Nutzungspflicht für Rechtsanwälte, Behörden und vertretungsberechtigte Personen
+##### § 65d Nutzungspflicht für Rechtsanwälte, Behörden und vertretungsberechtigte Bevollmächtigte
 
 Vorbereitende Schriftsätze und deren Anlagen sowie schriftlich
 einzureichende Anträge und Erklärungen, die durch einen Rechtsanwalt,
@@ -1631,9 +1650,11 @@ durch eine Behörde oder durch eine juristische Person des öffentlichen
 Rechts einschließlich der von ihr zur Erfüllung ihrer öffentlichen
 Aufgaben gebildeten Zusammenschlüsse eingereicht werden, sind als
 elektronisches Dokument zu übermitteln. Gleiches gilt für die nach
-diesem Gesetz vertretungsberechtigten Personen, für die ein sicherer
-Übermittlungsweg nach § 65a Absatz 4 Satz 1 Nummer 2 zur Verfügung
-steht. Ist eine Übermittlung aus technischen Gründen vorübergehend
+diesem Gesetz vertretungsberechtigten Personen und Bevollmächtigten,
+für die ein sicherer Übermittlungsweg nach § 65a Absatz 4 Satz 1
+Nummer 1 oder 3 zur Verfügung steht; ausgenommen sind nach § 73 Absatz
+2 Satz 2 Nummer 1 Halbsatz 1 oder Nummer 2 vertretungsbefugte
+Personen. Ist eine Übermittlung aus technischen Gründen vorübergehend
 nicht möglich, bleibt die Übermittlung nach den allgemeinen
 Vorschriften zulässig. Die vorübergehende Unmöglichkeit ist bei der
 Ersatzeinreichung oder unverzüglich danach glaubhaft zu machen; auf
@@ -1815,11 +1836,11 @@ vertretungsbefugt nur
 
 8.  Vereinigungen, deren satzungsgemäße Aufgaben die gemeinschaftliche
     Interessenvertretung, die Beratung und Vertretung der
-    Leistungsempfänger nach dem Sozialen Entschädigungsrecht oder der
-    Menschen mit Behinderungen wesentlich umfassen und die unter
-    Berücksichtigung von Art und Umfang ihrer Tätigkeit sowie ihres
-    Mitgliederkreises die Gewähr für eine sachkundige Prozessvertretung
-    bieten, für ihre Mitglieder,
+    Leistungsempfänger nach dem Sozialen Entschädigungsrecht, dem
+    Soldatenentschädigungsrecht oder der Menschen mit Behinderungen
+    wesentlich umfassen und die unter Berücksichtigung von Art und Umfang
+    ihrer Tätigkeit sowie ihres Mitgliederkreises die Gewähr für eine
+    sachkundige Prozessvertretung bieten, für ihre Mitglieder,
 
 
 9.  juristische Personen, deren Anteile sämtlich im wirtschaftlichen
@@ -1895,16 +1916,16 @@ oder berichtigt wird.
 ##### § 73a
 
 (1) Die Vorschriften der Zivilprozeßordnung über die Prozeßkostenhilfe
-mit Ausnahme des § 127 Absatz 2 Satz 2 der Zivilprozeßordnung gelten
-entsprechend. Macht der Beteiligte, dem Prozeßkostenhilfe bewilligt
-ist, von seinem Recht, einen Rechtsanwalt zu wählen, nicht Gebrauch,
-wird auf Antrag des Beteiligten der beizuordnende Rechtsanwalt vom
-Gericht ausgewählt. Einem Beteiligten, dem Prozesskostenhilfe
-bewilligt worden ist, kann auch ein Steuerberater,
-Steuerbevollmächtigter, Wirtschaftsprüfer, vereidigter Buchprüfer oder
-Rentenberater beigeordnet werden. Die Vergütung richtet sich nach den
-für den beigeordneten Rechtsanwalt geltenden Vorschriften des
-Rechtsanwaltsvergütungsgesetzes.
+mit Ausnahme des § 118 Absatz 1 Satz 6 und des § 127 Absatz 2 Satz 2
+der Zivilprozessordnung gelten entsprechend. Macht der Beteiligte, dem
+Prozeßkostenhilfe bewilligt ist, von seinem Recht, einen Rechtsanwalt
+zu wählen, nicht Gebrauch, wird auf Antrag des Beteiligten der
+beizuordnende Rechtsanwalt vom Gericht ausgewählt. Einem Beteiligten,
+dem Prozesskostenhilfe bewilligt worden ist, kann auch ein
+Steuerberater, Steuerbevollmächtigter, Wirtschaftsprüfer, vereidigter
+Buchprüfer oder Rentenberater beigeordnet werden. Die Vergütung
+richtet sich nach den für den beigeordneten Rechtsanwalt geltenden
+Vorschriften des Rechtsanwaltsvergütungsgesetzes.
 
 (2) Prozeßkostenhilfe wird nicht bewilligt, wenn der Beteiligte durch
 einen Bevollmächtigten im Sinne des § 73 Abs. 2 Satz 2 Nr. 5 bis 9
@@ -1960,8 +1981,9 @@ und die Hauptintervention gelten entsprechend.
 
 (1) Das Gericht kann von Amts wegen oder auf Antrag andere, deren
 berechtigte Interessen durch die Entscheidung berührt werden,
-beiladen. In Angelegenheiten des Sozialen Entschädigungsrechts ist die
-Bundesrepublik Deutschland auf Antrag beizuladen.
+beiladen. In Angelegenheiten des Sozialen Entschädigungsrechts und des
+Soldatenentschädigungsrechts ist die Bundesrepublik Deutschland auf
+Antrag beizuladen.
 
 (2) Sind an dem streitigen Rechtsverhältnis Dritte derart beteiligt,
 daß die Entscheidung auch ihnen gegenüber nur einheitlich ergehen kann
@@ -2201,9 +2223,10 @@ sowie bei Verwaltungsakten mit Drittwirkung.
     Nebenkosten,
 
 
-2.  in Angelegenheiten des Sozialen Entschädigungsrechts und der
-    Bundesagentur für Arbeit bei Verwaltungsakten, die eine laufende
-    Leistung entziehen oder herabsetzen,
+2.  in Angelegenheiten des Sozialen Entschädigungsrechts, des
+    Soldatenentschädigungsrechts und der Bundesagentur für Arbeit bei
+    Verwaltungsakten, die eine laufende Leistung entziehen oder
+    herabsetzen,
 
 
 3.  für die Anfechtungsklage in Angelegenheiten der Sozialversicherung bei
@@ -2233,10 +2256,11 @@ angegriffenen Verwaltungsaktes bestehen oder wenn die Vollziehung für
 den Abgaben- oder Kostenpflichtigen eine unbillige, nicht durch
 überwiegende öffentliche Interessen gebotene Härte zur Folge hätte. In
 den Fällen des Absatzes 2 Nr. 2 ist in Angelegenheiten des Sozialen
-Entschädigungsrechts die nächsthöhere Behörde zuständig, es sei denn,
-diese ist eine oberste Bundes- oder eine oberste Landesbehörde. Die
-Entscheidung kann mit Auflagen versehen oder befristet werden. Die
-Stelle kann die Entscheidung jederzeit ändern oder aufheben.
+Entschädigungsrechts und des Soldatenentschädigungsrechts die
+nächsthöhere Behörde zuständig, es sei denn, diese ist eine oberste
+Bundes- oder eine oberste Landesbehörde. Die Entscheidung kann mit
+Auflagen versehen oder befristet werden. Die Stelle kann die
+Entscheidung jederzeit ändern oder aufheben.
 
 (4) Die aufschiebende Wirkung entfällt, wenn eine Erlaubnis nach
 Artikel 1 § 1 des Arbeitnehmerüberlassungsgesetzes in der Fassung der
@@ -2651,7 +2675,8 @@ von Amts wegen mitzuteilen.
 ##### § 109
 
 (1) Auf Antrag des Versicherten, des Menschen mit Behinderungen, des
-Berechtigten nach dem Vierzehnten Buch Sozialgesetzbuch oder
+Berechtigten nach dem Vierzehnten Buch Sozialgesetzbuch, des
+Berechtigten nach dem Soldatenentschädigungsgesetz oder
 Hinterbliebenen muß ein bestimmter Arzt gutachtlich gehört werden. Die
 Anhörung kann davon abhängig gemacht werden, daß der Antragsteller die
 Kosten vorschießt und vorbehaltlich einer anderen Entscheidung des
@@ -2674,47 +2699,64 @@ nach Lage der Akten entschieden werden kann.
 (2) Das Gericht kann Sitzungen auch außerhalb des Gerichtssitzes
 abhalten, wenn dies zur sachdienlichen Erledigung notwendig ist.
 
-(3) § 227 Abs. 3 Satz 1 der Zivilprozeßordnung ist nicht anzuwenden.
+(3) § 227 Absatz 1 Satz 3 und Absatz 3 Satz 1 der Zivilprozessordnung
+ist nicht anzuwenden.
 
 
 ##### § 110a
 
-(1) Das Gericht kann den Beteiligten, ihren Bevollmächtigten und
-Beiständen auf Antrag oder von Amts wegen gestatten, sich während
-einer mündlichen Verhandlung an einem anderen Ort aufzuhalten und dort
-Verfahrenshandlungen vorzunehmen. Die Verhandlung wird zeitgleich in
-Bild und Ton an diesen Ort und in das Sitzungszimmer übertragen.
+(1) Die mündliche Verhandlung kann in geeigneten Fällen und soweit
+ausreichende Kapazitäten zur Verfügung stehen als Videoverhandlung
+stattfinden. Eine mündliche Verhandlung findet als Videoverhandlung
+statt, wenn an ihr mindestens ein Verfahrensbeteiligter per Bild- und
+Tonübertragung teilnimmt. Verfahrensbeteiligte nach dieser Vorschrift
+sind die Beteiligten, ihre Bevollmächtigten und Beistände.
 
-(2) Das Gericht kann auf Antrag gestatten, dass sich ein Zeuge oder
-ein Sachverständiger während einer Vernehmung an einem anderen Ort
-aufhält. Die Vernehmung wird zeitgleich in Bild und Ton an diesen Ort
-und in das Sitzungszimmer übertragen. Ist Beteiligten,
-Bevollmächtigten und Beiständen nach Absatz 1 Satz 1 gestattet worden,
-sich an einem anderen Ort aufzuhalten, so wird die Vernehmung auch an
-diesen Ort übertragen.
+(2) Das Gericht kann unter den Voraussetzungen des Absatzes 1 Satz 1
+auf Antrag eines Verfahrensbeteiligten oder von Amts wegen die
+Teilnahme per Bild- und Tonübertragung für einen
+Verfahrensbeteiligten, mehrere oder alle Verfahrensbeteiligte
+gestatten. Die Ablehnung eines Antrags auf Teilnahme per Bild- und
+Tonübertragung ist kurz zu begründen.
 
-(3) Die Übertragung wird nicht aufgezeichnet. Entscheidungen nach
-Absatz 1 Satz 1 und Absatz 2 Satz 1 sind unanfechtbar.
+(3) Das Gericht kann auf Antrag oder von Amts wegen die Teilnahme per
+Bild- und Tonübertragung für einen Zeugen oder einen Sachverständigen
+gestatten. Das Antragsrecht steht den Verfahrensbeteiligten, Zeugen
+und Sachverständigen zu. Absatz 1 gilt entsprechend.
 
-(4) Die Absätze 1 und 3 gelten entsprechend für Erörterungstermine (§
-106 Absatz 3 Nummer 7).
+(4) Den Verfahrensbeteiligten und Dritten ist es untersagt, die
+Übertragung aufzuzeichnen. Hierauf sind sie zu Beginn der Verhandlung
+hinzuweisen. Das Gericht kann die Videoverhandlung oder die Bild- und
+Tonübertragung nach Absatz 3 für die Zwecke des § 160a der
+Zivilprozessordnung ganz oder teilweise aufzeichnen. Über Beginn und
+Ende der Aufzeichnung hat das Gericht die Verfahrensbeteiligten und im
+Falle von Absatz 3 auch die Zeugen und Sachverständigen zu
+informieren.
+
+(5) Entscheidungen nach dieser Vorschrift sind unanfechtbar.
+
+(6) Die Absätze 1 bis 5 gelten entsprechend für § 106 Absatz 3 Nummer
+7 und § 73a Absatz 1 Satz 1 dieses Gesetzes in Verbindung mit § 118
+Absatz 1 Satz 3 der Zivilprozessordnung.
 
 
 ##### § 111
 
 (1) Der Vorsitzende kann das persönliche Erscheinen eines Beteiligten
 zur mündlichen Verhandlung anordnen sowie Zeugen und Sachverständige
-laden. Auf die Folgen des Ausbleibens ist dabei hinzuweisen.
+laden. Als persönliches Erscheinen gilt auch die nach § 110a Absatz 2
+Satz 1 gestattete Teilnahme per Bild- und Tonübertragung. Auf die
+Folgen des Ausbleibens ist dabei hinzuweisen.
 
 (2) Die Ladung von Zeugen und Sachverständigen ist den Beteiligten bei
 der Mitteilung des Termins zur mündlichen Verhandlung bekanntzugeben.
 
-(3) Das Gericht kann einem Beteiligten, der keine natürliche Person
-ist, aufgeben, zur mündlichen Verhandlung oder zu einem Termin nach §
-106 Absatz 3 Nummer 7 einen Beamten oder Angestellten zu entsenden,
-der mit einem schriftlichen Nachweis über die Vertretungsbefugnis
-versehen und über die Sach- und Rechtslage ausreichend unterrichtet
-ist.
+(3) Der Vorsitzende kann einem Beteiligten, der keine natürliche
+Person ist, aufgeben, zur mündlichen Verhandlung oder zu einem Termin
+nach § 106 Absatz 3 Nummer 7 einen Beamten oder Angestellten zu
+entsenden, der mit einem schriftlichen Nachweis über die
+Vertretungsbefugnis versehen und über die Sach- und Rechtslage
+ausreichend unterrichtet ist.
 
 
 ##### § 112
@@ -2924,8 +2966,8 @@ Wiedereröffnung beschließen.
 
 ##### § 122
 
-Für das Protokoll gelten die §§ 159 bis 165 der Zivilprozeßordnung
-entsprechend.
+Für das Protokoll gelten die §§ 159 bis 165 der Zivilprozessordnung
+entsprechend, soweit dieses Gesetz nichts anderes bestimmt.
 
 
 #### Fünfter Unterabschnitt - Urteile und Beschlüsse
@@ -3054,6 +3096,9 @@ dem Termin verkündet, in dem die mündliche Verhandlung geschlossen
 wird. Ausnahmsweise kann das Urteil in einem sofort anzuberaumenden
 Termin, der nicht über zwei Wochen hinaus angesetzt werden soll,
 verkündet werden. Eine Ladung der Beteiligten ist nicht erforderlich.
+Der Vorsitzende kann den Beteiligten, ihren Bevollmächtigten und
+Beiständen gestatten, an der Urteilsverkündung per Bild- und
+Tonübertragung teilzunehmen.
 
 (2) Das Urteil wird durch Verlesen der Urteilsformel verkündet. Bei
 der Verkündung soll der wesentliche Inhalt der Entscheidungsgründe
@@ -3406,8 +3451,9 @@ aufschiebende Wirkung, soweit die Klage nach § 86a Aufschub bewirkt.
 
 (2) Die Berufung und die Beschwerde nach § 144 Abs. 1 eines
 Versicherungsträgers oder eines Trägers der Sozialen Entschädigung
-bewirken Aufschub, soweit es sich um Beträge handelt, die für die Zeit
-vor Erlaß des angefochtenen Urteils nachgezahlt werden sollen.
+oder des Trägers der Soldatenentschädigung bewirken Aufschub, soweit
+es sich um Beträge handelt, die für die Zeit vor Erlaß des
+angefochtenen Urteils nachgezahlt werden sollen.
 
 
 ##### § 155
@@ -3675,9 +3721,9 @@ Anwendung.
 
 Klageänderungen und Beiladungen sind im Revisionsverfahren unzulässig.
 Dies gilt nicht für die Beiladung der Bundesrepublik Deutschland in
-Angelegenheiten des Sozialen Entschädigungsrechts nach § 75 Abs. 1
-Satz 2 und, sofern der Beizuladende zustimmt, für Beiladungen nach §
-75 Abs. 2.
+Angelegenheiten des Sozialen Entschädigungsrechts oder des
+Soldatenentschädigungsrechts nach § 75 Abs. 1 Satz 2 und, sofern der
+Beizuladende zustimmt, für Beiladungen nach § 75 Abs. 2.
 
 
 ##### § 169
@@ -3870,7 +3916,7 @@ Verletzung des rechtlichen Gehörs zu erheben; der Zeitpunkt der
 Kenntniserlangung ist glaubhaft zu machen. Nach Ablauf eines Jahres
 seit Bekanntgabe der angegriffenen Entscheidung kann die Rüge nicht
 mehr erhoben werden. Formlos mitgeteilte Entscheidungen gelten mit dem
-dritten Tage nach Aufgabe zur Post als bekannt gegeben. Die Rüge ist
+vierten Tage nach Aufgabe zur Post als bekannt gegeben. Die Rüge ist
 schriftlich oder zu Protokoll des Urkundsbeamten der Geschäftsstelle
 bei dem Gericht zu erheben, dessen Entscheidung angegriffen wird. Die
 Rüge muss die angegriffene Entscheidung bezeichnen und das Vorliegen
@@ -4329,21 +4375,23 @@ festsetzen. Das Zwangsgeld kann wiederholt festgesetzt werden.
 
 Soweit dieses Gesetz keine Bestimmungen über das Verfahren enthält,
 sind das Gerichtsverfassungsgesetz und die Zivilprozeßordnung
-einschließlich § 278 Absatz 5 und § 278a entsprechend anzuwenden, wenn
-die grundsätzlichen Unterschiede der beiden Verfahrensarten dies nicht
-ausschließen. Die Vorschriften des Siebzehnten Titels des
-Gerichtsverfassungsgesetzes sind mit der Maßgabe entsprechend
-anzuwenden, dass an die Stelle des Oberlandesgerichts das
-Landessozialgericht, an die Stelle des Bundesgerichtshofs das
-Bundessozialgericht und an die Stelle der Zivilprozessordnung das
-Sozialgerichtsgesetz tritt. In Streitigkeiten über Entscheidungen des
-Bundeskartellamts, die die freiwillige Vereinigung von Krankenkassen
-nach § 172a des Fünften Buches Sozialgesetzbuch betreffen, sind die §§
-63 bis 80 des Gesetzes gegen Wettbewerbsbeschränkungen mit der Maßgabe
-entsprechend anzuwenden, dass an die Stelle des Oberlandesgerichts das
-Landessozialgericht, an die Stelle des Bundesgerichtshofs das
-Bundessozialgericht und an die Stelle der Zivilprozessordnung das
-Sozialgerichtsgesetz tritt.
+einschließlich der §§ 129a, 278 Absatz 5 und § 278a entsprechend
+anzuwenden, wenn die grundsätzlichen Unterschiede der beiden
+Verfahrensarten dies nicht ausschließen; das
+Leitentscheidungsverfahren nach den §§ 552b und 565 der
+Zivilprozessordnung ist nicht anzuwenden. Die Vorschriften des
+Siebzehnten Titels des Gerichtsverfassungsgesetzes sind mit der
+Maßgabe entsprechend anzuwenden, dass an die Stelle des
+Oberlandesgerichts das Landessozialgericht, an die Stelle des
+Bundesgerichtshofs das Bundessozialgericht und an die Stelle der
+Zivilprozessordnung das Sozialgerichtsgesetz tritt. In Streitigkeiten
+über Entscheidungen des Bundeskartellamts, die die freiwillige
+Vereinigung von Krankenkassen nach § 172a des Fünften Buches
+Sozialgesetzbuch betreffen, sind die §§ 63 bis 80 des Gesetzes gegen
+Wettbewerbsbeschränkungen mit der Maßgabe entsprechend anzuwenden,
+dass an die Stelle des Oberlandesgerichts das Landessozialgericht, an
+die Stelle des Bundesgerichtshofs das Bundessozialgericht und an die
+Stelle der Zivilprozessordnung das Sozialgerichtsgesetz tritt.
 
 
 ### § 203
@@ -4461,7 +4509,40 @@ Landessozialgericht Berlin-Brandenburg über. Satz 1 gilt nicht für
 Verfahren, die sich in der Hauptsache erledigt haben.
 
 
-### (XXXX) §§ 211 bis 217 (weggefallen)
+### § 211
+
+(1) Dokumente und Aktenteile, die nach den Verschlusssachenanweisungen
+des Bundes oder der Länder als Verschlusssache höher als VS-NUR FÜR
+DEN DIENSTGEBRAUCH eingestuft sind, dürfen bis zum 31. Dezember 2035
+abweichend von den §§ 65a bis 65d in Papierform erstellt, geführt und
+übermittelt werden. Dokumente und Aktenteile, die nach den
+Verschlusssachenanweisungen des Bundes oder der Länder als
+Verschlusssache VS-NUR FÜR DEN DIENSTGEBRAUCH eingestuft sind, dürfen
+bis zum 31. Dezember 2035 abweichend von den §§ 65a bis 65d in
+Papierform übermittelt werden. Die für die Handhabung von
+Verschlusssachen geltenden Geheimschutzvorschriften bleiben unberührt.
+
+(2) Die Bundesregierung und die Landesregierungen können jeweils für
+ihren Bereich durch Rechtsverordnung bestimmen, dass Akten abweichend
+von § 65b Absatz 1 Satz 1 und Absatz 2 Satz 1 bis einschließlich 31.
+Dezember 2026 in Papierform angelegt sowie von anderer Stelle bis
+einschließlich 31. Dezember 2026 übermittelte elektronische Akten in
+Papierform geführt oder weitergeführt werden. Die Bestimmung kann auf
+einzelne Gerichte oder Verfahren beschränkt werden; wird von dieser
+Möglichkeit Gebrauch gemacht, so kann in der Rechtsverordnung bestimmt
+werden, dass durch Verwaltungsvorschrift, die öffentlich
+bekanntzumachen ist, geregelt wird, in welchen Verfahren Akten in
+Papierform angelegt oder elektronisch übermittelte Akten in Papierform
+geführt oder weitergeführt werden. Die Rechtsverordnung der
+Bundesregierung bedarf nicht der Zustimmung des Bundesrates. Die
+Bundesregierung kann die in Satz 1 genannte Ermächtigung durch
+Rechtsverordnung auf die zuständigen Bundesministerien übertragen. Die
+Landesregierungen können die in Satz 1 genannte Ermächtigung durch
+Rechtsverordnung auf die für die Sozialgerichtsbarkeit zuständigen
+obersten Landesbehörden übertragen.
+
+
+### (XXXX) §§ 212 bis 217 (weggefallen)
 
 
 
@@ -4480,17 +4561,4 @@ enthaltenen Ermächtigungen erlassen werden, gelten im Land Berlin nach
 
 Die Länder können Abweichungen von den Vorschriften des § 85 Abs. 2
 Nr. 1 zulassen.
-
-
-### § 220 Übergangsregelung aus Anlass des Gesetzes zur Regelung des Sozialen Entschädigungsrechts
-
-Für Personen, die Ansprüche nach dem Soldatenversorgungsgesetz in der
-Fassung der Bekanntmachung vom 16. September 2009 (BGBl. I S. 3054),
-das zuletzt durch Artikel 19 des Gesetzes vom 4. August 2019 (BGBl. I
-S. 1147) geändert worden ist, in Verbindung mit dem
-Bundesversorgungsgesetz in der Fassung der Bekanntmachung vom 22.
-Januar 1982 (BGBl. I S. 21), das zuletzt durch Artikel 1 der
-Verordnung vom 13. Juni 2019 (BGBl. I S. 793) geändert worden ist,
-geltend machen, gelten § 55 Absatz 1 Nummer 3 und § 109 Absatz 1 Satz
-1 in der am 31. Dezember 2023 geltenden Fassung weiter.
 

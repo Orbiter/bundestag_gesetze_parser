@@ -469,7 +469,7 @@ Der Bundesrat hat zugestimmt.
 
 ## Inhaltsverzeichnis
 
-### **Vorbemerkung**
+**Vorbemerkung**
 
 
 *    *   **1.**
@@ -542,6 +542,7 @@ Der Bundesrat hat zugestimmt.
 *    *   3.2
 
     *   Anlageninterne Ereignisse
+
 
 
 

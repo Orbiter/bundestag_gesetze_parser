@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2005, 3157
 
 Zuletzt geändert durch
-:   Art. 7 G v. 20.8.2021 I 3932
+:   Art. 1 V v. 17.3.2025 I Nr. 89
 
 
 
@@ -30,7 +30,7 @@ Soldatengesetzes in der Fassung der Bekanntmachung vom 30. Mai 2005
 
 ## § 1 Zulässigkeit von Teilzeitbeschäftigung
 
-Teilzeitbeschäftigung ist in folgenden Wehrdienstarten zulässig:
+(1) Teilzeitbeschäftigung ist in folgenden Wehrdienstarten zulässig:
 
 1.  Wehrdienst als Berufssoldatin oder Berufssoldat,
 
@@ -43,6 +43,24 @@ Teilzeitbeschäftigung ist in folgenden Wehrdienstarten zulässig:
 
 
 
+
+(2) Die Teilzeitbeschäftigung ist ausnahmsweise über die Dauer von
+zwölf Jahren hinaus zulässig, wenn
+
+1.  mindestens ein Kind unter zwölf Jahren oder
+
+
+2.  ein pflegebedürftiger sonstiger Angehöriger
+
+
+
+tatsächlich betreut oder gepflegt wird und zwingende dienstliche
+Gründe nicht entgegenstehen.
+
+(3) In den Fällen des Absatzes 2 kann die Teilzeitbeschäftigung auch
+im Umfang von weniger als der Hälfte der regelmäßigen Arbeitszeit
+bewilligt werden, wenn keine zwingenden dienstlichen Gründe
+entgegenstehen.
 
 
 ## § 2 Antragsverfahren
@@ -165,8 +183,8 @@ einer Teilzeitbeschäftigung.
 
 ## § 5 Ausgestaltung der Teilzeitbeschäftigung
 
-(1) Die Teilzeitbeschäftigung kann auf bis zu vier Zeitabschnitte
-verteilt werden.
+(1) Die Teilzeitbeschäftigung kann auf bis zu vier, zur Vermeidung
+unbilliger Härten auch auf mehr Zeitabschnitte verteilt werden.
 
 (2) Die Ausgestaltung der Teilzeitbeschäftigung kann nach flexiblen
 Arbeitszeitmodellen, insbesondere Blockzeitbildung, bewilligt werden,

@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2009, 416, 417
 
 Zuletzt geändert durch
-:   Art. 10 G v. 24.5.2016 I 1217
+:   Art. 8 G v. 30.9.2025 I Nr. 231
 
 
 ## § 1 Errichtung des Sondervermögens
@@ -98,8 +98,7 @@ Milliarden Euro aufzunehmen.
 (2) Dem Kreditrahmen nach Absatz 1 wachsen die Beträge aus getilgten
 Krediten wieder zu.
 
-(3) Auf die Kreditermächtigung ist bei Diskontpapieren der Nettobetrag
-anzurechnen.
+(3) Auf die Kreditermächtigung ist der Nennwert anzurechnen.
 
 
 ## § 6 Tilgung

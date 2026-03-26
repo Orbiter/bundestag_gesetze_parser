@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 3.11.2017 I 3634
 
 Zuletzt geändert durch
-:   Art. 3 G v. 20.12.2023 I Nr. 394
+:   Art. 5 G v. 22.12.2025 I Nr. 348
 
 [^F2415_BJNR003410960]:     Dieses Gesetz dient der Umsetzung folgender Richtlinien:
     1\.                                    Richtlinie 92/43/EWG des Rates
@@ -191,7 +191,8 @@ berücksichtigen:
 8.  die Belange
 
     a)  der Wirtschaft, auch ihrer mittelständischen Struktur im Interesse
-        einer verbrauchernahen Versorgung der Bevölkerung,
+        einer verbrauchernahen Versorgung der Bevölkerung, einschließlich
+        ihrer Bestands- und Entwicklungsinteressen,
 
 
     b)  der Land- und Forstwirtschaft,
@@ -215,11 +216,19 @@ berücksichtigen:
 
 
 9.  die Belange des Personen- und Güterverkehrs und der Mobilität der
-    Bevölkerung, auch im Hinblick auf die Entwicklungen beim Betrieb von
-    Kraftfahrzeugen, etwa der Elektromobilität, einschließlich des
-    öffentlichen Personennahverkehrs und des nicht motorisierten Verkehrs,
-    unter besonderer Berücksichtigung einer auf Vermeidung und
+    Bevölkerung unter besonderer Berücksichtigung einer auf Vermeidung und
     Verringerung von Verkehr ausgerichteten städtebaulichen Entwicklung,
+    einschließlich
+
+    a)  des Bestands- und Entwicklungsinteresses bei Verkehrsanlagen und
+
+
+    b)  der Belange des öffentlichen Personennahverkehrs, des Verkehrs mit
+        elektrisch betriebenen Kraftfahrzeugen und des nicht motorisierten
+        Verkehrs,
+
+
+
 
 
 10. die Belange der Verteidigung und des Zivilschutzes sowie der zivilen
@@ -669,9 +678,10 @@ des Flächennutzungsplans können den Flächen, auf denen Eingriffe in
 Natur und Landschaft zu erwarten sind, ganz oder teilweise zugeordnet
 werden.
 
-(2b) Für die Zwecke des § 35 Absatz 3 Satz 3 oder des § 249 Absatz 2
-können sachliche Teilflächennutzungspläne aufgestellt werden; sie
-können auch für Teile des Gemeindegebiets aufgestellt werden.
+(2b) Für die Zwecke des § 35 Absatz 3 Satz 3, des § 249 Absatz 2 und
+des § 249c Absatz 1 können sachliche Teilflächennutzungspläne
+aufgestellt werden; sie können auch für Teile des Gemeindegebiets
+aufgestellt werden.
 
 (3) Im Flächennutzungsplan sollen gekennzeichnet werden:
 
@@ -953,9 +963,26 @@ werden:
 
 23. Gebiete, in denen
 
-    a)  zum Schutz vor schädlichen Umwelteinwirkungen im Sinne des Bundes-
-        Immissionsschutzgesetzes bestimmte Luft verunreinigende Stoffe nicht
-        oder nur beschränkt verwendet werden dürfen,
+    a)  zum Schutz vor schädlichen Umwelteinwirkungen nach § 3 Absatz 1 des
+        Bundes-Immissionsschutzgesetzes
+
+        aa) bestimmte Werte zum Schutz vor Geräuschimmissionen nicht überschritten
+            werden dürfen, wobei in begründeten Fällen Abweichungen von den
+            Vorgaben der Technischen Anleitung zum Schutz gegen Lärm vom 26.
+            August 1998 (GMBl S. 503), die zuletzt durch Verwaltungsvorschrift vom
+            1\. Juni 2017 (BAnz AT 08.06.2017 B5) geändert worden ist, in der
+            jeweils geltenden Fassung, zulässig sind, oder
+
+
+        bb) bestimmte Geräuschemissionskontingente nicht überschritten werden
+            dürfen oder
+
+
+        cc) bestimmte Luft verunreinigende Stoffe nicht oder nur beschränkt
+            verwendet werden dürfen,
+
+
+
 
 
     b)  bei der Errichtung von Gebäuden oder bestimmten sonstigen baulichen
@@ -984,7 +1011,8 @@ werden:
     zu treffenden baulichen und sonstigen technischen Vorkehrungen,
     einschließlich von Maßnahmen zum Schutz vor schädlichen
     Umwelteinwirkungen durch Geräusche, wobei die Vorgaben des
-    Immissionsschutzrechts unberührt bleiben;
+    Immissionsschutzrechts und Festsetzungen nach § 9 Absatz 1 Nummer 23
+    Buchstabe a Doppelbuchstabe aa unberührt bleiben;
 
 
 25. für einzelne Flächen oder für ein Bebauungsplangebiet oder Teile davon
@@ -2257,17 +2285,14 @@ die Grundzüge der Planung nicht berührt werden und
 und wenn die Abweichung auch unter Würdigung nachbarlicher Interessen
 mit den öffentlichen Belangen vereinbar ist.
 
-(3) In einem Gebiet mit einem angespannten Wohnungsmarkt, das nach §
-201a bestimmt ist, kann mit Zustimmung der Gemeinde im Einzelfall von
-den Festsetzungen des Bebauungsplans zugunsten des Wohnungsbaus
-befreit werden, wenn die Befreiung auch unter Würdigung nachbarlicher
-Interessen mit den öffentlichen Belangen vereinbar ist. Von Satz 1
-kann nur bis zum Ende der Geltungsdauer der Rechtsverordnung nach
-§ 201a Gebrauch gemacht werden. Die Befristung in Satz 2 bezieht sich
-nicht auf die Geltungsdauer einer Genehmigung, sondern auf den
-Zeitraum, bis zu dessen Ende im bauaufsichtlichen Verfahren von der
-Vorschrift Gebrauch gemacht werden kann. Für die Zustimmung der
-Gemeinde nach Satz 1 gilt § 36 Absatz 2 Satz 2 entsprechend.
+(3) Mit Zustimmung der Gemeinde kann im Einzelfall oder in mehreren
+vergleichbaren Fällen von den Festsetzungen des Bebauungsplans
+zugunsten des Wohnungsbaus befreit werden, wenn die Befreiung auch
+unter Würdigung nachbarlicher Interessen mit den öffentlichen Belangen
+vereinbar ist. Die Befreiung nach Satz 1 ist mit öffentlichen Belangen
+insbesondere dann nicht vereinbar, wenn sie aufgrund einer
+überschlägigen Prüfung voraussichtlich zusätzliche erhebliche
+Umweltauswirkungen hat.
 
 
 ##### § 32 Nutzungsbeschränkungen auf künftigen Gemeinbedarfs-, Verkehrs-, Versorgungs- und Grünflächen
@@ -2339,8 +2364,8 @@ die in der auf Grund des § 9a erlassenen Verordnung bezeichnet sind,
 beurteilt sich die Zulässigkeit des Vorhabens nach seiner Art allein
 danach, ob es nach der Verordnung in dem Baugebiet allgemein zulässig
 wäre; auf die nach der Verordnung ausnahmsweise zulässigen Vorhaben
-ist § 31 Absatz 1, im Übrigen ist § 31 Absatz 2 entsprechend
-anzuwenden.
+ist § 31 Absatz 1, im Übrigen ist § 31 Absatz 2 und 3 Satz 1 über die
+Befreiung entsprechend anzuwenden.
 
 (3) Von Vorhaben nach Absatz 1 oder 2 dürfen keine schädlichen
 Auswirkungen auf zentrale Versorgungsbereiche in der Gemeinde oder in
@@ -2356,8 +2381,9 @@ wenn die Abweichung
         zulässigerweise errichteten Gewerbe- oder Handwerksbetriebs,
 
 
-    b)  der Erweiterung, Änderung oder Erneuerung eines zulässigerweise
-        errichteten, Wohnzwecken dienenden Gebäudes oder
+    b)  der Erweiterung, Änderung oder Erneuerung zulässigerweise errichteter
+        Gebäude, wenn hierdurch neue Wohnungen geschaffen oder vorhandener
+        Wohnraum wieder nutzbar wird, oder
 
 
     c)  der Nutzungsänderung einer zulässigerweise errichteten baulichen
@@ -2385,6 +2411,12 @@ Erfordernis des Einfügens im Einzelfall im Sinne des Satzes 1 in
 mehreren vergleichbaren Fällen abgewichen werden, wenn die übrigen
 Voraussetzungen des Satzes 1 vorliegen und die Aufstellung eines
 Bebauungsplans nicht erforderlich ist.
+
+(3b) Mit Zustimmung der Gemeinde kann im Einzelfall oder in mehreren
+vergleichbaren Fällen vom Erfordernis des Einfügens in die nähere
+Umgebung abgewichen werden, wenn das Vorhaben der Errichtung eines
+Wohngebäudes dient und auch unter Würdigung nachbarlicher Interessen
+mit den öffentlichen Belangen vereinbar ist.
 
 (4) Die Gemeinde kann durch Satzung
 
@@ -2474,7 +2506,7 @@ ist und wenn es
 
 5.  der Erforschung, Entwicklung oder Nutzung der Windenergie nach Maßgabe
     des § 249 oder der Erforschung, Entwicklung oder Nutzung der
-    Wasserenergie dient,
+    geothermischen Energie oder der Wasserenergie dient,
 
 
 6.  der energetischen Nutzung von Biomasse im Rahmen eines Betriebs nach
@@ -2528,7 +2560,7 @@ ist und wenn es
 
 
         und in einer Entfernung zu diesen von bis zu 200 Metern, gemessen vom
-        äußeren Rand der Fahrbahn, oder
+        äußeren Rand der Fahrbahn,
 
 
 
@@ -2546,7 +2578,43 @@ ist und wenn es
         Quadratmeter und
 
 
-    c)  es wird je Hofstelle oder Betriebsstandort nur eine Anlage betrieben.
+    c)  es wird je Hofstelle oder Betriebsstandort nur eine Anlage betrieben,
+
+
+
+
+
+10. der untertägigen Speicherung von Wärme dient und das Vorhaben in einem
+    räumlich-funktionalen Zusammenhang mit Wärmequellen und Wärmesenken
+    steht,
+
+
+11. der Speicherung von elektrischer Energie in einer
+    Batteriespeicheranlage dient und das Vorhaben in einem räumlich-
+    funktionalen Zusammenhang mit einer vorhandenen Anlage zur Nutzung
+    erneuerbarer Energien steht oder
+
+
+12. der Speicherung von elektrischer Energie in einer nicht unter Nummer
+    11 fallenden Batteriespeicheranlage dient, unter folgenden
+    Voraussetzungen:
+
+    a)  das Vorhaben steht in einer Entfernung von höchstens 200 Metern zu der
+        Grundstücksgrenze einer Umspannanlage von Höchstspannung zu
+        Hochspannung oder von Hochspannung zu Mittelspannung oder zu der
+        Grundstücksgrenze eines in Betrieb befindlichen oder aufgegebenen
+        Kraftwerks mit einer Nennleistung ab 50 Megawatt und
+
+
+    b)  die Batteriespeicheranlage verfügt über eine Nennleistung von
+        mindestens 4 Megawatt und
+
+
+    c)  die von allen nach dieser Nummer zugelassenen Batteriespeicheranlagen
+        einschließlich der zugehörigen Nebenanlagen und Freiflächen insgesamt
+        in Anspruch genommene Gesamtfläche in derselben Gemeinde überschreitet
+        nicht 0,5 Prozent der Gemeindefläche und beträgt höchstens 50 000
+        Quadratmeter.
 
 
 
@@ -2726,20 +2794,20 @@ zulässig.
 (5) Die nach den Absätzen 1 bis 4 zulässigen Vorhaben sind in einer
 flächensparenden, die Bodenversiegelung auf das notwendige Maß
 begrenzenden und den Außenbereich schonenden Weise auszuführen. Für
-Vorhaben nach Absatz 1 Nummer 2 bis 6, 8 Buchstabe b und Nummer 9 ist
-als weitere Zulässigkeitsvoraussetzung eine Verpflichtungserklärung
-abzugeben, das Vorhaben nach dauerhafter Aufgabe der zulässigen
-Nutzung zurückzubauen und Bodenversiegelungen zu beseitigen; bei einer
-nach Absatz 1 Nummer 2 bis 6, 8 Buchstabe b und Nummer 9 zulässigen
-Nutzungsänderung ist die Rückbauverpflichtung zu übernehmen, bei einer
-nach Absatz 1 Nummer 1 oder Absatz 2 zulässigen Nutzungsänderung
-entfällt sie. Die Baugenehmigungsbehörde soll durch nach Landesrecht
-vorgesehene Baulast oder in anderer Weise die Einhaltung der
-Verpflichtung nach Satz 2 sowie nach Absatz 4 Satz 1 Nummer 1
-Buchstabe g sicherstellen. Im Übrigen soll sie in den Fällen des
-Absatzes 4 Satz 1 sicherstellen, dass die bauliche oder sonstige
-Anlage nach Durchführung des Vorhabens nur in der vorgesehenen Art
-genutzt wird.
+Vorhaben nach Absatz 1 Nummer 2 bis 6, 8 Buchstabe b und Nummer 9 bis
+12 ist als weitere Zulässigkeitsvoraussetzung eine
+Verpflichtungserklärung abzugeben, das Vorhaben nach dauerhafter
+Aufgabe der zulässigen Nutzung zurückzubauen und Bodenversiegelungen
+zu beseitigen; bei einer nach Absatz 1 Nummer 2 bis 6, 8 Buchstabe b
+und Nummer 9 bis 12 zulässigen Nutzungsänderung ist die
+Rückbauverpflichtung zu übernehmen, bei einer nach Absatz 1 Nummer 1
+oder Absatz 2 zulässigen Nutzungsänderung entfällt sie. Die
+Baugenehmigungsbehörde soll durch nach Landesrecht vorgesehene Baulast
+oder in anderer Weise die Einhaltung der Verpflichtung nach Satz 2
+sowie nach Absatz 4 Satz 1 Nummer 1 Buchstabe g sicherstellen. Im
+Übrigen soll sie in den Fällen des Absatzes 4 Satz 1 sicherstellen,
+dass die bauliche oder sonstige Anlage nach Durchführung des Vorhabens
+nur in der vorgesehenen Art genutzt wird.
 
 (6) Die Gemeinde kann für bebaute Bereiche im Außenbereich, die nicht
 überwiegend landwirtschaftlich geprägt sind und in denen eine
@@ -2778,33 +2846,58 @@ entsprechend anzuwenden. Von der Satzung bleibt die Anwendung des
 Absatzes 4 unberührt.
 
 
-##### § 36 Beteiligung der Gemeinde und der höheren Verwaltungsbehörde
+##### § 36 Einvernehmen der Gemeinde und Zustimmung der höheren Verwaltungsbehörde
 
-(1) Über die Zulässigkeit von Vorhaben nach den §§ 31, 33 bis 35 wird
-im bauaufsichtlichen Verfahren von der Baugenehmigungsbehörde im
-Einvernehmen mit der Gemeinde entschieden. Das Einvernehmen der
-Gemeinde ist auch erforderlich, wenn in einem anderen Verfahren über
-die Zulässigkeit nach den in Satz 1 bezeichneten Vorschriften
-entschieden wird; dies gilt nicht für Vorhaben der in § 29 Absatz 1
-bezeichneten Art, die der Bergaufsicht unterliegen. Richtet sich die
-Zulässigkeit von Vorhaben nach § 30 Absatz 1, stellen die Länder
-sicher, dass die Gemeinde rechtzeitig vor Ausführung des Vorhabens
-über Maßnahmen zur Sicherung der Bauleitplanung nach den §§ 14 und 15
-entscheiden kann. In den Fällen des § 35 Absatz 2 und 4 kann die
-Landesregierung durch Rechtsverordnung allgemein oder für bestimmte
-Fälle festlegen, dass die Zustimmung der höheren Verwaltungsbehörde
-erforderlich ist.
+(1) Über die Zulässigkeit von Vorhaben nach § 31 Absatz 1 und 2, den
+§§ 33, 34 Absatz 1, 2 und 3a sowie § 35 wird im bauaufsichtlichen
+Verfahren von der Baugenehmigungsbehörde im Einvernehmen mit der
+Gemeinde entschieden. Das Einvernehmen der Gemeinde ist auch
+erforderlich, wenn in einem anderen Verfahren über die Zulässigkeit
+nach den in Satz 1 bezeichneten Vorschriften entschieden wird; dies
+gilt nicht für Vorhaben der in § 29 Absatz 1 bezeichneten Art, die der
+Bergaufsicht unterliegen. Richtet sich die Zulässigkeit von Vorhaben
+nach § 30 Absatz 1, stellen die Länder sicher, dass die Gemeinde
+rechtzeitig vor Ausführung des Vorhabens über Maßnahmen zur Sicherung
+der Bauleitplanung nach den §§ 14 und 15 entscheiden kann. In den
+Fällen des § 35 Absatz 2 und 4 kann die Landesregierung durch
+Rechtsverordnung allgemein oder für bestimmte Fälle festlegen, dass
+die Zustimmung der höheren Verwaltungsbehörde erforderlich ist.
 
 (2) Das Einvernehmen der Gemeinde und die Zustimmung der höheren
-Verwaltungsbehörde dürfen nur aus den sich aus den §§ 31, 33, 34 und
-35 ergebenden Gründen versagt werden. Das Einvernehmen der Gemeinde
-und die Zustimmung der höheren Verwaltungsbehörde gelten als erteilt,
-wenn sie nicht binnen zwei Monaten nach Eingang des Ersuchens der
-Genehmigungsbehörde verweigert werden; dem Ersuchen gegenüber der
-Gemeinde steht die Einreichung des Antrags bei der Gemeinde gleich,
-wenn sie nach Landesrecht vorgeschrieben ist. Die nach Landesrecht
-zuständige Behörde kann ein rechtswidrig versagtes Einvernehmen der
-Gemeinde ersetzen.
+Verwaltungsbehörde dürfen nur aus den sich aus § 31 Absatz 1 und 2,
+den §§ 33, 34 Absatz 1, 2 und 3a sowie aus § 35 ergebenden Gründen
+versagt werden. Das Einvernehmen der Gemeinde und die Zustimmung der
+höheren Verwaltungsbehörde gelten als erteilt, wenn sie nicht binnen
+zwei Monaten nach Eingang des Ersuchens der Genehmigungsbehörde
+verweigert werden; dem Ersuchen gegenüber der Gemeinde steht die
+Einreichung des Antrags bei der Gemeinde gleich, wenn sie nach
+Landesrecht vorgeschrieben ist. Die nach Landesrecht zuständige
+Behörde kann ein rechtswidrig versagtes Einvernehmen der Gemeinde
+ersetzen.
+
+
+##### § 36a Zustimmung der Gemeinde
+
+(1) Vorhaben nach § 31 Absatz 3 und § 34 Absatz 3b sind nur mit
+Zustimmung der Gemeinde zulässig, auch wenn die Gemeinde selbst die
+zuständige Bauaufsichtsbehörde ist. Die Gemeinde erteilt die
+Zustimmung, wenn das Vorhaben mit ihren Vorstellungen von der
+städtebaulichen Entwicklung und Ordnung vereinbar ist. Sie kann ihre
+Zustimmung unter der Bedingung erteilen, dass der Vorhabenträger sich
+verpflichtet, bestimmte städtebauliche Anforderungen einzuhalten. Die
+Zustimmung der Gemeinde gilt als erteilt, wenn sie nicht binnen drei
+Monaten nach Eingang des Ersuchens der Genehmigungsbehörde verweigert
+wird; § 36 Absatz 2 Satz 2 zweiter Halbsatz gilt entsprechend.
+
+(2) Die Gemeinde kann der betroffenen Öffentlichkeit vor der
+Entscheidung über die Zustimmung Gelegenheit zur Stellungnahme zu dem
+Antrag innerhalb angemessener Frist geben, höchstens jedoch innerhalb
+eines Monats. In diesem Fall verlängert sich die nach Absatz 1 Satz 4
+anzuwendende Entscheidungsfrist um die Dauer der Stellungnahmefrist.
+
+(3) Die Entscheidung der Gemeinde über die Zustimmung kann nur im
+Rahmen des Rechtsbehelfsverfahrens gegen die Zulassungsentscheidung
+überprüft werden.
 
 
 ##### § 37 Bauliche Maßnahmen des Bundes und der Länder
@@ -2816,15 +2909,18 @@ erlassenen Vorschriften abzuweichen oder ist das Einvernehmen mit der
 Gemeinde nach § 14 oder § 36 nicht erreicht worden, entscheidet die
 höhere Verwaltungsbehörde.
 
-(2) Handelt es sich dabei um Vorhaben, die der Landesverteidigung,
+(2) Handelt es sich dabei um Vorhaben, die dienstlichen Zwecken der
+Bundeswehr oder der verbündeten Streitkräfte, einschließlich der
+Herstellung und Lagerung von Produkten zur Landesverteidigung,
 dienstlichen Zwecken der Bundespolizei oder dem zivilen
-Bevölkerungsschutz dienen, ist nur die Zustimmung der höheren
-Verwaltungsbehörde erforderlich. Vor Erteilung der Zustimmung hat
-diese die Gemeinde zu hören. Versagt die höhere Verwaltungsbehörde
-ihre Zustimmung oder widerspricht die Gemeinde dem beabsichtigten
-Bauvorhaben, entscheidet das zuständige Bundesministerium im
-Einvernehmen mit den beteiligten Bundesministerien und im Benehmen mit
-der zuständigen Obersten Landesbehörde.
+Bevölkerungsschutz dienen, entscheidet über die Abweichung die höhere
+Verwaltungsbehörde nach Anhörung der Gemeinde. Die Anhörung der
+Gemeinde ist entbehrlich, wenn diese bereits zuvor beteiligt war.
+Versagt die höhere Verwaltungsbehörde ihre Zustimmung oder
+widerspricht die Gemeinde dem beabsichtigten Vorhaben, entscheidet das
+zuständige Bundesministerium im Einvernehmen mit den beteiligten
+Bundesministerien und im Benehmen mit der zuständigen obersten
+Landesbehörde.
 
 (3) Entstehen der Gemeinde infolge der Durchführung von Maßnahmen nach
 den Absätzen 1 und 2 Aufwendungen für Entschädigungen nach diesem
@@ -2839,6 +2935,37 @@ Verfahren nach § 1 Absatz 2 des Landbeschaffungsgesetzes alle von der
 Gemeinde oder der höheren Verwaltungsbehörde nach den Absätzen 1 und 2
 zulässigen Einwendungen abschließend zu erörtern. Eines Verfahrens
 nach Absatz 2 bedarf es in diesem Falle nicht.
+
+
+##### § 37a Außenbereichsvorhaben zur Herstellung oder Lagerung von Produkten zur Landesverteidigung
+
+(1) Vorhaben, die der Herstellung oder Lagerung von Produkten zur
+Landesverteidigung, insbesondere von Munition, Sprengstoffen und deren
+Vorprodukten, dienen und deren Erforderlichkeit für die
+Einsatzfähigkeit und Versorgungssicherheit der Bundeswehr durch eine
+Erklärung des Bundesministeriums der Verteidigung bestätigt wird,
+sind, auch sofern sie nicht von § 35 Absatz 1 Nummer 4 erfasst sind,
+im Außenbereich zulässig, wenn öffentliche Belange nicht
+entgegenstehen und die Erschließung gesichert ist. Die Erklärung nach
+Satz 1 ist unanfechtbar; auf ihre Abgabe besteht kein Anspruch. § 35
+Absatz 5 Satz 1 bis 3 ist anzuwenden.
+
+(2) Über die Zulässigkeit von Vorhaben nach Absatz 1 entscheidet die
+höhere Verwaltungsbehörde im Einvernehmen mit der Gemeinde. Lehnt die
+höhere Verwaltungsbehörde das Vorhaben ab oder versagt die Gemeinde
+das nach Satz 1 oder nach § 14 Absatz 2 Satz 1 erforderliche
+Einvernehmen, entscheidet das Bundesministerium der Verteidigung im
+Benehmen mit der zuständigen obersten Landesbehörde; die Gemeinde ist
+anzuhören, wenn sie nicht bereits zuvor beteiligt war. § 36 Absatz 2
+Satz 3 findet keine Anwendung.
+
+(3) § 37 Absatz 3 gilt entsprechend.
+
+(4) Die Absätze 1 bis 3 sind auch anzuwenden, wenn es um die Änderung
+oder Erweiterung von Vorhaben nach Absatz 1 geht, für die im
+bisherigen Außenbereich ein Bebauungsplan aufgestellt wurde. In diesen
+Fällen kann zugleich von Festsetzungen dieses Bebauungsplans befreit
+werden.
 
 
 ##### § 38 Bauliche Maßnahmen von überörtlicher Bedeutung auf Grund von Planfeststellungsverfahren; öffentlich zugängliche Abfallbeseitigungsanlagen
@@ -8888,12 +9015,12 @@ berufsmäßige Imkerei und die berufsmäßige Binnenfischerei.
 Die Landesregierungen werden ermächtigt, durch Rechtsverordnung
 Gebiete mit einem angespannten Wohnungsmarkt zu bestimmen. Die
 Rechtsverordnung nach Satz 1 gilt für die Anwendung der Regelungen in
-§ 25 Absatz 1 Satz 1 Nummer 3, § 31 Absatz 3, § 175 Absatz 2 Satz 2
-und § 176 Absatz 1 Satz 1 Nummer 3. Ein Gebiet mit einem angespannten
-Wohnungsmarkt liegt vor, wenn die ausreichende Versorgung der
-Bevölkerung mit Mietwohnungen in einer Gemeinde oder einem Teil der
-Gemeinde zu angemessenen Bedingungen besonders gefährdet ist. Dies
-kann insbesondere dann der Fall sein, wenn
+§ 25 Absatz 1 Satz 1 Nummer 3, § 175 Absatz 2 Satz 2 und § 176 Absatz
+1 Satz 1 Nummer 3. Ein Gebiet mit einem angespannten Wohnungsmarkt
+liegt vor, wenn die ausreichende Versorgung der Bevölkerung mit
+Mietwohnungen in einer Gemeinde oder einem Teil der Gemeinde zu
+angemessenen Bedingungen besonders gefährdet ist. Dies kann
+insbesondere dann der Fall sein, wenn
 
 1.  die Mieten deutlich stärker steigen als im bundesweiten Durchschnitt,
 
@@ -8911,7 +9038,7 @@ kann insbesondere dann der Fall sein, wenn
 
 
 Eine Rechtsverordnung nach Satz 1 muss spätestens mit Ablauf des 31.
-Dezember 2026 außer Kraft treten. Sie muss begründet werden. Aus der
+Dezember 2031 außer Kraft treten. Sie muss begründet werden. Aus der
 Begründung muss sich ergeben, auf Grund welcher Tatsachen ein Gebiet
 mit einem angespannten Wohnungsmarkt im Einzelfall vorliegt. Die
 betroffenen Gemeinden und die auf Landesebene bestehenden kommunalen
@@ -9507,6 +9634,53 @@ Behörde, die Einhaltung der Vorschriften zu prüfen, deren Verletzung
 sich nach den §§ 214 und 215 auf die Rechtswirksamkeit eines
 Flächennutzungsplans oder einer Satzung nicht auswirkt, bleibt
 unberührt.
+
+
+##### § 216a Unwirksamkeit von Bebauungsplänen mit Abweichungen von der Technischen Anleitung zum Schutz gegen Lärm
+
+(1) Erweist sich ein Bebauungsplan mit Festsetzungen nach § 9 Absatz 1
+Nummer 23 Buchstabe a Doppelbuchstabe aa, die von der Technischen
+Anleitung zum Schutz gegen Lärm abweichen, durch gerichtliche
+Entscheidung als unwirksam, nachdem ein Wohnbauvorhaben entsprechend
+diesen abweichenden Festsetzungen verwirklicht wurde, entscheiden die
+zuständige Bauaufsichts- und die zuständige Immissionsschutzbehörde im
+Einvernehmen über die Anordnung von lärmmindernden Maßnahmen nach dem
+Bauordnungsrecht oder dem Immissionsschutzrecht, die zur Wahrung
+gesunder Wohn- und Arbeitsverhältnisse erforderlich sind. Kann ein
+Einvernehmen nicht erreicht werden, entscheidet die höhere
+Verwaltungsbehörde. Ist eine geräuschemittierende Anlage betroffen,
+welche im Wege einer das Bau- und Immissionsschutzrecht
+konzentrierenden Planfeststellung oder Plangenehmigung genehmigt
+wurde, entscheidet in Bezug auf diese Anlage die Planfeststellungs-
+oder Plangenehmigungsbehörde im Benehmen mit der zuständigen
+Bauaufsichts- und der zuständigen Immissionsschutzbehörde. Dabei
+ziehen die zuständigen Behörden sämtliche Maßnahmen zur Lärmminderung
+an der Schallquelle, auf dem Ausbreitungsweg und an der
+schutzbedürftigen Wohnnutzung in Betracht. In Bezug auf den baulichen
+Bestand, der auf Grundlage der von der Technischen Anleitung zum
+Schutz gegen Lärm abweichenden unwirksamen Festsetzungen nach § 9
+Absatz 1 Nummer 23 Buchstabe a Doppelbuchstabe aa errichtet wurde, ist
+die Technische Anleitung zum Schutz gegen Lärm insoweit nicht
+anzuwenden.
+
+(2) An geräuschemittierende Anlagen, die sich vor dem Hinzutreten des
+Wohnbauvorhabens nach Absatz 1 Satz 1 bereits in Betrieb befanden,
+dürfen Anforderungen nach Absatz 1 nur gestellt werden, wenn diese
+zumutbar sind und sich die Gemeinde, der Vorhabenträger des
+Wohnbauvorhabens oder ein anderer Eigentümer oder Nutzungsberechtigter
+zur Übernahme der hierdurch entstehenden Kosten verpflichtet.
+Weitergehende Anforderungen zum Schutz oder zur Vorsorge gegen
+schädliche Umwelteinwirkungen durch Geräusche in Bezug auf die auf
+Grundlage der unwirksamen Festsetzungen hinzugetretene bauliche
+Nutzung aufgrund des Bundes-Immissionsschutzgesetzes sind
+ausgeschlossen.
+
+(3) Anstelle von Anordnungen nach den Absätzen 1 und 2 können zur
+Wahrung gesunder Wohn- und Arbeitsverhältnisse auch vertragliche
+Vereinbarungen nach § 11 getroffen werden.
+
+(4) Die Möglichkeit der Gemeinde, den Bebauungsplan im ergänzenden
+Verfahren nach § 214 Absatz 4 zu heilen, bleibt unberührt.
 
 
 ### Dritter Teil - Verfahren vor den Kammern (Senaten) für Baulandsachen
@@ -10359,19 +10533,17 @@ Satzes 1 vor Durchführung der Öffentlichkeits- und Behördenbeteiligung
 zugelassen werden, wenn sich die vorgenommene Änderung oder Ergänzung
 des Planentwurfs nicht auf das Vorhaben auswirkt.
 
-(5) Plant eine Gemeinde, die nicht zuständige Planungsträgerin nach §
-249 Absatz 5 in Verbindung mit § 3 Absatz 2 Satz 1 Nummer 2 des
-Windenergieflächenbedarfsgesetzes ist, vor dem in Absatz 1 Satz 2
-genannten Zeitpunkt ein Windenergiegebiet gemäß § 2 Nummer 1 des
-Windenergieflächenbedarfsgesetzes auszuweisen, das mit einem Ziel der
-Raumordnung nicht vereinbar ist, soll ihrem Antrag auf Abweichung von
-diesem Ziel abweichend von § 6 Absatz 2 des Raumordnungsgesetzes
-stattgegeben werden, wenn der Raumordnungsplan an der von der Gemeinde
-für Windenergie geplanten Stelle kein Gebiet für mit der Windenergie
-unvereinbare Nutzungen oder Funktionen festlegt.
+(5) Eine Gemeinde, die nicht zuständige Planungsträgerin nach § 249
+Absatz 5 dieses Gesetzes in Verbindung mit § 3 Absatz 2 Satz 1 Nummer
+2 des Windenergieflächenbedarfsgesetzes ist, kann vor dem in Absatz 1
+Satz 2 genannten Zeitpunkt ein Windenergiegebiet gemäß § 2 Nummer 1
+des Windenergieflächenbedarfsgesetzes auch dann ausweisen, wenn die
+Ausweisung mit einem Ziel der Raumordnung nicht vereinbar ist, es sei
+denn, bei diesem Ziel handelt es sich um ein Vorranggebiet für mit der
+Windenergie unvereinbare Nutzungen oder Funktionen.
 
 
-#### § 245f Überleitungsvorschrift aus Anlass des Gesetzes zur Stärkung der Digitalisierung im Bauleitplanverfahren und zur Änderung weiterer Vorschriften; Evaluierung
+#### § 245f Überleitungsvorschriften aus Anlass des Gesetzes zur Stärkung der Digitalisierung im Bauleitplanverfahren und zur Änderung weiterer Vorschriften sowie aus Anlass der Einführung des § 249c; Evaluierung
 
 (1) Abweichend von § 233 Absatz 1 ist § 6 Absatz 4 in der Fassung
 dieses Gesetzes anzuwenden, wenn der Genehmigungsantrag bei der
@@ -10381,6 +10553,18 @@ höheren Verwaltungsbehörde nach dem 7. Juli 2023 eingegangen ist.
 evaluiert die Auswirkungen der Änderungen der §§ 3, 4, 4a und 200 zur
 Digitalisierung und die Änderung des § 6 zur Fristverkürzung auf die
 Bauleitplanverfahren bis zum 31. Dezember 2027.
+
+(3) Abweichend von § 233 Absatz 1 sind in Aufstellung befindliche
+Windenergiegebiete gemäß § 2 Nummer 1 des
+Windenergieflächenbedarfsgesetzes, für die vor dem 15. August 2025 ein
+Beschluss über die Aufstellung, Änderung oder Ergänzung eines
+Flächennutzungsplans gefasst wurde, als Beschleunigungsgebiete nach §
+249c darzustellen, soweit die dort genannten Voraussetzungen dafür
+vorliegen. Die Darstellung als Beschleunigungsgebiet kann
+ausnahmsweise in einem nachfolgenden, innerhalb von drei Monaten
+förmlich einzuleitenden separaten Planverfahren erfolgen. Die Sätze 1
+und 2 gelten entsprechend für Windenergiegebiete, die nach Ablauf des
+19\. Mai 2024 und vor dem 15. August 2025 ausgewiesen worden sind.
 
 
 ### Zweiter Teil - Schlussvorschriften
@@ -10744,8 +10928,7 @@ Verfahren zur Aufstellung von Bebauungsplänen nach Absatz 2 Nummer 3
 bis 5 können nach Außerkrafttreten der Verordnung unter Anwendung der
 Sonderregelungen abgeschlossen werden, wenn die Planunterlagen während
 der Geltungsdauer der Verordnung gemäß § 3 Absatz 2 im Internet
-veröffentlicht wurden. Satz 1 findet bis zum Ablauf des 7. Juli 2024
-keine Anwendung.
+veröffentlicht wurden.
 
 (7) In den ersten sechs Monaten nach Eintritt des Katastrophenfalls
 kann die Baugenehmigungsbehörde mit Zustimmung der höheren
@@ -10816,6 +10999,66 @@ Anlage nicht oder nur insoweit vergrößert wird, als dies zur Erfüllung
 rechtlicher Anforderungen an die Anlage erforderlich ist.
 
 
+#### § 246e Befristete Sonderregelung für den Wohnungsbau
+
+(1) Mit Zustimmung der Gemeinde kann bis zum Ablauf des 31. Dezember
+2030 von den Vorschriften dieses Gesetzbuchs oder den aufgrund dieses
+Gesetzbuchs erlassenen Vorschriften abgewichen werden, wenn die
+Abweichung unter Würdigung nachbarlicher Interessen mit den
+öffentlichen Belangen vereinbar ist und einem der folgenden Vorhaben
+dient:
+
+1.  der Errichtung Wohnzwecken dienender Gebäude,
+
+
+2.  der Erweiterung, Änderung oder Erneuerung zulässigerweise errichteter
+    Gebäude, wenn hierdurch neue Wohnungen geschaffen oder vorhandener
+    Wohnraum wieder nutzbar wird, oder
+
+
+3.  der Nutzungsänderung zulässigerweise errichteter baulicher Anlagen zu
+    Wohnzwecken, einschließlich einer erforderlichen Änderung oder
+    Erneuerung.
+
+
+
+Hat eine Abweichung für Vorhaben im Außenbereich oder eine Abweichung
+von Bebauungsplänen nach überschlägiger Prüfung voraussichtlich
+zusätzliche erhebliche Umweltauswirkungen, ist eine Strategische
+Umweltprüfung nach den §§ 38 bis 46 des Gesetzes über die
+Umweltverträglichkeitsprüfung durchzuführen. Bei Vorhaben nach den
+Nummern 18.7 und 18.8 der Anlage 1 zum Gesetz über die
+Umweltverträglichkeitsprüfung bleibt die Verpflichtung zur
+Durchführung einer Umweltverträglichkeitsprüfung oder einer
+allgemeinen Vorprüfung des Einzelfalls unberührt.
+
+(2) Für die Zustimmung der Gemeinde nach Absatz 1 Satz 1 gilt § 36a
+entsprechend.
+
+(3) Im Außenbereich sind die Absätze 1 und 2 nur auf Vorhaben
+anzuwenden, die im räumlichen Zusammenhang mit Flächen stehen, die
+nach § 30 Absatz 1, Absatz 2 oder § 34 zu beurteilen sind. § 18 Absatz
+2 Satz 2 und Absatz 3 Satz 1 des Bundesnaturschutzgesetzes ist
+anzuwenden.
+
+(4) Die Befristung nach Absatz 1 Satz 1 bezieht sich nicht auf die
+Geltungsdauer einer Genehmigung, sondern auf den Zeitraum, bis zu
+dessen Ende im bauaufsichtlichen Verfahren von der Vorschrift Gebrauch
+gemacht werden kann.
+
+(5) Wird ein Vorhaben nach Absatz 1 zugelassen, können in
+entsprechender Anwendung der Absätze 1 bis 4 auch zugelassen werden:
+
+1.  den Bedürfnissen der Bewohner dienende Anlagen für kulturelle,
+    gesundheitliche und soziale Zwecke,
+
+
+2.  Läden, die zur Deckung des täglichen Bedarfs für die Bewohner dienen.
+
+
+
+
+
 #### § 247 Sonderregelungen für Berlin als Hauptstadt der Bundesrepublik Deutschland
 
 (1) Bei der Aufstellung von Bauleitplänen und sonstigen Satzungen nach
@@ -10877,12 +11120,15 @@ Absatz 1 Satz 1).
 die der Erforschung, Entwicklung oder Nutzung der Windenergie dienen,
 nicht anzuwenden.
 
-(2) Außerhalb der Windenergiegebiete gemäß § 2 Nummer 1 des
-Windenergieflächenbedarfsgesetzes richtet sich die Zulässigkeit der in
-Absatz 1 genannten Vorhaben in einem Land nach § 35 Absatz 2, wenn das
-Erreichen eines in der Anlage des Windenergieflächenbedarfsgesetzes
-bezeichneten Flächenbeitragswerts des Landes gemäß § 5 Absatz 1 oder
-Absatz 2 des Windenergieflächenbedarfsgesetzes festgestellt wurde. Hat
+(2) Wurde das Erreichen eines in der Anlage des
+Windenergieflächenbedarfsgesetzes bezeichneten Flächenbeitragswerts
+des Landes gemäß § 5 Absatz 1 oder Absatz 2 des
+Windenergieflächenbedarfsgesetzes festgestellt, kann außerhalb der
+Windenergiegebiete gemäß § 2 Nummer 1 des
+Windenergieflächenbedarfsgesetzes ein in Absatz 1 genanntes Vorhaben
+nur ausnahmsweise nach § 35 Absatz 2 zugelassen werden, wenn
+ausgeschlossen ist, dass die in § 35 Absatz 3 Satz 1 Nummer 5
+genannten Belange oder das Orts- und Landschaftsbild berührt sind. Hat
 ein Land gemäß § 3 Absatz 2 Satz 1 Nummer 2 oder Satz 2 des
 Windenergieflächenbedarfsgesetzes regionale oder kommunale
 Teilflächenziele bestimmt und wird deren Erreichen gemäß § 5 Absatz 1
@@ -10926,6 +11172,23 @@ Planungsebenen geltenden Vorschriften für Gebietsausweisungen. Für die
 Rechtswirksamkeit des Plans ist es hingegen unbeachtlich, ob und
 welche sonstigen Flächen im Planungsraum für die Ausweisung von
 Windenergiegebieten geeignet sind.
+
+(6a) In dem Plan kann bestimmt werden, dass Vorhaben zur Speicherung
+von Strom oder Wärme mit Ausnahme von Vorhaben zur Speicherung von
+Wärme mit Bohrung ins Erdreich, ebenfalls als Vorhaben nach § 35
+Absatz 1 Nummer 5 gelten, wenn sie
+
+1.  weder planfeststellungs- noch plangenehmigungsbedürftig sind und
+
+
+2.  im räumlich-funktionalen Zusammenhang stehen mit einer Anlage, die der
+    Erforschung, Entwicklung oder Nutzung der Windenergie dient, und
+    gegenüber dieser Anlage eine dienende Funktion aufweisen.
+
+
+
+Die Art und das Maß der Vorhaben nach Satz 1 können im Plan näher
+bestimmt werden.
 
 (7) Sobald und solange nach Ablauf des jeweiligen Stichtages gemäß § 3
 Absatz 1 Satz 2 des Windenergieflächenbedarfsgesetzes weder der
@@ -11119,23 +11382,100 @@ Rechtsverordnung ist § 36 bei der Entscheidung über die Zulässigkeit
 eines Vorhabens nach Satz 1 entsprechend anzuwenden.
 
 
+#### § 249c Beschleunigungsgebiete für die Windenergie an Land
+
+(1) Werden im Flächennutzungsplan Windenergiegebiete gemäß § 2 Nummer
+1 des Windenergieflächenbedarfsgesetzes dargestellt, sind diese
+vorbehaltlich des Absatzes 2 zugleich als Beschleunigungsgebiete für
+die Windenergie an Land darzustellen.
+
+(2) Soweit das Windenergiegebiet in einem der folgenden Gebiete liegt,
+ist die Darstellung als Beschleunigungsgebiet ausgeschlossen:
+
+1.  Natura 2000-Gebiete, Naturschutzgebiete, Nationalparke oder Kern- und
+    Pflegezonen von Biosphärenreservaten nach dem Bundesnaturschutzgesetz
+    oder
+
+
+2.  Gebiete mit landesweit bedeutendem Vorkommen mindestens einer durch
+    den Ausbau der Windenergie betroffenen europäischen Vogelart nach § 7
+    Absatz 2 Nummer 12 des Bundesnaturschutzgesetzes, einer in Anhang IV
+    der Richtlinie 92/43/EWG aufgeführten Art oder einer Art, die in einer
+    Rechtsverordnung nach § 54 Absatz 1 Nummer 2 des
+    Bundesnaturschutzgesetzes aufgeführt ist; diese Gebiete können auf der
+    Grundlage von vorhandenen Daten zu bekannten Artvorkommen oder zu
+    besonders geeigneten Lebensräumen ermittelt werden.
+
+
+
+Eine in Satz 1 Nummer 2 genannte Art ist betroffen, wenn durch den
+Ausbau der Windenergie Verstöße gegen § 44 Absatz 1 Nummer 1 bis 3 des
+Bundesnaturschutzgesetzes zu erwarten sind. Besonders geeignete
+Lebensräume sind insbesondere die Lebensraumtypen nach Anhang I der
+Richtlinie 92/43/EWG, die für durch den Ausbau der Windenergie
+betroffene Arten als Habitate geeignet sind.
+
+(3) Bei der Darstellung der Beschleunigungsgebiete sind geeignete
+Regeln für wirksame Minderungsmaßnahmen für die Errichtung und den
+Betrieb von Anlagen und ihrem Netzanschluss darzustellen, um in der
+Umweltprüfung nach § 2 Absatz 4 ermittelte mögliche negative
+Umweltauswirkungen zu vermeiden oder, falls dies nicht möglich ist,
+erheblich zu verringern. Abweichend von § 2 Absatz 4 und der Anlage 1
+sind Umweltauswirkungen nach Satz 1 nur Auswirkungen auf
+
+1.  die Erhaltungsziele nach § 7 Absatz 1 Nummer 9 des
+    Bundesnaturschutzgesetzes,
+
+
+2.  europäische Vogelarten nach § 7 Absatz 2 Nummer 12 des
+    Bundesnaturschutzgesetzes, in Anhang IV der Richtlinie 92/43/EWG
+    aufgeführte Arten oder Arten, die in einer Rechtsverordnung nach § 54
+    Absatz 1 Nummer 2 des Bundesnaturschutzgesetzes aufgeführt sind, und
+
+
+3.  die Bewirtschaftungsziele nach § 27 des Wasserhaushaltsgesetzes.
+
+
+
+Die Darstellung von Regeln für Minderungsmaßnahmen kann entsprechend
+der Anlage 3 erfolgen.
+
+(4) Die Länder können durch Landesgesetz bestimmen, dass es abweichend
+von Absatz 1 Satz 1 im Ermessen der Gemeinde steht, zusätzliche
+Windenergiegebiete als Beschleunigungsgebiete darzustellen, sobald und
+solange der Flächenbeitragswert nach der Anlage Spalte 2 des
+Windenergieflächenbedarfsgesetzes oder das jeweilige daraus
+abgeleitete Teilflächenziel nach § 3 Absatz 2 Satz 1 Nummer 2 oder
+Satz 2 des Windenergieflächenbedarfsgesetzes erreicht ist.
+
+(5) In einer Rechtsverordnung nach § 249b Absatz 1 können Flächen im
+Geltungsbereich zu Beschleunigungsgebieten für die Windenergie an Land
+erklärt werden. Die Absätze 2 und 3 sind entsprechend anzuwenden.
+
+(6) Eine Verletzung der Anforderungen der Absätze 1 bis 3 und 5 an die
+Ausweisung von Beschleunigungsgebieten ist für die Rechtswirksamkeit
+des Windenergiegebiets im Übrigen unbeachtlich.
+
+
 #### § 250 Bildung von Wohnungseigentum in Gebieten mit angespannten Wohnungsmärkten
 
 (1) Sofern Gebiete mit angespannten Wohnungsmärkten im Sinne von §
 201a Satz 3 und 4 vorliegen und diese Gebiete nach Satz 3 bestimmt
-sind, bedarf bei Wohngebäuden, die bereits am Tag des Inkrafttretens
-der Rechtsverordnung nach Satz 3 bestanden, die Begründung oder
-Teilung von Wohnungseigentum oder Teileigentum nach § 1 des
-Wohnungseigentumsgesetzes der Genehmigung. Das Genehmigungserfordernis
-nach Satz 1 gilt nicht, wenn sich in dem Wohngebäude nicht mehr als
-fünf Wohnungen befinden. Die Landesregierungen werden ermächtigt, die
-Gebiete nach Satz 1 durch Rechtsverordnung zu bestimmen, die
-spätestens mit Ablauf des 31. Dezember 2025 außer Kraft treten muss.
-Sie muss begründet werden. Aus der Begründung muss sich ergeben, auf
-Grund welcher Tatsachen ein Gebiet mit einem angespannten
-Wohnungsmarkt im Einzelfall vorliegt. In der Rechtsverordnung nach
-Satz 3 kann eine von Satz 2 abweichende Anzahl an Wohnungen bestimmt
-werden; diese Anzahl kann zwischen drei und 15 liegen.
+sind, bedarf bei Wohngebäuden, die bereits am Tag des erstmaligen
+Inkrafttretens einer Rechtsverordnung nach Satz 3 bestanden, die
+Begründung oder Teilung von Wohnungseigentum oder Teileigentum nach §
+1 des Wohnungseigentumsgesetzes der Genehmigung. Das
+Genehmigungserfordernis nach Satz 1 gilt nicht für Flächen, auf denen
+zusätzlicher Wohnraum geschaffen wird, oder wenn sich in dem
+Wohngebäude nicht mehr als fünf Wohnungen befinden. Die
+Landesregierungen werden ermächtigt, die Gebiete nach Satz 1 durch
+Rechtsverordnung zu bestimmen, die spätestens mit Ablauf des 31.
+Dezember 2030 außer Kraft treten muss. Sie muss begründet werden. Aus
+der Begründung muss sich ergeben, auf Grund welcher Tatsachen ein
+Gebiet mit einem angespannten Wohnungsmarkt im Einzelfall vorliegt. In
+der Rechtsverordnung nach Satz 3 kann eine von Satz 2 abweichende
+Anzahl an Wohnungen bestimmt werden; diese Anzahl kann zwischen drei
+und 15 liegen.
 
 (2) Zuständig für die Genehmigung ist die von der Landesregierung
 bestimmte Stelle. § 173 Absatz 3 gilt entsprechend.
@@ -11506,6 +11846,246 @@ genommen wird.
         Denkmalensembles, Bodendenkmäler oder Gebiete, die von der durch die
         Länder bestimmten Denkmalschutzbehörde als archäologisch bedeutende
         Landschaften eingestuft worden sind.
+
+
+
+(zu § 249c Absatz 3 Satz 3)
+
+#### Anlage 3 Darstellung von geeigneten Regeln für wirksame Minderungsmaßnahmen durch die Gemeinde
+
+(Fundstelle: BGBl. 2025 I Nr. 189, S. 10 - 12)
+
+Als Regeln für Minderungsmaßnahmen bestimmt die Gemeinde für das
+jeweilige Beschleunigungsgebiet und unter Berücksichtigung der dort zu
+erwartenden Umweltauswirkungen, welche Arten von Minderungsmaßnahmen
+regelmäßig oder anlassbezogen durchzuführen oder zu prüfen sind.
+
+Hat die Gemeinde auf der Grundlage der nach Nummer I.3 ermittelten
+Umweltauswirkungen die einschlägigen Kategorien von
+Minderungsmaßnahmen aus den Kategorien II.1 bis II.2 ausgewählt und
+der Zulassungsbehörde aufgegeben, hieraus projektbezogene
+Minderungsmaßnahmen zu entwickeln, werden die Verpflichtungen in §
+249c Absatz 3 damit erfüllt. Die Anwendung der Anlage 3 ist für die
+Gemeinden nicht verbindlich; sie können auch abweichende Konzepte zur
+Aufstellung von Regeln für Minderungsmaßnahmen anwenden.
+
+**I. Kriterien für die Darstellung von geeigneten Regeln für wirksame
+Minderungsmaßnahmen**
+
+Die Gemeinde richtet die Regeln an den folgenden Kriterien nach
+Artikel 15c Absatz 1 Unterabsatz 2 der Richtlinie (EU) 2018/2001 in
+der Fassung vom 17. Mai 2024 aus:
+
+**I.1 Besonderheiten des jeweiligen Beschleunigungsgebietes**
+
+Die Besonderheiten des jeweiligen Beschleunigungsgebietes werden auf
+der Grundlage aller vorhandenen umweltbezogenen Daten einschließlich
+der Ergebnisse der Prüfung nach § 1a Absatz 4, sofern diese
+durchzuführen ist, sowie der Prüfung nach § 2 Absatz 4 bestimmt; dies
+sind die Prüfungsergebnisse bezogen auf die Windenergiegebiete, die
+den darzustellenden Beschleunigungsgebieten zugrunde liegen. Auf die
+Bestandsaufnahme im Umweltbericht auf der Grundlage der Anlage 1
+Nummer 2 Buchstabe a kann Bezug genommen werden. Neben bedeutenden
+Artvorkommen sind die vorhandenen Biotope und deren Wertigkeit, die
+Habitatausstattung sowie der ökologische Zustand oder das ökologische
+Potenzial eines oberirdischen Gewässers zu berücksichtigen.
+
+**I.2 Art der vorrangigen Erneuerbare-Energien-Technologie**
+
+Art der Erneuerbare-Energien-Technologien, für die ein
+Beschleunigungsgebiet ausgewiesen wird, sind die Windenergie an Land
+sowie die auf der Grundlage von § 249 Absatz 6a im Plan bestimmten
+zulässigen Anlagen zur Speicherung von Strom oder Wärme, jeweils
+einschließlich der zulässigen Nebenanlagen, insbesondere ihres
+Netzanschlusses.
+
+**I.3 Ermittelte Umweltauswirkungen**
+
+Bei der Ermittlung der Umweltauswirkungen sind zu berücksichtigen:
+
+a)  die Kriterien nach den Nummern I.1 und I.2,
+
+
+b)  die Prognose im Umweltbericht auf der Grundlage der Anlage 1 Nummer 2
+    Buchstabe b,
+
+
+c)  die technologiebezogenen, nicht vorhabenbezogenen Wirkfaktoren von
+    Windenergie, die Konfliktintensität sowie die Wirksamkeit der
+    potenziellen Minderungsmaßnahmen und
+
+
+d)  die Sensibilität und die naturschutzfachliche Bedeutung der
+    betroffenen besonders geschützten Arten unter Berücksichtigung des
+    Erhaltungszustands und des Gefährdungsgrads sowie der besonders
+    geeigneten Lebensräume dieser Arten.
+
+
+
+
+**I.4 Auflistung möglicher Umweltauswirkungen**
+
+Mögliche Umweltauswirkungen sind:
+
+a)  baubedingte Beeinträchtigungen der boden- und gehölzbrütenden
+    europäischen Vogelarten und Arten, die im Anhang IV der Richtlinie
+    92/43/EWG aufgeführt sind, insbesondere der Fledermäuse,
+
+
+b)  Beschädigung oder Zerstörung von Fortpflanzungs- und Ruhestätten von
+    europäischen Vogelarten und Arten, die im Anhang IV der Richtlinie
+    92/43/EWG aufgeführt sind (§ 44 Absatz 1 Nummer 3 des
+    Bundesnaturschutzgesetzes),
+
+
+c)  bau-, anlagen- und betriebsbedingte Auswirkungen auf Rastgebiete,
+    Kolonien, Schlafplatzgemeinschaften oder sonstige Ansammlungen
+    störungsempfindlicher europäischer Vogelarten (§ 44 Absatz 1 Nummer 2
+    des Bundesnaturschutzgesetzes),
+
+
+d)  erhebliche Beeinträchtigung eines in der Nähe des
+    Beschleunigungsgebiets gelegenen Natura 2000-Gebiets (§ 34 Absatz 1
+    des Bundesnaturschutzgesetzes),
+
+
+e)  Auswirkungen auf den ökologischen Zustand oder das ökologische
+    Potenzial eines oberirdischen Gewässers (§ 27 des
+    Wasserhaushaltsgesetzes),
+
+
+f)  betriebsbedingte Tötung oder Verletzung von Vorkommen
+    kollisionsgefährdeter europäischer Vogelarten und Arten, die im Anhang
+    IV der Richtlinie 92/43/EWG aufgeführt sind, insbesondere von
+
+    aa) kollisionsgefährdeten Brutvogelarten als Einzelbrutpaaren nach der
+        Anlage 1 Abschnitt 1 des Bundesnaturschutzgesetzes (§ 44 Absatz 1
+        Nummer 1 des Bundesnaturschutzgesetzes),
+
+
+    bb) kollisionsgefährdeten Brutvogelarten in Kolonien,
+        Schlafplatzgemeinschaften oder sonstigen Ansammlungen (§ 44 Absatz 1
+        Nummer 1 des Bundesnaturschutzgesetzes),
+
+
+    cc) Fledermausarten (§ 44 Absatz 1 Nummer 1 des
+        Bundesnaturschutzgesetzes),
+
+
+
+
+
+g)  betriebsbedingte Störung von europäischen Vogelarten und Arten, die im
+    Anhang IV der Richtlinie 92/43/EWG aufgeführt sind, einschließlich
+    Fledermäusen (§ 44 Absatz 1 Nummer 2 des Bundesnaturschutzgesetzes).
+
+
+
+
+**II. Darstellung der geeigneten Regeln für wirksame
+Minderungsmaßnahmen**
+
+Die Gemeinde hat für das jeweilige Beschleunigungsgebiet Regeln für
+Minderungsmaßnahmen auf Basis der Kriterien nach Nummer I
+darzustellen.
+
+Als Regeln für Minderungsmaßnahmen kann die Gemeinde Kategorien von
+Minderungsmaßnahmen sowie Beispiele für in Betracht kommende Maßnahmen
+darstellen. Bei dieser Darstellung kann die planaufstellende Behörde
+insbesondere Bezug nehmen auf
+
+a)  die Darlegungen im Umweltbericht auf der Grundlage von Anlage 1 Nummer
+    2 Buchstabe c und d,
+
+
+b)  den nachfolgenden, nicht abschließenden Katalog von Kategorien von
+    Minderungsmaßnahmen einschließlich der allgemeinen Beispiele für
+    Maßnahmen.
+
+
+
+
+**II.1 Kategorien von Minderungsmaßnahmen für Windenergieanlagen**
+
+a)  baubedingte Minderungsmaßnahmen, insbesondere
+
+    aa) ökologische Baubegleitung und zeitliche Beschränkung der
+        Baufeldfreimachung,
+
+
+    bb) Schutzzäune für Amphibien und Reptilien,
+
+
+    cc) Schutzmaßnahmen in Anlehnung an vorgezogene Ausgleichsmaßnahmen zur
+        dauerhaften Sicherung der ökologischen Funktion (CEF-Maßnahmen) wie
+        Fledermauskästen;
+
+
+
+
+
+b)  anlagenbedingte Minderungsmaßnahmen;
+
+
+c)  betriebsbedingte Minderungsmaßnahmen, insbesondere
+
+    aa) Schutzmaßnahmen nach Anlage 1 Abschnitt 2 des
+        Bundesnaturschutzgesetzes für kollisionsgefährdete Brutvogelarten als
+        Einzelbrutpaare,
+
+
+    bb) Schutzmaßnahmen in Anlehnung an Anlage 1 Abschnitt 2 des
+        Bundesnaturschutzgesetzes für kollisionsgefährdete Brutvogelarten in
+        Kolonien, Schlafplatzgemeinschaften oder sonstigen Ansammlungen.
+
+
+
+
+
+
+
+**II.2 Kategorien von Minderungsmaßnahmen für im Plan bestimmte
+zulässige Anlagen zur Speicherung von Strom oder Wärme und
+Nebenanlagen**
+
+a)  baubedingte Maßnahmen, insbesondere
+
+    aa) ökologische Baubegleitung und zeitliche Beschränkung der
+        Baufeldfreimachung,
+
+
+    bb) Vermeidung der Inanspruchnahme sensibler Bereiche wie gesetzlich
+        geschützter Biotope nach § 30 des Bundesnaturschutzgesetzes,
+
+
+    cc) boden- und grundwasserschonender und rückstandsloser Rückbau;
+
+
+
+
+
+b)  anlagenbedingte Maßnahmen, insbesondere
+
+    aa) Begrenzung der maximal versiegelten Fläche,
+
+
+    bb) Integration von standortangepassten Typen von Biotopelementen,
+
+
+    cc) Dachbegrünung,
+
+
+    dd) Sicherstellung, dass bei thermischer Beeinflussung des Grundwassers
+        und von Oberflächengewässern diese gering gehalten wird;
+
+
+
+
+
+c)  betriebsbedingte Maßnahmen, insbesondere Pflegekonzept zur Förderung
+    und Entwicklung autochthoner, standorttypischer, artenreicher
+    Pflanzengesellschaften.
+
 
 
 

@@ -18,7 +18,7 @@ Fundstelle
 
 Stand: Der Staatsvertrag ist gem. § 17 Abs. 1 Satz 1 iVm Bek. v. 8.10.2010 I 1404 am 1.1.2011 in Kraft getreten
 
-## (XXXX)
+## Eingangsformel
 
 
 *   Die Bundesrepublik Deutschland,

@@ -250,7 +250,7 @@ einer von ihr festzusetzenden Frist
     auszuhändigen oder einzusenden; werden die Unterlagen automatisiert
     gespeichert, sind sie den zuständigen Behörden auf deren Verlangen
     nach Maßgabe von Satz 12 durch Datenfernübertragung oder auf einem von
-    der jeweiligen Behörde zu bestimmenden Datenträger nach Satz 11 zur
+    der jeweiligen Behörde zu bestimmenden Datenträger nach Satz 12 zur
     Verfügung zu stellen.
 
 

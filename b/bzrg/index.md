@@ -18,7 +18,9 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 21.9.1984 I 1229, 1985 I 195;
 
-Stand: zuletzt geändert Art. 11 G v. 27.3.2024 I Nr. 109
+Zuletzt geändert durch
+:   Art. 5 G v. 19.7.2024 I Nr. 245
+
 Mittelbare änderung durch
 :   Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war
 
@@ -639,9 +641,10 @@ bisherigen Namen oder Geburtsdatum folgende weitere Daten zu
 
 
 
-Die Mitteilung ist ungeachtet des Offenbarungsverbots nach § 5 Abs. 1
-des Transsexuellengesetzes und des Adoptionsgeheimnisses nach § 1758
-Abs. 1 des Bürgerlichen Gesetzbuchs zulässig.
+Die Mitteilung ist ungeachtet des Offenbarungsverbots nach § 13 Absatz
+1 Satz 1 des Gesetzes über die Selbstbestimmung in Bezug auf den
+Geschlechtseintrag und des Adoptionsgeheimnisses nach § 1758 Abs. 1
+des Bürgerlichen Gesetzbuchs zulässig.
 
 (2) Enthält das Register eine Eintragung oder einen Suchvermerk über
 diejenige Person, deren Geburtsname, Familienname, Vorname oder
@@ -1066,7 +1069,7 @@ Strafregister erteilt, ist hierauf im Führungszeugnis hinzuweisen.
 (1) Erfolgt die Antragstellung abweichend von § 30 Absatz 2 oder
 Absatz 3 elektronisch, ist der Antrag unter Nutzung des im Internet
 angebotenen Zugangs unmittelbar bei der Registerbehörde oder über das
-Nutzerkonto nach § 3 Absatz 2 Satz 1 des Onlinezugangsgesetzes zu
+Nutzerkonto nach § 3 Absatz 1 Satz 1 des Onlinezugangsgesetzes zu
 stellen. Die antragstellende Person kann sich nicht durch
 Bevollmächtigte vertreten lassen. Handelt sie in gesetzlicher
 Vertretung, hat sie ihre Vertretungsmacht nachzuweisen.

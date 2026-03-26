@@ -20,7 +20,7 @@ Neugefasst durch
 :   Bek. v. 17.5.2013 I 1274; 2021, 123;
 
 Zuletzt geändert durch
-:   Art. 11 Abs. 3 G v. 26.7.2023 I Nr. 202
+:   Art. 2 G v. 22.12.2025 I Nr. 348
 
 
 ## Erster Teil - Allgemeine Vorschriften
@@ -29,10 +29,10 @@ Zuletzt geändert durch
 
 ### § 1 Zweck des Gesetzes
 
-(1) Zweck dieses Gesetzes ist es, Menschen, Tiere und Pflanzen, den
-Boden, das Wasser, die Atmosphäre sowie Kultur- und sonstige Sachgüter
-vor schädlichen Umwelteinwirkungen zu schützen und dem Entstehen
-schädlicher Umwelteinwirkungen vorzubeugen.
+(1) Zweck dieses Gesetzes ist es, Menschen, Wild- und Nutztiere und
+Pflanzen, den Boden, das Wasser, die Atmosphäre, das Klima sowie
+Kultur- und sonstige Sachgüter vor schädlichen Umwelteinwirkungen zu
+schützen und dem Entstehen schädlicher Umwelteinwirkungen vorzubeugen.
 
 (2) Soweit es sich um genehmigungsbedürftige Anlagen handelt, dient
 dieses Gesetz auch
@@ -113,11 +113,11 @@ Immissionen, die nach Art, Ausmaß oder Dauer geeignet sind, Gefahren,
 erhebliche Nachteile oder erhebliche Belästigungen für die
 Allgemeinheit oder die Nachbarschaft herbeizuführen.
 
-(2) Immissionen im Sinne dieses Gesetzes sind auf Menschen, Tiere und
-Pflanzen, den Boden, das Wasser, die Atmosphäre sowie Kultur- und
-sonstige Sachgüter einwirkende Luftverunreinigungen, Geräusche,
-Erschütterungen, Licht, Wärme, Strahlen und ähnliche
-Umwelteinwirkungen.
+(2) Immissionen im Sinne dieses Gesetzes sind auf Menschen, Wild- und
+Nutztiere und Pflanzen, den Boden, das Wasser, die Atmosphäre, das
+Klima sowie Kultur- und sonstige Sachgüter einwirkende
+Luftverunreinigungen, Geräusche, Erschütterungen, Licht, Wärme,
+Strahlen und ähnliche Umwelteinwirkungen.
 
 (3) Emissionen im Sinne dieses Gesetzes sind die von einer Anlage
 ausgehenden Luftverunreinigungen, Geräusche, Erschütterungen, Licht,
@@ -365,6 +365,9 @@ effizienten Verwendung von Energie in Bezug auf die Emissionen von
 Kohlendioxid, die auf Verbrennungs- oder anderen Prozessen der Anlage
 beruhen, keine Anforderungen gestellt werden, die über die Pflichten
 hinausgehen, welche das Treibhausgas-Emissionshandelsgesetz begründet.
+Davon ausgenommen sind Anforderungen an die Abwärmenutzung;
+Näheres hierzu regelt eine Rechtsverordnung. Der Deutsche Bundestag
+ist dabei nach § 48b zu beteiligen.
 
 (3) Genehmigungsbedürftige Anlagen sind so zu errichten, zu betreiben
 und stillzulegen, dass auch nach einer Betriebseinstellung
@@ -687,6 +690,23 @@ erforderlich sind, begonnen wird, wenn
 
 
 
+Satz 1 Nummer 1 findet auf Antrag des Antragstellers keine Anwendung
+in Verfahren zur Erteilung
+
+1.  einer Genehmigung für eine Anlage auf einem bereits bestehenden
+    Standort,
+
+
+2.  einer Änderungsgenehmigung.
+
+
+
+In den Fällen des Satzes 2 dürfen die für die beantragten vorläufigen
+Maßnahmen relevanten Vorschriften dieses Gesetzes und der aufgrund
+dieses Gesetzes erlassenen Vorschriften sowie sonstige für die
+beantragten vorläufigen Maßnahmen relevante öffentlich-rechtliche
+Vorschriften und Belange des Arbeitsschutzes der vorzeitigen Zulassung
+nicht entgegenstehen.
 
 (2) Die Zulassung kann jederzeit widerrufen werden. Sie kann mit
 Auflagen verbunden oder unter dem Vorbehalt nachträglicher Auflagen
@@ -710,6 +730,24 @@ entschieden werden, sofern die Auswirkungen der geplanten Anlage
 ausreichend beurteilt werden können und ein berechtigtes Interesse an
 der Erteilung eines Vorbescheides besteht.
 
+(1a) Betrifft das Vorhaben eine Windenergieanlage und ist ein Antrag
+auf Genehmigung noch nicht gestellt, soll auf Antrag durch Vorbescheid
+über einzelne Genehmigungsvoraussetzungen entschieden werden, sofern
+ein berechtigtes Interesse an der Erteilung eines Vorbescheids
+besteht. Das berechtigte Interesse für einen Antrag auf Vorbescheid
+über die bauplanungsrechtliche Zulässigkeit nach § 35 des
+Baugesetzbuchs besteht nicht, wenn der Vorhabenstandort außerhalb von
+ausgewiesenen Windenergiegebieten oder in Aufstellung befindlichen
+Windenergiegebieten im Sinne des § 2 Nummer 1 des
+Windenergieflächenbedarfsgesetzes vom 20. Juli 2022 (BGBl. I S. 1353),
+das zuletzt durch Artikel 12 des Gesetzes vom 8. Mai 2024 (BGBl. 2024
+I Nr. 151) geändert worden ist, liegt, es sei denn, es handelt sich um
+ein Vorhaben im Sinne des § 16b Absatz 1 und 2 dieses Gesetzes.
+Abweichend von § 29 Absatz 1 Satz 1 des Gesetzes über die
+Umweltverträglichkeitsprüfung findet eine vorläufige
+Umweltverträglichkeitsprüfung im Hinblick auf die Umweltauswirkungen
+des Gesamtvorhabens für die Erteilung des Vorbescheides nicht statt.
+
 (2) Der Vorbescheid wird unwirksam, wenn der Antragsteller nicht
 innerhalb von zwei Jahren nach Eintritt der Unanfechtbarkeit die
 Genehmigung beantragt; die Frist kann auf Antrag bis auf vier Jahre
@@ -726,9 +764,14 @@ erforderlichen Zeichnungen, Erläuterungen und sonstigen Unterlagen
 beizufügen. Reichen die Unterlagen für die Prüfung nicht aus, so hat
 sie der Antragsteller auf Verlangen der zuständigen Behörde innerhalb
 einer angemessenen Frist zu ergänzen. Erfolgt die Antragstellung
-elektronisch, kann die zuständige Behörde Mehrfertigungen sowie die
-Übermittlung der dem Antrag beizufügenden Unterlagen auch in
-schriftlicher Form verlangen.
+schriftlich, kann die zuständige Behörde einen elektronischen Antrag
+verlangen und bezüglich des elektronischen Formats Vorgaben machen.
+Hat die zuständige Behörde einen Zugang für die elektronische
+Antragstellung eröffnet, so ist ausschließlich dieser für die
+elektronische Antragstellung zu nutzen. Erfolgt die Antragstellung
+elektronisch, kann die zuständige Behörde verlangen, dass die dem
+Antrag beizufügenden Unterlagen in Papierform übermittelt werden,
+soweit eine Bearbeitung anders nicht möglich ist.
 
 (1a) Der Antragsteller, der beabsichtigt, eine Anlage nach der
 Industrieemissions-Richtlinie zu betreiben, in der relevante
@@ -737,7 +780,7 @@ den Unterlagen nach Absatz 1 einen Bericht über den Ausgangszustand
 vorzulegen, wenn und soweit eine Verschmutzung des Bodens oder des
 Grundwassers auf dem Anlagengrundstück durch die relevanten
 gefährlichen Stoffe möglich ist. Die Möglichkeit einer Verschmutzung
-des Bodens oder des Grundwassers besteht nicht, wenn auf Grund der
+des Bodens oder des Grundwassers besteht nicht, wenn aufgrund der
 tatsächlichen Umstände ein Eintrag ausgeschlossen werden kann.
 
 (2) Soweit Unterlagen Geschäfts- oder Betriebsgeheimnisse enthalten,
@@ -749,22 +792,30 @@ Anlage betroffen werden können.
 
 (3) Sind die Unterlagen des Antragstellers vollständig, so hat die
 zuständige Behörde das Vorhaben in ihrem amtlichen
-Veröffentlichungsblatt und außerdem entweder im Internet oder in
-örtlichen Tageszeitungen, die im Bereich des Standortes der Anlage
-verbreitet sind, öffentlich bekannt zu machen. Der Antrag und die vom
-Antragsteller vorgelegten Unterlagen, mit Ausnahme der Unterlagen nach
-Absatz 2 Satz 1, sowie die entscheidungserheblichen Berichte und
-Empfehlungen, die der Behörde im Zeitpunkt der Bekanntmachung
-vorliegen, sind nach der Bekanntmachung einen Monat zur Einsicht
-auszulegen. Weitere Informationen, die für die Entscheidung über die
-Zulässigkeit des Vorhabens von Bedeutung sein können und die der
-zuständigen Behörde erst nach Beginn der Auslegung vorliegen, sind der
-Öffentlichkeit nach den Bestimmungen über den Zugang zu
-Umweltinformationen zugänglich zu machen. Bis zwei Wochen nach Ablauf
-der Auslegungsfrist kann die Öffentlichkeit gegenüber der zuständigen
-Behörde schriftlich oder elektronisch Einwendungen erheben; bei
-Anlagen nach der Industrieemissions-Richtlinie gilt eine Frist von
-einem Monat. Mit Ablauf der Einwendungsfrist sind für das
+Veröffentlichungsblatt und auf ihrer Internetseite öffentlich bekannt
+zu machen. Der Antrag und die vom Antragsteller vorgelegten
+Unterlagen, mit Ausnahme der Unterlagen nach Absatz 2 Satz 1, sowie
+die entscheidungserheblichen Berichte und Empfehlungen, die der
+Behörde im Zeitpunkt der Bekanntmachung vorliegen, sind nach der
+Bekanntmachung einen Monat zur Einsicht auszulegen. Die Auslegung ist
+dadurch zu bewirken, dass die Dokumente auf einer Internetseite der
+zuständigen Behörde zugänglich gemacht werden. Auf Verlangen eines
+Beteiligten wird ihm eine leicht zu erreichende Zugangsmöglichkeit zur
+Verfügung gestellt. Der Antragsteller kann der Veröffentlichung im
+Internet widersprechen, soweit er die Gefährdung von Betriebs- oder
+Geschäftsgeheimnissen oder wichtiger Sicherheitsbelange befürchtet; in
+diesem Fall muss die Behörde eine andere Form der Veröffentlichung
+wählen. Die Behörde kann verlangen, dass die Dokumente, die für die
+Auslegung einzureichen sind, in einem verkehrsüblichen elektronischen
+Format eingereicht werden. Weitere Informationen, die für die
+Entscheidung über die Zulässigkeit des Vorhabens von Bedeutung sein
+können und die der zuständigen Behörde erst nach Beginn der Auslegung
+vorliegen, sind der Öffentlichkeit nach den Bestimmungen über den
+Zugang zu Umweltinformationen zugänglich zu machen. Bis zwei Wochen
+nach Ablauf der Auslegungsfrist kann die Öffentlichkeit gegenüber der
+zuständigen Behörde schriftlich oder elektronisch Einwendungen
+erheben; bei Anlagen nach der Industrieemissions-Richtlinie gilt eine
+Frist von einem Monat. Mit Ablauf der Einwendungsfrist sind für das
 Genehmigungsverfahren alle Einwendungen ausgeschlossen, die nicht auf
 besonderen privatrechtlichen Titeln beruhen. Einwendungen, die auf
 besonderen privatrechtlichen Titeln beruhen, sind auf den Rechtsweg
@@ -776,19 +827,21 @@ Weise unterstützen.
 
 (4) In der Bekanntmachung nach Absatz 3 Satz 1 ist
 
-1.  darauf hinzuweisen, wo und wann der Antrag auf Erteilung der
-    Genehmigung und die Unterlagen zur Einsicht ausgelegt sind;
+1.  die Internetseite auf der die Zugänglichmachung erfolgt, anzugeben,
+    und darauf hinzuweisen, dass zusätzlich die Möglichkeit besteht, eine
+    leicht zu erreichende Zugangsmöglichkeit zur Verfügung gestellt zu
+    bekommen;
 
 
 2.  dazu aufzufordern, etwaige Einwendungen bei einer in der
     Bekanntmachung zu bezeichnenden Stelle innerhalb der Einwendungsfrist
-    vorzubringen; dabei ist auf die Rechtsfolgen nach Absatz 3 Satz 5
+    vorzubringen; dabei ist auf die Rechtsfolgen nach Absatz 3 Satz 9
     hinzuweisen;
 
 
-3.  ein Erörterungstermin zu bestimmen und darauf hinzuweisen, dass er auf
-    Grund einer Ermessensentscheidung der Genehmigungsbehörde nach Absatz
-    6 durchgeführt wird und dass dann die formgerecht erhobenen
+3.  ein Erörterungstermin zu bestimmen und darauf hinzuweisen, dass er
+    aufgrund einer Ermessensentscheidung der Genehmigungsbehörde nach
+    Absatz 6 durchgeführt wird und dass dann die formgerecht erhobenen
     Einwendungen auch bei Ausbleiben des Antragstellers oder von Personen,
     die Einwendungen erhoben haben, erörtert werden;
 
@@ -801,69 +854,71 @@ Weise unterstützen.
 
 (5) Die für die Erteilung der Genehmigung zuständige Behörde
 (Genehmigungsbehörde) holt die Stellungnahmen der Behörden ein, deren
-Aufgabenbereich durch das Vorhaben berührt wird. Hat eine zu
-beteiligende Behörde bei einem Verfahren zur Genehmigung einer Anlage
-zur Nutzung erneuerbarer Energien innerhalb einer Frist von einem
-Monat keine Stellungnahme abgegeben, so ist davon auszugehen, dass die
-beteiligte Behörde sich nicht äußern will. Die zuständige Behörde hat
-die Entscheidung in diesem Fall auf Antrag auf der Grundlage der
-geltenden Sach- und Rechtslage zum Zeitpunkt des Ablaufs der
-Monatsfrist zu treffen. Soweit für das Vorhaben selbst oder für
-weitere damit unmittelbar in einem räumlichen oder betrieblichen
-Zusammenhang stehende Vorhaben, die Auswirkungen auf die Umwelt haben
-können und die für die Genehmigung Bedeutung haben, eine Zulassung
-nach anderen Gesetzen vorgeschrieben ist, hat die Genehmigungsbehörde
-eine vollständige Koordinierung der Zulassungsverfahren sowie der
-Inhalts- und Nebenbestimmungen sicherzustellen.
-
-(5a) Betrifft das Vorhaben eine Anlage, die in den Anwendungsbereich
-der Richtlinie (EU) 2018/2001 des Europäischen Parlaments und des
-Rates vom 11. Dezember 2018 zur Förderung der Nutzung von Energie aus
-erneuerbaren Quellen (Neufassung) (ABl. L 328 vom 21.12.2018, S. 82)
-fällt, gilt ergänzend Folgendes:
-
-1.  Auf Antrag des Trägers des Vorhabens wird das Genehmigungsverfahren
-    sowie alle sonstigen Zulassungsverfahren, die für die Durchführung des
-    Vorhabens nach Bundes- oder Landesrecht erforderlich sind, über eine
-    einheitliche Stelle abgewickelt.
-
-
-2.  Die einheitliche Stelle nach Nummer 1 stellt ein Verfahrenshandbuch
-    für Träger von Vorhaben bereit und macht diese Informationen auch im
-    Internet zugänglich. Dabei geht sie gesondert auch auf kleinere
-    Vorhaben und Vorhaben zur Eigenversorgung mit Elektrizität ein, soweit
-    sich das Genehmigungserfordernis nach § 1 Absatz 2 der Verordnung über
-    genehmigungsbedürftige Anlagen darauf erstreckt. In den im Internet
-    veröffentlichten Informationen weist die einheitliche Stelle auch
-    darauf hin, für welche Vorhaben sie zuständig ist und welche weiteren
-    einheitlichen Stellen im jeweiligen Land für Vorhaben nach Satz 1
-    zuständig sind.
-
-
-3.  Die zuständige und die zu beteiligenden Behörden sollen die zur
-    Prüfung des Antrags zusätzlich erforderlichen Unterlagen in einer
-    einmaligen Mitteilung an den Antragsteller zusammenfassen. Nach
-    Eingang der vollständigen Antragsunterlagen erstellt die
-    Genehmigungsbehörde einen Zeitplan für das weitere Verfahren und teilt
-    diesen Zeitplan in den Fällen der Nummer 1 der einheitlichen Stelle,
-    andernfalls dem Antragsteller mit.
-
-
-
+Aufgabenbereich durch das Vorhaben berührt wird. Eingegangene
+Stellungnahmen der zu beteiligenden Behörden hat die
+Genehmigungsbehörde unverzüglich an den Antragsteller weiterzuleiten.
+Hat eine zu beteiligende Behörde bei einem Verfahren zur Genehmigung
+einer Anlage innerhalb einer Frist von einem Monat keine Stellungnahme
+abgegeben, so ist davon auszugehen, dass die zu beteiligende Behörde
+sich nicht äußern will, soweit die zu beteiligende Behörde nicht in
+schriftlicher Form um eine einmalige Verlängerung um bis zu einem
+Monat bittet; die Möglichkeit zur Verlängerung gilt nicht für
+Verfahren zur Genehmigung einer Anlage zur Nutzung erneuerbarer
+Energien oder einer Anlage zur Herstellung von Wasserstoff aus
+erneuerbaren Energien. Die zuständige Behörde hat die Entscheidung im
+Falle des Satzes 3 bei einem Verfahren zur Genehmigung einer Anlage
+zur Nutzung erneuerbarer Energien oder einer Anlage zur Herstellung
+von Wasserstoff aus erneuerbaren Energien auf Antrag auf der Grundlage
+der geltenden Sach- und Rechtslage zum Zeitpunkt des Fristablaufs der
+Behördenbeteiligung zu treffen. Anstelle der Stellungnahme der zu
+beteiligenden Behörde kann die Behörde entweder zu Lasten der zu
+beteiligenden Behörde zur Prüfung der Genehmigungsvoraussetzungen ein
+Sachverständigengutachten einholen oder selbst Stellung nehmen. Beides
+hat auf der Grundlage der geltenden Sach- und Rechtslage zum Zeitpunkt
+des Fristablaufs der Behördenbeteiligung zu erfolgen; dies gilt nicht
+für militärische Belange. Ist von vorneherein davon auszugehen, dass
+eine beteiligte Behörde innerhalb der Frist nach Satz 3 nicht in der
+Lage ist, zu entscheidungserheblichen Aspekten des Antrags Stellung zu
+nehmen, kann die Genehmigungsbehörde bereits vor Ablauf der Frist ein
+Sachverständigengutachten nach Satz 5 einholen. Die zuständige Behörde
+informiert ihre Aufsichtsbehörde über jede Überschreitung von Fristen.
+Beabsichtigt eine beteiligte Behörde eine gesetzlich erforderliche
+Zustimmung nicht zu erteilen, hat die beteiligte Behörde vor Abgabe
+ihrer Entscheidung dem Antragsteller innerhalb einer von der Behörde
+festzusetzenden Frist die Möglichkeit zur Stellungnahme zu geben. In
+diesem Fall findet § 20 Absatz 1 Satz 2 der Neunten Verordnung zur
+Durchführung des Bundes-Immissionsschutzgesetzes keine Anwendung.
+Soweit für das Vorhaben selbst oder für weitere damit unmittelbar in
+einem räumlichen oder betrieblichen Zusammenhang stehende Vorhaben,
+die Auswirkungen auf die Umwelt haben können und die für die
+Genehmigung Bedeutung haben, eine Zulassung nach anderen Gesetzen
+vorgeschrieben ist, hat die Genehmigungsbehörde eine vollständige
+Koordinierung der Zulassungsverfahren sowie der Inhalts- und
+Nebenbestimmungen sicherzustellen.
 
 (6) Nach Ablauf der Einwendungsfrist kann die Genehmigungsbehörde die
 rechtzeitig gegen das Vorhaben erhobenen Einwendungen mit dem
 Antragsteller und denjenigen, die Einwendungen erhoben haben,
-erörtern.
+erörtern. Der Erörterungstermin kann auch in Form einer
+Onlinekonsultation oder durch eine Video- oder Telefonkonferenz
+erfolgen. Bei einer Onlinekonsultation ist dem Antragsteller und
+denjenigen, die Einwendungen erhoben haben, innerhalb einer vorher
+bekannt zu machenden Frist Gelegenheit zu geben, sich schriftlich oder
+elektronisch zu äußern. Die Frist soll mindestens eine Woche betragen.
+Werden für die Onlinekonsultation Informationen zur Verfügung
+gestellt, so gilt Absatz 2 entsprechend.
 
 (6a) Über den Genehmigungsantrag ist nach Eingang des Antrags und der
 nach Absatz 1 Satz 2 einzureichenden Unterlagen innerhalb einer Frist
 von sieben Monaten, in vereinfachten Verfahren innerhalb einer Frist
 von drei Monaten, zu entscheiden. Die zuständige Behörde kann die
-Frist um jeweils drei Monate verlängern, wenn dies wegen der
+Frist einmalig um bis zu drei Monate verlängern, wenn dies wegen der
 Schwierigkeit der Prüfung oder aus Gründen, die dem Antragsteller
-zuzurechnen sind, erforderlich ist. Die Fristverlängerung soll
-gegenüber dem Antragsteller begründet werden.
+zuzurechnen sind, erforderlich ist. Die Fristverlängerung ist
+gegenüber dem Antragsteller zu begründen. Eine weitere Verlängerung
+ist nur auf Antrag oder mit Zustimmung des Antragstellers möglich. Die
+zuständige Behörde informiert ihre Aufsichtsbehörde über jede
+Überschreitung von Fristen.
 
 (7) Der Genehmigungsbescheid ist schriftlich zu erlassen, schriftlich
 zu begründen und dem Antragsteller und den Personen, die Einwendungen
@@ -878,11 +933,20 @@ dass der verfügende Teil des Bescheides und die Rechtsbehelfsbelehrung
 in entsprechender Anwendung des Absatzes 3 Satz 1 bekannt gemacht
 werden; auf Auflagen ist hinzuweisen. In diesem Fall ist eine
 Ausfertigung des gesamten Bescheides vom Tage nach der Bekanntmachung
-an zwei Wochen zur Einsicht auszulegen. In der öffentlichen
-Bekanntmachung ist anzugeben, wo und wann der Bescheid und seine
-Begründung eingesehen und nach Satz 6 angefordert werden können. Mit
-dem Ende der Auslegungsfrist gilt der Bescheid auch gegenüber Dritten,
-die keine Einwendung erhoben haben, als zugestellt; darauf ist in der
+an zwei Wochen zur Einsicht auszulegen. Die Auslegung ist dadurch zu
+bewirken, dass die Dokumente auf einer Internetseite der zuständigen
+Behörde zugänglich gemacht werden. Auf Verlangen eines Beteiligten
+wird ihm eine leicht zu erreichende Zugangsmöglichkeit zur Verfügung
+gestellt. Der Vorhabenträger kann der Veröffentlichung im Internet
+widersprechen, soweit er die Gefährdung von Betriebs- oder
+Geschäftsgeheimnissen oder wichtiger Sicherheitsbelange befürchtet; in
+diesem Fall muss die Behörde eine andere Form der Veröffentlichung
+wählen. In der öffentlichen Bekanntmachung ist anzugeben, wo und wann
+der Bescheid und seine Begründung eingesehen und nach Satz 9
+angefordert werden können; hierzu ist auch die Internetseite auf der
+die Zugänglichmachung erfolgt, anzugeben. Mit dem Ende der
+Auslegungsfrist gilt der Bescheid auch gegenüber Dritten, die keine
+Einwendung erhoben haben, als zugestellt; darauf ist in der
 Bekanntmachung hinzuweisen. Nach der öffentlichen Bekanntmachung
 können der Bescheid und seine Begründung bis zum Ablauf der
 Widerspruchsfrist von den Personen, die Einwendungen erhoben haben,
@@ -902,14 +966,14 @@ Industrieemissions-Richtlinie folgende Unterlagen im Internet
 
 
 Soweit der Genehmigungsbescheid Geschäfts- oder Betriebsgeheimnisse
-enthält, sind die entsprechenden Stellen unkenntlich zu machen. Absatz
-8 Satz 3, 5 und 6 gilt entsprechend.
+enthält, sind die entsprechenden Stellen unkenntlich zu machen.
 
 (9) Die Absätze 1 bis 8 gelten entsprechend für die Erteilung eines
 Vorbescheides.
 
 (10) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
-Zustimmung des Bundesrates das Genehmigungsverfahren zu regeln; in der
+Zustimmung des Bundesrates das Genehmigungsverfahren zu regeln und
+dabei Regelungen zur elektronischen Antragstellung zu treffen. In der
 Rechtsverordnung kann auch das Verfahren bei Erteilung einer
 Genehmigung im vereinfachten Verfahren (§ 19) sowie bei der Erteilung
 eines Vorbescheides (§ 9), einer Teilgenehmigung (§ 8) und einer
@@ -925,6 +989,109 @@ nukleare Sicherheit durch Rechtsverordnung mit Zustimmung des
 Bundesrates das Genehmigungsverfahren für Anlagen, die der
 Landesverteidigung dienen, abweichend von den Absätzen 1 bis 9 zu
 regeln.
+
+
+#### § 10a Sonderregelungen für das Genehmigungsverfahren bei Vorhaben nach der Richtlinie (EU) 2018/2001
+
+(1) Die nachstehenden Absätze sind ergänzend anzuwenden, wenn das
+Vorhaben eine Anlage betrifft, die in den Anwendungsbereich der
+Richtlinie (EU) 2018/2001 in der Fassung vom 13. Juni 2024 fällt.
+
+(2) Auf Antrag des Trägers des Vorhabens werden das
+Genehmigungsverfahren sowie alle sonstigen Zulassungsverfahren, die
+für die Durchführung des Vorhabens nach Bundes- oder Landesrecht
+erforderlich sind, über eine einheitliche Stelle abgewickelt.
+
+(3) Die einheitliche Stelle nach Absatz 2 stellt ein
+Verfahrenshandbuch für Träger von Vorhaben bereit und macht die im
+Verfahrenshandbuch enthaltenen Informationen auch im Internet
+zugänglich. Dabei geht sie gesondert auch auf kleinere Vorhaben im
+Bereich erneuerbare Energie und Vorhaben zur Eigenversorgung mit
+Elektrizität und Erneuerbare-Energie-Gemeinschaften ein. In den im
+Internet veröffentlichten Informationen weist die einheitliche Stelle
+auch darauf hin, für welche Vorhaben sie zuständig ist und welche
+weiteren einheitlichen Stellen im jeweiligen Land für Vorhaben nach
+Absatz 1 zuständig sind.
+
+(4) § 7 der Verordnung über das Genehmigungsverfahren ist mit
+folgenden Maßgaben anzuwenden:
+
+1.  betrifft der Antrag ein Vorhaben in einem für ein solches Vorhaben
+    geltenden Beschleunigungsgebiet für erneuerbare Energie nach Artikel 2
+    Unterabsatz 2 Nummer 9a der Richtlinie (EU) 2018/2001 in der Fassung
+    vom 13. Juni 2024, so beträgt die Frist nach § 7 Absatz 1 Satz 1 der
+    Verordnung über das Genehmigungsverfahren 30 Tage; § 7 Absatz 1 Satz 2
+    der Verordnung über das Genehmigungsverfahren ist in diesem Fall nicht
+    anzuwenden;
+
+
+2.  sind der Antrag und die Unterlagen vollständig, so bestätigt die
+    Genehmigungsbehörde dem Antragsteller, in den Fällen des Absatzes 2
+    über die einheitliche Stelle, die Vollständigkeit des Antrags
+    spätestens innerhalb von
+
+    a)  30 Tagen nach Eingang des Antrags, wenn der Antrag ein Vorhaben in
+        einem für ein solches Vorhaben geltenden Beschleunigungsgebiet für
+        erneuerbare Energie nach Artikel 2 Unterabsatz 2 Nummer 9a der
+        Richtlinie (EU) 2018/2001 in der Fassung vom 13. Juni 2024 betrifft,
+        oder
+
+
+    b)  45 Tagen nach Eingang des Antrags, wenn der Antrag ein Vorhaben
+        außerhalb eines für ein solches Vorhaben geltenden
+        Beschleunigungsgebiets für erneuerbare Energie nach Artikel 2
+        Unterabsatz 2 Nummer 9a der Richtlinie (EU) 2018/2001 in der Fassung
+        vom 13. Juni 2024 betrifft;
+
+
+
+
+
+3.  nach Eingang der vollständigen Antragsunterlagen erstellt die
+    Genehmigungsbehörde einen Zeitplan für das weitere Verfahren und teilt
+    diesen Zeitplan in den Fällen des Absatzes 2 der einheitlichen Stelle,
+    andernfalls dem Antragsteller, mit.
+
+
+
+Sind der Antrag oder die Unterlagen nicht vollständig, so hat die
+Genehmigungsbehörde den Antragsteller, in den Fällen des Absatzes 2
+über die einheitliche Stelle, innerhalb des jeweils einschlägigen
+Zeitraums nach Satz 1 Nummer 2 aufzufordern, den Antrag oder die
+Unterlagen unverzüglich zu ergänzen. Die Genehmigungsfrist beginnt
+spätestens mit der Bestätigung der Vollständigkeit.
+
+(5) Ab dem 21. November 2025 ist das Genehmigungsverfahren
+elektronisch durchzuführen. Satz 1 gilt nicht für Personen, die
+Einwendungen erheben. Der Antragsteller hat einen Zugang für die
+Übermittlung elektronischer Dokumente und für die elektronische
+Zustellung zu eröffnen.
+
+(6) Über den Genehmigungsantrag für ein folgendes Vorhaben in einem
+für ein solches Vorhaben geltenden Beschleunigungsgebiet für
+erneuerbare Energie nach Artikel 2 Unterabsatz 2 Nummer 9a der
+Richtlinie (EU) 2018/2001 in der Fassung vom 13. Juni 2024 ist
+innerhalb einer Frist von sechs Monaten, im vereinfachten Verfahren
+innerhalb einer Frist von drei Monaten, zu entscheiden:
+
+1.  ein Vorhaben, das das Repowering einer Anlage zur Erzeugung
+    erneuerbarer Energie betrifft,
+
+
+2.  ein Vorhaben, das eine neue Anlage mit einer Stromerzeugungskapazität
+    unter 150 Kilowatt betrifft, oder
+
+
+3.  ein Vorhaben, das einen Energiespeicher am selben Standort nach
+    Artikel 2 Unterabsatz 2 Nummer 44d der Richtlinie (EU) 2018/2001 in
+    der Fassung vom 13. Juni 2024, einschließlich einer Anlage zur
+    Speicherung von Strom oder Wärme, betrifft.
+
+
+
+In durch außergewöhnliche Umstände hinreichend begründeten Fällen kann
+die Genehmigungsbehörde die Frist um bis zu drei Monate verlängern.
+Die Fristverlängerung ist gegenüber dem Antragsteller zu begründen.
 
 
 #### § 11 Einwendungen Dritter bei Teilgenehmigung und Vorbescheid
@@ -1007,6 +1174,15 @@ Anlage verlassenden Abfälle gestellt werden.
 (3) Die Teilgenehmigung kann für einen bestimmten Zeitraum oder mit
 dem Vorbehalt erteilt werden, dass sie bis zur Entscheidung über die
 Genehmigung widerrufen oder mit Auflagen verbunden werden kann.
+
+(4) Auf Antrag eines Betreibers kann eine Nebenbestimmung auch
+nachträglich geändert werden, wenn der Betreiber andere gleichwertige
+Maßnahmen vorschlägt, die keiner Genehmigungspflicht nach diesem
+Gesetz oder anderen Entscheidungen, einschließlich der behördlichen
+Entscheidungen nach § 13 unterliegen. Dient die Nebenbestimmung der
+Erfüllung von § 6 Absatz 1 Nummer 2, holt die Genehmigungsbehörde vor
+Änderung der Nebenbestimmung eine Stellungnahme der betroffenen
+Fachbehörde ein.
 
 
 #### § 13 Genehmigung und andere behördliche Entscheidungen
@@ -1122,7 +1298,14 @@ Nachteile im Verhältnis zu den jeweils vergleichbaren Vorteilen gering
 sind. Betrifft die wesentliche Änderung eine in einem vereinfachten
 Verfahren zu genehmigende Anlage, ist auch die wesentliche Änderung im
 vereinfachten Verfahren zu genehmigen. § 19 Absatz 3 gilt
-entsprechend.
+entsprechend. Wenn die Änderung oder Erweiterung des Betriebs einer
+Anlage für sich genommen die Leistungsgrenzen oder die Anlagengrößen
+einer Anlage im Sinne des Anhangs 1 der Verordnung über
+genehmigungsbedürftige Anlagen in der Fassung der Bekanntmachung vom
+31\. Mai 2017 (BGBl. I S. 1440), die durch Artikel 1 der Verordnung vom
+12\. Oktober 2022 (BGBl. I S. 1799) geändert worden ist, die in Spalte
+d mit dem Buchstaben E gekennzeichnet sind, erreichen würde, dann sind
+die öffentliche Bekanntmachung sowie die Auslegung stets erforderlich.
 
 (3) Über den Genehmigungsantrag ist innerhalb einer Frist von sechs
 Monaten, im Falle des Absatzes 2 in drei Monaten zu entscheiden. Im
@@ -1153,40 +1336,51 @@ zu wahren, bereits auf Ebene einer raumbedeutsamen Planung oder
 Maßnahme durch verbindliche Vorgaben Rechnung getragen worden ist.
 
 
-#### § 16b Repowering von Anlagen zur Erzeugung von Strom aus erneuerbaren Energien, Sondervorschriften für Windenergieanlagen
+#### § 16b Repowering von Anlagen zur Erzeugung von Strom aus erneuerbaren Energien
 
 (1) Wird eine Anlage zur Erzeugung von Strom aus erneuerbaren Energien
-modernisiert (Repowering), müssen auf Antrag des Vorhabenträgers im
-Rahmen des Änderungsgenehmigungsverfahrens nur Anforderungen geprüft
-werden, soweit durch das Repowering im Verhältnis zum gegenwärtigen
-Zustand unter Berücksichtigung der auszutauschenden Anlage nachteilige
-Auswirkungen hervorgerufen werden und diese für die Prüfung nach § 6
-erheblich sein können.
+modernisiert (Repowering), sind im Rahmen eines
+Änderungsgenehmigungsverfahrens nur Anforderungen zu prüfen, soweit
+durch das Repowering im Verhältnis zum gegenwärtigen Zustand unter
+Berücksichtigung der auszutauschenden Anlage nachteilige Auswirkungen
+hervorgerufen werden, die für die Prüfung nach § 6 Absatz 1 erheblich
+sein können. Die zuständige Behörde beteiligt die Fachbehörde, deren
+Aufgabenbereich durch das Vorhaben berührt wird, entsprechend § 10
+Absatz 5. Zustimmungserfordernisse nach anderen öffentlich-rechtlichen
+Vorschriften bleiben unberührt. Auf Antrag des Vorhabenträgers ist
+abweichend von dieser Vorschrift das Genehmigungsverfahren nach § 10
+oder das vereinfachte Verfahren nach § 19 durchzuführen.
 
-(2) Die Modernisierung umfasst den vollständigen oder teilweisen
-Austausch von Anlagen oder Betriebssystemen und -geräten zum Austausch
-von Kapazität oder zur Steigerung der Effizienz oder der Kapazität der
-Anlage. Bei einem vollständigen Austausch der Anlage sind zusätzlich
+(2) Das Repowering umfasst den vollständigen oder teilweisen Austausch
+von Anlagen oder Betriebssystemen und -geräten zum Austausch von
+Kapazität oder zur Steigerung der Effizienz oder der Kapazität der
+Anlage, unabhängig vom Umfang der baulichen Größenunterschiede, der
+Leistungssteigerungen oder der Veränderungen der Anlagenanzahl im
+Verhältnis zur Bestandsanlage. Bei einem vollständigen Austausch der
+Anlage sind zusätzlich zu den in Absatz 1 genannten Anforderungen
 folgende Anforderungen einzuhalten:
 
-1.  Die neue Anlage wird innerhalb von 24 Monaten nach dem Rückbau der
+1.  die neue Anlage wird innerhalb von 48 Monaten nach dem Rückbau der
     Bestandsanlage errichtet und
 
 
 2.  der Abstand zwischen der Bestandsanlage und der neuen Anlage beträgt
-    höchstens das Zweifache der Gesamthöhe der neuen Anlage.
+    höchstens das Fünffache der Gesamthöhe der neuen Anlage.
 
 
 
+Die Genehmigungsbehörde kann auf Antrag des Vorhabenträgers die Frist
+nach Nummer 1 aus wichtigem Grund verlängern, wenn hierdurch der Zweck
+des Gesetzes nicht gefährdet wird.
 
-(3) Die Genehmigung einer Windenergieanlage im Rahmen einer
-Modernisierung nach Absatz 2 darf nicht versagt werden, wenn nach der
-Modernisierung nicht alle Immissionsrichtwerte der technischen
-Anleitung zum Schutz gegen Lärm eingehalten werden, wenn aber
+(3) Die Genehmigung einer Windenergieanlage im Rahmen eines Repowering
+nach Absatz 2 darf nicht versagt werden, wenn während und nach dem
+Repowering nicht alle Immissionswerte der technischen Anleitung zum
+Schutz gegen Lärm eingehalten werden, wenn aber
 
-1.  der Immissionsbeitrag der Windenergieanlage nach der Modernisierung
-    niedriger ist als der Immissionsbeitrag der durch sie ersetzten
-    Windenergieanlagen und
+1.  der Immissionsbeitrag der Windenergieanlagen nach dem Repowering
+    absolut niedriger ist als der Immissionsbeitrag der durch sie
+    ersetzten Windenergieanlage und
 
 
 2.  die Windenergieanlage dem Stand der Technik entspricht.
@@ -1194,21 +1388,18 @@ Anleitung zum Schutz gegen Lärm eingehalten werden, wenn aber
 
 
 
-(4) Die Prüfung anderer öffentlich-rechtlicher Vorschriften,
-insbesondere des Raumordnungs-, Bauplanungs- und Bauordnungsrechts,
-und der Belange des Arbeitsschutzes nach § 6 Absatz 1 Nummer 2 bleibt
-unberührt.
+(4) Absatz 1 gilt nicht für die Prüfung des Raumordnungs-,
+Bauplanungs- und Bauordnungsrechts, der Belange des Arbeitsschutzes
+und des Rechts der Natura-2000-Gebiete. § 45c des
+Bundesnaturschutzgesetzes ist anzuwenden.
 
 (5) Auf einen Erörterungstermin soll verzichtet werden, wenn nicht der
 Antragsteller diesen beantragt.
 
-(6) § 19 findet auf Genehmigungsverfahren im Sinne von Absatz 1 für
-das Repowering von bis zu 19 Windenergieanlagen Anwendung. § 2 Absatz
-1 Satz 1 Nummer 1 Buchstabe c der Verordnung über
-genehmigungsbedürftige Anlagen bleibt unberührt. Im vereinfachten
-Verfahren ist die Genehmigung auf Antrag des Trägers des Vorhabens
-öffentlich bekannt zu machen. In diesem Fall gilt § 10 Absatz 8 Satz 2
-bis 6 entsprechend.
+(6) § 19 findet auf Änderungsgenehmigungsverfahren im Sinne von Absatz
+1 von bis zu 19 Windenergieanlagen Anwendung. § 2 Absatz 1 Nummer 1
+Buchstabe c der Verordnung über genehmigungsbedürftige Anlagen bleibt
+unberührt.
 
 (7) Werden bei einer genehmigten Windenergieanlage vor der Errichtung
 Änderungen am Anlagentyp vorgenommen oder wird er gewechselt, müssen
@@ -1216,14 +1407,52 @@ im Rahmen des Änderungsgenehmigungsverfahrens nur dann Anforderungen
 geprüft werden, soweit durch die Änderung des Anlagentyps im
 Verhältnis zur genehmigten Anlage nachteilige Auswirkungen
 hervorgerufen werden und diese für die Prüfung nach § 6 erheblich sein
-können. Die Absätze 5 und 6 sind entsprechend anzuwenden.
+können. Die Absätze 5 und 6 sind entsprechend anzuwenden. Wird der
+Standort der Anlage um nicht mehr als 8 Meter geändert, die Gesamthöhe
+um nicht mehr als 20 Meter erhöht und der Rotordurchlauf um nicht mehr
+als 8 Meter verringert, sind ausschließlich die Vereinbarkeit der
+Änderungen mit militärischen und luftverkehrlichen Belangen zu prüfen
+sowie die Anforderungen nach Absatz 8 nachzuweisen und zu prüfen.
+Unverzüglich nach Eingang der vollständigen Antragsunterlagen,
+spätestens innerhalb von fünf Werktagen, hat die Genehmigungsbehörde
+die für die militärischen und luftverkehrlichen Belange zuständigen
+Behörden zu beteiligen. Diese Behörden teilen unverzüglich, spätestens
+innerhalb von zehn Werktagen nach Eingang, der Genehmigungsbehörde den
+jeweiligen Zeitpunkt des Eingangs der vollständigen Antragsunterlagen
+mit. Die Genehmigungsbehörde teilt den spätesten nach Satz 5
+mitgeteilten Zeitpunkt dem Antragsteller mit. Im Fall der Ergänzung
+oder Änderung des Antrags sind die Sätze 5 und 6 entsprechend
+anzuwenden.
 
-(8) Wird die Leistung einer Windenergieanlage an Land ohne bauliche
-Veränderungen oder ohne den Austausch von Teilen und ohne eine
-Änderung der genehmigten Betriebszeiten erhöht, sind ausschließlich
-die Standsicherheit sowie die schädlichen Umwelteinwirkungen durch
-Geräusche und nachteilige Auswirkungen durch Turbulenzen zu prüfen.
-Die Absätze 5 und 6 sind entsprechend anzuwenden.
+(8) Wird die Leistung oder der Ertrag einer Windenergieanlage an Land
+ohne bauliche Veränderungen oder ohne den Austausch von Teilen und
+ohne eine Änderung der genehmigten Betriebszeiten erhöht, sind
+ausschließlich die Standsicherheit sowie die schädlichen
+Umwelteinwirkungen durch Geräusche und nachteilige Auswirkungen durch
+Turbulenzen zu prüfen. Die Absätze 5 und 6 sind entsprechend
+anzuwenden.
+
+(8a) Im Fall von Absatz 7 Satz 3 gilt die Genehmigung einschließlich
+der Nebenbestimmungen nach Ablauf von drei Monaten ab dem spätesten
+gemäß Absatz 7 Satz 6 oder 7 mitgeteilten Zeitpunkt als antragsgemäß
+geändert, sofern die Genehmigungsbehörde nicht zuvor über den Antrag
+entscheidet oder ein Antrag nach Absatz 5 gestellt wird. § 42a Absatz
+3 des Verwaltungsverfahrensgesetzes ist entsprechend anzuwenden.
+
+(9) Im Fall von Absatz 8 gilt die Genehmigung einschließlich der
+Nebenbestimmungen nach Ablauf von sechs Wochen als antragsgemäß
+geändert, sofern die Genehmigungsbehörde nicht zuvor über den Antrag
+entscheidet oder ein Antrag nach Absatz 5 gestellt wird. § 42a Absatz
+3 des Verwaltungsverfahrensgesetzes ist entsprechend anzuwenden.
+
+(10) Ist der Vorhabenträger der neuen Anlage im Falle des Absatz 2
+Satz 2 mit dem Betreiber der Bestandsanlage nicht identisch, muss der
+Vorhabenträger der neuen Anlage der Genehmigungsbehörde bis zum
+Zeitpunkt der Entscheidung über den Antrag eine Erklärung des
+Betreibers der Bestandsanlage vorlegen, wonach dieser mit dem
+Repowering-Vorhaben einverstanden ist. Ein paralleler Betrieb einer
+Bestandsanlage und der sie ersetzenden neuen Anlage ist nicht
+zulässig.
 
 
 #### § 17 Nachträgliche Anordnungen
@@ -1383,7 +1612,9 @@ Satz 2 und 3, Absatz 8 und 9 sowie die §§ 11 und 14 nicht anzuwenden.
 
 (3) Die Genehmigung ist auf Antrag des Trägers des Vorhabens
 abweichend von den Absätzen 1 und 2 nicht in einem vereinfachten
-Verfahren zu erteilen.
+Verfahren zu erteilen. Auf Antrag des Vorhabenträgers ist die
+Genehmigung öffentlich bekannt zu machen. In diesem Fall gilt § 10
+Absatz 8 Satz 2 bis 9 entsprechend.
 
 (4) Die Genehmigung einer Anlage, die Betriebsbereich oder Bestandteil
 eines Betriebsbereichs ist, kann nicht im vereinfachten Verfahren
@@ -1395,7 +1626,7 @@ Schutzobjekten erstmalig unterschritten wird, der bereits
 unterschrittene Sicherheitsabstand räumlich noch weiter unterschritten
 wird oder eine erhebliche Gefahrenerhöhung ausgelöst wird. In diesen
 Fällen ist das Verfahren nach § 10 mit Ausnahme von Absatz 4 Nummer 3
-und Absatz 6 anzuwenden. § 10 Absatz 3 Satz 4 ist mit der Maßgabe
+und Absatz 6 anzuwenden. § 10 Absatz 3 Satz 8 ist mit der Maßgabe
 anzuwenden, dass nur die Personen Einwendungen erheben können, deren
 Belange berührt sind oder Vereinigungen, welche die Anforderungen des
 § 3 Absatz 1 oder des § 2 Absatz 2 des Umwelt-Rechtsbehelfsgesetzes
@@ -1698,7 +1929,7 @@ Dies gilt nicht, soweit dem Gebot, den angemessenen Sicherheitsabstand
 zu wahren, bereits auf Ebene einer raumbedeutsamen Planung oder
 Maßnahme durch verbindliche Vorgaben Rechnung getragen worden ist. Die
 Genehmigung setzt einen schriftlichen oder elektronischen Antrag
-voraus. § 10 Absatz 1 Satz 4 und Absatz 2 gilt entsprechend. Die
+voraus. § 10 Absatz 1 Satz 4 bis 6 und Absatz 2 gilt entsprechend. Die
 Genehmigung ist zu erteilen, wenn sichergestellt ist, dass die
 Anforderungen des § 22 und der auf Grundlage des § 23 erlassenen
 Rechtsverordnungen eingehalten werden und andere öffentlich-rechtliche
@@ -1719,14 +1950,22 @@ legt den Antrag, die vom Antragsteller vorgelegten Unterlagen mit
 Ausnahme der Unterlagen nach Absatz 1 Satz 4 sowie die
 entscheidungserheblichen Berichte und Empfehlungen, die der Behörde im
 Zeitpunkt der Bekanntmachung vorliegen, einen Monat zur Einsicht aus.
-Personen, deren Belange durch das Vorhaben berührt werden sowie
-Vereinigungen, welche die Anforderungen von § 3 Absatz 1 oder § 2
-Absatz 2 des Umwelt-Rechtsbehelfsgesetzes erfüllen, können innerhalb
-der in § 10 Absatz 3 Satz 4 erster Halbsatz genannten Frist gegenüber
-der zuständigen Behörde schriftlich oder elektronisch Einwendungen
-erheben. § 10 Absatz 3 Satz 5 und Absatz 3a gilt entsprechend.
-Einwendungen, die auf besonderen privatrechtlichen Titeln beruhen,
-sind auf den Rechtsweg vor den ordentlichen Gerichten zu verweisen.
+Die Auslegung ist dadurch zu bewirken, dass die Dokumente auf einer
+Internetseite der zuständigen Behörde zugänglich gemacht werden. Auf
+Verlangen eines Beteiligten wird ihm eine leicht zu erreichende
+Zugangsmöglichkeit zur Verfügung gestellt. Der Vorhabenträger kann der
+Veröffentlichung im Internet widersprechen, soweit er die Gefährdung
+von Betriebs- oder Geschäftsgeheimnissen oder wichtiger
+Sicherheitsbelange befürchtet; in diesem Fall muss die Behörde eine
+andere Form der Veröffentlichung wählen. Personen, deren Belange durch
+das Vorhaben berührt werden sowie Vereinigungen, welche die
+Anforderungen von § 3 Absatz 1 oder § 2 Absatz 2 des Umwelt-
+Rechtsbehelfsgesetzes erfüllen, können innerhalb der in § 10 Absatz 3
+Satz 8 erster Halbsatz genannten Frist gegenüber der zuständigen
+Behörde schriftlich oder elektronisch Einwendungen erheben. § 10
+Absatz 3 Satz 9 und Absatz 3a gilt entsprechend. Einwendungen, die auf
+besonderen privatrechtlichen Titeln beruhen, sind auf den Rechtsweg
+vor den ordentlichen Gerichten zu verweisen.
 
 (3) Die Genehmigungsbehörde holt die Stellungnahmen der Behörden ein,
 deren Aufgabenbereich durch das Vorhaben berührt wird. Soweit für das
@@ -1736,40 +1975,6 @@ die für die Genehmigung Bedeutung haben, eine Zulassung nach anderen
 Gesetzen vorgeschrieben ist, hat die Genehmigungsbehörde eine
 vollständige Koordinierung der Zulassungsverfahren sowie der Inhalts-
 und Nebenbestimmungen sicherzustellen.
-
-(3a) Betrifft das Vorhaben eine Anlage, die in den Anwendungsbereich
-der Richtlinie (EU) 2018/2001 des Europäischen Parlaments und des
-Rates vom 11. Dezember 2018 zur Förderung der Nutzung von Energie aus
-erneuerbaren Quellen (Neufassung) (ABl. L 328 vom 21.12.2018, S. 82)
-fällt, gilt ergänzend Folgendes:
-
-1.  Auf Antrag des Trägers des Vorhabens wird das störfallrechtliche
-    Genehmigungsverfahren sowie alle sonstigen Zulassungsverfahren, die
-    für die Durchführung des Vorhabens nach Bundes- oder Landesrecht
-    erforderlich sind, über eine einheitliche Stelle abgewickelt.
-
-
-2.  Die einheitliche Stelle nach Nummer 1 stellt ein Verfahrenshandbuch
-    für Träger von Vorhaben bereit und macht diese Informationen auch im
-    Internet zugänglich. In den im Internet veröffentlichten Informationen
-    weist die einheitliche Stelle auch darauf hin, für welche Vorhaben sie
-    zuständig ist und welche weiteren einheitlichen Stellen im jeweiligen
-    Land für Vorhaben nach Satz 1 zuständig sind.
-
-
-3.  Die zuständige und die zu beteiligenden Behörden sollen die zur
-    Prüfung des Antrags zusätzlich erforderlichen Unterlagen in einer
-    einmaligen Mitteilung an den Antragsteller zusammenfassen. Nach
-    Eingang der vollständigen Antragsunterlagen erstellt die zuständige
-    Behörde einen Zeitplan für das weitere Verfahren und teilt diesen
-    Zeitplan in den Fällen der Nummer 1 der einheitlichen Stelle,
-    andernfalls dem Antragsteller mit.
-
-
-4.  § 16b ist entsprechend anzuwenden.
-
-
-
 
 (4) Über den Antrag auf störfallrelevante Errichtung und Betrieb einer
 Anlage hat die zuständige Behörde innerhalb einer Frist von sieben
@@ -1782,6 +1987,8 @@ wenn dies wegen der Schwierigkeit der Prüfung oder aus Gründen, die
 dem Antragsteller zuzurechnen sind, erforderlich ist. Die
 Fristverlängerung soll gegenüber dem Antragsteller begründet werden. §
 10 Absatz 7 Satz 1 gilt entsprechend.
+
+(4a) § 10a ist entsprechend anzuwenden.
 
 (5) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates weitere Einzelheiten des Verfahrens nach
@@ -2281,252 +2488,28 @@ Behörde nach, dass ein längerer Zeitraum gerechtfertigt ist.
 (2) § 31c Absatz 2 ist entsprechend anzuwenden.
 
 
-#### § 31e Zulassung vorzeitigen Beginns bei einer Gasmangellage
+#### § 31e (weggefallen)
 
-(1) § 8a ist nach Maßgabe der Absätze 2 bis 5 anzuwenden, wenn eine
-Genehmigung beantragt wird
 
-1.  im Zusammenhang mit einem Brennstoffwechsel wegen einer ernsten oder
-    erheblichen Gasmangellage,
 
+#### § 31f (weggefallen)
 
-2.  weil wegen einer ernsten oder erheblichen Gasmangellage notwendige
-    Betriebsmittel für Abgaseinrichtungen nicht ausreichend zur Verfügung
-    stehen oder
 
 
-3.  wegen einer anderen durch die ernste oder erhebliche Gasmangellage
-    ausgelösten Notwendigkeit.
+#### § 31g (weggefallen)
 
 
 
+#### § 31h (weggefallen)
 
-(2) § 8a Absatz 1 Nummer 1 findet mit der Maßgabe Anwendung, dass die
-Genehmigungsbehörde den vorzeitigen Beginn bereits vor dem Vorliegen
-vollständiger Antragsunterlagen zulassen kann, wenn
 
-1.  die Erstellung der fehlenden Unterlagen im Hinblick auf die
-    Eilbedürftigkeit des Vorhabens bislang nicht möglich war und
 
+#### § 31i (weggefallen)
 
-2.  auch ohne Berücksichtigung der fehlenden Unterlagen mit einer
-    Entscheidung zugunsten des Antragstellers gerechnet werden kann.
 
 
+#### § 31j (weggefallen)
 
-In diesem Fall hat der Antragsteller das Vorhaben, die
-voraussichtlichen Auswirkungen des Vorhabens und den Grund für die
-nicht rechtzeitige Erstellung der vollständigen Unterlagen darzulegen.
-Der Antragsteller hat die fehlenden Unterlagen unverzüglich
-nachzureichen.
-
-(3) § 8a Absatz 1 Nummer 1 findet mit der Maßgabe Anwendung, dass die
-Genehmigungsbehörde den vorzeitigen Beginn bereits vor der Beteiligung
-der Öffentlichkeit zulassen soll.
-
-(4) In den in Absatz 1 genannten Fällen besteht ein öffentliches
-Interesse oder ein berechtigtes Interesse des Antragstellers an dem
-vorzeitigen Beginn im Sinne des § 8a Absatz 1 Nummer 2.
-
-(5) In einem Verfahren zur Erteilung einer Genehmigung kann die
-Genehmigungsbehörde unter den in § 8a Absatz 1 genannten
-Voraussetzungen auch den Betrieb der Anlage vorläufig zulassen. Die
-Absätze 1 bis 4 gelten entsprechend. Satz 1 ist nicht anzuwenden,
-soweit die Richtlinie 2010/75/EU oder die Richtlinie 2012/18/EU
-entgegenstehen.
-
-
-#### § 31f Beteiligung der Öffentlichkeit in Genehmigungsverfahren
-
-(1) § 10 ist nach Maßgabe der Absätze 2 bis 4 anzuwenden, wenn ein
-Genehmigungsverfahren nach § 10, auch in Verbindung mit § 16 oder §
-16a, durchzuführen ist
-
-1.  im Zusammenhang mit einem Brennstoffwechsel wegen einer ernsten oder
-    erheblichen Gasmangellage,
-
-
-2.  weil wegen einer ernsten oder erheblichen Gasmangellage notwendige
-    Betriebsmittel für Abgaseinrichtungen nicht ausreichend zur Verfügung
-    stehen oder
-
-
-3.  wegen einer anderen durch die ernste oder erhebliche Gasmangellage
-    ausgelösten Notwendigkeit.
-
-
-
-§ 16 Absatz 2 Satz 1 und 2 sowie § 19 Absatz 4 Satz 2 bis 4 bleiben
-unberührt.
-
-(2) Abweichend von § 10 Absatz 3 Satz 2 sind der Antrag und die vom
-Antragsteller vorgelegten Unterlagen, mit Ausnahme der Unterlagen nach
-§ 10 Absatz 2 Satz 1, sowie die entscheidungserheblichen Berichte und
-Empfehlungen, die der Behörde im Zeitpunkt der Bekanntmachung
-vorliegen, nach der Bekanntmachung eine Woche zur Einsicht auszulegen.
-
-(3) Abweichend von § 10 Absatz 3 Satz 4 kann die Öffentlichkeit bis
-eine Woche nach Ablauf der Auslegungsfrist gegenüber der zuständigen
-Behörde schriftlich oder elektronisch Einwendungen erheben; diese
-Frist gilt auch bei Anlagen nach der Richtlinie 2010/75/EU.
-
-(4) Die Genehmigungsbehörde soll auf die Durchführung eines
-Erörterungstermins nach § 10 Absatz 6 verzichten.
-
-
-#### § 31g Entbehrlichkeit einer Änderungsanzeige oder Änderungsgenehmigung
-
-(1) Es bedarf weder einer Anzeige nach § 15 noch einer
-Änderungsgenehmigung nach § 16, wenn der Betreiber einer Anlage bei
-der zuständigen Behörde die Zulassung einer Ausnahme nach einer der in
-Absatz 2 genannten Vorschriften beantragt
-
-1.  im Zusammenhang mit einem Brennstoffwechsel wegen einer ernsten oder
-    erheblichen Gasmangellage,
-
-
-2.  weil wegen einer ernsten oder erheblichen Gasmangellage notwendige
-    Betriebsmittel für Abgaseinrichtungen nicht ausreichend zur Verfügung
-    stehen oder
-
-
-3.  wegen einer anderen durch die ernste oder erhebliche Gasmangellage
-    ausgelösten Notwendigkeit.
-
-
-
-Ausnahmen nach den in Absatz 2 genannten Vorschriften sollen erteilt
-werden, wenn die Voraussetzungen hierfür vorliegen.
-
-(2) Ausnahmevorschriften im Sinne des Absatzes 1 sind
-
-1.  die §§ 31a bis 31d,
-
-
-2.  § 23 der Verordnung über Großfeuerungs-, Gasturbinen- und
-    Verbrennungsmotoranlagen in der jeweils geltenden Fassung,
-
-
-3.  § 6 Absatz 6 und § 24 der Verordnung über die Verbrennung und die
-    Mitverbrennung von Abfällen vom 2. Mai 2013 (BGBl. I S. 1021, 1044,
-    3754), die durch Artikel 2 der Verordnung vom 6. Juli 2021 (BGBl. I S.
-    2514) geändert worden ist, in der jeweils geltenden Fassung,
-
-
-4.  § 16 der Verordnung über Anlagen zur biologischen Behandlung von
-    Abfällen vom 20. Februar 2001 (BGBl. I S. 305, 317), die zuletzt durch
-    Artikel 2 der Verordnung vom 13. Dezember 2019 (BGBl. I S. 2739)
-    geändert worden ist, in der jeweils geltenden Fassung,
-
-
-5.  § 11 der Verordnung zur Begrenzung der Emissionen flüchtiger
-    organischer Verbindungen bei der Verwendung organischer Lösemittel in
-    bestimmten Anlagen vom 21. August 2001 (BGBl. I S. 2180), die zuletzt
-    durch Artikel 13 des Gesetzes vom 27. Juli 2021 (BGBl. I S. 3146)
-    geändert worden ist, in der jeweils geltenden Fassung und
-
-
-6.  § 32 der Verordnung über mittelgroße Feuerungs-, Gasturbinen- und
-    Verbrennungsmotoranlagen in der jeweils geltenden Fassung.
-
-
-
-
-
-#### § 31h Abweichungen von der Vierten Verordnung zum Bundes-Immissionsschutzgesetz
-
-Anlagen nach Nummer 9.1.1 des Anhangs 1 der Verordnung über
-genehmigungsbedürftige Anlagen in der Fassung der Bekanntmachung vom
-31\. Mai 2017 (BGBl. I S. 1440), die durch Artikel 1 der Verordnung vom
-12\. Januar 2021 (BGBl. I S. 69) geändert worden ist, in der jeweils
-geltenden Fassung, die nicht länger als zwei Jahre betrieben werden
-und ein Fassungsvermögen von nicht mehr als 200 Tonnen haben, sind
-
-1.  im Zusammenhang mit einem Brennstoffwechsel wegen einer ernsten oder
-    erheblichen Gasmangellage,
-
-
-2.  weil wegen einer ernsten oder erheblichen Gasmangellage notwendige
-    Betriebsmittel für Abgaseinrichtungen nicht ausreichend zur Verfügung
-    stehen oder
-
-
-3.  wegen einer anderen durch die ernste oder erhebliche Gasmangellage
-    ausgelösten Notwendigkeit
-
-
-
-im vereinfachten Verfahren nach § 19 des Bundes-
-Immissionsschutzgesetzes zu genehmigen. Die Genehmigung ist
-entsprechend zu befristen. § 19 Absatz 4 des Bundes-
-Immissionsschutzgesetzes bleibt von dieser Vorschrift unberührt.
-
-
-#### § 31i Abweichungen von der Technischen Anleitung zur Reinhaltung der Luft
-
-(1) Die zuständige Behörde soll auf Antrag des Betreibers nach der
-Nummer 5.1.1 der Neufassung der Ersten Allgemeinen
-Verwaltungsvorschrift zum Bundes-Immissionsschutzgesetz (Technische
-Anleitung zur Reinhaltung der Luft – TA Luft) vom 18. August 2021
-(GMBl S. 1050) Abweichungen von den Anforderungen der Nummer 5 der
-Ersten Allgemeinen Verwaltungsvorschrift zum Bundes-
-Immissionsschutzgesetz (Technische Anleitung zur Reinhaltung der Luft
-– TA Luft) vom 18. August 2021 (GMBl S. 1050) oder den Anforderungen
-der Nummer 5 der Ersten Allgemeinen Verwaltungsvorschrift zum Bundes-
-Immissionsschutzgesetz (Technische Anleitung zur Reinhaltung der Luft
-– TA Luft) vom 24. Juli 2002 (GMBl S. 511) zulassen, solange und
-soweit diese Abweichungen erforderlich sind
-
-1.  im Zusammenhang mit einem Brennstoffwechsel wegen einer ernsten oder
-    erheblichen Gasmangellage,
-
-
-2.  weil wegen einer ernsten oder erheblichen Gasmangellage notwendige
-    Betriebsmittel für Abgaseinrichtungen nicht ausreichend zur Verfügung
-    stehen oder
-
-
-3.  wegen einer anderen durch die ernste oder erhebliche Gasmangellage
-    ausgelösten Notwendigkeit.
-
-
-
-Bei Anlagen, die von der Richtlinie 2010/75/EU erfasst werden, müssen
-die Anforderungen der Richtlinie 2010/75/EU eingehalten werden.
-
-(2) Es bedarf weder einer Anzeige nach § 15 noch einer
-Änderungsgenehmigung nach § 16, wenn der Betreiber einer Anlage bei
-der zuständigen Behörde Abweichungen nach Absatz 1 beantragt.
-
-
-#### § 31j Überschreitung von Immissionsrichtwerten der Technischen Anleitung zum Schutz gegen Lärm
-
-(1) Die zuständige Behörde soll auf Antrag des Betreibers nach der
-Nummer 7.1 der Sechsten Allgemeinen Verwaltungsvorschrift zum Bundes-
-Immissionsschutzgesetz (Technische Anleitung zum Schutz gegen Lärm –
-TA Lärm) vom 26. August 1998 (GMBl S. 503), geändert durch die
-Allgemeine Verwaltungsvorschrift vom 1. Juni 2017 (BAnz AT 08.06.2017
-B5) die Überschreitung von Immissionsrichtwerten zulassen, solange und
-soweit diese Überschreitung erforderlich ist
-
-1.  im Zusammenhang mit einem Brennstoffwechsel wegen einer ernsten oder
-    erheblichen Gasmangellage,
-
-
-2.  weil wegen einer ernsten oder erheblichen Gasmangellage notwendige
-    Betriebsmittel für Abgaseinrichtungen nicht ausreichend zur Verfügung
-    stehen oder
-
-
-3.  wegen einer anderen durch die ernste oder erhebliche Gasmangellage
-    ausgelösten Notwendigkeit.
-
-
-
-
-(2) Es bedarf weder einer Anzeige nach § 15 noch einer
-Änderungsgenehmigung nach § 16, wenn der Betreiber einer Anlage bei
-der zuständigen Behörde eine Überschreitung nach Absatz 1 beantragt.
 
 
 #### § 31k (weggefallen)
@@ -2896,19 +2879,7 @@ Abgabeort gegenüber steht oder er dafür Mineralölprodukte erwirbt, die
 nicht unter die Vorschrift des Satzes 1 fallen. Satz 9 gilt auch für
 die nachfolgenden Abgaben des Kraftstoffs.
 
-(2) Wer gewerbsmäßig oder im Rahmen wirtschaftlicher Unternehmungen
-nach § 27 Absatz 2 und 3 des Energiesteuergesetzes steuerbefreiten
-oder nach § 2 Absatz 1 Nummer 3 des Energiesteuergesetzes zu
-versteuernden Flugturbinenkraftstoff der Unterposition 2710 19 21 der
-Kombinierten Nomenklatur in Verkehr bringt, hat sicherzustellen, dass
-die im gesamten Verpflichtungsjahr von ihm in Verkehr gebrachte Menge
-Kraftstoffs die Vorgaben des Absatzes 4a eingehalten werden. Als in
-Verkehr gebracht gilt Flugturbinenkraftstoff mit dem Entstehen der
-Energiesteuer nach § 8 Absatz 1, § 9a Absatz 4, § 15 Absatz 1 und §
-19b Absatz 1 des Energiesteuergesetzes; dies gilt auch, wenn sich an
-die Entnahme ein Verfahren der Steuerbefreiung nach § 24 in Verbindung
-mit § 27 Absatz 2 und 3 des Energiesteuergesetzes anschließt. Absatz 1
-Satz 3 bis 10 gilt entsprechend.
+(2) (weggefallen)
 
 (3) Verpflichteter nach Absatz 1 Satz 1 und 2 ist der jeweilige
 Steuerschuldner im Sinne des Energiesteuergesetzes. Abweichend von
@@ -2916,22 +2887,7 @@ Satz 1 ist in den Fällen des § 7 Absatz 4 Satz 1 des
 Energiesteuergesetzes der Dritte (Einlagerer) Verpflichteter. In den
 Fällen des § 22 Absatz 1 des Energiesteuergesetzes gilt allein
 derjenige als Verpflichteter im Sinne von Satz 1, der eine der dort
-jeweils genannten Handlungen zuerst vornimmt. Verpflichteter nach
-Absatz 2 Satz 1 und 2 ist der jeweilige Steuerschuldner im Sinne des
-Energiesteuergesetzes oder der Steuerlagerinhaber, der
-Flugturbinenkraftstoff zu steuerfreien Zwecken nach § 27 Absatz 2 und
-3 des Energiesteuergesetzes abgibt. Verpflichteter ist abweichend von
-Satz 4
-
-1.  in den Fällen des § 7 Absatz 4 Satz 1 des Energiesteuergesetzes der
-    Einlagerer,
-
-
-2.  in den Fällen des § 7 Absatz 6 des Energiesteuergesetzes derjenige,
-    der die Betankung kaufmännisch veranlasst hat.
-
-
-
+jeweils genannten Handlungen zuerst vornimmt.
 
 (4) Verpflichtete nach Absatz 1 haben sicherzustellen, dass die
 Treibhausgasemissionen der von ihnen in Verkehr gebrachten fossilen
@@ -2984,26 +2940,24 @@ durch eine Verordnung nach § 37d Absatz 2 Satz 1 Nummer 9 festgelegt
 werden, mit der vom Verpflichteten in Verkehr gebrachten energetischen
 Menge fossilen Otto- und fossilen Dieselkraftstoffs. Die
 Treibhausgasemissionen von Biokraftstoffen berechnen sich durch
-Multiplikation der in den anerkannten Nachweisen nach § 14 der
-Biokraftstoff-Nachhaltigkeitsverordnung vom 30. September 2009 (BGBl.
-I S. 3182), die zuletzt durch Artikel 2 der Verordnung vom 26.
-November 2012 (BGBl. I S. 2363) geändert worden ist, in der jeweils
-geltenden Fassung ausgewiesenen Treibhausgasemissionen in Kilogramm
-Kohlenstoffdioxid-Äquivalent pro Gigajoule mit der vom Verpflichteten
-in Verkehr gebrachten energetischen Menge Biokraftstoffs.
-Biokraftstoffe werden wie fossile Otto- oder fossile Dieselkraftstoffe
-behandelt, sofern
+Multiplikation der in den anerkannten Nachweisen nach § 8 der
+Biokraftstoff-Nachhaltigkeitsverordnung vom 2. Dezember 2021 (BGBl. I
+S. 5126, 5143), in der jeweils geltenden Fassung ausgewiesenen
+Treibhausgasemissionen in Kilogramm Kohlenstoffdioxid-Äquivalent pro
+Gigajoule mit der vom Verpflichteten in Verkehr gebrachten
+energetischen Menge Biokraftstoffs. Biokraftstoffe werden wie fossile
+Otto- oder fossile Dieselkraftstoffe behandelt, sofern
 
-1.  für die Biokraftstoffe anerkannte Nachweise nach § 14 der
+1.  für die Biokraftstoffe anerkannte Nachweise nach § 8 der
     Biokraftstoff-Nachhaltigkeitsverordnung nicht vorgelegt werden,
 
 
-2.  für die Biokraftstoffe anerkannte Nachweise nach § 14 der
+2.  für die Biokraftstoffe anerkannte Nachweise nach § 8 der
     Biokraftstoff-Nachhaltigkeitsverordnung vorgelegt werden, die keine
     Treibhausgasemissionen ausweisen,
 
 
-3.  für die Biokraftstoffe anerkannte Nachweise nach § 14 der
+3.  für die Biokraftstoffe anerkannte Nachweise nach § 8 der
     Biokraftstoff-Nachhaltigkeitsverordnung vorgelegt werden, die
     unwirksam im Sinne der Biokraftstoff-Nachhaltigkeitsverordnung sind
     und nicht anerkannt werden dürfen,
@@ -3040,40 +2994,6 @@ oder Nummer 3 oder nach § 47 Absatz 1 Nummer 1, 2 oder Nummer 6 des
 Energiesteuergesetzes gewährt wurde oder wird, nicht zu
 berücksichtigen. In den Fällen des Absatzes 5 Satz 1 Nummer 2 und 3
 gilt Satz 9 unabhängig von der Person des Entlastungsberechtigten.
-
-(4a) Verpflichtete nach Absatz 2 haben einen Mindestanteil an
-Kraftstoff, der Flugturbinenkraftstoff ersetzt, aus erneuerbaren
-Energien nicht-biogenen Ursprungs sicherzustellen. Die Höhe des in
-Satz 1 genannten Anteils beträgt
-
-*    *   1.
-
-    *   ab dem Kalenderjahr 2026
-
-    *   0,5 Prozent,
-
-
-*    *   2.
-
-    *   ab dem Kalenderjahr 2028
-
-    *   1 Prozent,
-
-
-*    *   3.
-
-    *   ab dem Kalenderjahr 2030
-
-    *   2 Prozent.
-
-
-
-Die Mindestanteile von Kraftstoff aus erneuerbaren Energien nicht-
-biogenen Ursprungs beziehen sich jeweils auf den Energiegehalt der
-Menge fossilen Flugturbinenkraftstoffs zuzüglich des Energiegehalts an
-Kraftstoff aus erneuerbaren Energien nicht-biogenen Ursprungs.
-Anforderungen an diese Kraftstoffe regelt eine Rechtsverordnung nach §
-37d Absatz 2 Satz 1.
 
 (5) Die Verpflichtungen nach Absatz 1 Satz 1 und 2 in Verbindung mit
 dem Absatz 4 können von Verpflichteten erfüllt werden durch folgende
@@ -3138,95 +3058,59 @@ Optionen (Erfüllungsoptionen):
 Erfüllungsoptionen nach Satz 1 Nummer 6 bis 8 werden mindestens mit
 dem Doppelten ihres Energiegehaltes auf die Erfüllung der
 Verpflichtungen nach Absatz 1 Satz 1 und 2 in Verbindung mit dem
-Absatz 4 angerechnet. Die Verpflichtung nach Absatz 2 in Verbindung
-mit Absatz 4a wird von Verpflichteten durch das Inverkehrbringen von
-flüssigen oder gasförmigen erneuerbaren Kraftstoffen nicht-biogenen
-Ursprungs erfüllt, soweit eine Rechtsverordnung der Bundesregierung
-nach § 37d Absatz 2 Satz 1 Nummer 13 dies zulässt.
+Absatz 4 angerechnet.
 
-(6) Die Erfüllung von Verpflichtungen
-
-1.  nach Absatz 1 Satz 1 und 2 in Verbindung mit Absatz 4 und
-
-
-2.  nach Absatz 2 in Verbindung mit Absatz 4a
-
-
-
-kann durch Vertrag, der der Schriftform bedarf, auf einen Dritten, der
-nicht selbst Verpflichteter ist, übertragen werden. Der Vertrag muss
-mengenmäßige Angaben zum Umfang der vom Dritten gegenüber dem
-Verpflichteten eingegangenen Verpflichtung enthalten sowie Angaben,
-für welche Erfüllungsoptionen die Übertragung gilt. Außerdem muss der
-Vertrag Angaben zu den Treibhausgasemissionen der Kraftstoffe in
-Kilogramm Kohlenstoffdioxid-Äquivalent enthalten. Der Dritte kann den
-Vertrag ausschließlich durch Erfüllungsoptionen erfüllen, die er im
-Verpflichtungsjahr einsetzt oder eingesetzt hat. Abweichend von Satz 4
-kann der Dritte Verträge nach Satz 3 auch durch Erfüllungsoptionen
-erfüllen, die er bereits im Vorjahr des Verpflichtungsjahres in
-Verkehr gebracht hat, wenn die Erfüllungsoptionen nicht bereits
-Gegenstand eines Vertrages nach Satz 1 waren und der Dritte im Vorjahr
-des Verpflichtungsjahres nicht selbst Verpflichteter gewesen ist.
-Absatz 1 Satz 2, Absatz 2 Satz 2, Absatz 5 Satz 1 und 2 gelten
-entsprechend. Bei Vorliegen der Voraussetzungen nach den Sätzen 1 bis
-6 ist der Verpflichtete so zu behandeln, als hätte er die vom Dritten
-eingesetzten Erfüllungsoptionen im Verpflichtungsjahr selbst in
-Verkehr gebracht. Absatz 4 Satz 3 bis 10 gelten entsprechend. Die vom
-Dritten zur Erfüllung einer nach Satz 1 übertragenen Verpflichtung
-eingesetzten Erfüllungsoptionen können nicht zur Erfüllung der
-Verpflichtung eines weiteren Verpflichteten eingesetzt werden.
-
-(7) Die Erfüllung von Verpflichtungen
-
-1.  nach Absatz 1 Satz 1 und 2 in Verbindung mit Absatz 4 und
-
-
-2.  nach Absatz 2 in Verbindung mit Absatz 4a
-
-
-
-kann durch Vertrag, der der Schriftform bedarf, auf einen Dritten, der
-selbst Verpflichteter ist, übertragen werden. Absatz 6 Satz 2 gilt
-entsprechend. Der Vertrag zur Erfüllung von Verpflichtungen nach
-Absatz 1 Satz 1 und 2 in Verbindung mit Absatz 4 muss Angaben zum
-Umfang der vom Dritten im Verpflichtungsjahr sicherzustellenden
-Treibhausgasminderungsmenge in Kilogramm Kohlenstoffdioxid-Äquivalent
-enthalten. Der Vertrag zur Erfüllung von Verpflichtungen nach Absatz 2
-Satz 1 und 2 in Verbindung mit Absatz 4a muss Angaben zum Umfang der
-vom Dritten im Verpflichtungsjahr sicherzustellenden energetischen
-Menge erneuerbarer Kraftstoffe nicht-biogenen Ursprungs nach Absatz 5
-Satz 2 in Gigajoule enthalten. Der Dritte kann Verträge ausschließlich
-durch Erfüllungsoptionen erfüllen, die er im Verpflichtungsjahr
-einsetzt oder eingesetzt hat. Absatz 1 Satz 2, Absatz 2 Satz 2, Absatz
-5 Satz 1 und 2 gelten entsprechend. Bei Vorliegen der Voraussetzungen
-nach den Sätzen 1 bis 5 werden zugunsten des Verpflichteten
-berücksichtigt
-
-1.  im Fall des Absatzes 1 Satz 1 und 2 in Verbindung mit Absatz 4 die vom
-    Dritten erreichte Treibhausgasminderungsmenge ausschließlich bei der
-    Berechnung der Treibhausgasemissionen nach Absatz 4 Satz 5 und 6 und
-
-
-2.  im Fall des Absatzes 2 in Verbindung mit Absatz 4a die vom Dritten
-    eingesetzten Erfüllungsoptionen ausschließlich bei der Ermittlung der
-    Mindestanteile von erneuerbaren Kraftstoffen nicht-biogenen Ursprungs
-    nach Absatz 4a Satz 3.
-
-
-
-Im Fall des Satzes 6 Nummer 1 berechnet sich die
-Treibhausgasminderungsmenge in entsprechender Anwendung des Absatzes 4
-Satz 3 bis 10. Die vom Dritten zur Erfüllung einer nach Satz 1
-übertragenen Verpflichtung eingesetzten Treibhausgasminderungs- und
-Kraftstoffmengen können nicht zur Erfüllung der eigenen Verpflichtung
-des Dritten oder der Verpflichtung eines weiteren Verpflichteten
+(6) Die Erfüllung von Verpflichtungen nach Absatz 1 Satz 1 und 2 in
+Verbindung mit Absatz 4 kann durch Vertrag, der der Schriftform
+bedarf, auf einen Dritten, der nicht selbst Verpflichteter ist,
+übertragen werden. Der Vertrag muss mengenmäßige Angaben zum Umfang
+der vom Dritten gegenüber dem Verpflichteten eingegangenen
+Verpflichtung enthalten sowie Angaben, für welche Erfüllungsoptionen
+die Übertragung gilt. Außerdem muss der Vertrag Angaben zu den
+Treibhausgasemissionen der Kraftstoffe in Kilogramm Kohlenstoffdioxid-
+Äquivalent enthalten. Der Dritte kann den Vertrag ausschließlich durch
+Erfüllungsoptionen erfüllen, die er im Verpflichtungsjahr einsetzt
+oder eingesetzt hat. Abweichend von Satz 4 kann der Dritte Verträge
+nach Satz 3 auch durch Erfüllungsoptionen erfüllen, die er bereits im
+Vorjahr des Verpflichtungsjahres in Verkehr gebracht hat, wenn die
+Erfüllungsoptionen nicht bereits Gegenstand eines Vertrages nach Satz
+1 waren und der Dritte im Vorjahr des Verpflichtungsjahres nicht
+selbst Verpflichteter gewesen ist. Absatz 1 Satz 2 und Absatz 5 Satz 1
+und 2 gelten entsprechend. Bei Vorliegen der Voraussetzungen nach den
+Sätzen 1 bis 6 ist der Verpflichtete so zu behandeln, als hätte er die
+vom Dritten eingesetzten Erfüllungsoptionen im Verpflichtungsjahr
+selbst in Verkehr gebracht. Absatz 4 Satz 3 bis 10 gelten
+entsprechend. Die vom Dritten zur Erfüllung einer nach Satz 1
+übertragenen Verpflichtung eingesetzten Erfüllungsoptionen können
+nicht zur Erfüllung der Verpflichtung eines weiteren Verpflichteten
 eingesetzt werden.
 
-(8) Treibhausgasminderungs- oder Kraftstoffmengen, die den nach den
-Absätzen 4 oder 4a vorgeschriebenen Prozentsatz oder Mindestanteil für
-ein bestimmtes Verpflichtungsjahr übersteigen, werden auf Antrag des
-Verpflichteten auf den Prozentsatz oder Mindestanteil des folgenden
-Kalenderjahres angerechnet.
+(7) Die Erfüllung von Verpflichtungen nach Absatz 1 Satz 1 und 2 in
+Verbindung mit Absatz 4 kann durch Vertrag, der der Schriftform
+bedarf, auf einen Dritten, der selbst Verpflichteter ist, übertragen
+werden. Absatz 6 Satz 2 gilt entsprechend. Der Vertrag zur Erfüllung
+von Verpflichtungen nach Absatz 1 Satz 1 und 2 in Verbindung mit
+Absatz 4 muss Angaben zum Umfang der vom Dritten im Verpflichtungsjahr
+sicherzustellenden Treibhausgasminderungsmenge in Kilogramm
+Kohlenstoffdioxid-Äquivalent enthalten. Der Dritte kann Verträge
+ausschließlich durch Erfüllungsoptionen erfüllen, die er im
+Verpflichtungsjahr einsetzt oder eingesetzt hat. Absatz 1 Satz 2 und
+Absatz 5 Satz 1 und 2 gelten entsprechend. Bei Vorliegen der
+Voraussetzungen nach den Sätzen 1 bis 4 wird zugunsten des
+Verpflichteten die vom Dritten erreichte Treibhausgasminderungsmenge
+ausschließlich bei der Berechnung der Treibhausgasemissionen nach
+Absatz 4 Satz 5 und 6 berücksichtigt. Im Fall des Satzes 6 Nummer 1
+berechnet sich die Treibhausgasminderungsmenge in entsprechender
+Anwendung des Absatzes 4 Satz 3 bis 10. Die vom Dritten zur Erfüllung
+einer nach Satz 1 übertragenen Verpflichtung eingesetzten
+Treibhausgasminderungs- und Kraftstoffmengen können nicht zur
+Erfüllung der eigenen Verpflichtung des Dritten oder der Verpflichtung
+eines weiteren Verpflichteten eingesetzt werden.
+
+(8) Treibhausgasminderungsmengen, die den nach Absatz 4 Satz 2
+vorgeschriebenen Prozentsatz für ein bestimmtes Verpflichtungsjahr
+übersteigen, werden auf Antrag des Verpflichteten auf den Prozentsatz
+des folgenden Kalenderjahres angerechnet.
 
 
 #### § 37b Begriffsbestimmungen und Anrechenbarkeit von Biokraftstoffen
@@ -3349,8 +3233,7 @@ des 15. April des auf das Verpflichtungsjahr folgenden Kalenderjahres
 schriftlich mitzuteilen
 
 1.  die im Verpflichtungsjahr von ihnen in Verkehr gebrachte Menge
-    fossilen Otto- und fossilen Dieselkraftstoffs oder fossilen
-    Flugturbinenkraftstoffs,
+    fossilen Otto- und fossilen Dieselkraftstoffs,
 
 
 2.  die im Verpflichtungsjahr von ihnen eingesetzte Menge an
@@ -3399,37 +3282,26 @@ und führt ein elektronisches Register, das für alle Verpflichteten die
 nach den Sätzen 1 bis 6 erforderlichen Angaben enthält.
 
 (2) Soweit Verpflichtete einer Verpflichtung nach § 37a Absatz 1 Satz
-1 und 2 in Verbindung mit § 37a Absatz 4 oder nach § 37a Absatz 2 Satz
-1 und 2 in Verbindung mit § 37a Absatz 4a nicht nachkommen, setzt die
-zuständige Stelle eine Abgabe fest
-
-1.  in den Fällen des § 37a Absatz 4 für die Fehlmenge der zu mindernden
-    Treibhausgasemissionen oder
-
-
-2.  in den Fällen des § 37a Absatz 4a für die nach dem Energiegehalt
-    berechnete Fehlmenge Kraftstoffs.
-
-
-
-Die Abgabenschuld des Verpflichteten entsteht mit Ablauf des 15.
-Aprils des auf das Verpflichtungsjahr folgenden Kalenderjahres. In den
-Fällen, in denen ein Verpflichteter durch eine Rechtsverordnung der
-Bundesregierung nach § 37d Absatz 2 Satz 1 Nummer 8 einen
-Mindestanteil bestimmter Biokraftstoffe oder anderer erneuerbarer
-Kraftstoffe in Verkehr zu bringen hat, setzt die zuständige Stelle bis
-einschließlich zum Verpflichtungsjahr 2021 eine Abgabe in Höhe von 19
-Euro pro Gigajoule und ab dem Verpflichtungsjahr 2022 eine Abgabe in
-Höhe von 45 Euro pro Gigajoule fest. In den Fällen des § 37a Absatz 4a
-beträgt die Höhe der Abgabe 70 Euro pro Gigajoule. In den Fällen des §
-37a Absatz 4 wird die Abgabe nach der Fehlmenge der zu mindernden
-Treibhausgasemissionen berechnet und beträgt bis einschließlich zum
-Verpflichtungsjahr 2021 0,47 Euro pro Kilogramm Kohlenstoffdioxid-
-Äquivalent und ab dem Verpflichtungsjahr 2022 0,60 Euro pro Kilogramm
-Kohlenstoffdioxid-Äquivalent. Soweit im Falle des § 37a Absatz 6 Satz
-1 oder des § 37a Absatz 7 Satz 1 der Dritte seine vertragliche
-Verpflichtung nicht erfüllt, setzt die zuständige Stelle die Abgabe
-gegen den Verpflichteten fest.
+1 und 2 in Verbindung mit § 37a Absatz 4 nicht nachkommen, setzt die
+zuständige Stelle eine Abgabe fest für die Fehlmenge der zu mindernden
+Treibhausgasemissionen oder für die nach dem Energiegehalt berechnete
+Fehlmenge an Kraftstoff. Die Abgabenschuld des Verpflichteten entsteht
+mit Ablauf des 15. Aprils des auf das Verpflichtungsjahr folgenden
+Kalenderjahres. In den Fällen, in denen ein Verpflichteter durch eine
+Rechtsverordnung der Bundesregierung nach § 37d Absatz 2 Satz 1 Nummer
+8 einen Mindestanteil bestimmter Biokraftstoffe oder anderer
+erneuerbarer Kraftstoffe in Verkehr zu bringen hat, setzt die
+zuständige Stelle bis einschließlich zum Verpflichtungsjahr 2021 eine
+Abgabe in Höhe von 19 Euro pro Gigajoule und ab dem Verpflichtungsjahr
+2022 eine Abgabe in Höhe von 45 Euro pro Gigajoule fest. In den Fällen
+des § 37a Absatz 4 wird die Abgabe nach der Fehlmenge der zu
+mindernden Treibhausgasemissionen berechnet und beträgt bis
+einschließlich zum Verpflichtungsjahr 2021 0,47 Euro pro Kilogramm
+Kohlenstoffdioxid-Äquivalent und ab dem Verpflichtungsjahr 2022 0,60
+Euro pro Kilogramm Kohlenstoffdioxid-Äquivalent. Soweit im Falle des §
+37a Absatz 6 Satz 1 oder des § 37a Absatz 7 Satz 1 der Dritte seine
+vertragliche Verpflichtung nicht erfüllt, setzt die zuständige Stelle
+die Abgabe gegen den Verpflichteten fest.
 
 (3) Soweit der Verpflichtete der zuständigen Stelle die nach Absatz 1
 Satz 1 und 3 erforderlichen Angaben nicht oder nicht ordnungsgemäß
@@ -3437,9 +3309,8 @@ mitgeteilt hat, schätzt die zuständige Stelle die vom Verpflichteten
 im Verpflichtungsjahr in Verkehr gebrachten Mengen an Kraftstoffen und
 auch die Treibhausgasminderung. Die Schätzung ist unwiderlegliche
 Basis für die Verpflichtung nach § 37a Absatz 1 Satz 1 und 2 in
-Verbindung mit § 37a Absatz 4 sowie nach § 37a Absatz 2 Satz 1 und 2
-in Verbindung mit § 37a Absatz 4a. Die Schätzung unterbleibt, soweit
-der Verpflichtete im Rahmen der Anhörung zum Festsetzungsbescheid nach
+Verbindung mit § 37a Absatz 4. Die Schätzung unterbleibt, soweit der
+Verpflichtete im Rahmen der Anhörung zum Festsetzungsbescheid nach
 Absatz 2 Satz 1 in Verbindung mit Absatz 2 Satz 3, 4 oder Satz 5 die
 Mitteilung nachholt. Soweit ein Dritter die nach Absatz 1 Satz 4 bis 6
 erforderlichen Angaben nicht ordnungsgemäß mitgeteilt hat, geht die
@@ -3742,19 +3613,22 @@ erlassen und darin insbesondere
 
 #### § 37e Gebühren und Auslagen; Verordnungsermächtigung
 
-(1) Für Amtshandlungen, die auf Rechtsverordnungen beruhen
+(1) Es werden Gebühren und Auslagen für individuell zurechenbare
+öffentliche Leistungen erhoben, die auf Grund von Rechtsverordnungen
+erbracht werden nach:
 
-1.  die auf der Grundlage des § 37d Absatz 2 Satz 1 Nummer 3 und 4
-    erlassen worden sind oder
-
-
-2.  die auf der Grundlage des § 37d Absatz 2 Satz 1 Nummer 13 erlassen
-    worden sind,
+1.  § 37d Absatz 2 Satz 1 Nummer 3 und 4,
 
 
+2.  § 37d Absatz 2 Satz 1 Nummer 11 und
 
-werden zur Deckelung des Verwaltungsaufwands Gebühren und Auslagen
-erhoben.
+
+3.  § 37d Absatz 2 Satz 1 Nummer 13.
+
+
+
+Die Gebühr soll die mit der individuell zurechenbaren öffentlichen
+Leistung verbundenen Kosten aller an der Leistung Beteiligten decken.
 
 (2) Das Bundesministerium für Ernährung und Landwirtschaft wird
 ermächtigt, im Einvernehmen mit dem Bundesministerium für Umwelt,
@@ -3773,8 +3647,8 @@ geregelt werden.
 (3) Das Bundesministerium für Umwelt, Naturschutz und nukleare
 Sicherheit wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des
 Bundesrates die gebührenpflichtigen Tatbestände und Gebührensätze für
-Amtshandlungen im Sinne von Absatz 1 Nummer 2 zu bestimmen und dabei
-feste Sätze, auch in Form von Zeitgebühren oder Rahmensätzen,
+Amtshandlungen im Sinne von Absatz 1 Nummer 2 und 3 zu bestimmen und
+dabei feste Sätze, auch in Form von Zeitgebühren oder Rahmensätzen,
 vorzusehen. In der Rechtsverordnung kann die Erstattung von Auslagen
 auch abweichend von § 12 Absatz 1 des Bundesgebührengesetzes geregelt
 werden.
@@ -4096,7 +3970,7 @@ vom Vorhabenträger oder dem Bund getragen werden.
 entsprechend.
 
 
-## Fünfter Teil - Überwachung und Verbesserung der Luftqualität, Luftreinhalteplanung, Lärmminderungspläne
+## Fünfter Teil - Überwachung und Verbesserung der Luftqualität, Luftreinhalteplanung
 
 
 
@@ -4508,7 +4382,10 @@ der Beteiligung vorzusehen.
 
 (5) Die Lärmaktionspläne werden bei bedeutsamen Entwicklungen für die
 Lärmsituation, ansonsten jedoch alle fünf Jahre nach dem Zeitpunkt
-ihrer Aufstellung überprüft und erforderlichenfalls überarbeitet.
+ihrer Aufstellung überprüft und erforderlichenfalls überarbeitet. Ist
+ein Lärmaktionsplan nach Satz 1 im Kalenderjahr 2023 zu überprüfen und
+zu überarbeiten, dann hat dies bis zum Ablauf des 18. Juli 2024 zu
+erfolgen.
 
 (6) § 47 Absatz 3 Satz 2 und Absatz 6 gilt entsprechend.
 
@@ -4566,9 +4443,12 @@ deutsches Recht zu erlassen, insbesondere
 
 Passt die Kommission gemäß Artikel 12 der Richtlinie 2002/49/EG deren
 Anhang I Abschnitt 3, Anhang II und Anhang III nach dem Verfahren des
-Artikels 13 Absatz 2 der Richtlinie 2002/49/EG an den
-wissenschaftlichen und technischen Fortschritt an, gilt Satz 1 auch
-insoweit.
+Artikels 12a der Richtlinie 2002/49/EG des Europäischen Parlaments und
+des Rates vom 25. Juni 2002 über die Bewertung und Bekämpfung von
+Umgebungslärm (ABl. L 189 vom 18.7.2002, S. 12), die zuletzt durch
+Artikel 1 der Richtlinie (EU) 2021/1226 (ABl. 2021 L 269 vom
+28\.7.2021, S. 65) geändert worden ist an den wissenschaftlichen und
+technischen Fortschritt an, gilt Satz 1 auch insoweit.
 
 (2) Die Bundesregierung wird ermächtigt, nach Anhörung der beteiligten
 Kreise (§ 51) durch Rechtsverordnung mit Zustimmung des Bundesrates
@@ -4715,7 +4595,20 @@ Rechtsverordnungen von Behörden zu erfüllende Pflichten begründen und
 ihnen Befugnisse zur Erhebung, Verarbeitung und Nutzung
 personenbezogener Daten einräumen, soweit diese für die Beurteilung
 und Kontrolle der in den Beschlüssen gestellten Anforderungen
-erforderlich sind.
+erforderlich sind. In einer Rechtsverordnung nach Satz 1 kann dem
+Kraftfahrt-Bundesamt die Aufgabe übertragen werden, Daten aus dem
+praktischen Fahrbetrieb im Sinne des Artikel 2 Buchstabe c der
+Durchführungsverordnung
+(EU) 2021/392              der Kommission vom 4. März 2021 über die
+Überwachung und Meldung von Daten zu den CO
+2             -Emissionen von Personenkraftwagen und leichten
+Nutzfahrzeugen gemäß der Verordnung (EU) 2019/631 des Europäischen
+Parlaments und des Rates und zur Aufhebung der
+Durchführungsverordnungen (EU) Nr. 1014/2010, (EU) Nr. 293/2012, (EU)
+2017/1152 und (EU) 2017/1153 der Kommission (ABl. L 77 vom 5.3.2021,
+S. 8) zusammen mit den Fahrzeugidentifizierungsnummern zu speichern
+und die gespeicherten Daten, einschließlich personenbezogener Daten,
+an Stellen der Europäischen Union zu übermitteln.
 
 
 ### § 48b Beteiligung des Bundestages beim Erlass von Rechtsverordnungen
@@ -4847,7 +4740,7 @@ der Gewerkschaften, der Sachverständigen nach § 29a und der
 zugelassenen Überwachungsstellen nach § 2 Nummer 4 des Gesetzes über
 überwachungsbedürftige Anlagen, der Berufsgenossenschaften, der
 beteiligten Wirtschaft sowie Vertreterinnen oder Vertreter der nach §
-24 der Betriebssicherheitsverordnung und § 21 der
+24 der Betriebssicherheitsverordnung und § 20 Absatz 1 bis 3 der
 Gefahrstoffverordnung eingesetzten Ausschüsse zu berufen.
 
 (4) Die Kommission für Anlagensicherheit wählt aus ihrer Mitte eine
@@ -5106,7 +4999,9 @@ durchzuführen.
 Beschwerden wegen ernsthafter Umweltbeeinträchtigungen, bei
 Ereignissen mit erheblichen Umweltauswirkungen und bei Verstößen gegen
 die Vorschriften dieses Gesetzes oder der auf Grund dieses Gesetzes
-erlassenen Rechtsverordnungen eine Überwachung durch.
+erlassenen Rechtsverordnungen unverzüglich und, soweit erforderlich,
+vor der Erteilung, Erneuerung oder Aktualisierung einer Genehmigung
+eine Überwachung durch.
 
 (5) Nach jeder Vor-Ort-Besichtigung einer Anlage erstellt die
 zuständige Behörde einen Bericht mit den relevanten Feststellungen
@@ -5684,11 +5579,29 @@ Gesetzes über Ordnungswidrigkeiten ist in den Fällen des Absatzes 1
 Nummer 9 bis 11 die zuständige Stelle.
 
 
-### § 63 Entfall der aufschiebenden Wirkung
+### § 63 Rechtsbehelfe und Entfall der aufschiebenden Wirkung
 
-Widerspruch und Anfechtungsklage eines Dritten gegen die Zulassung
+(1) Widerspruch und Anfechtungsklage eines Dritten gegen die Zulassung
 einer Windenergieanlage an Land mit einer Gesamthöhe von mehr als 50
-Metern haben keine aufschiebende Wirkung.
+Metern haben keine aufschiebende Wirkung. Der Widerspruch ist binnen
+eines Monats nach seiner Erhebung zu begründen. Darauf ist in der
+Rechtsbehelfsbelehrung hinzuweisen. Wird der Widerspruch nicht binnen
+der Frist nach Satz 2 begründet, soll die Behörde den Widerspruch
+zurückweisen.
+
+(2) Der Antrag auf Anordnung der aufschiebenden Wirkung des
+Widerspruchs oder der Anfechtungsklage gegen eine Zulassung einer
+Windenergieanlage an Land mit einer Gesamthöhe von mehr als 50 Metern
+nach § 80 Absatz 5 Satz 1 der Verwaltungsgerichtsordnung kann nur
+innerhalb eines Monats nach der Zustellung der Zulassung gestellt und
+begründet werden. Darauf ist in der Rechtsbehelfsbelehrung
+hinzuweisen. § 58 der Verwaltungsgerichtsordnung gilt entsprechend.
+Treten später Tatsachen ein, die die Anordnung der aufschiebenden
+Wirkung rechtfertigen, so kann der durch die Zulassungsentscheidung
+Beschwerte einen hierauf gestützten Antrag nach § 80 Absatz 5 Satz 1
+der Verwaltungsgerichtsordnung innerhalb einer Frist von einem Monat
+stellen und begründen. Die Frist beginnt mit dem Zeitpunkt, in dem der
+Beschwerte von den Tatsachen Kenntnis erlangt.
 
 
 ### (XXXX) §§ 64 bis 65 (weggefallen)

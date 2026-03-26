@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2009, 2870
 
 Zuletzt geändert durch
-:   Art. 9 G v. 22.12.2023 I Nr. 405
+:   Art. 4 G v. 8.5.2024 I Nr. 151
 
 Stand: Das G ist gem. Art. 7 G v. 21.8.2009 I 2870 am 26.8.2009 in Kraft getreten
 
@@ -37,9 +37,9 @@ Zielsetzungen des § 1 des Energiewirtschaftsgesetzes. Für diese
 Vorhaben stehen damit die energiewirtschaftliche Notwendigkeit und der
 vordringliche Bedarf fest. Die Realisierung dieser Vorhaben ist aus
 Gründen eines überragenden öffentlichen Interesses und im Interesse
-der öffentlichen Sicherheit erforderlich. Diese Feststellungen sind
-für die Planfeststellung und die Plangenehmigung nach den §§ 43 bis
-43d des Energiewirtschaftsgesetzes verbindlich.
+der öffentlichen Gesundheit und Sicherheit erforderlich. Diese
+Feststellungen sind für die Planfeststellung und die Plangenehmigung
+nach den §§ 43 bis 43d des Energiewirtschaftsgesetzes verbindlich.
 
 (3) Für die in den Bedarfsplan aufgenommenen Vorhaben gilt § 50 Abs. 1
 Nr. 6 der Verwaltungsgerichtsordnung. Dies ist auch anzuwenden für auf

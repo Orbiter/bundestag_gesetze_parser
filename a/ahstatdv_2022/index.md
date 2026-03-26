@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2021, 2580
 
+Geändert durch
+:   Art. 1 V v. 6.3.2025 I Nr. 74
+
 Stand: Ersetzt V 7402-1-1 v. 2.4.1962 I 206 (AHStatDV)
 
 ## Eingangsformel
@@ -51,10 +54,10 @@ Warenverkehr innerhalb des Zollgebietes der Europäischen Union von
 ### § 2 Datenübermittlung der Zollbehörden
 
 (1) Die Zollbehörden übermitteln dem Statistischen Bundesamt alle
-Anmeldungen zu Warenverkehren mit Drittländern nach § 10 Absatz 3 des
+Anmeldungen zu Warenverkehren nach § 10 Absatz 3 des
 Außenhandelsstatistikgesetzes. Die Zollbehörden übermitteln dem
-Statistischen Bundesamt die Daten zur Extrahandelsstatistik auch dann,
-wenn dem Auskunftspflichtigen bewilligt wurde, die Daten im Rahmen der
+Statistischen Bundesamt die Daten auch dann, wenn dem
+Auskunftspflichtigen bewilligt wurde, die Daten im Rahmen der
 Anschreibung in der Buchführung des Anmelders nach Artikel 182 der
 Verordnung (EU) Nr. 952/2013 des Europäischen Parlaments und des Rates
 vom 9. Oktober 2013 zur Festlegung des Zollkodex der Union (ABl. L 269
@@ -98,23 +101,20 @@ aus den folgenden Zollanmeldedaten:
 9.  Kennzeichen für die statistische Relevanz der Zollanmeldung,
 
 
-10. Artikelpreis,
+10. Umrechnungskurs,
 
 
-11. Umrechnungskurs,
-
-
-12. Staatszugehörigkeit des grenzüberschreitenden aktiven
+11. Staatszugehörigkeit des grenzüberschreitenden aktiven
     Beförderungsmittels,
 
 
-13. Packstück,
+12. Packstück,
 
 
-14. einfuhrrechtliches Papier,
+13. einfuhrrechtliches Papier,
 
 
-15. Unterlagen und Bescheinigungen gemäß Anhang B Titel I der
+14. Unterlagen und Bescheinigungen gemäß Anhang B Titel I der
     Durchführungsverordnung (EU) 2015/2447.
 
 
@@ -147,62 +147,70 @@ frei.
 
 ### § 3 Anmeldung von Zolllagerverkehren
 
-(1) Die Einfuhr in ein Zolllager oder in eine Freizone, die Entnahme
-aus einem Zolllager oder einer Freizone und die Wiederausfuhr aus
-einem Zolllager sowie die Ausfuhr aus einer Freizone sind dem
-Statistischen Bundesamt von dem Auskunftspflichtigen zur
-Außenhandelsstatistik nach § 9 des Außenhandelsstatistikgesetzes
-anzumelden.
+(1) Der Import in ein Zolllager oder in eine Freizone, die Entnahme
+aus einem Zolllager oder aus einer Freizone und der Export aus einem
+Zolllager oder aus einer Freizone sind dem Statistischen Bundesamt von
+dem Auskunftspflichtigen zur Außenhandelsstatistik nach § 9 des
+Außenhandelsstatistikgesetzes anzumelden.
 
 (2) Wird eine Ware aus einem Zolllager entnommen und zum zollrechtlich
-freien Verkehr überlassen, so ist dieser Warenverkehr als Einfuhr aus
-dem Land anzumelden, aus dem sie in das Zolllager eingeführt wurde, es
-sei denn, die Ware befand sich vor der Überführung in das Zolllager im
-Erhebungsgebiet.
+freien Verkehr überlassen oder in die aktive Veredelung überführt, so
+ist dieser Warenverkehr als Import aus dem Land anzumelden, aus dem
+sie in das Zolllager importiert wurde, es sei denn, die Ware befand
+sich vor der Überführung in das Zolllager im Erhebungsgebiet.
 
-(3) Die Wiederausfuhr aus einem Zolllager ist als Ausfuhr in das Land
-anzumelden, in das die entsprechende Ware ausgeführt wird.
+(3) Wird eine Ware aus einem Zolllager entnommen und in ein anderes
+Land verbracht, ist die Entnahme als Export anzumelden.
 
 
 ### § 4 Veredelungsverkehre
 
-(1) Im Rahmen dieser Verordnung ist oder sind
+(1) Im Rahmen dieser Verordnung ist
 
-1.  „deutsche Waren“ Waren, die sich im Moment der Be- oder Verarbeitung
-    im Eigentum einer gebietsansässigen Person befinden,
-
-
-2.  „ausländische Waren“ Waren, die sich im Moment der Be- oder
-    Verarbeitung im Eigentum einer nicht gebietsansässigen Person
-    befinden,
+1.  eine „deutsche Ware“ eine Ware, die sich im Moment der Be- oder
+    Verarbeitung im Eigentum eines Inländers nach § 63 Nummer 2 der
+    Außenwirtschaftsverordnung befindet,
 
 
-3.  „aktive Veredelung“ die Be- oder Verarbeitung von ausländischen Waren
-    im Erhebungsgebiet nach § 3 des Außenhandelsstatistikgesetzes durch
-    eine andere Person als den Eigentümer der Waren mit dem Ziel, aus
-    ihnen neue oder wirklich verbesserte Waren herzustellen,
+2.  eine „ausländische Ware“ eine Ware, die sich im Moment der Be- oder
+    Verarbeitung im Eigentum eines Ausländers nach § 63 Nummer 3 der
+    Außenwirtschaftsverordnung befindet,
 
 
-4.  „passive Veredelung“ die Be- oder Verarbeitung von deutschen Waren
-    außerhalb des Erhebungsgebiets durch eine andere Person als den
-    Eigentümer der Waren mit dem Ziel, aus ihnen neue oder wirklich
-    verbesserte Waren herzustellen,
+3.  eine „aktive Veredelung“ die Be- oder Verarbeitung von ausländischen
+    Waren im Erhebungsgebiet nach § 3 des Außenhandelsstatistikgesetzes
+    durch einen Inländer nach § 63 Nummer 2 der Außenwirtschaftsverordnung
+    mit dem Ziel, aus ihnen neue oder wirklich verbesserte Waren
+    herzustellen,
 
 
-5.  „Eigenveredelung“ der Eigentumsübergang an einem Vorprodukt an den Be-
-    oder Verarbeiter, die Be- oder Verarbeitung in eigenem Namen des Be-
-    oder Verarbeiters sowie der anschließende Eigentumsübergang der
-    veredelten Ware an eine andere Person.
+4.  eine „passive Veredelung“ die Be- oder Verarbeitung von deutschen
+    Waren außerhalb des Erhebungsgebiets durch einen Ausländer nach § 63
+    Nummer 3 der Außenwirtschaftsverordnung mit dem Ziel, aus ihnen neue
+    oder wirklich verbesserte Waren herzustellen,
+
+
+5.  eine „Eigenveredelung“ der Eigentumsübergang an einem Vorprodukt an
+    den Be- oder Verarbeiter, die Be- oder Verarbeitung in eigenem Namen
+    des Be- oder Verarbeiters sowie der anschließende Eigentumsübergang
+    der veredelten Ware an eine andere institutionelle Einheit nach Anhang
+    A, Abschnitt 2.12 und 2.13 der Verordnung (EU) Nr. 549/2013 des
+    Europäischen Parlaments und des Rates vom 21. Mai 2013 zum
+    Europäischen System Volkswirtschaftlicher Gesamtrechnungen auf
+    nationaler und regionaler Ebene in der Europäischen Union (ABl. L 174
+    vom 26.6.2013, S. 1), die durch die Delegierte Verordnung (EU)
+    2015/1342 (ABl. L 207 vom 4.8.2015, S. 35) geändert worden ist, in der
+    jeweils geltenden Fassung, als den Be- oder Verarbeiter.
 
 
 
 
 (2) Bei den in Absatz 1 Nummer 3 und 4 bezeichneten Veredelungen sind
 die Sendungen zur und nach der Veredelung zur Außenhandelsstatistik
-anzumelden. Die Rücklieferung von nicht be- oder verarbeiteten Waren,
-die ursprünglich dem Be- oder Verarbeiter zur Lohnveredelung geliefert
-wurden an den Eigentümer ist ebenfalls als Sendung nach der Veredelung
-anzumelden.
+anzumelden. Die Rücklieferung an den Eigentümer von nicht be- oder
+verarbeiteten Waren, die ursprünglich dem Be- oder Verarbeiter zur
+Veredelung geliefert wurden, ist ebenfalls als Sendung nach der
+Veredelung anzumelden.
 
 (3) Ein Warenverkehr kann sowohl im Rahmen eines zollamtlich
 bewilligten Veredelungsverfahrens als auch außerhalb eines solchen
@@ -237,23 +245,21 @@ Kauf oder Verkauf anzusehen.
 wird, so ist diese Veredelung nicht erneut anzumelden.
 
 
-### § 5 Befreiung der Anmeldung von Waren zur vorübergehenden Verwendung
+### § 5 Befreiung der Anmeldung von Waren zu oder nach der vorübergehenden Verwendung
 
-(1) Waren, die im Extrahandel zollrechtlich zur vorübergehenden
-Verwendung erfasst werden, sind von der Anmeldung zur
-Außenhandelsstatistik befreit.
+(1) Waren zu oder nach der vorübergehenden Verwendung, die die
+Voraussetzungen für die Befreiung nach Anlage 4 Buchstabe c erfüllen,
+sind von der Anmeldung zur Außenhandelsstatistik befreit.
 
-(2) Befinden sich Waren, die ursprünglich zur vorübergehenden
-Verwendung in ein Land geliefert wurden, über einen längeren Zeitraum
-als 24 Monate in diesem Land oder werden die Waren aus dem
-Zollverfahren der vorübergehenden Verwendung in ein anderes
-Zollverfahren überführt, so ist der Warenverkehr nachträglich zur
+(2) Sind bei Warenverkehren, die ursprünglich von der Anmeldung zur
+Außenhandelsstatistik nach Anlage 4 Buchstabe c befreit waren, die
+Voraussetzungen für die Befreiung nicht mehr erfüllt, so sind die
+Warenverkehre nachträglich ab dem Zeitpunkt, ab dem die
+Voraussetzungen für die Befreiung nicht mehr erfüllt sind, zur
 Außenhandelsstatistik durch den Auskunftspflichtigen nach § 9 des
-Außenhandelsstatistikgesetzes anzumelden. Diese Anmeldung muss
-unverzüglich zu dem Zeitpunkt erfolgen, zu dem eine längere
-Verweildauer geplant wird oder feststeht. Als Berichtsmonat ist der
-Monat anzugeben, in dem die längere Verweildauer geplant wird oder
-feststeht.
+Außenhandelsstatistikgesetzes anzumelden. Als Bezugszeitraum ist der
+Kalendermonat anzugeben, in dem die Voraussetzungen für die Befreiung
+erstmalig nicht mehr erfüllt sind.
 
 
 ### § 6 Anmeldepflichten
@@ -315,19 +321,13 @@ abzugeben.
 (6) Das Statistische Bundesamt kann die Meldepflichten nach den
 Absätzen 2 bis 5 aussetzen, wenn es die betreffenden für die
 Erstellung der Außenhandelsstatistik qualitativ geeigneten Daten im
-Rahmen des Einzeldatenaustausches von einer nationalen statistischen
-Stelle nach Artikel 5 Absatz 1 bis 3 der Verordnung (EG) Nr. 223/2009
-des Europäischen Parlaments und des Rates vom 11. März 2009 über
-europäische Statistiken und zur Aufhebung der Verordnung (EG, Euratom)
-Nr. 1101/2008 des Europäischen Parlaments und des Rates über die
-Übermittlung von unter die Geheimhaltungspflicht fallenden
-Informationen an das Statistische Amt der Europäischen Gemeinschaften,
-der Verordnung (EG) Nr. 322/97 des Rates über die
-Gemeinschaftsstatistiken und des Beschlusses 89/382/EWG, Euratom des
-Rates zur Einsetzung eines Ausschusses für das Statistische Programm
-der Europäischen Gemeinschaften (ABl. L 87 vom 31.3.2009, S. 164), die
-zuletzt durch die Verordnung (EU) 2015/759 (ABl. L 123 vom 19.5.2015,
-S. 90) geändert worden ist, in der jeweils geltenden Fassung erhält.
+Rahmen des Einzeldatenaustauschs nach Artikel 5 Absatz 4 oder den
+Artikeln 11 bis 14 der Verordnung (EU) 2019/2152 des europäischen
+Parlaments und des Rates vom 27. November 2019 über europäische
+Unternehmensstatistiken, zur Aufhebung von zehn Rechtsakten im Bereich
+Unternehmensstatistiken (ABl. L 327 vom 17.12.2019, S. 1), die durch
+die Delegierte Verordnung (EU) 2021/1704 (ABl. L 339 vom 24.9.2021, S.
+33) geändert worden ist, in der jeweils geltenden Fassung, erhält.
 
 
 ### § 7 Verfahren bei statistischen Anmeldungen/Anmeldeverfahren
@@ -346,9 +346,9 @@ gelten die gleichen Anmeldefristen.
 Außenhandelsstatistikgesetzes längere Anmeldefristen gewähren.
 
 (4) Das Statistische Bundesamt darf Erleichterungen hinsichtlich der
-Zusammenfassung mehrerer Positionen und Sendungen in einer Anmeldung
-gewähren. Waren dürfen jedoch nur dann gemeinsam in einer
-Warenposition in einem Bezugszeitraum angemeldet werden, wenn
+Anmeldung mehrerer Sendungen in einer einzigen Warenposition gewähren.
+Waren dürfen jedoch nur dann gemeinsam in einer einzigen Warenposition
+in einem Bezugszeitraum angemeldet werden, wenn
 
 1.  bei Anmeldungen zu Eingängen die Warennummer, das
     Bestimmungsbundesland, das Ursprungsland, das Versendungsland, die Art
@@ -358,20 +358,24 @@ Warenposition in einem Bezugszeitraum angemeldet werden, wenn
 2.  bei Anmeldungen zu Versendungen die Warennummer, das
     Ursprungsbundesland, das Ursprungsland, das Bestimmungsland, die Art
     des Geschäfts, der Verkehrszweig und die Umsatzsteuer-
-    Identifikationsnummer des ausländischen Warenempfängers
+    Identifikationsnummer des Handelspartners im Bestimmungsland
     übereinstimmen.
 
 
 
 Zusammenstellungen nach § 30 bleiben von Satz 1 unberührt.
 
+(5) Fehlanzeigen nach § 9 Absatz 2 Nummer 2 des
+Außenhandelsstatistikgesetzes sind elektronisch abzugeben.
+
 
 ### § 8 Berichtigungen
 
 (1) Stellt der Auskunftspflichtige fest, dass Anmeldedaten bereits zum
 Zeitpunkt der Anmeldung fehlerhaft waren, und betrifft der Fehler das
-aktuelle oder das vorangegangene Kalenderjahr, so hat er diese
-Anmeldungen in folgenden Fällen zu berichtigen:
+aktuelle oder das vorangegangene Kalenderjahr, so hat er nach § 9
+Absatz 2 Nummer 3 des Außenhandelsstatistikgesetzes diese Anmeldungen
+in folgenden Fällen zu berichtigen:
 
 1.  Angaben zum Rechnungsbetrag in der Intrahandelsstatistik und zum
     Statistischen Wert müssen nur berichtigt werden, wenn sich der
@@ -395,10 +399,12 @@ Anmeldungen in folgenden Fällen zu berichtigen:
 
 
 
-(2) Änderungen der meldepflichtigen Angaben, die erst nach Abgabe der
-Anmeldung eingetreten sind, wie spätere Vertragsänderungen oder zum
-Zeitpunkt der Anmeldung nicht absehbare Mengenrabatte am Jahresende,
-müssen nicht berichtigt werden. In den übrigen Fällen ist die
+(2) Ist im Zeitpunkt der Anmeldung dem Grunde nach bekannt, dass sich
+die anmeldepflichtigen Angaben nachträglich ändern können, müssen
+diese Angaben im Zeitpunkt der Änderung nach § 9 Absatz 2 Nummer 3 des
+Außenhandelsstatistikgesetzes berichtigt werden.
+
+(3) In anderen als in den Absätzen 1 und 2 genannten Fällen ist die
 Berichtigung freiwillig.
 
 
@@ -480,13 +486,16 @@ andere Maßeinheit für die Menge mehr angegeben werden.
 ### § 11 Rechnungsbetrag
 
 (1) „Rechnungsbetrag“ ist das in Rechnung gestellte Entgelt in vollen
-Euro pro anmeldepflichtiger Ware ohne Mehrwertsteuer. Er entspricht
-der umsatzsteuerrechtlichen Bemessungsgrundlage. Sind gewährte Skonti
-oder Rabatte, Transport- und Versicherungskosten und Abgaben sowie vor
-dem Eingang in das Erhebungsgebiet entrichtete Zölle Teil des
+Euro pro anmeldepflichtiger Ware ohne Umsatzsteuer. Er entspricht der
+umsatzsteuerrechtlichen Bemessungsgrundlage. Sind gewährte Skonti oder
+Rabatte, Transport- und Versicherungskosten und Abgaben sowie vor dem
+Eingang in das Erhebungsgebiet entrichtete Zölle Teil des
 Rechnungsbetrags, so müssen sie anteilig auf die anmeldepflichtigen
-Waren pro Warenposition aufgeteilt werden. Bei Teilzahlungen ist der
-Rechnungsbetrag die Summe aller Teilzahlungen.
+Waren pro Warenposition aufgeteilt werden. Werden sowohl Waren als
+auch vor Ort erbrachte Dienstleistungen in Rechnung gestellt, ist nur
+der Wert der grenzüberschreitend gelieferten Waren zu berücksichtigen.
+Sind für eine importierte oder exportierte Ware Teilzahlungen
+vereinbart, ist der Rechnungsbetrag die Summe aller Teilzahlungen.
 
 (2) Der Umrechnungskurs für Rechnungsbeträge, die nicht in Euro
 gestellt werden, ist
@@ -532,8 +541,10 @@ Bewertungsgrundsätze des Zollwertrechts nach der Verordnung (EU) Nr.
 auch beim Export einer Ware entsprechende Anwendung. Der Statistische
 Wert ist in vollen Euro anzugeben. Wird der Statistische Wert auf
 Grundlage von Rechnungen in anderen Währungen als dem Euro gebildet,
-so ist der Umrechnungskurs nach § 11 Absatz 2 zu wählen. Bei
-Teilzahlungen ist der Rechnungsbetrag die Summe aller Teilzahlungen.
+so ist der Umrechnungskurs nach § 11 Absatz 2 zu wählen. Sind für eine
+importierte oder exportierte Ware Teilzahlungen vereinbart, ist der
+Statistische Wert auf Grundlage der Summe aller Teilzahlungen zu
+ermitteln und anzugeben.
 
 (2) In den Statistischen Wert sind für folgende Waren auch alle
 Beförderungskosten, beispielsweise Transport- und Versicherungskosten,
@@ -571,10 +582,9 @@ Rechnungspreis. Dies gilt unabhängig davon, ob die in Satz 2 genannten
 Kosten tatsächlich entstehen und wer sie trägt. Gewährte Skonti und
 Rabatte sowie Zölle, die vor dem Grenzübertritt in das Erhebungsgebiet
 erhoben wurden, sind in den Statistischen Wert einzubeziehen, nicht
-jedoch die Mehrwertsteuer und Verbrauchssteuern, die im
-Erhebungsgebiet anfallen. Gemeinsame Kosten unterschiedlicher
-Warenpositionen einer Sendung sind auf die einzelnen Warenpositionen
-aufzuteilen.
+jedoch die Umsatzsteuer und Verbrauchssteuern, die im Erhebungsgebiet
+anfallen. Gemeinsame Kosten unterschiedlicher Warenpositionen einer
+Sendung sind auf die einzelnen Warenpositionen aufzuteilen.
 
 (4) Beim Export ist der maßgebliche Rechnungspreis für die Ermittlung
 des Statistischen Wertes der Rechnungspreis einer Warentransaktion
@@ -672,8 +682,7 @@ Herstellungsstufe darstellt.
 
 (3) In der Extrahandelsstatistik ist als Ursprungsland das
 nichtpräferentielle Ursprungsland der Ware nach Artikel 60 der
-Verordnung (EU) Nr. 952/2013 anzugeben. In der Extrahandelsstatistik
-ist das Ursprungsland nur bei der Einfuhranmeldung anzugeben.
+Verordnung (EU) Nr. 952/2013 anzugeben.
 
 (4) Das Ursprungsland ist mit den Bezeichnungen und Schlüsselnummern
 des Länderverzeichnisses für die Außenhandelsstatistik nach Anhang 1
@@ -681,8 +690,8 @@ der Durchführungsverordnung (EU) 2020/1470 der Kommission vom 12.
 Oktober 2020 über das Verzeichnis der Länder und Gebiete für die
 europäischen Statistiken über den internationalen Warenverkehr und die
 geografische Aufgliederung für sonstige Unternehmensstatistiken (ABl.
-L 334 vom 13.10.2020, S. 2) in der jeweils geltenden Fassung zu
-benennen.
+L 334 vom 13.10.2020, S. 2) in der jeweils geltenden Fassung, mit
+Ausnahme des Teils „Verschiedenes“, zu benennen.
 
 
 ### § 15 Versendungsland
@@ -768,8 +777,8 @@ hinzuzufügen, bei der ersten Teilsendung auch der voraussichtliche
 Gesamtrechnungswert der Ware und, sofern bekannt, das voraussichtliche
 Gesamtgewicht.
 
-(3) In der Anmeldung zur Intrahandelsstatistik können Teilsendungen
-zusammengefasst bei Lieferung der letzten Teilsendung gemeldet werden.
+(3) In der Anmeldung zur Intrahandelsstatistik sind Teilsendungen
+zusammengefasst bei Lieferung der letzten Teilsendung zu melden.
 
 
 ## Abschnitt 3 - Besondere Waren und Warenbewegungen
@@ -797,7 +806,9 @@ zusammengefasst bei Lieferung der letzten Teilsendung gemeldet werden.
 4.  „Wirtschaftliches Eigentum“ an den Waren nach den Nummern 1 bis 3 das
     Recht einer Person, die Vorteile aus der wirtschaftlichen Nutzung
     eines Schiffs, Luft- oder Raumfahrzeugs im Gegenzug zur Übernahme der
-    damit verbundenen Risiken zu beanspruchen.
+    damit verbundenen Risiken zu beanspruchen; der wirtschaftliche
+    Eigentümer eines Vermögenswertes ist nicht zwangsläufig auch der
+    rechtliche Eigentümer.
 
 
 
@@ -806,11 +817,14 @@ zusammengefasst bei Lieferung der letzten Teilsendung gemeldet werden.
 erfasst als
 
 1.  Import, falls das wirtschaftliche Eigentum von einer nicht
-    gebietsansässigen Person an eine gebietsansässige Person wechselt,
+    gebietsansässigen Person an eine gebietsansässige Person wechselt;
+    dazu zählen auch Eigentumsübergänge zum Zwecke des Zerlegens und
+    Verschrottens,
 
 
 2.  Export, falls das wirtschaftliche Eigentum von einer gebietsansässigen
-    Person an eine nicht gebietsansässige Person wechselt.
+    Person an eine nicht gebietsansässige Person wechselt; dazu zählen
+    auch Eigentumsübergänge zum Zwecke des Zerlegens und Verschrottens.
 
 
 
@@ -851,7 +865,8 @@ Start, einschließlich Warenverkehre zu oder nach Veredelungen von
 Raumfahrzeugen sind nach den Bestimmungen von § 6 und gegebenenfalls
 § 4 von der gebietsansässigen Person nach Absatz 3 anzumelden.
 
-(6) Für die Anmeldung der Warenverkehre nach Absatz 2 gilt Folgendes:
+(6) Für die Anmeldung der Warenverkehre nach Absatz 2 und 4 gilt
+Folgendes:
 
 1.  Als Ursprungsland gilt das Land, in dem die Person ansässig ist, die
     das wirtschaftliche Eigentum an dem Schiff, Luft- oder Raumfahrzeug
@@ -877,7 +892,7 @@ Raumfahrzeugen sind nach den Bestimmungen von § 6 und gegebenenfalls
     beziehungsweise Bestimmungsland, in dem die Bearbeitung erfolgt,
 
 
-6.  Berichtszeitraum ist der Monat des Übergangs des wirtschaftlichen
+6.  Bezugszeitraum ist der Monat des Übergangs des wirtschaftlichen
     Eigentums,
 
 
@@ -971,8 +986,14 @@ diese Waren zum Weiterverkauf an Reisende und nicht zum Verbrauch an
 Bord nach Absatz 1 bestimmt sind. Als Partnerland gilt für diese
 Warenverkehre das Land, in dem der Verkäufer ansässig ist.
 
+(8) Die Vereinfachungen nach den Absätzen 4 und 5 gelten ebenfalls
+nicht für die Lieferung von anderen Waren als die in Absatz 1
+genannten an Bord eines Schiffes oder Luftfahrzeuges, die dort
+verbleiben. Als Partnerland für diese Warenverkehre gilt das Land nach
+Absatz 2.
 
-### § 22 Waren für und von Einrichtungen auf hoher See
+
+### § 22 Waren an und von Einrichtungen auf hoher See
 
 (1) Im Sinne dieser Verordnung sind
 
@@ -1062,11 +1083,9 @@ Menge der Ware ist für Waren des Kapitels 27 des Warenverzeichnisses
 verpflichtend. Für alle anderen Waren, die an Einrichtungen auf hoher
 See geliefert werden, ist die Anmeldung der Menge der Ware freiwillig.
 
-(5) Für die Angabe des Partnerlandes der Warenverkehre nach Absatz 2
-sind folgende vereinfachte Codes nach § 18 Nummer 9 des
-Außenhandelsstatistikgesetzes in Verbindung mit Anhang 5 Abschnitt 23
-Nummer 3 c der Durchführungsverordnung (EU) 2020/1197 der Kommission
-zu verwenden:
+(5) Für Warenlieferungen an Einrichtungen auf hoher See sind folgende
+vereinfachte Ländercodes für die Angabe des Partnerlandes zu
+verwenden:
 
 1.  der Code QV für andere Mitgliedstaaten der Europäischen Union,
 
@@ -1176,11 +1195,11 @@ Außenhandelsstatistikgesetzes zu verwenden:
 
 
 
-### § 26 Abfallprodukte
+### § 26 Warenverkehre mit Abfällen
 
-(1) Abfälle ohne Wert sind Waren, bei denen der Eigentümer für die
-Entsorgung eine Gebühr zahlt. Die grenzüberschreitenden Warenverkehre
-mit Abfällen ohne Wert sind wie folgt anzumelden:
+(1) Abfälle ohne Wert sind Abfälle, bei denen der Eigentümer für die
+Lieferung der Abfälle kein Entgelt erhält. Die grenzüberschreitenden
+Warenverkehre mit Abfällen ohne Wert sind wie folgt anzumelden:
 
 1.  mit Angaben zu allen in den §§ 7 und 8 des
     Außenhandelsstatistikgesetzes genannten Merkmalen,
@@ -1193,15 +1212,14 @@ mit Abfällen ohne Wert sind wie folgt anzumelden:
     Durchführungsverordnung (EU) 2020/1197 der Kommission und
 
 
-4.  mit einem Statistischen Wert von einem Euro.
+4.  abweichend von § 12 mit einem Statistischen Wert von einem Euro.
 
 
 
 
-(2) Grenzüberschreitende Warenverkehre mit Abfällen, die einen
-materiellen Wert größer null besitzen, für die der Eigentümer keine
-Gebühr für die Entsorgung zahlt und die im Rahmen eines Kauf- oder
-Veredelungsgeschäfts geliefert werden, sind nach den allgemeinen
+(2) Abfälle mit Wert sind Abfälle, bei denen der Eigentümer für die
+Lieferung der Abfälle ein Entgelt erhält oder die im Rahmen eines
+Veredelungsgeschäfts geliefert werden. Diese sind nach den allgemeinen
 Vorschriften anzumelden.
 
 
@@ -1304,9 +1322,9 @@ diese widerrechtlich verwendet wurden.
 
 
 
-(2) Vollständige Fabrikationsanlagen und ihre Komponenten können mit
-einer genehmigungspflichtigen Sammelwarennummer des Kapitels 98
-vereinfacht angemeldet werden.
+(2) Die Komponenten einer vollständigen Fabrikationsanlage können mit
+genehmigungspflichtigen Sammelwarennummern des Kapitels 98 vereinfacht
+angemeldet werden.
 
 (3) Bei Lieferungen von vollständigen Fabrikationsanlagen kann sich
 die Anmeldung im Warenverkehr zwischen Mitgliedstaaten und bei der
@@ -1385,8 +1403,12 @@ Ergebnisse der Außenhandelsstatistik zu gewährleisten, wird die
 vereinfachte Anmeldung unter Verwendung von Sammelwarennummern nur
 auskunftspflichtigen Personen genehmigt, deren Warenverkehre im
 vorangegangenen Kalenderjahr pro Verkehrsrichtung nach § 2 Absatz 11
-und 16 des Außenhandelsstatistikgesetzes den Statistischen Wert von 3
-Millionen Euro nicht überschritten haben.
+und 16 des Außenhandelsstatistikgesetzes den vom Statistischen
+Bundesamt als Vereinfachungsschwelle festgelegten Statistischen Wert
+nicht überschritten haben, der mindestens 3 Millionen Euro beträgt.
+Das Statistische Bundesamt legt den Statistischen Wert für die
+Vereinfachungsschwelle am Ende eines Kalenderjahres für das kommende
+Kalenderjahr fest.
 
 (3) Die vereinfachte Anmeldung unter Verwendung einer
 Sammelwarennummer kann auf Antrag des Auskunftspflichtigen für
@@ -1400,26 +1422,24 @@ folgende Zusammenstellungen genehmigt werden:
     enthalten,
 
 
-2.  Zusammenstellungen von geringwertigen Waren der Kapitel 01 bis 83, 91
-    und 92 sowie 94 bis 97 des Warenverzeichnisses, wobei der Statistische
-    Wert jeder einzelnen Ware einer solchen Zusammenstellung 500 Euro
-    nicht überschreiten darf; bei Zusammenstellungen aus den Kapiteln 01
-    bis 24 darf der Statistische Wert jeder einzelnen Ware 200 Euro nicht
+2.  Zusammenstellungen von geringwertigen Waren mit Ausnahme der Kapitel
+    87, 88 und 93 des Warenverzeichnisses, wobei der Statistische Wert
+    jeder einzelnen Ware einer solchen Zusammenstellung 1 000 Euro nicht
+    überschreiten darf; bei Zusammenstellungen aus den Kapiteln 01 bis 24
+    darf der Statistische Wert jeder einzelnen Ware 400 Euro nicht
     überschreiten; das Gewicht jeder einzelnen Ware darf bei jeder
     Zusammenstellung 1 000 Kilogramm nicht überschreiten,
 
 
 3.  Warenlieferungen von Retouren, Restposten, Konkurswaren und
-    gebrauchten Waren der Kapitel 01 bis 83, 91 und 92 sowie 94 bis 97 des
+    gebrauchten Waren mit Ausnahme der Kapitel 87, 88 und 93 des
     Warenverzeichnisses; wobei der Statistische Wert einer Sendung 50 000
     Euro nicht überschreiten darf; eine Sendung ist in diesem Zusammenhang
     die Gesamtheit der Waren, die an einem Tag an einen Empfänger
     geschickt werden,
 
 
-4.  Zusammenstellungen von Kleinwaren aus unedlen Metallen sowie von
-    Schreib- und Zeichenmitteln; der Statistische Wert jeder einzelnen
-    Ware darf hierbei 500 Euro nicht überschreiten.
+4.  (weggefallen)
 
 
 
@@ -1443,7 +1463,7 @@ Warenverzeichnisses ohne den Hauptgegenstand in einer Sendung
 exportiert oder importiert, sind folgende Vereinfachungen bei der
 statistischen Anmeldung zulässig:
 
-1.  Beträgt der gesamte Statistische Wert der Sendung nicht mehr als 2 500
+1.  Beträgt der gesamte Statistische Wert der Sendung nicht mehr als 5 000
     Euro, können sie mit den auf die Maschinen, Apparate, Geräte,
     Beförderungsmittel und Instrumente, zu deren Ausrüstung sie
     üblicherweise gehören, zutreffenden Warennummern des
@@ -1455,14 +1475,14 @@ statistischen Anmeldung zulässig:
     Position 9033 des Warenverzeichnisses zugeordnet werden,
 
 
-2.  beträgt der gesamte Statistische Wert der Sendung mehr als 2 500 Euro,
+2.  beträgt der gesamte Statistische Wert der Sendung mehr als 5 000 Euro,
     so sind die Teile und das Zubehör mit den auf sie zutreffenden
     Warennummern des Warenverzeichnisses anzumelden; Teile und Zubehör bis
-    zu einem Statistischen Wert von einschließlich 1 000 Euro je Teil oder
-    Zubehör, das jeweils einzeln durch verschiedene Warennummern der
-    genannten Kapitel des Warenverzeichnisses beschrieben wird, dürfen
-    jedoch der Warennummer mit dem höchsten Statistischen Wert zugerechnet
-    werden.
+    zu einem Statistischen Wert von einschließlich 2 000 Euro je Teil oder
+    Zubehör, die jeweils einzeln in verschiedenen Warennummern der
+    genannten Kapitel des Warenverzeichnisses einzureihen sind, dürfen
+    jedoch mit der Warennummer der Warenposition mit dem höchsten
+    Statistischen Wert angemeldet werden.
 
 
 
@@ -1470,41 +1490,43 @@ statistischen Anmeldung zulässig:
 
 ### § 32 Befreiungen
 
-(1) Die Anmeldeschwellen nach § 14 Absatz 2 und 3 des
-Außenhandelsstatistikgesetzes werden jeweils bezogen auf den Wert der
-Warenverkehre des vorangegangenen Kalenderjahres festgelegt. Die
-Anmeldeschwelle im Eingang wird auf 800 000 Euro festgelegt. Die
-Anmeldeschwelle in der Versendung wird auf 500 000 Euro festgelegt.
+(1) Die Anmeldeschwelle im Eingang nach § 14 Absatz 3 des
+Außenhandelsstatistikgesetzes wird auf 3 Millionen Euro festgelegt.
+Die Anmeldeschwelle in der Versendung nach § 14 Absatz 2 des
+Außenhandelsstatistikgesetzes wird auf 1 Million Euro festgelegt.
 
-(2) Bei Kaufgeschäften einschließlich Kommissions- und
-Konsignationsgeschäften im Rahmen von innergemeinschaftlichen
+(2) Bei Kaufgeschäften einschließlich Kommissions- , Konsignations-
+und Lagergeschäften im Rahmen von innergemeinschaftlichen
 Warenverkehren ist der Statistische Wert von den Anmeldepflichtigen
 nur anzugeben, wenn dieser für alle derartigen Warenverkehre des
 Anmeldepflichtigen in einem Jahr je Verkehrsrichtung den nach Absatz 4
 festgelegten Schwellenwert überschreitet.
 
 (3) Um zu ermitteln, wer verpflichtet ist, über den Statistischen Wert
-bei Kauf- oder Verkaufsgeschäften einschließlich Kommissions- und
-Konsignationsgeschäften Auskunft zu geben, wird jährlich ein
-Schwellenwert für den Wareneingang und ein Schwellenwert für die
-Warenversendung festgelegt. Auskunftspflichtige zur
-Intrahandelsstatistik, deren Kauf- oder Verkaufsgeschäfte
-einschließlich Kommissions- und Konsignationsgeschäften den jeweiligen
-Schwellenwert übersteigen, müssen im kommenden Kalenderjahr bei den
-entsprechenden Geschäften den Statistischen Wert angeben.
+bei Kaufgeschäften einschließlich Kommissions-, Konsignations- und
+Lagergeschäften sowie Ansichts- und Probesendungen Auskunft zu geben,
+wird jährlich ein Schwellenwert für den Wareneingang und ein
+Schwellenwert für die Warenversendung festgelegt. Auskunftspflichtige
+zur Intrahandelsstatistik, deren Kaufgeschäfte einschließlich
+Kommissions-, Konsignations- und Lagergeschäften sowie Ansichts- und
+Probesendungen den jeweiligen Schwellenwert übersteigen, müssen im
+kommenden Kalenderjahr bei den entsprechenden Geschäften den
+Statistischen Wert angeben.
 
 (4) Für die Schwellenwerte gilt:
 
 1.  der Schwellenwert für den Wareneingang ist so festzulegen, dass nicht
     mehr als 70 Prozent des in Wertangaben erfassten Handels aller
-    Kaufgeschäfte einschließlich Kommissions- und Konsignationsgeschäften
-    des vorangegangenen Kalenderjahres abgedeckt werden,
+    Kaufgeschäfte einschließlich Kommissions- , Konsignations- und
+    Lagergeschäften sowie Ansichts- und Probesendungen des vorangegangenen
+    Kalenderjahres abgedeckt werden,
 
 
 2.  der Schwellenwert für die Warenversendung ist so festzulegen, dass
     nicht mehr als 70 Prozent des in Wertangaben erfassten Handels aller
-    Kaufgeschäfte einschließlich Kommissions- und Konsignationsgeschäften
-    des vorangegangenen Kalenderjahres abgedeckt werden.
+    Kaufgeschäfte einschließlich Kommissions- , Konsignations- und
+    Lagergeschäften sowie Ansichts- und Probesendungen des vorangegangenen
+    Kalenderjahres abgedeckt werden.
 
 
 
@@ -1548,24 +1570,26 @@ Diese Verordnung tritt am 1. Januar 2022 in Kraft.
 Der Bundesrat hat zugestimmt.
 
 
-### Anlage 1 Kapitel 99 des Warenverzeichnisses Vereinfachte Anmeldungen und Sammelanmeldungen
+### Anlage 1 Kapitel 99 des Warenverzeichnisses Zusammenstellung verschiedener Waren und besondere Warenbewegungen
 
-(Fundstelle: BGBl. I 2021, 2592 - 2593)
+(Fundstelle: BGBl. I 2021, 2592 - 2593;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 ## Vorbemerkungen
 
 Die Warennummern dieses Kapitels dienen der statistischen Erfassung
-des Außenhandels von Warenzusammenstellungen, die in den Kapiteln 01
-bis 98 des Warenverzeichnisses nicht erfasst sind. Zum Teil dürfen die
+des Außenhandels von Zusammenstellungen verschiedener Waren und
+besonderer Warenbewegungen, die in den Kapiteln 01 bis 98 des
+Warenverzeichnisses nicht erfasst sind. Zum Teil dürfen die
 Warennummern bei der Anmeldung nur mit besonderer Genehmigung des
 Statistischen Bundesamtes benutzt werden; im Übrigen sind die
 jeweiligen Hinweise zu beachten. Diese Warennummern kommen nicht in
 Betracht, wenn aufgrund anderer Rechtsvorschriften eine detaillierte
 Einreihung der Einzelwaren in die Kombinierte Nomenklatur erforderlich
-ist; beispielsweise sind sie für genehmigungspflichtige Waren nicht
-zulässig, selbst wenn ihrer statistischen Verwendung nichts im Wege
-steht.
+ist; beispielsweise sind sie für außenwirtschaftsrechtlich
+genehmigungspflichtige Waren nicht zulässig, selbst wenn ihrer
+statistischen Verwendung nichts im Wege steht.
 
 
 
@@ -1845,17 +1869,6 @@ steht.
     *   9990 88 09
 
 
-*    *   **Zusammenstellungen (Sortimente) von Kleinwaren aus unedlen
-        Metallen**
-
-    *   9990 99 23
-
-
-*    *   **Zusammenstellungen (Sortimente) von Schreib‑ und Zeichenmitteln**
-
-    *   9990 99 24
-
-
 *    *   **Andere Zusammenstellungen (Sortimente) nach § 30**
 
     *   9990 99 25
@@ -1906,7 +1919,8 @@ und weitere von der Anmeldung befreite Warenverkehre.
 
 ### Anlage 4 Befreiungsliste
 
-(Fundstelle: BGBl. I 2021, 2596 - 2597)
+(Fundstelle: BGBl. I 2021, 2596 - 2597;
+bzgl. der einzelnen Änderungen vgl. Fußnote))
 
 
 Von der Anmeldung zur Außenhandelsstatistik sind folgende Waren und
@@ -1942,7 +1956,9 @@ Warenverkehre befreit:
 
 *    *
     *   – die Versendung/der Eingang ist nicht als Lieferung/Erwerb für
-        Umsatzsteuerzwecke zu erfassen;
+        Umsatzsteuerzwecke zu erfassen bzw. im Falle einer Einfuhr/Ausfuhr hat
+        weder eine Eigentumsübertragung stattgefunden noch ist eine
+        Eigentumsübertragung geplant;
 
 
 *    *   d)
@@ -1994,7 +2010,7 @@ Warenverkehre befreit:
 
 *    *   f)
 
-    *[^F816870_01_BJNR258000021BJNE004100000]
+    *[^F816870_01_BJNR258000021BJNE004101128]
    Waren, die als Datenträger von individualisierten Informationen
         verwendet werden, einschließlich Software und Filme
         ;
@@ -2136,4 +2152,4 @@ Warenverkehre befreit:
     Individualisierte Informationen sind im Auftrag eines bestimmten
     Kunden erstellte Informationen, die nur für diesen bestimmt und nur
     von ihm zu verwenden sind.
-[^F816870_01_BJNR258000021BJNE004100000]: 
+[^F816870_01_BJNR258000021BJNE004101128]: 

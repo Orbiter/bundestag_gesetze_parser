@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2009, 1715
 
 Zuletzt geändert durch
-:   Art. 1 V v. 22.7.2015 I 1408
+:   Art. 2 V v. 30.10.2024 I Nr. 342
 
 
 ## Abschnitt 1 - Begriffsbestimmungen, Nachweise zur Rückverfolgbarkeit
@@ -133,7 +133,7 @@ auszuloben.
 
 ### § 10 Ordnungswidrigkeiten
 
-Ordnungswidrig im Sinne des § 11 Absatz 2 Nummer 3 des
+Ordnungswidrig im Sinne des § 11 Absatz 1 Nummer 3 des
 Rindfleischetikettierungsgesetzes handelt, wer vorsätzlich oder
 fahrlässig
 

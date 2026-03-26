@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2018, 1222
 
+Geändert durch
+:   Art. 1 V v. 25.02.2025 I Nr. 61
+
 Diese Verordnung dient der Umsetzung der Richtlinie (EU) 2016/2284 des
 Europäischen Parlaments und des Rates vom 14. Dezember 2016 über die
 Reduktion der nationalen Emissionen bestimmter Luftschadstoffe, zur
@@ -880,7 +883,8 @@ Das Umweltbundesamt veröffentlicht auf seiner Internetseite Folgendes:
 
 ## Anlage 1 Überwachung von und Berichterstattung über Emissionen
 
-(Fundstelle: BGBl. I 2018, 1228 - 1229)
+(Fundstelle: BGBl. I 2018, 1228 - 1229;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 ## **Tabelle A**
 
@@ -900,9 +904,9 @@ Das Umweltbundesamt veröffentlicht auf seiner Internetseite Folgendes:
 
 *    *   Nationale Gesamt-
         emissionen nach
-[^F803352_11_BJNR122210018BJNE002100000]
+[^F803352_11_BJNR122210018BJNE002101130]
         Quellkategorien
-[^F803352_12_BJNR122210018BJNE002100000]
+[^F803352_12_BJNR122210018BJNE002101130]
         gemäß NFR
 
     *   –
@@ -910,7 +914,7 @@ Das Umweltbundesamt veröffentlicht auf seiner Internetseite Folgendes:
     *   SO
         2                     , NO
         x                     , NMVOC, NH
-[^F803352_13_BJNR122210018BJNE002100000]
+[^F803352_13_BJNR122210018BJNE002101130]
         3                     , CO
 
     *   Jährlich
@@ -918,28 +922,28 @@ Das Umweltbundesamt veröffentlicht auf seiner Internetseite Folgendes:
         bis zum Berichtsjahr
         minus 2 (X-2)
 
-    *[^F803352_20_BJNR122210018BJNE002100000]
+    *[^F803352_20_BJNR122210018BJNE002101130]
    15. Februar
 
 
 *    *   –
 
-    *[^F803352_14_BJNR122210018BJNE002100000]
+    *[^F803352_14_BJNR122210018BJNE002101130]
    Schwermetalle (Cd, Hg, Pb)
 
 
 *    *   –
 
-    *[^F803352_15_BJNR122210018BJNE002100000]
+    *[^F803352_15_BJNR122210018BJNE002101130]
    POP
-[^F803352_16_BJNR122210018BJNE002100000]
+[^F803352_16_BJNR122210018BJNE002101130]
         (PAK
         , Benzo[a]pyren,
         Benzo(b)fluoranthen, Benzo(k)fluoranthen, Indeno(1, 2, 3-cd)pyren,
         Dioxine/Furane,
-[^F803352_17_BJNR122210018BJNE002100000]
+[^F803352_17_BJNR122210018BJNE002101130]
         PCB
-[^F803352_18_BJNR122210018BJNE002100000]
+[^F803352_18_BJNR122210018BJNE002101130]
         , HCB
         insgesamt)
 
@@ -953,7 +957,7 @@ Das Umweltbundesamt veröffentlicht auf seiner Internetseite Folgendes:
 
     *   PM
         2,5                     , PM
-[^F803352_19_BJNR122210018BJNE002100000]
+[^F803352_19_BJNR122210018BJNE002101130]
         10
         und falls verfügbar Ruß
 
@@ -1002,7 +1006,7 @@ Das Umweltbundesamt veröffentlicht auf seiner Internetseite Folgendes:
         minus 2 (X-2)
         ab dem Jahr 2017
 
-    *[^F803352_21_BJNR122210018BJNE002100000]
+    *[^F803352_21_BJNR122210018BJNE002101130]
    1. Mai
 
 
@@ -1058,9 +1062,8 @@ Das Umweltbundesamt veröffentlicht auf seiner Internetseite Folgendes:
     *   Ruß (falls verfügbar)
 
 
-*    *   Emissionsprognose
-        nach aggregierten
-        NFR-Sektoren
+*    *   Emissionsprognose nach Quellkategorien gemäß der Nomenklatur für die
+        Berichterstattung (NFR)
 
     *   –
 
@@ -1140,28 +1143,29 @@ Das Umweltbundesamt veröffentlicht auf seiner Internetseite Folgendes:
     Stand von Wissenschaft und Technik festgelegt sind. Sie werden nicht
     in die nationalen Gesamtmengen eingerechnet, sondern gesondert
     gemeldet.
-[^F803352_11_BJNR122210018BJNE002100000]:     NFR: Nomenklatur für die Berichterstattung gemäß dem Übereinkommen von
+[^F803352_11_BJNR122210018BJNE002101130]:     NFR: Nomenklatur für die Berichterstattung gemäß dem Übereinkommen von
     1979 über weiträumige grenzüberschreitende Luftverunreinigung.
-[^F803352_12_BJNR122210018BJNE002100000]:     CO (Kohlenmonoxid).
-[^F803352_13_BJNR122210018BJNE002100000]:     Cd (Kadmium), Hg (Quecksilber), Pb (Blei).
-[^F803352_14_BJNR122210018BJNE002100000]:     POP (persistente organische Schadstoffe).
-[^F803352_15_BJNR122210018BJNE002100000]:     PAK (polyzyklische aromatische Kohlenwasserstoffe).
-[^F803352_16_BJNR122210018BJNE002100000]:     PCB (polychlorierte Biphenyle).
-[^F803352_17_BJNR122210018BJNE002100000]:     HCB (Hexachlorbenzol).
-[^F803352_18_BJNR122210018BJNE002100000]: [^F803352_19_BJNR122210018BJNE002100000]:     „PM             10             “ sind Partikel mit einem
+[^F803352_12_BJNR122210018BJNE002101130]:     CO (Kohlenmonoxid).
+[^F803352_13_BJNR122210018BJNE002101130]:     Cd (Kadmium), Hg (Quecksilber), Pb (Blei).
+[^F803352_14_BJNR122210018BJNE002101130]:     POP (persistente organische Schadstoffe).
+[^F803352_15_BJNR122210018BJNE002101130]:     PAK (polyzyklische aromatische Kohlenwasserstoffe).
+[^F803352_16_BJNR122210018BJNE002101130]:     PCB (polychlorierte Biphenyle).
+[^F803352_17_BJNR122210018BJNE002101130]:     HCB (Hexachlorbenzol).
+[^F803352_18_BJNR122210018BJNE002101130]: [^F803352_19_BJNR122210018BJNE002101130]:     „PM             10             “ sind Partikel mit einem
     aerodynamischen Durchmesser von höchstens 10 Mikrometern (μm).
     Enthält ein Bericht Fehler, so ist er spätestens vier Wochen nach
     Identifikation des Fehlers oder der Fehler mit einer genauen
     Erläuterung der vorgenommenen Änderungen erneut einzureichen.
-[^F803352_20_BJNR122210018BJNE002100000]:     Enthält ein Bericht Fehler, so ist er innerhalb von vier Wochen nach
+[^F803352_20_BJNR122210018BJNE002101130]:     Enthält ein Bericht Fehler, so ist er innerhalb von vier Wochen nach
     der Identifikation des Fehlers oder der Fehler mit einer genauen
     Erläuterung der vorgenommenen Änderungen erneut einzureichen.
-[^F803352_21_BJNR122210018BJNE002100000]: 
+[^F803352_21_BJNR122210018BJNE002101130]: 
 (zu § 7 Absatz 3 und § 8 Absatz 1)
 
 ## Anlage 2 Methoden für die Erstellung und Aktualisierung des nationalen Emissionsinventars und der nationalen Emissionsprognose
 
-(Fundstelle: BGBl. I 2018, 1230)
+(Fundstelle: BGBl. I 2018, 1230;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 **I.** **Nationales Emissionsinventar**
@@ -1193,8 +1197,11 @@ Das Umweltbundesamt veröffentlicht auf seiner Internetseite Folgendes:
 
 **II.** **Nationale Emissionsprognose**
 
-    Die nationale Emissionsprognose wird für die relevanten
-    Quellensektoren geschätzt und aggregiert. Das Umweltbundesamt
+    Die nationale Emissionsprognose wird nach Quellkategorien gemäß NFR
+    geschätzt und gemeldet. Falls dies auf Grund des Fehlens hinreichend
+    detaillierter Daten nicht möglich ist, ist in den informativen
+    Inventarbericht eine Begründung für die Berichterstattung auf einer
+    stärker aggregierten Ebene aufzunehmen. Das Umweltbundesamt
     übermittelt für jeden Schadstoff gemäß dem Stand von Wissenschaft und
     Technik die Prognose für ein Szenario mit bereits beschlossenen
     Maßnahmen und gegebenenfalls für ein Szenario mit geplanten Maßnahmen.

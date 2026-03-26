@@ -18,10 +18,7 @@ Fundstelle
 :   BGBl I: 2020, 2295
 
 Geändert durch
-:   Art. 3 V v. 7.6.2023 I Nr. 148
-
-Änderung durch
-:   Art. 8z6 G v. 12.12.2023 I Nr. 359 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 8z6 G v. 12.12.2023 I Nr. 359
 
 [^F813654_01_BJNR229510020]:     Diese Verordnung dient der Umsetzung der Richtlinie 2005/36/EG des
     Europäischen Parlaments und des Rates vom 7. September 2005 über die
@@ -3152,11 +3149,10 @@ Funktionsbereiche:
         gegebenenfalls freiwerdenden Stundenkontingente erhöhen entsprechend
         die Stunden zur freien Verteilung.
 
-    *
 
 
 
-   (zu § 1 Absatz 2 und § 3 Absatz 1 Satz 2 Nummer 2)
+(zu § 1 Absatz 2 und § 3 Absatz 1 Satz 2 Nummer 2)
 
 #### Anlage 3 Theoretischer und praktischer Unterricht in der Ausbildung zur Operationstechnischen Assistentin oder zum Operationstechnischen Assistenten
 
@@ -3743,16 +3739,13 @@ Funktionsbereiche:
     *   **2 500**
 
 
-*    *   **
-        \* Berufsspezifischer Orientierungseinsatz fakultativ. Die
-        gegebenenfalls freiwerdenden Stundenkontingente erhöhen entsprechend
-        die Stunden zur freien Verteilung.
 
-    *
+**
+\* Berufsspezifischer Orientierungseinsatz fakultativ. Die
+gegebenenfalls freiwerdenden Stundenkontingente erhöhen entsprechend
+die Stunden zur freien Verteilung.
 
-
-
-   (zu § 18 Absatz 2 Nummer 1 Buchstabe b)
+(zu § 18 Absatz 2 Nummer 1 Buchstabe b)
 
 #### Anlage 5 Bescheinigung über die Teilnahme am theoretischen und praktischen Unterricht und an der praktischen Ausbildung
 

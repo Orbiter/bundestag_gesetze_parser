@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1994, 1170, 1171
 
 Zuletzt geändert durch
-:   Art. 6 G v. 22.12.2020 I 3334
+:   Art. 52 G v. 23.10.2024 I Nr. 323
 
 
 ## Erster Abschnitt - Allgemeine Vorschriften
@@ -736,11 +736,14 @@ Kalendermonaten oder 24 Wochen nicht überschreiten.
 
 ### § 16 Aushang und Arbeitszeitnachweise
 
-(1) Der Arbeitgeber ist verpflichtet, einen Abdruck dieses Gesetzes,
-der auf Grund dieses Gesetzes erlassenen, für den Betrieb geltenden
+(1) Der Arbeitgeber ist verpflichtet, eine Kopie dieses Gesetzes, der
+auf Grund dieses Gesetzes erlassenen, für den Betrieb geltenden
 Rechtsverordnungen und der für den Betrieb geltenden Tarifverträge und
-Betriebs- oder Dienstvereinbarungen im Sinne des § 7 Abs. 1 bis 3, §§
-12 und 21a Abs. 6 an geeigneter Stelle im Betrieb zur Einsichtnahme
+Betriebs- oder Dienstvereinbarungen im Sinne des § 7 Absatz 1 bis 3
+und der §§ 12 und 21a Absatz 6 den Arbeitnehmern über die im Betrieb
+oder in der Dienststelle übliche Informations- und
+Kommunikationstechnik zur Verfügung zu stellen oder an geeigneter
+Stelle im Betrieb oder in der Dienststelle zur Einsichtnahme
 auszulegen oder auszuhängen.
 
 (2) Der Arbeitgeber ist verpflichtet, die über die werktägliche

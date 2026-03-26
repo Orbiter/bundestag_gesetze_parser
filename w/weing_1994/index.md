@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 18.1.2011 I 66;
 
 Zuletzt geändert durch
-:   Art. 1 G v. 24.10.2023 I Nr. 289
+:   Art. 2 G v. 11.1.2026 I Nr. 9
 
 
 ## 1. Abschnitt - Allgemeine Bestimmungen
@@ -291,8 +291,7 @@ diese Bezeichnung.
     gemeinsame Marktorganisation für landwirtschaftliche Erzeugnisse und
     zur Aufhebung der Verordnungen (EWG) Nr. 922/72, (EWG) Nr. 234/79,
     (EG) Nr. 1037/2001 und (EG) Nr. 1234/2007 (ABl. 347 vom 20.12.2013, S.
-    671), die zuletzt durch die Verordnung (EU) 2017/2393 (ABl. L 350 vom
-    29\.12.2017, S. 15) geändert worden ist,
+    671) in der jeweils geltenden Fassung,
 
 
 32. Geografische Angabe: geografische Angabe im Sinne des Artikels 93
@@ -301,14 +300,22 @@ diese Bezeichnung.
 
 33. Geschützte Ursprungsbezeichnung: Ursprungsbezeichnung, die nach den
     Bestimmungen des Teils II Titel II Kapitel I Abschnitt 2
-    Unterabschnitt 2 der Verordnung (EU) Nr. 1308/2013 in der Europäischen
-    Union geschützt worden ist,
+    Unterabschnitt 2 der Verordnung (EU) Nr. 1308/2013, auch in Verbindung
+    mit der Verordnung (EU) 2024/1143 des Europäischen Parlaments und des
+    Rates vom 11. April 2024 über geografische Angaben für Wein,
+    Spirituosen und landwirtschaftliche Erzeugnisse und über garantiert
+    traditionelle Spezialitäten und fakultative Qualitätsangaben für
+    landwirtschaftliche Erzeugnisse sowie zur Änderung der Verordnungen
+    (EU) Nr. 1308/2013, (EU) 2019/787 und (EU) 2019/1753 und zur Aufhebung
+    der Verordnung (EU) Nr. 1151/2012 (ABl. L, 2024/1143, 23.4.2024), in
+    der Europäischen Union geschützt worden ist,
 
 
 34. Geschützte geografische Angabe: geografische Angabe, die nach den
     Bestimmungen des Teils II Titel II Kapitel I Abschnitt 2
-    Unterabschnitt 2 der Verordnung (EU) Nr. 1308/2013 in der Europäischen
-    Union geschützt worden ist,
+    Unterabschnitt 2 der Verordnung (EU) Nr. 1308/2013 auch in Verbindung
+    mit der Verordnung (EU) 2024/1143, in der Europäischen Union geschützt
+    worden ist,
 
 
 35. Klassifizierbare Keltertraubensorte: eine Keltertraubensorte, die die
@@ -540,7 +547,7 @@ Sekt b.A. geeignet.
 
 (1) Die zuständige Landesbehörde erteilt einem Erzeuger, der eine
 Rebfläche gerodet hat, auf Antrag eine Genehmigung zur
-Wiederbepflanzung. Anträge nach Satz 1 können bis zum Ende des zweiten
+Wiederbepflanzung. Anträge nach Satz 1 können bis zum Ende des fünften
 auf die Rodung folgenden Weinwirtschaftsjahres gestellt werden.
 
 (2) Die Landesregierungen können durch Rechtsverordnung vorsehen, dass
@@ -760,6 +767,39 @@ Rodung vorgenommen worden ist, innerhalb der in Artikel 62 Absatz 3
 Unterabsatz 2 Satz 1 der Verordnung (EU) Nr. 1308/2013 genannten
 Gültigkeitsdauer in Anspruch zu nehmen.
 
+(1c) Die nach § 6 Absatz 1 oder § 7c Absatz 1 Satz 1 erteilten
+Genehmigungen, die in den Jahren 2024 oder 2025 auslaufen und in den
+in Anlage 1 genannten Regionen genutzt werden sollen, sind innerhalb
+der in Artikel 1 Absatz 1 der Delegierten Verordnung (EU) 2024/2159
+der Kommission vom 12. August 2024 über befristete außergewöhnliche
+Maßnahmen zur Abweichung von bestimmten Vorschriften der Verordnung
+(EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates
+betreffend das Genehmigungssystem für Rebpflanzungen zur Behebung der
+Marktstörungen auf dem Weinmarkt der Union (ABl. L, 2024/2159,
+13\.8.2024) festgelegten Gültigkeitsdauer in Anspruch zu nehmen. Die
+Festlegungen nach Anlage 1 gelten auch für die Zwecke des Artikel 1
+Absatz 2 der Delegierten Verordnung (EU) 2024/2159. Die Länder melden
+der Bundesanstalt für Landwirtschaft und Ernährung bis zum 28. Februar
+2025 die weiteren Informationen nach Artikel 2 Absatz 1 der
+Delegierten Verordnung (EU) 2024/2159.
+
+(1d) Die nach § 6 Absatz 1, § 6a Absatz 1 oder § 7c Absatz 1 Satz 1
+erteilten Genehmigungen, die im Jahre 2024 auslaufen und in den in
+Anlage 2 genannten Regionen genutzt werden sollen, sind innerhalb der
+in Artikel 1 Absatz 2 der Durchführungsverordnung (EU) 2024/2146 der
+Kommission vom 2. August 2024 über befristete Sofortmaßnahmen zur
+Abweichung von bestimmten Vorschriften der Verordnung (EU) Nr.
+1308/2013 des Europäischen Parlaments und des Rates und der
+Delegierten Verordnung (EU) 2017/891 der Kommission für das Jahr 2024
+zur Lösung spezifischer Probleme im Weinsektor sowie im Obst- und
+Gemüsesektor infolge widriger Wetterereignisse (ABl. L, 2024/2146,
+5\.8.2024) festgelegten Gültigkeitsdauer in Anspruch zu nehmen. Die
+Festlegungen nach Anlage 2 gelten auch für die Zwecke des Artikel 1
+Absatz 3 der Durchführungsverordnung (EU) 2024/2146. Die Länder melden
+der Bundesanstalt für Landwirtschaft und Ernährung bis zum 28. Februar
+2025 die weiteren Informationen nach Artikel 3 Absatz 1 der
+Durchführungsverordnung (EU) 2024/2146.
+
 (2) Die zuständigen Landesbehörden überprüfen auf der Grundlage der
 nach § 7c Absatz 1 Satz 5 übermittelten Bescheide, ob Anpflanzungen
 wie beschieden innerhalb der vorgesehenen Fristen durchgeführt werden.
@@ -947,9 +987,9 @@ Erträge von den Rebflächen nicht zu berücksichtigen, die als
 geografisches Gebiet für eine geschützte Ursprungsbezeichnung oder
 geschützte geografische Angabe abgegrenzt sind, für deren Bezeichnung
 eine Ursprungsbezeichnung oder geografische Angabe nach dem Verfahren
-des Artikels 99 der Verordnung (EU) Nr. 1308/2013 geschützt worden
-ist, und die unter der geschützten Ursprungsbezeichnung oder
-geografischen Angabe vermarktet werden.
+des Artikels 21 der Verordnung (EU) 2024/1143 geschützt worden ist,
+und die unter der geschützten Ursprungsbezeichnung oder geografischen
+Angabe vermarktet werden.
 
 (5) Ist der Hektarertrag nach Absatz 1 Satz 2 Nummer 1 in Verbindung
 mit einer Rechtsverordnung nach Absatz 2 Satz 1 für Flachlagen und
@@ -1517,10 +1557,10 @@ Die in § 23 Absatz 1 und 2 sowie in diesem Abschnitt geregelten
 Bestimmungen über die Anforderungen und Eigenschaften von
 Qualitätsweinen, Prädikatsweinen, Qualitätslikörweinen b.A.,
 Qualitätsperlweinen b.A., Sekten b.A. und Landweinen sind Teil der
-Produktspezifikationen im Sinne des Artikels 94 Absatz 2 der
-Verordnung (EU) Nr. 1308/2013 zur Beschreibung der Weine aus den
-bestimmten Anbaugebieten sowie aus den Landweingebieten. Sie sind
-Gegenstand der Kontrollen der Einhaltung der Produktspezifikationen.
+Produktspezifikationen im Sinne des Artikels 94 der Verordnung (EU)
+Nr. 1308/2013 zur Beschreibung der Weine aus den bestimmten
+Anbaugebieten sowie aus den Landweingebieten. Sie sind Gegenstand der
+Kontrollen der Einhaltung der Produktspezifikationen.
 
 
 ### § 17 Qualitätswein, Prädikatswein, Qualitätslikörwein b.A., Qualitätsperlwein b.A. und Sekt b.A.
@@ -1803,7 +1843,7 @@ ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
 
 ### § 22a Jährliche Kontrollen der Produktspezifikationen
 
-(1) Das Bundesministerium für Ernährung und Landwirtschaft wird
+Das Bundesministerium für Ernährung und Landwirtschaft wird
 ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
 Vorschriften über die Kontrollen zur Einhaltung von
 Produktspezifikationen von Weinen mit geschützter Ursprungsbezeichnung
@@ -1816,21 +1856,6 @@ Ursprungsbezeichnungen und geografische Angaben erforderlich ist.
 Kontrollen im Sinne des Satzes 1 sind insbesondere analytische oder
 organoleptische Prüfungen.
 
-(2) Die Durchführung der Kontrolle obliegt den nach Landesrecht
-zuständigen Stellen. Die Landesregierungen werden ermächtigt, durch
-Rechtsverordnung
-
-1.  die Durchführung der Kontrolle ganz oder teilweise auf nichtstaatliche
-    Kontrollstellen zu übertragen (Beleihung) oder sie daran zu beteiligen
-    (Mitwirkung),
-
-
-2.  die Voraussetzungen und das Verfahren der Beleihung oder der
-    Mitwirkung zu regeln.
-
-
-
-
 
 ## 5. Abschnitt - Geografische Bezeichnungen und Kennzeichnung
 
@@ -1840,28 +1865,14 @@ Rechtsverordnung
 
 (1) Geografische Bezeichnungen im Sinne dieses Gesetzes sind
 
-1.  die Ursprungsbezeichnungen und die geografischen Angaben im Sinne des
-    Artikels 93 Absatz 1 Buchstabe a und b der Verordnung (EU) Nr.
-    1308/2013,
-
-
-1a. die geografische Angabe im Sinne des Artikels 2 Nummer 3 der
-    Verordnung (EU) Nr. 251/2014 des Europäischen Parlaments und des Rates
-    vom 26. Februar 2014 über die Begriffsbestimmung, Beschreibung,
-    Aufmachung und Etikettierung von aromatisierten Weinerzeugnissen sowie
-    den Schutz geografischer Angaben für aromatisierte Weinerzeugnisse und
-    zur Aufhebung der Verordnung (EWG) Nr. 1601/91 des Rates (ABl. L 84
-    vom 20.3.2014, S. 14) in der jeweils geltenden Fassung,
-
-
-2.  die Namen von in die Weinbergsrolle eingetragenen Lagen und Bereichen
+1.  die Namen von in die Weinbergsrolle eingetragenen Lagen und Bereichen
     und Namen kleinerer geografischer Einheiten, die in der
     Liegenschaftskarte abgegrenzt sind, soweit diese Namen in einem in der
     Rechtsverordnung nach § 23 Absatz 4 geregelten Verfahren in die
     Weinbergrolle eingetragen sind, sowie
 
 
-3.  die Namen von Gemeinden und Ortsteilen, die im geschäftlichen Verkehr
+2.  die Namen von Gemeinden und Ortsteilen, die im geschäftlichen Verkehr
     zur Bezeichnung eines Erzeugnisses benutzt werden.
 
 
@@ -1870,15 +1881,11 @@ Rechtsverordnung
 (2) Geografische Bezeichnungen dürfen im geschäftlichen Verkehr nicht
 für Erzeugnisse benutzt werden, die nicht aus
 
-1.  der der Ursprungsbezeichnung oder der geografischen Angabe zugrunde
-    liegenden geografischen Einheit oder
+1.  einer Lage, einem Bereich oder einer kleineren geografischen Einheit,
+    die oder der nach Absatz 1 Nummer 1 eingetragen ist, oder
 
 
-2.  der in der Weinbergsrolle eingetragenen Lage oder dem dort
-    eingetragenen Bereich oder
-
-
-3.  der bezeichneten Gemeinde oder dem Ortsteil
+2.  der bezeichneten Gemeinde oder dem Ortsteil
 
 
 
@@ -1888,99 +1895,37 @@ Irreführung über die geografische Herkunft besteht.
 (3) § 128 Absatz 1 und 2 des Markengesetzes gilt entsprechend.
 
 
-### § 22c Antrag auf Schutz einer geografischen Bezeichnung nach der Verordnung (EU) Nr. 1308/2013
+### § 22c Finanzielle Beiträge an anerkannte Erzeugervereinigungen; Verordnungsermächtigung
 
-(1) Anträge auf Eintragung einer geografischen Angabe oder
-Ursprungsbezeichnung in das Verzeichnis der geschützten
-Ursprungsbezeichnungen und geografischen Angaben, das von der
-Europäische Kommission nach Artikel 104 Satz 1 der Verordnung (EU) Nr.
-1308/2013 unterhalten wird, sind bei der Bundesanstalt für
-Landwirtschaft und Ernährung (Bundesanstalt) zu stellen. Sofern
-Anträge das Gebiet eines oder mehrerer Anbaugebiete nach § 3 Absatz 1
-oder eines oder mehrere nach § 3 Absatz 2 in Verbindung mit § 3 Absatz
-4 festgelegte Gebiete betreffen, ist ihnen, sofern für das Gebiet eine
-Organisation zur Verwaltung herkunftsgeschützter Weinnamen nach § 22g
-Absatz 1 anerkannt wurde, eine begründete Stellungnahme dieser
-Organisation beizufügen.
+(1) Das Bundesministerium für Landwirtschaft, Ernährung und Heimat
+bestimmt durch Rechtsverordnung, die der Zustimmung des Bundesrates
+bedarf, dass Erzeuger, die Erzeugnisse unter einer geografischen
+Angabe einer anerkannten Erzeugervereinigung vermarkten, ohne deren
+Mitglied zu sein, zur Finanzierung dieser anerkannten
+Erzeugervereinigung herangezogen werden können, soweit dies für die
+Funktionsfähigkeit der anerkannten Erzeugervereinigung und zur
+Erfüllung ihrer Aufgaben erforderlich oder zweckmäßig ist.
 
-(2) Die Bundesanstalt veröffentlicht den Antrag im Bundesanzeiger.
-Gegen den Antrag kann innerhalb von zwei Monaten ab seiner
-Veröffentlichung von jeder Person mit einem berechtigten Interesse,
-die im Gebiet der Bundesrepublik Deutschland niedergelassen oder
-ansässig ist, bei der Bundesanstalt Einspruch eingelegt werden.
+(2) In einer Rechtsverordnung nach Absatz 1 ist die Grundlage für die
+Bemessung der finanziellen Beiträge festzulegen. Für die Bemessung
+maßgeblich ist die Menge der unter einer geografischen Angabe einer
+anerkannten Erzeugervereinigung vermarkteten Erzeugnisse. Die
+finanziellen Beiträge dürfen nicht höher sein als die
+mitgliedschaftlich begründeten Beitragsverpflichtungen.
 
-(3) Die Bundesanstalt holt zu dem Antrag innerhalb der zwei Monate
-eine Stellungnahme der für den Weinbau zuständigen obersten
-Landesbehörde des Landes oder der Länder ein, in dessen oder deren
-örtlicher Zuständigkeit die Rebflächen belegen sind, die im Rahmen der
-beantragten Produktspezifikation als geografisches Gebiet abgegrenzt
-sind.
+(3) In einer Rechtsverordnung nach Absatz 1 kann insbesondere
+Folgendes geregelt werden:
 
-(4) Nach Ablauf der Einspruchsfrist trifft die Bundesanstalt eine
-Entscheidung über das Vorliegen der Eintragungsvoraussetzungen unter
-Berücksichtigung der eingeholten Stellungnahmen nach Absatz 3 und nach
-Anhörung eines Fachausschusses, der von der Bundesanstalt einberufen
-wird und sich zusammensetzt aus Vertretern des Bundesministeriums für
-Ernährung und Landwirtschaft, der für den Weinbau zuständigen obersten
-Landesbehörden und den Verbänden der Weinwirtschaft.
-
-(5) Entspricht der Antrag den Voraussetzungen eines Schutzes nach der
-Verordnung (EU) Nr. 1308/2013 und der zu seiner Durchführung
-erlassenen Vorschriften, stellt die Bundesanstalt dieses fest.
-Andernfalls wird der Antrag zurückgewiesen. Die Bundesanstalt
-veröffentlicht den stattgebenden Bescheid im Bundesanzeiger. Kommt es
-zu wesentlichen Änderungen der nach Absatz 2 veröffentlichten Angaben,
-so werden diese zusammen mit dem stattgebenden Bescheid im
-Bundesanzeiger veröffentlicht. Der Bescheid nach Satz 1 und nach Satz
-2 ist dem Antragsteller und denjenigen zuzustellen, die fristgemäß
-Einspruch eingelegt haben.
-
-(6) Sobald der Bescheid nach Absatz 5 Satz 1 bestandskräftig geworden
-ist, unterrichtet die Bundesanstalt den Antragsteller hierüber und
-übermittelt den Antrag an die Europäische Kommission.
-
-(7) (weggefallen)
-
-(8) Das Bundesministerium für Ernährung und Landwirtschaft wird
-ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
-nähere Bestimmungen zu erlassen über
-
-1.  das Antragsverfahren nach Absatz 1 und das Einspruchsverfahren nach
-    Absatz 2,
+1.  die zur Entstehung und zur Fälligkeit der finanziellen Beiträge
+    führenden Umstände;
 
 
-2.  den in Absatz 4 genannten Fachausschuss.
+2.  das Verfahren bei der Erhebung der finanziellen Beiträge,
+    einschließlich erforderlicher Mitteilungspflichten hinsichtlich der
+    Bemessungsgrundlage für die finanziellen Beiträge.
 
 
 
-
-(9) Die Bundesanstalt ist zuständig für
-
-1.  das in Artikel 98 der Verordnung (EU) Nr. 1308/2013 genannte
-    Einspruchsverfahren,
-
-
-2.  das in Artikel 105 der Verordnung (EU) Nr. 1308/2013 genannte
-    Verfahren zur Änderung der Produktspezifikation und
-
-
-3.  das in Artikel 18 der Delegierten Verordnung (EU) 2019/33 der
-    Kommission vom 17. Oktober 2018 zur Ergänzung der Verordnung (EU) Nr.
-    1308/2013 des Europäischen Parlaments und des Rates in Bezug auf
-    Anträge auf Schutz von Ursprungsbezeichnungen, geografischen Angaben
-    und traditionellen Begriffen im Weinsektor, das Einspruchsverfahren,
-    Einschränkungen der Verwendung, Änderungen der Produktspezifikationen,
-    die Löschung des Schutzes sowie die Kennzeichnung und Aufmachung (ABl.
-    L 9 vom 11.1.2019, S. 2) in der jeweils geltenden Fassung genannte
-    Verfahren zur vorübergehenden Änderung einer Produktspezifikation.
-
-
-
-Für die Durchführung der Verfahren nach Satz 1 Nummer 1 und 2 gelten
-die Absätze 1 bis 7 entsprechend. Für die Durchführung des Verfahrens
-nach Satz 1 Nummer 3 wird das Bundesministerium für Ernährung und
-Landwirtschaft ermächtigt, durch Rechtsverordnung mit Zustimmung des
-Bundesrates nähere Bestimmungen zu erlassen.
 
 
 ### § 22d Merkmale von Weinen mit geschützter Ursprungsbezeichnung oder geschützter geografischer Angabe
@@ -2004,100 +1949,6 @@ dies
 
 
 dient.
-
-
-### § 22e Antrag auf Schutz einer geografischen Angabe nach der Verordnung (EU) Nr. 251/2014
-
-(1) Anträge auf Eintragung einer geografischen Angabe in das Register
-der geschützten geografischen Angaben für aromatisierte
-Weinerzeugnisse, das von der Europäischen Kommission nach Artikel 21
-Unterabsatz 1 der Verordnung (EU) Nr. 251/2014 unterhalten wird, sind
-bei der Bundesanstalt zu stellen.
-
-(2) § 22c Absatz 2 und 5 bis 7 ist auf Anträge nach Absatz 1
-entsprechend anzuwenden. Dies gilt auch für das in Artikel 15 der
-Verordnung (EU) Nr. 251/2014 genannte Einspruchsverfahren sowie das
-Verfahren zur Änderung einer Produktspezifikation gemäß Artikel 24
-Absatz 1 der Verordnung (EU) Nr. 251/2014.
-
-(3) § 22c Absatz 3 ist auf Anträge nach Absatz 1 mit der Maßgabe
-entsprechend anzuwenden, dass für die dort genannte Stellungnahme auf
-den Ort der Herstellung des zu schützenden aromatisierten
-Weinerzeugnisses abzustellen ist.
-
-(4) § 22c Absatz 4 ist auf Anträge nach Absatz 1 mit der Maßgabe
-entsprechend anzuwenden, dass bei der Zusammensetzung des
-Fachausschusses als Vertreter der Weinwirtschaft Verbände
-berücksichtigt werden sollen, deren Mitglieder sich mit der
-Herstellung und dem Handel aromatisierter Weinerzeugnisse befassen.
-
-(5) Das Bundesministerium für Ernährung und Landwirtschaft wird
-ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
-nähere Bestimmungen zu erlassen über
-
-1.  das Antragsverfahren nach Absatz 1 und das Einspruchsverfahren nach
-    Absatz 2,
-
-
-2.  den in Absatz 4 genannten Fachausschuss,
-
-
-3.  das Einspruchsverfahren im Sinne des Artikels 15 der Verordnung (EU)
-    Nr. 251/2014 und das Verfahren zur Änderung einer Produktspezifikation
-    im Sinne des Artikels 24 Absatz 1 der Verordnung (EU) Nr. 251/2014,
-    soweit sich das Erfordernis hierfür aus den Rechtsakten der
-    Europäischen Union ergibt.
-
-
-
-
-
-### § 22f Strengere Vorschriften zu aromatisierten Weinerzeugnissen mit geschützter geografischer Angabe
-
-Das Bundesministerium für Ernährung und Landwirtschaft wird
-ermächtigt, zur Verbesserung der Qualität der aromatisierten
-Weinerzeugnisse mit geschützter geografischer Angabe durch
-Rechtsverordnung mit Zustimmung des Bundesrates strengere Vorschriften
-als die Vorschriften des Artikels 4 Absatz 1 und der Anhänge I und II
-der Verordnung (EU) Nr. 251/2014 für die Erzeugung und Beschreibung
-der aromatisierten Weinerzeugnisse zu erlassen.
-
-
-### § 22g Organisationen zur Verwaltung herkunftsgeschützter Weinnamen
-
-(1) Die Landesregierungen können durch Rechtsverordnung vorsehen, dass
-für das Gebiet eines oder mehrerer Anbaugebiete nach § 3 Absatz 1 oder
-eines oder mehrerer nach § 3 Absatz 2 in Verbindung mit § 3 Absatz 4
-festgelegter Gebiete Organisationen zur Verwaltung
-herkunftsgeschützter Weinnamen anerkannt werden. Sofern sich ein
-Gebiet nach Satz 1 über das Gebiet mehrerer Länder erstreckt, ist die
-Anerkennung durch die zuständige Behörde des Landes zu erteilen, in
-dem der überwiegende Teil des Gebietes belegen ist; die Anerkennung
-bedarf des Einvernehmens des jeweiligen betroffenen Landes.
-
-(2) Organisationen im Sinne des Absatzes 1 können Anträge für eine
-Änderung der Produktspezifikation einer geschützten
-Ursprungsbezeichnung oder einer geschützten geografischen Angabe nach
-Artikel 105 der Verordnung (EU) Nr. 1308/2013 vorbereiten und Anträge
-nach § 22c Absatz 1 stellen.
-
-(3) In einer Rechtsverordnung nach Absatz 1 ist festzulegen, dass eine
-Organisation nur anerkannt werden kann, wenn sie eine Gruppe von
-Erzeugern vertritt, die für das bestimmte Anbaugebiet oder
-Landweingebiet hinreichend repräsentativ ist. Dies ist der Fall, wenn
-die Mitglieder der Organisation in dem Gebiet über mindestens zwei
-Drittel der Weinbergflächen verfügen und auf sie zusätzlich zwei
-Drittel der Weinerzeugung entfallen. Die Weinerzeugung bezieht sich
-insoweit bei Qualitätsweinen auf die geprüfte Qualitätsweinmenge und
-bei Landweinen auf die in Verkehr gebrachte Landweinmenge. Die
-Mitgliedschaft in der Organisation kann durch Vereinigungen
-repräsentativ für deren Mitglieder wahrgenommen werden. Nach ihrer
-Satzung soll eine Organisation Regelungen vorsehen, nach der
-Traubenerzeuger ebenso wie Weinerzeuger entsprechend der im jeweiligen
-Gebiet vorhandenen Struktur vertreten sind. In der Rechtsverordnung
-nach Absatz 1 können zudem weitere Anerkennungsvoraussetzungen
-festgelegt werden, insbesondere im Hinblick auf die zur Erfüllung der
-Aufgaben der Organisation notwendigen Mittel und Strukturen.
 
 
 ### § 23 Angabe kleinerer und größerer geografischer Einheiten
@@ -2159,7 +2010,8 @@ ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
 
 
 
-    ein Antrag nach § 22c Absatz 1 gestellt werden darf.
+    ein Antrag nach Artikel 10 Absatz 1 der Verordnung (EU) 2024/1143
+    gestellt werden darf.
 
 
 
@@ -2188,13 +2040,6 @@ Absatz 1 Nr. 1 genannten geographischen Einheiten
 
 
 festzulegen.
-
-(5) Die Landesregierungen werden ferner ermächtigt, durch
-Rechtsverordnung das Verfahren zu regeln, um die in Angelegenheiten
-der Weinbergsrolle zuständigen Stellen und Ausschüsse in dem Fall zu
-beteiligen, dass hinsichtlich einer in der Weinbergsrolle geführten
-Lage oder eines Bereiches eine Stellungnahme nach § 22c Absatz 3
-abzugeben ist.
 
 
 ### § 24 Bezeichnungen und sonstige Angaben
@@ -3481,10 +3326,6 @@ bestraft, wer
     Strafvorschrift verweist,
 
 
-3a. entgegen § 22b Absatz 2 im geschäftlichen Verkehr eine geografische
-    Bezeichnung benutzt,
-
-
 4.  entgegen § 25 Absatz 1 ein Erzeugnis in den Verkehr bringt oder dafür
     wirbt,
 
@@ -3559,13 +3400,16 @@ bezeichneten Handlungen fahrlässig begeht.
 
 
 5.  entgegen
-    § 7d Absatz 1, 1a oder 1b                    eine Genehmigung nicht
-    oder nicht richtig in Anspruch nimmt,
+    § 7d Absatz 1, 1a, 1b, 1c oder 1d                    eine Genehmigung
+    nicht oder nicht richtig in Anspruch nimmt,
 
 
 6.  einer Rechtsverordnung nach § 12 Absatz 3 Nummer 5 oder Absatz 5 oder
     § 44 Absatz 1 Satz 2 oder Absatz 2 Satz 2 zuwiderhandelt, soweit sie
     für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist,
+
+
+6a. entgegen § 22b Absatz 2 eine geografische Bezeichnung benutzt,
 
 
 7.  entgegen § 23 Absatz 1a eine Angabe macht,
@@ -3618,9 +3462,9 @@ des Lebensmittel- und Futtermittelgesetzbuches entsprechend:
 
 
 (3) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer 2
-und des Absatzes 2 Satz 2 mit einer Geldbuße bis zu fünfzigtausend
-Euro, in den übrigen Fällen mit einer Geldbuße bis zu zwanzigtausend
-Euro geahndet werden.
+und des Absatzes 2 Satz 1 Nummer 6a und Satz 2 mit einer Geldbuße bis
+zu fünfzigtausend Euro, in den übrigen Fällen mit einer Geldbuße bis
+zu zwanzigtausend Euro geahndet werden.
 
 
 ### § 51 Ermächtigungen
@@ -3743,14 +3587,7 @@ Nummer 4 des Marktorganisationsgesetzes.
 von für den Weinbau und die Weinwirtschaft anwendbaren Rechtsakten der
 Europäischen Gemeinschaft oder der Europäischen Union erlassen werden.
 
-(2) Das Bundesministerium für Ernährung und Landwirtschaft wird
-ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates in
-den von ihm auf Grund dieses Gesetzes erlassenen Rechtsverordnungen
-Verweisungen auf Vorschriften in Rechtsakten der Europäischen
-Gemeinschaft oder der Europäischen Union zu ändern, soweit es zur
-Anpassung an Änderungen dieser Vorschriften erforderlich ist.
-
-(3) Rechtsverordnungen nach diesem Gesetz, die der Zustimmung des
+(2) Rechtsverordnungen nach diesem Gesetz, die der Zustimmung des
 Bundesrates bedürfen, können ohne Zustimmung des Bundesrates erlassen
 werden, wenn ihr unverzügliches Inkrafttreten zur Durchführung von für
 den Weinbau und die Weinwirtschaft anwendbaren Rechtsakten der
@@ -3758,7 +3595,7 @@ Europäischen Gemeinschaft oder der Europäischen Union erforderlich ist
 und ihre Geltungsdauer auf einen bestimmten Zeitraum von höchstens
 sechs Monaten begrenzt wird.
 
-(4) Das Bundesministerium für Ernährung und Landwirtschaft kann
+(3) Das Bundesministerium für Ernährung und Landwirtschaft kann
 Rechtsverordnungen nach diesem Gesetz, die ausschließlich der
 Umsetzung verbindlicher technischer Vorschriften aus Richtlinien,
 Entscheidungen oder Beschlüssen der Europäischen Union dienen, ohne
@@ -3876,10 +3713,7 @@ in der bis zum 13. August 2010 geltenden Fassung anzuwenden.
 (15) Bis zum Ablauf des 31. Mai 2013 ist § 39 in der am 19. Dezember
 2012 geltenden Fassung weiter anzuwenden.
 
-(16) § 22b Absatz 1 Nummer 1a und die §§ 22e und 22f sind erst ab dem
-28\. März 2015 anzuwenden. Bis zu dem in Satz 1 genannten Tag ist § 2
-Nummer 1 in der am 14. Oktober 2014 geltenden Fassung weiter
-anzuwenden.
+(16) (weggefallen)
 
 (17) Auf Erzeugnisse von Rebflächen, die auf der Grundlage von § 4
 Absatz 3 des Weingesetzes in der bis zum Inkrafttreten des Zehnten
@@ -3969,4 +3803,101 @@ Grund dieses Gesetzes erlassenen Rechtsverordnungen Ermächtigungen zum
 Erlass von Rechtsverordnungen der Länder fortgefallen sind, werden die
 Landesregierungen ermächtigt, Vorschriften, die auf solche
 Ermächtigungen gestützt sind, aufzuheben.
+
+
+### § 57b Geändertes Unionsrecht
+
+(1) Wird eine in einer Vorschrift dieses Gesetzes oder in einer auf
+Grund dieses Gesetzes erlassenen Rechtsverordnung (innerstaatliche
+Vorschrift) genannte Vorschrift eines unmittelbar geltenden Rechtsakts
+der Europäischen Gemeinschaft oder der Europäischen Union aufgehoben
+oder für nicht mehr anwendbar erklärt, bleibt für Straftaten und
+Ordnungswidrigkeiten nach den §§ 48 bis 50, die bis zum Zeitpunkt der
+Aufhebung oder der Nichtanwendung begangen worden sind, die bis dahin
+geltende innerstaatliche Vorschrift abweichend von § 2 Absatz 3 des
+Strafgesetzbuches und von § 4 Absatz 3 des Gesetzes über
+Ordnungswidrigkeiten weiter anwendbar.
+
+(2) Durch Rechtsverordnung ohne Zustimmung des Bundesrates kann das
+Bundesministerium für Ernährung und Landwirtschaft in einer
+innerstaatlichen Vorschrift den Verweis auf eine Vorschrift in einem
+Rechtsakt
+
+1.  der Europäischen Gemeinschaft oder der Europäischen Union ändern,
+    soweit es zur Anpassung an eine Änderung dieser Vorschrift
+    erforderlich ist,
+
+
+2.  der Europäischen Gemeinschaft oder der Europäischen Union, die durch
+    eine inhaltsgleiche Vorschrift der Europäischen Union ersetzt worden
+    ist, durch den Verweis auf die ersetzende Vorschrift anpassen.
+
+
+
+
+(zu § 7d Absatz 1c)
+
+### Anlage 1 Regionen im Sinne von Artikel 1 Absatz 1 der Delegierten Verordnung (EU) 2024/2159
+
+(Fundstelle: BGBl. 2024 I Nr. 405, S. 10)
+
+
+1.  Bestimmtes Anbaugebiet Ahr
+
+
+2.  Bestimmtes Anbaugebiet Baden
+
+
+3.  Bestimmtes Anbaugebiet Franken
+
+
+4.  Bestimmtes Anbaugebiet Hessische Bergstraße
+
+
+5.  Bestimmtes Anbaugebiet Mittelrhein
+
+
+6.  Bestimmtes Anbaugebiet Mosel
+
+
+7.  Bestimmtes Anbaugebiet Nahe
+
+
+8.  Bestimmtes Anbaugebiet Pfalz
+
+
+9.  Bestimmtes Anbaugebiet Rheingau
+
+
+10. Bestimmtes Anbaugebiet Rheinhessen
+
+
+11. Bestimmtes Anbaugebiet Württemberg
+
+
+
+
+(zu § 7d Absatz 1d)
+
+### Anlage 2 Regionen im Sinne von Artikel 1 Absatz 1 der Delegierten Verordnung (EU) 2024/2146
+
+(Fundstelle: BGBl. 2024 I Nr. 405, S. 11)
+
+
+1.  Bestimmtes Anbaugebiet Baden
+
+
+2.  Bestimmtes Anbaugebiet Hessische Bergstraße
+
+
+3.  Bestimmtes Anbaugebiet Rheingau
+
+
+4.  Bestimmtes Anbaugebiet Württemberg
+
+
+5.  Landweingebiet Saarländischer Landwein
+
+
+
 

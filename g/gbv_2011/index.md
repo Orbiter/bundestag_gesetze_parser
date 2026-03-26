@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 11.3.2019 I 304;
 
 Zuletzt geändert durch
-:   Art. 3 V v. 28.6.2023 I Nr. 174
+:   Art. 6 V v. 19.6.2025 I Nr. 147
 
 
 ## § 1 Geltungsbereich
@@ -100,9 +100,9 @@ beteiligt ist und ihm Pflichten als Beteiligter in der
 Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt oder in
 der Gefahrgutverordnung See zugewiesen sind, muss es mindestens einen
 Sicherheitsberater für die Beförderung gefährlicher Güter
-(Gefahrgutbeauftragter) schriftlich bestellen. Werden mehrere
+(Gefahrgutbeauftragter) in Textform bestellen. Werden mehrere
 Gefahrgutbeauftragte bestellt, so sind deren Aufgaben gegeneinander
-abzugrenzen und schriftlich festzulegen. Nimmt der Unternehmer die
+abzugrenzen und in Textform festzulegen. Nimmt der Unternehmer die
 Funktion des Gefahrgutbeauftragten selbst wahr, ist eine Bestellung
 nicht erforderlich.
 
@@ -112,7 +112,7 @@ einer Person mit anderen Aufgaben in dem Unternehmen oder von einer
 dem Unternehmen nicht angehörenden Person wahrgenommen werden, sofern
 diese tatsächlich in der Lage ist, die Aufgaben des
 Gefahrgutbeauftragten zu erfüllen. Der Name des Gefahrgutbeauftragten
-ist allen Mitarbeitern des Unternehmens schriftlich bekannt zu geben;
+ist allen Mitarbeitern des Unternehmens in Textform bekannt zu geben;
 die Bekanntmachung kann auch durch schriftlichen Aushang an einer für
 alle Mitarbeiter leicht zugänglichen Stelle erfolgen.
 
@@ -200,8 +200,8 @@ bis zum Ablauf der Geltungsdauer des Schulungsnachweises. Absatz 2
 Satz 2 gilt entsprechend. Die Höchstpunktzahl ist jedoch um 50 vom
 Hundert zu reduzieren.
 
-(5) Die Prüfungsfragen sind aus einer Sammlung auszuwählen, die vom
-Deutschen Industrie- und Handelskammertag veröffentlicht wird.
+(5) Die Prüfungsfragen sind aus einer Sammlung auszuwählen, die von
+der Deutschen Industrie- und Handelskammer veröffentlicht wird.
 
 (6) Prüfungen dürfen nur bei Vorliegen aller Voraussetzungen nach
 Absatz 1 bis 5 durchgeführt werden.

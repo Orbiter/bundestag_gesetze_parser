@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2003, 1791
 
 Zuletzt geändert durch
-:   Art. 1 V v. 23.11.2022 I 2066
+:   Art. 13 G v. 6.5.2024 I Nr. 149
 
 
 ## Eingangsformel
@@ -35,10 +35,10 @@ Sitz der Prüfstelle für jugendgefährdende Medien ist Bonn.
 (1) Der Antrag auf Aufnahme eines Mediums in die Liste
 jugendgefährdender Medien (Liste) muss schriftlich oder elektronisch
 gestellt und begründet werden. Dem Antrag sollen bei Trägermedien
-mindestens ein Exemplar und bei Telemedien mindestens die technischen
-Zugangsdaten zu den Telemedienangeboten beigefügt werden. Wird der
-Antrag durch Telefax oder elektronisch übermittelt, so können die
-erforderlichen Anlagen nachgereicht werden.
+mindestens ein Exemplar und bei digitalen Diensten mindestens die
+technischen Zugangsdaten zu den Angeboten der digitalen Dienste
+beigefügt werden. Wird der Antrag durch Telefax oder elektronisch
+übermittelt, so können die erforderlichen Anlagen nachgereicht werden.
 
 (2) Die Anregung auf Aufnahme eines Mediums in die Liste soll
 schriftlich begründet werden. Absatz 1 Satz 2 und 3 gilt entsprechend.
@@ -70,8 +70,8 @@ in einem einheitlichen Verfahren zu verhandeln und zu entscheiden.
 
 
 
-Bei Telemedien sind zusätzlich die Anbieterin oder der Anbieter
-Beteiligte im Sinne des Satz 1.
+Bei digitalen Diensten sind zusätzlich die Anbieterin oder der
+Anbieter Beteiligte im Sinne des Satz 1.
 
 (2) Anregende im Sinne dieser Verordnung sind die in § 21 Absatz 4 des
 Jugendschutzgesetzes genannten zur Verfahrensanregung berechtigten
@@ -334,25 +334,26 @@ Bundesprüfstelle für jugendgefährdende Medien geführten Liste.
 ## § 14 Zusammenarbeit mit der Kommission für Jugendmedienschutz
 
 (1) Die Prüfstelle für jugendgefährdende Medien hat vor der
-Entscheidung über die Aufnahme eines Telemediums in die Liste nur dann
-keine Stellungnahme der Kommission für Jugendmedienschutz nach § 21
-Absatz 6 Satz 1 des Jugendschutzgesetzes einzuholen, wenn diese
-hierüber bereits entschieden und die Prüfstelle für jugendgefährdende
-Medien benachrichtigt hat.
+Entscheidung über die Aufnahme eines digitalen Dienstes in die Liste
+nur dann keine Stellungnahme der Kommission für Jugendmedienschutz
+nach § 21 Absatz 6 Satz 1 des Jugendschutzgesetzes einzuholen, wenn
+diese hierüber bereits entschieden und die Prüfstelle für
+jugendgefährdende Medien benachrichtigt hat.
 
 (2) Zur Mitteilung von Entscheidungen über die Aufnahme eines
-Telemediums in die Liste nach § 24 Absatz 4 des Jugendschutzgesetzes
-holt die Bundeszentrale für Kinder- und Jugendmedienschutz von der
-Kommission für Jugendmedienschutz eine Übersicht über die anerkannten
-Einrichtungen der Selbstkontrolle und eine Übersicht der aus Mitteln
-der Länder oder der Landesmedienanstalten geförderten Internet-
-Beschwerdestellen ein.
+digitalen Dienstes in die Liste nach § 24 Absatz 4 des
+Jugendschutzgesetzes holt die Bundeszentrale für Kinder- und
+Jugendmedienschutz von der Kommission für Jugendmedienschutz eine
+Übersicht über die anerkannten Einrichtungen der Selbstkontrolle und
+eine Übersicht der aus Mitteln der Länder oder der
+Landesmedienanstalten geförderten Internet-Beschwerdestellen ein.
 
 (3) Zur Gewährleistung einer effektiven Zusammenarbeit informiert die
 Bundeszentrale für Kinder- und Jugendmedienschutz die Kommission für
 Jugendmedienschutz neben Entscheidungen der Prüfstelle für
-jugendgefährdende Medien über die Listenaufnahme von Telemedien auch
-über damit zusammenhängende relevante Fragen und Ereignisse.
+jugendgefährdende Medien über die Listenaufnahme von digitalen
+Diensten auch über damit zusammenhängende relevante Fragen und
+Ereignisse.
 
 
 ## § 15 Mitteilungspflichten
@@ -364,14 +365,15 @@ Bundeszentrale für Kinder- und Jugendmedienschutz den obersten
 Landesjugendbehörden den Zeitpunkt der Zustellung der Entscheidung
 mit.
 
-(2) Wird ein Telemedium in die Liste aufgenommen oder aus dieser
+(2) Wird ein digitaler Dienst in die Liste aufgenommen oder aus dieser
 gestrichen, so teilt die Bundeszentrale für Kinder- und
 Jugendmedienschutz der Kommission für Jugendmedienschutz den Zeitpunkt
 der Entscheidung mit.
 
 (3) Bei erfolgloser Zustellung soll die Bundeszentrale für Kinder- und
-Jugendmedienschutz die Entscheidungen den im Bereich der Telemedien
-anerkannten Einrichtungen der Selbstkontrolle mitteilen.
+Jugendmedienschutz die Entscheidungen den im Bereich der
+digitalen Dienste              anerkannten Einrichtungen der
+Selbstkontrolle mitteilen.
 
 
 ## § 16 Inkrafttreten

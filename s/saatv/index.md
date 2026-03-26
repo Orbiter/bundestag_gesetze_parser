@@ -20,7 +20,7 @@ Neugefasst durch
 :   Bek. v. 8.2.2006 I 344;
 
 Zuletzt geändert durch
-:   Art. 1 V v. 13.7.2022 I 1186
+:   Art. 1 V v. 23.5.2025 I Nr. 138
 
 [^F001460986_01_BJNR001460986]:     Diese Verordnung dient der Umsetzung folgender Richtlinien:
     1\.                                    Richtlinie 66/401/EWG des Rates
@@ -3692,8 +3692,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-*
-
 2.1.2 Bei der Prüfung der Kolben von Hybridsorten von Mais darf der Anteil
     der Kolben, die den bei Zulassung der Sorte festgelegten Merkmalen
     nicht hinreichend entsprechen, hinsichtlich der Kornmerkmale 0,2 v. H.
@@ -3958,8 +3956,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-3.1.2 Der Feldbestand darf keinen Besatz mit Seide, Kleewürger und
-    Kreuzkraut aufweisen.
+3.1.2 Der Feldbestand darf keinen Besatz mit Seide und Kleewürger aufweisen.
 
 
 3.2 Gesundheitszustand
@@ -5480,7 +5477,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         Mindest-
         reinheit
 
-    *[^BJNR001460986BJNE006518118_01_BJNR001460986BJNE006522119]
+    *[^BJNR001460986BJNE006518118_01_BJNR001460986BJNE006523119]
    Höchstbesatz mit anderen Pflanzenarten in einem Probenteil nach Spalte
         12
 
@@ -5601,14 +5598,14 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   85
 
-    *[^BJNR001460986BJNE006518118_02_BJNR001460986BJNE006522119]
+    *[^BJNR001460986BJNE006518118_02_BJNR001460986BJNE006523119]
    16
 
     *   99
 
     *   4
 
-    *[^BJNR001460986BJNE006518118_03_BJNR001460986BJNE006522119]
+    *[^BJNR001460986BJNE006518118_03_BJNR001460986BJNE006523119]
    1
 
     *   3
@@ -5630,7 +5627,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *   Z-1
 
-    *[^BJNR001460986BJNE006518118_06_BJNR001460986BJNE006522119]
+    *[^BJNR001460986BJNE006518118_06_BJNR001460986BJNE006523119]
    85
 
     *   16
@@ -5711,7 +5708,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   500
 
-    *[^BJNR001460986BJNE006518118_05_BJNR001460986BJNE006522119]
+    *[^BJNR001460986BJNE006518118_05_BJNR001460986BJNE006523119]
 
 
 *    *
@@ -5740,7 +5737,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   500
 
-    *[^BJNR001460986BJNE006518118_60_BJNR001460986BJNE006522119]
+    *[^BJNR001460986BJNE006518118_60_BJNR001460986BJNE006523119]
 
 
 *    *
@@ -5928,7 +5925,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *   B
 
-    *[^BJNR001460986BJNE006518118_07_BJNR001460986BJNE006522119]
+    *[^BJNR001460986BJNE006518118_07_BJNR001460986BJNE006523119]
    92
 
     *   16
@@ -6036,7 +6033,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   0
 
-    *[^BJNR001460986BJNE006518118_04_BJNR001460986BJNE006522119]
+    *[^BJNR001460986BJNE006518118_04_BJNR001460986BJNE006523119]
    1 000
 
     *   -
@@ -6316,7 +6313,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   von Hybridsorten von Roggen
 
-    *[^BJNR001460986BJNE006518118_08_BJNR001460986BJNE006522119]
+    *[^BJNR001460986BJNE006518118_08_BJNR001460986BJNE006523119]
    4
 
     *
@@ -6466,14 +6463,14 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         halt
         an
         Feuchtig-
-[^BJNR001460986BJNE006518118_09_BJNR001460986BJNE006522119]
+[^BJNR001460986BJNE006518118_09_BJNR001460986BJNE006523119]
         keit
 
     *   Technische
         Mindest-
         reinheit
 
-    *[^BJNR001460986BJNE006518118_10_BJNR001460986BJNE006522119]
+    *[^BJNR001460986BJNE006518118_10_BJNR001460986BJNE006523119]
    Höchstbesatz mit anderen Pflanzenarten
 
     *   Gewicht des
@@ -6517,7 +6514,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   Seide
         und
-[^BJNR001460986BJNE006518118_11_BJNR001460986BJNE006522119]
+[^BJNR001460986BJNE006518118_11_BJNR001460986BJNE006523119]
         Kreuzkraut
 
     *   Ampfer außer Kl. Sauer- ampfer und Strand- ampfer
@@ -6658,7 +6655,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *   0
 
-    *[^BJNR001460986BJNE006518118_20_BJNR001460986BJNE006522119]
+    *[^BJNR001460986BJNE006518118_20_BJNR001460986BJNE006523119]
    0
 
     *   2
@@ -6752,7 +6749,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *
     *
-    *[^BJNR001460986BJNE006518118_14_BJNR001460986BJNE006522119]
+    *[^BJNR001460986BJNE006518118_14_BJNR001460986BJNE006523119]
    20
 
     *   5
@@ -6783,7 +6780,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   2,5
 
-    *[^BJNR001460986BJNE006518118_15_BJNR001460986BJNE006522119]
+    *[^BJNR001460986BJNE006518118_15_BJNR001460986BJNE006523119]
    1,0
 
     *   0,3
@@ -6860,7 +6857,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *
     *
-    *[^BJNR001460986BJNE006518118_18_BJNR001460986BJNE006522119]
+    *[^BJNR001460986BJNE006518118_18_BJNR001460986BJNE006523119]
    0
 
     *   0
@@ -7425,7 +7422,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *
     *
-    *[^BJNR001460986BJNE006518118_16_BJNR001460986BJNE006522119]
+    *[^BJNR001460986BJNE006518118_16_BJNR001460986BJNE006523119]
    20
 
     *   1
@@ -7454,7 +7451,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   85
 
-    *[^BJNR001460986BJNE006518118_12_BJNR001460986BJNE006522119]
+    *[^BJNR001460986BJNE006518118_12_BJNR001460986BJNE006523119]
    2,0
 
     *   1,0
@@ -7561,7 +7558,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *
     *
-    *[^BJNR001460986BJNE006518118_17_BJNR001460986BJNE006522119]
+    *[^BJNR001460986BJNE006518118_17_BJNR001460986BJNE006523119]
    20
 
     *   1
@@ -7601,7 +7598,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *
     *
-    *[^BJNR001460986BJNE006518118_19_BJNR001460986BJNE006522119]
+    *[^BJNR001460986BJNE006518118_19_BJNR001460986BJNE006523119]
    0
 
     *   0
@@ -7612,7 +7609,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *[^BJNR001460986BJNE006518118_13_BJNR001460986BJNE006522119]
+*    *[^BJNR001460986BJNE006518118_13_BJNR001460986BJNE006523119]
 
 
 *    *   2.2
@@ -7743,8 +7740,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Mindest-
         keim-
         fähigkeit
-[^BJNR001460986BJNE006518118_21_BJNR001460986BJNE006522119]
-[^BJNR001460986BJNE006518118_22_BJNR001460986BJNE006522119]
+[^BJNR001460986BJNE006518118_21_BJNR001460986BJNE006523119]
+[^BJNR001460986BJNE006518118_22_BJNR001460986BJNE006523119]
 
     *   Höchst-
         anteil
@@ -7757,7 +7754,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         gehalt
         an
         Feuchtig-
-[^BJNR001460986BJNE006518118_23_BJNR001460986BJNE006522119]
+[^BJNR001460986BJNE006518118_23_BJNR001460986BJNE006523119]
         keit
 
     *   Techni-
@@ -7765,7 +7762,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         Mindest-
         reinheit
 
-    *[^BJNR001460986BJNE006518118_24_BJNR001460986BJNE006522119]
+    *[^BJNR001460986BJNE006518118_24_BJNR001460986BJNE006523119]
    Höchstbesatz mit anderen Pflanzenarten
 
     *   Gewicht
@@ -7925,12 +7922,12 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *   20
 
-    *[^BJNR001460986BJNE006518118_27_BJNR001460986BJNE006522119]
+    *[^BJNR001460986BJNE006518118_27_BJNR001460986BJNE006523119]
    0
 
     *   0
 
-    *[^BJNR001460986BJNE006518118_29_BJNR001460986BJNE006522119]
+    *[^BJNR001460986BJNE006518118_29_BJNR001460986BJNE006523119]
    0
 
     *   2
@@ -7964,9 +7961,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   0
 
     *   0
-[^BJNR001460986BJNE006518118_30_BJNR001460986BJNE006522119]
+[^BJNR001460986BJNE006518118_30_BJNR001460986BJNE006523119]
 
-    *[^BJNR001460986BJNE006518118_28_BJNR001460986BJNE006522119]
+    *[^BJNR001460986BJNE006518118_28_BJNR001460986BJNE006523119]
    10
 
     *   200
@@ -8020,7 +8017,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   95
 
-    *[^BJNR001460986BJNE006518118_25_BJNR001460986BJNE006522119]
+    *[^BJNR001460986BJNE006518118_25_BJNR001460986BJNE006523119]
    1,8
 
     *   1,0
@@ -8070,8 +8067,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   1 000
 
-    *[^BJNR001460986BJNE006518118_31_BJNR001460986BJNE006522119]
-[^BJNR001460986BJNE006518118_32_BJNR001460986BJNE006522119]
+    *[^BJNR001460986BJNE006518118_31_BJNR001460986BJNE006523119]
+[^BJNR001460986BJNE006518118_32_BJNR001460986BJNE006523119]
 
 
 *    *
@@ -8088,7 +8085,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   98
 
-    *[^BJNR001460986BJNE006518118_26_BJNR001460986BJNE006522119]
+    *[^BJNR001460986BJNE006518118_26_BJNR001460986BJNE006523119]
    0,5
 
     *   0,3
@@ -8105,7 +8102,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   1 000
 
-    *[^BJNR001460986BJNE006518118_33_BJNR001460986BJNE006522119]
+    *[^BJNR001460986BJNE006518118_33_BJNR001460986BJNE006523119]
 
 
 *    *   3.1.3
@@ -9148,8 +9145,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   3.2.1
 
     *   Das Saatgut darf nicht von lebenden Schadinsekten befallen sein. Bei
-        Saatgut von Ackerbohnen und Futtererbsen gilt 1 lebender
-        Ackerbohnenkäfer oder Erbsenkäfer nicht als Befall.
+        Saatgut von großkörnigen Leguminosen gilt ein lebender Samenkäfer der
+        Gattung Bruchus nicht als Befall.
 
 
 *    *   3.2.2
@@ -9272,14 +9269,14 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         halt
         an
         Feuchtig-
-[^BJNR001460986BJNE006518118_35_BJNR001460986BJNE006522119]
+[^BJNR001460986BJNE006518118_35_BJNR001460986BJNE006523119]
         keit
 
     *   Technische
         Mindest-
         reinheit
 
-    *[^BJNR001460986BJNE006518118_36_BJNR001460986BJNE006522119]
+    *[^BJNR001460986BJNE006518118_36_BJNR001460986BJNE006523119]
    Höchstbesatz mit anderen Pflanzenarten
 
     *   Gewicht
@@ -9332,7 +9329,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   Seide
         und
-[^BJNR001460986BJNE006518118_37_BJNR001460986BJNE006522119]
+[^BJNR001460986BJNE006518118_37_BJNR001460986BJNE006523119]
         Kreuzkraut
 
     *   Ampfer
@@ -9467,7 +9464,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *   0
 
-    *[^BJNR001460986BJNE006518118_38_BJNR001460986BJNE006522119]
+    *[^BJNR001460986BJNE006518118_38_BJNR001460986BJNE006523119]
    0
 
     *   5
@@ -9795,14 +9792,14 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         halt
         an
         Feuchtig-
-[^BJNR001460986BJNE006518118_39_BJNR001460986BJNE006522119]
+[^BJNR001460986BJNE006518118_39_BJNR001460986BJNE006523119]
         keit
 
     *   Technische
         Mindest-
         reinheit
 
-    *[^BJNR001460986BJNE006518118_40_BJNR001460986BJNE006522119]
+    *[^BJNR001460986BJNE006518118_40_BJNR001460986BJNE006523119]
    Höchstbesatz mit anderen Pflanzenarten
 
     *   Gewicht
@@ -9842,8 +9839,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         hafer-
         bastarde
 
-    *[^BJNR001460986BJNE006518118_41_BJNR001460986BJNE006522119]
-   Seide
+    *[^BJNR001460986BJNE006518118_41_BJNR001460986BJNE006523119]
+   Seide und Kreuzkraut
 
     *   Hederich
 
@@ -9944,7 +9941,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *   0
 
-    *[^BJNR001460986BJNE006518118_42_BJNR001460986BJNE006522119]
+    *[^BJNR001460986BJNE006518118_42_BJNR001460986BJNE006523119]
    0
 
     *   10
@@ -9988,7 +9985,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   5.1.2
 
-    *[^BJNR001460986BJNE006518118_47_BJNR001460986BJNE006522119]
+    *[^BJNR001460986BJNE006518118_47_BJNR001460986BJNE006523119]
    Raps
 
     *
@@ -10218,7 +10215,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *   600
 
-    *[^BJNR001460986BJNE006518118_45_BJNR001460986BJNE006522119]
+    *[^BJNR001460986BJNE006518118_45_BJNR001460986BJNE006523119]
 
 
 *    *
@@ -10250,7 +10247,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   5.1.6
 
-    *[^BJNR001460986BJNE006518118_61_BJNR001460986BJNE006522119]
+    *[^BJNR001460986BJNE006518118_61_BJNR001460986BJNE006523119]
    Sojabohne
 
     *
@@ -10609,9 +10606,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *[^BJNR001460986BJNE006518118_43_BJNR001460986BJNE006522119]
-[^BJNR001460986BJNE006518118_44_BJNR001460986BJNE006522119]
-[^BJNR001460986BJNE006518118_46_BJNR001460986BJNE006522119]
+*    *[^BJNR001460986BJNE006518118_43_BJNR001460986BJNE006523119]
+[^BJNR001460986BJNE006518118_44_BJNR001460986BJNE006523119]
+[^BJNR001460986BJNE006518118_46_BJNR001460986BJNE006523119]
 
 
 *    *   5.2
@@ -10714,11 +10711,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   5.2.5
 
-    *   Das Saatgut von Soja darf nur bis zu 15 v. H. der Körner mit dem
-        Phomopsis-Komplex von
-        Diaporthe caulivora                      und
-        Diaporthe phaseolorum                      var.
-        sojae                      befallen sein.
+    *   Das Saatgut von Soja darf nur bis zu 15 Prozent der Körner mit dem
+        Phomopsis-Komplex von Diaporthe caulivora und Diaporthe phaseolorum
+        var. sojae befallen sein. Das Saatgut von Soja muss frei sein von
+        Tobacco ringspot virus.
 
 
 *    *   5.2.6
@@ -10775,7 +10771,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Mindest-
         keimfähigkeit
 
-    *[^BJNR001460986BJNE006518118_48_BJNR001460986BJNE006522119]
+    *[^BJNR001460986BJNE006518118_48_BJNR001460986BJNE006523119]
    Höchstgehalt an Feuchtigkeit
 
     *   Technische
@@ -10786,7 +10782,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         mit anderen
         Pflanzenarten
         bezogen auf
-[^BJNR001460986BJNE006518118_49_BJNR001460986BJNE006522119]
+[^BJNR001460986BJNE006518118_49_BJNR001460986BJNE006523119]
         das Gewicht
 
     *   Sonstige
@@ -10844,8 +10840,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   0,3
 
-    *[^BJNR001460986BJNE006518118_50_BJNR001460986BJNE006522119]
-[^BJNR001460986BJNE006518118_52_BJNR001460986BJNE006522119]
+    *[^BJNR001460986BJNE006518118_50_BJNR001460986BJNE006523119]
+[^BJNR001460986BJNE006518118_52_BJNR001460986BJNE006523119]
 
 
 *    *
@@ -10860,7 +10856,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   0,3
 
-    *[^BJNR001460986BJNE006518118_51_BJNR001460986BJNE006522119]
+    *[^BJNR001460986BJNE006518118_51_BJNR001460986BJNE006523119]
 
 
 *    *
@@ -11071,12 +11067,12 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Art
 
     *   Mindest-
-[^BJNR001460986BJNE006518118_53_BJNR001460986BJNE006522119]
+[^BJNR001460986BJNE006518118_53_BJNR001460986BJNE006523119]
         keimfähigkeit
 
     *   Höchstgehalt
         an
-[^BJNR001460986BJNE006518118_54_BJNR001460986BJNE006522119]
+[^BJNR001460986BJNE006518118_54_BJNR001460986BJNE006523119]
         Feuchtigkeit
 
     *   Technische
@@ -11087,7 +11083,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         mit anderen
         Pflanzenarten
         bezogen auf
-[^BJNR001460986BJNE006518118_55_BJNR001460986BJNE006522119]
+[^BJNR001460986BJNE006518118_55_BJNR001460986BJNE006523119]
         das Gewicht
 
     *   Sonstige
@@ -11267,7 +11263,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   0,5
 
-    *[^BJNR001460986BJNE006518118_56_BJNR001460986BJNE006522119]
+    *[^BJNR001460986BJNE006518118_56_BJNR001460986BJNE006523119]
 
 
 *    *   7.1.8
@@ -11475,7 +11471,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   1
 
-    *[^BJNR001460986BJNE006518118_57_BJNR001460986BJNE006522119]
+    *[^BJNR001460986BJNE006518118_57_BJNR001460986BJNE006523119]
 
 
 *    *   7.1.20
@@ -11578,7 +11574,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   0,1
 
-    *[^BJNR001460986BJNE006518118_58_BJNR001460986BJNE006522119]
+    *[^BJNR001460986BJNE006518118_58_BJNR001460986BJNE006523119]
 
 
 *    *   7.1.27
@@ -11687,7 +11683,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Zuckermais, Puffmais
 
     *
-    *[^BJNR001460986BJNE006518118_59_BJNR001460986BJNE006522119]
+    *[^BJNR001460986BJNE006518118_59_BJNR001460986BJNE006523119]
    85
 
     *
@@ -11782,25 +11778,25 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     die Fluoreszenz bei Hafer. Ergibt sich bei der Beschaffenheitsprüfung
     ein Verdacht auf Besatz mit Körnern anderer Sorten derselben Art, kann
     diese Feststellung auch anhand weiterer Merkmale erfolgen.
-[^BJNR001460986BJNE006518118_01_BJNR001460986BJNE006522119]:     Der Gehalt an Feuchtigkeit wird nur geprüft, wenn sich bei der
+[^BJNR001460986BJNE006518118_01_BJNR001460986BJNE006523119]:     Der Gehalt an Feuchtigkeit wird nur geprüft, wenn sich bei der
     Probenahme oder bei der Beschaffenheitsprüfung der Verdacht ergibt,
     dass der Höchstwert überschritten ist.
-[^BJNR001460986BJNE006518118_02_BJNR001460986BJNE006522119]:     Ein weiteres Korn gilt nicht als Unreinheit, wenn eine weitere
+[^BJNR001460986BJNE006518118_02_BJNR001460986BJNE006523119]:     Ein weiteres Korn gilt nicht als Unreinheit, wenn eine weitere
     Teilprobe von 500 g Gewicht frei ist.
-[^BJNR001460986BJNE006518118_03_BJNR001460986BJNE006522119]:     Bei Inzuchtlinien 250 g.
-[^BJNR001460986BJNE006518118_04_BJNR001460986BJNE006522119]:     In 100 Körnern höchstens 5 Körner, deren Grannenlänge die halbe
+[^BJNR001460986BJNE006518118_03_BJNR001460986BJNE006523119]:     Bei Inzuchtlinien 250 g.
+[^BJNR001460986BJNE006518118_04_BJNR001460986BJNE006523119]:     In 100 Körnern höchstens 5 Körner, deren Grannenlänge die halbe
     Kornlänge übertrifft.
-[^BJNR001460986BJNE006518118_05_BJNR001460986BJNE006522119]:     Für Sorten von Nackthafer und Nacktgerste beträgt die
+[^BJNR001460986BJNE006518118_05_BJNR001460986BJNE006523119]:     Für Sorten von Nackthafer und Nacktgerste beträgt die
     Mindestkeimfähigkeit 75 v. H. der reinen Körner.
-[^BJNR001460986BJNE006518118_06_BJNR001460986BJNE006522119]:     Für Sorten von Hartweizen beträgt die Mindestkeimfähigkeit 85 v. H.
+[^BJNR001460986BJNE006518118_06_BJNR001460986BJNE006523119]:     Für Sorten von Hartweizen beträgt die Mindestkeimfähigkeit 85 v. H.
     der reinen Körner.
-[^BJNR001460986BJNE006518118_07_BJNR001460986BJNE006522119]:     Eine weitere Sklerotie oder ein weiteres Bruchstück gilt nicht als
+[^BJNR001460986BJNE006518118_07_BJNR001460986BJNE006523119]:     Eine weitere Sklerotie oder ein weiteres Bruchstück gilt nicht als
     Unreinheit, wenn eine weitere Teilprobe von 500 g nicht mehr als 4
     Sklerotien oder Bruchstücke von Sklerotien enthält.
-[^BJNR001460986BJNE006518118_08_BJNR001460986BJNE006522119]:     Der Gehalt an Feuchtigkeit wird nur geprüft, wenn sich bei der
+[^BJNR001460986BJNE006518118_08_BJNR001460986BJNE006523119]:     Der Gehalt an Feuchtigkeit wird nur geprüft, wenn sich bei der
     Probenahme oder bei der Beschaffenheitsprüfung der Verdacht ergibt,
     dass der Höchstwert überschritten ist.
-[^BJNR001460986BJNE006518118_09_BJNR001460986BJNE006522119]:     Die Anforderungen an den Höchstbesatz mit Samen anderer Pflanzenarten
+[^BJNR001460986BJNE006518118_09_BJNR001460986BJNE006523119]:     Die Anforderungen an den Höchstbesatz mit Samen anderer Pflanzenarten
     müssen nur in Bezug auf solche Arten erfüllt sein, die sich an
     samendiagnostischen Merkmalen eindeutig von dem zu untersuchenden
     Saatgut unterscheiden lassen. Der Besatz mit anderen Sorten derselben
@@ -11810,33 +11806,33 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     sich bei der Beschaffenheitsprüfung ein Verdacht auf Besatz mit
     Körnern anderer Sorten derselben Art, kann diese Feststellung auch
     anhand weiterer Merkmale erfolgen.
-[^BJNR001460986BJNE006518118_10_BJNR001460986BJNE006522119]:     Die zahlenmäßige Bestimmung wird nur durchgeführt, wenn sich bei der
+[^BJNR001460986BJNE006518118_10_BJNR001460986BJNE006523119]:     Die zahlenmäßige Bestimmung wird nur durchgeführt, wenn sich bei der
     Beschaffenheitsprüfung des Saatgutes der Verdacht auf Besatz ergibt.
-[^BJNR001460986BJNE006518118_11_BJNR001460986BJNE006522119]:     Ein Höchstbesatz von 0,8 v. H. des Gewichts an Körnern anderer
+[^BJNR001460986BJNE006518118_11_BJNR001460986BJNE006523119]:     Ein Höchstbesatz von 0,8 v. H. des Gewichts an Körnern anderer
     Rispenarten gilt nicht als Unreinheit.
-[^BJNR001460986BJNE006518118_12_BJNR001460986BJNE006522119]:     (weggefallen)
-[^BJNR001460986BJNE006518118_13_BJNR001460986BJNE006522119]:     Ein Höchstbesatz von 80 Körnern von Rispenarten, die unter das
+[^BJNR001460986BJNE006518118_12_BJNR001460986BJNE006523119]:     (weggefallen)
+[^BJNR001460986BJNE006518118_13_BJNR001460986BJNE006523119]:     Ein Höchstbesatz von 80 Körnern von Rispenarten, die unter das
     Saatgutverkehrsgesetz fallen, gilt nicht als Unreinheit.
-[^BJNR001460986BJNE006518118_14_BJNR001460986BJNE006522119]:     Der Höchstwert gilt nicht für Körner von Rispenarten.
-[^BJNR001460986BJNE006518118_15_BJNR001460986BJNE006522119]:     Gilt nicht für den Besatz mit anderen Rispenarten; der Höchstbesatz
+[^BJNR001460986BJNE006518118_14_BJNR001460986BJNE006523119]:     Der Höchstwert gilt nicht für Körner von Rispenarten.
+[^BJNR001460986BJNE006518118_15_BJNR001460986BJNE006523119]:     Gilt nicht für den Besatz mit anderen Rispenarten; der Höchstbesatz
     mit anderen Rispenarten als der zu untersuchenden Art überschreitet
     nicht 1 Korn in 500 Körnern.
-[^BJNR001460986BJNE006518118_16_BJNR001460986BJNE006522119]:     Ein Höchstbesatz von 20 Körnern von Rispenarten, die unter das
+[^BJNR001460986BJNE006518118_16_BJNR001460986BJNE006523119]:     Ein Höchstbesatz von 20 Körnern von Rispenarten, die unter das
     Saatgutverkehrsgesetz fallen, gilt nicht als Unreinheit.
-[^BJNR001460986BJNE006518118_17_BJNR001460986BJNE006522119]:     Zwei Körner gelten nicht als Unreinheit, wenn ein weiterer Probenteil
+[^BJNR001460986BJNE006518118_17_BJNR001460986BJNE006523119]:     Zwei Körner gelten nicht als Unreinheit, wenn ein weiterer Probenteil
     nach Spalte 16 frei ist.
-[^BJNR001460986BJNE006518118_18_BJNR001460986BJNE006522119]:     Ein Korn gilt nicht als Unreinheit, wenn ein weiterer Probenteil mit
+[^BJNR001460986BJNE006518118_18_BJNR001460986BJNE006523119]:     Ein Korn gilt nicht als Unreinheit, wenn ein weiterer Probenteil mit
     dem Doppelten des Gewichts nach Spalte 16 frei ist.
-[^BJNR001460986BJNE006518118_19_BJNR001460986BJNE006522119]:     Ein Korn gilt nicht als Unreinheit, wenn ein weiterer Probenteil mit
+[^BJNR001460986BJNE006518118_19_BJNR001460986BJNE006523119]:     Ein Korn gilt nicht als Unreinheit, wenn ein weiterer Probenteil mit
     dem Gewicht nach Spalte 16 frei ist.
-[^BJNR001460986BJNE006518118_20_BJNR001460986BJNE006522119]:     Alle frischen und gesunden, nach Vorbehandlung nicht gekeimten Körner
+[^BJNR001460986BJNE006518118_20_BJNR001460986BJNE006523119]:     Alle frischen und gesunden, nach Vorbehandlung nicht gekeimten Körner
     gelten als gekeimt.
-[^BJNR001460986BJNE006518118_21_BJNR001460986BJNE006522119]:     Hartschalige Körner gelten bis zu dem Höchstanteil nach Spalte 4 als
+[^BJNR001460986BJNE006518118_21_BJNR001460986BJNE006523119]:     Hartschalige Körner gelten bis zu dem Höchstanteil nach Spalte 4 als
     keimfähige Körner.
-[^BJNR001460986BJNE006518118_22_BJNR001460986BJNE006522119]:     Der Gehalt an Feuchtigkeit wird nur geprüft, wenn sich bei der
+[^BJNR001460986BJNE006518118_22_BJNR001460986BJNE006523119]:     Der Gehalt an Feuchtigkeit wird nur geprüft, wenn sich bei der
     Probenahme oder bei der Beschaffenheitsprüfung der Verdacht ergeben
     hat, dass der Höchstwert überschritten ist.
-[^BJNR001460986BJNE006518118_23_BJNR001460986BJNE006522119]:     Die Anforderungen an den Höchstbesatz mit Samen anderer Pflanzenarten
+[^BJNR001460986BJNE006518118_23_BJNR001460986BJNE006523119]:     Die Anforderungen an den Höchstbesatz mit Samen anderer Pflanzenarten
     müssen nur in Bezug auf solche Arten erfüllt sein, die sich an
     samendiagnostischen Merkmalen eindeutig von dem zu untersuchenden
     Saatgut unterscheiden lassen. Der Besatz mit anderen Sorten derselben
@@ -11848,9 +11844,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     dieser Höchstwert 1 v. H. Ergibt sich bei der Beschaffenheitsprüfung
     ein Verdacht auf Besatz mit Körnern anderer Sorten derselben Art, kann
     diese Feststellung auch anhand weiterer Merkmale erfolgen.
-[^BJNR001460986BJNE006518118_24_BJNR001460986BJNE006522119]:     Ein Höchstbesatz von 1 v. H. des Gewichtes an Körnern von Rotklee gilt
+[^BJNR001460986BJNE006518118_24_BJNR001460986BJNE006523119]:     Ein Höchstbesatz von 1 v. H. des Gewichtes an Körnern von Rotklee gilt
     nicht als Unreinheit.
-[^BJNR001460986BJNE006518118_25_BJNR001460986BJNE006522119]:     Ein Höchstbesatz von 0,5 v. H. des Gewichtes an Körnern von Weißer
+[^BJNR001460986BJNE006518118_25_BJNR001460986BJNE006523119]:     Ein Höchstbesatz von 0,5 v. H. des Gewichtes an Körnern von Weißer
     Lupine, Blauer Lupine, Schmalblättrige Lupine, Gelber Lupine,
     Futtererbse, Ackerbohne, Pannonischer Wicke, Saatwicke oder
     Zottelwicke – außer der jeweils betroffenen Art – gilt nicht als
@@ -11859,25 +11855,25 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     von Pannonischer Wicke, Zottelwicke oder verwandter
     Kulturpflanzenarten – außer der jeweils betroffenen Art – nicht als
     Unreinheit.
-[^BJNR001460986BJNE006518118_26_BJNR001460986BJNE006522119]:     Ein Korn gilt nicht als Unreinheit, wenn ein weiterer Probenteil mit
+[^BJNR001460986BJNE006518118_26_BJNR001460986BJNE006523119]:     Ein Korn gilt nicht als Unreinheit, wenn ein weiterer Probenteil mit
     dem Doppelten des Gewichtes nach Spalte 15 frei ist.
-[^BJNR001460986BJNE006518118_27_BJNR001460986BJNE006522119]:     Die zahlenmäßige Bestimmung wird nur durchgeführt, wenn sich bei der
+[^BJNR001460986BJNE006518118_27_BJNR001460986BJNE006523119]:     Die zahlenmäßige Bestimmung wird nur durchgeführt, wenn sich bei der
     Beschaffenheitsprüfung des Saatgutes der Verdacht auf Besatz ergibt.
-[^BJNR001460986BJNE006518118_28_BJNR001460986BJNE006522119]:     Der Höchstbesatz an Seide bezieht sich auf einen Probenteil mit dem
+[^BJNR001460986BJNE006518118_28_BJNR001460986BJNE006523119]:     Der Höchstbesatz an Seide bezieht sich auf einen Probenteil mit dem
     Doppelten des Gewichtes nach Spalte 15; dies gilt nicht für Saatgut,
     das ausschließlich im Inland oder in Dänemark, Luxemburg, den
     Niederlanden oder dem Vereinigten Königreich aufgewachsen ist.
-[^BJNR001460986BJNE006518118_29_BJNR001460986BJNE006522119]:     Ein Korn gilt nicht als Unreinheit, wenn ein weiterer Probenteil mit
+[^BJNR001460986BJNE006518118_29_BJNR001460986BJNE006523119]:     Ein Korn gilt nicht als Unreinheit, wenn ein weiterer Probenteil mit
     dem Vierfachen des Gewichtes nach Spalte 15 frei ist.
-[^BJNR001460986BJNE006518118_30_BJNR001460986BJNE006522119]:     Bei bitterstoffarmen Lupinen darf in 100 Körnern höchstens 1 bitteres
+[^BJNR001460986BJNE006518118_30_BJNR001460986BJNE006523119]:     Bei bitterstoffarmen Lupinen darf in 100 Körnern höchstens 1 bitteres
     Korn enthalten sein.
-[^BJNR001460986BJNE006518118_31_BJNR001460986BJNE006522119]:     In 100 Körnern dürfen an Körnern anderer Farbe höchstens 1 Korn bei
+[^BJNR001460986BJNE006518118_31_BJNR001460986BJNE006523119]:     In 100 Körnern dürfen an Körnern anderer Farbe höchstens 1 Korn bei
     bitterstoffarmen Lupinen, 2 Körner bei anderen Lupinen enthalten sein.
-[^BJNR001460986BJNE006518118_32_BJNR001460986BJNE006522119]:     Bei bitterstoffarmen Lupinen dürfen in 200 Körnern höchstens 5 bittere
+[^BJNR001460986BJNE006518118_32_BJNR001460986BJNE006523119]:     Bei bitterstoffarmen Lupinen dürfen in 200 Körnern höchstens 5 bittere
     Körner enthalten sein.
-[^BJNR001460986BJNE006518118_33_BJNR001460986BJNE006522119]:     Die Anforderungen an den Gehalt an Feuchtigkeit gelten nicht für
+[^BJNR001460986BJNE006518118_33_BJNR001460986BJNE006523119]:     Die Anforderungen an den Gehalt an Feuchtigkeit gelten nicht für
     pilliertes oder inkrustiertes Saatgut.
-[^BJNR001460986BJNE006518118_35_BJNR001460986BJNE006522119]:     Die Anforderungen an den Höchstbesatz mit Samen anderer Pflanzenarten
+[^BJNR001460986BJNE006518118_35_BJNR001460986BJNE006523119]:     Die Anforderungen an den Höchstbesatz mit Samen anderer Pflanzenarten
     müssen nur in Bezug auf solche Arten erfüllt sein, die sich an
     samendiagnostischen Merkmalen eindeutig von dem zu untersuchenden
     Saatgut unterscheiden lassen. Der Besatz mit anderen Sorten derselben
@@ -11887,13 +11883,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     sich bei der Beschaffenheitsprüfung ein Verdacht auf Besatz mit
     Körnern anderer Sorten derselben Art, kann diese Feststellung auch
     anhand weiterer Merkmale erfolgen.
-[^BJNR001460986BJNE006518118_36_BJNR001460986BJNE006522119]:     Die zahlenmäßige Bestimmung wird nur durchgeführt, wenn sich bei der
+[^BJNR001460986BJNE006518118_36_BJNR001460986BJNE006523119]:     Die zahlenmäßige Bestimmung wird nur durchgeführt, wenn sich bei der
     Beschaffenheitsprüfung des Saatgutes der Verdacht auf Besatz ergibt.
-[^BJNR001460986BJNE006518118_37_BJNR001460986BJNE006522119]:     Ein Korn gilt nicht als Unreinheit, wenn ein weiterer Probenteil nach
+[^BJNR001460986BJNE006518118_37_BJNR001460986BJNE006523119]:     Ein Korn gilt nicht als Unreinheit, wenn ein weiterer Probenteil nach
     Spalte 14 frei ist.
-[^BJNR001460986BJNE006518118_38_BJNR001460986BJNE006522119]:     Die Anforderungen an den Gehalt an Feuchtigkeit gelten nicht für
+[^BJNR001460986BJNE006518118_38_BJNR001460986BJNE006523119]:     Die Anforderungen an den Gehalt an Feuchtigkeit gelten nicht für
     granuliertes und inkrustiertes Saatgut.
-[^BJNR001460986BJNE006518118_39_BJNR001460986BJNE006522119]:     Die Anforderungen an den Höchstbesatz mit Samen anderer Pflanzenarten
+[^BJNR001460986BJNE006518118_39_BJNR001460986BJNE006523119]:     Die Anforderungen an den Höchstbesatz mit Samen anderer Pflanzenarten
     müssen nur in Bezug auf solche Arten erfüllt sein, die sich an
     samendiagnostischen Merkmalen eindeutig von dem zu untersuchenden
     Saatgut unterscheiden lassen. Außer bei Sojabohne und bei Hybridsorten
@@ -11905,17 +11901,17 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     Beschaffenheitsprüfung ein Verdacht auf Besatz mit Körnern anderer
     Sorten derselben Art, kann diese Feststellung auch anhand weiterer
     Merkmale erfolgen.
-[^BJNR001460986BJNE006518118_40_BJNR001460986BJNE006522119]:     Die zahlenmäßige Bestimmung wird nur durchgeführt, wenn sich bei der
+[^BJNR001460986BJNE006518118_40_BJNR001460986BJNE006523119]:     Die zahlenmäßige Bestimmung wird nur durchgeführt, wenn sich bei der
     Beschaffenheitsprüfung des Saatgutes der Verdacht auf Besatz ergibt.
-[^BJNR001460986BJNE006518118_41_BJNR001460986BJNE006522119]:     Ein Korn gilt nicht als Unreinheit, wenn ein weiterer Probenteil nach
+[^BJNR001460986BJNE006518118_41_BJNR001460986BJNE006523119]:     Ein Korn gilt nicht als Unreinheit, wenn ein weiterer Probenteil nach
     Spalte 14 frei ist.
-[^BJNR001460986BJNE006518118_42_BJNR001460986BJNE006522119]:     (weggefallen)
-[^BJNR001460986BJNE006518118_43_BJNR001460986BJNE006522119]:     (weggefallen)
-[^BJNR001460986BJNE006518118_44_BJNR001460986BJNE006522119]:     Das Saatgut muß frei von Sommerwurz sein; ein Korn Sommerwurz in einem
+[^BJNR001460986BJNE006518118_42_BJNR001460986BJNE006523119]:     (weggefallen)
+[^BJNR001460986BJNE006518118_43_BJNR001460986BJNE006523119]:     (weggefallen)
+[^BJNR001460986BJNE006518118_44_BJNR001460986BJNE006523119]:     Das Saatgut muß frei von Sommerwurz sein; ein Korn Sommerwurz in einem
     Probenteil von 100 g gilt nicht als Unreinheit, wenn ein weiterer
     Probenteil von 200 g frei ist.
-[^BJNR001460986BJNE006518118_45_BJNR001460986BJNE006522119]:     (weggefallen)
-[^BJNR001460986BJNE006518118_46_BJNR001460986BJNE006522119]: [^BJNR001460986BJNE006518118_47_BJNR001460986BJNE006522119]:     Die Sortenreinheit des Saatgutes von Hybridsorten von Raps beträgt,
+[^BJNR001460986BJNE006518118_45_BJNR001460986BJNE006523119]:     (weggefallen)
+[^BJNR001460986BJNE006518118_46_BJNR001460986BJNE006523119]: [^BJNR001460986BJNE006518118_47_BJNR001460986BJNE006523119]:     Die Sortenreinheit des Saatgutes von Hybridsorten von Raps beträgt,
     soweit es an äußerlich erkennbaren Merkmalen des Saatgutes
     feststellbar ist, bei              Basissaatgut, weibliche
     Komponente    99,0 v. H.              Basissaatgut, männliche
@@ -11925,7 +11921,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     kann mittels geeigneter biochemischer Methoden vorgenommen werden.
     Die Anforderungen an den Gehalt an Feuchtigkeit gelten nicht für
     pilliertes, granuliertes oder inkrustiertes Saatgut.
-[^BJNR001460986BJNE006518118_48_BJNR001460986BJNE006522119]:     Die Anforderungen an den Höchstbesatz mit Samen anderer Pflanzenarten
+[^BJNR001460986BJNE006518118_48_BJNR001460986BJNE006523119]:     Die Anforderungen an den Höchstbesatz mit Samen anderer Pflanzenarten
     müssen nur in Bezug auf solche Arten erfüllt sein, die sich an
     samendiagnostischen Merkmalen eindeutig von dem zu untersuchenden
     Saatgut unterscheiden lassen. Der Besatz mit anderen Sorten derselben
@@ -11934,26 +11930,26 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     überschreiten. Ergibt sich bei der Beschaffenheitsprüfung ein Verdacht
     auf Besatz mit Körnern anderer Sorten derselben Art, kann diese
     Feststellung auch anhand weiterer Merkmale erfolgen.
-[^BJNR001460986BJNE006518118_49_BJNR001460986BJNE006522119]:     Bei Monogermsaatgut müssen mindestens 90 v. H. der gekeimten Knäuel
+[^BJNR001460986BJNE006518118_49_BJNR001460986BJNE006523119]:     Bei Monogermsaatgut müssen mindestens 90 v. H. der gekeimten Knäuel
     nur einen Keimling enthalten; Knäuel mit drei und mehr Keimlingen
     dürfen höchstens zu 5 v. H. der gekeimten Knäuel vorhanden sein.
-[^BJNR001460986BJNE006518118_50_BJNR001460986BJNE006522119]:     Bei Präzisionssaatgut müssen mindestens 70 v. H. der gekeimten Knäuel
+[^BJNR001460986BJNE006518118_50_BJNR001460986BJNE006523119]:     Bei Präzisionssaatgut müssen mindestens 70 v. H. der gekeimten Knäuel
     nur einen Keimling enthalten; Knäuel mit drei und mehr Keimlingen
     dürfen höchstens zu 5 v. H. der gekeimten Knäuel vorhanden sein.
-[^BJNR001460986BJNE006518118_51_BJNR001460986BJNE006522119]:     Bei Monogermsaatgut und Präzisionssaatgut darf der Anteil an
+[^BJNR001460986BJNE006518118_51_BJNR001460986BJNE006523119]:     Bei Monogermsaatgut und Präzisionssaatgut darf der Anteil an
     unschädlichen Verunreinigungen bei Basissaatgut 1 v. H. und bei
     Zertifiziertem Saatgut 0,5 v. H. des Gewichtes nicht überschreiten;
     soweit eine Probe nach § 11 Absatz 1 Satz 3 gezogen worden ist, ist
     das Ergebnis der Prüfung dieser Probe maßgeblich.
-[^BJNR001460986BJNE006518118_52_BJNR001460986BJNE006522119]:     Bei Prunkbohne, Buschbohne, Stangenbohne, Erbse und Dicker Bohne
+[^BJNR001460986BJNE006518118_52_BJNR001460986BJNE006523119]:     Bei Prunkbohne, Buschbohne, Stangenbohne, Erbse und Dicker Bohne
     gelten frische und gesunde, nach Vorbehandlung nicht gekeimte Körner
     als gekeimt; bei Prunkbohne, Buschbohne, Stangenbohne und Dicker Bohne
     gilt ein Höchstanteil von 5 v. H. an hartschaligen Körnern als
     keimfähige Körner.
-[^BJNR001460986BJNE006518118_53_BJNR001460986BJNE006522119]:     Der Gehalt an Feuchtigkeit wird nur geprüft, wenn sich bei der
+[^BJNR001460986BJNE006518118_53_BJNR001460986BJNE006523119]:     Der Gehalt an Feuchtigkeit wird nur geprüft, wenn sich bei der
     Probenahme oder bei der Beschaffenheitsprüfung der Verdacht ergibt,
     dass der Höchstwert überschritten ist.
-[^BJNR001460986BJNE006518118_54_BJNR001460986BJNE006522119]:     Die Anforderungen an den Höchstbesatz mit Samen anderer Pflanzenarten
+[^BJNR001460986BJNE006518118_54_BJNR001460986BJNE006523119]:     Die Anforderungen an den Höchstbesatz mit Samen anderer Pflanzenarten
     müssen nur in Bezug auf solche Arten erfüllt sein, die sich an
     samendiagnostischen Merkmalen eindeutig von dem zu untersuchenden
     Saatgut unterscheiden lassen. Der Besatz mit anderen Sorten derselben
@@ -11962,23 +11958,23 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     überschreiten. Ergibt sich bei der Beschaffenheitsprüfung ein Verdacht
     auf Besatz mit Körnern anderer Sorten derselben Art, kann diese
     Feststellung auch anhand weiterer Merkmale erfolgen.
-[^BJNR001460986BJNE006518118_55_BJNR001460986BJNE006522119]:     Bei Monogermsaatgut müssen mindestens 90 v. H., bei Präzisionssaatgut
+[^BJNR001460986BJNE006518118_55_BJNR001460986BJNE006523119]:     Bei Monogermsaatgut müssen mindestens 90 v. H., bei Präzisionssaatgut
     mindestens 70 v. H. der gekeimten Knäuel nur einen Keimling enthalten;
     Knäuel mit drei und mehr Keimlingen dürfen höchstens zu 5 v. H. der
     gekeimten Knäuel vorhanden sein.
-[^BJNR001460986BJNE006518118_56_BJNR001460986BJNE006522119]:     Das Saatgut darf keinen Besatz mit Seide aufweisen; die zahlenmäßige
+[^BJNR001460986BJNE006518118_56_BJNR001460986BJNE006523119]:     Das Saatgut darf keinen Besatz mit Seide aufweisen; die zahlenmäßige
     Bestimmung wird durchgeführt, wenn sich bei der Beschaffenheitsprüfung
     der Verdacht auf Besatz ergibt.
-[^BJNR001460986BJNE006518118_57_BJNR001460986BJNE006522119]:     Innerhalb des Besatzes nach Spalte 5 darf kein Besatz mit Futtererbse
+[^BJNR001460986BJNE006518118_57_BJNR001460986BJNE006523119]:     Innerhalb des Besatzes nach Spalte 5 darf kein Besatz mit Futtererbse
     vorhanden sein.
-[^BJNR001460986BJNE006518118_58_BJNR001460986BJNE006522119]:     Für Sorten von Zuckermais „super sweet“ beträgt die
+[^BJNR001460986BJNE006518118_58_BJNR001460986BJNE006523119]:     Für Sorten von Zuckermais „super sweet“ beträgt die
     Mindestkeimfähigkeit 80 v. H. der reinen Körner.
-[^BJNR001460986BJNE006518118_59_BJNR001460986BJNE006522119]:     Die Sortenreinheit des Zertifizierten Saatgutes von CMS-Hybridsorten
+[^BJNR001460986BJNE006518118_59_BJNR001460986BJNE006523119]:     Die Sortenreinheit des Zertifizierten Saatgutes von CMS-Hybridsorten
     von Gerste, Weichweizen, Hartweizen und Spelzweizen beträgt 85 v. H.
     Die Kontrolle der Sortenreinheit erfolgt in der Nachprüfung. Die
     Anforderungen an CMS-Hybridsorten von Weichweizen, Hartweizen und
     Spelzweizen gelten bis zum Ablauf des 31. August 2029.
-[^BJNR001460986BJNE006518118_60_BJNR001460986BJNE006522119]: [^BJNR001460986BJNE006518118_61_BJNR001460986BJNE006522119]:     Die Sortenreinheit des Saatgutes von Sorten von Sojabohne beträgt,
+[^BJNR001460986BJNE006518118_60_BJNR001460986BJNE006523119]: [^BJNR001460986BJNE006518118_61_BJNR001460986BJNE006523119]:     Die Sortenreinheit des Saatgutes von Sorten von Sojabohne beträgt,
     soweit es an äußerlich erkennbaren Merkmalen des Saatgutes
     feststellbar ist, bei              Basissaatgut                 99,5
     v. H.              Zertifiziertem Saatgut   99,0 v. H.
@@ -11987,7 +11983,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 ### Anlage 3a Besondere Anforderungen an den Gesundheitszustand bei landwirtschaftlichen Arten hinsichtlich des Befalls mit RNQPs
 
-(Fundstelle: BGBl. I 2020, 2545 - 2546)
+(Fundstelle: BGBl. I 2020, 2545 - 2546;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 1.  Medicago sativa                    L. – Befall mit
@@ -12104,7 +12101,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     Sinapis alba                    L. (entsprechend Anhang V Teil G
     Nummer 3 Ziffer 2 bis 8 der Durchführungsverordnung (EU) 2019/2072)
 
-    Das Saatgut von
+
+4.1 Das Saatgut von
     Brassica napus                    L. (partim),
     Brassica rapa                    L. var. silvestris (Lam.) Briggs,
     Glycine max                    (L.) Merr.,
@@ -12152,13 +12150,27 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
+4.2 Das Saatgut von Glycine max (L.) Merr. stammt aus Gebieten, die
+    bekanntermaßen frei von Tobacco ringspot virus sind, oder
+
+
+4.3 die Vermehrungsfläche wurde zu geeigneten Zeitpunkten während der
+    Vegetationsperiode mindestens zweimal durch Feldbesichtigung geprüft
+    und alle Pflanzen, die Anzeichen eines Befalls mit Tobacco ringspot
+    virus aufwiesen, wurden unmittelbar nach der Feldbesichtigung entfernt
+    und vernichtet und bei der abschließenden Feldbesichtigung wurden
+    keine Pflanzen gefunden, die Anzeichen eines Befalls mit Tobacco
+    ringspot virus aufwiesen.
+
+
 
 
 (zu § 20a)
 
 ### Anlage 3b Besondere Anforderungen bei Gemüsearten hinsichtlich des Befalls mit RNQPs
 
-(Fundstelle: BGBl. I 2020, 2546 - 2547)
+(Fundstelle: BGBl. I 2020, 2546 - 2547;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 1.  Befall mit Bakterien und Viruskrankheiten (entsprechend Anhang V Teil
@@ -12263,8 +12275,35 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-1.4 Das Saatgut von
-    Solanum lycopersicum                    L. wurde mittels geeigneter
+1.4 Anstelle der in den Nummern 1.1 bis 1.3 genannten Anforderungen gelten
+    für den Befall von Saatgut von Capsicum annuum L. und Solanum
+    lycopersicum L. mit Tomato brown rugose fruit virus (ToBRFV) die
+    folgenden Anforderungen:
+
+
+1.4.1 Das Saatgut stammt aus einem Land, das von seiner nationalen
+    Pflanzenschutzorganisation nach den internationalen Standards für
+    pflanzengesundheitliche Maßnahmen als frei von ToBRFV befunden wurde,
+    oder
+
+
+1.4.2 bei Untersuchung einer durch den Probenehmer oder unter seiner
+    Aufsicht gezogenen Saatgutprobe mit geeigneten molekularen Methoden
+    wurde kein Befall mit ToBRFV festgestellt oder
+
+
+1.4.3 im Fall einer Saatgutpartie, die von bis zu 30 Mutterpflanzen stammt,
+    wurden die Samen oder die Mutterpflanze dieser Samen durch die
+    zuständige Behörde anhand einer repräsentativen Probe mit geeigneten
+    molekularen Methoden getestet und dabei als frei von ToBRFV befunden.
+
+
+1.4.4 Die Anforderungen nach den Nummern 1.4.1 bis 1.4.3 gelten nicht für
+    Saatgut von Capsicum annuum L., das zu einer Sorte gehört, die
+    bekanntermaßen gegen ToBRFV resistent ist.
+
+
+1.5 Das Saatgut von Solanum lycopersicum L. wurde mittels geeigneter
     Methoden (zum Beispiel Extraktion durch Säure) gewonnen.
 
 
@@ -13532,50 +13571,42 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-*
-    *
-        3.2 Kennzeichnung
+3.2 Kennzeichnung
 
 
-        3.2.1 Bezeichnung
+3.2.1 Bezeichnung
 
 
-        3.2.2 Name und Anschrift des Herstellers der Kleinpackung oder seine
-            Betriebsnummer
+3.2.2 Name und Anschrift des Herstellers der Kleinpackung oder seine
+    Betriebsnummer
 
 
-        3.2.3 "Saatgutmischung für ..." (Verwendungszweck)
+3.2.3 "Saatgutmischung für ..." (Verwendungszweck)
 
 
-        3.2.4 Kennnummer
+3.2.4 Kennnummer
 
 
-        3.2.5 „Verschließung …“ (Monat, Jahr)
+3.2.5 „Verschließung …“ (Monat, Jahr)
 
 
-        3.2.6 Füllmenge oder Stückzahl der Körner
+3.2.6 Füllmenge oder Stückzahl der Körner
 
 
-        3.2.7 die Angaben nach § 29 Abs. 7 Satz 1, 2 und 4, bei Kleinpackung EG A
-            jedoch nur die Angaben nach § 29 Abs. 7 Satz 1 Nr. 1 und 3
+3.2.7 die Angaben nach § 29 Abs. 7 Satz 1, 2 und 4, bei Kleinpackung EG A
+    jedoch nur die Angaben nach § 29 Abs. 7 Satz 1 Nr. 1 und 3
 
 
-        3.2.8 bei chemisch, besonders physikalisch oder gleichartig behandeltem
-            Saatgut die Angaben nach § 32
+3.2.8 bei chemisch, besonders physikalisch oder gleichartig behandeltem
+    Saatgut die Angaben nach § 32
 
 
-        3.2.9 bei Zertifiziertem Saatgut von Gräsersorten die Angaben nach § 33 Abs.
-            1 Nr. 1
+3.2.9 bei Zertifiziertem Saatgut von Gräsersorten die Angaben nach § 33
+    Absatz 3
 
 
-        3.2.10 bei pilliertem, granuliertem oder inkrustiertem Saatgut oder Saatgut
-            mit festen Zusätzen die Angaben nach § 33 Abs. 4.
-
-
-
-
-
-
+3.2.10 bei pilliertem, granuliertem oder inkrustiertem Saatgut oder Saatgut
+    mit festen Zusätzen die Angaben nach § 33 Abs. 4.
 
 
 

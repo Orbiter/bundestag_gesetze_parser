@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 27.01.2015 I 33;
 
 Zuletzt geändert durch
-:   Art. 7 G v. 27.3.2024 I Nr. 107
+:   Art. 19 Abs. 2 G v. 22.12.2025 I Nr. 370
 
 
 ## Abschnitt 1 - Elterngeld
@@ -111,11 +111,31 @@ in Anspruch genommen wird.
 und Erziehung des Kindes aus einem wichtigen Grund nicht sofort
 aufgenommen werden kann oder wenn sie unterbrochen werden muss.
 
-(6) Eine Person ist nicht voll erwerbstätig, wenn ihre Arbeitszeit 32
-Wochenstunden im Durchschnitt des Lebensmonats nicht übersteigt, sie
-eine Beschäftigung zur Berufsbildung ausübt oder sie eine geeignete
-Tagespflegeperson im Sinne des § 23 des Achten Buches Sozialgesetzbuch
-ist und nicht mehr als fünf Kinder in Tagespflege betreut.
+(6) Eine Person ist nicht voll erwerbstätig, wenn
+
+1.  ihre Arbeitszeit 32 Wochenstunden im Durchschnitt des Lebensmonats
+    nicht übersteigt,
+
+
+2.  sie eine Beschäftigung zur Berufsbildung ausübt oder
+
+
+3.  sie als eine im Sinne der §§ 23 und 43 des Achten Buches
+    Sozialgesetzbuch geeignete Kindertagespflegeperson tätig ist.
+
+
+
+
+(6a) Als erwerbstätig im Sinne dieses Gesetzes gelten auch Personen,
+die vorübergehend nicht arbeiten, solange sie
+
+1.  sich in einem Arbeitsverhältnis befinden oder
+
+
+2.  selbständig erwerbstätig sind.
+
+
+
 
 (7) Ein nicht freizügigkeitsberechtigter Ausländer oder eine nicht
 freizügigkeitsberechtigte Ausländerin ist nur anspruchsberechtigt,
@@ -135,21 +155,24 @@ wenn diese Person
         Absatz 1 des Aufenthaltsgesetzes zum Zweck der Beschäftigung als Au-
         Pair oder zum Zweck der Saisonbeschäftigung, nach § 19e des
         Aufenthaltsgesetzes zum Zweck der Teilnahme an einem Europäischen
-        Freiwilligendienst oder nach § 20 Absatz 1 und 2 des
-        Aufenthaltsgesetzes zur Arbeitsplatzsuche erteilt,
+        Freiwilligendienst oder nach § 20a Absatz 5 Satz 1 des
+        Aufenthaltsgesetzes zur Suche nach einer Erwerbstätigkeit oder nach
+        Maßnahmen zur Anerkennung ausländischer Berufsqualifikationen erteilt,
 
 
     b)  nach § 16b des Aufenthaltsgesetzes zum Zweck eines Studiums, nach §
         16d des Aufenthaltsgesetzes für Maßnahmen zur Anerkennung
-        ausländischer Berufsqualifikationen oder nach § 20 Absatz 3 des
-        Aufenthaltsgesetzes zur Arbeitsplatzsuche erteilt und er ist weder
-        erwerbstätig noch nimmt er Elternzeit nach § 15 des Bundeselterngeld-
-        und Elternzeitgesetzes oder laufende Geldleistungen nach dem Dritten
-        Buch Sozialgesetzbuch in Anspruch,
+        ausländischer Berufsqualifikationen, nach § 20 des Aufenthaltsgesetzes
+        zur Suche nach einer Erwerbstätigkeit oder nach § 20a Absatz 5 Satz 2
+        des Aufenthaltsgesetzes zur Suche nach einer Erwerbstätigkeit oder
+        nach Maßnahmen zur Anerkennung ausländischer Berufsqualifikationen
+        erteilt und die Person ist weder erwerbstätig noch nimmt sie
+        Elternzeit nach § 15 dieses Gesetzes oder laufende Geldleistungen nach
+        dem Dritten Buch Sozialgesetzbuch in Anspruch,
 
 
-    c)  nach § 23 Absatz 1 des Aufenthaltsgesetzes wegen eines Krieges in
-        seinem Heimatland oder nach den § 23a oder § 25 Absatz 3 bis 5 des
+    c)  nach § 23 Absatz 1 des Aufenthaltsgesetzes wegen eines Krieges im
+        Heimatland dieser Person oder nach § 23a oder § 25 Absatz 3 bis 5 des
         Aufenthaltsgesetzes erteilt,
 
 
@@ -158,9 +181,8 @@ wenn diese Person
 
 3.  eine in Nummer 2 Buchstabe c genannte Aufenthaltserlaubnis besitzt und
     im Bundesgebiet berechtigt erwerbstätig ist oder Elternzeit nach § 15
-    des Bundeselterngeld- und Elternzeitgesetzes oder laufende
-    Geldleistungen nach dem Dritten Buch Sozialgesetzbuch in Anspruch
-    nimmt,
+    dieses Gesetzes oder laufende Geldleistungen nach dem Dritten Buch
+    Sozialgesetzbuch in Anspruch nimmt,
 
 
 4.  eine in Nummer 2 Buchstabe c genannte Aufenthaltserlaubnis besitzt und
@@ -281,46 +303,46 @@ Bei der Bestimmung des Bemessungszeitraums nach Satz 1 bleiben
 Kalendermonate unberücksichtigt, in denen die berechtigte Person
 
 1.  im Zeitraum nach § 4 Absatz 1 Satz 2 und 3 und Absatz 5 Satz 3 Nummer
-    2 Elterngeld für ein älteres Kind bezogen hat,
+    1 Buchstabe b, Nummer 2 Buchstabe b, Nummer 3 Buchstabe b und Nummer 4
+    Buchstabe b Elterngeld für ein älteres Kind bezogen hat,
 
 
 2.  während der Schutzfristen nach § 3 des Mutterschutzgesetzes nicht
     beschäftigt werden durfte oder Mutterschaftsgeld nach dem Fünften Buch
     Sozialgesetzbuch oder nach dem Zweiten Gesetz über die
-    Krankenversicherung der Landwirte bezogen hat,
+    Krankenversicherung der Landwirte oder Krankentagegeld nach § 192
+    Absatz 5 Satz 2 des Versicherungsvertragsgesetzes bezogen hat,
 
 
 3.  eine Krankheit hatte, die maßgeblich durch eine Schwangerschaft
     bedingt war, oder
 
 
-4.  Wehrdienst nach dem Wehrpflichtgesetz in der bis zum 31. Mai 2011
-    geltenden Fassung oder nach dem Vierten Abschnitt des Soldatengesetzes
-    oder Zivildienst nach dem Zivildienstgesetz geleistet hat
+4.  Wehrdienst nach dem Wehrpflichtgesetz oder nach dem Vierten Abschnitt
+    des Soldatengesetzes oder Zivildienst nach dem Zivildienstgesetz
+    geleistet hat.
 
 
 
-und in den Fällen der Nummern 3 und 4 dadurch ein geringeres Einkommen
-aus Erwerbstätigkeit hatte. Abweichend von Satz 2 sind Kalendermonate
-im Sinne des Satzes 2 Nummer 1 bis 4 auf Antrag der berechtigten
-Person zu berücksichtigen. Abweichend von Satz 2 bleiben auf Antrag
-bei der Ermittlung des Einkommens für die Zeit vom 1. März 2020 bis
-zum Ablauf des 23. September 2022 auch solche Kalendermonate
-unberücksichtigt, in denen die berechtigte Person aufgrund der
-COVID-19-Pandemie ein geringeres Einkommen aus Erwerbstätigkeit hatte
-und dies glaubhaft machen kann. Satz 2 Nummer 1 gilt in den Fällen des
-§ 27 Absatz 1 Satz 1 mit der Maßgabe, dass auf Antrag auch
-Kalendermonate mit Elterngeldbezug für ein älteres Kind nach
-Vollendung von dessen 14. Lebensmonat unberücksichtigt bleiben, soweit
-der Elterngeldbezug von der Zeit vor Vollendung des 14. Lebensmonats
-auf danach verschoben wurde.
+Abweichend von Satz 2 sind Kalendermonate im Sinne des Satzes 2 Nummer
+1 bis 4 auf Antrag der berechtigten Person zu berücksichtigen.
+Abweichend von Satz 2 bleiben auf Antrag bei der Ermittlung des
+Einkommens für die Zeit vom 1. März 2020 bis zum Ablauf des 23.
+September 2022 auch solche Kalendermonate unberücksichtigt, in denen
+die berechtigte Person aufgrund der COVID-19-Pandemie ein geringeres
+Einkommen aus Erwerbstätigkeit hatte und dies glaubhaft machen kann.
+Satz 2 Nummer 1 gilt in den Fällen des § 27 Absatz 1 Satz 1 mit der
+Maßgabe, dass auf Antrag auch Kalendermonate mit Elterngeldbezug für
+ein älteres Kind nach Vollendung von dessen 14. Lebensmonat
+unberücksichtigt bleiben, soweit der Elterngeldbezug von der Zeit vor
+Vollendung des 14. Lebensmonats auf danach verschoben wurde.
 
 (2) Für die Ermittlung des Einkommens aus selbstständiger
 Erwerbstätigkeit im Sinne von § 2d vor der Geburt sind die jeweiligen
 steuerlichen Gewinnermittlungszeiträume maßgeblich, die dem letzten
 abgeschlossenen steuerlichen Veranlagungszeitraum vor der Geburt des
 Kindes zugrunde liegen. Haben in einem Gewinnermittlungszeitraum die
-Voraussetzungen des Absatzes 1 Satz 2 oder Satz 3 vorgelegen, sind auf
+Voraussetzungen des Absatzes 1 Satz 2 oder Satz 4 vorgelegen, sind auf
 Antrag die Gewinnermittlungszeiträume maßgeblich, die dem diesen
 Ereignissen vorangegangenen abgeschlossenen steuerlichen
 Veranlagungszeitraum zugrunde liegen.
@@ -331,7 +353,7 @@ abgeschlossene steuerliche Veranlagungszeitraum vor der Geburt
 maßgeblich, wenn die berechtigte Person in den Zeiträumen nach Absatz
 1 oder Absatz 2 Einkommen aus selbstständiger Erwerbstätigkeit hatte.
 Haben im Bemessungszeitraum nach Satz 1 die Voraussetzungen des
-Absatzes 1 Satz 2 oder Satz 3 vorgelegen, ist Absatz 2 Satz 2 mit der
+Absatzes 1 Satz 2 oder Satz 4 vorgelegen, ist Absatz 2 Satz 2 mit der
 zusätzlichen Maßgabe anzuwenden, dass für die Ermittlung des
 Einkommens aus nichtselbstständiger Erwerbstätigkeit vor der Geburt
 der vorangegangene steuerliche Veranlagungszeitraum maßgeblich ist.
@@ -401,6 +423,16 @@ eine Angabe zu einem Abzugsmerkmal geändert hat, ist die von der
 Angabe nach Satz 1 abweichende Angabe maßgeblich, wenn sie in der
 überwiegenden Zahl der Kalendermonate des Bemessungszeitraums gegolten
 hat. § 2c Absatz 2 Satz 2 gilt entsprechend.
+
+(4) Der anteilige Arbeitnehmer-Pauschbetrag nach Absatz 1 Satz 1 ist
+nicht zu berücksichtigen, wenn dem Ansässigkeitsstaat der berechtigten
+Person nach einem Abkommen zur Vermeidung der Doppelbesteuerung das
+Besteuerungsrecht für das Elterngeld zusteht und wenn das aus
+Deutschland gezahlte Elterngeld nach den maßgebenden Vorschriften des
+Ansässigkeitsstaats der Steuer unterliegt. Unterliegt das Elterngeld
+im Ansässigkeitsstaat nach dessen maßgebenden Vorschriften nicht der
+Steuer, so ist der Arbeitnehmer-Pauschbetrag nach Absatz 1
+entsprechend zu berücksichtigen.
 
 
 ### § 2d Einkommen aus selbstständiger Erwerbstätigkeit
@@ -509,6 +541,16 @@ berücksichtigt.
 Pauschalen nur berücksichtigt, wenn sie ohne weitere Voraussetzung
 jeder berechtigten Person zustehen.
 
+(7) Abzüge für Steuern nach Absatz 1 Satz 1 sind nicht zu
+berücksichtigen, wenn dem Ansässigkeitsstaat der berechtigten Person
+nach einem Abkommen zur Vermeidung der Doppelbesteuerung das
+Besteuerungsrecht für das Elterngeld zusteht und wenn das aus
+Deutschland gezahlte Elterngeld nach den maßgebenden Vorschriften des
+Ansässigkeitsstaats der Steuer unterliegt. Unterliegt das Elterngeld
+im Ansässigkeitsstaat nach dessen maßgebenden Vorschriften nicht der
+Steuer, so sind die Abzüge für Steuern nach den Absätzen 1 bis 6
+entsprechend zu berücksichtigen.
+
 
 ### § 2f Abzüge für Sozialabgaben
 
@@ -545,7 +587,7 @@ berücksichtigt. Für Einnahmen aus Beschäftigungsverhältnissen im Sinne
 des § 20 Absatz 2 des Vierten Buches Sozialgesetzbuch ist der Betrag
 anzusetzen, der sich nach § 344 Absatz 4 des Dritten Buches
 Sozialgesetzbuch für diese Einnahmen ergibt, wobei der Faktor im Sinne
-des § 163 Absatz 10 Satz 2 des Sechsten Buches Sozialgesetzbuch unter
+des § 20 Absatz 2a Satz 2 des Vierten Buches Sozialgesetzbuch unter
 Zugrundelegung der Beitragssatzpauschalen nach Absatz 1 bestimmt wird.
 
 (3) Andere Maßgaben zur Bestimmung der sozialversicherungsrechtlichen
@@ -580,13 +622,17 @@ angerechnet:
     zustehen,
 
 
-3.  dem Elterngeld vergleichbare Leistungen, auf die eine nach § 1
-    berechtigte Person außerhalb Deutschlands oder gegenüber einer über-
-    oder zwischenstaatlichen Einrichtung Anspruch hat,
+3.  dem Elterngeld oder den Mutterschaftsleistungen vergleichbare
+    Leistungen, auf die eine nach § 1 berechtigte Person außerhalb
+    Deutschlands oder gegenüber einer über- oder zwischenstaatlichen
+    Einrichtung Anspruch hat,
 
 
 4.  Elterngeld, das der berechtigten Person für ein älteres Kind zusteht,
-    sowie
+    oder dem Elterngeld oder den Mutterschaftsleistungen vergleichbare
+    Leistungen für ein älteres Kind, auf die die berechtigte Person
+    außerhalb Deutschlands oder gegenüber einer über- oder
+    zwischenstaatlichen Einrichtung Anspruch hat,
 
 
 5.  Einnahmen, die der berechtigten Person als Ersatz für Erwerbseinkommen
@@ -854,7 +900,7 @@ vorliegen oder vorlagen.
 ### § 4c Alleiniger Bezug durch einen Elternteil
 
 (1) Ein Elternteil kann abweichend von § 4 Absatz 4 Satz 1 zusätzlich
-auch das Elterngeld für die Partnermonate nach § 4 Absatz 3 Satz 3
+auch das Elterngeld für die Partnermonate nach § 4 Absatz 3 Satz 2
 beziehen, wenn das Einkommen aus Erwerbstätigkeit für zwei
 Lebensmonate gemindert ist und
 
@@ -884,7 +930,7 @@ so hat ein Elternteil, der in mindestens zwei bis höchstens vier
 aufeinander folgenden Lebensmonaten nicht weniger als 24 und nicht
 mehr als 32 Wochenstunden im Durchschnitt des Lebensmonats
 erwerbstätig ist, für diese Lebensmonate Anspruch auf zusätzliche
-Monatsbeträge Elterngeld Plus.
+Monatsbeträge Elterngeld Plus. § 4b Absatz 5 gilt entsprechend.
 
 
 ### § 4d Weitere Berechtigte
@@ -1009,9 +1055,9 @@ Elterngeld unter dem Vorbehalt des Widerrufs für den Fall gezahlt,
 dass entgegen den Angaben im Antrag die Beträge nach § 1 Absatz 8
 überschritten werden.
 
-(3) Das Elterngeld wird bis zum Nachweis der jeweils erforderlichen
-Angaben vorläufig unter Berücksichtigung der glaubhaft gemachten
-Angaben gezahlt, wenn
+(3) Über die Höhe des Elterngeldes wird bis zum Nachweis der jeweils
+erforderlichen Angaben vorläufig unter Berücksichtigung der glaubhaft
+gemachten Angaben entschieden, wenn
 
 1.  zum Zeitpunkt der Antragstellung der Steuerbescheid für den letzten
     abgeschlossenen Veranlagungszeitraum vor der Geburt des Kindes nicht
@@ -1261,19 +1307,20 @@ oder von beiden Elternteilen gemeinsam genommen werden. Satz 1 gilt in
 den Fällen des Absatzes 1 Satz 1 Nummer 1 Buchstabe b und c
 entsprechend.
 
-(4) Der Arbeitnehmer oder die Arbeitnehmerin darf während der
+(4) Die Arbeitnehmerin oder der Arbeitnehmer darf während der
 Elternzeit nicht mehr als 32 Wochenstunden im Durchschnitt des Monats
-erwerbstätig sein. Eine im Sinne des § 23 des Achten Buches
-Sozialgesetzbuch geeignete Tagespflegeperson darf bis zu fünf Kinder
-in Tagespflege betreuen, auch wenn die wöchentliche Betreuungszeit 32
-Stunden übersteigt. Teilzeitarbeit bei einem anderen Arbeitgeber oder
-selbstständige Tätigkeit nach Satz 1 bedürfen der Zustimmung des
-Arbeitgebers. Dieser kann sie nur innerhalb von vier Wochen aus
-dringenden betrieblichen Gründen schriftlich ablehnen.
+erwerbstätig sein. Die Beschränkung auf 32 Wochenstunden im
+Durchschnitt des Monats gilt nicht für die Tätigkeit einer im Sinne
+der §§ 23 und 43 des Achten Buches Sozialgesetzbuch geeigneten
+Kindertagespflegeperson. Die Ausübung einer Teilzeitarbeit bei einem
+anderen Arbeitgeber oder einer selbständigen Erwerbstätigkeit nach
+Satz 1 bedürfen der Zustimmung des Arbeitgebers. Dieser kann seine
+Zustimmung nur innerhalb von vier Wochen nach der Beantragung aus
+dringenden betrieblichen Gründen in Textform verweigern.
 
 (5) Der Arbeitnehmer oder die Arbeitnehmerin kann eine Verringerung
 der Arbeitszeit und ihre Verteilung beantragen. Der Antrag kann mit
-der schriftlichen Mitteilung nach Absatz 7 Satz 1 Nummer 5 verbunden
+der Mitteilung nach Absatz 7 Satz 1 Nummer 5 in Textform verbunden
 werden. Über den Antrag sollen sich der Arbeitgeber und der
 Arbeitnehmer oder die Arbeitnehmerin innerhalb von vier Wochen
 einigen. Lehnt der Arbeitgeber den Antrag ab, so hat er dies dem
@@ -1322,7 +1369,7 @@ Voraussetzungen:
 
 
 
-    vor Beginn der Teilzeittätigkeit schriftlich mitgeteilt.
+    vor Beginn der Teilzeittätigkeit in Textform mitgeteilt.
 
 
 
@@ -1330,9 +1377,9 @@ Der Antrag muss den Beginn und den Umfang der verringerten Arbeitszeit
 enthalten. Die gewünschte Verteilung der verringerten Arbeitszeit soll
 im Antrag angegeben werden. Falls der Arbeitgeber die beanspruchte
 Verringerung oder Verteilung der Arbeitszeit ablehnt, muss die
-Ablehnung innerhalb der in Satz 5 genannten Frist und mit
-schriftlicher Begründung erfolgen. Hat ein Arbeitgeber die
-Verringerung der Arbeitszeit
+Ablehnung innerhalb der in Satz 5 genannten Frist und mit Begründung
+in Textform erfolgen. Hat ein Arbeitgeber die Verringerung der
+Arbeitszeit
 
 1.  in einer Elternzeit zwischen der Geburt und dem vollendeten dritten
     Lebensjahr des Kindes nicht spätestens vier Wochen nach Zugang des
@@ -1345,13 +1392,13 @@ Verringerung der Arbeitszeit
 
 
 
-schriftlich abgelehnt, gilt die Zustimmung als erteilt und die
+in Textform abgelehnt, gilt die Zustimmung als erteilt und die
 Verringerung der Arbeitszeit entsprechend den Wünschen der
 Arbeitnehmerin oder des Arbeitnehmers als festgelegt. Haben
 Arbeitgeber und Arbeitnehmerin oder Arbeitnehmer über die Verteilung
 der Arbeitszeit kein Einvernehmen nach Absatz 5 Satz 2 erzielt und hat
 der Arbeitgeber nicht innerhalb der in Satz 5 genannten Fristen die
-gewünschte Verteilung schriftlich abgelehnt, gilt die Verteilung der
+gewünschte Verteilung in Textform abgelehnt, gilt die Verteilung der
 Arbeitszeit entsprechend den Wünschen der Arbeitnehmerin oder des
 Arbeitnehmers als festgelegt. Soweit der Arbeitgeber den Antrag auf
 Verringerung oder Verteilung der Arbeitszeit rechtzeitig ablehnt, kann
@@ -1372,7 +1419,7 @@ Arbeitssachen erheben.
 
 
 
-vor Beginn der Elternzeit schriftlich vom Arbeitgeber verlangen.
+vor Beginn der Elternzeit in Textform vom Arbeitgeber verlangen.
 Verlangt die Arbeitnehmerin oder der Arbeitnehmer Elternzeit nach Satz
 1 Nummer 1, muss sie oder er gleichzeitig erklären, für welche Zeiten
 innerhalb von zwei Jahren Elternzeit genommen werden soll. Bei
@@ -1649,19 +1696,18 @@ Leistungsbezugs zu melden.
 ### § 23 Auskunftspflicht; Datenübermittlung an das Statistische Bundesamt
 
 (1) Für die Erhebung nach § 22 besteht Auskunftspflicht. Die Angaben
-nach § 22 Absatz 4 Nummer 2 sind freiwillig. Auskunftspflichtig sind
+nach § 22 Absatz 3 Nummer 2 sind freiwillig. Auskunftspflichtig sind
 die nach § 12 Absatz 1 zuständigen Stellen.
 
-(2) Der Antragsteller oder die Antragstellerin ist gegenüber den nach
+(2) Die Antragstellerin oder der Antragsteller ist gegenüber den nach
 § 12 Absatz 1 zuständigen Stellen zu den Erhebungsmerkmalen nach § 22
-Absatz 2 und 3 auskunftspflichtig. Die zuständigen Stellen nach § 12
-Absatz 1 dürfen die Angaben nach § 22 Absatz 2 Satz 1 Nummer 8 und
-Absatz 3 Satz 1 Nummer 4, soweit sie für den Vollzug dieses Gesetzes
-nicht erforderlich sind, nur durch technische und organisatorische
-Maßnahmen getrennt von den übrigen Daten nach § 22 Absatz 2 und 3 und
-nur für die Übermittlung an das Statistische Bundesamt verwenden und
-haben diese unverzüglich nach Übermittlung an das Statistische
-Bundesamt zu löschen.
+Absatz 2 auskunftspflichtig. Die zuständigen Stellen nach § 12 Absatz
+1 dürfen die Angaben nach § 22 Absatz 2 Satz 1 Nummer 8, soweit sie
+für den Vollzug dieses Gesetzes nicht erforderlich sind, nur durch
+technische und organisatorische Maßnahmen getrennt von den übrigen
+Daten nach § 22 Absatz 2 und nur für die Übermittlung an das
+Statistische Bundesamt verwenden und haben diese unverzüglich nach
+Übermittlung an das Statistische Bundesamt zu löschen.
 
 (3) Die in sich schlüssigen Angaben sind als Einzeldatensätze
 elektronisch bis zum Ablauf von 30 Arbeitstagen nach Ablauf des
@@ -1687,7 +1733,7 @@ Stadtstaaten auf Bezirksebene, aufbereitet sind.
 Rahmen der Zwecke nach § 24 übermittelt das Statistische Bundesamt auf
 Anforderung des fachlich zuständigen Bundesministeriums diesem oder
 von ihm beauftragten Forschungseinrichtungen Einzelangaben ab dem Jahr
-2007 ohne Hilfsmerkmale mit Ausnahme des Merkmals nach § 22 Absatz 4
+2007 ohne Hilfsmerkmale mit Ausnahme des Merkmals nach § 22 Absatz 3
 Nummer 3 für die Entwicklung und den Betrieb von
 Mikrosimulationsmodellen. Die Einzelangaben dürfen nur im hierfür
 erforderlichen Umfang und mittels eines sicheren Datentransfers
@@ -1718,44 +1764,33 @@ Einzelangaben dürfen aus ihrer Tätigkeit gewonnene Erkenntnisse nur
 für die in Absatz 1 genannten Zwecke verwenden.
 
 
-### § 24b Elektronische Unterstützung bei der Antragstellung
+### § 25 Automatisierter Datenabruf bei den Standesämtern
 
-(1) Zur elektronischen Unterstützung bei der Antragstellung kann der
-Bund ein Internetportal einrichten und betreiben. Das Internetportal
-ermöglicht das elektronische Ausfüllen der Antragsformulare der Länder
-sowie die Übermittlung der Daten aus dem Antragsformular an die nach §
-12 zuständige Behörde. Zuständig für Einrichtung und Betrieb des
-Internetportals ist das Bundesministerium für Familie, Senioren,
-Frauen und Jugend. Die Ausführung dieses Gesetzes durch die nach § 12
-zuständigen Behörden bleibt davon unberührt.
+Beantragt eine Person Elterngeld, so ist die nach § 12 Absatz 1
+zuständige Behörde berechtigt, zur Prüfung des Anspruchs nach § 1 die
+folgenden Daten über die Beurkundung der Geburt eines Kindes bei dem
+für die Entgegennahme der Anzeige der Geburt zuständigen Standesamt
+gemäß § 68 Absatz 3 des Personenstandsgesetzes automatisiert
+abzurufen, wenn die antragstellende Person zuvor in die elektronische
+Datenübermittlung eingewilligt hat:
 
-(2) Das Bundesministerium für Familie, Senioren, Frauen und Jugend ist
-für das Internetportal datenschutzrechtlich verantwortlich. Für die
-elektronische Unterstützung bei der Antragstellung darf das
-Bundesministerium für Familie, Senioren, Frauen und Jugend die zur
-Beantragung von Elterngeld erforderlichen personenbezogenen Daten
-sowie die in § 22 genannten statistischen Erhebungsmerkmale
-verarbeiten, sofern der Nutzer in die Verarbeitung eingewilligt hat.
-Die statistischen Erhebungsmerkmale einschließlich der zur Beantragung
-von Elterngeld erforderlichen personenbezogenen Daten sind nach
-Beendigung der Nutzung des Internetportals unverzüglich zu löschen.
+1.  Tag und Ort der Geburt des Kindes,
 
 
-### § 25 Datenübermittlung durch die Standesämter
+2.  Geburtsname und Vornamen des Kindes,
 
-Beantragt eine Person Elterngeld, so darf das für die Entgegennahme
-der Anzeige der Geburt zuständige Standesamt der nach § 12 Absatz 1
-zuständigen Behörde die erforderlichen Daten über die Beurkundung der
-Geburt eines Kindes elektronisch übermitteln, wenn die antragstellende
-Person zuvor in die elektronische Datenübermittlung eingewilligt hat.
+
+3.  Familiennamen, Geburtsnamen und Vornamen der Eltern des Kindes.
+
+
+
 
 
 ### § 26 Anwendung der Bücher des Sozialgesetzbuches
 
 (1) Soweit dieses Gesetz zum Elterngeld keine ausdrückliche Regelung
-trifft, ist bei der Ausführung des Ersten, Zweiten und Dritten
-Abschnitts das Erste Kapitel des Zehnten Buches Sozialgesetzbuch
-anzuwenden.
+trifft, ist bei der Ausführung des Ersten und Zweiten Abschnitts das
+Erste Kapitel des Zehnten Buches Sozialgesetzbuch anzuwenden.
 
 (2) § 328 Absatz 3 und § 331 des Dritten Buches Sozialgesetzbuch
 gelten entsprechend.
@@ -1799,12 +1834,9 @@ geborenen oder mit dem Ziel der Adoption aufgenommenen Kinder ist
 dieses Gesetz in der bis zum 31. März 2024 geltenden Fassung weiter
 anzuwenden.
 
-(1b) Soweit dieses Gesetz Mutterschaftsgeld nach dem Fünften Buch
-Sozialgesetzbuch oder nach dem Zweiten Gesetz über die
-Krankenversicherung der Landwirte in Bezug nimmt, gelten die
-betreffenden Regelungen für Mutterschaftsgeld nach der
-Reichsversicherungsordnung oder nach dem Gesetz über die
-Krankenversicherung der Landwirte entsprechend.
+(1b) Für die nach dem 31. März 2024 und vor dem 1. Mai 2025 geborenen
+oder mit dem Ziel der Adoption aufgenommenen Kinder ist dieses Gesetz
+in der bis zum 30. April 2025 geltenden Fassung weiter anzuwenden.
 
 (2) Für die dem Erziehungsgeld vergleichbaren Leistungen der Länder
 sind § 8 Absatz 1 und § 9 des Bundeserziehungsgeldgesetzes in der bis
@@ -1819,17 +1851,25 @@ für Entscheidungen anzuwenden, die Zeiträume betreffen, die nach dem
 31\. Dezember 2019 beginnen. § 1 Absatz 7 Satz 1 Nummer 2 Buchstabe c
 in der Fassung des Artikels 12 Nummer 1 des Gesetzes vom 23. Mai 2022
 (BGBl. I S. 760) ist für Entscheidungen anzuwenden, die Zeiträume
-betreffen, die nach dem 31. Mai 2022 beginnen.
+betreffen, die nach dem 31. Mai 2022 beginnen. § 1 Absatz 7 Satz 1
+Nummer 2 Buchstabe a und b in der Fassung des Artikels 43 des Gesetzes
+vom 2. Dezember 2024 (BGBl. 2024 I Nr. 387) ist für Entscheidungen
+anzuwenden, die Zeiträume betreffen, die nach dem 31. Mai 2024
+beginnen.
 
-(4) § 9 Absatz 2 und § 25 sind auf Kinder anwendbar, die nach dem 31.
-Dezember 2021 geboren oder nach dem 31. Dezember 2021 mit dem Ziel der
-Adoption aufgenommen worden sind. Zur Erprobung des Verfahrens können
-diese Regelungen in Pilotprojekten mit Zustimmung des
-Bundesministeriums für Familie, Senioren, Frauen und Jugend, des
+(4) § 9 Absatz 2 ist auf Kinder anwendbar, die nach dem 31. Dezember
+2021 geboren oder mit dem Ziel der Adoption aufgenommen worden sind. §
+25 ist auf Kinder anwendbar, die nach dem 31. Oktober 2024 geboren
+oder mit dem Ziel der Adoption aufgenommen worden sind. Für die nach
+dem 31. Dezember 2021 und vor dem 1. November 2024 geborenen oder mit
+dem Ziel der Adoption aufgenommenen Kinder ist § 25 in der bis zum 31.
+Oktober 2024 geltenden Fassung weiter anzuwenden. Zur Erprobung des
+Verfahrens können diese Regelungen in Pilotprojekten mit Zustimmung
+des Bundesministeriums für Familie, Senioren, Frauen und Jugend, des
 Bundesministeriums für Arbeit und Soziales und des Bundesministeriums
-des Innern, für Bau und Heimat auf Kinder, die vor dem 1. Januar 2022
-geboren oder vor dem 1. Januar 2022 zur Adoption aufgenommen worden
-sind, angewendet werden.
+des Innern und für Heimat auf Kinder, die vor dem 1. Januar 2022
+geboren oder mit dem Ziel der Adoption aufgenommen worden sind,
+angewendet werden.
 
 (5) § 1 Absatz 8 ist auf Kinder anwendbar, die ab dem 1. April 2025
 geboren oder mit dem Ziel der Adoption angenommen worden sind. Für die

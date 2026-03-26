@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2013, 3125, 3126
 
 Zuletzt geändert durch
-:   Art. 394 V v. 31.8.2015 I 1474
-
-Änderung durch
-:   Art. 1 V v. 11.8.2021 I 3570 (Nr. 54) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 V v. 10.10.2025 I Nr. 238
 
 
 ## Abschnitt 1 - Halten von Wirbeltieren und Kopffüßern zur Verwendung in Tierversuchen oder zu anderen wissenschaftlichen Zwecken
@@ -1181,10 +1178,10 @@ Kommission nach Artikel 55 Absatz 4 Unterabsatz 2 Buchstabe b der
 Richtlinie 2010/63/EU widerrufen wird.
 
 (2) Erteilt die zuständige Behörde eine Genehmigung nach Absatz 1, so
-hat sie dies dem Bundesministerium für Ernährung und Landwirtschaft
-(Bundesministerium) unverzüglich mitzuteilen. Die Mitteilung nach Satz
-1 enthält eine ausführliche Begründung für die Entscheidung der
-zuständigen Behörde im Hinblick auf das Vorliegen der jeweiligen
+hat sie dies dem Bundesministerium für Landwirtschaft, Ernährung und
+Heimat (Bundesministerium) unverzüglich mitzuteilen. Die Mitteilung
+nach Satz 1 enthält eine ausführliche Begründung für die Entscheidung
+der zuständigen Behörde im Hinblick auf das Vorliegen der jeweiligen
 Genehmigungsvoraussetzungen. Das Bundesministerium unterrichtet nach
 Eingang der Mitteilung nach Satz 1 die Europäische Kommission nach
 Artikel 55 Absatz 4 Unterabsatz 1 der Richtlinie 2010/63/EU auf der
@@ -1543,11 +1540,11 @@ nicht überschreitet und sofern seit der erstmaligen Erteilung oder
 ersten Verlängerung der Genehmigung keine Änderungen des genehmigten
 Versuchsvorhabens oder nur solche Änderungen eingetreten sind, die
 
-1.  nach § 34 Absatz 2 Satz 1 oder Absatz 3 Satz 1 angezeigt und von der
-    zuständigen Behörde nicht beanstandet oder
+1.  nach § 34 Absatz 1 Satz 1 genehmigt oder
 
 
-2.  nach § 34 Absatz 3 genehmigt
+2.  nach § 34 Absatz 2 Satz 1 oder Absatz 3 Satz 1 angezeigt und von der
+    zuständigen Behörde nicht beanstandet
 
 
 
@@ -1742,12 +1739,12 @@ Verlängerung der Genehmigung im vereinfachten Genehmigungsverfahren
 
 2.  nur solche Änderungen eingetreten sind, die
 
-    a)  nach § 37 Absatz 2 Satz 1 in Verbindung mit § 34 Absatz 1 genehmigt
-        worden sind oder
+    a)  nach § 37 Absatz 2 in Verbindung mit § 34 Absatz 1 genehmigt worden
+        sind oder
 
 
-    b)  nach § 37 Absatz 2 Satz 2 angezeigt und von der zuständigen Behörde
-        nicht beanstandet worden sind.
+    b)  nach § 34 Absatz 2 Satz 1 oder Absatz 3 Satz 1 angezeigt und von der
+        zuständigen Behörde nicht beanstandet worden sind.
 
 
 
@@ -2052,9 +2049,6 @@ Tierschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
     1 nicht sicherstellt,
 
 
-10a. (weggefallen)
-
-
 11. entgegen § 30 Absatz 1 die Einhaltung der Vorschriften des § 29 Absatz
     2 nicht sicherstellt,
 
@@ -2189,7 +2183,8 @@ zum 1. Dezember 2021 geltenden Fassung weiter anzuwenden.
 
 ### Anlage 1 Kenntnisse und Fähigkeiten, die für die Pflege oder das Töten von Tieren oder die Planung oder die Durchführung von Tierversuchen erforderlich sind
 
-(Fundstelle: BGBl. I 2013, 3140 - 3141)
+(Fundstelle: BGBl. I 2013, 3140 - 3141;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 ## Abschnitt 1

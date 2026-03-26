@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 630
 
-Geändert durch
-:   Art. 21 Abs. 3 G v. 18.7.2016 I 1679
+Zuletzt geändert durch
+:   Art. 11 V v. 19.12.2025 I Nr. 372
 
 
 ## Eingangsformel
@@ -46,10 +46,10 @@ Anzeigepflichten im Rahmen dieser Verordnung.
 (2) Für die Form der Mitteilung gilt:
 
 1.  Unternehmer im Sinne des § 2 des Umsatzsteuergesetzes haben die
-    Meldungen nach Absatz 1 nach amtlich vorgeschriebenem Datensatz durch
-    Datenfernübertragung zu übermitteln; auf Antrag kann das Finanzamt zur
-    Vermeidung unbilliger Härten auf eine elektronische Übermittlung
-    verzichten;
+    Meldungen nach Absatz 1 nach amtlich vorgeschriebenem Datensatz über
+    die amtlich bestimmte Schnittstelle zu übermitteln; auf Antrag kann
+    das Finanzamt zur Vermeidung unbilliger Härten auf eine elektronische
+    Übermittlung verzichten;
 
 
 2.  Fahrzeuglieferer nach § 2a des Umsatzsteuergesetzes können die Meldung
@@ -120,7 +120,7 @@ Umsatzsteuergesetzes), der die Lieferung des Fahrzeugs ausführt.
 
 ## § 4 Ordnungswidrigkeit
 
-Ordnungswidrig im Sinne des § 26a Abs. 1 Nr. 6 des
+Ordnungswidrig im Sinne des § 26a Absatz 2 Nummer 6 des
 Umsatzsteuergesetzes handelt, wer vorsätzlich oder leichtfertig
 entgegen § 1 Abs. 1 Satz 1 eine Meldung nicht, nicht richtig, nicht
 vollständig oder nicht rechtzeitig macht.

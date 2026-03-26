@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2014, 143
 
 Zuletzt geändert durch
-:   Art. 2 V v. 19.4.2023 I Nr. 114
+:   Art. 7 V v. 24.6.2024 I Nr. 215
 
 
 ## Eingangsformel
@@ -320,6 +320,28 @@ Europäischen Gemeinschaft oder der Europäischen Union beziehen sich
 auf die in der Anlage angegebenen Fassungen.
 
 
+### § 11a Übergangsregelung aus Anlass der Verordnung (EU) 2024/1143
+
+Soweit nach den in den Artikeln 90 und 91 der Verordnung (EU)
+2024/1143 des Europäischen Parlaments und des Rates vom 11. April 2024
+über geografische Angaben für Wein, Spirituosen und
+landwirtschaftliche Erzeugnisse und über garantiert traditionelle
+Spezialitäten und fakultative Qualitätsangaben für landwirtschaftliche
+Erzeugnisse sowie zur Änderung der Verordnungen (EU) Nr. 1308/2013,
+(EU) 2019/787 und (EU) 2019/1753 und zur Aufhebung der Verordnung (EU)
+Nr. 1151/2012 (ABl. L, 2024/1143, 23.4.2024) in der jeweils geltenden
+Fassung enthaltenen Übergangsbestimmungen durch die Verordnung (EU)
+2024/1143 aufgehobene oder geänderte Vorschriften der Verordnung (EU)
+Nr. 1308/2013 des Europäischen Parlaments und des Rates vom 17.
+Dezember 2013 über eine gemeinsame Marktorganisation für
+landwirtschaftliche Erzeugnisse und zur Aufhebung der Verordnungen
+(EWG) Nr. 922/72, (EWG) Nr. 234/79, (EG) Nr. 1037/2001 und (EG) Nr.
+1234/2007 (ABl. L 347 vom 20.12.2013, S. 671) in ihrer jeweils in
+Bezug genommenen Fassung weiterhin Anwendung finden, ist Nummer 5 der
+Anlage zu § 11 in der bis zum 27. Juni 2024 geltenden Fassung weiter
+anzuwenden.
+
+
 ### § 12 Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
@@ -377,8 +399,8 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     (EWG) Nr. 922/72, (EWG) Nr. 234/79, (EG) Nr. 1037/2001 und (EG) Nr.
     1234/2007 (ABl. L 347 vom 20.12.2013, S. 671; L 189 vom 27.6.2014, S.
     261; L 130 vom 19.5.2016, S. 18; L 34 vom 9.2.2017, S. 41; L 106 vom
-    6\.4.2020, S. 12), die zuletzt durch die Verordnung (EU) 2021/2117
-    (ABl. L 435 vom 6.12.2021, S. 262) geändert worden ist,
+    6\.4.2020, S. 12), die zuletzt durch die Verordnung (EU) 2024/1143
+    (ABl. L, 2024/1143, 23.4.2024) geändert worden ist,
 
 
 6.  Delegierte Verordnung (EU) 2018/273 der Kommission vom 11. Dezember

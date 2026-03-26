@@ -53,7 +53,7 @@ Katastrophenschutzgesetz freigestellt gelten. Die 8-Jahresfrist gemäß
 Verpflichtung durch die Organisation, frühestens jedoch, nachdem der
 Helfer das 18. Lebensjahr vollendet hat.
 
-(2)
+(2) (Änderungsvorschrift)
 
 (3) Die Eisenbahnvorschriften des Bundesrechtes gelten in Berlin
 (West) nach Maßgabe der Anlage I Kapitel XI Sachgebiet A des
@@ -86,7 +86,7 @@ genannten Zeitpunkts eine juristische Person des privaten Rechts mit
 der Wahrnehmung der Flugsicherungsaufgaben betraut, gilt Satz 1 für
 diese Stelle entsprechend.
 
-(7) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung
+(7) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird
 ermächtigt, zur Überleitung des Bundesrechts im Einvernehmen mit dem
 Bundesministerium der Finanzen in Berlin (West) gelegene Wasserstraßen
 durch Rechtsverordnung zu Bundeswasserstraßen zu erklären, die als

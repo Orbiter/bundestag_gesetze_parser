@@ -17,22 +17,7 @@ Fundstelle
 :   BGBl I: 1988, 2477, 2482
 
 Zuletzt geändert durch
-:   Art. 5b G v. 22.12.2023 I Nr. 408
-
-Änderung durch
-:   Art. 1 G v. 22.3.2024 I Nr. 101 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 2 G v. 22.3.2024 I Nr. 101 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 3 G v. 22.3.2024 I Nr. 102 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 1 G v. 22.3.2024 I Nr. 105 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 33 u. Art. 35 Abs. 10 G v. 27.3.2024 I Nr. 108 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 8 G v. 3.2.2026 I Nr. 28
 
 
 ## Erstes Kapitel - Allgemeine Vorschriften
@@ -149,16 +134,12 @@ Beitragserhöhungen ausgeschlossen werden, es sei denn, die notwendige
 medizinische Versorgung ist auch nach Ausschöpfung von
 Wirtschaftlichkeitsreserven nicht zu gewährleisten.
 
-(5) Im Jahr 2023 dürfen sich die sächlichen Verwaltungsausgaben der
-einzelnen Krankenkasse nicht um mehr als 3 Prozent gegenüber dem
-Vorjahr erhöhen. Die Begrenzung nach Satz 1 gilt nicht für sächliche
-Verwaltungsausgaben, die wegen der Durchführung der
-Sozialversicherungswahlen einschließlich der Teilnahme am
-Modellprojekt zur Durchführung von Online-Wahlen und der Kostenumlage
-für dieses Modellprojekt nach § 194a Absatz 3 entstehen, sowie für
-Aufwendungen für Datentransparenz nach den §§ 303a bis 303e.
+(5) (weggefallen)
 
-(6) (weggefallen)
+(6) Im Jahr 2026 dürfen sich die sächlichen Verwaltungsausgaben einer
+Krankenkasse nicht um mehr als 8 Prozent gegenüber dem Jahr 2024
+erhöhen. Die Begrenzung nach Satz 1 gilt nicht für Aufwendungen für
+Datentransparenz nach den §§ 303a bis 303e.
 
 
 ### § 4a Wettbewerb der Krankenkassen, Verordnungsermächtigung
@@ -301,8 +282,9 @@ Abweichungen von den Regelungen des Verwaltungsverfahrens gemäß den §§
 
 6.  Teilnehmer an Leistungen zur Teilhabe am Arbeitsleben sowie an
     Abklärungen der beruflichen Eignung oder Arbeitserprobung, es sei
-    denn, sie gehören zu dem Personenkreis des § 151 des Vierzehnten
-    Buches
+    denn, sie gehören zum Personenkreis nach § 151 des Vierzehnten Buches
+    oder zum Personenkreis nach § 81 Absatz 3 des
+    Soldatenentschädigungsgesetzes,
 
 
 7.  behinderte Menschen, die in anerkannten Werkstätten für behinderte
@@ -669,11 +651,30 @@ versicherungspflichtig werden, sind versicherungsfrei, wenn sie in den
 letzten fünf Jahren vor Eintritt der Versicherungspflicht nicht
 gesetzlich versichert waren. Weitere Voraussetzung ist, dass diese
 Personen mindestens die Hälfte dieser Zeit versicherungsfrei, von der
-Versicherungspflicht befreit oder nach § 5 Abs. 5 nicht
-versicherungspflichtig waren. Der Voraussetzung nach Satz 2 stehen die
-Ehe oder die Lebenspartnerschaft mit einer in Satz 2 genannten Person
-gleich. Satz 1 gilt nicht für Personen, die nach § 5 Abs. 1 Nr. 13
-versicherungspflichtig sind.
+Versicherungspflicht befreit oder nach § 5 Absatz 5 nicht
+versicherungspflichtig waren. Entfällt für diese Personen die
+Versicherungsfreiheit, die Befreiung von der Versicherungspflicht oder
+die hauptberufliche selbständige Erwerbstätigkeit nach Vollendung des
+55\. Lebensjahres, gelten die Versicherungsfreiheit, die Befreiung von
+der Versicherungspflicht oder die wegen hauptberuflich selbständiger
+Erwerbstätigkeit nicht bestehende Versicherungspflicht nach § 5 Absatz
+5 als im Sinne des Satzes 2 fortbestehend. Der Voraussetzung nach Satz
+2 auch in Verbindung mit Satz 3 steht die Ehe oder die
+Lebenspartnerschaft mit einer in den Sätzen 2 und 3 genannten Person
+gleich. Satz 1 gilt nicht für Personen, die nach § 5 Absatz 1 Nummer
+13 versicherungspflichtig sind.
+
+(3b) Personen, die nach Vollendung des 55. Lebensjahres eine
+Absicherung im Krankheitsfall begründen, die nach zwischenstaatlichen
+oder supranationalen Vorschriften einer Versicherung in der
+gesetzlichen Krankenversicherung gleichgestellt ist, sind, auch wenn
+sie nach Begründung dieser Absicherung im Krankheitsfall nach diesem
+Buch versicherungspflichtig werden, versicherungsfrei, wenn sie in den
+letzten fünf Jahren vor der Begründung dieser Absicherung im
+Krankheitsfall nicht gesetzlich versichert waren und mindestens die
+Hälfte dieser Zeit versicherungsfrei, von der Versicherungspflicht
+befreit oder nach § 5 Absatz 5 nicht versicherungspflichtig waren.
+Absatz 3a Satz 4 gilt entsprechend.
 
 (4) Wird die Jahresarbeitsentgeltgrenze überschritten, endet die
 Versicherungspflicht mit Ablauf des Kalenderjahres, in dem sie
@@ -956,44 +957,62 @@ diese Familienangehörigen
 1.  ihren Wohnsitz oder gewöhnlichen Aufenthalt im Inland haben,
 
 
-2.  nicht nach § 5 Abs. 1 Nr. 1, 2, 2a, 3 bis 8, 11 bis 12 oder nicht
+2.  nicht nach § 5 Absatz 1 Nummer 1 bis 8, 11 bis 12 oder nicht
     freiwillig versichert sind,
 
 
 3.  nicht versicherungsfrei oder nicht von der Versicherungspflicht
-    befreit sind; dabei bleibt die Versicherungsfreiheit nach § 7 außer
-    Betracht,
+    befreit sind,
 
 
 4.  nicht hauptberuflich selbständig erwerbstätig sind und
 
 
 5.  kein Gesamteinkommen haben, das regelmäßig im Monat ein Siebtel der
-    monatlichen Bezugsgröße nach § 18 des Vierten Buches überschreitet;
-    bei Abfindungen, Entschädigungen oder ähnlichen Leistungen
-    (Entlassungsentschädigungen), die wegen der Beendigung eines
-    Arbeitsverhältnisses in Form nicht monatlich wiederkehrender
-    Leistungen gezahlt werden, wird das zuletzt erzielte monatliche
-    Arbeitsentgelt für die der Auszahlung der Entlassungsentschädigung
-    folgenden Monate bis zu dem Monat berücksichtigt, in dem im Fall der
-    Fortzahlung des Arbeitsentgelts die Höhe der gezahlten
-    Entlassungsentschädigung erreicht worden wäre; bei Renten wird der
-    Zahlbetrag ohne den auf Entgeltpunkte für Kindererziehungszeiten
-    entfallenden Teil berücksichtigt; für Familienangehörige, die eine
-    geringfügige Beschäftigung nach § 8 Absatz 1 Nummer 1 oder § 8a des
-    Vierten Buches in Verbindung mit § 8 Absatz 1 Nummer 1 des Vierten
-    Buches ausüben, ist ein regelmäßiges monatliches Gesamteinkommen bis
-    zur Geringfügigkeitsgrenze zulässig.
+    monatlichen Bezugsgröße nach § 18 des Vierten Buches überschreitet.
 
 
 
-Eine hauptberufliche selbständige Tätigkeit im Sinne des Satzes 1 Nr.
-4 ist nicht deshalb anzunehmen, weil eine Versicherung nach § 1 Abs. 3
-des Gesetzes über die Alterssicherung der Landwirte vom 29. Juli 1994
-(BGBl. I S. 1890, 1891) besteht. Ehegatten und Lebenspartner sind für
-die Dauer der Schutzfristen nach § 3 des Mutterschutzgesetzes sowie
-der Elternzeit nicht versichert, wenn sie zuletzt vor diesen
-Zeiträumen nicht gesetzlich krankenversichert waren.
+Die Versicherungsfreiheit nach § 7 bleibt bei der Prüfung der
+Voraussetzung nach Satz 1 Nummer 3 außer Betracht. Eine
+hauptberufliche selbständige Tätigkeit im Sinne des Satzes 1 Nummer 4
+ist nicht deshalb anzunehmen, weil eine Versicherung nach § 1 Absatz 3
+des Gesetzes über die Alterssicherung der Landwirte besteht. Bei
+Abfindungen, Entschädigungen oder ähnlichen Leistungen
+(Entlassungsentschädigungen), die wegen der Beendigung eines
+Arbeitsverhältnisses in Form nicht monatlich wiederkehrender
+Leistungen gezahlt werden, wird zur Ermittlung des Gesamteinkommens
+nach Satz 1 Nummer 5 das zuletzt erzielte monatliche Arbeitsentgelt
+für die der Auszahlung der Entlassungsentschädigung folgenden Monate
+bis zu dem Monat berücksichtigt, in dem im Fall der Fortzahlung des
+Arbeitsentgelts die Höhe der gezahlten Entlassungsentschädigung
+erreicht worden wäre. Renten werden für das Gesamteinkommen nach Satz
+1 Nummer 5 mit dem Zahlbetrag ohne den auf Entgeltpunkte für
+Kindererziehungszeiten entfallenden Teil berücksichtigt. Für
+Familienangehörige, die eine geringfügige Beschäftigung nach § 8
+Absatz 1 Nummer 1 des Vierten Buches oder § 8a des Vierten Buches in
+Verbindung mit § 8 Absatz 1 Nummer 1 des Vierten Buches ausüben, ist
+ein regelmäßiges monatliches Gesamteinkommen im Sinne des Satzes 1
+Nummer 5 bis zur Geringfügigkeitsgrenze zulässig. Ehegatten und
+Lebenspartner sind abweichend von Satz 1 für die Dauer der
+Schutzfristen nach § 3 des Mutterschutzgesetzes und für die Dauer der
+Elternzeit nicht versichert, wenn sie zuletzt vor diesen Zeiträumen
+nicht gesetzlich krankenversichert waren. Ehegatten und Lebenspartner
+sind abweichend von Satz 1 nicht versichert, wenn sie
+
+1.  eine Rente wegen Alters als Teilrente in Anspruch nehmen,
+
+
+2.  die in Satz 1 Nummer 5 genannte Voraussetzung nicht erfüllen würden,
+    wenn sie die Rente stattdessen in voller Höhe in Anspruch nehmen
+    würden und
+
+
+3.  zuletzt vor Inanspruchnahme der Teilrente nicht gesetzlich
+    krankenversichert waren.
+
+
+
 
 (2) Kinder sind versichert
 
@@ -1325,10 +1344,14 @@ versicherten Angehörigen.
 #### § 15 Ärztliche Behandlung, elektronische Gesundheitskarte
 
 (1) Ärztliche oder zahnärztliche Behandlung wird von Ärzten oder
-Zahnärzten erbracht, soweit nicht in Modellvorhaben nach § 63 Abs. 3c
+Zahnärzten erbracht, soweit nicht in Modellvorhaben nach § 63 Absatz
+3c in der bis zum 29. Dezember 2025 geltenden Fassung oder in § 15a
 etwas anderes bestimmt ist. Sind Hilfeleistungen anderer Personen
 erforderlich, dürfen sie nur erbracht werden, wenn sie vom Arzt
-(Zahnarzt) angeordnet und von ihm verantwortet werden.
+(Zahnarzt) angeordnet und von ihm verantwortet werden. Die
+Pflegeprozessverantwortung im Sinne von § 4 Absatz 1 Satz 1 des
+Pflegeberufegesetzes ist nicht Teil der ärztlichen oder zahnärztlichen
+Behandlung.
 
 (2) Versicherte, die ärztliche, zahnärztliche oder
 psychotherapeutische Behandlung in Anspruch nehmen, haben dem Arzt,
@@ -1370,6 +1393,47 @@ Gesundheitskarte mitwirkt; hierauf ist der Versicherte bei der
 erstmaligen Ausstellung einer Ersatzbescheinigung hinzuweisen. Die
 Krankenkasse kann die Aushändigung der elektronischen Gesundheitskarte
 vom Vorliegen der Meldung nach § 10 Abs. 6 abhängig machen.
+
+
+#### § 15a Behandlung durch Pflegefachpersonen, Pflegeprozessverantwortung
+
+(1) Pflegefachpersonen, die über die erforderlichen fachlichen
+Kompetenzen aufgrund ihrer vorgeschriebenen beruflichen oder
+hochschulischen Ausbildung, aufgrund einer staatlich anerkannten,
+bundesweit einheitlichen Weiterbildung oder aufgrund einer solchen
+Weiterbildung entsprechenden Berufserfahrung, die durch eine
+staatliche Kompetenzfeststellung der Länder nachgewiesen wurde,
+verfügen, können insbesondere die folgenden Leistungen der ärztlichen
+Behandlung im Rahmen der Leistungserbringung nach diesem Buch unter
+den folgenden Voraussetzungen eigenverantwortlich erbringen:
+
+1.  nach ärztlicher Diagnose und Indikationsstellung oder nach
+    pflegerischer Diagnose durch die Pflegefachperson die in den nach §
+    73d Absatz 1 Satz 1 Nummer 1 und § 112a Absatz 1 vereinbarten
+    Katalogen genannten Leistungen,
+
+
+2.  nach einer erstmaligen ärztlichen Verordnung die Verordnung der in dem
+    nach § 73d Absatz 1 Satz 1 Nummer 2 vereinbarten Katalog genannten
+    Leistungen der häuslichen Krankenpflege, einschließlich der Verordnung
+    der in diesem Katalog als für diese Leistungen benötigt genannten
+    Hilfsmittel nach § 33, und
+
+
+3.  bis zum Abschluss des Vertrags nach § 73d Absatz 1 Satz 1 die in
+    Anlage 1 des nach § 64d Absatz 1 Satz 4 geschlossenen Rahmenvertrags
+    genannten Leistungen der ärztlichen Behandlung.
+
+
+
+
+(2) Pflegefachpersonen nehmen im Rahmen der Leistungserbringung nach
+diesem Buch die Pflegeprozessverantwortung im Sinne des § 4 Absatz 1
+Satz 1 des Pflegeberufegesetzes wahr.
+
+(3) Pflegefachpersonen im Sinne dieses Buches sind Personen, die über
+eine Erlaubnis nach den §§ 1 oder 58 Absatz 1 oder 2 des
+Pflegeberufegesetzes oder § 64 des Pflegeberufegesetzes verfügen.
 
 
 #### § 16 Ruhen des Anspruchs
@@ -1648,19 +1712,31 @@ Prävention nach Absatz 4 Nummer 1 erbringen, wenn diese nach Absatz 2
 Satz 2 von einer Krankenkasse oder von einem mit der Wahrnehmung
 dieser Aufgabe beauftragten Dritten in ihrem Namen zertifiziert ist.
 Bei ihrer Entscheidung über eine Leistung zur verhaltensbezogenen
-Prävention berücksichtigt die Krankenkasse eine Präventionsempfehlung
-nach § 25 Absatz 1 Satz 2, nach § 26 Absatz 1 Satz 3 oder eine im
-Rahmen einer arbeitsmedizinischen Vorsorge oder einer sonstigen
-ärztlichen Untersuchung schriftlich abgegebene Empfehlung. Die
-Krankenkasse darf die sich aus der Präventionsempfehlung ergebenden
-personenbezogenen Daten nur mit schriftlicher oder elektronischer
-Einwilligung und nach vorheriger schriftlicher oder elektronischer
-Information des Versicherten verarbeiten. Die Krankenkassen dürfen
-ihre Aufgaben nach dieser Vorschrift an andere Krankenkassen, deren
-Verbände oder Arbeitsgemeinschaften übertragen. Für Leistungen zur
-verhaltensbezogenen Prävention, die die Krankenkasse wegen besonderer
-beruflicher oder familiärer Umstände wohnortfern erbringt, gilt § 23
-Absatz 2 Satz 2 entsprechend.
+Prävention berücksichtigen die Krankenkassen
+
+1.  eine Präventionsempfehlung nach § 25 Absatz 1 Satz 2 oder § 26 Absatz
+    1 Satz 3,
+
+
+2.  eine Präventionsempfehlung nach § 5 Absatz 1a Satz 3 Nummer 2 und Satz
+    5 und 6 des Elften Buches oder § 18b Absatz 2 Satz 1 des Elften Buches
+    oder
+
+
+3.  eine im Rahmen einer arbeitsmedizinischen Vorsorge oder einer
+    sonstigen ärztlichen Untersuchung schriftlich abgegebene Empfehlung.
+
+
+
+Die Krankenkasse darf die sich aus der Präventionsempfehlung
+ergebenden personenbezogenen Daten nur mit schriftlicher oder
+elektronischer Einwilligung und nach vorheriger schriftlicher oder
+elektronischer Information des Versicherten verarbeiten. Die
+Krankenkassen dürfen ihre Aufgaben nach dieser Vorschrift an andere
+Krankenkassen, deren Verbände oder Arbeitsgemeinschaften übertragen.
+Für Leistungen zur verhaltensbezogenen Prävention, die die
+Krankenkasse wegen besonderer beruflicher oder familiärer Umstände
+wohnortfern erbringt, gilt § 23 Absatz 2 Satz 2 entsprechend.
 
 (6) Die Ausgaben der Krankenkassen für die Wahrnehmung ihrer Aufgaben
 nach dieser Vorschrift und nach den §§ 20a bis 20c sollen ab dem Jahr
@@ -2328,7 +2404,7 @@ Satzes 2 erlassenen Rechtsverordnung zu bestimmen, dass Regelungen
 dieser Rechtsverordnung, die die Abrechnung und die Prüfung bereits
 erbrachter Leistungen, die Zahlung aus der Liquiditätsreserve des
 Gesundheitsfonds sowie die Erstattung dieser Zahlungen aus
-Bundesmitteln betreffen, bis zum 31. Dezember 2024 fortgelten. Soweit
+Bundesmitteln betreffen, bis zum 31. Dezember 2028 fortgelten. Soweit
 und solange eine auf Grund des Satzes 1 oder des Satzes 2 erlassene
 Rechtsverordnung in Kraft ist, hat der Gemeinsame Bundesausschuss,
 soweit die Ständige Impfkommission Empfehlungen für Schutzimpfungen
@@ -2578,15 +2654,15 @@ Vorschriften getragen oder bezuschusst worden sind, es sei denn, eine
 vorzeitige Leistung ist aus medizinischen Gründen dringend
 erforderlich.
 
-(5a) Gilt nach § 42a Absatz 4 Satz 1 des Elften Buches ein Antrag auf
+(5a) Gilt nach § 42b Absatz 4 Satz 1 des Elften Buches ein Antrag auf
 Leistungen zur medizinischen Vorsorge nach Absatz 4 Satz 1 zugleich
-als Antrag eines Pflegebedürftigen auf Leistungen nach § 42a Absatz 1
+als Antrag eines Pflegebedürftigen auf Leistungen nach § 42b Absatz 1
 Satz 1 des Elften Buches, so leitet die Krankenkasse den Antrag an die
 Pflegekasse oder das private Versicherungsunternehmen, das die private
 Pflege-Pflichtversicherung durchführt, weiter und benennt gegenüber
 der Pflegekasse oder dem privaten Versicherungsunternehmen, das die
 private Pflege-Pflichtversicherung durchführt, unverzüglich geeignete
-Einrichtungen, sofern die Versorgung des Pflegebedürftigen nach § 42a
+Einrichtungen, sofern die Versorgung des Pflegebedürftigen nach § 42b
 Absatz 1 Satz 1 des Elften Buches in derselben Einrichtung gewünscht
 ist.
 
@@ -2637,7 +2713,10 @@ Mitteln.
 Versorgung mit verschreibungspflichtigen empfängnisverhütenden
 Mitteln; § 31 Abs. 2 bis 4 gilt entsprechend. Satz 1 gilt entsprechend
 für nicht verschreibungspflichtige Notfallkontrazeptiva, soweit sie
-ärztlich verordnet werden; § 129 Absatz 5a gilt entsprechend.
+ärztlich verordnet werden; § 129 Absatz 5a gilt entsprechend. Der
+Anspruch nach Satz 2 besteht für Versicherte ohne Altersbeschränkung,
+wenn Hinweise auf einen sexuellen Missbrauch oder eine Vergewaltigung
+vorliegen.
 
 
 #### § 24b Schwangerschaftsabbruch und Sterilisation
@@ -2842,25 +2921,12 @@ nach den Vorschriften des Mutterschutzgesetzes gezahlt. Für Frauen
 nach Absatz 1 Satz 2 sowie für andere Mitglieder wird das
 Mutterschaftsgeld in Höhe des Krankengeldes gezahlt.
 
-(3) Das Mutterschaftsgeld wird für die letzten sechs Wochen vor dem
-voraussichtlichen Tag der Entbindung, den Entbindungstag und für die
-ersten acht Wochen nach der Entbindung gezahlt. Bei Früh- und
-Mehrlingsgeburten sowie in Fällen, in denen vor Ablauf von acht Wochen
-nach der Entbindung bei dem Kind eine Behinderung im Sinne von § 2
-Absatz 1 Satz 1 des Neunten Buches ärztlich festgestellt und ein
-Antrag nach § 3 Absatz 2 Satz 4 des Mutterschutzgesetzes gestellt
-wird, verlängert sich der Zeitraum der Zahlung des Mutterschaftsgeldes
-nach Satz 1 auf die ersten zwölf Wochen nach der Entbindung. Wird bei
-Frühgeburten und sonstigen vorzeitigen Entbindungen der Zeitraum von
-sechs Wochen vor dem voraussichtlichen Tag der Entbindung verkürzt, so
-verlängert sich die Bezugsdauer um den Zeitraum, der vor der
-Entbindung nicht in Anspruch genommen werden konnte. Für die Zahlung
-des Mutterschaftsgeldes vor der Entbindung ist das Zeugnis eines
-Arztes oder einer Hebamme maßgebend, in dem der voraussichtliche Tag
-der Entbindung angegeben ist. Bei Entbindungen nach dem
-voraussichtlichen Tag der Entbindung verlängert sich die Bezugsdauer
-bis zum Tag der Entbindung entsprechend. Für Mitglieder, deren
-Arbeitsverhältnis während der Schutzfristen nach § 3 des
+(3) Das Mutterschaftsgeld wird für die Zeit der Schutzfrist nach § 3
+des Mutterschutzgesetzes sowie für den Entbindungstag gezahlt. Für die
+Zahlung des Mutterschaftsgeldes vor der Entbindung ist das Zeugnis
+eines Arztes oder einer Hebamme maßgebend, in dem der voraussichtliche
+Tag der Entbindung angegeben ist. Für Mitglieder, deren
+Arbeitsverhältnis während der Schutzfristen nach § 3 des
 Mutterschutzgesetzes beginnt, wird das Mutterschaftsgeld von Beginn
 des Arbeitsverhältnisses an gezahlt.
 
@@ -2868,6 +2934,18 @@ des Arbeitsverhältnisses an gezahlt.
 Mitglied beitragspflichtiges Arbeitsentgelt, Arbeitseinkommen oder
 Urlaubsabgeltung erhält. Dies gilt nicht für einmalig gezahltes
 Arbeitsentgelt.
+
+(5) Bei Personen, die nach einem Abkommen zur Vermeidung der
+Doppelbesteuerung nicht in der Bundesrepublik Deutschland ansässig
+sind und deren Ansässigkeitsstaat nach diesem Abkommen das
+Besteuerungsrecht für das Mutterschaftsgeld zusteht, sind für die
+Berechnung des Mutterschaftsgeldes nur die Beiträge zur
+Sozialversicherung als das durchschnittliche kalendertägliche
+Arbeitsentgelt nach Absatz 2 Satz 1 vermindernde gesetzliche Abzüge zu
+berücksichtigen. Unterliegt das Mutterschaftsgeld im
+Ansässigkeitsstaat nach dessen maßgebenden Vorschriften nicht der
+Steuer, sind alle gesetzlichen Abzüge nach Absatz 2 Satz 1 zu
+berücksichtigen.
 
 
 ### Vierter Abschnitt - Leistungen zur Erfassung von gesundheitlichen Risiken und Früherkennung von Krankheiten
@@ -3552,11 +3630,11 @@ vor dem geplanten Eingriff erfolgt. In jedem Fall hat die Aufklärung
 so rechtzeitig zu erfolgen, dass der Versicherte seine Entscheidung
 über die Einholung einer Zweitmeinung wohlüberlegt treffen kann. Der
 Arzt hat den Versicherten auf sein Recht auf Überlassung von
-Abschriften der Befundunterlagen aus der Patientenakte gemäß § 630g
-Absatz 2 des Bürgerlichen Gesetzbuchs, die für die Einholung der
-Zweitmeinung erforderlich sind, hinzuweisen. Die Kosten, die dem Arzt
-durch die Zusammenstellung und Überlassung von Befundunterlagen für
-die Zweitmeinung entstehen, trägt die Krankenkasse.
+Abschriften der Befundunterlagen aus der Behandlungsakte nach § 630g
+Absatz 1 Satz 3 des Bürgerlichen Gesetzbuchs, die für die Einholung
+der Zweitmeinung erforderlich sind, hinzuweisen. Die Kosten, die dem
+Arzt durch die Zusammenstellung und Überlassung von Befundunterlagen
+für die Zweitmeinung entstehen, trägt die Krankenkasse.
 
 (6) Die Krankenkasse kann in ihrer Satzung zusätzliche Leistungen zur
 Einholung einer unabhängigen ärztlichen Zweitmeinung vorsehen. Sofern
@@ -3778,16 +3856,16 @@ stabilisieren, zu immobilisieren oder zu komprimieren. Das Nähere zur
 Abgrenzung von Verbandmitteln zu sonstigen Produkten zur
 Wundbehandlung regelt der Gemeinsame Bundesausschuss bis zum 31.
 August 2020 in den Richtlinien nach § 92 Absatz 1 Satz 2 Nummer 6;
-Absatz 1 Satz 2 gilt für diese sonstigen Produkte entsprechend. Bis 48
-Monate nach dem Wirksamwerden der Regelungen nach Satz 4 sind solche
-Gegenstände weiterhin zu Lasten der Krankenkassen zu erbringen, die
-vor dem Wirksamwerden der Regelungen nach Satz 4 erbracht wurden. Der
-Gemeinsame Bundesausschuss berät Hersteller von sonstigen Produkten
-zur Wundbehandlung im Rahmen eines Antragsverfahrens insbesondere zu
-konkreten Inhalten der vorzulegenden Unterlagen und Studien. § 34
-Absatz 6 gilt entsprechend. Für die Beratung sind Gebühren zu erheben.
-Das Nähere zur Beratung und zu den Gebühren regelt der Gemeinsame
-Bundesausschuss in seiner Verfahrensordnung.
+Absatz 1 Satz 2 gilt für diese sonstigen Produkte entsprechend. Bis
+zum 31. Dezember 2026 sind solche Gegenstände weiterhin zu Lasten der
+Krankenkassen zu erbringen, die vor dem Wirksamwerden der Regelungen
+nach Satz 4 erbracht wurden. Der Gemeinsame Bundesausschuss berät
+Hersteller von sonstigen Produkten zur Wundbehandlung im Rahmen eines
+Antragsverfahrens insbesondere zu konkreten Inhalten der vorzulegenden
+Unterlagen und Studien. § 34 Absatz 6 gilt entsprechend. Für die
+Beratung sind Gebühren zu erheben. Das Nähere zur Beratung und zu den
+Gebühren regelt der Gemeinsame Bundesausschuss in seiner
+Verfahrensordnung.
 
 (1b) Für Versicherte, die eine kontinuierliche Versorgung mit einem
 bestimmten Arzneimittel benötigen, können Vertragsärzte Verordnungen
@@ -3974,7 +4052,14 @@ Spitzenverband Bund der Krankenkassen als Bestandteil der
 Bundesmantelverträge. Jeder an der vertragsärztlichen Versorgung
 teilnehmende Arzt ist verpflichtet, bei der Verordnung eines
 Arzneimittels den Versicherten, der einen Anspruch nach Satz 1 hat,
-über diesen Anspruch zu informieren.
+über diesen Anspruch zu informieren. Ab dem Zeitpunkt, zu dem die
+elektronische Patientenakte gemäß § 342 Absatz 1 Satz 2 zur Verfügung
+steht, ist der an der vertragsärztlichen Versorgung teilnehmende Arzt
+nach Satz 1 verpflichtet, einen elektronischen Medikationsplan zu
+erstellen, soweit der Versicherte einen Anspruch nach Satz 1 hat und
+dem Zugriff des Arztes auf Daten nach § 342 Absatz 2a in der
+elektronischen Patientenakte gemäß § 353 Absatz 1 oder 2 nicht
+widersprochen hat.
 
 (2) In dem Medikationsplan sind mit Anwendungshinweisen zu
 dokumentieren
@@ -4011,7 +4096,18 @@ September 2020 an die Telematikinfrastruktur nach § 291a Absatz 7 Satz
 elektronischen Medikationsplan nach § 334 Absatz 1 Satz 2 Nummer 4 zu
 speichern, sofern der Versicherte dies wünscht.
 
-(3a) Bei der Angabe von Fertigarzneimitteln sind im Medikationsplan
+(3a) Ab dem Zeitpunkt, zu dem die elektronische Patientenakte gemäß §
+342 Absatz 1 Satz 2 zur Verfügung steht, sind die nach Absatz 3 Satz 3
+an der vertragsärztlichen Versorgung teilnehmenden Ärzte sowie die
+abgebenden Apotheken nach Absatz 3 Satz 2 verpflichtet, den
+Medikationsplan nach Absatz 1 Satz 1 zu aktualisieren und diese
+Aktualisierungen nach Absatz 3 Satz 5 im elektronischen
+Medikationsplan zu speichern, soweit der Versicherte dem Zugriff des
+Arztes oder der abgebenden Apotheke auf Daten nach § 342 Absatz 2a in
+der elektronischen Patientenakte nicht gemäß § 353 Absatz 1 oder 2
+widersprochen hat.
+
+(3b) Bei der Angabe von Fertigarzneimitteln sind im Medikationsplan
 neben der Arzneimittelbezeichnung insbesondere auch die
 Wirkstoffbezeichnung, die Darreichungsform und die Wirkstärke des
 Arzneimittels anzugeben. Hierfür sind einheitliche Bezeichnungen zu
@@ -4258,9 +4354,12 @@ Hilfsmittel anpassen oder sich in seinem Gebrauch ausbilden lassen.
 (5a) Eine vertragsärztliche Verordnung ist für die Beantragung von
 Leistungen nach den Absätzen 1 bis 4 nur erforderlich, soweit eine
 erstmalige oder erneute ärztliche Diagnose oder Therapieentscheidung
-medizinisch geboten ist. Abweichend von Satz 1 können die
-Krankenkassen eine vertragsärztliche Verordnung als Voraussetzung für
-die Kostenübernahme verlangen, soweit sie auf die Genehmigung der
+medizinisch geboten ist. Einer vertragsärztlichen Verordnung nach Satz
+1 bedarf es nicht, wenn eine Pflegefachperson die Leistung nach § 15a
+Absatz 1 Nummer 2 verordnet hat. Abweichend von Satz 1 können die
+Krankenkassen eine vertragsärztliche Verordnung oder eine Verordnung
+einer Pflegefachperson nach § 15a Absatz 1 Nummer 2 als Voraussetzung
+für die Kostenübernahme verlangen, soweit sie auf die Genehmigung der
 beantragten Hilfsmittelversorgung verzichtet haben. § 18b Absatz 3 und
 § 40 Absatz 6 des Elften Buches sind zu beachten.
 
@@ -4271,6 +4370,16 @@ zu prüfen. Sie können in geeigneten Fällen durch den Medizinischen
 Dienst vor Bewilligung eines Hilfsmittels nach § 275 Absatz 3 Nummer 1
 prüfen lassen, ob das Hilfsmittel erforderlich ist. Eine Beauftragung
 Dritter ist nicht zulässig.
+
+(5c) Die Erforderlichkeit eines Hilfsmittels wird vermutet, wenn sich
+der Versicherte in einem sozialpädiatrischen Zentrum, das nach § 119
+Absatz 1 ermächtigt wurde, oder in einem medizinischen
+Behandlungszentrum für Erwachsene mit geistiger Behinderung oder
+schweren Mehrfachbehinderungen, das nach § 119c Absatz 1 ermächtigt
+wurde, in Behandlung befindet und die beantragte Hilfsmittelversorgung
+von dem dort tätigen behandelnden Arzt im Rahmen der Behandlung
+innerhalb der letzten drei Wochen vor der Antragstellung empfohlen
+worden ist.
 
 (6) Die Versicherten können alle Leistungserbringer in Anspruch
 nehmen, die Vertragspartner ihrer Krankenkasse sind. Vertragsärzte
@@ -4699,7 +4808,11 @@ berücksichtigen. Für die Zahl der Verordnungen sind die zum Zeitpunkt
 des Berechnungsstichtages zuletzt verfügbaren Jahresdaten nach § 84
 Abs. 5 zu Grunde zu legen. Hebt der Spitzenverband Bund der
 Krankenkassen einen Festbetrag auf und findet anschließend § 130a
-Absatz 3a Anwendung, gilt § 130a Absatz 3d Satz 2.
+Absatz 3a Anwendung, gilt § 130a Absatz 3d Satz 2. Die Festsetzung von
+Festbeträgen für Festbetragsgruppen, die in § 35a Absatz 1 Satz 1
+genannte Arzneimittel beinhalten, erfolgt auf Grundlage der für diese
+Arzneimittel nach § 130b vereinbarten oder festgesetzten
+Erstattungsbeträge.
 
 (5a) Das Bundesinstitut für Arzneimittel und Medizinprodukte erstellt
 nach Anhörung des nach § 52b Absatz 3b des Arzneimittelgesetzes
@@ -4813,7 +4926,13 @@ enthalten müssen:
 5.  Kosten der Therapie für die gesetzliche Krankenversicherung,
 
 
-6.  Anforderung an eine qualitätsgesicherte Anwendung.
+6.  Anforderung an eine qualitätsgesicherte Anwendung,
+
+
+7.  Anzahl der Prüfungsteilnehmer an den vom pharmazeutischen Unternehmer
+    durchgeführten oder in Auftrag gegebenen klinischen Prüfungen, die an
+    Prüfstellen im Geltungsbereich dieses Gesetzes teilgenommen haben, und
+    Gesamtzahl der Prüfungsteilnehmer.
 
 
 
@@ -5028,14 +5147,23 @@ beträchtlichen Zusatznutzen der Kombination festgestellt oder nach
 Absatz 1d Satz 1 festgestellt, dass die Kombination einen mindestens
 beträchtlichen Zusatznutzen erwarten lässt; bis zum 12. November 2022
 bereits gefasste Beschlüsse sind bis zum 1. Mai 2023 entsprechend zu
-ergänzen. Die Geltung des Beschlusses über die Nutzenbewertung kann
-befristet werden. Der Beschluss ist im Internet zu veröffentlichen.
-Der Beschluss ist Teil der Richtlinie nach § 92 Absatz 1 Satz 2 Nummer
-6; § 94 Absatz 1 gilt nicht. Innerhalb eines Monats nach der
-Beschlussfassung veröffentlicht die Geschäftsstelle des Gemeinsamen
-Bundesausschusses zur Information der Öffentlichkeit zudem den
-Beschluss und die tragenden Gründe in englischer Sprache auf der
-Internetseite des Gemeinsamen Bundesausschusses.
+ergänzen. Für ab dem 1. Januar 2025 in Verkehr gebrachte Arzneimittel
+stellt der Gemeinsame Bundesausschuss in dem Beschluss fest, ob die
+klinischen Prüfungen des Arzneimittels zu einem relevanten Anteil im
+Geltungsbereich dieses Gesetzes durchgeführt wurden. Das ist der Fall,
+wenn der Anteil der Prüfungsteilnehmer an den vom pharmazeutischen
+Unternehmer durchgeführten oder in Auftrag gegebenen klinischen
+Prüfungen des Arzneimittels, die an Prüfstellen im Geltungsbereich
+dieses Gesetzes teilgenommen haben, an der Gesamtzahl der
+Prüfungsteilnehmer mindestens 5 Prozent beträgt. Die Geltung des
+Beschlusses über die Nutzenbewertung kann befristet werden. Der
+Beschluss ist im Internet zu veröffentlichen. Der Beschluss ist Teil
+der Richtlinie nach § 92 Absatz 1 Satz 2 Nummer 6; § 94 Absatz 1 gilt
+nicht. Innerhalb eines Monats nach der Beschlussfassung veröffentlicht
+die Geschäftsstelle des Gemeinsamen Bundesausschusses zur Information
+der Öffentlichkeit zudem den Beschluss und die tragenden Gründe in
+englischer Sprache auf der Internetseite des Gemeinsamen
+Bundesausschusses.
 
 (3a) Der Gemeinsame Bundesausschuss veröffentlicht innerhalb eines
 Monats nach dem Beschluss nach Absatz 3 eine maschinenlesbare Fassung
@@ -5332,19 +5460,21 @@ erteilen.
 ##### § 37 Häusliche Krankenpflege
 
 (1) Versicherte erhalten in ihrem Haushalt, ihrer Familie oder sonst
-an einem geeigneten Ort, insbesondere in betreuten Wohnformen, Schulen
-und Kindergärten, bei besonders hohem Pflegebedarf auch in Werkstätten
-für behinderte Menschen neben der ärztlichen Behandlung häusliche
-Krankenpflege durch geeignete Pflegekräfte, wenn Krankenhausbehandlung
-geboten, aber nicht ausführbar ist, oder wenn sie durch die häusliche
-Krankenpflege vermieden oder verkürzt wird. § 10 der
-Werkstättenverordnung bleibt unberührt. Die häusliche Krankenpflege
-umfaßt die im Einzelfall erforderliche Grund- und Behandlungspflege
-sowie hauswirtschaftliche Versorgung. Der Anspruch besteht bis zu vier
-Wochen je Krankheitsfall. In begründeten Ausnahmefällen kann die
-Krankenkasse die häusliche Krankenpflege für einen längeren Zeitraum
-bewilligen, wenn der Medizinische Dienst (§ 275) festgestellt hat, daß
-dies aus den in Satz 1 genannten Gründen erforderlich ist.
+an einem geeigneten Ort, insbesondere in betreuten Wohnformen,
+gemeinschaftlichen Wohnformen mit Verträgen zur pflegerischen
+Versorgung gemäß § 92c des Elften Buches, Schulen und Kindergärten,
+bei besonders hohem Pflegebedarf auch in Werkstätten für behinderte
+Menschen neben der ärztlichen Behandlung häusliche Krankenpflege durch
+geeignete Pflegekräfte, wenn Krankenhausbehandlung geboten, aber nicht
+ausführbar ist, oder wenn sie durch die häusliche Krankenpflege
+vermieden oder verkürzt wird. § 10 der Werkstättenverordnung bleibt
+unberührt. Die häusliche Krankenpflege umfaßt die im Einzelfall
+erforderliche Grund- und Behandlungspflege sowie hauswirtschaftliche
+Versorgung. Der Anspruch besteht bis zu vier Wochen je Krankheitsfall.
+In begründeten Ausnahmefällen kann die Krankenkasse die häusliche
+Krankenpflege für einen längeren Zeitraum bewilligen, wenn der
+Medizinische Dienst (§ 275) festgestellt hat, daß dies aus den in Satz
+1 genannten Gründen erforderlich ist.
 
 (1a) Versicherte erhalten an geeigneten Orten im Sinne von Absatz 1
 Satz 1 wegen schwerer Krankheit oder wegen akuter Verschlimmerung
@@ -5390,15 +5520,20 @@ Krankenkassen. Das Nähere zum Umlageverfahren und zur Zahlung an die
 Pflegeversicherung bestimmt der Spitzenverband Bund der Krankenkassen.
 
 (2b) Die häusliche Krankenpflege nach den Absätzen 1 und 2 umfasst
-auch die ambulante Palliativversorgung. Für Leistungen der ambulanten
-Palliativversorgung ist regelmäßig ein begründeter Ausnahmefall im
-Sinne von Absatz 1 Satz 5 anzunehmen. § 37b Absatz 4 gilt für die
-häusliche Krankenpflege zur ambulanten Palliativversorgung
-entsprechend.
+auch die ambulante Palliativversorgung sowie die nach § 15a Absatz 1
+Nummer 1 und 3 von Pflegefachpersonen erbrachten Leistungen. Für
+Leistungen der ambulanten Palliativversorgung ist regelmäßig ein
+begründeter Ausnahmefall im Sinne von Absatz 1 Satz 5 anzunehmen. §
+37b Absatz 4 gilt für die häusliche Krankenpflege zur ambulanten
+Palliativversorgung entsprechend.
 
 (3) Der Anspruch auf häusliche Krankenpflege besteht nur, soweit eine
 im Haushalt lebende Person den Kranken in dem erforderlichen Umfang
 nicht pflegen und versorgen kann.
+
+(3a) Ein Anspruch auf häusliche Krankenpflege besteht nicht für
+Versicherte, für die die Pflegekassen nach § 146a des Elften Buches
+die pflegebedingten Aufwendungen übernehmen.
 
 (4) Kann die Krankenkasse keine Kraft für die häusliche Krankenpflege
 stellen oder besteht Grund, davon abzusehen, sind den Versicherten die
@@ -5426,7 +5561,7 @@ Häuslichkeit von Versicherten erfolgen.
 Verordnung häuslicher Krankenpflege nach § 92 Absatz 1 Satz 2 Nummer 6
 bis zum 31. Juli 2022 Rahmenvorgaben zu einzelnen nach dem
 Leistungsverzeichnis der Richtlinie nach § 92 Absatz 1 Satz 2 Nummer 6
-verordnungsfähigen Maßnahmen, bei denen Pflegefachkräfte, die die in
+verordnungsfähigen Maßnahmen, bei denen Pflegefachpersonen, die die in
 den Rahmenempfehlungen nach § 132a Absatz 1 Satz 4 Nummer 7 geregelten
 Anforderungen erfüllen, innerhalb eines vertragsärztlich
 festgestellten Verordnungsrahmens selbst über die erforderliche
@@ -5571,9 +5706,9 @@ Palliativversorgung.
 (1) Versicherte mit einem besonders hohen Bedarf an medizinischer
 Behandlungspflege haben Anspruch auf außerklinische Intensivpflege.
 Ein besonders hoher Bedarf an medizinischer Behandlungspflege liegt
-vor, wenn die ständige Anwesenheit einer geeigneten Pflegefachkraft
+vor, wenn die ständige Anwesenheit einer geeigneten Pflegefachperson
 zur individuellen Kontrolle und Einsatzbereitschaft oder ein
-vergleichbar intensiver Einsatz einer Pflegefachkraft erforderlich
+vergleichbar intensiver Einsatz einer Pflegefachperson erforderlich
 ist. Der Anspruch auf außerklinische Intensivpflege umfasst die
 medizinische Behandlungspflege, die zur Sicherung des Ziels der
 ärztlichen Behandlung erforderlich ist, sowie eine Beratung durch die
@@ -5693,9 +5828,9 @@ ihrer Satzung bestimmen, dass die Leistungen nach Satz 1 unter den in
 Satz 2 genannten Voraussetzungen auch über den in Satz 2 genannten
 Zeitraum hinaus weitergewährt werden.
 
-(4) Kann die Krankenkasse keine qualifizierte Pflegefachkraft für die
+(4) Kann die Krankenkasse keine qualifizierte Pflegefachperson für die
 außerklinische Intensivpflege stellen, sind dem Versicherten die
-Kosten für eine selbstbeschaffte Pflegefachkraft in angemessener Höhe
+Kosten für eine selbstbeschaffte Pflegefachperson in angemessener Höhe
 zu erstatten. Die Möglichkeit der Leistungserbringung im Rahmen eines
 persönlichen Budgets nach § 2 Absatz 2 Satz 2, § 11 Absatz 1 Nummer 5
 des Fünften Buches in Verbindung mit § 29 des Neunten Buches bleibt
@@ -5950,12 +6085,12 @@ Förderung ist außerdem, dass der ambulante Hospizdienst
     zusammenarbeitet sowie
 
 
-2.  unter der fachlichen Verantwortung einer Krankenschwester, eines
-    Krankenpflegers oder einer anderen fachlich qualifizierten Person
-    steht, die über mehrjährige Erfahrung in der palliativ-medizinischen
-    Pflege oder über eine entsprechende Weiterbildung verfügt und eine
-    Weiterbildung als verantwortliche Pflegefachkraft oder in
-    Leitungsfunktionen nachweisen kann.
+2.  unter der fachlichen Verantwortung einer Pflegefachperson oder einer
+    anderen fachlich qualifizierten Person steht, die über mehrjährige
+    Erfahrung in der palliativ-medizinischen Pflege oder über eine
+    entsprechende Weiterbildung verfügt und eine Weiterbildung als
+    verantwortliche Pflegefachperson oder in Leitungsfunktionen nachweisen
+    kann.
 
 
 
@@ -6125,29 +6260,36 @@ Koordinierungstätigkeiten und die Höhe der Fördermittel zu
 
 ##### § 39e Übergangspflege im Krankenhaus
 
-(1) Können im unmittelbaren Anschluss an eine Krankenhausbehandlung
-erforderliche Leistungen der häuslichen Krankenpflege, der
-Kurzzeitpflege, Leistungen zur medizinischen Rehabilitation oder
-Pflegeleistungen nach dem Elften Buch nicht oder nur unter erheblichem
-Aufwand erbracht werden, erbringt die Krankenkasse Leistungen der
-Übergangspflege in dem Krankenhaus, in dem die Behandlung erfolgt ist.
-Die Übergangspflege im Krankenhaus umfasst die Versorgung mit Arznei-,
-Heil- und Hilfsmitteln, die Aktivierung der Versicherten, die Grund-
-und Behandlungspflege, ein Entlassmanagement, Unterkunft und
-Verpflegung sowie die im Einzelfall erforderliche ärztliche
-Behandlung. Ein Anspruch auf Übergangspflege im Krankenhaus besteht
-für längstens zehn Tage je Krankenhausbehandlung. Das Vorliegen der
-Voraussetzungen einer Übergangspflege ist vom Krankenhaus im Einzelnen
-nachprüfbar zu dokumentieren. Der Spitzenverband Bund der
-Krankenkassen, der Verband der privaten Krankenversicherung e. V. und
-die Deutsche Krankenhausgesellschaft vereinbaren bis zum 31. Oktober
-2021 das Nähere zur Dokumentation nach Satz 4. Kommt die Vereinbarung
-nach Satz 5 nicht fristgerecht zustande, legt die Schiedsstelle nach §
-18a Absatz 6 des Krankenhausfinanzierungsgesetzes ohne Antrag einer
-Vertragspartei innerhalb von sechs Wochen den Inhalt der Vereinbarung
-fest.
+(1) Versicherte haben im Anschluss an eine Krankenhausbehandlung für
+längstens zehn Tage Anspruch auf Übergangspflege
 
-(2) Versicherte, die das 18. Lebensjahr vollendet haben, zahlen vom
+1.  in einer sektorenübergreifenden Versorgungseinrichtung oder
+
+
+2.  an einem anderen Standort eines Krankenhauses, wenn im unmittelbaren
+    Anschluss an die Krankenhausbehandlung in diesem Krankenhaus
+    erforderliche Leistungen der häuslichen Krankenpflege, der
+    Kurzzeitpflege, Leistungen zur medizinischen Rehabilitation oder
+    Pflegeleistungen nach dem Elften Buch nicht oder nur unter erheblichem
+    Aufwand erbracht werden können.
+
+
+
+
+(2) Die Übergangspflege umfasst die Versorgung mit Arznei-, Heil- und
+Hilfsmitteln, die Aktivierung der Versicherten, die Grund- und
+Behandlungspflege, ein Entlassmanagement, Unterkunft und Verpflegung
+sowie die im Einzelfall erforderliche ärztliche Behandlung. Das
+Vorliegen der Voraussetzungen einer Übergangspflege ist vom
+Krankenhaus im Einzelnen nachprüfbar zu dokumentieren. Der
+Spitzenverband Bund der Krankenkassen, der Verband der Privaten
+Krankenversicherung e. V. und die Deutsche Krankenhausgesellschaft
+vereinbaren das Nähere zur Dokumentation nach Satz 2. Kommt die
+Vereinbarung nach Satz 3 nicht zustande, legt die Schiedsstelle nach §
+18a Absatz 6 des Krankenhausfinanzierungsgesetzes auf Antrag einer
+Vertragspartei den Inhalt der Vereinbarung fest.
+
+(3) Versicherte, die das 18. Lebensjahr vollendet haben, zahlen vom
 Beginn der Leistungen nach Absatz 1 an innerhalb eines Kalenderjahres
 für längstens 28 Tage den sich nach § 61 Satz 2 ergebenden Betrag je
 Kalendertag an das Krankenhaus. Zahlungen nach § 39 Absatz 4 sind
@@ -6282,16 +6424,16 @@ in der Einrichtung der Pflegepersonen im Sinne des § 19 Satz 1 des
 Elften Buches aufgenommen werden, koordiniert die Krankenkasse mit der
 Pflegkasse der Pflegebedürftigen deren Versorgung auf Wunsch der
 Pflegepersonen im Sinne des § 19 Satz 1 des Elften Buches und mit
-Einwilligung der Pflegebedürftigen. Gilt nach § 42a Absatz 4 Satz 1
+Einwilligung der Pflegebedürftigen. Gilt nach § 42b Absatz 4 Satz 1
 des Elften Buches ein Antrag auf Leistungen zur medizinischen
 Rehabilitation nach Absatz 2 Satz 1 zugleich als Antrag eines
-Pflegebedürftigen auf Leistungen nach § 42a Absatz 1 Satz 1 des Elften
+Pflegebedürftigen auf Leistungen nach § 42b Absatz 1 Satz 1 des Elften
 Buches, so leitet die Krankenkasse den Antrag an die Pflegekasse oder
 das private Versicherungsunternehmen, das die private Pflege-
 Pflichtversicherung durchführt, weiter und benennt gegenüber der
 Pflegekasse oder dem privaten Versicherungsunternehmen, das die
 private Pflege-Pflichtversicherung durchführt, unverzüglich geeignete
-Einrichtungen, sofern die Versorgung des Pflegebedürftigen nach § 42a
+Einrichtungen, sofern die Versorgung des Pflegebedürftigen nach § 42b
 des Elften Buches in derselben Einrichtung gewünscht ist.
 
 (4) Leistungen nach den Absätzen 1 und 2 werden nur erbracht, wenn
@@ -6550,10 +6692,10 @@ das ausgefallene Arbeitseinkommen im Sinne von Satz 2 aus demjenigen
 Arbeitseinkommen zu berechnen, das der Beitragsbemessung für die
 letzten zwölf Kalendermonate vor Beginn der Arbeitsunfähigkeit im
 Hinblick auf die Spende zugrunde gelegen hat. § 44 Absatz 3, § 47
-Absatz 2 bis 4, die §§ 47b, 49 und 50 gelten entsprechend; Ansprüche
-nach § 44 sind gegenüber Ansprüchen nach dieser Vorschrift
-ausgeschlossen. Ansprüche nach dieser Vorschrift haben auch nicht
-gesetzlich krankenversicherte Personen.
+Absatz 2 bis 5, die §§ 47b, 49 und 50 gelten entsprechend; Ansprüche
+nach § 44 Absatz 1 und 4 sind gegenüber Ansprüchen nach dieser
+Vorschrift ausgeschlossen. Ansprüche nach dieser Vorschrift haben auch
+nicht gesetzlich krankenversicherte Personen.
 
 
 ##### § 44b Krankengeld für eine bei stationärer Behandlung mitaufgenommene Begleitperson aus dem engsten persönlichen Umfeld
@@ -6671,15 +6813,14 @@ Arbeitsentgelt; es darf 70 Prozent der Beitragsbemessungsgrenze nach §
 Krankengeldes nach Absatz 1 oder Absatz 1a aus Arbeitseinkommen,
 beträgt dies 70 Prozent des erzielten regelmäßigen Arbeitseinkommens,
 soweit es der Beitragsberechnung unterliegt. § 47 Absatz 1 Satz 6 bis
-8, Absatz 4 Satz 3 bis 5 und § 47b gelten entsprechend.
+8, Absatz 4 Satz 3 bis 5, Absatz 5 und § 47b gelten entsprechend.
 
 (2a) Abweichend von Absatz 2 Satz 1 besteht der Anspruch auf
-Krankengeld nach Absatz 1 jeweils in dem Kalenderjahr 2024 und in dem
-Kalenderjahr 2025 für jedes Kind längstens für 15 Arbeitstage, für
-alleinerziehende Versicherte längstens für 30 Arbeitstage. Der
-Anspruch nach Satz 1 besteht für Versicherte für nicht mehr als 35
-Arbeitstage, für alleinerziehende Versicherte für nicht mehr als 70
-Arbeitstage.
+Krankengeld nach Absatz 1 in dem Kalenderjahr 2026 für jedes Kind
+längstens für 15 Arbeitstage, für alleinerziehende Versicherte
+längstens für 30 Arbeitstage. Der Anspruch nach Satz 1 besteht für
+Versicherte für nicht mehr als 35 Arbeitstage, für alleinerziehende
+Versicherte für nicht mehr als 70 Arbeitstage.
 
 (2b) (weggefallen)
 
@@ -6837,7 +6978,15 @@ Künstlersozialversicherungsgesetz nicht bestand oder für die nach §
 234 Absatz 1 Satz 2 Arbeitseinkommen nicht zugrunde zu legen ist. Die
 Beträge nach § 226 Abs. 1 Satz 1 Nr. 2 und 3 bleiben außer Betracht.
 
-(5) (weggefallen)
+(5) Bei Personen, die nach einem Abkommen zur Vermeidung der
+Doppelbesteuerung nicht in der Bundesrepublik Deutschland ansässig
+sind und deren Ansässigkeitsstaat nach diesem Abkommen das
+Besteuerungsrecht für das Krankengeld zusteht, ist zur Berechnung des
+Krankengeldes anstelle des Nettoarbeitsentgelts nach Absatz 1 das
+Regelentgelt abzüglich der Beiträge zur Sozialversicherung zugrunde zu
+legen. Unterliegt das Krankengeld im Ansässigkeitsstaat nach dessen
+maßgebenden Vorschriften nicht der Steuer, ist entsprechend Absatz 1
+das Nettoarbeitsentgelt zugrunde zu legen.
 
 (6) Das Regelentgelt wird bis zur Höhe des Betrages der
 kalendertäglichen Beitragsbemessungsgrenze berücksichtigt.
@@ -6964,13 +7113,15 @@ Verletztengeld nach dem Siebten Buch.
 
 
 3.  soweit und solange Versicherte Versorgungskrankengeld, Krankengeld der
-    Sozialen Entschädigung, Übergangsgeld, Unterhaltsgeld,
-    Kurzarbeitergeld oder Qualifizierungsgeld beziehen,
+    Sozialen Entschädigung, Krankengeld der Soldatenentschädigung
+    Übergangsgeld, Unterhaltsgeld, Kurzarbeitergeld oder
+    Qualifizierungsgeld beziehen,
 
 
 3a. soweit er auf der Erkrankung eines Kindes beruht, das für die
     Versicherte oder den Versicherten Anspruch auf Versorgungskrankengeld
-    oder Krankengeld der Sozialen Entschädigung hat.
+    oder Krankengeld der Sozialen Entschädigung Krankengeld der
+    Soldatenentschädigung hat.
 
 
 3b. solange Versicherte Mutterschaftsgeld oder Arbeitslosengeld beziehen
@@ -7332,8 +7483,8 @@ unzumutbare Belastung liegt vor, wenn
 
 
 3.  die Kosten der Unterbringung in einem Heim oder einer ähnlichen
-    Einrichtung von einem Träger der Sozialhilfe oder der Sozialen
-    Entschädigung getragen werden.
+    Einrichtung von einem Träger der Sozialhilfe, der Sozialen
+    Entschädigung oder der Soldatenentschädigung getragen werden.
 
 
 
@@ -7345,12 +7496,15 @@ nach anderen Gesetzen in entsprechender Anwendung des Vierzehnten
 Buches erhalten, sowie Renten oder Beihilfen, die nach dem
 Bundesentschädigungsgesetz für Schäden an Körper und Gesundheit
 gezahlt werden, bis zur Höhe der vergleichbaren
-Entschädigungszahlungen nach dem Vierzehnten Buch. Der in Satz 2 Nr. 1
-genannte Vomhundertsatz erhöht sich für den ersten in dem gemeinsamen
-Haushalt lebenden Angehörigen des Versicherten um 15 vom Hundert und
-für jeden weiteren in dem gemeinsamen Haushalt lebenden Angehörigen
-des Versicherten und des Lebenspartners um 10 vom Hundert der
-monatlichen Bezugsgröße nach § 18 des Vierten Buches.
+Entschädigungszahlungen nach dem Vierzehnten Buch. Zu den Einnahmen
+zum Lebensunterhalt gehört auch nicht der Ausgleich für
+gesundheitliche Schädigungsfolgen nach dem
+Soldatenentschädigungsgesetz. Der in Satz 2 Nr. 1 genannte
+Vomhundertsatz erhöht sich für den ersten in dem gemeinsamen Haushalt
+lebenden Angehörigen des Versicherten um 15 vom Hundert und für jeden
+weiteren in dem gemeinsamen Haushalt lebenden Angehörigen des
+Versicherten und des Lebenspartners um 10 vom Hundert der monatlichen
+Bezugsgröße nach § 18 des Vierten Buches.
 
 (3) Versicherte haben bei der Versorgung mit Zahnersatz zusätzlich zu
 den Festzuschüssen nach Absatz 1 Satz 2 Anspruch auf einen weiteren
@@ -7614,11 +7768,13 @@ Sinne des § 19 Satz 1 des Elften Buches zu erstatten.
 
 Zuzahlungen, die Versicherte zu leisten haben, betragen 10 vom Hundert
 des Abgabepreises, mindestens jedoch 5 Euro und höchstens 10 Euro;
-allerdings jeweils nicht mehr als die Kosten des Mittels. Als
-Zuzahlungen zu stationären Maßnahmen und zur außerklinischen
-Intensivpflege in vollstationären Pflegeeinrichtungen, in
-Einrichtungen oder Räumlichkeiten im Sinne des § 43a des Elften Buches
-in Verbindung mit § 71 Absatz 4 des Elften Buches sowie in
+allerdings jeweils nicht mehr als die Kosten des Mittels; im Fall
+einer Bestimmung nach § 130b Absatz 1c entspricht die Höhe der
+Zuzahlung dem nach § 131 Absatz 4 Satz 3 Nummer 2a übermittelten
+Betrag. Als Zuzahlungen zu stationären Maßnahmen und zur
+außerklinischen Intensivpflege in vollstationären Pflegeeinrichtungen,
+in Einrichtungen oder Räumlichkeiten im Sinne des § 43a des Elften
+Buches in Verbindung mit § 71 Absatz 4 des Elften Buches sowie in
 Wohneinheiten nach § 132l Absatz 5 Nummer 1 werden je Kalendertag 10
 Euro erhoben. Bei Heilmitteln, häuslicher Krankenpflege und
 außerklinischer Intensivpflege an den in § 37c Absatz 2 Satz 1 Nummer
@@ -7686,11 +7842,13 @@ vermindern; die nach Satz 2 bei der Ermittlung der Belastungsgrenze
 vorgesehene Berücksichtigung entfällt. Zu den Einnahmen zum
 Lebensunterhalt gehören nicht Entschädigungszahlungen, die Geschädigte
 nach dem Vierzehnten Buch oder nach anderen Gesetzen in entsprechender
-Anwendung des Vierzehnten Buches erhalten, sowie Renten oder
-Beihilfen, die nach dem Bundesentschädigungsgesetz für Schäden an
-Körper und Gesundheit gezahlt werden, bis zur Höhe der vergleichbaren
-Entschädigungszahlungen nach dem Vierzehnten Buch. Abweichend von den
-Sätzen 1 bis 3 ist bei Versicherten,
+Anwendung des Vierzehnten Buches erhalten, Renten oder Beihilfen, die
+nach dem Bundesentschädigungsgesetz für Schäden an Körper und
+Gesundheit gezahlt werden, bis zur Höhe der vergleichbaren
+Entschädigungszahlungen nach dem Vierzehnten Buch sowie der Ausgleich
+für gesundheitliche Schädigungsfolgen nach dem
+Soldatenentschädigungsgesetz. Abweichend von den Sätzen 1 bis 3 ist
+bei Versicherten,
 
 1.  die Hilfe zum Lebensunterhalt oder Grundsicherung im Alter und bei
     Erwerbsminderung nach dem Zwölften Buch oder die Leistungen zum
@@ -7699,8 +7857,8 @@ Sätzen 1 bis 3 ist bei Versicherten,
 
 
 2.  bei denen die Kosten der Unterbringung in einem Heim oder einer
-    ähnlichen Einrichtung von einem Träger der Sozialhilfe oder der
-    Sozialen Entschädigung getragen werden
+    ähnlichen Einrichtung von einem Träger der Sozialhilfe, der Sozialen
+    Entschädigung oder der Soldatenentschädigung getragen werden,
 
 
 
@@ -7784,41 +7942,11 @@ des Versicherten hat sich auf Zweck, Inhalt, Art, Umfang und Dauer der
 Verarbeitung seiner personenbezogenen Daten sowie die daran
 Beteiligten zu erstrecken.
 
-(3b) Modellvorhaben nach Absatz 1 können vorsehen, dass Angehörige der
-im Pflegeberufegesetz, im Krankenpflegegesetz und im Altenpflegegesetz
-geregelten Berufe
+(3b) Modellvorhaben nach den Absätzen 3b oder 3c in der bis zum 29.
+Dezember 2025 geltenden Fassung, die bis zum 29. Dezember 2025
+begonnen wurden, können weitergeführt werden.
 
-1.  die Verordnung von Verbandsmitteln und Pflegehilfsmitteln sowie
-
-
-2.  die inhaltliche Ausgestaltung der häuslichen Krankenpflege
-    einschließlich deren Dauer
-
-
-
-vornehmen, soweit diese auf Grund ihrer Ausbildung qualifiziert sind
-und es sich bei der Tätigkeit nicht um selbständige Ausübung von
-Heilkunde handelt.
-
-(3c) Modellvorhaben nach Absatz 1 können eine Übertragung der
-ärztlichen Tätigkeiten, bei denen es sich um selbstständige Ausübung
-von Heilkunde handelt und für die die Angehörigen des im
-Pflegeberufegesetz geregelten Berufs auf Grundlage einer Ausbildung
-nach § 14 des Pflegeberufegesetzes qualifiziert sind, auf diese
-vorsehen. Die Krankenkassen und ihre Verbände sollen entsprechende
-Vorhaben spätestens bis zum Ablauf des 31. Dezember 2020 vereinbaren
-oder durchführen. Der Gemeinsame Bundesausschuss legt in Richtlinien
-fest, bei welchen Tätigkeiten eine Übertragung von Heilkunde auf die
-Angehörigen des in Satz 1 genannten Berufs im Rahmen von
-Modellvorhaben erfolgen kann. Vor der Entscheidung des Gemeinsamen
-Bundesausschusses ist der Bundesärztekammer sowie den maßgeblichen
-Verbänden der Pflegeberufe Gelegenheit zur Stellungnahme zu geben. Die
-Stellungnahmen sind in die Entscheidungen einzubeziehen. Durch den
-Gemeinsamen Bundesausschuss nach den Sätzen 2 bis 4 festgelegte
-Richtlinien gelten für die Angehörigen des in Satz 1 geregelten Berufs
-fort.
-
-(3d) Die Anwendung von Heilmitteln, die nach der Richtlinie des
+(3c) Die Anwendung von Heilmitteln, die nach der Richtlinie des
 Gemeinsamen Bundesausschusses gemäß § 92 Absatz 1 Satz 2 Nummer 6 zur
 Behandlung krankheitsbedingter Schädigungen nur verordnungsfähig sind,
 wenn die Schädigungen auf Grund bestimmter Grunderkrankungen
@@ -8054,34 +8182,40 @@ Vereinigungen aus wissenschaftlichen Gründen nicht erforderlich ist.
 #### § 64d Verpflichtende Durchführung von Modellvorhaben zur Übertragung ärztlicher Tätigkeiten
 
 (1) Die Landesverbände der Krankenkassen und die Ersatzkassen führen
-gemeinsam in jedem Bundesland mindestens ein Modellvorhaben nach § 63
-zur Übertragung von ärztlichen Tätigkeiten, bei denen es sich um
-selbstständige Ausübung von Heilkunde handelt, auf Pflegefachkräfte
-mit einer Zusatzqualifikation nach § 14 des Pflegeberufegesetzes im
-Wege der Vereinbarung nach Maßgabe des Rahmenvertrages nach Satz 4
-durch. In den Modellvorhaben sind auch Standards für die
-interprofessionelle Zusammenarbeit zu entwickeln. Die Vorhaben
-beginnen spätestens am 1. Januar 2023. Die Spitzenorganisationen nach
-§ 132a Absatz 1 Satz 1 und die Kassenärztliche Bundesvereinigung legen
-in einem Rahmenvertrag die Einzelheiten bis zum 31. März 2022 fest.
-Bis zum 31. Dezember 2022 sind in dem Rahmenvertrag nach Satz 4 unter
+gemeinsam in jedem Land mindestens ein Modellvorhaben nach § 63 Absatz
+3c in der bis zum 29. Dezember 2025 geltenden Fassung zur Übertragung
+von ärztlichen Tätigkeiten, bei denen es sich um selbstständige
+Ausübung von Heilkunde handelt, auf Pflegefachpersonen mit einer
+Zusatzqualifikation nach § 14 des Pflegeberufegesetzes im Wege der
+Vereinbarung nach Maßgabe des Rahmenvertrags nach Satz 4 durch. In den
+Modellvorhaben sind auch Standards für die interprofessionelle
+Zusammenarbeit zu entwickeln. Die Vorhaben beginnen spätestens am 1.
+Januar 2023. Der Spitzenverband Bund der Krankenkassen, die für die
+Wahrnehmung der Interessen von Pflegediensten maßgeblichen
+Spitzenorganisationen auf Bundesebene und die Kassenärztliche
+Bundesvereinigung legen in einem Rahmenvertrag die Einzelheiten bis
+zum 31. März 2022 fest. In dem Rahmenvertrag nach Satz 4 sind unter
 vertraglicher Beteiligung der Vereinigungen der Träger von
 Pflegeheimen Regelungen für eine Durchführung von Modellvorhaben nach
 Satz 1 in Pflegeheimen im Sinne des § 71 Absatz 2 des Elften Buches zu
-treffen, die eine Teilnahme von Pflegeheimen an Modellvorhaben
-spätestens ab dem 1. April 2023 ermöglichen. Der Bundespflegekammer
-und den Verbänden der Pflegeberufe auf Bundesebene und der
-Bundesärztekammer ist vor Abschluss des Rahmenvertrages Gelegenheit
-zur Stellungnahme zu geben.
+treffen. Bis zum 30. September 2026 ist der Rahmenvertrag unter
+Berücksichtigung des Ergebnisses der Prüfung nach § 73d Absatz 1 Satz
+4 so anzupassen, dass die in Anlage 1 des Rahmenvertrags genannten
+Leistungen der ärztlichen Behandlung durch Pflegefachpersonen auch in
+der Regelversorgung erbracht werden können. Den maßgeblichen
+Organisationen der Pflegeberufe auf Bundesebene im Sinne des § 118a
+Absatz 1 Satz 1 des Elften Buches und der Bundesärztekammer ist vor
+Abschluss oder Änderung des Rahmenvertrags Gelegenheit zur
+Stellungnahme zu geben.
 
 (2) In dem Rahmenvertrag nach Absatz 1 Satz 4 und 5 ist insbesondere
 folgendes festzulegen:
 
-1.  ein Katalog der ärztlichen Tätigkeiten, die von Pflegefachkräften nach
-    Absatz 1 Satz 1 unter Berücksichtigung der von der Fachkommission nach
-    § 53 des Pflegeberufegesetzes entwickelten, standardisierten Module
-    nach § 14 Absatz 4 des Pflegeberufegesetzes selbständig durchgeführt
-    werden können,
+1.  ein Katalog der ärztlichen Tätigkeiten, die von Pflegefachpersonen
+    nach Absatz 1 Satz 1 unter Berücksichtigung der von der Fachkommission
+    nach § 53 des Pflegeberufegesetzes entwickelten, standardisierten
+    Module nach § 14 Absatz 4 des Pflegeberufegesetzes selbständig
+    durchgeführt werden können,
 
 
 2.  Vereinbarungen zur ausgewogenen Berücksichtigung aller
@@ -9296,12 +9430,14 @@ aktualisiert und um Angaben erweitert wird, die von den klinischen
 Krebsregistern erhoben werden können, um sie den Zentren der Onkologie
 für deren Zertifizierung zur Verfügung zu stellen. Auf der Grundlage
 des einheitlichen onkologischen Basisdatensatzes nach Absatz 1 Satz 3
-treffen die Krebsregister erstmals zum 31. Dezember 2021 im Benehmen
-mit der Kassenärztlichen Bundesvereinigung, der Deutschen
-Krankenhausgesellschaft, den für die Wahrnehmung der Interessen der
-Industrie maßgeblichen Bundesverbänden aus dem Bereich der
-Informationstechnologie im Gesundheitswesen sowie im Einvernehmen mit
-dem Kompetenzzentrum für Interoperabilität im Gesundheitswesen die
+treffen die Krebsregister, sofern sie hierzu gemäß § 385 Absatz 1 Satz
+2 Nummer 2 und Absatz 4 Satz 3 und 5 und aufgrund der Rechtsverordnung
+nach § 385 Absatz 1 Satz 1 beauftragt wurden, erstmals zum 31.
+Dezember 2021 im Benehmen mit der Kassenärztlichen Bundesvereinigung,
+der Deutschen Krankenhausgesellschaft, den für die Wahrnehmung der
+Interessen der Industrie maßgeblichen Bundesverbänden aus dem Bereich
+der Informationstechnologie im Gesundheitswesen sowie im Einvernehmen
+mit dem Kompetenzzentrum für Interoperabilität im Gesundheitswesen die
 notwendigen Spezifikationen zur technischen, semantischen,
 syntaktischen und organisatorischen Interoperabilität dieses
 Basisdatensatzes. Der einheitliche onkologische Basisdatensatz und die
@@ -9645,7 +9781,7 @@ der Krankenkassen.
 #### § 65d Förderung besonderer Therapieeinrichtungen
 
 (1) Der Spitzenverband Bund der Krankenkassen fördert ab 1. Januar
-2017 bis zum 31. Dezember 2025 mit insgesamt fünf Millionen Euro je
+2017 bis zum 31. Dezember 2027 mit insgesamt fünf Millionen Euro je
 Kalenderjahr im Rahmen von Modellvorhaben Leistungserbringer, die
 Patienten mit pädophilen Sexualstörungen behandeln. Förderungsfähig
 sind an der vertragsärztlichen Versorgung teilnehmende
@@ -10110,11 +10246,11 @@ Absatzes durch seine Mitglieder.
 
 (1) Die Krankenkassen und die Leistungserbringer haben eine
 bedarfsgerechte und gleichmäßige, dem allgemein anerkannten Stand der
-medizinischen Erkenntnisse entsprechende Versorgung der Versicherten
-zu gewährleisten. Die Versorgung der Versicherten muß ausreichend und
-zweckmäßig sein, darf das Maß des Notwendigen nicht überschreiten und
-muß in der fachlich gebotenen Qualität sowie wirtschaftlich erbracht
-werden.
+medizinischen und pflegewissenschaftlichen Erkenntnisse entsprechende
+Versorgung der Versicherten zu gewährleisten. Die Versorgung der
+Versicherten muß ausreichend und zweckmäßig sein, darf das Maß des
+Notwendigen nicht überschreiten und muß in der fachlich gebotenen
+Qualität sowie wirtschaftlich erbracht werden.
 
 (2) Die Krankenkassen und die Leistungserbringer haben durch geeignete
 Maßnahmen auf eine humane Krankenbehandlung ihrer Versicherten
@@ -10500,7 +10636,7 @@ der medizinischen Erkenntnisse Hinweise zu Indikation und
 therapeutischen Nutzen zu geben. Die Informationen und Hinweise für
 die Verordnung von Arznei-, Verband- und Heilmitteln erfolgen
 insbesondere auf der Grundlage der Hinweise nach § 92 Abs. 2 Satz 3,
-der Rahmenvorgaben nach § 84 Abs. 7 Satz 1 und der getroffenen
+der Rahmenvorgaben nach § 84 Absatz 6 Satz 1 und der getroffenen
 Arzneimittelvereinbarungen nach § 84 Abs. 1. In den Informationen und
 Hinweisen sind Handelsbezeichnung, Indikationen und Preise sowie
 weitere für die Verordnung von Arzneimitteln bedeutsame Angaben
@@ -10509,10 +10645,15 @@ in einer Weise anzugeben, die unmittelbar einen Vergleich ermöglichen;
 dafür können Arzneimittel ausgewählt werden, die einen maßgeblichen
 Anteil an der Versorgung der Versicherten im Indikationsgebiet haben.
 Die Kosten der Arzneimittel je Tagesdosis sind nach den Angaben der
-anatomisch-therapeutisch-chemischen Klassifikation anzugeben. Es gilt
+anatomisch-therapeutisch-chemischen Klassifikation anzugeben; es gilt
 die vom Bundesinstitut für Arzneimittel und Medizinprodukte im
 Auftrage des Bundesministeriums für Gesundheit herausgegebene
-Klassifikation in der jeweils gültigen Fassung. Die Übersicht ist für
+Klassifikation in der jeweils gültigen Fassung. Im Fall einer
+Bestimmung nach § 130b Absatz 1c für ein Arzneimittel ist ohne Angaben
+zu den Kosten dieses Arzneimittels die Wirtschaftlichkeit der
+Verordnung dieses Arzneimittels im Verhältnis zur Verordnung anderer
+Arzneimittel oder anderer Therapien mit vergleichbarem medizinischem
+Nutzen in dem Anwendungsgebiet darzustellen. Die Übersicht ist für
 einen Stichtag zu erstellen und in geeigneten Zeitabständen, im
 Regelfall jährlich, zu aktualisieren.
 
@@ -10523,14 +10664,14 @@ Produkten, die gemäß den Richtlinien nach § 92 Absatz 1 Satz 2 Nummer
 können, nur solche elektronischen Programme nutzen, die mindestens
 folgende Inhalte mit dem jeweils aktuellen Stand enthalten:
 
-1.  die Informationen nach Absatz 8 Satz 2 und 3,
+1.  die Informationen nach Absatz 8 Satz 2 bis 6,
 
 
 2.  die Informationen über das Vorliegen von Rabattverträgen nach § 130a
     Absatz 8,
 
 
-3.  die Informationen nach § 131 Absatz 4 Satz 2,
+3.  die Informationen nach § 131 Absatz 4 Satz 3,
 
 
 4.  die zur Erstellung und Aktualisierung des Medikationsplans nach § 31a
@@ -10578,6 +10719,16 @@ nach § 106b Absatz 2 Satz 4 sowie die sich aus den Verträgen nach §
 Kassenärztlichen Bundesvereinigung für die vertragsärztliche
 Versorgung zugelassen sind. Das Nähere ist in den Verträgen nach § 82
 Absatz 1 zu vereinbaren.
+
+(10a) Vertragsärzte dürfen für die elektronische Verordnung von
+Leistungen zur medizinischen Rehabilitation, von Hilfsmitteln,
+häuslicher Krankenpflege und außerklinischer Intensivpflege,
+Soziotherapie sowie spezialisierter ambulanter Palliativversorgung nur
+solche elektronischen Programme nutzen, die von der Kassenärztlichen
+Bundesvereinigung für die vertragsärztliche Versorgung zugelassen
+sind. Das Nähere zu den fachlichen Anforderungen an die elektronischen
+Programme einschließlich Umsetzungsfristen kann in den Verträgen nach
+§ 82 Absatz 1 vereinbart werden.
 
 (11) Stellt ein Vertragsarzt bei einem Versicherten eine Diagnose nach
 § 125a und die Indikation für ein Heilmittel, sind Auswahl und Dauer
@@ -10804,8 +10955,126 @@ Anhaltspunkte für eine Gefährdung ihres Wohls feststellen. Satz 1 gilt
 nicht für Kassenzahnärztliche Vereinigungen und Zahnärzte.
 
 
-##### § 73d (weggefallen)
+##### § 73d Eigenverantwortliche Erbringung von Leistungen durch Pflegefachpersonen im Rahmen der vertragsärztlichen Versorgung; eigenverantwortliche Verordnung häuslicher Krankenpflege durch Pflegefachpersonen, Evaluation
 
+(1) Die Kassenärztliche Bundesvereinigung, der Spitzenverband Bund der
+Krankenkassen, die für die Wahrnehmung der Interessen von
+Pflegediensten maßgeblichen Spitzenorganisationen auf Bundesebene und
+die Vereinigungen der Träger von Pflegeheimen im Sinne des § 71 Absatz
+2 des Elften Buches vereinbaren bis zum 31. Dezember 2026 in einem
+Vertrag
+
+1.  einen Katalog an Leistungen der ärztlichen Behandlung, die
+    Pflegefachpersonen nach § 15a Absatz 1 Nummer 1 eigenverantwortlich
+    erbringen können,
+
+
+2.  einen Katalog an Leistungen im Rahmen der häuslichen Krankenpflege
+    nach § 37, einschließlich der für diese Leistungen benötigten
+    Hilfsmittel nach § 33, die Pflegefachpersonen jeweils nach § 15a
+    Absatz 1 Nummer 2 eigenverantwortlich verordnen können, sowie das
+    Nähere zum Verfahren und zu der Ausgestaltung der Verordnungen,
+
+
+3.  Rahmenvorgaben zur interprofessionellen Zusammenarbeit zwischen
+    Pflegefachpersonen und Ärzten bei der Erbringung der nach den Nummern
+    1 und 2 vereinbarten Leistungen.
+
+
+
+In dem Vertrag sind auch Vorgaben dazu zu vereinbaren, welche in dem
+nach Satz 1 Nummer 1 vereinbarten Katalog genannten Leistungen nach
+einer ärztlichen Diagnose und Indikationsstellung und welche dieser
+Leistungen nach einer pflegerischen Diagnose erbracht werden können.
+Diese Vorgaben können in Bezug auf einzelne Leistungen, je nachdem in
+welchem Versorgungsbereich sie erbracht werden, voneinander abweichen.
+Bis zum 31. Juli 2026 haben die in Satz 1 genannten Vertragspartner zu
+prüfen, ob Anpassungen des nach
+§ 64d              Absatz 1 Satz 4 geschlossenen Rahmenvertrags
+erforderlich sind, damit die in Anlage 1 des Rahmenvertrags genannten
+Leistungen der ärztlichen Behandlung durch Pflegefachpersonen auch in
+der Regelversorgung erbracht werden können.
+
+(2) Die in Absatz 1 Satz 1 genannten Vertragspartner haben unter
+Beachtung der Vorgaben von § 15a Absatz 1 in dem Vertrag nach Absatz 1
+Satz 1 auch festzulegen, auf der Grundlage welcher Kompetenzen
+Pflegefachpersonen die nach Absatz 1 Satz 1 Nummer 1 und 2
+vereinbarten Leistungen und Hilfsmittel jeweils eigenverantwortlich
+erbringen oder verordnen können. Pflegefachpersonen können die nach
+Absatz 1 Satz 1 Nummer 1 und 2 vereinbarten Leistungen und Hilfsmittel
+bei an der vertragsärztlichen Versorgung teilnehmenden
+Leistungserbringern und bei den Leistungserbringern erbringen oder
+verordnen, mit denen Verträge nach § 132a Absatz 4 Satz 1
+abgeschlossen werden. Den maßgeblichen Organisationen der Pflegeberufe
+auf Bundesebene im Sinne des § 118a Absatz 1 Satz 1 des Elften Buches,
+der Bundesärztekammer und der Deutschen Krankenhausgesellschaft ist
+vor Abschluss des Vertrags Gelegenheit zur Stellungnahme zu geben; sie
+haben das Recht, an den Sitzungen der in Absatz 1 Satz 1 genannten
+Vertragspartner teilzunehmen. Die Stellungnahmen sind beim
+Entscheidungsprozess der in Absatz 1 Satz 1 genannten Vertragspartner
+zu berücksichtigen. Wissenschaftliche Expertisen, die nach § 8 Absatz
+3c Satz 1 des Elften Buches gefördert wurden, sollen bei der
+Vereinbarung der Leistungen und Hilfsmittel nach Absatz 1 Satz 1
+Nummer 1 und 2 berücksichtigt werden.
+
+(3) Kommt der Vertrag nach Absatz 1 Satz 1 nicht innerhalb der in
+Absatz 1 Satz 1 genannten Frist zustande, wird der Inhalt des Vertrags
+auf Antrag eines der in Absatz 1 Satz 1 genannten Vertragspartner oder
+des Bundesministeriums für Gesundheit durch eine von den in Absatz 1
+Satz 1 genannten Vertragspartnern innerhalb eines Monats nach
+Antragstellung zu bestimmende unabhängige Schiedsperson innerhalb von
+drei Monaten nach ihrer Bestimmung festgelegt. Einigen sich die
+Vertragspartner nicht fristgerecht auf eine Schiedsperson, so wird
+diese vom Bundesamt für Soziale Sicherung bestimmt. Die Kosten des
+Schiedsverfahrens tragen die Vertragspartner zu gleichen Teilen.
+Klagen gegen die Bestimmung der Schiedsperson haben keine
+aufschiebende Wirkung. Ein Vorverfahren findet nicht statt. Klagen
+gegen die Festlegung des Vertragsinhalts sind gegen den
+Vertragspartner zu richten. Der von der Schiedsperson festgelegte
+Vertragsinhalt gilt bis zur gerichtlichen Feststellung der
+Unbilligkeit weiter.
+
+(4) Die in Absatz 1 Satz 1 genannten Vertragspartner evaluieren die
+Auswirkungen der eigenverantwortlichen Erbringung von Leistungen der
+ärztlichen Behandlung durch Pflegefachpersonen in der
+vertragsärztlichen Versorgung und durch Pflegefachpersonen, die in
+ambulanten und stationären Pflegeeinrichtungen beschäftigt sind, im
+Hinblick auf die Qualität und Wirtschaftlichkeit der Versorgung. Die
+Evaluation erfolgt im Einvernehmen mit dem Bundesministerium für
+Gesundheit. Das Bundesministerium für Gesundheit beteiligt das
+Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend.
+Die in Absatz 1 Satz 1 genannten Vertragspartner legen dem
+Bundesministerium für Gesundheit bis zum 31. Dezember 2029 einen
+Bericht über das Ergebnis der Evaluation vor.
+
+(5) Das Bundesministerium für Gesundheit evaluiert unter Beteiligung
+des Bundesministeriums für Bildung, Familie, Senioren, Frauen und
+Jugend die Entwicklung und Umsetzung der eigenverantwortlichen
+Erbringung von Leistungen der ärztlichen Behandlung durch
+Pflegefachpersonen in der Versorgung, auch in Krankenhäusern und in
+Vorsorge- und Rehabilitationseinrichtungen sowie in
+Pflegeeinrichtungen, soweit die eigenverantwortliche Erbringung dieser
+Leistungen nicht bereits Gegenstand der Evaluation nach Absatz 4 oder
+der Evaluation nach § 112a Absatz 4 war. Die Ergebnisse der
+Evaluationen nach Absatz 4 und § 112a Absatz 4 sind zu
+berücksichtigen. Nach Abschluss der Evaluation nach Satz 1 prüft das
+Bundesministerium für Gesundheit unter Beteiligung des
+Bundesministeriums für Bildung, Familie, Senioren, Frauen und Jugend
+sowie der maßgeblichen Organisationen der Pflegeberufe auf Bundesebene
+im Sinne des § 118a Absatz 1 Satz 1 des Elften Buches, ob und
+inwieweit die Vorgaben für die Erbringung von Leistungen der
+ärztlichen Behandlung durch Pflegefachpersonen in der Versorgung
+umgesetzt wurden und ob die bestehenden leistungsrechtlichen
+Regelungen zur eigenverantwortlichen Erbringung von Leistungen der
+ärztlichen Behandlung durch Pflegefachpersonen angepasst werden müssen
+oder erweitert werden können. Bei der Prüfung sind wissenschaftliche
+Expertisen, die nach § 8 Absatz 3c Satz 1 des Elften Buches gefördert
+wurden, zu berücksichtigen. Das Bundesministerium für Gesundheit
+berichtet den gesetzgebenden Körperschaften des Bundes unter
+Beteiligung des Bundesministeriums für Bildung, Familie, Senioren,
+Frauen und Jugend ein Jahr nachdem ihm beide Berichte nach Absatz 4
+und § 112a Absatz 4 vorgelegt wurden, über das Ergebnis dieser
+Prüfung.
 
 
 ##### § 74 Stufenweise Wiedereingliederung
@@ -12175,6 +12444,13 @@ Beteiligung bis zu zwei Jahren. Das Höchstmaß der Geldbußen kann bis
 zu fünfzigtausend Euro betragen. Ein Vorverfahren (§ 78 des
 Sozialgerichtsgesetzes) findet nicht statt.
 
+(6) Die Satzungen der Kassenärztlichen Vereinigungen sollen
+Bestimmungen über die Sicherstellung des Notdienstes enthalten. Sofern
+dies zum Zwecke der Sicherstellung des Notdienstes in einer Region
+erforderlich ist, können die Kassenärztlichen Vereinigungen die
+Gewährung von Sicherstellungspauschalen an die teilnehmenden Ärzte
+festlegen.
+
 
 ##### § 81a Stellen zur Bekämpfung von Fehlverhalten im Gesundheitswesen
 
@@ -12184,7 +12460,7 @@ und Sachverhalten nachzugehen haben, die auf Unregelmäßigkeiten oder
 auf rechtswidrige oder zweckwidrige Nutzung von Finanzmitteln im
 Zusammenhang mit den Aufgaben der jeweiligen Kassenärztlichen
 Vereinigung oder Kassenärztlichen Bundesvereinigung hindeuten. Sie
-nehmen Kontrollbefugnisse nach § 67c Abs. 3 des Zehnten Buches wahr.
+nehmen Kontrollbefugnisse nach § 67c Absatz 4 des Zehnten Buches wahr.
 
 (2) Jede Person kann sich in den Angelegenheiten des Absatzes 1 an die
 Kassenärztlichen Vereinigungen und Kassenärztlichen
@@ -12970,7 +13246,12 @@ einem bestimmten Zeitraum erbracht werden, insgesamt so festgelegt
 werden, dass die Punkte, die im einheitlichen Bewertungsmaßstab für
 diese Leistungen vergeben werden, ab einem bestimmten Schwellenwert
 mit zunehmender Menge sinken. Die Bewertung der Sachkosten kann
-abweichend von Satz 1 in Eurobeträgen bestimmt werden.
+abweichend von Satz 1 in Eurobeträgen bestimmt werden. Die
+Bewertungsmaßstäbe sind regelmäßig daraufhin zu überprüfen, ob sie den
+besonderen Erfordernissen der Versorgung von behinderten Menschen
+angemessen Rechnung tragen und, soweit erforderlich, anzupassen; die
+Anpassung ist zum Zeitpunkt der Anpassung punktsummenneutral
+umzusetzen.
 
 (2a) Die im einheitlichen Bewertungsmaßstab für ärztliche Leistungen
 aufgeführten Leistungen sind entsprechend der in § 73 Abs. 1
@@ -13013,14 +13294,15 @@ Kooperationsvereinbarungen zum Kinder- und Jugendschutz nach § 73c
 angemessen vergütet werden kann; auf dieser Grundlage ist eine
 Anpassung des einheitlichen Bewertungsmaßstabes für ärztliche
 Leistungen zu beschließen. In die Überprüfung nach Absatz 2 Satz 2 ist
-auch einzubeziehen, in welchem Umfang delegationsfähige Leistungen
-durch Personen nach § 28 Absatz 1 Satz 2 qualifiziert erbracht und
+auch einzubeziehen, in welchem Umfang nach § 28 Absatz 1 Satz 2
+delegationsfähige Leistungen und nach § 73d Absatz 1 Satz 1 Nummer 1
+vereinbarte Leistungen durch andere Personen qualifiziert erbracht und
 angemessen vergütet werden können; auf dieser Grundlage ist eine
 Anpassung des einheitlichen Bewertungsmaßstabes für ärztliche
 Leistungen unter Berücksichtigung der unterschiedlichen
-Versorgungsstrukturen bis zum 23. Januar 2016 zu beschließen. Nach
-Inkrafttreten der Bestimmungen nach § 27b Absatz 2 Satz 2 ist im
-einheitlichen Bewertungsmaßstab für ärztliche Leistungen durch den
+Versorgungsstrukturen zu beschließen. Nach Inkrafttreten der
+Bestimmungen nach § 27b Absatz 2 Satz 2 ist im einheitlichen
+Bewertungsmaßstab für ärztliche Leistungen durch den
 Bewertungsausschuss gemäß Absatz 5a eine Regelung zu treffen, nach der
 Leistungen und Kosten im Rahmen der Einholung der Zweitmeinungen nach
 § 27b abgerechnet werden können. Sofern drei Monate nach Inkrafttreten
@@ -13177,7 +13459,24 @@ Transplantationsgesetzes in der ab dem 1. März 2022 geltenden Fassung
 Erklärung zur Organ- und Gewebespende im Register nach § 2a des
 Transplantationsgesetzes in der ab dem 1. März 2022 geltenden Fassung
 abgeben, ändern und widerrufen zu können. Der Vergütungsanspruch
-besteht je Patient alle zwei Jahre.
+besteht je Patient alle zwei Jahre. Abweichend von Satz 1 erster
+Halbsatz beschließt der Bewertungsausschuss bis zum 31. August 2025 im
+einheitlichen Bewertungsmaßstab für ärztliche Leistungen Regelungen
+über eine Versorgungspauschale, die bei der Behandlung eines
+Versicherten, der das 18. Lebensjahr vollendet hat, wegen einer
+chronischen Erkrankung, die einer kontinuierlichen Versorgung mit
+einem bestimmten Arzneimittel bedarf und keinen intensiven
+Betreuungsbedarf begründet, abzurechnen ist. Die Regelungen über die
+Versorgungspauschale haben vorzusehen, dass sie je Versicherten
+unabhängig von der Anzahl und Art der Kontakte des Versicherten mit
+der jeweiligen Arztpraxis innerhalb eines bestimmten Zeitraums nur
+einmal durch eine einzige, die jeweilige Erkrankung behandelnde
+Arztpraxis abzurechnen ist. Der in Satz 8 genannte Zeitraum soll vier
+aufeinanderfolgende Kalenderquartale umfassen; er hat mindestens zwei
+aufeinanderfolgende Kalenderquartale zu umfassen. Die Regelungen über
+die Versorgungspauschale sind so auszugestalten, dass sie weder zu
+Mehrausgaben noch zu Minderausgaben der gesetzlichen
+Krankenversicherung führen.
 
 (2c) Die im einheitlichen Bewertungsmaßstab für ärztliche Leistungen
 aufgeführten Leistungen der fachärztlichen Versorgung sollen
@@ -13248,9 +13547,9 @@ Verfügung stehen.
 
 (2d) Im einheitlichen Bewertungsmaßstab für ärztliche Leistungen sind
 Regelungen einschließlich Prüfkriterien vorzusehen, die sicherstellen,
-dass der Leistungsinhalt der in den Absätzen 2a bis 2c genannten
-Leistungen und Pauschalen jeweils vollständig erbracht wird, die
-jeweiligen notwendigen Qualitätsstandards eingehalten, die
+dass der Leistungsinhalt der in den Absätzen 2a bis 2c und 2q
+genannten Leistungen und Pauschalen jeweils vollständig erbracht wird,
+die jeweiligen notwendigen Qualitätsstandards eingehalten, die
 abgerechneten Leistungen auf den medizinisch notwendigen Umfang
 begrenzt sowie bei Abrechnung der Fallpauschalen nach Absatz 2c die
 Mindestanforderungen zu der institutionellen Ausgestaltung der
@@ -13261,11 +13560,13 @@ Qualifikations- und Qualitätssicherungsanforderungen sowie an die
 Einhaltung der gegenüber der Kassenärztlichen Vereinigung zu
 erbringenden Dokumentationsverpflichtungen geknüpft werden. Zudem
 können Regelungen vorgesehen werden, die darauf abzielen, dass die
-Abrechnung der Versichertenpauschalen nach Absatz 2b Satz 1 sowie der
-Grundpauschalen nach Absatz 2c Satz 1 für einen Versicherten nur durch
-einen Arzt im Abrechnungszeitraum erfolgt, oder es können Regelungen
-zur Kürzung der Pauschalen für den Fall eines Arztwechsels des
-Versicherten innerhalb des Abrechnungszeitraums vorgesehen werden.
+Abrechnung der Versichertenpauschalen nach Absatz 2b Satz 1, der
+Versorgungspauschale nach Absatz 2b Satz 7, der Grundpauschalen nach
+Absatz 2c Satz 1 sowie der Pauschale nach Absatz 2q Satz 1 für einen
+Versicherten nur durch einen Arzt im Abrechnungszeitraum erfolgt, oder
+es können Regelungen zur Kürzung der Pauschalen für den Fall eines
+Arztwechsels des Versicherten innerhalb des Abrechnungszeitraums
+vorgesehen werden.
 
 (2e) Im einheitlichen Bewertungsmaßstab für ärztliche Leistungen ist
 jährlich bis zum 31. August ein bundeseinheitlicher Punktwert als
@@ -13410,6 +13711,31 @@ Grundlage der Vereinbarung nach Satz 1 den einheitlichen
 Bewertungsmaßstab für ärztliche Leistungen und beschließt über
 erforderliche Anpassungen.
 
+(2q) Der Bewertungsausschuss beschließt bis zum 31. Mai 2025 im
+einheitlichen Bewertungsmaßstab für ärztliche Leistungen Regelungen
+über eine Vergütung zur Vorhaltung der zur Erfüllung von Aufgaben der
+hausärztlichen Grundversorgung notwendigen Strukturen
+(Vorhaltepauschale) und insbesondere über Voraussetzungen, die die an
+der hausärztlichen Versorgung teilnehmenden Leistungserbringer für die
+Abrechnung dieser Vorhaltepauschale erfüllen müssen. Der
+Bewertungsausschuss kann die Höhe der Vorhaltepauschale in
+Abhängigkeit von dem Umfang der Erfüllung der in Satz 1 genannten
+Voraussetzungen in Stufen beschließen. Die in Satz 1 genannten
+Voraussetzungen sollen insbesondere eine bedarfsgerechte Versorgung
+mit Haus- und Pflegeheimbesuchen, bedarfsgerechte
+Praxisöffnungszeiten, die vorrangige Erbringung von Leistungen aus dem
+hausärztlichen Fachgebiet, eine Mindestanzahl an zu versorgenden
+Versicherten sowie die regelmäßige Nutzung von Anwendungen der
+Telematikinfrastruktur umfassen. Für Versicherte, für die die in
+Absatz 2b Satz 7 genannte Versorgungspauschale abzurechnen ist, ist
+der Zeitraum, für den die Vorhaltepauschale abzurechnen ist, in
+Übereinstimmung mit dem in Absatz 2b Satz 8 genannten Zeitraum
+festzulegen. Die Regelungen über die Vorhaltepauschale sind so
+auszugestalten, dass sie weder zu Mehrausgaben noch zu Minderausgaben
+der gesetzlichen Krankenversicherung führen. Die Regelungen zur
+Vorhaltepauschale nach diesem Absatz haben die Kinder- und Jugendärzte
+auszunehmen.
+
 (3) Der Bewertungsausschuß besteht aus drei von der Kassenärztlichen
 Bundesvereinigung bestellten Vertretern sowie drei vom Spitzenverband
 Bund der Krankenkassen bestellten Vertreter. Den Vorsitz führt
@@ -13478,7 +13804,9 @@ Bundesministerium für Gesundheit.
 
 2.  eine Geschäftsordnung, in der er Regelungen zur Arbeitsweise des
     Bewertungsausschusses und des Instituts gemäß Absatz 3b trifft,
-    insbesondere zur Geschäftsführung und zur Art und Weise der
+    insbesondere zur Geschäftsführung, zur Durchführung von Sitzungen,
+    einschließlich der Möglichkeit, diese als hybride Sitzungen oder als
+    digitale Sitzungen durchzuführen, und zur Art und Weise der
     Vorbereitung der in Absatz 3b Satz 1 genannten Beschlüsse, Analysen
     und Berichte, sowie
 
@@ -13803,84 +14131,30 @@ vereinbarten Gesamtvergütungen mit den Preisen der regionalen Euro-
 Gebührenordnung nach Absatz 2 Satz 5 vergütet werden, wenn sie
 besonders gefördert werden sollen oder wenn dies medizinisch oder
 aufgrund von Besonderheiten bei Veranlassung und Ausführung der
-Leistungserbringung erforderlich ist. Die in Absatz 2 Satz 1 genannten
-Vertragspartner haben die morbiditätsbedingte Gesamtvergütung in den
-Vereinbarungen nach Absatz 3 Satz 1 um die in Satz 5 Nummer 3 bis 6
-genannten Leistungen unter Berücksichtigung der
-arztgruppenspezifischen Auszahlungsquoten des jeweiligen
-Vorjahresquartals, die von den Kassenärztlichen Vereinigungen
-gegenüber den Krankenkassen nachzuweisen sind, begrenzt auf ein Jahr
-zu bereinigen. Zudem haben sie unter Berücksichtigung der vom
-Bewertungsausschuss zu beschließenden Vorgaben nach Satz 10
-vierteljährlich ein für die Kassenärztliche Vereinigung spezifisch
-durchzuführendes Korrekturverfahren zu vereinbaren, mit dem bei der
-Bereinigung nach Satz 7 nicht berücksichtigte Leistungsmengen bei den
-in Satz 5 Nummer 5 und 6 genannten Leistungen berücksichtigt werden.
-Das Korrekturverfahren erfolgt für vier Quartale beginnend mit Wirkung
-ab dem 1. Juli 2021; der Zeitraum wird verlängert, wenn die
-Feststellung der epidemischen Lage von nationaler Tragweite nicht bis
-zum 30. Juni 2021 gemäß § 5 Absatz 1 Satz 2 des
-Infektionsschutzgesetzes aufgehoben wird, und endet ein Jahr nach
-deren Aufhebung zum Ende des dann laufenden Quartals. Der
-Bewertungsausschuss beschließt nach Maßgabe der Sätze 11 und 12
-Vorgaben zum Korrekturverfahren einschließlich der jeweiligen
-Korrekturbeträge der Leistungsmengen bei den in Satz 5 Nummer 5 und 6
-genannten Leistungen, um die nach Satz 1 vereinbarte Gesamtvergütung
-basiswirksam zusätzlich zur Bereinigung nach Satz 7 zu bereinigen. Der
-Korrekturbetrag für die in Satz 5 Nummer 5 genannten Leistungen wird
-quartalsweise für jede Kassenärztliche Vereinigung ermittelt auf der
-Grundlage des aus den Abrechnungsdaten des Jahres 2018, unter
-Berücksichtigung der Abrechnungsdaten der Jahre 2016 und 2017,
-abgeleiteten zu erwartenden Verhältnisses aus dem Punktzahlvolumen für
-die in Satz 5 Nummer 5 genannten Leistungen zum Punktzahlvolumen aller
-Leistungen innerhalb der nach Satz 1 vereinbarten Gesamtvergütung und
-der in Satz 5 Nummer 3 bis 6 genannten Leistungen bei rechnerischer
-Anwendung dieses Verhältnisses auf das Punktzahlvolumen aller
-Leistungen innerhalb der nach Satz 1 vereinbarten Gesamtvergütung und
-der in Satz 5 Nummer 3 bis 6 genannten Leistungen im zu bereinigenden
-Quartal nach Satz 9; von dem ermittelten Korrekturbetrag in Abzug zu
-bringen ist die bereits nach Satz 7 erfolgte Bereinigung für die in
-Satz 5 Nummer 5 genannten Leistungen. Für die Ermittlung des
-Korrekturbetrags für die in Satz 5 Nummer 6 genannten Leistungen gilt
-Satz 11 entsprechend mit der Maßgabe, dass das zu erwartende
-Verhältnis aus einer empirisch zu bestimmenden Quote ermittelt wird,
-die sich am höchsten Anteil des Punktzahlvolumens für die in Satz 5
-Nummer 6 genannten Leistungen an dem Punktzahlvolumen aller Leistungen
-innerhalb der nach Satz 1 vereinbarten Gesamtvergütung und der in Satz
-5 Nummer 3 bis 6 genannten Leistungen im Bezirk einer Kassenärztlichen
-Vereinigung in einem Quartal im Bereinigungszeitraum nach Satz 7
-bemisst. Ab dem 1. Januar 2023 sind die in Satz 5 Nummer 3, 4 und 6
-genannten Leistungen bei der Abrechnung zu kennzeichnen. Das
-Bereinigungsvolumen nach den Sätzen 7 bis 12 für Leistungen nach Satz
-5 Nummer 5 wird im Zeitraum 1. Januar 2023 bis 31. Dezember 2023 in
-die morbiditätsbedingte Gesamtvergütung rückgeführt, wobei vereinbarte
-Anpassungen des Punktwertes und des Behandlungsbedarfs seit der
-Bereinigung zu berücksichtigen sind; der Bewertungsausschuss
-beschließt bis zum 30. November 2022 entsprechende Vorgaben. Die in
-Absatz 2 Satz 1 genannten Vertragspartner haben ab dem Jahr 2023 in
-jedem Quartal die morbiditätsbedingte Gesamtvergütung in den
-Vereinbarungen nach Satz 1 unter Berücksichtigung der
-arztgruppenspezifischen Auszahlungsquoten des jeweiligen
-Vorjahresquartals zu bereinigen, wenn und soweit das
+Leistungserbringung erforderlich ist. Ab dem 1. Januar 2023 sind die
+in Satz 5 Nummer 3, 4 und 6 genannten Leistungen bei der Abrechnung zu
+kennzeichnen. Die in Absatz 2 Satz 1 genannten Vertragspartner haben
+ab dem Jahr 2023 in jedem Quartal die morbiditätsbedingte
+Gesamtvergütung in den Vereinbarungen nach Satz 1 unter
+Berücksichtigung der arztgruppenspezifischen Auszahlungsquoten des
+jeweiligen Vorjahresquartals zu bereinigen, wenn und soweit das
 arztgruppenspezifische Punktzahlvolumen der in Satz 5 Nummer 6
 genannten Leistungen der einzelnen Arztgruppen das
 arztgruppenspezifische Punktzahlvolumen dieser Leistungen im
 Vorjahresquartal um 3 Prozent übersteigt. Die arztgruppenspezifischen
 Auszahlungsquoten sind von den Kassenärztlichen Vereinigungen
 gegenüber den Krankenkassen nachzuweisen. Der Bewertungsausschuss
-beschließt das Nähere zur Bereinigung nach Satz 15 bis spätestens zum
-31\. März 2023. Der Bewertungsausschuss evaluiert, ob und wieweit durch
-die Vergütung der Leistungen nach Satz 5 Nummer 6 außerhalb der nach
-Satz 1 vereinbarten Gesamtvergütung im Zeitraum vom 1. Juli 2019 bis
-zum 30. Juni 2024 gegenüber dem zum Vergleich herangezogenen Zeitraum
-eine Verbesserung des Zugangs zur fachärztlichen Versorgung
-eingetreten ist. Das Verfahren der Evaluierung bestimmt der
-Bewertungsausschuss im Einvernehmen mit dem Bundesministerium für
-Gesundheit. Der Bewertungsausschuss hat dem Bundesministerium für
-Gesundheit bis zum 31. Dezember 2024 über die Ergebnisse der
-Evaluierung zu berichten. Die Evaluierung umfasst auch die Evaluierung
-der Zuschläge nach § 87 Absatz 2b Satz 3 und Absatz 2c Satz 3 und 4.
-Abweichend von Satz 20 hat der Bewertungsausschuss dem
+evaluiert, ob und wieweit durch die Vergütung der Leistungen nach Satz
+5 Nummer 6 außerhalb der nach Satz 1 vereinbarten Gesamtvergütung im
+Zeitraum vom 1. Juli 2019 bis zum 30. Juni 2024 gegenüber dem zum
+Vergleich herangezogenen Zeitraum eine Verbesserung des Zugangs zur
+fachärztlichen Versorgung eingetreten ist. Das Verfahren der
+Evaluierung bestimmt der Bewertungsausschuss im Einvernehmen mit dem
+Bundesministerium für Gesundheit. Der Bewertungsausschuss hat dem
+Bundesministerium für Gesundheit bis zum 31. Dezember 2024 über die
+Ergebnisse der Evaluierung zu berichten. Die Evaluierung umfasst auch
+die Evaluierung der Zuschläge nach § 87 Absatz 2b Satz 3 und Absatz 2c
+Satz 3 und 4. Abweichend von Satz 12 hat der Bewertungsausschuss dem
 Bundesministerium für Gesundheit halbjährlich, erstmals bis zum 30.
 September 2023, über die Ergebnisse der Evaluierung der Zuschläge nach
 § 87 Absatz 2b Satz 3 Nummer 1 und Absatz 2c Satz 3 Nummer 1 zu
@@ -13916,28 +14190,35 @@ Kostenerstattungsleistungen nach § 13 Abs. 2 und nach § 53 Abs. 4 mit
 Ausnahme der Kostenerstattungsleistungen nach § 13 Abs. 2 Satz 5 sind
 auf die nach Absatz 3 Satz 1 zu zahlende Gesamtvergütung anzurechnen.
 
-(3b) Die in § 87b Absatz 1 Satz 3 zweiter Halbsatz genannten
-Leistungen sind ab dem 1. April 2023 von den Krankenkassen mit den
-Preisen der regionalen Euro-Gebührenordnung nach Absatz 2 Satz 5
-vollständig zu vergüten. Abweichend von § 85 Absatz 1 und abweichend
+(3b) Leistungen des Versorgungsbereichs der Kinder- und Jugendmedizin,
+die gegenüber Patienten erbracht werden, die das 18. Lebensjahr noch
+nicht vollendet haben, sind ab dem 1. April 2023 von den Krankenkassen
+mit den Preisen der regionalen Euro-Gebührenordnung nach Absatz 2 Satz
+5 vollständig zu vergüten. Abweichend von § 85 Absatz 1 und abweichend
 von Absatz 3 Satz 1 wird die morbiditätsbedingte Gesamtvergütung
-hinsichtlich der Vergütung der in § 87b Absatz 1 Satz 3 zweiter
-Halbsatz genannten Leistungen nicht mit befreiender Wirkung gezahlt.
-Die in Absatz 2 Satz 1 genannten Vertragsparteien vereinbaren
-Zuschläge zur Förderung der Kinder- und Jugendmedizin, soweit die in §
-87b Absatz 1 Satz 3 zweiter Halbsatz genannten abgerechneten
-Leistungen die festgesetzte morbiditätsbedingte Gesamtvergütung nicht
-ausschöpfen. Für die erstmalige Festsetzung der auf die Leistungen
-nach § 87b Absatz 1 Satz 3 zweiter Halbsatz entfallenden
-morbiditätsbedingten Gesamtvergütung ist das Honorarvolumen zugrunde
-zu legen, das für die Leistungen im zweiten Quartal 2022 gemäß dem
-Verteilungsmaßstab ausgezahlt worden ist. Sofern dieses Honorarvolumen
-Zuschläge enthält, haben die Vertragsparteien nach Absatz 2 Satz 1
-diese Zuschläge in der morbiditätsbedingten Gesamtvergütung zu
-vereinbaren. Für die Zuschläge nach den Sätzen 3 und 5 sowie nach §
-87a Absatz 2 Satz 2 und 3 gilt Satz 2 nicht. Der Bewertungsausschuss
-beschließt bis zum 31. Mai 2023 Vorgaben für ein Verfahren zur
-Festsetzung der auf die in § 87b Absatz 1 Satz 3 zweiter Halbsatz
+hinsichtlich der Vergütung der in Satz 1 genannten Leistungen nicht
+mit befreiender Wirkung gezahlt. Wenn die vollständige Vergütung der
+in Satz 1 genannten Leistungen mit den Preisen der regionalen Euro-
+Gebührenordnung die festgesetzte morbiditätsbedingte Gesamtvergütung
+für die in Satz 1 genannten Leistungen über einen Zeitraum vom zweiten
+Quartal eines Kalenderjahres bis zum ersten Quartal des folgenden
+Kalenderjahres insgesamt unterschreitet, vereinbaren die in Absatz 2
+Satz 1 genannten Vertragsparteien bis zum Ablauf des zweiten Quartals
+des letztgenannten Kalenderjahres jeweils Zuschläge zur Förderung der
+Kinder- und Jugendmedizin, deren Auszahlungshöhe in Summe der Höhe der
+genannten Unterschreitung entspricht; sind im Zeitraum einer im ersten
+Halbsatz genannten Unterschreitung nach Satz 9 Ausgleichszahlungen zu
+leisten, so sind diese Ausgleichszahlungen mit der Unterschreitung zu
+verrechnen. Für die erstmalige Festsetzung der auf die in Satz 1
+genannten Leistungen entfallenden morbiditätsbedingten Gesamtvergütung
+ist das Honorarvolumen zugrunde zu legen, das für die Leistungen im
+zweiten Quartal 2022 gemäß dem Verteilungsmaßstab ausgezahlt worden
+ist. Sofern dieses Honorarvolumen Zuschläge enthält, haben die
+Vertragsparteien nach Absatz 2 Satz 1 diese Zuschläge in der
+morbiditätsbedingten Gesamtvergütung zu vereinbaren. Für die Zuschläge
+nach den Sätzen 3 und 5 sowie nach Absatz 2 Satz 2 und 3 gilt Satz 2
+nicht. Der Bewertungsausschuss beschließt bis zum 31. Mai 2023
+Vorgaben für ein Verfahren zur Festsetzung der auf die in Satz 1
 genannten Leistungen entfallenden morbiditätsbedingten
 Gesamtvergütung, die erstmalig rückwirkend zum 1. April 2023 für das
 laufende Kalenderjahr und danach jährlich für das folgende
@@ -13946,20 +14227,130 @@ bis zum 31. Mai 2023 Vorgaben für ein Verfahren zur Ermittlung des auf
 die jeweilige Krankenkasse entfallenden Anteils an
 Ausgleichszahlungen, der sich nach ihrem jeweiligen
 leistungsmengenbezogenen Anteil an dieser Ausgleichszahlung bemisst.
-Eine Ausgleichszahlung ist dann zu leisten, wenn die auf die in § 87b
-Absatz 1 Satz 3 zweiter Halbsatz genannten Leistungen entfallende
-morbiditätsbedingte Gesamtvergütung nicht ausreicht, um die
-vollständige Vergütung nach Satz 1 zu gewährleisten. Die in Absatz 2
-Satz 1 genannten Vertragsparteien haben sich auf ein Verfahren zu
-verständigen, nach dem die Kassenärztliche Vereinigung die Entwicklung
-der in § 87b Absatz 1 Satz 3 zweiter Halbsatz genannten Leistungen und
-von deren Vergütungen gegenüber den Krankenkassen nachweist. Der
+Eine Ausgleichszahlung ist dann zu leisten, wenn die auf die in Satz 1
+genannten Leistungen entfallende morbiditätsbedingte Gesamtvergütung
+nicht ausreicht, um die vollständige Vergütung nach Satz 1 zu
+gewährleisten. Die in Absatz 2 Satz 1 genannten Vertragsparteien haben
+sich auf ein Verfahren zu verständigen, nach dem die Kassenärztliche
+Vereinigung die Entwicklung der in Satz 1 genannten Leistungen und von
+deren Vergütungen gegenüber den Krankenkassen nachweist. Der
 Bewertungsausschuss analysiert die Auswirkungen der Regelungen des
 Absatzes 3 Satz 5 Nummer 8, dieses Absatzes sowie der Regelungen in §
 87b Absatz 1 Satz 3 zweiter Halbsatz insbesondere auf die Versorgung
 der Kinder und Jugendlichen, die Honorare sowie die Ausgaben der
 Krankenkassen und berichtet dem Bundesministerium für Gesundheit bis
-zum 31. Dezember 2025 über die Ergebnisse.
+zum 31. Dezember 2025 über die Ergebnisse. Der Bewertungsausschuss
+beschließt bis zum 1. Mai 2025 Vorgaben zu in Absatz 6 genannten
+Datenübermittlungen, mit denen die Kassenärztlichen Vereinigungen
+gegenüber den Krankenkassen quartalsweise die erstmalige Festsetzung
+und die Fortschreibung der auf die in Satz 1 genannten Leistungen
+entfallenden morbiditätsbedingten Gesamtvergütung, die Entwicklung des
+finanziellen Bedarfs für die in Satz 1 genannten Leistungen, ab dem 1.
+April 2023 eine etwaige in Satz 3 erster Halbsatz genannte
+Unterschreitung, die in den Sätzen 3 und 5 genannten Zuschläge sowie
+die Ausgleichszahlungen nach Satz 9 nachweist.
+
+(3c) Leistungen des Versorgungsbereichs der allgemeinen hausärztlichen
+Versorgung einschließlich der in Zusammenhang mit diesem
+Versorgungsbereich erbrachten Hausbesuche, soweit diese Leistungen
+nach sachlicher und rechnerischer Prüfung durch die Kassenärztliche
+Vereinigung anerkannt wurden (hausärztlicher Leistungsbedarf), sind ab
+dem 1. Oktober 2025 von den Krankenkassen mit den Preisen der
+regionalen Euro-Gebührenordnung nach Absatz 2 Satz 5 vollständig zu
+vergüten. Abweichend von Absatz 3 Satz 1 und § 85 Absatz 1 wird die
+auf die in Satz 1 genannten Leistungen entfallende morbiditätsbedingte
+Gesamtvergütung nicht mit befreiender Wirkung gezahlt. Für die nach
+Satz 7 in den Kalenderjahren 2025 und 2026 jeweils zu erfolgende
+quartalsweise Festsetzung der auf die in Satz 1 genannten Leistungen
+entfallenden morbiditätsbedingten Gesamtvergütung im Bezirk einer
+Kassenärztlichen Vereinigung haben die Vertragspartner nach Absatz 2
+Satz 1 jeweils den prozentualen Anteil des Honorarvolumens, das für
+den hausärztlichen Leistungsbedarf einschließlich sämtlicher auf
+diesen entfallender leistungsbezogener und nicht leistungsbezogener
+Zuschläge und einschließlich zusätzlicher Honorarauszahlungen in dem
+dem jeweiligen Kalenderquartal entsprechenden Kalenderquartal des
+Jahres 2023 gemäß dem in § 87b Absatz 1 Satz 2 genannten
+Verteilungsmaßstab ausgezahlt wurde, am Honorarvolumen, das für den
+Leistungsbedarf aller Arztgruppen innerhalb der morbiditätsbedingten
+Gesamtvergütung in dem dem jeweiligen Kalenderquartal entsprechenden
+Kalenderquartal des Jahres 2023 einschließlich sämtlicher auf diesen
+entfallender leistungsbezogener und nicht leistungsbezogener Zuschläge
+und einschließlich zusätzlicher Honorarauszahlungen gemäß dem in § 87b
+Absatz 1 Satz 2 genannten Verteilungsmaßstab ausgezahlt wurde, zu
+bestimmen und diesen prozentualen Anteil mit der für das jeweilige
+Kalenderquartal vereinbarten und bereinigten morbiditätsbedingten
+Gesamtvergütung zu multiplizieren. Soweit aufgrund von Änderungen des
+nach Absatz 3 Satz 2 vereinbarten Behandlungsbedarfs einschließlich
+Abgrenzungsänderungen der nach Absatz 3 Satz 6 vergüteten Leistungen
+der Behandlungsbedarf für die in Satz 1 genannten Leistungen für das
+jeweilige Kalenderquartal gegenüber dem diesem Kalenderquartal
+entsprechenden Kalenderquartal des Jahres 2023 abweicht, ist der nach
+Satz 3 zu bestimmende prozentuale Anteil entsprechend anzupassen. Satz
+4 gilt für die gesetzlich vorgesehenen Bereinigungen des
+Behandlungsbedarfs entsprechend. Sofern das Honorarvolumen für die in
+Satz 1 genannten Leistungen in dem dem jeweiligen Kalenderquartal
+entsprechenden Kalenderquartal des Jahres 2023 leistungsbezogene und
+nicht leistungsbezogene Zuschläge und zusätzliche Honorarauszahlungen
+enthält, haben die Vertragsparteien nach Absatz 2 Satz 1 diese
+Zuschläge und zusätzlichen Honorarauszahlungen in der quartalsweise
+festzulegenden morbiditätsbedingten Gesamtvergütung für die in Satz 1
+genannten Leistungen zu berücksichtigen. Der Bewertungsausschuss
+beschließt bis zum 31. Mai 2025 Vorgaben für ein Verfahren zur
+Festsetzung der auf die in Satz 1 genannten Leistungen entfallenden
+morbiditätsbedingten Gesamtvergütung, die quartalsweise für die
+Kalenderquartale des Kalenderjahres 2025 und des Kalenderjahres 2026
+bis zum ersten Tag des jeweiligen Kalenderquartals, erstmalig bis zum
+1\. Oktober 2025, und ab dem Kalenderjahr 2027 jährlich bis zum 1.
+Januar des jeweiligen Kalenderjahres zu erfolgen hat. Die Vorgaben des
+Bewertungsausschusses nach Satz 7 haben insbesondere die Anpassung des
+nach Absatz 2 Satz 1 zu vereinbarenden Punktwertes und die Veränderung
+des nach Absatz 3 Satz 2 zu vereinbarenden Behandlungsbedarfs für die
+in Satz 1 genannten Leistungen sowie die jeweils auf die Veränderung
+entfallenden Bereinigungen einzubeziehen. Wenn in dem Bezirk einer
+Kassenärztlichen Vereinigung die Differenz zwischen der festgesetzten,
+auf die in Satz 1 genannten Leistungen entfallenden
+morbiditätsbedingten Gesamtvergütung und dem mit den Preisen der
+regionalen Euro-Gebührenordnung nach Absatz 2 Satz 5 bewerteten
+hausärztlichen Leistungsbedarf ausschließlich der in Satz 6 genannten
+Zuschläge und zusätzlichen Honorarauszahlungen in einem
+Kalenderquartal einen Wert von null unterschreitet, leisten die
+Krankenkassen Ausgleichszahlungen an die jeweilige Kassenärztliche
+Vereinigung in Höhe ihres jeweiligen nach dem in Satz 12 genannten
+Verfahren ermittelten Anteil an der Differenz, um die vollständige
+Vergütung des hausärztlichen Leistungsbedarfs zu gewährleisten. Die
+Ausgleichzahlungen sind mit einer Unterschreitung der festgesetzten,
+auf die in Satz 1 genannten Leistungen entfallenden
+morbiditätsbedingten Gesamtvergütung durch den hausärztlichen
+Leistungsbedarf in den vorangegangenen Kalenderquartalen zu
+verrechnen. Wenn der hausärztliche Leistungsbedarf die festgesetzte,
+auf die in Satz 1 genannten Leistungen entfallende morbiditätsbedingte
+Gesamtvergütung über einen Zeitraum vom zweiten Quartal eines
+Kalenderjahres bis zum ersten Quartal des folgenden Kalenderjahres
+insgesamt unterschreitet, vereinbaren die in Absatz 2 Satz 1 genannten
+Vertragsparteien bis zum Ablauf des zweiten Kalenderquartals des
+letztgenannten Kalenderjahres jeweils Zuschläge zur Förderung der
+hausärztlichen Versorgung, deren Auszahlungshöhe in Summe der
+genannten Unterschreitung entspricht. Der Bewertungsausschuss
+beschließt bis zum 1. Oktober 2025 Vorgaben für ein Verfahren zur
+Ermittlung des auf die jeweiligen Krankenkassen entfallenden Anteils
+an den in Satz 9 genannten Ausgleichszahlungen, der sich nach ihrem
+jeweiligen leistungsmengenbezogenen Anteil an der Ausgleichszahlung zu
+bemessen hat. Für die in den Sätzen 6 und 11 genannten Zuschläge sowie
+für die in Absatz 2 Satz 2 und 3 genannten Zuschläge gilt Satz 2
+nicht. Der Bewertungsausschuss beschließt bis zum 1. Mai 2025 Vorgaben
+zu in Absatz 6 genannten Datenübermittlungen, mit denen die
+Kassenärztlichen Vereinigungen gegenüber den Krankenkassen
+quartalsweise die erstmalige Festsetzung und die Fortschreibung der
+auf die in Satz 1 genannten Leistungen entfallenden
+morbiditätsbedingten Gesamtvergütung, die Entwicklung des
+hausärztlichen Leistungsbedarfs, eine etwaige in Satz 10 genannte
+Unterschreitung, die in den Sätzen 6 und 11 genannten Zuschläge sowie
+die Ausgleichszahlungen nach Satz 9 nachweist. Der Bewertungsausschuss
+analysiert die Auswirkungen der Regelungen dieses Absatzes
+insbesondere im Hinblick auf die hausärztliche Versorgung der
+Versicherten, die Honorare sowie die Ausgaben der Krankenkassen und
+berichtet dem Bundesministerium für Gesundheit bis zum 30. September
+2027 über die Ergebnisse dieser Analyse.
 
 (4) Grundlage der Vereinbarung über die Anpassung des
 Behandlungsbedarfs jeweils aufsetzend auf dem insgesamt für alle
@@ -14155,13 +14546,17 @@ Vergütung der Leistungen im Notfall und im Notdienst erfolgt aus einem
 vor der Trennung für die Versorgungsbereiche gebildeten eigenen
 Honorarvolumen mit der Maßgabe, dass für diese Leistungen im
 Verteilungsmaßstab keine Maßnahmen zur Begrenzung oder Minderung des
-Honorars angewandt werden dürfen; Gleiches gilt unter Beachtung der
-nach § 87a Absatz 3b Satz 7 beschlossenen Vorgaben für die Vergütung
-der Leistungen des Versorgungsbereichs der Kinder- und Jugendmedizin,
-die gegenüber Patienten erbracht werden, die das 18. Lebensjahr noch
-nicht vollendet haben. Bisherige Bestimmungen, insbesondere zur
-Zuweisung von arzt- und praxisbezogenen Regelleistungsvolumen, gelten
-bis zur Entscheidung über einen Verteilungsmaßstab vorläufig fort.
+Honorars angewandt werden dürfen; im Verteilungsmaßstab dürfen für
+Leistungen des Versorgungsbereichs der Kinder- und Jugendmedizin, die
+gegenüber Patienten erbracht werden, die das 18. Lebensjahr noch nicht
+vollendet haben, und ab dem 1. Oktober 2025 für Leistungen des
+Versorgungsbereichs der allgemeinen hausärztlichen Versorgung
+einschließlich der in Zusammenhang mit diesem Versorgungsbereich
+erbrachten Hausbesuche ebenfalls keine Maßnahmen zur Begrenzung oder
+Minderung des Honorars angewandt werden. Bisherige Bestimmungen,
+insbesondere zur Zuweisung von arzt- und praxisbezogenen
+Regelleistungsvolumen, gelten bis zur Entscheidung über einen
+Verteilungsmaßstab vorläufig fort.
 
 (2) Der Verteilungsmaßstab hat Regelungen vorzusehen, die verhindern,
 dass die Tätigkeit des Leistungserbringers über seinen
@@ -15550,51 +15945,61 @@ Forschungseinrichtungen sein. Ein Anspruch auf Förderung besteht
 nicht. Die für Versorgungsforschung zur Verfügung stehenden Mittel
 können auch für Forschungsvorhaben zur Weiterentwicklung und
 insbesondere Evaluation der Richtlinien des Gemeinsamen
-Bundesausschusses sowie zur Entwicklung oder Weiterentwicklung
-ausgewählter medizinischer Leitlinien, für die in der Versorgung
-besonderer Bedarf besteht, eingesetzt werden.
-
-(3) Die Fördersumme für neue Versorgungsformen und
-Versorgungsforschung nach den Absätzen 1 und 2 beträgt jährlich 200
-Millionen Euro. Sie umfasst auch die für die Verwaltung der Mittel und
-die Durchführung der Förderung einschließlich der wissenschaftlichen
-Auswertung nach Absatz 5 notwendigen Aufwendungen. Von der Fördersumme
-sollen 80 Prozent für die Förderung nach Absatz 1 und 20 Prozent für
-die Förderung nach Absatz 2 verwendet werden, wobei 20 Millionen Euro
-jährlich für neue Versorgungsformen mit kurzer Laufzeit und mindestens
-5 Millionen Euro jährlich für die in Absatz 2 Satz 4 genannte
+Bundesausschusses, zur Entwicklung und Weiterentwicklung von
+Meldesystemen zur Förderung der Patientensicherheit, sowie zur
 Entwicklung oder Weiterentwicklung ausgewählter medizinischer
 Leitlinien, für die in der Versorgung besonderer Bedarf besteht,
-aufgewendet werden sollen. Mittel, die im jeweiligen Haushaltsjahr
-nicht bewilligt wurden, und bewilligte Mittel für beendete Vorhaben,
-die nicht zur Auszahlung gelangt sind, werden jeweils in das folgende
-Haushaltsjahr übertragen. Die Laufzeit eines im Rahmen des einstufigen
-Verfahrens mit langer Laufzeit oder des zweistufigen Verfahrens nach
-Absatz 1 Satz 8 geförderten Vorhabens und eines nach Absatz 2
-geförderten Vorhabens kann bis zu vier Jahre betragen, wobei die
-Konzeptentwicklung im Rahmen der ersten Stufe der Förderung im
-zweistufigen Verfahren nicht zur Laufzeit eines Vorhabens zählt. Die
-Laufzeit eines im einstufigen Verfahren für neue Versorgungsformen mit
-kurzer Laufzeit geförderten Vorhabens kann bis zu zwei Jahre betragen.
+eingesetzt werden.
 
-(4) Die Mittel nach Absatz 3, verringert um den Finanzierungsanteil
-der landwirtschaftlichen Krankenkasse nach § 221 Absatz 3 Satz 1
-Nummer 1, werden durch den Gesundheitsfonds (Liquiditätsreserve) und
-die nach § 266 am Risikostrukturausgleich teilnehmenden Krankenkassen
-jeweils zur Hälfte getragen. Das Bundesamt für Soziale Sicherung
-erhebt und verwaltet die Mittel (Innovationsfonds) und zahlt die
-Fördermittel auf der Grundlage der Entscheidungen des
-Innovationsausschusses nach § 92b aus. Die dem Bundesamt für Soziale
-Sicherung im Zusammenhang mit dem Innovationsfonds entstehenden
-Ausgaben werden aus den Einnahmen des Innovationsfonds gedeckt. Das
-Nähere zur Erhebung der Mittel für den Innovationsfonds durch das
-Bundesamt für Soziale Sicherung bei den nach § 266 am
-Risikostrukturausgleich teilnehmenden Krankenkassen regelt die
-Rechtsverordnung nach § 266 Absatz 8 Satz 1; § 266 Absatz 7 Satz 7
-gilt entsprechend. Das Nähere zur Weiterleitung der Mittel an den
-Innovationsfonds und zur Verwaltung der Mittel des Innovationsfonds
-bestimmt das Bundesamt für Soziale Sicherung im Benehmen mit dem
-Innovationsausschuss und dem Spitzenverband Bund der Krankenkassen.
+(3) Die Fördersumme für neue Versorgungsformen und
+Versorgungsforschung nach den Absätzen 1 und 2 beträgt im Jahr
+2026 100 Millionen Euro und ab dem Jahr 2027 jährlich 200 Millionen
+Euro. Sie umfasst auch die für die Verwaltung der Mittel und die
+Durchführung der Förderung einschließlich der wissenschaftlichen
+Auswertung nach Absatz 5 notwendigen Aufwendungen. Von der Fördersumme
+sollen 80 Prozent für die Förderung nach Absatz 1 und 20 Prozent für
+die Förderung nach Absatz 2 verwendet werden. Im Jahr 2026 sollen von
+der Fördersumme 10 Millionen Euro und ab dem Jahr 2027 jährlich 20
+Millionen Euro für neue Versorgungsformen mit kurzer Laufzeit
+aufgewendet werden. Für die Entwicklung oder Weiterentwicklung
+ausgewählter medizinischer Leitlinien, für die in der Versorgung
+besonderer Bedarf besteht, sollen von der Fördersumme im Jahr 2026
+mindestens 2,5 Millionen Euro und ab dem Jahr 2027 jährlich mindestens
+5 Millionen Euro verwendet werden. Mittel, die im jeweiligen
+Haushaltsjahr nicht bewilligt wurden, und bewilligte Mittel für
+beendete Vorhaben, die nicht zur Auszahlung gelangt sind, werden
+jeweils in das folgende Haushaltsjahr übertragen. Die Laufzeit eines
+im Rahmen des einstufigen Verfahrens mit langer Laufzeit oder des
+zweistufigen Verfahrens nach Absatz 1 Satz 8 geförderten Vorhabens und
+eines nach Absatz 2 geförderten Vorhabens kann bis zu vier Jahre
+betragen, wobei die Konzeptentwicklung im Rahmen der ersten Stufe der
+Förderung im zweistufigen Verfahren nicht zur Laufzeit eines Vorhabens
+zählt. Die Laufzeit eines im einstufigen Verfahren für neue
+Versorgungsformen mit kurzer Laufzeit geförderten Vorhabens kann bis
+zu zwei Jahre betragen.
+
+(4) Im Jahr 2026 wird die Fördersumme nach Absatz 3, verringert um den
+Finanzierungsanteil der landwirtschaftlichen Krankenkasse nach § 221
+Absatz 3 Satz 1 Nummer 1, durch die Liquiditätsreserve des
+Gesundheitsfonds getragen. Ab dem Jahr 2027 wird die Fördersumme nach
+Absatz 3, verringert um den Finanzierungsanteil der
+landwirtschaftlichen Krankenkasse nach § 221 Absatz 3 Satz 1 Nummer 1,
+durch die Liquiditätsreserve des Gesundheitsfonds und die nach § 266
+am Risikostrukturausgleich teilnehmenden Krankenkassen jeweils zur
+Hälfte getragen. Das Bundesamt für Soziale Sicherung erhebt und
+verwaltet die Mittel (Innovationsfonds) und zahlt die Fördermittel auf
+der Grundlage der Entscheidungen des Innovationsausschusses nach § 92b
+aus. Die dem Bundesamt für Soziale Sicherung im Zusammenhang mit dem
+Innovationsfonds entstehenden Ausgaben werden aus den Einnahmen des
+Innovationsfonds gedeckt. Das Nähere zur Erhebung der Mittel für den
+Innovationsfonds durch das Bundesamt für Soziale Sicherung bei den
+nach § 266 am Risikostrukturausgleich teilnehmenden Krankenkassen
+regelt die Rechtsverordnung nach § 266 Absatz 8 Satz 1; § 266 Absatz 7
+Satz 7 gilt entsprechend. Das Nähere zur Weiterleitung der Mittel an
+den Innovationsfonds und zur Verwaltung der Mittel des
+Innovationsfonds bestimmt das Bundesamt für Soziale Sicherung im
+Benehmen mit dem Innovationsausschuss und dem Spitzenverband Bund der
+Krankenkassen.
 
 (5) Das Bundesministerium für Gesundheit veranlasst eine
 wissenschaftliche Auswertung der Förderung nach dieser Vorschrift im
@@ -15630,19 +16035,20 @@ themenoffenen Förderbekanntmachungen die Schwerpunkte und Kriterien
 für die Förderung nach § 92a Absatz 1 und 2 Satz 1 bis 4 erste
 Alternative fest. Die Förderung von Vorhaben im einstufigen Verfahren
 für neue Versorgungsformen mit kurzer Laufzeit erfolgt in der Regel im
-Rahmen themenoffener Förderbekanntmachungen. Die Schwerpunkte für die
-Entwicklung und Weiterentwicklung von Leitlinien nach § 92a Absatz 2
-Satz 4 zweite Alternative legt das Bundesministerium für Gesundheit
-fest. Dabei kann die Arbeitsgemeinschaft der Wissenschaftlichen
-Medizinischen Fachgesellschaften dem Bundesministerium für Gesundheit
-Schwerpunkte zur Entwicklung oder Weiterentwicklung von Leitlinien
-vorschlagen. Jedem Vorschlag ist eine Begründung des jeweiligen
-Förderbedarfs beizufügen. Der Innovationsausschuss übernimmt die vom
-Bundesministerium für Gesundheit festgelegten Schwerpunkte in
-Förderbekanntmachungen und legt in diesen die Kriterien für die
-Förderung nach § 92a Absatz 2 Satz 4 zweite Alternative fest. Der
-Innovationsausschuss führt auf der Grundlage der
-Förderbekanntmachungen nach den Sätzen 1 bis 6
+Rahmen themenoffener Förderbekanntmachungen. Die Schwerpunkte zur
+Entwicklung und Weiterentwicklung von Meldesystemen zur Förderung der
+Patientensicherheit und für die Entwicklung und Weiterentwicklung von
+Leitlinien nach § 92a Absatz 2 Satz 4 legt das Bundesministerium für
+Gesundheit fest. Dabei kann die Arbeitsgemeinschaft der
+Wissenschaftlichen Medizinischen Fachgesellschaften dem
+Bundesministerium für Gesundheit Schwerpunkte zur Entwicklung oder
+Weiterentwicklung von Leitlinien vorschlagen. Jedem Vorschlag ist eine
+Begründung des jeweiligen Förderbedarfs beizufügen. Der
+Innovationsausschuss übernimmt die vom Bundesministerium für
+Gesundheit festgelegten Schwerpunkte in Förderbekanntmachungen und
+legt in diesen die Kriterien für die Förderung nach § 92a Absatz 2
+Satz 4 zweite Alternative fest. Der Innovationsausschuss führt auf der
+Grundlage der Förderbekanntmachungen nach den Sätzen 1 bis 6
 Interessenbekundungsverfahren durch und entscheidet über die
 eingegangenen Anträge auf Förderung. Er beschließt nach Abschluss der
 geförderten Vorhaben Empfehlungen zur Überführung in die
@@ -16000,6 +16406,12 @@ Absatz 2 Satz 1 zweiter Halbsatz, zu prüfen. Die Ergebnisse sowie eine
 Landes- und Zulassungsausschüssen sowie der für die jeweilige
 Kassenärztliche Vereinigung zuständigen Aufsichtsbehörde jeweils zum
 30\. Juni des Jahres zu übermitteln.
+
+(3a) Tätigkeiten im Notdienst, zu denen ein Vertragsarzt aufgrund
+seiner jeweiligen Zulassung verpflichtet ist, sind
+sozialversicherungsrechtlich entsprechend der
+sozialversicherungsrechtlichen Einordnung seiner Tätigkeit im Rahmen
+der vertragsärztlichen Versorgung zu bewerten.
 
 (4) Die Ermächtigung bewirkt, daß der ermächtigte Arzt oder die
 ermächtigte Einrichtung zur Teilnahme an der vertragsärztlichen
@@ -17289,13 +17701,14 @@ zu verbessern oder zu fördern.
 
 (1a) Die Kassenärztliche Vereinigung hat zur Finanzierung von
 Fördermaßnahmen zur Sicherstellung der vertragsärztlichen Versorgung
-einen Strukturfonds zu bilden, für den sie mindestens 0,1 Prozent und
-höchstens 0,2 Prozent der nach § 87a Absatz 3 Satz 1 vereinbarten
-morbiditätsbedingten Gesamtvergütungen zur Verfügung stellt. Die
-Landesverbände der Krankenkassen und die Ersatzkassen haben zusätzlich
-einen Betrag in gleicher Höhe in den Strukturfonds zu entrichten.
-Mittel des Strukturfonds sollen insbesondere für folgende Maßnahmen
-verwendet werden:
+einen Strukturfonds zu bilden, in den sie einen Betrag in Höhe von
+mindestens 0,1 Prozent und höchstens 0,2 Prozent der nach § 87a Absatz
+3 Satz 1 vereinbarten morbiditätsbedingten Gesamtvergütungen einzahlt.
+Über die Aufbringung des Betrages entscheidet die Kassenärztliche
+Vereinigung. Die Landesverbände der Krankenkassen und die Ersatzkassen
+haben zusätzlich einen Betrag in gleicher Höhe in den Strukturfonds zu
+entrichten. Mittel des Strukturfonds sollen insbesondere für folgende
+Maßnahmen verwendet werden:
 
 1.  Zuschüsse zu den Investitionskosten bei der Neuniederlassung, bei
     Praxisübernahmen oder bei der Gründung von Zweigpraxen,
@@ -17337,8 +17750,8 @@ Strukturfonds. Auch die Kassenzahnärztliche Vereinigung kann zur
 Finanzierung von Fördermaßnahmen zur Sicherstellung der
 vertragszahnärztlichen Versorgung einen Strukturfonds bilden, für den
 sie bis zu 0,2 Prozent der nach § 85 vereinbarten Gesamtvergütungen
-zur Verfügung stellt. Die Sätze 2, 3 Nummer 1 bis 4 und 8 sowie die
-Sätze 4 und 5 gelten in diesem Fall entsprechend. Die
+zur Verfügung stellt. Die Sätze 3, 4 Nummer 1 bis 4 und 8 sowie die
+Sätze 5 und 6 gelten in diesem Fall entsprechend. Die
 Kassenzahnärztliche Vereinigung kann in den Jahren 2021 und 2022 aus
 Mitteln des Strukturfonds eine Förderung von in den Jahren 2019 bis
 2021 neu niedergelassenen Praxen vorsehen.
@@ -17865,10 +18278,11 @@ Gesundheit die Richtlinien erlassen.
 1.  der Krankenhausbehandlung oder Geburtshilfe dienen,
 
 
-2.  fachlich-medizinisch unter ständiger ärztlicher Leitung stehen, über
-    ausreichende, ihrem Versorgungsauftrag entsprechende diagnostische und
-    therapeutische Möglichkeiten verfügen und nach wissenschaftlich
-    anerkannten Methoden arbeiten,
+2.  fachlich-medizinisch unter ständiger ärztlicher Leitung stehen,
+    pflegefachlich unter ständiger pflegefachlicher Leitung stehen, über
+    ausreichende, ihrem Versorgungsauftrag entsprechende diagnostische,
+    pflegefachliche und therapeutische Möglichkeiten verfügen und nach
+    wissenschaftlich anerkannten Methoden arbeiten,
 
 
 3.  mit Hilfe von jederzeit verfügbarem ärztlichem, Pflege-, Funktions-
@@ -17941,12 +18355,23 @@ Krankenhäuser (zugelassene Krankenhäuser) erbringen lassen:
 
 
 2.  Krankenhäuser, die in den Krankenhausplan eines Landes aufgenommen
-    sind (Plankrankenhäuser), oder
+    sind (Plankrankenhäuser),
 
 
 3.  Krankenhäuser, die einen Versorgungsvertrag mit den Landesverbänden
     der Krankenkassen und den Verbänden der Ersatzkassen abgeschlossen
-    haben.
+    haben, oder
+
+
+4.  Bundeswehrkrankenhäuser, soweit sie durch das Bundesministerium der
+    Verteidigung im Einvernehmen mit der jeweiligen für die
+    Krankenhausplanung zuständigen Landesbehörde und den Landesverbänden
+    der Krankenkassen und den Ersatzkassen dazu bestimmt wurden; bis zu
+    dieser Bestimmung gelten die Bundeswehrkrankenhäuser als dazu
+    bestimmt, soweit sie am 1. Januar 2024 durch die Aufnahme in den
+    Krankenhausplan eines Landes oder durch den Abschluss eines
+    Versorgungsvertrags mit den Landesverbänden der Krankenkassen und den
+    Ersatzkassen zugelassen waren.
 
 
 
@@ -17968,8 +18393,9 @@ zwischen den Landesverbänden der Krankenkassen und den Ersatzkassen
 gemeinsam und dem Krankenhausträger zustande; er bedarf der
 Schriftform. Bei den Hochschulkliniken gilt die Anerkennung nach den
 landesrechtlichen Vorschriften, bei den Plankrankenhäusern die
-Aufnahme in den Krankenhausbedarfsplan nach § 8 Abs. 1 Satz 2 des
-Krankenhausfinanzierungsgesetzes als Abschluss des
+Aufnahme in den Krankenhausplan nach § 8 Absatz 1 Satz 3 des
+Krankenhausfinanzierungsgesetzes und bei den Bundeswehrkrankenhäusern
+die in § 108 Nummer 4 genannte Bestimmung als Abschluss des
 Versorgungsvertrages. Dieser ist für alle Krankenkassen im Inland
 unmittelbar verbindlich. Die Vertragsparteien nach Satz 1 können im
 Einvernehmen mit der für die Krankenhausplanung zuständigen
@@ -17985,11 +18411,14 @@ Krankenhausplanung zuständigen Landesbehörde ergänzend vereinbart.
 3 besteht nicht. Bei notwendiger Auswahl zwischen mehreren geeigneten
 Krankenhäusern, die sich um den Abschluß eines Versorgungsvertrags
 bewerben, entscheiden die Landesverbände der Krankenkassen und die
-Ersatzkassen gemeinsam unter Berücksichtigung der öffentlichen
-Interessen und der Vielfalt der Krankenhausträger nach pflichtgemäßem
-Ermessen, welches Krankenhaus den Erfordernissen einer qualitativ
-hochwertigen, patienten- und bedarfsgerechten sowie leistungsfähigen
-und wirtschaftlichen Krankenhausbehandlung am besten gerecht wird.
+Ersatzkassen gemeinsam unter Berücksichtigung der Erfüllung der in der
+Tabellenzeile „Auswahlkriterium“ der Anlage 1 für die jeweilige in dem
+Versorgungsvertrag zu vereinbarende Leistungsgruppe genannten
+Qualitätskriterien sowie der öffentlichen Interessen und der Vielfalt
+der Krankenhausträger nach pflichtgemäßem Ermessen, welches
+Krankenhaus den Erfordernissen einer qualitativ hochwertigen,
+patienten- und bedarfsgerechten sowie leistungsfähigen und
+wirtschaftlichen Krankenhausbehandlung am besten gerecht wird.
 
 (3) Ein Versorgungsvertrag nach § 108 Nr. 3 darf nicht abgeschlossen
 werden, wenn das Krankenhaus
@@ -17998,15 +18427,9 @@ werden, wenn das Krankenhaus
     Krankenhausbehandlung bietet,
 
 
-2.  bei den maßgeblichen planungsrelevanten Qualitätsindikatoren nach § 6
-    Absatz 1a des Krankenhausfinanzierungsgesetzes auf der Grundlage der
-    vom Gemeinsamen Bundesausschuss nach § 136c Absatz 2 übermittelten
-    Maßstäbe und Bewertungskriterien nicht nur vorübergehend eine in einem
-    erheblichen Maß unzureichende Qualität aufweist, die im jeweiligen
-    Landesrecht vorgesehenen Qualitätsanforderungen nicht nur
-    vorübergehend und in einem erheblichen Maß nicht erfüllt, höchstens
-    drei Jahre in Folge Qualitätsabschlägen nach § 5 Absatz 3a des
-    Krankenhausentgeltgesetzes unterliegt oder
+2.  an dem Krankenhausstandort, für den bestimmte Leistungsgruppen
+    vereinbart werden sollen, die für diese Leistungsgruppen nach § 135e
+    Absatz 2 Satz 2 maßgeblichen Qualitätskriterien nicht erfüllt, oder
 
 
 3.  für eine bedarfsgerechte Krankenhausbehandlung der Versicherten nicht
@@ -18019,6 +18442,52 @@ Genehmigung durch die zuständigen Landesbehörden wirksam. Verträge,
 die vor dem 1. Januar 1989 nach § 371 Abs. 2 der
 Reichsversicherungsordnung abgeschlossen worden sind, gelten bis zu
 ihrer Kündigung nach § 110 weiter.
+
+(3a) Die in Absatz 3 Satz 1 Nummer 2 genannte Erfüllung von
+Qualitätskriterien ist durch das Krankenhaus vor Abschluss eines
+Versorgungsvertrags gegenüber den Landesverbänden der Krankenkassen
+und den Ersatzkassen nachzuweisen. Der in Satz 1 genannte Nachweis
+wird durch ein Gutachten des Medizinischen Dienstes über die Prüfung
+der Erfüllung der für die jeweilige Leistungsgruppe maßgeblichen
+Qualitätskriterien erbracht, dessen Übermittlung nach § 275a Absatz 4
+Satz 1 an die Landesverbände der Krankenkassen und die Ersatzkassen zu
+dem Zeitpunkt des Abschlusses des Versorgungsvertrags nicht länger als
+zwei Jahre und ab dem dritten Nachweis nicht länger als drei Jahre
+zurückliegt. Bis zu dem Zeitpunkt der in Satz 2 genannten Übermittlung
+kann der in Satz 1 genannte Nachweis durch eine begründete
+Selbsteinschätzung des Krankenhauses erbracht werden, wenn der
+Medizinische Dienst bereits mit der Prüfung nach § 275a Absatz 1 Satz
+1 Nummer 1 beauftragt wurde. Abweichend von Absatz 3 Satz 1 Nummer 2
+darf ein Versorgungsvertrag abgeschlossen werden, obwohl das
+Krankenhaus an dem Krankenhausstandort, für den bestimmte
+Leistungsgruppen in dem Versorgungsvertrag vereinbart werden sollen,
+die für diese Leistungsgruppen maßgeblichen Qualitätskriterien nicht
+erfüllt, wenn dies zur Sicherstellung einer flächendeckenden
+Versorgung der Bevölkerung zwingend erforderlich ist und dies für die
+jeweilige Leistungsgruppe nicht durch die Rechtsverordnung nach § 135e
+Absatz 1 Satz 1 Nummer 4 ausgeschlossen ist. Der Abschluss eines
+Versorgungsvertrags ist zur Sicherstellung einer flächendeckenden
+Versorgung der Bevölkerung zwingend erforderlich, wenn ein anderer
+Krankenhausstandort, für den die jeweilige Leistungsgruppe nach § 6a
+Absatz 1 Satz 1 des Krankenhausfinanzierungsgesetzes zugewiesen ist,
+für einen erheblichen Teil der Einwohner des Einzugsbereichs des
+Krankenhausstandorts, für den die Leistungsgruppe vereinbart werden
+soll, nicht innerhalb der jeweiligen in § 6a Absatz 4 Satz 3 des
+Krankenhausfinanzierungsgesetzes genannten Fahrzeit mit einem
+Kraftfahrzeug erreichbar ist. Der Versorgungsvertrag ist im Fall des
+Satzes 4 auf höchstens drei Jahre zu befristen; in dem
+Versorgungsvertrag ist das Krankenhaus zu verpflichten, an dem
+jeweiligen Krankenhausstandort die für die jeweilige Leistungsgruppe
+maßgeblichen Qualitätskriterien innerhalb einer Frist, die höchstens
+drei Jahre betragen darf, zu erfüllen. Wenn der jeweilige
+Krankenhausstandort zum Zeitpunkt des Abschlusses des
+Versorgungsvertrags in die Liste nach § 9 Absatz 1a Nummer 6 des
+Krankenhausentgeltgesetzes aufgenommen ist, kann der
+Versorgungsvertrag abweichend von Satz 6 unbefristet abgeschlossen
+werden; in dem Versorgungsvertrag ist das Krankenhaus zu verpflichten,
+an dem jeweiligen Krankenhausstandort die für die jeweilige
+Leistungsgruppe maßgeblichen Qualitätskriterien innerhalb einer
+angemessenen Frist zu erfüllen.
 
 (4) Mit einem Versorgungsvertrag nach Absatz 1 wird das Krankenhaus
 für die Dauer des Vertrages zur Krankenhausbehandlung der Versicherten
@@ -18039,7 +18508,12 @@ Krankenkassen auf Rückzahlung von geleisteten Vergütungen, die vor dem
 Krankenhäuser auf Vergütung erbrachter Leistungen, die vor dem 1.
 Januar 2019 entstanden sind. Für die Hemmung, die Ablaufhemmung, den
 Neubeginn und die Wirkung der Verjährung gelten die Vorschriften des
-Bürgerlichen Gesetzbuchs entsprechend.
+Bürgerlichen Gesetzbuchs entsprechend. Die von den Krankenhäusern
+erbrachten und in Rechnung gestellten Leistungen sind von den
+Krankenkassen innerhalb von fünf Tagen nach Rechnungseingang zu
+bezahlen. Als Tag der Zahlung gilt der Tag der Übergabe des
+Überweisungsauftrages an ein Geldinstitut oder der Übersendung von
+Zahlungsmitteln an das Krankenhaus.
 
 (6) Gegen Forderungen von Krankenhäusern, die aufgrund der Versorgung
 von ab dem 1. Januar 2020 aufgenommenen Patientinnen und Patienten
@@ -18054,16 +18528,57 @@ vorgesehen werden.
 
 #### § 110 Kündigung von Versorgungsverträgen mit Krankenhäusern
 
-(1) Ein Versorgungsvertrag nach § 109 Abs. 1 kann von jeder
+(1) Ein Versorgungsvertrag nach § 109 Absatz 1 kann von jeder
 Vertragspartei mit einer Frist von einem Jahr ganz oder teilweise
 gekündigt werden, von den Landesverbänden der Krankenkassen und den
-Ersatzkassen nur gemeinsam und nur aus den in § 109 Abs. 3 Satz 1
-genannten Gründen. Die Kündigung hat zu erfolgen, wenn der in § 109
+Ersatzkassen nur gemeinsam und nur
+
+1.  aus den in § 109 Absatz 3 Satz 1 genannten Gründen oder
+
+
+2.  wenn die Übermittlung des jeweils letzten Gutachtens des Medizinischen
+    Dienstes nach § 275a Absatz 4 Satz 1 über die Prüfung der Erfüllung
+    der für die vereinbarten Leistungsgruppen maßgeblichen
+    Qualitätskriterien an die Landesverbände der Krankenkassen und die
+    Ersatzkassen länger als zwei Jahre oder, sofern die Erfüllung der
+    Qualitätskriterien für die jeweilige Leistungsgruppe bereits zweimal
+    durch ein Gutachten des Medizinischen Dienstes nachgewiesen wurde,
+    länger als drei Jahre zurückliegt, es sei denn, dass das Krankenhaus
+    den Nachweis über die in § 109 Absatz 3 Satz 1 Nummer 2 genannte
+    Erfüllung dieser Qualitätskriterien durch eine begründete
+    Selbsteinschätzung erbringt und der Medizinische Dienst bereits mit
+    der Prüfung nach § 275a Absatz 1 Satz 1 Nummer 1 beauftragt wurde.
+
+
+
+Die Kündigung hat zu erfolgen, wenn der in Satz 1 Nummer 2 oder § 109
 Absatz 3 Satz 1 Nummer 2 genannte Kündigungsgrund vorliegt. Eine
 Kündigung ist nur zulässig, wenn die Kündigungsgründe nicht nur
-vorübergehend bestehen. Bei Plankrankenhäusern ist die Kündigung mit
-einem Antrag an die zuständige Landesbehörde auf Aufhebung oder
-Änderung des Feststellungsbescheids nach § 8 Abs. 1 Satz 2 des
+vorübergehend bestehen. Satz 2 ist nicht anzuwenden,
+
+1.  wenn der Versorgungsvertrag in dem in § 109 Absatz 3a Satz 4 genannten
+    Fall nach § 109 Absatz 3a Satz 6 befristet abgeschlossen wurde und die
+    Frist noch nicht abgelaufen ist,
+
+
+2.  wenn der Versorgungsvertrag in dem in § 109 Absatz 3a Satz 4 genannten
+    Fall nach § 109 Absatz 3a Satz 7 unbefristet abgeschlossen wurde und
+    der jeweilige Krankenhausstandort weiterhin in die Liste nach § 9
+    Absatz 1a Nummer 6 des Krankenhausentgeltgesetzes aufgenommen ist oder
+
+
+3.  wenn das Krankenhaus unverzüglich eine nach § 275a Absatz 4 Satz 2
+    Nummer 2 erforderliche Mitteilung gemacht hat, seit dieser Mitteilung
+    nicht mehr als drei Monate vergangen sind und den Landesverbänden der
+    Krankenkassen oder den Ersatzkassen Anhaltspunkte dafür vorliegen,
+    dass die Dauer der von dieser Mitteilung erfassten Nichterfüllung von
+    Qualitätskriterien sechs Monate nicht überschreiten wird.
+
+
+
+Bei Plankrankenhäusern ist die Kündigung mit einem Antrag an die
+zuständige Landesbehörde auf Aufhebung oder Änderung des
+Feststellungsbescheids nach § 8 Abs. 1 Satz 2 des
 Krankenhausfinanzierungsgesetzes zu verbinden, mit dem das Krankenhaus
 in den Krankenhausplan des Landes aufgenommen worden ist. Kommt ein
 Beschluss über die Kündigung eines Versorgungsvertrags durch die
@@ -18622,6 +19137,67 @@ Nr. 5 getroffen werden, die Spitzenorganisationen der Vorsorge- und
 Rehabilitationseinrichtungen zu beteiligen.
 
 
+#### § 112a Eigenverantwortliche Erbringung von Leistungen durch Pflegefachpersonen im Rahmen der Krankenhausbehandlung
+
+(1) Die Vertragsparteien auf Bundesebene im Sinne des § 9 Absatz 1 des
+Krankenhausentgeltgesetzes vereinbaren bis zum 31. Juli 2027 in einem
+Vertrag
+
+1.  einen Katalog an Leistungen der ärztlichen Behandlung, die
+    Pflegefachpersonen nach § 15a Absatz 1 Nummer 1 in zugelassenen
+    Krankenhäusern im Sinne des § 108 eigenverantwortlich erbringen
+    können,
+
+
+2.  Rahmenvorgaben zur interprofessionellen Zusammenarbeit im Krankenhaus
+    zwischen Pflegefachpersonen und Ärzten bei der Erbringung der nach
+    Nummer 1 vereinbarten Leistungen.
+
+
+
+In dem Vertrag sind auch Vorgaben dazu zu vereinbaren, welche in dem
+nach Satz 1 Nummer 1 vereinbarten Katalog genannten Leistungen nach
+einer ärztlichen Diagnose und Indikationsstellung und welche dieser
+Leistungen nach einer pflegerischen Diagnose erbracht werden können.
+
+(2) Die in Absatz 1 Satz 1 genannten Vertragsparteien haben unter
+Beachtung der Vorgaben von § 15a Absatz 1 in dem Vertrag nach Absatz 1
+Satz 1 auch festzulegen, auf der Grundlage welcher Kompetenzen
+Pflegefachpersonen die nach Absatz 1 Satz 1 Nummer 1 vereinbarten
+Leistungen jeweils eigenverantwortlich erbringen können. Soweit nicht
+aus sachlichen Gründen für die Krankenhausbehandlungen Abweichungen
+geboten sind, haben die in Absatz 1 Satz 1 genannten Vertragsparteien
+dieselben Festlegungen zu treffen, die von den in § 73d Absatz 1 Satz
+1 genannten Vertragspartnern nach § 73d Absatz 2 Satz 1 getroffen
+wurden. § 73d Absatz 2 Satz 3 bis 5 gilt entsprechend.
+
+(3) Kommt der Vertrag nach Absatz 1 Satz 1 nicht innerhalb der in
+Absatz 1 Satz 1 genannten Frist zustande, wird der Inhalt des Vertrags
+auf Antrag einer der in Absatz 1 Satz 1 genannten Vertragsparteien
+oder des Bundesministeriums für Gesundheit durch die Schiedsstelle
+nach § 18a Absatz 6 des Krankenhausfinanzierungsgesetzes festgelegt.
+
+(4) Die in Absatz 1 Satz 1 genannten Vertragsparteien evaluieren die
+eigenverantwortliche Erbringung von Leistungen der ärztlichen
+Behandlung durch Pflegefachpersonen in Krankenhäusern insbesondere im
+Hinblick auf
+
+1.  die Qualität und Wirtschaftlichkeit der Versorgung,
+
+
+2.  den effizienten Einsatz der Pflegefachpersonen mit unterschiedlichen
+    Qualifikationen und
+
+
+3.  die Auswirkungen auf das Berufsbild der Pflegefachpersonen.
+
+
+
+Die in Absatz 1 Satz 1 genannten Vertragsparteien legen dem
+Bundesministerium für Gesundheit bis zum 31. Dezember 2029 einen
+Bericht über das Ergebnis der Evaluation vor.
+
+
 #### § 113 Qualitäts- und Wirtschaftlichkeitsprüfung der Krankenhausbehandlung
 
 (1) Die Landesverbände der Krankenkassen, die Ersatzkassen und der
@@ -19085,19 +19661,18 @@ Krankenversicherung und den Krankenhäusern in anonymisierter Form zu
 übermitteln.
 
 
-#### § 115f Spezielle sektorengleiche Vergütung; Verordnungsermächtigung
+#### § 115f Spezielle sektorengleiche Vergütung
 
-(1) Die Vertragsparteien nach § 115b Absatz 1 Satz 1 vereinbaren bis
-zum 31. März 2023
+(1) Die Vertragsparteien nach § 115b Absatz 1 Satz 1 vereinbaren
 
 1.  eine spezielle sektorengleiche Vergütung, die unabhängig davon
-    erfolgt, ob die vergütete Leistung ambulant oder stationär erbracht
-    wird, und
+    erfolgt, ob die vergütete Leistung ambulant oder stationär mit
+    Übernachtung erbracht wird, und
 
 
 2.  für welche der in dem nach § 115b Absatz 1 Satz 1 Nummer 1
-    vereinbarten Katalog genannten Leistungen die Vergütung nach Nummer 1
-    erfolgt.
+    vereinbarten Katalog genannten Leistungen die Vergütung ausschließlich
+    nach Nummer 1 erfolgt.
 
 
 
@@ -19111,63 +19686,241 @@ Abrechnungsjahr gezahlten Vergütungsvolumina sowie die Anzahl der
 erbrachten Fälle zu berücksichtigen. Berücksichtigt werden können auch
 die jeweiligen Anteile der ambulanten und stationären Fälle an der
 Gesamtzahl der Fälle und die Kosten der ausschließlich stationären
-Behandlung. Spätestens ab dem Jahr 2026 ist die Fallpauschale auf
-Grundlage geeigneter empirischer Kostendaten des ambulanten und
-stationären Bereichs zu kalkulieren und anzupassen.
+Behandlung. Die Krankenkassen übermitteln über den Spitzenverband Bund
+der Krankenkassen dem in § 87 Absatz 3b Satz 1 genannten Institut auf
+dessen Anforderung innerhalb von zwei Wochen die zum Zeitpunkt der
+Anforderung für das letzte Abrechnungsjahr, für das die Fallzahlen und
+Vergütungen vollständig vorliegen, verfügbaren Fallzahlen und
+Vergütungen unter Angabe der Sachkosten der nach § 115b Absatz 2 Satz
+4 von ihnen vergüteten Leistungen sowie die Höhe der nach dem
+jeweiligen nach § 83 geschlossenen Gesamtvertrag vergüteten Sachkosten
+bezogen auf die nach Absatz 1 Satz 1 Nummer 2 ausgewählten Leistungen,
+aufgeschlüsselt nach den Kodes des Operationen- und
+Prozedurenschlüssels. Die Vertragsparteien nach § 115b Absatz 1 Satz 1
+beauftragen das in § 87 Absatz 3b Satz 1 genannte Institut und das
+Institut für das Entgeltsystem im Krankenhaus gemeinsam bis zum 15.
+Mai eines jeden Kalenderjahres, erstmals bis zum 15. Mai 2025, einen
+Vorschlag für die Kalkulation der Vergütung differenziert nach dem
+Schweregrad der Fälle zu erarbeiten. In den Vorschlägen ist eine
+schrittweise Anpassung der Vergütungen vorzusehen, mit dem Ziel, dass
+bis zum Jahr 2030 die Höhe der Vergütungen der nach § 115b
+vereinbarten Leistungen erreicht wird. Auf der Grundlage des
+Vorschlags schließen die Vertragsparteien nach § 115b Absatz 1 Satz 1
+die Vereinbarung nach Satz 1 Nummer 1 bis zum 30. Juni eines jeden
+Kalenderjahres mit Wirkung ab dem 1. Januar des folgenden
+Kalenderjahres.
 
-(2) Als Kriterien bei der Auswahl von Leistungen nach Absatz 1 Satz 1
-Nummer 2 sind insbesondere eine hohe Fallzahl im Krankenhaus, eine
-kurze Verweildauer und ein geringer klinischer Komplexitätsgrad zu
-berücksichtigen. Die Auswahl von Leistungen nach Absatz 1 Satz 1
-Nummer 2 ist im Abstand von jeweils zwei Jahren zu überprüfen und,
-sofern erforderlich, anzupassen, erstmals spätestens bis zum 31. März
-2024\. Bei der Überprüfung und Anpassung nach Satz 2 können auch
-Leistungen ausgewählt werden, die nicht in dem nach § 115b Absatz 1
-Satz 1 Nummer 1 vereinbarten Katalog genannt sind; für die Auswahl
-dieser Leistungen gilt Satz 1 entsprechend.
+(1a) Spätestens in der bis zum 30. Juni 2030 zu schließenden
+Vereinbarung sind die nach Absatz 1 Satz 2 zu kalkulierenden
+Fallpauschalen auf Grundlage fallbezogener empirischer Kostendaten des
+ambulanten und stationären Bereichs festzulegen. Danach sind sie
+jährlich auf der Grundlage der jeweiligen in Satz 1 genannten
+Kostendaten zu überprüfen und, sofern erforderlich, anzupassen. Die
+Vertragsparteien nach Absatz 1 Satz 1 beauftragen das Institut für das
+Entgeltsystem im Krankenhaus und das in § 87 Absatz 3b Satz 1 genannte
+Institut gemeinsam bis zum 30. April 2025, einen Vorschlag für ein
+Konzept zur Festlegung der Fallpauschalen nach Satz 1 zu erarbeiten.
+Auf der Grundlage dieses Vorschlags vereinbaren die Vertragsparteien
+bis zum 31. Dezember 2025 das Konzept zur Festlegung der
+Fallpauschalen nach Satz 1 und legen dieses Konzept dem
+Bundesministerium für Gesundheit vor.
+
+(2) Die Vertragsparteien nach Absatz 1 Satz 1 haben die Auswahl der
+Leistungen nach Absatz 1 Satz 1 Nummer 2 jährlich zu überprüfen und,
+sofern zur Einhaltung der Vorgaben nach Satz 2 erforderlich, bis zum
+31\. März des jeweiligen Kalenderjahres, in dem die Überprüfung
+stattfindet, auf Grundlage des nach Satz 3 beauftragten Vorschlags mit
+Wirkung ab dem 1. Januar des folgenden Kalenderjahres anzupassen. Die
+Auswahl hat so zu erfolgen, dass bezogen auf die gemäß § 21 Absatz 2
+des Krankenhausentgeltgesetzes für das Jahr 2023 übermittelten Daten
+zu vollstationären Krankenhausfällen ohne Berücksichtigung der
+Krankenhausfälle, in denen neue Untersuchungs- und Behandlungsmethoden
+angewendet werden, ab dem Jahr 2026 jährlich mindestens eine Million,
+ab dem Jahr 2028 jährlich mindestens 1,5 Millionen und ab dem Jahr
+2030 jährlich mindestens zwei Millionen Fälle erfasst werden. Die
+Vertragsparteien nach Absatz 1 Satz 1 beauftragen das Institut für das
+Entgeltsystem im Krankenhaus und das in § 87 Absatz 3b Satz 1 genannte
+Institut gemeinsam bis zum 15. Februar eines jeden Kalenderjahres, die
+Auswahl der Leistungen nach Absatz 1 Satz 1 Nummer 2 zu überprüfen und
+einen Vorschlag zur Anpassung der Leistungsauswahl vorzulegen. Bei der
+Überprüfung und Anpassung nach Satz 1 können auch Leistungen
+ausgewählt werden, die nicht in dem nach § 115b Absatz 1 Satz 1 Nummer
+1 vereinbarten Katalog genannt sind. Leistungen für Kinder, die das
+18\. Lebensjahr noch nicht vollendet haben, und Leistungen für Menschen
+mit Behinderungen sollen nicht ausgewählt werden.
 
 (3) Zur Erbringung der nach Absatz 1 Satz 1 Nummer 2 vereinbarten oder
-durch Rechtsverordnung nach Absatz 4 bestimmten Leistungen und zur
-Abrechnung der nach Absatz 1 Satz 2 kalkulierten Fallpauschale
-berechtigt sind die nach § 95 Absatz 1 Satz 1 sowie § 108 an der
-Versorgung teilnehmenden Leistungserbringer, die die in § 115b Absatz
-1 Satz 5 genannten Qualitätsvoraussetzungen erfüllen. Die Leistungen
-werden unmittelbar von den Krankenkassen vergütet. Die in Satz 1
-genannten Leistungserbringer können die jeweilige Kassenärztliche
-Vereinigung oder Dritte gegen Aufwandsersatz mit der Abrechnung von
-nach Absatz 1 Satz 1 Nummer 2 vereinbarten oder durch Rechtsverordnung
-nach Absatz 4 bestimmten Leistungen beauftragen. Die Prüfung der
-Abrechnung und der Wirtschaftlichkeit sowie der Qualität der
-Leistungserbringung erfolgt durch die Krankenkassen, die hiermit eine
-Arbeitsgemeinschaft oder den Medizinischen Dienst beauftragen können.
-§ 295 Absatz 1b Satz 1, § 295a und § 301 Absatz 1 und 2 gelten für die
-jeweiligen in Satz 1 genannten Leistungserbringer entsprechend.
+durch Entscheidung nach Absatz 4 Satz 2 oder Satz 5 bestimmten
+Leistungen und zur Abrechnung der nach Absatz 1 Satz 2 kalkulierten
+Fallpauschale berechtigt sind die nach § 95 Absatz 1 Satz 1 sowie
+§ 108 an der Versorgung teilnehmenden Leistungserbringer, die die in §
+115b Absatz 1 Satz 5 genannten Qualitätsvoraussetzungen erfüllen. Die
+Leistungen werden unmittelbar von den Krankenkassen vergütet. Die in
+Satz 1 genannten Leistungserbringer können die jeweilige
+Kassenärztliche Vereinigung oder Dritte gegen Aufwandsersatz mit der
+Abrechnung von nach Absatz 1 Satz 1 Nummer 2 vereinbarten oder durch
+Entscheidung nach Absatz 4 Satz 2 oder Satz 5 bestimmten Leistungen
+beauftragen. Die Prüfung der Abrechnung und der Wirtschaftlichkeit
+sowie der Qualität der Leistungserbringung erfolgt durch die
+Krankenkassen, die hiermit eine Arbeitsgemeinschaft oder den
+Medizinischen Dienst beauftragen können. § 295 Absatz 1b Satz 1, §
+295a und § 301 Absatz 1 und 2 gelten für die jeweiligen in Satz 1
+genannten Leistungserbringer entsprechend. Das Nähere über Form und
+Inhalt des Abrechnungsverfahrens sowie über die erforderlichen
+Vordrucke ist von den Vertragsparteien nach Absatz 1 Satz 1 zu
+vereinbaren. Die morbiditätsbedingte Gesamtvergütung ist nach Maßgabe
+der nach § 87a Absatz 5 Satz 7 beschlossenen Vorgaben des
+Bewertungsausschusses in den Vereinbarungen nach § 87a Absatz 3 um die
+Leistungen zu bereinigen, die Bestandteil der Fallpauschale nach
+Absatz 1 Satz 2 sind.
 
-(4) Das Bundesministerium für Gesundheit wird ermächtigt, durch
-Rechtsverordnung ohne Zustimmung des Bundesrates die spezielle
-sektorengleiche Vergütung und die nach Absatz 1 Satz 1 Nummer 2 zu
-vereinbarenden Leistungen zu bestimmen, soweit eine Vereinbarung der
-Vertragsparteien nach Absatz 1 Satz 1 oder eine Anpassung nach Absatz
-2 Satz 2 ganz oder teilweise nicht oder nicht fristgerecht zustande
-gekommen ist. Zur Vorbereitung einer Regelung nach Satz 1 sind die
-einzelnen in Absatz 1 Satz 1 genannten Vertragsparteien, der
+(4) Kommt eine Beauftragung nach Absatz 1 Satz 7, Absatz 1a Satz 3,
+Absatz 2 Satz 3 oder Absatz 5 Satz 1 nicht fristgerecht zustande,
+erfolgt die jeweilige Beauftragung durch das Bundesministerium für
+Gesundheit. Kommt eine Vereinbarung nach Absatz 1 Satz 9 oder Absatz
+1a Satz 4 oder eine Anpassung nach Absatz 2 Satz 1 ganz oder teilweise
+nicht oder nicht fristgerecht zustande, setzt der Bewertungsausschuss
+in der Zusammensetzung nach § 87 Absatz 5a Satz 2 den Inhalt der
+jeweiligen Vereinbarung mit einer Mehrheit von zwei Dritteln seiner
+stimmberechtigten Mitglieder innerhalb von vier Wochen fest; § 87
+Absatz 5a Satz 6 und 7 gilt entsprechend. Zur Vorbereitung der
+Festsetzungen nach Satz 2 sind das in § 87 Absatz 3b Satz 1 genannte
+Institut und das Institut für das Entgeltsystem im Krankenhaus
+verpflichtet, dem Bewertungsausschuss in der Zusammensetzung nach § 87
+Absatz 5a Satz 2 unmittelbar und unverzüglich nach dessen Weisungen
+zuzuarbeiten; die in § 115b Absatz 1 Satz 1 genannten Vertragsparteien
+haben die Kosten der Zuarbeit zu gleichen Teilen zu tragen. Der
+Verband der Privaten Krankenversicherung e. V. kann an Verhandlungen
+der Vertragsparteien nach Absatz 1 Satz 1 und Sitzungen des
+Bewertungsausschusses in der Zusammensetzung nach § 87 Absatz 5a Satz
+2 beratend teilnehmen. Setzt der Bewertungsausschuss in der
+Zusammensetzung nach § 87 Absatz 5a Satz 2 den Inhalt der jeweiligen
+Vereinbarung ganz oder teilweise nicht oder nicht fristgerecht fest,
+ist das Bundesministerium für Gesundheit ermächtigt, diesen
+festzulegen. Zur Vorbereitung einer Festlegung nach Satz 5 sind die
+einzelnen in § 115b Absatz 1 Satz 1 genannten Vertragsparteien, der
 Bewertungsausschuss für die in § 87 Absatz 1 Satz 1 genannten
-ärztlichen Leistungen, der nach § 87 Absatz 5a Satz 1 ergänzte
-Bewertungsausschuss, das in § 87 Absatz 3b Satz 1 genannte Institut
-und das Institut für das Entgeltsystem im Krankenhaus verpflichtet,
-dem Bundesministerium für Gesundheit unmittelbar und unverzüglich nach
-dessen Weisungen zuzuarbeiten. Gegenstand der Rechtsverordnung nach
-Satz 1 können auch Leistungen sein, die nicht in dem nach § 115b
-Absatz 1 Satz 1 Nummer 1 vereinbarten Katalog genannt sind.
+ärztlichen Leistungen, der Bewertungsausschuss in der Zusammensetzung
+nach § 87 Absatz 5a Satz 1, das in § 87 Absatz 3b Satz 1 genannte
+Institut und das Institut für das Entgeltsystem im Krankenhaus
+verpflichtet, dem Bundesministerium für Gesundheit unmittelbar und
+unverzüglich nach dessen Weisungen zuzuarbeiten; die in § 115b Absatz
+1 Satz 1 genannten Vertragsparteien haben die Kosten der Zuarbeit der
+Institute zu gleichen Teilen zu tragen.
 
-(5) Die in Absatz 1 Satz 1 genannten Vertragsparteien evaluieren die
-Auswirkungen der speziellen sektorengleichen Vergütung auf die
-Versorgung der Versicherten, auf die Vergütungen der
+(5) Die in Absatz 1 Satz 1 genannten Vertragsparteien beauftragen bis
+zum 30. April 2025 das in § 87 Absatz 3b Satz 1 genannte Institut und
+das Institut für das Entgeltsystem im Krankenhaus mit der regelmäßigen
+Evaluation der Auswirkungen der speziellen sektorengleichen Vergütung
+auf die Versorgung der Versicherten, auf die Vergütungen der
 Leistungserbringer sowie auf die Ausgaben der Krankenkassen auf der
-Grundlage nicht personenbezogener Leistungsdaten in einem Abstand von
-jeweils 18 Monaten und legen dem Bundesministerium für Gesundheit,
-erstmals am 1. April 2024, einen Bericht über das Ergebnis der
-Evaluation vor.
+Grundlage nicht personenbezogener Leistungsdaten. Ein entsprechender
+Evaluationsbericht der Institute ist dem Bundesministerium für
+Gesundheit im Abstand von jeweils 18 Monaten, erstmals zum 30. Juni
+2026, vorzulegen.
+
+
+#### § 115g Behandlung in einer sektorenübergreifenden Versorgungseinrichtung
+
+(1) Sektorenübergreifende Versorgungseinrichtungen sind Standorte von
+Krankenhäusern, die nach § 6c Absatz 1 des
+Krankenhausfinanzierungsgesetzes als sektorenübergreifende
+Versorgungseinrichtung bestimmt worden sind und die nach Absatz 3 Satz
+1 Nummer 1 vereinbarten stationären Leistungen erbringen.
+Sektorenübergreifende Versorgungseinrichtungen können über die nach
+Absatz 3 Satz 1 Nummer 1 vereinbarten stationären Leistungen hinaus
+folgende Leistungen erbringen:
+
+1.  ambulante Leistungen aufgrund einer Ermächtigung zur Teilnahme an der
+    vertragsärztlichen Versorgung,
+
+
+2.  ambulantes Operieren nach § 115b sowie sonstige ambulante Leistungen,
+    die nach diesem Buch von zugelassenen Krankenhäusern erbracht werden
+    können,
+
+
+3.  die nach Absatz 3 Satz 1 Nummer 2 vereinbarten stationären Leistungen
+    und, wenn die jeweilige sektorenübergreifende Versorgungseinrichtung
+    hierbei telemedizinisch von einem kooperierenden Krankenhaus
+    unterstützt wird, die nach Absatz 3 Satz 1 Nummer 3 vereinbarten
+    stationären Leistungen,
+
+
+4.  Übergangspflege nach § 39e,
+
+
+5.  Kurzzeitpflege nach § 39c.
+
+
+
+Sektorenübergreifende Versorgungseinrichtungen haben die jeweiligen
+nach Absatz 3 Satz 1 Nummer 4 vereinbarten Anforderungen zu erfüllen.
+Die in den Sätzen 1 und 2 genannten stationären Leistungen können auch
+belegärztlich erbracht werden. Sektorenübergreifende
+Versorgungseinrichtungen können die in Satz 2 Nummer 4 und 5 genannten
+Leistungen unter pflegerischer Leitung erbringen, soweit sie nicht
+ärztlich zu verantworten sind. Nach Absatz 3 Satz 1 Nummer 1 bis 3
+vereinbarte stationäre Leistungen und in Satz 2 Nummer 1, 2 und 4
+sowie in Absatz 2 genannte Leistungen können auch von Standorten von
+Krankenhäusern erbracht werden, die keine sektorenübergreifende
+Versorgungseinrichtung sind.
+
+(2) Sektorenübergreifende Versorgungseinrichtungen können zusätzlich
+Leistungen der Kurzzeitpflege nach § 42 des Elften Buches und der
+Tagespflege und Nachtpflege nach § 41 des Elften Buches in
+selbständigen, organisatorisch und wirtschaftlich vom Krankenhaus
+getrennten Pflegeabteilungen, die als stationäre Pflegeeinrichtung im
+Sinne des § 72 des Elften Buches zugelassen sind, erbringen.
+
+(3) Die Deutsche Krankenhausgesellschaft und der Spitzenverband Bund
+der Krankenkassen vereinbaren bis zum 31. Dezember 2025 im Benehmen
+mit dem Verband der Privaten Krankenversicherung,
+
+1.  welche stationären Leistungen der Inneren Medizin und der Geriatrie
+    sektorenübergreifende Versorgungseinrichtungen mindestens erbringen
+    müssen,
+
+
+2.  welche weiteren stationären Leistungen sektorenübergreifende
+    Versorgungseinrichtungen erbringen können,
+
+
+3.  welche stationären Leistungen eine sektorenübergreifende
+    Versorgungseinrichtung über die nach den Nummern 1 und 2 vereinbarten
+    stationären Leistungen hinaus erbringen kann, wenn sie hierbei
+    telemedizinisch von einem kooperierenden Krankenhaus unterstützt wird,
+    und
+
+
+4.  welche Anforderungen an die Qualität, Patientensicherheit und
+    Dokumentation der Erbringung der nach den Nummern 1 bis 3 vereinbarten
+    stationären Leistungen und an die in Nummer 3 genannte Kooperation
+    gestellt werden und wie diese aufwandsarm geprüft werden.
+
+
+
+Die in Satz 1 genannten Vertragsparteien haben die Vereinbarung nach
+Satz 1 oder die Festlegung nach Satz 3 im Abstand von jeweils
+höchstens zwei Jahren, erstmals zwei Jahre nach ihrem Abschluss oder
+der ersten Festlegung, an den Stand der medizinischen Erkenntnisse
+anzupassen. Kommt eine Vereinbarung nach Satz 1 oder Satz 2 nicht
+fristgerecht zustande, legt die Schiedsstelle nach § 18a Absatz 6 des
+Krankenhausfinanzierungsgesetzes ohne Antrag einer Vertragspartei
+innerhalb von drei Monaten den Inhalt der Vereinbarung fest.
+
+(4) Der Spitzenverband Bund der Krankenkassen, der Spitzenverband Bund
+der Pflegekassen, die Kassenärztliche Bundesvereinigung und die
+Deutsche Krankenhausgesellschaft legen im Benehmen mit dem Verband der
+Privaten Krankenversicherung dem Bundesministerium für Gesundheit im
+Abstand von zwei Jahren, erstmals zum 31. Dezember 2029, einen
+gemeinsamen Bericht über die Auswirkungen der Leistungserbringung
+durch sektorenübergreifende Versorgungseinrichtungen auf die
+ambulante, stationäre und pflegerische Versorgung einschließlich der
+finanziellen Auswirkungen vor. Die für den Bericht erforderlichen
+Daten sind ihnen von den Krankenkassen, den Pflegekassen, den
+Krankenhäusern und den Kassenärztlichen Vereinigungen in
+anonymisierter Form zu übermitteln.
 
 
 #### § 116 Ambulante Behandlung durch Krankenhausärzte
@@ -19186,17 +19939,47 @@ Behandlungsmethoden oder Kenntnisse von hierfür geeigneten Ärzten der
 in Satz 1 genannten Einrichtungen nicht sichergestellt wird.
 
 
-#### § 116a Ambulante Behandlung durch Krankenhäuser bei Unterversorgung
+#### § 116a Ambulante Behandlung durch Krankenhäuser
 
-Der Zulassungsausschuss muss zugelassene Krankenhäuser für das
+(1) Der Zulassungsausschuss muss zugelassene Krankenhäuser für das
 entsprechende Fachgebiet in den Planungsbereichen, in denen der
-Landesausschuss der Ärzte und Krankenkassen eingetretene
+Landesausschuss der Ärzte und Krankenkassen eine eingetretene
 Unterversorgung nach § 100 Absatz 1 oder einen zusätzlichen lokalen
 Versorgungsbedarf nach § 100 Absatz 3 festgestellt hat, auf deren
 Antrag zur vertragsärztlichen Versorgung ermächtigen, soweit und
 solange dies zur Beseitigung der Unterversorgung oder zur Deckung des
-zusätzlichen lokalen Versorgungsbedarfs erforderlich ist. Der
-Ermächtigungsbeschluss ist nach zwei Jahren zu überprüfen.
+zusätzlichen lokalen Versorgungsbedarfs erforderlich ist.
+
+(2) Der Zulassungsausschuss muss sektorenübergreifende
+Versorgungseinrichtungen in Planungsbereichen, in denen für die
+hausärztliche Versorgung keine Zulassungsbeschränkungen angeordnet
+sind, auf deren Antrag zur hausärztlichen Versorgung ermächtigen.
+
+(3) Der Zulassungsausschuss muss sektorenübergreifende
+Versorgungseinrichtungen sowie Krankenhäuser, soweit ihre Standorte in
+die Liste nach § 9 Absatz 1a Nummer 6 des Krankenhausentgeltgesetzes
+aufgenommen sind, auf deren Antrag zur jeweiligen fachärztlichen
+Versorgung ermächtigen, wenn
+
+1.  im Zeitpunkt der Antragstellung in dem Planungsbereich für die
+    jeweilige Arztgruppe der fachärztlichen Versorgung keine
+    Zulassungsbeschränkungen angeordnet sind und
+
+
+2.  in einem Zeitraum von neun Monaten ab Antragstellung in dem
+    Planungsbereich für die jeweilige Arztgruppe der fachärztlichen
+    Versorgung keine Zulassungsbeschränkungen angeordnet werden.
+
+
+
+Der Zulassungsausschuss informiert die zuständige Kassenärztliche
+Vereinigung unverzüglich über den Antrag einer sektorenübergreifenden
+Versorgungseinrichtung oder eines Krankenhauses, dessen Standort in
+die Liste nach § 9 Absatz 1a Nummer 6 des Krankenhausentgeltgesetzes
+aufgenommen ist, auf Erteilung einer Ermächtigung zur Teilnahme an der
+fachärztlichen Versorgung. Die Ermächtigung ist zu entziehen, wenn der
+Landesausschuss in dem Planungsbereich für die betreffende Arztgruppe
+eine Zulassungsbeschränkung anordnet.
 
 
 #### § 116b Ambulante spezialfachärztliche Versorgung
@@ -19677,11 +20460,12 @@ Eine Ermächtigung ist auf Antrag zu erteilen,
 
 (3b) Ambulanzen an Einrichtungen, die nach Landesrecht für die
 Weiterbildung von Psychotherapeuten oder Ärzten in
-psychotherapeutischen Fachgebieten zugelassen sind, sind vom
-Zulassungsausschuss auf Antrag zur ambulanten psychotherapeutischen
-Behandlung der Versicherten und der in § 75 Absatz 3 genannten
-Personen in Behandlungsverfahren, die vom Gemeinsamen Bundesausschuss
-nach § 92 Absatz 6a anerkannt sind, zu ermächtigen,
+psychotherapeutischen Fachgebieten zugelassen sind
+(Weiterbildungsambulanzen), sind vom Zulassungsausschuss auf Antrag
+zur ambulanten psychotherapeutischen Behandlung der Versicherten und
+der in § 75 Absatz 3 genannten Personen in Behandlungsverfahren, die
+vom Gemeinsamen Bundesausschuss nach § 92 Absatz 6a anerkannt sind, zu
+ermächtigen,
 
 1.  soweit die Ermächtigung notwendig ist, um eine ausreichende
     psychotherapeutische Versorgung der Versicherten sicherzustellen, und
@@ -19698,28 +20482,34 @@ Die Ermächtigung ist ohne Bedarfsprüfung zu erteilen, wenn die
 jeweilige Ambulanz bereits nach Absatz 3 oder Absatz 3a zur ambulanten
 psychotherapeutischen Behandlung ermächtigt war.
 
-(3c) Für die Vergütung der in den Ambulanzen nach den Absätzen 3 bis
-3b erbrachten Leistungen gilt § 120 Absatz 2 Satz 1 und 2 entsprechend
+(3c) Für die Vergütung der in den Ambulanzen nach den Absätzen 3 und
+3a erbrachten Leistungen gilt § 120 Absatz 2 Satz 1 und 2 entsprechend
 mit der Maßgabe, dass dabei eine Abstimmung mit Entgelten für
 vergleichbare Leistungen erfolgen soll. § 120 Absatz 3 Satz 2 und 3
 und Absatz 4 Satz 1 gilt entsprechend. Die Ambulanzen sind
 verpflichtet, von der Vergütung, die sie von den Krankenkassen für die
-durch einen Aus- oder Weiterbildungsteilnehmenden erbrachte Leistung
-erhalten, jeweils einen Anteil in Höhe von mindestens 40 Prozent an
-den jeweiligen Aus- oder Weiterbildungsteilnehmenden auszuzahlen. Sie
-haben die Auszahlung des Vergütungsanteils den Krankenkassen
-nachzuweisen. Die Ambulanzen haben der Bundespsychotherapeutenkammer
-die jeweils aktuelle Höhe der von den Aus- oder
-Weiterbildungsteilnehmern zu zahlenden Ausbildungskosten sowie des
-auszuzahlenden Vergütungsanteils, erstmalig bis zum 31. Juli 2021,
-mitzuteilen. Die Bundespsychotherapeutenkammer hat eine bundesweite
-Übersicht der nach Satz 5 mitgeteilten Angaben zu veröffentlichen.
+durch einen Ausbildungsteilnehmer erbrachte Leistung erhalten, jeweils
+einen Anteil in Höhe von mindestens 40 Prozent an den jeweiligen
+Ausbildungsteilnehmer auszuzahlen. Sie haben die Auszahlung des
+Vergütungsanteils den Krankenkassen nachzuweisen. Die Ambulanzen haben
+der Bundespsychotherapeutenkammer die jeweils aktuelle Höhe der von
+den Ausbildungsteilnehmern zu zahlenden Ausbildungskosten sowie des
+auszuzahlenden Vergütungsanteils mitzuteilen. Die
+Bundespsychotherapeutenkammer hat eine bundesweite Übersicht der nach
+Satz 5 mitgeteilten Angaben zu veröffentlichen.
 
 (4) Untersuchungs- und Behandlungsmethoden können Gegenstand des
 Leistungsumfangs der Hochschulambulanzen nach den Absätzen 1 und 2
 sein, soweit der Gemeinsame Bundesausschuss im Rahmen der Beschlüsse
 nach § 137c für die Krankenhausbehandlung keine ablehnende
 Entscheidung getroffen hat. § 137c Absatz 3 gilt entsprechend.
+
+
+#### § 117a Bundeswehrambulanzen
+
+Bundeswehrkrankenhäuser sind zur ambulanten ärztlichen Behandlung der
+Versicherten in dem für die Aufgabenwahrnehmung des Sanitätsdienstes
+der Bundeswehr erforderlichen Umfang ermächtigt.
 
 
 #### § 118 Psychiatrische Institutsambulanzen
@@ -19841,6 +20631,32 @@ entscheidet auf Antrag einer Vertragspartei das sektorenübergreifende
 Schiedsgremium auf Bundesebene gemäß § 89a.
 
 
+#### § 118b Pädiatrische Institutsambulanzen
+
+Pädiatrische Krankenhäuser und Krankenhäuser mit selbständigen
+pädiatrischen Fachabteilungen sind zur ambulanten kinder- und
+jugendärztlichen Behandlung von versicherten Kindern und Jugendlichen,
+die aufgrund der Art, Schwere oder Dauer ihrer Erkrankung der
+Behandlung durch ein Krankenhaus bedürfen, ermächtigt. Die
+Kassenärztliche Bundesvereinigung und der Spitzenverband Bund der
+Krankenkassen vereinbaren im Einvernehmen mit der Deutschen
+Krankenhausgesellschaft
+
+1.  die Gruppe derjenigen pädiatrischen Patienten, die nach Satz 1
+    aufgrund der Art, Schwere oder Dauer ihrer Erkrankung der Behandlung
+    durch ein Krankenhaus bedürfen,
+
+
+2.  sächliche und personelle Voraussetzungen der Leistungserbringung sowie
+    sonstige Anforderungen an die Qualitätssicherung.
+
+
+
+Kommt die Vereinbarung bis zum 1. Juni 2025 nicht zustande, legt das
+sektorenübergreifende Schiedsgremium auf Bundesebene gemäß § 89a
+Absatz 2 den Inhalt der Vereinbarung fest.
+
+
 #### § 119 Sozialpädiatrische Zentren
 
 (1) Sozialpädiatrische Zentren, die fachlich-medizinisch unter
@@ -19902,14 +20718,15 @@ der Versicherten in der Pflegeeinrichtung bleibt unberührt. Der in der
 Pflegeeinrichtung tätige Arzt ist bei seinen ärztlichen Entscheidungen
 nicht an Weisungen von Nichtärzten gebunden. Er soll mit den übrigen
 Leistungserbringern eng zusammenarbeiten. Stationäre
-Pflegeeinrichtungen benennen eine verantwortliche Pflegefachkraft für
+Pflegeeinrichtungen benennen eine verantwortliche Pflegefachperson für
 die Zusammenarbeit mit den vertragsärztlichen Leistungserbringern im
 Rahmen der Verträge nach Satz 1.
 
 (2) Die Vertragsparteien der Verträge nach § 82 Absatz 1 und § 87
 Absatz 1 vereinbaren im Benehmen mit den Vereinigungen der Träger der
-Pflegeeinrichtungen auf Bundesebene sowie den Verbänden der
-Pflegeberufe auf Bundesebene insbesondere zur Verbesserung der
+Pflegeeinrichtungen auf Bundesebene sowie den maßgeblichen
+Organisationen der Pflegeberufe auf Bundesebene im Sinne des § 118a
+Absatz 1 Satz 1 des Elften Buches insbesondere zur Verbesserung der
 Qualität der Versorgung Anforderungen an eine kooperative und
 koordinierte ärztliche und pflegerische Versorgung von
 pflegebedürftigen Versicherten in stationären Pflegeeinrichtungen.
@@ -20012,40 +20829,40 @@ kinderorthopädischen sowie insbesondere pädaudiologischen und
 kinderradiologischen Fachabteilungen von Krankenhäusern erbrachten
 ambulanten Leistungen mit dem Krankenhausträger fall- oder
 einrichtungsbezogene Pauschalen vereinbaren, wenn diese erforderlich
-sind, um die Behandlung von Kindern und Jugendlichen, die auf
-Überweisung erfolgt, angemessen zu vergüten. Die Pauschalen werden von
-der Krankenkasse unmittelbar vergütet. § 295 Absatz 1b Satz 1 gilt
-entsprechend. Das Nähere über Form und Inhalt der
-Abrechnungsunterlagen und der erforderlichen Vordrucke wird in der
-Vereinbarung nach § 301 Absatz 3 geregelt. Soweit für ein Jahr für
-diese Leistungen erstmals Pauschalen nach Satz 1 vereinbart werden,
-sind bei besonderen Einrichtungen einmalig die Erlössumme nach § 6
-Absatz 3 des Krankenhausentgeltgesetzes für dieses Jahr in Höhe der
-Summe der nach Satz 1 vereinbarten Pauschalen zu vermindern. Der
-jeweilige Minderungsbetrag ist bereits bei der Vereinbarung der
-Vergütung nach Satz 1 festzulegen. Bei der Vereinbarung des
-Landesbasisfallwerts nach § 10 des Krankenhausentgeltgesetzes ist die
-Summe der für das jeweilige Jahr erstmalig vereinbarten ambulanten
-Pauschalen ausgabenmindernd zu berücksichtigen.
+sind, um die Behandlung von Kindern und Jugendlichen angemessen zu
+vergüten. Die Pauschalen werden von der Krankenkasse unmittelbar
+vergütet. § 295 Absatz 1b Satz 1 gilt entsprechend. Das Nähere über
+Form und Inhalt der Abrechnungsunterlagen und der erforderlichen
+Vordrucke wird in der Vereinbarung nach § 301 Absatz 3 geregelt.
+Soweit für ein Jahr für diese Leistungen erstmals Pauschalen nach Satz
+1 vereinbart werden, sind bei besonderen Einrichtungen einmalig die
+Erlössumme nach § 6 Absatz 3 des Krankenhausentgeltgesetzes für dieses
+Jahr in Höhe der Summe der nach Satz 1 vereinbarten Pauschalen zu
+vermindern. Der jeweilige Minderungsbetrag ist bereits bei der
+Vereinbarung der Vergütung nach Satz 1 festzulegen. Bei der
+Vereinbarung des Landesbasisfallwerts nach § 10 des
+Krankenhausentgeltgesetzes ist die Summe der für das jeweilige Jahr
+erstmalig vereinbarten ambulanten Pauschalen ausgabenmindernd zu
+berücksichtigen.
 
-(2) Die Leistungen der Hochschulambulanzen, der psychiatrischen
-Institutsambulanzen, der sozialpädiatrischen Zentren und der
-medizinischen Behandlungszentren werden unmittelbar von der
-Krankenkasse vergütet. Die Vergütung wird von den Landesverbänden der
-Krankenkassen und den Ersatzkassen gemeinsam und einheitlich mit den
-Hochschulen oder Hochschulkliniken, den Krankenhäusern oder den sie
+(2) Die Leistungen der Hochschulambulanzen, der
+Weiterbildungsambulanzen, der psychiatrischen Institutsambulanzen, der
+sozialpädiatrischen Zentren und der medizinischen Behandlungszentren
+werden unmittelbar von der Krankenkasse vergütet. Die Vergütung wird
+von den Landesverbänden der Krankenkassen und den Ersatzkassen
+gemeinsam und einheitlich mit den Hochschulen oder Hochschulkliniken,
+den Weiterbildungsambulanzen, den Krankenhäusern oder den sie
 vertretenden Vereinigungen im Land vereinbart; die Höhe der Vergütung
 für die Leistungen der jeweiligen Hochschulambulanz gilt auch für
 andere Krankenkassen im Inland, wenn deren Versicherte durch diese
 Hochschulambulanz behandelt werden. Sie muss die Leistungsfähigkeit
-der Hochschulambulanzen, der psychiatrischen Institutsambulanzen, der
-sozialpädiatrischen Zentren und der medizinischen Behandlungszentren
-bei wirtschaftlicher Betriebsführung gewährleisten. Bei der Vergütung
-der Leistungen der Hochschulambulanzen sind die Grundsätze nach Absatz
-3 Satz 4 erstmals bis zum 1. Juli 2017 und danach jeweils innerhalb
-von sechs Monaten nach Inkrafttreten der Anpassung der Grundsätze nach
-Absatz 3 Satz 4 zu berücksichtigen. Bei den Vergütungsvereinbarungen
-für Hochschulambulanzen nach Satz 2 sind Vereinbarungen nach Absatz 1a
+der in Satz 1 genannten Leistungserbringer bei wirtschaftlicher
+Betriebsführung gewährleisten. Bei der Vergütung der Leistungen der
+Hochschulambulanzen sind die Grundsätze nach Absatz 3 Satz 4 erstmals
+bis zum 1. Juli 2017 und danach jeweils innerhalb von sechs Monaten
+nach Inkrafttreten der Anpassung der Grundsätze nach Absatz 3 Satz 4
+zu berücksichtigen. Bei den Vergütungsvereinbarungen für
+Hochschulambulanzen nach Satz 2 sind Vereinbarungen nach Absatz 1a
 Satz 1 zu berücksichtigen. Als Bestandteil der Vereinbarung nach Satz
 2 ist eine Vergütung für die telemedizinische Erbringung von
 Leistungen durch die Einrichtungen nach Satz 1 festzulegen. Abweichend
@@ -20054,7 +20871,15 @@ psychiatrischen Institutsambulanzen im Rahmen der Versorgung nach der
 Richtlinie des Gemeinsamen Bundesausschusses nach § 92 Absatz 6b
 erbringen, nach den entsprechenden Bestimmungen im einheitlichen
 Bewertungsmaßstab für ärztliche Leistungen mit dem Preis der
-jeweiligen regionalen Euro-Gebührenordnung zu erfolgen.
+jeweiligen regionalen Euro-Gebührenordnung zu erfolgen. Bei der
+Vereinbarung der Vergütung der ambulanten psychotherapeutischen
+Behandlung in den Weiterbildungsambulanzen hat eine Abstimmung mit
+Entgelten für vergleichbare Leistungen zu erfolgen. Für die
+Beurteilung einer wirtschaftlichen Betriebsführung der
+Weiterbildungsambulanzen sind nur die Leistungen
+berücksichtigungsfähig, für die der Zulassungsausschuss eine
+Ermächtigung erteilt hat und die gegenüber Versicherten erbracht
+werden.
 
 (3) Die Vergütung der Leistungen der Hochschulambulanzen, der
 psychiatrischen Institutsambulanzen, der sozialpädiatrischen Zentren,
@@ -20218,14 +21043,7 @@ Leistungen mit Belegärzten Honorarverträge schließen.
 Beschlüsse des Gemeinsamen Bundesausschusses nach den §§ 136 bis 136b
 zur Qualitätssicherung im Krankenhaus bis zum Inkrafttreten
 vergleichbarer Regelungen für die vertragsärztliche oder
-sektorenübergreifende Qualitätssicherung. Die in der stationären
-Qualitätssicherung für belegärztliche Leistungen erhobenen
-Qualitätsdaten werden bei der Auswertung der planungsrelevanten
-Qualitätsindikatoren nach § 136c Absatz 1 und 2 sowie bei der
-qualitätsabhängigen Vergütung eines Krankenhauses nach § 5 Absatz 3a
-des Krankenhausentgeltgesetzes berücksichtigt. Die Folgen, die diese
-Berücksichtigung im Verhältnis zwischen dem Krankenhaus und dem
-Belegarzt haben soll, werden zwischen diesen vertraglich vereinbart.
+sektorenübergreifende Qualitätssicherung.
 
 
 #### § 121a Genehmigung zur Durchführung künstlicher Befruchtungen
@@ -21221,7 +22039,9 @@ bis 7 gelten entsprechend für im Wesentlichen gleiche biotechnologisch
 hergestellte biologische Arzneimittel, für die der Gemeinsame
 Bundesausschuss in den Richtlinien nach § 92 Absatz 1 Satz 2 Nummer 6
 eine Austauschbarkeit in Bezug auf ein biologisches
-Referenzarzneimittel festgestellt hat.
+Referenzarzneimittel festgestellt hat. Satz 1 Nummer 2 gilt nicht im
+Fall einer Bestimmung nach § 130b Absatz 1c für das verordnete
+Arzneimittel.
 
 (1a) Der Gemeinsame Bundesausschuss gibt in den Richtlinien nach § 92
 Abs. 1 Satz 2 Nr. 6 unverzüglich Hinweise zur Austauschbarkeit von
@@ -21957,6 +22777,10 @@ Verfügung stehen. Die Sätze 4 bis 7 gelten entsprechend. Kommt für ein
 in Satz 8 genanntes Arzneimittel eine Vereinbarung nach Satz 6 nicht
 oder nicht fristgerecht zustande, setzt die Schiedsstelle nach § 131
 Absatz 3a den Herstellerabgabepreis innerhalb von vier Wochen fest.
+Abweichend von § 131 Absatz 3a Satz 2 entscheidet die Schiedsstelle in
+einer Besetzung durch die unparteiischen Mitglieder und jeweils drei
+Vertreter des Spitzenverbandes Bund der Krankenkassen und des
+antragstellenden pharmazeutischen Unternehmers.
 
 (3d) Für in § 35 Absatz 1a Satz 2 genannte Arzneimittel, für die nach
 Absatz 1a Satz 4 ein fiktiver Festbetrag festgesetzt wurde, bestimmt
@@ -22183,7 +23007,7 @@ insbesondere für Forschung und Entwicklung für das Arzneimittel nicht
 mehr finanziert werden.
 
 
-#### § 130b Vereinbarungen zwischen dem Spitzenverband Bund der Krankenkassen und pharmazeutischen Unternehmern über Erstattungsbeträge für Arzneimittel, Verordnungsermächtigung
+#### § 130b Vereinbarungen zwischen dem Spitzenverband Bund der Krankenkassen und pharmazeutischen Unternehmern über Erstattungsbeträge für Arzneimittel
 
 (1) Der Spitzenverband Bund der Krankenkassen vereinbart mit
 pharmazeutischen Unternehmern im Benehmen mit dem Verband der privaten
@@ -22197,11 +23021,8 @@ Krankenkassen in seiner Satzung. Für Arzneimittel nach § 129a kann mit
 dem pharmazeutischen Unternehmer höchstens der Erstattungsbetrag
 vereinbart werden. § 130a Absatz 8 Satz 6 gilt entsprechend. Die
 Vereinbarung soll auch Anforderungen an die Zweckmäßigkeit, Qualität
-und Wirtschaftlichkeit einer Verordnung beinhalten. Der
-pharmazeutische Unternehmer soll dem Spitzenverband Bund der
-Krankenkassen die Angaben zur Höhe seines tatsächlichen Abgabepreises
-in anderen europäischen Ländern übermitteln. Die Verhandlungen und
-deren Vorbereitung einschließlich der Beratungsunterlagen und
+und Wirtschaftlichkeit einer Verordnung beinhalten. Die Verhandlungen
+und deren Vorbereitung einschließlich der Beratungsunterlagen und
 Niederschriften zur Vereinbarung des Erstattungsbetrages sind
 vertraulich.
 
@@ -22224,6 +23045,46 @@ oder mehreren Patientengruppen ein Verwurf von mehr als 20 Prozent des
 Inhalts der in Verkehr gebrachten Packungen zu erwarten, ist dieser
 Verwurf bei einer Vereinbarung nach Absatz 1 im Verhältnis zu der
 jeweiligen Patientengruppe preismindernd zu berücksichtigen.
+
+(1c) Der pharmazeutische Unternehmer kann innerhalb von fünf Tagen
+nach einer bis zum 30. Juni 2028 zustande gekommenen Vereinbarung nach
+Absatz 1 oder einer bis zum 30. Juni 2028 getroffenen Festsetzung nach
+Absatz 4 aufgrund des erstmaligen Inverkehrbringens eines
+Arzneimittels mit einem neuen Wirkstoff durch Erklärung gegenüber dem
+Spitzenverband Bund der Krankenkassen bestimmen, dass bis zum Wegfall
+des Unterlagenschutzes für dieses Arzneimittel an die Stelle der
+Übermittlung von Angaben nach § 131 Absatz 4 Satz 3 Nummer 2 die
+Übermittlung von Angaben nach § 131 Absatz 4 Satz 3 Nummer 2a tritt,
+wenn er Unterlagen vorlegt, die eine Arzneimittelforschungsabteilung
+des Unternehmens im Geltungsbereich dieses Gesetzes und zusätzlich
+relevante eigene Projekte und Kooperationen mit öffentlichen
+Einrichtungen in präklinischer oder klinischer Arzneimittelforschung
+im Geltungsbereich dieses Gesetzes nachweisen. Der Spitzenverband Bund
+der Krankenkassen stellt innerhalb von sieben Tagen ab Vorlage anhand
+der Unterlagen des pharmazeutischen Unternehmers fest, ob die in Satz
+1 genannten Voraussetzungen vorliegen. Stellt der Spitzenverband Bund
+der Krankenkassen fest, dass die in Satz 1 genannten Voraussetzungen
+nicht vorliegen, entscheidet die Schiedsstelle nach Absatz 5 innerhalb
+von weiteren sieben Tagen anhand der Unterlagen des pharmazeutischen
+Unternehmers, ob die in Satz 1 genannten Voraussetzungen vorliegen;
+diese Entscheidung tritt an die Stelle der Entscheidung des
+Spitzenverbandes Bund der Krankenkassen nach Satz  2. Stellt der
+Spitzenverband Bund der Krankenkassen fest oder entscheidet die
+Schiedsstelle nach Absatz 5, dass die in Satz 1 genannten
+Voraussetzungen vorliegen, ist der Erstattungsbetrag für das jeweilige
+Arzneimittel der nach Absatz 1 vereinbarte oder nach Absatz 4
+festgesetzte Betrag abzüglich eines Abschlags in Höhe von 9 Prozent
+und tritt bis zum Wegfall des Unterlagenschutzes für dieses
+Arzneimittel an die Stelle der Übermittlung von Angaben nach § 131
+Absatz 4 Satz 3 Nummer 2 die Übermittlung von Angaben nach § 131
+Absatz 4 Satz 3 Nummer 2a. Legt der pharmazeutische Unternehmer die
+Unterlagen zu dem in Satz 1 genannten Nachweis innerhalb von sechs
+Monaten nach Inverkehrbringen des Arzneimittels vor, sind die Sätze 2
+und 3 hinsichtlich dieser Nachweise entsprechend anzuwenden mit der
+Maßgabe, dass die Entscheidung ein Jahr gültig ist. Wird für ein
+Arzneimittel, für das eine Bestimmung nach Satz 1 erfolgt ist, ein
+neuer Erstattungsbetrag vereinbart oder festgesetzt, gelten die Sätze
+1 bis 4 entsprechend.
 
 (2) Für Arzneimittel, für die der Gemeinsame Bundesausschuss nach §
 35a Absatz 3 Satz 1 einen Zusatznutzen festgestellt hat, soll eine
@@ -22305,6 +23166,36 @@ die Datenerhebung
 
 
 
+Für ein Arzneimittel, dessen klinische Prüfungen nach dem Beschluss
+des Gemeinsamen Bundesausschusses nach § 35a Absatz 3 Satz 1 zu einem
+relevanten Anteil im Geltungsbereich dieses Gesetzes durchgeführt
+wurden, finden Satz 2 und 5 keine Anwendung; Satz 3 gilt entsprechend
+für den Fall, dass als zweckmäßige Vergleichstherapie durch den
+Gemeinsamen Bundesausschuss ein Arzneimittel mit einem Wirkstoff
+bestimmt ist, für den Patentschutz oder Unterlagenschutz besteht. Für
+Arzneimittel nach Satz 11, für die ein Erstattungsbetrag vereinbart
+oder festgesetzt wurde, ist die betreffende Vereinbarung oder der
+betreffende Schiedsspruch vom Spitzenverband Bund der Krankenkassen
+nach drei Jahren zu kündigen, es sei denn, der pharmazeutische
+Unternehmer legt 30  Monate nach der Vereinbarung oder dem
+Schiedsspruch Unterlagen vor, die eine Arzneimittelforschungsabteilung
+des Unternehmens und zusätzliche relevante eigene Projekte und
+Kooperationen mit öffentlichen Einrichtungen in präklinischer oder
+klinischer Arzneimittelforschung im Geltungsbereich dieses Gesetzes
+nachweisen. Der Spitzenverband Bund der Krankenkassen stellt innerhalb
+von sieben Tagen ab Vorlage anhand der Unterlagen des pharmazeutischen
+Unternehmers fest, ob die Voraussetzungen für die Kündigung nach Satz
+12 vorliegen. Stellt der Spitzenverband Bund der Krankenkassen fest,
+dass die Voraussetzungen für eine Kündigung nach Satz 12 vorliegen,
+entscheidet die Schiedsstelle nach Absatz 5 innerhalb von weiteren
+sieben Tagen anhand der Unterlagen des pharmazeutischen Unternehmers,
+ob die Voraussetzungen für die Kündigung nach Satz 12 vorliegen; diese
+Entscheidung tritt an die Stelle der Entscheidung des Spitzenverbandes
+Bund der Krankenkassen nach Satz 13. Im Falle einer Kündigung nach
+Satz 12 ist für das betreffende Arzneimittel unverzüglich erneut ein
+Erstattungsbetrag zu vereinbaren, der ab dem Zeitpunkt der Kündigung
+gilt; Satz 11 ist auf diese erneute Vereinbarung des
+Erstattungsbetrags nicht anzuwenden.
 
 (3a) Der nach Absatz 1 vereinbarte Erstattungsbetrag gilt
 einschließlich der Vereinbarungen für die Anerkennung von
@@ -22357,12 +23248,12 @@ Satz 2 teilt der pharmazeutische Unternehmer dem Spitzenverband Bund
 der Krankenkassen auf Verlangen die Abgabezahlen und Umsätze des
 Reserveantibiotikums mit.
 
-(4) Kommt eine Vereinbarung nach Absatz 1 oder 3 nicht innerhalb von
-sechs Monaten nach Veröffentlichung des Beschlusses nach § 35a Absatz
-3 oder nach § 35b Absatz 3 zustande, setzt die Schiedsstelle nach
-Absatz 5 den Vertragsinhalt innerhalb von drei Monaten fest. Die
-Schiedsstelle entscheidet unter freier Würdigung aller Umstände des
-Einzelfalls und berücksichtigt dabei die Besonderheiten des jeweiligen
+(4) Kommt eine Vereinbarung nach Absatz 1 nicht innerhalb von sechs
+Monaten nach Veröffentlichung des Beschlusses nach § 35a Absatz 3 oder
+nach § 35b Absatz 3 zustande, setzt die Schiedsstelle nach Absatz 5
+den Vertragsinhalt innerhalb von drei Monaten fest. Die Schiedsstelle
+entscheidet unter freier Würdigung aller Umstände des Einzelfalls und
+berücksichtigt dabei die Besonderheiten des jeweiligen
 Therapiegebietes. Der im Schiedsspruch festgelegte Erstattungsbetrag
 gilt ab dem siebten Monat nach dem in Absatz 3a Satz 2, 3, 4, 5, 6
 oder Satz 8 jeweils genannten Ereignis mit der Maßgabe, dass die
@@ -22374,8 +23265,70 @@ bei der Festsetzung entsprechend Absatz 3a Satz 9 auszugleichen ist.
 Die Schiedsstelle gibt dem Verband der privaten Krankenversicherung
 vor ihrer Entscheidung Gelegenheit zur Stellungnahme. Klagen gegen
 Entscheidungen der Schiedsstelle haben keine aufschiebende Wirkung.
-Ein Vorverfahren findet nicht statt. Absatz 1 Satz 7 gilt
+Ein Vorverfahren findet nicht statt. Absatz 1 Satz 6 gilt
 entsprechend.
+
+(4a) Im Fall einer Bestimmung nach Absatz 1c ist die Differenz
+zwischen dem tatsächlich gezahlten Abgabepreis und dem
+Erstattungsbetrag einschließlich der zu viel entrichteten Zuschläge
+nach der Arzneimittelpreisverordnung und der zu viel entrichteten
+Umsatzsteuer für den Zeitraum ab dem Zeitpunkt der Geltung des
+Erstattungsbetrags nach Absatz 3a Satz 2, 3, 4, 5, 6 oder Satz 8 oder
+nach Absatz 4 Satz 3 auszugleichen. Der pharmazeutische Unternehmer
+hat den Ausgleich nach Satz 1 innerhalb von zehn Tagen nach einem
+entsprechenden Verlangen durch Zahlung an die Krankenkasse
+vorzunehmen. Der pharmazeutische Unternehmer übermittelt den
+Erstattungsbetrag einschließlich der Rabatte nach § 130a, den
+jeweiligen Geltungsbeginn und die jeweilige Geltungsdauer des
+Erstattungsbetrags sowie den nach Satz 1 auszugleichenden Betrag
+unverzüglich nach der Bestimmung und nach Änderungen dieser Angaben an
+jede Krankenkasse und an die zentrale Stelle nach § 2 Satz 1 des
+Gesetzes über Rabatte für Arzneimittel.
+
+(4b) Der Spitzenverband Bund der Krankenkassen erteilt auf Anfrage
+Auskunft über den Erstattungsbetrag für ein Arzneimittel, für das eine
+Bestimmung gemäß Absatz 1c erfolgt ist, und den gemäß § 78 Absatz 3a
+Satz 5 des Arzneimittelgesetzes auszugleichenden Betrag gegenüber
+
+1.  Krankenhäusern, den für diese zuständigen Aufsichtsbehörden und dem
+    Institut für das Entgeltsystem im Krankenhaus,
+
+
+2.  jeder juristischen Person, die den Erwerb des Arzneimittels gegenüber
+    dem Spitzenverband Bund der Krankenkassen nachweist,
+
+
+3.  Arzneimittelimporteuren,
+
+
+4.  jedem pharmazeutischen Unternehmer, der gegenüber dem Spitzenverband
+    Bund der Krankenkassen nachweist, dass er einen Antrag auf Zulassung
+    eines Generikums unter Bezugnahme auf die Unterlagen dieses
+    Arzneimittels als Referenzarzneimittel gestellt hat; die Auskunft wird
+    frühestens zwölf Monate vor dem Wegfall des Unterlagenschutzes
+    erteilt.
+
+
+
+Der Spitzenverband Bund der Krankenkassen kann Dritte mit der
+Erfüllung seiner Verpflichtung nach Satz 1 beauftragen. Er legt eine
+pauschalierte Vergütung für den ihm tatsächlich entstehenden Aufwand
+je Auskunft nach Satz 1 fest. Der pharmazeutische Unternehmer, zu
+dessen Arzneimittel die Auskunft nach Satz 1 erteilt wird, hat die
+Vergütung nach Satz 3 an den Spitzenverband Bund der Krankenkassen zu
+leisten.
+
+(4c) Im Fall einer Bestimmung nach Absatz 1c können der Spitzenverband
+Bund der Krankenkassen und die Krankenkassen zur Erfüllung ihrer
+gesetzlichen Aufgaben den für dieses Arzneimittel geltenden
+Erstattungsbetrag verarbeiten und an Dritte übermitteln. Insbesondere
+kann der Spitzenverband Bund der Krankenkassen den Erstattungsbetrag
+an den Gemeinsamen Bundesausschuss und an das Institut für Qualität
+und Wirtschaftlichkeit im Gesundheitswesen übermitteln.
+Veröffentlichungen des Gemeinsamen Bundesausschusses und des Instituts
+für Qualität und Wirtschaftlichkeit im Gesundheitswesen dürfen den
+Erstattungsbetrag für ein Arzneimittel, für das eine Bestimmung nach
+Absatz 1c erfolgt ist, nicht enthalten.
 
 (5) Der Spitzenverband Bund der Krankenkassen und die für die
 Wahrnehmung der wirtschaftlichen Interessen gebildeten maßgeblichen
@@ -22402,9 +23355,9 @@ Entschädigung für Zeitaufwand der Mitglieder, das Verfahren, das
 Teilnahmerecht des Bundesministeriums für Gesundheit an den Sitzungen
 sowie über die Verteilung der Kosten geregelt werden.
 
-(7) Eine Vereinbarung nach Absatz 1 oder 3 oder ein Schiedsspruch nach
-Absatz 4 kann von einer Vertragspartei frühestens nach einem Jahr
-gekündigt werden. Die Vereinbarung oder der Schiedsspruch gilt bis zum
+(7) Eine Vereinbarung nach Absatz 1 oder ein Schiedsspruch nach Absatz
+4 kann von einer Vertragspartei frühestens nach einem Jahr gekündigt
+werden. Die Vereinbarung oder der Schiedsspruch gilt bis zum
 Wirksamwerden einer neuen Vereinbarung fort. Bei Veröffentlichung
 eines neuen Beschlusses zur Nutzenbewertung nach § 35a Absatz 3 oder
 zur Kosten-Nutzen-Bewertung nach § 35b Absatz 3 für das Arzneimittel
@@ -22416,10 +23369,10 @@ Festbetrags nach § 35 Absatz 3 die Vereinbarung abweichend von Satz 1
 außerordentlich kündigen.
 
 (7a) Für Arzneimittel, für die ein Erstattungsbetrag nach Absatz 1
-oder Absatz 3 vereinbart oder nach Absatz 4 festgesetzt wurde, kann
-die Vereinbarung oder der Schiedsspruch von jeder Vertragspartei bis
-zum 1. Februar 2023 gekündigt werden, auch wenn sich das Arzneimittel
-im Geltungsbereich dieses Gesetzes nicht im Verkehr befindet. Im Fall
+vereinbart oder nach Absatz 4 festgesetzt wurde, kann die Vereinbarung
+oder der Schiedsspruch von jeder Vertragspartei bis zum 1. Februar
+2023 gekündigt werden, auch wenn sich das Arzneimittel im
+Geltungsbereich dieses Gesetzes nicht im Verkehr befindet. Im Fall
 einer Kündigung ist unverzüglich erneut ein Erstattungsbetrag zu
 vereinbaren. Die gekündigte Vereinbarung gilt bis zum Wirksamwerden
 einer neuen Vereinbarung fort.
@@ -22471,12 +23424,10 @@ legen sie insbesondere Kriterien fest, die neben dem Beschluss nach §
 Erstattungsbetrags nach Absatz 1 heranzuziehen sind. Für Arzneimittel,
 für die der Gemeinsame Bundesausschuss nach § 35a Absatz 3 einen
 Zusatznutzen festgestellt hat, sollen die Jahrestherapiekosten
-vergleichbarer Arzneimittel sowie die tatsächlichen Abgabepreise in
-anderen europäischen Ländern gewichtet nach den jeweiligen Umsätzen
-und Kaufkraftparitäten berücksichtigt werden. In der Vereinbarung nach
-Satz 1 sind auch Maßstäbe für die Angemessenheit der Abschläge nach
-Absatz 3 Satz 4 und 9 zu vereinbaren. In der Vereinbarung nach Satz 1
-ist auch das Nähere zu Inhalt, Form und Verfahren der jeweils
+vergleichbarer Arzneimittel berücksichtigt werden. In der Vereinbarung
+nach Satz 1 sind auch Maßstäbe für die Angemessenheit der Abschläge
+nach Absatz 3 Satz 4 und 9 zu vereinbaren. In der Vereinbarung nach
+Satz 1 ist auch das Nähere zu Inhalt, Form und Verfahren der jeweils
 erforderlichen Auswertung der Daten nach § 217f Absatz 7 und der
 Übermittlung der Auswertungsergebnisse an den pharmazeutischen
 Unternehmer sowie zur Aufteilung der entstehenden Kosten zu
@@ -22487,7 +23438,7 @@ fest. Kommt eine Rahmenvereinbarung nicht innerhalb einer vom
 Bundesministerium für Gesundheit gesetzten Frist zustande, gilt Satz 6
 entsprechend. Eine Klage gegen Entscheidungen der Schiedsstelle hat
 keine aufschiebende Wirkung. Ein Vorverfahren findet nicht statt.
-Absatz 1 Satz 7 gilt entsprechend.
+Absatz 1 Satz 6 gilt entsprechend.
 
 (10) Der Gemeinsame Bundesausschuss, der Spitzenverband Bund der
 Krankenkassen und das Institut für Qualität und Wirtschaftlichkeit im
@@ -22498,26 +23449,13 @@ Bewertung nach § 35a und für die Kosten-Nutzen-Bewertung nach § 35b
 sowie für die Festsetzung eines Erstattungsbetrags nach Absatz 4.
 
 (11) Das Bundesministerium für Gesundheit evaluiert die Auswirkungen
-der Änderungen der §§ 35a und 130b und der Neuregelung des § 130e
-durch das GKV-Finanzstabilisierungsgesetz vom 7. November 2022 (BGBl.
-I S. 1990) auf die Versorgung mit Arzneimitteln. Im Rahmen der
-Evaluation bewertet es insbesondere die Auswirkungen
-
-1.  auf die Sicherheit der Versorgung mit innovativen und wirtschaftlichen
-    Arzneimitteln insbesondere auch für Patientinnen und Patienten mit
-    seltenen Erkrankungen sowie
-
-
-2.  auf Produktionsstandorte in der Bundesrepublik Deutschland und der
-    Europäischen Union.
-
-
-
-Das Bundesministerium für Gesundheit berichtet dem Deutschen Bundestag
-bis zum 31. Dezember 2023 über die Ergebnisse der Evaluation; dabei
-stellt es zur Bewertung der Auswirkungen auf Produktionsstandorte
-Einvernehmen mit dem Bundesministerium für Wirtschaft und Klimaschutz
-her.
+der Änderung des § 130b durch das Medizinforschungsgesetz vom 23.
+Oktober 2024 (BGBl. 2024 I Nr. 324) auf den Zugang zu innovativen und
+wirtschaftlichen Arzneimitteln unter Berücksichtigung des
+Erfüllungsaufwands und der Arzneimittelausgaben. Das Bundesministerium
+für Gesundheit berichtet dem Ausschuss für Gesundheit des Deutschen
+Bundestages bis zum 31. Dezember 2026 über die Ergebnisse der
+Evaluation.
 
 
 #### § 130c Verträge von Krankenkassen mit pharmazeutischen Unternehmern
@@ -22779,6 +23717,13 @@ Datenträgern
     Geltungsdauer,
 
 
+2a. im Fall einer Bestimmung nach § 130b Absatz 1c die Angabe, dass für
+    das Arzneimittel eine Bestimmung nach § 130b Absatz 1c erfolgt ist,
+    die Rabatte nach § 130a, den jeweiligen Geltungsbeginn und die
+    jeweilige Geltungsdauer des Erstattungsbetrags sowie die auf Grundlage
+    des Erstattungsbetrags berechnete Höhe der Zuzahlung nach § 61 Satz 1,
+
+
 3.  die nach § 130d ermittelten oder festgesetzten Herstellerabgabepreise
     einschließlich der Rabatte nach § 130a,
 
@@ -22798,7 +23743,7 @@ Dritte mit der Erfüllung ihrer Verpflichtungen nach den Sätzen 1 bis 3
 beauftragen. Das Nähere zur Übermittlung der in Satz 3 genannten
 Angaben an den Spitzenverband Bund der Krankenkassen vereinbaren die
 Vertragspartner nach Absatz 1; solche Vereinbarungen können auch die
-weiteren nach Satz 2 berechtigten Datenempfänger mit den für die
+weiteren nach Satz 3 berechtigten Datenempfänger mit den für die
 Wahrnehmung der wirtschaftlichen Interessen gebildeten maßgeblichen
 Spitzenorganisationen der pharmazeutischen Unternehmer auf Bundesebene
 schließen. Die Verbände nach § 129 Absatz 2 können die Übermittlung
@@ -22922,6 +23867,13 @@ insbesondere zu regeln:
 2.  Maßnahmen zur Qualitätssicherung und Fortbildung,
 
 
+2a. Voraussetzungen für eine fachgerechte Wahrnehmung der
+    Pflegeprozessverantwortung im Sinne des § 4 Absatz 1 Satz 1 des
+    Pflegeberufegesetzes unter Berücksichtigung der ärztlichen
+    Indikationsstellung für den Bedarf an Leistungen der medizinischen
+    Behandlungspﬂege,
+
+
 3.  Inhalt und Umfang der Zusammenarbeit des Leistungserbringers mit dem
     verordnenden Vertragsarzt und dem Krankenhaus,
 
@@ -22932,21 +23884,28 @@ insbesondere zu regeln:
 
 5.  Grundsätze der Vergütungen und ihrer Strukturen einschließlich der
     Transparenzvorgaben für die Vergütungsverhandlungen zum Nachweis der
-    tatsächlich gezahlten Tariflöhne oder Arbeitsentgelte sowie erstmals
-    bis zum 30. Juni 2019 Grundsätze für die Vergütung von längeren
-    Wegezeiten, insbesondere in ländlichen Räumen, durch Zuschläge unter
-    Einbezug der ambulanten Pflege nach dem Elften Buch,
+    tatsächlich gezahlten Tariflöhne oder Arbeitsentgelte sowie Grundsätze
+    für die Vergütung von längeren Wegezeiten, insbesondere in ländlichen
+    Räumen, durch Zuschläge unter Einbezug der ambulanten Pflege nach dem
+    Elften Buch,
 
 
 6.  Grundsätze zum Verfahren der Prüfung der Leistungspflicht der
     Krankenkassen sowie zum Abrechnungsverfahren einschließlich der für
-    diese Zwecke jeweils zu übermittelnden Daten und
+    diese Zwecke jeweils zu übermittelnden Daten,
 
 
-7.  Anforderungen an die Eignung der Pflegefachkräfte, die Leistungen im
+7.  Anforderungen an die Eignung der Pflegefachpersonen, die Leistungen im
     Rahmen einer Versorgung nach § 37 Absatz 8 erbringen, sowie Maßnahmen
     zur Gewährleistung der Wirtschaftlichkeit der im Rahmen einer
-    Versorgung nach § 37 Absatz 8 erbrachten Leistungen.
+    Versorgung nach § 37 Absatz 8 erbrachten Leistungen und
+
+
+8.  Grundsätze der Vergütung von Verordnungen von in dem nach § 73d Absatz
+    1 Satz 1 Nummer 2 vereinbarten Katalog genannten Leistungen, soweit
+    die Leistungen von Leistungserbringern erbracht werden, mit denen
+    Verträge nach Absatz 4 Satz 1 abgeschlossen werden, erstmals bis zum
+    30\. April 2028.
 
 
 
@@ -23031,6 +23990,11 @@ erteilen dem Leistungserbringer hierüber einen Bescheid und setzen ihm
 darin zugleich eine angemessene Frist zur Beseitigung der
 festgestellten Mängel. Abweichend von Satz 1 kann die Krankenkasse zur
 Gewährung von häuslicher Krankenpflege geeignete Personen anstellen.
+
+(5) Die Versorgung mit Leistungen der häuslichen Krankenpflege in
+gemeinschaftlichen Wohnformen mit Verträgen zur pflegerischen
+Versorgung gemäß § 92c des Elften Buches erfolgt nach Maßgabe dieser
+Verträge.
 
 
 #### § 132b Versorgung mit Soziotherapie
@@ -23308,10 +24272,11 @@ Nähere über die Inhalte und Anforderungen der Versorgungsplanung nach
 den Absätzen 1 und 2. Den Kassenärztlichen Bundesvereinigungen, der
 Deutschen Krankenhausgesellschaft, den für die Wahrnehmung der
 Interessen der Hospizdienste und stationären Hospize maßgeblichen
-Spitzenorganisationen, den Verbänden der Pflegeberufe auf Bundesebene,
-den maßgeblichen Organisationen für die Wahrnehmung der Interessen und
-der Selbsthilfe der pflegebedürftigen und behinderten Menschen, dem
-Medizinischen Dienst Bund, dem Verband der Privaten
+Spitzenorganisationen, den maßgeblichen Organisationen der
+Pflegeberufe auf Bundesebene im Sinne des § 118a Absatz 1 Satz 1 des
+Elften Buches, den maßgeblichen Organisationen für die Wahrnehmung der
+Interessen und der Selbsthilfe der pflegebedürftigen und behinderten
+Menschen, dem Medizinischen Dienst Bund, dem Verband der Privaten
 Krankenversicherung e. V., der Bundesarbeitsgemeinschaft der
 überörtlichen Träger der Sozialhilfe sowie der Bundesvereinigung der
 kommunalen Spitzenverbände ist Gelegenheit zur Stellungnahme zu geben.
@@ -23615,22 +24580,29 @@ mit zuverlässigen Leistungserbringern, die
 Die Bezahlung von Gehältern bis zur Höhe tarifvertraglich vereinbarter
 Vergütungen sowie entsprechender Vergütungen nach kirchlichen
 Arbeitsrechtsregelungen kann dabei nicht als unwirtschaftlich
-abgelehnt werden. Auf Verlangen der Landesverbände der Krankenkassen
-und der Ersatzkassen oder einer Krankenkasse ist die Zahlung dieser
-Vergütungen nachzuweisen. Die Leistungserbringer sind verpflichtet,
-ein einrichtungsinternes Qualitätsmanagement durchzuführen, das den
-Anforderungen des Absatzes 2 Nummer 4 entspricht, und an Qualitäts-
-und Abrechnungsprüfungen nach § 275b teilzunehmen; § 114 Absatz 2 des
-Elften Buches bleibt unberührt. Soweit bei einer Prüfung nach § 275b
-Absatz 1 Satz 1 bis 3 Qualitätsmängel festgestellt werden, entscheiden
-die Landesverbände der Krankenkassen oder die Krankenkassen nach
-Anhörung des Leistungserbringers, welche Maßnahmen zu treffen sind,
-erteilen dem Leistungserbringer hierüber einen Bescheid und setzen ihm
-darin zugleich eine angemessene Frist zur Beseitigung der
-festgestellten Mängel. Verträge nach § 132a Absatz 4 gelten so lange
-fort, bis sie durch Verträge nach Satz 1 abgelöst werden, längstens
-jedoch für zwölf Monate nach Vereinbarung der Rahmenempfehlungen nach
-Absatz 1.
+abgelehnt werden. Bei nicht tarifgebundenen oder nicht an kirchliche
+Arbeitsrechtsregelungen gebundenen Leistungserbringern gilt § 82c
+Absatz 2 Satz 1 des Elften Buches entsprechend. Eine Bezahlung von
+Gehältern, die ihrer Höhe nach über die Höhe hinausgehen, die nach
+Satz 2 oder Satz 3 in Verbindung mit § 82c Absatz 2 Satz 1 des Elften
+Buches nicht als unwirtschaftlich abgelehnt werden kann, kann nicht
+als unwirtschaftlich abgelehnt werden, wenn für sie ein sachlicher
+Grund besteht. Auf Verlangen der Landesverbände der Krankenkassen und
+der Ersatzkassen oder einer Krankenkasse ist die Zahlung der
+Vergütungen nach Satz 2 oder Satz 3 nachzuweisen. Die
+Leistungserbringer sind verpflichtet, ein einrichtungsinternes
+Qualitätsmanagement durchzuführen, das den Anforderungen des Absatzes
+2 Nummer 4 entspricht, und an Qualitäts- und Abrechnungsprüfungen nach
+§ 275b teilzunehmen; § 114 Absatz 2 des Elften Buches bleibt
+unberührt. Soweit bei einer Prüfung nach § 275b Absatz 1 Satz 1 bis 3
+Qualitätsmängel festgestellt werden, entscheiden die Landesverbände
+der Krankenkassen oder die Krankenkassen nach Anhörung des
+Leistungserbringers, welche Maßnahmen zu treffen sind, erteilen dem
+Leistungserbringer hierüber einen Bescheid und setzen ihm darin
+zugleich eine angemessene Frist zur Beseitigung der festgestellten
+Mängel. Verträge nach § 132a Absatz 4 gelten so lange fort, bis sie
+durch Verträge nach Satz 1 abgelöst werden, längstens jedoch für zwölf
+Monate nach Vereinbarung der Rahmenempfehlungen nach Absatz 1.
 
 (6) Im Fall der Nichteinigung wird der Inhalt des Versorgungsvertrages
 nach Absatz 5 durch eine von den Vertragspartnern zu bestimmende
@@ -24356,24 +25328,35 @@ datengestützten einrichtungsübergreifenden Qualitätssicherung erhält,
 die für das Transparenzverzeichnis geeigneten patientenrelevanten
 Ergebnisse aus und führt diese mit den nach § 21 Absatz 3d Satz 3 des
 Krankenhausentgeltgesetzes vom Institut für das Entgeltsystem im
-Krankenhaus übermittelten Daten zusammen. Das Institut für
-Qualitätssicherung und Transparenz im Gesundheitswesen kann auf
-Grundlage der nach § 21 Absatz 3d Satz 3 des
+Krankenhaus übermittelten Auswertungen und der nach § 40 Absatz 2 Satz
+4 des Krankenhausfinanzierungsgesetzes vom Institut für das
+Entgeltsystem im Krankenhaus übermittelten Liste zusammen. Das
+Institut für Qualitätssicherung und Transparenz im Gesundheitswesen
+kann auf Grundlage der nach § 21 Absatz 3d Satz 3 des
 Krankenhausentgeltgesetzes vom Institut für das Entgeltsystem im
-Krankenhaus übermittelten Daten weitere Auswertungen und Bewertungen
-vornehmen. Das Institut für Qualitätssicherung und Transparenz im
-Gesundheitswesen übermittelt die nach den Sätzen 1 bis 3 aufbereiteten
-aktuellsten Daten ohne Personenbezug unverzüglich an die nach Absatz 1
-Satz 3 benannte Stelle. Es hat bei der Übermittlung gegenüber der nach
-Absatz 1 Satz 3 benannten Stelle die Richtigkeit und Sachlichkeit der
+Krankenhaus übermittelten Auswertungen und der nach § 40 Absatz 2 Satz
+4 des Krankenhausfinanzierungsgesetzes vom Institut für das
+Entgeltsystem im Krankenhaus übermittelten Liste weitere Auswertungen
+und Bewertungen vornehmen und auf Grundlage dieser Auswertungen neue
+risikoadjustierte Qualitätsindikatoren zu Sterblichkeit und
+periprozeduralen Komplikationen entwickeln; ferner kann das Institut
+für Qualitätssicherung und Transparenz im Gesundheitswesen
+patientenrelevante Prozesse als Qualitätsindikator darstellen. Das
+Institut für Qualitätssicherung und Transparenz im Gesundheitswesen
+übermittelt die nach den Sätzen 1 bis 3 aufbereiteten aktuellsten
+Daten ohne Personenbezug unverzüglich an die nach Absatz 1 Satz 3
+benannte Stelle. Es hat bei der Übermittlung gegenüber der nach Absatz
+1 Satz 3 benannten Stelle die Richtigkeit und Sachlichkeit der
 übermittelten Daten zu erklären. Satz 5 gilt nicht für die nach § 21
-Absatz 3d des Krankenhausentgeltgesetzes übermittelten Daten. Bei der
-Wahrnehmung der Aufgaben nach den Sätzen 1 bis 3 kann das Institut für
-Qualitätssicherung und Transparenz im Gesundheitswesen externen
-wissenschaftlichen Sachverstand einbeziehen, ohne dabei einen Zugriff
-auf personenbezogene Daten zu gewähren. Die termingerechte Wahrnehmung
-der Aufgaben nach den Sätzen 1 bis 4 und Absatz 6 sowie deren
-Finanzierung sind von der Trägerin des Instituts für
+Absatz 3d des Krankenhausentgeltgesetzes übermittelten Auswertungen
+und die nach § 40 Absatz 2 Satz 4 des Krankenhausfinanzierungsgesetzes
+vom Institut für das Entgeltsystem im Krankenhaus übermittelte Liste.
+Bei der Wahrnehmung der Aufgaben nach den Sätzen 1 bis 3 kann das
+Institut für Qualitätssicherung und Transparenz im Gesundheitswesen
+externen wissenschaftlichen Sachverstand einbeziehen, ohne dabei einen
+Zugriff auf personenbezogene Daten zu gewähren. Die termingerechte
+Wahrnehmung der Aufgaben nach den Sätzen 1 bis 4 und Absatz 6 sowie
+deren Finanzierung sind von der Trägerin des Instituts für
 Qualitätssicherung und Transparenz im Gesundheitswesen
 sicherzustellen. § 137a Absatz 8 gilt auch für die Finanzierung der
 Aufgaben nach den Sätzen 1 bis 4 und Absatz 6.
@@ -24383,13 +25366,12 @@ folgende Informationen zu einzelnen Standorten von Krankenhäusern im
 Sinne des Satzes 2 sowie Bewertungen dieser Informationen
 veröffentlicht:
 
-1.  die Fallzahl der erbrachten Leistungen bis zum 30. September 2024
-    differenziert nach Fachabteilungen und ab dem 1. Oktober 2024
-    differenziert nach den in Anlage 1 genannten Leistungsgruppen sowie
-    die Fallzahl der für Patienten besonders relevanten erbrachten
-    Leistungen, die das Institut für das Entgeltsystem im Krankenhaus im
-    Einvernehmen mit dem Institut für Qualitätssicherung und Transparenz
-    im Gesundheitswesen bestimmt,
+1.  die Fallzahl der erbrachten Leistungen differenziert nach den nach §
+    135e Absatz 2 Satz 2 maßgeblichen Leistungsgruppen sowie die Fallzahl
+    der für Patienten besonders relevanten erbrachten Leistungen, die das
+    Institut für das Entgeltsystem im Krankenhaus im Einvernehmen mit dem
+    Institut für Qualitätssicherung und Transparenz im Gesundheitswesen
+    bestimmt,
 
 
 2.  die nach Absatz 4 zugeordnete Versorgungsstufe,
@@ -24418,22 +25400,33 @@ veröffentlicht:
 
 7.  die Stufe der Notfallversorgung nach dem vom Gemeinsamen
     Bundesausschuss gemäß § 136c Absatz 4 beschlossenen gestuften System
-    von Notfallstrukturen in Krankenhäusern.
+    von Notfallstrukturen in Krankenhäusern,
+
+
+8.  die dem Krankenhaus für einen Krankenhausstandort nach § 6a Absatz 1
+    Satz 1 des Krankenhausfinanzierungsgesetzes zugewiesenen
+    Leistungsgruppen einschließlich der nach § 6a Absatz 1 Satz 1 in
+    Verbindung mit Absatz 4 Satz 1 des Krankenhausfinanzierungsgesetzes
+    zugewiesenen Leistungsgruppen und die für einen Krankenhausstandort
+    nach § 109 Absatz 1 Satz 1 vereinbarten Leistungsgruppen
+    einschließlich der nach § 109 Absatz 1 Satz 1 in Verbindung mit Absatz
+    3a Satz 4 vereinbarten Leistungsgruppen sowie die Erfüllung oder
+    Nichterfüllung der jeweils maßgeblichen Qualitätskriterien; § 135e
+    Absatz 2 Satz 2 gilt entsprechend,
+
+
+9.  die Ausweisung in der nach § 40 Absatz 2 Satz 3 des
+    Krankenhausfinanzierungsgesetzes veröffentlichten Liste.
 
 
 
-Der Standort eines Krankenhauses bestimmt sich nach § 2 der zwischen
-dem Spitzenverband Bund der Krankenkassen und der Deutschen
-Krankenhausgesellschaft gemäß § 2a Absatz 1 des
-Krankenhausfinanzierungsgesetzes getroffenen Vereinbarung über die
-Definition von Standorten der Krankenhäuser und ihrer Ambulanzen vom
-29\. August 2017, die auf der Internetseite der Deutschen
-Krankenhausgesellschaft veröffentlicht ist. Abweichend von Satz 1
-Nummer 1 werden die in dieser Nummer genannten Informationen zu den
-Standorten von Krankenhäusern, denen die für die Krankenhausplanung
-zuständige Landesbehörde bis zum 28. März 2024 Leistungsgruppen
-zugewiesen hat, im Transparenzverzeichnis im Zeitraum bis zum 31.
-Dezember 2025 differenziert nach diesen zugewiesenen Leistungsgruppen
+Der Standort eines Krankenhauses bestimmt sich nach § 2a des
+Krankenhausfinanzierungsgesetzes. Abweichend von Satz 1 Nummer 1
+werden die in dieser Nummer genannten Informationen zu den Standorten
+von Krankenhäusern, denen die für die Krankenhausplanung zuständige
+Landesbehörde bis zum 28. März 2024 Leistungsgruppen zugewiesen hat,
+im Transparenzverzeichnis im Zeitraum bis zum 31. Dezember 2025
+differenziert nach diesen zugewiesenen Leistungsgruppen
 veröffentlicht. Die von Satz 3 betroffenen Standorte von
 Krankenhäusern sind im Transparenzverzeichnis gesondert zu
 kennzeichnen. Bei Bundeswehrkrankenhäusern und Krankenhäusern der
@@ -24455,16 +25448,16 @@ gesetzlichen Unfallversicherung handelt. Dem Institut für
 Qualitätssicherung und Transparenz im Gesundheitswesen übermitteln
 unverzüglich je Standort eines Krankenhauses
 
-1.  die Landesverbände der Krankenkassen und die Ersatzkassen gemeinsam
-    und einheitlich die in § 136b Absatz 5 Satz 7 genannten Informationen
-    der erfolgten Prognoseprüfungen und die Entscheidungen der für die
-    Krankenhausplanung zuständigen Landesbehörden nach § 136b Absatz 5a
-    über die Nichtanwendung von § 136b Absatz 5 Satz 1 und 2 sowie
+1.  der Gemeinsame Bundesausschuss die in § 136b Absatz 5 Satz 7 genannten
+    Informationen der erfolgten Prognoseprüfungen und die Entscheidungen
+    der für die Krankenhausplanung zuständigen Landesbehörden nach § 136b
+    Absatz 5a über die Nichtanwendung von § 136b Absatz 5 Satz 1 und 2
+    sowie
 
 
-2.  die Krankenhäuser die aktuellen Informationen über die Teilnahme an
-    dem vom Gemeinsamen Bundesausschuss gemäß § 136c Absatz 4
-    beschlossenen gestuften System von Notfallstrukturen in
+2.  die Krankenhäuser bis zum 30. Juni 2025 die aktuellen Informationen
+    über die Teilnahme an dem vom Gemeinsamen Bundesausschuss gemäß § 136c
+    Absatz 4 beschlossenen gestuften System von Notfallstrukturen in
     Krankenhäusern.
 
 
@@ -24514,22 +25507,33 @@ Fachkrankenhäuser, die sich auf die Behandlung einer bestimmten
 Erkrankung, Krankheitsgruppe oder Personengruppe spezialisiert haben
 und einen relevanten Versorgungsanteil in diesem Bereich leisten,
 werden von der für die Krankenhausplanung zuständigen Landesbehörde
-der Versorgungsstufe „Level F“ zugeordnet. Krankenhäuser, die eine
-sektorenübergreifende Versorgung und in der Regel keine Notfallmedizin
-erbringen, werden von der für die Krankenhausplanung zuständigen
-Landesbehörde der Versorgungsstufe „Level 1i“ zugeordnet. Eine
-Zuordnung nach Satz 3 oder Satz 4 tritt an die Stelle einer Zuordnung
-nach Satz 2 Nummer 4, sofern diese bereits erfolgt ist. Die in den
-Sätzen 3 und 4 genannten Krankenhäuser sind im Transparenzverzeichnis
-gesondert zu kennzeichnen. Die für die Krankenhausplanung zuständige
-Landesbehörde teilt dem Institut für das Entgeltsystem im Krankenhaus
-unverzüglich eine Zuordnung nach Satz 3 oder Satz 4 oder eine Änderung
-dieser Zuordnung mit. Das Bundesministerium für Gesundheit bestimmt
-auf Vorschlag des Instituts für das Entgeltsystem im Krankenhaus, in
-welchen Fällen bei der Zuordnung zu einer Versorgungsstufe eine
-Leistungsgruppe nicht zu berücksichtigen ist, weil der Standort eines
-Krankenhauses im bundesweiten Vergleich wenig Behandlungsfälle in der
-Leistungsgruppe erbracht hat.
+der Versorgungsstufe „Level F“ zugeordnet, wenn sie mindestens 80
+Prozent der im vorhergehenden Kalenderjahr von ihnen abgerechneten
+Fälle in höchstens vier der in Anlage 1 genannten Leistungsgruppen
+abzüglich der Fälle der in Anlage 1 Nummer 1 und 14 genannten
+Leistungsgruppen Allgemeine Innere Medizin und Allgemeine Chirurgie
+erbracht haben; die Fälle der Leistungsgruppen Allgemeine Innere
+Medizin und Allgemeine Chirurgie bleiben bei der Bestimmung der
+Gesamtzahl der abgerechneten Fälle außer Betracht; die in Anlage 1
+Nummer 10 bis 13 genannten Leistungsgruppen EPU/Ablation,
+Interventionelle Kardiologie, Kardiale Devices und Minimale
+Herzklappenintervention werden als eine Leistungsgruppe gezählt.
+Krankenhäuser, die eine sektorenübergreifende Versorgung und in der
+Regel keine Notfallmedizin erbringen, werden von der für die
+Krankenhausplanung zuständigen Landesbehörde der Versorgungsstufe
+„Level 1i“ zugeordnet. Eine Zuordnung nach Satz 3 oder Satz 4 tritt an
+die Stelle einer Zuordnung nach Satz 2 Nummer 4, sofern diese bereits
+erfolgt ist. Die in den Sätzen 3 und 4 genannten Krankenhäuser sind im
+Transparenzverzeichnis gesondert zu kennzeichnen. Die für die
+Krankenhausplanung zuständige Landesbehörde teilt dem Institut für das
+Entgeltsystem im Krankenhaus unverzüglich eine Zuordnung nach Satz 3
+oder Satz 4 oder eine Änderung dieser Zuordnung mit. Das
+Bundesministerium für Gesundheit bestimmt auf Vorschlag des Instituts
+für das Entgeltsystem im Krankenhaus, in welchen Fällen bei der
+Zuordnung zu einer Versorgungsstufe eine Leistungsgruppe nicht zu
+berücksichtigen ist, weil der Standort eines Krankenhauses im
+bundesweiten Vergleich wenig Behandlungsfälle in der Leistungsgruppe
+erbracht hat.
 
 (5) Gegen die Veröffentlichung im Transparenzverzeichnis ist der
 Rechtsweg vor den Gerichten der Sozialgerichtsbarkeit gegeben.
@@ -24558,6 +25562,352 @@ Bundesministerium für Gesundheit bis zum 31. Dezember 2024 einen
 Bericht über die Ergebnisse der Prüfung nach den Sätzen 1 und 2 vor.
 
 
+#### § 135e Mindestanforderungen an die Qualität der Krankenhausbehandlung, Verordnungsermächtigung
+
+(1) Das Bundesministerium für Gesundheit wird ermächtigt, durch
+Rechtsverordnung mit Zustimmung des Bundesrates
+
+1.  von der Krankenhausbehandlung umfasste Leistungen in Leistungsgruppen
+    einzuteilen,
+
+
+2.  für jede nach Nummer 1 festgelegte Leistungsgruppe Qualitätskriterien,
+    die insbesondere Mindestanforderungen an die Struktur- und
+    Prozessqualität der Leistungen beinhalten, in folgenden
+    Anforderungsbereichen festzulegen:
+
+    a)  Erbringung verwandter Leistungsgruppen,
+
+
+    b)  sachliche Ausstattung,
+
+
+    c)  personelle Ausstattung und
+
+
+    d)  sonstige Struktur- und Prozessvoraussetzungen,
+
+
+
+
+
+3.  Regelungen zur Zulässigkeit der Erfüllung der nach Nummer 2
+    festgelegten Qualitätskriterien in Kooperationen und Verbünden,
+    insbesondere mit Leistungserbringern der vertragsärztlichen Versorgung
+    oder mit anderen Krankenhäusern, zu treffen,
+
+
+4.  Regelungen darüber zu treffen, für welche Leistungsgruppen die
+    Zuweisung in dem in § 6a Absatz 1 Satz 1 in Verbindung mit Absatz 4
+    Satz 1 des Krankenhausfinanzierungsgesetzes genannten Fall oder der
+    Abschluss eines Versorgungsvertrags in dem in § 109 Absatz 1 Satz 1 in
+    Verbindung mit Absatz 3a Satz 4 genannten Fall ausgeschlossen ist.
+
+
+
+Die nach Satz 1 Nummer 2 festgelegten Qualitätskriterien sollen den
+aktuellen Stand der medizinisch-wissenschaftlichen Erkenntnisse
+berücksichtigen und zu einer leitliniengerechten, qualitativ
+hochwertigen und für Patienten sicheren medizinischen Versorgung
+beitragen. Die Rechtsverordnung nach Satz 1 ist erstmals bis zum 31.
+März 2025 mit Wirkung ab dem 1. Januar 2027 zu erlassen.
+
+(2) Erbringen Krankenhäuser mindestens eine Leistung aus einer
+Leistungsgruppe, haben sie die für diese Leistungsgruppe maßgeblichen
+Qualitätskriterien am jeweiligen Krankenhausstandort zu erfüllen; §
+135d Absatz 3 Satz 2 gilt entsprechend. Die maßgeblichen
+Leistungsgruppen und Qualitätskriterien bestimmen sich nach den
+Regelungen der Rechtsverordnung nach Absatz 1; bis zum Inkrafttreten
+dieser Rechtsverordnung bestimmen sie sich nach Absatz 4.
+
+(3) Das Bundesministerium für Gesundheit richtet einen Ausschuss ein,
+der Empfehlungen zu den Inhalten der Rechtsverordnung nach Absatz 1
+beschließt. Weicht das Bundesministerium für Gesundheit beim Erlass
+einer Rechtsverordnung nach Absatz 1 von den Empfehlungen des
+Ausschusses ab, hat es dem Ausschuss die Gründe für die Abweichung vor
+Erlass der Rechtsverordnung darzulegen. Der Ausschuss wird durch das
+Bundesministerium für Gesundheit und die obersten
+Landesgesundheitsbehörden gemeinsam geleitet. Soweit das
+Bundesministerium für Gesundheit oder eine oberste
+Landesgesundheitsbehörde über die Weiterentwicklung der Inhalte der
+Rechtsverordnung nach Absatz 1 beraten möchte, kann der Ausschuss
+hierzu zunächst einen Vorschlag der Arbeitsgemeinschaft der
+Wissenschaftlichen Medizinischen Fachgesellschaften einholen. Der
+Ausschuss kann empfehlen, dass das Bundesministerium für Gesundheit
+das Institut für das Entgeltsystem im Krankenhaus und das
+Bundesinstitut für Arzneimittel und Medizinprodukte beauftragt,
+Leistungen zur Unterstützung seiner Tätigkeit zu erbringen. Der
+Ausschuss besteht in gleicher Zahl aus Vertretern des Spitzenverbandes
+Bund der Krankenkassen einerseits und Vertretern der Deutschen
+Krankenhausgesellschaft, der Bundesärztekammer, der Hochschulmedizin
+und der Berufsorganisationen der Pflegeberufe andererseits. Die
+Patientenorganisationen nach § 140f und der Medizinische Dienst Bund
+können beratend an den Sitzungen des Ausschusses teilnehmen. Der
+Ausschuss kann sachverständige Personen zur Beratung hinzuziehen. Vor
+einer Beschlussfassung nach Satz 1 ist dem Gemeinsamen Bundesausschuss
+Gelegenheit zur Stellungnahme zu geben; die Stellungnahme ist in die
+jeweilige Beschlussfassung einzubeziehen. Der Ausschuss berücksichtigt
+die gemäß § 136a Absatz 7 getroffenen Festlegungen im Rahmen seiner
+Empfehlungen zur Weiterentwicklung der Inhalte der Rechtsverordnung
+nach Absatz 1. Der Ausschuss legt das Nähere zur Arbeitsweise,
+Besetzung und Beschlussfassung des Ausschusses in einer
+Geschäftsordnung fest. Die Geschäftsordnung und ihre Änderung bedürfen
+der Genehmigung des Bundesministeriums für Gesundheit. Wird die
+Geschäftsordnung nicht bis zum 12. April 2025 festgelegt, legt das
+Bundesministerium für Gesundheit die Geschäftsordnung fest. Zur
+Koordinierung der Tätigkeit des Ausschusses wird eine Geschäftsstelle
+beim Gemeinsamen Bundesausschuss eingerichtet. Der personelle und
+sachliche Bedarf der Geschäftsstelle wird auf Vorschlag des
+Ausschusses vom Gemeinsamen Bundesausschuss im Einvernehmen mit dem
+Bundesministerium für Gesundheit bestimmt und ist vom Gemeinsamen
+Bundesausschuss in seinen Haushalt einzustellen.
+
+(4) Bis zum Inkrafttreten der Rechtsverordnung nach Absatz 1 sind
+maßgeblich im Sinne des Absatzes 2 Satz 2 die in Anlage 1 genannten
+Leistungsgruppen und Qualitätskriterien nach Maßgabe der nachfolgenden
+Sätze. Hinsichtlich der Erfüllung der für eine Leistungsgruppe in
+Anlage 1 als Mindestvoraussetzungen genannten Qualitätskriterien gilt,
+
+1.  dass hinsichtlich der im Anforderungsbereich „Erbringung verwandter
+    Leistungsgruppen“ in der Spalte „Standort“ genannten Leistungsgruppen
+    die für diese Leistungsgruppen jeweils maßgeblichen Qualitätskriterien
+    ebenfalls erfüllt sein müssen,
+
+
+2.  dass, sofern in den Anforderungsbereichen „Erbringung verwandter
+    Leistungsgruppen“ und „Personelle Ausstattung“ zwischen der Behandlung
+    von Erwachsenen und der Behandlung von Kindern und Jugendlichen
+    unterschieden wird, sich die zu erfüllenden Qualitätskriterien jeweils
+    danach bestimmen, ob nur Erwachsene, nur Kinder und Jugendliche oder
+    sowohl Erwachsene als auch Kinder und Jugendliche behandelt werden
+    sollen,
+
+
+3.  dass, soweit in dem Anforderungsbereich „Erbringung verwandter
+    Leistungsgruppen“ die Leistungsgruppe Intensivmedizin mit der
+    Qualitätsanforderung Hochkomplex oder mit der Qualitätsanforderung
+    Komplex genannt wird, hinsichtlich dieser Leistungsgruppe die in
+    Anlage 1 Nummer 64 in der jeweiligen entsprechend benannten
+    Tabellenzeile genannten Voraussetzungen ebenfalls erfüllt sein müssen,
+
+
+4.  dass, soweit in dem Anforderungsbereich „Erbringung verwandter
+    Leistungsgruppen“ in der Tabellenspalte „Standort“ Krankenhäuser, die
+    von der für die Krankenhausplanung zuständigen Landesbehörde gemäß §
+    135d Absatz 4 Satz 3 der Versorgungsstufe „Level F“ zugeordnet wurden,
+    genannt sind, diese die für sie jeweils genannten verwandten
+    Leistungsgruppen in Kooperation erbringen können,
+
+
+5.  dass die im Anforderungsbereich „Sachliche Ausstattung“ genannten
+    Qualitätskriterien jeweils dann erfüllt sind, wenn die in diesem
+    Anforderungsbereich genannten Geräte, Einrichtungen, Untersuchungs-
+    und Behandlungsangebote mit dem dafür erforderlichen Personal sowie,
+    sofern anwendbar, in dem genannten Zeitraum vorgehalten werden,
+
+
+6.  dass die im Anforderungsbereich „Personelle Ausstattung“ in der
+    Tabellenspalte „Qualifikation“ genannten Facharztbezeichnungen als
+    erfüllt anzusehen sind, wenn der jeweilige Arzt nach landesrechtlichen
+    Vorschriften zum Führen der entsprechenden Facharztbezeichnung oder
+    einer vergleichbaren Bezeichnung berechtigt ist,
+
+
+7.  dass die im Anforderungsbereich „Personelle Ausstattung“ in der
+    Tabellenspalte „Verfügbarkeit“ genannten Qualitätskriterien erfüllt
+    sind, wenn Fachärzte im jeweils genannten personellen und zeitlichen
+    Umfang vorgehalten werden, wobei
+
+    a)  die Vorgabe „Facharzt“ einem Vollzeitäquivalent von 40 Wochenstunden
+        entspricht,
+
+
+    b)  mindestens ein Facharzt jederzeit in Rufbereitschaft verfügbar sein
+        muss,
+
+
+    c)  Fachärzte für bis zu drei Leistungsgruppen, die einem Krankenhaus für
+        diesen Krankenhausstandort nach § 6a Absatz 1 Satz 1 des
+        Krankenhausfinanzierungsgesetzes zugewiesen wurden, berücksichtigt
+        werden können; dies gilt nicht für die in Anlage 1 Nummer 1 und 14
+        genannten Leistungsgruppen Allgemeine Innere Medizin und Allgemeine
+        Chirurgie,
+
+
+    d)  an Stelle eines Facharztes auch ein Belegarzt vorgehalten werden kann;
+        die in den Buchstaben a bis c festgelegten Kriterien insbesondere
+        hinsichtlich der zeitlichen Verfügbarkeit gelten entsprechend,
+
+
+
+
+
+8.  dass Krankenhäuser ein Qualitätskriterium in Kooperationen und
+    Verbünden insbesondere mit anderen Krankenhäusern oder
+    Leistungserbringern der vertragsärztlichen Versorgung erfüllen können,
+    wenn eine schriftliche Kooperationsvereinbarung vorliegt und
+
+    a)  die Erfüllung in Kooperation in dem jeweiligen Qualitätskriterium
+        vorgesehen ist oder
+
+
+    b)  dies zur Sicherstellung einer flächendeckenden Versorgung zwingend
+        erforderlich ist; § 6a Absatz 4 Satz 2 und 3 des
+        Krankenhausfinanzierungsgesetzes gilt entsprechend.
+
+
+
+
+
+
+Abweichend von Satz 2 Nummer 8 Buchstabe b gilt in Bezug auf die
+Erfüllung der in Anlage 1 als Mindestvoraussetzungen genannten
+Qualitätskriterien im Anforderungsbereich „Erbringung verwandter
+Leistungsgruppen“, dass Fachkrankenhäuser, die von der für die
+Krankenhausplanung zuständigen Landesbehörde gemäß § 135d Absatz 4
+Satz 3 der Versorgungsstufe „Level F“ zugeordnet wurden, diese
+Qualitätskriterien in Kooperationen und Verbünden insbesondere mit
+anderen Krankenhäusern oder Leistungserbringern der vertragsärztlichen
+Versorgung erfüllen können, wenn eine schriftliche
+Kooperationsvereinbarung vorliegt. Ein Krankenhausstandort kann in
+begründeten Fällen die in den Anforderungsbereichen „Erbringung
+verwandter Leistungsgruppen“ und „Personelle Ausstattung“ maßgeblichen
+Qualitätskriterien der in Anlage 1 Nummer 54 genannten Leistungsgruppe
+„Stroke Unit“ in telemedizinischer Kooperation mit einem anderen
+Krankenhaus erfüllen. Bei der in der Anlage 1 genannten
+Leistungsgruppe 65 „Notfallmedizin“ ist im Anforderungsbereich
+„Personelle Ausstattung“ ein Facharzt mit einer Facharztbezeichnung
+„Notfallmedizin“ als gleichwertig zu einem Facharzt in einem Gebiet
+der unmittelbaren Patientenversorgung mit der Zusatzweiterbildung
+„Klinische Akut- und Notfallmedizin“ anzusehen.
+
+
+#### § 135f Mindestvorhaltezahlen für die Krankenhausbehandlung, Verordnungsermächtigung
+
+(1) Ein Krankenhaus erfüllt die für eine ihm für einen
+Krankenhausstandort zugewiesene Leistungsgruppe geltende Mindestzahl
+an vom Krankenhausstandort erbrachten Behandlungsfällen
+(Mindestvorhaltezahl) in einem Kalenderjahr, wenn die sich aus den
+nach § 21 Absatz 1 und 2 Nummer 2 des Krankenhausentgeltgesetzes für
+das vorvergangene Kalenderjahr übermittelten Daten ergebende Anzahl an
+der jeweiligen Leistungsgruppe zuzuordnenden Behandlungsfällen an
+diesem Krankenhausstandort mindestens der für die jeweilige
+Leistungsgruppe nach Absatz 4 festgelegten Mindestvorhaltezahl
+entspricht. Die für die Krankenhausplanung zuständige Landesbehörde
+kann für mindestens zwei Krankenhausstandorte festlegen, dass
+Leistungen aus einer Leistungsgruppe im Folgejahr nur an einem dieser
+Krankenhausstandorte erbracht werden (Leistungsverlagerung); den
+betroffenen Krankenhausträgern ist vor der Festlegung Gelegenheit zur
+Stellungnahme zu geben. Hat die für die Krankenhausplanung zuständige
+Landesbehörde eine Festlegung nach Satz 2 getroffen, erfüllt das
+Krankenhaus, an dessen Standort die Leistungen künftig erbracht werden
+sollen, abweichend von Satz 1 die jeweilige Mindestvorhaltezahl in
+einem Kalenderjahr, wenn die sich aus den nach § 21 Absatz 1 und 2
+Nummer 2 des Krankenhausentgeltgesetzes für das vorvergangene
+Kalenderjahr übermittelten Daten ergebende Anzahl an dieser
+Leistungsgruppe zuzuordnenden Behandlungsfällen an allen von der
+Leistungsverlagerung betroffenen Krankenhausstandorten gemeinsam
+mindestens der für diese Leistungsgruppe nach Absatz 4 festgelegten
+Mindestvorhaltezahl entspricht. In dem in Satz 2 genannten Fall hat
+die für die Krankenhausplanung zuständige Landesbehörde unverzüglich
+das Institut für das Entgeltsystem im Krankenhaus über die
+Leistungsverlagerung zu informieren. Auf Bundeswehrkrankenhäuser und
+Krankenhäuser der Träger der gesetzlichen Unfallversicherung und ihrer
+Vereinigungen sind die Sätze 1 bis 4 mit der Maßgabe anzuwenden, dass
+als Behandlungsfälle auch jene Behandlungsfälle zu berücksichtigen
+sind, für deren Leistungen die Krankenhäuser Daten nach § 135d Absatz
+3 Satz 6 übermittelt haben.
+
+(2) Das Bundesministerium für Gesundheit beauftragt das Institut für
+Qualität und Wirtschaftlichkeit im Gesundheitswesen in regelmäßigen
+Abständen damit, unter Berücksichtigung der in Absatz 4 Satz 2
+genannten Kriterien wissenschaftliche Empfehlungen für die erstmalige
+Festlegung und die Weiterentwicklung von Mindestvorhaltezahlen für die
+nach § 135e Absatz 2 Satz 2 jeweils maßgeblichen Leistungsgruppen zu
+erarbeiten. Die Empfehlungen sollen in Form der Angabe eines
+Perzentils der Zahl aller Behandlungsfälle eines Kalenderjahres, in
+denen Leistungen aus der jeweiligen Leistungsgruppe erbracht wurden,
+erfolgen. Dabei hat das Institut für Qualität und Wirtschaftlichkeit
+im Gesundheitswesen auch die im Transparenzverzeichnis nach § 135d
+Absatz 3 Satz 1 veröffentlichten Bewertungen des Instituts für
+Qualitätssicherung und Transparenz im Gesundheitswesen zu
+berücksichtigen. Das Institut für Qualität und Wirtschaftlichkeit im
+Gesundheitswesen legt die jeweilige Empfehlung innerhalb von drei
+Monaten nach Erteilung des jeweiligen Auftrags dem Bundesministerium
+für Gesundheit sowie dem Institut für das Entgeltsystem im Krankenhaus
+vor. Bevor das Institut für Qualität und Wirtschaftlichkeit im
+Gesundheitswesen wissenschaftliche Empfehlungen nach Satz 1
+erarbeitet, entwickelt und veröffentlicht es eine allgemeine Methodik
+zur Erarbeitung solcher Empfehlungen. Vor der Entwicklung der
+allgemeinen Methodik ist Sachverständigen der medizinischen und
+gesundheitsökonomischen Wissenschaft und Praxis sowie den für die
+Wahrnehmung der Interessen der Patientinnen und Patienten und der
+Selbsthilfe chronisch Kranker und behinderter Menschen maßgeblichen
+Organisationen Gelegenheit zur Stellungnahme zu geben. Die
+Stellungnahmen sind in die Entwicklung der allgemeinen Methodik
+einzubeziehen. Für die Finanzierung der Aufgaben des Instituts für
+Qualität und Wirtschaftlichkeit im Gesundheitswesen nach diesem Absatz
+gilt § 139c.
+
+(3) Das Institut für das Entgeltsystem im Krankenhaus erstellt anhand
+der nach § 21 Absatz 1 und 2 Nummer 2 des Krankenhausentgeltgesetzes
+übermittelten Leistungsdaten Auswertungen zu den Auswirkungen der nach
+Absatz 2 vom Institut für Qualität und Wirtschaftlichkeit im
+Gesundheitswesen erarbeiteten Empfehlungen auf die Anzahl und
+geographische Verteilung der Krankenhausstandorte. Die Auswertungen
+haben auch die Auswirkungen der nach Absatz 2 erarbeiteten
+Empfehlungen auf die für Patienten entstehenden Fahrzeiten zum
+nächsten erreichbaren Krankenhausstandort zu umfassen. Die jeweilige
+Auswertung ist dem Bundesministerium für Gesundheit innerhalb von drei
+Monaten nach der jeweiligen Vorlage der betreffenden nach Absatz 2
+erarbeiteten Empfehlung zusammen mit einer eigenen Empfehlung des
+Instituts für das Entgeltsystem im Krankenhaus für die Festlegung der
+betreffenden Mindestvorhaltezahl, bei deren Erarbeitung die in Absatz
+4 Satz 2 genannten Kriterien zu berücksichtigen sind, vorzulegen. Das
+Institut für das Entgeltsystem im Krankenhaus übermittelt zusätzlich
+für jeden Krankenhausstandort und jede Leistungsgruppe an die
+jeweilige für die Krankenhausplanung zuständige Landesbehörde bis zum
+30\. Juni eines Kalenderjahres die Anzahl der Behandlungsfälle dieses
+Krankenhausstandorts im jeweiligen vorangegangenen Kalenderjahr, in
+denen Leistungen aus der jeweiligen Leistungsgruppe erbracht wurden,
+und die Information, ob der jeweilige Krankenhausstandort für das
+jeweils folgende Kalenderjahr die nach Absatz 4 festgelegte
+Mindestvorhaltezahl der jeweiligen Leistungsgruppen gemäß Absatz 1
+erfüllt.
+
+(4) Das Bundesministerium für Gesundheit legt durch Rechtsverordnung
+mit Zustimmung des Bundesrates für nach § 135e Absatz 2 Satz 2
+maßgebliche Leistungsgruppen Mindestvorhaltezahlen auf Grundlage der
+nach Absatz 2 vom Institut für Qualität und Wirtschaftlichkeit im
+Gesundheitswesen erarbeiteten jeweiligen Empfehlung sowie der nach
+Absatz 3 vom Institut für das Entgeltsystem im Krankenhaus erstellten
+jeweiligen Auswertung und jeweiligen Empfehlung des Instituts für das
+Entgeltsystem im Krankenhaus fest. Bei der Festlegung nach Satz 1 sind
+insbesondere zu beachten:
+
+1.  die Notwendigkeit der Gewährleistung des Facharztstandards,
+
+
+2.  das Ziel der Sicherstellung einer bedarfsgerechten und
+    flächendeckenden stationären Versorgung sowie
+
+
+3.  das Wirtschaftlichkeitsgebot nach § 12 Absatz 1.
+
+
+
+Die Rechtsverordnung nach Satz 1 ist erstmals bis zum 12. Dezember
+2025 mit Wirkung ab dem 1. Januar 2027 zu erlassen. Das
+Bundesministerium für Gesundheit überprüft die Festlegungen nach Satz
+1 regelmäßig.
+
+(5) Bis zum 31. Dezember 2026 gilt, dass ein Standort eines
+Krankenhauses, der entsprechend § 135d Absatz 4 Satz 8 im bundesweiten
+Vergleich wenig Behandlungsfälle in einer Leistungsgruppe erbracht
+hat, mit einem Hinweis auf den geringen quantitativen
+Versorgungsanteil in der betroffenen Leistungsgruppe versehen wird.
+
+
 #### § 136 Richtlinien des Gemeinsamen Bundesausschusses zur Qualitätssicherung
 
 (1) Der Gemeinsame Bundesausschuss bestimmt für die vertragsärztliche
@@ -24576,7 +25926,8 @@ für alle Patienten durch Richtlinien nach § 92 Absatz 1 Satz 2 Nummer
     durchgeführten diagnostischen und therapeutischen Leistungen,
     insbesondere aufwändiger medizintechnischer Leistungen; dabei sind
     auch Mindestanforderungen an die Struktur-, Prozess- und
-    Ergebnisqualität festzulegen.
+    Ergebnisqualität festzulegen, sofern diese nicht in den nach § 135e
+    Absatz 2 Satz 2 maßgeblichen Qualitätskriterien enthalten sind.
 
 
 
@@ -24597,6 +25948,11 @@ bei den Richtlinien nach § 92 Absatz 1 Satz 2 Nummer 13 zu beteiligen;
 die Bundespsychotherapeutenkammer und die Bundeszahnärztekammer sind,
 soweit jeweils die Berufsausübung der Psychotherapeuten oder der
 Zahnärzte berührt ist, zu beteiligen.
+
+(4) Der Gemeinsame Bundesausschuss hat die in nach Absatz 1 Satz 1
+Nummer 2 genannten Bestimmungen in Richtlinien aufzuheben, soweit die
+nach § 135e Absatz 2 Satz 2 maßgeblichen Qualitätskriterien
+vergleichbare Mindestanforderungen festlegen.
 
 
 #### § 136a Richtlinien des Gemeinsamen Bundesausschusses zur Qualitätssicherung in ausgewählten Bereichen
@@ -24764,6 +26120,15 @@ Ziels. Über die Ergebnisse hat der Gemeinsame Bundesausschuss dem
 Bundesministerium für Gesundheit alle zwei Jahre, erstmals bis zum 31.
 Dezember 2024, zu berichten. Mit der Evaluation nach Satz 6 kann der
 Gemeinsame Bundesausschuss das Institut nach § 137a beauftragen.
+
+(7) Der Gemeinsame Bundesausschuss legt bis zum 30. Juni 2025 in
+seinen Richtlinien nach § 136 Absatz 1 geeignete sektorbezogene
+Maßnahmen zur Sicherung der Qualität der Versorgung in Kreißsälen
+fest, die von einem Krankenhaus betrieben und von einer in dem
+Krankenhaus angestellten Hebamme geleitet werden. Die für die
+Wahrnehmung der wirtschaftlichen Interessen gebildeten maßgeblichen
+Berufsverbände der Hebammen und die Verbände der von Hebammen
+geleiteten Einrichtungen auf Bundesebene sind zu beteiligen.
 
 
 #### § 136b Beschlüsse des Gemeinsamen Bundesausschusses zur Qualitätssicherung im Krankenhaus
@@ -24987,34 +26352,9 @@ Informationen.
 
 #### § 136c Beschlüsse des Gemeinsamen Bundesausschusses zu Qualitätssicherung und Krankenhausplanung
 
-(1) Der Gemeinsame Bundesausschuss beschließt Qualitätsindikatoren zur
-Struktur-, Prozess- und Ergebnisqualität, die als Grundlage für
-qualitätsorientierte Entscheidungen der Krankenhausplanung geeignet
-sind und nach § 6 Absatz 1a des Krankenhausfinanzierungsgesetzes
-Bestandteil des Krankenhausplans werden. Der Gemeinsame
-Bundesausschuss übermittelt die Beschlüsse zu diesen
-planungsrelevanten Qualitätsindikatoren als Empfehlungen an die für
-die Krankenhausplanung zuständigen Landesbehörden; § 91 Absatz 6
-bleibt unberührt.
+(1) (weggefallen)
 
-(2) Der Gemeinsame Bundesausschuss übermittelt den für die
-Krankenhausplanung zuständigen Landesbehörden sowie den
-Landesverbänden der Krankenkassen und den Ersatzkassen regelmäßig
-einrichtungsbezogen Auswertungsergebnisse der
-einrichtungsübergreifenden Qualitätssicherung zu nach Absatz 1 Satz 1
-beschlossenen planungsrelevanten Qualitätsindikatoren sowie Maßstäbe
-und Kriterien zur Bewertung der Qualitätsergebnisse von
-Krankenhäusern. Die Maßstäbe und Kriterien müssen eine Bewertung der
-Qualitätsergebnisse von Krankenhäusern insbesondere im Hinblick darauf
-ermöglichen, ob eine in einem erheblichen Maß unzureichende Qualität
-im Sinne von § 8 Absatz 1a Satz 1 und Absatz 1b des
-Krankenhausfinanzierungsgesetzes und § 109 Absatz 3 Satz 1 Nummer 2
-vorliegt. Hierfür hat der Gemeinsame Bundesausschuss sicherzustellen,
-dass die Krankenhäuser dem Institut nach § 137a zu den
-planungsrelevanten Qualitätsindikatoren quartalsweise Daten der
-einrichtungsübergreifenden Qualitätssicherung liefern. Er soll das
-Auswertungsverfahren einschließlich des strukturierten Dialogs für
-diese Indikatoren um sechs Monate verkürzen.
+(2) (weggefallen)
 
 (3) Der Gemeinsame Bundesausschuss beschließt erstmals bis zum 31.
 Dezember 2016 bundeseinheitliche Vorgaben für die Vereinbarung von
@@ -25036,14 +26376,18 @@ insbesondere Vorgaben zu beschließen
 
 
 
-Bei dem Beschluss sind die planungsrelevanten Qualitätsindikatoren
-nach Absatz 1 Satz 1 zu berücksichtigen. Der Gemeinsame
+Der Gemeinsame Bundesausschuss prüft bis zum 31. Dezember 2025,
+inwieweit die Vorgaben anzupassen sind, um eine bedarfsgerechte und
+flächendeckende Versorgung dauerhaft sicherzustellen. Der Gemeinsame
 Bundesausschuss legt in dem Beschluss auch das Nähere über die Prüfung
 der Einhaltung der Vorgaben durch die zuständige Landesbehörde nach §
 5 Absatz 2 Satz 5 des Krankenhausentgeltgesetzes fest. Den betroffenen
 medizinischen Fachgesellschaften ist Gelegenheit zur Stellungnahme zu
 geben. Die Stellungnahmen sind bei der Beschlussfassung zu
-berücksichtigen.
+berücksichtigen. Der Gemeinsame Bundesausschuss hat bis zum 31.
+Oktober 2025 zu prüfen, ob Leistungen, für die eine notwendige
+Vorhaltung für die Versorgung der Bevölkerung sicherzustellen ist,
+auch durch Belegärzte erfüllt werden können.
 
 (4) Der Gemeinsame Bundesausschuss beschließt bis zum 31. Dezember
 2017 ein gestuftes System von Notfallstrukturen in Krankenhäusern,
@@ -25052,10 +26396,7 @@ Notfallversorgung. Hierbei sind für jede Stufe der Notfallversorgung
 insbesondere Mindestvorgaben zur Art und Anzahl von Fachabteilungen,
 zur Anzahl und Qualifikation des vorzuhaltenden Fachpersonals sowie
 zum zeitlichen Umfang der Bereitstellung von Notfallleistungen
-differenziert festzulegen. Der Gemeinsame Bundesausschuss
-berücksichtigt bei diesen Festlegungen planungsrelevante
-Qualitätsindikatoren nach Absatz 1 Satz 1, soweit diese für die
-Notfallversorgung von Bedeutung sind. Den betroffenen medizinischen
+differenziert festzulegen. Den betroffenen medizinischen
 Fachgesellschaften ist Gelegenheit zur Stellungnahme zu geben. Die
 Stellungnahmen sind bei der Beschlussfassung zu berücksichtigen. Der
 Gemeinsame Bundesausschuss führt vor Beschlussfassung eine
@@ -25092,7 +26433,7 @@ medizinischen Fachgesellschaften ist Gelegenheit zur Stellungnahme zu
 geben. Die Stellungnahmen sind bei der Beschlussfassung zu
 berücksichtigen.
 
-(6) Für Beschlüsse nach den Absätzen 1 bis 5 gilt § 94 entsprechend.
+(6) Für Beschlüsse nach den Absätzen 3 bis 5 gilt § 94 entsprechend.
 
 
 #### § 136d Evaluation und Weiterentwicklung der Qualitätssicherung durch den Gemeinsamen Bundesausschuss
@@ -25108,7 +26449,7 @@ erstellt in regelmäßigen Abständen einen Bericht über den Stand der
 Qualitätssicherung.
 
 
-#### § 137 Durchsetzung und Kontrolle der Qualitätsanforderungen des Gemeinsamen Bundesausschusses
+#### § 137 Durchsetzung und Prüfung der Qualitätsanforderungen des Gemeinsamen Bundesausschusses
 
 (1) Der Gemeinsame Bundesausschuss hat zur Förderung der Qualität ein
 gestuftes System von Folgen der Nichteinhaltung von
@@ -25153,32 +26494,44 @@ der Leistungserbringer weist nach, dass die Unterschreitung
 unverschuldet ist.
 
 (3) Der Gemeinsame Bundesausschuss regelt in einer Richtlinie die
-Einzelheiten zu den Kontrollen des Medizinischen Dienstes der
-Krankenversicherung nach § 275a, die durch Anhaltspunkte begründet
-sein müssen,, die die Einhaltung der Qualitätsanforderungen nach § 136
-Absatz 1 Satz 1 Nummer 2 oder § 136a Absatz 5 zum Gegenstand haben
-oder als Stichprobenprüfungen erforderlich sind. Er trifft
-insbesondere Festlegungen, welche Stellen die Kontrollen beauftragen,
-welche Anhaltspunkte Kontrollen auch unangemeldet rechtfertigen, zu
-Art, Umfang und zum Verfahren der Kontrollen sowie zum Umgang mit den
-Ergebnissen und zu deren Folgen. Die Krankenkassen und die die
-Kontrollen beauftragenden Stellen sind befugt und verpflichtet, die
-für das Verfahren zur Durchführung von Stichprobenprüfungen
-erforderlichen einrichtungsbezogenen Daten an die vom Gemeinsamen
-Bundesausschuss zur Auswahl der zu prüfenden Leistungserbringer
-bestimmte Stelle zu übermitteln, und diese Stelle ist befugt, die ihr
-übermittelten Daten zu diesem Zweck zu verarbeiten, soweit dies in der
-Richtlinie nach Satz 1 vorgesehen ist. Der Gemeinsame Bundesausschuss
-hat bei den Festlegungen nach Satz 2 vorzusehen, dass die nach Absatz
-1 Satz 5 für die Durchsetzung der Qualitätsanforderungen zuständigen
-Stellen zeitnah einrichtungsbezogen über die Prüfergebnisse informiert
-werden. Er legt fest, in welchen Fällen der Medizinische Dienst der
-Krankenversicherung die Prüfergebnisse wegen erheblicher Verstöße
-gegen Qualitätsanforderungen unverzüglich einrichtungsbezogen an
-Dritte, insbesondere an jeweils zuständige Behörden der Länder zu
+Einzelheiten zu den Prüfungen des Medizinischen Dienstes nach § 275a
+Absatz 1 Satz 1 Nummer 3 und 4, die erforderlich sind
+
+1.  aufgrund begründeter Anhaltspunkte,
+
+
+2.  als Stichprobenprüfungen oder
+
+
+3.  aufgrund eines konkreten Anlasses, soweit die Prüfungen die Erfüllung
+    der Qualitätsanforderungen nach § 136a Absatz 2 und 5 zum Gegenstand
+    haben.
+
+
+
+Er trifft insbesondere Festlegungen, welche Stellen die Prüfungen
+beauftragen, welche Anhaltspunkte Prüfungen auch unangemeldet
+rechtfertigen, zu Art, Umfang und zum Verfahren der Prüfungen sowie
+zum Umgang mit den Ergebnissen und zu deren Folgen. Die Krankenkassen
+und die die Prüfungen beauftragenden Stellen sind befugt und
+verpflichtet, die für das Verfahren zur Durchführung von
+Stichprobenprüfungen erforderlichen einrichtungsbezogenen Daten an die
+vom Gemeinsamen Bundesausschuss zur Auswahl der zu prüfenden
+Leistungserbringer bestimmte Stelle zu übermitteln, und diese Stelle
+ist befugt, die ihr übermittelten Daten zu diesem Zweck zu
+verarbeiten, soweit dies in der Richtlinie nach Satz 1 vorgesehen ist.
+Der Gemeinsame Bundesausschuss hat bei den Festlegungen nach Satz 2
+vorzusehen, dass die nach Absatz 1 Satz 5 für die Durchsetzung der
+Qualitätsanforderungen zuständigen Stellen zeitnah einrichtungsbezogen
+über die Prüfergebnisse informiert werden. Er legt fest, in welchen
+Fällen der Medizinische Dienst die Prüfergebnisse wegen erheblicher
+Verstöße gegen Qualitätsanforderungen unverzüglich einrichtungsbezogen
+an Dritte, insbesondere an jeweils zuständige Behörden der Länder zu
 übermitteln hat. Die Festlegungen des Gemeinsamen Bundesausschusses
 nach den Sätzen 1 und 2 sollen eine möglichst aufwandsarme
-Durchführung der Kontrollen nach § 275a unterstützen.
+Durchführung der Prüfungen nach § 275a Absatz 1 Satz 1 Nummer 3 und 4
+sowie eine Vereinheitlichung der Prüfungen des Medizinischen Dienstes
+nach § 275a Absatz 1 Satz 1 unterstützen.
 
 
 #### § 137a Institut für Qualitätssicherung und Transparenz im Gesundheitswesen
@@ -25303,7 +26656,8 @@ sollen, gilt § 299.
     Bundespsychotherapeutenkammer,
 
 
-6.  die Berufsorganisationen der Krankenpflegeberufe,
+6.  die maßgeblichen Organisationen der Pflegeberufe auf Bundesebene im
+    Sinne des § 118a Absatz 1 Satz 1 des Elften Buches,
 
 
 7.  die wissenschaftlichen medizinischen Fachgesellschaften,
@@ -26315,13 +27669,8 @@ soweit möglich für jeden Standort eines Krankenhauses gesondert
 
 
 
-Der Standort eines Krankenhauses bestimmt sich nach § 2 der zwischen
-dem Spitzenverband Bund der Krankenkassen und der Deutschen
-Krankenhausgesellschaft nach § 2a Absatz 1 des
-Krankenhausfinanzierungsgesetzes getroffenen Vereinbarung über die
-Definition von Standorten der Krankenhäuser und ihrer Ambulanzen vom
-29\. August 2017, die auf der Internetseite der Deutschen
-Krankenhausgesellschaft veröffentlicht ist.
+Der Standort eines Krankenhauses bestimmt sich nach § 2a des
+Krankenhausfinanzierungsgesetzes.
 
 (4b) Für Krankenhäuser, die ihre nach § 5 Absatz 3 und 4 der
 Pflegepersonaluntergrenzen-Verordnung, ihre in einer Vereinbarung der
@@ -26390,21 +27739,16 @@ Vollzeitkräfte in der unmittelbaren Patientenversorgung auf
 bettenführenden Stationen zu dem Pflegeaufwand eines Krankenhauses
 beschreibt. Der Pflegepersonalquotient ist für jeden Standort eines
 Krankenhauses zu ermitteln. Der Standort eines Krankenhauses bestimmt
-sich nach § 2 der zwischen dem Spitzenverband Bund der Krankenkassen
-und der Deutschen Krankenhausgesellschaft gemäß § 2a Absatz 1 des
-Krankenhausfinanzierungsgesetzes getroffenen Vereinbarung über die
-Definition von Standorten der Krankenhäuser und ihrer Ambulanzen vom
-29\. August 2017, die auf der Internetseite der Deutschen
-Krankenhausgesellschaft veröffentlicht ist. Für die Zahl der in Satz 1
-genannten Vollzeitkräfte sind die dem Institut nach § 21 Absatz 2
-Nummer 1 Buchstabe e des Krankenhausentgeltgesetzes übermittelten
-Daten zu Grunde zu legen, mit Ausnahme der den Mindestvorgaben zu
-Personalausstattung nach § 136a Absatz 2 Satz 2 unterfallenden
-Vollzeitkräfte in der unmittelbaren Patientenversorgung auf
-bettenführenden Stationen. Das nach Satz 4 für die Zahl der in Satz 1
-genannten Vollzeitkräfte zugrunde zu legende Pflegepersonal, das nicht
-über eine Erlaubnis zum Führen der Berufsbezeichnung nach § 1 des
-Pflegeberufegesetzes, § 58 Absatz 1 oder Absatz 2 des
+sich nach § 2a des Krankenhausfinanzierungsgesetzes. Für die Zahl der
+in Satz 1 genannten Vollzeitkräfte sind die dem Institut nach § 21
+Absatz 2 Nummer 1 Buchstabe e des Krankenhausentgeltgesetzes
+übermittelten Daten zu Grunde zu legen, mit Ausnahme der den
+Mindestvorgaben zu Personalausstattung nach § 136a Absatz 2 Satz 2
+unterfallenden Vollzeitkräfte in der unmittelbaren Patientenversorgung
+auf bettenführenden Stationen. Das nach Satz 4 für die Zahl der in
+Satz 1 genannten Vollzeitkräfte zugrunde zu legende Pflegepersonal,
+das nicht über eine Erlaubnis zum Führen der Berufsbezeichnung nach §
+1 des Pflegeberufegesetzes, § 58 Absatz 1 oder Absatz 2 des
 Pflegeberufegesetzes oder § 64 des Pflegeberufegesetzes, auch in
 Verbindung mit § 66 Absatz 1 oder Absatz 2 des Pflegeberufegesetzes,
 verfügt, ist bis zur Höhe des jeweils obersten Quartils des an allen
@@ -26517,8 +27861,9 @@ Entgeltsystem im Krankenhaus zu übermitteln:
 Sie haben außerdem die Anzahl der eingesetzten Pflegekräfte
 schrittweise an die Anzahl der einzusetzenden Pflegekräfte anzupassen.
 Das Institut für das Entgeltsystem im Krankenhaus übermittelt den
-jeweils zuständigen Landesbehörden und dem Bundesministerium für
-Gesundheit jährlich eine Zusammenstellung der Angaben nach Satz 2.
+jeweils zuständigen Landesbehörden jährlich und dem Bundesministerium
+für Gesundheit nach Aufforderung eine Zusammenstellung der Angaben
+nach Satz 2.
 
 (2) Das Bundesministerium für Gesundheit beauftragt spätestens bis zum
 31\. Januar 2023 eine fachlich unabhängige wissenschaftliche
@@ -26745,6 +28090,232 @@ Satz 4 geeinigt oder ist keine Beauftragung innerhalb der in Absatz 3
 Satz 2 festgelegten Frist erfolgt, kann das Bundesministerium für
 Gesundheit die Beauftragung nach Absatz 1 Satz 4 auf Kosten der
 Vertragsparteien nach Absatz 1 Satz 1 vornehmen.
+
+
+#### § 137m Bemessung des ärztlichen Personals im Krankenhaus; Verordnungsermächtigung
+
+(1) Die zugelassenen Krankenhäuser im Sinne des § 108 sind
+verpflichtet, eine bedarfsgerechte ärztliche Personalausstattung für
+die ärztliche Behandlung im Krankenhaus sicherzustellen. Zu diesem
+Zweck haben sie nach Maßgabe der Verordnung nach Absatz 3 folgende
+Angaben zu ermitteln, zu dokumentieren und in geeigneter Nachweisform
+an das Institut für das Entgeltsystem im Krankenhaus zu übermitteln:
+
+1.  die Anzahl der in Abteilungen der somatischen Versorgung von
+    Erwachsenen und Kindern jeweils eingesetzten Ärztinnen und Ärzte,
+    umgerechnet in Vollkräfte, aufgegliedert nach Weiterbildungsstufen,
+
+
+2.  den Bedarf an Ärztinnen und Ärzten in Abteilungen der somatischen
+    Versorgung von Erwachsenen und Kindern, aufgegliedert nach
+    Weiterbildungsstufen,
+
+
+3.  die Anzahl der in Abteilungen der somatischen Versorgung von
+    Erwachsenen und Kindern auf Grundlage des ermittelten Bedarfs
+    einzusetzenden Ärztinnen und Ärzten, umgerechnet in Vollkräfte,
+    aufgegliedert nach Weiterbildungsstufen.
+
+
+
+Die Verpflichtung nach Satz 2 Nummer 1 besteht nicht, wenn die Daten
+bereits nach § 21 Absatz 7 Satz 1 des Krankenhausentgeltgesetzes
+übermittelt werden. Die Anzahl der eingesetzten Ärztinnen und Ärzte
+ist an die Anzahl der einzusetzenden Ärztinnen und Ärzte schrittweise
+anzupassen, sofern sie hinter dieser zurückliegt. Das Institut für das
+Entgeltsystem im Krankenhaus wertet die Daten aus und übermittelt den
+jeweils zuständigen Landesbehörden und dem Bundesministerium für
+Gesundheit eine Zusammenstellung der Angaben nach Satz 2. Die
+Datenauswertungen können nach Maßgabe der Verordnung nach Absatz 3
+veröffentlicht werden.
+
+(2) Das Bundesministerium für Gesundheit beauftragt spätestens bis zum
+31\. März 2025 einen Auftragnehmer im Sinne von § 137k Absatz 2 Satz 1
+mit der Erprobung eines in Abstimmung mit der Bundesärztekammer durch
+das Bundesministerium für Gesundheit festzulegenden Konzeptes zur
+Ermittlung einer bedarfsgerechten ärztlichen Personalausstattung in
+Abteilungen der somatischen Versorgung von Erwachsenen und Kindern. Im
+Rahmen der Erprobung sind insbesondere folgende Aspekte zu
+untersuchen:
+
+1.  Tauglichkeit des Konzeptes für eine bundesweite Einführung in
+    verschiedenen Typen von Krankenhäusern und in deren unterschiedlichen
+    Abteilungen,
+
+
+2.  Qualität der anhand des Konzeptes erhobenen Daten und ihre bundesweite
+    Vergleichbarkeit,
+
+
+3.  Eignung der anhand des Konzeptes erhobenen Daten zur Einbeziehung als
+    Qualitätskriterium, insbesondere auch im Zusammenhang mit der Vergabe
+    von Leistungsgruppen an Krankenhäuser,
+
+
+4.  Einführungs- und Nutzungsaufwand des Konzeptes für die Krankenhäuser,
+
+
+5.  Möglichkeiten einer digitalisierten und automatisierten Datenerhebung,
+    um den Nutzungsaufwand für die Krankenhäuser zu reduzieren.
+
+
+
+Für die Durchführung der Erprobung hat der Auftragnehmer eine
+repräsentative Auswahl an zugelassenen Krankenhäusern im Sinne des §
+108 zu bestimmen. Die ausgewählten Krankenhäuser sind verpflichtet,
+sich an der Erprobung aktiv zu beteiligen und dem Auftragnehmer
+folgende Daten zu übermitteln:
+
+1.  die Anzahl der in den jeweiligen in Satz 1 genannten Abteilungen
+    eingesetzten Ärztinnen und Ärzte, umgerechnet auf Vollkräfte, und
+
+
+2.  die Anzahl der in den jeweiligen in Satz 1 genannten Abteilungen
+    einzusetzenden Ärztinnen und Ärzte, die unter Anwendung des erprobten
+    Instruments ermittelt wurde, umgerechnet auf Vollkräfte.
+
+
+
+Absatz 1 Satz 3 gilt entsprechend. Der Auftragnehmer kann Form und
+Verfahren der Datenübermittlung festlegen. Der Auftragnehmer hat dem
+Bundesministerium für Gesundheit spätestens sechs Monate nach
+Erteilung des Zuschlags einen Abschlussbericht über die Ergebnisse der
+Erprobung vorzulegen. Das Institut für das Entgeltsystem im
+Krankenhaus hat dem Auftragnehmer die ihm nach § 21 Absatz 7 Satz 1
+des Krankenhausentgeltgesetzes übermittelten Daten zur Nutzung im
+Rahmen des Auftrags nach Satz 1 in geeigneter Form zu überlassen. Das
+Bundesministerium für Gesundheit hat die Ergebnisse der Erprobung bei
+Erlass der Rechtsverordnung nach Absatz 3 zu berücksichtigen.
+
+(3) Das Bundesministerium für Gesundheit kann durch Rechtsverordnung
+mit Zustimmung des Bundesrates Vorgaben zur Ermittlung der Anzahl der
+in Abteilungen der somatischen Versorgung von Erwachsenen und Kindern
+in zugelassenen Krankenhäusern im Sinne des § 108 jeweils eingesetzten
+und der auf Grundlage des Bedarfs nach Absatz 1 Satz 2 Nummer 2 in
+diesen Abteilungen jeweils einzusetzenden Ärztinnen und Ärzte
+erlassen. In der Rechtsverordnung kann das Bundesministerium für
+Gesundheit das Nähere bestimmen
+
+1.  zur Bedarfsermittlung im Hinblick auf Ärztinnen und Ärzte und ihrer
+    Methodik,
+
+
+2.  zur bedarfsgerechten personellen Zusammensetzung des ärztlichen
+    Personals auf der Grundlage der beruflichen Qualifikationen der
+    Ärztinnen und Ärzte,
+
+
+3.  zu der von den Krankenhäusern standortbezogen zu erfassenden, nach
+    beruflichen Qualifikationen aufgegliederten
+
+    a)  Ist-Personalbesetzung der Ärztinnen und Ärzte in der jeweiligen
+        Abteilung und
+
+
+    b)  Soll-Personalbesetzung der Ärztinnen und Ärzte in der jeweiligen
+        Abteilung,
+
+
+
+
+
+4.  zur Übermittlung der von Krankenhäusern nach Nummer 3 erfassten Daten
+    an das Institut für das Entgeltsystem im Krankenhaus einschließlich
+    der Form und des Verfahrens der Übermittlung,
+
+
+5.  zu Berichtspflichten gegenüber dem Bundesministerium für Gesundheit,
+
+
+6.  zur Dokumentation, zum Nachweis und zur Veröffentlichung der von den
+    Krankenhäusern zu erfassenden und zu übermittelnden Daten,
+
+
+7.  zur Auswertung der von den Krankenhäusern zu erfassenden und zu
+    übermittelnden Daten durch das Institut für das Entgeltsystem im
+    Krankenhaus,
+
+
+8.  zur Häufigkeit sowie Form und Verfahren der Übermittlung nach Absatz 1
+    Satz 5.
+
+
+
+§ 137k Absatz 4 Satz 3 und 4 gilt entsprechend.
+
+(4) Die Mindestvorgaben zur ärztlichen Personalausstattung, die sich
+aus den Richtlinien des Gemeinsamen Bundesausschusses ergeben, bleiben
+unberührt.
+
+(5) § 137k Absatz 7 gilt entsprechend.
+
+
+#### § 137n Kommission für Personalbemessung im Krankenhaus
+
+(1) Die Vertragsparteien auf Bundesebene im Sinne des § 9 Absatz 1 des
+Krankenhausentgeltgesetzes richten bis zum 30. September 2025 im
+Einvernehmen mit dem Bundesministerium für Gesundheit eine Kommission
+ein, die Empfehlungen zur Personalbemessung von anderen als den in den
+§§ 137k und 137m genannten Gesundheitsberufen erarbeitet, die im
+Krankenhaus in der unmittelbaren Patientenversorgung tätig sind. Zur
+Koordinierung und Organisation der Arbeit der Kommission richtet der
+Spitzenverband Bund der Krankenkassen eine Geschäftsstelle ein.
+
+(2) Die Kommission setzt sich zusammen aus
+
+1.  einer Vertreterin oder einem Vertreter des Spitzenverbandes Bund der
+    Krankenkassen,
+
+
+2.  einer Vertreterin oder einem Vertreter der Deutschen
+    Krankenhausgesellschaft,
+
+
+3.  einer Vertreterin oder einem Vertreter des Verbandes der Privaten
+    Krankenversicherung e. V.,
+
+
+4.  jeweils drei Vertreterinnen oder Vertretern der jeweiligen
+    Gesundheitsberufe mit Praxiserfahrung und
+
+
+5.  zwei Vertreterinnen oder Vertretern der einschlägigen Wissenschaft.
+
+
+
+Die Mitglieder werden von den in Absatz 1 Satz 1 genannten
+Vertragsparteien für einen Zeitraum von drei Jahren berufen. Die
+Mitglieder werden von den in Absatz 1 Satz 1 genannten
+Vertragsparteien ausgewählt, ihre Berufung erfolgt nach Einholung der
+Zustimmung des Bundesministeriums für Gesundheit.
+
+(3) Die Kommission erarbeitet Empfehlungen zu folgenden Themen:
+
+1.  Ansätzen zur Personalbemessung von den in Absatz 1 Satz 1 genannten
+    Gesundheitsberufen,
+
+
+2.  der Notwendigkeit der Einführung von Personalbemessungsinstrumenten
+    für die in Absatz 1 Satz 1 genannten Gesundheitsberufe,
+
+
+3.  Wechselwirkungen und Synergieeffekten zu den Regelungen in den §§
+    137k, 137l und 137m,
+
+
+4.  dem Erfüllungsaufwand und den Digitalisierungsvoraussetzungen für die
+    Umsetzung der Personalbemessung.
+
+
+
+
+(4) Die in Absatz 1 Satz 1 genannten Vertragsparteien legen dem
+Bundesministerium für Gesundheit bis zum 31. Mai 2025 ein Konzept zur
+Organisation und Arbeitsweise der Kommission samt Geschäftsordnung zur
+Genehmigung vor. In diesem ist auch eine inhaltliche und zeitliche
+Planung der zu erarbeitenden Empfehlungen, auch hinsichtlich der
+unterschiedlichen in Absatz 1 Satz 1 genannten Gesundheitsberufe
+darzulegen.
 
 
 #### § 138 Neue Heilmittel
@@ -27353,7 +28924,12 @@ Datenschutz nach Absatz 2 Satz 2 Nummer 2 fest. Der Nachweis der
 Erfüllung der Anforderungen an den Datenschutz durch den Hersteller
 ist ab dem 1. August 2024 durch Vorlage eines anhand der Prüfkriterien
 nach Satz 1 ausgestellten Zertifikates nach Artikel 42 der Verordnung
-(EU) 2016/679 zu führen.
+(EU) 2016/679 zu führen. Soweit eine Nachweisführung nach Satz 2
+aufgrund der verspäteten Bereitstellung der Zertifizierungsverfahren
+nicht möglich ist, kann das Bundesinstitut für Arzneimittel und
+Medizinprodukte den Herstellern digitaler Gesundheitsanwendungen eine
+Frist für die Vorlage eines Zertifikats nach Satz 2 setzen, sobald
+Verfahren zur Zertifizierung zur Verfügung stehen.
 
 (12) In das Verzeichnis nach Absatz 1 können auch digitale
 Gesundheitsanwendungen aufgenommen werden, die durch die Träger der
@@ -29097,7 +30673,8 @@ ihrer Gründung ununterbrochen fortgeführt wurde, sie beides dem
 Bundesministerium für Gesundheit nachweist und auf ihren alle fünf
 Jahre zu stellenden Antrag hin das Bundesministerium für Gesundheit
 jeweils das Vorliegen eines testierten Gutachtens über die dauerhafte
-Leistungsfähigkeit gemäß Absatz 3 bestätigt.
+Leistungsfähigkeit gemäß Absatz 3 bestätigt. Ein Antrag nach Satz 1
+kann erstmalig nur bis einschließlich 30. Juni 2026 gestellt werden.
 
 (2) Die in Absatz 1 genannten Solidargemeinschaften sind ihren
 Mitgliedern zur Gewährung von Leistungen verpflichtet, die der Art,
@@ -29501,8 +31078,8 @@ solange
 
 3.  von einem Rehabilitationsträger während einer Leistung zur
     medizinischen Rehabilitation Verletztengeld, Versorgungskrankengeld,
-    Krankengeld der Sozialen Entschädigung oder Übergangsgeld gezahlt wird
-    oder
+    Krankengeld der Sozialen Entschädigung Krankengeld der
+    Soldatenentschädigung oder Übergangsgeld gezahlt wird oder
 
 
 4.  Kurzarbeitergeld oder Qualifizierungsgeld nach dem Dritten Buch
@@ -29522,15 +31099,15 @@ sei denn, es besteht eine Mitgliedschaft nach anderen Vorschriften.
 
 (1) Bei versicherungspflichtig Beschäftigten, denen nach § 1 Abs. 2
 des Arbeitsplatzschutzgesetzes Entgelt weiterzugewähren ist, gilt das
-Beschäftigungsverhältnis als durch den Wehrdienst nach § 4 Abs. 1 und
-§ 6b Abs. 1 des Wehrpflichtgesetzes nicht unterbrochen. Dies gilt auch
-für Personen in einem Wehrdienstverhältnis besonderer Art nach § 6 des
-Einsatz-Weiterverwendungsgesetzes, wenn sie den Einsatzunfall in einem
-Versicherungsverhältnis erlitten haben.
+Beschäftigungsverhältnis als durch den Wehrdienst nach § 4 Absatz 1
+und § 6a Absatz 1 des Wehrpflichtgesetzes nicht unterbrochen. Dies
+gilt auch für Personen in einem Wehrdienstverhältnis besonderer Art
+nach § 6 des Einsatz-Weiterverwendungsgesetzes, wenn sie den
+Einsatzunfall in einem Versicherungsverhältnis erlitten haben.
 
 (2) Bei Versicherungspflichtigen, die nicht unter Absatz 1 fallen,
 sowie bei freiwilligen Mitgliedern berührt der Wehrdienst nach § 4
-Abs. 1 und § 6b Abs. 1 des Wehrpflichtgesetzes eine bestehende
+Absatz 1 und § 6a Absatz 1 des Wehrpflichtgesetzes eine bestehende
 Mitgliedschaft bei einer Krankenkasse nicht. Die
 versicherungspflichtige Mitgliedschaft gilt als fortbestehend, wenn
 die Versicherungspflicht am Tag vor dem Beginn des Wehrdienstes endet
@@ -29608,310 +31185,6 @@ Auslandskrankenversicherung.
 (2) Die Satzung darf keine Bestimmungen enthalten, die den Aufgaben
 der gesetzlichen Krankenversicherung widersprechen. Sie darf
 Leistungen nur vorsehen, soweit dieses Buch sie zuläßt.
-
-
-##### § 194a Modellprojekt zur Durchführung von Online-Wahlen bei den Krankenkassen
-
-(1) Bei den Sozialversicherungswahlen im Jahr 2023 können im Rahmen
-eines Modellprojektes abweichend von § 54 Absatz 1 des Vierten Buches
-die Wahlen der Vertreter der Versicherten bei den in § 35a Absatz 1
-Satz 1 des Vierten Buches genannten Krankenkassen auch in einem
-elektronischen Wahlverfahren über das Internet (Online-Wahl)
-durchgeführt werden. Eine Stimmabgabe per Online-Wahl ist nur möglich,
-wenn die jeweilige Krankenkasse in ihrer Satzung vorsieht, dass
-alternativ zu der brieflichen Stimmabgabe auch eine Stimmabgabe per
-Online-Wahl vorgenommen werden kann. Eine entsprechende
-Satzungsregelung muss spätestens bis zum 30. September 2020 in Kraft
-treten.
-
-(2) Die am Modellprojekt teilnehmenden Krankenkassen haben die
-Stimmabgabe per Online-Wahl gemeinsam und einheitlich vorzubereiten
-und durchzuführen. Nehmen mehrere Krankenkassen an dem Modellprojekt
-teil, bilden sie hierfür eine Arbeitsgemeinschaft nach § 94 Absatz 1a
-Satz 1 des Zehnten Buches.
-
-(3) Die nachgewiesenen Kosten der am Modellprojekt teilnehmenden
-Krankenkassen für die Vorbereitung und Durchführung der Stimmabgabe
-per Online-Wahl werden auf alle in § 35a Absatz 1 Satz 1 des Vierten
-Buches genannten Krankenkassen in entsprechender Anwendung von § 83
-Absatz 1 Satz 2 der Wahlordnung für die Sozialversicherung umgelegt.
-Umgelegt werden dürfen insbesondere Aufwendungen für die Ausschreibung
-und Beauftragung externer Dienstleistungen einschließlich Kosten
-wissenschaftlicher und technischer Beratung sowie Sach- und
-Personalkosten der teilnehmenden Krankenkassen für Aufgaben, die in
-Abstimmung mit der Arbeitsgemeinschaft nach Absatz 2 Satz 2 auf der
-Grundlage einer von dieser aufgestellten Projektplanung zur
-Vorbereitung und Durchführung der Stimmabgabe per Online-Wahl
-wahrgenommen werden.
-
-(3a) Das Bundesamt für Soziale Sicherung setzt die auf die einzelnen
-Krankenkassen nach Absatz 3 Satz 1 entfallenden Umlagebeträge fest,
-zieht die festgesetzten Umlagebeträge von den Krankenkassen ein und
-erstattet den am Modellprojekt teilnehmenden Krankenkassen ihre
-Kosten. Hierfür teilt der Bundeswahlbeauftragte für die
-Sozialversicherungswahlen dem Bundesamt für Soziale Sicherung die von
-ihm nach § 83 Absatz 1 Satz 2 der Wahlordnung für die
-Sozialversicherung ermittelten Zahlen der wahlberechtigten
-Versicherten der einzelnen Krankenkassen mit. Die am Modellprojekt
-teilnehmenden Krankenkassen und die von ihnen gebildete
-Arbeitsgemeinschaft haben dem Bundesamt für Soziale Sicherung bis zum
-31\. Dezember 2023 die zur Durchführung der Aufgaben nach Satz 1
-erforderlichen Angaben zu machen. Für die Nachweise der Kosten der am
-Modellprojekt teilnehmenden Krankenkassen gilt § 82 Absatz 4 der
-Wahlordnung für die Sozialversicherung entsprechend. Sach- und
-Personalkosten einer teilnehmenden Krankenkasse gelten in der Regel
-als nachgewiesen, soweit sie in Übereinstimmung mit der Projektplanung
-der Arbeitsgemeinschaft angefallen sind und die Arbeitsgemeinschaft
-die Plausibilität der Kosten bestätigt. Das Bundesamt für Soziale
-Sicherung kann nähere Bestimmungen zur Durchführung des Umlage- und
-Erstattungsverfahrens einschließlich Regelungen zur Verrechnung der
-Umlagebeträge mit Erstattungsforderungen sowie zu Abschlagszahlungen
-treffen; die Bestimmungen sind dem Bundesministerium für Gesundheit
-zur Genehmigung vorzulegen. Eine Erstattung an am Modellprojekt
-beteiligte Krankenkassen erfolgt nur, soweit Umlagebeträge beim
-Bundesamt für Soziale Sicherung bereits eingegangen sind. Im Falle
-einer Anfechtung der Online-Wahl sind die Umlage- und
-Erstattungsbeträge vorläufig festzusetzen.
-
-(4) Die für Sozialversicherungswahlen geltenden allgemeinen
-Wahlgrundsätze nach § 45 Absatz 2 des Vierten Buches sind unter
-Berücksichtigung der technischen Besonderheiten auch bei Online-Wahlen
-entsprechend zu wahren.
-
-
-##### § 194b Durchführung der Stimmabgabe per Online-Wahl
-
-(1) Für die Durchführung der Stimmabgabe per Online-Wahl gelten die
-Vorschriften des Zweiten Titels des Vierten Abschnitts des Vierten
-Buches sowie die Wahlordnung für die Sozialversicherung entsprechend,
-sofern in den Absätzen 2 bis 4 nichts Abweichendes bestimmt ist.
-
-(2) § 53 Absatz 4 des Vierten Buches gilt bei der Durchführung der
-Stimmabgabe per Online-Wahl mit der Maßgabe, dass die Wahlbeauftragten
-und ihre Stellvertreter berechtigt sind, die räumlichen und
-technischen Infrastrukturen, die von den in § 35a Absatz 1 Satz 1 des
-Vierten Buches genannten Krankenkassen oder den von diesen
-beauftragten Dritten für die Durchführung der Wahl genutzt werden, in
-geeigneter Weise zu überprüfen. Die Wahlbeauftragten sind befugt,
-Dritte mit der Prüfung zu beauftragen.
-
-(3) Für die Durchführung der Wahlen gelten im Übrigen folgende
-Vorgaben:
-
-1.  ein Wahlberechtigter darf seine Stimme entweder per Briefwahl oder per
-    Online-Wahl abgeben,
-
-
-2.  bei doppelter Stimmabgabe durch einen Wahlberechtigten per Briefwahl
-    und per Online-Wahl zählt die per Online-Wahl abgegebene Stimme, die
-    per Briefwahl abgegebene Stimme ist ohne weitere Prüfung ungültig,
-
-
-3.  die Krankenkassen, die eine Stimmabgabe per Online-Wahl ermöglichen,
-    können die zugelassenen Vorschlagslisten und die Darstellung der
-    Listenträger abweichend von § 26 Absatz 1 der Wahlordnung für die
-    Sozialversicherung zusätzlich auch im Internet veröffentlichen,
-
-
-4.  die Information der Wahlberechtigten nach § 27 Absatz 3 Satz 1 der
-    Wahlordnung für die Sozialversicherung hat insbesondere Folgendes zu
-    enthalten:
-
-    a)  eine Beschreibung des Verfahrens für die Stimmabgabe per Online-Wahl
-        einschließlich der für die Authentisierung des Wahlberechtigten zu
-        verwendenden Authentisierungsmittel und der technischen Mechanismen,
-        mit Hilfe derer sich der Wahlberechtigte von der Authentizität der
-        Wahlplattform überzeugen kann, sowie
-
-
-    b)  den Hinweis, dass eine Stimmabgabe nur einmal erfolgen kann und dass
-        bei doppelt abgegebener Stimme sowohl per Briefwahl als auch per
-        Online-Wahl die per Briefwahl abgegebene Stimme ungültig ist,
-
-
-
-
-
-5.  die Wahlbekanntmachung hat ergänzend zu § 31 Absatz 2 der Wahlordnung
-    für die Sozialversicherung den Tag zu bezeichnen, bis zu dem eine
-    Stimme per Online-Wahl abgegeben sein muss,
-
-
-6.  der Stimmzettel für die Stimmabgabe per Online-Wahl muss dem
-    Stimmzettel nach § 41 Absatz 1 der Wahlordnung für die
-    Sozialversicherung im Hinblick auf Darstellung und Inhalt entsprechen,
-
-
-7.  die Wahlunterlagen müssen zusätzlich Folgendes enthalten:
-
-    a)  eine Beschreibung des Verfahrens für die Stimmabgabe per Online-Wahl
-        einschließlich der für die Authentisierung des Wahlberechtigten zu
-        verwendenden Authentisierungsmittel und der technischen Mechanismen,
-        mit Hilfe derer sich der Wahlberechtigte von der Authentizität der
-        Wahlplattform überzeugen kann, sowie
-
-
-    b)  den Hinweis, dass eine Stimmabgabe nur einmal erfolgen kann und dass
-        bei doppelt abgegebener Stimme sowohl per Briefwahl als auch per
-        Online-Wahl die per Briefwahl abgegebene Stimme ungültig ist,
-
-
-
-
-
-8.  der Wahlberechtigte, der seine Stimme per Online-Wahl abgibt, hat
-
-    a)  die für den Zugang zur Wahlplattform erforderliche Authentisierung
-        unter Verwendung der zur Verfügung gestellten Authentisierungsmittel
-        durchzuführen,
-
-
-    b)  den elektronischen Stimmzettel persönlich zu kennzeichnen,
-
-
-    c)  den Wahlvorgang durch Versenden des elektronischen Stimmzettels
-        innerhalb der Wahlplattform abzuschließen und
-
-
-    d)  keine weitere Stimme per Briefwahl abzugeben,
-
-
-
-
-
-9.  die Krankenkassen haben sicherzustellen, dass eine Stimmabgabe per
-    Online-Wahl barrierefrei durchgeführt werden kann,
-
-
-10. ergänzend zu der Prüfung nach § 45 Absatz 1 der Wahlordnung für die
-    Sozialversicherung hat der Wahlausschuss zu ermitteln, ob durch
-    Wahlberechtigte eine doppelte Stimmabgabe sowohl per Briefwahl als
-    auch per Online-Wahl erfolgt ist,
-
-
-11. eine Stimmabgabe per Online-Wahl ist ungültig, wenn sie zu spät
-    erfolgt, keine Kennzeichnung auf dem elektronischen Stimmzettel
-    erfolgt ist oder die Kennzeichnung den Willen des Wählers nicht
-    zweifelsfrei erkennen lässt.
-
-
-
-
-(4) Bei Krankenkassen, die eine Stimmabgabe per Online-Wahl
-ermöglichen, beginnt die Ermittlung des Wahlergebnisses erst nach dem
-Wahltag. Die Wahlleitungen ermitteln unverzüglich getrennt nach
-Wählergruppen sowie jeweils für die Stimmabgabe per Briefwahl und die
-Stimmabgabe per Online-Wahl, wie viele Stimmen für die einzelnen
-Vorschlagslisten abgegeben worden sind. Die Auswertung der per Online-
-Wahl abgegebenen Stimmen muss vor der Auswertung der per Briefwahl
-abgegebenen Stimmen vorgenommen werden. Bei der Ermittlung der
-abgegebenen Stimmen ist über deren Gültigkeit zu entscheiden. Auf den
-Stimmzetteln der ungültigen per Briefwahl abgegebenen Stimmen ist der
-Grund der Ungültigkeit zu vermerken. Ungültige per Online-Wahl
-abgegebene Stimmen sind im Wahlergebnis jeweils mit dem Grund der
-Ungültigkeit auszuweisen.
-
-
-##### § 194c Verordnungsermächtigung
-
-(1) Das Bundesministerium für Gesundheit wird ermächtigt, in einer
-Rechtsverordnung bis zum 30. September 2020 die technischen und
-organisatorischen Vorgaben für die Durchführung der Online-Wahl im
-Rahmen des Modellprojektes nach § 194a im Einvernehmen mit dem
-Bundesamt für Sicherheit in der Informationstechnik zu regeln. In der
-Verordnung ist Folgendes festzulegen:
-
-1.  die technischen Vorgaben einschließlich der Vorgaben für die
-    Erstellung und Umsetzung eines angemessenen
-    Informationssicherheitskonzeptes nach dem IT-Grundschutz des
-    Bundesamtes für Sicherheit in der Informationstechnik,
-
-
-2.  die Vorgaben für die Erstellung und Umsetzung eines gemäß dem IT-
-    Grundschutz des Bundesamtes für Sicherheit in der Informationstechnik
-    angemessenen Notfallkonzeptes, das sowohl die Notfallvorsorge als auch
-    die Notfallbewältigung einschließt,
-
-
-3.  die Vorgaben für die sichere Wahlvorbereitung und Wahldurchführung
-    einschließlich Stimmauszählung, für die Überwachung der Wahlplattform
-    und für die sichere Archivierung der Wahldurchführungs- und
-    Ergebnisdaten,
-
-
-4.  die notwendigen Dokumentations-, Test-, Übungs-, Freigabe- und
-    Zertifizierungsmaßnahmen,
-
-
-5.  geeignete Verfahren für die Authentisierung des Wahlberechtigten
-    gegenüber der Wahlplattform mittels geeigneter Authentisierungsmittel
-    und die Authentifizierung des Wahlberechtigten durch die
-    Wahlplattform,
-
-
-6.  informationstechnische Anforderungen an die Nachvollziehbarkeit der
-    Stimmauswertung zur Herstellung einer im Rahmen der technischen
-    Möglichkeiten möglichst weitgehenden Transparenz bei der
-    Wahlauswertung und
-
-
-7.  die Vorgaben für Kommunikations- und Meldewege, insbesondere bei
-    Sicherheitsvorfällen.
-
-
-
-Das Bundesamt für Sicherheit in der Informationstechnik ist bei der
-Erstellung und Prüfung der Umsetzung der Vorgaben angemessen zu
-beteiligen.
-
-(2) Die Festlegung der Vorgaben, Maßnahmen und Verfahren nach Absatz 1
-erfolgt auf der Grundlage der vom Bundesamt für Sicherheit in der
-Informationstechnik erstellten (Technischen) Richtlinien und sonstigen
-Sicherheitsanforderungen für Online-Wahlen und Online-Wahlprodukte.
-Darüber hinausgehende Sicherheitsanforderungen für Online-Wahlen im
-Rahmen der Sozialversicherungswahlen werden vom Bundesministerium für
-Gesundheit insbesondere unter Berücksichtigung des konkreten
-Sicherheitsrisikos und einer auf der Grundlage des BSI-Standards 200-3
-erstellten Risikoanalyse im Einvernehmen mit dem Bundesamt für
-Sicherheit in der Informationstechnik entwickelt und in der
-Rechtsverordnung festgelegt.
-
-
-##### § 194d Evaluierung
-
-(1) Das Modellprojekt nach § 194a wird durch das Bundesministerium für
-Gesundheit wissenschaftlich begleitet und im Einvernehmen mit dem
-Bundesministerium für Arbeit und Soziales evaluiert. Dabei sind
-insbesondere folgende Aspekte zu berücksichtigen:
-
-1.  die Zahl der bei der jeweiligen Krankenkasse per Online-Wahl und per
-    Briefwahl abgegebenen Stimmen,
-
-
-2.  die Anzahl von doppelten Stimmabgaben sowohl per Briefwahl als auch
-    per Online-Wahl,
-
-
-3.  die Zahl der Versuche von manipulativen Angriffen auf die
-    Sicherheitsarchitektur und deren Manipulationsresistenz,
-
-
-4.  die Möglichkeit, durch das gewählte Verfahren eine möglichst
-    weitgehende Nachvollziehbarkeit und Überprüfbarkeit der Wahlauswertung
-    und damit Transparenz in der Öffentlichkeit zu erreichen sowie
-
-
-5.  die Systemverfügbarkeit im Wahlzeitraum.
-
-
-
-
-(2) Die für die Stimmabgabe per Online-Wahl eingesetzte Software hat
-eine wissenschaftliche Begleitung und Evaluierung zu ermöglichen. Dies
-schließt Sicherheits- und Datenschutzaspekte ein. Die Krankenkassen
-haben dem Bundesministerium für Gesundheit die für die
-wissenschaftliche Begleitung und Evaluierung notwendigen Informationen
-und Daten zur Verfügung zu stellen.
 
 
 ##### § 195 Genehmigung der Satzung
@@ -29992,7 +31265,7 @@ Einheiten ein, die Fällen und Sachverhalten nachzugehen haben, die auf
 Unregelmäßigkeiten oder auf rechtswidrige oder zweckwidrige Nutzung
 von Finanzmitteln im Zusammenhang mit den Aufgaben der jeweiligen
 Krankenkasse oder des jeweiligen Verbandes hindeuten. Sie nehmen
-Kontrollbefugnisse nach § 67c Abs. 3 des Zehnten Buches wahr.
+Kontrollbefugnisse nach § 67c Absatz 4 des Zehnten Buches wahr.
 
 (2) Jede Person kann sich in Angelegenheiten des Absatzes 1 an die
 Krankenkassen und die weiteren in Absatz 1 genannten Organisationen
@@ -30116,11 +31389,11 @@ Krankenkassen können die ihnen obliegenden Aufgaben durch
 Arbeitsgemeinschaften oder durch Dritte mit deren Zustimmung
 wahrnehmen lassen, wenn die Aufgabenwahrnehmung durch die
 Arbeitsgemeinschaften oder den Dritten wirtschaftlicher ist, es im
-wohlverstandenen Interesse der Betroffenen liegt und Rechte der
-Versicherten nicht beeinträchtigt werden. Wesentliche Aufgaben zur
-Versorgung der Versicherten dürfen nicht in Auftrag gegeben werden. §
-88 Abs. 3 und 4 und die §§ 89, 90 bis 92 und 97 des Zehnten Buches
-gelten entsprechend.
+wohlverstandenen Interesse der Betroffenen liegt und Rechte und
+Interessen der Versicherten nicht beeinträchtigt werden. Wesentliche
+Aufgaben zur Versorgung der Versicherten dürfen nicht in Auftrag
+gegeben werden. § 88 Abs. 3 und 4 und die §§ 89 bis 92 und 97 des
+Zehnten Buches gelten entsprechend.
 
 
 ### Vierter Abschnitt - Meldungen
@@ -30369,21 +31642,22 @@ Versorgungsbezügen nach § 229 Absatz 1 Satz 1 Nummer 5 erster Halbsatz
 deren Vorliegen unverzüglich mitzuteilen; in der Mitteilung ist auch
 anzugeben, ob der Versorgungsempfänger nach dem Ende des
 Arbeitsverhältnisses als alleiniger Versicherungsnehmer Leistungen aus
-nicht durch den Arbeitgeber finanzierten Beiträgen erworben hat. Im
-Falle eines Versorgungsbezuges nach § 229 Absatz 1 Satz 1 Nummer 1, 3
-und 4 hat die Zahlstelle zusätzlich anzugeben, ob es sich um eine den
-Waisenrenten gemäß § 48 des Sechsten Buches entsprechende Leistung
-nach § 15 des Gesetzes über die Alterssicherung der Landwirte, aus
-einem Dienst- oder Arbeitsverhältnis gemäß § 229 Absatz 1 Satz 1
-Nummer 1 oder einer berufsständischen Versorgungseinrichtung unter den
-Voraussetzungen des § 5 Absatz 1 Nummer 11b Buchstabe b handelt. Bei
-den am 1. Januar 1989 vorhandenen Versorgungsempfängern hat die
-Ermittlung der Krankenkasse innerhalb von sechs Monaten zu erfolgen.
-Der Versorgungsempfänger hat der Zahlstelle seine Krankenkasse
-anzugeben und einen Kassenwechsel sowie die Aufnahme einer
-versicherungspflichtigen Beschäftigung anzuzeigen. Die Krankenkasse
-hat der Zahlstelle von Versorgungsbezügen und dem Bezieher von
-Versorgungsbezügen unverzüglich die Beitragspflicht des
+nicht durch den Arbeitgeber finanzierten Beiträgen erworben hat oder
+nach § 92 des Einkommensteuergesetzes zu bescheinigende Leistungen
+bezieht. Im Falle eines Versorgungsbezuges nach § 229 Absatz 1 Satz 1
+Nummer 1, 3 und 4 hat die Zahlstelle zusätzlich anzugeben, ob es sich
+um eine den Waisenrenten gemäß § 48 des Sechsten Buches entsprechende
+Leistung nach § 15 des Gesetzes über die Alterssicherung der
+Landwirte, aus einem Dienst- oder Arbeitsverhältnis gemäß § 229 Absatz
+1 Satz 1 Nummer 1 oder einer berufsständischen Versorgungseinrichtung
+unter den Voraussetzungen des § 5 Absatz 1 Nummer 11b Buchstabe b
+handelt. Bei den am 1. Januar 1989 vorhandenen Versorgungsempfängern
+hat die Ermittlung der Krankenkasse innerhalb von sechs Monaten zu
+erfolgen. Der Versorgungsempfänger hat der Zahlstelle seine
+Krankenkasse anzugeben und einen Kassenwechsel sowie die Aufnahme
+einer versicherungspflichtigen Beschäftigung anzuzeigen. Die
+Krankenkasse hat der Zahlstelle von Versorgungsbezügen und dem
+Bezieher von Versorgungsbezügen unverzüglich die Beitragspflicht des
 Versorgungsempfängers und, soweit die Summe der beitragspflichtigen
 Einnahmen nach § 237 Satz 1 Nummer 1 und 2 die
 Beitragsbemessungsgrenze überschreitet, deren Umfang mitzuteilen. Die
@@ -30395,15 +31669,16 @@ zusätzlich mitzuteilen, ob und in welcher Höhe der Freibetrag nach §
 (1a) Die Zahlstelle hat ab dem 1. Juli 2025 bei Beginn eines in der
 sozialen Pflegeversicherung beitragspflichtigen Versorgungsbezuges
 eine Meldung im Sinne des § 55a Absatz 3 des Elften Buches über die
-zentrale Stelle nach § 81 des Einkommensteuergesetzes an das
-Bundeszentralamt für Steuern zu richten. Bei Ende des
-beitragspflichtigen Versorgungsbezuges hat sie eine Meldung nach § 55a
-Absatz 6 des Elften Buches zu erstatten. Bei der erstmaligen
-Bewilligung von Versorgungsbezügen hat die Meldung innerhalb von
-sieben Tagen nach Eingang der Meldung der Krankenkasse nach Absatz 1
-Satz 5 zu erfolgen. Die Meldung zur Beendigung des Versorgungsbezuges
-ist zeitgleich mit der Meldung nach Absatz 1 Satz 1 zu erstatten. Bei
-Beendigung der Beitragsabführungspflicht während des
+Datenstelle der Rentenversicherung nach § 145 Absatz 1 Satz 1 des
+Sechsten Buches und über die zentrale Stelle nach § 81 des
+Einkommensteuergesetzes an das Bundeszentralamt für Steuern zu
+richten. Bei Ende des beitragspflichtigen Versorgungsbezuges hat sie
+eine Meldung nach § 55a Absatz 6 des Elften Buches zu erstatten. Bei
+der erstmaligen Bewilligung von Versorgungsbezügen hat die Meldung
+innerhalb von sieben Tagen nach Eingang der Meldung der Krankenkasse
+nach Absatz 1 Satz 5 zu erfolgen. Die Meldung zur Beendigung des
+Versorgungsbezuges ist zeitgleich mit der Meldung nach Absatz 1 Satz 1
+zu erstatten. Bei Beendigung der Beitragsabführungspflicht während des
 Versorgungsbezuges ist eine Abmeldung innerhalb von sechs Wochen
 vorzunehmen. In der Meldung sind insbesondere anzugeben:
 
@@ -30423,14 +31698,23 @@ vorzunehmen. In der Meldung sind insbesondere anzugeben:
 
 Bei Meldung des Beginns eines Versorgungsbezuges hat das
 Bundeszentralamt für Steuern über die zentrale Stelle nach § 81 des
-Einkommensteuergesetzes der Zahlstelle unverzüglich die auf den Tag
-des Beginns des Versorgungsbezuges bezogenen erforderlichen Daten zum
-Nachweis der Elterneigenschaft sowie zur Ermittlung der Anzahl der
+Einkommensteuergesetzes und über die Datenstelle der
+Rentenversicherung nach § 145 Absatz 1 Satz 1 des Sechsten Buches der
+Zahlstelle unverzüglich die auf den Tag des Beginns des
+Versorgungsbezuges bezogenen erforderlichen Daten zum Nachweis der
+Elterneigenschaft sowie zur Ermittlung der Anzahl der
 berücksichtigungsfähigen Kinder nach Maßgabe des § 55a Absatz 4 Satz 1
 und 2 des Elften Buches zu übermitteln. Änderungen bei der
 Elterneigenschaft oder der Anzahl der berücksichtigungsfähigen Kinder
 während eines laufenden Versorgungbezuges werden der Zahlstelle nach
 Maßgabe des § 55a Absatz 5 des Elften Buches mitgeteilt.
+
+(1b) Bei der erstmaligen Bewilligung von Versorgungsbezügen hat die
+Zahlstelle die notwendigen Angaben zur Einrichtung eines
+Zahlstellenkontos elektronisch an die Krankenkasse zu übermitteln. Das
+Nähere zu diesem Verfahren, den notwendigen Angaben und den für die
+Errichtung des Zahlstellenkontos notwendigen Datensätzen regeln die
+Grundsätze nach Absatz 2 Satz 4.
 
 (2) Die Zahlstelle hat der zuständigen Krankenkasse die Meldung durch
 gesicherte und verschlüsselte Datenübertragung aus systemgeprüften
@@ -30554,10 +31838,8 @@ Beschäftigten der Arbeitgeber und bei Arbeitslosen die Agentur für
 Arbeit den Beginn des Wehrdienstes sowie das Ende des
 Grundwehrdienstes und einer Wehrübung oder einer Dienstleistung oder
 Übung nach dem Vierten Abschnitt des Soldatengesetzes der zuständigen
-Krankenkasse unverzüglich zu melden. Das Ende eines Wehrdienstes nach
-§ 4 Abs. 1 Nr. 6 des Wehrpflichtgesetzes hat das Bundesministerium der
-Verteidigung oder die von ihm bestimmte Stelle zu melden. Sonstige
-Versicherte haben die Meldungen nach Satz 1 selbst zu erstatten.
+Krankenkasse unverzüglich zu melden. Sonstige Versicherte haben die
+Meldungen nach Satz 1 selbst zu erstatten.
 
 (2) Absatz 1 gilt für den Zivildienst entsprechend. An die Stelle des
 Bundesministeriums der Verteidigung tritt das Bundesamt für den
@@ -30990,8 +32272,8 @@ Selbstverwaltungsorgan ein Verwaltungsrat gebildet. Ein Mitglied des
 Verwaltungsrates muss dem Verwaltungsrat, dem ehrenamtlichen Vorstand
 oder der Vertreterversammlung einer Mitgliedskasse angehören. § 33
 Abs. 3, die §§ 40, 41, 42 Abs. 1 bis 3, die §§ 58, 59, 62 Absatz 1 bis
-4 und 6, § 63 Abs. 1, 3, 4, § 64 Absatz 1 bis 3 und § 66 Abs. 1 des
-Vierten Buches und § 197 gelten entsprechend.
+4 und 6, § 63 Abs. 1, 3, 4, § 64 Absatz 1 bis 3, § 64a und § 66 Abs. 1
+des Vierten Buches und § 197 gelten entsprechend.
 
 (1a) Der Verwaltungsrat kann sämtliche Geschäfts- und
 Verwaltungsunterlagen einsehen und prüfen. Der Verwaltungsrat kann von
@@ -32138,141 +33420,85 @@ Versicherten aller Krankenkassen; maßgebend sind die Verhältnisse am
 (3) Der Überweisungsbetrag nach Absatz 2 Satz 1 reduziert sich
 
 1.  um den auf die landwirtschaftliche Krankenkasse entfallenden Anteil an
-    der Finanzierung des Innovationsfonds nach § 92a Absatz 3 und 4 und
+    der Finanzierung des Innovationsfonds nach § 92a Absatz 3 und 4,
 
 
 2.  ab dem Jahr 2016 um den auf die landwirtschaftliche Krankenkasse
-    entfallenden Anteil an der Finanzierung des Strukturfonds nach Maßgabe
-    der §§ 12 bis 14 des Krankenhausfinanzierungsgesetzes.
+    entfallenden Anteil an der Finanzierung des Strukturfonds nach den §§
+    12 und 12a des Krankenhausfinanzierungsgesetzes und
+
+
+3.  in den Jahren 2026 bis 2035 um den auf die landwirtschaftliche
+    Krankenkasse entfallenden Anteil an der Finanzierung des
+    Transformationsfonds nach § 12b des Krankenhausfinanzierungsgesetzes.
 
 
 
-Absatz 2 Satz 2 gilt entsprechend. Der Anteil nach Satz 1 Nummer 1
-wird dem Innovationsfonds und der Anteil nach Satz 1 Nummer 2 dem
-Strukturfonds zugeführt. Die auf die landwirtschaftliche Krankenkasse
-nach Satz 1 Nummer 1 und 2 entfallenden Anteile an den Mitteln für den
-Innovationsfonds nach § 92a und den Strukturfonds nach den §§ 12 und
-12a des Krankenhausfinanzierungsgesetzes werden nach Vorliegen der
-Geschäfts- und Rechnungsergebnisse des Gesundheitsfonds für das
-abgelaufene Kalenderjahr festgesetzt und mit der landwirtschaftlichen
-Krankenkasse abgerechnet. Solange ein Anteil nach Satz 4 noch nicht
-feststeht, kann das Bundesamt für Soziale Sicherung einen vorläufigen
-Betrag festsetzen. Das Nähere zur Festsetzung des Betrags und zur
-Abrechnung mit der landwirtschaftlichen Krankenkasse bestimmt das
-Bundesamt für Soziale Sicherung.
+Absatz 2 Satz 2 gilt entsprechend. Der in Satz 1 Nummer 1 genannte
+Anteil wird dem Innovationsfonds, der in Satz 1 Nummer 2 genannte
+Anteil dem Strukturfonds und der in Satz 1 Nummer 3 genannte Anteil
+dem Transformationsfonds zugeführt. Die auf die landwirtschaftliche
+Krankenkasse entfallenden in Satz 1 genannten Anteile an der
+Finanzierung des Innovationsfonds nach § 92a, des Strukturfonds nach
+den §§ 12 und 12a des Krankenhausfinanzierungsgesetzes und des
+Transformationsfonds nach § 12b des Krankenhausfinanzierungsgesetzes
+werden nach Vorliegen der Geschäfts- und Rechnungsergebnisse des
+Gesundheitsfonds für das abgelaufene Kalenderjahr festgesetzt und mit
+der landwirtschaftlichen Krankenkasse abgerechnet. Solange ein Anteil
+nach Satz 4 noch nicht feststeht, kann das Bundesamt für Soziale
+Sicherung einen vorläufigen Betrag festsetzen. Das Nähere zur
+Festsetzung des Betrags und zur Abrechnung mit der
+landwirtschaftlichen Krankenkasse bestimmt das Bundesamt für Soziale
+Sicherung.
 
 
-##### § 221a Ergänzende Bundeszuschüsse an den Gesundheitsfonds, Verordnungsermächtigung
+##### § 221a Ergänzende Bundeszuschüsse an den Gesundheitsfonds
 
-(1) Unbeschadet des § 221 Absatz 1 leistet der Bund im Jahr 2021 zur
-Stabilisierung des durchschnittlichen Zusatzbeitragssatzes gemäß §
-242a im Jahr 2021 einen ergänzenden Bundeszuschuss in Höhe von 5
-Milliarden Euro an den Gesundheitsfonds. Der Gesundheitsfonds
-überweist von den ihm zufließenden Leistungen nach Satz 1 der
-landwirtschaftlichen Krankenkasse einen Betrag von 30 Millionen Euro.
+(1) Zur Abgeltung der Aufwendungen der Krankenkassen nach § 8 Absatz
+11 Satz 1 des Krankenhausentgeltgesetzes und nach § 8 Absatz 7 Satz 1
+der Bundespflegesatzverordnung leistet der Bund unbeschadet des § 221
+Absatz 1 ergänzende Bundeszuschüsse an den Gesundheitsfonds
 
-(2) Der Bund leistet bis zum 1. April 2021 unbeschadet der
-Bundeszuschüsse nach Absatz 1 und nach § 221 Absatz 1 einen
-ergänzenden Bundeszuschuss in Höhe von 300 Millionen Euro an die
-Liquiditätsreserve des Gesundheitsfonds als Beitrag zum Ausgleich für
-die Mehrausgaben der gesetzlichen Krankenversicherung in Folge der
-Regelung zum Kinderkrankengeld nach § 45 Absatz 2a. Überschreiten die
-in Satz 1 genannten Mehrausgaben im Jahr 2021 einen Betrag von 300
-Millionen Euro, leistet der Bund zum 1. Juli 2022 einen weiteren
-ergänzenden Bundeszuschuss an die Liquiditätsreserve des
-Gesundheitsfonds in Höhe des Betrags, um den die in Satz 1 genannten
-Mehrausgaben den Betrag von 300 Millionen Euro überschreiten. Der nach
-Satz 2 zu leistende Betrag wird aus der Differenz zwischen den
-Ausgaben aller gesetzlichen Krankenkassen für das Kinderkrankengeld
-ausweislich der Jahresrechnungsergebnisse (Statistik KJ 1) für das
-Jahr 2021 und für das Jahr 2019 einschließlich der jeweils darauf zu
-entrichtenden Beiträge zur Renten-, Arbeitslosen- und sozialen
-Pflegeversicherung in Höhe von 24,05 Prozent abzüglich der bereits
-geleisteten 300 Millionen Euro ermittelt. Der Bund leistet zum 1.
-Oktober 2021 eine Abschlagszahlung an die Liquiditätsreserve des
-Gesundheitsfonds auf den nach Satz 2 zu entrichtenden ergänzenden
-Bundeszuschuss in Höhe eines Betrags, der unter entsprechender
-Anwendung der Berechnung nach Satz 3 auf der Grundlage der vorläufigen
-Rechnungsergebnisse des ersten Halbjahres 2021 bestimmt wird. Das
-Bundesministerium für Gesundheit ermittelt die Überschreitungsbeträge
-nach den Sätzen 3 und 4 und meldet diese unverzüglich an das
-Bundesministerium der Finanzen.
+1.  bis einschließlich 31. Oktober 2025 in Höhe von 1,5 Milliarden Euro
+    und
 
-(3) Unbeschadet des § 221 Absatz 1 leistet der Bund im Jahr 2022 zur
-Stabilisierung des durchschnittlichen Zusatzbeitragssatzes gemäß §
-242a im Jahr 2022 einen ergänzenden Bundeszuschuss in Höhe von 7
-Milliarden Euro in monatlich zu überweisenden Teilbeträgen an den
-Gesundheitsfonds. Der Gesundheitsfonds überweist von den ihm
-zufließenden Leistungen nach Satz 1 der landwirtschaftlichen
-Krankenkasse einen Betrag von 42 Millionen Euro. Das Bundesministerium
-für Gesundheit wird befristet bis zum 31. Dezember 2021 ermächtigt, im
-Einvernehmen mit dem Bundesministerium der Finanzen und mit Zustimmung
-des Deutschen Bundestages durch Rechtsverordnung ohne Zustimmung des
-Bundesrats einen von Satz 1 abweichenden ergänzenden Bundeszuschuss
-für das Jahr 2022 einschließlich eines vom Gesundheitsfonds an die
-landwirtschaftliche Krankenversicherung zu überweisenden Betrags
-festzusetzen. Der in der Rechtsverordnung nach Satz 3 festzusetzende
-ergänzende Bundeszuschuss ist auf den Betrag festzusetzen, der
-erforderlich ist, um den durchschnittlichen Zusatzbeitragssatz nach §
-242a im Jahr 2022 bei 1,3 Prozent zu stabilisieren; der vom
-Gesundheitsfonds an die landwirtschaftliche Krankenversicherung zu
-überweisende Betrag ist in der Rechtsverordnung nach Satz 3
-entsprechend des Verhältnisses des der landwirtschaftlichen
-Krankenversicherung nach Satz 2 vom Gesundheitsfonds zu überweisenden
-Betrags zum ergänzenden Bundeszuschuss nach Satz 1 festzusetzen.
 
-(4) Der Bund leistet bis zum 1. April 2022 unbeschadet der
-Bundeszuschüsse nach Absatz 3 und nach § 221 Absatz 1 für das Jahr
-2022 einen ergänzenden Bundeszuschuss in Höhe von 300 Millionen Euro
-an die Liquiditätsreserve des Gesundheitsfonds als Beitrag zum
-Ausgleich für die Mehrausgaben der gesetzlichen Krankenversicherung
-infolge der Regelung zum Kinderkrankengeld nach § 45 Absatz 2a.
-Überschreiten die in Satz 1 genannten Mehrausgaben im Jahr 2022 einen
-Betrag von 300 Millionen Euro, leistet der Bund zum 1. Juli 2023 einen
-weiteren ergänzenden Bundeszuschuss an die Liquiditätsreserve des
-Gesundheitsfonds in Höhe des Betrags, um den die in Satz 1 genannten
-Mehrausgaben den Betrag von 300 Millionen Euro überschreiten. Der nach
-Satz 2 zu leistende Betrag wird aus der Differenz zwischen den
-Ausgaben aller gesetzlichen Krankenkassen für das Kinderkrankengeld
-ausweislich der Jahresrechnungsergebnisse (Statistik KJ 1) für das
-Jahr 2022 und für das Jahr 2019 einschließlich der jeweils darauf zu
-entrichtenden Beiträge zur Renten-, Arbeitslosen- und sozialen
-Pflegeversicherung in Höhe von 24,05 Prozent abzüglich der bereits
-geleisteten 300 Millionen Euro ermittelt. Das Bundesministerium für
-Gesundheit ermittelt den Überschreitungsbetrag nach den Sätzen 2 und 3
-und meldet diesen unverzüglich an das Bundesministerium der Finanzen.
+2.  bis einschließlich 31. Januar 2026 in Höhe von 2,5 Milliarden Euro.
 
-(5) Unbeschadet des § 221 Absatz 1 leistet der Bund im Jahr 2023 einen
-ergänzenden Bundeszuschuss in Höhe von 2 Milliarden Euro in monatlich
-zu überweisenden Teilbeträgen an den Gesundheitsfonds. Der
-Gesundheitsfonds überweist von den ihm zufließenden Leistungen nach
-Satz 1 der landwirtschaftlichen Krankenkasse den auf sie entfallenden
-Anteil an der Beteiligung des Bundes. Der an die landwirtschaftliche
-Krankenkasse zu überweisende Betrag bemisst sich nach dem Verhältnis
-der Anzahl der Versicherten dieser Krankenkasse zu der Anzahl der
-Versicherten aller Krankenkassen; maßgebend sind die Verhältnisse am
-1\. Juli 2022.
 
-(6) Der Bund leistet bis zum 1. April 2023 unbeschadet der
-Bundeszuschüsse nach Absatz 5 und nach § 221 Absatz 1 für das Jahr
-2023 einen ergänzenden Bundeszuschuss in Höhe von 150 Millionen Euro
-an den Gesundheitsfonds als Beitrag zum Ausgleich für die Mehrausgaben
-der gesetzlichen Krankenversicherung infolge der Regelung zum
-Kinderkrankengeld nach § 45 Absatz 2a. Überschreiten die in Satz 1
-genannten Mehrausgaben im Jahr 2023 einen Betrag von 150 Millionen
-Euro, leistet der Bund zum 1. Juli 2024 einen weiteren ergänzenden
-Bundeszuschuss an die Liquiditätsreserve des Gesundheitsfonds in Höhe
-des Betrags, um den die in Satz 1 genannten Mehrausgaben den Betrag
-von 150 Millionen Euro überschreiten. Der nach Satz 2 zu leistende
-Betrag wird aus der Differenz zwischen den Ausgaben aller gesetzlichen
-Krankenkassen für das Kinderkrankengeld ausweislich der
-Jahresrechnungsergebnisse (Statistik KJ 1) für das Jahr 2023 und für
-das Jahr 2019 einschließlich der jeweils darauf zu entrichtenden
-Beiträge zur Renten-, Arbeitslosen- und sozialen Pflegeversicherung
-abzüglich der bereits geleisteten 150 Millionen Euro ermittelt. Das
-Bundesministerium für Gesundheit ermittelt den Überschreitungsbetrag
-nach den Sätzen 2 und 3 und meldet diesen unverzüglich an das
-Bundesministerium der Finanzen.
+
+
+(2) Der Gesundheitsfonds überweist der Landwirtschaftlichen
+Krankenkasse von den ihm nach Absatz 1 zufließenden Leistungen
+
+1.  im Jahr 2025 einen Betrag in Höhe von 14 Millionen Euro und
+
+
+2.  im Jahr 2026 einen Betrag in Höhe von 24 Millionen Euro.
+
+
+
+
+(3) Unterschreiten die Aufwendungen der Krankenkassen nach § 8 Absatz
+11 Satz 1 des Krankenhausentgeltgesetzes und nach § 8 Absatz 7 Satz 1
+der Bundespflegesatzverordnung abzüglich der entsprechenden
+Aufwendungen der Landwirtschaftlichen Krankenkasse die Summe der nach
+Absatz 1 geleisteten ergänzenden Bundeszuschüsse abzüglich der Summe
+der an die Landwirtschaftliche Krankenkasse nach Absatz 2 gezahlten
+Beträge, wird der Differenzbetrag dem Transformationsfonds nach § 12b
+des Krankenhausfinanzierungsgesetzes aus der Liquiditätsreserve des
+Gesundheitsfonds im Jahr 2028 zugeführt.
+
+(4) Unterschreiten die Aufwendungen der Landwirtschaftlichen
+Krankenkasse nach § 8 Absatz 11 Satz 1 des Krankenhausentgeltgesetzes
+und nach § 8 Absatz 7 Satz 1 der Bundespflegesatzverordnung die Summe
+der nach Absatz 2 an die Landwirtschaftliche Krankenkasse gezahlten
+Beträge, wird der Differenzbetrag von der Landwirtschaftlichen
+Krankenkasse nach Vorliegen der Jahresrechnungsergebnisse für das Jahr
+2026 an die Liquiditätsreserve des Gesundheitsfonds geleistet und im
+Jahr 2028 aus der Liquiditätsreserve des Gesundheitsfonds dem
+Transformationsfonds nach § 12b des Krankenhausfinanzierungsgesetzes
+zugeführt.
 
 
 ##### § 221b (weggefallen)
@@ -32394,6 +33620,15 @@ bestimmt sich die beitragspflichtige Einnahme nach § 20 Absatz 2a Satz
 (5) Für Personen, für die § 7 Absatz 2 Anwendung findet, bestimmt sich
 die beitragspflichtige Einnahme nach § 134 des Vierten Buches.
 
+(6) Sind Personen, die nach § 5 Absatz 1 Nummer 11b
+versicherungspflichtig sind, durch Ableistung eines
+Freiwilligendienstes nach dem Bundesfreiwilligendienstgesetz oder dem
+Jugendfreiwilligendienstegesetz oder eines vergleichbaren anerkannten
+Freiwilligendienstes auch nach § 5 Absatz 1 Nummer 1
+versicherungspflichtig, sind die in § 5 Absatz 1 Nummer 11b und in §
+237 Satz 3 genannten Leistungen bis zum Erreichen der in § 10 Absatz 2
+Nummer 3 genannten Altersgrenzen beitragsfrei.
+
 
 ##### § 227 Beitragspflichtige Einnahmen versicherungspflichtiger Rückkehrer in die  gesetzliche Krankenversicherung und bisher nicht Versicherter
 
@@ -32437,8 +33672,8 @@ Alters- oder Hinterbliebenenversorgung erzielt werden,
     a)  lediglich übergangsweise gewährte Bezüge,
 
 
-    b)  unfallbedingte Leistungen und Leistungen Entschädigungszahlungen nach
-        dem Vierzehnten Buch,
+    b)  unfallbedingte Leistungen, Entschädigungszahlungen nach dem
+        Vierzehnten Buch sowie dem Soldatenentschädigungsgesetz,
 
 
     c)  bei einer Unfallversorgung ein Betrag von 20 vom Hundert des
@@ -32648,10 +33883,11 @@ Zahlbetrag der Rente wegen verminderter Erwerbsfähigkeit sowie um das
 Entgelt zu kürzen, das aus einer die Versicherungspflicht begründenden
 Beschäftigung erzielt wird. Bei Personen, die Teilübergangsgeld nach
 dem Dritten Buch beziehen, ist Satz 2 nicht anzuwenden. Wird das
-Übergangsgeld, das Verletztengeld, das Versorgungskrankengeld oder das
-Krankengeld der Sozialen Entschädigung angepaßt, ist das Entgelt um
-den gleichen Vomhundertsatz zu erhöhen. Für Teilnehmer, die kein
-Übergangsgeld erhalten,, sowie für die nach § 5 Abs. 1 Nr. 5
+Übergangsgeld, das Verletztengeld, das Versorgungskrankengeld, das
+Krankengeld der Sozialen Entschädigung oder das Krankengeld der
+Soldatenentschädigung angepaßt, ist das Entgelt um den gleichen
+Vomhundertsatz zu erhöhen. Für Teilnehmer, die kein Übergangsgeld
+erhalten,, sowie für die nach § 5 Abs. 1 Nr. 5
 Versicherungspflichtigen gilt als beitragspflichtige Einnahmen ein
 Arbeitsentgelt in Höhe von 20 vom Hundert der monatlichen Bezugsgröße
 nach § 18 des Vierten Buches.
@@ -32660,8 +33896,9 @@ nach § 18 des Vierten Buches.
 erhalten bleibt, sind die vom zuständigen Rehabilitationsträger nach §
 251 Abs. 1 zu tragenden Beiträge nach 80 vom Hundert des Regelentgelts
 zu bemessen, das der Berechnung des Übergangsgeldes, des
-Verletztengeldes, des Versorgungskrankengeldes oder des Krankengeldes
-der Sozialen Entschädigung zugrunde liegt. Absatz 1 Satz 4 gilt. Bei
+Verletztengeldes, des Versorgungskrankengeldes, des Krankengeldes der
+Sozialen Entschädigung oder des Krankengeldes der
+Soldatenentschädigung zugrunde liegt. Absatz 1 Satz 4 gilt. Bei
 Personen, die Verletztengeld nach § 45 Absatz 4 des Siebten Buches in
 Verbindung mit § 45 Absatz 1 beziehen, gelten abweichend von Satz 1
 als beitragspflichtige Einnahmen 80 Prozent des während der
@@ -32963,9 +34200,9 @@ erheben für
 
 
 5.  Mitglieder, die Verletztengeld nach dem Siebten Buch,
-    Versorgungskrankengeld und Krankengeld der Sozialen Entschädigung nach
-    dem Vierzehnten Buch oder vergleichbare Entgeltersatzleistungen
-    beziehen, sowie
+    Versorgungskrankengeld, Krankengeld der Sozialen Entschädigung und
+    Krankengeld der Soldatenentschädigung nach dem Vierzehnten Buch oder
+    vergleichbare Entgeltersatzleistungen beziehen, sowie
 
 
 6.  Beschäftigte, bei denen § 20 Absatz 3 Satz 1 Nummer 1 oder Nummer 2
@@ -33211,9 +34448,9 @@ Satz 1 zu tragenden Beiträge allein.
 (1) Der zuständige Rehabilitationsträger trägt die auf Grund der
 Teilnahme an Leistungen zur Teilhabe am Arbeitsleben sowie an
 Berufsfindung oder Arbeitserprobung (§ 5 Abs. 1 Nr. 6) oder des Bezugs
-von Übergangsgeld, Verletztengeld, Versorgungskrankengeld oder
-Krankengeld der Sozialen Entschädigung (§ 192 Abs. 1 Nr. 3) zu
-zahlenden Beiträge.
+von Übergangsgeld, Verletztengeld, Versorgungskrankengeld, Krankengeld
+der Sozialen Entschädigung oder Krankengeld der Soldatenentschädigung
+(§ 192 Abs. 1 Nr. 3) zu zahlenden Beiträge.
 
 (2) Der Träger der Einrichtung trägt den Beitrag allein
 
@@ -34558,9 +35795,15 @@ Geschäftsjahres einen Betrag von 25 Prozent der durchschnittlich auf
 den Monat entfallenden Ausgaben des Gesundheitsfonds auf Grundlage der
 für die Festlegung des durchschnittlichen Zusatzbeitragssatzes nach §
 242a maßgeblichen Werte für dieses Geschäftsjahr nicht überschreiten.
-Überschreitet die erwartete Höhe der Liquiditätsreserve abzüglich der
-gesetzlich vorgesehenen Entnahmen aus der Liquiditätsreserve für das
-Folgejahr den Betrag nach Satz 4, sind die überschüssigen Mittel in
+Abweichend von Satz 4 darf die Höhe der Liquiditätsreserve nach Ablauf
+der Geschäftsjahre 2025 bis 2034 einen Betrag von 50 Prozent der
+durchschnittlich auf den Monat entfallenden Ausgaben des
+Gesundheitsfonds auf Grundlage der für die Festlegung des
+durchschnittlichen Zusatzbeitragssatzes nach § 242a maßgeblichen Werte
+für dieses Geschäftsjahr nicht überschreiten. Überschreitet die
+erwartete Höhe der Liquiditätsreserve abzüglich der gesetzlich
+vorgesehenen Entnahmen aus der Liquiditätsreserve für das Folgejahr
+den Betrag nach Satz 4 oder Satz 5, sind die überschüssigen Mittel in
 die Einnahmen des Gesundheitsfonds im Folgejahr zu überführen.
 
 (2a) Bei Schließung oder Insolvenz einer Krankenkasse kann das
@@ -34593,23 +35836,53 @@ das sich nach § 17 Absatz 2 der Risikostruktur-Ausgleichsverordnung
 ergebende Zuweisungsvolumen für das Ausgleichsjahr um diesen Betrag zu
 erhöhen. Den Einnahmen des Gesundheitsfonds nach Absatz 1 Satz 1
 werden im Jahr 2024 378 Millionen Euro aus der Liquiditätsreserve
-zugeführt.
+zugeführt. Aus der Liquiditätsreserve werden im Jahr 2025 660
+Millionen Euro entnommen; bei der Ermittlung der Höhe der Zuweisungen
+nach § 266 Absatz 7 Satz 3 für das Ausgleichsjahr 2024 ist das sich
+nach § 17 Absatz 2 der Risikostruktur-Ausgleichsverordnung ergebende
+Zuweisungsvolumen für das Ausgleichsjahr um diesen Betrag zu erhöhen.
+Den Einnahmen des Gesundheitsfonds nach Absatz 1 Satz 1 werden im Jahr
+2026 826 Millionen Euro aus der Liquiditätsreserve zugeführt.
 
 (5) Zur Finanzierung der Fördermittel nach § 92a Absatz 3 und 4 werden
 dem Innovationsfonds aus der Liquiditätsreserve des Gesundheitsfonds
 ab dem Jahr 2020 jährlich 100 Millionen Euro, jeweils abzüglich der
 Hälfte des anteiligen Betrages der landwirtschaftlichen Krankenkasse
-gemäß § 221 Absatz 3 Satz 1 Nummer 1 zugeführt.
+nach § 221 Absatz 3 Satz 1 Nummer 1 zugeführt. Abweichend von Satz 1
+werden dem Innovationsfonds im Jahr 2026 aus der Liquiditätsreserve
+des Gesundheitsfonds 100 Millionen Euro abzüglich des anteiligen
+Betrages der landwirtschaftlichen Krankenkasse nach § 221 Absatz 3
+Satz 1 Nummer 1 zugeführt.
 
 (6) Zur Finanzierung der Fördermittel nach den §§ 12 und 12a des
 Krankenhausfinanzierungsgesetzes werden dem Strukturfonds aus der
 Liquiditätsreserve des Gesundheitsfonds ab dem Jahr 2016 Finanzmittel
-in Höhe von bis zu 500 Millionen Euro und in den Jahren 2019 bis 2024
+in Höhe von bis zu 500 Millionen Euro und in den Jahren 2019 bis 2025
 Finanzmittel in Höhe von insgesamt bis zu 2 Milliarden Euro, jeweils
-abzüglich des anteiligen Betrags der landwirtschaftlichen Krankenkasse
-gemäß § 221 Absatz 3 Satz 1 Nummer 2 und Satz 5 und 6 zugeführt,
-soweit die Fördermittel von den Ländern nach Maßgabe der §§ 12 bis 14
-des Krankenhausfinanzierungsgesetzes abgerufen werden.
+abzüglich des Anteils der landwirtschaftlichen Krankenkasse nach § 221
+Absatz 3 Satz 1 Nummer 2, Satz 2 in Verbindung mit Absatz 2 Satz 2
+sowie Absatz 3 Satz 4 und 5 zugeführt, soweit die Fördermittel von den
+Ländern nach Maßgabe der §§ 12, 12a und 13 des
+Krankenhausfinanzierungsgesetzes abgerufen werden. Zur Finanzierung
+der Fördermittel nach § 12b des Krankenhausfinanzierungsgesetzes
+werden dem Transformationsfonds in den Jahren 2026 bis 2035 aus der
+Liquiditätsreserve des Gesundheitsfonds jährlich Finanzmittel in der
+Höhe zugeführt, in der diese Fördermittel im jeweiligen Jahr den
+Ländern zugeteilt werden, höchstens jedoch in der Höhe des
+Höchstbetrags nach Satz 3 für das jeweilige Kalenderjahr. Der
+Höchstbetrag für ein Kalenderjahr ergibt sich aus der Summe eines
+Betrags in Höhe von 2,5 Milliarden Euro und des jeweiligen
+Mittelübertrags nach Satz 4 für dieses Kalenderjahr, jeweils abzüglich
+des Anteils der landwirtschaftlichen Krankenkasse nach § 221 Absatz 3
+Satz 1 Nummer 3, Satz 2 in Verbindung mit Absatz 2 Satz 2 sowie Absatz
+3 Satz 4 und 5. Der Mittelübertrag für ein Kalenderjahr ist derjenige
+Betrag, um den der Höchstbetrag nach Satz 3 für das vorangegangene
+Kalenderjahr den Betrag der den Ländern im vorangegangenen
+Kalenderjahr zugeteilten Fördermittel übersteigt; für das Kalenderjahr
+2026 ist der Mittelübertrag der nach § 12a Absatz 2 Satz 4 des
+Krankenhausfinanzierungsgesetzes für eine Förderung von Vorhaben nach
+§ 12b des Krankenhausfinanzierungsgesetzes zur Verfügung stehende
+Betrag.
 
 (7) Die dem Bundesamt für Soziale Sicherung bei der Verwaltung des
 Fonds entstehenden Ausgaben einschließlich der Ausgaben für die
@@ -34875,15 +36148,18 @@ angefangenen Monat ein Zuschlag in Höhe von 0,5 Prozent des
 rückständigen Betrags zu zahlen.
 
 (7) Das Bundesamt für Soziale Sicherung führt die Prüfungen nach den
-Absätzen 2 bis 5 ab dem Berichtsjahr 2013 durch. Im Rahmen der Prüfung
-nach Absatz 4 oder Absatz 5 kann sich die Krankenkasse nicht darauf
-berufen, dass die zuständige Aufsichtsbehörde den Vertrag nicht
-innerhalb der Frist gemäß § 71 Absatz 4 Satz 2, § 71 Absatz 4 Satz 3
-in der bis zum 22. Juli 2015 geltenden Fassung oder § 73b Absatz 9
-Satz 2 in der bis zum 22. Juli 2015 geltenden Fassung beanstandet hat.
-Satz 1 gilt nicht für abgeschlossene Einzelfallprüfungen nach § 273
-Absatz 3 Satz 1 und 2 in der bis zum 31. März 2020 geltenden Fassung;
-für die Ermittlung des Korrekturbetrags gilt Absatz 6.
+Absätzen 2 bis 5 ab dem Berichtsjahr 2013 durch. Die in Satz 1
+genannten Prüfungen sind spätestens bis zum Ablauf des 15.
+Kalenderjahres, das auf das Berichtsjahr folgt, auf das sich die
+jeweilige Prüfung bezieht, abzuschließen. Im Rahmen der Prüfung nach
+den Absätzen 4 oder 5 kann sich die Krankenkasse nicht darauf berufen,
+dass die zuständige Aufsichtsbehörde den Vertrag nicht innerhalb der
+Frist gemäß § 71 Absatz 4 Satz 2, § 71 Absatz 4 Satz 3 in der bis zum
+22\. Juli 2015 geltenden Fassung oder § 73b Absatz 9 Satz 2 in der bis
+zum 22. Juli 2015 geltenden Fassung beanstandet hat. Satz 1 gilt nicht
+für abgeschlossene Einzelfallprüfungen nach § 273 Absatz 3 Satz 1 und
+2 in der bis zum 31. März 2020 geltenden Fassung; für die Ermittlung
+des Korrekturbetrags gilt Absatz 6.
 
 
 ### Fünfter Abschnitt - Prüfung der Krankenkassen und ihrer Verbände
@@ -35258,59 +36534,312 @@ und des Sachverhalts, das Ergebnis der Begutachtung und die
 wesentlichen Gründe für dieses Ergebnis umfassen.
 
 
-#### § 275a Durchführung und Umfang von Qualitätskontrollen in Krankenhäusern durch den Medizinischen Dienst
+#### § 275a Prüfungen zu Qualitätskriterien, Strukturmerkmalen und Qualitätsanforderungen in Krankenhäusern
 
-(1) Der Medizinische Dienst führt nach Maßgabe der folgenden Absätze
-und der Richtlinie des Gemeinsamen Bundesausschusses nach § 137 Absatz
-3 Kontrollen zur Einhaltung von Qualitätsanforderungen in den nach §
-108 zugelassenen Krankenhäusern durch. Voraussetzung für die
-Durchführung einer solchen Kontrolle ist, dass der Medizinische Dienst
-hierzu von einer vom Gemeinsamen Bundesausschuss in der Richtlinie
-nach § 137 Absatz 3 festgelegten Stelle oder einer Stelle nach Absatz
-4 beauftragt wurde. Die Kontrollen sind aufwandsarm zu gestalten und
-können unangemeldet durchgeführt werden.
+(1) Der Medizinische Dienst führt in den zugelassenen Krankenhäusern
+bezogen auf einen Standort Prüfungen durch zur Erfüllung
 
-(2) Art und Umfang der vom Medizinischen Dienst durchzuführenden
-Kontrollen bestimmen sich abschließend nach dem konkreten Auftrag, den
-die in den Absätzen 3 und 4 genannten Stellen erteilen. Der Auftrag
-muss bei Kontrollen, die durch Anhaltspunkte begründet sein müssen, in
-einem angemessenen Verhältnis zu den Anhaltspunkten stehen, die
-Auslöser für die Kontrollen sind. Gegenstand der Aufträge können sein
-
-1.  die Einhaltung der Qualitätsanforderungen nach den §§ 135b und 136 bis
-    136c,
+1.  der nach § 135e Absatz 2 Satz 2 maßgeblichen Qualitätskriterien,
 
 
-2.  die Kontrolle der Richtigkeit der Dokumentation der Krankenhäuser im
-    Rahmen der externen stationären Qualitätssicherung und
+2.  von Strukturmerkmalen, die nach § 301 Absatz 2 in dem vom
+    Bundesinstitut für Arzneimittel und Medizinprodukte herausgegebenen
+    Operationen- und Prozedurenschlüssel für einzelne Kodes festgelegt
+    werden,
 
 
-3.  die Einhaltung der Qualitätsanforderungen der Länder, soweit dies
-    landesrechtlich vorgesehen ist.
+3.  der Qualitätsanforderungen nach den §§ 135b und 136 bis 136c
+    einschließlich der Prüfung der Richtigkeit der von den Krankenhäusern
+    im Rahmen der externen stationären Qualitätssicherung vorzunehmenden
+    Dokumentation und
+
+
+4.  der von den Ländern landesrechtlich vorgesehenen
+    Qualitätsanforderungen.
 
 
 
-Werden bei Durchführung der Kontrollen Anhaltspunkte für erhebliche
-Qualitätsmängel offenbar, die außerhalb des Kontrollauftrags liegen,
-so teilt der Medizinische Dienst diese dem Auftraggeber nach Absatz 3
-oder Absatz 4 sowie dem Krankenhaus unverzüglich mit. Satz 2 gilt
-nicht für Stichprobenprüfungen zur Validierung der
-Qualitätssicherungsdaten nach § 137 Absatz 3 Satz 1.
+Die Prüfungen sind aufwandsarm zu gestalten. Sie erfolgen im
+schriftlichen Verfahren, als Prüfungen vor Ort oder zum Teil im
+schriftlichen Verfahren und zum Teil als Prüfung vor Ort auf Grundlage
+vorliegender Daten, Nachweise, Unterlagen und Auskünfte der
+Krankenhäuser. Prüfungen vor Ort erfolgen angemeldet. Bei Prüfungen zu
+der Erfüllung der in Satz 1 Nummer 1, 3 und 4 genannten
+Qualitätskriterien und Qualitätsanforderungen sind abweichend von Satz
+4 Prüfungen vor Ort ohne Anmeldung zulässig, wenn Tatsachen mit
+hinreichender Wahrscheinlichkeit erwarten lassen, dass eine Prüfung
+nach Anmeldung den Erfolg der Prüfung gefährden würde. Der
+Medizinische Dienst führt die Prüfungen nach Satz 1 soweit möglich
+einheitlich und aufeinander abgestimmt durch und verwendet Nachweise
+und Erkenntnisse aus anderen Prüfungen nach Satz 1 oder aus anderen
+Prüfungen nach den §§ 275a und 275d in den bis zum 11. Dezember 2024
+geltenden Fassungen wechselseitig. Der Medizinische Dienst
+berücksichtigt im Rahmen der Prüfungen Daten aus dem
+Transparenzverzeichnis nach § 135d Absatz 1 Satz 1 und kann
+vorliegende Zertifikate anerkennen. Die Prüfung der Erfüllung der in §
+6 der Pflegepersonaluntergrenzen-Verordnung festgelegten
+Pflegepersonaluntergrenzen erfolgt auf der Grundlage der in § 137i
+Absatz 4 Satz 1 genannten Bestätigung eines Wirtschaftsprüfers, einer
+Wirtschaftsprüfungsgesellschaft, eines vereidigten Buchprüfers oder
+einer Buchprüfungsgesellschaft. Die Krankenhäuser haben die für die
+Prüfung erforderlichen personen- und einrichtungsbezogenen Daten
+innerhalb von sechs Wochen nach Anforderung durch den Medizinischen
+Dienst an diesen zu übermitteln. Die Übermittlung der für die Prüfung
+erforderlichen Unterlagen durch die Krankenhäuser sowie Mitteilungen
+zu Prüfergebnissen durch den Medizinischen Dienst erfolgen
+grundsätzlich auf elektronischem Wege. Die Medizinischen Dienste
+betreiben jeweils ein geschütztes digitales Informationsportal zur
+Bereitstellung von für die Prüfung erforderlichen Unterlagen durch die
+Krankenhäuser; die Krankenhäuser können für die Prüfung erforderliche
+Unterlagen über dieses Informationsportal bereitstellen. Die Prüfungen
+erfolgen grundsätzlich durch den Medizinischen Dienst, der örtlich für
+das zu prüfende Krankenhaus zuständig ist. § 135d Absatz 3 Satz 2 gilt
+entsprechend.
 
-(3) Die vom Gemeinsamen Bundesausschuss hierfür bestimmten Stellen
-beauftragen den Medizinischen Dienst nach Maßgabe der Richtlinie nach
-§ 137 Absatz 3 mit Kontrollen nach Absatz 1 in Verbindung mit Absatz 2
-Satz 3 Nummer 1 und 2. Soweit der Auftrag auch eine Kontrolle der
-Richtigkeit der Dokumentation nach Absatz 2 Satz 3 Nummer 2
-beinhaltet, sind dem Medizinischen Dienst vom Gemeinsamen
-Bundesausschuss die Datensätze zu übermitteln, die das Krankenhaus im
-Rahmen der externen stationären Qualitätssicherung den zuständigen
-Stellen gemeldet hat und deren Richtigkeit der Medizinische Dienst im
-Rahmen der Kontrolle zu prüfen hat.
+(2) Die für die Krankenhausplanung zuständige Landesbehörde hat vor
+der Zuweisung von Leistungsgruppen nach § 6a Absatz 1 Satz 1 des
+Krankenhausfinanzierungsgesetzes den Medizinischen Dienst mit
+Prüfungen zu der Erfüllung der in Absatz 1 Satz 1 Nummer 1 genannten
+Qualitätskriterien zu beauftragen. Die Landesverbände der
+Krankenkassen und die Ersatzkassen haben vor dem Abschluss von
+Versorgungsverträgen nach § 109 den Medizinischen Dienst mit Prüfungen
+zu der Erfüllung der in Absatz 1 Satz 1 Nummer 1 genannten
+Qualitätskriterien zu beauftragen, wenn in dem Versorgungsvertrag
+Leistungsgruppen vereinbart werden sollen. Darüber hinaus können die
+in den Sätzen 1 und 2 genannten beauftragenden Stellen bei Bedarf
+jederzeit Prüfungen zu der Erfüllung der in Absatz 1 Satz 1 Nummer 1
+genannten Qualitätskriterien beauftragen, insbesondere bei Hinweisen
+über die Nichterfüllung der Qualitätskriterien. Der Umfang der vom
+Medizinischen Dienst zu prüfenden Erfüllung von Qualitätskriterien
+bestimmt sich abschließend nach den in dem konkreten Auftrag
+bestimmten Leistungsgruppen. Der Medizinische Dienst hat eine auf
+Grund von Satz 1, Satz 2 oder Satz 3 beauftragte Prüfung unverzüglich
+durchzuführen und in der Regel innerhalb von zehn Wochen ab dem
+Zeitpunkt des Beginns der Prüfung mit einem Gutachten abzuschließen
+und dieses innerhalb der genannten Frist allein der beauftragenden
+Stelle zuzusenden. Die beauftragende Stelle hat den Medizinischen
+Dienst innerhalb von einem Monat nach Zugang des Gutachtens auf
+Unstimmigkeiten oder Unklarheiten im Gutachten hinzuweisen und diese
+mit dem Medizinischen Dienst anschließend innerhalb von zwei Wochen ab
+der Erteilung des Hinweises zu erörtern; sofern erforderlich, ist das
+Gutachten durch den Medizinischen Dienst unverzüglich entsprechend zu
+korrigieren. Prüfungen, die auf Grund von Satz 1 vor einer
+voraussichtlich vor dem 1. November 2026 erfolgenden Zuweisung oder
+auf Grund von Satz 2 vor einem voraussichtlich vor dem 1. November
+2026 erfolgenden Abschluss eines Versorgungsvertrags zu beauftragen
+sind, sind bis zum 30. September 2025 zu beauftragen. Der Medizinische
+Dienst hat die in Satz 7 genannten Prüfungen bis zum 30. Juni 2026
+abzuschließen.
 
-(4) Der Medizinische Dienst kann auch von den für die
-Krankenhausplanung zuständigen Stellen der Länder mit Kontrollen nach
-Absatz 1 in Verbindung mit Absatz 2 Satz 3 Nummer 3 beauftragt werden.
+(3) Die in Absatz 2 Satz 1 oder Satz 2 genannte beauftragende Stelle
+hat den Medizinischen Dienst mit Prüfungen zur Erfüllung der in Absatz
+1 Satz 1 Nummer 1 genannten Qualitätskriterien zu beauftragen, wenn
+die Übermittlung eines neuen Gutachtens des Medizinischen Dienstes
+über eine entsprechende Prüfung erforderlich ist, um die Aufhebung
+einer Zuweisung einer Leistungsgruppe auf Grund von § 6a Absatz 5 Satz
+1 Nummer 3 des Krankenhausfinanzierungsgesetzes oder die Kündigung
+eines Versorgungsvertrags auf Grund von § 110 Absatz 1 Satz 1 Nummer 2
+abzuwenden. Die Beauftragung hat so rechtzeitig zu erfolgen, dass das
+Gutachten voraussichtlich bis zum Ablauf der in § 6a Absatz 5 Satz 1
+Nummer 3 des Krankenhausfinanzierungsgesetzes oder der in § 110 Absatz
+1 Satz 1 Nummer 2 genannten Frist übermittelt werden kann.
+
+(4) Nach Abschluss des in Absatz 2 Satz 6 genannten Verfahrens
+übermittelt der Medizinische Dienst sein Gutachten über das Ergebnis
+einer Prüfung zu der Erfüllung der in Absatz 1 Satz 1 Nummer 1
+genannten Qualitätskriterien auf elektronischem Wege an
+
+1.  die für die Krankenhausplanung zuständige Landesbehörde,
+
+
+2.  die Landesverbände der Krankenkassen und die Ersatzkassen,
+
+
+3.  das Institut für Qualitätssicherung und Transparenz im
+    Gesundheitswesen und
+
+
+4.  das jeweils geprüfte Krankenhaus.
+
+
+
+Krankenhäuser, die an einem Krankenhausstandort ein nach § 135e Absatz
+2 Satz 2 maßgebliches Qualitätskriterium für eine nach § 6a Absatz 1
+Satz 1 des Krankenhausfinanzierungsgesetzes zugewiesene
+Leistungsgruppe über einen Zeitraum von mehr als einem Monat nicht
+erfüllen, haben dies unverzüglich auf elektronischem Wege mitzuteilen
+
+1.  der für die Krankenhausplanung zuständigen Landesbehörde,
+
+
+2.  den Landesverbänden der Krankenkassen und den Ersatzkassen sowie
+
+
+3.  dem zuständigen Medizinischen Dienst.
+
+
+
+Der Medizinische Dienst informiert das Institut für Qualitätssicherung
+und Transparenz im Gesundheitswesen unverzüglich über eine ihm nach
+Satz 2 Nummer 3 mitgeteilte Nichterfüllung eines Qualitätskriteriums.
+Stellt der Medizinische Dienst fest, dass ein Krankenhaus seiner
+Mitteilungspflicht nach Satz 2 nicht oder nicht rechtzeitig
+nachgekommen ist, so informiert er unverzüglich die in Satz 2 Nummer 1
+und 2 genannten Stellen sowie das Institut für Qualitätssicherung und
+Transparenz im Gesundheitswesen hierüber.
+
+(5) Krankenhäuser, die der Mitteilungspflicht nach Absatz 4 Satz 2
+nicht oder nicht rechtzeitig nachkommen, dürfen nach dem Beginn der
+zugrunde liegenden Nichterfüllung des für eine Leistungsgruppe
+maßgeblichen Qualitätskriteriums an dem jeweiligen Krankenhausstandort
+erbrachte Leistungen aus dieser Leistungsgruppe nicht abrechnen. Satz
+1 gilt nicht für die Abrechnung von Leistungen, die an
+Krankenhausstandorten erbracht wurden, für die die jeweilige
+Leistungsgruppe nach § 6a Absatz 1 Satz 1 in Verbindung mit Absatz 4
+Satz 1 des Krankenhausfinanzierungsgesetzes zugewiesen wurde oder für
+die die jeweilige Leistungsgruppe nach § 109 Absatz 1 Satz 1 in
+Verbindung mit Absatz 3a Satz 4 vereinbart wurde.
+
+(6) Krankenhäuser können den Medizinischen Dienst mit Prüfungen zu der
+Erfüllung der in Absatz 1 Satz 1 Nummer 2 genannten Strukturmerkmale
+beauftragen. Der Medizinische Dienst stellt das Ergebnis der Prüfung
+zu der Erfüllung der in Absatz 1 Satz 1 Nummer 2 genannten
+Strukturmerkmale durch Bescheid fest. Der Medizinische Dienst
+übermittelt dem jeweiligen geprüften Krankenhaus zusätzlich in
+elektronischer Form ein Gutachten über die Prüfung und, wenn dieses
+Krankenhaus die jeweiligen Strukturmerkmale erfüllt, eine
+Bescheinigung über das Ergebnis der Prüfung, die auch Angaben darüber
+enthält, für welchen Zeitraum die jeweiligen Strukturmerkmale als
+erfüllt angesehen werden. Das geprüfte Krankenhaus hat die in Satz 3
+genannte Bescheinigung den Landesverbänden der Krankenkassen und den
+Ersatzkassen jeweils anlässlich der Vereinbarungen nach § 6c oder § 11
+des Krankenhausentgeltgesetzes oder nach § 11 der
+Bundespflegesatzverordnung auf elektronischem Wege zu übermitteln.
+Krankenhäuser, die ein Strukturmerkmal, dessen Erfüllung in einer in
+Satz 1 genannten Prüfung festgestellt wurde, über einen Zeitraum von
+mehr als einem Monat nicht einhalten, haben dies unverzüglich auf
+elektronischem Wege mitzuteilen
+
+1.  den Landesverbänden der Krankenkassen und den Ersatzkassen,
+
+
+2.  dem Landesausschuss des Verbandes der Privaten Krankenversicherung e.
+    V. und
+
+
+3.  dem zuständigen Medizinischen Dienst.
+
+
+
+Krankenhäuser dürfen Leistungen nicht vereinbaren und nicht abrechnen,
+soweit diese Leistungen in einem Zeitraum erbracht werden, für den
+diesen Krankenhäusern keine in Satz 3 genannte Bescheinigung über die
+Erfüllung der Strukturmerkmale übermittelt wurde, die nach § 301
+Absatz 2 in dem vom Bundesinstitut für Arzneimittel und
+Medizinprodukte herausgegebenen Operationen- und Prozedurenschlüssel
+für einen Kode festgelegt sind, der den jeweiligen Leistungen zugrunde
+liegt.
+
+(7) Krankenhäuser können abweichend von Absatz 6 Satz 6 bis zum
+Abschluss einer Prüfung zu der Erfüllung der in Absatz 1 Satz 1 Nummer
+2 genannten Strukturmerkmale, längstens bis zum 30. Juni eines
+Kalenderjahres, erbrachte Leistungen abrechnen, wenn
+
+1.  sie bis zum 31. Dezember des jeweils vorhergehenden Kalenderjahres dem
+    zuständigen Medizinischen Dienst, den Landesverbänden der
+    Krankenkassen, den Ersatzkassen und dem Verband der Privaten
+    Krankenversicherung unter Angabe des betreffenden Standortes des
+    Krankenhauses auf elektronischem Wege angezeigt haben, dass sie die in
+    dem Operationen- und Prozedurenschlüssel nach § 301 Absatz 2
+    festgelegten Strukturmerkmale des Kodes, der der jeweiligen Leistung
+    zugrunde liegt, als erfüllt und nachweisbar ansehen, und
+
+
+2.  der der Leistung zugrunde liegende Kode des in § 301 Absatz 2
+    genannten Operationen- und Prozedurenschlüssels in dem jeweiligen
+    Kalenderjahr erstmals vergütungsrelevant wurde.
+
+
+
+Krankenhäuser können abweichend von Absatz 6 Satz 6 bis zum Abschluss
+einer Prüfung zu der Erfüllung der in Absatz 1 Satz 1 Nummer 2
+genannten Strukturmerkmale, längstens bis zu sechs Monate ab dem Tag
+der in Nummer 1 genannten Anzeige, erbrachte Leistungen abrechnen,
+wenn sie
+
+1.  dem zuständigen Medizinischen Dienst, den Landesverbänden der
+    Krankenkassen, den Ersatzkassen und dem Verband der Privaten
+    Krankenversicherung unter Angabe des betreffenden Standortes des
+    Krankenhauses auf elektronischem Wege angezeigt haben, dass sie die in
+    dem Operationen- und Prozedurenschlüssel nach § 301 Absatz 2
+    festgelegten Strukturmerkmale des Kodes, der der jeweiligen Leistung
+    zugrunde liegt, während der drei dieser Anzeige vorhergehenden
+    Kalendermonate als erfüllt und nachweisbar ansehen, und
+
+
+2.  in den letzten zwölf Monaten vor der in Nummer 1 genannten Anzeige
+    noch keine in Nummer 1 genannte Anzeige für Leistungen, denen dieser
+    Kode zugrunde liegt, vorgenommen haben.
+
+
+
+Krankenhäuser, denen nach Abschluss einer Prüfung zu der Erfüllung der
+in Absatz 1 Satz 1 Nummer 2 genannten Strukturmerkmale, mit der sie
+den Medizinischen Dienst nach einer in Satz 1 Nummer 1 oder Satz 2
+Nummer 1 genannten Anzeige beauftragt haben, keine in Absatz 6 Satz 3
+genannte Bescheinigung übermittelt wurde, haben dies unverzüglich auf
+elektronischem Wege den Landesverbänden der Krankenkassen, den
+Ersatzkassen und dem Verband der Privaten Krankenversicherung e. V.
+unter Angabe des betreffenden Standortes des Krankenhauses
+mitzuteilen.
+
+(8) Prüfungen zu der Erfüllung der in Absatz 1 Satz 1 Nummer 3
+genannten Qualitätsanforderungen sind nur durchzuführen, wenn sie
+aufgrund begründeter Anhaltspunkte, als Stichprobenprüfungen oder,
+soweit die Prüfungen die Erfüllung der Qualitätsanforderungen nach §
+136 Absatz 2 und 5 zum Gegenstand haben, aufgrund eines konkreten
+Anlasses erforderlich sind und wenn der Medizinische Dienst hiermit
+von einer in der Richtlinie nach § 137 Absatz 3 Satz 1 und 2
+festgelegten Stelle beauftragt wurde. Art und Umfang der vom
+Medizinischen Dienst durchzuführenden Prüfungen bestimmen sich
+abschließend nach dem jeweiligen Auftrag. Soweit der Auftrag auch eine
+in Absatz 1 Satz 1 Nummer 3 genannte Prüfung der Richtigkeit der
+Dokumentation beinhaltet, hat der Gemeinsame Bundesausschuss dem
+Medizinischen Dienst die Datensätze zu übermitteln, die das
+Krankenhaus im Rahmen der externen stationären Qualitätssicherung den
+zuständigen Stellen gemeldet hat und deren Richtigkeit der
+Medizinische Dienst zu prüfen hat.
+
+(9) Prüfungen zu der Erfüllung der in Absatz 1 Satz 1 Nummer 4
+genannten Qualitätsanforderungen sind durchzuführen, wenn der
+Medizinische Dienst hiermit von der für die Krankenhausplanung
+zuständigen Landesbehörde beauftragt wurde.
+
+(10) Werden bei Durchführung einer in Absatz 1 Satz 1 genannten
+Prüfung Anhaltspunkte für erhebliche Qualitätsmängel offenbar, die
+außerhalb des Prüfauftrags oder Prüfgegenstands liegen, so teilt der
+Medizinische Dienst diese Anhaltspunkte unverzüglich mit
+
+1.  dem Krankenhaus,
+
+
+2.  der für die Krankenhausplanung zuständigen Landesbehörde und
+
+
+3.  den Landesverbänden der Krankenkassen und den Ersatzkassen.
+
+
+
+Bei Prüfungen zu der Erfüllung der in Absatz 1 Satz 1 Nummer 3
+genannten Qualitätsanforderungen erfolgt die Mitteilung abweichend von
+Satz 1 an das Krankenhaus und die jeweilige beauftragende Stelle.
+
+(11) Abweichend von Absatz 4, Absatz 6 Satz 4 und 5 sowie Absatz 7
+Satz 3 ist von einer dort jeweils genannten Übermittlung, Mitteilung
+oder Information abzusehen, wenn die von der jeweiligen Übermittlung,
+Mitteilung oder Information umfassten Angaben und Unterlagen dem
+jeweiligen Empfänger in der in § 283 Absatz 5 Satz 1 genannten
+Datenbank zugänglich sind.
 
 
 #### § 275b Durchführung und Umfang von Qualitäts- und Abrechnungsprüfungen bei Leistungen der häuslichen Krankenpflege und außerklinischen Intensivpflege durch den Medizinischen Dienst und Verordnungsermächtigung
@@ -35547,7 +37076,8 @@ quartalsbezogenen Prüfquote.
 unbeanstandeter Abrechnungen unterhalb von 60 Prozent neben der
 Rückzahlung der Differenz zwischen dem ursprünglichen und dem
 geminderten Abrechnungsbetrag einen Aufschlag auf diese Differenz an
-die Krankenkassen zu zahlen. Dieser Aufschlag beträgt
+die Krankenkassen zu zahlen. Dieser Aufschlag beträgt bis zum 11.
+Dezember 2024
 
 1.  25 Prozent im Falle des Absatzes 2 Satz 4 Nummer 2,
 
@@ -35566,7 +37096,11 @@ Dienstes nach § 17c Absatz 2 Satz 2 Nummer 3 des
 Krankenhausfinanzierungsgesetzes wird kein Aufschlag erhoben. Die
 Geltendmachung des Aufschlags erfolgt im Wege elektronischer
 Datenübertragung; das Nähere vereinbart der Spitzenverband Bund der
-Krankenkassen mit der Deutschen Krankenhausgesellschaft.
+Krankenkassen mit der Deutschen Krankenhausgesellschaft. Ab dem 12.
+Dezember 2024 beträgt der Aufschlag 400 Euro. Maßgeblich für die
+Zuordnung einer beanstandeten Abrechnung, die zu einer Minderung des
+Abrechnungsbetrages führt, zu einem Quartal ist ab dem 12. Dezember
+2024 die jeweilige leistungsrechtliche Entscheidung der Krankenkasse.
 
 (4) Zur Umsetzung der Einzelfallprüfung nach den Vorgaben der Absätze
 1 bis 3 wird der Spitzenverband Bund der Krankenkassen verpflichtet,
@@ -35659,8 +37193,12 @@ zulässig
     tagesbezogener Pflegeentgelte entfällt,
 
 
-2.  bei der Prüfung der Einhaltung von Strukturmerkmalen, die nach § 275d
-    geprüft wurden.
+2.  bei der Prüfung der Erfüllung von Strukturmerkmalen, die nach § 275a
+    Absatz 1 Satz 1 Nummer 2 geprüft wurden,
+
+
+3.  hinsichtlich der Abrechnung der Vergütung des Vorhaltebudgets nach § 7
+    Absatz 1 Satz 1 Nummer 6b des Krankenhausentgeltgesetzes.
 
 
 
@@ -35673,104 +37211,6 @@ Rechtmäßigkeit der Krankenhausabrechnung sind nicht zulässig.
 Vereinbarungen auf Grundlage von § 17c Absatz 2 Satz 1 und 2 Nummer 3
 und 7 sowie Absatz 2b des Krankenhausfinanzierungsgesetzes bleiben
 unberührt.
-
-
-#### § 275d Prüfung von Strukturmerkmalen
-
-(1) Krankenhäuser haben die Einhaltung von Strukturmerkmalen auf Grund
-des vom Bundesinstitut für Arzneimittel und Medizinprodukte
-herausgegebenen Operationen- und Prozedurenschlüssels nach § 301
-Absatz 2 durch den Medizinischen Dienst begutachten zu lassen, bevor
-sie entsprechende Leistungen abrechnen. Grundlage der Begutachtung
-nach Satz 1 ist die Richtlinie nach § 283 Absatz 2 Satz 1 Nummer 3.
-Krankenhäuser haben die für die Begutachtung erforderlichen personen-
-und einrichtungsbezogenen Daten an den Medizinischen Dienst zu
-übermitteln. Die Begutachtungen nach Satz 1 erfolgen, soweit in den
-Richtlinien nach § 283 Absatz 2 Satz 1 Nummer 3 nichts Abweichendes
-bestimmt wird, durch den Medizinischen Dienst, der örtlich für das zu
-begutachtende Krankenhaus zuständig ist.
-
-(1a) Krankenhäuser können Leistungen abweichend von Absatz 1 Satz 1
-bis zum Abschluss der Strukturprüfung, längstens bis zum 30. Juni
-eines Jahres, abrechnen, wenn
-
-1.  sie bis zum 31. Dezember des jeweiligen Vorjahres dem zuständigen
-    Medizinischen Dienst, den Landesverbänden der Krankenkassen, den
-    Ersatzkassen und dem Landesausschuss des Verbandes der Privaten
-    Krankenversicherung unter Angabe des Standortes des Krankenhauses
-    angezeigt haben, dass sie die Strukturmerkmale des Kodes des
-    Operationen- und Prozedurenschlüssels nach § 301 Absatz 2, der der
-    jeweiligen Leistung zugrunde liegt, als erfüllt und nachweisbar
-    ansehen, und
-
-
-2.  der der Leistung zugrunde liegende Kode des Operationen- und
-    Prozedurenschlüssels nach § 301 Absatz 2 in dem Jahr erstmals
-    vergütungsrelevant wurde.
-
-
-
-Krankenhäuser können ab dem 30. Juni 2023 Leistungen abweichend von
-Absatz 1 Satz 1 bis zum Abschluss der Strukturprüfung, längstens bis
-zu sechs Monate nach der Anzeige nach Nummer 1, abrechnen, wenn sie
-
-1.  dem zuständigen Medizinischen Dienst, den Landesverbänden der
-    Krankenkassen, den Ersatzkassen und dem Landesausschuss des Verbandes
-    der Privaten Krankenversicherung unter Angabe des Standortes des
-    Krankenhauses angezeigt haben, dass sie die Strukturmerkmale des Kodes
-    des Operationen- und Prozedurenschlüssels nach § 301 Absatz 2, der der
-    jeweiligen Leistung zugrunde liegt, über einen Zeitraum von drei
-    Kalendermonaten vor dieser Anzeige als erfüllt und nachweisbar
-    ansehen, und
-
-
-2.  in den letzten zwölf Monaten vor der Anzeige nach Nummer 1 noch keine
-    Anzeige nach Nummer 1 für Leistungen nach diesem Kode vorgenommen
-    haben.
-
-
-
-
-(2) Die Strukturprüfung wird durch einen Bescheid abgeschlossen. Die
-Krankenhäuser erhalten vom Medizinischen Dienst in schriftlicher oder
-elektronischer Form das Gutachten und bei Einhaltung der
-Strukturmerkmale eine Bescheinigung über das Ergebnis der Prüfung, die
-auch Angaben darüber enthält, für welchen Zeitraum die Einhaltung der
-jeweiligen Strukturmerkmale als erfüllt angesehen wird.
-
-(3) Die Krankenhäuser haben die Bescheinigung nach Absatz 2 den
-Landesverbänden der Krankenkassen und den Ersatzkassen jeweils
-anlässlich der Vereinbarungen nach § 11 des Krankenhausentgeltgesetzes
-oder nach § 11 der Bundespflegesatzverordnung auf elektronischem Wege
-zu übermitteln. Für die Vereinbarung für das Jahr 2022 ist die
-Bescheinigung spätestens bis zum 31. Dezember 2021 zu übermitteln.
-Krankenhäuser, die eines oder mehrere der nachgewiesenen
-Strukturmerkmale über einen Zeitraum von mehr als einem Monat nicht
-mehr einhalten, haben dies unverzüglich den Landesverbänden der
-Krankenkassen und den Ersatzkassen sowie dem zuständigen Medizinischen
-Dienst mitzuteilen. Krankenhäusern, denen nach Abschluss der
-Strukturprüfung, die sie nach einer Anzeige nach Absatz 1a beantragt
-haben, keine Bescheinigung nach Absatz 2 erteilt wurde, haben dies
-unverzüglich den Landesverbänden der Krankenkassen, den Ersatzkassen
-und dem Landesausschuss des Verbandes der Privaten Krankenversicherung
-unter Angabe des Standortes des Krankenhauses mitzuteilen.
-
-(4) Krankenhäuser, die die strukturellen Voraussetzungen nach Absatz 1
-nicht erfüllen, dürfen die Leistungen ab dem Jahr 2022 nicht
-vereinbaren und nicht abrechnen. Soweit Krankenhäusern die
-Bescheinigung über die Einhaltung der Strukturmerkmale nach Absatz 2
-aus von ihnen nicht zu vertretenden Gründen erst nach dem 31. Dezember
-2021 vorliegt, können diese Krankenhäuser im Jahr 2022 bis zum
-Abschluss einer Strukturprüfung bislang erbrachte Leistungen weiterhin
-vereinbaren und abrechnen. Abweichend von Satz 1 können Krankenhäuser
-im Jahr 2022 bis zum Abschluss der Strukturprüfung erbrachte
-Leistungen vereinbaren und abrechnen, wenn sie die Strukturprüfung für
-Leistungen nach dem Kode 8-01a des Operationen- und
-Prozedurenschlüssels nach § 301 Absatz 2 bis zum 30. Juni 2022
-beantragt haben.
-
-(5) Die Kosten des Medizinischen Dienstes für eine Begutachtung werden
-entsprechend § 280 Absatz 1 durch eine Umlage aufgebracht.
 
 
 #### § 276 Zusammenarbeit
@@ -35787,27 +37227,28 @@ Buches.
 (2) Der Medizinische Dienst darf Sozialdaten erheben und speichern
 sowie einem anderen Medizinischen Dienst übermitteln, soweit dies für
 die Prüfungen, Beratungen und gutachtlichen Stellungnahmen nach den §§
-275 bis 275d erforderlich ist. Haben die Krankenkassen oder der
+275 bis 275c erforderlich ist. Haben die Krankenkassen oder der
 Medizinische Dienst für eine gutachtliche Stellungnahme oder Prüfung
-nach § 275 Absatz 1 bis 3 und 3b, § 275c oder § 275d erforderliche
-versichertenbezogene Daten bei den Leistungserbringern unter Nennung
-des Begutachtungszwecks angefordert, so sind die Leistungserbringer
-verpflichtet, diese Daten unmittelbar an den Medizinischen Dienst zu
-übermitteln. Die rechtmäßig erhobenen und gespeicherten Sozialdaten
-dürfen nur für die in den §§ 275 bis 275d genannten Zwecke verarbeitet
-werden, für andere Zwecke, soweit dies durch Rechtsvorschriften des
-Sozialgesetzbuchs angeordnet oder erlaubt ist. Die Sozialdaten sind
-nach fünf Jahren zu löschen. Die §§ 286, 287 und 304 Absatz 1 Satz 2
-und Absatz 2 sowie § 35 des Ersten Buches gelten für den Medizinischen
-Dienst entsprechend. Der Medizinische Dienst hat Sozialdaten zur
-Identifikation des Versicherten getrennt von den medizinischen
-Sozialdaten des Versicherten zu speichern. Durch technische und
-organisatorische Maßnahmen ist sicherzustellen, dass die Sozialdaten
-nur den Personen zugänglich sind, die sie zur Erfüllung ihrer Aufgaben
-benötigen. Der Schlüssel für die Zusammenführung der Daten ist vom
-Beauftragten für den Datenschutz des Medizinischen Dienstes
-aufzubewahren und darf anderen Personen nicht zugänglich gemacht
-werden. Jede Zusammenführung ist zu protokollieren.
+nach § 275 Absatz 1 bis 3 und 3b, § 275a Absatz 1 Satz 1 Nummer 2 oder
+§ 275c erforderliche versichertenbezogene Daten bei den
+Leistungserbringern unter Nennung des Begutachtungszwecks angefordert,
+so sind die Leistungserbringer verpflichtet, diese Daten unmittelbar
+an den Medizinischen Dienst zu übermitteln. Die rechtmäßig erhobenen
+und gespeicherten Sozialdaten dürfen nur für die in den §§ 275 bis
+275c genannten Zwecke verarbeitet werden, für andere Zwecke, soweit
+dies durch Rechtsvorschriften des Sozialgesetzbuchs angeordnet oder
+erlaubt ist. Die Sozialdaten sind nach fünf Jahren zu löschen. Die §§
+286, 287 und 304 Absatz 1 Satz 2 und Absatz 2 sowie § 35 des Ersten
+Buches gelten für den Medizinischen Dienst entsprechend. Der
+Medizinische Dienst hat Sozialdaten zur Identifikation des
+Versicherten getrennt von den medizinischen Sozialdaten des
+Versicherten zu speichern. Durch technische und organisatorische
+Maßnahmen ist sicherzustellen, dass die Sozialdaten nur den Personen
+zugänglich sind, die sie zur Erfüllung ihrer Aufgaben benötigen. Der
+Schlüssel für die Zusammenführung der Daten ist vom Beauftragten für
+den Datenschutz des Medizinischen Dienstes aufzubewahren und darf
+anderen Personen nicht zugänglich gemacht werden. Jede Zusammenführung
+ist zu protokollieren.
 
 (2a) Ziehen die Krankenkassen den Medizinischen Dienst oder einen
 anderen Gutachterdienst nach § 275 Abs. 4 zu Rate, können sie ihn mit
@@ -35839,24 +37280,27 @@ befugt, zwischen 8.00 und 18.00 Uhr die Räume der Krankenhäuser zu
 betreten, um dort die zur Prüfung erforderlichen Unterlagen
 einzusehen.
 
-(4a) Der Medizinische Dienst ist im Rahmen der Kontrollen nach § 275a
-befugt, zu den üblichen Geschäfts- und Betriebszeiten die Räume des
-Krankenhauses zu betreten, die erforderlichen Unterlagen einzusehen
-und personenbezogene Daten zu verarbeiten, soweit dies in der
-Richtlinie des Gemeinsamen Bundesausschusses nach § 137 Absatz 3
-festgelegt und für die Kontrollen erforderlich ist. Absatz 2 Satz 3
-bis 9 gilt für die Durchführung von Kontrollen nach § 275a
-entsprechend. Das Krankenhaus ist zur Mitwirkung verpflichtet und hat
-dem Medizinischen Dienst Zugang zu den Räumen und den Unterlagen zu
-verschaffen sowie die Voraussetzungen dafür zu schaffen, dass er die
-Kontrollen nach § 275a ordnungsgemäß durchführen kann; das Krankenhaus
-ist hierbei befugt und verpflichtet, dem Medizinischen Dienst Einsicht
-in personenbezogene Daten zu gewähren oder diese auf Anforderung des
+(4a) Der Medizinische Dienst ist im Rahmen der Prüfungen nach § 275a
+Absatz 1 Satz 1 Nummer 1, 3 und 4 befugt, zu den üblichen Geschäfts-
+und Betriebszeiten die Räume des Krankenhauses zu betreten, die
+erforderlichen Unterlagen einzusehen und personenbezogene Daten zu
+verarbeiten, soweit dies in der Richtlinie des Gemeinsamen
+Bundesausschusses nach § 137 Absatz 3 oder in der Richtlinie des
+Medizinischen Dienstes Bund nach § 283 Absatz 2 Satz 1 Nummer 3
+festgelegt und für die Prüfungen erforderlich ist. Absatz 2 Satz 3 bis
+9 gilt für die Durchführung von Prüfungen nach § 275a Absatz 1 Satz 1
+Nummer 1, 3 und 4 entsprechend. Das Krankenhaus ist zur Mitwirkung
+verpflichtet und hat dem Medizinischen Dienst Zugang zu den Räumen und
+den Unterlagen zu verschaffen sowie die Voraussetzungen dafür zu
+schaffen, dass er die Prüfungen nach § 275a Absatz 1 Satz 1 Nummer 1,
+3 und 4 ordnungsgemäß durchführen kann; das Krankenhaus ist hierbei
+befugt und verpflichtet, dem Medizinischen Dienst Einsicht in
+personenbezogene Daten zu gewähren oder diese auf Anforderung des
 Medizinischen Dienstes zu übermitteln. Die Sätze 1 und 2 gelten für
-Kontrollen nach § 275a Absatz 4 nur unter der Voraussetzung, dass das
-Landesrecht entsprechende Mitwirkungspflichten und
-datenschutzrechtliche Befugnisse der Krankenhäuser zur Gewährung von
-Einsicht in personenbezogene Daten vorsieht.
+Prüfungen nach § 275a Absatz 1 Satz 1 Nummer 4 nur unter der
+Voraussetzung, dass das Landesrecht entsprechende Mitwirkungspflichten
+und datenschutzrechtliche Befugnisse der Krankenhäuser zur Gewährung
+von Einsicht in personenbezogene Daten vorsieht.
 
 (5) Wenn sich im Rahmen der Überprüfung der Feststellungen von
 Arbeitsunfähigkeit (§ 275 Abs. 1 Nr. 3b, Abs. 1a und Abs. 1b) aus den
@@ -35896,19 +37340,19 @@ Ergebnis der Begutachtung, soweit diese keine zusätzlichen, vom
 Medizinischen Dienst erhobenen versichertenbezogenen Daten enthalten.
 Der Medizinische Dienst hat den Versicherten die sie betreffenden
 Gutachten nach § 275 Absatz 3 Satz 1 Nummer 4 schriftlich oder
-elektronisch vollständig zu übermitteln. Nach Abschluss der Kontrollen
-nach § 275a hat der Medizinische Dienst die Kontrollergebnisse dem
-geprüften Krankenhaus und dem jeweiligen Auftraggeber mitzuteilen.
-Soweit in der Richtlinie nach § 137 Absatz 3 Fälle festgelegt sind, in
-denen Dritte wegen erheblicher Verstöße gegen Qualitätsanforderungen
-unverzüglich einrichtungsbezogen über das Kontrollergebnis zu
-informieren sind, hat der Medizinische Dienst sein Kontrollergebnis
-unverzüglich an die in dieser Richtlinie abschließend benannten
-Dritten zu übermitteln. Soweit erforderlich und in der Richtlinie des
-Gemeinsamen Bundesausschusses nach § 137 Absatz 3 vorgesehen, dürfen
-diese Mitteilungen auch personenbezogene Angaben enthalten; in der
-Mitteilung an den Auftraggeber und den Dritten sind personenbezogene
-Daten zu anonymisieren.
+elektronisch vollständig zu übermitteln. Nach Abschluss der Prüfungen
+nach § 275a Absatz 1 Satz 1 Nummer 3 und 4 hat der Medizinische Dienst
+die Prüfergebnisse dem geprüften Krankenhaus und der jeweiligen
+beauftragenden Stelle mitzuteilen. Soweit in der Richtlinie nach § 137
+Absatz 3 Fälle festgelegt sind, in denen Dritte wegen erheblicher
+Verstöße gegen Qualitätsanforderungen unverzüglich einrichtungsbezogen
+über das Prüfergebnis zu informieren sind, hat der Medizinische Dienst
+sein Prüfergebnis unverzüglich an die in dieser Richtlinie
+abschließend benannten Dritten zu übermitteln. Soweit erforderlich und
+in der Richtlinie des Gemeinsamen Bundesausschusses nach § 137 Absatz
+3 vorgesehen, dürfen diese Mitteilungen auch personenbezogene Angaben
+enthalten; in der Mitteilung an den Auftraggeber und den Dritten sind
+personenbezogene Daten zu anonymisieren.
 
 (2) Die Krankenkasse hat, solange ein Anspruch auf Fortzahlung des
 Arbeitsentgelts besteht, dem Arbeitgeber und dem Versicherten das
@@ -35936,13 +37380,13 @@ jeweilige Aufteilung beibehalten werden. § 94 Absatz 1a bis 4 des
 Zehnten Buches gilt entsprechend.
 
 (2) Die Fachaufgaben des Medizinischen Dienstes werden von Ärztinnen
-und Ärzten, Pflegefachkräften sowie Angehörigen anderer geeigneter
+und Ärzten, Pflegefachpersonen sowie Angehörigen anderer geeigneter
 Berufe im Gesundheitswesen wahrgenommen. Die Medizinischen Dienste
 stellen sicher, dass bei der Beteiligung unterschiedlicher
 Berufsgruppen die Gesamtverantwortung bei der Begutachtung
 medizinischer Sachverhalte bei ärztlichen Gutachterinnen und
 Gutachtern und bei ausschließlich pflegefachlichen Sachverhalten bei
-Pflegefachkräften liegt. § 18 Absatz 7 des Elften Buches bleibt
+Pflegefachpersonen liegt. § 18 Absatz 7 des Elften Buches bleibt
 unberührt.
 
 (3) Bei jedem Medizinischen Dienst wird eine unabhängige Ombudsperson
@@ -35958,10 +37402,11 @@ Internetseite. Das Nähere regelt die Satzung nach § 279 Absatz 2 Satz
 1 Nummer 1.
 
 (4) Die Medizinischen Dienste berichten dem Medizinischen Dienst Bund
-zweijährlich zum 1. April über
+bis zum 1. April jedes zweiten Kalenderjahres über
 
 1.  die Anzahl und die Ergebnisse der Begutachtungen nach § 275 und der
-    Prüfungen nach den §§ 275a bis 275d,
+    Prüfungen nach § 17c Absatz 1a des Krankenhausfinanzierungsgesetzes, §
+    275a Absatz 1 Satz 1 Nummer 1, 3 und 4, § 275b und § 275c,
 
 
 2.  die Personalausstattung der Medizinischen Dienste und
@@ -35973,8 +37418,30 @@ zweijährlich zum 1. April über
 
 
 
-Das Nähere zum Verfahren regeln die Richtlinien nach § 283 Absatz 2
-Satz 1 Nummer 7 und 8.
+Die Medizinischen Dienste berichten dem Medizinischen Dienst Bund bis
+zum 1. April eines jeden Kalenderjahres über die Anzahl und Ergebnisse
+der Prüfungen nach § 275a Absatz 1 Satz 1 Nummer 2, differenziert nach
+den einzelnen in dem Operationen- und Prozedurenschlüssel nach § 301
+Absatz 2 festgelegten Strukturmerkmalen einschließlich der Anzahl der
+in § 275a Absatz 7 Satz 1 Nummer 1 und der in § 275a Absatz 7 Satz 2
+Nummer 1 genannten Anzeigen sowie der Anzahl der in § 275a Absatz 6
+Satz 5 und der in § 275a Absatz 7 Satz 3 genannten Mitteilungen. Das
+Nähere zum Verfahren hinsichtlich der in den Sätzen 1 und 2 genannten
+Berichte regeln die Richtlinien nach § 283 Absatz 2 Satz 1 Nummer 7
+und 8. Die Medizinischen Dienste übermitteln dem Medizinischen Dienst
+Bund regelmäßig die nach der Richtlinie nach § 283 Absatz 2 Satz 1
+Nummer 3 für die in § 283 Absatz 5 genannte Datenbank erforderlichen
+Daten.
+
+(5) Die Medizinischen Dienste, die gemäß § 278 Absatz 1 Satz 2 in der
+am 31. Dezember 2019 geltenden Fassung in Verbindung mit Artikel 73
+Absatz 4 des Gesundheits-Reformgesetzes Körperschaften des
+öffentlichen Rechts mit Dienstherrenfähigkeit sind, verlieren ihre
+Dienstherrenfähigkeit, wenn die Notwendigkeit hierfür nach Artikel 73
+Absatz 4 Satz 1 und Absatz 5 des Gesundheits-Reformgesetzes nicht mehr
+besteht. Die für die Sozialversicherung zuständige oberste
+Verwaltungsbehörde des Landes stellt den Zeitpunkt fest, zu dem die
+Dienstherrenfähigkeit entfällt, und macht ihn öffentlich bekannt.
 
 
 #### § 279 Verwaltungsrat und Vorstand
@@ -36118,11 +37585,12 @@ bis 5, § 64 Absatz 1 und 2 Satz 2, Absatz 3 Satz 2 und 3 und die §§
 #### § 280 Finanzierung, Haushalt, Aufsicht
 
 (1) Die erforderlichen Mittel zur Finanzierung der Aufgaben des
-Medizinischen Dienstes nach § 275 Absatz 1 bis 3b und den §§ 275a bis
-275d werden von den Krankenkassen nach § 279 Absatz 4 Satz 1 durch
-eine Umlage aufgebracht. Die Mittel sind im Verhältnis der Zahl der
-Mitglieder der einzelnen Krankenkassen mit Wohnort im Einzugsbereich
-des Medizinischen Dienstes aufzuteilen. Die Zahl der nach Satz 2
+Medizinischen Dienstes nach § 275 Absatz 1 bis 3b, § 275a Absatz 1
+Satz 1 Nummer 1 bis 3, den §§ 275b und 275c werden von den
+Krankenkassen nach § 279 Absatz 4 Satz 1 durch eine Umlage
+aufgebracht. Die Mittel sind im Verhältnis der Zahl der Mitglieder der
+einzelnen Krankenkassen mit Wohnort im Einzugsbereich des
+Medizinischen Dienstes aufzuteilen. Die Zahl der nach Satz 2
 maßgeblichen Mitglieder der Krankenkassen ist nach dem Vordruck KM 6
 der Statistik über die Versicherten in der gesetzlichen
 Krankenversicherung jeweils zum 1. Juli eines Jahres zu bestimmen. Die
@@ -36132,13 +37600,13 @@ Pflegekassen tragen die Hälfte der Umlage nach Satz 1.
 Gutachterdienste im Rahmen der ihnen nach § 275 Absatz 4 von den
 Krankenkassen übertragenen Aufgaben sind von dem jeweiligen
 Auftraggeber durch aufwandsorientierte Nutzerentgelte zu vergüten.
-Dies gilt auch für Kontrollen des Medizinischen Dienstes nach § 275a
-Absatz 4. Eine Verwendung von Umlagemitteln nach Absatz 1 Satz 1 zur
-Finanzierung dieser Aufgaben ist auszuschließen. Werden dem
-Medizinischen Dienst Aufgaben übertragen, die die Prüfung von
-Ansprüchen gegenüber anderen Stellen betreffen, die nicht zur Leistung
-der Umlage nach Absatz 1 Satz 1 verpflichtet sind, sind ihm die
-hierdurch entstehenden Kosten von diesen Stellen zu erstatten.
+Dies gilt auch für Prüfungen des Medizinischen Dienstes nach § 275a
+Absatz 1 Satz 1 Nummer 4. Eine Verwendung von Umlagemitteln nach
+Absatz 1 Satz 1 zur Finanzierung dieser Aufgaben ist auszuschließen.
+Werden dem Medizinischen Dienst Aufgaben übertragen, die die Prüfung
+von Ansprüchen gegenüber anderen Stellen betreffen, die nicht zur
+Leistung der Umlage nach Absatz 1 Satz 1 verpflichtet sind, sind ihm
+die hierdurch entstehenden Kosten von diesen Stellen zu erstatten.
 
 (3) Für das Haushalts- und Rechnungswesen einschließlich der
 Statistiken gelten die §§ 67 bis 70 Absatz 1 des Vierten Buches, § 72
@@ -36317,12 +37785,14 @@ für die Tätigkeit der Medizinischen Dienste nach diesem Buch
 2.  zur Sicherstellung einer einheitlichen Begutachtung,
 
 
-3.  über die regelmäßigen Begutachtungen zur Einhaltung von
-    Strukturmerkmalen nach § 275d einschließlich der Festlegung der
-    fachlich erforderlichen Zeitabstände für die Begutachtung und der
-    Folgen, wenn Strukturmerkmale nach Mitteilung durch das Krankenhaus
-    nicht mehr eingehalten werden; diese Richtlinie ist erstmals bis zum
-    28\. Februar 2021 zu erlassen und bei Bedarf anzupassen,
+3.  über die Prüfungen nach § 275a Absatz 1 Satz 1 Nummer 1 und 2
+    einschließlich der Festlegung der fachlich erforderlichen Zeitabstände
+    von in der Regel drei Jahren für die Prüfungen nach § 275a Absatz 1
+    Satz 1 Nummer 2, der Folgen, die eintreten, wenn nach einer in § 275a
+    Absatz 6 Satz 5 genannten Mitteilung Strukturmerkmale durch das
+    betreffende Krankenhaus nicht mehr eingehalten werden, und der
+    Festlegung geeigneter Maßnahmen, um die Prüfungen soweit möglich zu
+    vereinheitlichen und aufwandsarm auszugestalten,
 
 
 4.  zur Personalbedarfsermittlung mit für alle Medizinischen Dienste
@@ -36347,23 +37817,32 @@ für die Tätigkeit der Medizinischen Dienste nach diesem Buch
 
 8.  über die regelmäßige Berichterstattung der Medizinischen Dienste und
     des Medizinischen Dienstes Bund über ihre Tätigkeit und
-    Personalausstattung sowie
+    Personalausstattung,
 
 
-9.  über Grundsätze zur Fort- und Weiterbildung.
+9.  über Grundsätze zur Fort- und Weiterbildung sowie
+
+
+10. zur in Absatz 1 Satz 1 genannten Zusammenarbeit und einheitlichen
+    Aufgabenwahrnehmung.
 
 
 
-Der Medizinische Dienst Bund hat folgenden Stellen Gelegenheit zur
-Stellungnahme zu geben, soweit sie von der jeweiligen Richtlinie
-betroffen sind:
+Der Medizinische Dienst Bund hat bis zum 12. Juni 2025 die Richtlinie
+nach Satz 1 Nummer 3 zu erlassen oder anzupassen, soweit dies auf
+Grund der Änderung dieses Buches durch das
+Krankenhausversorgungsverbesserungsgesetz vom 5. Dezember 2024 (BGBl.
+2024 I Nr. 400) erforderlich ist. Der Medizinische Dienst Bund hat
+folgenden Stellen Gelegenheit zur Stellungnahme zu geben, soweit sie
+von der jeweiligen Richtlinie betroffen sind:
 
 1.  dem Spitzenverband Bund der Krankenkassen,
 
 
 2.  der Bundesärztekammer, der Bundespsychotherapeutenkammer und der
-    Bundeszahnärztekammer sowie den Verbänden der Pflegeberufe auf
-    Bundesebene und den für die Wahrnehmung der Interessen der
+    Bundeszahnärztekammer sowie den maßgeblichen Organisationen der
+    Pflegeberufe auf Bundesebene im Sinne des § 118a Absatz 1 Satz 1 des
+    Elften Buches und den für die Wahrnehmung der Interessen der
     Patientinnen und Patienten und der Selbsthilfe chronisch kranker und
     behinderter Menschen maßgeblichen Organisationen,
 
@@ -36391,18 +37870,88 @@ in der bis zum 31. Dezember 2019 geltenden Fassung erlassen und
 abgegeben hat, gelten bis zu ihrer Änderung oder Aufhebung durch den
 Medizinischen Dienst Bund fort.
 
+(2a) In der Richtlinie nach Absatz 2 Satz 1 Nummer 4 ist eine
+bundeseinheitliche Methodik und Vorgehensweise nach angemessenen und
+anerkannten Methoden der Personalbedarfsermittlung vorzugeben. Hierfür
+sind geeignete Gruppen der Aufgaben der Medizinischen Dienste zu
+definieren. Die für den Erlass der Richtlinie nach Absatz 2 Satz 1
+Nummer 4 erforderlichen Daten sind von allen Medizinischen Diensten
+unter Koordinierung des Medizinischen Dienstes Bund nach einer
+bundeseinheitlichen Methodik und Vorgehensweise zu erheben und für
+alle Medizinischen Dienste einheitlich durch den Medizinischen Dienst
+Bund unter fachlicher Beteiligung der Medizinischen Dienste
+anonymisiert auszuwerten. Die Richtlinie hat mindestens
+aufgabenbezogene Richtwerte für die Aufgabengruppen der Prüfungen von
+Krankenhausleistungen nach § 275c, der Begutachtungen zur Beseitigung
+von Zweifeln an der Arbeitsunfähigkeit nach § 275 Absatz 1 Satz 1
+Nummer 3 Buchstabe b sowie der Prüfungen von medizinischen
+Rehabilitations- und Vorsorgeleistungen nach § 275 Absatz 2 Nummer 1
+einzubeziehen.
+
 (3) Der Medizinische Dienst Bund nimmt auch die ihm nach § 53d des
 Elften Buches zugewiesenen Aufgaben wahr. Insoweit richten sich die
 Verfahren nach den Vorschriften des Elften Buches. Der Vorstand
 beschließt die Richtlinien im Benehmen mit dem Verwaltungsrat.
 
 (4) Der Medizinische Dienst Bund fasst die Berichte der Medizinischen
-Dienste nach § 278 Absatz 4 in einem Bericht zusammen, legt diesen dem
-Bundesministerium für Gesundheit zweijährlich zum 1. Juni vor und
-veröffentlicht den Bericht zweijährlich zum 1. September. Das Nähere
-regelt die Richtlinie nach Absatz 2 Satz 1 Nummer 8.
+Dienste nach
 
-(5) Die Medizinischen Dienste haben den Medizinischen Dienst Bund bei
+1.  § 278 Absatz 4 Satz 1 in einem Bericht zusammen, legt diesen dem
+    Bundesministerium für Gesundheit bis zum 1. Juni jedes zweiten
+    Kalenderjahres vor und veröffentlicht den Bericht bis zum 1. September
+    des jeweiligen Kalenderjahres,
+
+
+2.  § 278 Absatz 4 Satz 2 in einem Bericht zusammen, legt diesen dem
+    Bundesministerium für Gesundheit bis zum 1. Juni eines jeden
+    Kalenderjahres vor und veröffentlicht den Bericht bis zum 1. September
+    des jeweiligen Kalenderjahres.
+
+
+
+Das Nähere regelt der Medizinische Dienst Bund in der Richtlinie nach
+Absatz 2 Satz 1 Nummer 8. Der Medizinische Dienst Bund hat die
+Berichte der Medizinischen Dienste nach § 278 Absatz 4 Satz 2 seiner
+in § 17c Absatz 7 Satz 3 des Krankenhausfinanzierungsgesetzes
+genannten Stellungnahme zugrunde zu legen.
+
+(5) Der Medizinische Dienst Bund führt eine Datenbank zu den Prüfungen
+nach § 275a Absatz 1 Satz 1. In der Datenbank auszuweisen sind
+differenziert nach Krankenhausstandorten
+
+1.  das jeweilige Prüfergebnis mit Informationen zur Erfüllung oder
+    Nichterfüllung der Qualitätskriterien, Strukturmerkmale und
+    Qualitätsanforderungen, einschließlich der nach § 275a Absatz 4 Satz 1
+    und Absatz 6 Satz 3 zu übermittelnden Gutachten und Bescheinigungen,
+
+
+2.  die in § 275a Absatz 4 Satz 2 und 3, Absatz 6 Satz 5 und Absatz 7 Satz
+    3 genannten Mitteilungen und Informationen sowie
+
+
+3.  die in § 275a Absatz 4 Satz 4 genannten Feststellungen.
+
+
+
+§ 135d Absatz 3 Satz 2 gilt entsprechend. Die Verarbeitung und
+Veröffentlichung der Daten in der Datenbank erfolgt ohne
+Personenbezug. Die Datenbank ist fortlaufend auf Basis neuer
+Erkenntnisse der Medizinischen Dienste zu aktualisieren. Die
+Medizinischen Dienste erhalten Zugang zu den für sie entsprechend
+ihrer örtlichen Zuständigkeit relevanten und für ihre Prüfungen nach §
+275a Absatz 1 Satz 1 erforderlichen Daten. Der Medizinische Dienst
+Bund gewährt hinsichtlich der in § 275a Absatz 11 genannten
+Übermittlungen, Mitteilungen oder Informationen dem jeweiligen
+Empfänger Zugang zu den für ihn entsprechend seiner örtlichen
+Zuständigkeit relevanten und für die Erfüllung seiner gesetzlichen
+Aufgaben erforderlichen Daten. Der Medizinische Dienst Bund regelt das
+Nähere zum Verfahren, zur Art und zum Umfang des Zugangs zu der
+Datenbank sowie zum Umfang, Format und zur Spezifikation der für die
+Datenbank erforderlichen Daten bis zum 12. Dezember 2025 in der
+Richtlinie nach § 283 Absatz 2 Satz 1 Nummer 3. Der Medizinische
+Dienst Bund richtet die Datenbank bis zum 12. Dezember 2025 ein.
+
+(6) Die Medizinischen Dienste haben den Medizinischen Dienst Bund bei
 der Wahrnehmung seiner Aufgaben zu unterstützen.
 
 
@@ -36930,18 +38479,25 @@ und deren persönlicher Identifikationsnummer (PIN) an den Versicherten
 die Daten nach § 34 Absatz 1 Satz 1 Nummer 1 bis 5, 9 und 11 des
 Bundesmeldegesetzes aus dem Melderegister abrufen.
 
-(7) Spätestens ab dem 1. Januar 2022 stellen die Krankenkassen den
-Versicherten gemäß den Festlegungen der Gesellschaft für Telematik ein
-technisches Verfahren barrierefrei zur Verfügung, welches die
-Anforderungen nach § 336 Absatz 4 erfüllt. Spätestens ab dem 1.
-Februar 2024 stellen die Krankenkassen den Versicherten gemäß den
+(7) Die Krankenkassen stellen den Versicherten gemäß den Festlegungen
+der Gesellschaft für Telematik ein technisches Verfahren barrierefrei
+zur Verfügung, welches die Anforderungen nach § 336 Absatz 4 erfüllt.
+Mit Zustimmung des Versicherten sind die Krankenkassen hierbei befugt,
+zur Prüfung der Identität des Versicherten Daten entsprechend den
+Vorgaben des § 20 Absatz 3a Satz 1 des Personalausweisgesetzes, des
+§ 16a Absatz 3 Satz 1 des Passgesetzes und des § 78 Absatz 7 Satz 3
+des Aufenthaltsgesetzes zu den betroffenen Datenkategorien und deren
+Verarbeitung auszulesen und zu verwenden; Entsprechendes gilt für das
+Auslesen und Verwenden von Daten aus einem amtlichen Ausweis oder Pass
+eines anderen Staates, mit dem die Pass- und Ausweispflicht im Inland
+erfüllt wird. Die Krankenkassen stellen den Versicherten gemäß den
 Festlegungen der Gesellschaft für Telematik ein technisches und
 automatisiertes Verfahren barrierefrei zur Verfügung, um aus der
 Komponente nach § 360 Absatz 10 Satz 1 heraus die Nutzung von
 Verfahren zur Wahrnehmung der Zugriffsrechte nach § 336 Absatz 1 zu
 beantragen. Die Krankenkassen haben die Voraussetzungen dafür zu
 schaffen, dass Versicherte ein Identifizierungsverfahren spätestens am
-übernächsten Werktag nach der Beantragung nach Satz 2 nutzen können.
+übernächsten Werktag nach der Beantragung nach Satz 3 nutzen können.
 
 (7a) Ist eine Krankenkasse ihrer jeweiligen Verpflichtung nach Absatz
 7 nicht nachgekommen, so stellt der Spitzenverband Bund der
@@ -36951,68 +38507,90 @@ Krankenkassen veröffentlicht auf seiner Internetseite ab dem 15. März
 nach Absatz 7 nicht nachgekommen sind. Die Übersicht ist laufend zu
 aktualisieren.
 
-(8) Spätestens ab dem 1. Januar 2024 stellen die Krankenkassen den
-Versicherten ergänzend zur elektronischen Gesundheitskarte auf
-Verlangen eine sichere digitale Identität für das Gesundheitswesen
-barrierefrei zur Verfügung, die die Vorgaben nach Absatz 2 Nummer 1
-und 2 erfüllt und die Bereitstellung von Daten nach § 291a Absatz 2
-und 3 durch die Krankenkassen ermöglicht. Ab dem 1. Januar 2026 dient
-die digitale Identität nach Satz 1 in gleicher Weise wie die
-elektronische Gesundheitskarte zur Authentisierung des Versicherten im
-Gesundheitswesen und als Versicherungsnachweis nach § 291a Absatz 1.
-Die Gesellschaft für Telematik legt die Anforderungen an die
-Sicherheit und Interoperabilität der digitalen Identitäten fest. Die
-Festlegung der Anforderungen an die Sicherheit und den Datenschutz
-erfolgt dabei im Benehmen mit dem Bundesamt für Sicherheit in der
-Informationstechnik und der oder dem Bundesbeauftragen für den
-Datenschutz und die Informationsfreiheit auf Basis der jeweils
-gültigen Technischen Richtlinien des Bundesamts für Sicherheit in der
-Informationstechnik und unter Berücksichtigung der notwendigen
-Vertrauensniveaus der unterstützten Anwendungen. Eine digitale
-Identität kann über verschiedene Ausprägungen mit verschiedenen
-Sicherheits- und Vertrauensniveaus verfügen. Das Sicherheits- und
-Vertrauensniveau der Ausprägung einer digitalen Identität muss
-mindestens dem Schutzbedarf der Anwendung entsprechen, bei der diese
-eingesetzt wird. Abweichend von Satz 6 kann der Versicherte nach
-umfassender Information durch die Krankenkasse über die Besonderheiten
-des Verfahrens in die Nutzung einer digitalen Identität einwilligen,
-die einem anderen angemessenen Sicherheitsniveau entspricht. Die
+(8) Die Krankenkassen stellen den Versicherten ergänzend zur
+elektronischen Gesundheitskarte auf Verlangen eine digitale Identität
+für das Gesundheitswesen barrierefrei zur Verfügung, die die Vorgaben
+nach Absatz 2 Nummer 1 und 2 erfüllt und die Bereitstellung von Daten
+nach § 291a Absatz 2 und 3 durch die Krankenkassen ermöglicht. Mit
+Zustimmung des Versicherten sind die Krankenkassen hierbei befugt, zur
+Prüfung der Identität des Versicherten Daten entsprechend den Vorgaben
+des § 20 Absatz 3a Satz 1 des Personalausweisgesetzes, des § 16a
+Absatz 3 Satz 1 des Passgesetzes und des § 78 Absatz 7 Satz 3 des
+Aufenthaltsgesetzes zu den betroffenen Datenkategorien und deren
+Verarbeitung auszulesen und zu verwenden; Entsprechendes gilt für das
+Auslesen und Verwenden von Daten aus einem amtlichen Ausweis oder Pass
+eines anderen Staates, mit dem die Pass- und Ausweispflicht im Inland
+erfüllt wird. Ab dem 1. Januar 2027 dient die digitale Identität nach
+Satz 1 in gleicher Weise wie die elektronische Gesundheitskarte zur
+Authentisierung des Versicherten im Gesundheitswesen und als
+Versicherungsnachweis nach § 291a Absatz 1. Die Gesellschaft für
+Telematik legt die Anforderungen an die Sicherheit und
+Interoperabilität der digitalen Identitäten fest. Die Festlegung der
+Anforderungen an die Sicherheit und den Datenschutz erfolgt dabei im
+Benehmen mit dem Bundesamt für Sicherheit in der Informationstechnik
+und der oder dem Bundesbeauftragen für den Datenschutz und die
+Informationsfreiheit auf Basis der jeweils gültigen Technischen
+Richtlinien des Bundesamts für Sicherheit in der Informationstechnik
+und unter Berücksichtigung der notwendigen Vertrauensniveaus der
+unterstützten Anwendungen. Eine digitale Identität kann über
+verschiedene Ausprägungen mit verschiedenen Sicherheits- und
+Vertrauensniveaus verfügen. Das Sicherheits- und Vertrauensniveau der
+Ausprägung einer digitalen Identität muss mindestens dem Schutzbedarf
+der Anwendung entsprechen, bei der die digitale Identität eingesetzt
+wird. Abweichend von Satz 7 kann der Versicherte nach umfassender
+Information durch die Krankenkasse über die Besonderheiten des
+Verfahrens in die Nutzung einer digitalen Identität einwilligen, die
+einem anderen angemessenen Sicherheitsniveau entspricht. Die
 Anforderungen an die Sicherheit und Interoperabilität dieses
 Nutzungsweges der digitalen Identität werden von der Gesellschaft für
 Telematik festgelegt. Die Festlegung erfolgt hinsichtlich der
 Anforderungen an die Sicherheit und den Datenschutz im Benehmen mit
 dem Bundesamt für Sicherheit in der Informationstechnik und der oder
 dem Bundesbeauftragten für den Datenschutz und die
-Informationsfreiheit. Krankenkassen sind verpflichtet, spätestens ab
-dem 1. Oktober 2024 berechtigten Dritten die Nutzung der digitalen
-Identitäten nach Satz 1 zum Zwecke der Authentifizierung von
-Versicherten zu ermöglichen. Berechtigte Dritte nach Satz 10 sind
-Anbieter von Anwendungen nach § 306 Absatz 4 oder Anbieter, für die
-aufgrund eines Gesetzes oder einer Rechtsverordnung die Nutzung der
-digitalen Identität nach Satz 1 vorgeschrieben ist. Darüber hinaus
-kann die Gesellschaft für Telematik durch verbindlichen Beschluss nach
-§ 315 Absatz 1 Satz 1 Anbieter weiterer Dienste oder Anwendungen nach
-§ 306 Absatz 1 Nummer 2 Buchstabe a als berechtigte Dritte
-diskriminierungsfrei festlegen. Berechtigte Dritte dürfen zum Zweck
-der Authentifizierung von Versicherten mittels der digitalen
-Identitäten personenbezogene Daten des Versicherten verarbeiten,
-sofern diese für die Nutzung der digitalen Identität erforderlich sind
-und der Versicherte in die Nutzung der digitalen Identität durch die
-jeweilige Anwendung eingewilligt hat. Bei der Verarbeitung sind die
-Anforderungen des Datenschutzes einzuhalten. Spätestens ab dem 1. Juli
-2023 stellen die Krankenkassen zur Nutzung berechtigten Dritten
-Verfahren zur Erprobung der Integration der sicheren digitalen
-Identität nach Satz 1 zur Verfügung.
+Informationsfreiheit. Die Krankenkassen sind verpflichtet,
+berechtigten Dritten die Nutzung der digitalen Identitäten nach Satz 1
+zum Zwecke der Authentifizierung von Versicherten zu ermöglichen.
+Berechtigte Dritte nach Satz 11 sind Anbieter von Anwendungen nach §
+306 Absatz 4 oder Anbieter, für die auf Grund eines Gesetzes oder
+einer Rechtsverordnung die Nutzung der digitalen Identität nach Satz 1
+vorgeschrieben ist. Darüber hinaus kann die Gesellschaft für Telematik
+durch verbindlichen Beschluss nach § 315 Absatz 1 Satz 1 Anbieter
+weiterer Dienste oder Anwendungen nach § 306 Absatz 1 Nummer 2
+Buchstabe a als berechtigte Dritte diskriminierungsfrei festlegen.
+Berechtigte Dritte dürfen zum Zweck der Authentifizierung von
+Versicherten mittels der digitalen Identitäten personenbezogene Daten
+des Versicherten verarbeiten, sofern diese für die Nutzung der
+digitalen Identität erforderlich sind und der Versicherte in die
+Nutzung der digitalen Identität durch die jeweilige Anwendung
+eingewilligt hat. Bei der Verarbeitung sind die Anforderungen des
+Datenschutzes einzuhalten. Die Krankenkassen stellen den zur Nutzung
+berechtigten Dritten Verfahren zur Erprobung der Integration der
+digitalen Identität nach Satz 1 zur Verfügung.
 
-(9) Die Versicherten können über eine von ihrer Krankenkasse
-angebotene Benutzeroberfläche einen Nachweis der Berechtigung zur
-Inanspruchnahme von Leistungen im Rahmen der vertragsärztlichen
-Versorgung von ihrer gesetzlichen Krankenkasse für die Vorlage bei
-einem Leistungserbringer anfordern, der unmittelbar von der
-Krankenkasse über ein sicheres Übermittlungsverfahren nach § 311
-Absatz 6 an den Leistungserbringer übermittelt wird. Für die
-Mitteilung der durchgeführten Prüfung des Nachweises nach Satz 1 durch
-den Leistungserbringer gilt § 291b Absatz 3 entsprechend.
+(9) Die Versicherten können von ihrer Krankenkasse über eine von ihrer
+Krankenkasse angebotene Benutzeroberfläche einen Nachweis der
+Berechtigung zur Inanspruchnahme von Leistungen im Rahmen der
+vertragsärztlichen Versorgung für die Vorlage bei einem
+Leistungserbringer anfordern, der unmittelbar von der Krankenkasse
+über ein sicheres Übermittlungsverfahren nach § 311 Absatz 6 an den
+Leistungserbringer übermittelt wird. Mit Einwilligung des Versicherten
+kann ein Leistungserbringer den in Satz 1 genannten Nachweis auch
+unmittelbar über das sichere Übermittlungsverfahren nach § 311 Absatz
+6 anfordern. Die Einwilligung des Versicherten kann formlos erfolgen.
+Der Leistungserbringer hat die Einwilligung des Versicherten in seinem
+informationstechnischen System zu protokollieren. Voraussetzung für
+die Nutzung des Verfahrens nach Satz 2 ist, dass der Versicherte in
+der jeweiligen Leistungserbringerinstitution bekannt ist. Die
+Krankenkasse hat den Versicherten über die Ausstellung eines
+Nachweises der Berechtigung zur Inanspruchnahme von Leistungen im
+Rahmen der vertragsärztlichen Versorgung nach den Sätzen 2 bis 5 auf
+geeignete Weise zu benachrichtigen. Das Verfahren nach den Sätzen 2
+bis 6 soll nur in Ausnahmefällen genutzt werden. Das Weitere zur
+Durchführung des Verfahrens nach den Sätzen 2 bis 6 regelt der
+Spitzenverband Bund der Krankenkassen im Benehmen mit den Verbänden
+der Leistungserbringer. Für die Mitteilung der durchgeführten Prüfung
+des Nachweises nach Satz 1 durch den Leistungserbringer gilt § 291b
+Absatz 3 entsprechend.
 
 
 ##### § 291a Elektronische Gesundheitskarte als Versicherungsnachweis und Mittel zur Abrechnung
@@ -37024,7 +38602,7 @@ Versorgung (Versicherungsnachweis) sowie der Abrechnung mit den
 Leistungserbringern. Bei der Inanspruchnahme einer ärztlichen
 Behandlung bestätigt der Versicherte auf dem Abrechnungsschein des
 Arztes das Bestehen der Mitgliedschaft bei der Krankenkasse durch
-seine Unterschrift. Ab dem 1. Januar 2026 kann der
+seine Unterschrift. Ab dem 1. Januar 2027 kann der
 Versicherungsnachweis auch durch eine digitale Identität nach § 291
 Absatz 8 erbracht werden.
 
@@ -37418,35 +38996,37 @@ Arzneimitteln sind gegenüber dem Spitzenverband Bund der Krankenkassen
 entsprechend auskunftspflichtig.
 
 (6) Der Spitzenverband Bund der Krankenkassen und die Deutsche
-Krankenhausgesellschaft führen auf der Grundlage der Vereinbarung nach
-§ 2a Absatz 1 Satz 1 des Krankenhausfinanzierungsgesetzes ein
-bundesweites Verzeichnis der Standorte der nach § 108 zugelassenen
-Krankenhäuser und ihrer Ambulanzen. Sie können das Institut für das
-Entgeltsystem im Krankenhaus mit der Aufgabe nach Satz 1 beauftragen.
-In diesem Fall sind die notwendigen Aufwendungen des Instituts aus dem
-Zuschlag nach § 17b Absatz 5 Satz 1 Nummer 1 des
-Krankenhausfinanzierungsgesetzes zu finanzieren. Die zugelassenen
-Krankenhäuser sind verpflichtet, der das Verzeichnis führenden Stelle
-auf Anforderung die für den Aufbau und die Durchführung des
-Verzeichnisses erforderlichen Daten sowie Veränderungen dieser Daten
-auch ohne Anforderung zu übermitteln. Das Verzeichnis ist in nach Satz
-10 Nummer 3 zu vereinbarenden Abständen zeitnah zu aktualisieren und
-im Internet zu veröffentlichen. Die Krankenhäuser verwenden die im
-Verzeichnis enthaltenen Kennzeichen zu Abrechnungszwecken, für
-Datenübermittlungen an die Datenstelle nach § 21 Absatz 1 des
-Krankenhausentgeltgesetzes sowie zur Erfüllung der Anforderungen der
-Richtlinien und Beschlüsse zur Qualitätssicherung des Gemeinsamen
-Bundesausschusses. Die Kostenträger nutzen das Verzeichnis zur
-Erfüllung ihrer Aufgaben insbesondere im Zusammenhang mit der
-Abrechnung von Leistungen sowie mit Anforderungen der Richtlinien und
-Beschlüsse des Gemeinsamen Bundesausschusses zur Qualitätssicherung.
-Der Gemeinsame Bundesausschuss nutzt das Verzeichnis, sofern dies zur
-Erfüllung der ihm nach diesem Gesetzbuch übertragenen Aufgaben
-insbesondere im Rahmen der Qualitätssicherung erforderlich ist. Das
-Bundeskartellamt erhält die Daten des Verzeichnisses von der das
-Verzeichnis führenden Stelle im Wege elektronischer Datenübertragung
-oder maschinell verwertbar auf Datenträgern zur Erfüllung seiner
-Aufgaben nach dem Gesetz gegen Wettbewerbsbeschränkungen. Die Deutsche
+Krankenhausgesellschaft führen auf der Grundlage des § 2a des
+Krankenhausfinanzierungsgesetzes ein bundesweites Verzeichnis der
+Standorte der nach § 108 zugelassenen Krankenhäuser und ihrer
+Ambulanzen. Sie können das Institut für das Entgeltsystem im
+Krankenhaus mit der Aufgabe nach Satz 1 beauftragen. In diesem Fall
+sind die notwendigen Aufwendungen des Instituts aus dem Zuschlag nach
+§ 17b Absatz 5 Satz 1 Nummer 1 des Krankenhausfinanzierungsgesetzes zu
+finanzieren. Die zugelassenen Krankenhäuser sind verpflichtet, der das
+Verzeichnis führenden Stelle auf Anforderung die für den Aufbau und
+die Durchführung des Verzeichnisses erforderlichen Daten sowie
+Veränderungen dieser Daten auch ohne Anforderung zu übermitteln. Das
+Verzeichnis ist in nach Satz 10 Nummer 3 zu vereinbarenden Abständen
+zeitnah zu aktualisieren und im Internet zu veröffentlichen.
+Flächenstandorte im Sinne des § 2a Absatz 1 Satz 2 des
+Krankenhausfinanzierungsgesetzes sind im Verzeichnis nach Satz 1 als
+solche zu kennzeichnen. Die Krankenhäuser verwenden die im Verzeichnis
+enthaltenen Kennzeichen zu Abrechnungszwecken, für Datenübermittlungen
+an die Datenstelle nach § 21 Absatz 1 des Krankenhausentgeltgesetzes
+sowie zur Erfüllung der Anforderungen der Richtlinien und Beschlüsse
+zur Qualitätssicherung des Gemeinsamen Bundesausschusses. Die
+Kostenträger nutzen das Verzeichnis zur Erfüllung ihrer Aufgaben
+insbesondere im Zusammenhang mit der Abrechnung von Leistungen sowie
+mit Anforderungen der Richtlinien und Beschlüsse des Gemeinsamen
+Bundesausschusses zur Qualitätssicherung. Der Gemeinsame
+Bundesausschuss nutzt das Verzeichnis, sofern dies zur Erfüllung der
+ihm nach diesem Gesetzbuch übertragenen Aufgaben insbesondere im
+Rahmen der Qualitätssicherung erforderlich ist. Das Bundeskartellamt
+erhält die Daten des Verzeichnisses von der das Verzeichnis führenden
+Stelle im Wege elektronischer Datenübertragung oder maschinell
+verwertbar auf Datenträgern zur Erfüllung seiner Aufgaben nach dem
+Gesetz gegen Wettbewerbsbeschränkungen. Die Deutsche
 Krankenhausgesellschaft und der Spitzenverband Bund der Krankenkassen
 vereinbaren bis zum 30. Juni 2017 das Nähere zu dem Verzeichnis nach
 Satz 1, insbesondere
@@ -37473,9 +39053,6 @@ Satz 1, insbesondere
 
 
 
-§ 2a Absatz 2 des Krankenhausfinanzierungsgesetzes gilt entsprechend
-für die Auftragserteilung nach Satz 2 und die Vereinbarung nach Satz
-10\.
 
 (7) Der Spitzenverband Bund der Krankenkassen und die Deutsche
 Krankenhausgesellschaft führen ein bundesweites Verzeichnis aller in
@@ -37826,11 +39403,12 @@ Datenverarbeitung beauftragten Stellen mitzuteilen.
 
 ##### § 294a Mitteilung von Krankheitsursachen und drittverursachten Gesundheitsschäden
 
-(1)Liegen Anhaltspunkte dafür vor, dass eine Krankheit eine
+(1) Liegen Anhaltspunkte dafür vor, dass eine Krankheit eine
 Berufskrankheit im Sinne der gesetzlichen Unfallversicherung oder
 deren Spätfolgen oder die Folge oder Spätfolge eines Arbeitsunfalls,
 eines sonstigen Unfalls, einer Körperverletzung, einer Schädigung im
-Sinne des Vierzehnten Buches ist oder liegen Hinweise auf
+Sinne des Vierzehnten Buches, einer Wehrdienstbeschädigung nach § 3
+des Soldatenentschädigungsgesetzes ist, oder liegen Hinweise auf
 drittverursachte Gesundheitsschäden vor, sind die an der
 vertragsärztlichen Versorgung teilnehmenden Ärzte und Einrichtungen
 sowie die Krankenhäuser nach § 108 verpflichtet, die erforderlichen
@@ -38343,21 +39921,21 @@ Versicherten und der Leistungserbringer für Zwecke der
 Qualitätssicherung nach § 135a Absatz 2, § 135b Absatz 2 oder § 137a
 Absatz 3 zu verarbeiten, soweit dies erforderlich und in Richtlinien
 und Beschlüssen des Gemeinsamen Bundesausschusses nach § 27b Absatz 2,
-§ 135b Absatz 2, § 136 Absatz 1 Satz 1, den §§ 136b, 136c Absatz 1 und
-2 sowie in Vereinbarungen nach § 137d vorgesehen ist. In den
-Richtlinien, Beschlüssen und Vereinbarungen nach Satz 1 sind
-diejenigen Daten, die von den Leistungserbringern zu verarbeiten sind,
-sowie deren Empfänger festzulegen und die Erforderlichkeit darzulegen.
-Der Gemeinsame Bundesausschuss hat bei der Festlegung der Daten nach
-Satz 2 in Abhängigkeit von der jeweiligen Maßnahme der
-Qualitätssicherung insbesondere diejenigen Daten zu bestimmen, die für
-die Ermittlung der Qualität von Diagnostik oder Behandlung mit Hilfe
-geeigneter Qualitätsindikatoren, für die Erfassung möglicher
-Begleiterkrankungen und Komplikationen, für die Feststellung der
-Sterblichkeit sowie für eine geeignete Validierung oder
-Risikoadjustierung bei der Auswertung der Daten medizinisch oder
-methodisch notwendig sind. Die Richtlinien und Beschlüsse sowie
-Vereinbarungen nach Satz 1 haben darüber hinaus sicherzustellen, dass
+§ 135b Absatz 2, § 136 Absatz 1 Satz 1 und § 136b sowie in
+Vereinbarungen nach § 137d vorgesehen ist. In den Richtlinien,
+Beschlüssen und Vereinbarungen nach Satz 1 sind diejenigen Daten, die
+von den Leistungserbringern zu verarbeiten sind, sowie deren Empfänger
+festzulegen und die Erforderlichkeit darzulegen. Der Gemeinsame
+Bundesausschuss hat bei der Festlegung der Daten nach Satz 2 in
+Abhängigkeit von der jeweiligen Maßnahme der Qualitätssicherung
+insbesondere diejenigen Daten zu bestimmen, die für die Ermittlung der
+Qualität von Diagnostik oder Behandlung mit Hilfe geeigneter
+Qualitätsindikatoren, für die Erfassung möglicher Begleiterkrankungen
+und Komplikationen, für die Feststellung der Sterblichkeit sowie für
+eine geeignete Validierung oder Risikoadjustierung bei der Auswertung
+der Daten medizinisch oder methodisch notwendig sind. Die Richtlinien
+und Beschlüsse sowie Vereinbarungen nach Satz 1 haben darüber hinaus
+sicherzustellen, dass
 
 1.  in der Regel die Datenerhebung auf eine Stichprobe der betroffenen
     Patienten begrenzt wird und die versichertenbezogenen Daten
@@ -38444,13 +40022,13 @@ sind nicht zu pseudonymisieren.
 Qualitätssicherung nach § 135a Absatz 2, § 135b Absatz 2 oder § 137a
 Absatz 3 zu verarbeiten, soweit dies erforderlich und in Richtlinien
 und Beschlüssen des Gemeinsamen Bundesausschusses nach § 27b Absatz 2,
-§ 135b Absatz 2, § 136 Absatz 1 Satz 1, den §§ 136b, 136c Absatz 1 und
-2, § 137 Absatz 3 und § 137b Absatz 1 sowie in Vereinbarungen nach §
-137d vorgesehen ist. In den Richtlinien, Beschlüssen und
-Vereinbarungen nach Satz 1 sind diejenigen Daten, die von den
-Krankenkassen für Zwecke der Qualitätssicherung zu verarbeiten sind,
-sowie deren Empfänger festzulegen und die Erforderlichkeit darzulegen.
-Absatz 1 Satz 3 bis 7 gilt entsprechend.
+§ 135b Absatz 2, § 136 Absatz 1 Satz 1, § 136b, § 137 Absatz 3 und §
+137b Absatz 1 sowie in Vereinbarungen nach § 137d vorgesehen ist. In
+den Richtlinien, Beschlüssen und Vereinbarungen nach Satz 1 sind
+diejenigen Daten, die von den Krankenkassen für Zwecke der
+Qualitätssicherung zu verarbeiten sind, sowie deren Empfänger
+festzulegen und die Erforderlichkeit darzulegen. Absatz 1 Satz 3 bis 7
+gilt entsprechend.
 
 (2) Das Verfahren zur Pseudonymisierung der Daten wird durch die an
 der vertragsärztlichen Versorgung teilnehmenden Ärzte und übrigen
@@ -38519,36 +40097,41 @@ bestimmt, wer welche Daten an die Versendestelle zu übermitteln hat.
 Dabei kann er auch die Übermittlung nicht pseudonymisierter
 personenbezogener Daten der Versicherten und nicht pseudonymisierter
 personen- oder einrichtungsbezogener Daten der Leistungserbringer
-vorsehen, soweit dies für die Auswahl der Versicherten oder die
-Versendung der Fragebögen erforderlich ist. Der Rücklauf der
-ausgefüllten Fragebögen darf nicht über die Versendestelle erfolgen.
-Die Versendestelle muss von den Krankenkassen und ihren Verbänden, den
-Kassenärztlichen Vereinigungen und ihren Verbänden, der
-Vertrauensstelle nach Absatz 2 Satz 5, dem Institut nach § 137a und
-sonstigen nach Absatz 1 Satz 2 festgelegten Datenempfängern räumlich,
-organisatorisch und personell getrennt sein. Die Versendestelle darf
-über die Daten nach Satz 2 hinaus weitere Behandlungs-, Leistungs-
-oder Sozialdaten von Versicherten auf Grund anderer Vorschriften nur
-verarbeiten, sofern diese Datenverarbeitung organisatorisch, personell
-und räumlich von der Datenverarbeitung für den Zweck der
-Versendestelle nach Satz 1 getrennt ist und nicht zum Zweck der
-Qualitätssicherung in den Richtlinien und Beschlüssen nach den §§ 136
-bis 136b erfolgt. Die Versendestelle hat die ihr übermittelten
-Identifikationsmerkmale der Versicherten in gleicher Weise geheim zu
-halten wie derjenige, von dem sie sie erhalten hat; sie darf diese
-Daten anderen Personen oder Stellen nicht zugänglich machen. Die an
-der vertragsärztlichen Versorgung teilnehmenden Ärzte, zugelassenen
-Krankenhäuser und übrigen Leistungserbringer gemäß § 135a Absatz 2
-sowie die Krankenkassen sind befugt und verpflichtet, die vom
+vorsehen, soweit dies für die Auswahl der Versicherten, die Versendung
+der Fragebögen, die Risikoadjustierung der Auswertungen oder die
+wissenschaftliche Begleitung der Patientenbefragungen erforderlich
+ist. Der Rücklauf der ausgefüllten Fragebögen darf nicht über die
+Versendestelle erfolgen. Die Versendestelle muss von den Krankenkassen
+und ihren Verbänden, den Kassenärztlichen Vereinigungen und ihren
+Verbänden, der Vertrauensstelle nach Absatz 2 Satz 5, dem Institut
+nach § 137a und sonstigen nach Absatz 1 Satz 2 festgelegten
+Datenempfängern räumlich, organisatorisch und personell getrennt sein.
+Die Versendestelle darf über die Daten nach Satz 2 hinaus weitere
+Behandlungs-, Leistungs- oder Sozialdaten von Versicherten auf Grund
+anderer Vorschriften nur verarbeiten, sofern diese Datenverarbeitung
+organisatorisch, personell und räumlich von der Datenverarbeitung für
+den Zweck der Versendestelle nach Satz 1 getrennt ist und nicht zum
+Zweck der Qualitätssicherung in den Richtlinien und Beschlüssen nach
+den §§ 136 bis 136b erfolgt. Die Versendestelle hat die ihr
+übermittelten Identifikationsmerkmale der Versicherten in gleicher
+Weise geheim zu halten wie derjenige, von dem sie sie erhalten hat;
+sie darf diese Daten anderen Personen oder Stellen nicht zugänglich
+machen. Die an der vertragsärztlichen Versorgung teilnehmenden Ärzte,
+zugelassenen Krankenhäuser und übrigen Leistungserbringer gemäß § 135a
+Absatz 2 sowie die Krankenkassen sind befugt und verpflichtet, die vom
 Gemeinsamen Bundesausschuss nach Satz 2 festgelegten Daten an die
 Stelle nach Satz 1 zu übermitteln. Die Daten nach Satz 8 sind von der
 Versendestelle spätestens sechs Monate nach Versendung der Fragebögen
 zu löschen, es sei denn, dass es aus methodischen Gründen der
 Befragung erforderlich ist, bestimmte Daten länger zu verarbeiten.
 Dann sind diese Daten spätestens 24 Monate nach Versendung der
-Fragebögen zu löschen. Der Gemeinsame Bundesausschuss kann
-Patientenbefragungen auch in digitaler Form vorsehen; die Sätze 1 bis
-10 gelten entsprechend.
+Fragebögen zu löschen. Die Versendestelle ist befugt und verpflichtet,
+personen- oder einrichtungsbezogene Daten der Versicherten und der
+Leistungserbringer an die in den in Satz 1 genannten Richtlinien und
+Beschlüssen festgelegten Empfänger zu übermitteln, soweit dies für die
+Durchführung der Patientenbefragung methodisch-fachlich erforderlich
+ist. Der Gemeinsame Bundesausschuss kann Patientenbefragungen auch in
+digitaler Form vorsehen; die Sätze 1 bis 11 gelten entsprechend.
 
 (5) Der Gemeinsame Bundesausschuss ist befugt und berechtigt,
 abweichend von Absatz 3 Satz 3 transplantationsmedizinische
@@ -38583,11 +40166,26 @@ verarbeiten:
 
 2.  Auswertungen und Daten, die dem Institut für Qualitätssicherung und
     Transparenz im Gesundheitswesen nach § 21 Absatz 3d des
-    Krankenhausentgeltgesetzes übermittelt werden, sowie
+    Krankenhausentgeltgesetzes übermittelt werden,
 
 
 3.  die Daten aus den in § 136b Absatz 1 Satz 1 Nummer 3 genannten
-    strukturierten Qualitätsberichten der zugelassenen Krankenhäuser.
+    strukturierten Qualitätsberichten der zugelassenen Krankenhäuser,
+
+
+4.  Daten zur Erfüllung oder Nichterfüllung der nach § 135e Absatz 2 Satz
+    2 maßgeblichen Qualitätskriterien, die dem Institut für
+    Qualitätssicherung und Transparenz im Gesundheitswesen im Wege der in
+    § 275a Absatz 4 Satz 1, 3 und 4 genannten Übermittlung oder
+    Information übermittelt werden oder in der in § 283 Absatz 5 Satz 1
+    genannten Datenbank des Medizinischen Dienstes Bund zugänglich sind,
+    und
+
+
+5.  Daten, die dem Institut für Qualitätssicherung und Transparenz im
+    Gesundheitswesen im Wege der in § 6a Absatz 7 des
+    Krankenhausfinanzierungsgesetzes genannten Übermittlung übermittelt
+    werden.
 
 
 
@@ -38823,23 +40421,44 @@ Einstufungen in einen Pflegegrad durch einen Patienten oder eine
 Patientin zu übermitteln. Die Übermittlung nach den Sätzen 1 und 2 hat
 im Wege elektronischer Datenübertragung zu erfolgen.
 
-(3) Das Nähere über Form und Inhalt der erforderlichen Vordrucke, die
-Zeitabstände für die Übermittlung der Angaben nach Absatz 1 und das
-Verfahren der Abrechnung sowie ein Verfahren zur Übermittlung eines
-Antrages auf Anschlussrehabilitation durch das Krankenhaus auf Wunsch
-und mit Einwilligung der Versicherten, jeweils im Wege elektronischer
-Datenübertragung oder maschinell verwertbar auf Datenträgern sowie das
-Nähere zum Verfahren und zu den Zeitabständen der Übermittlung im Wege
-elektronischer Datenübertragungen nach Absatz 2a vereinbart der
-Spitzenverband Bund der Krankenkassen mit der Deutschen
-Krankenhausgesellschaft oder den Bundesverbänden der Krankenhausträger
-gemeinsam.
+(3) Der Spitzenverband Bund der Krankenkassen vereinbart mit der
+Deutschen Krankenhausgesellschaft
+
+1.  das Nähere über Form und Inhalt der erforderlichen Vordrucke,
+
+
+2.  die Zeitabstände für die Übermittlung der Angaben nach Absatz 1,
+
+
+3.  das Verfahren der Abrechnung im Wege elektronischer Datenübertragung
+    oder maschinell verwertbar auf Datenträgern,
+
+
+4.  ein Verfahren zur Übermittlung eines Antrages auf
+    Anschlussrehabilitation durch das Krankenhaus auf Wunsch und mit
+    Einwilligung der Versicherten im Wege elektronischer Datenübertragung
+    oder maschinell verwertbar auf Datenträgern,
+
+
+5.  das Nähere zum Verfahren und zu den Zeitabständen der Übermittlung im
+    Wege elektronischer Datenübertragung nach Absatz 2a und
+
+
+6.  eine bundeseinheitliche Bezeichnung und Bestimmung von
+    Fachabteilungen.
+
+
+
+Kommt eine Vereinbarung ganz oder teilweise nicht zustande,
+entscheidet die Schiedsstelle nach § 18a Absatz 6 des
+Krankenhausfinanzierungsgesetzes auf Antrag einer Vertragspartei oder
+des Bundesministeriums für Gesundheit.
 
 (4) Vorsorge- oder Rehabilitationseinrichtungen, für die ein
-Versorgungsvertrag nach § 111 oder § 111c besteht, sind verpflichtet
-den Krankenkassen bei stationärer oder ambulanter Behandlung folgende
-Angaben im Wege elektronischer Datenübertragung oder maschinell
-verwertbar auf Datenträgern zu übermitteln:
+Versorgungsvertrag nach den §§ 111, 111a oder § 111c besteht, sind
+verpflichtet den Krankenkassen bei stationärer oder ambulanter
+Behandlung folgende Angaben im Wege elektronischer Datenübertragung
+oder maschinell verwertbar auf Datenträgern zu übermitteln:
 
 1.  die Angaben nach § 291a Absatz 2 Nummer 1 bis 10 sowie das interne
     Kennzeichen der Einrichtung für den Versicherten,
@@ -38879,17 +40498,18 @@ auch in nicht maschinenlesbarer Form zulässig. Für die Angabe der
 Diagnosen nach Satz 1 Nr. 3 und 5 gilt Absatz 2 entsprechend. Absatz 3
 gilt entsprechend.
 
-(4a) Einrichtungen, die Leistungen nach § 15 des Sechsten Buches und
-nach § 33 des Siebten Buches erbringen, sind auf Anforderung der
-zuständigen Krankenkasse verpflichtet, dieser bei Erwerbstätigen mit
-einem Anspruch auf Krankengeld nach § 44 für die Erfüllung der
+(4a) Zugelassene Rehabilitationseinrichtungen im Sinne des § 15 Absatz
+2 des Sechsten Buches und Einrichtungen nach § 33 Absatz 2 des Siebten
+Buches sind auf Anforderung der zuständigen Krankenkasse verpflichtet,
+dieser bei Erwerbstätigen mit einem Anspruch auf Krankengeld nach § 44
+oder Verletztengeld nach § 45 des Siebten Buches für die Erfüllung der
 gesetzlichen Aufgaben der Krankenkassen, die im Zusammenhang mit der
-Bestimmung der Dauer des Krankengeldanspruchs und der Mitteilung an
-den Arbeitgeber über die auf den Entgeltfortzahlungsanspruch des
-Versicherten anrechenbaren Zeiten stehen, sowie zur
-Zuständigkeitsabgrenzung bei stufenweiser Wiedereingliederung in das
-Erwerbsleben nach den §§ 44, 71 Absatz 5 des Neunten Buches und § 74
-folgende Angaben zu übermitteln:
+Bestimmung der Dauer des Anspruchs auf Kranken- oder Verletztengeld
+und der Mitteilung an den Arbeitgeber über die auf den
+Entgeltfortzahlungsanspruch des Versicherten anrechenbaren Zeiten
+stehen, sowie zur Zuständigkeitsabgrenzung bei stufenweiser
+Wiedereingliederung in das Erwerbsleben nach den §§ 44, 71 Absatz 5
+des Neunten Buches und § 74 folgende Angaben zu übermitteln:
 
 1.  die Angaben nach § 291a Absatz 2 Nummer 2 bis 6,
 
@@ -38910,13 +40530,31 @@ folgende Angaben zu übermitteln:
 
 
 
+Darüber hinaus sind zugelassene Rehabilitationseinrichtungen im Sinne
+des § 15 Absatz 2 des Sechsten Buches und Einrichtungen nach § 33
+Absatz 2 des Siebten Buches, die Leistungen erbringen, auf Grund deren
+Inanspruchnahme die Versicherten an ihrer Arbeitsleistung verhindert
+sind, auf Anforderung der zuständigen Krankenkasse auf Grund der
+Verpflichtung zu einer Meldung nach § 109 des Vierten Buches
+verpflichtet, taggleich insbesondere folgende Angaben zu übermitteln:
+
+1.  die Angaben nach § 291a Absatz 2 Nummer 2, 3, 5 und 6,
+
+
+2.  den Tag der Aufnahme in der Einrichtung und
+
+
+3.  den Tag der voraussichtlichen Entlassung aus der Einrichtung.
+
+
+
 Die Übermittlung erfolgt im Wege elektronischer Datenübertragung oder
 maschinell verwertbar auf Datenträgern. Für die Angabe der Diagnosen
-nach Satz 1 Nummer 3 gilt Absatz 2 entsprechend. Das Nähere über Form
-und Inhalt der erforderlichen Vordrucke, die Zeitabstände für die
-Übermittlung der Angaben nach Satz 1 und das Verfahren der
-Übermittlung vereinbart der Spitzenverband Bund der Krankenkassen
-gemeinsam mit den für die Wahrnehmung der Interessen der
+nach den Sätzen 1 und 2 Nummer 3 gilt Absatz 2 entsprechend. Das
+Nähere über Form und Inhalt der erforderlichen Vordrucke, die
+Zeitabstände für die Übermittlung der Angaben nach Satz 1 und das
+Verfahren der Übermittlung vereinbart der Spitzenverband Bund der
+Krankenkassen gemeinsam mit den für die Wahrnehmung der Interessen der
 Rehabilitationseinrichtungen nach dem Sozialgesetzbuch maßgeblichen
 Bundesverbänden.
 
@@ -39237,16 +40875,52 @@ Datenübermittlung nach Satz 1, abweichend von Satz 1, zu einem anderen
 Zeitpunkt zu erfolgen hat. Die Datenübermittlung nach Satz 1 erfolgt
 erstmals für das erste Kalenderquartal des Jahres 2025.
 
-(2) Der Spitzenverband Bund der Krankenkassen führt die Daten nach
-Absatz 1 zusammen, prüft die Daten auf Vollständigkeit, Plausibilität
-und Konsistenz und klärt Auffälligkeiten jeweils mit der die Daten
-liefernden Stelle.
+(1a) Zusätzlich zur Datenübermittlung nach Absatz 1 übermitteln die
+Krankenkassen an den Spitzenverband Bund der Krankenkassen als
+Datensammelstelle
+
+1.  die ihnen für das Kalenderjahr 2023 vorliegenden Daten nach Absatz 1
+    Satz 1 spätestens bis zum 1. Dezember 2024 und
+
+
+2.  die ihnen für das erste Kalenderquartal 2024 vorliegenden Daten nach
+    Absatz 1 Satz 1 gemeinsam mit der erstmaligen Datenübermittlung nach
+    Absatz 1 Satz 7.
+
+
+
+Von der Verpflichtung zur Datenübermittlung nach Satz 1 Nummer 1
+ausgenommen sind
+
+1.  Daten nach § 295b,
+
+
+2.  Daten nach § 15 des Elften Buches,
+
+
+3.  Daten nach § 105 des Elften Buches und
+
+
+4.  Kosten- und Leistungsdaten nach den §§ 301a und 302 zur Versorgung mit
+    Heil- und Hilfsmitteln, zur Versorgung mit Krankentransportleistungen,
+    zur Versorgung mit häuslicher Krankenpflege, zur Versorgung mit
+    Hebammenhilfe sowie zur Versorgung mit digitalen
+    Gesundheitsanwendungen.
+
+
+
+
+(2) Der Spitzenverband Bund der Krankenkassen führt die Daten nach den
+Absätzen 1 und 1a zusammen, prüft die Daten auf Vollständigkeit,
+Plausibilität und Konsistenz und klärt Auffälligkeiten jeweils mit der
+die Daten liefernden Stelle.
 
 (3) Der Spitzenverband Bund der Krankenkassen übermittelt
 
-1.  an das Forschungsdatenzentrum nach § 303d die Daten nach Absatz 1 ohne
-    das Lieferpseudonym, wobei jeder einem Lieferpseudonym zuzuordnende
-    Einzeldatensatz mit einer Arbeitsnummer gekennzeichnet wird,
+1.  an das Forschungsdatenzentrum nach § 303d die Daten nach den Absätzen
+    1 und 1a ohne das Lieferpseudonym, wobei jeder einem Lieferpseudonym
+    zuzuordnende Einzeldatensatz mit einer Arbeitsnummer gekennzeichnet
+    wird,
 
 
 2.  an die Vertrauensstelle nach § 303c eine Liste mit den
@@ -39948,8 +41622,8 @@ Nummer 2 Buchstabe a liegt in der Verantwortung des jeweiligen
 Anbieters des Zugangsdienstes. Der Anbieter eines Zugangsdienstes darf
 personenbezogene Daten der Versicherten ausschließlich für Zwecke des
 Aufbaus und des Betriebs seines Zugangsdienstes verarbeiten. § 3 des
-Telekommunikation-Telemedien-Datenschutz-Gesetzes ist entsprechend
-anzuwenden.
+Telekommunikation-Digitale-Dienste-Datenschutz-Gesetzes ist
+entsprechend anzuwenden.
 
 (3) Die Gesellschaft für Telematik erteilt einen Auftrag nach § 323
 Absatz 2 Satz 1 zum alleinverantwortlichen Betrieb des gesicherten
@@ -39961,8 +41635,8 @@ Gesundheitsdaten der Versicherten, zwischen Leistungserbringern,
 Kostenträgern sowie Versicherten und für die Übertragung im Rahmen der
 Anwendungen der elektronischen Gesundheitskarte. Der Anbieter des
 gesicherten Netzes darf die Daten ausschließlich zum Zweck der
-Datenübertragung verarbeiten. § 3 des Telekommunikation-Telemedien-
-Datenschutz-Gesetzes ist entsprechend anzuwenden.
+Datenübertragung verarbeiten. § 3 des Telekommunikation-Digitale-
+Dienste-Datenschutz-Gesetzes ist entsprechend anzuwenden.
 
 (4) Der Betrieb der Dienste der Anwendungsinfrastruktur nach § 306
 Absatz 2 Nummer 3 erfolgt durch den jeweiligen Anbieter. Die Anbieter
@@ -40208,6 +41882,27 @@ Trägern der gesetzlichen Unfallversicherung getragen. Die Träger der
 gesetzlichen Unfallversicherung legen die Einzelheiten der
 Kostenerstattung im Einvernehmen mit der Gesellschaft für Telematik
 fest.
+
+(1a) Die Aufgaben der Zulassung, der Festlegung und der Bestätigung
+nach Absatz 1 Satz 1 Nummer 4 bis 6 sowie der Erteilung von
+Anweisungen zur Abwehr von Gefahren für die Funktionsfähigkeit und
+Sicherheit der Telematikinfrastruktur und zur Vermeidung von Störungen
+nach § 329 Absatz 3 Satz 2 und zur Beseitigung von Sicherheitsmängeln
+nach § 333 Absatz 3 sowie die Beauftragung nach § 385 Absatz 1 Satz 2
+Nummer 2 und die Zertifizierung nach § 385 Absatz 1 Satz 2 Nummer 7
+werden als hoheitliche Aufgaben des Bundes durch die Gesellschaft für
+Telematik als Beliehene wahrgenommen. Die Zertifizierungsleistungen
+nach § 385 Absatz 1 Satz 2 Nummer 7 können als hoheitliche Aufgaben
+des Bundes neben der Gesellschaft für Telematik auch durch die Stellen
+nach § 385 Absatz 7 als Beliehene erbracht werden. Die Wahrnehmung der
+Aufgaben nach Satz 1 schließt die Befugnis zum Erlass von
+Verwaltungsakten und zu deren Vollstreckung, zur Rücknahme und zum
+Widerruf der erlassenen Verwaltungsakte sowie zum Erlass der
+Widerspruchsbescheide ein. Widerspruch und Anfechtungsklage gegen
+Entscheidungen der Beliehenen haben keine aufschiebende Wirkung. Die
+Gesellschaft für Telematik unterliegt bei der Wahrnehmung der ihr
+übertragenen hoheitlichen Aufgaben der Rechts- und Fachaufsicht des
+Bundesministeriums für Gesundheit.
 
 (2) Die Gesellschaft für Telematik hat Festlegungen und Maßnahmen nach
 Absatz 1 Nummer 1, die Fragen der Datensicherheit berühren, im
@@ -40801,8 +42496,9 @@ besteht aus
 
 
 7.  je einem Vertreter der Vereinigungen der Träger der
-    Pflegeeinrichtungen auf Bundesebene und der Verbände der Pflegeberufe
-    auf Bundesebene,
+    Pflegeeinrichtungen auf Bundesebene und der maßgeblichen
+    Organisationen der Pflegeberufe auf Bundesebene im Sinne des § 118a
+    Absatz 1 Satz 1 des Elften Buches,
 
 
 8.  der oder dem Bundesbeauftragten für den Datenschutz und die
@@ -41140,7 +42836,7 @@ Internetseite.
 #### § 326 Verbot der Nutzung der Telematikinfrastruktur ohne Zulassung oder Bestätigung
 
 Anbieter von Betriebsleistungen oder von Komponenten und Diensten der
-Telematikinfrastruktur müssen über die nach § 323 Absatz 2 und § 325
+Telematikinfrastruktur müssen über die nach § 323 Absatz 2 und § 325
 Absatz 1 erforderliche Zulassung oder über die nach § 327 Absatz 2
 Satz 1 erforderliche Bestätigung verfügen, bevor sie die
 Telematikinfrastruktur nutzen.
@@ -41615,9 +43311,15 @@ Absatz 2 Satz 1 und § 363 genannten Personen oder zu anderen als den
 dort genannten Zwecken, einschließlich der Abrechnung der zum Zweck
 der Versorgung erbrachten Leistungen, zu gestatten.
 
-(3) Die Versicherten dürfen nicht bevorzugt oder benachteiligt werden,
-weil sie einen Zugriff auf Daten in einer Anwendung nach § 334 Absatz
-1 Satz 2 bewirkt oder verweigert haben.
+(3) Die Versicherten dürfen weder bevorzugt noch benachteiligt werden,
+weil sie der Einrichtung einer elektronischen Patientenakte nach § 342
+Absatz 1 Satz 2 und § 344 Absatz 3 widersprochen, einen Zugriff auf
+Daten in einer Anwendung nach § 334 Absatz 1 Satz 2 im Wege der
+Einwilligung nach § 339 Absatz 1a und § 353 Absatz 3 bis 6 erlaubt
+oder im Wege eines Widerspruchs nach § 337 Absatz 3, § 339 Absatz 1
+und § 353 Absatz 1 und 2 verweigert oder ihre weiteren Rechte nach §
+337 oder ihre Betroffenenrechte gemäß der Verordnung (EU) 2016/679
+ausgeübt haben.
 
 
 ##### § 336 Zugriffsrechte der Versicherten
@@ -41737,7 +43439,7 @@ Vergütung und Abrechnung der Apotheken für die Durchführung der
 Identifizierung der Versicherten.
 
 
-##### § 337 Recht der Versicherten auf Verarbeitung von Daten sowie auf Erteilung von Zugriffsberechtigungen auf Daten
+##### § 337 Recht der Versicherten auf Verarbeitung von Daten sowie auf Erteilung und Verwehrung von Zugriffsberechtigungen auf Daten
 
 (1) Jeder Versicherte ist berechtigt, Daten in einer Anwendung nach §
 334 Absatz 1 Satz 2 Nummer 1, 4 und 5 auszulesen und zu übermitteln
@@ -41764,8 +43466,21 @@ der elektronischen Patientenakte gemäß § 342 Absatz 2a bis 2c
 gesamthaft und zusammenhängend verarbeitet werden, kann der jeweilige
 Anwendungsfall nur in seiner Gesamtheit gelöscht werden.
 
-(3) Der Versicherte ist berechtigt, gemäß § 339 Zugriffsberechtigungen
-auf Daten in einer Anwendung nach § 334 Absatz 1 Satz 2 zu erteilen.
+(3) Die Versicherten sind jederzeit berechtigt, gemäß § 353 Absatz 1
+und 2 dem Zugriff auf Daten in einer Anwendung nach § 334 Absatz 1
+Satz 2 Nummer 1, 4, 5 und 7 zu widersprechen und gemäß § 353 Absatz 3
+bis 6 im Wege der Einwilligung Zugriffsberechtigungen auf Daten in
+einer Anwendung nach § 334 Absatz 1 Satz 2 Nummer 1 und 6 zu erteilen.
+Satz 1 findet keine Anwendung auf Daten in einer Anwendung nach § 334
+Absatz 1 Satz 2 Nummer 4, 5 und 7, soweit diese auf der elektronischen
+Gesundheitskarte gespeichert sind. Die Erteilung von
+Zugriffsberechtigungen auf Daten in einer Anwendung nach § 334 Absatz
+1 Satz 2 Nummer 2 und 3, auf Daten in einer Anwendung nach § 334
+Absatz 1 Satz 2 Nummer 1, soweit es sich um Daten nach § 341 Absatz 2
+Nummer 7 Buchstabe a und b und Nummer 16 handelt, sowie auf Daten in
+einer Anwendung nach § 334 Absatz 1 Satz 2 Nummer 4 und 5, soweit
+diese auf der elektronischen Gesundheitskarte gespeichert sind,
+erfolgt nach Maßgabe der §§ 356, 357 und 359.
 
 
 ##### § 338 Komponenten zur Wahrnehmung der Versichertenrechte
@@ -41788,13 +43503,27 @@ geht, unterstützen.
 
 ##### § 339 Voraussetzungen für den Zugriff von Leistungserbringern und anderen zugriffsberechtigten Personen
 
-(1) Zugriffsberechtigte Leistungserbringer und andere
-zugriffsberechtigte Personen dürfen nach Maßgabe der §§ 352, 356, 357
-und 359 auf personenbezogene Daten, insbesondere Gesundheitsdaten, der
-Versicherten in einer Anwendung nach § 334 Absatz 1 Satz 2 Nummer 1
-bis 5 und 7 zugreifen, soweit die Versicherten hierzu ihre vorherige
-Einwilligung erteilt haben. Hierzu bedarf es einer eindeutigen
-bestätigenden Handlung durch technische Zugriffsfreigabe.
+(1) Zugriffsberechtigte nach § 352 Satz 1 Nummer 1 bis 15 und 19, auch
+in Verbindung mit Satz 2, dürfen für Zwecke der Gesundheitsvorsorge
+oder der Arbeitsmedizin, für die Beurteilung der Arbeitsfähigkeit des
+Beschäftigten, für die medizinische Diagnostik, die Versorgung oder
+Behandlung im Gesundheits- oder Sozialbereich oder für die Verwaltung
+von Systemen und Diensten im Gesundheits- oder Sozialbereich nach
+Maßgabe der §§ 352 und 359 im zeitlichen Zusammenhang mit der
+Behandlung auf personenbezogene Daten, insbesondere auf
+Gesundheitsdaten der Versicherten in einer Anwendung nach § 334 Absatz
+1 Satz 2 Nummer 1, 4, 5 und 7 zugreifen, soweit die Versicherten dem
+nicht widersprochen haben; dies gilt nicht für Daten in Anwendungen
+nach § 334 Absatz 1 Satz 2 Nummer 4 und 5, soweit diese auf der
+elektronischen Gesundheitskarte gespeichert sind. Der Zugriff auf
+Daten des Versicherten in einer Anwendung nach § 334 Absatz 1 Satz 2
+Nummer 2 bis 5 und auf Daten nach § 341 Absatz 2 Nummer 7 Buchstabe a
+und b und Nummer 16 ist nach Maßgabe der §§ 356, 357 und 359 zulässig;
+dies gilt für Daten in Anwendungen nach § 334 Absatz 1 Satz 2 Nummer 4
+und 5 nur, soweit diese auf der elektronischen Gesundheitskarte
+gespeichert sind. Der Nachweis des zeitlichen Zusammenhangs mit der
+Behandlung erfolgt mittels der elektronischen Gesundheitskarte oder
+der digitalen Identität der Versicherten nach § 291 Absatz 8 Satz 1.
 
 (1a) Zugriffsberechtigte nach § 352 Satz 1 Nummer 16 bis 18, auch in
 Verbindung mit Satz 2, dürfen nach Maßgabe der §§ 352 und 359 auf
@@ -41937,20 +43666,22 @@ selbst übernehmen.
 Leistungserbringerinstitutionen dürfen nur an
 Leistungserbringerinstitutionen ausgegeben werden, denen ein
 Leistungserbringer, der Inhaber eines elektronischen Heilberufs- oder
-Berufsausweises ist, zugeordnet werden kann.
+Berufsausweises ist, zugeordnet werden kann. Satz 1 findet keine
+Anwendung auf die Ausgabe von Komponenten zur Authentifizierung von
+Leistungserbringerinstitutionen an Hilfsmittelerbringer.
 
-(6) Spätestens ab dem 1. Januar 2025 haben die Stellen nach Absatz 1
+(6) Spätestens ab dem 1. Januar 2028 haben die Stellen nach Absatz 1
 Satz 1 Nummer 1 sowie den Absätzen 2 und 4 ergänzend zu den
 Heilberufs- und Berufsausweisen auf Verlangen des Leistungserbringers
 eine digitale Identität für das Gesundheitswesen zur Verfügung zu
 stellen, die nicht an eine Chipkarte gebunden ist.
 
-(7) Spätestens ab dem 1. Januar 2025 haben die Stellen nach Absatz 1
-Satz 1 Nummer 3 sowie den Absätzen 2 und 4 ergänzend zu den
-Komponenten zur Authentifizierung von Leistungserbringerinstitutionen
-auf Verlangen der Leistungserbringerinstitution eine digitale
-Identität für das Gesundheitswesen zur Verfügung zu stellen, die nicht
-an eine Chipkarte gebunden ist.
+(7) Spätestens ab dem 1. Januar 2028 haben die Stellen nach Absatz 1
+Satz 1 Nummer 3 und den Absätzen 2 und 4 ergänzend zu den Komponenten
+zur Authentifizierung von Leistungserbringerinstitutionen auf
+Verlangen der Leistungserbringerinstitution eine digitale Identität
+für das Gesundheitswesen zur Verfügung zu stellen, die nicht an eine
+Chipkarte gebunden ist.
 
 (8) Die Gesellschaft für Telematik legt die jeweiligen Anforderungen
 an die Sicherheit und Interoperabilität der digitalen Identitäten nach
@@ -41966,6 +43697,21 @@ verschiedenen Sicherheits- und Vertrauensniveaus verfügen. Das
 Sicherheits- und Vertrauensniveau der Ausprägung einer digitalen
 Identität muss mindestens dem Schutzbedarf der Anwendung entsprechen,
 bei der diese eingesetzt wird.
+
+
+##### § 340a Sicherer Umgang mit Komponenten zur Authentifizierung von Leistungserbringerinstitutionen
+
+(1) Eine Komponente zur Authentifizierung von
+Leistungserbringerinstitutionen darf von demjenigen, an den sie
+ausgegeben wurde, weder entgeltlich noch unentgeltlich unbefugt
+weitergegeben werden. Bei Aufgabe der Leistungserbringerinstitution
+hat derjenige, an den eine Komponente zur Authentifizierung von
+Leistungserbringerinstitutionen ausgegeben wurde, oder dessen
+Nachfolger deren Sperrung unverzüglich zu veranlassen.
+
+(2) Die Einrichtungsleitung einer ambulanten oder stationären
+Pflegeeinrichtung nach dem Elften Buch ist für die Einhaltung der
+Vorgaben nach Absatz 1 verantwortlich.
 
 
 #### Zweiter Titel - Elektronische Patientenakte
@@ -42089,8 +43835,8 @@ elektronische Patientenakte:
     Siebten Buches,
 
 
-15. elektronische Abschriften der Patientenakte nach § 630g Absatz 2 Satz
-    1 des Bürgerlichen Gesetzbuchs und
+15. elektronische Abschriften der Behandlungsakte nach § 630g Absatz 1
+    Satz 3 des Bürgerlichen Gesetzbuchs und
 
 
 16. Daten zu Erklärungen zur Organ- und Gewebespende.
@@ -42353,12 +44099,10 @@ gewährleisten, dass
 
 
 
-2.  zusätzlich spätestens ab dem Zeitpunkt, zu dem die elektronische
-    Patientenakte gemäß Absatz 1 Satz 2 zur Verfügung steht, die
-    Versicherten den Sofortnachrichtendienst mit Leistungserbringern und
-    mit Krankenkassen als sicheres Übermittlungsverfahren nach § 311
-    Absatz 6 über die Benutzeroberfläche nach Nummer 1 Buchstabe b nutzen
-    können und
+2.  zusätzlich spätestens ab dem 15. Juli 2025 die Versicherten den
+    Sofortnachrichtendienst mit Leistungserbringern und mit Krankenkassen
+    als sicheres Übermittlungsverfahren nach § 311 Absatz 6 über die
+    Benutzeroberfläche nach Nummer 1 Buchstabe b nutzen können und
 
 
 3.  zusätzlich spätestens sechs Monate, nachdem das dafür bestimmte
@@ -42370,10 +44114,10 @@ gewährleisten, dass
     dem Register vornehmen können, und
 
 
-4.  zusätzlich spätestens sechs Monate nach Bereitstellung der
-    elektronischen Patientenakte gemäß Absatz 1 Satz 2 Daten, die in der
-    elektronischen Patientenakte gespeichert sind, nach § 363 zu
-    Forschungszwecken bereitgestellt werden können und
+4.  zusätzlich, sobald die hierfür erforderlichen Voraussetzungen
+    vorliegen, spätestens jedoch bis zum 30. Oktober 2026, die in der
+    elektronischen Patientenakte gespeicherten Daten nach § 363 zu
+    Forschungszwecken bereitgestellt werden können.
 
 
 
@@ -42381,39 +44125,39 @@ gewährleisten, dass
 die nach Absatz 1 Satz 2 bereitgestellte elektronische Patientenakte
 technisch insbesondere gewährleisten, dass
 
-1.  spätestens ab dem Zeitpunkt, zu dem die elektronische Patientenakte
-    gemäß Absatz 1 Satz 2 zur Verfügung steht, zur digitalen Unterstützung
+1.  sobald die hierfür erforderlichen Voraussetzungen vorliegen,
+    spätestens jedoch bis zum 31. März 2026, zur digitalen Unterstützung
     des Medikationsprozesses des Versicherten
 
     a)  Daten nach § 341 Absatz 2 Nummer 11 zu arzneimittelbezogenen
         Verordnungsdaten und Dispensierinformationen zur Darstellung der
         aktuell verordneten Medikation sowie Daten zu frei verkäuflichen
         Arzneimitteln und Nahrungsergänzungsmitteln in semantisch und
-        syntaktisch interoperabler Form in einem Informationsobjekt gemäß §
-        355 genutzt werden können und die Erstellung und Aktualisierung des
-        elektronischen Medikationsplans nach § 341 Absatz 2 Nummer 1 Buchstabe
+        syntaktisch interoperabler Form in einem Informationsobjekt nach § 355
+        genutzt werden können und die Erstellung und Aktualisierung des
+        elektronischen Medikationsplans nach § 341 Absatz 2 Nummer 1 Buchstabe
         b unterstützen;
 
 
     b)  Daten des elektronischen Medikationsplans nach § 341 Absatz 2 Nummer 1
-        Buchstabe b in einem Informationsobjekt gemäß § 355 in semantisch und
+        Buchstabe b in einem Informationsobjekt nach § 355 in semantisch und
         syntaktisch interoperabler Form in der elektronischen Patientenakte
         zur Verfügung gestellt werden können und Ergänzungen durch den
         Versicherten nach § 337 Absatz 1 Satz 1 vorgenommen werden können;
 
 
     c)  Daten zur Prüfung der Arzneimitteltherapiesicherheit nach § 334 Absatz
-        1 Satz 2 Nummer 4 in einem Informationsobjekt gemäß § 355 in
-        semantisch und syntaktisch interoperabler Form zur Verfügung gestellt
-        werden können und die Nutzung der Daten nach Buchstabe a sowie die
-        Erstellung und Aktualisierung des elektronischen Medikationsplans nach
-        Buchstabe b unterstützen können;
+        1 Satz 2 Nummer 4 in einem Informationsobjekt nach § 355 in semantisch
+        und syntaktisch interoperabler Form zur Verfügung gestellt werden
+        können und die Nutzung der Daten nach Buchstabe a sowie die Erstellung
+        und Aktualisierung des elektronischen Medikationsplans nach Buchstabe
+        b unterstützen können;
 
 
     d)  die Versicherten oder durch sie bestimmte Vertreter über die
         Benutzeroberfläche eines geeigneten Endgeräts einen Widerspruch
         gegenüber Zugriffsberechtigten nach § 352 gegen die Übermittlung und
-        Speicherung von Daten des Versicherten nach Buchstabe a, b und c
+        Speicherung von Daten des Versicherten nach den Buchstaben a bis c
         insgesamt barrierefrei erklären können und
 
 
@@ -42634,141 +44378,7 @@ beschränkt. Die Zugriffe der Ombudsstelle werden protokolliert.
 
 ###### § 343 Informationspflichten der Krankenkassen
 
-(1) Die Krankenkassen haben den Versicherten, bevor sie ihnen gemäß §
-342 Absatz 1 Satz 1 eine elektronische Patientenakte anbieten,
-umfassendes, geeignetes Informationsmaterial über die elektronische
-Patientenakte in präziser, transparenter, verständlicher und leicht
-zugänglicher Form in einer klaren und einfachen Sprache und
-barrierefrei zur Verfügung zu stellen. Das Informationsmaterial muss
-über alle relevanten Umstände der Datenverarbeitung für die
-Einrichtung der elektronischen Patientenakte, die Übermittlung von
-Daten in die elektronische Patientenakte und die Verarbeitung von
-Daten in der elektronischen Patientenakte durch Leistungserbringer
-einschließlich der damit verbundenen Datenverarbeitungsvorgänge in den
-verschiedenen Bestandteilen der Telematikinfrastruktur und die für die
-Datenverarbeitung datenschutzrechtlich Verantwortlichen informieren.
-Das Informationsmaterial enthält insbesondere Informationen über
-
-1.  den jeweiligen Anbieter der von der Krankenkasse zur Verfügung
-    gestellten elektronischen Patientenakte,
-
-
-2.  die Funktionsweise der elektronischen Patientenakte, einschließlich
-    der Art der in ihr zu verarbeitenden Daten gemäß § 341 Absatz 2,
-
-
-3.  die Freiwilligkeit der Einrichtung der elektronischen Patientenakte
-    und das Recht auf jederzeitige teilweise oder vollständige Löschung,
-
-
-4.  das Erfordernis der vorherigen Einwilligung in die Datenverarbeitung
-    in der elektronischen Patientenakte gegenüber Krankenkassen, Anbietern
-    und Leistungserbringern sowie die Möglichkeit des Widerrufs der
-    Einwilligung,
-
-
-5.  die für den Zweck der Einrichtung der elektronischen Patientenakte
-    erforderliche Datenverarbeitung durch die Krankenkassen und die
-    Anbieter gemäß § 344 Absatz 1,
-
-
-6.  den Anspruch gemäß § 337 auf selbständige Speicherung und Löschung von
-    Daten in der elektronischen Patientenakte und über die Verarbeitung
-    dieser Daten durch die Krankenkassen und Anbieter in der
-    elektronischen Patientenakte einschließlich des Hinweises, dass die
-    Krankenkassen keinen Zugriff auf die in der elektronischen
-    Patientenakte gespeicherten Daten haben,
-
-
-7.  den Anspruch auf Übertragung von bei der Krankenkasse gespeicherten
-    Daten in die elektronische Patientenakte nach § 350 Absatz 1 und die
-    Verarbeitung dieser Daten durch die Krankenkassen und Anbieter in der
-    elektronischen Patientenakte,
-
-
-8.  den Anspruch auf Übertragung von Behandlungsdaten in die elektronische
-    Patientenakte durch Leistungserbringer nach den §§ 347 bis 349 und die
-    Verarbeitung dieser Daten durch die Leistungserbringer, Krankenkassen
-    und Anbieter in der elektronischen Patientenakte,
-
-
-9.  den Anspruch auf Übertragung von Daten aus elektronischen
-    Gesundheitsakten in die elektronische Patientenakte nach § 351 und die
-    Verarbeitung dieser Daten durch die Krankenkassen und Anbieter in der
-    elektronischen Patientenakte,
-
-
-10. die Voraussetzungen für den Zugriff von Leistungserbringern auf Daten
-    in der elektronischen Patientenakte nach § 352 und die Verarbeitung
-    dieser Daten durch den Leistungserbringer,
-
-
-11. die Möglichkeit, bei der Datenverarbeitung nach Nummer 10 beim
-    Leistungserbringer durch technische Zugriffsfreigabe in die konkrete
-    Datenverarbeitung einzuwilligen,
-
-
-12. die fehlende Möglichkeit, vor dem 1. Januar 2022 die Einwilligung
-    sowohl auf spezifische Dokumente und Datensätze als auch auf Gruppen
-    von Dokumenten und Datensätzen der elektronischen Patientenakte nach §
-    342 Absatz 2 Nummer 2 Buchstabe b zu beschränken,
-
-
-13. die fehlende Möglichkeit, die Einwilligung mittels der dezentralen
-    Infrastruktur der Leistungserbringer auf spezifische Dokumente und
-    Datensätze zu beschränken,
-
-
-14. das Angebot von zusätzlichen Anwendungen nach § 345 Absatz 1 und über
-    deren Funktionsweise einschließlich der Art der in ihr zu
-    verarbeitenden Daten, den Speicherort und die Zugriffsrechte,
-
-
-15. die sichere Nutzung von Komponenten, die den Zugriff der Versicherten
-    auf die elektronische Patientenakte über eine Benutzeroberfläche
-    geeigneter Endgeräte ermöglichen,
-
-
-16. die Möglichkeit und die Voraussetzungen, gemäß § 363 Daten der
-    elektronischen Patientenakte freiwillig für die in § 303e Absatz 2
-    Nummer 2, 4, 5 und 7 aufgeführten Forschungszwecke freizugeben,
-
-
-17. die Rechte der Versicherten gegenüber der Krankenkasse als dem für die
-    Datenverarbeitung Verantwortlichen nach Artikel 4 Nummer 7 der
-    Verordnung (EU) 2016/679,
-
-
-18. die Möglichkeit, den Zugriff von Leistungserbringern nach Nummer 10
-    auf Daten in der elektronischen Patientenakte nach § 352 auch Ärzten,
-    die bei einer für den Öffentlichen Gesundheitsdienst zuständigen
-    Behörde tätig sind, und Fachärzten für Arbeitsmedizin sowie Ärzten,
-    die über die Zusatzbezeichnung „Betriebsmedizin“ verfügen, zu
-    erteilen,
-
-
-19. die Möglichkeit, ab dem 1. Januar 2022 über die Benutzeroberfläche
-    eines geeigneten Endgeräts einem Vertreter die Befugnis zu erteilen,
-    die Rechte des Versicherten im Rahmen der Führung seiner
-    elektronischen Patientenakte innerhalb der erteilten
-    Vertretungsbefugnis wahrzunehmen,
-
-
-20. mögliche versorgungsrelevante Folgen, die daraus resultieren können,
-    dass der Versicherte von seinen Rechten Gebrauch macht, sich gegen die
-    Nutzung einer elektronischen Patientenakte zu entscheiden, Zugriffe
-    auf Daten der elektronischen Patientenakte nicht zu erteilen oder
-    Daten der elektronischen Patientenakte zu löschen und
-
-
-21. die Möglichkeit für die Versicherten, ab dem 1. Januar 2023 Daten aus
-    ihren digitalen Gesundheitsanwendungen nach § 33a mit ihrer
-    Einwilligung vom Hersteller einer solchen Anwendung über den Anbieter
-    der elektronischen Patientenakte in ihre elektronische Patientenakte
-    zu übermitteln.
-
-
-
+(1) (weggefallen)
 
 (1a) Die Krankenkassen haben den Versicherten, bevor sie ihnen eine
 elektronische Patientenakte gemäß § 342 Absatz 1 Satz 2 zur Verfügung
@@ -42968,13 +44578,7 @@ Das Informationsmaterial muss insbesondere Informationen enthalten
 
 
 
-(2) Zur Unterstützung der Krankenkassen bei der Erfüllung ihrer
-Informationspflichten nach Absatz 1 hat der Spitzenverband Bund der
-Krankenkassen im Benehmen mit der oder dem Bundesbeauftragten für den
-Datenschutz und die Informationsfreiheit spätestens bis zum 30.
-November 2020 geeignetes Informationsmaterial, auch in elektronischer
-Form, zu erstellen und den Krankenkassen zur verbindlichen Nutzung zur
-Verfügung zu stellen.
+(2) (weggefallen)
 
 (3) Zur Unterstützung der Krankenkassen bei der Erfüllung ihrer
 Informationspflichten nach Absatz 1a hat der Spitzenverband Bund der
@@ -43008,36 +44612,71 @@ elektronischer Form, zu erstellen und den Krankenkassen zur
 verbindlichen Nutzung zur Verfügung zu stellen.
 
 
-###### § 344 Einwilligung der Versicherten und Zulässigkeit der Datenverarbeitung durch die Krankenkassen und Anbieter der elektronischen Patientenakte
+###### § 344 Widerspruch der Versicherten und Zulässigkeit der Datenverarbeitung durch die Krankenkassen und die Anbieter der elektronischen Patientenakte
 
-(1) Hat der Versicherte nach vorheriger Information gemäß § 343
-gegenüber der Krankenkasse in die Einrichtung der elektronischen
-Patientenakte eingewilligt, so dürfen die Krankenkasse, der Anbieter
-der elektronischen Patientenakte sowie der Anbieter von einzelnen
-Diensten und Komponenten der elektronischen Patientenakte die zum
-Zweck der Einrichtung erforderlichen administrativen personenbezogenen
-Daten verarbeiten. Die Krankenkasse darf versichertenbezogene Daten
-über den Anbieter der elektronischen Patientenakte in die
-elektronische Patientenakte übermitteln.
+(1) Hat der Versicherte nach vorheriger Information gemäß § 343 der
+Einrichtung einer elektronischen Patientenakte gegenüber der
+Krankenkasse nicht innerhalb einer Frist von sechs Wochen
+widersprochen, stellt die Krankenkasse dem Versicherten eine
+elektronische Patientenakte bereit. Die Krankenkasse, der Anbieter der
+elektronischen Patientenakte sowie die Anbieter von einzelnen Diensten
+und Komponenten der elektronischen Patientenakte dürfen die zum Zweck
+der Einrichtung erforderlichen administrativen personenbezogenen Daten
+verarbeiten. Die Krankenkasse darf versichertenbezogene Daten über den
+Anbieter der elektronischen Patientenakte in die elektronische
+Patientenakte übermitteln.
 
 (2) Macht der Versicherte nach vorheriger Information gemäß § 343 von
-seinen Ansprüchen gemäß den §§ 347 bis 351 Gebrauch, dürfen auf Grund
-der Einwilligung des Versicherten die Krankenkassen, der Anbieter der
-elektronischen Patientenakte und die Anbieter von einzelnen Diensten
-und Komponenten der elektronischen Patientenakte die zu diesem Zweck
-übermittelten personenbezogenen Daten speichern. Die Kenntnisnahme der
-Daten und der Zugriff auf die Daten nach den §§ 347 bis 351 ist nicht
-zulässig.
+seinen in § 343 Absatz 1a Nummer 14 genannten Rechten und Ansprüchen
+Gebrauch, dürfen auf Grund der Einwilligung des Versicherten die
+Krankenkassen, der Anbieter der elektronischen Patientenakte und die
+Anbieter von einzelnen Diensten und Komponenten der elektronischen
+Patientenakte die zu diesem Zweck übermittelten personenbezogenen
+Daten speichern. Die Kenntnisnahme der Daten und der Zugriff auf die
+Daten nach den §§ 347 bis 351 ist nicht zulässig.
 
-(3) Auf Verlangen des Versicherten gegenüber der Krankenkasse hat der
-Anbieter auf Veranlassung der Krankenkasse die elektronische
-Patientenakte vollständig zu löschen.
+(2a) Macht der Versicherte nach vorheriger Information gemäß § 343 von
+seinen in § 343 Absatz 1a Nummer 13 und in § 350 genannten Rechten zum
+Widerspruch gegen die Übermittlung und Speicherung von Daten in die
+elektronische Patientenakte keinen Gebrauch, dürfen die Krankenkassen,
+der Anbieter der elektronischen Patientenakte und die Anbieter von
+einzelnen Diensten und Komponenten der elektronischen Patientenakte
+die übermittelten personenbezogenen Daten speichern. Eine
+Kenntnisnahme der Daten und ein Zugriff auf die Daten nach den §§ 347
+bis 351 durch die Krankenkassen, den Anbieter der elektronischen
+Patientenakte oder die Anbieter von einzelnen Diensten und Komponenten
+der elektronischen Patientenakte ist nicht zulässig.
+
+(3) Die Versicherten können einer bereitgestellten elektronischen
+Patientenakte gemäß Absatz 1 auch jederzeit nach Einrichtung
+widersprechen. Der Widerspruch kann gegenüber der Krankenkasse erklärt
+werden oder über eine Benutzeroberfläche eines geeigneten Endgeräts
+erfolgen. Die Krankenkasse hat den Versicherten umfassend darüber zu
+informieren, dass nach einem erfolgten Widerspruch die elektronische
+Patientenakte einschließlich aller darin gespeicherten Daten gelöscht
+wird und diese Daten auch bei einer erneuten Einrichtung auf Verlangen
+nach Absatz 5 nicht wiederhergestellt werden können. Macht der
+Versicherte von seinem Widerspruch gegen die bereitgestellte
+elektronische Patientenakte Gebrauch, hat der Anbieter auf
+Veranlassung der Krankenkasse die elektronische Patientenakte
+unverzüglich und vollständig zu löschen.
 
 (4) Sofern es für die Durchsetzung von datenschutzrechtlichen
 Ansprüchen der Versicherten gegenüber den für die Verarbeitung von
 Daten in der elektronischen Patientenakte Verantwortlichen notwendig
 ist, sind die in § 352 genannten Leistungserbringer verpflichtet, die
 Verantwortlichen bei der Umsetzung zu unterstützen.
+
+(5) Versicherte, die der Einrichtung einer elektronischen
+Patientenakte widersprochen haben, können nach dem Widerspruch
+jederzeit die Einrichtung der elektronischen Patientenakte gegenüber
+der Krankenkasse verlangen. Satz 1 gilt auch bei einem Wechsel der
+Krankenkasse.
+
+(6) Die Krankenkasse hat zwölf Monate nach Kenntnis des Todes eines
+Versicherten dessen elektronische Patientenakte zu löschen, es sei
+denn, es werden entgegenstehende berechtigte Interessen Dritter
+geltend gemacht und nachgewiesen.
 
 
 ###### § 345 Angebot und Nutzung zusätzlicher Inhalte und Anwendungen
@@ -43070,8 +44709,8 @@ vertragsärztlichen Versorgung teilnehmen oder in Einrichtungen, die an
 der vertragsärztlichen Versorgung teilnehmen oder in zugelassen
 Krankenhäusern tätig sind, haben auf der Grundlage der
 Informationspflichten der Krankenkassen nach § 343 die Versicherten
-auf deren Verlangen bei der Verarbeitung medizinischer Daten in der
-elektronischen Patientenakte ausschließlich im aktuellen
+nach Maßgabe der §§ 347 bis 349 bei der Verarbeitung medizinischer
+Daten in der elektronischen Patientenakte ausschließlich im aktuellen
 Behandlungskontext zu unterstützen. Die Unterstützungsleistung nach
 Satz 1 umfasst die Übermittlung von medizinischen Daten in die
 elektronische Patientenakte und ist ausschließlich auf medizinische
@@ -43083,28 +44722,36 @@ soweit diese übertragbar sind, auf Personen übertragen, die als
 berufsmäßige Gehilfen oder zur Vorbereitung auf den Beruf bei ihnen
 tätig sind.
 
-(2) Auf Verlangen der Versicherten haben Apotheker bei der Abgabe
-eines Arzneimittels die Versicherten bei der Verarbeitung
-arzneimittelbezogener Daten in der elektronischen Patientenakte zu
-unterstützen. Apotheker können Aufgaben in diesem Zusammenhang auf zum
-pharmazeutischen Personal der Apotheke gehörende Personen übertragen.
+(2) Apotheker haben bei der Abgabe eines Arzneimittels die
+Versicherten bei der Verarbeitung arzneimittelbezogener Daten in der
+elektronischen Patientenakte zu unterstützen und nach Maßgabe des §
+339 Absatz 1 Daten des Versicherten nach § 341 Absatz 2 Nummer 1
+Buchstabe b und Nummer 11 in der elektronischen Patientenakte zu
+speichern, soweit diese nicht gemäß § 360 Absatz 14 in der
+elektronischen Patientenakte gespeichert sind und soweit die
+Versicherten dem Zugriff der Apotheker auf die elektronische
+Patientenakte und der Übermittlung und Speicherung dieser Daten in die
+elektronische Patientenakte nicht gemäß § 353 Absatz 1 oder 2
+widersprochen haben. Apotheker können Aufgaben in diesem Zusammenhang
+auf zum pharmazeutischen Personal der Apotheke gehörende Personen
+übertragen.
 
 (3) Ärzte, Zahnärzte und Psychotherapeuten, die an der
 vertragsärztlichen Versorgung teilnehmen oder in Einrichtungen, die an
 der vertragsärztlichen Versorgung teilnehmen oder in zugelassen
 Krankenhäusern tätig sind, haben auf der Grundlage der
 Informationspflichten der Krankenkassen nach § 343 die Versicherten
-auf deren Verlangen bei der erstmaligen Befüllung der elektronischen
-Patientenakte ausschließlich im aktuellen Behandlungskontext zu
-unterstützen. Die Unterstützungsleistung nach Satz 1 umfasst die
-Übermittlung von medizinischen Daten in die elektronische
-Patientenakte und ist ausschließlich auf medizinische Daten aus der
-konkreten aktuellen Behandlung beschränkt. Die in Satz 1 genannten
-Leistungserbringer können Aufgaben in diesem Zusammenhang, soweit
-diese übertragbar sind, auf Personen übertragen, die als berufsmäßige
-Gehilfen oder zur Vorbereitung auf den Beruf bei ihnen oder in an der
-vertragsärztlichen Versorgung teilnehmenden Einrichtungen oder in
-zugelassenen Krankenhäusern tätig sind.
+nach Maßgabe der §§ 347 bis 349 bei der erstmaligen Befüllung der
+elektronischen Patientenakte ausschließlich im aktuellen
+Behandlungskontext zu unterstützen. Die Unterstützungsleistung nach
+Satz 1 umfasst die Übermittlung von medizinischen Daten in die
+elektronische Patientenakte und ist ausschließlich auf medizinische
+Daten aus der konkreten aktuellen Behandlung beschränkt. Die in Satz 1
+genannten Leistungserbringer können Aufgaben in diesem Zusammenhang,
+soweit diese übertragbar sind, auf Personen übertragen, die als
+berufsmäßige Gehilfen oder zur Vorbereitung auf den Beruf bei ihnen
+oder in an der vertragsärztlichen Versorgung teilnehmenden
+Einrichtungen oder in zugelassenen Krankenhäusern tätig sind.
 
 (4) Für Leistungen nach Absatz 2 zur Unterstützung der Versicherten
 bei der Verarbeitung arzneimittelbezogener Daten in der elektronischen
@@ -43116,128 +44763,373 @@ maßgebliche Spitzenorganisation der Apotheker auf Bundesebene mit
 Wirkung zum 1. Januar 2021. Kommt eine Vereinbarung nach Satz 2 ganz
 oder teilweise nicht zustande, gilt § 129 Absatz 8.
 
-(5) Für Leistungen nach Absatz 3 erhalten die an der
-vertragsärztlichen Versorgung teilnehmenden Leistungserbringer sowie
-Krankenhäuser ab dem 1. Januar 2021 über einen Zeitraum von zwölf
-Monaten eine einmalige Vergütung je Erstbefüllung in Höhe von 10 Euro.
-
-(6) Die Leistungen nach Absatz 3 dürfen im Rahmen der gesetzlichen
+(5) Die Leistungen nach Absatz 3 dürfen im Rahmen der gesetzlichen
 Krankenversicherung je Versichertem und elektronischer Patientenakte
-insgesamt nur einmal erbracht und abgerechnet werden. Das Nähere zu
-den Abrechnungsvoraussetzungen und -verfahren für Leistungen nach
+insgesamt nur einmal erbracht und nur einmal von Ärzten, die an der
+vertragsärztlichen Versorgung teilnehmen oder in Einrichtungen, die an
+der vertragsärztlichen Versorgung teilnehmen oder in zugelassen
+Krankenhäusern tätig sind und im Schwerpunkt die aktuelle ärztliche
+Behandlung des Versicherten übernehmen, abgerechnet werden. Das Nähere
+zu den Abrechnungsvoraussetzungen und -verfahren für Leistungen nach
 Absatz 3 vereinbaren der Spitzenverband Bund der Krankenkassen, die
 Kassenärztlichen Bundesvereinigungen sowie die Deutsche
-Krankenhausgesellschaft mit Wirkung zum 1. Januar 2021. Die
-Vereinbarung stellt sicher, dass nur eine einmalige Abrechnung der
-Vergütung für die Leistungen nach Absatz 3 möglich ist.
+Krankenhausgesellschaft mit Wirkung zum Zeitpunkt der
+Zurverfügungstellung der elektronischen Patientenakte nach § 342
+Absatz 1 Satz 2. Die Vereinbarung stellt sicher, dass nur eine
+einmalige Abrechnung der Vergütung für die Leistungen nach Absatz 3
+möglich ist.
 
 
-###### § 347 Anspruch der Versicherten auf Übertragung von Behandlungsdaten in die elektronische Patientenakte durch Leistungserbringer
+###### § 347 Übertragung von Behandlungsdaten in die elektronische Patientenakte durch Leistungserbringer
 
-(1) Versicherte haben Anspruch auf Übermittlung von Daten nach § 341
-Absatz 2 Nummer 1 bis 5 und 10 bis 13 in die elektronische
-Patientenakte und dortige Speicherung, soweit diese Daten im Rahmen
-der vertragsärztlichen Versorgung bei der Behandlung des Versicherten
-durch die an der vertragsärztlichen Versorgung teilnehmenden
-Leistungserbringer elektronisch verarbeitet werden und soweit andere
-Rechtsvorschriften nicht entgegenstehen. Die in § 342 Absatz 1 und 2
-geregelten Fristen bleiben unberührt.
+(1) Die an der vertragsärztlichen Versorgung teilnehmenden
+Leistungserbringer haben nach Maßgabe der §§ 346 und 339 Absatz 1
+Daten des Versicherten, die gemäß § 342 Absatz 2a, 2b und 2c als
+Anwendungsfälle in der elektronischen Patientenakte verarbeitet werden
+können, in die elektronische Patientenakte zu übermitteln und dort zu
+speichern. Die Verpflichtung nach Satz 1 gilt, soweit
 
-(2) Die an der vertragsärztlichen Versorgung teilnehmenden
-Leistungserbringer haben
-
-1.  die Versicherten im Rahmen der vertragsärztlichen Versorgung über den
-    Anspruch nach Absatz 1 zu informieren und
+1.  diese Daten im Rahmen der vertragsärztlichen Versorgung bei der
+    konkreten aktuellen Behandlung des Versicherten von den an der
+    vertragsärztlichen Versorgung teilnehmenden Leistungserbringern
+    erhoben und in semantisch und syntaktisch interoperabler Form
+    verarbeitet werden und
 
 
-2.  die Daten nach Absatz 1 auf Verlangen des Versicherten in die
-    elektronische Patientenakte nach § 341 zu übermitteln und dort zu
-    speichern.
-
-
-
-
-
-###### § 348 Anspruch der Versicherten auf Übertragung von Behandlungsdaten in die elektronische Patientenakte durch Krankenhäuser
-
-(1) Versicherte haben Anspruch auf Übermittlung von Daten nach § 341
-Absatz 2 Nummer 1 bis 5, 10, 11 und 13 in die elektronische
-Patientenakte und dortige Speicherung, soweit diese Daten im Rahmen
-der Krankenhausbehandlung des Versicherten elektronisch erhoben wurden
-und soweit andere Rechtsvorschriften nicht entgegenstehen. Die in §
-342 Absatz 1 und 2 geregelten Fristen bleiben unberührt.
-
-(2) Die Leistungserbringer in den zugelassenen Krankenhäusern haben
-
-1.  die Versicherten über den Anspruch nach Absatz 1 zu informieren und
-
-
-2.  die Daten nach Absatz 1 auf Verlangen des Versicherten in die
-    elektronische Patientenakte nach § 341 zu übermitteln und dort zu
-    speichern.
+2.  der Versicherte weder dem Zugriff der Leistungserbringer nach Satz 1
+    auf die Daten in der elektronischen Patientenakte insgesamt noch dem
+    Anwendungsfall gemäß § 353 Absatz 1 oder 2 widersprochen hat.
 
 
 
+Abweichend von Satz 1 ist die Übermittlung und Speicherung von
+Ergebnissen genetischer Untersuchungen oder Analysen im Sinne des
+Gendiagnostikgesetzes in die elektronische Patientenakte nur durch die
+verantwortliche ärztliche Person und mit ausdrücklicher und
+schriftlich oder in elektronischer Form vorliegender Einwilligung des
+Versicherten zulässig. Die nach Satz 1 verpflichteten
+Leistungserbringer haben die Versicherten vor der Übermittlung und
+Speicherung von Daten des Versicherten, deren Bekanntwerden Anlass zu
+Diskriminierung oder Stigmatisierung des Versicherten geben kann,
+insbesondere zu sexuell übertragbaren Infektionen, psychischen
+Erkrankungen und Schwangerschaftsabbrüchen, in die elektronische
+Patientenakte auf das Recht zum Widerspruch gegen die Übermittlung und
+Speicherung der Daten in die elektronische Patientenakte hinzuweisen.
+Einen daraufhin erklärten Widerspruch des Versicherten haben die an
+der vertragsärztlichen Versorgung teilnehmenden Leistungserbringer
+nachprüfbar in ihrer Behandlungsdokumentation zu protokollieren. Die
+in § 342 geregelten Fristen bleiben unberührt.
+
+(2) Ferner haben die an der vertragsärztlichen Versorgung
+teilnehmenden Leistungserbringer folgende Daten in die elektronische
+Patientenakte zu übermitteln und dort zu speichern:
+
+1.  Daten zu Laborbefunden,
 
 
-###### § 349 Anspruch der Versicherten auf Übertragung von Daten aus Anwendungen der Telematikinfrastruktur nach § 334 und von elektronischen Arztbriefen in die elektronische Patientenakte
-
-(1) Über die in den §§ 347 und 348 geregelten Ansprüche hinaus haben
-Versicherte einen Anspruch auf Übermittlung von Daten in einer
-Anwendung nach § 334 Absatz 1 Satz 2 Nummer 2 bis 6 und von
-elektronischen Arztbriefen nach § 383 Absatz 2 in die elektronische
-Patientenakte und dortige Speicherung gegen Personen, die
-
-1.  nach § 352 zum Zugriff auf die elektronische Patientenakte berechtigt
-    sind und
+2.  Befundberichte aus bildgebender Diagnostik,
 
 
-2.  Daten des Versicherten in einer Anwendung nach § 334 Absatz 1 Satz 2
-    Nummer 2 bis 6 und § 383 verarbeiten.
+3.  Befundberichte aus invasiven oder chirurgischen sowie aus nicht-
+    invasiven oder konservativen Maßnahmen und
+
+
+4.  elektronische Arztbriefe gemäß § 341 Absatz 2 Nummer 1 Buchstabe d.
 
 
 
-Die in § 342 Absatz 1 und 2 geregelten Fristen bleiben unberührt.
+Die Verpflichtung nach Satz 1 gilt, soweit die Daten im Rahmen der
+konkreten aktuellen Behandlung durch die Leistungserbringer erhoben
+und elektronisch verarbeitet wurden und nicht bereits nach Absatz 1 in
+die elektronische Patientenakte zu übermitteln und dort zu speichern
+sind. Darüber hinaus können die an der vertragsärztlichen Versorgung
+teilnehmenden Leistungserbringer Daten nach Satz 1 Nummer 1 bis 4 aus
+vorangegangenen Behandlungen in die elektronische Patientenakte
+übermitteln und dort speichern, soweit diese durch den
+Leistungserbringer erhoben und elektronisch verarbeitet wurden und das
+aus Sicht des Leistungserbringers für die Versorgung des Versicherten
+erforderlich ist.
 
-(2) Nach Absatz 1 verpflichtete Personen haben
+(3) Eine Übermittlung und Speicherung der Daten nach Absatz 2 ist nur
+zulässig, soweit der Versicherte dem Zugriff der Leistungserbringer
+nach Absatz 1 Satz 1 auf die Daten in der elektronischen Patientenakte
+insgesamt gemäß § 353 Absatz 2 nicht widersprochen hat. Die an der
+vertragsärztlichen Versorgung teilnehmenden Leistungserbringer haben
+die Versicherten in der Behandlung darüber zu informieren, welche
+Daten nach Absatz 2 in die elektronische Patientenakte übermittelt und
+dort gespeichert werden. Erklärt der Versicherte daraufhin seinen
+Widerspruch, hat der Leistungserbringer diesen nachprüfbar in seiner
+Behandlungsdokumentation zu protokollieren. Die Übermittlung und
+Speicherung nach Absatz 2 ist nur zulässig, soweit andere
+Rechtsvorschriften der Übermittlung und Speicherung nicht
+entgegenstehen. Absatz 1 Satz 3 bis 5 gilt entsprechend. Darüber
+hinaus haben Leistungserbringer die Versicherten vor der Übermittlung
+und Speicherung von Daten des Versicherten in die elektronische
+Patientenakte, deren Bekanntwerden Anlass zu Diskriminierung oder
+Stigmatisierung des Versicherten geben kann, insbesondere zu sexuell
+übertragbaren Infektionen, psychischen Erkrankungen und
+Schwangerschaftsabbrüchen, auf die Möglichkeit, die Verarbeitung
+dieser Daten zu beschränken, hinzuweisen. Absatz 1 Satz 6 gilt
+entsprechend.
 
-1.  die Versicherten über den Anspruch nach Absatz 1 zu informieren und
+(4) Über die Verpflichtung nach Absatz 1 Satz 1 und Absatz 2 Satz 1
+hinaus haben die an der vertragsärztlichen Versorgung teilnehmenden
+Leistungserbringer auf Verlangen der Versicherten Daten der
+Versicherten nach § 341 Absatz 2 Nummer 1 bis 5, 10 bis 14 und 16 in
+die elektronische Patientenakte zu übermitteln und dort zu speichern,
+soweit diese Daten in der konkreten aktuellen Behandlung durch die
+Leistungserbringer erhoben und elektronisch verarbeitet werden. Eine
+Übermittlung und Speicherung der Daten nach Satz 1 ist nur zulässig,
+soweit der Versicherte abweichend von § 339 Absatz 1 in die
+Übermittlung und Speicherung dieser Daten eingewilligt hat. Die
+Leistungserbringer haben nachprüfbar in ihrer Behandlungsdokumentation
+zu protokollieren, dass der Versicherte seine Einwilligung erteilt
+hat. Die an der vertragsärztlichen Versorgung teilnehmenden
+Leistungserbringer haben die Versicherten über den Anspruch nach Satz
+1 zu informieren. Die Verpflichtung nach Satz 1 gilt, soweit andere
+Rechtsvorschriften der Übermittlung und Speicherung nicht
+entgegenstehen.
+
+(5) Auf Verlangen des Versicherten haben die an der vertragsärztlichen
+Versorgung teilnehmenden Leistungserbringer elektronische Abschriften
+der Behandlungsakte nach § 630g Absatz 1 Satz 3 des Bürgerlichen
+Gesetzbuchs in die elektronische Patientenakte zu übermitteln und dort
+gemäß § 341 Absatz 2 Nummer 15 zu speichern. Absatz 4 Satz 2, 3 und 5
+gilt entsprechend.
+
+(6) Die Verpflichtungen nach Absatz 1 Satz 1, Absatz 2 Satz 1, Absatz
+4 Satz 1 und Absatz 5 bestehen nicht, soweit der Übermittlung und
+Speicherung von Daten in die elektronische Patientenakte erhebliche
+therapeutische Gründe oder sonstige erhebliche Rechte Dritter
+entgegenstehen oder soweit gewichtige Anhaltspunkte für die Gefährdung
+des Wohles eines Kindes oder eines Jugendlichen bis zur Vollendung des
+15\. Lebensjahres vorliegen und die Befüllung der elektronischen
+Patientenakte den wirksamen Schutz des Kindes oder Jugendlichen in
+Frage stellen würde. Die Gründe für die Ablehnung der Übermittlung und
+Speicherung nach Satz 1 haben Leistungserbringer nachprüfbar in ihrer
+Behandlungsdokumentation zu protokollieren.
 
 
-2.  die verarbeiteten Daten nach Absatz 1 auf Verlangen des Versicherten
-    in die elektronische Patientenakte nach § 341 zu übermitteln und dort
-    zu speichern.
+###### § 348 Übertragung von Behandlungsdaten in die elektronische Patientenakte durch zugelassene Krankenhäuser
+
+(1) Die Leistungserbringer in zugelassenen Krankenhäusern haben nach
+Maßgabe der §§ 346 und 339 Absatz 1 Daten des Versicherten, die gemäß
+§ 342 Absatz 2a, 2b und 2c als Anwendungsfälle in der elektronischen
+Patientenakte verarbeitet werden können, in die elektronische
+Patientenakte zu übermitteln und dort zu speichern.
+
+(2) Die Verpflichtung nach Absatz 1 gilt, soweit
+
+1.  diese Daten im Rahmen der Krankenhausbehandlung bei der konkreten
+    aktuellen Behandlung des Versicherten von den Leistungserbringern in
+    zugelassenen Krankenhäusern erhoben und in semantisch und syntaktisch
+    interoperabler Form verarbeitet werden und
+
+
+2.  der Versicherte weder dem Zugriff der Leistungserbringer nach Absatz 1
+    auf die Daten in der elektronischen Patientenakte insgesamt noch dem
+    Anwendungsfall gemäß § 353 Absatz 1 oder 2 widersprochen hat.
 
 
 
+§ 347 Absatz 1 Satz 3 bis 6 gilt entsprechend.
 
-(3) Ändern sich Daten nach § 334 Absatz 1 Satz 2 Nummer 4, 5 und 7 und
-werden diese Daten in der elektronischen Patientenakte verfügbar
-gemacht, haben Versicherte einen Anspruch auf Speicherung der
-geänderten Daten in der elektronischen Patientenakte. Der Anspruch
+(3) Über die Verpflichtung nach Absatz 1 Satz 1 hinaus haben die
+Leistungserbringer in zugelassenen Krankenhäusern Daten nach § 347
+Absatz 2 Satz 1 Nummer 1 bis 3 und Entlassbriefe in die elektronische
+Patientenakte zu übermitteln und dort zu speichern, soweit diese Daten
+
+1.  im Rahmen der Krankenhausbehandlung des Versicherten durch die
+    Leistungserbringer in zugelassenen Krankenhäusern erhoben und
+    elektronisch verarbeitet werden und
+
+
+2.  nicht bereits nach Absatz 1 in die elektronische Patientenakte zu
+    übermitteln und dort zu speichern sind.
+
+
+
+Darüber hinaus können die Leistungserbringer in zugelassenen
+Krankenhäusern Daten nach Satz 1 aus vorangegangenen Behandlungen in
+die elektronische Patientenakte übermitteln und dort speichern, soweit
+diese durch den Leistungserbringer erhoben und elektronisch
+verarbeitet wurden und das aus Sicht des Leistungserbringers für die
+Versorgung des Versicherten erforderlich ist. Eine Übermittlung und
+Speicherung der Daten nach den Sätzen 1 und 2 ist nur zulässig, soweit
+der Versicherte dem Zugriff der Leistungserbringer nach Satz 1 auf die
+Daten in der elektronischen Patientenakte insgesamt gemäß § 353 Absatz
+2 nicht widersprochen hat. Die Leistungserbringer in zugelassenen
+Krankenhäusern haben die Versicherten in der Behandlung darüber zu
+informieren, welche Daten in die elektronische Patientenakte
+übermittelt und dort gespeichert werden sollten. Erklärt der
+Versicherte daraufhin seinen Widerspruch, hat der Leistungserbringer
+diesen nachprüfbar in seiner Behandlungsdokumentation zu
+protokollieren. Die Übermittlung und Speicherung der Daten nach den
+Sätzen 1 und 2 ist nur zulässig, soweit andere Rechtsvorschriften der
+Übermittlung und Speicherung nicht entgegenstehen. § 347 Absatz 1 Satz
+3 bis 5 gilt entsprechend. Darüber hinaus haben Leistungserbringer die
+Versicherten vor der Übermittlung und Speicherung von Daten des
+Versicherten in die elektronische Patientenakte, deren Bekanntwerden
+Anlass zu Diskriminierung oder Stigmatisierung des Versicherten geben
+kann, insbesondere zu sexuell übertragbaren Infektionen, psychischen
+Erkrankungen und Schwangerschaftsabbrüchen, auf die Möglichkeit, die
+Verarbeitung dieser Daten zu beschränken, hinzuweisen. § 347 Absatz 1
+Satz 6 gilt entsprechend.
+
+(4) Über die Verpflichtung nach den Absätzen 1 bis 3 hinaus haben die
+Leistungserbringer in zugelassenen Krankenhäusern auf Verlangen der
+Versicherten Daten der Versicherten nach § 341 Absatz 2 Nummer 1 bis
+5, 10 bis 14 und 16 in die elektronische Patientenakte zu übermitteln
+und dort zu speichern, soweit diese Daten im Rahmen der
+Krankenhausbehandlung des Versicherten durch die Leistungserbringer in
+zugelassenen Krankenhäusern erhoben und elektronisch verarbeitet
+werden. Eine Übermittlung und Speicherung der Daten nach Satz 1 ist
+nur zulässig, soweit der Versicherte abweichend von § 339 Absatz 1 in
+die Übermittlung und Speicherung dieser Daten eingewilligt hat. Die
+Leistungserbringer in zugelassenen Krankenhäusern haben nachprüfbar in
+ihrer Behandlungsdokumentation zu protokollieren, dass der Versicherte
+seine Einwilligung erteilt hat. Die Leistungserbringer in zugelassenen
+Krankenhäusern haben die Versicherten über den Anspruch nach Satz 1 zu
+informieren. Die Verpflichtung nach Satz 1 gilt, soweit andere
+Rechtsvorschriften der Übermittlung und Speicherung nicht
+entgegenstehen.
+
+(5) Auf Verlangen des Versicherten haben die Leistungserbringer in
+zugelassenen Krankenhäusern elektronische Abschriften der
+Behandlungsakte nach § 630g Absatz 1 Satz 3 des Bürgerlichen
+Gesetzbuchs in die elektronische Patientenakte zu übermitteln und dort
+gemäß § 341 Absatz 2 Nummer 15 zu speichern.
+
+(6) Die Verpflichtungen nach den Absätzen 1, 3 Satz 1, nach Absatz 4
+Satz 1 und Absatz 5 bestehen nicht, soweit der Übermittlung und
+Speicherung von Daten in die elektronische Patientenakte erhebliche
+therapeutische Gründe oder sonstige erhebliche Rechte Dritter
+entgegenstehen oder soweit gewichtige Anhaltspunkte für die Gefährdung
+des Wohles eines Kindes oder eines Jugendlichen bis zur Vollendung des
+15\. Lebensjahres vorliegen und die Befüllung der elektronischen
+Patientenakte den wirksamen Schutz des Kindes oder Jugendlichen in
+Frage stellen würde. Die Gründe für die Ablehnung der Übermittlung und
+Speicherung nach Satz 1 haben Leistungserbringer nachprüfbar in ihrer
+Behandlungsdokumentation zu protokollieren.
+
+
+###### § 349 Übertragung von Daten in die elektronische Patientenakte durch weitere Zugriffsberechtigte; Anspruch der Versicherten auf Übertragung des elektronischen Medikationsplans und der elektronischen Notfalldaten in die elektronische Patientenakte
+
+(1) Über die in § 346 Absatz 2, in den §§ 347 und 348 genannten
+Leistungserbringer hinaus können weitere Zugriffsberechtigte nach
+Maßgabe der Absätze 2 bis 4 und § 352 Daten des Versicherten in die
+elektronische Patientenakte übermitteln und dort speichern, soweit sie
+an die Telematikinfrastruktur angeschlossen sind.
+
+(2) Zugriffsberechtigte nach § 352 Satz 1 Nummer 1 bis 15 und 19, auch
+in Verbindung mit Satz 2, können Daten der Anwendungsfälle gemäß § 342
+Absatz 2a, 2b und 2c, Daten nach § 347 Absatz 2 Satz 1 Nummer 1 bis 4
+sowie Daten nach § 341 Absatz 2 Nummer 1 Buchstabe b und c und Nummer
+10 und 11 in die elektronische Patientenakte übermitteln und dort
+speichern, soweit diese Daten im Rahmen der konkreten aktuellen
+Behandlung des Versicherten durch die Zugriffsberechtigten erhoben und
+elektronisch verarbeitet werden. Darüber hinaus können die
+Zugriffsberechtigten die Daten nach Satz 1 aus vorangegangenen
+Behandlungen in die elektronische Patientenakte übermitteln und dort
+speichern, soweit diese durch den Zugriffsberechtigten erhoben und
+elektronisch verarbeitet wurden und das aus Sicht des
+Zugriffsberechtigten für die Versorgung des Versicherten erforderlich
+ist. Eine Übermittlung und Speicherung der Daten nach den Sätzen 1 und
+2 ist nur zulässig, soweit der Versicherte dem Zugriff der
+Leistungserbringer nach Satz 1 auf die Daten in der elektronischen
+Patientenakte insgesamt gemäß § 353 Absatz 2 nicht widersprochen hat.
+Die Zugriffsberechtigten haben die Versicherten darüber zu
+informieren, welche Daten in die elektronische Patientenakte
+übermittelt und dort gespeichert werden sollten. Erklärt der
+Versicherte daraufhin seinen Widerspruch, so hat der
+Zugriffsberechtigte nach Satz 1 diesen nachprüfbar in seiner
+Behandlungsdokumentation zu protokollieren. Die Übermittlung und
+Speicherung der Daten nach den Sätzen 1 und 2 ist nur zulässig, soweit
+andere Rechtsvorschriften der Übermittlung und Speicherung nicht
+entgegenstehen. § 347 Absatz 1 Satz 3 bis 6 gilt entsprechend.
+
+(3) Zugriffsberechtigte nach § 352 Satz 1 Nummer 1 bis 15 und 19, auch
+in Verbindung mit Satz 2, haben auf Verlangen der Versicherten Daten
+der Versicherten nach § 341 Absatz 2 Nummer 1 bis 5, 10 bis 14 und 16
+in die elektronische Patientenakte zu übermitteln und dort zu
+speichern, soweit diese Daten im Rahmen der konkreten aktuellen
+Behandlung des Versicherten durch diese Zugriffsberechtigten erhoben
+und elektronisch verarbeitet werden. Eine Übermittlung und Speicherung
+der Daten nach Satz 1 ist nur zulässig, soweit der Versicherte
+abweichend von § 339 Absatz 1 in die Übermittlung und Speicherung
+dieser Daten eingewilligt hat. Die Zugriffsberechtigten haben
+nachprüfbar in ihrer Behandlungsdokumentation zu protokollieren, dass
+der Versicherte seine Einwilligung erteilt hat. Die
+Zugriffsberechtigten haben die Versicherten über den Anspruch nach
+Satz 1 zu informieren. Die Verpflichtung nach Satz 1 gilt, soweit
+andere Rechtsvorschriften der Übermittlung und Speicherung nicht
+entgegenstehen.
+
+(4) Zugriffsberechtigte nach § 352 Satz 1 Nummer 16 bis 18, auch in
+Verbindung mit Satz 2, haben auf Verlangen der Versicherten Daten der
+Anwendungsfälle gemäß § 342 Absatz 2a, 2b und 2c sowie Daten der
+Versicherten nach § 341 Absatz 2 Nummer 1 bis 5, 10 bis 14 und 16 in
+die elektronische Patientenakte zu übermitteln und dort zu speichern,
+soweit diese Daten im Rahmen der konkreten aktuellen Behandlung des
+Versicherten durch diese Zugriffsberechtigten erhoben und elektronisch
+verarbeitet werden. Eine Übermittlung und Speicherung der Daten nach
+Satz 1 ist nur zulässig, soweit der Versicherte nach Maßgabe des § 339
+Absatz 1a in den Zugriff eingewilligt hat. Die Zugriffsberechtigten
+haben die Versicherten über den Anspruch nach Satz 1 zu informieren.
+Die Verpflichtung nach Satz 1 gilt, soweit andere Rechtsvorschriften
+der Übermittlung und Speicherung nicht entgegenstehen.
+
+(5) Ändern sich Daten in Anwendungen nach § 334 Absatz 1 Satz 2 Nummer
+4 und 5 und werden diese Daten in der elektronischen Patientenakte
+verfügbar gemacht, haben Versicherte einen Anspruch auf Speicherung
+der geänderten Daten in der elektronischen Patientenakte. Der Anspruch
 richtet sich gegen den Leistungserbringer, der die Änderung der Daten
-nach § 334 Absatz 1 Satz 2 Nummer 4, 5 oder 7 vorgenommen hat.
+in der Anwendung nach § 334 Absatz 1 Satz 2 Nummer 4 oder 5
+vorgenommen hat.
 
-(4) Nach Absatz 3 verpflichtete Leistungserbringer haben
+(6) Nach Absatz 5 verpflichtete Leistungserbringer haben
 
-1.  die Versicherten über den Anspruch nach Absatz 3 zu informieren und
+1.  die Versicherten über den Anspruch nach Absatz 5 zu informieren und
 
 
 2.  die geänderten Daten auf Verlangen des Versicherten in die
     elektronische Patientenakte nach § 341 Absatz 2 Nummer 1 Buchstabe b
-    und c einzustellen.
+    und c zu übermitteln und dort zu speichern.
 
 
 
+
+(7) Sobald der elektronische Medikationsplan nicht mehr auf der
+elektronischen Gesundheitskarte, sondern nach § 358 Absatz 8 in der
+elektronischen Patientenakte nach § 341 Absatz 2 Nummer 1 Buchstabe b
+gespeichert wird, gilt der Anspruch des Versicherten nach Absatz 5 nur
+noch für Daten in der Anwendung nach § 334 Absatz 1 Satz 2 Nummer 5.
+
+(8) Die Verpflichtungen nach Absatz 3 Satz 1 und Absatz 4 Satz 1
+bestehen nicht, soweit der Übermittlung und Speicherung von Daten in
+die elektronische Patientenakte erhebliche therapeutische Gründe oder
+sonstige erhebliche Rechte Dritter entgegenstehen oder soweit
+gewichtige Anhaltspunkte für die Gefährdung des Wohles eines Kindes
+oder eines Jugendlichen bis zur Vollendung des 15. Lebensjahres
+vorliegen und die Befüllung der elektronischen Patientenakte den
+wirksamen Schutz des Kindes oder Jugendlichen in Frage stellen würde.
+Die Gründe für die Ablehnung der Übermittlung und Speicherung nach
+Satz 1 haben Zugriffsberechtigte nachprüfbar in ihrer
+Behandlungsdokumentation zu protokollieren.
 
 
 ###### § 350 Übertragung von bei der Krankenkasse gespeicherten Daten in die elektronische Patientenakte
 
-(1) Versicherte haben ab dem 1. Januar 2022 einen Anspruch darauf,
-dass die Krankenkasse Daten des Versicherten nach § 341 Absatz 2
-Nummer 8 über die bei ihr in Anspruch genommenen Leistungen über den
+(1) Hat der Versicherte nach vorheriger Information gemäß § 343 der
+Übermittlung und Speicherung seiner Daten nach § 341 Absatz 2 Nummer 8
+gegenüber der Krankenkasse nicht widersprochen, hat die Krankenkasse
+Daten über die bei ihr in Anspruch genommenen Leistungen über den
 Anbieter der elektronischen Patientenakte in die elektronische
-Patientenakte nach § 341 übermittelt und dort speichert.
+Patientenakte zu übermitteln und zu speichern. Die Versicherten können
+der Übermittlung und Speicherung von Daten in der Folge jederzeit
+widersprechen. Der Widerspruch kann gegenüber der Krankenkasse oder
+über eine Benutzeroberfläche eines geeigneten Endgeräts erklärt
+werden.
 
 (2) Das Nähere zu Inhalt und Struktur der relevanten Datensätze haben
 der Spitzenverband Bund der Krankenkassen und die Kassenärztliche
@@ -43250,13 +45142,12 @@ handelt.
 
 (3) Die Krankenkasse hat die Versicherten
 
-1.  über den Anspruch nach Absatz 1 umfassend und leicht verständlich zu
-    informieren und
+1.  über die Möglichkeit des Widerspruchs nach Absatz 1 umfassend und
+    leicht verständlich zu informieren und
 
 
 2.  darüber aufzuklären, dass die Übermittlung der Daten über den Anbieter
-    der elektronischen Patientenakte erfolgt und nur auf Antrag der
-    Versicherten gegenüber der Krankenkasse zulässig ist.
+    der elektronischen Patientenakte erfolgt.
 
 
 
@@ -43350,8 +45241,8 @@ Satz 1 zu erhalten.
 ###### § 352 Verarbeitung von Daten in der elektronischen Patientenakte durch Leistungserbringer und andere zugriffsberechtigte Personen
 
 Auf die Daten in der elektronischen Patientenakte nach § 341 Absatz 1
-Satz 1 dürfen mit Einwilligung der Versicherten nach § 339
-ausschließlich folgende Personen zugreifen:
+Satz 1 dürfen, nach Maßgabe des § 339 Absatz 1 und 1a, ausschließlich
+folgende Personen zugreifen:
 
 1.  Ärzte, die zur Versorgung der Versicherten in deren Behandlung
     eingebunden sind, mit einem Zugriff, der die Verarbeitung von Daten
@@ -43619,35 +45510,73 @@ ausschließlich folgende Personen zugreifen:
 
 
 Die Zugriffsrechte nach Satz 1 gelten auch, soweit die jeweiligen
-Zugriffsberechtigten nach dem Siebten Buch tätig werden.
+Zugriffsberechtigten nach dem Siebten Buch tätig werden. Die
+Zugriffsrechte nach Satz 1 gelten nicht für Daten nach § 341 Absatz 2
+Nummer 8.
 
 
-###### § 353 Erteilung der Einwilligung
+###### § 353 Erklärung des Widerspruchs; Erteilung der Einwilligung
 
-(1) Die Versicherten erteilen die nach § 352 erforderliche
-Einwilligung in den Zugriff auf Daten der elektronischen Patientenakte
-nach § 341. Hierzu bedarf es einer eindeutigen bestätigenden Handlung
-durch technische Zugriffsfreigabe über die Benutzeroberfläche eines
-geeigneten Endgeräts.
+(1) Die Versicherten können der Verarbeitung von Daten, die gemäß §
+342 Absatz 2a, 2b und 2c als Anwendungsfälle in der elektronischen
+Patientenakte verarbeitet werden können, insgesamt widersprechen. Der
+Widerspruch erfolgt über die Benutzeroberfläche eines geeigneten
+Endgeräts oder durch Erklärung gegenüber der Ombudsstelle nach § 342a.
+Ferner können Versicherte dem Zugriff auf Daten, die gemäß § 342
+Absatz 2a, 2b und 2c als Anwendungsfälle in der elektronischen
+Patientenakte verarbeitet werden können, durch einzelne
+Zugriffsberechtigte nach § 352 Satz 1 Nummer 1 bis 15 und 19, auch in
+Verbindung mit Satz 2, widersprechen. Der Widerspruch kann abweichend
+von Satz 2 nur über die Benutzeroberfläche eines geeigneten Endgeräts
+erfolgen. Der Widerspruch gilt bis auf Widerruf.
 
-(2) Abweichend von Absatz 1 können die Versicherten die Einwilligung
-auch gegenüber einem nach § 352 zugriffsberechtigten
-Leistungserbringer unter Nutzung der dezentralen Infrastruktur der
-Leistungserbringer erteilen. Hierzu bedarf es
+(2) Versicherte können dem Zugriff auf Daten der elektronischen
+Patientenakte insgesamt durch einzelne Zugriffsberechtigte nach § 352
+Satz 1 Nummer 1 bis 15 und 19, auch in Verbindung mit Satz 2,
+widersprechen. Der Widerspruch erfolgt über die Benutzeroberfläche
+eines geeigneten Endgeräts oder durch Erklärung gegenüber der
+Ombudsstelle nach § 342a. Der Widerspruch gilt bis auf Widerruf.
 
-1.  einer eindeutigen bestätigenden Handlung durch technische
-    Zugriffsfreigabe und
+(3) Soweit die Versicherten nicht nach Absatz 1 oder Absatz 2
+widersprochen haben, erteilen sie die nach § 347 Absatz 1 Satz 3, auch
+in Verbindung mit § 347 Absatz 3 Satz 5, § 348 Absatz 2 Satz 2, Absatz
+3 Satz 6 oder § 349 Absatz 2 Satz 6, erforderliche ausdrückliche
+Einwilligung in die Übermittlung und Speicherung von Ergebnissen
+genetischer Untersuchungen oder Analysen im Sinne des
+Gendiagnostikgesetzes in die elektronische Patientenakte gegenüber der
+verantwortlichen ärztlichen Person schriftlich oder in elektronischer
+Form.
 
+(4) Die Versicherten erteilen die Einwilligung in den Zugriff auf
+Daten in der elektronischen Patientenakte durch einzelne
+Zugriffsberechtigte nach § 352 Satz 1 Nummer 16 bis 18, auch in
+Verbindung mit Satz 2 über die Benutzeroberfläche eines geeigneten
+Endgeräts. Eine nach Satz 1 erteilte Einwilligung kann sich entweder
+auf den Zugriff auf Daten in der elektronischen Patientenakte
+insgesamt oder lediglich auf Daten, die gemäß § 342 Absatz 2a, 2b und
+2c als Anwendungsfälle in der elektronischen Patientenakte verarbeitet
+werden können, erstrecken.
 
-2.  vor der Einwilligung in einen konkreten Datenzugriff einer Information
-    der Versicherten durch den betreffenden Leistungserbringer über die
-    fehlende Möglichkeit der Beschränkung der Zugriffsrechte nach § 342
-    Absatz 2 Nummer 2 Buchstabe b und die Bedeutung der
-    Zugriffsberechtigung auf Kategorien von Dokumenten und Datensätzen
-    nach § 342 Absatz 2 Nummer 2 Buchstabe c.
+(5) Abweichend von Absatz 4 können die Versicherten die Einwilligung
+auch gegenüber einem nach § 352 Satz 1 Nummer 16 bis 18, auch in
+Verbindung mit Satz 2, Zugriffsberechtigten in der Umgebung des
+Zugriffsberechtigten erteilen. Die Einwilligung erfolgt in der
+Umgebung des Zugriffsberechtigten mittels der elektronischen
+Gesundheitskarte oder der digitalen Identität der Versicherten nach §
+291 Absatz 8 Satz 1. Eine nach diesem Absatz erteilte Einwilligung
+kann sich abweichend von Absatz 4 Satz 2 nur auf den Zugriff auf Daten
+in der elektronischen Patientenakte insgesamt erstrecken. Hierüber hat
+der Zugriffsberechtigte den Versicherten zu informieren. Die
+Einwilligung haben die Zugriffsberechtigten nachprüfbar in ihrer
+Behandlungsdokumentation zu protokollieren.
 
-
-
+(6) Soweit die Versicherten nicht nach Absatz 2 dem Zugriff auf Daten
+in der elektronischen Patientenakte insgesamt widersprochen haben,
+erteilen sie die Einwilligung in die Übermittlung und Speicherung von
+Daten in die elektronische Patientenakte gemäß § 347 Absatz 4, § 348
+Absatz 4 und § 349 Absatz 3 durch Zugriffsberechtigte nach § 352 Satz
+1 Nummer 1 bis 15 und 19, auch in Verbindung mit Satz 2, in der
+Umgebung der Zugriffsberechtigten.
 
 
 ##### Vierter Untertitel - Festlegungen für technische Voraussetzungen und semantische und syntaktische Interoperabilität von Daten
@@ -43728,13 +45657,16 @@ Gesundheit bis zum 1. Februar 2025 einen Bericht vorzulegen.
 
 ###### § 355 Festlegungen für die semantische und syntaktische Interoperabilität von Daten in der elektronischen Patientenakte
 
-(1) Die Kassenärztliche Bundesvereinigung trifft für die Inhalte sowie
-für die Fortschreibung der Inhalte der elektronischen Patientenakte
-die notwendigen Festlegungen und Vorgaben für den Einsatz und die
-Verwendung der Inhalte, um deren semantische und syntaktische
-Interoperabilität zu gewährleisten, im Einvernehmen mit dem
-Kompetenzzentrum für Interoperabilität im Gesundheitswesen sowie im
-Benehmen mit
+(1) Die Kassenärztliche Bundesvereinigung oder eine juristische Person
+im Sinne des § 385 Absatz 1 Satz 2 Nummer 2 trifft für die Inhalte
+sowie für die Fortschreibung der Inhalte der elektronischen
+Patientenakte die notwendigen Festlegungen und Vorgaben für den
+Einsatz und die Verwendung der Inhalte, um deren semantische und
+syntaktische Interoperabilität zu gewährleisten, sofern sie hierzu
+gemäß § 385 Absatz 1 Satz 2 Nummer 2 und Absatz 4 Satz 3 und 5 und
+aufgrund der Rechtsverordnung nach § 385 Absatz 1 Satz 1 beauftragt
+wurde, im Einvernehmen mit dem Kompetenzzentrum für Interoperabilität
+im Gesundheitswesen sowie im Benehmen mit
 
 1.  der Gesellschaft für Telematik,
 
@@ -43803,7 +45735,11 @@ syntaktische Interoperabilität von Daten aus digitalen
 Gesundheitsanwendungen der Versicherten nach § 33a, die von den
 Versicherten nach § 341 Absatz 2 Nummer 9 in die elektronische
 Patientenakte übermittelt werden. Die Festlegungen nach Satz 1 sind
-fortlaufend fortzuschreiben.
+fortlaufend durch die Kassenärztliche Bundesvereinigung oder eine
+juristische Person im Sinne des § 385 Absatz 1 Satz 2 Nummer 2
+fortzuschreiben, sofern sie hierzu gemäß § 385 Absatz 1 Satz 2 Nummer
+2 und Absatz 4 Satz 3 und 5 und aufgrund der Rechtsverordnung nach §
+385 Absatz 1 Satz 1 beauftragt wurde.
 
 (2b) Die Kassenärztliche Bundesvereinigung trifft bis zum 31. Dezember
 2022 unter Berücksichtigung der laufenden Erkenntnisse der
@@ -43817,13 +45753,21 @@ Dezember 2023 die notwendigen Festlegungen für die semantische und
 syntaktische Interoperabilität von Daten, die von Hilfsmitteln oder
 Implantaten nach § 374a Absatz 1 in eine digitale Gesundheitsanwendung
 übermittelt werden. Die Festlegungen nach Satz 1 sind fortlaufend
-fortzuschreiben.
+durch die Kassenärztliche Bundesvereinigung oder eine juristische
+Person im Sinne des § 385 Absatz 1 Satz 2 Nummer 2 fortzuschreiben,
+sofern sie hierzu gemäß § 385 Absatz 1 Satz 2 Nummer 2 und Absatz 4
+Satz 3 und 5 und aufgrund der Rechtsverordnung nach § 385 Absatz 1
+Satz 1 beauftragt wurde.
 
 (2d) Die Kassenärztliche Bundesvereinigung trifft erstmals bis zum 30.
 Juni 2022 die notwendigen Festlegungen für die semantische und
 syntaktische Interoperabilität von Daten, die im Rahmen des
 telemedizinischen Monitorings verarbeitet werden. Die Festlegungen
-nach Satz 1 sind fortlaufend fortzuschreiben.
+nach Satz 1 sind fortlaufend durch die Kassenärztliche
+Bundesvereinigung oder eine juristische Person im Sinne des § 385
+Absatz 1 Satz 2 Nummer 2 fortzuschreiben, sofern sie hierzu gemäß §
+385 Absatz 1 Satz 2 Nummer 2 und Absatz 4 Satz 3 und 5 und aufgrund
+der Rechtsverordnung nach § 385 Absatz 1 Satz 1 beauftragt wurde.
 
 (2e) Das Kompetenzzentrum für Interoperabilität im Gesundheitswesen
 oder eine juristische Person im Sinne des § 385 Absatz 1 Satz 2 Nummer
@@ -43833,12 +45777,15 @@ von Daten aus tragbaren elektronischen Geräten der Versicherten nach §
 342 Absatz 8, die von den Versicherten nach § 341 Absatz 2 Nummer 6 in
 die elektronische Patientenakte übermittelt werden.
 
-(3) Die Kassenärztliche Bundesvereinigung trifft in dem in Absatz 1
+(3) Die Kassenärztliche Bundesvereinigung oder eine juristische Person
+im Sinne des § 385 Absatz 1 Satz 2 Nummer 2 trifft in dem in Absatz 1
 vorgesehenen Verfahren die notwendigen Festlegungen, um die
 semantische und syntaktische Interoperabilität für einen digital
-unterstützten Medikationsprozess in den informationstechnischen
-Systemen der Leistungserbringer zu ermöglichen. In den Festlegungen
-nach Satz 1 hat die Kassenärztliche Bundesvereinigung zu
+gestützten Medikationsprozess in den informationstechnischen Systemen
+der Leistungserbringer zu ermöglichen, sofern diese hierzu gemäß § 385
+Absatz 1 Satz 2 Nummer 2 und Absatz 4 Satz 3 und 5 und aufgrund der
+Rechtsverordnung nach § 385 Absatz 1 Satz 1 beauftragt wurde. In den
+Festlegungen nach Satz 1 hat die Kassenärztliche Bundesvereinigung zu
 berücksichtigen, dass
 
 1.  die Verordnungsdaten und Dispensierinformationen elektronischer
@@ -43886,14 +45833,18 @@ Arzneimitteltherapiesicherheit genutzt werden können und darüber
 hinaus eine einheitliche Visualisierung für die Versichertenansicht
 möglich ist.
 
-(4) Die Kassenärztliche Bundesvereinigung trifft in dem in Absatz 1
+(4) Die Kassenärztliche Bundesvereinigung oder eine juristische Person
+im Sinne des § 385 Absatz 1 Satz 2 Nummer 2 trifft in dem in Absatz 1
 vorgesehenen Verfahren die notwendigen Festlegungen für die
 semantische und syntaktische Interoperabilität der elektronischen
 Patientenkurzakte, die nach § 341 Absatz 2 Nummer 1 Buchstabe c in
 Verbindung mit § 342 Absatz 2a Nummer 2 Buchstabe a als
 Informationsobjekt der elektronischen Patientenakte nach § 334 Absatz
-1 Satz 2 Nummer 1 gespeichert wird. In den Festlegungen nach Satz 1
-hat die Kassenärztliche Bundesvereinigung zu berücksichtigen, dass
+1 Satz 2 Nummer 1 gespeichert wird, sofern diese hierzu gemäß § 385
+Absatz 1 Satz 2 Nummer 2 und Absatz 4 Satz 3 und 5 und aufgrund der
+Rechtsverordnung nach § 385 Absatz 1 Satz 1 beauftragt wurde. In den
+Festlegungen nach Satz 1 hat die Kassenärztliche Bundesvereinigung zu
+berücksichtigen, dass
 
 1.  die elektronischen Notfalldaten nach § 334 Absatz 1 Satz 2 Nummer 5 in
     der elektronischen Patientenkurzakte gespeichert werden können,
@@ -43917,12 +45868,15 @@ hat die Kassenärztliche Bundesvereinigung zu berücksichtigen, dass
 
 
 
-(4a) Die Kassenärztliche Bundesvereinigung trifft in dem in Absatz 1
-vorgesehenen Verfahren die notwendigen Festlegungen für die
+(4a) Die Kassenärztliche Bundesvereinigung oder eine juristische
+Person im Sinne des § 385 Absatz 1 Satz 2 Nummer 2 trifft in dem in
+Absatz 1 vorgesehenen Verfahren die notwendigen Festlegungen für die
 semantische und syntaktische Interoperabilität von Laborbefunden als
 Informationsobjekt der elektronischen Patientenakte nach § 341 Absatz
 2 Nummer 1 Buchstabe c in Verbindung mit § 342 Absatz 2a Nummer 2
-Buchstabe b.
+Buchstabe b, sofern diese hierzu gemäß § 385 Absatz 1 Satz 2 Nummer 2
+und Absatz 4 Satz 3 und 5 und aufgrund der Rechtsverordnung nach § 385
+Absatz 1 Satz 1 beauftragt wurde.
 
 (4b) Die Kassenärztliche Bundesvereinigung trifft in dem in Absatz 1
 vorgeshenen Verfahren die notwendigen Festlegungen für die semantische
@@ -43984,23 +45938,25 @@ Aufgaben nach Absatz 1 entsprechend dem Projektstand zur Umsetzung und
 Fortschreibung der mit der elektronischen Patientenakte, vorgesehenen
 Inhalte angemessene Fristen setzen. Hält die Kassenärztliche
 Bundesvereinigung die jeweils gesetzte Frist nicht ein, kann die
-Gesellschaft für Telematik die Deutsche Krankenhausgesellschaft oder
-eine andere Stelle mit der Erstellung der jeweiligen Festlegungen nach
-Absatz 1 im Benehmen mit den in Absatz 1 Satz 1 genannten
-Organisationen beauftragen. Das Verfahren für das Vorgehen nach
-Fristablauf legt die Gesellschaft für Telematik fest.
+Gesellschaft für Telematik die Deutsche Krankenhausgesellschaft eine
+andere Stelle oder eine juristische Person im Sinne des § 385 Absatz 1
+Satz 2 Nummer 2 mit der Erstellung der jeweiligen Festlegungen nach
+Absatz 1 beauftragen. Das Verfahren für das Vorgehen nach Fristablauf
+legt die Gesellschaft für Telematik fest.
 
 (9) Die Festlegungen, die nach den Absätzen 1, 3, 4, 4a und 4b von der
 Kassenärztlichen Bundesvereinigung oder nach Absatz 8 Satz 2 von der
-Deutschen Krankenhausgesellschaft oder einer anderen Stelle getroffen
-werden, sind dem Kompetenzzentrum für Interoperabilität im
+Deutschen Krankenhausgesellschaft einer anderen Stelle oder einer
+juristischen Person im Sinne des § 385 Absatz 1 Satz 2 Nummer 2
+getroffen werden, sind dem Kompetenzzentrum für Interoperabilität im
 Gesundheitswesen vorzulegen. Die verbindliche Festlegung für bestimmte
 Bereiche oder für das gesamte Gesundheitswesen erfolgt im Rahmen der
 Rechtsverordnung nach § 385 Absatz 2 Satz 1 Nummer 1.
 
 (10) Die Festlegungen, die nach den Absätzen 1, 3, 3a, 4 und 4a von
 der Kassenärztlichen Bundesvereinigung oder nach Absatz 8 Satz 2 von
-der Deutschen Krankenhausgesellschaft oder einer anderen Stelle
+der Deutschen Krankenhausgesellschaft einer anderen Stelle oder einer
+juristischen Person im Sinne des § 385 Absatz 1 Satz 2 Nummer 2
 getroffen werden, sind auf der Plattform nach § 385 Absatz 1 Satz 2
 Nummer 5 zu veröffentlichen.
 
@@ -44052,13 +46008,13 @@ für Telematik fest.
 
 ##### § 356 Zugriff auf Hinweise der Versicherten auf das Vorhandensein und den Aufbewahrungsort von Erklärungen zur Organ- und Gewebespende
 
-(1) Auf Daten zu Hinweisen des Versicherten auf das Vorhandensein und
-den Aufbewahrungsort von Erklärungen zur Organ- und Gewebespende in
-Anwendungen nach § 334 Absatz 1 Satz 2 Nummer 2 und 7 dürfen mit
-Einwilligung des Versicherten, die abweichend von § 339 Absatz 1
-hierzu keiner eindeutigen bestätigenden Handlung durch technische
-Zugriffsfreigabe des Versicherten bedarf, ausschließlich folgende
-Personen zugreifen:
+(1) Der Zugriff auf Daten zu Hinweisen des Versicherten auf das
+Vorhandensein und den Aufbewahrungsort von Erklärungen zur Organ- und
+Gewebespende in Anwendungen nach § 334 Absatz 1 Satz 2 Nummer 1 und 2
+ist abweichend von § 339 Absatz 1 und 1a ausschließlich für folgende
+Personen und nur mit Einwilligung des Versicherten, die keiner
+eindeutigen bestätigenden Handlung durch technische Zugriffsfreigabe
+des Versicherten bedarf, zulässig:
 
 1.  Ärzte, die in die Behandlung des Versicherten eingebunden sind, mit
     einem Zugriff, der die Verarbeitung von Daten ermöglicht, soweit dies
@@ -44301,25 +46257,26 @@ festgelegten Anforderungen gewährleisten. Die Gesellschaft für
 Telematik hat hierfür bis zum 1. Januar 2022 die erforderlichen
 Voraussetzungen zu schaffen.
 
-(8) Der elektronische Medikationsplan wird ab dem 1. Oktober 2024
-technisch in eine eigenständige Anwendung innerhalb der
-Telematikinfrastruktur überführt, die nicht mehr auf der
-elektronischen Gesundheitskarte gespeichert wird. Ärzte, die an der
-vertragsärztlichen Versorgung teilnehmen oder in Einrichtungen, die an
-der vertragsärztlichen Versorgung teilnehmen oder in zugelassenen
-Krankenhäusern, Vorsorgeeinrichtungen oder
-Rehabilitationseinrichtungen tätig sind, haben ab diesem Zeitpunkt auf
-Verlangen des Versicherten und mit dessen Einwilligung die Daten, die
-im elektronischen Medikationsplan auf der elektronischen
-Gesundheitskarte gespeichert sind, in der Anwendung nach § 334 Absatz
-1 Satz 2 Nummer 4 zu speichern und den auf der elektronischen
-Gesundheitskarte gespeicherten Medikationsplan zu löschen. Erteilt der
-Versicherte seine Einwilligung nach den Sätzen 1 und 2 nicht, bleibt
-der elektronische Medikationsplan mindestens bis zum 1. Januar 2025
-und anschließend so lange auf der elektronischen Gesundheitskarte
-gespeichert, bis diese ihre Gültigkeit verliert. Die Gesellschaft für
-Telematik hat bis zum 31. Oktober 2021 die nach den Sätzen 1 bis 3
-erforderlichen Voraussetzungen zu schaffen.
+(8) Der elektronische Medikationsplan wird ab der Zurverfügungstellung
+der elektronischen Patientenakte gemäß § 342 Absatz 1 Satz 2 nicht
+mehr auf der elektronischen Gesundheitskarte, sondern in der
+elektronischen Patientenakte gespeichert und aktualisiert. Ärzte, die
+an der vertragsärztlichen Versorgung teilnehmen oder in Einrichtungen,
+die an der vertragsärztlichen Versorgung teilnehmen oder in
+zugelassenen Krankenhäusern, Vorsorgeeinrichtungen oder
+Rehabilitationseinrichtungen tätig sind, haben ab diesem Zeitpunkt die
+Daten, die im elektronischen Medikationsplan auf der elektronischen
+Gesundheitskarte gespeichert sind, als Informationsobjekt gemäß § 342
+Absatz 2a in der elektronischen Patientenakte nach § 341 Absatz 2
+Nummer 1 Buchstabe b zu speichern und den auf der elektronischen
+Gesundheitskarte gespeicherten Medikationsplan zu löschen, soweit der
+Versicherte der Speicherung des elektronischen Medikationsplans in der
+elektronischen Patientenakte nicht widersprochen hat. Daten des
+elektronischen Medikationsplans sind auf der elektronischen
+Gesundheitskarte auch bei einem Widerspruch des Versicherten gegen die
+Speicherung des elektronischen Medikationsplans in der elektronischen
+Patientenakte durch zugriffsberechtigte Leistungserbringer nach Satz 2
+zu löschen.
 
 (9) Mit der Einführung der elektronischen Notfalldaten, der
 elektronischen Patientenkurzakte und des elektronischen
@@ -44498,11 +46455,16 @@ Versicherten, wenn der Versicherte auf das Erfordernis einer
 technischen Zugriffsfreigabe verzichtet hat und die
 Zugriffsberechtigten nachprüfbar in ihrer Behandlungsdokumentation
 protokollieren, dass der Zugriff mit Einwilligung des Versicherten
-erfolgt ist.
+erfolgt ist. Sobald der elektronische Medikationsplan nicht mehr auf
+der elektronischen Gesundheitskarte sondern nach § 358 Absatz 8 als
+Informationsobjekt nach § 342 Absatz 2a in der elektronischen
+Patientenakte nach § 341 Absatz 2 Nummer 1 Buchstabe b gespeichert
+wird, dürfen Zugriffsberechtigte nach § 352 ausschließlich nach
+Maßgabe des § 339 Absatz 1 und 1a auf Daten des elektronischen
+Medikationsplans zugreifen.
 
-(3) Der Zugriff auf die elektronischen Notfalldaten und auf die Daten
-der elektronischen Patientenkurzakte nach § 334 Absatz 1 Satz 2 Nummer
-5 und 7 ist abweichend von § 339 Absatz 1 zulässig
+(3) Der Zugriff auf die elektronischen Notfalldaten nach § 334 Absatz
+1 Satz 2 Nummer 5 ist abweichend von § 339 Absatz 1 und 1a zulässig
 
 1.  ohne eine Einwilligung der Versicherten, soweit es zur Versorgung der
     Versicherten in einem Notfall erforderlich ist, und
@@ -44745,7 +46707,8 @@ Krankenpflege nach § 37 sowie der außerklinischen Intensivpflege nach
 § 37c bis zum 1. Juli 2025, Erbringer von Leistungen der Soziotherapie
 nach § 37a bis zum 1. April 2027, Heil- und Hilfsmittelerbringer sowie
 Erbringer der weiteren in Absatz 7 Satz 1 genannten Leistungen bis zum
-1\. Januar 2026 an die Telematikinfrastruktur nach § 306 anzuschließen.
+1\. Oktober 2027 an die Telematikinfrastruktur nach § 306
+anzuschließen.
 
 (9) Versicherte können gegenüber den in Absatz 2 Satz 1 genannten
 Leistungserbringern sowie den in Absatz 4 Satz 1 genannten
@@ -44765,7 +46728,7 @@ Verfügung zu stellen.
 (10) Die Gesellschaft für Telematik ist verpflichtet, die Komponenten
 der Telematikinfrastruktur, die den Zugriff der Versicherten auf die
 elektronische ärztliche Verordnung nach § 334 Absatz 1 Satz 2 Nummer 6
-ermöglichen, als Dienstleistung von allgemeinem wirtschaftlichem
+ermöglichen, als Dienstleistung von allgemeinem wirtschaftlichen
 Interesse zu entwickeln und zur Verfügung zu stellen. Die
 Funktionsfähigkeit und Interoperabilität der Komponenten sind durch
 die Gesellschaft für Telematik sicherzustellen. Die Sicherheit der
@@ -44774,8 +46737,8 @@ einschließlich der Zugriffsmöglichkeiten für Versicherte ist durch ein
 externes Sicherheitsgutachten nachzuweisen. Dabei ist abgestuft im
 Verhältnis zum Gefährdungspotential nachzuweisen, dass die
 Verfügbarkeit, Integrität, Authentizität und Vertraulichkeit der
-Komponente sichergestellt wird. Die Festlegung der Prüfverfahren und
-die Auswahl des Sicherheitsgutachters für das externe
+Komponenten sichergestellt werden. Die Festlegung der Prüfverfahren
+und die Auswahl des Sicherheitsgutachters für das externe
 Sicherheitsgutachten erfolgt durch die Gesellschaft für Telematik im
 Benehmen mit dem Bundesamt für Sicherheit in der Informationstechnik.
 Das externe Sicherheitsgutachten muss dem Bundesamt für Sicherheit in
@@ -44787,10 +46750,10 @@ Telematik zur Verfügung gestellt werden. Komponenten nach diesem
 Absatz, für die ein externes Sicherheitsgutachten vorliegt, das gemäß
 Satz 6 durch das Bundesamt für Sicherheit in der Informationstechnik
 bestätigt wurde, dürfen den Versicherten abweichend von Satz 7 auch
-durch die Krankenkassen und durch die Unternehmen der privaten
-Krankenversicherung über die Benutzeroberfläche gemäß § 342 zur
-Verfügung gestellt werden. § 11 Absatz 1 und 1a des Apothekengesetzes
-sowie § 31 Absatz 1 Satz 5 bis 7 bleiben unberührt.
+durch die Krankenkassen und durch die in § 362 Absatz 1 genannten
+Kostenträger über die Benutzeroberfläche gemäß § 342 zur Verfügung
+gestellt werden. § 11 Absatz 1 und 1a des Apothekengesetzes sowie § 31
+Absatz 1 Satz 5 bis 7 bleiben unberührt.
 
 (11) Verordnungsdaten und Dispensierinformationen sind mit Ablauf von
 100 Tagen nach Dispensierung der Verordnung zu löschen.
@@ -44829,10 +46792,17 @@ Leistungserbringern und anderen zugriffsberechtigten Personen nach §
 361 Absatz 1 und zum Zweck der Kostenerstattung mit Kostenträgern
 teilen.
 
-(14) Mit Einwilligung des Versicherten können Daten zu Verordnungen
-nach den Absätzen 2 und 4 bis 7 und, soweit technisch möglich,
-Dispensierinformationen nach § 312 Absatz 1 Satz 1 Nummer 3
-automatisiert in der elektronischen Patientenakte gespeichert werden.
+(14) Soweit der Versicherte dem nicht widersprochen hat, werden Daten
+zu Verordnungen nach den Absätzen 2 und 4 bis 7 und Daten auf der
+Grundlage von Verordnungen nach Absatz 2 abgegebenen Arzneimitteln,
+sowie, soweit technisch möglich, deren Chargennummer, und, soweit auf
+der Verordnung angegeben, deren Dosierung (Dispensierinformationen)
+automatisiert an die elektronische Patientenakte übermittelt und nach
+§ 341 Absatz 2 Nummer 11 gespeichert. Der Widerspruch nach Satz 1 kann
+über die Benutzeroberfläche, die dem Versicherten gemäß Absatz 10 für
+den Zugriff auf elektronische Verordnungen zur Verfügung zu stellen
+ist, über die Benutzeroberfläche gemäß § 342 sowie bei der
+Ombudsstelle gemäß § 342a erklärt oder widerrufen werden.
 
 (15) Das Bundesministerium für Gesundheit kann die in den Absätzen 2
 bis 8 genannten Fristen durch Rechtsverordnung ohne Zustimmung des
@@ -44972,63 +46942,18 @@ Verordnungen dürfen zugriffsberechtigte Leistungserbringer und andere
 zugriffsberechtigte Personen nach Absatz 1 und nach Maßgabe des § 339
 Absatz 2 nur zugreifen mit
 
-1.  einem ihrer Berufszugehörigkeit entsprechenden elektronischen
-    Heilberufsausweis in Verbindung mit einer Komponente zur
-    Authentifizierung von Leistungserbringerinstitutionen,
+1.  einer Komponente zur Authentifizierung von
+    Leistungserbringerinstitutionen oder
 
 
-2.  einem ihrer Berufszugehörigkeit entsprechenden elektronischen
-    Berufsausweis in Verbindung mit einer Komponente zur Authentifizierung
-    von Leistungserbringerinstitutionen oder
-
-
-3.  einer digitalen Identität nach § 340 Absatz 6 in Verbindung mit einer
-    Komponente zur Authentifizierung von Leistungserbringerinstitutionen.
+2.  einer digitalen Identität nach § 340 Absatz 7.
 
 
 
 Es ist nachprüfbar elektronisch zu protokollieren, wer auf die Daten
 zugegriffen hat.
 
-(3) Die in Absatz 1 genannten zugriffsberechtigten Personen, die weder
-über einen elektronischen Heilberufsausweis noch über einen
-elektronischen Berufsausweis verfügen, dürfen nach Maßgabe des Absatz
-1 nur zugreifen, wenn
-
-1.  sie für diesen Zugriff von Personen autorisiert sind, die verfügen
-    über
-
-    a)  einen ihrer Berufszugehörigkeit entsprechenden elektronischen
-        Heilberufsausweis oder
-
-
-    b)  einen ihrer Berufszugehörigkeit entsprechenden elektronischen
-        Berufsausweis und
-
-
-
-
-
-2.  nachprüfbar elektronisch protokolliert wird,
-
-    a)  wer auf die Daten zugegriffen hat und
-
-
-    b)  von welcher Person nach Nummer 1 die zugreifende Person autorisiert
-        wurde.
-
-
-
-
-
-
-
-(4) Der elektronische Heilberufsausweis und der elektronische
-Berufsausweis müssen über eine Möglichkeit zur sicheren
-Authentifizierung und zur Erstellung qualifizierter elektronischer
-Signaturen verfügen.
-
-(5) Die Übermittlung von Daten der elektronischen Verordnung nach §
+(3) Die Übermittlung von Daten der elektronischen Verordnung nach §
 360 Absatz 2 zum grenzüberschreitenden Austausch von Gesundheitsdaten
 zum Zweck der Unterstützung einer Behandlung des Versicherten an einen
 in einem anderen Mitgliedstaat der Europäischen Union nach dem Recht
@@ -45040,7 +46965,7 @@ ist erforderlich, dass der Versicherte zum Zeitpunkt der Einlösung der
 Verordnung die Übermittlung an die nationale eHealth-Kontaktstelle des
 Mitgliedstaats, in dem die Verordnung eingelöst wird, durch eine
 eindeutige bestätigende Handlung technisch freigibt. Abweichend von
-den Absätzen 1 bis 4 sowie von § 339 finden für die Verarbeitung der
+den Absätzen 1 und 2 sowie von § 339 finden für die Verarbeitung der
 Daten durch einen Leistungserbringer in einem anderen Mitgliedstaat
 der Europäischen Union die Bestimmungen des Mitgliedstaats Anwendung,
 in dem die Verordnung eingelöst wird. Hierbei finden die gemeinsamen
@@ -45211,12 +47136,14 @@ Postbeamtenkrankenkasse, der Krankenversorgung der Bundesbahnbeamten,
 der Bundespolizei, der Landespolizeien, von der Bundeswehr oder von
 Trägern der freien Heilfürsorge elektronische Gesundheitskarten oder
 digitale Identitäten für die Verarbeitung von Daten einer Anwendung
-nach § 334 Absatz 1 Satz 2 an ihre Versicherten, an
+nach § 334 Absatz 1 Satz 2 an ihre Versicherten, an
 Polizeivollzugsbeamte, an sonstige heilfürsorgeberechtigte Beamte oder
-an Soldaten zur Verfügung gestellt, sind § 291 Absatz 8 Satz 5 bis 9,
+an Soldaten zur Verfügung gestellt, sind § 291 Absatz 8 Satz 6 bis 10,
 § 291a Absatz 5 bis 7, die §§ 334 bis 337, 339, 341 Absatz 1 bis 4, §
-342 Absatz 2 bis 3, § 343 Absatz 1 und 1a, die §§ 344, 345, 352, 353,
-356 bis 359a und 361 entsprechend anzuwenden.
+342 Absatz 2 Nummer 1, 3 und 4 und Absatz 3, § 343 Absatz 1 und 1a,
+die §§ 344, 345, 352, 353, 356 bis 359a und 361 entsprechend
+anzuwenden. § 342 Absatz 2 Nummer 2 ist entsprechend anwendbar mit der
+Maßgabe, dass die Verpflichtung ab dem 1. Januar 2028 gilt.
 
 (2) Für den Einsatz elektronischer Gesundheitskarten oder digitaler
 Identitäten nach Absatz 1 können Unternehmen der privaten
@@ -45229,7 +47156,9 @@ Absatz 1 Satz 4 bis 7 ist entsprechend anzuwenden. Die Vergabe der
 Versichertennummer erfolgt durch die Vertrauensstelle nach § 290
 Absatz 2 Satz 2 und hat den Vorgaben der Richtlinien nach § 290 Absatz
 2 Satz 1 für den unveränderbaren Teil der Krankenversichertennummer zu
-entsprechen.
+entsprechen. Die Vertrauensstelle hat die vergebenen
+Versichertennummern in das von ihr nach § 290 Absatz 3 geführte
+Verzeichnis der Krankenversichertennummern aufzunehmen.
 
 (3) Die Kosten zur Bildung der Versichertennummer und, sofern die
 Vergabe einer Rentenversicherungsnummer erforderlich ist, zur Vergabe
@@ -45284,8 +47213,8 @@ die Pseudonymisierung und Verschlüsselung der nach den Absätzen 1 und
     verschlüsselten Daten samt Arbeitsnummer,
 
 
-2.  an die Vertrauensstellen nach § 303c das Lieferpseudonym zu den nach
-    Absatz 2 übermittelten Daten und die entsprechende Arbeitsnummer.
+2.  an die Vertrauensstellen nach § 303c das Lieferpseudonym zu den zu
+    übermittelnden Daten und die entsprechende Arbeitsnummer.
 
 
 
@@ -45294,8 +47223,9 @@ periodenübergreifende Pseudonyme und übermittelt dem
 Forschungsdatenzentrum die periodenübergreifenden Pseudonyme mit den
 dazugehörigen Arbeitsnummern. Mit dem periodenübergreifenden Pseudonym
 und der bereits übersandten Arbeitsnummer verknüpft das
-Forschungsdatenzentrum die freigegebenen Daten mit den im
-Forschungsdatenzentrum vorliegenden Daten vorheriger Übermittlungen.
+Forschungsdatenzentrum die nach Absatz 2 übermittelten Daten mit den
+im Forschungsdatenzentrum vorliegenden Daten vorheriger
+Übermittlungen.
 
 (4) Die an das Forschungsdatenzentrum übermittelten Daten dürfen von
 diesem für die Erfüllung seiner Aufgaben verarbeitet und auf Antrag
@@ -45429,10 +47359,10 @@ Krankenhausgesellschaft vereinbaren bis zum 31. März 2020 mit dem
 Spitzenverband Bund der Krankenkassen in Abstimmung mit dem Bundesamt
 für Sicherheit in der Informationstechnik und der Gesellschaft für
 Telematik sowie im Benehmen mit der Deutschen Gesetzlichen
-Unfallversicheurng e. V. die Anforderungen an die technischen
-Verfahren zu telemedizinischen Konsilien, insbesondere Einzelheiten
-hinsichtlich der Qualität und der Sicherheit, und die Anforderungen an
-die technische Umsetzung.
+Unfallversicheurng              e. V. die Anforderungen an die
+technischen Verfahren zu telemedizinischen Konsilien, insbesondere
+Einzelheiten hinsichtlich der Qualität und der Sicherheit, und die
+Anforderungen an die technische Umsetzung.
 
 (2) Kommt die Vereinbarung nach Absatz 1 nicht zustande, so ist auf
 Antrag eines der Vereinbarungspartner ein Schlichtungsverfahren nach §
@@ -45657,13 +47587,15 @@ Das Bundesministerium für Gesundheit wird ermächtigt, durch
 Rechtsverordnung ohne Zustimmung des Bundesrates das Nähere zu regeln
 
 1.  zu den Anforderungen an die für die Versorgung der Versicherten im
-    Rahmen von strukturierten Behandlungsprammen mit digitalisierten
+    Rahmen von strukturierten
+    Behandlungsprammen                    mit digitalisierten
     Versorgungsprozessen erforderliche technische Ausstattung und an die
     Anwendungen der Leistungserbringer und Versicherten,
 
 
 2.  zu dem Nachweis, dass die für die Versorgung im Rahmen von
-    strukturierten Behandlungsprammen mit digitalisierten
+    strukturierten
+    Behandlungsprammen                    mit digitalisierten
     Versorgungsprozessen erforderliche technische Ausstattung und die
     Anwendungen der Leistungserbringer und Versicherten den Anforderungen
     an den Datenschutz entsprechen und die Datensicherheit nach dem Stand
@@ -45700,7 +47632,7 @@ standardisierte Schnittstellen zu integrieren:
 
 
 3.  Schnittstellen zum elektronischen Melde- und Informationssystem nach §
-    14 des Infektionsschutzgesetze, mit Ausnahme der
+    14 des Infektionsschutzgesetzes, mit Ausnahme der
     informationstechnischen Systeme von Vertragszahnärzten,
 
 
@@ -45735,11 +47667,14 @@ gemäß § 385 Absatz 2 Satz 1 Nummer 1 verbindlich festgelegt wurden.
 
 (1) Für die in der vertragsärztlichen und vertragszahnärztlichen
 Versorgung eingesetzten informationstechnischen Systeme legen die
-Kassenärztlichen Bundesvereinigungen im Einvernehmen mit dem
-Kompetenzzentrum für Interoperabilität im Gesundheitswesen sowie im
-Benehmen mit den für die Wahrnehmung der Interessen der Industrie
-maßgeblichen Bundesverbänden aus dem Bereich der
-Informationstechnologie im Gesundheitswesen die erforderlichen
+Kassenärztlichen Bundesvereinigungen oder eine juristische Person im
+Sinne des § 385 Absatz 1 Satz 2 Nummer 2, sofern sie hierzu gemäß §
+385 Absatz 1 Satz 2 Nummer 2 und Absatz 4 Satz 3 und 5 und aufgrund
+der Rechtsverordnung nach § 385 Absatz 1 Satz 1 beauftragt wurden, im
+Einvernehmen mit dem Kompetenzzentrum für Interoperabilität im
+Gesundheitswesen sowie im Benehmen mit den für die Wahrnehmung der
+Interessen der Industrie maßgeblichen Bundesverbänden aus dem Bereich
+der Informationstechnologie im Gesundheitswesen die erforderlichen
 Spezifikationen zu den offenen und standardisierten Schnittstellen
 nach § 371 fest. Über die Spezifikationen nach Satz 1 entscheidet für
 die Kassenärztliche Bundesvereinigung der Vorstand. Bei den
@@ -45754,24 +47689,15 @@ das gesamte Gesundheitswesen entscheidet gemäß § 385 Absatz 2 Satz 1
 Nummer 1 das Bundesministerium für Gesundheit im Rahmen der
 Rechtsverordnung nach § 385 Absatz 1 Satz 1.
 
-(3) Für die abrechnungsbegründende Dokumentation von
-vertragsärztlichen und vertragszahnärztlichen Leistungen dürfen
-Vertragsärzte und Vertragszahnärzte nur solche informationstechnischen
-Systeme einsetzen, die von den Kassenärztlichen Bundesvereinigungen in
-einem Bestätigungsverfahren nach Satz 2 bestätigt wurden. Die
-Kassenärztlichen Bundesvereinigungen legen im Einvernehmen mit dem
-Kompetenzzentrum für Interoperabilität im Gesundheitswesen die
-Vorgaben für das Bestätigungsverfahren so fest, dass im Rahmen des
-Bestätigungsverfahrens sichergestellt wird, dass die vorzunehmende
-Integration der offenen und standardisierten Schnittstellen in das
-jeweilige informationstechnische System innerhalb der Frist nach § 371
-Absatz 3, die sich aus der Rechtsverordnung nach § 385 Absatz 1 Satz 1
-ergibt, und nach Maßgabe des § 371 erfolgt ist. Die Kassenärztlichen
-Bundesvereinigungen veröffentlichen die Vorgaben zu dem
-Bestätigungsverfahren. Das Kompetenzzentrum für Interoperabilität im
-Gesundheitswesen veröffentlicht eine Liste mit den nach Satz 1
-bestätigten informationstechnischen Systemen auf der Plattform nach §
-385 Absatz 1 Satz 2 Nummer 5.
+(3) Vertragsärzte und Vertragszahnärzte können ihre vertragsärztlichen
+und vertragszahnärztlichen Leistungen nur dann bei den
+Kassenärztlichen Vereinigungen abrechnen, wenn sie solche
+informationstechnischen Systeme einsetzen, die ein
+Konformitätsbewertungsverfahren nach § 387 erfolgreich durchlaufen
+haben. Das Kompetenzzentrum für Interoperabilität im Gesundheitswesen
+veröffentlicht eine Liste mit den nach Satz 1 bestätigten
+informationstechnischen Systemen auf der Plattform nach § 385 Absatz 1
+Satz 2 Nummer 5.
 
 
 #### § 373 Spezifikationen zu den offenen und standardisierten Schnittstellen für informationstechnische Systeme in Krankenhäusern und in der pflegerischen Versorgung; Gebühren und Auslagen; Verordnungsermächtigung
@@ -45806,8 +47732,9 @@ Subsysteme auf Basis der bisher erarbeiteten Vorschläge zu treffen.
 (3) Für die informationstechnischen Systeme nach § 371 Absatz 2
 erstellt das Kompetenzzentrum für Interoperabilität im
 Gesundheitswesen im Benehmen mit den Vereinigungen der Träger der
-Pflegeeinrichtungen auf Bundesebene sowie den Verbänden der
-Pflegeberufe auf Bundesebene und den für die Wahrnehmung der
+Pflegeeinrichtungen auf Bundesebene sowie den maßgeblichen
+Organisationen der Pflegeberufe auf Bundesebene im Sinne des § 118a
+Absatz 1 Satz 1 des Elften Buches und den für die Wahrnehmung der
 Interessen der Industrie maßgeblichen Bundesverbänden aus dem Bereich
 der Informationstechnologie im Gesundheitswesen und in der
 pflegerischen Versorgung die erforderlichen Spezifikationen zu den
@@ -45817,11 +47744,10 @@ offenen und standardisierten Schnittstellen nach § 371.
 Plattform nach § 385 Absatz 1 Satz 2 Nummer 5 zu veröffentlichen.
 
 (5) Der Einsatz von informationstechnischen Systemen nach den Absätzen
-1 bis 3, die von dem Kompetenzzentrum für Interoperabilität im
-Gesundheitswesen in einem Bestätigungsverfahren nach Satz 2 bestätigt
-wurden, ist wie folgt verpflichtend:
+1 bis 3, die ein Konformitätsbewertungsverfahren nach § 387
+erfolgreich durchlaufen haben, ist wie folgt verpflichtend:
 
-1.  für zugelassene Krankenhäuser
+1.  für zugelassene Krankenhäuser;
 
 
 2.  für die in § 312 Absatz 2 genannten Leistungserbringer sowie die
@@ -45834,54 +47760,30 @@ wurden, ist wie folgt verpflichtend:
 
 
 
-Das Kompetenzzentrum für Interoperabilität im Gesundheitswesen legt
-die Vorgaben für das Bestätigungsverfahren so fest, dass im Rahmen des
-Bestätigungsverfahrens sichergestellt wird, dass die vorzunehmende
-Integration der offenen und standardisierten Schnittstellen in das
-jeweilige informationstechnische System innerhalb der jeweiligen Frist
-nach § 371 Absatz 3, die sich aus der Rechtsverordnung nach § 385
-Absatz 1 Satz 1 ergibt, und nach Maßgabe des § 371 erfolgt ist. Das
-Kompetenzzentrum veröffentlicht eine Liste mit den nach Satz 1
-bestätigten informationstechnischen Systemen auf der Plattform nach §
-385 Absatz 1 Satz 2 Nummer 5.
 
-(6) Abweichend von Absatz 5 ist in der vertragsärztlichen Versorgung
-in zugelassenen Krankenhäusern eine Bestätigung für eine offene und
-standardisierte Schnittstelle nach § 371 Absatz 1 Nummer 2
-entbehrlich, wenn hierfür eine Bestätigung nach § 372 Absatz 3
-vorliegt.
+(6) (weggefallen)
 
-(7) Die Gesellschaft für Telematik kann für die durch das
-Kompetenzzentrum für Interoperabilität im Gesundheitswesen
-durchgeführten Bestätigungen Gebühren und Auslagen erheben. Die
-Gebührensätze sind so zu bemessen, dass sie den auf die Leistungen
-entfallenden durchschnittlichen Personal- und Sachaufwand nicht
-übersteigen.
+(7) (weggefallen)
 
-(8) Das Bundesministerium für Gesundheit wird ermächtigt, durch
-Rechtsverordnung ohne Zustimmung des Bundesrates die
-gebührenpflichtigen Tatbestände zu bestimmen und dabei feste Sätze
-oder Rahmensätze vorzusehen sowie Regelungen über die
-Gebührenentstehung, die Gebührenerhebung, die Erstattung von Auslagen,
-den Gebührenschuldner, Gebührenbefreiungen, die Fälligkeit, die
-Stundung, die Niederschlagung, den Erlass, Säumniszuschläge, die
-Verjährung und die Erstattung zu treffen.
+(8) (weggefallen)
 
 
 #### § 374 Abstimmung zur Festlegung sektorenübergreifender einheitlicher Vorgaben
 
 Die Kassenärztliche Bundesvereinigung, die Kassenzahnärztliche
 Bundesvereinigung, die Deutsche Krankenhausgesellschaft, das
-Kompetenzzentrum für Interoperabilität im Gesundheitswesen und die
-Vereinigungen der Träger der Pflegeeinrichtungen auf Bundesebene sowie
-der Verbände der Pflegeberufe auf Bundesebene stimmen sich bei den
-Festlegungen für offene und standardisierte Schnittstellen nach den §§
-371 bis 373 mit dem Ziel ab, bei inhaltlichen Gemeinsamkeiten der
-Schnittstellen sektorenübergreifende einheitliche Vorgaben zu treffen.
-Betreffen die Festlegungen nach Satz 1 pflegerelevante Inhalte, so
-sind die Vereinigungen der Träger der Pflegeeinrichtungen auf
-Bundesebene sowie der Verbände der Pflegeberufe auf Bundesebene mit
-einzubeziehen.
+Kompetenzzentrum für Interoperabilität im Gesundheitswesen, die
+Vereinigungen der Träger der Pflegeeinrichtungen auf Bundesebene und
+die maßgeblichen Organisationen der Pflegeberufe auf Bundesebene im
+Sinne des § 118a Absatz 1 Satz 1 des Elften Buches stimmen sich bei
+den Festlegungen für offene und standardisierte Schnittstellen nach
+den §§ 371 bis 373 mit dem Ziel ab, bei inhaltlichen Gemeinsamkeiten
+der Schnittstellen sektorenübergreifende einheitliche Vorgaben zu
+treffen. Betreffen die Festlegungen nach Satz 1 pflegerelevante
+Inhalte, so sind die Vereinigungen der Träger der Pflegeeinrichtungen
+auf Bundesebene sowie die maßgeblichen Organisationen der Pflegeberufe
+auf Bundesebene im Sinne des § 118a Absatz 1 Satz 1 des Elften Buches
+mit einzubeziehen.
 
 
 #### § 374a Integration offener und standardisierter Schnittstellen in Hilfsmitteln und Implantaten
@@ -46482,7 +48384,7 @@ Im Sinne dieses Kapitels bezeichnet der Ausdruck
 
 
 
-### § 385 Bedarfsidentifizierung und - priorisierung, Spezifikation, Entwicklung und Festlegung von Standards; Verordnungsermächtigung
+### § 385 Bedarfsidentifizierung und -priorisierung, Spezifikation, Entwicklung und Festlegung von Standards; Verordnungsermächtigung
 
 (1) Das Bundesministerium für Gesundheit wird ermächtigt, durch
 Rechtsverordnung ohne Zustimmung des Bundesrates zur Förderung der
@@ -46556,9 +48458,9 @@ Systeme, die im Gesundheitswesen eingesetzt werden,
 
 9.  die Bundesregierung im Rahmen von Vorhaben und Gremien zur Förderung
     der Interoperabilität im Gesundheitswesen auf Bundesebene, in der
-    Europäischen Union und im Rahmen bimultilateraler Abstimmungen zu
-    unterstützen und die Aufgabe nach den Nummern 1 bis 4 und 6 auf Basis
-    internationaler Standards vorzunehmen.
+    Europäischen Union und im Rahmen bi- und multilateraler Abstimmungen
+    zu unterstützen und die Aufgabe nach den Nummern 1 bis 4 und 6 auf
+    Basis internationaler Standards vorzunehmen.
 
 
 
@@ -46604,8 +48506,9 @@ regeln zu
     Anforderungen an die zu benennenden Experten,
 
 
-3.  de jeweiligen Abstimmungsmodalitäten der in den Nummern 1 und 2
-    genannten Gremien, einschließlich der Beschlussfähigkeit,
+3.  de                    jeweiligen Abstimmungsmodalitäten der in den
+    Nummern 1 und 2 genannten Gremien, einschließlich der
+    Beschlussfähigkeit,
 
 
 4.  der Einrichtung eines Expertenkreises sowie der Einrichtung von
@@ -46991,12 +48894,12 @@ und 2 insbesondere erfüllen, indem sie einen branchenspezifischen
 Sicherheitsstandard für die informationstechnische Sicherheit der
 Gesundheitsversorgung im Krankenhaus in der jeweils gültigen Fassung
 anwenden, dessen Eignung vom Bundesamt für Sicherheit in der
-Informationstechnik nach § 8a Absatz 2 des BSI-Gesetzes festgestellt
+Informationstechnik nach § 30 Absatz 8 des BSI-Gesetzes festgestellt
 wurde.
 
 (5) Die Verpflichtung nach Absatz 1 gilt für alle Krankenhäuser,
-soweit sie nicht ohnehin als Betreiber Kritischer Infrastrukturen
-gemäß § 8a des BSI-Gesetzes angemessene organisatorische und
+soweit sie nicht ohnehin als Betreiber kritischer Anlagen gemäß den §§
+30, 31 und 39 des BSI-Gesetzes angemessene organisatorische und
 technische Vorkehrungen zu treffen haben.
 
 
@@ -47020,7 +48923,7 @@ verarbeiteten Versicherteninformationen steht.
 insbesondere, indem sie den branchenspezifischen Sicherheitsstandard
 für die informationstechnische Sicherheit der Krankenkassen in der
 jeweils gültigen Fassung anwenden, dessen Eignung vom Bundesamt für
-Sicherheit in der Informationstechnik nach § 8a Absatz 2 des BSI-
+Sicherheit in der Informationstechnik nach § 30 Absatz 8 des BSI-
 Gesetzes festgestellt wurde.
 
 (4) Die Krankenkassen sind verpflichtet, repräsentiert durch ihre
@@ -47053,8 +48956,8 @@ Vorgaben enthält zu
 
 
 (5) Die Verpflichtung nach Absatz 1 gilt für alle Krankenkassen,
-soweit sie nicht ohnehin als Betreiber Kritischer Infrastrukturen
-gemäß § 8a des BSI-Gesetzes angemessene organisatorische und
+soweit sie nicht ohnehin als Betreiber kritischer Anlagen gemäß den §§
+30, 31 und 39 des BSI-Gesetzes angemessene organisatorische und
 technische Vorkehrungen zu treffen haben.
 
 (6) Sofern eine Krankenkasse im Rahmen ihrer Aufgabenerfüllung IT-
@@ -47069,8 +48972,103 @@ Einhaltung des branchenspezifischen Sicherheitsstandards im Sinne des
 Absatzes 3 durch den Dritten gewährleistet wird.
 
 
-### § 393 (weggefallen)
+### § 393 Cloud-Einsatz im Gesundheitswesen; Verordnungsermächtigung
 
+(1) Leistungserbringer im Sinne des Vierten Kapitels und Kranken- und
+Pflegekassen sowie ihre jeweiligen Auftragsdatenverarbeiter dürfen
+Sozialdaten und Gesundheitsdaten auch im Wege des Cloud-Computing-
+Dienstes verarbeiten, sofern die Voraussetzungen der Absätze 2 bis 4
+erfüllt sind.
+
+(2) Die Verarbeitung von Sozial- und Gesundheitsdaten im Wege des
+Cloud-Computing-Dienstes darf nur
+
+1.  im Inland,
+
+
+2.  in einem Mitgliedstaat der Europäischen Union oder
+
+
+3.  in einem diesem nach § 35 Absatz 7 des Ersten Buches gleichgestellten
+    Staat oder, sofern ein Angemessenheitsbeschluss gemäß Artikel 45 der
+    Verordnung (EU) 2016/679 vorliegt, in einem Drittstaat
+
+
+
+erfolgen und sofern die datenverarbeitende Stelle über eine
+Niederlassung im Inland verfügt.
+
+(3) Eine Verarbeitung nach Absatz 1 ist nur zulässig, wenn zusätzlich
+zu den Anforderungen des Absatzes 2
+
+1.  nach dem Stand der Technik angemessene technische und organisatorische
+    Maßnahmen zur Gewährleistung der Informationssicherheit ergriffen
+    worden sind,
+
+
+2.  ein aktuelles C5-Testat der datenverarbeitenden Stelle im Hinblick auf
+    die C5-Basiskriterien für die im Rahmen des Cloud-Computing-Dienstes
+    eingesetzten Cloud-Systeme und die eingesetzte Technik vorliegt und
+
+
+3.  die im Prüfbericht des Testats enthaltenen, korrespondierenden
+    Kriterien für Kunden umgesetzt sind.
+
+
+
+
+(4) Bis zum 30. Juni 2025 gilt als aktuelles C5-Testat im Sinne des
+Absatzes 3 Nummer 2 ein C5-Typ1-Testat. Ab dem 1. Juli 2025 gilt als
+aktuelles C5-Testat im Sinne des Absatzes 3 Nummer 2 ein aktuelles
+C5-Typ2-Testat. Wird ein informationstechnisches System nach dem 30.
+Juni 2025 erstmalig in Verkehr gebracht, gilt als aktuelles C5-Testat
+im Sinne des Absatzes 3 Nummer 2 für die ersten 18 Monate nach dem
+Inverkehrbringen ein C5-Typ1-Testat, ab dem 19. Monat nach dem
+Inverkehrbringen ein C5-Typ2-Testat. Eine Verarbeitung nach Absatz 3
+Nummer 2 ist ferner auch zulässig, soweit für die im Rahmen des Cloud-
+Computing-Dienstes eingesetzten Cloud-Systeme und die Cloud-Technik
+anstelle eines aktuellen C5-Testats ein Testat oder Zertifikat nach
+einem Standard vorliegt, dessen Befolgung ein im Vergleich zum
+C5-Standard vergleichbares oder höheres Sicherheitsniveau
+sicherstellt. Das Bundesministerium für Gesundheit wird ermächtigt,
+durch Rechtsverordnung ohne Zustimmung des Bundesrates im Einvernehmen
+mit dem Bundesamt für Sicherheit in der Informationstechnik
+festzulegen, welche Standards die Anforderungen nach Satz 4 erfüllen.
+
+(5) Technische und organisatorische Maßnahmen gelten als angemessen im
+Sinne von Absatz 3 Nummer 1, wenn folgende Anforderungen erfüllt
+werden:
+
+1.  in der vertragsärztlichen und vertragszahnärztlichen Versorgung die
+    Voraussetzungen des § 390,
+
+
+2.  in zugelassenen Krankenhäusern die Voraussetzungen des § 391 und
+
+
+3.  von Krankenkassen die Voraussetzungen des Branchenspezifischen
+    Sicherheitsstandards für gesetzliche Kranken- und Pflegeversicherer
+    (B3S-GKV/PV).
+
+
+
+
+(6) In allen anderen Fällen gelten technische und organisatorische
+Maßnahmen als angemessen im Sinne von Absatz 3 Nummer 1, wenn sie
+gleichwertig zu den Anforderungen nach § 391 sind. Der
+Angemessenheitsmaßstab nach Satz 1 gilt nicht, soweit Verarbeiter nach
+Absatz 1 ohnehin als Betreiber Kritischer Infrastrukturen gemäß § 8a
+des BSI-Gesetzes angemessene technische Vorkehrungen zu treffen haben.
+
+(7) Informationen über die nach Absatz 3 Nummer 2 testierten Cloud-
+Systeme und testierte Cloud-Technik werden von dem Kompetenzzentrum
+für Interoperabilität im Gesundheitswesen auf der Plattform nach § 385
+Absatz 1 Satz 2 Nummer 5 auf Antrag veröffentlicht. Dem Antrag nach
+Satz 1 ist eine Kontrollliste zu den korrespondierenden Kriterien für
+Kunden anzufügen.
+
+(8) Die Vorschriften des Zehnten Buches und des
+Bundesdatenschutzgesetzes bleiben unberührt.
 
 
 ### § 394 (weggefallen)
@@ -47164,11 +49162,13 @@ Anhaltspunkte ergeben für
 1.  Verstöße gegen das Schwarzarbeitsbekämpfungsgesetz,
 
 
-2.  eine Beschäftigung oder Tätigkeit von nichtdeutschen Arbeitnehmern
-    ohne den erforderlichen Aufenthaltstitel nach § 4 Abs. 3 des
-    Aufenthaltsgesetzes, eine Aufenthaltsgestattung oder eine Duldung, die
-    zur Ausübung der Beschäftigung berechtigen, oder eine Genehmigung nach
-    § 284 Abs. 1 des Dritten Buches,
+2.  eine Beschäftigung oder Tätigkeit von Ausländern ohne den
+    erforderlichen Aufenthaltstitel nach § 4a Absatz 5 Satz 1 des
+    Aufenthaltsgesetzes, eine Erlaubnis oder Berechtigung nach § 4a Absatz
+    5 Satz 2 in Verbindung mit Absatz 4 des Aufenthaltsgesetzes, eine
+    Aufenthaltsgestattung oder eine Duldung, die zur Ausübung der
+    Beschäftigung berechtigen, oder eine Genehmigung nach § 284 Abs. 1 des
+    Dritten Buches,
 
 
 3.  Verstöße gegen die Mitwirkungspflicht nach § 60 Abs. 1 Satz 1 Nr. 2
@@ -47190,7 +49190,17 @@ Anhaltspunkte ergeben für
 6.  Verstöße gegen Steuergesetze,
 
 
-7.  Verstöße gegen das Aufenthaltsgesetz.
+7.  Verstöße gegen das Aufenthaltsgesetz,
+
+
+8.  Verstöße gegen das Gesetz zur Sicherung von Arbeitnehmerrechten in der
+    Fleischwirtschaft,
+
+
+9.  Verstöße gegen das Mindestlohngesetz,
+
+
+10. Verstöße gegen das Arbeitnehmer-Entsendegesetz.
 
 
 
@@ -47326,12 +49336,19 @@ bestraft, wer
     weitergibt,
 
 
-2.  entgegen § 64e Absatz 11b Satz 6 oder § 303e Absatz 5 Satz 4, auch in
-    Verbindung mit § 363 Absatz 4 Satz 2, dort genannte Daten verarbeitet
-    oder
+2.  entgegen § 64e Absatz 11b Satz 5 oder § 303e Absatz 5 Satz 4, auch in
+    Verbindung mit § 363 Absatz 4 Satz 2, dort genannte Daten verarbeitet,
 
 
-3.  entgegen § 352, § 356 Absatz 1 oder 2, § 357 Absatz 1, 2 Satz 1 oder
+3.  entgegen § 340a Absatz 1 Satz 1 eine dort genannte Komponente
+    weitergibt,
+
+
+4.  entgegen § 340a Absatz 1 Satz 2 eine Sperrung nicht oder nicht
+    rechtzeitig veranlasst oder
+
+
+5.  entgegen § 352, § 356 Absatz 1 oder 2, § 357 Absatz 1, 2 Satz 1 oder
     Absatz 3, § 359 Absatz 1 oder § 361 Absatz 1 auf dort genannte Daten
     zugreift.
 
@@ -47340,7 +49357,7 @@ bestraft, wer
 
 (2) Handelt der Täter gegen Entgelt oder in der Absicht, sich oder
 einen Anderen zu bereichern oder einen Anderen zu schädigen, so ist
-die Strafe Freiheitsstrafe bis zu drei Jahren oder Geldstrafe.
+die Strafe Freiheitsstrafe bis zu zwei Jahren oder Geldstrafe.
 
 (3) Die Tat wird nur auf Antrag verfolgt. Antragsberechtigt sind der
 Betroffene, der Bundesbeauftragte für den Datenschutz oder die
@@ -47731,182 +49748,12 @@ nur die Entwicklung des Verbraucherpreisindexes ab dem 1. Januar 2028
 berücksichtigt werden.
 
 
-### § 411 Übergangsregelung für die Medizinischen Dienste der Krankenversicherung und den Medizinischen Dienst des Spitzenverbandes Bund der Krankenkassen
-
-(1) Für die Medizinischen Dienste der Krankenversicherung gelten die
-§§ 275 bis 283 in der bis zum 31. Dezember 2019 gültigen Fassung mit
-Ausnahme des § 275 Absatz 1c und 5, § 276 Absatz 2 und 4 und § 281
-Absatz 2 bis zu dem nach § 412 Absatz 1 Satz 4 bekannt zu machenden
-Datum fort. Bis zu diesem Zeitpunkt nehmen die am 31. Dezember 2019
-bestehenden Organe der Medizinischen Dienste der Krankenversicherung
-nach diesen Vorschriften die Aufgaben des Medizinischen Dienstes wahr.
-Die §§ 275 bis 283a in der ab dem 1. Januar 2020 geltenden Fassung
-finden mit Ausnahme des § 275 Absatz 3b und 5, der §§ 275c, 275d, 276
-Absatz 2 und 4 und des § 280 Absatz 3 bis zu dem nach § 412 Absatz 1
-Satz 4 bekannt zu machenden Datum keine Anwendung. Bis zu dem nach §
-412 Absatz 1 Satz 4 bekannt zu machenden Datum findet für die Aufgaben
-des Medizinischen Dienstes nach den §§ 275c und 275d die Regelung des
-§ 281 Absatz 1 in der bis zum 31. Dezember 2019 geltenden Fassung
-entsprechende Anwendung.
-
-(2) Für den Medizinischen Dienst des Spitzenverbandes Bund der
-Krankenkassen sowie für den Spitzenverband Bund der Krankenkassen
-gelten die §§ 275 bis 283 und § 326 Absatz 2 Satz 1 in der jeweils bis
-zum 31. Dezember 2019 geltenden Fassung mit Ausnahme des § 275 Absatz
-5 bis zum 31. Dezember 2021 fort; nach diesen Vorschriften nehmen ihre
-am 31. Dezember 2019 bestehenden Organe ihre Aufgaben bis zu diesem
-Zeitpunkt wahr. Die §§ 275 bis 283a in der am 1. Januar 2020 geltenden
-Fassung sind für den Medizinischen Dienst des Spitzenverbandes Bund
-der Krankenkassen mit Ausnahme des § 275 Absatz 5, der §§ 275c und 281
-Absatz 2 Satz 5 bis zum 31. Dezember 2021 nicht anwendbar. § 283
-Absatz 2 Satz 1 Nummer 3 und 5 zweite Alternative in der am 1. Januar
-2020 geltenden Fassung ist mit der Maßgabe anwendbar, dass der
-Medizinische Dienst des Spitzenverbandes Bund der Krankenkassen die
-Richtlinie nach § 283 Absatz 2 Satz 1 Nummer 3 bis zum 28. Februar
-2021 und die Richtlinie nach § 283 Absatz 2 Satz 1 Nummer 5 zweite
-Alternative bis zum 31. Dezember 2020 erlässt. Diese Richtlinien
-bedürfen der Genehmigung des Bundesministeriums für Gesundheit.
-
-(3) § 283 Absatz 2 Satz 1 Nummer 4 in der am 1. Januar 2020 geltenden
-Fassung ist mit der Maßgabe anwendbar, dass der Medizinische Dienst
-des Spitzenverbandes Bund der Krankenkassen die Richtlinie nach § 283
-Absatz 2 Satz 1 Nummer 4 bis zum 31. Dezember 2021 erlässt. In der
-Richtlinie ist eine bundeseinheitliche Methodik und Vorgehensweise
-nach angemessenen und anerkannten Methoden der
-Personalbedarfsermittlung vorzugeben. Hierfür sind geeignete Gruppen
-der Aufgaben der Medizinischen Dienste (Begutachtungsaufträge) zu
-definieren. Die für den Erlass der Richtlinie nach Satz 1
-erforderlichen Daten sind von allen Medizinischen Diensten unter
-Koordinierung des Medizinischen Dienstes des Spitzenverbandes Bund der
-Krankenkassen nach einer bundeseinheitlichen Methodik und
-Vorgehensweise spätestens ab dem 1. März 2021 zu erheben und für alle
-Medizinischen Dienste einheitlich durch den Medizinischen Dienst des
-Spitzenverbandes Bund der Krankenkassen unter fachlicher Beteiligung
-der Medizinischen Dienste anonymisiert auszuwerten. Die Richtlinie hat
-mindestens aufgabenbezogene Richtwerte für die Aufgabengruppen der
-Begutachtungen von Krankenhausleistungen nach § 275c,
-Arbeitsunfähigkeit nach § 275 Absatz 1 Satz 1 Nummer 3 Buchstabe b
-sowie von Rehabilitations- und Vorsorgeleistungen nach § 275 Absatz 2
-Nummer 1 einzubeziehen. Sie bedarf der Genehmigung des
-Bundesministeriums für Gesundheit.
-
-(4) Endet die Amtszeit eines bestehenden Verwaltungsrates eines
-Medizinischen Dienstes der Krankenversicherung vor dem Zeitpunkt des §
-412 Absatz 1 Satz 4, verlängert sie sich bis zu diesem Zeitpunkt. Die
-Verwaltungsräte der Medizinischen Dienste der Krankenversicherung
-werden mit Wirkung zum Zeitpunkt des § 412 Absatz 1 Satz 4 aufgelöst,
-der Verwaltungsrat des Medizinischen Dienstes des Spitzenverbandes
-Bund der Krankenkassen wird mit Wirkung zum Zeitpunkt des § 412 Absatz
-5 Satz 9 in Verbindung mit Absatz 1 Satz 4 aufgelöst.
+### § 411 (weggefallen)
 
 
-### § 412 Errichtung der Medizinischen Dienste und des Medizinischen Dienstes Bund
 
-(1) Die für die Sozialversicherung zuständige oberste
-Verwaltungsbehörde des Landes hat die Vertreter des Verwaltungsrates
-nach § 279 Absatz 5 bis zum 31. Dezember 2020 gemäß den Vorgaben des §
-279 Absatz 3, 5 und 6 zu benennen; die Verwaltungsräte oder
-Vertreterversammlungen der in § 279 Absatz 4 Satz 1 genannten
-Krankenkassenverbände und Krankenkassen haben bis zum 31. Dezember
-2020 ihre Vertreter gemäß den Vorgaben des § 279 Absatz 3, 4 und 6 zu
-wählen. Der gemäß Satz 1 besetzte Verwaltungsrat hat bis zum 31. März
-2021 die Satzung nach § 279 Absatz 2 Satz 1 Nummer 1 und Satz 2 zu
-beschließen. Die für die Sozialversicherung zuständige oberste
-Verwaltungsbehörde des Landes hat über die Genehmigung der Satzung bis
-zum 30. Juni 2021 zu entscheiden und das Datum der Genehmigung
-öffentlich bekannt zu machen. Sie hat das Datum des Ablaufs des
-Monats, in dem die Genehmigung erteilt wurde, öffentlich bekannt zu
-machen. Die oder der amtierende Vorsitzende des Verwaltungsrates des
-Medizinischen Dienstes der Krankenversicherung lädt zur
-konstituierenden Sitzung ein und regelt das Nähere. In der
-konstituierenden Sitzung des Verwaltungsrates des Medizinischen
-Dienstes sind die oder der Vorsitzende und die oder der
-stellvertretende Vorsitzende zu wählen. Der jeweils amtierende
-Geschäftsführer des Medizinischen Dienstes der Krankenversicherung und
-sein Stellvertreter gelten bis zum 31. Dezember 2021 als durch den neu
-konstituierten Verwaltungsrat gewählter Vorstand.
+### § 412 (weggefallen)
 
-(2) Die Medizinischen Dienste, die als eingetragene Vereine
-organisiert sind, werden im Zeitpunkt des Absatzes 1 Satz 4 als
-Körperschaften des öffentlichen Rechts neu konstituiert. Die
-jeweiligen eingetragenen Vereine erlöschen mit Wirkung zum Zeitpunkt
-des Absatzes 1 Satz 4.
-
-(3) Die Rechte und Pflichten einschließlich des Vermögens der
-Medizinischen Dienste nach Absatz 2 gehen im Zeitpunkt des nach Absatz
-1 Satz 4 bekannt gemachten Datums auf die in den jeweiligen Bezirken
-als Körperschaften des öffentlichen Rechts errichteten Medizinischen
-Dienste über. Die Körperschaften des öffentlichen Rechts treten in
-diesem Zeitpunkt in die Rechte und Pflichten der eingetragenen Vereine
-aus den Arbeits- und Ausbildungsverhältnissen mit den bei ihnen
-beschäftigten Personen ein. Die Arbeitsbedingungen der einzelnen
-Arbeitnehmer und Auszubildenden dürfen bis zum 31. Dezember 2022 nicht
-verschlechtert werden. Die Arbeits- oder Ausbildungsverhältnisse
-können bis zum 31. Dezember 2022 nur aus einem in der Person oder im
-Verhalten des Arbeitsnehmers oder Auszubildenden liegenden wichtigen
-Grund gekündigt werden. Die bestehenden Tarifverträge gelten fort. Der
-bei dem jeweiligen Medizinischen Dienst bestehende Betriebsrat nimmt
-ab dem nach Absatz 1 Satz 4 bekannt gemachten Zeitpunkt übergangsweise
-die Aufgaben eines Personalrats nach dem jeweiligen
-Personalvertretungsrecht wahr. Im Rahmen seines Übergangsmandats hat
-der Betriebsrat insbesondere die Aufgabe, unverzüglich den
-Wahlvorstand zur Einleitung der Personalratswahl zu bestellen. Das
-Übergangsmandat des jeweiligen Betriebsrates endet, sobald ein
-Personalrat gewählt und das Wahlergebnis bekannt gegeben worden ist,
-spätestens jedoch zwölf Monate nach dem in Absatz 1 Satz 4 bestimmten
-Zeitpunkt. Die in dem nach Absatz 1 Satz 4 bekannt gemachten Zeitpunkt
-bestehenden Betriebsvereinbarungen gelten längstens für die Dauer von
-zwölf Monaten als Dienstvereinbarungen fort, soweit sie nicht durch
-eine andere Regelung ersetzt werden. Auf die bis zum nach Absatz 1
-Satz 4 bekannt gemachten Datum förmlich eingeleiteten
-Beteiligungsverfahren finden bis zu deren Abschluss die Bestimmungen
-des Betriebsverfassungsgesetzes sinngemäß Anwendung. Gleiches gilt für
-Verfahren vor der Einigungsstelle und den Arbeitsgerichten. Die Sätze
-2 bis 4 gelten für Ausbildungsverhältnisse entsprechend. Die Sätze 6
-bis 8 gelten für die Jugend- und Auszubildendenvertretung entsprechend
-mit der Maßgabe, dass der das Übergangsmandat innehabende Betriebsrat
-unverzüglich einen Wahlvorstand und seine vorsitzende Person zur Wahl
-einer Jugend- und Auszubildendenvertretung zu bestimmen hat.
-
-(4) Die Medizinischen Dienste, die gemäß § 278 Absatz 1 Satz 2 in
-Verbindung mit Artikel 73 Absatz 4 des Gesundheits-Reformgesetzes
-Körperschaften des öffentlichen Rechts mit Dienstherrenfähigkeit sind,
-verlieren ihre Dienstherrenfähigkeit, wenn die Notwendigkeit hierfür
-nach Artikel 73 Absatz 4 Satz 1 und Absatz 5 des Gesundheits-
-Reformgesetzes nicht mehr besteht. Die für die Sozialversicherung
-zuständige oberste Verwaltungsbehörde des Landes stellt den Zeitpunkt
-fest, zu dem die Dienstherrenfähigkeit entfällt, und macht ihn
-öffentlich bekannt.
-
-(5) Der Medizinische Dienst Bund tritt als Körperschaft des
-öffentlichen Rechts an die Stelle des Medizinischen Dienstes des
-Spitzenverbandes Bund der Krankenkassen. Die Verwaltungsräte der
-Medizinischen Dienste haben nach § 282 Absatz 2 die Vertreter des
-Verwaltungsrates des Medizinischen Dienstes Bund, die von den jeweils
-Wahlberechtigten nach § 282 Absatz 2 Satz 2 vorgeschlagen werden, bis
-zum 31. März 2021 zu wählen. Der amtierende Vorsitzende des
-Verwaltungsrates des Medizinischen Dienstes des Spitzenverbandes Bund
-der Krankenkassen sammelt die Vorschläge für die Wahl nach Satz 2 in
-nach Vertretergruppen gemäß § 279 Absatz 4 Satz 1 und Absatz 5 Satz 1
-und nach Geschlecht getrennten Listen und versendet diese an die
-jeweiligen Vertretergruppen der Medizinischen Dienste. Jede
-Vertretergruppe eines Medizinischen Dienstes entsendet einen
-Vertreter, der die Stimmen jedes Mitglieds der Vertretergruppe
-entsprechend dessen Weisungen abgibt. Der amtierende Vorsitzende des
-Verwaltungsrates des Medizinischen Dienstes des Spitzenverbandes Bund
-der Krankenkassen lädt zur Wahl, leitet die Wahl und regelt das
-Nähere. Gewählt ist, wer die meisten Stimmen auf sich vereinigt; bei
-Stimmengleichheit entscheidet das Los. Der amtierende Vorsitzende des
-Verwaltungsrates des Medizinischen Dienstes des Spitzenverbandes Bund
-der Krankenkassen lädt zur konstituierenden Sitzung des
-Verwaltungsrates des Medizinischen Dienstes Bund und leitet diese. In
-der konstituierenden Sitzung sind die oder der Vorsitzende und die
-oder der stellvertretende Vorsitzende zu wählen. Absatz 1 Satz 2 bis 4
-und 7 und die Absätze 2 und 3 gelten entsprechend mit der Maßgabe,
-dass die Frist nach Absatz 1 Satz 7 am 30. Juni 2022 endet, die Frist
-nach Absatz 1 Satz 2 am 30. September 2021 endet, die Frist nach
-Absatz 1 Satz 3 am 31. Dezember 2021 endet und die Satzung vom
-Bundesministerium für Gesundheit zu genehmigen ist.
 
 
 ### § 413 Übergangsregelung zur Tragung der Beiträge durch Dritte für Auszubildende in einer außerbetrieblichen Einrichtung
@@ -47918,23 +49765,6 @@ in einer außerbetrieblichen Einrichtung vor dem 1. Januar 2020
 begonnen wurde.
 
 
-### § 413 Übergangsregelung aus Anlass des Gesetzes zur Regelung des Sozialen Entschädigungsrechts
-
-Für Personen, die Leistungen nach dem Soldatenversorgungsgesetz in der
-Fassung der Bekanntmachung vom 16. September 2009 (BGBl. I S. 3054),
-das zuletzt durch Artikel 19 des Gesetzes vom 4. August 2019 (BGBl. I
-S. 1147) geändert worden ist, in Verbindung mit dem
-Bundesversorgungsgesetz in der Fassung der Bekanntmachung vom 22.
-Januar 1982 (BGBl. I S. 21), das zuletzt durch Artikel 1 der
-Verordnung vom 13. Juni 2019 (BGBl. I S. 793) geändert worden ist,
-erhalten, gelten die Vorschriften des § 5 Absatz 1 Nummer 6, des § 49
-Absatz 1 Nummer 3, des § 55 Absatz 2 Satz 2 Nummer 2 und 3 sowie Satz
-4, des § 62 Absatz 2 Satz 4 sowie Satz 5 Nummer 2, des § 192 Absatz 1
-Nummer 3, des § 235 Absatz 1 Satz 4 und Absatz 2 Satz 1, des § 242
-Absatz 3 Satz 1 Nummer 5, des § 251 Absatz 1 und des § 294a Absatz 1
-Satz 1 in der am 31. Dezember 2023 geltenden Fassung weiter.
-
-
 ### § 414 Übergangsregelung für am 1. April 2020 bereits geschlossene Krankenkassen
 
 Auf die am 1. April 2020 bereits geschlossenen Krankenkassen sind die
@@ -47942,18 +49772,8 @@ Auf die am 1. April 2020 bereits geschlossenen Krankenkassen sind die
 Fassung anwendbar.
 
 
-### § 415 Übergangsregelung zur Zahlungsfrist von Krankenhausrechnungen, Verordnungsermächtigung
+### § 415 (weggefallen)
 
-Die von den Krankenhäusern bis zum 30. Juni 2021 erbrachten und in
-Rechnung gestellten Leistungen sind von den Krankenkassen innerhalb
-von fünf Tagen nach Rechnungseingang zu bezahlen. Als Tag der Zahlung
-gilt der Tag der Übergabe des Überweisungsauftrages an ein
-Geldinstitut oder der Übersendung von Zahlungsmitteln an das
-Krankenhaus. Ist der Fälligkeitstag ein Samstag, Sonntag oder
-gesetzlicher Feiertag, so verschiebt er sich auf den nächstfolgenden
-Arbeitstag. Das Bundesministerium für Gesundheit kann durch
-Rechtsverordnung ohne Zustimmung des Bundesrates die in Satz 1
-genannte Frist verlängern.
 
 
 ### § 416 Übergangsregelung zur Versicherungspflicht bei praxisintegrierter Ausbildung
@@ -48232,351 +50052,3420 @@ Berichte hinsichtlich der Änderungen des § 130a Absatz 8 bis 8b
 jeweils bis zum 31. Dezember 2025 und bis zum 31. Dezember 2028
 vorzulegen.
 
-(zu § 135d)
 
-### Anlage 1 Leistungsgruppen der Krankenhausbehandlung
+### § 426 Übergangsregelung zur Beitragspflicht, Tragung und Zahlung der Beiträge aus dem Zuschlag nach § 307j des Sechsten Buches
+
+(1) Für die nach § 307j Absatz 1 des Sechsten Buches im Zeitraum vom
+1\. Juli 2024 bis zum 30. November 2025 zu zahlenden Rentenzuschläge
+und für die nach § 307j Absatz 5 des Sechsten Buches nachzuzahlenden
+Unterschiedsbeträge wird für nach diesem Buch Versicherungspflichtige
+abweichend von § 226 Absatz 1 Satz 1 Nummer 2 und § 237 Satz 1 Nummer
+1 statt des Zahlbetrags der Rente der sich nach Absatz 3 jeweils
+ergebende Betrag der Beitragsbemessung zugrunde gelegt. Abweichend von
+§ 249a Satz 1 und 2 tragen die Träger der Rentenversicherung die
+Beiträge aus den nach Absatz 3 ermittelten beitragspflichtigen
+Einnahmen allein.
+
+(2) Die Deutsche Rentenversicherung Bund ermittelt zum 18. Dezember
+2025 jeweils die Gesamtsumme der von der Deutschen Post AG für den
+Zeitraum vom 1. Juli 2024 bis zum 31. Dezember 2024 und für den
+Zeitraum vom 1. Januar 2025 bis zum 30. November 2025 an nach diesem
+Buch Versicherungspflichtige nach § 307j des Sechsten Buches
+auszuzahlenden Rentenzuschläge und die Gesamtsumme der an nach diesem
+Buch Versicherungspflichtige nach § 307j Absatz 5 des Sechsten Buches
+nachzuzahlenden Unterschiedsbeträge.
+
+(3) Die beitragspflichtigen Einnahmen werden jeweils getrennt für den
+Zeitraum vom 1. Juli 2024 bis zum 31. Dezember 2024 und für den
+Zeitraum vom 1. Januar 2025 bis zum 30. November 2025 sowie
+hinsichtlich der nach § 307j Absatz 5 des Sechsten Buches
+nachzuzahlenden Unterschiedsbeträge ermittelt, indem vom Wert 100
+Prozent die Hälfte des allgemeinen Beitragssatzes nach § 241, die
+Hälfte des durchschnittlichen Zusatzbeitragssatzes nach § 242a Absatz
+2 sowie der Beitragssatz nach § 55 Absatz 1 Satz 1 des Elften Buches
+abgezogen werden und die jeweilige nach Absatz 2 ermittelte
+Gesamtsumme durch den resultierenden Wert geteilt wird. Dabei ist der
+jeweils geltende allgemeine Beitragssatz nach § 241, der für den
+jeweiligen Zeitraum nach § 242a Absatz 2 bekanntgegebene
+durchschnittliche Zusatzbeitragssatz sowie der am 1. Januar des
+jeweiligen Jahres geltende Beitragssatz nach § 55 Absatz 1 Satz 1 des
+Elften Buches anzuwenden. Für die nach § 307j Absatz 5 des Sechsten
+Buches nachzuzahlenden Unterschiedsbeträge sind die am 1. Januar 2025
+geltenden Beitragssätze bei der Ermittlung der beitragspflichtigen
+Einnahmen nach Satz 1 anzuwenden.
+
+(4) Für die Bemessung der Beiträge aus den nach Absatz 3 ermittelten
+beitragspflichtigen Einnahmen finden der allgemeine Beitragssatz nach
+§ 241 und der für den jeweiligen Zeitraum nach § 242a Absatz 2
+bekanntgegebene durchschnittliche Zusatzbeitragssatz Anwendung. Für
+die hinsichtlich der nach § 307j Absatz 5 des Sechsten Buches
+nachzuzahlenden Unterschiedsbeträge ermittelten beitragspflichtigen
+Einnahmen sind die am 1. Januar 2025 geltenden Beitragssätze
+anzuwenden.
+
+(5) Die Beiträge aus den nach Absatz 3 ermittelten beitragspflichtigen
+Einnahmen werden am 7. Januar 2026 fällig. Die Deutsche
+Rentenversicherung Bund leitet die Beiträge an den Gesundheitsfonds
+weiter und teilt dem Bundesamt für Soziale Sicherung bis zum 22.
+Dezember 2025 die voraussichtliche Höhe der fälligen Beiträge mit. In
+den in Absatz 2 genannten Zeiträumen leistet die Deutsche
+Rentenversicherung Bund am Achten jedes Monats eine Abschlagszahlung
+in Höhe von jeweils 32 Millionen Euro an den Gesundheitsfonds. Die
+nach Satz 1 am 7. Januar 2026 fälligen Beiträge verringern sich
+jeweils um die nach Satz 3 geleisteten Abschlagszahlungen. § 271
+Absatz 1 Nummer 2 gilt entsprechend. Das Nähere zum Verfahren der
+Zahlung der ermittelten Beiträge vereinbaren das Bundesamt für Soziale
+Sicherung, die Deutsche Rentenversicherung Bund, die Deutsche
+Rentenversicherung Knappschaft-Bahn-See und die Sozialversicherung für
+Landwirtschaft, Forsten und Gartenbau. In der Vereinbarung kann für
+die Beiträge aus den hinsichtlich der nach § 307j Absatz 5 des
+Sechsten Buches nachzuzahlenden Unterschiedsbeträge ermittelten
+beitragspflichtigen Einnahmen Folgendes festgelegt werden:
+
+1.  eine von Satz 1 abweichende Fälligkeit,
 
 
-(Fundstelle: BGBl. 2024 I Nr. 105, Seite 4 - 6)
+2.  eine von Satz 2 abweichende Frist und
 
 
-*    *   Nummer
-
-    *   Leistungsgruppe
+3.  ein von Absatz 2 abweichender Zeitpunkt.
 
 
-*    *   Internistische Leistungsgruppen
+
+
+(6) Der Gesundheitsfonds überweist von den an ihn nach Absatz 5
+gezahlten Beiträgen der landwirtschaftlichen Krankenkasse den auf sie
+entfallenden Anteil. Dafür ermittelt die Deutsche Rentenversicherung
+Bund den Anteil der Beiträge, die auf Rentenzahlungen für
+Versicherungspflichtige beruhen, für die von den Trägern der
+Rentenversicherung nach § 50 Absatz 1 des Zweiten Gesetzes über die
+Krankenversicherung der Landwirte Beiträge an die landwirtschaftliche
+Krankenkasse zu zahlen sind und teilt diesen Anteil dem Bundesamt für
+Soziale Sicherung mit.
+
+
+### § 427 Evaluation des Krankenhausversorgungsverbesserungsgesetzes
+
+Der Spitzenverband Bund der Krankenkassen, der Verband der Privaten
+Krankenversicherung e. V. und die Deutsche Krankenhausgesellschaft
+legen dem Bundesministerium für Gesundheit und den für die
+Krankenhausplanung zuständigen Landesbehörden zum 31. Dezember 2028,
+zum 31. Dezember 2030, zum 31. Dezember 2033, zum 31. Dezember 2036
+sowie zum 31. Dezember 2039 jeweils einen gemeinsamen Bericht vor über
+
+1.  die Auswirkungen der Einteilung der von der Krankenhausbehandlung
+    umfassten Leistungen in Leistungsgruppen nach § 135e Absatz 1 Satz 1
+    und die Weiterentwicklung dieser Einteilung, insbesondere hinsichtlich
+    der mit der Zuweisung von Leistungsgruppen nach § 6a Absatz 1 Satz 1
+    des Krankenhausfinanzierungsgesetzes zusammenhängenden
+    Konzentrationswirkungen auf die Leistungserbringung durch die
+    Krankenhäuser, auch soweit diese länderübergreifend eingetreten sind,
+
+
+2.  die Auswirkungen der für Leistungsgruppen geltenden
+    Mindestvorhaltezahlen im Sinne des § 135f Absatz 1 Satz 1,
+    insbesondere hinsichtlich der mit der Festlegung der
+    Mindestvorhaltezahlen bezweckten Qualitätssteigerung der
+    Krankenhausbehandlung und hinsichtlich der Versorgungssituation der
+    Patienten,
+
+
+3.  die Prüfungen zur Erfüllung der nach § 135e Absatz 2 Satz 2
+    maßgeblichen Qualitätskriterien durch den Medizinischen Dienst nach §
+    275a Absatz 1 Satz 1 Nummer 1, insbesondere über die Dauer und die
+    Ergebnisse dieser Prüfungen, sowie über die Anzahl der Fälle, in denen
+    das Gutachten nach § 275a Absatz 2 Satz 6 zweiter Halbsatz korrigiert
+    wurde oder in denen eine Erörterung nach § 275a Absatz 2 Satz 6 erster
+    Halbsatz stattgefunden hat,
+
+
+4.  die Auswirkungen der durch das
+    Krankenhausversorgungsverbesserungsgesetz vom 5. Dezember 2024 (BGBl.
+    2024 I Nr. 400) bewirkten Rechtsänderungen auf
+
+    a)  die Versorgungssituation der Patienten,
+
+
+    b)  die Personalstrukturen in den Krankenhäusern,
+
+
+    c)  die wirtschaftliche Situation der Krankenhäuser und die Ausgaben der
+        Krankenkassen und
+
+
+    d)  die Entwicklung des Leistungsgeschehens im Bereich der ambulanten und
+        stationären medizinischen Rehabilitation sowie auf die Entwicklung des
+        sonstigen ambulanten Leistungsgeschehens.
+
+
+
+
+
+
+Der nach § 142 Absatz 1 Satz 1 berufene Sachverständigenrat legt dem
+Bundesministerium für Gesundheit bis zum 31. März 2031 einen Bericht
+über die in Satz 1 genannten Gegenstände vor. Die für die nach den
+Sätzen 1 und 2 vorzulegenden Berichte erforderlichen Daten sind dem
+Spitzenverband Bund der Krankenkassen, dem Verband der Privaten
+Krankenversicherung e. V., der Deutschen Krankenhausgesellschaft und
+dem nach § 142 Absatz 1 Satz 1 berufenen Sachverständigenrat von den
+Krankenkassen, den Unternehmen der privaten Krankenversicherung, den
+Kassenärztlichen Vereinigungen, den Krankenhäusern und den
+Medizinischen Diensten in anonymisierter Form zu übermitteln.
+
+
+### § 428 Übergangsregelung aus Anlass des Gesetzes zur Regelung des Sozialen Entschädigungsrechts
+
+Für Personen, die Leistungen nach dem Soldatenversorgungsgesetz in der
+am 31. Dezember 2024 geltenden Fassung in Verbindung mit dem
+Bundesversorgungsgesetz in der am 31. Dezember 2023 geltenden Fassung
+erhalten, gelten die Vorschriften des § 5 Absatz 1 Nummer 6, des § 49
+Absatz 1 Nummer 3, des § 55 Absatz 2 Satz 2 Nummer 2 und 3 und Satz 4,
+des § 62 Absatz 2 Satz 4 und 5 Nummer 2, des § 192 Absatz 1 Nummer 3,
+des § 235 Absatz 1 Satz 4 und Absatz 2 Satz 1, des § 242 Absatz 3 Satz
+1 Nummer 5, des § 251 Absatz 1 und des § 294a Absatz 1 Satz 1 in der
+jeweils am 31. Dezember 2023 geltenden Fassung weiter.
+
+
+### Anlage 1 (zu § 135e) Leistungsgruppen und Qualitätskriterien
+
+
+(Fundstelle: BGBl. 2024 I Nr. 400, Seite 51 - 112)
+
+
+*    *   Leistungs-
+        gruppen-Nummer
+
+    *   Leistungs-
+        gruppe (LG)
+
+    *
+    *   Anforderungsbereiche
+
+
+*    *   Erbringung verwandter LG
+
+    *   Sachliche Ausstattung
+
+    *   Personelle Ausstattung
+
+    *   Sonstige Struktur- und
+        Prozessvoraussetzungen
+
+
+*    *   Standort
+
+    *   Kooperation
+
+    *   Qualifikation
+
+    *   Verfügbarkeit
 
 
 *    *   1
 
-    *   Allgemeine Innere Medizin
+    *   Allgemeine
+        Innere Medizin
 
+    *   Mindest-
+        voraus-
+        setzung
+
+    *   LG Intensivmedizin
+
+    *   LG Allgemeine
+        Chirurgie
+
+    *   Röntgen,
+        Elektrokardiographie (EKG),
+        Sonographiegerät,
+        Basislabor jederzeit,
+        Computertomographie (CT)
+        jederzeit mindestens
+        in Kooperation,
+        Endoskopie täglich
+        zehn Stunden im Zeitraum
+        von 6 Uhr bis 20 Uhr
+
+    *   Facharzt (FA) aus dem Gebiet Innere Medizin
+
+    *   Drei FA, mindestens Rufbereitschaft:
+        jederzeit
+
+    *   Erfüllung der in § 6 der
+        Pflegepersonaluntergrenzen-Verordnung (PpUGV) festgelegten
+        Pflegepersonaluntergrenzen
+
+
+*    *   Auswahl-
+        kriterium
+
+    *   LG Geriatrie
+        Mindestens eine der folgenden LG:
+        LG Allgemeine
+        Frauenheilkunde oder
+        LG Ovarial-CA oder
+        LG Senologie oder
+        LG Geburten
+
+    *
+    *   Magnetresonanz-
+        tomographie (MRT)
+
+    *
+    *
+    *
 
 *    *   2
 
-    *   Komplexe Endokrinologie und Diabetologie
+    *   Komplexe
+        Endo-
+        krinologie und
+        Diabetologie
+
+    *   Mindest-
+        voraus-
+        setzung
+
+    *   LG Allgemeine
+        Chirurgie
+        LG Allgemeine
+        Innere Medizin
+        LG Intensivmedizin
+        Sofern Kinder und Jugendliche behandelt werden:
+        LG Allgemeine
+        Kinder- und Jugendmedizin
+
+    *
+    *
+    *   Sofern Erwachsene behandelt werden:
+        FA aus dem Gebiet Innere Medizin
+        FA Innere Medizin und Endokrinologie und Diabetologie
+        Sofern Kinder und Jugendliche behandelt werden:
+        FA Kinder- und
+        Jugendmedizin
+        FA Kinder- und
+        Jugendmedizin mit Zusatz-Weiterbildung (ZW) Kinder- und
+        Jugend-Endokrinologie und Diabetologie
+
+    *   Drei FA, mindestens Rufbereitschaft:
+        jederzeit
+        Sofern Erwachsene behandelt werden:
+        Davon mindestens zwei FA Innere
+        Medizin und Endokrinologie und Diabetologie, dritter FA kann aus dem
+        Gebiet der Inneren Medizin sein
+        Sofern Kinder und Jugendliche behandelt werden:
+        Davon mindestens zwei FA Kinder- und Jugendmedizin mit ZW Kinder- und
+        Jugend-Endokrinologie und -Diabetologie, dritter FA kann FA Kinder-
+        und Jugendmedizin sein
+
+    *   Erfüllung der in § 6 PpUGV festgelegten Pflegepersonaluntergrenzen
 
 
 *    *   3
 
     *   Infektiologie
 
+    *   Mindest-
+        voraus-
+        setzung
+
+    *   LG Allgemeine Innere Medizin oder
+        LG Allgemeine Kinder- und Jugendmedizin,
+        LG Intensivmedizin
+        LG Notfallmedizin
+        LG Allgemeine Chirurgie
+
+    *
+    *   Mindestens vier Isolationsbetten mit Schleusenfunktion,
+        Notfall-Labor plus Point-of-Care Laboranalytik,
+        Zugang zu Mikrobiologischem Labor
+        jederzeit mindestens
+        in Kooperation,
+        CT,
+        MRT mindestens
+        in Kooperation,
+        Positronen-Emissions-Tomographie-CT (PET-CT)
+        mindestens in Kooperation
+
+    *   FA Innere Medizin und Infektiologie oder FA in einem Gebiet der
+        unmittelbaren Patientenversorgung mit ZW Infektiologie oder
+        FA Mikrobiologie, Virologie und
+        Infektionsepidemiologie mit ZW Infektiologie oder FA Hygiene und
+        Umweltmedizin mit ZW Infektiologie
+
+    *   Vier FA, mindestens Rufbereitschaft: jederzeit
+        Davon mindestens drei FA Innere Medizin und Infektiologie oder
+        mindestens ein FA Innere Medizin und Infektiologie und zwei FA in
+        einem Gebiet der unmittelbaren Patientenversorgung mit ZW
+        Infektiologie (davon mindestens ein FA Innere Medizin)
+        sowie
+        mindestens ein FA Mikrobiologie, Virologie und Infektionsepidemiologie
+        oder ein FA Hygiene und Umweltmedizin
+
+    *   Fachärztlicher infektiologischer Konsilservice
+        Fachapotheker oder Fachapothekerin mit der Bereichsweiterbildung
+        Infektiologie oder ABS-fortgebildeter Apotheker oder Apothekerin, die
+        entweder auf Station, in der Krankenhausapotheke oder in
+        krankenhausversorgenden Apotheken tätig sind
+        Antibiotic Stewardship (ABS) Team
+        Einrichtung der ambulanten Medizin mit Schwerpunkt Infektiologie
+        (mindestens in Kooperation, auch durch auf die Behandlung von HIV-
+        Patienten spezialisierte vertragsärztliche Leistungserbringer, wenn
+        eine schriftliche Kooperationsvereinbarung vorliegt)
+        Konsiliarische Erreichbarkeit, täglich von 8 Uhr bis 17 Uhr, folgender
+        Dienste:
+
+        •   Augenheilkunde
+
+
+        •   Hals-Nasen-Ohrenheilkunde (HNO)
+
+
+        •   Gynäkologie
+
+
+        •   Dermatologie
+
+
+        •   Neurologie
+
+
+
+        Erfüllung der Voraussetzungen der erweiterten Notfallversorgung gemäß
+        den §§ 13 bis 17 der Bekanntmachung eines Beschlusses des Gemeinsamen
+        Bundesausschusses (G-BA) über Regelungen zu einem gestuften System von
+        Notfallstrukturen in Krankenhäusern gemäß § 136c Absatz 4 des Fünften
+        Buches Sozialgesetzbuch (SGB V) vom 19. April 2018 (BAnz AT 18.05.2018
+        B4), der durch den Beschluss vom 20. November 2020 (BAnz AT 24.12.2020
+        B2) geändert worden ist
+
 
 *    *   4
 
     *   Komplexe Gastroenterologie
+
+    *   Mindest-
+        voraus-
+        setzung
+
+    *   LG Allgemeine Chirurgie
+        LG Allgemeine Innere Medizin
+        LG Intensivmedizin
+
+    *   LG Palliativmedizin
+
+    *   Endoskopie (Gastroskopie, Koloskopie),
+        Sonographie,
+        Endosonographie,
+        CT jederzeit
+
+    *   FA Innere Medizin und Gastroenterologie
+
+    *   Drei FA, mindestens Rufbereitschaft:
+        jederzeit
+        Davon mindestens zwei FA Innere Medizin und Gastroenterologie, dritter
+        FA kann FA aus dem Gebiet Innere Medizin sein
+
+    *   Erfüllung der in § 6 PpUGV festgelegten Pflegepersonaluntergrenzen
 
 
 *    *   5
 
     *   Komplexe Nephrologie
 
+    *   Mindest-
+        voraus-
+        setzung
+
+    *   LG Allgemeine Chirurgie
+        LG Allgemeine Innere Medizin
+        LG Intensivmedizin
+
+    *
+    *   Doppler- oder Duplex-Sonographie
+
+    *   FA Innere Medizin und Nephrologie
+
+    *   Drei FA, mindestens Rufbereitschaft:
+        jederzeit
+        Davon mindestens zwei FA Innere Medizin und Nephrologie, dritter FA
+        kann FA aus dem Gebiet Innere Medizin sein
+
+    *   Erfüllung der in § 6 PpUGV festgelegten Pflegepersonaluntergrenzen
+
 
 *    *   6
 
     *   Komplexe Pneumologie
+
+    *   Mindest-
+        voraus-
+        setzung
+
+    *   LG Allgemeine Innere Medizin
+        LG Intensivmedizin
+
+    *   LG Palliativmedizin
+        Mindestens eine der folgenden LG:
+        LG Stammzelltransplantation oder LG Leukämie und Lymphome
+
+    *   Röntgen,
+        CT,
+        Bronchoskopie jederzeit,
+        Spirometrie,
+        Bodyplethysmographie
+
+    *   FA Innere Medizin und Pneumologie
+
+    *   Drei FA, mindestens Rufbereitschaft:
+        jederzeit
+        Davon mindestens zwei FA Innere Medizin und Pneumologie, dritter FA
+        kann FA aus dem Gebiet Innere Medizin sein
+
+    *   Erfüllung der in § 6 PpUGV festgelegten Pflegepersonaluntergrenzen
 
 
 *    *   7
 
     *   Komplexe Rheumatologie
 
+    *   Mindest-
+        voraus-
+        setzung
+
+    *   LG Allgemeine Innere Medizin
+        oder
+        mindestens eine der folgenden LG:
+        LG Endoprothetik Hüfte oder
+        LG Endoprothetik Knie oder
+        LG Revision Hüftendoprothetik oder
+        LG Revision Knieendoprothese
+
+    *
+    *   Sonographiegerät,
+        Osteodensitometrie
+
+    *   FA Innere Medizin und Rheumatologie
+        FA Orthopädie und Unfallchirurgie mit ZW Orthopädische Rheumatologie
+
+    *   Drei FA, mindestens Rufbereitschaft:
+        jederzeit
+
+    *   Erfüllung der in § 6 PpUGV festgelegten Pflegepersonaluntergrenzen
+
 
 *    *   8
 
     *   Stammzelltransplantation
 
+    *   Mindest-
+        voraus-
+        setzung
+
+    *   LG Allgemeine Chirurgie
+        LG Allgemeine Innere Medizin
+        LG Intensivmedizin, Qualitätsanforderung Hochkomplex
+
+    *   LG Augenheilkunde
+        LG HNO
+        LG Komplexe Gastroenterologie
+        LG Palliativmedizin
+
+    *   CT jederzeit oder MRT jederzeit,
+        Zentrales Monitoring von EKG, Blutdruck und Sauerstoffsättigung auf
+        der Station,
+        Nichtinvasive Beatmung einschließlich High-Flow-Nasenkanüle (HFNC)
+        Sofern allogene Stammzelltransplantationen durchgeführt werden:
+        Einzelzimmer mit eigener Schleuse und kontinuierlichem Überdruck und
+        gefilterter Luftzufuhr
+
+    *   FA Innere Medizin und Hämatologie und Onkologie
+
+    *   Drei FA, mindestens Rufbereitschaft:
+        jederzeit
+
+    *
+
+*    *   Auswahl-
+        kriterium
+
+    *   LG Allgemeine Kinder- und Jugendmedizin
+        LG Haut- und Geschlechtskrankheiten
+        LG Kinder-Hämatologie und -Onkologie – Stammzelltransplantation
+        LG Komplexe Nephrologie
+        LG Komplexe Pneumologie
+
+    *
+    *
+    *   FA Transfusionsmedizin
+
+    *
+    *
 
 *    *   9
 
     *   Leukämie und Lymphome
 
+    *   Mindest-
+        voraus-
+        setzung
+
+    *   LG Allgemeine Chirurgie
+        LG Allgemeine Innere Medizin
+        LG Intensivmedizin, Qualitätsanforderung Komplex
+
+    *   LG Palliativmedizin
+        LG Stammzelltransplantation
+
+    *   CT jederzeit oder MRT jederzeit
+
+    *   FA aus dem Gebiet Innere Medizin
+        FA Innere Medizin und Hämatologie und Onkologie
+
+    *   Drei FA aus dem Gebiet Innere Medizin, mindestens Rufbereitschaft:
+        jederzeit
+        Davon mindestens zwei FA Innere Medizin und Hämatologie und Onkologie
+
+    *
+
+*    *   Auswahl-
+        kriterium
+
+    *   LG Kinder-Hämatologie und -Onkologie – Leukämie und Lymphome
+        LG Komplexe Gastroenterologie
+        LG Stammzelltransplantation
+
+    *
+    *
+    *   FA Kinder- und Jugendmedizin mit Schwerpunkt (SP) Kinder- und Jugend-
+        Hämatologie und -Onkologie
+
+    *
+    *
 
 *    *   10
 
     *   EPU/Ablation
 
+    *   Mindest-
+        voraus-
+        setzung
+
+    *   LG Allgemeine Innere Medizin
+        LG Intensivmedizin, Qualitätsanforderung Komplex
+
+    *   LG Interventionelle Kardiologie
+        LG Kardiale Devices
+        Mindestens eine der folgenden LG:
+        LG Herzchirurgie oder LG Herzchirurgie – Kinder und Jugendliche
+
+    *   CT jederzeit,
+        12-Kanal-EKG-
+        Gerät,
+        Echokardiographie,
+        Transösophageale Echokardiographie (TEE)
+
+    *   FA Innere Medizin und Kardiologie
+
+    *   Drei FA, mindestens Rufbereitschaft:
+        jederzeit
+
+    *   Erfüllung der in § 6 PpUGV festgelegten Pflegepersonaluntergrenzen
+
+
+*    *   Auswahl-
+        kriterium
+
+    *   LG Kardiale Devices
+        Mindestens eine der folgenden LG:
+        LG Bauchaortenaneurysma oder
+        LG Carotis operativ/interventionell oder
+        LG Komplexe periphere arterielle Gefäße
+        Mindestens eine der folgenden LG:
+        LG Herzchirurgie oder LG Herzchirurgie – Kinder und Jugendliche
+
+    *
+    *   Kardio-MRT
+
+    *
+    *
+    *
 
 *    *   11
 
     *   Interventionelle Kardiologie
+
+    *   Mindest-
+        voraus-
+        setzung
+
+    *   LG Allgemeine Innere Medizin
+        LG Intensivmedizin, Qualitätsanforderung Komplex
+
+    *   LG Kardiale Devices
+        Mindestens eine der folgenden LG:
+        LG Herzchirurgie oder LG Herzchirurgie – Kinder und Jugendliche
+
+    *   Katheterlabor,
+        Röntgen,
+        CT jederzeit,
+        12-Kanal-EKG-
+        Gerät,
+        Echokardiographie,
+        TEE
+
+    *   FA Innere Medizin und Kardiologie
+
+    *   Fünf FA, mindestens Rufbereitschaft:
+        jederzeit
+
+    *   Erfüllung der in § 6 PpUGV festgelegten Pflegepersonaluntergrenzen
+
+
+*    *   Auswahl-
+        kriterium
+
+    *   LG EPU/Ablation
+        LG Kardiale Devices
+        Mindestens eine der folgenden LG:
+        LG Bauchaortenaneurysma oder
+        LG Carotis operativ/interventionell oder
+        LG Komplexe periphere arterielle Gefäße
+        Mindestens eine der folgenden LG:
+        LG Herzchirurgie oder LG Herzchirurgie – Kinder und Jugendliche
+
+    *
+    *   Kardio-MRT
+
+    *
+    *
+    *   Erfüllung der Voraussetzungen gemäß § 28 Nummer 1 bis 6 oder Erfüllung
+        der Voraussetzungen der erweiterten Notfallversorgung gemäß den §§ 13
+        bis 17
+        oder Erfüllung der Voraussetzungen der umfassenden Notfallversorgung
+        gemäß den §§ 18 bis 22,
+        jeweils bezogen auf die Bekanntmachung eines Beschlusses des G-BA über
+        Regelungen zu einem gestuften System von Notfallstrukturen in
+        Krankenhäusern gemäß § 136c Absatz 4 SGB V vom 19. April 2018 (BAnz AT
+        18\.05.2018 B4), der durch Beschluss vom 20. November 2020 (BAnz AT
+        24\.12.2020 B2) geändert wurde
 
 
 *    *   12
 
     *   Kardiale Devices
 
+    *   Mindest-
+        voraus-
+        setzung
+
+    *   LG Allgemeine Innere Medizin
+        LG Intensivmedizin, Qualitätsanforderung Komplex
+
+    *   LG EPU/Ablation
+        LG Interventionelle Kardiologie
+        Mindestens eine der folgenden LG:
+        LG Herzchirurgie oder LG Herzchirurgie – Kinder und Jugendliche
+
+    *   CT jederzeit,
+        12-Kanal-EKG-
+        Gerät,
+        Echokardiographie,
+        TEE
+
+    *   FA Innere Medizin und Kardiologie
+
+    *   Drei FA, mindestens Rufbereitschaft:
+        jederzeit
+
+    *   Erfüllung der in § 6 PpUGV festgelegten Pflegepersonaluntergrenzen
+
+
+*    *   Auswahl-
+        kriterium
+
+    *   LG EPU/Ablation
+        Mindestens eine der folgenden LG:
+        LG Bauchaortenaneurysma oder
+        LG Carotis operativ/interventionell oder
+        LG Komplexe periphere arterielle Gefäße
+        Mindestens eine der folgenden LG:
+        LG Herzchirurgie oder LG Herzchirurgie – Kinder und Jugendliche
+
+    *
+    *   Kardio-MRT
+
+    *
+    *
+    *
 
 *    *   13
 
     *   Minimalinvasive Herzklappenintervention
 
+    *   Mindest-
+        voraus-
+        setzung
 
-*    *   Chirurgische Leistungsgruppen
+    *   LG Allgemeine Innere Medizin
+        LG Intensivmedizin, Qualitätsanforderung Hochkomplex
+        LG Interventionelle Kardiologie
+        Mindestens eine der folgenden LG:
+        LG Herzchirurgie oder LG Herzchirurgie – Kinder und Jugendliche
 
+    *   LG Allgemeine Chirurgie
+        LG EPU/Ablation
+
+    *   Katheterlabor und herzchirurgischer Operationssaal (OP) oder Hybrid-OP
+
+    *   FA Herzchirurgie
+
+    *   Drei FA, mindestens Rufbereitschaft:
+        jederzeit
+
+    *   Erfüllung der in § 6 PpUGV festgelegten Pflegepersonaluntergrenzen
+
+
+*    *   Auswahl-
+        kriterium
+
+    *   LG Allgemeine Chirurgie
+
+    *
+    *
+    *
+    *
+    *
 
 *    *   14
 
     *   Allgemeine Chirurgie
 
+    *   Mindest-
+        voraus-
+        setzung
+
+    *   LG Intensivmedizin
+
+    *   LG Allgemeine Innere Medizin
+
+    *   Röntgen,
+        EKG,
+        Sonographiegerät,
+        Basislabor jederzeit,
+        CT jederzeit
+        mindestens in Kooperation,
+        Möglichkeit zur Anforderung und Transfusion von
+        Erythrozytenkonzentraten und Thrombozytenkonzentraten jederzeit
+        mindestens in Kooperation,
+        mindestens zwei
+        Operationssäle
+
+    *   FA Allgemeinchirurgie
+        FA Orthopädie und Unfallchirurgie
+        FA Viszeralchirurgie
+
+    *   Drei FA, mindestens Rufbereitschaft:
+        jederzeit
+        Davon mindestens ein FA Allgemeinchirurgie oder Viszeralchirurgie
+        sowie mindestens ein FA für Orthopädie und Unfallchirurgie
+
+    *   Erfüllung der in § 6 PpUGV festgelegten Pflegepersonaluntergrenzen
+
+
+*    *   Auswahl-
+        kriterium
+
+    *   LG Geriatrie
+
+    *
+    *
+    *
+    *
+    *
 
 *    *   15
 
-    *   Kinder- und Jugendchirurgie
+    *   Kinder- und
+        Jugendchirurgie
+
+    *   Mindest-
+        voraus-
+        setzung
+
+    *   LG Allgemeine Kinder- und Jugendmedizin
+        LG Intensivmedizin
+
+    *
+    *   CT jederzeit oder MRT jederzeit mindestens in Kooperation,
+        Sonographie
+
+    *   FA Kinder- und Jugendchirurgie
+
+    *   Drei FA, mindestens Rufbereitschaft:
+        jederzeit
+
+    *   Erfüllung der in § 6 PpUGV festgelegten Pflegepersonaluntergrenzen
 
 
 *    *   16
 
-    *   Spezielle Kinder- und Jugendchirurgie
+    *   Spezielle Kinder- und
+        Jugendchirurgie
+
+    *   Mindest-
+        voraus-
+        setzung
+
+    *   LG Kinder- und Jugendchirurgie
+
+    *
+    *   CT jederzeit,
+        MRT jederzeit mindestens in Kooperation,
+        Sonographie
+
+    *   FA Kinder- und Jugendchirurgie
+        Sofern orthopädische Leistungen erbracht werden:
+        FA Kinder- und Jugendchirurgie mit Zusatz zur Weiterbildung (ZW)
+        Kinder- und Jugend-Orthopädie
+
+    *   Fünf FA, mindestens Rufbereitschaft:
+        jederzeit
+        Sofern orthopädische Leistungen erbracht werden:
+        mindestens zwei FA mit ZW Kinder- und Jugend-Orthopädie
+
+    *   Kinderradiologie in Kooperation
+        Kinderschutzstrukturen
+        Kinderanästhesiologische Kompetenz
+        Erfüllung der in § 6 PpUGV festgelegten Pflegepersonaluntergrenzen
 
 
 *    *   17
 
     *   Plastische und Rekonstruktive Chirurgie
 
+    *   Mindest-
+        voraus-
+        setzung
+
+    *   LG Intensivmedizin
+        Für Krankenhäuser, die nicht von der für die Krankenhausplanung
+        zuständigen Landesbehörde gemäß § 135d Absatz 4 Satz 3 der
+        Versorgungsstufe „Level F“ zugeordnet wurden:
+        LG Allgemeine Chirurgie
+        LG Allgemeine Innere Medizin
+
+    *   Für Fachkrankenhäuser, die von der für die Krankenhausplanung
+        zuständigen Landesbehörde gemäß § 135d Absatz 4 Satz 3 der
+        Versorgungsstufe „Level F“ zugeordnet wurden:
+        LG Allgemeine Chirurgie
+        LG Allgemeine Innere Medizin
+
+    *
+    *   FA Plastische, Rekonstruktive und Ästhetische Chirurgie
+
+    *   Drei FA, mindestens Rufbereitschaft:
+        jederzeit
+        Davon mindestens zwei FA Plastische, Rekonstruktive und Ästhetische
+        Chirurgie, dritter FA kann FA aus dem Gebiet Chirurgie sein
+
+    *   Erfüllung der in § 6 PpUGV festgelegten Pflegepersonaluntergrenzen
+
+
+*    *   Auswahl-
+        kriterium
+
+    *   Für Fachkrankenhäuser, die von der für die Krankenhausplanung
+        zuständigen Landesbehörde gemäß § 135d Absatz 4 Satz 3 der
+        Versorgungsstufe „Level F“ zugeordnet wurden:
+        LG Allgemeine Chirurgie
+        LG Allgemeine Innere Medizin
+
+    *
+    *
+    *
+    *
+    *
 
 *    *   18
 
     *   Bauchaortenaneurysma
 
+    *   Mindest-
+        voraus-
+        setzung
+
+    *   LG Intensivmedizin, Qualitätsanforderung Komplex
+        LG Komplexe periphere arterielle Gefäße
+
+    *
+    *
+    *   FA Gefäßchirurgie
+
+    *   Drei FA, mindestens Rufbereitschaft:
+        jederzeit
+
+    *   Erfüllung der Anforderungen gemäß den §§ 4 und 5 der Bekanntmachung
+        eines Beschlusses des G-BA über eine Qualitätssicherungs-Richtlinie
+        zum Bauchaortenaneurysma vom 13. März 2008 (BAnz Nr. 71, S. 1706), die
+        zuletzt durch den Beschluss vom 6. Dezember 2023 (BAnz AT 29.01.2024
+        B4) geändert worden ist
+
+
+*    *   Auswahl-
+        kriterium
+
+    *
+    *
+    *
+    *   FA Innere Medizin und Angiologie
+
+    *
+    *
 
 *    *   19
 
     *   Carotis operativ/interventionell
 
+    *   Mindest-
+        voraus-
+        setzung
+
+    *   LG Allgemeine Chirurgie
+        LG Allgemeine Innere Medizin
+        LG Intensivmedizin, Qualitätsanforderung Komplex
+        LG Komplexe periphere arterielle Gefäße
+
+    *   LG Neurochirurgie
+        Mindestens eine der folgenden LG:
+        LG EPU/Ablation oder LG Interventionelle Kardiologie oder
+        LG Neuro-Frühreha (Neurologisch-Neurochirurgische Frührehabilitation
+        (NNF), Phase B)
+        Mindestens eine der folgenden LG:
+        LG Allgemeine Neurologie oder
+        LG Stroke Unit oder
+        LG Neuro-Frühreha (NNF, Phase B)
+
+    *   Röntgen jederzeit,
+        Teleradiologischer Befund möglich,
+        CT jederzeit,
+        MRT,
+        Digitale Substraktionsangiographie (DSA),
+        Periphere Dopplersonographie,
+        Duplexsonographie,
+        Funktionelle Gefäßdiagnostik
+
+    *   FA Gefäßchirurgie
+
+    *   Drei FA, mindestens Rufbereitschaft:
+        jederzeit
+
+    *
+
+*    *   Auswahl-
+        kriterium
+
+    *   LG Neurochirurgie
+        Mindestens eine der folgenden LG:
+        LG EPU/Ablation oder LG Interventionelle Kardiologie
+        Mindestens eine der folgenden LG:
+        LG Allgemeine Neurologie oder
+        LG Stroke Unit oder
+        LG Neuro-Frühreha (NNF, Phase B)
+
+    *
+    *   Hybrid-OP
+
+    *   FA Innere Medizin und Angiologie
+
+    *
+    *
 
 *    *   20
 
-    *   Komplexe periphere arterielle Gefäße
+    *   Komplexe
+        periphere arterielle Gefäße
 
+    *   Mindest-
+        voraus-
+        setzung
+
+    *   LG Allgemeine Chirurgie
+        LG Allgemeine Innere Medizin
+        LG Intensivmedizin
+
+    *   LG Komplexe Nephrologie
+        Mindestens eine der folgenden LG:
+        LG EPU/Ablation oder LG Interventionelle Kardiologie oder LG Neuro-
+        Frühreha (NNF, Phase B)
+
+    *   Röntgen jederzeit,
+        Teleradiologischer Befund möglich,
+        CT jederzeit,
+        MRT,
+        DSA,
+        Periphere Dopplersonographie,
+        Duplexsonographie,
+        Funktionelle Gefäßdiagnostik
+
+    *   FA Gefäßchirurgie
+        FA Allgemeinchirurgie
+        FA Herzchirurgie
+        FA Thoraxchirurgie
+
+    *   Drei FA, mindestens Rufbereitschaft:
+        jederzeit
+        Davon mindestens zwei FA Gefäßchirurgie
+
+    *
+
+*    *   Auswahl-
+        kriterium
+
+    *   LG Komplexe Nephrologie
+        Mindestens eine der folgenden LG:
+        LG EPU/Ablation oder LG Interventionelle Kardiologie
+        Mindestens eine der folgenden LG:
+        LG Allgemeine Neurologie oder
+        LG Stroke Unit oder
+        LG Neuro-Frühreha (NNF, Phase B)
+
+    *
+    *
+    *   FA Innere Medizin und Angiologie
+
+    *
+    *
 
 *    *   21
 
     *   Herzchirurgie
 
+    *   Mindest-
+        voraus-
+        setzung
+
+    *   LG Allgemeine Innere Medizin
+        LG Intensivmedizin, Qualitätsanforderung Hochkomplex
+        LG Interventionelle Kardiologie
+
+    *   LG Allgemeine Chirurgie
+
+    *   Katheterlabor,
+        Echokardiographie,
+        EKG,
+        Doppler- oder Duplex-Sonographie,
+        DSA,
+        Röntgen,
+        CT jederzeit,
+        Teleradiologischer Befund möglich,
+        Herz-Lungen-Maschine
+
+    *   FA Herzchirurgie
+
+    *   Fünf FA, mindestens Rufbereitschaft:
+        jederzeit
+
+    *   Erfüllung der in § 6 PpUGV festgelegten Pflegepersonaluntergrenzen
+
+
+*    *   Auswahl-
+        kriterium
+
+    *   LG Herztransplantation
+        Mindestens eine der folgenden LG:
+        LG Bauchaortenaneurysma oder
+        LG Carotis operativ/interventionell oder
+        LG Komplexe periphere arterielle Gefäße
+
+    *
+    *   Hybrid-OP
+        Extrakorporale Membranoxygenierung (ECMO)
+
+    *
+    *
+    *
 
 *    *   22
 
-    *   Herzchirurgie – Kinder und Jugendliche
+    *   Herzchirurgie – Kinder und
+        Jugendliche
+
+    *   Mindest-
+        voraus-
+        setzung
+
+    *
+    *
+    *
+    *
+    *
+    *   Erfüllung der Anforderungen gemäß den §§ 4 und 5 und der Vorgaben
+        gemäß § 6 der Bekanntmachung eines Beschlusses des G-BA über eine
+        Richtlinie über Maßnahmen zur Qualitätssicherung der herzchirurgischen
+        Versorgung bei Kindern und Jugendlichen gemäß § 137 Absatz 1 Nummer 2
+        SGB V vom 18. Februar 2010 (BAnz Nr. 89a – Beilage vom 16.06.2010),
+        der durch Beschluss vom 21. Dezember 2023 (BAnz AT 15.02.2024 B5)
+        geändert wurde
+        Erfüllung der in § 6 PpUGV festgelegten Pflegepersonaluntergrenzen
 
 
 *    *   23
 
     *   Endoprothetik Hüfte
 
+    *   Mindest-
+        voraus-
+        setzung
+
+    *   LG Intensivmedizin
+        Für Krankenhäuser, die nicht von der für die Krankenhausplanung
+        zuständigen Landesbehörde gemäß § 135d Absatz 4 Satz 3 der
+        Versorgungsstufe „Level F“ zugeordnet wurden:
+        LG Allgemeine Chirurgie
+        LG Allgemeine Innere Medizin
+
+    *   Für Fachkrankenhäuser, die von der für die Krankenhausplanung
+        zuständigen Landesbehörde gemäß § 135d Absatz 4 Satz 3 der
+        Versorgungsstufe „Level F“ zugeordnet wurden:
+        LG Allgemeine Chirurgie
+        LG Allgemeine Innere Medizin
+
+    *   Röntgen jederzeit,
+        Teleradiologischer Befund möglich
+
+    *   FA Orthopädie und Unfallchirurgie
+
+    *   Drei FA, mindestens Rufbereitschaft:
+        jederzeit
+
+    *   Erfüllung der in § 6 PpUGV festgelegten Pflegepersonaluntergrenzen
+
+
+*    *   Auswahl-
+        kriterium
+
+    *   LG Endoprothetik Knie
+        LG Geriatrie
+        LG Revision Hüftendoprothese
+        Für Fachkrankenhäuser, die von der für die Krankenhausplanung
+        zuständigen Landesbehörde gemäß § 135d Absatz 4 Satz 3 der
+        Versorgungsstufe „Level F“ zugeordnet wurden:
+        LG Allgemeine Chirurgie
+        LG Allgemeine Innere Medizin
+
+    *
+    *   CT jederzeit,
+        MRT
+
+    *   ZW Spezielle Orthopädische Chirurgie
+        ZW Spezielle Unfallchirurgie
+
+    *
+    *
 
 *    *   24
 
     *   Endoprothetik Knie
 
+    *   Mindest-
+        voraus-
+        setzung
+
+    *   LG Intensivmedizin
+        Für Krankenhäuser, die nicht von der für die Krankenhausplanung
+        zuständigen Landesbehörde gemäß § 135d Absatz 4 Satz 3 der
+        Versorgungsstufe „Level F“ zugeordnet wurden:
+        LG Allgemeine Chirurgie
+        LG Allgemeine Innere Medizin
+
+    *   Für Fachkrankenhäuser, die von der für die Krankenhausplanung
+        zuständigen Landesbehörde gemäß § 135d Absatz 4 Satz 3 der
+        Versorgungsstufe „Level F“ zugeordnet wurden:
+        LG Allgemeine Chirurgie
+        LG Allgemeine Innere Medizin
+
+    *   Röntgen jederzeit,
+        Teleradiologischer Befund möglich
+
+    *   FA Orthopädie und Unfallchirurgie
+
+    *   Drei FA, mindestens Rufbereitschaft:
+        jederzeit
+
+    *   Erfüllung der in § 6 PpUGV festgelegten Pflegepersonaluntergrenzen
+
+
+*    *   Auswahl-
+        kriterium
+
+    *   LG Endoprothetik Hüfte
+        LG Geriatrie
+        LG Revision Knieendoprothese
+        Für Fachkrankenhäuser, die von der für die Krankenhausplanung
+        zuständigen Landesbehörde gemäß § 135d Absatz 4 Satz 3 der
+        Versorgungsstufe „Level F“ zugeordnet wurden:
+        LG Allgemeine Chirurgie
+        LG Allgemeine Innere Medizin
+
+    *
+    *   CT jederzeit,
+        MRT
+
+    *   ZW Spezielle Orthopädische Chirurgie oder
+        ZW Spezielle Unfallchirurgie
+
+    *
+    *
 
 *    *   25
 
     *   Revision Hüftendoprothese
 
+    *   Mindest-
+        voraus-
+        setzung
+
+    *   LG Endoprothetik Hüfte
+        LG Intensivmedizin
+        Für Krankenhäuser, die nicht von der für die Krankenhausplanung
+        zuständigen Landesbehörde gemäß § 135d Absatz 4 Satz 3 der
+        Versorgungsstufe „Level F“ zugeordnet wurden:
+        LG Allgemeine Chirurgie
+        LG Allgemeine Innere Medizin
+
+    *   Für Fachkrankenhäuser, die von der für die Krankenhausplanung
+        zuständigen Landesbehörde gemäß § 135d Absatz 4 Satz 3 der
+        Versorgungsstufe „Level F“ zugeordnet wurden:
+        LG Allgemeine Chirurgie
+        LG Allgemeine Innere Medizin
+
+    *   Röntgen jederzeit,
+        Teleradiologischer Befund möglich
+
+    *   FA Orthopädie und Unfallchirurgie
+        ZW Spezielle Orthopädische Chirurgie
+
+    *   Drei FA, mindestens Rufbereitschaft:
+        jederzeit
+        Davon mindestens ein FA mit ZW Spezielle Orthopädische Chirurgie
+
+    *   Erfüllung der in § 6 PpUGV festgelegten Pflegepersonaluntergrenzen
+
+
+*    *   Auswahl-
+        kriterium
+
+    *   LG Geriatrie
+        Für Fachkrankenhäuser, die von der für die Krankenhausplanung
+        zuständigen Landesbehörde gemäß § 135d Absatz 4 Satz 3 der
+        Versorgungsstufe „Level F“ zugeordnet wurden:
+        LG Allgemeine Chirurgie
+        LG Allgemeine Innere Medizin
+
+    *
+    *   CT jederzeit,
+        MRT
+
+    *
+    *
+    *
 
 *    *   26
 
     *   Revision Knieendoprothese
 
+    *   Mindest-
+        voraus-
+        setzung
+
+    *   LG Endoprothetik Knie
+        LG Intensivmedizin
+        Für Krankenhäuser, die nicht von der für die Krankenhausplanung
+        zuständigen Landesbehörde gemäß § 135d Absatz 4 Satz 3 der
+        Versorgungsstufe „Level F“ zugeordnet wurden:
+        LG Allgemeine Chirurgie
+        LG Allgemeine Innere Medizin
+
+    *   Für Fachkrankenhäuser, die von der für die Krankenhausplanung
+        zuständigen Landesbehörde gemäß § 135d Absatz 4 Satz 3 der
+        Versorgungsstufe „Level F“ zugeordnet wurden:
+        LG Allgemeine Chirurgie
+        LG Allgemeine Innere Medizin
+
+    *   Röntgen jederzeit,
+        Teleradiologischer Befund möglich
+
+    *   FA Orthopädie und Unfallchirurgie
+        ZW Spezielle Orthopädische Chirurgie
+
+    *   Drei FA, mindestens Rufbereitschaft:
+        jederzeit
+        Davon mindestens ein FA mit ZW Spezielle Orthopädische Chirurgie
+
+    *   Erfüllung der in § 6 PpUGV festgelegten Pflegepersonaluntergrenzen
+
+
+*    *   Auswahl-
+        kriterium
+
+    *   LG Geriatrie
+        Für Fachkrankenhäuser, die von der für die Krankenhausplanung
+        zuständigen Landesbehörde gemäß § 135d Absatz 4 Satz 3 der
+        Versorgungsstufe „Level F“ zugeordnet wurden:
+        LG Allgemeine Chirurgie
+        LG Allgemeine Innere Medizin
+
+    *
+    *   CT jederzeit,
+        MRT
+
+    *
+    *
+    *
 
 *    *   27
 
     *   Spezielle Traumatologie
 
+    *   Mindest-
+        voraus-
+        setzung
+
+    *   LG Allgemeine Chirurgie
+        LG Intensivmedizin
+        LG Notfallmedizin
+        LG Allgemeine Innere Medizin
+
+    *   LG Neurochirurgie
+        LG Komplexe periphere arterielle Gefäße
+        LG Allgemeine Kinder- und Jugendmedizin
+
+    *   CT jederzeit,
+        Röntgen jederzeit,
+        Sonographie,
+        Basislabor,
+        Blutdepot,
+        mindestens zwei Operationssäle,
+        Intensivstation mit mindestens sechs Betten,
+        MRT jederzeit,
+        Schockraum,
+        Angiographiearbeitsplatz,
+        Teleradiologische Anbindung zum Standort mit LG Neurochirurgie, falls
+        diese in Kooperation erbracht wird,
+        Hubschrauberlandeplatz oder Public-Interest-Site-(PIS-)Landestelle
+
+    *   FA Orthopädie und Unfallchirurgie
+        FA Orthopädie und Unfallchirurgie mit ZW Spezielle Unfallchirurgie
+
+    *   Fünf FA, mindestens Rufbereitschaft:
+        jederzeit
+        Davon mindestens drei FA mit ZW Spezielle Unfallchirurgie
+
+    *   Erfüllung der Voraussetzungen der erweiterten Notfallversorgung gemäß
+        den §§ 13 bis 17 der Bekanntmachung eines Beschlusses des G-BA über
+        Regelungen zu einem gestuften System von Notfallstrukturen in
+        Krankenhäusern gemäß § 136c Absatz 4 SGB V vom 19. April 2018 (BAnz AT
+        18\.05.2018 B4), der durch Beschluss vom 20. November 2020 (BAnz AT
+        24\.12.2020 B2) geändert worden ist
+        Erfüllung der Anforderungen der gesetzlichen Unfallversicherungsträger
+        nach § 34 des Siebten Buches Sozialgesetzbuch (SGB VII) an
+        Krankenhäuser zur Beteiligung am Verletzungsartenverfahren (VAV) in
+        der Fassung vom 1. Januar 2013, welche auf Grundlage von § 34 Absatz 2
+        und 3 SGB VII von der Deutschen Gesetzlichen Unfallversicherung e. V.
+        und der Sozialversicherung für Landwirtschaft, Forsten und Gartenbau
+        festgelegt worden sind. Die Anforderungen sind abrufbar auf der
+        Internetseite der Landesverbände der Deutschen Gesetzlichen
+        Unfallversicherung (www.dguv.de/landesverbaende) unter der Rubrik
+        „Medizinische Rehabilitation“ in der Unterrubrik
+        „Verletzungsartenverfahren“.
+        Erfüllung der Anforderungen an die personelle Ausstattung und der
+        räumlichen Anforderungen für Regionales Traumazentrum (RTZ) oder
+        Überregionales Traumazentrum (ÜTZ) nach dem „Weißbuch
+        Schwerverletztenversorgung – Empfehlungen zur Struktur, Organisation,
+        Ausstattung sowie Förderung von Qualität und Sicherheit in der
+        Schwerverletztenversorgung in der Bundesrepublik Deutschland“;
+        Herausgeber: Deutsche Gesellschaft für Unfallchirurgie e. V., 3.
+        erweiterte Auflage 2019, Seiten 16 bis 17 und Seiten 18 bis 20.
+
+
+*    *
+    *
+    *   Auswahl-
+        kriterium
+
+    *   LG Geriatrie
+        LG Wirbelsäuleneingriffe
+        LG Endoprothetik Hüfte
+        LG Endoprothetik Knie
+
+    *   LG Urologie
+        LG Plastische und Rekonstruktive Chirurgie
+        LG Thoraxchirurgie
+        LG HNO
+        LG Herzchirurgie
+        LG Mund-Kiefer-Gesichtschirurgie (MKG)
+
+    *
+    *   FA Neurochirurgie
+
+    *   Drei FA, mindestens Rufbereitschaft:
+        jederzeit
+
+    *
 
 *    *   28
 
     *   Wirbelsäuleneingriffe
 
+    *   Mindest-
+        voraus-
+        setzung
+
+    *   LG Intensivmedizin
+        Für Krankenhäuser, die nicht von der für die Krankenhausplanung
+        zuständigen Landesbehörde gemäß § 135d Absatz 4 Satz 3 der
+        Versorgungsstufe „Level F“ zugeordnet wurden:
+        LG Allgemeine Chirurgie
+        LG Allgemeine Innere Medizin
+
+    *   Für Fachkrankenhäuser, die von der für die Krankenhausplanung
+        zuständigen Landesbehörde gemäß § 135d Absatz 4 Satz 3 der
+        Versorgungsstufe „Level F“ zugeordnet wurden:
+        LG Allgemeine Chirurgie
+        LG Allgemeine Innere Medizin
+
+    *   Röntgen jederzeit,
+        Teleradiologischer Befund möglich
+
+    *   FA Orthopädie und Unfallchirurgie
+        FA Neurochirurgie
+
+    *   Drei FA, mindestens Rufbereitschaft:
+        jederzeit
+
+    *   Erfüllung der in § 6 PpUGV festgelegten Pflegepersonaluntergrenzen
+
+
+*    *   Auswahl-
+        kriterium
+
+    *   Für Fachkrankenhäuser, die von der für die Krankenhausplanung
+        zuständigen Landesbehörde gemäß § 135d Absatz 4 Satz 3 der
+        Versorgungsstufe „Level F“ zugeordnet wurden:
+        LG Allgemeine Chirurgie
+        LG Allgemeine Innere Medizin
+
+    *   LG Neurochirurgie
+
+    *   CT jederzeit,
+        MRT
+
+    *   ZW Spezielle Orthopädische Chirurgie
+
+    *
+    *
 
 *    *   29
 
     *   Thoraxchirurgie
 
+    *   Mindest-
+        voraus-
+        setzung
+
+    *   LG Intensivmedizin, Qualitätsanforderung Hochkomplex
+        Für Krankenhäuser, die nicht von der für die Krankenhausplanung
+        zuständigen Landesbehörde gemäß § 135d Absatz 4 Satz 3 der
+        Versorgungsstufe „Level F“ zugeordnet wurden:
+        LG Allgemeine Chirurgie
+        LG Allgemeine Innere Medizin
+
+    *   LG Komplexe Pneumologie
+        LG Palliativmedizin
+        Mindestens eine der folgenden LG:
+        LG Stammzelltransplantation oder
+        LG Leukämie und Lymphome
+        Für Fachkrankenhäuser, die von der für die Krankenhausplanung
+        zuständigen Landesbehörde gemäß § 135d Absatz 4 Satz 3 der
+        Versorgungsstufe „Level F“ zugeordnet wurden: LG Allgemeine Chirurgie
+        LG Allgemeine Innere Medizin
+
+    *   Röntgen jederzeit,
+        CT jederzeit oder MRT jederzeit,
+        Teleradiologischer Befund möglich
+
+    *   FA Thoraxchirurgie
+
+    *   Drei FA, mindestens Rufbereitschaft:
+        jederzeit
+        Sofern LG Herzchirurgie am Standort erbracht wird: abweichend
+        mindestens zwei FA Thoraxchirurgie, mindestens Rufbereitschaft:
+        jederzeit
+
+    *
+
+*    *
+    *
+    *   Auswahl-
+        kriterium
+
+    *   LG Herzchirurgie
+        LG Komplexe Pneumologie
+        LG Palliativmedizin
+        Mindestens eine der folgenden LG:
+        LG Stammzelltransplantation oder
+        LG Leukämie und Lymphome
+        Für Fachkrankenhäuser, die von der für die Krankenhausplanung
+        zuständigen Landesbehörde gemäß § 135d Absatz 4 Satz 3 der
+        Versorgungsstufe „Level F“ zugeordnet wurden:
+        LG Allgemeine Chirurgie
+        LG Allgemeine Innere Medizin
+
+    *   LG Neurochirurgie
+        Mindestens eine der folgenden LG:
+        LG Bauchaortenaneurysma oder
+        LG Carotis operativ/interventionell oder LG Komplexe periphere
+        arterielle Gefäße
+        Mindestens eine der folgenden LG:
+        LG Endoprothetik Hüfte oder
+        LG Endoprothetik Knie oder
+        LG Revision Hüftendoprothese oder
+        LG Revision Knieendoprothese
+        Mindestens eine der folgenden LG:
+        LG Bariatrische Chirurgie oder
+        LG Lebereingriffe oder
+        LG Ösophaguseingriffe oder
+        LG Pankreaseingriffe oder
+        LG Tiefe Rektumeingriffe
+
+    *
+    *   FA Radiologie
+
+    *
+    *
 
 *    *   30
 
     *   Bariatrische Chirurgie
 
+    *   Mindest-
+        voraus-
+        setzung
+
+    *   LG Allgemeine Chirurgie
+        LG Allgemeine Innere Medizin
+        LG Intensivmedizin
+
+    *   LG Komplexe Gastroenterologie
+
+    *   CT jederzeit
+        oder MRT jederzeit
+
+    *   FA Viszeralchirurgie
+
+    *   Drei FA, mindestens Rufbereitschaft:
+        jederzeit
+
+    *
+
+*    *   Auswahl-
+        kriterium
+
+    *   LG Komplexe Gastroenterologie
+
+    *
+    *   Mindestens ein OP-Tisch mit einer Tragfähigkeit von mindestens 225
+        Kilogramm
+
+    *
+    *
+    *
 
 *    *   31
 
     *   Lebereingriffe
 
+    *   Mindest-
+        voraus-
+        setzung
+
+    *   LG Allgemeine Chirurgie
+        LG Allgemeine Innere Medizin
+        LG Intensivmedizin, Qualitätsanforderung Hochkomplex
+
+    *   LG Komplexe Gastroenterologie
+        Mindestens eine der folgenden LG:
+        LG Stammzelltransplantation oder
+        LG Leukämie und Lymphome
+
+    *   Röntgen jederzeit,
+        CT jederzeit oder MRT jederzeit,
+        Teleradiologischer Befund möglich
+
+    *   FA Viszeralchirurgie
+        ZW Spezielle Viszeralchirurgie
+
+    *   Drei FA, mindestens Rufbereitschaft:
+        jederzeit
+        Davon mindestens ein FA mit ZW Spezielle Viszeralchirurgie
+
+    *
+
+*    *   Auswahl-
+        kriterium
+
+    *   LG Lebertransplantation
+        LG Palliativmedizin
+        LG Pankreaseingriffe
+        LG Komplexe Gastroenterologie
+        Mindestens eine der folgenden LG:
+        LG Stammzelltransplantation oder
+        LG Leukämie und Lymphome
+
+    *
+    *   Interventionelle Endoskopie einschließlich endoskopischer retrograder
+        Cholangiopankreatikographie (ERC/P) jederzeit,
+        interventionelle Radiologie jederzeit,
+        diagnostische Angiographie jederzeit
+
+    *
+    *
+    *
 
 *    *   32
 
     *   Ösophaguseingriffe
 
+    *   Mindest-
+        voraus-
+        setzung
+
+    *   LG Allgemeine Chirurgie
+        LG Allgemeine Innere Medizin
+        LG Intensivmedizin, Qualitätsanforderung Hochkomplex
+
+    *   Mindestens eine der folgenden LG:
+        LG Stammzelltransplantation oder
+        LG Leukämie und Lymphome
+
+    *   Röntgen jederzeit,
+        CT jederzeit oder MRT jederzeit,
+        Teleradiologischer Befund möglich,
+        interventionelle Endoskopie jederzeit
+
+    *   FA Viszeralchirurgie ZW Spezielle Viszeralchirurgie
+        FA Innere Medizin und Gastroenterologie
+
+    *   Fünf FA, mindestens Rufbereitschaft:
+        jederzeit
+        Davon drei FA Viszeralchirurgie und davon mindestens ein FA mit ZW
+        Spezielle Viszeralchirurgie,
+        Davon zwei FA Innere Medizin und Gastroenterologie
+
+    *
+
+*    *   Auswahl-
+        kriterium
+
+    *   LG Komplexe Gastroenterologie
+        LG Palliativmedizin
+        Mindestens eine der folgenden LG:
+        LG Stammzelltransplantation oder
+        LG Leukämie und Lymphome
+
+    *   LG Thoraxchirurgie
+
+    *   Diagnostische Angiographie
+
+    *
+    *
+    *
 
 *    *   33
 
     *   Pankreaseingriffe
 
+    *   Mindest-
+        voraus-
+        setzung
+
+    *   LG Allgemeine Chirurgie
+        LG Allgemeine Innere
+        LG Intensivmedizin, Qualitätsanforderung Hochkomplex
+
+    *   Mindestens eine der folgenden LG:
+        LG Stammzelltransplantation oder
+        LG Leukämie und Lymphome
+
+    *   Röntgen jederzeit,
+        CT jederzeit oder MRT jederzeit,
+        Teleradiologischer Befund möglich,
+        Interventionelle Endoskopie einschließlich ERC/P
+
+    *   FA Viszeralchirurgie
+        ZW Spezielle Viszeralchirurgie
+        FA Innere Medizin und Gastroenterologie
+
+    *   Fünf FA, mindestens Rufbereitschaft:
+        jederzeit
+        Davon mindestens drei FA mit ZW
+        spezielle Viszeralchirurgrie und zwei FA Innere Medizin und
+        Gastroenterologie
+
+    *
+
+*    *   Auswahl-
+        kriterium
+
+    *   LG Komplexe Endokrinologie und Diabetologie
+        LG Lebereingriffe
+        LG Palliativmedizin
+        Mindestens eine der folgenden LG:
+        LG Stammzelltransplantation oder
+        LG Leukämie und Lymphome
+
+    *
+    *   Interventionelle Radiologie,
+        Diagnostische Angiographie
+
+    *
+    *
+    *
 
 *    *   34
 
     *   Tiefe Rektumeingriffe
 
+    *   Mindest-
+        voraus-
+        setzung
 
-*    *   Weitere Leistungsgruppen
+    *   LG Allgemeine Chirurgie
+        LG Allgemeine Innere Medizin
+        LG Intensivmedizin, Qualitätsanforderung Komplex
 
+    *   LG Komplexe Gastroenterologie
+        Mindestens eine der folgenden LG:
+        LG Stammzelltransplantation oder
+        LG Leukämie und Lymphome
+
+    *   Röntgen jederzeit,
+        CT jederzeit oder MRT jederzeit,
+        Teleradiologischer Befund möglich
+
+    *   FA Viszeralchirurgie
+        ZW Spezielle Viszeralchirurgie
+
+    *   Drei FA, mindestens Rufbereitschaft:
+        jederzeit
+        Davon mindestens ein FA mit ZW Spezielle Viszeralchirurgie
+
+    *
+
+*    *   Auswahl-
+        kriterium
+
+    *   LG Komplexe Gastroenterologie
+        LG Palliativmedizin
+        LG Urologie
+        Mindestens eine der folgenden LG:
+        LG Stammzelltransplantation oder
+        LG Leukämie und Lymphome
+
+    *
+    *   Interventionelle Endoskopie jederzeit
+
+    *   ZW Proktologie
+
+    *
+    *
 
 *    *   35
 
     *   Augenheilkunde
 
+    *   Mindest-
+        voraus-
+        setzung
+
+    *
+    *   LG Allgemeine Chirurgie
+        LG Allgemeine Innere Medizin
+
+    *   Sonographiegerät,
+        Gonioskopie,
+        Ophtalmoskopie,
+        Fluoreszenzangiographie
+
+    *   FA Augenheilkunde
+
+    *   Drei FA, mindestens Rufbereitschaft:
+        jederzeit
+
+    *
+
+*    *   Auswahl-
+        kriterium
+
+    *   LG Allgemeine Innere Medizin
+        LG MKG
+        Mindestens eine der folgenden LG:
+        LG Allgemeine Neurologie oder
+        LG Stroke Unit oder
+        LG Neuro-Frühreha (NNF, Phase B)
+
+    *
+    *   Optische Kohärenztomographie (OCT)
+
+    *
+    *
+    *
 
 *    *   36
 
     *   Haut- und Geschlechtskrankheiten
 
+    *   Mindest-
+        voraus-
+        setzung
+
+    *   LG Intensivmedizin
+        Für Krankenhäuser, die nicht von der für die Krankenhausplanung
+        zuständigen Landesbehörde gemäß § 135d Absatz 4 Satz 3 der
+        Versorgungsstufe „Level F“ zugeordnet wurden:
+        LG Allgemeine Chirurgie
+        LG Allgemeine Innere Medizin
+
+    *   LG Allgemeine Frauenheilkunde
+        LG Urologie
+        Für Fachkrankenhäuser, die von der für die Krankenhausplanung
+        zuständigen Landesbehörde gemäß § 135d Absatz 4 Satz 3 der
+        Versorgungsstufe „Level F“ zugeordnet wurden:
+        LG Allgemeine Chirurgie
+        LG Allgemeine Innere Medizin
+
+    *   Lasertherapie,
+        Photo(chemo)therapie,
+        Balneophototherapie
+
+    *   FA Haut- und Geschlechtskrankheiten
+
+    *   Drei FA, mindestens Rufbereitschaft:
+        jederzeit
+
+    *
+
+*    *   Auswahl-
+        kriterium
+
+    *   LG Allgemeine Frauenheilkunde
+        LG Neurochirurgie
+        LG Urologie
+        Für Fachkrankenhäuser, die von der für die Krankenhausplanung
+        zuständigen Landesbehörde gemäß § 135d Absatz 4 Satz 3 der
+        Versorgungsstufe „Level F“ zugeordnet wurden:
+        LG Allgemeine Chirurgie
+        LG Allgemeine Innere Medizin
+
+    *   LG HNO
+        LG MKG
+        LG Thoraxchirurgie
+
+    *
+    *   FA Innere Medizin und Hämatologie und Onkologie
+        ZW Allergologie
+
+    *
+    *
 
 *    *   37
 
     *   MKG
 
+    *   Mindest-
+        voraus-
+        setzung
+
+    *   LG Intensivmedizin
+        Für Krankenhäuser, die nicht von der für die Krankenhausplanung
+        zuständigen Landesbehörde gemäß § 135d Absatz 4 Satz 3 der
+        Versorgungsstufe „Level F“ zugeordnet wurden:
+        LG Allgemeine Chirurgie
+        LG Allgemeine Innere Medizin
+
+    *   Für Fachkrankenhäuser, die von der für die Krankenhausplanung
+        zuständigen Landesbehörde gemäß § 135d Absatz 4 Satz 3 der
+        Versorgungsstufe „Level F“ zugeordnet wurden:
+        LG Allgemeine Chirurgie
+        LG Allgemeine Innere Medizin
+
+    *   Panendoskop,
+        B-Bild-Sonograph,
+        CT,
+        Orthopantomogramm (OPG)-Röntgengerät
+
+    *   FA Mund-Kiefer-Gesichtschirurgie
+
+    *   Drei FA, mindestens Rufbereitschaft:
+        jederzeit
+
+    *
+
+*    *   Auswahl-
+        kriterium
+
+    *   LG Neurochirurgie
+        Mindestens eine der folgenden LG:
+        LG Endoprothetik Hüfte oder
+        LG Endoprothetik Knie oder
+        LG Revision Hüftendoprothetik oder
+        LG Revision Knieendoprothese
+        Für Fachkrankenhäuser, die von der für die Krankenhausplanung
+        zuständigen Landesbehörde gemäß § 135d Absatz 4 Satz 3 der
+        Versorgungsstufe „Level F“ zugeordnet wurden:
+        LG Allgemeine Chirurgie
+        LG Allgemeine Innere Medizin
+
+    *   LG Augenheilkunde
+        LG HNO
+
+    *
+    *
+    *
+    *
 
 *    *   38
 
     *   Urologie
 
+    *   Mindest-
+        voraus-
+        setzung
+
+    *   LG Allgemeine Chirurgie
+        LG Allgemeine Innere Medizin
+        LG Intensivmedizin
+
+    *   LG Komplexe Nephrologie
+
+    *   Endoskop,
+        Laparoskop,
+        Sonographiegerät (einschließlich Doppler- oder Duplex-Sonographie)
+
+    *   FA Urologie
+
+    *   Drei FA, mindestens Rufbereitschaft:
+        jederzeit
+
+    *
+
+*    *   Auswahl-
+        kriterium
+
+    *   LG Komplexe Nephrologie
+
+    *   LG Allgemeine Frauenheilkunde
+        Mindestens eine der folgenden LG:
+        LG Stammzelltransplantation oder
+        LG Leukämie und Lymphome
+
+    *   CT,
+        MRT,
+        PET oder PET-CT,
+        Roboter-assistierte Chirurgie
+
+    *   FA Urologie mit ZW Andrologie
+
+    *
+    *
 
 *    *   39
 
     *   Allgemeine Frauenheilkunde
 
+    *   Mindest-
+        voraus-
+        setzung
+
+    *   LG Allgemeine Chirurgie
+        LG Allgemeine Innere Medizin
+        LG Intensivmedizin
+
+    *
+    *
+    *   FA Frauenheilkunde und Geburtshilfe
+
+    *   Drei FA, mindestens Rufbereitschaft:
+        jederzeit
+
+    *   Erfüllung der in § 6 PpUGV festgelegten Pflegepersonaluntergrenzen
+
+
+*    *   Auswahl-
+        kriterium
+
+    *   LG Urologie
+        Mindestens eine der folgenden LG:
+        LG Bariatrische Chirurgie oder
+        LG Lebereingriffe oder LG Ösophaguseingriffe oder
+        LG Pankreaseingriffe oder
+        LG Tiefe Rektumeingriffe
+
+    *
+    *
+    *   FA Frauenheilkunde und Geburtshilfe mit SP Gynäkologische
+        Endokrinologie und Reproduktionsmedizin
+
+    *
+    *
 
 *    *   40
 
     *   Ovarial-CA
 
+    *   Mindest-
+        voraus-
+        setzung
+
+    *   LG Allgemeine Chirurgie
+        LG Allgemeine Frauenheilkunde
+        LG Allgemeine Innere Medizin
+        LG Intensivmedizin, Qualitätsanforderung Komplex
+
+    *   LG Urologie
+
+    *
+    *   FA Frauenheilkunde und Geburtshilfe SP Gynäkologische Onkologie
+
+    *   Drei FA, mindestens Rufbereitschaft:
+        jederzeit
+        Davon mindestens ein FA mit SP Gynäkologische Onkologie
+
+    *   Erfüllung der in § 6 PpUGV festgelegten Pflegepersonaluntergrenzen
+
+
+*    *   Auswahl-
+        kriterium
+
+    *   LG Palliativmedizin
+        LG Senologie
+        LG Urologie
+        Mindestens eine der folgenden LG:
+        LG Stammzelltransplantation oder
+        LG Leukämie und Lymphome
+        Mindestens eine der folgenden LG:
+        LG Bariatrische Chirurgie oder
+        LG Lebereingriffe oder
+        LG Ösophaguseingriffe oder
+        LG Pankreaseingriffe oder
+        LG Tiefe Rektumeingriffe
+
+    *
+    *
+    *   FA Frauenheilkunde und Geburtshilfe mit SP Gynäkologische
+        Endokrinologie und Reproduktionsmedizin
+
+    *
+    *
 
 *    *   41
 
     *   Senologie
 
+    *   Mindest-
+        voraus-
+        setzung
+
+    *   LG Allgemeine Chirurgie
+        LG Allgemeine Frauenheilkunde
+        LG Allgemeine Innere Medizin
+        LG Intensivmedizin
+
+    *
+    *
+    *   FA Frauenheilkunde und Geburtshilfe
+
+    *   Drei FA, mindestens Rufbereitschaft:
+        jederzeit
+
+    *   Erfüllung der in § 6 PpUGV festgelegten Pflegepersonaluntergrenzen
+
+
+*    *   Auswahl-
+        kriterium
+
+    *   LG Ovarial-CA
+        LG Palliativmedizin
+        LG Plastische und Rekonstruktive Chirurgie
+        Mindestens eine der folgenden LG:
+        LG Stammzelltransplantation oder
+        LG Leukämie und Lymphome
+
+    *
+    *
+    *   FA Frauenheilkunde und Geburtshilfe mit SP Gynäkologische Onkologie
+        FA für Plastische, Rekonstruktive und Ästhetische Chirurgie
+
+    *
+    *
 
 *    *   42
 
     *   Geburten
 
+    *   Mindest-
+        voraus-
+        setzung
+
+    *   LG Allgemeine Chirurgie
+        LG Allgemeine Frauenheilkunde
+        LG Allgemeine Innere Medizin
+        LG Intensivmedizin
+
+    *   LG Allgemeine Kinder- und Jugendmedizin
+
+    *
+    *   FA Frauenheilkunde und Geburtshilfe
+
+    *   Drei FA, mindestens Rufbereitschaft:
+        jederzeit
+
+    *   Erfüllung der in § 6 PpUGV festgelegten Pflegepersonaluntergrenzen
+
+
+*    *   Auswahl-
+        kriterium
+
+    *   LG Allgemeine Kinder- und Jugendmedizin
+        LG Kinder- und Jugendchirurgie
+
+    *
+    *
+    *   FA Frauenheilkunde und Geburtshilfe mit SP Spezielle Geburtshilfe und
+        Perinatalmedizin
+
+    *   FA anwesend:
+        jederzeit
+
+    *
 
 *    *   43
 
     *   Perinataler Schwerpunkt
+
+    *   Mindest-
+        voraus-
+        setzung
+
+    *
+    *
+    *
+    *
+    *
+    *   Erfüllung der Anforderungen der Versorgungsstufe III gemäß Nummer III
+        der Anlage 2 der Bekanntmachung eines Beschlusses des G-BA über
+        Maßnahmen zur Qualitätssicherung der Versorgung von Früh- und
+        Neugeborenen gemäß § 136 Absatz 1 Nummer 2 SGB V in Verbindung mit §
+        92 Absatz 1 Satz 2 Nummer 13 SGB V vom 20. September 2005 (BAnz S.
+        15 684 vom 28.10.2005), der zuletzt durch den Beschluss vom 16. Mai
+        2024 (BAnz. AT 25.07.2024 B2) geändert wurde
+        Erfüllung der in § 6 PpUGV festgelegten Pflegepersonaluntergrenzen
 
 
 *    *   44
 
     *   Perinatalzentrum Level 1
 
+    *   Mindest-
+        voraus-
+        setzung
+
+    *
+    *
+    *
+    *
+    *
+    *   Erfüllung der Anforderungen der Versorgungsstufe I gemäß Nummer I der
+        Anlage 2 der Bekanntmachung eines Beschlusses des G-BA über Maßnahmen
+        zur Qualitätssicherung der Versorgung von Früh- und Neugeborenen gemäß
+        § 136 Absatz 1 Nummer 2 SGB V in Verbindung mit § 92 Absatz 1 Satz 2
+        Nummer 13 SGB V vom 20. September 2005 (BAnz S. 15 684 vom
+        28\.10.2005), der zuletzt durch den Beschluss vom 16. Mai 2024 (BAnz.
+        AT 25.07.2024 B2) geändert wurde
+        Erfüllung der in § 6 PpUGV festgelegten Pflegepersonaluntergrenzen
+
+
+*    *
+    *
+    *   Auswahl-
+        kriterium
+
+    *
+    *
+    *
+    *   FA Kinder- und Jugendmedizin mit SP Neuropädiatrie
+
+    *
+    *
 
 *    *   45
 
     *   Perinatalzentrum Level 2
 
+    *   Mindest-
+        voraus-
+        setzung
+
+    *
+    *
+    *
+    *
+    *
+    *   Erfüllung der Anforderungen der Versorgungsstufe II gemäß Nummer II
+        der Anlage 2 der Bekanntmachung eines Beschlusses des G-BA über
+        Maßnahmen zur Qualitätssicherung der Versorgung von Früh- und
+        Neugeborenen gemäß § 136 Absatz 1 Nummer 2 SGB V in Verbindung mit §
+        92 Absatz 1 Satz 2 Nummer 13 SGB V vom 20. September 2005 (BAnz S.
+        15 684 vom 16.06.2005), der zuletzt durch den Beschluss vom 16. Mai
+        2024 (BAnz. AT 25.07.2024 B2) geändert wurde
+        Erfüllung der in § 6 PpUGV festgelegten Pflegepersonaluntergrenzen
+
 
 *    *   46
 
-    *   Allgemeine Kinder- und Jugendmedizin
+    *   Allgemeine Kinder- und
+        Jugendmedizin
 
+    *   Mindest-
+        voraus-
+        setzung
+
+    *
+    *   LG Intensivmedizin
+
+    *
+    *   FA Kinder- und Jugendmedizin
+
+    *   Drei FA, mindestens Rufbereitschaft:
+        jederzeit
+
+    *   Erfüllung der in § 6 PpUGV festgelegten Pflegepersonaluntergrenzen
+
+
+*    *   Auswahl-
+        kriterium
+
+    *   LG Perinataler Schwerpunkt oder LG Perinatalzentrum Level 1 oder
+        LG Perinatalzentrum Level 2
+        LG Geburten
+        LG Intensivmedizin
+        LG Kinder- und Jugendchirurgie
+
+    *
+    *
+    *   FA Kinder- und Jugendchirurgie
+
+    *
+    *
 
 *    *   47
 
-    *   Spezielle Kinder- und Jugendmedizin
+    *   Spezielle Kinder- und
+        Jugendmedizin
 
+    *   Mindest-
+        voraus-
+        setzung
+
+    *   Erfüllung der Mindestvoraussetzungen der LG Allgemeine Kinder- und
+        Jugendmedizin
+        Zusätzlich außer in Fachkrankenhäusern, die von der für die
+        Krankenhausplanung zuständigen Landesbehörde gemäß § 135d Absatz 4
+        Satz 3 der Versorgungsstufe „Level F“ zugeordnet wurden:
+        LG Perinatalzentrum Level 2
+        LG Intensivmedizin
+
+    *
+    *
+    *   FA Kinder- und Jugendmedizin
+        FA Kinder- und Jugendmedizin mit mindestens einer ZW oder einem SP:
+        ZW Kinder- und Jugend-Endokrinologie und Diabetologie
+        ZW Kinder- und Jugend-Gastroenterologie
+        ZW Kinder- und Jugend-Nephrologie
+        ZW Kinder- und Jugend-Pneumologie
+        ZW Kinder- und Jugend-Rheumatologie
+        SP Kinder- und Jugend-Kardiologie
+        SP Kinder- und Jugend-Neuropädiatrie
+
+    *   Fünf FA, mindestens Rufbereitschaft:
+        jederzeit
+        Davon drei FA mit ZW oder SP:
+        ZW Kinder- und Jugend-Endokrinologie und Diabetologie
+        ZW Kinder- und Jugend-Gastroenterologie
+        ZW Kinder- und Jugend-Nephrologie
+        ZW Kinder- und Jugend-Pneumologie
+        ZW Kinder- und Jugend-Rheumatologie
+        SP Kinder- und Jugend-Kardiologie
+        SP Kinder- und Jugend-Neuropädiatrie
+
+    *
+
+*    *   Auswahl-
+        kriterium
+
+    *   LG Kinder- und Jugendchirurgie
+        LG Spezielle Kinder- und Jugendchirurgie
+        Mindestens eine der folgenden LG:
+        LG Perinataler Schwerpunkt oder
+        LG Perinatalzentrum Level 1 oder
+        LG Perinatalzentrum Level 2
+
+    *
+    *
+    *
+    *
+    *
 
 *    *   48
 
-    *   Kinder-Hämatologie und -Onkologie – Stammzelltransplantation
+    *   Kinder-Hämatologie und ‑Onkologie – Stammzelltransplantation
 
+    *   Mindest-
+        voraus-
+        setzung
+
+    *   LG Allgemeine Kinder- und Jugendmedizin
+        LG Intensivmedizin, Qualitätsanforderung Hochkomplex
+
+    *   LG Kinder-Hämatologie und -Onkologie – Leukämie und Lymphome
+        LG Palliativmedizin
+
+    *   CT jederzeit oder MRT jederzeit,
+        Zentrales Monitoring von EKG, Blutdruck und Sauerstoffsättigung auf
+        der Station,
+        Nichtinvasive Beatmung (einschließlich HFNC)
+        Sofern allogene Stammzelltransplantationen durchgeführt werden:
+        Einzelzimmer mit eigener Schleuse und kontinuierlichem Überdruck und
+        gefilterter Luftzufuhr
+
+    *   FA Kinder- und Jugendmedizin
+
+    *   Drei FA, mindestens Rufbereitschaft:
+        jederzeit
+
+    *   Erfüllung der in § 6 PpUGV festgelegten Pflegepersonaluntergrenzen
+        Erfüllung der Anforderungen gemäß den §§ 4 und 5 und der Vorgaben
+        gemäß § 6 der Bekanntmachung eines Beschlusses des G-BA über eine
+        Richtlinie über Maßnahmen zur Qualitätssicherung für die stationäre
+        Versorgung von Kindern und Jugendlichen mit hämato-onkologischen
+        Krankheiten gemäß § 136 Absatz 1 Satz 1 Nummer 2 SGB V für nach § 108
+        SGB V zugelassene Krankenhäuser vom 16. Mai 2006 (BAnz S. 4997 vom
+        16\.05.2006), der zuletzt durch Beschluss vom 1. November 2023 (BAnz AT
+        22\.12.2023 B1) geändert wurde
+
+
+*    *   Auswahl-
+        kriterium
+
+    *   LG Allgemeine Chirurgie
+        LG Allgemeine Innere Medizin
+        LG Kinder-Hämatologie und -Onkologie – Leukämie und Lymphome
+        LG Komplexe Pneumologie
+        LG Neurochirurgie
+        LG Palliativmedizin
+        LG Stammzelltransplantation
+
+    *   LG Kinder- und Jugendchirurgie
+        LG Leukämie und Lymphome
+
+    *   Telemedizinische Behandlung
+
+    *   FA Transfusionsmedizin
+        FA Kinder- und Jugendmedizin mit SP Kinder- und Jugend-Hämatologie und
+        -Onkologie
+        FA Innere Medizin und Hämatologie und Onkologie
+
+    *
+    *
 
 *    *   49
 
     *   Kinder-Hämatologie und -Onkologie – Leukämie und Lymphome
 
+    *   Mindest-
+        voraus-
+        setzung
+
+    *   LG Allgemeine Kinder- und Jugendmedizin
+        LG Intensivmedizin, Qualitätsanforderung Komplex
+
+    *   LG Kinder-Hämatologie und -Onkologie – Stammzelltransplantation
+        LG Palliativmedizin
+
+    *   CT jederzeit
+        oder MRT jederzeit
+
+    *   FA Kinder- und Jugendmedizin
+
+    *   Drei FA, mindestens Rufbereitschaft:
+        jederzeit
+
+    *   Erfüllung der in § 6 PpUGV festgelegten Pflegepersonaluntergrenzen
+        Erfüllung der Anforderungen gemäß den §§ 4 und 5 und der Vorgaben
+        gemäß § 6 der Bekanntmachung eines Beschlusses des G-BA über eine
+        Richtlinie über Maßnahmen zur Qualitätssicherung für die stationäre
+        Versorgung von Kindern und Jugendlichen mit hämato-onkologischen
+        Krankheiten gemäß § 136 Absatz 1 Satz 1 Nummer 2 SGB V für nach § 108
+        SGB V zugelassene Krankenhäuser vom 16. Mai 2006 (BAnz, S. 4997 vom
+        16\.05.2006), der zuletzt durch Beschluss vom 1. November 2023 (BAnz AT
+        22\.12.2023 B1) geändert wurde
+
+
+*    *   Auswahl-
+        kriterium
+
+    *   LG Allgemeine Chirurgie
+        LG Allgemeine Innere Medizin
+        LG Kinder-Hämatologie und -Onkologie – Stammzelltransplantation
+        LG Komplexe Pneumologie
+        LG Leukämie und Lymphome
+        LG Neurochirurgie
+        LG Palliativmedizin
+
+    *   LG Kinder- und Jugendchirurgie
+        LG Stammzelltransplantation
+
+    *   Telemedizinische Behandlung
+
+    *   FA Kinder- und Jugendmedizin mit SP Kinder- und Jugend-Hämatologie und
+        -Onkologie
+        FA Innere Medizin und Hämatologie und Onkologie
+
+    *
+    *
 
 *    *   50
 
     *   HNO
 
+    *   Mindest-
+        voraus-
+        setzung
+
+    *   LG Allgemeine Chirurgie
+        LG Allgemeine Innere Medizin
+        LG Intensivmedizin
+
+    *
+    *   Elektrische Reaktionsaudiometrie (ERA)
+
+    *   FA Hals-Nasen-Ohrenheilkunde
+
+    *   Drei FA, mindestens Rufbereitschaft:
+        jederzeit
+
+    *
+
+*    *   Auswahl-
+        kriterium
+
+    *   LG Allgemeine Kinder- und Jugendmedizin
+
+    *   LG MKG
+
+    *   MRT,
+        PET-CT,
+        Doppler- oder Duplex-Sonographien
+
+    *   ZW Allergologie
+
+    *
+    *
 
 *    *   51
 
     *   Cochleaimplantate
 
+    *   Mindest-
+        voraus-
+        setzung
+
+    *   LG Allgemeine Chirurgie
+        LG Allgemeine Innere Medizin
+        LG HNO
+        LG Intensivmedizin
+
+    *
+    *   ERA
+
+    *   FA für Hals-Nasen-Ohrenheilkunde
+
+    *   Drei FA, mindestens Rufbereitschaft:
+        jederzeit
+
+    *
+
+*    *   Auswahl-
+        kriterium
+
+    *   LG Allgemeine Kinder- und Jugendmedizin
+
+    *   LG MKG
+
+    *   MRT,
+        PET-CT,
+        Doppler- oder Duplex-Sonographien
+
+    *   FA Phoniatrie und Pädaudiologie
+
+    *
+    *
 
 *    *   52
 
     *   Neurochirurgie
 
+    *   Mindest-
+        voraus-
+        setzung
+
+    *   LG Allgemeine Chirurgie
+        LG Allgemeine Innere Medizin
+        LG Intensivmedizin, Qualitätsanforderung Komplex
+
+    *   LG Allgemeine Neurologie
+        LG Stroke Unit
+
+    *   Elektroenzephalogramm (EEG),
+        Evozierte Potentiale,
+        Elektromyographie (EMG),
+        Elektroneurographie (ENG),
+        Sonographie einschließlich extra- und intrakranielle Doppler- und
+        Farbduplexsonographie,
+        CT jederzeit,
+        MRT
+
+    *   FA Neurochirurgie
+
+    *   Drei FA, mindestens Rufbereitschaft:
+        jederzeit
+
+    *
+
+*    *   Auswahl-
+        kriterium
+
+    *   LG Allgemeine Neurologie
+        LG Stroke Unit
+        LG Wirbelsäulenchirurgie
+        Mindestens eine der folgenden LG:
+        LG Endoprothetik Hüfte oder
+        LG Endoprothetik Knie oder
+        LG Revision Hüftendoprothetik oder
+        LG Revision Knieendoprothese
+
+    *   LG HNO
+        LG MKG
+        LG Palliativmedizin
+
+    *   MRT jederzeit
+
+    *   FA Radiologie mit SP Neuroradiologie
+        ZW Spezielle Schmerztherapie
+
+    *
+    *
 
 *    *   53
 
     *   Allgemeine Neurologie
 
+    *   Mindest-
+        voraus-
+        setzung
+
+    *   Für Krankenhäuser, die nicht von der für die Krankenhausplanung
+        zuständigen Landesbehörde gemäß § 135d Absatz 4 Satz 3 der
+        Versorgungsstufe „Level F“ zugeordnet wurden:
+        LG Allgemeine Innere Medizin
+        LG Intensivmedizin
+
+    *   Für Fachkrankenhäuser, die von der für die Krankenhausplanung
+        zuständigen Landesbehörde gemäß § 135d Absatz 4 Satz 3 der
+        Versorgungsstufe „Level F“ zugeordnet wurden:
+        LG Allgemeine
+        Innere Medizin
+        LG Intensivmedizin
+
+    *   CT oder MRT (Teleradiologie möglich),
+        EEG,
+        EMG,
+        Evozierte Potentiale,
+        ENG,
+        Sonographie einschließlich extra- und intrakranielle Doppler- und
+        Farbduplexsonographie,
+        Schluckdiagnostik
+
+    *   FA Neurologie
+
+    *   Drei FA, mindestens Rufbereitschaft:
+        jederzeit
+
+    *   Erfüllung der in § 6 PpUGV festgelegten Pflegepersonaluntergrenzen
+
+
+*    *   Auswahl-
+        kriterium
+
+    *   LG Geriatrie
+        LG Neurochirurgie
+        Mindestens einer der folgenden LG:
+        LG EPU/Ablation oder
+        LG Interventionelle Kardiologie
+        Für Fachkrankenhäuser, die von der für die Krankenhausplanung
+        zuständigen Landesbehörde gemäß § 135d Absatz 4 Satz 3 der
+        Versorgungsstufe „Level F“ zugeordnet wurden:
+        LG Allgemeine Innere Medizin
+        LG Intensivmedizin
+
+    *   LG Allgemeine Chirurgie
+        LG Augenheilkunde
+        LG HNO
+
+    *   Polysomnographie
+
+    *   FA Neurologie mit ZW Geriatrie oder
+        ZW Intensivmedizin oder ZW Palliativmedizin oder
+        ZW Schlafmedizin
+
+    *
+    *
 
 *    *   54
 
     *   Stroke Unit
 
+    *   Mindest-
+        voraus-
+        setzung
+
+    *   LG Allgemeine Innere Medizin
+        LG Allgemeine Neurologie
+        LG Intensivmedizin
+
+    *   LG Neurochirurgie
+        Mindestens eine der folgenden LG:
+        LG Bauchaortenaneurysma oder
+        LG Carotis operativ/interventionell oder LG Komplexe periphere
+        arterielle Gefäße
+
+    *   CT jederzeit oder MRT jederzeit (Befundung auch durch Teleradiologie
+        möglich),
+        CT-Angiographie jederzeit oder MR-Angiographie jederzeit (Befundung
+        auch durch Teleradiologie möglich),
+        Intra- und extrakranielle Sonographie einschließlich Farbduplex
+        jederzeit,
+        Transthorakale Echokardiographie (TTE),
+        TEE,
+        Systemische Fibrinolyse jederzeit
+
+    *   FA Neurologie
+
+    *   Drei FA, mindestens Rufbereitschaft:
+        jederzeit
+
+    *   Erfüllung der in § 6 PpUGV festgelegten Pflegepersonaluntergrenzen
+
+
+*    *   Auswahl-
+        kriterium
+
+    *   LG Neurochirurgie
+        LG Neuro-Frühreha (NNF, Phase B)
+        Mindestens einer der folgenden LG:
+        LG Bauchaortenaneurysma oder
+        LG Carotis operativ/interventionell oder
+        LG Komplexe periphere arterielle Gefäße
+        Mindestens eine der folgenden LG:
+        LG EPU/Ablation oder
+        LG Interventionelle Kardiologie
+
+    *
+    *   Neuroradiologische Behandlungsmöglichkeit (einschließlich
+        Thrombektomie) jederzeit mindestens in Kooperation,
+        DSA
+
+    *   FA Radiologie mit SP Neuroradiologie
+        FA Innere Medizin und Kardiologie
+
+    *
+    *
 
 *    *   55
 
     *   Neuro-Frühreha (NNF, Phase B)
 
+    *   Mindest-
+        voraus-
+        setzung
+
+    *   LG Intensivmedizin
+
+    *   LG Allgemeine
+        Innere Medizin
+        LG Allgemeine Neurologie
+
+    *   CT oder MRT (Teleradiologie möglich),
+        EKG,
+        EEG,
+        EMG,
+        Elektrisch evozierte Potenziale (EVP),
+        Motorisch evozierte Potenziale (MEP),
+        Mobiles Ultraschallgerät einschließlich Farbduplex
+
+    *   FA Neurochirurgie
+        FA Neurologie
+        FA Neuropädiatrie
+        FA Physikalische und Rehabilitative Medizin
+
+    *   Drei FA, mindestens Rufbereitschaft:
+        jederzeit
+
+    *   Erfüllung der in § 6 PpUGV festgelegten Pflegepersonaluntergrenzen
+
+
+*    *   Auswahl-
+        kriterium
+
+    *   LG Allgemeine
+        Innere Medizin
+        LG Allgemeine
+        Neurologie
+
+    *
+    *
+    *
+    *
+    *
 
 *    *   56
 
     *   Geriatrie
 
+    *   Mindest-
+        voraus-
+        setzung
+
+    *   Für Krankenhäuser, die nicht von der für die Krankenhausplanung
+        zuständigen Landesbehörde gemäß § 135d Absatz 4 Satz 3 der
+        Versorgungsstufe „Level F“ zugeordnet wurden:
+        LG Allgemeine Innere Medizin
+        LG Intensivmedizin
+
+    *   LG Urologie
+        Mindestens eine der folgenden LG:
+        LG Allgemeine Neurologie oder
+        LG Stroke Unit oder LG Neuro-Frühreha (NNF, Phase B)
+        Mindestens eine der folgenden LG:
+        LG Endoprothetik Hüfte oder
+        LG Endoprothetik Knie oder
+        LG Revision Hüftendoprothese oder LG Revision Knieendoprothese
+        Für Fachkrankenhäuser, die von der für die Krankenhausplanung
+        zuständigen Landesbehörde gemäß § 135d Absatz 4 Satz 3 der
+        Versorgungsstufe „Level F“ zugeordnet wurden: LG Allgemeine Innere
+        Medizin
+        LG Intensivmedizin
+
+    *   CT oder für Fachkrankenhäuser, die von der für die Krankenhausplanung
+        zuständigen Landesbehörde gemäß § 135d Absatz 4 Satz 3 der
+        Versorgungsstufe „Level F“ zugeordnet wurden, mindestens in
+        Kooperation
+
+    *   FA Allgemeinmedizin,
+        FA Innere Medizin, FA Neurologie,
+        FA Physikalische und Rehabilitative Medizin oder
+        FA Psychiatrie und Psychotherapie mit ZW Geriatrie
+
+    *   Drei FA, mindestens Rufbereitschaft:
+        jederzeit
+        Davon mindestens zwei FA Neurologie oder FA Physikalische und
+        Rehabilitative Medizin mit ZW Geriatrie
+
+    *   Erfüllung der in § 6 PpUGV festgelegten Pflegepersonaluntergrenzen
+
+
+*    *
+    *
+    *   Auswahl-
+        kriterium
+
+    *   LG Allgemeine Chirurgie
+        LG Palliativmedizin
+        Mindestens eine der folgenden LG:
+        LG Allgemeine Neurologie oder
+        LG Stroke Unit oder
+        LG Neuro-Frühreha (NNF, Phase B)
+        Mindestens eine der folgenden LG:
+        LG Endoprothetik Hüfte oder
+        LG Endoprothetik Knie oder
+        LG Revision Hüftendoprothese oder
+        LG Revision Knieendoprothese
+        Für Fachkrankenhäuser, die von der für die Krankenhausplanung
+        zuständigen Landesbehörde gemäß § 135d Absatz 4 Satz 3 der
+        Versorgungsstufe „Level F“ zugeordnet wurden: LG Allgemeine Innere
+        Medizin
+        LG Intensivmedizin
+
+    *
+    *
+    *
+    *
+    *
 
 *    *   57
 
     *   Palliativmedizin
 
+    *   Mindest-
+        voraus-
+        setzung
+
+    *   Für Krankenhäuser, die nicht von der für die Krankenhausplanung
+        zuständigen Landesbehörde gemäß § 135d Absatz 4 Satz 3 der
+        Versorgungsstufe „Level F“ zugeordnet wurden:
+        LG Allgemeine Innere Medizin
+        oder
+        LG Allgemeine Kinder- und Jugendmedizin
+
+    *   Für Fachkrankenhäuser, die von der für die Krankenhausplanung
+        zuständigen Landesbehörde gemäß § 135d Absatz 4 Satz 3 der
+        Versorgungsstufe „Level F“ zugeordnet wurden:
+        LG Allgemeine Innere Medizin oder
+        LG Allgemeine Kinder- und Jugendmedizin
+
+    *
+    *   ZW Palliativmedizin
+
+    *   Drei FA, mindestens Rufbereitschaft:
+        jederzeit
+        Davon mindestens zwei FA mit ZW Palliativmedizin
+
+    *
+
+*    *   Auswahl-
+        kriterium
+
+    *   LG Intensivmedizin
+        LG Kinder-Hämatologie und -Onkologie – Leukämie und Lymphome
+        LG Kinder-Hämatologie und -Onkologie – Stammzelltransplantation
+        Mindestens eine der folgenden LG:
+        LG Stammzelltransplantation oder
+        LG Leukämie und Lymphome
+        Mindestens eine der folgenden LG:
+        LG Allgemeine Neurologie oder
+        LG Stroke Unit oder
+        LG Neuro-Frühreha (NNF, Phase B)
+
+    *   LG Geriatrie
+
+    *
+    *   FA Kinder- und Jugendmedizin
+
+    *
+    *
+
+*    *
+    *
+    *
+    *   Für Fachkrankenhäuser, die von der für die Krankenhausplanung
+        zuständigen Landesbehörde gemäß § 135d Absatz 4 Satz 3 der
+        Versorgungsstufe „Level F“ zugeordnet wurden:
+        LG Allgemeine Innere Medizin oder
+        LG Allgemeine Kinder- und Jugendmedizin
+
+    *
+    *
+    *
+    *
+    *
 
 *    *   58
 
     *   Darmtransplantation
 
+    *   Mindest-
+        voraus-
+        setzung
+
+    *   LG Allgemeine Chirurgie
+        LG Allgemeine Innere Medizin
+        LG Intensivmedizin, Qualitätsanforderung Hochkomplex
+        Mindestens eine der folgenden LG:
+        LG Bariatrische Chirurgie oder
+        LG Lebereingriffe oder
+        LG Ösophaguseingriffe oder
+        LG Pankreaseingriffe oder
+        LG Tiefe Rektumeingriffe
+
+    *
+    *   Röntgen,
+        CT jederzeit,
+        Teleradiologischer Befund möglich,
+        MRT
+
+    *   FA Viszeralchirurgie
+        ZW Transplantationsmedizin
+
+    *   Drei FA, mindestens Rufbereitschaft:
+        jederzeit
+        Davon mindestens ein FA mit ZW Transplantationsmedizin
+
+    *   Transplantationsbeauftragter
+        Interdisziplinäre Transplantkonferenz
+
+
+*    *   Auswahl-
+        kriterium
+
+    *   LG Bauchaortenaneurysma oder
+        LG Carotis operativ/interventionell oder
+        LG Komplexe periphere arterielle Gefäße
+
+    *
+    *
+    *   FA Allgemeinchirurgie
+        FA Gefäßchirurgie
+        FA Kinder- und Jugendmedizin
+        jeweils mit ZW Transplantationsmedizin
+
+    *
+    *
 
 *    *   59
 
     *   Herztransplantation
 
+    *   Mindest-
+        voraus-
+        setzung
+
+    *   LG Allgemeine Innere Medizin
+        LG Intensivmedizin, Qualitätsanforderung Hochkomplex
+        Mindestens eine der folgenden LG:
+        LG Herzchirurgie oder
+        LG Herzchirurgie – Kinder und Jugendliche
+        Mindestens eine der folgenden LG:
+        LG EPU/Ablation oder
+        LG Interventionelle Kardiologie
+        Für Krankenhäuser, die nicht von der für die Krankenhausplanung
+        zuständigen Landesbehörde gemäß § 135d Absatz 4 Satz 3 der
+        Versorgungsstufe „Level F“ zugeordnet wurden:
+        LG Allgemeine Chirurgie
+
+    *   Für Fachkrankenhäuser, die von der für die Krankenhausplanung
+        zuständigen Landesbehörde gemäß § 135d Absatz 4 Satz 3 der
+        Versorgungsstufe „Level F“ zugeordnet wurden: LG Allgemeine Chirurgie
+
+    *   Herzkatheterlabor (Rechts- und Linkskatheter),
+        Herz-Lungen-Maschine,
+        Röntgen,
+        CT jederzeit,
+        Teleradiologischer Befund möglich,
+        MRT
+
+    *   FA Herzchirurgie
+        FA Innere Medizin und Kardiologie
+        ZW Transplantationsmedizin
+
+    *   Sechs FA, mindestens Rufbereitschaft: jederzeit
+        Davon mindestens drei FA Herzchirurgie und drei FA Innere Medizin und
+        Kardiologie
+        Davon mindestens ein FA mit ZW Transplantationsmedizin
+
+    *   Transplantationsbeauftragter
+        Interdisziplinäre Transplantkonferenz
+
+
+*    *
+    *
+    *   Auswahl-
+        kriterium
+
+    *   LG Thoraxchirurgie
+        Für Fachkrankenhäuser, die von der für die Krankenhausplanung
+        zuständigen Landesbehörde gemäß § 135d Absatz 4 Satz 3 der
+        Versorgungsstufe „Level F“ zugeordnet wurden:
+        LG Allgemeine Chirurgie
+
+    *
+    *   ECMO
+
+    *   FA Thoraxchirurgie
+        FA Innere Medizin und Pneumologie
+        FA Kinder- und Jugendmedizin
+        jeweils mit ZW Transplantationsmedizin
+
+    *
+    *
 
 *    *   60
 
     *   Lebertransplantation
 
+    *   Mindest-
+        voraus-
+        setzung
+
+    *   LG Intensivmedizin, Qualitätsanforderung Hochkomplex
+        LG Komplexe Gastroenterologie
+        Mindestens eine der folgenden LG:
+        LG Bariatrische Chirurgie oder
+        LG Lebereingriffe oder
+        LG Ösophaguseingriffe oder
+        LG Pankreaseingriffe oder
+        LG Tiefe Rektumeingriffe
+
+    *
+    *   Röntgen,
+        CT jederzeit,
+        Teleradiologischer Befund möglich,
+        MRT
+
+    *   FA Viszeralchirurgie
+        FA Innere Medizin und Gastroenterologie
+        ZW Transplantationsmedizin
+
+    *   Sechs FA, mindestens Rufbereitschaft: jederzeit
+        Davon mindestens drei FA Viszeralchirurgie und drei FA Innere Medizin
+        und Gastroenterologie
+        Davon mindestens ein FA mit ZW Transplantationsmedizin
+
+    *   Transplantationsbeauftragter
+        Interdisziplinäre Transplantkonferenz
+
+
+*    *   Auswahl-
+        kriterium
+
+    *   LG Allgemeine Chirurgie
+        LG Allgemeine Innere Medizin
+        Mindestens eine der folgenden LG:
+        LG Bauchaortenaneurysma oder
+        LG Carotis operativ/interventionell oder
+        LG Komplexe periphere arterielle Gefäße
+
+    *
+    *
+    *   FA Allgemeinchirurgie
+        FA Gefäßchirurgie
+        FA Kinder- und Jugendmedizin
+        jeweils mit ZW Transplantationsmedizin
+
+    *
+    *
 
 *    *   61
 
     *   Lungentransplantation
 
+    *   Mindest-
+        voraus-
+        setzung
+
+    *   LG Allgemeine Chirurgie
+        LG Allgemeine Innere Medizin
+        LG Intensivmedizin, Qualitätsanforderung Hochkomplex
+        LG Komplexe Pneumologie
+        LG Herzchirurgie oder
+        LG Thoraxchirurgie
+
+    *
+    *   Herz-Lungen-Maschine,
+        Röntgen,
+        CT jederzeit,
+        Teleradiologischer Befund möglich,
+        MRT
+
+    *   FA Herzchirurgie
+        FA Thoraxchirurgie
+        ZW Transplantationsmedizin
+
+    *   Fünf FA Herzchirurgie und ein FA Thoraxchirurgie, mindestens
+        Rufbereitschaft jederzeit
+        oder drei FA Thoraxchirurgie und ein FA Herzchirurgie, mindestens
+        Rufbereitschaft: jederzeit
+        Davon mindestens ein FA mit ZW Transplantationsmedizin
+
+    *   Transplantationsbeauftragter
+        Interdisziplinäre Transplantkonferenz
+
+
+*    *   Auswahl-
+        kriterium
+
+    *
+    *
+    *   ECMO
+
+    *   FA Kinder- und Jugendmedizin
+        mit ZW Transplantationsmedizin
+
+    *
+    *
 
 *    *   62
 
     *   Nierentransplantation
 
+    *   Mindest-
+        voraus-
+        setzung
+
+    *   LG Allgemeine Chirurgie
+        LG Allgemeine Innere Medizin
+        LG Intensivmedizin, Qualitätsanforderung Hochkomplex
+        Mindestens zwei der folgenden LG:
+        LG Komplexe Nephrologie oder
+        LG Urologie oder mindestens eine der folgenden LG:
+        LG Bariatrische Chirurgie oder
+        LG Lebereingriffe oder
+        LG Ösophaguseingriffe oder
+        LG Pankreaseingriffe oder
+        LG Tiefe Rektumeingriffe
+
+    *   LG Komplexe Nephrologie
+        LG Urologie
+        Mindestens eine der folgenden LG:
+        LG Bariatrische Chirurgie oder
+        LG Lebereingriffe oder
+        LG Ösophaguseingriffe oder
+        LG Pankreaseingriffe oder
+        LG Tiefe Rektumeingriffe
+
+    *   Röntgen,
+        CT jederzeit,
+        Teleradiologischer Befund möglich,
+        MRT
+
+    *   FA Viszeralchirurgie
+        FA Urologie
+        FA Innere Medizin und Nephrologie
+        ZW Transplantationsmedizin
+
+    *   Neun FA, mindestens Rufbereitschaft:
+        jederzeit
+        Davon mindestens drei FA Viszeralchirurgie, drei FA Urologie und drei
+        FA Innere Medizin und Nephrologie
+        Davon mindestens ein FA mit ZW Transplantationsmedizin
+
+    *   Transplantationsbeauftragter
+        Interdisziplinäre Transplantkonferenz
+
+
+*    *
+    *
+    *   Auswahl-
+        kriterium
+
+    *   LG Urologie
+        Mindestens eine der folgenden LG:
+        LG Bariatrische Chirurgie oder
+        LG Lebereingriffe oder
+        LG Ösophaguseingriffe oder
+        LG Pankreaseingriffe oder
+        LG Tiefe Rektumeingriffe
+        Mindestens eine der folgenden LG:
+        LG Bauchaortenaneurysma oder
+        LG Carotis operativ/interventionell oder
+        LG Komplexe periphere arterielle Gefäße
+
+    *
+    *
+    *   FA Allgemeinchirurgie
+        FA Gefäßchirurgie
+        FA Kinder- und Jugendmedizin
+        jeweils mit ZW Transplantationsmedizin
+
+    *
+    *
 
 *    *   63
 
     *   Pankreastransplantation
 
+    *   Mindest-
+        voraus-
+        setzung
+
+    *   LG Allgemeine Chirurgie
+        LG Allgemeine Innere Medizin
+        LG Intensivmedizin, Qualitätsanforderung Hochkomplex
+        Mindestens eine der folgenden LG:
+        LG Bariatrische Chirurgie oder
+        LG Lebereingriffe oder
+        LG Ösophaguseingriffe oder
+        LG Pankreaseingriffe oder
+        LG Tiefe Rektumeingriffe
+
+    *
+    *   Röntgen,
+        CT jederzeit,
+        Teleradiologischer Befund möglich,
+        MRT
+
+    *   FA Viszeralchirurgie
+        ZW Transplantationsmedizin
+
+    *   Drei FA, mindestens Rufbereitschaft:
+        jederzeit
+        Davon mindestens ein FA mit ZW Transplantationsmedizin
+
+    *   Transplantationsbeauftragter
+        Interdisziplinäre Transplantkonferenz
+
+
+*    *   Auswahl-
+        kriterium
+
+    *   Mindestens eine der folgenden LG:
+        LG Bauchaortenaneurysma oder
+        LG Carotis operativ/interventionell oder
+        LG Komplexe periphere arterielle Gefäße
+
+    *
+    *
+    *   FA Allgemeinchirurgie
+        FA Gefäßchirurgie
+        FA Kinder- und Jugendmedizin
+        jeweils mit ZW Transplantationsmedizin
+
+    *
+    *
 
 *    *   64
 
     *   Intensivmedizin
 
+    *   Mindest-
+        voraus-
+        setzung
+
+    *
+    *
+    *   Notfall-Labor am Standort oder Notfall-Labor in Kooperation plus PoC-
+        Laboranalytik
+
+    *   FA aus einem Gebiet der unmittelbaren Patientenversorgung
+        ZW Intensivmedizin
+        FA Anästhesiologie
+
+    *   Drei intensivmedizinisch erfahrene FA, mindestens Rufbereitschaft:
+        jederzeit
+        Davon mindestens ein FA mit ZW Intensivmedizin oder ein FA
+        Anästhesiologie
+
+    *   Erfüllung der in § 6 PpUGV festgelegten Pflegepersonaluntergrenzen
+
+
+*    *   Qualitätsanforderung Komplex
+
+    *
+    *
+    *   Verfügbarkeit folgender Untersuchungs-/Behandlungsverfahren auf der
+        Intensivstation:
+        a. Kontinuierliche Nierenersatzverfahren jederzeit
+        b. Flexible Bronchoskopie täglich acht Stunden im Zeitraum von 6 Uhr
+        bis 18 Uhr
+        c. Ultraschall-Verfahren täglich acht Stunden im Zeitraum von 6 Uhr
+        bis 18 Uhr:
+        Abdomen,
+        TTE,
+        TEE am Standort täglich acht Stunden im Zeitraum von 6 Uhr bis 18 Uhr,
+        Notfall-Labor am Standort plus PoC-Laboranalytik
+
+    *   FA aus einem Gebiet der unmittelbaren Patientenversorgung
+        ZW Intensivmedizin
+
+    *   Drei intensivmedizinisch erfahrene FA, mindestens Rufbereitschaft:
+        jederzeit
+        Davon mindestens zwei FA mit ZW Intensivmedizin
+        Ständige Arztpräsenz auf der Intensivstation (Arzt kann zu einem
+        kurzfristigen Notfalleinsatz innerhalb des Krankenhauses hinzugezogen
+        werden)
+
+    *   Erfüllung der in § 6 PpUGV festgelegten Pflegepersonaluntergrenzen
+
+
+*    *
+    *
+    *   Qualitätsanforderung Hochkomplex
+
+    *
+    *
+    *   Verfügbarkeit folgender Untersuchungs- oder Behandlungsverfahren auf
+        der Intensivstation:
+        a. Kontinuierliche Nierenersatzverfahren jederzeit
+        b. Flexible Bronchoskopie jederzeit
+        c. Ultraschall-Verfahren
+        jederzeit: Abdomen,
+        TTE,
+        TEE am Standort,
+        täglich acht Stunden im Zeitraum von 6 Uhr bis 18 Uhr,
+        Notfall-Labor am Standort plus PoC-Laboranalytik
+
+    *   ZW Intensivmedizin
+
+    *   Drei FA mit ZW Intensivmedizin, mindestens Rufbereitschaft: jederzeit
+        Jederzeit Arztpräsenz auf der Intensivstation (Arzt kann zu einem
+        kurzfristigen Notfalleinsatz innerhalb des Krankenhauses hinzugezogen
+        werden)
+
+    *   Erfüllung der in § 6 PpUGV festgelegten Pflegepersonaluntergrenzen
+
 
 *    *   65
 
     *   Notfallmedizin
+
+    *   Mindest-
+        voraus-
+        setzung
+
+    *   LG Intensivmedizin
+        LG Allgemeine Innere Medizin
+        LG Allgemeine Chirurgie
+
+    *
+    *   Ultraschall,
+        Videolaryngoskopie,
+        Möglichkeit zur nichtinvasiven und invasiven Beatmung oder
+        Transportbeatmung,
+        Sauerstofftherapie,
+        Blutgasanalyse,
+        Röntgen,
+        CT jederzeit,
+        Telemedizinische Behandlung,
+        Monitoring von Elektrokardiogramm (EKG)
+
+    *   FA in einem Gebiet der unmittelbaren Patientenversorgung
+        FA in einem Gebiet der unmittelbaren Patientenversorgung jeweils mit
+        ZW Klinische Akut- und Notfallmedizin
+
+    *   Fünf FA, die fachlich, räumlich und organisatorisch eindeutig der
+        Versorgung in der Notaufnahme zugeordnet sind, mindestens
+        Rufbereitschaft: jederzeit
+        davon mindestens drei FA mit der ZW Klinische Akut- und Notfallmedizin
+        Davon bis zum 31.12.2028 maximal zwei FA in der Zusatz-
+        Weiterbildungsphase zur ZW Klinische Akut- und Notfallmedizin
+
+    *   Erfüllung der Voraussetzungen der Basisnotfallversorgung gemäß den §§
+        8 bis 12 der Bekanntmachung eines Beschlusses des G-BA über Regelungen
+        zu einem gestuften System von Notfallstrukturen in Krankenhäusern
+        gemäß § 136c Absatz 4 SGB V vom 19. April 2018 (BAnz AT 18.05.2018
+        B4), der durch den Beschluss vom 20. November 2020 (BAnz AT 24.12.2020
+        B2) geändert worden ist
 
 
 
@@ -49137,7 +54026,7 @@ vorzulegen.
                 Konkretisierung dieser Daten erfolgt in den Spezifikationen der
                 Gesellschaft für Telematik, die diese auf ihrer Internetseite
                 veröffentlicht. Die Festlegungen in den Spezifikationen werden nach §
-                311 Absatz 2 SGB V im Benehmen mit dem BSI und dem BfDI getroffen.
+                311 Absatz 2 SGB V im Einvernehmen mit dem BSI und dem BfDI getroffen.
 
 
 

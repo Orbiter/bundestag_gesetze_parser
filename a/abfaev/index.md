@@ -357,9 +357,7 @@ oder bei gefährlichen Abfällen zwei Tonnen übersteigt.
 bundesweit einheitliches informationstechnisches System bereit, in dem
 
 1.  der Vordruck nach Anlage 2 in elektronischer Form vorgehalten wird;
-    das Feld
-    "Unterschrift"                    im Vordruck nach Anlage 2 entfällt;
-    und
+    das Feld „Unterschrift” im Vordruck nach Anlage 2 entfällt; und
 
 
 2.  die Möglichkeit geschaffen wird

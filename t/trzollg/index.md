@@ -19,8 +19,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 1090
 
-Geändert durch
-:   Art. 8 G v. 15.7.2009 I 1870
+Zuletzt geändert durch
+:   Art. 4 G v. 22.12.2025 I Nr. 341
 
 
 ## § 1 Begriffsbestimmungen

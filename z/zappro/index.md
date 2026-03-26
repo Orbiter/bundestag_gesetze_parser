@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2019, 933
 
 Zuletzt geändert durch
-:   Art. 4 V v. 7.6.2023 I Nr. 148
+:   Art. 1 V v. 21.11.2024 I Nr. 360
 
 
 ## Abschnitt 1 - Zahnärztliche Ausbildung
@@ -578,17 +578,15 @@ Prüfung ist an die nach § 18 zuständige Stelle zu richten.
 werden, das in den §§ 28, 42 und 58 als Mindeststudienzeit festgelegt
 ist.
 
-(3) Der Antrag auf Zulassung ist schriftlich in der Form zu stellen,
-die die nach § 18 zuständige Stelle vorgeschrieben hat. Er kann auch
-elektronisch gestellt werden. Der Antrag muss der zuständigen Stelle
-bis zum 10. Januar oder bis zum 10. Juni zugegangen sein.
+(3) Der Antrag auf Zulassung ist schriftlich oder elektronisch zu
+stellen. Der Antrag muss der nach § 18 zuständigen Stelle bis zum 10.
+Januar oder bis zum 10. Juni zugegangen sein.
 
 
 #### § 20 Antragsunterlagen
 
 (1) Dem Antrag auf Zulassung zum Ersten Abschnitt der Zahnärztlichen
-Prüfung sind folgende Unterlagen im Original oder in beglaubigter
-Kopie beizufügen:
+Prüfung sind folgende Unterlagen beizufügen:
 
 1.  ein Identitätsnachweis,
 
@@ -619,15 +617,19 @@ Der Nachweis nach Satz 1 Nummer 5 darf bei Antragstellung nicht älter
 als drei Jahre sein. Sofern die in Satz 1 Nummer 3 und 4 genannten
 Unterlagen dem Antrag noch nicht beigefügt werden können, sind sie in
 einer von der nach § 18 zuständigen Stelle zu bestimmenden Frist
-nachzureichen. Die Übermittlung elektronischer Unterlagen durch den
-Studierenden oder die Studierende ist nicht zulässig. Die Universität
-kann die Bescheinigungen nach Satz 1 Nummer 4 der zuständigen Stelle
+nachzureichen. Der oder die Studierende kann die Unterlagen nach Satz
+1 auch ganz oder teilweise elektronisch übermitteln. Mit der
+Einwilligung des oder der Studierenden kann die Universität die
+Bescheinigungen nach Satz 1 Nummer 4 der nach § 18 zuständigen Stelle
 elektronisch übermitteln. In diesem Fall sind die Bescheinigungen dem
-Antrag nicht beizufügen.
+Antrag nicht beizufügen. Die nach § 18 zuständige Stelle kann im
+Einzelfall, insbesondere bei begründeten Zweifeln an der Echtheit und
+der inhaltlichen Richtigkeit der Unterlagen, die Vorlage der
+Unterlagen im Original oder in beglaubigter Kopie von dem oder der
+Studierenden verlangen.
 
 (2) Dem Antrag auf Zulassung zum Zweiten Abschnitt der Zahnärztlichen
-Prüfung sind folgende Unterlagen im Original oder in beglaubigter
-Kopie beizufügen:
+Prüfung sind folgende Unterlagen beizufügen:
 
 1.  ein Identitätsnachweis,
 
@@ -649,16 +651,19 @@ Kopie beizufügen:
 
 Sofern die in Satz 1 Nummer 2 und 3 genannten Unterlagen dem Antrag
 noch nicht beigefügt werden können, sind sie in einer von der nach §
-18 zuständigen Stelle zu bestimmenden Frist nachzureichen. Die
-Übermittlung elektronischer Unterlagen durch den Studierenden oder die
-Studierende ist nicht zulässig. Die Universität kann die
-Bescheinigungen nach Satz 1 Nummer 3 der nach § 18 zuständigen Stelle
-elektronisch übermitteln. In diesem Fall sind die Bescheinigungen dem
-Antrag nicht beizufügen.
+18 zuständigen Stelle zu bestimmenden Frist nachzureichen. Der oder
+die Studierende kann die Unterlagen nach Satz 1 auch ganz oder
+teilweise elektronisch übermitteln. Mit der Einwilligung des oder der
+Studierenden kann die Universität die Bescheinigungen nach Satz 1
+Nummer 3 der nach § 18 zuständigen Stelle elektronisch übermitteln. In
+diesem Fall sind die Bescheinigungen dem Antrag nicht beizufügen. Die
+nach § 18 zuständige Stelle kann im Einzelfall, insbesondere bei
+begründeten Zweifeln an der Echtheit oder der inhaltlichen Richtigkeit
+der Unterlagen, die Vorlage der Unterlagen im Original oder in
+beglaubigter Kopie von dem oder der Studierenden verlangen.
 
 (3) Dem Antrag auf Zulassung zum Dritten Abschnitt der Zahnärztlichen
-Prüfung sind folgende Unterlagen im Original oder in beglaubigter
-Kopie beizufügen:
+Prüfung sind folgende Unterlagen beizufügen:
 
 1.  ein Identitätsnachweis,
 
@@ -691,12 +696,16 @@ Kopie beizufügen:
 
 Sofern die in Satz 1 Nummer 2 und 3 genannten Unterlagen dem Antrag
 noch nicht beigefügt werden können, sind sie in einer von der nach §
-18 zuständigen Stelle zu bestimmenden Frist nachzureichen. Die
-Übermittlung elektronischer Unterlagen durch den Studierenden oder die
-Studierende ist nicht zulässig. Die Universität kann die
-Bescheinigungen nach Satz 1 Nummer 3 der zuständigen Stelle
-elektronisch übermitteln. In diesem Fall sind die Bescheinigungen dem
-Antrag nicht beizufügen.
+18 zuständigen Stelle zu bestimmenden Frist nachzureichen. Der oder
+die Studierende kann die Unterlagen nach Satz 1 auch ganz oder
+teilweise elektronisch übermitteln. Mit der Einwilligung des oder der
+Studierenden kann die Universität die Bescheinigungen nach Satz 1
+Nummer 3 der nach § 18 zuständigen Stelle elektronisch übermitteln. In
+diesem Fall sind die Bescheinigungen dem Antrag nicht beizufügen. Die
+nach § 18 zuständige Stelle kann im Einzelfall, insbesondere bei
+begründeten Zweifeln an der Echtheit oder der inhaltlichen Richtigkeit
+der Unterlagen, die Vorlage der Unterlagen im Original oder in
+beglaubigter Kopie von dem oder der Studierenden verlangen.
 
 (4) Studierende, die den Ersten Abschnitt der Ärztlichen Prüfung oder
 Prüfungen in einem Modellstudiengang, in denen sie über die in dem
@@ -772,6 +781,7 @@ Zahnärztlichen Prüfung auf Antrag ein individueller Nachteilsausgleich
 gewährt, wenn die Behinderung oder Beeinträchtigung eine
 leistungsbeeinträchtigende Auswirkung hat. Der Antrag auf
 Nachteilsausgleich ist an die nach § 18 zuständige Stelle zu richten.
+Der Antrag kann schriftlich oder elektronisch gestellt werden.
 
 (2) Der Nachteilsausgleich wird nur gewährt, wenn er spätestens mit
 dem Antrag auf Zulassung zu dem Abschnitt der Zahnärztlichen Prüfung
@@ -806,13 +816,12 @@ Verordnung vorgeschriebenen Studienzeiten, Studienleistungen und
 Prüfungsleistungen.
 
 (2) Nicht anerkannt werden Studienleistungen und Prüfungsleistungen,
-die
 
-1.  das Studium abschließen oder die bereits Gegenstand einer Prüfung im
-    Geltungsbereich dieser Verordnung waren und
+1.  die das Studium abschließen oder
 
 
-2.  endgültig nicht bestanden worden sind.
+2.  die bereits Gegenstand einer Prüfung im Geltungsbereich dieser
+    Verordnung waren und endgültig nicht bestanden worden sind.
 
 
 
@@ -854,23 +863,28 @@ Prüfung werden folgende Notenstufen festgelegt:
 #### § 25 Ordnungsverstöße, Täuschungsversuche
 
 Die nach § 18 zuständige Stelle kann einen Prüfungsteil, die mündliche
-Prüfung des Ersten Abschnitts der Zahnärztlichen Prüfung in einem Fach
-oder den mündlich-praktischen Teil des Zweiten oder des Dritten
-Abschnitts der Zahnärztlichen Prüfung in einem Fach für nicht
-bestanden erklären, wenn der oder die Studierende
+Prüfung des Ersten Abschnitts der Zahnärztlichen Prüfung in einer
+Fächergruppe oder in dem Fach Zahnmedizinische Propädeutik oder den
+mündlich-praktischen Teil des Zweiten oder des Dritten Abschnitts der
+Zahnärztlichen Prüfung in einem Fach oder in der Fächergruppe
+Zahnerhaltung für nicht bestanden erklären, wenn der oder die
+Studierende
 
 1.  diesen Prüfungsteil, die mündliche Prüfung des Ersten Abschnitts der
-    Zahnärztlichen Prüfung in dem jeweiligen Fach oder ein Prüfungselement
-    des mündlich-praktischen Teils des Zweiten oder des Dritten Abschnitts
-    der Zahnärztlichen Prüfung in dem jeweiligen Fach in erheblichem Maße
-    gestört hat oder
+    Zahnärztlichen Prüfung in der jeweiligen Fächergruppe oder in dem Fach
+    Zahnmedizinische Propädeutik oder ein Prüfungselement des mündlich-
+    praktischen Teils des Zweiten oder des Dritten Abschnitts der
+    Zahnärztlichen Prüfung in dem jeweiligen Fach oder in der Fächergruppe
+    Zahnerhaltung in erheblichem Maße gestört hat oder
 
 
 2.  in diesem Prüfungsteil, in der mündlichen Prüfung des Ersten
-    Abschnitts der Zahnärztlichen Prüfung in dem jeweiligen Fach oder in
-    einem Prüfungselement des mündlich-praktischen Teils des Zweiten oder
-    des Dritten Abschnitts der Zahnärztlichen Prüfung in dem jeweiligen
-    Fach einen Täuschungsversuch begangen hat.
+    Abschnitts der Zahnärztlichen Prüfung in der jeweiligen Fächergruppe
+    oder in dem Fach Zahnmedizinische Propädeutik oder in einem
+    Prüfungselement des mündlich-praktischen Teils des Zweiten oder des
+    Dritten Abschnitts der Zahnärztlichen Prüfung in dem jeweiligen Fach
+    oder in der Fächergruppe Zahnerhaltung einen Täuschungsversuch
+    begangen hat.
 
 
 
@@ -881,54 +895,63 @@ bestanden erklären, wenn der oder die Studierende
 (1) Tritt ein Studierender oder eine Studierende nach seiner oder
 ihrer Zulassung von einem Abschnitt der Zahnärztlichen Prüfung, einem
 Prüfungsteil, einer mündlichen Prüfung des Ersten Abschnitts der
-Zahnärztlichen Prüfung in einem Fach oder von einem Prüfungselement
-des mündlich-praktischen Teils des Zweiten oder des Dritten Abschnitts
-der Zahnärztlichen Prüfung in einem Fach zurück, so hat er oder sie
-die Gründe für seinen oder ihren Rücktritt unverzüglich der nach § 18
-zuständigen Stelle mitzuteilen.
+Zahnärztlichen Prüfung in einer Fächergruppe oder in dem Fach
+Zahnmedizinische Propädeutik oder von einem Prüfungselement des
+mündlich-praktischen Teils des Zweiten oder des Dritten Abschnitts der
+Zahnärztlichen Prüfung in einem Fach oder in der Fächergruppe
+Zahnerhaltung zurück, so hat er oder sie die Gründe für seinen oder
+ihren Rücktritt unverzüglich der nach § 18 zuständigen Stelle
+mitzuteilen. Die Mitteilung kann schriftlich oder elektronisch
+erfolgen.
 
 (2) Genehmigt die nach § 18 zuständige Stelle den Rücktritt, so gilt
 der jeweilige Abschnitt der Zahnärztlichen Prüfung, der Prüfungsteil,
 die mündliche Prüfung des Ersten Abschnitts der Zahnärztlichen Prüfung
-in dem jeweiligen Fach oder der mündlich-praktische Teil des Zweiten
-oder des Dritten Abschnitts der Zahnärztlichen Prüfung in dem
-jeweiligen Fach als nicht unternommen. Die Genehmigung ist nur zu
-erteilen, wenn ein wichtiger Grund vorliegt. Die zuständige Stelle
-kann verlangen, dass ihr der oder die Studierende bei Krankheit eine
-ärztliche Bescheinigung vorlegt. Die zuständige Stelle kann auch einen
-Arzt oder eine Ärztin benennen, von dem oder der der oder die
-Studierende die ärztliche Bescheinigung vorzulegen hat.
+in der jeweiligen Fächergruppe oder in dem Fach Zahnmedizinische
+Propädeutik oder der mündlich-praktische Teil des Zweiten oder des
+Dritten Abschnitts der Zahnärztlichen Prüfung in dem jeweiligen Fach
+oder in der Fächergruppe Zahnerhaltung als nicht unternommen. Die
+Genehmigung ist nur zu erteilen, wenn ein wichtiger Grund vorliegt.
+Die zuständige Stelle kann verlangen, dass ihr der oder die
+Studierende bei Krankheit eine ärztliche Bescheinigung vorlegt. Die
+zuständige Stelle kann auch einen Arzt oder eine Ärztin benennen, von
+dem oder der der oder die Studierende die ärztliche Bescheinigung
+vorzulegen hat.
 
 (3) Wird die Genehmigung für den Rücktritt nicht erteilt oder
 unterlässt es der oder die Studierende, die Gründe für seinen oder
 ihren Rücktritt unverzüglich mitzuteilen, so gilt der jeweilige
 Abschnitt der Zahnärztlichen Prüfung, der Prüfungsteil, die mündliche
-Prüfung des Ersten Abschnitts der Zahnärztlichen Prüfung in dem
-jeweiligen Fach oder der mündlich-praktische Teil des Zweiten oder des
-Dritten Abschnitts der Zahnärztlichen Prüfung in dem jeweiligen Fach
-als nicht bestanden.
+Prüfung des Ersten Abschnitts der Zahnärztlichen Prüfung in der
+jeweiligen Fächergruppe oder in dem Fach Zahnmedizinische Propädeutik
+oder der mündlich-praktische Teil des Zweiten oder des Dritten
+Abschnitts der Zahnärztlichen Prüfung in dem jeweiligen Fach oder in
+der Fächergruppe Zahnerhaltung als nicht bestanden.
 
 
 #### § 27 Versäumnis
 
 (1) Ein Studierender oder eine Studierende hat einen Prüfungsteil, die
 mündliche Prüfung des Ersten Abschnitts der Zahnärztlichen Prüfung in
-einem Fach oder den mündlich-praktischen Teil des Zweiten oder des
-Dritten Abschnitts der Zahnärztlichen Prüfung in einem Fach nicht
-bestanden, wenn er oder sie
+einer Fächergruppe oder in dem Fach Zahnmedizinische Propädeutik oder
+den mündlich-praktischen Teil des Zweiten oder des Dritten Abschnitts
+der Zahnärztlichen Prüfung in einem Fach oder in der Fächergruppe
+Zahnerhaltung nicht bestanden, wenn er oder sie
 
 1.  den Prüfungstermin in diesem Prüfungsteil, in der mündlichen Prüfung
-    des Ersten Abschnitts der Zahnärztlichen Prüfung in dem jeweiligen
-    Fach oder in einem Prüfungselement des mündlich-praktischen Teils des
-    Zweiten oder des Dritten Abschnitts der Zahnärztlichen Prüfung in dem
-    jeweiligen Fach versäumt,
+    des Ersten Abschnitts der Zahnärztlichen Prüfung in der jeweiligen
+    Fächergruppe oder in dem Fach Zahnmedizinische Propädeutik oder in
+    einem Prüfungselement des mündlich-praktischen Teils des Zweiten oder
+    des Dritten Abschnitts der Zahnärztlichen Prüfung in dem jeweiligen
+    Fach oder in der Fächergruppe Zahnerhaltung versäumt,
 
 
 2.  die Prüfung in diesem Prüfungsteil, in der mündlichen Prüfung des
-    Ersten Abschnitts der Zahnärztlichen Prüfung in dem jeweiligen Fach
-    oder in einem Prüfungselement des mündlich-praktischen Teils des
-    Zweiten oder des Dritten Abschnitts der Zahnärztlichen Prüfung in dem
-    jeweiligen Fach unterbricht oder
+    Ersten Abschnitts der Zahnärztlichen Prüfung in der jeweiligen
+    Fächergruppe oder in dem Fach Zahnmedizinische Propädeutik oder in
+    einem Prüfungselement des mündlich-praktischen Teils des Zweiten oder
+    des Dritten Abschnitts der Zahnärztlichen Prüfung in dem jeweiligen
+    Fach oder in der Fächergruppe Zahnerhaltung unterbricht oder
 
 
 3.  die Aufsichtsarbeit im schriftlichen Teil des Dritten Abschnitts der
@@ -939,18 +962,21 @@ bestanden, wenn er oder sie
 
 (2) Liegt ein wichtiger Grund für das Verhalten des oder der
 Studierenden vor, so gilt der Prüfungsteil, die mündliche Prüfung des
-Ersten Abschnitts der Zahnärztlichen Prüfung in dem jeweiligen Fach
-oder der mündlich-praktische Teil des Zweiten oder des Dritten
-Abschnitts der Zahnärztlichen Prüfung in dem jeweiligen Fach als nicht
-unternommen. Der oder die Studierende hat die Gründe für sein oder ihr
-Verhalten unverzüglich der nach § 18 zuständigen Stelle mitzuteilen.
+Ersten Abschnitts der Zahnärztlichen Prüfung in der jeweiligen
+Fächergruppe oder in dem Fach Zahnmedizinische Propädeutik oder der
+mündlich-praktische Teil des Zweiten oder des Dritten Abschnitts der
+Zahnärztlichen Prüfung in dem jeweiligen Fach oder in der Fächergruppe
+Zahnerhaltung als nicht unternommen. Der oder die Studierende hat die
+Gründe für sein oder ihr Verhalten unverzüglich der nach § 18
+zuständigen Stelle mitzuteilen. Die Mitteilung kann schriftlich oder
+elektronisch erfolgen.
 
 (3) Die Entscheidung darüber, ob ein wichtiger Grund vorliegt, trifft
-die nach § 18 zuständige Stelle. Die zuständige Stelle kann verlangen,
-dass ihr der oder die Studierende bei Krankheit eine ärztliche
-Bescheinigung vorlegt. Die nach zuständige Stelle kann auch einen Arzt
-oder eine Ärztin benennen, von dem oder der der oder die Studierende
-die ärztliche Bescheinigung vorzulegen hat.
+die nach § 18 zuständige Stelle. Die nach § 18 zuständige Stelle kann
+verlangen, dass ihr der oder die Studierende bei Krankheit eine
+ärztliche Bescheinigung vorlegt. Die nach § 18 zuständige Stelle kann
+auch einen Arzt oder eine Ärztin benennen, von dem oder der der oder
+die Studierende die ärztliche Bescheinigung vorzulegen hat.
 
 
 ### Unterabschnitt 2 - Erster Abschnitt der Zahnärztlichen Prüfung
@@ -981,8 +1007,8 @@ mündliche Prüfung nur im Fach Zahnmedizinische Propädeutik ab.
 vorlesungsfreien Zeit statt. Nachholtermine können auch zu einer
 anderen Zeit vorgesehen werden.
 
-(2) Die nach § 18 zuständige Stelle legt die Prüfungstermine in den
-einzelnen Fächern im Einvernehmen mit der Universität fest.
+(2) Die nach § 18 zuständige Stelle legt die Prüfungstermine im
+Einvernehmen mit der Universität fest.
 
 
 #### § 31 Ladung zu den Prüfungsterminen
@@ -995,44 +1021,35 @@ erfolgen.
 
 #### § 32 Inhalt des Ersten Abschnitts der Zahnärztlichen Prüfung
 
-(1) Der Erste Abschnitt der Zahnärztlichen Prüfung umfasst die
-folgenden Fächer:
+(1) Der Erste Abschnitt der Zahnärztlichen Prüfung umfasst:
 
-1.  Physik,
-
-
-2.  Chemie,
+1.  die Fächergruppe Biochemie und Molekularbiologie, Chemie,
 
 
-3.  Biologie,
+2.  die Fächergruppe Mikroskopische und makroskopische Anatomie, Biologie,
 
 
-4.  Biochemie und Molekularbiologie,
+3.  die Fächergruppe Physiologie, Physik und
 
 
-5.  Mikroskopische und makroskopische Anatomie,
-
-
-6.  Physiologie und
-
-
-7.  Zahnmedizinische Propädeutik.
+4.  das Fach Zahnmedizinische Propädeutik.
 
 
 
 
 (2) Im Ersten Abschnitt der Zahnärztlichen Prüfung hat der oder die
 Studierende nachzuweisen, dass er oder sie sich mit dem
-Ausbildungsstoff der Fächer nach Absatz 1 vertraut gemacht hat,
-insbesondere
+Ausbildungsstoff der Fächergruppen und des Faches Zahnmedizinische
+Propädeutik nach Absatz 1 vertraut gemacht hat, insbesondere
 
-1.  die Grundsätze und Grundlagen des Faches, das Gegenstand der Prüfung
-    ist, beherrscht,
+1.  die Grundsätze und Grundlagen der Fächergruppen und des Faches
+    Zahnmedizinische Propädeutik beherrscht,
 
 
-2.  in der Lage ist, die Bedeutung der Grundsätze und Grundlagen dieses
-    Faches für zahnmedizinische, insbesondere klinische, Zusammenhänge zu
-    erfassen sowie
+2.  in der Lage ist, die Bedeutung der Grundsätze und Grundlagen der
+    Fächergruppen und des Faches Zahnmedizinische Propädeutik für
+    zahnmedizinische, insbesondere klinische, Zusammenhänge zu erfassen
+    sowie
 
 
 3.  die für die Fortsetzung des Studiums notwendigen Kenntnisse und
@@ -1041,21 +1058,25 @@ insbesondere
 
 
 
-(3) Der oder die Studierende wird in jedem Fach des Ersten Abschnitts
-der Zahnärztlichen Prüfung geprüft. Die Prüfung wird in Form eines
+(3) Der oder die Studierende wird in jeder Fächergruppe und in dem
+Fach Zahnmedizinische Propädeutik des Ersten Abschnitts der
+Zahnärztlichen Prüfung geprüft. Die Prüfung wird in Form eines
 Prüfungsgesprächs durchgeführt.
 
-(4) In jedem Fach findet ein gesondertes Prüfungsgespräch statt. An
-einem Tag sollen nicht mehr als zwei Prüfungsgespräche stattfinden.
-Die Prüfungsgespräche finden in der Regel an aufeinanderfolgenden
-Werktagen statt.
+(4) In den Fächergruppen und in dem Fach Zahnmedizinische Propädeutik
+finden jeweils gesonderte Prüfungsgespräche statt. An einem Tag sollen
+nicht mehr als zwei Prüfungsgespräche stattfinden. Die
+Prüfungsgespräche finden für jeden Studierenden und jede Studierende
+in einem engen zeitlichen Zusammenhang von höchstens vier Wochen
+statt.
 
-(5) Jedes Prüfungsgespräch soll mindestens 30 und höchstens 45 Minuten
+(5) Jedes Prüfungsgespräch soll mindestens 20 und höchstens 30 Minuten
 je Studierendem oder je Studierender dauern.
 
 (6) Die in den Prüfungsgesprächen gestellten Fragen sollen sich auf
-die Grundlagen des jeweiligen Faches und deren Bedeutung für die
-klinisch-zahnmedizinischen Zusammenhänge beziehen.
+die Grundlagen der jeweiligen Fächergruppe oder des Faches
+Zahnmedizinische Propädeutik und deren Bedeutung für die klinisch-
+zahnmedizinischen Zusammenhänge beziehen.
 
 
 #### § 33 Prüfungskommission
@@ -1066,21 +1087,22 @@ Prüfungskommission abgelegt.
 (2) Die nach § 18 zuständige Stelle bestellt die Prüfungskommission.
 
 (3) Die Prüfungskommission besteht aus der vorsitzenden Person und
-weiteren Mitgliedern. Dabei ist für jedes Fach eine andere prüfende
-Person zu bestellen. Für die vorsitzende Person und die weiteren
-Mitglieder ist jeweils eine stellvertretende Person zu bestellen. Als
-weitere Mitglieder und als deren stellvertretende Personen werden
-Hochschullehrer oder Hochschullehrerinnen oder andere Lehrkräfte der
-Fächer bestellt, die Gegenstand der Prüfung sind. Die der
-Prüfungskommission vorsitzende Person sowie deren stellvertretende
-Person müssen Hochschullehrer oder Hochschullehrerinnen sein.
+weiteren Mitgliedern. Dabei ist für jede Fächergruppe und das Fach
+Zahnmedizinische Propädeutik eine andere prüfende Person zu bestellen.
+Für die vorsitzende Person und die weiteren Mitglieder ist jeweils
+eine stellvertretende Person zu bestellen. Als weitere Mitglieder und
+als deren stellvertretende Personen werden Hochschullehrer oder
+Hochschullehrerinnen oder andere Lehrkräfte der Fächer bestellt, die
+Gegenstand der Prüfung sind. Die der Prüfungskommission vorsitzende
+Person sowie deren stellvertretende Person müssen Hochschullehrer oder
+Hochschullehrerinnen sein.
 
-(4) In den Prüfungsterminen ist nur die jeweils in dem Fach prüfende
-Person anwesend.
+(4) In den Prüfungsterminen ist die jeweils prüfende Person anwesend.
 
 (5) Die der Prüfungskommission vorsitzende Person leitet die mündliche
-Prüfung und kann selbst prüfen. Sie ist berechtigt, der Prüfung in
-allen Fächern beizuwohnen.
+Prüfung und kann selbst prüfen. Sie ist berechtigt, der Prüfung in den
+Fächergruppen und in dem Fach Zahnmedizinische Propädeutik
+beizuwohnen.
 
 
 #### § 34 Durchführung
@@ -1090,8 +1112,12 @@ geprüft werden.
 
 (2) Die nach § 18 zuständige Stelle bestimmt für jedes
 Prüfungsgespräch eine beisitzende Person. Die beisitzende Person muss
-über ein abgeschlossenes Hochschulstudium der Zahnmedizin oder über
-ein abgeschlossenes, der Zahnmedizin verwandtes Hochschulstudium
+über ein abgeschlossenes Hochschulstudium der Zahnmedizin, über ein
+abgeschlossenes, der Zahnmedizin verwandtes Hochschulstudium, über ein
+abgeschlossenes Hochschulstudium des Faches Zahnmedizinische
+Propädeutik oder eines Faches der jeweiligen Fächergruppe oder über
+ein abgeschlossenes Hochschulstudium, das dem Fach Zahnmedizinische
+Propädeutik oder einem Fach der jeweiligen Fächergruppe verwandt ist,
 verfügen. Sie prüft selbst nicht und fertigt die Niederschrift an.
 
 (3) Über den Verlauf des Prüfungsgesprächs ist für jeden Studierenden
@@ -1104,13 +1130,10 @@ anzufertigen. Aus der Niederschrift muss Folgendes ersichtlich sein:
 2.  der Verlauf der Prüfung,
 
 
-3.  das Prüfungsergebnis,
+3.  das Prüfungsergebnis und
 
 
-4.  die tragenden Gründe des Prüfungsergebnisses und
-
-
-5.  schwere Unregelmäßigkeiten, sofern diese vorgekommen sind.
+4.  schwere Unregelmäßigkeiten, sofern diese vorgekommen sind.
 
 
 
@@ -1148,8 +1171,9 @@ Bekanntgabe des Prüfungsergebnisses darf nicht übertragen werden.
 
 (1) Die prüfenden Personen bewerten die Leistungen im Ersten Abschnitt
 der Zahnärztlichen Prüfung anhand von strukturierten Bewertungsbögen
-mit einer vorgegebenen Musterlösung, die die prüfende Person in
-Abstimmung mit der Prüfungskommission zuvor festgelegt hat.
+mit einer vorgegebenen Musterlösung, die die prüfenden Personen der
+jeweiligen Fächergruppe oder des Faches Zahnmedizinische Propädeutik
+zuvor festgelegt haben.
 
 (2) Die Leistungen sind wie folgt zu bewerten:
 
@@ -1175,15 +1199,17 @@ Abstimmung mit der Prüfungskommission zuvor festgelegt hat.
 
 
 (3) Jede prüfende Person erteilt für die Leistung des oder der
-Studierenden in dem von ihr geprüften Fach eine Note.
+Studierenden in der von ihr geprüften Fächergruppe oder in dem von ihr
+geprüften Fach Zahnmedizinische Propädeutik eine Note.
 
 (4) Jede prüfende Person gibt die Note dem oder der Studierenden
 bekannt und begründet die Note auf Wunsch des oder der Studierenden.
+Die Bekanntgabe kann auch elektronisch erfolgen.
 
 (5) Jede prüfende Person teilt die Note der der Prüfungskommission
-vorsitzenden Person unverzüglich schriftlich mit. In dieser Mitteilung
-ist die Bewertung einer Leistung mit „nicht ausreichend“ kurz zu
-begründen.
+vorsitzenden Person unverzüglich mit. Die Mitteilung erfolgt
+schriftlich oder elektronisch. In dieser Mitteilung ist die Bewertung
+einer Leistung mit „nicht ausreichend“ kurz zu begründen.
 
 (6) Die Noten dürfen den übrigen prüfenden Personen nicht zugänglich
 gemacht werden.
@@ -1191,40 +1217,38 @@ gemacht werden.
 
 #### § 37 Bestehen
 
-(1) Der Erste Abschnitt der Zahnärztlichen Prüfung ist bestanden, wenn
-die Note in jedem Fach mindestens „ausreichend“ lautet.
-
-(2) Der Erste Abschnitt der Zahnärztlichen Prüfung wird nicht
-fortgesetzt, sobald feststeht, dass die mündliche Prüfung in zwei
-Fächern nicht bestanden ist.
+Der Erste Abschnitt der Zahnärztlichen Prüfung ist bestanden, wenn die
+Note in jeder Fächergruppe und in dem Fach Zahnmedizinische
+Propädeutik mindestens „ausreichend“ lautet.
 
 
 #### § 38 Wiederholung
 
-(1) Wird die mündliche Prüfung nur in einem Fach nicht bestanden, muss
-sie in diesem Fach wiederholt werden. Die mündliche Prüfung darf in
-diesem Fach zweimal wiederholt werden. Wird die mündliche Prüfung in
-mehr als einem Fach nicht bestanden, muss der Erste Abschnitt der
-Zahnärztlichen Prüfung insgesamt wiederholt werden.
+(1) Wird die mündliche Prüfung in einer Fächergruppe oder in dem Fach
+Zahnmedizinische Propädeutik nicht bestanden, darf sie in dieser
+Fächergruppe oder in dem Fach Zahnmedizinische Propädeutik jeweils
+zweimal wiederholt werden. Eine weitere Wiederholung ist auch nach
+erneutem Studium der Zahnmedizin nicht zulässig.
 
-(2) Der Erste Abschnitt der Zahnärztlichen Prüfung kann zweimal
-wiederholt werden. Eine weitere Wiederholung ist auch nach erneutem
-Studium der Zahnmedizin nicht zulässig.
+(2) Für Wiederholungen können Prüfungstermine auch außerhalb der in §
+30 Absatz 1 Satz 1 genannten Prüfungszeit vorgesehen werden.
 
-(3) Für Wiederholungen können Prüfungstermine auch außerhalb der in §
-30 Absatz 1 genannten Prüfungszeit vorgesehen werden.
+(3) Die nach § 18 zuständige Stelle hat den Studierenden oder die
+Studierende zur Wiederholung der mündlichen Prüfung in einer
+Fächergruppe oder in dem Fach Zahnmedizinische Propädeutik zum
+nächsten Prüfungstermin von Amts wegen zu laden.
 
-(4) Die nach § 18 zuständige Stelle hat den Studierenden oder die
-Studierende zur Wiederholung der mündlichen Prüfung in einem Fach oder
-zur Wiederholung des gesamten Ersten Abschnitts der Zahnärztlichen
-Prüfung zum nächsten Prüfungstermin von Amts wegen zu laden.
+(4) Wird der Erste Abschnitt der Zahnärztlichen Prüfung endgültig
+nicht bestanden, ist eine Wiederholung auch nach erneutem Studium der
+Zahnmedizin nicht zulässig.
 
 (5) Wurde der Erste Abschnitt der Zahnärztlichen Prüfung oder die
-mündliche Prüfung in einem Fach bestanden, darf dieser oder diese
-außer in den Fällen des Absatzes 1 Satz 3 nicht wiederholt werden.
-Eine Wiederholung des Ersten Abschnitts der Zahnärztlichen Prüfung
-oder der mündlichen Prüfung in einem Fach ist auch im Rahmen eines
-erneuten Studiums der Zahnmedizin nicht möglich.
+mündliche Prüfung in einer Fächergruppe oder in dem Fach
+Zahnmedizinische Propädeutik bestanden, darf dieser oder diese nicht
+wiederholt werden. Eine Wiederholung des bestandenen Ersten Abschnitts
+der Zahnärztlichen Prüfung oder der bestandenen mündlichen Prüfung in
+einer Fächergruppe oder in dem Fach Zahnmedizinische Propädeutik ist
+auch im Rahmen eines erneuten Studiums der Zahnmedizin nicht möglich.
 
 
 #### § 39 Note für den Ersten Abschnitt der Zahnärztlichen Prüfung
@@ -1233,9 +1257,10 @@ erneuten Studiums der Zahnmedizin nicht möglich.
 ermittelt die der Prüfungskommission vorsitzende Person die Note für
 den Ersten Abschnitt der Zahnärztlichen Prüfung.
 
-(2) Die Zahlenwerte der Noten für die Fächer werden addiert und durch
-sieben geteilt. Die Note wird bis auf die erste Stelle hinter dem
-Komma ohne Rundung errechnet.
+(2) Die Zahlenwerte der Noten für die Fächergruppen und das Fach
+Zahnmedizinische Propädeutik werden addiert und durch vier geteilt.
+Die Note wird bis auf die erste Stelle hinter dem Komma ohne Rundung
+errechnet.
 
 (3) Die Note lautet
 
@@ -1269,8 +1294,17 @@ Komma ohne Rundung errechnet.
 
 
 
+(3a) Sofern die mündliche Prüfung gemäß § 29 Absatz 2 nur im Fach
+Zahnmedizinische Propädeutik abgelegt worden ist, wird keine Note nach
+Absatz 2 gebildet. An Stelle einer Note für den Ersten Abschnitt der
+Zahnärztlichen Prüfung sind in dem Zeugnis nach dem Muster der Anlage
+16 die Note des Ersten Abschnitts der Ärztlichen Prüfung oder das
+Überprüfungsergebnis für die erste Studienphase des Modellstudiengangs
+Medizin aufzuführen.
+
 (4) Die der Prüfungskommission vorsitzende Person übermittelt die Note
-an die nach § 18 zuständige Stelle.
+an die nach § 18 zuständige Stelle. Die Übermittlung erfolgt
+schriftlich oder elektronisch.
 
 
 #### § 40 Zeugnis
@@ -1283,10 +1317,10 @@ Anlage 16.
 #### § 41 Mitteilung bei endgültigem Nichtbestehen der Prüfung
 
 (1) Die zuständigen Stellen der Länder unterrichten den Studierenden
-oder die Studierende und die zuständigen Stellen der anderen Länder
-schriftlich, wenn der Erste Abschnitt der Zahnärztlichen Prüfung
-endgültig nicht bestanden worden ist und nicht mehr wiederholt werden
-kann.
+oder die Studierende und die zuständigen Stellen der anderen Länder,
+wenn der Erste Abschnitt der Zahnärztlichen Prüfung endgültig nicht
+bestanden worden ist und nicht mehr wiederholt werden kann. Die
+Mitteilung erfolgt schriftlich oder elektronisch.
 
 (2) Die Mitteilung an den Studierenden oder die Studierende hat den
 Hinweis zu enthalten, dass er oder sie auch nach einem erneuten
@@ -1314,12 +1348,16 @@ und einem mündlichen Prüfungselement.
 #### § 44 Prüfungstermine
 
 (1) Der Zweite Abschnitt der Zahnärztlichen Prüfung findet in der
-vorlesungsfreien Zeit in einem Zeitraum von zwei Wochen statt.
-Nachholtermine können auch zu einer anderen Zeit vorgesehen werden.
+vorlesungsfreien Zeit statt. Nachholtermine können auch zu einer
+anderen Zeit vorgesehen werden.
 
 (2) Die nach § 18 zuständige Stelle legt die Termine für die
-Prüfungselemente in den einzelnen Fächern im Einvernehmen mit der
-Universität fest.
+Prüfungselemente in den einzelnen Fächern und der Fächergruppe
+Zahnerhaltung im Einvernehmen mit der Universität fest.
+
+(3) Die mündlich-praktische Prüfung soll für jeden Studierenden und
+jede Studierende innerhalb eines Zeitraums von vier Wochen
+stattfinden.
 
 
 #### § 45 Ladung zu den Prüfungsterminen
@@ -1482,25 +1520,35 @@ Techniken nachzuweisen:
 
 
 
-Ein Prüfungstag dauert in der Regel acht Stunden.
+Ein Prüfungstag dauert in der Regel acht Stunden. Von Satz 2 kann
+abgewichen werden, wenn der oder die Studierende den Nachweis der
+praktischen Fertigkeiten nach Absatz 2 bis 5 bereits in einer kürzeren
+Zeit erbringen konnte.
 
 
 #### § 48 Mündliches Prüfungselement
 
 (1) Im mündlichen Prüfungselement wird der oder die Studierende in
-jedem Fach des Zweiten Abschnitts der Zahnärztlichen Prüfung geprüft.
-Die Prüfung wird in Form eines Prüfungsgesprächs durchgeführt.
+jedem Fach und in der Fächergruppe Zahnerhaltung des Zweiten
+Abschnitts der Zahnärztlichen Prüfung geprüft. Die Prüfung wird in
+Form eines Prüfungsgesprächs durchgeführt.
 
-(2) Das jeweilige Prüfungsgespräch findet an dem Tag oder an einem der
-Tage statt, an dem das praktische Prüfungselement in dem jeweiligen
-Fach durchgeführt wird.
+(2) Das Prüfungsgespräch in einem Fach oder in der Fächergruppe
+Zahnerhaltung soll an einem der auf die Durchführung des praktischen
+Prüfungselements in dem jeweiligen Fach oder in der Fächergruppe
+Zahnerhaltung folgenden drei Werktage stattfinden. In dem Fach
+Oralchirurgie und Mund-, Kiefer- und Gesichtschirurgie soll das
+Prüfungsgespräch an dem Tag, an dem das praktische Prüfungselement
+durchgeführt wird oder an einem der darauffolgenden drei Werktage
+stattfinden.
 
-(3) Jedes Prüfungsgespräch soll mindestens 30 und höchstens 45 Minuten
+(3) Jedes Prüfungsgespräch soll mindestens 20 und höchstens 30 Minuten
 je Studierendem oder je Studierender dauern.
 
 (4) Die in den Prüfungsgesprächen gestellten Fragen sollen sich auf
-die Grundlagen des jeweiligen Faches und deren Bedeutung für die
-klinisch-zahnmedizinischen Zusammenhänge beziehen.
+die Grundlagen des jeweiligen Faches oder der Fächergruppe
+Zahnerhaltung und deren Bedeutung für die klinisch-zahnmedizinischen
+Zusammenhänge beziehen.
 
 
 #### § 49 Prüfungskommission
@@ -1511,27 +1559,34 @@ Prüfungskommission abgelegt.
 (2) Die nach § 18 zuständige Stelle bestellt die Prüfungskommission.
 
 (3) Die Prüfungskommission besteht aus der vorsitzenden Person und
-weiteren Mitgliedern. Dabei ist für jedes Fach eine andere prüfende
-Person zu bestellen. Für die vorsitzende Person und die weiteren
-Mitglieder ist jeweils eine stellvertretende Person zu bestellen. Die
-der Prüfungskommission vorsitzende Person sowie deren stellvertretende
-Person müssen Hochschullehrer oder Hochschullehrerinnen sein. Als
-weitere Mitglieder und als deren stellvertretende Personen werden
-Hochschullehrer oder Hochschullehrerinnen oder andere Lehrkräfte der
-Fächer, die Gegenstand der Prüfung sind, bestellt. Als weitere
-Mitglieder und als deren stellvertretende Personen können auch dem
-Lehrkörper einer Universität nicht angehörende approbierte Zahnärzte
-oder Zahnärztinnen bestellt werden. Für die Fächer der Fächergruppe
-Zahnerhaltung kann dieselbe prüfende Person bestellt werden, wenn
-nicht für jedes Fach eine Person zur Verfügung steht, die die
-Anforderungen der Sätze 4 bis 6 erfüllt.
+weiteren Mitgliedern. Dabei ist im praktischen Prüfungselement für
+jedes Fach eine andere prüfende Person zu bestellen. Im mündlichen
+Prüfungselement ist für jedes Fach und für die Fächergruppe
+Zahnerhaltung eine andere prüfende Person zu bestellen. Für die
+vorsitzende Person und die weiteren Mitglieder ist jeweils eine
+stellvertretende Person zu bestellen. Die der Prüfungskommission
+vorsitzende Person sowie deren stellvertretende Person müssen
+Hochschullehrer oder Hochschullehrerinnen sein. Als weitere Mitglieder
+und als deren stellvertretende Personen werden Hochschullehrer oder
+Hochschullehrerinnen oder andere Lehrkräfte der Fächer, die Gegenstand
+der Prüfung sind, bestellt. Als weitere Mitglieder und als deren
+stellvertretende Personen können auch dem Lehrkörper einer Universität
+nicht angehörende approbierte Zahnärzte oder Zahnärztinnen bestellt
+werden. Für die Fächer der Fächergruppe Zahnerhaltung kann im
+praktischen Prüfungselement dieselbe prüfende Person bestellt werden,
+wenn nicht für jedes Fach eine Person zur Verfügung steht, die die
+Anforderungen der Sätze 5 bis 7 erfüllt.
 
-(4) In den Prüfungsterminen ist nur die jeweils in dem Fach prüfende
-Person anwesend.
+(4) In den Prüfungsterminen ist die jeweils in dem Fach oder in der
+Fächergruppe Zahnerhaltung prüfende Person anwesend. Während des
+praktischen Prüfungselements gilt die Anwesenheitspflicht der
+prüfenden Person nur, soweit die Anwesenheit der prüfenden Person für
+die Bewertung der Leistung erforderlich ist.
 
 (5) Die der Prüfungskommission vorsitzende Person leitet die mündlich-
 praktische Prüfung und kann selbst prüfen. Sie ist berechtigt, der
-Prüfung in allen Fächern beizuwohnen.
+Prüfung in allen Fächern und in der Fächergruppe Zahnerhaltung
+beizuwohnen.
 
 
 #### § 50 Durchführung
@@ -1546,9 +1601,13 @@ mehr als vier Studierende geprüft werden.
 (3) Für das mündliche Prüfungselement des Zweiten Abschnitts der
 Zahnärztlichen Prüfung bestimmt die nach § 18 zuständige Stelle für
 jedes Prüfungsgespräch eine beisitzende Person. Die beisitzende Person
-muss über ein abgeschlossenes Hochschulstudium der Zahnmedizin oder
-über ein abgeschlossenes, der Zahnmedizin verwandtes Hochschulstudium
-verfügen. Sie prüft selbst nicht und fertigt die Niederschrift an.
+muss über ein abgeschlossenes Hochschulstudium der Zahnmedizin, über
+ein abgeschlossenes, der Zahnmedizin verwandtes Hochschulstudium, über
+ein abgeschlossenes Hochschulstudium des jeweiligen Faches oder eines
+Faches der Fächergruppe Zahnerhaltung oder über ein abgeschlossenes
+Hochschulstudium, das dem jeweiligen Fach oder einem Fach der
+Fächergruppe Zahnerhaltung verwandt ist, verfügen. Sie prüft selbst
+nicht und fertigt die Niederschrift an.
 
 (4) Über den Verlauf des Prüfungsgesprächs ist für jeden Studierenden
 und jede Studierende eine Niederschrift nach dem Muster der Anlage 14
@@ -1598,65 +1657,134 @@ Bekanntgabe des Prüfungsergebnisses darf nicht übertragen werden.
 
 (1) Die prüfenden Personen bewerten die Leistungen im Zweiten
 Abschnitt der Zahnärztlichen Prüfung anhand von strukturierten
-Bewertungsbögen mit einer vorgegebenen Musterlösung, die die prüfende
-Person in Abstimmung mit der Prüfungskommission zuvor festgelegt hat.
-Die Leistungen sind nach § 36 Absatz 2 zu bewerten.
+Bewertungsbögen mit einer vorgegebenen Musterlösung, die die prüfenden
+Personen des jeweiligen Faches oder der Fächergruppe Zahnerhaltung
+zuvor festgelegt haben.
 
-(2) Jede prüfende Person erteilt für die Leistung des oder der
-Studierenden in dem von ihr geprüften Fach eine Note. In die Note
-gehen die Leistung für das praktische Prüfungselement und die Leistung
-für das mündliche Prüfungselement zu gleichen Teilen ein.
+(2) In den Fächern nach § 46 Absatz 2 Nummer 1 bis 3 bewertet jede
+prüfende Person die Leistung des oder der Studierenden in dem
+jeweiligen Prüfungselement nach § 36 Absatz 2 und vergibt jeweils eine
+Note. Die prüfende Person teilt die Noten für das jeweilige
+Prüfungselement der der Prüfungskommission vorsitzenden Person
+unverzüglich mit. Die Mitteilung erfolgt schriftlich oder
+elektronisch. In der Mitteilung ist die Bewertung einer Leistung mit
+„nicht ausreichend“ kurz zu begründen.
 
-(3) Jede prüfende Person gibt die Note dem oder der Studierenden
-bekannt und begründet die Note auf Wunsch des oder der Studierenden.
+(3) In der Fächergruppe Zahnerhaltung bewertet jede prüfende Person
+die Leistung des oder der Studierenden im praktischen Prüfungselement
+in dem von ihr geprüften Fach nach § 36 Absatz 2 und vergibt jeweils
+eine Note. Im mündlichen Prüfungselement der Fächergruppe
+Zahnerhaltung bewertet die prüfende Person die Leistung des oder der
+Studierenden nach § 36 Absatz 2 und vergibt eine Note. Die prüfenden
+Personen teilen die von ihnen vergebenen Noten unverzüglich der der
+Prüfungskommission vorsitzenden Person mit. Die Mitteilung erfolgt
+schriftlich oder elektronisch. In der Mitteilung ist die Bewertung
+einer Leistung mit „nicht ausreichend“ kurz zu begründen.
 
-(4) Jede prüfende Person teilt die Note der der Prüfungskommission
-vorsitzenden Person unverzüglich schriftlich mit. In dieser Mitteilung
-ist die Bewertung einer Leistung mit „nicht ausreichend“ kurz zu
-begründen.
+(4) In die Note eines Faches oder der Fächergruppe Zahnerhaltung gehen
+die Bewertungen der Leistung für das praktische Prüfungselement und
+der Leistung für das mündliche Prüfungselement zu gleichen Teilen ein.
+Zur Errechnung der Note des praktischen Prüfungselementes der
+Fächergruppe Zahnerhaltung addiert die der Prüfungskommission
+vorsitzende Person die in den einzelnen Fächern vergebenen Zahlenwerte
+der Noten und teilt diese durch vier. Die der Prüfungskommission
+vorsitzende Person addiert die Zahlenwerte der Noten des praktischen
+Prüfungselements und des mündlichen Prüfungselements in dem jeweiligen
+Fach oder in der Fächergruppe Zahnerhaltung und teilt diese jeweils
+durch zwei.
 
-(5) Die Noten dürfen den übrigen prüfenden Personen nicht zugänglich
+(5) Die Note des Faches oder der Fächergruppe Zahnerhaltung lautet
+
+*    *   1.
+
+    *   „sehr gut“
+
+    *   bei einem Zahlenwert bis 1,50,
+
+
+*    *   2.
+
+    *   „gut“
+
+    *   bei einem Zahlenwert von über 1,50 bis 2,50,
+
+
+*    *   3.
+
+    *   „befriedigend“
+
+    *   bei einem Zahlenwert von über 2,50 bis 3,50,
+
+
+*    *   4.
+
+    *   „ausreichend“
+
+    *   bei einem Zahlenwert von über 3,50 bis 4,00,
+
+
+*    *   5.
+
+    *   „nicht ausreichend“
+
+    *   bei einem Zahlenwert von über 4,00 bis 5,00.
+
+
+
+
+(6) Jede prüfende Person gibt die Note nach Absatz 2 Satz 1 und Absatz
+3 Satz 1 und 2 dem oder der Studierenden bekannt und begründet diese
+auf Wunsch des oder der Studierenden. Die Bekanntgabe kann auch
+elektronisch erfolgen.
+
+(7) Die Noten dürfen den übrigen prüfenden Personen nicht zugänglich
 gemacht werden.
 
 
 #### § 53 Bestehen
 
 (1) Der Zweite Abschnitt der Zahnärztlichen Prüfung ist bestanden,
-wenn die Note in jedem Fach mindestens „ausreichend“ lautet.
+wenn die Note in jedem Fach und in der Fächergruppe Zahnerhaltung
+mindestens „ausreichend“ lautet.
 
-(2) Der Zweite Abschnitt der Zahnärztlichen Prüfung wird nicht
-fortgesetzt, sobald feststeht, dass die mündlich-praktische Prüfung in
-zwei Fächern nicht bestanden ist.
+(2) Ein Fach oder die Fächergruppe Zahnerhaltung der mündlich-
+praktischen Prüfung ist bestanden, wenn die Bewertung der Leistung für
+das mündliche Prüfungselement und der Leistung für das praktische
+Prüfungselement jeweils mindestens „ausreichend“ lautet.
+
+(3) Das praktische Prüfungselement in der Fächergruppe Zahnerhaltung
+ist bestanden, wenn die Bewertung der Leistung für das praktische
+Prüfungselement in den vier Fächern der Fächergruppe Zahnerhaltung
+jeweils mindestens „ausreichend“ lautet.
 
 
 #### § 54 Wiederholung
 
-(1) Wird die mündlich-praktische Prüfung nur in einem Fach nicht
-bestanden, muss sie in diesem Fach wiederholt werden. Die mündlich-
-praktische Prüfung darf in diesem Fach zweimal wiederholt werden. Wird
-die mündlich-praktische Prüfung in mehr als einem Fach nicht
-bestanden, muss der Zweite Abschnitt der Zahnärztlichen Prüfung
-insgesamt wiederholt werden.
+(1) Wird die mündlich-praktische Prüfung in einem Fach oder in der
+Fächergruppe Zahnerhaltung nicht bestanden, darf sie in diesem Fach
+oder in der Fächergruppe Zahnerhaltung jeweils zweimal wiederholt
+werden. Eine weitere Wiederholung ist auch nach erneutem Studium der
+Zahnmedizin nicht zulässig.
 
-(2) Der Zweite Abschnitt der Zahnärztlichen Prüfung kann zweimal
-wiederholt werden. Eine weitere Wiederholung ist auch nach erneutem
+(2) Für Wiederholungen können Prüfungstermine auch außerhalb der in §
+44 Absatz 1 Satz 1 genannten Prüfungszeit vorgesehen werden.
+
+(3) Die nach § 18 zuständige Stelle hat den Studierenden oder die
+Studierende zur Wiederholung der mündlich-praktischen Prüfung in einem
+Fach oder in der Fächergruppe Zahnerhaltung zum nächsten
+Prüfungstermin von Amts wegen zu laden.
+
+(4) Wird der Zweite Abschnitt der Zahnärztlichen Prüfung endgültig
+nicht bestanden, ist eine weitere Wiederholung auch nach erneutem
 Studium der Zahnmedizin nicht zulässig.
 
-(3) Für Wiederholungen können Prüfungstermine auch außerhalb der in §
-44 Absatz 1 genannten Prüfungszeit vorgesehen werden.
-
-(4) Die nach § 18 zuständige Stelle hat den Studierenden oder die
-Studierende zur Wiederholung der mündlich-praktischen Prüfung in einem
-Fach oder zur Wiederholung des gesamten Zweiten Abschnitts der
-Zahnärztlichen Prüfung zum nächsten Prüfungstermin von Amts wegen zu
-laden.
-
 (5) Wurde der Zweite Abschnitt der Zahnärztlichen Prüfung oder die
-mündlich-praktische Prüfung in einem Fach bestanden, darf dieser oder
-diese außer in den Fällen des Absatzes 1 Satz 3 nicht wiederholt
+mündlich-praktische Prüfung in einem Fach oder in der Fächergruppe
+Zahnerhaltung bestanden, darf dieser oder diese nicht wiederholt
 werden. Eine Wiederholung des Zweiten Abschnitts der Zahnärztlichen
-Prüfung oder der mündlich-praktischen Prüfung in einem Fach ist auch
-im Rahmen eines erneuten Studiums der Zahnmedizin nicht möglich.
+Prüfung oder der mündlich-praktischen Prüfung in einem Fach oder in
+der Fächergruppe Zahnerhaltung ist auch im Rahmen eines erneuten
+Studiums der Zahnmedizin nicht möglich.
 
 
 #### § 55 Note für den Zweiten Abschnitt der Zahnärztlichen Prüfung
@@ -1665,13 +1793,12 @@ im Rahmen eines erneuten Studiums der Zahnmedizin nicht möglich.
 ermittelt die der Prüfungskommission vorsitzende Person die Note für
 den Zweiten Abschnitt der Zahnärztlichen Prüfung.
 
-(2) In der Fächergruppe Zahnerhaltung werden die Zahlenwerte der Noten
-für die einzelnen Fächer addiert und die Summe wird durch vier
-geteilt. Die nach Satz 1 gebildete Note wird nicht gerundet.
+(2) (weggefallen)
 
-(3) Die mit zwei vervielfachten Zahlenwerte der Noten im Fach
-Zahnärztliche Prothetik und in der Fächergruppe Zahnerhaltung und die
-Zahlenwerte der Noten in den übrigen Fächern werden addiert und durch
+(3) Die mit zwei vervielfachten Zahlenwerte der nach § 52 Absatz 4 und
+5 gebildeten Noten im Fach Zahnärztliche Prothetik und in der
+Fächergruppe Zahnerhaltung und die Zahlenwerte der nach § 52 Absatz 4
+und 5 gebildeten Noten in den übrigen Fächern werden addiert und durch
 sechs geteilt. Die Note wird bis auf die zweite Stelle hinter dem
 Komma ohne Rundung errechnet.
 
@@ -1708,7 +1835,8 @@ Komma ohne Rundung errechnet.
 
 
 (5) Die der Prüfungskommission vorsitzende Person übermittelt die Note
-an die nach § 18 zuständige Stelle.
+an die nach § 18 zuständige Stelle. Die Übermittlung erfolgt
+schriftlich oder elektronisch.
 
 
 #### § 56 Zeugnis
@@ -1721,10 +1849,10 @@ Anlage 17.
 #### § 57 Mitteilung bei endgültigem Nichtbestehen der Prüfung
 
 (1) Die zuständigen Stellen der Länder unterrichten den Studierenden
-oder die Studierende und die zuständigen Stellen der anderen Länder
-schriftlich, wenn der Zweite Abschnitt der Zahnärztlichen Prüfung
-endgültig nicht bestanden worden ist und nicht mehr wiederholt werden
-kann.
+oder die Studierende und die zuständigen Stellen der anderen Länder,
+wenn der Zweite Abschnitt der Zahnärztlichen Prüfung endgültig nicht
+bestanden worden ist und nicht mehr wiederholt werden kann. Die
+Mitteilung erfolgt schriftlich oder elektronisch.
 
 (2) Die Mitteilung an den Studierenden oder die Studierende hat den
 Hinweis zu enthalten, dass er oder sie auch nach einem erneuten
@@ -1987,22 +2115,28 @@ Fähigkeiten und Fertigkeiten nachweisen
 
 
 
-Ein Prüfungstag dauert in der Regel acht Stunden.
+Ein Prüfungstag dauert in der Regel acht Stunden. Von Satz 2 kann
+abgewichen werden, wenn der oder die Studierende den Nachweis der
+Kenntnisse, Fähigkeiten und Fertigkeiten nach Absatz 2 bis 8 bereits
+in einer kürzeren Zeit erbringen konnte.
 
 
 #### § 65 Mündliches Prüfungselement
 
 (1) Im mündlichen Prüfungselement wird der oder die Studierende in
-jedem Fach des mündlich-praktischen Teils des Dritten Abschnitts der
-Zahnärztlichen Prüfung geprüft. Die Prüfung wird in Form eines
-Prüfungsgesprächs durchgeführt.
+jedem Fach und in der Fächergruppe Zahnerhaltung des mündlich-
+praktischen Teils des Dritten Abschnitts der Zahnärztlichen Prüfung
+geprüft. Die Prüfung wird in Form eines Prüfungsgesprächs
+durchgeführt.
 
-(2) Das jeweilige Prüfungsgespräch findet an einem der Tage statt, an
-dem das praktische Prüfungselement in dem jeweiligen Fach durchgeführt
-wird. Das Prüfungsgespräch im Fach Zahnärztliche Radiologie findet an
-einem weiteren Tag statt.
+(2) Das Prüfungsgespräch in einem Fach oder in der Fächergruppe
+Zahnerhaltung soll an einem der auf die Durchführung des praktischen
+Prüfungselements in dem jeweiligen Fach oder in der Fächergruppe
+Zahnerhaltung folgenden drei Werktage stattfinden. Das
+Prüfungsgespräch im Fach Zahnärztliche Radiologie findet an einem
+weiteren Tag statt.
 
-(3) Jedes Prüfungsgespräch soll mindestens 30 und höchstens 45 Minuten
+(3) Jedes Prüfungsgespräch soll mindestens 20 und höchstens 30 Minuten
 je Studierendem oder je Studierender dauern.
 
 (4) Die in den Prüfungsgesprächen gestellten Fragen sollen fallbezogen
@@ -2024,30 +2158,37 @@ abgelegt.
 (2) Die nach § 18 zuständige Stelle bestellt die Prüfungskommission.
 
 (3) Die Prüfungskommission besteht aus der vorsitzenden Person und
-weiteren Mitgliedern. Dabei ist für jedes Fach eine andere prüfende
-Person zu bestellen. Für die vorsitzende Person und die weiteren
-Mitglieder ist jeweils eine stellvertretende Person zu bestellen. Die
-der Prüfungskommission vorsitzende Person sowie deren stellvertretende
-Person müssen Hochschullehrer oder Hochschullehrerinnen sein. Als
-weitere Mitglieder und als deren stellvertretende Personen werden
-Hochschullehrer oder Hochschullehrerinnen oder andere Lehrkräfte der
-Fächer, die Gegenstand der Prüfung sind, bestellt. Als weitere
-Mitglieder und als deren stellvertretende Personen können auch dem
-Lehrkörper einer Universität nicht angehörende approbierte Zahnärzte
-oder Zahnärztinnen bestellt werden. Für die Fächer Zahn-, Mund- und
-Kieferkrankheiten, Oralchirurgie, Mund-, Kiefer- und Gesichtschirurgie
-und Zahnärztliche Radiologie kann dieselbe prüfende Person bestellt
-werden, wenn nicht für jedes Fach eine Person zur Verfügung steht, die
-die Anforderungen der Sätze 4 bis 6 erfüllt. Für die Fächer der
-Fächergruppe Zahnerhaltung kann dieselbe prüfende Person bestellt
-werden, wenn nicht für jedes Fach eine Person zur Verfügung steht, die
-die Anforderungen der Sätze 4 bis 6 erfüllt. Für die Fächer Zahn-,
-Mund- und Kieferkrankheiten, Oralchirurgie, Mund-, Kiefer- und
-Gesichtschirurgie und Zahnärztliche Radiologie sowie die Fächergruppe
-Zahnerhaltung kann nicht dieselbe prüfende Person bestellt werden.
+weiteren Mitgliedern. Dabei ist im praktischen Prüfungselement für
+jedes Fach eine andere prüfende Person zu bestellen. Im mündlichen
+Prüfungselement ist für jedes Fach und für die Fächergruppe
+Zahnerhaltung eine andere prüfende Person zu bestellen. Für die
+vorsitzende Person und die weiteren Mitglieder ist jeweils eine
+stellvertretende Person zu bestellen. Die der Prüfungskommission
+vorsitzende Person sowie deren stellvertretende Person müssen
+Hochschullehrer oder Hochschullehrerinnen sein. Als weitere Mitglieder
+und als deren stellvertretende Personen werden Hochschullehrer oder
+Hochschullehrerinnen oder andere Lehrkräfte der Fächer, die Gegenstand
+der Prüfung sind, bestellt. Als weitere Mitglieder und als deren
+stellvertretende Personen können auch dem Lehrkörper einer Universität
+nicht angehörende approbierte Zahnärzte oder Zahnärztinnen bestellt
+werden. Für die Fächer Zahn-, Mund- und Kieferkrankheiten,
+Oralchirurgie, Mund-, Kiefer- und Gesichtschirurgie und Zahnärztliche
+Radiologie kann dieselbe prüfende Person bestellt werden, wenn nicht
+für jedes Fach eine Person zur Verfügung steht, die die Anforderungen
+der Sätze 5 bis 7 erfüllt. Für die Fächer der Fächergruppe
+Zahnerhaltung kann im praktischen Prüfungselement dieselbe prüfende
+Person bestellt werden, wenn nicht für jedes Fach eine Person zur
+Verfügung steht, die die Anforderungen der Sätze 5 bis 7 erfüllt. Für
+die Fächer Zahn-, Mund- und Kieferkrankheiten, Oralchirurgie, Mund-,
+Kiefer- und Gesichtschirurgie und Zahnärztliche Radiologie sowie die
+Fächergruppe Zahnerhaltung kann nicht dieselbe prüfende Person
+bestellt werden.
 
-(4) In den Prüfungsterminen ist jeweils nur die in dem Fach prüfende
-Person anwesend.
+(4) In den Prüfungsterminen ist die jeweils in dem Fach oder in der
+Fächergruppe Zahnerhaltung prüfende Person anwesend. Während des
+praktischen Prüfungselements gilt die Anwesenheitspflicht der
+prüfenden Person nur, soweit die Anwesenheit der prüfenden Person für
+die Bewertung der Leistung erforderlich ist.
 
 (5) Die der Prüfungskommission vorsitzende Person leitet den mündlich-
 praktischen Teil und kann selbst prüfen. Sie ist berechtigt, der
@@ -2068,8 +2209,12 @@ mehr als vier Studierende geprüft werden.
 des Dritten Abschnitts der Zahnärztlichen Prüfung bestimmt die nach §
 18 zuständige Stelle für jedes Prüfungsgespräch eine beisitzende
 Person. Die beisitzende Person muss über ein abgeschlossenes
-Hochschulstudium der Zahnmedizin oder über ein abgeschlossenes, der
-Zahnmedizin verwandtes Hochschulstudium verfügen. Sie prüft selbst
+Hochschulstudium der Zahnmedizin, über ein abgeschlossenes, der
+Zahnmedizin verwandtes Hochschulstudium, über ein abgeschlossenes
+Hochschulstudium des jeweiligen Faches oder eines Faches der
+Fächergruppe Zahnerhaltung oder über ein abgeschlossenes
+Hochschulstudium, das dem jeweiligen Fach oder einem Fach der
+Fächergruppe Zahnerhaltung verwandt ist, verfügen. Sie prüft selbst
 nicht und fertigt die Niederschrift an.
 
 (4) Über den Verlauf des Prüfungsgesprächs ist für jeden Studierenden
@@ -2130,37 +2275,110 @@ Bekanntgabe des Prüfungsergebnisses darf nicht übertragen werden.
 (1) Die prüfenden Personen bewerten die Leistungen in dem mündlich-
 praktischen Teil des Dritten Abschnitts der Zahnärztlichen Prüfung
 anhand von strukturierten Bewertungsbögen mit einer vorgegebenen
-Musterlösung, die die prüfende Person in Abstimmung mit der
-Prüfungskommission zuvor festgelegt hat. Die Leistungen sind nach § 36
-Absatz 2 zu bewerten.
+Musterlösung, die die prüfenden Personen des jeweiligen Faches oder
+der Fächergruppe Zahnerhaltung zuvor festgelegt haben.
 
-(2) Jede prüfende Person erteilt für die Leistung des oder der
-Studierenden in dem von ihr geprüften Fach eine Note. In die Note
-gehen die Leistung für das praktische Prüfungselement, sofern ein
-solches nach § 64 vorgesehen ist, und die Leistung für das mündliche
-Prüfungselement zu gleichen Teilen ein.
+(2) In den Fächern nach § 63 Absatz 1 Nummer 1 bis 6 bewertet jede
+prüfende Person die Leistung des oder der Studierenden in dem
+jeweiligen Prüfungselement nach § 36 Absatz 2 und vergibt jeweils eine
+Note. Die prüfende Person teilt die Noten für das jeweilige
+Prüfungselement der der Prüfungskommission vorsitzenden Person
+unverzüglich mit. Im Fach Zahnärztliche Radiologie wird nur die für
+das mündliche Prüfungselement vergebene Note an die der
+Prüfungskommission vorsitzende Person übermittelt. Die Mitteilung
+erfolgt schriftlich oder elektronisch. In der Mitteilung ist die
+Bewertung einer Leistung mit „nicht ausreichend“ kurz zu begründen.
 
-(3) Jede prüfende Person gibt die Note dem oder der Studierenden
-bekannt und begründet die Note auf Wunsch des oder der Studierenden.
+(3) In der Fächergruppe Zahnerhaltung bewertet jede prüfende Person
+die Leistung des oder der Studierenden im praktischen Prüfungselement
+in dem von ihr geprüften Fach nach § 36 Absatz 2 und vergibt jeweils
+eine Note. Im mündlichen Prüfungselement der Fächergruppe
+Zahnerhaltung bewertet die prüfende Person die Leistung des oder der
+Studierenden nach § 36 Absatz 2 und vergibt eine Note. Die prüfenden
+Personen teilen die von ihnen vergebenen Noten unverzüglich der der
+Prüfungskommission vorsitzenden Person mit. Die Mitteilung erfolgt
+schriftlich oder elektronisch. In der Mitteilung ist die Bewertung
+einer Leistung mit „nicht ausreichend“ kurz zu begründen.
 
-(4) Jede prüfende Person teilt die Note der der Prüfungskommission
-vorsitzenden Person unverzüglich schriftlich mit. In dieser Mitteilung
-ist die Bewertung einer Leistung mit „nicht ausreichend“ kurz zu
-begründen.
+(4) In die Note eines Faches oder der Fächergruppe Zahnerhaltung gehen
+die Bewertungen der Leistung für das praktische Prüfungselement und
+der Leistung für das mündliche Prüfungselement zu gleichen Teilen ein.
+Zur Errechnung der Note des praktischen Prüfungselements der
+Fächergruppe Zahnerhaltung addiert die der Prüfungskommission
+vorsitzende Person die in den einzelnen Fächern vergebenen Zahlenwerte
+der Noten und teilt diese durch vier. Die der Prüfungskommission
+vorsitzende Person addiert die Zahlenwerte der Noten des praktischen
+Prüfungselements und des mündlichen Prüfungselements in dem jeweiligen
+Fach oder in der Fächergruppe Zahnerhaltung und teilt diese jeweils
+durch zwei. Im Fach Zahnärztliche Radiologie entspricht die Note der
+Note für das mündliche Prüfungselement.
 
-(5) Die Noten dürfen den übrigen prüfenden Personen nicht zugänglich
+(5) Die Note des Faches oder der Fächergruppe Zahnerhaltung lautet
+
+*    *   1.
+
+    *   „sehr gut“
+
+    *   bei einem Zahlenwert bis 1,50,
+
+
+*    *   2.
+
+    *   „gut“
+
+    *   bei einem Zahlenwert von über 1,50 bis 2,50,
+
+
+*    *   3.
+
+    *   „befriedigend“
+
+    *   bei einem Zahlenwert von über 2,50 bis 3,50,
+
+
+*    *   4.
+
+    *   „ausreichend“
+
+    *   bei einem Zahlenwert von über 3,50 bis 4,00,
+
+
+*    *   5.
+
+    *   „nicht ausreichend“
+
+    *   bei einem Zahlenwert von über 4,00 bis 5,00.
+
+
+
+
+(6) Jede prüfende Person gibt die Note nach Absatz 2 Satz 1 und Absatz
+3 Satz 1 und 2 dem oder der Studierenden bekannt und begründet diese
+auf Wunsch des oder der Studierenden. Die Bekanntgabe kann auch
+elektronisch erfolgen.
+
+(7) Die Noten dürfen den übrigen prüfenden Personen nicht zugänglich
 gemacht werden.
 
 
 #### § 70 Bestehen des mündlich-praktischen Teils
 
 (1) Der mündlich-praktische Teil des Dritten Abschnitts der
-Zahnärztlichen Prüfung ist bestanden, wenn die Note in jedem Fach
+Zahnärztlichen Prüfung ist bestanden, wenn die Note in jedem Fach und
+in der Fächergruppe Zahnerhaltung mindestens „ausreichend“ lautet.
+
+(2) Ein Fach oder die Fächergruppe Zahnerhaltung des mündlich-
+praktischen Teils ist bestanden, wenn die Bewertungen der Leistung für
+das mündliche Prüfungselement und der Leistung für das praktische
+Prüfungselement jeweils mindestens „ausreichend“ lauten. Der mündlich-
+praktische Teil im Fach Zahnärztliche Radiologie ist bestanden, wenn
+die Bewertung der Leistung für das mündliche Prüfungselement
 mindestens „ausreichend“ lautet.
 
-(2) Der mündlich-praktische Teil wird nicht fortgesetzt, sobald
-feststeht, dass die mündlich-praktische Prüfung in zwei Fächern nicht
-bestanden ist.
+(3) Das praktische Prüfungselement in der Fächergruppe Zahnerhaltung
+ist bestanden, wenn die Bewertungen der Leistungen für das praktische
+Prüfungselement in den vier Fächern der Fächergruppe Zahnerhaltung
+jeweils mindestens „ausreichend“ lauten.
 
 
 #### § 71 Note für den mündlich-praktischen Teil
@@ -2169,13 +2387,12 @@ bestanden ist.
 Zahnärztlichen Prüfung bestanden, ermittelt die der Prüfungskommission
 vorsitzende Person die Note für den mündlich-praktischen Teil.
 
-(2) In der Fächergruppe Zahnerhaltung werden die Zahlenwerte der Noten
-für die einzelnen Fächer addiert und die Summe wird durch vier
-geteilt. Die nach Satz 1 gebildete Note wird nicht gerundet.
+(2) (weggefallen)
 
-(3) Die mit zwei vervielfachten Zahlenwerte der Noten im Fach
-Zahnärztliche Prothetik und in der Fächergruppe Zahnerhaltung und die
-Zahlenwerte der Noten in den übrigen Fächern werden addiert und durch
+(3) Die mit zwei vervielfachten Zahlenwerte der nach § 69 Absatz 4 und
+5 gebildeten Noten im Fach Zahnärztliche Prothetik und in der
+Fächergruppe Zahnerhaltung und die Zahlenwerte der nach § 69 Absatz 4
+und 5 gebildeten Noten in den übrigen Fächern werden addiert und durch
 neun geteilt. Die Note wird bis auf die zweite Stelle hinter dem Komma
 ohne Rundung errechnet.
 
@@ -2212,7 +2429,8 @@ ohne Rundung errechnet.
 
 
 (5) Die der Prüfungskommission vorsitzende Person übermittelt die Note
-an die nach § 18 zuständige Stelle.
+an die nach § 18 zuständige Stelle. Die Übermittlung erfolgt
+schriftlich oder elektronisch.
 
 
 #### § 72 Inhalt des schriftlichen Teils
@@ -2433,8 +2651,8 @@ bis 9 aufgerundet.
 
 Die nach § 18 zuständige Stelle stellt das Ergebnis des schriftlichen
 Teils des Dritten Abschnitts der Zahnärztlichen Prüfung fest und teilt
-es dem oder der Studierenden schriftlich mit. In der
-Ergebnismitteilung sind anzugeben:
+es dem oder der Studierenden mit. Die Mitteilung erfolgt schriftlich
+oder elektronisch. In der Ergebnismitteilung sind anzugeben:
 
 1.  die Prüfungsnote,
 
@@ -2466,16 +2684,16 @@ der schriftliche und der mündlich-praktische Teil bestanden sind.
 
 #### § 78 Wiederholung
 
-(1) Wird der mündlich-praktische Teil nur in einem Fach nicht
-bestanden, muss er in diesem Fach wiederholt werden. Der mündlich-
-praktische Teil darf in diesem Fach zweimal wiederholt werden. Wird
-der mündlich-praktische Teil in mehr als einem Fach nicht bestanden,
-muss der mündlich-praktische Teil insgesamt wiederholt werden.
+(1) Wird der mündlich-praktische Teil in einem Fach oder in der
+Fächergruppe Zahnerhaltung nicht bestanden, darf er in diesem Fach
+oder in der Fächergruppe Zahnerhaltung jeweils zweimal wiederholt
+werden. Eine weitere Wiederholung ist auch nach erneutem Studium der
+Zahnmedizin nicht zulässig.
 
-(2) Die einzelnen Teile des Dritten Abschnitts der Zahnärztlichen
-Prüfung können jeweils zweimal wiederholt werden. Eine weitere
-Wiederholung ist auch nach erneutem Studium der Zahnmedizin nicht
-zulässig.
+(2) Wird der schriftliche Teil des Dritten Abschnitts der
+Zahnärztlichen Prüfung nicht bestanden, darf dieser zweimal wiederholt
+werden. Eine weitere Wiederholung ist auch nach erneutem Studium der
+Zahnmedizin nicht zulässig.
 
 (3) Wenn ein Prüfungsteil nicht bestanden wird, so muss nur dieser
 wiederholt werden.
@@ -2486,30 +2704,30 @@ Wiederholungen des mündlich-praktischen Teils können Prüfungstermine
 auch außerhalb der in § 60 Absatz 1 genannten Prüfungszeit vorgesehen
 werden.
 
-(5) Ist der Dritte Abschnitt der Zahnärztlichen Prüfung ganz oder
-teilweise nicht bestanden und ist eine Wiederholung des Abschnitts
-oder der nicht bestandenen Prüfungsteile zulässig, entscheidet die
-nach Landesrecht zuständige Stelle auf Vorschlag der
+(5) Ist eine Wiederholung nach den Absätzen 1 und 2 zulässig,
+entscheidet die nach Landesrecht zuständige Stelle auf Vorschlag der
 Prüfungskommission unverzüglich, ob und wie lange der oder die
 Studierende vor der Wiederholung erneut Zahnmedizin zu studieren hat.
 Die zusätzlichen Studienzeiten können bis zu neun Monate betragen. Dem
 oder der Studierenden ist die Entscheidung rechtzeitig mitzuteilen.
+Die Mitteilung erfolgt schriftlich oder elektronisch.
 
 (6) Die nach § 18 zuständige Stelle hat den Studierenden oder die
-Studierende zur Wiederholung des Dritten Abschnitts der Zahnärztlichen
-Prüfung, zur Wiederholung eines Prüfungsteils oder zur Wiederholung
-des mündlich-praktischen Teils in einem Fach zum nächsten
-Prüfungstermin von Amts wegen zu laden. Der oder die Studierende hat
-gegebenenfalls zusätzliche Studienzeiten nach Absatz 5 nachzuweisen.
+Studierende zur Wiederholung des schriftlichen Prüfungsteils oder zur
+Wiederholung des mündlich-praktischen Teils in einem Fach oder in der
+Fächergruppe Zahnerhaltung zum nächsten Prüfungstermin von Amts wegen
+zu laden. Der oder die Studierende hat gegebenenfalls zusätzliche
+Studienzeiten nach Absatz 5 nachzuweisen.
 
 (7) Wurde der Dritte Abschnitt der Zahnärztlichen Prüfung, einer der
 Teile des Dritten Abschnitts der Zahnärztlichen Prüfung oder der
-mündlich-praktische Teil in einem Fach bestanden, darf dieser außer in
-den Fällen des Absatzes 1 Satz 3 nicht wiederholt werden. Eine
+mündlich-praktische Teil in einem Fach oder in der Fächergruppe
+Zahnerhaltung bestanden, darf dieser nicht wiederholt werden. Eine
 Wiederholung des Dritten Abschnitts der Zahnärztlichen Prüfung, eines
 der Teile des Dritten Abschnitts der Zahnärztlichen Prüfung oder des
-mündlich-praktischen Teils in einem Fach ist auch im Rahmen eines
-erneuten Studiums der Zahnmedizin nicht möglich.
+mündlich-praktischen Teils in einem Fach oder in der Fächergruppe
+Zahnerhaltung ist auch im Rahmen eines erneuten Studiums der
+Zahnmedizin nicht möglich.
 
 
 #### § 79 Note für den Dritten Abschnitt der Zahnärztlichen Prüfung
@@ -2559,10 +2777,11 @@ Rundung errechnet.
 #### § 80 Mitteilung bei endgültigem Nichtbestehen der Prüfung
 
 (1) Die zuständigen Stellen der Länder unterrichten den Studierenden
-oder die Studierende und die zuständigen Stellen der anderen Länder
-schriftlich, wenn der Dritte Abschnitt der Zahnärztlichen Prüfung oder
-ein Teil des Dritten Abschnitts der Zahnärztlichen Prüfung endgültig
-nicht bestanden worden ist und nicht mehr wiederholt werden kann.
+oder die Studierende und die zuständigen Stellen der anderen Länder,
+wenn der Dritte Abschnitt der Zahnärztlichen Prüfung oder ein Teil des
+Dritten Abschnitts der Zahnärztlichen Prüfung endgültig nicht
+bestanden worden ist und nicht mehr wiederholt werden kann. Die
+Mitteilung erfolgt schriftlich oder elektronisch.
 
 (2) Die Mitteilung an den Studierenden oder die Studierende hat den
 Hinweis zu enthalten, dass er oder sie auch nach einem erneuten
@@ -4302,6 +4521,40 @@ mehr als 15 Prozent die durchschnittlichen Prüfungsleistungen aller
 Studierenden unterschreitet, die an demselben schriftlichen Teil des
 Dritten Abschnitts der Zahnärztlichen Prüfung teilgenommen haben.
 
+
+### § 135 Übergangsbestimmungen
+
+(1) Für Studierende der Zahnmedizin, die einen Abschnitt, einen Teil,
+eine Fächergruppe oder ein Fach der Zahnärztlichen Prüfungen nach den
+Vorschriften der Approbationsordnung für Zahnärzte und Zahnärztinnen
+in der bis zum 30. November 2024 geltenden Fassung nicht bestanden
+haben, finden die Wiederholungsprüfungen nach dem 30. November 2024
+nach den Vorschriften dieser Verordnung statt, sofern sich aus den
+folgenden Absätzen nicht etwas anderes ergibt. Die Prüfungen können
+auch in diesen Fällen jeweils nur zweimal wiederholt werden.
+
+(2) Für Studierende der Zahnmedizin, die ihr Studium vor dem 30.
+November 2024 begonnen und den Ersten Abschnitt der Zahnärztlichen
+Prüfung am 30. November 2024 in einem Fach oder in zwei Fächern nach §
+32 Absatz 1 Nummer 1 bis 6 der Approbationsordnung für Zahnärzte und
+Zahnärztinnen in der bis zum 30. November 2024 geltenden Fassung
+einmal oder zweimal nicht bestanden haben, finden die
+Wiederholungsprüfungen nach dem 30. November 2024 bis zum 30.
+September 2026 in diesem Fach oder in diesen zwei Fächern nach § 32
+Absatz 1 Nummer 1 bis 6 der Approbationsordnung für Zahnärzte und
+Zahnärztinnen in der bis zum 30. November 2024 geltenden Fassung
+statt. Im Übrigen gelten die Vorschriften dieser Verordnung.
+
+(3) Ein Fach oder eine Fächergruppe, das oder die nach §§ 37 Absatz 2,
+53 Absatz 2 oder § 70 Absatz 2 der Approbationsordnung für Zahnärzte
+und Zahnärztinnen in der bis zum 30. November 2024 geltenden Fassung
+nicht abgelegt worden ist, gilt als nicht unternommen. Wenn die
+Prüfung in einem Fach nach § 32 Absatz 1 Nummer 1 bis 6 der
+Approbationsordnung für Zahnärzte in der bis zum 30. November 2024
+geltenden Fassung als nicht unternommen gilt und die Prüfung in diesem
+Fach nach dem 30. November 2024 erstmals unternommen oder wiederholt
+wird, gilt Absatz 3 entsprechend.
+
 (zu § 5 Absatz 2, § 15 Absatz 3 Satz 2,
 § 20 Absatz 1 Satz 1 Nummer 4, § 82 Absatz 2 Nummer 9)
 
@@ -5490,7 +5743,8 @@ Universität angeboten wird, insbesondere in Betracht:
 
 ### Anlage 13 Niederschrift über die mündliche Prüfung des Ersten Abschnitts der Zahnärztlichen Prüfung
 
-(Fundstelle: BGBl. I 2019, 978)
+(Fundstelle: BGBl. I 2019, 978;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *   Der/Die Studierende der Zahnmedizin ...........................
@@ -5500,7 +5754,7 @@ Universität angeboten wird, insbesondere in Betracht:
         in .......................
 
 
-*    *   ist im Fach .............................
+*    *   ist im Fach/in der Fächergruppe .............................
 
 
 *    *   am ...............................
@@ -5518,10 +5772,6 @@ Universität angeboten wird, insbesondere in Betracht:
 
 
 *    *   bestanden/nicht bestanden.
-
-
-*    *   Tragende Gründe des
-        Prüfungsergebnisses: ......................................
 
 
 *    *
@@ -5570,10 +5820,12 @@ Universität angeboten wird, insbesondere in Betracht:
     *
 
 *    *   ..................................................
-        (Unterschrift der prüfenden Person)
+        (Unterschrift oder qualifizierte elektronische Signatur der prüfenden
+        Person)
 
     *   ...........................................
-        (Unterschrift der beisitzenden Person)
+        (Unterschrift oder qualifizierte elektronische Signatur der
+        beisitzenden Person)
 
 
 
@@ -5581,7 +5833,8 @@ Universität angeboten wird, insbesondere in Betracht:
 
 ### Anlage 14 Niederschrift über das mündliche Prüfungselement des Zweiten Abschnitts der Zahnärztlichen Prüfung
 
-(Fundstelle: BGBl. I 2019, 979)
+(Fundstelle: BGBl. I 2019, 979;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *   Der/Die Studierende der Zahnmedizin ............................
@@ -5591,7 +5844,7 @@ Universität angeboten wird, insbesondere in Betracht:
         in .................................
 
 
-*    *   ist im Fach ............................
+*    *   ist im Fach/in der Fächergruppe ............................
 
 
 *    *   am ...................................
@@ -5645,10 +5898,12 @@ Universität angeboten wird, insbesondere in Betracht:
     *
 
 *    *   ...................................................
-        (Unterschrift der prüfenden Person)
+        (Unterschrift oder qualifizierte elektronische Signatur der prüfenden
+        Person)
 
     *   .............................................
-        (Unterschrift der beisitzenden Person)
+        (Unterschrift oder qualifizierte elektronische Signatur der
+        beisitzenden Person)
 
 
 
@@ -5656,7 +5911,8 @@ Universität angeboten wird, insbesondere in Betracht:
 
 ### Anlage 15 Niederschrift über das mündliche Prüfungselement des mündlich-praktischen Teils des Dritten Abschnitts der Zahnärztlichen Prüfung
 
-(Fundstelle: BGBl. I 2019, 980)
+(Fundstelle: BGBl. I 2019, 980;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *   Der/Die Studierende der Zahnmedizin .................................
@@ -5666,7 +5922,7 @@ Universität angeboten wird, insbesondere in Betracht:
         in ..........................
 
 
-*    *   ist im Fach .................................
+*    *   ist im Fach/in der Fächergruppe .................................
 
 
 *    *   am ..........................
@@ -5720,10 +5976,12 @@ Universität angeboten wird, insbesondere in Betracht:
     *
 
 *    *   ..............................................
-        (Unterschrift der prüfenden Person)
+        (Unterschrift oder qualifizierte elektronische Signatur der prüfenden
+        Person)
 
     *   .................................................
-        (Unterschrift der beisitzenden Person)
+        (Unterschrift oder qualifizierte elektronische Signatur der
+        beisitzenden Person)
 
 
 
@@ -5732,14 +5990,14 @@ Satz 4 und 5)
 
 ### Anlage 16 Zeugnis über den Ersten Abschnitt der Zahnärztlichen Prüfung
 
-(Fundstelle: BGBl. I 2019, 981)
+(Fundstelle: BGBl. 2024 I Nr. 360, S. 10)
 
 
-*    *
+*    *   ......................................................................
+
     *
 
-*    *   ................................
-        (Ausstellende Stelle)
+*    *   (Ausstellende Stelle)
 
     *
 
@@ -5747,90 +6005,82 @@ Satz 4 und 5)
         **über den Ersten Abschnitt der Zahnärztlichen Prüfung**
 
 
-*    *   Der/Die Studierende der Zahnmedizin ...............................
+*    *   Der/Die Studierende der Zahnmedizin ..................................
+        ..................................................................
 
 
-*    *   geboren am ............................
-        in ...........................
+*    *   geboren
+        am ............................................................
+        in ............................................................
 
 
-*    *   hat den Ersten Abschnitt der Zahnärztlichen Prüfung
-        am ................................
+*    *   hat den Ersten Abschnitt der Zahnärztlichen Prüfung am ...............
+        .......................................................
 
 
-*    *   in ..............................
-        mit der Note „...........................
+*    *   in ...................................................................
+        ...
+        mit der Note „........................................................
+        ..............
         “
 
 
 
 
-*    *   (......................)
+*    *   (.....................................................................
+        ...........
+        )
 
     *   bestanden.
 
 
-*    *   (Zahlenwert)
+*    *[^F831844_01_BJNR093310019BJNE015102130]
+   (Zahlenwert)
 
     *
 
 
 
-*    *   Er/Sie hat bei der Bewertung der Prüfungsleistungen folgende Noten
-        erreicht:
+*    *[^F831844_02_BJNR093310019BJNE015102130]
+   Er/Sie hat bei der Bewertung der Prüfungsleistungen folgende Noten
+        erreicht
+        :
 
 
-*    *   Fach Physik
+*    *   Fächergruppe Biochemie und Molekularbiologie, Chemie
 
-    *   Note „...............
+    *   Note „........................................
         “
 
 
-*    *   Fach Chemie
+*    *   Fächergruppe Mikroskopische und makroskopische Anatomie, Biologie
 
-    *   Note „...............
+    *   Note „........................................
         “
 
 
-*    *   Fach Biologie
+*    *   Fächergruppe Physiologie, Physik
 
-    *   Note „...............
-        “
-
-
-*    *   Fach Biochemie und Molekularbiologie
-
-    *   Note „...............
-        “
-
-
-*    *   Fach Mikroskopische und makroskopische Anatomie
-
-    *   Note „...............
-        “
-
-
-*    *   Fach Physiologie
-
-    *   Note „...............
+    *   Note „........................................
         “
 
 
 *    *   Fach Zahnmedizinische Propädeutik
 
-    *   Note „...............
+    *   Note „........................................
         “
 
 
 
 
 *    *   Er/Sie hat bis zum Ersten Abschnitt der Zahnärztlichen Prüfung das
-        Wahlfach .......................
+        Wahlfach ..................................................
 
 
 *    *
-        *            *   mit der Note „...............
-[^F807688_A16_03_BJNR093310019BJNE015101116]
+        *            *   mit der Note
+                „............................................................
+[^F831844_03_BJNR093310019BJNE015102130]
                 “ abgeschlossen.
 
             *
@@ -5840,40 +6090,51 @@ Satz 4 und 5)
 
 
 
-*    *   Ort, Datum ...........................
-        ,..........................
+*    *   Ort, Datum ...........................................................
+        .....................
+        , ....................................................................
+        ............
 
-    *
 
 *    *   Siegel
 
     *
 
-*    *
-    *
-
-*    *   ..........................
-        (Unterschrift)
+*    *   ......................................................................
+        ..............................
 
     *
 
+*    *   (Unterschrift oder qualifizierte elektronische Signatur)
 
-   _\_\__\_\__\_\__\_\__\_\__\_\_
+    *
 
-    Sofern ein Wahlfach belegt wurde.
-[^F807688_A16_03_BJNR093310019BJNE015101116]: 
+
+   \_\_\__\_\__\_\__
+
+    Soweit nach § 39 Absatz 3a keine Note für den Ersten Abschnitt der
+    Zahnärztlichen Prüfung gebildet wird, ist der Text „mit der Note „…“
+    (…) (Zahlenwert)“ zu streichen. Anschließend ist entweder der Text
+    „Der Erste Abschnitt der Ärztlichen Prüfung wurde mit der Note „…“ (…)
+    (Zahlenwert) bestanden.“ oder der Text „Das Überprüfungsergebnis für
+    die erste Studienphase im Modellstudiengang Medizin ergab die Note
+    „…“.“ einzusetzen.
+[^F831844_01_BJNR093310019BJNE015102130]:     Bei Studierenden nach § 29 Absatz 2 sind nur Angaben zum Fach
+    Zahnmedizinische Propädeutik aufzunehmen.
+[^F831844_02_BJNR093310019BJNE015102130]:     Sofern kein Wahlfach belegt wurde, ist dieser Satz zu streichen.
+[^F831844_03_BJNR093310019BJNE015102130]: 
 (zu § 56)
 
 ### Anlage 17 Zeugnis über den Zweiten Abschnitt der Zahnärztlichen Prüfung
 
-(Fundstelle: BGBl. I 2019, 982)
+(Fundstelle: BGBl. 2024 I Nr. 360, S. 11)
 
 
-*    *
+*    *   ............................................................
+
     *
 
-*    *   .............................
-        (Ausstellende Stelle)
+*    *   (Ausstellende Stelle)
 
     *
 
@@ -5881,25 +6142,33 @@ Satz 4 und 5)
         **über den Zweiten Abschnitt der Zahnärztlichen Prüfung**
 
 
-*    *   Der/Die Studierende der Zahnmedizin.................................
+*    *   Der/Die Studierende der Zahnmedizin ..................................
+        ......................................................................
+        .........
 
 
-*    *   geboren am .................................
-        in .............................
+*    *   geboren am ...........................................................
+        ...........
+        in
+        ......................................................................
 
 
-*    *   hat den Zweiten Abschnitt der Zahnärztlichen Prüfung
-        am ................................
+*    *   hat den Zweiten Abschnitt der Zahnärztlichen Prüfung am ..............
+        ..................................................................
 
 
-*    *   in ............................
-        mit der Note „......................
+*    *   in ...................................................................
+        ...
+        mit der Note „........................................................
+        ..............
         “
 
 
 
 
-*    *   (.........................)
+*    *   (.....................................................................
+        ...........
+        )
 
     *   bestanden.
 
@@ -5916,79 +6185,63 @@ Satz 4 und 5)
 
 *    *   Fach Zahnärztliche Prothetik
 
-    *   Note „...............
+    *   Note „........................................
         “
 
 
 *    *   Fach Kieferorthopädie
 
-    *   Note „...............
+    *   Note „........................................
         “
 
 
 *    *   Fach Oralchirurgie und Mund-, Kiefer- und Gesichtschirurgie
 
-    *   Note „...............
+    *   Note „........................................
         “
 
 
-*    *   Fach Endodontologie (Fächergruppe Zahnerhaltung)
+*    *   Fächergruppe Zahnerhaltung
 
-    *   Note „...............
-        “
-
-
-*    *   Fach Kinderzahnheilkunde (Fächergruppe Zahnerhaltung)
-
-    *   Note „...............
-        “
-
-
-*    *   Fach Parodontologie (Fächergruppe Zahnerhaltung)
-
-    *   Note „...............
-        “
-
-
-*    *   Fach Zahnhartsubstanzlehre, Prävention und Restauration
-        (Fächergruppe Zahnerhaltung)
-
-    *   Note „...............
+    *   Note „........................................
         “
 
 
 
 
-*    *   Ort, Datum ..................
-        ,.....................
+*    *   Ort, Datum ...........................................................
+        .....................
+        , ....................................................................
+        ............
 
-    *
 
 *    *   Siegel
 
     *
 
-*    *
-    *
-
-*    *   ...............................
-        (Unterschrift)
+*    *   ......................................................................
+        ..............................
 
     *
+
+*    *   (Unterschrift oder qualifizierte elektronische Signatur)
+
+    *
+
 
 
    (zu § 11 Absatz 3 Satz 2, § 81 Nummer 1)
 
 ### Anlage 18 Zeugnis über die Zahnärztliche Prüfung
 
-(Fundstelle: BGBl. I 2019, 983)
+(Fundstelle: BGBl. 2024 I Nr. 360, S. 12)
 
 
-*    *
+*    *   ............................................................
+
     *
 
-*    *   ..............................
-        (Ausstellende Stelle)
+*    *   (Ausstellende Stelle)
 
     *
 
@@ -5996,35 +6249,44 @@ Satz 4 und 5)
         **über die Zahnärztliche Prüfung**
 
 
-*    *   Der/Die Studierende der Zahnmedizin .............................
+*    *   Der/Die Studierende der Zahnmedizin ..................................
+        ..................................................................
 
 
-*    *   geboren am ...................................
-        in .....................................
+*    *   geboren am ...........................................................
+        ...........
+        in ...................................................................
+        ...
 
 
 *    *   hat den schriftlichen Teil des Dritten Abschnitts der Zahnärztlichen
-        Prüfung am ..............................
+        Prüfung am ...................................................
 
 
-*    *   in ..................................
-        mit der Note „.............................
-[^F807688_A18_04_BJNR093310019BJNE015300000]
+*    *   in ...................................................................
+        ...
+        mit der Note „........................................................
+        ..............
+[^F831844_04_BJNR093310019BJNE015301130]
         “ und
 
 
 *    *   den mündlich-praktischen Teil des Dritten Abschnitts der
-        Zahnärztlichen Prüfung am ..........
+        Zahnärztlichen Prüfung am ..........................................
 
 
-*    *   in ...................................
-        mit der Note „.................................
+*    *   in ...................................................................
+        ...
+        mit der Note „........................................................
+        ..............
         “
 
 
 
 
-*    *   (.............................)
+*    *   (.....................................................................
+        ...........
+        )
 
     *   abgelegt.
 
@@ -6042,78 +6304,60 @@ Satz 4 und 5)
 
 *    *   Fach Zahnärztliche Prothetik
 
-    *   Note „...............
+    *   Note „........................................
         “
 
 
 *    *   Fach Kieferorthopädie
 
-    *   Note „...............
+    *   Note „........................................
         “
 
 
 *    *   Fach Zahn-, Mund- und Kieferkrankheiten
 
-    *   Note „...............
+    *   Note „........................................
         “
 
 
 *    *   Fach Zahnärztliche Radiologie
 
-    *   Note „...............
+    *   Note „........................................
         “
 
 
 *    *   Fach Oralchirurgie
 
-    *   Note „...............
+    *   Note „........................................
         “
 
 
 *    *   Fach Mund-, Kiefer- und Gesichtschirurgie
 
-    *   Note „...............
+    *   Note „........................................
         “
 
 
-*    *   Fach Endodontologie (Fächergruppe Zahnerhaltung)
+*    *   Fächergruppe Zahnerhaltung
 
-    *   Note „...............
-        “
-
-
-*    *   Fach Kinderzahnheilkunde (Fächergruppe Zahnerhaltung)
-
-    *   Note „...............
-        “
-
-
-*    *   Fach Parodontologie (Fächergruppe Zahnerhaltung)
-
-    *   Note „...............
-        “
-
-
-*    *   Fach Zahnhartsubstanzlehre, Prävention und Restauration
-        (Fächergruppe Zahnerhaltung)
-
-    *   Note „...............
+    *   Note „........................................
         “
 
 
 
 
 *    *   Er/Sie hat den Dritten Abschnitt der Zahnärztlichen Prüfung mit der
-        Note  „....................
+        Note  „..................................................
         “ bestanden.
 
 
-*    *   Er/Sie hat bis zum Dritten Abschnitt der Zahnärztlichen Prüfung das
-        Wahlfach .....................
+*    *   Er/Sie hat bis zum Ersten Abschnitt der Zahnärztlichen Prüfung das
+        Wahlfach ..................................................
 
 
 *    *
-        *            *   mit der Note „......................
+        *            *   mit der Note
+                „............................................................
                 “ abgeschlossen.
 
             *
@@ -6121,16 +6365,16 @@ Satz 4 und 5)
 
 
 
-*    *   Er/Sie hat damit die Zahnärztliche Prüfung am ........................
+*    *   Er/Sie hat damit die Zahnärztliche Prüfung
+        am ............................................................
         bestanden.
 
 
-*    *   Herr/Frau ...............................
+*    *   Herr/Frau ............................................................
         hat das Studium der Zahnmedizin
 
 
-*    *   an der ...............................................................
-        ...........
+*    *   an der ............................................................
 
 
 *    *   (Universität)
@@ -6141,29 +6385,31 @@ Satz 4 und 5)
 
 
 
-*    *   Ort, Datum .....................
-        ,......................
+*    *   Ort, Datum ...........................................................
+        .....................
+        , ....................................................................
+        ............
 
-    *
 
 *    *   Siegel
 
     *
 
-*    *
-    *
-
-*    *   ...........................
-        (Unterschrift)
+*    *   ......................................................................
+        ..............................
 
     *
 
+*    *   (Unterschrift oder qualifizierte elektronische Signatur)
 
-   _\_\__\_\__\_\_\_\_
+    *
 
-    Entfällt bei Studierenden nach § 59 Absatz 2 der Approbationsordnung
-    für Zahnärzte und Zahnärztinnen.
-[^F807688_A18_04_BJNR093310019BJNE015300000]: 
+
+   \_\_\__\_\__\_\__
+
+    Der Satzteil zum schriftlichen Teil entfällt bei Studierenden nach §
+    59 Absatz 2.
+[^F831844_04_BJNR093310019BJNE015301130]: 
 (zu § 81 Nummer 2)
 
 ### Anlage 19 Bescheinigung über die erforderliche Fachkunde im Strahlenschutz

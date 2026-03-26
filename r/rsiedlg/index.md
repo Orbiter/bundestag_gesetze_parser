@@ -16,7 +16,7 @@ Fundstelle
 :   RGBl: 1919, 1429
 
 Zuletzt geändert durch
-:   Art. 8 Abs. 2 G v. 29.7.2009
+:   Art. 8 Abs. 2 G v. 29.7.2009 I 2355
 
 
 ## - - Siedlungsunternehmungen

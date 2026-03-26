@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2013, 3282
 
-Geändert durch
-:   Art. 54 G v. 20.8.2021 I 3932
+Zuletzt geändert durch
+:   Art. 2 Abs. 6 V v. 11.3.2026 I Nr. 67
 
 
 ## Eingangsformel
@@ -119,7 +119,7 @@ Deutschen Bundestages Ausnahmen von Absatz 1 bis zu den
 Höchstaltersgrenzen nach Absatz 2 Satz 2 zulassen.
 
 (4) Für Teilnehmerinnen und Teilnehmer an Eingliederungsmaßnahmen nach
-§ 7 Absatz 2 des Soldatenversorgungsgesetzes gelten keine
+§ 9 Absatz 2 des Soldatenversorgungsgesetzes gelten keine
 Höchstaltersgrenzen.
 
 
@@ -168,7 +168,7 @@ Befähigung zum Richteramt besitzt.
 Unterweisungszeit von in der Regel sechs, mindestens aber drei Monaten
 zu durchlaufen.
 
-(4) Im Übrigen gilt § 44 der Bundeslaufbahnverordnung.
+(4) Im Übrigen gilt § 53 der Bundeslaufbahnverordnung.
 
 
 ## § 9 Erhaltung der körperlichen Leistungsfähigkeit
@@ -205,10 +205,10 @@ Aufstieg in die nächsthöhere Laufbahn zugelassen werden, wenn sie
 
 
 
-Im Übrigen gilt § 19 Absatz 4 der Bundeslaufbahnverordnung.
+Im Übrigen gilt § 21 Absatz 3 der Bundeslaufbahnverordnung.
 
-(2) Für das Auswahlverfahren gilt § 36 Absatz 1, 5 und 6 der
-Bundeslaufbahnverordnung. § 36 Absatz 3 und 4 der
+(2) Für das Auswahlverfahren gilt § 44 Absatz 1, 5 und 6 der
+Bundeslaufbahnverordnung. § 44 Absatz 3 und 4 der
 Bundeslaufbahnverordnung gilt mit der Maßgabe, dass das
 Auswahlverfahren auch in Zusammenarbeit mit einer Behörde der
 Bundespolizei oder einer Polizeibehörde eines Landes durchgeführt
@@ -231,7 +231,7 @@ Police Management)“ an der Deutschen Hochschule der Polizei. Das
 Aufstiegsverfahren richtet sich nach der Prüfungsordnung für diesen
 Studiengang.
 
-(5) Im Übrigen gilt § 41 der Bundeslaufbahnverordnung.
+(5) Im Übrigen gilt § 49 der Bundeslaufbahnverordnung.
 
 
 ## § 11 Fachspezifische Qualifizierung
@@ -261,12 +261,12 @@ dafür ein besonderes dienstliches Bedürfnis besteht und sie
 
 
 
-(2) Für das Auswahlverfahren gilt § 36 Absatz 1 und 6 der
-Bundeslaufbahnverordnung. § 36 Absatz 3 und 4 der
+(2) Für das Auswahlverfahren gilt § 44 Absatz 1 und 6 der
+Bundeslaufbahnverordnung. § 44 Absatz 3 und 4 der
 Bundeslaufbahnverordnung gilt mit der Maßgabe, dass das
 Auswahlverfahren auch in Zusammenarbeit mit einer Behörde der
 Bundespolizei oder einer Polizeibehörde eines Landes durchgeführt
-werden kann. § 36 Absatz 5 der Bundeslaufbahnverordnung gilt mit der
+werden kann. § 44 Absatz 5 der Bundeslaufbahnverordnung gilt mit der
 Maßgabe, dass zu den sonstigen Anforderungen insbesondere die
 erfolgreiche Wahrnehmung von Führungsaufgaben gehört.
 
@@ -290,15 +290,15 @@ des gehobenen Polizeivollzugsdienstes beim Deutschen Bundestag bewährt
 hat.
 
 (6) Für die Feststellung, ob die fachspezifische Qualifizierung
-erfolgreich abgeschlossen ist, gilt § 38 Absatz 4 der
+erfolgreich abgeschlossen ist, gilt § 46 Absatz 5 der
 Bundeslaufbahnverordnung entsprechend.
 
-(7) Für die Kostenerstattung gilt § 41 der Bundeslaufbahnverordnung.
+(7) Für die Kostenerstattung gilt § 49 der Bundeslaufbahnverordnung.
 
 
 ## § 12 Übertragung eines Amtes der neuen Laufbahn
 
-§ 40 der Bundeslaufbahnverordnung gilt mit der Maßgabe, dass
+§ 48 der Bundeslaufbahnverordnung gilt mit der Maßgabe, dass
 Polizeivollzugsbeamtinnen und Polizeivollzugsbeamten das Amt einer
 Polizeioberkommissarin beim Deutschen Bundestag oder eines
 Polizeioberkommissars beim Deutschen Bundestag übertragen werden kann,
@@ -326,109 +326,167 @@ Polizeivollzugsdienstes beim Deutschen Bundestag vom 27. August 2003
 vom 12. Februar 2009 (BGBl. I S. 320) geändert worden ist, außer
 Kraft.
 
+(zu § 3)
 
-## Anlage (zu § 3)
+## Anlage Zu den Laufbahnen gehörende Ämter; Amtsbezeichnungen
 
-(Fundstelle: BGBl. I 2013, 3285)
+(Fundstelle: BGBl. I 2013, 3285;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-*    *   Laufbahn
+*    *   Nr.
 
-    *   Zur Laufbahn
+    *   Laufbahn
+
+    *   Zu der Laufbahn
         gehörende Ämter
 
     *   Amtsbezeichnung
 
 
-*    *   Mittlerer
-        Polizeivollzugsdienst beim Deutschen Bundestag
+*    *
+    *   1
 
-    *[^F782107_01_BJNR328200013BJNE001700000]
+    *   2
+
+    *   3
+
+
+*    *   1
+
+    *   **Mittlerer Polizeivollzugsdienst beim Deutschen Bundestag**
+
+    *
+    *
+
+*    *   2
+
+    *
+    *[^F833855_01_BJNR328200013BJNE001701311]
    Besoldungsgruppe A 7
 
-    *   Polizeimeisterin/
-        Polizeimeister
+    *   Polizeimeisterin/Polizeimeister beim Deutschen Bundestag
+
+
+*    *   3
+
+    *
+    *   Besoldungsgruppe A 8
+
+    *   Polizeiobermeisterin/Polizeiobermeister
         beim Deutschen Bundestag
 
 
-*    *   Besoldungsgruppe A 8
+*    *   4
 
-    *   Polizeiobermeisterin/
-        Polizeiobermeister
-        beim Deutschen Bundestag
-
-
-*    *   Besoldungsgruppe A 9
-
-    *   Polizeihauptmeisterin/
-        Polizeihauptmeister
-        beim Deutschen Bundestag
-
-
-*    *   Gehobener
-        Polizeivollzugsdienst beim Deutschen Bundestag
-
+    *
     *   Besoldungsgruppe A 9
 
-    *   Polizeikommissarin/
-        Polizeikommissar
+    *   Polizeihauptmeisterin/Polizeihauptmeister beim Deutschen Bundestag
+
+
+*    *   5
+
+    *   **Gehobener Polizeivollzugsdienst beim Deutschen Bundestag**
+
+    *
+    *
+
+*    *   6
+
+    *
+    *   Besoldungsgruppe A 9
+
+    *   Polizeikommissarin/Polizeikommissar
         beim Deutschen Bundestag
 
 
-*    *   Besoldungsgruppe A 10
+*    *   7
 
-    *   Polizeioberkommissarin/
-        Polizeioberkommissar
-        beim Deutschen Bundestag
+    *
+    *   Besoldungsgruppe A 10
 
-
-*    *   Besoldungsgruppe A 11
-
-    *   Polizeihauptkommissarin/
-        Polizeihauptkommissar
-        beim Deutschen Bundestag
+    *   Polizeioberkommissarin/Polizeioberkommissar beim Deutschen Bundestag
 
 
-*    *   Besoldungsgruppe A 12
+*    *   8
 
-    *   Polizeihauptkommissarin/
-        Polizeihauptkommissar
-        beim Deutschen Bundestag
+    *
+    *   Besoldungsgruppe A 11
 
-
-*    *   Besoldungsgruppe A 13
-
-    *   Erste Polizeihauptkommissarin/
-        Erster Polizeihauptkommissar
-        beim Deutschen Bundestag
+    *   Polizeihauptkommissarin/Polizeihauptkommissar beim Deutschen Bundestag
 
 
-*    *   Höherer
-        Polizeivollzugsdienst beim Deutschen Bundestag
+*    *   9
 
+    *
+    *   Besoldungsgruppe A 12
+
+    *   Polizeihauptkommissarin/Polizeihauptkommissar beim Deutschen Bundestag
+
+
+*    *   10
+
+    *
     *   Besoldungsgruppe A 13
 
-    *   Polizeirätin/Polizeirat
-        beim Deutschen Bundestag
+    *   Erste Polizeihauptkommissarin/
+        Erster Polizeihauptkommissar beim Deutschen Bundestag
 
 
-*    *   Besoldungsgruppe A 14
+*    *   11
 
-    *   Polizeioberrätin/
-        Polizeioberrat
-        beim Deutschen Bundestag
+    *   **Höherer Polizeivollzugsdienst beim Deutschen Bundestag**
+
+    *
+    *
+
+*    *   12
+
+    *
+    *   Besoldungsgruppe A 13
+
+    *   Polizeirätin/Polizeirat beim Deutschen Bundestag
 
 
-*    *   Besoldungsgruppe A 15
+*    *   13
 
-    *   Polizeidirektorin/
-        Polizeidirektor
-        beim Deutschen Bundestag
+    *
+    *   Besoldungsgruppe A 14
+
+    *   Polizeioberrätin/Polizeioberrat beim
+        Deutschen Bundestag
+
+
+*    *   14
+
+    *
+    *   Besoldungsgruppe A 15
+
+    *   Polizeidirektorin/Polizeidirektor beim Deutschen Bundestag
+
+
+*    *   15
+
+    *
+    *   Besoldungsgruppe A 16
+
+    *   Leitende Polizeidirektorin/Leitender Polizeidirektor beim Deutschen
+        Bundestag
+
+
+*    *   16
+
+    *
+    *   Besoldungsgruppe B 3
+
+    *   Leitende Polizeidirektorin/Leitender Polizeidirektor beim Deutschen
+        Bundestag
 
 
 
 _\_\__\_\__\_\__\_\__\_\__
 
-    Eingangsamt.
-[^F782107_01_BJNR328200013BJNE001700000]: 
+    Eingangsamt
+[^F833855_01_BJNR328200013BJNE001701311]: 

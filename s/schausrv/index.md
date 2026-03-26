@@ -303,8 +303,7 @@ Bundesministeriums für Verkehr und digitale Infrastruktur mit Wirkung
 ab 18. September 2016 eine juristische Person als benannte Stelle an,
 soweit diese die Anforderungen
 
-1.[^f791207_05_BJNR191310008BJNE000405124]
-  der DIN EN ISO/IEC 17065,
+1.  der DIN EN ISO/IEC 17065,
 
 
 2.  der Entschließungen der Internationalen Seeschifffahrts-Organisation,
@@ -360,10 +359,7 @@ Stellen zur Umsetzung der Richtlinie 2014/90/EU regelmäßig mit.
     Die DIN-Norm, auf die in dieser Verordnung verwiesen wird, ist im
     Beuth-Verlag GmbH, Berlin und Köln, erschienen und beim Deutschen
     Patent- und Markenamt in München archivmäßig gesichert niedergelegt.
-[^F771469_02_BJNR191310008BJNE000405124]:     Die DIN-Norm, auf die in dieser Verordnung verwiesen wird, ist im
-    Beuth-Verlag GmbH, Berlin und Köln, erschienen und beim Deutschen
-    Patent- und Markenamt in München archivmäßig gesichert niedergelegt.
-[^f791207_05_BJNR191310008BJNE000405124]: 
+[^F771469_02_BJNR191310008BJNE000405124]: 
 
 ### § 4 Aufsicht über benannte Stellen und Audit
 

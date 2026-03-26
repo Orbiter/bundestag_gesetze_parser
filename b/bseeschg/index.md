@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 17.6.2016 I 1489;
 
 Zuletzt geändert durch
-:   Art. 2 G v. 14.3.2023 I Nr. 73
-
-Änderung durch
-:   Art. 2 V v. 9.4.2024 I Nr. 126 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 V v. 2.7.2025 I Nr. 156
 
 
 ## § 1
@@ -923,13 +920,11 @@ zu erlassen über
     durch die Abnahme von Prüfungen, sowie das Verfahren;
 
 
-3c. die Voraussetzungen und das Verfahren, nach denen, vorbehaltlich des
-    Anwendungsbereichs des Seesicherheits-Untersuchungs-Gesetzes,
-    Nachweise über Befähigungen im Schiffsdienst und Fahrerlaubnisse für
-    das Führen von Traditionsschiffen und Sportfahrzeugen erteilt,
-    entzogen oder deren Ruhen angeordnet, Fahrverbote erteilt und
-    entsprechende Urkunden vorläufig sichergestellt oder eingezogen werden
-    können;
+3c. die Voraussetzungen und das Verfahren, nach denen Nachweise über
+    Befähigungen im Schiffsdienst und Fahrerlaubnisse für das Führen von
+    Traditionsschiffen und Sportfahrzeugen erteilt, entzogen oder deren
+    Ruhen angeordnet, Fahrverbote erteilt und entsprechende Urkunden
+    vorläufig sichergestellt oder eingezogen werden können;
 
 
 3d. die Anforderungen an die Erteilung eines Nachweises über die
@@ -1938,15 +1933,21 @@ Internationale Übereinkommen
     Meeresverschmutzung durch Schiffe vom 2. November 1973 und das
     Protokoll von 1978 zu diesem Übereinkommen vom 17. Februar 1978 (BGBl.
     1982 II S. 2, 4; 1996 II S. 399), zuletzt geändert durch die
-    Entschließungen MEPC.328(76), MEPC.329(76) und MEPC.330(76) vom 17.
-    Juni 2021 (BGBl. 2024 II Nr. 37),
+    Entschließungen MEPC.359(79), MEPC.360(79), MEPC.361(79) und
+    MEPC.362(79) vom 16. Dezember 2022 (BGBl. 2024 II Nr. 247),
 
 
 3.  Internationales Übereinkommen von 2004 zur Kontrolle und Behandlung
     von Ballastwasser und Sedimenten von Schiffen (Ballastwasser-
     Übereinkommen) vom 13. Februar 2004 (BGBl. 2013 II S. 42, 44), zuletzt
     geändert durch die Entschließung MEPC.325(75) vom 20. November 2020
-    (BGBl. 2022 II S. 155).
+    (BGBl. 2022 II S. 155),
+
+
+4.  Übereinkommen vom 9. April 1992 über den Schutz der Meeresumwelt des
+    Ostseegebiets (BGBl. 1994 II S. 1355, 1397), zuletzt geändert durch
+    die auf der Sitzung der Helsinki-Kommission am 25. Juni 2003
+    angenommenen Änderungen (BGBl. 2004 II S. 1667).
 
 
 

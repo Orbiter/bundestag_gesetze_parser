@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2016, 2789
 
 Zuletzt geändert durch
-:   Art. 4 V v. 28.4.2022 I 700
+:   Art. 9 Abs. 2 G v. 30.9.2025 I Nr. 233
 
 Stand: Ersetzt V 2129-6-3 v. 26.10.1977 I 1913 (AbfBeauftrV)
 
@@ -109,27 +109,10 @@ Einen betriebsangehörigen Abfallbeauftragten zu bestellen haben
 
     g)  Vertreiber, die pro Kalenderjahr mehr als 20 Tonnen Elektro- und
         Elektronikaltgeräte gemäß § 17 Absatz 3 des Elektro- und
-        Elektronikgerätegesetzes freiwillig zurücknehmen,
+        Elektronikgerätegesetzes freiwillig zurücknehmen, sowie
 
 
-    h)  Hersteller von Fahrzeug- und Industriebatterien, die Fahrzeug- und
-        Industrie-Altbatterien gemäß § 8 des Batteriegesetzes vom 25. Juni
-        2009 (BGBl. I S. 1582), das zuletzt durch Artikel 1 des Gesetzes vom
-        20\. November 2015 (BGBl. I S. 2071) geändert worden ist, in der
-        jeweils geltenden Fassung zurücknehmen, es sei denn, sie sind einem
-        freiwilligen System für die Rücknahme von Fahrzeug- und Industrie-
-        Altbatterien angeschlossen, das selbst über einen Abfallbeauftragten
-        verfügt,
-
-
-    i)  Vertreiber, die Fahrzeug- und Industrie-Altbatterien gemäß § 9 des
-        Batteriegesetzes zurücknehmen, es sei denn, sie sind einem
-        freiwilligen System für die Rücknahme von Fahrzeug- und Industrie-
-        Altbatterien angeschlossen, das selbst über einen Abfallbeauftragten
-        verfügt sowie
-
-
-    j)  Hersteller und Vertreiber, die mehr als 2 Tonnen gefährliche Abfälle
+    h)  Hersteller und Vertreiber, die mehr als 2 Tonnen gefährliche Abfälle
         oder mehr als 100 Tonnen nicht gefährliche Abfälle pro Kalenderjahr
         freiwillig zurücknehmen,
 
@@ -140,27 +123,20 @@ Einen betriebsangehörigen Abfallbeauftragten zu bestellen haben
 3.  Betreiber folgender Rücknahmesysteme:
 
     a)  Systeme, die Verpackungen gemäß § 14 Absatz 1 des Verpackungsgesetzes
-        zurücknehmen,
+        zurücknehmen, sowie
 
 
-    b)  herstellereigene Rücknahmesysteme, die Elektro- und
-        Elektronikaltgeräte gemäß § 16 Absatz 5 des Elektro- und
-        Elektronikgerätegesetzes zurücknehmen,
-
-
-    c)  das Gemeinsame Rücknahmesystem, das Geräte-Altbatterien gemäß § 6 des
-        Batteriegesetzes zurücknimmt,
-
-
-    d)  herstellereigene Rücknahmesysteme, die Geräte-Altbatterien gemäß § 7
-        des Batteriegesetzes zurücknehmen sowie
-
-
-    e)  Systeme, die Fahrzeug- oder Industrie-Altbatterien freiwillig
-        zurücknehmen.
+    b)  herstellereigene Rücknahmesysteme, die Elektro- und Elektronik-
+        Altgeräte gemäß § 16 Absatz 5 des Elektro- und
+        Elektronikgerätegesetzes zurücknehmen.
 
 
 
+
+
+4.  Betreiber von Organisationen für Herstellerverantwortung gemäß § 8 des
+    Batterierecht-Durchführungsgesetzes vom 30. September 2025 (BGBl. 2025
+    I Nr. 233).
 
 
 
@@ -414,7 +390,8 @@ der zuständigen Behörde anerkannten Lehrgang gemäß § 9 Absatz 1 Nummer
 
 ### Anlage 1 Lehrgangsinhalte
 
-(Fundstelle: BGBl. I 2016, 2792 - 2793)
+(Fundstelle: BGBl. I 2016, 2792 - 2793;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Die Lehrgänge sollen Kenntnisse vermitteln, die für die Erfüllung der
 Aufgaben eines Abfallbeauftragten bei dem Anlagenbetreiber oder
@@ -493,7 +470,8 @@ I. Kenntnisse des Abfallrechts und der Abfalltechnik
     a)  das Elektro- und Elektronikgerätegesetz,
 
 
-    b)  das Batteriegesetz und
+    b)  Kapitel VIII der Verordnung (EU) 2023/1542 und das Batterierecht-
+        Durchführungsgesetz vom 30. September 2025 (BGBl. 2025 I Nr. 233),
 
 
     c)  das Verpackungsgesetz,

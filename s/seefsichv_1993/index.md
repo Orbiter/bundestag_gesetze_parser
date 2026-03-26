@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1993, 1417
 
 Zuletzt geändert durch
-:   Art. 544 V v. 31.8.2015 I 1474
+:   Art. 5 V v. 25.3.2025 I Nr. 100
 
 
 ## Eingangsformel
@@ -343,9 +343,7 @@ der übrigen in Satz 1 genannten Personen erfüllt.
 
 eines anderen Vertragsstaates, so ist die Meldung nach Maßgabe des
 Satzes 2 und des Absatzes 3 an die zuständige Behörde dieses Staates
-zu richten. Das Bundesministerium für Verkehr und digitale
-Infrastruktur gibt die Meldestellen nach Satz 1 im Verkehrsblatt
-bekannt.
+zu richten.
 
 (3) Die Meldungen nach den Absätzen 1 und 2 müssen folgende Angaben
 enthalten:
@@ -515,7 +513,7 @@ Seeaufgabengesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 
-(1a) Ordnungswidrig im Sinne des § 53 Absatz 1 Nummer 1 des
+(1a) Ordnungswidrig im Sinne des § 39 Absatz 1 Nummer 1 des
 Seesicherheits-Untersuchungs-Gesetzes handelt, wer vorsätzlich oder
 fahrlässig entgegen § 7a nicht dafür Sorge trägt, dass die dort
 genannten Daten gesichert, ihr Überschreiben oder sonstiges Verändern

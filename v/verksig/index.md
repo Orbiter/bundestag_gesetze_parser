@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 8.10.1968 I 1082;
 
 Zuletzt geändert durch
-:   Art. 34 Abs. 10 G v. 22.12.2023 I Nr. 411
+:   Art. 40 G v. 15.7.2024 I Nr. 236
 
 
 ## Erster Abschnitt - Sicherstellung durch Rechtsverordnungen
@@ -922,8 +922,8 @@ Ordnungswidrigkeiten ist bei Zuwiderhandlungen gegen
 ### § 30 Ausnahmen und Sonderregelungen
 
 (1) Die Streitkräfte, die Bundespolizei, die Polizei, die
-Organisationen des Zivilschutzes und die Unternehmen, die nach § 1 des
-Postsicherstellungsgesetzes oder Teil 10 Abschnitt 2 des
+Organisationen des Zivilschutzes und die Unternehmen, die nach Kapitel
+12 des Postgesetzes oder Teil 10 Abschnitt 2 des
 Telekommunikationsgesetzes verpflichtet sind, sind von Verpflichtungen
 nach diesem Gesetz und den auf den Grund dieses Gesetzes erlassenen
 Rechtsverordnungen ausgenommen, soweit dieses Gesetz nichts anderes

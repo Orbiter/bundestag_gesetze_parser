@@ -61,7 +61,7 @@ Der Entwurf der Münze stammt von Herrn Frantisek Chochola, Hamburg.
 Der Bundesminister der Finanzen
 
 
-## (XXXX)
+## Anlage
 
 ( Fundstelle: BGBl. I 2008, 991 )
 

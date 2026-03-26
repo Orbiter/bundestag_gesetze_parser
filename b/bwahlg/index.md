@@ -21,6 +21,7 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 1 G v. 7.3.2024 I Nr. 91
 
+Stand: Bek. zur Wahlkreiseinteilung v. 27.12.2024 I Nr. 437 ist berücksichtigt
 
 ## Erster Abschnitt - Wahlsystem
 
@@ -75,8 +76,8 @@ eingeteilt.
 
 
 3.  Die Bevölkerungszahl eines Wahlkreises soll von der durchschnittlichen
-    Bevölkerungszahl der Wahlkreise nicht um mehr als 15 vom Hundert nach
-    oben oder unten abweichen; beträgt die Abweichung mehr als 25 vom
+    Bevölkerungszahl der Wahlkreise nicht um mehr als 10 vom Hundert nach
+    oben oder unten abweichen; beträgt die Abweichung mehr als 15 vom
     Hundert, ist eine Neuabgrenzung vorzunehmen.
 
 
@@ -1781,7 +1782,8 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 ### Anlage 2 (zu § 2 Absatz 2)
 
-(Fundstelle: BGBl. 2024 I Nr. 91, S. 3 – 62)
+(Fundstelle: BGBl. 2024 I Nr. 91, S. 3 – 62;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *   Wahlkreis
@@ -3549,7 +3551,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *   die Gemeinden
         Alt Schwerin, Fünfseen, Göhren-Lebbin, Malchow, Nossentiner Hütte,
-        Penkow, Silz, Walow, Zislow
+        Silz, Walow, Zislow
 
 
 *    *
@@ -3647,10 +3649,9 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Altenhagen, Altentreptow, Bartow, Breesen, Breest, Burow, Gnevkow,
-        Golchen, Grapzow, Grischow, Groß Teetzleben, Gültz, Kriesow,
-        Pripsleben, Röckwitz, Siedenbollentin, Tützpatz, Werder, Wildberg,
-        Wolde
+        Altenhagen, Altentreptow, Bartow, Breesen, Burow, Gnevkow, Golchen,
+        Grapzow, Grischow, Groß Teetzleben, Gültz, Kriesow, Pripsleben,
+        Röckwitz, Siedenbollentin, Tützpatz, Werder, Wildberg, Wolde
 
 
 *    *
@@ -7526,13 +7527,13 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 *    *
     *
     *
-    *   die Ortsamtsbereiche
+    *   die Stadtbezirke
         Altstadt, Blasewitz, Leuben, Plauen, Prohlis
 
 
 *    *
     *
-    *   (Übrige Ortsamtsbereiche und Ortschaften s. Wkr. 159)
+    *   (Übrige Stadtbezirke und Ortschaften s. Wkr. 159)
 
 
 *    *   159
@@ -7545,7 +7546,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 *    *
     *
     *
-    *   die Ortsamtsbereiche
+    *   die Stadtbezirke
         Cotta, Klotzsche, Loschwitz, Neustadt, Pieschen
 
 
@@ -7559,7 +7560,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Ortsamtsbereiche s. Wkr. 158)
+    *   (Übrige Stadtbezirke s. Wkr. 158)
 
 
 *    *

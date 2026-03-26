@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2016, 1046
 
-Geändert durch
-:   Art. 3 V v. 17.12.2018 I 2483
+Zuletzt geändert durch
+:   Art. 11 V v. 11.12.2024 I Nr. 411
 
 
 ## Abschnitt 1 - Sachkundenachweis
@@ -281,6 +281,9 @@ Qualifikationen erworben hat, diesen wesentlichen Unterschied nicht
 aus, so ist die Erlaubnis zur Aufnahme der angestrebten Tätigkeit von
 der erfolgreichen Teilnahme an einer ergänzenden, diese Sachgebiete
 umfassenden Sachkundeprüfung (spezifische Sachkundeprüfung) abhängig.
+§ 4 Absatz 2 gilt entsprechend für einen in einem anderen
+Mitgliedstaat der Europäischen Union oder einem Vertragsstaat des
+Abkommens über den Europäischen Wirtschaftsraum erworbenen Abschluss.
 
 
 ## Abschnitt 2 - Vermittlerregister
@@ -602,29 +605,7 @@ entstehenden Schadens verpflichtet. Mehrere Personen haften als
 Gesamtschuldner.
 
 
-### § 17 Anzeigepflicht
-
-Der Gewerbetreibende hat der für die Erlaubniserteilung nach § 34i
-Absatz 1 der Gewerbeordnung zuständigen Behörde unverzüglich nach Satz
-3 anzuzeigen, welche Personen jeweils mit der Leitung des Betriebs
-oder einer Zweigniederlassung beauftragt sind. Dies gilt bei
-juristischen Personen auch für die nach Gesetz, Satzung oder
-Gesellschaftsvertrag jeweils zur Vertretung berufenen Personen. In der
-Anzeige ist für jede Person Folgendes anzugeben:
-
-1.  der Name, der Geburtsname, sofern dieser vom Namen abweicht, sowie der
-    Vorname,
-
-
-2.  die Staatsangehörigkeit oder Staatsangehörigkeiten,
-
-
-3.  das Geburtsdatum und der Geburtsort sowie
-
-
-4.  die aktuelle Anschrift.
-
-
+### § 17 (weggefallen)
 
 
 
@@ -676,17 +657,12 @@ Gewerbeordnung handelt, wer vorsätzlich oder fahrlässig
 
 
 5.  entgegen § 16 Absatz 1 Satz 1 einem Prüfer eine Einsicht nicht
-    gestattet,
+    gestattet oder
 
 
 6.  entgegen § 16 Absatz 1 Satz 2 einem Prüfer eine Aufklärung oder einen
     Nachweis nicht, nicht richtig, nicht vollständig oder nicht
-    rechtzeitig gibt oder
-
-
-7.  entgegen § 17 Satz 1, auch in Verbindung mit Satz 2, eine Anzeige
-    nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig
-    erstattet.
+    rechtzeitig gibt.
 
 
 

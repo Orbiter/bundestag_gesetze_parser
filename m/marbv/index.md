@@ -20,10 +20,7 @@ Neugefasst durch
 :   Bek. v. 4.11.2009 I 3701;
 
 Zuletzt geändert durch
-:   Art. 9 G v. 9.7.2021 I 2444
-
-Änderung durch
-:   Art. 22 G v. 22.12.2023 I Nr. 414 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 12 G v. 27.2.2025 I Nr. 72
 
 
 ## § 1
@@ -99,6 +96,21 @@ Mehrarbeit geleistet wird im Rahmen eines
 
 
 
+Abweichend von Satz 1 Nummer 2 kann im Geschäftsbereich des
+Bundesministeriums der Verteidigung neben Auslandsdienstbezügen nach §
+52 des Bundesbesoldungsgesetzes eine Vergütung für Mehrarbeit gewährt
+werden, wenn eine Dienstbefreiung nicht möglich ist wegen
+
+1.  einer unmittelbaren Unterstützung soldatischer Tätigkeiten in den
+    Streitkräften zum Zwecke der Sicherstellung der militärischen
+    Einsatzbereitschaft im Rahmen der Landes- und Bündnisverteidigung oder
+
+
+2.  einer unmittelbaren Unterstützung in den Fällen des § 30c Absatz 4 des
+    Soldatengesetzes.
+
+
+
 
 (4) Ist die Gewährung einer Mehrarbeitsvergütung neben einer Zulage
 ganz oder teilweise ausgeschlossen, gilt dies auch für eine nach
@@ -118,7 +130,8 @@ bis zur Hälfte aufgezehrt ist.
 
 
 3.  aus zwingenden dienstlichen Gründen nicht durch Dienstbefreiung
-    innerhalb eines Jahres ausgeglichen werden kann und
+    innerhalb einer Ausschlussfrist von einem Jahr ausgeglichen werden
+    kann und
 
 
 4.  die sich aus der regelmäßigen wöchentlichen Arbeitszeit ergebende

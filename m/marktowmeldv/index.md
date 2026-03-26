@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1999, 2286
 
 Zuletzt geändert durch
-:   Art. 3 V v. 11.1.2021 I 47
+:   Art. 4 V v. 24.11.2025 I Nr. 280
 
 
 ## Eingangsformel
@@ -381,11 +381,16 @@ Bei der Herstellung von Mühlenerzeugnissen nach Satz 2 Nummer 2
 Buchstabe b sind hinsichtlich der nach Satz 2 Nummer 1 jeweils
 verwendeten Rohstoffe die Mengen gesondert anzugeben, die auf Getreide
 entfallen, das nach Vorschriften über die ökologische Produktion nach
-Maßgabe der Verordnung (EG) Nr. 834/2007 des Rates vom 28. Juni 2007
-über die ökologische/biologische Produktion und die Kennzeichnung von
-ökologischen/biologischen Erzeugnissen und zur Aufhebung der
-Verordnung (EWG) Nr. 2092/91 (ABl. L 189 vom 20.7.2007, S. 1) in der
-jeweils geltenden Fassung erzeugt wurde.
+Maßgabe der Verordnung (EU) 2018/848 des Europäischen Parlaments und
+des Rates vom 30. Mai 2018 über die ökologische/biologische Produktion
+und die Kennzeichnung von ökologischen/biologischen Erzeugnissen sowie
+zur Aufhebung der Verordnung (EG) Nr. 834/2007 des Rates (ABl. L 150
+vom 14.6.2018, S. 1; L 270 vom 29.10.2018, S. 37; L 305 vom 26.11.2019
+S. 59; L 37 vom 10.2.2020, S. 26; L 324 vom 6.10.2020, S. 65; L 7 vom
+11\.1.2021, S. 53; L 204 vom 10.6.2021, S. 47; L 318 vom 9.9.2021, S.
+5), die zuletzt durch die Delegierte Verordnung (EU) 2023/207 (ABl. L
+29 vom 1.2.2023, S. 6) geändert worden ist in der jeweils geltenden
+Fassung erzeugt wurde.
 
 (2a) Mühlen mit einer jährlichen Verarbeitung von mehr als 200 000
 Tonnen Brotgetreide haben monatlich nach Maßgabe des § 7 Nummer 2 den
@@ -1081,11 +1086,10 @@ abzugeben:
     a)  die Anlieferung von landwirtschaftlichen Betrieben, untergliedert nach
         Tierarten, jeweils unter gesonderter Angabe der Anlieferung der Milch,
         die nach unionsrechtlichen Vorschriften über die ökologische
-        Produktion nach Maßgabe der Verordnung (EG) Nr. 834/2007 erzeugt
-        wurde; die Anlieferung von landwirtschaftlichen Betrieben aus dem
-        Ausland ist zusätzlich nach Herkunftsland zu untergliedern, die
-        Anlieferung von landwirtschaftlichen Betrieben aus dem Inland nach
-        Ländern,
+        Produktion nach Maßgabe der Verordnung (EU) 2018/848 erzeugt wurde;
+        die Anlieferung von landwirtschaftlichen Betrieben aus dem Ausland ist
+        zusätzlich nach Herkunftsland zu untergliedern, die Anlieferung von
+        landwirtschaftlichen Betrieben aus dem Inland nach Ländern,
 
 
     b)  die Anlieferung von inländischen landwirtschaftlichen Betrieben
@@ -1137,8 +1141,21 @@ folgenden Angaben abzugeben:
     Milcherzeugnissen im Sinne des § 1 Nummer 18 Buchstabe a bis d,
     gesondert nach dem jeweiligen Erzeugnis in Kilogramm unter Angabe des
     jeweiligen Fettgehalts in Fetteinheiten und des Eiweißgehalts in
-    Eiweißeinheiten, bei Konsummilch, Buttermilcherzeugnissen und
-    Milchmischerzeugnissen auch untergliedert nach Gebindegrößen,
+    Eiweißeinheiten, und zusätzlich bei
+
+    a)  Konsummilch, Buttermilcherzeugnissen und Milchmischerzeugnissen auch
+        untergliedert nach Gebindegrößen,
+
+
+    b)  Buttermilcherzeugnissen, ungezuckerten und gezuckerten
+        Kondensmilcherzeugnissen, Trockenmilcherzeugnissen,
+        Molkenerzeugnissen, Milcheiweißerzeugnissen, Milchmischerzeugnissen,
+        Molkenmischerzeugnissen und Milchfetterzeugnissen im Sinne der
+        Verordnung über Milcherzeugnisse auch gesondert nach ökologischer
+        Wirtschaftsweise,
+
+
+
 
 
 2.  für jede Gruppe von Milcherzeugnissen, im Fall von
@@ -1152,10 +1169,12 @@ folgenden Angaben abzugeben:
     Flüssigmolkeäquivalent,
 
 
-4.  zur Herstellung von Konsummilch, Butter und Käse ergänzend zu Nummer 1
-    die Angabe der Erzeugnismenge, die nach unionsrechtlichen Vorschriften
-    über die ökologische Produktion nach Maßgabe der Verordnung (EG) Nr.
-    834/2007 erzeugt wurde, in Kilogramm,
+4.  zur Herstellung von Konsummilch, Butter, Sauermilcherzeugnissen,
+    Joghurterzeugnissen, Kefirerzeugnissen, Sahneerzeugnissen,
+    Milchzuckererzeugnissen und Käse ergänzend zu Nummer 1 die Angabe der
+    Erzeugnismenge, die nach unionsrechtlichen Vorschriften über die
+    ökologische Produktion nach Maßgabe der Verordnung (EU) 2018/848
+    erzeugt wurde, in Kilogramm,
 
 
 5.  zur Herstellung von Käse ergänzend zu Nummer 1:
@@ -1351,12 +1370,14 @@ Die Preise sind in Euro je 100 Kilogramm Produktgewicht anzugeben.
 (6) Die Meldepflicht nach den Absätzen 4 und 5 gilt nur für
 Erzeugnisse aus konventioneller Erzeugung. Von der Meldepflicht nach
 Absatz 5 Satz 1 Nummer 6 und 7 ausgenommen sind Erzeugnisse mit einer
-Herkunfts- und Ursprungsangabe nach der Verordnung (EU) Nr. 1151/2012
-des Europäischen Parlaments und des Rates vom 21. November 2012 über
-Qualitätsregelungen für Agrarerzeugnisse und Lebensmittel (ABl. L 343
-vom 14.12.2012, S. 1), die zuletzt durch die Verordnung (EU) 2017/625
-(ABl. L 95 vom 7.4.2017, S. 1) geändert worden ist, in der jeweils
-geltenden Fassung.
+Herkunfts- und Ursprungsangabe nach der Verordnung (EU) 2024/1143 des
+Europäischen Parlaments und des Rates vom 11. April 2024 über
+geografische Angaben für Wein, Spirituosen und landwirtschaftliche
+Erzeugnisse und über garantiert traditionelle Spezialitäten und
+fakultative Qualitätsangaben für landwirtschaftliche Erzeugnisse sowie
+zur Änderung der Verordnungen (EU) Nr. 1308/2013, (EU) 2019/787 und
+(EU) 2019/1753 und zur Aufhebung der Verordnung (EU) Nr. 1151/2012
+(ABl. L, 2024/1143, 23.4.2024) in der jeweils geltenden Fassung.
 
 (7) Soweit die in den Absätzen 4 und 5 genannten Erzeugnisse nicht von
 externen Lieferanten zugekauft werden, sondern von Betrieben, die zum
@@ -1458,8 +1479,8 @@ von Blockware, getrennt nach diesen Sorten, zu melden:
 
 Die Meldepflicht gilt nur, soweit der Jahresumsatz des Herstellers
 250 000 000 Euro übersteigt. Von der Meldepflicht ausgenommen ist Käse
-mit einer Herkunfts- und Ursprungsangabe nach der Verordnung (EU) Nr.
-1151/2012.
+mit einer Herkunfts- und Ursprungsangabe nach der Verordnung (EU)
+2024/1143.
 
 (7) Hersteller von Fertiggerichten haben nach Maßgabe des § 7 Nummer 3
 die in der Vorwoche gezahlten durchschnittlichen Einkaufspreise für

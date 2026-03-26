@@ -17,7 +17,10 @@ Fundstelle
 :   BGBl I: 2013, 498
 
 Zuletzt geändert durch
-:   Art. 3 V v. 28.8.2023 I Nr. 236
+:   Art. 3 V v. 2.10.2024 I Nr. 299
+
+Änderung durch
+:   Art. 3 V v. 30.1.2026 I Nr. 32 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Eingangsformel
@@ -31,7 +34,7 @@ Verkehr, Bau und Stadtentwicklung:
 
 ## § 1 Bußgeldkatalog
 
-(1) Bei Ordnungswidrigkeiten nach § 24 Absatz 1, § 24a Absatz 1 bis 3
+(1) Bei Ordnungswidrigkeiten nach § 24 Absatz 1, § 24a Absatz 1 bis 2a
 und § 24c Absatz 1 und 2 des Straßenverkehrsgesetzes, die in der
 Anlage zu dieser Verordnung (Bußgeldkatalog – BKat) aufgeführt sind,
 ist eine Geldbuße nach den dort bestimmten Beträgen festzusetzen. Bei
@@ -84,8 +87,8 @@ Handlung oder die Handlungen insgesamt noch geringfügig sind.
 
 (1) Etwaige Eintragungen des Betroffenen im Fahreignungsregister sind
 im Bußgeldkatalog nicht berücksichtigt, soweit nicht in den Nummern
-152\.1, 241.1, 241.2, 242.1 und 242.2 des Bußgeldkatalogs etwas anderes
-bestimmt ist.
+152\.1, 241.1, 241.2, 242.1, 242.2, 243.1, 243.2, 243a.1 und 243a.2 des
+Bußgeldkatalogs etwas anderes bestimmt ist.
 
 (2) Wird ein Tatbestand der Nummer 119, der Nummer 198.1 in Verbindung
 mit Tabelle 3 des Anhangs oder der Nummern 212, 214.1, 214.2 oder 223
@@ -200,8 +203,9 @@ Geschwindigkeitsüberschreitung von mindestens 26 km/h begeht.
 
 (3) Bei Ordnungswidrigkeiten nach § 24a des Straßenverkehrsgesetzes
 ist ein Fahrverbot (§ 25 Absatz 1 Satz 2 des Straßenverkehrsgesetzes)
-in der Regel mit der in den Nummern 241, 241.1, 241.2, 242, 242.1 und
-242\.2 des Bußgeldkatalogs vorgesehenen Dauer anzuordnen.
+in der Regel mit der in den Nummern 241, 241.1, 241.2, 242, 242.1,
+242\.2, 243, 243.1, 243.2, 243a, 243a.1 und 243a.2 des Bußgeldkatalogs
+vorgesehenen Dauer anzuordnen.
 
 (4) Wird von der Anordnung eines Fahrverbots ausnahmsweise abgesehen,
 so soll das für den betreffenden Tatbestand als Regelsatz vorgesehene
@@ -2533,14 +2537,6 @@ Abschnitt I
     *   100 €
 
 
-*    *   54a.2.1
-
-    *
-    *   (weggefallen)
-
-    *
-    *
-
 *    *   55
 
     *   Unberechtigt auf Schwerbehinderten-Parkplatz geparkt (§ 12 Absatz 2
@@ -3861,12 +3857,16 @@ Abschnitt I
     *   80 €
 
 
-*    *   (109)
+*    *   109
 
-    *   (aufgehoben)
+    *   Nicht sichergestellt, dass ein vorgeschriebenes
+        Notbremsassistenzsystem eingeschaltet ist
 
-    *
-    *
+    *   § 23 Absatz 1d
+        § 49 Absatz 1 Nummer 22
+
+    *   100 €
+
 
 *    *   (109a)
 
@@ -6520,7 +6520,9 @@ Abschnitt I
         zugelassen, obwohl die Betriebserlaubnis erloschen war, und dadurch
         die Umwelt wesentlich beeinträchtigt
 
-    *
+    *   § 19 Absatz 5 Satz 1
+        § 69a Absatz 2 Nummer 1b
+
     *
 
 *    *   189b.1
@@ -6757,12 +6759,39 @@ Abschnitt I
         Buchstabe b
 
 
-*    *   (200)
+*    *   200
 
-    *   (aufgehoben)
+    *   Als Halter eine Flüssiggasanlage nicht, nicht richtig, nicht in der
+        vorgeschriebenen Weise oder nicht rechtzeitig prüfen lässt um
+
+    *   § 60 Absatz 1 Satz 1, Absatz 2 Satz 1 oder Absatz 3 Satz 1,
+        § 69a Absatz 2 Nummer 20
 
     *
+
+*    *   200.1
+
+    *   mehr als 2 bis zu 4 Monate
+
     *
+    *   15 €
+
+
+*    *   200.2
+
+    *   mehr als 4 bis zu 8 Monate
+
+    *
+    *   25 €
+
+
+*    *   200.3
+
+    *   mehr als 8 Monate
+
+    *
+    *   60 €
+
 
 *    *
     *   Besetzung von Kraftomnibussen ****
@@ -7242,7 +7271,7 @@ Abschnitt I
         dadurch die Umwelt wesentlich beeinträchtigt
 
     *   § 19 Absatz 5 Satz 1
-        § 69a Absatz 2 Nummer 1a
+        § 69a Absatz 2 Nummer 1b
 
     *
 
@@ -7986,8 +8015,7 @@ Abschnitt I
 
 
 *    *
-    *   B.
-        Zuwiderhandlungen gegen
+    *   B. Zuwiderhandlungen gegen
         §§ 24a, 24c StVG ****
 
     *
@@ -8003,39 +8031,93 @@ Abschnitt I
 
     *   Kraftfahrzeug geführt mit einer Atemalkoholkonzentration von 0,25 mg/l
         oder mehr oder mit einer Blutalkoholkonzentration von 0,5 Promille
-        oder mehr oder
-        mit einer Alkoholmenge im Körper, die zu einer solchen Atem- oder
-        Blutalkoholkonzentration führt
+        oder mehr oder mit einer Alkoholmenge im Körper, die zu einer solchen
+        Atem- oder Blutalkoholkonzentration führt
 
     *   § 24a Absatz 1
 
     *   500 €
-        Fahrverbot
+        **Fahrverbot**
         **1 Monat**
 
 
 *    *   241.1
 
     *
-    *   bei Eintragung von bereits einer Entscheidung nach § 24a StVG, § 316
-        oder § 315c Absatz 1 Nummer 1 Buchstabe a StGB im Fahreignungsregister
+        *   bei Eintragung von bereits einer Entscheidung nach § 24a StVG, § 316
+            oder § 315c Absatz 1 Nummer 1 Buchstabe a StGB im Fahreignungsregister
+
+
+
 
     *
     *   1 000 €
-        Fahrverbot
+        **Fahrverbot**
         **3 Monate**
 
 
 *    *   241.2
 
     *
-    *   bei Eintragung von bereits mehreren Entscheidungen nach § 24a StVG, §
-        316 oder § 315c Absatz 1 Nummer 1 Buchstabe a StGB im
-        Fahreignungsregister
+        *   bei Eintragung von bereits mehreren Entscheidungen nach § 24a StVG, §
+            316 oder § 315c Absatz 1 Nummer 1 Buchstabe a StGB im
+            Fahreignungsregister
+
+
+
 
     *
     *   1 500 €
-        Fahrverbot
+        **Fahrverbot**
+        **3 Monate**
+
+
+*    *
+    *   3,5-ng/ml-Tetrahydrocannabinol-Grenze ****
+
+    *
+    *
+
+*    *   242
+
+    *   Kraftfahrzeug geführt mit 3,5 ng/ml oder mehr Tetrahydrocannabinol im
+        Blutserum
+
+    *   § 24a Absatz 1a
+
+    *   500 €
+        **Fahrverbot**
+        **1 Monat**
+
+
+*    *   242.1
+
+    *
+        *   bei Eintragung von bereits einer Entscheidung nach § 24a StVG, § 316
+            oder § 315c Absatz 1 Nummer 1 Buchstabe a StGB im Fahreignungsregister
+
+
+
+
+    *
+    *   1 000 €
+        **Fahrverbot**
+        **3 Monate**
+
+
+*    *   242.2
+
+    *
+        *   bei Eintragung von bereits mehreren Entscheidungen nach § 24a StVG, §
+            316 oder § 315c Absatz 1 Nummer 1 Buchstabe a StGB im
+            Fahreignungsregister
+
+
+
+
+    *
+    *   1 500 €
+        **Fahrverbot**
         **3 Monate**
 
 
@@ -8045,59 +8127,122 @@ Abschnitt I
     *
     *
 
-*    *   242
+*    *   243
 
     *   Kraftfahrzeug unter Wirkung eines in der Anlage zu
         § 24a Absatz 2 StVG genannten berauschenden Mittels geführt
 
-    *   § 24a Absatz 2 Satz 1 i. V. m.
-        Absatz 3
+    *   § 24a Absatz 2 Satz 1
 
     *   500 €
-        Fahrverbot
+        **Fahrverbot**
         **1 Monat**
 
 
-*    *   242.1
+*    *   243.1
 
     *
-    *   bei Eintragung von bereits einer Entscheidung nach § 24a StVG, § 316
-        oder § 315c Absatz 1 Nummer 1 Buchstabe a StGB im Fahreignungsregister
+        *   bei Eintragung von bereits einer Entscheidung nach § 24a StVG, § 316
+            oder § 315c Absatz 1 Nummer 1 Buchstabe a StGB im Fahreignungsregister
+
+
+
 
     *
     *   1 000 €
-        Fahrverbot
+        **Fahrverbot**
         **3 Monate**
 
 
-*    *   242.2
+*    *   243.2
 
     *
-    *   bei Eintragung von bereits mehreren Entscheidungen nach § 24a StVG, §
-        316 oder § 315c Absatz 1 Nummer 1 Buchstabe a StGB im
-        Fahreignungsregister
+        *   bei Eintragung von bereits mehreren Entscheidungen nach § 24a StVG, §
+            316 oder § 315c Absatz 1 Nummer 1 Buchstabe a StGB im
+            Fahreignungsregister
+
+
+
 
     *
     *   1 500 €
-        Fahrverbot
+        **Fahrverbot**
         **3 Monate**
 
 
 *    *
-    *   Alkoholverbot für Fahranfänger und Fahranfängerinnen ****
+    *   Alkoholverbot für Cannabiskonsumenten und Cannabiskonsumentinnen ****
 
     *
     *
 
-*    *   243
+*    *   243a
 
-    *   In der Probezeit nach § 2a StVG oder vor Vollendung
-        des 21. Lebensjahres als Führer eines Kraftfahrzeugs alkoholische
-        Getränke zu sich genommen oder die
-        Fahrt unter der Wirkung eines solchen Getränks
-        angetreten
+    *   Als Führer eines Kraftfahrzeugs im Straßenverkehr 3,5 ng/ml oder mehr
+        Tetrahydrocannabinol im Blutserum und
 
-    *   § 24c Absatz 1, 2
+        1.  ein alkoholisches Getränk zu sich genommen oder
+
+
+        2.  die Fahrt unter der Wirkung eines alkoholischen Getränks angetreten
+
+
+
+
+    *   § 24a Absatz 2a
+
+    *   1 000 €
+        **Fahrverbot**
+        **1 Monat**
+
+
+*    *   243a.1
+
+    *
+        *   bei Eintragung von bereits einer Entscheidung nach § 24a StVG, § 316
+            oder 315c Absatz 1 Nummer 1 Buchstabe a StGB im Fahreignungsregister
+
+
+
+
+    *
+    *   1 500 €
+        **Fahrverbot**
+        **3 Monate**
+
+
+*    *   243a.2
+
+    *
+        *   bei Eintragung von bereits mehreren Entscheidungen nach § 24a StVG, §
+            316 oder § 315c Absatz 1 Nummer 1 Buchstabe a StGB im
+            Fahreignungsregister
+
+
+
+
+    *
+    *   2 000 €
+        **Fahrverbot**
+        **3 Monate**
+
+
+*    *
+    *   Alkohol- und Cannabisverbot für Fahranfänger und Fahranfängerinnen
+        ****
+
+    *
+    *
+
+*    *   243b
+
+    *   In der Probezeit nach § 2a StVG oder vor Vollendung des 21.
+        Lebensjahres als Führer eines Kraftfahrzeugs im Straßenverkehr ein
+        alkoholisches Getränk oder die Substanz Tetrahydrocannabinol zu sich
+        genommen oder die Fahrt unter der Wirkung eines alkoholischen Getränks
+        oder der Substanz Tetrahydrocannabinol angetreten
+
+    *   § 24c Absatz 1
 
     *   250 €
 
@@ -8297,12 +8442,12 @@ Abschnitt II
         beschränkenden Zusatzzeichen (Zeichen 251 mit Zusatzzeichen 1053-33)
         oder eine tatsächliche Höhenbeschränkung (Zeichen 265) nicht beachtet,
         wobei die Straßenfläche zusätzlich durch Verkehrseinrichtungen (Anlage
-        4 lfd. Nr. 1 bis 4 zu § 43 Absatz 3) gekennzeichnet ist.
+        4 lfd. Nr. 1 bis 4 zu § 43 Absatz 3 StVO) gekennzeichnet ist.
 
-    *   § 41 Absatz 1 i.V.m.
-        Anlage 2 lfd. Nr. 27 Spalte 3, lfd. Nr. 29
-        (Zeichen 251)                      Spalte 3, lfd. Nr. zu 36 bis 40,
-        lfd. Nr. 39 (Zeichen 265)
+    *   § 41 Absatz 1 i. V. m. Anlage 2
+        lfd. Nr. 27 Spalte 3, lfd. Nr. 29 (Zeichen 251) Spalte 3, lfd. Nr. zu
+        36 bis 40, lfd. Nr. 39
+        (Zeichen 265)
         § 43 Absatz 3 Satz 2
         § 49 Absatz 3 Nummer 4, 6
 
@@ -8312,21 +8457,22 @@ Abschnitt II
 
 
 *    *
-    *   Aushändigen von Führerscheinen und Bescheinigungen ****
+    *   b) Fahrerlaubnis-Verordnung
+        Aushändigen von Führerscheinen und Bescheinigungen ****
 
     *
     *
 
 *    *   251
 
-    *   Führerschein, Bescheinigung oder die Übersetzung
-        des ausländischen Führerscheins auf Verlangen nicht ausgehändigt
+    *   Führerschein, Bescheinigung oder die Übersetzung des ausländischen
+        Führerscheins auf Verlangen nicht ausgehändigt
 
     *   § 4 Absatz 2 Satz 2, 3
         § 5 Absatz 4 Satz 2, 3
         § 48 Absatz 3 Satz 2
         § 48a Absatz 3 Satz 2
-        § 74 Absatz 4 Satz 2
+        § 74 Absatz 4 Satz 5
         § 75 Nummer 4
         § 75 Nummer 13
 
@@ -8339,7 +8485,7 @@ Abschnitt II
         oder BE ohne Begleitung geführt
 
     *   § 48a Absatz 2 Satz 1
-        § 75 Nummer 15
+        § 75 Nummer 9
 
     *   70 €
 
@@ -8358,31 +8504,42 @@ Abschnitt II
 
 *    *   252
 
-    *   Die Zulassungsbescheinigung Teil I oder sonstige
-        Bescheinigung auf Verlangen nicht ausgehändigt oder nicht wie
-        vorgeschrieben ausgelegt
+    *   Die Zulassungsbescheinigung Teil I oder sonstige Bescheinigung auf
+        Verlangen nicht ausgehändigt
 
-    *   § 4 Absatz 5 Satz 1
-        § 13 Absatz 6 Satz 1
-        § 28 Satz 2
-        § 31 Satz 3
-        § 32 Absatz 2
-        § 52 Absatz 1 Satz 6
-        § 77 Nummer 4 und Nummer 22
+    *   § 4 Absatz 5 Satz 1
+        § 13 Absatz 6 Satz 1
+        § 28 Satz 2
+        § 31 Satz 3
+        § 52 Absatz 1 Satz 6
+        § 77 Nummer 4
 
     *   10 €
 
 
+*    *
+    *   Betriebsverbot und Beschränkungen ****
+
+    *
+    *
+
 *    *   253
 
-    *   Einem Verbot, ein Fahrzeug in Betrieb zu setzen,
-        zuwidergehandelt oder Beschränkung nicht beachtet
+    *   Einem Verbot, ein Fahrzeug in Betrieb zu setzen, zuwidergehandelt oder
+        Beschränkung nicht beachtet
 
-    *   § 5 Absatz 1
-        § 77 Nummer 6
+    *   § 5 Absatz 1 Satz 1
+        § 77 Nummer 6
 
     *   70 €
 
+
+*    *
+    *   d) Straßenverkehrs-Zulassungs-Ordnung
+        Erlöschen der Betriebserlaubnis ****
+
+    *
+    *
 
 *    *   253a
 
@@ -8411,7 +8568,8 @@ Abschnitt II
 
 
 *    *
-    *   Achslast, Gesamtgewicht, Anhängelast hinter Kraftfahrzeugen ****
+    *   Achslast, Gesamtgewicht,
+        Anhängelast hinter Kraftfahrzeugen ****
 
     *
     *
@@ -8436,8 +8594,7 @@ Abschnitt II
 
 *    *   255
 
-    *   Urkunde über eine Ausnahmegenehmigung auf
-        Verlangen nicht ausgehändigt
+    *   Urkunde über eine Ausnahmegenehmigung auf Verlangen nicht ausgehändigt
 
     *   § 70 Absatz 3a Satz 1
         § 69a Absatz 5 Nummer 7

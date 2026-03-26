@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2008, 2186, 2196
 
 Zuletzt geändert durch
-:   Art. 4 V v. 10.3.2022 I 428
+:   Art. 4 V v. 30.10.2024 I Nr. 342
 
 
 ## § 1 Gesetzliche Handelsklassen und Kategorien für Rinderschlachtkörper
@@ -43,16 +43,18 @@ zum Schlachtzeitpunkt mindestens acht Monate alt waren.
 ## § 2 Einstufung in Handelsklassen
 
 (1) Schlachtbetriebe im Sinne des § 1 Nummer 3 des Fleischgesetzes,
-die pro Woche durchschnittlich mehr als 150 Rinder schlachten, sind
-verpflichtet, alle Rinderschlachtkörper möglichst bald nach der
-Schlachtung und vor Beginn des Kühlprozesses, spätestens aber eine
-Stunde nach dem Stechen des Tieres in die in § 1 Absatz 1 bezeichneten
-Kategorien und Handelsklassen einstufen zu lassen (Klassifizierung).
-Die durchschnittliche wöchentliche Schlachtzahl wird auf der Grundlage
-der im Jahresdurchschnitt des vorangegangenen Kalenderjahres
-geschlachteten Menge ermittelt. Die Verantwortung für die
-Rahmenbedingungen einer ordnungsgemäßen Durchführung der
-Klassifizierung obliegt dem Schlachtbetrieb; sie wird durch die
+die pro Woche durchschnittlich mehr als 150 Rinder schlachten oder
+schlachten lassen, sind verpflichtet, alle Rinderschlachtkörper
+möglichst bald nach der Schlachtung und vor Beginn des Kühlprozesses,
+spätestens aber eine Stunde nach dem Stechen des Tieres in die in § 1
+Absatz 1 bezeichneten Kategorien und Handelsklassen einstufen zu
+lassen (Klassifizierung). Die durchschnittliche wöchentliche
+Schlachtzahl wird auf der Grundlage der im Jahresdurchschnitt des
+vorangegangenen Kalenderjahres geschlachteten Menge ermittelt. Die
+Verantwortung für die Rahmenbedingungen einer ordnungsgemäßen
+Durchführung der Klassifizierung obliegt der Schlachtstätte im Sinne
+des § 1 Nummer 4 des Fleischgesetzes und für die ordnungsgemäße
+Durchführung im Einzelnen dem Schlachtbetrieb; sie wird durch die
 Beauftragung eines zugelassenen Klassifizierungsunternehmens mit der
 Durchführung der Klassifizierung nicht berührt.
 
@@ -125,7 +127,7 @@ Marktorganisationsgesetzes handelt, wer vorsätzlich oder leichtfertig
     richtig oder nicht rechtzeitig einstufen lässt oder
 
 
-2.  entgegen § 2 Absatz 3 eine Handelsklasse oder Kategorie verwendet.
+2.  entgegen § 2 Absatz 4 eine Handelsklasse oder Kategorie verwendet.
 
 
 

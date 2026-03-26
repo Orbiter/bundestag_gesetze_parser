@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2009, 900
 
 Zuletzt geändert durch
-:   Art. 3 V v. 9.7.2021 I 2598
+:   Art. 3 G v. 3.7.2024 I Nr. 225
 
 
 ## Teil 1 - Allgemeine Bestimmungen
@@ -2020,8 +2020,9 @@ Beschwerden wegen ernsthafter Umweltbeeinträchtigungen, bei
 Ereignissen mit erheblichen Beeinträchtigungen des Wohls der
 Allgemeinheit und bei Verstößen gegen Vorschriften des
 Kreislaufwirtschaftsgesetzes, dieser Verordnung oder einer auf Grund
-des Kreislaufwirtschaftsgesetzes erlassenen Rechtsverordnung eine
-Überwachung durch.
+des Kreislaufwirtschaftsgesetzes erlassenen Rechtsverordnung
+unverzüglich und, soweit erforderlich, vor der Erteilung, Erneuerung
+oder Aktualisierung einer Genehmigung eine Überwachung durch.
 
 (5) Nach jeder Vor-Ort-Besichtigung einer planfeststellungsbedürftigen
 Deponie, für die eine Pflicht zur Erstellung eines Überwachungsplans
@@ -2753,7 +2754,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     Es ist ein Qualitätsmanagementplan nach den Grundsätzen des
     Qualitätsmanagements Kapitel E5-1 der GDA-Empfehlungen des
     Arbeitskreises 6.1 – Geotechnik der Deponiebauwerke – der Deutschen
-    Gesellschaft für Geotechnik e. V., Stand Dezember 2016, abrufbar unter
+    Gesellschaft für Geotechnik e. V., Stand Oktober 2020, abrufbar unter
     https://www.laga-online.de/Publikationen-50-Informationen-
     Bundeseinheitliche-Qualitaetsstandards.html, aufzustellen. Dieser soll
     die speziellen Elemente des Qualitätsmanagements sowie die
@@ -2881,7 +2882,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *        *   1
 
-        *[^f772033_03_BJNR090010009BJNE003005116]
+        *[^f772033_03_BJNR090010009BJNE003006130]
    Geologische Barriere
 
         *   k*                              1x10
@@ -2904,7 +2905,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *        *   2
 
         *   Erste Abdichtungs-
-[^f772033_04_BJNR090010009BJNE003005116]
+[^f772033_04_BJNR090010009BJNE003006130]
             komponente
 
         *   nicht
@@ -2937,7 +2938,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *        *   4
 
         *   Mineralische Entwäs-
-[^f772033_05_BJNR090010009BJNE003005116]
+[^f772033_05_BJNR090010009BJNE003006130]
             serungsschicht
             ,
             Körnung gemäß DIN 19667
@@ -3096,10 +3097,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
         *   DK 0
 
-        *[^f772033_10_BJNR090010009BJNE003005116]
+        *[^f772033_10_BJNR090010009BJNE003006130]
    DK I
 
-        *[^f772033_11_BJNR090010009BJNE003005116]
+        *[^f772033_11_BJNR090010009BJNE003006130]
    DK II
 
         *   DK III
@@ -3107,13 +3108,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *        *   1
 
-        *[^f772033_06_BJNR090010009BJNE003005116]
+        *[^f772033_06_BJNR090010009BJNE003006130]
    Trag- und Ausgleichsschicht
 
         *   nicht
             erforderlich
 
-        *[^f772033_12_BJNR090010009BJNE003005116]
+        *[^f772033_12_BJNR090010009BJNE003006130]
    ggf.
             erforderlich
 
@@ -3137,7 +3138,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         *   nicht
             erforderlich
 
-        *[^f772033_13_BJNR090010009BJNE003005116]
+        *[^f772033_13_BJNR090010009BJNE003006130]
    ggf.
             erforderlich
 
@@ -3154,13 +3155,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         *   nicht
             erforderlich
 
-        *[^f772033_07_BJNR090010009BJNE003005116]
+        *[^f772033_07_BJNR090010009BJNE003006130]
    erforderlich
 
         *   erforderlich
             2                             )
 
-        *[^f772033_08_BJNR090010009BJNE003005116]
+        *[^f772033_08_BJNR090010009BJNE003006130]
    erforderlich
 
 
@@ -3200,7 +3201,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *        *   6
 
-        *[^f772033_09_BJNR090010009BJNE003005116]
+        *[^f772033_09_BJNR090010009BJNE003006130]
    Entwässerungsschicht
             d*                              0,30 m, k*
             1x10
@@ -3323,7 +3324,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     (Laborwert nach DIN EN ISO 17892-11, Ausgabe Mai 2019, Geotechnische
     Erkundung und Untersuchung – Laborversuche an Bodenproben – Teil 11:
     Bestimmung der Wasserdurchlässigkeit (ISO 17892-11:2019) einzuhalten.
-[^f772033_03_BJNR090010009BJNE003005116]: [^f772033_04_BJNR090010009BJNE003005116]:     *              5 x 10             -10              m/s bei einem
+[^f772033_03_BJNR090010009BJNE003006130]: [^f772033_04_BJNR090010009BJNE003006130]:     *              5 x 10             -10              m/s bei einem
     Druckgradienten von i = 30 (Laborwert nach DIN EN ISO 17892-11,
     Ausgabe Mai 2019, Geotechnische Erkundung und Untersuchung –
     Laborversuche an Bodenproben – Teil 11: Bestimmung der
@@ -3334,10 +3335,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     Deponiekörper kommt, kann mit Zustimmung der zuständigen Behörde bei
     Deponien der Klasse I, II und III die Entwässerungsschicht mit einer
     geringeren Schichtstärke oder anderer Körnung hergestellt werden.
-[^f772033_05_BJNR090010009BJNE003005116]:     Die Trag- und Ausgleichsschicht kann bei ausreichender
+[^f772033_05_BJNR090010009BJNE003006130]:     Die Trag- und Ausgleichsschicht kann bei ausreichender
     Gasdurchlässigkeit und Dicke die Funktion der Gasdränschicht nach
     Nummer 2 mit erfüllen.
-[^f772033_06_BJNR090010009BJNE003005116]: [^f772033_07_BJNR090010009BJNE003005116]:     *              5 x 10             -9              m/s (Laborwert nach
+[^f772033_06_BJNR090010009BJNE003006130]: [^f772033_07_BJNR090010009BJNE003006130]:     *              5 x 10             -9              m/s (Laborwert nach
     DIN EN ISO 17892-11, Ausgabe Mai 2019, Geotechnische Erkundung und
     Untersuchung – Laborversuche an Bodenproben – Teil 11: Bestimmung der
     Wasserdurchlässigkeit (ISO 17892 - 11:2019); bei einem Druckgradienten
@@ -3348,7 +3349,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     Durchsickerung aufweisen. Werden Kunststoffdichtungsbahnen als
     Abdichtungskomponente eingesetzt, darf ihre Dicke 2,5 mm nicht
     unterschreiten.
-[^f772033_08_BJNR090010009BJNE003005116]:     *              5 x 10             -10              m/s (Laborwert nach
+[^f772033_08_BJNR090010009BJNE003006130]:     *              5 x 10             -10              m/s (Laborwert nach
     DIN EN ISO 17892-11, Ausgabe Mai 2019, Geotechnische Erkundung und
     Untersuchung – Laborversuche an Bodenproben – Teil 11: Bestimmung der
     Wasserdurchlässigkeit (ISO 17892 - 11:2019); bei einem Druckgradienten
@@ -3365,13 +3366,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     hydraulische Leistungsfähigkeit der Entwässerungsschicht und die
     Standsicherheit der Rekultivierungsschicht dauerhaft gewährleistet
     sind.
-[^f772033_09_BJNR090010009BJNE003005116]:     Anstelle der Abdichtungskomponente, der Entwässerungsschicht und der
+[^f772033_09_BJNR090010009BJNE003006130]:     Anstelle der Abdichtungskomponente, der Entwässerungsschicht und der
     Rekultivierungsschicht kann eine als Wasserhaushaltsschicht
     ausgeführte Rekultivierungsschicht zugelassen werden, wenn abweichend
     von den Anforderungen nach Nummer 2.3.1.1 Ziffer 3 der Durchfluss
     durch die Wasserhaushaltsschicht im fünfjährigen Mittel nicht mehr als
     20 mm/Jahr spätestens fünf Jahre nach Herstellung beträgt.
-[^f772033_10_BJNR090010009BJNE003005116]:     Anstelle der zweiten Abdichtungskomponente und der
+[^f772033_10_BJNR090010009BJNE003006130]:     Anstelle der zweiten Abdichtungskomponente und der
     Rekultivierungsschicht kann eine als Wasserhaushaltsschicht nach
     Nummer 2.3.1.1 bemessene Rekultivierungsschicht eingebaut werden. Wird
     die erste Abdichtungskomponente als Konvektionssperre ausgeführt, kann
@@ -3387,9 +3388,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     Deponiebetreiber Maßnahmen nach § 25 Absatz 4 zur Beschleunigung
     biologischer Abbauprozesse und zur Verbesserung des Langzeitverhaltens
     nachweislich erfolgreich durchführt oder durchgeführt hat.
-[^f772033_11_BJNR090010009BJNE003005116]:     Das Erfordernis richtet sich nach Nummer 2.3 Satz 2.
-[^f772033_12_BJNR090010009BJNE003005116]:     Das Erfordernis richtet sich nach Anhang 5 Nummer 7.
-[^f772033_13_BJNR090010009BJNE003005116]: 
+[^f772033_11_BJNR090010009BJNE003006130]:     Das Erfordernis richtet sich nach Nummer 2.3 Satz 2.
+[^f772033_12_BJNR090010009BJNE003006130]:     Das Erfordernis richtet sich nach Anhang 5 Nummer 7.
+[^f772033_13_BJNR090010009BJNE003006130]: 
 
 ### Anhang 2 Anforderungen an den Standort, geologische Barriere, Langzeitsicherheitsnachweis und Stilllegungsmaßnahmen von Deponien der Klasse IV im Salzgestein (zu § 3 Absatz 2, § 10 Absatz 1, § 11 Absatz 2)
 

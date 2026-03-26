@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 21.4.2009 I 827;
 
 Zuletzt geändert durch
-:   Art. 2 V v. 4.11.2023 I Nr. 304
+:   Art. 6 V v. 24.6.2024 I Nr. 215
 
 Diese Verordnung dient der Umsetzung folgender Richtlinien für
 Erzeugnisse des Weinsektors:
@@ -2493,7 +2493,14 @@ Anforderungen erfüllt sein:
 
 
 Absatz 2 Satz 1 Nummer 1 gilt entsprechend, wenn im Rahmen eines
-Antrags nach Artikel 105 der Verordnung (EU) Nr. 1308/2013 die
+Antrags nach Artikel 24 der Verordnung (EU) 2024/1143 des Europäischen
+Parlaments und des Rates vom 11. April 2024 über geografische Angaben
+für Wein, Spirituosen und landwirtschaftliche Erzeugnisse und über
+garantiert traditionelle Spezialitäten und fakultative
+Qualitätsangaben für landwirtschaftliche Erzeugnisse sowie zur
+Änderung der Verordnungen (EU) Nr. 1308/2013, (EU) 2019/787 und (EU)
+2019/1753 und zur Aufhebung der Verordnung (EU) Nr. 1151/2012 (ABl. L,
+2024/1143, 23.4.2024) in der jeweils geltenden Fassung die
 Produktspezifikation der jeweiligen geschützten Ursprungsbezeichnung
 im Hinblick auf den Hektarertrag geändert werden soll.
 
@@ -2518,7 +2525,7 @@ Anforderungen erfüllt sein:
 
 
 Absatz 3 Satz 1 Nummer 1 gilt entsprechend, wenn im Rahmen eines
-Antrags nach Artikel 105 der Verordnung (EU) Nr. 1308/2013 die
+Antrags nach Artikel 24 der Verordnung (EU) 2024/1143 die
 Produktspezifikation der jeweiligen geschützten geografischen Angabe
 im Hinblick auf den Hektarertrag geändert werden soll.
 
@@ -3380,6 +3387,18 @@ werden.
 die nach den bis zum Ablauf des 28. Oktober 2022 geltenden
 Vorschriften zulässig gekennzeichnet wurden, dürfen bis zum
 Aufbrauchen der Bestände in den Verkehr gebracht werden.
+
+(22) Soweit nach den in den Artikeln 90 und 91 der Verordnung (EU)
+2024/1143 enthaltenen Übergangsbestimmungen durch die Verordnung (EU)
+2024/1143 aufgehobene oder geänderte Vorschriften der Verordnung (EU)
+Nr. 1308/2013 des Europäischen Parlaments und des Rates vom 17.
+Dezember 2013 über eine gemeinsame Marktorganisation für
+landwirtschaftliche Erzeugnisse und zur Aufhebung der Verordnungen
+(EWG) Nr. 922/72, (EWG) Nr. 234/79, (EG) Nr. 1037/2001 und (EG) Nr.
+1234/2007 (ABl. L 347 vom 20.12.2013, S. 671) in ihrer jeweils in
+Bezug genommenen Fassung weiterhin Anwendung finden, ist § 39a Absatz
+2 Satz 2 und Absatz 3 Satz 2 in der bis zum 27. Juni 2024 geltenden
+Fassung weiter anzuwenden.
 
 Grundsätze zur Anerkennung von Witterungsverhältnissen als für den
 Weinanbau außergewöhnlich ungünstige Witterungsverhältnisse

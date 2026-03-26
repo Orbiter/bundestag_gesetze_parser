@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 4.9.2012 I 2070;
 
 Zuletzt geändert durch
-:   Art. 70 G v. 20.8.2021 I 3932
+:   Art. 13 G v. 27.2.2025 I Nr. 72
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
@@ -48,8 +48,8 @@ Einsatzgeschädigte im Sinne dieses Gesetzes sind
 
 
 die eine nicht nur geringfügige gesundheitliche Schädigung durch einen
-Einsatzunfall im Sinne von § 63c des Soldatenversorgungsgesetzes oder
-§ 31a des Beamtenversorgungsgesetzes erlitten haben.
+Einsatzunfall im Sinne von § 87 des Soldatenversorgungsgesetzes oder §
+31a des Beamtenversorgungsgesetzes erlitten haben.
 
 
 ### § 2 Anwendungsbereich
@@ -68,7 +68,7 @@ Dienstverhältnis nach dem THW-Gesetz erlitten, sind auf sie die für
 Einsatzgeschädigte nach § 1 Nummer 5 geltenden Vorschriften
 anzuwenden.
 
-(3) § 63c Absatz 6 des Soldatenversorgungsgesetzes und § 31a Absatz 4
+(3) § 87 Absatz 7 des Soldatenversorgungsgesetzes und § 31a Absatz 4
 des Beamtenversorgungsgesetzes gelten entsprechend.
 
 
@@ -174,12 +174,13 @@ Absatz 1
 
 
 
-Die Schutzzeit endet spätestens fünf Jahre nach Beginn des Bezugs von
-Leistungen nach § 3. Sie kann um bis zu drei Jahre verlängert werden,
-wenn festgestellt wird, dass in dieser Zeit das Erreichen der Ziele
-nach Absatz 1 zu erwarten ist. Sie endet in jedem Fall spätestens mit
-Ablauf des Monats, in dem die oder der Einsatzgeschädigte das 65.
-Lebensjahr vollendet.
+Außer in den Fällen des § 3 Absatz 3 Satz 3 endet die Schutzzeit
+spätestens fünf Jahre nach Beginn des Bezugs von Leistungen nach § 3.
+Sie kann um bis zu drei Jahre verlängert werden, wenn festgestellt
+wird, dass in dieser Zeit das Erreichen der Ziele nach Absatz 1 zu
+erwarten ist. Sie endet in jedem Fall spätestens mit Ablauf des
+Monats, in dem die oder der Einsatzgeschädigte das 65. Lebensjahr
+vollendet.
 
 (4) Die Feststellungen nach Absatz 3 Satz 1 und 3 trifft die Stelle,
 die für die Kündigung, Entlassung oder Versetzung in den Ruhestand
@@ -252,14 +253,23 @@ sozialversicherungsrechtlichen Status.
 
 
 
-(5) Einsatzgeschädigte nach § 1 Nummer 1, deren nicht auf Lebenszeit
-begründetes Wehrdienstverhältnis durch Zeitablauf geendet hat oder aus
-diesem Grund beendet worden ist und deren gesundheitliche Schädigung
-erst danach erkannt worden ist, sind auf schriftlichen oder
-elektronischen Antrag in ein Wehrdienstverhältnis besonderer Art
-einzustellen. Die §§ 37 und 38 des Soldatengesetzes gelten ungeachtet
-der Voraussetzungen der körperlichen Eignung nach § 37 Absatz 1 Nummer
-3 des Soldatengesetzes entsprechend. Satz 1 gilt nicht, wenn
+(5) Einsatzgeschädigte nach § 1 Nummer 1,
+
+1.  deren Wehrdienstverhältnis durch Zeitablauf geendet hat oder aus
+    diesem Grund beendet worden ist oder
+
+
+2.  die sich auf eigenen Antrag haben entlassen lassen oder deren
+    Entlassung als Entlassung auf eigenen Antrag gilt
+
+
+
+und deren gesundheitliche Schädigung jeweils erst danach erkannt
+worden ist, sind auf schriftlichen oder elektronischen Antrag in ein
+Wehrdienstverhältnis besonderer Art einzustellen. Die §§ 37 und 38 des
+Soldatengesetzes gelten ungeachtet der Voraussetzungen der
+körperlichen Eignung nach § 37 Absatz 1 Nummer 3 des Soldatengesetzes
+entsprechend. Satz 1 gilt nicht, wenn
 
 1.  die gesundheitliche Schädigung nicht ausschlaggebend für die
     Nichteingliederung in das Arbeitsleben ist,
@@ -273,7 +283,7 @@ der Voraussetzungen der körperlichen Eignung nach § 37 Absatz 1 Nummer
     erwarten lässt,
 
 
-4.  Einsatzversorgung nach § 63f des Soldatenversorgungsgesetzes gewährt
+4.  Einsatzversorgung nach § 90 des Soldatenversorgungsgesetzes gewährt
     worden ist oder
 
 
@@ -289,7 +299,7 @@ höheren Dienstgrad.
 
 (6) Der Antrag nach Absatz 5 Satz 1 ist innerhalb einer
 Ausschlussfrist von zwei Jahren nach Eintritt des Einsatzunfalls zu
-stellen. Bei einer Erkrankung, die nach § 63c Absatz 2 des
+stellen. Bei einer Erkrankung, die nach § 87 Absatz 2 des
 Soldatenversorgungsgesetzes als Einsatzunfall gilt, beginnt die
 Ausschlussfrist im Zeitpunkt der erstmaligen ärztlichen Diagnose der
 Erkrankung, sofern die oder der Einsatzgeschädigte zu diesem Zeitpunkt
@@ -402,8 +412,8 @@ können.
 ### § 9 Versorgung der Soldatinnen und Soldaten und ihrer Hinterbliebenen
 
 (1) Im Falle einer Weiterverwendung nach § 7 oder § 8 entfallen die
-Ansprüche auf Berufsförderung und Dienstzeitversorgung nach Abschnitt
-I des Zweiten Teils des Soldatenversorgungsgesetzes.
+Ansprüche auf Berufsförderung und Dienstzeitversorgung nach Teil 2
+Abschnitt 1 des Soldatenversorgungsgesetzes.
 
 (2) Die Versorgung Einsatzgeschädigter nach § 1 Nummer 1, die sich in
 einer Schutzzeit nach § 4 befinden und nicht nach § 7 oder § 8
@@ -413,46 +423,45 @@ dem Soldatenversorgungsgesetz mit folgenden Maßgaben:
 1.  Wer aus einem Dienstverhältnis als Soldatin auf Zeit oder Soldat auf
     Zeit nach § 6 in ein Wehrdienstverhältnis besonderer Art eintritt,
     erhält die Leistungen der Berufsförderung und Dienstzeitversorgung
-    nach Abschnitt I des Zweiten Teils des Soldatenversorgungsgesetzes,
-    die bei Beendigung des Wehrdienstverhältnisses durch Zeitablauf
-    zustehen, erst, wenn auch das Wehrdienstverhältnis besonderer Art
-    endet.
+    nach Teil 2 Abschnitt 1 des Soldatenversorgungsgesetzes, die bei
+    Beendigung des Wehrdienstverhältnisses durch Zeitablauf zustehen,
+    erst, wenn auch das Wehrdienstverhältnis besonderer Art endet.
 
 
 2.  Wer nach § 6 in ein Wehrdienstverhältnis besonderer Art eintritt,
     erwirbt dadurch keine Ansprüche auf Berufsförderung und
     Dienstzeitversorgung. Zeiten in einem Wehrdienstverhältnis besonderer
-    Art führen nicht zur Eingliederungsberechtigung nach den §§ 9 und 10
+    Art führen nicht zur Eingliederungsberechtigung nach den §§ 13 und 14
     des Soldatenversorgungsgesetzes.
 
 
 3.  Durch ein Wehrdienstverhältnis besonderer Art nach § 6 ist der
-    Anspruch auf Freistellung vom militärischen Dienst nach § 5 Absatz 5
+    Anspruch auf Freistellung vom militärischen Dienst nach § 7 Absatz 6
     des Soldatenversorgungsgesetzes in der bis einschließlich 25. Juli
     2012 geltenden Fassung unabhängig von seiner Dauer abgegolten und die
-    Gesamtförderungsdauer nach § 5 Absatz 4 des
+    Gesamtförderungsdauer nach § 7 Absatz 5 des
     Soldatenversorgungsgesetzes entsprechend herabgesetzt.
 
 
 4.  Endet die Schutzzeit nach § 4 bei einer Soldatin auf Zeit oder einem
     Soldaten auf Zeit vor Ablauf der Zeit, für die sie oder er in das
     Dienstverhältnis berufen ist, und wurden während der Schutzzeit
-    berufliche Qualifikationen im Sinne des § 5 Absatz 6 bis 9 des
+    berufliche Qualifikationen im Sinne des § 7 Absatz 7 bis 11 des
     Soldatenversorgungsgesetzes erworben, vermindern sich der Anspruch auf
-    Freistellung vom militärischen Dienst nach § 5 Absatz 5 des
+    Freistellung vom militärischen Dienst nach § 7 Absatz 6 des
     Soldatenversorgungsgesetzes in der bis einschließlich 25. Juli 2012
-    geltenden Fassung und die Gesamtförderungsdauer nach § 5 Absatz 4 des
+    geltenden Fassung und die Gesamtförderungsdauer nach § 7 Absatz 5 des
     Soldatenversorgungsgesetzes entsprechend.
 
 
-5.  § 42 des Soldatenversorgungsgesetzes ist auf die Hinterbliebenen der
+5.  § 57 des Soldatenversorgungsgesetzes ist auf die Hinterbliebenen der
     Einsatzgeschädigten nach § 1 Nummer 1, die während der Schutzzeit nach
     § 4 verstorben sind, unbeachtlich einer Wehrdienstzeit von mindestens
     sechs Jahren und hinsichtlich der Dauer unbeachtlich des Anspruchs auf
     Übergangsgebührnisse entsprechend anzuwenden.
 
 
-6.  § 62 Absatz 1 des Soldatenversorgungsgesetzes gilt entsprechend für
+6.  § 83 Absatz 1 des Soldatenversorgungsgesetzes gilt entsprechend für
     Einsatzgeschädigte nach § 1 Nummer 1, deren Wehrdienstverhältnis
     besonderer Art anders als durch eine Berufung nach § 7 Absatz 1 oder §
     8 Absatz 1 Satz 1 Nummer 1 oder durch eine Einstellung nach § 8 Absatz
@@ -473,14 +482,14 @@ dem Soldatenversorgungsgesetz mit folgenden Maßgaben:
 Zeitablauf endet, verlängert sich um die Dauer der restlichen
 Schutzzeit.
 
-(2) Einsatzgeschädigte nach § 1 Nummer 2 in einem Beamtenverhältnis
-auf Zeit, deren gesundheitliche Schädigung erst nach Ende ihres
-Dienstverhältnisses erkannt worden ist, sind auf schriftlichen oder
-elektronischen Antrag in ihrem ehemaligen Geschäftsbereich unter den
-Voraussetzungen des § 7 des Bundesbeamtengesetzes unter erneuter
-Verleihung ihres zuletzt wahrgenommenen Amtes in ein Beamtenverhältnis
-auf Widerruf zu berufen. § 6 Absatz 6 gilt entsprechend. Satz 1 gilt
-nicht, wenn
+(2) Einsatzgeschädigte nach § 1 Nummer 2, deren Beamtenverhältnis
+durch Zeitablauf oder auf ihr Verlangen hin geendet hat und deren
+gesundheitliche Schädigung erst nach Ende dieses Dienstverhältnisses
+erkannt worden ist, sind auf schriftlichen oder elektronischen Antrag
+in ihrem ehemaligen Geschäftsbereich unter den Voraussetzungen des § 7
+des Bundesbeamtengesetzes unter erneuter Verleihung ihres zuletzt
+wahrgenommenen Amtes in ein Beamtenverhältnis auf Widerruf zu berufen.
+§ 6 Absatz 6 gilt entsprechend. Satz 1 gilt nicht, wenn
 
 1.  die gesundheitliche Schädigung nicht ausschlaggebend für die
     Nichteingliederung in das Arbeitsleben ist,
@@ -495,8 +504,8 @@ nicht, wenn
 
 
 4.  Einsatzversorgung nach § 37 Absatz 3 des Beamtenversorgungsgesetzes
-    oder nach § 63f des Soldatenversorgungsgesetzes gewährt wird oder
-    wurde oder
+    oder nach § 90 des Soldatenversorgungsgesetzes gewährt wird oder wurde
+    oder
 
 
 5.  eine Einstellung nach Satz 1 bereits zu einem inzwischen wieder
@@ -629,14 +638,14 @@ gelten entsprechend.
 Absatz 1 Satz 1 sind sachliche Gründe einer weiteren Befristung von
 Arbeitsverträgen.
 
-(2) Einsatzgeschädigte nach § 1 Nummer 4, die während eines
-befristeten Arbeitsverhältnisses einen Einsatzunfall erlitten haben
-und deren gesundheitliche Schädigung erst nach Ablauf der Befristung
-erkannt worden ist, sind auf schriftlichen oder elektronischen Antrag
-in ihrem ehemaligen Geschäftsbereich in ein befristetes
-Arbeitsverhältnis im Sinne von Absatz 1 aufgrund des seinerzeitigen
-Vertragsinhaltes einzustellen. § 6 Absatz 6 gilt entsprechend. Satz 1
-gilt nicht, wenn
+(2) Einsatzgeschädigte nach § 1 Nummer 4, deren Arbeitsverhältnis
+durch Ablauf der Befristung oder ihre eigene Kündigung geendet hat und
+deren gesundheitliche Schädigung erst nach Ende dieses
+Arbeitsverhältnisses erkannt worden ist, sind auf schriftlichen oder
+elektronischen Antrag in ihrem ehemaligen Geschäftsbereich in ein
+befristetes Arbeitsverhältnis im Sinne von Absatz 1 aufgrund des
+seinerzeitigen Vertragsinhaltes einzustellen. § 6 Absatz 6 gilt
+entsprechend. Satz 1 gilt nicht, wenn
 
 1.  die gesundheitliche Schädigung nicht ausschlaggebend für die
     Nichteingliederung in das Arbeitsleben ist,
@@ -650,7 +659,7 @@ gilt nicht, wenn
     erwarten lässt,
 
 
-4.  Einsatzversorgung nach § 63f des Soldatenversorgungsgesetzes gewährt
+4.  Einsatzversorgung nach § 90 des Soldatenversorgungsgesetzes gewährt
     worden ist oder die altersmäßigen Voraussetzungen des Bezugs einer
     ungekürzten Vollrente wegen Alters nach dem Sechsten Buch
     Sozialgesetzbuch erfüllt sind oder
@@ -678,9 +687,9 @@ Sozialgesetzbuch und dem Nettoentgelt.
 Verletztengeld, das Übergangsgeld sowie die Verletztenrente aus der
 gesetzlichen Unfallversicherung. Eine Verletztenrente ist nur zu
 berücksichtigen, soweit sie den Betrag übersteigt, der bei gleichem
-Grad der Minderung der Erwerbsfähigkeit als Grundrente nach § 31 in
-Verbindung mit § 84a Satz 1 und 2 des Bundesversorgungsgesetzes
-geleistet würde.
+Grad der Minderung der Erwerbsfähigkeit als Ausgleich für
+gesundheitliche Schädigungsfolgen nach dem
+Soldatenentschädigungsgesetz geleistet würde.
 
 (3) Nettoentgelt im Sinne von Absatz 1 ist das um die gesetzlichen
 Abzüge geminderte Entgelt. Bei freiwillig gesetzlich

@@ -46,23 +46,24 @@ Fahrzeugen und Karosserien erforderlich ist.
 
 (4) Die wesentliche Tätigkeit Aufstellen von Arbeits- und
 Schutzgerüsten des Gewerbes Nummer 11 Gerüstbauer der Anlage A zur
-Handwerksordnung wird auch den Gewerben Nummer 1 Maurer und
+Handwerksordnung dürfen auch die Gewerbe Nummer 1 Maurer und
 Betonbauer, Nummer 3 Zimmerer, Nummer 4 Dachdecker, Nummer 5
 Straßenbauer, Nummer 6 Wärme-, Kälte- und Schallschutzisolierer,
 Nummer 7 Brunnenbauer, Nummer 8 Steinmetzen und Steinbildhauer, Nummer
-9 Stukkateure, Nummer 10 Maler und Lackierer, Nummer 12
+9 Stuckateure, Nummer 10 Maler und Lackierer, Nummer 12
 Schornsteinfeger, Nummer 13 Metallbauer, Nummer 18 Kälteanlagenbauer,
 Nummer 23 Klempner, Nummer 24 Installateur und Heizungsbauer, Nummer
 25 Elektrotechniker, Nummer 27 Tischler, Nummer 39 Glaser, Nummer 42
-Fliesen-, Platten- und Mosaikleger, Nummer 43 Betonstein- und
+Fliesen-, Platten- und Mosaikleger, Nummer 43 Werkstein- und
 Terrazzohersteller, Nummer 44 Estrichleger und Nummer 51 Schilder- und
-Lichtreklamehersteller der Anlage A zur Handwerksordnung als
-wesentliche Tätigkeit zugeordnet. Die wesentliche Tätigkeit Aufstellen
-von Arbeits- und Schutzgerüsten des Gewerbes Nummer 11 Gerüstbauer der
-Anlage A zur Handwerksordnung darf auch das Gewerbe Nummer 33
-Gebäudereiniger der Anlage B Abschnitt 1 zur Handwerksordnung ausüben,
-mit der Maßgabe, dass § 1 Absatz 1 Satz 1 der Handwerksordnung
-insoweit nicht anzuwenden ist.
+Lichtreklamehersteller der Anlage A zur Handwerksordnung nur zur
+Ermöglichung der jeweils zu diesen Gewerben gehörenden Tätigkeiten
+ausüben. Die wesentliche Tätigkeit Aufstellen von Arbeits- und
+Schutzgerüsten des Gewerbes Nummer 11 Gerüstbauer der Anlage A zur
+Handwerksordnung darf auch das Gewerbe Nummer 33 Gebäudereiniger der
+Anlage B Abschnitt 1 zur Handwerksordnung nur zur Ermöglichung der zu
+diesem Gewerbe gehörenden Tätigkeiten ausüben, mit der Maßgabe, dass §
+1 Absatz 1 Satz 1 der Handwerksordnung insoweit nicht anzuwenden ist.
 
 (5) Das Gewerbe Nummer 19 Informationstechniker der Anlage A zur
 Handwerksordnung umfasst nicht die strukturierte Verkabelung als

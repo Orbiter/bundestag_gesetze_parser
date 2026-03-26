@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2014, 2
 
-Geändert durch
-:   Art. 2 V v. 16.12.2022 I 2368
+Zuletzt geändert durch
+:   Art. 3 G v. 15.7.2024 I Nr. 237
 
 
 ## Eingangsformel
@@ -36,8 +36,8 @@ Im Bereich der Beratungshilfe sind zu verwenden:
 
 1.  vom Rechtsuchenden für den Antrag auf Gewährung von Beratungshilfe das
     in Anlage 1 bestimmte Formular mit Hinweisblatt, falls der
-    Rechtsuchende eine natürliche Person ist und den Antrag nicht mündlich
-    stellt,
+    Rechtsuchende eine natürliche Person ist und den Antrag nicht vor der
+    Geschäftsstelle zu Protokoll erklärt,
 
 
 2.  von der Beratungsperson für ihren Antrag auf Zahlung einer Vergütung

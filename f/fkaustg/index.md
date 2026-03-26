@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2015, 2531
 
 Zuletzt geändert durch
-:   Art. 7 G v. 25.6.2021 I 2056
+:   Art. 3 G v. 22.12.2025 I Nr. 352
 
 Dieses Gesetz dient der Umsetzung der Richtlinie 2011/16/EU des Rates
 vom 15. Februar 2011 über die Zusammenarbeit der Verwaltungsbehörden
@@ -38,11 +38,7 @@ Dezember 2015 (BGBl. 2015 II S. 1630).
 Informationen über Finanzkonten in Steuersachen mit
 
 1.  Mitgliedstaaten der Europäischen Union aufgrund der Richtlinie
-    2011/16/EU des Rates vom 15. Februar 2011 über die Zusammenarbeit der
-    Verwaltungsbehörden im Bereich der Besteuerung und zur Aufhebung der
-    Richtlinie 77/799/EWG (ABl. L 64 vom 11.3.2011, S. 1;
-    Amtshilferichtlinie) in der Fassung der Richtlinie 2014/107/EU (ABl. L
-    359 vom 16.12.2014, S. 1),
+    2011/16/EU,
 
 
 2.  Drittstaaten, die Vertragsparteien der von der Bundesrepublik
@@ -56,16 +52,29 @@ Informationen über Finanzkonten in Steuersachen mit
     Voraussetzungen des § 7 Absatz 1, insbesondere Buchstabe e der
     Mehrseitigen Vereinbarung vom 29. Oktober 2014 zwischen den
     zuständigen Behörden über den automatischen Austausch von
-    Informationen über Finanzkonten erfüllen sowie
+    Informationen über Finanzkonten erfüllen,
 
 
-3.  Drittstaaten, die Verträge mit der Europäischen Union zur Vereinbarung
+3.  Drittstaaten, die die Voraussetzungen nach Nummer 2 erfüllen und zudem
+    Vertragsparteien der von der Bundesrepublik Deutschland in Asunción
+    unterzeichneten Zusatzvereinbarung vom 26. November 2024 zur
+    Mehrseitigen Vereinbarung vom 29. Oktober 2014 zwischen den
+    zuständigen Behörden über den automatischen Austausch von
+    Informationen über Finanzkonten sind und diese in ihr nationales Recht
+    verpflichtend aufgenommen haben und die gewährleisten, dass sie die
+    Voraussetzungen des § 2 Absatz 2 der Zusatzvereinbarung vom 26.
+    November 2024 zur Mehrseitigen Vereinbarung vom 29. Oktober 2014
+    zwischen den zuständigen Behörden über den automatischen Austausch von
+    Informationen über Finanzkonten erfüllen,
+
+
+4.  Drittstaaten, die Verträge mit der Europäischen Union zur Vereinbarung
     des automatischen Austauschs von Informationen über Finanzkonten im
-    Sinne der unter Nummer 1 angeführten Richtlinie 2014/107/EU (ABl. L
-    359 vom 16.12.2014, S. 1) geschlossen haben, sowie
+    Sinne der unter Nummer 1 angeführten Richtlinie geschlossen haben,
+    sowie
 
 
-4.  Drittstaaten, mit denen die Bundesrepublik Deutschland ein Abkommen
+5.  Drittstaaten, mit denen die Bundesrepublik Deutschland ein Abkommen
     über den steuerlichen Informationsaustausch geschlossen hat, nach dem
     ein automatischer Austausch von Informationen vereinbart werden kann.
 
@@ -86,21 +95,39 @@ Verbindung mit § 27 mit der zuständigen Behörde jedes anderen
 meldepflichtigen Staates die ihm hierzu von den Finanzinstituten nach
 diesem Gesetz übermittelten Daten aus; diese sind:
 
-1.  der Name, die Anschrift, die Steueridentifikationsnummer oder -nummern
-    sowie bei natürlichen Personen das Geburtsdatum und der Geburtsort
-    jeder meldepflichtigen Person, die Inhaber eines meldepflichtigen
-    Kontos ist, sowie bei einem Rechtsträger, der Kontoinhaber ist und für
-    den nach Anwendung von Verfahren zur Erfüllung der Sorgfaltspflichten
-    gemäß dem Gemeinsamen Meldestandard eine oder mehrere beherrschende
-    Personen ermittelt wurden, die meldepflichtige Personen sind, der
-    Name, die Anschrift und die Steueridentifikationsnummer oder -nummern
-    des Rechtsträgers sowie der Name, die Anschrift, die
-    Steueridentifikationsnummer oder -nummern, das Geburtsdatum und der
-    Geburtsort jeder meldepflichtigen Person;
+1.  die folgenden Informationen zum Kontoinhaber oder zu den
+    Kontoinhabern:
+
+    a)  bei natürlichen Personen der Name, die Anschrift, die
+        Steueridentifikationsnummer oder die Steueridentifikationsnummern
+        sowie das Geburtsdatum und der Geburtsort jeder meldepflichtigen
+        Person, die Kontoinhaber ist, und die Information, ob der Kontoinhaber
+        eine gültige Selbstauskunft vorgelegt hat,
+
+
+    b)  bei einem Rechtsträger, der Kontoinhaber ist und für den eine oder
+        mehrere beherrschende Personen ermittelt wurden, die meldepflichtige
+        Personen sind, der Name, die Anschrift, die
+        Steueridentifikationsnummer oder die Steueridentifikationsnummern des
+        Rechtsträgers sowie der Name, die Anschrift, die
+        Steueridentifikationsnummer oder die Steueridentifikationsnummern, das
+        Geburtsdatum und der Geburtsort jeder meldepflichtigen Person sowie
+        die Funktion oder die Funktionen, aufgrund derer jede derartige
+        meldepflichtige Person als beherrschende Person des Rechtsträgers
+        anzusehen ist, und die Information, ob jede meldepflichtige Person
+        eine gültige Selbstauskunft vorgelegt hat,
+
+
+    c)  die Information, ob es sich bei dem Konto um ein gemeinschaftliches
+        Konto handelt, einschließlich der Anzahl der gemeinsamen Kontoinhaber;
+
+
+
 
 
 2.  die Kontonummer oder funktionale Entsprechung, wenn keine Kontonummer
-    vorhanden ist;
+    vorhanden ist, die Art des Kontos und die Information, ob es sich bei
+    dem Konto um ein bestehendes Konto oder ein Neukonto handelt;
 
 
 3.  der Name und gegebenenfalls die Identifikationsnummer des meldenden
@@ -138,10 +165,16 @@ diesem Gesetz übermittelten Daten aus; diese sind:
 
 6.  bei Einlagenkonten der Gesamtbruttobetrag der Zinsen, die während des
     Kalenderjahrs oder eines anderen geeigneten Meldezeitraums auf das
-    Konto eingezahlt oder dem Konto gutgeschrieben wurden, und
+    Konto eingezahlt oder dem Konto gutgeschrieben wurden;
 
 
-7.  bei allen anderen Konten, die nicht Verwahrkonten oder Einlagekonten
+7.  bei Eigenkapitalbeteiligungen an einem Investmentunternehmen, bei
+    denen es sich um eine Rechtsvereinbarung handelt, die Funktion oder
+    die Funktionen, aufgrund derer die meldepflichtige Person ein
+    Anteilseigner ist, und
+
+
+8.  bei allen anderen Konten, die nicht Verwahrkonten oder Einlagekonten
     sind, der Gesamtbruttobetrag, der in Bezug auf das Konto während des
     Kalenderjahrs oder eines anderen geeigneten Meldezeitraums an den
     Kontoinhaber gezahlt oder ihm gutgeschrieben wurde und für den das
@@ -166,20 +199,59 @@ Daten und Informationen zu erheben, zu speichern und zu verarbeiten
 soweit dies zur Erfüllung ihrer Pflichten nach Absatz 1 erforderlich
 ist.
 
-(3) Die Finanzinstitute nach Absatz 1 haben die bei der Erfüllung der
-Pflichten nach Absatz 1 erstellten Unterlagen zehn Jahre
-aufzubewahren. Die Frist zur Aufbewahrung beginnt mit Ablauf des
-Jahres,
+(3) Die Finanzinstitute nach Absatz 1 haben die folgenden
+Aufzeichnungen zu den in Satz 2 genannten Zeitpunkten zu erstellen:
 
-1.  in dem die Finanzinstitute oder Dienstleister im Sinne des § 9 Absatz
-    4 die Informationen nach Absatz 2 erhoben haben, oder
+1.  eine Beschreibung der Prozesse, einschließlich der
+    automationstechnischen, operativen und organisatorischen Vorkehrungen,
+    insbesondere der relevanten Geschäftsbeziehungen, Zuständigkeiten und
+    Fristen, sowie aller Änderungen hierzu, die zur Erfüllung der
+    Pflichten nach § 8 Absatz 1, 2 Satz 2, Absatz 4 und 5, den §§ 11, 12,
+    § 13 Absatz 2 bis 4, nach § 14 Absatz 3 und 5, den §§ 15 16 Absatz 2
+    und 3, nach § 21 Absatz 2 auch unter Berücksichtigung der Vorgaben
+    nach den §§ 9, 10 Absatz 2, nach § 14 Absatz 2 und 4, § 16 Absatz 3
+    und 4, § 17 Absatz 2, den §§ 18 und 22 in Bezug auf einen
+    Meldezeitraum angewandt wurden;
 
 
-2.  in dem das Konto aufgelöst wird, soweit die Unterlagen nach Satz 1 für
-    die weitere Erfüllung der Pflichten nach Absatz 1 benötigt werden.
+2.  in Bezug auf jedes Konto die für die Anwendung der Sorgfaltspflichten
+    nach § 8 Absatz 2 Satz 2, § 11 Absatz 1 und 2 Satz 1, Absatz 3 und 4,
+    § 12 Absatz 1 Nummer 1, 2 Satz 2, Nummer 3 Satz 2, Absatz 3 und 4 Satz
+    1, Absatz 5 Satz 1, den Absatz 6, 7 und 9, § 13 Absatz 2, 2a Satz 1
+    bis 3, Absatz 4, § 14 Absatz 3 bis 5, den §§ 15, 16 Absatz 2, 2a Satz
+    1 bis 3, Absatz 3 und 4, nach § 17 Absatz 1 und 2, § 18 Absatz 1 Satz
+    1, Absatz 2 Satz 1, Absatz 3, den §§ 21 und 22 verarbeiteten
+    Informationen, den jeweiligen Zeitpunkt der Verarbeitung und das
+    Ergebnis der Verarbeitung;
+
+
+3.  in Bezug auf jedes Konto die nach § 8 Absatz 1, § 11 Absatz 2 Satz 2,
+    § 12 Absatz 4 Satz 2, § 13 Absatz 2a Satz 4 und § 16 Absatz 2a Satz 4
+    gemeldeten Informationen und den jeweiligen Zeitpunkt einer Meldung.
 
 
 
+Die Aufzeichnungen nach Satz 1 sind zu erstellen:
+
+1.  für Aufzeichnungen nach Nummer 1 spätestens bis zum Ablauf des
+    jeweiligen Meldezeitraums, auf den sich die Aufzeichnungen beziehen,
+
+
+2.  für Aufzeichnungen nach Nummer 2 im Zeitpunkt der jeweiligen
+    Verarbeitung,
+
+
+3.  für Aufzeichnungen nach Nummer 3 bis zum Meldezeitpunkt nach § 6
+    Absatz 3.
+
+
+
+Die Aufzeichnungen nach Satz 1 müssen nach Maßgabe des Satzes 5 für
+die Dauer von zehn Jahren aufbewahrt werden. Die Aufzeichnungen nach
+Satz 1 Nummer 2 und 3 sind nach Ablauf dieser Frist zu löschen, sofern
+das zugrundeliegende Vertragsverhältnis zu diesem Zeitpunkt beendet
+ist. Die Frist zur Aufbewahrung beginnt mit Ablauf des Kalenderjahres,
+in dem die Aufzeichnungen erstellt worden sind.
 
 
 ### § 3a Pflichten der Kontoinhaber und der Antragsteller
@@ -202,6 +274,13 @@ Kalenderjahres oder eines anderen geeigneten Meldezeitraums oder 90
 Kalendertage nach dem Eintritt der Änderung der Gegebenheiten, je
 nachdem, welches Datum später ist, mit einer Selbstauskunft richtig
 und vollständig mitteilen.
+
+
+### § 3b Verhinderung der Umgehung der Meldepflicht
+
+Durch Missbrauch von Gestaltungsmöglichkeiten des Rechts können die
+Verpflichtungen aus diesem Gesetz nicht umgangen werden. § 42 der
+Abgabenordnung gilt entsprechend.
 
 
 ### § 4 Zuständige Behörde
@@ -250,8 +329,8 @@ eingegangen ist.
 Einhaltung der den Finanzinstituten nach diesem Gesetz auferlegten
 Melde- und Sorgfaltspflichten, besonderen Sorgfaltspflichten sowie
 ergänzenden Melde- und Sorgfaltsvorschriften für Informationen über
-Finanzkonten zuständig. Die §§ 193 bis 203 der Abgabenordnung gelten
-entsprechend.
+Finanzkonten zuständig. § 147 Absatz 5 bis 7 und die §§ 193 bis 203a
+der Abgabenordnung gelten entsprechend.
 
 (7) Die aufgrund dieses Gesetzes vom Bundeszentralamt für Steuern als
 zuständige Behörde erhobenen und gespeicherten Daten dürfen nur für
@@ -276,7 +355,8 @@ im Sinne der Melde- und Sorgfaltspflichten nach diesem Gesetz handelt.
 Bei der Erhebung der steuerlichen Ansässigkeit nach Satz 1 gelten die
 von den Finanzinstituten geführten Konten insoweit als Konten, für die
 die Melde- und Sorgfaltspflichten nach diesem Gesetz einzuhalten sind;
-dies schließt auch die Erhebung der Steueridentifikationsnummer ein.
+dies schließt auch die Erhebung ausländischer
+Steueridentifikationsnummern ein.
 
 (2) Jedes meldende Finanzinstitut teilt vor einer erstmaligen
 Übermittlung von Daten nach § 8 jeder betroffenen Person in
@@ -308,29 +388,47 @@ jeweils zuständige Behörde des anderen Staates im Sinne des § 1 Absatz
 
 ### § 8 Allgemeine Meldepflichten
 
-(1) Vorbehaltlich der Absätze 2, 3 und 4 muss jedes meldende
+(1) Vorbehaltlich der Absätze 2 bis 5 muss jedes meldende
 Finanzinstitut für jedes meldepflichtige Konto dieses meldenden
 Finanzinstituts dem Bundeszentralamt für Steuern folgende von ihnen
 nach diesem Gesetz erhobene Informationen gemäß § 5 Absatz 1 melden:
 
-1.  den Namen, die Anschrift, den oder die Ansässigkeitsstaat oder
-    -staaten im Sinne des § 1 Absatz 1, die Steueridentifikationsnummer
-    oder -nummern sowie bei natürlichen Personen das Geburtsdatum und den
-    Geburtsort jeder meldepflichtigen Person, die Inhaber eines
-    meldepflichtigen Kontos ist, sowie bei einem Rechtsträger, der
-    Kontoinhaber ist und für den nach Anwendung der Verfahren zur
-    Erfüllung der Sorgfaltspflichten nach den §§ 13, 14 bis 17 eine oder
-    mehrere beherrschende Personen ermittelt wurden, die meldepflichtige
-    Personen sind, der Name, die Anschrift, den oder die
-    Ansässigkeitsstaat oder -staaten und die Steueridentifikationsnummer
-    des Rechtsträgers sowie den Namen, die Anschrift, den oder die
-    Ansässigkeitsstaat oder -staaten und die Steueridentifikationsnummer
-    oder -nummern, das Geburtsdatum und den Geburtsort jeder
-    meldepflichtigen Person;
+1.  die folgenden Informationen zum Kontoinhaber oder zu den
+    Kontoinhabern:
+
+    a)  bei natürlichen Personen den Namen, die Anschrift, den
+        Ansässigkeitsstaat oder die Ansässigkeitsstaaten im Sinne des § 1
+        Absatz 1, die Steueridentifikationsnummer oder die
+        Steueridentifikationsnummern sowie das Geburtsdatum und den Geburtsort
+        jeder meldepflichtigen Person, die Kontoinhaber ist, und die
+        Information, ob der Kontoinhaber eine gültige Selbstauskunft vorgelegt
+        hat,
+
+
+    b)  bei einem Rechtsträger, der Kontoinhaber ist und für den eine oder
+        mehrere beherrschende Personen ermittelt wurden, die meldepflichtige
+        Personen sind, den Namen, die Anschrift, den Ansässigkeitsstaat oder
+        die Ansässigkeitsstaaten und die Steueridentifikationsnummer oder die
+        Steueridentifikationsnummern des Rechtsträgers sowie den Namen, die
+        Anschrift, den Ansässigkeitsstaat oder die Ansässigkeitsstaaten, die
+        Steueridentifikationsnummer oder die Steueridentifikationsnummern, das
+        Geburtsdatum und den Geburtsort jeder meldepflichtigen Person sowie
+        die Funktion oder die Funktionen, aufgrund derer jede meldepflichtige
+        Person als beherrschende Person des Rechtsträgers anzusehen ist, und
+        die Information, ob jede meldepflichtige Person eine gültige
+        Selbstauskunft vorgelegt hat,
+
+
+    c)  die Information, ob es sich bei dem Konto um ein gemeinschaftliches
+        Konto handelt, einschließlich der Anzahl der gemeinsamen Kontoinhaber;
+
+
+
 
 
 2.  die Kontonummer oder funktionale Entsprechung, wenn keine Kontonummer
-    vorhanden ist;
+    vorhanden ist, die Art des Kontos und die Information, ob es sich bei
+    dem Konto um ein bestehendes Konto oder ein Neukonto handelt;
 
 
 3.  den Namen und gegebenenfalls die Identifikationsnummer des meldenden
@@ -368,7 +466,13 @@ nach diesem Gesetz erhobene Informationen gemäß § 5 Absatz 1 melden:
 
 6.  bei Einlagenkonten den Gesamtbruttobetrag der Zinsen, die während des
     Kalenderjahrs oder eines anderen geeigneten Meldezeitraums auf das
-    Konto eingezahlt oder dem Konto gutgeschrieben wurden, und
+    Konto eingezahlt oder dem Konto gutgeschrieben wurden;
+
+
+6a. bei Eigenkapitalbeteiligungen an einem Investmentunternehmen, bei
+    denen es sich um eine Rechtsvereinbarung handelt, die Funktion oder
+    die Funktionen, aufgrund derer die meldepflichtige Person ein
+    Anteilseigner ist, und
 
 
 7.  bei allen anderen Konten, die nicht unter Nummer 5 oder Nummer 6
@@ -394,9 +498,38 @@ innerstaatlichem Recht oder anderen Rechtsinstrumenten der
 Europäischen Union von diesem meldenden Finanzinstitut zu erfassen
 sind. Ein meldendes Finanzinstitut ist jedoch verpflichtet,
 angemessene Anstrengungen zu unternehmen, um bei bestehenden Konten
-die Steueridentifikationsnummer und das Geburtsdatum bis zum Ende des
-zweiten Kalenderjahrs, das dem Jahr folgt, in dem bestehende Konten
-als meldepflichtige Konten identifiziert wurden, zu beschaffen.
+die Steueridentifikationsnummer und das Geburtsdatum zu den folgenden
+Zeitpunkten zu beschaffen:
+
+1.  bis zum Ende des zweiten Kalenderjahrs, das dem Jahr folgt, in dem
+    bestehende Konten als meldepflichtige Konten identifiziert wurden, und
+
+
+2.  wann immer es dazu verpflichtet ist, die Informationen über das
+    bestehende Konto gemäß den inländischen Verfahren zur Bekämpfung der
+    Geldwäsche und Kundensorgfaltspflichten (AML/KYC – Anti-Money
+    Laundering/Know-your-Customer) zu aktualisieren.
+
+
+
+Zur Beschaffung der in Satz 2 genannten Informationen bis zu dem in
+Satz 2 Nummer 1 genannten Zeitpunkt hat ein meldendes Finanzinstitut
+einmal im Kalenderjahr
+
+1.  Kontakt mit dem Kontoinhaber aufzunehmen sowie
+
+
+2.  elektronisch durchsuchbare Informationen eines verbundenen
+    Rechtsträgers des meldenden Finanzinstituts zu überprüfen.
+
+
+
+Hätte das meldende Finanzinstitut seiner Verpflichtung nach den Sätzen
+2 und 3 bereits bis zum 6. Dezember 2024 nachkommen müssen und ist
+dies unterblieben, so hat es die Verpflichtung nach den Sätzen 2 und 3
+bis zum 31. Dezember 2025 und danach im Falle der Nichterlangung der
+nach Satz 2 zu beschaffenden Informationen bis zum Ende eines jeden
+Folgejahres nachzuholen.
 
 (3) Die Steueridentifikationsnummer ist nicht zu melden, wenn vom
 betreffenden Staat keine Steueridentifikationsnummer ausgegeben wird.
@@ -416,7 +549,14 @@ betreffenden Staat keine Steueridentifikationsnummer ausgegeben wird.
 
 
 
-(5) Bei der Meldung der Daten gemäß Absatz 1 sind geeignete
+(5) Die Bruttoerlöse aus der Veräußerung oder Einlösung eines
+Finanzvermögens sind entgegen Absatz 1 Satz 1 Nummer 5 Buchstabe b
+nicht zu melden, soweit sie vom meldenden Finanzinstitut nach § 9 des
+Kryptowerte-Steuertransparenz-Gesetzes gemeldet werden und sofern das
+meldende Finanzinstitut sich nicht in Bezug auf eine eindeutig
+identifizierte Gruppe von Konten anderweitig entscheidet.
+
+(6) Bei der Meldung der Daten gemäß Absatz 1 sind geeignete
 Schutzmaßnahmen gegen unbefugten Zugang, unbefugte Veränderung und
 unbefugte Bekanntgabe nach Stand der Technik von den Finanzinstituten
 zu gewährleisten.
@@ -590,8 +730,10 @@ des § 1 Absatz 1 ansässige Person betrachten:
 
 
 (4) Die Überprüfung von bestehenden Konten von geringerem Wert
-natürlicher Personen muss bis zum 31. Dezember 2017 abgeschlossen
-sein.
+natürlicher Personen muss vom meldenden Finanzinstitut bis zum 31.
+Dezember 2017 abgeschlossen sein. Hat das meldende Finanzinstitut die
+Überprüfung nicht bis zum 6. Dezember 2024 abgeschlossen, ist es
+verpflichtet, diese bis zum 31. Dezember 2025 nachzuholen.
 
 
 ### § 12 Konten von hohem Wert
@@ -751,7 +893,10 @@ Anwendung von § 11 Absatz 3 entscheidet, dazu verpflichtet, die
 entsprechenden Unterlagen vom Kontoinhaber zu beschaffen.
 
 (9) Die Überprüfung bestehender Konten von hohem Wert natürlicher
-Personen muss bis zum 31. Dezember 2016 abgeschlossen sein.
+Personen muss vom meldenden Finanzinstitut bis zum 31. Dezember 2016
+abgeschlossen sein. Hat das meldende Finanzinstitut die Überprüfung
+nicht bis zum 6. Dezember 2024 abgeschlossen, ist es verpflichtet,
+diese bis zum 31. Dezember 2025 nachzuholen.
 
 
 ### § 13 Sorgfaltspflichten bei Neukonten natürlicher Personen
@@ -784,32 +929,64 @@ kann, dass
 
 
 
-Im Fall des Satzes 1 muss sichergestellt sein, dass vor der
-Beschaffung der Selbstauskunft oder der Bestätigung ihrer
+Im Fall des Satzes 1 muss das meldende Finanzinstitut sicherstellen,
+dass vor der Beschaffung der Selbstauskunft oder der Bestätigung ihrer
 Plausibilität keine Gelder von dem Konto abverfügt werden können. Für
 den Fall einer Rückzahlung eingegangener Gelder dürfen diese nur an
 den Einzahler ausgezahlt werden. Kann die Selbstauskunft innerhalb von
 90 Kalendertagen seit der Kontoeröffnung nicht beschafft oder ihre
 Plausibilität nicht bestätigt werden, muss das meldende Finanzinstitut
-dies dem Bundeszentralamt für Steuern unverzüglich unter Angabe aller
-zur Identifizierung des Kontoinhabers zur Verfügung stehenden Angaben
-mitteilen.
+dem Bundeszentralamt für Steuern unverzüglich Folgendes mitteilen:
 
-(3) Geht aus der Selbstauskunft nach Absatz 2 hervor, dass der
-Kontoinhaber in einem meldepflichtigen Staat steuerlich ansässig ist,
-so muss das meldende Finanzinstitut das Konto als meldepflichtiges
-Konto betrachten und die Selbstauskunft auch die
-Steueridentifikationsnummer des Kontoinhabers in dem meldepflichtigen
-Staat vorbehaltlich des § 8 Absatz 3 sowie das Geburtsdatum enthalten.
+1.  die Tatsache, dass die Beschaffung der Selbstauskunft aus rechtlichen
+    oder aus tatsächlichen Gründen unmöglich oder die Bestätigung der
+    Plausibilität unzumutbar war;
+
+
+2.  in Fällen nach Satz 1 Nummer 1 die Gründe der tatsächlichen oder
+    rechtlichen Unmöglichkeit und in Fällen nach Satz 1 Nummer 2 die
+    Gründe der Unzumutbarkeit;
+
+
+3.  ob eine Abverfügung im Sinne des Satzes 2 ausgeschlossen wurde und
+    eine Rückzahlung im Sinne des Satzes 3 erfolgt ist;
+
+
+4.  alle zur Identifizierung des Kontoinhabers zur Verfügung stehenden
+    Angaben.
+
+
+
+Die Mitteilung nach Satz 4 hat nach amtlich vorgeschriebener Form
+elektronisch im Wege der Datenfernübertragung über eine amtlich
+bestimmte Schnittstelle zu erfolgen. In den Fällen des Satzes 4 muss
+das meldende Finanzinstitut, um seinen Sorgfalts- und Meldepflichten
+in Bezug auf den Meldezeitraum, in dem das Konto eröffnet wurde,
+nachzukommen, bis zum 31. Juli des auf das Jahr der Kontoeröffnung
+folgenden Kalenderjahrs die Vorgaben nach § 11 Absatz 1 bis 3 und § 12
+Absatz 1 bis 8 anwenden, bis die Selbstauskunft erlangt und ihre
+Plausibilität bestätigt ist.
+
+(3) Zur Feststellung der beherrschenden Personen eines Kontoinhabers
+kann sich ein meldendes Finanzinstitut auf die aufgrund von Verfahren
+zur Bekämpfung der Geldwäsche und Kundensorgfaltspflichten (AML/KYC –
+Anti-Money Laundering/Know-your-Customer) erhobenen und gepflegten
+Informationen verlassen, solange diese im Einklang mit § 10 Absatz 1
+Nummer 2 des Geldwäschegesetzes stehen. Unterliegt das meldende
+Finanzinstitut keinen Sorgfaltspflichten nach den Verfahren zur
+Bekämpfung der Geldwäsche und Kundensorgfaltspflichten (AML/KYC –
+Anti-Money Laundering/Know-your-Customer), so ist es verpflichtet, die
+Feststellung der beherrschenden Person entsprechend § 10 Absatz 1
+Nummer 2 des Geldwäschegesetzes vorzunehmen.
 
 (4) Tritt bei einem Neukonto natürlicher Personen eine Änderung der
 Gegebenheiten ein, aufgrund derer dem meldenden Finanzinstitut bekannt
 ist oder bekannt sein müsste, dass die ursprüngliche Selbstauskunft
 nicht zutreffend oder unglaubwürdig ist, so darf es sich nicht auf die
-ursprüngliche Selbstauskunft verlassen und muss eine gültige
-Selbstauskunft beschaffen, aus der die steuerliche Ansässigkeit oder
-steuerlichen Ansässigkeiten des Kontoinhabers hervorgeht oder
-hervorgehen.
+ursprüngliche Selbstauskunft verlassen und muss es unverzüglich nach
+Änderung der Gegebenheiten eine gültige Selbstauskunft beschaffen, aus
+der die steuerliche Ansässigkeit oder steuerlichen Ansässigkeiten des
+Kontoinhabers hervorgeht oder hervorgehen.
 
 
 ### § 14 Sorgfaltspflichten bei bestehenden Konten von Rechtsträgern
@@ -942,15 +1119,21 @@ meldepflichtige Personen sind, Inhaber des Kontos ist oder sind:
 
 (1) Die Überprüfung bestehender Konten von Rechtsträgern mit einem
 Gesamtkontosaldo oder Gesamtkontowert von mehr als 250 000 US-Dollar
-zum 31. Dezember 2015 muss bis zum 31. Dezember 2017 abgeschlossen
-sein.
+zum 31. Dezember 2015 muss vom meldenden Finanzinstitut bis zum 31.
+Dezember 2017 abgeschlossen sein. Hat das meldende Finanzinstitut die
+Überprüfung nach Satz 1 nicht bis zum 6. Dezember 2024 abgeschlossen,
+ist es verpflichtet, diese bis zum 31. Dezember 2025 nachzuholen.
 
 (2) Die Überprüfung bestehender Konten von Rechtsträgern, deren
 Gesamtkontosaldo oder Gesamtkontowert zum 31. Dezember 2015 250 000
 US-Dollar nicht übersteigt, zum 31. Dezember eines Folgejahres jedoch
-diesen Betrag übersteigt, muss innerhalb des Kalenderjahrs nach dem
-Jahr, in dem der Gesamtkontosaldo oder Gesamtkontowert diesen Betrag
-übersteigt, abgeschlossen sein.
+diesen Betrag übersteigt, muss vom meldenden Finanzinstitut innerhalb
+des Kalenderjahrs nach dem Jahr, in dem der Gesamtkontosaldo oder
+Gesamtkontowert diesen Betrag übersteigt, abgeschlossen sein. Hätte
+das meldende Finanzinstitut die Überprüfung nach Satz 1 bis zum 31.
+Dezember 2024 abschließen müssen und ist es dieser Pflicht nicht
+nachgekommen, so hat es die Überprüfung bis zum 31. Dezember 2025
+nachzuholen.
 
 (3) Tritt bei einem bestehenden Konto von Rechtsträgern eine Änderung
 der Gegebenheiten ein, aufgrund derer dem meldenden Finanzinstitut
@@ -966,11 +1149,11 @@ festgelegten Verfahren neu bestimmen.
 von Rechtsträgern richtet sich nach den folgenden Absätzen.
 
 (2) Bei Neukonten von Rechtsträgern muss ein meldendes Finanzinstitut
-die folgenden Überprüfungsverfahren durchführen, um festzustellen, ob
-das Konto von einer meldepflichtigen Person oder mehreren
-meldepflichtigen Personen oder von passiven NFEs mit einer oder
-mehreren beherrschenden Personen, die meldepflichtige Personen sind,
-gehalten wird:
+vor Kontoeröffnung die folgenden Überprüfungsverfahren durchführen, um
+festzustellen, ob das Konto von einer meldepflichtigen Person oder
+mehreren meldepflichtigen Personen oder von passiven NFEs mit einer
+oder mehreren beherrschenden Personen, die meldepflichtige Personen
+sind, gehalten wird:
 
 1.  Feststellung, ob der Rechtsträger eine meldepflichtige Person ist:
 
@@ -1041,22 +1224,54 @@ Finanzinstitut nachweisen kann, dass
 
 
 
-Im Fall des Satzes 1 muss sichergestellt sein, dass vor der
-Beschaffung der Selbstauskunft oder der Bestätigung ihrer
+Im Fall des Satzes 1 muss das meldende Finanzinstitut sicherstellen,
+dass vor der Beschaffung der Selbstauskunft oder der Bestätigung ihrer
 Plausibilität keine Gelder von dem Konto abverfügt werden können. Für
 den Fall einer Rückzahlung eingegangener Gelder dürfen diese nur an
 den Einzahler ausgezahlt werden. Kann die Selbstauskunft innerhalb von
 90 Kalendertagen seit der Kontoeröffnung nicht beschafft oder ihre
 Plausibilität nicht bestätigt werden, muss das meldende Finanzinstitut
-dies dem Bundeszentralamt für Steuern unverzüglich unter Angabe aller
-zur Identifizierung des Kontoinhabers zur Verfügung stehenden Angaben
-mitteilen.
+dem Bundeszentralamt für Steuern unverzüglich Folgendes mitteilen:
+
+1.  die Tatsache, dass die Beschaffung der Selbstauskunft aus rechtlichen
+    oder aus tatsächlichen Gründen unmöglich oder die Bestätigung der
+    Plausibilität unzumutbar war;
+
+
+2.  in den Fällen nach Satz 1 Nummer 1 die Gründe der tatsächlichen oder
+    rechtlichen Unmöglichkeit und in den Fällen nach Satz 1 Nummer 2 die
+    Gründe der Unzumutbarkeit;
+
+
+3.  ob eine Abverfügung im Sinne des Satzes 2 ausgeschlossen wurde und
+    eine Rückzahlung im Sinne des Satzes 3 erfolgt ist;
+
+
+4.  alle zur Identifizierung des Kontoinhabers zur Verfügung stehenden
+    Angaben.
+
+
+
+Die Mitteilung nach Satz 4 hat nach amtlich vorgeschriebener Form
+elektronisch im Wege der Datenfernübertragung über eine amtlich
+bestimmte Schnittstelle zu erfolgen. In den Fällen des Satzes 4 muss
+das meldende Finanzinstitut, um seinen Sorgfalts- und Meldepflichten
+in Bezug auf den Meldezeitraum, in dem das Konto eröffnet wurde,
+nachzukommen, bis zum 31. Juli des auf das Jahr der Kontoeröffnung
+folgenden Kalenderjahrs die Vorgaben nach § 14 Absatz 5 anwenden, bis
+die Selbstauskunft erlangt und ihre Plausibilität bestätigt ist.
 
 (3) Zur Feststellung der beherrschenden Personen eines Kontoinhabers
 kann sich ein meldendes Finanzinstitut auf die aufgrund von Verfahren
 zur Bekämpfung der Geldwäsche und Kundensorgfaltspflichten (AML/KYC –
-Anti-Money Laundering/Know-your-Customer) erhobenen und verwahrten
-Informationen verlassen.
+Anti-Money Laundering/Know-your-Customer) erhobenen und gepflegten
+Informationen verlassen, solange diese im Einklang mit § 10 Absatz 1
+Nummer 2 des Geldwäschegesetzes stehen. Unterliegt das meldende
+Finanzinstitut keinen Sorgfaltspflichten nach den Verfahren zur
+Bekämpfung der Geldwäsche und Kundensorgfaltspflichten (AML/KYC –
+Anti-Money Laundering/Know-your-Customer), so ist es verpflichtet, die
+Feststellung der beherrschenden Person entsprechend § 10 Absatz 1
+Nummer 2 des Geldwäschegesetzes vorzunehmen.
 
 (4) Zur Feststellung, ob eine beherrschende Person eines passiven NFE
 eine meldepflichtige Person ist, kann sich ein meldendes
@@ -1216,9 +1431,11 @@ Im Sinne dieses Gesetzes ist oder sind:
 
 
 
-3.  Finanzinstitut: bedeutet ein Verwahrinstitut, ein Einlageninstitut,
-    ein Investmentunternehmen oder eine spezifizierte
-    Versicherungsgesellschaft;
+3.  Finanzinstitut: ein Verwahrinstitut, ein Einlageninstitut, ein
+    Investmentunternehmen oder eine spezifizierte
+    Versicherungsgesellschaft. Diese Begriffsbestimmung ist auf eine Weise
+    auszulegen, die mit der Definition von Finanzinstitut in der
+    Richtlinie (EU) 2015/849 vereinbar ist;
 
 
 4.  Verwahrinstitut bedeutet einen Rechtsträger, dessen Geschäftstätigkeit
@@ -1242,15 +1459,16 @@ Im Sinne dieses Gesetzes ist oder sind:
 
 
 
-5.  Einlageninstitut ein Rechtsträger, der im Rahmen gewöhnlicher
+5.  Einlageninstitut: ein Rechtsträger, der im Rahmen gewöhnlicher
     Bankgeschäfte oder einer ähnlichen Geschäftstätigkeit Einlagen
-    entgegennimmt;
+    entgegennimmt oder E-Geld oder digitales Zentralbankgeld zugunsten
+    seiner Kunden hält;
 
 
 6.  Investmentunternehmen: ein Rechtsträger,
 
     a)  der gewerblich vorwiegend eine oder mehrere der folgenden Tätigkeiten
-        für einen Kunden ausübt:
+        für einen Kunden oder in dessen Namen ausübt:
 
         aa) den Handel mit Geldmarktinstrumenten (zum Beispiel Schecks, Wechsel,
             Einlagenzertifikate, Derivate), Devisen, Wechselkursinstrumenten,
@@ -1261,29 +1479,29 @@ Im Sinne dieses Gesetzes ist oder sind:
         bb) die individuelle und kollektive Vermögensverwaltung oder
 
 
-        cc) sonstige Arten der Anlage oder Verwaltung von Finanzvermögen oder
-            Kapital im Auftrag Dritter oder
+        cc) sonstige Arten der Anlage oder Verwaltung von Finanzvermögen, von
+            Kapital oder von zu meldenden Kryptowerten im Auftrag Dritter oder
 
 
 
 
 
     b)  dessen Bruttoeinkünfte vorwiegend der Anlage oder der Wiederanlage von
-        oder dem Handel mit Finanzvermögen zuzurechnen sind, wenn der
-        Rechtsträger von einem Einlageninstitut, einem Verwahrinstitut, einer
-        spezifizierten Versicherungsgesellschaft oder einem Rechtsträger im
-        Sinne des Buchstaben a verwaltet wird.
+        oder dem Handel mit Finanzvermögen oder zu meldenden Kryptowerten
+        zuzurechnen sind, wenn der Rechtsträger von einem Einlageninstitut,
+        einem Verwahrinstitut, einer spezifizierten Versicherungsgesellschaft
+        oder einem Rechtsträger im Sinne des Buchstaben a verwaltet wird.
 
 
 
     Ein Rechtsträger übt gewerblich vorwiegend eine oder mehrere der in
     Satz 1 Buchstabe a beschriebenen Tätigkeiten aus beziehungsweise die
     Bruttoeinkünfte eines Rechtsträgers sind vorwiegend der Anlage oder
-    Wiederanlage von Finanzvermögen oder dem Handel damit im Sinne von
-    Satz 1 Buchstabe b zuzurechnen, wenn die den entsprechenden
-    Tätigkeiten zuzurechnenden Bruttoeinkünfte des Rechtsträgers
-    mindestens 50 Prozent der Bruttoeinkünfte des Rechtsträgers
-    entsprechen, und zwar entweder
+    Wiederanlage von Finanzvermögen oder von zu meldenden Kryptowerten
+    oder dem Handel damit im Sinne von Satz 1 Buchstabe b zuzurechnen,
+    wenn die den entsprechenden Tätigkeiten zuzurechnenden Bruttoeinkünfte
+    des Rechtsträgers mindestens 50 Prozent der Bruttoeinkünfte des
+    Rechtsträgers entsprechen, und zwar entweder
 
     a)  während des dreijährigen Zeitraums, der am 31. Dezember des Jahres vor
         dem Bestimmungsjahr endet, oder
@@ -1294,31 +1512,49 @@ Im Sinne dieses Gesetzes ist oder sind:
 
 
 
-    Der Ausdruck Investmentunternehmen umfasst nicht einen Rechtsträger,
-    bei dem es sich aufgrund der Erfüllung der Kriterien in Nummer 42
-    Buchstabe d bis g um einen aktiven NFE handelt.
+    Die Erbringung von Dienstleistungen, die Tauschgeschäfte für oder im
+    Namen von Kunden bewirken, ist keine sonstige Art der Anlage oder der
+    Verwaltung von Finanzvermögen, von Kapital oder von zu meldenden
+    Kryptowerten im Auftrag Dritter im Sinne des Satzes 1 Buchstabe a
+    Doppelbuchstabe cc. Der Ausdruck Investmentunternehmen umfasst nicht
+    einen Rechtsträger, bei dem es sich aufgrund der Erfüllung der
+    Kriterien in Nummer 48 Buchstabe d bis g um einen aktiven NFE handelt.
 
-    Diese Nummer ist auf eine Weise auszulegen, die mit dem ähnlichen
-    Wortlaut der Definition von Finanzinstituten in den Empfehlungen der
-    Arbeitsgruppe finanzielle Maßnahmen gegen Geldwäsche (Financial Action
-    Task Force – FATF – on-Money Laundering) vereinbar ist.
+
+7.  Finanzvermögen:
+
+    a)  Wertpapiere, zum Beispiel Anteile am Aktienkapital einer
+        Kapitalgesellschaft, Beteiligungen oder wirtschaftliches Eigentum an
+        den Beteiligungen an einer im Streubesitz befindlichen oder
+        börsennotierten Personalgesellschaft oder einem Trust sowie
+        Obligationen, Anleihen, Schuldverschreibungen oder sonstige
+        Schuldurkunden,
 
 
-7.  Der Ausdruck Finanzvermögen umfasst Wertpapiere zum Beispiel Anteile
-    am Aktienkapital einer Kapitalgesellschaft, Beteiligungen oder
-    wirtschaftliches Eigentum an den Beteiligungen an einer in Streubesitz
-    befindlichen oder börsennotierten Personalgesellschaft oder einem
-    Trust, sowie Obligationen, Anleihen, Schuldverschreibungen oder
-    sonstige Schuldurkunden, Beteiligungen an Personengesellschaften,
-    Warengeschäfte, Swaps, zum Beispiel Zinsswaps, Währungsswaps,
-    Basisswaps, Zinscaps, Zinsfloors, Warenswaps, Aktienswaps,
-    Aktienindexswaps und ähnliche Vereinbarungen, Versicherungs- oder
-    Rentenversicherungsverträge oder Beteiligungen, darunter
-    börsengehandelte und nicht börsengehandelte Termingeschäfte und
-    Optionen an Wertpapieren, Beteiligungen an Personengesellschaften,
-    Warengeschäfte, Swaps oder Versicherungs- oder
-    Rentenversicherungsverträgen. Der Ausdruck Finanzvermögen umfasst
-    keine nicht fremdfinanzierten unmittelbaren Immobilienbeteiligungen;
+    b)  Beteiligungen an Personengesellschaften,
+
+
+    c)  Warengeschäfte,
+
+
+    d)  Swaps, zum Beispiel Zinsswaps, Währungsswaps, Basisswaps, Zinscaps,
+        Zinsfloors, Warenswaps, Aktienswaps, Aktienindexswaps, und ähnliche
+        Vereinbarungen,
+
+
+    e)  Versicherungs- oder Rentenversicherungsverträge,
+
+
+    f)  Beteiligungen, darunter börsengehandelte und nicht börsengehandelte
+        Termingeschäfte und Optionen, an Wertpapieren, zu meldenden
+        Kryptowerten, Beteiligungen an Personengesellschaften,
+        Warengeschäften, Swaps oder Versicherungs- oder
+        Rentenversicherungsverträgen.
+
+
+
+    Der Ausdruck Finanzvermögen umfasst keine nicht fremdfinanzierten
+    unmittelbaren Immobilienbeteiligungen;
 
 
 8.  spezifizierte Versicherungsgesellschaft: ein Rechtsträger, bei dem es
@@ -1329,14 +1565,77 @@ Im Sinne dieses Gesetzes ist oder sind:
     verpflichtet ist;
 
 
-9.  nicht meldendes Finanzinstitut: ein Finanzinstitut, bei dem es sich
+9.  E-Geld: E-Geld im Sinne des § 1 Absatz 2 Satz 3 des
+    Zahlungsdiensteaufsichtsgesetzes sowie E-Geld-Token im Sinne von
+    Artikel 3 Absatz 1 Nummer 7 der Verordnung (EU) 2023/1114, soweit es
+
+    a)  eine digitale Darstellung einer einzigen Fiat-Währung ist,
+
+
+    b)  eine Forderung gegenüber dem Emittenten darstellt, die auf dieselbe
+        Fiat-Währung lautet, und
+
+
+    c)  kraft der für den Emittenten geltenden regulatorischen Anforderungen
+        auf Antrag des Inhabers des Produkts für dieselbe Fiat-Währung
+        jederzeit und zum Nennwert einlösbar ist.
+
+
+
+    Der Ausdruck E-Geld umfasst keine Werte, die ausschließlich zum Zweck
+    der Erleichterung der Übertragung von Geldmitteln von einem Kunden an
+    eine andere Person gemäß den Anweisungen des Kunden geschaffen wurden.
+    Ein Wert wird nicht ausschließlich zum Zweck der Erleichterung der
+    Übertragung von Geldmitteln geschaffen, wenn die mit diesem Produkt
+    verbundenen Geldmittel im Rahmen der normalen Geschäftstätigkeit des
+    übertragenden Rechtsträgers entweder länger als 60 Tage nach Erhalt
+    von Anweisungen zur Erleichterung der Übertragung gehalten werden oder
+    die mit diesem Produkt verbundenen Geldmittel bei fehlenden
+    Anweisungen länger als 60 Tage nach Erhalt dieser Geldmittel gehalten
+    werden;
+
+
+10. Fiat-Währung: die offizielle Währung eines Staates, die von einem
+    Staat oder von der von einem Staat bestimmten Zentralbank oder
+    Währungsbehörde in Form von physischen Banknoten oder Münzen oder Geld
+    in verschiedenen digitalen Formen ausgegeben wird, wobei auch
+    Geschäftsbankgeld und E-Geld-Produkte umfasst sind;
+
+
+11. digitales Zentralbankgeld: jede digitale Fiat-Währung, die von einer
+    Zentralbank oder einer anderen Währungsbehörde ausgegeben wird;
+
+
+12. Kryptowert: jeder Kryptowert im Sinne des § 1 Absatz 8 des
+    Kryptowerte-Steuertransparenz-Gesetzes;
+
+
+13. zu meldender Kryptowert: jeder Kryptowert im Sinne des § 1 Absatz 23
+    des Kryptowerte-Steuertransparenz-Gesetzes;
+
+
+14. Tauschgeschäft: jede Transaktion im Sinne des § 1 Absatz 16 des
+    Kryptowerte-Steuertransparenz-Gesetzes;
+
+
+15. nicht meldendes Finanzinstitut: ein Finanzinstitut, bei dem es sich
     handelt um
 
     a)  einen staatlichen Rechtsträger, eine internationale Organisation oder
-        eine Zentralbank, außer bei Zahlungen, die aus einer Verpflichtung in
-        Zusammenhang mit gewerblichen Finanzaktivitäten stammen, die denen
-        einer spezifizierten Versicherungsgesellschaft, eines Verwahr- oder
-        eines Einlageninstituts entsprechen,
+        eine Zentralbank, außer bei
+
+        aa) Zahlungen, die aus einer Verpflichtung im Zusammenhang mit
+            gewerblichen Finanzaktivitäten stammen, die denen einer spezifizierten
+            Versicherungsgesellschaft, eines Verwahr- oder eines Einlageninstituts
+            entsprechen, oder
+
+
+        bb) der Führung von digitalem Zentralbankgeld für Kontoinhaber, bei denen
+            es sich nicht um Finanzinstitute, staatliche Rechtsträger,
+            internationale Organisationen oder Zentralbanken handelt,
+
+
+
 
 
     b)  einen Altersvorsorgefonds mit breiter Beteiligung, einen
@@ -1368,7 +1667,7 @@ Im Sinne dieses Gesetzes ist oder sind:
 
 
 
-10. staatlicher Rechtsträger: die Regierung eines Staates, eine
+16. staatlicher Rechtsträger: die Regierung eines Staates, eine
     Gebietskörperschaft eines Staates, wobei es sich, um Zweifel
     auszuräumen, unter anderem um einen Gliedstaat, einen Landkreis oder
     eine Gemeinde handeln kann, oder eine Behörde oder Einrichtung, die
@@ -1429,7 +1728,7 @@ Im Sinne dieses Gesetzes ist oder sind:
     an Privatpersonen erbracht werden;
 
 
-11. internationale Organisation: eine internationale Organisation oder
+17. internationale Organisation: eine internationale Organisation oder
     eine in ihrem Alleineigentum stehende Behörde oder Einrichtung. Eine
     internationale Organisation umfasst eine zwischenstaatliche
     Organisation, einschließlich einer übernationalen Organisation, die
@@ -1447,7 +1746,7 @@ Im Sinne dieses Gesetzes ist oder sind:
 
 
 
-12. Zentralbank: ein Institut, das aufgrund eines Gesetzes oder
+18. Zentralbank: ein Institut, das aufgrund eines Gesetzes oder
     staatlicher Genehmigung neben der Regierung des Staates die oberste
     Behörde für die Ausgabe von als Währung vorgesehenen Zahlungsmitteln
     darstellt. Dieses Institut kann eine von der Regierung des Staats
@@ -1455,7 +1754,7 @@ Im Sinne dieses Gesetzes ist oder sind:
     des Staats stehen kann;
 
 
-13. Altersvorsorgefonds mit breiter Beteiligung: ein Fonds zur Gewährung
+19. Altersvorsorgefonds mit breiter Beteiligung: ein Fonds zur Gewährung
     von Altersvorsorge- und Invaliditätsleistungen sowie Leistungen im
     Todesfall oder einer Kombination dieser Leistungen als Gegenleistung
     für erbrachte Leistungen an Begünstigte, die derzeitige oder ehemalige
@@ -1479,16 +1778,16 @@ Im Sinne dieses Gesetzes ist oder sind:
 
 
         bb) der Fonds bezieht mindestens 50 Prozent seiner Gesamtbeiträge mit
-            Ausnahme von Vermögensübertragungen von anderen in den Nummern 13 bis
-            15 genannten Plänen oder in Nummer 34 Buchstabe a genannten
+            Ausnahme von Vermögensübertragungen von anderen in den Nummern 19 bis
+            21 genannten Plänen oder in Nummer 40 Buchstabe a genannten
             Altersvorsorgekonten von den Arbeitgebern,
 
 
         cc) Ausschüttungen oder Entnahmen aus dem Fonds dürfen nur bei Eintritt
             konkreter Ereignisse im Zusammenhang mit dem Ruhestand, der
             Invalidität oder dem Tod vorgenommen werden, mit Ausnahme von aus
-            einem Altersvorsorgeplan an andere in den Nummern 13 bis 15 genannte
-            Altersvorsorgefonds oder in Nummer 34 Buchstabe a genannte
+            einem Altersvorsorgeplan an andere in den Nummern 19 bis 21 genannte
+            Altersvorsorgefonds oder in Nummer 40 Buchstabe a genannte
             Altersvorsorgekonten übertragene Ausschüttungen, andernfalls finden
             Sanktionen Anwendung, oder
 
@@ -1507,7 +1806,7 @@ Im Sinne dieses Gesetzes ist oder sind:
 
 
 
-14. Altersvorsorgefonds mit geringer Beteiligung: ein Fonds zur Gewährung
+20. Altersvorsorgefonds mit geringer Beteiligung: ein Fonds zur Gewährung
     von Altersvorsorge- und Invaliditätsleistungen sowie Leistungen im
     Todesfall als Gegenleistung für erbrachte Leistungen an Begünstigte,
     die derzeitige oder ehemalige Arbeitnehmer oder von ihnen bestimmte
@@ -1521,7 +1820,7 @@ Im Sinne dieses Gesetzes ist oder sind:
 
 
     c)  die Arbeitnehmer- und Arbeitgeberbeiträge an den Fonds, mit Ausnahme
-        von Vermögensübertragungen von in Nummer 34 Buchstabe a genannten
+        von Vermögensübertragungen von in Nummer 40 Buchstabe a genannten
         Altersvorsorgekonten, durch das Erwerbseinkommen beziehungsweise die
         Vergütung des Arbeitnehmers begrenzt werden,
 
@@ -1537,7 +1836,7 @@ Im Sinne dieses Gesetzes ist oder sind:
 
 
 
-15. Pensionsfonds eines staatlichen Rechtsträgers, einer internationalen
+21. Pensionsfonds eines staatlichen Rechtsträgers, einer internationalen
     Organisation oder einer Zentralbank: ein von einem staatlichen
     Rechtsträger, einer internationalen Organisation oder einer
     Zentralbank errichteter Fonds zur Gewährung von Altersvorsorge- und
@@ -1551,7 +1850,7 @@ Im Sinne dieses Gesetzes ist oder sind:
     geleisteten Dienste gewährt werden;
 
 
-16. qualifizierter Kreditkartenanbieter: ein Finanzinstitut, das
+22. qualifizierter Kreditkartenanbieter: ein Finanzinstitut, das
 
     a)  nur als Finanzinstitut gilt, weil es ein Kreditkartenanbieter ist, der
         Einlagen nur akzeptiert, wenn ein Kunde eine Zahlung leistet, die
@@ -1574,7 +1873,7 @@ Im Sinne dieses Gesetzes ist oder sind:
 
 
 
-17. ausgenommener Organismus für gemeinsame Anlagen: ein
+23. ausgenommener Organismus für gemeinsame Anlagen: ein
     Investmentunternehmen, das als Organismus für gemeinsame Anlagen der
     Aufsicht untersteht, sofern sämtliche Beteiligungen an dem Organismus
     für gemeinsame Anlagen von natürlichen Personen oder Rechtsträgern,
@@ -1612,7 +1911,7 @@ Im Sinne dieses Gesetzes ist oder sind:
 
 
 
-18. Finanzkonto: ein von einem Finanzinstitut geführtes Konto. Ein
+24. Finanzkonto: ein von einem Finanzinstitut geführtes Konto. Ein
     Finanzkonto umfasst ein Einlagenkonto, ein Verwahrkonto und
 
     a)  im Fall eines Investmentunternehmens Eigen- und
@@ -1654,23 +1953,34 @@ Im Sinne dieses Gesetzes ist oder sind:
     ausgenommene Konten handelt;
 
 
-19. Einlagenkonten: Geschäfts-, Giro-, Spar- und Terminkonten sowie
-    Konten, die durch Einlagenzertifikate, Sparbriefe,
-    Investmentzertifikate, Schuldtitel oder vergleichbare Instrumente
-    verbrieft sind, die von einem Finanzinstitut im Rahmen gewöhnlicher
-    Bankgeschäfte oder einer ähnlichen Geschäftstätigkeit geführt werden.
-    Ein Einlagenkonto umfasst auch Beträge, die von einer
-    Versicherungsgesellschaft aufgrund eines garantierten
-    Kapitalanlagevertrags oder einer ähnlichen Vereinbarung zur Zahlung
-    oder Gutschrift von Zinsen auf diese Beträge gehalten werden;
+25. Einlagenkonto: Geschäfts-, Giro-, Spar- und Terminkonten sowie Konten,
+    die durch Einlagenzertifikate, Sparbriefe, Investmentzertifikate,
+    Schuldtitel oder vergleichbare Instrumente verbrieft sind, die von
+    einem Einlageninstitut geführt werden, wobei auch umfasst sind:
+
+    a)  Beträge, die von einer Versicherungsgesellschaft aufgrund eines
+        garantierten Kapitalanlagevertrags oder einer ähnlichen Vereinbarung
+        zur Zahlung oder Gutschrift von Zinsen auf diese Beträge gehalten
+        werden,
 
 
-20. Verwahrkonto: ein Konto, nicht jedoch ein Versicherungsvertrag oder
+    b)  ein Konto oder ein fiktives Konto, das sämtliches E-Geld
+        repräsentiert, das zugunsten eines Kunden gehalten wird, und
+
+
+    c)  ein Konto, auf dem digitales Zentralbankgeld zugunsten eines Kunden
+        gehalten wird;
+
+
+
+
+
+26. Verwahrkonto: ein Konto, nicht jedoch ein Versicherungsvertrag oder
     Rentenversicherungsvertrag, in dem Finanzvermögen zugunsten eines
     Dritten verwahrt wird;
 
 
-21. Eigenkapitalbeteiligung: Eigenkapitalbeteiligung bedeutet im Fall
+27. Eigenkapitalbeteiligung: Eigenkapitalbeteiligung bedeutet im Fall
     einer Personengesellschaft, die ein Finanzinstitut ist, entweder eine
     Kapital- oder eine Gewinnbeteiligung an der Personengesellschaft. Im
     Fall eines Trusts, der ein Finanzinstitut ist, gilt eine
@@ -1684,14 +1994,14 @@ Im Sinne dieses Gesetzes ist oder sind:
     mittelbar eine freiwillige Ausschüttung aus dem Trust erhalten kann;
 
 
-22. Versicherungsvertrag: ein Vertrag, nicht jedoch ein
+28. Versicherungsvertrag: ein Vertrag, nicht jedoch ein
     Rentenversicherungsvertrag, bei dem sich der Versicherungsgeber bereit
     erklärt, bei Eintritt eines konkreten Ereignisses im Zusammenhang mit
     einem Todesfall-, einem Krankheits-, Unfall-, Haftungs- oder
     Sachschadenrisiko einen Betrag zu zahlen;
 
 
-23. Rentenversicherungsvertrag: ein Vertrag, bei dem sich der
+29. Rentenversicherungsvertrag: ein Vertrag, bei dem sich der
     Versicherungsgeber bereit erklärt, für einen vollständig oder
     teilweise anhand der Lebenserwartung einer oder mehrerer natürlicher
     Personen ermittelten Zeitraum Zahlungen zu leisten. Der Ausdruck
@@ -1702,12 +2012,12 @@ Im Sinne dieses Gesetzes ist oder sind:
     Jahren Zahlungen zu leisten;
 
 
-24. rückkaufsfähiger Versicherungsvertrag: ein Versicherungsvertrag, nicht
+30. rückkaufsfähiger Versicherungsvertrag: ein Versicherungsvertrag, nicht
     jedoch ein Rückversicherungsvertrag, zwischen zwei
     Versicherungsgesellschaften mit einem Barwert;
 
 
-25. Barwert: als Barwert gilt
+31. Barwert: als Barwert gilt
 
     a)  der Betrag, zu dessen Erhalt der Versicherungsnehmer nach Rückkauf
         oder Kündigung des Vertrags berechtigt ist, der ohne Minderung wegen
@@ -1759,10 +2069,19 @@ Im Sinne dieses Gesetzes ist oder sind:
 
 
 
-26. bestehendes Konto: ein bestehendes Konto ist
+32. bestehendes Konto: ein bestehendes Konto ist
 
-    a)  ein Finanzkonto, das zum 31. Dezember 2015 von einem meldenden
-        Finanzinstitut geführt wird,
+    a)  ein Finanzkonto, das von einem meldenden Finanzinstitut
+
+        aa) zum 31. Dezember 2015 geführt wird oder
+
+
+        bb) zum 31. Dezember 2025 geführt wird, wenn das Konto ausschließlich
+            aufgrund der zum 1. Januar 2026 in Kraft tretenden Änderungen dieses
+            Gesetzes als Finanzkonto behandelt wird,
+
+
+
 
 
     b)  jedes Finanzkonto eines Kontoinhabers, ungeachtet des Zeitpunkts der
@@ -1805,40 +2124,49 @@ Im Sinne dieses Gesetzes ist oder sind:
 
 
 
-27. Neukonto: ein von einem meldenden Finanzinstitut geführtes
-    Finanzkonto, das am oder nach dem 1. Januar 2016 eröffnet wird, sofern
-    es nicht als bestehendes Konto nach Nummer 26 Buchstabe b behandelt
-    wird;
+33. Neukonto: ein von einem meldenden Finanzinstitut geführtes
+    Finanzkonto, das
+
+    a)  am oder nach dem 1. Januar 2016 eröffnet wurde, sofern es nicht als
+        bestehendes Konto nach Nummer 32 Buchstabe b behandelt wird, oder
 
 
-28. bestehendes Konto natürlicher Personen: ein bestehendes Konto, dessen
+    b)  am oder nach dem 1. Januar 2026 eröffnet wird, wenn das Konto
+        ausschließlich aufgrund der zum 1. Januar 2026 in Kraft tretenden
+        Änderungen dieses Gesetzes als Finanzkonto behandelt wird;
+
+
+
+
+
+34. bestehendes Konto natürlicher Personen: ein bestehendes Konto, dessen
     Inhaber eine natürliche Person oder mehrere natürliche Personen ist
     oder sind;
 
 
-29. Neukonto natürlicher Personen: ein Neukonto, dessen Inhaber eine
+35. Neukonto natürlicher Personen: ein Neukonto, dessen Inhaber eine
     natürliche Person oder mehrere natürliche Personen ist oder sind;
 
 
-30. bestehendes Konto von Rechtsträgern: ein bestehendes Konto, dessen
+36. bestehendes Konto von Rechtsträgern: ein bestehendes Konto, dessen
     Inhaber ein oder mehrere Rechtsträger ist oder sind;
 
 
-31. Konto von geringerem Wert: ein bestehendes Konto natürlicher Personen
+37. Konto von geringerem Wert: ein bestehendes Konto natürlicher Personen
     mit einem Gesamtsaldo oder Gesamtwert von höchstens 1 000 000 US-
     Dollar zum 31. Dezember 2015;
 
 
-32. Konto von hohem Wert: ein bestehendes Konto natürlicher Personen mit
+38. Konto von hohem Wert: ein bestehendes Konto natürlicher Personen mit
     einem Gesamtsaldo oder Gesamtwert von mehr als 1 000 000 US-Dollar zum
     31\. Dezember 2015 oder 31. Dezember eines Folgejahres;
 
 
-33. Neukonto von Rechtsträgern: ein Neukonto, dessen Inhaber ein oder
+39. Neukonto von Rechtsträgern: ein Neukonto, dessen Inhaber ein oder
     mehrere Rechtsträger ist oder sind;
 
 
-34. ausgenommenes Konto: eines der folgenden Konten:
+40. ausgenommenes Konto: eines der folgenden Konten:
 
     a)  ein Altersvorsorgekonto, das folgende Voraussetzungen erfüllt:
 
@@ -1882,13 +2210,13 @@ Im Sinne dieses Gesetzes ist oder sind:
 
 
 
-        Ein Finanzkonto, das die in Nummer 34 Buchstabe a Doppelbuchstabe ee
+        Ein Finanzkonto, das die in Nummer 40 Buchstabe a Doppelbuchstabe ee
         genannte Voraussetzung grundsätzlich erfüllt, wird diese auch dann
         erfüllen, wenn auf das Finanzkonto Vermögenswerte oder Geldbeträge von
         einem oder mehreren Finanzkonten, die die Voraussetzungen nach Nummer
-        34 Buchstabe a oder b erfüllen, oder von einem oder mehreren
+        40 Buchstabe a oder b erfüllen, oder von einem oder mehreren
         Altersvorsorge- oder Pensionsfonds, die die Voraussetzungen nach den
-        Nummern 13 bis 15 erfüllen, übertragen werden können;
+        Nummern 19 bis 21 erfüllen, übertragen werden können;
 
 
     b)  ein Konto, das folgende Voraussetzungen erfüllt:
@@ -1920,13 +2248,13 @@ Im Sinne dieses Gesetzes ist oder sind:
 
 
 
-        Ein Finanzkonto, das die in Nummer 34 Buchstabe b Doppelbuchstabe dd
+        Ein Finanzkonto, das die in Nummer 40 Buchstabe b Doppelbuchstabe dd
         genannte Voraussetzung grundsätzlich erfüllt, wird diese auch dann
         erfüllen, wenn auf das Finanzkonto Vermögenswerte oder Geldbeträge von
         einem oder mehreren Finanzkonten, die die Voraussetzungen nach Nummer
-        34 Buchstabe a oder b erfüllen, oder von einem oder mehreren
+        40 Buchstabe a oder b erfüllen, oder von einem oder mehreren
         Altersvorsorge- oder Pensionsfonds, die die Voraussetzungen nach den
-        Nummern 13 bis 15 erfüllen, übertragen werden können;
+        Nummern 19 bis 21 erfüllen, übertragen werden können;
 
 
     c)  ein Lebensversicherungsvertrag mit einer Versicherungszeit, die vor
@@ -2002,8 +2330,8 @@ Im Sinne dieses Gesetzes ist oder sind:
                 Konto,
 
 
-            eee) das Konto steht nicht in Verbindung mit einem Konto nach Nummer 34
-                Buchstabe f,
+            eee) das Konto steht nicht in Verbindung mit einem Konto nach Nummer 40
+                Buchstabe g,
 
 
 
@@ -2013,17 +2341,53 @@ Im Sinne dieses Gesetzes ist oder sind:
             besichertes Darlehen verwaltet, zur Zurücklegung eines Teils einer
             Zahlung ausschließlich zur Ermöglichung der Entrichtung von Steuern
             oder Versicherungsbeiträgen im Zusammenhang mit den Immobilien zu
-            einem späteren Zeitpunkt oder
+            einem späteren Zeitpunkt,
 
 
         dd) einer Verpflichtung eines Finanzinstituts ausschließlich zur
-            Ermöglichung der Entrichtung von Steuern zu einem späteren Zeitpunkt,
+            Ermöglichung der Entrichtung von Steuern zu einem späteren Zeitpunkt
+            oder
+
+
+        ee) einer Gründung oder Kapitalerhöhung einer Gesellschaft, sofern das
+            Konto die folgenden Anforderungen erfüllt:
+
+            aaa) das Konto wird ausschließlich zur Einlage von Kapital verwendet, das
+                gemäß den gesetzlichen Vorschriften für die Gründung oder
+                Kapitalerhöhung einer Gesellschaft verwendet werden soll,
+
+
+            bbb) alle auf dem Konto gehaltenen Beträge werden gesperrt, bis das
+                meldende Finanzinstitut eine unabhängige Bestätigung über die Gründung
+                oder Kapitalerhöhung erhält,
+
+
+            ccc) das Konto wird nach der Gründung oder Kapitalerhöhung geschlossen oder
+                in ein Konto auf den Namen der Gesellschaft umgewandelt,
+
+
+            ddd) jegliche Rückzahlungen, die sich aus einer gescheiterten Gründung oder
+                Kapitalerhöhung ergeben, werden ohne Gebühren für Dienstleister und
+                ähnliche Gebühren ausschließlich an die Personen geleistet, die die
+                Beträge eingebracht haben, und
+
+
+            eee) das Konto wurde vor nicht mehr als zwölf Monaten eingerichtet,
 
 
 
 
 
-    f)  ein Einlagenkonto, das folgende Voraussetzungen erfüllt:
+
+
+
+    f)  ein Einlagenkonto, das sämtliches E-Geld repräsentiert, das zugunsten
+        eines Kunden gehalten wird, wenn der gleitende durchschnittliche
+        90-Tage-Gesamtkontosaldo oder -wert an keinem Tag im Kalenderjahr oder
+        in einem anderen geeigneten Meldezeitraum 10 000 US-Dollar übersteigt,
+
+
+    g)  ein Einlagenkonto, das folgende Voraussetzungen erfüllt:
 
         aa) das Konto besteht ausschließlich, weil ein Kunde eine Zahlung leistet,
             die einen in Bezug auf eine Kreditkarte oder eine sonstige
@@ -2045,7 +2409,7 @@ Im Sinne dieses Gesetzes ist oder sind:
 
 
 
-    g)  ein sonstiges Konto, bei dem ein geringes Risiko besteht, dass es zur
+    h)  ein sonstiges Konto, bei dem ein geringes Risiko besteht, dass es zur
         Steuerhinterziehung missbraucht wird, das im Wesentlichen ähnliche
         Eigenschaften wie die in den Buchstaben a bis f beschriebenen Konten
         aufweist und das in der Liste der ausgenommenen Konten nach Artikel 8
@@ -2060,7 +2424,7 @@ Im Sinne dieses Gesetzes ist oder sind:
 
 
 
-35. meldepflichtiges Konto: ein von einem meldenden Finanzinstitut eines
+41. meldepflichtiges Konto: ein von einem meldenden Finanzinstitut eines
     Staates geführtes Finanzkonto, dessen Inhaber eine meldepflichtige
     Person oder mehrere meldepflichtige Personen oder ein passiver NFE,
     der von einer oder mehreren meldepflichtigen Personen beherrscht wird,
@@ -2069,15 +2433,15 @@ Im Sinne dieses Gesetzes ist oder sind:
     identifiziert wurde;
 
 
-36. meldepflichtige Person: eine Person eines meldepflichtigen Staates,
+42. meldepflichtige Person: eine Person eines meldepflichtigen Staates,
     jedoch nicht:
 
-    a)  eine Kapitalgesellschaft, deren Aktien regelmäßig an einer oder
-        mehreren anerkannten Wertpapierbörsen gehandelt werden,
+    a)  ein Rechtsträger, dessen Anteile regelmäßig an einer oder mehreren
+        anerkannten Wertpapierbörsen gehandelt werden,
 
 
-    b)  eine Kapitalgesellschaft, die ein verbundener Rechtsträger einer
-        Kapitalgesellschaft nach Buchstabe a ist,
+    b)  ein Rechtsträger, der ein verbundener Rechtsträger eines Rechtsträgers
+        nach Buchstabe a ist,
 
 
     c)  ein staatlicher Rechtsträger,
@@ -2095,7 +2459,7 @@ Im Sinne dieses Gesetzes ist oder sind:
 
 
 
-37. Person eines meldepflichtigen Staates in Bezug auf jeden
+43. Person eines meldepflichtigen Staates in Bezug auf jeden
     meldepflichtigen Staat: eine natürliche Person oder ein Rechtsträger,
     die oder der nach dem Steuerrecht eines beliebigen anderen
     meldepflichtigen Staates in diesem ansässig ist, oder ein Nachlass
@@ -2107,7 +2471,7 @@ Im Sinne dieses Gesetzes ist oder sind:
     Ort seiner tatsächlichen Geschäftsleitung befindet;
 
 
-38. teilnehmender Staat: teilnehmender Staat umfasst:
+44. teilnehmender Staat: teilnehmender Staat umfasst:
 
     a)  einen anderen Mitgliedstaat der Europäischen Union,
 
@@ -2142,7 +2506,7 @@ Im Sinne dieses Gesetzes ist oder sind:
 
 
 
-39. beherrschende Personen: die natürlichen Personen, die einen
+45. beherrschende Personen: die natürlichen Personen, die einen
     Rechtsträger beherrschen. Im Fall eines Trusts bedeutet dieser
     Ausdruck den oder die Treugeber, den oder die Treuhänder,
     gegebenenfalls den Protektor oder die Protektoren, den oder die
@@ -2157,10 +2521,10 @@ Im Sinne dieses Gesetzes ist oder sind:
     ist;
 
 
-40. NFE: ein Rechtsträger, der kein Finanzinstitut ist;
+46. NFE: ein Rechtsträger, der kein Finanzinstitut ist;
 
 
-41. passiver NFE: ein passiver NFE ist
+47. passiver NFE: ein passiver NFE ist
 
     a)  ein NFE, der kein aktiver NFE ist, oder
 
@@ -2172,7 +2536,7 @@ Im Sinne dieses Gesetzes ist oder sind:
 
 
 
-42. aktiver NFE: ein NFE, der mindestens eins der folgenden Kriterien
+48. aktiver NFE: ein NFE, der mindestens eins der folgenden Kriterien
     erfüllt:
 
     a)  weniger als 50 Prozent der Bruttoeinkünfte des NFE im vorangegangenen
@@ -2277,7 +2641,7 @@ Im Sinne dieses Gesetzes ist oder sind:
 
 
 
-43. Informationsaustausch im Sinne dieses Gesetzes ist die systematische
+49. Informationsaustausch im Sinne dieses Gesetzes ist die systematische
     Übermittlung zuvor festgelegter Informationen über in anderen
     meldepflichtigen Staaten ansässige Personen an den entsprechenden
     Ansässigkeitsstaat ohne dessen vorheriges Ersuchen in regelmäßigen, im
@@ -2514,7 +2878,7 @@ Finanzinstituten geführt werden:
 
 (1) Ein Rechtsträger, wie eine Personengesellschaft, eine Limited
 Liability Partnership oder ein ähnliches Rechtsgebilde, bei dem keine
-steuerliche Ansässigkeit nach § 19 Nummer 37 vorliegt, gilt als in dem
+steuerliche Ansässigkeit nach § 19 Nummer 43 vorliegt, gilt als in dem
 Staat ansässig, in dem sich der Ort seiner tatsächlichen
 Geschäftsleitung befindet. Zu diesem Zweck gelten juristische Personen
 oder Rechtsgebilde als einer Personengesellschaft und einer Limited
@@ -2558,33 +2922,146 @@ vorhergehende Kalenderjahr durch; beginnend zum 30. September 2017 für
 (2) Die Finanzinstitute haben dem Bundeszentralamt für Steuern die
 Daten nach § 8 nach amtlich vorgeschriebenem Datensatz elektronisch im
 Wege der Datenfernübertragung jeweils zum 31. Juli eines Jahres für
-das vorhergehende Kalenderjahr zu übermitteln; beginnend zum 31. Juli
-2017 für 2016.
+das vorhergehende Kalenderjahr zu übermitteln, beginnend zum 31. Juli
+2017 für das Kalenderjahr 2016. Informationen nach § 8 Absatz 1 Nummer
+1 Buchstabe b und Nummer 6a über die Funktion oder die Funktionen,
+aufgrund derer jede meldepflichtige Person eine beherrschende Person
+oder ein Anteilseigner des Rechtsträgers ist, müssen abweichend von
+Satz 1 für jedes meldepflichtige Konto, das zum 31. Dezember 2025 von
+einem meldenden Finanzinstitut geführt wird, in Bezug auf
+Meldezeiträume, die spätestens am 31. Dezember 2027 enden, nur dann
+gemeldet werden, wenn diese Angaben in den elektronisch durchsuchbaren
+Daten des meldenden Finanzinstituts verfügbar sind.
+
+(3) § 3 Absatz 3 und § 28 Absatz 1 Nummer 1 bis 3, 5 Buchstabe b und
+Nummer 7 bis 13 in der am 6. Dezember 2024 geltenden Fassung gelten ab
+dem 1. Januar 2025 und nur für Pflichten in Bezug auf Meldezeiträume,
+die am oder nach dem 1. Januar 2025 beginnen. § 28 Absatz 1 Nummer 11
+in der am 1. Januar 2026 geltenden Fassung gilt nur für Pflichten in
+Bezug auf Meldezeiträume, die am oder nach dem 1. Januar 2026
+beginnen.
 
 
 ### § 28 Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder leichtfertig
 
-1.  entgegen § 3a Absatz 2 eine Selbstauskunft oder einen Beleg nicht
-    richtig oder nicht vollständig erteilt;
+1.  entgegen § 3 Absatz 3 Satz 1 eine Aufzeichnung nicht, nicht richtig,
+    nicht vollständig oder nicht rechtzeitig erstellt,
 
 
-2.  entgegen § 3a Absatz 3 eine Mitteilung nicht, nicht richtig, nicht
-    vollständig oder nicht rechtzeitig macht; oder
+2.  entgegen § 3 Absatz 3 Satz 3 eine Aufzeichnung nicht oder nicht
+    mindestens zehn Jahre aufbewahrt,
 
 
-3.  entgegen § 8 Absatz 1 Satz 1 eine Meldung nicht, nicht richtig, nicht
-    vollständig oder nicht rechtzeitig macht.
+3.  entgegen § 3 Absatz 3 Satz 4 eine Aufzeichnung nicht oder nicht
+    rechtzeitig löscht,
+
+
+4.  entgegen § 3a Absatz 2 eine Selbstauskunft oder einen Beleg nicht
+    richtig oder nicht vollständig erteilt,
+
+
+5.  entgegen
+
+    a)  § 3a Absatz 3 oder
+
+
+    b)  § 13 Absatz 2a Satz 4 oder § 16 Absatz 2a Satz 4
+
+
+
+    eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht
+    rechtzeitig macht,
+
+
+6.  entgegen § 8 Absatz 1 Satz 1 eine Meldung nicht, nicht richtig, nicht
+    vollständig oder nicht rechtzeitig macht,
+
+
+7.  entgegen § 8 Absatz 2 Satz 3, auch in Verbindung mit Satz 4, Kontakt
+    mit dem Kontoinhaber nicht oder nicht rechtzeitig aufnimmt oder eine
+    dort genannte Information nicht, nicht richtig, nicht vollständig oder
+    nicht rechtzeitig überprüft,
+
+
+8.  entgegen § 11 Absatz 4 Satz 2, § 12 Absatz 9 Satz 2, § 15 Absatz 1
+    Satz 2 oder Absatz 2 Satz 2 eine Überprüfung nicht, nicht richtig,
+    nicht vollständig oder nicht rechtzeitig nachholt,
+
+
+9.  entgegen § 13 Absatz 2 oder 4 oder § 21 Absatz 2 Satz 1 eine
+    Selbstauskunft nicht, nicht richtig, nicht vollständig oder nicht
+    rechtzeitig beschafft oder die Plausibilität dieser Selbstauskunft
+    nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig
+    bestätigt,
+
+
+10. entgegen § 13 Absatz 2a Satz 2 oder § 16 Absatz 2a Satz 2 nicht
+    sicherstellt, dass kein Geld von dem Konto abverfügt werden kann,
+
+
+11. entgegen § 13 Absatz 2a Satz 6 in Verbindung mit § 11 Absatz 1 Satz 1
+    Nummer 2 oder § 12 Absatz 1 Satz 1 Nummer 1 oder 2 Satz 2 eine
+    Überprüfung nicht, nicht richtig, nicht vollständig oder nicht
+    rechtzeitig vornimmt,
+
+
+12. entgegen § 13 Absatz 2a Satz 6 in Verbindung mit § 11 Absatz 1 Satz 3
+    den Kontoinhaber nicht in jedem meldepflichtigen Staat, für den ein
+    Indiz identifiziert wird, als steuerlich ansässige Person betrachtet,
+
+
+13. entgegen § 13 Absatz 2a Satz 6 in Verbindung mit § 11 Absatz 2 Satz 1
+    eine dort genannte Selbstauskunft oder einen dort genannten Beleg
+    nicht oder nicht rechtzeitig zu beschaffen versucht,
+
+
+14. entgegen § 13 Absatz 2a Satz 6 in Verbindung mit § 11 Absatz 2 Satz 2
+    oder § 12 Absatz 4 Satz 2 eine Meldung nicht oder nicht rechtzeitig
+    macht,
+
+
+15. entgegen § 13 Absatz 2a Satz 6 in Verbindung mit § 12 Absatz 3 oder 7
+    das Konto nicht als meldepflichtiges Konto betrachtet,
+
+
+16. entgegen § 13 Absatz 2a Satz 6 in Verbindung mit § 12 Absatz 4 Satz 1
+    eine dort genannte Selbstauskunft oder einen dort genannten Beleg
+    nicht oder nicht rechtzeitig beschafft,
+
+
+17. entgegen § 15 Absatz 2 Satz 1 eine Überprüfung nicht, nicht richtig,
+    nicht vollständig oder nicht rechtzeitig abschließt,
+
+
+18. entgegen § 16 Absatz 2 ein Überprüfungsverfahren nicht, nicht richtig,
+    nicht vollständig oder nicht rechtzeitig durchführt,
+
+
+19. entgegen § 16 Absatz 2a Satz 6 in Verbindung mit § 14 Absatz 5 ein
+    Überprüfungsverfahren nicht, nicht richtig, nicht vollständig oder
+    nicht rechtzeitig durchführt oder
+
+
+20. entgegen § 17 Absatz 1 sich auf eine Selbstauskunft oder einen Beleg
+    verlässt.
 
 
 
 
-(1a) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer 3
-mit einer Geldbuße bis zu fünfzigtausend Euro, in den übrigen Fällen
-mit einer Geldbuße bis zu zehntausend Euro geahndet werden.
+(1a) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer 5
+Buchstabe b und Nummer 6 bis 20 mit einer Geldbuße bis zu
+fünfzigtausend Euro, in den übrigen Fällen mit einer Geldbuße bis zu
+zehntausend Euro geahndet werden.
 
 (2) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des
 Gesetzes über Ordnungswidrigkeiten ist das Bundeszentralamt für
 Steuern.
+
+(3) Das Bundeszentralamt für Steuern informiert die Bundesanstalt für
+Finanzdienstleistungsaufsicht über gegen Finanzinstitute festgesetzte
+Geldbußen, wenn es gegen dasselbe Finanzinstitut zuvor schon einmal
+eine Geldbuße nach diesem Gesetz festgesetzt hatte. § 30 der
+Abgabenordnung steht der Information nicht entgegen.
 

@@ -17,7 +17,10 @@ Fundstelle
 :   BGBl I: 2017, 1354 (2019 I 400)
 
 Zuletzt geändert durch
-:   Art. 3 G v. 19.12.2022 I 2632; 2023 I Nr. 60
+:   Art. 14 G v. 22.12.2025 I Nr. 369
+
+Änderung durch
+:   Art. 1 G v. 10.2.2026 I Nr. 39 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Stand: Ersetzt 2190-2 G v. 7.7.1997 I 1650 (BKAG 1997)
 
@@ -176,7 +179,7 @@ Gesetzes.
         im Bereich der Grenzkontrollen, zur Änderung des Übereinkommens zur
         Durchführung des Übereinkommens von Schengen und zur Änderung und
         Aufhebung der Verordnung (EG) Nr. 1987/2006 (ABl. L 312 vom 7.12.2018,
-        S. 14) und
+        S. 14),
 
 
 
@@ -187,10 +190,14 @@ Gesetzes.
     a)  nach Artikel 7 Absatz 2 der Verordnung (EU) 2018/1862 sowie
 
 
-    b)  nach Artikel 7 Absatz 2 der Verordnung (EU) 2018/1861.
+    b)  nach Artikel 7 Absatz 2 der Verordnung(EU) 2018/1861 und
 
 
 
+
+
+4.  zentrale Kontaktstelle für den Informationsaustausch nach Artikel 14
+    Absatz 1 der Richtlinie (EU) 2023/977 (zentrale Kontaktstelle).
 
 
 
@@ -269,7 +276,7 @@ Gebiet der Strafverfolgung wahr
 
 
 2.  in Fällen von Straftaten, die sich gegen das Leben (§§ 211, 212 des
-    Strafgesetzbuchs) oder die Freiheit (§§ 234, 234a, 239, 239b des
+    Strafgesetzbuchs) oder die Freiheit (§§ 234 bis 234b, 239, 239b des
     Strafgesetzbuchs) des Bundespräsidenten, von Mitgliedern der
     Bundesregierung, des Deutschen Bundestages und des
     Bundesverfassungsgerichts oder der Gäste der Verfassungsorgane des
@@ -324,7 +331,7 @@ Gebiet der Strafverfolgung wahr
         Strafgesetzbuchs und nach § 13 des Völkerstrafgesetzbuchs sowie
 
 
-    b)  Straftaten nach den §§ 211, 212, 234, 234a, 239, 239a, 239b des
+    b)  Straftaten nach den §§ 211, 212, 234 bis 234b, 239, 239a, 239b des
         Strafgesetzbuchs, wenn anzunehmen ist, dass die Tat durch Angehörige
         des Geheimdienstes einer fremden Macht oder im Auftrag einer fremden
         Macht oder den Geheimdienst einer fremden Macht begangen worden ist.
@@ -621,10 +628,11 @@ Auskunft verlangt werden von demjenigen, der geschäftsmäßig
     174 Absatz 1 Satz 1 des Telekommunikationsgesetzes), oder
 
 
-2.  eigene oder fremde Telemedien zur Nutzung bereithält oder den Zugang
-    zur Nutzung vermittelt, über Bestandsdaten gemäß § 2 Absatz 2 Nummer 2
-    des Telekommunikation-Telemedien-Datenschutz-Gesetzes (§ 22 Absatz 1
-    Satz 1 des Telekommunikation-Telemedien-Datenschutz-Gesetzes).
+2.  eigene oder fremde digitale Dienste nach § 1 Absatz 4 Nummer 1 des
+    Digitale-Dienste-Gesetzes zur Nutzung bereithält oder den Zugang zur
+    Nutzung vermittelt, über Bestandsdaten gemäß § 2 Absatz 2 Nummer 2 des
+    Telekommunikation-Digitale-Dienste-Datenschutz-Gesetzes (§ 22 Absatz 1
+    Satz 1 des Telekommunikation-Digitale-Dienste-Datenschutz-Gesetzes).
 
 
 
@@ -718,17 +726,18 @@ der Daten vorliegen.
 einem bestimmten Zeitpunkt zugewiesenen Internetprotokoll-Adresse
 verlangt werden (§ 174 Absatz 1 Satz 3, § 177 Absatz 1 Nummer 3 des
 Telekommunikationsgesetzes und § 22 Absatz 1 Satz 3 und 4 des
-Telekommunikation-Telemedien-Datenschutz-Gesetzes) mit der Maßgabe,
-dass sich das Auskunftsverlangen in den Fällen des Absatzes 1 Satz 2
-Nummer 4 und 5 auf eine schwere Straftat nach § 100a Absatz 2 der
-Strafprozessordnung bezieht. Die Auskunft nach den Absätzen 1 und 2
-anhand einer zu einem bestimmten Zeitpunkt zugewiesenen
+Telekommunikation-Digitale-Dienste-Datenschutz-Gesetzes) mit der
+Maßgabe, dass sich das Auskunftsverlangen in den Fällen des Absatzes 1
+Satz 2 Nummer 4 und 5 auf eine schwere Straftat nach § 100a Absatz 2
+der Strafprozessordnung bezieht. Die Auskunft nach den Absätzen 1 und
+2 anhand einer zu einem bestimmten Zeitpunkt zugewiesenen
 Internetprotokoll-Adresse nach § 22 Absatz 1 Satz 3 und 4 des
-Telekommunikation-Telemedien-Datenschutz-Gesetzes darf darüber hinaus
-nur verlangt werden, wenn tatsächliche Anhaltspunkte dafür vorliegen,
-dass die betroffene Person Nutzer des Telemediendienstes ist, bei dem
-die Daten erhoben werden sollen. Die rechtlichen und tatsächlichen
-Grundlagen des Auskunftsverlangens sind aktenkundig zu machen.
+Telekommunikation-Digitale-Dienste-Datenschutz-Gesetzes darf darüber
+hinaus nur verlangt werden, wenn tatsächliche Anhaltspunkte dafür
+vorliegen, dass die betroffene Person Nutzer des digitalen Dienstes
+ist, bei dem die Daten erhoben werden sollen. Die rechtlichen und
+tatsächlichen Grundlagen des Auskunftsverlangens sind aktenkundig zu
+machen.
 
 (4) Auskunftsverlangen nach Absatz 2 dürfen nur auf Antrag der
 Präsidentin oder des Präsidenten des Bundeskriminalamtes oder ihrer
@@ -766,13 +775,13 @@ finden entsprechend Anwendung.
 
 (1) Das Bundeskriminalamt darf im Rahmen seiner Aufgaben als
 Zentralstelle nach § 2 Absatz 2 Nummer 1 und Absatz 6 von demjenigen,
-der geschäftsmäßig eigene oder fremde Telemedien zur Nutzung
-bereithält oder den Zugang zur Nutzung vermittelt, Auskunft über
-Nutzungsdaten nach § 2 Absatz 2 Nummer 3 Buchstabe a des
-Telekommunikation-Telemedien-Datenschutz-Gesetzes verlangen, sofern im
-Einzelfall
+der geschäftsmäßig eigene oder fremde digitale Dienste nach § 1 Absatz
+4 Nummer 1 des Digitale-Dienste-Gesetzes zur Nutzung bereithält oder
+den Zugang zur Nutzung vermittelt, Auskunft über Nutzungsdaten nach §
+2 Absatz 2 Nummer 3 Buchstabe a des Telekommunikation-Digitale-
+Dienste-Datenschutz-Gesetzes verlangen, sofern im Einzelfall
 
-1.  dem Bundeskriminalamt der Inhalt der Nutzung des Telemediendienstes
+1.  dem Bundeskriminalamt der Inhalt der Nutzung des digitalen Dienstes
     bereits bekannt ist,
 
 
@@ -781,14 +790,15 @@ Einzelfall
 
 
 3.  die hierauf bezogenen Daten im Sinne des § 2 Absatz 2 Nummer 3
-    Buchstabe a des Telekommunikation-Telemedien-Datenschutz-Gesetzes zur
-    Identifizierung des Nutzers erforderlich sind und
+    Buchstabe a des Telekommunikation-Digitale-Dienste-Datenschutz-
+    Gesetzes zur Identifizierung des Nutzers erforderlich sind und
 
 
 4.  die Daten erforderlich sind, die zuständige Strafverfolgungsbehörde
     oder zuständige Polizeibehörde zu ermitteln, um zur Ermöglichung der
     Strafverfolgung oder zur Ermöglichung der Gefahrenabwehr die Identität
-    des Nutzers und den Inhalt der Nutzung des Telemediendienstes an diese
+    des Nutzers und den Inhalt der Nutzung der digitalen Dienste nach § 1
+    Absatz 4 Nummer 1 des Digitale-Dienste-Gesetzes an diese
     weiterzuleiten.
 
 
@@ -906,6 +916,10 @@ Bildaufzeichnungen über eine Person im Wege eines verdeckten Einsatzes
 technischer Mittel in oder aus Wohnungen erlangt wurden, dürfen nicht
 zu Strafverfolgungszwecken weiterverarbeitet werden.
 
+(3a) Eine zweckändernde Weiterverarbeitung personenbezogener Daten ist
+ausgeschlossen, wenn deren Offenbarung oder Verwertung nach § 30 der
+Abgabenordnung unzulässig ist.
+
 (4) Abweichend von Absatz 2 kann das Bundeskriminalamt die vorhandenen
 Grunddaten (§ 18 Absatz 2 Nummer 1 Buchstabe a) einer Person auch
 weiterverarbeiten, um diese Person zu identifizieren.
@@ -945,8 +959,8 @@ erfüllt das Informationssystem insbesondere folgende Grundfunktionen:
 
 
 (3) Mit seinem Informationssystem nimmt das Bundeskriminalamt nach
-Maßgabe der §§ 29 und 30 am polizeilichen Informationsverbund nach §
-29 teil.
+Maßgabe der §§ 29, 30 und 30a am polizeilichen Informationsverbund
+nach § 29 teil.
 
 
 #### § 14 Kennzeichnung
@@ -1718,6 +1732,128 @@ aufgrund eines Assoziierungsübereinkommens mit der Europäischen Union
 Besitzstandes anwenden.
 
 
+#### § 26a Datenübermittlung an Mitgliedstaaten der Europäischen Union und Schengen-assoziierte Staaten im Anwendungsbereich der Richtlinie (EU) 2023/977
+
+(1) Für die Übermittlung von Daten an Polizeibehörden oder sonstige
+für die Verhütung oder Verfolgung von Straftaten zuständige
+öffentliche Stellen und zentrale Kontaktstellen der Mitgliedstaaten
+der Europäischen Union und der in § 26 Absatz 2 genannten Staaten
+gelten im Anwendungsbereich der Richtlinie (EU) 2023/977 ergänzend zu
+den §§ 25 und 26 die Absätze 2 bis 8. Wird das Bundeskriminalamt als
+zentrale Kontaktstelle oder im Rahmen der Wahrnehmung der Aufgaben
+nach den §§ 5 bis 8 tätig, übermittelt es Daten ausschließlich nach
+den Vorschriften dieses Unterabschnitts. Die Absätze 4 bis 7 gelten
+ausschließlich für die Wahrnehmung der Aufgabe als zentrale
+Kontaktstelle. Im Rahmen der Wahrnehmung der Aufgabe nach § 4 gelten
+gemäß § 26 Absatz 1 Satz 3 die §§ 92 bis 92h des Gesetzes über die
+internationale Rechtshilfe in Strafsachen.
+
+(2) Eine für die Übermittlung von Daten nach deutschem Recht
+erforderliche Erlaubnis durch eine Justizbehörde ist unverzüglich
+einzuholen.
+
+(3) Bei der Übermittlung von Daten ist mitzuteilen, dass die
+Verwendung als Beweismittel in einem Gerichtsverfahren unzulässig ist,
+es sei denn,
+
+1.  die nach § 92 Absatz 4 des Gesetzes über die internationale
+    Rechtshilfe in Strafsachen zuständige Stelle hat ihre Zustimmung zur
+    Verwendung als Beweismittel erteilt oder
+
+
+2.  die Verwendung als Beweismittel ist durch eine anwendbare
+    völkerrechtliche Vereinbarung oder einen unmittelbar anwendbaren
+    Rechtsakt der Europäischen Union zugelassen.
+
+
+
+Die Zuständigkeit für die Zustimmung zu einer Verwendung als
+Beweismittel nach Satz 1 Nummer 1 richtet sich nach den Vorschriften
+des Gesetzes über die internationale Rechtshilfe in Strafsachen.
+
+(4) Die Übermittlung von Daten an eine zentrale Kontaktstelle eines
+anderen Staats ist in einer Sprache vorzunehmen, die der Staat, an
+dessen zentrale Kontaktstelle Daten übermittelt werden, zugelassenen
+hat.
+
+(5) Ein an eine zentrale Kontaktstelle eines anderen Staats
+gerichtetes Ersuchen muss mindestens die folgenden Angaben enthalten:
+
+1.  die Angabe, ob das Ersuchen dringend ist und, wenn dies der Fall ist,
+    die Angabe der Gründe für die Dringlichkeit,
+
+
+2.  eine Präzisierung der angeforderten Informationen, die so detailliert
+    ist, wie dies unter den gegebenen Umständen in angemessener Weise
+    möglich ist,
+
+
+3.  die Beschreibung des Zwecks, zu dem die Informationen angefordert
+    werden, einschließlich einer Beschreibung des Sachverhalts und der
+    zugrundeliegenden Straftat, und
+
+
+4.  etwaige Beschränkungen einer Verwendung der in dem Ersuchen
+    enthaltenen Informationen zu anderen Zwecken als denen, für die sie
+    übermittelt wurden.
+
+
+
+
+(6) Übermittelt das Bundeskriminalamt ein Ersuchen einer inländischen
+Polizeibehörde, ist diese für die Prüfung der Erforderlichkeit des
+Ersuchens und der Voraussetzungen nach den Absätzen 4 und 5
+verantwortlich.
+
+(7) Bei der Übermittlung von Daten an Polizeibehörden oder sonstige
+für die Verhütung oder Verfolgung von Straftaten zuständige
+öffentliche Stellen, die nicht zugleich zentrale Kontaktstellen sind,
+ist der zentralen Kontaktstelle des jeweiligen Staats gleichzeitig
+eine Kopie der Daten zu übermitteln. Hiervon kann abgewichen werden,
+wenn die Übermittlung von Daten Terrorismusfälle betrifft, bei denen
+es sich nicht um Not- oder Krisenmanagementsituationen handelt.
+
+(8) Daten, die beim Bundeskriminalamt als zentraler Kontaktstelle
+aufgrund eines Ersuchens eines anderen Staats angefordert werden, sind
+unter den Voraussetzungen von § 26 und vorbehaltlich des § 28
+innerhalb folgender Fristen zur Verfügung zu stellen:
+
+1.  acht Stunden im Falle von dringenden Ersuchen bei dem
+    Bundeskriminalamt unmittelbar zugänglichen Informationen,
+
+
+2.  drei Kalendertage im Falle von dringenden Ersuchen bei dem
+    Bundeskriminalamt mittelbar zugänglichen Informationen sowie
+
+
+3.  sieben Kalendertage im Falle aller anderen Ersuchen.
+
+
+
+Die Pflicht nach Satz 1 besteht nur bei Ersuchen von zentralen
+Kontaktstellen sowie Polizeibehörden oder sonstigen für die Verhütung
+oder Verfolgung von Straftaten zuständigen öffentlichen Stellen, die
+von den Mitgliedstaaten der Europäischen Union oder den in § 26 Absatz
+2 genannten Staaten nach Artikel 4 Absatz 1 Unterabsatz 2 Satz 1 der
+Richtlinie (EU) 2023/977 notifiziert wurden. Die in Satz 1 genannten
+Fristen beginnen mit Eingang des Ersuchens beim Bundeskriminalamt.
+Satz 1 gilt nicht, soweit eine Abweichung von den Fristen für eine
+Einholung einer Erlaubnis nach Absatz 2 erforderlich ist. Die Stelle,
+die das Ersuchen gestellt hat, ist in diesem Fall unter Angabe von
+Gründen über die Dauer der erwarteten Verzögerung zu unterrichten.
+Nach Einholung der Erlaubnis nach Absatz 2 sind die Daten unverzüglich
+zu übermitteln.
+
+(9) Daten, die das Bundeskriminalamt selbst erhoben hat, sind unter
+den Voraussetzungen von § 26 aus eigener Initiative zu übermitteln
+oder bereitzustellen, wenn tatsächliche Anhaltspunkte dafür vorliegen,
+dass diese Daten für einen anderen Mitgliedstaat der Europäischen
+Union oder einen in § 26 Absatz 2 genannten Staat zum Zwecke der
+Verhütung von Straftaten nach Artikel 2 Absatz 3 der Richtlinie (EU)
+2023/977 relevant sein können und diese Daten diesem Staat nicht
+bereits anderweitig übermittelt oder bereitgestellt wurden.
+
+
 #### § 27 Datenübermittlung im internationalen Bereich
 
 (1) Das Bundeskriminalamt kann unter Beachtung des § 12 Absatz 2 bis 4
@@ -1871,8 +2007,8 @@ unterbleibt, wenn
 Satz 1 Nummer 1 gilt nicht für Übermittlungen an die
 Staatsanwaltschaften.
 
-(2) Die Datenübermittlung nach den §§ 26 und 27 unterbleibt darüber
-hinaus,
+(2) Die Datenübermittlung nach den §§ 26, 26a und 27 unterbleibt
+darüber hinaus,
 
 1.  wenn hierdurch wesentliche Sicherheitsinteressen des Bundes oder der
     Länder beeinträchtigt würden,
@@ -1895,6 +2031,52 @@ hinaus,
 
 
 
+(2a) Die Datenübermittlung nach § 26 in Verbindung mit § 26a
+unterbleibt über die Absätze 1 und 2 hinaus, soweit
+
+1.  eine nach deutschem Recht erforderliche Erlaubnis durch eine
+    Justizbehörde verweigert wurde,
+
+
+2.  es sich bei den angeforderten personenbezogenen Daten um andere als
+    die in Anhang II Abschnitt B zu der Verordnung (EU) 2016/794 genannten
+    Kategorien handelt oder
+
+
+3.  die Daten von einem Mitgliedstaat der Europäischen Union oder einem
+    Drittstaat erlangt wurden und dieser der Übermittlung nicht zugestimmt
+    hat oder die Übermittlung in Widerspruch zu den von dem Staat
+    festgelegten Voraussetzungen für die Verwendung der Daten stünde.
+
+
+
+Im Übrigen darf die auf einem Ersuchen nach der Richtlinie (EU)
+2023/977 beruhende Übermittlung von Daten nur abgelehnt werden, soweit
+
+1.  die angeforderten Daten dem Bundeskriminalamt und den zuständigen
+    Polizeibehörden oder sonstigen für die Verhütung oder Verfolgung von
+    Straftaten zuständigen öffentlichen Stellen nicht zur Verfügung
+    stehen,
+
+
+2.  das Ersuchen nicht den Anforderungen des § 26a Absatz 5 entspricht,
+
+
+3.  das Ersuchen eine Straftat betrifft, die nach deutschem Recht mit
+    einer Freiheitsstrafe von höchstens einem Jahr geahndet werden kann,
+    oder
+
+
+4.  das Ersuchen eine Tat betrifft, die nach deutschem Recht keine
+    Straftat darstellt.
+
+
+
+Vor Ablehnung der Datenübermittlung soll der ersuchenden Stelle die
+Möglichkeit gegeben werden, Klarstellungen oder Präzisierungen
+beizubringen. Im Falle der Ablehnung ist dies der ersuchenden Stelle
+einschließlich der Ablehnungsgründe mitzuteilen. § 26a Absatz 8 gilt
+entsprechend.
 
 (3) Das Bundeskriminalamt führt für den polizeilichen
 Informationsaustausch und Rechtshilfeverkehr eine fortlaufend
@@ -1945,8 +2127,27 @@ Teilnahme am polizeilichen Informationsverbund berechtigt:
 3.  die Polizei beim Deutschen Bundestag,
 
 
-4.  mit der Wahrnehmung grenzpolizeilicher Aufgaben betraute Behörden der
-    Zollverwaltung,
+4.  die Behörden der Zollverwaltung, soweit
+
+    a)  sie betraut sind mit der Wahrnehmung grenzpolizeilicher Aufgaben,
+
+
+    b)  sie betraut sind mit der Verhütung, Aufdeckung und Verfolgung von
+        Steuerstraftaten,
+
+
+    c)  sie betraut sind mit der Bekämpfung der Schwarzarbeit und der
+        illegalen Beschäftigung oder
+
+
+    d)  dies bei der Erfüllung ihrer Aufgaben nach dem Zollverwaltungsgesetz
+        oder dem Zollfahndungsdienstgesetz zur Sicherung ihrer selbst, anderer
+        Zollbediensteter sowie von für die Durchführung der Aufgaben der
+        Bundesfinanzbehörden notwendigen Einrichtungen und Einsatzmittel
+        erforderlich ist,
+
+
+
 
 
 5.  die Zollfahndungsämter,
@@ -1968,9 +2169,7 @@ Aufgabenerfüllung erforderlich ist, abzurufen.
 (4) Durch organisatorische und technische Maßnahmen hat das
 Bundeskriminalamt sicherzustellen, dass Eingaben von und Zugriffe auf
 Daten im polizeilichen Informationsverbund nur möglich sind, soweit
-die jeweiligen Behörden hierzu berechtigt sind. § 12 Absatz 2 bis 5,
-die §§ 14, 15 und 16 Absatz 1, 2, 5 und 6, § 18 Absatz 1, 2, 4 und 5,
-§ 19 Absatz 1 und 2 sowie die §§ 20 und 91 gelten entsprechend.
+die jeweiligen Behörden hierzu berechtigt sind.
 
 (5) Nur die Behörde, die Daten zu einer Person eingegeben hat, ist
 befugt, diese zu ändern, zu berichtigen oder zu löschen. Hat eine
@@ -2064,6 +2263,24 @@ erfolgen im Benehmen mit der oder dem Bundesbeauftragten für den
 Datenschutz und die Informationsfreiheit.
 
 
+### § 30a Besondere Regelungen für die Weiterverarbeitung personenbezogener Daten im polizeilichen Informationsverbund
+
+(1) Für die Weiterverarbeitung von Daten im polizeilichen
+Informationsverbund gelten § 12 Absatz 2 bis 5, die §§ 14, 15 und 16
+Absatz 1, 2, 5 und 6, § 18 Absatz 1, 2, 4 und 5, § 19 Absatz 1 und 2
+sowie die §§ 20 und 91 entsprechend, soweit in Absatz 2 nichts anderes
+geregelt ist.
+
+(2) Die vorsorgende Speicherung personenbezogener Daten von
+Beschuldigten und Tatverdächtigen ist nur zulässig, wenn tatsächliche
+Anhaltspunkte dafür vorliegen, dass wegen der Art oder Ausführung der
+Tat, der Persönlichkeit der betroffenen Person oder sonstiger
+Erkenntnisse eine hinreichende Wahrscheinlichkeit dafür besteht, dass
+die betroffene Person künftig Straftaten begehen wird und gerade die
+Weiterverarbeitung der gespeicherten Daten zu deren Verhütung und
+Verfolgung beitragen kann.
+
+
 ### § 31 Datenschutzrechtliche Verantwortung im polizeilichen Informationsverbund
 
 (1) Das Bundeskriminalamt hat als Zentralstelle für den polizeilichen
@@ -2134,13 +2351,26 @@ unverzüglich und, soweit technisch möglich, automatisiert mit:
 
 (3) Absatz 1 Satz 1 gilt entsprechend für die Polizeien des Bundes,
 soweit die Informationen Vorgänge betreffen, die sie in eigener
-Zuständigkeit bearbeiten. Satz 1 gilt im Bereich der Zollverwaltung
-nur für den Grenzzolldienst, soweit dieser aufgrund einer
-Rechtsverordnung nach § 68 des Bundespolizeigesetzes grenzpolizeiliche
-Aufgaben wahrnimmt. Im Übrigen richtet sich die
-Informationsübermittlung der Zollbehörden an das Bundeskriminalamt
-nach den Vorschriften der Abgabenordnung, des Zollverwaltungsgesetzes
-und des Zollfahndungsdienstgesetzes.
+Zuständigkeit bearbeiten. Satz 1 gilt im Bereich der Zollverwaltung,
+soweit
+
+1.  aufgrund einer Rechtsverordnung nach § 68 des Bundespolizeigesetzes
+    grenzpolizeiliche Aufgaben wahrgenommen werden,
+
+
+2.  die Finanzkontrolle Schwarzarbeit Ermittlungsbefugnisse nach § 14 des
+    Schwarzarbeitsbekämpfungsgesetzes wahrnimmt,
+
+
+3.  Ermittlungsbefugnisse zur Verfolgung von Steuerstraftaten nach § 369
+    der Abgabenordnung wahrgenommen werden.
+
+
+
+Im Übrigen richtet sich die Informationsübermittlung der Zollbehörden
+an das Bundeskriminalamt nach den Vorschriften der Abgabenordnung, des
+Zollverwaltungsgesetzes und des Zollfahndungsdienstgesetzes sowie des
+Schwarzarbeitsbekämpfungsgesetzes.
 
 (4) Für die im Rahmen seiner Aufgaben nach den §§ 3 bis 8 gewonnenen
 Informationen gelten für das Bundeskriminalamt die
@@ -2296,7 +2526,7 @@ und an das zentrale SIS anzuschließen
 
 
 Das Bundeskriminalamt stellt den nach § 33b Absatz 1 Satz 1 Nummer 1
-bis 18 berechtigten staatlichen Stellen das N.SIS für den Zugriff
+bis 17 berechtigten staatlichen Stellen das N.SIS für den Zugriff
 dieser Stellen auf das SIS auf Grundlage der in Satz 1 genannten
 Verordnungen zur Verfügung, damit diese Stellen Daten aus dem SIS
 abrufen sowie Ausschreibungen in das SIS eingeben und diese
@@ -2410,17 +2640,12 @@ Absatz 3 Satz 1 Nummer 1 bis 7 genannten Behörden:
     der Verordnung (EU) 2018/1861,
 
 
-17. die Hauptzollämter für die Zwecke des Artikels 34 Absatz 1 Buchstabe b
-    und c der Verordnung (EU) 2018/1861 sowie des Artikels 44 Absatz 1
-    Buchstabe b und c der Verordnung (EU) 2018/1862 und
-
-
-18. die Staatsanwaltschaften für die Zwecke des Artikels 44 Absatz 3 der
+17. die Staatsanwaltschaften für die Zwecke des Artikels 44 Absatz 3 der
     Verordnung (EU) 2018/1862.
 
 
 
-Die in Satz 1 Nummer 1 bis 18 genannten berechtigten staatlichen
+Die in Satz 1 Nummer 1 bis 17 genannten berechtigten staatlichen
 Stellen haben einen direkten Zugriff auf das N.SIS.
 
 (2) Ausschreibungen des Bundesamtes für Verfassungsschutz, des
@@ -2699,11 +2924,12 @@ und die zu erhebenden Daten zur Verhütung dieser Straftat erforderlich
 sind.
 
 (2) Unter den Voraussetzungen des Absatzes 1 darf von demjenigen, der
-geschäftsmäßig eigene oder fremde Telemedien zur Nutzung bereithält
-oder den Zugang zur Nutzung vermittelt, Auskunft über Bestandsdaten
-gemäß § 2 Absatz 2 Nummer 2 des Telekommunikation-Telemedien-
-Datenschutz-Gesetzes (§ 22 Absatz 1 Satz 1 und § 23 Absatz 1 Satz 1
-des Telekommunikation-Telemedien-Datenschutz-Gesetzes).
+geschäftsmäßig eigene oder fremde digitale Dienste nach § 1 Absatz 4
+Nummer 1 des Digitale-Dienste-Gesetzes zur Nutzung bereithält oder den
+Zugang zur Nutzung vermittelt, Auskunft über Bestandsdaten gemäß § 2
+Absatz 2 Nummer 2 des Telekommunikation-Digitale-Dienste-Datenschutz-
+Gesetzes (§ 22 Absatz 1 Satz 1 und § 23 Absatz 1 Satz 1 des
+Telekommunikation-Digitale-Dienste-Datenschutz-Gesetzes).
 
 (3) Bezieht sich das Auskunftsverlangen nach Absatz 1 auf Daten,
 mittels derer der Zugriff auf Endgeräte oder auf
@@ -2715,9 +2941,9 @@ vorliegen. Bezieht sich das Auskunftsverlangen nach Absatz 2 auf nach
 als Bestandsdaten erhobene Passwörter oder auf andere Daten, mittels
 derer der Zugriff auf Endgeräte oder auf Speichereinrichtungen, die in
 diesen Endgeräten oder hiervon räumlich getrennt eingesetzt werden,
-geschützt wird (§ 23 Absatz 1 Satz 1 des Telekommunikation-Telemedien-
-Datenschutz-Gesetzes), darf die Auskunft nur verlangt werden zur
-Abwehr einer konkreten Gefahr für Leib, Leben, Freiheit oder die
+geschützt wird (§ 23 Absatz 1 Satz 1 des Telekommunikation-Digitale-
+Dienste-Datenschutz-Gesetzes), darf die Auskunft nur verlangt werden
+zur Abwehr einer konkreten Gefahr für Leib, Leben, Freiheit oder die
 sexuelle Selbstbestimmung einer Person oder für den Bestand des Bundes
 oder eines Landes sowie Güter der Allgemeinheit, deren Bedrohung die
 Grundlagen der Existenz der Menschen berührt, und wenn die
@@ -2726,13 +2952,13 @@ gesetzlichen Voraussetzungen für die Nutzung der Daten vorliegen.
 (4) Die Auskunft nach den Absätzen 1 bis 3 darf auch anhand einer zu
 einem bestimmten Zeitpunkt zugewiesenen Internetprotokoll-Adresse
 verlangt werden (§ 174 Absatz 1 Satz 3 des Telekommunikationsgesetzes
-und § 22 Absatz 1 Satz 3 und 4 des Telekommunikation-Telemedien-
+und § 22 Absatz 1 Satz 3 und 4 des Telekommunikation-Digitale-Dienste-
 Datenschutz-Gesetzes). Die Auskunft nach den Absätzen 1 bis 3 anhand
 einer zu einem bestimmten Zeitpunkt zugewiesenen Internetprotokoll-
 Adresse nach § 22 Absatz 1 Satz 3 und 4 des Telekommunikation-
-Telemedien-Datenschutz-Gesetzes darf nur verlangt werden, wenn
+Digitale-Dienste-Datenschutz-Gesetzes darf nur verlangt werden, wenn
 tatsächliche Anhaltspunkte dafür vorliegen, dass die betroffene Person
-Nutzer des Telemediendienstes ist, bei dem die Daten erhoben werden
+Nutzer des digitalen Dienstes ist, bei dem die Daten erhoben werden
 sollen. Die rechtlichen und tatsächlichen Grundlagen des
 Auskunftsverlangens sind aktenkundig zu machen.
 
@@ -2912,7 +3138,22 @@ besonderen Mitteln nach Absatz 2 erheben über
     Zeitraums eine Straftat nach § 5 Absatz 1 Satz 2 begehen wird, oder
 
 
-4.  eine Person nach § 39 Absatz 2 Nummer 2,
+4.  eine Person, die in nicht nur flüchtigem oder zufälligem Kontakt mit
+    einer Person steht, gegen die der Einsatz besonderer Mittel nach
+    Nummer 1, 2 oder 3 zulässig wäre und
+
+    a)  die von der Vorbereitung der Straftat nach § 5 Absatz 1 Satz 2
+        Kenntnis hat,
+
+
+    b)  die aus der Verwertung der Tat Vorteile ziehen könnte oder
+
+
+    c)  derer sich die Person nach Nummer 1, 2 oder 3 zur Begehung der
+        Straftat bedienen könnte,
+
+
+
 
 
 
@@ -3827,7 +4068,7 @@ unverzüglich nachzuholen.
 ### § 52 Erhebung von Telekommunikationsverkehrsdaten und Nutzungsdaten
 
 (1) Das Bundeskriminalamt kann ohne Wissen der betroffenen Person
-Verkehrsdaten (§§ 9 und 12 des Telekommunikation-Telemedien-
+Verkehrsdaten (§§ 9 und 12 des Telekommunikation-Digitale-Dienste-
 Datenschutz-Gesetzes) erheben zu
 
 1.  den entsprechend § 17 oder § 18 des Bundespolizeigesetzes
@@ -3864,12 +4105,14 @@ Weise aussichtslos oder wesentlich erschwert wäre.
 
 (2) Unter den Voraussetzungen des Absatzes 1 kann das
 Bundeskriminalamt von denjenigen, die geschäftsmäßig eigene oder
-fremde Telemedien zur Nutzung bereithalten oder den Zugang zur Nutzung
+fremde digitale Dienste nach § 1 Absatz 4 Nummer 1 des Digitale-
+Dienste-Gesetzes zur Nutzung bereithalten oder den Zugang zur Nutzung
 vermitteln, Auskunft über Nutzungsdaten (§ 2 Absatz 2 Nummer 3 des
-Telekommunikation-Telemedien-Datenschutz-Gesetzes) verlangen. Die
-Auskunft kann auch über zukünftige Nutzungsdaten angeordnet werden.
-Der Diensteanbieter hat die Daten dem Bundeskriminalamt unverzüglich
-auf dem vom Bundeskriminalamt bestimmten Weg zu übermitteln.
+Telekommunikation-Digitale-Dienste-Datenschutz-Gesetzes) verlangen.
+Die Auskunft kann auch über zukünftige Nutzungsdaten angeordnet
+werden. Der Diensteanbieter hat die Daten dem Bundeskriminalamt
+unverzüglich auf dem vom Bundeskriminalamt bestimmten Weg zu
+übermitteln.
 
 (3) § 51 Absatz 3 bis 6 gilt entsprechend mit der Maßgabe, dass an die
 Stelle der Präsidentin oder des Präsidenten des Bundeskriminalamtes
@@ -4537,11 +4780,13 @@ soweit die zu erhebenden Daten im Einzelfall erforderlich sind
 
 
 (2) Unter den Voraussetzungen des Absatzes 1 darf von demjenigen, der
-geschäftsmäßig eigene oder fremde Telemedien zur Nutzung bereithält
-oder den Zugang zur Nutzung vermittelt, Auskunft über Bestandsdaten
-gemäß § 2 Absatz 2 Nummer 2 des Telekommunikation-Telemedien-
-Datenschutz-Gesetzes (§ 22 Absatz 1 Satz 1 und § 23 Absatz 1 Satz 1
-des Telekommunikation-Telemedien-Datenschutz-Gesetzes).
+geschäftsmäßig eigene oder fremde
+digitale Dienste nach § 1 Absatz 4 Nummer 1 des Digitale-Dienste-
+Gesetzes              zur Nutzung bereithält oder den Zugang zur
+Nutzung vermittelt, Auskunft über Bestandsdaten gemäß § 2 Absatz 2
+Nummer 2 des Telekommunikation-Digitale-Dienste-Datenschutz-Gesetzes
+(§ 22 Absatz 1 Satz 1 und § 23 Absatz 1 Satz 1 des Telekommunikation-
+Digitale-Dienste-Datenschutz-Gesetzes).
 
 (3) Bezieht sich das Auskunftsverlangen nach Absatz 1 auf Daten,
 mittels derer der Zugriff auf Endgeräte oder auf
@@ -4553,9 +4798,9 @@ vorliegen. Bezieht sich das Auskunftsverlangen nach Absatz 2 auf nach
 als Bestandsdaten erhobene Passwörter oder auf andere Daten, mittels
 derer der Zugriff auf Endgeräte oder auf Speichereinrichtungen, die in
 diesen Endgeräten oder hiervon räumlich getrennt eingesetzt werden,
-geschützt wird (§ 23 Absatz 1 Satz 1 des Telekommunikation-Telemedien-
-Datenschutz-Gesetzes), darf die Auskunft nur verlangt werden zur
-Abwehr einer konkreten Gefahr für Leib, Leben, Freiheit oder die
+geschützt wird (§ 23 Absatz 1 Satz 1 des Telekommunikation-Digitale-
+Dienste-Datenschutz-Gesetzes), darf die Auskunft nur verlangt werden
+zur Abwehr einer konkreten Gefahr für Leib, Leben, Freiheit oder die
 sexuelle Selbstbestimmung der zu schützenden Person oder für den
 Bestand des Bundes oder eines Landes oder die freiheitlich
 demokratische Grundordnung und wenn die gesetzlichen Voraussetzungen
@@ -4587,7 +4832,7 @@ Datenschutzaufsichtsbehörde.
 (4) Die Auskunft nach den Absätzen 1 und 2 darf auch anhand einer zu
 einem bestimmten Zeitpunkt zugewiesenen Internetprotokoll-Adresse
 verlangt werden (§ 174 Absatz 1 Satz 3 des Telekommunikationsgesetzes
-und § 22 Absatz 1 Satz 3 und 4 des Telekommunikation-Telemedien-
+und § 22 Absatz 1 Satz 3 und 4 des Telekommunikation-Digitale-Dienste-
 Datenschutz-Gesetzes) in den Fällen von
 
 1.  Absatz 1 Nummer 1 bei Gefahr der Begehung einer Straftat oder
@@ -4601,11 +4846,12 @@ Datenschutz-Gesetzes) in den Fällen von
 Absatz 3 Satz 2 bleibt unberührt. Die Auskunft nach den Absätzen 1 und
 2 anhand einer zu einem bestimmten Zeitpunkt zugewiesenen
 Internetprotokoll-Adresse nach § 22 Absatz 1 Satz 3 und 4 des
-Telekommunikation-Telemedien-Datenschutz-Gesetzes darf darüber hinaus
-nur verlangt werden, wenn tatsächliche Anhaltspunkte dafür vorliegen,
-dass die betroffene Person Nutzer des Telemediendienstes ist, bei dem
-die Daten erhoben werden sollen. Die rechtlichen und tatsächlichen
-Grundlagen des Auskunftsverlangens sind aktenkundig zu machen.
+Telekommunikation-Digitale-Dienste-Datenschutz-Gesetzes darf darüber
+hinaus nur verlangt werden, wenn tatsächliche Anhaltspunkte dafür
+vorliegen, dass die betroffene Person Nutzer des digitalen Dienstes
+ist, bei dem die Daten erhoben werden sollen. Die rechtlichen und
+tatsächlichen Grundlagen des Auskunftsverlangens sind aktenkundig zu
+machen.
 
 (5) § 10 Absatz 5 bis 7 gilt entsprechend.
 
@@ -4781,11 +5027,12 @@ soweit die zu erhebenden Daten im Einzelfall erforderlich sind
 
 
 (2) Unter den Voraussetzungen des Absatzes 1 darf von demjenigen, der
-geschäftsmäßig eigene oder fremde Telemedien zur Nutzung bereithält
-oder den Zugang zur Nutzung vermittelt, Auskunft über Bestandsdaten
-gemäß § 2 Absatz 2 Nummer 2 des Telekommunikation-Telemedien-
-Datenschutz-Gesetzes (§ 22 Absatz 1 Satz 1 und § 23 Absatz 1 Satz 1
-des Telekommunikation-Telemedien-Datenschutz-Gesetzes).
+geschäftsmäßig eigene oder fremde digitale Dienste nach § 1 Absatz 4
+Nummer 1 des Digitale-Dienste-Gesetzes zur Nutzung bereithält oder den
+Zugang zur Nutzung vermittelt, Auskunft über Bestandsdaten gemäß § 2
+Absatz 2 Nummer 2 des Telekommunikation-Digitale-Dienste-Datenschutz-
+Gesetzes (§ 22 Absatz 1 Satz 1 und § 23 Absatz 1 Satz 1 des
+Telekommunikation-Digitale-Dienste-Datenschutz-Gesetzes).
 
 (3) Bezieht sich das Auskunftsverlangen nach Absatz 1 auf Daten,
 mittels derer der Zugriff auf Endgeräte oder auf
@@ -4797,9 +5044,9 @@ vorliegen. Bezieht sich das Auskunftsverlangen nach Absatz 2 auf nach
 als Bestandsdaten erhobene Passwörter oder andere Daten, mittels derer
 der Zugriff auf Endgeräte oder auf Speichereinrichtungen, die in
 diesen Endgeräten oder hiervon räumlich getrennt eingesetzt werden,
-geschützt wird (§ 23 Absatz 1 Satz 1 des Telekommunikation-Telemedien-
-Datenschutz-Gesetzes), darf die Auskunft nur verlangt werden zur
-Abwehr einer konkreten Gefahr für Leib, Leben, Freiheit oder die
+geschützt wird (§ 23 Absatz 1 Satz 1 des Telekommunikation-Digitale-
+Dienste-Datenschutz-Gesetzes), darf die Auskunft nur verlangt werden
+zur Abwehr einer konkreten Gefahr für Leib, Leben, Freiheit oder die
 sexuelle Selbstbestimmung einer der in § 7 genannten Personen und wenn
 die gesetzlichen Voraussetzungen für die Nutzung der Daten vorliegen.
 Auskunftsverlangen nach den Sätzen 1 und 2 dürfen nur auf Antrag der
@@ -4829,7 +5076,7 @@ Datenschutzaufsichtsbehörde.
 (4) Die Auskunft nach den Absätzen 1 und 2 darf auch anhand einer zu
 einem bestimmten Zeitpunkt zugewiesenen Internetprotokoll-Adresse
 verlangt werden (§ 174 Absatz 1 Satz 3 des Telekommunikationsgesetzes
-und § 22 Absatz 1 Satz 3 und 4 des Telekommunikation-Telemedien-
+und § 22 Absatz 1 Satz 3 und 4 des Telekommunikation-Digitale-Dienste-
 Datenschutz-Gesetzes) in den Fällen von
 
 1.  Absatz 1 Nummer 1 bei Gefahr der Begehung einer Straftat oder
@@ -4843,11 +5090,12 @@ Datenschutz-Gesetzes) in den Fällen von
 Absatz 3 Satz 2 bleibt unberührt. Die Auskunft nach den Absätzen 1 und
 2 anhand einer zu einem bestimmten Zeitpunkt zugewiesenen
 Internetprotokoll-Adresse nach § 22 Absatz 1 Satz 3 und 4 des
-Telekommunikation-Telemedien-Datenschutz-Gesetzes darf darüber hinaus
-nur verlangt werden, wenn tatsächliche Anhaltspunkte dafür vorliegen,
-dass die betroffene Person Nutzer des Telemediendienstes ist, bei dem
-die Daten erhoben werden sollen. Die rechtlichen und tatsächlichen
-Grundlagen des Auskunftsverlangens sind aktenkundig zu machen.
+Telekommunikation-Digitale-Dienste-Datenschutz-Gesetzes darf darüber
+hinaus nur verlangt werden, wenn tatsächliche Anhaltspunkte dafür
+vorliegen, dass die betroffene Person Nutzer des digitalen Dienstes
+ist, bei dem die Daten erhoben werden sollen. Die rechtlichen und
+tatsächlichen Grundlagen des Auskunftsverlangens sind aktenkundig zu
+machen.
 
 (5) § 10 Absatz 5 bis 7 gilt entsprechend.
 
@@ -5141,28 +5389,32 @@ berichtigen oder zu löschen sind. Die Aussonderungsprüffristen nach §
 75 Absatz 4 des Bundesdatenschutzgesetzes dürfen bei im
 Informationssystem des Bundeskriminalamtes verarbeiteten
 personenbezogenen Daten bei Erwachsenen zehn Jahre, bei Jugendlichen
-fünf Jahre und bei Kindern zwei Jahre nicht überschreiten, wobei nach
-Zweck der Speicherung sowie Art und Schwere des Sachverhalts zu
-unterscheiden ist. Die Beachtung der Aussonderungsprüffristen ist
-durch geeignete technische Maßnahmen zu gewährleisten.
+fünf Jahre und bei Kindern zwei Jahre sowie bei der Verhütung und
+Verfolgung von Straftaten nach den §§ 6 bis 13 des
+Völkerstrafgesetzbuchs bei Erwachsenen 15 Jahre und bei Jugendlichen
+zehn Jahre nicht überschreiten, wobei nach Zweck der Speicherung sowie
+Art und Schwere des Sachverhalts zu unterscheiden ist. Die Beachtung
+der Aussonderungsprüffristen ist durch geeignete technische Maßnahmen
+zu gewährleisten.
 
 (2) In den Fällen von § 19 Absatz 1 dürfen die
 Aussonderungsprüffristen bei Erwachsenen fünf Jahre und bei
-Jugendlichen drei Jahre sowie bei der Verhütung und Verfolgung von
-Straftaten nach den §§ 6 bis 13 des Völkerstrafgesetzbuches bei
-Erwachsenen zehn Jahre und bei Jugendlichen fünf Jahre nicht
-überschreiten. Personenbezogene Daten der in § 19 Absatz 1 Satz 1
-Nummer 1 bis 4 bezeichneten Personen können ohne Zustimmung der
-betroffenen Person nur für die Dauer eines Jahres gespeichert werden.
-Die Speicherung für jeweils ein weiteres Jahr ist zulässig, soweit die
-Voraussetzungen des § 19 Absatz 1 weiterhin vorliegen. Die
-maßgeblichen Gründe für die Aufrechterhaltung der Speicherung nach
-Satz 3 sind aktenkundig zu machen. Die Speicherung nach Satz 2 darf
-jedoch insgesamt drei Jahre, bei der Verhütung und Verfolgung von
-Straftaten nach § 129a, auch in Verbindung mit § 129b Absatz 1, des
-Strafgesetzbuchs fünf Jahre sowie bei der Verhütung und Verfolgung von
-Straftaten nach den §§ 6 bis 13 des Völkerstrafgesetzbuchs zehn Jahre
-nicht überschreiten.
+Jugendlichen drei Jahre nicht überschreiten. Personenbezogene Daten
+der in § 19 Absatz 1 Satz 1 Nummer 1 bis 4 bezeichneten Personen
+können ohne Zustimmung der betroffenen Person nur für die Dauer eines
+Jahres gespeichert werden. Die Speicherung für jeweils ein weiteres
+Jahr ist zulässig, soweit die Voraussetzungen des § 19 Absatz 1
+weiterhin vorliegen. Die maßgeblichen Gründe für die Aufrechterhaltung
+der Speicherung nach Satz 3 sind aktenkundig zu machen. Die
+Speicherung nach Satz 2 darf jedoch insgesamt drei Jahre, bei der
+Verhütung und Verfolgung von Straftaten nach § 129a, auch in
+Verbindung mit § 129b Absatz 1, des Strafgesetzbuchs fünf Jahre nicht
+überschreiten. Abweichend von Satz 1 dürfen die
+Aussonderungsprüffristen bei der Verhütung und Verfolgung von
+Straftaten nach den §§ 6 bis 13 des Völkerstrafgesetzbuchs bei
+Erwachsenen 15 Jahre und bei Jugendlichen zehn Jahre nicht
+überschreiten; die Sätze 2 bis 5 finden in diesen Fällen keine
+Anwendung.
 
 (3) Die Fristen beginnen mit dem Tag, an dem das letzte Ereignis
 eingetreten ist, das zur Speicherung der Daten geführt hat, jedoch
@@ -5199,12 +5451,62 @@ des Bundeskriminalamtes erforderlich ist.
 
 (6) Bei im polizeilichen Informationsverbund gespeicherten
 personenbezogenen Daten obliegen die in § 75 des
-Bundesdatenschutzgesetzes und den Absätzen 1 bis 3 genannten
-Verpflichtungen der Stelle, die die datenschutzrechtliche
+Bundesdatenschutzgesetzes und den Absätzen 1 bis 3 sowie 7 und 8
+genannten Verpflichtungen der Stelle, die die datenschutzrechtliche
 Verantwortung nach § 31 Absatz 2 trägt. Absatz 4 Satz 3 gilt für die
 zur Löschung verpflichtete Landesbehörde entsprechend. In diesem Fall
 überlässt die Landesbehörde dem Bundeskriminalamt die entsprechenden
 schriftlichen Unterlagen.
+
+(7) Für die Aussonderungsprüffristen nach § 75 Absatz 4 des
+Bundesdatenschutzgesetzes gilt für im polizeilichen
+Informationsverbund vorsorgend gespeicherte personenbezogene Daten von
+Beschuldigten und Tatverdächtigen, dass die Aussonderungsprüffrist
+nicht überschreiten darf
+
+1.  bei Erwachsenen fünf Jahre, bei Jugendlichen vier Jahre und bei
+    Kindern zwei Jahre, sofern der Anlass eine schwere Straftat nach §
+    100a Absatz 2 der Strafprozessordnung ist;
+
+
+2.  in allen anderen Fällen bei Erwachsenen drei Jahre, bei Jugendlichen
+    zwei Jahre und bei Kindern ein Jahr.
+
+
+
+Bei der Festlegung der Aussonderungsprüffrist ist nach Art und Schwere
+des zugrundliegenden Sachverhalts sowie des Eingriffsgewichts der
+Datenerhebung zu unterscheiden. Liegen bei Ablauf der
+Aussonderungsprüffrist weiterhin oder neu hinzutretende relevante
+Umstände für die nach § 30a Absatz 2 zu treffende Prognose vor, kann
+eine erneute Aussonderungsprüffrist nach Satz 1 festgelegt werden.
+Anderenfalls sind die Daten zu löschen. In den Fällen des Satzes 1
+Nummer 2 kann höchstens zweimal eine erneute Aussonderungsprüffrist
+festgelegt werden. In den Fällen des Satzes 1 Nummer 1 kann auch mehr
+als zweimal eine erneute Aussonderungsprüffrist festgelegt werden.
+
+(8) Für die Aussonderungsprüffristen nach § 75 Absatz 4 des
+Bundesdatenschutzgesetzes gilt für im polizeilichen
+Informationsverbund vorsorgend gespeicherte personenbezogene Daten von
+Anlasspersonen, dass die Aussonderungsprüffrist bei Erwachsenen zwei
+Jahre, bei Jugendlichen und Kindern ein Jahr nicht überschreiten darf.
+Absatz 7 Satz 2 gilt entsprechend. Liegen bei Ablauf der
+Aussonderungsprüffrist weiterhin oder neu hinzutretende relevante
+Umstände für die nach § 30a Absatz 1 in Verbindung mit § 18 Absatz 1
+Nummer 4 zu treffende Prognose vor, kann eine erneute
+Aussonderungsprüffrist nach Satz 1 festgelegt werden. Anderenfalls
+sind die Daten zu löschen. Eine erneute Aussonderungsprüffrist kann
+vorbehaltlich des Satzes 6 höchstens zweimal festgelegt werden. Liegen
+in den Fällen des § 30a Absatz 1 in Verbindung mit § 18 Absatz 1
+Nummer 4 tatsächliche Anhaltspunkte dafür vor, dass die betroffene
+Person in naher Zukunft eine schwere Straftat nach § 100a Absatz 2 der
+Strafprozessordnung begehen wird, kann auch mehr als zweimal eine
+erneute Aussonderungsprüffrist festgelegt werden.
+
+(9) Das Bundeskriminalamt prüft die Speicherung von personenbezogenen
+Daten im Zusammenhang mit einem Informationsaustausch als zentrale
+Kontaktstelle spätestens sechs Monate nach Abschluss eines
+Informationsaustauschs und anschließend regelmäßig.
 
 
 #### § 78 Berichtigung personenbezogener Daten sowie die Einschränkung der Verarbeitung in Akten sowie Vernichtung von Akten

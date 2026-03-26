@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2004, 3370
 
 Zuletzt geändert durch
-:   Art. 1 V v. 12.1.2023 I Nr. 16
+:   Art. 1 V v. 3.12.2024 I Nr. 393
 
 
 ## Eingangsformel
@@ -171,14 +171,25 @@ Bundesrepublik Deutschland zu integrieren.
 
 ### § 4a Fahrtkostenerstattung, Kinderbetreuung, kursbegleitende Maßnahmen
 
-(1) Das Bundesamt gewährt Teilnahmeberechtigten, die nach § 9 Absatz 2
-von der Kostenbeitragspflicht befreit worden sind, bei Bedarf auf
-Antrag einen Zuschuss zu den notwendigen Fahrtkosten. Der
-Fahrtkostenzuschuss wird in Form einer Pauschale gewährt. Der Antrag
-auf Fahrtkostenzuschuss ist vor Beginn des Kursabschnitts zu stellen,
-ab dem Teilnahmeberechtigten Fahrtkostenzuschüsse gewährt werden
-sollen. Das Bundesamt kann in begründeten Fällen von dem in Satz 3
-bestimmten Zeitpunkt der Antragstellung Ausnahmen zulassen.
+(1) Das Bundesamt gewährt Teilnahmeberechtigten zur Ermöglichung einer
+Kursteilnahme bei Bedarf auf Antrag einen pauschalen Zuschuss zu den
+notwendigen Fahrtkosten, wenn
+
+1.  sie nach § 9 Absatz 2 Satz 1 Nummer 1 oder Nummer 2 von der
+    Kostenbeitragspflicht befreit wurden oder
+
+
+2.  eine Schwerbehinderung vorliegt und sie nach § 9 Absatz 2 von der
+    Kostenbeitragspflicht befreit wurden oder nach § 9 Absatz 5 befreit
+    sind.
+
+
+
+Der Antrag auf Fahrtkostenzuschuss ist vor Beginn des Kursabschnitts
+zu stellen, ab dem dem Teilnahmeberechtigten Fahrtkostenzuschüsse
+gewährt werden sollen. Das Bundesamt kann in begründeten Fällen von
+dem in Satz 2 bestimmten Zeitpunkt der Antragstellung Ausnahmen
+zulassen.
 
 (2) Das Bundesamt kann die Teilnahme am Integrationskurs durch
 Förderung von Maßnahmen zur Ermöglichung und Sicherstellung einer
@@ -223,18 +234,7 @@ berücksichtigen sind insbesondere:
 
 
 
-(5) Teilnahmeberechtigte, die nach Ausschöpfung des individuellen
-Stundenkontingents im Sprachkurs ohne Erfolg am Sprachtest nach § 17
-Absatz 1 Satz 1 Nummer 1 teilgenommen haben, können zur einmaligen
-Wiederholung von maximal 300 Unterrichtsstunden des Sprachkurses
-zugelassen werden. Sie sind zuzulassen, wenn sie nach § 44a Absatz 1
-Satz 1 des Aufenthaltsgesetzes zur Teilnahme verpflichtet sind. Bei
-Teilnahmeberechtigten, die am Ende des Sprachkurses an einem
-Alphabetisierungskurs nach § 13 Absatz 1 Satz 3 Nummer 3 teilgenommen
-haben, sowie in anderen begründeten Einzelfällen kann das Bundesamt
-auf die Voraussetzung der erfolglosen Teilnahme am Sprachtest nach §
-17 Absatz 1 Satz 1 Nummer 1 vor Erteilung der Zulassung zur
-Wiederholung verzichten.
+(5) (weggefallen)
 
 
 ### § 5a Zulassung durch den Träger der Grundsicherung für Arbeitsuchende
@@ -283,10 +283,10 @@ Anschrift des Teilnahmeberechtigten sowie die Angaben nach Absatz 1
 vorgesehen sind.
 
 (4) Mit der Bestätigung werden die Teilnahmeberechtigten in einem
-Merkblatt in einer für sie verständlichen Sprache über die Ziele und
-Inhalte des Integrationskurses, über die Kursangebote der zugelassenen
-Träger, über die Modalitäten der Anmeldung und Teilnahme sowie über
-mögliche Folgen der Nichtteilnahme informiert.
+Merkblatt über die Ziele und Inhalte des Integrationskurses, über die
+Kursangebote der zugelassenen Träger, über die Modalitäten der
+Anmeldung und Teilnahme sowie über mögliche Folgen der Nichtteilnahme
+informiert.
 
 
 ### § 7 Anmeldung zum Integrationskurs
@@ -324,10 +324,10 @@ Kursangebot verweisen. Zuweisungen nach Satz 1 und Verweisungen nach
 Satz 2 erfolgen unter Beachtung der zeitlichen Nähe des Kursbeginns
 sowie der örtlichen Nähe und Erreichbarkeit des Kursträgers für den
 Teilnahmeverpflichteten oder Teilnahmeberechtigten. In den Fällen des
-Satz 1 oder 2 leiten die zuständigen Stellen gemäß § 6
+Satz 1 oder 2 leiten die zuständigen Stellen gemäß den §§ 5a und 6
 Teilnahmeberechtigte zum Bundesamt zum Zwecke der Sicherstellung eines
 zeitnahen Kursbeginns zu, wenn das Bundesamt die zuständigen Stellen
-dazu auffordert. Mit der Bestätigung nach § 5 oder § 6 teilt die
+dazu auffordert. Mit der Bestätigung nach § 5, § 5a oder § 6 teilt die
 zuständige Stelle den Teilnahmeberechtigten zugleich den Termin für
 den Einstufungstest mit.
 
@@ -407,10 +407,10 @@ Kursanmeldung und zur Kursteilnahme des zur Teilnahme verpflichteten
 Ausländers oder des Ausländers, bei dem die Teilnahme an einem
 Integrationskurs im Rahmen eines Kooperationsplans nach § 15 Absatz 2
 des Zweiten Buches Sozialgesetzbuch vorgesehen ist. Auf Personen, die
-vor der Zulassung zur Wiederholung nach § 5 Absatz 5 zur Teilnahme am
-Integrationskurs verpflichtet waren, findet Satz 2 für die Teilnahme
-an der Wiederholung von höchstens 300 Unterrichtsstunden des
-Sprachkurses entsprechende Anwendung.
+vor der Zulassung zur Wiederholung nach § 13 Absatz 1 Satz 4 zur
+Teilnahme am Integrationskurs verpflichtet waren, findet Satz 2 für
+die Teilnahme an der Wiederholung von höchstens 300 Unterrichtsstunden
+des Sprachkurses entsprechende Anwendung.
 
 (4) Die Übermittlungen nach Absatz 1 Satz 2 und Absatz 3 Satz 2 können
 auch im automatisierten Abrufverfahren nach § 10 des
@@ -633,29 +633,26 @@ Zielgruppen umfassen bis zu 900 Unterrichtsstunden im Sprachkurs und
 100 Unterrichtsstunden im Orientierungskurs. Sie können insbesondere
 eingerichtet werden für Teilnahmeberechtigte,
 
-1.  die nicht mehr schulpflichtig sind und das 27. Lebensjahr noch nicht
-    vollendet haben, zur Vorbereitung auf den Besuch weiterführender
-    Schulen oder Hochschulen oder auf eine andere Ausbildung
-    (Jugendintegrationskurs),
-
-
-2.  die aus familiären oder kulturellen Gründen keinen allgemeinen
-    Integrationskurs besuchen können (Eltern- beziehungsweise
-    Frauenintegrationskurs),
-
-
-3.  die nicht oder nicht ausreichend lesen oder schreiben können
+1.  die nicht oder nicht ausreichend lesen oder schreiben können
     (Alphabetisierungskurs),
 
 
-4.  die nicht oder nicht ausreichend in lateinischer Schrift lesen oder
+2.  die nicht oder nicht ausreichend in lateinischer Schrift lesen oder
     schreiben können (Zweitschriftlernerkurs),
 
 
-5.  die einen besonderen sprachpädagogischen Förderbedarf haben.
+3.  die einen besonderen sprachpädagogischen Förderbedarf haben.
 
 
 
+Teilnahmeberechtigte, die an einem Kurs nach Satz 3 Nummer 1 oder 3
+teilgenommen und nach Ausschöpfung des individuellen
+Stundenkontingents im Sprachkurs ohne Erfolg am Sprachtest nach § 17
+Absatz 1 Satz 1 Nummer 1 teilgenommen haben, können zur einmaligen
+Wiederholung von maximal 300 Unterrichtseinheiten des Sprachkurses vom
+Bundesamt zugelassen werden. Das Bundesamt kann auf die Voraussetzung
+der erfolglosen Teilnahme am Sprachtest vor Erteilung der Zulassung
+zur Wiederholung verzichten.
 
 (2) Bei Bedarf kann der Integrationskurs als Intensivkurs, der 500
 Unterrichtsstunden umfasst, durchgeführt werden. Der Sprachkurs
@@ -679,15 +676,14 @@ Bedarf für die Integrationskurse nach den Absätzen 1 und 2 fest.
 angeboten. Das Angebot von Teilzeitkursen soll auf einen zügigen
 Abschluss des Kurses ausgerichtet sein.
 
-(2) Die Zahl der Kursteilnehmer in einer Kursgruppe soll 20 Personen
-nicht überschreiten. Maximal dürfen 25 Personen an einem Kurs
-teilnehmen. Die Kursgruppe soll möglichst Teilnehmer mit
-unterschiedlichen Muttersprachen umfassen. Für Integrationskurse nach
-§ 13 können vom Bundesamt kleinere Kursgruppen vorgesehen werden.
+(2) Maximal dürfen 25 Personen an einem Kurs teilnehmen. Die
+Kursgruppe soll möglichst Teilnehmer mit unterschiedlichen
+Muttersprachen umfassen. Für Integrationskurse nach § 13 können vom
+Bundesamt kleinere Kursgruppen vorgesehen werden.
 
 (3) Bei Bedarf können Integrationskurse auch in Form von Online-Kursen
 durchgeführt werden. Das Bundesamt kann bei diesen Kursen Abweichungen
-von den Regelungen in Absatz 1 Satz 1 und Absatz 2 Satz 1 bis 3
+von den Regelungen in Absatz 1 Satz 1 und Absatz 2 Satz 1 und 2
 zulassen. Das Bundesamt legt fest, welches Angebot an Online-Kursen
 konzeptionell den Anforderungen der Integrationskursverordnung
 entspricht.
@@ -787,7 +783,7 @@ müssen Kenntnisse zur Bewertung von Sprachkompetenzen und
 Unterrichtserfahrung mit der Zielgruppe nachweisen. Es wird vermutet,
 dass ein Prüfer über diese Qualifikationen verfügt, wenn er im Besitz
 einer gültigen Prüferlizenz „Deutsch-Test für Zuwanderer“ des vom
-Bundesamt nach § 17 Absatz 1 Satz 5 beauftragten Testinstituts ist.
+Bundesamt nach § 17 Absatz 1 Satz 4 beauftragten Testinstituts ist.
 Voraussetzung für den Einsatz als Prüfer ist die Zulassung als
 Lehrkraft nach Absatz 1.
 
@@ -867,9 +863,9 @@ Abschlusstests nach Absatz 1. Bei nicht erfolgreicher Teilnahme am
 Test nach Absatz 1 Satz 1 Nummer 1 vor Ausschöpfung der
 Unterrichtsstunden gemäß § 11 Absatz 1 Satz 1 oder § 13 Absatz 1 Satz
 2 oder Absatz 2 Satz 2 trägt das Bundesamt die Kosten für die zweite
-Teilnahme an diesem Test. Im Rahmen der Wiederholung nach § 5 Absatz 5
-werden die Kosten für die Teilnahme am Test nach Absatz 1 Satz 1
-Nummer 1 einmalig getragen.
+Teilnahme an diesem Test. Im Rahmen der Wiederholung nach § 13 Absatz
+1 Satz 4 werden die Kosten für die Teilnahme am Test nach Absatz 1
+Satz 1 Nummer 1 einmalig getragen.
 
 (4) Das Bundesamt bescheinigt in Schriftform die erfolgreiche
 Teilnahme am Integrationskurs nach Absatz 2 mit dem „Zertifikat
@@ -978,7 +974,7 @@ Personen muss der Antrag Folgendes enthalten:
     Förderprogramme oder vergleichbare Maßnahmen,
 
 
-4.  eine Erklärung dazu, ob innerhalb der letzten drei Jahre ein
+4.  eine Erklärung dazu, ob innerhalb der letzten fünf Jahre ein
     Zulassungsantrag des Antragstellers oder seines gesetzlichen
     Vertreters oder des zur Vertretung oder Geschäftsführung Berechtigten
     abgelehnt oder die Zulassung widerrufen wurde und
@@ -1005,7 +1001,7 @@ Antrag Angaben zu Folgendem enthalten:
     vergleichbare Bildungsmaßnahmen zugelassen ist,
 
 
-2.  der Lehrorganisation,
+2.  der Qualitätssicherung der Lehrorganisation,
 
 
 3.  der Einrichtung und Gestaltung der Unterrichtsräume sowie der
@@ -1050,10 +1046,10 @@ Antrag Angaben zu Folgendem enthalten:
 
 
 (3) Zur Beurteilung der vom Antragsteller eingesetzten Instrumente zur
-Qualitätssicherung und -entwicklung muss der Antrag eine Dokumentation
-zu den Maßnahmen in den Bereichen Führung, Personal,
-Kundenkommunikation, Unterrichtsorganisation und -durchführung,
-Evaluation und Controlling enthalten.
+Qualitätssicherung und -entwicklung muss der Antrag einen vom
+Bundesamt anerkannten Nachweis über Maßnahmen in den Bereichen
+Führung, Personal, Kundenkommunikation, Unterrichtsorganisation und
+-durchführung, Evaluation und Controlling enthalten.
 
 (4) Für die Zulassung als Träger von Integrationskursen für spezielle
 Zielgruppen sind Angaben über die Erfüllung besonderer vom Bundesamt
@@ -1154,7 +1150,7 @@ und 6 gilt entsprechend.
 
 (5) Das Bundesamt kann private oder öffentliche Stellen mit einer
 regional zentralisierten Durchführung von Einstufungstests nach § 11
-Absatz 2 beauftragen.
+Absatz 2 und von Abschlusstests nach § 17 Absatz 1 beauftragen.
 
 
 ### § 20b Widerruf und Erlöschen der Zulassung
@@ -1234,6 +1230,12 @@ Teilnahmeberechtigung ausgestellt wurde.
 Intensivkurses vor dem 1. Mai 2024 abweichend von § 13 Absatz 2 Satz 3
 nur 30 Unterrichtsstunden. Der Intensivkurs umfasst in diesem Fall
 abweichend von § 13 Absatz 2 Satz 1 insgesamt 430 Unterrichtsstunden.
+
+(4) Für Jugendintegrationskurse und Eltern- beziehungsweise
+Frauenintegrationskurse gemäß § 13 Absatz 1 Satz 3 Nummer 1 und 2 der
+bis zum 7. Dezember 2024 geltenden Fassung findet § 13 Absatz 1 in der
+bis zum 7. Dezember 2024 geltenden Fassung Anwendung, sofern die Kurse
+vor dem 1. Mai 2025 beginnen.
 
 
 ### § 23 (weggefallen)

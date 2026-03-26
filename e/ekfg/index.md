@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2010, 1807
 
 Zuletzt geändert durch
-:   Art. 3 G v. 22.12.2023 I Nr. 412
+:   Art. 3 G v. 30.9.2025 I Nr. 231
 
 
 ## § 1 Errichtung des Sondervermögens
@@ -57,7 +57,8 @@ Umweltschutzes.
     mehrere der von ihnen betriebenen Kohlekraftwerke stilllegen, oder
 
 
-3.  Ausgleichszahlungen geleistet werden, um beim Strompreis zu entlasten.
+3.  Ausgleichszahlungen geleistet werden, um beim Strompreis und beim
+    Gaspreis zu entlasten.
 
 
 
@@ -140,10 +141,16 @@ Rechten und Verbindlichkeiten getrennt zu halten.
 
 
 4.  sonstige Einnahmen aus der Verzinsung von Mitteln des Sondervermögens
-    und aus Rückflüssen aus den geförderten Maßnahmen und
+    und aus Rückflüssen aus den geförderten Maßnahmen,
 
 
-5.  Zuführungen aus dem Bundeshaushalt nach Maßgabe der Absätze 3 und 4.
+5.  Zuführungen aus dem Bundeshaushalt nach Maßgabe der Absätze 3 und 4
+    sowie
+
+
+6.  Zuführungen aus dem Sondervermögen nach Artikel 143h Absatz 1 Satz 5
+    des Grundgesetzes nach Maßgabe des Wirtschaftsplans dieses
+    Sondervermögens.
 
 
 

@@ -18,6 +18,9 @@ Fundstelle
 Geändert durch
 :   Art. 1 V v. 21.6.2023 I Nr. 163
 
+Änderung durch
+:   Art. 1 V v. 11.9.2025 I Nr. 209 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Eingangsformel
 
@@ -37,7 +40,7 @@ für Umwelt, Naturschutz und nukleare Sicherheit:
 Brennstoffemissionshandelsgesetzes.
 
 (2) Diese Verordnung dient der Konkretisierung der Anforderungen der
-§§ 4, 5, 10 und 12 des Brennstoffemissionshandelsgesetzes.
+§§ 4, 5, 9, 10 und 12 des Brennstoffemissionshandelsgesetzes.
 
 
 ### § 2 Begriffsbestimmungen
@@ -94,24 +97,45 @@ geltenden Fassung die folgenden Begriffsbestimmungen:
 ## Abschnitt 2 - Veräußerung von Emissionszertifikaten (zu § 10 des Gesetzes)
 
 
-### Unterabschnitt 1 - Beauftragung für den Verkauf von Emissionszertifikaten
+### Unterabschnitt 1 - Allgemeine Vorschriften für die Veräußerung
 
 
-#### § 3 Zuständige Stelle, beauftragte Stelle, Delegation des Verkaufs zum Festpreis
+#### § 3 Zuständige Stelle, beauftragte Stelle, Delegation der Veräußerung
 
 (1) Zuständige Stelle nach § 10 Absatz 3 Satz 2 Nummer 1 des
-Brennstoffemissionshandelsgesetzes ist die zuständige Behörde.
+Brennstoffemissionshandelsgesetzes ist die zuständige Behörde. Die
+zuständige Stelle ist Anbieter der zu veräußernden
+Emissionszertifikate.
 
 (2) Die zuständige Stelle wird ermächtigt, eine andere Stelle, die
 gemäß den jeweils geltenden vergaberechtlichen Vorschriften ermittelt
-worden ist, mit der Durchführung des Verkaufs der Emissionszertifikate
-zum Festpreis zu beauftragen (beauftragte Stelle) und der beauftragten
-Stelle die Emissionszertifikate zum Zwecke des Verkaufs zu übertragen.
-Die beauftragte Stelle veräußert die Emissionszertifikate im eigenen
-Namen und führt die Erlöse an den Bund ab. Der Erlös umfasst die
-Einnahmen aus der Veräußerung von Emissionszertifikaten. Nicht von dem
-Erlös umfasst sind für die Durchführung des Verkaufs verlangte
-einheitliche Entgelte nach § 8 Absatz 2.
+worden ist, mit der Durchführung der Veräußerung zu beauftragen
+(beauftragte Stelle) und der beauftragten Stelle die
+Emissionszertifikate zum Zwecke der Veräußerung zu übertragen. Die
+beauftragte Stelle veräußert die Emissionszertifikate im eigenen Namen
+und führt die Erlöse an den Bund ab. Der Erlös umfasst die Einnahmen
+aus der Veräußerung von Emissionszertifikaten. Nicht von dem Erlös
+umfasst sind für die Durchführung der Veräußerung verlangte
+einheitliche Entgelte nach § 8 Absatz 2 und 3.
+
+(3) Die Emissionszertifikate werden nach Maßgabe der Vorgaben dieses
+Abschnitts
+
+1.  für die Jahre 2021 bis 2025 zu einem Festpreis verkauft,
+
+
+2.  für das Jahr 2026 innerhalb eines Preiskorridors versteigert und
+    hinsichtlich der Überschussmenge und der Nachkaufmenge jeweils zu
+    einem Festpreis verkauft und
+
+
+3.  für die Jahre ab 2027 zu einem marktbasierten Preis verkauft.
+
+
+
+Versteigerungen gemäß Unterabschnitt 3 werden am geregelten Markt der
+beauftragten Stelle durchgeführt. Sonstige Veräußerungen können
+außerhalb eines geregelten Marktes durchgeführt werden.
 
 
 #### § 4 Voraussetzungen für die Beauftragung der beauftragten Stelle
@@ -147,115 +171,75 @@ bietet, indem der geregelte Markt insbesondere
     das den Anforderungen der Verordnung (EU) Nr. 648/2012 des
     Europäischen Parlaments und des Rates vom 4. Juli 2012 über OTC-
     Derivate, zentrale Gegenparteien und Transaktionsregister (ABl. L 201
-    vom 27.7.2012, S. 1), die zuletzt durch die Verordnung (EU)
-    2019/2099                    (ABl. L 322 vom 12.12.2019, S. 1)
-    geändert worden ist, genügt, und das für die Abwicklung der Verkäufe
-    genutzt wird.
+    vom 27.7.2012, S. 1), die zuletzt durch die Verordnung (EU) 2019/2099
+    (ABl. L 322 vom 12.12.2019, S. 1) geändert worden ist, genügt, und das
+    für die Abwicklung der Verkäufe genutzt wird.
 
 
 
 
 (2) Die zuständige Stelle hat sicherzustellen, dass die beauftragte
-Stelle den Verkauf der Emissionszertifikate zum Festpreis nach den
-Vorgaben dieser Verordnung durchführt. Hierfür sind in der
-Beauftragung angemessene Überwachungs-, Eingriffs- und
-Sanktionsmaßnahmen vorzusehen.
-
-
-### Unterabschnitt 2 - Verkauf der Emissionszertifikate zum Festpreis
+Stelle die Veräußerung der Emissionszertifikate nach den Vorgaben
+dieser Verordnung durchführt. Hierfür sind in der Beauftragung
+angemessene Überwachungs-, Eingriffs- und Sanktionsmaßnahmen
+vorzusehen.
 
 
 #### § 5 Zugangsbedingungen
 
-(1) Zulassungsberechtigt zur direkten Teilnahme am Festpreisverkauf
-durch die beauftragte Stelle sind Verantwortliche nach § 3 Nummer 3
-des Brennstoffemissionshandelsgesetzes sowie natürliche oder
-juristische Personen, die über ein Konto im nationalen
-Emissionshandelsregister verfügen.
+(1) Zulassungsberechtigt zur direkten Teilnahme an den
+Veräußerungsverfahren sind Verantwortliche nach § 3 Nummer 3 des
+Brennstoffemissionshandelsgesetzes sowie natürliche oder juristische
+Personen, die über ein Konto im nationalen Emissionshandelsregister
+verfügen.
 
 (2) Zulassungsberechtigte nach Absatz 1 können Emissionszertifikate
 auch im Namen Dritter erwerben, sofern diese Dritten ebenfalls
 Zulassungsberechtigte nach Absatz 1 sind.
 
 (3) Die beauftragte Stelle ist verpflichtet, Zulassungsberechtigte
-nach Absatz 1 für den Kauf von Emissionszertifikaten zum Festpreis
-unter Bedingungen zuzulassen, die objektiv und diskriminierungsfrei
-sind. Die beauftragte Stelle lässt Zulassungsberechtigte für den Kauf
-von Emissionszertifikaten zum Festpreis zu, wenn die Zuverlässigkeit
-des Antragstellers und die ordnungsgemäße Abwicklung des
-Festpreisverkaufs sichergestellt sind. Hierzu muss der
-Zulassungsberechtigte der beauftragten Stelle folgende Angaben und
-Nachweise vorlegen, soweit diese nicht über öffentlich zugängliche
-Register oder den Bundesanzeiger abgerufen werden können:
+nach Absatz 1 für die Teilnahme am Veräußerungsverfahren unter
+Bedingungen zuzulassen, die objektiv und diskriminierungsfrei sind.
+Die Zulassungsbedingungen dürfen keine höheren Anforderungen stellen
+als die Zulassungsbedingungen für die Teilnahme am Handel mit den
+Produkten, die am geregelten Markt der beauftragten Stelle veräußert
+werden.
 
-1.  Angaben zur Legitimation und Identität, die für eine Überprüfung der
-    für den Zulassungsberechtigten tätigen Personen erforderlich sind,
-
-
-2.  Jahresabschluss oder alternativ bei neu gegründeten Unternehmen der
-    Geschäftsplan,
+(4) Die beauftragte Stelle stellt sicher, dass die
+Zulassungsberechtigten nach Absatz 1 den Erwerb der
+Emissionszertifikate über eine elektronische Schnittstelle abwickeln
+können, auf die technisch sicher und zuverlässig über das Internet
+zugegriffen werden kann.
 
 
-3.  Organigramm der Eigentümerstruktur,
+#### § 6 Veräußerungstermine
 
-
-4.  Angabe einer Bankverbindung und
-
-
-5.  Nachweis einer Eintragung, sofern der Zulassungsberechtigte eine
-    juristische Person oder Personengesellschaft ist, die nicht in einem
-    deutschen Handelsregister registriert ist.
-
-
-
-Weitere Angaben und Nachweise kann die beauftragte Stelle im Rahmen
-der Zulassung nur verlangen, sofern sie die Erforderlichkeit dieser
-zusätzlichen Angaben oder Nachweise gegenüber der zuständigen Stelle
-nachgewiesen und die zuständige Stelle der Erhebung dieser Angaben
-oder der Vorlage der Nachweise zugestimmt hat.
-
-(4) Die beauftragte Stelle stellt sicher, dass die zugelassenen
-Kaufinteressenten den Kauf über eine elektronische Schnittstelle
-abwickeln können, auf die technisch sicher und zuverlässig über das
-Internet zugegriffen werden kann.
-
-
-#### § 6 Verkaufstermine, Mindestkaufmenge
-
-(1) Die beauftragte Stelle ist verpflichtet, mindestens zwei Termine
-pro Woche zum Verkauf der Emissionszertifikate anzubieten und die
-Termine und Zeitfenster, in denen zugelassene Kaufinteressenten
-Kaufangebote übermitteln können, nach Zustimmung der zuständigen
-Stelle mit einem Vorlauf von mindestens sechs Wochen auf der
-Internetseite der beauftragten Stelle zu veröffentlichen. Der letzte
-Verkaufstermin eines Jahres darf frühestens am dritten Arbeitstag des
-Monats Dezember stattfinden. Für zusätzliche, über die Termine nach
-Satz 1 hinaus angebotene weitere Termine zum Verkauf von
+Die beauftragte Stelle ist verpflichtet, ab dem Beginn des
+Veräußerungsverfahrens mindestens einen Termin pro Woche zur
+Veräußerung der Emissionszertifikate anzubieten. Sie ist zudem
+verpflichtet, die Termine und Zeitfenster für die Abgabe von Kauf-
+oder Versteigerungsgeboten nach Zustimmung der zuständigen Stelle mit
+einem Vorlauf von mindestens zwei Monaten auf der Internetseite der
+beauftragten Stelle zu veröffentlichen. Im Fall des Verkaufs von
+Emissionszertifikaten zu einem Festpreis oder marktbasierten Preis
+darf der letzte Verkaufstermin eines Jahres frühestens am dritten
+Arbeitstag des Monats Dezember stattfinden. Für zusätzliche, über die
+Termine nach Satz 1 hinaus angebotene Termine zur Veräußerung von
 Emissionszertifikaten gilt eine Veröffentlichungsfrist von mindestens
-zwei Wochen. Satz 1 gilt nicht im Fall von Anordnungen der zuständigen
-Stelle zur Gewährleistung eines geordneten Verkaufsbetriebs.
-
-(2) Für die Anwendung von § 10 Absatz 2 Satz 3 des
-Brennstoffemissionshandelsgesetzes gilt die Menge an
-Emissionszertifikaten als in einem der Kalenderjahre 2021 bis 2025
-erworben, die ein Verantwortlicher am Ende dieses Kalenderjahres auf
-seinem Compliance-Konto hält, soweit es sich dabei um
-Emissionszertifikate handelt, die zur Erfüllung der
-Abgabeverpflichtung für dieses Kalenderjahr gültig sind.
-
-(3) Die Mindestmenge für den Erwerb von Emissionszertifikaten bei der
-beauftragten Stelle beträgt ein Emissionszertifikat.
+zwei Wochen. Satz 1 und 2 gelten nicht im Fall von Anordnungen der
+zuständigen Stelle zur Gewährleistung eines geordneten
+Veräußerungsbetriebs.
 
 
-#### § 7 Berichtspflichten, Überwachung, Datenweitergabe
+#### § 7 Berichtspflichten und Überwachung durch die beauftragte Stelle, Datenweitergabe
 
-(1) Die beauftragte Stelle veröffentlicht nach jedem Verkaufstermin
-die Menge der veräußerten Emissionszertifikate in nicht
-personenbezogener Form auf ihrer Internetseite.
+(1) Die beauftragte Stelle veröffentlicht nach jedem
+Veräußerungstermin die Menge der veräußerten Emissionszertifikate in
+nicht personenbezogener Form auf ihrer Internetseite.
 
 (2) Die beauftragte Stelle übermittelt der zuständigen Stelle nach
-jedem Verkaufstermin folgende Angaben der Käufer, soweit dies für die
-Überwachung der Veräußerung von Emissionszertifikaten nach dem
+jedem Veräußerungstermin folgende Angaben der Erwerber, soweit dies
+für die Überwachung der Veräußerung von Emissionszertifikaten nach dem
 Brennstoffemissionshandelsgesetz durch die zuständige Stelle
 erforderlich ist:
 
@@ -269,12 +253,12 @@ erforderlich ist:
 
 
 
-Käufer im Sinne von Satz 1 ist sowohl derjenige, der für sich selbst
+Erwerber im Sinne von Satz 1 ist sowohl derjenige, der für sich selbst
 Emissionszertifikate erwirbt, als auch der Dritte im Sinne des § 5
 Absatz 2.
 
 (3) Die beauftragte Stelle ist verpflichtet, alle Prozesse des
-Verkaufsverfahrens einschließlich der Zulassung der Teilnehmer
+Veräußerungsverfahrens einschließlich der Zulassung der Teilnehmer
 kontinuierlich zu beobachten. Sofern es Anzeichen für die Begehung von
 Betrug oder sonstigen Vermögensdelikten gibt, ergreift die beauftragte
 Stelle geeignete Gegenmaßnahmen. Sie übermittelt der zuständigen
@@ -282,15 +266,14 @@ Stelle in diesen Fällen unverzüglich die erforderlichen Angaben. Die
 zuständige Stelle prüft auf Basis dieser Übermittlung die Anordnung
 weiterer Gegenmaßnahmen und ordnet gegenüber der beauftragten Stelle
 die Ergreifung an, wenn sie dies für erforderlich erachtet.
-Weitergehende Bestimmungen zur Handelsüberwachung, die für die
-beauftragte Stelle gelten, bleiben unberührt.
+Weitergehende aufsichtsrechtliche Bestimmungen bleiben unberührt.
 
 (4) Die zuständige Stelle und die beauftragte Stelle sind befugt,
-personenbezogene Daten gemäß § 5 Absatz 3, § 6 Absatz 2 und § 30
-Absatz 1 zu erheben, zu speichern, zu verwenden und sich gegenseitig
-zu übermitteln, soweit dies erforderlich ist für
+personenbezogene Daten gemäß § 5 Absatz 3, § 9, § 10 Absatz 1 und § 15
+zu erheben, zu speichern, zu verwenden und sich gegenseitig zu
+übermitteln, soweit dies erforderlich ist für
 
-1.  die Durchführung des Verkaufsverfahrens,
+1.  die Durchführung des Veräußerungsverfahrens,
 
 
 2.  die Erfüllung der Pflichten nach dem Geldwäschegesetz vom 23. Juni
@@ -309,14 +292,315 @@ zu übermitteln, soweit dies erforderlich ist für
 (1) Die beauftragte Stelle kann gegenüber der zuständigen Stelle keine
 Kosten geltend machen.
 
-(2) Die beauftragte Stelle ist berechtigt, für die Durchführung des
-Verkaufs ein einheitliches Entgelt pro veräußertem Emissionszertifikat
-von den zugelassenen Teilnehmern zu verlangen. Die Höhe dieses
-Entgelts soll vergleichbar sein mit den Entgelten, die im
+(2) Die beauftragte Stelle ist berechtigt, für die Durchführung der
+Veräußerung ein einheitliches Entgelt pro veräußertem
+Emissionszertifikat von den zugelassenen Teilnehmern zu verlangen. Die
+Höhe dieses Entgelts soll vergleichbar sein mit den Entgelten, die im
 Sekundärhandel mit Emissionszertifikaten oder in den Versteigerungen
-von Berechtigungen nach § 8 des Treibhausgas-Emissionshandelsgesetzes
-erhoben werden. Die beauftragte Stelle hat vor Verkaufsbeginn die Höhe
-des Entgeltes zu veröffentlichen.
+nach § 10 des Treibhausgas-Emissionshandelsgesetzes erhoben werden.
+Die beauftragte Stelle hat vor dem Beginn des Veräußerungsverfahrens
+die Höhe des Entgeltes auf ihrer Internetseite zu veröffentlichen.
+
+(3) Für den Verkauf von Emissionszertifikaten zu einem marktbasierten
+Preis für die Jahre ab 2027 gemäß § 16 kann die beauftragte Stelle von
+Absatz 2 abweichende Entgelte verlangen, um der reduzierten
+Gesamtveräußerungsmenge Rechnung zu tragen.
+
+
+### Unterabschnitt 2 - Besondere Vorschriften für den Verkauf von Emissionszertifikaten für die Jahre 2021 bis 2025 zum Festpreis
+
+
+#### § 9 Besondere Zugangsbedingungen zum Festpreisverkauf
+
+Abweichend von § 5 lässt die beauftragte Stelle Zulassungsberechtigte
+für den Kauf von Emissionszertifikaten zum Festpreis auch dann zu,
+wenn die Zuverlässigkeit des Antragstellers und die ordnungsgemäße
+Abwicklung des Festpreisverkaufs sichergestellt sind. Hierzu muss der
+Zulassungsberechtigte der beauftragten Stelle folgende Angaben und
+Nachweise vorlegen, soweit diese nicht über öffentlich zugängliche
+Register oder den Bundesanzeiger abgerufen werden können:
+
+1.  Angaben zur Legitimation und Identität, die für eine Überprüfung der
+    für den Zulassungsberechtigten tätigen Personen erforderlich sind,
+
+
+2.  den Jahresabschluss oder alternativ bei neu gegründeten Unternehmen
+    den Geschäftsplan,
+
+
+3.  das Organigramm der Eigentümerstruktur,
+
+
+4.  eine Angabe einer Bankverbindung und
+
+
+5.  den Nachweis einer Eintragung, sofern der Zulassungsberechtigte eine
+    juristische Person oder Personengesellschaft ist, die nicht in einem
+    deutschen Handelsregister registriert ist.
+
+
+
+Weitere Angaben und Nachweise kann die beauftragte Stelle im Rahmen
+der Zulassung nur verlangen, sofern sie die Erforderlichkeit dieser
+zusätzlichen Angaben oder Nachweise gegenüber der zuständigen Stelle
+nachgewiesen und die zuständige Stelle der Erhebung dieser Angaben
+oder der Vorlage der Nachweise zugestimmt hat.
+
+
+#### § 10 Bestimmung der Nachkaufmenge, Mindestkaufmenge
+
+(1) Für die Anwendung von § 10 Absatz 2 Satz 3 des
+Brennstoffemissionshandelsgesetzes gilt die Menge an
+Emissionszertifikaten als in einem der Kalenderjahre 2021 bis 2025
+erworben, die ein Verantwortlicher am Ende dieses Kalenderjahres auf
+seinem Compliance-Konto hält, sofern es sich dabei um
+Emissionszertifikate handelt, die zur Erfüllung der
+Abgabeverpflichtung für dieses Kalenderjahr gültig sind.
+
+(2) Die Mindestmenge für den Erwerb von Emissionszertifikaten bei der
+beauftragten Stelle beträgt ein Emissionszertifikat.
+
+
+### Unterabschnitt 3 - Besondere Vorschriften für die Veräußerung von Emissionszertifikaten für das Jahr 2026
+
+
+#### § 11 Versteigerungsmenge, Versteigerungstermine
+
+(1) Die Gesamtversteigerungsmenge für das Jahr 2026 ergibt sich aus
+der in § 44 Absatz 2 für das Jahr 2026 vorgesehenen jährlichen
+Emissionsmenge zuzüglich der gemäß § 45 für das Jahr 2026
+veröffentlichten jährlichen Erhöhungsmenge und abzüglich des
+zusätzlichen Bedarfs nach § 5 Absatz 1 des
+Brennstoffemissionshandelsgesetzes in der Einführungsphase. Der
+zusätzliche Bedarf nach Satz 1 ergibt sich aus der Summe aus den für
+die Jahre 2021 bis 2024 nach § 46 Absatz 3 veröffentlichten Mengen der
+bereinigten Zusatzbedarfe und einem für das Jahr 2025 anzusetzenden
+Zusatzbedarf im Umfang von 39 Millionen Emissionszertifikaten. Die
+zuständige Stelle veröffentlicht die Gesamtversteigerungsmenge nach
+Satz 1 bis zum 30. April 2026 auf ihrer Internetseite.
+
+(2) Sinkt die nach einem Versteigerungstermin verbleibende
+Gesamtversteigerungsmenge unter das Dreifache der pro
+Versteigerungstermin vorgesehenen Menge, finden nach diesem
+Versteigerungstermin nur noch zwei weitere Versteigerungstermine im
+Jahr 2026 statt. In dem letzten Versteigerungstermin im Jahr 2026 wird
+die gesamte noch verbleibende Versteigerungsmenge angeboten. Für die
+in Satz 1 genannten zwei weiteren Versteigerungstermine findet § 12
+Absatz 4 Satz 1 bis 3 keine Anwendung. Sofern etwaig wegfallende
+Versteigerungstermine bereits im Versteigerungskalender angekündigt
+worden sind, gilt für die Information über die Aufhebung dieser
+Termine eine verkürzte Ankündigungsfrist von einer Woche.
+
+(3) Ein Versteigerungstermin wird annulliert, wenn
+
+1.  bei dem Versteigerungstermin die Gesamtgebotsmenge am Ende der
+    Gebotsfrist geringer ist als die vorgesehene Versteigerungsmenge oder
+
+
+2.  die Annullierung als Maßnahme nach § 7 Absatz 3 angeordnet wird.
+
+
+
+Sofern das Handelssystem zu einem der vorgesehenen
+Versteigerungstermine wegen einer technischen Störung nicht zur
+Verfügung steht, findet der vorgesehene Versteigerungstermin nicht
+statt. In den Fällen der Sätze 1 und 2 wird die für den annullierten
+Versteigerungstermin vorgesehene Versteigerungsmenge nicht von der
+verbleibenden Gesamtversteigerungsmenge für das Jahr 2026 abgezogen.
+Soweit erforderlich, wird der nach Satz 1 oder 2 entfallene
+Versteigerungstermin unverzüglich nachgeholt. Für die Ankündigung
+dieses Nachholtermins gilt eine verkürzte Ankündigungsfrist von
+mindestens einer Woche.
+
+
+#### § 12 Versteigerungsverfahren
+
+(1) Die Mindestgebotsmenge beträgt ein Emissionszertifikat. In einem
+Versteigerungstermin darf die Summe der einzelnen Gebote eines
+einzelnen Bieters je Auslieferungskonto nicht höher sein als 50
+Prozent der für diesen Versteigerungstermin vorgesehenen
+Versteigerungsmenge. Für das Versteigerungsverfahren sind nur Gebote
+zugelassen, bei denen der gebotene Preis je Emissionszertifikat
+(Gebotspreis) mindestens 55 Euro und maximal 65 Euro beträgt.
+
+(2) Das Versteigerungsverfahren erfolgt nach dem
+Einheitspreisverfahren mit einer Bieterrunde pro Versteigerung. Jeder
+Bieter kann jeweils nur die eigenen abgegebenen Gebote einsehen.
+
+(3) Zu dem von der die Versteigerung durchführenden Stelle
+festgesetzten Zeitpunkt werden die abgegebenen Gebote nach der Höhe
+des Gebotspreises gereiht. Die in den Geboten dargelegten Gebotsmengen
+werden aufsummiert, beginnend bei dem höchsten Gebotspreis. Der Preis
+des Gebotes, bei dem die aufsummierten Gebotsmengen die angebotene
+Menge an Emissionszertifikaten erreichen oder überschreiten, ist der
+Zuschlagspreis. Alle Gebote, die in die Summenbildung eingegangen sind
+und deren Gebotspreis höher ist als der Zuschlagspreis, werden
+entsprechend der Höhe des Zuschlagspreises zugeteilt. Sofern die Summe
+der Gebote zum Zuschlagspreis höher ist als die verbleibende
+Versteigerungsmenge, wird jedes dieser Gebote im Verhältnis der
+verbleibenden Versteigerungsmenge zur Gesamtgebotsmenge zum
+Zuschlagspreis zugeteilt.
+
+(4) Liegt der Zuschlagspreis in einem Versteigerungstermin bei 65 Euro
+und überschreitet die Gesamtgebotsmenge zum Zuschlagspreis die
+Versteigerungsmenge, erhalten alle Bieter, die zum Zuschlagspreis
+geboten haben, abweichend von Absatz 3 die von ihnen gebotene Menge,
+sofern die Gesamtgebotsmenge zum Zuschlagspreis nicht höher liegt als
+das Doppelte der vorgesehenen Versteigerungsmenge in diesem
+Versteigerungstermin. Sofern die Gesamtgebotsmenge zum Zuschlagspreis
+das Doppelte der vorgesehenen Versteigerungsmenge überschreitet, wird
+jedes Gebot im Verhältnis der doppelten vorgesehenen
+Versteigerungsmenge zur Gesamtgebotsmenge zum Zuschlagspreis
+zugeteilt. Die nach den Sätzen 1 und 2 über die vorgesehene
+Versteigerungsmenge hinaus zugeteilten Emissionszertifikate werden von
+der verbleibenden Gesamtversteigerungsmenge für das Jahr 2026
+abgezogen und die Anzahl der verbleibenden Versteigerungstermine wird
+abweichend von § 6 Satz 1 entsprechend reduziert. Sofern die
+wegfallenden Versteigerungstermine bereits im Versteigerungskalender
+angekündigt worden sind, gilt für die Information über die Aufhebung
+dieser Termine eine verkürzte Ankündigungsfrist von einer Woche.
+
+(5) Beträgt die gesamte noch verbleibende Versteigerungsmenge vor
+einem Versteigerungstermin weniger als ein Drittel der
+Gesamtversteigerungsmenge, findet Absatz 4 Satz 1 und 2 für diesen
+Versteigerungstermin keine Anwendung.
+
+
+#### § 13 Berichtspflichten und Überwachung durch die beauftragte Stelle
+
+(1) Die beauftragte Stelle unterrichtet die zuständige Stelle nach
+jedem Versteigerungstermin über
+
+1.  den Zuschlagspreis,
+
+
+2.  die Verteilung der Gebote sowie
+
+
+3.  Kennziffern der Versteigerung, insbesondere über
+
+    a)  die Gesamtzahl der Bieter,
+
+
+    b)  die Zahl der erfolgreichen Bieter,
+
+
+    c)  das Verhältnis der gesamten Gebotsmenge zur Versteigerungsmenge,
+
+
+    d)  die Spanne der Gebotspreise sowie
+
+
+    e)  die nach dem Versteigerungstermin noch verbleibende
+        Gesamtversteigerungsmenge für das Jahr 2026.
+
+
+
+
+
+
+Die beauftragte Stelle stellt sicher, dass der Zuschlagspreis zeitnah
+und börsenüblich bekannt gemacht wird.
+
+(2) Im Rahmen der Beobachtungspflicht nach § 7 Absatz 3 Satz 1 hat die
+beauftragte Stelle insbesondere darauf zu achten, ob es bei den
+Versteigerungsterminen Anzeichen für ein Bieterverhalten gibt, das auf
+eine Verzerrung des Zuschlagspreises gerichtet ist. Bei Feststellung
+entsprechender Anzeichen ergreift die beauftragte Stelle geeignete
+Gegenmaßnahmen. Sie informiert die börsenrechtlich zuständige
+Aufsichtsbehörde sowie die zuständige Stelle unverzüglich über die
+ergriffenen Maßnahmen. Im Fall einer Information nach Satz 3 oder § 7
+Absatz 3 Satz 3 kann die zuständige Stelle die Gesamtgebotsmenge je
+Bieter über § 12 Absatz 1 Satz 2 hinaus beschränken oder sonstige bei
+Versteigerungen von Berechtigungen übliche Gegenmaßnahmen festlegen.
+Die beauftragte Stelle stellt sicher, dass die Maßnahmen börsenüblich
+bekannt gemacht werden.
+
+
+#### § 14 Verkauf der Überschussmenge
+
+Nach vollständiger Versteigerung der Gesamtversteigerungsmenge nach
+§ 11 Absatz 1 verkauft die beauftragte Stelle im Jahr 2026
+Emissionszertifikate zu einem Überschussmengenpreis von 68 Euro pro
+Emissionszertifikat. Für die Durchführung dieses Verkaufs gelten die
+Regelungen nach den §§ 9 und 10 entsprechend.
+
+
+#### § 15 Verkauf der Nachkaufmenge
+
+Im Jahr 2027 verkauft die beauftragte Stelle bis zum 31. August
+weitere Emissionszertifikate für das Jahr 2026 zu einem
+Nachkaufmengenpreis von 70 Euro pro Emissionszertifikat.
+Verantwortliche können bis zu 10 Prozent der im Jahr 2026 erworbenen
+Emissionszertifikate in dem in Satz 1 genannten Zeitraum zur Erfüllung
+der Abgabepflicht nach § 8 des Brennstoffemissionshandelsgesetzes für
+das Jahr 2026 erwerben. Für die Durchführung des Verkaufs nach Satz 1
+gelten die Regelungen nach den §§ 9 und 10 entsprechend.
+
+
+### Unterabschnitt 4 - Besondere Vorschriften für den Verkauf von Emissionszertifikaten für die Jahre ab dem Jahr 2027
+
+
+#### § 16 Fortführung des nationalen Brennstoffemissionshandels für die Jahre ab dem Jahr 2027
+
+(1) Für die Jahre ab 2027 ist die Veräußerung nicht auf die nach § 44
+Absatz 2a festgelegte Emissionsmenge beschränkt. Für den Fall der
+Überschreitung der Emissionsmenge gilt § 5 Absatz 1 des
+Brennstoffemissionshandelsgesetzes entsprechend.
+
+(2) Für Brennstoffemissionen in den Jahren ab 2027 findet § 10 Absatz
+1 Satz 2 des Brennstoffemissionshandelsgesetzes keine Anwendung.
+Emissionszertifikate, die gemäß § 9 Absatz 1 Satz 1 des
+Brennstoffemissionshandelsgesetzes einem der Kalenderjahre ab 2027
+zugeordnet sind, werden in dem betreffenden Kalenderjahr zu einem
+marktbasierten Preis verkauft. Im Jahr 2027 beginnt der Verkauf von
+Emissionszertifikaten ab dem dritten Quartal. Für die Durchführung
+dieses Verkaufs gelten die Regelungen nach den §§ 9 und 10
+entsprechend. Abweichend von § 6 Satz 1 ist die beauftragte Stelle
+verpflichtet, ab dem Beginn des Verkaufsverfahrens mindestens einen
+Termin pro Monat zum Verkauf der Emissionszertifikate anzubieten. Satz
+5 gilt nicht im Fall von Anordnungen der zuständigen Stelle zur
+Gewährleistung eines geordneten Verkaufsbetriebs.
+
+(3) Der marktbasierte Preis nach Absatz 2 Satz 2 entspricht dem
+mengengewichteten Durchschnittspreis der Versteigerungen von
+Emissionszertifikaten nach § 10 Absatz 1 des Treibhausgas-
+Emissionshandelsgesetzes in dem jeweils vorletzten vorangegangenen
+Quartal. Die zuständige Stelle veröffentlicht auf ihrer Internetseite
+die Höhe des marktbasierten Preises für jedes Quartal mit einem
+Vorlauf von mindestens zwei Monaten vor Beginn des jeweiligen
+Quartals.
+
+(4) Im Fall der Verschiebung nach § 17 beginnt der Verkauf von
+Emissionszertifikaten, die gemäß § 9 Absatz 1 Satz 1 des
+Brennstoffemissionshandelsgesetzes dem Kalenderjahr 2028 zugeordnet
+sind, ab dem dritten Quartal des Jahres 2028. Für den Verkauf von
+Emissionszertifikaten nach Satz 1 findet Absatz 3 Satz 1 entsprechende
+Anwendung.
+
+
+#### § 17 Sonderregelung bei Verschiebung des Beginns des EU-Brennstoffemissionshandels
+
+(1) Im Fall der Verschiebung des Beginns des EU-
+Brennstoffemissionshandels nach Artikel 30k Absatz 2 der Richtlinie
+2003/87/EG wird das Brennstoffemissionshandelsgesetz in seinem am 31.
+Dezember 2026 geltenden Anwendungsbereich für Brennstoffemissionen des
+Jahres 2027 fortgeführt. § 16 Absatz 1 und 2 Satz 1 gilt für diesen
+Fall entsprechend.
+
+(2) Emissionszertifikate, die gemäß § 9 Absatz 1 Satz 1 des
+Brennstoffemissionshandelsgesetzes dem Kalenderjahr 2027 zugeordnet
+sind, werden ab dem dritten Quartal 2027 zu einem marktbasierten Preis
+verkauft. Dieser marktbasierte Preis entspricht dem mengengewichteten
+Durchschnittspreis der Versteigerungen von Berechtigungen nach § 10
+Absatz 1 des Treibhausgas-Emissionshandelsgesetzes in dem jeweils
+vorletzten vorangegangenen Quartal.
+
+(3) Die zuständige Stelle veröffentlicht die Höhe des marktbasierten
+Preises nach Absatz 2 Satz 2 für jedes Quartal mit einem Vorlauf von
+mindestens zwei Monaten vor Beginn des jeweiligen Quartals. Für die
+Durchführung des Verkaufs nach Absatz 2 Satz 1 gelten die Regelungen
+nach den §§ 9 und 10 entsprechend.
 
 
 ## Abschnitt 3 - Nationales Emissionshandelsregister (zu § 12 des Gesetzes)
@@ -325,18 +609,14 @@ des Entgeltes zu veröffentlichen.
 ### Unterabschnitt 1 - Allgemeine Bestimmungen
 
 
-#### § 9 Emissionshandelsregister und Transaktionsprotokoll
+#### § 18 Emissionshandelsregister
 
 (1) Die zuständige Behörde führt das nationale
 Emissionshandelsregister einschließlich der Registerkonten und der
 technischen Infrastruktur aufgrund ihrer diesbezüglichen Befugnis nach
 § 12 des Brennstoffemissionshandelsgesetzes.
 
-(2) Für Vorgänge und Transaktionen im Rahmen dieser Verordnung wird
-ein organisatorisch unabhängiges Transaktionsprotokoll in Form einer
-elektronischen Datenbank eingerichtet.
-
-(3) Die zuständige Behörde erlässt Nutzungsbedingungen für die
+(2) Die zuständige Behörde erlässt Nutzungsbedingungen für die
 Kontoeröffnung und Kontoführung im nationalen
 Emissionshandelsregister.
 
@@ -344,7 +624,7 @@ Emissionshandelsregister.
 ### Unterabschnitt 2 - Konten
 
 
-#### § 10 Kontoarten
+#### § 19 Kontoarten
 
 (1) Im nationalen Emissionshandelsregister werden folgende Kontoarten
 geführt:
@@ -383,7 +663,7 @@ geführt:
 dieser Verordnung.
 
 
-#### § 11 Kontostatus
+#### § 20 Kontostatus
 
 (1) Die zuständige Behörde kann Konten in den Status „offen“,
 „gesperrt“, „ausschließlich Abgabe“ oder „geschlossen“ setzen.
@@ -394,7 +674,9 @@ und Transaktionen veranlasst werden.
 
 (3) Von Konten im Status „gesperrt“ und Konten im Status
 „ausschließlich Abgabe“ können nur die Vorgänge und Transaktionen nach
-den §§ 13, 24, 26 und 27 veranlasst werden.
+den §§ 22, 24, 25, 26 Absatz 5, §§ 32, 34, 36 und 37 veranlasst
+werden. Von Konten im Status „ausschließlich Abgabe“ gilt Satz 1 zudem
+entsprechend für Vorgänge und Transaktionen nach § 33.
 
 (4) Von Konten im Status „geschlossen“ können keine Vorgänge und
 Transaktionen veranlasst werden. Ein Konto im Status „geschlossen“
@@ -402,12 +684,12 @@ kann nicht wiedereröffnet werden, keine Emissionszertifikate halten
 und keine Emissionszertifikate empfangen.
 
 
-#### § 12 Eröffnung von Konten
+#### § 21 Eröffnung von Konten
 
 (1) Die zuständige Behörde eröffnet auf Antrag ein Compliance-,
 Veräußerungs- oder Handelskonto im nationalen
 Emissionshandelsregister. Der Antragsteller bestimmt mindestens eine
-kontobevollmächtigte Person gemäß § 16 und übermittelt der zuständigen
+kontobevollmächtigte Person gemäß § 25 und übermittelt der zuständigen
 Behörde
 
 1.  für die Eröffnung eines Compliance-Kontos die Angaben gemäß Anlage 2
@@ -416,7 +698,7 @@ Behörde
     der Identität und Legitimität des Antragstellers zusätzlich
     erforderlich ist, fordert die zuständige Behörde für die Eröffnung
     eines Compliance-Kontos vom Antragsteller zusätzlich die Übermittlung
-    von Angaben gemäß Anlage 4 Nummer 1 Buchstabe b bis d. Der für den
+    von Angaben gemäß Anlage 4 Nummer 1 Buchstabe b und c. Der für den
     Kontoinhaber angegebene Name für ein Compliance-Konto muss mit dem
     Namen der natürlichen Person, juristischen Person oder
     Personengesellschaft übereinstimmen, die nach dem Energiesteuergesetz
@@ -424,12 +706,12 @@ Behörde
 
 
 2.  für die Eröffnung eines Veräußerungs- oder Handelskontos die Angaben
-    gemäß Anlage 2 und Anlage 3 Nummer 1 Buchstabe a bis e oder, wenn der
+    gemäß Anlage 2 und Anlage 3 Nummer 1 Buchstabe a bis d oder, wenn der
     Antragsteller eine natürliche Person ist, Anlage 3 Nummer 2. Sofern es
     zur Feststellung der Identität und Legitimität des Antragstellers
     zusätzlich erforderlich ist, fordert die zuständige Behörde für die
     Eröffnung eines Veräußerungs- oder Handelskontos zusätzlich die
-    Übermittlung von Angaben gemäß Anlage 3 Nummer 1 Buchstabe f bis i.
+    Übermittlung von Angaben gemäß Anlage 3 Nummer 1 Buchstabe e bis h.
 
 
 
@@ -503,7 +785,7 @@ voraussichtlich nicht überschreiten, kann der Verantwortliche einen
 Antrag auf erleichterte Kontoeröffnung für ein Compliance-Konto
 stellen. In diesem Fall müssen von dem Verantwortlichen nur die
 Angaben nach Anlage 2 Nummer 1 bis 8 übermittelt und mindestens eine
-kontobevollmächtigte Person gemäß § 16 bestimmt werden. Compliance-
+kontobevollmächtigte Person gemäß § 25 bestimmt werden. Compliance-
 Konten von Verantwortlichen, die einen Antrag auf erleichterte
 Kontoeröffnung gestellt haben, werden nach der Eröffnung auf den
 Kontostatus „ausschließlich Abgabe“ gesetzt.
@@ -512,7 +794,7 @@ Kontostatus „ausschließlich Abgabe“ gesetzt.
 Abgabe“ kann bei der zuständigen Behörde beantragen, dass das
 Compliance-Konto in den Status „offen“ gesetzt wird. Der Kontoinhaber
 übermittelt dafür die vollständigen Angaben gemäß Absatz 1 Satz 2
-Nummer 1 und gemäß § 16 Absatz 2.
+Nummer 1 und gemäß § 25 Absatz 2.
 
 (5) Wenn die nach § 7 Absatz 1 des Brennstoffemissionshandelsgesetzes
 berichteten Brennstoffemissionen eines Verantwortlichen mit einem
@@ -523,7 +805,7 @@ Compliance-Konto in den Status „offen“ gesetzt wird. Absatz 4 Satz 2
 gilt entsprechend.
 
 
-#### § 13 Aktualisierung von Kontoangaben
+#### § 22 Aktualisierung von Kontoangaben
 
 (1) Der Kontoinhaber ist verpflichtet, Änderungen der Kontoangaben und
 der Angaben über kontobevollmächtigte Personen unverzüglich in das
@@ -548,7 +830,7 @@ des Kontoeröffnungsprozesses, ob die Kontoangaben vollständig, aktuell
 und richtig sind.
 
 
-#### § 14 Sperrung von Konten
+#### § 23 Sperrung von Konten
 
 (1) Die zuständige Behörde setzt ein Konto in den Kontostatus
 „gesperrt“, wenn
@@ -558,16 +840,16 @@ und richtig sind.
 
 
 2.  der Kontoinhaber oder eine kontobevollmächtigte Person gegen die
-    Nutzungsbedingungen gemäß § 9 Absatz 3 schwerwiegend oder wiederholt
+    Nutzungsbedingungen gemäß § 18 Absatz 2 schwerwiegend oder wiederholt
     verstoßen hat,
 
 
-3.  der Kontoinhaber Änderungen der Kontoangaben entgegen § 13 Absatz 1
+3.  der Kontoinhaber Änderungen der Kontoangaben entgegen § 22 Absatz 1
     Satz 1 nicht in das nationale Emissionshandelsregister eingetragen
     hat, im Zusammenhang mit der Änderung von Kontoangaben oder mit
     geänderten Anforderungen im Hinblick auf Kontoangaben innerhalb einer
-    von der zuständigen Behörde gesetzten Frist entgegen § 13 Absatz 2
-    keine Belege beigebracht hat oder entgegen § 13 Absatz 1 Satz 2 nicht
+    von der zuständigen Behörde gesetzten Frist entgegen § 22 Absatz 2
+    keine Belege beigebracht hat oder entgegen § 22 Absatz 1 Satz 2 nicht
     fristgemäß mitgeteilt hat, ob seine Kontoangaben vollständig, aktuell
     und richtig sind,
 
@@ -586,11 +868,11 @@ und richtig sind.
     Brennstoffemissionshandelsgesetzes für das Konto gezahlt hat,
 
 
-6.  der Kontoinhaber gegen § 16 Absatz 3 verstoßen hat,
+6.  der Kontoinhaber gegen § 25 Absatz 3 verstoßen hat,
 
 
 7.  der zuständigen Behörde Gründe bekannt werden, die dazu geführt
-    hätten, dass die Eröffnung des Kontos gemäß § 12 Absatz 2 hätte
+    hätten, dass die Eröffnung des Kontos gemäß § 21 Absatz 2 hätte
     abgelehnt werden müssen,
 
 
@@ -602,10 +884,10 @@ und richtig sind.
 
 
 9.  der Verantwortliche bis zum 31. Juli eines Jahres seiner Pflicht gemäß
-    § 26 Absatz 2 Satz 1 nicht nachgekommen ist,
+    § 36 Absatz 2 nicht nachgekommen ist,
 
 
-10. der zuständigen Behörde eine Verfügungsbeschränkung gemäß § 25 Absatz
+10. der zuständigen Behörde eine Verfügungsbeschränkung gemäß § 35 Absatz
     3 vorliegt oder
 
 
@@ -636,7 +918,7 @@ und richtig sind.
 
 
 
-#### § 15 Schließung von Konten
+#### § 24 Schließung von Konten
 
 (1) Auf Antrag des Kontoinhabers schließt die zuständige Behörde ein
 Konto und setzt das Konto in den Status „geschlossen“.
@@ -649,7 +931,7 @@ den Status „geschlossen“, wenn
 
 
 2.  die Gründe, die zur Setzung des Kontos in den Status „gesperrt“ gemäß
-    § 14 geführt haben, trotz Setzung einer angemessenen Frist zur
+    § 23 geführt haben, trotz Setzung einer angemessenen Frist zur
     Behebung weiterhin vorliegen.
 
 
@@ -664,11 +946,11 @@ wenn
 2.  der Verantwortliche für jedes Jahr, in dem eine
     Emissionshandelspflicht bestand, seine nach § 7 Absatz 1 des
     Brennstoffemissionshandelsgesetzes zu berichtenden
-    Brennstoffemissionen gemäß § 26 eingetragen hat und
+    Brennstoffemissionen gemäß § 36 eingetragen hat und
 
 
 3.  der Verantwortliche für jedes Jahr, in dem eine
-    Emissionshandelspflicht bestand, gemäß § 27 eine Anzahl an
+    Emissionshandelspflicht bestand, gemäß § 37 eine Anzahl an
     Emissionszertifikaten abgegeben hat, die größer oder gleich seinen zu
     berichtenden Brennstoffemissionen war.
 
@@ -698,17 +980,17 @@ zuständige Behörde das Konto.
 ### Unterabschnitt 3 - Kontobevollmächtigte Personen
 
 
-#### § 16 Bestimmung und Ernennung von kontobevollmächtigten Personen
+#### § 25 Bestimmung und Ernennung von kontobevollmächtigten Personen
 
-(1) Bei Beantragung der Kontoeröffnung bestimmt der Kontoinhaber
-mindestens eine kontobevollmächtigte Person. Der Kontoinhaber kann
-sich selbst zu einer kontobevollmächtigten Person bestimmen.
+(1) Der Kontoinhaber ernennt mindestens eine kontobevollmächtigte
+Person. Der Kontoinhaber kann sich selbst zu einer
+kontobevollmächtigten Person bestimmen.
 
 (2) Die zuständige Behörde ernennt eine vom Kontoinhaber bestimmte
 Person zur kontobevollmächtigten Person, wenn der Kontoinhaber der
 zuständigen Behörde die in der Anlage 5 zu dieser Verordnung
 vorgesehenen Angaben übermittelt hat. Bei einer Kontoeröffnung nach §
-12 Absatz 3 ernennt die zuständige Behörde eine vom Kontoinhaber
+21 Absatz 3 ernennt die zuständige Behörde eine vom Kontoinhaber
 bestimmte Person zur kontobevollmächtigten Person, wenn der
 Kontoinhaber der zuständigen Behörde die in der Anlage 5 Nummer 1, 2,
 3 und 4 zu dieser Verordnung vorgesehenen Angaben übermittelt hat.
@@ -746,7 +1028,7 @@ kontobevollmächtigten Person ablehnen, wenn
 
 
 
-#### § 17 Rechte von kontobevollmächtigten Personen
+#### § 26 Rechte von kontobevollmächtigten Personen
 
 (1) Die zuständige Behörde gewährt kontobevollmächtigten Personen für
 Konten im nationalen Emissionshandelsregister Zugang zu den ihnen
@@ -770,7 +1052,7 @@ zuständige Behörde entfernt die kontobevollmächtigte Person nach
 dieser Mitteilung aus ihrer Funktion.
 
 
-#### § 18 Sperrung des Zugangs zum Emissionshandelsregister
+#### § 27 Sperrung des Zugangs zum Emissionshandelsregister
 
 (1) Die zuständige Behörde sperrt den Zugang einer
 kontobevollmächtigten Person zum nationalen Emissionshandelsregister,
@@ -783,8 +1065,8 @@ wenn
 
 2.  die kontobevollmächtigte Person versucht hat, die Sicherheit, die
     Zugänglichkeit, die Integrität oder die Vertraulichkeit des nationalen
-    Emissionshandelsregisters oder des Transaktionsprotokolls oder der
-    darin verarbeiteten oder gespeicherten Daten zu beeinträchtigen,
+    Emissionshandelsregisters oder der darin verarbeiteten oder
+    gespeicherten Daten zu beeinträchtigen,
 
 
 3.  die zuständige Behörde davon Kenntnis erhält, dass die
@@ -816,7 +1098,7 @@ kontobevollmächtigte Person aus dieser Funktion.
 ### Unterabschnitt 4 - Emissionszertifikate
 
 
-#### § 19 Erzeugung von Emissionszertifikaten
+#### § 28 Erzeugung von Emissionszertifikaten
 
 (1) Die zuständige Behörde erzeugt auf einem Nationalkonto die Menge
 an Emissionszertifikaten nach § 10 Absatz 1 des
@@ -837,14 +1119,24 @@ Bedarfs, der sich in der Einführungsphase ergeben kann.
 
 
 (3) Die zuständige Behörde überträgt erzeugte Emissionszertifikate zum
-Zwecke der späteren Übertragung nach § 20 von dem Nationalkonto auf
+Zwecke der späteren Übertragung nach § 30 von dem Nationalkonto auf
 das Veräußerungskonto. Im Fall der Beauftragung einer beauftragten
 Stelle überträgt die zuständige Behörde die erzeugten
 Emissionszertifikate von dem Nationalkonto auf das Veräußerungskonto
 der beauftragten Stelle.
 
 
-#### § 20 Übertragung von veräußerten Emissionszertifikaten
+#### § 29 Einschränkung der Gültigkeit von dem Kalenderjahr 2026 zugeordneten Emissionszertifikaten
+
+Emissionszertifikate, die gemäß § 9 Absatz 1 Satz 1 des
+Brennstoffemissionshandelsgesetzes dem Kalenderjahr 2026 zugeordnet
+sind, sind abweichend von § 9 Absatz 1 Satz 1 und 2 des
+Brennstoffemissionshandelsgesetzes nur für das Kalenderjahr 2026 für
+die Abdeckung der Brennstoffemissionen dieses Kalenderjahres oder der
+Vorjahre gültig.
+
+
+#### § 30 Übertragung von veräußerten Emissionszertifikaten
 
 Die zuständige Behörde oder im Fall der Beauftragung einer
 beauftragten Stelle die beauftragte Stelle überträgt die nach § 10 des
@@ -852,7 +1144,7 @@ Brennstoffemissionshandelsgesetzes veräußerten Emissionszertifikate
 vom Veräußerungskonto auf das Konto des Erwerbers.
 
 
-#### § 21 Ausführung von Transaktionen
+#### § 31 Ausführung von Transaktionen
 
 (1) Es können nur Transaktionen veranlasst werden, die in der Anlage 1
 zu dieser Verordnung für die jeweilige Kontoart vorgesehen sind.
@@ -877,7 +1169,7 @@ Emissionszertifikaten,
 
 
 
-Ausgenommen von den Sätzen 1 und 2 sind Übertragungen gemäß § 20.
+Ausgenommen von den Sätzen 1 und 2 sind Übertragungen gemäß § 30.
 
 (4) Kontobevollmächtigte Personen können eine Empfängerkontenliste
 anlegen. Der Kontoinhaber eines Compliance-Kontos oder eines
@@ -918,22 +1210,22 @@ kontobevollmächtigten Personen der an der Übertragung nach Satz 1
 beteiligten Konten in dem jeweiligen Konto einsehbar.
 
 
-#### § 22 Annullierung abgeschlossener Transaktionen
+#### § 32 Annullierung abgeschlossener Transaktionen
 
 (1) Ein Kontoinhaber oder eine kontobevollmächtigte Person kann bei
 der zuständigen Behörde beantragen, dass folgende irrtümlich
 veranlasste und abgeschlossene Transaktionen annulliert werden:
 
-1.  Löschung von Emissionszertifikaten gemäß § 23 oder
+1.  Löschung von Emissionszertifikaten gemäß § 33 oder
 
 
-2.  Abgabe von Emissionszertifikaten gemäß § 27.
+2.  Abgabe von Emissionszertifikaten gemäß § 37.
 
 
 
 
 (2) Der Antrag nach Absatz 1 Nummer 1 muss innerhalb von zehn
-Arbeitstagen nach Abschluss der Löschung nach § 23 bei der zuständigen
+Arbeitstagen nach Abschluss der Löschung nach § 33 bei der zuständigen
 Behörde eingehen. Der Antrag nach Absatz 1 Nummer 2 muss innerhalb von
 zehn Arbeitstagen nach Ablauf der Frist nach § 8 des
 Brennstoffemissionshandelsgesetzes bei der zuständigen Behörde
@@ -949,7 +1241,7 @@ Transaktion irrtümlicherweise veranlasst wurde.
 
 
 2.  der Verantwortliche wegen der Annullierung der Transaktion seine
-    Abgabepflicht gemäß § 27 nicht erfüllen könnte.
+    Abgabepflicht gemäß § 37 nicht erfüllen könnte.
 
 
 
@@ -960,7 +1252,7 @@ Einheitenkennung wie in der zu annullierenden Transaktion gemäß Absatz
 1 durchgeführt wird.
 
 
-#### § 23 Löschung von Emissionszertifikaten
+#### § 33 Löschung von Emissionszertifikaten
 
 (1) Kontoinhaber oder kontobevollmächtigte Personen können
 Emissionszertifikate löschen, indem sie eine bestimmte Anzahl von
@@ -972,14 +1264,14 @@ Abgabeverpflichtung nach § 8 des Brennstoffemissionshandelsgesetzes
 angerechnet.
 
 
-#### § 24 Bereinigung des Registers, Transaktionsbeschränkung
+#### § 34 Bereinigung des Registers, Transaktionsbeschränkung
 
 (1) Die zuständige Behörde transferiert Emissionszertifikate, die ihre
 Gültigkeit verloren haben und nicht mehr für eine Abgabe gemäß § 8 des
-Brennstoffemissionshandelsgesetzes in Verbindung mit § 27 verwendet
+Brennstoffemissionshandelsgesetzes in Verbindung mit § 37 verwendet
 werden können, vom Veräußerungskonto auf ein Löschungskonto.
 
-(2) Emissionszertifikate, auf denen gemäß § 19 Absatz 2 Nummer 2 die
+(2) Emissionszertifikate, auf denen gemäß § 28 Absatz 2 Nummer 2 die
 Zuordnung zu einem Kalenderjahr angegeben ist, das einem Kalenderjahr
 der Einführungsphase gemäß § 10 Absatz 2 Satz 2 des
 Brennstoffemissionshandelsgesetzes entspricht, können für Emissionen,
@@ -991,7 +1283,7 @@ Compliance-Konten übertragen werden.
 Beschränkung nach Absatz 2 für ihr Konto nicht gilt.
 
 
-#### § 25 Verfügungsbeschränkungen
+#### § 35 Verfügungsbeschränkungen
 
 (1) Die zuständige Behörde weist bestehende gerichtliche oder
 gesetzliche Verfügungsbeschränkungen im Konto aus.
@@ -1001,7 +1293,7 @@ können nicht auf ein anderes Konto transferiert werden.
 
 (3) Betrifft die Verfügungsbeschränkung den Zugang des Kontoinhabers
 zu seinem gesamten Vermögen, ist das Konto des Kontoinhabers gemäß §
-14 Absatz 1 Nummer 10 in den Status „gesperrt“ zu setzen.
+23 Absatz 1 Nummer 10 in den Status „gesperrt“ zu setzen.
 
 (4) Nach Beendigung der gerichtlichen oder gesetzlichen
 Verfügungsbeschränkung hebt die zuständige Behörde die Ausweisung nach
@@ -1011,7 +1303,7 @@ Absatz 1 im Konto auf.
 ### Unterabschnitt 5 - Eintragung der Brennstoffemissionen und Abgabe von Emissionszertifikaten
 
 
-#### § 26 Eintragung der Brennstoffemissionen
+#### § 36 Eintragung der Brennstoffemissionen
 
 (1) Der Verantwortliche ist für die ordnungsgemäße Eintragung der nach
 § 7 Absatz 1 des Brennstoffemissionshandelsgesetzes für ein
@@ -1019,8 +1311,7 @@ Kalenderjahr zu berichtenden Brennstoffemissionen in seinem
 Compliance-Konto verantwortlich.
 
 (2) Die Eintragung hat bis zum 31. Juli des jeweiligen Folgejahres zu
-erfolgen. Bis zu diesem Zeitpunkt kann der Kontoinhaber den Wert gemäß
-Absatz 1 selbstständig berichtigen.
+erfolgen.
 
 (3) Stimmt der gemäß § 7 Absatz 1 des
 Brennstoffemissionshandelsgesetzes berichtete Wert nach dem Stichtag
@@ -1029,13 +1320,15 @@ Emissionshandelsregister eingetragenen Wert überein oder wurde kein
 Wert eingetragen, fordert die zuständige Behörde den Kontoinhaber auf,
 den Wert gemäß Absatz 1 zu berichtigen oder einzutragen.
 
-(4) Nach Ende der Abgabefrist gemäß § 8 des
-Brennstoffemissionshandelsgesetzes kann die zuständige Behörde den
-Wert gemäß Absatz 1 eintragen oder berichtigen, wenn der Wert trotz
-Aufforderung nach Absatz 3 nicht oder nicht richtig eingetragen wurde.
+(4) Bis zum Ende der Abgabefrist gemäß § 8 des
+Brennstoffemissionshandelsgesetzes kann der Kontoinhaber den Wert
+gemäß Absatz 1 selbstständig berichtigen. Nach Ende der Abgabefrist
+kann die zuständige Behörde den Wert gemäß Absatz 1 eintragen oder
+berichtigen, wenn der Wert trotz Aufforderung nach Absatz 3 nicht oder
+nicht richtig eingetragen wurde.
 
 
-#### § 27 Abgabe von Emissionszertifikaten
+#### § 37 Abgabe von Emissionszertifikaten
 
 (1) Verantwortliche geben Emissionszertifikate ab, indem sie
 Emissionszertifikate für die nach § 7 Absatz 1 des
@@ -1057,7 +1350,7 @@ werden.
 ### Unterabschnitt 6 - Sicherheit
 
 
-#### § 28 Aussetzung des Betriebs des Emissionshandelsregisters
+#### § 38 Aussetzung des Betriebs des Emissionshandelsregisters
 
 (1) Die zuständige Behörde setzt den Betrieb des nationalen
 Emissionshandelsregisters in dem erforderlichen Umfang aus, wenn
@@ -1081,7 +1374,7 @@ von Handlungen, die die Aufklärung von Vorfällen nach Absatz 1 Nummer
 1 vereiteln könnten, auf die Unterrichtung verzichten.
 
 
-#### § 29 Pflicht zur Meldung von Straftaten
+#### § 39 Pflicht zur Meldung von Straftaten
 
 Der Kontoinhaber und kontobevollmächtigte Personen melden der
 zuständigen Behörde unverzüglich, wenn der Verdacht besteht, dass
@@ -1093,7 +1386,7 @@ einer Steuerstraftat oder einer Insolvenzstraftat gebraucht werden
 oder ein solcher Gebrauch versucht wurde.
 
 
-#### § 30 Erhebung, Speicherung und Verwendung von personenbezogenen Daten
+#### § 40 Erhebung, Speicherung und Verwendung von personenbezogenen Daten
 
 (1) Die zuständige Behörde erhebt, speichert und verwendet folgende
 zur Prüfung von Anträgen auf Kontoeröffnung und zur Ernennung von
@@ -1135,8 +1428,8 @@ kontobevollmächtigten Personen erforderliche personenbezogene Daten:
 
 
 (2) Die zuständige Behörde ist befugt, im nationalen
-Emissionshandelsregister die in den §§ 12 und 16 genannten Daten zu
-dem in § 9 Absatz 1 genannten Zweck zu erheben, zu speichern und zu
+Emissionshandelsregister die in den §§ 21 und 25 genannten Daten zu
+dem in § 18 Absatz 1 genannten Zweck zu erheben, zu speichern und zu
 verwenden, soweit dies für die Führung des nationalen
 Emissionshandelsregisters erforderlich ist.
 
@@ -1147,7 +1440,7 @@ soweit dies erforderlich ist für
 1.  den Betrieb des nationalen Emissionshandelsregisters,
 
 
-2.  die Durchführung des Verkaufsverfahrens oder
+2.  die Durchführung des Veräußerungsverfahrens oder
 
 
 3.  die Erfüllung der Pflichten nach dem Geldwäschegesetz.
@@ -1157,7 +1450,7 @@ soweit dies erforderlich ist für
 
 (4) Die nach Absatz 1 und 2 gespeicherten Daten sind von der
 zuständigen Behörde, sobald sie für die Erfüllung der Aufgaben nach §
-9 Absatz 1 nicht mehr erforderlich sind, unverzüglich, spätestens
+18 Absatz 1 nicht mehr erforderlich sind, unverzüglich, spätestens
 automatisiert nach Ablauf von fünf Jahren ab dem Tag ihrer Speicherung
 nach Absatz 2, zu löschen. Wird der zuständigen Behörde innerhalb
 dieser Frist die Einleitung von Ermittlungen der Staatsanwaltschaft
@@ -1179,55 +1472,56 @@ Stand der Technik entsprechen und von der zuständigen Behörde
 fortlaufend hieran anzupassen sind.
 
 
-#### § 31 Vertraulichkeit
+#### § 41 Vertraulichkeit
 
-Im Transaktionsprotokoll und im nationalen Emissionshandelsregister
-enthaltene Angaben und Daten, mit Ausnahme der nach § 33 öffentlich
-zugänglich zu machenden Angaben und Daten, sind durch die zuständige
-Behörde, Kontoinhaber und kontobevollmächtigte Personen vertraulich zu
-behandeln. Dies gilt auch für alle Angaben und Daten, die im Rahmen
-dieser Verordnung erhoben und von der zuständigen Behörde außerhalb
-des nationalen Emissionshandelsregisters und des
-Transaktionsprotokolls gespeichert werden.
+Im nationalen Emissionshandelsregister enthaltene Angaben und Daten,
+mit Ausnahme der nach § 43 öffentlich zugänglich zu machenden Angaben
+und Daten, sind durch die zuständige Behörde, Kontoinhaber und
+kontobevollmächtigte Personen vertraulich zu behandeln. Dies gilt auch
+für alle Angaben und Daten, die im Rahmen dieser Verordnung erhoben
+und von der zuständigen Behörde außerhalb des nationalen
+Emissionshandelsregisters gespeichert werden.
 
 
 ### Unterabschnitt 7 - Technische Bestimmungen und Veröffentlichung von Informationen
 
 
-#### § 32 Automatisierte Prüfung und endgültiger Abschluss von Vorgängen und Transaktionen
+#### § 42 Automatisierte Prüfung und endgültiger Abschluss von Vorgängen und Transaktionen
 
-Vorgänge und Transaktionen gelten als abgeschlossen, wenn das
-Transaktionsprotokoll das nationale Emissionshandelsregister
-benachrichtigt, dass sämtliche Prüfungen ohne Feststellung von
+Vorgänge und Transaktionen gelten als abgeschlossen, wenn sämtliche
+Prüfungen im nationalen Emissionshandelsregister ohne Feststellung von
 Unregelmäßigkeiten beendet wurden.
 
 
-#### § 33 Veröffentlichung von Informationen
+#### § 43 Veröffentlichung von Informationen
 
 (1) Die zuständige Behörde macht gemäß § 12 Absatz 4 des
 Brennstoffemissionshandelsgesetzes folgende Angaben und Daten über
 Compliance-Konten in nicht personenbezogener Form im nationalen
 Emissionshandelsregister öffentlich zugänglich:
 
-1.  Zahl der abgegebenen Emissionszertifikate,
+1.  Name und Adressdaten des Kontoinhabers,
 
 
-2.  Angaben über die Erfüllung der Abgabepflicht gemäß § 8 des
+2.  Zahl der abgegebenen Emissionszertifikate,
+
+
+3.  Angaben über die Erfüllung der Abgabepflicht gemäß § 8 des
     Brennstoffemissionshandelsgesetzes durch abgegebene
     Emissionszertifikate und
 
 
-3.  Daten über eingetragene Emissionen eines Kalenderjahres einschließlich
+4.  Daten über eingetragene Emissionen eines Kalenderjahres einschließlich
     Berichtigungen.
 
 
 
 
-(2) Die zuständige Behörde macht folgende Angaben über die vom
-Transaktionsprotokoll innerhalb eines Kalenderjahres registrierten
-abgeschlossenen Transaktionen eines Kontos ab dem 1. Januar des
-sechsten auf das betreffende Kalenderjahr folgenden Jahres in nicht
-personenbezogener Form im nationalen Emissionshandelsregister
+(2) Die zuständige Behörde macht folgende Angaben über die im
+nationalen Emissionshandelsregister innerhalb eines Kalenderjahres
+registrierten abgeschlossenen Transaktionen eines Kontos ab dem 1.
+Januar des sechsten auf das betreffende Kalenderjahr folgenden Jahres
+in nicht personenbezogener Form im nationalen Emissionshandelsregister
 öffentlich zugänglich:
 
 1.  Name des Kontoinhabers, soweit es sich nicht um personenbezogene Daten
@@ -1254,7 +1548,7 @@ personenbezogener Form im nationalen Emissionshandelsregister
 ## Abschnitt 4 - Nationale Emissionsmengen (zu den §§ 4 und 5 des Gesetzes)
 
 
-### § 34 Festlegung der jährlichen Emissionsmengen
+### § 44 Festlegung der jährlichen Emissionsmengen
 
 (1) Der prozentuale Anteil der nicht vom EU-Emissionshandel erfassten
 Brennstoffemissionen an den nicht vom EU-Emissionshandel erfassten
@@ -1360,8 +1654,22 @@ Emissionsmengen
 
 
 
+(4) Die in Absatz 2 für die Jahre 2027 bis 2030 festgelegten
+jährlichen Emissionsmengen werden unter Berücksichtigung von
+Anpassungen nach Absatz 3 anteilig reduziert um die ab dem Jahr 2027
+nicht mehr vom Anwendungsbereich des
+Brennstoffemissionshandelsgesetzes erfassten Emissionsmengen. Die
+zuständige Behörde gibt die nach Satz 1 reduzierten jährlichen
+Emissionsmengen für die Jahre 2027 bis 2030 bis zum 30. Juni 2026
+sowie eine etwaige Anpassung der jährlichen Emissionsmenge für das
+Jahr 2026 nach Absatz 3 unverzüglich im Bundesanzeiger bekannt. Im
+Fall der Verschiebung des Beginns des EU-Brennstoffemissionshandels
+nach Artikel 30k Absatz 2 der Richtlinie 2003/87/EG finden die Sätze 1
+und 2 für die in Absatz 2 für das Jahr 2027 festgelegte jährliche
+Emissionsmenge keine Anwendung.
 
-### § 35 Bestimmung der jährlichen Erhöhungsmenge
+
+### § 45 Bestimmung der jährlichen Erhöhungsmenge
 
 (1) Die zuständige Behörde hat die jährliche Erhöhungsmenge nach § 4
 Absatz 3 des Brennstoffemissionshandelsgesetzes nach Maßgabe der
@@ -1414,7 +1722,7 @@ zuständige Behörde die jährliche Erhöhungsmenge für die Kalenderjahre
 2021, 2022 und 2023 spätestens bis zum 31. Dezember 2023.
 
 
-### § 36 Bereinigter Zusatzbedarf
+### § 46 Bereinigter Zusatzbedarf
 
 (1) Für die Kalenderjahre 2021 bis 2026 bestimmt die zuständige
 Behörde jeweils den bereinigten Zusatzbedarf an Emissionszertifikaten.
@@ -1429,7 +1737,7 @@ Kalenderjahr abgegeben worden sind (Abgabemenge), Folgendes abgezogen:
     besteht, und
 
 
-2.  die für das entsprechende Kalenderjahr nach § 34 Absatz 2 festgelegte
+2.  die für das entsprechende Kalenderjahr nach § 44 Absatz 2 festgelegte
     Emissionsmenge.
 
 
@@ -1469,11 +1777,11 @@ auf ihrer Internetseite
 ## Abschnitt 5 - Schlussbestimmungen
 
 
-### § 37 Inkrafttreten
+### § 47 Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-(zu § 10 Absatz 2)
+(zu § 19 Absatz 2)
 
 ### Anlage 1 Kontoarten
 
@@ -1502,7 +1810,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
     *   Zuständige Behörde
 
-    *   Alle Vorgänge und Transaktionen gemäß §§ 21, 22 und 27
+    *   Alle Vorgänge und Transaktionen gemäß den §§ 31, 32 und 37
 
     *   entfällt
 
@@ -1513,7 +1821,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
     *   Verantwortlicher
 
-    *   Alle Vorgänge und Transaktionen gemäß §§ 11 bis 18, 21 bis 27
+    *   Alle Vorgänge und Transaktionen gemäß den §§ 20 bis 27, 31 bis 37
 
     *   Die Angaben gemäß den Anlagen 2, 4 und 5
 
@@ -1524,7 +1832,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
     *   Natürliche oder juristische Personen sowie Personengesellschaften
 
-    *   Alle Vorgänge und Transaktionen gemäß §§ 11 bis 18, 21 bis 25
+    *   Alle Vorgänge und Transaktionen gemäß den §§ 20 bis 27, 31 bis 35
 
     *   Die Angaben gemäß den Anlagen 2, 3 und 5
 
@@ -1535,7 +1843,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
     *   Zuständige Behörde
 
-    *   Alle Vorgänge und Transaktionen gemäß §§ 21 bis 24
+    *   Alle Vorgänge und Transaktionen gemäß den §§ 31 bis 34
 
     *   entfällt
 
@@ -1546,7 +1854,8 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
     *   Zuständige Behörde
 
-    *   Alle Vorgänge und Transaktionen gemäß §§ 11, 13, 15 bis 24
+    *   Alle Vorgänge und Transaktionen gemäß den §§ 20, 22, 24 bis 34 mit
+        Ausnahme von § 29
 
     *   entfällt
 
@@ -1557,14 +1866,14 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
     *   Für den Verkauf zuständige Stelle
 
-    *   Alle Vorgänge und Transaktionen gemäß §§ 11 bis 18, 20 bis 22, 24 und
-        25
+    *   Alle Vorgänge und Transaktionen gemäß den §§ 20 bis 27, 30 bis 32, 34
+        und 35
 
     *   Die Angaben gemäß den Anlagen 2, 3 und 5
 
 
 
-(zu § 12 Absatz 1)
+(zu § 21 Absatz 1)
 
 ### Anlage 2 Mit dem Antrag auf Kontoeröffnung zu übermittelnde Angaben
 
@@ -1610,7 +1919,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 
-(zu § 12 Absatz 1)
+(zu § 21 Absatz 1)
 
 ### Anlage 3 Für die Eröffnung eines Veräußerungs- oder Handelskontos zu übermittelnde Angaben
 
@@ -1632,10 +1941,7 @@ und Dokumente erforderlich:
         Europäischen Wirtschaftsraums Inhaber eines offenen Bankkontos ist,
 
 
-    c)  Umsatzsteuer-Identifikationsnummer, soweit vorhanden,
-
-
-    d)  Name, Vorname und Geburtsdatum des wirtschaftlich Berechtigten der
+    c)  Name, Vorname und Geburtsdatum des wirtschaftlich Berechtigten der
         juristischen Person oder Personengesellschaft im Sinne von Artikel 3
         Nummer 6 der Richtlinie (EU) 2015/849 des Europäischen Parlaments und
         des Rates vom 20. Mai 2015 zur Verhinderung der Nutzung des
@@ -1650,24 +1956,24 @@ und Dokumente erforderlich:
         Berechtigten ausgeübten Kontrolle,
 
 
-    e)  Liste der Geschäftsführer,
+    d)  Liste der Geschäftsführer,
 
 
-    f)  Kopie des Jahresberichts oder der letzten geprüften Bilanz oder,
+    e)  Kopie des Jahresberichts oder der letzten geprüften Bilanz oder,
         sofern keine geprüfte Bilanz vorliegt, der Bilanz mit Stempel der
         Steuerbehörde oder Bestätigung des Wirtschaftsprüfers,
 
 
-    g)  Dokumente zum Nachweis der Eintragung des Geschäftssitzes des
+    f)  Dokumente zum Nachweis der Eintragung des Geschäftssitzes des
         Kontoinhabers, sofern dies aus den gemäß Buchstabe a vorgelegten
         Dokumenten nicht klar hervorgeht,
 
 
-    h)  Führungszeugnis der vertretungsberechtigten natürlichen Person, die
+    g)  Führungszeugnis der vertretungsberechtigten natürlichen Person, die
         für den Antragsteller die Kontoeröffnung beantragt, und
 
 
-    i)  Führungszeugnis des wirtschaftlich Berechtigten oder des
+    h)  Führungszeugnis des wirtschaftlich Berechtigten oder des
         Geschäftsführers des Antragstellers.
 
 
@@ -1698,7 +2004,7 @@ und Dokumente erforderlich:
 
 
 
-(zu § 12 Absatz 1)
+(zu § 21 Absatz 1)
 
 ### Anlage 4 Für die Eröffnung eines Compliance-Kontos zu übermittelnde Angaben
 
@@ -1720,10 +2026,7 @@ und Dokumente erforderlich:
         Europäischen Wirtschaftsraums Inhaber eines offenen Bankkontos ist,
 
 
-    c)  Umsatzsteuer-Identifikationsnummer, soweit vorhanden, und
-
-
-    d)  Name, Vorname, Geburtsdatum, Geburtsort, Geburtsland und Anschrift des
+    c)  Name, Vorname, Geburtsdatum, Geburtsort, Geburtsland und Anschrift des
         wirtschaftlich Berechtigten der juristischen Person oder
         Personengesellschaft im Sinne von Artikel 3 Nummer 6 der Richtlinie
         (EU) 2015/849 einschließlich der Art und des Umfangs des
@@ -1755,7 +2058,7 @@ und Dokumente erforderlich:
 
 
 
-(zu § 16 Absatz 2)
+(zu § 25 Absatz 2)
 
 ### Anlage 5 Von dem Kontoinhaber zu übermittelnde Angaben zu kontobevollmächtigten Personen
 

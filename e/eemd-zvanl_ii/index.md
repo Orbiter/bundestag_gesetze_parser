@@ -17,7 +17,7 @@ Fundstelle
 :   BAnz: AT 27.03.2018 V2
 
 Zuletzt geändert durch
-:   Art. 3 V v. 27.11.2023 I Nr. 329
+:   Art. 2 V v. 20.10.2025 I Nr. 244
 
 
 ## Anlage II (EETS-Zulassungsvertrag)
@@ -1183,7 +1183,7 @@ Beendigung dieses Vertrages fort.
 (1) Der Anbieter muss beim Betrieb seines EETS-Teilsystems die
 folgenden Qualitätsparameter erfüllen:
 
-1.  Der Anbieter muss eine Erfassungsquote von mindestens 99,500 %
+1.  Der Anbieter muss eine Erfassungsquote von mindestens 99,600 %
     erreichen. Mit der Erfassungsquote wird die Qualität der korrekten
     Mauterkennung für Befahrungen des mautpflichtigen Straßennetzes,
     bezogen auf den vom EETS-Anbieter zu verantwortenden Anteil der
@@ -1211,19 +1211,11 @@ folgenden Qualitätsparameter erfüllen:
     Mauterheber ermittelt.
 
 
-5.  Der Anbieter muss eine Quote für abschnittsbezogene Erhebungsdaten,
-    die nicht vom Mauterhebungsdienst des Mauterhebers erzeugt wurden, von
-    mindestens 99,000 % erreichen. Die Quote für abschnittsbezogene
-    Erhebungsdaten wird durch die Messung der Korrektheit und
-    Rechtzeitigkeit der Übermittlung von abschnittsbezogenen
-    Erhebungsdaten (ABED) vom Anbieter an den Mauterheber bestimmt.
-
-
-6.  Der Anbieter, der den Mauterhebungsdienst nutzt, muss eine Quote für
-    Fahrspuren von mindestens 99,000 % erreichen. Die Quote für Fahrspuren
-    wird durch die Messung der Korrektheit und Rechtzeitigkeit der
-    Übermittlung von Fahrspuren über die Schnittstelle 005 vom Anbieter an
-    den Mauterhebungsdienst bestimmt.
+5.  Der Anbieter muss eine Quote für Fahrspuren von mindestens 99,000 %
+    erreichen. Die Quote für Fahrspuren wird durch die Messung der
+    Korrektheit und Rechtzeitigkeit der Übermittlung von Fahrspuren über
+    die Schnittstelle 005 vom Anbieter an den Mauterhebungsdienst
+    bestimmt.
 
 
 
@@ -1752,9 +1744,8 @@ EETS-Gebiet BFStrMG pro Jahr – mindestens aber in Höhe von 50 000 Euro
 Vertragsstrafen ausgenommen:
 
 1.  die Vertragsstrafe, die der Anbieter beim Unterschreiten des
-    Qualitätsparameters „Erfassungsquote EQ\_nonMED“ gemäß Ziffer 3.1.2,
-    bzw. „Erfassungsquote\_MED“ gemäß Ziffer 3.2.2, der Anlage 5 dieses
-    Vertrages verwirkt,
+    Qualitätsparameters „Erfassungsquote EQ“ gemäß Ziffer 3.1.3 der Anlage
+    5 dieses Vertrags verwirkt,
 
 
 2.  die Vertragsstrafe nach § 27 Absatz 3b. Die Summe der Vertragsstrafe
@@ -2265,71 +2256,88 @@ Anbieter resultieren.
 ## **Vertragliche Bestimmungen zur Messung und Bewertung der einzelnen
 Qualitätsparameter (QP)**
 
-### **Inhaltsverzeichnis**
+
+*    *   **Inhaltsverzeichnis**
 
 
-1.  Vorbemerkungen
+*    *   1.
+
+    *   Vorbemerkungen
 
 
-2.  Allgemeine Bestimmungen
+*    *   2.
+
+    *   Allgemeine Bestimmungen
 
 
-3.  Bestimmungen zu den Qualitätsparametern
+*    *   3.
+
+    *   Bestimmungen zu den Qualitätsparametern
 
 
-3.1 Erfassungsquote EQ\_nonMED
+*    *   3.1
+
+    *   Erfassungsquote EQ
 
 
-3.1.1 Messdatenerhebung
+*    *   3.1.1
+
+    *   Messdatenerhebung
 
 
-3.1.2 Messdatenauswertung
+*    *   3.1.2
+
+    *   Berechnung der Erfassungsquote
 
 
-3.2 Erfassungsquote EQ\_MED
+*    *   3.1.3
+
+    *   Messdatenauswertung
 
 
-3.2.1 Messdatenerhebung
+*    *   3.2
+
+    *   DSRC-Quote (QP\_DSRCTRANS)
 
 
-3.2.2 Messdatenauswertung
+*    *   3.2.1
+
+    *   Messdatenerhebung und Messdatenauswertung
 
 
-3.2.3 Kombinierte Erfassungsquote bei der Migration auf den MED
+*    *   3.3
+
+    *   Sperrlistenquote (QP\_SPERRLISTE)
 
 
-3.3 DSRC-Quote (QP\_DSRCTRANS)
+*    *   3.3.1
+
+    *   Messdatenerhebung und Messdatenauswertung
 
 
-3.3.1 Messdatenerhebung und Messdatenauswertung
+*    *   3.4
+
+    *   Nutzerlistenquote (QP\_NUTZERLISTE)
 
 
-3.4 Sperrlistenquote (QP\_SPERRLISTE)
+*    *   3.4.1
+
+    *   Messdatenerhebung und Messdatenauswertung
 
 
-3.4.1 Messdatenerhebung und Messdatenauswertung
+*    *   3.5
+
+    *   Fahrspurquote (QP\_FS)
 
 
-3.5 Nutzerlistenquote (QP\_NUTZERLISTE)
+*    *   3.6
+
+    *   Übermittlung von Tagesberichten
 
 
-3.5.1 Messdatenerhebung und Messdatenauswertung
+*    *   4.
 
-
-3.6 Quote für die abschnittsbezogenen Erhebungsdaten (QP\_ABED)
-
-
-3.7 Fahrspurquote (QP\_FS)
-
-
-3.8 Übermittlung von Mautbuchungsnachweisen
-
-
-3.9 Übermittlung von Tagesberichten
-
-
-4.  Bestimmungen zu den Audits
-
+    *   Bestimmungen zu den Audits
 
 
 
@@ -2342,11 +2350,7 @@ festgelegt wurden und das Leistungssoll beschreiben. Zur
 kontinuierlichen Überprüfung der Qualität des Systems des EETS-
 Anbieters werden täglich die Übertragung von Maut- und Auskehrdaten
 und die Einhaltung von Qualitätsparametern geprüft und ggf. auch
-Audits durchgeführt. Für EETS-Anbieter, die den vom nationalen
-Betreiber im Auftrag des Mauterhebers betriebenen Mauterhebungsdienst
-(MED) nutzen, gelten teilweise andere Qualitätsanforderungen als für
-EETS-Anbieter, die dies nicht tun. Auf diese Qualitätsanforderungen
-wird im Folgenden besonders hingewiesen.
+Audits durchgeführt.
 
 ### **2. Allgemeine Bestimmungen**
 
@@ -2387,77 +2391,71 @@ und bestimmt.
 Folgende Qualitätsparameter werden zur Überwachung der Erfüllung des
 Leistungssolls herangezogen.
 
-### **3.1 Erfassungsquote EQ\_nonMED**
+### **3.1 Erfassungsquote EQ**
 
-Die Erfassungsquote EQ\_nonMED wird ausschließlich für EETS-Anbieter
-angewendet, die den Mauterhebungsdienst des Mauterhebers nicht nutzen.
+Die Erfassungsquote EQ dient der Bestimmung der Qualität der korrekten
+Mauterhebung für Befahrungen des mautpflichtigen Straßennetzes,
+bezogen auf den vom EETS-Anbieter zu verantwortenden Anteil der
+Mauterhebung.
 
-Die Erfassungsquote EQ\_nonMED dient der Bestimmung der Qualität der
-korrekten Erkennung befahrener Abschnitte des mautpflichtigen
-Straßennetzes.
+Es wird zunächst für jedes Bordgerät eine individuelle Erfassungsquote
+EQ\_OBU ermittelt. Die Bordgeräte werden daraufhin in zwei Kategorien
+unterteilt: K\_EP und K\_MED. Bordgeräte, deren EQ\_OBU unter einem
+definierten Grenzwert liegen, werden in die Kategorie K\_EP
+eingruppiert, alle anderen Bordgeräte in die Kategorie K\_MED.
 
-Die Erfassungsquote EQ\_nonMED berechnet sich wie folgt:
+Bei Bordgeräten der Kategorie K\_EP wird davon ausgegangen, dass nicht
+oder nicht korrekt erfolgte Mauterhebungen durch die Qualität des
+Bordgeräts verursacht wurden. Diese werden als vom EETS-Anbieter zu
+verantwortende Fehler der Mauterhebung betrachtet.
 
-*    *   EQ                        = 0,9 \*
-        FM                        + 0,1 \*
-        FS
+Bei Bordgeräten der Kategorie K\_MED wird davon ausgegangen, dass
+nicht oder nicht korrekt erfolgte Mauterhebungen durch die Qualität
+des Mauterhebungsdienstes verursacht wurden. Fehler, die bei den
+Bordgeräten der Kategorie K\_MED auftreten, werden als vom
+Mauterhebungsdienst zu verantwortende Fehler betrachtet.
 
+Die Erfassungsquote EQ sowie die individuelle Erfassungsquote je OBU
+EQ\_OBU werden gleichermaßen wie folgt berechnet:
 
-*    *   mit
+EQ bzw. EQ\_OBU              = 0,9 \*
+FM              + 0,1 \*
+FS
+mit
 
+FM              (Fremdauslesung mobil): DSRC-Auslesungen mit mobilen
+Kontrolleinrichtungen
 
-*    *   FM                         (Fremdauslesung mobil): DSRC-Auslesungen
-        mit mobilen Kontrolleinrichtungen
+FS              (Fremdauslesung stationär): DSRC-Auslesungen mit
+ortsgebundenen (stationären) Kontrolleinrichtungen
 
+Für die Ermittlung der Teilquoten
+FM              und
+FS              gilt:
 
-*    *   FS                         (Fremdauslesung stationär): DSRC-
-        Auslesungen mit ortsgebundenen (stationären) Kontrolleinrichtungen
+![bgbl1_2025_j02440_0010.jpg](bgbl1_2025_j02440_0010.jpg)
+![bgbl1_2025_j02440_0020.jpg](bgbl1_2025_j02440_0020.jpg)
+MFM
+inkorrekt             : Anzahl der in der Stichprobe mit mobilen
+Kontrollen erfassten **nicht korrekt**              vorgenommenen
+Mauterhebungen im automatischen Mauterhebungssystem.
 
+MFM
+gesamt             : Anzahl der in der Stichprobe mit mobilen
+Kontrollen erfassten **korrekt und nicht korrekt**
+vorgenommenen Mauterhebungen im automatischen Mauterhebungssystem.
 
-*    *
+MFS
+inkorrekt             : Anzahl der in der Stichprobe mit (stationären)
+Kontrollen erfassten **nicht korrekt**              vorgenommenen
+Mauterhebungen im automatischen Mauterhebungssystem.
 
-*    *   Für die Ermittlung der Teilquoten
-        FM                         und
-        FS                         gilt:
+MFS
+gesamt             : Anzahl der in der Stichprobe mit (stationären)
+Kontrollen erfassten **korrekt und nicht korrekt**
+vorgenommenen Mauterhebungen im automatischen Mauterhebungssystem.
 
-
-*    *        ![banzat_2021_20211029v2_05.jpg](banzat_2021_20211029v2_05.jpg)
-
-*    *
-
-*    *        ![banzat_2021_20211029v2_06.jpg](banzat_2021_20211029v2_06.jpg)
-
-*    *
-
-*    *   MFMkorrekt                       : Anzahl der in der Stichprobe mit
-        mobilen Kontrollen erfassten **korrekt**
-        vorgenommenen Mauterhebungen im automatischen Mauterhebungssystem.
-
-
-*    *
-
-*    *   MFMgesamt                       : Anzahl der in der Stichprobe mit
-        mobilen Kontrollen erfassten korrekt und **nicht korrekt**
-        vorgenommenen Mauterhebungen im automatischen Mauterhebungssystem.
-
-
-*    *
-
-*    *   MFSkorrekt                       : Anzahl der in der Stichprobe mit
-        stationären Kontrollen erfassten **korrekt**
-        vorgenommenen Mauterhebungen im automatischen Mauterhebungssystem.
-
-
-*    *
-
-*    *   MFSgesamt                       : Anzahl der in der Stichprobe mit
-        stationären Kontrollen erfassten korrekt und **nicht korrekt**
-        vorgenommenen Mauterhebungen im automatischen Mauterhebungssystem.
-
-
-
-
-### **3.1.1 Messdatenerhebung**
+### **3.1.1 Messdatenerhebung**
 
 Die Datenerhebung erfolgt durch DSRC-Auslesung der in den
 kontrollierten Fahrzeugen angebrachten EETS-Fahrzeuggeräte. Die
@@ -2466,402 +2464,142 @@ ausgestatteten Fahrzeugen, bei denen eine DSRC-Auslesung erfolgreich
 durchgeführt wurde und bei denen ein mautpflichtiger Abschnitt durch
 den Mauterheber eindeutig bestimmt werden kann. Die Stichprobe besteht
 des Weiteren nur aus jenen Fahrzeugen, in denen das EETS-Fahrzeuggerät
-Erhebungsbereitschaft anzeigt. Die Ermittlung der Erfassungsquote
-EQ\_nonMED erfolgt auf der Basis von Daten, die im Rahmen der
-Kontrolle im gesamten mautpflichtigen Streckennetz erhoben werden.
+Erhebungsbereitschaft anzeigt. Die Ermittlung der Erfassungsquote EQ
+erfolgt auf der Basis von Daten, die im Rahmen der Kontrolle im
+gesamten mautpflichtigen Streckennetz erhoben werden.
 
-### **3.1.2 Messdatenauswertung**
+### **3.1.2 Berechnung der Erfassungsquote**
 
-Eine Mauterhebung gilt als korrekt, wenn für das eindeutig
-identifizierbare Fahrzeug der in den abschnittsbezogenen
-Erhebungsdaten übermittelte erkannte Abschnitt dem aufgrund der DSRC-
-Daten der Kontrolleinrichtungen des Mauterhebers bestimmten
-tatsächlich befahrenen Abschnitt entspricht. Andernfalls gilt die
-Mauterhebung als nicht korrekt. Ausgenommen sind jeweils diejenigen
+Für jedes Bordgerät des EETS-Anbieters wird für den jeweiligen
+Betrachtungszeitraum eine individuelle Erfassungsquote EQ\_OBU gemäß
+obiger Formel ermittelt. Ist die individuelle Erfassungsquote eines
+Bordgeräts im jeweiligen Betrachtungszeitraum kleiner als 95 %, so
+wird das Bordgerät in die Kategorie K\_EP eingruppiert, andernfalls in
+die Kategorie K\_MED.
+
+Die Erfassungsquote EQ für den EETS-Anbieter errechnet sich aus der
+obigen Formel, wobei für die Anzahl der inkorrekten Messfälle
+MFM
+inkorrekt              und
+MFS
+inkorrekt **nur die inkorrekten Mauterhebungen der Bordgeräte der
+Kategorie K\_EP**              berücksichtigt werden. In die
+Ermittlung der Anzahl der gesamten Messfälle
+MFM
+gesamt              und
+MFS
+gesamt              gehen die Messfälle aller Bordgeräte des EETS-
+Anbieters unabhängig von ihrer Kategorie ein.
+
+### **3.1.3 Messdatenauswertung**
+
+Eine Mauterhebung gilt für die Ermittlung der EQ bzw. EQ\_OBU bezogen
+auf den vom EETS-Anbieter zu verantwortenden Anteil als korrekt, wenn
+
+1.  für das Fahrzeug, das von der Kontrolleinrichtung mittels DSRC
+    identifiziert wurde, der tatsächlich befahrene Abschnitt, der aufgrund
+    der für die Kontrolleinrichtung festgestellten Positionsdaten
+    ermittelt wurde, dem Abschnitt in den abschnittsbezogenen
+    Erhebungsdaten entspricht, der vom Mauterheber inklusive eventueller
+    Lückenschlüsse erkannt wurde (wobei mögliche Abweichungen des DSRC-
+    Kennzeichens zum tatsächlich am Fahrzeug angebrachten Kennzeichen
+    nicht berücksichtigt werden; Maut von Falschdeklarierern gilt im
+    Rahmen der Ermittlung der Erfassungsquote EQ als korrekt erhoben),
+    **oder**
+
+
+2.  der EETS-Anbieter nachweist (zum Beispiel durch
+    Mautbuchungsnachweise), dass ein Fahrzeug durch die
+    Kontrolleinrichtung mittels DSRC in Gegenrichtung auf einer
+    Bundesstraße fahrend identifiziert wurde und dafür in den
+    Mautbuchungsnachweisen des Mauterhebers ebenfalls der korrekte
+    Abschnitt zugeordnet wurde, **oder**
+
+
+3.  **nur für den Fall der Ermittlung der EQ**                    das
+    Bordgerät der Kategorie K\_MED zugeordnet wurde.
+
+
+
+
+Sind die Bedingungen nach Satz 1 nicht erfüllt, so gilt die
+Mauterhebung bezogen auf den vom EETS-Anbieter zu verantwortenden
+Anteil als **nicht korrekt**             . Ausgenommen sind diejenigen
 Fälle, in denen der Mautpflichtige nachweislich gegen seine
 Mitwirkungspflicht verstoßen oder eine unerlaubte Manipulation
 vorgenommen hat. Die Beweislast dafür liegt beim EETS-Anbieter.
 
-Die Erfassungsquote EQ\_nonMED wird für jeden Kalendermonat durch den
+Die Erfassungsquote EQ wird für jeden Kalendermonat durch den
 Mauterheber als Zwischenergebnis ermittelt und auf drei Stellen nach
 dem Komma kaufmännisch gerundet. Die Messdatenauswertung erfolgt durch
 den Mauterheber. Der Mauterheber stellt dem EETS-Anbieter spätestens
-30 Tage nach Ende des Kalendermonats die ermittelte Erfassungsquote
-EQ\_nonMED sowie Informationen und die zugrunde gelegten eigenen Daten
-zu identifizierten Schlechtfällen zur Verfügung. Der EETS-Anbieter
-kann diese Informationen und Daten prüfen und dem Mauterheber das
-Ergebnis seiner Prüfung sowie eventuelle Einwendungen innerhalb von 30
-Tagen nach Übermittlung der Ergebnisse durch den Mauterheber
-übermitteln. Einwendungen gegen das vom Mauterheber übermittelte
-Ergebnis sind nur insoweit zulässig, als der EETS-Anbieter nachweist,
-dass die Ermittlung der Erfassungsquote EQ\_nonMED entgegen den
-Vorgaben dieses Anhangs QP sowie ggf. der Verfahrensbeschreibung
-erfolgt ist oder die zugrunde gelegten eigenen Daten des Mauterhebers
-unrichtig sind. Der Mauterheber wird das Ergebnis der Prüfung durch
-den EETS-Anbieter innerhalb von weiteren 30 Tagen prüfen und die
-Erfassungsquote EQ\_nonMED für den jeweiligen Kalendermonat endgültig
-feststellen und in Form eines Berichts übermitteln.
-
-Basierend auf den Positionsdaten der Kontrolleinrichtung wird jedem
-erhobenen Messfall ein Abschnitt zugeordnet. Ist keine eindeutige
-Zuordnung zu einem Abschnitt möglich, dann wird der zugehörige
-Messfall verworfen.
-
-Einem Gutfall für die Messung der Erfassungsquote EQ\_nonMED muss eine
-korrekte Erhebung in allen folgenden Unterpunkten zugrunde liegen. Als
-Schlechtfall gilt jeder Fall, dem mindestens in einem der folgenden
-Unterpunkte keine korrekte Erhebung zugrunde liegt:
-
-1.  Eine durch den EETS-Anbieter erhobene Maut gilt im Rahmen der
-    Ermittlung der Erfassungsquote EQ\_nonMED als korrekt erhoben, wenn
-    die Höhe der tatsächlich erhobenen Maut der Höhe der geschuldeten Maut
-    entspricht, die sich bei Anwendung der Regeln zur Ermittlung der
-    Mauthöhe, unter Berücksichtigung der jeweiligen Gebührenklassen des
-    kontrollierten Fahrzeugs, ergibt. Die Identifizierung des
-    kontrollierten Fahrzeugs erfolgt ausschließlich über das Kennzeichen
-    aus den DSRC-Daten. Mögliche Abweichungen des DSRC-Kennzeichens zum
-    tatsächlich am Fahrzeug angebrachten Kennzeichen werden nicht
-    berücksichtigt. Maut von Falschdeklarierern gilt im Rahmen der
-    Ermittlung der Erfassungsquote EQ\_nonMED als korrekt erhoben. Alle
-    Fälle von Nichtzahlungen bei Fahrzeugen, die mit einem EETS-
-    Fahrzeuggerät ausgestattet sind und für die auf Basis des DSRC-
-    Kennzeichens keine Erhebung erfolgte, werden als nicht korrekt erhoben
-    angesehen. Ausgenommen sind jeweils diejenigen Fälle, in denen der
-    Mautschuldner gegen seine gesetzliche Mitwirkungspflicht verstößt oder
-    eine unerlaubte Manipulation vorgenommen hat. Die Beweislast dafür
-    liegt beim EETS-Anbieter.
-
-
-2.  Eine Mauterhebung gilt als korrekt, wenn für das Fahrzeug, das von der
-    Kontrolleinrichtung mittels DSRC identifiziert wurde, der tatsächlich
-    befahrene Abschnitt, der aufgrund der für die Kontrolleinrichtung
-    festgestellten Positionsdaten ermittelt wurde, dem vom EETS-Anbieter
-    in den abschnittsbezogenen Erhebungsdaten übermittelten erkannten
-    Abschnitt inklusive eventueller Lückenschlüsse entspricht.
-
-
-3.  Eine Mauterhebung gilt ebenfalls als korrekt, sofern der EETS-Anbieter
-    nachweist (zum Beispiel durch Mauterhebungsdaten), dass ein Fahrzeug
-    durch die Kontrolleinrichtung mittels DSRC in Gegenrichtung auf einer
-    Bundesstraße fahrend identifiziert wurde und dafür in den
-    abschnittsbezogenen Erhebungsdaten des EETS-Anbieters ebenfalls der
-    korrekte Abschnitt zugeordnet wurde. Andernfalls gilt die Mauterhebung
-    als nicht korrekt. Ausgenommen sind jeweils diejenigen Fälle, in denen
-    der Mautschuldner nachweislich gegen seine gesetzliche
-    Mitwirkungspflicht verstoßen oder eine unerlaubte Manipulation
-    vorgenommen hat. Die Beweislast dafür liegt beim EETS-Anbieter.
-
-
-
-
-Der Mauterheber behält sich vor, weitere Details der praktischen
-Umsetzung der Messdatenauswertung in einer verbindlichen
-Verfahrensbeschreibung festzulegen, die sich innerhalb des in diesem
-Anhang QP vorgegebenen Rahmens bewegt.
-
-Der EETS-Anbieter muss einen Zielwert für **die Erfassungsquote
-EQ\_nonMED**              von mindestens **99,500 %**
-erreichen. Falls der EETS-Anbieter einen Zielwert von 95,000 %
-innerhalb eines Kalenderjahres in mehr als zwei Monaten oder in zwei
-aufeinanderfolgenden Monaten unterschreitet, ist der Mauterheber
-berechtigt, den Vertrag mit dem EETS-Anbieter zu kündigen (§ 28 Absatz
-3 Satz 2 Nummer 16 EETS-Zulassungsvertrag). Wird die Erfassungsquote
-EQ\_nonMED in Höhe von 99,500 % nicht erreicht, verwirkt der EETS-
-Anbieter eine Vertragsstrafe in Höhe von 0,05 % der ausgekehrten
-Mauteinnahmen im relevanten Betrachtungszeitraum je angefangenen
-Zehntelprozentpunkt der Unterschreitung des Zielwerts der
-Erfassungsquote EQ\_nonMED. Der relevante Betrachtungszeitraum umfasst
-das Kalenderjahr. Die ausgekehrten Mauteinnahmen (ME) im relevanten
-Betrachtungszeitraum t ermitteln sich wie folgt:
-
-*    *   ME
-        t                        =
-        WZ
-        t                        -
-        R
-        t                        -
-        Z
-        t
-
-
-*    *   WZ
-        t                        =
-
-    *   auf dem Konto des Mauterhebers gemäß § 5 des EETS-Zulassungsvertrags
-        und gemäß den Vorgaben der EEMD-Gebietsvorgabenverordnung in Summe
-        wertgestellte Zahlungen in Euro im Betrachtungszeitraum
-
-
-*    *   R
-        t                        =
-
-    *   Betrag in Euro der gemäß Anlage 9, Nummer 1.3 des EETS-
-        Zulassungsvertrags positiv beschiedenen Erstattungsverlangen im
-        Betrachtungszeitraum
-
-
-*    *   Z
-        t                        =
-
-    *   Betrag in Euro der im Betrachtungszeitraum vom EETS-Anbieter
-        ausgekehrten Verzugszinsen
-
-
-
-Der Betrachtungszeitraum umfasst das Kalenderjahr. Sofern ein
-relevanter Betrachtungszeitraum nicht das gesamte Kalenderjahr
-umfasst, wird die Vertragsstrafe monatsgenau anteilig verwirkt (pro
-rata temporis).
-
-### **3.2 Erfassungsquote EQ\_MED**
-
-Die Erfassungsquote EQ\_MED wird ausschließlich für EETS-Anbieter
-angewendet, die den Mauterhebungsdienst des Mauterhebers nutzen. Die
-Erfassungsquote EQ\_MED dient der Bestimmung der Qualität der
-korrekten Mauterhebung für Befahrungen des mautpflichtigen
-Straßennetzes, bezogen auf den vom EETS-Anbieter zu verantwortenden
-Anteil der Mauterhebung. Die Erfassungsquote EQ\_MED berechnet sich
-wie folgt:
-
-*    *   EQ                        = 0,9 \*
-        FM                        + 0,1 \*
-        FS
-
-
-*    *   mit
-
-
-*    *   FM                         (Fremdauslesung mobil): DSRC-Auslesungen
-        mit mobilen Kontrolleinrichtungen
-
-
-*    *   FS                         (Fremdauslesung stationär): DSRC-
-        Auslesungen mit ortsgebundenen (stationären) Kontrolleinrichtungen
-
-
-*    *
-
-*    *   Für die Ermittlung der Teilquoten
-        FM                         und
-        FS                         gilt:
-
-
-*    *        ![banzat_2021_20211029v2_05.jpg](banzat_2021_20211029v2_05.jpg)
-
-*    *
-
-*    *        ![banzat_2021_20211029v2_06.jpg](banzat_2021_20211029v2_06.jpg)
-
-*    *
-
-*    *   MFMkorrekt                       : Anzahl der in der Stichprobe mit
-        mobilen Kontrollen erfassten **korrekt**
-        vorgenommenen Mauterhebungen im automatischen Mauterhebungssystem.
-
-
-*    *
-
-*    *   MFMgesamt                       : Anzahl der in der Stichprobe mit
-        mobilen Kontrollen erfassten korrekt und **nicht korrekt**
-        vorgenommenen Mauterhebungen im automatischen Mauterhebungssystem.
-
-
-*    *
-
-*    *   MFSkorrekt                       : Anzahl der in der Stichprobe mit
-        (stationären) Kontrollen erfassten **korrekt**
-        vorgenommenen Mauterhebungen im automatischen Mauterhebungssystem.
-
-
-*    *
-
-*    *   MFSgesamt                       : Anzahl der in der Stichprobe mit
-        (stationären) Kontrollen erfassten korrekt und **nicht korrekt**
-        vorgenommenen Mauterhebungen im automatischen Mauterhebungssystem.
-
-
-
-
-### **3.2.1 Messdatenerhebung**
-
-Die Datenerhebung erfolgt durch DSRC-Auslesung der in den
-kontrollierten Fahrzeugen angebrachten EETS-Fahrzeuggeräte. Die
-Stichprobe besteht aus allen mit einem EETS-Fahrzeuggerät
-ausgestatteten Fahrzeugen, bei denen eine DSRC-Auslesung erfolgreich
-durchgeführt wurde und bei denen ein mautpflichtiger Abschnitt durch
-den Mauterheber eindeutig bestimmt werden kann. Die Stichprobe besteht
-des Weiteren nur aus jenen Fahrzeugen, in denen das EETS-Fahrzeuggerät
-Erhebungsbereitschaft anzeigt. Die Ermittlung der Erfassungsquote
-EQ\_MED erfolgt auf der Basis von Daten, die im Rahmen der Kontrolle
-im gesamten mautpflichtigen Streckennetz erhoben werden.
-
-### **3.2.2 Messdatenauswertung**
-
-Eine Mauterhebung gilt bezogen auf den vom EETS-Anbieter zu
-verantwortenden Anteil als korrekt, wenn
-
-1.  für das eindeutig identifizierbare Fahrzeug der in den
-    abschnittsbezogenen Erhebungsdaten übermittelte erkannte Abschnitt dem
-    aufgrund der DSRC-Daten der Kontrolleinrichtungen des Mauterhebers
-    bestimmten tatsächlich befahrenen Abschnitt entspricht, **oder**
-
-
-2.  für das eindeutig identifizierbare Fahrzeug vom EETS-Anbieter
-    Fahrspuren an den Mauterhebungsdienst des Mauterhebers übermittelt
-    wurden, die
-
-    a.  Positionsdaten zum Zeitpunkt der DSRC-Auslesung umfassen und
-
-
-    b.  bei denen keine Abweichungen zu den im Dokument 4.3.14 (SST005, Anlage
-        2 Ortungsspezifikation MED) beschriebenen Anforderungen identifiziert
-        werden konnten.
-
-
-
-
-
-
-Andernfalls gilt die Mauterhebung bezogen auf den vom EETS-Anbieter zu
-verantwortenden Anteil als **nicht korrekt**             . Ausgenommen
-sind jeweils diejenigen Fälle, in denen der Mautpflichtige
-nachweislich gegen seine Mitwirkungspflicht verstoßen oder eine
-unerlaubte Manipulation vorgenommen hat. Die Beweislast dafür liegt
-beim EETS-Anbieter.
-
-Die Erfassungsquote EQ\_MED wird für jeden Kalendermonat durch den
-Mauterheber als Zwischenergebnis ermittelt und auf drei Stellen nach
-dem Komma kaufmännisch gerundet. Die Messdatenauswertung erfolgt durch
-den Mauterheber. Der Mauterheber stellt dem EETS-Anbieter spätestens
-30 Tage nach Ende des Kalendermonats die ermittelte Erfassungsquote
-EQ\_MED sowie Informationen und die zugrunde gelegten eigenen Daten zu
-den, bezogen auf den vom EETS-Anbieter zu verantwortenden Anteil der
+30 Tage nach Ende des Kalendermonats die ermittelte Erfassungsquote EQ
+sowie Informationen und die zugrunde gelegten eigenen Daten zu den,
+bezogen auf den vom EETS-Anbieter zu verantwortenden Anteil der
 Mauterhebung, identifizierten Schlechtfällen zur Verfügung. Der EETS-
 Anbieter kann diese Informationen und Daten prüfen und dem Mauterheber
 das Ergebnis seiner Prüfung sowie eventuelle Einwendungen innerhalb
 von 30 Tagen nach Übermittlung der Ergebnisse durch den Mauterheber
-übermitteln. Einwendungen gegen das vom Mauterheber übermittelte
-Ergebnis sind nur insoweit zulässig, als der EETS-Anbieter nachweist,
-dass die Ermittlung der Erfassungsquote EQ\_MED entgegen den Vorgaben
-dieses Anhangs QP sowie ggf. der Verfahrensbeschreibung erfolgt ist
-oder die zugrunde gelegten eigenen Daten des Mauterhebers unrichtig
-sind. Der Mauterheber wird das Ergebnis der Prüfung durch den EETS-
-Anbieter innerhalb von weiteren 30 Tagen prüfen und die
-Erfassungsquote EQ\_MED für den jeweiligen Kalendermonat endgültig
-feststellen und in Form eines Berichts übermitteln.
-
-Für eventuelle Vertragsstrafen ist das Ergebnis nach obenstehender
-Formel unter Berücksichtigung der Werte für den jeweiligen
-Betrachtungszeitraum heranzuziehen.
+seinerseits übermitteln. Einwendungen gegen das vom Mauterheber
+übermittelte Ergebnis sind nur insoweit zulässig, als der EETS-
+Anbieter nachweist, dass die Ermittlung der Erfassungsquote EQ
+entgegen den Vorgaben dieses Anhangs QP sowie ggf. entgegen der
+Verfahrensbeschreibung erfolgt ist oder die zugrunde gelegten eigenen
+Daten des Mauterhebers unrichtig sind. Der Mauterheber prüft
+seinerseits das Ergebnis der Prüfung durch den EETS-Anbieter innerhalb
+von weiteren 30 Tagen nach Übermittlung und stellt die Erfassungsquote
+EQ für den jeweiligen Kalendermonat endgültig fest und übermittelt
+diese Feststellung in Form eines Berichts.
 
 Basierend auf den Positionsdaten der Kontrolleinrichtung wird jedem
 erhobenen Messfall ein Abschnitt zugeordnet. Ist keine eindeutige
-Zuordnung zu einem Abschnitt möglich, dann wird der zugehörige
-Messfall verworfen.
-
-Einem Gutfall für die Messung der Erfassungsquote EQ\_MED muss eine
-korrekte Erhebung in allen folgenden Unterpunkten zugrunde liegen. Als
-Schlechtfall gilt jeder Fall, dem mindestens in einem der folgenden
-Unterpunkte keine korrekte Erhebung zugrunde liegt:
-
-1.  Die Identifizierung des kontrollierten Fahrzeugs erfolgt
-    ausschließlich über das Kennzeichen aus den DSRC-Daten. Mögliche
-    Abweichungen des DSRC-Kennzeichens zum tatsächlich am Fahrzeug
-    angebrachten Kennzeichen werden nicht berücksichtigt. Maut von
-    Falschdeklarierern gilt im Rahmen der Ermittlung der Erfassungsquote
-    EQ\_MED als korrekt erhoben. Alle Fälle von Nichtzahlungen bei
-    Fahrzeugen, die mit einem EETS-Fahrzeuggerät ausgestattet sind und für
-    die auf Basis des DSRC-Kennzeichens keine Erhebung erfolgte, werden
-    als nicht korrekt erhoben angesehen. Ausgenommen sind jeweils
-    diejenigen Fälle, in denen der Mautschuldner gegen seine gesetzliche
-    Mitwirkungspflicht verstößt oder eine unerlaubte Manipulation
-    vorgenommen hat. Die Beweislast dafür liegt beim EETS-Anbieter.
-
-
-2.  Eine Mauterhebung gilt als korrekt, wenn für das Fahrzeug, das von der
-    Kontrolleinrichtung mittels DSRC identifiziert wurde, der tatsächlich
-    befahrene Abschnitt, der aufgrund der für die Kontrolleinrichtung
-    festgestellten Positionsdaten ermittelt wurde, dem Abschnitt in den
-    abschnittsbezogenen Erhebungsdaten entspricht, der vom Mauterheber
-    inklusive eventueller Lückenschlüsse erkannt wurde.
-
-
-3.  Eine Mauterhebung gilt ebenfalls als korrekt, sofern der EETS-Anbieter
-    nachweist (zum Beispiel durch Mautbuchungsnachweise), dass ein
-    Fahrzeug durch die Kontrolleinrichtung mittels DSRC in Gegenrichtung
-    auf einer Bundesstraße fahrend identifiziert wurde und dafür in den
-    Mautbuchungsnachweisen des Mauterhebers ebenfalls der korrekte
-    Abschnitt zugeordnet wurde. Andernfalls gilt die Mauterhebung als
-    nicht korrekt. Ausgenommen sind jeweils diejenigen Fälle, in denen der
-    Mautschuldner nachweislich gegen seine gesetzliche Mitwirkungspflicht
-    verstoßen oder eine unerlaubte Manipulation vorgenommen hat. Die
-    Beweislast dafür liegt beim EETS-Anbieter.
-
-
-4.  Eine Mauterhebung gilt ebenfalls als korrekt, sofern der EETS-Anbieter
-    nachweist, dass von ihm Fahrspuren an den Mauterhebungsdienst des
-    Mauterhebers übermittelt wurden, die (a) Positionsdaten zum Zeitpunkt
-    der DSRC-Auslesung umfassen und (b) für die keine Abweichungen von
-    denen in Dokument 4.3.14 (SST005, Anlage 2 Ortungsspezifikation MED)
-    beschriebenen Anforderungen identifiziert werden konnten. Ausgenommen
-    sind jeweils diejenigen Fälle, in denen der Mautschuldner nachweislich
-    gegen seine gesetzliche Mitwirkungspflicht verstoßen oder eine
-    unerlaubte Manipulation vorgenommen hat. Die Beweislast dafür liegt
-    beim EETS-Anbieter.
-
-
+Zuordnung zu einem Abschnitt möglich, so wird der zugehörige Messfall
+verworfen.
 
 Der Mauterheber behält sich vor, weitere Details der praktischen
 Umsetzung der Messdatenauswertung in einer verbindlichen
 Verfahrensbeschreibung festzulegen, die sich innerhalb des in diesem
 Anhang QP vorgegebenen Rahmens bewegt.
 
-Der EETS-Anbieter muss einen Zielwert für die **Erfassungsquote
-EQ\_MED**              von mindestens **99,500 %**
-erreichen. Falls der EETS-Anbieter einen Zielwert von 95,000 %
-innerhalb eines Kalenderjahres in mehr als zwei Monaten oder in zwei
-aufeinanderfolgenden Monaten unterschreitet, ist der Mauterheber
-berechtigt, den Vertrag mit dem EETS-Anbieter zu kündigen (§ 28 Absatz
-3 Satz 2 Nummer 16 EETS-Zulassungsvertrag). Wird die Erfassungsquote
-EQ\_MED in Höhe von 99,500 % nicht erreicht, verwirkt der Anbieter
-eine Vertragsstrafe in Höhe von 0,05 % der ausgekehrten Mauteinnahmen
-im relevanten Betrachtungszeitraum je angefangenem Zehntelprozentpunkt
-der Unterschreitung des Zielwerts der Erfassungsquote EQ\_MED. Der
-relevante Betrachtungszeitraum umfasst das Kalenderjahr. Die
-ausgekehrten Mauteinnahmen (ME) im relevanten Betrachtungszeitraum t
-ermitteln sich wie folgt:
+Der EETS-Anbieter muss einen Zielwert für die **Erfassungsquote EQ**
+von mindestens **99,600 %**              erreichen. Der Bonussatz für
+die Berechnung des Bonus gemäß EETS-Zulassungsvertrag Anlage 9 Ziffer
+1\.4 beträgt 15,625 %.
 
-*    *   ME
-        t                        =
-        WZ
-        t                        -
-        R
-        t                        -
-        Z
-        t
+Unterschreitet der EETS-Anbieter einen Zielwert von 95,000 % innerhalb
+eines Kalenderjahres in mehr als zwei Monaten oder in zwei
+aufeinanderfolgenden Monaten, so ist der Mauterheber berechtigt, den
+Vertrag mit dem EETS-Anbieter zu kündigen (§ 28 Absatz 3 Satz 2 Nummer
+16 des EETS-Zulassungsvertrags).
 
+Wird die Erfassungsquote EQ in Höhe von 99,600 % nicht erreicht,
+verwirkt der Anbieter eine Vertragsstrafe in Höhe von 0,050 % der
+ausgekehrten Mauteinnahmen im relevanten Betrachtungszeitraum je
+angefangenem Zehntelprozentpunkt der Unterschreitung des Zielwerts der
+Erfassungsquote EQ. Der relevante Betrachtungszeitraum umfasst das
+Kalenderjahr. Die ausgekehrten Mauteinnahmen (ME) im relevanten
+Betrachtungszeitraum t sind wie folgt zu ermitteln:
 
-*    *   WZ
-        t                        =
-
-    *   auf dem Konto des Mauterhebers gemäß § 5 des EETS-Zulassungsvertrags
-        und gemäß den Vorgaben der EEMD-Gebietsvorgabenverordnung in Summe
-        wertgestellte Zahlungen in Euro im Betrachtungszeitraum
+MEt= WZ
+    t                    –
+    R
+    t                    –
+    Z
+    t
 
 
-*    *   R
-        t                        =
-
-    *   Betrag in Euro der gemäß Anlage 9 Nummer 1.3 des EETS-
-        Zulassungsvertrags positiv beschiedenen Erstattungsverlangen im
-        Betrachtungszeitraum
+WZt= auf dem Konto des Mauterhebers gemäß § 5 des EETS-Zulassungsvertrags
+    und gemäß den Vorgaben der EEMD-Gebietsvorgabenverordnung in Summe
+    wertgestellte Zahlungen in Euro im Betrachtungszeitraum
 
 
-*    *   Z
-        t                        =
+Rt= Betrag in Euro der gemäß Anlage 9 Nummer 1.3 des EETS-
+    Zulassungsvertrags positiv beschiedenen Erstattungsverlangen im
+    Betrachtungszeitraum
 
-    *   Betrag in Euro der im Betrachtungszeitraum vom EETS-Anbieter
-        ausgekehrten Verzugszinsen
+
+Zt= Betrag in Euro der im Betrachtungszeitraum vom EETS-Anbieter
+    ausgekehrten Verzugszinsen
 
 
 
@@ -2870,97 +2608,7 @@ relevanter Betrachtungszeitraum nicht das gesamte Kalenderjahr
 umfasst, wird die Vertragsstrafe monatsgenau anteilig verwirkt (pro
 rata temporis).
 
-### **3.2.3 Kombinierte Erfassungsquote bei der Migration auf den
-MED**
-
-Für Betrachtungszeiträume, die einen Zeitraum umfassen, in dem ein
-EETS-Anbieter seine Bordgeräte auf den Mauterhebungsdienst migriert
-(Migrationsphase), wird eine kombinierte Erfassungsquote ermittelt.
-Die kombinierte Erfassungsquote wird nach der folgenden Formel
-ermittelt:
-
-*    *   EQ                        = 0,9 \*
-        FM                        + 0,1 \*
-        FS
-
-
-*    *   mit
-
-
-*    *   FM                         (Fremdauslesung mobil): DSRC-Auslesungen
-        mit mobilen Kontrolleinrichtungen
-
-
-*    *   FS                         (Fremdauslesung stationär): DSRC-
-        Auslesungen mit ortsgebundenen (stationären) Kontrolleinrichtungen
-
-
-*    *
-
-*    *   Für die Ermittlung der Teilquoten
-        FM                         und
-        FS                         gilt:
-
-
-*    *        ![banzat_2021_20211029v2_05.jpg](banzat_2021_20211029v2_05.jpg)
-
-*    *
-
-*    *        ![banzat_2021_20211029v2_06.jpg](banzat_2021_20211029v2_06.jpg)
-
-*    *
-
-*    *   MFMkorrekt                       : Anzahl der in der Stichprobe mit
-        mobilen Kontrollen erfassten **korrekt**
-        vorgenommenen Mauterhebungen im automatischen Mauterhebungssystem.
-
-
-*    *
-
-*    *   MFMgesamt                       : Anzahl der in der Stichprobe mit
-        mobilen Kontrollen erfassten korrekt und **nicht korrekt**
-        vorgenommenen Mauterhebungen im automatischen Mauterhebungssystem.
-
-
-*    *
-
-*    *   MFSkorrekt                       : MFSkorrekt: Anzahl der in der
-        Stichprobe mit (stationären) Kontrollen erfassten **korrekt**
-        vorgenommenen Mauterhebungen im automatischen Mauterhebungssystem.
-
-
-*    *
-
-*    *   MFSgesamt                       : Anzahl der in der Stichprobe mit
-        (stationären) Kontrollen erfassten korrekt und **nicht korrekt**
-        vorgenommenen Mauterhebungen im automatischen Mauterhebungssystem.
-
-
-*    *   **Hinweis**                       : In die Anzahl
-        MFMkorrekt                         und
-        MFMgesamt                         bzw.
-        MFSkorrekt                         und
-        MFSgesamt                         gehen sowohl die Fälle, die im
-        Betrachtungszeitraum über den MED erhoben wurden, und die Fälle, die
-        im Betrachtungszeitraum mittels eigener Erkennung des EETS-Anbieters
-        erhoben wurden, ein.
-
-
-
-
-Die Auswertung der Messfälle von Fahrzeuggeräten, die mittels eigener
-Erkennung des EETS-Anbieters erhoben wurden, erfolgt nach den Vorgaben
-der Nummer 3.1.2.
-
-Die Auswertung der Messfälle von Fahrzeuggeräten, die über den MED
-erhoben wurden, erfolgt nach den Vorgaben der Nummer 3.2.2.
-
-Für die kombinierte Erfassungsquote liegt die Zielvorgabe ebenfalls
-bei 99,500 %. In Bezug auf Vertragsstrafen bei Unterschreitung der
-Quote im Betrachtungszeitraum gelten die Regelungen gemäß Nummer 3.2.2
-entsprechend.
-
-### **3.3 DSRC-Quote (QP\_DSRCTRANS)**
+### **3.2 DSRC-Quote (QP\_DSRCTRANS)**
 
 Ziel der Quote ist die Messung der korrekten DSRC Kommunikation
 zwischen den EETS-Fahrzeuggeräten mit den automatischen
@@ -2998,7 +2646,7 @@ Betrachtung herangezogen werden, die dem Mauterheber durch den
 jeweiligen technischen Betreiber der Kontrolleinrichtung als
 betriebsbereit gemeldet wurden.
 
-### **3.3.1 Messdatenerhebung und Messdatenauswertung**
+### **3.2.1 Messdatenerhebung und Messdatenauswertung**
 
 Die Durchführung von Messungen erfolgt durch den Mauterheber
 automatisiert anhand der bei ihm vorliegenden Daten (ABED via
@@ -3089,7 +2737,7 @@ Möglichkeit der Verhängung von Vertragsstrafen in Bezug auf die Quote
 QP\_DSRCTRANS oder einer Kündigung gemäß § 28 Absatz 3 Satz 2 Nummer
 17 EETS-Zulassungsvertrag.
 
-### **3.4 Sperrlistenquote (QP\_SPERRLISTE)**
+### **3.3 Sperrlistenquote (QP\_SPERRLISTE)**
 
 Eine wesentliche Anforderung der Gebietsvorgaben ist die technische
 Sperrung eines EETS-Fahrzeuggeräts (Signalisierung fehlender
@@ -3125,7 +2773,7 @@ bestimmt:
 
 
 
-### **3.4.1 Messdatenerhebung und Messdatenauswertung**
+### **3.3.1 Messdatenerhebung und Messdatenauswertung**
 
 Die Durchführung von Messungen erfolgt durch den Mauterheber auf Basis
 der im System des Mauterhebers vorliegenden Daten der vom EETS-
@@ -3176,12 +2824,12 @@ Sperrlistenquote wird für jeden Kalendermonat gemessen, durch den
 Mauterheber festgestellt und auf drei Stellen nach dem Komma
 kaufmännisch gerundet.
 
-Für jeden Schlechtfall gemäß Nummer 3.4.1 Absatz 2, der die 99,900 %
+Für jeden Schlechtfall gemäß Nummer 3.3.1 Absatz 2, der die 99,900 %
 im relevanten Betrachtungszeitraum unterschreitet, wird dem EETS-
 Anbieter eine Vertragsstrafe von 1 000 Euro verhängt. Der relevante
 Betrachtungszeitraum beträgt 1 Kalendermonat.
 
-### **3.5 Nutzerlistenquote (QP\_NUTZERLISTE)**
+### **3.4 Nutzerlistenquote (QP\_NUTZERLISTE)**
 
 Ein Eintrag auf der Nutzerliste (Userlist) und die korrekte und
 rechtzeitige Übermittlung dieser Liste (Schnittstelle 002a) an den
@@ -3217,7 +2865,7 @@ bestimmt:
 
 
 
-### **3.5.1 Messdatenerhebung und Messdatenauswertung**
+### **3.4.1 Messdatenerhebung und Messdatenauswertung**
 
 Die Durchführung von Messungen erfolgt durch den Mauterheber auf Basis
 der im System des Mauterhebers vorliegenden Daten der vom EETS-
@@ -3265,113 +2913,16 @@ Nutzerlistenquote wird für jeden Kalendermonat gemessen, durch den
 Mauterheber festgestellt und auf drei Stellen nach dem Komma
 kaufmännisch gerundet.
 
-Für jeden Schlechtfall gemäß Nummer 3.5.1 Absatz 2, der die 99,900 %
+Für jeden Schlechtfall gemäß Nummer 3.4.1 Absatz 2, der die 99,900 %
 im relevanten Betrachtungszeitraum unterschreitet, wird dem EETS-
 Anbieter eine Vertragsstrafe von 500 Euro verhängt. Der relevante
 Betrachtungszeitraum beträgt 1 Kalendermonat.
 
-### **3.6 Quote für abschnittsbezogene Erhebungsdaten (QP\_ABED)**
+### **3.5 Fahrspurquote (QP\_FS)**
 
-Die Quote für abschnittsbezogene Erhebungsdaten (QP\_ABED) wird
-ausschließlich für EETS-Anbieter angewendet, die den
-Mauterhebungsdienst des Mauterhebers nicht nutzen. Die Quote der
-Lieferung der abschnittsbezogenen Erhebungsdaten misst, wie viele der
-vom EETS-Anbieter übermittelten abschnittsbezogenen Erhebungsdaten
-innerhalb der vertraglich vereinbarten Frist rechtzeitig im System des
-Mauterhebers empfangen wurden.
-
-Die Quote wird mit der folgenden Formel ermittelt:
-
-*    *        ![banzat_2021_20211029v2_10.jpg](banzat_2021_20211029v2_10.jpg)
-
-*    *   mit
-
-
-*    *
-    *
-        •   ABED\_rechtzeitig                              – vom EETS-Anbieter
-            erzeugte und rechtzeitig eingegangene ABEDs beim Mauterheber,
-            Abschnittsbezogene Erhebungsdaten (ABED) gelten als verspätet beim
-            Mauterheber eingetroffen, wenn die zeitliche Differenz zwischen dem
-            Zeitpunkt der Befahrung des erkannten mautpflichtigen Abschnitts und
-            dem Eingang der korrekten ABED im System des Mauterhebers auf Ebene
-            "DetectedChargeObject" der Schnittstelle 006 größer ist als die
-            vertraglich vorgegebene Zeit. ABEDs gelten als nicht korrekt, wenn sie
-            vom Mauterheber im Rahmen der fachlichen Prüfung mit einem Fehler an
-            den EETS-Anbieter zurückgemeldet werden. Solche ABEDs werden nicht als
-            inkorrekt gewertet, wenn sie innerhalb der vertraglich vereinbarten
-            Fristen erneut und korrekt übermittelt werden.
-
-
-        •   ABED\_alle                               - alle vom EETS-Anbieter
-            erzeugten und im System des Mauterhebers eingegangenen ABEDs des EETS-
-            Anbieters
-
-
-
-
-
-
-Die Quote der Lieferung abschnittsbezogener Erhebungsdaten wird
-jeweils für den Kalendermonat durch den Mauterheber als
-Zwischenergebnis ermittelt und auf drei Stellen nach dem Komma
-gerundet. Die Messdatenauswertung erfolgt durch den Mauterheber. Der
-Mauterheber stellt dem EETS-Anbieter spätestens 30 Tage nach Ende des
-Kalendermonats die ermittelte Quote sowie Informationen und die
-zugrunde gelegten eigenen Daten zu identifizierten Schlechtfällen zur
-Verfügung. Der EETS-Anbieter kann diese Informationen und Daten prüfen
-und dem Mauterheber das Ergebnis seiner Prüfung sowie eventuelle
-Einwendungen innerhalb von 30 Tagen nach Übermittlung der Ergebnisse
-durch den Mauterheber übermitteln. Einwendungen gegen das vom
-Mauterheber übermittelte Ergebnis sind nur insoweit zulässig, als der
-EETS-Anbieter nachweist, dass die Ermittlung der Quote entgegen den
-Vorgaben dieses Anhangs QP sowie ggf. der Verfahrensbeschreibung
-erfolgt ist oder die zugrunde gelegten eigenen Daten des Mauterhebers
-unrichtig sind. Der Mauterheber wird das Ergebnis der Prüfung durch
-den EETS-Anbieter innerhalb von weiteren 30 Tagen prüfen und die Quote
-für den Kalendermonat endgültig feststellen und in Form eines Berichts
-übermitteln.
-
-ABED, die verspätet beim Mauterheber eingetroffen sind, weil das
-System des Mauterhebers für eine Entgegennahme von ABED nicht
-verfügbar war, werden bei der Ermittlung der Quote nicht
-berücksichtigt.
-
-ABED, die verspätet beim Mauterheber eingetroffen sind, weil das
-System des EETS-Anbieters nicht für eine Versendung von ABED verfügbar
-war, weil der EETS-Anbieter Maßnahmen an diesem System unter
-Einhaltung seiner vertraglichen Verpflichtungen aus dem
-Zulassungsvertrag durchgeführt hat, werden bei der Ermittlung der
-Quote nicht berücksichtigt.
-
-Der Mauterheber behält sich vor, weitere Details der praktischen
-Umsetzung der Messdatenerhebung und Messdatenauswertung unter
-Beteiligung des EETS-Anbieters in einer verbindlichen
-Verfahrensbeschreibung festzulegen, die sich innerhalb des in diesem
-Anhang QP vorgegebenen Rahmens bewegt.
-
-Der EETS-Anbieter muss einen Zielwert für **QP\_ABED**
-von mindestens **99,000 %**              erreichen. Die Quote zur
-rechtzeitigen und korrekten Übermittlung der ABED wird für jeden
-Kalendermonat durch den Mauterheber als Zwischenergebnis festgestellt
-und auf drei Stellen nach dem Komma kaufmännisch gerundet.
-
-Für jeden verspäteten oder inkorrekten ABED wird dem EETS-Anbieter im
-relevanten Betrachtungszeitraum eine Vertragsstrafe von 1 Euro
-berechnet. Der relevante Betrachtungszeitraum beträgt ein
-Kalenderjahr. Die Vertragsstrafe ist nicht fällig, wenn die Quote im
-relevanten Betrachtungszeitraum mindestens 99,000 % beträgt. Sofern
-der vertraglich relevante Betrachtungszeitraum nicht das gesamte
-Kalenderjahr umfasst, wird die Vertragsstrafe monatsgenau anteilig
-verwirkt (pro rata temporis).
-
-### **3.7 Fahrspurquote (QP\_FS)**
-
-Die Fahrspurquote (QP\_FS) wird ausschließlich für EETS-Anbieter
-angewendet, die den Mauterhebungsdienst des Mauterhebers nutzen.
-
-Die Quote der Lieferung der Fahrspuren misst, wie viele Fahrspuren
-rechtzeitig im System des nationalen Mautbetreibers empfangen wurden.
+Die Quote der Lieferung der Fahrspuren (QP\_FS) misst, wie viele
+Fahrspuren rechtzeitig im System des nationalen Mautbetreibers
+empfangen wurden.
 
 Die Quote wird mit der folgenden Formel ermittelt:
 
@@ -3452,38 +3003,7 @@ Euro verhängt. Der relevante Betrachtungszeitraum beträgt ein
 Kalenderjahr. Eine Vertragsstrafe ist nicht fällig, wenn die Quote im
 relevanten Betrachtungszeitraum mindestens 99,000 % beträgt.
 
-### **3.8 Übermittlung von Mautbuchungsnachweisen**
-
-Die Vorgaben in diesem Abschnitt sowie die Vertragsstrafe für
-verspätet oder inkorrekte Mautbuchungsnachweise werden ausschließlich
-für EETS-Anbieter angewendet, die den Mauterhebungsdienst des
-Mauterhebers nicht nutzen.
-
-Die korrekte und rechtzeitige Übermittlung von Mautbuchungsnachweisen
-ist wesentlich für die Einnahmeprüfung des Mauterhebers. Da diese
-jedoch auf der korrekten und rechtzeitigen Übermittlung von
-abschnittsbezogenen Erhebungsdaten (ABED) beruhen, werden dafür keine
-separaten Quoten berechnet. Die Anzahl der nicht rechtzeitig und/oder
-nicht korrekt übermittelten Mautbuchungsnachweise wird dem EETS-
-Anbieter in Form eines monatlichen Berichts zur Verfügung gestellt.
-Vielmehr werden Vertragsstrafen fällig, falls Mautbuchungsnachweise
-entsprechend der Schnittstellenspezifikation 007 vom EETS-Anbieter an
-den Mauterheber nicht rechtzeitig und korrekt übermittelt werden.
-Mautbuchungsnachweise gelten als nicht korrekt, wenn sie vom
-Mauterheber im Rahmen der fachlichen Prüfung mit einem Fehler an den
-EETS-Anbieter zurückgemeldet werden. Mautbuchungsnachweise werden
-nicht als inkorrekt gewertet, wenn sie innerhalb der vertraglich
-vereinbarten Fristen vom EETS-Anbieter erneut und korrekt übermittelt
-werden. Mautbuchungsnachweise, die vom EETS-Anbieter erzeugt und
-verspätet beim Mauterheber eingetroffen sind, weil das System des
-Mauterhebers für eine Entgegennahme von Mautbuchungsnachweisen nicht
-verfügbar war, werden bei der Ermittlung der Quote nicht
-berücksichtigt.
-
-Je verspätetem oder inkorrektem Mautbuchungsnachweis wird dem EETS-
-Anbieter eine Vertragsstrafe von 50 Euro berechnet.
-
-### **3.9 Übermittlung von Tagesberichten**
+### **3.6 Übermittlung von Tagesberichten**
 
 Die korrekte und rechtzeitige Übermittlung von Tagesberichten ist
 wesentlich für die Einnahmeprüfung des Mauterhebers. Dafür werden
@@ -4069,15 +3589,19 @@ Ermessen des Mauterhebers anteilig zu entrichten.
 
 ## Anlage 9 zum EETS-Zulassungsvertrag
 
-(Fundstelle: BGBl. 2023 I, Nr. 32, 1 – 8)
+(Fundstelle: BGBl. 2025 I Nr. 244, S. 5 – 12)
 
-## **Vergütung**
+## Vergütung
 
 Die in dieser Anlage enthaltenen Regelungen dienen als Grundlage zur
 Berechnung der Vergütung des EETS-Anbieters („EETS-Vergütung“) und
 sind in Zusammenhang mit § 20 des EETS-Zulassungsvertrags zu
 verstehen.
 
+Die Anlage regelt grundsätzlich die Vergütung in der Vergütungsperiode
+2026 bis 2027 (1. Januar 2026 bis 31. Dezember 2027). Sie enthält
+zusätzlich Regelungen für die Anpassung der Vergütung für den Zeitraum
+1\. September 2024 bis 31. Dezember 2025.
 
 **Inhalt**
 
@@ -4108,13 +3632,8 @@ verstehen.
 
 *    *   1.5
 
-    *   MED-Umstellungsentgelt
-
-
-*    *   1.6
-
-    *   Anpassung des Vergütungsmodells für die Vergütungsperiode 2021 bis
-        2023 (01.11.2021 bis 28.02.2023)
+    *   Anpassung des Vergütungsmodells für den Vergütungszeitraum 1.
+        September 2024 bis 31. Dezember 2025
 
 
 *    *   2.
@@ -4134,7 +3653,7 @@ verstehen.
 
 *    *   2.3
 
-    *   Ermittlung der Änderungspauschale
+    *   Betriebsentgelt und Ermittlung der Änderungspauschale
 
 
 *    *   2.3.1
@@ -4159,6 +3678,11 @@ verstehen.
         Änderungsvorhaben
 
 
+*    *   2.4
+
+    *   Nutzungs- und Zahlungsprovisionsentgelt
+
+
 
 
 1.  Bestandteile der EETS-Vergütung
@@ -4166,35 +3690,17 @@ verstehen.
 
 1.1 Betriebsentgelt
 
-    Das Betriebsentgelt wird für die **Vergütungsperiode 2023 bis 2025
-    (01.03.2023 bis 31.12.2025)**                    wie folgt festgelegt.
+    Das Betriebsentgelt wird für die **Vergütungsperiode 2026 bis 2027 (1.
+    Januar 2026 bis 31. Dezember 2027)**                    wie folgt
+    festgelegt.
 
-    Das jährliche Betriebsentgelt für EETS-Anbieter, die den
-    Mauterhebungsdienst (MED) des Mauterhebers nicht nutzen und eine
-    eigene Erkennung und Tarifierung (EET) betreiben, (
-    ![banzat_2023_825202_01.jpg](banzat_2023_825202_01.jpg)    ) beträgt:
+    Das jährliche Betriebsentgelt für EETS-Anbieter (
+    BetrE
+    2026–2027                   ) beträgt
+    171 564 EUR
 
-
-    *        *   **[482 926] EUR**
-
-
-
-
-    Darin ist eine Änderungspauschale gemäß Nummer 2.3 in Höhe von
-    [417 199] EUR enthalten.
-
-    Das jährliche Betriebsentgelt für EETS-Anbieter, die den
-    Mauterhebungsdienst des Mauterhebers nutzen, (
-    ![banzat_2023_825202_02.jpg](banzat_2023_825202_02.jpg)    ) beträgt:
-
-
-    *        *   **[562 338] EUR**
-
-
-
-
-    Darin ist eine Änderungspauschale gemäß Nummer 2.3 in Höhe von
-    [496 610] EUR enthalten.
+    Darin ist eine Änderungspauschale gemäß Ziffer 2.3 in Höhe von 105 835
+    EUR enthalten.
 
     Jeweils 1/12 (ein Zwölftel) des jährlichen Betriebsentgelts wird dem
     EETS-Anbieter kalendermonatlich zusammen mit dem AV-Entgelt und dem
@@ -4202,15 +3708,8 @@ verstehen.
     Kalendermonate wird das zu vergütende Betriebsentgelt pro rata
     temporis berechnet.
 
-    Im Falle der Migration eines EETS-Anbieters auf den
-    Mauterhebungsdienst wird ab dem nächsten vollen Kalendermonat, der auf
-    den vom Mauterheber festgelegten Zeitpunkt des Abschlusses der
-    Migration der Fahrzeuggeräteflotte auf den MED folgt, die Vergütung
-    gemäß BetrE
-    MED                    gezahlt.
-
     Die Höhe des jährlichen Betriebsentgelts wird für die nachfolgende
-    Vergütungsperiode gemäß den Vorgaben in Nummer 2 angepasst.
+    Vergütungsperiode gemäß den Vorgaben in Ziffer 2.3 angepasst.
 
 
 1.2 Entgelt Automatisches Verfahren (AV-Entgelt)
@@ -4218,332 +3717,246 @@ verstehen.
     Jeder EETS-Anbieter erhält vom Mauterheber in Abhängigkeit von der
     Anzahl der gezählten aktiven Fahrzeuggeräte im Mautsystem ein
     kalendermonatliches AV-Entgelt (AVE). Das AV-Entgelt im jeweiligen
-    Kalendermonat
-    m                    des jeweiligen Kalenderjahres
-    KJ                    ermittelt sich wie folgt:
+    Kalendermonat m des jeweiligen Kalenderjahres KJ wird wie folgt
+    ermittelt:
 
+    AVE
+    KJ,m                    =
+    AVT
+    VP                    \*
+    AFzG
+    KJ,m
 
-    *        *            ![banzat_2023_825202_03.jpg](banzat_2023_825202_03.jpg)
+    AVE
+    KJ,m                    – AV-Entgelt im jeweiligen Kalendermonat
+    m                    des Kalenderjahres
+    KJ
 
+    AVT
+    VP                    – AV-Tarif in der jeweiligen Vergütungsperiode
+    VP
 
+    AFzG
+    KJ,m                    – Anzahl der nachgewiesenen aktiven
+    Fahrzeuggeräte im jeweiligen Kalendermonat
+    m                    des Kalenderjahres
+    KJ
 
+    KJ                    – Platzhalter für das jeweilige Kalenderjahr
 
-    *        *   AVE
-            KJ, m
+    m                    – Laufende Nummer des Kalendermonats (1 bis 12)
+    des jeweiligen Kalenderjahres
+    KJ
 
-        *   =
-
-        *   AV-Entgelt im jeweiligen Kalendermonat
-            m                              des Kalenderjahres
-            KJ
-
-
-    *        *            ![banzat_2023_825202_04.jpg](banzat_2023_825202_04.jpg)
-        *   =
-
-        *   AV-Tarif für EETS-Anbieter, die den MED (
-            MED                             ) nutzen bzw. nicht nutzen (
-            EET                             ) in der jeweiligen Vergütungsperiode
-            VP
-
-
-    *        *   AFzG
-            KJ, m
-
-        *   =
-
-        *   Anzahl der nachgewiesenen aktiven Fahrzeuggeräte im jeweiligen
-            Kalendermonat
-            m                              des Kalenderjahres
-            KJ
-
-
-    *        *   KJ
-
-        *   =
-
-        *   Platzhalter für das jeweilige Kalenderjahr
-
-
-    *        *   m
-
-        *   =
-
-        *   Laufende Nummer des Kalendermonats (1 bis 12) des jeweiligen
-            Kalenderjahres
-            KJ
-
-
-    *        *   VP
-
-        *   =
-
-        *   Vergütungsperiode, für die der AV-Tarif angewendet wird
-
-
-
+    VP                    – Vergütungsperiode, für die der AV-Tarif
+    angewendet wird
 
     Ein aktives Fahrzeuggerät ist ein Bordgerät, das vom EETS-Anbieter
     bereitgestellt und in ein beim EETS-Anbieter registriertes Fahrzeug
-    eingebaut wurde und für das für den jeweiligen Kalendermonat
-    m                    des Kalenderjahres
-    KJ                    mindestens einmal eine Befahrung des
-    mautpflichtigen Streckennetzes festgestellt wurde. Es muss ein Vertrag
-    zwischen dem EETS-Anbieter und seinem Nutzer über die Mauterhebung im
-    EETS-Gebiet des Bundesfernstraßenmautgesetzes (EETS-Gebiet BFStrMG)
-    bestehen. Die Informationen zum Bordgerät müssen in der Nutzerliste
-    zusammen mit der eindeutig dem Bordgerät zugeordneten
-    Identifikationsnummer des Bordgeräts, dem Kennzeichen des Fahrzeugs
-    oder der Fahrzeugkombination und der Vertragsnummer des Nutzers über
-    die Schnittstelle 002a übermittelt worden sein. Eine Befahrung gilt
-    als festgestellt, wenn für die Identifikationsnummer des Bordgeräts
-    und für den jeweiligen Kalendermonat mindestens einmal die Befahrung
-    eines mautpflichtigen Abschnitts in den abschnittsbezogenen
-    Erhebungsdaten über die Schnittstelle SST 006 vom EETS-Anbieter
-    (sofern dieser den MED nicht nutzt) oder vom nationalen Mautbetreiber
-    (sofern der EETS-Anbieter den MED nutzt) an den Mauterheber gemeldet
-    wurde. Für den Zeitpunkt der Befahrung gilt der Zeitstempel mit dem
-    Attribut „timeWhenUsed“ in der Sequenz von „DetectedChargeObject“ in
-    den abschnittsbezogenen Erhebungsdaten. Der Betrachtungszeitraum für
-    das AV-Entgelt ist ein Kalendermonat. Das Risiko, dass sich die Anzahl
-    der aktiven Fahrzeuggeräte und damit das AV-Entgelt anders entwickelt
-    als bei Vertragsabschluss angenommen, trägt, unabhängig von den
-    Ursachen, ausschließlich der EETS-Anbieter.
+    eingebaut wurde und für das für den jeweiligen Kalendermonat m des
+    Kalenderjahres KJ mindestens einmal eine Befahrung des mautpflichtigen
+    Streckennetzes festgestellt wurde. Es muss ein Vertrag zwischen dem
+    EETS-Anbieter und seinem Nutzer über die Mauterhebung im EETS-Gebiet
+    des Bundesfernstraßenmautgesetzes (EETS-Gebiet BFStrMG) bestehen. Die
+    Informationen zum Bordgerät müssen in der Nutzerliste zusammen mit der
+    eindeutig dem Bordgerät zugeordneten Identifikationsnummer des
+    Bordgeräts, dem Kennzeichen des Fahrzeugs oder der Fahrzeugkombination
+    und der Vertragsnummer des Nutzers über die Schnittstelle 002a
+    übermittelt worden sein. Eine Befahrung gilt als festgestellt, wenn
+    für die Identifikationsnummer des Bordgeräts und für den jeweiligen
+    Kalendermonat mindestens einmal die Befahrung eines mautpflichtigen
+    Abschnitts in den abschnittsbezogenen Erhebungsdaten an den
+    Mauterheber gemeldet wurde. Für den Zeitpunkt der Befahrung gilt der
+    Zeitstempel mit dem Attribut „timeWhenUsed“ in der Sequenz von
+    „DetectedChargeObject“ in den abschnittsbezogenen Erhebungsdaten. Der
+    Betrachtungszeitraum für das AV-Entgelt ist ein Kalendermonat. Das
+    Risiko, dass sich die Anzahl der aktiven Fahrzeuggeräte und damit das
+    AV-Entgelt anders entwickelt als bei Vertragsabschluss angenommen,
+    trägt, unabhängig von den Ursachen, ausschließlich der EETS-Anbieter.
 
-    Für die **Vergütungsperiode 2023 bis 2025 (01.03.2023 bis
-    31\.12.2025)**                    gelten die folgenden AV-Tarife:
+    Für die **Vergütungsperiode 2026 bis 2027 (1. Januar 2026 bis 31.
+    Dezember 2027)**                    gilt der folgende AV-Tarif:
 
-    *        *   für EETS-Anbieter, die den Mauterhebungsdienst des Mauterhebers nicht
-            nutzen
+    AVT
+    VP                    = 2,97 EUR
 
-        *
-        *            ![banzat_2023_825202_05.jpg](banzat_2023_825202_05.jpg)
-
-    *        *   für EETS-Anbieter, die den Mauterhebungsdienst des Mauterhebers nutzen
-
-        *
-        *            ![banzat_2023_825202_06.jpg](banzat_2023_825202_06.jpg)
-
-
-
-   Im Falle der Migration eines EETS-Anbieters auf den
-    Mauterhebungsdienst wird ab dem nächsten vollen Kalendermonat, der auf
-    den vom Mauterheber festgelegten Zeitpunkt des Abschlusses der
-    Migration der Fahrzeuggeräteflotte auf den MED folgt, der für die
-    jeweilige Vergütungsperiode gültige AV-Tarif
-    ![banzat_2023_825202_07.jpg](banzat_2023_825202_07.jpg)    angewandt.
-
-    Die Höhe des AV-Tarifs wird für die nachfolgende Vergütungsperiode
-    gemäß den Vorgaben in Nummer 2 angepasst.
+    Die Höhe des AV-Tarifs wird gemäß den Vorgaben in Ziffer 2.1
+    angepasst.
 
 
 1.3 Nutzungs- und Zahlungsprovisionsentgelt
 
     Der EETS-Anbieter erhält vom Mauterheber ein kalendermonatliches
     Nutzungs- und Zahlungsprovisionsentgelt (NZlgE). Das Nutzungs- und
-    Zahlungsprovisionsentgelt im jeweiligen Kalendermonat
+    Zahlungsprovisionsentgelt im jeweiligen Kalendermonat m des jeweiligen
+    Kalenderjahres KJ wird wie folgt ermittelt:
+
+    NZlgE
+    KJ,m                    =
+    NZlgP
+    VP                    \* (
+    WZ
+    KJ,m                    –
+    R
+    KJ,m                    –
+    Z
+    KJ,m                   ) +
+    NZlgK
+    VP                    \*
+    km
+    KJ,m
+
+    NZlgE
+    KJ,m ****                    – Nutzungs- und Zahlungsprovisionsentgelt
+    im jeweiligen Kalendermonat
+    m                    des Kalenderjahres
+    KJ
+
+    NZlgP
+    VP ****                    – Nutzungs- und Zahlungsprovisionssatz in
+    der Vergütungsperiode
+    VP
+
+    WZ
+    KJ,m ****                    – auf dem Konto des Mauterhebers in Summe
+    wertgestellte Zahlungen in Euro im jeweiligen Kalendermonat
     m                    des jeweiligen Kalenderjahres
-    KJ                    ermittelt sich wie folgt:
+    KJ
 
+    R
+    KJ,m ****                    – Betrag in Euro der im jeweiligen
+    Kalendermonat
+    m                    des jeweiligen Kalenderjahres
+    KJ                    positiv beschiedenen Erstattungsverlangen
 
-    *        *   NZlgE
-            KJ, m                              =
-            NZlgP
-            VP                              × (
-            WZ
-            KJ, m                              –
-            R
-            KJ, m                              –
-            Z
-            KJ, m                             )
+    Z
+    KJ,m ****                    – Betrag in Euro der im jeweiligen
+    Kalendermonat
+    m                    des jeweiligen Kalenderjahres
+    KJ                    vom EETS-Anbieter ausgekehrten Verzugszinsen
 
+    NZlgK
+    VP ****                    – Vergütung pro abgerechnetem Kilometer
+    Fahrleistung in der Vergütungsperiode
+    VP
 
+    km
+    KJ,m ****                   – im jeweiligen Kalendermonat
+    m                    des Kalenderjahres
+    KJ                    abgerechnete Fahrleistung
 
+    KJ ****                    – Platzhalter für das jeweilige
+    Kalenderjahr
 
-    *        *   NZlgE
-            KJ, m
+    m ****                    – laufende Nummer des Kalendermonats (1 bis
+    12) des jeweiligen Kalenderjahres
+    KJ
 
-        *   =
+    VP ****                    – Vergütungsperiode, für die das Nutzungs-
+    und Zahlungsprovisionsentgelt angewendet wird
 
-        *   Nutzungs- und Zahlungsprovisionsentgelt im jeweiligen Kalendermonat
-            m                              des Kalenderjahres
-            KJ
+    Der Nutzungs- und Zahlungsprovisionssatz für die Vergütungsperiode
+    2026 bis 2027 (1. Januar 2026 bis 31. Dezember 2027) beträgt:
 
+    NZlgP
+    2026−2027                    = 1,39 %
 
-    *        *   NZlgP
-            VP
-
-        *   =
-
-        *   Nutzungs- und Zahlungsprovisionssatz in der Vergütungsperiode
-            VP
-
-
-    *        *   WZ
-            KJ, m
-
-        *   =
-
-        *   auf dem Konto des Mauterhebers in Summe wertgestellte Zahlungen in
-            Euro im jeweiligen Kalendermonat
-            m                              des jeweiligen Kalenderjahres
-            KJ
-
-
-    *        *   R
-            KJ, m
-
-        *   =
-
-        *   Betrag in Euro der im jeweiligen Kalendermonat
-            m                              des jeweiligen Kalenderjahres
-            KJ                              positiv beschiedenen
-            Erstattungsverlangen
-
-
-    *        *   Z
-            KJ, m
-
-        *   =
-
-        *   Betrag in Euro der im jeweiligen Kalendermonat
-            m                              des jeweiligen Kalenderjahres
-            KJ                              vom EETS-Anbieter ausgekehrten
-            Verzugszinsen
-
-
-    *        *   KJ
-
-        *   =
-
-        *   Platzhalter für das jeweilige Kalenderjahr
-
-
-    *        *   m
-
-        *   =
-
-        *   Laufende Nummer des Kalendermonats (1 bis 12) des jeweiligen
-            Kalenderjahres
-            KJ
-
-
-    *        *   VP
-
-        *   =
-
-        *   Vergütungsperiode, für die der Nutzungs- und Zahlungsprovisionssatz
-            angewendet wird
-
-
-
-
-    Der Nutzungs- und Zahlungsprovisionssatz für die **Vergütungsperiode
-    2023 bis 2025 (01.03.2023 bis 31.12.2025)**
+    Die Vergütung pro abgerechnetem Kilometer Fahrleistung für die
+    Vergütungsperiode 2026 bis 2027 (1. Januar 2026 bis 31. Dezember 2027)
     beträgt:
 
-    *        *   NZlgP
-            2023–2025
-
-        *   = [1,99] %
-
-
-
+    NZlgK
+    2026−2027                    = 0,00089
+    EUR/km
 
     Wurde beim Mauterheber eine berechtigte Erstattung durch einen Nutzer
     des EETS-Anbieters beantragt und wurde dieser Antrag durch den
-    Mauterheber positiv beschieden, mindert sich das Nutzungs- und
+    Mauterheber positiv beschieden, so mindert sich das Nutzungs- und
     Zahlungsprovisionsentgelt entsprechend. Der Mauterheber teilt dem
     EETS-Anbieter jeweils bis zum siebten Werktag eines Monats für den
     vorangegangenen Monat mit, wie viele Anträge auf Erstattung in welcher
-    Höhe (R
-    KJ, m                   ) positiv beschieden wurden.
+    Höhe (
+    R
+    KJ,m                   ) positiv beschieden wurden.
+
+    Die abgerechnete Fahrleistung
+    km
+    KJ,m                    wird ermittelt auf Basis der aktiven
+    Fahrzeuggeräte gemäß Ziffer 1.2. Dafür werden für den gesamten
+    Betrachtungszeitraum die Tariflängen der abgerechneten Abschnitte in
+    den abschnittsbezogenen Erhebungsdaten dieser Fahrzeuggeräte addiert.
+    Als Zeitpunkt der Befahrung eines mautpflichtigen Abschnitts gilt die
+    entsprechende Regelung in Ziffer 1.2. Von der abgerechneten
+    Fahrleistung wird die Summe derjenigen Tariflängen der Abschnitte
+    abgezogen, deren Mautbeträge dem Nutzer des EETS-Anbieters vom
+    Mauterheber im Rahmen eines Erstattungsverfahrens vollständig
+    rückerstattet wurden.
 
     Die Höhe des Nutzungs- und Zahlungsprovisionssatzes wird für die
-    nachfolgende Vergütungsperiode gemäß den Vorgaben in Nummer 2
+    nachfolgende Vergütungsperiode gemäß den Vorgaben in Ziffer 2.4
     angepasst.
 
 
 1.4 Bonus (EQ-Bonus)
 
-    Der Mauterheber zahlt bei Überschreitung der „Erfassungsquote
-    EQ\_nonMED“ gemäß EETS-Zulassungsvertrag Anlage 5 Nummer 3.1 bzw. bei
-    Überschreitung der „Erfassungsquote EQ\_MED“ gemäß EETS-
-    Zulassungsvertrag Anlage 5 Nummer 3.2 in Höhe von 99,500 % einen Bonus
-    (EQ\_Bonus) gemäß folgender Formel:
+    Der Mauterheber zahlt bei Überschreitung der „Erfassungsquote EQ“
+    gemäß EETS-Zulassungsvertrag Anlage 5 (in der ab 1. Januar 2026
+    geltenden Fassung) Ziffer 3.1 einen Bonus (EQ\_Bonus) gemäß folgender
+    Formel:
 
+    EQ\_Bonus
+    KJ                    = (
+    EQ
+    KJ                    –
+    EQ
+    Min                   ) \* (
+    WZ
+    KJ,m                    –
+    R
+    KJ,m                    –
+    Z
+    KJ,m                   ) \*
+    Bonussatz
 
-    *        *   EQ\_Bonus
-            KJ                              = (
-            EQ
-            KJ                              – 99,5 %) × (
-            WZ
-            KJ                              –
-            R
-            KJ                              –
-            Z
-            KJ                             ) × 12,5 %
+    EQ\_Bonus
+    KJ ****                    – Bonus, den der EETS-Anbieter für eine die
+    Mindestanforderungen überschreitende Erfassungsquote erhält
 
+    EQ
+    KJ ****                    – gemäß EETS-Zulassungsvertrag Anlage 5
+    Ziffer 3.1.3 ermittelte Erfassungsquote EQ für das Kalenderjahr
+    KJ                    in Prozent
 
+    EQ
+    Min ****                    – gemäß EETS-Zulassungsvertrag Anlage 5
+    Ziffer 3.1.3 festgelegte mindestens zu erreichende Erfassungsquote
 
+    WZ
+    KJ,m ****                   – auf dem Konto des Mauterhebers in Summe
+    wertgestellte Zahlungen in Euro im jeweiligen Kalendermonat
+    m                    des jeweiligen Kalenderjahres
+    KJ
 
-    *        *   EQ
-            KJ
+    R
+    KJ,m ****                   – Betrag in Euro der im jeweiligen
+    Kalendermonat
+    m                    des jeweiligen Kalenderjahres
+    KJ                    positiv beschiedenen Erstattungsverlangen
 
-        *   =
+    Z
+    KJ,m ****                    – Betrag in Euro der im jeweiligen
+    Kalendermonat
+    m                    des jeweiligen Kalenderjahres
+    KJ                    vom EETS-Anbieter ausgekehrten Verzugszinsen
 
-        *   gemäß EETS-Zulassungsvertrag Anlage 5 Nummer 3.1.2 ermittelte
-            Erfassungsquote EQ\_nonMED (für EETS-Anbieter, die den MED des
-            Mauterhebers während des Kalenderjahres
-            KJ                              nicht nutzten) bzw. gemäß EETS-
-            Zulassungsvertrag Anlage 5 Nummer 3.2.2 ermittelte Erfassungsquote
-            EQ\_MED (für EETS-Anbieter, die den MED während des Kalenderjahres
-            KJ                              nutzten) bzw. gemäß EETS-
-            Zulassungsvertrag Anlage 5 Nummer 3.2.3 ermittelte kombinierte
-            Erfassungsquote (für EETS-Anbieter, die während des Kalenderjahres
-            KJ                              auf den MED migrieren) für das
-            Kalenderjahr
-            KJ                              in Prozent
+    Bonussatz ****                    – gemäß EETS-Zulassungsvertrag
+    Anlage 5 Ziffer 3.1.3 festgelegter prozentualer Anteil, den der EETS-
+    Anbieter an den fiktiven höheren Mauteinnahmen bei Überschreitung der
+    EQ
+    Min                    erhält
 
-
-    *        *   WZ
-            KJ
-
-        *   =
-
-        *   auf dem Konto des Mauterhebers in Summe wertgestellte Zahlungen in
-            Euro im jeweiligen Kalenderjahr
-            KJ
-
-
-    *        *   R
-            KJ
-
-        *   =
-
-        *   Betrag in Euro der im jeweiligen Kalenderjahr
-            KJ                              positiv beschiedenen
-            Erstattungsverlangen
-
-
-    *        *   Z
-            KJ
-
-        *   =
-
-        *   Betrag in Euro der im jeweiligen Kalenderjahr
-            KJ                              vom EETS-Anbieter ausgekehrten
-            Verzugszinsen
-
-
-    *        *   KJ
-
-        *   =
-
-        *   Platzhalter für das jeweilige Kalenderjahr
-
-
-
+    KJ ****                    – Platzhalter für das jeweilige
+    Kalenderjahr
 
     Der Betrachtungszeitraum für die Ermittlung des EQ-Bonus umfasst das
     Kalenderjahr. Die Zahlung des EQ-Bonus für das Kalenderjahr an den
@@ -4553,73 +3966,61 @@ verstehen.
     wird der EQ-Bonus monatsgenau anteilig gezahlt.
 
 
-1.5 MED-Umstellungsentgelt
+1.5 Anpassung des Vergütungsmodells für den Vergütungszeitraum 1.
+    September 2024 bis 31. Dezember 2025
 
-    Die EETS-Anbieter, die den Mauterhebungsdienst (MED) des Mauterhebers
-    bei ihrer Zulassung noch nicht nutzen konnten, erhalten ein MED-
-    Umstellungsentgelt. Dieses beträgt 0,40 € je aktivem Fahrzeuggerät pro
-    Kalendermonat. Es wird vom 01.11.2021, frühestens jedoch ab dem
-    Zeitpunkt der Zulassung des EETS-Anbieters, bis zum 31.12.2025,
-    höchstens jedoch bis zum Ende der Zulassung des EETS-Anbieters
-    gezahlt. Die Zahl der aktiven Fahrzeuggeräte, für die das MED-
-    Umstellungsentgelt gezahlt wird, ist auf die Zahl der aktiven
-    Fahrzeuggeräte beschränkt, die im Kalendermonat November 2021
-    abgerechnet wurden. Für nach dem November 2021 zugelassene EETS-
-    Anbieter ist die Zahl der abgerechneten aktiven Fahrzeuggeräte im
-    Kalendermonat der Zulassung maßgeblich.
+    Das Vergütungsmodell wird für den Zeitraum 1. September 2024 bis 31.
+    Dezember 2025 wie folgt angepasst:
+
+    *        *   Das jährliche Betriebsentgelt für EETS-Anbieter (
+            ![bgbl1_2025_j02440_0030.jpg](bgbl1_2025_j02440_0030.jpg)            ), die den Mauterhebungsdienst (MED) des Mauterhebers nicht nutzen und
+            eine eigene Erkennung und Tarifierung (EET) betreiben, beträgt
 
 
-1.6 Anpassung des Vergütungsmodells für die Vergütungsperiode 2021 bis
-    2023 (01.11.2021 bis 28.02.2023)
-
-    Das Vergütungsmodell für den Zeitraum 01.11.2021 bis 28.02.2023 wird
-    wie folgt angepasst:
-
-    Das jährliche Betriebsentgelt für EETS-Anbieter, die den
-    Mauterhebungsdienst (MED) des Mauterhebers nicht nutzen und eine
-    eigene Erkennung und Tarifierung (EET) betreiben, (
-    ![banzat_2023_825202_08.jpg](banzat_2023_825202_08.jpg)    ) beträgt:
+    *        *   482 926 EUR
 
 
-    *        *   **[482 926] EUR**
+    *        *   Das jährliche Betriebsentgelt für EETS-Anbieter (
+            ![bgbl1_2025_j02440_0040.jpg](bgbl1_2025_j02440_0040.jpg)            ), die den Mauterhebungsdienst (MED) des Mauterhebers nutzen, beträgt
+
+
+    *        *   562 338 EUR
 
 
 
 
-    Das jährliche Betriebsentgelt für EETS-Anbieter, die den
-    Mauterhebungsdienst des Mauterhebers nutzen, (
-    ![banzat_2023_825202_09.jpg](banzat_2023_825202_09.jpg)    ) beträgt:
+    Der Nutzungs- und Zahlungsprovisionssatz beträgt in diesem Zeitraum:
 
+    NZlgP
+    1\.9.24−31.12.25                    = 1,39 %
 
-    *        *   **[562 338] EUR**
+    Die Vergütung pro abgerechnetem Kilometer Fahrleistung beträgt in
+    diesem Zeitraum:
 
+    NZlgK
+    1\.9.24−31.12.25                    = 0,00089 EUR/
+    km
 
+    Der AV-Tarif beträgt für EETS-Anbieter, die den Mauterhebungsdienst
+    des Mauterhebers nicht nutzen:
 
+    AVT
+    EET−1.9.24−31.12.25                    = 4,33 EUR
 
-    Der AV-Tarif beträgt
+    Der AV-Tarif beträgt für EETS-Anbieter, die den Mauterhebungsdienst
+    des Mauterhebers nutzen:
 
-    *        *   für EETS-Anbieter, die den Mauterhebungsdienst des Mauterhebers nicht
-            nutzen
+    AVT
+    MED−1.9.24−31.12.25                    = 2,97 EUR
 
-        *
-        *            ![banzat_2023_825202_10.jpg](banzat_2023_825202_10.jpg)
-
-    *        *   für EETS-Anbieter, die den Mauterhebungsdienst des Mauterhebers nutzen
-
-        *
-        *            ![banzat_2023_825202_11.jpg](banzat_2023_825202_11.jpg)
-
-
-
-   Der Nutzungs- und Zahlungsprovisionssatz beträgt:
-
-    *        *   NZlgP
-            2021–2023
-
-        *   = [1,97] %
-
-
-
+    Der EQ-Bonus bestimmt sich nach der Formel in Ziffer 1.4, wobei sich
+    die mindestens zu erreichende Erfassungsquote (
+    EQ
+    Min ****                   ) abweichend aus Anlage 5 zum EETS-
+    Zulassungsvertrag in der bis zum Ablauf des 31. Dezember 2025
+    geltenden Fassung gemäß Ziffer 3.1.2 (EQ\_nonMED), 3.2.2 (EQ\_MED)
+    bzw. 3.2.3 (kombinierte Erfassungsquote) ergibt. Der Bonussatz beträgt
+    12,5 %.
 
 
 2.  Überprüfung des EETS-Vergütungsmodells
@@ -4627,8 +4028,8 @@ verstehen.
     Die Höhe der einzelnen Bestandteile des EETS-Vergütungsmodells wird
     durch den Mauterheber vor Ablauf der jeweils aktuellen
     Vergütungsperiode überprüft. Als Ergebnis der Überprüfung können sich
-    Anpassungen ergeben, die in der folgenden Vergütungsperiode gültig
-    werden.
+    Anpassungen ergeben, die ab der folgenden Vergütungsperiode wirksam
+    sind.
 
     Der Mauterheber wird die Dauer der Vergütungsperioden zukünftig im
     Regelfall auf drei Kalenderjahre festlegen.
@@ -4640,36 +4041,16 @@ verstehen.
     in Deutschland zugelassenen oder sich im Zulassungsverfahren
     befindlichen EETS-Anbieter übermitteln. Anschließend übermitteln die
     EETS-Anbieter innerhalb von vier Kalenderwochen ihre Anmerkungen zum
-    Entwurf an den Mauterheber. Nach Übermittlung der Anmerkungen wird der
-    Mauterheber den EETS-Anbietern im Rahmen eines Anhörungstermins die
-    Änderungen erläutern und den EETS-Anbietern Raum für Fragen und
-    Anmerkungen einräumen. Der Mauterheber prüft die Anmerkungen und die
-    Ergebnisse des Anhörungstermins und überarbeitet ggf. das
+    Entwurf an den Mauterheber. Nach Übermittlung der Anmerkungen
+    erläutert der Mauterheber den EETS-Anbietern im Rahmen eines
+    Anhörungstermins die Änderungen und räumt den EETS-Anbietern Raum für
+    Fragen und Anmerkungen ein. Der Mauterheber prüft die Anmerkungen und
+    die Ergebnisse des Anhörungstermins und überarbeitet ggf. das
     Vergütungsmodell. Der Mauterheber übermittelt das finale
     Vergütungsmodell vier Kalendermonate vor dem jeweiligen
     Gültigkeitsbeginn einer neuen Vergütungsperiode an die EETS-Anbieter.
 
-    Der Mauterheber behält sich vor, dass Vergütungsmodell innerhalb der
-    Laufzeit der Vergütungsperiode 2023 bis 2025 zum 01.09.2024 in Bezug
-    auf zwei Aspekte anzupassen:
-
-    1.  Änderung des Nutzungs- und Zahlungsprovisionsentgelts, sofern sich das
-        Zahlungsprovisionsentgelt beim nationalen Betreiber ändert,
-
-
-    2.  Indexierung des AV-Entgelts, sofern die Berechnung gemäß Nummer 2.1
-        dieser Anlage eine Erhöhung von mehr als 2,5 % ergibt. Das AV-Entgelt
-        wird in diesem Fall um den Wert erhöht, der den Betrag von 2,5 %
-        übersteigt.
-
-
-
-
-    Sofern der Mauterheber eine Anpassung des Vergütungsmodells zum
-    01\.09.2024 vorsieht, kommt das Verfahren gemäß Nummer 2 Absatz 3
-    entsprechend zur Anwendung.
-
-    Die Überprüfung und Anpassung des EETS-Vergütungsmodells erfolgen in
+    Die Überprüfung und Anpassung des EETS-Vergütungsmodells erfolgt in
     folgenden Bereichen:
 
     1.  Indexierung des AV-Tarifs
@@ -4678,7 +4059,10 @@ verstehen.
     2.  Prüfung und Bewertung der Entwicklung des EETS in Europa
 
 
-    3.  Ermittlung der Änderungspauschale
+    3.  Betriebsentgelt und Ermittlung der Änderungspauschale
+
+
+    4.  Nutzungs- und Zahlungsprovisionsentgelt
 
 
 
@@ -4686,105 +4070,76 @@ verstehen.
 
 2.1 Indexierung des AV-Tarifs
 
-    Die Höhe des für die Ermittlung des AV-Entgelt anzuwendenden AV-Tarifs
-    (
-    AVT                   ) wurde für die Vergütungsperiode 2023 bis 2025
+    Die Höhe des für die Ermittlung des AV-Entgelts anzuwendenden AV-
+    Tarifs (
+    AVT                   ) wurde für die **Vergütungsperiode 2026 bis
+    2027 (1. Januar 2026 bis 31. Dezember 2027)**
     fixiert.
 
-    Im Rahmen der Überprüfung des EETS-Vergütungsmodells wird der AV-Tarif
-    für die nachfolgende Vergütungsperiode entsprechend der nachfolgenden
-    Regelungen wertgesichert.
+[^F834458_01_BJNR608630018BJNE005103123]
+    Der AV-Tarif innerhalb der Vergütungsperiode wird zum 1. Januar 2026
+    sowie zum 1. Januar 2027 entsprechend der nachfolgenden Regelungen
+    wertgesichert.
 
-    Die Indexierung des AV-Tarifs (
+    Die Indexierung des AV-Tarifs
     AVT
-    EET                    und
+    VP                    erfolgt
+
+    –   zum 1. Januar 2026 durch Vergleich der Indizes für das 3. Quartal 2024
+        und das 3. Quartal 2025 und
+
+
+    –   zum 1. Januar 2027 durch Vergleich der Indizes für das 3. Quartal 2025
+        und das 3. Quartal 2026.
+
+
+
+
+    Die Indexierung erfolgt gemäß folgender Formeln:
+
+    ![bgbl1_2025_j02440_0050.jpg](bgbl1_2025_j02440_0050.jpg)
+    sowie
+
+    ![bgbl1_2025_j02440_0060.jpg](bgbl1_2025_j02440_0060.jpg)
     AVT
-    MED                   ) für eine Vergütungsperiode erfolgt immer auf
-    Basis des Indexwertes für das 2. Quartal des letzten Kalenderjahres
-    der vorangegangenen Vergütungsperiode.
+    VP                    – Initialer AV-Tarif in der Vergütungsperiode
 
-    Im Rahmen der Überprüfung ist der für die Vergütungsperiode 2023 bis
-    2025 festgeschriebene AV-Tarif (
-    ![banzat_2023_825202_12.jpg](banzat_2023_825202_12.jpg)    bzw.
-    ![banzat_2023_825202_13.jpg](banzat_2023_825202_13.jpg)    ) zu
+    AVT
+    01\.01.2026                    – AV-Tarif ab dem 1. Januar 2026
 
-    1.  25 % mit dem vom Statistischen Bundesamt veröffentlichten „Index der
-        durchschnittlichen Bruttomonatsverdienste der vollzeitbeschäftigten
-        Arbeitnehmer nach Wirtschaftszweigen und Quartalen – Deutschland“ –
-        J62 Erbringung von Dienstleistungen der Informationstechnologie, aus
-        der Fachserie 16, Reihe 2.2 (
-        Personal                         ) und
+    AVT
+    01\.01.2027                    – AV-Tarif ab dem 1. Januar 2027
+
+    *        *            ![bgbl1_2025_j02440_0070.jpg](bgbl1_2025_j02440_0070.jpg)   – „Index der durchschnittlichen Bruttomonatsverdienste: Deutschland,
+            Quartale, Wirtschaftszweige WZ08-62“ im angegebenen Quartal
+            (Gewichtung 25 %)
 
 
-    2.  25 % mit dem vom Statistischen Bundesamt veröffentlichten
-        Erzeugerpreisindex für den Wirtschaftszweig „Telekommunikation“
-        (WZ08-61) (
-        Telekom                         ) und
+    *        *            ![bgbl1_2025_j02440_0080.jpg](bgbl1_2025_j02440_0080.jpg)   – Erzeugerpreisindex für den Wirtschaftszweig „Telekommunikation“
+            (WZ08-61) (Telekom) im angegebenen Quartal (Gewichtung 25 %)
 
 
-    3.  50 % mit dem vom Statistischen Bundesamt veröffentlichten
-        Erzeugerpreisindex für die Dienstleistungsart „IT-Dienstleistungen“
-        (DL-IT) (
-        IT                         ) oder
-
-
-    4.  wenn diese Indizes nicht mehr veröffentlicht werden, mit den an ihre
-        Stelle tretenden Indizes
+    *        *            ![bgbl1_2025_j02440_0090.jpg](bgbl1_2025_j02440_0090.jpg)   – Erzeugerpreisindex für Dienstleistungen Kategorie IT-
+            Dienstleistungen (CPA08-620-01) im angegebenen Quartal (Gewichtung 50
+            %)
 
 
 
 
-    zu inflationieren.
-
-
-    *        *            ![banzat_2023_825202_14.jpg](banzat_2023_825202_14.jpg)
-
-
-
-
-    *        *            ![banzat_2023_825202_04.jpg](banzat_2023_825202_04.jpg)
-        *   =
-
-        *   Für die jeweilige nachfolgende Vergütungsperiode
-            VP                              anzuwendender AV-Tarif EET bzw. MED
-
-
-    *        *            ![banzat_2023_825202_15.jpg](banzat_2023_825202_15.jpg)
-        *   =
-
-        *   In der Vergütungsperiode 2023 bis 2025 angewendeter AV-Tarif EET bzw.
-            MED
-
-
-    *        *            ![banzat_2023_825202_16.jpg](banzat_2023_825202_16.jpg)
-        *   =
-
-        *   entsprechender Indexwert des 2. Quartals des der Vergütungsperiode
-            VP                              vorangegangenen Kalenderjahres
-
-
-    *        *            ![banzat_2023_825202_17.jpg](banzat_2023_825202_17.jpg)
-        *   =
-
-        *   entsprechender Indexwert des 2. Quartals 2023
-
-
-    *        *   VP
-
-        *   =
-
-        *   Vergütungsperiode für die der Index angewendet wird
-
-
-
+    Sofern Indizes nicht mehr veröffentlicht werden, werden die an ihre
+    Stelle tretenden veröffentlichten Indizes verwendet. Wenn Indexwerte
+    nicht rechtzeitig für die Abrechnung zu den jeweiligen
+    Anpassungszeitpunkten zur Verfügung stehen, erfolgt die Bestimmung zum
+    frühestmöglichen Zeitpunkt und eine eventuelle Erhöhung des AV-Tarifs
+    wird rückwirkend ab dem Anpassungszeitpunkt gezahlt.
 
 
 2.2 Prüfung und Bewertung der Entwicklung des EETS in Europa
 
-    Der Mauterheber wird die Entwicklung des EETS-Marktes in Europa
-    kontinuierlich beobachten und bewerten, ob im Rahmen der Überprüfung
-    eine Anpassung des EETS-Vergütungsmodells für die nächste
-    Vergütungsperiode erfolgen muss.
+    Der Mauterheber beobachtet die Entwicklung des EETS-Marktes in Europa
+    kontinuierlich und bewertet, ob im Rahmen der Überprüfung eine
+    Anpassung des EETS-Vergütungsmodells für die nächste Vergütungsperiode
+    ab dem 1. Januar 2028 erfolgen muss.
 
     Der Mauterheber behält sich vor, Anpassungen am EETS-Vergütungsmodell
     vorzunehmen, wenn sich Annahmen, die bei der initialen Entwicklung des
@@ -4792,8 +4147,8 @@ verstehen.
     EETS in Europa getroffen wurden, als nicht mehr zutreffend erweisen
     oder sich sonstige relevante Rahmenbedingungen ändern.
 
-    Insbesondere wird der Mauterheber dabei die folgenden Aspekte in
-    seiner Prüfung berücksichtigen:
+    Insbesondere berücksichtigt der Mauterheber die folgenden Aspekte in
+    seiner Prüfung:
 
     1.  die Anzahl der von EETS-Anbietern abgedeckten EETS-Gebiete,
 
@@ -4813,20 +4168,12 @@ verstehen.
     5.  die Anpassungen relevanter europäischer Vorgaben mit Bezug zum EETS,
         insbesondere
 
-        a)  die Richtlinie (EU) 2019/520 des Europäischen Parlaments und des Rates
-            vom 19. März 2019 über die Interoperabilität elektronischer
-            Mautsysteme und die Erleichterung des grenzüberschreitenden
-            Informationsaustauschs über die Nichtzahlung von
-            Straßenbenutzungsgebühren in der Union (ABl. L 91 vom 29.3.2019, S.
-            45) in der jeweils geltenden Fassung und die auf ihrer Grundlage
-            erlassenen Rechtsakte sowie
+        a)  die Richtlinie (EU) 2019/520 und die auf ihrer Grundlage erlassenen
+            Rechtsakte sowie
 
 
-        b)  die Richtlinie 1999/62/EG des Europäischen Parlaments und des Rates
-            vom 17. Juni 1999 über die Erhebung von Gebühren für die Benutzung
-            bestimmter Verkehrswege durch schwere Nutzfahrzeuge (ABl. L 187 vom
-            20\.7.1999, S. 42) in der jeweils geltenden Fassung und die auf ihrer
-            Grundlage erlassenen Rechtsakte.
+        b)  die Richtlinie 1999/62/EG und die auf ihrer Grundlage erlassenen
+            Rechtsakte.
 
 
 
@@ -4837,32 +4184,38 @@ verstehen.
     In Folge der Prüfung und Bewertung der Entwicklung des EETS in Europa
     kann eine Anpassung des Betriebsentgelts, des AV-Tarifs oder des
     Nutzungs- und Zahlungsprovisionsentgelts erfolgen, die jeweils ab der
-    nächsten Vergütungsperiode gültig wird.
+    nächsten Vergütungsperiode gilt.
 
-    Im Falle der Vornahme von Änderungen wird der Mauterheber dem EETS-
+    Im Fall der Vornahme von Änderungen wird der Mauterheber dem EETS-
     Anbieter im Rahmen der Übermittlung des EETS-Vergütungsmodells für die
     nachfolgende Vergütungsperiode auch Informationen zu den geänderten
     Annahmen und/oder Rahmenbedingungen bereitstellen.
 
 
-2.3 Ermittlung der Änderungspauschale
+2.3 Betriebsentgelt und Ermittlung der Änderungspauschale
 
     EETS-Anbieter erhalten als Teil des Betriebsentgelts eine
     Änderungspauschale für die Umsetzung von technischen oder prozessualen
     Änderungen in ihren Systemen, die durch den Mauterheber initiiert
     werden.
 
+    Die Höhe des Betriebsentgelts wurde für die Vergütungsperiode 2026 bis
+    2027 (1. Januar 2026 bis 31. Dezember 2027) festgelegt. Innerhalb
+    dieser Vergütungsperiode ist nur eine Anpassung der
+    Änderungspauschalen bei Hinzukommen von derzeit noch nicht bekannten
+    Änderungsvorhaben möglich.
+
 
 2.3.1 Überprüfung und Festlegung der Änderungspauschale
 
-    Die Höhe der Änderungspauschale wurde für die Vergütungsperioden 2021
-    bis 2023 bzw. 2023 bis 2025 festgelegt. Dabei wurden für die folgenden
-    Änderungsvorhaben Abschätzungen des damit für die EETS-Anbieter
-    verbundenen Aufwands erstellt. Für die Änderungsvorhaben in den
-    Bereichen B) und C), die außer für das Mautgebiet BFStrMG noch für
-    weitere Mautgebiete genutzt werden können, wurde bei der
-    Aufwandsschätzung entsprechendes Synergiepotential berücksichtigt. Die
-    jeweils insgesamt abgeschätzten Aufwände werden als Teil des
+    Die Höhe der Änderungspauschale wurde für die Vergütungsperiode 2026
+    bis 2027 (1. Januar 2026 bis 31. Dezember 2027) festgelegt. Dabei gibt
+    es derzeit nur ein Änderungsvorhaben des Bereichs A (regelmäßige
+    operative Tätigkeiten des Mautbetriebs). Änderungsvorhaben in den
+    Bereichen B (technische Änderungen) und C (gesetzliche oder fachliche
+    Änderungen) sind derzeit nicht geplant.
+
+    Die jeweils insgesamt abgeschätzten Aufwände werden als Teil des
     Betriebsentgelts über die gesamte Dauer der Vergütungsperiode vergütet
     und anteilig auf ein Kalenderjahr berechnet, so dass sich die
     folgenden jährlichen Änderungspauschalen ergeben:
@@ -4871,66 +4224,37 @@ verstehen.
 
         *   Änderungsvorhaben
 
-        *   Jährliche Änderungspauschale
-
-
-    *        *   EETS-Anbieter mit eigener
-            Erkennung und Tarifierung
-
-        *   EETS-Anbieter, die den
-            Mauterhebungsdienst nutzen
+        *   Jährliche
+            Änderungspauschale
 
 
     *        *   A
 
-        *   Konfigurative oder betriebliche Anpassungen an den technischen
+        *   konfigurative oder betriebliche Anpassungen an den technischen
             Anbindungen zur Produktiv- oder zu den Testumgebungen des Mauterhebers
             oder Anpassungen an den organisatorischen oder Backoffice-
             Schnittstellen zwischen EETS-Anbieter und Mauterheber
-
-        *   48 276 EUR
 
         *   105 835 EUR
 
 
     *        *   B
 
-        *   Aktualisierung Schnittstelle SST301 (DSRC-Schnittstelle) auf Version
-            3\.0
+        *[^F834458_02_BJNR608630018BJNE005103123]
+   keine Vorhaben in der Vergütungsperiode 2026 bis 2027 geplant
 
-        *   210 813 EUR
-
-        *   210 813 EUR
-
-
-    *        *   B
-
-        *[^f825202_01_BJNR608630018BJNE005101123]
-   Aktualisierung der Backoffice-Schnittstellen auf die neue Version des
-            Standards CEN TS 16986:202X (Teil 1)
-
-        *   69 414 EUR
-
-        *   105 406 EUR
-
+        *
 
     *        *   C
 
-        *   Einführung einer CO
-            2                             -differenzierten Bemautung auf Basis der
-            aktualisierten Wegekostenrichtlinie
+        *   keine Vorhaben in der Vergütungsperiode 2026 bis 2027 geplant
 
-        *   88 696 EUR
-
-        *   74 556 EUR
-
+        *
 
     *        *
         *   **Summe**
 
-        *   **417 199 EUR**
-
-        *   **496 610 EUR**
+        *   **105 835 EUR**
 
 
 
@@ -4939,48 +4263,47 @@ verstehen.
     Änderungspauschale für die nachfolgende Vergütungsperiode entsprechend
     der nachfolgenden Regelungen überprüft und neu festgelegt.
 
-    Der Mauterheber wird Art und Umfang der von ihm für den Zeitraum der
-    bevorstehenden Vergütungsperiode geplanten technischen und
+    Der Mauterheber schätzt Art und Umfang der von ihm für den Zeitraum
+    der bevorstehenden Vergütungsperiode geplanten technischen und
     prozessualen Änderungen, die für das Mautgebiet BFStrMG relevant sind,
-    abschätzen. Ausgehend von der Abschätzung wird die als Bestandteil des
+    ab. Ausgehend von der Abschätzung wird die als Bestandteil des
     Betriebsentgelts zu vergütende Änderungspauschale festgelegt, die ab
-    der nächsten Vergütungsperiode gültig wird.
+    der nächsten Vergütungsperiode gilt.
 
-    Der Mauterheber wird die EETS-Anbieter zum Start der Umsetzung von
-    Änderungsvorhaben der nachfolgenden Bereiche B) und C) in Textform
-    auffordern.
+    Der Mauterheber fordert die EETS-Anbieter zum Start der Umsetzung von
+    Änderungsvorhaben der Bereiche B) und C) in Textform auf.
 
     EETS-Anbieter erhalten für Änderungsvorhaben in den Bereichen B) und
     C) jedoch nur dann eine Vergütung, wenn zum Zeitpunkt der Aufforderung
     zur Umsetzung des jeweiligen Änderungsvorhabens durch den Mauterheber
-    der jeweilige EETS-Anbieter bereits die Prüfvereinbarung gemäß EEMD-
-    ZVAnl I unterzeichnet hat.
+    der jeweilige EETS-Anbieter bereits die Prüfvereinbarung (Anlage I der
+    EEMD-Zulassungsverordnung) unterzeichnet hat.
 
     Sofern der Mauterheber die EETS-Anbieter zum Start der Umsetzung eines
     ursprünglich geplanten und in der Änderungspauschale berücksichtigten
     Änderungsvorhabens während der gesamten Vergütungsperiode nicht
-    aufgefordert hat, wird der Mauterheber die für dieses
+    aufgefordert hat, fordert der Mauterheber die für dieses
     Änderungsvorhaben vorgesehene Vergütung und bereits an die EETS-
-    Anbieter gezahlte Vergütung im Rahmen einer Endabrechnung gemäß Nummer
-    2\.3.4 zurückfordern.
+    Anbieter gezahlte Vergütung im Rahmen einer Endabrechnung gemäß Ziffer
+    2\.3.4 zurück.
 
     Technische und prozessuale Änderungsvorhaben, die bei der Ermittlung
     der Änderungspauschale berücksichtigt werden, können sich in folgenden
     Bereichen ergeben:
 
-    A)  Individuelle konfigurative oder betriebliche Anpassungen an den
+    A)  individuelle konfigurative oder betriebliche Anpassungen an den
         technischen Anbindungen zur Produktiv- oder zu den Testumgebungen des
         Mauterhebers oder Anpassungen an den organisatorischen oder
         Backoffice-Schnittstellen zwischen EETS-Anbieter und Mauterheber, zum
         Beispiel
 
-        •   Änderungen der Belegung oder der Wertebereiche einzelner Attribute
+        –   Änderungen der Belegung oder der Wertebereiche einzelner Attribute
 
 
-        •   Entfall der Übermittlung eines Wertes oder des Inhalts eines Attributs
+        –   Entfall der Übermittlung eines Wertes oder des Inhalts eines Attributs
 
 
-        •   Ergänzung der Übermittlung eines gemäß dem relevanten Standard
+        –   Ergänzung der Übermittlung eines gemäß dem relevanten Standard
             vorgesehenen Attributs
 
 
@@ -4991,19 +4314,19 @@ verstehen.
         technischen Standards, der in Anhang I der Durchführungsverordnung
         (EU) 2020/204 genannt ist, namentlich:
 
-        •   EN 15509
+        –   EN 15509
 
 
-        •   EN ISO 12813
+        –   EN ISO 12813
 
 
-        •   EN ISO 13141
+        –   EN ISO 13141
 
 
-        •   EN ISO 12855
+        –   EN ISO 12855
 
 
-        •   CEN TS 16986
+        –   CEN TS 16986
 
 
 
@@ -5013,21 +4336,12 @@ verstehen.
         Recht. Relevante europäische Vorgaben, aus denen sich Anpassungen
         ergeben können, sind namentlich:
 
-        •   die Richtlinie (EU) 2019/520 des Europäischen Parlaments und des Rates
-            vom 19. März 2019 über die Interoperabilität elektronischer
-            Mautsysteme und die Erleichterung des grenzüberschreitenden
-            Informationsaustauschs über die Nichtzahlung von
-            Straßenbenutzungsgebühren in der Union (ABl. L 91 vom 29.3.2019, S.
-            45) in der jeweils geltenden Fassung und die auf ihrer Grundlage
-            erlassenen Rechtsakte
+        –   die Richtlinie (EU) 2019/520 und die auf ihrer Grundlage erlassenen
+            Rechtsakte
 
 
-        •   die Richtlinie 1999/62/EG des Europäischen Parlaments und des Rates
-            vom 17. Juni 1999 über die Erhebung von Gebühren für die Benutzung
-            bestimmter Verkehrswege durch schwere Nutzfahrzeuge (ABl. L 187 vom
-            20\.7.1999, S. 42) in der jeweils geltenden Fassung und die auf ihrer
-            Grundlage erlassenen Rechtsakte.
-
+        –   die Richtlinie 1999/62/EG und die auf ihrer Grundlage erlassenen
+            Rechtsakte.
 
 
 
@@ -5041,20 +4355,15 @@ verstehen.
 
     Der abgeschätzte Aufwand für Bestandteile eines Änderungsvorhabens,
     die außer für das Mautgebiet BFStrMG noch für weitere Mautgebiete
-    genutzt werden können, insbesondere
-    Entwicklungs-/Implementierungskosten, wird anteilig in der
-    Änderungspauschale angesetzt. Abgeschätzte Aufwände für Bestandteile
-    eines Änderungsvorhabens, die kein Synergiepotential zu anderen
-    Mautgebieten haben, insbesondere Aufwand für Änderungen aus dem
-    Bereich A) oder für individuelle Tests oder Prüfungen des Mauterhebers
-    werden vollständig in der Änderungspauschale berücksichtigt.
-
-    Es werden separate Aufwandsschätzungen für EETS-Anbieter, die den MED
-    nutzen und solche, die den MED noch nicht nutzen, durchgeführt.
-    Weitere Unterscheidungen werden nicht vorgenommen und es werden
-    insbesondere keine EETS-Anbieter individuellen Aufwandsschätzungen
-    durchgeführt.
-
+    genutzt werden können, insbesondere Entwicklungs-/
+    Implementierungskosten, wird anteilig in der Änderungspauschale
+    angesetzt. Abgeschätzte Aufwände für Bestandteile eines
+    Änderungsvorhabens, die kein Synergiepotential zu anderen Mautgebieten
+    haben, insbesondere Aufwand für Änderungen aus dem Bereich A) oder für
+    individuelle Tests oder Prüfungen des Mauterhebers, werden vollständig
+    in der Änderungspauschale berücksichtigt. Es werden keine weiteren
+    Unterscheidungen vorgenommen und es werden insbesondere keine für
+    jeden EETS-Anbieter individuellen Aufwandsschätzungen durchgeführt.
     Der Mauterheber wird dem EETS-Anbieter im Rahmen der Übermittlung des
     EETS-Vergütungsmodells für die nachfolgende nächste Vergütungsperiode
     auch Informationen zu den prognostizierten Änderungsvorhaben sowie den
@@ -5068,10 +4377,10 @@ verstehen.
     durch die EETS-Anbieter initiiert, welches in der Prognose für die
     Vergütungsperiode noch nicht enthalten war, wird der Mauterheber für
     dieses zusätzliche Änderungsvorhaben eine Aufwandsabschätzung nach den
-    in Nummer 2.3.1 beschriebenen Regeln durchführen und die
+    in Ziffer 2.3.1 beschriebenen Regeln durchführen und die
     Änderungspauschale während der laufenden Vergütungspauschale
-    entsprechend erhöhen. Ein Änderungsvorgaben ist dann zusätzlich im
-    Sinne des Satz 1, wenn es nicht bereits in Nummer 2.3.1 mit umfasst
+    entsprechend erhöhen. Ein Änderungsvorhaben ist dann zusätzlich im
+    Sinne des Satzes 1, wenn es nicht bereits in Ziffer 2.3.1 mit umfasst
     ist.
 
 
@@ -5082,23 +4391,20 @@ verstehen.
     Anbieter innerhalb einer laufenden Vergütungsperiode liegt, erhält der
     EETS-Anbieter bis zum Ende der Vergütungsperiode die
     Änderungspauschale in der für diese Vergütungsperiode festgelegten
-    Höhe als Teil des Betriebsentgelts.
-
-    Für Änderungsvorhaben aus den Bereichen B) und C) erfolgt in diesem
-    Fall nach Umsetzung des Änderungsvorhabens durch den EETS-Anbieter
-    eine Abschlussvergütung, über die der verbleibende Betrag für die
-    Umsetzung des Änderungsvorhabens vergütet wird, der noch nicht über
-    das Betriebsentgelt vergütet wurde. Dies gilt nur, wenn zum Zeitpunkt
-    der Aufforderung zur Umsetzung des jeweiligen Änderungsvorhabens durch
-    den Mauterheber der jeweilige EETS-Anbieter bereits die
-    Prüfvereinbarung gemäß EEMD-ZVAnl I unterzeichnet hat.
+    Höhe als Teil des Betriebsentgelts. Für Änderungsvorhaben aus den
+    Bereichen B) und C) erfolgt in diesem Fall nach Umsetzung des
+    Änderungsvorhabens durch den EETS-Anbieter eine Abschlussvergütung,
+    über die der verbleibende Betrag für die Umsetzung des
+    Änderungsvorhabens vergütet wird, der noch nicht über das
+    Betriebsentgelt vergütet wurde. Dies gilt nur, wenn zum Zeitpunkt der
+    Aufforderung zur Umsetzung des jeweiligen Änderungsvorhabens durch den
+    Mauterheber der jeweilige EETS-Anbieter bereits die Prüfvereinbarung
+    (Anlage I der EEMD-Zulassungsverordnung) unterzeichnet hat.
 
     Die Höhe des noch offenen Vergütungsbetrags wird für jedes
     Änderungsvorhaben aus den Bereichen B) und C) wie folgt ermittelt:
 
-    *        *
-        *   Abgeschätzter Gesamtaufwand für das Änderungsvorhaben
-
+    Abgeschätzter Gesamtaufwand für das Änderungsvorhaben
 
     *        *   ./.
 
@@ -5108,7 +4414,7 @@ verstehen.
 
     *        *   **=**
 
-        *   **Noch offener Vergütungsbetrag für das Änderungsvorhaben**
+        *   **noch offener Vergütungsbetrag für das Änderungsvorhaben**
 
 
 
@@ -5124,16 +4430,33 @@ verstehen.
     Vergütungsperiode für das ursprünglich geplante Änderungsvorhaben an
     den EETS-Anbieter gezahlte Vergütung zurückfordern oder mit dem für
     die kommende Vergütungsperiode geplanten Betriebsentgelt verrechnen.
-
     Die Höhe des zurückgeforderten Vergütungsbetrags entspricht dem Teil
     des Betriebsentgelts, der seit dem Vertragsbeginn an den EETS-Anbieter
     für jedes betroffene Änderungsvorhaben aus den Bereichen B) und C)
     gezahlt wurde.
 
 
+2.4 Nutzungs- und Zahlungsprovisionsentgelt
+
+    Die Höhe des Nutzungs- und Zahlungsprovisionsentgelts wurde für die
+    Vergütungsperiode 2026 bis 2027 (1. Januar 2026 bis 31. Dezember 2027)
+    festgelegt und es sind innerhalb dieser Vergütungsperiode keine
+    Änderungen vorgesehen.
 
 
-    Das Änderungsvorhaben wird nicht vollständig in der Vergütungsperiode
-    2021 bis 2023 umgesetzt und als Teil 2 in der nachfolgenden
-    Vergütungsperiode fortgesetzt.
-[^f825202_01_BJNR608630018BJNE005101123]: 
+
+
+    Die Anpassung bereits zum Beginn der Vergütungsperiode ist begründet
+    durch den zeitlichen Vorlauf bei der Erstellung des Vergütungsmodells.
+    Zum Zeitpunkt der Erstellung des Vergütungsmodells konnte die
+    preisliche Entwicklung bis zum dritten Quartal 2025 noch nicht
+    berücksichtigt werden.
+[^F834458_01_BJNR608630018BJNE005103123]:     Für das ursprünglich in zwei Teilen geplante Änderungsvorhaben
+    „Aktualisierung der Backoffice-Schnittstellen auf die neue Version des
+    Standards CEN TS 16986:202X“ ist kein zweiter Teil mehr erforderlich.
+    Alle heute erkennbaren Änderungen am kommenden Standard EN 16986:2025
+    sind innerhalb der ursprünglichen Planungen des Teils 1 realisierbar.
+    Teil 2 war vorgesehen für Änderungen, die zum Zeitpunkt der Planung
+    aufgrund der langen Entwicklungsdauer des Standards nicht absehbar
+    waren.
+[^F834458_02_BJNR608630018BJNE005103123]: 

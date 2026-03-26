@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2012, 1006
 
 Zuletzt geändert durch
-:   Art. 2 V v. 17.4.2023 I Nr. 103
+:   Art. 9 V v. 11.12.2024 I Nr. 411
 
 
 ## Abschnitt 1 - Sachkundenachweis
@@ -254,8 +254,8 @@ durch Satzung.
 
 ### § 4 Gleichstellung anderer Berufsqualifikationen
 
-(1) Folgende Berufsqualifikationen und deren Vorläufer sind der
-Sachkundeprüfung gleichgestellt:
+(1) Folgende Berufsqualifikationen und deren Vorläufer oder Nachfolger
+sind der Sachkundeprüfung gleichgestellt:
 
 1.  eine mit Erfolg abgelegte Abschlussprüfung
 
@@ -925,7 +925,7 @@ werden, folgende Beträge nicht übersteigt:
 
 
 2.  den zweifachen Betrag des durchschnittlichen monatlichen
-    Nettoeinkommens des jeweiligen Anlegers, höchstens jedoch 10 000 Euro.
+    Nettoeinkommens des jeweiligen Anlegers, höchstens jedoch 25 000 Euro.
 
 
 
@@ -1177,29 +1177,7 @@ Absatz 1 Satz 1 der Gewerbeordnung Eigentum oder Besitz an Geldern
 oder Anteilen von Anlegern zu verschaffen.
 
 
-### § 21 Anzeigepflicht
-
-Der Gewerbetreibende hat der für die Erlaubniserteilung nach § 34f
-Absatz 1 oder § 34h Absatz 1 der Gewerbeordnung zuständigen Behörde
-unverzüglich nach Satz 3 anzuzeigen, welche Personen jeweils mit der
-Leitung des Betriebs oder einer Zweigniederlassung beauftragt sind.
-Dies gilt bei juristischen Personen auch für die nach Gesetz, Satzung
-oder Gesellschaftsvertrag jeweils zur Vertretung berufenen Personen.
-In der Anzeige ist für jede Person Folgendes anzugeben:
-
-1.  der Name, der Geburtsname, sofern dieser vom Namen abweicht, sowie der
-    Vorname,
-
-
-2.  die Staatsangehörigkeit oder Staatsangehörigkeiten,
-
-
-3.  der Geburtstag und -ort sowie
-
-
-4.  die Anschrift.
-
-
+### § 21 (weggefallen)
 
 
 
@@ -1472,32 +1450,27 @@ Gewerbeordnung handelt, wer vorsätzlich oder fahrlässig
     Anlegers verschafft,
 
 
-18. entgegen § 21 Satz 1, auch in Verbindung mit Satz 2, eine Anzeige
-    nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig
-    erstattet,
-
-
-19. entgegen § 22 Absatz 1 Satz 1 eine Aufzeichnung nicht, nicht richtig,
+18. entgegen § 22 Absatz 1 Satz 1 eine Aufzeichnung nicht, nicht richtig,
     nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht
     rechtzeitig macht, entgegen § 23 Satz 1 eine Unterlage nicht, nicht in
     der vorgeschriebenen Weise oder nicht mindestens fünf Jahre
     aufbewahrt,
 
 
-20. entgegen § 24 Absatz 1 Satz 1 oder Satz 5 einen Prüfungsbericht oder
+19. entgegen § 24 Absatz 1 Satz 1 oder Satz 5 einen Prüfungsbericht oder
     eine Erklärung nicht, nicht richtig, nicht vollständig oder nicht
     rechtzeitig übermittelt,
 
 
-21. einer vollziehbaren Anordnung nach § 24 Absatz 2 Satz 1
+20. einer vollziehbaren Anordnung nach § 24 Absatz 2 Satz 1
     zuwiderhandelt,
 
 
-22. entgegen § 25 Absatz 1 Satz 1 einem Prüfer eine Einsicht nicht
+21. entgegen § 25 Absatz 1 Satz 1 einem Prüfer eine Einsicht nicht
     gestattet oder
 
 
-23. entgegen § 25 Absatz 1 Satz 2 einem Prüfer eine Aufklärung oder einen
+22. entgegen § 25 Absatz 1 Satz 2 einem Prüfer eine Aufklärung oder einen
     Nachweis nicht, nicht richtig, nicht vollständig oder nicht
     rechtzeitig gibt.
 

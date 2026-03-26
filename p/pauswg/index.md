@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2009, 1346
 
 Zuletzt geändert durch
-:   Art. 2 G v. 8.10.2023 I Nr. 271
-
-Änderung durch
-:   Art. 3 Abs. 2 G v. 22.3.2024 I Nr. 104 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 8 G v. 23.10.2024 I Nr. 323
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
@@ -424,11 +421,7 @@ erforderlich ist; sie darf einen Zeitraum von drei Jahren nicht
 
 (5) Eine Verlängerung der Gültigkeitsdauer ist nicht zulässig.
 
-(6) Die Gültigkeitsdauer eines Ausweises darf in den Fällen des § 29
-des Staatsangehörigkeitsgesetzes den Zeitpunkt der Vollendung des 23.
-Lebensjahres des Inhabers so lange nicht überschreiten, bis die
-zuständige Behörde den Fortbestand der deutschen Staatsangehörigkeit
-festgestellt hat.
+(6) (weggefallen)
 
 (7) Unter den Voraussetzungen des § 7 Abs. 1 des Passgesetzes kann die
 zuständige Behörde im Einzelfall anordnen, dass der Ausweis nicht zum
@@ -533,6 +526,61 @@ Informationsfreiheit zuständige Datenschutzaufsichtsbehörde im Sinne
 des § 21 Absatz 4 Satz 3.
 
 
+### § 7a Beleihung
+
+(1) Das Bundesministerium des Innern und für Heimat kann
+teilrechtsfähigen Vereinigungen sowie juristischen Personen des
+Privatrechts zur Wahrnehmung der Aufgabe des elektronisch beantragten
+Neusetzens der Geheimnummer nach § 20 Absatz 2 der
+Personalausweisverordnung Hoheitsbefugnisse übertragen (Beleihung).
+Der Beliehene tritt insoweit an die Stelle des Ausweisherstellers; er
+ist Träger der öffentlichen Verwaltung.
+
+(2) Die Beleihung ist nur zulässig, wenn
+
+1.  der zu Beleihende den Stand der Technik für die zu übertragende
+    Aufgabe einhält,
+
+
+2.  die ordnungsgemäße Erfüllung der zu übertragenden Aufgabe durch den zu
+    Beleihenden sichergestellt wird,
+
+
+3.  die Erfüllung der zu übertragenden Aufgabe durch den zu Beleihenden
+    voraussichtlich Wirtschaftlichkeitsvorteile gegenüber einer
+    staatlichen Aufgabenwahrnehmung aufweisen wird und
+
+
+4.  keine überwiegenden öffentlichen Interessen entgegenstehen.
+
+
+
+Die Beleihung ist im Bundesanzeiger bekannt zu machen. Das Vorliegen
+der Voraussetzungen nach Satz 1 ist in regelmäßigen Abständen zu
+prüfen.
+
+(3) Die Beleihung kann jederzeit ganz oder teilweise zurückgenommen,
+widerrufen oder mit Nebenbestimmungen verbunden werden; der Zeitpunkt
+der Maßnahme hat die Interessen des Beliehenen angemessen zu
+berücksichtigen. Liegen die Voraussetzungen nach Absatz 2 Satz 1 nicht
+mehr vor, so ist die Beleihung zu widerrufen. Soweit die Beleihung
+zurückgenommen oder widerrufen wurde, ist dies im Bundesanzeiger
+bekannt zu machen.
+
+(4) Der Beliehene untersteht im Umfang der ihm übertragenen Aufgabe
+der Rechts- und Fachaufsicht des Bundesministeriums des Innern und für
+Heimat.
+
+(5) Im Umfang der übertragenen Aufgabe findet § 31 Absatz 1 auf den
+Beliehenen entsprechend Anwendung.
+
+(6) Wird der Bund von einem Dritten wegen eines Schadens in Anspruch
+genommen, den der Beliehene in Ausübung des ihm anvertrauten Amtes dem
+Dritten durch eine Amtspflichtverletzung zugefügt hat, so kann der
+Bund bei Vorsatz oder grober Fahrlässigkeit beim Beliehenen Rückgriff
+nehmen.
+
+
 ### § 8 Örtliche Zuständigkeit; Tätigwerden bei örtlicher Unzuständigkeit
 
 (1) In Deutschland ist die Personalausweisbehörde zuständig, in deren
@@ -595,18 +643,38 @@ dürfen Verfahrenshandlungen nach diesem Gesetz vornehmen.
 (3) In dem Antrag sind alle Tatsachen anzugeben, die zur Feststellung
 der Person des Antragstellers und seiner Eigenschaft als Deutscher
 notwendig sind. Die Angaben zum Doktorgrad und zu den Ordens- und
-Künstlernamen sind freiwillig. Die antragstellende Person hat die
+Künstlernamen sind freiwillig. Das Lichtbild ist nach Wahl der
+antragstellenden Person
+
+1.  durch einen Dienstleister elektronisch zu fertigen und im Anschluss
+    von diesem durch ein sicheres Verfahren an die Personalausweisbehörde
+    zu übermitteln oder
+
+
+2.  durch die Personalausweisbehörde elektronisch zu fertigen, sofern die
+    Behörde über Geräte zur Lichtbildaufnahme verfügt.
+
+
+
+Eine Veränderung des Lichtbilds ist nur nach Maßgabe dieses Gesetzes
+oder nach Maßgabe von Vorschriften, die auf Grund dieses Gesetzes
+erlassen wurden, zulässig. Die antragstellende Person hat die
 erforderlichen Nachweise zu erbringen. Fingerabdrücke von Kindern sind
 nicht abzunehmen, solange die Kinder noch nicht sechs Jahre alt sind.
 
-(4) Bestehen Zweifel über die Person des Antragstellers, sind die zur
-Feststellung seiner Identität erforderlichen Maßnahmen zu treffen. Die
-Personalausweisbehörde kann die Durchführung erkennungsdienstlicher
-Maßnahmen veranlassen, wenn die Identität der antragstellenden Person
-auf andere Weise nicht oder nur unter erheblichen Schwierigkeiten
-festgestellt werden kann. Ist die Identität festgestellt, so sind die
-im Zusammenhang mit der Feststellung angefallenen Unterlagen zu
-vernichten. Die Vernichtung ist zu protokollieren.
+(4) Bestehen Zweifel über die Identität der im Lichtbild abgebildeten
+Person oder besteht ein Verdacht auf eine unzulässige Bearbeitung des
+Lichtbilds, kann die Personalausweisbehörde anordnen, dass das
+Lichtbild in Gegenwart eines Mitarbeiters in einer
+Personalausweisbehörde zu fertigen ist. Bestehen Zweifel über die
+Person des Antragstellers, sind die zur Feststellung seiner Identität
+erforderlichen Maßnahmen zu treffen. Die Personalausweisbehörde kann
+die Durchführung erkennungsdienstlicher Maßnahmen veranlassen, wenn
+die Identität der antragstellenden Person auf andere Weise nicht oder
+nur unter erheblichen Schwierigkeiten festgestellt werden kann. Ist
+die Identität festgestellt, so sind die im Zusammenhang mit der
+Feststellung angefallenen Unterlagen zu vernichten. Die Vernichtung
+ist zu protokollieren.
 
 (5) Die Unterschrift durch ein Kind ist zu leisten, wenn es zum
 Zeitpunkt der Beantragung des Ausweises zehn Jahre oder älter ist.
@@ -631,6 +699,16 @@ Personalausweises kann ein ausgeschalteter elektronischer
 Identitätsnachweis während der Gültigkeitsdauer des Personalausweises
 eingeschaltet werden, wenn der Ausweisinhaber zum Zeitpunkt der
 Antragstellung bereits 16 Jahre alt ist.
+
+(3a) Das Bundesministerium des Innern und für Heimat soll nach Prüfung
+durch das Bundesamt für Sicherheit in der Informationstechnik für
+Fälle, in denen der Nachweis der Identität durch einen elektronischen
+Identitätsnachweis nach § 18 dieses Gesetzes, nach § 12 des eID-Karte-
+Gesetzes oder nach § 78 Absatz 5 des Aufenthaltsgesetzes erbracht
+wurde, für die spätere Authentisierung des Inhabers des elektronischen
+Identitätsnachweises auch andere Authentisierungsmittel befristet
+zulassen. Das Bundesministerium des Innern und für Heimat gibt die
+Zulassung und die Dauer der Befristung im Bundesanzeiger bekannt.
 
 (4) Der Sperrlistenbetreiber nach § 7 Abs. 4 Satz 2 stellt jedem
 Diensteanbieter über jederzeit öffentlich erreichbare
@@ -803,15 +881,15 @@ der Nutzung allgemein zugänglicher Netze sind
 Verschlüsselungsverfahren anzuwenden, die dem jeweiligen Stand der
 Technik entsprechen.
 
-(2) Zur elektronischen Erfassung, Echtheitsbewertung und
-Qualitätssicherung des Lichtbildes und der Fingerabdrücke sowie zur
-Übermittlung der Ausweisdaten von der Personalausweisbehörde an den
-Ausweishersteller dürfen ausschließlich solche technischen Systeme und
-Bestandteile eingesetzt werden, die den Anforderungen der
-Rechtsverordnung nach § 34 Satz 1 Nummer 3 entsprechen. Die Einhaltung
-der Anforderungen ist vom Bundesamt für Sicherheit in der
-Informationstechnik gemäß der Rechtsverordnung nach § 34 Satz 1 Nummer
-4 festzustellen.
+(2) Zur Aufnahme und elektronischen Erfassung des Lichtbilds nach § 9
+Absatz 3 Satz 3 Nummer 2 und der Fingerabdrücke, deren
+Qualitätssicherung sowie zur Übermittlung der Ausweisantragsdaten von
+der Personalausweisbehörde an den Ausweishersteller dürfen
+ausschließlich solche technischen Systeme und Bestandteile eingesetzt
+werden, die den Anforderungen der Rechtsverordnung nach § 34 Satz 1
+Nummer 3 entsprechen. Die Einhaltung der Anforderungen ist vom
+Bundesamt für Sicherheit in der Informationstechnik gemäß der
+Rechtsverordnung nach § 34 Satz 1 Nummer 4 festzustellen.
 
 
 ### § 13 (weggefallen)
@@ -1420,6 +1498,9 @@ Bearbeitungsvermerken ausschließlich folgende Daten enthalten:
 9.  Staatsangehörigkeit,
 
 
+9a. Identifikationsnummer nach § 139b der Abgabenordnung,
+
+
 10. Familienname, Vornamen, Tag der Geburt und Unterschrift des
     gesetzlichen Vertreters,
 
@@ -1444,19 +1525,21 @@ Bearbeitungsvermerken ausschließlich folgende Daten enthalten:
     Absatz 1 bis 3,
 
 
-16. Angaben zur Erklärungspflicht des Ausweisinhabers nach § 29 des
-    Staatsangehörigkeitsgesetzes,
+16. (weggefallen)
 
 
-17. die Tatsache, dass die Funktion zum elektronischen Identitätsnachweis
-    mit Personalausweis ausgeschaltet wurde oder in die Sperrliste
-    eingetragen ist,
+17. E-Mail-Adresse, sofern der Personalausweisinhaber in die Speicherung
+    einwilligt,
 
 
-18. Ordensname, Künstlername und
+18. Ordensname, Künstlername,
 
 
-19. den Nachweis über eine erteilte Ermächtigung nach § 8 Abs. 4 Satz 2.
+19. den Nachweis über eine erteilte Ermächtigung nach § 8 Absatz 4 Satz 2
+    und
+
+
+20. lichtbildaufnehmende Stelle.
 
 
 
@@ -1599,6 +1682,27 @@ abrufenden Behörde protokolliert. Die Protokolle enthalten:
 
 § 24 Abs. 3 Satz 5 gilt entsprechend.
 
+(3) Bei der Einrichtung eines automatisierten Abrufverfahrens hat die
+abrufberechtigte Stelle durch geeignete technische und
+organisatorische Maßnahmen nach den Artikeln 24, 25 und 32 der
+Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom
+27\. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung
+personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der
+Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom
+4\.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S.
+2; L 74 vom 4.3.2021, S. 35), nach § 64 des Bundesdatenschutzgesetzes
+und nach den entsprechenden landesgesetzlichen Regelungen
+sicherzustellen, dass Daten nur von hierzu befugten Personen
+automatisiert abgerufen werden können.
+
+(4) Die für einen zentralen Personalausweisregisterdatenbestand
+zuständige Stelle oder die Personalausweisbehörde trifft Maßnahmen
+nach den Artikeln 24, 25 und 32 der Verordnung (EU) 2016/679,
+insbesondere durch den Einsatz von Verschlüsselungstechnik und von
+Authentifizierungsverfahren, um den Datenschutz und die
+Datensicherheit zu gewährleisten. Bei Zweifeln an der Identität der
+abrufenden Stelle unterbleibt der automatisierte Abruf.
+
 
 ### § 26 Sonstige Speicherung personenbezogener Daten
 
@@ -1647,13 +1751,16 @@ unverzüglich
     Falle des Wiederauffindens diesen vorzulegen,
 
 
-4.  den Erwerb einer ausländischen Staatsangehörigkeit anzuzeigen und
-
-
-5.  anzuzeigen, wenn er auf Grund freiwilliger Verpflichtung in die
+4.  anzuzeigen, wenn er auf Grund freiwilliger Verpflichtung in die
     Streitkräfte oder einen vergleichbaren bewaffneten Verband eines
     ausländischen Staates, dessen Staatsangehörigkeit er besitzt,
-    eingetreten ist.
+    eingetreten ist und
+
+
+5.  im Falle der Ausgabe des Personalausweiseses im Wege des Versands
+    anzuzeigen, wenn die Sendung unbefugt geöffnet worden ist oder den
+    Personalausweis nicht enthält oder wenn der Personalausweis beschädigt
+    ist oder eine Angabe auf dem Personalausweis unrichtig ist.
 
 
 
@@ -1810,7 +1917,7 @@ bis zu 300 Prozent der Gebühren betragen.
 6.  entgegen § 20 Absatz 2 Satz 2 eine Kopie weitergibt oder
 
 
-7.  entgegen § 27 Abs. 1 Nr. 3, 4 oder Nr. 5 eine Anzeige nicht oder nicht
+7.  entgegen § 27 Absatz 1 Nummer 3 oder 4 eine Anzeige nicht oder nicht
     rechtzeitig erstattet.
 
 

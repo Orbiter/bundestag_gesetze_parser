@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 2.1.2002 I 42, 2909; 2003, 738;
 
 Zuletzt geändert durch
-:   Art. 34 Abs. 3 G v. 22.12.2023 I Nr. 411
+:   Art. 2 G v. 4.2.2026 I Nr. 33
 
 Dieses Gesetz dient der Umsetzung folgender Richtlinien:
 
@@ -130,7 +130,7 @@ Die Volljährigkeit tritt mit der Vollendung des 18. Lebensjahres ein.
 ##### § 7 Wohnsitz; Begründung und Aufhebung
 
 (1) Wer sich an einem Orte ständig niederlässt, begründet an diesem
-Ort seinen Wohnsitz.
+Orte seinen Wohnsitz.
 
 (2) Der Wohnsitz kann gleichzeitig an mehreren Orten bestehen.
 
@@ -321,7 +321,7 @@ zufügt.
 ###### § 31a Haftung von Organmitgliedern und besonderen Vertretern
 
 (1) Sind Organmitglieder oder besondere Vertreter unentgeltlich tätig
-oder erhalten sie für ihre Tätigkeit eine Vergütung, die 840 Euro
+oder erhalten sie für ihre Tätigkeit eine Vergütung, die 3 300 Euro
 jährlich nicht übersteigt, haften sie dem Verein für einen bei der
 Wahrnehmung ihrer Pflichten verursachten Schaden nur bei Vorliegen von
 Vorsatz oder grober Fahrlässigkeit. Satz 1 gilt auch für die Haftung
@@ -341,11 +341,11 @@ wurde.
 ###### § 31b Haftung von Vereinsmitgliedern
 
 (1) Sind Vereinsmitglieder unentgeltlich für den Verein tätig oder
-erhalten sie für ihre Tätigkeit eine Vergütung, die 840 Euro jährlich
-nicht übersteigt, haften sie dem Verein für einen Schaden, den sie bei
-der Wahrnehmung der ihnen übertragenen satzungsgemäßen Vereinsaufgaben
-verursachen, nur bei Vorliegen von Vorsatz oder grober Fahrlässigkeit.
-§ 31a Absatz 1 Satz 3 ist entsprechend anzuwenden.
+erhalten sie für ihre Tätigkeit eine Vergütung, die 3 300 Euro
+jährlich nicht übersteigt, haften sie dem Verein für einen Schaden,
+den sie bei der Wahrnehmung der ihnen übertragenen satzungsgemäßen
+Vereinsaufgaben verursachen, nur bei Vorliegen von Vorsatz oder grober
+Fahrlässigkeit. § 31a Absatz 1 Satz 3 ist entsprechend anzuwenden.
 
 (2) Sind Vereinsmitglieder nach Absatz 1 Satz 1 einem anderen zum
 Ersatz eines Schadens verpflichtet, den sie bei der Wahrnehmung der
@@ -377,7 +377,7 @@ muss bei der Berufung auch angegeben werden, wie die Mitglieder ihre
 Rechte im Wege der elektronischen Kommunikation ausüben können.
 
 (3) Auch ohne Versammlung der Mitglieder ist ein Beschluss gültig,
-wenn alle Mitglieder ihre Zustimmung zu dem Beschluss schriftlich
+wenn alle Mitglieder ihre Zustimmung zu dem Beschluss in Textform
 erklären.
 
 
@@ -387,7 +387,7 @@ erklären.
 eine Mehrheit von drei Vierteln der abgegebenen Stimmen erforderlich.
 Zur Änderung des Zweckes des Vereins ist die Zustimmung aller
 Mitglieder erforderlich; die Zustimmung der nicht erschienenen
-Mitglieder muss schriftlich erfolgen.
+Mitglieder muss in Textform erfolgen.
 
 (2) Beruht die Rechtsfähigkeit des Vereins auf Verleihung, so ist zu
 jeder Änderung der Satzung die Genehmigung der zuständigen Behörde
@@ -1664,7 +1664,7 @@ verbunden sind. Das Gleiche gilt von einem Gebäude oder anderen Werk,
 das in Ausübung eines Rechts an einem fremden Grundstück von dem
 Berechtigten mit dem Grundstück verbunden worden ist.
 
-(2) Sachen, die nur zu einem vorübergehenden Zweck in ein Gebäude
+(2) Sachen, die nur zu einem vorübergehenden Zwecke in ein Gebäude
 eingefügt sind, gehören nicht zu den Bestandteilen des Gebäudes.
 
 
@@ -2047,7 +2047,11 @@ die für die andere Partei bestimmte Urkunde unterzeichnet.
 (3) Die schriftliche Form kann durch die elektronische Form ersetzt
 werden, wenn sich nicht aus dem Gesetz ein anderes ergibt.
 
-(4) Die schriftliche Form wird durch die notarielle Beurkundung
+(4) Als Erklärung in schriftlicher Form gilt auch eine öffentlich
+beglaubigte Erklärung nach § 129 Absatz 1 Satz 1 Nummer 2 oder eine
+Erklärung nach § 129 Absatz 3.
+
+(5) Die schriftliche Form wird durch die notarielle Beurkundung
 ersetzt.
 
 
@@ -2139,7 +2143,13 @@ kann.
 mittels notariell beglaubigten Handzeichens unterzeichnet, so erfüllt
 die Erklärung auch die Anforderungen nach Absatz 1 Satz 1 Nummer 1.
 
-(3) Die öffentliche Beglaubigung wird durch die notarielle Beurkundung
+(3) Wurde eine Erklärung in einem elektronischen Dokument von dem
+Erklärenden mit einer notariell beglaubigten eigenhändigen
+elektronischen Namensunterschrift oder einem notariell beglaubigten
+eigenhändigen elektronischen Handzeichen versehen, so gilt sie als
+öffentlich beglaubigte Erklärung.
+
+(4) Die öffentliche Beglaubigung wird durch die notarielle Beurkundung
 ersetzt.
 
 
@@ -2150,10 +2160,14 @@ wird, wenn sie in dessen Abwesenheit abgegeben wird, in dem Zeitpunkt
 wirksam, in welchem sie ihm zugeht. Sie wird nicht wirksam, wenn dem
 anderen vorher oder gleichzeitig ein Widerruf zugeht.
 
-(2) Auf die Wirksamkeit der Willenserklärung ist es ohne Einfluss,
+(2) Eine Willenserklärung, die notariell beurkundet oder öffentlich
+beglaubigt wurde, wird auch wirksam, wenn dem Erklärungsempfänger eine
+öffentlich beglaubigte Abschrift der Urschrift zugeht.
+
+(3) Auf die Wirksamkeit der Willenserklärung ist es ohne Einfluss,
 wenn der Erklärende nach der Abgabe stirbt oder geschäftsunfähig wird.
 
-(3) Diese Vorschriften finden auch dann Anwendung, wenn die
+(4) Diese Vorschriften finden auch dann Anwendung, wenn die
 Willenserklärung einer Behörde gegenüber abzugeben ist.
 
 
@@ -3072,12 +3086,10 @@ Monate nach dem Ende der Hemmung ein.
 6.  die Zustellung der Streitverkündung,
 
 
-6a. die Zustellung der Anmeldung zu einem Musterverfahren für darin
-    bezeichnete Ansprüche, soweit diesen der gleiche Lebenssachverhalt
-    zugrunde liegt wie den Feststellungszielen des Musterverfahrens und
-    wenn innerhalb von drei Monaten nach dem rechtskräftigen Ende des
-    Musterverfahrens die Klage auf Leistung oder Feststellung der in der
-    Anmeldung bezeichneten Ansprüche erhoben wird,
+6a. die öffentliche Bekanntmachung des Vorlagebeschlusses in einem
+    Musterverfahren für Ansprüche, denen derselbe Lebenssachverhalt
+    zugrunde liegt wie den Feststellungszielen des Musterverfahrens, wenn
+    die Ansprüche zum Musterverfahren angemeldet werden,
 
 
 7.  die Zustellung des Antrags auf Durchführung eines selbständigen
@@ -3574,7 +3586,7 @@ Wertpapiere oder gegen Geld umzutauschen.
 
 #### § 236 Buchforderungen
 
-Mit einer Schuldbuchforderung gegen den Bund oder ein Land kann
+Mit einer Schuldbuchforderung gegen den Bund oder gegen ein Land kann
 Sicherheit nur in Höhe von drei Vierteln des Kurswerts der Wertpapiere
 geleistet werden, deren Aushändigung der Gläubiger gegen Löschung
 seiner Forderung verlangen kann.
@@ -3998,14 +4010,14 @@ gemacht werden.
 
 (1) Ist ein Ort für die Leistung weder bestimmt noch aus den
 Umständen, insbesondere aus der Natur des Schuldverhältnisses, zu
-entnehmen, so hat die Leistung an dem Ort zu erfolgen, an welchem der
+entnehmen, so hat die Leistung an dem Orte zu erfolgen, an welchem der
 Schuldner zur Zeit der Entstehung des Schuldverhältnisses seinen
 Wohnsitz hatte.
 
 (2) Ist die Verbindlichkeit im Gewerbebetrieb des Schuldners
 entstanden, so tritt, wenn der Schuldner seine gewerbliche
-Niederlassung an einem anderen Ort hatte, der Ort der Niederlassung an
-die Stelle des Wohnsitzes.
+Niederlassung an einem anderen Orte hatte, der Ort der Niederlassung
+an die Stelle des Wohnsitzes.
 
 (3) Aus dem Umstand allein, dass der Schuldner die Kosten der
 Versendung übernommen hat, ist nicht zu entnehmen, dass der Ort, nach
@@ -4019,7 +4031,7 @@ Kosten dem Gläubiger an dessen Wohnsitz zu übermitteln.
 
 (2) Ist die Forderung im Gewerbebetrieb des Gläubigers entstanden, so
 tritt, wenn der Gläubiger seine gewerbliche Niederlassung an einem
-anderen Ort hat, der Ort der Niederlassung an die Stelle des
+anderen Orte hat, der Ort der Niederlassung an die Stelle des
 Wohnsitzes.
 
 (3) Erhöhen sich infolge einer nach der Entstehung des
@@ -4580,7 +4592,7 @@ Vertrags, wenn der Verwender bei Vertragsschluss
 1.  die andere Vertragspartei ausdrücklich oder, wenn ein ausdrücklicher
     Hinweis wegen der Art des Vertragsschlusses nur unter
     unverhältnismäßigen Schwierigkeiten möglich ist, durch deutlich
-    sichtbaren Aushang am Ort des Vertragsschlusses auf sie hinweist und
+    sichtbaren Aushang am Orte des Vertragsschlusses auf sie hinweist und
 
 
 2.  der anderen Vertragspartei die Möglichkeit verschafft, in zumutbarer
@@ -4628,10 +4640,14 @@ ihrer Geltung einverstanden ist,
         Telekommunikationsdienstleistung in einem Mal erbracht werden, wenn
         die Allgemeinen Geschäftsbedingungen der anderen Vertragspartei nur
         unter unverhältnismäßigen Schwierigkeiten vor dem Vertragsschluss
-        zugänglich gemacht werden können.
+        zugänglich gemacht werden können,
 
 
 
+
+
+3.  die genehmigten Anlagebedingungen von
+    Kapitalverwaltungsgesellschaften.
 
 
 
@@ -5678,7 +5694,8 @@ Kommunikationsmittel, die zur Anbahnung oder zum Abschluss eines
 Vertrags eingesetzt werden können, ohne dass die Vertragsparteien
 gleichzeitig körperlich anwesend sind, wie Briefe, Kataloge,
 Telefonanrufe, Telekopien, E-Mails, über den Mobilfunkdienst
-versendete Nachrichten (SMS) sowie Rundfunk und Telemedien.
+versendete Nachrichten (SMS) sowie Rundfunk und digitale Dienste nach
+§ 1 Absatz 4 Nummer 1 des Digitale-Dienste-Gesetzes.
 
 
 ###### § 312d Informationspflichten
@@ -5899,7 +5916,8 @@ der Textform.
 
 (1) Bedient sich ein Unternehmer zum Zwecke des Abschlusses eines
 Vertrags über die Lieferung von Waren oder über die Erbringung von
-Dienstleistungen der Telemedien (Vertrag im elektronischen
+Dienstleistungen digitaler Dienste nach § 1 Absatz 4 Nummer 1 des
+Digitale-Dienste-Gesetzes (Vertrag im elektronischen
 Geschäftsverkehr), hat er dem Kunden
 
 1.  angemessene, wirksame und zugängliche technische Mittel zur Verfügung
@@ -7516,11 +7534,11 @@ Aufrechnung erklärt.
 
 ###### § 353 Rücktritt gegen Reugeld
 
-Ist der Rücktritt gegen Zahlung eines Reugeldes vorbehalten, so ist
-der Rücktritt unwirksam, wenn das Reugeld nicht vor oder bei der
-Erklärung entrichtet wird und der andere Teil aus diesem Grunde die
-Erklärung unverzüglich zurückweist. Die Erklärung ist jedoch wirksam,
-wenn das Reugeld unverzüglich nach der Zurückweisung entrichtet wird.
+Ist der Rücktritt gegen Zahlung eines Reugelds vorbehalten, so ist der
+Rücktritt unwirksam, wenn das Reugeld nicht vor oder bei der Erklärung
+entrichtet wird und der andere Teil aus diesem Grunde die Erklärung
+unverzüglich zurückweist. Die Erklärung ist jedoch wirksam, wenn das
+Reugeld unverzüglich nach der Zurückweisung entrichtet wird.
 
 
 ###### § 354 Verwirkungsklausel
@@ -8109,7 +8127,7 @@ Beweislast den Unternehmer.
 den Gläubiger bewirkt wird.
 
 (2) Wird an einen Dritten zum Zwecke der Erfüllung geleistet, so
-finden die Vorschriften des § 185 Anwendung.
+findet die Vorschrift des § 185 Anwendung.
 
 
 ##### § 363 Beweislast bei Annahme als Erfüllung
@@ -8321,21 +8339,49 @@ berechtigt, auch wenn er auf das Recht zur Rücknahme verzichtet hat.
 
 (1) Ist die geschuldete bewegliche Sache zur Hinterlegung nicht
 geeignet, so kann der Schuldner sie im Falle des Verzugs des
-Gläubigers am Leistungsort versteigern lassen und den Erlös
-hinterlegen. Das Gleiche gilt in den Fällen des § 372 Satz 2, wenn der
-Verderb der Sache zu besorgen oder die Aufbewahrung mit
-unverhältnismäßigen Kosten verbunden ist.
+Gläubigers versteigern lassen und den Erlös hinterlegen. Das Gleiche
+gilt in den Fällen des § 372 Satz 2, wenn der Verderb der Sache zu
+besorgen oder die Aufbewahrung mit unverhältnismäßigen Kosten
+verbunden ist.
 
-(2) Ist von der Versteigerung am Leistungsort ein angemessener Erfolg
-nicht zu erwarten, so ist die Sache an einem geeigneten anderen Orte
-zu versteigern.
+(2) Die Versteigerung hat durch einen öffentlich bestellten und
+vereidigten Versteigerer oder durch einen für den Bezirk, in dem sich
+die zu versteigernde Sache befindet, bestellten Gerichtsvollzieher
+öffentlich zu erfolgen (öffentliche Versteigerung). Die Versteigerung
+hat zu erfolgen:
 
-(3) Die Versteigerung hat durch einen für den Versteigerungsort
-bestellten Gerichtsvollzieher oder zu Versteigerungen befugten anderen
-Beamten oder öffentlich angestellten Versteigerer öffentlich zu
-erfolgen (öffentliche Versteigerung). Zeit und Ort der Versteigerung
-sind unter allgemeiner Bezeichnung der Sache öffentlich bekannt zu
-machen.
+1.  ausschließlich an einem Versteigerungsort,
+
+
+2.  im Wege elektronischer Kommunikation bei gleichzeitiger Teilnahme an
+    der Versteigerung ohne physische Präsenz der Beteiligten am
+    Versteigerungsort (virtuelle öffentliche Versteigerung) oder
+
+
+3.  an einem Versteigerungsort unter gleichzeitiger Möglichkeit zur
+    Teilnahme im Wege elektronischer Kommunikation ohne physische Präsenz
+    am Versteigerungsort (hybride öffentliche Versteigerung).
+
+
+
+Erfolgt die Versteigerung an einem Versteigerungsort (Satz 2 Nummer 1
+oder 3), so muss dieser für die Versteigerung geeignet sein.
+
+(3) Unter allgemeiner Bezeichnung der zu versteigernden Sache sind
+öffentlich bekannt zu machen:
+
+1.  der Zeitpunkt der Versteigerung,
+
+
+2.  in den Fällen des Absatzes 2 Satz 2 Nummer 1 und bei hybriden
+    öffentlichen Versteigerungen der Versteigerungsort sowie
+
+
+3.  bei virtuellen öffentlichen Versteigerungen und bei hybriden
+    öffentlichen Versteigerungen die Zugangsdaten.
+
+
+
 
 (4) Die Vorschriften der Absätze 1 bis 3 gelten nicht für eingetragene
 Schiffe und Schiffsbauwerke.
@@ -8578,10 +8624,10 @@ hat.
 #### § 408 Mehrfache Abtretung
 
 (1) Wird eine abgetretene Forderung von dem bisherigen Gläubiger
-nochmals an einen Dritten abgetreten, so finden, wenn der Schuldner an
+nochmals an einen Dritten abgetreten, so findet, wenn der Schuldner an
 den Dritten leistet oder wenn zwischen dem Schuldner und dem Dritten
 ein Rechtsgeschäft vorgenommen oder ein Rechtsstreit anhängig wird,
-zugunsten des Schuldners die Vorschriften des § 407 dem früheren
+zugunsten des Schuldners die Vorschrift des § 407 dem früheren
 Erwerber gegenüber entsprechende Anwendung.
 
 (2) Das Gleiche gilt, wenn die bereits abgetretene Forderung durch
@@ -8683,10 +8729,10 @@ gegenüber vorher verweigert hat; die Vorschrift des § 415 Abs. 2 Satz
 2 findet keine Anwendung.
 
 (2) Die Mitteilung des Veräußerers kann erst erfolgen, wenn der
-Erwerber als Eigentümer im Grundbuch eingetragen ist. Sie muss
-schriftlich geschehen und den Hinweis enthalten, dass der Übernehmer
-an die Stelle des bisherigen Schuldners tritt, wenn nicht der
-Gläubiger die Verweigerung innerhalb der sechs Monate erklärt.
+Erwerber als Eigentümer im Grundbuch eingetragen ist. Sie muss in
+Textform geschehen und den Hinweis enthalten, dass der Übernehmer an
+die Stelle des bisherigen Schuldners tritt, wenn nicht der Gläubiger
+die Verweigerung innerhalb der sechs Monate erklärt.
 
 (3) Der Veräußerer hat auf Verlangen des Erwerbers dem Gläubiger die
 Schuldübernahme mitzuteilen. Sobald die Erteilung oder Verweigerung
@@ -10441,7 +10487,7 @@ der Index oder Referenzzinssatz objektiv, eindeutig bestimmt und für
 Darlehensgeber und Darlehensnehmer verfügbar und überprüfbar ist.
 
 
-###### § 492a Kopplungsgeschäfte bei Immobiliar-Verbraucherdarlehensverträgen
+###### § 492a Kopplungsgeschäfte
 
 (1) Der Darlehensgeber darf den Abschluss eines Immobiliar-
 Verbraucherdarlehenvertrags unbeschadet des § 492b nicht davon
@@ -10455,10 +10501,20 @@ Immobiliar-Verbraucherdarlehensvertrag von denen abweichen, zu denen
 er zusammen mit den weiteren Finanzprodukten oder -dienstleistungen
 angeboten wird.
 
-(2) Soweit ein Kopplungsgeschäft unzulässig ist, sind die mit dem
-Immobiliar-Verbraucherdarlehensvertrag gekoppelten Geschäfte nichtig;
-die Wirksamkeit des Immobiliar-Verbraucherdarlehensvertrags bleibt
-davon unberührt.
+(1a) Der Darlehensgeber darf den Abschluss eines Allgemein-
+Verbraucherdarlehensvertrags nicht davon abhängig machen, dass der
+Darlehensnehmer oder ein Dritter eine Restschuldversicherung
+abschließt. Ist der Darlehensgeber zum Abschluss des Allgemein-
+Verbraucherdarlehensvertrags bereit, ohne dass der Verbraucher eine
+Restschuldversicherung abschließt, liegt ein Kopplungsgeschäft auch
+dann nicht vor, wenn die Bedingungen für den Allgemein-
+Verbraucherdarlehensvertrag von denen abweichen, zu denen er zusammen
+mit der Restschuldversicherung angeboten wird.
+
+(2) Soweit ein Kopplungsgeschäft nach Absatz 1 oder Absatz 1a
+unzulässig ist, sind die mit dem Verbraucherdarlehensvertrag
+gekoppelten Geschäfte nichtig; die Wirksamkeit des
+Verbraucherdarlehensvertrags bleibt davon unberührt.
 
 
 ###### § 492b Zulässige Kopplungsgeschäfte
@@ -12154,16 +12210,17 @@ erklärt.
 unwirksam.
 
 
-###### § 554 Barrierereduzierung, E-Mobilität und Einbruchsschutz
+###### § 554 Barrierereduzierung, E-Mobilität, Einbruchsschutz und Steckersolargeräte
 
 (1) Der Mieter kann verlangen, dass ihm der Vermieter bauliche
 Veränderungen der Mietsache erlaubt, die dem Gebrauch durch Menschen
-mit Behinderungen, dem Laden elektrisch betriebener Fahrzeuge oder dem
-Einbruchsschutz dienen. Der Anspruch besteht nicht, wenn die bauliche
-Veränderung dem Vermieter auch unter Würdigung der Interessen des
-Mieters nicht zugemutet werden kann. Der Mieter kann sich im
-Zusammenhang mit der baulichen Veränderung zur Leistung einer
-besonderen Sicherheit verpflichten; § 551 Absatz 3 gilt entsprechend.
+mit Behinderungen, dem Laden elektrisch betriebener Fahrzeuge, dem
+Einbruchsschutz oder der Stromerzeugung durch Steckersolargeräte
+dienen. Der Anspruch besteht nicht, wenn die bauliche Veränderung dem
+Vermieter auch unter Würdigung der Interessen des Mieters nicht
+zugemutet werden kann. Der Mieter kann sich im Zusammenhang mit der
+baulichen Veränderung zur Leistung einer besonderen Sicherheit
+verpflichten; § 551 Absatz 3 gilt entsprechend.
 
 (2) Eine zum Nachteil des Mieters abweichende Vereinbarung ist
 unwirksam.
@@ -12400,7 +12457,11 @@ tragen, wenn der Vermieter vor Vereinbarung der
 Glasfaserbereitstellung soweit möglich drei Angebote eingeholt und das
 wirtschaftlichste ausgewählt hat.
 
-(4) Eine zum Nachteil des Mieters von Absatz 1, Absatz 2 Satz 2,
+(4) Der Vermieter hat dem Mieter auf Verlangen Einsicht in die der
+Abrechnung zugrundeliegenden Belege zu gewähren. Der Vermieter ist
+berechtigt, die Belege elektronisch bereitzustellen.
+
+(5) Eine zum Nachteil des Mieters von Absatz 1, Absatz 2 Satz 2,
 Absatz 3 oder Absatz 3a abweichende Vereinbarung ist unwirksam.
 
 
@@ -12498,12 +12559,11 @@ Mietverhältnisses die ortsübliche Vergleichsmiete (§ 558 Absatz 2)
 höchstens um 10 Prozent übersteigen.
 
 (2) Die Landesregierungen werden ermächtigt, Gebiete mit angespannten
-Wohnungsmärkten durch Rechtsverordnung für die Dauer von jeweils
-höchstens fünf Jahren zu bestimmen. Gebiete mit angespannten
-Wohnungsmärkten liegen vor, wenn die ausreichende Versorgung der
-Bevölkerung mit Mietwohnungen in einer Gemeinde oder einem Teil der
-Gemeinde zu angemessenen Bedingungen besonders gefährdet ist. Dies
-kann insbesondere dann der Fall sein, wenn
+Wohnungsmärkten durch Rechtsverordnung zu bestimmen. Gebiete mit
+angespannten Wohnungsmärkten liegen vor, wenn die ausreichende
+Versorgung der Bevölkerung mit Mietwohnungen in einer Gemeinde oder
+einem Teil der Gemeinde zu angemessenen Bedingungen besonders
+gefährdet ist. Dies kann insbesondere dann der Fall sein, wenn
 
 1.  die Mieten deutlich stärker steigen als im bundesweiten Durchschnitt,
 
@@ -12521,7 +12581,7 @@ kann insbesondere dann der Fall sein, wenn
 
 
 Eine Rechtsverordnung nach Satz 1 muss spätestens mit Ablauf des 31.
-Dezember 2025 außer Kraft treten. Sie muss begründet werden. Aus der
+Dezember 2029 außer Kraft treten. Sie muss begründet werden. Aus der
 Begründung muss sich ergeben, auf Grund welcher Tatsachen ein Gebiet
 mit einem angespannten Wohnungsmarkt im Einzelfall vorliegt. Ferner
 muss sich aus der Begründung ergeben, welche Maßnahmen die
@@ -13723,7 +13783,7 @@ unwirksam.
 
 ###### § 574b Form und Frist des Widerspruchs
 
-(1) Der Widerspruch des Mieters gegen die Kündigung ist schriftlich zu
+(1) Der Widerspruch des Mieters gegen die Kündigung ist in Textform zu
 erklären. Auf Verlangen des Vermieters soll der Mieter über die Gründe
 des Widerspruchs unverzüglich Auskunft erteilen.
 
@@ -13970,8 +14030,10 @@ unwirksam.
 ###### § 578 Mietverhältnisse über Grundstücke und Räume
 
 (1) Auf Mietverhältnisse über Grundstücke sind die Vorschriften der §§
-550, 554, 562 bis 562d, 566 bis 567b sowie 570 entsprechend
-anzuwenden.
+554, 562 bis 562d, 566 bis 567b sowie 570 entsprechend anzuwenden. §
+550 ist mit der Maßgabe anzuwenden, dass ein Mietvertrag, der für
+längere Zeit als ein Jahr nicht in Textform geschlossen wird, für
+unbestimmte Zeit gilt.
 
 (2) Auf Mietverhältnisse über Räume, die keine Wohnräume sind, sind
 die in Absatz 1 genannten Vorschriften sowie § 552 Abs. 1, § 555a
@@ -14259,7 +14321,7 @@ Betrieb verpachtet werden.
 ###### § 585a Form des Landpachtvertrags
 
 Wird der Landpachtvertrag für längere Zeit als zwei Jahre nicht in
-schriftlicher Form geschlossen, so gilt er für unbestimmte Zeit.
+Textform geschlossen, so gilt er für unbestimmte Zeit.
 
 
 ###### § 585b Beschreibung der Pachtsache
@@ -14553,7 +14615,7 @@ drittletzten Pachtjahrs gestellt wird.
 Pachtverhältnis spätestens am dritten Werktag eines Pachtjahrs für den
 Schluss des nächsten Pachtjahrs kündigen. Im Zweifel gilt das
 Kalenderjahr als Pachtjahr. Die Vereinbarung einer kürzeren Frist
-bedarf der Schriftform.
+bedarf der Textform.
 
 (2) Für die Fälle, in denen das Pachtverhältnis außerordentlich mit
 der gesetzlichen Frist vorzeitig gekündigt werden kann, ist die
@@ -14599,8 +14661,8 @@ ablehnen, wenn die Erben den Widerspruch nicht spätestens drei Monate
 vor Ablauf des Pachtverhältnisses erklärt und die Umstände mitgeteilt
 haben, nach denen die weitere ordnungsmäßige Bewirtschaftung der
 Pachtsache gewährleistet erscheint. Die Widerspruchserklärung und die
-Mitteilung bedürfen der schriftlichen Form. Kommt keine Einigung
-zustande, so entscheidet auf Antrag das Landwirtschaftsgericht.
+Mitteilung bedürfen der Textform. Kommt keine Einigung zustande, so
+entscheidet auf Antrag das Landwirtschaftsgericht.
 
 (3) Gegenüber einer Kündigung des Verpächters nach Absatz 1 ist ein
 Fortsetzungsverlangen des Erben nach § 595 ausgeschlossen.
@@ -14611,7 +14673,7 @@ Fortsetzungsverlangen des Erben nach § 595 ausgeschlossen.
 (1) Die außerordentliche fristlose Kündigung des Pachtverhältnisses
 ist in entsprechender Anwendung der §§ 543, 569 Abs. 1 und 2 zulässig.
 
-(2) Abweichend von § 543 Abs. 2 Nr. 3 Buchstabe a und b liegt ein
+(2) Abweichend von § 543 Abs. 2 Nr. 3 Buchstaben a und b liegt ein
 wichtiger Grund insbesondere vor, wenn der Pächter mit der Entrichtung
 der Pacht oder eines nicht unerheblichen Teils der Pacht länger als
 drei Monate in Verzug ist. Ist die Pacht nach Zeitabschnitten von
@@ -14681,8 +14743,8 @@ verlangen, wenn
 
 
 (4) Die Erklärung des Pächters, mit der er die Fortsetzung des
-Pachtverhältnisses verlangt, bedarf der schriftlichen Form. Auf
-Verlangen des Verpächters soll der Pächter über die Gründe des
+Pachtverhältnisses verlangt, bedarf der Textform. Auf Verlangen des
+Verpächters soll der Pächter über die Gründe des
 Fortsetzungsverlangens unverzüglich Auskunft erteilen.
 
 (5) Der Verpächter kann die Fortsetzung des Pachtverhältnisses
@@ -15379,9 +15441,9 @@ Bei der Beendigung eines dauernden Dienstverhältnisses kann der
 Verpflichtete von dem anderen Teil ein schriftliches Zeugnis über das
 Dienstverhältnis und dessen Dauer fordern. Das Zeugnis ist auf
 Verlangen auf die Leistungen und die Führung im Dienst zu erstrecken.
-Die Erteilung des Zeugnisses in elektronischer Form ist
-ausgeschlossen. Wenn der Verpflichtete ein Arbeitnehmer ist, findet §
-109 der Gewerbeordnung Anwendung.
+Das Zeugnis kann mit Einwilligung des Verpflichteten in elektronischer
+Form erteilt werden. Wenn der Verpflichtete ein Arbeitnehmer ist,
+findet § 109 der Gewerbeordnung Anwendung.
 
 
 ##### Untertitel 2 - Behandlungsvertrag
@@ -15516,43 +15578,53 @@ gilt entsprechend.
 
 (1) Der Behandelnde ist verpflichtet, zum Zweck der Dokumentation in
 unmittelbarem zeitlichen Zusammenhang mit der Behandlung eine
-Patientenakte in Papierform oder elektronisch zu führen.
-Berichtigungen und Änderungen von Eintragungen in der Patientenakte
+Behandlungsakte in Papierform oder elektronisch zu führen.
+Berichtigungen und Änderungen von Eintragungen in der Behandlungsakte
 sind nur zulässig, wenn neben dem ursprünglichen Inhalt erkennbar
 bleibt, wann sie vorgenommen worden sind. Dies ist auch für
-elektronisch geführte Patientenakten sicherzustellen.
+elektronisch geführte Behandlungsakten sicherzustellen.
 
-(2) Der Behandelnde ist verpflichtet, in der Patientenakte sämtliche
+(2) Der Behandelnde ist verpflichtet, in der Behandlungsakte sämtliche
 aus fachlicher Sicht für die derzeitige und künftige Behandlung
 wesentlichen Maßnahmen und deren Ergebnisse aufzuzeichnen,
 insbesondere die Anamnese, Diagnosen, Untersuchungen,
 Untersuchungsergebnisse, Befunde, Therapien und ihre Wirkungen,
 Eingriffe und ihre Wirkungen, Einwilligungen und Aufklärungen.
-Arztbriefe sind in die Patientenakte aufzunehmen.
+Arztbriefe sind in die Behandlungsakte aufzunehmen.
 
-(3) Der Behandelnde hat die Patientenakte für die Dauer von zehn
+(3) Der Behandelnde hat die Behandlungsakte für die Dauer von zehn
 Jahren nach Abschluss der Behandlung aufzubewahren, soweit nicht nach
 anderen Vorschriften andere Aufbewahrungsfristen bestehen.
 
 
-###### § 630g Einsichtnahme in die Patientenakte
+###### § 630g Einsichtnahme in die Behandlungsakte
 
 (1) Dem Patienten ist auf Verlangen unverzüglich Einsicht in die
-vollständige, ihn betreffende Patientenakte zu gewähren, soweit der
-Einsichtnahme nicht erhebliche therapeutische Gründe oder sonstige
-erhebliche Rechte Dritter entgegenstehen. Die Ablehnung der
-Einsichtnahme ist zu begründen. § 811 ist entsprechend anzuwenden.
+vollständige, ihn betreffende Behandlungsakte zu gewähren. § 811 ist
+entsprechend anzuwenden. Der Patient kann auch Abschriften von der
+Behandlungsakte, einschließlich elektronischer Abschriften, verlangen.
+Die erste Abschrift wird unentgeltlich zur Verfügung gestellt.
 
-(2) Der Patient kann auch elektronische Abschriften von der
-Patientenakte verlangen. Er hat dem Behandelnden die entstandenen
-Kosten zu erstatten.
+(2) Das Recht nach Absatz 1 besteht nicht, soweit erhebliche
+therapeutische Gründe oder sonstige erhebliche Rechte Dritter
+entgegenstehen. Die Ablehnung der Einsichtnahme ist zu begründen.
 
-(3) Im Fall des Todes des Patienten stehen die Rechte aus den Absätzen
-1 und 2 zur Wahrnehmung der vermögensrechtlichen Interessen seinen
-Erben zu. Gleiches gilt für die nächsten Angehörigen des Patienten,
+(3) Im Fall des Todes des Patienten stehen die Rechte nach Absatz 1
+zur Wahrnehmung der vermögensrechtlichen Interessen seinen Erben mit
+der Maßgabe zu, dass die Erben die entstandenen Kosten zu erstatten
+haben. Gleiches gilt für die nächsten Angehörigen des Patienten,
 soweit sie immaterielle Interessen geltend machen. Die Rechte sind
 ausgeschlossen, soweit der Einsichtnahme der ausdrückliche oder
 mutmaßliche Wille des Patienten entgegensteht.
+
+(4) Datenschutzrechtliche Rechte des Betroffenen bleiben von den
+Absätzen 1 bis 3 unberührt, soweit in diesem Absatz nichts anderes
+geregelt ist. Soweit datenschutzrechtliche Auskunftsansprüche und
+Informationspflichten unentgeltlich zu erfüllen sind, steht dies
+Entgelten für Einsichtnahmen nach Absatz 1 entgegen. Der Ausschluss
+des Einsichtsrechts nach Absatz 2 steht im Verhältnis zwischen
+Behandelndem und Patienten auch datenschutzrechtlichen
+Auskunftsansprüchen und Informationspflichten entgegen.
 
 
 ###### § 630h Beweislast bei Haftung für Behandlungs- und Aufklärungsfehler
@@ -15571,9 +15643,9 @@ hätte.
 
 (3) Hat der Behandelnde eine medizinisch gebotene wesentliche Maßnahme
 und ihr Ergebnis entgegen § 630f Absatz 1 oder Absatz 2 nicht in der
-Patientenakte aufgezeichnet oder hat er die Patientenakte entgegen §
-630f Absatz 3 nicht aufbewahrt, wird vermutet, dass er diese Maßnahme
-nicht getroffen hat.
+Behandlungsakte aufgezeichnet oder hat er die Behandlungsakte entgegen
+§ 630f Absatz 3 nicht aufbewahrt, wird vermutet, dass er diese
+Maßnahme nicht getroffen hat.
 
 (4) War ein Behandelnder für die von ihm vorgenommene Behandlung nicht
 befähigt, wird vermutet, dass die mangelnde Befähigung für den
@@ -15725,7 +15797,7 @@ mit der Abnahme.
 
 (3) Abweichend von Absatz 1 Nr. 1 und 2 und Absatz 2 verjähren die
 Ansprüche in der regelmäßigen Verjährungsfrist, wenn der Unternehmer
-den Mangel arglistig verschwiegen hat. Im Fall des Absatzes 1 Nr. 2
+den Mangel arglistig verschwiegen hat. Im Falle des Absatzes 1 Nr. 2
 tritt die Verjährung jedoch nicht vor Ablauf der dort bestimmten Frist
 ein.
 
@@ -15759,7 +15831,7 @@ bis 348 verlangen.
 
 ###### § 636 Besondere Bestimmungen für Rücktritt und Schadensersatz
 
-Außer in den Fällen der § 281 Abs. 2 und 323 Abs. 2 bedarf es der
+Außer in den Fällen der §§ 281 Abs. 2 und 323 Abs. 2 bedarf es der
 Fristsetzung auch dann nicht, wenn der Unternehmer die Nacherfüllung
 gemäß § 635 Abs. 3 verweigert oder wenn die Nacherfüllung
 fehlgeschlagen oder dem Besteller unzumutbar ist.
@@ -15909,8 +15981,8 @@ von dem Besteller gelieferten Stoffes ist der Unternehmer nicht
 verantwortlich.
 
 (2) Versendet der Unternehmer das Werk auf Verlangen des Bestellers
-nach einem anderen Ort als dem Erfüllungsort, so finden die für den
-Kauf geltenden Vorschriften des § 447 entsprechende Anwendung.
+nach einem anderen Ort als dem Erfüllungsort, so findet die für den
+Kauf geltende Vorschrift des § 447 entsprechende Anwendung.
 
 
 ###### § 645 Verantwortlichkeit des Bestellers
@@ -17201,9 +17273,9 @@ gesetzlichen Vorschriften erhalten hat oder nach Maßgabe
     vom 17.2.2004, S. 1),
 
 
-2.  der Verordnung (EG) Nr. 1371/2007 des Europäischen Parlaments und des
-    Rates vom 23. Oktober 2007 über die Rechte und Pflichten der Fahrgäste
-    im Eisenbahnverkehr (ABl. L 315 vom 3.12.2007, S. 14),
+2.  der Verordnung (EU) 2021/782 des Europäischen Parlaments und des Rates
+    vom 29. April 2021 über die Rechte und Pflichten der Fahrgäste im
+    Eisenbahnverkehr (ABl. L 172 vom 17.5.2021, S. 1),
 
 
 3.  der Verordnung (EG) Nr. 392/2009 des Europäischen Parlaments und des
@@ -18033,7 +18105,7 @@ Geschäftsbesorgung zum Gegenstand hat, finden, soweit in diesem
 Untertitel nichts Abweichendes bestimmt wird, die Vorschriften der §§
 663, 665 bis 670, 672 bis 674 und, wenn dem Verpflichteten das Recht
 zusteht, ohne Einhaltung einer Kündigungsfrist zu kündigen, auch die
-Vorschriften des § 671 Abs. 2 entsprechende Anwendung.
+Vorschrift des § 671 Abs. 2 entsprechende Anwendung.
 
 (2) Wer einem anderen einen Rat oder eine Empfehlung erteilt, ist,
 unbeschadet der sich aus einem Vertragsverhältnis, einer unerlaubten
@@ -19361,7 +19433,7 @@ Unterhalt, so ist im Zweifel anzunehmen, dass die Absicht fehlt, von
 dem Empfänger Ersatz zu verlangen.
 
 
-##### § 686 Irrtum über Person des Geschäftsherrn
+##### § 686 Irrtum über die Person des Geschäftsherrn
 
 Ist der Geschäftsführer über die Person des Geschäftsherrn im Irrtum,
 so wird der wirkliche Geschäftsherr aus der Geschäftsführung
@@ -20879,7 +20951,7 @@ Hat ein Teilhaber gegen einen anderen Teilhaber eine Forderung, die
 sich auf die Gemeinschaft gründet, so kann er bei der Aufhebung der
 Gemeinschaft die Berichtigung seiner Forderung aus dem auf den
 Schuldner entfallenden Teil des gemeinschaftlichen Gegenstands
-verlangen. Die Vorschriften des § 755 Abs. 2, 3 finden Anwendung.
+verlangen. Die Vorschrift des § 755 Abs. 2, 3 findet Anwendung.
 
 
 ##### § 757 Gewährleistung bei Zuteilung an einen Teilhaber
@@ -20954,7 +21026,7 @@ eingeht, insbesondere für ein Schuldanerkenntnis.
 
 Ein Lotterievertrag oder ein Ausspielvertrag ist verbindlich, wenn die
 Lotterie oder die Ausspielung staatlich genehmigt ist. Anderenfalls
-finden die Vorschriften des § 762 Anwendung.
+findet die Vorschrift des § 762 Anwendung.
 
 
 ##### § 764
@@ -21961,7 +22033,7 @@ Erwerbsfähigkeit des Verletzten aufgehoben oder gemindert oder tritt
 eine Vermehrung seiner Bedürfnisse ein, so ist dem Verletzten durch
 Entrichtung einer Geldrente Schadensersatz zu leisten.
 
-(2) Auf die Rente finden die Vorschriften des § 760 Anwendung. Ob, in
+(2) Auf die Rente findet die Vorschrift des § 760 Anwendung. Ob, in
 welcher Art und für welchen Betrag der Ersatzpflichtige Sicherheit zu
 leisten hat, bestimmt sich nach den Umständen.
 
@@ -21985,8 +22057,8 @@ ist dem Dritten infolge der Tötung das Recht auf den Unterhalt
 entzogen, so hat der Ersatzpflichtige dem Dritten durch Entrichtung
 einer Geldrente insoweit Schadensersatz zu leisten, als der Getötete
 während der mutmaßlichen Dauer seines Lebens zur Gewährung des
-Unterhalts verpflichtet gewesen sein würde; die Vorschriften des § 843
-Abs. 2 bis 4 finden entsprechende Anwendung. Die Ersatzpflicht tritt
+Unterhalts verpflichtet gewesen sein würde; die Vorschrift des § 843
+Abs. 2 bis 4 findet entsprechende Anwendung. Die Ersatzpflicht tritt
 auch dann ein, wenn der Dritte zur Zeit der Verletzung gezeugt, aber
 noch nicht geboren war.
 
@@ -22014,7 +22086,7 @@ Anwendung.
 
 Hat in den Fällen der §§ 844, 845 bei der Entstehung des Schadens, den
 der Dritte erleidet, ein Verschulden des Verletzten mitgewirkt, so
-finden auf den Anspruch des Dritten die Vorschriften des § 254
+findet auf den Anspruch des Dritten die Vorschrift des § 254
 Anwendung.
 
 
@@ -22290,8 +22362,7 @@ ein anderes vorschreibt.
 gebunden, wenn die Erklärungen notariell beurkundet oder vor dem
 Grundbuchamt abgegeben oder bei diesem eingereicht sind oder wenn der
 Berechtigte dem anderen Teil eine den Vorschriften der
-Grundbuchordnung entsprechende Eintragungsbewilligung ausgehändigt
-hat.
+Grundbuchordnung entsprechende Eintragungsbewilligung überlassen hat.
 
 
 #### § 874 Bezugnahme auf die Eintragungsbewilligung
@@ -22315,7 +22386,7 @@ gegenüber abzugeben, zu dessen Gunsten sie erfolgt.
 (2) Vor der Löschung ist der Berechtigte an seine Erklärung nur
 gebunden, wenn er sie dem Grundbuchamt gegenüber abgegeben oder
 demjenigen, zu dessen Gunsten sie erfolgt, eine den Vorschriften der
-Grundbuchordnung entsprechende Löschungsbewilligung ausgehändigt hat.
+Grundbuchordnung entsprechende Löschungsbewilligung überlassen hat.
 
 
 #### § 876 Aufhebung eines belasteten Rechts
@@ -23418,7 +23489,7 @@ Empfangsberechtigten unverzüglich Anzeige zu machen.
 
 (2) Kennt der Finder die Empfangsberechtigten nicht oder ist ihm ihr
 Aufenthalt unbekannt, so hat er den Fund und die Umstände, welche für
-die Ermittelung der Empfangsberechtigten erheblich sein können,
+die Ermittlung der Empfangsberechtigten erheblich sein können,
 unverzüglich der zuständigen Behörde anzuzeigen. Ist die Sache nicht
 mehr als zehn Euro wert, so bedarf es der Anzeige nicht.
 
@@ -23584,7 +23655,7 @@ durch einen ihrer Beamten vornehmen lassen.
 
 (1a) Die Versteigerung kann nach Maßgabe der nachfolgenden
 Vorschriften auch als allgemein zugängliche Versteigerung im Internet
-erfolgen.
+über eine Versteigerungsplattform erfolgen.
 
 (1b) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung ohne
 Zustimmung des Bundesrates für ihren Bereich Versteigerungsplattformen
@@ -24137,8 +24208,8 @@ beschränkt werden.
 ###### § 1031 Erstreckung auf Zubehör
 
 Mit dem Nießbrauch an einem Grundstück erlangt der Nießbraucher den
-Nießbrauch an dem Zubehör nach den für den Erwerb des Eigentums
-geltenden Vorschriften des § 926.
+Nießbrauch an dem Zubehör nach der für den Erwerb des Eigentums
+geltenden Vorschrift des § 926.
 
 
 ###### § 1032 Bestellung an beweglichen Sachen
@@ -24328,7 +24399,7 @@ Inventar Eigentum desjenigen, welchem das Inventar gehört.
 
 (2) Übernimmt der Nießbraucher das Inventar zum Schätzwert mit der
 Verpflichtung, es bei der Beendigung des Nießbrauchs zum Schätzwert
-zurückzugewähren, so finden die Vorschriften des § 582a entsprechende
+zurückzugewähren, so findet die Vorschrift des § 582a entsprechende
 Anwendung.
 
 
@@ -24740,7 +24811,7 @@ neuer Zins-, Renten- oder Gewinnanteilscheine sowie zu sonstigen
 Maßnahmen mitzuwirken, die zur ordnungsmäßigen Vermögensverwaltung
 erforderlich sind.
 
-(2) Im Falle der Einlösung des Papiers finden die Vorschriften des §
+(2) Im Falle der Einlösung des Papiers findet die Vorschrift des §
 1079 Anwendung. Eine bei der Einlösung gezahlte Prämie gilt als Teil
 des Kapitals.
 
@@ -24749,7 +24820,7 @@ des Kapitals.
 
 Gehört ein Inhaberpapier oder ein Orderpapier, das mit
 Blankoindossament versehen ist, nach § 92 zu den verbrauchbaren
-Sachen, so bewendet es bei den Vorschriften des § 1067.
+Sachen, so bewendet es bei der Vorschrift des § 1067.
 
 
 ##### Untertitel 3 - Nießbrauch an einem Vermögen
@@ -24855,14 +24926,34 @@ juristischen Person oder einer rechtsfähigen Personengesellschaft zu,
 so gelten die Vorschriften der §§ 1059a bis 1059d entsprechend.
 
 (3) Steht einer juristischen Person oder einer rechtsfähigen
-Personengesellschaft eine beschränkte persönliche Dienstbarkeit zu,
-die dazu berechtigt, ein Grundstück für Anlagen zur Fortleitung von
-Elektrizität, Gas, Fernwärme, Wasser, Abwasser, Öl oder Rohstoffen
-einschließlich aller dazugehörigen Anlagen, die der Fortleitung
-unmittelbar dienen, für Telekommunikationsanlagen, für Anlagen zum
-Transport von Produkten zwischen Betriebsstätten eines oder mehrerer
-privater oder öffentlicher Unternehmen oder für Straßenbahn- oder
-Eisenbahnanlagen zu benutzen, so ist die Dienstbarkeit übertragbar.
+Personengesellschaft eine beschränkte persönliche Dienstbarkeit zu, so
+ist die Dienstbarkeit übertragbar, wenn sie dazu berechtigt, ein
+Grundstück zu nutzen für
+
+1.  Anlagen zur Nutzung von Wasserkraft, Windenergie, solarer
+    Strahlungsenergie, Geothermie, Umweltwärme oder Energie aus Biomasse,
+
+
+2.  Anlagen zur elektrochemischen Herstellung von Wasserstoff oder zur
+    Erzeugung von Strom aus Wasserstoff,
+
+
+3.  Anlagen zur Fortleitung von Elektrizität, Gas, Fernwärme, Wasser,
+    Abwasser, Öl oder Rohstoffen einschließlich aller dazugehörigen
+    Anlagen, die der Fortleitung unmittelbar dienen,
+
+
+4.  Telekommunikationsanlagen,
+
+
+5.  Anlagen zum Transport von Produkten zwischen Betriebsstätten eines
+    oder mehrerer privater oder öffentlicher Unternehmen oder
+
+
+6.  Straßenbahn- oder Eisenbahnanlagen.
+
+
+
 Die Übertragbarkeit umfasst nicht das Recht, die Dienstbarkeit nach
 ihren Befugnissen zu teilen. Steht ein Anspruch auf Einräumung einer
 solchen beschränkten persönlichen Dienstbarkeit einer der in Satz 1
@@ -25050,10 +25141,10 @@ einzelnen Teile als Gesamtschuldner.
 (1) Wird das Grundstück des Berechtigten geteilt, so besteht die
 Reallast für die einzelnen Teile fort. Ist die Leistung teilbar, so
 bestimmen sich die Anteile der Eigentümer nach dem Verhältnis der
-Größe der Teile; ist sie nicht teilbar, so finden die Vorschriften des
-§ 432 Anwendung. Die Ausübung des Rechts ist im Zweifel nur in der
-Weise zulässig, dass sie für den Eigentümer des belasteten Grundstücks
-nicht beschwerlicher wird.
+Größe der Teile; ist sie nicht teilbar, so findet die Vorschrift des §
+432 Anwendung. Die Ausübung des Rechts ist im Zweifel nur in der Weise
+zulässig, dass sie für den Eigentümer des belasteten Grundstücks nicht
+beschwerlicher wird.
 
 (2) Der Berechtigte kann bestimmen, dass das Recht nur mit einem der
 Teile verbunden sein soll. Die Bestimmung hat dem Grundbuchamt
@@ -25085,8 +25176,8 @@ kann das Recht nicht veräußert oder belastet werden.
 
 #### § 1112 Ausschluss unbekannter Berechtigter
 
-Ist der Berechtigte unbekannt, so finden auf die Ausschließung seines
-Rechts die Vorschriften des § 1104 entsprechende Anwendung.
+Ist der Berechtigte unbekannt, so findet auf die Ausschließung seines
+Rechts die Vorschrift des § 1104 entsprechende Anwendung.
 
 
 ### Abschnitt 7 - Hypothek, Grundschuld, Rentenschuld
@@ -25461,11 +25552,11 @@ Aufrechnung erfolgen.
 
 (1) Ist der Eigentümer nicht der persönliche Schuldner, so geht,
 soweit er den Gläubiger befriedigt, die Forderung auf ihn über. Die
-für einen Bürgen geltenden Vorschriften des § 774 Abs. 1 finden
+für einen Bürgen geltende Vorschrift des § 774 Abs. 1 findet
 entsprechende Anwendung.
 
-(2) Besteht für die Forderung eine Gesamthypothek, so gelten für diese
-die Vorschriften des § 1173.
+(2) Besteht für die Forderung eine Gesamthypothek, so gilt für diese
+die Vorschrift des § 1173.
 
 
 ##### § 1144 Aushändigung der Urkunden
@@ -26558,26 +26649,24 @@ bewirken.
 Vorschrift des § 1221 Anwendung.
 
 
-##### § 1236 Versteigerungsort
+##### § 1236 Durchführung der Versteigerung
 
-Die Versteigerung hat an dem Orte zu erfolgen, an dem das Pfand
-aufbewahrt wird. Ist von einer Versteigerung an dem Aufbewahrungsort
-ein angemessener Erfolg nicht zu erwarten, so ist das Pfand an einem
-geeigneten anderen Orte zu versteigern.
+Für die Durchführung der Versteigerung ist § 383 Absatz 2 Satz 2 und 3
+anzuwenden.
 
 
 ##### § 1237 Öffentliche Bekanntmachung
 
-Zeit und Ort der Versteigerung sind unter allgemeiner Bezeichnung des
-Pfandes öffentlich bekannt zu machen. Der Eigentümer und Dritte, denen
-Rechte an dem Pfande zustehen, sind besonders zu benachrichtigen; die
-Benachrichtigung darf unterbleiben, wenn sie untunlich ist.
+Für die öffentliche Bekanntmachung der Versteigerung ist § 383 Absatz
+3 anzuwenden. Der Eigentümer und Dritte, denen Rechte an dem Pfande
+zustehen, sind besonders zu benachrichtigen; die Benachrichtigung darf
+unterbleiben, wenn sie untunlich ist.
 
 
 ##### § 1238 Verkaufsbedingungen
 
 (1) Das Pfand darf nur mit der Bestimmung verkauft werden, dass der
-Käufer den Kaufpreis sofort bar zu entrichten hat und seiner Rechte
+Käufer den Kaufpreis sofort zu entrichten hat und seiner Rechte
 verlustig sein soll, wenn dies nicht geschieht.
 
 (2) Erfolgt der Verkauf ohne diese Bestimmung, so ist der Kaufpreis
@@ -26595,8 +26684,9 @@ mitbieten. Erhält der Pfandgläubiger den Zuschlag, so ist der
 Kaufpreis als von ihm empfangen anzusehen.
 
 (2) Das Gebot des Eigentümers darf zurückgewiesen werden, wenn nicht
-der Betrag bar erlegt wird. Das Gleiche gilt von dem Gebot des
-Schuldners, wenn das Pfand für eine fremde Schuld haftet.
+der Betrag mit dem Gebot zur Verfügung gestellt wird. Das Gleiche gilt
+von dem Gebot des Schuldners, wenn das Pfand für eine fremde Schuld
+haftet.
 
 
 ##### § 1240 Gold- und Silbersachen
@@ -27146,9 +27236,76 @@ kann eine Ehe nicht wirksam eingegangen werden.
 Wer geschäftsunfähig ist, kann eine Ehe nicht eingehen.
 
 
-###### § 1305
+###### § 1305 Folgen und Heilung unwirksamer Minderjährigenehen
 
-(weggefallen)
+(1) Auf eine im Ausland geschlossene und nach § 1303 Satz 2 oder
+Artikel 13 Absatz 3 Nummer 1 des Einführungsgesetzes zum Bürgerlichen
+Gesetzbuche unwirksame Ehe werden zugunsten der bei Eheschließung noch
+nicht 16-jährigen Person folgende Vorschriften entsprechend
+angewendet:
+
+1.  die §§ 1360 bis 1360b, wenn die nicht wirksam Verheirateten wie in
+    einer ehelichen Lebensgemeinschaft zusammenleben,
+
+
+2.  die §§ 1361 und 1586, wenn die nicht wirksam Verheirateten seit
+    weniger als drei Jahren getrennt leben, und
+
+
+3.  die §§ 1569 bis 1583 sowie 1585 bis 1586b, wenn die nicht wirksam
+    Verheirateten seit mindestens drei Jahren getrennt leben oder die
+    Unwirksamkeit der Ehe gerichtlich festgestellt wurde.
+
+
+
+Die Vorschriften sind mit der Maßgabe anzuwenden, dass der Zeitpunkt
+der Trennung dem Eintritt der Rechtshängigkeit des Scheidungsantrags
+gleichsteht und der Ablauf des Trennungszeitraums von drei Jahren
+beziehungsweise die gerichtliche Feststellung der Unwirksamkeit dem
+Zeitpunkt der Scheidung gleichsteht. Im Fall des Todes des
+Unterhaltsverpflichteten gilt § 1586b auch in den Fällen des Satzes 1
+Nummer 1 und 2; § 1615 findet keine Anwendung. Hinsichtlich der
+Haftungsrangfolgen gelten in den Fällen des Satzes 1 Nummer 1 und 2
+die §§ 1608 sowie 1609 und im Fall des Satzes 1 Nummer 3 § 1584
+entsprechend. Satz 1 findet keine Anwendung, wenn beide Personen bei
+Eheschließung noch nicht 16 Jahre alt waren.
+
+(2) Die nicht wirksam Verheirateten können ihre im Ausland
+geschlossene und nach § 1303 Satz 2 oder Artikel 13 Absatz 3 Nummer 1
+des Einführungsgesetzes zum Bürgerlichen Gesetzbuche unwirksame Ehe
+heilen, indem sie die Ehe im Inland erneut schließen, nachdem die bei
+der Eheschließung noch nicht 16-jährige Person das 18. Lebensjahr
+vollendet hat. Sie sind vom Erfordernis der Beibringung eines
+Ehefähigkeitszeugnisses befreit. Nach der erneuten Eheschließung ist
+für Rechtsfolgen der Ehe der Tag der unwirksamen Eheschließung
+maßgeblich. Satz 3 gilt nicht, wenn
+
+1.  einer der nicht wirksam Verheirateten zwischenzeitlich mit einer
+    dritten Person eine Ehe geschlossen hat, auch wenn diese Ehe nicht
+    mehr besteht, oder
+
+
+2.  die Unwirksamkeit der Ehe gerichtlich festgestellt wurde.
+
+
+
+
+(3) Die Vaterschaft nach § 1592 Nummer 1 aufgrund einer nach Absatz 2
+rückwirkend geheilten Ehe tritt nicht ein, wenn
+
+1.  dieses Kind betreffend bereits eine gerichtliche Entscheidung über die
+    Feststellung der Vaterschaft oder über die Annahme als Kind
+    rechtskräftig geworden ist oder
+
+
+2.  für dieses Kind bereits die Anerkennung der Vaterschaft wirksam
+    geworden ist.
+
+
+
+
+(4) Die Absätze 1 bis 3 gelten nicht, wenn die Ehe auch aus anderem
+Grund unwirksam ist.
 
 
 ##### Untertitel 2 - Eheverbote
@@ -27367,18 +27524,18 @@ werden kann, ergeben sich aus den folgenden Vorschriften.
 
 2.  bei Verstoß gegen § 1304, wenn der Ehegatte nach Wegfall der
     Geschäftsunfähigkeit zu erkennen gegeben hat, dass er die Ehe
-    fortsetzen will (Bestätigung);
+    fortsetzen will (Bestätigung),
 
 
 3.  im Falle des § 1314 Abs. 2 Nr. 1, wenn der Ehegatte nach Wegfall der
     Bewusstlosigkeit oder der Störung der Geistestätigkeit zu erkennen
-    gegeben hat, dass er die Ehe fortsetzen will (Bestätigung);
+    gegeben hat, dass er die Ehe fortsetzen will (Bestätigung),
 
 
 4.  in den Fällen des § 1314 Abs. 2 Nr. 2 bis 4, wenn der Ehegatte nach
     Entdeckung des Irrtums oder der Täuschung oder nach Aufhören der
     Zwangslage zu erkennen gegeben hat, dass er die Ehe fortsetzen will
-    (Bestätigung);
+    (Bestätigung),
 
 
 5.  in den Fällen des § 1314 Abs. 2 Nr. 5, wenn die Ehegatten nach der
@@ -27567,41 +27724,130 @@ die Ehe gescheitert ist.
 
 ##### § 1355 Ehename
 
-(1) Die Ehegatten sollen einen gemeinsamen Familiennamen (Ehenamen)
+(1) Die Ehegatten können einen gemeinsamen Familiennamen (Ehenamen)
 bestimmen. Die Ehegatten führen den von ihnen bestimmten Ehenamen.
-Bestimmen die Ehegatten keinen Ehenamen, so führen sie ihren zur Zeit
+Bestimmen die Ehegatten keinen Ehenamen, so führen sie ihre zur Zeit
 der Eheschließung geführten Namen auch nach der Eheschließung.
 
 (2) Zum Ehenamen können die Ehegatten durch Erklärung gegenüber dem
-Standesamt den Geburtsnamen oder den zur Zeit der Erklärung über die
-Bestimmung des Ehenamens geführten Namen eines Ehegatten bestimmen.
+Standesamt bestimmen:
 
-(3) Die Erklärung über die Bestimmung des Ehenamens soll bei der
-Eheschließung erfolgen. Wird die Erklärung später abgegeben, so muss
-sie öffentlich beglaubigt werden.
+1.  den Geburtsnamen (Absatz 6) eines Ehegatten,
 
-(4) Ein Ehegatte, dessen Name nicht Ehename wird, kann durch Erklärung
-gegenüber dem Standesamt dem Ehenamen seinen Geburtsnamen oder den zur
-Zeit der Erklärung über die Bestimmung des Ehenamens geführten Namen
-voranstellen oder anfügen. Dies gilt nicht, wenn der Ehename aus
-mehreren Namen besteht. Besteht der Name eines Ehegatten aus mehreren
-Namen, so kann nur einer dieser Namen hinzugefügt werden. Die
-Erklärung kann gegenüber dem Standesamt widerrufen werden; in diesem
-Falle ist eine erneute Erklärung nach Satz 1 nicht zulässig. Die
-Erklärung, wenn sie nicht bei der Eheschließung gegenüber einem
-deutschen Standesamt abgegeben wird, und der Widerruf müssen
-öffentlich beglaubigt werden.
+
+2.  den zur Zeit der Erklärung geführten Familiennamen eines Ehegatten
+    oder
+
+
+3.  einen aus den Namen (Nummer 1 oder 2) beider Ehegatten gebildeten
+    Doppelnamen.
+
+
+
+Im Fall des Satzes 1 Nummer 3 werden die für den Doppelnamen
+herangezogenen Namen durch einen Bindestrich verbunden, es sei denn,
+die Ehegatten bestimmen mit der Erklärung nach Satz 1, dass die Namen
+nicht durch einen Bindestrich verbunden werden.
+
+(3) Besteht der Name, der nach Absatz 2 allein oder als einer der
+Namen eines Doppelnamens zum Ehenamen bestimmt werden soll, aus
+mehreren Namen, so gilt zusätzlich:
+
+1.  im Fall des Absatzes 2 Satz 1 Nummer 1 oder 2 können anstelle des
+    gesamten Namens auch nur einer oder einige der Namen, aus denen der
+    Name besteht, zum Ehenamen bestimmt werden,
+
+
+2.  im Fall des Absatzes 2 Satz 1 Nummer 3 darf nur einer der Namen, aus
+    denen der Name besteht, für die Bildung des Doppelnamens herangezogen
+    werden.
+
+
+
+
+(4) Die Bestimmung des Ehenamens soll bei der Eheschließung erfolgen.
+Wird die Erklärung später abgegeben, so muss sie öffentlich beglaubigt
+werden.
 
 (5) Der verwitwete oder geschiedene Ehegatte behält den Ehenamen. Er
-kann durch Erklärung gegenüber dem Standesamt seinen Geburtsnamen oder
-den Namen wieder annehmen, den er bis zur Bestimmung des Ehenamens
-geführt hat, oder dem Ehenamen seinen Geburtsnamen oder den zur Zeit
-der Bestimmung des Ehenamens geführten Namen voranstellen oder
-anfügen. Absatz 4 gilt entsprechend.
+kann durch Erklärung gegenüber dem Standesamt, die öffentlich
+beglaubigt werden muss,
 
-(6) Geburtsname ist der Name, der in die Geburtsurkunde eines
-Ehegatten zum Zeitpunkt der Erklärung gegenüber dem Standesamt
-einzutragen ist.
+1.  seinen Geburtsnamen (Absatz 6) wieder annehmen,
+
+
+2.  den Namen wieder annehmen, den er bis zur Bestimmung des Ehenamens
+    geführt hat, oder
+
+
+3.  dem Ehenamen einen Begleitnamen (§ 1355a) voranstellen oder anfügen; §
+    1355a gilt entsprechend.
+
+
+
+
+(6) Geburtsname ist der Familienname, der in die Geburtsurkunde eines
+Ehegatten zum Zeitpunkt der Erklärung nach Absatz 2 Satz 1 einzutragen
+ist.
+
+
+##### § 1355a Begleitname
+
+(1) Der Ehegatte, dessen Name nicht Ehename wird, kann durch Erklärung
+gegenüber dem Standesamt dem Ehenamen einen Begleitnamen voranstellen
+oder anfügen. Begleitname kann sein:
+
+1.  der Geburtsname dieses Ehegatten oder
+
+
+2.  der zur Zeit der Erklärung über die Bestimmung des Ehenamens geführte
+    Familienname dieses Ehegatten.
+
+
+
+Besteht der Name, der Begleitname werden soll, aus mehreren Namen,
+kann nur einer dieser Namen Begleitname sein. Mit der Erklärung nach
+Satz 1 kann der Ehegatte auch bestimmen, dass der Ehename und der
+Begleitname durch einen Bindestrich verbunden werden.
+
+(2) Absatz 1 gilt nicht, wenn der Ehename aus mehreren Namen besteht.
+
+(3) Wird die Erklärung nach Absatz 1 Satz 1 nicht bei der
+Eheschließung abgegeben, so muss sie öffentlich beglaubigt werden.
+
+(4) Die Erklärung nach Absatz 1 Satz 1 kann gegenüber dem Standesamt
+widerrufen werden. Der Widerruf muss öffentlich beglaubigt werden. Im
+Fall des Widerrufs ist eine erneute Erklärung nach Absatz 1 Satz 1
+nicht zulässig.
+
+
+##### § 1355b Geschlechtsangepasste Form des Ehenamens nach sorbischer Tradition und ausländischen Rechtsordnungen
+
+(1) Jeder Ehegatte kann durch Erklärung gegenüber dem Standesamt
+bestimmen, dass er den Ehenamen in einer seinem Geschlecht angepassten
+Form führt, wenn
+
+1.  die Form der sorbischen Tradition entspricht und der Ehegatte dem
+    sorbischen Volk angehört,
+
+
+2.  die Anpassung in der Rechtsordnung eines anderen Staates vorgesehen
+    ist und der Herkunft des Ehegatten entspricht oder
+
+
+3.  die Anpassung in der Rechtsordnung eines anderen Staates vorgesehen
+    ist und der Name traditionell aus dem dortigen Sprachraum stammt.
+
+
+
+
+(2) Wird eine Erklärung nach Absatz 1 nicht bei der Eheschließung
+abgegeben, so muss sie öffentlich beglaubigt werden.
+
+(3) Die Erklärung nach Absatz 1 kann gegenüber dem Standesamt
+widerrufen werden. Der Widerruf muss öffentlich beglaubigt werden. Im
+Fall des Widerrufs ist eine erneute Erklärung nach Absatz 1 nicht
+zulässig.
 
 
 ##### § 1356 Haushaltsführung, Erwerbstätigkeit
@@ -29117,13 +29363,13 @@ sie entstehen:
 
 ###### § 1464 Verbindlichkeiten des Sonderguts und eines Erwerbsgeschäfts
 
-Die Vorschriften des § 1463 Nr. 2, 3 gelten nicht, wenn die
+Die Vorschrift des § 1463 Nr. 2, 3 gilt nicht, wenn die
 Verbindlichkeiten zu den Lasten des Sonderguts gehören, die aus den
-Einkünften beglichen zu werden pflegen. Die Vorschriften gelten auch
-dann nicht, wenn die Verbindlichkeiten durch den Betrieb eines für
-Rechnung des Gesamtguts geführten Erwerbsgeschäfts oder infolge eines
-zu einem solchen Erwerbsgeschäft gehörenden Rechts oder des Besitzes
-einer dazu gehörenden Sache entstehen.
+Einkünften beglichen zu werden pflegen. Die Vorschrift gilt auch dann
+nicht, wenn die Verbindlichkeiten durch den Betrieb eines für Rechnung
+des Gesamtguts geführten Erwerbsgeschäfts oder infolge eines zu einem
+solchen Erwerbsgeschäft gehörenden Rechts oder des Besitzes einer dazu
+gehörenden Sache entstehen.
 
 
 ###### § 1465 Prozesskosten
@@ -29219,8 +29465,8 @@ Maßgabe des § 1412 wirksam.
 (1) Nach der Beendigung der Gütergemeinschaft setzen sich die
 Ehegatten über das Gesamtgut auseinander.
 
-(2) Bis zur Auseinandersetzung gelten für das Gesamtgut die
-Vorschriften des § 1419.
+(2) Bis zur Auseinandersetzung gilt für das Gesamtgut die Vorschrift
+des § 1419.
 
 
 ###### § 1472 Gemeinschaftliche Verwaltung des Gesamtguts
@@ -29249,7 +29495,7 @@ das Gesamtgut allein verwaltet hat.
 
 ###### § 1473 Unmittelbare Ersetzung
 
-(1) Was auf Grund eines zum Gesamtgut gehörenden Rechtes oder als
+(1) Was auf Grund eines zum Gesamtgut gehörenden Rechts oder als
 Ersatz für die Zerstörung, Beschädigung oder Entziehung eines zum
 Gesamtgut gehörenden Gegenstands oder durch ein Rechtsgeschäft
 erworben wird, das sich auf das Gesamtgut bezieht, wird Gesamtgut.
@@ -29433,7 +29679,7 @@ nach dem Eintritt der fortgesetzten Gütergemeinschaft erwirbt.
 Eintritts der fortgesetzten Gütergemeinschaft hat oder später erwirbt,
 gehört nicht zu dem Gesamtgut.
 
-(3) Auf das Gesamtgut finden die für die eheliche Gütergemeinschaft
+(3) Auf das Gesamtgut findet die für die eheliche Gütergemeinschaft
 geltende Vorschrift des § 1416 Abs. 2 und 3 entsprechende Anwendung.
 
 
@@ -29805,7 +30051,7 @@ auf die Hälfte herabsetzen.
 
 ###### § 1513 Entziehung des Anteils
 
-(1) Jeder Ehegatte kann für den Fall, dass mit seinem Tod die
+(1) Jeder Ehegatte kann für den Fall, dass mit seinem Tode die
 fortgesetzte Gütergemeinschaft eintritt, einem anteilsberechtigten
 Abkömmling den diesem nach der Beendigung der fortgesetzten
 Gütergemeinschaft gebührenden Anteil an dem Gesamtgut durch
@@ -30655,7 +30901,7 @@ Anhaltspunkte ist insbesondere:
 
 2.  wenn der Anerkennende oder die Mutter oder das Kind einen Asylantrag
     gestellt hat und die Staatsangehörigkeit eines sicheren
-    Herkunftsstaates nach § 29a des Asylgesetzes besitzt,
+    Herkunftsstaates nach § 29a oder § 29b des Asylgesetzes besitzt,
 
 
 3.  das Fehlen von persönlichen Beziehungen zwischen dem Anerkennenden und
@@ -30939,8 +31185,8 @@ angemessenen Unterhalts den Unterhalt zu gewähren.
 minderjährigen Kindern gegenüber verpflichtet, alle verfügbaren Mittel
 zu ihrem und der Kinder Unterhalt gleichmäßig zu verwenden. Den
 minderjährigen Kindern stehen volljährige unverheiratete Kinder bis
-zur Vollendung des 21. Lebensjahres gleich, solange sie im Haushalt
-der Eltern oder eines Elternteils leben und sich in der allgemeinen
+zur Vollendung des 21. Lebensjahrs gleich, solange sie im Haushalt der
+Eltern oder eines Elternteils leben und sich in der allgemeinen
 Schulausbildung befinden. Diese Verpflichtung tritt nicht ein, wenn
 ein anderer unterhaltspflichtiger Verwandter vorhanden ist; sie tritt
 auch nicht ein gegenüber einem Kind, dessen Unterhalt aus dem Stamme
@@ -31324,119 +31570,433 @@ Das Kind erhält den Ehenamen seiner Eltern als Geburtsnamen.
 
 ##### § 1617 Geburtsname bei Eltern ohne Ehenamen und gemeinsamer Sorge
 
-(1) Führen die Eltern keinen Ehenamen und steht ihnen die Sorge
-gemeinsam zu, so bestimmen sie durch Erklärung gegenüber dem
-Standesamt den Namen, den der Vater oder die Mutter zur Zeit der
-Erklärung führt, zum Geburtsnamen des Kindes. Eine nach der
-Beurkundung der Geburt abgegebene Erklärung muss öffentlich beglaubigt
-werden. Die Bestimmung der Eltern gilt auch für ihre weiteren Kinder.
+(1) Führen die Eltern keinen Ehenamen und steht ihnen die elterliche
+Sorge gemeinsam zu, so bestimmen sie durch Erklärung gegenüber dem
+Standesamt einen der folgenden Namen zum Geburtsnamen des Kindes:
 
-(2) Treffen die Eltern binnen eines Monats nach der Geburt des Kindes
-keine Bestimmung, überträgt das Familiengericht das Bestimmungsrecht
-einem Elternteil. Absatz 1 gilt entsprechend. Das Gericht kann dem
-Elternteil für die Ausübung des Bestimmungsrechts eine Frist setzen.
-Ist nach Ablauf der Frist das Bestimmungsrecht nicht ausgeübt worden,
-so erhält das Kind den Namen des Elternteils, dem das Bestimmungsrecht
-übertragen ist.
+1.  den Familiennamen, den ein Elternteil zur Zeit der Erklärung führt,
+    oder
 
-(3) Ist ein Kind nicht im Inland geboren, so überträgt das Gericht
-einem Elternteil das Bestimmungsrecht nach Absatz 2 nur dann, wenn ein
-Elternteil oder das Kind dies beantragt oder die Eintragung des Namens
-des Kindes in ein deutsches Personenstandsregister oder in ein
-amtliches deutsches Identitätspapier erforderlich wird.
+
+2.  einen aus den Namen (Nummer 1) beider Elternteile gebildeten
+    Doppelnamen.
+
+
+
+Im Fall des Satzes 1 Nummer 2 werden die für den Doppelnamen
+herangezogenen Namen durch einen Bindestrich verbunden, es sei denn,
+die Eltern bestimmen mit der Erklärung nach Satz 1, dass die Namen
+nicht durch einen Bindestrich verbunden werden.
+
+(2) Besteht der Name eines Elternteils, der nach Absatz 1 allein oder
+als einer der Namen eines Doppelnamens zum Geburtsnamen des Kindes
+bestimmt werden soll, aus mehreren Namen, so gilt zusätzlich:
+
+1.  im Fall des Absatzes 1 Satz 1 Nummer 1 können anstelle des gesamten
+    Namens auch nur einer oder einige der Namen, aus denen der Name
+    besteht, zum Geburtsnamen des Kindes bestimmt werden,
+
+
+2.  im Fall des Absatzes 1 Satz 1 Nummer 2 darf nur einer der Namen, aus
+    denen der Name besteht, für die Bildung des Doppelnamens herangezogen
+    werden.
+
+
+
+
+(3) Eine nach der Beurkundung der Geburt abgegebene Erklärung muss
+öffentlich beglaubigt werden.
+
+(4) Treffen die Eltern binnen eines Monats nach der Geburt des Kindes
+keine Bestimmung, so erhält das Kind einen in alphabetischer
+Reihenfolge aus den Namen (Absatz 1 Satz 1 Nummer 1) beider
+Elternteile gebildeten Doppelnamen. Besteht der Name eines Elternteils
+aus mehreren Namen, so wird der alphabetisch voranstehende Name für
+die Bildung des Doppelnamens herangezogen. Die herangezogenen Namen
+werden durch einen Bindestrich verbunden. Ergibt sich nach den Sätzen
+1 bis 3 ein Geburtsname des Kindes, den zumindest ein Elternteil durch
+Erklärung gegenüber dem Standesamt ablehnt, so überträgt das
+Familiengericht das Recht zur Bestimmung des Geburtsnamens des Kindes
+einem Elternteil. Die Absätze 1 bis 3 und § 1617c Absatz 1 gelten
+entsprechend. Das Gericht kann dem Elternteil für die Ausübung des
+Bestimmungsrechts eine Frist setzen. Ist nach Ablauf der Frist das
+Bestimmungsrecht nicht ausgeübt worden, so erhält das Kind den sich
+nach den Sätzen 1 bis 3 ergebenden Geburtsnamen.
+
+(5) Der von den Eltern oder einem Elternteil bestimmte Geburtsname
+gilt auch für ihre weiteren gemeinsamen Kinder.
 
 
 ##### § 1617a Geburtsname bei Eltern ohne Ehenamen und Alleinsorge
 
 (1) Führen die Eltern keinen Ehenamen und steht die elterliche Sorge
-nur einem Elternteil zu, so erhält das Kind den Namen, den dieser
-Elternteil im Zeitpunkt der Geburt des Kindes führt.
+nur einem Elternteil zu, so erhält das Kind den Familiennamen, den
+dieser Elternteil im Zeitpunkt der Geburt des Kindes führt, als
+Geburtsnamen.
 
-(2) Der Elternteil, dem die elterliche Sorge für ein Kind allein
-zusteht, kann dem Kind durch Erklärung gegenüber dem Standesamt den
-Namen des anderen Elternteils erteilen. Die Erteilung des Namens
-bedarf der Einwilligung des anderen Elternteils und, wenn das Kind das
-fünfte Lebensjahr vollendet hat, auch der Einwilligung des Kindes. Die
-Erklärungen müssen öffentlich beglaubigt werden. Für die Einwilligung
-des Kindes gilt § 1617c Abs. 1 entsprechend.
+(2) Besteht der Name des Elternteils, dessen Name nach Absatz 1 der
+Geburtsname des Kindes geworden ist und dem die elterliche Sorge für
+das Kind allein zusteht, aus mehreren Namen, so kann dieser Elternteil
+dem Kind durch Erklärung gegenüber dem Standesamt nur einen oder
+einige der Namen, aus denen der Name besteht, erteilen.
+
+(3) Der Elternteil, dessen Name nach Absatz 1 oder 2 der Geburtsname
+des Kindes geworden ist und dem die elterliche Sorge für das Kind
+allein zusteht, kann dem Kind durch Erklärung gegenüber dem Standesamt
+den Familiennamen des anderen Elternteils oder einen aus den
+Familiennamen beider Elternteile gebildeten Doppelnamen erteilen. §
+1617 Absatz 1 Satz 2 und Absatz 2 gilt entsprechend.
+
+(4) Die Erteilung des Namens nach den Absätzen 2 und 3 bedarf, wenn
+das Kind das fünfte Lebensjahr vollendet hat, der Einwilligung des
+Kindes und in den Fällen des Absatzes 3 auch der Einwilligung des
+anderen Elternteils, es sei denn, dieser ist bereits verstorben. Die
+Erklärungen müssen öffentlich beglaubigt werden, die Erklärung nach
+Absatz 2 jedoch nur, wenn sie nach der Beurkundung der Geburt
+abgegeben wird. Für die Einwilligung des Kindes gilt § 1617c Absatz 1
+Satz 2 entsprechend.
 
 
 ##### § 1617b Name bei nachträglicher gemeinsamer Sorge oder Scheinvaterschaft
 
 (1) Wird eine gemeinsame Sorge der Eltern erst begründet, wenn das
-Kind bereits einen Namen führt, so kann der Name des Kindes binnen
-drei Monaten nach der Begründung der gemeinsamen Sorge neu bestimmt
-werden. Die Frist endet, wenn ein Elternteil bei Begründung der
-gemeinsamen Sorge seinen gewöhnlichen Aufenthalt nicht im Inland hat,
-nicht vor Ablauf eines Monats nach Rückkehr in das Inland. Hat das
-Kind das fünfte Lebensjahr vollendet, so ist die Bestimmung nur
-wirksam, wenn es sich der Bestimmung anschließt. § 1617 Abs. 1 und §
-1617c Abs. 1 Satz 2 und 3 und Abs. 3 gelten entsprechend.
+Kind bereits einen Geburtsnamen führt, so kann dieser neu bestimmt
+werden. Hat das Kind das fünfte Lebensjahr vollendet, so ist die
+Bestimmung nur wirksam, wenn es sich der Bestimmung anschließt. § 1617
+Absatz 1 bis 3 und 5 sowie § 1617c Absatz 1 Satz 2 gelten
+entsprechend.
 
 (2) Wird rechtskräftig festgestellt, dass ein Mann, dessen
 Familienname Geburtsname des Kindes geworden ist, nicht der Vater des
 Kindes ist, so erhält das Kind auf seinen Antrag oder, wenn das Kind
 das fünfte Lebensjahr noch nicht vollendet hat, auch auf Antrag des
-Mannes den Namen, den die Mutter im Zeitpunkt der Geburt des Kindes
-führt, als Geburtsnamen. Der Antrag erfolgt durch Erklärung gegenüber
-dem Standesamt, die öffentlich beglaubigt werden muss. Für den Antrag
-des Kindes gilt § 1617c Abs. 1 Satz 2 und 3 entsprechend.
+Mannes den Familiennamen, den die Mutter im Zeitpunkt der Geburt des
+Kindes führt, als Geburtsnamen. Der Antrag erfolgt durch Erklärung
+gegenüber dem Standesamt, die öffentlich beglaubigt werden muss. Für
+den Antrag des Kindes gilt § 1617c Absatz 1 Satz 2 und Absatz 3
+entsprechend.
+
+(3) Erhält das Kind nach Absatz 2 den Familiennamen der Mutter als
+Geburtsnamen, so gilt § 1617a Absatz 2 und 4 entsprechend, wenn ihr
+Name aus mehreren Namen besteht.
 
 
 ##### § 1617c Name bei Namensänderung der Eltern
 
-(1) Bestimmen die Eltern einen Ehenamen oder
-Lebenspartnerschaftsnamen, nachdem das Kind das fünfte Lebensjahr
-vollendet hat, so erstreckt sich der Ehename oder
-Lebenspartnerschaftsname auf den Geburtsnamen des Kindes nur dann,
-wenn es sich der Namensgebung anschließt. Ein in der
-Geschäftsfähigkeit beschränktes Kind, welches das 14. Lebensjahr
-vollendet hat, kann die Erklärung nur selbst abgeben; es bedarf hierzu
-der Zustimmung seines gesetzlichen Vertreters. Die Erklärung ist
-gegenüber dem Standesamt abzugeben; sie muss öffentlich beglaubigt
-werden.
+(1) Bestimmen die Eltern einen Ehenamen, nachdem das Kind das fünfte
+Lebensjahr vollendet hat, so erstreckt sich der Ehename auf den
+Geburtsnamen des Kindes nur dann, wenn es sich der Namensgebung
+anschließt. Ein in der Geschäftsfähigkeit beschränktes Kind, welches
+das 14. Lebensjahr vollendet hat, kann die Erklärung nur selbst
+abgeben; es bedarf hierzu der Zustimmung seines gesetzlichen
+Vertreters. Die Erklärung ist gegenüber dem Standesamt abzugeben; sie
+muss öffentlich beglaubigt werden.
 
 (2) Absatz 1 gilt entsprechend,
 
-1.  wenn sich der Ehename oder Lebenspartnerschaftsname, der Geburtsname
-    eines Kindes geworden ist, ändert oder
+1.  wenn sich der Ehename, der Geburtsname eines Kindes geworden ist,
+    ändert oder
 
 
 2.  wenn sich in den Fällen der §§ 1617, 1617a und 1617b der Familienname
     eines Elternteils, der Geburtsname eines Kindes geworden ist, auf
-    andere Weise als durch Eheschließung oder Begründung einer
-    Lebenspartnerschaft ändert.
+    andere Weise als durch Eheschließung ändert.
 
 
 
 
 (3) Eine Änderung des Geburtsnamens erstreckt sich auf den Ehenamen
-oder den Lebenspartnerschaftsnamen des Kindes nur dann, wenn sich auch
-der Ehegatte oder der Lebenspartner der Namensänderung anschließt;
-Absatz 1 Satz 3 gilt entsprechend.
+des Kindes nur dann, wenn sich auch der Ehegatte der Namensänderung
+anschließt; Absatz 1 Satz 3 gilt entsprechend.
 
 
-##### § 1618 Einbenennung
+##### § 1617d Name nach Scheidung der Eltern oder Tod eines Elternteils
 
-Der Elternteil, dem die elterliche Sorge für ein Kind allein oder
+(1) Derjenige Elternteil, dessen Name nicht Ehename geworden ist, dem
+die elterliche Sorge für ein Kind nach der Scheidung der Eltern allein
+oder gemeinsam mit dem anderen Elternteil oder nach dem Tod des
+anderen Elternteils allein zusteht und der das Kind in seinen Haushalt
+aufgenommen hat, kann durch Erklärung gegenüber dem Standesamt dem
+Kind einen der folgenden Namen als Geburtsnamen erteilen:
+
+1.  seinen gemäß § 1355 Absatz 5 Satz 2 Nummer 1 und 2 wieder angenommenen
+    Namen oder
+
+
+2.  einen aus seinem wieder angenommenen Namen (Nummer 1) und dem von dem
+    Kind zur Zeit der Erklärung geführten Geburtsnamen gebildeten
+    Doppelnamen.
+
+
+
+§ 1617 Absatz 1 Satz 2 und Absatz 2 gilt entsprechend.
+
+(2) Wenn das Kind das fünfte Lebensjahr vollendet hat, bedarf die
+Erteilung des Geburtsnamens nach Absatz 1 seiner Einwilligung; § 1617c
+Absatz 1 Satz 2 gilt entsprechend. Im Fall der Scheidung der Eltern
+bedarf die Erteilung des Geburtsnamens nach Absatz 1 auch der
+Einwilligung des anderen Elternteils, wenn das Kind dessen Namen führt
+oder diesem Elternteil die elterliche Sorge gemeinsam mit dem den
+Namen erteilenden Elternteil zusteht. Das Familiengericht kann die
+Einwilligung des anderen Elternteils ersetzen, wenn die Erteilung dem
+Wohl des Kindes dient.
+
+(3) Ein volljähriges Kind, dessen einer Elternteil nach Scheidung der
+Eltern oder Tod des anderen Elternteils einen früheren Namen wieder
+angenommen hat (§ 1355 Absatz 5 Satz 2), kann durch Erklärung
+gegenüber dem Standesamt seinen Geburtsnamen neu bestimmen, indem es
+
+1.  sich der Namensänderung dieses Elternteils anschließt oder
+
+
+2.  aus seinem bisherigen Geburtsnamen und dem von diesem Elternteil
+    wieder angenommenen Familiennamen einen Doppelnamen bildet.
+
+
+
+Die Neubestimmung des Geburtsnamens bedarf der Einwilligung dieses
+Elternteils. § 1617c Absatz 3 gilt entsprechend.
+
+(4) Die Erklärungen müssen öffentlich beglaubigt werden.
+
+
+##### § 1617e Einbenennung, Rückbenennung
+
+(1) Der Elternteil, dem die elterliche Sorge für ein Kind allein oder
 gemeinsam mit dem anderen Elternteil zusteht, und sein Ehegatte, der
 nicht Elternteil des Kindes ist, können dem Kind, das sie in ihren
 gemeinsamen Haushalt aufgenommen haben, durch Erklärung gegenüber dem
-Standesamt ihren Ehenamen erteilen. Sie können diesen Namen auch dem
-von dem Kind zur Zeit der Erklärung geführten Namen voranstellen oder
-anfügen; ein bereits zuvor nach Halbsatz 1 vorangestellter oder
-angefügter Ehename entfällt. Die Erteilung, Voranstellung oder
-Anfügung des Namens bedarf der Einwilligung des anderen Elternteils,
-wenn ihm die elterliche Sorge gemeinsam mit dem den Namen erteilenden
-Elternteil zusteht oder das Kind seinen Namen führt, und, wenn das
-Kind das fünfte Lebensjahr vollendet hat, auch der Einwilligung des
-Kindes. Das Familiengericht kann die Einwilligung des anderen
-Elternteils ersetzen, wenn die Erteilung, Voranstellung oder Anfügung
-des Namens zum Wohl des Kindes erforderlich ist. Die Erklärungen
-müssen öffentlich beglaubigt werden. § 1617c gilt entsprechend.
+Standesamt einen der folgenden Namen als Geburtsnamen erteilen
+(Einbenennung):
+
+1.  ihren Ehenamen oder
 
 
-##### § 1618a Pflicht zu Beistand und Rücksicht
+2.  einen aus ihrem Ehenamen und dem von dem Kind zur Zeit der Erklärung
+    geführten Geburtsnamen gebildeten Doppelnamen.
+
+
+
+Im Fall des Satzes 1 Nummer 2 gilt § 1617 Absatz 1 Satz 2 und Absatz 2
+Nummer 2 entsprechend.
+
+(2) Die Einbenennung bedarf der Einwilligung des anderen Elternteils,
+wenn das Kind dessen Namen führt oder diesem Elternteil die elterliche
+Sorge gemeinsam mit dem einbenennenden Elternteil zusteht. Das
+Familiengericht kann die Einwilligung des anderen Elternteils
+ersetzen, wenn die Einbenennung dem Wohl des Kindes dient. Wenn das
+Kind das fünfte Lebensjahr vollendet hat, bedarf die Einbenennung auch
+seiner Einwilligung.
+
+(3) Ein volljähriges Kind kann sich entsprechend Absatz 1, auch wenn
+es nicht im gemeinsamen Haushalt eines Elternteils und des Ehegatten
+dieses Elternteils lebt, mit deren Einwilligung durch Erklärung
+gegenüber dem Standesamt selbst einbenennen.
+
+(4) Wird die Ehe zwischen dem Elternteil und seinem Ehegatten, der
+nicht Elternteil des Kindes ist, aufgelöst oder scheidet das Kind aus
+dem gemeinsamen Haushalt aus, so können die Einbenennung durch
+Erklärung gegenüber dem Standesamt rückgängig machen (Rückbenennung):
+
+1.  jeder Elternteil, dem die elterliche Sorge für das Kind allein oder
+    gemeinsam mit dem anderen Elternteil zusteht, sowie
+
+
+2.  das Kind selbst, sobald es volljährig ist.
+
+
+
+In den Fällen des Satzes 1 Nummer 1 gilt Absatz 2 entsprechend.
+
+(5) Die Erklärungen müssen öffentlich beglaubigt werden. § 1617c
+Absatz 1 Satz 2 und Absatz 3 gilt entsprechend.
+
+
+##### § 1617f Geschlechtsangepasste Form des Geburtsnamens nach sorbischer Tradition und ausländischen Rechtsordnungen
+
+(1) Der Geburtsname eines Kindes kann durch Erklärung gegenüber dem
+Standesamt seinem Geschlecht angepasst werden, wenn
+
+1.  die Form der sorbischen Tradition entspricht und das Kind dem
+    sorbischen Volk angehört,
+
+
+2.  die Anpassung in der Rechtsordnung eines anderen Staates vorgesehen
+    ist und der Herkunft des Kindes entspricht oder
+
+
+3.  die Anpassung in der Rechtsordnung eines anderen Staates vorgesehen
+    ist und der Name traditionell aus dem dortigen Sprachraum stammt.
+
+
+
+
+(2) Die Erklärung nach Absatz 1 kann jeder Elternteil abgeben, dem die
+elterliche Sorge allein oder gemeinsam mit dem anderen Elternteil
+zusteht. Die Anpassung des Geburtsnamens bedarf der Einwilligung des
+anderen Elternteils, wenn das Kind dessen Namen führt oder diesem
+Elternteil die elterliche Sorge gemeinsam mit dem erklärenden
+Elternteil zusteht. Das Familiengericht kann die Einwilligung des
+anderen Elternteils ersetzen, wenn die Anpassung dem Wohl des Kindes
+dient. Wenn das Kind das fünfte Lebensjahr vollendet hat, bedarf die
+Anpassung auch seiner Einwilligung; § 1617c Absatz 1 Satz 2 gilt
+entsprechend.
+
+(3) Ist das Kind volljährig, so kann es die Erklärung nach Absatz 1
+selbst abgeben. Eine unverheiratete volljährige Frau, die dem
+sorbischen Volk angehört, kann eine Form des Geburtsnamens wählen oder
+zu einer solchen wechseln, die nach der sorbischen Tradition
+verheirateten Frauen vorbehalten ist. In den Fällen des Absatzes 1
+Nummer 2 und 3 kann das volljährige Kind zu einer anderen Form des
+Geburtsnamens wechseln, wenn dies in der Rechtsordnung des anderen
+Staates vorgesehen ist.
+
+(4) Die Erklärung nach Absatz 1 kann gegenüber dem Standesamt
+widerrufen werden. Für minderjährige Kinder gilt Absatz 2
+entsprechend. Ist das minderjährige Kind volljährig geworden, so tritt
+sein Widerruf an die Stelle des Widerrufs des Sorgeberechtigten. Im
+Fall des Widerrufs ist eine erneute Erklärung nach Absatz 1 nicht
+zulässig.
+
+(5) Nach der Beurkundung der Geburt abgegebene Erklärungen müssen
+öffentlich beglaubigt werden.
+
+
+##### § 1617g Geburtsname nach friesischer Tradition
+
+(1) Abweichend von § 1616 und ergänzend zu den in den §§ 1617 bis
+1617b genannten Möglichkeiten kann zum Geburtsnamen eines
+minderjährigen Kindes, das der friesischen Volksgruppe angehört,
+bestimmt werden:
+
+1.  ein gemäß der friesischen Tradition von einem Vornamen eines
+    Elternteils abgeleiteter Name oder
+
+
+2.  ein nicht durch Bindestrich verbundener Doppelname, der sich aus einem
+    Namen nach Nummer 1 und dem Familiennamen eines Elternteils
+    zusammensetzt; § 1617 Absatz 2 Nummer 2 gilt entsprechend.
+
+
+
+
+(2) Im Fall des § 1616 können die gemeinsam sorgeberechtigten Eltern
+oder der alleinsorgeberechtigte Elternteil den Geburtsnamen des Kindes
+durch Erklärung gegenüber dem Standesamt, die öffentlich zu
+beglaubigen ist, nach Absatz 1 neu bestimmen. Die Bestimmung des
+Geburtsnamens durch einen Elternteil bedarf der Einwilligung des
+anderen Elternteils. Wenn das Kind das fünfte Lebensjahr vollendet
+hat, bedarf die Bestimmung auch seiner Einwilligung. Für die
+Einwilligung des Kindes gilt § 1617c Absatz 1 Satz 2 und 3
+entsprechend.
+
+(3) Der nach § 1617a Absatz 4 erforderlichen Einwilligung des anderen
+Elternteils bedarf es auch dann, wenn das Kind einen Namen erhalten
+soll, der sich von einem Vornamen dieses Elternteils ableitet. § 1617b
+Absatz 2 gilt auch, wenn ein von einem Vornamen dieses Mannes
+abgeleiteter Name Geburtsname des Kindes geworden ist.
+
+(4) Ändert sich der Vorname des Elternteils, von dem der Geburtsname
+des Kindes abgeleitet wurde, gilt § 1617c Absatz 1 entsprechend.
+
+(5) Für die Änderung einer geschlechtsspezifischen Endung des
+Geburtsnamens des Kindes gilt § 1617f entsprechend.
+
+
+##### § 1617h Geburtsname nach dänischer Tradition
+
+(1) Abweichend von § 1616 und ergänzend zu den in den §§ 1617 bis
+1617b genannten Möglichkeiten kann zum Geburtsnamen eines
+minderjährigen Kindes, das der dänischen Minderheit angehört, ein
+nicht durch Bindestrich verbundener Doppelname bestimmt werden, der
+sich zusammensetzt aus
+
+1.  dem Familiennamen eines nahen Angehörigen an erster Stelle des
+    Doppelnamens und
+
+
+2.  dem Familiennamen eines Elternteils an zweiter Stelle des
+    Doppelnamens.
+
+
+
+§ 1617 Absatz 2 Nummer 2 gilt entsprechend.
+
+(2) Im Fall des § 1616 können die gemeinsam sorgeberechtigten Eltern
+oder der alleinsorgeberechtigte Elternteil dem Geburtsnamen des Kindes
+durch Erklärung gegenüber dem Standesamt, die öffentlich zu
+beglaubigen ist, den Familiennamen eines nahen Angehörigen nach Absatz
+1 voranstellen. § 1617g Absatz 2 Satz 2 bis 4 gilt entsprechend.
+
+(3) Die Bestimmung nach Absatz 1 und die Voranstellung nach Absatz 2
+bedürfen der Einwilligung des nahen Angehörigen, es sei denn, dieser
+ist bereits verstorben. Die Einwilligung ist gegenüber dem Standesamt
+zu erklären; sie muss öffentlich beglaubigt werden.
+
+
+##### § 1617i Neubestimmung des Familiennamens durch volljährige Personen
+
+(1) Jede volljährige Person kann den Geburtsnamen, den sie als
+Minderjährige erworben hat, einmalig wie folgt neu bestimmen:
+
+1.  wenn ihr Geburtsname aus mehreren Namen besteht: indem sie nur einen
+    oder einige der Namen, aus denen der Name besteht, zu ihrem
+    Geburtsnamen bestimmt,
+
+
+2.  wenn sie den Familiennamen nur eines Elternteils als Geburtsnamen
+    erhalten hat: indem sie
+
+    a)  diesen durch den Familiennamen des anderen Elternteils ersetzt oder
+
+
+    b)  diesem den Familiennamen des anderen Elternteils voranstellt oder
+        anfügt.
+
+
+
+
+
+
+In den Fällen des Satzes 1 Nummer 2 Buchstabe a gilt § 1617 Absatz 2
+Nummer 1 entsprechend, in den Fällen des Satzes 1 Nummer 2 Buchstabe b
+gilt § 1617 Absatz 1 Satz 2 und Absatz 2 Nummer 2 entsprechend. Die
+Neubestimmung bedarf der Einwilligung desjenigen Elternteils, dessen
+Name zum neuen Geburtsnamen bestimmt oder dem bisherigen Geburtsnamen
+vorangestellt oder angefügt wird, es sei denn, der Elternteil ist
+bereits verstorben.
+
+(2) Gehört eine volljährige Person der friesischen Volksgruppe oder
+der dänischen Minderheit an und hat sie einen Geburtsnamen nach §
+1617g oder § 1617h erhalten, so gilt für die Neubestimmung des
+Geburtsnamens Absatz 1 sinngemäß. Hat eine volljährige Person, die der
+friesischen Volksgruppe oder der dänischen Minderheit angehört, keinen
+Geburtsnamen nach § 1617g oder § 1617h erhalten, so kann sie ihren
+Geburtsnamen entsprechend diesen Vorschriften einmalig neu bestimmen.
+
+(3) Hinsichtlich der nach den Absätzen 1 und 2 wählbaren Namen ist auf
+den Zeitpunkt der Geburt oder der Annahme als Kind abzustellen; §
+1617c Absatz 2 Nummer 2 und Absatz 3 gilt entsprechend.
+
+(4) Führt eine volljährige Person einen Doppelnamen, so kann sie außer
+in den Fällen des Absatzes 2 bestimmen, dass
+
+1.  ein vorhandener Bindestrich wegfällt oder
+
+
+2.  ein Bindestrich hinzugefügt wird, wenn der Doppelname ohne einen
+    Bindestrich gebildet wurde.
+
+
+
+Ehegatten, die einen Ehenamen führen, können diese Erklärung nur
+gemeinsam abgeben.
+
+(5) Die Erklärungen nach den Absätzen 1, 2 und 4 sind gegenüber dem
+Standesamt abzugeben und öffentlich zu beglaubigen.
+
+
+##### § 1618 Pflicht zu Beistand und Rücksicht
 
 Eltern und Kinder sind einander Beistand und Rücksicht schuldig.
 
@@ -31879,7 +32439,7 @@ Kommission unterschrieben sein.
 
 (6) Der Behandelnde gemäß § 630a hat, wenn eine Behandlung an den
 inneren oder äußeren Geschlechtsmerkmalen erfolgt ist, die
-Patientenakte bis zu dem Tag aufzubewahren, an dem die behandelte
+Behandlungsakte bis zu dem Tag aufzubewahren, an dem die behandelte
 Person ihr 48. Lebensjahr vollendet.
 
 
@@ -32415,7 +32975,8 @@ für die Dauer des Umgangs dessen Aufenthalt zu bestimmen. Die
 Anordnung ist zu befristen. Für den Ersatz von Aufwendungen und die
 Vergütung des Umgangspflegers gilt § 277 des Gesetzes über das
 Verfahren in Familiensachen und in den Angelegenheiten der
-freiwilligen Gerichtsbarkeit entsprechend.
+freiwilligen Gerichtsbarkeit, auch in Verbindung mit § 17 des
+Vormünder- und Betreuervergütungsgesetzes, entsprechend.
 
 (4) Das Familiengericht kann das Umgangsrecht oder den Vollzug
 früherer Entscheidungen über das Umgangsrecht einschränken oder
@@ -32627,7 +33188,7 @@ Rechenschaft abzulegen.
 
 (2) Über die Nutzungen des Kindesvermögens brauchen die Eltern nur
 insoweit Rechenschaft abzulegen, als Grund zu der Annahme besteht,
-dass sie die Nutzungen entgegen den Vorschriften des § 1649 verwendet
+dass sie die Nutzungen entgegen der Vorschrift des § 1649 verwendet
 haben.
 
 
@@ -33026,18 +33587,18 @@ verstorben ist.
 ###### § 1757 Name des Kindes
 
 (1) Das Kind erhält als Geburtsnamen den Familiennamen des
-Annehmenden. Als Familienname gilt nicht der dem Ehenamen oder dem
-Lebenspartnerschaftsnamen hinzugefügte Name (§ 1355 Abs. 4; § 3 Abs. 2
-des Lebenspartnerschaftsgesetzes).
+Annehmenden. § 1617a Absatz 2 und 4 gilt entsprechend, wobei die
+Erklärungen vor dem Ausspruch der Annahme gegenüber dem
+Familiengericht zu erfolgen haben.
 
 (2) Nimmt ein Ehepaar ein Kind an oder nimmt ein Ehegatte ein Kind des
 anderen Ehegatten an und führen die Ehegatten keinen Ehenamen, so
 bestimmen sie den Geburtsnamen des Kindes vor dem Ausspruch der
-Annahme durch Erklärung gegenüber dem Familiengericht; § 1617 Abs. 1
-gilt entsprechend. Hat das Kind das fünfte Lebensjahr vollendet, so
-ist die Bestimmung nur wirksam, wenn es sich der Bestimmung vor dem
-Ausspruch der Annahme durch Erklärung gegenüber dem Familiengericht
-anschließt; § 1617c Abs. 1 Satz 2 gilt entsprechend.
+Annahme durch Erklärung gegenüber dem Familiengericht; § 1617 Absatz 1
+bis 3 und 5 gilt entsprechend. Hat das Kind das fünfte Lebensjahr
+vollendet, so ist die Bestimmung nur wirksam, wenn es sich der
+Bestimmung vor dem Ausspruch der Annahme durch Erklärung gegenüber dem
+Familiengericht anschließt; § 1617c Abs. 1 Satz 2 gilt entsprechend.
 
 (3) Das Familiengericht kann auf Antrag des Annehmenden mit
 Einwilligung des Kindes mit dem Ausspruch der Annahme
@@ -33054,6 +33615,8 @@ Einwilligung des Kindes mit dem Ausspruch der Annahme
 
 § 1746 Abs. 1 Satz 2, 3, Abs. 3 erster Halbsatz ist entsprechend
 anzuwenden.
+
+(4) Die §§ 1617f bis 1617h gelten entsprechend.
 
 
 ###### § 1758 Offenbarungs- und Ausforschungsverbot
@@ -33174,7 +33737,7 @@ a)  in den Fällen des § 1760 Abs. 2 Buchstabe a mit dem Zeitpunkt, in dem
     Kindes die Erklärung bekannt wird;
 
 
-b)  in den Fällen des § 1760 Abs. 2 Buchstaben b, c mit dem Zeitpunkt, in
+b)  in den Fällen des § 1760 Abs. 2 Buchstabe b, c mit dem Zeitpunkt, in
     dem der Erklärende den Irrtum oder die Täuschung entdeckt;
 
 
@@ -33258,8 +33821,8 @@ Recht, den Familiennamen des Annehmenden als Geburtsnamen zu führen.
 Satz 1 ist in den Fällen des § 1754 Abs. 1 nicht anzuwenden, wenn das
 Kind einen Geburtsnamen nach § 1757 Abs. 1 führt und das
 Annahmeverhältnis zu einem Ehegatten allein aufgehoben wird. Ist der
-Geburtsname zum Ehenamen oder Lebenspartnerschaftsnamen des Kindes
-geworden, so bleibt dieser unberührt.
+Geburtsname zum Ehenamen des Kindes geworden, so bleibt dieser
+unberührt.
 
 (2) Auf Antrag des Kindes kann das Familiengericht mit der Aufhebung
 anordnen, dass das Kind den Familiennamen behält, den es durch die
@@ -33267,12 +33830,10 @@ Annahme erworben hat, wenn das Kind ein berechtigtes Interesse an der
 Führung dieses Namens hat. § 1746 Abs. 1 Satz 2, 3 ist entsprechend
 anzuwenden.
 
-(3) Ist der durch die Annahme erworbene Name zum Ehenamen oder
-Lebenspartnerschaftsnamen geworden, so hat das Familiengericht auf
-gemeinsamen Antrag der Ehegatten oder Lebenspartner mit der Aufhebung
-anzuordnen, dass die Ehegatten oder Lebenspartner als Ehenamen oder
-Lebenspartnerschaftsnamen den Geburtsnamen führen, den das Kind vor
-der Annahme geführt hat.
+(3) Ist der durch die Annahme erworbene Name zum Ehenamen geworden, so
+hat das Familiengericht auf gemeinsamen Antrag der Ehegatten mit der
+Aufhebung anzuordnen, dass die Ehegatten als Ehenamen den Geburtsnamen
+führen, den das Kind vor der Annahme geführt hat.
 
 
 ###### § 1766 Ehe zwischen Annehmendem und Kind
@@ -33322,14 +33883,31 @@ Verhältnis bereits entstanden ist.
 
 (2) Für die Annahme Volljähriger gelten die Vorschriften über die
 Annahme Minderjähriger sinngemäß, soweit sich aus den folgenden
-Vorschriften nichts anderes ergibt. Zur Annahme eines Verheirateten
-oder einer Person, die eine Lebenspartnerschaft führt, ist die
-Einwilligung seines Ehegatten oder ihres Lebenspartners erforderlich.
-Die Änderung des Geburtsnamens erstreckt sich auf den Ehe- oder
-Lebenspartnerschaftsnamen des Angenommenen nur dann, wenn sich auch
-der Ehegatte oder Lebenspartner der Namensänderung vor dem Ausspruch
-der Annahme durch Erklärung gegenüber dem Familiengericht anschließt;
-die Erklärung muss öffentlich beglaubigt werden.
+Vorschriften nichts anderes ergibt.
+
+(3) § 1757 ist mit der Maßgabe anzuwenden, dass
+
+1.  der Angenommene den Familiennamen des Annehmenden nach Absatz 1 nicht
+    erhält, wenn er der Namensänderung widerspricht,
+
+
+2.  zusätzlich die Möglichkeit besteht, einen aus dem bisherigen
+    Familiennamen des Angenommenen und dem Familiennamen des Annehmenden
+    gebildeten Doppelnamen zum Geburtsnamen zu bestimmen; § 1617 Absatz 1
+    Satz 2 und Absatz 2 Nummer 2 gilt entsprechend.
+
+
+
+§ 1757 Absatz 3 Satz 1 Nummer 2 ist nicht anzuwenden.
+
+(4) Zur Annahme eines Verheirateten als Kind ist die Einwilligung
+seines Ehegatten erforderlich. Die Änderung des Geburtsnamens
+erstreckt sich auf den Ehenamen des Angenommenen nur dann, wenn sich
+auch der Ehegatte der Namensänderung anschließt.
+
+(5) Die Erklärungen nach den Absätzen 3 und 4 müssen öffentlich
+beglaubigt und vor dem Ausspruch der Annahme gegenüber dem
+Familiengericht abgegeben werden.
 
 
 ###### § 1768 Antrag
@@ -33371,9 +33949,9 @@ Unterhalts verpflichtet.
 Das Familiengericht kann das Annahmeverhältnis, das zu einem
 Volljährigen begründet worden ist, auf Antrag des Annehmenden und des
 Angenommenen aufheben, wenn ein wichtiger Grund vorliegt. Im Übrigen
-kann das Annahmeverhältnis nur in sinngemäßer Anwendung der
-Vorschriften des § 1760 Abs. 1 bis 5 aufgehoben werden. An die Stelle
-der Einwilligung des Kindes tritt der Antrag des Anzunehmenden.
+kann das Annahmeverhältnis nur in sinngemäßer Anwendung der Vorschrift
+des § 1760 Abs. 1 bis 5 aufgehoben werden. An die Stelle der
+Einwilligung des Kindes tritt der Antrag des Anzunehmenden.
 
 
 ###### § 1772 Annahme mit den Wirkungen der Minderjährigenannahme
@@ -33405,7 +33983,7 @@ Eine solche Bestimmung darf nicht getroffen werden, wenn ihr
 überwiegende Interessen der Eltern des Anzunehmenden entgegenstehen.
 
 (2) Das Annahmeverhältnis kann in den Fällen des Absatzes 1 nur in
-sinngemäßer Anwendung der Vorschriften des § 1760 Abs. 1 bis 5
+sinngemäßer Anwendung der Vorschrift des § 1760 Abs. 1 bis 5
 aufgehoben werden. An die Stelle der Einwilligung des Kindes tritt der
 Antrag des Anzunehmenden.
 
@@ -34225,7 +34803,7 @@ gemäß § 1773 nicht mehr gegeben sind.
 ###### § 1807 Vermögensherausgabe, Schlussrechnungslegung und Fortführung der Geschäfte
 
 Bei Beendigung der Vormundschaft finden die §§ 1872 bis 1874 mit der
-Maßgabe entsprechende Anwendung, dass § 1872 Absatz 5 für Vormünder
+Maßgabe entsprechende Anwendung, dass § 1872 Absatz 4 für Vormünder
 gilt, die bei Beendigung ihres Amtes gemäß § 1801 Absatz 1 und 3
 befreit waren.
 
@@ -35878,13 +36456,13 @@ Sachverhalten zu enthalten:
 
 
 
-(4) Nach Beendigung der Betreuung hat der Betreuer einen
+(4) Bei einem Wechsel des Betreuers hat der bisherige Betreuer einen
 abschließenden Bericht (Schlussbericht) zu erstellen, in dem die seit
 dem letzten Jahresbericht eingetretenen Änderungen der persönlichen
-Verhältnisse mitzuteilen sind. Der Schlussbericht ist dem
-Betreuungsgericht zu übersenden. Er hat Angaben zur Herausgabe des der
-Verwaltung des Betreuers unterliegenden Vermögens des Betreuten und
-aller im Rahmen der Betreuung erlangten Unterlagen zu enthalten.
+Verhältnisse mitzuteilen sind. Der Schlussbericht hat Angaben zu den
+Sachverhalten nach Absatz 3 Satz 3 Nummer 1, 2 und 5 sowie über die
+Erfüllung der Herausgabepflicht nach § 1872 Absatz 3 Satz 1 zu
+enthalten. Der Schlussbericht ist dem Betreuungsgericht zu übersenden.
 
 
 ###### § 1864 Auskunfts- und Mitteilungspflichten des Betreuers
@@ -36046,63 +36624,48 @@ gelten hierfür entsprechend.
 entsprechend.
 
 
-###### § 1872 Herausgabe von Vermögen und Unterlagen; Schlussrechnungslegung
+###### § 1872 Herausgabe von Vermögen und Unterlagen; Schlussrechnungslegung; Vermögensübersicht
 
 (1) Endet die Betreuung, hat der Betreuer das seiner Verwaltung
 unterliegende Vermögen und alle im Rahmen der Betreuung erlangten
 Unterlagen an den Betreuten, dessen Erben oder sonstigen Berechtigten
-herauszugeben.
+herauszugeben und auf deren Verlangen über die Verwaltung Rechenschaft
+abzulegen.
 
-(2) Eine Schlussrechnung über die Vermögensverwaltung hat der Betreuer
-nur zu erstellen, wenn der Berechtigte nach Absatz 1 dies verlangt.
-Auf dieses Recht ist der Berechtigte durch den Betreuer vor Herausgabe
-der Unterlagen hinzuweisen. Die Frist zur Geltendmachung des Anspruchs
-beträgt sechs Wochen nach Zugang des Hinweises. Der Berechtigte hat
-dem Betreuungsgericht sein Verlangen gegenüber dem Betreuer
-mitzuteilen.
+(2) Der Betreuer hat nach Beendigung der Betreuung eine
+Vermögensübersicht mit der Versicherung der Richtigkeit und
+Vollständigkeit beim Betreuungsgericht einzureichen. Die
+Vermögensübersicht soll auch Angaben zu den regelmäßigen Einnahmen und
+Ausgaben des Betreuten enthalten.
 
-(3) Ist der Betreute sechs Monate nach Ende der Betreuung unbekannten
-Aufenthalts oder sind dessen Erben nach Ablauf dieser Frist unbekannt
-oder unbekannten Aufenthalts und ist auch kein sonstiger Berechtigter
-vorhanden, hat der Betreuer abweichend von Absatz 2 eine
-Schlussrechnung zu erstellen.
-
-(4) Bei einem Wechsel des Betreuers hat der bisherige Betreuer das
+(3) Bei einem Wechsel des Betreuers hat der bisherige Betreuer das
 seiner Verwaltung unterliegende Vermögen und alle im Rahmen der
 Betreuung erlangten Unterlagen an den neuen Betreuer herauszugeben.
 Über die Verwaltung seit der letzten beim Betreuungsgericht
 eingereichten Rechnungslegung hat er Rechenschaft durch eine
-Schlussrechnung abzulegen.
+Schlussrechnung abzulegen. Die Schlussrechnung ist beim
+Betreuungsgericht einzureichen.
 
-(5) War der Betreuer bei Beendigung seines Amtes gemäß § 1859 befreit,
-genügt zur Erfüllung der Verpflichtungen aus den Absätzen 2 und 4 Satz
-2 die Erstellung einer Vermögensübersicht mit einer Übersicht über die
-Einnahmen und Ausgaben seit der letzten Vermögensübersicht. Die
-Richtigkeit und Vollständigkeit der Vermögensübersicht ist an Eides
-statt zu versichern.
+(4) War der Betreuer bei Beendigung seines Amtes gemäß § 1859 befreit,
+genügt zur Erfüllung der Verpflichtung aus Absatz 3 Satz 2 die
+Erstellung einer Vermögensübersicht nach Absatz 2.
 
 
-###### § 1873 Rechnungsprüfung
+###### § 1873 Schlussmitteilung; Rechnungsprüfung
 
-(1) Der Betreuer hat eine nach § 1872 von ihm zu erstellende
-Schlussrechnung oder Vermögensübersicht beim Betreuungsgericht
-einzureichen. Das Betreuungsgericht übersendet diese an den
-Berechtigten, soweit dieser bekannt ist oder rechtlich vertreten wird
-und kein Fall des § 1872 Absatz 3 vorliegt.
+(1) Nach Beendigung der Betreuung hat der Betreuer dem
+Betreuungsgericht eine Schlussmitteilung mit Angaben zur Herausgabe
+des der Verwaltung des Betreuers unterliegenden Vermögens des
+Betreuten und aller im Rahmen der Betreuung erlangten Unterlagen zu
+übersenden. Sollte der Betreuer nach Beendigung der Betreuung gemäß §
+1874 tätig geworden sein, hat die Mitteilung auch Angaben zu den nach
+Beendigung der Betreuung besorgten Angelegenheiten zu enthalten.
 
-(2) Das Betreuungsgericht hat die Schlussrechnung oder die
-Vermögensübersicht sachlich und rechnerisch zu prüfen und, soweit
-erforderlich, ihre Ergänzung herbeizuführen. Das Betreuungsgericht
-übersendet das Ergebnis seiner Prüfung nach Satz 1 an den
-Berechtigten.
-
-(3) Endet die Betreuung und liegt kein Fall des § 1872 Absatz 3 vor,
-so gilt Absatz 2 nur dann, wenn der Berechtigte binnen sechs Wochen
-nach Zugang der Schlussrechnung oder der Vermögensübersicht deren
-Prüfung verlangt. Über dieses Recht ist der Berechtigte bei der
-Übersendung nach Absatz 1 Satz 2 zu belehren. Nach Ablauf der Frist
-kann eine Prüfung durch das Betreuungsgericht nicht mehr verlangt
-werden.
+(2) Liegt ein Fall des § 1872 Absatz 3 vor, hat das Betreuungsgericht
+die Schlussrechnung oder die Vermögensübersicht sachlich und
+rechnerisch zu prüfen und, soweit erforderlich, ihre Ergänzung
+herbeizuführen. Das Betreuungsgericht übersendet das Ergebnis seiner
+Prüfung nach Satz 1 an den neuen Betreuer.
 
 
 ###### § 1874 Besorgung der Angelegenheiten des Betreuten nach Beendigung der Betreuung
@@ -36195,7 +36758,7 @@ zu beziffern.
 (1) Zur Abgeltung seines Anspruchs auf Aufwendungsersatz kann der
 Betreuer für die Führung jeder Betreuung, für die er keine Vergütung
 erhält, vom Betreuten einen pauschalen Geldbetrag verlangen
-(Aufwandspauschale). Dieser entspricht für ein Jahr dem 17fachen
+(Aufwandspauschale). Dieser entspricht für ein Jahr dem 18fachen
 dessen, was einem Zeugen als Höchstbetrag der Entschädigung für eine
 Stunde versäumter Arbeitszeit (§ 22 des Justizvergütungs- und
 -entschädigungsgesetzes) gewährt werden kann. Hat der Betreuer für
@@ -36204,9 +36767,9 @@ verringert sich die Aufwandspauschale entsprechend.
 
 (2) Sind mehrere Betreuer bestellt, kann jeder Betreuer den Anspruch
 auf Aufwandspauschale geltend machen. In den Fällen der Bestellung
-eines Verhinderungsbetreuers nach § 1817 Absatz 4 kann jeder Betreuer
-den Anspruch auf Aufwandspauschale nur für den Zeitraum geltend
-machen, in dem er tatsächlich tätig geworden ist.
+eines Verhinderungsbetreuers nach § 1817 Absatz 4 kann dieser den
+Anspruch auf Aufwandspauschale nur für den Zeitraum geltend machen, in
+dem er tatsächlich tätig geworden ist.
 
 (3) Die Aufwandspauschale ist jährlich zu zahlen, erstmals ein Jahr
 nach Bestellung des Betreuers. Endet das Amt des Betreuers, ist die
@@ -36600,8 +37163,8 @@ angenommen.
 (1) Die Ausschlagung kann nur binnen sechs Wochen erfolgen.
 
 (2) Die Frist beginnt mit dem Zeitpunkt, in welchem der Erbe von dem
-Anfall und dem Grund der Berufung Kenntnis erlangt. Ist der Erbe durch
-Verfügung von Todes wegen berufen, beginnt die Frist nicht vor
+Anfall und dem Grunde der Berufung Kenntnis erlangt. Ist der Erbe
+durch Verfügung von Todes wegen berufen, beginnt die Frist nicht vor
 Bekanntgabe der Verfügung von Todes wegen durch das Nachlassgericht.
 Auf den Lauf der Frist finden die für die Verjährung geltenden
 Vorschriften der §§ 206, 210 entsprechende Anwendung.
@@ -36622,7 +37185,9 @@ des Beurkundungsgesetzes errichtet.
 
 (3) Ein Bevollmächtigter bedarf einer öffentlich beglaubigten
 Vollmacht. Die Vollmacht muss der Erklärung beigefügt oder innerhalb
-der Ausschlagungsfrist nachgebracht werden.
+der Ausschlagungsfrist nachgebracht werden. Der Nachweis der Vollmacht
+kann auch durch beigefügte oder nachgebrachte notarielle Bescheinigung
+erfolgen.
 
 
 ##### § 1946 Zeitpunkt für Annahme oder Ausschlagung
@@ -37137,7 +37702,7 @@ entsprechenden Masse nicht tunlich oder wird aus diesem Grunde die
 Nachlassverwaltung aufgehoben oder das Insolvenzverfahren eingestellt,
 so kann der Erbe die Befriedigung eines Nachlassgläubigers insoweit
 verweigern, als der Nachlass nicht ausreicht. Der Erbe ist in diesem
-Fall verpflichtet, den Nachlass zum Zwecke der Befriedigung des
+Falle verpflichtet, den Nachlass zum Zwecke der Befriedigung des
 Gläubigers im Wege der Zwangsvollstreckung herauszugeben.
 
 (2) Das Recht des Erben wird nicht dadurch ausgeschlossen, dass der
@@ -37952,7 +38517,7 @@ der Billigkeit entspricht.
 
 (4) Bei der Auseinandersetzung wird der Ausgleichungsbetrag dem
 Erbteil des ausgleichungsberechtigten Miterben hinzugerechnet.
-Sämtliche Ausgleichungsbeträge werden vom Wert des Nachlasses
+Sämtliche Ausgleichungsbeträge werden vom Werte des Nachlasses
 abgezogen, soweit dieser den Miterben zukommt, unter denen die
 Ausgleichung stattfindet.
 
@@ -38599,8 +39164,7 @@ nur verlangen, dass das Kapital an ihn nach Beibringung der
 Einwilligung des Nacherben gezahlt oder dass es für ihn und den
 Nacherben hinterlegt wird. Auf andere Verfügungen über die
 Hypothekenforderung, die Grundschuld, die Rentenschuld oder die
-Schiffshypothekenforderung finden die Vorschriften des § 2113
-Anwendung.
+Schiffshypothekenforderung findet die Vorschrift des § 2113 Anwendung.
 
 
 ##### § 2115 Zwangsvollstreckungsverfügungen gegen Vorerben
@@ -38753,7 +39317,7 @@ des Nacherben begründet, so kann der Nacherbe Sicherheitsleistung
 verlangen.
 
 (2) Die für die Verpflichtung des Nießbrauchers zur
-Sicherheitsleistung geltenden Vorschriften des § 1052 finden
+Sicherheitsleistung geltende Vorschrift des § 1052 findet
 entsprechende Anwendung.
 
 
@@ -39949,7 +40513,7 @@ Testament nur durch eine Erklärung gegenüber dem Notar errichten.
 geschriebene und unterschriebene Erklärung errichten.
 
 (2) Der Erblasser soll in der Erklärung angeben, zu welcher Zeit (Tag,
-Monat und Jahr) und an welchem Ort er sie niedergeschrieben hat.
+Monat und Jahr) und an welchem Orte er sie niedergeschrieben hat.
 
 (3) Die Unterschrift soll den Vornamen und den Familiennamen des
 Erblassers enthalten. Unterschreibt der Erblasser in anderer Weise und
@@ -39985,14 +40549,15 @@ werden, wer in dem zu beurkundenden Testament bedacht oder zum
 Testamentsvollstrecker ernannt wird; die Vorschriften der §§ 7 und 27
 des Beurkundungsgesetzes gelten entsprechend. Für die Errichtung
 gelten die Vorschriften der §§ 2232, 2233 sowie die Vorschriften der
-§§ 2, 4, 5 Abs. 1, §§ 6 bis 10, 11 Abs. 1 Satz 2, Abs. 2, § 13 Abs. 1,
-3, §§ 16, 17, 23, 24, 26 Abs. 1 Nr. 3, 4, Abs. 2, §§ 27, 28, 30, 32,
-34, 35 des Beurkundungsgesetzes; der Bürgermeister tritt an die Stelle
-des Notars. Die Niederschrift muss auch von den Zeugen unterschrieben
-werden. Vermag der Erblasser nach seinen Angaben oder nach der
-Überzeugung des Bürgermeisters seinen Namen nicht zu schreiben, so
-wird die Unterschrift des Erblassers durch die Feststellung dieser
-Angabe oder Überzeugung in der Niederschrift ersetzt.
+§§ 2, 4, 5 Abs. 1, der §§ 6 bis 8 Absatz 1, der §§ 9, 10, 11 Abs. 1
+Satz 2, Abs. 2, § 13 Abs. 1, 3, §§ 16, 17, 23, 24, 26 Abs. 1 Nr. 3, 4,
+Abs. 2, §§ 27, 28, 30, 32, 34, 35 des Beurkundungsgesetzes; der
+Bürgermeister tritt an die Stelle des Notars. Die Niederschrift muss
+auch von den Zeugen unterschrieben werden. Vermag der Erblasser nach
+seinen Angaben oder nach der Überzeugung des Bürgermeisters seinen
+Namen nicht zu schreiben, so wird die Unterschrift des Erblassers
+durch die Feststellung dieser Angabe oder Überzeugung in der
+Niederschrift ersetzt.
 
 (2) Die Besorgnis, dass die Errichtung eines Testaments vor einem
 Notar nicht mehr möglich sein werde, soll in der Niederschrift
@@ -40021,7 +40586,7 @@ nicht entgegen.
 
 ##### § 2250 Nottestament vor drei Zeugen
 
-(1) Wer sich an einem Ort aufhält, der infolge außerordentlicher
+(1) Wer sich an einem Orte aufhält, der infolge außerordentlicher
 Umstände dergestalt abgesperrt ist, dass die Errichtung eines
 Testaments vor einem Notar nicht möglich oder erheblich erschwert ist,
 kann das Testament in der durch § 2249 bestimmten Form oder durch
@@ -40036,14 +40601,15 @@ errichten.
 errichtet, so muss hierüber eine Niederschrift aufgenommen werden. Auf
 die Zeugen sind die Vorschriften des § 6 Abs. 1 Nr. 1 bis 3, der §§ 7,
 26 Abs. 2 Nr. 2 bis 5 und des § 27 des Beurkundungsgesetzes; auf die
-Niederschrift sind die Vorschriften der §§ 8 bis 10, 11 Abs. 1 Satz 2,
-Abs. 2, § 13 Abs. 1, 3 Satz 1, §§ 23, 28 des Beurkundungsgesetzes
-sowie die Vorschriften des § 2249 Abs. 1 Satz 5, 6, Abs. 2, 6
-entsprechend anzuwenden. Die Niederschrift kann außer in der deutschen
-auch in einer anderen Sprache aufgenommen werden. Der Erblasser und
-die Zeugen müssen der Sprache der Niederschrift hinreichend kundig
-sein; dies soll in der Niederschrift festgestellt werden, wenn sie in
-einer anderen als der deutschen Sprache aufgenommen wird.
+Niederschrift sind die Vorschriften des § 8 Absatz 1, der §§ 9, 10, 11
+Abs. 1 Satz 2, Abs. 2, § 13 Abs. 1, 3 Satz 1, §§ 23, 28 des
+Beurkundungsgesetzes sowie die Vorschriften des § 2249 Abs. 1 Satz 5,
+6, Abs. 2, 6 entsprechend anzuwenden. Die Niederschrift kann außer in
+der deutschen auch in einer anderen Sprache aufgenommen werden. Der
+Erblasser und die Zeugen müssen der Sprache der Niederschrift
+hinreichend kundig sein; dies soll in der Niederschrift festgestellt
+werden, wenn sie in einer anderen als der deutschen Sprache
+aufgenommen wird.
 
 
 ##### § 2251 Nottestament auf See
@@ -40166,7 +40732,7 @@ veranlassen.
 ##### § 2263 Nichtigkeit eines Eröffnungsverbots
 
 Eine Anordnung des Erblassers, durch die er verbietet, das Testament
-alsbald nach seinem Tod zu eröffnen, ist nichtig.
+alsbald nach seinem Tode zu eröffnen, ist nichtig.
 
 
 ##### § 2264 (weggefallen)
@@ -40198,7 +40764,7 @@ es, wenn einer der Ehegatten das Testament in der dort
 vorgeschriebenen Form errichtet und der andere Ehegatte die
 gemeinschaftliche Erklärung eigenhändig mitunterzeichnet. Der
 mitunterzeichnende Ehegatte soll hierbei angeben, zu welcher Zeit
-(Tag, Monat und Jahr) und an welchem Ort er seine Unterschrift
+(Tag, Monat und Jahr) und an welchem Orte er seine Unterschrift
 beigefügt hat.
 
 
@@ -40252,7 +40818,7 @@ keine Anwendung.
 
 (1) Der Widerruf einer Verfügung, die mit einer Verfügung des anderen
 Ehegatten in dem in § 2270 bezeichneten Verhältnis steht, erfolgt bei
-Lebzeiten der Ehegatten nach den für den Rücktritt von einem
+Lebzeiten der Ehegatten nach der für den Rücktritt von einem
 Erbvertrag geltenden Vorschrift des § 2296. Durch eine neue Verfügung
 von Todes wegen kann ein Ehegatte bei Lebzeiten des anderen seine
 Verfügung nicht einseitig aufheben.
@@ -40298,7 +40864,7 @@ geschäftsfähig ist.
 
 (1) Ein Erbvertrag kann nur zur Niederschrift eines Notars bei
 gleichzeitiger Anwesenheit beider Teile geschlossen werden. Die
-Vorschriften der § 2231 Nr. 1 und der §§ 2232, 2233 sind anzuwenden;
+Vorschriften des § 2231 Nr. 1 und der §§ 2232, 2233 sind anzuwenden;
 was nach diesen Vorschriften für den Erblasser gilt, gilt für jeden
 der Vertragschließenden.
 
@@ -41059,8 +41625,8 @@ Abkömmlings die Verwaltung einem Testamentsvollstrecker übertragen;
 der Abkömmling hat in einem solchen Falle Anspruch auf den jährlichen
 Reinertrag.
 
-(2) Auf Anordnungen dieser Art finden die Vorschriften des § 2336 Abs.
-1 bis 3 entsprechende Anwendung. Die Anordnungen sind unwirksam, wenn
+(2) Auf Anordnungen dieser Art findet die Vorschrift des § 2336 Abs. 1
+bis 3 entsprechende Anwendung. Die Anordnungen sind unwirksam, wenn
 zur Zeit des Erbfalls der Abkömmling sich dauernd von dem
 verschwenderischen Leben abgewendet hat oder die den Grund der
 Anordnung bildende Überschuldung nicht mehr besteht.
@@ -41330,7 +41896,7 @@ weiß, dass sie aufgehoben worden sind.
 
 (2) Ist ein Erbschein erteilt worden, so stehen demjenigen, der für
 tot erklärt oder dessen Todeszeit nach den Vorschriften des
-Verschollenheitsgesetzes festgestellt ist, wenn er noch lebt, die im §
+Verschollenheitsgesetzes festgestellt ist, wenn er noch lebt, die in §
 2362 bestimmten Rechte zu. Die gleichen Rechte hat eine Person, deren
 Tod ohne Todeserklärung oder Feststellung der Todeszeit mit Unrecht
 angenommen worden ist.

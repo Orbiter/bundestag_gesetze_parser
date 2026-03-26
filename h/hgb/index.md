@@ -16,10 +16,10 @@ Fundstelle
 :   RGBl: 1897, 219
 
 Zuletzt geändert durch
-:   Art. 29 G v. 27.3.2024 I Nr. 108
+:   Art. 4 G v. 4.2.2026 I Nr. 33
 
-Änderung durch
-:   Art. 2 G v. 11.4.2024 I Nr. 120 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Mittelbare änderung durch
+:   Art. 59 Nr. 1 G v. 4.2.2026 I Nr. 33 ist berücksichtigt
 
 
 ## Erstes Buch - Handelsstand
@@ -1783,11 +1783,11 @@ Höhe seines Erwerbes Auskunft zu erteilen.
 
 #### § 75
 
-(1) Löst der Gehilfe das Dienstverhältnis gemäß den Vorschriften der
-§§ 70 und 71              wegen vertragswidrigen Verhaltens des
-Prinzipals auf, so wird das Wettbewerbverbot unwirksam, wenn der
-Gehilfe vor Ablauf eines Monats nach der Kündigung schriftlich
-erklärt, daß er sich an die Vereinbarung nicht gebunden erachte.
+(1) Löst der Gehilfe das Dienstverhältnis gemäß § 626 des Bürgerlichen
+Gesetzbuchs wegen vertragswidrigen Verhaltens des Prinzipals auf, so
+wird das Wettbewerbverbot unwirksam, wenn der Gehilfe vor Ablauf eines
+Monats nach der Kündigung schriftlich erklärt, daß er sich an die
+Vereinbarung nicht gebunden erachte.
 
 (2) In gleicher Weise wird das Wettbewerbverbot unwirksam, wenn der
 Prinzipal das Dienstverhältnis kündigt, es sei denn, daß für die
@@ -1797,10 +1797,9 @@ der Dauer der Beschränkung dem Gehilfen die vollen zuletzt von ihm
 bezogenen vertragsmäßigen Leistungen zu gewähren. Im letzteren Falle
 finden die Vorschriften des § 74b entsprechende Anwendung.
 
-(3) Löst der Prinzipal das Dienstverhältnis gemäß den Vorschriften der
-§§ 70 und 72              wegen vertragswidrigen Verhaltens des
-Gehilfen auf, so hat der Gehilfe keinen Anspruch auf die
-Entschädigung.
+(3) Löst der Prinzipal das Dienstverhältnis gemäß § 626 des
+Bürgerlichen Gesetzbuchs wegen vertragswidrigen Verhaltens des
+Gehilfen auf, so gilt Absatz 1 entsprechend.
 
 
 #### § 75a
@@ -4517,8 +4516,26 @@ hergestellt worden, können statt des Datenträgers die Daten auch
 ausgedruckt aufbewahrt werden; die ausgedruckten Unterlagen können
 auch nach Satz 1 aufbewahrt werden.
 
-(4) Die in Absatz 1 Nr. 1 und 4 aufgeführten Unterlagen sind zehn
-Jahre, die sonstigen in Absatz 1 aufgeführten Unterlagen sechs Jahre
+(4) Die in Absatz 1 Nummer 1 aufgeführten Unterlagen sind zehn Jahre,
+die in Absatz 1 Nummer 4 aufgeführten Unterlagen acht Jahre und die
+sonstigen in Absatz 1 aufgeführten Unterlagen sechs Jahre
+aufzubewahren. Abweichend von Satz 1 sind bei Personen oder
+Gesellschaften, die
+
+1.  Institute im Sinne des § 1 Absatz 1b des Kreditwesengesetzes sind,
+    einschließlich Zweigstellen nach § 53 des Kreditwesengesetzes,
+
+
+2.  der Aufsicht nach § 1 Absatz 1 des Versicherungsaufsichtsgesetzes
+    unterliegen oder
+
+
+3.  Wertpapierinstitute im Sinne des § 2 Absatz 1 des
+    Wertpapierinstitutsgesetzes sind,
+
+
+
+die in Absatz 1 Nummer 4 aufgeführten Unterlagen zehn Jahre
 aufzubewahren.
 
 (5) Die Aufbewahrungsfrist beginnt mit dem Schluß des Kalenderjahrs,
@@ -10168,7 +10185,8 @@ Gesetzes über Ordnungswidrigkeiten ist
 
 1.  die Bundesanstalt für Finanzdienstleistungsaufsicht in den Fällen des
     Absatzes 1 bei Kapitalgesellschaften, die kapitalmarktorientiert im
-    Sinne des § 264d sind,
+    Sinne des § 264d oder Institute nach § 37 Absatz 1 Satz 1 des
+    Kryptomärkteaufsichtsgesetzes sind,
 
 
 2.  das Bundesamt für Justiz
@@ -10594,15 +10612,15 @@ und 8 gelten entsprechend.
 Kommunikation mit dem Gericht nach den Absätzen 1 bis 3 sind die
 folgenden Vorschriften entsprechend anzuwenden:
 
-1.  § 110a Absatz 1 Satz 1 und § 110c des Gesetzes über
-    Ordnungswidrigkeiten sowie
+1.  § 110a Absatz 1 und § 110c des Gesetzes über Ordnungswidrigkeiten
+    sowie
 
 
-2.  § 110a Absatz 1 Satz 2 und 3, Absatz 2 Satz 1 und § 134 Satz 1 des
-    Gesetzes über Ordnungswidrigkeiten mit der Maßgabe, dass die
-    Landesregierung des Landes, in dem das Bundesamt seinen Sitz hat, die
-    Rechtsverordnung erlässt und die Ermächtigungen durch Rechtsverordnung
-    auf die Landesjustizverwaltung übertragen kann.
+2.  § 110a Absatz 2 Satz 1 und § 134 Satz 1 des Gesetzes über
+    Ordnungswidrigkeiten mit der Maßgabe, dass die Landesregierung des
+    Landes, in dem das Bundesamt seinen Sitz hat, die Rechtsverordnung
+    erlässt und die Ermächtigungen durch Rechtsverordnung auf die
+    Landesjustizverwaltung übertragen kann.
 
 
 
@@ -14424,8 +14442,7 @@ Dasselbe gilt von Verpflichtungsscheinen, die von einem Kaufmann über
 Gegenstände der bezeichneten Art an Order ausgestellt sind, ohne daß
 darin die Leistung von einer Gegenleistung abhängig gemacht ist.
 
-(2) Ferner können
-Konossemente              der Verfrachter, Ladescheine der
+(2) Ferner können Konnossemente der Verfrachter, Ladescheine der
 Frachtführer, Lagerscheine sowie Transportversicherungspolicen durch
 Indossament übertragen werden, wenn sie an Order lauten.
 
@@ -14646,12 +14663,13 @@ untunlich ist.
 (4) Der Verkäufer und der Käufer können bei der öffentlichen
 Versteigerung mitbieten.
 
-(5) Im Falle der öffentlichen Versteigerung hat der Verkäufer den
-Käufer von der Zeit und dem Orte der Versteigerung vorher zu
-benachrichtigen; von dem vollzogenen Verkaufe hat er bei jeder Art des
-Verkaufs dem Käufer unverzüglich Nachricht zu geben. Im Falle der
-Unterlassung ist er zum Schadensersatze verpflichtet. Die
-Benachrichtigungen dürfen unterbleiben, wenn sie untunlich sind.
+(5) Im Falle der öffentlichen Versteigerung hat der Verkäufer dem
+Käufer die in § 383 Absatz 3 Nummer 1 bis 3 des Bürgerlichen
+Gesetzbuchs bezeichneten Informationen vorher mitzuteilen; von dem
+vollzogenen Verkaufe hat er bei jeder Art des Verkaufs dem Käufer
+unverzüglich Nachricht zu geben. Im Falle der Unterlassung ist er zum
+Schadensersatze verpflichtet. Die Benachrichtigungen dürfen
+unterbleiben, wenn sie untunlich sind.
 
 
 #### § 374
@@ -15872,7 +15890,7 @@ Schaden, der durch Verlust oder Beschädigung des Gutes oder durch
 Beförderung entsteht, so, als wäre er der Frachtführer. Vertragliche
 Vereinbarungen mit dem Absender oder Empfänger, durch die der
 Frachtführer seine Haftung erweitert, wirken gegen den ausführenden
-Frachtführer nur, soweit er ihnen schriftlich zugestimmt hat.
+Frachtführer nur, soweit er ihnen in Textform zugestimmt hat.
 
 (2) Der ausführende Frachtführer kann alle Einwendungen und Einreden
 geltend machen, die dem Frachtführer aus dem Frachtvertrag zustehen.
@@ -16695,15 +16713,14 @@ zu lagern und aufzubewahren.
 (2) Der Einlagerer wird verpflichtet, die vereinbarte Vergütung zu
 zahlen.
 
-(3) Die
-Vorschriften              dieses Abschnitts gelten nur, wenn die
-Lagerung und Aufbewahrung zum Betrieb eines gewerblichen Unternehmens
-gehören. Erfordert das Unternehmen nach Art oder Umfang einen in
-kaufmännischer Weise eingerichteten Geschäftsbetrieb nicht und ist die
-Firma des Unternehmens auch nicht nach § 2 in das Handelsregister
-eingetragen, so sind in Ansehung des Lagergeschäfts auch insoweit die
-Vorschriften des Ersten Abschnitts des Vierten Buches ergänzend
-anzuwenden; dies gilt jedoch nicht für die §§ 348 bis 350.
+(3) Die Vorschriften dieses Abschnitts gelten nur, wenn die Lagerung
+und Aufbewahrung zum Betrieb eines gewerblichen Unternehmens gehören.
+Erfordert das Unternehmen nach Art oder Umfang einen in kaufmännischer
+Weise eingerichteten Geschäftsbetrieb nicht und ist die Firma des
+Unternehmens auch nicht nach § 2 in das Handelsregister eingetragen,
+so sind in Ansehung des Lagergeschäfts auch insoweit die Vorschriften
+des Ersten Abschnitts des Vierten Buches ergänzend anzuwenden; dies
+gilt jedoch nicht für die §§ 348 bis 350.
 
 
 #### § 468 Behandlung des Gutes. Begleitpapiere. Mitteilungs- und Auskunftspflichten
@@ -16743,8 +16760,9 @@ werden durch
 2.  Unterlassen der Mitteilung über die Gefährlichkeit des Gutes oder
 
 
-3.  Fehlen, Unvollständigkeit oder Unrichtigkeit der in § 413 Abs. 1
-    genannten Urkunden oder Auskünfte.
+3.  Fehlen, Unvollständigkeit oder Unrichtigkeit der Urkunden oder
+    Auskünfte, die für eine amtliche Behandlung des Gutes erforderlich
+    sind.
 
 
 
@@ -17198,7 +17216,7 @@ befinden (Ladungstüchtigkeit).
 (1) Der Befrachter hat die Übergabe des Gutes an den Verfrachter zur
 Beförderung (Abladung) innerhalb der vertraglich vereinbarten Zeit zu
 bewirken. Der Verfrachter hat demjenigen, der das Gut ablädt, auf
-dessen Verlangen ein schriftliches Empfangsbekenntnis zu erteilen. Das
+dessen Verlangen ein Empfangsbekenntnis in Textform zu erteilen. Das
 Empfangsbekenntnis kann auch in einem Konnossement oder Seefrachtbrief
 erteilt werden.
 
@@ -17837,7 +17855,7 @@ entsteht, so, als wäre er der Verfrachter.
 
 (2) Vertragliche Vereinbarungen mit dem Befrachter oder Empfänger,
 durch die der Verfrachter seine Haftung erweitert, wirken gegen den
-ausführenden Verfrachter nur, soweit er ihnen schriftlich zugestimmt
+ausführenden Verfrachter nur, soweit er ihnen in Textform zugestimmt
 hat.
 
 (3) Der ausführende Verfrachter kann alle Einwendungen und Einreden
@@ -18749,7 +18767,7 @@ verspätete Aushändigung von Gepäck eines Fahrgasts während der vom
 ausführenden Beförderer durchgeführten Beförderung entsteht, so, als
 wäre er der Beförderer. Vertragliche Vereinbarungen, durch die der
 Beförderer seine Haftung erweitert, wirken gegen den ausführenden
-Beförderer nur, soweit er ihnen schriftlich zugestimmt hat.
+Beförderer nur, soweit er ihnen in Textform zugestimmt hat.
 
 (2) Der ausführende Beförderer kann alle Einwendungen und Einreden
 geltend machen, die dem Beförderer aus dem Personenbeförderungsvertrag
@@ -19952,9 +19970,8 @@ Dritten gegenüber unwirksam.
 Personen-, Gepäck- oder Verspätungsschäden kann nur durch Erklärung
 des Beförderers oder durch Vereinbarung der Parteien nach der
 Entstehung des Anspruchsgrunds verlängert werden. Erklärung und
-Vereinbarung bedürfen der Schriftform. Eine Erleichterung der
-Verjährung, insbesondere eine Verkürzung der Verjährungsfrist, ist
-unzulässig.
+Vereinbarung bedürfen der Textform. Eine Erleichterung der Verjährung,
+insbesondere eine Verkürzung der Verjährungsfrist, ist unzulässig.
 
 
 #### § 610 Konkurrierende Ansprüche

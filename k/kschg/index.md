@@ -548,7 +548,7 @@ Sitz und die Art des Betriebes enthalten, ferner die Gründe für die
 geplanten Entlassungen, die Zahl und die Berufsgruppen der zu
 entlassenden und der in der Regel beschäftigten Arbeitnehmer, den
 Zeitraum, in dem die Entlassungen vorgenommen werden sollen und die
-vorgesehenen Kriteren für die Auswahl der zu entlassenden
+vorgesehenen Kriterien für die Auswahl der zu entlassenden
 Arbeitnehmer. In der Anzeige sollen ferner im Einvernehmen mit dem
 Betriebsrat für die Arbeitsvermittlung Angaben über Geschlecht, Alter,
 Beruf und Staatsangehörigkeit der zu entlassenden Arbeitnehmer gemacht

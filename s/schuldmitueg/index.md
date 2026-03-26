@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1999, 1384
 
+Geändert durch
+:   Art. 45 G v. 23.10.2024 I Nr. 323
+
 
 
 ## § 1
@@ -42,14 +45,7 @@ Kreditaufnahme nach § 17 des Gesetzes zur Zusammenführung und
 Neugliederung der Bundeseisenbahnen in der vor dem 1. Juli 1999
 geltenden Fassung.
 
-(3) Der Bund übernimmt ab 1. Juli 1999 als Mitschuldner die
-aufgelaufenen Verbindlichkeiten des Ausgleichsfonds zur Sicherung des
-Steinkohleneinsatzes aus der Kreditaufnahme nach § 2 Abs. 3 des
-Gesetzes zur Abwicklung des Ausgleichsfonds nach dem Dritten
-Verstromungsgesetz vom 12. Dezember 1995 (BGBl. I S. 1638), das
-zuletzt durch Artikel 4 des Gesetzes vom 21. Juni 1999 (BGBl. I S.
-1384) geändert worden ist, in der vor dem 1. Juli 1999 geltenden
-Fassung.
+(3) (weggefallen)
 
 
 ## § 2

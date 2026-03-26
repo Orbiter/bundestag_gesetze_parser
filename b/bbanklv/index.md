@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 1142
 
+Geändert durch
+:   Art. 1 V vom 12.8.2025 I Nr. 198
+
 
 ## Eingangsformel
 
@@ -38,9 +41,9 @@ anzuwenden.
 
 ## § 2 Gestaltung und Ämter der Laufbahnen
 
-(1) Bei der Deutschen Bundesbank können zusätzlich zu den Laufbahnen
+(1) Bei der Deutschen Bundesbank sind zusätzlich zu den Laufbahnen
 nach § 6 Absatz 2 der Bundeslaufbahnverordnung folgende Laufbahnen
-eingerichtet werden:
+eingerichtet:
 
 1.  der mittlere Bankdienst,
 
@@ -69,9 +72,58 @@ Bundeslaufbahnverordnung bleibt unberührt.
 ## § 4 Vorbereitungsdienst für den gehobenen Bankdienst
 
 Der Vorbereitungsdienst für den gehobenen Bankdienst wird in einem
-Studiengang an der Fachhochschule der Deutschen Bundesbank
-durchgeführt. § 13 der Bundeslaufbahnverordnung bleibt im Übrigen
-unberührt.
+Studiengang an der Hochschule der Deutschen Bundesbank durchgeführt. §
+13 der Bundeslaufbahnverordnung bleibt im Übrigen unberührt.
+
+
+## § 4a Besondere Fachverwendung Bargeldlogistik im mittleren Bankdienst
+
+(1) In der Laufbahn des mittleren Bankdienstes wird die besondere
+Fachverwendung Bargeldlogistik eingerichtet.
+
+(2) Für die besondere Fachverwendung Bargeldlogistik im mittleren
+Bankdienst können Bewerberinnen und Bewerber nach Maßgabe des § 19 der
+Bundeslaufbahnverordnung eingestellt werden, wenn sie die folgenden
+Voraussetzungen erfüllen:
+
+1.  als Bildungsvoraussetzung einen Abschluss in einem anerkannten
+    Ausbildungsberuf nach dem Berufsbildungsgesetz oder der
+    Handwerksordnung
+
+    a)  im gewerblich-technischen Bereich,
+
+
+    b)  im handwerklichen Bereich,
+
+
+    c)  im Bereich Logistik,
+
+
+    d)  im Bereich Schutz und Sicherheit,
+
+
+    e)  im Bereich der Justiz, des Steuerwesens oder der öffentlichen
+        Verwaltung oder
+
+
+    f)  im kaufmännischen Bereich und
+
+
+
+
+
+2.  eine hauptberufliche Tätigkeit in einem der in Nummer 1 genannten
+    Bereiche oder im Bereich Bargeldlogistik der Deutschen Bundesbank von
+    mindestens einem Jahr und sechs Monaten.
+
+
+
+
+(3) Beamtinnen und Beamte mit der Befähigung für die besondere
+Fachverwendung Bargeldlogistik im mittleren Bankdienst können durch
+eine 18-monatige berufspraktische Einführung die Befähigung für die
+Laufbahn des mittleren Bankdienstes erlangen. § 9 Satz 2 bis 4 gilt
+entsprechend.
 
 
 ## § 5 Befähigung für den höheren Bankdienst
@@ -131,231 +183,222 @@ der neuen Laufbahn nicht bewährt haben, verbleiben in der Laufbahn des
 Geldbearbeitungsdienstes. Die Laufbahn des Geldbearbeitungsdienstes
 gilt insoweit weiterhin als eingerichtet.
 
-
-## § 10 Übergangsvorschriften zum Beamtenverhältnis auf Probe
-
-(1) Für Beamtinnen und Beamte, die vor dem 12. Februar 2009 in ein
-Beamtenverhältnis auf Probe berufen worden sind, sind anstelle der §§
-28 bis 31 der Bundeslaufbahnverordnung die §§ 7 bis 10 und 46 Absatz 1
-Nummer 2 und 3 der Vorschriften über die Vorbildung und die Laufbahnen
-der Beamten der Deutschen Bundesbank weiter anzuwenden, mit der
-Maßgabe, dass sich die Probezeit nicht durch Mutterschutz, Elternzeit
-und Teilzeit verlängert und § 19 Absatz 4 der Bundeslaufbahnverordnung
-entsprechend anzuwenden ist.
-
-(2) Für Beamtinnen und Beamte, denen nach § 147 Absatz 1 des
-Bundesbeamtengesetzes bei der Begründung des Beamtenverhältnisses kein
-Amt verliehen worden ist, gelten die §§ 9 und 10 der Vorschriften über
-die Vorbildung und die Laufbahnen der Beamten der Deutschen Bundesbank
-weiterhin, mit der Maßgabe, dass die Beamtinnen und Beamten vor
-Abschluss der Probezeit angestellt werden können und dass anstelle des
-§ 10 Absatz 6 der Vorschriften über die Vorbildung und die Laufbahnen
-der Beamten der Deutschen Bundesbank bei der Anstellung in ein höheres
-Amt als das Eingangsamt § 25 der Bundeslaufbahnverordnung entsprechend
-anzuwenden ist.
-
-
-## § 11 Übergangsvorschriften zum Aufstieg
-
-(1) Für Beamtinnen und Beamte, die vor dem 12. Februar 2009 in ein
-Beamtenverhältnis auf Probe berufen worden sind und sich vor dem 1.
-Januar 2012 um eine Teilnahme an einem Auswahlverfahren zum Aufstieg
-nach den vor Inkrafttreten dieser Verordnung geltenden Regelungen
-bewerben, richtet sich das weitere Auswahl- und Aufstiegsverfahren
-weiterhin nach den §§ 16, 23, 29 und 34 der Vorschriften über die
-Vorbildung und die Laufbahnen der Beamten der Deutschen Bundesbank.
-Ihnen steht der Aufstieg nach § 37 der Bundeslaufbahnverordnung offen.
-
-(2) Für Beamtinnen und Beamte, die die Befähigung nach den §§ 24, 30
-und 34a der Vorschriften über die Vorbildung und die Laufbahnen der
-Beamten der Deutschen Bundesbank erworben haben, gelten die §§ 24, 30
-und 34a der Vorschriften über die Vorbildung und die Laufbahnen der
-Beamten der Deutschen Bundesbank weiter, mit der Maßgabe, dass Ämter
-der Besoldungsgruppe A 9, A 13 oder A 16 der Bundesbesoldungsordnung A
-ohne Befähigungserweiterung verliehen werden können.
-
-
-## § 12 Inkrafttreten, Außerkrafttreten
-
-Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
-Gleichzeitig treten die Vorschriften über die Vorbildung und die
-Laufbahnen der Beamten der Deutschen Bundesbank in der Fassung der
-Bekanntmachung vom 28. Dezember 1979 (BAnz. Nr. 6 vom 10. Januar
-1980), die zuletzt durch den Beschluss vom 3. September 1998 (BAnz. S.
-16 640) geändert worden sind, außer Kraft.
-
 (zu § 2 Abs 2)
 
 ## Anlage 1 Laufbahnen, Ämter und Amtsbezeichnungen
 
-(Fundstelle: BGBl. I 2010, 1144)
+(Fundstelle: BGBl. 2025 I Nr. 198, S. 3)
 
-## Laufbahnen, Ämter und Amtsbezeichnungen
-
-
-## Einfacher nichttechnischer Verwaltungsdienst
-
-*    *   Zur Laufbahn gehörende Ämter
-
-    *   Amtsbezeichnungen
+**Tabelle 1: Laufbahn des einfachen nichttechnischen
+Verwaltungsdienstes**
 
 
-*    *[^F774438_01_BJNR114200010BJNE001500000]
-   Besoldungsgruppe A 2
+*    *   **1**
 
-    *   Bundesbankoberamtsgehilfin/
-        Bundesbankoberamtsgehilfe
-
-
-*    *   Besoldungsgruppe A 3
-
-    *   Bundesbankhauptamtsgehilfin/
-        Bundesbankhauptamtsgehilfe
-
-
-*    *   Besoldungsgruppe A 4
-
-    *   Bundesbankamtsmeisterin/
-        Bundesbankamtsmeister
-
-
-*    *   Besoldungsgruppe A 5
-
-    *   Bundesbankoberamtsmeisterin/
-        Bundesbankoberamtsmeister
-
-
-*    *   Besoldungsgruppe A 6
-
-    *   Bundesbankoberamtsmeisterin/
-        Bundesbankoberamtsmeister
-
-
-
-
-## Mittlerer Dienst
-
-*    *   Zu den Laufbahnen
-        gehörende Ämter
+    *   Zur Laufbahn gehörende Ämter
 
     *   Amtsbezeichnungen
 
 
-*    *   Besoldungsgruppe A 6\*)
+*    *   1.1
+
+    *[^F833686_01_BJNR114200010BJNE001501129]
+   Besoldungsgruppe A 3
+
+    *   Bundesbankhauptamtsgehilfin/Bundesbankhauptamtsgehilfe
+
+
+*    *   1.2
+
+    *   Besoldungsgruppe A 4
+
+    *   Bundesbankamtsmeisterin/Bundesbankamtsmeister
+
+
+*    *   1.3
+
+    *   Besoldungsgruppe A 5
+
+    *   Bundesbankoberamtsmeisterin/Bundesbankoberamtsmeister
+
+
+*    *   1.4
+
+    *   Besoldungsgruppe A 6
+
+    *   Bundesbankoberamtsmeisterin/Bundesbankoberamtsmeister
+
+
+
+**Tabelle 2: Laufbahn des mittleren Dienstes**
+
+
+*    *   **2**
+
+    *   Zur Laufbahn gehörende Ämter
+
+    *   Amtsbezeichnungen
+
+
+*    *   2.1
+
+    *[^F833686_02_BJNR114200010BJNE001501129]
+   Besoldungsgruppe A 6
 
     *   Bundesbanksekretärin/Bundesbanksekretär
 
 
-*    *   Besoldungsgruppe A 7
+*    *   2.2
 
-    *   Bundesbankobersekretärin/
-        Bundesbankobersekretär
+    *[^F833686_03_BJNR114200010BJNE001501129]
+   Besoldungsgruppe A 7
 
-
-*    *   Besoldungsgruppe A 8
-
-    *   Bundesbankhauptsekretärin/
-        Bundesbankhauptsekretär
+    *   Bundesbankobersekretärin/Bundesbankobersekretär
 
 
-*    *   Besoldungsgruppe A 9
+*    *   2.3
 
-    *   Bundesbankamtsinspektorin/
-        Bundesbankamtsinspektor
+    *   Besoldungsgruppe A 8
+
+    *   Bundesbankhauptsekretärin/Bundesbankhauptsekretär
+
+
+*    *   2.4
+
+    *   Besoldungsgruppe A 9
+
+    *   Bundesbankamtsinspektorin/Bundesbankamtsinspektor
 
 
 
+**Tabelle 3: Laufbahn des gehobenen Dienstes**
 
-## Gehobener Dienst
 
-*    *   Zu den Laufbahnen
-        gehörende Ämter
+*    *   **3**
+
+    *   Zur Laufbahn gehörende Ämter
 
     *   Amtsbezeichnungen
 
 
-*    *   Besoldungsgruppe A 9\*)
+*    *   3.1
+
+    *[^F833686_04_BJNR114200010BJNE001501129]
+   Besoldungsgruppe A 9
 
     *   Bundesbankinspektorin/Bundesbankinspektor
 
 
-*    *   Besoldungsgruppe A 10
+*    *   3.2
 
-    *   Bundesbankoberinspektorin/
-        Bundesbankoberinspektor
+    *[^F833686_05_BJNR114200010BJNE001501129]
+   Besoldungsgruppe A 10
+
+    *   Bundesbankoberinspektorin/Bundesbankoberinspektor
 
 
-*    *   Besoldungsgruppe A 11
+*    *   3.3
+
+    *   Besoldungsgruppe A 11
 
     *   Bundesbankamtfrau/Bundesbankamtmann
 
 
-*    *   Besoldungsgruppe A 12
+*    *   3.4
+
+    *   Besoldungsgruppe A 12
 
     *   Bundesbankamtsrätin/Bundesbankamtsrat
 
 
-*    *   Besoldungsgruppe A 13
+*    *   3.5
 
-    *   Bundesbankoberamtsrätin/
-        Bundesbankoberamtsrat
+    *   Besoldungsgruppe A 13
+
+    *   Bundesbankoberamtsrätin/Bundesbankoberamtsrat
 
 
 
+**Tabelle 4: Laufbahn des höheren Dienstes**
 
-## Höherer Dienst
 
-*    *   Zu den Laufbahnen
-        gehörende Ämter
+*    *   **4**
+
+    *   Zur Laufbahn gehörende Ämter
 
     *   Amtsbezeichnungen
 
 
-*    *   Besoldungsgruppe A 13\*)
+*    *   4.1
+
+    *[^F833686_06_BJNR114200010BJNE001501129]
+   Besoldungsgruppe A 13
 
     *   Bundesbankrätin/Bundesbankrat
 
 
-*    *   Besoldungsgruppe A 14
+*    *   4.2
+
+    *   Besoldungsgruppe A 14
 
     *   Bundesbankoberrätin/Bundesbankoberrat
 
 
-*    *   Besoldungsgruppe A 15
+*    *   4.3
 
-    *   Die Amtsbezeichnungen zu den Ämtern der
-        Besoldungsgruppen A 15 bis B 9 ergeben sich aus der Anlage I
-        (Bundesbesoldungsordnungen A
-        und B) zum Bundesbesoldungsgesetz.
+    *   Besoldungsgruppe A 15
 
-
-*    *   Besoldungsgruppe A 16
+    *   Die Amtsbezeichnungen zu den Ämtern der Besoldungsgruppen A 15 bis B 9
+        ergeben sich aus der Anlage I (Bundesbesoldungsordnungen A und B) zum
+        Bundesbesoldungsgesetz.
 
 
-*    *   Besoldungsgruppe B 3
+*    *   4.4
+
+    *   Besoldungsgruppe A 16
 
 
-*    *   Besoldungsgruppe B 5
+*    *   4.5
+
+    *   Besoldungsgruppe B 3
 
 
-*    *   Besoldungsgruppe B 6
+*    *   4.6
+
+    *   Besoldungsgruppe B 5
 
 
-*    *   Besoldungsgruppe B 9
+*    *   4.7
+
+    *   Besoldungsgruppe B 6
+
+
+*    *   4.8
+
+    *   Besoldungsgruppe B 9
 
 
 
-    Eingangsamt
-[^F774438_01_BJNR114200010BJNE001500000]: 
+    Eingangsamt.
+[^F833686_01_BJNR114200010BJNE001501129]:     Eingangsamt.
+[^F833686_02_BJNR114200010BJNE001501129]:     Eingangsamt im mittleren technischen Dienst.
+[^F833686_03_BJNR114200010BJNE001501129]:     Eingangsamt.
+[^F833686_04_BJNR114200010BJNE001501129]:     Eingangsamt im gehobenen technischen Verwaltungsdienst und im
+    gehobenen naturwissenschaftlichen Dienst, soweit ein Bachelorabschluss
+    oder ein gleichwertiger Abschluss für die Einstellung in die Laufbahn
+    gefordert wird.
+[^F833686_05_BJNR114200010BJNE001501129]:     Eingangsamt.
+[^F833686_06_BJNR114200010BJNE001501129]: 
 
 ## Anlage 2 (zu § 8 Abs 1)
 
-(Fundstelle: BGBl. I 2010, 1145)
+(Fundstelle: BGBl. 2025 I Nr. 198, S. 4)
 
 
-*    *   Laufbahnen nach der Anlage zu § 37 Absatz 2 der Vorschriften über die
-        Vorbildung und die Laufbahnen der
-        Beamten der Deutschen Bundesbank
+*    *
+    *   Laufbahnen nach der Anlage zu § 37 Absatz 2
+        der Vorschriften über die Vorbildung und die Laufbahnen
+        der Beamten der Deutschen Bundesbank
 
     *   Entsprechende Laufbahnen
 
@@ -377,32 +420,28 @@ Bekanntmachung vom 28. Dezember 1979 (BAnz. Nr. 6 vom 10. Januar
 
     *   Sprachendienst
 
-    *   Höherer sprach- und kulturwissenschaft-
-        licher Dienst
+    *   Höherer sprach- und kulturwissenschaftlicher Dienst
 
 
 *    *   1.3
 
-    *   Dienst als Statistikerin/
-        Dienst als Statistiker
+    *   Dienst als Statistikerin/Dienst als Statistiker
 
     *   Höherer naturwissenschaftlicher Dienst
 
 
 *    *   1.4
 
-    *   Dienst als Historikerin/
-        Dienst als Historiker
+    *   Dienst als Historikerin/Dienst als Historiker
 
-    *   Höherer sprach- und kulturwissenschaft-
-        licher Dienst
+    *   Höherer sprach- und kulturwissenschaftlicher Dienst
 
 
 *    *   1.5
 
     *   Dienst als Informatikerin/Dienst als Informatiker
 
-    *   Höherer naturwissenschaftlicher Dienst
+    *   Höherer technischer Verwaltungsdienst
 
 
 *    *   1.6
@@ -443,7 +482,7 @@ Bekanntmachung vom 28. Dezember 1979 (BAnz. Nr. 6 vom 10. Januar
 
     *   Dienst als Informatikerin/Dienst als Informatiker
 
-    *   Gehobener naturwissenschaftlicher Dienst
+    *   Gehobener technischer Verwaltungsdienst
 
 
 *    *   **3**

@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 26.5.1994 I 1114;
 
 Zuletzt geändert durch
-:   Art. 16 G v. 19.12.2022 I 2606
+:   Art. 6 G v. 25.2.2025 I Nr. 63
 
 
 ## Erster Abschnitt - Allgemeine Vorschriften
@@ -3041,7 +3041,7 @@ kann bestimmt werden, dass § 39 nicht anzuwenden ist und dass es der
 Vorlage eines Hypotheken-, Grundschuld- oder Rentenschuldbriefes nicht
 bedarf.
 
-(6) § 134a tritt am 31. Dezember 2024 außer Kraft.
+(6) § 134a tritt am 31. Dezember 2029 außer Kraft.
 
 
 ### § 151

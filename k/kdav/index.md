@@ -149,29 +149,24 @@ Angabe des Vornamens, des Nachnamens oder der Hausnummer verzichtet
 werden.
 
 (3) Unbekannte Zeichen in den Angaben zum Personen-, Straßen- oder
-Ortsnamen nach Absatz 1 können durch die Platzhalter
-"?"             ,
-"[ ]"              oder
-"*"              ersetzt werden. Dabei steht
+Ortsnamen nach Absatz 1 können durch die Platzhalter „?” , „[ ]” oder
+„\*” ersetzt werden. Dabei steht
 
-1.  "?"                    für genau ein beliebiges Zeichen,
+1.  „?” für genau ein beliebiges Zeichen,
 
 
-2.  "[ ]"                    für genau eines der in der Klammer
-    vorgegebenen Zeichen und
+2.  „[ ]” für genau eines der in der Klammer vorgegebenen Zeichen und
 
 
-3.  "*"                    für beliebig viele Zeichen.
+3.  „\*” für beliebig viele Zeichen.
 
 
 
 Die Platzhalter dürfen in einer Angabe nicht als einziges Zeichen
-gesetzt werden. In einem Ersuchen dürfen die Platzhalter
-"?"              oder „\*“ jeweils einmal in unterschiedlichen Angaben
-verwendet werden. Der Platzhalter
-"[ ]"              darf in einer Angabe mehrfach verwendet werden. Der
-Platzhalter
-"*"              darf nicht am Anfang einer der in Satz 1 genannten
+gesetzt werden. In einem Ersuchen dürfen die Platzhalter „?” oder „\*“
+jeweils einmal in unterschiedlichen Angaben verwendet werden. Der
+Platzhalter „[ ]” darf in einer Angabe mehrfach verwendet werden. Der
+Platzhalter „\*” darf nicht am Anfang einer der in Satz 1 genannten
 Angaben eingesetzt werden.
 
 (4) Eine phonetische Suche kann bei unterschiedlichen Schreibweisen

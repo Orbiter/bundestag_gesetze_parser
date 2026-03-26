@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2002, 671 (1019)
 
 Zuletzt geändert durch
-:   Art. 26 G v. 5.10.2021 I 4607
+:   Art. 1 V v. 31.3.2025 I Nr. 103
 
 
 ## Eingangsformel
@@ -88,11 +88,11 @@ der Vorausverfügungen auf dem inneren Umschlag nicht.
 
 
 
-## § 3 Überleitungsvorschrift
+## § 3 Übergangsregelung
 
-Der Vordruck nach Anlage 1 zu § 1 Nr. 1 in der bis zum 30. April 2004
-geltenden Fassung kann bis zum 31. Dezember 2004 weiterverwendet
-werden.
+Die Vordrucke nach den Anlagen 1 und 2 jeweils in der bis
+einschließlich 31. Juli 2025 geltenden Fassung können bis
+einschließlich 31. Juli 2026 weiterverwendet werden.
 
 
 ## § 4 Inkrafttreten
@@ -104,18 +104,18 @@ Diese Verordnung tritt am 1. Juli 2002 in Kraft.
 
 Der Bundesrat hat zugestimmt.
 
-(zu § 1 Nr. 1)
 
-## Anlage 1 Zustellungsurkunde
+## Anlage 1 (zu § 1 Nummer 1)
 
-(Fundstelle: BGBl. I 2004, 620 u. 621)
+(Fundstelle: BGBl. 2025 I Nr. 103, S. 3 – 4)
 
 
-(zu § 1 Nr. 2)
 
-## Anlage 2 Innerer Umschlag
 
-(Fundstelle: BGBl. I 2002, 674)
+## Anlage 2 (zu § 1 Nummer 2)
+
+(Fundstelle: BGBl. 2025 I Nr. 103, S. 5)
+
 
 
 (zu § 1 Nr. 3)

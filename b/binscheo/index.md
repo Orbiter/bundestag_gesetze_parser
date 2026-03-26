@@ -16,7 +16,10 @@ Fundstelle
 :   BGBl I: 1975, 1785
 
 Neugefasst durch
-:   Bek. v. 1.3.2022 I 220, 1384
+:   Bek. v. 1.3.2022 I 220, 1384;
+
+Geändert durch
+:   Art. 5 V v. 14.10.2025 I Nr. 242
 
 [^F820681_01_BJNR017850975]:     Diese Verordnung dient der Umsetzung des Übereinkommens vom 15.
     Februar 1966 über die Eichung von Binnenschiffen (BGBl. 1973 II S.
@@ -295,6 +298,11 @@ Anlagen
     *   Muster der Eichplakette für Sportboote
 
 
+*    *   Anlage 7
+
+    *   Muster des Eichverzeichnisses für Eichscheine und Eichbescheinigungen
+
+
 
 
 ## Erster Abschnitt - Allgemeine Vorschriften
@@ -344,12 +352,11 @@ Im Sinne dieser Verordnung sind:
     jeweils geltenden Fassung;
 
 
-7.  „Eichgesetz“
+7.  Mess- und Eichgesetz
 
-    Eichgesetz in der Fassung der Bekanntmachung vom 23. März 1992 (BGBl.
-    I S. 711), das zuletzt durch Artikel 1 des Gesetzes vom 7. März 2011
-    (BGBl. I S. 338) geändert worden ist, in der jeweils geltenden
-    Fassung;
+    Mess- und Eichgesetz vom 25. Juli 2013 (BGBl. I S. 2722, 2723), das
+    zuletzt durch Artikel 38 des Gesetzes vom 23. Oktober 2024 (BGBl. 2024
+    I Nr. 323) geändert worden ist, in der jeweils geltenden Fassung;
 
 
 8.  „Binnenschiffsuntersuchungsordnung“
@@ -375,9 +382,8 @@ Bundeswasserstraßen.
 Außendienst als Schiffseichamt.
 
 (2) Die Kennbuchstaben des Schiffseichamtes und die Sitze des
-Außendienstes werden durch das Bundesministerium für Verkehr und
-digitale Infrastruktur im Verkehrsblatt oder Bundesanzeiger
-bekanntgemacht.
+Außendienstes werden durch das Bundesministerium für Verkehr im
+Verkehrsblatt oder Bundesanzeiger bekanntgemacht.
 
 
 ### § 4 Zentralstelle
@@ -407,8 +413,6 @@ Artikel 8 des Übereinkommens wahr.
 
 
 
-Die Zentralstelle kann sich dabei des Bundesamtes für Seeschifffahrt
-und Hydrographie bedienen.
 
 (3) Beauftragte der Zentralstelle können an Schiffseichungen
 teilnehmen.
@@ -488,7 +492,7 @@ Eichschein aus, und zwar
 Über jede Eichung ist ein Nachweis zu fertigen.
 
 (2) Das Schiffseichamt trägt jeden von ihm ausgestellten Eichschein
-unter fortlaufender Nummer in ein Eichverzeichnis ein.
+unter fortlaufender Nummer in ein Eichverzeichnis nach Anlage 7 ein.
 
 (3) Die Geltungsdauer eines Eichscheins darf auf höchstens 15 Jahre
 festgesetzt werden. Auf jedem Eichschein ist der Tag anzugeben, an dem
@@ -503,6 +507,13 @@ an der Richtigkeit der vorstehenden Angaben, sind diese von Amts wegen
 nach § 9 Absatz 2 zu überprüfen.
 
 (5) Ungültig gewordene Eichscheine werden eingezogen.
+
+(6) Die Zentralstelle hat von jedem Eichschein, jeder vorläufigen
+Eichbescheinigung und jeder Eichbescheinigung für Sportboote, die sie
+erteilt hat, die Urschrift oder eine Kopie aufzubewahren. In diese
+sind alle Berichtigungen und Änderungen sowie Ungültigkeitserklärungen
+und Neuerteilungen einzutragen. Sie aktualisiert das Eichverzeichnis
+der Eichscheine und Eichbescheinigungen entsprechend.
 
 
 ### § 9 Verlängerung des Eichscheins
@@ -1096,7 +1107,7 @@ Außenbordmotor gebaut ist, ohne das Gewicht des Motors, der Tanks und
 der Startbatterie festgelegt.
 
 (5) Die Zentralstelle trägt jede Baumuster-Eichung unter fortlaufender
-Nummer in ein Eichverzeichnis ein.
+Nummer in ein Eichverzeichnis nach Anlage 7 ein.
 
 
 ### § 34 Überprüfung von Nachbauten
@@ -1133,7 +1144,7 @@ Eine ungültig gewordene Eichbescheinigung kann nach Änderung wieder in
 Kraft gesetzt werden.
 
 (3) Die Zentralstelle trägt jede Eichbescheinigung unter fortlaufender
-Nummer in ein Eichverzeichnis ein.
+Nummer in ein Eichverzeichnis nach Anlage 7 ein.
 
 (4) Die Eichbescheinigung für das Baumuster eines Sportboots erhält
 den Zusatz „Baumuster“. Sie ist nicht Urkunde nach § 13 Absatz 1 der
@@ -1286,6 +1297,11 @@ sind.
     *   Muster der Eichplakette für Sportboote
 
 
+*    *   Anlage 7:
+
+    *   Muster des Eichverzeichnisses für Eichscheine und Eichbescheinigungen
+
+
 
 
 
@@ -1345,3 +1361,170 @@ sind.
 (Fundstelle: BGBl. I 2022, 256)
 
 ![bgbl1_2022_j0220-1_0270.jpg](bgbl1_2022_j0220-1_0270.jpg)
+
+### Anlage 7 Muster des Eichverzeichnisses für Eichscheine und Eichbescheinigungen
+
+(Fundstelle: BGBl. 2025 I Nr. 242, S. 53 – 54)
+
+Verzeichnis der Eichscheine und Eichbescheinigungen
+Zentralstelle – GDWS/Schiffseichamt
+## Jahr …………
+
+Verzeichnis der Eichscheine für Binnenschiffe:
+
+Linke Seite
+
+*    *   Eichschein
+        für Binnenschiffe
+
+    *   Art des Eichvorgangs
+
+    *   Schiffseigner
+        Name
+        Adresse
+
+
+*    *   Eich-
+        zeichen
+
+    *   vom
+
+    *   Gültig
+        bis
+
+    *   Neu-
+        eichung
+        am
+
+    *   Verlän-
+        gerung
+        am
+
+    *   Nach-
+        eichung
+        am
+
+    *   Änderung
+        Name/
+        Devise
+        am
+
+    *   Berich-
+        tigung
+        am
+
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+
+
+   Rechte Seite
+
+*    *   Fahrzeug
+
+    *   Eintragungen über Einziehung
+        von Eichscheinen
+        und sonstige Bemerkungen
+
+
+*    *   Name
+
+    *   Art
+
+    *   Trag-
+        fähigkeit
+        (t)
+
+    *   Wasser-
+        verdrängung
+        (m³)
+
+
+*    *
+    *
+    *
+    *
+    *
+
+
+
+   Verzeichnis der Eichbescheinigungen für Sportboote:
+
+Linke Seite
+
+*    *   Eichbescheinigung
+        für Sportboote
+
+    *   Art des Eichvorgangs
+
+    *   Schiffseigner
+        Name
+        Adresse
+
+
+*    *   Eich-
+        zeichen
+
+    *   vom
+
+    *   Berechnung der
+        Wasserverdrängung nach
+
+    *   Baumuster-
+        Eichung
+        am
+
+    *   Über-
+        prüfung von
+        Nachbauten
+        am
+
+
+*    *   Simpsonregel
+        am
+
+    *   Formel
+        am
+
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+
+
+   Rechte Seite
+
+*    *   Sportboot
+
+    *   Sonstige Bemerkungen
+
+
+*    *   Name
+
+    *   Art
+
+    *   Wasser-
+        verdrängung
+        (m³)
+
+
+*    *
+    *
+    *
+    *
+
+
+

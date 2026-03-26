@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1995, 695
 
 Zuletzt geändert durch
-:   Art. 11 V v. 30.10.2023 I Nr. 290
-
-Mittelbare änderung durch
-:   Art. 8 G v. 21.2.2024 I Nr. 54 ist berücksichtigt
+:   Art. 8 G v. 30.1.2026 I Nr. 31
 
 
 ## Eingangsformel
@@ -357,6 +354,9 @@ Aufgabenbezeichnungen sind zu verwenden:
 6.  Strafvollstreckung,
 
 
+6a. Vollzug freiheitsentziehender Maßnahmen,
+
+
 7.  Rechtspflege,
 
 
@@ -384,10 +384,10 @@ Aufgabenbezeichnungen sind zu verwenden:
 14. Bekämpfung der illegalen Beschäftigung,
 
 
-15. Feststellung der Eigenschaft als Deutscher,
+15. Aufgaben nach dem Staatsangehörigkeitsgesetz,
 
 
-16. Feststellung der Aussiedler- oder Spätaussiedlereigenschaft,
+16. Aufgaben nach dem Bundesvertriebenengesetz,
 
 
 17. Aufgaben nach dem Bundesverfassungsschutzgesetz,
@@ -450,7 +450,20 @@ Aufgabenbezeichnungen sind zu verwenden:
 34. Abruf von Dokumenten,
 
 
-35. Aufgaben nach dem Sanktionsdurchsetzungsgesetz.
+35. Aufgaben nach dem Sanktionsdurchsetzungsgesetz,
+
+
+36. Aufgaben nach dem Unterhaltsvorschussgesetz,
+
+
+37. Aufgaben nach dem Bundeselterngeld- und Elternzeitgesetz,
+
+
+38. Aufgaben nach Abschnitt X des Einkommensteuergesetzes und nach § 1 des
+    Bundeskindergeldgesetzes,
+
+
+39. Grunddatenauskunft.
 
 
 
@@ -475,8 +488,8 @@ Aufenthaltstitel übereinstimmen oder nur geringfügig davon abweichen.
 
 (1) Der Umfang der Daten, die die Registerbehörde nach dem AZR-Gesetz
 an die jeweils ersuchende Stelle übermitteln und weitergeben darf,
-ergibt sich aus den Spalten A und D der Abschnitte I und II der Anlage
-zu dieser Verordnung.
+ergibt sich aus den Spalten A und D der Abschnitte I bis III der
+Anlage zu dieser Verordnung.
 
 (2) Die Registerbehörde hat vor der Übermittlung festzustellen, ob die
 ersuchende Stelle generell berechtigt ist, Daten aus dem Register zu
@@ -509,15 +522,12 @@ nach § 22 Abs. 1 des AZR-Gesetzes ist schriftlich bei der
 Registerbehörde zu beantragen. Im Fall des § 22 Abs. 1 Nr. 9 des AZR-
 Gesetzes ist die Zustimmung der für den Antragsteller zuständigen
 obersten Bundes- oder Landesbehörde einzuholen. In der
-Antragsbegründung ist darzulegen, daß die Einrichtung des
-automatisierten Abrufverfahrens wegen der Häufigkeit der
-Übermittlungsersuchen oder der Eilbedürftigkeit angemessen ist, und in
-welchem Umfang und an welchen Standorten Einrichtungen zum Datenabruf
-im automatisierten Verfahren geschaffen werden sollen. Die
-Registerbehörde ist berechtigt, entsprechende Nachweise zu verlangen.
-Im Fall des § 22 Abs. 1 Nr. 9 des AZR-Gesetzes holt sie die Zustimmung
-des Bundesministeriums des Innern, für Bau und Heimat ein, wenn sie
-dem Antrag stattgeben will.
+Antragsbegründung ist darzulegen, in welchem Umfang und an welchen
+Standorten Einrichtungen zum Datenabruf im automatisierten Verfahren
+geschaffen werden sollen. Die Registerbehörde ist berechtigt,
+entsprechende Nachweise zu verlangen. Im Fall des § 22 Abs. 1 Nr. 9
+des AZR-Gesetzes holt sie die Zustimmung des Bundesministeriums des
+Innern, für Bau und Heimat ein, wenn sie dem Antrag stattgeben will.
 
 (2) Die Registerbehörde teilt dem Antragsteller die beabsichtigte
 Entscheidung mit und fordert ihn zugleich auf, die zur Datensicherung
@@ -776,6 +786,14 @@ hat, wenn einer der folgenden Sachverhalte gespeichert ist:
     c)  eine Zurückweisung,
 
 
+    d)  Daten nach § 3 Absatz 1 Nummer 6a in Verbindung mit § 2 Absatz 2
+        Nummer 3a des AZR-Gesetzes,
+
+
+    e)  Daten nach § 3 Absatz 1 Nummer 7 in Verbindung mit § 2 Absatz 2c des
+        AZR-Gesetzes, sofern nicht Nummer 6 einschlägig ist,
+
+
 
 
 
@@ -805,19 +823,27 @@ hat, wenn einer der folgenden Sachverhalte gespeichert ist:
     Verbindung mit § 2 Absatz 1a und 2 Nummer 1 des AZR-Gesetzes,
 
 
-4.  nach 18 Monaten Daten nach § 3 Absatz 1 Nummer 7 des AZR-Gesetzes und
-    Dokumente nach § 3 Absatz 3c in Verbindung mit § 2 Absatz 2b des AZR-
-    Gesetzes,
+4.  nach 18 Monaten Daten nach § 3 Absatz 1 Nummer 7 in Verbindung mit § 2
+    Absatz 2b des AZR-Gesetzes,
 
 
-5.  nach sechs Monaten Daten nach § 3 Absatz 1 Nummer 1, 3, 4 und 7 des
-    AZR-Gesetzes und § 3 Absatz 3d in Verbindung mit § 2 Absatz 2c des
-    AZR-Gesetzes.
+5.  nach sechs Monaten Daten zu Freiheitsentziehungen nach den §§ 62, 62b
+    und 62c des Aufenthaltsgesetzes und Artikel 28 der Verordnung (EU) Nr.
+    604/2013,
+
+
+6.  nach neun Monaten Daten nach § 3 Absatz 1 Nummer 1, 3, 4 und 7 in
+    Verbindung mit § 2 Absatz 2c des AZR-Gesetzes, sofern bis zu diesem
+    Zeitpunkt noch keine Einreise der Person erfolgt ist.
 
 
 
-Die Fristen beginnen in den Fällen der Nummer 1 bis 4 mit Ablauf des
-Vierteljahres, in dem die Daten übermittelt worden sind.
+Die Fristen beginnen in den Fällen der Nummer 1 Buchstabe a bis c und
+e sowie der Nummern 2 bis 4 und 6 mit Ablauf des Vierteljahres, in dem
+die Daten übermittelt worden sind. Maßgeblich für den Beginn der Frist
+im Fall der Nummer 1 Buchstabe d ist das Datum zum Ende des
+Leistungsbezuges. Maßgeblich für den Beginn der Frist im Fall der
+Nummer 5 ist das Datum zum Ende der freiheitsentziehenden Maßnahme.
 
 (4) Daten werden im Übrigen gelöscht, wenn die ihnen zugrunde
 liegenden Maßnahmen zurückgenommen, widerrufen, anderweitig aufgehoben
@@ -1077,6 +1103,7 @@ Abschnitt I
             Spalte D Nummer I oder II aufgeführte Polizeivollzugsbehörden des
             Bundes
             – Staatsanwaltschaften
+            – Vollzugseinrichtungen
             – Gerichte
             – Bundesamt für Justiz
             – Staatsangehörigkeits- und Vertriebenenbehörden
@@ -1593,7 +1620,7 @@ Abschnitt I
 
 *    *   g)
 
-    *   Geschlecht
+    *   Geschlechtseintrag
 
     *   (7)
 
@@ -1705,13 +1732,14 @@ Abschnitt I
 
 *    *   § 3 Absatz 2 Nummer 4 bis 11 in Verbindung mit § 2 Absatz 1a und 2
         Nummer 1, § 3 Absatz 3a in Verbindung mit § 2 Absatz 2 Nummer 3 zu
-        Buchstabe c bis f und h bis i
+        Buchstabe d, e, g und h, § 3 Absatz 3c in Verbindung mit § 2 Absatz 2
+        Nummer 2 zu Buchstabe i
 
     *   (1)
 
     *
     *
-    *   *§§ 15, 17, 18a bis 18d, 23, 24, 24a des AZR-Gesetzes*
+    *   *§§ 15, 17, 18a bis 18d, 18f, 23, 24, 24a des AZR-Gesetzes*
 
 
 *    *   a)
@@ -1725,8 +1753,7 @@ Abschnitt I
 
     *
         –   Ausländerbehörden und mit der Durchführung ausländerrechtlicher
-            Vorschriften betraute öffentliche Stellen zu Spalte A Buchstabe a bis
-            j
+            Vorschriften betraute öffentliche Stellen
 
 
         –   Aufnahmeeinrichtungen
@@ -1734,23 +1761,21 @@ Abschnitt I
 
         –   die für die Unterbringung in Gemeinschaftsunterkünften und die für den
             öffentlichen Gesundheitsdienst zuständigen Behörden zu Spalte A
-            Buchstabe k bis m
+            Buchstabe j bis l
 
 
         –   Bundespolizei und andere mit der polizeilichen Kontrolle des
             grenzüberschreitenden Verkehrs beauftragten Behörden zu Spalte A
-            Buchstabe a bis h und j
+            Buchstabe a bis i
 
 
-        –   Polizeivollzugsbehörden der Länder zu Spalte A Buchstabe a bis h und j
+        –   Polizeivollzugsbehörden der Länder zu Spalte A Buchstabe a bis i
 
 
-        –   Bundesamt für Migration und Flüchtlinge zu Spalte A Buchstabe a bis h
-            und j
+        –   Bundesamt für Migration und Flüchtlinge zu Spalte A Buchstabe a bis i
 
 
-        –   die für die Durchführung des Asylbewerberleistungsgesetzes zuständigen
-            Stellen zu Spalte A Buchstabe i
+        –   Jugendämter zu Spalte A Buchstabe i
 
 
 
@@ -1786,11 +1811,14 @@ Abschnitt I
         –   Staatsanwaltschaften
 
 
+        –   Vollzugseinrichtungen
+
+
         –   Statistisches Bundesamt zu Spalte A Buchstabe a (pseudonymisiertes
-            Geschäftszeichen der Eltern von begleiteten Minderjährigen) und j
+            Geschäftszeichen der Eltern von begleiteten Minderjährigen) und i
 
 
-        –   Zollkriminalamt zu Spalte A Buchstabe d bis h und j bis l
+        –   Zollkriminalamt zu Spalte A Buchstabe d bis k
 
 
         –   oberste Bundes- und
@@ -1805,29 +1833,32 @@ Abschnitt I
 
 
         –   Bundesagentur für Arbeit zur Aufgabenerfüllung nach § 18b des AZR-
-            Gesetzes zu Spalte A Buchstabe a, d bis h und j
+            Gesetzes zu Spalte A Buchstabe a, d bis i
 
 
         –   die für die Durchführung der Grundsicherung für Arbeitsuchende
-            zuständige Stellen zu Spalte A Buchstabe a, d bis h und j
+            zuständige Stellen zu Spalte A Buchstabe a, d bis i
 
 
-        –   Träger der Sozialhilfe zu Spalte A Buchstabe a, d bis h und j bis m
+        –   Träger der Sozialhilfe zu Spalte A Buchstabe a, d bis l
 
 
         –   für die Durchführung des Asylbewerberleistungsgesetzes zuständige
-            Stellen zu Spalte A Buchstabe a, d bis m
+            Stellen zu Spalte A Buchstabe a, d bis l
 
 
         –   die für den öffentlichen Gesundheitsdienst zuständigen Behörden zu
-            Spalte A Buchstabe a, d, e, k bis m
+            Spalte A Buchstabe a, d, e, j bis l
 
 
-        –   Jugendämter zu Spalte A Buchstabe a, d bis m
+        –   Jugendämter zu Spalte A Buchstabe a, d bis l
+
+
+        –   Familienkassen zu Spalte A Buchstabe a
 
 
         –   Bundesamt für Migration und Flüchtlinge zur Aufgabenerfüllung nach §
-            24a des AZR-Gesetzes zu Spalte A Buchstabe a, b, d bis h und j
+            24a des AZR-Gesetzes zu Spalte A Buchstabe a, b, d bis i
 
 
 
@@ -1890,21 +1921,13 @@ Abschnitt I
 
 *    *   i)
 
-    *   die für die Durchführung des Asylbewerberleistungsgesetzes zuständige
-        Stelle
-
-    *   (7)
-
-
-*    *   j)
-
     *   Jugendamt der vorläufigen Inobhutnahme und endgültig zuständiges
         Jugendamt
 
     *   (7)
 
 
-*    *   k)
+*    *   j)
 
     *   Durchführung der Gesundheitsuntersuchung nach § 62 Absatz 1 des
         Asylgesetzes
@@ -1919,7 +1942,7 @@ Abschnitt I
     *   (7)
 
 
-*    *   l)
+*    *   k)
 
     *   die Feststellung, dass keine medizinischen Bedenken gegen die Aufnahme
         in eine Einrichtung der gemeinschaftlichen Unterbringung bestehen
@@ -1928,7 +1951,7 @@ Abschnitt I
     *   (7)
 
 
-*    *   m)
+*    *   l)
 
     *   Durchführung von
         Impfungen
@@ -1994,6 +2017,9 @@ Abschnitt I
         I.
             –   Ausländerbehörden und mit der Durchführung ausländerrechtlicher
                 Vorschriften betraute öffentliche Stellen
+
+
+            –   Aufnahmeeinrichtungen
 
 
             –   mit grenzpolizeilichen Aufgaben betraute Behörden zu Spalte A
@@ -2106,13 +2132,13 @@ Abschnitt I
 
 
 
-        II. für die Zuverlässigkeitsüberprüfung nach § 7 des
-            Luftsicherheitsgesetzes zuständige Luftsicherheitsbehörden und für die
-            Zuverlässigkeitsüberprüfung nach § 12b des Atomgesetzes zuständige
-            atomrechtliche Genehmigungs- und Aufsichtsbehörden
+        II.
+            –   für die Zuverlässigkeitsüberprüfung nach § 7 des
+                Luftsicherheitsgesetzes zuständige Luftsicherheitsbehörden und für die
+                Zuverlässigkeitsüberprüfung nach § 12b des Atomgesetzes zuständige
+                atomrechtliche Genehmigungs- und Aufsichtsbehörden
 
 
-        *
             –   Bundeskriminalamt
 
 
@@ -2122,10 +2148,13 @@ Abschnitt I
             –   Staatsanwaltschaften
 
 
+            –   Vollzugseinrichtungen
+
+
             –   Gerichte zu Spalte A Buchstabe a bis d, f und h
 
 
-            –   Bundesamt für Justiz zu Spalte A Buchstabe a, b und d
+            –   Bundesamt für Justiz zu Spalte A Buchstabe a bis d
 
 
             –   Zollkriminalamt zu Spalte A Buchstabe a bis d, f und g
@@ -2142,10 +2171,6 @@ Abschnitt I
                 Gesetzes zu Spalte A Buchstabe a bis d
 
 
-
-
-
-        *
             –   die für die Durchführung der Grundsicherung für Arbeitsuchende
                 zuständigen Stellen zu Spalte A Buchstabe a bis g
 
@@ -2155,6 +2180,12 @@ Abschnitt I
 
 
             –   die Jugendämter zu Spalte A Buchstabe a bis d, f und g
+
+
+            –   die Unterhaltsvorschussstellen zu Spalte A Buchstabe a bis d und f
+
+
+            –   die Familienkassen zu Spalte A Buchstabe a, b, d und f
 
 
             –   Träger der Sozialhilfe und für die Durchführung des
@@ -2210,7 +2241,15 @@ Abschnitt I
 
 *    *   c)
 
-    *   frühere Namen\*
+    *   frühere Personalien
+
+        aa) frühere Namen
+
+
+        bb) frühere Geschlechtseinträge
+
+
+
 
     *   (7)
 
@@ -2222,11 +2261,9 @@ Abschnitt I
         – Geburtsname
         – Vornamen
         – Geburtsdatum
-        – Geburtsort und
-        -bezirk
-        – Geschlecht
-        – Staatsangehörig-
-        keiten
+        – Geburtsort und -bezirk
+        – Geschlechtseintrag
+        – Staatsangehörigkeiten
 
     *   (7)
 
@@ -2349,10 +2386,6 @@ Abschnitt I
 *    *
 
 
-   * Dieses Datum wird nicht erhoben, sondern entsteht im Register, wenn
-eine Namensänderung gemeldet wird.
-
-
 
 *    *   A
 
@@ -2405,6 +2438,7 @@ eine Namensänderung gemeldet wird.
 
     *   – Ausländerbehörden und mit der Durchführung ausländerrechtlicher
         Vorschriften betraute öffentliche Stellen
+        – Aufnahmeeinrichtungen
         – mit grenzpolizeilichen Aufgaben betraute Behörden
         – in der Rechtsverordnung nach § 58 Absatz 1 des Bundespolizeigesetzes
         bestimmte Bundespolizeibehörde
@@ -2471,13 +2505,13 @@ eine Namensänderung gemeldet wird.
 
 *    *   § 3 Absatz 2 Nummer 1 und 2 in Verbindung mit § 2 Absatz 1a und 2
         Nummer 1, § 3 Absatz 3a in Verbindung mit § 2 Absatz 2 Nummer 3 sowie
-        § 3 Absatz 3b in Verbindung mit § 2 Absatz 2a und § 3 Absatz 3e in
-        Verbindung mit § 2 Absatz 2 Nummer 2 und 3 zu Spalte A Buchstabe a
+        § 3 Absatz 3b in Verbindung mit § 2 Absatz 2a und § 3 Absatz 3c und 3e
+        in Verbindung mit § 2 Absatz 2 Nummer 2 und 3 zu Spalte A Buchstabe a
 
     *
     *
     *
-    *   *§§ 15, 17, 18a, 21 des AZR-Gesetzes*
+    *   *§§ 15, 17, 18a, 18b, 21 des AZR-Gesetzes*
 
 
 *    *   Erkennungsdienstliche Daten nach § 16 Absatz 1, § 18 Absatz 5 und § 19
@@ -2545,6 +2579,9 @@ eine Namensänderung gemeldet wird.
         –   Staatsanwaltschaften
 
 
+        –   Vollzugseinrichtungen
+
+
         –   oberste Bundes- und
             Landesbehörden, die mit der Durchführung ausländer-, asyl- und
             passrechtlicher Vorschriften als eigener Aufgabe betraut sind
@@ -2554,7 +2591,15 @@ eine Namensänderung gemeldet wird.
 
 
         –   die für die Durchführung des Asylbewerberleistungsgesetzes zuständigen
-            Stellen zu Spalte A Buchstabe a, Referenznummer
+            Stellen zu Spalte A Buchstabe a, Referenznummern
+
+
+        –   Träger der Sozialhilfe zu Spalte A Buchstabe a, Referenznummern
+
+
+        –   Bundesagentur für Arbeit und die für die Durchführung der
+            Grundsicherung für Arbeitsuchende zuständigen Stellen zu Spalte A
+            Buchstabe a, Referenznummern
 
 
 
@@ -2562,7 +2607,7 @@ eine Namensänderung gemeldet wird.
 
 *    *   a)
 
-    *   Fingerabdruckdaten einschließlich Referenznummer
+    *   Fingerabdruckdaten einschließlich Referenznummern
 
     *
     *   (7)
@@ -2625,8 +2670,7 @@ eine Namensänderung gemeldet wird.
     *
     *
     *
-    *   *§§ 14, 15, 16, 17, § 17b, 18a, 18b, 18c, 18d, 18e, 19, 23, 23a, 24a
-        des AZR-Gesetzes*
+    *   *§§ 14, 15, 16 bis 19, 23, 23a, 24a des AZR-Gesetzes*
 
 
 *    *   Anschrift im Bundesgebiet
@@ -2664,13 +2708,16 @@ eine Namensänderung gemeldet wird.
         –   Bundeskriminalamt
 
 
-        –   Landeskrimnalämter
+        –   Landeskriminalämter
 
 
         –   Sonstige Polizeivollzugsbehörden des Bundes und der Länder
 
 
         –   Staatsanwaltschaften
+
+
+        –   Vollzugseinrichtungen
 
 
         –   oberste Bundes- und
@@ -2710,10 +2757,9 @@ eine Namensänderung gemeldet wird.
 
 
 *    *
-        a)  gegenwärtige
-            Anschrift
+        a)  gegenwärtige Anschrift
 
-            eingezogen am
+            eingezogen/aufgenommen am
 
 
 
@@ -2725,7 +2771,7 @@ eine Namensänderung gemeldet wird.
 *    *
         b)  frühere Anschriften
 
-            ausgezogen am
+            ausgezogen/entlassen am
 
 
 
@@ -2745,6 +2791,9 @@ eine Namensänderung gemeldet wird.
 
 
         –   Polizeivollzugsbehörden der Länder zu Spalte A Buchstabe a
+
+
+        –   Abschiebungshafteinrichtungen zu Spalte A Buchstabe a
 
 
         –   Bundesamt für Migration und Flüchtlinge zu Spalte A Buchstabe a
@@ -2770,7 +2819,7 @@ eine Namensänderung gemeldet wird.
             zuständigen Behörden zu Spalte A Buchstabe a
 
 
-        –   Jugendämter zu Spalte A
+        –   Jugendämter und die Unterhaltsvorschussstellen zu Spalte A
             Buchstabe a
 
 
@@ -2857,8 +2906,9 @@ eine Namensänderung gemeldet wird.
     *   – Ausländerbehörden und mit der Durchführung ausländerrechtlicher
         Vorschriften betraute öffentliche Stellen zu Spalte A Buchstabe a bis
         g
-        – Bundesamt für Migration und Flüchtlinge zu Spalte A Buchstabe a, c,
-        d, e und g
+        – Aufnahmeeinrichtungen zu Spalte A Buchstabe a bis g
+        – Bundesamt für Migration und Flüchtlinge zu Spalte A Buchstabe a und
+        c bis g
         – Bundespolizei und andere mit der polizeilichen Kontrolle des
         grenzüberschreitenden Verkehrs beauftragte Behörden zu Spalte A
         Buchstabe a, d und e
@@ -2877,7 +2927,7 @@ eine Namensänderung gemeldet wird.
 
 *    *   b)
 
-    *   Zuzug von einer anderen Ausländerbehörde am
+    *   Zuzug/Zuständigkeitswechsel am
 
     *   (5)
 
@@ -3300,6 +3350,9 @@ eine Namensänderung gemeldet wird.
         –   Staatsanwaltschaften
 
 
+        –   Vollzugseinrichtungen
+
+
         –   Gerichte
 
 
@@ -3320,7 +3373,7 @@ eine Namensänderung gemeldet wird.
             zuständigen Stellen
 
 
-        –   Jugendämter
+        –   Jugendämter und die Unterhaltsvorschussstellen
 
 
         –   deutsche Auslands-
@@ -3360,6 +3413,133 @@ eine Namensänderung gemeldet wird.
     *   D
 
 
+*    *   **7a**
+
+    *   Perso-
+        nen-
+        kreis
+
+    *   Zeitpunkt
+        der Über-
+        mittlung
+
+    *   Übermittlung
+        durch folgende
+        öffentliche Stellen
+        (§ 6 des AZR-Gesetzes)
+
+    *   Übermittlung/Weitergabe
+        an folgende Stellen
+
+
+*    *   Bezeichnung der Daten
+        (§ 3 des AZR-Gesetzes)
+
+
+*    *   § 3 Absatz 1 Nummer 6a in Verbindung mit § 2 Absatz 2 Nummer 3a
+
+    *
+    *
+    *
+    *   *§§ 15, 18a, 18b, 18d, 19 des AZR-Gesetzes*
+
+
+*    *   Bezug von existenzsichernden Leistungen
+
+    *
+    *
+    *
+        –   Bundesagentur für Arbeit und die für die Durchführung der
+            Grundsicherung für Arbeitsuchende zuständigen Stellen
+
+
+        –   Träger der Sozialhilfe
+
+
+        –   für die Durchführung des Asylbewerberleistungsgesetzes zuständige
+            Stellen
+
+
+        –   Jugendämter und die Unterhaltsvorschussstellen
+
+
+
+
+    *
+        –   Ausländerbehörden und mit der Durchführung ausländerrechtlicher
+            Vorschriften betraute öffentliche Stellen
+
+
+        –   Aufnahmeeinrichtungen oder Stellen nach § 88 Absatz 3 des Asylgesetzes
+
+
+        –   Bundesamt für Migration und Flüchtlinge
+
+
+        –   Träger der Sozialhilfe und für die Durchführung des
+            Asylbewerberleistungsgesetzes zuständige Stellen
+
+
+        –   Bundesagentur für Arbeit und die für die Durchführung der
+            Grundsicherung für Arbeitsuchende zuständigen Stellen
+
+
+        –   Jugendämter und die Unterhaltsvorschussstellen
+
+
+        –   Staatsangehörigkeitsbehörden
+
+
+
+
+
+*    *   a)
+
+    *   für die Erbringung von existenzsichernden Leistungen zuständige
+        Behörde
+
+    *
+    *   (2)
+
+
+*    *   b)
+
+    *   Leistungen nach
+        – AsylbLG
+        – SGB II
+        – SGB VIII
+        – SGB XII
+        – UhVorschG
+
+    *   (1)
+
+    *   (2)
+
+
+*    *   c)
+
+    *   Leistungsbezug
+        – Beginn
+        – Ende
+
+    *
+    *   (2)
+
+
+
+
+
+*    *   A
+
+    *   A1\*)
+
+    *   B\*\*)
+
+    *   C
+
+    *   D
+
+
 *    *   **8 (Teil I)**
 
     *   Perso-
@@ -3383,7 +3563,7 @@ eine Namensänderung gemeldet wird.
         (§ 3 des AZR-Gesetzes)
 
 
-*    *   § 3 Absatz 1 Nummer 3, 6 und 7 sowie Absatz 3f in Verbindung mit § 2
+*    *   § 3 Absatz 1 Nummer 3, 6 und 7 sowie Absatz 3d in Verbindung mit § 2
         Absatz 1a Nummer 1 und Absatz 2 Nummer 1
 
     *   (1)
@@ -3489,6 +3669,9 @@ eine Namensänderung gemeldet wird.
             –   Staatsanwaltschaften
 
 
+            –   Vollzugseinrichtungen
+
+
             –   Gerichte
 
 
@@ -3512,7 +3695,7 @@ eine Namensänderung gemeldet wird.
                 führung der Grundsicherung für Arbeitsuchende zuständigen Stellen
 
 
-            –   Jugendämter
+            –   Jugendämter und die Unterhaltsvorschussstellen
 
 
             –   Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung ihrer
@@ -3962,10 +4145,10 @@ eine Namensänderung gemeldet wird.
 
 *    *   y)
 
-    *   räumliche Beschränkung nach
-        aa)   § 56 Absatz 1 oder Absatz         2 AsylG
-        Bezirk der         Ausländerbehörde
-        kraft Gesetzes entstanden         am
+    *   Räumliche Beschränkung nach
+        aa)   § 56 Absatz 1 oder Absatz 2 AsylG
+        Bezirk der Ausländerbehörde
+        kraft Gesetzes entstanden am
         geändert am
         erlischt am
 
@@ -3976,8 +4159,8 @@ eine Namensänderung gemeldet wird.
 
 *    *
     *   bb)   § 59b Absatz 1 AsylG
-        Bezirk der         Ausländerbehörde
-        erteilt am
+        Bezirk der Ausländerbehörde
+        angeordnet am
         befristet bis
 
     *
@@ -4243,6 +4426,9 @@ eine Namensänderung gemeldet wird.
             stabe b
 
 
+        –   Vollzugseinrichtungen
+
+
         –   Gerichte zu Spalte A
             Buchstabe b
 
@@ -4273,7 +4459,7 @@ eine Namensänderung gemeldet wird.
             Spalte A Buchstabe b
 
 
-        –   Jugendämter zu
+        –   Jugendämter und die Unterhaltsvorschussstellen zu
             Spalte A Buchstabe b
 
 
@@ -4556,6 +4742,9 @@ eine Namensänderung gemeldet wird.
         –   Aufnahmeeinrichtungen
 
 
+        –   Bundesamt für Migration und Flüchtlinge
+
+
         –   Bundeskriminalamt
 
 
@@ -4607,6 +4796,9 @@ eine Namensänderung gemeldet wird.
 
 
         –   Staatsanwaltschaften
+
+
+        –   Vollzugseinrichtungen
 
 
         –   Statistisches Bundesamt
@@ -4674,14 +4866,14 @@ eine Namensänderung gemeldet wird.
         (§ 3 des AZR-Gesetzes)
 
 
-*    *   § 3 Absatz 1 Nummer 3, 6 und 7 sowie Absatz 3f in Verbindung mit § 2
-        Absatz 2 Nummer 3
+*    *   § 3 Absatz 1 Nummer 3, 6 und 7 sowie Absatz 3d in Verbindung mit § 2
+        Absatz 2 Nummer 2 und 3
 
     *
     *
     *
-    *   *§§ 15, 16, 17, 17a, 18, 18a, 18b, 18d, 18g, 19, 21, 23, 23a, 24a des
-        AZR-Gesetzes*
+    *   *§§ 15, 16, 17, 17a, 18, 18a, 18b, 18d, 18f, 18g, 19, 21, 23, 23a, 24a
+        des AZR-Gesetzes*
 
 
 *    *   Aufenthaltsstatus
@@ -4690,22 +4882,23 @@ eine Namensänderung gemeldet wird.
     *
     *   – Ausländerbehörden und mit der Durchführung ausländerrechtlicher
         Vorschriften betraute öffentliche Stellen
+        – Aufnahmeeinrichtungen zu Spalte A Buchstabe i
         – Bundespolizei und andere mit der polizeilichen Kontrolle des
         grenzüberschreitenden Verkehrs beauftragte Behörden zu Spalte A
-        Buchstaben d und e
+        Buchstabe d und e
 
     *
         I)  Die Daten zu Spalte A
-            Buchstabe b und c jeweils Doppelbuchstabe cc und dd werden nur an das
-            Bundeskriminalamt in seiner Funktion als SIRENE-Büro übermittelt.
+            Buchstabe b Doppelbuchstabe cc und dd und Buchstabe c Doppelbuchstabe
+            cc und dd werden nur an das Bundeskriminalamt in seiner Funktion als
+            SIRENE-Büro übermittelt.
 
 
             –   Ausländerbehörden und mit der Durchführung ausländerrechtlicher
                 Vorschriften betraute öffentliche Stellen
 
 
-            –   Aufnahmeeinrich-
-                tungen oder Stellen nach § 88 Absatz 3 des Asylgesetzes
+            –   Aufnahmeeinrichtungen oder Stellen nach § 88 Absatz 3 des Asylgesetzes
 
 
             –   Bundesamt für
@@ -4729,9 +4922,8 @@ eine Namensänderung gemeldet wird.
                 Arbeit zur Aufgabenerfüllung nach § 18 Absatz 1 des AZR-Gesetzes
 
 
-            –   deutsche Auslands-
-                vertretungen, das Bundesamt für Auswärtige Angelegenheiten und andere
-                öffentliche Stellen im Visaverfahren
+            –   deutsche Auslandsvertretungen, das Bundesamt für Auswärtige
+                Angelegenheiten und andere öffentliche Stellen im Visaverfahren
 
 
             –   Statistisches Bundesamt zu Spalte A Buchstabe a bis k
@@ -4780,7 +4972,8 @@ eine Namensänderung gemeldet wird.
     *   cc)
 
     *   Schengen-Identifikationsnummer für die Ausschreibung im Schengener
-        Informationssystem (Schengen-ID-Nummer)
+        Informationssystem                      (Schengen-
+        ID-Nummer)
 
     *
     *   (7)
@@ -4837,7 +5030,8 @@ eine Namensänderung gemeldet wird.
     *   cc)
 
     *   Schengen-Identifikationsnummer für die Ausschreibung im Schengener
-        Informationssystem (Schengen-ID-Nummer)
+        Informationssystem                      (Schengen-
+        ID-Nummer)
 
     *
     *   (7)
@@ -4890,13 +5084,14 @@ eine Namensänderung gemeldet wird.
     *   Schengen-Identifikationsnummer für die Ausschreibung im Schengener
         Informationssystem (Schengen-ID-Nummer)
 
-    *
+    *   (1)
+
     *   (7)
 
     *
     *
         II.
-            –   Für die Zuverlässigkeitsüberprüfung nach § 7 des
+            –   für die Zuverlässigkeitsüberprüfung nach § 7 des
                 Luftsicherheitsgesetzes zuständige Luftsicherheitsbehörden und für die
                 Zuverlässigkeitsüberprüfung nach § 12b des Atomgesetzes zuständige
                 atomrechtliche Genehmigungs- und Aufsichtsbehörden
@@ -4908,11 +5103,13 @@ eine Namensänderung gemeldet wird.
             –   Landeskriminalämter
 
 
-            –   Sonstige Polizeivoll-
-                zugsbehörden
+            –   sonstige Polizeivollzugsbehörden
 
 
             –   Staatsanwaltschaften
+
+
+            –   Vollzugseinrichtungen
 
 
             –   Gerichte
@@ -4926,7 +5123,8 @@ eine Namensänderung gemeldet wird.
 
 
             –   Bundesagentur für
-                Arbeit zur Aufgabenerfüllung nach § 18b des AZR-Gesetzes
+                Arbeit und die für die Grundsicherung für Arbeitsuchende zuständigen
+                Stellen zur Aufgabenerfüllung nach § 18b des AZR-Gesetzes
 
 
             –   Bundesagentur für
@@ -4934,26 +5132,22 @@ eine Namensänderung gemeldet wird.
                 Buchstabe a bis k
 
 
-            –   Die für die Grund-
-                sicherung für Arbeitsuchende zuständigen Stellen
+            –   Jugendämter und die Unterhaltsvorschussstellen
 
 
-            –   Jugendämter
+            –   Elterngeldstellen
+
+
+            –   Familienkassen
 
 
             –   Träger der Deutschen Rentenversicherung
 
 
-            –   Staatsangehörigkeit-
-                behörden
+            –   Staatsangehörigkeitsbehörden
 
 
             –   Zollkriminalamt
-
-
-            –   Zentralstelle für
-                Finanztransaktionsuntersuchungen zur Erfüllung ihrer Aufgaben nach §
-                28 Absatz 1 Satz 2 Nummer 2 des Geldwäschegesetzes
 
 
 
@@ -5002,8 +5196,7 @@ eine Namensänderung gemeldet wird.
         gültig bis
         ausstellende Behörde
 
-    *   (1)
-
+    *
     *   (2)
 
     *
@@ -5035,7 +5228,8 @@ eine Namensänderung gemeldet wird.
         gestellt am
 
     *
-    *   (1)\*
+    *[^F829919_01_BJNR069500995BJNE003681311]
+   (1)
 
     *
 
@@ -5045,7 +5239,7 @@ eine Namensänderung gemeldet wird.
         gestellt am
 
     *
-    *   (1)\*
+    *   (1)
 
     *
 
@@ -5055,7 +5249,7 @@ eine Namensänderung gemeldet wird.
         gestellt am
 
     *
-    *   (1)\*
+    *   (1)
 
     *
 
@@ -5073,6 +5267,19 @@ eine Namensänderung gemeldet wird.
 
     *
     *
+        *
+            –   Zentralstelle für
+                Finanztransaktionsuntersuchungen zur Erfüllung ihrer Aufgaben nach §
+                28
+                Absatz 1                                  Satz 2 Nummer 2 des
+                Geldwäschegesetzes
+
+
+
+
+
+
+
 
 *    *   l)
 
@@ -5105,6 +5312,7 @@ eine Namensänderung gemeldet wird.
 
     *
     *
+    *
 
 *    *   § 3 Absatz 4 Nummer 3, 6 und 7 in Verbindung mit § 2 Absatz 3 Nummer 3
         und 4
@@ -5116,7 +5324,7 @@ eine Namensänderung gemeldet wird.
 
     *   *§ 15 Absatz 1 Satz 1 Nummer 1 und 6, § 18 Absatz 1, §§ 21, 23 des
         AZR-Gesetzes*
-        – nur die zu Personenkreis (1) in Spalte D Nummer I genannten Stellen
+        – nur die zu Personenkreis (1) in Spalte D Ziffer I genannten Stellen
         –
 
 
@@ -5130,7 +5338,6 @@ eine Namensänderung gemeldet wird.
     *
 
 
-[^F827671_02_BJNR069500995BJNE003651311]
 
 
 
@@ -5169,14 +5376,15 @@ eine Namensänderung gemeldet wird.
     *
     *
     *
-    *   *§§ 15, 16, 17, 17a, 18, 18a, 18b, 18d, 18g, 19, 21, 23, 23a, 24a des
-        AZR-Gesetzes*
+    *   *§§ 15, 16, 17, 17a, 18, 18a, 18b, 18d, 18f, 18g, 19, 21, 23, 23a, 24a
+        des AZR-Gesetzes*
 
 
 *    *
         a)  Entscheidungen der
             Bundesagentur für
-            Arbeit über die Zustimmung zur Beschäftigung
+            Arbeit über die Zustimmung zur Beschäftigung nach § 39 AufenthG
+            (reguläres Verfahren)
 
             aa) Zustimmung der
                 Bundesagentur für Arbeit
@@ -5323,6 +5531,9 @@ eine Namensänderung gemeldet wird.
         –   Staatsanwaltschaften
 
 
+        –   Vollzugseinrichtungen
+
+
         –   Gerichte
 
 
@@ -5346,7 +5557,13 @@ eine Namensänderung gemeldet wird.
         –   Die für die Grundsicherung für Arbeitsuchende zuständigen Stellen
 
 
-        –   Jugendämter
+        –   Jugendämter und die Unterhaltsvorschussstellen
+
+
+        –   Elterngeldstellen
+
+
+        –   Familienkassen
 
 
         –   Träger der Deutschen
@@ -6127,7 +6344,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
 
 *    *
 
-*    *   § 3 Absatz 1 Nummer 3, 7 und Absatz 3c in Verbindung mit § 2 Absatz 2b
+*    *   § 3 Absatz 1 Nummer 3, 7 in Verbindung mit § 2 Absatz 2b
 
     *
     *
@@ -6142,7 +6359,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
     *
     *
 
-*    *   a)
+*    *   –
 
     *   Vorabzustimmung nach § 81a Absatz 3 Satz 1 Nummer 6 AufenthG
         ausgestellt am
@@ -6158,22 +6375,6 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
     *   die Ausländerbehörden, das Auswärtige Amt, deutsche
         Auslandsvertretungen und das Bundesamt für Auswärtige Angelegenheiten
 
-
-*    *   b)
-
-    *   erforderliche Dokumente zur Information nach § 81a Absatz 3 Satz 1
-        Nummer 5 AufenthG, insbesondere:
-        – Vorabzustimmung der Ausländerbehörde
-        – Urkunde über die erfolgreich abgeschlossene Berufs- oder
-        Hochschulausbildung
-        – Heiratsurkunde und/oder Geburtsurkunden von Kindern bei
-        Familiennachzug nach § 81a Absatz 4 AufenthG
-        – Namensänderungsurkunden und Sprachzertifikate
-
-    *
-    *
-    *
-    *
 
 
 
@@ -6191,7 +6392,9 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
 
 *    *   **9c**
 
-    *   Personenkreis
+    *   Perso-
+        nen-
+        kreis
 
     *   Zeitpunkt
         der Über-
@@ -6210,55 +6413,105 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
         (§ 3 des AZR-Gesetzes)
 
 
-*    *   § 3 Absatz 1 Nummer 3, 7 und Absatz 3d in Verbindung mit § 2 Absatz 2c
+*    *   § 3 Absatz 1 Nummer 3 und 7 in Verbindung mit § 2 Absatz 2c
 
     *
     *
     *
-    *   *§ 21 des AZR-Gesetzes*
+    *   *§§ 15, 18, 21 des AZR-Gesetzes*
 
 
-*    *   Zustimmung nach § 36 Absatz 3 der Beschäftigungsverordnung
+*    *   Entscheidungen der Bundesagentur für Arbeit
 
     *
     *
+    *   – Bundesagentur für Arbeit
+
     *
+        –   Ausländerbehörden
+
+
+        –   Bundespolizei und andere mit der polizeilichen Kontrolle des
+            grenzüberschreitenden Verkehrs beauftragte Behörden
+
+
+        –   Bundeskriminalamt
+
+
+        –   Landeskriminalamt
+
+
+        –   sonstige Polizeivollzugsbehörden des Bundes und der Länder
+
+
+        –   Behörden der Zollverwaltung
+
+
+        –   Bundesagentur für Arbeit
+
+
+        –   Auswärtiges Amt
+
+
+        –   deutsche Auslandsvertretungen
+
+
+        –   Bundesamt für Auswärtige Angelegenheiten
+
+
+
+
+
+*    *   a)
+
+    *   Zustimmung nach § 36 Absatz 3 BeschV
+        erteilt am
+        befristet bis
+
     *
-
-*    *
-        a)  Zustimmung nach
-            § 36 Absatz 3
-            der Beschäftigungsverordnung
-
-            ausgestellt am
-
-            gültig bis
+    *   (2)
 
 
-        b)  erforderliches Dokument:
-            Zustimmung nach § 36 Absatz 3 der Beschäftigungsverordnung
+*    *   b)
+
+    *   Einvernehmen nach § 15
+        BschV
+        erteilt am
+        befristet bis
+
+    *
+    *   (2)
 
 
+*    *   c)
 
+    *   Vermittlungsbestätigung nach § 14 BeschV
+        erteilt am
+        befristet bis
 
     *   (1)
 
-    *   (7)
+    *   (2)
 
-    *   Bundesagentur für Arbeit
+
+*    *   d)
+
+    *   Werkvertragsverfahren nach § 29 BeschV
+        erteilt am
+        befristet bis
 
     *
-        –   das Auswärtige Amt
+    *   (2)
 
 
-        –   deutsche Auslands-
-            vertretungen
+*    *   e)
 
+    *   Arbeitserlaubnis nach § 4a AufenthG
+        erteilt am
+        befristet bis
 
-        –   das Bundesamt für Auswärtige Angelegenheiten
-
-
-
+    *
+    *   (2)
 
 
 
@@ -6303,8 +6556,8 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
     *
     *
     *
-    *   *§§ 15, 16, 17, 17a, 18, 18a, 18b, 18d, 18g, 19, 21, 23, 23a des AZR-
-        Gesetzes*
+    *   *§§ 15, 16, 17, 17a, 18, 18a, 18b, 18d, 18f, 18g, 19, 21, 23, 23a des
+        AZR-Gesetzes*
 
 
 *    *   Aufenthaltserlaubnisse/Aufenthaltstitel
@@ -6388,6 +6641,9 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
             –   Staatsanwaltschaften
 
 
+            –   Vollzugseinrichtungen
+
+
             –   Gerichte
 
 
@@ -6415,7 +6671,13 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
                 führung der Grundsicherung für Arbeitsuchende zuständigen Stellen
 
 
-            –   Jugendämter
+            –   Jugendämter und die Unterhaltsvorschussstellen
+
+
+            –   Elterngeldstellen
+
+
+            –   Familienkassen
 
 
             –   Träger der Deutschen Rentenversicherung
@@ -6698,7 +6960,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
 *    *
     *   ii)
 
-    *   § 16d Absatz 4 Nummer 1 AufenthG
+    *   § 16d Absatz 4 Satz 1 Nummer 1 AufenthG
         (Anerkennung der Berufsqualifikation aufgrund einer Absprache der
         Bundesagentur für Arbeit bei reglementierten Berufen im Pflege- und
         Gesundheitsbereich)
@@ -6724,7 +6986,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
 *    *
     *   jj)
 
-    *   § 16d Absatz 4 Nummer 2 AufenthG
+    *   § 16d Absatz 4 Satz 1 Nummer 2 AufenthG
         (Anerkennung der Berufsqualifikation aufgrund einer Absprache der
         Bundesagentur für Arbeit bei sonstigen Berufen)
 
@@ -7480,7 +7742,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
     *   eee)
 
     *   § 10 Absatz 1 Nummer 2 und Absatz 2 BeschV,
-        internationaler Personalaustausch
+        Auslandsprojekte
 
     *
     *   (2)\*
@@ -8277,9 +8539,37 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
     *
     *   ddd)
 
-    *   § 19d Absatz 4 AufenthG
+    *   § 19d Absatz 4 in Verbindung mit Absatz 1 AufenthG
         (Aufenthaltserlaubnis nach Aufenthaltserlaubnis nach Kapitel 2
         Abschnitt 5 AufenthG)
+
+    *
+    *   (2)\*
+
+
+*    *
+    *
+    *
+    *   erteilt am
+
+    *
+    *
+
+*    *
+    *
+    *
+    *   befristet bis
+
+    *
+    *
+
+*    *
+    *
+    *   eee)
+
+    *   § 19d Absatz 1a AufenthG
+        (Aufenthaltserlaubnis für qualifizierte Geduldete im Anschluss an eine
+        Ausbildungsduldung)
 
     *
     *   (2)\*
@@ -8777,8 +9067,8 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
     *   hh)
 
     *   § 25 Absatz 1 AufenthG
-        (Asyl)
-        anerkannt am
+        (Asylberechtigung)
+        erteilt am
 
     *
     *   (2)\*
@@ -8795,8 +9085,8 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
     *   ii)
 
     *   § 25 Absatz 2 AufenthG
-        (GFK)
-        gewährt am
+        (Flüchtlingseigenschaft)
+        erteilt am
 
     *
     *   (2)\*
@@ -8814,7 +9104,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
 
     *   § 25 Absatz 2 AufenthG
         (subsidiärer Schutz)
-        gewährt am
+        erteilt am
 
     *
     *   (2)\*
@@ -9061,6 +9351,13 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
     *
     *   (2)\*
 
+
+*    *
+    *
+    *   befristet bis
+
+    *
+    *
 
 *    *   d)
 
@@ -10060,8 +10357,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
 *    *
     *   tt)
 
-    *   Artikel 20 AEUV (Unionsrechtliches Aufenthaltsrecht sui generis eines
-        drittstaatsangehörigen Elternteils eines deutschen Kindes)
+    *   Artikel 20 AEUV (Unionsrechtliches Aufenthaltsrecht sui generis)
 
     *
     *   (2)
@@ -10125,42 +10421,6 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
     *
     *
 
-*    *
-    *   ww)
-
-    *   dem Freizügigkeitsabkommen EG/Schweiz für freizügigkeitsberechtigte
-        Schweizerische Bürger
-        erteilt am
-
-    *
-    *   (2)\*
-
-
-*    *
-    *
-    *   befristet bis
-
-    *
-    *
-
-*    *
-    *   xx)
-
-    *   dem Freizügigkeitsabkommen EG/Schweiz für Angehörige von
-        freizügigkeitsberechtigten Schweizerischen Bürgern
-        erteilt am
-
-    *
-    *   (2)\*
-
-
-*    *
-    *
-    *   befristet bis
-
-    *
-    *
-
 *    *   § 3 Absatz 4 Nummer 3 und 7 in Verbindung mit § 2 Absatz 3 Nummer 3
 
     *
@@ -10181,7 +10441,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
 
 
 *    *
-        –   wie vorstehend ohne Buchstabe e Doppelbuchstabe vv bis xx –
+        –   wie vorstehend ohne Buchstabe e Doppelbuchstabe tt bis vv –
 
 
 
@@ -10198,7 +10458,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
 
 *    *   Aufenthaltserlaubnis
 
-        –   wie vorstehend ohne Buchstabe e Doppelbuchstabe vv bis xx –
+        –   wie vorstehend ohne Buchstabe e Doppelbuchstabe tt bis vv –
 
 
 
@@ -10263,8 +10523,8 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
 
     *
     *
-    *   *§§ 15, 16, 17, 17a, 18, 18a, 18b, 18d, 18g, 19, 21, 23, 23a des AZR-
-        Gesetzes*
+    *   *§§ 15, 16, 17, 17a, 18, 18a, 18b, 18d, 18f, 18g, 19, 21, 23, 23a des
+        AZR-Gesetzes*
 
 
 *    *   Niederlassungserlaubnis/unbefristeter Aufenthaltstitel nach
@@ -10307,6 +10567,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
             Spalte D Nummer I oder II aufgeführte Polizeivollzugsbehörden des
             Bundes
             – Staatsanwaltschaften
+            – Vollzugseinrichtungen
             – Gerichte
             – Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung
             ihrer Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des
@@ -10320,7 +10581,9 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
             Gesetzes
             – die für die Durchführung der Grundsicherung für Arbeitsuchende
             zuständigen Stellen
-            – Jugendämter
+            – Jugendämter und die Unterhaltsvorschussstellen
+            – Elterngeldstellen
+            – Familienkassen
             – Träger der Deutschen Rentenversicherung
             – Staatsangehörigkeitsbehörden
             – Zollkriminalamt
@@ -10533,26 +10796,6 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
     *   (2)\*
 
 
-*    *   u)
-
-    *   dem Freizügigkeitsabkommen EG/Schweiz für freizügigkeitsberechtigte
-        Schweizerische Bürger
-        erteilt am
-
-    *
-    *   (2)\*
-
-
-*    *   v)
-
-    *   dem Freizügigkeitsabkommen EG/Schweiz für Angehörige von
-        freizügigkeitsberechtigten Schweizerischen Bürgern
-        erteilt am
-
-    *
-    *   (2)\*
-
-
 *    *   § 3 Absatz 4 Nummer 3 und 7 in Verbindung mit § 2 Absatz 3 Nummer 3
 
     *   (2)
@@ -10570,7 +10813,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
         Aufgabenerfüllung nach § 23a des AZR-Gesetzes –
 
 
-*    *   – wie vorstehend ohne die Buchstaben r und s –
+*    *   – wie vorstehend –
 
 
 *    *   § 3 Absatz 4 Nummer 3 und 7 in Verbindung mit § 2 Absatz 3 Nummer 3
@@ -10592,11 +10835,10 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
     *   – nur die zu Personenkreis (1) in Spalte D Nummer I genannten Stellen
 
 
-*    *   – wie vorstehend ohne die Buchstaben r und s –
+*    *
 
 
-
-\* In diesen Fällen ist zugleich die Einreise in das Bundesgebiet zu
+   \* In diesen Fällen ist zugleich die Einreise in das Bundesgebiet zu
 melden, wenn die Einreise im Register noch nicht erfasst ist.
 
 
@@ -10640,11 +10882,12 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
     *
     *
     *
-    *   *§§ 15, 16, 17, 17a, 18, 18a, 18b, 18d, 18g, 19, 21, 23, 23a des AZR-
-        Gesetzes*
+    *   *§§ 15, 16, 17, 17a, 18, 18a, 18b, 18d, 18f, 18g, 19, 21, 23, 23a des
+        AZR-Gesetzes*
 
 
-*    *   Aufenthaltsrechte nach dem FreizügG/EU
+*    *   Aufenthaltsrechte nach dem FreizügG/EU bzw. dem Freizügigkeitsabkommen
+        EU/Schweiz
 
     *
     *
@@ -10731,6 +10974,9 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
             –   Staatsanwaltschaften
 
 
+            –   Vollzugseinrichtungen
+
+
             –   Gerichte
 
 
@@ -10753,7 +10999,13 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
                 Grundsicherung für Arbeitsuchende zuständigen Stellen
 
 
-            –   Jugendämter
+            –   Jugendämter und die Unterhaltsvorschussstellen
+
+
+            –   Elterngeldstellen
+
+
+            –   Familienkassen
 
 
             –   Träger der Deutschen
@@ -10828,7 +11080,27 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
     *   (2)\*
 
 
-*    *
+*    *   g)
+
+    *   Dokument nach § 78 Absatz 1 Satz 2 AufenthG (nach dem Abkommen
+        EU/Schweiz freizügigkeitsberechtigte Schweizer Bürger)
+        ausgestellt am
+        ausgestellt am
+
+    *
+    *   (2)\*
+
+
+*    *   h)
+
+    *   Dokument nach § 78 Absatz 1 Satz 2 AufenthG (Angehörige von nach dem
+        Abkommen EU/Schweiz freizügigkeitsberechtigten Schweizer Bürgern)
+        ausgestellt am
+        gültig bis
+
+    *
+    *   (2)\*
+
 
 *    *   § 3 Absatz 4 Nummer 3 und 7 in Verbindung mit § 2 Absatz 3 Nummer 3
 
@@ -10847,8 +11119,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
     *
     *
 
-*    *   Bescheinigung des Daueraufenthaltsrechts EU-/EWR-Bürger
-        erteilt am
+*    *   Bescheinigung des Daueraufenthaltsrechts EU-/EWR-Bürger ausgestellt am
 
     *   (3)
 
@@ -10904,13 +11175,13 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
         (§ 3 des AZR-Gesetzes)
 
 
-*    *   § 3 Absatz 1 Nummer 3 und 7 sowie Absatz 3f in Verbindung mit § 2
+*    *   § 3 Absatz 1 Nummer 3 und 7 sowie Absatz 3d in Verbindung mit § 2
         Absatz 2 Nummer 3
 
     *
     *
     *
-    *   *§§ 15, 16, 17, 17a, 18, 18a, 18b, 18d, 21, 23 des AZR-Gesetzes*
+    *   *§§ 15, 16, 17, 17a, 18, 18a, 18b, 18d, 18f, 21, 23 des AZR-Gesetzes*
 
 
 *    *   Ausweisung
@@ -10969,6 +11240,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
             – Bundeskriminalamt
             – Landeskriminalämter
             – Staatsanwaltschaften
+            – Vollzugseinrichtungen
             – Gerichte
             – Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung
             ihrer Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des
@@ -10980,7 +11252,9 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
             Gesetzes
             – die für die Durchführung der Grundsicherung für Arbeitsuchende
             zuständigen Stellen
-            – Jugendämter
+            – Jugendämter und die Unterhaltsvorschussstellen
+            – Elterngeldstellen
+            – Familienkassen
             – Zollkriminalamt
 
 
@@ -11013,12 +11287,12 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
 
 
 
-        Wirkung befristet bis
+        Wirkung befristet bis (nach freiwilliger Ausreise)
         für die Dauer von … Jahren/… Monaten ab Ausreise/Abschiebung
         sofort vollziehbar seit
 
     *
-    *   (3)
+    *   (2)
         (5)
         (7)
         (7)
@@ -11054,7 +11328,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
         sofort vollziehbar seit
 
     *
-    *   (3)
+    *   (2)
         (5)
         (7)
         (7)
@@ -11086,13 +11360,13 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
 
 
 
-        Wirkung befristet bis
+        Wirkung befristet bis (nach freiwilliger Ausreise)
         für die Dauer von … Jahren/… Monaten ab Ausreise/Abschiebung
         noch nicht vollziehbar
 
     *   (1)
 
-    *   (3)
+    *   (2)
         (5)
         (7)
         (7)
@@ -11128,7 +11402,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
         noch nicht vollziehbar
 
     *
-    *   (3)
+    *   (2)
         (5)
         (7)
         (7)
@@ -11160,12 +11434,12 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
 
 
 
-        Wirkung befristet bis
+        Wirkung befristet bis (nach freiwilliger Ausreise)
         für die Dauer von … Jahren/… Monaten ab Ausreise/Abschiebung
         unanfechtbar seit
 
     *
-    *   (3)
+    *   (2)
         (5)
         (7)
         (7)
@@ -11201,7 +11475,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
         unanfechtbar seit
 
     *
-    *   (3)
+    *   (2)
         (5)
         (7)
         (7)
@@ -11216,7 +11490,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
         unanfechtbar seit
 
     *
-    *   (3)
+    *   (2)
 
 
 *    *   h)
@@ -11227,7 +11501,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
         sofort vollziehbar seit
 
     *
-    *   (3)
+    *   (2)
 
 
 *    *   i)
@@ -11238,7 +11512,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
         noch nicht vollziehbar
 
     *
-    *   (3)
+    *   (2)
 
 
 *    *   j)
@@ -11249,7 +11523,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
         unanfechtbar seit
 
     *
-    *   (3)
+    *   (2)
 
 
 *    *   k)
@@ -11263,7 +11537,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
         sofort vollziehbar seit
 
     *
-    *   (3)
+    *   (2)
 
 
 *    *   l)
@@ -11277,7 +11551,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
         noch nicht vollziehbar
 
     *
-    *   (3)
+    *   (2)
 
 
 *    *   m)
@@ -11291,7 +11565,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
         unanfechtbar seit
 
     *
-    *   (3)
+    *   (2)
 
 
 *    *   n)
@@ -11302,7 +11576,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
         unanfechtbar seit
 
     *
-    *   (3)
+    *   (2)
 
 
 *    *   o)
@@ -11313,7 +11587,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
         sofort vollziehbar seit
 
     *
-    *   (3)
+    *   (2)
 
 
 *    *   p)
@@ -11324,7 +11598,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
         noch nicht vollziehbar
 
     *
-    *   (3)
+    *   (2)
 
 
 *    *   q)
@@ -11337,7 +11611,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
         noch nicht vollziehbar
 
     *
-    *   (3)
+    *   (2)
 
 
 *    *   r)
@@ -11350,7 +11624,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
         sofort vollziehbar seit
 
     *
-    *   (3)
+    *   (2)
 
 
 *    *   s)
@@ -11363,7 +11637,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
         unanfechtbar seit
 
     *
-    *   (3)
+    *   (2)
 
 
 *    *   § 3 Absatz 4 Nummer 3 und 7 in Verbindung mit § 2 Absatz 3 Nummer 3
@@ -11458,25 +11732,30 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
         (§ 3 des AZR-Gesetzes)
 
 
-*    *   § 3 Absatz 1 Nummer 3 und 7 sowie Absatz 3f in Verbindung mit § 2
+*    *   § 3 Absatz 1 Nummer 3 und 7 sowie Absatz 3d in Verbindung mit § 2
         Absatz 2 Nummer 3
 
-    *   (1)
-
     *
     *
     *
-    *   *§§ 15, 16, 17, 17a, 18, 18a, 18b, 18d, 21, 23 des AZR-Gesetzes*
+    *
+    *   *§§ 15, 16, 17, 17a, 18, 18a, 18b, 18d, 18f, 21, 23 des AZR-Gesetzes*
 
 
 *    *   Abschiebung (mit Ausnahme der Abschiebung im Sinne des § 71 Absatz 3
         Nummer 1a und 1b AufenthG)
 
     *
+    *
     *   – Ausländerbehörden und mit der Durchführung ausländerrechtlicher
         Vorschriften betraute öffentliche Stellen
         – Bundesamt für Migration und Flüchtlinge zu Spalte A Buchstabe c und
         e
+        – mit grenzpolizeilichen Aufgaben betraute Behörden zu Spalte A
+        Buchstabe b
+        – in der Rechtsverordnung nach § 58 Absatz 1 des Bundespolizeigesetzes
+        bestimmte Bundespolizeibehörde zu Spalte A Buchstabe b
+        – Abschiebungshafteinrichtungen zu Spalte A Buchstabe g
 
     *   Die Daten zu Spalte A Buchstabe c bis f jeweils Doppelbuchstabe cc und
         dd werden nur an das Bundeskriminalamt in seiner Funktion als SIRENE-
@@ -11502,13 +11781,16 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
         – Bundeskriminalamt
         – Landeskriminalämter
         – Staatsanwaltschaften
+        – Vollzugseinrichtungen
         – Gerichte
         – Behörden der Zollverwaltung
         – Träger der Sozialhilfe und für die Durchführung des
         Asylbewerberleistungsgesetzes zuständige Stellen
         – die für die Durchführung der Grundsicherung für Arbeitsuchende
         zuständigen Stellen
-        – Jugendämter
+        – Jugendämter und die Unterhaltsvorschussstellen
+        – Elterngeldstellen
+        – Familienkassen
         – Statistisches Bundesamt zu Spalte A Buchstabe a bis i
         – Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung
         ihrer Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des
@@ -11523,6 +11805,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
         zugestellt am
         Frist bis
 
+    *
     *   (3)
 
 
@@ -11531,6 +11814,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
     *   Ausreisepflicht
         vollziehbar seit
 
+    *
     *
 
 *    *   c)
@@ -11567,6 +11851,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
 
 
 
+    *
     *   (5)
         (7)
         (7)
@@ -11606,6 +11891,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
 
 
 
+    *
     *   (5)
         (7)
         (7)
@@ -11647,6 +11933,8 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
 
 
 
+
+    *   (1)
 
     *   (5)
         (7)
@@ -11690,6 +11978,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
 
 
 
+    *
     *   (5)
         (7)
         (7)
@@ -11697,34 +11986,49 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
 
 *    *   g)
 
+    *   Freiheitsentziehung nach den §§ 62, 62b, 62c AufenthG oder Artikel 28
+        der Verordnung (EU) Nr. 604/2013
+        von … bis …
+        anordnendes Gericht
+
+    *
+    *   (5)
+
+
+*    *   h)
+
     *
         *   Abschiebung aufgrund Ausweisung
 
             vollzogen am
 
+            Wirkung befristet bis
 
 
 
-    *   (4)
-
-
-*    *   h)
-
-    *   Abschiebung
-        vollzogen am
-        Wirkung befristet bis
-        für die Dauer von … Jahren/… Monaten ab Abschiebung
-
-    *   (4)
 
     *
+    *   (4)
+
 
 *    *   i)
 
     *   Abschiebung
         vollzogen am
+        Wirkung befristet bis
+
+    *
+    *   (4)
+
+    *
+
+*    *   j)
+
+    *   Abschiebung
+        vollzogen am
         Wirkung unbefristet
 
+    *
     *   (4)
 
 
@@ -11786,14 +12090,14 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
         (§ 3 des AZR-Gesetzes)
 
 
-*    *   § 3 Absatz 1 Nummer 3 und 7 sowie Absatz 3f in Verbindung mit § 2
+*    *   § 3 Absatz 1 Nummer 3 und 7 sowie Absatz 3d in Verbindung mit § 2
         Absatz 2 Nummer 3
 
     *   (1)
 
     *
     *
-    *   *§§ 15, 16, 17, 17a, 18, 18a, 18b, 21, 23 des AZR-Gesetzes*
+    *   *§§ 15, 16, 17, 17a, 18, 18a, 18b, 18d, 18f, 21, 23 des AZR-Gesetzes*
 
 
 *    *   Einreise- und Aufenthaltsverbot
@@ -11801,15 +12105,15 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
     *
     *   – Ausländerbehörden und mit der Durchführung ausländerrechtlicher
         Vorschriften betraute öffentliche Stellen
-        – Bundesamt für Migration und Flüchtlinge zu Spalte A Buchstabe c bis
-        e
+        – Bundesamt für Migration und Flüchtlinge zu Spalte A Buchstabe d bis
+        f
         – mit grenzpolizeilichen Aufgaben betraute Behörden zu Spalte A
         Buchstabe a
         – in der Rechtsverordnung nach § 58 Absatz 1 des Bundespolizeigesetzes
         bestimmte Bundespolizeibehörde zu Spalte A Buchstabe a
 
     *
-    *   Die Daten zu Spalte A Buchstabe a bis d jeweils Doppelbuchstabe cc und
+    *   Die Daten zu Spalte A Buchstabe a bis e jeweils Doppelbuchstabe cc und
         dd werden nur an das Bundeskriminalamt in seiner Funktion als SIRENE-
         Büro übermittelt.
         – Ausländerbehörden
@@ -11831,7 +12135,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
 *    *   a)
 
     *   nach § 11 Absatz 1 und 2 AufenthG
-        wegen Ausweisung, Zurückschiebung oder Abschiebung
+        wegen Ausweisung, Zurückschiebung, Zurückweisung oder Abschiebung
         angeordnet am
 
         aa) zugestellt am
@@ -11873,6 +12177,52 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
 
 *    *   b)
 
+    *
+        *   nach § 11 Absatz 1 und 2 in Verbindung mit Absatz 5b AufenthG wegen
+            Ausweisung, Zurückschiebung oder Abschiebung
+
+            angeordnet am
+
+            aa) zugestellt am
+
+
+            bb) unanfechtbar seit
+
+
+            cc) Schengen-Identifikationsnummer für die Ausschreibung im Schengener
+                Informationssystem (Schengen-ID-Nummer)
+
+
+            dd) Art der der Ausschreibung zugrundeliegenden Straftat
+
+                –   Strafvorschrift
+
+
+                –   rechtliche Bezeichnung der Tat
+
+
+                –   Art und Höhe der Strafe
+
+
+
+
+
+
+            Wirkung unbefristet
+
+
+
+
+    *   (2)
+        (5)
+        (6)
+        (7)
+        (7)
+
+    *
+
+*    *   c)
+
     *   nach § 11 Absatz 6 AufenthG wegen erheblicher und schuldhafter
         Überschreitung der Frist zur freiwilligen Ausreise
         angeordnet am
@@ -11913,7 +12263,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
 
     *
 
-*    *   c)
+*    *   d)
 
     *   nach § 11 Absatz 7 Satz 1 Nummer 1
         AufenthG bei bestandskräftig als offensichtlich unbegründet
@@ -11968,16 +12318,20 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
         – Bundeskriminalamt
         – Landeskriminalämter
         – Staatsanwaltschaften
+        – Vollzugseinrichtungen
         – Gerichte
         – Behörden der Zollverwaltung
         – Träger der Sozialhilfe und für die Durchführung des
         Asylbewerberleistungsgesetzes zuständige Stellen
         – die für die Durchführung der Grundsicherung für Arbeitsuchende
         zuständigen Stellen
-        – Statistisches Bundesamt zu Spalte A Buchstabe a bis f
+        – Jugendämter und die Unterhaltsvorschussstellen
+        – Elterngeldstellen
+        – Familienkassen
+        – Statistisches Bundesamt
 
 
-*    *   d)
+*    *   e)
 
     *   nach § 11 Absatz 7 Satz 1 Nummer 2
         AufenthG nach wiederholt abgelehntem Asylfolge- oder -zweitantrag
@@ -12020,7 +12374,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
 
     *
 
-*    *   e)
+*    *   f)
 
     *   nach § 11 Absatz 9 AufenthG
         wegen Einreise- und Aufenthaltsverbot
@@ -12079,7 +12433,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
     *
     *
     *
-    *   *§§ 15, 16, 17, 17a, 18, 18a, 18b, 18d, 21, 23 des AZR-Gesetzes*
+    *   *§§ 15, 16, 17, 17a, 18, 18a, 18b, 18d, 18f, 21, 23 des AZR-Gesetzes*
 
 
 *    *   Einschränkung/Untersagung der politischen Betätigung
@@ -12130,6 +12484,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
         – Bundeskriminalamt
         – Landeskriminalämter
         – Staatsanwaltschaften
+        – Vollzugseinrichtungen
         – Gerichte
         – Behörden der Zollverwaltung
         – Bundesagentur für Arbeit
@@ -12137,7 +12492,9 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
         Asylbewerberleistungsgesetzes zuständige Stellen
         – die für die Durchführung der Grundsicherung für Arbeitsuchende
         zuständigen Stellen
-        – Jugendämter
+        – Jugendämter und die Unterhaltsvorschussstellen
+        – Elterngeldstellen
+        – Familienkassen
         – Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung
         ihrer Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des
         Geldwäschegesetzes
@@ -12210,7 +12567,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
     *
     *
     *
-    *   *§§ 15, 16, 17, 17a, 18, 18a, 18b, 18d, 21 des AZR-Gesetzes*
+    *   *§§ 15, 16, 17, 17a, 18, 18a, 18b, 18d, 18f, 21 des AZR-Gesetzes*
 
 
 *    *   Überwachungsmaßnahmen bei ausgewiesenen Ausländern nach § 56 AufenthG
@@ -12221,7 +12578,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
         Vorschriften betraute öffentliche Stellen
 
     *
-        *   – Ausländerbehörden
+        *   – Ausländerbehörden
             – Aufnahmeeinrichtungen oder Stellen nach § 88 Absatz 3 des
             Asylgesetzes
             – Bundesamt für Migra-
@@ -12253,6 +12610,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
             – Bundeskriminalamt
             – Landeskriminalämter
             – Staatsanwaltschaften
+            – Vollzugseinrichtungen
             – Gerichte
             – Behörden der Zollver-
             waltung
@@ -12260,7 +12618,9 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
             Asylbewerberleistungsgesetzes zuständige Stellen
             – die für die Durchführung der Grundsicherung für Arbeitsuchende
             zuständigen Stellen
-            – Jugendämter
+            – Jugendämter und die Unterhaltsvorschussstellen
+            – Elterngeldstellen
+            – Familienkassen
             – Zollkriminalamt
 
 
@@ -12355,7 +12715,8 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
     *
     *
     *
-    *   *§§ 15, 16, 17, 17a, 18, 18a, 18b, 19, 21, 23, 23a des AZR-Gesetzes*
+    *   *§§ 15, 16, 17, 17a, 18, 18a, 18b, 18d, 18f, 18g, 19, 21, 23, 23a des
+        AZR-Gesetzes*
 
 
 *    *   Duldung
@@ -12379,6 +12740,9 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
         –   Ausländerbehörden und
             mit der Durchführung ausländerrechtlicher Vorschriften betraute
             öffentliche Stellen zu Spalte A Buchstabe a bis p, r und s
+
+
+        –   Aufnahmeeinrichtungen zu Spalte A Buchstabe a bis p, r und s
 
 
         –   mit grenzpolizeilichen
@@ -12551,6 +12915,9 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
         –   Staatsanwaltschaften
 
 
+        –   Vollzugseinrichtungen
+
+
         –   Gerichte
 
 
@@ -12587,7 +12954,13 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
             der Grundsicherung für Arbeitsuchende zuständigen Stellen
 
 
-        –   Jugendämter
+        –   Jugendämter und die Unterhaltsvorschussstellen
+
+
+        –   Elterngeldstellen
+
+
+        –   Familienkassen
 
 
         –   Statistisches Bundesamt
@@ -13028,7 +13401,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
     *
     *
     *
-    *   *§§ 15, 16, 17, 17a, 18, 18a, 18b, 18d, 21 des AZR-Gesetzes*
+    *   *§§ 15, 16, 17, 17a, 18, 18a, 18b, 18d, 18f, 21 des AZR-Gesetzes*
 
 
 *    *   – Ausreiseverbot
@@ -13075,6 +13448,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
             Spalte D Nummer I oder II aufgeführte Polizeivollzugsbehörden des
             Bundes
             – Staatsanwaltschaften
+            – Vollzugseinrichtungen
             – Gerichte
             – Behörden der Zollver-
             waltung
@@ -13084,7 +13458,9 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
             Gesetzes
             – die für die Durchführung der Grundsicherung für Arbeitsuchende
             zuständigen Stellen
-            – Jugendämter
+            – Jugendämter und die Unterhaltsvorschussstellen
+            – Elterngeldstellen
+            – Familienkassen
             – Zollkriminalamt
             – Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung
             ihrer Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des
@@ -13182,7 +13558,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
     *
     *
     *
-    *   *§§ 15, 16, 17, 18, 18a, 18b, 18d, 21 des AZR-Gesetzes*
+    *   *§§ 15, 16, 17, 18, 18a, 18b, 18d, 18f, 21 des AZR-Gesetzes*
 
 
 *    *   Passrechtliche Maßnahmen (Kapitel 2 Abschnitt 1 AufenthV)
@@ -13209,13 +13585,16 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
         – Landeskriminalämter
         – sonstige Polizeivollzugsbehörden
         – Staatsanwaltschaften
+        – Vollzugseinrichtungen
         – Gerichte
         – Bundesagentur für Arbeit und Behörden der Zollverwaltung
         – Träger der Sozialhilfe und für die Durchführung des
         Asylbewerberleistungsgesetzes zuständige Stellen
         – die für die Durchführung der Grundsicherung für Arbeitsuchende
         zuständigen Stellen
-        – Jugendämter
+        – Jugendämter und die Unterhaltsvorschussstellen
+        – Elterngeldstellen
+        – Familienkassen
         – deutsche Auslandsvertretungen, das Bundesamt für Auswärtige
         Angelegenheiten und andere öffentliche Stellen im Visaverfahren
         – Statistisches Bundesamt
@@ -13300,7 +13679,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
         (§ 3 des AZR-Gesetzes)
 
 
-*    *   § 3 Absatz 1 Nummer 3 und 7 sowie Absatz 3f in Verbindung mit § 2
+*    *   § 3 Absatz 1 Nummer 3 und 7 sowie Absatz 3d in Verbindung mit § 2
         Absatz 2 Nummer 3
 
     *   (1)
@@ -13308,7 +13687,8 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
     *
     *
     *
-    *   *§§ 15, 16, 17, 17a, 18, 18a, 18b, 18d, 21, 23, 24a des AZR-Gesetzes*
+    *   *§§ 15, 16, 17, 17a, 18, 18a, 18b, 18d, 18f, 21, 23, 24a des AZR-
+        Gesetzes*
 
 
 *    *   Zurückweisung, Zurückschiebung und Abschiebung im Sinne des § 71
@@ -13316,13 +13696,13 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
 
     *
     *   – Ausländerbehörden und mit der Durchführung ausländerrechtlicher
-        Vorschriften betraute öffentliche Stellen zu Spalte A Buchstabe d bis
-        g
+        Vorschriften betraute öffentliche Stellen zu Spalte A Buchstabe e bis
+        h
         – mit grenzpolizeilichen Aufgaben betraute Behörden
         – in der Rechtsverordnung nach § 58 Absatz 1 des Bundespolizeigesetzes
         bestimmte Bundespolizeibehörde
 
-    *   Die Daten zu Spalte A Buchstabe b und c jeweils Doppelbuchstabe cc und
+    *   Die Daten zu Spalte A Buchstabe c und d jeweils Doppelbuchstabe cc und
         dd werden nur an das Bundeskriminalamt in seiner Funktion als SIRENE-
         Büro übermittelt.
         – Ausländerbehörden
@@ -13346,13 +13726,16 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
         – Bundeskriminalamt
         – Landeskriminalämter
         – Staatsanwaltschaften
+        – Vollzugseinrichtungen
         – Gerichte
         – Behörden der Zollverwaltung
         – Träger der Sozialhilfe und für die Durchführung des
         Asylbewerberleistungsgesetzes zuständige Stellen
         – die für die Durchführung der Grundsicherung für Arbeitsuchende
         zuständigen Stellen
-        – Jugendämter
+        – Jugendämter und die Unterhaltsvorschussstellen
+        – Elterngeldstellen
+        – Familienkassen
         – Statistisches Bundesamt
         – Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung
         ihrer Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des
@@ -13368,6 +13751,19 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
 
 
 *    *   b)
+
+    *
+        *   zurückgewiesen am
+            mit EAV nach § 11 Absatz 1 Satz 2 AufenthG
+            befristet bis
+
+
+
+
+    *   (4)
+
+
+*    *   c)
 
     *   Ausreiseaufforderung vom
         Frist bis
@@ -13403,7 +13799,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
         (7)
 
 
-*    *   c)
+*    *   d)
 
     *   Abschiebung angedroht am
 
@@ -13442,16 +13838,15 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
         (7)
 
 
-*    *   d)
+*    *   e)
 
     *   zurückgeschoben am
         Wirkung befristet bis
-        für die Dauer von … Jahren/… Monaten ab Zurückschiebung
 
     *   (4)
 
 
-*    *   e)
+*    *   f)
 
     *   zurückgeschoben am
         Wirkung unbefristet
@@ -13459,16 +13854,15 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
     *   (4)
 
 
-*    *   f)
+*    *   g)
 
     *   abgeschoben am
         Wirkung befristet bis
-        für die Dauer von … Jahren/… Monaten ab Abschiebung
 
     *   (4)
 
 
-*    *   g)
+*    *   h)
 
     *   abgeschoben am
         Wirkung unbefristet
@@ -13599,6 +13993,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
     *   – Landeskriminalämter
         – sonstige Polizeivollzugsbehörden
         – Staatsanwaltschaften
+        – Vollzugseinrichtungen
         – Gerichte
 
 
@@ -13676,6 +14071,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
         – Bundeskriminalamt
         – Landeskriminalämter
         – Staatsanwaltschaften
+        – Vollzugseinrichtungen
         – Gerichte
 
 
@@ -13867,6 +14263,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
             Spalte D Nummer I oder II aufgeführte Polizeivollzugsbehörden des
             Bundes
             – Staatsanwaltschaften
+            – Vollzugseinrichtungen
             – Gerichte
             – Zollkriminalamt
             – Behörden der Zollverwaltung
@@ -13996,6 +14393,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
         – Landeskriminalämter
         – sonstige Polizeivollzugsbehörden
         – Staatsanwaltschaften
+        – Vollzugseinrichtungen
         – Gerichte
         – deutsche Auslandsvertretungen, das Bundesamt für Auswärtige
         Angelegenheiten und andere öffentliche Stellen im Visaverfahren
@@ -14138,6 +14536,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
         – Landeskriminalämter
         – sonstige Polizeivollzugsbehörden
         – Staatsanwaltschaften
+        – Vollzugseinrichtungen
 
 
 *    *   b)
@@ -14232,6 +14631,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
         – Landeskriminalämter
         – sonstige Polizeivollzugsbehörden
         – Staatsanwaltschaften
+        – Vollzugseinrichtungen
         – Gerichte
         – deutsche Auslandsvertretungen, das Bundesamt für Auswärtige
         Angelegenheiten und andere öffentliche Stellen im Visaverfahren
@@ -14324,6 +14724,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
         – Landeskriminalämter
         – sonstige Polizeivollzugsbehörden
         – Staatsanwaltschaften
+        – Vollzugseinrichtungen
         – Gerichte
         – deutsche Auslandsvertretungen, das Bundesamt für Auswärtige
         Angelegenheiten und andere öffentliche Stellen im Visaverfahren
@@ -14418,6 +14819,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
         – Landeskriminalämter
         – sonstige Polizeivollzugsbehörden
         – Staatsanwaltschaften
+        – Vollzugseinrichtungen
         – Gerichte
         – deutsche Auslandsvertretungen, das Bundesamt für Auswärtige
         Angelegenheiten und andere öffentliche Stellen im Visaverfahren
@@ -14511,6 +14913,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
         – Landeskriminalämter
         – sonstige Polizeivollzugsbehörden
         – Staatsanwaltschaften
+        – Vollzugseinrichtungen
         – Gerichte
         – deutsche Auslandsvertretungen, das Bundesamt für Auswärtige
         Angelegenheiten und andere öffentliche Stellen im Visaverfahren
@@ -14601,6 +15004,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
         – Landeskriminalämter
         – sonstige Polizeivollzugsbehörden
         – Staatsanwaltschaften
+        – Vollzugseinrichtungen
         – Gerichte
         – deutsche Auslandsvertretungen, das Bundesamt für Auswärtige
         Angelegenheiten und andere öffentliche Stellen im Visaverfahren
@@ -15166,8 +15570,6 @@ Abschnitt II
 
 
 *    *   **35**
-        Bezeichnung der Daten
-        (§ 29 AZR-Gesetz)
 
     *   Zeitpunkt
         der Über-
@@ -15183,6 +15585,10 @@ Abschnitt II
         (§ 32 AZR-Gesetz)
 
 
+*    *   Bezeichnung der Daten
+        (§ 29 AZR-Gesetz)
+
+
 *    *   § 29 Absatz 1 Nummer 1
 
     *
@@ -15192,13 +15598,29 @@ Abschnitt II
 *    *   – Geschäftszeichen der Registerbehörde
         (Visadatei-Nummer)
 
-    *[^f756180_08_BJNR069500995BJNE003651311]
+    *[^f756180_08_BJNR069500995BJNE003681311]
    (7)
 
-    *   – Zuspeicherung durch die
-        Registerbehörde
+    *
+        –   Zuspeicherung durch dieRegisterbehörde
 
-    *   – Ausländerbehörden
+
+
+
+    *   Angaben zum Verpflichtungsgeber sowie die Verpflichtungserklärung als
+        Dokument (§ 29 Absatz 1 Nummer 10) werden nur an die
+        Ausländerbehörden, die in der Rechtsverordnung nach § 58 Absatz 1 des
+        Bundespolizeigesetzes bestimmte Bundespolizeibehörde und andere mit
+        der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs
+        beauftragte Behörden, die deutschen Auslandsvertretungen, das
+        Bundesamt für Auswärtige Angelegenheiten und andere öffentliche
+        Stellen im Visumverfahren, die Träger der Sozialhilfe, die für die
+        Durchführung des Asylbewerberleistungsgesetzes zuständigen Stellen und
+        die für die Durchführung der Grundsicherung für Arbeitsuchende
+        zuständigen Stellen übermittelt.
+        – Ausländerbehörden
+        – Aufnahmeeinrichtungen oder Stellen nach § 88 Absatz 3 des
+        Asylgesetzes
         – in der Rechtsverordnung nach § 58 Abs. 1 des
         Bundespolizeigesetzes bestimmte Bundespolizeibehörde
         – andere mit der polizeilichen Kontrolle des
@@ -15216,6 +15638,7 @@ Abschnitt II
         – Militärischer Abschirmdienst
         – Gerichte
         – Staatsanwaltschaften
+        – Vollzugseinrichtungen
         – Bundesagentur für Arbeit und Behörden der Zollverwaltung
         – deutsche Auslandsvertretungen, das Bundesamt für Auswärtige
         Angelegenheiten und andere öffentliche Stellen im Visumverfahren
@@ -15235,18 +15658,51 @@ Abschnitt II
 
     *   (7)
 
-    *   – Zuspeicherung durch die
-        Registerbehörde
+    *
+        –   Zuspeicherung durch die
+            Registerbehörde
+
+
+
 
 
 *    *   § 29 Absatz 1 Nummer 2
 
     *
-    *   – Auslandsvertretungen und das Bundesamt für Auswärtige
-        Angelegenheiten
-        – mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs
-        betraute Behörden
-        – Ausländerbehörden
+    *
+        –   Auslandsvertretungen und das Bundesamt für Auswärtige Angelegenheiten
+
+
+        –   mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs
+            betraute Behörden
+
+
+        –   Ausländerbehörden
+
+
+        –   Träger der Sozialhilfe zu Spalte A zu § 29 Absatz 1 Nummer 10
+            Buchstabe f Doppelbuchstabe ff und Buchstabe g Doppelbuchstabe cc
+
+
+        –   die für die Durchführung der Grundsicherung für Arbeitsuchende
+            zuständigen Stellen zu Spalte A zu § 29 Absatz 1 Nummer 10 Buchstabe f
+            Doppelbuchstabe ff und Buchstabe g Doppelbuchstabe cc
+
+
+        –   die Jugendämter zu Spalte A zu § 29 Absatz 1 Nummer 10 Buchstabe f
+            Doppelbuchstabe ff und Buchstabe g Doppelbuchstabe cc
+
+
+        –   die Unterhaltsvorschussstellen zu Spalte A zu § 29 Absatz 1 Nummer 10
+            Buchstabe f Doppelbuchstabe ff und Buchstabe g Doppelbuchstabe cc
+
+
+        –   für die Durchführung des Asylbewerberleistungsgesetzes zuständige
+            Stellen zu Spalte A zu § 29 Absatz 1 Nummer 10 Buchstabe f
+            Doppelbuchstabe ff und Buchstabe g Doppelbuchstabe cc
+
+
+
 
 
 *    *   Visa erteilende Behörde
@@ -15328,7 +15784,7 @@ Abschnitt II
 
 *    *   g)
 
-    *   Geschlecht
+    *   Geschlechtseintrag
 
     *   (7)
 
@@ -15415,7 +15871,7 @@ Abschnitt II
 
     *   Antrag abgelehnt
 
-    *[^f756180_09_BJNR069500995BJNE003651311]
+    *[^f756180_09_BJNR069500995BJNE003681311]
    (2)
 
     *
@@ -15595,11 +16051,91 @@ Abschnitt II
 
 *    *   c)
 
-    *   Stelle, bei der sie
-        vorliegt
+    *   Verpflichtungserklärung nach § 66 Absatz 2 AufenthG und § 68 Absatz 1
+        AufenthG
+        abgegeben am
 
     *   (7)
 
+    *
+    *
+
+*    *   d)
+
+    *   Stelle, bei der sie vorliegt zu Buchstabe a bis c
+
+    *   (7)
+
+    *
+    *
+
+*    *   e)
+
+    *   Dokument zu Buchstabe a bis c
+
+    *   (7)
+
+    *
+    *
+
+*    *   f)
+
+    *   Verpflichtungsgeber (natürliche Person) zu Buchstabe a bis c
+
+    *   (7)
+
+    *
+    *
+
+*    *
+    *
+        aa) Familienname
+
+
+        bb) Vornamen
+
+
+        cc) Geburtsdatum
+
+
+        dd) Geburtsort
+
+
+        ee) Anschrift im Bundesgebiet
+
+
+        ff) erfolglose Inanspruchnahme nach Aufwendung öffentlicher Mittel
+
+
+
+
+    *
+    *
+    *
+
+*    *   g)
+
+    *   Verpflichtungsgeber (juristische Person) zu Buchstabe a bis c
+
+    *   (7)
+
+    *
+    *
+
+*    *
+    *
+        aa) Name
+
+
+        bb) Anschrift im Bundesgebiet
+
+
+        cc) erfolglose Inanspruchnahme nach Aufwendung öffentlicher Mittel
+
+
+
+
+    *
     *
     *
 
@@ -15673,7 +16209,8 @@ Abschnitt II
 
 *    *   Entscheidungen der
         Bundesagentur für Arbeit über die Zustimmung zur Beschäftigung/Fest-
-        stellung zustimmungsfreier Beschäftigung
+        stellung zustimmungsfreier Beschäftigung nach § 39 AufenthG (reguläres
+        Verfahren)
 
     *
     *
@@ -15851,24 +16388,78 @@ Abschnitt III
 
 
 *    *
-        a)  Entscheidungen des
-            Bundesamtes für Migration und Flüchtlinge über Anerkennung, Ablehnung
-            oder Aufhebung des Schutzstatus zu den Tabellen 8 (Teil I), 14, 14a im
-            Abschnitt I
+        a)  Tenor der Entscheidungen des Bundesamtes für Migration und Flüchtlinge
+            sowie der gerichtlichen Entscheidungen in asylrechtlichen Verfahren,
+            mit denen ein Schutzstatus nach dem Asylgesetz zuerkannt oder ein
+            Abschiebungsverbot nach § 60 Absatz 5 oder 7 AufenthG festgestellt
+            oder jeder dieser Schutzstatus ohne eine Rückkehrentscheidung
+            abgelehnt wird, zu Tabelle 8 (Teil I) im Abschnitt I
 
 
-        b)  aufenthaltsrechtliche
-            Entscheidungen, die eine vollziehbare Ausreisepflicht begründen zu den
-            Tabellen 13, 14, 14a, 16, 20 im Abschnitt I
+        b)  Entscheidungen des Bundesamtes für Migration und Flüchtlinge, die mit
+            einer Rückkehrentscheidung oder Entscheidung zu einem Einreise- und
+            Aufenthaltsverbot einhergehen oder entsprechende gerichtliche
+            Entscheidungen in einem asylrechtlichen Verfahren zu den Tabellen 14,
+            14a im Abschnitt I
 
 
-        c)  Gerichtliche Entscheidungen
-            in asyl- oder aufenthaltsrechtlichen Verfahren zu den Tabellen 8 (Teil
-            I), 13, 14 im Abschnitt I
+        c)  aufenthaltsrechtliche
+            Entscheidungen im Zusammenhang mit einer Ausweisung, Abschiebung,
+            Zurückweisung oder Zurückschiebung zu den Tabellen 13, 14, 14a, 16, 20
+            im Abschnitt I
 
 
         d)  Einschränkung oder
             Untersagung der politischen Betätigung zu Tabelle 15 im Abschnitt I
+
+
+        e)  Verlust des Rechts auf
+            Einreise und Aufenthalt nach dem FreizügG/EU zu Tabellen 13 und 16 im
+            Abschnitt I
+
+
+        f)  Einreisebedenken
+            zu Tabelle 21 im Abschnitt I
+
+
+        g)  Ausweis- oder
+            Identifikationsdokumente
+            zu Tabelle 4 im Abschnitt I
+
+
+        h)  Information nach § 81a Absatz 3 Satz 1 Nummer 6 AufenthG zu Tabelle 9b
+            im Abschnitt I, insbesondere:
+
+            –   Vorabzustimmung der Ausländerbehörde
+
+
+            –   Urkunde über die erfolgreich abgeschlossene Berufs- oder
+                Hochschulausbildung
+
+
+            –   Heiratsurkunde und/oder Geburtsurkunden von Kindern bei
+                Familiennachzug nach § 81a Absatz 4 AufenthG
+
+
+            –   Namensänderungsurkunden und Sprachzertifikate
+
+
+
+
+
+        i)  Entscheidungen der Bundesagentur für Arbeit im Sinne des § 2 Absatz 2c
+            des AZR-Gesetzes zu Tabelle 9c im Abschnitt I
+
+            –   Entscheidung der Bundesagentur für Arbeit
+
+
+            –   Erklärung zum Beschäftigungsverhältnis
+
+
+            –   arbeitsvertragliche Vereinbarungen
+
+
+
 
 
 
@@ -15879,6 +16470,9 @@ Abschnitt III
         –   Ausländerbehörden und
             mit der Durchführung ausländerrechtlicher Vorschriften betraute
             öffentliche Stellen
+
+
+        –   Aufnahmeeinrichtungen
 
 
         –   Bundesamt für Migration
@@ -15893,9 +16487,19 @@ Abschnitt III
             Bundespolizeibehörde
 
 
+        –   Bundesagentur für Arbeit
+
+
 
 
     *
+        *   Dokumente zu Spalte A Buchstabe b werden nur an die Ausländerbehörden,
+            das Bundesamt für Migration und Flüchtlinge, die Bundespolizei und
+            andere mit der polizeilichen Kontrolle des grenzüberschreitenden
+            Verkehrs beauftragte Behörden sowie an sonstige
+            Polizeivollzugsbehörden des Bundes und der Länder übermittelt.
+
+
         –   Ausländerbehörden
 
 
@@ -15928,30 +16532,10 @@ Abschnitt III
         –   sonstige Polizeivollzugsbehörden
 
 
-
-
-
-*    *
-        e)  Verlust des Rechts auf
-            Einreise und Aufenthalt nach dem FreizügG/EU zu Tabellen 13 und 16 im
-            Abschnitt I
-
-
-        f)  Einreisebedenken
-            zu Tabelle 21 im Abschnitt I
-
-
-        g)  Ausweis- oder
-            Identifikationsdokumente
-            zu Tabelle 4 im Abschnitt I
-
-
-
-
-    *
-    *
-    *
         –   Staatsanwaltschaften
+
+
+        –   Vollzugseinrichtungen
 
 
         –   Gerichte
@@ -15979,20 +16563,16 @@ Abschnitt III
 
 
         –   Zollkriminalamt zu Spalte A
-            Buchstabe b, d, e und g
+            Buchstabe c, d, e, und g
 
 
         –   die Zentralstelle für
-            Finanztransaktionsuntersuchungen zu Spalte A Buchstaben a bis e und g
+            Finanztransaktionsuntersuchungen zu Spalte A Buchstabe a, c bis e und
+            g
 
 
 
-
-
-*    *
-    *
-    *
-    *   hinsichtlich freizügigkeitsberechtigter Unionsbürger:
+        hinsichtlich freizügigkeitsberechtigter Unionsbürger:
 
         –   mit ausländer- oder asylrechtlichen Aufgaben betraute Behörden nur zur
             Durchführung solcher Aufgaben
@@ -16052,7 +16632,7 @@ Abschnitt III
 
 
     Bei Antrag auf Erteilung eines Visums.
-[^f756180_08_BJNR069500995BJNE003651311]:     Bei Visumentscheidung.
-[^f756180_09_BJNR069500995BJNE003651311]:     In diesen Fällen ist zugleich die Einreise in das Bundesgebiet zu
+[^f756180_08_BJNR069500995BJNE003681311]:     Bei Visumentscheidung.
+[^f756180_09_BJNR069500995BJNE003681311]:     In diesen Fällen ist zugleich die Einreise in das Bundesgebiet zu
     melden, wenn die Einreise im Register noch nicht erfasst ist.
-[^F827671_02_BJNR069500995BJNE003651311]: 
+[^F829919_01_BJNR069500995BJNE003681311]: 

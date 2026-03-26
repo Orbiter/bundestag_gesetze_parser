@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 18.11.2004 I 2855;
 
 Zuletzt geändert durch
-:   Art. 87 G v. 29.3.2017 I 626
+:   Art. 58 G v. 23.10.2024 I Nr. 323
 
 
 ## § 1 Beginn und Ende des Anspruchs
@@ -116,7 +116,7 @@ Während der Elternzeit darf die Soldatin oder der Soldat mit
 Zustimmung des Bundesministeriums der Verteidigung oder der von ihm
 beauftragten Stelle eine Teilzeitbeschäftigung außerhalb des
 Soldatenverhältnisses ausüben, wenn die Teilzeitbeschäftigung den
-Umfang von 30 Stunden in der Woche nicht überschreitet.
+Umfang von 32 Stunden in der Woche nicht überschreitet.
 
 
 ## § 5 (weggefallen)

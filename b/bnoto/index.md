@@ -16,8 +16,10 @@ Fundstelle
 :   RGBl I: 1937, 191
 
 Zuletzt geändert durch
-:   Art. 3 G v. 20.12.2023 I Nr. 389
+:   Art. 12 G v. 23.10.2024 I Nr. 323
 
+Änderung durch
+:   Art. 2 G v. 10.12.2025 I Nr. 320 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Teil 1 - Das Amt des Notars
@@ -1178,7 +1180,9 @@ sowie Teilhypotheken- und Teilgrundschuldbriefe auszustellen.
 durchzuführen. Eine Versteigerung beweglicher Sachen sollen sie nur
 vornehmen, wenn diese durch die Versteigerung unbeweglicher Sachen
 oder durch eine von dem Notar beurkundete oder vermittelte
-Vermögensauseinandersetzung veranlaßt ist.
+Vermögensauseinandersetzung veranlaßt ist. Öffentlich erfolgende
+freiwillige Versteigerungen nach Satz 1 gelten als öffentliche
+Versteigerungen im Sinne des Bürgerlichen Gesetzbuchs.
 
 (4) Die Notare sind auch zur Vermittlung nach den Bestimmungen des
 Sachenrechtsbereinigungsgesetzes zuständig.
@@ -1252,6 +1256,10 @@ die Anfertigung von Urkundenentwürfen und die Beratung der
 Beteiligten. Der Notar ist auch, soweit sich nicht aus anderen
 Vorschriften Beschränkungen ergeben, in diesem Umfange befugt, die
 Beteiligten vor Gerichten und Verwaltungsbehörden zu vertreten.
+Insbesondere ist der Notar, der Erklärungen im Zusammenhang mit einer
+Unternehmensgründung beurkundet oder beglaubigt, befugt, für die
+Beteiligten Anzeigen zu erstatten, Mitteilungen vorzunehmen und
+Anträge zu stellen, die im Zusammenhang mit der Gründung stehen.
 
 (2) Nimmt ein Anwaltsnotar Handlungen der in Absatz 1 bezeichneten Art
 vor, so ist anzunehmen, daß er als Notar tätig geworden ist, wenn die
@@ -1490,11 +1498,14 @@ feststellt oder begründeten Anlass zu der Annahme hat, dass
     Person bekannt geworden sind,
 
 
-3.  Wissensdaten oder andere Vorkehrungen, die zum Schutz des
+3.  Wissensdaten oder andere Vorkehrungen, die zum Schutz des Zentralen
+    Vorsorgeregisters, des Zentralen Testamentsregisters, des
     Elektronischen Urkundenarchivs, des Elektronischen
-    Notariatsaktenspeichers, des Zentralen Vorsorgeregisters oder des
-    Zentralen Testamentsregisters vor unbefugtem Zugang vorgesehen sind,
-    missbraucht, manipuliert oder Unbefugten zugänglich geworden sind.
+    Notariatsaktenspeichers, des besonderen elektronischen
+    Notariatspostfachs, des Videokommunikationssystems für
+    Urkundstätigkeiten oder des Signatursystems nach § 78 Absatz 1 Satz 2
+    Nummer 11 vor unbefugtem Zugang vorgesehen sind, missbraucht,
+    manipuliert oder Unbefugten zugänglich geworden sind.
 
 
 
@@ -1503,11 +1514,9 @@ Sperrung des qualifizierten Zertifikats bei dem
 Vertrauensdiensteanbieter zu veranlassen und den Nachweis über die
 Sperrung mit der Mitteilung nach Satz 1 vorzulegen. Im Fall des Satzes
 1 Nummer 3 hat die Notarkammer unverzüglich die Bundesnotarkammer zu
-unterrichten, wenn Anlass zu der Annahme besteht, dass die Sicherheit
-des Elektronischen Urkundenarchivs, des Elektronischen
-Notariatsaktenspeichers, des Zentralen Vorsorgeregisters oder des
-Zentralen Testamentsregisters auch im Hinblick auf die von anderen
-Stellen übermittelten oder verwahrten Daten betroffen ist.
+unterrichten, wenn die Sicherheit der dort genannten Einrichtungen
+auch im Hinblick auf die von anderen Stellen übermittelten oder
+verwahrten Daten betroffen sein könnte.
 
 
 ### Abschnitt 4a - Führung der Akten und Verzeichnisse
@@ -2442,7 +2451,7 @@ natürlichen Person abzugeben, so ist das Dokument mit einer
 qualifizierten elektronischen Signatur der Person zu versehen oder von
 ihr zu signieren und selbst zu versenden. Ein besonderes
 elektronisches Behördenpostfach steht dem besonderen elektronischen
-Notarpostfach im Sinne des Satzes 1 gleich.
+Notarpostfach nach Satz 1 gleich.
 
 
 #### § 64d Übermittlung von Daten
@@ -2835,13 +2844,10 @@ Anordnungen können im Laufe des Jahres nur geändert werden, wenn dies
 wegen Überlastung der Abteilung oder infolge Wechsels oder dauernder
 Verhinderung einzelner Mitglieder der Abteilung erforderlich wird.
 
-(4) Der Vorstand kann die Abteilungen ermächtigen, ihre Sitzungen
-außerhalb des Sitzes der Notarkammer abzuhalten.
-
-(5) Die Abteilungen besitzen innerhalb ihrer Zuständigkeit die Rechte
+(4) Die Abteilungen besitzen innerhalb ihrer Zuständigkeit die Rechte
 und Pflichten des Vorstandes.
 
-(6) Anstelle der Abteilung entscheidet der Vorstand, wenn er es für
+(5) Anstelle der Abteilung entscheidet der Vorstand, wenn er es für
 angemessen hält oder wenn die Abteilung oder ihr Vorsitz es beantragt.
 
 
@@ -2922,6 +2928,56 @@ Kammerversammlung mit kürzerer Frist einberufen werden.
 
 
 
+
+
+#### § 71a Durchführung der Kammerversammlung
+
+(1) Die Kammerversammlung findet vorbehaltlich des Absatzes 2 in
+Präsenz aller Beteiligten am Ort der Versammlung statt.
+
+(2) Die Satzung der Notarkammer kann vorsehen, dass die
+Kammerversammlung auch wie folgt stattfinden kann:
+
+1.  in Präsenz und gleichzeitig online (hybride Kammerversammlung) oder
+
+
+2.  ausschließlich online (virtuelle Kammerversammlung).
+
+
+
+Das Nähere zu hybriden und virtuellen Kammerversammlungen bestimmt die
+Satzung. Die Satzung kann dabei vorsehen, dass bestimmte Gegenstände
+nicht in hybriden oder virtuellen Kammerversammlungen behandelt werden
+dürfen. In der Satzung soll insbesondere geregelt werden, ob und
+gegebenenfalls unter welchen Voraussetzungen eine Aufzeichnung der
+Versammlung zulässig ist. Sofern die Satzung keine abweichende
+Regelung trifft, bestimmt der Präsident die Form der Kammerversammlung
+bei deren Einberufung.
+
+(3) Sieht die Satzung der Notarkammer hybride oder virtuelle
+Kammerversammlungen vor, so dürfen diese nur abgehalten werden, wenn
+die folgenden Bedingungen eingehalten werden:
+
+1.  in der Einberufung muss angegeben werden, wie sich die Mitglieder
+    online zur Versammlung zuschalten können,
+
+
+2.  die gesamte Versammlung muss in Bild und Ton übertragen werden,
+
+
+3.  die online teilnehmenden Mitglieder müssen ihr Stimmrecht entweder
+    während der Versammlung elektronisch oder im Anschluss an die
+    Versammlung durch schriftliche Stimmabgabe ausüben können und
+
+
+4.  die Rechte der Mitglieder nach diesem Gesetz und nach der Satzung der
+    Notarkammer müssen gewahrt werden.
+
+
+
+Bei einer virtuellen Kammerversammlung muss in der Einberufung darauf
+hingewiesen werden, dass die Versammlung ausschließlich online
+stattfindet.
 
 
 #### § 72 Regelung durch Satzung
@@ -3081,9 +3137,14 @@ Aufgaben zu erfüllen. Sie hat insbesondere
 9.  die besonderen elektronischen Notarpostfächer (§ 78n) einzurichten;
 
 
-10. ein Videokommunikationssystem zu betreiben, das die Vornahme von
-    Urkundstätigkeiten mittels Videokommunikation nach den §§ 16a bis 16e
-    und 40a des Beurkundungsgesetzes (§ 78p) ermöglicht.
+10. das Videokommunikationssystem für Urkundstätigkeiten (§ 78p) zu
+    betreiben;
+
+
+11. ein Signatursystem bereitzustellen, das das Signieren elektronischer
+    Niederschriften nach § 13a des Beurkundungsgesetzes und die
+    Beglaubigung elektronischer Unterschriften und elektronischer
+    Handzeichen nach § 40b des Beurkundungsgesetzes ermöglicht.
 
 
 
@@ -3928,9 +3989,14 @@ Gegenstand, der nicht innerhalb der in der Satzung für die Einberufung
 vorgesehenen Fristen mitgeteilt wurde, kann nur mit Zustimmung aller
 Notarkammern Beschluss gefasst werden.
 
-(3) Beschlüsse der Generalversammlung können auch ohne Zusammenkunft
-gefasst werden, wenn nicht mehr als drei Notarkammern widersprechen.
-Abstimmungen sind schriftlich durchzuführen.
+(3) Die Satzung der Bundesnotarkammer kann in entsprechender Anwendung
+des § 71a Absatz 2 vorsehen, dass die Generalversammlung auch als
+hybride oder virtuelle Generalversammlung stattfinden kann. In diesem
+Fall gilt § 71a Absatz 3 entsprechend.
+
+(4) Beschlüsse der Generalversammlung können auch ohne Sitzung gefasst
+werden, wenn nicht mehr als drei Notarkammern widersprechen.
+Abstimmungen außerhalb von Sitzungen sind schriftlich durchzuführen.
 
 
 #### § 86 Zusammensetzung und Beschlussfassung der Generalversammlung

@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2005, 1867
 
 Zuletzt geändert durch
-:   Art. 27 V v. 19.6.2020 I 1328
+:   Art. 1 V v. 21.10.2024 I Nr. 319
 
 
 
@@ -128,7 +128,8 @@ Diese Verordnung tritt am 1. Juli 2005 in Kraft.
 
 ## Anlage (zu § 1)
 
-Fundstelle des Originaltextes: BGBl. I 2005, 1868 - 1869
+(Fundstelle des Originaltextes: BGBl. I 2005, 1868 - 1869;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   **1.**
 
@@ -764,10 +765,6 @@ Fundstelle des Originaltextes: BGBl. I 2005, 1868 - 1869
 
 *    *
     *   Friedrichshafen-Hafen
-
-
-*    *
-    *   Friedrichshafen-Löwenthal (Flughafen)
 
 
 *    *

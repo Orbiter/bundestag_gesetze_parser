@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2015, 2465
 
 Zuletzt geändert durch
-:   Art. 16 G v. 9.7.2021 I 2444
-
-Änderung durch
-:   Art. 24 G v. 22.12.2023 I Nr. 414 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 3 G v. 27.2.2025 I Nr. 72
 
 
 ## Eingangsformel
@@ -56,7 +53,9 @@ soweit Mehrarbeit geleistet wird im Rahmen eines Dienstes
 
 
 2.  aus zwingenden dienstlichen Gründen nicht durch Dienstbefreiung
-    innerhalb eines Jahres ausgeglichen werden kann und
+    innerhalb eines Jahres ausgeglichen werden kann, wobei die Frist für
+    Soldaten in den Streitkräften auf sechs Monate verkürzt werden kann,
+    und
 
 
 3.  die sich aus der regelmäßigen wöchentlichen Arbeitszeit ergebende
@@ -145,7 +144,7 @@ Vollzeitbeschäftigten hinausgeht, wird nach § 3 vergütet.
 
 ## § 5 Ausschluss des Anspruchs
 
-Die Vergütung wird nicht gewährt neben
+(1) Die Vergütung wird nicht gewährt neben
 
 1.  einer Vergütung nach § 50a des Bundesbesoldungsgesetzes,
 
@@ -154,6 +153,25 @@ Die Vergütung wird nicht gewährt neben
 
 
 3.  einer Vergütung nach der Sanitätsdienstvergütungsverordnung.
+
+
+
+
+(2) Abweichend von Absatz 1 Nummer 2 kann eine Mehrarbeitsvergütung
+neben Auslandsdienstbezügen nach § 52 des Bundesbesoldungsgesetzes für
+soldatische Tätigkeiten in den Streitkräften gewährt werden, wenn eine
+Dienstbefreiung aus den folgenden Gründen nicht möglich ist:
+
+1.  Sicherstellung der militärischen Einsatzbereitschaft im Rahmen der
+    Landes- und Bündnisverteidigung,
+
+
+2.  Teilnahme an angeordnetem Dienst außerhalb des Grundbetriebs nach §
+    30c Absatz 4 des Soldatengesetzes oder
+
+
+3.  dienstlich notwendige Teilnahme an militärfachlichen und
+    laufbahnspezifischen Ausbildungen.
 
 
 

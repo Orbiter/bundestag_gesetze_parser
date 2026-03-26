@@ -28,6 +28,9 @@ Zuletzt geändert durch
 Änderung durch
 :   Art. 1 Nr. 2 iVm Anlage 2 bis 4 V v. 11.3.2024 II Nr. 97 mWv 1.12.2024 noch nicht berücksichtigt
 
+Änderung durch
+:   Art. 1 Nr. 1 iVm Anlage 1 bis 6 V v. 5.8.2025 II Nr. 216 mWv 1.12.2025 u. 1.1.2026 u. 1.12.2026 noch nicht berücksichtigt
+
 
 ## Inhaltsverzeichnis
 
@@ -3671,6 +3674,7 @@ von weniger als 20,00 m aufweist
     *        ![bgbl2_1994_j0027_ab_0030.jpg](bgbl2_1994_j0027_ab_0030.jpg)
 
 
+
    Bezeichnung der Fähren in Fahrt
 
 ###### § 3.16 (Anlage 3  Bild 34, 35, 36)
@@ -3745,6 +3749,7 @@ besitzen
     *        ![bgbl2_1994_j0028_ab_0030.jpg](bgbl2_1994_j0028_ab_0030.jpg)
 
 
+
    Zusätzliche Bezeichnung manövrierunfähiger Fahrzeuge in Fahrt
 
 ###### § 3.18 (Anlage 3: Bild 38)
@@ -3804,6 +3809,7 @@ besitzen
 
 
 
+
 Bezeichnung der Schwimmkörper und schwimmenden Anlagen in Fahrt
 
 ###### § 3.19 (Anlage 3  Bild 39)
@@ -3818,6 +3824,7 @@ Bezeichnung der Schwimmkörper und schwimmenden Anlagen in Fahrt
         ihre Umrisse kenntlich zu machen.
 
     *        ![bgbl2_1994_j0029_ab_0020.jpg](bgbl2_1994_j0029_ab_0020.jpg)
+
 
 
 
@@ -3920,6 +3927,7 @@ bestimmter gefährlicher Güter
     *        ![bgbl2_1994_j0030_ab_0060.jpg](bgbl2_1994_j0030_ab_0060.jpg)
 
 
+
    Bezeichnung der Fähren, die an ihrer Anlegestelle stilliegen
 
 ###### § 3.22 (Anlage 3  Bild 45, 46)
@@ -3975,6 +3983,7 @@ bestimmter gefährlicher Güter
 
 
 
+
 Bezeichnung bestimmter stilliegender Fischereifahrzeuge und der Netze
 oder Ausleger
 
@@ -4022,6 +4031,7 @@ oder Ausleger
         machen.
 
     *        ![bgbl2_1994_j0032_ab_0020.jpg](bgbl2_1994_j0032_ab_0020.jpg)
+
 
 
    Bezeichnung schwimmender Geräte bei der Arbeit sowie festgefahrener
@@ -4290,6 +4300,7 @@ Anlagen, deren Anker die Schiffahrt gefährden können, und ihrer Anker
 
 
 
+
 #### Abschnitt III. - Sonstige Bezeichnung
 
 
@@ -4307,6 +4318,7 @@ Anlagen, deren Anker die Schiffahrt gefährden können, und ihrer Anker
 
 *    *        ![bgbl2_1994_j0035_ab_0050.jpg](bgbl2_1994_j0035_ab_0050.jpg)
     *        ![bgbl2_1994_j0035_ab_0060.jpg](bgbl2_1994_j0035_ab_0060.jpg)
+
 
 
    Zusätzliche Bezeichnung der Fahrzeuge in Fahrt, die Arbeiten im
@@ -4327,6 +4339,7 @@ Fahrwasser ausführen
 
 *    *        ![bgbl2_2020_j0354_0010.jpg](bgbl2_2020_j0354_0010.jpg)
     *        ![bgbl2_2020_j0354_0020.jpg](bgbl2_2020_j0354_0020.jpg)
+
 
 
    Schutz gegen Wellenschlag
@@ -4400,6 +4413,7 @@ Fahrwasser ausführen
 
 
 
+
 Notzeichen
 
 ##### § 3.30 (Anlage 3  Bild 59)
@@ -4444,6 +4458,7 @@ Notzeichen
 
 
 
+
 Hinweis auf das Verbot, das Fahrzeug zu betreten
 
 ##### § 3.31 (Anlage 3 Bild 60)
@@ -4480,6 +4495,7 @@ Hinweis auf das Verbot, das Fahrzeug zu betreten
     *   Die Symbole, die nach der am 30. November 2011 gültigen Fassung der
         Rheinschifffahrtspolizeiverordnung vorgeschrieben waren, dürfen bis
         zum 30. November 2015 verwendet werden.
+
 
 
 
@@ -4537,6 +4553,7 @@ verwenden
 
 
 
+
 Hinweis auf das Verbot des Stilliegens nebeneinander
 
 ##### § 3.33 (Anlage 3  Bild 62)
@@ -4573,16 +4590,6 @@ Hinweis auf das Verbot des Stilliegens nebeneinander
 
     *   Dieser Paragraph gilt nicht für die in § 3.21 genannten Fahrzeuge,
         Schubverbände und gekuppelten Fahrzeuge.
-
-
-
-
-2.  Bei Nacht müssen die Tafeln so beleuchtet sein, daß sie an beiden
-    Seiten des Fahrzeugs deutlich sichtbar sind.
-
-
-3.  Dieser Paragraph gilt nicht für die in § 3.21 genannten Fahrzeuge,
-    Schubverbände und gekuppelten Fahrzeuge.
 
 
 
@@ -5234,6 +5241,7 @@ Begegnen  Grundregeln
 
 
 
+
 ##### § 6.05 Begegnen Ausnahmen von den Grundregeln
 
 
@@ -5382,6 +5390,7 @@ absprechen.
 
 
 
+
 ##### § 6.09 Überholen Allgemeine Bestimmungen
 
 
@@ -5491,6 +5500,7 @@ absprechen.
 
 
 
+
 #### Abschnitt III. - Weitere Regeln für die Fahrt
 
 
@@ -5519,6 +5529,7 @@ absprechen.
     *
     *        ![bgbl2_1994_j0046_ab_0050.jpg](bgbl2_1994_j0046_ab_0050.jpg)
     *        ![bgbl2_1994_j0046_ab_0060.jpg](bgbl2_1994_j0046_ab_0060.jpg)
+
 
 
 
@@ -5574,6 +5585,7 @@ absprechen.
         wobei dieser Paragraph zu beachten ist.
 
     *        ![bgbl2_1994_j0047_ab_0010.jpg](bgbl2_1994_j0047_ab_0010.jpg)
+
 
 
 
@@ -5695,6 +5707,7 @@ Schleppverbandes hineinzufahren.
 
 
 
+
 ##### § 6.17 Fahrt auf gleicher Höhe, Verbot der Annäherung an Fahrzeuge
 
 
@@ -5738,6 +5751,7 @@ Schleppverbandes hineinzufahren.
         A.6 (Anlage 7) gekennzeichnet sind.
 
     *        ![bgbl2_1994_j0049_ab_0010.jpg](bgbl2_1994_j0049_ab_0010.jpg)
+
 
 
 
@@ -5832,6 +5846,7 @@ Schleppverbandes hineinzufahren.
 
 
 
+
 ##### § 6.21 Zusammenstellung der Verbände
 
 
@@ -5843,11 +5858,11 @@ Schleppverbandes hineinzufahren.
 2.  Fahrzeuge mit Maschinenantrieb dürfen, außer im Fall der Rettung oder
     Hilfeleistung in Notfällen, nur dann zum Schleppen, zum Schieben oder
     zur Fortbewegung gekuppelter Fahrzeuge verwendet werden, wenn dies in
-    ihrem Schiffsattest zugelassen ist. Das Fahrzeug mit Maschinenantrieb,
-    das bei gekuppelten Fahrzeugen die Hauptantriebskraft stellt, muß sich
-    an der Steuerbordseite befinden. Wenn jedoch ein oder mehrere
-    Schubleichter mitgeführt wird oder werden, darf einer an der
-    Steuerbordseite gekuppelt werden.
+    ihrem Schiffsattest zugelassen ist. Werden in einem Schubverband oder
+    bei gekuppelten Fahrzeugen ein oder mehrere Fahrzeuge mitgeführt,
+    dürfen diese sich sowohl an der Backbordseite als auch an der
+    Steuerbordseite des Fahrzeugs mit Maschinenantrieb, das den Verband
+    fortbewegt, befinden.
 
 
 3.  Fahrgastschiffe, die Fahrgäste an Bord haben, dürfen nicht längsseits
@@ -5907,6 +5922,7 @@ festgefahrenen oder gesunkenen Fahrzeugen
 
     *
     *        ![bgbl2_1994_j0050_ab_0050.jpg](bgbl2_1994_j0050_ab_0050.jpg)
+
 
 
 
@@ -5988,6 +6004,7 @@ festgefahrenen oder gesunkenen Fahrzeugen
 
 
 
+
 ##### § 6.25 Durchfahrt unter festen Brücken
 
 
@@ -6042,6 +6059,7 @@ festgefahrenen oder gesunkenen Fahrzeugen
     *   Sind bestimmte Öffnungen fester Brücken nach Nummer 2 gekennzeichnet,
         kann die Schiffahrt die nicht gekennzeichneten Öffnungen nur auf
         eigene Gefahr benutzen.
+
 
 
 
@@ -6246,6 +6264,7 @@ d)  Beim Ankern, Schleifenlassen von Ketten, Fieren von Tauen, Festmachen
 
 
 
+
 ##### § 6.28a Schleuseneinfahrt und -ausfahrt
 
 
@@ -6353,6 +6372,7 @@ d)  Beim Ankern, Schleifenlassen von Ketten, Fieren von Tauen, Festmachen
     *   Werden keine Signallichter oder keine Tafelzeichen gezeigt, ist die
         Einfahrt in die Schleuse oder die Ausfahrt aus der Schleuse ohne
         besondere Anordnung der Schleusenaufsicht verboten.
+
 
 
 
@@ -6724,6 +6744,7 @@ d)  Sobald ein Fahrzeug den langen Ton eines anderen Fahrzeugs hört, mit
 
 
 
+
 #### § 7.03 Ankern und Benutzung von Ankerpfählen
 
 
@@ -6766,6 +6787,7 @@ d)  Sobald ein Fahrzeug den langen Ton eines anderen Fahrzeugs hört, mit
         Ankerpfähle benutzen, die durch das Tafelzeichen E.6.1 (Anlage 7)
         gekennzeichnet sind, und nur auf der Seite der Wasserstraße, auf der
         das Tafelzeichen steht.
+
 
 
 
@@ -6813,6 +6835,7 @@ d)  Sobald ein Fahrzeug den langen Ton eines anderen Fahrzeugs hört, mit
 
 
 
+
 #### § 7.05 Liegestellen
 
 
@@ -6853,6 +6876,7 @@ d)  Sobald ein Fahrzeug den langen Ton eines anderen Fahrzeugs hört, mit
         angegeben ist.
 
     *        ![bgbl2_1994_j0061_ab_0020.jpg](bgbl2_1994_j0061_ab_0020.jpg)
+
 
 
 
@@ -6908,6 +6932,7 @@ d)  Sobald ein Fahrzeug den langen Ton eines anderen Fahrzeugs hört, mit
         Stillliegens ausschließlich eine Energieversorgung nutzen, welche
         keine Geräusche sowie keine gasförmigen Schadstoffe und
         luftverunreinigenden Partikel verursacht.
+
 
 
 
@@ -7557,6 +7582,7 @@ e)  solange Fahrgäste an Bord sind, muß nachts jede Stunde ein
 
 
 
+
 #### § 9.03 Vorbeifahrt an der Fähre Seltz-Plittersdorf
 
 Für die Vorbeifahrt an der Fähre Seltz-Plittersdorf (km 340,35) gilt §
@@ -7795,7 +7821,7 @@ Für die Vorbeifahrt an der Fähre Seltz-Plittersdorf (km 340,35) gilt §
 
 Zwischen Bingen (km 530,00) und St. Goar (km 556,00) ist die Fahrt
 nachts nur Fahrzeugen erlaubt, die Sprechfunk auf den Kanälen 10
-(Schiff-Schiff) und 18 bzw. 24 und in der Talfahrt Radar benutzen.
+(Schiff-Schiff) oder 04 und in der Talfahrt Radar benutzen.
 
 
 #### § 9.09 Beschränkung der Schifffahrt zwischen Bad Salzig (km 564,30) und Gorinchem (km 952,50)
@@ -7974,19 +8000,13 @@ halten. Die §§ 6.04 und 6.05 gelten nicht.
 #### § 10.01 Beschränkung der Schiffahrt bei Hochwasser oberhalb der Spyck'schen Fähre
 
 
-*    *   1.
+1.  Zwischen der Mittleren Rheinbrücke in Basel (km 166,53) und den
+    Schleusen Kembs (km 179,10) sowie zwischen den Schleusen Iffezheim (km
+    334,00) und der Spyck’schen Fähre (km 857,40) ist die Schifffahrt bei
+    Hochwasserständen zwischen den Marken I und II nachstehenden
+    Beschränkungen unterworfen:
 
-    *   Zwischen der Mittleren Rheinbrücke in Basel (km 166,53) und den
-        Schleusen Kembs (km 179,10) sowie zwischen den Schleusen Iffezheim (km
-        334,00) und der Spyck’schen Fähre (km 857,40) ist die Schifffahrt bei
-        Hochwasserständen zwischen den Marken I und II nachstehenden
-        Beschränkungen unterworfen:
-
-
-*    *
-    *   a)
-
-    *   alle Fahrzeuge - mit Ausnahme der Kleinfahrzeuge ohne Maschinenantrieb
+    a)  alle Fahrzeuge - mit Ausnahme der Kleinfahrzeuge ohne Maschinenantrieb
         - müssen sich in der Talfahrt möglichst in der Mitte, in der Bergfahrt
         im mittleren Drittel des Stromes halten; als Breite des Stromes gilt
         der Abstand zwischen den Uferlinien; beim Fahren einschließlich des
@@ -7994,28 +8014,19 @@ halten. Die §§ 6.04 und 6.05 gelten nicht.
         zulässig;
 
 
-*    *
-    *   b)
-
-    *   erfordern es die örtlichen Verhältnisse, abweichend von Buchstabe a
+    b)  erfordern es die örtlichen Verhältnisse, abweichend von Buchstabe a
         näher an ein Ufer heranzufahren, müssen alle dort genannten Fahrzeuge
         dennoch möglichst weit vom Ufer entfernt bleiben und ihre
         Geschwindigkeit entsprechend vermindern;
 
 
-*    *
-    *   c)
-
-    *   § 9.04 bleibt unberührt. Zwischen Lorch (km 540,20) und St. Goar (km
+    c)  § 9.04 bleibt unberührt. Zwischen Lorch (km 540,20) und St. Goar (km
         556,00) hat die Bergfahrt das mittlere Drittel des Stromes aber so
         weit zum linken Ufer einzuhalten, daß die Begegnung mit der Talfahrt
         ohne Gefahr Backbord an Backbord stattfinden kann;
 
 
-*    *
-    *   d)
-
-    *   unbeschadet des § 6.20 darf die Höchstgeschwindigkeit der Fahrzeuge
+    d)  unbeschadet des § 6.20 darf die Höchstgeschwindigkeit der Fahrzeuge
         gegenüber dem Ufer 20 km in der Stunde nicht überschreiten,
         ausgenommen die Talfahrt in der Gebirgsstrecke zwischen Bingen (km
         528,50) und St. Goar (km 556,00), in der die Höchstgeschwindigkeit der
@@ -8023,10 +8034,7 @@ halten. Die §§ 6.04 und 6.05 gelten nicht.
         darf;
 
 
-*    *
-    *   e)
-
-    *   nach Überschreiten der Hochwassermarke I dürfen innerhalb des
+    e)  nach Überschreiten der Hochwassermarke I dürfen innerhalb des
         entsprechenden Streckenabschnitts nur solche Fahrzeuge ihre Fahrt
         fortsetzen, die mit einer Sprechfunkanlage ausgerüstet sind. Sie
         müssen den Verkehrskreis Nautische Information auf Empfang geschaltet
@@ -8034,185 +8042,172 @@ halten. Die §§ 6.04 und 6.05 gelten nicht.
         fortbewegt werden;
 
 
-*    *
-    *   f)
-
-    *   nach Überschreiten der Hochwassermarke I ist schnellen Schiffen die
+    f)  nach Überschreiten der Hochwassermarke I ist schnellen Schiffen die
         Fahrt verboten.
 
 
-*    *   2.
 
-    *   Erreicht oder überschreitet der Wasserstand die Hochwassermarke II an
-        dem Richtpegel für den unter Nummer 3 aufgeführten Streckenabschnitt,
-        ist die Schiffahrt mit Ausnahme des Übersetzverkehrs innerhalb des
-        Streckenabschnitts verboten.
 
 
-*    *   3.
+2.  Erreicht oder überschreitet der Wasserstand die Hochwassermarke II an
+    dem Richtpegel für den unter Nummer 3 aufgeführten Streckenabschnitt,
+    ist die Schiffahrt mit Ausnahme des Übersetzverkehrs innerhalb des
+    Streckenabschnitts verboten.
 
-    *   Die in Nummer 1 und 2 genannten Hochwassermarken werden durch folgende
-        Wasserstände bestimmt und die Richtpegel für die Berg- oder Talfahrt
-        gelten für die nachstehend aufgeführten Streckenabschnitte:
 
+3.  Die in Nummer 1 und 2 genannten Hochwassermarken werden durch folgende
+    Wasserstände bestimmt und die Richtpegel für die Berg- oder Talfahrt
+    gelten für die nachstehend aufgeführten Streckenabschnitte:
 
 
+    *        *   Strecke
 
-*    *   Strecke
+        *   Richtpegel
+            für Berg- und Talfahrt
+            Wasserstand
 
-    *   Richtpegel
-        für Berg- und Talfahrt
-        Wasserstand
 
+    *        *   Marke I
 
-*    *   Marke I
+        *   Marke II
 
-    *   Marke II
 
+    *        *   Basel (km 166,53)
 
-*    *   Basel (km 166,53)
+        *
 
-    *
+    *        *   Basel-Schleusen Kembs
+            Kembs (km 179,10)
 
-*    *   Basel-Schleusen Kembs
-        Kembs (km 179,10)
+        *   Basel-Rheinhalle
+            7,00 8,20
 
-    *   Basel-Rheinhalle
-        7,00 8,20
 
+    *        *   Schleusen Iffezheim (km 334,00)
 
-*    *   Schleusen Iffezheim (km 334,00)
+        *
 
-    *
+    *        *   Schleusen Iffezheim-Germersheim
+            Germersheim (km 384,00)
 
-*    *   Schleusen Iffezheim-Germersheim
-        Germersheim (km 384,00)
+        *   Maxau
+            6,20 7,50
 
-    *   Maxau
-        6,20 7,50
 
+    *        *   Germersheim-Mannheim-Rheinau
+            Mannheim-Rheinau (km 410,50)
 
-*    *   Germersheim-Mannheim-Rheinau
-        Mannheim-Rheinau (km 410,50)
+        *   Speyer
+            6,20 7,30
 
-    *   Speyer
-        6,20 7,30
 
+    *        *   Mannheim-Rheinau-Mannheim-Sandhofen
+            Mannheim-Sandhofen (km 431,50)
 
-*    *   Mannheim-Rheinau-Mannheim-Sandhofen
-        Mannheim-Sandhofen (km 431,50)
+        *   Mannheim
+            6,50 7,60
 
-    *   Mannheim
-        6,50 7,60
 
+    *        *   Mannheim-Sandhofen-Gernsheim
+            Gernsheim (km 462,00)
 
-*    *   Mannheim-Sandhofen-Gernsheim
-        Gernsheim (km 462,00)
+        *   Worms
+            4,40 6,50
 
-    *   Worms
-        4,40 6,50
 
+    *        *   Gernsheim-Eltville
+            Eltville (km 511,00)
 
-*    *   Gernsheim-Eltville
-        Eltville (km 511,00)
+        *   Mainz
+            4,75 6,30
 
-    *   Mainz
-        4,75 6,30
 
+    *        *   Eltville-Lorch
+            Lorch (km 540,00)
 
-*    *   Eltville-Lorch
-        Lorch (km 540,00)
+        *   Bingen
+            3,50 4,90
 
-    *   Bingen
-        3,50 4,90
 
+    *        *   Lorch-Bad Salzig
+            Bad Salzig (km 566,00)
 
-*    *   Lorch-Bad Salzig
-        Bad Salzig (km 566,00)
+        *   Kaub
+            4,60 6,40
 
-    *   Kaub
-        4,60 6,40
 
+    *        *   Bad Salzig-Engers
+            Engers (km 601,00)
 
-*    *   Bad Salzig-Engers
-        Engers (km 601,00)
+        *   Koblenz
+            4,70 6,50
 
-    *   Koblenz
-        4,70 6,50
 
+    *        *   Engers-Bad Breisig
+            Bad Breisig (km 624,00)
 
-*    *   Engers-Bad Breisig
-        Bad Breisig (km 624,00)
+        *   Andernach
+            5,50 7,60
 
-    *   Andernach
-        5,50 7,60
 
+    *        *   Bad Breisig-Mondorf
+            Mondorf (km 660,00)
 
-*    *   Bad Breisig-Mondorf
-        Mondorf (km 660,00)
+        *   Oberwinter
+            4,90 6,80
 
-    *   Oberwinter
-        4,90 6,80
 
+    *        *   Mondorf-Dormagen
+            Dormagen (km 710,00)
 
-*    *   Mondorf-Dormagen
-        Dormagen (km 710,00)
+        *   Köln
+            6,20 8,30
 
-    *   Köln
-        6,20 8,30
 
+    *        *   Dormagen-Krefeld
+            Krefeld (km 763,00)
 
-*    *   Dormagen-Krefeld
-        Krefeld (km 763,00)
+        *   Düsseldorf
+            7,10 8,80
 
-    *   Düsseldorf
-        7,10 8,80
 
+    *        *   Krefeld-Orsoy
+            Orsoy (km 794,00)
 
-*    *   Krefeld-Orsoy
-        Orsoy (km 794,00)
+        *   Duisburg-Ruhrort
+            9,30 11,30
 
-    *   Duisburg-Ruhrort
-        9,30 11,30
 
+    *        *   Orsoy-Rees
+            Rees (km 837,00)
 
-*    *   Orsoy-Rees
-        Rees (km 837,00)
+        *   Wesel
+            8,70 10,60
 
-    *   Wesel
-        8,70 10,60
 
+    *        *   Rees-Spyck'sche Fähre
+            Spyck'sche Fähre (km 857,40)
 
-*    *   Rees-Spyck'sche Fähre
-        Spyck'sche Fähre (km 857,40)
+        *   Emmerich
+            7,00 8,70
 
-    *   Emmerich
-        7,00 8,70
 
 
 
 
-*    *   4.
+4.  Zwischen Basel und den Schleusen Kembs können die zuständigen Behörden
+    einzelnen Fahrzeugen und Verbänden für diesen Streckenabschnitt bis zu
+    einem Wasserstand von 8,50 m am Pegel Basel-Rheinhalle die Fahrt
+    freigeben, wenn der Wasserstand bereits seit mehr als drei
+    aufeinanderfolgenden Tagen überwiegend über der Marke von 8,20 m lag
+    und die Vorhersagen dahin gehen, dass der Wasserstand auch an den
+    folgenden zwei Tagen noch über dieser Marke liegen wird.
 
-    *   Zwischen Basel und den Schleusen Kembs können die zuständigen Behörden
-        einzelnen Fahrzeugen und Verbänden für diesen Streckenabschnitt bis zu
-        einem Wasserstand von 8,50 m am Pegel Basel-Rheinhalle die Fahrt
-        freigeben, wenn der Wasserstand bereits seit mehr als drei
-        aufeinanderfolgenden Tagen überwiegend über der Marke von 8,20 m lag
-        und die Vorhersagen dahin gehen, dass der Wasserstand auch an den
-        folgenden zwei Tagen noch über dieser Marke liegen wird.
 
+5.  Zwischen den Schleusen Kembs und den Schleusen Iffezheim (km 334,00)
+    wird die Schiffahrt bei Hochwasser wie folgt geregelt:
 
-*    *   5.
-
-    *   Zwischen den Schleusen Kembs und den Schleusen Iffezheim (km 334,00)
-        wird die Schiffahrt bei Hochwasser wie folgt geregelt:
-
-
-*    *
-    *   a)
-
-    *   zwischen dem oberen Vorhafen der Schleusen Kembs und dem oberen
+    a)  zwischen dem oberen Vorhafen der Schleusen Kembs und dem oberen
         Vorhafen der Schleusen Vogelgrün ist die Schiffahrt keinen
         Beschränkungen wegen Hochwassers unterworfen. Die zuständige Behörde
         kann jedoch, um Ansammlungen von Fahrzeugen in den Vorhäfen der
@@ -8220,34 +8215,20 @@ halten. Die §§ 6.04 und 6.05 gelten nicht.
         Vorhäfen der verschiedenen Schleusen verteilen;
 
 
-*    *
-    *   b)
+    b)  zwischen den Schleusen Vogelgrün und den Schleusen Iffezheim
 
-    *   zwischen den Schleusen Vogelgrün und den Schleusen Iffezheim
+        -   wird der Betrieb der Schleusen einer gegebenen Haltung eingestellt,
+            wenn die auf einer Mauer bei dem Unterhaupt dieser Schleusen sichtbar
+            angebrachte Hochwassermarke II erreicht oder überschritten ist;
 
 
-*    *
-    *
-    *   -
+        -   ist Kleinfahrzeugen die Fahrt in einer Haltung verboten, wenn die an
+            dem Unterhaupt der jeweils oberhalb liegenden Schleuse sichtbar
+            angebrachte Hochwassermarke II erreicht oder überschritten ist.
 
-    *   wird der Betrieb der Schleusen einer gegebenen Haltung eingestellt,
-        wenn die auf einer Mauer bei dem Unterhaupt dieser Schleusen sichtbar
-        angebrachte Hochwassermarke II erreicht oder überschritten ist;
 
-    *
 
-*    *
-    *
-    *   -
-
-    *   ist Kleinfahrzeugen die Fahrt in einer Haltung verboten, wenn die an
-        dem Unterhaupt der jeweils oberhalb liegenden Schleuse sichtbar
-        angebrachte Hochwassermarke II erreicht oder überschritten ist.
-
-    *
-
-*    *
-    *   Jedoch kann die zuständige Behörde einzelnen Fahrzeugen und Verbänden
+        Jedoch kann die zuständige Behörde einzelnen Fahrzeugen und Verbänden
         für den Streckenabschnitt von unterhalb der Schleuse Vogelgrün bis
         unterhalb der Schleuse Straßburg bis zu einem Wasserstand von 0,40 m
         über der angebrachten Hochwassermarke II die Fahrt und die
@@ -8257,40 +8238,39 @@ halten. Die §§ 6.04 und 6.05 gelten nicht.
         den folgenden zwei Tagen noch über dieser Hochwassermarke liegen wird;
 
 
-*    *
-    *   c)
-
-    *   auf der Stromstrecke zwischen dem südlichen Vorhafen (km 291,30) und
+    c)  auf der Stromstrecke zwischen dem südlichen Vorhafen (km 291,30) und
         dem nördlichen Vorhafen (km 295,50) des Straßburger Hafens wird die
         Schiffahrt bei Erreichen des höchsten Schiffahrtswasserstandes (HSW)
         wie folgt gesperrt:
 
+        -
+            *                *   in der Talfahrt durch ein bei km 291,30
 
-*    *
-    *
-    *   -
+                *                    ![bgbl2_1994_j0071_ab_0010.jpg](bgbl2_1994_j0071_ab_0010.jpg)
 
-    *   in der Talfahrt durch ein bei km 291,30
+            *                *   aufgestelltes rotes Licht (Zeichen A.1, Anlage 7);
 
-    *        ![bgbl2_1994_j0071_ab_0010.jpg](bgbl2_1994_j0071_ab_0010.jpg)
-
-*    *
-    *
-    *
-    *   aufgestelltes rotes Licht (Zeichen A.1, Anlage 7);
+                *
 
 
-*    *
-    *
-    *   -
-
-    *   in der Bergfahrt durch ein bei km 294,50
 
 
-*    *
-    *
-    *
-    *   aufgestelltes rotes Licht (Zeichen A.1, Anlage 7).
+        -
+            *                *   in der Bergfahrt durch ein bei km 294,50
+
+                *
+
+            *                *   aufgestelltes rotes Licht (Zeichen A.1, Anlage 7).
+
+                *
+
+
+
+
+
+
+
+
 
 
 
@@ -8298,7 +8278,7 @@ halten. Die §§ 6.04 und 6.05 gelten nicht.
 
 #### § 10.02 Beschränkung der Schiffahrt bei Niedrigwasser zwischen Bingen und St. Goar
 
-Zwischen St. Goar und Bingen ist die Schleppschiffahrt zu Berg in der
+   Zwischen St. Goar und Bingen ist die Schleppschiffahrt zu Berg in der
 Zeit zwischen einer halben Stunde nach Sonnenuntergang und einer
 halben Stunde vor Sonnenaufgang verboten, sobald der Wasserstand am
 Kauber Pegel 1,00 m unterschreitet. Dies gilt nicht für
@@ -9608,6 +9588,7 @@ Bescheinigung der zuständigen Behörde ersetzt.
 
 
 
+
 #### § 14.02 Basel
 
 
@@ -9657,9 +9638,9 @@ Bescheinigung der zuständigen Behörde ersetzt.
 #### § 14.03 Mannheim-Ludwigshafen
 
 
-1.  Die Reede erstreckt sich vor Mannheim am rechten Ufer von km 412,35
-    bis km 417,15 und von km 423,50 bis km 431,80 sowie vor Ludwigshafen
-    am linken Ufer von km 419,77 bis km 424,83 und von km 425,50 bis km
+1.  Die Reede erstreckt sich vor Mannheim am rechten Ufer von km 412,50
+    bis km 417,16 und von km 423,50 bis km 431,80 sowie vor Ludwigshafen
+    am linken Ufer von km 419,72 bis km 424,83 und von km 425,50 bis km
     431,90.
 
 
@@ -9670,11 +9651,11 @@ Bescheinigung der zuständigen Behörde ersetzt.
 
         i.  vor Mannheim-Rheinau
 
-            von km 413,40 bis km 414,25,
+            von km 413,10 bis km 414,25,
 
             von km 414,56 bis km 414,90,
 
-            von km 415,50 bis km 416,75;
+            von km 415,50 bis km 416,75,
 
 
         ii. vor Mannheim
@@ -9683,9 +9664,7 @@ Bescheinigung der zuständigen Behörde ersetzt.
 
             von km 425,36 bis km 427,00,
 
-            von km 428,72 bis km 429,60,
-
-            von km 429,80 bis km 430,30;
+            von km 428,93 bis km 429,42.
 
 
 
@@ -9698,14 +9677,14 @@ Bescheinigung der zuständigen Behörde ersetzt.
 
 
 
-3.  Für Fahrzeuge, die die Bezeichnung nach § 3.14 Nummer 1 führen müssen,
-    werden bestimmt:
+3.  Für die Fahrzeuge, die die Bezeichnung nach § 3.14 Nummer 1 führen
+    müssen, werden bestimmt:
 
     a)  Liegestellen am rechten Ufer
 
         von km 413,10 bis km 413,40,
 
-        von km 430,30 bis km 431,10;
+        von km 430,20 bis km 430,70.
 
 
     b)  Liegestelle am linken Ufer von km 421,60 bis km 422,00.
@@ -9714,10 +9693,22 @@ Bescheinigung der zuständigen Behörde ersetzt.
 
 
 
-4.  Für Fahrzeuge, die bei der BASF Aktiengesellschaft laden oder löschen
+4.  Für die Fahrzeuge, die die Bezeichnung nach § 3.14 Nummer 2 führen
+    müssen, wird bestimmt:
+
+    *   Liegestelle am rechten Ufer von km 430,75 bis km 431,10.
+
+
+
+
+
+5.  Für Fahrzeuge, die bei der BASF Aktiengesellschaft laden oder löschen
     wollen oder dort geladen oder gelöscht haben, wird bestimmt:
 
-    Liegestelle am linken Ufer von km 426,20 bis km 431,47.
+    *   Liegestelle am linken Ufer von km 426,20 bis km 431,47.
+
+
+
 
 
 

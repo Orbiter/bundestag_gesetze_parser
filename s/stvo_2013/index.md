@@ -17,7 +17,10 @@ Fundstelle
 
 Stand: Konstitutive Neufassung gem. V v. 6.3.2013 I 367, in Kraft getreten am 1.4.2013
 Zuletzt geändert durch
-:   Art. 2 V v. 28.8.2023 I Nr. 236
+:   Art. 24 V v. 11.12.2024 I Nr. 411
+
+Änderung durch
+:   Art. 4 V v. 30.1.2026 I Nr. 32 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## I. - Allgemeine Verkehrsregeln
@@ -1374,6 +1377,36 @@ zur Anzeige oder Störung von Verkehrsüberwachungsmaßnahmen verwendet
 werden können, dürfen die entsprechenden Gerätefunktionen nicht
 verwendet werden.
 
+(1d) Wer ein Kraftfahrzeug mit einer zulässigen Gesamtmasse über 3,5 t
+führt, hat sicherzustellen, dass bei einer Geschwindigkeit von mehr
+als 30 km/h ein für das Kraftfahrzeug vorgeschriebenes
+Notbremsassistenzsystem eingeschaltet ist. Satz 1 gilt nicht
+
+1.  beim Führen von Kraftfahrzeugen, die dem Bau, der Unterhaltung oder
+    Reinigung der Straßen und Anlagen im Straßenraum dienen, bei denen
+    vorderseitig montierte Anbauten die Funktion des
+    Notbremsassistenzsystems dauerhaft beeinträchtigen und der Fahrende
+    die Funktionsfähigkeit des Notbremsassistenzsystems aufgrund dieser
+    Anbauten nicht herstellen kann,
+
+
+1a. beim Führen von Kraftfahrzeugen der Polizei, der Feuerwehr, des
+    Katastrophenschutzes und des Rettungsdienstes, die aufgrund von
+    Anbauteilen einen Überstand über die Kabinenfront hinaus aufweisen,
+    die die Funktion des Notbremsassistenzsystems dauerhaft
+    beeinträchtigen und der Fahrende die Funktionsfähigkeit des
+    Notbremsassistenzsystems aufgrund dieser Anbauten nicht herstellen
+    kann und
+
+
+2.  während der Fahrzeugführung im Sinne des § 1a Absatz 4 des
+    Straßenverkehrsgesetzes.
+
+
+
+Satz 2 Nummer 1 und 1a gelten auch während Fahrten, die nicht dem
+bestimmungsgemäßen Gebrauch dienen.
+
 (2) Wer ein Fahrzeug führt, muss das Fahrzeug, den Zug oder das
 Gespann auf dem kürzesten Weg aus dem Verkehr ziehen, falls unterwegs
 auftretende Mängel, welche die Verkehrssicherheit wesentlich
@@ -1422,7 +1455,7 @@ sie am rechten Fahrbahnrand gehen; vor dem Abbiegen nach links dürfen
 sie sich nicht links einordnen.
 
 (3) Wer zu Fuß geht, hat Fahrbahnen unter Beachtung des
-Fahrzeugverkehrs zügig auf dem kürzesten Weg quer zur Fahrtrichtung zu
+Fahrzeugverkehrs zügig auf kurzem Weg quer zur Fahrtrichtung zu
 überschreiten. Wenn die Verkehrsdichte, Fahrgeschwindigkeit,
 Sichtverhältnisse oder der Verkehrsablauf es erfordern, ist eine
 Fahrbahn nur an Kreuzungen oder Einmündungen, an Lichtzeichenanlagen
@@ -1606,8 +1639,19 @@ nicht geführt werden. Das Verbot gilt nicht für
 
 
 7.  Fahrten mit Fahrzeugen, die nach dem Bundesleistungsgesetz
-    herangezogen werden. Dabei ist der Leistungsbescheid mitzuführen und
-    auf Verlangen zuständigen Personen zur Prüfung auszuhändigen.
+    herangezogen werden, wobei der Leistungsbescheid mitzuführen und auf
+    Verlangen zuständigen Personen zur Prüfung auszuhändigen ist,
+
+
+8.  die Bundeswehr sowie die von ihr beauftragten gewerblichen
+    Transportdienstunternehmen im Falle militärischer Erfordernisse,
+
+
+9.  die Truppen der Vertragsstaaten des Nordatlantikvertrages, der
+    Mitgliedstaaten der Europäischen Union und weiterer verbündeter
+    Streitkräfte sowie die von den jeweiligen Truppen beauftragten
+    gewerblichen Transportdienstunternehmen im Falle militärischer
+    Erfordernisse.
 
 
 
@@ -1766,7 +1810,8 @@ Feststellungen getroffen worden sind.
 
 ### § 35 Sonderrechte
 
-(1) Von den Vorschriften dieser Verordnung sind die Bundeswehr, die
+(1) Von den Vorschriften dieser Verordnung sind die Bundeswehr und die
+von ihr beauftragten gewerblichen Transportdienstunternehmen, die
 Bundespolizei, die Feuerwehr, der Katastrophenschutz, die Polizei und
 der Zolldienst befreit, soweit das zur Erfüllung hoheitlicher Aufgaben
 dringend geboten ist.
@@ -1795,14 +1840,18 @@ Straßenbenutzung befugt, soweit Vereinbarungen getroffen sind.
 gelten nicht bei Einsätzen anlässlich von Unglücksfällen, Katastrophen
 und Störungen der öffentlichen Sicherheit oder Ordnung sowie in den
 Fällen der Artikel 91 und 87a Absatz 4 des Grundgesetzes sowie im
-Verteidigungsfall und im Spannungsfall.
+Verteidigungsfall und im Spannungsfall. Für die Bundeswehr und die von
+ihr beauftragten gewerblichen Transportdienstunternehmen gilt Satz 1
+auch im Fall einer krisenhaften Entwicklung.
 
-(5) Die Truppen der nichtdeutschen Vertragsstaaten des
-Nordatlantikpaktes sowie der Mitgliedstaaten der Europäischen Union
-ausgenommen Deutschland sind im Falle dringender militärischer
-Erfordernisse von den Vorschriften dieser Verordnung befreit, von den
-Vorschriften des § 29 allerdings nur, soweit für diese Truppen
-Sonderregelungen oder Vereinbarungen bestehen.
+(5) Die Truppen der Vertragsstaaten des Nordatlantikpaktes sowie der
+Mitgliedstaaten der Europäischen Union und weiterer verbündeter
+Streitkräfte sowie die von den jeweiligen Truppen beauftragten
+gewerblichen Transportdienstunternehmen sind im Falle dringender
+militärischer Erfordernisse von den Vorschriften dieser Verordnung
+befreit; von den Vorschriften des § 29 allerdings nur, soweit für
+diese Truppen und diese Transportdienstunternehmen Sonderregelungen
+oder anderweitige Vereinbarungen bestehen.
 
 (5a) Fahrzeuge des Rettungsdienstes sind von den Vorschriften dieser
 Verordnung befreit, wenn höchste Eile geboten ist, um Menschenleben zu
@@ -1830,22 +1879,23 @@ Zeiten fahren und halten, soweit ihr hoheitlicher Einsatz dies
 erfordert.
 
 (7a) Fahrzeuge von Unternehmen, die Universaldienstleistungen nach §
-11 des Postgesetzes in Verbindung mit § 1 Nummer 1 der Post-
-Universaldienstleistungsverordnung erbringen oder Fahrzeuge von
-Unternehmen, die in deren Auftrag diese Universaldienstleistungen
-erbringen (Subunternehmer), dürfen abweichend von Anlage 2 Nummer 21
-(Zeichen 242.1) Fußgängerzonen auch außerhalb der durch Zusatzzeichen
+17 Absatz 1 des Postgesetzes erbringen oder Fahrzeuge von Unternehmen,
+die in deren Auftrag diese Universaldienstleistungen erbringen
+(Subunternehmer), dürfen abweichend von Anlage 2 Nummer 21 (Zeichen
+242\.1) Fußgängerzonen auch außerhalb der durch Zusatzzeichen
 angeordneten Zeiten für Anlieger- und Anlieferverkehr benutzen, soweit
 dies zur zeitgerechten Leerung von Briefkästen oder zur Abholung von
-Briefen in stationären Einrichtungen erforderlich ist. Ferner dürfen
-die in Satz 1 genannten Fahrzeuge abweichend von § 12 Absatz 4 Satz 1
-und Anlage 2 Nummer 62 (Zeichen 283), Nummer 63 (Zeichen 286) und
-Nummer 64 (Zeichen 290.1) in einem Bereich von 10 m vor oder hinter
-einem Briefkasten auf der Fahrbahn auch in zweiter Reihe kurzfristig
-parken, soweit dies mangels geeigneter anderweitiger Parkmöglichkeiten
-in diesem Bereich zum Zwecke der Leerung von Briefkästen erforderlich
-ist. Die Sätze 1 und 2 gelten nur, soweit ein Nachweis zum Erbringen
-der Universaldienstleistung oder zusätzlich ein Nachweis über die
+Briefen in Universaldienstfilialen nach § 17 Absatz 1 des Postgesetzes
+oder diese ersetzende Stationen nach § 17 Absatz 2 des Postgesetzes
+erforderlich ist. Ferner dürfen die in Satz 1 genannten Fahrzeuge
+abweichend von § 12 Absatz 4 Satz 1 und Anlage 2 Nummer 62 (Zeichen
+283), Nummer 63 (Zeichen 286) und Nummer 64 (Zeichen 290.1) in einem
+Bereich von 10 m vor oder hinter einem Briefkasten auf der Fahrbahn
+auch in zweiter Reihe kurzfristig parken, soweit dies mangels
+geeigneter anderweitiger Parkmöglichkeiten in diesem Bereich zum
+Zwecke der Leerung von Briefkästen erforderlich ist. Die Sätze 1 und 2
+gelten nur, soweit ein Nachweis zum Erbringen der
+Universaldienstleistung oder zusätzlich ein Nachweis über die
 Beauftragung als Subunternehmer im Fahrzeug jederzeit gut sichtbar
 ausgelegt oder angebracht ist. § 2 Absatz 3 in Verbindung mit Anhang 3
 Nummer 7 der Verordnung zur Kennzeichnung der Kraftfahrzeuge mit
@@ -2505,7 +2555,24 @@ gleiche Recht haben sie
 
 6.  zur Erforschung des Unfallgeschehens, des Verkehrsverhaltens, der
     Verkehrsabläufe sowie zur Erprobung geplanter verkehrssichernder oder
-    verkehrsregelnder Maßnahmen.
+    verkehrsregelnder Maßnahmen,
+
+
+7.  zur Verbesserung des Schutzes der Umwelt, darunter des Klimaschutzes,
+    zum Schutz der Gesundheit oder zur Unterstützung der geordneten
+    städtebaulichen Entwicklung, sofern die Leichtigkeit des Verkehrs
+    berücksichtigt ist und die Sicherheit des Verkehrs nicht
+    beeinträchtigt wird, hinsichtlich
+
+    a)  der Einrichtung von Sonderfahrstreifen und bevorrechtigenden
+        Lichtzeichenregelungen für Linienbusse und
+
+
+    b)  der Bereitstellung angemessener Flächen für den fließenden und
+        ruhenden Fahrradverkehr sowie für den Fußverkehr.
+
+
+
 
 
 
@@ -2560,10 +2627,11 @@ Anordnungen
 
 
 2a. im Zusammenhang mit der Kennzeichnung von Parkmöglichkeiten für
-    Bewohner städtischer Quartiere mit erheblichem Parkraummangel durch
-    vollständige oder zeitlich beschränkte Reservierung des Parkraums für
-    die Berechtigten oder durch Anordnung der Freistellung von
-    angeordneten Parkraumbewirtschaftungsmaßnahmen,
+    Bewohner städtischer Quartiere mit einem drohenden oder bestehenden
+    erheblichen Parkraummangel durch vollständige oder zeitlich
+    beschränkte Reservierung des Parkraums für die Berechtigten oder durch
+    Anordnung der Freistellung von angeordneten
+    Parkraumbewirtschaftungsmaßnahmen,
 
 
 3.  zur Kennzeichnung von Fußgängerbereichen und verkehrsberuhigten
@@ -2578,11 +2646,17 @@ Anordnungen
 
 
 
-Die Straßenverkehrsbehörden ordnen die Parkmöglichkeiten für Bewohner,
-die Kennzeichnung von Fußgängerbereichen, verkehrsberuhigten Bereichen
-und Maßnahmen zum Schutze der Bevölkerung vor Lärm und Abgasen oder
-zur Unterstützung einer geordneten städtebaulichen Entwicklung im
-Einvernehmen mit der Gemeinde an.
+Anordnungen nach Satz 1 Nummer 2a sind auch auf Grundlage eines
+städtebaulich-verkehrsplanerischen Konzepts zur Vermeidung von
+schädlichen Auswirkungen auf die Umwelt oder zur Unterstützung der
+geordneten städtebaulichen Entwicklung zulässig, sofern die
+Leichtigkeit des Verkehrs berücksichtigt ist und die Sicherheit des
+Verkehrs nicht beeinträchtigt wird. Die Straßenverkehrsbehörden ordnen
+die Parkmöglichkeiten für Bewohner, die Kennzeichnung von
+Fußgängerbereichen, verkehrsberuhigten Bereichen und Maßnahmen zum
+Schutze der Bevölkerung vor Lärm und Abgasen oder zur Unterstützung
+einer geordneten städtebaulichen Entwicklung im Einvernehmen mit der
+Gemeinde an.
 
 (1c) Die Straßenverkehrsbehörden ordnen ferner innerhalb geschlossener
 Ortschaften, insbesondere in Wohngebieten und Gebieten mit hoher
@@ -2650,6 +2724,9 @@ links“) gelten. Die Anordnung einer Fahrradzone darf sich nicht mit
 der Anordnung einer Tempo 30-Zone überschneiden. Innerhalb der
 Fahrradzone ist in regelmäßigen Abständen das Zeichen 244.3 als
 Sinnbild auf der Fahrbahn aufzubringen.
+
+(1j) Die Gemeinde kann bei der nach Landesrecht zuständigen Behörde
+Anordnungen nach den Absätzen 1 bis 1i beantragen.
 
 (2) Zur Durchführung von Straßenbauarbeiten und zur Verhütung von
 außerordentlichen Schäden an der Straße, die durch deren baulichen
@@ -2747,7 +2824,10 @@ von
     Ortschaften (Zeichen 237 in Verbindung mit Zeichen 295),
 
 
-4.  Tempo 30-Zonen nach Absatz 1c,
+4.  Tempo 30-Zonen nach Absatz 1c und kurzen streckenbezogenen
+    Geschwindigkeitsbeschränkungen von 30 km/h (Zeichen 274) auf
+    Streckenabschnitten von bis zu 500 Metern zwischen zwei Tempo
+    30-Strecken,
 
 
 5.  verkehrsberuhigten Geschäftsbereichen nach Absatz 1d,
@@ -2757,14 +2837,25 @@ von
     km/h (Zeichen 274) nach Absatz 1 Satz 1 auf Straßen des überörtlichen
     Verkehrs (Bundes-, Landes- und Kreisstraßen) oder auf weiteren
     Vorfahrtstraßen (Zeichen 306) im unmittelbaren Bereich von an diesen
-    Straßen gelegenen Kindergärten, Kindertagesstätten, allgemeinbildenden
-    Schulen, Förderschulen, Alten- und Pflegeheimen oder Krankenhäusern,
+    Straßen gelegenen Fußgängerüberwegen, Kindergärten,
+    Kindertagesstätten, Spielplätzen, hochfrequentierten Schulwegen,
+    allgemeinbildenden Schulen, Förderschulen, Alten- und Pflegeheimen,
+    Einrichtungen für Menschen mit Behinderungen oder Krankenhäusern,
 
 
 7.  Erprobungsmaßnahmen nach Absatz 1 Satz 2 Nummer 6 zweiter Halbsatz,
 
 
-8.  Fahrradzonen nach Absatz 1i.
+7a. Sonderfahrstreifen,
+
+
+8.  Fahrradzonen nach Absatz 1i,
+
+
+9.  Bussonderfahrstreifen (Zeichen 245),
+
+
+10. Fußgängerüberwegen (Zeichen 293).
 
 
 
@@ -2778,10 +2869,17 @@ einem Plan für kurzfristig zu ergreifende Maßnahmen nach § 47 Absatz 1
 oder 2 des Bundes-Immissionsschutzgesetzes festgesetzten Umweltzonen
 nach Absatz 1f.
 
-(10) Absatz 9 gilt nicht, soweit Verkehrszeichen angeordnet werden,
-die zur Förderung der Elektromobilität nach dem
-Elektromobilitätsgesetz oder zur Förderung des Carsharing nach dem
-Carsharinggesetz getroffen werden dürfen.
+(10) Absatz 9 gilt nicht,
+
+1.  soweit Verkehrszeichen angeordnet werden, die zur Förderung der
+    Elektromobilität nach dem Elektromobilitätsgesetz oder zur Förderung
+    des Carsharing nach dem Carsharinggesetz getroffen werden dürfen, und
+
+
+2.  für Anordnungen nach Absatz 1 Satz 2 Nummer 7.
+
+
+
 
 (11) Absatz 1 Satz 1 und 2 Nummer 1 bis 3, 5 und 6, Absatz 1a, 1f, 2
 Satz 1 und 4, Absatz 3, 4, 5 Satz 2 in Verbindung mit Satz 1, Absatz 7
@@ -2792,7 +2890,7 @@ Baulast des Bundes für das Fernstraßen-Bundesamt. Absatz 2 Satz 1 und
 Bundesverwaltung für das Fernstraßen-Bundesamt.
 
 
-### § 46 Ausnahmegenehmigung und Erlaubnis
+### § 46 Ausnahmegenehmigungen, Erlaubnisse und Bewohnerparkausweise
 
 (1) Die Straßenverkehrsbehörden können in bestimmten Einzelfällen oder
 allgemein für bestimmte Antragsteller Ausnahmen genehmigen
@@ -2900,7 +2998,10 @@ und 330.2 gekennzeichnete Autobahnen in der Baulast des Bundes das
 Fernstraßen-Bundesamt in bestimmten Einzelfällen oder allgemein für
 bestimmte Antragsteller folgende Ausnahmen genehmigen:
 
-1.  Ausnahmen vom Verbot, an nicht gekennzeichneten Anschlussstellen ein-
+1.  Ausnahmen von der Vorschrift, die Fahrbahn zu benutzen (§ 2 Absatz 1);
+
+
+1a. Ausnahmen vom Verbot, an nicht gekennzeichneten Anschlussstellen ein-
     oder auszufahren (§ 18 Absatz 2 und 10 Satz 1), im Benehmen mit der
     nach Landesrecht zuständigen Straßenverkehrsbehörde;
 
@@ -2965,11 +3066,19 @@ Absatz 1 Nummer 5 genügt das Mitführen fernkopierter Bescheide oder
 von Ausdrucken elektronisch erteilter und signierter Bescheide sowie
 deren digitalisierte Form auf einem Speichermedium, wenn diese derart
 mitgeführt wird, dass sie bei einer Kontrolle auf Verlangen
-zuständigen Personen lesbar gemacht werden kann.
+zuständigen Personen lesbar gemacht werden kann. Bei der Erteilung von
+Parkausweisen für Bewohner kann die zuständige Behörde bestimmen, dass
+die Parkausweise nicht in den Fahrzeugen ausgelegt oder angebracht
+werden müssen.
 
 (4) Ausnahmegenehmigungen und Erlaubnisse der zuständigen Behörde sind
 für den Geltungsbereich dieser Verordnung wirksam, sofern sie nicht
 einen anderen Geltungsbereich nennen.
+
+(5) Bewohnerparkausweise und Ausnahmegenehmigungen nach dieser
+Vorschrift, die als Parkausweise ausgegeben werden, können vollständig
+durch automatische Einrichtungen erteilt werden, sofern kein Anlass
+besteht, den Einzelfall durch Amtsträger zu bearbeiten.
 
 
 ### § 47 Örtliche Zuständigkeit
@@ -3168,8 +3277,9 @@ eine Vorschrift über
 
 
 22. sonstige Pflichten des Fahrzeugführers nach § 23 Absatz 1, Absatz 1a
-    Satz 1, auch in Verbindung mit den Sätzen 2 bis 4, Absatz 1c, Absatz 2
-    erster Halbsatz, Absatz 3 oder Absatz 4 Satz 1,
+    Satz 1, auch in Verbindung mit den Sätzen 2 bis 4, oder Absatz 1c,
+    Absatz 1d Satz 1, Absatz 2 erster Halbsatz, Absatz 3 oder Absatz 4
+    Satz 1,
 
 
 23. das Fahren mit Krankenfahrstühlen oder anderen als in § 24 Absatz 1
@@ -3419,6 +3529,12 @@ ab dem 1. Juli 2021 anzuwenden.
 Straßenverkehrs-Ordnung und der Vierundfünfzigsten Verordnung zur
 Änderung straßenverkehrsrechtlicher Vorschriften vom 18. Dezember 2020
 (BGBl. I S. 3047) sind erst ab dem 1. Januar 2021 anzuwenden.
+
+(6) Anordnungen im Sinne des § 45 Absatz 1 Satz 2 Nummer 7 Buchstabe a
+in Verbindung mit Absatz 9 Satz 4 Nummer 7a sind befristet bis zum
+Ablauf des 31. Dezember 2028, soweit die Sonderfahrstreifen zur
+Erprobung verkehrssichernder oder verkehrsregelnder Maßnahmen
+hinsichtlich unterschiedlicher Mobilitätsformen angeordnet werden.
 
 
 ### § 53 Inkrafttreten, Außerkrafttreten
@@ -4026,6 +4142,29 @@ bzgl. der einzelnen Änderungen vgl. Fußnoten)
         Parkverbote (Zeichen 299) gekennzeichnet.
 
 
+*    *   15.1
+
+    *   Zeichen 230
+        ![bgbl1_2024_j02990_0010.jpg](bgbl1_2024_j02990_0010.jpg)        Ladebereich
+
+    *   **Ge- oder Verbot**
+
+        1.  Das Halten und Parken ist nur zum Be- und Entladen von Fahrzeugen
+            zulässig.
+
+
+        2.  Das Be- und Entladen muss ohne Verzögerung durchgeführt werden.
+
+
+
+        **Erläuterung**
+        Die Länge des Ladebereichs wird durch das am Anfang der Strecke
+        aufgestellte Zeichen mit einem zur Fahrbahn weisenden waagerechten
+        weißen Pfeil und durch ein am Ende aufgestelltes Zeichen mit einem
+        solchen von der Fahrbahn wegweisenden Pfeil oder durch Markierung
+        gekennzeichnet.
+
+
 *    *   **Abschnitt 5 Sonderwege**
 
 
@@ -4110,7 +4249,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnoten)
     *   **Ge- oder Verbot**
 
         1.  Der Radverkehr darf nicht die Fahrbahn, sondern muss den gemeinsamen
-            Geh- und Radweg benutzen (Radwegbenutzungspflicht).
+            Geh- und Radweg benutzen (Radwegbenutzungspflicht). Dabei ist auf den
+            Fußverkehr Rücksicht zu nehmen. Der Fußverkehr darf weder gefährdet
+            noch behindert werden. Erforderlichenfalls ist die Geschwindigkeit an
+            den Fußverkehr anzupassen.
 
 
         2.  Anderer Verkehr darf ihn nicht benutzen.
@@ -4287,6 +4429,12 @@ bzgl. der einzelnen Änderungen vgl. Fußnoten)
             nur benutzt werden, wenn dies durch Zusatzzeichen angezeigt ist.
 
 
+        5.  Zur Erprobung unterschiedlicher Mobilitätsformen (§ 45 Absatz 9 Satz 4
+            Nummer 7a) darf der Bussonderfahrstreifen nur benutzt werden, wenn
+            dies durch Zusatzzeichen, welches die besondere Mobilitätsform näher
+            bezeichnet, angezeigt ist.
+
+
 
 
 
@@ -4358,6 +4506,11 @@ bzgl. der einzelnen Änderungen vgl. Fußnoten)
 
 
         2.  Krafträder und Fahrräder dürfen geschoben werden.
+
+
+        3.  Durch Zusatzzeichen können besondere Mobilitätsformen zu
+            Erprobungszwecken (§ 45 Absatz 9 Satz 4 Nummer 7a) befristet bis zum
+            31\. Dezember 2028 vom Verkehrsverbot ausgenommen werden.
 
 
 

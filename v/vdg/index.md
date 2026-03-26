@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2017, 2745
 
-Geändert durch
-:   Art. 2 G v. 18.7.2017 I 2745
+Zuletzt geändert durch
+:   Art. 28 G v. 2.12.2025 I Nr. 301
 
 
 ## Teil 1 - Allgemeine Bestimmungen
@@ -86,10 +86,6 @@ Fachgesetzen, insbesondere
 
 
 
-
-(3) Das Bundesamt für Sicherheit in der Informationstechnik ist die
-für die Informationssicherheit zuständige nationale Stelle im Sinne
-von Artikel 19 Absatz 2 der Verordnung (EU) Nr. 910/2014.
 
 
 ### § 3 Verfahren über eine einheitliche Stelle
@@ -265,7 +261,8 @@ grenzender Wahrscheinlichkeit auch in Zukunft nicht eintreten werden.
 
 ### § 9 Vertrauenslisten
 
-Die Bundesetzagentur ist für die Aufstellung, Führung und
+Die
+Bundesnetzagentur              ist für die Aufstellung, Führung und
 Veröffentlichung von Vertrauenslisten nach Artikel 22 Absatz 1 der
 Verordnung (EU) Nr. 910/2014 zuständig.
 

@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2002, 1499
 
 Zuletzt geändert durch
-:   Art. 22 G v. 24.6.2022 I 959
+:   Art. 61 G v. 4.2.2026 I Nr. 33
 
 
 ## Eingangsformel

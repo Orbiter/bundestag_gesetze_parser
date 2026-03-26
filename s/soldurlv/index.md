@@ -54,7 +54,7 @@ Urlaubsjahr ein Zwölftel des Jahresurlaubs für jeden vollen Monat der
 Dienstzeit.
 
 (2) Soldatinnen und Soldaten, die eine Maßnahme der schulischen oder
-beruflichen Bildung nach § 5 des Soldatenversorgungsgesetzes in
+beruflichen Bildung nach § 7 des Soldatenversorgungsgesetzes in
 Anspruch nehmen wollen, wird vor Beginn der Maßnahme Erholungsurlaub
 für dieses Urlaubsjahr nur anteilig gewährt. Für jeden vollen Monat
 der militärischen Dienstleistung vor Beginn der Maßnahme ist ein

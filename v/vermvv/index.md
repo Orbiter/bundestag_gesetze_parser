@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 1663
 
+Geändert durch
+:   Art. 7 G v. 15.7.2024 I Nr. 237
+
 
 ## Eingangsformel
 
@@ -27,7 +30,7 @@ der Justiz:
 ## § 1 Anwendungsbereich
 
 Diese Verordnung gilt für Vermögensverzeichnisse, die nach § 802f
-Absatz 6 der Zivilprozessordnung oder nach § 284 Absatz 7 Satz 4 der
+Absatz 8 der Zivilprozessordnung oder nach § 284 Absatz 7 Satz 4 der
 Abgabenordnung zu hinterlegen sind. Sie gilt ferner für
 Vermögensverzeichnisse, die aufgrund einer bundes- oder
 landesgesetzlichen Regelung errichtet worden sind, die § 284 Absatz 1
@@ -54,7 +57,7 @@ Vermögensverzeichnis elektronisch nach § 4 Absatz 1 Satz 3 beizufügen.
 
 (2) Im Vermögensverzeichnis wird auch dokumentiert,
 
-1.  dass die Anforderungen des § 802f Absatz 5 Satz 2 und 3 der
+1.  dass die Anforderungen des § 802f Absatz 7 Satz 2 und 3 der
     Zivilprozessordnung oder des § 284 Absatz 7 Satz 2 und 3 der
     Abgabenordnung oder der bundes- oder landesgesetzlichen Regelung, die
     § 284 Absatz 7 Satz 2 und 3 der Abgabenordnung gleichwertig ist,
@@ -131,7 +134,7 @@ erfüllt.
 (2) Erfüllt die elektronische Übermittlung die Anforderungen des § 4,
 ist das Vermögensverzeichnis in das Vermögensverzeichnisregister
 einzutragen. Mit der Eintragung in das Vermögensverzeichnisregister
-ist das Vermögensverzeichnis hinterlegt im Sinne des § 802f Absatz 6
+ist das Vermögensverzeichnis hinterlegt im Sinne des § 802f Absatz 8
 der Zivilprozessordnung oder des § 284 Absatz 7 Satz 4 der
 Abgabenordnung oder der bundes- oder landesgesetzlichen Regelung, die
 § 284 Absatz 7 Satz 4 der Abgabenordnung gleichwertig ist. Das

@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2011, 666
 
 Zuletzt geändert durch
-:   Art. 7 G v. 10.8.2021 I 3436
+:   Art. 10 G v. 2.12.2025 I Nr. 301
 
 Mittelbare änderung durch
 :   Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war
@@ -478,8 +478,8 @@ Nutzers als Verbraucher mit diesem Zusatz im Verzeichnisdienst gilt
 als Zugangseröffnung. Satz 2 gilt entsprechend für die Entscheidung
 des Nutzers, die Zugangseröffnung zurückzunehmen.
 
-(4) § 18 des Telekommunikation-Telemedien-Datenschutz-Gesetzes gilt
-entsprechend.
+(4) § 18 des Telekommunikation-Digitale-Dienste-Datenschutz-Gesetzes
+gilt entsprechend.
 
 
 ### § 8 Dokumentenablage
@@ -690,9 +690,9 @@ Verbraucherschutzes zu beachten.
 Der akkreditierte Diensteanbieter darf personenbezogene Daten des
 Nutzers eines De-Mail-Kontos nur verarbeiten, soweit dies zur
 Bereitstellung der De-Mail-Dienste und deren Durchführung erforderlich
-ist; im Übrigen gelten die Regelungen des Telemediengesetzes, des
-Telekommunikationsgesetzes, des Telekommunikation-Telemedien-
-Datenschutz-Gesetzes und des Bundesdatenschutzgesetzes. Die
+ist; im Übrigen gelten die Regelungen des Digitale-Dienste-Gesetzes,
+des Telekommunikationsgesetzes, des Telekommunikation-Digitale-
+Dienste-Datenschutz-Gesetzes und des Bundesdatenschutzgesetzes. Die
 datenschutzrechtlichen Regelungen dieser Gesetze gelten ergänzend zu
 der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates
 vom 27. April 2016 zum Schutz natürlicher Personen bei der
@@ -899,16 +899,15 @@ Stellungnahme gegeben, sofern Fragen des Datenschutzes berührt sind.
 
 3.  die Erfüllung der technischen und organisatorischen Anforderungen an
     die Pflichten im Sinne des Absatzes 1 Nummer 3 durch vom Bundesamt für
-    Sicherheit in der Informationstechnik nach § 9 Absatz 2 Satz 1 des
-    Gesetzes über das Bundesamt für Sicherheit in der Informationstechnik
-    zertifizierten IT-Sicherheitsdienstleistern erteilte Testate; das
-    Zusammenwirken mit den anderen akkreditierten Diensteanbietern kann
-    nur nach ausreichenden Prüfungen bestätigt werden; die Sicherheit der
-    Dienste kann nur nach einer umfassenden im Rahmen der Vergabe der
-    Testate stattfindenden Prüfung des Sicherheitskonzepts und der
-    eingesetzten IT-Infrastrukturen bestätigt werden; zum Zeitpunkt des
-    Inkrafttretens des Gesetzes erteilte Zertifikate können berücksichtigt
-    werden;
+    Sicherheit in der Informationstechnik nach § 52 Absatz 2 Satz 1 des
+    BSI-Gesetzes zertifizierten IT-Sicherheitsdienstleistern erteilte
+    Testate; das Zusammenwirken mit den anderen akkreditierten
+    Diensteanbietern kann nur nach ausreichenden Prüfungen bestätigt
+    werden; die Sicherheit der Dienste kann nur nach einer umfassenden im
+    Rahmen der Vergabe der Testate stattfindenden Prüfung des
+    Sicherheitskonzepts und der eingesetzten IT-Infrastrukturen bestätigt
+    werden; zum Zeitpunkt des Inkrafttretens des Gesetzes erteilte
+    Zertifikate können berücksichtigt werden;
 
 
 4.  die Erfüllung der datenschutzrechtlichen Anforderungen an das

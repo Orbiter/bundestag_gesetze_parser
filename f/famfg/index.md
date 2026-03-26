@@ -17,7 +17,19 @@ Fundstelle
 :   BGBl I: 2008, 2586, 2587
 
 Zuletzt geändert durch
-:   Art. 5 G v. 21.2.2024 I Nr. 54
+:   Art. 21 G v. 8.12.2025 I Nr. 319
+
+Änderung durch
+:   Art. 4 G v. 10.12.2025 I Nr. 320 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 3 G v. 3.2.2026 I Nr. 27 ist berücksichtigt
+
+Mittelbare änderung durch
+:   Art. 37 G v. 8.12.2025 I Nr. 319 ist berücksichtigt
+
+Mittelbare änderung durch
+:   Art. 38 G v. 8.12.2025 I Nr. 319 ist berücksichtigt
 
 Mittelbare änderung durch
 :   Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war
@@ -320,8 +332,8 @@ kann das Gericht die Akten in die Amts- oder Geschäftsräume
 oder Geschäftsräume besteht nicht. Die Entscheidung nach Satz 1 ist
 nicht anfechtbar.
 
-(5) Werden die Gerichtsakten elektronisch geführt, gilt § 299 Abs. 3
-der Zivilprozessordnung entsprechend.
+(5) Werden die Gerichtsakten elektronisch geführt, gilt § 299 Absatz 3
+und 4 der Zivilprozessordnung entsprechend.
 
 (6) Die Entwürfe zu Beschlüssen und Verfügungen, die zu ihrer
 Vorbereitung gelieferten Arbeiten sowie die Dokumente, die
@@ -334,12 +346,21 @@ Kollegialgerichten der Vorsitzende.
 
 #### § 14 Elektronische Akte; elektronisches Dokument; Verordnungsermächtigung
 
-(1) Die Gerichtsakten können elektronisch geführt werden. § 298a
-Absatz 2 der Zivilprozessordnung gilt entsprechend.
+(1) Die Gerichtsakten werden elektronisch geführt. § 298a Absatz 2 der
+Zivilprozessordnung gilt entsprechend. Die Bundesregierung und die
+Landesregierungen bestimmen jeweils für ihren Bereich durch
+Rechtsverordnung die organisatorischen und dem Stand der Technik
+entsprechenden technischen Rahmenbedingungen für die Bildung, Führung
+und Aufbewahrung der elektronischen Akten einschließlich der
+einzuhaltenden Anforderungen der Barrierefreiheit. Die
+Landesregierungen können die Ermächtigung nach Satz 3 durch
+Rechtsverordnung auf die für die Zivilgerichtsbarkeit zuständigen
+obersten Landesbehörden übertragen. Die Rechtsverordnung der
+Bundesregierung bedarf nicht der Zustimmung des Bundesrates.
 
 (2) Anträge und Erklärungen der Beteiligten sowie schriftlich
-einzureichende Auskünfte, Aussagen, Gutachten, Übersetzungen und
-Erklärungen Dritter können als elektronisches Dokument übermittelt
+einzureichende Auskünfte, Aussagen, Gutachten, Übersetzungen, Anträge
+und Erklärungen Dritter können als elektronisches Dokument übermittelt
 werden. Für das elektronische Dokument gelten § 130a der
 Zivilprozessordnung, auf dieser Grundlage erlassene Rechtsverordnungen
 sowie § 298 der Zivilprozessordnung entsprechend.
@@ -347,38 +368,27 @@ sowie § 298 der Zivilprozessordnung entsprechend.
 (3) Für das gerichtliche elektronische Dokument gelten die §§ 130b und
 298 der Zivilprozessordnung entsprechend.
 
-(4) Die Bundesregierung und die Landesregierungen bestimmen für ihren
-Bereich durch Rechtsverordnung den Zeitpunkt, von dem an elektronische
-Akten geführt werden können. Die Bundesregierung und die
-Landesregierungen bestimmen für ihren Bereich durch Rechtsverordnung
-die geltenden organisatorisch-technischen Rahmenbedingungen für die
-Bildung, Führung und Aufbewahrung der elektronischen Akten. Die
-Landesregierungen können die Ermächtigung durch Rechtsverordnung auf
-die jeweils zuständige oberste Landesbehörde übertragen. Die Zulassung
-der elektronischen Akte kann auf einzelne Gerichte oder Verfahren
-beschränkt werden; wird von dieser Möglichkeit Gebrauch gemacht, kann
-in der Rechtsverordnung bestimmt werden, dass durch
-Verwaltungsvorschrift, die öffentlich bekanntzumachen ist, geregelt
-wird, in welchen Verfahren die Akten elektronisch zu führen sind.
-Akten in Verfahren gemäß § 151 Nummer 4 und § 271, die in Papierform
-angelegt wurden, können ab einem in der Rechtsverordnung bestimmten
-Zeitpunkt in elektronischer Form weitergeführt werden.
+(4) Akten, die in Papierform angelegt wurden, können in Papierform
+weitergeführt werden. Sie können ab einem bestimmten Stichtag oder
+Ereignis in elektronischer Form weitergeführt werden. Der Beginn der
+Weiterführung der Akten in elektronischer Form ist aktenkundig zu
+machen.
 
-(4a) Die Gerichtsakten werden ab dem 1. Januar 2026 elektronisch
-geführt. Die Bundesregierung und die Landesregierungen bestimmen
-jeweils für ihren Bereich durch Rechtsverordnung die organisatorischen
-und dem Stand der Technik entsprechenden technischen Rahmenbedingungen
-für die Bildung, Führung und Aufbewahrung der elektronischen Akten
-einschließlich der einzuhaltenden Anforderungen der Barrierefreiheit.
-Die Bundesregierung und die Landesregierungen können jeweils für ihren
-Bereich durch Rechtsverordnung bestimmen, dass Akten, die in
-Papierform angelegt wurden, in Papierform oder in Verfahren gemäß §
-151 Nummer 4 und § 271 ab einem bestimmten Stichtag in elektronischer
-Form weitergeführt werden. Die Landesregierungen können die
-Ermächtigungen nach den Sätzen 2 und 3 durch Rechtsverordnung auf die
-für die Zivilgerichtsbarkeit zuständigen obersten Landesbehörden
-übertragen. Die Rechtsverordnungen der Bundesregierung bedürfen nicht
-der Zustimmung des Bundesrates.
+(4a) Die Bundesregierung und die Landesregierungen können jeweils für
+ihren Bereich durch Rechtsverordnung bestimmen, dass Akten abweichend
+von § 14 Absatz 1 bis einschließlich 31. Dezember 2026 in Papierform
+angelegt sowie von anderer Stelle bis einschließlich 31. Dezember 2026
+übermittelte elektronische Akten in Papierform geführt oder
+weitergeführt werden. Die Bestimmung kann auf einzelne Gerichte oder
+Verfahren beschränkt werden; wird von dieser Möglichkeit Gebrauch
+gemacht, so kann in der Rechtsverordnung bestimmt werden, dass durch
+Verwaltungsvorschrift, die öffentlich bekanntzumachen ist, geregelt
+wird, in welchen Verfahren Akten in Papierform angelegt oder
+elektronisch übermittelte Akten in Papierform geführt oder
+weitergeführt werden. Die Rechtsverordnung der Bundesregierung bedarf
+nicht der Zustimmung des Bundesrates. Die Landesregierungen können die
+in Satz 1 genannte Ermächtigung durch Rechtsverordnung auf die
+zuständigen obersten Landesbehörden übertragen.
 
 (5) Sind die Gerichtsakten nach ordnungsgemäßen Grundsätzen zur
 Ersetzung der Urschrift auf einen Bild- oder anderen Datenträger
@@ -387,6 +397,20 @@ dass die Wiedergabe mit der Urschrift übereinstimmt, so können
 Ausfertigungen, Auszüge und Abschriften von dem Bild- oder dem
 Datenträger erteilt werden. Auf der Urschrift anzubringende Vermerke
 werden in diesem Fall bei dem Nachweis angebracht.
+
+(6) Dokumente und Aktenteile, die nach den Verschlusssachenanweisungen
+des Bundes oder der Länder als Verschlusssache höher als VS-NUR FÜR
+DEN DIENSTGEBRAUCH eingestuft sind, dürfen bis zum 31. Dezember 2035
+in Papierform erstellt, geführt und übermittelt werden. Dokumente und
+Aktenteile, die nach den Verschlusssachenanweisungen des Bundes oder
+der Länder als Verschlusssache VS-NUR FÜR DEN DIENSTGEBRAUCH
+eingestuft sind, dürfen bis zum 31. Dezember 2035 in Papierform
+übermittelt werden. Die für die Handhabung von Verschlusssachen
+geltenden Geheimschutzvorschriften bleiben unberührt.
+
+(7) Die Bundesregierung kann durch Rechtsverordnung mit Zustimmung des
+Bundesrates die für die Übermittlung elektronischer Akten zwischen
+Behörden und Gerichten geltenden Standards bestimmen.
 
 
 #### § 14a Formulare; Verordnungsermächtigung
@@ -436,7 +460,7 @@ geben.
 (2) Die Bekanntgabe kann durch Zustellung nach den §§ 166 bis 195 der
 Zivilprozessordnung oder dadurch bewirkt werden, dass das Schriftstück
 unter der Anschrift des Adressaten zur Post gegeben wird. Soll die
-Bekanntgabe im Inland bewirkt werden, gilt das Schriftstück drei Tage
+Bekanntgabe im Inland bewirkt werden, gilt das Schriftstück vier Tage
 nach Aufgabe zur Post als bekannt gegeben, wenn nicht der Beteiligte
 glaubhaft macht, dass ihm das Schriftstück nicht oder erst zu einem
 späteren Zeitpunkt zugegangen ist.
@@ -595,7 +619,14 @@ Rechtsanwalt nicht notwendig ist.
 Geschäftsstelle zulässig ist, können vor der Geschäftsstelle eines
 jeden Amtsgerichts zur Niederschrift abgegeben werden.
 
-(3) Die Geschäftsstelle hat die Niederschrift unverzüglich an das
+(3) Der Urkundsbeamte der Geschäftsstelle kann Anträge und Erklärungen
+nach Absatz 2 auch per Bild- und Tonübertragung aufnehmen. In diesem
+Fall kann sich der Urkundsbeamte der Geschäftsstelle bei der Aufnahme
+der Anträge und Erklärungen an einem anderen Ort als der
+Geschäftsstelle aufhalten. Die Bild- und Tonübertragung wird nicht
+aufgezeichnet.
+
+(4) Die Geschäftsstelle hat die Niederschrift unverzüglich an das
 Gericht zu übermitteln, an das der Antrag oder die Erklärung gerichtet
 ist. Die Wirkung einer Verfahrenshandlung tritt nicht ein, bevor die
 Niederschrift dort eingeht.
@@ -677,6 +708,15 @@ förmlichen Beweisaufnahme Stellung zu nehmen, soweit dies zur
 Aufklärung des Sachverhalts oder zur Gewährung rechtlichen Gehörs
 erforderlich ist.
 
+(5) In geeigneten Fällen und soweit ausreichende Kapazitäten zur
+Verfügung stehen, kann das Gericht auf Antrag oder von Amts wegen die
+Vernehmung eines Zeugen oder Sachverständigen per Bild- und
+Tonübertragung gestatten. Das Antragsrecht steht den Beteiligten,
+Zeugen und Sachverständigen zu. § 128a Absatz 1, 5 und 6 der
+Zivilprozessordnung gilt entsprechend. Entscheidungen über die
+Gestattung oder Ablehnung der Vernehmung per Bild- und Tonübertragung
+sind unanfechtbar.
+
 
 #### § 31 Glaubhaftmachung
 
@@ -697,9 +737,15 @@ gelten entsprechend.
 (2) Zwischen der Ladung und dem Termin soll eine angemessene Frist
 liegen.
 
-(3) In geeigneten Fällen soll das Gericht die Sache mit den
-Beteiligten im Wege der Bild- und Tonübertragung in entsprechender
-Anwendung des § 128a der Zivilprozessordnung erörtern.
+(3) In geeigneten Fällen und soweit ausreichende Kapazitäten zur
+Verfügung stehen, soll das Gericht zur Erörterung der Sache auf Antrag
+eines Beteiligten oder von Amts wegen die Teilnahme per Bild- und
+Tonübertragung für einen Beteiligten, mehrere oder alle Beteiligte
+gestatten. § 128a Absatz 1, 5 und 6 der Zivilprozessordnung gilt
+entsprechend. Die Ablehnung eines Antrags auf Teilnahme per Bild- und
+Tonübertragung ist kurz zu begründen. Entscheidungen über die
+Gestattung oder Ablehnung der Erörterung per Bild- und Tonübertragung
+sind unanfechtbar.
 
 
 #### § 33 Persönliches Erscheinen der Beteiligten
@@ -710,7 +756,8 @@ Sachverhalts sachdienlich erscheint. Sind in einem Verfahren mehrere
 Beteiligte persönlich anzuhören, hat die Anhörung eines Beteiligten in
 Abwesenheit der anderen Beteiligten stattzufinden, falls dies zum
 Schutz des anzuhörenden Beteiligten oder aus anderen Gründen
-erforderlich ist.
+erforderlich ist. Als persönliches Erscheinen gilt auch die Teilnahme
+an einem Termin per Bild- und Tonübertragung nach § 32 Absatz 3.
 
 (2) Der verfahrensfähige Beteiligte ist selbst zu laden, auch wenn er
 einen Bevollmächtigten hat; dieser ist von der Ladung zu
@@ -755,6 +802,10 @@ Willen kundzutun.
 unentschuldigt aus, kann das Verfahren ohne seine persönliche Anhörung
 beendet werden. Der Beteiligte ist auf die Folgen seines Ausbleibens
 hinzuweisen.
+
+(4) Im Anwendungsbereich des Absatzes 1 Nummer 1 kann das Gericht die
+persönliche Anhörung eines Beteiligten per Bild- und Tonübertragung
+gestatten. § 32 Absatz 3 gilt entsprechend.
 
 
 #### § 35 Zwangsmittel
@@ -945,9 +996,10 @@ Bekanntgabe an den Antragsteller wirksam.
 
 #### § 41 Bekanntgabe des Beschlusses
 
-(1) Der Beschluss ist den Beteiligten bekannt zu geben. Ein
-anfechtbarer Beschluss ist demjenigen zuzustellen, dessen erklärtem
-Willen er nicht entspricht.
+(1) Der Beschluss wird den Beteiligten in beglaubigter Abschrift
+bekannt gegeben; Ausfertigungen werden nur auf Antrag und nur in
+Papierform erteilt. Ein anfechtbarer Beschluss ist demjenigen
+zuzustellen, dessen erklärtem Willen er nicht entspricht.
 
 (2) Anwesenden kann der Beschluss auch durch Verlesen der
 Beschlussformel bekannt gegeben werden. Dies ist in den Akten zu
@@ -1305,7 +1357,7 @@ das 14. Lebensjahr nicht vollendet haben.
 ##### § 61 Beschwerdewert; Zulassungsbeschwerde
 
 (1) In vermögensrechtlichen Angelegenheiten ist die Beschwerde nur
-zulässig, wenn der Wert des Beschwerdegegenstandes 600 Euro
+zulässig, wenn der Wert des Beschwerdegegenstandes 1 000 Euro
 übersteigt.
 
 (2) Übersteigt der Beschwerdegegenstand nicht den in Absatz 1
@@ -1319,7 +1371,7 @@ ersten Rechtszugs die Beschwerde zugelassen hat.
     Entscheidung des Beschwerdegerichts erfordert und
 
 
-2.  der Beteiligte durch den Beschluss mit nicht mehr als 600 Euro
+2.  der Beteiligte durch den Beschluss mit nicht mehr als 1 000 Euro
     beschwert ist.
 
 
@@ -1382,14 +1434,15 @@ angefochten wird. Anträge auf Bewilligung von Verfahrenskostenhilfe
 für eine beabsichtigte Beschwerde sind bei dem Gericht einzulegen,
 dessen Beschluss angefochten werden soll.
 
-(2) Die Beschwerde wird durch Einreichung einer Beschwerdeschrift oder
-zur Niederschrift der Geschäftsstelle eingelegt. Die Einlegung der
-Beschwerde zur Niederschrift der Geschäftsstelle ist in Ehesachen und
-in Familienstreitsachen ausgeschlossen. Die Beschwerde muss die
-Bezeichnung des angefochtenen Beschlusses sowie die Erklärung
-enthalten, dass Beschwerde gegen diesen Beschluss eingelegt wird. Sie
-ist von dem Beschwerdeführer oder seinem Bevollmächtigten zu
-unterzeichnen.
+(2) Die Beschwerde wird durch Einreichung einer von dem
+Beschwerdeführer oder seinem Bevollmächtigten unterzeichneten
+Beschwerdeschrift oder zur Niederschrift der Geschäftsstelle
+eingelegt. Die Einlegung der Beschwerde zur Niederschrift der
+Geschäftsstelle ist in Ehesachen und in Familienstreitsachen
+ausgeschlossen. Die Beschwerde muss die Bezeichnung des angefochtenen
+Beschlusses sowie die Erklärung enthalten, dass Beschwerde gegen
+diesen Beschluss eingelegt wird. § 25 Absatz 2 bis 4 gilt
+entsprechend.
 
 (3) Das Beschwerdegericht kann vor der Entscheidung eine einstweilige
 Anordnung erlassen; es kann insbesondere anordnen, dass die
@@ -2192,11 +2245,16 @@ unberührt.
 
 
 
-(2) Für Verfahren auf Aufhebung der Ehe nach Artikel 13 Absatz 3
-Nummer 2 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche sind die
-deutschen Gerichte auch zuständig, wenn der Ehegatte, der im Zeitpunkt
-der Eheschließung das 16., aber nicht das 18. Lebensjahr vollendet
-hatte, seinen Aufenthalt im Inland hat.
+(2) Für Verfahren auf Feststellung der Unwirksamkeit der Ehe nach
+Artikel 13 Absatz 3 Nummer 1 des Einführungsgesetzes zum Bürgerlichen
+Gesetzbuche sind die deutschen Gerichte auch dann zuständig, wenn die
+bei Eheschließung noch nicht 16-jährige Person den Antrag stellt und
+eine der beiden beteiligten Personen ihren gewöhnlichen Aufenthalt im
+Inland hat. Für Verfahren auf Aufhebung der Ehe nach Artikel 13 Absatz
+3 Nummer 2 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche sind
+die deutschen Gerichte auch zuständig, wenn der Ehegatte, der im
+Zeitpunkt der Eheschließung das 16., aber nicht das 18. Lebensjahr
+vollendet hatte, seinen Aufenthalt im Inland hat.
 
 (3) Die Zuständigkeit der deutschen Gerichte nach Absatz 1 erstreckt
 sich im Fall des Verbunds von Scheidungs- und Folgesachen auf die
@@ -3729,16 +3787,28 @@ Straftat enthält.
 und im gerichtlichen Verfahren zur Geltung zu bringen. Er soll zu
 diesem Zweck auch eine schriftliche Stellungnahme erstatten. Der
 Verfahrensbeistand hat das Kind über Gegenstand, Ablauf und möglichen
-Ausgang des Verfahrens in geeigneter Weise zu informieren. Endet das
-Verfahren durch Endentscheidung, soll der Verfahrensbeistand den
-gerichtlichen Beschluss mit dem Kind erörtern.
+Ausgang des Verfahrens in geeigneter Weise zu informieren. Ferner soll
+er insbesondere
 
-(2) Soweit erforderlich kann das Gericht dem Verfahrensbeistand die
-Aufgabe übertragen, Gespräche mit den Eltern und weiteren
-Bezugspersonen des Kindes zu führen sowie am Zustandekommen einer
-einvernehmlichen Regelung über den Verfahrensgegenstand mitzuwirken.
-Das Gericht hat Art und Umfang der Beauftragung konkret festzulegen
-und die Beauftragung zu begründen.
+1.  Gespräche mit den Eltern und weiteren Bezugspersonen des Kindes
+    führen, soweit dies erforderlich ist, und
+
+
+2.  in geeigneten Fällen am Zustandekommen einer einvernehmlichen Regelung
+    über den Verfahrensgegenstand mitwirken.
+
+
+
+Endet das Verfahren durch Endentscheidung, soll der Verfahrensbeistand
+den gerichtlichen Beschluss mit dem Kind erörtern.
+
+(2) Ist es zur Verständigung mit dem Kind, seinen Eltern oder weiteren
+Bezugspersonen erforderlich, so gestattet das Gericht dem
+Verfahrensbeistand die Hinzuziehung eines Dolmetschers oder
+Übersetzers oder eines anderen geeigneten Sprachmittlers, insbesondere
+eines Gebärdensprachendolmetschers. Die Gestattung soll zum
+frühestmöglichen Zeitpunkt erfolgen. Sie ergeht durch nicht
+selbständig anfechtbaren Beschluss.
 
 (3) Der Verfahrensbeistand wird durch seine Bestellung als Beteiligter
 zum Verfahren hinzugezogen. Er kann im Interesse des Kindes
@@ -3748,18 +3818,25 @@ Vertreter des Kindes.
 
 #### § 158c Vergütung; Kosten
 
-(1) Führt der Verfahrensbeistand die Verfahrensbeistandschaft
-berufsmäßig, erhält er für die Wahrnehmung seiner Aufgaben in jedem
-Rechtszug jeweils eine einmalige Vergütung von 350 Euro. Im Fall der
-Übertragung von Aufgaben nach § 158b Absatz 2 erhöht sich die
-Vergütung auf 550 Euro. Die Vergütung deckt auch Ansprüche auf Ersatz
-anlässlich der Verfahrensbeistandschaft entstandener Aufwendungen ab.
+(1) Der Verfahrensbeistand erhält für die Wahrnehmung seiner Aufgaben
+in jedem Rechtszug jeweils eine einmalige Vergütung von 690 Euro.
+Bestellt das Gericht denselben Verfahrensbeistand für mehrere in
+demselben Haushalt lebende Kinder, erhält er ab dem zweiten Kind
+jeweils eine Pauschale in Höhe von 555 Euro.
 
-(2) Für den Ersatz von Aufwendungen des nicht berufsmäßigen
-Verfahrensbeistands ist § 277 Absatz 1 entsprechend anzuwenden.
+(2) Dem Verfahrensbeistand sind die Kosten für die Beauftragung eines
+Dolmetschers oder Übersetzers oder eines anderen geeigneten
+Sprachmittlers zu ersetzen, wenn das Gericht die Zuziehung nach § 158b
+Absatz 2 gestattet hat. Die Höhe der zu ersetzenden Kosten ist auf die
+nach dem Justizvergütungs- und -entschädigungsgesetz zu zahlenden
+Beträge beschränkt. Im Übrigen deckt die Vergütung alle weiteren
+Ansprüche auf Ersatz der anlässlich der Verfahrensbeistandschaft
+entstandenen Aufwendungen ab.
 
-(3) Der Aufwendungsersatz und die Vergütung sind stets aus der
-Staatskasse zu zahlen. § 292 Absatz 1 und 5 ist entsprechend
+(3) Vergütung und Aufwendungsersatz sind stets aus der Staatskasse zu
+zahlen. Der Vergütungsanspruch und der Anspruch auf Aufwendungsersatz
+erlöschen, wenn sie nicht binnen 15 Monaten nach ihrer Entstehung beim
+Gericht geltend gemacht werden. § 292 Absatz 1 und 5 ist entsprechend
 anzuwenden.
 
 (4) Dem Verfahrensbeistand sind keine Kosten aufzuerlegen.
@@ -4169,14 +4246,17 @@ Vaters oder das Auffinden eines Minderjährigen, dessen Familienstand
 nicht zu ermitteln ist, oder die Geburt eines Kindes im Wege der
 vertraulichen Geburt nach § 25 Absatz 1 des
 Schwangerschaftskonfliktgesetzes angezeigt, oder fehlt in den Fällen
-des § 45b Absatz 2 Satz 3 des Personenstandsgesetzes die Zustimmung
-des gesetzlichen Vertreters hat das Standesamt dies dem
-Familiengericht mitzuteilen.
+des § 3 Absatz 1 Satz 2 des Gesetzes über die Selbstbestimmung in
+Bezug auf den Geschlechtseintrag die Zustimmung des gesetzlichen
+Vertreters, hat das Standesamt dies dem Familiengericht mitzuteilen.
 
 (2) Führen Eltern, die gemeinsam für ein Kind sorgeberechtigt sind,
 keinen Ehenamen und ist von ihnen binnen eines Monats nach der Geburt
-des Kindes der Geburtsname des Kindes nicht bestimmt worden, teilt das
-Standesamt dies dem Familiengericht mit.
+des Kindes der Geburtsname des Kindes nicht bestimmt worden und lehnt
+zumindest ein Elternteil den sich nach § 1617 Absatz 4 Satz 1 bis 3
+des Bürgerlichen Gesetzbuchs ergebenden Geburtsnamen des Kindes durch
+Erklärung gegenüber dem Standesamt ab, teilt das Standesamt dies dem
+Familiengericht mit.
 
 
 ### Abschnitt 4 - Verfahren in Abstammungssachen
@@ -5172,10 +5252,18 @@ genannte Zeitpunkt.
 1.  die durch Verwandtschaft begründete gesetzliche Unterhaltspflicht,
 
 
-2.  die durch Ehe begründete gesetzliche Unterhaltspflicht,
+2.  die durch Ehe begründete gesetzliche Unterhaltspflicht oder
 
 
-3.  die Ansprüche nach § 1615l oder § 1615m des Bürgerlichen Gesetzbuchs
+3.  die Ansprüche nach
+
+    a)  § 1305 Absatz 1 des Bürgerlichen Gesetzbuchs oder
+
+
+    b)  § 1615l oder § 1615m des Bürgerlichen Gesetzbuchs
+
+
+
 
 
 
@@ -5240,10 +5328,10 @@ tritt. Nach Wahl des Antragstellers ist auch zuständig
 ##### § 233 Abgabe an das Gericht der Ehesache
 
 Wird eine Ehesache rechtshängig, während eine Unterhaltssache nach §
-232 Abs. 1 Nr. 1 bei einem anderen Gericht im ersten Rechtszug
-anhängig ist, ist diese von Amts wegen an das Gericht der Ehesache
-abzugeben. § 281 Abs. 2 und 3 Satz 1 der Zivilprozessordnung gilt
-entsprechend.
+231 Absatz 1 Nummer 3 Buchstabe a oder § 232 Absatz 1 Nummer 1 bei
+einem anderen Gericht im ersten Rechtszug anhängig ist, ist diese von
+Amts wegen an das Gericht der Ehesache abzugeben. § 281 Abs. 2 und 3
+Satz 1 der Zivilprozessordnung gilt entsprechend.
 
 
 ##### § 234 Vertretung eines Kindes durch einen Beistand
@@ -6250,7 +6338,7 @@ nicht verlangt werden.
 ist dies in der Bestellung festzustellen. Die Ansprüche des
 berufsmäßig tätigen Verfahrenspflegers auf Vergütung und
 Aufwendungsersatz richten sich nach § 2 Absatz 2 Satz 1 und den §§ 3
-bis 5 des Vormünder- und Betreuervergütungsgesetzes.
+bis 5 und § 16 des Vormünder- und Betreuervergütungsgesetzes.
 
 (3) Anstelle des Aufwendungsersatzes und der Vergütung nach Absatz 2
 kann das Gericht dem Verfahrenspfleger eine Pauschale zubilligen, wenn
@@ -6629,8 +6717,8 @@ nicht anzuwenden.
 
 #### § 292 Zahlungen an den Betreuer; Verordnungsermächtigung
 
-(1) Das Gericht setzt auf Antrag des Betreuers oder des Betroffenen
-oder nach eigenem Ermessen durch Beschluss fest:
+(1) Das Gericht setzt auf Antrag des Betreuers, des Betreuungsvereins
+oder des Betroffenen oder nach eigenem Ermessen durch Beschluss fest:
 
 1.  einen dem Betreuer zu zahlenden Vorschuss, den ihm zu leistenden
     Ersatz von Aufwendungen oder die Aufwandspauschale, soweit der
@@ -6650,15 +6738,14 @@ oder nach eigenem Ermessen durch Beschluss fest:
 
 
 
-(2) Das Gericht kann eine nach Absatz 1 Nummer 3 zu bewilligende
-Vergütung auf Antrag des Betreuers oder des Betreuungsvereins auch für
-zukünftige Zeiträume durch Beschluss festsetzen, wenn die
-Voraussetzungen des § 15 Absatz 2 Satz 1 des Vormünder- und
-Betreuervergütungsgesetzes vorliegen. Die Auszahlung der Vergütung
-erfolgt für die jeweils nach § 15 Absatz 1 Satz 1 des Vormünder- und
-Betreuervergütungsgesetzes maßgeblichen Zeiträume. Die Festsetzung ist
-in regelmäßigen, im Voraus festzulegenden Abständen, die zwei Jahre
-nicht überschreiten dürfen, zu überprüfen.
+(2) Das Gericht kann die nach Absatz 1 Nummer 3 zu bewilligende
+Vergütung für zukünftige Zeiträume festsetzen. Die Festsetzung ist in
+regelmäßigen, im Voraus festzulegenden Abständen, die zwei Jahre nicht
+überschreiten dürfen, zu überprüfen. Die Auszahlung der Vergütung
+erfolgt für die jeweils nach § 14 Absatz 1 Satz 1 des Vormünder- und
+Betreuervergütungsgesetzes maßgeblichen Zeiträume. Eine Änderung der
+für die Vergütungsfestsetzung maßgeblichen Kriterien hat der Betreuer
+dem Gericht unverzüglich mitzuteilen.
 
 (3) Im Antrag sollen die persönlichen und wirtschaftlichen
 Verhältnisse des Betroffenen dargestellt werden. § 118 Absatz 2 Satz 1
@@ -6878,10 +6965,12 @@ Der Sachverständige soll nicht auch der behandelnde Arzt sein.
 
 #### § 299 Persönliche Anhörung in anderen Genehmigungsverfahren
 
-Das Gericht hat den Betroffenen vor einer Entscheidung nach § 1833
-Absatz 3 oder § 1820 Absatz 5 Satz 2 des Bürgerlichen Gesetzbuchs
-persönlich anzuhören. Das Gericht soll den Betroffenen vor einer
-Entscheidung nach den §§ 1850 bis 1854 persönlich anhören.
+Das Gericht hat den Betroffenen vor einer Entscheidung nach § 1833
+Absatz 3, § 1820 Absatz 5 Satz 2 des Bürgerlichen Gesetzbuchs oder § 3
+Absatz 3 des Gesetzes über die Selbstbestimmung in Bezug auf den
+Geschlechtseintrag persönlich anzuhören. Das Gericht soll den
+Betroffenen vor einer Entscheidung nach den §§ 1850 bis 1854
+persönlich anhören.
 
 
 #### § 300 Einstweilige Anordnung
@@ -7800,9 +7889,12 @@ ausgeschlagen oder mit der die Versäumung der Ausschlagungsfrist, die
 Annahme oder Ausschlagung einer Erbschaft oder eine
 Anfechtungserklärung ihrerseits angefochten wird, ist auch das
 Nachlassgericht zuständig, in dessen Bezirk die erklärende Person
-ihren gewöhnlichen Aufenthalt hat. Die Urschrift der Niederschrift
-oder die Urschrift der Erklärung in öffentlich beglaubigter Form ist
-von diesem Gericht an das zuständige Nachlassgericht zu übersenden.
+ihren gewöhnlichen Aufenthalt hat. Dieses Gericht hat die Urschrift
+der Niederschrift, die Urschrift der Erklärung in öffentlich-
+beglaubigter Form oder die beglaubigte Abschrift der Erklärung in
+öffentlich-beglaubigter Form an das zuständige Nachlassgericht zu
+übermitteln. Wird die Erklärung als elektronisches Dokument
+aufgenommen oder entgegengenommen, so ist dieses zu übermitteln.
 
 
 ### Abschnitt 2 - Verfahren in Nachlasssachen
@@ -8488,6 +8580,10 @@ Unternehmensrechtliche Verfahren sind die nach
 5.  § 26 Abs. 1 und 4 sowie § 206 Satz 2 und 3 des Umwandlungsgesetzes,
 
 
+5a. § 6b Absatz 1 bis 4 sowie den §§ 6d und 6e des
+    Außenwirtschaftsgesetzes,
+
+
 6.  § 66 Abs. 2, 3 und 5, § 71 Abs. 3 sowie § 74 Abs. 2 und 3 des Gesetzes
     betreffend die Gesellschaften mit beschränkter Haftung,
 
@@ -8509,8 +8605,8 @@ Unternehmensrechtliche Verfahren sind die nach
     Eisen und Stahl erzeugenden Industrie,
 
 
-11. § 2c Abs. 2 Satz 2 bis 7, den §§ 22o, 36 Absatz 3 Satz 2, § 28 Absatz
-    2, § 38 Abs. 2 Satz 2, § 45a Abs. 2 Satz 1, 3, 4 und 6 des
+11. § 2c Abs. 2 Satz 2 bis 7, den §§ 22o, 28 Absatz 2, nach § 36 Absatz 3
+    Satz 3, § 38 Abs. 2 Satz 2, § 45a Abs. 2 Satz 1, 3, 4 und 6 des
     Kreditwesengesetzes,
 
 
@@ -8519,6 +8615,11 @@ Unternehmensrechtliche Verfahren sind die nach
 
 11b. § 27 Absatz 2 Satz 1 bis 6 und § 77 Absatz 2 des
     Wertpapierinstitutsgesetzes,
+
+
+11c. § 13 Absatz 2 Satz 2, § 23 Absatz 5 Satz 2, § 25 Absatz 7 Satz 2 bis
+    7, § 28 Absatz 4 Satz 4 sowie § 39 Absatz 4 des
+    Kryptomärkteaufsichtsgesetzes,
 
 
 12. § 23 Absatz 2 des Zahlungsdiensteaufsichtsgesetzes,
@@ -10496,7 +10597,10 @@ anzuwenden.
 oder beglaubigt wurden, findet § 378 Absatz 3 keine Anwendung.
 
 (4) § 158a findet keine Anwendung in Verfahren, in denen ein
-Verfahrensbeistand vor dem 1. Januar 2022 bestellt worden ist.
+Verfahrensbeistand vor dem 1. Januar 2022 bestellt worden ist. Auf
+Verfahrensbeistandschaften, die bis einschließlich 10. April 2025
+angeordnet wurden, ist § 158c Absatz 1 nicht anzuwenden; insoweit ist
+§ 158c Absatz 1 in der bis dahin geltenden Fassung weiter anzuwenden.
 
 (5) Wenn Betreuung oder Einwilligungsvorbehalt vor dem 1. Januar 2023
 angeordnet wurde, müssen erstmalige Entscheidungen über die Aufhebung
@@ -10513,4 +10617,24 @@ Zeitpunkten erfolgen:
 
 
 
+
+(6) Der § 61 Absatz 1 und 3 Satz 1 Nummer 2 ist in seiner bis
+einschließlich 31. Dezember 2025 geltenden Fassung weiter anzuwenden,
+wenn
+
+1.  die anzufechtende Entscheidung bis einschließlich 31. Dezember 2025
+    erlassen worden ist, oder
+
+
+2.  bei Entscheidungen in Familienstreitsachen oder bei Entscheidungen im
+    Verbund nach § 137 Absatz 1 die mündliche Verhandlung, auf die die
+    anzufechtende Entscheidung ergeht, bis einschließlich 31. Dezember
+    2025 geschlossen worden ist.
+
+
+
+Ergeht eine Entscheidung nach Satz 1 Nummer 2 im schriftlichen
+Verfahren, tritt an die Stelle des Schlusses der mündlichen
+Verhandlung der Zeitpunkt, bis zu dem Schriftsätze eingereicht werden
+konnten.
 

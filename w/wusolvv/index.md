@@ -16,7 +16,7 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2013, 4238
 
-    Diese Verordnung dient der Umsetzung der Richtlinie 2013/36/EU des
+[^f783292_01_BJNR423800013]:     Diese Verordnung dient der Umsetzung der Richtlinie 2013/36/EU des
     Europäischen Parlaments und des Rates vom 26. Juni 2013 über den
     Zugang zur Tätigkeit von Kreditinstituten und die Beaufsichtigung von
     Kreditinstituten und Wertpapierfirmen, zur Änderung der Richtlinie
@@ -26,7 +26,6 @@ Fundstelle
     Parlaments und des Rates vom 26. Juni 2013 über Aufsichtsanforderungen
     an Kreditinstitute und Wertpapierfirmen und zur Änderung der
     Verordnung (EU) Nr. 646/2012 (ABl. L 176 vom 27.6.2013, S. 1).
-[^f783292_01_BJNR423800013]: 
 
 
 ## Eingangsformel

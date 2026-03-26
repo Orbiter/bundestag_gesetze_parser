@@ -16,7 +16,13 @@ Fundstelle
 :   BGBl I: 2013, 2586
 
 Zuletzt geändert durch
-:   Art. 3 G v. 20.12.2023 I Nr. 391
+:   Art. 20 G v. 8.12.2025 I Nr. 318
+
+Änderung durch
+:   Art. 6 G v. 10.12.2025 I Nr. 320 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Mittelbare änderung durch
+:   Art. 33 G v. 8.12.2025 I Nr. 319 ist berücksichtigt
 
 
 ## Kapitel 1 - Vorschriften für Gerichte und Notare
@@ -72,7 +78,7 @@ Amtstätigkeit nur nach diesem Gesetz erhoben.
 11. Verfahren nach dem Verschollenheitsgesetz,
 
 
-12. Verfahren nach dem Transsexuellengesetz,
+12. (weggefallen)
 
 
 13. Verfahren nach § 84 Absatz 2 und § 189 des
@@ -485,11 +491,10 @@ Kostenansatz ebenfalls berichtigt werden.
 
 #### § 19 Einforderung der Notarkosten
 
-(1) Die Notarkosten dürfen nur aufgrund einer dem Kostenschuldner
-mitgeteilten, von dem Notar unterschriebenen oder mit seiner
-qualifizierten elektronischen Signatur versehenen Berechnung
-eingefordert werden. Der Lauf der Verjährungsfrist ist nicht von der
-Mitteilung der Berechnung abhängig.
+(1) Der Notar kann seine Kosten nur aufgrund einer von ihm oder auf
+seine Veranlassung dem Kostenschuldner mitgeteilten Berechnung
+fordern; die Berechnung bedarf der Textform. Der Lauf der
+Verjährungsfrist ist nicht von der Mitteilung der Berechnung abhängig.
 
 (2) Die Berechnung muss enthalten
 
@@ -952,78 +957,78 @@ aufgrund des § 27 Nummer 2 haftet und wenn
 sich die Höhe der Gebühr nach Tabelle A oder Tabelle B.
 
 (2) Die Gebühr beträgt bei einem Geschäftswert bis 500 Euro nach
-Tabelle A 38 Euro, nach Tabelle B 15 Euro. Die Gebühr erhöht sich bei
-einem
+Tabelle A 40 Euro, nach Tabelle B 15 Euro. Sie erhöht sich bei einem
 
-*    *   Geschäfts wert
-        bis … Euro
+*    *   Geschäfts-
+        wert
+        bis ... Euro
 
     *   für jeden
         angefangenen
         Betrag von
-        weiteren … Euro
+        weiteren ... Euro
 
     *   in
         **Tabelle A**
-        um … Euro
+        um ... Euro
 
     *   in
         **Tabelle B**
-        um … Euro
+        um ... Euro
 
 
 *    *   2 000
 
     *   500
 
-    *   20
+    *   21,00
 
-    *   4
+    *   4,00
 
 
 *    *   10 000
 
     *   1 000
 
-    *   21
+    *   22,50
 
-    *   6
+    *   6,00
 
 
 *    *   25 000
 
     *   3 000
 
-    *   29
+    *   30,50
 
-    *   8
+    *   8,00
 
 
 *    *   50 000
 
     *   5 000
 
-    *   38
+    *   40,50
 
-    *   10
+    *   10,00
 
 
 *    *   200 000
 
     *   15 000
 
-    *   132
+    *   140,00
 
-    *   27
+    *   27,00
 
 
 *    *   500 000
 
     *   30 000
 
-    *   198
+    *   210,00
 
-    *   50
+    *   50,00
 
 
 *    *   über
@@ -1031,7 +1036,7 @@ einem
 
     *   50 000
 
-    *   198
+    *   210,00
 
     *
 
@@ -1040,7 +1045,7 @@ einem
     *   50 000
 
     *
-    *   80
+    *   80,00
 
 
 *    *   10 000 000
@@ -1048,7 +1053,7 @@ einem
     *   200 000
 
     *
-    *   130
+    *   130,00
 
 
 *    *   20 000 000
@@ -1056,7 +1061,7 @@ einem
     *   250 000
 
     *
-    *   150
+    *   150,00
 
 
 *    *   30 000 000
@@ -1064,7 +1069,7 @@ einem
     *   500 000
 
     *
-    *   280
+    *   280,00
 
 
 *    *   über
@@ -1073,7 +1078,7 @@ einem
     *   1 000 000
 
     *
-    *   120
+    *   120,00
 
 
 
@@ -1375,12 +1380,16 @@ maßgebend.
 ##### § 48 Land- und forstwirtschaftliches Vermögen
 
 (1) Im Zusammenhang mit der Übergabe oder Zuwendung eines land- oder
-forstwirtschaftlichen Betriebs mit Hofstelle an eine oder mehrere
-natürliche Personen einschließlich der Abfindung weichender Erben
-beträgt der Wert des land- und forstwirtschaftlichen Vermögens im
-Sinne des Bewertungsgesetzes höchstens das Vierfache des letzten
-Einheitswerts, der zur Zeit der Fälligkeit der Gebühr bereits
-festgestellt ist, wenn
+forstwirtschaftlichen Betriebs mit Hofstelle und dazugehörigem
+Wohnteil an eine oder mehrere natürliche Personen einschließlich der
+Abfindung weichender Erben beträgt der Wert des land- und
+forstwirtschaftlichen Vermögens im Sinne des Bewertungsgesetzes,
+einschließlich des Grund und Bodens sowie der Gebäude und
+Gebäudeteile, soweit sie dem Inhaber des Betriebs, den zu seinem
+Haushalt gehörenden Familienangehörigen oder den Altenteilern zu
+Wohnzwecken dienen, höchstens 50 Prozent des Grundsteuerwerts des
+Betriebs der Land- und Forstwirtschaft, der zur Zeit der Fälligkeit
+der Gebühr bereits festgestellt ist, wenn
 
 1.  die unmittelbare Fortführung des Betriebs durch den Erwerber selbst
     beabsichtigt ist und
@@ -1392,32 +1401,30 @@ festgestellt ist, wenn
 
 
 
-§ 46 Absatz 3 Satz 2 gilt entsprechend. Ist der Einheitswert noch
-nicht festgestellt, so ist dieser vorläufig zu schätzen; die Schätzung
-ist nach der ersten Feststellung des Einheitswerts zu berichtigen; die
-Frist des § 20 Absatz 1 beginnt erst mit der Feststellung des
-Einheitswerts. In dem in Artikel 3 des Einigungsvertrages genannten
-Gebiet gelten für die Bewertung des land- und forstwirtschaftlichen
-Vermögens die Vorschriften des Dritten Abschnitts im Zweiten Teil des
-Bewertungsgesetzes mit Ausnahme von § 125 Absatz 3; § 126 Absatz 2 des
-Bewertungsgesetzes ist sinngemäß anzuwenden.
+§ 46 Absatz 3 Satz 2 gilt entsprechend.
 
-(2) Weicht der Gegenstand des gebührenpflichtigen Geschäfts vom
-Gegenstand der Einheitsbewertung oder vom Gegenstand der Bildung des
-Ersatzwirtschaftswerts wesentlich ab oder hat sich der Wert infolge
-bestimmter Umstände, die nach dem Feststellungszeitpunkt des
-Einheitswerts oder des Ersatzwirtschaftswerts eingetreten sind,
-wesentlich verändert, so ist der nach den Grundsätzen der
-Einheitsbewertung oder der Bildung des Ersatzwirtschaftswerts
-geschätzte Wert maßgebend.
+(2) Ist der Grundsteuerwert noch nicht festgestellt, so beträgt der
+Wert nach Absatz 1 Satz 1 höchstens das Vierfache des zuletzt
+festgestellten Einheitswerts; § 266 Absatz 4 Satz 1 und 2 des
+Bewertungsgesetzes gilt insoweit nicht. Die Bewertung nach dem
+Einheitswert ist nach der ersten Feststellung des Grundsteuerwerts zu
+berichtigen. Die Frist des § 20 Absatz 1 beginnt erst mit der
+Feststellung des Grundsteuerwerts.
 
-(3) Die Absätze 1 und 2 sind entsprechend anzuwenden für die Bewertung
+(3) Weicht der Gegenstand des gebührenpflichtigen Geschäfts vom
+Gegenstand der Grundsteuerbewertung wesentlich ab oder hat sich der
+Wert infolge bestimmter Umstände, die nach dem Feststellungszeitpunkt
+des Grundsteuerwerts eingetreten sind, wesentlich verändert, so ist
+der nach den Grundsätzen der Grundsteuerbewertung geschätzte Wert
+maßgebend.
 
-1.  eines Hofs im Sinne der Höfeordnung und
+(4) Die Absätze 1 bis 3 sind entsprechend anzuwenden für die Bewertung
+
+1.  eines Hofes im Sinne der Höfeordnung und
 
 
 2.  eines landwirtschaftlichen Betriebs in einem Verfahren aufgrund der
-    Vorschriften über die gerichtliche Zuweisung eines Betriebs (§ 1
+    Vorschriften über die gerichtliche Zuweisung eines Betriebs (§ 1
     Nummer 2 des Gesetzes über das gerichtliche Verfahren in
     Landwirtschaftssachen), sofern das Verfahren mit der Zuweisung endet.
 
@@ -1677,15 +1684,15 @@ Familiensachen und in den Angelegenheiten der freiwilligen
 Gerichtsbarkeit.
 
 (2) Die Rechtsverordnung nach Absatz 1 erlässt das Bundesministerium
-der Justiz und für Verbraucherschutz. Sie bedarf der Zustimmung des
-Bundesrates. Die Höhe der Gebühren richtet sich nach den auf die
-Amtshandlungen entfallenden durchschnittlichen Personal- und
-Sachkosten; Gebühren für Fälle der Zurücknahme oder Zurückweisung von
-Anmeldungen können jedoch bestimmt werden, indem die für die
-entsprechenden Eintragungen zu erhebenden Gebühren pauschal mit Ab-
-oder Zuschlägen versehen werden. Die auf gebührenfreie Eintragungen
-entfallenden Personal- und Sachkosten können bei der Höhe der für
-andere Eintragungen festgesetzten Gebühren berücksichtigt werden.
+der Justiz. Sie bedarf der Zustimmung des Bundesrates. Die Höhe der
+Gebühren richtet sich nach den auf die Amtshandlungen entfallenden
+durchschnittlichen Personal- und Sachkosten; Gebühren für Fälle der
+Zurücknahme oder Zurückweisung von Anmeldungen können jedoch bestimmt
+werden, indem die für die entsprechenden Eintragungen zu erhebenden
+Gebühren pauschal mit Ab- oder Zuschlägen versehen werden. Die auf
+gebührenfreie Eintragungen entfallenden Personal- und Sachkosten
+können bei der Höhe der für andere Eintragungen festgesetzten Gebühren
+berücksichtigt werden.
 
 
 ### Abschnitt 2 - Wertvorschriften
@@ -2038,7 +2045,7 @@ anhängig war, auch insoweit zuständig, als Kosten bei den anderen
 Gerichten angesetzt worden sind.
 
 (2) Gegen die Entscheidung über die Erinnerung ist die Beschwerde
-statthaft, wenn der Wert des Beschwerdegegenstands 200 Euro
+statthaft, wenn der Wert des Beschwerdegegenstands 300 Euro
 übersteigt. Die Beschwerde ist auch zulässig, wenn sie das Gericht,
 das die angefochtene Entscheidung erlassen hat, wegen der
 grundsätzlichen Bedeutung der zur Entscheidung stehenden Frage in dem
@@ -2107,7 +2114,7 @@ bis 5 Satz 1 und 4 und Absatz 6 und 8 ist entsprechend anzuwenden.
 
 (1) Gegen den Beschluss, durch den der Geschäftswert für die
 Gerichtsgebühren festgesetzt worden ist (§ 79), ist die Beschwerde
-statthaft, wenn der Wert des Beschwerdegegenstands 200 Euro
+statthaft, wenn der Wert des Beschwerdegegenstands 300 Euro
 übersteigt. Die Beschwerde ist auch statthaft, wenn sie das Gericht,
 das die angefochtene Entscheidung erlassen hat, wegen der
 grundsätzlichen Bedeutung der zur Entscheidung stehenden Frage in dem
@@ -2117,7 +2124,7 @@ Geschäftswert später als einen Monat vor Ablauf dieser Frist
 festgesetzt worden, kann sie noch innerhalb eines Monats nach
 Zustellung oder formloser Mitteilung des Festsetzungsbeschlusses
 eingelegt werden. Im Fall der formlosen Mitteilung gilt der Beschluss
-mit dem dritten Tag nach Aufgabe zur Post als bekannt gemacht. § 81
+mit dem vierten Tag nach Aufgabe zur Post als bekannt gemacht. § 81
 Absatz 3 bis 5 Satz 1 und 4 und Absatz 6 ist entsprechend anzuwenden.
 Die weitere Beschwerde ist innerhalb eines Monats nach Zustellung der
 Entscheidung des Beschwerdegerichts einzulegen.
@@ -2160,7 +2167,7 @@ Verletzung des rechtlichen Gehörs zu erheben; der Zeitpunkt der
 Kenntniserlangung ist glaubhaft zu machen. Nach Ablauf eines Jahres
 seit Bekanntmachung der angegriffenen Entscheidung kann die Rüge nicht
 mehr erhoben werden. Formlos mitgeteilte Entscheidungen gelten mit dem
-dritten Tag nach Aufgabe zur Post als bekannt gemacht. Die Rüge ist
+vierten Tag nach Aufgabe zur Post als bekannt gemacht. Die Rüge ist
 bei dem Gericht zu erheben, dessen Entscheidung angegriffen wird; § 81
 Absatz 5 Satz 1 und 2 gilt entsprechend. Die Rüge muss die
 angegriffene Entscheidung bezeichnen und das Vorliegen der in Absatz 1
@@ -3211,10 +3218,10 @@ Bürgerlichen Gesetzbuche sind entsprechend anzuwenden.
 
 ### § 133 Bekanntmachung von Neufassungen
 
-Das Bundesministerium der Justiz und für Verbraucherschutz kann nach
-Änderungen den Wortlaut des Gesetzes feststellen und als Neufassung im
-Bundesgesetzblatt bekannt machen. Die Bekanntmachung muss auf diese
-Vorschrift Bezug nehmen und angeben
+Das Bundesministerium der Justiz kann nach Änderungen den Wortlaut des
+Gesetzes feststellen und als Neufassung im Bundesgesetzblatt bekannt
+machen. Die Bekanntmachung muss auf diese Vorschrift Bezug nehmen und
+angeben
 
 1.  den Stichtag, zu dem der Wortlaut festgestellt wird,
 
@@ -3369,6 +3376,27 @@ anzuwenden:
 
 An die Stelle der Kostenordnung treten dabei die in Satz 1 genannten
 Vorschriften.
+
+
+### § 137 Übergangsvorschrift zum Gesetz zur Änderung des Zuständigkeitsstreitwerts der Amtsgerichte, zum Ausbau der Spezialisierung der Justiz in Zivilsachen sowie zur Änderung weiterer prozessualer Regelungen
+
+(1) Die §§ 81 und 83 sind in ihrer bis einschließlich 31. Dezember
+2025 geltenden Fassung weiter anzuwenden
+
+1.  in gerichtlichen Verfahren, die vor dem 1. Januar 2026 anhängig
+    geworden oder eingeleitet worden sind;
+
+
+2.  in gerichtlichen Verfahren über ein Rechtsmittel, das vor dem 1.
+    Januar 2026 eingelegt worden ist.
+
+
+
+
+(2) In Verfahren, in denen Jahresgebühren erhoben werden, und in allen
+übrigen Fällen, in denen Absatz 1 keine Anwendung findet, gelten für
+Kosten, die vor dem 1. Januar 2026 fällig geworden sind, die §§ 81 und
+83 in ihrer bis einschließlich 31. Dezember 2025 geltenden Fassung.
 
 (zu § 3 Absatz 2)
 
@@ -3708,11 +3736,8 @@ Teil 1
 
 *    *   Vorbemerkung 1.1:
         (1) In Betreuungssachen werden von dem Betroffenen Gebühren nach
-        diesem Hauptabschnitt nur erhoben, wenn zum Zeitpunkt der Fälligkeit
-        der jeweiligen Gebühr sein Vermögen nach Abzug der Verbindlichkeiten
-        mehr als 25 000 € beträgt; der in § 90 Abs. 2 Nr. 8 des Zwölften
-        Buches Sozialgesetzbuch genannte Vermögenswert wird nicht
-        mitgerechnet.
+        diesem Hauptabschnitt nur nach Maßgabe des § 1880 Abs. 2 BGB erhoben.
+        Maßgeblich ist der Zeitpunkt der Fälligkeit.
         (2) Im Verfahren vor dem Registergericht über die Bestellung eines
         Vertreters des Schiffseigentümers nach § 42 Abs. 2 des Gesetzes über
         Rechte an eingetragenen Schiffen und Schiffsbauwerken werden die
@@ -3748,7 +3773,7 @@ Teil 1
         Dauerbetreuung, wenn nicht Nummer 11102 anzuwenden ist  ..........
         (1) Für die Gebühr wird das Vermögen des von der Maßnahme Betroffenen
         nur berücksichtigt, soweit es nach Abzug der Verbindlichkeiten mehr
-        als 25 000 € beträgt; der in § 90 Abs. 2 Nr. 8 des Zwölften Buches
+        als 10 000 € beträgt; der in § 90 Abs. 2 Nr. 8 des Zwölften Buches
         Sozialgesetzbuch genannte Vermögenswert wird nicht mitgerechnet. Ist
         Gegenstand der Betreuung ein Teil des Vermögens, ist höchstens dieser
         Teil des Vermögens zu berücksichtigen.
@@ -3943,7 +3968,7 @@ Teil 1
         Mit der Gebühr wird auch die Verwahrung, die Mitteilung nach § 347
         FamFG und die Herausgabe abgegolten.
 
-    *   75,00 €
+    *   82,00 €
 
 
 *    *   12101
@@ -3953,7 +3978,7 @@ Teil 1
         demselben Gericht gleichzeitig eröffnet, so ist nur eine Gebühr zu
         erheben.
 
-    *   100,00 €
+    *   109,00 €
 
 
 *    *   Abschnitt 2
@@ -4019,7 +4044,7 @@ Teil 1
         Die Gebühr 12210 ermäßigt sich auf  ..........
 
     *   0,3
-        – höchstens 200,00 €
+        – höchstens 218,00 €
 
 
 *    *   12212
@@ -4030,7 +4055,7 @@ Teil 1
         Die Gebühr 12210 ermäßigt sich auf  ..........
 
     *   0,5
-        – höchstens 400,00 €
+        – höchstens 436,00 €
 
 
 *    *   12213
@@ -4047,7 +4072,7 @@ Teil 1
     *   Beendigung des Verfahrens ohne Erteilung des Zeugnisses:
         Die Gebühr 12213 beträgt  ..........
 
-    *   höchstens 200,00 €
+    *   höchstens 218,00 €
 
 
 *    *   12215
@@ -4060,7 +4085,7 @@ Teil 1
         § 42 auch i. V. m. § 74 der Schiffsregisterordnung  ..........
 
     *   0,5
-        – höchstens 400,00 €
+        – höchstens 436,00 €
 
 
 *    *   12216
@@ -4069,7 +4094,7 @@ Teil 1
         ..........
 
     *   0,5
-        – höchstens 400,00 €
+        – höchstens 436,00 €
 
 
 *    *   12217
@@ -4089,7 +4114,7 @@ Teil 1
          ..........
         Neben der Gebühr wird keine Dokumentenpauschale erhoben.
 
-    *   20,00 €
+    *   22,00 €
 
 
 *    *   Unterabschnitt 2
@@ -4101,7 +4126,7 @@ Teil 1
     *   Verfahren im Allgemeinen  ..........
 
     *   1,0
-        – höchstens 800,00 €
+        – höchstens 872,00 €
 
 
 *    *   12221
@@ -4112,7 +4137,7 @@ Teil 1
         Die Gebühr 12220 ermäßigt sich auf  ..........
 
     *   0,3
-        – höchstens 200,00 €
+        – höchstens 218,00 €
 
 
 *    *   12222
@@ -4129,7 +4154,7 @@ Teil 1
         die Kostentragung oder einer Kostenübernahmeerklärung folgt.
 
     *   0,5
-        – höchstens 400,00 €
+        – höchstens 436,00 €
 
 
 *    *   Unterabschnitt 3
@@ -4141,7 +4166,7 @@ Teil 1
     *   Verfahren im Allgemeinen  ..........
 
     *   1,5
-        – höchstens 1 200,00 €
+        – höchstens 1 308,00 €
 
 
 *    *   12231
@@ -4152,7 +4177,7 @@ Teil 1
         Die Gebühr 12230 ermäßigt sich auf  ..........
 
     *   0,5
-        – höchstens 400,00 €
+        – höchstens 436,00 €
 
 
 *    *   12232
@@ -4164,7 +4189,7 @@ Teil 1
         Die Gebühr 12230 ermäßigt sich auf  ..........
 
     *   1,0
-        – höchstens 800,00 €
+        – höchstens 872,00 €
 
 
 *    *   Unterabschnitt 4
@@ -4178,7 +4203,7 @@ Teil 1
         Soweit der Antrag abgelehnt wird:  ..........
 
     *   0,5
-        – höchstens 400,00 €
+        – höchstens 436,00 €
 
 
 
@@ -4358,7 +4383,7 @@ Teil 1
         Forderungsanmeldungen, Erklärungen oder Anzeigen nach derselben Nummer
         entsteht die Gebühr nur einmal.
 
-    *   15,00 €
+    *   16,00 €
 
 
 *    *   12411
@@ -4372,7 +4397,7 @@ Teil 1
         5\. eine Fristbestimmung, die eine Testamentsvollstreckung betrifft
          ..........
 
-    *   25,00 €
+    *   27,00 €
 
 
 *    *   12412
@@ -4380,7 +4405,7 @@ Teil 1
     *   Verfahren über den Antrag des Erben, einen Notar mit der amtlichen
         Aufnahme des Nachlassinventars zu beauftragen  ..........
 
-    *   40,00 €
+    *   44,00 €
 
 
 *    *   12413
@@ -4388,7 +4413,7 @@ Teil 1
     *   Verfahren über die Erteilung einer Bescheinigung, die die Annahme des
         Amtes als Testamentsvollstrecker bestätigt  ..........
 
-    *   50,00 €
+    *   55,00 €
 
 
 *    *   Unterabschnitt 2
@@ -4626,8 +4651,8 @@ Teil 1
 
 *    *   13101
 
-    *   Verfahren über eine spätere Eintragung in das Vereinsregister
-         ..........
+    *   Verfahren über eine Eintragung in das Vereinsregister, soweit es sich
+        nicht um eine Ersteintragung handelt  ..........
         (1) Bei einer Sitzverlegung in den Bezirk eines anderen
         Registergerichts wird die Gebühr für eine spätere Eintragung nur durch
         das Gericht erhoben, in dessen Bezirk der Sitz verlegt worden ist.
@@ -5947,11 +5972,7 @@ Teil 1
 
 *    *   15210
 
-    *   Verfahren nach dem
-        1\. Verschollenheitsgesetz oder
-        2\. TSG  ..........
-        Die Verfahren nach § 9 Abs. 1 und 2 TSG gelten zusammen als ein
-        Verfahren.
+    *   Verfahren nach dem Verschollenheitsgesetz  ..........
 
     *   1,0
 
@@ -6579,7 +6600,7 @@ Teil 1
     *   Anordnung von Zwangsmaßnahmen durch Beschluss nach § 35 FamFG:
         je Anordnung  ..........
 
-    *   22,00 €
+    *   24,00 €
 
 
 
@@ -6608,7 +6629,9 @@ Teil 1
 
     *   Verfahren über die Erteilung einer vollstreckbaren Ausfertigung einer
         notariellen Urkunde, wenn der Eintritt einer Tatsache oder einer
-        Rechtsnachfolge zu prüfen ist (§§ 726 bis 729 ZPO)  ..........
+        Rechtsnachfolge zu prüfen ist (§ 726 Abs. 1, § 727, auch i. V. m. den
+        §§ 728, 729, 738, 742, 744, 744a, 745 Abs. 2 oder § 749 ZPO)
+         ..........
 
     *   0,5
 
@@ -6616,19 +6639,30 @@ Teil 1
 *    *   18001
 
     *   Verfahren über den Antrag auf Erteilung einer weiteren vollstreckbaren
-        Ausfertigung (§ 733 ZPO)  ..........
-        Die Gebühr wird für jede weitere vollstreckbare Ausfertigung gesondert
-        erhoben.
+        Ausfertigung (§ 733 ZPO) oder auf Erteilung einer vollstreckbaren
+        Ausfertigung für oder gegen einen Rechtsnachfolger (§ 727, auch i. V.
+        m. den §§ 728, 729, 738, 742, 744, 744a, 745 Abs. 2 oder § 749 ZPO),
+        soweit nicht Nummer 18000 anzuwenden ist ..........
 
-    *   22,00 €
+    *   24,00 €
 
+
+*    *
+    *   (1) Die Gebühr wird für jede weitere vollstreckbare Ausfertigung
+        gesondert erhoben.
+        (2) In Verfahren über den Antrag auf Erteilung einer vollstreckbaren
+        Ausfertigung für oder gegen einen Rechtsnachfolger wird die Gebühr im
+        Fall der erstmaligen Erteilung einer vollstreckbaren Ausfertigung
+        nicht erhoben.
+
+    *
 
 *    *   18002
 
     *   Anordnung der Vornahme einer vertretbaren Handlung durch einen Dritten
          ..........
 
-    *   22,00 €
+    *   24,00 €
 
 
 *    *   18003
@@ -6640,7 +6674,7 @@ Teil 1
         Verpflichtung die wiederholte Vornahme einer Handlung oder eine
         Unterlassung ist.
 
-    *   22,00 €
+    *   24,00 €
 
 
 *    *   18004
@@ -6651,7 +6685,7 @@ Teil 1
         Verpflichtete eine eidesstattliche Versicherung abzugeben hat, oder
         mit dem Eingang des Antrags des Berechtigten.
 
-    *   35,00 €
+    *   38,00 €
 
 
 *    *   Hauptabschnitt 9
@@ -6672,7 +6706,7 @@ Teil 1
     *   Verfahren über die Beschwerde in den Fällen des § 129 GNotKG und des §
         372 Abs. 1 FamFG  ..........
 
-    *   99,00 €
+    *   108,00 €
 
 
 *    *   19111
@@ -6687,7 +6721,7 @@ Teil 1
         entgegen, wenn die Entscheidung einer zuvor mitgeteilten Einigung über
         die Kostentragung oder einer Kostenübernahmeerklärung folgt.
 
-    *   66,00 €
+    *   72,00 €
 
 
 *    *   19112
@@ -6752,7 +6786,7 @@ Teil 1
         das Gericht die Gebühr nach billigem Ermessen auf die Hälfte ermäßigen
         oder bestimmen, dass eine Gebühr nicht zu erheben ist.
 
-    *   66,00 €
+    *   72,00 €
 
 
 *    *   Unterabschnitt 2
@@ -6764,7 +6798,7 @@ Teil 1
     *   Verfahren über die Rechtsbeschwerde in den Fällen des § 129 GNotKG und
         des § 372 Abs. 1 FamFG  ..........
 
-    *   198,00 €
+    *   216,00 €
 
 
 *    *   19121
@@ -6774,7 +6808,7 @@ Teil 1
         der Rechtsbeschwerde bei Gericht eingegangen ist:
         Die Gebühr 19120 ermäßigt sich auf  ..........
 
-    *   66,00 €
+    *   72,00 €
 
 
 *    *   19122
@@ -6785,7 +6819,7 @@ Teil 1
         Nummer 19121 erfüllt ist:
         Die Gebühr 19120 ermäßigt sich auf  ..........
 
-    *   99,00 €
+    *   108,00 €
 
 
 *    *   19123
@@ -6859,7 +6893,7 @@ Teil 1
         kann das Gericht die Gebühr nach billigem Ermessen auf die Hälfte
         ermäßigen oder bestimmen, dass eine Gebühr nicht zu erheben ist.
 
-    *   132,00 €
+    *   144,00 €
 
 
 *    *   19129
@@ -6869,7 +6903,7 @@ Teil 1
         Rechtsbeschwerde oder des Antrags vor Ablauf des Tages, an dem die
         Endentscheidung der Geschäftsstelle übermittelt wird  ..........
 
-    *   66,00 €
+    *   72,00 €
 
 
 *    *   Unterabschnitt 3
@@ -6883,7 +6917,7 @@ Teil 1
         Der Antrag wird abgelehnt  ..........
         ..........
 
-    *   66,00 €
+    *   72,00 €
 
 
 *    *   Abschnitt 2
@@ -6897,7 +6931,7 @@ Teil 1
         Die Rüge wird in vollem Umfang verworfen oder zurückgewiesen
          ..........
 
-    *   66,00 €
+    *   72,00 €
 
 
 
@@ -7399,7 +7433,7 @@ Teil 2
         6\. Erteilung einer Bescheinigung über Veränderungen hinsichtlich der
         Personen der Gesellschafter oder des Umfangs ihrer Beteiligung (§ 40
         Abs. 2 GmbHG), wenn Umstände außerhalb der Urkunde zu prüfen sind, und
-        7\. Entgegennahme der für den Gläubiger bestimmten Ausfertigung einer
+        7\. Entgegennahme der für den Gläubiger bestimmten
         Grundpfandrechtsbestellungsurkunde zur Herbeiführung der
         Bindungswirkung gemäß § 873 Abs. 2 BGB.
 
@@ -7656,7 +7690,7 @@ Teil 2
     *   Verfahren über die Vollstreckbarerklärung eines Anwaltsvergleichs nach
         § 796a ZPO  ..........
 
-    *   66,00 €
+    *   72,00 €
 
 
 *    *   23801
@@ -7679,7 +7713,8 @@ Teil 2
 
     *   Verfahren über die Erteilung einer vollstreckbaren Ausfertigung, wenn
         der Eintritt einer Tatsache oder einer Rechtsnachfolge zu prüfen ist
-        (§§ 726 bis 729 ZPO)  ..........
+        (§ 726 Abs. 1, § 727, auch i. V. m. den §§ 728, 729, 738, 742, 744,
+        744a, 745 Abs. 2 oder § 749 ZPO)  ..........
 
     *   0,5
 
@@ -7691,7 +7726,7 @@ Teil 2
         Die Gebühr wird für jede weitere vollstreckbare Ausfertigung gesondert
         erhoben.
 
-    *   22,00 €
+    *   24,00 €
 
 
 *    *   23805
@@ -7699,7 +7734,7 @@ Teil 2
     *   Verfahren über die Ausstellung einer Bestätigung nach § 1079 ZPO oder
         über die Ausstellung einer Bescheinigung nach § 1110 ZPO  ..........
 
-    *   22,00 €
+    *   24,00 €
 
 
 *    *   23806
@@ -7708,7 +7743,7 @@ Teil 2
         notariellen Urkunde nach § 55 Abs. 3 AVAG, nach § 35 Abs. 3 AUG, nach
         § 3 Abs. 4 IntErbRVG oder nach § 4 Abs. 4 IntGüRVG ..........
 
-    *   264,00 €
+    *   288,00 €
 
 
 *    *   23807
@@ -7716,7 +7751,7 @@ Teil 2
     *   Beendigung des gesamten Verfahrens durch Zurücknahme des Antrags:
         Die Gebühr 23806 ermäßigt sich auf  ..........
 
-    *   99,00 €
+    *   108,00 €
 
 
 *    *   23808
@@ -7725,7 +7760,7 @@ Teil 2
         27 IntErbRVG oder § 27 IntGüRVG oder für die Ausstellung des
         Formblatts oder der Bescheinigung nach § 71 Abs. 1 AUG  ..........
 
-    *   17,00 €
+    *   19,00 €
 
 
 *    *   Abschnitt 9
@@ -7964,7 +7999,7 @@ Teil 2
         (3) Einer Kopie im Sinne des Absatzes 2 steht ein in ein
         elektronisches Dokument übertragenes Schriftstück gleich, insbesondere
         wenn dieses einer vom Notar gefertigten elektronischen Niederschrift
-        beigefügt ist (§ 16d des Beurkundungsgesetzes).
+        beigefügt ist (§ 12 Abs. 1 Satz 2 BeurkG).
 
     *   1,00 €
         für jede
@@ -8306,8 +8341,7 @@ Teil 3
         gebührenfrei ist; dies gilt jedoch nicht, soweit das Beschwerdegericht
         die Kosten dem Gegner des Beschwerdeführers auferlegt hat.
         (2) In Betreuungssachen werden von dem Betroffenen Auslagen nur unter
-        den in Vorbemerkung 1.1 Abs. 1 genannten Voraussetzungen erhoben. Satz
-        1 gilt nicht für die Auslagen 31015.
+        den in Vorbemerkung 1.1 Abs. 1 genannten Voraussetzungen erhoben.
 
 
 *    *   31000
@@ -8454,13 +8488,22 @@ Teil 3
 
 *    *   31008
 
-    *   Auslagen für
-        1\. die Beförderung von Personen  ..........
-        2\. Zahlungen an mittellose Personen für die Reise zum Ort einer
-        Verhandlung oder Anhörung sowie für die Rückreise  ..........
+    *   Auslagen
+
+    *
+
+*    *
+    *   1. der Beförderung von Personen ..........
 
     *   in voller Höhe
-        bis zur Höhe der nach dem JVEG an Zeugen zu zahlenden Beträge
+
+
+*    *
+    *   2. der Gewährung von Reiseentschädigungen für mittellose Personen,
+        soweit diese Kosten nicht Auslagen nach Nummer 31005 sind ..........
+
+    *   bis zur Höhe der nach dem JVEG
+        an Zeugen zu zahlenden Beträge
 
 
 *    *   31009
@@ -8541,21 +8584,13 @@ Teil 3
 *    *   31015
 
     *   An den Verfahrenspfleger zu zahlende Beträge  ..........
-        Die Beträge werden von dem Betroffenen nur nach Maßgabe des § 1880
+        Die Beträge werden von dem Betroffenen nur nach Maßgabe des § 1880
         Abs. 2 BGB erhoben.
 
     *   in voller Höhe
 
 
 *    *   31016
-
-    *   Pauschale für die Inanspruchnahme von Videokonferenzverbindungen:
-        je Verfahren für jede angefangene halbe Stunde ..........
-
-    *   15,00 €
-
-
-*    *   31017
 
     *   Umsatzsteuer auf die Kosten
         Dies gilt nicht, wenn die Umsatzsteuer nach § 19 Abs. 1 UStG unerhoben
@@ -8795,8 +8830,7 @@ Teil 3
 
 ### Anlage 2 (zu § 34 Absatz 3)
 
-(Fundstelle: BGBl. I 2020, 3238)
-
+(Fundstelle: BGBl. 2025 I Nr. 109, S. 18)
 
 
 *    *   Geschäfts-
@@ -8840,644 +8874,644 @@ Teil 3
 
 *    *   **500**
 
-    *   38,00
+    *   40,00
 
     *   15,00
 
     *
     *   **200 000**
 
-    *   1 921,00
+    *   2 038,00
 
     *   435,00
 
     *
     *   **1 550 000**
 
-    *   8 059,00
+    *   8 548,00
 
     *   2 615,00
 
 
 *    *   **1 000**
 
-    *   58,00
+    *   61,00
 
     *   19,00
 
     *
     *   **230 000**
 
-    *   2 119,00
+    *   2 248,00
 
     *   485,00
 
     *
     *   **1 600 000**
 
-    *   8 257,00
+    *   8 758,00
 
     *   2 695,00
 
 
 *    *   **1 500**
 
-    *   78,00
+    *   82,00
 
     *   23,00
 
     *
     *   **260 000**
 
-    *   2 317,00
+    *   2 458,00
 
     *   535,00
 
     *
     *   **1 650 000**
 
-    *   8 455,00
+    *   8 968,00
 
     *   2 775,00
 
 
 *    *   **2 000**
 
-    *   98,00
+    *   103,00
 
     *   27,00
 
     *
     *   **290 000**
 
-    *   2 515,00
+    *   2 668,00
 
     *   585,00
 
     *
     *   **1 700 000**
 
-    *   8 653,00
+    *   9 178,00
 
     *   2 855,00
 
 
 *    *   **3 000**
 
-    *   119,00
+    *   125,50
 
     *   33,00
 
     *
     *   **320 000**
 
-    *   2 713,00
+    *   2 878,00
 
     *   635,00
 
     *
     *   **1 750 000**
 
-    *   8 851,00
+    *   9 388,00
 
     *   2 935,00
 
 
 *    *   **4 000**
 
-    *   140,00
+    *   148,00
 
     *   39,00
 
     *
     *   **350 000**
 
-    *   2 911,00
+    *   3 088,00
 
     *   685,00
 
     *
     *   **1 800 000**
 
-    *   9 049,00
+    *   9 598,00
 
     *   3 015,00
 
 
 *    *   **5 000**
 
-    *   161,00
+    *   170,50
 
     *   45,00
 
     *
     *   **380 000**
 
-    *   3 109,00
+    *   3 298,00
 
     *   735,00
 
     *
     *   **1 850 000**
 
-    *   9 247,00
+    *   9 808,00
 
     *   3 095,00
 
 
 *    *   **6 000**
 
-    *   182,00
+    *   193,00
 
     *   51,00
 
     *
     *   **410 000**
 
-    *   3 307,00
+    *   3 508,00
 
     *   785,00
 
     *
     *   **1 900 000**
 
-    *   9 445,00
+    *   10 018,00
 
     *   3 175,00
 
 
 *    *   **7 000**
 
-    *   203,00
+    *   215,50
 
     *   57,00
 
     *
     *   **440 000**
 
-    *   3 505,00
+    *   3 718,00
 
     *   835,00
 
     *
     *   **1 950 000**
 
-    *   9 643,00
+    *   10 228,00
 
     *   3 255,00
 
 
 *    *   **8 000**
 
-    *   224,00
+    *   238,00
 
     *   63,00
 
     *
     *   **470 000**
 
-    *   3 703,00
+    *   3 928,00
 
     *   885,00
 
     *
     *   **2 000 000**
 
-    *   9 841,00
+    *   10 438,00
 
     *   3 335,00
 
 
 *    *   **9 000**
 
-    *   245,00
+    *   260,50
 
     *   69,00
 
     *
     *   **500 000**
 
-    *   3 901,00
+    *   4 138,00
 
     *   935,00
 
     *
     *   **2 050 000**
 
-    *   10 039,00
+    *   10 648,00
 
     *   3 415,00
 
 
 *    *   **10 000**
 
-    *   266,00
+    *   283,00
 
     *   75,00
 
     *
     *   **550 000**
 
-    *   4 099,00
+    *   4 348,00
 
     *   1 015,00
 
     *
     *   **2 100 000**
 
-    *   10 237,00
+    *   10 858,00
 
     *   3 495,00
 
 
 *    *   **13 000**
 
-    *   295,00
+    *   313,50
 
     *   83,00
 
     *
     *   **600 000**
 
-    *   4 297,00
+    *   4 558,00
 
     *   1 095,00
 
     *
     *   **2 150 000**
 
-    *   10 435,00
+    *   11 068,00
 
     *   3 575,00
 
 
 *    *   **16 000**
 
-    *   324,00
+    *   344,00
 
     *   91,00
 
     *
     *   **650 000**
 
-    *   4 495,00
+    *   4 768,00
 
     *   1 175,00
 
     *
     *   **2 200 000**
 
-    *   10 633,00
+    *   11 278,00
 
     *   3 655,00
 
 
 *    *   **19 000**
 
-    *   353,00
+    *   374,50
 
     *   99,00
 
     *
     *   **700 000**
 
-    *   4 693,00
+    *   4 978,00
 
     *   1 255,00
 
     *
     *   **2 250 000**
 
-    *   10 831,00
+    *   11 488,00
 
     *   3 735,00
 
 
 *    *   **22 000**
 
-    *   382,00
+    *   405,00
 
     *   107,00
 
     *
     *   **750 000**
 
-    *   4 891,00
+    *   5 188,00
 
     *   1 335,00
 
     *
     *   **2 300 000**
 
-    *   11 029,00
+    *   11 698,00
 
     *   3 815,00
 
 
 *    *   **25 000**
 
-    *   411,00
+    *   435,50
 
     *   115,00
 
     *
     *   **800 000**
 
-    *   5 089,00
+    *   5 398,00
 
     *   1 415,00
 
     *
     *   **2 350 000**
 
-    *   11 227,00
+    *   11 908,00
 
     *   3 895,00
 
 
 *    *   **30 000**
 
-    *   449,00
+    *   476,00
 
     *   125,00
 
     *
     *   **850 000**
 
-    *   5 287,00
+    *   5 608,00
 
     *   1 495,00
 
     *
     *   **2 400 000**
 
-    *   11 425,00
+    *   12 118,00
 
     *   3 975,00
 
 
 *    *   **35 000**
 
-    *   487,00
+    *   516,50
 
     *   135,00
 
     *
     *   **900 000**
 
-    *   5 485,00
+    *   5 818,00
 
     *   1 575,00
 
     *
     *   **2 450 000**
 
-    *   11 623,00
+    *   12 328,00
 
     *   4 055,00
 
 
 *    *   **40 000**
 
-    *   525,00
+    *   557,00
 
     *   145,00
 
     *
     *   **950 000**
 
-    *   5 683,00
+    *   6 028,00
 
     *   1 655,00
 
     *
     *   **2 500 000**
 
-    *   11 821,00
+    *   12 538,00
 
     *   4 135,00
 
 
 *    *   **45 000**
 
-    *   563,00
+    *   597,50
 
     *   155,00
 
     *
     *   **1 000 000**
 
-    *   5 881,00
+    *   6 238,00
 
     *   1 735,00
 
     *
     *   **2 550 000**
 
-    *   12 019,00
+    *   12 748,00
 
     *   4 215,00
 
 
 *    *   **50 000**
 
-    *   601,00
+    *   638,00
 
     *   165,00
 
     *
     *   **1 050 000**
 
-    *   6 079,00
+    *   6 448,00
 
     *   1 815,00
 
     *
     *   **2 600 000**
 
-    *   12 217,00
+    *   12 958,00
 
     *   4 295,00
 
 
 *    *   **65 000**
 
-    *   733,00
+    *   778,00
 
     *   192,00
 
     *
     *   **1 100 000**
 
-    *   6 277,00
+    *   6 658,00
 
     *   1 895,00
 
     *
     *   **2 650 000**
 
-    *   12 415,00
+    *   13 168,00
 
     *   4 375,00
 
 
 *    *   **80 000**
 
-    *   865,00
+    *   918,00
 
     *   219,00
 
     *
     *   **1 150 000**
 
-    *   6 475,00
+    *   6 868,00
 
     *   1 975,00
 
     *
     *   **2 700 000**
 
-    *   12 613,00
+    *   13 378,00
 
     *   4 455,00
 
 
 *    *   **95 000**
 
-    *   997,00
+    *   1 058,00
 
     *   246,00
 
     *
     *   **1 200 000**
 
-    *   6 673,00
+    *   7 078,00
 
     *   2 055,00
 
     *
     *   **2 750 000**
 
-    *   12 811,00
+    *   13 588,00
 
     *   4 535,00
 
 
 *    *   **110 000**
 
-    *   1 129,00
+    *   1 198,00
 
     *   273,00
 
     *
     *   **1 250 000**
 
-    *   6 871,00
+    *   7 288,00
 
     *   2 135,00
 
     *
     *   **2 800 000**
 
-    *   13 009,00
+    *   13 798,00
 
     *   4 615,00
 
 
 *    *   **125 000**
 
-    *   1 261,00
+    *   1 338,00
 
     *   300,00
 
     *
     *   **1 300 000**
 
-    *   7 069,00
+    *   7 498,00
 
     *   2 215,00
 
     *
     *   **2 850 000**
 
-    *   13 207,00
+    *   14 008,00
 
     *   4 695,00
 
 
 *    *   **140 000**
 
-    *   1 393,00
+    *   1 478,00
 
     *   327,00
 
     *
     *   **1 350 000**
 
-    *   7 267,00
+    *   7 708,00
 
     *   2 295,00
 
     *
     *   **2 900 000**
 
-    *   13 405,00
+    *   14 218,00
 
     *   4 775,00
 
 
 *    *   **155 000**
 
-    *   1 525,00
+    *   1 618,00
 
     *   354,00
 
     *
     *   **1 400 000**
 
-    *   7 465,00
+    *   7 918,00
 
     *   2 375,00
 
     *
     *   **2 950 000**
 
-    *   13 603,00
+    *   14 428,00
 
     *   4 855,00
 
 
 *    *   **170 000**
 
-    *   1 657,00
+    *   1 758,00
 
     *   381,00
 
     *
     *   **1 450 000**
 
-    *   7 663,00
+    *   8 128,00
 
     *   2 455,00
 
     *
     *   **3 000 000**
 
-    *   13 801,00
+    *   14 638,00
 
     *   4 935,00
 
 
 *    *   **185 000**
 
-    *   1 789,00
+    *   1 898,00
 
     *   408,00
 
     *
     *   **1 500 000**
 
-    *   7 861,00
+    *   8 338,00
 
     *   2 535,00
 

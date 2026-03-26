@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2010, 2324
 
 Zuletzt geändert durch
-:   Art. 6 G v. 19.7.2023 I Nr. 197
+:   Art. 1 V v. 4.3.2025 I Nr. 75
 
 
 ## Eingangsformel
@@ -45,8 +45,31 @@ Arzneimittel, die Wirkstoffe enthalten, deren Wirkungen bei der
 erstmaligen Zulassung in der medizinischen Wissenschaft nicht
 allgemein bekannt sind. Ein Arzneimittel mit einem neuen Wirkstoff im
 Sinne dieser Verordnung gilt solange als ein Arzneimittel mit einem
-neuen Wirkstoff, wie für das erstmalig zugelassene Arzneimittel mit
-dem Wirkstoff Unterlagenschutz besteht.
+neuen Wirkstoff, wie für das erstmalig im Geltungsbereich dieser
+Verordnung zugelassene Arzneimittel mit dem Wirkstoff Unterlagenschutz
+besteht. Unterlagenschutz im Sinne von Satz 2 ist
+
+1.  der Schutz vor Bezugnahme auf die Unterlagen des jeweiligen
+    Arzneimittels nach § 24b Absatz 1 Satz 1 des Arzneimittelgesetzes, der
+    Schutz vor dem Inverkehrbringen eines mittels einer solchen Bezugnahme
+    zugelassenen Generikums nach § 24b Absatz 1 Satz 2 und 3 des
+    Arzneimittelgesetzes sowie der nach Artikel 14 Absatz 11 der
+    Verordnung (EG) Nr. 726/2004 des Europäischen Parlaments und des Rates
+    vom 31. März 2004 zur Festlegung der Verfahren der Union für die
+    Genehmigung und Überwachung von Humanarzneimitteln und zur Errichtung
+    einer Europäischen Arzneimittel-Agentur (ABl. L 136 vom 30.4.2004, S.
+    1), die zuletzt durch die Verordnung (EU) 2019/5 (ABl. L 4 vom
+    7\.1.2019, S. 24) geändert worden ist, bestehende Schutz und
+
+
+2.  das Marktexklusivitätsrecht nach Artikel 8 der Verordnung (EG) Nr.
+    141/2000 des Europäischen Parlaments und des Rates vom 16. Dezember
+    1999 über Arzneimittel für seltene Leiden (ABl. L 18 vom 22.1.2000, S.
+    1), die zuletzt durch die Verordnung (EU) 2019/1243 (ABl. L 198 vom
+    25\.7.2019, S. 241) geändert worden ist.
+
+
+
 
 (2) Ein neues Anwendungsgebiet ist ein Anwendungsgebiet, für das nach
 § 29 Absatz 3 Nummer 3 des Arzneimittelgesetzes eine neue Zulassung
@@ -71,6 +94,23 @@ Vergleichstherapie aufweist.
 diejenige Therapie, deren Nutzen mit dem Nutzen eines Arzneimittels
 mit neuen Wirkstoffen für die Nutzenbewertung nach § 35a des Fünften
 Buches Sozialgesetzbuch verglichen wird.
+
+(6) Gemeinsame klinische Bewertung im Sinne dieser Verordnung ist die
+gemeinsame klinische Bewertung eines Arzneimittels im Sinne des
+Artikels 2 Nummer 6 der Verordnung (EU) 2021/2282 des Europäischen
+Parlaments und des Rates vom 15. Dezember 2021 über die Bewertung von
+Gesundheitstechnologien und zur Änderung der Richtlinie 2011/24/EU
+(ABl. L 458 vom 22.12.2021, S. 1; L, 2024/90313, 28.5.2024) nach den
+Vorgaben der Verordnung (EU) 2021/2282.
+
+(7) Europäisches Dossier im Sinne dieser Verordnung sind die im nach
+Artikel 10 Absatz 2 der Verordnung (EU) 2021/2282 zur Durchführung
+einer gemeinsamen klinischen Bewertung vorgelegten Dossier enthaltenen
+und die nach Artikel 10 Absatz 5 Satz 2 der Verordnung (EU) 2021/2282,
+auf Aufforderung nach Artikel 11 Absatz 2 Satz 1 der Verordnung (EU)
+2021/2282 oder in Folge einer Information nach Artikel 11 Absatz 2
+Satz 3 der Verordnung (EU) 2021/2282 nachgereichten Informationen,
+Daten, Analysen und sonstigen Nachweise.
 
 
 ## § 3 Anwendungsbereich der Nutzenbewertung nach § 35a SGB V
@@ -154,6 +194,13 @@ Standards der für die Zulassung zuständigen Bundesoberbehörde
 (Zulassungsbehörde) orientieren. Das Dossier soll insbesondere eine
 Zusammenfassung der wesentlichen Aussagen enthalten, die Grundlage für
 Vereinbarungen nach § 130b des Fünften Buches Sozialgesetzbuch ist.
+
+(2a) Wurde für ein Arzneimittel ein europäisches Dossier vorgelegt und
+wurde die gemeinsame klinische Bewertung des Arzneimittels nicht nach
+Artikel 10 Absatz 6 Satz 1 der Verordnung (EU) 2021/2282 eingestellt,
+hat der pharmazeutische Unternehmer im Dossier anzugeben, ob und
+welche Nachweise aus dem europäischen Dossier Grundlage der
+Nutzenbewertung sein sollen, indem er auf diese Nachweise Bezug nimmt.
 
 (3) Das Dossier ist spätestens zu folgenden Zeitpunkten zu
 übermitteln:
@@ -421,10 +468,8 @@ den Nummern 1 bis 6 oder einschränkende Zusätze des Beschlusses über
 die Nutzenbewertung nach § 7 Absatz 4 sind nicht zulässig.
 
 (8) Für Arzneimittel, die zur Behandlung eines seltenen Leidens nach
-der Verordnung (EG) Nr. 141/2000 des Europäischen Parlaments und des
-Rates vom 16. Dezember 1999 über Arzneimittel für seltene Leiden (ABl.
-L 18 vom 22.1.2000, S. 1) zugelassen sind und für die keine Nachweise
-nach § 35a Absatz 1 Satz 3 Nummer 2 und 3 des Fünften Buches
+der Verordnung (EG) Nr. 141/2000 zugelassen sind und für die keine
+Nachweise nach § 35a Absatz 1 Satz 3 Nummer 2 und 3 des Fünften Buches
 Sozialgesetzbuch vorgelegt werden müssen, ist unter Angabe der
 Aussagekraft der Nachweise nur das Ausmaß des Zusatznutzens nach
 Absatz 7 Satz 1 Nummer 1 bis 4 zu quantifizieren. Im Fall des Absatzes
@@ -499,9 +544,30 @@ gewährleisten.
 Grundlage dafür sind das Dossier des pharmazeutischen Unternehmers
 nach § 4 sowie die aus einer anwendungsbegleitenden Datenerhebung nach
 § 35a Absatz 3b des Fünften Buches Sozialgesetzbuch erhobenen oder
-gewonnenen Daten. Der Gemeinsame Bundesausschuss kann das Institut für
-Qualität und Wirtschaftlichkeit im Gesundheitswesen oder Dritte mit
-der Nutzenbewertung beauftragen. Die Bestimmungen zum Schutz
+gewonnenen Daten. Wurde für das Arzneimittel eine gemeinsame klinische
+Bewertung eingeleitet und nicht nach Artikel 10 Absatz 6 Satz 1 der
+Verordnung (EU) 2021/2282 eingestellt, ist Folgendes zusätzlich
+Grundlage für die Nutzenbewertung:
+
+1.  die vom pharmazeutischen Unternehmer nach § 4 Absatz 2a angegebenen
+    Nachweise aus dem europäischen Dossier,
+
+
+2.  die vor dem Zeitpunkt, der für die Einreichung der Nachweise nach § 4
+    Absatz 3 maßgeblich ist, nach Artikel 12 Absatz 4 der Verordnung (EU)
+    2021/2282 veröffentlichten Berichte über die gemeinsame klinische
+    Bewertung des Arzneimittels und
+
+
+3.  alle anderen auf der IT-Plattform nach Artikel 30 der Verordnung (EU)
+    2021/2282 verfügbaren Informationen, die die gemeinsame klinische
+    Bewertung des Arzneimittels betreffen.
+
+
+
+Der Gemeinsame Bundesausschuss kann das Institut für Qualität und
+Wirtschaftlichkeit im Gesundheitswesen oder Dritte mit der
+Nutzenbewertung beauftragen. Die Bestimmungen zum Schutz
 personenbezogener Daten bleiben unberührt.
 
 (2) Mit der Nutzenbewertung wird die Validität und Vollständigkeit der
@@ -535,18 +601,25 @@ Bundesausschusses zu veröffentlichen.
 
 (4) Der Gemeinsame Bundesausschuss stellt die Nutzenbewertung
 einschließlich der Zusammenfassung zur schriftlichen und mündlichen
-Anhörung. Er beschließt nach der Durchführung der Anhörungen. Der
-Beschluss enthält die wesentlichen Ergebnisse der Nutzenbewertung und
-ist Teil der Richtlinien nach § 92 Absatz 1 Satz 2 Nummer 6 des
-Fünften Buches Sozialgesetzbuch. Der Beschluss ist innerhalb von drei
-Monaten nach Veröffentlichung der Nutzenbewertung zu fassen. Der
-Beschluss ist für alle Arzneimittel mit diesem Wirkstoff Grundlage für
-Vereinbarungen nach § 130b des Fünften Buches Sozialgesetzbuch über
-Erstattungsbeträge und für die Bestimmung von Anforderungen an die
-Zweckmäßigkeit, Qualität und Wirtschaftlichkeit der Verordnung sowie
-für die Anerkennung als Praxisbesonderheit oder für die Zuordnung von
-Arzneimitteln ohne Zusatznutzen zu einer Festbetragsgruppe nach § 35
-des Fünften Buches Sozialgesetzbuch.
+Anhörung. Wurden nach dem Zeitpunkt, der für die Einreichung der
+Nachweise nach § 4 Absatz 3 maßgeblich ist, aber vor der
+Veröffentlichung der Nutzenbewertung Berichte über eine gemeinsame
+klinische Bewertung des Arzneimittels nach Artikel 12 Absatz 4 der
+Verordnung (EU) 2021/2282 veröffentlicht, stellt der Gemeinsame
+Bundesausschuss diese neben der Nutzenbewertung zur Anhörung. Nach der
+Durchführung der Anhörungen beschließt der Gemeinsame Bundesausschuss
+über die Nutzenbewertung. Der Beschluss enthält die wesentlichen
+Ergebnisse der Nutzenbewertung und ist Teil der Richtlinien nach § 92
+Absatz 1 Satz 2 Nummer 6 des Fünften Buches Sozialgesetzbuch. Der
+Beschluss ist innerhalb von drei Monaten nach Veröffentlichung der
+Nutzenbewertung zu fassen. Der Beschluss ist für alle Arzneimittel mit
+diesem Wirkstoff Grundlage für Vereinbarungen nach § 130b des Fünften
+Buches Sozialgesetzbuch über Erstattungsbeträge und für die Bestimmung
+von Anforderungen an die Zweckmäßigkeit, Qualität und
+Wirtschaftlichkeit der Verordnung sowie für die Anerkennung als
+Praxisbesonderheit oder für die Zuordnung von Arzneimitteln ohne
+Zusatznutzen zu einer Festbetragsgruppe nach § 35 des Fünften Buches
+Sozialgesetzbuch.
 
 
 ## § 8 Beratung
@@ -596,7 +669,30 @@ sich die Bewertung stützt.
 Geschäftsgeheimnisse im Dossier. Diese Kennzeichnung darf der Pflicht
 zur Offenlegung der Studienergebnisse nicht entgegenstehen.
 
-(3) Der Gemeinsame Bundesausschuss kann mit den maßgeblichen Verbänden
+(3) Sind Nachweise aus einem europäischen Dossier Grundlage der
+Nutzenbewertung, hat der Gemeinsame Bundesausschuss gleichzeitig mit
+der Veröffentlichung nach Absatz 1 Satz 1 auf seiner Internetseite
+einen Verweis auf die öffentlich zugängliche Internetseite der IT-
+Plattform zu veröffentlichen, auf der diese Nachweise nach Artikel 30
+Absatz 3 Buchstabe d der Verordnung (EU) 2021/2282 veröffentlicht
+sind. Ist das europäische Dossier zum Zeitpunkt der Veröffentlichung
+nach Absatz 1 Satz 1 auf der öffentlich zugänglichen Internetseite der
+IT-Plattform noch nicht nach Artikel 30 Absatz 3 Buchstabe d der
+Verordnung (EU) 2021/2282 veröffentlicht, hat der pharmazeutische
+Unternehmer dem Gemeinsamen Bundesausschuss innerhalb von drei
+Werktagen nach der Veröffentlichung nach Absatz 1 Satz 1 eine Fassung
+des europäischen Dossiers zur Verfügung zu stellen, die mindestens die
+Nachweise umfasst, die Grundlage der Nutzenbewertung sind, und in der
+er alle aus seiner Sicht vertraulichen Informationen unkenntlich
+macht. Der Gemeinsame Bundesausschuss veröffentlicht diese Fassung des
+europäischen Dossiers unverzüglich auf seiner Internetseite. Sobald
+das europäische Dossier auf der öffentlich zugänglichen Internetseite
+der IT-Plattform nach § 30 Absatz 3 Buchstabe d der Verordnung (EU)
+2021/2282 veröffentlicht wird, hat der Gemeinsame Bundesausschuss das
+europäische Dossier von seiner Internetseite zu entfernen und
+stattdessen den in Satz 1 genannten Verweis zu veröffentlichen.
+
+(4) Der Gemeinsame Bundesausschuss kann mit den maßgeblichen Verbänden
 der pharmazeutischen Industrie und mit pharmazeutischen Unternehmern
 das Nähere durch Vereinbarung regeln.
 

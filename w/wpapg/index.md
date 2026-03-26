@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 11.1.1995 I 34;
 
 Zuletzt geändert durch
-:   Art. 15 G v. 11.12.2023 I Nr. 354
+:   Art. 24 G v. 23.10.2024 I Nr. 323
 
 
 ## § 1 Allgemeine Vorschriften
@@ -93,7 +93,7 @@ Wertpapiere nach dem einzelnen über sie zwischen dem Verwahrer und dem
 Dritten vorgenommenen Geschäft haften sollen.
 
 (2) Absatz 1 gilt nicht, wenn der Verwahrer dem Dritten für das
-einzelne Geschäft ausdrücklich und schriftlich mitteilt, daß er
+einzelne Geschäft ausdrücklich und in Textform mitteilt, daß er
 Eigentümer der Wertpapiere sei.
 
 (3) Vertraut ein Verwahrer, der nicht Bankgeschäfte betreibt,
@@ -112,7 +112,7 @@ verlangt. Anstelle der Sammelverwahrung durch eine
 Wertpapiersammelbank darf der Verwahrer die Wertpapiere ungetrennt von
 seinen Beständen derselben Art oder von solchen Dritter selbst
 aufbewahren oder einem Dritten zur Sammelverwahrung anvertrauen, wenn
-der Hinterleger ihn dazu ausdrücklich und schriftlich ermächtigt hat.
+der Hinterleger ihn dazu ausdrücklich und in Textform ermächtigt hat.
 Die Ermächtigung darf weder in Geschäftsbedingungen des Verwahrers
 enthalten sein noch auf andere Urkunden verweisen; sie muß für jedes
 Verwahrungsgeschäft besonders erteilt werden.
@@ -165,17 +165,17 @@ des Bruchteils ist der Wertpapiernennbetrag maßgebend, bei
 Wertpapieren ohne Nennbetrag die Stückzahl.
 
 (2) Der Hinterleger kann zur Ausübung seiner Rechte jederzeit gegen
-einen angemessenen Aufwendungsersatz vom Verwahrer einen in
-Schriftform ausgestellten Auszug über den für den Hinterleger in
-Verwahrung genommenen Anteil am Sammelbestand verlangen
-(Depotbescheinigung zur Rechtsausübung). Der Verwahrer steht für die
-Richtigkeit seiner Depotbescheinigung zur Rechtsausübung ein. Wem die
-Depotbescheinigung zur Rechtsausübung den hinterlegten Anteil am
-Sammelbestand zuweist, gilt zum Zwecke der Beweisführung als sein
-Inhaber. Der Leistungsanspruch des Hinterlegers aus seinem Anteil am
-Sammelbestand ist von vornherein dahingehend beschränkt, dass er gegen
-die Leistung einen der Leistung entsprechenden Anteil am Sammelbestand
-auf den Aussteller überträgt.
+einen angemessenen Aufwendungsersatz vom Verwahrer einen in Textform
+ausgestellten Auszug über den für den Hinterleger in Verwahrung
+genommenen Anteil am Sammelbestand verlangen (Depotbescheinigung zur
+Rechtsausübung). Der Verwahrer steht für die Richtigkeit seiner
+Depotbescheinigung zur Rechtsausübung ein. Wem die Depotbescheinigung
+zur Rechtsausübung den hinterlegten Anteil am Sammelbestand zuweist,
+gilt zum Zwecke der Beweisführung als sein Inhaber. Der
+Leistungsanspruch des Hinterlegers aus seinem Anteil am Sammelbestand
+ist von vornherein dahingehend beschränkt, dass er gegen die Leistung
+einen der Leistung entsprechenden Anteil am Sammelbestand auf den
+Aussteller überträgt.
 
 (3) Der Sammelverwahrer kann aus dem Sammelbestand einem jeden der
 Hinterleger die diesem gebührende Menge ausliefern oder die ihm selbst
@@ -291,7 +291,7 @@ nicht Absatz 2 etwas anderes bestimmt.
 (1) Eine Erklärung, durch die der Hinterleger den Verwahrer
 ermächtigt, an Stelle ihm zur Verwahrung anvertrauter Wertpapiere
 Wertpapiere derselben Art zurückzugewähren, muß für das einzelne
-Verwahrungsgeschäft ausdrücklich und schriftlich abgegeben werden. Sie
+Verwahrungsgeschäft ausdrücklich und in Textform abgegeben werden. Sie
 darf weder in Geschäftsbedingungen des Verwahrers enthalten sein noch
 auf andere Urkunden verweisen.
 
@@ -320,7 +320,7 @@ Eigentum an den Wertpapieren auf den Verwahrer übergehen soll.
 auf Grund einer Ermächtigung und nur im Zusammenhang mit einer
 Krediteinräumung für den Hinterleger und nur an einen Verwahrer
 verpfänden. Die Ermächtigung muß für das einzelne Verwahrungsgeschäft
-ausdrücklich und schriftlich erteilt werden; sie darf weder in
+ausdrücklich und in Textform erteilt werden; sie darf weder in
 Geschäftsbedingungen des Verwahrers enthalten sein noch auf andere
 Urkunden verweisen.
 
@@ -357,11 +357,11 @@ sie ihm gegeben ist, weitergeben.
 ### § 12a Verpfändung als Sicherheit für Verbindlichkeiten aus Börsengeschäften
 
 (1) Abweichend von § 12 darf der Verwahrer die Wertpapiere oder
-Sammelbestandanteile auf Grund einer ausdrücklichen und schriftlichen
-Ermächtigung als Sicherheit für seine Verbindlichkeiten aus Geschäften
-an einer Börse, die einer gesetzlichen Aufsicht untersteht, an diese
-Börse, deren Träger oder eine von ihr mit der Abwicklung der Geschäfte
-unter ihrer Aufsicht beauftragte rechtsfähige Stelle, deren
+Sammelbestandanteile auf Grund einer ausdrücklichen und in Textform
+verfassten Ermächtigung als Sicherheit für seine Verbindlichkeiten aus
+Geschäften an einer Börse, die einer gesetzlichen Aufsicht untersteht,
+an diese Börse, deren Träger oder eine von ihr mit der Abwicklung der
+Geschäfte unter ihrer Aufsicht beauftragte rechtsfähige Stelle, deren
 Geschäftsbetrieb auf diese Tätigkeit beschränkt ist, verpfänden,
 sofern aus einem inhaltsgleichen Geschäft des Hinterlegers mit dem
 Verwahrer Verbindlichkeiten des Hinterlegers bestehen. Der Wert der
@@ -386,7 +386,7 @@ Haftung kann durch Vereinbarung nicht beschränkt werden.
 anvertrauten Wertpapiere anzueignen oder das Eigentum an ihnen auf
 einen Dritten zu übertragen, und alsdann nur verpflichtet sein soll,
 Wertpapiere derselben Art zurückzugewähren, muß für das einzelne
-Verwahrungsgeschäft ausdrücklich und schriftlich abgegeben werden. In
+Verwahrungsgeschäft ausdrücklich und in Textform abgegeben werden. In
 der Erklärung muß zum Ausdruck kommen, daß mit der Ausübung der
 Ermächtigung das Eigentum auf den Verwahrer oder einen Dritten
 übergehen soll und mithin für den Hinterleger nur ein
@@ -444,7 +444,7 @@ solches Verwahrungsgeschäft nicht anzuwenden.
 
 (2) Eine Vereinbarung der in Absatz 1 bezeichneten Art ist nur gültig,
 wenn die Erklärung des Hinterlegers für das einzelne Geschäft
-ausdrücklich und schriftlich abgegeben wird. In der Erklärung muß zum
+ausdrücklich und in Textform abgegeben wird. In der Erklärung muß zum
 Ausdruck kommen, daß das Eigentum sofort auf den Verwahrer oder einen
 Dritten übergehen soll und daß mithin für den Hinterleger nur ein
 schuldrechtlicher Anspruch auf Lieferung nach Art und Zahl bestimmter
@@ -540,7 +540,7 @@ machen, wenn er dem Kommittenten erklärt, daß er die Übersendung des
 Stückeverzeichnisses und damit die Übertragung des Eigentums an den
 Papieren bis zur Befriedigung wegen seiner Forderungen aus der
 Ausführung des Auftrags aussetzen werde. Die Erklärung muß, für das
-einzelne Geschäft gesondert, ausdrücklich und schriftlich abgegeben
+einzelne Geschäft gesondert, ausdrücklich und in Textform abgegeben
 und binnen einer Woche nach Erstattung der Ausführungsanzeige
 abgesandt werden, sie darf nicht auf andere Urkunden verweisen.
 
@@ -577,14 +577,14 @@ Stückeverzeichnisse erst auf Verlangen des Kommittenten zu übersenden.
 
 (2) Der Kommissionär kann von dem Vorbehalt des Absatzes 1 nur
 Gebrauch machen, wenn er dem Kommittenten bei der Erstattung der
-Ausführungsanzeige schriftlich mitteilt, daß er die Übersendung des
+Ausführungsanzeige in Textform mitteilt, daß er die Übersendung des
 Stückeverzeichnisses und damit die Übertragung des Eigentums an den
 Papieren erst auf Verlangen des Kommittenten ausführen werde.
 
 (3) Erklärt der Kommittent, daß er die Übersendung des
 Stückeverzeichnisses verlange, so beginnt die Frist zur Übersendung
 des Stückeverzeichnisses frühestens mit dem Zeitpunkt, in dem die
-Erklärung dem Kommissionär zugeht. Die Aufforderung muß schriftlich
+Erklärung dem Kommissionär zugeht. Die Aufforderung muß in Textform
 erfolgen und die Wertpapiere, die in das Stückeverzeichnis aufgenommen
 werden sollen, genau bezeichnen.
 
@@ -596,7 +596,7 @@ deshalb aussetzen, weil er wegen seiner Forderungen nicht befriedigt
 ist (§ 19), als auch deshalb, weil er sich die Aussetzung mit
 Rücksicht auf die Besonderheit des Kontokorrentverkehrs mit dem
 Kommittenten vorbehalten hat (§ 20), so hat er dem Kommittenten bei
-Erstattung der Ausführungsanzeige schriftlich mitzuteilen, daß er die
+Erstattung der Ausführungsanzeige in Textform mitzuteilen, daß er die
 Übersendung des Stückeverzeichnisses und damit die Übertragung des
 Eigentums an den Papieren erst auf Verlangen des Kommittenten,
 frühestens jedoch nach Befriedigung wegen seiner Forderungen aus der
@@ -616,7 +616,7 @@ Abs. 1 berechtigt ist, die Übersendung auszusetzen.
 (2) Erklärt der Kommittent, daß er die Übersendung des
 Stückeverzeichnisses verlange, so beginnt die Frist zur Übersendung
 des Stückeverzeichnisses frühestens mit dem Zeitpunkt, in dem die
-Erklärung dem Kommissionär zugeht. Die Aufforderung muß schriftlich
+Erklärung dem Kommissionär zugeht. Die Aufforderung muß in Textform
 erfolgen und die Wertpapiere, die in das Stückeverzeichnis aufgenommen
 werden sollen, genau bezeichnen.
 
@@ -637,7 +637,7 @@ befreien, daß er ihm Miteigentum an den zum Sammelbestand einer
 Wertpapiersammelbank gehörenden Wertpapieren verschafft; durch
 Verschaffung von Miteigentum an den zum Sammelbestand eines anderen
 Verwahrers gehörenden Wertpapieren kann er sich nur befreien, wenn der
-Kommittent im einzelnen Falle ausdrücklich und schriftlich zustimmt.
+Kommittent im einzelnen Falle ausdrücklich und in Textform zustimmt.
 
 (2) Mit der Eintragung des Übertragungsvermerks im Verwahrungsbuch des
 Kommissionärs geht, soweit der Kommissionär verfügungsberechtigt ist,

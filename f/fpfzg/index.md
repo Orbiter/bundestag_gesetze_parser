@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2011, 2564
 
 Zuletzt geändert durch
-:   Art. 3 G v. 19.12.2022 I 2510
+:   Art. 69 G v. 23.10.2024 I Nr. 323
 
 
 ## § 1 Ziel des Gesetzes
@@ -62,8 +62,8 @@ Absatz 1 geltend machen.
 ## § 2a Inanspruchnahme der Familienpflegezeit
 
 (1) Wer Familienpflegezeit nach § 2 beanspruchen will, muss dies dem
-Arbeitgeber spätestens acht Wochen vor dem gewünschten Beginn
-schriftlich ankündigen und gleichzeitig erklären, für welchen Zeitraum
+Arbeitgeber spätestens acht Wochen vor dem gewünschten Beginn in
+Textform ankündigen und gleichzeitig erklären, für welchen Zeitraum
 und in welchem Umfang innerhalb der Gesamtdauer nach § 2 Absatz 2 die
 Freistellung von der Arbeitsleistung in Anspruch genommen werden soll.
 Dabei ist auch die gewünschte Verteilung der Arbeitszeit anzugeben.
@@ -83,7 +83,7 @@ drei Monate vor Beginn der Familienpflegezeit erfolgen. Wird eine
 Freistellung nach § 3 Absatz 1 oder Absatz 5 des Pflegezeitgesetzes
 nach einer Familienpflegezeit in Anspruch genommen, ist diese in
 unmittelbarem Anschluss an die Familienpflegezeit zu beanspruchen; sie
-ist dem Arbeitgeber spätestens acht Wochen vor Beginn schriftlich
+ist dem Arbeitgeber spätestens acht Wochen vor Beginn in Textform
 anzukündigen.
 
 (2) Arbeitgeber und Beschäftigte haben über die Verringerung und
@@ -418,9 +418,9 @@ aufzurunden.
 ## § 10 Antrag und Nachweis in weiteren Fällen
 
 (1) Das Bundesamt für Familie und zivilgesellschaftliche Aufgaben
-entscheidet auch in den Fällen des § 7 auf schriftlichen Antrag, der
-Name und Anschrift der Darlehensnehmerin oder des Darlehensnehmers
-enthalten muss.
+entscheidet auch in den Fällen des § 7 auf schriftlichen oder
+elektronischen Antrag, der Name und Anschrift der Darlehensnehmerin
+oder des Darlehensnehmers enthalten muss.
 
 (2) Die Voraussetzungen des § 7 sind nachzuweisen
 

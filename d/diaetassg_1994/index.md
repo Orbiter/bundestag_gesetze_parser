@@ -1,7 +1,5 @@
 ---
-Title: Gesetz über den Beruf der Diätassistentin und des Diätassistenten (Artikel
-  1 des Gesetzes über den Beruf der Diätassistentin und des Diätassistenten und zur
-  Änderung verschiedener Gesetze über den Zugang zu anderen Heilberufen)
+Title: Gesetz über den Beruf der Diätassistentin und des Diätassistenten
 jurabk: DiätAssG 1994
 layout: default
 origslug: di_tassg_1994
@@ -9,7 +7,7 @@ slug: diaetassg_1994
 
 ---
 
-# Gesetz über den Beruf der Diätassistentin und des Diätassistenten (Artikel 1 des Gesetzes über den Beruf der Diätassistentin und des Diätassistenten und zur Änderung verschiedener Gesetze über den Zugang zu anderen Heilberufen) (DiätAssG 1994)
+# Gesetz über den Beruf der Diätassistentin und des Diätassistenten (DiätAssG 1994)
 
 Ausfertigungsdatum
 :   1994-03-08

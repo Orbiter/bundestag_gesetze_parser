@@ -16,10 +16,10 @@ Fundstelle
 :   BGBl I: 1961, 1049
 
 Neugefasst durch
-:   Bek. v. 5.11.1975 I 2803;
+:   Bek. v. 5.11.1975 I 2803
 
 Zuletzt geändert durch
-:   Art. 4 G v. 17.1.2024 I Nr. 12
+:   Art. 33 G v. 4.2.2026 I Nr. 33
 
 
 ## Erster Teil - Allgemeine Vorschriften
@@ -375,7 +375,8 @@ von der Regelung des Satzes 1 auszunehmen.
 (1) Die Prüfung wird vor der Prüfungskommission abgelegt.
 
 (2) Die Prüfung gliedert sich in eine schriftliche und eine mündliche
-Prüfung.
+Prüfung. Die schriftliche Prüfung kann auch elektronisch durchgeführt
+werden.
 
 (3) An alle Bewerber sind ohne Rücksicht auf ihren beruflichen
 Werdegang gleiche Anforderungen zu stellen.
@@ -970,13 +971,11 @@ Urkunde ausgestellt.
 
 #### § 30 Änderungsanzeige
 
-Jede Änderung des Gesellschaftsvertrages oder der Satzung oder in der
-Person der gesetzlichen Vertreter ist der Wirtschaftsprüferkammer
-unverzüglich anzuzeigen. Die Wirtschaftsprüferkammer kann als Nachweis
-der Änderung geeignete Belege, Ausfertigungen oder öffentlich
-beglaubigte Abschriften anfordern. Wird die Änderung im
-Handelsregister oder Partnerschaftsregister eingetragen, ist eine
-öffentlich beglaubigte Abschrift der Eintragung nachzureichen.
+Jede Änderung des Gesellschaftsvertrages oder der Satzung ist der
+Wirtschaftsprüferkammer unverzüglich anzuzeigen. Die
+Wirtschaftsprüferkammer kann als Nachweis der Änderung geeignete
+Belege, Ausfertigungen oder öffentlich beglaubigte Abschriften
+anfordern.
 
 
 #### § 31 Bezeichnung "Wirtschaftsprüfungsgesellschaft"
@@ -1396,9 +1395,8 @@ unverzüglich von Amts wegen vorgenommen.
 
 (2) Die Mitglieder der Wirtschaftsprüferkammer sind verpflichtet, die
 Tatsachen, die eine Eintragung, ihre Veränderung oder eine Löschung
-erforderlich machen, der Wirtschaftsprüferkammer unverzüglich in einer
-den §§ 126, 126a des Bürgerlichen Gesetzbuchs entsprechenden Form
-mitzuteilen. § 62a gilt entsprechend.
+erforderlich machen, der Wirtschaftsprüferkammer unverzüglich
+schriftlich oder elektronisch mitzuteilen. § 62a gilt entsprechend.
 
 (3) Auf Antrag der Berufsangehörigen oder der
 Wirtschaftsprüfungsgesellschaften stellt die Wirtschaftsprüferkammer
@@ -2281,8 +2279,8 @@ Versicherungspflicht.
 Berufsangehörigen bestehenden Vertragsverhältnissen auf Ersatz eines
 fahrlässig verursachten Schadens kann beschränkt werden
 
-1.  durch schriftliche Vereinbarung im Einzelfall bis zur Mindesthöhe der
-    Deckungssumme nach § 54 Absatz 4 Satz 1 oder
+1.  durch im Einzelfall in Textform getroffene Vereinbarung bis zur
+    Mindesthöhe der Deckungssumme nach § 54 Absatz 4 Satz 1 oder
 
 
 2.  durch vorformulierte Vertragsbedingungen auf den vierfachen Betrag der
@@ -3493,6 +3491,15 @@ bis 4 entsprechend anzuwenden. Absatz 2 gilt auch für frühere
 Mitglieder.
 
 
+### § 58b Elektronische Kommunikation mit den Mitgliedern
+
+Diejenigen Mitglieder der Wirtschaftsprüferkammer, die über ein
+E-Mail-Postfach oder ein Postfach nach § 130a Absatz 4 Satz 1 Nummer
+1, 3 oder 4 der Zivilprozessordnung verfügen, haben deren Adressen der
+Wirtschaftsprüferkammer zum Zwecke der elektronischen Kommunikation
+mitzuteilen, sofern dem keine wesentlichen Gründe entgegenstehen.
+
+
 ### § 59 Organe; Kammerversammlungen
 
 (1) Organe der Wirtschaftsprüferkammer sind
@@ -3542,8 +3549,8 @@ Wirtschaftsprüferkammer erfolgt durch den gesamten Beirat.
 (4) Beirat und Vorstand erstatten den Mitgliedern jährlich Bericht.
 Dazu kann die Wirtschaftsprüferkammer regionale Kammerversammlungen
 ausrichten. Auf Verlangen des Beirats oder wenn mindestens ein
-Zwanzigstel der Mitglieder dies schriftlich unter Angabe des zu
-behandelnden Gegenstandes beantragt, richtet die
+Zwanzigstel der Mitglieder dies schriftlich oder elektronisch unter
+Angabe des zu behandelnden Gegenstandes beantragt, richtet die
 Wirtschaftsprüferkammer eine Kammerversammlung aus, zu der alle
 Mitglieder eingeladen werden.
 
@@ -4037,9 +4044,10 @@ von berufsaufsichtlichen Maßnahmen, Untersagungsverfügungen sowie
 vorläufigen Untersagungsverfügungen; die §§ 67 bis 68a, 68b Satz 1, 3
 und 4, die §§ 68c sowie 69a bis 71 gelten entsprechend, § 68 Absatz 7
 mit der Maßgabe, dass die Geldbußen, die nicht berufsgerichtlich
-überprüft werden, dem Bundeshaushalt zufließen, § 68c Absatz 3 in
-Verbindung mit § 62a Absatz 4 Satz 1 mit der Maßgabe, dass die
-Ordnungsgelder dem Bundeshaushalt zufließen.
+überprüft werden, ebenso wie Geldbeträge nach § 67a Absatz 1 Satz 1
+dem Bundeshaushalt zufließen, § 68c Absatz 3 in Verbindung mit § 62a
+Absatz 4 Satz 1 mit der Maßgabe, dass die Ordnungsgelder dem
+Bundeshaushalt zufließen.
 
 (7) Soweit Artikel 23 Absatz 3 und Artikel 26 der Verordnung (EU) Nr.
 537/2014 nichts anderes regeln, gelten die §§ 62 und 62a im
@@ -4204,6 +4212,38 @@ bedeutsamen Weise zu beeinträchtigen.
 (3) Eine berufsaufsichtliche Maßnahme kann nicht verhängt werden, wenn
 der Wirtschaftsprüfer zur Zeit der Tat der Berufsaufsicht nicht
 unterstand.
+
+
+### § 67a Absehen von der Verfolgung gegen Auflage
+
+(1) Der Vorstand der Wirtschaftsprüferkammer kann mit Zustimmung des
+Berufsangehörigen, der Abschlussprüferaufsichtsstelle und der für die
+Entscheidung im berufsgerichtlichen Verfahren nach § 72 Absatz 1
+zuständigen Kammer für Wirtschaftsprüfersachen vorläufig von der
+Verhängung einer berufsaufsichtlichen Maßnahme nach § 68 Absatz 1
+absehen und dem Berufsangehörigen zugleich die Auflage erteilen, einen
+Geldbetrag zu zahlen. Voraussetzung dafür ist, dass
+
+1.  die Auflage geeignet ist, das öffentliche Interesse an der Ahndung der
+    Berufspflichtverletzung zu beseitigen, und
+
+
+2.  die Schwere der Schuld des Berufsangehörigen dem vorläufigen Absehen
+    von der Verhängung einer solchen Maßnahme nicht entgegensteht.
+
+
+
+Für die Bemessung des Geldbetrags gilt § 68 Absatz 1 Satz 2 Nummer 2
+und Absatz 3 Satz 1 bis 3 entsprechend.
+
+(2) Zur Erfüllung der Auflage setzt der Vorstand der
+Wirtschaftsprüferkammer dem Berufsangehörigen eine einmonatige Frist,
+die einmalig um höchstens einen Monat verlängert werden kann. § 68
+Absatz 7 Satz 1 gilt entsprechend. Erfüllt der Berufsangehörige die
+Auflage, so kann gegen ihn wegen dieser Berufspflichtverletzung keine
+berufsaufsichtliche Maßnahme mehr verhängt werden. Erfüllt der
+Berufsangehörige die Auflage nicht vollständig, so wird der
+Geldbetrag, den er zu ihrer Erfüllung gezahlt hat, nicht erstattet.
 
 
 ### § 68 Berufsaufsichtliche Maßnahmen
@@ -4492,18 +4532,23 @@ Abweichend davon verjährt sie
 Die Verjährung beginnt, sobald die Tat beendet ist.
 
 (2) Für das Ruhen der Verjährung gilt § 78b Absatz 1 bis 3 des
-Strafgesetzbuches entsprechend. Die Verjährung ruht zudem für die
-Dauer
+Strafgesetzbuches entsprechend, wobei die Verhängung einer
+berufsaufsichtlichen Maßnahme nach § 68 Absatz 1 Satz 2 einem Urteil
+des ersten Rechtszugs nach § 78b Absatz 3 des Strafgesetzbuches
+gleichsteht. Die Verjährung ruht zudem für die Dauer
 
 1.  eines wegen desselben Verhaltens eingeleiteten Straf- oder
     Bußgeldverfahrens,
 
 
 2.  eines wegen desselben Verhaltens eingeleiteten vorrangigen
-    berufsaufsichtlichen Verfahrens und
+    berufsaufsichtlichen Verfahrens,
 
 
-3.  einer Aussetzung des Verfahrens nach § 83b Nummer 2 oder 3.
+3.  einer Aussetzung des Verfahrens nach § 83b Nummer 2 oder 3 und
+
+
+4.  einer für die Erfüllung einer Auflage nach § 67a gesetzten Frist.
 
 
 
@@ -4582,12 +4627,14 @@ beantragen.
 
 
 
-#### § 72 Kammer für Wirtschaftsprüfersachen
+#### § 72 Kammer für Wirtschaftsprüfersachen; Verbindung berufsgerichtlicher Verfahren
 
-(1) In dem berufsgerichtlichen Verfahren entscheidet im ersten
-Rechtszug eine Kammer des Landgerichts (Kammer für
-Wirtschaftsprüfersachen), in dessen Bezirk die Wirtschaftsprüferkammer
-ihren Sitz hat.
+(1) In berufsgerichtlichen Verfahren entscheidet im ersten Rechtszug
+eine Kammer desjenigen Landgerichts, das für die Strafsachen in
+demjenigen Gerichtsbezirk zuständig ist, in dem die
+Wirtschaftsprüferkammer ihren Sitz hat (Kammer für
+Wirtschaftsprüfersachen). Bei dem Landgericht können auch mehrere
+Kammern für Wirtschaftsprüfersachen gebildet werden.
 
 (2) Die Kammer für Wirtschaftsprüfersachen entscheidet außerhalb der
 Hauptverhandlung in der Besetzung von drei Mitgliedern mit Einschluß
@@ -4598,6 +4645,24 @@ diese eine Besetzung mit drei Richtern mit Einschluss des Vorsitzenden
 und zweier Berufsangehöriger als Beisitzer, wenn dies nach dem Umfang,
 der Schwierigkeit oder der besonderen Bedeutung des Falles
 erforderlich erscheint. Der Beschluss ist unanfechtbar.
+
+(3) Ein Zusammenhang im Sinne des § 3 der Strafprozessordnung besteht
+auch dann, wenn
+
+1.  sich die Tätigkeiten der einzelnen Berufsangehörigen, die einen Antrag
+    auf berufsgerichtliche Entscheidung nach § 71a gestellt haben, auf
+    dasselbe Unternehmen oder auf Unternehmen desselben
+    Unternehmensverbunds bezogen haben und
+
+
+2.  eine Verbindung der berufsgerichtlichen Verfahren wegen eines
+    zeitlichen und sachlichen Zusammenhangs zweckmäßig ist.
+
+
+
+Ein zeitlicher Zusammenhang nach Satz 1 Nummer 2 ist gegeben, wenn
+sich die Tätigkeiten auf denselben Zeitraum oder auf unmittelbar
+aufeinander folgende Zeiträume bezogen haben.
 
 
 #### § 73 Senat für Wirtschaftsprüfersachen beim Oberlandesgericht
@@ -4789,16 +4854,20 @@ besichtigen. § 147 Absatz 2 Satz 1, Absatz 3, 5 und 6 der
 Strafprozessordnung ist insoweit entsprechend anzuwenden.
 
 (2) Der Wirtschaftsprüferkammer und der Abschlussprüferaufsichtsstelle
-sind Ort und Zeit der Hauptverhandlung mitzuteilen; die von dort
-entsandten Personen erhalten auf Verlangen das Wort. Einstellungen
-nach den §§ 153 bis 153b und 154 der Strafprozessordnung bedürfen
-zusätzlich der Zustimmung der Abschlussprüferaufsichtsstelle.
-Entsprechendes gilt für den Fall, dass nach § 154a der
-Strafprozessordnung von der Verfolgung von Teilen einer Tat abgesehen
-werden soll. Erfolgt die Einstellung oder das Absehen von der
-Verfolgung in der Hauptverhandlung, gelten die Sätze 3 und 4 nur, wenn
-ein Vertreter der Abschlussprüferaufsichtsstelle an der
-Hauptverhandlung teilnimmt.
+sind Ort und Zeit der Hauptverhandlung mitzuteilen. Die
+Abschlussprüferaufsichtsstelle soll durch einen Vertreter an der
+Hauptverhandlung teilnehmen. Richtet sich der Antrag nach § 71a gegen
+eine von der Wirtschaftsprüferkammer erlassene Maßnahme, so soll auch
+die Wirtschaftsprüferkammer durch einen Vertreter an der
+Hauptverhandlung teilnehmen. Vertretern der Wirtschaftsprüferkammer
+und der Abschlussprüferaufsichtsstelle ist auf Verlangen zu gestatten,
+Fragen an Berufsangehörige, Zeugen und Sachverständige zu stellen und
+Stellungnahmen abzugeben. Ein Absehen von der Verfolgung nach den §§
+153 bis 153b und 154 der Strafprozessordnung sowie eine Beschränkung
+der Verfolgung nach § 154a der Strafprozessordnung bedürfen auch der
+Zustimmung der Abschlussprüferaufsichtsstelle. Satz 5 gilt nicht, wenn
+die Maßnahmen in der Hauptverhandlung erlassen werden und kein
+Vertreter der Abschlussprüferaufsichtsstelle an dieser teilnimmt.
 
 
 ##### § 83 Verhältnis des berufsgerichtlichen Verfahrens zum Straf- oder Bußgeldverfahren
@@ -4892,8 +4961,20 @@ diese gelten die Vorschriften der Strafprozessordnung sinngemäß,
 soweit dieses Gesetz nichts anderes bestimmt.
 
 
-##### § 87 (weggefallen)
+##### § 87 Entscheidung zur Höhe der Geldbuße durch Beschluss
 
+Hat der Berufsangehörige seinen Antrag auf gerichtliche Entscheidung
+auf die Höhe einer nach § 68 Absatz 1 Satz 2 Nummer 2 verhängten
+Geldbuße beschränkt, so kann das Gericht mit Zustimmung des
+Antragstellers, der Staatsanwaltschaft und der
+Abschlussprüferaufsichtsstelle ohne Hauptverhandlung durch Beschluss
+entscheiden, sofern die Höhe der verhängten Geldbuße nicht mehr als
+10 000 Euro beträgt. Richtet sich der Antrag gegen eine von der
+Wirtschaftsprüferkammer verhängte Geldbuße, so bedarf die Entscheidung
+durch Beschluss auch der Zustimmung der Wirtschaftsprüferkammer. Von
+der angefochtenen Höhe der verhängten Geldbuße darf durch den
+Beschluss nicht zum Nachteil des Antragstellers abgewichen werden. Die
+sofortige Beschwerde gegen den Beschluss ist zulässig.
 
 
 ##### (XXXX) §§ 88 bis 93 (weggefallen)
@@ -4970,7 +5051,9 @@ folgenden Verkündung des Urteils.
 
 (2) Das Gericht entscheidet in der Sache selbst über alle
 Berufspflichtverletzungen, die Gegenstand der angefochtenen
-berufsaufsichtlichen Entscheidung nach § 68 sind. Es entscheidet auf
+berufsaufsichtlichen Entscheidung nach § 68 sind, sowie über die
+zusammen mit der berufsaufsichtlichen Entscheidung ergangene
+Gebührenentscheidung. In der Sache selbst entscheidet es auf
 Zurückweisung des Antrags auf berufsgerichtliche Entscheidung oder
 unter Aufhebung der angefochtenen Entscheidung auf Verurteilung zu
 einer oder mehreren der in § 68 Absatz 1 und § 68a genannten
@@ -5686,9 +5769,8 @@ Prüfung. Sie wird in deutscher Sprache abgelegt. Prüfungsgebiete sind
 durch Rechtsverordnung näher zu bestimmende Bereiche des
 Wirtschaftlichen Prüfungswesens (rechtliche Vorschriften), des
 Wirtschaftsrechts, des Steuerrechts und das Berufsrecht der
-Wirtschaftsprüfer.
-
-(4) (weggefallen)
+Wirtschaftsprüfer. Die schriftliche Prüfung kann auch elektronisch
+durchgeführt werden.
 
 
 ### § 131i Anwendung des Berufsqualifikationsfeststellungsgesetzes
@@ -6417,9 +6499,9 @@ Verfahren über den Antrag auf Aufhebung eines
 *    *   (1) In Verfahren über Anträge auf berufsgerichtliche Entscheidung
         werden, soweit nichts anderes bestimmt ist, Gebühren nur erhoben,
         soweit auf Zurückweisung des Antrags auf berufsgerichtliche
-        Entscheidung oder auf Verurteilung zu einer oder mehrerer der in § 68
-        Abs. 1 und § 68a WPO genannten Maßnahmen entschieden wird. Die
-        Gebühren bemessen sich nach der rechtskräftig verhängten Maßnahme, die
+        Entscheidung oder auf Verhängung einer oder mehrerer der in § 68 Abs.
+        1 und § 68a WPO genannten Maßnahmen entschieden wird. Die Gebühren
+        bemessen sich nach der rechtskräftig verhängten Maßnahme, die
         Gegenstand der Entscheidung im Sinne des Satzes 1 ist. Maßgeblich ist
         die Maßnahme, für die die höchste Gebühr bestimmt ist.
 
@@ -6546,6 +6628,14 @@ Verfahren über den Antrag auf Aufhebung eines
         Gebühr bestimmt ist.
 
     *
+
+*    *   118
+
+    *   Verfahren mit Beschluss nach § 87 Satz 1 WPO bei Verhängung einer
+        Geldbuße nach § 68 Abs. 1 Satz 2 Nr. 2 WPO ..........
+
+    *   120,00 €
+
 
 *    *   Unterabschnitt 2
 

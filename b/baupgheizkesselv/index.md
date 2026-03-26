@@ -1,6 +1,5 @@
 ---
 Title: Verordnung über das Inverkehrbringen von Heizkesseln und Geräten nach dem Bauproduktengesetz
-  (Artikel 1 der Verordnung zur Umsetzung der Heizkesselwirkungsgradrichtlinie)
 jurabk: BauPGHeizkesselV
 layout: default
 origslug: baupgheizkesselv
@@ -8,7 +7,7 @@ slug: baupgheizkesselv
 
 ---
 
-# Verordnung über das Inverkehrbringen von Heizkesseln und Geräten nach dem Bauproduktengesetz (Artikel 1 der Verordnung zur Umsetzung der Heizkesselwirkungsgradrichtlinie) (BauPGHeizkesselV)
+# Verordnung über das Inverkehrbringen von Heizkesseln und Geräten nach dem Bauproduktengesetz (BauPGHeizkesselV)
 
 Ausfertigungsdatum
 :   1998-04-28

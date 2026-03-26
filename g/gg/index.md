@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl: 1949, 1
 
 Zuletzt geändert durch
-:   Art. 1 G v. 19.12.2022 I 2478
+:   Art. 1 G v. 22.3.2025 I Nr. 94
 
 
 ## Eingangsformel
@@ -2396,9 +2396,41 @@ ausgeübt.
 
 ### Art 93
 
+(1) Das Bundesverfassungsgericht ist ein allen übrigen
+Verfassungsorganen gegenüber selbständiger und unabhängiger
+Gerichtshof des Bundes.
+
+(2) Das Bundesverfassungsgericht besteht aus Bundesrichtern und
+anderen Mitgliedern; es gliedert sich in zwei Senate. In jeden Senat
+werden je zur Hälfte vom Bundestag und vom Bundesrat acht Richter
+gewählt; sie dürfen weder dem Bundestag, dem Bundesrat, der
+Bundesregierung noch entsprechenden Organen eines Landes angehören.
+Durch Bundesgesetz nach Absatz 5 kann vorgesehen werden, dass das
+Wahlrecht vom anderen Wahlorgan ausgeübt werden kann, wenn innerhalb
+einer zu bestimmenden Frist nach dem Ende der Amtszeit oder dem
+vorzeitigen Ausscheiden eines Richters eine Wahl seines Nachfolgers
+nicht zustande kommt.
+
+(3) Die Amtszeit der Mitglieder des Bundesverfassungsgerichts dauert
+zwölf Jahre, längstens bis zum Ende des Monats, in dem das Mitglied
+das 68. Lebensjahr vollendet. Nach Ablauf der Amtszeit führen die
+Richter ihre Amtsgeschäfte bis zur Ernennung des Nachfolgers fort.
+Eine anschließende oder spätere Wiederwahl ist ausgeschlossen.
+
+(4) Das Bundesverfassungsgericht gibt sich eine Geschäftsordnung, die
+das Plenum beschließt.
+
+(5) Ein Bundesgesetz regelt die Verfassung und das Verfahren des
+Bundesverfassungsgerichts. Es kann für Verfassungsbeschwerden die
+vorherige Erschöpfung des Rechtsweges zur Voraussetzung machen und ein
+besonderes Annahmeverfahren vorsehen.
+
+
+### Art 94
+
 (1) Das Bundesverfassungsgericht entscheidet:
 
-1.  über die Auslegung dieses Grundgesetzes aus Anlaß von Streitigkeiten
+1.  über die Auslegung dieses Grundgesetzes aus Anlass von Streitigkeiten
     über den Umfang der Rechte und Pflichten eines obersten Bundesorgans
     oder anderer Beteiligter, die durch dieses Grundgesetz oder in der
     Geschäftsordnung eines obersten Bundesorgans mit eigenen Rechten
@@ -2407,13 +2439,13 @@ ausgeübt.
 
 2.  bei Meinungsverschiedenheiten oder Zweifeln über die förmliche und
     sachliche Vereinbarkeit von Bundesrecht oder Landesrecht mit diesem
-    Grundgesetze oder die Vereinbarkeit von Landesrecht mit sonstigem
-    Bundesrechte auf Antrag der Bundesregierung, einer Landesregierung
-    oder eines Viertels der Mitglieder des Bundestages;
+    Grundgesetz oder die Vereinbarkeit von Landesrecht mit sonstigem
+    Bundesrecht auf Antrag der Bundesregierung, einer Landesregierung oder
+    eines Viertels der Mitglieder des Bundestages;
 
 
 2a. bei Meinungsverschiedenheiten, ob ein Gesetz den Voraussetzungen des
-    Artikels 72 Abs. 2 entspricht, auf Antrag des Bundesrates, einer
+    Artikels 72 Absatz 2 entspricht, auf Antrag des Bundesrates, einer
     Landesregierung oder der Volksvertretung eines Landes;
 
 
@@ -2422,14 +2454,14 @@ ausgeübt.
     Länder und bei der Ausübung der Bundesaufsicht;
 
 
-4.  in anderen öffentlich-rechtlichen Streitigkeiten zwischen dem Bunde
-    und den Ländern, zwischen verschiedenen Ländern oder innerhalb eines
+4.  in anderen öffentlich-rechtlichen Streitigkeiten zwischen dem Bund und
+    den Ländern, zwischen verschiedenen Ländern oder innerhalb eines
     Landes, soweit nicht ein anderer Rechtsweg gegeben ist;
 
 
 4a. über Verfassungsbeschwerden, die von jedermann mit der Behauptung
     erhoben werden können, durch die öffentliche Gewalt in einem seiner
-    Grundrechte oder in einem seiner in Artikel 20 Abs. 4, 33, 38, 101,
+    Grundrechte oder in einem seiner in Artikel 20 Absatz 4, 33, 38, 101,
     103 und 104 enthaltenen Rechte verletzt zu sein;
 
 
@@ -2443,42 +2475,32 @@ ausgeübt.
     Partei für die Wahl zum Bundestag;
 
 
-5.  in den übrigen in diesem Grundgesetze vorgesehenen Fällen.
+5.  in den übrigen in diesem Grundgesetz vorgesehenen Fällen.
 
 
 
 
 (2) Das Bundesverfassungsgericht entscheidet außerdem auf Antrag des
 Bundesrates, einer Landesregierung oder der Volksvertretung eines
-Landes, ob im Falle des Artikels 72 Abs. 4 die Erforderlichkeit für
-eine bundesgesetzliche Regelung nach Artikel 72 Abs. 2 nicht mehr
-besteht oder Bundesrecht in den Fällen des Artikels 125a Abs. 2 Satz 1
-nicht mehr erlassen werden könnte. Die Feststellung, dass die
+Landes, ob im Falle des Artikels 72 Absatz 4 die Erforderlichkeit für
+eine bundesgesetzliche Regelung nach Artikel 72 Absatz 2 nicht mehr
+besteht oder Bundesrecht in den Fällen des Artikels 125a Absatz 2 Satz
+1 nicht mehr erlassen werden könnte. Die Feststellung, dass die
 Erforderlichkeit entfallen ist oder Bundesrecht nicht mehr erlassen
-werden könnte, ersetzt ein Bundesgesetz nach Artikel 72 Abs. 4 oder
-nach Artikel 125a Abs. 2 Satz 2. Der Antrag nach Satz 1 ist nur
-zulässig, wenn eine Gesetzesvorlage nach Artikel 72 Abs. 4 oder nach
-Artikel 125a Abs. 2 Satz 2 im Bundestag abgelehnt oder über sie nicht
-innerhalb eines Jahres beraten und Beschluss gefasst oder wenn eine
-entsprechende Gesetzesvorlage im Bundesrat abgelehnt worden ist.
+werden könnte, ersetzt ein Bundesgesetz nach Artikel 72 Absatz 4 oder
+nach Artikel 125a Absatz 2 Satz 2. Der Antrag nach Satz 1 ist nur
+zulässig, wenn eine Gesetzesvorlage nach Artikel 72 Absatz 4 oder nach
+Artikel 125a Absatz 2 Satz 2 im Bundestag abgelehnt oder über sie
+nicht innerhalb eines Jahres beraten und Beschluss gefasst oder wenn
+eine entsprechende Gesetzesvorlage im Bundesrat abgelehnt worden ist.
 
 (3) Das Bundesverfassungsgericht wird ferner in den ihm sonst durch
 Bundesgesetz zugewiesenen Fällen tätig.
 
-
-### Art 94
-
-(1) Das Bundesverfassungsgericht besteht aus Bundesrichtern und
-anderen Mitgliedern. Die Mitglieder des Bundesverfassungsgerichtes
-werden je zur Hälfte vom Bundestage und vom Bundesrate gewählt. Sie
-dürfen weder dem Bundestage, dem Bundesrate, der Bundesregierung noch
-entsprechenden Organen eines Landes angehören.
-
-(2) Ein Bundesgesetz regelt seine Verfassung und das Verfahren und
-bestimmt, in welchen Fällen seine Entscheidungen Gesetzeskraft haben.
-Es kann für Verfassungsbeschwerden die vorherige Erschöpfung des
-Rechtsweges zur Voraussetzung machen und ein besonderes
-Annahmeverfahren vorsehen.
+(4) Die Entscheidungen des Bundesverfassungsgerichts binden die
+Verfassungsorgane des Bundes und der Länder sowie alle Gerichte und
+Behörden. Ein Bundesgesetz bestimmt, in welchen Fällen seine
+Entscheidungen Gesetzeskraft haben.
 
 
 ### Art 95
@@ -3088,11 +3110,22 @@ vorsehen. Für die Ausnahmeregelung ist eine entsprechende
 Tilgungsregelung vorzusehen. Die nähere Ausgestaltung regelt für den
 Haushalt des Bundes Artikel 115 mit der Maßgabe, dass Satz 1
 entsprochen ist, wenn die Einnahmen aus Krediten 0,35 vom Hundert im
-Verhältnis zum nominalen Bruttoinlandsprodukt nicht überschreiten. Die
-nähere Ausgestaltung für die Haushalte der Länder regeln diese im
-Rahmen ihrer verfassungsrechtlichen Kompetenzen mit der Maßgabe, dass
-Satz 1 nur dann entsprochen ist, wenn keine Einnahmen aus Krediten
-zugelassen werden.
+Verhältnis zum nominalen Bruttoinlandsprodukt nicht überschreiten. Von
+den zu berücksichtigenden Einnahmen aus Krediten ist der Betrag
+abzuziehen, um den die Verteidigungsausgaben, die Ausgaben des Bundes
+für den Zivil- und Bevölkerungsschutz sowie für die
+Nachrichtendienste, für den Schutz der informationstechnischen Systeme
+und für die Hilfe für völkerrechtswidrig angegriffene Staaten 1 vom
+Hundert im Verhältnis zum nominalen Bruttoinlandsprodukt übersteigen.
+Die Gesamtheit der Länder entspricht Satz 1, wenn die durch sie
+erzielten Einnahmen aus Krediten 0,35 vom Hundert im Verhältnis zum
+nominalen Bruttoinlandsprodukt nicht überschreiten. Die Aufteilung der
+für die Gesamtheit der Länder zulässigen Kreditaufnahme nach Satz 6
+auf die einzelnen Länder regelt ein Bundesgesetz mit Zustimmung des
+Bundesrates. Die nähere Ausgestaltung für die Haushalte der Länder
+regeln diese im Rahmen ihrer verfassungsrechtlichen Kompetenzen.
+Bestehende landesrechtliche Regelungen, die hinter der gemäß Satz 7
+festgelegten Kreditobergrenze zurückbleiben, treten außer Kraft.
 
 (4) Durch Bundesgesetz, das der Zustimmung des Bundesrates bedarf,
 können für Bund und Länder gemeinsam geltende Grundsätze für das
@@ -3260,25 +3293,36 @@ Einnahmen aus Krediten 0,35 vom Hundert im Verhältnis zum nominalen
 Bruttoinlandsprodukt nicht überschreiten. Zusätzlich sind bei einer
 von der Normallage abweichenden konjunkturellen Entwicklung die
 Auswirkungen auf den Haushalt im Auf- und Abschwung symmetrisch zu
-berücksichtigen. Abweichungen der tatsächlichen Kreditaufnahme von der
-nach den Sätzen 1 bis 3 zulässigen Kreditobergrenze werden auf einem
+berücksichtigen. Von den zu berücksichtigenden Einnahmen aus Krediten
+ist der Betrag abzuziehen, um den die Verteidigungsausgaben, die
+Ausgaben des Bundes für den Zivil- und Bevölkerungsschutz sowie für
+die Nachrichtendienste, für den Schutz der informationstechnischen
+Systeme und für die Hilfe für völkerrechtswidrig angegriffene Staaten
+1 vom Hundert im Verhältnis zum nominalen Bruttoinlandsprodukt
+übersteigen. Abweichungen der tatsächlichen Kreditaufnahme von der
+nach den Sätzen 1 bis 4 zulässigen Kreditobergrenze werden auf einem
 Kontrollkonto erfasst; Belastungen, die den Schwellenwert von 1,5 vom
 Hundert im Verhältnis zum nominalen Bruttoinlandsprodukt
 überschreiten, sind konjunkturgerecht zurückzuführen. Näheres,
 insbesondere die Bereinigung der Einnahmen und Ausgaben um finanzielle
-Transaktionen und das Verfahren zur Berechnung der Obergrenze der
-jährlichen Nettokreditaufnahme unter Berücksichtigung der
-konjunkturellen Entwicklung auf der Grundlage eines
-Konjunkturbereinigungsverfahrens sowie die Kontrolle und den Ausgleich
-von Abweichungen der tatsächlichen Kreditaufnahme von der Regelgrenze,
-regelt ein Bundesgesetz. Im Falle von Naturkatastrophen oder
-außergewöhnlichen Notsituationen, die sich der Kontrolle des Staates
-entziehen und die staatliche Finanzlage erheblich beeinträchtigen,
-können diese Kreditobergrenzen auf Grund eines Beschlusses der
-Mehrheit der Mitglieder des Bundestages überschritten werden. Der
-Beschluss ist mit einem Tilgungsplan zu verbinden. Die Rückführung der
-nach Satz 6 aufgenommenen Kredite hat binnen eines angemessenen
-Zeitraumes zu erfolgen.
+Transaktionen und um Verteidigungsausgaben, die Ausgaben des Bundes
+für den Zivil- und Bevölkerungsschutz sowie für die
+Nachrichtendienste, für den Schutz der informationstechnischen Systeme
+und für die Hilfe für völkerrechtswidrig angegriffene Staaten oberhalb
+von 1 vom Hundert im Verhältnis zum nominalen Bruttoinlandsprodukt
+sowie das Verfahren zur Berechnung der Obergrenze der jährlichen
+Nettokreditaufnahme unter Berücksichtigung der konjunkturellen
+Entwicklung auf der Grundlage eines Konjunkturbereinigungsverfahrens
+sowie die Kontrolle und den Ausgleich von Abweichungen der
+tatsächlichen Kreditaufnahme von der Regelgrenze, regelt ein
+Bundesgesetz. Im Falle von Naturkatastrophen oder außergewöhnlichen
+Notsituationen, die sich der Kontrolle des Staates entziehen und die
+staatliche Finanzlage erheblich beeinträchtigen, können diese
+Kreditobergrenzen auf Grund eines Beschlusses der Mehrheit der
+Mitglieder des Bundestages überschritten werden. Der Beschluss ist mit
+einem Tilgungsplan zu verbinden. Die Rückführung der nach Satz 7
+aufgenommenen Kredite hat binnen eines angemessenen Zeitraumes zu
+erfolgen.
 
 
 ## X a. - Verteidigungsfall
@@ -4225,6 +4269,29 @@ Länderfinanzausgleichs und der Bundesergänzungszuweisungen bis zum 31.
 Dezember 2019 ist Artikel 107 in seiner bis zum Inkrafttreten des
 Gesetzes zur Änderung des Grundgesetzes vom 13. Juli 2017 geltenden
 Fassung weiter anzuwenden.
+
+
+### Art 143h
+
+(1) Der Bund kann ein Sondervermögen mit eigener Kreditermächtigung
+für zusätzliche Investitionen in die Infrastruktur und für zusätzliche
+Investitionen zur Erreichung der Klimaneutralität bis zum Jahr 2045
+mit einem Volumen von bis zu 500 Milliarden Euro errichten.
+Zusätzlichkeit liegt vor, wenn im jeweiligen Haushaltsjahr eine
+angemessene Investitionsquote im Bundeshaushalt erreicht wird. Auf die
+Kreditermächtigung sind Artikel 109 Absatz 3 und Artikel 115 Absatz 2
+nicht anzuwenden. Investitionen aus dem Sondervermögen können
+innerhalb einer Laufzeit von zwölf Jahren bewilligt werden.
+Zuführungen aus dem Sondervermögen in den Klima- und
+Transformationsfonds werden in Höhe von 100 Milliarden Euro
+vorgenommen. Das Nähere regelt ein Bundesgesetz.
+
+(2) Aus dem Sondervermögen nach Absatz 1 Satz 1 stehen den Ländern 100
+Milliarden Euro auch für Investitionen der Länder in deren
+Infrastruktur zur Verfügung. Die Länder haben dem Bund über die
+Mittelverwendung Bericht zu erstatten. Der Bund ist zur Prüfung der
+zweckentsprechenden Mittelverwendung berechtigt. Das Nähere regelt ein
+Bundesgesetz mit Zustimmung des Bundesrates.
 
 
 ### Art 144

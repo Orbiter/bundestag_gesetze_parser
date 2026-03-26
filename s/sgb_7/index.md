@@ -17,8 +17,9 @@ Fundstelle
 :   BGBl I: 1996, 1254
 
 Zuletzt geändert durch
-:   Art. 3 G v. 22.3.2024 I Nr. 101
+:   Art. 62 Abs. 5 G v. 4.2.2026 I Nr. 33
 
+Stand: Bek. v. 2.3.2026 I Nr. 56 ist berücksichtigt
 
 ## Erstes Kapitel - Aufgaben, versicherter Personenkreis, Versicherungsfall
 
@@ -456,8 +457,8 @@ sich die Versicherung erstreckt auf
     ehrenamtliche Richter,
 
 
-2.  Personen in der Zeit, in der sie aufgrund gesetzlicher Pflicht
-    Wehrdienst oder Zivildienst leisten.
+2.  Personen in der Zeit, in der sie Zivildienst leisten, und Personen,
+    für die das Soldatenentschädigungsgesetz gilt,
 
 
 3.  satzungsmäßige Mitglieder geistlicher Genossenschaften, Diakonissen
@@ -1492,24 +1493,31 @@ erfüllt haben.
 ### § 25 Bericht gegenüber dem Bundestag
 
 (1) Die Bundesregierung hat dem Deutschen Bundestag und dem Bundesrat
-alljährlich bis zum 31. Dezember des auf das Berichtsjahr folgenden
-Jahres einen statistischen Bericht über den Stand von Sicherheit und
-Gesundheit bei der Arbeit und über das Unfall- und
+alle vier Jahre einen statistischen Bericht über den Stand von
+Sicherheit und Gesundheit bei der Arbeit und über das Unfall- und
 Berufskrankheitengeschehen in der Bundesrepublik Deutschland zu
 erstatten, der die Berichte der Unfallversicherungsträger und die
 Jahresberichte der für den Arbeitsschutz zuständigen Landesbehörden
-zusammenfaßt. Alle vier Jahre hat der Bericht einen umfassenden
-Überblick über die Entwicklung der Arbeitsunfälle und
-Berufskrankheiten, ihre Kosten und die Maßnahmen zur Sicherheit und
-Gesundheit bei der Arbeit zu enthalten.
+zusammenfasst sowie einen umfassenden Überblick über die Entwicklung
+der Arbeitsunfälle und Berufskrankheiten, ihre Kosten und die
+Maßnahmen zur Sicherheit und Gesundheit bei der Arbeit enthält. Der
+Bericht ist dem Deutschen Bundestag und dem Bundesrat bis zum 31.
+Dezember des auf den Berichtszeitraum folgenden Jahres zu übermitteln.
 
 (2) Die Unfallversicherungsträger haben dem Bundesministerium für
-Arbeit und Soziales alljährlich bis zum 31. Juli des auf das
-Berichtsjahr folgenden Jahres über die Durchführung der Maßnahmen zur
-Sicherheit und Gesundheit bei der Arbeit sowie über das Unfall- und
-Berufskrankheitengeschehen zu berichten. Landesunmittelbare
-Versicherungsträger reichen die Berichte über die für sie zuständigen
-obersten Verwaltungsbehörden der Länder ein.
+Arbeit und Soziales alljährlich bis zum 31. Juli über die Durchführung
+der Maßnahmen zur Sicherheit und Gesundheit bei der Arbeit sowie über
+das Unfall- und Berufskrankheitengeschehen im Vorjahr zu berichten.
+Landesunmittelbare Versicherungsträger reichen die Berichte über die
+für sie zuständigen obersten Verwaltungsbehörden der Länder ein.
+
+(3) Das Bundesministerium für Arbeit und Soziales veröffentlicht
+alljährlich bis zum 31. Dezember eine statistische Übersicht über den
+Stand von Sicherheit und Gesundheit bei der Arbeit und über das
+Unfall- und Berufskrankheitengeschehen in der Bundesrepublik
+Deutschland im Vorjahr, die die Berichte der Unfallversicherungsträger
+und die Jahresberichte der für den Arbeitsschutz zuständigen
+Landesbehörden zusammenfasst.
 
 
 ## Drittes Kapitel - Leistungen nach Eintritt eines Versicherungsfalls
@@ -1648,8 +1656,14 @@ Leistungserbringer an die Telematikinfrastruktur angebunden ist.
 (2) § 360 des Fünften Buches gilt entsprechend für die
 Leistungserbinger nach § 27 Absatz 1 sowie die
 Unfallversicherungsträger, sobald die Verordnung von Leistungen nach §
-27 Absatz 1 Nummer 4 elektronisch erfolgt und der Leistungserbringer
-an die Telematikinfrastruktur angebunden ist.
+27 Absatz 1 Nummer 4 und 5 elektronisch erfolgt und der
+Leistungserbringer an die Telematikinfrastruktur angebunden ist.
+
+(3) § 350a des Fünften Buches gilt entsprechend für Versicherte dieses
+Buches.
+
+(4) § 351 des Fünften Buches gilt entsprechend für den zuständigen
+Unfallversicherungsträger.
 
 
 ##### § 28 Ärztliche und zahnärztliche Behandlung
@@ -2039,12 +2053,12 @@ aktuellen Rentenwertes fest.
 2.  unmittelbar vor Beginn der Arbeitsunfähigkeit oder der Heilbehandlung
     Anspruch auf Arbeitsentgelt, Arbeitseinkommen, Krankengeld,
     Pflegeunterstützungsgeld, Verletztengeld, Krankengeld der Sozialen
-    Entschädigung, Übergangsgeld, Unterhaltsgeld, Kurzarbeitergeld,
-    Qualifizierungsgeld, Arbeitslosengeld, nicht nur darlehensweise
-    gewährtes Bürgergeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches oder
-    nicht nur Leistungen für Erstausstattungen für Bekleidung bei
-    Schwangerschaft und Geburt nach dem Zweiten Buch oder
-    Mutterschaftsgeld hatten.
+    Entschädigung, Krankengeld der Soldatenentschädigung, Übergangsgeld,
+    Unterhaltsgeld, Kurzarbeitergeld, Qualifizierungsgeld,
+    Arbeitslosengeld, nicht nur darlehensweise gewährtes Bürgergeld nach §
+    19 Absatz 1 Satz 1 des Zweiten Buches oder nicht nur Leistungen für
+    Erstausstattungen für Bekleidung bei Schwangerschaft und Geburt nach
+    dem Zweiten Buch oder Mutterschaftsgeld hatten.
 
 
 
@@ -2149,7 +2163,7 @@ endet das Verletztengeld
 ##### § 47 Höhe des Verletztengeldes
 
 (1) Versicherte, die Arbeitsentgelt oder Arbeitseinkommen erzielt
-haben, erhalten Verletztengeld entsprechend § 47 Abs. 1 und 2 des
+haben, erhalten Verletztengeld entsprechend § 47 Absatz 1, 2 und 5 des
 Fünften Buches mit der Maßgabe, daß
 
 1.  das Regelentgelt aus dem Gesamtbetrag des regelmäßigen Arbeitsentgelts
@@ -2159,7 +2173,7 @@ Fünften Buches mit der Maßgabe, daß
 
 
 2.  das Verletztengeld 80 vom Hundert des Regelentgelts beträgt und das
-    bei Anwendung des § 47 Abs. 1 und 2 des Fünften Buches berechnete
+    bei Anwendung des § 47 Absatz 1, 2 und 5 des Fünften Buches berechnete
     Nettoarbeitsentgelt nicht übersteigt.
 
 
@@ -2187,14 +2201,14 @@ vor dem 22. Juni 2000 unanfechtbar geworden sind, sind nicht nach § 44
 Abs. 1 des Zehnten Buches zurückzunehmen.
 
 (2) Versicherte, die Arbeitslosengeld, Unterhaltsgeld,
-Kurzarbeitergeld oder Qualifizierungsgeld, Qualifizierungsgeld bezogen
-haben, erhalten Verletztengeld in Höhe des Krankengeldes nach § 47b
-des Fünften Buches. Versicherte, die nicht nur darlehensweise
-gewährtes Bürgergeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches oder
-nicht nur Leistungen für Erstausstattungen für Bekleidung bei
-Schwangerschaft und Geburt nach dem Zweiten Buch bezogen haben,
-erhalten Verletztengeld in Höhe des Betrages des Bürgergeldes nach §
-19 Absatz 1 Satz 1 des Zweiten Buches.
+Kurzarbeitergeld oder Qualifizierungsgeld bezogen haben, erhalten
+Verletztengeld in Höhe des Krankengeldes nach § 47b des Fünften
+Buches. Versicherte, die nicht nur darlehensweise gewährtes Bürgergeld
+nach § 19 Absatz 1 Satz 1 des Zweiten Buches oder nicht nur Leistungen
+für Erstausstattungen für Bekleidung bei Schwangerschaft und Geburt
+nach dem Zweiten Buch bezogen haben, erhalten Verletztengeld in Höhe
+des Betrages des Bürgergeldes nach § 19 Absatz 1 Satz 1 des Zweiten
+Buches.
 
 (3) Versicherte, die als Entwicklungshelfer Unterhaltsleistungen nach
 § 4 Abs. 1 Nr. 1 des Entwicklungshelfer-Gesetzes bezogen haben,
@@ -2202,9 +2216,10 @@ erhalten Verletztengeld in Höhe dieses Betrages.
 
 (4) Bei Versicherten, die unmittelbar vor dem Versicherungsfall
 Krankengeld, Pflegeunterstützungsgeld, Verletztengeld, Krankengeld der
-Sozialen Entschädigung oder Übergangsgeld bezogen haben, wird bei der
-Berechnung des Verletztengeldes von dem bisher zugrunde gelegten
-Regelentgelt ausgegangen.
+Sozialen Entschädigung, Krankengeld der Soldatenentschädigung oder
+Übergangsgeld bezogen haben, wird bei der Berechnung des
+Verletztengeldes von dem bisher zugrunde gelegten Regelentgelt
+ausgegangen.
 
 (5) Abweichend von Absatz 1 erhalten Versicherte, die den
 Versicherungsfall infolge einer Tätigkeit als Unternehmer,
@@ -2295,13 +2310,13 @@ erzielten Einkommen angerechnet
     einmalig gezahltes Arbeitsentgelt,
 
 
-2.  Mutterschaftsgeld, Krankengeld der Sozialen Entschädigung,
-    Unterhaltsgeld, Kurzarbeitergeld, Qualifizierungsgeld,
-    Arbeitslosengeld, nicht nur darlehensweise gewährtes Bürgergeld nach §
-    19 Absatz 1 Satz 1 des Zweiten Buches; dies gilt auch, wenn Ansprüche
-    auf Leistungen nach dem Dritten Buch wegen einer Sperrzeit ruhen oder
-    der Auszahlungsanspruch auf Bürgergeld nach § 19 Absatz 1 Satz 1 des
-    Zweiten Buches gemindert ist.
+2.  Mutterschaftsgeld, Krankengeld der Sozialen Entschädigung, Krankengeld
+    der Soldatenentschädigung, Unterhaltsgeld, Kurzarbeitergeld,
+    Qualifizierungsgeld, Arbeitslosengeld, nicht nur darlehensweise
+    gewährtes Bürgergeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches;
+    dies gilt auch, wenn Ansprüche auf Leistungen nach dem Dritten Buch
+    wegen einer Sperrzeit ruhen oder der Auszahlungsanspruch auf
+    Bürgergeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches gemindert ist.
 
 
 
@@ -2458,8 +2473,8 @@ Versicherungsfalls sind nur zu berücksichtigen, wenn sie die
 Erwerbsfähigkeit um wenigstens 10 vom Hundert mindern. Den
 Versicherungsfällen stehen gleich Unfälle oder Entschädigungsfälle
 nach den Beamtengesetzen, dem Vierzehnten Buch, dem
-Soldatenversorgungsgesetz, dem Gesetz über den zivilen Ersatzdienst,
-dem Gesetz über die Abgeltung von Besatzungsschäden, dem
+Soldatenentschädigungsgesetz, dem Gesetz über den zivilen
+Ersatzdienst, dem Gesetz über die Abgeltung von Besatzungsschäden, dem
 Häftlingshilfegesetz und den entsprechenden Gesetzen, die
 Entschädigung für Unfälle oder Beschädigungen gewähren.
 
@@ -2548,8 +2563,9 @@ Höhe dieser Versorgungsbezüge stellt die Dienstbehörde fest. Für die
 Hinterbliebenen gilt dies entsprechend.
 
 (2) Absatz 1 gilt für die Berufssoldaten entsprechend. Anstelle des
-Unfallausgleichs wird der Ausgleich nach § 85 des
-Soldatenversorgungsgesetzes gezahlt.
+Unfallausgleichs wird der Ausgleich für gesundheitliche
+Schädigungsfolgen nach § 11 des Soldatenentschädigungsgesetzes
+gezahlt.
 
 
 ##### § 62 Rente als vorläufige Entschädigung
@@ -3623,7 +3639,7 @@ entsprechend.
 3.  Personen, die nach § 2 Abs. 1 Nr. 1 oder § 2 Absatz 3 Satz 1 Nummer 3
     Buchstabe a versichert sind, wenn diese an einer besonderen
     Auslandsverwendung im Sinne des § 31a des Beamtenversorgungsgesetzes
-    oder des § 63c des Soldatenversorgungsgesetzes teilnehmen, sowie
+    oder des § 87 des Soldatenversorgungsgesetzes teilnehmen, sowie
     Personen, die nach § 2 Absatz 3 Satz 1 Nummer 3 Buchstabe c versichert
     sind.
 
@@ -3704,10 +3720,9 @@ Bankarbeitstages erfolgen kann.
 (2) Laufende Geldleistungen können mit Zustimmung der Berechtigten für
 einen angemessenen Zeitraum im voraus ausgezahlt werden.
 
-(2a) In Fällen des § 47 Absatz 1 Satz 3 des Ersten Buches erfolgt eine
-kostenfreie Übermittlung von Geldleistungen an den Wohnsitz oder
-gewöhnlichen Aufenthalt spätestens ab dem zweiten Monat, der auf den
-Monat folgt, in dem der Nachweis erbracht worden ist.
+(2a) Abweichend von § 47 Absatz 1 des Ersten Buches gilt für die
+Auszahlung von Geldleistungen § 118 Absatz 2b und 2c des Sechsten
+Buches entsprechend.
 
 (3) Geldleistungen, die für die Zeit nach dem Tod des Berechtigten auf
 ein Konto bei einem Geldinstitut, für das die Verordnung (EU) Nr.
@@ -3715,12 +3730,14 @@ ein Konto bei einem Geldinstitut, für das die Verordnung (EU) Nr.
 zur Festlegung der technischen Vorschriften und der
 Geschäftsanforderungen für Überweisungen und Lastschriften in Euro und
 zur Änderung der Verordnung (EG) Nr. 924/2009 (ABl. L 94 vom
-30\.3.2012, S. 22) gilt, überwiesen wurden, gelten als unter Vorbehalt
-erbracht. Das Geldinstitut hat sie der überweisenden Stelle oder dem
-Unfallversicherungsträger zurückzuüberweisen, wenn diese sie als zu
-Unrecht erbracht zurückfordern. Eine Verpflichtung zur Rücküberweisung
-besteht nicht, soweit über den entsprechenden Betrag bei Eingang der
-Rückforderung bereits anderweitig verfügt wurde, es sei denn, daß die
+30\.3.2012, S. 22), die zuletzt durch die Verordnung (EU) 2024/886
+(ABl. L, 2024/886, 19.3.2024) geändert worden ist, gilt, überwiesen
+wurden, gelten als unter Vorbehalt erbracht. Das Geldinstitut hat sie
+der überweisenden Stelle oder dem Unfallversicherungsträger
+zurückzuüberweisen, wenn diese sie als zu Unrecht erbracht
+zurückfordern. Eine Verpflichtung zur Rücküberweisung besteht nicht,
+soweit über den entsprechenden Betrag bei Eingang der Rückforderung
+bereits anderweitig verfügt wurde, es sei denn, daß die
 Rücküberweisung aus einem Guthaben erfolgen kann. Das Geldinstitut
 darf den überwiesenen Betrag nicht zur Befriedigung eigener
 Forderungen verwenden.
@@ -5247,24 +5264,25 @@ Unfallversicherung e. V. gespeichert. Die Berufsgenossenschaften und
 Unfallversicherungsträger der öffentlichen Hand haben zur Erledigung
 ihrer gesetzlichen Aufgaben Zugriff auf dieses Dateisystem; dies gilt
 auch für die Arbeitsschutzbehörden der Länder, soweit dies für die
-Erfüllung ihrer Aufgaben nach § 21 Absatz 3a des Arbeitsschutzgesetzes
-erforderlich ist. Die Berufsgenossenschaften und die
-Unfallversicherungsträger der öffentlichen Hand führen die
-Unternehmer- und Unternehmensnummern ihrer Mitglieder jeweils in einem
-gesonderten Mitgliederdateisystem.
+Erfüllung ihrer gesetzlichen Aufgaben erforderlich ist. Die
+Berufsgenossenschaften und die Unfallversicherungsträger der
+öffentlichen Hand führen die Unternehmer- und Unternehmensnummern
+ihrer Mitglieder jeweils in einem gesonderten Mitgliederdateisystem.
 
 (2) Bei Änderungen, die die nach Absatz 1 zum Unternehmer oder zum
 Unternehmen gespeicherten Daten betreffen, gilt § 192 Absatz 2
 entsprechend.
 
-(3) Der Unternehmer hat für die Vergabe der Unternehmernummer die dazu
-notwendigen Angaben, insbesondere den Namen, den Geburtsnamen, das
-Geburtsdatum und die aktuelle Wohnanschrift, elektronisch zu
-übermitteln. Das Nähere zum Verfahren, zu den erforderlichen Angaben
-und zu den Datensätzen regelt die Deutsche Gesetzliche
-Unfallversicherung e. V., in Abstimmung mit der landwirtschaftlichen
-Berufsgenossenschaft, in Grundsätzen, die durch das Bundesministerium
-für Arbeit und Soziales zu genehmigen sind.
+(3) Der Unternehmer hat für die Vergabe der Unternehmernummer
+einschließlich des Anhangs nach Absatz 1 Satz 4 die dazu notwendigen
+Angaben, insbesondere den Namen, den Geburtsnamen, das Geburtsdatum,
+die Identifikationsnummer nach dem Identifikationsnummerngesetz und
+die aktuelle Wohnanschrift, elektronisch zu übermitteln. Das Nähere
+zum Verfahren, zu den erforderlichen Angaben und zu den Datensätzen
+regelt die Deutsche Gesetzliche Unfallversicherung e. V., in
+Abstimmung mit der landwirtschaftlichen Berufsgenossenschaft, in
+Grundsätzen, die durch das Bundesministerium für Arbeit und Soziales
+zu genehmigen sind.
 
 
 ##### § 136b Verarbeitung zu Zwecken des Unternehmensbasisdatenregisters
@@ -5278,6 +5296,75 @@ bundeseinheitliche Wirtschaftsnummer nach § 2 des
 Unternehmensbasisdatenregistergesetzes darf zu den in § 5 des
 Unternehmensbasisdatenregistergesetzes aufgeführten Zwecken im
 zentralen Dateisystem nach § 136a Absatz 1 Satz 5 gespeichert werden.
+
+
+##### § 136c Betriebsstättenverzeichnis
+
+(1) Als Erweiterung des zentralen Dateisystems gemäß § 136a Absatz 1
+Satz 5 führt die Deutsche Gesetzliche Unfallversicherung e. V. ein
+Betriebsstättenverzeichnis. Das Betriebsstättenverzeichnis enthält
+eine Auflistung der einem Unternehmen zuzuordnenden Betriebsstätten
+und zuzuordnenden Orte, an denen Besichtigungen vorgenommen werden
+können (Besichtigungsorte), nach Absatz 2 Satz 2. Für jede dieser
+Betriebsstätten und jeden dieser Besichtigungsorte wird eine
+Betriebsstättennummer vergeben, die einen eindeutigen Bezug zum
+Unternehmen und zu den Unternehmern herstellt.
+
+(2) Im Betriebsstättenverzeichnis werden Betriebstätten gemäß § 18h
+Absatz 3 des Vierten Buches erfasst. Darüber hinaus können weitere
+Besichtigungsorte in das Betriebsstättenverzeichnis aufgenommen
+werden. Näheres regeln die Gemeinsamen Grundsätze nach Absatz 5.
+
+(3) Die Deutsche Gesetzliche Unfallversicherung e. V. ist berechtigt,
+im Betriebsstättenverzeichnis alle zur Identifikation der
+Betriebsstätte notwendigen Daten, die zuständigen
+Unfallversicherungsträger und die zuständige Arbeitsschutzbehörde der
+Länder sowie, soweit vorhanden, die Betriebsnummer nach § 18i Absatz 2
+des Vierten Buches, Informationen zum Wirtschaftszweig und die Zahl
+der Beschäftigten zu verarbeiten. Die Berufsgenossenschaften und
+Unfallversicherungsträger der öffentlichen Hand haben, soweit dies zur
+Erledigung ihrer gesetzlichen Aufgaben erforderlich ist, Zugriff auf
+das Betriebsstättenverzeichnis; dies gilt auch für die obersten und
+die jeweils zuständigen Arbeitsschutzbehörden der Länder, soweit dies
+für die Erfüllung ihrer gesetzlichen Aufgaben erforderlich ist.
+
+(4) Die Bundesagentur für Arbeit übermittelt an die Deutsche
+Gesetzliche Unfallversicherung e. V. die Daten aus dem Dateisystem der
+Beschäftigungsbetriebe nach § 18i des Vierten Buches sowie die Zahl
+der Beschäftigten und teilt durch automatisierte Datenübermittlung
+nach § 18m Absatz 1 des Vierten Buches Änderungen mit. Die Träger der
+Unfallversicherung und die zuständigen Arbeitsschutzbehörden der
+Länder übermitteln Daten nach Absatz 3 Satz 1, die sie im Rahmen ihrer
+gesetzlichen Aufgabenerfüllung oder aufgrund bestehender Melde- und
+Unterstützungspflichten anderer Behörden oder der Unternehmer
+erlangen, an die Deutsche Gesetzliche Unfallversicherung e. V.
+
+(5) Das Nähere zum Verfahren, zu den erforderlichen Angaben, den
+Datensätzen, den Besichtigungsorten und den damit verbundenen
+Berechtigungen sowie möglichen Nutzungsentgelten wird in Gemeinsamen
+Grundsätzen festgelegt. Diese werden durch die Deutsche Gesetzliche
+Unfallversicherung e. V. in Abstimmung mit den obersten
+Arbeitsschutzbehörden der Länder und der landwirtschaftlichen
+Berufsgenossenschaft und unter Beteiligung der Bundesagentur für
+Arbeit aufgestellt. Die obersten Arbeitsschutzbehörden der Länder
+übermitteln gemeinsame Positionen. Gesichtspunkte der
+Wirtschaftlichkeit sind zu beachten. Die Gemeinsamen Grundsätze sind
+durch das Bundesministerium für Arbeit und Soziales zu genehmigen.
+
+(6) Die Regelungen der Absätze 1 bis 5 gelten in der Zeit vom 1.
+Januar 2026 bis zum 31. Dezember 2030 ausschließlich für zwischen der
+Deutschen Gesetzlichen Unfallversicherung e. V. und der
+landwirtschaftlichen Berufsgenossenschaft abgestimmte Pilotvorhaben,
+die dem kontinuierlichen Aufbau des Betriebsstättenverzeichnisses
+sowie der Erprobung der dazu notwendigen technischen Einrichtungen
+dienen. Die obersten Arbeitsschutzbehörden der Länder und die
+Bundesagentur für Arbeit sind über die Durchführung der Pilotvorhaben
+regelmäßig zu informieren. Pilotvorhaben zum Abruf von Daten aus dem
+Betriebsstättenverzeichnis durch die Arbeitsschutzbehörden der Länder
+sind in Abstimmung mit der Deutschen Gesetzlichen Unfallversicherung
+e. V. in der Pilotphase möglich. Über den jeweiligen Stand der
+Umsetzung berichtet die Deutsche Gesetzliche Unfallversicherung e. V.
+dem Bundesministerium für Arbeit und Soziales halbjährlich.
 
 
 ##### § 137 Wirkung von Zuständigkeitsänderungen
@@ -6501,13 +6588,7 @@ erlassen werden, bedürfen einer Anhörung der Deutschen Gesetzlichen
 Unfallversicherung e. V. und ergehen im Einvernehmen mit dem
 Bundesministerium für Arbeit und Soziales.
 
-(4) Die Bundesregierung hat dem Deutschen Bundestag und dem Bundesrat
-alle vier Jahre bis zum 31. Dezember des auf das Ausgleichsjahr
-folgenden Jahres, erstmals bis zum 31. Dezember 2012, über die
-Wirkungen der gemeinsamen Tragung der Rentenlasten nach § 178 zu
-berichten.
-
-(5) Die Berufsgenossenschaften erstatten dem Bundesamt für Soziale
+(4) Die Berufsgenossenschaften erstatten dem Bundesamt für Soziale
 Sicherung die Verwaltungskosten, die bei der Durchführung des
 Ausgleichs entstehen. Das Bundesamt für Soziale Sicherung weist die
 für die Durchführung der Abrechnung erforderlichen Verwaltungskosten
@@ -6520,8 +6601,8 @@ Berufsgenossenschaften erfolgt entsprechend ihrem Anteil an dem
 Zahlungsvolumen für Rentenlasten im Ausgleichsjahr vor Durchführung
 des Ausgleichs.
 
-(6) Klagen gegen Feststellungsbescheide nach Absatz 2 einschließlich
-der hierauf entfallenden Verwaltungskosten nach Absatz 5 haben keine
+(5) Klagen gegen Feststellungsbescheide nach Absatz 2 einschließlich
+der hierauf entfallenden Verwaltungskosten nach Absatz 4 haben keine
 aufschiebende Wirkung.
 
 
@@ -6997,7 +7078,11 @@ Unternehmen dem Unfallversicherungsträger anzuzeigen, wenn Versicherte
 getötet oder so verletzt sind, daß sie mehr als drei Tage
 arbeitsunfähig werden. Satz 1 gilt entsprechend für Unfälle von
 Versicherten, deren Versicherung weder eine Beschäftigung noch eine
-selbständige Tätigkeit voraussetzt.
+selbständige Tätigkeit voraussetzt. Unfälle der nach § 2 Absatz 1
+Nummer 8 Versicherten sind anzuzeigen, wenn der Unfall infolge einer
+Tätigkeit eingetreten ist, die mit dem Besuch der Einrichtung
+zusammenhängt, und eine versicherte Person infolge des Unfalles
+ärztlich behandelt werden muss oder zu Tode gekommen ist.
 
 (2) Haben Unternehmer im Einzelfall Anhaltspunkte, daß bei
 Versicherten ihrer Unternehmen eine Berufskrankheit vorliegen könnte,
@@ -7014,8 +7099,9 @@ anzuzeigen.
 
 (4) Die Anzeige ist binnen drei Tagen zu erstatten, nachdem die
 Unternehmer von dem Unfall oder von den Anhaltspunkten für eine
-Berufskrankheit Kenntnis erlangt haben. Der Versicherte kann vom
-Unternehmer verlangen, daß ihm eine Kopie der Anzeige überlassen wird.
+Berufskrankheit Kenntnis erlangt haben. Der Versicherte hat das Recht,
+die Inhalte der Anzeige von dem anzeigenden Unternehmer in einem
+barrierefreien Format zu erhalten.
 
 (5) Die Anzeige ist vom Betriebs- oder Personalrat mit zu
 unterzeichnen; bei Erstattung der Anzeige durch Datenübertragung ist
@@ -7549,7 +7635,8 @@ sind oder von Zugriffsberechtigten weitergegeben werden.
 (4) Die Durchführung der Forschung ist organisatorisch und räumlich
 von anderen Aufgaben zu trennen. Die übermittelten Einzelangaben
 dürfen nicht mit anderen personenbezogenen Daten zusammengeführt
-werden. § 67c Abs. 5 Satz 2 und 3 des Zehnten Buches bleibt unberührt.
+werden. § 67c Absatz 6 Satz 2 und 3 des Zehnten Buches bleibt
+unberührt.
 
 (5) Führen die Unfallversicherungsträger oder ihre Verbände das
 Forschungsvorhaben nicht selbst durch, dürfen die Daten nur
@@ -7706,10 +7793,12 @@ Anhaltspunkte für
 
 
 2.  eine Beschäftigung oder Tätigkeit von Ausländern ohne erforderlichen
-    Aufenthaltstitel nach § 4 Abs. 3 des Aufenthaltsgesetzes, eine
+    Aufenthaltstitel nach § 4a Absatz 5 Satz 1 des Aufenthaltsgesetzes,
+    eine Erlaubnis oder Berechtigung nach § 4a Absatz 5 Satz 2 in
+    Verbindung mit Absatz 4 des Aufenthaltsgesetzes, eine
     Aufenthaltsgestattung oder eine Duldung, die zur Ausübung der
-    Beschäftigung berechtigen, oder eine Genehmigung nach § 284 Abs. 1 des
-    Dritten Buches,
+    Beschäftigung berechtigen, oder eine Genehmigung nach § 284 Absatz 1
+    des Dritten Buches,
 
 
 3.  Verstöße gegen die Mitwirkungspflicht nach § 60 Abs. 1 Satz 1 Nr. 2
@@ -7733,7 +7822,17 @@ Anhaltspunkte für
 6.  Verstöße gegen die Steuergesetze,
 
 
-7.  Verstöße gegen das Aufenthaltsgesetz
+7.  Verstöße gegen das Aufenthaltsgesetz,
+
+
+8.  Verstöße gegen das Gesetz zur Sicherung von Arbeitnehmerrechten in der
+    Fleischwirtschaft,
+
+
+9.  Verstöße gegen das Mindestlohngesetz,
+
+
+10. Verstöße gegen das Arbeitnehmer-Entsendegesetz
 
 
 
@@ -7846,11 +7945,7 @@ angepasste Betrag aus § 1152 Abs. 2 der Reichsversicherungsordnung ab
 1\. Januar 2002 in Euro umgerechnet und auf volle Euro-Beträge
 aufgerundet wird.
 
-(3) Für Versicherungsfälle im Zuständigkeitsbereich der
-Unfallversicherung Bund und Bahn nach § 125 Absatz 1, die nach dem 31.
-Dezember 1991 eingetreten sind, gilt § 85 Abs. 2 Satz 1 mit der
-Maßgabe, daß der Jahresarbeitsverdienst höchstens das Zweifache der im
-Zeitpunkt des Versicherungsfalls geltenden Bezugsgröße (West) beträgt.
+(3) (weggefallen)
 
 (4) Für Versicherte an Bord von Seeschiffen und für nach § 2 Abs. 1
 Nr. 7 versicherte Küstenschiffer und Küstenfischer ist § 1152 Abs. 6
@@ -7859,23 +7954,7 @@ Gesetzes geltenden Fassung weiter anzuwenden mit der Maßgabe, daß an
 die Stelle der dort genannten Vorschriften der
 Reichsversicherungsordnung § 92 dieses Buches tritt.
 
-(5) Die Vorschriften über die Anpassung der vom Jahresarbeitsverdienst
-abhängigen Geldleistungen und über die Höhe und die Anpassung des
-Pflegegeldes gelten nicht für Versicherungsfälle in dem in Artikel 3
-des Einigungsvertrags genannten Gebiet; für diese Versicherungsfälle
-sind § 1151 Abs. 1 und § 1153 der Reichsversicherungsordnung in der am
-Tag vor Inkrafttreten dieses Gesetzes geltenden Fassung weiter
-anzuwenden mit der Maßgabe, daß an die Stelle der dort genannten
-Vorschriften der Reichsversicherungsordnung § 44 Abs. 2 und 4 sowie §
-95 dieses Buches treten. Abweichend von Satz 1 ist bei den Anpassungen
-ab dem 1. Juli 2001 der Vomhundertsatz maßgebend, um den sich die
-Renten aus der gesetzlichen Rentenversicherung in dem in Artikel 3 des
-Einigungsvertrages genannten Gebiet verändern. § 1151 Abs. 1 der
-Reichsversicherungsordnung gilt mit der Maßgabe, dass ab 1. Januar
-2002 an die Stelle des Pflegegeldrahmens in Deutscher Mark der
-Pflegegeldrahmen in Euro tritt, indem die zuletzt am 1. Juli 2001
-angepassten Beträge in Euro umgerechnet und auf volle Euro-Beträge
-aufgerundet werden.
+(5) (weggefallen)
 
 (6) Für die Feststellung und Zahlung von Renten bei
 Versicherungsfällen, die vor dem 1. Januar 1992 eingetreten sind, ist
@@ -7905,19 +7984,8 @@ anzuwenden.
 (9) (weggefallen)
 
 
-### § 216 Bezugsgröße (Ost) und aktueller Rentenwert (Ost)
+### § 216 (weggefallen)
 
-(1) Soweit Vorschriften dieses Buches beim Jahresarbeitsverdienst oder
-beim Sterbegeld an die Bezugsgröße anknüpfen, ist die Bezugsgröße für
-das in Artikel 3 des Einigungsvertrags genannte Gebiet (Bezugsgröße
-(Ost)) maßgebend, wenn es sich um einen Versicherungsfall in diesem
-Gebiet handelt.
-
-(2) Soweit Vorschriften dieses Buches bei Einkommensanrechnungen auf
-Leistungen an Hinterbliebene an den aktuellen Rentenwert anknüpfen,
-ist der aktuelle Rentenwert (Ost) maßgebend, wenn der Berechtigte
-seinen gewöhnlichen Aufenthalt in dem in Artikel 3 des
-Einigungsvertrags genannten Gebiet hat.
 
 
 ### § 217 Bestandsschutz
@@ -8368,87 +8436,6 @@ reduzieren.
 Ländern, Kommunen und Feuerwehrverbänden in den
 Selbstverwaltungsgremien sowie eine ortsnahe Betreuung der
 Versicherten und Unternehmen sicherzustellen.
-
-
-### § 224 Umstellung der Mitgliedsnummer auf die Unternehmernummer
-
-(1) Die Mitgliedsnummern der gewerblichen Berufsgenossenschaften, der
-landwirtschaftlichen Berufsgenossenschaft und der
-Unfallversicherungsträger der öffentlichen Hand sind in Abstimmung mit
-der Deutschen Gesetzlichen Unfallversicherung e. V. bis zum 1. Januar
-2023 automatisiert auf die neue Unternehmernummer umzustellen. Die
-Unternehmer sind über die vergebenen Unternehmernummern und die
-numerische Bezeichnung der zugehörigen Unternehmen unverzüglich zu
-informieren.
-
-(2) Für die vorbereitenden Tätigkeiten der Berufsgenossenschaften, der
-Unfallversicherungsträger der öffentlichen Hand und der Deutschen
-Gesetzlichen Unfallversicherung e. V. gilt, dass
-
-1.  jeder Unternehmer bei erstmaliger Aufnahme einer unternehmerischen
-    Tätigkeit eine Unternehmernummer erhält,
-
-
-2.  der Unternehmer für die Vergabe der Unternehmernummer die dazu
-    notwendigen Angaben, insbesondere den Namen, den Geburtsnamen, das
-    Geburtsdatum und die aktuelle Wohnanschrift elektronisch zu
-    übermitteln hat,
-
-
-3.  die Unternehmernummer nach Mitteilung über den Unternehmensbeginn im
-    Sinne von § 192 Absatz 1 über die Deutsche Gesetzliche
-    Unfallversicherung e. V. unverzüglich vergeben wird,
-
-
-4.  die Unternehmer, die bereits eine Unternehmernummer erhalten haben,
-    den Beginn und das Ende eines oder mehrerer weiterer Unternehmen nach
-    § 192 Absatz 1 unter Angabe der Unternehmernummer und der notwendigen
-    Angaben zur Identifizierung des Unternehmens dem zuständigen Träger
-    der Unfallversicherung mitzuteilen haben,
-
-
-5.  in einem Anhang zu der Unternehmernummer die dem Unternehmer
-    zugehörigen Unternehmen numerisch in aufsteigender Folge bezeichnet
-    werden,
-
-
-6.  die Unternehmernummer und die zur Identifizierung des Unternehmens
-    erforderlichen Daten in einem zentralen Dateisystem bei der Deutschen
-    Gesetzlichen Unfallversicherung e. V. gespeichert werden,
-
-
-7.  die Berufsgenossenschaften und die Unfallversicherungsträger der
-    öffentlichen Hand zur Erledigung ihrer gesetzlichen Aufgaben Zugriff
-    auf dieses Dateisystem haben,
-
-
-8.  die Berufsgenossenschaften und die Unfallversicherungsträger der
-    öffentlichen Hand die Unternehmer- und Unternehmensnummern ihrer
-    Mitglieder jeweils in einem gesonderten Mitgliederdateisystem führen.
-
-
-
-Bei Änderungen, die die zum Unternehmer oder zum Unternehmen
-gespeicherten Daten betreffen, gilt § 192 Absatz 2 entsprechend. Das
-Nähere zum Verfahren, zu den erforderlichen Angaben und zu den
-Datensätzen regelt die Deutsche Gesetzliche Unfallversicherung e. V.
-in Abstimmung mit der landwirtschaftlichen Berufsgenossenschaft in
-Grundsätzen, die durch das Bundesministerium für Arbeit und Soziales
-zu genehmigen sind.
-
-
-### § 225 Übergangsregelung aus Anlass des Gesetzes zur Regelung des Sozialen Entschädigungsrechts
-
-Für Personen, die Leistungen nach dem Soldatenversorgungsgesetz in der
-Fassung der Bekanntmachung vom 16. September 2009 (BGBl. I S. 3054),
-das zuletzt durch Artikel 19 des Gesetzes vom 4. August 2019 (BGBl. I
-S. 1147) geändert worden ist, in Verbindung mit dem
-Bundesversorgungsgesetz in der Fassung der Bekanntmachung vom 22.
-Januar 1982 (BGBl. I S. 21), das zuletzt durch Artikel 1 der
-Verordnung vom 13. Juni 2019 (BGBl. I S. 793) geändert worden ist,
-erhalten, gelten die Vorschriften des § 4 Absatz 1 Nummer 2, des § 45
-Absatz 1 Nummer 2, des § 47 Absatz 4, des § 52 Nummer 2 und des § 56
-Absatz 1 Satz 4 in der am 31. Dezember 2023 geltenden Fassung weiter.
 
 (zu § 114)
 

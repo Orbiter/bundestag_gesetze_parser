@@ -37,9 +37,8 @@ Vorschriften Leistungen zur Verhütung von Krankheiten, zur
 betrieblichen Gesundheitsförderung und Prävention arbeitsbedingter
 Gefahren, zur Förderung der Selbsthilfe, zur Erfassung von
 gesundheitlichen Risiken und Früherkennung von Krankheiten sowie bei
-Krankheit. Die §§ 1 bis 2b, 4 Absatz 4 Satz 1 Nummer 5, § 4a Absatz 2
-und 4 Nummer 5 des Fünften Buches Sozialgesetzbuch gelten
-entsprechend.
+Krankheit. Die §§ 1 bis 2b, 4 Absatz 4 und 5, § 4a Absatz 2 und 4 Satz
+1 Nummer 5 des Fünften Buches Sozialgesetzbuch gelten entsprechend.
 
 
 ### § 2 Pflichtversicherte
@@ -276,9 +275,9 @@ dem Grunde nach besteht.
 
 3.  die in § 5 Abs. 1 Nr. 6 des Fünften Buches Sozialgesetzbuch genannten
     Personen, die wegen Leistungen zur Teilhabe am Arbeitsleben nicht nach
-    dem Vierzehnten Buch Sozialgesetzbuch berechnetes Übergangsgeld
-    beziehen, wenn sie nach § 2 Abs. 1 Nr. 1, 2 oder 3
-    versicherungspflichtig sind,
+    dem Vierzehnten Buch Sozialgesetzbuch oder nach dem
+    Soldatenentschädigungsgesetz berechnetes Übergangsgeld beziehen, wenn
+    sie nach § 2 Abs. 1 Nr. 1, 2 oder 3 versicherungspflichtig sind,
 
 
 4.  die in § 5 Abs. 1 Nr. 7 und 8 des Fünften Buches Sozialgesetzbuch
@@ -351,9 +350,9 @@ Versicherungsfrei ist, wer
 (1) Auf Antrag wird von der Versicherungspflicht nach § 2 befreit, wer
 versicherungspflichtig wird
 
-1.  durch seine Tätigkeit als landwirtschaftlicher Unternehmer, wenn der
-    Wirtschaftswert (§ 40 Abs. 1 und 3) seines landwirtschaftlichen
-    Unternehmens 60 000 Deutsche Mark übersteigt, oder
+1.  durch seine Tätigkeit als landwirtschaftlicher Unternehmer, wenn bei
+    Eintritt der Versicherungspflicht eine Beitragsfestsetzung in die in §
+    40 Absatz 1 Satz 6 genannte höchste Beitragsklasse erfolgt, oder
 
 
 2.  durch den Antrag auf eine der in § 2 Abs. 1 Nr. 4 genannten Renten
@@ -994,8 +993,8 @@ Versicherungspflichtigen bleibt erhalten, solange
 
 
 2.  von einem Rehabilitationsträger während Leistungen zur medizinischen
-    Rehabilitation Verletztengeld, Krankengeld der Sozialen Entschädigung
-    oder Übergangsgeld gezahlt wird.
+    Rehabilitation Verletztengeld, Krankengeld der Sozialen Entschädigung,
+    Krankengeld der Soldatenentschädigung oder Übergangsgeld gezahlt wird.
 
 
 
@@ -1361,24 +1360,23 @@ hätte.
 (1) Die Beiträge nach § 39 Absatz 1 Nr. 1 werden nach Beitragsklassen
 festgesetzt. Die Satzung bestimmt die Beitragsklassen für die
 versicherungspflichtigen landwirtschaftlichen Unternehmer nach dem
-Wirtschaftswert, dem Arbeitsbedarf oder einem anderen angemessenen
-Maßstab. Soweit Flächen nach Maßgabe von Vorschriften der Europäischen
-Gemeinschaft oder nach gesetzlichen Bestimmungen durch Brachlegen mit
-oder ohne Wechselwirtschaft stillgelegt werden, gilt der am Tag vor
-der Stillegung maßgebliche Wert des jeweiligen Maßstabs. Die Satzung
-muß 20 Beitragsklassen vorsehen. Der Beitrag einer höheren
-Beitragsklasse muss den Beitrag einer darunter liegenden
-Beitragsklasse übersteigen; ein einheitlicher Grundbeitrag oder ein
-für alle oder mehrere Beitragsklassen einheitlicher Beitragsteil ist
-nicht zulässig. Der Beitrag der höchsten Beitragsklasse muß mindestens
-das Sechsfache des niedrigsten Beitrags für einen Versicherten nach §
-2 Abs. 1 Nr. 1 betragen und darf den sich aus Absatz 2 ergebenden
-Vergleichsbeitrag um nicht mehr als 10 vom Hundert unterschreiten.
-Eine Anpassung des Beitrags der höchsten Beitragsklasse unterbleibt,
-solange sich bei Anwendung eines neuen Vergleichsbeitrags eine
-Änderung um weniger als 10 Euro je Monat ergeben würde. Versicherte
-nach § 2 Abs. 1 Nr. 1 dürfen nicht in die niedrigste Beitragsklasse
-eingestuft werden.
+Arbeitsbedarf oder einem anderen angemessenen Maßstab. Soweit Flächen
+nach Maßgabe von Vorschriften der Europäischen Gemeinschaft oder nach
+gesetzlichen Bestimmungen durch Brachlegen mit oder ohne
+Wechselwirtschaft stillgelegt werden, gilt der am Tag vor der
+Stillegung maßgebliche Wert des jeweiligen Maßstabs. Die Satzung muß
+20 Beitragsklassen vorsehen. Der Beitrag einer höheren Beitragsklasse
+muss den Beitrag einer darunter liegenden Beitragsklasse übersteigen;
+ein einheitlicher Grundbeitrag oder ein für alle oder mehrere
+Beitragsklassen einheitlicher Beitragsteil ist nicht zulässig. Der
+Beitrag der höchsten Beitragsklasse muß mindestens das Sechsfache des
+niedrigsten Beitrags für einen Versicherten nach § 2 Abs. 1 Nr. 1
+betragen und darf den sich aus Absatz 2 ergebenden Vergleichsbeitrag
+um nicht mehr als 10 vom Hundert unterschreiten. Eine Anpassung des
+Beitrags der höchsten Beitragsklasse unterbleibt, solange sich bei
+Anwendung eines neuen Vergleichsbeitrags eine Änderung um weniger als
+10 Euro je Monat ergeben würde. Versicherte nach § 2 Abs. 1 Nr. 1
+dürfen nicht in die niedrigste Beitragsklasse eingestuft werden.
 
 (2) Der Vergleichsbeitrag ist aus dem Dreißigfachen des in § 223
 Absatz 3 des Fünften Buches Sozialgesetzbuch genannten Betrages und
@@ -1390,23 +1388,16 @@ Bundesministerium für Ernährung und Landwirtschaft macht den
 Vergleichsbeitrag bis zum 31. August eines jeden Jahres für das
 Folgejahr bekannt.
 
-(3) Für die Ermittlung des Wirtschaftswerts gilt § 1 Abs. 6 Satz 1 bis
-4 des Gesetzes über die Alterssicherung der Landwirte. Ist der
-Wirtschaftswert des Gesamtunternehmens oder von Teilen des
-Unternehmens nicht zu ermitteln, ist von der genutzten Fläche und dem
-der Nutzungsart entsprechenden durchschnittlichen Hektarwert in der
-Gemeinde auszugehen.
-
-(4) Der Arbeitsbedarf wird nach dem Durchschnittsmaß der für das
+(3) Der Arbeitsbedarf wird nach dem Durchschnittsmaß der für das
 Unternehmen erforderlichen menschlichen Arbeit unter Berücksichtigung
 der Kulturarten bemessen und nach der Zahl der Arbeitstage oder nach
 der Flächengröße festgesetzt. Das Nähere über die Ermittlung des
 Arbeitsbedarfs bestimmt die Satzung.
 
-(5) Bei Anwendung eines anderen angemessenen Maßstabs bestimmt die
+(4) Bei Anwendung eines anderen angemessenen Maßstabs bestimmt die
 Satzung das Verfahren.
 
-(5a) Abweichend von Absatz 1 wird bei versicherungspflichtigen
+(5) Abweichend von Absatz 1 wird bei versicherungspflichtigen
 landwirtschaftlichen Unternehmern, die Bürgergeld nach § 19 Absatz 1
 Satz 1 des Zweiten Buches Sozialgesetzbuch beziehen, für die Dauer des
 Bezuges von Bürgergeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches
@@ -1417,12 +1408,11 @@ Beiträge gilt der um den durchschnittlichen Zusatzbeitragssatz erhöhte
 ermäßigte Beitragssatz der gesetzlichen Krankenversicherung.
 
 (6) Macht der Beitragspflichtige trotz Aufforderung der
-landwirtschaftlichen Krankenkasse die für die Festsetzung des
-Wirtschaftswerts oder des Arbeitsbedarfs erforderlichen Angaben nicht,
-nicht vollständig oder nicht rechtzeitig, kann der Beitrag bis zur
-ordnungsgemäßen Meldung nach dem von der Krankenkasse der
-Beitragsbemessung zugrunde gelegten Maßstab geschätzt und festgesetzt
-werden.
+landwirtschaftlichen Krankenkasse die für die Festsetzung des Beitrags
+nach Absatz 1 erforderlichen Angaben nicht, nicht vollständig oder
+nicht rechtzeitig, kann der Beitrag bis zur ordnungsgemäßen Meldung
+nach dem von der Krankenkasse der Beitragsbemessung zugrunde gelegten
+Maßstab geschätzt und festgesetzt werden.
 
 (7) Die Beiträge aus den in § 39 Absatz 1 Nr. 3 und 4 genannten
 Einnahmearten dürfen zusammen mit den nach Absatz 1 zu entrichtenden
@@ -1639,8 +1629,9 @@ der Unternehmer nach § 42 Abs. 1 zu zahlen hat, nicht übersteigen. Die
 landwirtschaftliche Krankenkasse verteilt die Beitragsteile.
 
 (2) Der zuständige Leistungsträger trägt die nach § 40 Abs. 1, § 42
-Abs. 1 oder § 46 während des Bezugs von Übergangsgeld, Verletztengeld
-oder von Krankengeld der Sozialen Entschädigung zu zahlenden Beiträge.
+Abs. 1 oder § 46 während des Bezugs von Übergangsgeld, Verletztengeld,
+Krankengeld der Sozialen Entschädigung oder Krankengeld der
+Soldatenentschädigung zu zahlenden Beiträge.
 
 (3) Versicherungspflichtige, die eine Rente im Sinne von § 228 Absatz
 1 Satz 1 des Fünften Buches Sozialgesetzbuch beziehen, und die Träger
@@ -1651,7 +1642,7 @@ die Rentner allein.
 
 (4) Der Bund trägt die Beiträge für Wehrdienst- und
 Zivildienstleistende im Falle des § 43 Absatz 1 sowie die Beiträge
-nach § 40 Absatz 5a.
+nach § 40 Absatz 5.
 
 (5) Der Arbeitgeber trägt den Beitrag nach § 39 Abs. 4.
 
@@ -2096,18 +2087,4 @@ keinen Kontakt zum Mitglied herstellen konnte, für die Mitgliedschaft
 keine Beiträge geleistet wurden und das Mitglied und
 familienversicherte Angehörige keine Leistungen in Anspruch genommen
 haben.
-
-
-### § 67 Übergangsregelung aus Anlass des Gesetzes zur Regelung des Sozialen Entschädigungsrechts
-
-Für Personen, die Leistungen nach dem Soldatenversorgungsgesetz in der
-Fassung der Bekanntmachung vom 16. September 2009 (BGBl. I S. 3054),
-das zuletzt durch Artikel 19 des Gesetzes vom 4. August 2019 (BGBl. I
-S. 1147) geändert worden ist, in Verbindung mit dem
-Bundesversorgungsgesetz in der Fassung der Bekanntmachung vom 22.
-Januar 1982 (BGBl. I S. 21), das zuletzt durch Artikel 1 der
-Verordnung vom 13. Juni 2019 (BGBl. I S. 793) geändert worden ist,
-erhalten, gelten die Vorschriften des § 3 Absatz 2 Nummer 3, des § 25
-Absatz 1 Nummer 2 und des § 48 Absatz 2 in der am 31. Dezember 2023
-geltenden Fassung weiter.
 

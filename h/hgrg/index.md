@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1969, 1273
 
 Zuletzt geändert durch
-:   Art. 10 G v. 14.8.2017 I 3122
+:   Art. 2 G v. 20.10.2025 I Nr. 247
 
 
 ## Eingangsformel
@@ -191,6 +191,16 @@ werden von Bund und Ländern in dem Gremium nach § 49a Absatz 1
 erarbeitet.
 
 
+#### § 7b Periodengerechte Aufteilung von Zinskosten im Haushalt des Bundes
+
+Im Haushalt des Bundes sind bei Verkauf und Kauf von selbst
+emittierten Wertpapieren die gesamten Zinskosten periodengerecht über
+die Laufzeit des jeweiligen Wertpapiers anteilig jeweils auf die
+Periode von Zahlungstermin zu Zahlungstermin aufzuteilen. Der Saldo
+aus Zinsausgaben und Krediteinnahme muss stets der Kassenwirkung der
+Zahlungen entsprechen.
+
+
 ### Abschnitt II - Aufstellung des Haushaltsplans
 
 
@@ -211,6 +221,10 @@ erarbeitet.
 
 
 
+
+(3) Die Veranschlagung von Einnahmen und Ausgaben aus Verkauf und Kauf
+von selbst emittierten Wertpapieren im Haushaltsplan des Bundes
+erfolgt in periodengerechter Aufteilung entsprechend § 7b.
 
 
 #### § 9 Geltungsdauer der Haushaltspläne
@@ -754,11 +768,16 @@ zuständige Ministerium kann Ausnahmen zulassen.
 
 #### § 33 Buchführung, Belegpflicht
 
-Über Zahlungen ist nach der im Haushaltsplan oder sonst vorgesehenen
-Ordnung in zeitlicher Folge Buch zu führen. Das für die Finanzen
-zuständige Ministerium kann für eingegangene Verpflichtungen,
+(1) Über Zahlungen ist nach der im Haushaltsplan oder sonst
+vorgesehenen Ordnung in zeitlicher Folge Buch zu führen. Das für die
+Finanzen zuständige Ministerium kann für eingegangene Verpflichtungen,
 Geldforderungen und andere Bewirtschaftungsvorgänge die Buchführung
 anordnen. Alle Buchungen sind zu belegen.
+
+(2) Abweichend von Absatz 1 wird der periodengerechte Anteil der
+Differenz zwischen Nennwert und Verkaufserlös, der bei Verkauf und
+Kauf von selbst emittierten Wertpapieren entsteht, ohne Zahlung im
+Bundeshaushalt gebucht.
 
 
 #### § 33a (weggefallen)
@@ -1199,6 +1218,11 @@ Standards für doppische Haushalte, Produkthaushalte und kamerale
 Haushalte anschließend einmal jährlich. Näheres regelt eine
 Verwaltungsvereinbarung zwischen Bund und Ländern.
 
+(1a) Im Zusammenhang mit der Kreditaufnahme ist es im Haushalt des
+Bundes abweichend vom Grundsatz der Einheitlichkeit zulässig, bei
+Verkauf und Kauf von selbst emittierten Wertpapieren entsprechend § 7b
+zu verfahren.
+
 (2) Zur Gewährleistung der Vergleichbarkeit der Haushaltswirtschaft
 bei Bund und Ländern kann die Bundesregierung durch Rechtsverordnung,
 die der Zustimmung des Bundesrates bedarf, nähere Bestimmungen
@@ -1259,36 +1283,20 @@ Planungsjahren zu sichern.
 
 ### § 51 Koordinierende Beratung der Grundannahmen der Haushalts- und Finanzplanungen; Einhaltung der Haushaltsdisziplin im Rahmen der Europäischen Wirtschafts- und Währungsunion
 
-(1) Zur Koordinierung der Haushalts- und Finanzplanungen des Bundes,
-der Länder und der Gemeinden und Gemeindeverbände berät der
-Stabilitätsrat über die zugrunde liegenden volks- und
-finanzwirtschaftlichen Annahmen. Dabei ist den Verpflichtungen der
-Bundesrepublik Deutschland aus Rechtsakten der Europäischen Union auf
-Grund der Artikel 121, 126 und 136 des Vertrags über die Arbeitsweise
-der Europäischen Union zur Einhaltung der Haushaltsdisziplin und in
-diesem Rahmen den Erfordernissen des gesamtwirtschaftlichen
-Gleichgewichts Rechnung zu tragen. Der Stabilitätsrat kann zur
-Koordinierung der Haushalts- und Finanzplanungen Empfehlungen
-beschließen. Die voraussichtlichen Einnahmen und Ausgaben der in § 52
-genannten Einrichtungen sollen in die Beratungen und Empfehlungen
-einbezogen werden, soweit sie nicht schon in den Finanzplanungen des
-Bundes, der Länder und der Gemeinden und Gemeindeverbände enthalten
-sind.
-
-(2) Das strukturelle gesamtstaatliche Finanzierungsdefizit von Bund,
-Ländern, Gemeinden und Sozialversicherungen darf eine Obergrenze von
-0,5 Prozent des nominalen Bruttoinlandsprodukts nicht überschreiten.
-Für Einzelheiten zu Abgrenzung, Berechnung und zulässigen Abweichungen
-von der Obergrenze sowie zum Umfang und Zeitrahmen der Rückführung des
-strukturellen gesamtstaatlichen Finanzierungsdefizits im Falle einer
-Abweichung sind Artikel 3 des Vertrages vom 2. März 2012 über
-Stabilität, Koordinierung und Steuerung in der Wirtschafts- und
-Währungsunion (BGBl. 2012 II S. 1006, 1008) und die Verordnung (EG)
-Nr. 1466/97 des Rates vom 7. Juli 1997 über den Ausbau der
-haushaltspolitischen Überwachung und der Überwachung und Koordinierung
-der Wirtschaftspolitiken (ABl. L 209 vom 2.8.1997, S. 1), die zuletzt
-durch die Verordnung (EU) Nr. 1175/2011 (ABl. L 306 vom 23.11.2011, S.
-12) geändert worden ist, maßgeblich.
+Zur Koordinierung der Haushalts- und Finanzplanungen des Bundes, der
+Länder und der Gemeinden und Gemeindeverbände berät der Stabilitätsrat
+über die zugrunde liegenden volks- und finanzwirtschaftlichen
+Annahmen. Dabei ist den Verpflichtungen der Bundesrepublik Deutschland
+aus Rechtsakten der Europäischen Union auf Grund der Artikel 121, 126
+und 136 des Vertrags über die Arbeitsweise der Europäischen Union zur
+Einhaltung der Haushaltsdisziplin und in diesem Rahmen den
+Erfordernissen des gesamtwirtschaftlichen Gleichgewichts Rechnung zu
+tragen. Der Stabilitätsrat kann zur Koordinierung der Haushalts- und
+Finanzplanungen Empfehlungen beschließen. Die voraussichtlichen
+Einnahmen und Ausgaben der in § 52 genannten Einrichtungen sollen in
+die Beratungen und Empfehlungen einbezogen werden, soweit sie nicht
+schon in den Finanzplanungen des Bundes, der Länder und der Gemeinden
+und Gemeindeverbände enthalten sind.
 
 
 ### § 51a (weggefallen)

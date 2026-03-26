@@ -20,7 +20,7 @@ Neugefasst durch
 :   Bek. v. 11.3.2019 I 229;
 
 Zuletzt geändert durch
-:   Art. 2 V v. 28.6.2023 I Nr. 174
+:   Art. 3 V v. 19.6.2025 I Nr. 147
 
 
 ## § 1 Geltungsbereich
@@ -28,9 +28,9 @@ Zuletzt geändert durch
 (1) Diese Verordnung enthält allgemeine Ausnahmen von
 
 1.  der Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt in der
-    Fassung der Bekanntmachung vom 26. März 2021 (BGBl. I S. 481), die
-    zuletzt durch Artikel 1 der Verordnung vom 28. Juni 2023 (BGBl. 2023 I
-    Nr. 174) geändert worden ist und
+    Fassung der Bekanntmachung vom 18. August 2023 (BGBl. 2023 I Nr. 227),
+    die zuletzt durch Artikel 2 der Verordnung vom 19. Juni 2025 (BGBl.
+    2025 I Nr. 147) geändert worden ist, und
 
 
 2.  der Gefahrgutverordnung See in der Fassung der Bekanntmachung vom 7.
@@ -415,8 +415,7 @@ In dieser Anlage bedeuten:
 
 *    *   Ausnahme 33 (M)
 
-    *   Beförderung gefährlicher Güter auf Fährschiffen, die Küstenschifffahrt
-        betreiben
+    *   Beförderung gefährlicher Güter auf Fährschiffen
 
 
 *    *   Ausnahme 34 (M)
@@ -820,10 +819,11 @@ In dieser Anlage bedeuten:
     Bezeichnung der Stoffe (UN-Nummer und Benennung) ist nach Kapitel 3.2
     Tabelle A ADR/RID von den nach der GGVSEB für die Prüfung oder
     Zulassung von Tanks zuständigen Stellen zu ermitteln und in den
-    Bescheinigungen nach Unterabschnitt 6.9.5.3 ADR/RID sowie in der ADR-
-    Zulassungsbescheinigung nach Unterabschnitt 9.1.3.1 ADR und bei
-    Tankcontainern zusätzlich auf dem Tankcontainer (auf dem Tank selbst
-    oder auf einer Tafel) nach Absatz 6.8.2.5.2 ADR/RID anzugeben.
+    Bescheinigungen nach Unterabschnitt 6.9.5.3 gemäß den bis zum 31.
+    Dezember 2022 geltenden Vorschriften des Kapitels 6.9 ADR/RID sowie in
+    der ADR-Zulassungsbescheinigung nach Unterabschnitt 9.1.3.1 ADR und
+    bei Tankcontainern zusätzlich auf dem Tankcontainer (auf dem Tank
+    selbst oder auf einer Tafel) nach Absatz 6.8.2.5.2 ADR/RID anzugeben.
 
 
 **2** **Angaben im Beförderungspapier**
@@ -973,8 +973,8 @@ In dieser Anlage bedeuten:
 ## **Beförderung verpackter gefährlicher Abfälle**
 
 
-**1** Abweichend von § 1 Absatz 3 Nummer 1 bis 3 sowie den §§ 18, 21 und 22
-    der GGVSEB in Verbindung mit den Teilen 1 bis 5 ADR/RID/ADN dürfen
+**1** Abweichend von § 1 Absatz 3 Nummer 1 bis 3 sowie den §§ 17, 18, 21 und
+    22 der GGVSEB in Verbindung mit den Teilen 1 bis 5 ADR/RID/ADN dürfen
     Abfälle, die nach den unter Nummer 2 aufgeführten Bestimmungen nach
     den Abfallgruppen 1 bis 15 klassifiziert, verpackt, gekennzeichnet und
     bezettelt sind, unter Einhaltung der Bestimmungen nach den Nummern 3
@@ -1002,10 +1002,6 @@ In dieser Anlage bedeuten:
     2\.1.3.10 ADR/RID/ADN zutreffenden Gefahrzettel und, soweit vorhanden,
     die Verpackungsgruppe des höchsten Gefahrengrades, gekennzeichnet
     durch I, II oder III, anzugeben.
-
-    Für die Abfallgruppe 1 sind im Beförderungspapier alle zutreffenden
-    Gefahrzettel der Sendung anzugeben. Die Angabe der Verpackungsgruppe
-    ist nicht erforderlich.
 
     Die Gefahrzettel sind entsprechend den Untergruppen der jeweiligen
     Abfallgruppe anzubringen.
@@ -2159,9 +2155,9 @@ In dieser Anlage bedeuten:
 2.5 Sonstige Vorschriften
 
     Die Abfälle dürfen bei Sammlungen nur in kleinen Anlieferungsgefäßen
-    bis zu 60 Liter Fassungsraum oder 60 Kilogramm Masse unter Aufsicht
-    einer fachkundigen Person in die Verpackungen und Großpackmittel (IBC)
-    eingegeben werden.
+    bis zu 60 Liter Fassungsraum und 60 Kilogramm Bruttomasse unter
+    Aufsicht einer fachkundigen Person in die Verpackungen und
+    Großpackmittel (IBC) eingegeben werden.
 
     Die Abfälle sind in die folgenden Verpackungen zu verpacken, die für
     feste Stoffe der Verpackungsgruppe I bauartzugelassen sind:
@@ -2687,6 +2683,10 @@ In dieser Anlage bedeuten:
     verzichtet werden. Unter Nummer 11 ist anzugeben: „Ausnahme 24“.
 
 
+3.11 Die ADR-Zulassungsbescheinigung nach Unterabschnitt 9.1.3.1 ADR ist
+    für jedes Fahrzeug während der Beförderung mitzuführen.
+
+
 **4** **Sonstige Vorschriften**
 
     Die übrigen Vorschriften des ADR finden keine Anwendung.
@@ -3058,7 +3058,7 @@ gefährlichen Gütern**
 Verantwortung der Bundeswehr**
 
 
-**1**[^f806001_02_BJNR435000002BJNE000711123]
+**1**[^f806001_02_BJNR435000002BJNE000713123]
  Abweichend von § 1 Absatz 3 Nummer 1 in Verbindung mit § 5 Absatz 6
     der GGVSEB dürfen folgende Allgemeine Ausnahmegenehmigungen der
     Bundeswehr zur Gefahrgutverordnung Straße, Eisenbahn und
@@ -3163,17 +3163,15 @@ Verantwortung der Bundeswehr**
 
 ## Ausnahme 33 (M)
 
-## **Beförderung gefährlicher Güter auf Fährschiffen, die
-Küstenschifffahrt betreiben**
+## **Beförderung gefährlicher Güter auf Fährschiffen**
 
 
 **1** Abweichend von § 3 Absatz 1 der GGVSee dürfen gefährliche Güter auf
-    Fährschiffen, die Küstenschifffahrt im Sinne des § 1 der Verordnung
-    über die Küstenschifffahrt vom 5. Juli 2002 (BGBl. I S. 2555), die
-    zuletzt durch Artikel 176 des Gesetzes vom 29. März 2017 (BGBl. I S.
-    626) geändert worden ist, betreiben, sowie auf der Fährstrecke
-    Eemshaven/Borkum befördert werden, wenn die nachfolgenden Bestimmungen
-    beachtet werden.
+    Fährschiffen, die Fahrgäste oder Güter an einem Ort im Gebiet der
+    Bundesrepublik Deutschland an Bord nehmen und sie gegen Entgelt an
+    einen Bestimmungsort in diesem Gebiet befördern, sowie auf der
+    Fährstrecke Eemshaven/Borkum befördert werden, wenn die nachfolgenden
+    Bestimmungen beachtet werden.
 
 
 **2** **Anwendungsbereich**
@@ -3433,9 +3431,9 @@ unter Einhaltung der nachfolgenden Bestimmungen befördert werden:
 
     Bei Einstufung nach Nummer 4.2, 4.5 oder 4.6 ist der Stoff der Klasse
     3, 8 oder 9 zusätzlich anzugeben.
-[^f806001_01_BJNR435000002BJNE000711123]:     Die Allgemeinen Ausnahmegenehmigungen können auch beim Bundesamt für
+[^f806001_01_BJNR435000002BJNE000713123]:     Die Allgemeinen Ausnahmegenehmigungen können auch beim Bundesamt für
     Infrastruktur, Umweltschutz und Dienstleistungen der Bundeswehr,
     Abteilung gesetzliche Schutzaufgaben, Referat Grundsatz Gefahrgutwesen
     (BAUIDBw GS III 1), Fontainengraben 200, Postfach 29 63, 53123 Bonn,
     angefordert werden.
-[^f806001_02_BJNR435000002BJNE000711123]: 
+[^f806001_02_BJNR435000002BJNE000713123]: 

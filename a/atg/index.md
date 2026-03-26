@@ -20,10 +20,7 @@ Neugefasst durch
 :   Bek. v. 15.7.1985 I 1565;
 
 Zuletzt geändert durch
-:   Art. 1 G v. 4.12.2022 I 2153
-
-Änderung durch
-:   Bek. v. 3.1.2022 I 14 ist berücksichtigt
+:   Art. 16 G v. 2.12.2025 I Nr. 301
 
 
 ## Erster Abschnitt - Allgemeine Vorschriften
@@ -797,10 +794,9 @@ Elektrizität und von Anlagen zur Aufarbeitung bestrahlter
 Kernbrennstoffe werden keine Genehmigungen erteilt. Dies gilt nicht
 für wesentliche Veränderungen von Anlagen oder ihres Betriebs.
 
-(1a)
-Die Berechtigung zum Leistungsbetrieb einer Anlage zur Spaltung von
-Kernbrennstoffen zur gewerblichen Erzeugung von Elektrizität erlischt,
-wenn die in Anlage 3 Spalte 2 für die Anlage aufgeführte
+(1a) Die Berechtigung zum Leistungsbetrieb einer Anlage zur Spaltung
+von Kernbrennstoffen zur gewerblichen Erzeugung von Elektrizität
+erlischt, wenn die in Anlage 3 Spalte 2 für die Anlage aufgeführte
 Elektrizitätsmenge oder die sich auf Grund von Übertragungen nach
 Absatz 1b ergebende Elektrizitätsmenge erzeugt ist, jedoch spätestens
 
@@ -3797,17 +3793,16 @@ ihrer informationstechnischen Systeme, Komponenten oder Prozesse, die
 zu einer Gefährdung oder Störung der nuklearen Sicherheit der
 betroffenen kerntechnischen Anlage oder Tätigkeit führen können oder
 bereits geführt haben, unverzüglich an das Bundesamt für Sicherheit in
-der Informationstechnik als zentrale Meldestelle zu melden. § 8b
-Absatz 1, 2 Nummer 1 bis 3, Nummer 4 Buchstabe a bis c und Absatz 7
-des BSI-Gesetzes sind entsprechend anzuwenden. Die Meldung muss
-Angaben zu der Störung sowie zu den technischen Rahmenbedingungen,
-insbesondere der vermuteten oder tatsächlichen Ursache, und der
-betroffenen Informationstechnik enthalten. Das Bundesamt für
-Sicherheit in der Informationstechnik leitet diese Meldungen
-unverzüglich an die für die nukleare Sicherheit und Sicherung
-zuständigen Genehmigungs- und Aufsichtsbehörden des Bundes und der
-Länder und an die von diesen bestimmten Sachverständigen nach § 20
-weiter.
+der Informationstechnik als zentrale Meldestelle zu melden. § 40
+Absatz 1, 3 Nummer 1, 2, 3, 4 Buchstabe a, d und Absatz 6 des BSI-
+Gesetzes sind entsprechend anzuwenden. Die Meldung muss Angaben zu der
+Störung sowie zu den technischen Rahmenbedingungen, insbesondere der
+vermuteten oder tatsächlichen Ursache, und der betroffenen
+Informationstechnik enthalten. Das Bundesamt für Sicherheit in der
+Informationstechnik leitet diese Meldungen unverzüglich an die für die
+nukleare Sicherheit und Sicherung zuständigen Genehmigungs- und
+Aufsichtsbehörden des Bundes und der Länder und an die von diesen
+bestimmten Sachverständigen nach § 20 weiter.
 
 
 ## Sechster Abschnitt - Bußgeldvorschriften

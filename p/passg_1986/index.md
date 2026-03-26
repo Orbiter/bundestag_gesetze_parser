@@ -18,8 +18,8 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 30.10.2023 I Nr. 291
 
-Änderung durch
-:   Art. 3 Abs. 1 G v. 22.3.2024 I Nr. 104 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch
+:   Art. 3 G v. 27.10.2025 I Nr. 256
 
 
 ## Erster Abschnitt - Passvorschriften
@@ -165,36 +165,45 @@ Gültigkeitsdauer ausschließlich folgende Angaben über seine Person:
 
 
 Die Angabe des Geschlechts richtet sich nach der Eintragung im
-Melderegister. Ist dort das Geschlecht nicht mit weiblich oder
-männlich angegeben, wird im Pass das Geschlecht mit „X“ bezeichnet.
-Abweichend von den Sätzen 3 und 4 ist einem Passbewerber, dessen
-Vornamen auf Grund gerichtlicher Entscheidung gemäß § 1 des
-Transsexuellengesetzes geändert wurden, auf Antrag ein Pass mit der
-Angabe des anderen, von dem Geburtseintrag abweichenden Geschlechts
-auszustellen. Passbewerbern, deren Angabe zum Geschlecht nach § 45b
-des Personenstandsgesetzes geändert wurde, kann auf Antrag abweichend
-von den Sätzen 3 und 4 auch ein Pass mit der Angabe des vorherigen
-Geschlechts ausgestellt werden, wenn die vorherige Angabe männlich
-oder weiblich war.
+Melderegister. Ist dort das Geschlecht nicht mit „weiblich“ oder
+„männlich“ angegeben, wird im Pass das Geschlecht mit „X“ bezeichnet.
+Auf Antrag ist in den Fällen des Satzes 4 ein Pass mit der Angabe
+„männlich“ oder „weiblich“ auszustellen, wenn durch Vorlage einer
+ärztlichen Bescheinigung nachgewiesen wird, dass eine Variante der
+Geschlechtsentwicklung vorliegt. Die Nachweispflicht gilt nicht, wenn
+der Passbewerber
+
+1.  über keine ärztliche Bescheinigung einer erfolgten medizinischen
+    Behandlung verfügt und das Vorliegen der Variante der
+    Geschlechtsentwicklung wegen der Behandlung nicht mehr oder nur durch
+    eine unzumutbare Untersuchung nachgewiesen werden kann und
+
+
+2.  das Vorliegen der Voraussetzungen von Nummer 1 an Eides statt
+    versichert.
+
+
+
+Das nach Satz 5 einzutragende Geschlecht richtet sich nach der letzten
+Angabe des Geschlechts im Melderegister, welches auf „männlich“ oder
+„weiblich“ lautete. Bestand eine solche Angabe zu keinem Zeitpunkt, so
+kann der Passbewerber einmalig das im Pass einzutragende Geschlecht
+wählen; bis zur Eintragung eines Geschlechts im Melderegister im Sinne
+von Satz 7 bleibt das gewählte Geschlecht für die Ausstellung
+künftiger Pässe maßgeblich.
 
 (2) Der Pass enthält eine Zone für das automatische Lesen. Diese darf
 lediglich enthalten:
 
 1.  Folgende Abkürzungen:
 
-    a)  "P" für Reisepass,
+    a)  „PP“ für Reisepass und vorläufigen Reisepass,
 
 
-    b)  "PC" für Kinderreisepass,
+    b)  „PO“ für Dienstpass und vorläufigen Dienstpass und
 
 
-    c)  "PP" für vorläufigen Reisepass,
-
-
-    d)  "PO" für Dienstpass und vorläufigen Dienstpass und
-
-
-    e)  "PD" für Diplomatenpass und vorläufigen Diplomatenpass,
+    c)  „PD“ für Diplomatenpass und vorläufigen Diplomatenpass,
 
 
 
@@ -305,11 +314,7 @@ vorläufige Diplomatenpass sind höchstens ein Jahr gültig.
 (4) Eine Verlängerung der Gültigkeitsdauer des Passes ist nicht
 zulässig.
 
-(5) Die Gültigkeitsdauer eines Passes darf in den Fällen des § 29 des
-Staatsangehörigkeitsgesetzes den Zeitpunkt der Vollendung des 23.
-Lebensjahres des Inhabers so lange nicht überschreiten, bis die
-zuständige Behörde den Fortbestand der deutschen Staatsangehörigkeit
-festgestellt hat.
+(5) (weggefallen)
 
 (6) § 7 Absatz 2 bleibt unberührt.
 
@@ -337,21 +342,27 @@ werden.
 der Person des Passbewerbers und seiner Eigenschaft als Deutscher
 oder, in den Fällen des § 1 Absatz 4 Satz 2, seiner Eigenschaft als
 Angehöriger eines anderen Staates notwendig sind. Der Passbewerber hat
-die entsprechenden Nachweise zu erbringen. Soweit in den Pass
-Fingerabdrücke aufzunehmen sind, sind diese dem Passbewerber
-abzunehmen und nach Maßgabe des § 4 Absatz 4 elektronisch zu erfassen;
-der Passbewerber hat bei der Abnahme der Fingerabdrücke mitzuwirken.
+die entsprechenden Nachweise zu erbringen. Das Lichtbild ist nach Wahl
+der antragstellenden Person
 
-(2a) Beantragt ein Passbewerber nach § 4 Absatz 1 Satz 4 die
-Eintragung des von seinem Geburtseintrag abweichenden Geschlechts, hat
-er den Beschluss des Gerichts über die Vornamensänderung nach § 1 des
-Transsexuellengesetzes vorzulegen. Beantragt ein Passbewerber nach § 4
-Absatz 1 Satz 6 die Eintragung eines von seinem Personenstandseintrag
-abweichenden Geschlechts, hat er die von dem Standesbeamten
-beurkundete Erklärung nach § 45b des Personenstandsgesetzes
-vorzulegen. Eintragungen des Geschlechts im Pass, die nach den Sätzen
-1 und 2 von Eintragungen im Personenstandsregister abweichen, kommt
-keine weitere Rechtswirkung zu.
+1.  durch einen Dienstleister elektronisch zu fertigen und im Anschluss
+    von diesem durch ein sicheres Verfahren an die Passbehörde zu
+    übermitteln oder
+
+
+2.  durch die Passbehörde elektronisch zu fertigen, sofern die Behörde
+    über Geräte zur Lichtbildaufnahme verfügt.
+
+
+
+Eine Veränderung des Lichtbilds ist nur nach Maßgabe dieses Gesetzes
+oder nach Maßgabe von Vorschriften, die auf Grund dieses Gesetzes
+erlassen wurden, zulässig. Soweit in den Pass Fingerabdrücke
+aufzunehmen sind, sind diese dem Passbewerber abzunehmen und nach
+Maßgabe des § 4 Absatz 4 elektronisch zu erfassen; der Passbewerber
+hat bei der Abnahme der Fingerabdrücke mitzuwirken.
+
+(2a) (weggefallen)
 
 (2b) In den Fällen des § 1 Absatz 4 Satz 2 darf die zuständige
 Passbehörde vor Ausstellung eines amtlichen Passes zur Feststellung
@@ -372,7 +383,11 @@ Behörden teilen der anfragenden Passbehörde unverzüglich mit, ob
 Passversagungsgründe nach § 7 Absatz 1 Nummer 1 bis 5 oder sonstige
 Sicherheitsbedenken vorliegen.
 
-(3) Bestehen Zweifel über die Person des Passbewerbers, sind die zur
+(3) Bestehen Zweifel über die Identität der im Lichtbild abgebildeten
+Person oder besteht ein Verdacht auf eine unzulässige Bearbeitung des
+Lichtbilds, kann die Passbehörde anordnen, dass das Lichtbild in
+Gegenwart eines Mitarbeiters in einer Passbehörde zu fertigen ist.
+Bestehen Zweifel über die Person des Passbewerbers, sind die zur
 Feststellung seiner Identität erforderlichen Maßnahmen zu treffen. Die
 Passbehörde kann die Durchführung erkennungsdienstlicher Maßnahmen
 veranlassen, wenn die Identität des Passbewerbers auf andere Weise
@@ -405,13 +420,14 @@ Stelle gewährleisten; im Fall der Nutzung allgemein zugänglicher Netze
 sind dem jeweiligen Stand der Technik entsprechende
 Verschlüsselungsverfahren anzuwenden.
 
-(2) Zur elektronischen Erfassung des Lichtbildes und der
-Fingerabdrücke, deren Qualitätssicherung sowie zur Übermittlung der
-Passantragsdaten von der Passbehörde an den Passhersteller dürfen
-ausschließlich solche technischen Systeme und Bestandteile eingesetzt
-werden, die den Anforderungen der Rechtsverordnung nach Absatz 3
-entsprechen. Die Einhaltung der Anforderungen ist vom Bundesamt für
-Sicherheit in der Informationstechnik festzustellen.
+(2) Zur Aufnahme und elektronischen Erfassung des Lichtbilds nach § 6
+Absatz 2 Satz 3 Nummer 2 und der Fingerabdrücke, deren
+Qualitätssicherung sowie zur Übermittlung der Passantragsdaten von der
+Passbehörde an den Passhersteller dürfen ausschließlich solche
+technischen Systeme und Bestandteile eingesetzt werden, die den
+Anforderungen der Rechtsverordnung nach Absatz 3 entsprechen. Die
+Einhaltung der Anforderungen ist vom Bundesamt für Sicherheit in der
+Informationstechnik festzustellen.
 
 (3) Das Bundesministerium des Innern und für Heimat wird ermächtigt,
 durch Rechtsverordnung, die der Zustimmung des Bundesrates bedarf,
@@ -699,13 +715,16 @@ unverzüglich
 3.  den Verlust des Passes und sein Wiederauffinden anzuzeigen;
 
 
-4.  den Erwerb einer ausländischen Staatsangehörigkeit anzuzeigen und
-
-
-5.  anzuzeigen, wenn er auf Grund freiwilliger Verpflichtung in die
+4.  anzuzeigen, wenn er auf Grund freiwilliger Verpflichtung in die
     Streitkräfte oder einen vergleichbaren bewaffneten Verband eines
     ausländischen Staates, dessen Staatsangehörigkeit er besitzt,
-    eingetreten ist.
+    eingetreten ist und
+
+
+5.  im Falle der Ausgabe des Passes im Wege des Versands anzuzeigen, wenn
+    die Sendung unbefugt geöffnet worden ist oder den Pass nicht enthält
+    oder wenn der Pass beschädigt ist oder eine Angabe auf dem Pass
+    unrichtig ist.
 
 
 
@@ -922,7 +941,10 @@ Dienststellen.
 
 (2) Für Passangelegenheiten im Ausland ist das Auswärtige Amt mit den
 von ihm bestimmten Auslandsvertretungen der Bundesrepublik Deutschland
-zuständig (Passbehörde).
+zuständig (Passbehörde). Passangelegenheit im Sinne des Satzes 1 ist
+auch die Durchführung des Verfahrens nach Maßgabe von Artikel 4 der
+Richtlinie (EU) 2019/997 in der Fassung vom 6. Mai 2024 als
+Mitgliedstaat, dessen Staatsangehörigkeit der Antragsteller besitzt.
 
 (3) Im Geltungsbereich dieses Gesetzes ist die Passbehörde örtlich
 zuständig, in deren Bezirk der Passbewerber oder der Inhaber eines
@@ -1020,7 +1042,13 @@ ausschließlich folgende Daten enthalten:
 8.  gegenwärtige Anschrift,
 
 
+8a. E-Mail-Adresse, sofern der Passinhaber in die Speicherung einwilligt,
+
+
 9.  Staatsangehörigkeit,
+
+
+9a. Identifikationsnummer nach dem Identifikationsnummerngesetz,
 
 
 10. Seriennummer,
@@ -1046,8 +1074,7 @@ ausschließlich folgende Daten enthalten:
 15. Vermerke über Anordnungen nach den §§ 7, 8 und 10,
 
 
-16. Angaben zur Erklärungspflicht des Ausweisinhabers nach § 29 des
-    Staatsangehörigkeitsgesetzes.
+16. lichtbildaufnehmende Stelle.
 
 
 
@@ -1071,7 +1098,16 @@ Ausstellung eines neuen Passes, höchstens jedoch bis zu fünf Jahren
 nach dem Ablauf der Gültigkeit des Passes, auf den sie sich beziehen,
 zu speichern und dann zu löschen. Für die Passbehörden nach § 19
 Absatz 2 bei der Wahrnehmung konsularischer Aufgaben beträgt die Frist
-30 Jahre.
+30 Jahre. Die zu den in Artikel 15 Absatz 1 Satz 1 der Richtlinie (EU)
+2019/997 genannten Zwecken verarbeiteten, personenbezogenen Daten der
+Person, die bei einem anderen Mitgliedstaat der Europäischen Union
+einen EU-Rückkehrausweis im Sinne des Artikels 3 Absatz 1 Satz 1 der
+Richtlinie (EU) 2019/997 in der Fassung vom 6. Mai 2024 beantragt hat,
+sind von der nach § 19 Absatz 2 Satz 1 zuständigen Passbehörde nur so
+lange wie erforderlich, höchstens aber für zwei Jahre, im Passregister
+zu speichern. Die Daten sind im Anschluss zu löschen. Die Speicherung
+nach Satz 3 ist unzulässig, wenn die Person nicht die Voraussetzung
+des § 1 Absatz 4 Satz 1 erster Halbsatz erfüllt.
 
 (5) Die zuständige Passbehörde führt den Nachweis über Pässe, für die
 sie eine Ermächtigung gemäß § 19 Absatz 4 Satz 2 erteilt hat.
@@ -1218,6 +1254,27 @@ abrufenden Behörde protokolliert. Die Aufzeichnungen enthalten:
 
 § 22 Absatz 3 Satz 5 gilt entsprechend.
 
+(3) Bei der Einrichtung eines automatisierten Abrufverfahrens hat die
+abrufberechtigte Stelle durch geeignete technische und
+organisatorische Maßnahmen nach den Artikeln 24, 25 und 32 der
+Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom
+27\. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung
+personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der
+Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom
+4\.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S.
+2; L 74 vom 4.3.2021, S. 35), nach § 64 des Bundesdatenschutzgesetzes
+und nach den entsprechenden landesgesetzlichen Regelungen
+sicherzustellen, dass Daten nur von hierzu befugten Personen abgerufen
+werden können.
+
+(4) Die für einen zentralen Passregisterdatenbestand zuständige Stelle
+oder die Passbehörde trifft Maßnahmen nach den Artikeln 24, 25 und 32
+der Verordnung (EU) 2016/679, insbesondere durch den Einsatz von
+Verschlüsselungstechnik und Authentifizierungsverfahren, um den
+Datenschutz und die Datensicherheit zu gewährleisten. Bei Zweifeln an
+der Identität der abrufenden Stelle unterbleibt der automatisierte
+Abruf.
+
 
 ### § 23 Weisungsbefugnis
 
@@ -1275,7 +1332,7 @@ Nummer 1 bezeichneten Handlungen begeht.
     über eine Auslandsgrenze entzieht,
 
 
-4.  entgegen § 15 Nummer 3, 4 oder 5 eine Anzeige nicht oder nicht
+4.  entgegen § 15 Nummer 3 oder 4 eine Anzeige nicht oder nicht
     rechtzeitig erstattet oder
 
 

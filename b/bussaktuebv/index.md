@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2020, 765
 
+Geändert durch
+:   Art. 41 G v. 12.7.2024 I Nr. 234
+
 
 ## Eingangsformel
 
@@ -137,11 +140,17 @@ sind bis zum 31. Dezember 2025 weiterhin zulässig.
 
 ## § 5 Ersatzmaßnahmen
 
-Ist aus technischen Gründen eine Übermittlung nach § 4 vorübergehend
-nicht möglich, so ist die Übermittlung der Akte auch auf andere Weise,
-etwa in Papierform oder auf einem physischen Datenträger nach § 6
-Absatz 1 Nummer 2, zulässig. Auf Anforderung ist die elektronische
-Akte nachzureichen.
+(1) Ist aus technischen Gründen eine Übermittlung nach § 4
+vorübergehend nicht möglich, so ist die Übermittlung der Akte auch auf
+andere Weise, etwa in Papierform oder auf einem physischen Datenträger
+nach § 6 Absatz 1 Nummer 2, zulässig. Auf Anforderung ist die
+elektronische Akte nachzureichen.
+
+(2) Können die nach § 5 Absatz 1 Nummer 3 der Elektronischer-
+Rechtsverkehr-Verordnung bekanntgemachten Höchstgrenzen für die Anzahl
+oder das Volumen elektronischer Dokumente nicht eingehalten werden, so
+ist die Übermittlung der Akte auch auf einem physischen Datenträger
+nach § 6 Absatz 1 Nummer 2 zulässig.
 
 
 ## § 6 Bekanntmachung technischer Anforderungen
@@ -155,7 +164,7 @@ Internetseite www.justiz.de bekannt:
     werden sollen;
 
 
-2.  die nach § 5 Satz 1 zulässigen physischen Datenträger.
+2.  die nach § 5 zulässigen physischen Datenträger.
 
 
 

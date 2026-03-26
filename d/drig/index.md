@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 19.4.1972 I 713;
 
 Zuletzt geändert durch
-:   Art. 2 G v. 20.12.2023 I Nr. 389
+:   Art. 9 G v. 22.10.2024 I Nr. 320
 
 
 ## Teil 1 - Richteramt in Bund und Ländern
@@ -2375,12 +2375,21 @@ Vorbereitungsdienst zugelassen, wenn ihre Kenntnisse und Fähigkeiten
 den durch die bestandene staatliche Pflichtfachprüfung nach § 5 Absatz
 1 bescheinigten Kenntnissen und Fähigkeiten entsprechen.
 
-(2) Die Prüfung der nach Absatz 1 erforderlichen Kenntnisse und
-Fähigkeiten erstreckt sich auf das Universitätsdiplom und die
-vorgelegten Nachweise, insbesondere Diplome, Prüfungszeugnisse,
-sonstige Befähigungsnachweise und Nachweise über einschlägige
-Berufserfahrung. Ergibt die Prüfung keine oder nur eine teilweise
-Gleichwertigkeit, wird auf Antrag eine Eignungsprüfung durchgeführt.
+(1a) Absatz 1 gilt entsprechend für Staatsangehörige eines
+Mitgliedstaates der Europäischen Union, eines anderen Vertragsstaates
+des Europäischen Wirtschaftsraums oder der Schweiz, die vor dem 1.
+Januar 2021 im Vereinigten Königreich ein rechtswissenschaftliches
+Diplom erworben haben, das dort den Zugang zur postuniversitären
+Ausbildung für die Berufe „Advocate“, „Barrister“ oder „Solicitor“
+eröffnet.
+
+(2) Die Prüfung der nach Absatz 1 oder Absatz 1a erforderlichen
+Kenntnisse und Fähigkeiten erstreckt sich auf das Universitätsdiplom
+und die vorgelegten Nachweise, insbesondere Diplome,
+Prüfungszeugnisse, sonstige Befähigungsnachweise und Nachweise über
+einschlägige Berufserfahrung. Ergibt die Prüfung keine oder nur eine
+teilweise Gleichwertigkeit, wird auf Antrag eine Eignungsprüfung
+durchgeführt.
 
 (3) Die Eignungsprüfung ist eine in deutscher Sprache abzulegende
 staatliche Prüfung, die die notwendigen Kenntnisse im deutschen Recht
@@ -2416,8 +2425,9 @@ Gebiet als bestanden.
 (5) Eine nicht bestandene Eignungsprüfung kann einmal wiederholt
 werden.
 
-(6) Die Feststellung der Gleichwertigkeit nach Absatz 1 hat die
-Wirkung einer bestandenen ersten Prüfung im Sinne des § 5 Abs. 1.
+(6) Die Feststellung der Gleichwertigkeit nach Absatz 1 oder Absatz 1a
+hat die Wirkung einer bestandenen ersten Prüfung im Sinne des § 5 Abs.
+1\.
 
 (7) Zuständig für die Gleichwertigkeitsprüfung einschließlich der
 Eignungsprüfung sind die Landesjustizverwaltungen oder die sonstigen

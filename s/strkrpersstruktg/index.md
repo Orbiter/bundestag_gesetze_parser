@@ -71,8 +71,8 @@ Soldatengesetzes gelten entsprechend.
 ## § 2
 
 (1) Auf Berufssoldaten, die nach diesem Gesetz in den Ruhestand
-versetzt worden sind, finden auch § 15 Abs. 1 und § 26 Abs. 2 des
-Soldatenversorgungsgesetzes Anwendung, § 26 Abs. 2 Satz 2 des
+versetzt worden sind, finden auch § 27 Absatz 1 und § 40 Absatz 2 des
+Soldatenversorgungsgesetzes Anwendung, § 40 Absatz 2 Satz 2 des
 Soldatenversorgungsgesetzes mit der Maßgabe, daß an die Stelle des
 dreiundfünfzigsten Lebensjahrs das fünfundvierzigste Lebensjahr tritt.
 

@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2017, 3803
 
 Zuletzt geändert durch
-:   Art. 6 G v. 5.10.2021 I 4607
+:   Art. 6 G v. 22.12.2025 I Nr. 349
 
 [^F800934_01_BJNR380300017]:     Notifiziert gemäß der Richtlinie (EU) 2015/1535 des Europäischen
     Parlaments und des Rates vom 9. September 2015 über ein
@@ -113,7 +113,7 @@ Datensätze bleiben unberührt.
 Wenn bildliche Darstellungen im Dateiformat PDF nicht verlustfrei
 wiedergegeben werden können, darf das elektronische Dokument
 zusätzlich im Dateiformat TIFF übermittelt werden. Die Dateiformate
-PDF und TIFF müssen den nach § 5 Absatz 1 Nummer 1 bekanntgemachten
+PDF und TIFF sollen den nach § 5 Absatz 1 Nummer 1 bekanntgemachten
 Versionen entsprechen.
 
 (2) Das elektronische Dokument soll den nach § 5 Absatz 1 Nummer 1 und
@@ -368,12 +368,14 @@ muss
 
 1.  über eine Suchfunktion verfügen, die es ermöglicht, Inhaber eines
     besonderen elektronischen Anwaltspostfachs, eines besonderen
-    elektronischen Notarpostfachs oder eines besonderen elektronischen
+    elektronischen Notarpostfachs, eines besonderen elektronischen
+    Steuerberaterpostfachs oder eines besonderen elektronischen
     Behördenpostfachs aufzufinden,
 
 
 2.  für Inhaber besonderer elektronischer Anwaltspostfächer, besonderer
-    elektronischer Notarpostfächer oder besonderer elektronischer
+    elektronischer Notarpostfächer, besonderer elektronischer
+    Steuerberaterpostfächer oder besonderer elektronischer
     Behördenpostfächer adressierbar sein und
 
 
@@ -457,8 +459,7 @@ Dokuments zu authentisieren durch
     Verordnung (EU) Nr. 910/2014 gespeichert ist, oder
 
 
-3.  ein nichtqualifiziertes Authentisierungszertifikat, das über Dienste
-    validierbar ist, die über das Internet erreichbar sind.
+3.  ein nichtqualifiziertes Authentisierungszertifikat.
 
 
 
@@ -489,8 +490,9 @@ genutzt werden, wenn bei diesem Postfach- und Versanddienst
 
 
 2.  die Identität des Nutzers des Postfach- und Versanddienstes durch ein
-    Identifizierungsmittel nach § 11 Absatz 2 Satz 2 Nummer 1 oder 2
-    festgestellt ist,
+    Identifizierungsmittel nach § 11 Absatz 2 Satz 2 Nummer 1 oder 2 oder
+    durch ein nach § 87a Absatz 6 der Abgabenordnung in der
+    Steuerverwaltung eingesetztes sicheres Verfahren festgestellt ist,
 
 
 3.  der Nutzer des Postfach- und Versanddienstes sich beim Versand eines
@@ -505,6 +507,72 @@ genutzt werden, wenn bei diesem Postfach- und Versanddienst
 
 (2) Der Postfach- und Versanddienst muss barrierefrei sein im Sinne
 der Barrierefreie-Informationstechnik-Verordnung.
+
+(3) Der Nutzer des Postfach- und Versanddienstes ist in ein sicheres
+elektronisches Verzeichnis einzutragen, soweit dies zum Betrieb des
+jeweiligen Postfach- und Versanddienstes erforderlich ist. In diesem
+Fall gilt § 10 Absatz 2 Nummer 1 und 2 entsprechend. Der Nutzer kann
+jederzeit die Löschung des Postfach- und Versanddienstes veranlassen.
+
+
+### § 13a Datenverarbeitung
+
+(1) Zur Auffindbarkeit und Adressierung eines Postfachinhabers dürfen
+folgende personenbezogene Daten im sicheren elektronischen Verzeichnis
+(§ 10 Absatz 1 Nummer 3 und § 13 Absatz 3 Satz 1) gespeichert und aus
+dem Verzeichnis abgerufen werden:
+
+1.  bei einer natürlichen Person:
+
+    a)  Vor- und Nachname,
+
+
+    b)  Anschrift,
+
+
+    c)  Staat,
+
+
+    d)  Nutzer-ID,
+
+
+    e)  Verschlüsselungszertifikat;
+
+
+
+
+
+2.  bei einer juristischen Person:
+
+    a)  Name,
+
+
+    b)  Anschrift des Sitzes,
+
+
+    c)  Staat,
+
+
+    d)  Nutzer-ID,
+
+
+    e)  Verschlüsselungszertifikat.
+
+
+
+
+
+
+
+(2) Für die Verarbeitung personenbezogener Daten im sicheren
+elektronischen Verzeichnis verantwortlich nach Artikel 4 Nummer 7 der
+Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom
+27\. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung
+personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der
+Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom
+4\.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S.
+2; L 74 vom 4.3.2021, S. 35) sind die Stellen, in deren Auftrag das
+sichere elektronische Verzeichnis betrieben wird.
 
 
 ## Kapitel 5 - Elektronischer Rechtsverkehr mit Strafverfolgungsbehörden und Strafgerichten

@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 10 V v. 30.10.2023 I Nr. 290
 
+Änderung durch
+:   Art. 4 V v. 30.1.2026 I Nr. 31 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Eingangsformel
 
@@ -33,11 +36,11 @@ das Bundesministerium des Innern im Benehmen mit dem Auswärtigen Amt:
 (1) Für die Ausstellung eines Personalausweises sind folgende Gebühren
 zu erheben:
 
-1.  22,80 Euro für einen Personalausweis, dessen Inhaber im Zeitpunkt der
-    Antragstellung noch nicht 24 Jahre alt ist,
+1.  27,60 Euro Euro für einen Personalausweis, dessen Inhaber im Zeitpunkt
+    der Antragstellung noch nicht 24 Jahre alt ist,
 
 
-2.  37 Euro in allen anderen Fällen.
+2.  46 Euro in allen anderen Fällen.
 
 
 
@@ -58,41 +61,48 @@ antragstellenden Person
 
 
 
-Die Gebühr nach Absatz 1 ist um 30 Euro anzuheben, wenn die
-Amtshandlung von einer nicht zuständigen Behörde auf Veranlassung
-einer Person, die ihren gewöhnlichen Aufenthaltsort im Ausland hat,
-vorgenommen wird.
 
-(4) Die Gebühr nach Absatz 1 ist ferner um 30 Euro anzuheben, wenn die
-Amtshandlung von einer konsularischen oder diplomatischen Vertretung
-der Bundesrepublik Deutschland im Ausland vorgenommen wird.
+(4) Die Gebühr nach Absatz 1 ist anzuheben
+
+1.  um 30 Euro, wenn die Amtshandlung von einer nicht zuständigen Behörde
+    auf Veranlassung einer Person, die ihren gewöhnlichen Aufenthaltsort
+    im Ausland hat, vorgenommen wird,
+
+
+2.  um 43 Euro, wenn die Amtshandlung von einer konsularischen oder
+    diplomatischen Vertretung der Bundesrepublik Deutschland im Ausland
+    vorgenommen wird,
+
+
+3.  um 15 Euro, wenn eine Übergabe nach § 18 Absatz 2 der
+    Personalausweisverordnung erfolgt,
+
+
+4.  um 6 Euro, wenn das Lichtbild durch die Personalausweisbehörde
+    gefertigt wurde.
+
+
+
 
 (5) Gebührenfrei ist die Änderung der Anschrift auf dem
 Personalausweis nach § 19 Absatz 1 der Personalausweisverordnung.
 
 (6) Die Gebühr kann ermäßigt oder von ihrer Erhebung abgesehen werden,
-wenn die Person, die die Gebühr schuldet, bedürftig ist.
-
-
-## § 1a Auslagen für Ausweise
-
-Die Personalausweisbehörden lassen sich die Auslagen für den Versand
-des Briefes in das Ausland nach § 17 Absatz 4 Satz 2 der
-Personalausweisverordnung erstatten.
+wenn die Person, die die Gebühr schuldet, bedürftig ist. Eine
+Bedürftigkeit im Sinne von Satz 1 liegt nicht schon dann vor, wenn
+Leistungen nach dem Zweiten Buch Sozialgesetzbuch oder nach dem
+Zwölften Buch Sozialgesetzbuch bezogen werden.
 
 
 ## § 2 Gebühr für die eID-Karte
 
-Für die Ausstellung einer eID-Karte für Unionsbürger und Angehörige
-des Europäischen Wirtschaftsraums ist eine Gebühr von 37 Euro zu
-erheben.
+(1) Für die Ausstellung einer eID-Karte für Unionsbürger und
+Angehörige des Europäischen Wirtschaftsraums ist eine Gebühr von 37
+Euro zu erheben.
 
-
-## § 2a Auslagen für eID-Karten
-
-Die eID-Karte-Behörden lassen sich die Auslagen für den Versand des
-Briefes in das Ausland nach § 17 Absatz 4 Satz 2 in Verbindung mit §
-36b der Personalausweisverordnung erstatten.
+(2) Die Gebühr nach Absatz 1 ist um 15 Euro anzuheben, wenn eine
+Übergabe nach § 18 Absatz 2 der Personalausweisverordnung in
+Verbindung mit § 36b der Personalausweisverordnung erfolgt.
 
 
 ## § 3 Gebühren für Berechtigungen

@@ -130,8 +130,8 @@ Ausbilder und Ausbilderinnen sind dabei in der Lage,
 
 (3) Das Handlungsfeld nach § 2 Nummer 3 umfasst die berufs- und
 arbeitspädagogische Eignung, selbstständiges Lernen in berufstypischen
-Arbeits- und Geschäftprozessen handlungsorientiert zu fördern. Die
-Ausbilder und Ausbilderinnen sind dabei in der Lage,
+Arbeits- und Geschäftsprozessen              handlungsorientiert zu
+fördern. Die Ausbilder und Ausbilderinnen sind dabei in der Lage,
 
 1.  lernförderliche Bedingungen und eine motivierende Lernkultur zu
     schaffen, Rückmeldungen zu geben und zu empfangen,

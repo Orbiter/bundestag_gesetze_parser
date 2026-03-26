@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2006, 1911
 
 Zuletzt geändert durch
-:   Art. 10 G v. 22.2.2023 I Nr. 51
+:   Art. 23 G v. 23.10.2024 I Nr. 323
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
@@ -150,8 +150,8 @@ Verschmelzungsvertrag beschließen soll,
 Hat eine Vertreterversammlung die Verschmelzung beschlossen, ist jedes
 Mitglied zur Ausschlagung berechtigt; für die Vertreter gilt Satz 1.
 
-(3) Die Ausschlagung ist gegenüber der Europäischen Genossenschaft
-schriftlich binnen zwei Monaten nach dem Tag zu erklären, an dem die
+(3) Die Ausschlagung ist gegenüber der Europäischen Genossenschaft in
+Textform binnen zwei Monaten nach dem Tag zu erklären, an dem die
 Verschmelzung im Sitzstaat der Europäischen Genossenschaft nach den
 dort geltenden Vorschriften eingetragen und bekannt gemacht worden
 ist. Die Ausschlagung kann nicht unter einer Bedingung oder einer
@@ -218,7 +218,7 @@ Verordnung (EG) Nr. 1435/2003 ihren Sitz, ist den Gläubigern der
 Europäischen Genossenschaft soweit Sicherheit zu leisten, wie sie
 nicht Befriedigung verlangen können, wenn sie binnen zwei Monaten nach
 dem Tag, an dem der Verlegungsplan offen gelegt worden ist, ihren
-Anspruch nach Grund und Höhe schriftlich anmelden und glaubhaft
+Anspruch nach Grund und Höhe in Textform anmelden und glaubhaft
 machen, dass durch die Sitzverlegung die Erfüllung ihrer Forderungen
 gefährdet wird. Die Gläubiger sind im Verlegungsplan auf dieses Recht
 hinzuweisen.

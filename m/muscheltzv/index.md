@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2009, 320
 
 Zuletzt geändert durch
-:   Art. 5 V v. 16.8.2021 I 3582
+:   Art. 3 G v. 24.2.2025 I Nr. 59
 
 
 ## Abschnitt 1 - Mutterschutz
@@ -35,8 +35,8 @@ des öffentlichen Rechts gelten die §§ 2 bis 5.
 (1) Die folgenden Vorschriften des Mutterschutzgesetzes sind
 entsprechend anzuwenden:
 
-1.  zu Begriffsbestimmungen (§ 2 Absatz 1 Satz 1, Absatz 3 Satz 1 und
-    Absatz 4 des Mutterschutzgesetzes),
+1.  zu Begriffsbestimmungen (§ 2 Absatz 1 Satz 1, Absatz 3 Satz 1, Absatz
+    4 und 6 des Mutterschutzgesetzes),
 
 
 2.  zur Gestaltung der Arbeitsbedingungen (§§ 9, 10 Absatz 1 und 2, §§ 11,

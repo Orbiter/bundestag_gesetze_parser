@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2009, 2512
 
 Zuletzt geändert durch
-:   Art. 5 G v. 3.6.2021 I 1423
+:   Art. 25 G v. 23.10.2024 I Nr. 323
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
@@ -287,7 +287,7 @@ gilt § 7 Absatz 2 bis 6 entsprechend.
 (1) Die Gläubigerversammlung wird vom Schuldner oder von dem
 gemeinsamen Vertreter der Gläubiger einberufen. Sie ist einzuberufen,
 wenn Gläubiger, deren Schuldverschreibungen zusammen 5 Prozent der
-ausstehenden Schuldverschreibungen erreichen, dies schriftlich mit der
+ausstehenden Schuldverschreibungen erreichen, dies in Textform mit der
 Begründung verlangen, sie wollten einen gemeinsamen Vertreter
 bestellen oder abberufen, sie wollten nach § 5 Absatz 5 Satz 2 über
 das Entfallen der Wirkung der Kündigung beschließen oder sie hätten
@@ -414,11 +414,10 @@ sofern nicht das Gericht einen anderen Vorsitzenden bestimmt hat.
 
 (2) In der Gläubigerversammlung ist durch den Vorsitzenden ein
 Verzeichnis der erschienenen oder durch Bevollmächtigte vertretenen
-Gläubiger aufzustellen. Im Verzeichnis sind die Gläubiger unter Angabe
-ihres Namens, Sitzes oder Wohnorts sowie der Zahl der von jedem
-vertretenen Stimmrechte aufzuführen. Das Verzeichnis ist vom
-Vorsitzenden der Versammlung zu unterschreiben und allen Gläubigern
-unverzüglich zugänglich zu machen.
+Gläubiger in Textform aufzustellen. Im Verzeichnis sind die Gläubiger
+unter Angabe ihres Namens, Sitzes oder Wohnorts sowie der Zahl der von
+jedem vertretenen Stimmrechte aufzuführen. Das Verzeichnis ist allen
+Gläubigern unverzüglich zugänglich zu machen.
 
 (3) Die Gläubigerversammlung ist beschlussfähig, wenn die Anwesenden
 wertmäßig mindestens die Hälfte der ausstehenden Schuldverschreibungen

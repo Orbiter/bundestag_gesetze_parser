@@ -20,7 +20,7 @@ Neugefasst durch
 :   Bek. v. 23.1.2006 I 152;
 
 Zuletzt geändert durch
-:   Art. 28 G v. 20.12.2022 I 2759
+:   Art. 20 G v. 22.12.2025 I Nr. 355
 
 
 ## Erster Abschnitt - Allgemeines
@@ -279,21 +279,10 @@ Bezuges einer nach § 38 gemeldeten Entgeltersatzleistung erfolgt.
 
 #### § 11a Meldungen von Arbeitsentgelt bei flexiblen Arbeitszeitregelungen
 
-(1) Arbeitsentgelt nach § 23b Abs. 2 bis 3 des Vierten Buches
+Arbeitsentgelt nach § 23b Abs. 2 bis 3 des Vierten Buches
 Sozialgesetzbuch ist mit der ersten folgenden Lohn- und
 Gehaltsabrechnung gesondert zu melden, wenn es nicht nach § 7c oder §
 7f Abs. 2 Satz 1 des Vierten Buches Sozialgesetzbuch verwendet wird.
-
-(2) Der Wechsel von einem Wertguthaben, das im Beitrittsgebiet erzielt
-wurde, zu einem Wertguthaben, das im übrigen Bundesgebiet erzielt
-wurde, und umgekehrt ist mit der ersten folgenden Lohn- und
-Gehaltsabrechnung nach dem Wechsel taggenau zu melden.
-
-(3) Wird im selben Zeitraum ein Wertguthaben aufgelöst und
-Arbeitsentgelt gezahlt, ist das Wertguthaben nur dann gesondert unter
-der Angabe, ob es im Beitritts- oder im übrigen Bundesgebiet erzielt
-worden ist, zu melden, wenn nicht beide zusammen im Beitrittsgebiet
-oder zusammen im übrigen Bundesgebiet erzielt worden sind.
 
 
 #### § 11b Meldung von Arbeitsentgelten bei Mehrfachbeschäftigung auf Anforderung der Einzugsstelle
@@ -331,9 +320,10 @@ Meldungen nach Absatz 1 oder 2 sind nicht zu erstatten, wenn Meldungen
 nach §§ 6, 8 oder § 9 erfolgen.
 
 (5) Eine Meldung nach § 194 des Sechsten Buches Sozialgesetzbuch ist
-mit der nächsten Lohn und Gehaltsabrechnung zu erstatten. Ist zu
-diesem Zeitpunkt eine Meldung nach § 10 noch nicht erfolgt, ist diese
-zum gleichen Zeitpunkt zu erstatten.
+mit der nächsten Lohn und Gehaltsabrechnung nach Aufforderung durch
+den Träger der Rentenversicherung zu erstatten. Ist zu diesem
+Zeitpunkt eine Meldung nach § 10 noch nicht erfolgt, ist diese zum
+gleichen Zeitpunkt zu erstatten.
 
 (6) Beginn und Ende einer in Anspruch genommenen Elternzeit sind der
 zuständigen Krankenkasse gesondert zu melden, sofern die Beschäftigung
@@ -383,8 +373,20 @@ nicht bekannt, hat die Stornierung die für die Vergabe der
 Versicherungsnummer notwendigen Angaben zu enthalten.
 
 
-#### § 15 (weggefallen)
+#### § 15 Korrektur von Meldungen durch die Einzugsstellen
 
+In den Fällen, in denen eine Meldung mit unzutreffenden Angaben nach §
+14 Absatz 1 vom Meldepflichtigen trotz Aufforderung durch die
+Einzugsstelle nicht korrigiert wird, kann die Einzugsstelle die
+Korrektur der Meldung im Einvernehmen mit dem Beschäftigten vornehmen.
+Dies gilt nicht für die Angaben zum beitragspflichtigen Entgelt und
+die Betriebsnummer des Meldepflichtigen. Die Einzugsstelle hat den
+Beschäftigten über die beabsichtigte Korrektur vorab in Textform zu
+informieren. Der Beschäftigte muss der Korrektur gegenüber der
+Einzugsstelle in Textform zustimmen. Die Einzugsstelle hat die
+Zustimmung des Beschäftigten sowie die Korrektur der Meldung zu
+dokumentieren. Der Meldepflichtige erhält eine Kopie der korrigierten
+Meldung.
 
 
 ## Dritter Abschnitt - Meldungen der Arbeitgeber durch Datenübertragung
@@ -447,12 +449,14 @@ Das Nähere zum Antragsverfahren regeln die Gemeinsamen Grundsätze nach
 Vierten Buches Sozialgesetzbuch sind die Vorschriften nach dem
 Sozialgesetzbuch für das jeweilige Fachverfahren, der
 Beitragsverfahrensverordnung, der Entgeltbescheinigungsverordnung und
-dieser Verordnung in der jeweils geltenden Fassung. Ein Programm oder
-eine Ausfüllhilfe muss alle für das Basismodul vorgeschriebenen
-Fachverfahren enthalten. Voraussetzung für die Prüfung eines
-Zusatzmoduls ist, dass das entsprechende Programm oder die
-Ausfüllhilfe ein geprüftes Basismodul enthält. Ausnahmen können in den
-Gemeinsamen Grundsätzen nach § 22 festgelegt werden.
+dieser Verordnung sowie die veröffentlichten Verfahrensbeschreibungen
+zu den jeweiligen Fachverfahren, Rundschreiben und Beratungsergebnisse
+der Sozialversicherungsträger in der jeweils geltenden Fassung. Ein
+Programm oder eine Ausfüllhilfe muss alle für das Basismodul
+vorgeschriebenen Fachverfahren enthalten. Voraussetzung für die
+Prüfung eines Zusatzmoduls ist, dass das entsprechende Programm oder
+die Ausfüllhilfe ein geprüftes Basismodul enthält. Ausnahmen können in
+den Gemeinsamen Grundsätzen nach § 22 festgelegt werden.
 Kommunikationsmodule sind darauf zu prüfen, dass sie die Anforderungen
 der Verschlüsselung sowohl der enthaltenen Datensätze als auch der
 äußeren Transportdatensätze gewährleisten und ein Zugriff oder eine
@@ -497,12 +501,14 @@ Unfallversicherung e. V. und die Arbeitsgemeinschaft der
 berufsständischen Versorgungseinrichtungen e. V. bestimmen in
 Gemeinsamen Grundsätzen den Umfang, die Grundlagen, das Antrags- und
 Zulassungsverfahren, die Durchführung, die Qualitätssicherung und die
-Korrekturen für eine Systemprüfung. Sie legen fest, welche Verfahren
-grundsätzlich von allen Programmen oder Ausfüllhilfen zu erfüllen sind
-(Basismodule) und welche Verfahren optional angeboten werden
-(Zusatzmodul). Die Grundsätze bedürfen der Genehmigung des
-Bundesministeriums für Arbeit und Soziales, das vorher die
-Bundesvereinigung der Deutschen Arbeitgeberverbände anzuhören hat.
+Korrekturen für eine Systemprüfung; soweit das Verfahren nach § 110
+Absatz 1 des Vierten Buches Sozialgesetzbuch betroffen ist, ist die
+Annahmestelle der gemeinsamen Einrichtungen zu beteiligen. Sie legen
+fest, welche Verfahren grundsätzlich von allen Programmen oder
+Ausfüllhilfen zu erfüllen sind (Basismodule) und welche Verfahren
+optional angeboten werden (Zusatzmodul). Die Grundsätze bedürfen der
+Genehmigung des Bundesministeriums für Arbeit und Soziales, das vorher
+die Bundesvereinigung der Deutschen Arbeitgeberverbände anzuhören hat.
 
 
 #### § 22a Testverfahren
@@ -540,22 +546,8 @@ Meldungen erneut zu erstatten.
 
 
 
-#### § 25 Unterrichtung des Arbeitnehmers
+#### § 25 (weggefallen)
 
-(1) Der Arbeitgeber hat dem Beschäftigten mindestens einmal jährlich
-bis zum 30. April eines Jahres für alle im Vorjahr durch
-Datenübertragung erstatteten Meldungen eine maschinell erstellte
-Bescheinigung zu übergeben, die inhaltlich getrennt alle gemeldeten
-Daten ohne die Angaben für die gesetzliche Unfallversicherung
-wiedergeben muss. Bei Auflösung des Arbeitsverhältnisses ist die
-Bescheinigung unverzüglich nach Abgabe der letzten Meldung
-auszustellen.
-
-(2) Die Bescheinigung kann auf den üblichen Lohn- und
-Gehaltsabrechnungen erteilt werden. Der Arbeitgeber hat den Inhalt der
-Bescheinigung wie Lohnunterlagen zu behandeln und bis zum Ablauf des
-auf die letzte Prüfung nach § 28p des Vierten Buches Sozialgesetzbuch
-folgenden Kalenderjahres aufzubewahren.
 
 
 ## Vierter Abschnitt - Beitragsnachweisverfahren
@@ -701,7 +693,7 @@ Rentenversicherung in einer Vereinbarung.
 
 
 
-## Siebter Abschnitt - Meldung von Entgeltersatzleistungen, Anrechnungszeiten, Zeiten des Wehr- und Zivildienstes und Zeiten einer besonderen Auslandsverwendung
+## Siebter Abschnitt - Meldung von Entgeltersatzleistungen, Anrechnungszeiten, Zeiten des Wehr- und Zivildienstes, Zeiten einer besonderen Auslandsverwendung und Zeiten des Bezugs von Übergangsgebührnissen
 
 
 
@@ -709,15 +701,15 @@ Rentenversicherung in einer Vereinbarung.
 
 (1) Die Leistungsträger und die privaten
 Pflegeversicherungsunternehmen haben Zeiträume, in denen Personen nach
-§ 3 Satz 1 Nr. 3 oder 4 oder § 4 Abs. 3 Satz 1 Nr. 1 des Sechsten
-Buches Sozialgesetzbuch versicherungspflichtig sind und eine der in
-diesen Vorschriften genannten Leistungen, Eingliederungshilfe für
-Spätaussiedler, Leistungen, die die Bundesagentur für Arbeit nach dem
-Altersteilzeitgesetz anstelle des Arbeitgebers erbringt, oder
-Arbeitslosenbeihilfe beziehen, unter Angabe der der Leistung zugrunde
-liegenden beitragspflichtigen Einnahmen zu melden. Die Zeiten bis zum
-31\. Dezember 2024 sind jeweils für das Beitrittsgebiet und das übrige
-Bundesgebiet zu kennzeichnen.
+§ 3 Satz 1 Nummer 3 oder 4 oder § 4 Absatz 3 Satz 1 Nummer 1 oder 3
+des Sechsten Buches Sozialgesetzbuch versicherungspflichtig sind und
+eine der in diesen Vorschriften genannten Leistungen,
+Eingliederungshilfe für Spätaussiedler, Leistungen, die die
+Bundesagentur für Arbeit nach dem Altersteilzeitgesetz anstelle des
+Arbeitgebers erbringt, oder Arbeitslosenbeihilfe beziehen, unter
+Angabe der der Leistung zugrunde liegenden beitragspflichtigen
+Einnahmen zu melden. Die Zeiten bis zum 31. Dezember 2024 sind jeweils
+für das Beitrittsgebiet und das übrige Bundesgebiet zu kennzeichnen.
 
 (2) Die Meldungen sind innerhalb eines Monats nach dem Ende der in
 Absatz 1 genannten Zeiträume nach den Vorschriften des Sechsten
@@ -725,8 +717,8 @@ Abschnitts an die Datenstelle der Rentenversicherung zu erstatten. § 5
 Abs. 6 und 7 gilt entsprechend.
 
 (3) § 5 Abs. 3 gilt entsprechend. § 12 Abs. 5 gilt entsprechend; die
-Meldung ist innerhalb eines Monats nach dem Verlangen des
-Rentenantragstellers zu erstatten.
+Meldung ist innerhalb eines Monats nach Aufforderung durch den Träger
+der Rentenversicherung zu erstatten.
 
 (4) Stornierungen von Meldungen sind von der Stelle vorzunehmen, die
 die Meldung abgegeben hat.
@@ -801,10 +793,10 @@ gilt entsprechend.
 
 (4) Der Wehr- oder Zivildienstleistende hat spätestens bei
 Dienstantritt der Dienststelle seine Versicherungsnummer anzugeben. §
-5 Abs. 7 gilt entsprechend; die Vergabedaten sind an die Datenstelle
-der Rentenversicherung weiterzuleiten.
+5 Absatz 6 und 7 gilt entsprechend; die Vergabedaten sind an die
+Datenstelle der Rentenversicherung weiterzuleiten.
 
-(5) Die §§ 25 und 38 Abs. 5 gelten entsprechend.
+(5) § 5 Absatz 1, 3 und 4 sowie § 12 Absatz 5 gelten entsprechend.
 
 
 ### § 40a Zeiten einer besonderen Auslandsverwendung
@@ -814,7 +806,8 @@ Stelle meldet die Zeiträume, für die die Voraussetzungen für Zuschläge
 an Entgeltpunkten für Zeiten einer besonderen Auslandsverwendung nach
 § 76e des Sechsten Buches Sozialgesetzbuch vorliegen.
 
-(2) § 5 Absatz 3 und § 38 Absatz 2, 4 und 5 gelten entsprechend.
+(2) § 5 Absatz 1 und 3 sowie § 38 Absatz 2 Satz 1 und Absatz 4 gelten
+entsprechend.
 
 
 ### § 40b Zeiten des Bezuges von Übergangsgebührnissen
@@ -830,11 +823,11 @@ versicherungspflichtig sind, zu melden. Dabei sind
 
 
 2.  Übergangsgebührnisse, die nach Dienstzeiten im Beitrittsgebiet gewährt
-    werden, besonders zu kennzeichnen.
+    werden, bis zum 31. Dezember 2024 besonders zu kennzeichnen.
 
 
 
-§ 5 Absatz 1, 3, 4 und 6 und § 38 Absatz 2, 4 und 5 gelten
+§ 5 Absatz 1, 3 und 4 sowie § 38 Absatz 2 Satz 1 und Absatz 4 gelten
 entsprechend.
 
 
@@ -842,25 +835,7 @@ entsprechend.
 
 
 
-### § 41 Ordnungswidrigkeiten
-
-Ordnungswidrig im Sinne des § 111 Absatz 1 Satz 1 Nummer 8 des Vierten
-Buches Sozialgesetzbuch handelt, wer vorsätzlich oder leichtfertig
-
-1.  (weggefallen)
-
-
-2.  (weggefallen)
-
-
-3.  entgegen § 25 Abs. 1 Satz 1 eine Bescheinigung nicht, nicht richtig,
-    nicht vollständig oder nicht rechtzeitig übergibt oder
-
-
-4.  entgegen § 25 Abs. 2 Satz 2 den Inhalt der Bescheinigung nicht oder
-    nicht für die vorgeschriebene Dauer aufbewahrt.
-
-
+### § 41 (weggefallen)
 
 
 

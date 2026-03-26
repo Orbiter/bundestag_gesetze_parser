@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2004, 2562
 
 Zuletzt geändert durch
-:   Art. 5 G v. 22.2.2023 I Nr. 51
+:   Art. 1 V v. 30.4.2025 I Nr. 127
 
 
 ## Eingangsformel
@@ -224,7 +224,7 @@ Abteilung A, das Gesellschafts-
 
 
 
-    *   70,00 €
+    *   105,00 €
 
 
 *    *   1101
@@ -236,7 +236,7 @@ Abteilung A, das Gesellschafts-
 
 
 
-    *   100,00 €
+    *   150,00 €
 
 
 *    *   1102
@@ -250,7 +250,7 @@ Abteilung A, das Gesellschafts-
 
 
 
-    *   40,00 €
+    *   60,00 €
 
 
 *    *
@@ -266,7 +266,7 @@ Abteilung A, das Gesellschafts-
 
 
 
-    *   150,00 €
+    *   225,00 €
 
 
 *    *   1104
@@ -278,7 +278,7 @@ Abteilung A, das Gesellschafts-
 
 
 
-    *   180,00 €
+    *   270,00 €
 
 
 *    *   1105
@@ -292,7 +292,7 @@ Abteilung A, das Gesellschafts-
 
 
 
-    *   70,00 €
+    *   105,00 €
 
 
 *    *
@@ -307,7 +307,7 @@ Abteilung A, das Gesellschafts-
 
     *   Eintragung einer Zweigniederlassung
 
-    *   40,00 €
+    *   60,00 €
 
 
 *    *
@@ -341,7 +341,7 @@ Abteilung A, das Gesellschafts-
 
 
 
-    *   60,00 €
+    *   90,00 €
 
 
 *    *   1301
@@ -353,7 +353,7 @@ Abteilung A, das Gesellschafts-
 
 
 
-    *   80,00 €
+    *   120,00 €
 
 
 *    *
@@ -376,7 +376,7 @@ Abteilung A, das Gesellschafts-
 
 
 
-    *   40,00 €
+    *   60,00 €
 
 
 *    *   1303
@@ -389,7 +389,7 @@ Abteilung A, das Gesellschafts-
 
 
 
-    *   10,00 €
+    *   15,00 €
 
 
 *    *
@@ -417,7 +417,7 @@ Abteilung A, das Gesellschafts-
 
 
 
-    *   180,00 €
+    *   270,00 €
 
 
 *    *   1401
@@ -428,7 +428,7 @@ Abteilung A, das Gesellschafts-
 
 
 
-    *   180,00 €
+    *   270,00 €
 
 
 *    *
@@ -467,7 +467,7 @@ Abteilung A, das Gesellschafts-
 
 
 
-    *   40,00 €
+    *   60,00 €
 
 
 *    *   1501
@@ -479,7 +479,7 @@ Abteilung A, das Gesellschafts-
 
 
 
-    *   60,00 €
+    *   90,00 €
 
 
 *    *   1502
@@ -491,7 +491,7 @@ Abteilung A, das Gesellschafts-
 
 
 
-    *   70,00 €
+    *   105,00 €
 
 
 *    *   1503
@@ -500,7 +500,7 @@ Abteilung A, das Gesellschafts-
         Anmeldung:
         Die Gebühren 1500 bis 1502 betragen jeweils
 
-    *   30,00 €
+    *   45,00 €
 
 
 *    *
@@ -514,7 +514,7 @@ Abteilung A, das Gesellschafts-
     *   Die Eintragung betrifft eine Tatsache ohne wirtschaftliche Bedeutung:
         Die Gebühren 1500 bis 1502 betragen
 
-    *   30,00 €
+    *   45,00 €
 
 
 
@@ -564,7 +564,7 @@ Teil 2
         einer Unternehmergesellschaft – außer aufgrund einer Umwandlung nach
         dem UmwG –
 
-    *   150,00 €
+    *   225,00 €
 
 
 *    *   2101
@@ -572,7 +572,7 @@ Teil 2
     *   Es wird mindestens eine Sacheinlage geleistet:
         Die Gebühr 2100 beträgt
 
-    *   240,00 €
+    *   360,00 €
 
 
 *    *   2102
@@ -581,7 +581,7 @@ Teil 2
         Aktien oder eines Versicherungsvereins auf Gegenseitigkeit – außer
         aufgrund einer Umwandlung nach dem UmwG –
 
-    *   300,00 €
+    *   450,00 €
 
 
 *    *   2103
@@ -589,7 +589,7 @@ Teil 2
     *   Es wird mindestens eine Sacheinlage geleistet:
         Die Gebühr 2102 beträgt
 
-    *   360,00 €
+    *   540,00 €
 
 
 *    *
@@ -605,7 +605,7 @@ Teil 2
 
 
 
-    *   260,00 €
+    *   390,00 €
 
 
 *    *   2105
@@ -616,7 +616,7 @@ Teil 2
 
 
 
-    *   660,00 €
+    *   990,00 €
 
 
 *    *   2106
@@ -627,7 +627,7 @@ Teil 2
 
 
 
-    *   460,00 €
+    *   690,00 €
 
 
 *    *
@@ -646,7 +646,7 @@ Teil 2
 
     *   Eintragung einer Zweigniederlassung
 
-    *   120,00 €
+    *   180,00 €
 
 
 *    *
@@ -666,7 +666,7 @@ Teil 2
     *   Eintragung bei dem Gericht, in dessen Bezirk der Sitz verlegt worden
         ist
 
-    *   140,00 €
+    *   210,00 €
 
 
 *    *
@@ -703,7 +703,7 @@ Teil 2
 
 
 
-    *   270,00 €
+    *   405,00 €
 
 
 *    *   2401
@@ -715,7 +715,7 @@ Teil 2
 
 
 
-    *   210,00 €
+    *   315,00 €
 
 
 *    *
@@ -731,7 +731,7 @@ Teil 2
 
 
 
-    *   240,00 €
+    *   360,00 €
 
 
 *    *   2403
@@ -742,7 +742,7 @@ Teil 2
 
 
 
-    *   240,00 €
+    *   360,00 €
 
 
 *    *
@@ -756,7 +756,7 @@ Teil 2
     *   Eintragung der Eingliederung oder des Endes der Eingliederung einer
         Aktiengesellschaft
 
-    *   210,00 €
+    *   315,00 €
 
 
 *    *   2405
@@ -764,7 +764,7 @@ Teil 2
     *   Eintragung des Übertragungsbeschlusses im Fall des Ausschlusses von
         Minderheitsaktionären (§ 327e AktG)
 
-    *   210,00 €
+    *   315,00 €
 
 
 *    *
@@ -788,7 +788,7 @@ Teil 2
 
     *   Eintragung einer Tatsache
 
-    *   70,00 €
+    *   105,00 €
 
 
 *    *   2501
@@ -797,7 +797,7 @@ Teil 2
         Anmeldung:
         Die Gebühr 2500 beträgt jeweils
 
-    *   40,00 €
+    *   60,00 €
 
 
 *    *
@@ -811,7 +811,7 @@ Teil 2
     *   Die Eintragung betrifft eine Tatsache ohne wirtschaftliche Bedeutung:
         Die Gebühren 2500 und 2501 betragen
 
-    *   30,00 €
+    *   45,00 €
 
 
 
@@ -867,7 +867,7 @@ Teil 3
 
 
 
-    *   210,00 €
+    *   315,00 €
 
 
 *    *   3101
@@ -878,7 +878,7 @@ Teil 3
 
 
 
-    *   360,00 €
+    *   540,00 €
 
 
 *    *
@@ -897,7 +897,7 @@ Teil 3
 
     *   Eintragung einer Zweigniederlassung
 
-    *   60,00 €
+    *   90,00 €
 
 
 *    *
@@ -917,7 +917,7 @@ Teil 3
     *   Eintragung bei dem Gericht, in dessen Bezirk der Sitz verlegt worden
         ist
 
-    *   210,00 €
+    *   315,00 €
 
 
 *    *
@@ -951,7 +951,7 @@ Teil 3
 
 
 
-    *   300,00 €
+    *   450,00 €
 
 
 *    *   3401
@@ -962,7 +962,7 @@ Teil 3
 
 
 
-    *   300,00 €
+    *   450,00 €
 
 
 *    *
@@ -992,7 +992,7 @@ Teil 3
 
     *   Eintragung einer Tatsache
 
-    *   110,00 €
+    *   165,00 €
 
 
 *    *   3501
@@ -1001,7 +1001,7 @@ Teil 3
         Anmeldung:
         Die Gebühr 3500 beträgt jeweils
 
-    *   60,00 €
+    *   90,00 €
 
 
 *    *
@@ -1015,7 +1015,7 @@ Teil 3
     *   Die Eintragung betrifft eine Tatsache ohne wirtschaftliche Bedeutung:
         Die Gebühren 3500 und 3501 betragen
 
-    *   30,00 €
+    *   45,00 €
 
 
 
@@ -1036,7 +1036,7 @@ Teil 4
     *   Eintragung einer Prokura, Eintragung von Änderungen oder der Löschung
         einer Prokura
 
-    *   40,00 €
+    *   60,00 €
 
 
 *    *   4001
@@ -1046,7 +1046,7 @@ Teil 4
         Die Gebühr 4000 beträgt für die zweite und jede weitere Prokura
         jeweils
 
-    *   30,00 €
+    *   45,00 €
 
 
 *    *
@@ -1061,7 +1061,7 @@ Teil 4
         wirtschaftliche Bedeutung:
         Die Gebühr 4000 beträgt
 
-    *   30,00 €
+    *   45,00 €
 
 
 
@@ -1078,8 +1078,12 @@ Teil 5
 
 
 *    *   Vorbemerkung 5:
-        Mit den Gebühren 5001 bis 5006 wird auch der Aufwand für die Prüfung
-        und Aufbewahrung der genannten Unterlagen abgegolten.
+        Die Gebühren 5002 bis 5006 entstehen mit der Entgegennahme der
+        genannten Unterlagen, ohne dass es auf deren Aufnahme in das Register
+        ankommt. Mit den Gebühren wird auch der Aufwand für die Prüfung und
+        Aufbewahrung der Unterlagen abgegolten. Werden bereits eingereichte
+        Unterlagen in ergänzter oder geänderter Fassung erneut eingereicht,
+        entstehen für die Entgegennahme keine gesonderten Gebühren.
 
 
 *    *
@@ -1107,7 +1111,7 @@ Teil 5
 
 
 
-    *   30,00 €
+    *   45,00 €
 
 
 *    *   5003
@@ -1120,7 +1124,7 @@ Teil 5
 
 
 
-    *   40,00 €
+    *   60,00 €
 
 
 *    *   5004
@@ -1131,7 +1135,7 @@ Teil 5
 
 
 
-    *   40,00 €
+    *   60,00 €
 
 
 *    *   5005
@@ -1142,7 +1146,7 @@ Teil 5
 
 
 
-    *   50,00 €
+    *   75,00 €
 
 
 *    *   5006
@@ -1153,7 +1157,7 @@ Teil 5
 
 
 
-    *   50,00 €
+    *   75,00 €
 
 
 *    *   5007

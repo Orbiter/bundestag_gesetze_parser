@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2013, 2865
 
 Zuletzt geändert durch
-:   Art. 3 G v. 27.2.2024 I Nr. 71
+:   Art. 5 G v. 11.3.2026 I Nr. 66
 
 Stand: V in Kraft gem. § 83 Satz 1 iVm Art. 4 Abs. 1 Satz 1 G v. 6.6.2013 I 1482 mWv 1.9.2013
 
@@ -229,36 +229,8 @@ Bestimmungsländern erteilt werden, wenn dies wegen der beabsichtigten
 Wiederholung der Rechtsgeschäfte oder Handlungen zweckmäßig erscheint.
 
 
-### § 5 Rückgabe von Verwaltungsakten
+### § 5 (weggefallen)
 
-(1) Der Adressat eines Verwaltungsakts in Papierform muss der für den
-Erlass zuständigen Stelle die diesen Verwaltungsakt verkörpernde
-Urkunde unverzüglich zurückgeben, wenn
-
-1.  der erteilte Verwaltungsakt unwirksam wird, bevor er vollständig
-    ausgenutzt wurde,
-
-
-2.  der Adressat die Absicht aufgibt, den Verwaltungsakt vollständig
-    auszunutzen, oder
-
-
-3.  der Verwaltungsakt oder die ihn verkörpernde Urkunde durch einen
-    weiteren Bescheid, insbesondere eine Zweitausfertigung, ersetzt wurde
-    und der ursprüngliche Verwaltungsakt infolge der Ersetzung keinen
-    eigenen Regelungsgehalt mehr aufweist.
-
-
-
-Im Übrigen bleibt § 52 des Verwaltungsverfahrensgesetzes unberührt.
-
-(2) Durch Allgemeinverfügung, die im Bundesanzeiger bekannt zu machen
-ist, kann die zuständige Stelle festlegen, von welchem Zeitpunkt an
-und unter welchen Voraussetzungen auf die Rückgabepflicht nach Absatz
-1 verzichtet werden kann.
-
-(3) Die Rückgabepflicht auf Grund von Rechtsakten der Europäischen
-Union bleibt unberührt.
 
 
 ### § 6 Aufbewahrung von Verwaltungsakten
@@ -2500,14 +2472,14 @@ Erwerb nach Absatz 1 betroffene inländische Unternehmen maßgeblich.
 öffentlichen Ordnung oder Sicherheit kann insbesondere berücksichtigt
 werden, ob das inländische Unternehmen
 
-1.  Betreiber einer Kritischen Infrastruktur im Sinne des BSI-Gesetzes
-    ist,
+1.  Betreiber einer kritischen Anlage im Sinne des § 2 Nummer 3 des
+    KRITIS-Dachgesetzes ist,
 
 
-2.  kritische Komponenten im Sinne des § 2 Absatz 13 des BSI-Gesetzes
+2.  kritische Komponenten im Sinne des § 2 Nummer 23 des BSI-Gesetzes
     entwickelt oder herstellt oder Software, die branchenspezifisch zum
-    Betrieb von Kritischen Infrastrukturen im Sinne des BSI-Gesetzes
-    dient, besonders entwickelt oder herstellt,
+    Betrieb von kritischen Anlagen im Sinne des § 2 Nummer 3 des KRITIS-
+    Dachgesetzes dient, besonders entwickelt oder herstellt,
 
 
 3.  zu organisatorischen Maßnahmen nach § 170 des
@@ -2518,10 +2490,10 @@ werden, ob das inländische Unternehmen
     den technischen Einrichtungen zugrundeliegenden Technologie verfügt,
 
 
-4.  Cloud-Computing-Dienste erbringt und die hierfür genutzten
-    Infrastrukturen die in Anhang 4 Teil 3 Nummer 2 Spalte D der BSI-
-    Kritisverordnung genannten Schwellenwerte in Bezug auf den jeweiligen
-    Cloud-Computing-Dienst erreichen oder überschreiten,
+4.  Cloud-Computing-Dienste erbringt und die hierfür genutzten Anlagen die
+    im Anhang der Rechtsverordnung nach § 4 Absatz 3 und § 5 Absatz 1 des
+    KRITIS-Dachgesetzes genannten Schwellenwerte in Bezug auf den
+    jeweiligen Cloud-Computing-Dienst erreichen oder überschreiten,
 
 
 5.  eine Zulassung für Komponenten oder Dienste der Telematikinfrastruktur
@@ -2540,7 +2512,7 @@ werden, ob das inländische Unternehmen
     Gesetzes erforderlich sind,
 
 
-8.[^f816116_01_BJNR286500013BJNE011106119]
+8.[^f816116_01_BJNR286500013BJNE011108128]
   persönliche Schutzausrüstungen im Sinne des Artikels 3 Nummer 1 der
     Verordnung (EU) 2016/425 des Europäischen Parlaments und des Rates vom
     9\. März 2016 über persönliche Schutzausrüstungen und zur Aufhebung der
@@ -2897,7 +2869,7 @@ Absatz 1 nicht vorliegen.
     „amtlicher Hinweis: Im Beuth-Verlag GmbH, Berlin und Köln, erschienen
     und beim Deutschen Patent- und Markenamt in München archivmäßig
     gesichert niedergelegt“.
-[^f816116_01_BJNR286500013BJNE011106119]: 
+[^f816116_01_BJNR286500013BJNE011108128]: 
 
 ##### § 56 Stimmrechtsanteile
 
@@ -3417,28 +3389,25 @@ dem inländischen Unternehmen unverzüglich bekannt zu geben.
 Für Zwecke der Meldungen nach diesem Kapitel ist
 
 1.  Inland das deutsche Wirtschaftsgebiet im Sinne des Kapitels 2 Nummer
-    2\.05. des Anhangs A der Verordnung (EG) Nr. 2223/96 des Rates vom 25.
-    Juni 1996 zum Europäischen System Volkswirtschaftlicher
-    Gesamtrechnungen auf nationaler und regionaler Ebene in der
-    Europäischen Gemeinschaft (ABl. L 310 vom 30.11.1996, S. 1), die
-    zuletzt durch die Verordnung (EU) Nr. 715/2010 (ABl. L 210 vom
-    11\.8.2010, S. 1) geändert worden ist,
+    2\.05 des Anhangs A der Verordnung (EU) Nr. 549/2013 des Europäischen
+    Parlaments und des Rates vom 21. Mai 2013 zum Europäischen System
+    Volkswirtschaftlicher Gesamtrechnungen auf nationaler und regionaler
+    Ebene in der Europäischen Union (ABl. L 174 vom 26.6.2013, S. 1), die
+    zuletzt durch die Verordnung (EU) 2023/734 (ABl. L 97 vom 5.4.2023, S.
+    1) geändert worden ist, in der jeweils geltenden Fassung,
 
 
 2.  Inländer jede institutionelle Einheit im Inland im Sinne des Kapitels
-    2 Nummer 2.12. und 2.13. in Verbindung mit Nummer 2.07. des Anhangs A
-    der Verordnung (EG) Nr. 2223/96 und
+    2 Nummer 2.12 bis 2.30 in Verbindung mit Nummer 2.07 bis 2.11 des
+    Anhangs A der Verordnung (EU) Nr. 549/2013 und
 
 
-3.  Ausländer jede institutionelle Einheit im Ausland im Sinne des
-    Kapitels 2 Nummer 2.12. und 2.13. in Verbindung mit Nummer 2.07. des
-    Anhangs A der Verordnung (EG) Nr. 2223/96.
+3.  Ausländer jede institutionelle Einheit im Ausland im Sinne dieses
+    Kapitels 2 Nummer 2.12 bis 2.30 in Verbindung mit Nummer 2.07 bis 2.11
+    des Anhangs A der Verordnung (EU) Nr. 549/2013.
 
 
 
-Ausländer im Sinne dieses Kapitels sind auch Unternehmen,
-Zweigniederlassungen, Betriebsstätten und Banken, deren Sitz sich im
-Ausland befindet.
 
 
 ### Abschnitt 2 - Meldevorschriften im Kapitalverkehr
@@ -3486,11 +3455,11 @@ Nummer 2 als von einem Inländer abhängig anzusehen.
 
 1.  wenn die Bilanzsumme des ausländischen Unternehmens, an dem der
     Inländer oder ein anderes von ihm abhängiges ausländisches Unternehmen
-    beteiligt ist, 3 Millionen Euro nicht überschreitet,
+    beteiligt ist, 6 Millionen Euro nicht überschreitet,
 
 
 2.  wenn das Betriebsvermögen, das der ausländischen Zweigniederlassung
-    oder Betriebsstätte nach Absatz 1 Nummer 3 zugeordnet ist, 3 Millionen
+    oder Betriebsstätte nach Absatz 1 Nummer 3 zugeordnet ist, 6 Millionen
     Euro nicht überschreitet oder
 
 
@@ -3504,20 +3473,20 @@ Nummer 2 als von einem Inländer abhängig anzusehen.
 (4) Die Meldungen sind nach dem Stand des Bilanzstichtags des
 Meldepflichtigen oder, wenn der Meldepflichtige nicht bilanziert, nach
 dem Stand des 31. Dezember zu erstatten, wobei die Angaben gemäß
-Anlage K3 „Vermögen von Inländern im Ausland“ enthalten sein müssen.
+Anlage 2 enthalten sein müssen.
 
 (5) Stimmt der Bilanzstichtag eines ausländischen Unternehmens, an dem
 der Meldepflichtige oder ein anderes von ihm abhängiges ausländisches
 Unternehmen beteiligt ist, nicht mit dem Bilanzstichtag des
 Meldepflichtigen überein, so ist die Meldung des Vermögens gemäß
-Anlage K3 nach der Bilanz, deren Bilanzstichtag unmittelbar vor dem
-des Meldepflichtigen liegt, zu erstatten. Wenn der Meldepflichtige
-nicht bilanziert und der Bilanzstichtag eines ausländischen
-Unternehmens, an dem der Meldepflichtige oder ein anderes von ihm
-abhängiges Unternehmen beteiligt ist, nicht mit dem 31. Dezember
-übereinstimmt, so ist die Meldung des Vermögens gemäß Anlage K3 nach
-der Bilanz zu erstatten, deren Bilanzstichtag unmittelbar vor dem 31.
-Dezember liegt.
+Anlage 2 nach der Bilanz, deren Bilanzstichtag unmittelbar vor dem des
+Meldepflichtigen liegt, zu erstatten. Wenn der Meldepflichtige nicht
+bilanziert und der Bilanzstichtag eines ausländischen Unternehmens, an
+dem der Meldepflichtige oder ein anderes von ihm abhängiges
+Unternehmen beteiligt ist, nicht mit dem 31. Dezember übereinstimmt,
+so ist die Meldung des Vermögens gemäß Anlage 2 nach der Bilanz zu
+erstatten, deren Bilanzstichtag unmittelbar vor dem 31. Dezember
+liegt.
 
 (6) Meldepflichtig ist der Inländer, dem das Vermögen unmittelbar oder
 über ein abhängiges ausländisches Unternehmen am Bilanzstichtag des
@@ -3568,17 +3537,10 @@ insbesondere:
 
 2.  natürliche und juristische ausländische Personen, die gemeinsam
     wirtschaftliche Interessen verfolgen, indem sie an einem oder mehreren
-    Unternehmen Beteiligungen halten,
+    Unternehmen Beteiligungen halten, und
 
 
-3.  natürliche ausländische Personen, die miteinander verheiratet sind,
-    eine Lebenspartnerschaft führen oder in gerader Linie verwandt,
-    verschwägert oder durch Adoption verbunden oder in der Seitenlinie bis
-    zum dritten Grad verwandt oder bis zum zweiten Grad verschwägert sind,
-    und
-
-
-4.  juristische ausländische Personen, die im Sinne des § 15 des
+3.  juristische ausländische Personen, die im Sinne des § 15 des
     Aktiengesetzes miteinander verbunden sind.
 
 
@@ -3604,12 +3566,12 @@ wirtschaftlich verbundenen Ausländern abhängig anzusehen.
 1.  wenn die Bilanzsumme des inländischen Unternehmens, an dem der
     Ausländer, die wirtschaftlich verbundenen Ausländer oder ein anderes
     von dem Ausländer oder von den wirtschaftlich verbundenen Ausländern
-    abhängiges inländisches Unternehmen beteiligt sind, 3 Millionen Euro
+    abhängiges inländisches Unternehmen beteiligt sind, 6 Millionen Euro
     nicht überschreitet,
 
 
 2.  wenn das Betriebsvermögen, das der inländischen Zweigniederlassung
-    oder Betriebsstätte nach Absatz 1 Nummer 3 zugeordnet ist, 3 Millionen
+    oder Betriebsstätte nach Absatz 1 Nummer 3 zugeordnet ist, 6 Millionen
     Euro nicht überschreitet,
 
 
@@ -3631,8 +3593,7 @@ Meldepflichtigen oder, wenn es sich bei dem Meldepflichtigen um eine
 nicht bilanzierende inländische Zweigniederlassung oder Betriebsstätte
 eines ausländischen Unternehmens handelt, nach dem Stand des
 Bilanzstichtages des ausländischen Unternehmens zu erstatten, wobei
-die Angaben gemäß Anlage K4 „Vermögen von Ausländern im Inland“
-enthalten sein müssen.
+die Angaben gemäß Anlage 3 enthalten sein müssen.
 
 (6) Meldepflichtig ist
 
@@ -3649,53 +3610,49 @@ enthalten sein müssen.
 
 
 
-#### § 66 Meldung von Forderungen und Verbindlichkeiten
+#### § 66 Meldungen von Forderungen und Verbindlichkeiten
 
-(1) Inländer, ausgenommen natürliche Personen, monetäre
-Finanzinstitute gemäß Artikel 1 erster Gedankenstrich der Verordnung
-(EG) Nr. 25/2009 der Europäischen Zentralbank vom 19. Dezember 2008
-über die Bilanz des Sektors der monetären Finanzinstitute (ABl. L 15
-vom 20.1.2009, S. 14), die zuletzt durch die Verordnung (EU) Nr.
-883/2011 (ABl. L 228 vom 3.9.2011, S. 13) geändert worden ist, und
-Investmentaktiengesellschaften sowie Kapitalverwaltungsgesellschaften
-bezüglich der Forderungen und Verbindlichkeiten ihrer Investmentfonds,
-haben ihre Forderungen und Verbindlichkeiten gegenüber Ausländern der
-Deutschen Bundesbank gemäß der Absätze 2 und 3 in den Fristen des § 71
-Absatz 3 und 4 zu melden, wenn diese Forderungen oder
+(1) Inländer haben ihre Forderungen und Verbindlichkeiten gegenüber
+Ausländern der Deutschen Bundesbank gemäß Absatz 3 innerhalb der Frist
+des § 71 Absatz 3 zu melden, wenn diese Forderungen oder
 Verbindlichkeiten bei Ablauf eines Monats jeweils zusammengerechnet
-mehr als 5 Millionen Euro betragen.
+mehr als 6 Millionen Euro betragen.
 
-(2) Die zu meldenden Forderungen und Verbindlichkeiten gegenüber
-ausländischen Banken müssen die Angaben gemäß Anlage Z5 „Forderungen
-und Verbindlichkeiten aus Finanzbeziehungen mit ausländischen Banken“
-enthalten.
+(2) Von der Meldepflicht nach Absatz 1 ausgenommen sind
 
-(3) Die zu meldenden Forderungen und Verbindlichkeiten gegenüber
-ausländischen Nichtbanken müssen die Angaben gemäß der Anlage Z5a
-Blatt 1/1 „Forderungen und Verbindlichkeiten aus Finanzbeziehungen mit
-verbundenen ausländischen Nichtbanken“, Anlage Z5a Blatt 1/2
-„Forderungen und Verbindlichkeiten aus Finanzbeziehungen mit sonstigen
-ausländischen Nichtbanken“, Anlage Z5a Blatt 2/1 „Forderungen und
-Verbindlichkeiten gegenüber verbundenen ausländischen Nichtbanken aus
-dem Waren- und Dienstleistungsverkehr“ und Anlage Z5a Blatt 2/2
-„Forderungen und Verbindlichkeiten gegenüber sonstigen ausländischen
-Nichtbanken aus dem Waren- und Dienstleistungsverkehr“ enthalten.
+1.  natürliche Personen und
+
+
+2.  monetäre Finanzinstitute nach Artikel 2 Absatz 1 der Verordnung (EU)
+    2021/379 der Europäischen Zentralbank vom 22. Januar 2021 über die
+    Bilanzpositionen der Kreditinstitute und des Sektors der monetären
+    Finanzinstitute (ABl. L 73 vom 3.3.2021, S. 16) in der jeweils
+    geltenden Fassung, Investmentaktiengesellschaften und
+    Investmentkommanditgesellschaften sowie
+    Kapitalverwaltungsgesellschaften bezüglich der Forderungen und
+    Verbindlichkeiten ihrer Investmentfonds.
+
+
+
+
+(3) Die zu meldenden Forderungen und Verbindlichkeiten müssen die
+Angaben nach Anlage 4 enthalten.
 
 (4) Inländer, die der Meldepflicht nach Absatz 1 unterliegen und deren
 Forderungen oder Verbindlichkeiten aus Finanzbeziehungen mit
 Ausländern bei Ablauf eines Quartals mehr als 500 Millionen Euro
-betragen, haben ihre Forderungen und Verbindlichkeiten gegenüber
-Ausländern aus derivativen Finanzinstrumenten nach dem Stand vom
-Quartalsende in der Frist des § 71 Absatz 5 zu melden, wobei die
-Angaben gemäß der Anlage Z5b „Forderungen und Verbindlichkeiten
-gegenüber Ausländern aus derivativen Finanzinstrumenten“ enthalten
+betragen, haben diese Forderungen und Verbindlichkeiten gegenüber
+Ausländern, soweit sie aus derivativen Finanzinstrumenten resultieren,
+nach dem Stand vom Quartalsende in der Frist des § 71 Absatz 4 zu
+melden, wobei in der Meldung die Angaben nach der Anlage 4 enthalten
 sein müssen. Die Bestände sind grundsätzlich mit ihrem beizulegenden
 Zeitwert zu bewerten.
 
-(5) Entfällt für einen Inländer, der für einen vorangegangenen
+(5) Entfällt für einen Inländer, der für den vorangegangenen
 Meldestichtag meldepflichtig war, wegen Unterschreitens der in den
-Absätzen 1 und 4 genannten Betragsgrenzen die Meldepflicht, so hat er
-dies schriftlich oder elektronisch anzuzeigen.
+Absätzen 1 oder 4 genannten Betragsgrenzen die Meldepflicht, so hat er
+dies in der nach § 72 Absatz 1 oder Absatz 3 vorgegebenen Form
+anzuzeigen.
 
 
 ### Abschnitt 3 - Meldung von Zahlungen
@@ -3704,7 +3661,7 @@ dies schriftlich oder elektronisch anzuzeigen.
 #### § 67 Meldung von Zahlungen
 
 (1) Inländer haben der Deutschen Bundesbank in den Fristen des § 71
-Absatz 7 und 8 Zahlungen gemäß Absatz 4 zu melden, die sie
+Absatz 6 Zahlungen gemäß Absatz 4 zu melden, die sie
 
 1.  von Ausländern oder für deren Rechnung von Inländern entgegennehmen
     (eingehende Zahlungen) oder
@@ -3718,32 +3675,42 @@ Absatz 7 und 8 Zahlungen gemäß Absatz 4 zu melden, die sie
 
 (2) Nicht zu melden sind
 
-1.  Zahlungen, die den Betrag von 12 500 Euro oder den Gegenwert in
+1.  Zahlungen, die den Betrag von 50 000 Euro oder den Gegenwert in
     anderer Währung nicht übersteigen,
 
 
-2.  Zahlungen für die Einfuhr, Ausfuhr oder Verbringung von Waren und
+2.  Zahlungen für die Einfuhr, Ausfuhr oder Verbringung von Waren,
 
 
 3.  Zahlungen, die die Gewährung, Aufnahme oder Rückzahlung von Krediten,
     einschließlich der Begründung und Rückzahlung von Guthaben, mit einer
     ursprünglich vereinbarten Laufzeit oder Kündigungsfrist von nicht mehr
-    als zwölf Monaten zum Gegenstand haben.
+    als zwölf Monaten zum Gegenstand haben, und
+
+
+4.  Zinszahlungen für ausländische Anleihen und Geldmarktpapiere.
 
 
 
 
 (3) Zahlungen im Sinne dieses Abschnitts sind auch die Aufrechnung und
 die Verrechnung sowie Zahlungen, die mittels Lastschriftverfahren
-abgewickelt werden. Als Zahlung gilt ferner das Einbringen von Sachen
-und Rechten in Unternehmen, Zweigniederlassungen und Betriebsstätten.
+abgewickelt werden. Als Zahlung gilt ferner:
+
+1.  das Einbringen von Sachen und Rechten in Unternehmen,
+    Zweigniederlassungen und Betriebsstätten und
+
+
+2.  die Übertragung von Kryptowerten im Sinne des § 1 Absatz 11 Satz 4 des
+    Kreditwesengesetzes.
+
+
+
 
 (4) In den Meldungen ein- und ausgehender Zahlungen müssen die Angaben
-gemäß Anlage Z4 „Zahlungen im Außenwirtschaftsverkehr” enthalten sein.
-Im Fall von Zahlungen im Zusammenhang mit Wertpapiergeschäften und
-Finanzderivaten müssen die Angaben gemäß Anlage Z10
-„Wertpapiergeschäfte und Finanzderivate im Außenwirtschaftsverkehr“
-enthalten sein.
+gemäß Anlage 5 enthalten sein. Im Fall von Zahlungen im Zusammenhang
+mit Wertpapiergeschäften und Finanzderivaten müssen die Angaben gemäß
+Anlage 6 enthalten sein.
 
 (5) In den Meldungen sind aussagefähige Angaben zu den zugrunde
 liegenden Leistungen oder zum Grundgeschäft zu machen und die
@@ -3756,87 +3723,38 @@ sind anstelle der Angaben zum Grundgeschäft die Bezeichnungen der
 Wertpapiere, die internationale Wertpapierkennnummer sowie Nennbetrag
 oder Stückzahl anzugeben.
 
-
-#### § 68 Meldung von Zahlungen im Transithandel
-
-(1) Sind Meldungen nach § 67 Absatz 1 aufgrund von
-Transithandelsgeschäften abzugeben, sind zusätzlich zu § 67 Absatz 4
-noch folgende Angaben zu machen:
-
-1.  die Benennung der Ware,
+(6) Der Meldepflichtige nach Absatz 1, der eine ausgehende Zahlung im
+Transithandelsgeschäft gemeldet hat und die Transithandelsware danach
+in das Inland einführt oder verbringt, hat den ursprünglich gemeldeten
+Betrag als „Stornierung im Transithandel“ der Deutschen Bundesbank in
+der Frist des § 71 Absatz 6 zu melden.
 
 
-2.  die zweistellige Kapitelnummer des Warenverzeichnisses für die
-    Außenhandelsstatistik und
+#### (XXXX) §§ 68 und 69 (weggefallen)
 
-
-3.  das Land, in dem der ausländische Vertragspartner seinen Sitz hat.
-
-
-
-
-(2) Der Meldepflichtige gemäß § 67 Absatz 1, der eine ausgehende
-Zahlung im Transithandel gemeldet hat und die Transithandelsware
-danach in das Inland einführt oder verbringt, hat den ursprünglich
-gemeldeten Betrag als „Stornierung im Transithandel” der Deutschen
-Bundesbank in der Frist des § 71 Absatz 7 anzuzeigen.
-
-
-#### § 69 Meldung von Zahlungen der Seeschifffahrtsunternehmen
-
-Inländer, die ein Seeschifffahrtsunternehmen betreiben, haben
-abweichend von § 67 Zahlungen, die sie im Zusammenhang mit dem Betrieb
-der Seeschifffahrt entgegennehmen oder leisten, der Deutschen
-Bundesbank in der Frist des § 71 Absatz 7 zu melden. In der Meldung
-müssen die Angaben gemäß Anlage Z8 „Einnahmen und Ausgaben der
-Seeschifffahrt“ enthalten sein.
 
 
 #### § 70 Meldungen der Geldinstitute
 
 (1) Inländische Geldinstitute haben der Deutschen Bundesbank in der
-Frist des § 71 Absatz 8 zu melden:
+Frist des § 71 Absatz 6 zu melden:
 
 1.  Zahlungen für die Veräußerung oder den Erwerb von Wertpapieren und
     Finanzderivaten, die das Geldinstitut für eigene oder fremde Rechnung
     an Ausländer verkauft oder von Ausländern kauft, sowie Zahlungen, die
     das Geldinstitut im Zusammenhang mit der Einlösung inländischer
     Wertpapiere an Ausländer leistet oder von diesen erhält; in den
-    Meldungen müssen die Angaben gemäß Anlage Z10 „Wertpapiergeschäfte und
-    Finanzderivate im Außenwirtschaftsverkehr“ enthalten sein;
+    Meldungen müssen die Angaben gemäß Anlage 6 enthalten sein;
 
 
 2.  Zins- und Dividendenzahlungen auf inländische Wertpapiere, die sie an
     Ausländer leisten oder von diesen erhalten; in den Meldungen müssen
-    die Angaben gemäß Anlage Z11 „Zahlungen für Wertpapier-Erträge im
-    Außenwirtschaftsverkehr“ enthalten sein;
+    die Angaben gemäß Anlage 5 enthalten sein;
 
 
-3.  ein- und ausgehende Zahlungen für Zinsen und zinsähnliche Erträge und
-    Aufwendungen, ausgenommen Wertpapierzinsen, die sie für eigene
-    Rechnung von Ausländern entgegennehmen oder an Ausländer leisten; in
-    den Meldungen müssen die Angaben gemäß Anlage Z14 „Zinseinnahmen und
-    zinsähnliche Erträge im Außenwirtschaftsverkehr (ohne
-    Wertpapierzinsen)“ und Anlage Z15 „Zinsausgaben und zinsähnliche
-    Aufwendungen im Außenwirtschaftsverkehr (ohne Wertpapierzinsen)“
-    enthalten sein;
-
-
-4.  im Zusammenhang mit dem Reiseverkehr
-
-    a)  ein- und ausgehende Zahlungen aus Kartenumsätzen; in den Meldungen
-        müssen die Angaben gemäß Anlage Z12 „Zahlungseingänge/Zahlungsausgänge
-        im Reiseverkehr: Karten-Umsätze“ enthalten sein,
-
-
-    b)  ein- und ausgehende Zahlungen aus dem An- und Verkauf von Sorten sowie
-        Umsätze aus dem Verkauf oder aus der Versendung von
-        Fremdwährungsreiseschecks; in den Meldungen müssen die Angaben gemäß
-        Anlage Z13 „Zahlungseingänge/Zahlungsausgänge im Reiseverkehr: Sorten
-        und Fremdwährungsreiseschecks“ enthalten sein.
-
-
-
+3.  im Zusammenhang mit dem Reiseverkehr ein- und ausgehende Zahlungen aus
+    Kartenumsätzen; in den Meldungen müssen die Angaben nach Anlage 7
+    enthalten sein.
 
 
 
@@ -3859,8 +3777,8 @@ Frist des § 71 Absatz 8 zu melden:
 
 
 
-(3) Absatz 1 Nummer 1 und 3 ist nicht anzuwenden auf Zahlungen, die
-den Betrag von 12 500 Euro oder den Gegenwert in anderer Währung nicht
+(3) Absatz 1 Nummer 1 ist nicht anzuwenden auf Zahlungen, die den
+Betrag von 50 000 Euro oder den Gegenwert in anderer Währung nicht
 übersteigen.
 
 (4) Bei Meldungen nach Absatz 1 Nummer 1 sind die Kennzahlen der
@@ -3878,50 +3796,36 @@ anzuwenden.
 
 #### § 71 Meldefristen
 
-(1) Meldungen gemäß § 64 nach Anlage K3 sind einmal jährlich
-spätestens bis zum letzten Werktag des sechsten auf den Bilanzstichtag
-des Meldepflichtigen oder, soweit der Meldepflichtige nicht
-bilanziert, des sechsten auf den 31. Dezember folgenden Kalendermonats
+(1) Meldungen gemäß § 64 nach Anlage 2 sind einmal jährlich spätestens
+bis zum letzten Werktag des sechsten auf den Bilanzstichtag des
+Meldepflichtigen oder, soweit der Meldepflichtige nicht bilanziert,
+des sechsten auf den 31. Dezember folgenden Kalendermonats
 einzureichen.
 
-(2) Meldungen gemäß § 65 nach Anlage K4 sind einmal jährlich
-spätestens bis zum letzten Werktag des sechsten auf den Bilanzstichtag
-des Meldepflichtigen oder, soweit es sich bei dem Meldepflichtigen um
-eine nicht bilanzierende inländische Zweigniederlassung oder
-Betriebsstätte eines ausländischen Unternehmens handelt, des sechsten
-auf den Bilanzstichtag des ausländischen Unternehmens folgenden Monats
+(2) Meldungen gemäß § 65 nach Anlage 3 sind einmal jährlich spätestens
+bis zum letzten Werktag des sechsten auf den Bilanzstichtag des
+Meldepflichtigen oder, soweit es sich bei dem Meldepflichtigen um eine
+nicht bilanzierende inländische Zweigniederlassung oder Betriebsstätte
+eines ausländischen Unternehmens handelt, des sechsten auf den
+Bilanzstichtag des ausländischen Unternehmens folgenden Monats
 einzureichen.
 
-(3) Meldungen gemäß § 66 Absatz 1 in Verbindung mit § 66 Absatz 2 nach
-Anlage Z5 sind monatlich bis zum zehnten Kalendertag des folgenden
-Monats nach dem Stand des letzten Werktages des Vormonats
-einzureichen.
+(3) Meldungen gemäß § 66 Absatz 1 in Verbindung mit § 66 Absatz 3 nach
+Anlage 4 sind monatlich bis zum zehnten Werktag des folgenden Monats
+nach dem Stand des letzten Werktages des Vormonats einzureichen.
 
-(4) Meldungen gemäß § 66 Absatz 1 in Verbindung mit § 66 Absatz 3 nach
-Anlage Z5a Blatt 1 und Blatt 2 sind monatlich bis zum 20. Kalendertag
-des folgenden Monats nach dem Stand des letzten Werktages des
-Vormonats einzureichen.
-
-(5) Meldungen gemäß § 66 Absatz 1 in Verbindung mit § 66 Absatz 4 nach
-Anlage Z5b sind bis zum
-50\. Kalendertag              nach Ablauf eines jeden
+(4) Meldungen gemäß § 66 Absatz 1 in Verbindung mit § 66 Absatz 4 nach
+Anlage 4 sind bis zum 50. Werktag nach Ablauf eines jeden
 Kalendervierteljahres einzureichen.
 
-(6) Die Anzeige gemäß § 66 Absatz 5 ist für die in § 66 Absatz 1
-genannte Betragsgrenze bis zum 20. Kalendertag des darauf folgenden
+(5) Die Anzeige gemäß § 66 Absatz 5 ist für die in § 66 Absatz 1
+genannte Betragsgrenze bis zum 15. Werktag des darauf folgenden
 Monats, für die in § 66 Absatz 4 genannte Betragsgrenze bis zum 50.
-Kalendertag nach Ablauf des Kalendervierteljahres einzureichen.
+Werktag nach Ablauf des Kalendervierteljahres einzureichen.
 
-(7) Meldungen gemäß § 67 Absatz 1 in Verbindung mit § 67 Absatz 4 Satz
-1 nach Anlage Z4, Meldungen gemäß § 69 nach Anlage Z8 sowie
-Stornomeldungen nach § 68 Absatz 2 sind bis zum siebenten Kalendertag
-des auf die Leistung oder Entgegennahme der Zahlungen oder der Einfuhr
-oder Verbringung der Transithandelsware folgenden Monats einzureichen.
-
-(8) Meldungen gemäß § 67 Absatz 1 in Verbindung mit § 67 Absatz 4 Satz
-2 nach Anlage Z10 sowie Meldungen gemäß § 70 Absatz 1 nach den Anlagen
-Z10, Z11, Z12, Z13, Z14 und Z15 sind bis zum fünften Kalendertag des
-folgenden Monats einzureichen.
+(6) Meldungen nach § 67 Absatz 1 in Verbindung mit § 67 Absatz 4,
+Meldungen nach § 70 Absatz 1 sowie Stornomeldungen nach § 67 Absatz 6
+sind bis zum siebten Werktag des folgenden Monats einzureichen.
 
 
 #### § 72 Meldestelle und Einreichungsweg
@@ -3973,7 +3877,7 @@ Schiffes oder Luftfahrzeugs, das berechtigt ist, die Bundesflagge oder
 das Staatszugehörigkeitszeichen der Bundesrepublik Deutschland zu
 führen, in die folgenden Länder:
 
-1.  Belarus,
+1.  (weggefallen)
 
 
 2.  Birma/Myanmar,
@@ -4003,10 +3907,10 @@ führen, in die folgenden Länder:
 10. (weggefallen)
 
 
-11. Libyen,
+11. (weggefallen)
 
 
-12. Russland,
+12. (weggefallen)
 
 
 13. Simbabwe,
@@ -4024,10 +3928,7 @@ führen, in die folgenden Länder:
 16. Syrien,
 
 
-16a. Venezuela,
-
-
-17. Zentralafrikanische Republik.
+16a. Venezuela.
 
 
 
@@ -4080,14 +3981,7 @@ Organisationen oder Einrichtungen, die aufgeführt sind
     Maßnahmen gegen ISIL (Da´esh) und Al-Qaida und mit ihnen verbündete
     Personen, Gruppen, Unternehmen und Einrichtungen und zur Aufhebung des
     Gemeinsamen Standpunkts 2002/402/GASP (ABl. L 255 vom 21.9.2016, S.
-    25),
-
-
-7.  in der jeweils geltenden Fassung der Anhänge I und II des Beschlusses
-    (GASP) 2022/2319 des Rates vom 25. November 2022 über restriktive
-    Maßnahmen angesichts der Lage in Haiti (ABl. L 307 vom 28.11.2022, S.
-    135), der zuletzt durch den Beschluss (GASP) 2023/1574 (ABl. L 192 vom
-    31\.7.2923, S. 21) geändert worden ist.
+    25).
 
 
 
@@ -4100,7 +3994,7 @@ Teil I Abschnitt A der Ausfuhrliste erfasste Güter, welche unmittelbar
 oder mittelbar für Personen, Organisationen oder Einrichtungen in
 folgenden Ländern bestimmt sind:
 
-1.  Belarus,
+1.  (weggefallen)
 
 
 2.  Birma/Myanmar,
@@ -4109,10 +4003,10 @@ folgenden Ländern bestimmt sind:
 3.  (weggefallen)
 
 
-4.  Demokratische Republik Kongo,
+4.  (weggefallen)
 
 
-5.  Demokratische Volksrepublik Korea,
+5.  (weggefallen)
 
 
 6.  Iran,
@@ -4121,28 +4015,22 @@ folgenden Ländern bestimmt sind:
 7.  Libanon,
 
 
-8.  Libyen,
+8.  (weggefallen)
 
 
-8a. Russland,
+8a. (weggefallen)
 
 
 9.  Simbabwe,
 
 
-10. Sudan,
+10. (weggefallen)
 
 
-10a. Südsudan,
+10a. (weggefallen)
 
 
-11. Syrien,
-
-
-11a. Venezuela,
-
-
-12. Zentralafrikanische Republik.
+11. Syrien.
 
 
 
@@ -4150,13 +4038,13 @@ folgenden Ländern bestimmt sind:
 (2) Das Verbot nach Absatz 1 gilt auch, wenn die Güter zur Verwendung
 in folgenden Ländern bestimmt sind:
 
-1.  Belarus,
+1.  (weggefallen)
 
 
-2.  Demokratische Republik Kongo,
+2.  (weggefallen)
 
 
-3.  Demokratische Volksrepublik Korea,
+3.  (weggefallen)
 
 
 4.  Iran,
@@ -4165,28 +4053,22 @@ in folgenden Ländern bestimmt sind:
 5.  Libanon,
 
 
-6.  Libyen,
+6.  (weggefallen)
 
 
-6a. Russland,
+6a. (weggefallen)
 
 
 7.  Simbabwe,
 
 
-8.  Sudan,
+8.  (weggefallen)
 
 
-8a. Südsudan,
+8a. (weggefallen)
 
 
-9.  Syrien,
-
-
-9a. Venezuela,
-
-
-10. Zentralafrikanische Republik.
+9.  Syrien.
 
 
 
@@ -4198,29 +4080,7 @@ in folgenden Ländern bestimmt sind:
 Ausfuhr, die Durchfuhr oder Handels- und Vermittlungsgeschäfte unter
 den Voraussetzungen der Absätze 2 bis 17 genehmigt werden.
 
-(2) Absatz 1 gilt in Bezug auf Belarus für
-
-1.  nichtletale militärische Güter, die ausschließlich für humanitäre oder
-    Schutzzwecke oder für Programme der Vereinten Nationen und der
-    Europäischen Union zum Aufbau von Institutionen oder für
-    Krisenbewältigungsoperationen der Europäischen Union und der Vereinten
-    Nationen bestimmt sind,
-
-
-2.  Fahrzeuge, die nicht für den Kampfeinsatz bestimmt sind, die bei der
-    Herstellung oder nachträglich mit einer Kugelsicherung ausgerüstet
-    wurden und nur zum Schutz des Personals der Europäischen Union und
-    ihrer Mitgliedstaaten in Belarus bestimmt sind, und
-
-
-3.  Schutzkleidung, die vom Personal der Vereinten Nationen, der
-    Europäischen Union oder ihrer Mitgliedstaaten, von Medienvertretern,
-    humanitären Helfern, Entwicklungshelfern oder von diesen Personen
-    beigeordnetem Personal ausschließlich zur eigenen Verwendung
-    vorübergehend nach Belarus ausgeführt wird.
-
-
-
+(2) (weggefallen)
 
 (3) Absatz 1 gilt in Bezug auf Birma/Myanmar für
 
@@ -4245,7 +4105,8 @@ den Voraussetzungen der Absätze 2 bis 17 genehmigt werden.
 
 
 
-(4) Absatz 1 gilt in Bezug auf die Demokratische Republik Kongo für
+(4) Absatz 1 gilt in Bezug auf den Verkauf, die Ausfuhr und die
+Durchfuhr in die Demokratische Republik Kongo für
 
 1.  Güter für den ausschließlichen Zweck der Unterstützung der Mission der
     Organisation der Vereinten Nationen in der Demokratischen Republik
@@ -4274,12 +4135,12 @@ den Voraussetzungen der Absätze 2 bis 17 genehmigt werden.
 
 
 
-(5) Absatz 1 gilt in Bezug auf die Demokratische Volksrepublik Korea
-für Fahrzeuge, die nicht für den Kampfeinsatz bestimmt sind, die bei
-der Herstellung oder nachträglich mit einer Kugelsicherung ausgerüstet
-wurden und nur zum Schutz des Personals der Europäischen Union und
-ihrer Mitgliedstaaten in der Demokratischen Volksrepublik Korea
-bestimmt sind.
+(5) Absatz 1 gilt in Bezug auf den Verkauf, die Ausfuhr und die
+Durchfuhr in die Demokratische Volksrepublik Korea für Fahrzeuge, die
+nicht für den Kampfeinsatz bestimmt sind, die bei der Herstellung oder
+nachträglich mit einer Kugelsicherung ausgerüstet wurden und nur zum
+Schutz des Personals der Europäischen Union und ihrer Mitgliedstaaten
+in der Demokratischen Volksrepublik Korea bestimmt sind.
 
 (6) Absatz 1 gilt in Bezug auf Irak für Güter, die von der Regierung
 Iraks oder von der durch die Resolution 1511 (2003) des
@@ -4287,11 +4148,11 @@ Sicherheitsrates der Vereinten Nationen eingesetzten multinationalen
 Truppe für die Zwecke der Resolution 1546 (2004) des Sicherheitsrates
 der Vereinten Nationen benötigt werden.
 
-(7) Absatz 1 gilt in Bezug auf Iran für Fahrzeuge, die nicht für den
-Kampfeinsatz bestimmt sind, die bei der Herstellung oder nachträglich
-mit einer Kugelsicherung ausgerüstet wurden und nur zum Schutz des
-Personals der Europäischen Union und ihrer Mitgliedstaaten in Iran
-bestimmt sind.
+(7) Absatz 1 gilt in Bezug auf den Verkauf, die Ausfuhr und die
+Durchfuhr nach Iran für Fahrzeuge, die nicht für den Kampfeinsatz
+bestimmt sind, die bei der Herstellung oder nachträglich mit einer
+Kugelsicherung ausgerüstet wurden und nur zum Schutz des Personals der
+Europäischen Union und ihrer Mitgliedstaaten in Iran bestimmt sind.
 
 (8) Absatz 1 gilt in Bezug auf Libanon für
 
@@ -4313,81 +4174,9 @@ bestimmt sind.
 
 
 
-(9) Absatz 1 gilt in Bezug auf Libyen für
+(9) (weggefallen)
 
-1.  nichtletale militärische Güter, die ausschließlich für humanitäre oder
-    Schutzzwecke bestimmt sind,
-
-
-2.  die sonstige Lieferung, den sonstigen Verkauf oder die sonstige
-    Weitergabe von Rüstungsgütern,
-
-
-3.  Schutzkleidung, einschließlich Körperschutzwesten und Militärhelmen,
-    die vom Personal der Vereinten Nationen, der Europäischen Union oder
-    ihrer Mitgliedstaaten, von Medienvertretern, humanitären Helfern,
-    Entwicklungshelfern oder von diesen Personen beigeordnetem Personal
-    ausschließlich zur eigenen Verwendung vorübergehend nach Libyen
-    ausgeführt wird,
-
-
-4.  nichtletale militärische Güter, die ausschließlich für die
-    Unterstützung der libyschen Regierung in den Bereichen Sicherheit und
-    Entwaffnung bestimmt sind, und
-
-
-5.  Kleinwaffen und leichte Waffen sowie dazugehörige Güter, die einzig
-    für den Gebrauch durch Personal der Vereinten Nationen,
-    Medienvertreter, humanitäre Helfer, Entwicklungshelfer oder durch von
-    diesen Personen beigeordnetes Personal vorübergehend nach Libyen
-    ausgeführt werden.
-
-
-
-
-(10) Absatz 1 gilt in Bezug auf Russland für:
-
-1.  Hydrazin mit einer Mindestkonzentration von 70 Prozent und
-    Monomethylhydrazin
-
-    a)  zur Verwendung für Trägersysteme, die von Startorganisationen der
-        Mitgliedstaaten der Europäischen Union oder in einem Mitgliedstaat der
-        Europäischen Union ansässigen Startorganisationen betrieben werden,
-
-
-    b)  zur Verwendung für Starts im Rahmen von Raumfahrtprogrammen der
-        Europäischen Union, ihrer Mitgliedstaaten oder der Europäischen
-        Weltraumorganisation oder
-
-
-    c)  zur Betankung von Satelliten durch in einem Mitgliedstaat ansässige
-        Satellitenhersteller,
-
-
-
-
-
-2.  Hydrazin mit einer Mindestkonzentration von 70 Prozent zur Verwendung
-    im Rahmen der ExoMars-Mission 2020, das bestimmt ist
-
-    a)  zur Erprobung und für den Flugbetrieb des ExoMars-Abstiegsmoduls bis
-        zu einer Gesamtmenge von 5 000 Kilogramm für die gesamte Dauer der
-        Mission oder
-
-
-    b)  für den Flugbetrieb des ExoMars-Trägermoduls bis zu einer Gesamtmenge
-        von 300 Kilogramm.
-
-
-
-
-
-
-In den Fällen des Satzes 1 Nummer 1 ist die genehmigungsfähige Menge
-an Hydrazin oder Monomethylhydrazin für den jeweiligen Start oder
-Satellit, für den sie bestimmt ist, zu berechnen, und darf im Fall des
-Hydrazins mit einer Mindestkonzentration von 70 Prozent 800 Kilogramm
-für jeden einzelnen Start oder Satellit nicht überschreiten.
+(10) (weggefallen)
 
 (11) Absatz 1 gilt in Bezug auf Simbabwe für
 
@@ -4411,44 +4200,44 @@ für jeden einzelnen Start oder Satellit nicht überschreiten.
 
 (12) Absatz 1 gilt in Bezug auf Somalia für
 
-1.  Güter, die ausschließlich zur Unterstützung des Personals der
-    Vereinten Nationen, einschließlich der Hilfsmission der Vereinten
-    Nationen in Somalia (UNSOM), oder zur Nutzung durch diese bestimmt
-    sind,
-
-
-2.  Güter, die ausschließlich zur Unterstützung der Übergangsmission der
-    Afrikanischen Union in Somalia (ATMIS) und der strategischen Partner
-    von ATMIS, die ausschließlich im Rahmen des Strategischen
-    Einsatzkonzepts der Afrikanischen Union (AU) sowie in Zusammenarbeit
-    und Abstimmung mit ATMIS agieren, oder zur Nutzung durch diese
+1.  Güter, die ausschließlich zur Unterstützung der Regierung der
+    Bundesrepublik Somalia, der Somalischen Nationalarmee, des Nationalen
+    Nachrichten- und Sicherheitsdienstes, der Somalischen Nationalpolizei,
+    des Somalischen Strafvollzugskorps oder zur Nutzung durch diese
     bestimmt sind,
 
 
-3.  Güter, die zur Unterstützung der Ausbildungs- und
-    Unterstützungsmaßnahmen der Europäischen Union, der Türkei, des
-    Vereinigten Königreichs Großbritannien und Nordirland, der Vereinigten
-    Staaten von Amerika oder anderer staatlicher Streitkräfte, die
-    entweder im Rahmen des Übergangsplans für Somalia (Somalia Transition
-    Plan, STP) tätig sind oder im Hinblick auf die Zwecke der Resolution
-    2662 (2022) ein Abkommen über die Rechtsstellung der Einsatzkräfte
-    oder über die Rechtsstellung der Mission mit der Bundesregierung
-    Somalias (Federal Government of Somalia, FGS) geschlossen und den
-    Sanktionsausschuss über den Abschluss eines solchen Abkommens
-    unterrichtet haben, und zur Nutzung durch diese bestimmt sind,
-
-
-4.  Güter, die ausschließlich zum Aufbau der somalischen Sicherheits- und
-    Polizeiinstitutionen auf nationaler und lokaler Ebene zur
-    Gewährleistung der Sicherheit der somalischen Bevölkerung bestimmt
+2.  Güter, die ausschließlich zur Unterstützung des Personals der
+    Vereinten Nationen, einschließlich der Hilfsmission der Vereinten
+    Nationen in Somalia (UNSOM) und des Unterstützungsbüros der Vereinten
+    Nationen in Somalia (UNSOS) oder zur Nutzung durch diese bestimmt
     sind,
 
 
+3.  Güter, die ausschließlich zur Unterstützung der Übergangsmission der
+    Afrikanischen Union in Somalia (ATMIS) und ihrer Truppen und
+    Polizeikräfte stellenden Länder sowie ihrer strategischen Partner, die
+    ausschließlich nach dem letztgültigen strategischen Einsatzkonzept der
+    Afrikanischen Union und in Zusammenarbeit und Abstimmung mit der ATMIS
+    tätig werden oder zur Nutzung durch diese bestimmt sind,
+
+
+4.  Güter, die ausschließlich zur Unterstützung der Ausbildungs- und
+    Unterstützungsmaßnahmen der Europäischen Union, der Türkei, des
+    Vereinigten Königreichs Großbritannien und Nordirland und der
+    Vereinigten Staaten von Amerika sowie aller sonstigen Kräfte von
+    Staaten, die ein Abkommen über die Rechtsstellung der Truppen oder
+    eine Vereinbarung mit der Regierung der Bundesrepublik Somalia
+    geschlossen haben, mit der Maßgabe, dass sie den Sanktionsausschuss
+    über die Existenz solcher Abkommen benachrichtigt haben, oder zur
+    Nutzung durch diese bestimmt sind,
+
+
 5.  Schutzkleidung, einschließlich Körperschutzwesten und Militärhelme,
-    die vom Personal der Vereinten Nationen, von Medienvertretern und
-    humanitären Helfern und Entwicklungshelfern sowie beigeordnetem
-    Personal ausschließlich zur eigenen Verwendung vorübergehend nach
-    Somalia ausgeführt wird, und
+    die vom Personal der Vereinten Nationen, von Medienvertretern,
+    Sicherheitsunternehmen, humanitären Helfern oder Entwicklungshelfern
+    sowie beigeordnetem Personal ausschließlich zum persönlichen Gebrauch
+    vorübergehend nach Somalia ausgeführt wird, und
 
 
 6.  nichtletale militärische Güter, die ausschließlich für humanitäre oder
@@ -4457,7 +4246,8 @@ für jeden einzelnen Start oder Satellit nicht überschreiten.
 
 
 
-(13) Absatz 1 gilt in Bezug auf Sudan für
+(13) Absatz 1 gilt in Bezug auf den Verkauf, die Ausfuhr und die
+Durchfuhr nach Sudan für
 
 1.  nichtletale militärische Ausrüstung, die ausschließlich bestimmt ist
     für
@@ -4502,7 +4292,8 @@ für jeden einzelnen Start oder Satellit nicht überschreiten.
 
 
 
-(14) Absatz 1 gilt in Bezug auf Südsudan für
+(14) Absatz 1 gilt in Bezug auf den Verkauf, die Ausfuhr und die
+Durchfuhr nach Südsudan für
 
 1.  Güter, die ausschließlich für die Unterstützung des Personals der
     Vereinten Nationen, einschließlich der Mission der vereinten Nationen
@@ -4588,7 +4379,8 @@ für jeden einzelnen Start oder Satellit nicht überschreiten.
 
 
 
-(16) Absatz 1 gilt in Bezug auf Venezuela für
+(16) Absatz 1 gilt in Bezug auf den Verkauf, die Ausfuhr und die
+Durchfuhr nach Venezuela für
 
 1.  Güter, deren Lieferung der Erfüllung von Verträgen oder Nebenverträgen
     dient, die vor dem 13. November 2017 geschlossen und dem Bundesamt für
@@ -4620,73 +4412,7 @@ für jeden einzelnen Start oder Satellit nicht überschreiten.
 
 
 
-(17) Absatz 1 gilt in Bezug auf die Zentralafrikanische Republik für
-
-1.  Güter, die ausschließlich zur Unterstützung der Mehrdimensionalen
-    integrierten Stabilisierungsmission der Vereinten Nationen in der
-    Zentralafrikanischen Republik (MINUSCA), der Missionen der
-    Europäischen Union und der in die Zentralafrikanische Republik
-    entsandten französischen Truppen sowie der Truppen anderer
-    Mitgliedstaaten der Vereinten Nationen oder zur Verwendung durch diese
-    bestimmt sind,
-
-
-2.  Schutzkleidung, einschließlich Körperschutzwesten und Militärhelme,
-    die von Personal der Vereinten Nationen, Personal der Europäischen
-    Union oder ihrer Mitgliedstaaten, Medienvertretern sowie humanitären
-    Helfern und Entwicklungshelfern oder von diesen Personen beigeordnetem
-    Personal ausschließlich zur eigenen Verwendung vorübergehend in die
-    Zentralafrikanische Republik ausgeführt wird,
-
-
-3.  Kleinwaffen und dazugehörige Güter, die ausschließlich zur Verwendung
-    durch internationale Patrouillen bestimmt sind, die in dem
-    Dreistaaten-Schutzgebiet Sangha-Fluss für Sicherheit sorgen, um gegen
-    Wilderei, den Elfenbein- und Waffenschmuggel und andere Aktivitäten
-    vorzugehen, die gegen das innerstaatliche Recht der
-    Zentralafrikanischen Republik oder gegen ihre völkerrechtlichen
-    Verpflichtungen verstoßen,
-
-
-4.  Waffen und Munition, Militärfahrzeuge und -ausrüstungen an die
-    Sicherheitskräfte der Zentralafrikanischen Republik, einschließlich
-    der Institutionen der zivilen öffentlichen Ordnung, sofern solche
-    Waffen, Munition, Fahrzeuge und Ausrüstungen dem ausschließlichen
-    Zweck dienen, den Prozess der Reform des Sicherheitssektors in der
-    Zentralafrikanischen Republik zu unterstützen oder dabei verwendet zu
-    werden,
-
-
-5.  Rüstungsgüter und dazugehörige Güter im Einklang mit dem Verfahren
-    nach Ziffer 54 f) der Resolution 2127 (2013) des Sicherheitsrates der
-    Vereinten Nationen,
-
-
-6.  Güter, die von tschadischen oder sudanesischen Streitkräften
-    ausschließlich zur eigenen Verwendung bei internationalen Patrouillen
-    der am 23. Mai 2011 in Khartum von der Zentralafrikanischen Republik,
-    Tschad und Sudan zur Erhöhung der Sicherheit in den gemeinsamen
-    Grenzgebieten in Zusammenarbeit mit der MINUSCA eingerichteten
-    dreiseitigen Truppe in die Zentralafrikanische Republik verbracht
-    wurden, und
-
-
-7.  nichtletale militärische Güter, die ausschließlich bestimmt sind
-
-    a)  für humanitäre Zwecke, oder
-
-
-
-
-    b)  für Schutzzwecke, zur Unterstützung des Prozesses der Reform des
-        Sicherheitssektors in der Zentralafrikanischen Republik oder zur
-        Nutzung in diesem Prozess.
-
-
-
-
-
-
+(17) (weggefallen)
 
 
 #### § 76a Ausnahmen von § 74 Absatz 1 und § 75 in Einzelfällen
@@ -4740,10 +4466,7 @@ unabhängig davon, ob die Güter ihren Ursprung in diesen Ländern haben:
 4.  Libyen,
 
 
-5.  Syrien,
-
-
-6.  Russland.
+5.  Syrien.
 
 
 
@@ -4905,8 +4628,7 @@ Außenwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
 (2) Ordnungswidrig im Sinne des § 19 Absatz 3 Nummer 1 Buchstabe b des
 Außenwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
-1.  entgegen § 5 Absatz 1 Satz 1 eine Urkunde nicht oder nicht rechtzeitig
-    zurückgibt,
+1.  (weggefallen)
 
 
 2.  entgegen § 6 Absatz 1 eine Urkunde nicht oder nicht mindestens fünf
@@ -4992,12 +4714,11 @@ Außenwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 19. entgegen § 64 Absatz 1, § 65 Absatz 1, § 66 Absatz 1 oder Absatz 4
-    Satz 1, § 67 Absatz 1, auch in Verbindung mit § 68 Absatz 1, entgegen
-    § 69 oder § 70 Absatz 1 eine Meldung nicht, nicht richtig, nicht
-    vollständig oder nicht rechtzeitig macht oder
+    Satz 1, § 67 Absatz 1 oder § 70 Absatz 1 eine Meldung nicht, nicht
+    richtig, nicht vollständig oder nicht rechtzeitig macht oder
 
 
-20. entgegen § 68 Absatz 2 eine Anzeige nicht, nicht richtig, nicht
+20. entgegen § 67 Absatz 6 eine Stornomeldung nicht, nicht richtig, nicht
     vollständig oder nicht rechtzeitig erstattet.
 
 
@@ -5010,358 +4731,165 @@ Außenwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
 Außenwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
 entgegen
 
-1.  Artikel 2 Absatz 1 der Verordnung (EWG) Nr. 3541/92 des Rates vom 7.
-    Dezember 1992 zum Verbot der Erfüllung irakischer Ansprüche in Bezug
-    auf Verträge und Geschäfte, deren Durchführung durch die Resolution
-    661 (1990) des Sicherheitsrates der Vereinten Nationen und mit ihr in
-    Verbindung stehende Resolutionen berührt wurde (ABl. L 361 vom
-    10\.12.1992, S. 1),
+1.  Artikel 2 Absatz 1 der Verordnung (EWG) Nr. 3541/92 in der Fassung vom
+    7\. Dezember 1992,
 
 
-2.  Artikel 2 Absatz 1 der Verordnung (EG) Nr. 3275/93 des Rates vom 29.
-    November 1993 zum Verbot der Erfüllung von Ansprüchen im Zusammenhang
-    mit Verträgen und Geschäften, deren Durchführung durch die Resolution
-    883 (1993) des Sicherheitsrates der Vereinten Nationen und mit ihr in
-    Verbindung stehende Resolutionen berührt wurde (ABl. L 295 vom
-    30\.11.1993, S. 4
-    ),
+2.  Artikel 2 Absatz 1 der Verordnung (EG) Nr. 3275/93 in der Fassung vom
+    29\. November 1993,
 
 
-3.  Artikel 2 Absatz 1 der Verordnung (EG) Nr. 1264/94 des Rates vom 30.
-    Mai 1994 über das Verbot der Erfüllung von Ansprüchen der haitischen
-    Behörden im Zusammenhang mit Verträgen und Geschäften, deren
-    Durchführung durch die Maßnahmen auf Grund der Resolutionen 917
-    (1994), 841 (1993), 873 (1993) und 875 (1993) des Sicherheitsrates der
-    Vereinten Nationen berührt wurde (ABl. L 139 vom 2.6.1994, S. 4),
+3.  Artikel 2 Absatz 1 der Verordnung (EG) Nr. 1264/94 in der Fassung vom
+    30\. Mai 1994,
 
 
-4.  Artikel 2 Absatz 1 der Verordnung (EG) Nr. 1733/94 des Rates vom 11.
-    Juli 1994 zum Verbot der Erfüllung von Ansprüchen im Zusammenhang mit
-    Verträgen und Geschäften, deren Durchführung durch die Resolution 757
-    (1992) des Sicherheitsrates der Vereinten Nationen und mit ihr in
-    Verbindung stehende Resolutionen berührt wurde (ABl. L 182 vom
-    16\.7.1994, S. 1),
+4.  Artikel 2 Absatz 1 der Verordnung (EG) Nr. 1733/94 in der Fassung vom
+    11\. Juli 1994,
 
 
-4a. Artikel 7a Absatz 1 der Verordnung (EG) Nr. 1183/2005 des Rates vom
-    18\. Juli 2005 über restriktive Maßnahmen angesichts der Lage in der
-    Demokratischen Republik Kongo (ABl. L 193 vom 23.7.2005, S. 1), die
-    zuletzt durch die Durchführungsverordnung (EU) 2021/2177 (ABl. L 443
-    vom 10.12.2021, S.3) geändert worden ist,
+5.  Artikel 7a Absatz 1 der Verordnung (EG) Nr. 1183/2005 in der Fassung
+    vom 17. März 2025,
 
 
-4b. Artikel 8d Absatz 1 der Verordnung (EG) Nr. 765/2006 des Rates vom 18.
-    Mai 2006 über restriktive Maßnahmen angesichts der Lage in Belarus und
-    der Beteiligung von Belarus an der Aggression Russlands gegen die
-    Ukraine (ABl. L 134 vom 20.5.2006, S. 1), die zuletzt durch die
-    Verordnung (EU) 2022/577 (ABl. L 111 vom 8.4.2022, S. 67) geändert
-    worden ist,
+6.  Artikel 8d Absatz 1 der Verordnung (EG) Nr. 765/2006 in der Fassung
+    vom 18. Juli 2025,
 
 
-4c. Artikel 27 Absatz 1 der Verordnung (EU) Nr. 36/2012 des Rates vom 18.
-    Januar 2012 über restriktive Maßnahmen angesichts der Lage in Syrien
-    und zur Aufhebung der Verordnung (EU) Nr. 442/2011 (ABl. L 16 vom
-    19\.1.2012, S. 1, L 259 vom 27.9.2012, S. 7), die zuletzt durch die
-    Verordnung (EU) Nr. 1323/2014 (ABl. L 358 vom 13.12.2014, S. 1)
-    geändert worden ist,
+7.  Artikel 27 Absatz 1 der Verordnung (EU) Nr. 36/2012 in der Fassung vom
+    27\. Mai 2025,
 
 
-5.  Artikel 38 Absatz 1 der Verordnung (EU) Nr. 267/2012 des Rates vom 23.
-    März 2012 über restriktive Maßnahmen gegen Iran und zur Aufhebung der
-    Verordnung (EU) Nr. 961/2010 (ABl. L 88 vom 24.3.2012, S. 1, L 332 vom
-    4\.12.2012, S. 31), die zuletzt durch die Durchführungsverordnung (EU)
-    2016/74 (ABl. L 16 vom 23.1.2016, S. 6) geändert worden ist,
+8.  Artikel 38 Absatz 1 der Verordnung (EU) Nr. 267/2012 in der Fassung
+    vom 10. September 2024,
 
 
-5a. Artikel 4h Absatz 1 der Verordnung (EU) Nr. 401/2013 des Rates vom 2.
-    Mai 2013 über restriktive Maßnahmen gegen Myanmar/Birma und zur
-    Aufhebung der Verordnung (EG) Nr. 194/2008 (ABl. L 121 vom 3.5.2013,
-    S. 1), die zuletzt durch die Durchführungsverordnung (EU) 2018/1117
-    (ABl. L 204 vom 13.8.2018, S. 9) geändert worden ist,
+9.  Artikel 4h Absatz 1 der Verordnung (EU) Nr. 401/2013 in der Fassung
+    vom 25. April 2025,
 
 
-6.  Artikel 14 Absatz 1 der Verordnung (EU) Nr. 224/2014 des Rates vom 10.
-    März 2014 über restriktive Maßnahmen angesichts der Lage in der
-    Zentralafrikanischen Republik (ABl. L 70 vom 11.3.2014, S. 1),
+10. Artikel 14 Absatz 1 der Verordnung (EU) Nr. 224/2014 in der Fassung
+    vom 24. März 2025,
 
 
-7.  Artikel 6 Absatz 1 der Verordnung (EU) Nr. 692/2014 des Rates vom 23.
-    Juni 2014 über restriktive Maßnahmen als Reaktion auf die
-    rechtswidrige Eingliederung der Krim und Sewastopols durch Annexion
-    (ABl. L 183 vom 24.6.2014, S. 9), die zuletzt durch die Verordnung
-    (EU) Nr. 1351/2014 (ABl. L 365 vom 19.12.2014, S. 46, L 37 vom
-    13\.2.2015, S. 24) geändert worden ist,
+11. Artikel 6 Absatz 1 der Verordnung (EU) Nr. 692/2014 in der Fassung vom
+    24\. Februar 2025,
 
 
-8.  Artikel 12 Absatz 1 der Verordnung (EU) Nr. 747/2014 des Rates vom 10.
-    Juli 2014 über restriktive Maßnahmen angesichts der Lage in Sudan und
-    zur Aufhebung der Verordnungen (EG) Nr. 131/2004 und (EG) Nr.
-    1184/2005 (ABl. L 203 vom 11.7.2014, S. 1),
+12. Artikel 12 Absatz 1 der Verordnung (EU) Nr. 747/2014 in der Fassung
+    vom 9. Dezember 2024,
 
 
-9.  (weggefallen)
+13. Artikel 11 Absatz 1 der Verordnung (EU) Nr. 833/2014 in der Fassung
+    vom 18. Juli 2025,
 
 
-10. Artikel 11 Absatz 1 der Verordnung (EU) Nr. 833/2014 des Rates vom 31.
-    Juli 2014 über restriktive Maßnahmen angesichts der Handlungen
-    Russlands, die die Lage in der Ukraine destabilisieren (ABl. L 229 vom
-    31\.7.2014, S. 1), die zuletzt durch die Verordnung (EU) 2023/1214
-    (ABl. L 159 I vom 23.6.2023, S. 1) geändert worden ist,
+14. Artikel 12 Absatz 1 der Verordnung (EU) Nr. 1352/2014 in der Fassung
+    vom 10. September 2024,
 
 
-11. Artikel 12 Absatz 1 der Verordnung (EU) Nr. 1352/2014 des Rates vom
-    18\. Dezember 2014 über restriktive Maßnahmen angesichts der Lage in
-    Jemen (ABl. L 365 vom 19.12.2014, S. 60), die zuletzt durch die
-    Verordnung (EU) 2015/878 (ABl. L 143 vom 9.6.2014, S. 1) geändert
-    worden ist,
+15. Artikel 17 Absatz 1 der Verordnung (EU) 2015/735 in der Fassung vom 8.
+    Juli 2025,
 
 
-12. Artikel 17 Absatz 1 der Verordnung (EU) 2015/735 des Rates vom 7. Mai
-    2015 über restriktive Maßnahmen angesichts der Lage in Südsudan und
-    zur Aufhebung der Verordnung (EU) Nr. 748/2014 (ABl. L 117 vom
-    8\.5.2015, S. 13),
+16. Artikel 53 Absatz 1 der Verordnung (EU) 2017/1509 in der Fassung vom
+    16\. Dezember 2024,
 
 
-13. Artikel 53 Absatz 1 der Verordnung (EU) 2017/1509 des Rates vom 30.
-    August 2017 über restriktive Maßnahmen gegen die Demokratische
-    Volksrepublik Korea und zur Aufhebung der Verordnung (EG) Nr. 329/2007
-    (ABl. L 224 vom 31.8.2017, S. 1), die durch die Verordnung (EU)
-    2017/1858 (ABl. L 265 I vom 16.10.2017, S. 1) geändert worden ist,
+17. Artikel 15 Absatz 1 der Verordnung (EU) 2017/2063 in der Fassung vom
+    9\. Januar 2025,
 
 
-14. Artikel 15 Absatz 1 der Verordnung (EU) 2017/2063 des Rates vom 13.
-    November 2017 über restriktive Maßnahmen angesichts der Lage in
-    Venezuela (ABl. L 295 vom 14.11.2017, S. 21),
+18. Artikel 10 Absatz 1 der Verordnung (EU) 2022/263 in der Fassung vom
+    24\. Februar 2025,
 
 
-15. Artikel 10 Absatz 1 der Verordnung (EU) 2022/263 des Rates vom 23.
-    Februar 2022 über restriktive Maßnahmen als Reaktion auf die
-    Anerkennung der nicht von der Regierung kontrollierten Gebiete der
-    ukrainischen Regionen Donezk und Luhansk und die Entsendung russischer
-    Streitkräfte in diese Gebiete (ABl. L 42 I vom 23.2.2022, S. 77) oder
+19. Artikel 13 Absatz 1 der Verordnung (EU) 2022/2309 in der Fassung vom
+    15\. Juli 2025 oder
 
 
-16. Artikel 13 Absatz 1 der Verordnung (EU) 2022/2309 des Rates vom
-    25\. November 2022 über restriktive Maßnahmen angesichts der Lage in
-    Haiti (ABl. L 307 vom 28.11.2022, S. 17)
+20. Artikel 11 Absatz 1 der Verordnung (EU) 2023/1529 in der Fassung vom
+    25\. Juli 2025
 
 
 
 einen dort genannten Anspruch erfüllt oder einer dort genannten
 Forderung oder einem dort genannten Anspruch stattgibt. Soweit die in
-Satz 1 Nummer 5 genannte Vorschrift auf die Anhänge VIII, IX, XIII und
+Satz 1 Nummer 8 genannte Vorschrift auf die Anhänge VIII, IX, XIII und
 XIV der Verordnung (EU) Nr. 267/2012 verweist, finden diese Anhänge in
 der jeweils geltenden Fassung Anwendung.
 
 (2) Ordnungswidrig im Sinne des § 19 Absatz 4 Satz 1 Nummer 1 des
 Außenwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
-entgegen Artikel 5 Absatz 1 der Verordnung (EG) Nr. 2271/96 des Rates
-vom 22. November 1996 zum Schutz vor den Auswirkungen der
-extraterritorialen Anwendung von einem Drittland erlassener Rechtsakte
-sowie von darauf beruhenden oder sich daraus ergebenden Maßnahmen
-(ABl. L 309 vom 29.11.1996, S. 1, L 179 vom 8.7.1997, S. 10), die
-durch die Verordnung (EG) Nr. 807/2003 (ABl. L 122 vom 16.5.2003, S.
-36) geändert worden ist, einer dort genannten Forderung oder einem
+entgegen Artikel 5 Absatz 1 der Verordnung (EG) Nr. 2271/96 in der
+Fassung vom 6. Juni 2018 einer dort genannten Forderung oder einem
 dort genannten Verbot nachkommt. Soweit die in Satz 1 genannten
 Vorschriften auf den Anhang der Verordnung (EG) Nr. 2271/96 verweisen,
 findet dieser Anhang in der jeweils geltenden Fassung Anwendung.
 
 (3) Ordnungswidrig im Sinne des § 19 Absatz 4 Satz 1 Nummer 2 des
 Außenwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
-entgegen Artikel 4 Absatz 1 der Verordnung (EG) Nr. 2368/2002 des
-Rates vom 20. Dezember 2002 zur Umsetzung des Zertifikationssystems
-des Kimberley-Prozesses für den internationalen Handel mit
-Rohdiamanten (ABl. L 358 vom 31.12.2002, S. 28), die zuletzt durch die
-Durchführungsverordnung (EU) 2022/1359 (ABl. L 205 vom 5.8.2022,
-S. 99) geändert worden ist, ein Behältnis oder ein dazu gehöriges
+entgegen Artikel 4 Absatz 1 der Verordnung (EG) Nr. 2368/2022 in der
+Fassung vom 23. Mai 2025 ein Behältnis oder ein dazu gehöriges
 Zertifikat nicht oder nicht rechtzeitig einer Gemeinschaftsbehörde zur
 Prüfung vorlegt.
 
-(4) Ordnungswidrig im Sinne des § 19 Absatz 4 Satz 1 Nummer 1 des
-Außenwirtschaftsgesetzes handelt, wer gegen die Verordnung (EG) Nr.
-765/2006 verstößt, indem er vorsätzlich oder fahrlässig
-
-1.  entgegen Artikel 1j ein dort genanntes Wertpapier oder ein dort
-    genanntes Geldmarktinstrument kauft oder anderweitig damit handelt,
-
-
-2.  entgegen Artikel 1ja Absatz 1 eine dort genannte Transaktion vornimmt,
-
-
-3.  entgegen Artikel 1jb ein dort genanntes Wertpapier notiert,
-
-
-4.  entgegen Artikel 1k Absatz 1 eine dort genannte Vereinbarung trifft
-    oder
-
-
-5.  entgegen Artikel 1u Absatz 1 eine dort genannte Einlage entgegennimmt.
-
-
-
+(4) Ordnungswidrig im Sinne des § 19 Absatz 4 Satz 1 Nummer 2 des
+Außenwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
+entgegen Artikel 267 Absatz 2 der Verordnung (EU) Nr. 952/2013 in der
+Fassung vom 23. November 2022 eine Ware nicht oder nicht rechtzeitig
+gestellt.
 
 (5) Ordnungswidrig im Sinne des § 19 Absatz 4 Satz 1 Nummer 1 des
 Außenwirtschaftsgesetzes handelt, wer gegen die Verordnung (EU) Nr.
-36/2012 verstößt, indem er vorsätzlich oder fahrlässig
+833/2014 in der Fassung vom 18. Juli 2025 verstößt, indem er
+vorsätzlich oder fahrlässig
 
-1.  entgegen Artikel 24 Buchstabe a oder Buchstabe b eine staatliche oder
-    staatlich garantierte Anleihe kauft oder Vermittlungsdienste im
-    Zusammenhang mit dem Kauf einer staatlichen oder staatlich
-    garantierten Anleihe erbringt,
-
-
-2.  entgegen Artikel 25 Absatz 1 ein neues Konto eröffnet, eine
-    Korrespondenzbankbeziehung aufnimmt, eine neue Repräsentanz eröffnet
-    oder eine Zweigniederlassung, Tochtergesellschaft oder ein neues Joint
-    Venture gründet oder
+1.  entgegen Artikel 5a Absatz 8 Buchstabe a oder b nach dem 22. Juli 2024
+    einen dort genannten Barbestand oder eine dort genannte Einnahme nicht
+    richtig verbucht,
 
 
-3.  entgegen Artikel 25 Absatz 2 Buchstabe b eine Vereinbarung schließt,
-    die die Eröffnung einer Repräsentanz oder die Gründung einer
-    Zweigniederlassung oder Tochtergesellschaft betrifft.
+2.  entgegen Artikel 5a Absatz 8 Buchstabe c Satzteil vor Satz 2 nach dem
+    22\. Juli 2024 einen dort genannten Nettogewinn veräußert,
 
 
-
-
-(6) Ordnungswidrig im Sinne des § 19 Absatz 4 Satz 1 Nummer 1 des
-Außenwirtschaftsgesetzes handelt, wer gegen die Verordnung (EU) Nr.
-267/2012 verstößt, indem er vorsätzlich oder fahrlässig
-
-1.  ohne Genehmigung nach Artikel 2a Absatz 1 Buchstabe d Satzteil vor
-    Satz 2 Ziffer i, auch in Verbindung mit Satz 2, oder Artikel 3a Absatz
-    1 Buchstabe d eine dort genannte Vereinbarung abschließt oder
-
-
-2.  entgegen Artikel 4b Buchstabe c eine dort genannte Vereinbarung
-    schließt.
-
-
-
-
-(7) Ordnungswidrig im Sinne des § 19 Absatz 4 Satz 1 Nummer 2 des
-Außenwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
-entgegen Artikel 267 Absatz 2 der Verordnung (EU) Nr. 952/2013 des
-Europäischen Parlaments und des Rates vom 9. Oktober 2013 zur
-Festlegung des Zollkodex der Union (ABl. L 269 vom 10.10.2013, S. 1),
-die zuletzt durch die Verordnung (EU) 2019/632 (ABl. L 111 vom
-25\.4.2019, S. 54) geändert worden ist, eine Ware nicht oder nicht
-rechtzeitig gestellt.
-
-(8) Ordnungswidrig im Sinne des § 19 Absatz 4 Satz 1 Nummer 1 des
-Außenwirtschaftsgesetzes handelt, wer gegen die Verordnung (EU) Nr.
-692/2014 verstößt, indem er vorsätzlich oder fahrlässig
-
-1.  entgegen Artikel 2a Absatz 1 Buchstabe a oder b eine Beteiligung
-    erwirbt oder ausweitet,
-
-
-2.  entgegen Artikel 2a Absatz 1 Buchstabe c eine dort genannte
-    Vereinbarung trifft,
-
-
-3.  entgegen Artikel 2a Absatz 1 Buchstabe d ein Gemeinschaftsunternehmen
-    gründet oder
-
-
-4.  entgegen Artikel 2a Absatz 1 Buchstabe e eine Wertpapierdienstleistung
-    erbringt.
-
-
-
-
-(9) Ordnungswidrig im Sinne des § 19 Absatz 4 Satz 1 Nummer 1 des
-Außenwirtschaftsgesetzes handelt, wer gegen die Verordnung (EU) Nr.
-833/2014 verstößt, indem er vorsätzlich oder fahrlässig
-
-1.  entgegen Artikel 2e Absatz 3 sich an einem dort genannten Projekt
-    beteiligt oder zu einem solchen Projekt anderweitig beiträgt,
-
-
-2.  entgegen Artikel 2f Absatz 3 für ein Produkt oder eine Dienstleistung
-    wirbt,
-
-
-3.  entgegen Artikel 3a Absatz 1 Buchstabe a oder Absatz 2 Buchstabe a
-    eine bestehende Beteiligung ausweitet,
-
-
-4.  entgegen Artikel 3a Absatz 1 Buchstabe b oder Absatz 2 Buchstabe b
-    sich an einem Darlehen, einem Kredit oder einem sonstigen Finanzmittel
-    beteiligt,
-
-
-5.  entgegen Artikel 3a Absatz 1 Buchstabe c oder Absatz 2 Buchstabe c ein
-    dort genanntes neues Gemeinschaftsunternehmen gründet,
-
-
-6.  entgegen Artikel 5 Absatz 1 bis 3 oder Absatz 4 oder Artikel 5a Absatz
-    1 ein dort genanntes Wertpapier oder ein dort genanntes
-    Geldmarktinstrument kauft oder anderweitig damit handelt,
-
-
-7.  entgegen Artikel 5 Absatz 5 ein dort genanntes Wertpapier notiert oder
-    zum Handel zulässt,
-
-
-8.  entgegen Artikel 5 Absatz 6 Satz 1 oder Artikel 5a Absatz 2 Satz 1
-    eine dort genannte Vereinbarung trifft,
-
-
-9.  entgegen Artikel 5a Absatz 4 eine dort genannte Transaktion vornimmt,
-
-
-10. entgegen Artikel 5aa Absatz 1 ein Geschäft mit einer dort genannten
-    juristischen Person, Organisation oder Einrichtung tätigt,
-
-
-11. entgegen Artikel 5aa Absatz 1a oder Absatz 1b Unterabsatz 1 einen dort
+3.  entgegen Artikel 5aa Absatz 1a oder 1b Unterabsatz 1 einen dort
     genannten Posten bekleidet,
 
 
-12. entgegen Artikel 5b Absatz 1 eine dort genannte Einlage entgegennimmt,
+4.  entgegen Artikel 5ac Absatz 1 sich nach dem 1. November 2025 mit einem
+    dort genannten System oder Nachrichtenübermittlungsdienst verbindet,
 
 
-13. entgegen Artikel 5j Absatz 2 den dort genannten Zugang gewährt,
+5.  entgegen Artikel 5b Absatz 2a nach dem 22. Juli 2024 ein dort
+    genanntes Eigentum, eine dort genannte Kontrolle oder die Bekleidung
+    eines dort genannten Postens gestattet oder
 
 
-14. entgegen Artikel 5l Absatz 1 eine dort genannte Person, Organisation
-    oder Einrichtung unterstützt,
-
-
-15. entgegen Artikel 5m Absatz 1 einen dort genannten Trust oder eine dort
-    genannte ähnliche Rechtsgestaltung registriert oder
-
-
-16. entgegen Artikel 5o Absatz 1 einer dort genannten Person ermöglicht,
+6.  entgegen Artikel 5o Absatz 1 einer dort genannten Person ermöglicht,
     einen dort genannten Posten zu bekleiden.
 
 
 
 
-(10) Ordnungswidrig im Sinne des § 19 Absatz 4 Satz 1 Nummer 2 des
+(6) Ordnungswidrig im Sinne des § 19 Absatz 4 Satz 1 Nummer 2 des
 Außenwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig ohne
 Genehmigung nach Artikel 3 Absatz 2 Satz 1 der Verordnung (EU)
-2015/936 des Europäischen Parlaments und des Rates vom 9. Juni 2015
-über die gemeinsame Regelung der Einfuhren von Textilwaren aus
-bestimmten Drittländern, die nicht unter bilaterale Abkommen,
-Protokolle, andere Vereinbarungen oder eine spezifische
-Einfuhrregelung der Union fallen (ABl. L 160 vom 25.6.2015, S. 1),
-eine dort genannte Einfuhr in den freien Verkehr der Union überführt.
+2015/936 in der Fassung vom 29. November 2017 eine dort genannte
+Einfuhr in den freien Verkehr der Union überführt.
 
-(11) Ordnungswidrig im Sinne des § 19 Absatz 4 Satz 1 Nummer 2 des
+(7) Ordnungswidrig im Sinne des § 19 Absatz 4 Satz 1 Nummer 2 des
 Außenwirtschaftsgesetzes handelt, wer gegen die
-Durchführungsverordnung (EU) 2015/2447 der Kommission vom 24. November
-2015 mit Einzelheiten zur Umsetzung von Bestimmungen der Verordnung
-(EU) Nr. 952/2013 des Europäischen Parlaments und des Rates zur
-Festlegung des Zollkodex der Union (ABl. L 343 vom 29.12.2015, S. 558)
-verstößt, indem er vorsätzlich oder fahrlässig
+Durchführungsverordnung (EU) 2015/2447 in der Fassung vom 28. April
+2025 verstößt, indem er vorsätzlich oder fahrlässig
 
 1.  als Inhaber einer Zulassung oder Bewilligung nach Artikel 166 der
-    Verordnung (EU) Nr. 952/2013 im Ausfuhrverfahren entgegen Artikel 224
-    eine in der Zulassung oder Bewilligung genannte Unterlage oder eine
-    Unterlage, die für die Erfüllung einer in Artikel 267 Absatz 3
-    Buchstabe a, b oder Buchstabe c der Verordnung (EU) Nr. 952/2013
-    genannten Pflicht erforderlich sind, nicht, nicht richtig, nicht
+    Verordnung (EU) Nr. 952/2013 in der Fassung vom 23. November 2022 im
+    Ausfuhrverfahren entgegen Artikel 224 eine in der Zulassung oder
+    Bewilligung genannte Unterlage oder eine Unterlage, die für die
+    Erfüllung einer in Artikel 267 Absatz 3 Buchstabe a, b oder Buchstabe
+    c der Verordnung (EU) Nr. 952/2013 in der Fassung vom 23. November
+    2022 genannten Pflicht erforderlich sind, nicht, nicht richtig, nicht
     vollständig oder nicht rechtzeitig bereithält,
 
 
@@ -5389,120 +4917,10 @@ verstößt, indem er vorsätzlich oder fahrlässig
 
 
 
-(12) Ordnungswidrig im Sinne des § 19 Absatz 4 Satz 1 Nummer 1 des
+(8) Ordnungswidrig im Sinne des § 19 Absatz 4 Satz 1 Nummer 1 des
 Außenwirtschaftsgesetzes handelt, wer gegen die Verordnung (EU)
-2017/1509 verstößt, indem er vorsätzlich oder fahrlässig
-
-1.  entgegen Artikel 17 Absatz 1 eine dort genannte Investition zulässt,
-
-
-2.  entgegen Artikel 17 Absatz 2 Buchstabe a ein Gemeinschaftsunternehmen
-    oder eine Kooperativeinrichtung gründet, unterhält oder betreibt,
-
-
-3.  entgegen Artikel 17 Absatz 2 Buchstabe b ein Finanzmittel oder eine
-    Finanzhilfe bereitstellt,
-
-
-4.  entgegen Artikel 17 Absatz 2 Buchstabe c eine Wertpapierdienstleistung
-    erbringt,
-
-
-5.  entgegen Artikel 17 Absatz 2 Buchstabe d sich an einem dort genannten
-    Gemeinschaftsunternehmen oder einer anderen Geschäftsvereinbarung
-    beteiligt,
-
-
-6.  entgegen Artikel 20 Absatz 1 Buchstabe a eine Immobilie verpachtet,
-    vermietet oder auf andere Weise zur Verfügung stellt,
-
-
-7.  entgegen Artikel 20 Absatz 1 Buchstabe b eine Immobilie pachtet oder
-    mietet,
-
-
-8.  entgegen Artikel 21 Absatz 1 einen Geldtransfer durchführt,
-
-
-9.  entgegen Artikel 21 Absatz 2 eine Transaktion eingeht oder sich daran
-    beteiligt,
-
-
-10. entgegen Artikel 23 Absatz 1 Buchstabe c eine Transaktion nicht
-    ablehnt,
-
-
-11. entgegen Artikel 24 Buchstabe a ein Bankkonto bei einem dort genannten
-    Kredit- oder Finanzinstitut eröffnet,
-
-
-12. entgegen Artikel 24 Buchstabe b eine Korrespondenzbankbeziehung zu
-    einem dort genannten Kredit- oder Finanzinstitut aufnimmt,
-
-
-13. entgegen Artikel 24 Buchstabe c eine Repräsentanz eröffnet oder eine
-    neue Zweigniederlassung oder Tochtergesellschaft gründet,
-
-
-14. entgegen Artikel 24 Buchstabe d ein Gemeinschaftsunternehmen mit einem
-    dort genannten Kredit- oder Finanzinstitut gründet,
-
-
-15. entgegen Artikel 26 Buchstabe a ein Bankkonto bei einem dort genannten
-    Kredit- oder Finanzinstitut nicht oder nicht rechtzeitig schließt,
-
-
-16. entgegen Artikel 26 Buchstabe b eine Korrespondenzbankbeziehung zu
-    einem dort genannten Kredit- oder Finanzinstitut nicht oder nicht
-    rechtzeitig beendet,
-
-
-17. entgegen Artikel 26 Buchstabe c eine Repräsentanz, Zweigniederlassung
-    oder Tochtergesellschaft nicht oder nicht rechtzeitig schließt,
-
-
-18. entgegen Artikel 26 Buchstabe d ein Gemeinschaftsunternehmen mit einem
-    dort genannten Kredit- oder Finanzinstitut nicht oder nicht
-    rechtzeitig beendet,
-
-
-19. entgegen Artikel 26 Buchstabe e ein Eigentumsrecht an einem dort
-    genannten Kredit- oder Finanzinstitut nicht oder nicht rechtzeitig
-    aufgibt,
-
-
-20. entgegen Artikel 28 Absatz 1 ein Konto eröffnet,
-
-
-21. entgegen Artikel 28 Absatz 2 ein Konto nicht oder nicht rechtzeitig
-    schließt,
-
-
-22. entgegen Artikel 30 Buchstabe b eine dort genannte Vereinbarung für
-    oder im Namen eines dort genannten Kredit- oder Finanzinstituts
-    schließt,
-
-
-23. entgegen Artikel 30 Buchstabe e eine Repräsentanz, Zweigniederlassung
-    oder Tochtergesellschaft eines dort genannten Kredit- oder
-    Finanzinstituts betreibt oder
-
-
-24. entgegen Artikel 31 Buchstabe a oder Buchstabe b eine dort genannte
-    Anleihe kauft oder einen Vermittlungsdienst im Zusammenhang mit dem
-    Kauf einer solchen Anlage erbringt.
-
-
-
-
-(13) Ordnungswidrig im Sinne des § 19 Absatz 4 Satz 1 Nummer 1 des
-Außenwirtschaftsgesetzes handelt, wer gegen die Verordnung (EU)
-2021/821 des Europäischen Parlaments und des Rates vom 20. Mai 2021
-über eine Unionsregelung für die Kontrolle der Ausfuhr, der
-Vermittlung, der technischen Unterstützung der Durchfuhr und der
-Verbringung betreffend Güter mit doppeltem Verwendungszweck (ABl. L
-206 vom 11.6.2021, S. 1), verstößt, indem er vorsätzlich oder
-fahrlässig
+2021/821 in der Fassung vom 5. September 2024 verstößt, indem er
+vorsätzlich oder fahrlässig
 
 1.  einer vollziehbaren Anordnung nach Artikel 7 Absatz 1 oder 2 Satz 1
     zuwiderhandelt oder
@@ -5517,36 +4935,24 @@ Soweit die in Satz 1 genannten Vorschriften auf Anhang I oder Anhang
 IV der Verordnung (EU) 2021/821 verweisen, finden diese Anhänge in der
 jeweils geltenden Fassung Anwendung.
 
-(14) Ordnungswidrig im Sinne des § 19 Absatz 4 Satz 1 Nummer 1 des
-Außenwirtschaftsgesetzes handelt, wer gegen die Verordnung (EU)
-2022/263 verstößt, indem er vorsätzlich oder fahrlässig
-
-1.  entgegen Artikel 3 Absatz 1 Buchstabe a oder Buchstabe b eine
-    Beteiligung ausweitet,
-
-
-2.  entgegen Artikel 3 Absatz 1 Buchstabe c eine dort genannte
-    Vereinbarung trifft oder
-
-
-3.  entgegen Artikel 3 Absatz 1 Buchstabe d ein Gemeinschaftsunternehmen
-    gründet.
-
-
-
-
 
 ## Kapitel 10 - Übergangsbestimmungen, Evaluierung und Inkrafttreten, Außerkrafttreten
 
 
 ### § 82a Übergangsbestimmungen
 
-Die §§ 55 bis 62a in der ab dem 1. Mai 2021 geltenden Fassung sind
+(1) Die §§ 55 bis 62a in der ab dem 1. Mai 2021 geltenden Fassung sind
 erstmals auf schuldrechtliche Rechtsgeschäfte über den Erwerb eines
 inländischen Unternehmens anzuwenden, die ab dem 1. Mai 2021
 abgeschlossen werden. Im Fall eines Angebots im Sinne des
 Wertpapiererwerbs- und Übernahmegesetzes ist der Zeitpunkt der
 Veröffentlichung der Entscheidung zur Abgabe des Angebots maßgeblich.
+
+(2) § 55a Absatz 1 Nummer 1, 2 und 4 ist erst anzuwenden, wenn eine
+auf der Grundlage von § 4 Absatz 3 und § 5 Absatz 1 des KRITIS-
+Dachgesetzes erlassene Rechtsverordnung gilt. Bis zur Geltung dieser
+Rechtsverordnung ist § 55a Absatz 1 Nummer 1, 2 und 4 in der bis
+einschließlich 16. März 2026 geltenden Fassung weiter anzuwenden.
 
 
 ### § 82b Evaluierung der Änderungen der §§ 55 bis 62a durch die Fünfzehnte, Sechzehnte und Siebzehnte Verordnung zur Änderung der Außenwirtschaftsverordnung
@@ -5584,9 +4990,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
 ### Anlage 1 Anlage AL zur Außenwirtschaftsverordnung
 
-(Fundstelle: BGBl. 2023 I Nr. 264, S. 5 - 43)
-
-## **Anlage AL zur Außenwirtschaftsverordnung**
+(Fundstelle: BGBl. 2025 I Nr. 261, S. 5 - 46)
 
 ## **Inhaltsübersicht**
 
@@ -5600,7 +5004,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
 *    *   **Teil I:**
 
-    *   Güter, auf die sich die in den §§ 8, 11, 46, 52b, 74, 75, 77 und 79
+    *   Güter, auf die sich die in den §§ 8, 11, 46, 52b, 74, 75, 77 und 79
         der Außenwirtschaftsverordnung (AWV) angeordneten Beschränkungen
         beziehen
 
@@ -5619,7 +5023,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
     *   Liste national erfasster Güter
 
-    *   1E901 – 9E992
+    *   1A901 – 9E1999
 
 
 *    *
@@ -5635,7 +5039,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
 *    *   **Teil II:**
 
-    *   Waren, auf die sich die in § 10 AWV angeordneten Beschränkungen
+    *   Waren, auf die sich die in § 10 AWV angeordneten Beschränkungen
         beziehen
 
     *
@@ -5648,10 +5052,11 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
     *
 
 
-   Ausfuhrliste
-**Anwendung der Ausfuhrliste**
 
-**Teil I**
+   Ausfuhrliste
+## Anwendung der Ausfuhrliste
+
+## **Teil I**
 
 
 1.  Teil I der Ausfuhrliste nennt in den Abschnitten A und B die Güter,
@@ -5663,10 +5068,12 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
     Abschnitt B enthält zusätzliche national erfasste Güter.
 
-    Abschnitt B ist nach einem fünfstelligen Nummerierungssystem
-    untergliedert, das sich an dem Nummerierungssystem der Gemeinsamen
-    Liste der Europäischen Union für Güter mit doppeltem Verwendungszweck
-    (Anhang I der Verordnung (EU) 2021/821) anlehnt.
+    Abschnitt B ist nach einem fünf- bzw. sechsstelligen
+    Nummerierungssystem untergliedert, das sich an dem Nummerierungssystem
+    der Gemeinsamen Liste der Europäischen Union für Güter mit doppeltem
+    Verwendungszweck (Anhang I der Verordnung (EU) 2021/821) anlehnt und
+    die Differenzierung in Artikel 9 Abs. 1 der Verordnung (EU) 2021/821
+    widerspiegelt.
 
     Im Einzelnen ist die Unterteilung wie folgt, wobei nicht alle
     Kategorien und Gattungen belegt sind:
@@ -5756,7 +5163,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
 
 
-    c)  Kennungen: 901-999
+    c)  Kennungen: 901-1999
 
 
 
@@ -5772,7 +5179,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
     Ausfuhrgutes ist (sind) und leicht entfernt oder für andere Zwecke
     verwendet werden kann (können).
 
-    Anmerkung: Bei der Beurteilung darüber, ob das (die) erfasste(n) Bestandteil(e)
+    *Anmerkung:* Bei der Beurteilung darüber, ob das (die) erfasste(n) Bestandteil(e)
         ein Hauptelement bildet (bilden), müssen insbesondere Menge, Wert und
         eingesetztes technologisches Know-how berücksichtigt werden.
 
@@ -5806,8 +5213,9 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
     b)  Technologie-Anmerkung für Teil I Abschnitt B:
 
         **ALLGEMEINE TECHNOLOGIE-ANMERKUNG (ATA)**
-        (gültig im Zusammenhang mit Nummer 1E901, 5E902, 9E904, 9E991 oder
-        9E992 des Teils I Abschnitt B)
+
+        (gültig im Zusammenhang mit Nummer 1E901, 3E1901, 3E1902, 3E1905,
+        4E1901b3, 5E902, 9E904, 9E991 oder 9E992 des Teils I Abschnitt B)
 
         Die Kontrolle der Ausfuhr von „Technologie“, die für die
         „Entwicklung“, „Herstellung“ oder „Verwendung“ der von Teil I
@@ -5843,8 +5251,9 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
     b)  Software-Anmerkung für Teil I Abschnitt B:
 
         **ALLGEMEINE SOFTWARE-ANMERKUNG (ASA)**
-        (gültig im Zusammenhang mit Nummer 5D902, 5D911, 6D908 oder 9D904 des
-        Teils I Abschnitt B)
+
+        (gültig im Zusammenhang mit Nummer 3D1902, 3D1907, 4D1901b3, 5D902,
+        5D911, 6D908 oder 9D904 des Teils I Abschnitt B)
 
         Teil I Abschnitt B erfasst keine „Software“, die entweder
 
@@ -5892,30 +5301,30 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
 8.  Bei der Prüfung der Ausfuhrgenehmigungspflicht nach der AWV und der
     Ausfuhrliste ist zu beachten, dass die in Teil I Abschnitte A und B
-    genannten Güter Ausfuhrverboten nach den §§ 17, 18 oder einer
+    genannten Güter Ausfuhrverboten nach den §§ 17, 18 oder einer
     Ausfuhrgenehmigungspflicht nach § 3 Absatz 3 des Gesetzes über die
     Kontrolle von Kriegswaffen unterliegen können.
 
 
 
 
-**Teil II**
+## **Teil II**
 
 
-1.  Teil II der Ausfuhrliste nennt die Waren, auf die sich die in § 10 AWV
+1.  Teil II der Ausfuhrliste nennt die Waren, auf die sich die in § 10 AWV
     angeordneten Beschränkungen beziehen. Die Waren sind in Spalte 1 mit
     den Warennummern und in Spalte 2 mit den Warenbenennungen des
     Warenverzeichnisses für die Außenhandelsstatistik bezeichnet.
 
 
-2.  Waren, deren Ausfuhr gemäß § 10 AWV in Drittländer ohne Genehmigung
+2.  Waren, deren Ausfuhr gemäß § 10 AWV in Drittländer ohne Genehmigung
     nur zulässig ist, wenn sie den vorgeschriebenen Vermarktungsnormen
     entsprechen, sind in Spalte 3 mit G gekennzeichnet.
 
 
 
 
-**TEIL I**
+## **TEIL I**
 
 
 **A** **Liste für Waffen, Munition und Rüstungsmaterial**
@@ -5926,7 +5335,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
     mm oder kleiner und Zubehör, geeignet hierfür, wie folgt sowie
     besonders konstruierte Bestandteile hierfür:
 
-    Anmerkung: Nummer 0001 erfasst nicht:
+    *Anmerkung:* Nummer 0001 erfasst nicht:
 
         a)  Waffen, besonders konstruiert für Übungsmunition, die keine Projektile
             verschießen können,
@@ -5940,14 +5349,14 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
         c)  Waffen für Randfeuer-Hülsenpatronen, die keine Vollautomaten sind,
 
 
-        d)  ,deaktivierte Feuerwaffen im Sinne der Anlage 1 Abschnitt 1,
-            Unterabschnitt 1 Nummer 1.4 WaffG‘.
+        d)  ‚deaktivierte Feuerwaffen im Sinne der Anlage 1 Abschnitt 1,
+            Unterabschnitt 1 Nummer 1.4 WaffGʻ.
 
-            Technische Anmerkung:
+            *Technische Anmerkung:*
 
-            Eine ,Feuerwaffe ist deaktiviert‘, wenn sie dauerhaft
-            unbrauchbar **                                  gemacht wurde. Dies
-            ist dann der Fall, wenn die Änderungen so vorgenommen werden, dass sie
+            Im Sinne von Nummer 0001 Anmerkung d ist eine ‚Feuerwaffe
+            deaktiviertʻ, wenn sie dauerhaft unbrauchbar gemacht wurde. Dies ist
+            dann der Fall, wenn die Änderungen so vorgenommen werden, dass sie
             nicht mit allgemein gebräuchlichen Werkzeugen rückgängig gemacht und
             die Gegenstände nicht so geändert werden können, dass aus ihnen
             Geschosse, Patronen- oder pyrotechnische Munition verschossen werden
@@ -5965,7 +5374,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
     a)  Lang- und Kurzwaffen mit gezogenem Lauf, einschließlich kombinierte
         Waffen, Maschinengewehre, Maschinenpistolen und Salvengewehre;
 
-        Anmerkung: Unternummer 0001a erfasst nicht folgende Waffen:
+        *Anmerkung:* Unternummer 0001a erfasst nicht folgende Waffen:
 
             a)  Gewehre und kombinierte Waffen, die vor 1938 hergestellt wurden,
 
@@ -5985,7 +5394,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
             e)  Handfeuerwaffen, besonders konstruiert für einen der folgenden Zwecke:
 
-                1.  Schlachtung von Haustieren oder
+                1.  Schlachtung von Haustieren *oder*
 
 
                 2.  Betäubung von Tieren.
@@ -6019,12 +5428,12 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
 
 
-        Anmerkung: Unternummer 0001b2 erfasst nicht Waffen, die besonders konstruiert
+        *Anmerkung:* Unternummer 0001b2 erfasst nicht Waffen, die besonders konstruiert
             sind, um ein inertes Geschoss mit Druckluft oder Kohlendioxid (CO
             2                                 ) zu verschießen.
 
 
-        Anmerkung: Unternummer 0001b erfasst nicht folgende Waffen:
+        *Anmerkung:* Unternummer 0001b erfasst nicht folgende Waffen:
 
             a)  Waffen mit glattem Lauf, die vor 1938 hergestellt wurden,
 
@@ -6049,7 +5458,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
                 3.  Seismische Tests,
 
 
-                4.  Abfeuern von industriellen Projektilen oder
+                4.  Abfeuern von industriellen Projektilen *oder*
 
 
                 5.  Entschärfung von unkonventionellen Spreng- und Brandvorrichtungen
@@ -6058,7 +5467,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
 
 
-                Ergänzende Anmerkung:
+                *Ergänzende Anmerkung:*
 
                 Für Disruptor siehe auch Nummer 0004 und Nummer 1A006 des Anhangs I
                 der Verordnung (EU) 2021/821 in der jeweils geltenden Fassung.
@@ -6082,12 +5491,12 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
         2.  Schallunterdrücker oder -dämpfer,
 
 
-        3.  ,Rohrwaffen-Lafette‘,
+        3.  ‚Rohrwaffen-Lafetteʻ,
 
-            Technische Anmerkung:
+            *Technische Anmerkung:*
 
-            Im Sinne von Unternummer 0001d3. bezeichnet der Begriff ,Rohrwaffen-
-            Lafette‘ eine Vorrichtung, die dazu konstruiert ist, eine Feuerwaffe
+            Im Sinne von Unternummer 0001d3. bezeichnet der Begriff ‚Rohrwaffen-
+            Lafetteʻ eine Vorrichtung, die dazu konstruiert ist, eine Feuerwaffe
             auf einem Landfahrzeug, einem „Luftfahrzeug“, einem Schiff oder einer
             Struktur zu befestigen.
 
@@ -6118,13 +5527,13 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
         militärische Flammenwerfer, Gewehre, rückstoßfreie Waffen und Waffen
         mit glattem Lauf;
 
-        Anmerkung 1: Unternummer 0002a schließt Injektoren, Messgeräte, Speichertanks und
+        *Anmerkung 1:* Unternummer 0002a schließt Injektoren, Messgeräte, Speichertanks und
             besonders konstruierte Bestandteile für den Einsatz von flüssigen
             Treibladungen für einen der von Unternummer 0002a erfassten
             Ausrüstungsgegenstände ein.
 
 
-        Anmerkung 2: Unternummer 0002a erfasst nicht folgende Waffen:
+        *Anmerkung 2:* Unternummer 0002a erfasst nicht folgende Waffen:
 
             a)  Gewehre, Waffen mit glattem Lauf und kombinierte Waffen, die vor 1938
                 hergestellt wurden,
@@ -6154,19 +5563,19 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
                 3.  Seismische Tests,
 
 
-                4.  Abfeuern von industriellen Projektilen oder
+                4.  Abfeuern von industriellen Projektilen *oder*
 
 
                 5.  Entschärfung von unkonventionellen Spreng- und Brandvorrichtungen
                     (USBV),
 
-                    Ergänzende Anmerkung:
-
-                    Für Disruptor siehe auch Nummer 0004 und Nummer 1A006 des Anhang I der
-                    Verordnung (EU) 2021/821 in der jeweils geltenden Fassung.
 
 
 
+                *Ergänzende Anmerkung:*
+
+                Für Disruptor siehe auch Nummer 0004 und Nummer 1A006 des Anhang I der
+                Verordnung (EU) 2021/821 in der jeweils geltenden Fassung.
 
 
             f)  Handgehaltene Abschussgeräte, besonders konstruiert, um gefesselte
@@ -6194,7 +5603,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
 
 
-        Anmerkung: Unternummer 0002b erfasst nicht Signalpistolen.
+        *Anmerkung:* Unternummer 0002b erfasst nicht Signalpistolen.
 
 
 
@@ -6219,7 +5628,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
 
 
-    d)  nicht belegt
+    d)  nicht belegt.
 
 
 
@@ -6237,7 +5646,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
 
 
-    Anmerkung 1: Besonders konstruierte Bestandteile in Nummer 0003 schließen ein:
+    *Anmerkung 1:* Besonders konstruierte Bestandteile in Nummer 0003 schließen ein:
 
         a)  Metall- oder Kunststoffbestandteile, z. B. Ambosse in Zündhütchen,
             Geschossmäntel, Patronengurtglieder, Führungsringe und andere
@@ -6261,7 +5670,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
 
 
-    Anmerkung 2: Unternummer 0003a erfasst nicht:
+    *Anmerkung 2:* Unternummer 0003a erfasst nicht:
 
         a)  Munition ohne Geschoss (Manövermunition),
 
@@ -6270,7 +5679,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
 
         c)  andere Munition ohne Geschoss oder Munitionsattrappen, die keine für
-            Gefechtsmunition konstruierten Bestandteile enthalten, oder
+            Gefechtsmunition konstruierten Bestandteile enthalten, *oder*
 
 
         d)  Bestandteile, besonders konstruiert für die unter Buchstaben a, b und
@@ -6281,13 +5690,13 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
 
 
-    Anmerkung 3: Unternummer 0003a erfasst nicht Patronen, besonders konstruiert für
+    *Anmerkung 3:* Unternummer 0003a erfasst nicht Patronen, besonders konstruiert für
         einen der folgenden Zwecke:
 
         a)  Signalmunition,
 
 
-        b)  Vogelschreck-Munition (bird scaring) oder
+        b)  Vogelschreck-Munition (bird scaring) *oder*
 
 
         c)  Munition zum Anzünden von Gasfackeln an Ölquellen.
@@ -6296,7 +5705,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
 
 
-    Anmerkung 4: Unternummer 0003a erfasst nicht Randfeuer-Hülsenpatronen des Kalibers
+    *Anmerkung 4:* Unternummer 0003a erfasst nicht Randfeuer-Hülsenpatronen des Kalibers
         .22.
 
 
@@ -6307,11 +5716,11 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
     Sprengladungen sowie zugehörige Ausrüstung und Zubehör wie folgt und
     besonders konstruierte Bestandteile hierfür:
 
-    Ergänzende Anmerkung 1:
+    *Ergänzende Anmerkung 1:*
 
     Lenk- und Navigationsausrüstung siehe Nummer 0011.
 
-    Ergänzende Anmerkung 2:
+    *Ergänzende Anmerkung 2:*
 
     Flugkörperabwehrsysteme für Luftfahrzeuge (Aircraft Missile Protection
     System – AMPS) siehe Unternummer 0004c.
@@ -6323,7 +5732,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
         welche die Eigenschaften einer der von Unternummer 0004a erfassten
         Waren simuliert), besonders konstruiert für militärische Zwecke;
 
-        Anmerkung: Unternummer 0004a schließt ein:
+        *Anmerkung:* Unternummer 0004a schließt ein:
 
             a)  Rauch- und Nebelgranaten, Feuerbomben, Brandbomben und Sprengkörper,
 
@@ -6334,7 +5743,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
 
 
-            Ergänzende Anmerkung:
+            *Ergänzende Anmerkung:*
 
             Granat- oder Kanistermunition für in Nummer 0001 oder 0002 erfasste
             Waffen oder Werfer und Submunition, besonders konstruiert für
@@ -6346,12 +5755,12 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
     b)  Ausrüstung mit allen folgenden Eigenschaften:
 
-        1.  besonders konstruiert für militärische Zwecke und
+        1.  besonders konstruiert für militärische Zwecke *und*
 
 
-        2.  besonders konstruiert für ,Tätigkeiten‘ im Zusammenhang mit
+        2.  besonders konstruiert für ‚Tätigkeitenʻ im Zusammenhang mit
 
-            a)  von Unternummer 0004a erfasste Waren oder
+            a)  von Unternummer 0004a erfasste Waren *oder*
 
 
             b)  unkonventionelle Spreng- und Brandvorrichtungen (USBV);
@@ -6359,9 +5768,9 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
 
 
-            Technische Anmerkung:
+            *Technische Anmerkung:*
 
-            Im Sinne von Unternummer 0004b2 bezeichnet der Begriff ,Tätigkeiten‘
+            Im Sinne von Unternummer 0004b2 bezeichnet der Begriff ‚Tätigkeitenʻ
             das Handhaben, Abfeuern, Legen, Überwachen, Ausstoßen, Zünden,
             Scharfmachen, Stromversorgen bei einmaliger Abgabe einer hohen
             Leistung, Täuschen, Stören, Räumen, Orten, Zerstören oder Beseitigen.
@@ -6369,7 +5778,8 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
 
 
-        Anmerkung 1: Unternummer 0004b schließt ein:
+
+        *Anmerkung 1:* Unternummer 0004b schließt ein:
 
             a)  fahrbare Gasverflüssigungsanlagen,
 
@@ -6380,7 +5790,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
 
 
-        Anmerkung 2: Unternummer 0004b erfasst nicht tragbare Geräte, die durch ihre
+        *Anmerkung 2:* Unternummer 0004b erfasst nicht tragbare Geräte, die durch ihre
             Konstruktion ausschließlich auf die Ortung von metallischen
             Gegenständen begrenzt und zur Unterscheidung zwischen Minen und
             anderen metallischen Gegenständen ungeeignet sind.
@@ -6392,13 +5802,13 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
     c)  Flugkörperabwehrsysteme für Luftfahrzeuge (Aircraft Missile Protection
         Systems – AMPS).
 
-        Anmerkung: Unternummer 0004c erfasst nicht Flugkörperabwehrsysteme für
+        *Anmerkung:* Unternummer 0004c erfasst nicht Flugkörperabwehrsysteme für
             Luftfahrzeuge mit allen folgenden Merkmalen:
 
             a)  mit folgenden Flugkörperwarnsensoren:
 
-                1.  passive Sensoren mit einer Spitzenempfindlichkeit zwischen 100-400 nm
-                    oder
+                1.  passive Sensoren mit einer Spitzenempfindlichkeit zwischen 100–400 nm
+                    *oder*
 
 
                 2.  aktive Flugkörperwarnsensoren mit gepulstem Doppler-Radar;
@@ -6412,7 +5822,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
             c)  Täuschkörper, die sowohl eine sichtbare Signatur als auch eine
                 infrarote Signatur aussenden, um Boden-Luft-Flugkörper auf sich zu
-                lenken, und
+                lenken, *und*
 
 
             d)  eingebaut in ein „ziviles Luftfahrzeug“ und mit allen folgenden
@@ -6425,7 +5835,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
                     a)  eine von den Zivilluftfahrtbehörden eines oder mehrerer EU-
                         Mitgliedstaaten oder Teilnehmerstaaten des Wassenaar-Arrangements
-                        ausgestellte zivile Musterzulassung oder
+                        ausgestellte zivile Musterzulassung *oder*
 
 
                     b)  ein gleichwertiges, von der Internationalen Zivilluftfahrt-
@@ -6436,7 +5846,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
 
                 2.  das Flugkörperabwehrsystem für Luftfahrzeuge beinhaltet einen Schutz,
-                    um unbefugten Zugang zur „Software“ zu verhindern, und
+                    um unbefugten Zugang zur „Software“ zu verhindern, *und*
 
 
                 3.  das Flugkörperabwehrsystem für Luftfahrzeuge beinhaltet einen aktiven
@@ -6475,7 +5885,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
             Zielüberwachungs- oder Zielverfolgungssysteme;
 
 
-        2.  Ortungs-, Erkennungs- oder Identifizierungs-Vorrichtungen;
+        2.  Ortungs-, Erkennungs- oder Identifizierungs-Vorrichtungen:
 
 
         3.  Datenverknüpfungs-Ausrüstung (data fusion equipment) oder Ausrüstung
@@ -6488,7 +5898,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
     c)  Ausrüstung für Gegenmaßnahmen gegen die von Unternummer 0005a oder
         0005b erfasste Ausrüstung;
 
-        Anmerkung: Ausrüstung für Gegenmaßnahmen im Sinne der Unternummer 0005c schließt
+        *Anmerkung:* Ausrüstung für Gegenmaßnahmen im Sinne von Unternummer 0005c schließt
             Detektionsausrüstung ein.
 
 
@@ -6505,14 +5915,14 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
 0006 Landfahrzeuge und Bestandteile hierfür wie folgt:
 
-    Ergänzende Anmerkung:
+    *Ergänzende Anmerkung:*
 
     Lenk- und Navigationsausrüstung siehe Nummer 0011.
 
     a)  Landfahrzeuge und Bestandteile hierfür, besonders konstruiert oder
         geändert für militärische Zwecke;
 
-        Anmerkung 1: Unternummer 0006a schließt ein:
+        *Anmerkung 1:* Unternummer 0006a schließt ein:
 
             a)  Panzer und andere militärische bewaffnete Fahrzeuge und militärische
                 Fahrzeuge, ausgestattet mit Lafetten oder Ausrüstung zum Minenlegen
@@ -6535,7 +5945,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
 
 
-        Anmerkung 2: Die Änderung eines Landfahrzeuges für militärische Zwecke, erfasst von
+        *Anmerkung 2:* Die Änderung eines Landfahrzeuges für militärische Zwecke, erfasst von
             Unternummer 0006a, bedeutet eine bauliche, elektrische oder
             mechanische Änderung, die ein oder mehrere besonders konstruierte
             militärische Bestandteile betrifft. Solche Bestandteile schließen ein:
@@ -6577,7 +5987,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
             b)  Allradantrieb;
 
 
-            c)  zulässiges Gesamtgewicht mehr als 4 500 kg; und
+            c)  zulässiges Gesamtgewicht mehr als 4 500 kg; *und*
 
 
             d)  Geländegängigkeit.
@@ -6589,11 +5999,11 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
         2.  Bestandteile mit allen folgenden Eigenschaften:
 
             a)  besonders konstruiert für von Unternummer 0006b1 erfasste Fahrzeuge
-                und
+                *und*
 
 
-            b)  einen ballistischen Schutz größer/gleich der Widerstandsklasse FB
-                6/BR6 nach DIN EN 1522 bzw. DIN EN 1063 oder „gleichwertige Standards“
+            b)  einen ballistischen Schutz größer/gleich der Widerstandsklasse FB 6 /
+                BR6 nach DIN EN 1522 bzw. DIN EN 1063 oder „gleichwertige Standards“
                 bewirken.
 
 
@@ -6605,11 +6015,11 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
 
 
-    Ergänzende Anmerkung:
+    *Ergänzende Anmerkung:*
 
     Siehe auch Unternummer 0013a und Teil I B, Nummer 9A991.
 
-    Anmerkung 1: Nummer 0006 erfasst nicht die folgenden Fahrzeuge mit Schutzpanzerung:
+    *Anmerkung 1:* Nummer 0006 erfasst nicht die folgenden Fahrzeuge mit Schutzpanzerung:
 
         a)  zivile Sonderschutzlimousinen,
 
@@ -6628,7 +6038,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
 
 
-    Anmerkung 2: Nummer 0006 erfasst nicht Fahrzeuge mit allen folgenden Eigenschaften:
+    *Anmerkung 2:* Nummer 0006 erfasst nicht Fahrzeuge mit allen folgenden Eigenschaften:
 
         a)  vor 1946 hergestellt,
 
@@ -6636,7 +6046,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
         b)  nicht ausgerüstet mit Gütern, die von der Liste für Waffen, Munition
             und Rüstungsmaterial (Teil I A) erfasst sind und nach 1945 hergestellt
             wurden, mit Ausnahme von Reproduktionen von Originalbauteilen oder
-            Originalzubehör des Fahrzeugs, und
+            Originalzubehör des Fahrzeugs, *und*
 
 
         c)  nicht ausgerüstet mit unter den Nummern 0001, 0002 oder 0004 erfassten
@@ -6647,7 +6057,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
 
 
-    Anmerkung 3: Nummer 0006 erfasst nicht die folgenden militärischen Bestandteile:
+    *Anmerkung 3:* Nummer 0006 erfasst nicht die folgenden militärischen Bestandteile:
 
         a)  Gewehr- bzw. Waffenhalterungen,
 
@@ -6671,9 +6081,9 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
     Stoffe, zugehörige Ausrüstung, Bestandteile und Materialien wie folgt:
 
     a)  „biologische Agenzien“ oder radioaktive Stoffe ausgewählt oder
-        geändert zur Steigerung der Wirksamkeit bei der Außergefechtsetzung
-        von Menschen oder Tieren, der Funktionsbeeinträchtigung von
-        Ausrüstung, der Vernichtung von Ernten oder der Schädigung der Umwelt;
+        geändert zur Steigerung der Wirksamkeit für die Außergefechtsetzung
+        von Menschen oder Tieren, die Funktionsbeeinträchtigung von
+        Ausrüstung, die Vernichtung von Ernten oder die Schädigung der Umwelt;
 
 
     b)  chemische Kampfstoffe einschließlich:
@@ -6691,7 +6101,8 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
                 10                                     ), wie:
 
                 Sarin (GB): Methylphosphonsäure-isopropylesterfluorid (CAS-Nr.
-                107-44-8) und
+                107-44-8) *und*
+
                 Soman (GD): Methylphosphonsäurepinakolylesterfluorid (CAS-Nr.
                 96-64-0),
 
@@ -6701,7 +6112,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
                 2                                     )amid-cyanid-alkyl (R
                 3                                     )ester (R
                 1                                     , R
-                2                                      = Methyl-, Ethyl-, n-Propyl-
+                2                                      = Methyl-, Ethyl-, n‑Propyl-
                 oder Isopropyl-) (R
                 3                                      = Alkyl- oder Cycloalkyl-, C
                 n                                      = C
@@ -6803,6 +6214,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
         3.  Psychokampfstoffe, wie:
 
+
             a)  BZ: 3-Chinuclidinylbenzilat (CAS-Nr. 6581-06-2),
 
 
@@ -6840,8 +6252,8 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
             2                               )ester (R
             1                               , R
             3                               , R
-            4                                = Methyl-, Ethyl-, n-Propyl-,
-            Isopropyl-) (R
+            4                                = Methyl-, Ethyl-,
+            n-Propyl-, Isopropyl-)                                (R
             2                                = H-, Alkyl- oder Cycloalkyl-, C
             n                                = C
             1                                bis C
@@ -6870,7 +6282,8 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
 
         2.  [(2-Chlorphenyl)methylen]propandinitril (o-Chlorbenzyliden-
-            malonsäuredinitril) (CS) (CAS-Nr. 2698-41-1);
+            malonsäuredinitril) (CS)
+            (CAS-Nr. 2698-41-1);
 
 
         3.  2-Chlor-1-phenylethanon, Phenylacylchlorid (ω-Chloracetophenon) (CN)
@@ -6889,7 +6302,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
 
 
-        Anmerkung: Unternummer 0007d erfasst nicht chemisch wirksame Komponenten und
+        *Anmerkung:* Unternummer 0007d erfasst nicht chemisch wirksame Komponenten und
             Kombinationen davon, gekennzeichnet und abgepackt für die Herstellung
             von Nahrungsmitteln oder für medizinische Zwecke.
 
@@ -6903,7 +6316,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
         besonders konstruierte Bestandteile hierfür:
 
         1.  Materialien oder Agenzien, die von Unternummer 0007a, 0007b oder 0007d
-            erfasst werden, oder
+            erfasst werden, *oder*
 
 
         2.  chemische Kampfstoffe, gebildet aus Komponenten für Binärkampfstoffe
@@ -6935,7 +6348,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
 
 
-        Anmerkung: Unternummer 0007f1 schließt ein:
+        *Anmerkung:* Unternummer 0007f1 schließt ein:
 
             a)  Luftreinigungsanlagen, besonders konstruiert oder hergerichtet zum
                 Filtern von radioaktiven, biologischen oder chemischen Stoffen;
@@ -6949,7 +6362,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
 
 
-        Ergänzende Anmerkung:
+        *Ergänzende Anmerkung:*
 
         Zivilschutzmasken, Schutzausrüstung und Dekontaminationsausrüstung
         siehe Nummer 1A004 des Anhangs I der Verordnung (EU) 2021/821 in der
@@ -6961,17 +6374,56 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
         Identifizierung der von Unternummer 0007a, 0007b oder 0007d erfassten
         Materialien, und besonders konstruierte Bestandteile hierfür;
 
-        Anmerkung: Unternummer 0007g erfasst nicht Strahlendosimeter für den persönlichen
+        *Anmerkung:* Unternummer 0007g erfasst nicht Strahlendosimeter für den persönlichen
             Gebrauch.
 
 
 
 
 
-    h)  „Biopolymere“, besonders entwickelt oder aufgebaut für die
+    h)  ‚Biopolymereʻ, besonders entwickelt oder aufgebaut für die
         Feststellung oder Identifizierung der von Unternummer 0007b erfassten
         chemischen Kampfstoffe und spezifische Zellkulturen zu ihrer
         Herstellung;
+
+        *Technische Anmerkungen:*
+
+        Im Sinne von Unternummer 0007h gilt:
+
+        1.  ‚Biopolymereʻ sind biologische Makromoleküle wie folgt:
+
+            a)  Enzyme für spezifische chemische oder biochemische Reaktionen,
+
+
+            b)  ‚antiidiotypische Antikörperʻ, ‚monoklonale Antikörperʻ oder
+                ‚polyklonale Antikörperʻ,
+
+
+            c)  besonders entwickelte oder besonders verarbeitete ‚Rezeptoren‘;
+
+
+
+
+
+        2.  ‚Antiidiotypische Antikörperʻ sind Antikörper, die sich an die
+            spezifische Antigen-Bindungsstelle anderer Antikörper binden.
+
+
+        3.  ‚Monoklonale Antikörperʻ sind Proteine, die sich an eine Antigen-
+            Bindungsstelle binden und durch einen einzigen Klon von Zellen erzeugt
+            werden.
+
+
+        4.  ‚Polyklonale Antikörperʻ sind eine Mischung von Proteinen, die sich an
+            ein bestimmtes Antigen binden und durch mehr als einen Klon von Zellen
+            erzeugt werden.
+
+
+        5.  ‚Rezeptorenʻ sind biologische makromolekulare Strukturen, die Liganden
+            binden können, deren Bindung physiologische Funktionen beeinflussen.
+
+
+
 
 
     i)  „Biokatalysatoren“ für die Dekontamination und den Abbau chemischer
@@ -6987,7 +6439,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
             Herstellung der von Unternummer 0007i1 erfassten „Biokatalysatoren“
             enthalten, wie folgt:
 
-            a)  „Expressions-Vektoren“,
+            a)  ‚Expressions-Vektorenʻ,
 
 
             b)  Viren,
@@ -6998,6 +6450,11 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
 
 
+            *Technische Anmerkungen:*
+
+            Im Sinne von Unternummer 0007i2a sind ‚Expressions-Vektorenʻ Träger
+            (z. B. Plasmide oder Viren), die zum Einbringen genetischen Materials
+            in Gastzellen eingesetzt werden.
 
 
 
@@ -7005,7 +6462,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
 
 
-    Anmerkung 1: Unternummern 0007b und 0007d erfassen nicht:
+    *Anmerkung 1:* Unternummern 0007b und 0007d erfassen nicht:
 
         a)  Chlorcyan (CAS-Nr. 506-77-4),
 
@@ -7059,28 +6516,28 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
 
 
-    Anmerkung 2: Unternummern 0007h und 0007i2 erfassen nur spezifische Zellkulturen
+    *Anmerkung 2:* Unternummern 0007h und 0007i2 erfassen nur spezifische Zellkulturen
         und biologische Systeme. Zellkulturen und biologische Systeme für
         zivile Zwecke, z. B. für Landwirtschaft, Pharmazie, Medizin,
         Tierheilkunde, Umwelt, Abfallwirtschaft und Nahrungsmittelindustrie,
         werden nicht erfasst.
 
 
-    Anmerkung 3: Nummer 0007d erfasst nicht „Reizstoffe“, einzeln abgepackt für
+    *Anmerkung 3:* Nummer 0007d erfasst nicht „Reizstoffe“, einzeln abgepackt für
         persönliche Selbstverteidigungszwecke.
 
 
-    Anmerkung 4: Siehe auch Nummer 1A004 des Anhangs I der Verordnung (EU) 2021/821 in
+    *Anmerkung 4:* Siehe auch Nummer 1A004 des Anhangs I der Verordnung (EU) 2021/821 in
         der jeweils geltenden Fassung.
 
 
-    Anmerkung 5: Ausgangsstoffe für die Herstellung toxischer Wirkstoffe siehe Nummer
+    *Anmerkung 5:* Ausgangsstoffe für die Herstellung toxischer Wirkstoffe siehe Nummer
         1C350 des Anhangs I der Verordnung (EU) 2021/821 in der jeweils
         geltenden Fassung.
 
 
-    Anmerkung 6: Biologische Wirkstoffe siehe Nummern 1C351 bis 1C354 des Anhangs I der
-        Verordnung (EU) 2021/821 in der jeweils geltenden Fassung.
+    *Anmerkung 6:* Biologische Wirkstoffe siehe auch Nummern 1C351 bis 1C354 des Anhangs
+        I der Verordnung (EU) 2021/821 in der jeweils geltenden Fassung.
 
         Biologische Wirkstoffe werden nur dann von Unternummer 0007a erfasst,
         wenn sie ausgewählt oder geändert wurden (z. B. Änderung der Reinheit,
@@ -7089,8 +6546,9 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
         Menschen und Tieren, der Funktionsbeeinträchtigung von Ausrüstung, der
         Vernichtung von Ernten oder zur Schädigung der Umwelt.
 
-        Soweit sie Kriegswaffeneigenschaften besitzen, ist ihre Ausfuhr nach §
-        17 oder 18 des Gesetzes über die Kontrolle von Kriegswaffen verboten.
+        Soweit sie Kriegswaffeneigenschaften besitzen, ist ihre Ausfuhr nach
+        § 17 oder 18 des Gesetzes über die Kontrolle von Kriegswaffen
+        verboten.
 
 
 
@@ -7098,33 +6556,36 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
 0008 „Energetische Materialien“ und zugehörige Stoffe wie folgt:
 
-    Ergänzende Anmerkung 1:
+    *Ergänzende Anmerkung 1:*
 
     Siehe auch Nummer 1C011 des Anhangs I der Verordnung (EU) 2021/821 in
     der jeweils geltenden Fassung.
 
-    Ergänzende Anmerkung 2:
+    *Ergänzende Anmerkung 2:*
 
     Ladungen und Vorrichtungen siehe Nummer 0004 und Nummer 1A008 des
     Anhangs I der Verordnung (EU) 2021/821 in der jeweils geltenden
     Fassung.
 
-    Technische Anmerkungen:
 
-    1.  ,Mischung‘ im Sinne von Nummer 0008 – mit Ausnahme der Unternummern
-        0008c11 oder 0008c12 – bedeutet eine Zusammensetzung aus zwei oder
-        mehreren Substanzen, von denen mindestens eine in den Unternummern der
-        Nummer 0008 genannt sein muss.
-
-
-    2.  Jede Substanz, die von einer Unternummer der Nummer 0008 erfasst wird,
+    *Anmerkung:* Jede Substanz, die von einer Unternummer der Nummer 0008 erfasst wird,
         bleibt auch dann erfasst, wenn sie für einen anderen als den in der
         Überschrift zu dieser Unternummer genannten Zweck verwendet wird (z.
         B. wird TAGN überwiegend als „Explosivstoff“ eingesetzt, kann aber
         auch als Brennstoff oder Oxidationsmittel verwendet werden).
 
 
-    3.  Partikelgröße im Sinne von Nummer 0008 bedeutet der mittlere
+
+
+    *Technische Anmerkungen:*
+
+    1.  ‚Mischungʻ im Sinne von Nummer 0008 – mit Ausnahme der Unternummern
+        0008c11 oder 0008c12 – bedeutet eine Zusammensetzung aus zwei oder
+        mehreren Substanzen, von denen mindestens eine in den Unternummern der
+        Nummer 0008 genannt sein muss.
+
+
+    2.  Partikelgröße im Sinne von Nummer 0008 bedeutet der mittlere
         Partikeldurchmesser bezogen auf Gewicht oder Volumen. Bei Probenahmen
         und Bestimmung der Partikelgröße werden internationale oder
         vergleichbare nationale Standards angewandt.
@@ -7133,23 +6594,23 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
 
 
-    a)  „Explosivstoffe“ wie folgt und ,Mischungen‘ daraus:
+    a)  „Explosivstoffe“ wie folgt und ‚Mischungenʻ daraus:
 
         1.  ADNBF (7-Amino-4,6-dinitrobenzofurazan-1-oxid (CAS-Nr. 97096-78-1),
             Amino-dinitrobenzofuroxan),
 
 
         2.  BNCP (cis-Bis (5-nitrotetrazolato) tetraminkobalt(III)-perchlorat)
-            (CAS-Nr. 117412-28-9),
+            (CAS-Nr. 117412‑28‑9),
 
 
         3.  CL-14 (5,7-Diamino-4,6-dinitrobenzofurazan-1-oxid (CAS-Nr.
-            117907-74-1) oder Diaminodinitrobenzofuroxan),
+            117907‑74-1) oder Diaminodinitrobenzofuroxan),
 
 
         4.  CL-20 (HNIW oder Hexanitrohexaazaisowurtzitan) (CAS-Nr. 135285-90-4),
-            Clathrate von CL-20 (siehe auch Unternummern 0008g3 und g4 für dessen
-            „Vorprodukte“),
+            Clathrate von CL-20 (siehe auch Unternummern 0008g3 und 0008g4 für
+            dessen „Vorprodukte“),
 
 
         5.  CP (2-(5-Cyanotetrazolato) pentaminkobalt(III)-perchlorat) (CAS-Nr.
@@ -7246,8 +6707,8 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
             a)  RDX (Hexogen, Cyclotrimethylentrinitramin) (CAS-Nr. 121-82-4),
 
 
-            b)  Keto-RDX (2,4,6-Trinitro-2,4,6-triazacyclohexanon oder K-6) (CAS-Nr.
-                115029-35-1),
+            b)  Keto-RDX (2,4,6-Trinitro-2,4,6-triazacyclohexanon oder K-6)
+                (CAS-Nr. 115029-35-1),
 
 
 
@@ -7310,8 +6771,8 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
             a)  5-Azido-2-nitrotriazol,
 
 
-            b)  ADHTDN (4-Amino-3,5-dihydrazino-1,2,4-triazol-dinitramid) (CAS-Nr.
-                1614-08-0),
+            b)  ADHTDN (4-Amino-3,5-dihydrazino-1,2,4-triazol-dinitramid)
+                (CAS-Nr. 1614-08-0),
 
 
             c)  ADNT (1-Amino-3,5-dinitro-1,2,4-triazol),
@@ -7320,7 +6781,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
             d)  BDNTA ((Bis-dinitrotriazol)-amin),
 
 
-            e)  DBT (3,3'-Dinitro-5,5-bis-1,2,4-triazol) (CAS-Nr. 30003-46-4),
+            e)  DBT (3,3‘-Dinitro-5,5-bis-1,2,4-triazol) (CAS-Nr. 30003-46-4),
 
 
             f)  DNBT (Dinitrobistriazol) (CAS-Nr. 70890-46-9),
@@ -7345,7 +6806,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
             mit einer der folgenden Eigenschaften:
 
             a)  Detonationsgeschwindigkeit größer als 8 700 m/s bei maximaler Dichte,
-                oder
+                *oder*
 
 
             b)  Detonationsdruck größer als 34 GPa (340 kbar),
@@ -7378,9 +6839,11 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
 
         39. ionische energetische Materialien mit einem Schmelzpunkt zwischen 343
-            K (70 °C) und 373 K (100 °C) und einer Detonationsgeschwindigkeit
-            größer als 6 800 m/s oder einem Detonationsdruck größer als 18 GPa
-            (180 kbar),
+            K (70
+            o                               C) und 373 K (100
+            o                               C) und einer
+            Detonationsgeschwindigkeit größer als 6 800 m/s oder einem
+            Detonationsdruck größer als 18 GPa (180 kbar),
 
 
         40. BTNEN (Bis(2,2,2-trinitroethyl)-nitramin) (CAS-Nr. 19836-28-3),
@@ -7397,18 +6860,19 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
 
 
-        Anmerkung: Unternummer 0008a schließt ,Explosivstoff-Co-Kristalle (explosive co-
-            crystals)‘ ein.
-
-            Technische Anmerkung:
-
-            ,Explosivstoff-Co-Kristall (explosive co-crystal)‘ ist ein Feststoff,
-            der aus einer geordneten dreidimensionalen Anordnung von zwei oder
-            mehr Explosivstoffmolekülen besteht, von denen mindestens eines in
-            Unternummer 0008a angegeben ist.
+        *Anmerkung:* Unternummer 0008a schließt ‚Explosivstoff-Co-Kristalle (explosive co-
+            crystals)ʻ ein.
 
 
 
+
+        *Technische Anmerkung:*
+
+        Im Sinne von Unternummer 0008a Anmerkung ist ‚Explosivstoff-Co-
+        Kristall (explosive co-crystal)ʻ ein Feststoff, der aus einer
+        geordneten dreidimensionalen Anordnung von zwei oder mehr
+        Explosivstoffmolekülen besteht, von denen mindestens eines in
+        Unternummer 0008a angegeben ist.
 
 
     b)  „Treibstoffe“ wie folgt:
@@ -7419,7 +6883,8 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
             a)  240 Sekunden bei nichtmetallischen, nichthalogenierten „Treibstoffen“,
 
 
-            b)  250 Sekunden bei nichtmetallischen, halogenierten „Treibstoffen“ oder
+            b)  250 Sekunden bei nichtmetallischen, halogenierten „Treibstoffen“
+                *oder*
 
 
             c)  260 Sekunden bei metallischen „Treibstoffen“,
@@ -7458,17 +6923,16 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
 
     c)  „Pyrotechnika“, Brennstoffe und zugehörige Stoffe wie folgt und
-        ,Mischungen‘ daraus:
+        ‚Mischungenʻ daraus:
 
         1.  „Luftfahrzeug“-Brennstoffe, besonders formuliert für militärische
             Zwecke,
 
-
-            Anmerkung 1: Unternummer 0008c1 erfasst nicht folgende „Luftfahrzeug“-Brennstoffe:
+            *Anmerkung 1:* Unternummer 0008c1 erfasst nicht folgende „Luftfahrzeug“-Brennstoffe:
                 JP-4, JP-5 und JP-8.
 
 
-            Anmerkung 2: „Luftfahrzeug“-Brennstoffe, die von Unternummer 0008c1 erfasst werden,
+            *Anmerkung 2:* „Luftfahrzeug“-Brennstoffe, die von Unternummer 0008c1 erfasst werden,
                 sind Fertigprodukte und nicht deren Einzelkomponenten.
 
 
@@ -7517,19 +6981,19 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
 
 
-            Anmerkung: Unternummer 0008c4a erfasst nicht ,Mischungen‘ mit Hydrazin, die für
+            *Anmerkung:* Unternummer 0008c4a erfasst nicht ‚Mischungenʻ mit Hydrazin, die für
                 den Korrosionsschutz besonders formuliert sind.
 
 
 
 
 
-        5.  metallische Brennstoffe, Brennstoff,mischungen‘ oder „pyrotechnische“
-            ,Mischungen‘ in Partikelform (kugelförmig, staubförmig, flockenförmig
+        5.  metallische Brennstoffe, Brennstoff‚mischungenʻ oder „pyrotechnische“
+            ‚Mischungenʻ in Partikelform (kugelförmig, staubförmig, flockenförmig
             oder gemahlen), hergestellt aus Material, das zu mindestens 99 % aus
             einem der folgenden Materialien besteht:
 
-            a)  Metalle und ,Mischungen‘ daraus wie folgt:
+            a)  Metalle und ‚Mischungenʻ daraus wie folgt:
 
                 1.  Beryllium (CAS-Nr. 7440-41-7) mit einer Partikelgröße kleiner als 60
                     µm,
@@ -7542,10 +7006,10 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
 
 
-            b)  ,Mischungen‘, die einen der folgenden Stoffe enthalten:
+            b)  ‚Mischungenʻ, die einen der folgenden Stoffe enthalten:
 
                 1.  Zirkonium (CAS-Nr. 7440-67-7), Magnesium (CAS-Nr. 7439-95-4) und
-                    Legierungen dieser Metalle mit Partikelgrößen kleiner als 60 µm oder
+                    Legierungen dieser Metalle mit Partikelgrößen kleiner als 60 µm *oder*
 
 
                 2.  Bor (CAS-Nr. 7440-42-8) oder Borcarbid (CAS-Nr. 12069-32-8) mit einer
@@ -7557,19 +7021,19 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
 
 
-            Anmerkung 1: Unternummer 0008c5 erfasst „Explosivstoffe“ und Brennstoffe auch dann,
+            *Anmerkung 1:* Unternummer 0008c5 erfasst „Explosivstoffe“ und Brennstoffe auch dann,
                 wenn die Metalle und Legierungen in Aluminium, Magnesium, Zirkonium
                 oder Beryllium eingekapselt sind.
 
 
-            Anmerkung 2: Unternummer 0008c5b erfasst metallische Brennstoffe in Partikelform
+            *Anmerkung 2:* Unternummer 0008c5b erfasst metallische Brennstoffe in Partikelform
                 nur, wenn sie mit anderen Stoffen gemischt werden, um eine für
-                militärische Zwecke formulierte ,Mischung‘ zu bilden, wie
+                militärische Zwecke formulierte ‚Mischungʻ zu bilden, wie
                 Flüssig„treibstoff“suspensionen (liquid propellant slurries),
-                Fest„treibstoffe“ oder „pyrotechnische“ ,Mischungen‘.
+                Fest„treibstoffe“ oder „pyrotechnische“ ‚Mischungenʻ.
 
 
-            Anmerkung 3: Unternummer 0008c5b2 erfasst nicht Bor und Borcarbid, das mit Bor-10
+            *Anmerkung 3:* Unternummer 0008c5b2 erfasst nicht Bor und Borcarbid, das mit Bor-10
                 angereichert ist (Bor-10-Gehalt größer als 20 Gew.-% des Gesamt-
                 Borgehalts).
 
@@ -7594,7 +7058,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
         9.  Titansubhydrid (TiH
             n                               ) mit einer stöchiometrischen
-            Zusammensetzung n = 0,65-1,68,
+            Zusammensetzung n = 0,65‑1,68,
 
 
         10. flüssige Brennstoffe hoher Energiedichte, nicht von Unternummer 0008c1
@@ -7611,7 +7075,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
                 3                                     , gemessen bei 293 K (20 °C) und
                 Atmosphärendruck (101,325 kPa),
 
-                Anmerkung: Unternummer 0008c10b erfasst nicht raffinierte fossile Brennstoffe,
+                *Anmerkung:* Unternummer 0008c10b erfasst nicht raffinierte fossile Brennstoffe,
                     Biobrennstoffe oder Brennstoffe für Triebwerke, zugelassen für die
                     zivile Luftfahrt.
 
@@ -7654,7 +7118,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
                 4.  Zirkonium,
 
 
-                5.  Magnesium oder
+                5.  Magnesium *oder*
 
 
                 6.  Titan,
@@ -7664,7 +7128,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
 
             b)  von Unternummer 0008c12a erfasste Partikel mit einer Größe kleiner als
-                200 nm in jeder Richtung und
+                200 nm in jeder Richtung *und*
 
 
             c)  von Unternummer 0008c12a erfasste Partikel mit einem metallischen
@@ -7673,7 +7137,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
 
 
-            Anmerkung: Unternummer 0008c12 schließt Thermite ein.
+            *Anmerkung:* Unternummer 0008c12 schließt Thermite ein.
 
 
 
@@ -7682,7 +7146,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
 
 
-    d)  Oxidationsmittel wie folgt und ,Mischungen‘ daraus:
+    d)  Oxidationsmittel wie folgt und ‚Mischungenʻ daraus:
 
         1.  ADN (Ammoniumdinitramid oder SR12) (CAS-Nr.140456-78-6),
 
@@ -7696,7 +7160,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
             a)  sonstige Halogene,
 
 
-            b)  Sauerstoff oder
+            b)  Sauerstoff *oder*
 
 
             c)  Stickstoff,
@@ -7704,13 +7168,16 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
 
 
-            Anmerkung 1: Zur Erfassung von Chlortrifluorid (CAS-Nr. 7790-91-2) siehe Nummer
-                1C238 des Anhang I der Verordnung (EU) 2021/821 in der jeweils
+            *Anmerkung 1:* Zur Erfassung von Chlortrifluorid (CAS-Nr. 7790-91-2) siehe Nummer
+                1C238 des Anhangs I der Verordnung (EU) 2021/821 in der jeweils
                 geltenden Fassung.
 
 
-            Anmerkung 2: Unternummer 0008d3 erfasst nicht Stickstofftrifluorid (CAS-Nr.
+            *Anmerkung 2:* Unternummer 0008d3 erfasst nicht Stickstofftrifluorid (CAS-Nr.
                 7783-54-2) in gasförmigem Zustand.
+
+
+            *Anmerkung 3:* Unternummer 0008d3 erfasst nicht Iodpentafluorid (CAS-Nr. 7783-66-6).
 
 
 
@@ -7738,7 +7205,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
             Salpetersäure (IRFNA) (CAS-Nr. 8007-58-7) bestehen oder diesen Stoff
             enthalten;
 
-            Anmerkung: Unternummer 0008d10 erfasst nicht nicht-inhibierte rauchende
+            *Anmerkung:* Unternummer 0008d10 erfasst nicht nicht-inhibierte rauchende
                 Salpetersäure.
 
 
@@ -7781,7 +7248,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
             c)  Nitratgruppen,
 
 
-            d)  Nitrazagruppen oder
+            d)  Nitrazagruppen *oder*
 
 
             e)  Difluoraminogruppen,
@@ -7827,11 +7294,12 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
 
         14. NENAs (Nitratoethylnitramin-Verbindungen) (CAS-Nrn. 17096-47-8,
-            85068-73-1, 82486-83-7, 82486-82-6 und 85954-06-9),
+            85068-73-1, 82486-83-7,
+            82486-82-6                                und 85954-06-9),
 
 
         15. PGN (Poly-GLYN, Polyglycidylnitrat oder Poly(nitratomethyloxiran))
-            (CAS-Nr. 27814-48-8),
+            (CAS‑Nr. 27814-48-8),
 
 
         16. Poly-NIMMO (Poly(nitratomethylmethyloxetan), Poly-NMMO oder
@@ -7857,7 +7325,13 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
 
 
-    f)  „Additive“ wie folgt:
+    f)  ‚Additive‘ wie folgt:
+
+        *Technische Anmerkung:*
+
+        Im Sinne von Unternummer 0008f sind ‚Additive‘ Stoffe, die bei der
+        Zubereitung von Sprengstoffen verwendet werden, um deren Eigenschaften
+        zu verbessern.
 
         1.  basisches Kupfersalicylat (CAS-Nr. 62320-94-9),
 
@@ -7914,14 +7388,14 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
 
             o)  Acetylferrocen (CAS-Nr. 1271-55-2)/1,1'-Diacetylferrocen (CAS-Nr.
-                1273-94-5),
+                1273‑94‑5),
 
 
 
 
 
         5.  Blei-ß-resorcylat (CAS-Nr. 20936-32-7) oder Kupfer-ß-resorcylat (CAS-
-            Nr. 70983-44-7),
+            Nr. 70983‑44‑7),
 
 
         6.  Bleicitrat (CAS-Nr. 14450-60-3),
@@ -7958,11 +7432,13 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
         15. metallorganische-Kupplungsreagentien wie folgt:
 
             a)  Titan-IV-2,2-[Bis-2-propenolat-methyl-butanolattris(dioctyl)
-                phosphato] (LICA 12) (CAS-Nr. 103850-22-2),
+                phosphato] (LICA 12)
+                (CAS-Nr. 103850-22-2),
 
 
             b)  Titan-IV-((2-Propenolat-1)methyl-n-propenolatomethyl)
-                butanolat-1-tris(dioctyl)-pyrophosphat (KR3538),
+                butanolat-1-tris(dioctyl)-pyrophosphat
+                (KR3538),
 
 
             c)  Titan-IV-((2-Propenolat-1)methyl-n-propenolatomethyl)
@@ -7985,16 +7461,17 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
                 oder Trimethyladipin-Grundstrukturen, auch mit einer 2-Methyl- oder
                 2-Ethyl-Aziridingruppe,
 
-                Anmerkung: Unternummer 0008f17b umfasst:
 
-                    a)  1,1H-Isophthaloyl bis(2-methylaziridin) (HX-752) (CAS-Nr. 7652-64-4),
+                *Anmerkung:* Unternummer 0008f17b umfasst:
+
+                    a)  1,1H-Isophthaloyl bis(2-methylaziridin) (HX-752) (CAS‑Nr. 7652-64-4),
 
 
                     b)  2,4,6-Tris(2-ethylaziridin-1-yl)-1,3,5-triazin (HX-874) (CAS-Nr.
                         18924-91-9),
 
 
-                    c)  1,1'-Trimethyladipoyl-bis(2-ethylaziridin) (HX-877) (CAS-Nr.
+                    c)  1,1'-Trimethyladipoyl-bis(2-ethylaziridin) (HX-877) (CAS‑Nr.
                         71463-62-2);
 
 
@@ -8015,7 +7492,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
             3                               ) (CAS-Nr. 1317-60-8) mit einer
             spezifischen Oberfläche größer als 250 m
             2                               /g und einer durchschnittlichen
-            Partikelgröße kleiner/gleich 3,0 nm (CAS-Nr. 1309-37-1),
+            Partikelgröße kleiner/gleich 3,0 nm (CAS-Nr. 1309-37‑1),
 
 
         20. TEPAN (Tetraethylenpentaminacrylnitril) (CAS-Nr. 68412-45-3),
@@ -8038,7 +7515,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
     g)  „Vorprodukte“ wie folgt:
 
-        Anmerkung: Die Verweise in Unternummer 0008g beziehen sich auf erfasste
+        *Anmerkung:* Die Verweise in Unternummer 0008g beziehen sich auf erfasste
             „energetische Materialien“, die aus diesen Substanzen hergestellt
             werden.
 
@@ -8086,7 +7563,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
 
 
-    h)  Pulver und Formteile aus ,reaktiven Materialien‘ wie folgt:
+    h)  Pulver und Formteile aus ‚reaktiven Materialienʻ wie folgt:
 
         1.  Pulver aus einem der folgenden Materialien mit einer Partikelgröße
             kleiner als 250 μm in jeder Richtung und nicht anderweitig von Nummer
@@ -8116,7 +7593,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
             h)  Wolfram,
 
 
-            i)  Molybdän oder
+            i)  Molybdän *oder*
 
 
             j)  Hafnium,
@@ -8131,18 +7608,20 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
 
 
-        Technische Anmerkung:
+        *Technische Anmerkung:*
 
-        1.  ,Reaktive Materialien‘ sind für die Erzeugung einer exothermen
+        Im Sinne von Unternummer 0008h gilt:
+
+        1.  ‚Reaktive Materialienʻ sind für die Erzeugung einer exothermen
             Reaktion nur bei hohen Schergeschwindigkeiten und für die Verwendung
             als Auskleidung oder Gehäuse in Gefechtsköpfen entwickelt.
 
 
-        2.  Pulver aus ,reaktiven Materialien‘ werden beispielsweise durch Mahlen
+        2.  Pulver aus ‚reaktiven Materialienʻ werden beispielsweise durch Mahlen
             in einer Hochenergie-Kugelmühle erzeugt.
 
 
-        3.  Formteile aus ,reaktiven Materialien‘ werden beispielsweise durch
+        3.  Formteile aus ‚reaktiven Materialienʻ werden beispielsweise durch
             selektives „Laser“sintern erzeugt.
 
 
@@ -8151,7 +7630,8 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
 
 
-    Anmerkung 1: Nummer 0008 erfasst die nachstehend aufgeführten Stoffe nur dann, wenn
+
+    *Anmerkung 1:* Nummer 0008 erfasst die nachstehend aufgeführten Stoffe nur dann, wenn
         sie als Verbindungen oder Mischungen mit in Unternummer 0008a
         genannten „energetischen Materialien“ oder den in Unternummer 0008c
         genannten Metallpulvern vorliegen, d. h., sie werden nicht erfasst,
@@ -8166,7 +7646,8 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
         c)  Hexanitrodiphenylamin (CAS-Nr. 131-73-7),
 
 
-        d)  Difluoramin (HNF2) (CAS-Nr. 10405-27-3),
+        d)  Difluoramin (HNF
+            2                               ) (CAS-Nr. 10405-27-3),
 
 
         e)  Nitrostärke (CAS-Nr. 9056-38-6),
@@ -8187,7 +7668,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
         j)  Trinitroxylol,
 
 
-        k)  N-Pyrrolidinon, 1-Methyl-2-pyrrolidinon (CAS-Nr. 872-50-4),
+        k)  1-Methyl-2-pyrrolidinon (N-Methyl-2-pyrrolidon) (CAS-Nr. 872-50-4),
 
 
         l)  Dioctylmaleat (CAS-Nr. 142-16-5),
@@ -8197,72 +7678,74 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
 
         n)  Triethylaluminium (TEA) (CAS-Nr. 97-93-8), Trimethylaluminium (TMA)
-            (CAS-Nr. 75-24-1) und sonstige pyrophore Metallalkyle der Elemente
-            Lithium, Natrium, Magnesium, Zink und Bor sowie Metallaryle derselben
-            Elemente,
+            (CAS‑Nr. 75-24-1)                                und sonstige
+            pyrophore Metallalkyle der Elemente Lithium, Natrium, Magnesium, Zink
+            und Bor sowie Metallaryle derselben Elemente,
 
 
-        o)  Nitrozellulose (CAS-Nr. 9004-70-0),
+        o)  Nitrozellulose (CAS‑Nr. 9004-70-0),
 
 
-        p)  Nitroglycerin (oder Glycerinnitrat) (CAS-Nr. 55-63-0),
+        p)  Nitroglycerin (oder Glycerinnitrat) (CAS‑Nr. 55-63-0),
 
 
-        q)  2,4,6-Trinitrotoluol (CAS-Nr. 118-96-7),
+        q)  2,4,6-Trinitrotoluol (CAS‑Nr. 118-96-7),
 
 
-        r)  Ethylendiamindinitrat (CAS-Nr. 20829-66-7),
+        r)  Ethylendiamindinitrat (CAS‑Nr. 20829-66-7),
 
 
-        s)  Pentaerythrittetranitrat (CAS-Nr. 78-11-5),
+        s)  Pentaerythrittetranitrat (CAS‑Nr. 78-11-5),
 
 
-        t)  Bleiazid (CAS-Nr. 13424-46-9), normales Bleistyphnat (CAS-Nr.
-            15245-44-0), basisches Bleistyphnat (CAS-Nr. 12403-82-6) und sonstige
+        t)  Bleiazid (CAS‑Nr. 13424-46-9), normales Bleistyphnat (CAS‑Nr.
+            15245-44-0), basisches Bleistyphnat (CAS‑Nr. 12403-82-6) und sonstige
             Anzünder oder Anzündermischungen, die Azide oder komplexe Azide
             enthalten,
 
 
-        u)  Triethylenglykoldinitrat (TEGDN) (CAS-Nr. 111-22-8),
+        u)  Triethylenglykoldinitrat (TEGDN) (CAS‑Nr. 111-22-8),
 
 
-        v)  2,4,6-Trinitroresorcin (Styphninsäure) (CAS-Nr. 82-71-3),
+        v)  2,4,6-Trinitroresorcin (Styphninsäure) (CAS‑Nr. 82-71-3),
 
 
-        w)  Diethyldiphenylharnstoff (CAS-Nr. 85-98-3), Dimethyldiphenylharnstoff
-            (CAS-Nr 611-92-7), Methylethyldiphenylharnstoff (Centralite),
+        w)  Diethyldiphenylharnstoff (CAS‑Nr. 85-98-3), Dimethyldiphenylharnstoff
+            (CAS‑Nr. 611-92-7), Methylethyldiphenylharnstoff (Centralite),
 
 
-        x)  N,N-Diphenylharnstoff (unsymmetrischer Diphenylharnstoff) (CAS-Nr.
-            603-54-3),
+        x)  N,N-Diphenylharnstoff (unsymmetrischer Diphenylharnstoff) (CAS‑Nr.
+            603‑54‑3),
 
 
         y)  Methyl-N,N-diphenylharnstoff (unsymmetrischer Methyldiphenylharnstoff)
-            (CAS-Nr. 13114-72-2),
+            (CAS‑Nr. 13114-72-2),
 
 
         z)  Ethyl-N,N-diphenylharnstoff (unsymmetrischer Ethyldiphenylharnstoff)
-            (CAS-Nr. 64544-71-4),
+            (CAS‑Nr. 64544-71-4),
 
 
-        aa) 2-Nitrodiphenylamin (2-NDPA) (CAS-Nr. 119-75-5),
 
 
-        bb) 4-Nitrodiphenylamin (4-NDPA) (CAS-Nr. 836-30-6),
+        aa) 2-Nitrodiphenylamin (2-NDPA) (CAS‑Nr. 119-75-5),
 
 
-        cc) 2,2-Dinitropropanol (CAS-Nr. 918-52-5),
+        bb) 4-Nitrodiphenylamin (4-NDPA) (CAS‑Nr. 836-30-6),
+
+
+        cc) 2,2-Dinitropropanol (CAS‑Nr. 918-52-5),
 
 
         dd) zur Erfassung von Nitroguanidin (NQ) (CAS-Nr. 556-88-7) siehe
-            Unternummer 1C011d des Anhang I der Verordnung (EU) 2021/821 in der
+            Unternummer 1C011d des Anhangs I der Verordnung (EU) 2021/821 in der
             jeweils geltenden Fassung.
 
 
 
 
 
-    Anmerkung 2: Nummer 0008 erfasst nicht Ammoniumperchlorat (Unternummer 0008d2), NTO
+    *Anmerkung 2:* Nummer 0008 erfasst nicht Ammoniumperchlorat (Unternummer 0008d2), NTO
         (Unternummer 0008a18) oder Catocen (Unternummer 0008f4b) mit allen
         folgenden Eigenschaften:
 
@@ -8279,7 +7762,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
             (Unternummer 0008d2),
 
 
-        d)  enthält nicht mehr als 4 g NTO (Unternummer 0008a18) und
+        d)  enthält nicht mehr als 4 g NTO (Unternummer 0008a18) *und*
 
 
         e)  enthält nicht mehr als 1 g Catocen (Unternummer 0008f4b).
@@ -8288,7 +7771,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
 
 
-    Anmerkung 3: Zur Erfassung von Treibladungspulver als Bestandteil von Munition
+    *Anmerkung 3:* Zur Erfassung von Treibladungspulver als Bestandteil von Munition
         siehe Nummer 0003.
 
 
@@ -8298,7 +7781,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 0009 Kriegsschiffe (über oder unter Wasser), Marine-Spezialausrüstung,
     Zubehör, Bestandteile hierfür und andere Überwasserschiffe wie folgt:
 
-    Ergänzende Anmerkung:
+    *Ergänzende Anmerkung:*
 
     Lenk- und Navigationsausrüstung siehe Nummer 0011.
 
@@ -8311,7 +7794,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
             oder Teile von Schiffskörpern für solche Schiffe, und Bestandteile
             hierfür, besonders konstruiert für militärische Zwecke;
 
-            Anmerkung: Unternummer 0009a1 schließt Fahrzeuge, besonders konstruiert oder
+            *Anmerkung:* Unternummer 0009a1 schließt Fahrzeuge, besonders konstruiert oder
                 geändert für das Absetzen von Tauchern, ein.
 
 
@@ -8323,14 +7806,15 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
             Ausrüstungen:
 
             a)  automatische Waffen, erfasst von Nummer 0001, oder Waffen, die von
-                Nummer 0002, 0004, 0012 oder 0019 erfasst werden, oder ,Montagen‘ oder
+                Nummer 0002, 0004, 0012 oder 0019 erfasst werden, oder ‚Montagenʻ oder
                 Befestigungspunkte (hard points) für Waffen mit einem Kaliber von
                 größer/gleich 12,7 mm;
 
-                Technische Anmerkung:
+                *Technische Anmerkung:*
 
-                Der Begriff ,Montagen‘ bezieht sich auf Lafetten und Verstärkungen der
-                Schiffsstruktur für den Zweck der Installation von Waffen.
+                Im Sinne von Unternummer 0009a2a bezieht sich der Begriff ‚Montagenʻ
+                auf Lafetten und Verstärkungen der Schiffsstruktur für den Zweck der
+                Installation von Waffen.
 
 
             b)  Feuerleitsysteme, die von Nummer 0005 erfasst werden;
@@ -8338,36 +7822,27 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
             c)  mit allen folgenden Ausrüstungen:
 
-                1.  ,ABC-Schutz‘ und
+                1.  ‚ABC-Schutzʻ *und*
 
 
-                2.  ,Pre-wet oder Wash-Down-System‘ konstruiert für
-                    Dekontaminationszwecke; oder
-
-
-
-
-                Technische Anmerkungen:
-
-                1.  ,ABC-Schutz‘ ist ein abgeschlossener Innenraum, der Merkmale aufweist
-                    wie eine Überdruckbelüftung, die Trennung der Lüftungssysteme, eine
-                    limitierte Anzahl von Lüftungsöffnungen mit ABC-Filtern und eine
-                    limitierte Anzahl von Eingängen mit Luftschleusen.
-
-
-                2.  ,Pre-wet oder Wash-Down System‘ ist ein Seewassersprühsystem, das zum
-                    gleichzeitigen Besprühen der äußeren Aufbauten und Decks eines
-                    Schiffes fähig ist.
+                2.  ‚Pre-wet oder Wash-Down-Systemʻ konstruiert für
+                    Dekontaminationszwecke; *oder*
 
 
 
 
+                *Technische Anmerkung:*
 
-            d)  Aktive Waffenabwehrsysteme (active weapon countermesure systems), die
+                ‚Pre-wet oder Wash-Down Systemʻ im Sinne von Unternummer 0009a2c2 ist
+                ein Seewassersprühsystem, das zum gleichzeitigen Besprühen der äußeren
+                Aufbauten und Decks eines Schiffes fähig ist.
+
+
+            d)  Aktive Waffenabwehrsysteme (active weapon countermeasure systems), die
                 von Unternummern 0004b, 0005c oder 0011a erfasst werden, wenn das
                 Schiff eines der folgenden Merkmale besitzt:
 
-                1.  ,ABC-Schutz‘,
+                1.  ‚ABC-Schutzʻ,
 
 
                 2.  Rumpf und Aufbauten, besonders konstruiert um den
@@ -8377,7 +7852,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
                 3.  Einrichtungen zur Reduzierung der thermischen Signatur (z. B. ein
                     Abgaskühlsystem), ausgenommen solche, die für die Erhöhung des
                     Gesamtwirkungsgrades oder die Verringerung der Umweltbelastung
-                    besonders konstruiert sind, oder
+                    besonders konstruiert sind, *oder*
 
 
                 4.  eine magnetische Eigenschutzanlage, konstruiert um die magnetische
@@ -8388,6 +7863,14 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
 
 
+
+            *Technische Anmerkung:*
+
+            ‚ABC-Schutzʻ im Sinne von Unternummer 0009a2 ist ein abgeschlossener
+            Innenraum, der Merkmale aufweist wie eine Überdruckbelüftung, die
+            Trennung der Lüftungssysteme, eine limitierte Anzahl von
+            Lüftungsöffnungen mit ABC-Filtern und eine limitierte Anzahl von
+            Eingängen mit Luftschleusen.
 
 
 
@@ -8409,7 +7892,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
             b)  schnell umsteuerbar,
 
 
-            c)  flüssigkeitsgekühlt und
+            c)  flüssigkeitsgekühlt *und*
 
 
             d)  vollständig gekapselt,
@@ -8420,31 +7903,38 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
         3.  Dieselmotoren mit allen folgenden Eigenschaften:
 
-            a)  Leistung größer/gleich 37,3 kW (50 PS) und
+            a)  Leistung größer/gleich 37,3 kW (50 PS) *und*
 
 
-            b)  ,nichtmagnetischer‘ Anteil von mehr als 75 % des Gesamtgewichts;
+            b)  ‚nichtmagnetischerʻ Anteil von mehr als 75 % des Gesamtgewichts;
 
 
 
 
-            Technische Anmerkung:
+            *Technische Anmerkung:*
 
-            Im Sinne von Unternummer 0009b3 bedeutet ,nichtmagnetisch‘ eine
+            Im Sinne von Unternummer 0009b3 bedeutet ‚nichtmagnetischʻ eine
             Permeabilitätszahl kleiner als 2.
 
 
-        4.  ,außenluftunabhängige Antriebssysteme‘ (AIP), besonders konstruiert
+        4.  ‚außenluftunabhängige Antriebssystemeʻ (‚AIPʻ), besonders konstruiert
             für U-Boote;
 
-            Technische Anmerkung:
+            *Anmerkung:* Unternummer 0009b4 gilt nicht für Nuklearenergie.
 
-            Ein ,außenluftunabhängiger Antrieb‘ (AIP) gestattet es getauchten
-            U-Booten, das Antriebssystem ohne Zugang zu atmosphärischem Sauerstoff
-            für einen längeren Zeitraum zu betreiben, als es sonst mit Batterien
-            möglich wäre. Im Sinne von Unternummer 0009b4 schließt ein
-            ,außenluftunabhängiger Antrieb‘ (AIP) nukleare Antriebssysteme nicht
-            ein.
+
+
+
+            *Technische Anmerkung:*
+
+            Ein ‚außenluftunabhängiger Antriebʻ (‚AIPʻ) im Sinne von Unternummer
+            0009b4 gestattet es getauchten U‑Booten, das Antriebssystem ohne
+            Zugang zu atmosphärischem Sauerstoff für einen längeren Zeitraum zu
+            betreiben, als es sonst mit Batterien möglich wäre.
+
+            *Ergänzende Anmerkung:*
+
+            Nukleare Antriebsausrüstung siehe Unternummer 0009h.
 
 
 
@@ -8466,7 +7956,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
         Ausrüstung außerhalb eines Schiffes ermöglichen, sowie Bestandteile
         hierfür, besonders konstruiert für militärische Zwecke;
 
-        Anmerkung 1: Unternummer 0009f schließt Steckverbinder für Schiffe in
+        *Anmerkung 1:* Unternummer 0009f schließt Steckverbinder für Schiffe in
             Einzelleiter-, Mehrfachleiter-, Koaxial- und Hohlleiterausführung
             sowie Schiffskörperdurchführungen ein, die jeweils unbeeinflusst
             bleiben von (eventuellem) Leckwasser von außen und die geforderten
@@ -8476,7 +7966,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
             unabhängig von der Wassertiefe.
 
 
-        Anmerkung 2: Unternummer 0009f umfasst nicht übliche Schiffskörperdurchführungen
+        *Anmerkung 2:* Unternummer 0009f umfasst nicht übliche Schiffskörperdurchführungen
             für Antriebswellen und Ruderschäfte.
 
 
@@ -8490,7 +7980,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
         1.  aerodynamische/aerostatische Schmierung oder magnetische Aufhängung,
 
 
-        2.  aktiv kontrollierte Signaturunterdrückung oder
+        2.  aktiv kontrollierte Signaturunterdrückung *oder*
 
 
         3.  Schwingungsunterdrückung;
@@ -8501,17 +7991,17 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
     h)  nukleare Energieerzeugungs- oder Antriebsausrüstung, besonders
         konstruiert für in Unternummer 0009a genannte Schiffe, sowie besonders
-        für militärische Zwecke konstruierte oder ,geänderte‘ Bestandteile.
+        für militärische Zwecke konstruierte oder ‚geänderteʻ Bestandteile.
 
-        Technische Anmerkung:
+        *Technische Anmerkung:*
 
-        ,Geändert‘ im Sinne von Unternummer 0009h bedeutet eine bauliche,
+        ‚Geändertʻ im Sinne von Unternummer 0009h bedeutet eine bauliche,
         elektrische, mechanische oder sonstige Änderung, die eine
         nichtmilitärische Ausrüstung mit militärischen Eigenschaften
         ausstattet, sodass die Ausrüstung gleichwertig zu einer für
         militärische Zwecke besonders konstruierten Ausrüstung ist.
 
-        Anmerkung: Unternummer 0009h schließt „Kernreaktoren“ ein.
+        *Anmerkung:* Unternummer 0009h schließt „Kernreaktoren“ ein.
 
 
 
@@ -8520,12 +8010,13 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
 
 
-0010 „Luftfahrzeuge“, „Luftfahrtgerät nach dem Prinzip leichter-als-Luft“,
-    „unbemannte Luftfahrzeuge“ („UAV“), Triebwerke,
-    „Luftfahrzeug“-Ausrüstung, Zusatzausrüstung und Bestandteile wie
-    folgt, besonders konstruiert oder geändert für militärische Zwecke:
+0010 „Luftfahrzeuge“, „Luftfahrtgeräte nach dem Prinzip leichter-als-Luft“,
+    „unbemannte Luftfahrzeuge“ („UAV“), Triebwerke, „suborbitale
+    Fahrzeuge“, „Luftfahrzeug“-Ausrüstung, Zusatzausrüstung und
+    Bestandteile wie folgt, besonders konstruiert oder geändert für
+    militärische Zwecke:
 
-    Ergänzende Anmerkung:
+    *Ergänzende Anmerkung:*
 
     Lenk- und Navigationsausrüstung siehe Nummer 0011.
 
@@ -8561,7 +8052,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
         geändert für eines der Folgenden und besonders konstruierte
         Bestandteile hierfür:
 
-        1.  „Luftfahrzeuge“ erfasst von 0010a oder
+        1.  „Luftfahrzeuge“ erfasst von 0010a *oder*
 
 
         2.  unbemannte „Luftfahrzeuge“ erfasst von 0010c;
@@ -8574,13 +8065,13 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
         erfassten „Luftfahrzeuge“ oder für die von Unternummer 0010d erfassten
         Triebwerke;
 
-        Anmerkung 1: Unternummer 0010f erfasst Ausrüstung zum Druckbetanken und Ausrüstung
+        *Anmerkung 1:* Unternummer 0010f erfasst Ausrüstung zum Druckbetanken und Ausrüstung
             konstruiert zur Erleichterung von Operationen in begrenzten
             Abschnitten, einschließlich der an Bord eines Schiffes befindlichen
             Ausrüstungen.
 
 
-        Anmerkung 2: Unternummer 0010f erfasst nicht:
+        *Anmerkung 2:* Unternummer 0010f erfasst nicht:
 
             1.  Schleppstangen,
 
@@ -8603,9 +8094,10 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
     g)  Lebenserhaltungsgeräte für die Flugbesatzung, Sicherheitsausrüstung
         für die Flugbesatzung und andere Einrichtungen für den Notausstieg,
         die nicht von Unternummer 0010a erfasst werden, besonders konstruiert
-        für die von Unternummer 0010a erfassten „Luftfahrzeuge“;
+        für die von Unternummer 0010a erfassten „Luftfahrzeuge“ oder für die
+        von Unternummer 0010j erfassten „suborbitalen Fahrzeuge“;
 
-        Anmerkung: Unternummer 0010g erfasst keine Helme für Flugbesatzungen, die nicht
+        *Anmerkung:* Unternummer 0010g erfasst keine Helme für Flugbesatzungen, die nicht
             mit von der Liste für Waffen, Munition und Rüstungsmaterial (Teil I A)
             erfasster Ausrüstung ausgestattet sind und keine Montagen oder
             Halterungen hierfür aufweisen.
@@ -8613,7 +8105,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
 
 
-        Ergänzende Anmerkung:
+        *Ergänzende Anmerkung:*
 
         Für Helme siehe auch Nummer 0013c.
 
@@ -8640,9 +8132,25 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
         konstruiert für Fallschirmlasten.
 
 
+    j)  „suborbitale Fahrzeuge“ sowie zugehörige Ausrüstung wie folgt und
+        besonders konstruierte oder geänderte Bestandteile hierfür:
+
+        1.  „suborbitale Fahrzeuge“,
 
 
-    Anmerkung 1: Unternummer 0010a erfasst nicht „Luftfahrzeuge“ und „Luftfahrtgeräte
+        2.  Startausrüstung, Bergungsausrüstung und unterstützende Bodengeräte,
+
+
+        3.  Ausrüstung für die Steuerung.
+
+
+
+
+
+
+
+
+    *Anmerkung 1:* Unternummer 0010a erfasst nicht „Luftfahrzeuge“ und „Luftfahrtgeräte
         nach dem Prinzip leichter-als-Luft“, oder Varianten dieser
         „Luftfahrzeuge“, besonders konstruiert für militärische Zwecke und mit
         allen folgenden Eigenschaften:
@@ -8652,7 +8160,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
         b)  nicht konfiguriert für militärische Verwendung und nicht mit
             technischen Ausrüstungen oder Zusatzeinrichtungen versehen, die für
-            militärische Zwecke besonders konstruiert oder geändert sind, und
+            militärische Zwecke besonders konstruiert oder geändert sind, *und*
 
 
         c)  von den Zivilluftfahrtbehörden eines oder mehrerer EU-Mitgliedstaaten
@@ -8663,7 +8171,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
 
 
-    Anmerkung 2: Unternummer 0010d erfasst nicht:
+    *Anmerkung 2:* Unternummer 0010d erfasst nicht:
 
         a)  Triebwerke, konstruiert oder geändert für militärische Zwecke, die von
             den Zivilluftfahrtbehörden eines oder mehrerer EU-Mitgliedstaaten oder
@@ -8678,26 +8186,27 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
 
 
-        Ergänzende Anmerkung:
+        *Ergänzende Anmerkung:*
 
         Siehe jedoch Teil I B Nummer 9A994.
 
 
-    Anmerkung 3: Im Sinne von Unternummer 0010a und 0010d erstreckt sich die Erfassung
-        von besonders konstruierten Bestandteilen und zugehöriger Ausrüstung
-        für nichtmilitärische „Luftfahrzeuge“ oder Triebwerke, die für
-        militärische Zwecke geändert sind, nur auf solche militärischen
-        Bestandteile und zugehörige militärische Ausrüstung, die für die
-        Änderung für militärische Zwecke nötig sind.
+    *Anmerkung 3:* Im Sinne von Unternummern 0010a, 0010d und 0010j erstreckt sich die
+        Erfassung von besonders konstruierten Bestandteilen und zugehöriger
+        Ausrüstung für nichtmilitärische „Luftfahrzeuge“, Triebwerke oder
+        „suborbitale Fahrzeuge“, die für militärische Zwecke geändert sind,
+        nur auf solche militärischen Bestandteile und zugehörige militärische
+        Ausrüstung, die für die Änderung für militärische Zwecke nötig sind.
 
 
-    Anmerkung 4: Im Sinne von Unternummer 0010a schließen militärische Zwecke Folgendes
-        ein: Kampfhandlungen, militärische Aufklärung, militärischer Angriff,
-        militärische Ausbildung, logistische Unterstützung sowie Beförderung
-        und Luftlandung von Truppen oder militärischer Ausrüstung.
+    *Anmerkung 4:* Im Sinne von Unternummern 0010a und 0010j schließen militärische
+        Zwecke Folgendes ein: Kampfhandlungen, militärische Aufklärung,
+        militärischer Angriff, militärische Ausbildung, logistische
+        Unterstützung sowie Beförderung und Luftlandung von Truppen oder
+        militärischer Ausrüstung.
 
 
-    Anmerkung 5: Unternummer 0010a erfasst nicht „Luftfahrzeuge“ oder „Luftfahrtgeräte
+    *Anmerkung 5:* Unternummer 0010a erfasst nicht „Luftfahrzeuge“ oder „Luftfahrtgeräte
         nach dem Prinzip leichter-als-Luft“, mit allen folgenden
         Eigenschaften:
 
@@ -8708,7 +8217,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
             und Rüstungsmaterial (Teil I A) erfasst sind, es sei denn, die Güter
             sind erforderlich, um die Sicherheits- oder Lufttüchtigkeitsstandards
             der Zivilluftfahrtbehörden eines oder mehrerer EU-Mitgliedstaaten oder
-            Teilnehmerstaaten des Wassenaar-Arrangements zu erfüllen, und
+            Teilnehmerstaaten des Wassenaar-Arrangements zu erfüllen, *und*
 
 
         c)  nicht ausgerüstet mit Waffen, die von der Liste für Waffen, Munition
@@ -8720,7 +8229,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
 
 
-    Anmerkung 6: Unternummer 0010d erfasst nicht Triebwerke, die erstmalig vor 1946
+    *Anmerkung 6:* Unternummer 0010d erfasst nicht Triebwerke, die erstmalig vor 1946
         hergestellt wurden.
 
 
@@ -8734,11 +8243,11 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
     a)  Elektronische Ausrüstung besonders konstruiert für militärische Zwecke
         und besonders konstruierte Bestandteile hierfür;
 
-        Anmerkung: Unternummer 0011a schließt folgende Ausrüstung ein:
+        *Anmerkung:* Unternummer 0011a schließt folgende Ausrüstung ein:
 
             a)  Ausrüstung für elektronische Gegenmaßnahmen (ECM) und elektronische
                 Schutzmaßnahmen (ECCM), einschließlich elektronischer Ausrüstung zum
-                Stören und Gegenstören, d. h. Geräte, konstruiert, um in Radar- oder
+                Stören und Gegenstören, d.h. Geräte, konstruiert, um in Radar- oder
                 Funkgeräten Störsignale oder verfälschende Signale zu erzeugen oder
                 auf andere Weise den Empfang, den Betrieb oder die Wirksamkeit
                 gegnerischer Empfänger einschließlich der Geräte für Gegenmaßnahmen zu
@@ -8780,7 +8289,29 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
                 elektronische Aufklärung,
 
 
-            j)  „automatisierte Führungs- und Leitsysteme“.
+            j)  ‚automatisierte Führungs- und Leitsysteme‘.
+
+                *Technische Anmerkung:*
+
+                Im Sinne von Unternummer 0011a Anmerkung j bezeichnet ‚automatisierte
+                Führungs- und Leitsysteme‘ elektronische Systeme zur Eingabe,
+                Verarbeitung und Ausgabe von Information, die wesentlich ist für die
+                effektive Operation der unterstellten Gruppe, des Großverbands, des
+                taktischen Verbands, der Einheit, des Schiffes, der Untereinheit oder
+                des Waffensystems. Dies wird erreicht durch die Nutzung von Computern
+                und anderer spezialisierter Hardware, konstruiert zur Unterstützung
+                der Funktionen einer militärischen Führungs- und Leitorganisation. Die
+                Hauptfunktionen eines ‚automatisierten Führungs- und Leitsystems‘
+                sind: die effiziente automatische Erfassung, Sammlung, Speicherung und
+                Verarbeitung von Information; die Darstellung der Lage und der
+                Verhältnisse, die die Vorbereitung und Durchführung von
+                Kampfoperationen beeinflussen; operationelle und taktische
+                Berechnungen für die Zuweisung von Ressourcen zwischen den
+                Kampfgruppen oder Elementen für die operative Kräftegliederung oder
+                den Aufmarsch entsprechend der Mission oder dem Stadium der Operation;
+                die Aufbereitung von Daten für die Einschätzung der Situation und für
+                die Entscheidungsfindung zu jedem Zeitpunkt während der Operation oder
+                Schlacht; Computer-Simulation von Operationen.
 
 
 
@@ -8791,11 +8322,10 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
 
 
-    Ergänzende Anmerkung:
+    *Ergänzende Anmerkung:*
 
     „Software“ für militärische „Software“ Defined Radio (SDR) siehe
     Nummer 0021.
-
 
     b)  Störausrüstung, konstruiert oder geändert, um den Empfang, den Betrieb
         oder die Wirksamkeit der von „Satelliten-Navigationssystemen“
@@ -8828,7 +8358,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
 
 
-    Anmerkung 1: Nummer 0012 schließt folgende Ausrüstung ein, sofern sie besonders
+    *Anmerkung 1:* Nummer 0012 schließt folgende Ausrüstung ein, sofern sie besonders
         konstruiert ist für Waffensysteme mit hoher kinetischer Energie:
 
         a)  Startantriebssysteme, die Massen größer als 0,1 g auf
@@ -8844,9 +8374,9 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
             Stromversorgung, Geschütz und anderen elektrischen Richtfunktionen des
             Turms,
 
-            Ergänzende Anmerkung:
+            *Ergänzende Anmerkung:*
 
-            Siehe auch Unternummer 3A001e2 (Hochenergie-Speicherkondensatoren) des
+            Hochenergie-Speicherkondensatoren siehe auch Unternummer 3A001e2 des
             Anhangs I der Verordnung (EU) 2021/821 in der jeweils geltenden
             Fassung.
 
@@ -8862,7 +8392,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
 
 
-    Anmerkung 2: Nummer 0012 erfasst Systeme, die eine der folgenden Antriebsarten
+    *Anmerkung 2:* Nummer 0012 erfasst Systeme, die eine der folgenden Antriebsarten
         verwenden:
 
         a)  elektromagnetisch,
@@ -8874,7 +8404,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
         c)  Plasmaantrieb,
 
 
-        d)  Leichtgasantrieb oder
+        d)  Leichtgasantrieb *oder*
 
 
         e)  chemisch (sofern in Kombination mit den zu a bis d aufgeführten
@@ -8886,7 +8416,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
 
 
-    Ergänzende Anmerkung:
+    *Ergänzende Anmerkung:*
 
     Waffensysteme, die Unterkalibermunition verwenden oder allein mit
     chemischem Antrieb arbeiten, und Munition hierfür siehe Nummern 0001,
@@ -8900,7 +8430,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
         folgenden Eigenschaften:
 
         1.  hergestellt, um einen militärischen Standard oder eine militärische
-            Spezifikation zu erfüllen, oder
+            Spezifikation zu erfüllen, *oder*
 
 
         2.  geeignet für militärische Zwecke;
@@ -8908,7 +8438,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
 
 
-        Ergänzende Anmerkung:
+        *Ergänzende Anmerkung:*
 
         Körperpanzer-Schutzplatten siehe Unternummer 0013d2.
 
@@ -8936,7 +8466,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
 
 
-        Ergänzende Anmerkung:
+        *Ergänzende Anmerkung:*
 
         Für andere Bestandteile oder Ausrüstung für militärische Helme siehe
         entsprechenden Eintrag in der Liste für Waffen, Munition und
@@ -8950,7 +8480,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
             gleichwertigen Anforderungen, und besonders konstruierte Bestandteile
             hierfür;
 
-            Anmerkung: Für die Zwecke der Unternummer 0013d1 schließen militärische Standards
+            *Anmerkung:* Für die Zwecke der Unternummer 0013d1 schließen militärische Standards
                 bzw. Spezifikationen mindestens Spezifikationen für den Splitterschutz
                 ein.
 
@@ -8968,32 +8498,31 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
 
 
-    Anmerkung 1 Unternummer 0013a umfasst auch Panzerplatten in besonders
+    *Anmerkung 1:* Unternummer 0013a umfasst auch Panzerplatten in besonders
         hergestellter Verbundbauweise oder einzelne Panzerplatten aus nur
         einem Werkstoff, die
 
         a)  einen ballistischen Schutz der Widerstandsklasse FB1/BR1 nach DIN EN
-            1522 bzw. DIN EN 1063 oder vergleichbare Norm oder besser oder
+            1522 bzw. DIN EN 1063 oder vergleichbare Norm oder besser *oder*
 
 
         b)  eine Sprengwirkungshemmung der Widerstandsklasse ER1/EPR1 nach DIN EN
-            13541 bzw. DIN EN 13123-1 oder vergleichbare Norm oder besser
+            13541 bzw. DIN EN 13123-1 oder vergleichbare Norm oder besser bewirken
+            können.
 
 
 
 
-        bewirken können.
 
-
-    Anmerkung 2: Unternummer 0013b schließt Werkstoffe ein, die besonders konstruiert
+    *Anmerkung 2:* Unternummer 0013b schließt Werkstoffe ein, die besonders konstruiert
         sind zur Bildung einer explosions-reaktiven Panzerung oder zum Bau
         militärischer Unterstände (shelters).
 
 
-    Anmerkung 3: Unternummer 0013c erfasst nicht Helme mit allen folgenden
+    *Anmerkung 3:* Unternummer 0013c erfasst nicht Helme mit allen folgenden
         Eigenschaften:
 
-        a)  sie wurden erstmalig vor 1970 hergestellt und
+        a)  sie wurden erstmalig vor 1970 hergestellt *und*
 
 
         b)  sind weder mit in der Liste für Waffen, Munition und Rüstungsmaterial
@@ -9004,110 +8533,108 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
 
 
-    Anmerkung 4: Unternummern 0013c und 0013d erfassen nicht einzelne Helme,
+    *Anmerkung 4:* Unternummern 0013c und 0013d erfassen nicht einzelne Helme,
         Körperpanzer oder Schutzbekleidung, wenn diese von ihren Benutzern zu
         deren eigenem persönlichen Schutz mitgeführt werden.
 
 
-    Anmerkung 5: Unterummer 0013c erfasst nur solche besonders für Bombenräumpersonal
+    *Anmerkung 5:* Unternummer 0013c erfasst nur solche besonders für Bombenräumpersonal
         konstruierte Helme, die besonders für militärische Zwecke konstruiert
         sind.
 
 
-    Anmerkung 6: Unternummer 0013d1 erfasst nicht Schutzbrillen.
+    *Anmerkung 6:* Unternummer 0013d1 erfasst nicht Schutzbrillen.
 
-        Ergänzende Anmerkung:
+        *Ergänzende Anmerkung:*
 
-        Für Laserschutzbrillen siehe Unternummer 0017o.
-
-
+        Für „Laser“schutzbrillen siehe Unternummer 0017o.
 
 
-    Ergänzende Anmerkung 1:
+
+
+    *Ergänzende Anmerkung 1:*
 
     Siehe auch Nummer 1A005 des Anhangs I der Verordnung (EU) 2021/821 in
     der jeweils geltenden Fassung.
 
-    Ergänzende Anmerkung 2:
+    *Ergänzende Anmerkung 2:*
 
     „Faser- oder fadenförmige Materialien“, die bei der Herstellung von
     Körperpanzern verwendet werden, siehe Nummer 1C010 des Anhangs I der
     Verordnung (EU) 2021/821 in der jeweils geltenden Fassung.
 
 
-0014 ,Spezialisierte Ausrüstung für die militärische Ausbildung‘ oder für
+0014 ‚Spezialisierte Ausrüstung für die militärische Ausbildungʻ oder für
     die Simulation militärischer Szenare, Simulatoren, besonders
     konstruiert für die Ausbildung an den unter Nummer 0001 oder 0002
     erfassten Waffen, sowie besonders konstruierte Bestandteile und
     besonders konstruiertes Zubehör hierfür.
 
-    Technische Anmerkung:
-
-    Der Begriff ,spezialisierte Ausrüstung für die militärische
-    Ausbildung‘ schließt militärische Ausführungen von folgender
-    Ausrüstung ein:
-
-    a)  Angriffssimulatoren,
-
-
-    b)  Einsatzflug-Übungsgeräte,
-
-
-    c)  Radar-Zielübungsgeräte,
-
-
-    d)  Radar-Zielgeneratoren,
-
-
-    e)  Feuerleit-Übungsgeräte,
-
-
-    f)  Übungsgeräte für die U-Boot-Bekämpfung,
-
-
-    g)  Flugsimulatoren einschließlich der für das Training von Piloten oder
-        Astronauten ausgelegten Zentrifugen,
-
-
-    h)  Radartrainer,
-
-
-    i)  Instrumentenflug-Übungsgeräte,
-
-
-    j)  Navigations-Übungsgeräte,
-
-
-    k)  Übungsgeräte für den Flugkörperstart,
-
-
-    l)  Zieldarstellungsgeräte,
-
-
-    m)  Drohnen,
-
-
-    n)  Waffen-Übungsgeräte,
-
-
-    o)  Geräte für Übungen mit unbemannten „Luftfahrzeugen“,
-
-
-    p)  bewegliche Übungsgeräte,
-
-
-    q)  Übungsausrüstung für militärische Bodenoperationen.
-
-
-
-
-    Anmerkung 1: Nummer 0014 schließt Systeme zur Bilderzeugung (image generating) oder
+    *Anmerkung 1:* Nummer 0014 schließt Systeme zur Bilderzeugung (image generating) oder
         zum Dialog mit der Umgebung für Simulatoren ein, sofern sie für
         militärische Zwecke besonders konstruiert oder geändert sind.
 
 
-    Anmerkung 2: Nummer 0014 erfasst nicht besonders konstruierte Ausrüstung für das
+    *Anmerkung 2:* Nummer 0014 erfasst nicht besonders konstruierte Ausrüstung für das
         Training im Umgang mit Jagd- und Sportwaffen.
+
+
+    *Anmerkung 3:* ,Spezialisierte Ausrüstung für die militärische Ausbildungʻ schließt
+        militärische Ausführungen von folgender Ausrüstung ein:
+
+        a)  Angriffssimulatoren,
+
+
+        b)  Einsatzflug-Übungsgeräte,
+
+
+        c)  Radar-Zielübungsgeräte,
+
+
+        d)  Radar-Zielgeneratoren,
+
+
+        e)  Feuerleit-Übungsgeräte,
+
+
+        f)  Übungsgeräte für die U-Boot-Bekämpfung,
+
+
+        g)  Flugsimulatoren einschließlich der für das Training von Piloten oder
+            Astronauten ausgelegten Zentrifugen,
+
+
+        h)  Radartrainer,
+
+
+        i)  Instrumentenflug-Übungsgeräte,
+
+
+        j)  Navigations-Übungsgeräte,
+
+
+        k)  Übungsgeräte für den Flugkörperstart,
+
+
+        l)  Zieldarstellungsgeräte,
+
+
+        m)  Drohnen,
+
+
+        n)  Waffen-Übungsgeräte,
+
+
+        o)  Geräte für Übungen mit unbemannten „Luftfahrzeugen“,
+
+
+        p)  bewegliche Übungsgeräte,
+
+
+        q)  Übungsausrüstung für militärische Bodenoperationen.
+
+
+
 
 
 
@@ -9136,7 +8663,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
         (ECCM) für die von den Unternummern 0015a bis 0015e erfasste
         Ausrüstung.
 
-        Anmerkung: Unternummer 0015f schließt Ausrüstung ein, die konstruiert ist zur
+        *Anmerkung:* Unternummer 0015f schließt Ausrüstung ein, die konstruiert ist zur
             Beeinträchtigung des Betriebs oder der Wirksamkeit militärischer
             Bildsysteme oder zur Reduzierung solcher Beeinträchtigungen auf ein
             Minimum.
@@ -9147,11 +8674,11 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
 
 
-    Anmerkung: Nummer 0015 erfasst nicht „Bildverstärkerröhren der ersten Generation“
+    *Anmerkung:* Nummer 0015 erfasst nicht „Bildverstärkerröhren der ersten Generation“
         oder Ausrüstung, die besonders konstruiert ist für den Einsatz von
         „Bildverstärkerröhren der ersten Generation“.
 
-        Ergänzende Anmerkung:
+        *Ergänzende Anmerkung:*
 
         Für Waffenzielgeräten mit „Bildverstärkerröhren der ersten Generation“
         siehe Unternummern 0001d, 0002c und 0005a.
@@ -9159,9 +8686,9 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
 
 
-    Ergänzende Anmerkung:
+    *Ergänzende Anmerkung:*
 
-    Siehe auch Unternummern 6A002a2 und 6A002b des Anhangs I der
+    Siehe auch Unternummern 6A002a2, 6A002b und 6A003b des Anhangs I der
     Verordnung (EU) 2021/821 in der jeweils geltenden Fassung.
 
 
@@ -9169,12 +8696,12 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
     besonders konstruiert sind für eine der von Nummer 0001, 0002, 0003,
     0004, 0006, 0009, 0010, 0012 oder 0019 erfassten Waren.
 
-    Anmerkung 1: Nummer 0016 erfasst unfertige Erzeugnisse, wenn sie anhand von
+    *Anmerkung 1:* Nummer 0016 erfasst unfertige Erzeugnisse, wenn sie anhand von
         Materialzusammensetzung, Geometrie oder Funktion bestimmt werden
         können.
 
 
-    Anmerkung 2: Nummer 0016 schließt Mischungen von „energetischen Materialien“ ein,
+    *Anmerkung 2:* Nummer 0016 schließt Mischungen von „energetischen Materialien“ ein,
         die formuliert sind für die Herstellung von Treibladungspulver. Andere
         Mischungen von „energetischen Materialien“ siehe Nummer 0008.
 
@@ -9198,7 +8725,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
 
 
-        Ergänzende Anmerkung:
+        *Ergänzende Anmerkung:*
 
         Siehe auch Unternummer 8A002q des Anhangs I der Verordnung (EU)
         2021/821 in der jeweils geltenden Fassung.
@@ -9216,7 +8743,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
         Einsatz in einer Kampfzone;
 
 
-    e)  „Roboter“, „Roboter“ steuerungen und „Roboter“-„Endeffektoren“ mit
+    e)  „Roboter“, „Roboter“steuerungen und „Roboter“-„Endeffektoren“ mit
         einer der folgenden Eigenschaften:
 
         1.  besonders konstruiert für militärische Zwecke,
@@ -9225,15 +8752,15 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
         2.  ausgestattet mit Mitteln zum Schutz der Hydraulikleitungen gegen
             Beschädigungen von außen durch umherfliegende Munitionssplitter (z. B.
             selbstdichtende Leitungen) und konstruiert für die Verwendung von
-            Hydraulikflüssigkeiten mit einem Flammpunkt über 839 K (566 °C) oder
+            Hydraulikflüssigkeiten mit einem Flammpunkt über 839 K (566 °C) *oder*
 
 
-        3.  besonders konstruiert oder ausgelegt für einen Einsatz in einer EMP-
-            Umgebung (EMP = elektromagnetischer Impuls);
+        3.  besonders konstruiert oder ausgelegt für einen Einsatz in einer ‚EMPʻ-
+            Umgebung (‚EMPʻ = elektromagnetischer Impuls);
 
-            Technische Anmerkung:
+            *Technische Anmerkung:*
 
-            Der Begriff elektromagnetischer Impuls bezieht sich nicht auf eine
+            ‚EMPʻ im Sinne von Unternummer 0017e3 bezieht sich nicht auf eine
             unbeabsichtigte Störbeeinflussung, die durch elektromagnetische
             Abstrahlung nahe gelegener Ausrüstung (z. B. Maschinenanlagen,
             Vorrichtungen oder Elektronik) oder Blitzschlag verursacht wird.
@@ -9251,10 +8778,10 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
     g)  Nukleare Energieerzeugungs- oder Antriebsausrüstung, nicht anderweitig
         von der Liste für Waffen, Munition und Rüstungsmaterial (Teil I A)
         erfasst, besonders konstruiert für militärische Zwecke, sowie
-        besonders für militärische Zwecke konstruierte oder 'geänderte'
+        besonders für militärische Zwecke konstruierte oder ‚geänderteʻ
         Bestandteile;
 
-        Anmerkung: Unternummer 0017g schließt „Kernreaktoren“ ein.
+        *Anmerkung:* Unternummer 0017g schließt „Kernreaktoren“ ein.
 
 
 
@@ -9265,7 +8792,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
         Zwecke, nicht anderweitig von der Liste für Waffen, Munition und
         Rüstungsmaterial (Teil I A) erfasst;
 
-        Anmerkung: Unternummer 0017h erfasst nicht einzelne Erzeugnisse aus vorgenanntem
+        *Anmerkung:* Unternummer 0017h erfasst nicht einzelne Erzeugnisse aus vorgenanntem
             Material einschließlich Bekleidung, wenn diese von ihren Benutzern zu
             deren eigenem persönlichen Gebrauch mitgeführt werden.
 
@@ -9276,21 +8803,21 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
     i)  Simulatoren, besonders konstruiert für militärische „Kernreaktoren“;
 
 
-    j)  mobile Werkstätten, besonders konstruiert oder ,geändert‘ zur
+    j)  mobile Werkstätten, besonders konstruiert oder ‚geändertʻ zur
         Instandhaltung militärischer Ausrüstung;
 
 
-    k)  mobile Stromerzeugeraggregate, besonders konstruiert oder ,geändert‘
+    k)  mobile Stromerzeugeraggregate, besonders konstruiert oder ‚geändertʻ
         für militärische Zwecke;
 
 
     l)  intermodale ISO-Container oder abnehmbare Fahrzeugkörper (d. h.
-        Wechselaufbauten), besonders konstruiert oder ,geändert‘ für
+        Wechselaufbauten), besonders konstruiert oder ‚geändertʻ für
         militärische Zwecke;
 
-        Technische Anmerkung:
+        *Technische Anmerkung:*
 
-        ,Besonders konstruiert für militärische Zwecke‘ im Sinne von
+        ,Besonders konstruiert für militärische Zwecke´ im Sinne von
         Unternummer 0017l ist die Ausstattung mit einer der folgenden
         militärspezifischen Eigenschaften:
 
@@ -9300,7 +8827,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
         b)  ABC-Schutz,
 
 
-        c)  Beschichtung zur Signaturunterdrückung (Infrarot oder Radar) oder
+        c)  Beschichtung zur Signaturunterdrückung (Infrarot oder Radar) *oder*
 
 
         d)  ballistischer Schutz.
@@ -9325,17 +8852,17 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
     p)  „Brennstoffzellen“, nicht anderweitig von der Liste für Waffen,
         Munition und Rüstungsmaterial (Teil I A) erfasst, besonders
-        konstruiert oder ,geändert‘ für militärische Zwecke.
+        konstruiert oder ‚geändertʻ für militärische Zwecke.
 
 
 
 
-    Technische Anmerkungen:
+    *Technische Anmerkungen:*
 
     1.  nicht belegt.
 
 
-    2.  ,geändert‘ im Sinne von Nummer 0017 bedeutet eine bauliche,
+    2.  ‚geändert‘ im Sinne von Nummer 0017 bedeutet eine bauliche,
         elektrische, mechanische oder sonstige Änderung, die eine
         nichtmilitärische Ausrüstung mit militärischen Eigenschaften
         ausstattet, so dass die Ausrüstung gleichwertig zu einer für
@@ -9345,98 +8872,39 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
 
 
-0018 ,Herstellung‘sausrüstung, Umweltprüfeinrichtungen und Bestandteile wie
+0018 ‚Herstellung‘sausrüstung, Umweltprüfeinrichtungen und Bestandteile wie
     folgt:
 
-    a)  besonders konstruierte oder geänderte Ausrüstung für die ,Herstellung‘
+    a)  Ausrüstung, besonders konstruiert oder geändert für die ‚Herstellungʻ
         der von der Liste für Waffen, Munition und Rüstungsmaterial (Teil I A)
-        erfassten Waren und besonders konstruierte Bestandteile hierfür;
+        erfassten Güter und besonders konstruierte Bestandteile hierfür;
 
 
-    b)  nicht anderweitig erfasste besonders konstruierte
-        Umweltprüfeinrichtungen für die Zulassungs- und Eignungsprüfung der
-        von der Liste für Waffen, Munition und Rüstungsmaterial (Teil I A)
-        erfassten Waren und besonders konstruierte Ausrüstung hierfür.
+    b)  Umweltprüfeinrichtungen, besonders konstruiert für die Zulassungs- und
+        Eignungsprüfung der von der Liste für Waffen, Munition und
+        Rüstungsmaterial (Teil I A) erfassten Güter und nicht anderweitig
+        erfasste besonders konstruierte Ausrüstung hierfür.
 
 
 
 
-    Technische Anmerkung:
+    *Technische Anmerkung:*
 
-    ,Herstellung‘ im Sinne der Nummer 0018 schließt die Konstruktion, den
+    ‚Herstellungʻ im Sinne von Nummer 0018 schließt die Konstruktion, den
     Test, die Fertigung, die Erprobung und die Prüfung ein.
-
-    Anmerkung: Unternummern 0018a und 0018b schließen folgende Ausrüstung ein:
-
-        a)  kontinuierlich arbeitende Nitrieranlagen,
-
-
-        b)  Prüfzentrifugen mit einer der folgenden Eigenschaften:
-
-            1.  Antrieb durch einen oder mehrere Motoren mit einer Gesamtnennleistung
-                größer als 298 kW,
-
-
-            2.  Nutzlast größer/gleich 113 kg oder
-
-
-            3.  Ausübung einer Zentrifugalbeschleunigung von mindestens 8 g auf eine
-                Nutzlast größer/gleich 91 kg (g = Erdbeschleunigung [9,81 m/s
-                2                                     ]),
-
-
-
-
-
-        c)  Trockenpressen,
-
-
-        d)  Schneckenstrangpressen, besonders konstruiert oder geändert für
-            militärische „Explosivstoffe“,
-
-
-        e)  Schneidmaschinen zum Ablängen stranggepresster „Treibstoffe“,
-
-
-        f)  Dragierkessel (Taumelmischer) mit Durchmessern größer/gleich 1,85 m
-            und einem Produktionsvermögen größer als 227 kg,
-
-
-        g)  Stetigmischer für Fest„treibstoffe“,
-
-
-        h)  Strahlmühlen (fluid energy mills) zum Zerkleinern oder Mahlen der
-            Bestandteile von militärischen „Explosivstoffen“,
-
-
-        i)  Ausrüstung zur Erzeugung von Kugelform mit einheitlicher Partikelgröße
-            bei den in Unternummer 0008c8 aufgeführten Metallpulvern,
-
-
-        j)  Konvektionsströmungskonverter (convection current converters) für die
-            Konversion der in Unternummer 0008c3 aufgeführten Stoffe.
-
-
-
-
-
-
 
 
 0019 Strahlenwaffen-Systeme, zugehörige Ausrüstung, Ausrüstung für
     Gegenmaßnahmen oder Versuchsmodelle wie folgt und besonders
     konstruierte Bestandteile hierfür:
 
-    a)  „Laser“-Systeme, besonders konstruiert für die Vernichtung oder Abwehr
-        (Unterbrechung des Einsatzes) eines gegnerischen Objekts;
+    a)  „Laser“-‚Waffensysteme‘, nicht erfasst von Unternummer 0019f;
 
 
-    b)  Teilchenstrahl-Systeme, geeignet für die Vernichtung oder Abwehr
-        (Unterbrechung des Einsatzes) eines gegnerischen Objekts;
+    b)  Teilchenstrahl-‚Waffensysteme‘;
 
 
-    c)  energiereiche Hochfrequenzsysteme, geeignet für die Vernichtung oder
-        Abwehr (Unterbrechung des Einsatzes) eines gegnerischen Objekts;
+    c)  energiereiche Hochfrequenz-‚Waffensysteme‘;
 
 
     d)  Ausrüstung, besonders konstruiert für die Entdeckung, Identifizierung
@@ -9449,14 +8917,13 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
 
     f)  „Laser“-Systeme, besonders konstruiert, um eine dauerhafte Erblindung
-        bei einer Beobachtung ohne vergrößernde Optik zu verursachen, d. h.
-        bei einer Beobachtung mit bloßem Auge oder mit korrigierender
-        Sehhilfe.
+        bei einer Beobachtung ohne vergrößernde Optik zu verursachen, d.h. bei
+        einer Beobachtung mit bloßem Auge oder mit korrigierender Sehhilfe.
 
 
 
 
-    Anmerkung 1: Von Nummer 0019 erfasste Strahlenwaffensysteme schließen Systeme ein,
+    *Anmerkung 1:* Von Nummer 0019 erfasste Strahlenwaffensysteme schließen Systeme ein,
         deren Leistungsfähigkeit bestimmt wird durch den kontrollierten
         Einsatz von
 
@@ -9465,7 +8932,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
 
         b)  Teilchenbeschleunigern, die einen geladenen oder ungeladenen Strahl
-            mit Vernichtungswirkung aussenden, oder
+            mit Vernichtungswirkung aussenden, *oder*
 
 
         c)  Hochfrequenzsendern mit hoher Impulsenergie oder hoher
@@ -9477,7 +8944,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
 
 
-    Anmerkung 2: Nummer 0019 schließt folgende Ausrüstung ein, sofern sie besonders
+    *Anmerkung 2:* Nummer 0019 schließt folgende Ausrüstung ein, sofern sie besonders
         konstruiert ist für Strahlenwaffensysteme:
 
         a)  Geräte für die Erzeugung von Primärenergie, Energiespeicher,
@@ -9526,6 +8993,12 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
 
 
+    *Technische Anmerkung:*
+
+    Im Sinne von Nummer 0019 sind ‚Waffensysteme‘ konstruiert für die
+    Beschädigung, Vernichtung oder Abwehr (Unterbrechung des Einsatzes)
+    eines gegnerischen Objekts.
+
 
 0020 Kryogenische (Tieftemperatur-) und „supraleitende“ Ausrüstung wie
     folgt sowie besonders konstruierte Bestandteile und besonders
@@ -9536,7 +9009,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
         der Fahrt eine Temperatur kleiner als 103 K (–170 °C) zu erzeugen oder
         aufrechtzuerhalten;
 
-        Anmerkung: Unternummer 0020a schließt mobile Systeme ein, die Zubehör und
+        *Anmerkung:* Unternummer 0020a schließt mobile Systeme ein, die Zubehör und
             Bestandteile enthalten oder verwenden, die aus nichtmetallischen oder
             nicht elektrisch leitenden Werkstoffen, z. B. aus Kunststoffen oder
             epoxidharzimprägnierten Werkstoffen, hergestellt sind.
@@ -9550,7 +9023,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
         den Einbau in ein militärisches Land-, See-, Luft- oder Raumfahrzeug
         und betriebsfähig während der Fahrt.
 
-        Anmerkung: Unternummer 0020b erfasst nicht hybride, homopolare
+        *Anmerkung:* Unternummer 0020b erfasst nicht hybride, homopolare
             Gleichstromgeneratoren mit einem einpoligen, normal ausgelegten
             Metallanker, der in einem Magnetfeld rotiert, das mit Hilfe
             „supraleitender“ Wicklungen erzeugt wird, vorausgesetzt, dass diese
@@ -9574,7 +9047,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
         2.  „Entwicklung“ oder „Herstellung“ von Werkstoffen und Materialien, die
             von der Liste für Waffen, Munition und Rüstungsmaterial (Teil I A)
-            erfasst werden, oder
+            erfasst werden, *oder*
 
 
         3.  „Entwicklung“, „Herstellung“, Betrieb oder Wartung von „Software“, die
@@ -9612,15 +9085,15 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
         5.  „Software“, besonders entwickelt oder geändert für die Durchführung
             militärischer offensiver Cyberoperationen;
 
-            Anmerkung 1: Unternummer 0021b5 schließt „Software“ ein, die für die Zerstörung,
+            *Anmerkung 1:* Unternummer 0021b5 schließt „Software“ ein, die für die Zerstörung,
                 Beschädigung, Beeinträchtigung oder Störung von in der Liste für
                 Waffen, Munition und Rüstungsmaterial (Teil I A) erfassten Systemen,
                 Ausrüstung oder „Software“ entwickelt wurde, sowie entsprechende
                 „Software“ für Cyberaufklärung (cyber reconnaissance) und für Cyber-
-                Führungs- und -Leitsysteme (cyber command and control) hierfür.
+                Führungs- und ‑Leitsysteme (cyber command and control) hierfür.
 
 
-            Anmerkung 2: Unternummer 0021b5 findet keine Anwendung auf „Offenlegung von
+            *Anmerkung 2:* Unternummer 0021b5 findet keine Anwendung auf „Offenlegung von
                 Sicherheitslücken“ oder auf „Reaktion auf Cybervorfälle“, die auf
                 nichtmilitärische defensive Cybersicherheitsbereitschaft oder
                 -reaktionsfähigkeit (non-military defensive cybersecurity readiness or
@@ -9639,12 +9112,12 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
         militärischen Funktionen der von der Liste für Waffen, Munition und
         Rüstungsmaterial (Teil I A) erfassten Ausrüstung zu erfüllen.
 
-        Ergänzende Anmerkung:
+        *Ergänzende Anmerkung:*
 
-        Siehe Systeme, Ausrüstung oder Bestandteile, die in der Liste für
-        Waffen, Munition und Rüstungsmaterial (Teil I A) für „Digitalrechner“
-        für allgemeine Zwecke, auf denen von Unternummer 0021c erfasste
-        „Software“ installiert ist, erfasst sind.
+        „Digitalrechner“ für allgemeine Zwecke, auf denen von Unternummer
+        0021c erfasste „Software“ installiert ist, siehe Systeme, Ausrüstung
+        oder Bestandteile, die in der Liste für Waffen, Munition und
+        Rüstungsmaterial (Teil I A) erfasst sind.
 
 
 
@@ -9689,7 +9162,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
 
 
-    Anmerkung 1: „Technologie“, „unverzichtbar“ für „Entwicklung“, „Herstellung“,
+    *Anmerkung 1:* „Technologie“, „unverzichtbar“ für „Entwicklung“, „Herstellung“,
         Betrieb, Aufbau, Wartung (Test), Reparatur, Überholung oder
         Wiederaufarbeitung von in der Liste für Waffen, Munition und
         Rüstungsmaterial (Teil I A) erfassten Gütern, bleibt auch dann
@@ -9697,7 +9170,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
         für Waffen, Munition und Rüstungsmaterial (Teil I A) erfasst werden.
 
 
-    Anmerkung 2: Nummer 0022 erfasst nicht „Technologie“, wie folgt:
+    *Anmerkung 2:* Nummer 0022 erfasst nicht „Technologie“, wie folgt:
 
         a)  „Technologie“, die das unbedingt notwendige Minimum für Aufbau,
             Betrieb, Wartung (Test) und Reparatur derjenigen Güter darstellt, die
@@ -9727,36 +9200,17 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
 
 1E901 „Technologie“ entsprechend der Allgemeinen Technologie-Anmerkung, die
-    nicht von den Nummern 1E001 oder 1E101 des Anhangs I der Verordnung
-    (EU) 2021/821 in der jeweils geltenden Fassung erfasst wird, für die
+    nicht von den der jeweils geltenden Fassung erfasst wird, für die
     „Entwicklung“ oder „Herstellung“ von Polymethacrylimid-Hartschäumen,
     wenn das Bestimmungsziel außerhalb des Zollgebiets der Europäischen
     Union und außerhalb der in Anhang II Abschnitt A Teil 2 der Verordnung
     (EU) 2021/821 aufgeführten Gebiete liegt.
 
 
-2B909 Fließdrückmaschinen und Maschinen mit kombinierter Fließdrück- und
-    Drückfunktion, die nicht von Nummer 2B009, 2B109 oder 2B209 des
-    Anhangs I der Verordnung (EU) 2021/821 in der jeweils geltenden
-    Fassung erfasst werden, mit allen folgenden Eigenschaften, sowie
-    besonders konstruierte Bestandteile hierfür:
-
-    a)  die nach den technischen Beschreibungen des Herstellers mit
-        numerischen Steuerungen, Rechnersteuerungen oder Play-back-Steuerungen
-        ausgerüstet werden können und
-
-
-    b)  mit einer Supportkraft größer als 60 kN, wenn das Bestimmungsland
-        Syrien ist.
-
-
-
-
-
 2B952 Ausrüstung, geeignet zur Handhabung biologischer Stoffe, die nicht von
     Nummer 2B352 des Anhangs I der Verordnung (EU) 2021/821 in der jeweils
     geltenden Fassung erfasst wird, wie folgt, wenn das Bestimmungsland
-    Iran, Nordkorea oder Syrien ist:
+    Iran oder die Demokratische Volksrepublik Korea ist:
 
     a)  Fermenter, geeignet zur Kultivierung pathogener „Mikroorganismen“ oder
         Viren oder geeignet zur Erzeugung von „Toxinen“, ohne
@@ -9765,7 +9219,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
     b)  Rührwerke für von Unternummer 2B952a erfasste Fermenter.
 
-        Technische Anmerkung:
+        *Technische Anmerkung:*
 
         Fermenter schließen Bioreaktoren, Chemostate und kontinuierliche
         Fermentationssysteme ein.
@@ -9795,6 +9249,481 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
 
 
+3A1901a15 Integrierte Tieftemperatur-CMOS (Complementary Metal Oxide
+    Semiconductor) Schaltkreise, die nicht von Nummer 3A001a2 des Anhangs
+    I der Verordnung (EU) 2021/821 in der jeweils geltenden Fassung
+    erfasst werden, konstruiert für einen Betrieb bei
+    Umgebungstemperaturen kleiner/gleich 4,5 K (–268,65 °C), wenn das
+    Bestimmungsziel außerhalb des Zollgebiets der Europäischen Union und
+    außerhalb der in Anhang II Abschnitt A Teil 2 der Verordnung (EU)
+    2021/821 aufgeführten Gebiete liegt.
+
+    *Technische Anmerkung:*
+
+    Integrierte Tieftemperatur-CMOS Schaltkreise werden auch als Cryo-CMOS
+    bezeichnet.
+
+
+3A1901b13 Parametrische Signalverstärker mit allen folgenden Eigenschaften, wenn
+    das Bestimmungsziel außerhalb des Zollgebiets der Europäischen Union
+    und außerhalb der in Anhang II Abschnitt A Teil 2 der Verordnung (EU)
+    2021/821 aufgeführten Gebiete liegt:
+
+    a)  konstruiert für eine Betriebstemperatur unter 1 K (–272,15 °C);
+
+
+    b)  konstruiert für eine Betriebsfrequenz größer als 2 GHz bis
+        einschließlich 15 GHz; und
+
+
+    c)  mit einer Rauschzahl kleiner (besser) als 0,015 dB bei jeder Frequenz
+        größer als 2 GHz bis einschließlich 15 GHz bei einer Temperatur von 1
+        K (–272,15 °C).
+
+
+
+
+    *Anmerkung:* Nummer 3A1901b13 schließt Parametrische Wanderfeld-Verstärker
+        (Travelling Wave Parametric Amplifiers (TWPAs)) ein.
+
+
+
+
+    *Technische Anmerkung:*
+
+    Im Sinne der Nummer 3A1901b13 werden Parametrische Signalverstärker
+    auch als quantenlimitierte Verstärker (Quantum Limited Amplifiers
+    (QLAs)) bezeichnet.
+
+
+3A1904 Kryogene Kühlsysteme und Bestandteile wie folgt, wenn das
+    Bestimmungsziel außerhalb des Zollgebiets der Europäischen Union und
+    außerhalb der in Anhang II Abschnitt A Teil 2 der Verordnung (EU)
+    2021/821 aufgeführten Gebiete liegt:
+
+    a)  Systeme ausgelegt, eine Kühlleistung größer/gleich 600 µW bei einer
+        Temperatur kleiner/gleich 0,1 K (–273,05 °C) für einen Zeitraum größer
+        als 48 h zu erreichen;
+
+
+    b)  zweistufige kryogene Pulsrohrkühler (Two-Stage Pulse Tube Cryocooler)
+        ausgelegt, um eine Temperatur von kleiner/gleich 4 K (–269,15 °C) zu
+        gewährleisten und eine Kühlleistung größer/gleich 1,5 W bei einer
+        Temperatur kleiner gleich 4,2 K (–268,95 °C) zu erreichen.
+
+
+
+
+
+3B1901k Ausrüstung, konstruiert für das Trockenätzen (Dry Etching), mit einer
+    der folgenden Eigenschaften, wenn das Bestimmungsziel außerhalb des
+    Zollgebiets der Europäischen Union und außerhalb der in Anhang II
+    Abschnitt A Teil 2 der Verordnung (EU) 2021/821 aufgeführten Gebiete
+    liegt:
+
+    a)  Ausrüstung konstruiert oder geändert für das isotropische Trockenätzen
+        mit einer maximalen ‚Siliziumgermanium-zu-Silizium-Selektivität
+        (SiGe:Si)ʻ beim Ätzprozess größer/gleich 100:1; oder
+
+
+    b)  Ausrüstung konstruiert oder geändert für das anisotropische
+        Trockenätzen mit allen folgenden Eigenschaften:
+
+        1.  Hochfrequenzstromquelle(n) mit mindestens einem gepulsten
+            Hochfrequenzausgang;
+
+
+        2.  Ein oder mehrere schnellschaltende Gasventile mit Schaltzeiten kleiner
+            300 ms; und
+
+
+        3.  Elektrostatische Aufnahmevorrichtung (electrostatic chuck) mit 20 oder
+            mehr einzeln regelbaren Temperaturelementen.
+
+
+
+
+
+
+
+    *Anmerkung 1:* Nummer 3B1901k schließt Ätzen durch ‚Radikaleʻ, Ionen, sequenzielle
+        oder nicht-sequenzielle Reaktionen ein.
+
+
+    *Anmerkung 2:* Nummer 3B1901k schließt folgende Plasmaätzverfahren ein:
+
+        a)  Verwendung von Plasma, das durch Hochfrequenzpulse angeregt wird (RF
+            Pulse Excited Plasma),
+
+
+        b)  Verwendung von pulsangeregtem Plasma mit Austastlücke (Pulsed Duty
+            Cycle Excited Plasma),
+
+
+        c)  Verwendung von pulsangeregtem Plasma, das durch Spannungsanlegen an
+            die Elektroden modifiziert wird (Pulsed Voltage on Electrodes Modified
+            Plasma),
+
+
+        d)  Plasmaätzverfahren mit zyklischem Einleiten und Ausspülen von Gasen
+            (Cyclic Injection and Purging of Gases Combinded with a Plasma),
+
+
+        e)  Atomic-Layer-Plasmaätzen (Plasma Atomic Layer Etching) oder
+
+
+        f)  Quasi-Atomic-Layer-Plasmaätzen (Plasma Quasi-Atomic Layer Etching).
+
+
+
+
+
+
+
+    *Technische Anmerkung:*
+
+    1.  Im Sinne der Nummer 3B1901k wird die ‚Silizumgermanium-zu-Silizium-
+        Selektivität (SiGe:Si)ʻ bei einer Germanium-Konzentration
+        größer/gleich 30 % (Si 0,70 Ge 0,30) gemessen.
+
+
+    2.  Im Sinne der Nummer 3B1901k wird ein ‚Radikalʻ als ein Atom, Molekül
+        oder Ion mit einem ungepaarten Elektron in einer offenen
+        Elektronenschale definiert.
+
+
+
+
+
+3B1903 Rasterelektronenmikroskope (Scanning Electron Microscopes),
+    konstruiert für die bildgebende Untersuchung von
+    Halbleiterbauelementen oder Integrierten Schaltkreisen, mit allen
+    folgenden Eigenschaften, wenn das Bestimmungsziel außerhalb des
+    Zollgebiets der Europäischen Union und außerhalb der in Anhang II
+    Abschnitt A Teil 2 der Verordnung (EU) 2021/821 aufgeführten Gebiete
+    liegt:
+
+    a)  Ausrichtung des Probentischs mit einer Genauigkeit kleiner (besser)
+        als 30 nm,
+
+
+    b)  Probentischpositionierung mittels Laserinterferometrie,
+
+
+    c)  Positionskalibrierung im Sichtfeld (Field-of-View, FOV) mittels
+        interferometrischer Längenmessung;
+
+
+    d)  Bildaufnahme und -speicherung mit mehr als 200 000 000 Pixel;
+
+
+    e)  Sichtfeld (FOV) Überlappung weniger als 5 % in vertikaler und
+        horizontaler Richtung,
+
+
+    f)  Überlappung des Sichtfeldes beim Stitching (Stitching Overlap of FOV)
+        kleiner als 50 nm, und
+
+
+    g)  Beschleunigungsspannung größer als 21 kV.
+
+
+
+
+    *Anmerkung:* Nummer 3B1903 schließt Rasterelektronenmikroskope ein, konstruiert für
+        das Redesign von Integrierten Schaltungen (Chip Design Recovery).
+
+
+
+
+
+3B1904 Kryogene Wafer-Prüfausrüstung mit allen folgenden Eigenschaften, wenn
+    das Bestimmungsziel außerhalb des Zollgebiets der Europäischen Union
+    und außerhalb der in Anhang II Abschnitt A Teil 2 der Verordnung (EU)
+    2021/821 aufgeführten Gebiete liegt:
+
+    a)  konstruiert zum Testen von Bauelementen bei einer Temperatur
+        kleiner/gleich 4,5 K (–268,65 °C); und
+
+
+    b)  konstruiert für die Aufnahme von Wafer mit einem Durchmesser
+        größer/gleich 100 mm.
+
+
+
+
+
+3D1902 „Software“, besonders entwickelt für die „Verwendung“ von Ausrüstung,
+    die von Nummer 3B1901k erfasst wird, wenn das Bestimmungsziel
+    außerhalb des Zollgebiets der Europäischen Union und außerhalb der in
+    Anhang II Abschnitt A Teil 2 der Verordnung (EU) 2021/821 aufgeführten
+    Gebiete liegt.
+
+
+3D1907 „Software“, entwickelt um „GDSII“ oder vergleichbare standardisierte
+    Layoutdaten zu gewinnen und eine Justierung der einzelnen Schichten
+    aufeinander (Layer-to-Layer Alignment) von Rasterelektronenmikroskop-
+    Aufnahmen vorzunehmen und „GDSII“-Daten für mehrere Ebenen oder die
+    Netzliste des Schaltkreises (Circuit Netlist) zu gewinnen, wenn das
+    Bestimmungsziel außerhalb des Zollgebiets der Europäischen Union und
+    außerhalb der in Anhang II Abschnitt A Teil 2 der Verordnung (EU)
+    2021/821 aufgeführten Gebiete liegt.
+
+
+3E1901 „Technologie“ entsprechend der Allgemeinen Technologie-Anmerkung für
+    die „Entwicklung“ oder „Herstellung“ von Ausrüstung, die von Nummer
+    3A1901b13, 3A1904, 3B1901k, 3B1903 oder 3B1904 erfasst werden, wenn
+    das Bestimmungsziel außerhalb des Zollgebiets der Europäischen Union
+    und außerhalb der in Anhang II Abschnitt A Teil 2 der Verordnung (EU)
+    2021/821 aufgeführten Gebiete liegt.
+
+
+3E1902 „Technologie“, die nicht von Nummer 3E001 des Anhangs I der Verordnung
+    (EU) 2021/821 in der jeweils gültigen Fassung erfasst wird,
+    entsprechend der Allgemeinen Technologie-Anmerkung für die
+    „Entwicklung“ oder „Herstellung“ von Ausrüstung, die von Nummer
+    3A1901a15 erfasst wird, wenn das Bestimmungsziel außerhalb des
+    Zollgebiets der Europäischen Union und außerhalb der in Anhang II
+    Abschnitt A Teil 2 der Verordnung (EU) 2021/821 aufgeführten Gebiete
+    liegt.
+
+    *Anmerkung 1:* Nummer 3E1902 beinhaltet ‚Prozessbeschreibungenʻ (‚Process Recipesʻ).
+
+
+    *Anmerkung 2:* Nummer 3E1902 erfasst nicht ‚Process Design Kitsʻ (‚PDKsʻ), außer sie
+        enthalten Bibliotheken, welche Funktionen oder Technologien für von
+        Nummer 3A001 des Anhangs I der Verordnung (EU) 2021/821 in der jeweils
+        geltenden Fassung erfasste Güter implementieren.
+
+
+
+
+    *Technische Anmerkung 1:*
+
+    Eine ‚Prozessbeschreibungʻ (‚Process Recipeʻ) ist eine
+    Zusammenstellung von Prozessbedingungen und -parametern für einen
+    bestimmten Prozessschritt.
+
+    *Technische Anmerkung 2:*
+
+    Ein ‚Process Design Kitʻ (‚PDKʻ) ist ein Software-Tool, bereitgestellt
+    von einem Halbleiterhersteller, um die Einhaltung der
+    Entwurfsverfahren und -regeln sicherzustellen, die für die
+    erfolgreiche Herstellung eines spezifischen Entwurfs einer
+    integrierten Schaltung in einem spezifischen Halbleiterprozess unter
+    technologischen und herstellungsbezogenen Bedingungen erforderlich ist
+    (jeder Halbleiterherstellungsprozess hat sein eigenes ‚PDKʻ).
+
+
+3E1905 „Technologie“ entsprechend der Allgemeinen Technologie-Anmerkung für
+    die „Entwicklung“ oder „Herstellung“ integrierter Schaltungen oder
+    Bauelementen mit „Gate-All-Around-Feldeffekttransistor“
+    („GAAFET“)-Strukturen, wenn das Bestimmungsziel außerhalb des
+    Zollgebiets der Europäischen Union und außerhalb der in Anhang II
+    Abschnitt A Teil 2 der Verordnung (EU) 2021/821 aufgeführten Gebiete
+    liegt.
+
+    *Anmerkung 1:* Nummer 3E1905 beinhaltet ‚Prozessbeschreibungenʻ (‚Process Recipesʻ).
+
+
+    *Anmerkung 2:* Nummer 3E1905 ist nicht anwendbar für Werkzeugqualifikationen oder
+        Instandhaltung
+
+
+    *Anmerkung 3:* Nummer 3E1905 erfasst nicht ‚Process Design Kitsʻ (‚PDKsʻ), außer sie
+        enthalten Bibliotheken, welche Funktionen oder Technologien für von
+        Nummer 3A001 des Anhangs I der Verordnung (EU) 2021/821 in der jeweils
+        geltenden Fassung erfasste Güter implementieren.
+
+
+
+
+    *Technische Anmerkung 1:*
+
+    Eine ‚Prozessbeschreibungʻ (‚Process Recipeʻ) ist eine
+    Zusammenstellung von Prozessbedingungen und -parametern für einen
+    bestimmten Prozessschritt.
+
+    *Technische Anmerkung 2:*
+
+    Ein ‚Process Design Kitʻ (‚PDKʻ) ist ein Software-Tool, bereitgestellt
+    von einem Halbleiterhersteller, um die Einhaltung der
+    Entwurfsverfahren und -regeln sicherzustellen, die für die
+    erfolgreiche Herstellung eines spezifischen Entwurfs einer
+    integrierten Schaltung in einem spezifischen Halbleiterprozess unter
+    technologischen und herstellungsbezogenen Bedingungen erforderlich ist
+    (jeder Halbleiterherstellungsprozess hat sein eigenes ‚PDKʻ).
+
+
+4A1906 Quantencomputer und zugehörige „elektronische Baugruppen“ und
+    Bestandteile hierfür, wenn das Bestimmungsziel außerhalb des
+    Zollgebiets der Europäischen Union und außerhalb der in Anhang II
+    Abschnitt A Teil 2 der Verordnung (EU) 2021/821 aufgeführten Gebiete
+    liegt:
+
+    a)  Quantencomputer wie folgt:
+
+        1.  ausgelegt für den Betrieb von 34 oder mehr, jedoch weniger als 100,
+            ‚vollständig kontrolliertenʻ, ‚verbundenen‘ und ‚funktionierenden‘
+            ‚physikalischen Qubits‘, welche einen ‚CNOT-Fehler‘ von kleiner/gleich
+            10
+            -4                                haben;
+
+
+        2.  ausgelegt für den Betrieb von 100 oder mehr, jedoch weniger als 200,
+            ‚vollständig kontrollierten‘, ‚verbundenen‘ und ‚funktionierenden‘
+            ‚physikalischen Qubits‘, welche einen ‚CNOT-Fehler‘ von kleiner/gleich
+            10
+            -3                                haben;
+
+
+        3.  ausgelegt für den Betrieb von 200 oder mehr, jedoch weniger als 350,
+            ‚vollständig kontrollierten‘, ‚verbundenen‘ und ‚funktionierenden‘
+            ‚physikalischen Qubits‘, welche einen ‚CNOT-Fehler‘ von kleiner/gleich
+            2 x 10
+            -3                                haben;
+
+
+        4.  ausgelegt für den Betrieb von 350 oder mehr, jedoch weniger als 500,
+            ‚vollständig kontrollierten‘, ‚verbundenen‘ und ‚funktionierenden‘
+            ‚physikalischen Qubits‘, welche einen ‚CNOT-Fehler‘ von kleiner/gleich
+            3 x 10
+            -3                                haben;
+
+
+        5.  ausgelegt für den Betrieb von 500 oder mehr, jedoch weniger als 700,
+            ‚vollständig kontrollierten‘, ‚verbundenen‘ und ‚funktionierenden‘
+            ‚physikalischen Qubits‘, welche einen ‚CNOT-Fehler‘ von kleiner/gleich
+            4 x 10
+            -3                                haben;
+
+
+        6.  ausgelegt für den Betrieb von 700 oder mehr, jedoch weniger als 1 100,
+            ‚vollständig kontrollierten‘, ‚verbundenen‘ und ‚funktionierenden‘
+            ‚physikalischen Qubits‘, welche einen ‚CNOT-Fehler‘ von kleiner/gleich
+            5 x 10
+            -3                                haben;
+
+
+        7.  ausgelegt für den Betrieb von 1 100 oder mehr, jedoch weniger als
+            2 000, ‚vollständig kontrollierten‘, ‚verbundenen‘ und
+            ‚funktionierenden‘ ‚physikalischen Qubits‘, welche einen ‚CNOT-Fehler‘
+            von kleiner/gleich 6 x 10
+            -3                                haben;
+
+
+        8.  ausgelegt für den Betrieb von 2 000 oder mehr ‚vollständig
+            kontrollierten‘, ‚verbundenen‘ und ‚funktionierenden‘ ‚physikalischen
+            Qubits‘;
+
+
+
+
+
+    b)  Qubit-Bauteile und Qubit-Schaltkreise, die für den Betrieb von
+        Anordnungen von ‚physikalischen Qubits‘ ausgelegt sind oder diese
+        enthalten und besonders konstruiert sind für Güter, die von
+        Unternummer 4A1906a erfasst sind;
+
+
+    c)  Quanten-Kontroll-Anordnungen und Quanten-Mess-Einrichtungen, besonders
+        konstruiert für Güter, die von Unternummer 4A1906a erfasst sind;
+
+
+
+
+
+    *Anmerkung 1:* Nummer 4A1906 gilt für Quantencomputer basierenden auf dem
+        Schaltungsmodell (gatterbasiert) sowie für one-way Quantencomputer
+        (messungsbasiert). 4A1906 gilt nicht für adiabatische (annealing)
+        Quantencomputer.
+
+
+    *Anmerkung 2:* Nummer 4A1906 erfasst auch Güter, bei denen Qubits nicht
+        notwendigerweise dauerhaft physikalisch vorhanden sind. Beispielsweise
+        enthalten Quantencomputer auf photonischer Basis nicht dauerhaft ein
+        physikalisches Objekt, das als Qubit definiert werden kann.
+        Photonische Qubits entstehen während des Betriebs des Quantencomputers
+        und lösen sich danach wieder auf.
+
+
+    *Anmerkung 3:* Unternummer 4A1906b erfasst halbleitende, supraleitende und
+        photonische Qubit-Chips oder Chip-Anordnungen; Ionenfallenanordungen;
+        andere Qubit-Einschlusstechnologien; oder kohärente Verbindungen
+        solcher Güter.
+
+
+    *Anmerkung 4:* Unternummer 4A1906c erfasst Güter, die zum Kalibrieren,
+        Initialisieren, Manipulieren oder Messen der Qubits eines
+        Quantencomputers bestimmt sind.
+
+
+
+
+    *Technische Anmerkungen:*
+
+    Im Sinne von Nummer 4A1906 gilt:
+
+    1.  Ein ‚physikalisches Qubit‘ ist ein Quanten-Zweizustandsystem, mit dem
+        die elementare Einheit der Quantenlogik durch nicht fehlerkorrigierte
+        Manipulationen und Messungen dargestellt wird. ‚Physikalische Qubitsʻ
+        unterscheiden sich von logischen Qubits dadurch, dass logische Qubits
+        fehlerkorrigierte Qubits sind, welche aus mehreren ‚physikalischen
+        Qubitsʻ bestehen.
+
+
+    2.  ‚Vollständig kontrolliertʻ bedeutet, dass das ‚physikalische Qubitʻ
+        nach Bedarf kalibriert, initialisiert, ausgelesen und durch Gatter
+        manipuliert werden kann.
+
+
+    3.  ‚Verbundenʻ bedeutet, dass Zwei-Qubit-Gatter-Operationen zwischen
+        jedem beliebigen Paar der verfügbaren ‚funktionierendenʻ
+        ‚physikalischen Qubits‘ durchgeführt werden können. Dies bedeutet
+        nicht unbedingt eine all-to-all-Konnektivität.
+
+
+    4.  ‚funktionierend‘ bedeutet, dass das ‚physikalische Qubit‘ universelle
+        Quantencomputeroperationen gemäß den Systemspezifikationen für die
+        Güte (fidelity) der Qubitoperationen ausführt.
+
+
+    5.  ausgelegt auf den Betrieb von 34 oder mehr ‚vollständig
+        kontrollierte‘, ‚verbundene‘ und ‚funktionierende‘ ‚physikalische
+        Qubits‘, bezieht sich auf die Fähigkeit eines Quantencomputers, die in
+        34 oder mehr ‚physikalischen Qubits‘ verkörperten Quanteninformationen
+        einzuschließen, zu steuern, zu messen und zu verarbeiten, auch wenn
+        diese Anzahl ‚physikalischer Qubits‘ nicht dauerhaft im
+        Quantencomputer vorhanden ist.
+
+
+    6.  ‚CNOT-Fehler‘ ist der durchschnittliche physikalische Gatter-Fehler
+        für Controlled-NOT-Gatter (CNOT-Gatter) zwischen zwei benachbarten
+        ‚physikalischen Qubits‘.
+
+
+
+
+
+4D1901b3 „Software”, die nicht von Nummer 4D001 des Anhangs I der Verordnung
+    (EU) 2021/821 in der jeweils geltenden Fassung erfasst wird, besonders
+    entwickelt oder geändert für die „Entwicklung“ oder „Herstellung“ der
+    von den Unternummern 4A1906b oder 4A1906c erfassten Ausrüstungen, wenn
+    das Bestimmungsziel außerhalb des Zollgebiets der Europäischen Union
+    und außerhalb der in Anhang II Abschnitt A Teil 2 der Verordnung (EU)
+    2021/821 aufgeführten Gebiete liegt.
+
+
+4E1901b3 „Technologie“, die nicht von Nummer 4E001 des Anhangs I der Verordnung
+    (EU) 2021/821 in der jeweils geltenden Fassung erfasst wird,
+    entsprechend der Allgemeinen Technologie-Anmerkung, für die
+    „Entwicklung“ oder „Herstellung“ der von den Unternummern 4A1906b oder
+    4A1906c erfassten Ausrüstungen, wenn das Bestimmungsziel außerhalb des
+    Zollgebiets der Europäischen Union und außerhalb der in Anhang II
+    Abschnitt A Teil 2 der Verordnung (EU) 2021/821 aufgeführten Gebiete
+    liegt.
+
+
 5A902 Überwachungssysteme, Geräte und Bestandteile für IuK (Informations-
     und Kommunikationstechnik) für öffentliche Netze, die nicht von Nummer
     5D001e des Anhangs I der Verordnung (EU) 2021/821 in der jeweils
@@ -9814,7 +9743,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
         vergleichbare Normen, Spezifikationen oder Standards) und besonders
         konstruierte Bestandteile hierfür.
 
-        Technische Anmerkung:
+        *Technische Anmerkung:*
 
         Ereignisdaten schließen Signalisierungsinformationen, Ursprung und
         Ziel (Telefonnummern, IP oder MAC Adressen etc.), Datum und Dauer
@@ -9823,39 +9752,39 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
 
 
-    Anmerkung: 5A902 erfasst keine Systeme oder Geräte, die besonders konstruiert
+    *Anmerkung:* 5A902 erfasst keine Systeme oder Geräte, die besonders konstruiert
         sind für einen der folgenden Zwecke:
 
-        a)  Gebührenabrechnung
+        a)  Gebührenabrechnung,
 
 
         b)  Datensammlungsfunktionen innerhalb von Netzelementen (z. B.
-            Vermittlungsstelle oder HLR)
+            Vermittlungsstelle oder HLR),
 
 
-        c)  Dienstgüte des Netzwerks (Quality of Service – QoS) oder
+        c)  Dienstgüte des Netzwerks (Quality of Service – QoS),
 
 
-        d)  Nutzerzufriedenheit (Quality of Experience – QoE)
+        d)  Nutzerzufriedenheit (Quality of Experience – QoE) *oder*
 
 
-        e)  Des Betriebs bei Telekommunikationsunternehmen (Service Provider).
-
-
-
+        e)  des Betriebs bei Telekommunikationsunternehmen (Service Provider).
 
 
 
 
 
-5A911 Basisstationen für digitalen ,Bündelfunk‘, wenn das Bestimmungsland
+
+
+
+5A911 Basisstationen für digitalen ‚Bündelfunk‘, wenn das Bestimmungsland
     Sudan oder Südsudan ist.
 
-    Technische Anmerkung:
+    *Technische Anmerkung:*
 
-    ,Bündelfunk‘ ist ein zellulares Funkübertragungsverfahren mit mobilen
+    ‚Bündelfunk‘ ist ein zellulares Funkübertragungsverfahren mit mobilen
     Teilnehmern, denen Frequenzbündel zur Kommunikation zugewiesen werden.
-    Digitaler ,Bündelfunk‘ (z. B. TETRA, Terrestrial Trunked Radio)
+    Digitaler ‚Bündelfunk‘ (z. B. TETRA, Terrestrial Trunked Radio)
     verwendet digitale Modulationsverfahren.
 
 
@@ -9925,7 +9854,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
 
 
-    Technische Anmerkung:
+    *Technische Anmerkung:*
 
     Nummer 9A904b schließt Güter ein, die in folgenden Zusammenhängen mit
     „Raumfahrzeugen“ Verwendung finden, sowohl am Boden als auch auf
@@ -9934,7 +9863,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
     1.  Einsatz als Nutzlast für Up- oder Downlink,
 
 
-    2.  Kommunikation zwischen „Raumfahrzeugen“ oder
+    2.  Kommunikation zwischen „Raumfahrzeugen“ *oder*
 
 
     3.  Nutzung im Zusammenhang mit der Übertragung von Telemetriesignalen.
@@ -9953,9 +9882,10 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
         Nummer 0006 erfassten Fahrzeuge sowie zu deren Fortbewegung geeignete
         und mit einem oder mehreren militärischen Ausstattungsmerkmalen
         versehene Zugmaschinen, wenn das Bestimmungsland Iran, Libyen,
-        Myanmar, Nordkorea, Pakistan, Somalia oder Syrien ist;
+        Myanmar, die Demokratische Volksrepublik Korea, Pakistan oder Somalia
+        ist;
 
-        Anmerkung: Unter Zugmaschinen im Sinne von Unternummer 9A991a fallen alle
+        *Anmerkung:* Unter Zugmaschinen im Sinne von Unternummer 9A991a fallen alle
             Fahrzeuge mit primärer Zugfunktion.
 
 
@@ -9964,12 +9894,13 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
     b)  Sonstige Lastkraftwagen und geländegängige Fahrzeuge mit einem oder
         mehreren militärischen Ausstattungsmerkmalen, wenn das Bestimmungsland
-        Iran, Libyen, Myanmar, Nordkorea, Somalia oder Syrien ist.
+        Iran, Libyen, Myanmar, die Demokratische Volksrepublik Korea oder
+        Somalia ist.
 
 
 
 
-    Anmerkung 1: Militärische Ausstattungsmerkmale im Sinne von Nummer 9A991 schließen
+    *Anmerkung 1:* Militärische Ausstattungsmerkmale im Sinne von Nummer 9A991 schließen
         ein:
 
         a)  Watfähigkeit 1,2 m oder mehr,
@@ -9994,7 +9925,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
 
 
-    Anmerkung 2: Nummer 9A991 erfasst nicht Landfahrzeuge, wenn diese von ihren
+    *Anmerkung 2:* Nummer 9A991 erfasst nicht Landfahrzeuge, wenn diese von ihren
         Benutzern zu deren eigenem persönlichen Gebrauch mitgeführt werden.
 
 
@@ -10004,12 +9935,13 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 9A992 Lastkraftwagen wie folgt:
 
     a)  Lastkraftwagen mit Allradantrieb und einer Nutzlast größer als 1 000
-        kg, wenn das Bestimmungsland Nordkorea ist;
+        kg, wenn das Bestimmungsland die Demokratische Volksrepublik Korea
+        ist;
 
 
     b)  Lastkraftwagen mit drei Achsen oder mehr und einem zulässigen
         Gesamtgewicht von mehr als 20 000 kg, wenn das Bestimmungsland Iran
-        oder Syrien ist.
+        ist.
 
 
 
@@ -10018,8 +9950,8 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 9A993 Hubschrauber, Hubschrauber-Leistungsübertragungssysteme,
     Gasturbinentriebwerke und Hilfstriebwerke (APUs) für die Verwendung in
     Hubschraubern sowie besonders konstruierte Bestandteile hierfür, wenn
-    das Bestimmungsland Iran, Kuba, Libyen, Myanmar, Nordkorea oder Syrien
-    ist.
+    das Bestimmungsland Iran, Kuba, Libyen, Myanmar oder die Demokratische
+    Volksrepublik Korea ist.
 
 
 9A994 Luftgekühlte Kolbentriebwerke (Flugmotoren) mit einem Hubraum
@@ -10050,22 +9982,23 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
 9E991 „Technologie“ entsprechend der Allgemeinen Technologie-Anmerkung für
     die „Entwicklung“ oder „Herstellung“ der von Nummer 9A993 erfassten
-    Ausrüstung, wenn das Bestimmungsland Iran, Kuba, Libyen, Myanmar,
-    Nordkorea oder Syrien ist.
+    Ausrüstung, wenn das Bestimmungsland Iran, Kuba, Libyen, Myanmar oder
+    die Demokratische Volksrepublik Korea ist.
 
 
 9E992 „Technologie“ entsprechend der Allgemeinen Technologie-Anmerkung, die
     nicht von Nummer 9E101b des Anhangs I der Verordnung (EU) 2021/821 in
     der jeweils geltenden Fassung erfasst wird, für die „Herstellung“ der
-    von Nummer 9A012 erfassten „unbemannten Luftfahrzeuge“ („UAV“), wenn
-    das Bestimmungsziel außerhalb des Zollgebiets der Europäischen Union
-    und außerhalb der in Anhang II Abschnitt A Teil 2 der Verordnung (EU)
-    2021/821 aufgeführten Gebiete liegt.
+    von Nummer 9A012 des Anhangs I der Verordnung (EU) 2021/821 in der
+    jeweils geltenden Fassung erfassten „unbemannten Luftfahrzeuge“
+    („UAV“), wenn das Bestimmungsziel außerhalb des Zollgebiets der
+    Europäischen Union und außerhalb der in Anhang II Abschnitt A Teil 2
+    der Verordnung (EU) 2021/821 aufgeführten Gebiete liegt.
 
 
 
 
-**Verzeichnis der verwendeten Abkürzungen**
+## **Verzeichnis der verwendeten Abkürzungen**
 
 **Abkürzungen, für die eine Definition vorliegt, siehe
 Begriffsbestimmungen**
@@ -10118,23 +10051,20 @@ Begriffsbestimmungen**
 
 
 
-**Begriffsbestimmungen**
+## **Begriffsbestimmungen**
 
-Begriffe in ,einfachen Anführungszeichen‘ werden in einer Anmerkung zu
+Begriffe in ‚einfachen Anführungszeichen‚ werden in einer Anmerkung zu
 dem entsprechenden Eintrag erläutert.
 
 Begriffe in „doppelten Anführungszeichen“ werden in folgenden
 Begriffsbestimmungen erläutert:
 
-Anmerkung: Der Bezug zur Vorbemerkung, zur Nummer des Abschnitts A bzw. des
+*Anmerkung:* Der Bezug zur Vorbemerkung, zur Nummer des Abschnitts A bzw. des
     Abschnitts B steht in der ersten Klammer nach dem definierten Begriff.
     Die zweite Klammer enthält den englischen Begriff.
 
 
 
-
-„Additive“ (0008) (additives): Stoffe, die bei der Zubereitung von
-Sprengstoffen verwendet werden, um deren Eigenschaften zu verbessern.
 
 „Allgemein zugänglich“ (ASA ATA 0022) (in the public domain): bezieht
 sich auf „Technologie“ oder „Software“, die ohne Beschränkung ihrer
@@ -10156,26 +10086,6 @@ b)  das Setzen von Funktionsbedienelementen einschließlich
 
 
 
-„Automatisierte Führungs- und Leitsysteme“ (0011) (Automated Command
-and Control Systems): Elektronische Systeme zur Eingabe, Verarbeitung
-und Ausgabe von Information, die wesentlich ist für die effektive
-Operation der unterstellten Gruppe, des Großverbands, des taktischen
-Verbands, der Einheit, des Schiffes, der Untereinheit oder des
-Waffensystems. Dies wird erreicht durch die Nutzung von Computern und
-anderer spezialisierter Hardware, konstruiert zur Unterstützung der
-Funktionen einer militärischen Führungs- und Leitorganisation. Die
-Hauptfunktionen eines automatisierten Führungs- und Leitsystems sind:
-die effiziente automatische Erfassung, Sammlung, Speicherung und
-Verarbeitung von Information; die Darstellung der Lage und der
-Verhältnisse, die die Vorbereitung und Durchführung von
-Kampfoperationen beeinflussen; operationelle und taktische
-Berechnungen für die Zuweisung von Ressourcen zwischen den
-Kampfgruppen oder Elementen für die operative Kräftegliederung oder
-den Aufmarsch entsprechend der Mission oder dem Stadium der Operation;
-die Aufbereitung von Daten für die Einschätzung der Situation und für
-die Entscheidungsfindung zu jedem Zeitpunkt während der Operation oder
-Schlacht; Computer-Simulation von Operationen.
-
 „Bibliothek“ (parametrische technische Datenbank) (0017) (Library
 (parametric technical database)): eine Sammlung technischer
 Informationen, deren Nutzung die Leistungsfähigkeit der betreffenden
@@ -10187,11 +10097,11 @@ fiberoptische oder gläserne Ein- und Ausgangsfenster oder Multi-
 Alkali-Fotokathoden (S-20 oder S-25) verwenden, jedoch keine
 Mikrokanalplatten-Verstärker.
 
-„Biokatalysatoren“ (0007 0022) (biocatalysts): ,Enzyme‘ oder andere
+„Biokatalysatoren“ (0007 0022) (biocatalysts): ‚Enzymeʻ oder andere
 biologische Verbindungen, die spezifische chemische Kampfstoffe binden
 und deren Abbau beschleunigen.
 
-Anmerkung: ,Enzyme‘ (enzymes): „Biokatalysatoren“ für spezifische chemische oder
+*Anmerkung:* ‚Enzymeʻ (enzymes): „Biokatalysatoren“ für spezifische chemische oder
     biochemische Reaktionen.
 
 
@@ -10203,47 +10113,6 @@ Lagerbeständigkeit, Virulenz, Verbreitungsmerkmale oder
 Widerstandsfähigkeit gegen UV-Strahlung) für die Außergefechtsetzung
 von Menschen oder Tieren, die Funktionsbeeinträchtigung von
 Ausrüstung, die Vernichtung von Ernten oder die Schädigung der Umwelt.
-
-„Biopolymere“ (0007) (biopolymers): biologische Makromoleküle wie
-folgt:
-
-a)  ,Enzyme‘,
-
-
-b)  ,antiidiotypische Antikörper‘, ,monoklonale Antikörper‘ oder
-    ,polyklonale Antikörper‘,
-
-
-c)  besonders entwickelte oder besonders verarbeitete ,Rezeptoren‘.
-
-    Anmerkung 1: ,Enzyme‘ (enzymes): „Biokatalysatoren“ für spezifische chemische oder
-        biochemische Reaktionen.
-
-
-    Anmerkung 2: ,Antiidiotypische Antikörper‘ (anti-idiotypic antibodies): Antikörper,
-        die spezifisch an die Antigen-Bindungsstelle anderer Antikörper
-        binden.
-
-
-    Anmerkung 3: ,Monoklonale Antikörper‘ (monoclonal antibodies): Proteine, die
-        spezifisch an eine Antigen-Bindungsstelle binden und durch einen
-        einzigen Klon von Zellen erzeugt werden.
-
-
-    Anmerkung 4: ,Polyklonale Antikörper‘ (polyclonal antibodies): eine Mischung von
-        Proteinen, die sich an ein bestimmtes Antigen binden und durch mehr
-        als ein Klon von Zellen erzeugt werden.
-
-
-    Anmerkung 5: ,Rezeptoren‘ (receptors): biologische makromolekulare Strukturen, die
-        Liganden bilden können, deren Bindung physiologische Funktionen
-        beeinflussen.
-
-
-
-
-
-
 
 „Brennstoffzelle“ (0017) (fuel cell): eine elektrochemische
 Einrichtung, die durch den Verbrauch von Brennstoff aus einer externen
@@ -10257,7 +10126,7 @@ a)  Daten aufnehmen,
 
 
 b)  Daten oder Befehle in einem festen oder veränderbaren (beschreibbaren)
-    Speicher speichern;
+    Speicher speichern,
 
 
 c)  Daten durch eine gespeicherte und veränderbare Befehlsfolge
@@ -10269,18 +10138,37 @@ d)  Daten ausgeben.
 
 
 
-Anmerkung: Veränderungen an einer gespeicherten Befehlsfolge schließen den
+*Anmerkung:* Veränderungen an einer gespeicherten Befehlsfolge schließen den
     Austausch von festprogrammierten Speichervorrichtungen mit ein, nicht
     aber physische Veränderungen der Verdrahtung oder von Verbindungen.
 
 
 
 
-„Endeffektoren“ (0017) (end-effectors): umfassen Greifer, ,aktive
-Werkzeugeinheiten‘ und alle anderen Werkzeuge, die am Anschlussflansch
+„Elektronische Baugruppe“ (4A1906) (electronic assembly): eine Anzahl
+elektronischer Bauelemente (d. h. ‚Schaltungselementeʻ, diskrete
+Bauelementeʻ, integrierte Schaltungen u. ä.), die miteinander
+verbunden sind, um eine bestimmte Funktion oder mehrere bestimmte
+Funktionen zu erfüllen. Die „elektronische Baugruppe“ ist als Ganzes
+austauschbar und normalerweise demontierbar.
+
+*Anmerkung 1:* ‚Schaltungselementʻ (circuit element): eine einzelne aktive oder
+    passive Funktionseinheit einer elektronischen Schaltung, z. B. eine
+    Diode, ein Transistor, ein Widerstand, ein Kondensator.
+
+
+*Anmerkung 2:* ‚Diskretes Bauelementʻ (discrete component): ein in einem eigenen
+    Gehäuse befindliches ‚Schaltungselementʻ mit eigenen äußeren
+    Anschlüssen.
+
+
+
+
+„Endeffektoren“ (0017) (end-effectors): umfassen Greifer, ‚aktive
+Werkzeugeinheitenʻ und alle anderen Werkzeuge, die am Anschlussflansch
 am Ende des „Roboter“-Greifarms bzw. der -Greifarme angebaut sind.
 
-Anmerkung: ,Aktive Werkzeugeinheit‘ (active tooling unit): eine Einrichtung, die
+*Anmerkung:* ‚Aktive Werkzeugeinheitʻ (active tooling unit): eine Einrichtung, die
     dem Werkzeug Bewegungskraft, Prozessenergie oder Sensorsignale
     zuführt.
 
@@ -10293,22 +10181,19 @@ welche für die beabsichtigte Verwendung benötigt wird.
 „Explosivstoffe“, „Pyrotechnika“ und „Treibstoffe“ sind Untergruppen
 von energetischen Materialien.
 
-„Entwicklung“ (ATA 0017 0021 0022 1E901 5D902 5E902 6D908 9D904 9E904
-9E991) (development): schließt alle Stufen vor der Serienfertigung
-ein, z. B. Konstruktion, Forschung, Analyse, Konzepte, Zusammenbau und
-Test von Prototypen, Pilotserienpläne, Konstruktionsdaten, Verfahren
-zur Umsetzung der Konstruktionsdaten ins Produkt,
-Konfigurationsplanung, Integrationsplanung, Layout.
+„Entwicklung“ (ATA 0017 0021 0022 1E901 3E1901 3E1902 3E1905 4D1901b3
+4E1901b3 5D902 5E902 6D908 9D904 9E904 9E991) (development): schließt
+alle Stufen vor der Serienfertigung ein, z. B. Konstruktion,
+Forschung, Analyse, Konzepte, Zusammenbau und Test von Prototypen,
+Pilotserienpläne, Konstruktionsdaten, Verfahren zur Umsetzung der
+Konstruktionsdaten ins Produkt, Konfigurationsplanung,
+Integrationsplanung, Layout.
 
 „Explosivstoffe“ (0008 0018) (explosives): feste, flüssige oder
 gasförmige Stoffe oder Stoffgemische, die erforderlich sind, um bei
 ihrer Verwendung als Primärladungen, Verstärker- oder Hauptladungen in
 Gefechtsköpfen, Geschossen und anderen Einsatzarten Detonationen
 herbeizuführen.
-
-„Expressions-Vektoren“ (0007) (expression vectors): Träger (z. B.
-Plasmide oder Viren), die zum Einbringen genetischen Materials in
-Gastzellen eingesetzt werden.
 
 „Faser- oder fadenförmige Materialien“ (0013) (fibrous or filamentary
 materials): umfassen
@@ -10335,16 +10220,27 @@ f)  Pulpe aus aromatischen Polyamiden.
 
 
 
+„Gate-All-Around-Feldeffekttransistor“ (3E1905) (Gate-All-Around
+Field-Effect Transistor, „GAAFET“): ein Bauelement mit einem oder
+mehreren Halbleiter-Leitungskanalelementen und einer gemeinsamen Gate-
+Struktur, die alle Halbleiter-Leitungskanalelemente umgibt und den
+Strom in ihnen steuert.
+
+„GDSII“ („Graphic Design System II“) (3D1907): GDSII ist ein
+Datenformat zum Austausch von Layoutdaten oder anderer Daten
+Integrierter Schaltungen.
+
 „Gleichwertige Standards“ (0006 0013) (equivalent standards):
 Vergleichbare nationale oder internationale Standards, die von einem
 oder mehreren EU-Mitgliedstaaten oder Teilnehmerstaaten des Wassenaar-
 Arrangements anerkannt werden und auf den betreffenden Eintrag
 anwendbar sind.
 
-„Herstellung“ (ATA 0021 0022 1E901 5D902 5E902 6D908 9D904 9E904
-9E991) (production): schließt alle Fabrikationsstufen ein, z. B.
-Fertigungsvorbereitung, Fertigung, Integration, Zusammenbau,
-Kontrolle, Prüfung (Test), Qualitätssicherung.
+„Herstellung“ (ATA 0021 0022 1E901 3E1901 3E1902 3E1905 4D1901b3
+4E1901b3 5D902 5E902 6D908 9D904 9E904 9E991) (production): schließt
+alle Fabrikationsstufen ein, z. B. Fertigungsvorbereitung, Fertigung,
+Integration, Zusammenbau, Kontrolle, Prüfung (Test),
+Qualitätssicherung.
 
 „Isolierte lebende Kulturen“ (DEF) (isolated live cultures): schließen
 lebende Kulturen in gefrorener Form und als Trockenpräparat ein.
@@ -10363,9 +10259,9 @@ damit in unmittelbaren Kontakt kommen oder es steuern.
 „supraleitenden“ Materials ist die Temperatur, bei der das Material
 den Widerstand gegen den Gleichstromfluss vollständig verliert.
 
-„Laser“ (0009 0019 9A904) (laser): ein Gerät zum Erzeugen von räumlich
-und zeitlich kohärentem Licht durch Verstärkung mithilfe der
-stimulierten Emission von Strahlung.
+„Laser“ (0009 0013 0017 0019 9A904) (laser): ein Gerät zum Erzeugen
+von räumlich und zeitlich kohärentem Licht durch Verstärkung mithilfe
+der stimulierten Emission von Strahlung.
 
 „Luftfahrtgerät nach dem Prinzip leichter-als-Luft“ (0010) (lighter-
 than-air-vehicles): Ballone und „Luftschiffe“, deren Auftrieb auf der
@@ -10376,12 +10272,12 @@ der Umgebungsluft, wie zum Beispiel Helium oder Wasserstoff, beruht.
 mit feststehenden, schwenkbaren oder rotierenden (Hubschrauber)
 Tragflächen, mit Kipprotoren oder Kippflügeln.
 
-Anmerkung: Siehe auch „zivile Luftfahrzeuge“.
+*Anmerkung:* Siehe auch „zivile Luftfahrzeuge“.
 
 
 
 
-„Luftschiff“ (DEF) (airship): bezeichnet ein triebwerkgetriebenes
+„Luftschiff” (DEF) (airship): bezeichnet ein triebwerkgetriebenes
 Luftfahrzeug, dessen Auftrieb durch ein Traggas aufrechterhalten wird,
 das leichter als Luft ist (in der Regel Helium, früher Wasserstoff).
 
@@ -10417,8 +10313,31 @@ Infrarotstrahlung zu erzeugen. Zu den „Pyrotechnika“ zählt auch die
 Untergruppe der Pyrophoren, die keine Sauerstoffträger enthalten, sich
 an der Luft aber spontan entzünden.
 
-„Raumfahrzeuge“ (0011 9A904) (spacecraft): aktive und passive
-Satelliten und Raumsonden.
+„Raumfähre“ (DEF) (space vehicle): ein „Raumfahrzeug“, das dazu
+konstruiert ist, Fracht oder Personen zu befördern.
+
+*Anmerkung:* „Raumfähren“ umfassen auch Fahrzeuge, die dazu konstruiert sind,
+    sicher auf die Erde zurückzukehren.
+
+
+
+
+„Raumfahrzeuge“ (0011 9A904) (spacecraft): ein Fahrzeug, das dazu
+konstruiert ist, als „Satellit“, „Raumsonde“ oder „Raumfähre“ im
+Weltraum betrieben zu werden, dort zu verbleiben oder sich durch den
+Weltraum zu bewegen.
+
+*Anmerkung:* „Raumfahrzeuge“ umfassen keine Lander, Rover oder andere Fahrzeuge,
+    die aufgrund ihrer Konstruktion auf den Betrieb auf oder unter der
+    Oberfläche oder in der Atmosphäre eines außerirdischen Himmelskörpers
+    oder auf „suborbitale Fahrzeuge“ beschränkt sind.
+
+
+
+
+„Raumsonde“ (DEF) (space probe): ein anderes „Raumfahrzeug“ als ein
+„Satellit“ oder eine „Raumfähre“, das dazu konstruiert ist, nicht zur
+Erde zurückzukehren.
 
 „Reaktion auf Cybervorfälle“ (0021) (cyber incident response): Vorgang
 des Austauschs der erforderlichen Informationen über einen
@@ -10446,18 +10365,18 @@ b)  fähig, Material, Teile, Werkzeuge oder Spezialvorrichtungen durch
 
 
 c)  mit drei oder mehr Regel- oder Stellantrieben, die Schrittmotoren
-    einschließen können, und
+    einschließen können, *und*
 
 
 d)  mit „anwenderzugänglicher Programmierbarkeit“ durch
     Eingabe-/Wiedergabe-Verfahren (teach/playback) oder durch einen
     Elektronenrechner, der auch eine speicherprogrammierbare Steuerung
-    sein kann, d. h. ohne mechanischen Eingriff.
+    sein kann, d.h. ohne mechanischen Eingriff.
 
 
 
 
-Anmerkung: Diese Definition umfasst nicht folgende Geräte:
+*Anmerkung:* Diese Definition umfasst nicht folgende Geräte:
 
     1.  ausschließlich hand- oder fernsteuerbare Handhabungssysteme,
 
@@ -10471,6 +10390,7 @@ Anmerkung: Diese Definition umfasst nicht folgende Geräte:
 
     3.  mechanisch gesteuerte Handhabungssysteme mit veränderlichem Ablauf
         (Bewegungsautomaten), die mechanisch festgelegte Bewegungen ausführen.
+
         Das Programm wird durch feste, aber verstellbare Anschläge wie Stifte
         und Nocken mechanisch begrenzt. Der Bewegungsablauf und die Wahl der
         Bahnen oder Winkel sind innerhalb des festgelegten Programmablaufs
@@ -10499,24 +10419,47 @@ Anmerkung: Diese Definition umfasst nicht folgende Geräte:
 
 
 
+„Satellit“ (DEF) (satellite): andere „Raumfahrzeuge“ als „Raumfähren“,
+die dazu konstruiert sind, in einer Umlaufbahn um die Erde oder um
+einen anderen Himmelskörper betrieben zu werden. „Satelliten“ umfassen
+auch Orbitalstationen.
+
 „Satelliten-Navigationssystem“ (0011) (satellite navigation system):
-ein System, das aus Bodenstationen, einer Konstellation von Satelliten
-und Empfangsgeräten besteht und die Berechnung der Standorte von
-Empfangsgeräten auf der Grundlage der von den Satelliten empfangenen
-Signale ermöglicht. Der Begriff schließt weltweite Satelliten-
-Navigationssysteme und regionale Satelliten-Navigationssysteme ein.
+ein System, das aus Bodenstationen, einer Konstellation von
+„Satelliten“ und Empfangsgeräten besteht und die Berechnung der
+Standorte von Empfangsgeräten auf der Grundlage der von den
+„Satelliten“ empfangenen Signale ermöglicht. Der Begriff schließt
+weltweite Satelliten-Navigationssysteme (GNSS) und regionale
+Satelliten-Navigationssysteme (RNSS) ein.
 
-„Software“ (ASA 0004 0011 0021 5D902 5D911 6D908 9D904) (software):
-eine Sammlung eines oder mehrerer „Programme“ oder „Mikroprogramme“,
-die auf einem beliebigen greifbaren (Ausdrucks-)Medium fixiert sind.
+„Software“ (ASA 0004 0011 0021 3D1902 3D1907 4D1901b3 5D902 5D911
+6D908 9D904) (software): eine Sammlung eines oder mehrerer „Programme“
+oder „Mikroprogramme“, die auf einem beliebigen greifbaren
+(Ausdrucks-)Medium fixiert sind.
 
-„Supraleitend“ (0020) (superconductive): Materialien (d. h. Metalle,
+„Suborbitale Fahrzeuge“ (0010) (sub-orbital craft): ein Fahrzeug mit
+einer Hülle für die Beförderung von Personen oder Fracht, das dazu
+konstruiert ist,
+
+a)  oberhalb der Stratosphäre betrieben zu werden,
+
+
+b)  ausschließlich nichtorbitale Flugbahnen auszuführen und
+
+
+c)  wieder auf der Erde zu landen, wobei die Insassen unversehrt bzw. die
+    Ladung unbeschädigt bleibt.
+
+
+
+
+„Supraleitend“ (0020) (superconductive): Materialien (d.h. Metalle,
 Legierungen oder Verbindungen), die ihren elektrischen Widerstand
-vollständig verlieren können, d. h., sie können unbegrenzte
-elektrische Leitfähigkeit erreichen und sehr große elektrische Ströme
-ohne Joulesche Erwärmung übertragen.
+vollständig verlieren können, d.h., sie können unbegrenzte elektrische
+Leitfähigkeit erreichen und sehr große elektrische Ströme ohne
+Joulesche Erwärmung übertragen.
 
-Anmerkung: Der „supraleitende“ Zustand eines Materials ist jeweils gekennzeichnet
+*Anmerkung:* Der „supraleitende“ Zustand eines Materials ist jeweils gekennzeichnet
     durch eine „kritische Temperatur“, ein kritisches Magnetfeld, das eine
     Funktion der Temperatur ist, und eine kritische Stromdichte, die eine
     Funktion des Magnetfelds und der Temperatur ist.
@@ -10524,23 +10467,23 @@ Anmerkung: Der „supraleitende“ Zustand eines Materials ist jeweils gekennzei
 
 
 
-„Technologie“ (ATA 0022 1E901 5E902 9E904 9E991 9E992) (technology):
-spezifisches technisches Wissen, das für die „Entwicklung“,
-„Herstellung“ oder „Verwendung“ eines Produkts nötig ist. Das
-technische Wissen wird in der Form von ,technischen Unterlagen‘ oder
-,technischer Unterstützung‘ verkörpert.
+„Technologie“ (ATA 0022 1E901 3E1901 3E1902 3E1905 4E1901b3 5E902
+9E904 9E991 9E992) (technology): spezifisches technisches Wissen, das
+für die „Entwicklung“, „Herstellung“ oder „Verwendung“ eines Produkts
+nötig ist. Das technische Wissen wird in der Form von ‚technischen
+Unterlagenʻ oder ‚technischer Unterstützungʻ verkörpert.
 
-Anmerkung 1: ,Technische Unterlagen‘ (technical data): können verschiedenartig
-    sein, z. B. Blaupausen, Pläne, Diagramme, Modelle, Formeln, Tabellen,
-    Konstruktionspläne und -spezifikationen, Beschreibungen und
-    Anweisungen in Schriftform oder auf anderen Medien aufgezeichnet, wie
-    Magnetplatten, Bänder oder Lesespeicher.
+*Anmerkung 1:* ‚Technische Unterlagenʻ (technical data): können verschiedenartig
+    sein, z. B. Blaupausen, Pläne, Diagramme, Modelle, Formeln,
+    Algorithmen, Tabellen, Konstruktionspläne und -spezifikationen,
+    Beschreibungen und Anweisungen in Schriftform oder auf anderen Medien
+    aufgezeichnet, wie Magnetplatten, Bänder oder Lesespeicher.
 
 
-Anmerkung 2: ,Technische Unterstützung‘ (technical assistance): kann
+*Anmerkung 2:* ‚Technische Unterstützungʻ (technical assistance): kann
     verschiedenartig sein, z. B. Unterweisung, Vermittlung von
     Fertigkeiten, Schulung, Arbeitshilfe, Beratungsdienste, und kann auch
-    die Weitergabe von ,technischen Unterlagen‘ einbeziehen.
+    die Weitergabe von ‚technischen Unterlagenʻ einbeziehen.
 
 
 
@@ -10568,9 +10511,9 @@ erfassten Leistungsmerkmale, Charakteristiken oder Funktionen erreicht
 oder überschritten werden. Diese „unverzichtbare“ „Technologie“ kann
 auch für verschiedenartige Produkte einsetzbar sein.
 
-„Verwendung“ (ATA 5D902 5D911 5E902 6D908 9D904 9E904) (use): Betrieb,
-Aufbau (einschließlich Vor-Ort-Aufbau), Wartung (Test), Reparatur,
-Überholung, Wiederaufarbeitung.
+„Verwendung“ (ATA 3D1902 5D902 5D911 5E902 6D908 9D904 9E904) (use):
+Betrieb, Aufbau (einschließlich Vor-Ort-Aufbau), Wartung (Test),
+Reparatur, Überholung, Wiederaufarbeitung.
 
 „Vorprodukte“ (0008) (precursors): spezielle Chemikalien, die für die
 Herstellung von Sprengstoffen verwendet werden.
@@ -10579,9 +10522,9 @@ Herstellung von Sprengstoffen verwendet werden.
 oder durch erfolgreiche Prüfung qualifiziert für den Betrieb in Höhen
 von 100 km über der Erdoberfläche.
 
-Anmerkung: Wenn ein Bestandteil auf Grund technischer Prüfung „weltraumgeeignet“
+*Anmerkung:* Wenn ein Bestandteil auf Grund technischer Prüfung „weltraumgeeignet“
     ist, bedeutet dies nicht, das andere Bestandteile der gleichen
-    Fertigung oder der gleichen Modell-Serie "weltraumgeeignet“ sind,
+    Fertigung oder der gleichen Modell-Serie „weltraumgeeignet“ sind,
     falls sie nicht im Rahmen einer Einzelprüfung getestet sind.
 
 
@@ -10602,14 +10545,14 @@ Arrangements für den zivilen Verkehr auf Inlands- und Auslandsrouten
 oder für rechtmäßige zivile Privat- oder Geschäftsflüge registriert
 sind.
 
-Anmerkung: Siehe auch „Luftfahrzeug“.
+*Anmerkung:* Siehe auch „Luftfahrzeug“.
 
 
 
 
-**TEIL II**
+## **TEIL II**
 
-**Waren pflanzlichen Ursprungs**
+## **Waren pflanzlichen Ursprungs**
 
 
 *    *   Nr. des
@@ -10632,15 +10575,15 @@ Anmerkung: Siehe auch „Luftfahrzeug“.
 
 
 *    *
-    *   Abschnitt II
+    *   **Abschnitt II**
         **Waren pflanzlichen Ursprungs**
 
     *
 
 *    *
-    *   Kapitel 7
-        **Gemüse, Pflanzen, Wurzeln und Knollen, die zu Ernährungszwecken
-        verwendet werden**
+    *   **Kapitel 7**
+        Gemüse, Pflanzen, Wurzeln und Knollen, die zu
+        **Ernährungszwecken verwendet werden**
 
     *
 
@@ -10702,15 +10645,15 @@ Anmerkung: Siehe auch „Luftfahrzeug“.
 *    *   ex 0709
 
     *   Anderes Gemüse, frisch oder gekühlt,
-        ausgenommen Gemüse der Unterpositionen 0709 52 00, 0709 53 00, 0709 55
-        00, 0709 56 00, 0709 60 91, 0709 60 95, 0709 60 99, 0709 92 10, 0709
-        92 90, 0709 99 40 und 0709 99 60
+        ausgenommen Gemüse der Unterpositionen 0709 52 00, 0709 53 00,
+        0709 55 00,                      0709 56 00, 0709 60 91, 0709 60 95,
+        0709 60 99, 0709 92 10, 0709 92 90, 0709 99 40 und 0709 99 60
 
     *   G
 
 
 *    *
-    *   Kapitel 8
+    *   **Kapitel 8**
         **Genießbare Früchte, Schalen von Zitrusfrüchten oder von Melonen**
 
     *
@@ -10808,7 +10751,7 @@ Anmerkung: Siehe auch „Luftfahrzeug“.
 
 
 *    *
-    *   Kapitel 9
+    *   **Kapitel 9**
         **Kaffee, Tee, Mate und Gewürze**
 
     *
@@ -10821,9 +10764,9 @@ Anmerkung: Siehe auch „Luftfahrzeug“.
 
 
 *    *
-    *   Kapitel 12
-        **Ölsamen und ölhaltige Früchte, verschiedene Samen und Früchte,
-        Pflanzen zum Gewerbe- oder Heilgebrauch, Stroh und Futter**
+    *   **Kapitel 12**
+        Ölsamen und ölhaltige Früchte, verschiedene Samen und Früchte,
+        **Pflanzen zum Gewerbe- oder Heilgebrauch, Stroh und Futter**
 
     *
 
@@ -10837,193 +10780,1297 @@ Anmerkung: Siehe auch „Luftfahrzeug“.
 
 
 
+(zu § 64)
 
+### Anlage 2 DIREKA1 Meldung von Vermögen von Inländern im Ausland
 
-### Anlage 2 (weggefallen)
+(Fundstelle: BGBl. 2024 I Nr. 411, S. 17 - 19)
 
 
+*    *   **Meldeinhalte**
 
-### Anlage 3 Vermögen von Inländern im Ausland
 
-(Fundstelle: BAnz AT 07.09.2021 V1)
+*    *   Angaben zum Meldepflichtigen
 
-![banzat_2021_210811001115B001.jpg](banzat_2021_210811001115B001.jpg)
-![banzat_2021_210811001115B002.jpg](banzat_2021_210811001115B002.jpg)
 
-### Anlage 4 Vermögen von Ausländern im Inland
+*    *   Angaben zum Einreicher
 
-(Fundstelle: BAnz AT 07.09.2021 V1)
 
-![banzat_2021_210811001115B003.jpg](banzat_2021_210811001115B003.jpg)
-![banzat_2021_210811001115B004.jpg](banzat_2021_210811001115B004.jpg)
+*    *   Kontaktdaten für Rückfragen
 
-### Anlage 5 Anlage Z4 „Zahlungen im Außenwirtschaftsverkehr“
 
-(Fundstelle: BGBl. I 2013, 2936 - 2937)
+*    *   Meldedatum
 
 
 
 
-### Anlage 6 Anlage Z5 „Forderungen und Verbindlichkeiten aus Finanzbeziehungen mit ausländischen Banken“
+*    *   **Über die allgemeinen Angaben des Meldepflichtigen hinausgehende
+        Angaben**
 
-(Fundstelle: BGBl. I 2013, 2938 - 2939)
 
+*    *   Wirtschaftszweig
 
 
+*    *   Rechtsform
 
-### Anlage 7 Anlage Z5a Blatt 1/1 „Forderungen und Verbindlichkeiten aus Finanzbeziehungen mit verbundenen ausländischen Nichtbanken“
 
-(Fundstelle: BGBl. I 2013, 2940 - 2941)
+*    *   Bilanzsumme
 
 
+*    *   Jahresumsatz
 
 
-### Anlage 8 Anlage Z5a Blatt 1/2 „Forderungen und Verbindlichkeiten aus Finanzbeziehungen mit sonstigen ausländischen Nichtbanken“
+*    *   Zahl der Beschäftigten
 
-(Fundstelle: BGBl. I 2013, 2942 - 2943)
 
+*    *   Sitzland der ausländischen Konzernspitze
 
 
 
-### Anlage 9 Anlage Z5a Blatt 2/1 „Forderungen und Verbindlichkeiten gegenüber verbundenen ausländischen Nichtbanken aus dem Waren- und Dienstleistungsverkehr“
 
-(Fundstelle: BGBl. I 2013, 2944 - 2945)
+*    *   **Falls der Meldepflichtige zu einem deutschen Konzern gehört: Angaben
+        zum Konzern**
 
 
+*    *   Bilanzsumme
 
 
-### Anlage 10 Anlage Z5a Blatt 2/2 „Forderungen und Verbindlichkeiten gegenüber sonstigen ausländischen Nichtbanken aus dem Waren- und Dienstleistungsverkehr“
+*    *   Jahresumsatz
 
-(Fundstelle: BGBl. I 2013, 2946 - 2947)
 
+*    *   Zahl der Beschäftigten
 
 
+*    *   Firma der deutschen Konzernmutter
 
-### Anlage 11 Anlage Z5b „Forderungen und Verbindlichkeiten gegenüber Ausländern aus derivativen Finanzinstrumenten“
 
-(Fundstelle: BGBl. I 2013, 2948 - 2949)
 
 
+*    *   **Liste der ausländischen Unternehmen, an denen der Meldepflichtige
+        unmittelbar oder mittelbar zum Meldestichtag beteiligt ist oder zum
+        letzten Meldestichtag beteiligt war mit folgendem Inhalt**
 
 
-### Anlage 12 Anlage Z8 „Einnahmen und Ausgaben der Seeschifffahrt“
+*    *   Firma
 
-(Fundstelle: BGBl. I 2013, 2950 - 2951)
 
+*    *   Sitz
 
 
+*    *   Sitzland
 
-### Anlage 13 Anlage Z10 „Wertpapiergeschäfte und Finanzderivate im Außenwirtschaftsverkehr“
 
-(Fundstelle: BGBl. I 2013, 2952 - 2953)
+*    *   Wirtschaftszweig
 
 
+*    *   Angabe zur Selbständigkeit
 
 
-### Anlage 14 Anlage Z11 „Zahlungen für Wertpapier-Erträge im Außenwirtschaftsverkehr“
+*    *   ISIN
 
-(Fundstelle: BGBl. I 2013, 2954 - 2956)
 
+*    *   Unmittelbare ausländische Beteiligungsgeber, über die der
+        Meldepflichtige mittelbar beteiligt ist
 
 
+*    *   Erstmelde-/Abgangsgrund
 
 
-### Anlage 15 Anlage Z12 „Zahlungseingänge/Zahlungsausgänge im Reiseverkehr: Karten-Umsätze“
+*    *   Währung
 
-(Fundstelle: BGBl. I 2013, 2957 - 2958)
 
+*    *   Jahresumsatz
 
 
+*    *   Investitionen in Sachanlagen
 
-### Anlage 16 Anlage Z13 „Zahlungseingänge/Zahlungsausgänge im Reiseverkehr: Sorten und Fremdwährungsreiseschecks“
 
-(Fundstelle: BGBl. I 2013, 2959 - 2960)
+*    *   Personalaufwand
 
 
+*    *   Zahl der Beschäftigten
 
 
-### Anlage 17 Anlage Z14 „Zinseinnahmen und zinsähnliche Erträge im Außenwirtschaftsverkehr (ohne Wertpapierzinsen)“
+*    *   Summe der Stimmrechtsanteile vom Meldepflichtigen und unmittelbaren
+        Beteiligungsgebern
 
-(Fundstelle: BGBl. I 2013, 2961 - 2962)
 
+*    *   Bilanz der ausländischen Beteiligung (siehe Beschreibung:
+        Bilanzinformationen)
 
 
+*    *   Auf den Meldepflichtigen entfallende Anteile der folgenden
+        Bilanzinformationen:
 
-### Anlage 18 Anlage Z15 „Zinsausgaben und zinsähnliche Aufwendungen im Außenwirtschaftsverkehr (ohne Wertpapierzinsen)“
 
-(Fundstelle: BGBl. I 2013, 2963 - 2964)
+*    *
+    *   Anteile an verbundenen Unternehmen, Beteiligungen
 
 
+*    *
+    *   Ausleihungen an Anteilseigner, verbundene Unternehmen, Unternehmen,
+        mit denen ein Beteiligungsverhältnis besteht
 
-Anlage LV zur Außenwirtschaftsverordnung
 
-### Anlage 19 Leistungsverzeichnis der Deutschen Bundesbank für die Zahlungsbilanz
+*    *
+    *   Forderungen an Anteilseigner, verbundene Unternehmen, Unternehmen, mit
+        denen ein Beteiligungsverhältnis besteht
 
-(Fundstelle: BAnz AT 28.10.2020 V1)
 
-## **Dienstleistungen**
+*    *
+    *   Gezeichnetes oder eingefordertes Kapital, Dotationskapital, Einlagen
+        von Gesellschaftern
+
+
+*    *
+    *   Verbindlichkeiten gegenüber Anteilseignern, verbundenen Unternehmen,
+        Unternehmen, mit denen ein Beteiligungsverhältnis besteht
+
+
+*    *   Börsenwert der vom Meldepflichtigen unmittelbar gehaltenen Anteile
+
+
+*    *   Anteil der Stimmrechte des Meldepflichtigen
+
+
+*    *   Auf den oder die unmittelbaren ausländischen Beteiligungsgeber
+        entfallenden Anteile der folgenden Bilanzinformationen:
+
+
+*    *
+    *   Anteile an verbundenen Unternehmen, Beteiligungen
+
+
+*    *
+    *   Ausleihungen an Anteilseigner, verbundene Unternehmen, Unternehmen mit
+        denen ein Beteiligungsverhältnis besteht
+
+
+*    *
+    *   Forderungen an Anteilseigner, verbundene Unternehmen, Unternehmen mit
+        denen ein Beteiligungsverhältnis besteht
+
+
+*    *
+    *   Gezeichnetes oder eingefordertes Kapital, Dotationskapital, Einlagen
+        von Gesellschaftern
+
+
+*    *
+    *   Verbindlichkeiten gegenüber Anteilseignern, verbundenen Unternehmen,
+        Unternehmen mit denen ein Beteiligungsverhältnis besteht
+
+
+
+
+*    *   **Bilanzinformationen der ausländischen Beteiligungen**
+
+
+*    *   Bilanzstichtag
+
+
+*    *   Art der Rechnungslegung
+
+
+*    *   Sachanlagen und immaterielle Vermögensgegenstände
+
+
+*    *   Finanzanlagen insgesamt
+
+
+*    *   Darunter:
+
+
+*    *
+    *   Anteile an verbundenen Unternehmen, Beteiligungen
+
+
+*    *
+    *   Ausleihungen an in Deutschland ansässige Anteilseigner, verbundene
+        Unternehmen, Unternehmen mit denen ein Beteiligungsverhältnis besteht
+
+
+*    *
+    *   Ausleihungen an nicht in Deutschland ansässige Anteilseigner,
+        verbundene Unternehmen, Unternehmen an denen ein
+        Beteiligungsverhältnis besteht
+
+
+*    *   Umlaufvermögen insgesamt
+
+
+*    *   Darunter:
+
+
+*    *
+    *   Forderungen gegenüber in Deutschland ansässige Anteilseigner,
+        verbundenen Unternehmen, Unternehmen mit denen ein
+        Beteiligungsverhältnis besteht
+
+
+*    *
+    *   Forderungen gegenüber nicht in Deutschland ansässigen Anteilseigner,
+        verbundenen Unternehmen, Unternehmen mit denen ein
+        Beteiligungsverhältnis besteht
+
+
+*    *   Übrige Aktiva
+
+
+*    *   Nicht durch Eigenkapital gedeckter Fehlbetrag
+
+
+*    *   Gezeichnetes oder eingefordertes Kapital, Dotationskapital, Einlagen
+        von Gesellschaftern
+
+
+*    *   Kapitalrücklage
+
+
+*    *   Gewinnrücklagen
+
+
+*    *   Bei internationaler Rechnungslegung: kumulierte erfolgsneutrale
+        Eigenkapitalveränderungen
+
+
+*    *   Gewinnvortrag/Verlustvortrag
+
+
+*    *   Jahresüberschuss/Jahresfehlbetrag
+
+
+*    *   Verbindlichkeiten insgesamt
+
+
+*    *   Darunter:
+
+
+*    *   Verbindlichkeiten gegenüber in Deutschland ansässigen Anteilseignern,
+        verbundenen Unternehmen, Unternehmen mit denen ein
+        Beteiligungsverhältnis besteht
+
+
+*    *   Verbindlichkeiten gegenüber nicht in Deutschland ansässigen
+        Anteilseignern, verbundenen Unternehmen, Unternehmen mit denen ein
+        Beteiligungsverhältnis besteht
+
+
+*    *   Übrige Passiva
+
+
+*    *   Bilanzsumme
+
+
+
+(zu § 65)
+
+### Anlage 3 DIREKA2 Meldung von Vermögen von Ausländern im Inland
+
+(Fundstelle: BGBl. 2024 I Nr. 411, S. 20 - 22)
+
+
+*    *   **Meldeinhalte**
+
+    *
+
+*    *   Angaben zum Meldepflichtigen
+
+    *
+
+*    *   Angaben zum Einreicher
+
+    *
+
+*    *   Kontaktdaten für Rückfragen
+
+    *
+
+*    *   Meldedatum
+
+    *
+
+
+
+*    *   **Über die allgemeinen Angaben des Meldepflichtigen hinausgehende
+        Angaben**
+
+
+*    *   Wirtschaftszweig
+
+
+*    *   Rechtsform
+
+
+*    *   ISIN
+
+
+*    *   Erstmeldegrund
+
+
+*    *   Jahresumsatz
+
+
+*    *   Zahl der Beschäftigten
+
+
+*    *   Bilanz des Meldepflichtigen (siehe Beschreibung: Bilanzinformationen)
+
+
+
+
+*    *   **Liste der ausländischen Beteiligungsgeber mit folgendem Inhalt**
+
+
+*    *   Firma oder Name
+
+
+*    *   Sitz
+
+
+*    *   Sitzland
+
+
+*    *   Sitzland des Endeigentümers
+
+
+*    *   Auf den ausländischen Beteiligungsgeber entfallende Anteile der
+        folgenden Bilanzinformationen des Meldepflichtigen:
+
+
+*    *
+    *   Anteile an verbundenen Unternehmen, Beteiligungen
+
+
+*    *
+    *   Ausleihungen an Anteilseigner, verbundene Unternehmen, Unternehmen mit
+        denen ein Beteiligungsverhältnis besteht im Ausland
+
+
+*    *
+    *   Forderungen an Anteilseigner, verbundene Unternehmen, Unternehmen mit
+        denen ein Beteiligungsverhältnis besteht im Ausland
+
+
+*    *
+    *   Gezeichnetes oder eingefordertes Kapital, Dotationskapital, Einlagen
+        von Gesellschaftern
+
+
+*    *
+    *   Verbindlichkeiten gegenüber Anteilseignern, verbundenen Unternehmen,
+        Unternehmen mit denen ein Beteiligungsverhältnis besteht im Ausland
+
+
+*    *
+    *   Börsenwert der gehaltenen Anteile
+
+
+*    *
+    *   Anteil der Stimmrechte
+
+
+
+
+*    *   **Liste der inländischen Unternehmen, an denen die Ausländer über den
+        Meldepflichtigen zum Meldestichtag mittelbar beteiligt sind oder zum
+        letzten Meldestichtag beteiligt waren mit folgendem Inhalt (nur für
+        vom ausländischen Beteiligungsgeber abhängige Unternehmen):**
+
+
+*    *   Firma
+
+
+*    *   Sitz
+
+
+*    *   Wirtschaftszweig
+
+
+*    *   Rechtsform
+
+
+*    *   Unmittelbare inländische Beteiligungsgeber über die der
+        Meldepflichtige mittelbar beteiligt ist
+
+
+*    *   Erstmelde-/Abgangsgrund
+
+
+*    *   Jahresumsatz
+
+
+*    *   Zahl der Beschäftigten
+
+
+*    *   Bilanz der inländischen Beteiligung (siehe Beschreibung:
+        Bilanzinformationen)
+
+
+*    *   Auf den oder die ausländischen Beteiligungsgeber entfallenden Anteile
+        der folgenden Bilanzinformationen:
+
+
+*    *
+    *   Anteile an verbundenen Unternehmen, Beteiligungen
+
+
+*    *
+    *   Ausleihungen an Anteilseigner, verbundene Unternehmen, Unternehmen mit
+        denen ein Beteiligungsverhältnis besteht
+
+
+*    *
+    *   Forderungen an Anteilseigner, verbundene Unternehmen, Unternehmen mit
+        denen ein Beteiligungsverhältnis besteht
+
+
+*    *
+    *   Verbindlichkeiten gegenüber Anteilseignern, verbundenen Unternehmen,
+        Unternehmen mit denen ein Beteiligungsverhältnis besteht
+
+
+*    *   Auf die direkten inländischen Beteiligungsgeber entfallende Anteile
+        der folgenden Bilanzinformationen:
+
+
+*    *
+    *   Anteile an verbundenen Unternehmen, Beteiligungen
+
+
+*    *
+    *   Ausleihungen an Anteilseigner, verbundene Unternehmen, Unternehmen mit
+        denen ein Beteiligungsverhältnis besteht
+
+
+*    *
+    *   Forderungen an Anteilseigner, verbundene Unternehmen, Unternehmen mit
+        denen ein Beteiligungsverhältnis besteht
+
+
+*    *
+    *   Gezeichnetes oder eingefordertes Kapital, Dotationskapital, Einlagen
+        von Gesellschaftern
+
+
+*    *
+    *   Verbindlichkeiten gegenüber Anteilseignern, verbundenen Unternehmen,
+        Unternehmen an denen ein Beteiligungsverhältnis besteht
+
+
+*    *
+    *   Anteil der Stimmrechte des unmittelbaren Beteiligungsgebers
+
+
+
+
+*    *   **Bilanzinformationen (für Meldepflichtigen und seine deutschen
+        Beteiligungen)**
+
+
+*    *   Bilanzstichtag
+
+
+*    *   Art der Rechnungslegung
+
+
+*    *   Sachanlagen und immaterielle Vermögensgegenstände
+
+
+*    *   Finanzanlagen insgesamt
+
+
+*    *   Darunter:
+
+
+*    *
+    *   Anteile an verbundenen Unternehmen, Beteiligungen
+
+
+*    *
+    *   Ausleihungen an in Deutschland ansässige Anteilseigner, verbundene
+        Unternehmen, Unternehmen mit denen ein Beteiligungsverhältnis besteht
+
+
+*    *
+    *   Ausleihungen an nicht in Deutschland ansässige Anteilseigner,
+        verbundene Unternehmen, Unternehmen an denen ein
+        Beteiligungsverhältnis besteht
+
+
+*    *   Umlaufvermögen insgesamt
+
+
+*    *   Darunter:
+
+
+*    *
+    *   Forderungen gegenüber in Deutschland ansässigen Anteilseigner,
+        verbundenen Unternehmen, Unternehmen mit denen ein
+        Beteiligungsverhältnis besteht in Deutschland
+
+
+*    *
+    *   Forderungen gegenüber nicht in Deutschland ansässigen Anteilseigner,
+        verbundenen Unternehmen, Unternehmen mit denen ein
+        Beteiligungsverhältnis besteht
+
+
+*    *   Übrige Aktiva
+
+
+*    *   Nicht durch Eigenkapital gedeckter Fehlbetrag
+
+
+*    *   Gezeichnetes oder eingefordertes Kapital, Dotationskapital, Einlagen
+        von Gesellschaftern
+
+
+*    *   Kapitalrücklage
+
+
+*    *   Gewinnrücklagen
+
+
+*    *   Bei internationaler Rechnungslegung: kumulierte erfolgsneutrale
+        Eigenkapitalveränderungen
+
+
+*    *   Gewinnvortrag/Verlustvortrag
+
+
+*    *   Jahresüberschuss/Jahresfehlbetrag
+
+
+*    *   Verbindlichkeiten insgesamt
+
+
+*    *   Darunter:
+
+
+*    *
+    *   Verbindlichkeiten gegenüber in Deutschland ansässigen Anteilseignern,
+        verbundenen Unternehmen, Unternehmen mit denen ein
+        Beteiligungsverhältnis besteht
+
+
+*    *
+    *   Verbindlichkeiten gegenüber nicht in Deutschland ansässigen
+        Anteilseignern, verbundenen Unternehmen, Unternehmen mit denen ein
+        Beteiligungsverhältnis besteht
+
+
+*    *   Übrige Passiva
+
+
+*    *   Bilanzsumme
+
+
+
+(zu § 66)
+
+### Anlage 4 AUSWIB1 Bestandsmeldungen der Forderungen und Verbindlichkeiten im Außenwirtschaftsverkehr nach den §§ 66 ff. der Außenwirtschaftsverordnung
+
+(Fundstelle: BGBl. 2024 I Nr. 411, S. 23 - 25)
+
+
+*    *   **Meldeinhalte**
+
+
+*    *   Angaben zum Meldepflichtigen
+
+
+*    *   Angaben zum Einreicher
+
+
+*    *   Kontaktdaten für Rückfragen
+
+
+*    *   Meldedatum
+
+
+
+
+*    *   **Liste der Forderungen und Verbindlichkeiten, gegliedert nach:**
+
+
+*    *   Sitzland des Schuldners/Gläubigers
+
+
+*    *   Währung der Forderung/Verbindlichkeit (außer für derivative
+        Finanzinstrumente)
+
+
+*    *   Bestandsarten gemäß Bestandsartenverzeichnis
+
+
+*    *   Betrag (in Tausend Euro/fremde Währungen sind in Euro umzurechnen)
+
+
+
+
+*    *   **Bestandsartenverzeichnis (AUSWI) zur Außenwirtschaftsverordnung der
+        Deutschen Bundesbank für die Zahlungsbilanz**
+
+
+*    *   Finanzbeziehungen gegenüber ausländischen Banken (ohne Wertpapiere)
+
+
+*    *   •
+
+    *   Forderungen
+
+
+*    *
+    *   ○
+
+    *   mit Fristigkeiten von bis zu 1 Jahr
+
+
+*    *
+    *   ○
+
+    *   mit Fristigkeiten von mehr als 1 Jahr
+
+
+*    *   •
+
+    *   Verbindlichkeiten
+
+
+*    *
+    *   ○
+
+    *   mit Fristigkeiten von bis zu 1 Jahr
+
+
+*    *
+    *   ○
+
+    *   mit Fristigkeiten von mehr als 1 Jahr
+
+
+*    *   Finanzbeziehungen gegenüber verbundenen ausländischen Nichtbanken
+        (ohne Wertpapiere)
+
+
+*    *   – gegenüber Unternehmen, die am Meldepflichtigen beteiligt sind
+
+
+*    *   •
+
+    *   Forderungen
+
+
+*    *
+    *   ○
+
+    *   mit Fristigkeiten von bis zu 1 Jahr
+
+
+*    *
+    *   ○
+
+    *   mit Fristigkeiten von mehr als 1 Jahr
+
+
+*    *   •
+
+    *   Verbindlichkeiten
+
+
+*    *
+    *   ○
+
+    *   mit Fristigkeiten von bis zu 1 Jahr
+
+
+*    *
+    *   ○
+
+    *   mit Fristigkeiten von mehr als 1 Jahr
+
+
+*    *   – gegenüber Unternehmen, an denen der Meldepflichtige beteiligt ist
+
+
+*    *   •
+
+    *   Forderungen
+
+
+*    *
+    *   ○
+
+    *   mit Fristigkeiten von bis zu 1 Jahr
+
+
+*    *
+    *   ○
+
+    *   mit Fristigkeiten von mehr als 1 Jahr
+
+
+*    *   •
+
+    *   Verbindlichkeiten
+
+
+*    *
+    *   ○
+
+    *   mit Fristigkeiten von bis zu 1 Jahr
+
+
+*    *
+    *   ○
+
+    *   mit Fristigkeiten von mehr als 1 Jahr
+
+
+*    *   – gegenüber Unternehmen, mit denen der Meldepflichtige über einen
+        gemeinsamen Beteiligten verbunden ist
+
+
+*    *   •
+
+    *   Forderungen
+
+
+*    *
+    *   ○
+
+    *   mit Fristigkeiten von bis zu 1 Jahr
+
+
+*    *
+    *   ○
+
+    *   mit Fristigkeiten von mehr als 1 Jahr
+
+
+*    *   •
+
+    *   Verbindlichkeiten
+
+
+*    *
+    *   ○
+
+    *   mit Fristigkeiten von bis zu 1 Jahr
+
+
+*    *
+    *   ○
+
+    *   mit Fristigkeiten von mehr als 1 Jahr
+
+
+*    *   Finanzbeziehungen gegenüber sonstigen ausländischen Nichtbanken (ohne
+        Wertpapiere)
+
+
+*    *   •
+
+    *   Forderungen
+
+
+*    *
+    *   ○
+
+    *   mit Fristigkeiten von bis zu 1 Jahr
+
+
+*    *
+    *   ○
+
+    *   mit Fristigkeiten von mehr als 1 Jahr
+
+
+*    *   •
+
+    *   Verbindlichkeiten
+
+
+*    *
+    *   ○
+
+    *   mit Fristigkeiten von bis zu 1 Jahr
+
+
+*    *
+    *   ○
+
+    *   mit Fristigkeiten von mehr als 1 Jahr
+
+
+*    *   Waren- und Dienstleistungsverkehr gegenüber verbundenen ausländischen
+        Nichtbanken
+
+
+*    *   – gegenüber Unternehmen, die am Meldepflichtigen beteiligt sind
+
+
+*    *   •
+
+    *   Forderungen
+
+
+*    *
+    *   ○
+
+    *   mit Fristigkeiten von bis zu 1 Jahr
+
+
+*    *
+    *   ○
+
+    *   mit Fristigkeiten von mehr als 1 Jahr
+
+
+*    *
+    *   ○
+
+    *   aus geleisteten Anzahlungen
+
+
+*    *   •
+
+    *   Verbindlichkeiten
+
+
+*    *
+    *   ○
+
+    *   mit Fristigkeiten von bis zu 1 Jahr
+
+
+*    *
+    *   ○
+
+    *   mit Fristigkeiten von mehr als 1 Jahr
+
+
+*    *
+    *   ○
+
+    *   aus empfangenen Anzahlungen
+
+
+*    *   – gegenüber Unternehmen, an denen der Meldepflichtige beteiligt ist
+
+
+*    *   •
+
+    *   Forderungen
+
+
+*    *
+    *   ○
+
+    *   mit Fristigkeiten von bis zu 1 Jahr
+
+
+*    *
+    *   ○
+
+    *   mit Fristigkeiten von mehr als 1 Jahr
+
+
+*    *
+    *   ○
+
+    *   aus geleisteten Anzahlungen
+
+
+*    *   •
+
+    *   Verbindlichkeiten
+
+
+*    *
+    *   ○
+
+    *   mit Fristigkeiten von bis zu 1 Jahr
+
+
+*    *
+    *   ○
+
+    *   mit Fristigkeiten von mehr als 1 Jahr
+
+
+*    *
+    *   ○
+
+    *   aus empfangenen Anzahlungen
+
+
+*    *   – gegenüber Unternehmen, mit denen der Meldepflichtige über einen
+        gemeinsamen Beteiligten verbunden ist
+
+
+*    *   •
+
+    *   Forderungen
+
+
+*    *
+    *   ○
+
+    *   mit Fristigkeiten von bis zu 1 Jahr
+
+
+*    *
+    *   ○
+
+    *   mit Fristigkeiten von mehr als 1 Jahr
+
+
+*    *
+    *   ○
+
+    *   aus geleisteten Anzahlungen
+
+
+*    *   •
+
+    *   Verbindlichkeiten
+
+
+*    *
+    *   ○
+
+    *   mit Fristigkeiten von bis zu 1 Jahr
+
+
+*    *
+    *   ○
+
+    *   mit Fristigkeiten von mehr als 1 Jahr
+
+
+*    *
+    *   ○
+
+    *   aus empfangenen Anzahlungen
+
+
+*    *   Waren- und Dienstleistungsverkehr gegenüber sonstigen ausländischen
+        Nichtbanken
+
+
+*    *   •
+
+    *   Forderungen
+
+
+*    *
+    *   ○
+
+    *   mit Fristigkeiten von bis zu 1 Jahr
+
+
+*    *
+    *   ○
+
+    *   mit Fristigkeiten von mehr als 1 Jahr
+
+
+*    *
+    *   ○
+
+    *   aus geleisteten Anzahlungen
+
+
+*    *   •
+
+    *   Verbindlichkeiten
+
+
+*    *
+    *   ○
+
+    *   mit Fristigkeiten von bis zu 1 Jahr
+
+
+*    *
+    *   ○
+
+    *   mit Fristigkeiten von mehr als 1 Jahr
+
+
+*    *
+    *   ○
+
+    *   aus empfangenen Anzahlungen
+
+
+*    *   Derivative Finanzinstrumente gegenüber Ausländern
+
+
+*    *   •
+
+    *   Forderungen
+
+
+*    *
+    *   ○
+
+    *   an ausländische Banken
+
+
+*    *
+    *   ○
+
+    *   an ausländische verbundene Nichtbanken
+
+
+*    *
+    *   ○
+
+    *   an ausländische sonstige Nichtbanken
+
+
+*    *   •
+
+    *   Verbindlichkeiten
+
+
+*    *
+    *   ○
+
+    *   gegenüber ausländischen Banken
+
+
+*    *
+    *   ○
+
+    *   gegenüber ausländischen verbundenen Nichtbanken
+
+
+*    *
+    *   ○
+
+    *   gegenüber ausländischen sonstigen Nichtbanken
+
+
+
+(zu den §§ 67 und § 70 Absatz 1 Nummer 2)
+
+### Anlage 5 ZABILC1 Zahlungen für Dienstleistungen, Transit, Direktinvestitionen, Kapitalverkehr (einschließlich Wertpapier- und Zinserträge) im Außenwirtschaftsverkehr nach den §§ 67 ff. der Außenwirtschaftsverordnung
+
+(Fundstelle: BGBl. 2024 I Nr. 411, S. 26)
+
+
+*    *   **Meldeinhalte**
+
+
+*    *   Angaben zum Meldepflichtigen
+
+
+*    *   Angaben zum Einreicher
+
+
+*    *   Kontaktdaten für Rückfragen
+
+
+*    *   Meldedatum
+
+
+*    *   Die Zahlungsinformationen sind nach folgenden Merkmalen zu gliedern:
+
+        •   Transaktionsrichtung
+
+
+        •   Kennzahl laut Leistungsverzeichnis
+
+
+        •   Zahlungszweck
+
+
+        •   Betrag
+
+
+        •   Land
+
+
+        •   Verrechnungskennzeichen (außer für Wertpapier- und Zinserträge)
+
+
+        •   ISIN (Kapitalverkehr)
+
+
+        •   Bezeichnung des Wertpapieres (Kapitalverkehr)
+
+
+        •   Stückzahl (Kapitalverkehr)
+
+
+        •   Warencode (Transitverkehr)
+
+
+        •   Warenbezeichnung (Transitverkehr)
+
+
+
+
+
+
+(zu den §§ 67 Absatz 4 und § 70 Absatz 1 Nummer 1)
+
+### Anlage 6 ZABILC2 Zahlungen für Wertpapiergeschäfte, Finanzderivate im Außenwirtschaftsverkehr nach § 67 Abs. 4 und § 70 Abs. 1 Nr. 1 der Außenwirtschaftsverordnung
+
+(Fundstelle: BGBl. 2024 I Nr. 411, S. 27)
+
+
+*    *   **Meldeinhalte**
+
+
+*    *   Angaben zum Meldepflichtigen
+
+
+*    *   Angaben zum Einreicher
+
+
+*    *   Kontaktdaten für Rückfragen
+
+
+*    *   Meldedatum
+
+
+*    *   Die Zahlungsinformationen sind nach folgenden Merkmalen zu gliedern:
+
+        •   Transaktionsrichtung
+
+
+        •   Kennzahl laut Leistungsverzeichnis
+
+
+        •   Betrag
+
+
+        •   Land
+
+
+        •   Notierungsart
+
+
+        •   ISIN
+
+
+        •   Bezeichnung des Wertpapieres bzw. Finanzinstruments
+
+
+        •   Stückzahl/Nominalbetrag
+
+
+        •   Emissionswährung
+
+
+
+
+
+
+(zu § 70 Absatz 1 Nummer 3)
+
+### Anlage 7 ZABILC3 Zahlungen für den Reiseverkehr (Karten-Umsätze) im Außenwirtschaftsverkehr nach § 70 Abs. 1 Nr. 3 der Außenwirtschaftsverordnung
+
+(Fundstelle: BGBl. 2024 I Nr. 411, S. 28)
+
+
+*    *   **Meldeinhalte**
+
+
+*    *   Angaben zum Meldepflichtigen
+
+
+*    *   Angaben zum Einreicher
+
+
+*    *   Kontaktdaten für Rückfragen
+
+
+*    *   Meldedatum
+
+
+*    *   Die Zahlungsinformationen sind nach folgenden Merkmalen zu gliedern:
+
+        •   Transaktionsrichtung
+
+
+        •   Kennzahl laut Leistungsverzeichnis
+
+
+        •   Betrag
+
+
+        •   Land
+
+
+
+
+
+
+(zu § 70 Absatz 1 Nummer 3)
+
+### Anlage 8 Leistungsverzeichnis zur Außenwirtschaftsverordnung Leistungsverzeichnis der Deutschen Bundesbank für die Zahlungsbilanz
+
+(Fundstelle: BGBl. 2024 I Nr. 411, S. 29 - 42)
+
+## Dienstleistungen
 
 
 *    *   **Produktbezogene Dienstleistungen**
 
     *
 
-*    *
-    *   Forschung und Entwicklung
+*    *   Forschung und Entwicklung
 
     *   **549**
 
 
-*    *
-    *   Produkttests
+*    *   Produkttests
 
     *   **551**
 
 
-*    *
-    *   Herstellung von audiovisuellen und sonstigen künstlerischen Produkten
+*    *   Herstellung von audiovisuellen und sonstigen künstlerischen Produkten
 
     *   **564**
 
 
-*    *
-    *   Wartung und Reparatur
+*    *   Wartung und Reparatur
 
     *   **566**
 
 
-*    *
-    *   Lohnfertigung
+*    *   Lohnfertigung
 
     *   **567**
 
 
-*    *
-    *   Technische Dienstleistungen
+*    *   Technische Dienstleistungen
 
     *   **553**
 
 
-*    *
-    *   Architekturdienstleistungen
+*    *   Architekturdienstleistungen
 
     *   **554**
 
 
-*    *
-    *   Ingenieur-Dienstleistungen
+*    *   Ingenieur-Dienstleistungen
 
     *   **555**
 
 
-*    *
-    *   Entsorgungsleistungen
+*    *   Entsorgungsleistungen
 
     *   **534**
 
 
-*    *
-    *   Dienstleistungen für Landwirtschaft und Bergbau
+*    *   Dienstleistungen für Landwirtschaft und Bergbau
 
     *   **558**
 
@@ -11032,62 +12079,52 @@ Anlage LV zur Außenwirtschaftsverordnung
 
     *
 
-*    *
-    *   Provisionen
+*    *   Provisionen
 
     *   **523**
 
 
-*    *
-    *   Finanzdienstleistungen
+*    *   Finanzdienstleistungen
 
     *   **533**
 
 
-*    *
-    *   Juristische Dienstleistungen
+*    *   Juristische Dienstleistungen
 
     *   **536**
 
 
-*    *
-    *   Wirtschaftsprüfung, Buchführung, Steuerberatung
+*    *   Wirtschaftsprüfung, Buchführung, Steuerberatung
 
     *   **546**
 
 
-*    *
-    *   Unternehmens- und Public-Relation-Beratung
+*    *   Unternehmens- und Public-Relation-Beratung
 
     *   **556**
 
 
-*    *
-    *   Werbung, Marktforschung, Messekosten
+*    *   Werbung, Marktforschung, Messekosten
 
     *   **540**
 
 
-*    *
-    *   Miete und Operationelles Leasing
+*    *   Miete und Operationelles Leasing
 
     *   **594**
 
 
-*    *
-    *   Amtliche Gebühren
+*    *   Amtliche Gebühren
 
     *   **619**
 
 
-*    *
-    *   Pacht
+*    *   Pacht
 
     *   **694**
 
 
-*    *
-    *   Sonstige produktbezogene oder unternehmensbezogene Dienstleistungen
+*    *   Sonstige produktbezogene oder unternehmensbezogene Dienstleistungen
 
     *   **571**
 
@@ -11096,38 +12133,32 @@ Anlage LV zur Außenwirtschaftsverordnung
 
     *
 
-*    *
-    *   Gesundheitsleistungen
+*    *   Gesundheitsleistungen
 
     *   **658**
 
 
-*    *
-    *   Bildungsdienstleistungen
+*    *   Bildungsdienstleistungen
 
     *   **659**
 
 
-*    *
-    *   Freizeit- und Kulturdienstleistungen
+*    *   Freizeit- und Kulturdienstleistungen
 
     *   **643**
 
 
-*    *
-    *   Personalleasing
+*    *   Personalleasing
 
     *   **517**
 
 
-*    *
-    *   Entgelte für nicht selbständige Arbeit
+*    *   Entgelte für nicht selbständige Arbeit
 
     *   **521**
 
 
-*    *
-    *   Sonstige personenbezogene Dienstleistungen
+*    *   Sonstige personenbezogene Dienstleistungen
 
     *   **695**
 
@@ -11136,101 +12167,82 @@ Anlage LV zur Außenwirtschaftsverordnung
 
     *
 
-*    *   **1.**
-
-    *   **Nutzungsgebühren und Lizenzen**
+*    *   **1. Nutzungsgebühren und Lizenzen**
 
     *
 
-*    *
-    *   Nutzung von Software
+*    *   Nutzung von Software
 
     *   **613**
 
 
-*    *
-    *   Nutzung von audiovisuellen Produkten und sonstigen künstlerischen
+*    *   Nutzung von audiovisuellen Produkten und sonstigen künstlerischen
         Urheberrechten
 
     *   **614**
 
 
-*    *
-    *   Nutzung von Forschungsergebnissen, Erfindungen und Verfahren
+*    *   Nutzung von Forschungsergebnissen, Erfindungen und Verfahren
 
     *   **615**
 
 
-*    *
-    *   Nutzung von Marken-, Warenzeichen, Namensrechten und Franchise
+*    *   Nutzung von Marken-, Warenzeichen, Namensrechten und Franchise
 
     *   **616**
 
 
-*    *
-    *   Nutzung von sonstigen Rechten
+*    *   Nutzung von sonstigen Rechten
 
     *   **617**
 
 
-*    *   **2.**
-
-    *   **Vertriebs- und Reproduktionsrechte an geistigem Eigentum**
+*    *   **2. Vertriebs- und Reproduktionsrechte an geistigem Eigentum**
 
     *
 
-*    *
-    *   Reproduktion und Vertrieb von Computersoftware
+*    *   Reproduktion und Vertrieb von Computersoftware
 
     *   **623**
 
 
-*    *
-    *   Reproduktion, Vertrieb und Übertragung von audiovisuellen Produkten
+*    *   Reproduktion, Vertrieb und Übertragung von audiovisuellen Produkten
         und sonstigen künstlerischen Urheberrechten
 
     *   **624**
 
 
-*    *
-    *   Sonstige Vertriebsrechte
+*    *   Sonstige Vertriebsrechte
 
     *   **627**
 
 
-*    *   **3.**
-
-    *   **Erwerb/Veräußerung von geistigem Eigentum**
+*    *   **3. Erwerb/Veräußerung von geistigem Eigentum**
 
     *
 
-*    *
-    *   Kauf/Verkauf von Software
+*    *   Kauf/Verkauf von Software
 
     *   **633**
 
 
-*    *
-    *   Kauf/Verkauf von audiovisuellen Produkten und sonstigen künstlerischen
+*    *   Kauf/Verkauf von audiovisuellen Produkten und sonstigen künstlerischen
         Urheberrechten
 
     *   **634**
 
 
-*    *
-    *   Kauf/Verkauf von Forschungsergebnissen
+*    *   Kauf/Verkauf von Forschungsergebnissen
 
     *   **635**
 
 
-*    *
-    *   Kauf/Verkauf von Markenrechten und Warenzeichen
+*    *   Kauf/Verkauf von Markenrechten und Warenzeichen
 
     *   **636**
 
 
-*    *
-    *   Kauf/Verkauf von sonstigen Rechten
+*    *   Kauf/Verkauf von sonstigen Rechten
 
     *   **637**
 
@@ -11239,26 +12251,22 @@ Anlage LV zur Außenwirtschaftsverordnung
 
     *
 
-*    *
-    *   Kommunikationsdienstleistungen
+*    *   Kommunikationsdienstleistungen
 
     *   **576**
 
 
-*    *
-    *   EDV-Dienstleistungen
+*    *   EDV-Dienstleistungen
 
     *   **573**
 
 
-*    *
-    *   Nachrichten- und Informationsdienste
+*    *   Nachrichten- und Informationsdienste
 
     *   **572**
 
 
-*    *
-    *   Speicherung von Informationen sowie Bereitstellung entsprechender
+*    *   Speicherung von Informationen sowie Bereitstellung entsprechender
         Infrastruktur
 
     *   **574**
@@ -11268,86 +12276,68 @@ Anlage LV zur Außenwirtschaftsverordnung
 
     *
 
-*    *   **1.**
-
-    *   **Baustellen im Ausland unter einem Jahr im Auftrag von Ausländern**
+*    *   **1. Baustellen im Ausland unter einem Jahr im Auftrag von
+        Ausländern**
 
     *
 
-*    *
-    *   Ausgaben für Baustellen im Ausland, die kürzer als ein Jahr bestehen
+*    *   Ausgaben für Baustellen im Ausland, die kürzer als ein Jahr bestehen
 
     *   **580**
 
 
-*    *
-    *   Einnahmen aus Baustellen im Ausland, die kürzer als ein Jahr bestehen
+*    *   Einnahmen aus Baustellen im Ausland, die kürzer als ein Jahr bestehen
 
     *   **570**
 
 
-*    *   **2.**
-
-    *   **Baustellen im Ausland über einem Jahr im Auftrag von Ausländern**
+*    *   **2. Baustellen im Ausland über einem Jahr im Auftrag von Ausländern**
 
     *
 
-*    *
-    *   Ausgaben für Baustellen im Ausland, die länger als ein Jahr bestehen
+*    *   Ausgaben für Baustellen im Ausland, die länger als ein Jahr bestehen
 
     *   **579**
 
 
-*    *
-    *   Einnahmen aus Baustellen im Ausland, die länger als ein Jahr bestehen
+*    *   Einnahmen aus Baustellen im Ausland, die länger als ein Jahr bestehen
 
     *   **569**
 
 
-*    *   **3.**
-
-    *   **Baustellen im Inland unter einem Jahr im Auftrag von Inländern**
+*    *   **3. Baustellen im Inland unter einem Jahr im Auftrag von Inländern**
 
     *
 
-*    *
-    *   Einnahmen aus Baustellen im Inland, die kürzer als ein Jahr bestehen
+*    *   Einnahmen aus Baustellen im Inland, die kürzer als ein Jahr bestehen
 
     *   **580**
 
 
-*    *
-    *   Ausgaben für Baustellen im Inland, die kürzer als ein Jahr bestehen
+*    *   Ausgaben für Baustellen im Inland, die kürzer als ein Jahr bestehen
 
     *   **570**
 
 
-*    *   **4.**
-
-    *   **Baustellen im Inland über einem Jahr im Auftrag von Inländern**
+*    *   **4. Baustellen im Inland über einem Jahr im Auftrag von Inländern**
 
     *
 
-*    *
-    *   Einnahmen aus Baustellen im Inland, die länger als ein Jahr bestehen
+*    *   Einnahmen aus Baustellen im Inland, die länger als ein Jahr bestehen
 
     *   **579**
 
 
-*    *
-    *   Ausgaben für Baustellen im Inland, die länger als ein Jahr bestehen
+*    *   Ausgaben für Baustellen im Inland, die länger als ein Jahr bestehen
 
     *   **569**
 
 
-*    *   **5.**
-
-    *   **Sonstige Bauleistungen**
+*    *   **5. Sonstige Bauleistungen**
 
     *
 
-*    *
-    *   Reparatur von Gebäuden und anderen nicht beweglichen Sachen
+*    *   Reparatur von Gebäuden und anderen nicht beweglichen Sachen
 
     *   **561**
 
@@ -11356,225 +12346,181 @@ Anlage LV zur Außenwirtschaftsverordnung
 
     *
 
-*    *   **1.**
-
-    *   **Seeverkehr**
+*    *   **1. Seeverkehr**
 
     *
 
-*    *
-    *   Personenbeförderung auf See
+*    *   Personenbeförderung auf See
 
     *   **654**
 
 
-*    *
-    *   Seefrachten im Zusammenhang mit den deutschen Ein- und Ausfuhren und
+*    *   Seefrachten im Zusammenhang mit den deutschen Ein- und Ausfuhren und
         Verbringungen
 
     *   **669**
 
 
-*    *
-    *   Sonstige Seefrachten
+*    *   Sonstige Seefrachten
 
     *   **081**
 
 
-*    *
-    *   Transportnebenleistungen für den Seeverkehr
+*    *   Transportnebenleistungen für den Seeverkehr
 
     *   **310**
 
 
-*    *   **2.**
-
-    *   **Luftverkehr**
+*    *   **2. Luftverkehr**
 
     *
 
-*    *
-    *   Personenbeförderung in Flugzeugen
+*    *   Personenbeförderung in Flugzeugen
 
     *   **014**
 
 
-*    *
-    *   Luftfrachten im Zusammenhang mit den deutschen Ein- und Ausfuhren und
+*    *   Luftfrachten im Zusammenhang mit den deutschen Ein- und Ausfuhren und
         Verbringungen
 
     *   **225**
 
 
-*    *
-    *   Sonstige Luftfrachten
+*    *   Sonstige Luftfrachten
 
     *   **082**
 
 
-*    *
-    *   Transportnebenleistungen für den Luftverkehr
+*    *   Transportnebenleistungen für den Luftverkehr
 
     *   **360**
 
 
-*    *   **3.**
-
-    *   **Straßenverkehr**
+*    *   **3. Straßenverkehr**
 
     *
 
-*    *
-    *   Personenbeförderung auf der Straße
+*    *   Personenbeförderung auf der Straße
 
     *   **674**
 
 
-*    *
-    *   Straßenfrachten im Zusammenhang mit den deutschen Ein- und Ausfuhren
+*    *   Straßenfrachten im Zusammenhang mit den deutschen Ein- und Ausfuhren
         und Verbringungen
 
     *   **240**
 
 
-*    *
-    *   Sonstige Straßenfrachten
+*    *   Sonstige Straßenfrachten
 
     *   **671**
 
 
-*    *
-    *   Transportnebenleistungen für den Straßenverkehr
+*    *   Transportnebenleistungen für den Straßenverkehr
 
     *   **670**
 
 
-*    *   **4.**
-
-    *   **Schienenverkehr**
+*    *   **4. Schienenverkehr**
 
     *
 
-*    *
-    *   Personenbeförderung auf der Schiene
+*    *   Personenbeförderung auf der Schiene
 
     *   **013**
 
 
-*    *
-    *   Bahnfrachten im Zusammenhang mit den deutschen Ein- und Ausfuhren und
+*    *   Bahnfrachten im Zusammenhang mit den deutschen Ein- und Ausfuhren und
         Verbringungen
 
     *   **676**
 
 
-*    *
-    *   Sonstige Bahnfrachten
+*    *   Sonstige Bahnfrachten
 
     *   **681**
 
 
-*    *
-    *   Transportnebenleistungen für den Schienenverkehr
+*    *   Transportnebenleistungen für den Schienenverkehr
 
     *   **340**
 
 
-*    *   **5.**
-
-    *   **Binnenschiffsverkehr**
+*    *   **5. Binnenschiffsverkehr**
 
     *
 
-*    *
-    *   Personenbeförderung auf Binnenschiffen
+*    *   Personenbeförderung auf Binnenschiffen
 
     *   **664**
 
 
-*    *
-    *   Binnenschiffsfrachten im Zusammenhang mit den deutschen Ein- und
+*    *   Binnenschiffsfrachten im Zusammenhang mit den deutschen Ein- und
         Ausfuhren und Verbringungen
 
     *   **216**
 
 
-*    *
-    *   Sonstige Binnenschiffsfrachten
+*    *   Sonstige Binnenschiffsfrachten
 
     *   **661**
 
 
-*    *
-    *   Transportnebenleistungen für den Binnenschiffsverkehr
+*    *   Transportnebenleistungen für den Binnenschiffsverkehr
 
     *   **690**
 
 
-*    *   **6.**
-
-    *   **Transport durch Rohr- und Stromfernleitungen**
+*    *   **6. Transport durch Rohr- und Stromfernleitungen**
 
     *
 
-*    *
-    *   Rohrfernleitungstransporte im Zusammenhang mit den deutschen Ein- und
+*    *   Rohrfernleitungstransporte im Zusammenhang mit den deutschen Ein- und
         Ausfuhren und Verbringungen
 
     *   **226**
 
 
-*    *
-    *   Sonstige Rohrfernleitungstransporte
+*    *   Sonstige Rohrfernleitungstransporte
 
     *   **215**
 
 
-*    *
-    *   Übertragung von Stromfernleitungen
+*    *   Übertragung von Stromfernleitungen
 
     *   **217**
 
 
-*    *   **7.**
-
-    *   **Post- und Kurierdienste (KEP)**
+*    *   **7. Post- und Kurierdienste (KEP)**
 
     *
 
-*    *
-    *   Post- und Kurierdienste im Zusammenhang mit den deutschen Ein- und
+*    *   Post- und Kurierdienste im Zusammenhang mit den deutschen Ein- und
         Ausfuhren und Verbringungen
 
     *   **696**
 
 
-*    *
-    *   Sonstige Post- und Kurierdienste
+*    *   Sonstige Post- und Kurierdienste
 
     *   **691**
 
 
-*    *   **8.**
-
-    *   **Sonstige Transportdienstleistungen**
+*    *   **8. Sonstige Transportdienstleistungen**
 
     *
 
-*    *
-    *   Bedarf für Transportmittel
+*    *   Bedarf für Transportmittel
 
     *   **361**
 
 
-*    *
-    *   Weltraumtransporte
+*    *   Weltraumtransporte
 
     *   **629**
 
 
-*    *
-    *   Allgemeine Transportnebenleistungen
+*    *   Allgemeine Transportnebenleistungen
 
     *   **680**
 
@@ -11583,183 +12529,146 @@ Anlage LV zur Außenwirtschaftsverordnung
 
     *
 
-*    *   **1.**
-
-    *   **Lebensversicherungen (ohne Risikolebensversicherung)**
+*    *   **1. Lebensversicherungen (ohne Risikolebensversicherung)**
 
     *
 
-*    *
-    *   Lebensversicherungen inländischer **Versicherungsnehmer**
+*    *   Lebensversicherungen inländischer Versicherungsnehmer
 
     *   **400**
 
 
-*    *
-    *   Lebensversicherungen inländischer **Versicherungsgeber mit
-        Ausländern**
+*    *   Lebensversicherungen inländischer Versicherungsgeber mit Ausländern
 
     *   **440**
 
 
-*    *
-    *   Lebensversicherungen inländischer **Versicherungsgeber mit Inländern**
+*    *   Lebensversicherungen inländischer Versicherungsgeber mit Inländern
 
     *   **443**
 
 
-*    *   **2.**
-
-    *   **Lebensversicherungszweitmarkt**
+*    *   **2. Lebensversicherungszweitmarkt**
 
     *
 
-*    *
-    *   Lebensversicherungszweitmarkt
+*    *   Lebensversicherungszweitmarkt
 
     *   **401**
 
 
-*    *   **3.**
-
-    *   **Transportversicherungen**
+*    *   **3. Transportversicherungen**
 
     *
 
-*    *
-    *   Transportversicherung inländischer **Versicherungsnehmer**
+*    *   Transportversicherung inländischer Versicherungsnehmer
 
     *   **410**
 
 
-*    *
-    *   Transportversicherung inländischer **Versicherungsgeber**
-        – Versicherungsvertrag mit Ausländern
+*    *   Transportversicherung inländischer Versicherungsgeber –
+        Versicherungsvertrag mit Ausländern
 
     *   **441**
 
 
-*    *
-    *   Transportversicherung inländischer **Versicherungsgeber**
-        – Versicherungsvertrag mit Inländern
+*    *   Transportversicherung inländischer Versicherungsgeber –
+        Versicherungsvertrag mit Inländern
 
     *   **444**
 
 
-*    *   **4.**
-
-    *   **Sonstige Versicherungen**
+*    *   **4. Sonstige Versicherungen**
 
     *
 
-*    *
-    *   Sonstiger Versicherungsverkehr inländischer **Versicherungsnehmer**
+*    *   Sonstiger Versicherungsverkehr inländischer Versicherungsnehmer
 
     *   **420**
 
 
-*    *
-    *   Sonstiger Versicherungsverkehr inländischer **Versicherungsgeber**
-        – Versicherungsvertrag mit Ausländern
+*    *   Sonstiger Versicherungsverkehr inländischer Versicherungsgeber –
+        Versicherungsvertrag mit Ausländern
 
     *   **442**
 
 
-*    *
-    *   Sonstiger Versicherungsverkehr inländischer **Versicherungsgeber**
-        – Versicherungsvertrag mit Inländern
+*    *   Sonstiger Versicherungsverkehr inländischer Versicherungsgeber –
+        Versicherungsvertrag mit Inländern
 
     *   **445**
 
 
-*    *   **5.**
-
-    *   **Rückversicherungen**
+*    *   **5. Rückversicherungen**
 
     *
 
-*    *
-    *   Abgehendes (Retro-) Geschäft
+*    *   Abgehendes (Retro-) Geschäft
 
     *   **450**
 
 
-*    *
-    *   Eingehendes (Rück-) Geschäft
+*    *   Eingehendes (Rück-) Geschäft
 
     *   **451**
 
 
-*    *
-    *   Rückversicherungsprovision
+*    *   Rückversicherungsprovision
 
     *   **439**
 
 
-*    *
-    *   Prämien- und Schadensrückerstattungen im abgehenden (Retro-) Geschäft
+*    *   Prämien- und Schadensrückerstattungen im abgehenden (Retro-) Geschäft
         – Korrektur Kennz. 450 (fakultativ)
 
     *   **447**
 
 
-*    *
-    *   Prämien- und Schadensrückerstattungen im eingehenden (Rück-) Geschäft
+*    *   Prämien- und Schadensrückerstattungen im eingehenden (Rück-) Geschäft
         – Korrektur Kennz. 451 (fakultativ)
 
     *   **448**
 
 
-*    *
-    *   Gewinnbeteiligungen bei Rückversicherungen
+*    *   Gewinnbeteiligungen bei Rückversicherungen
 
     *   **449**
 
 
-*    *
-    *   Verlustbeteiligungen bei Rückversicherungen
+*    *   Verlustbeteiligungen bei Rückversicherungen
 
     *   **459**
 
 
-*    *
-    *   Portfolioübertragung zwischen Versicherern
+*    *   Portfolioübertragung zwischen Versicherern
 
     *   **452**
 
 
-*    *   **6.**
-
-    *   **Betriebsrenten**
+*    *   **6. Betriebsrenten**
 
     *
 
-*    *
-    *   Ausländische Pensionskassen und Vorsorgewerke
+*    *   Ausländische Pensionskassen und Vorsorgewerke
 
     *   **638**
 
 
-*    *
-    *   Inländische Pensionskassen und Vorsorgewerke
+*    *   Inländische Pensionskassen und Vorsorgewerke
 
     *   **639**
 
 
-*    *   **7.**
-
-    *   **Sonstiges**
+*    *   **7. Sonstiges**
 
     *
 
-*    *
-    *   Sonstige Einnahmen von Versicherungen
+*    *   Sonstige Einnahmen von Versicherungen
 
     *   **460**
 
 
-*    *
-    *   Versicherungsnebenleistungen
+*    *   Versicherungsnebenleistungen
 
     *   **657**
 
@@ -11768,70 +12677,60 @@ Anlage LV zur Außenwirtschaftsverordnung
 
     *
 
-*    *
-    *   Reiseverkehr
+*    *   Reiseverkehr
 
     *   **017**
 
 
 
-## **Übertragungen**
+## Übertragungen
 
 
 *    *   **Private Übertragungen**
 
     *
 
-*    *
-    *   Zahlungen im Verkehr mit ausländischen Behörden
+*    *   Zahlungen im Verkehr mit ausländischen Behörden
 
     *   **810**
 
 
-*    *
-    *   Subventionen der Europäischen Union
+*    *   Subventionen der Europäischen Union
 
     *   **812**
 
 
-*    *
-    *   Erbschaft, Vermächtnis, Schenkung, Restitution
+*    *   Erbschaft, Vermächtnis, Schenkung, Restitution
 
     *   **850**
 
 
-*    *
-    *   Wiedergutmachungsleistungen privater Stellen
+*    *   Wiedergutmachungsleistungen privater Stellen
 
     *   **724**
 
 
-*    *
-    *   Privater Schuldenerlass
+*    *   Privater Schuldenerlass
 
     *   **727**
 
 
-*    *
-    *   Unterstützungszahlungen zwischen privaten Haushalten
+*    *   Unterstützungszahlungen zwischen privaten Haushalten
 
     *   **728**
 
 
-*    *
-    *   Unterstützungszahlungen ausländischer Arbeitnehmer
+*    *   Unterstützungszahlungen ausländischer Arbeitnehmer
 
     *   **861**
 
 
-*    *
-    *   Kapitalanlagen ausländischer Arbeitnehmer
+*    *   Kapitalanlagen ausländischer Arbeitnehmer
 
     *   **862**
 
 
-*    *
-    *   Sonstige private Unterstützungszahlungen
+*    *   Sonstige private Unterstützungszahlungen
 
     *   **729**
 
@@ -11840,139 +12739,113 @@ Anlage LV zur Außenwirtschaftsverordnung
 
     *
 
-*    *   **1.**
-
-    *   **Ausgaben für Renten**
+*    *   **1. Ausgaben für Renten**
 
     *
 
-*    *
-    *   Renten
+*    *   Renten
 
     *   **526**
 
 
-*    *
-    *   Pensionen
+*    *   Pensionen
 
     *   **527**
 
 
-*    *
-    *   Kriegsopferversorgung
+*    *   Kriegsopferversorgung
 
     *   **528**
 
 
-*    *
-    *   Sonstige Renten
+*    *   Sonstige Renten
 
     *   **529**
 
 
-*    *   **2.**
-
-    *   **Steuereinnahmen und Steuererstattungen inländischer öffentlicher
+*    *   **2. Steuereinnahmen und Steuererstattungen inländischer öffentlicher
         Stellen**
 
     *
 
-*    *
-    *   Einkommensteuer und Solidaritätszuschlag
+*    *   Einkommensteuer und Solidaritätszuschlag
 
     *   **762**
 
 
-*    *
-    *   Kapitalertrags- und Körperschaftsteuer
+*    *   Kapitalertrags- und Körperschaftsteuer
 
     *   **763**
 
 
-*    *
-    *   Mehrwertsteuer
+*    *   Mehrwertsteuer
 
     *   **764**
 
 
-*    *
-    *   Gewerbesteuer
+*    *   Gewerbesteuer
 
     *   **765**
 
 
-*    *
-    *   Grund- und Grunderwerbsteuer
+*    *   Grund- und Grunderwerbsteuer
 
     *   **769**
 
 
-*    *
-    *   Sonstige Steuern
+*    *   Sonstige Steuern
 
     *   **774**
 
 
-*    *   **3.**
-
-    *   **Zahlungen des Bundes an deutsche diplomatische Vertretungen**
+*    *   **3. Zahlungen des Bundes an deutsche diplomatische Vertretungen**
 
     *
 
-*    *
-    *   Zahlungen des Bundes an die diplomatischen Vertretungen im Ausland zur
+*    *   Zahlungen des Bundes an die diplomatischen Vertretungen im Ausland zur
         Bestreitung der laufenden Kosten
 
     *   **710**
 
 
-*    *
-    *   Gehaltszahlungen an deutsche Beschäftigte bei deutschen Botschaften
+*    *   Gehaltszahlungen an deutsche Beschäftigte bei deutschen Botschaften
         und Konsulaten
 
     *   **712**
 
 
-*    *
-    *   Gehaltszahlungen an ausländische Beschäftige bei deutschen Botschaften
+*    *   Gehaltszahlungen an ausländische Beschäftige bei deutschen Botschaften
         und Konsulaten
 
     *   **525**
 
 
-*    *   **4.**
-
-    *   **Sonstige Einnahmen und Ausgaben des Bundes, der Länder und der
+*    *   **4. Sonstige Einnahmen und Ausgaben des Bundes, der Länder und der
         Gemeinden**
 
     *
 
-*    *
-    *   Wiedergutmachungsleistungen öffentlicher Stellen
+*    *   Wiedergutmachungsleistungen öffentlicher Stellen
 
     *   **720**
 
 
-*    *
-    *   Transaktionen mit Internationalen Organisationen
+*    *   Transaktionen mit Internationalen Organisationen
 
     *   **740**
 
 
-*    *
-    *   Einnahmen und Ausgaben der Bundeswehr
+*    *   Einnahmen und Ausgaben der Bundeswehr
 
     *   **700**
 
 
-*    *
-    *   Schuldenerlass des Bundes
+*    *   Schuldenerlass des Bundes
 
     *   **725**
 
 
-*    *
-    *   Sonstige Einnahmen und Ausgaben des Bundes, der Länder, Gemeinden und
+*    *   Sonstige Einnahmen und Ausgaben des Bundes, der Länder, Gemeinden und
         anderer öffentlicher Stellen
 
     *   **760**
@@ -11982,14 +12855,12 @@ Anlage LV zur Außenwirtschaftsverordnung
 
     *
 
-*    *
-    *   europäische Bankenabgabe
+*    *   Europäische Bankenabgabe
 
     *   **815**
 
 
-*    *
-    *   Sonstige Übertragungen
+*    *   Sonstige Übertragungen
 
     *   **854**
 
@@ -11997,53 +12868,44 @@ Anlage LV zur Außenwirtschaftsverordnung
 
 Warenverkehr
 (Hinweis: Zahlungen für deutsche Ein- und Ausfuhren oder das
-Verbringen
-## **von Waren sind gem. § 67 Abs. 2 Nr. 2 AWV von der Meldepflicht
-befreit)**
+Verbringen von Waren sind
+## gem. § 67 Abs. 2 Nr. 2 AWV von der Meldepflicht befreit)
 
 
 *    *   **Transithandel**
 
     *
 
-*    *
-    *   Transithandel
+*    *   Transithandel
 
     *   **003**
 
 
-*    *   **Handel mit elektrischem Strom und Gas**
+*    *   **Handel mit elektrischem Strom, Gas und Gold**
 
     *
 
-*    *   **Handel mit Gas –**                      Übergabepunkt im Inland
+*    *   Handel mit Gas – Übergabepunkt im Inland
 
     *   **998**
 
 
-*    *   **Handel mit Gas –**                      Übergabepunkt im Ausland
+*    *   Handel mit Gas – Übergabepunkt im Ausland
 
     *   **990**
 
 
-*    *   **Handel mit elektrischem Strom –**                      Übergabepunkt
-        im Inland
+*    *   Handel mit elektrischem Strom – Übergabepunkt im Inland
 
     *   **994**
 
 
-*    *   **Handel mit elektrischem Strom –**                      Übergabepunkt
-        im Ausland
+*    *   Handel mit elektrischem Strom – Übergabepunkt im Ausland
 
     *   **995**
 
 
-*    *   **Handel mit Gold**
-
-    *
-
-*    *
-    *   Handel mit Gold
+*    *   Handel mit Gold
 
     *   **989**
 
@@ -12052,15 +12914,13 @@ befreit)**
 
     *
 
-*    *
-    *   Lieferungen von Waren und Dienstleistungen an die im Inland
+*    *   Lieferungen von Waren und Dienstleistungen an die im Inland
         stationierten ausländischen Streitkräfte
 
     *   **770**
 
 
-*    *
-    *   Einnahmen und Ausgaben im Sonstigen Warenverkehr
+*    *   Einnahmen und Ausgaben im sonstigen Warenverkehr
 
     *   **997**
 
@@ -12069,36 +12929,59 @@ befreit)**
 
     *
 
-*    *
-    *   Zahlungen im Zusammenhang mit deutschen Ein- und Ausfuhren und
+*    *   Zahlungen im Zusammenhang mit deutschen Ein- und Ausfuhren und
         Verbringungen, die den Wert der Waren reduzieren
 
     *   **600**
 
 
-*    *
-    *   Zahlungen im Zusammenhang mit deutschen Ein- und Ausfuhren und
+*    *   Zahlungen im Zusammenhang mit deutschen Ein- und Ausfuhren und
         Verbringungen, die den Wert der Waren erhöhen
 
     *   **602**
 
 
-*    *
-    *   Abgaben im Zusammenhang mit deutschen Ein- und Ausfuhren
+*    *   Abgaben im Zusammenhang mit deutschen Ein- und Ausfuhren
 
     *   **601**
 
 
-*    *
-    *   Gewährleistungen, Ersatz- und Rückzahlungen sowie Preisnachlässe im
+*    *   Gewährleistungen, Ersatz- und Rückzahlungen sowie Preisnachlässe im
         Dienstleistungsverkehr mit dem Ausland
 
     *   **610**
 
 
+*    *   **Kryptowerte und Nonfungible Token**
+
+    *
+
+*    *   Kryptowerte und digitale Vermögenswerte ohne korrespondierende
+        Verbindlichkeit
+
+    *   **804**
+
+
+*    *   Ausländische Kryptowerte und digitale Vermögenswerte mit
+        Verbindlichkeiten
+
+    *   **814**
+
+
+*    *   Inländische Kryptowerte und digitale Vermögenswerte mit
+        Verbindlichkeiten
+
+    *   **824**
+
+
+*    *   Nonfungible Token (NFT)
+
+    *   **834**
+
+
 
 Kapitalverkehr und Kapitalerträge
-## **I. Vermögensanlagen von Inländern im Ausland**
+## I. Vermögensanlagen von Inländern im Ausland
 
 
 *    *   **Ausländische Wertpapiere**
@@ -12111,43 +12994,37 @@ Kapitalverkehr und Kapitalerträge
 
     *
 
-*    *
-    *   **a)**
+*    *   **a)**
 
     *   **Anleihen ausländischer öffentlicher Emittenten**
 
     *
 
 *    *
-    *
     *   Euro-Anleihen ausländischer öffentlicher Emittenten
 
     *   **701**
 
 
 *    *
-    *
     *   Fremdwährungs-Anleihen ausländischer öffentlicher Emittenten
 
     *   **101**
 
 
-*    *
-    *   **b)**
+*    *   **b)**
 
     *   **Anleihen ausländischer privater Emittenten**
 
     *
 
 *    *
-    *
     *   Euro-Anleihen ausländischer privater Emittenten
 
     *   **702**
 
 
 *    *
-    *
     *   Fremdwährungs-Anleihen ausländischer privater Emittenten
 
     *   **102**
@@ -12160,7 +13037,6 @@ Kapitalverkehr und Kapitalerträge
     *
 
 *    *
-    *
     *   Geldmarktpapiere ausländischer Emittenten
 
     *   **105**
@@ -12173,7 +13049,6 @@ Kapitalverkehr und Kapitalerträge
     *
 
 *    *
-    *
     *   Aktien und sonstige Dividendenpapiere ausländischer Emittenten
 
     *   **104**
@@ -12185,15 +13060,13 @@ Kapitalverkehr und Kapitalerträge
 
     *
 
-*    *
-    *   **a)**
+*    *   **a)**
 
     *   **Geldmarktfondszertifikate**
 
     *
 
 *    *
-    *
     *   Ausländische Geldmarktfondszertifikate mit Ertragsausschüttung (auch
         bei Wahlmöglichkeit zwischen Barausschüttung und Thesaurierung)
 
@@ -12201,21 +13074,18 @@ Kapitalverkehr und Kapitalerträge
 
 
 *    *
-    *
     *   Ausländische thesaurierende Geldmarktfonds
 
     *   **607**
 
 
-*    *
-    *   **b)**
+*    *   **b)**
 
     *   **Sonstige Investmentfondszertifikate**
 
     *
 
 *    *
-    *
     *   Sonstige ausländische Investmentfonds mit Ertragsausschüttung (auch
         bei Wahlmöglichkeit zwischen Barausschüttung und Thesaurierung)
 
@@ -12223,7 +13093,6 @@ Kapitalverkehr und Kapitalerträge
 
 
 *    *
-    *
     *   Sonstige ausländische thesaurierende Investmentfonds
 
     *   **129**
@@ -12240,8 +13109,7 @@ Kapitalverkehr und Kapitalerträge
 
     *
 
-*    *
-    *   **a)**
+*    *   **a)**
 
     *   **Anteile an ausländischen Aktiengesellschaften, gehalten von
         inländischen MFIs**
@@ -12249,36 +13117,30 @@ Kapitalverkehr und Kapitalerträge
     *
 
 *    *
-    *
-    *   Erwerb bzw. Veräußerung von **Kapitalbeteiligungen**
-        , Kapitaleinzahlungen, Kapitalerhöhungen und Kapitalherabsetzungen bei
-        ausländischen **nicht börsennotierten Aktiengesellschaften**
+    *   Erwerb bzw. Veräußerung von Kapitalbeteiligungen, Kapitaleinzahlungen,
+        Kapitalerhöhungen und Kapitalherabsetzungen bei ausländischen nicht
+        börsennotierten Aktiengesellschaften
 
     *   **107**
 
 
 *    *
-    *
-    *   Erwerb bzw. Veräußerung von **Kapitalbeteiligungen**
-        , Kapitaleinzahlungen, Kapitalerhöhungen und Kapitalherabsetzungen bei
-        ausländischen **börsennotierten Aktiengesellschaften**
+    *   Erwerb bzw. Veräußerung von Kapitalbeteiligungen, Kapitaleinzahlungen,
+        Kapitalerhöhungen und Kapitalherabsetzungen bei ausländischen
+        börsennotierten Aktiengesellschaften
 
     *   **827**
 
 
 *    *
-    *
-    *   **Einzahlungen in die Kapitalrücklagen**                      und
-        **Auszahlungen aus den Rücklagen und Gewinnvorträgen**
-        bei ausländischen **Aktiengesellschaften**
-        einschl. der Zuschüsse zum Ausgleich von bilanzierten
-        Verlustvorträgen.
+    *   Einzahlungen in die Kapitalrücklagen und Auszahlungen aus den
+        Rücklagen und Gewinnvorträgen bei ausländischen Aktiengesellschaften
+        einschl. der Zuschüsse zum Ausgleich von bilanzierten Verlustvorträgen
 
     *   **108**
 
 
-*    *
-    *   **b)**
+*    *   **b)**
 
     *   **Anteile an ausländischen Aktiengesellschaften, gehalten von
         inländischen Unternehmen, Privatpersonen und öffentlichen Haushalten**
@@ -12286,65 +13148,56 @@ Kapitalverkehr und Kapitalerträge
     *
 
 *    *
-    *
-    *   Erwerb bzw. Veräußerung von **Kapitalbeteiligungen**
-        , Kapitaleinzahlungen, Kapitalerhöhungen und Kapitalherabsetzungen bei
-        ausländischen **nicht börsennotierten Aktiengesellschaften**
+    *   Erwerb bzw. Veräußerung von Kapitalbeteiligungen, Kapitaleinzahlungen,
+        Kapitalerhöhungen und Kapitalherabsetzungen bei ausländischen nicht
+        börsennotierten Aktiengesellschaften
 
     *   **207**
 
 
 *    *
-    *
-    *   Erwerb bzw. Veräußerung von **Kapitalbeteiligungen**
-        , Kapitaleinzahlungen, Kapitalerhöhungen und Kapitalherabsetzungen bei
-        ausländischen **börsennotierten Aktiengesellschaften**
+    *   Erwerb bzw. Veräußerung von Kapitalbeteiligungen, Kapitaleinzahlungen,
+        Kapitalerhöhungen und Kapitalherabsetzungen bei ausländischen
+        börsennotierten Aktiengesellschaften
 
     *   **927**
 
 
 *    *
-    *
-    *   **Einzahlungen in die Kapitalrücklagen**                      und
-        **Auszahlungen aus den Rücklagen und Gewinnvorträgen**
-        bei ausländischen **Aktiengesellschaften**
-        einschl. der Zuschüsse zum Ausgleich von bilanzierten
-        Verlustvorträgen.
+    *   Einzahlungen in die Kapitalrücklagen und Auszahlungen aus den
+        Rücklagen und Gewinnvorträgen bei ausländischen Aktiengesellschaften
+        einschl. der Zuschüsse zum Ausgleich von bilanzierten Verlustvorträgen
 
     *   **208**
 
 
-*    *
-    *   **c)**
+*    *   **c)**
 
     *   **Anteile an ausländischen Nicht-Aktiengesellschaften, gehalten von
-        inländische MFIs**
+        inländischen MFIs**
 
     *
 
 *    *
-    *
-    *   Erwerb bzw. Veräußerung von **Kapitalbeteiligungen**
-        , Kapitaleinzahlungen, Kapitalerhöhungen und Kapitalherabsetzungen bei
-        ausländischen **Nicht-Aktiengesellschaften**                      –
-        Zahlungen bei Errichtung und Aufhebung bzw. Erwerb und Veräußerung von
-        ausländischen Zweigniederlassungen und Betriebsstätten
+    *   Erwerb bzw. Veräußerung von Kapitalbeteiligungen, Kapitaleinzahlungen,
+        Kapitalerhöhungen und Kapitalherabsetzungen bei ausländischen Nicht-
+        Aktiengesellschaften – Zahlungen bei Errichtung und Aufhebung bzw.
+        Erwerb und Veräußerung von ausländischen Zweigniederlassungen und
+        Betriebsstätten
 
     *   **111**
 
 
 *    *
-    *
-    *   **Einzahlungen in die** **Kapitalrücklagen**                      und
-        **Auszahlungen aus den Rücklagen und Gewinnvorträgen**
-        bei ausländischen **Nicht-Aktiengesellschaften**
-        einschl. der Zuschüsse zum Ausgleich von bilanzierten Verlustvorträgen
+    *   Einzahlungen in die Kapitalrücklagen und Auszahlungen aus den
+        Rücklagen und Gewinnvorträgen bei ausländischen Nicht-
+        Aktiengesellschaften einschl. der Zuschüsse zum Ausgleich von
+        bilanzierten Verlustvorträgen
 
     *   **112**
 
 
-*    *
-    *   **d)**
+*    *   **d)**
 
     *   **Anteile an ausländischen Nicht-Aktiengesellschaften, gehalten von
         inländischen Unternehmen, Privatpersonen und öffentlichen Haushalten**
@@ -12352,28 +13205,25 @@ Kapitalverkehr und Kapitalerträge
     *
 
 *    *
-    *
-    *   Erwerb bzw. Veräußerung von **Kapitalbeteiligungen**
-        , Kapitaleinzahlungen, Kapitalerhöhungen und Kapitalherabsetzungen bei
-        ausländischen **Nicht-Aktiengesellschaften**                      –
-        Zahlungen bei Errichtung und Aufhebung bzw. Erwerb und Veräußerung von
-        ausländischen Zweigniederlassungen und Betriebsstätten
+    *   Erwerb bzw. Veräußerung von Kapitalbeteiligungen, Kapitaleinzahlungen,
+        Kapitalerhöhungen und Kapitalherabsetzungen bei ausländischen Nicht-
+        Aktiengesellschaften – Zahlungen bei Errichtung und Aufhebung bzw.
+        Erwerb und Veräußerung von ausländischen Zweigniederlassungen und
+        Betriebsstätten
 
     *   **211**
 
 
 *    *
-    *
-    *   **Einzahlungen in die Kapitalrücklagen**                      und
-        **Auszahlungen aus den Rücklagen und Gewinnvorträgen**
-        bei ausländischen **Nicht-Aktiengesellschaften**
-        einschl. der Zuschüsse zum Ausgleich von bilanzierten Verlustvorträgen
+    *   Einzahlungen in die Kapitalrücklagen und Auszahlungen aus den
+        Rücklagen und Gewinnvorträgen bei ausländischen Nicht-
+        Aktiengesellschaften einschl. der Zuschüsse zum Ausgleich von
+        bilanzierten Verlustvorträgen
 
     *   **212**
 
 
 *    *
-    *
     *   Explorationsaufwendungen im Ausland
 
     *   **237**
@@ -12387,18 +13237,18 @@ Kapitalverkehr und Kapitalerträge
 
 *    *
     *   Gewährung und Rückzahlung von Krediten mit einer Laufzeit von mehr als
-        12 Monaten durch inländische **Unternehmen und Privatpersonen**
-        sowie öffentliche Haushalte (als Kreditgeber) an ausländische
-        Unternehmen, an denen sie unmittelbar oder mittelbar beteiligt sind,
-        sowie an Zweigniederlassungen und Betriebsstätten
+        12 Monaten durch inländische Unternehmen und Privatpersonen sowie
+        öffentliche Haushalte (als Kreditgeber) an ausländische Unternehmen,
+        an denen sie unmittelbar oder mittelbar beteiligt sind, sowie an
+        Zweigniederlassungen und Betriebsstätten
 
     *   **222**
 
 
 *    *
     *   Aufnahme und Rückzahlung von Krediten mit einer Laufzeit von mehr als
-        12 Monaten durch inländische **Unternehmen und Privatpersonen**
-        sowie öffentliche Haushalte (als Kreditnehmer) von ausländischen
+        12 Monaten durch inländische Unternehmen und Privatpersonen sowie
+        öffentliche Haushalte (als Kreditnehmer) von ausländischen
         Unternehmen, an denen sie unmittelbar oder mittelbar beteiligt sind,
         sowie von ausländischen Zweigniederlassungen und Betriebsstätten
 
@@ -12406,30 +13256,28 @@ Kapitalverkehr und Kapitalerträge
 
 
 *    *
-    *   **Aufnahme**                      und Rückzahlung von Krediten mit
-        einer Laufzeit von mehr als 12 Monaten durch inländische **Unternehmen
-        und Privatpersonen**                      sowie öffentliche Haushalte
-        (als Kreditnehmer) von ausländischen **Finanzierungstöchtern**
-        , an denen sie unmittelbar oder mittelbar beteiligt sind
+    *   Aufnahme und Rückzahlung von Krediten mit einer Laufzeit von mehr als
+        12 Monaten durch inländische Unternehmen und Privatpersonen sowie
+        öffentliche Haushalte (als Kreditnehmer) von ausländischen
+        Finanzierungstöchtern, an denen sie unmittelbar oder mittelbar
+        beteiligt sind
 
     *   **269**
 
 
 *    *
-    *   **Gewährung**                      und Rückzahlung von Krediten mit
-        einer Laufzeit von mehr als 12 Monaten durch **inländische
-        Unternehmen**                      (als Kreditgeber) an ausländische
-        Unternehmen, an denen sie nicht unmittelbar oder mittelbar beteiligt
-        sind, mit denen sie jedoch unmittelbar oder mittelbar einen
-        gemeinsamen Direktinvestor haben
+    *   Gewährung und Rückzahlung von Krediten mit einer Laufzeit von mehr als
+        12 Monaten durch inländische Unternehmen (als Kreditgeber) an
+        ausländische Unternehmen, an denen sie nicht unmittelbar oder
+        mittelbar beteiligt sind, mit denen sie jedoch unmittelbar oder
+        mittelbar einen gemeinsamen Direktinvestor haben
 
     *   **228**
 
 
 *    *
-    *   **Aufnahme**                      und Rückzahlung von Krediten mit
-        einer Laufzeit von mehr als 12 Monaten durch **inländische
-        Unternehmen**                      (als Kreditnehmer) von
+    *   Aufnahme und Rückzahlung von Krediten mit einer Laufzeit von mehr als
+        12 Monaten durch inländische Unternehmen (als Kreditnehmer) von
         ausländischen Unternehmen, an denen sie nicht unmittelbar oder
         mittelbar beteiligt sind, mit denen sie jedoch unmittelbar oder
         mittelbar einen gemeinsamen Direktinvestor haben
@@ -12458,7 +13306,7 @@ Kapitalverkehr und Kapitalerträge
 
 *    *
     *   Gewährung und Rückzahlung von Krediten an Ausländer, Dotierung und
-        Rückzahlung von Guthaben bei ausländischen Banken, sowie Abtretung
+        Rückzahlung von Guthaben bei ausländischen Banken sowie Abtretung
         (offen oder still) von Auslandsforderungen mit einer jeweiligen
         Laufzeit von mehr als 12 Monaten durch
 
@@ -12507,27 +13355,23 @@ Kapitalverkehr und Kapitalerträge
 
     *
 
-*    *
-    *   Kauf und Verkauf von Immobilien und Grundstücken im Ausland sowie
+*    *   Kauf und Verkauf von Immobilien und Grundstücken im Ausland sowie
         Erwerb und Veräußerung von Anteilen an geschlossenen Immobilienfonds –
         unabhängig von der Höhe der Beteiligung – durch inländische
 
     *
 
-*    *
-    *   MFIs
+*    *   MFIs
 
     *   **132**
 
 
-*    *
-    *   Unternehmen und Privatpersonen
+*    *   Unternehmen und Privatpersonen
 
     *   **232**
 
 
-*    *
-    *   Öffentliche Haushalte
+*    *   Öffentliche Haushalte
 
     *   **332**
 
@@ -12587,7 +13431,7 @@ Kapitalverkehr und Kapitalerträge
     *
 
 *    *
-    *   Erwerb und Veräußerung von Übrigen Kapitalanlagen im Ausland durch
+    *   Erwerb und Veräußerung von übrigen Kapitalanlagen im Ausland durch
         inländische
 
     *
@@ -12611,7 +13455,7 @@ Kapitalverkehr und Kapitalerträge
 
 
 
-## **II. Vermögensanlagen von Ausländern im Inland**
+## II. Vermögensanlagen von Ausländern im Inland
 
 
 *    *   **Inländische Wertpapiere**
@@ -12624,120 +13468,103 @@ Kapitalverkehr und Kapitalerträge
 
     *
 
-*    *
-    *   **a)**
+*    *   **a)**
 
     *   **Anleihen inländischer öffentlicher Emittenten**
 
     *
 
 *    *
-    *
     *   Bundesschatzanweisungen
 
     *   **140**
 
 
 *    *
-    *
     *   Festverzinsliche Anleihen inländischer öffentlicher Emittenten
 
     *   **141**
 
 
 *    *
-    *
     *   Variabel verzinsliche Anleihen inländischer öffentlicher Emittenten
 
     *   **641**
 
 
 *    *
-    *
     *   Kapital-Strips der stripbaren Bundesanleihen
 
     *   **133**
 
 
 *    *
-    *
     *   Zins-Strips der stripbaren Bundesanleihen
 
     *   **134**
 
 
 *    *
-    *
     *   Fremdwährungsanleihen inländischer öffentlicher Emittenten
 
     *   **143**
 
 
-*    *
-    *   **b)**
+*    *   **b)**
 
     *   **Anleihen und Schuldverschreibungen inländischer Banken (MFIs)**
 
     *
 
 *    *
-    *
     *   Festverzinsliche Euro-Anleihen inländischer MFIs
 
     *   **461**
 
 
 *    *
-    *
     *   Variabel verzinsliche Euro-Anleihen inländischer MFIs
 
     *   **465**
 
 
 *    *
-    *
     *   Festverzinsliche Fremdwährungsanleihen inländischer MFIs
 
     *   **491**
 
 
 *    *
-    *
     *   Variabel verzinsliche Fremdwährungsanleihen inländischer MFIs
 
     *   **495**
 
 
-*    *
-    *   **c)**
+*    *   **c)**
 
     *   **Anleihen und Schuldverschreibungen inländischer Unternehmen**
 
     *
 
 *    *
-    *
     *   Festverzinsliche Euro-Anleihen inländischer Unternehmen
 
     *   **462**
 
 
 *    *
-    *
     *   Variabel verzinsliche Euro-Anleihen inländischer Unternehmen
 
     *   **466**
 
 
 *    *
-    *
     *   Festverzinsliche Fremdwährungsanleihen inländischer Unternehmen
 
     *   **492**
 
 
 *    *
-    *
     *   Variabel verzinsliche Fremdwährungsanleihen inländischer Unternehmen
 
     *   **496**
@@ -12768,8 +13595,7 @@ Kapitalverkehr und Kapitalerträge
 
 
 *    *
-    *   Übrige **Geldmarktpapiere inländischer**
-        öffentlicher **Emittenten**
+    *   Übrige Geldmarktpapiere inländischer öffentlicher Emittenten
 
     *   **345**
 
@@ -12810,39 +13636,34 @@ Kapitalverkehr und Kapitalerträge
 
     *
 
-*    *
-    *   **a)**
+*    *   **a)**
 
     *   **Geldmarktfondszertifikate**
 
     *
 
 *    *
-    *
-    *   **Inländische Geldmarktfonds mit Ertragsausschüttung**
-        (auch bei Wahlmöglichkeit zwischen Barausschüttung und Thesaurierung)
+    *   Inländische Geldmarktfonds mit Ertragsausschüttung (auch bei
+        Wahlmöglichkeit zwischen Barausschüttung und Thesaurierung)
 
     *   **646**
 
 
 *    *
-    *
     *   Inländische thesaurierende Geldmarktfonds
 
     *   **647**
 
 
-*    *
-    *   **b)**
+*    *   **b)**
 
     *   **Sonstige Investmentfondszertifikate**
 
     *
 
 *    *
-    *
-    *   **Sonstige inländische Investmentfonds mit Ertragsausschüttung**
-        (auch bei Wahlmöglichkeit zwischen Barausschüttung und Thesaurierung)
+    *   Sonstige inländische Investmentfonds mit Ertragsausschüttung (auch bei
+        Wahlmöglichkeit zwischen Barausschüttung und Thesaurierung)
 
     *   **146**
 
@@ -12864,8 +13685,7 @@ Kapitalverkehr und Kapitalerträge
 
     *
 
-*    *
-    *   **a)**
+*    *   **a)**
 
     *   **Anteile an inländischen MFIs in der Rechtsform der
         Aktiengesellschaft**
@@ -12873,40 +13693,34 @@ Kapitalverkehr und Kapitalerträge
     *
 
 *    *
-    *
-    *   Erwerb bzw. Veräußerung von **Kapitalbeteiligungen**
-        an inländischen **nicht börsennotierten MFIs**                      in
-        der Rechtsform der Aktiengesellschaft sowie Kapitaleinzahlungen,
-        Kapitalerhöhungen und Kapitalherabsetzungen in Form von inländischen
-        Aktien, ausgegeben durch nicht börsennotierte MFIs
+    *   Erwerb bzw. Veräußerung von Kapitalbeteiligungen an inländischen nicht
+        börsennotierten MFIs in der Rechtsform der Aktiengesellschaft sowie
+        Kapitaleinzahlungen, Kapitalerhöhungen und Kapitalherabsetzungen in
+        Form von inländischen Aktien, ausgegeben durch nicht börsennotierte
+        MFIs
 
     *   **147**
 
 
 *    *
-    *
-    *   Erwerb bzw. Veräußerung von **Kapitalbeteiligungen**
-        an inländischen **börsennotierten MFIs**                      in der
-        Rechtsform der Aktiengesellschaft sowie Kapitaleinzahlungen,
-        Kapitalerhöhungen und Kapitalherabsetzungen in Form von inländischen
-        Aktien, ausgegeben durch börsennotierte MFIs
+    *   Erwerb bzw. Veräußerung von Kapitalbeteiligungen an inländischen
+        börsennotierten MFIs in der Rechtsform der Aktiengesellschaft sowie
+        Kapitaleinzahlungen, Kapitalerhöhungen und Kapitalherabsetzungen in
+        Form von inländischen Aktien, ausgegeben durch börsennotierte MFIs
 
     *   **847**
 
 
 *    *
-    *
-    *   **Einzahlungen in die Kapitalrücklagen**                      und
-        **Auszahlungen aus den Rücklagen und Gewinnvorträgen**
-        einschl. der Zuschüsse zum Ausgleich von bilanzierten Verlustvorträgen
-        bei inländischen **MFIs**                      in der Rechtsform der
-        **Aktiengesellschaft**
+    *   Einzahlungen in die Kapitalrücklagen und Auszahlungen aus den
+        Rücklagen und Gewinnvorträgen einschl. der Zuschüsse zum Ausgleich von
+        bilanzierten Verlustvorträgen bei inländischen MFIs in der Rechtsform
+        der Aktiengesellschaft
 
     *   **148**
 
 
-*    *
-    *   **b)**
+*    *   **b)**
 
     *   **Anteile an inländischen Unternehmen in der Rechtsform der
         Aktiengesellschaften**
@@ -12914,40 +13728,35 @@ Kapitalverkehr und Kapitalerträge
     *
 
 *    *
-    *
-    *   Erwerb bzw. Veräußerung von **Kapitalbeteiligungen**
-        an inländischen **nicht börsennotierten Unternehmen**
-        in der Rechtsform der Aktiengesellschaft sowie Kapitaleinzahlungen,
-        Kapitalerhöhungen und Kapitalherabsetzungen in Form von inländischen
-        Aktien, ausgegeben durch nicht börsennotierte Unternehmen
+    *   Erwerb bzw. Veräußerung von Kapitalbeteiligungen an inländischen nicht
+        börsennotierten Unternehmen in der Rechtsform der Aktiengesellschaft
+        sowie Kapitaleinzahlungen, Kapitalerhöhungen und Kapitalherabsetzungen
+        in Form von inländischen Aktien, ausgegeben durch nicht börsennotierte
+        Unternehmen
 
     *   **247**
 
 
 *    *
-    *
-    *   Erwerb bzw. Veräußerung von **Kapitalbeteiligungen**
-        an inländischen **börsennotierten Unternehmen**
-        in der Rechtsform der Aktiengesellschaft sowie Kapitaleinzahlungen,
-        Kapitalerhöhungen und Kapitalherabsetzungen in Form von inländischen
-        Aktien, ausgegeben durch börsennotierte Unternehmen
+    *   Erwerb bzw. Veräußerung von Kapitalbeteiligungen an inländischen
+        börsennotierten Unternehmen in der Rechtsform der Aktiengesellschaft
+        sowie Kapitaleinzahlungen, Kapitalerhöhungen und Kapitalherabsetzungen
+        in Form von inländischen Aktien, ausgegeben durch börsennotierte
+        Unternehmen
 
     *   **947**
 
 
 *    *
-    *
-    *   **Einzahlungen in die Kapitalrücklagen**                      und
-        **Auszahlungen aus den Rücklagen und Gewinnvorträgen**
-        einschl. der Zuschüsse zum Ausgleich von bilanzierten Verlustvorträgen
-        bei inländischen **Unternehmen**                      in der
-        Rechtsform der **Aktiengesellschaft**
+    *   Einzahlungen in die Kapitalrücklagen und Auszahlungen aus den
+        Rücklagen und Gewinnvorträgen einschl. der Zuschüsse zum Ausgleich von
+        bilanzierten Verlustvorträgen bei inländischen Unternehmen in der
+        Rechtsform der Aktiengesellschaft
 
     *   **248**
 
 
-*    *
-    *   **c)**
+*    *   **c)**
 
     *   **Anteile an inländischen MFIs in anderer Rechtsform als der der
         Aktiengesellschaft**
@@ -12955,31 +13764,26 @@ Kapitalverkehr und Kapitalerträge
     *
 
 *    *
-    *
-    *   Erwerb bzw. Veräußerung von **Kapitalbeteiligungen**
-        an inländischen **MFIs, die nicht Aktiengesellschaften**
-        sind, sowie Kapitaleinzahlungen, Kapitalerhöhungen und
-        Kapitalherabsetzungen bei diesen inländischen MFIs. Zahlungen bei
-        Errichtung und Aufhebung bzw. Erwerb und Veräußerung von inländischen
-        Zweigniederlassungen und Betriebsstätten ausländischer Banken, die
-        inländische MFIs sind
+    *   Erwerb bzw. Veräußerung von Kapitalbeteiligungen an inländischen MFIs,
+        die nicht Aktiengesellschaften sind, sowie Kapitaleinzahlungen,
+        Kapitalerhöhungen und Kapitalherabsetzungen bei diesen inländischen
+        MFIs. Zahlungen bei Errichtung und Aufhebung bzw. Erwerb und
+        Veräußerung von inländischen Zweigniederlassungen und Betriebsstätten
+        ausländischer Banken, die inländische MFIs sind
 
     *   **151**
 
 
 *    *
-    *
-    *   **Einzahlungen in die Kapitalrücklagen**                      und
-        **Auszahlungen aus den Rücklagen und Gewinnvorträgen**
-        einschl. der Zuschüsse zum Ausgleich von bilanzierten Verlustvorträgen
-        bei inländischen **MFIs**                      in der Rechtsform der
-        **Nicht-Aktiengesellschaft**
+    *   Einzahlungen in die Kapitalrücklagen und Auszahlungen aus den
+        Rücklagen und Gewinnvorträgen einschl. der Zuschüsse zum Ausgleich von
+        bilanzierten Verlustvorträgen bei inländischen MFIs in der Rechtsform
+        der Nicht-Aktiengesellschaft
 
     *   **152**
 
 
-*    *
-    *   **d)**
+*    *   **d)**
 
     *   **Anteile an inländischen Unternehmen in anderer Rechtsform als der
         der Aktiengesellschaft**
@@ -12987,25 +13791,22 @@ Kapitalverkehr und Kapitalerträge
     *
 
 *    *
-    *
-    *   Erwerb bzw. Veräußerung von **Kapitalbeteiligungen**
-        an inländischen **Unternehmen, die nicht Aktiengesellschaften**
-        sind, sowie Kapitaleinzahlungen, Kapitalerhöhungen und
-        Kapitalherabsetzungen bei diesen inländischen Unternehmen. Zahlungen
-        bei Errichtung und Aufhebung bzw. Erwerb und Veräußerung von
-        inländischen Zweigniederlassungen und Betriebsstätten ausländischer
-        Unternehmen und Privatpersonen
+    *   Erwerb bzw. Veräußerung von Kapitalbeteiligungen an inländischen
+        Unternehmen, die nicht Aktiengesellschaften sind, sowie
+        Kapitaleinzahlungen, Kapitalerhöhungen und Kapitalherabsetzungen bei
+        diesen inländischen Unternehmen. Zahlungen bei Errichtung und
+        Aufhebung bzw. Erwerb und Veräußerung von inländischen
+        Zweigniederlassungen und Betriebsstätten ausländischer Unternehmen und
+        Privatpersonen
 
     *   **251**
 
 
 *    *
-    *
-    *   **Einzahlungen in die Kapitalrücklagen**                      und
-        **Auszahlungen aus den Rücklagen und Gewinnvorträgen**
-        einschl. der Zuschüsse zum Ausgleich von bilanzierten Verlustvorträgen
-        bei inländischen **Unternehmen**                      in der
-        Rechtsform der **Nicht-Aktiengesellschaft**
+    *   Einzahlungen in die Kapitalrücklagen und Auszahlungen aus den
+        Rücklagen und Gewinnvorträgen einschl. der Zuschüsse zum Ausgleich von
+        bilanzierten Verlustvorträgen bei inländischen Unternehmen in der
+        Rechtsform der Nicht-Aktiengesellschaft
 
     *   **252**
 
@@ -13020,9 +13821,9 @@ Kapitalverkehr und Kapitalerträge
 
 *    *
     *   Aufnahme und Rückzahlung von Krediten mit einer Laufzeit von mehr als
-        12 Monaten durch inländische **Unternehmen**                      (als
-        Kreditnehmer) bei ausländischen Unternehmen, die an ihnen unmittelbar
-        oder mittelbar beteiligt sind, sowie Kreditaufnahmen von inländischen
+        12 Monaten durch inländische Unternehmen (als Kreditnehmer) bei
+        ausländischen Unternehmen, die an ihnen unmittelbar oder mittelbar
+        beteiligt sind, sowie Kreditaufnahmen von inländischen
         Zweigniederlassungen und Betriebsstätten bei ihren ausländischen
         Zentralen
 
@@ -13030,20 +13831,18 @@ Kapitalverkehr und Kapitalerträge
 
 
 *    *
-    *   **Gewährung**                      und Rückzahlung von Krediten mit
-        einer Laufzeit von mehr als 12 Monaten durch inländische
-        **Unternehmen**                      (als Kreditgeber) an ausländische
-        Unternehmen, die an ihnen unmittelbar oder mittelbar beteiligt sind,
-        sowie Kredite, die inländische Zweigniederlassungen und
-        Betriebsstätten an ihre ausländischen Zentralen geben
+    *   Gewährung und Rückzahlung von Krediten mit einer Laufzeit von mehr als
+        12 Monaten durch inländische Unternehmen (als Kreditgeber) an
+        ausländische Unternehmen, die an ihnen unmittelbar oder mittelbar
+        beteiligt sind, sowie Kredite, die inländische Zweigniederlassungen
+        und Betriebsstätten an ihre ausländischen Zentralen geben
 
     *   **227**
 
 
 *    *
-    *   **Gewährung**                      und Rückzahlung von Krediten mit
-        einer Laufzeit von mehr als 12 Monaten durch inländische
-        **Finanzierungstöchter**                      (als Kreditgeber) an
+    *   Gewährung und Rückzahlung von Krediten mit einer Laufzeit von mehr als
+        12 Monaten durch inländische Finanzierungstöchter (als Kreditgeber) an
         ausländische Unternehmen und Privatpersonen, die an ihnen unmittelbar
         oder mittelbar beteiligt sind
 
@@ -13051,21 +13850,21 @@ Kapitalverkehr und Kapitalerträge
 
 
 *    *
-    *   **Aufnahme**                      und Rückzahlung von Krediten mit
-        einer Laufzeit von mehr als 12 Monaten durch inländische Unternehmen
-        (als Kreditnehmer) von ausländischen Unternehmen, die an ihnen nicht
-        unmittelbar oder mittelbar beteiligt sind, mit denen sie jedoch
-        unmittelbar oder mittelbar einen gemeinsamen Direktinvestor haben
+    *   Aufnahme und Rückzahlung von Krediten mit einer Laufzeit von mehr als
+        12 Monaten durch inländische Unternehmen (als Kreditnehmer) von
+        ausländischen Unternehmen, die an ihnen nicht unmittelbar oder
+        mittelbar beteiligt sind, mit denen sie jedoch unmittelbar oder
+        mittelbar einen gemeinsamen Direktinvestor haben
 
     *   **268**
 
 
 *    *
-    *   **Gewährung**                      und Rückzahlung von Krediten mit
-        einer Laufzeit von mehr als 12 Monaten durch inländische Unternehmen
-        (als Kreditgeber) an ausländische Unternehmen, die an ihnen nicht
-        unmittelbar oder mittelbar beteiligt sind, mit denen sie jedoch
-        unmittelbar oder mittelbar einen gemeinsamen Direktinvestor haben
+    *   Gewährung und Rückzahlung von Krediten mit einer Laufzeit von mehr als
+        12 Monaten durch inländische Unternehmen (als Kreditgeber) an
+        ausländische Unternehmen, die an ihnen nicht unmittelbar oder
+        mittelbar beteiligt sind, mit denen sie jedoch unmittelbar oder
+        mittelbar einen gemeinsamen Direktinvestor haben
 
     *   **228**
 
@@ -13082,13 +13881,10 @@ Kapitalverkehr und Kapitalerträge
     *
 
 *    *
-    *   **Stille Abtretung**                      und Tilgung **von
-        kurzfristigen Inlandsforderungen und**
-        Schuldscheindarlehen, Namensschuldverschreibungen und ähnlichen
-        **nicht börsenfähigen Wertpapieren**                      (Laufzeit
-        bis
-        12 Monate) durch Inländer, unterschieden nach inländischen
-        **Schuldnergruppen:**
+    *   Stille Abtretung und Tilgung von kurzfristigen Inlandsforderungen und
+        Schuldscheindarlehen, Namensschuldverschreibungen und ähnlichen nicht
+        börsenfähigen Wertpapieren (Laufzeit bis 12 Monate) durch Inländer,
+        unterschieden nach inländischen Schuldnergruppen:
 
     *
 
@@ -13111,8 +13907,8 @@ Kapitalverkehr und Kapitalerträge
 
 
 *    *
-    *   Sonstige finanzielle Unternehmen (der ESVG 2010 Teilsektoren
-        (nachfolgend: S.) S. 125, S. 126 und S. 127)
+    *   Sonstige finanzielle Unternehmen (der ESVG 2010 Teilsektoren S. 125,
+        S. 126 und S. 127)
 
     *   **275**
 
@@ -13137,16 +13933,15 @@ Kapitalverkehr und Kapitalerträge
 
 *    *   **2.**
 
-    *   Kredite und Bankguthaben mit einer Ursprungslaufzeit von mehr als 12
-        Monaten
-        **(langfristige Kredite und Einlagen)**
+    *   **Kredite und Bankguthaben mit einer Ursprungslaufzeit von mehr als 12
+        Monaten (langfristige Kredite und Einlagen)**
 
     *
 
 *    *
-    *   **Gewährung und Rückzahlung von Krediten**                      (sowie
-        **offene Abtretung**                      von Inlandsforderungen) mit
-        einer Laufzeit von mehr als 12 Monaten an inländische
+    *   Gewährung und Rückzahlung von Krediten (sowie offene Abtretung von
+        Inlandsforderungen) mit einer Laufzeit von mehr als 12 Monaten an
+        inländische
 
     *
 
@@ -13170,7 +13965,7 @@ Kapitalverkehr und Kapitalerträge
 
 
 *    *
-    *   Nichtfinanzielle Unternehmen
+    *   Nichtfinanzielle Unternehmen und Privatpersonen
 
     *   **941**
 
@@ -13188,11 +13983,10 @@ Kapitalverkehr und Kapitalerträge
 
 
 *    *
-    *   Erstabsatz und **offene Abtretung**                      sowie Tilgung
-        oder Rückerwerb von **langfristigen**
-        Schuldscheindarlehen, Namensschuldverschreibungen und ähnlichen
-        **nicht börsenfähigen Wertpapieren**                      (Laufzeit
-        über 12 Monate) durch Inländer
+    *   Erstabsatz und offene Abtretung sowie Tilgung oder Rückerwerb von
+        langfristigen Schuldscheindarlehen, Namensschuldverschreibungen und
+        ähnlichen nicht börsenfähigen Wertpapieren (Laufzeit über 12 Monate)
+        durch Inländer
 
     *
 
@@ -13211,8 +14005,7 @@ Kapitalverkehr und Kapitalerträge
 
 *    *
     *   Emissionen von sonstigen finanziellen Unternehmen (der ESVG 2010
-        Teilsektoren S. 125, S. 126
-        und S. 127)
+        Teilsektoren S.125, S.126, und S.127)
 
     *   **263**
 
@@ -13242,13 +14035,10 @@ Kapitalverkehr und Kapitalerträge
 
 
 *    *
-    *   **Stille Abtretung**                      und Tilgung von
-        **langfristigen Inlandsforderungen und**
-        Schuldscheindarlehen, Namensschuldverschreibungen und ähnlichen
-        **nicht börsenfähigen Wertpapieren**                      (Laufzeit
-        über
-        12 Monate) durch Inländer, unterschieden nach folgenden inländischen
-        **Schuldnergruppen**                     :
+    *   Stille Abtretung und Tilgung von langfristigen Inlandsforderungen und
+        Schuldscheindarlehen, Namensschuldverschreibungen und ähnlichen nicht
+        börsenfähigen Wertpapieren (Laufzeit über 12 Monate) durch Inländer,
+        unterschieden nach folgenden inländischen Schuldnergruppen:
 
     *
 
@@ -13271,8 +14061,8 @@ Kapitalverkehr und Kapitalerträge
 
 
 *    *
-    *   Sonstige finanzielle Unternehmen (der ESVG 2010 Teilsektoren S. 125,
-        S. 126 und S. 127)
+    *   Sonstige finanzielle Unternehmen (der ESVG 2010 Teilsektoren S.125,
+        S.126, und S.127)
 
     *   **276**
 
@@ -13299,27 +14089,23 @@ Kapitalverkehr und Kapitalerträge
 
     *
 
-*    *
-    *   Kauf und Verkauf von Immobilien und Grundstücken im Inland oder von im
-        Inland aufgelegten Immobilienzertifikaten geschlossener
+*    *   Kauf und Verkauf von Immobilien und Grundstücken im Inland oder von im
+        Inland Aufgelegten Immobilienzertifikaten geschlossener
         Immobilienfonds – unabhängig von der Höhe der Beteiligung – durch
 
     *
 
-*    *
-    *   MFIs (Eigengeschäft)
+*    *   MFIs (Eigengeschäft)
 
     *   **172**
 
 
-*    *
-    *   Unternehmen und Privatpersonen
+*    *   Unternehmen und Privatpersonen
 
     *   **272**
 
 
-*    *
-    *   Öffentliche Haushalte
+*    *   Öffentliche Haushalte
 
     *   **372**
 
@@ -13373,7 +14159,7 @@ Kapitalverkehr und Kapitalerträge
     *
 
 *    *
-    *   Erwerb und Veräußerung von Übrigen Kapitalanlagen im Inland bei
+    *   Erwerb und Veräußerung von übrigen Kapitalanlagen im Inland bei
         inländischen
 
     *
@@ -13397,167 +14183,131 @@ Kapitalverkehr und Kapitalerträge
 
 
 
-## **III. Finanzderivate**
+## III. Finanzderivate
 
 
-*    *   **1.**
-
-    *   **Financial Futures**
+*    *   **1. Financial Futures**
 
     *
 
-*    *
-    *   Financial Futures, ausländische Terminbörsen
+*    *   Financial Futures, ausländische Terminbörsen
 
     *   **882**
 
 
-*    *
-    *   Financial Futures, inländische Terminbörsen
+*    *   Financial Futures, inländische Terminbörsen
 
     *   **842**
 
 
-*    *   **2.**
-
-    *   **Optionen**
+*    *   **2. Optionen**
 
     *
 
-*    *
-    *   Optionen, ausländische Terminbörsen
+*    *   Optionen, ausländische Terminbörsen
 
     *   **821**
 
 
-*    *
-    *   Optionen, inländische Terminbörsen
+*    *   Optionen, inländische Terminbörsen
 
     *   **831**
 
 
-*    *   **3.**
-
-    *   **Forward Rate Agreements (FRAs)**
+*    *   **3. Forward Rate Agreements (FRAs)**
 
     *
 
-*    *
-    *   Forward Rate Agreements
+*    *   Forward Rate Agreements
 
     *   **898**
 
 
-*    *   **4.**
-
-    *   **Zins- und Währungsswaps**
+*    *   **4. Zins- und Währungsswaps**
 
     *
 
-*    *
-    *   Swapzinsen und Ausgleichszahlungen
+*    *   Swapzinsen und Ausgleichszahlungen
 
     *   **584**
 
 
-*    *   **5.**
-
-    *   **Equity Swaps**
+*    *   **5. Equity Swaps**
 
     *
 
-*    *
-    *   Equity Swaps
+*    *   Equity Swaps
 
     *   **984**
 
 
-*    *   **6.**
-
-    *   **OTC-Optionen**
+*    *   **6. OTC-Optionen**
 
     *
 
-*    *
-    *   OTC-Optionen mit ausländischen Stillhaltern
+*    *   OTC-Optionen mit ausländischen Stillhaltern
 
     *   **820**
 
 
-*    *
-    *   OTC-Optionen mit inländischen Stillhaltern
+*    *   OTC-Optionen mit inländischen Stillhaltern
 
     *   **830**
 
 
-*    *
-    *   Mitarbeiteroptionen von inländischen Gesellschaften
+*    *   Mitarbeiteroptionen von inländischen Gesellschaften
 
     *   **832**
 
 
-*    *
-    *   Mitarbeiteroptionen von ausländischen Gesellschaften
+*    *   Mitarbeiteroptionen von ausländischen Gesellschaften
 
     *   **833**
 
 
-*    *   **7.**
-
-    *   **Credit Default Swaps**
+*    *   **7. Credit Default Swaps**
 
     *
 
-*    *
-    *   Credit Default Swaps
+*    *   Credit Default Swaps
 
     *   **840**
 
 
-*    *   **8.**
-
-    *   **Total Return Swaps**
+*    *   **8. Total Return Swaps**
 
     *
 
-*    *
-    *   Total Return Swaps
+*    *   Total Return Swaps
 
     *   **584**
 
 
-*    *   **9.**
-
-    *   **Optionsscheine**
+*    *   **9. Optionsscheine**
 
     *
 
-*    *
-    *   Optionsscheine ausländischer Emittenten
+*    *   Optionsscheine ausländischer Emittenten
 
     *   **110**
 
 
-*    *
-    *   Optionsscheine inländischer Emittenten
+*    *   Optionsscheine inländischer Emittenten
 
     *   **150**
 
 
-*    *   **10.**
-
-    *   **Sonstige außerbörsliche Termingeschäfte**
+*    *   **10. Sonstige außerbörsliche Termingeschäfte**
 
     *
 
-*    *
-    *   Sonstige außerbörsliche Termingeschäfte
+*    *   Sonstige außerbörsliche Termingeschäfte
 
     *   **883**
 
 
 
-## **IV. Kapitalerträge (Einnahmen und Ausgaben)**
+## IV. Kapitalerträge (Einnahmen und Ausgaben)
 
 
 *    *   **Erträge aus Wertpapieren**
@@ -13570,35 +14320,30 @@ Kapitalverkehr und Kapitalerträge
 
     *
 
-*    *
-    *   **a)**
+*    *   **a)**
 
     *   **Zinsen auf Wertpapiere öffentlicher Emittenten**
 
     *
 
 *    *
-    *
-    *   Zinsen auf Wertpapiere **inländischer**
-        öffentlicher Emittenten, die an Ausländer gezahlt werden bzw. die
-        Inländer als erste inländische Stelle von ausländischen Lagerstellen
-        erhalten
+    *   Zinsen auf Wertpapiere inländischer öffentlicher Emittenten, die an
+        Ausländer gezahlt werden bzw. die Inländer als erste inländische
+        Stelle von ausländischen Lagerstellen erhalten
 
     *   **382**
 
 
-*    *
-    *   **b)**
+*    *   **b)**
 
     *   **Zinsen auf Wertpapiere privater Emittenten**
 
     *
 
 *    *
-    *
-    *   Zinsen auf Wertpapiere **inländischer**                      privater
-        Emittenten, die an Ausländer gezahlt werden bzw. die Inländer als
-        erste inländische Stelle von ausländischen Lagerstellen erhalten
+    *   Zinsen auf Wertpapiere inländischer privater Emittenten, die an
+        Ausländer gezahlt werden bzw. die Inländer als erste inländische
+        Stelle von ausländischen Lagerstellen erhalten
 
     *   **183**
 
@@ -13610,50 +14355,46 @@ Kapitalverkehr und Kapitalerträge
     *
 
 *    *
-    *   Erträge aus **ausländischen**                      Aktien oder
-        Genussscheinen, die von inländischen **MFIs**
-        vereinnahmt werden
+    *   Erträge aus ausländischen Aktien oder Genussscheinen, die von
+        inländischen MFIs vereinnahmt werden
 
     *   **185**
 
 
 *    *
-    *   Erträge aus **ausländischen**                      Aktien oder
-        Genussscheinen, die von **inländischen Unternehmen, Privatpersonen und
-        öffentlichen Haushalten**                      vereinnahmt werden
+    *   Erträge aus ausländischen Aktien oder Genussscheinen, die von
+        inländischen Unternehmen, Privatpersonen und öffentlichen Haushalten
+        vereinnahmt werden
 
     *   **985**
 
 
 *    *
-    *   Erträge aus **inländischen**                      Aktien oder
-        Genussscheinen, die an Ausländer gezahlt werden bzw. die über
-        ausländische Lagerstellen an Inländer gezahlt werden
+    *   Erträge aus inländischen Aktien oder Genussscheinen, die an Ausländer
+        gezahlt werden bzw. die über ausländische Lagerstellen an Inländer
+        gezahlt werden
 
     *   **285**
 
 
 *    *
-    *   Erträge auf **ausländische**
-        Investmentzertifikate, die von inländischen **MFIs**
-        vereinnahmt werden
+    *   Erträge auf ausländische Investmentzertifikate, die von inländischen
+        MFIs vereinnahmt werden
 
     *   **585**
 
 
 *    *
-    *   Erträge auf **ausländische**
-        Investmentzertifikate, die von inländischen **Unternehmen,
-        Privatpersonen und öffentlichen Haushalten**
-        vereinnahmt werden
+    *   Erträge auf ausländische Investmentzertifikate, die von inländischen
+        Unternehmen, Privatpersonen und öffentlichen Haushalten vereinnahmt
+        werden
 
     *   **885**
 
 
 *    *
-    *   Erträge auf **inländische**                      Investmentanteile,
-        die an Ausländer gezahlt werden bzw. die Inländer von ausländischen
-        Lagerstellen erhalten
+    *   Erträge auf inländische Investmentanteile, die an Ausländer gezahlt
+        werden bzw. die Inländer von ausländischen Lagerstellen erhalten
 
     *   **685**
 
@@ -13670,15 +14411,14 @@ Kapitalverkehr und Kapitalerträge
 
 *    *
     *   Erträge aus Anteilen an Aktiengesellschaften, die von inländischen
-        **MFIs**                      vereinnahmt oder gezahlt werden
+        MFIs vereinnahmt oder gezahlt werden
 
     *   **188**
 
 
 *    *
     *   Erträge aus Anteilen an Aktiengesellschaften, die von inländischen
-        **Unternehmen und Privatpersonen**                      vereinnahmt
-        oder gezahlt werden
+        Unternehmen und Privatpersonen vereinnahmt oder gezahlt werden
 
     *   **288**
 
@@ -13691,15 +14431,14 @@ Kapitalverkehr und Kapitalerträge
 
 *    *
     *   Erträge aus Anteilen an sonstigen Kapitalgesellschaften (z. B. GmbH-
-        Anteilen), die von inländischen **MFIs**
-        vereinnahmt oder gezahlt werden
+        Anteilen), die von inländischen MFIs vereinnahmt oder gezahlt werden
 
     *   **186**
 
 
 *    *
-    *   Erträge aus Anteilen an sonstigen Kapitalgesellschaften (z.B. GmbH-
-        Anteilen), die von inländischen **Unternehmen und Privatpersonen**
+    *   Erträge aus Anteilen an sonstigen Kapitalgesellschaften (z. B. GmbH-
+        Anteilen), die von inländischen Unternehmen und Privatpersonen
         vereinnahmt oder gezahlt werden
 
     *   **286**
@@ -13708,7 +14447,7 @@ Kapitalverkehr und Kapitalerträge
 *    *
     *   Erträge aus sonstigen Geschäfts- und Kapitalanteilen (z. B.
         Kommanditanteilen) sowie Zweigniederlassungen, die von inländischen
-        **MFIs**                      vereinnahmt oder gezahlt werden
+        MFIs vereinnahmt oder gezahlt werden
 
     *   **187**
 
@@ -13716,8 +14455,7 @@ Kapitalverkehr und Kapitalerträge
 *    *
     *   Erträge aus sonstigen Geschäfts- und Kapitalanteilen (z. B.
         Kommanditanteilen) sowie Zweigniederlassungen, die von inländischen
-        **Unternehmen und Privatpersonen**                      vereinnahmt
-        oder gezahlt werden
+        Unternehmen und Privatpersonen vereinnahmt oder gezahlt werden
 
     *   **287**
 
@@ -13729,19 +14467,18 @@ Kapitalverkehr und Kapitalerträge
     *
 
 *    *
-    *   **Kredite von Direktinvestoren an Tochterunternehmen**
-        : Zinsen aus Kreditgewährungen inländischer Direktinvestoren an deren
-        ausländische Tochterunternehmen sowie Zinsen aus Kreditaufnahmen
-        inländischer Tochterunternehmen von ihren ausländischen
-        Direktinvestoren
+    *   Kredite von Direktinvestoren an Tochterunternehmen: Zinsen aus
+        Kreditgewährungen inländischer Direktinvestoren an deren ausländische
+        Tochterunternehmen sowie Zinsen aus Kreditaufnahmen inländischer
+        Tochterunternehmen von ihren ausländischen Direktinvestoren
 
     *   **289**
 
 
 *    *
-    *   **Kredite von Tochterunternehmen an Direktinvestoren**
-        : Zinsen aus Kreditgewährungen inländischer Tochterunternehmen an
-        deren ausländische Direktinvestoren sowie Zinsen aus Kreditaufnahmen
+    *   Kredite von Tochterunternehmen an Direktinvestoren: Zinsen aus
+        Kreditgewährungen inländischer Tochterunternehmen an deren
+        ausländische Direktinvestoren sowie Zinsen aus Kreditaufnahmen
         inländischer Direktinvestoren von ihren ausländischen
         Tochterunternehmen
 
@@ -13749,18 +14486,18 @@ Kapitalverkehr und Kapitalerträge
 
 
 *    *
-    *   **Kredite zwischen Schwesterunternehmen:**                      Zinsen
-        aus Kreditgewährungen verbundener Unternehmen, zwischen denen keine
-        unmittelbare oder mittelbare Beteiligung besteht, die jedoch
-        unmittelbar oder mittelbar einen gemeinsamen Direktinvestor haben
+    *   Kredite zwischen Schwesterunternehmen: Zinsen aus Kreditgewährungen
+        verbundener Unternehmen, zwischen denen keine unmittelbare oder
+        mittelbare Beteiligung besteht, die jedoch unmittelbar oder mittelbar
+        einen gemeinsamen Direktinvestor haben
 
     *   **789**
 
 
 *    *
-    *   **Kredite von Finanzierungstöchtern an Direktinvestoren**
-        : Zinsen aus Kreditgewährungen inländischer Finanzierungstöchter an
-        deren ausländische Direktinvestoren sowie Zinsen aus Kreditaufnahmen
+    *   Kredite von Finanzierungstöchtern an Direktinvestoren: Zinsen aus
+        Kreditgewährungen inländischer Finanzierungstöchter an deren
+        ausländische Direktinvestoren sowie Zinsen aus Kreditaufnahmen
         inländischer Direktinvestoren von ihren ausländischen
         Finanzierungstöchtern
 
@@ -13774,9 +14511,9 @@ Kapitalverkehr und Kapitalerträge
     *
 
 *    *
-    *   Vereinnahmte oder geleistete Zuschüsse von **MFIs**
-        zur Vermeidung von Verlustvorträgen bzw. Jahresfehlbeträgen sowie
-        Übernahmen der negativen Betriebsergebnisse von Betriebsstätten und
+    *   Vereinnahmte oder geleistete Zuschüsse von MFIs zur Vermeidung von
+        Verlustvorträgen bzw. Jahresfehlbeträgen sowie Übernahmen der
+        negativen Betriebsergebnisse von Betriebsstätten und
         Zweigniederlassungen, soweit diese in das Ergebnis aus der
         gewöhnlichen Geschäftstätigkeit eingehen
 
@@ -13784,12 +14521,11 @@ Kapitalverkehr und Kapitalerträge
 
 
 *    *
-    *   Vereinnahmte oder geleistete Zuschüsse von **Unternehmen und
-        Privatpersonen**                      zur Vermeidung von
-        Verlustvorträgen bzw. Jahresfehlbeträgen sowie Übernahmen der
-        negativen Betriebsergebnisse von Betriebsstätten und
-        Zweigniederlassungen, soweit diese in das Ergebnis aus der
-        gewöhnlichen Geschäftstätigkeit eingehen
+    *   Vereinnahmte oder geleistete Zuschüsse von Unternehmen und
+        Privatpersonen zur Vermeidung von Verlustvorträgen bzw.
+        Jahresfehlbeträgen sowie Übernahmen der negativen Betriebsergebnisse
+        von Betriebsstätten und Zweigniederlassungen, soweit diese in das
+        Ergebnis aus der gewöhnlichen Geschäftstätigkeit eingehen
 
     *   **290**
 
@@ -13798,44 +14534,37 @@ Kapitalverkehr und Kapitalerträge
 
     *
 
-*    *
-    *   Einnahmen und Ausgaben von negativen Zinsen der MFIs aus Bankguthaben,
+*    *   Einnahmen und Ausgaben von negativen Zinsen der MFIs aus Bankguthaben,
         Krediten etc.
 
     *   **181**
 
 
-*    *
-    *   Zinseinnahmen und -ausgaben der **MFIs**                      aus
-        Bankguthaben, Krediten etc.
+*    *   Zinseinnahmen und -ausgaben der MFIs aus Bankguthaben, Krediten etc.
 
     *   **184**
 
 
-*    *
-    *   Einnahmen und Ausgaben von negativen Zinsen der Unternehmen und
+*    *   Einnahmen und Ausgaben von negativen Zinsen der Unternehmen und
         Privatpersonen aus Bankguthaben, Krediten etc.
 
     *   **281**
 
 
-*    *
-    *   Zinseinnahmen und -ausgaben der **Unternehmen und Privatpersonen**
-        aus Bankguthaben, Krediten etc.
+*    *   Zinseinnahmen und -ausgaben der Unternehmen und Privatpersonen aus
+        Bankguthaben, Krediten etc.
 
     *   **284**
 
 
-*    *
-    *   Einnahmen und Ausgaben von negativen Zinsen öffentlicher Haushalte aus
+*    *   Einnahmen und Ausgaben von negativen Zinsen öffentlicher Haushalte aus
         Bankguthaben, Krediten etc.
 
     *   **381**
 
 
-*    *
-    *   Zinseinnahmen und -ausgaben der **öffentlichen Haushalte**
-        aus Bankguthaben, Krediten etc.
+*    *   Zinseinnahmen und -ausgaben der öffentlichen Haushalte aus
+        Bankguthaben, Krediten etc.
 
     *   **384**
 
@@ -13844,22 +14573,19 @@ Kapitalverkehr und Kapitalerträge
 
     *
 
-*    *
-    *   Pacht- und Mieterträge sowie -aufwendungen von inländischen **MFIs**
+*    *   Pacht- und Mieterträge sowie -aufwendungen von inländischen MFIs
 
     *   **180**
 
 
-*    *
-    *   Pacht- und Mieterträge sowie -aufwendungen von inländischen
-        **Unternehmen und Privatpersonen**
+*    *   Pacht- und Mieterträge sowie -aufwendungen von inländischen
+        Unternehmen und Privatpersonen
 
     *   **280**
 
 
-*    *
-    *   Pacht- und Mieterträge sowie -aufwendungen von inländischen
-        **öffentlichen Haushalten**
+*    *   Pacht- und Mieterträge sowie -aufwendungen von inländischen
+        öffentlichen Haushalten
 
     *   **380**
 
@@ -13868,17 +14594,15 @@ Kapitalverkehr und Kapitalerträge
 
     *
 
-*    *
-    *   Aufwendungen und Erträge von **MFIs**                      aus
-        sonstigen, nicht in Wertpapieren verbrieften Unternehmensbeteiligungen
-        bei ausländischen bzw. inländischen Nicht-Aktiengesellschaften
+*    *   Aufwendungen und Erträge von MFIs aus sonstigen, nicht in Wertpapieren
+        verbrieften Unternehmensbeteiligungen bei ausländischen bzw.
+        inländischen Nicht-Aktiengesellschaften
 
     *   **197**
 
 
-*    *
-    *   Aufwendungen und Erträge von **Unternehmen und Privatpersonen**
-        sowie öffentlichen Haushalten aus sonstigen, nicht in Wertpapieren
+*    *   Aufwendungen und Erträge von Unternehmen und Privatpersonen sowie
+        öffentlichen Haushalten aus sonstigen, nicht in Wertpapieren
         verbrieften Unternehmensbeteiligungen bei ausländischen bzw.
         inländischen Nicht-Aktiengesellschaften
 
@@ -13886,7 +14610,7 @@ Kapitalverkehr und Kapitalerträge
 
 
 
-## **Sonstige Transaktionen**
+## Sonstige Transaktionen
 
 
 *    *   **Sonstige Transaktionen, die nicht direkt den Kennzahlen des Waren-
@@ -13895,14 +14619,12 @@ Kapitalverkehr und Kapitalerträge
 
     *
 
-*    *
-    *   Sonstige Transaktionen für Waren und Dienstleistungen
+*    *   Sonstige Transaktionen für Waren und Dienstleistungen
 
     *   **950**
 
 
-*    *
-    *   Sonstige Transaktionen im Kapitalverkehr
+*    *   Sonstige Transaktionen im Kapitalverkehr
 
     *   **951**
 

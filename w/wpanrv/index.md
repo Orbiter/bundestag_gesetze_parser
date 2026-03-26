@@ -18,7 +18,7 @@ Fundstelle
 :   BGBl I: 2005, 1520
 
 Zuletzt geändert durch
-:   Art. 4 V v. 28.4.2016 I 1046
+:   Art. 8 V v. 11.12.2024 I Nr. 411
 
 
 ## Eingangsformel
@@ -206,10 +206,9 @@ nächstmöglichen Prüfungstermin.
 
 (2) Dem Antrag an die Prüfungsstelle gemäß § 1 oder § 25 der
 Wirtschaftsprüferprüfungsverordnung ist das Zeugnis über den
-Masterabschluss im Original oder in beglaubigter Abschrift beizufügen.
-Die Masterabschlussprüfung darf zum Zeitpunkt der Antragstellung auf
-Zulassung zum Wirtschaftsprüfungsexamen nicht länger als vier Jahre
-zurückliegen.
+Masterabschluss beizufügen. Die Masterabschlussprüfung darf zum
+Zeitpunkt der Antragstellung auf Zulassung zum
+Wirtschaftsprüfungsexamen nicht länger als vier Jahre zurückliegen.
 
 (3) Die Anrechnung ersetzt die schriftlichen und mündlichen Prüfungen
 in den Prüfungsgebieten "Angewandte Betriebswirtschaftslehre,
@@ -229,12 +228,12 @@ Abs. 5 der Wirtschaftsprüferprüfungsverordnung findet Anwendung.
 kann, ist der Hochschule, die das Zeugnis über den Masterabschluss
 ausgestellt hat, Gelegenheit zur Stellungnahme zu geben. Erfolgt
 danach keine Anrechnung, teilt die Prüfungsstelle dies der
-antragstellenden Person schriftlich oder elektronisch mit. Die
-Ablehnung einer Anrechnung kann insbesondere gerechtfertigt sein, wenn
-der Masterstudiengang nach der Akkreditierung wesentlich umgestaltet
-wird, so dass eine besondere Eignung nach § 1 ganz oder in Teilen
-entfallen ist. Für das Widerspruchsverfahren gilt § 5 Abs. 5 der
-Wirtschaftsprüferordnung entsprechend.
+antragstellenden Person mit. Die Ablehnung einer Anrechnung kann
+insbesondere gerechtfertigt sein, wenn der Masterstudiengang nach der
+Akkreditierung wesentlich umgestaltet wird, so dass eine besondere
+Eignung nach § 1 ganz oder in Teilen entfallen ist. Für das
+Widerspruchsverfahren gilt § 5 Abs. 5 der Wirtschaftsprüferordnung
+entsprechend.
 
 
 ## Teil 2 - Verkürzte Prüfung nach Anrechnung gleichwertiger Prüfungsleistungen (§ 13b der Wirtschaftsprüferordnung)
@@ -303,9 +302,8 @@ verbindlich; § 9 Abs. 6 bleibt unberührt.
 Gebührenordnung der Wirtschaftsprüferkammer kostenpflichtig.
 
 (3) Kann eine Bestätigung nicht erteilt werden, so teilt die
-Prüfungsstelle dies der Hochschule schriftlich oder elektronisch mit.
-Für das Widerspruchsverfahren gilt § 5 Abs. 5 der
-Wirtschaftsprüferordnung entsprechend.
+Prüfungsstelle dies der Hochschule mit. Für das Widerspruchsverfahren
+gilt § 5 Abs. 5 der Wirtschaftsprüferordnung entsprechend.
 
 
 ### § 9 Anrechnung auf das Wirtschaftsprüfungsexamen
@@ -315,10 +313,9 @@ Wirtschaftsprüfungsexamen die Anrechnung nach § 7 Abs. 1 und die
 Gleichwertigkeit nach § 7 Abs. 2 fest. Die Feststellung erfolgt auf
 Grundlage einer Bestätigung gemäß § 8.
 
-(2) Die Leistungsnachweise sind von der antragstellenden Person im
-Original oder in beglaubigter Abschrift mit dem Antrag nach § 1 oder §
-25 der Wirtschaftsprüferprüfungsverordnung vorzulegen. Der
-erfolgreiche Abschluss des Studiengangs, aus dem die
+(2) Die Leistungsnachweise sind von der antragstellenden Person mit
+dem Antrag nach § 1 oder § 25 der Wirtschaftsprüferprüfungsverordnung
+vorzulegen. Der erfolgreiche Abschluss des Studiengangs, aus dem die
 Leistungsnachweise stammen, darf zum Zeitpunkt der Antragstellung auf
 Zulassung zum Wirtschaftsprüfungsexamen nicht länger als acht Jahre
 zurückliegen.
@@ -343,12 +340,12 @@ Anwendung.
 (6) Wenn eine Anrechnung voraussichtlich nicht erfolgen kann, ist der
 ausstellenden Hochschule Gelegenheit zur Stellungnahme zu geben.
 Erfolgt danach keine Anrechnung, teilt die Prüfungsstelle dies der
-antragstellenden Person schriftlich oder elektronisch mit. Die
-Ablehnung einer Anrechnung kann insbesondere gerechtfertigt sein, wenn
-der Studiengang nach der Bestätigung wesentlich umgestaltet wurde, so
-dass die Gleichwertigkeit nach § 7 Abs. 2 ganz oder in Teilen
-entfallen ist. Für das Widerspruchsverfahren gilt § 5 Abs. 5 der
-Wirtschaftsprüferordnung entsprechend.
+antragstellenden Person mit. Die Ablehnung einer Anrechnung kann
+insbesondere gerechtfertigt sein, wenn der Studiengang nach der
+Bestätigung wesentlich umgestaltet wurde, so dass die Gleichwertigkeit
+nach § 7 Abs. 2 ganz oder in Teilen entfallen ist. Für das
+Widerspruchsverfahren gilt § 5 Abs. 5 der Wirtschaftsprüferordnung
+entsprechend.
 
 
 ## Teil 3 - Schlussbestimmungen

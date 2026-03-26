@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1984, 346
 
 Zuletzt geändert durch
-:   Art. 3 V v. 7.12.2021 I 5190
+:   Art. 29 V v. 11.12.2024 I Nr. 411
 
 
 ## Eingangsformel
@@ -3653,26 +3653,9 @@ entsprechenden Fassungen der Übersetzung von
 
     *        *   8.
 
-        *   Zulassung von Ausnahmen für Flüge von und zu bestimmten Flugplätzen (§
-            24 Absatz 2 LuftVO)
+        *   (weggefallen)
 
         *
-
-    *        *
-        *   a)
-
-        *   allgemein
-
-        *   800 EUR
-
-
-    *        *
-        *   b)
-
-        *   im Einzelfall
-
-        *   80 EUR
-
 
     *        *   9.
 
@@ -4375,13 +4358,21 @@ entsprechenden Fassungen der Übersetzung von
     *        *
         *   a)
 
-        *   natürliche und juristische Personen nach Absatz 3
+        *   natürliche Personen nach Absatz 3
 
-        *   20 bis 50 EUR
+        *   20 EUR
 
 
     *        *
         *   b)
+
+        *   juristische Personen nach Absatz 3
+
+        *   50 EUR
+
+
+    *        *
+        *   c)
 
         *   Luftsportverbände nach Absatz 4, je durch den jeweiligen Verband
             registriertem Mitglied

@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 13.11.1998 I 3322;
 
 Zuletzt geändert durch
-:   Art. 12 G v. 27.3.2024 I Nr. 109
+:   Art. 1 G v. 23.2.2026 I Nr. 46
 
 
 ## Allgemeiner Teil - 
@@ -280,7 +280,8 @@ folgende Taten, die im Ausland begangen werden:
 
 
 
-16. Bestechlichkeit und Bestechung von Mandatsträgern (§ 108e), wenn
+16. Bestechlichkeit und Bestechung von Mandatsträgern (§ 108e) und
+    unzulässige Interessenwahrnehmung (§ 108f), wenn
 
     a)  der Täter zur Zeit der Tat Mitglied einer deutschen Volksvertretung
         oder Deutscher ist oder
@@ -309,7 +310,7 @@ für folgende Taten, die im Ausland begangen werden:
 
 
 2.  Kernenergie-, Sprengstoff- und Strahlungsverbrechen in den Fällen der
-    §§ 307 und 308 Abs. 1 bis 4, des § 309 Abs. 2 und des § 310;
+    §§ 307 und 308 Absatz 1 bis 5, des § 309 Abs. 2 und des § 310;
 
 
 3.  Angriffe auf den Luft- und Seeverkehr (§ 316c);
@@ -4565,7 +4566,7 @@ anderen Person zur Begehung
 
 3.  von Straftaten nach den §§ 303b, 305, 305a oder gemeingefährlicher
     Straftaten in den Fällen der §§ 306 bis 306c oder 307 Absatz 1 bis 3,
-    des § 308 Absatz 1 bis 4, des § 309 Absatz 1 bis 5, der §§ 313, 314
+    des § 308 Absatz 1 bis 5, des § 309 Absatz 1 bis 5, der §§ 313, 314
     oder 315 Absatz 1, 3 oder 4, des § 316b Absatz 1 oder 3 oder des §
     316c Absatz 1 bis 3 oder des § 317 Absatz 1,
 
@@ -5449,6 +5450,43 @@ das Recht, in öffentlichen Angelegenheiten zu wählen oder zu stimmen,
 aberkennen.
 
 
+#### § 108f Unzulässige Interessenwahrnehmung
+
+(1) Wer einen ungerechtfertigten Vermögensvorteil für sich oder einen
+Dritten als Gegenleistung dafür fordert, sich versprechen lässt oder
+annimmt, dass er während seines Mandates zur Wahrnehmung von
+Interessen des Vorteilsgebers oder eines Dritten eine Handlung
+vornehme oder unterlasse, wird mit Freiheitsstrafe bis zu drei Jahren
+oder mit Geldstrafe bestraft. Satz 1 gilt nur für folgende
+Mandatsträger und nur dann, wenn eine solche entgeltliche
+Interessenwahrnehmung die für die Rechtsstellung des Mandatsträgers
+maßgeblichen Vorschriften verletzen würde:
+
+1.  Mitglieder einer Volksvertretung des Bundes oder der Länder,
+
+
+2.  Mitglieder des Europäischen Parlaments und
+
+
+3.  Mitglieder der parlamentarischen Versammlung einer internationalen
+    Organisation.
+
+
+
+
+(2) Wer einem in Absatz 1 Satz 2 genannten Mandatsträger einen
+ungerechtfertigten Vermögensvorteil für diesen Mandatsträger oder
+einen Dritten als Gegenleistung dafür anbietet, verspricht oder
+gewährt, dass dieser Mandatsträger während seines Mandates zur
+Wahrnehmung von Interessen des Vorteilsgebers oder eines Dritten eine
+Handlung vornehme oder unterlasse, wird mit Freiheitsstrafe bis zu
+drei Jahren oder mit Geldstrafe bestraft. Satz 1 gilt nur, wenn eine
+solche entgeltliche Interessenwahrnehmung die für die Rechtsstellung
+des Mandatsträgers maßgeblichen Vorschriften verletzen würde.
+
+(3) § 108e Absatz 4 und 5 gilt entsprechend.
+
+
 ### Fünfter Abschnitt - Straftaten gegen die Landesverteidigung
 
 
@@ -5887,16 +5925,16 @@ stören,
 5.  eine Straftat gegen die persönliche Freiheit in den Fällen des § 232
     Absatz 3 Satz 2, des § 232a Absatz 3, 4 oder 5, des § 232b Absatz 3
     oder 4, des § 233a Absatz 3 oder 4, jeweils soweit es sich um
-    Verbrechen handelt, der §§ 234, 234a, 239a oder 239b,
+    Verbrechen handelt, der §§ 234 bis 234b, 239a oder 239b,
 
 
 6.  einen Raub oder eine räuberische Erpressung (§§ 249 bis 251 oder 255),
 
 
 7.  ein gemeingefährliches Verbrechen in den Fällen der §§ 306 bis 306c
-    oder 307 Abs. 1 bis 3, des § 308 Abs. 1 bis 3, des § 309 Abs. 1 bis 4,
-    der §§ 313, 314 oder 315 Abs. 3, des § 315b Abs. 3, des § 316a Abs. 1
-    oder 3, des § 316c Abs. 1 oder 3 oder des § 318 Abs. 3 oder 4 oder
+    oder 307 Abs. 1 bis 3, des § 308 Absatz 1 bis 4, des § 309 Abs. 1 bis
+    4, der §§ 313, 314 oder 315 Abs. 3, des § 315b Abs. 3, des § 316a Abs.
+    1 oder 3, des § 316c Abs. 1 oder 3 oder des § 318 Abs. 3 oder 4 oder
 
 
 8.  ein gemeingefährliches Vergehen in den Fällen des § 309 Abs. 6, des §
@@ -5955,12 +5993,12 @@ Sinne des Satzes 1 sind
 
     a)  den §§ 86, 86a, 91, 130, 147 und 148 Absatz 1 Nummer 3, den §§ 149,
         152a und 176a Absatz 2, § 176b Absatz 2, § 180 Absatz 2, § 184b Absatz
-        1 Satz 2, § 184c Absatz 1, § 184l Absatz 1 und 3, den §§ 202a, 202b,
-        202c, 202d, 232 und 232a Absatz 1, 2, 5 und 6, nach § 232b Absatz 1, 2
-        und 4 in Verbindung mit § 232a Absatz 5, nach den §§ 233, 233a, 236,
-        259 und 260, nach § 261 Absatz 1 und 2 unter den in § 261 Absatz 5
-        Satz 2 genannten Voraussetzungen sowie nach den §§ 263, 263a, 267,
-        269, 275, 276, 303a und 303b,
+        1, § 184c Absatz 1, § 184l Absatz 1 und 3, den §§ 202a, 202b, 202c,
+        202d, 232 und 232a Absatz 1, 2, 5 und 6, nach § 232b Absatz 1, 2 und 4
+        in Verbindung mit § 232a Absatz 5, nach den §§ 233, 233a, 236, 259 und
+        260, nach § 261 Absatz 1 und 2 unter den in § 261 Absatz 5 Satz 2
+        genannten Voraussetzungen sowie nach den §§ 263, 263a, 267, 269, 275,
+        276, 303a und 303b,
 
 
     b)  § 4 Absatz 1 bis 3 des Anti-Doping-Gesetzes,
@@ -5993,7 +6031,7 @@ Sinne des Satzes 1 sind
         Kulturgutschutzgesetzes,
 
 
-    k)  den §§ 143, 143a und 144 des Markengesetzes sowie
+    k)  den §§ 143 und 144 des Markengesetzes sowie
 
 
     l)  den §§ 51 und 65 des Designgesetzes.
@@ -6132,7 +6170,7 @@ oder deren Tätigkeit darauf gerichtet sind,
 
 2.  Straftaten nach den §§ 303b, 305, 305a oder gemeingefährliche
     Straftaten in den Fällen der §§ 306 bis 306c oder 307 Abs. 1 bis 3,
-    des § 308 Abs. 1 bis 4, des § 309 Abs. 1 bis 5, der §§ 313, 314 oder
+    des § 308 Absatz 1 bis 5, des § 309 Abs. 1 bis 5, der §§ 313, 314 oder
     315 Abs. 1, 3 oder 4, des § 316b Abs. 1 oder 3 oder des § 316c Abs. 1
     bis 3 oder des § 317 Abs. 1,
 
@@ -6509,7 +6547,7 @@ wenn der Täter irrig annimmt, die Diensthandlung sei rechtmäßig.
 6.  einer Straftat gegen die persönliche Freiheit in den Fällen des § 232
     Absatz 3 Satz 2, des § 232a Absatz 3, 4 oder 5, des § 232b Absatz 3
     oder 4, des § 233a Absatz 3 oder 4, jeweils soweit es sich um
-    Verbrechen handelt, der §§ 234, 234a, 239a oder 239b,
+    Verbrechen handelt, der §§ 234 bis 234b, 239a oder 239b,
 
 
 7.  eines Raubes oder einer räuberischen Erpressung (§§ 249 bis 251 oder
@@ -6517,8 +6555,8 @@ wenn der Täter irrig annimmt, die Diensthandlung sei rechtmäßig.
 
 
 8.  einer gemeingefährlichen Straftat in den Fällen der §§ 306 bis 306c
-    oder 307 Abs. 1 bis 3, des § 308 Abs. 1 bis 4, des § 309 Abs. 1 bis 5,
-    der §§ 310, 313, 314 oder 315 Abs. 3, des § 315b Abs. 3 oder der §§
+    oder 307 Abs. 1 bis 3, des § 308 Absatz 1 bis 5, des § 309 Abs. 1 bis
+    5, der §§ 310, 313, 314 oder 315 Abs. 3, des § 315b Abs. 3 oder der §§
     316a oder 316c
 
 
@@ -8093,7 +8131,7 @@ In den Fällen des Satzes 1 Nummer 1 ist der Versuch strafbar.
 
 #### § 184b Verbreitung, Erwerb und Besitz kinderpornographischer Inhalte
 
-(1) Mit Freiheitsstrafe von einem Jahr bis zu zehn Jahren wird
+(1) Mit Freiheitsstrafe von sechs Monaten bis zu zehn Jahren wird
 bestraft, wer
 
 1.  einen kinderpornographischen Inhalt verbreitet oder der Öffentlichkeit
@@ -8148,11 +8186,12 @@ unter zwei Jahren zu erkennen.
 (3) Wer es unternimmt, einen kinderpornographischen Inhalt, der ein
 tatsächliches oder wirklichkeitsnahes Geschehen wiedergibt, abzurufen
 oder sich den Besitz an einem solchen Inhalt zu verschaffen oder wer
-einen solchen Inhalt besitzt, wird mit Freiheitsstrafe von einem Jahr
-bis zu fünf Jahren bestraft.
+einen solchen Inhalt besitzt, wird mit Freiheitsstrafe von drei
+Monaten bis zu fünf Jahren bestraft.
 
-(4) Der Versuch ist in den Fällen des Absatzes 1 Satz 2 in Verbindung
-mit Satz 1 Nummer 1 strafbar.
+(4) Der Versuch ist in den Fällen des Absatzes 1 Satz 1 Nummer 1 und 3
+sowie in den Fällen des Absatzes 1 Satz 2 in Verbindung mit Satz 1
+Nummer 1 strafbar.
 
 (5) Absatz 1 Satz 1 Nummer 2 und Absatz 3 gelten nicht für Handlungen,
 die ausschließlich der rechtmäßigen Erfüllung von Folgendem dienen:
@@ -8857,7 +8896,7 @@ oder Geschäftsgeheimnis, offenbart, das ihm als
 
 
 5.  Mitglied oder Beauftragten einer anerkannten Beratungsstelle nach den
-    §§ 3 und 8 des Schwangerschaftskonfliktgesetzes,
+    §§ 3 und 8 Absatz 1 des Schwangerschaftskonfliktgesetzes,
 
 
 6.  staatlich anerkanntem Sozialarbeiter oder staatlich anerkanntem
@@ -9866,6 +9905,29 @@ Monaten bis zu fünf Jahren.
 
 (3) Wer eine solche Tat vorbereitet, wird mit Freiheitsstrafe bis zu
 fünf Jahren oder mit Geldstrafe bestraft.
+
+
+#### § 234b Verschwindenlassen von Personen
+
+(1) Mit Freiheitsstrafe nicht unter einem Jahr wird bestraft, wer als
+Amtsträger oder im Auftrag oder mit Billigung eines Staates
+
+1.  eine Person entführt oder sonst ihrer körperlichen Freiheit beraubt,
+    wobei im Weiteren die Auskunft über ihr Schicksal oder ihren Verbleib
+    verweigert wird, oder
+
+
+2.  das Schicksal oder den Verbleib einer Person verschleiert, die von
+    einem Amtsträger oder im Auftrag oder mit Billigung eines Staates
+    entführt oder sonst ihrer körperlichen Freiheit beraubt worden ist,
+    oder die Auskunft darüber verweigert,
+
+
+
+und sie dadurch dem Schutz des Gesetzes entzieht.
+
+(2) In minder schweren Fällen ist die Strafe Freiheitsstrafe von drei
+Monaten bis zu fünf Jahren.
 
 
 #### § 235 Entziehung Minderjähriger
@@ -12634,20 +12696,26 @@ Gesundheitsschädigung eines anderen Menschen oder eine
 Gesundheitsschädigung einer großen Zahl von Menschen, so ist auf
 Freiheitsstrafe nicht unter zwei Jahren zu erkennen.
 
-(3) Verursacht der Täter durch die Tat wenigstens leichtfertig den Tod
+(3) Wer die Sprengstoffexplosion zur Begehung eines Diebstahls (§
+242), eines Bandendiebstahls (§ 244 Absatz 1 Nummer 2) oder eines
+schweren Bandendiebstahls (§ 244a) herbeiführt, wird in den Fällen des
+Absatzes 1 mit Freiheitsstrafe nicht unter zwei Jahren, in den Fällen
+des Absatzes 2 mit Freiheitsstrafe nicht unter fünf Jahren bestraft.
+
+(4) Verursacht der Täter durch die Tat wenigstens leichtfertig den Tod
 eines anderen Menschen, so ist die Strafe lebenslange Freiheitsstrafe
 oder Freiheitsstrafe nicht unter zehn Jahren.
 
-(4) In minder schweren Fällen des Absatzes 1 ist auf Freiheitsstrafe
-von sechs Monaten bis zu fünf Jahren, in minder schweren Fällen des
-Absatzes 2 auf Freiheitsstrafe von einem Jahr bis zu zehn Jahren zu
-erkennen.
+(5) In minder schweren Fällen des Absatzes 1 ist auf Freiheitsstrafe
+von sechs Monaten bis zu fünf Jahren, in minder schweren Fällen der
+Absätze 2 und 3 auf Freiheitsstrafe von einem Jahr bis zu zehn Jahren
+zu erkennen.
 
-(5) Wer in den Fällen des Absatzes 1 die Gefahr fahrlässig verursacht,
+(6) Wer in den Fällen des Absatzes 1 die Gefahr fahrlässig verursacht,
 wird mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe
 bestraft.
 
-(6) Wer in den Fällen des Absatzes 1 fahrlässig handelt und die Gefahr
+(7) Wer in den Fällen des Absatzes 1 fahrlässig handelt und die Gefahr
 fahrlässig verursacht, wird mit Freiheitsstrafe bis zu drei Jahren
 oder mit Geldstrafe bestraft.
 
@@ -12816,7 +12884,7 @@ eines anderen Menschen oder fremde Sachen von bedeutendem Wert
 gefährdet, wird mit Freiheitsstrafe von einem Jahr bis zu zehn Jahren
 bestraft.
 
-(2) § 308 Abs. 2 bis 6 gilt entsprechend.
+(2) § 308 Absatz 2 und 4 bis 7 gilt entsprechend.
 
 
 #### § 314 Gemeingefährliche Vergiftung
@@ -12838,7 +12906,7 @@ vergiftete oder mit gesundheitsschädlichen Stoffen vermischte
 Gegenstände im Sinne der Nummer 2 verkauft, feilhält oder sonst in den
 Verkehr bringt.
 
-(2) § 308 Abs. 2 bis 4 gilt entsprechend.
+(2) § 308 Absatz 2, 4 und 5 gilt entsprechend.
 
 
 #### § 314a Tätige Reue
@@ -12861,7 +12929,7 @@ diesen Vorschriften absehen, wenn der Täter
     a)  § 307 Abs. 2,
 
 
-    b)  § 308 Abs. 1 und 5,
+    b)  § 308 Absatz 1 und 6,
 
 
     c)  § 309 Abs. 6,
@@ -12873,7 +12941,7 @@ diesen Vorschriften absehen, wenn der Täter
     e)  § 312 Abs. 1 und 6 Nr. 1,
 
 
-    f)  § 313, auch in Verbindung mit § 308 Abs. 5,
+    f)  § 313, auch in Verbindung mit § 308 Absatz 6,
 
 
 
@@ -12891,7 +12959,7 @@ diesen Vorschriften absehen, wenn der Täter
     a)  § 307 Abs. 4,
 
 
-    b)  § 308 Abs. 6,
+    b)  § 308 Absatz 7,
 
 
     c)  § 311 Abs. 3,
@@ -12900,7 +12968,7 @@ diesen Vorschriften absehen, wenn der Täter
     d)  § 312 Abs. 6 Nr. 2,
 
 
-    e)  § 313 Abs. 2 in Verbindung mit § 308 Abs. 6
+    e)  § 313 Abs. 2 in Verbindung mit § 308 Absatz 7
 
 
 
@@ -13416,9 +13484,10 @@ erreichen.
 
 #### § 321 Führungsaufsicht
 
-In den Fällen der §§ 306 bis 306c und 307 Abs. 1 bis 3, des § 308 Abs.
-1 bis 3, des § 309 Abs. 1 bis 4, des § 310 Abs. 1 und des § 316c Abs.
-1 Nr. 2 kann das Gericht Führungsaufsicht anordnen (§ 68 Abs. 1).
+In den Fällen der §§ 306 bis 306c und 307 Abs. 1 bis 3, des § 308
+Absatz 1 bis 4, des § 309 Abs. 1 bis 4, des § 310 Abs. 1 und des §
+316c Abs. 1 Nr. 2 kann das Gericht Führungsaufsicht anordnen (§ 68
+Abs. 1).
 
 
 #### § 322 Einziehung

@@ -43,44 +43,31 @@ und Verbesserung der Gesundheit der Soldatinnen und Soldaten.
 
 (1) Liegt bei einer Soldatin oder bei einem Soldaten eine
 gesundheitliche Schädigung als Folge einer Wehrdienstbeschädigung nach
-§ 81 des Soldatenversorgungsgesetzes oder als Folge einer Schädigung
-im Sinne der §§ 81a bis 81e des Soldatenversorgungsgesetzes vor, sind
-Leistungen im Rahmen der Heilbehandlung nach dem
-Soldatenversorgungsgesetz in Verbindung mit dem
-Bundesversorgungsgesetz in der bis zum 31. Dezember 2023 geltenden
-Fassung zu gewähren, wenn diese für die Soldatin oder den Soldaten
-günstiger sind. Das gilt auch, wenn das Bundesamt für das
-Personalmanagement der Bundeswehr auf Grund einer truppenärztlichen,
-truppenzahnärztlichen oder weiteren fachärztlichen oder
-fachzahnärztlichen Stellungnahme festgestellt hat, dass eine solche
-gesundheitliche Schädigung wahrscheinlich vorliegt; die Leistungen
-nach Absatz 4 werden erst nach Anerkennung einer
-Wehrdienstbeschädigung gewährt.
+§ 3 des Soldatenentschädigungsgesetzes vor, sind Leistungen im Rahmen
+des Kapitels 3 Abschnitt 2 Unterabschnitt 1 des
+Soldatenentschädigungsgesetzes, mit Ausnahme des § 16 Nummer 12 des
+Soldatenentschädigungsgesetzes, zu gewähren, soweit diese für die
+Soldatin oder den Soldaten günstiger sind. Das gilt auch, wenn das
+Bundesamt für das Personalmanagement der Bundeswehr auf Grund einer
+truppenärztlichen, truppenzahnärztlichen oder weiteren fachärztlichen
+oder fachzahnärztlichen Stellungnahme festgestellt hat, dass eine
+solche gesundheitliche Schädigung wahrscheinlich vorliegt; die
+Leistungen nach § 16 Nummer 4 des Soldatenentschädigungsgesetzes
+werden erst nach Anerkennung einer Wehrdienstbeschädigung gewährt.
 
-(2) Ist eine Soldatin oder ein Soldat wegen einer nach den §§ 81 und
-81a bis 81e des Soldatenversorgungsgesetzes anerkannten
-gesundheitlichen Schädigung schwerbeschädigt, gilt Absatz 1 auch für
-die Behandlung einer gesundheitlichen Schädigung, die nicht Folge
-einer Wehrdienstbeschädigung oder Folge einer Schädigung im Sinne der
-§§ 81 und 81a bis 81e des Soldatenversorgungsgesetzes ist.
+(2) Ist eine Soldatin oder ein Soldat wegen einer nach den §§ 3 und 4
+des Soldatenentschädigungsgesetzes anerkannten gesundheitlichen
+Schädigung schwerbeschädigt, gilt Absatz 1 auch für die Behandlung
+einer gesundheitlichen Schädigung, die nicht Folge einer
+Wehrdienstbeschädigung oder Folge einer Schädigung im Sinne der §§ 3
+und 4 des Soldatenentschädigungsgesetzes ist.
 
 (3) Zur Beseitigung von Folgezuständen von Wehrdienstbeschädigungen
 können auch Behandlungen aus überwiegend kosmetischen Gründen gewährt
 werden, wenn nach fachärztlichem oder fachzahnärztlichem Gutachten
 ansonsten die Dienstfähigkeit beeinträchtigt ist.
 
-(4) Für Soldatinnen und Soldaten mit Wehrdienstbeschädigungen sind
-auch Leistungen nach § 11 Absatz 3 und § 13 des
-Bundesversorgungsgesetzes in der bis zum 31. Dezember 2023 geltenden
-Fassung in Verbindung mit der Orthopädieverordnung und nach § 14 des
-Bundesversorgungsgesetzes in der bis zum 31. Dezember 2023 geltenden
-Fassung zu gewähren. Für Folgen einer Wehrdienstbeschädigung, die
-während des laufenden Wehrdienstverhältnisses eingetreten sind, werden
-auch Leistungen nach § 15 des Bundesversorgungsgesetzes in der bis zum
-31\. Dezember 2023 geltenden Fassung und der Verordnung zur
-Durchführung des § 15 des Bundesversorgungsgesetzes vom 31. Januar
-1972 (BGBl. I S. 105) in der bis zum 31. Dezember 2023 geltenden
-Fassung gewährt.
+(4) (weggefallen)
 
 
 ### § 3 Verzicht auf unentgeltliche truppenärztliche Versorgung
@@ -1142,9 +1129,9 @@ Begleitperson in einem Kraftfahrzeug werden keine Fahrtkosten
 erstattet. Für die Dauer der Begleitung werden der erkrankten Soldatin
 oder dem erkrankten Soldaten für die Begleitperson 75 Prozent des
 Tage- und Übernachtungsgeldes gezahlt, das ihnen für diesen Zeitraum
-zustehen würde. In den Fällen des § 2 sind die Leistungen nach § 24
-des Bundesversorgungsgesetzes zu gewähren, wenn es für die Soldatin
-oder den Soldaten günstiger ist.
+zustehen würde. In den Fällen des § 2 sind die Leistungen nach § 16
+Nummer 11 des Soldatenentschädigungsgesetzes zu gewähren, wenn es für
+die Soldatin oder den Soldaten günstiger ist.
 
 (7) Ist der Soldatin oder dem Soldaten die Benutzung regelmäßig
 verkehrender Beförderungsmittel nicht möglich oder nicht zumutbar und
@@ -1274,33 +1261,22 @@ oder Folge einer Schädigung im Sinne der §§ 81a bis 81e des
 Soldatenversorgungsgesetzes ist, erfolgt die Kostenerstattung für eine
 notwendige häusliche, teilstationäre oder vollstationäre Pflege durch
 die Bundeswehr. Dabei erhalten die betroffenen Soldatinnen und
-Soldaten die Leistungen bei Pflegebedürftigkeit nach § 44 des Siebten
-Buches Sozialgesetzbuch, soweit es für die Soldatinnen und Soldaten
-günstiger ist, mit den nachfolgenden Maßgaben:
+Soldaten die Leistungen bei Pflegebedürftigkeit nach § 16 Nummer 8 des
+Soldatenentschädigungsgesetzes, soweit es für die Soldatinnen und
+Soldaten günstiger ist, mit den nachfolgenden Maßgaben:
 
-1.  abweichend von § 44 Absatz 2 Satz 1 des Siebten Buches
-    Sozialgesetzbuch gilt für die Berechnung der Höhe des Pflegegeldes der
-    Mindestbetrag von 450 Euro und der Höchstbetrag von 2 000 Euro, wobei
-    die Einstufung in die nach dem Umfang der Beeinträchtigungen
-    abgestuften Kategorien des Pflegegeldes auf Grundlage der
-    „Anhaltspunkte zur Bemessung des Pflegegeldes (AHP) bei
-    Arbeitsunfällen und Berufskrankheiten“ in der jeweils geltenden
-    Fassung, die auf der Internetseite des Spitzenverbands der Deutschen
-    gesetzlichen Unfallversicherung veröffentlicht ist;
-
-
-2.  während einer kombinierten Inanspruchnahme von Hauspflege und
+1.  während einer kombinierten Inanspruchnahme von Hauspflege und
     Pflegegeld gleichzeitig an einem Tag wird das tageweise berechnete
     Pflegegeld zur Hälfte gezahlt;
 
 
-3.  bei Verhinderung der nicht berufsmäßigen Pflegehilfen, wird die Hälfte
+2.  bei Verhinderung der nicht berufsmäßigen Pflegehilfen, wird die Hälfte
     des bisher bezogenen Pflegegeldes während einer tage- oder
     stundenweise Verhinderungspflege bis zu sechs Wochen und bei einer
     Kurzzeitpflege bis zu acht Wochen im Kalenderjahr weitergezahlt;
 
 
-4.  Pflegehilfsmittel können durch Truppenärztinnen und Truppenärzte sowie
+3.  Pflegehilfsmittel können durch Truppenärztinnen und Truppenärzte sowie
     durch Fachärztinnen und Fachärzte der Bundeswehr in analoger Anwendung
     von § 16 verordnet werden.
 

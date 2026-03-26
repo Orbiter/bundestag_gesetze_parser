@@ -232,7 +232,7 @@ Personalstärkegesetzes mit Ablauf des Monats vor der Ernennung zum
 Beamten auf Probe in den Ruhestand versetzt.
 
 (3) Auf die in § 1 Nr. 1 Buchstabe b bezeichneten Soldaten im
-Ruhestand findet § 53 Abs. 2 Nr. 1 des Soldatenversorgungsgesetzes mit
+Ruhestand findet § 68 Abs. 2 Nr. 1 des Soldatenversorgungsgesetzes mit
 der Maßgabe Anwendung, daß als Höchstgrenze einhundertdreißig vom
 Hundert der ruhegehaltfähigen Dienstbezüge der Besoldungsgruppe
 gelten, aus der sich das Ruhegehalt berechnet. Eine Anschlußverwendung

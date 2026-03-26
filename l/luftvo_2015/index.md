@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2015, 1894
 
 Zuletzt geändert durch
-:   Art. 2 G v. 14.6.2021 I 1766
+:   Art. 28 G v. 18.12.2025 I Nr. 347
 
 Stand: Ersetzt V 96-1-2 v. 10.8.1963 I 652 (LuftVO)
 
@@ -843,7 +843,7 @@ Leuchtkörpern verbieten, bleiben unberührt.
 ## Abschnitt 5a - Betrieb von unbemannten Fluggeräten
 
 
-### § 21a Zuständige Behörden in der Betriebskategorie „offen“ nach der Durchführungsverordnung (EU) 2019/947
+### § 21a Verfahren und zuständige Behörden in der Betriebskategorie „offen“ nach der Durchführungsverordnung (EU) 2019/947
 
 (1) Zuständige Behörde in der Betriebskategorie „offen“ für die
 Durchführung von Prüfungen und die Ausstellung von Bescheinigungen und
@@ -866,6 +866,30 @@ der Prüfung vorgelegt haben.
 Betriebskategorie „offen“ nach Artikel 4 in Verbindung mit Teil A des
 Anhangs der Durchführungsverordnung (EU) 2019/947 ist die örtlich
 zuständige Luftfahrtbehörde des Landes zuständig.
+
+(4) Das Luftfahrt-Bundesamt kann folgende Verwaltungsakte vollständig
+durch automatische Einrichtungen erlassen:
+
+1.  Ausstellung und Verlängerung oder Änderung einer Bescheinigung zum
+    Nachweis ausreichender Kompetenzen von Fernpiloten für den Betrieb
+    eines unbemannten Fluggerätes nach Artikel 4 Absatz 2 in Verbindung
+    mit Punkt UAS.OPEN.020 Nummer 4 Buchstabe b in Teil A des Anhangs der
+    Durchführungsverordnung (EU) 2019/947,
+
+
+2.  Gebührenbescheide für die in Nummer 1 genannte Ausstellung und
+    Verlängerung oder Änderung einer Bescheinigung.
+
+
+
+Fernpiloten haben das Recht auf Darlegung des eigenen Standpunktes und
+das Recht auf Entscheidung durch einen Amtsträger. Satz 1 gilt nicht,
+wenn ein Fernpilot Rechte nach Satz 2 geltend macht oder wenn aus
+anderen Gründen Anlass besteht, den Einzelfall durch Amtsträger zu
+bearbeiten. Setzt das Luftfahrt-Bundesamt automatische Einrichtungen
+zum Erlass von Verwaltungsakten ein, so muss es Angaben des
+Fernpiloten berücksichtigen, die für den Einzelfall bedeutsam sind und
+im automatischen Verfahren nicht ermittelt würden.
 
 
 ### § 21b Zuständige Behörden für den Betrieb von unbemannten Fluggeräten in der Betriebskategorie „speziell“ nach der Durchführungsverordnung (EU) 2019/947
@@ -1153,7 +1177,7 @@ folgenden Voraussetzungen zulässig:
     zugestimmt hat. Anlagen der zentralen Energieerzeugung sind all
     diejenigen an das Verteilernetz angeschlossenen
     Energieerzeugungsanlagen, die keine dezentrale Erzeugungsanlage im
-    Sinne des § 3 Nummer 11 des Energiewirtschaftsgesetzes sind,
+    Sinne des § 3 Nummer 25 des Energiewirtschaftsgesetzes sind,
 
 
 4.  über und innerhalb eines seitlichen Abstands von 100 Metern von
@@ -1567,27 +1591,8 @@ Luftfahrzeug oder in einem für die Sicherheit nicht ausreichenden
 Abstand vom Luftfahrzeug aufhalten.
 
 
-### § 24 Flugbetrieb mit Flugzeugen zur gewerbsmäßigen Beförderung von Personen oder Sachen
+### § 24 (weggefallen)
 
-(1) Der Luftfahrzeugführer eines Flugzeugs mit einer Höchstabflugmasse
-von mehr als 14 000 Kilogramm darf bei Flügen zur gewerbsmäßigen
-Beförderung von Personen oder Sachen auf einem Flugplatz im
-Hoheitsgebiet der Bundesrepublik Deutschland nur starten oder landen,
-wenn
-
-1.  für den Start Instrumentenabflugverfahren und für die Landung
-    Instrumentenanflugverfahren festgelegt sind und
-
-
-2.  eine Flugverkehrskontrolle vorhanden ist.
-
-
-
-
-(2) Die örtlich zuständige Luftfahrtbehörde des Landes kann für
-einzelne Flüge Ausnahmen von Absatz 1 zulassen, wenn eine Gefahr für
-die Sicherheit des Luftverkehrs nicht zu erwarten ist. Die Ausnahmen
-können eingeschränkt, befristet oder mit Auflagen verbunden werden.
 
 
 ### § 25 Besondere Regelungen für den Flugbetrieb auf einem Flugplatz mit Flugverkehrskontrollstelle
@@ -2204,7 +2209,7 @@ Luftverkehrsgesetzes handelt, wer vorsätzlich oder fahrlässig
     zuwiderhandelt,
 
 
-20. entgegen § 24 Absatz 1 auf einem Flugplatz startet oder landet,
+20. (weggefallen)
 
 
 21. ohne Erlaubnis nach § 25 Absatz 3 Satz 1 auf einem Rollfeld verkehrt,

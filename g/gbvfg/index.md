@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 24.1.1995 I 114;
 
 Zuletzt geändert durch
-:   Art. 17 G v. 19.12.2022 I 2606
+:   Art. 1 V v. 24.4.2025 I Nr. 122
 
 
 ## Abschnitt I - Das Grundbuch
@@ -715,9 +715,9 @@ Grundakten aufzubewahren sind, sollen tunlichst doppelseitig
 beschrieben sein, nur die Eintragungsunterlagen enthalten und nur
 einmal zu der betreffenden Grundakte eingereicht werden. § 18 der
 Grundbuchordnung findet insoweit keine Anwendung. Das
-Bundesministerium der Justiz und für Verbraucherschutz gibt hierzu im
-Einvernehmen mit den Landesjustizverwaltungen und der
-Bundesnotarkammer Empfehlungen heraus.
+Bundesministerium der Justiz gibt hierzu im Einvernehmen mit den
+Landesjustizverwaltungen und der Bundesnotarkammer Empfehlungen
+heraus.
 
 
 ## Abschnitt V - Der Zuständigkeitswechsel
@@ -1204,6 +1204,40 @@ soweit Gegenstand der Einsicht das betreffende Grundstück ist.
 Unbeschadet dessen ist die Einsicht in das Grundbuch und die Erteilung
 von Abschriften hieraus zulässig, wenn die für den Einzelfall erklärte
 Zustimmung des eingetragenen Eigentümers dargelegt wird.
+
+
+### § 43a Grundbucheinsicht für Windenergieanlagen und Solaranlagen
+
+(1) Bei Unternehmen, die Windenergieanlagen an Land oder Solaranlagen
+im Sinne des § 3 Nummer 41a des Erneuerbare-Energien-Gesetzes mit
+einer installierten Leistung von mindestens 750 Kilowatt betreiben
+oder projektieren, liegt ein berechtigtes Interesse an der Einsicht in
+das Grundbuch in der Regel vor, wenn sie unter Nutzung des Grundstücks
+Windenergieanlagen an Land oder Solaranlagen im Sinne des § 3 Nummer
+41a des Erneuerbare-Energien-Gesetzes oder dazugehörige Nebenanlagen
+im Sinne des § 3 Nummer 15a des Erneuerbare-Energien-Gesetzes
+betreiben oder projektieren wollen.
+
+(2) Für die Darlegung, dass der Antragsteller unter Nutzung des
+Grundstücks Windenergieanlagen an Land oder Solaranlagen im Sinne des
+§ 3 Nummer 41a des Erneuerbare-Energien-Gesetzes oder dazugehörige
+Nebenanlagen nach Absatz 1 betreiben oder projektieren will, genügt
+die Vorlage einer Eigenerklärung. Ferner ist darzulegen, dass das
+Grundstück belegen ist
+
+1.  in einem Windenergiegebiet im Sinne des § 2 Nummer 1 des
+    Windenergieflächenbedarfsgesetzes,
+
+
+2.  im Bereich eines beschlossenen Bebauungsplans nach § 30 des
+    Baugesetzbuchs, der mit dem Zweck aufgestellt wurde, eine Solaranlage
+    zu errichten, oder
+
+
+3.  im Außenbereich im Sinne des § 35 des Baugesetzbuchs.
+
+
+
 
 
 ### § 44
@@ -2443,20 +2477,24 @@ Absätze auch im automatisierten Verfahren erfolgen.
 #### § 86a Zusammenarbeit mit Versorgungsunternehmen
 
 (1) Unternehmen, die Anlagen zur Fortleitung von Elektrizität, Gas,
-Fernwärme, Wasser oder Abwasser oder Telekommunikationsanlagen
-betreiben (Versorgungsunternehmen), kann die Einsicht in das Grundbuch
-in allgemeiner Form auch für sämtliche Grundstücke eines
-Grundbuchamtsbezirks durch das Grundbuchamt gestattet werden, wenn sie
-ein berechtigtes Interesse an der Einsicht darlegen. Ein berechtigtes
-Interesse nach Satz 1 liegt in der Regel vor, wenn
+Fernwärme, Wasser oder Abwasser, Telekommunikationsnetze oder
+zugehörige Einrichtungen betreiben (Versorgungsunternehmen), kann die
+Einsicht in das Grundbuch in allgemeiner Form auch für sämtliche
+Grundstücke eines Grundbuchamtsbezirks durch das Grundbuchamt
+gestattet werden, wenn sie ein berechtigtes Interesse an der Einsicht
+darlegen. Ein berechtigtes Interesse nach Satz 1 liegt in der Regel
+vor, wenn
 
-1.  Anlagen nach Satz 1 im Grundbuchbezirk belegen sind oder
+1.  Anlagen nach Satz 1 im Grundbuchamtsbezirk belegen sind oder
 
 
 2.  konkrete Planungen für Änderung, Erweiterung oder Neubau von Anlagen
     nach Satz 1 betrieben werden, insbesondere dann, wenn die Erweiterung
     oder der Neubau im nach § 12c Absatz 4 des Energiewirtschaftsgesetzes
-    bestätigten Netzentwicklungsplan enthalten ist.
+    bestätigten Netzentwicklungsplan oder in einem nach § 14d Absatz 1 des
+    Energiewirtschaftsgesetzes erstellten Netzausbauplan enthalten ist
+    oder der Grundbuchamtsbezirk in einem Suchkreis für den Netzausbau im
+    Bereich Mobilfunk liegt.
 
 
 
@@ -2784,7 +2822,7 @@ gilt § 92a sinngemäß.
 
 (2) Geht die Zuständigkeit für die Führung des Grundbuchs über eines
 von mehreren Grundstücken, die auf einem gemeinschaftlichen Blatt
-eingetragenen sind, oder über einen Grundstücksteil auf ein anderes
+eingetragen sind, oder über einen Grundstücksteil auf ein anderes
 Grundbuchamt über, sind dem anderen Grundbuchamt die das
 abgeschriebene Grundstück betreffenden Akteninhalte in elektronischer
 Form zu übermitteln.
@@ -3053,9 +3091,8 @@ diese Verordnung mit folgenden Maßgaben:
 
 
 
-
     gilt Satz 1 entsprechend; Bewilligungsstelle ist in den Fällen des
-    Buchstabens a die Staatsbank Berlin, im übrigen jede Dienststelle des
+    Buchstabens a die Staatsbank Berlin, im Übrigen jede Dienststelle des
     Bundes. Die Bewilligungsstellen können durch dem Grundbuchamt
     nachzuweisende Erklärung sich wechselseitig oder andere öffentliche
     Stellen zur Abgabe von Erklärungen nach Satz 1 ermächtigen. In den

@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 4.4.2006 I 846, 1202;
 
 Zuletzt geändert durch
-:   Art. 17 G v. 27.3.2024 I Nr. 108
+:   Art. 7 G v. 10.2.2026 I Nr. 39
 
 
 ## Abschnitt I - Allgemeine Vorschriften
@@ -200,28 +200,50 @@ und 3 folgende Aufgaben:
     Rechtsformen und ausländisches Recht zur Verfügung;
 
 
-5.  die Ausübung der Funktion der zuständigen Behörde auf dem Gebiet der
-    steuerlichen Rechts- und Amtshilfe und bei der Durchführung von
-    Verständigungs- und Schiedsverfahren im Einvernehmen mit der
-    zuständigen obersten Landesfinanzbehörde oder mit der von dieser
-    beauftragten Behörde nach den Doppelbesteuerungsabkommen, dem
-    Übereinkommen Nr. 90/436/EWG über die Beseitigung der
-    Doppelbesteuerung im Falle von Gewinnberichtigungen zwischen
-    verbundenen Unternehmen (ABl. L 225 vom 20.8.1990, S. 10) in der
-    jeweils geltenden Fassung und dem EU-Doppelbesteuerungsabkommen-
-    Streitbeilegungsgesetz vom 10. Dezember 2019 (BGBl. I S. 2103) in der
-    jeweils geltenden Fassung und bei der Durchführung von
-    Vorabverständigungsverfahren nach § 89a der Abgabenordnung, soweit das
-    zuständige Bundesministerium seine Befugnisse in diesem Bereich
-    delegiert;
+5.  die Ausübung der Funktion der zuständigen Behörde
+
+    a)  auf dem Gebiet der steuerlichen Rechts- und Amtshilfe,
+
+
+    b)  bei der Durchführung von Verständigungs- und Schiedsverfahren im
+        Einvernehmen mit der zuständigen obersten Landesfinanzbehörde oder mit
+        der von dieser beauftragten Behörde nach
+
+        aa) den Doppelbesteuerungsabkommen,
+
+
+        bb) dem Übereinkommen Nr. 90/436/EWG über die Beseitigung der
+            Doppelbesteuerung im Falle von Gewinnberichtigungen zwischen
+            verbundenen Unternehmen (ABl. L 225 vom 20.8.1990, S. 10) in der
+            jeweils geltenden Fassung,
+
+
+        cc) dem EU-Doppelbesteuerungsabkommen-Streitbeilegungsgesetz vom 10.
+            Dezember 2019 (BGBl. I S. 2103) in der jeweils geltenden Fassung,
+
+
+        dd) dem BEPS-MLI-Anwendungsgesetz vom 19. Juni 2024 (BGBl. 2024 I Nr. 205)
+            in der jeweils geltenden Fassung und
+
+
+
+
+
+    c)  bei der Durchführung von Vorabverständigungsverfahren nach § 89a der
+        Abgabenordnung,
+
+
+
+    soweit das zuständige Bundesministerium seine Befugnisse in diesem
+    Bereich delegiert;
 
 
 5a. die Entgegennahme und Weiterleitung von Meldungen nach auf der
-    Grundlage von § 117c der Abgabenordnung ergangenen Rechtsverordnungen
+    Grundlage von § 117a der Abgabenordnung ergangenen Rechtsverordnungen
     und die Durchführung von Bußgeldverfahren in den Fällen des § 379
-    Absatz 2 Nummer 1b der Abgabenordnung sowie die Auswertung dieser
-    Meldungen im Rahmen der dem Bundeszentralamt für Steuern gesetzlich
-    übertragenen Aufgaben;
+    Absatz 2 Nummer 1b und des § 383a der Abgabenordnung sowie die
+    Auswertung dieser Meldungen im Rahmen der dem Bundeszentralamt für
+    Steuern gesetzlich übertragenen Aufgaben;
 
 
 5b. die Entgegennahme und Weiterleitung von Meldungen und Auswertungen im
@@ -315,27 +337,25 @@ und 3 folgende Aufgaben:
     Steuertransparenzgesetzes;
 
 
-5h.
-    a)  die Entgegennahme der Mindeststeuer-Berichte nach § 75 des
-        Mindeststeuergesetzes und ihre Weiterleitung an die jeweils zuständige
-        Landesfinanzbehörde,
+5h. die Entgegennahme, Ermittlung, Weiterleitung und Auswertung der
+    Meldungen nach § 3 Absatz 4 des Mindeststeuergesetzes sowie die
+    Entgegennahme, Ermittlung, Weiterleitung, Übermittlung und Auswertung
+    von Informationen nach § 75 des Mindeststeuergesetzes sowie die
+    Kommunikation mit den zuständigen Behörden und die
+    Berichtigungsaufforderung an die obersten Muttergesellschaften
+    beziehungsweise die berichtspflichtigen Geschäftseinheiten nach § 75a
+    des Mindeststeuergesetzes;
 
 
-    b)  die Entgegennahme der Meldungen nach § 3 Absatz 4 des
-        Mindeststeuergesetzes und Weiterleitung an die jeweils zuständige
-        Länderfinanzbehörde sowie
+5i. die Entgegennahme und die Übermittlung von Informationen nach § 16
+    Absatz 1 bis 3 des Kryptowerte-Steuertransparenz-Gesetzes und die
+    Durchführung der Verfahren gemäß den §§ 17 und 18 des Kryptowerte-
+    Steuertransparenz-Gesetzes;
 
 
-    c)  die Durchführung von Bußgeldverfahren nach § 98 des
-        Mindeststeuergesetzes;
-
-
-
-
-
-5i. die Auswertung der Informationen nach den Nummern 5c bis 5h im Rahmen
+5j. die Auswertung der Informationen nach den Nummern 5c bis 5i im Rahmen
     der dem Bundeszentralamt für Steuern gesetzlich übertragenen Aufgaben;
-    Auswertungen der Informationen nach den Nummern 5c bis 5h durch die
+    Auswertungen der Informationen nach den Nummern 5c bis 5i durch die
     jeweils zuständige Landesfinanzbehörde bleiben hiervon unberührt;
 
 
@@ -454,9 +474,9 @@ und 3 folgende Aufgaben:
 
 
 18.
-    a)  die Weiterleitung der Daten, die nach § 10 Absatz 2a, 2b und 4b des
-        Einkommensteuergesetzes in den dort genannten Fällen zu übermitteln
-        sind,
+    a)  die Weiterleitung der Daten, die nach § 10 Absatz 2a, 2b, 2c und 4b
+        des Einkommensteuergesetzes in den dort genannten Fällen zu
+        übermitteln sind,
 
 
     b)  die Sammlung, Auswertung und Weitergabe der Daten, die nach § 10a
@@ -477,8 +497,8 @@ und 3 folgende Aufgaben:
 
     e)  die Übermittlung der Identifikationsnummer (§ 139b der Abgabenordnung)
         im Anfrageverfahren nach § 22a Absatz 2 in Verbindung mit § 10 Absatz
-        2a, 2b und 4b, § 10a Absatz 5 und § 32b Absatz 3 Satz 1 sowie nach §
-        52 Absatz 30b des Einkommensteuergesetzes,
+        2a, 2b, 2c und 4b, § 10a Absatz 5 und § 32b Absatz 3 Satz 1 sowie nach
+        § 52 Absatz 30b des Einkommensteuergesetzes,
 
 
     f)  die Gewährung der Altersvorsorgezulage nach Abschnitt XI des
@@ -565,8 +585,7 @@ und 3 folgende Aufgaben:
     der Versicherung- und Feuerschutzsteuer;
 
 
-26. Entgegennahme von Meldungen und Zahlungen von Zinsabschlag nach der
-    Zinsinformationsverordnung und deren Weiterleitung;
+26. (weggefallen)
 
 
 27. die Erteilung von verbindlichen Auskünften nach § 89 Abs. 2 Satz 3 der
@@ -622,7 +641,7 @@ und 3 folgende Aufgaben:
     Finanzbehörden der Länder;
 
 
-33. die Registrierung eines Vor-REIT nach § 2 des REIT-Gesetzes;
+33. (weggefallen)
 
 
 34. die Zertifizierung von Altersvorsorge- und Basisrentenverträgen nach
@@ -715,6 +734,17 @@ und 3 folgende Aufgaben:
     vom 29.12.2017, S. 1);
 
 
+41a. die Durchführung des Meldeverfahrens für Kleinunternehmer im übrigen
+    Gemeinschaftsgebiet nach § 19a des Umsatzsteuergesetzes;
+
+
+41b. die Zusammenarbeit mit anderen Mitgliedstaaten nach Kapitel Xa der
+    Verordnung (EU) Nr. 904/2010 des Rates vom 7. Oktober 2010 über die
+    Zusammenarbeit der Verwaltungsbehörden und die Betrugsbekämpfung auf
+    dem Gebiet der Mehrwertsteuer (ABl. L 268 vom 12.10.2010, S. 1) in der
+    jeweils geltenden Fassung;
+
+
 42. die Einrichtung und Pflege des Online-Zugriffs der Finanzämter auf
     ATLAS-Ein- und Ausfuhrdaten;
 
@@ -740,8 +770,8 @@ und 3 folgende Aufgaben:
 
 45. die Übermittlung von Daten im Rahmen des automatisierten
     Datenabrufverfahrens mit den Trägern der gesetzlichen
-    Rentenversicherung in den in § 151b Absatz 2 Satz 2 und § 151c Absatz
-    1 des Sechsten Buches Sozialgesetzbuch genannten Fällen;
+    Rentenversicherung in dem in § 151b Absatz 2 Satz 2 des Sechsten
+    Buches Sozialgesetzbuch genannten Fall;
 
 
 45a. die Durchführung des Besteuerungsverfahrens nach dem Gesetz zur
@@ -803,10 +833,18 @@ und 3 folgende Aufgaben:
 
     e)  die Erteilung von Auskünften aus der zentralen Sammlung nach Buchstabe
         a im Wege einer elektronischen Abfrage durch die Finanzbehörden der
-        Länder und durch Dritte.
+        Länder und durch Dritte;
 
 
 
+
+
+48. die Wahrnehmung der Aufgaben der Direktauszahlungsbehörde nach § 139e
+    der Abgabenordnung;
+
+
+49. die Durchführung von Bußgeldverfahren nach § 98 des
+    Mindeststeuergesetzes.
 
 
 
@@ -822,8 +860,8 @@ Datenschutzkontrolle zu speichern.
 wurden, ist hiervon auch die Durchführung von Vorfeldermittlungen nach
 § 208 Absatz 1 Satz 1 Nummer 3 der Abgabenordnung umfasst. Dies gilt
 nicht für Fälle des Absatzes 1 Satz 1 Nummer 1, 5, 5c bis 5f, 6, 7, 9,
-10, 13 bis 17, 19, 22 bis 24, 26, 28, 28a, 28b, 29a bis 34, 36, 38, 42
-bis 46 und 46b.
+10, 13 bis 17, 19, 22 bis 24, 28 bis 28b, 29a bis 34, 36, 38, 42 bis
+45, 46, 46b, 48 und 49.
 
 (2) Die vom Bundeszentralamt für Steuern auf Grund gesetzlicher
 Vorschriften gewährten Steuererstattungen und Steuervergütungen sowie
@@ -887,29 +925,7 @@ ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates das
 Nähere zur Verwaltung und Auszahlung der einheitlichen Pauschsteuer zu
 bestimmen.
 
-(6) An dem Aufkommen der nach der Richtlinie 2003/48/EG des Rates vom
-3\. Juni 2003 im Bereich der Besteuerung von Zinserträgen (ABl. EU Nr.
-L 157 S. 38, 2005 Nr. L 103 S. 41), zuletzt geändert durch die
-Richtlinie 2006/98/EG des Rates vom 20. November 2006 (ABl. EU Nr. L
-363 S. 129), in der jeweils geltenden Fassung von den berechtigten
-Mitgliedstaaten sowie von den in Artikel 17 dieser Richtlinie
-genannten Staaten und abhängigen Gebieten erhobenen Quellensteuer sind
-die Länder und Gemeinden entsprechend ihrem Anteil an der
-Kapitalertragsteuer nach § 43 Abs. 1 Satz 1 Nr. 6, 7 und 8 bis 12
-sowie Satz 2 des Einkommensteuergesetzes zu beteiligen. Die Verteilung
-des Länder- und Gemeindeanteils auf die einzelnen Länder erfolgt nach
-den Anteilen an der Kapitalertragsteuer nach § 43 Abs. 1 Satz 1 Nr. 6,
-7 und 8 bis 12 sowie Satz 2 des Einkommensteuergesetzes vom Vorjahr,
-die den Ländern und Gemeinden nach Zerlegung (§ 8 des
-Zerlegungsgesetzes) zustehen; für 2009 sind die Anteile der Länder und
-Gemeinden am Zinsabschlagsaufkommen des Jahres 2008 nach Zerlegung
-maßgeblich. Das Bundeszentralamt für Steuern stellt jeweils nach
-Ablauf eines Monats die Anteile der Länder einschließlich ihrer
-Gemeinden fest und zahlt sie an die Länder bis zum 15. des dem
-Abrechnungsmonat folgenden Monats aus. Das Bundesministerium der
-Finanzen wird ermächtigt, durch Rechtsverordnung mit Zustimmung des
-Bundesrates das Nähere zur Verwaltung und Auszahlung dieser
-Quellensteuer zu bestimmen.
+(6) (weggefallen)
 
 (7) Das Aufkommen der in Ausübung der Aufgaben nach Absatz 1 Nummer 12
 zugeflossenen Einkommen- und Körperschaftsteuer steht den Ländern und

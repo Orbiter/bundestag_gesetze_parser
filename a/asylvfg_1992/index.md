@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 2.9.2008 I 1798;
 
 Zuletzt geändert durch
-:   Art. 2 G v. 21.2.2024 I Nr. 54
+:   Art. 1 G v. 22.12.2025 I Nr. 364
 
 Stand: Dieses G ersetzt das G 26-5 v. 16.7.1982 I 946 (AsylVfG)
 Dieses Gesetz dient der Umsetzung folgender Richtlinien:
@@ -196,9 +196,10 @@ erklärt worden ist, sind die Absätze 1 und 2 anwendbar.
 
 (4) Einem Ausländer, der Flüchtling nach Absatz 1 ist, wird die
 Flüchtlingseigenschaft zuerkannt, es sei denn, er erfüllt die
-Voraussetzungen des § 60 Absatz 8 Satz 1 des Aufenthaltsgesetzes oder
-das Bundesamt hat nach § 60 Absatz 8 Satz 3 des Aufenthaltsgesetzes
-von der Anwendung des § 60 Absatz 1 des Aufenthaltsgesetzes abgesehen.
+Voraussetzungen des § 60 Absatz 8 Nummer 2 oder 3 des
+Aufenthaltsgesetzes oder das Bundesamt hat nach § 60 Absatz 8a oder 8b
+des Aufenthaltsgesetzes von der Anwendung des § 60 Absatz 1 des
+Aufenthaltsgesetzes abgesehen.
 
 
 #### § 3a Verfolgungshandlungen
@@ -562,10 +563,10 @@ nichtöffentlichen Stellen dürfen Daten nur erhoben werden, wenn keine
 Anhaltspunkte dafür bestehen, dass überwiegende schutzwürdige
 Interessen der betroffenen Person beeinträchtigt werden.
 
-(3) Die Asylverfahrensakten des Bundesamtes sind spätestens zehn Jahre
-nach unanfechtbarem Abschluss des Asylverfahrens zu vernichten sowie
-in den Datenverarbeitungssystemen des Bundesamtes zu löschen. Die
-Fristen zur Vernichtung und Löschung aufgrund anderer Vorschriften
+(3) Die Asylverfahrensakten des Bundesamtes sind spätestens zwanzig
+Jahre nach unanfechtbarem Abschluss des Asylverfahrens zu vernichten
+sowie in den Datenverarbeitungssystemen des Bundesamtes zu löschen.
+Die Fristen zur Vernichtung und Löschung aufgrund anderer Vorschriften
 bleiben davon unberührt.
 
 
@@ -583,40 +584,66 @@ unverzüglich zu unterrichten über
 
 1.  die Einleitung des Strafverfahrens, soweit dadurch eine Gefährdung des
     Untersuchungszwecks nicht zu erwarten ist, und die Erhebung der
-    öffentlichen Klage, wenn eine Freiheitsstrafe von mindestens drei
-    Jahren zu erwarten ist,
+    öffentlichen Klage, wenn
+
+    a)  eine Freiheits- oder Jugendstrafe von mindestens drei Jahren zu
+        erwarten ist oder
 
 
-2.  die Einleitung des Strafverfahrens, soweit dadurch eine Gefährdung des
-    Untersuchungszwecks nicht zu erwarten ist, und die Erhebung der
-    öffentlichen Klage wegen einer oder mehrerer vorsätzlicher Straftaten
-    gegen das Leben, die körperliche Unversehrtheit, die sexuelle
-    Selbstbestimmung, das Eigentum oder wegen Widerstands gegen
-    Vollstreckungsbeamte, sofern die Straftat mit Gewalt, unter Anwendung
-    von Drohung mit Gefahr für Leib oder Leben oder mit List begangen
-    worden ist oder eine Straftat nach § 177 des Strafgesetzbuches ist,
-    wenn eine Freiheits- oder Jugendstrafe von mindestens einem Jahr zu
-    erwarten ist, und
+    b)  eine Freiheits- oder Jugendstrafe von mindestens einem Jahr wegen
+        einer oder mehrerer vorsätzlicher Straftaten zu erwarten ist, sofern
+        die Straftat
+
+        aa) eine Straftat nach § 177 des Strafgesetzbuches, § 96 oder § 97 des
+            Aufenthaltsgesetzes ist,
 
 
-3.  die Erledigung eines Strafverfahrens
+        bb) mit Gewalt, unter Anwendung von Drohung mit Gefahr für Leib oder Leben
+            oder mit List begangen worden ist oder
 
-    a)  durch eine rechtskräftige Verurteilung zu einer Freiheitsstrafe von
-        mindestens drei Jahren,
+
+        cc) mit einem antisemitischen, rassistischen, fremdenfeindlichen,
+            geschlechtsspezifischen, gegen die sexuelle Orientierung gerichteten
+            oder sonstigen menschenverachtenden Beweggrund im Sinne von § 46
+            Absatz 2 Satz 2 des Strafgesetzbuches begangen worden ist;
+
+
+
+
+
+
+
+
+2.  die Erledigung eines Strafverfahrens
+
+    a)  durch eine rechtskräftige Verurteilung zu einer Freiheits- oder
+        Jugendstrafe von mindestens drei Jahren,
 
 
     b)  durch eine rechtskräftige Verurteilung zu einer Freiheits- oder
         Jugendstrafe von mindestens einem Jahr wegen einer oder mehrerer
-        vorsätzlicher Straftaten gegen das Leben, die körperliche
-        Unversehrtheit, die sexuelle Selbstbestimmung, das Eigentum oder wegen
-        Widerstands gegen Vollstreckungsbeamte, sofern die Straftat mit
-        Gewalt, unter Anwendung von Drohung mit Gefahr für Leib oder Leben
-        oder mit List begangen worden ist oder eine Straftat nach § 177 des
-        Strafgesetzbuches ist, oder
+        vorsätzlicher Straftaten, sofern
+
+        aa) die Straftat eine Straftat nach § 177 des Strafgesetzbuches, § 96 oder
+            § 97 des Aufenthaltsgesetzes ist,
+
+
+        bb) die Straftat mit Gewalt, unter Anwendung von Drohung mit Gefahr für
+            Leib oder Leben oder mit List begangen worden ist oder
+
+
+        cc) im Rahmen des Urteils ein antisemitischer, rassistischer,
+            fremdenfeindlicher, geschlechtsspezifischer, gegen die sexuelle
+            Orientierung gerichteter oder sonstiger menschenverachtender
+            Beweggrund im Sinne von § 46 Absatz 2 Satz 2 des Strafgesetzbuches
+            ausdrücklich festgestellt wurde,
+
+
+
 
 
     c)  in sonstiger Weise im Falle einer vorausgegangenen Unterrichtung nach
-        Nummer 1 oder 2.
+        Nummer 1.
 
 
 
@@ -781,7 +808,7 @@ Aushang bekannt zu machen. Der Ausländer hat sicherzustellen, dass ihm
 Posteingänge während der Postausgabe- und Postverteilungszeiten in der
 Aufnahmeeinrichtung ausgehändigt werden können. Zustellungen und
 formlose Mitteilungen sind mit der Aushändigung an den Ausländer
-bewirkt; im Übrigen gelten sie am dritten Tag nach Übergabe an die
+bewirkt; im Übrigen gelten sie am vierten Tag nach Übergabe an die
 Aufnahmeeinrichtung als bewirkt.
 
 (5) Die Vorschriften über die Ersatzzustellung bleiben unberührt.
@@ -1090,6 +1117,122 @@ Zugriff auf die ausgelesenen Daten erfolgt.
 Bundesamt zuständig.
 
 
+#### § 15b Nachträglicher biometrischer Abgleich mit allgemein öffentlich zugänglichen Daten aus dem Internet; Verordnungsermächtigung
+
+(1) Das nach § 16 Absatz 1 Satz 1 und 2 erhobene biometrische
+Lichtbild des Ausländers darf mit allgemein öffentlich zugänglichen
+personenbezogenen Daten aus dem Internet mittels einer automatisierten
+Anwendung zur Datenverarbeitung biometrisch abgeglichen werden, wenn
+der Ausländer keinen gültigen Pass oder Passersatz besitzt, der
+Abgleich für die Feststellung der Identität oder Staatsangehörigkeit
+des Ausländers erforderlich ist und der Zweck der Maßnahme nicht durch
+mildere Mittel erreicht werden kann. Ein Abgleich mit Daten nach Satz
+1 aus im Internet allgemein öffentlich zugänglichen in Echtzeit
+erhobenen Daten ist ausgeschlossen.
+
+(2) Liegen tatsächliche Anhaltspunkte für die Annahme vor, dass durch
+eine Maßnahme nach Absatz 1 Satz 1 allein Erkenntnisse aus dem
+Kernbereich privater Lebensgestaltung erlangt werden, ist die Maßnahme
+unzulässig. Erkenntnisse aus dem Kernbereich privater
+Lebensgestaltung, die durch den Abgleich erlangt wurden, dürfen nicht
+verwertet werden. Aufzeichnungen hierüber sind unverzüglich zu
+löschen. Die Tatsache ihrer Erlangung und Löschung ist aktenkundig zu
+machen. Bei Maßnahmen nach Absatz 1 Satz 1 ist, soweit möglich,
+technisch sicherzustellen, dass Daten, die den Kernbereich privater
+Lebensgestaltung betreffen, nicht erhoben werden.
+
+(3) Die Treffer des Abgleichs sind durch Inaugenscheinnahme zu
+überprüfen. Zweifel an der Richtigkeit der Treffer gehen nicht zu
+Lasten des Ausländers.
+
+(4) Die im Rahmen des Abgleichs nach Absatz 1 erhobenen Daten sind
+nach Durchführung des Abgleichs unverzüglich zu löschen, sobald sie
+für die Feststellung der Identität oder Staatsangehörigkeit nicht mehr
+erforderlich sind. Die Weiterverarbeitung der beim Abgleich erhobenen
+Daten zu anderen Zwecken ist unzulässig. Der Abgleich, das Ergebnis
+des Abgleichs und das Löschen von Daten sind in der Asylakte zu
+dokumentieren.
+
+(5) Bei jeder Maßnahme nach Absatz 1 sind die Bezeichnung der
+eingesetzten automatisierten Anwendung zur Datenverarbeitung, der
+Zeitpunkt ihres Einsatzes, die Organisationseinheit und die Person,
+die die Maßnahme durchführen, zu protokollieren. Nach Beendigung einer
+Maßnahme nach Absatz 1 ist die Stelle zu unterrichten, die für die
+Kontrolle der Einhaltung der Vorschriften über den Datenschutz bei
+öffentlichen Stellen zuständig ist.
+
+(6) Die betroffene Person ist über den Zweck, den Umfang und die
+Durchführung des biometrischen Abgleichs vorab in verständlicher Weise
+zu informieren. Bestehen auf Grund der Maßnahme nach Absatz 1
+Anhaltspunkte, dass die betroffene Person die erforderlichen Angaben
+zu ihrer Identität nicht, nicht richtig oder nicht vollständig gemacht
+hat, ist diese hierzu anzuhören.
+
+(7) Durch geeignete technische und organisatorische Maßnahmen ist
+sicherzustellen, dass kein unberechtigter Zugriff auf die erhobenen
+Daten erfolgt und insbesondere der Herkunftsstaat des Ausländers sowie
+Drittstaaten, in denen der Ausländer eine Verfolgung oder einen
+ernsthaften Schaden zu befürchten hat, keine Kenntnis über die
+Maßnahme nach Absatz 1 erlangen.
+
+(8) Für die in den Absätzen 1 bis 7 genannten Maßnahmen ist das
+Bundesamt zuständig. Es hat dabei sicherzustellen, dass
+diskriminierende Algorithmen weder herausgebildet noch verwendet
+werden. Soweit technisch möglich, muss die Nachvollziehbarkeit des
+verwendeten Verfahrens sichergestellt werden.
+
+(9) Soweit zur Durchführung des Abgleichs nach Absatz 1 Dritte im Wege
+der Auftragsverarbeitung für das Bundesamt tätig werden, müssen diese
+ihren Sitz in der Europäischen Union oder einem Schengen-assoziierten
+Staat haben. Die Übermittlung personenbezogener Daten zur Durchführung
+der Maßnahme nach Absatz 1 ist nur innerhalb der Europäischen Union,
+einschließlich der Schengen-assoziierten Staaten, zulässig. Die
+Weiterverarbeitung durch Dritte von personenbezogenen Daten, die aus
+Maßnahmen nach Absatz 1 erlangt wurden, ist ausgeschlossen.
+Personenbezogene Daten werden nur an solche Personen übermittelt, die
+Amtsträger oder für den öffentlichen Dienst besonders Verpflichtete
+sind oder die zur Geheimhaltung verpflichtet worden sind. § 1 Absatz
+2, 3 und 4 Nummer 1 des Verpflichtungsgesetzes ist auf die
+Verpflichtung zur Geheimhaltung entsprechend anzuwenden. Durch
+organisatorische und technische Maßnahmen ist zu gewährleisten, dass
+die Daten gegen unbefugte Kenntnisnahme geschützt sind.
+
+(10) Die oder der Bundesbeauftragte für den Datenschutz und die
+Informationsfreiheit führt Kontrollen bezüglich der Datenverarbeitung
+der Maßnahme nach Absatz 1 Satz 1 mindestens alle zwei Jahre durch.
+
+(11) Die Bundesregierung bestimmt vor dem Einsatz von Maßnahmen nach
+Absatz 1 durch Rechtsverordnung ohne Zustimmung des Bundesrates nach
+Anhörung der oder des Bundesbeauftragten für den Datenschutz und die
+Informationsfreiheit das Nähere zu dem technischen Verfahren, den
+Sicherungsmaßnahmen zur Verhinderung unbefugter Datenzugriffe und,
+soweit eine Speicherung der abzugleichenden, allgemein öffentlich
+zugänglichen Lichtbild- und Videodateien für die Durchführung von
+Maßnahmen nach Absatz 1 technisch erforderlich ist, nähere Vorgaben zu
+Art, Umfang und Dauer. In der Rechtsverordnung nach Satz 1 bestimmt
+sie insbesondere
+
+1.  Eingabe- und Zugangsberechtigung,
+
+
+2.  Speicher- und Löschfristen,
+
+
+3.  Art der zu speichernden Daten,
+
+
+4.  Personenkreis, der von der Speicherung betroffen ist,
+
+
+5.  Dauer der Speicherung,
+
+
+6.  Protokollierung.
+
+
+
+
+
 #### § 16 Sicherung, Feststellung und Überprüfung der Identität
 
 (1) Die Identität eines Ausländers, der um Asyl nachsucht, ist durch
@@ -1247,14 +1390,14 @@ behandeln.
 
 #### § 18a Verfahren bei Einreise auf dem Luftwege
 
-(1) Bei Ausländern aus einem sicheren Herkunftsstaat (§ 29a), die über
-einen Flughafen einreisen wollen und bei der Grenzbehörde um Asyl
-nachsuchen, ist das Asylverfahren vor der Entscheidung über die
-Einreise durchzuführen, soweit die Unterbringung auf dem
-Flughafengelände während des Verfahrens möglich oder lediglich wegen
-einer erforderlichen stationären Krankenhausbehandlung nicht möglich
-ist. Das Gleiche gilt für Ausländer, die bei der Grenzbehörde auf
-einem Flughafen um Asyl nachsuchen und sich dabei nicht mit einem
+(1) Bei Ausländern aus einem sicheren Herkunftsstaat (§ 29a oder §
+29b), die über einen Flughafen einreisen wollen und bei der
+Grenzbehörde um Asyl nachsuchen, ist das Asylverfahren vor der
+Entscheidung über die Einreise durchzuführen, soweit die Unterbringung
+auf dem Flughafengelände während des Verfahrens möglich oder lediglich
+wegen einer erforderlichen stationären Krankenhausbehandlung nicht
+möglich ist. Das Gleiche gilt für Ausländer, die bei der Grenzbehörde
+auf einem Flughafen um Asyl nachsuchen und sich dabei nicht mit einem
 gültigen Pass oder Passersatz ausweisen. Dem Ausländer ist
 unverzüglich Gelegenheit zur Stellung des Asylantrags bei der
 Außenstelle des Bundesamtes zu geben, die der Grenzkontrollstelle
@@ -1697,12 +1840,13 @@ Geschwister des minderjährigen Asylberechtigten gilt Satz 1 Nummer 1
 bis 4 entsprechend.
 
 (4) Die Absätze 1 bis 3 gelten nicht für Familienangehörige im Sinne
-dieser Absätze, die die Voraussetzungen des § 60 Absatz 8 Satz 1 des
-Aufenthaltsgesetzes oder des § 3 Absatz 2 erfüllen oder bei denen das
-Bundesamt nach § 60 Absatz 8 Satz 3 des Aufenthaltsgesetzes von der
-Anwendung des § 60 Absatz 1 des Aufenthaltsgesetzes abgesehen hat. Die
-Absätze 2 und 3 gelten nicht für Kinder eines Ausländers, der selbst
-nach Absatz 2 oder Absatz 3 als Asylberechtigter anerkannt worden ist.
+dieser Absätze, die die Voraussetzungen des § 60 Absatz 8 Nummer 2
+oder 3 des Aufenthaltsgesetzes oder des § 3 Absatz 2 erfüllen oder bei
+denen das Bundesamt nach § 60 Absatz 8a oder 8b des
+Aufenthaltsgesetzes von der Anwendung des § 60 Absatz 1 des
+Aufenthaltsgesetzes abgesehen hat. Die Absätze 2 und 3 gelten nicht
+für Kinder eines Ausländers, der selbst nach Absatz 2 oder Absatz 3
+als Asylberechtigter anerkannt worden ist.
 
 (5) Auf Familienangehörige im Sinne der Absätze 1 bis 3 von
 international Schutzberechtigten sind die Absätze 1 bis 4 entsprechend
@@ -1859,15 +2003,14 @@ Absatz 1a dafür geschulten Bediensteten anderer Behörden übertragen
 werden.
 
 
-#### § 29a Sicherer Herkunftsstaat; Bericht; Verordnungsermächtigung
+#### § 29a Sichere Herkunftsstaaten im Sinne des Artikels 16a Absatz 3 des Grundgesetzes; Bericht; Verordnungsermächtigung
 
 (1) Der Asylantrag eines Ausländers aus einem Staat im Sinne des
-Artikels 16a Abs. 3 Satz 1 des Grundgesetzes (sicherer Herkunftsstaat)
-ist als offensichtlich unbegründet abzulehnen, es sei denn, die von
-dem Ausländer angegebenen Tatsachen oder Beweismittel begründen die
-Annahme, dass ihm abweichend von der allgemeinen Lage im
-Herkunftsstaat Verfolgung im Sinne des § 3 Absatz 1 oder ein
-ernsthafter Schaden im Sinne des § 4 Absatz 1 droht.
+Artikels 16a Abs. 3 Satz 1 des Grundgesetzes ist als offensichtlich
+unbegründet abzulehnen, es sei denn, die von dem Ausländer angegebenen
+Tatsachen oder Beweismittel begründen die Annahme, dass ihm abweichend
+von der allgemeinen Lage im Herkunftsstaat Verfolgung im Sinne des § 3
+Absatz 1 oder ein ernsthafter Schaden im Sinne des § 4 Absatz 1 droht.
 
 (2) Sichere Herkunftsstaaten sind die Mitgliedstaaten der Europäischen
 Union und die in Anlage II bezeichneten Staaten.
@@ -1884,6 +2027,56 @@ rechtlichen oder politischen Verhältnissen dieses Staates die Annahme
 begründen, dass die in Artikel 16a Abs. 3 Satz 1 des Grundgesetzes
 bezeichneten Voraussetzungen entfallen sind. Die Verordnung tritt
 spätestens sechs Monate nach ihrem Inkrafttreten außer Kraft.
+
+
+#### § 29b Sichere Herkunftsstaaten im Sinne der Richtlinie 2013/32/EU; Verordnungsermächtigung
+
+(1) Die Bundesregierung kann durch Rechtsverordnung ohne Zustimmung
+des Bundesrates sichere Herkunftsstaaten im Sinne der Richtlinie
+2013/32/EU für den internationalen Schutz bestimmen, sofern sich
+anhand der dortigen Rechtslage, der Anwendung der Rechtsvorschriften
+in einem demokratischen System und der allgemeinen politischen Lage
+nachweisen lässt, dass dort weder eine Verfolgung noch Folter oder
+unmenschliche oder erniedrigende Behandlung oder Strafe noch Bedrohung
+infolge willkürlicher Gewalt im Rahmen eines internationalen oder
+innerstaatlichen bewaffneten Konflikts zu befürchten sind.
+
+(2) Die Bundesregierung berücksichtigt bei der Bestimmung nach Absatz
+1, inwieweit Schutz vor Verfolgung und Misshandlung geboten wird,
+insbesondere die einschlägigen Rechts- und Verwaltungsvorschriften des
+Staates und die Art und Weise ihrer Anwendung, die Wahrung der
+Menschenrechte, insbesondere die Einhaltung des Grundsatzes der Nicht-
+Zurückweisung nach dem Abkommen vom 28. Juli 1951 über die
+Rechtsstellung der Flüchtlinge (BGBl. 1953 II S. 559, 560) und die
+Möglichkeit eines wirksamen Rechtsbehelfs bei Verletzung dieser
+Rechte.
+
+(3) In Bezug auf den internationalen Schutz im Sinne des § 1 Absatz 1
+Nummer 2 ist der Asylantrag eines Ausländers aus einem Staat im Sinne
+des Absatzes 1 als offensichtlich unbegründet abzulehnen, es sei denn,
+die von dem Ausländer angegebenen Tatsachen oder Beweismittel
+begründen die Annahme, dass ihm abweichend von der allgemeinen Lage im
+Herkunftsstaat Verfolgung im Sinne des § 3 Absatz 1 oder ein
+ernsthafter Schaden im Sinne des § 4 Absatz 1 droht.
+
+(4) Die Bundesregierung teilt der Europäischen Kommission die Aufnahme
+eines Staates in die Rechtsverordnung nach Absatz 1 oder dessen
+Streichung mit.
+
+(5) Die Bundesregierung legt dem Deutschen Bundestag alle zwei Jahre
+erstmals zum 12. Juni 2027 einen Bericht darüber vor, ob die
+Voraussetzungen für die Bestimmung weiterhin vorliegen, soweit die
+sicheren Herkunftsstaaten nicht auch nach Artikel 62 Absatz 1 der
+Verordnung (EU) 2024/1348 bestimmt wurden.
+
+(6) Die Bundesregierung soll in der Rechtsverordnung die Anwendung des
+§ 61 Absatz 2 Satz 4 und des § 60a Absatz 6 Satz 1 Nummer 3 des
+Aufenthaltsgesetzes auf Ausländer aus einem sicheren Herkunftsstaat
+nach Absatz 1 ausschließen, die bis zum Zeitpunkt der Aufnahme des
+Herkunftsstaates in die Rechtsverordnung einen Asylantrag gestellt
+haben oder die sich bis zum Zeitpunkt der Aufnahme dieses
+Herkunftsstaates in die Rechtsverordnung geduldet in Deutschland
+aufgehalten haben, ohne einen Asylantrag gestellt zu haben.
 
 
 #### § 30 Offensichtlich unbegründete Asylanträge
@@ -1962,7 +2155,8 @@ keine Anwendung.
 einer besonderen Aufnahmeeinrichtung (§ 5 Absatz 5) zugeordnet ist,
 beschleunigt durchführen, wenn der Ausländer
 
-1.  Staatsangehöriger eines sicheren Herkunftsstaates (§ 29a) ist,
+1.  Staatsangehöriger eines sicheren Herkunftsstaates (§ 29a oder § 29b)
+    ist,
 
 
 2.  die Behörden durch falsche Angaben oder Dokumente oder durch
@@ -2034,7 +2228,7 @@ bis zum Vollzug der Abschiebungsandrohung oder -anordnung bei
     a)  nach § 29 Absatz 1 Nummer 4 als unzulässig,
 
 
-    b)  nach § 29a oder § 30 als offensichtlich unbegründet oder
+    b)  nach den §§ 29a, 29b oder 30 als offensichtlich unbegründet oder
 
 
     c)  im Fall des § 71 Absatz 4.
@@ -2587,15 +2781,15 @@ Eltern oder anderen Sorgeberechtigten sowie ihren volljährigen,
 ledigen Geschwistern. Die §§ 48 bis 50 bleiben unberührt.
 
 (1a) Abweichend von Absatz 1 sind Ausländer aus einem sicheren
-Herkunftsstaat (§ 29a) verpflichtet, bis zur Entscheidung des
-Bundesamtes über den Asylantrag und im Falle der Ablehnung des
-Asylantrags nach § 29a als offensichtlich unbegründet oder nach § 29
-Absatz 1 Nummer 1 als unzulässig bis zur Ausreise oder bis zum Vollzug
-der Abschiebungsandrohung oder -anordnung in der für ihre Aufnahme
-zuständigen Aufnahmeeinrichtung zu wohnen. Satz 1 gilt nicht bei
-minderjährigen Kindern und ihren Eltern oder anderen Sorgeberechtigten
-sowie ihren volljährigen, ledigen Geschwistern. Die §§ 48 bis 50
-bleiben unberührt.
+Herkunftsstaat (§ 29a oder § 29b) verpflichtet, bis zur Entscheidung
+des Bundesamtes über den Asylantrag und im Falle der Ablehnung des
+Asylantrags nach § 29a oder § 29b als offensichtlich unbegründet oder
+nach § 29 Absatz 1 Nummer 1 als unzulässig bis zur Ausreise oder bis
+zum Vollzug der Abschiebungsandrohung oder -anordnung in der für ihre
+Aufnahme zuständigen Aufnahmeeinrichtung zu wohnen. Satz 1 gilt nicht
+bei minderjährigen Kindern und ihren Eltern oder anderen
+Sorgeberechtigten sowie ihren volljährigen, ledigen Geschwistern. Die
+§§ 48 bis 50 bleiben unberührt.
 
 (1b) Die Länder können regeln, dass Ausländer abweichend von Absatz 1
 verpflichtet sind, bis zur Entscheidung des Bundesamtes über den
@@ -3020,7 +3214,7 @@ darf der Ausländer keine Erwerbstätigkeit ausüben. Abweichend von Satz
 
 
 3.  der Ausländer nicht Staatsangehöriger eines sicheren Herkunftsstaates
-    (§ 29a) ist und
+    (§ 29a oder § 29b) ist und
 
 
 4.  der Asylantrag nicht als offensichtlich unbegründet oder als
@@ -3074,10 +3268,10 @@ ohne Zustimmung der Bundesagentur für Arbeit zulässig ist. Ein
 geduldeter oder rechtmäßiger Voraufenthalt wird auf die Wartezeit nach
 Satz 1 angerechnet. Die §§ 39, 40 Absatz 1 Nummer 1 und Absatz 2 und
 die §§ 41 und 42 des Aufenthaltsgesetzes gelten entsprechend. Einem
-Ausländer aus einem sicheren Herkunftsstaat gemäß § 29a, der nach dem
-31\. August 2015 einen Asylantrag gestellt hat, darf während des
-Asylverfahrens die Ausübung einer Beschäftigung nicht erlaubt werden.
-Absatz 1 Satz 2 bleibt unberührt.
+Ausländer aus einem sicheren Herkunftsstaat gemäß § 29a oder § 29b,
+der nach dem 31. August 2015 einen Asylantrag gestellt hat, darf
+während des Asylverfahrens die Ausübung einer Beschäftigung nicht
+erlaubt werden. Absatz 1 Satz 2 bleibt unberührt.
 
 
 ### § 62 Gesundheitsuntersuchung
@@ -3614,6 +3808,15 @@ nicht mehr vorliegen. Die Feststellung eines Abschiebungsverbots nach
 § 60 Absatz 5 oder 7 des Aufenthaltsgesetzes ist zurückzunehmen, wenn
 sie fehlerhaft ist.
 
+(7) Reist der Ausländer in den Staat, dessen Staatsangehörigkeit er
+besitzt oder wenn er staatenlos ist, in den Staat, in dem er seinen
+gewöhnlichen Aufenthalt hatte, wird vermutet, dass die Voraussetzungen
+für die Asylberechtigung, die Zuerkennung des internationalen Schutzes
+oder die Feststellung eines Abschiebungsverbotes nach § 60 Absatz 5
+oder Absatz 7 des Aufenthaltsgesetzes nicht mehr vorliegen. Die
+Vermutung nach Satz 1 gilt nicht, wenn die Reise sittlich zwingend
+geboten ist.
+
 
 ### § 73a Gründe für einen Widerruf von Familienasyl und internationalem Schutz für Familienangehörige
 
@@ -3783,13 +3986,13 @@ Flüchtlingseigenschaft widerrufen oder zurückgenommen worden ist, hat
 in folgenden Fällen keine aufschiebende Wirkung:
 
 1.  bei Widerruf oder Rücknahme wegen des Vorliegens der Voraussetzungen
-    des § 60 Absatz 8 Satz 1 des Aufenthaltsgesetzes oder des § 3 Absatz
-    2,
+    des § 60 Absatz 8 Nummer 2 oder 3 des Aufenthaltsgesetzes oder des § 3
+    Absatz 2,
 
 
-2.  bei Widerruf oder Rücknahme, weil das Bundesamt nach § 60 Absatz 8
-    Satz 3 des Aufenthaltsgesetzes von der Anwendung des § 60 Absatz 1 des
-    Aufenthaltsgesetzes abgesehen hat.
+2.  bei Widerruf oder Rücknahme, weil das Bundesamt nach § 60 Absatz 8a
+    oder 8b des Aufenthaltsgesetzes von der Anwendung des § 60 Absatz 1
+    des Aufenthaltsgesetzes abgesehen hat.
 
 
 
@@ -3858,6 +4061,16 @@ ist, eine Abschrift des neuen Verwaltungsakts. Nimmt der Kläger die
 Klage daraufhin unverzüglich zurück, trägt das Bundesamt die Kosten
 des Verfahrens. Unterliegt der Kläger ganz oder teilweise, entscheidet
 das Gericht nach billigem Ermessen.
+
+(5) Hält ein Gericht die Bestimmung eines sicheren Herkunftsstaates
+durch eine Rechtsverordnung nach § 29b, auf deren Gültigkeit es bei
+der Entscheidung ankommt, für rechtswidrig, so ist das Klageverfahren
+auszusetzen und die Entscheidung des Bundesverwaltungsgerichts
+einzuholen. § 47 Absatz 5 Satz 1 und 2 der Verwaltungsgerichtsordnung
+findet entsprechende Anwendung. Das Bundesverwaltungsgericht kann von
+Amts wegen oder auf Antrag der Beteiligten eine einstweilige Anordnung
+erlassen, wenn dies zur Abwehr schwerer Nachteile oder aus anderen
+wichtigen Gründen dringend geboten ist.
 
 
 ### § 78 Rechtsmittel
@@ -4398,12 +4611,13 @@ für die Durchführung von Asylverfahren bestimmen, insbesondere für
 
 
 
-(2) Das Bundesministerium des Innern, für Bau und Heimat wird
-ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
-Vordruckmuster und Ausstellungsmodalitäten sowie die Regelungen für
-die Qualitätssicherung der erkennungsdienstlichen Behandlung und die
-Übernahme von Daten aus erkennungsdienstlichen Behandlungen für die
-Bescheinigungen nach den §§ 63 und 63a festzulegen.
+(2) Das Bundesministerium des Innern und für Heimat wird ermächtigt,
+durch Rechtsverordnung mit Zustimmung des Bundesrates Regelungen für
+die Qualitätssicherung der nach § 16 verarbeiteten Lichtbilder,
+Fingerabdruckdaten, ausländischen Ausweis- oder
+Identifikationsdokumente sowie für die Vordruckmuster und die
+Ausstellungsmodalitäten für die Bescheinigungen nach den §§ 63 und 63a
+(Dokumentationspflichten des Ankunftsnachweises) festzulegen.
 
 (3) Die Landesregierung kann durch Rechtsverordnung Aufgaben der
 Aufnahmeeinrichtung auf andere Stellen des Landes übertragen.

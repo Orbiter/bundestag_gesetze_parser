@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1953, 591
 
 Neugefasst durch
-:   Bek. v. 16. 3.1976 I 546;
+:   Bek. v. 16.3.1976 I 546;
 
 Zuletzt geändert durch
 :   Art. 17 G v. 19.12.2008 I 2794
@@ -238,7 +238,7 @@ bis 14 zu ermitteln.
 
 (1) Für die Ermittlung der Beteiligten sind die Eintragungen im
 Grundbuch maßgebend. Die Flurbereinigungsbehörde kann das Eigentum
-oder andere Recht an Grundstücken für das Verfahren als nachgewiesen
+oder andere Rechte an Grundstücken für das Verfahren als nachgewiesen
 ansehen, wenn derjenige, der sich auf ein solches Recht beruft, es
 durch eine öffentliche Urkunde glaubhaft macht oder eine Bescheinigung
 der Gemeinde vorlegt, daß er das Grundstück wie ein Eigentümer besitzt

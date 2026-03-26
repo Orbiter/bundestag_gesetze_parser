@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1988, 530
 
 Zuletzt geändert durch
-:   Art. 10 G v. 2.3.2023 I Nr. 56
+:   Art. 27 G v. 15.7.2024 I Nr. 236
 
 
 ## Eingangsformel
@@ -372,8 +372,8 @@ Zeitpunkt erneut Meldungen abzugeben sind.
         Bundespolizei,
 
         das Bundesministerium für Wirtschaft und Energie für die Unternehmen,
-        die gemäß § 1 des Postsicherstellungsgesetzes oder Teil 10 Abschnitt 2
-        des Telekommunikationsgesetzes verpflichtet sind, sowie für die
+        die gemäß Kapitel 12 des Postgesetzes oder Teil 10 Abschnitt 2 des
+        Telekommunikationsgesetzes verpflichtet sind, sowie für die
         Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und
         Eisenbahnen,
 

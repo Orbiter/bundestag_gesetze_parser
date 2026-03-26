@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2016, 329
 
+Geändert durch
+:   Art. 2 V v. 18.9.2024 I Nr. 286
+
 
 ## § 1 Anwendungsbereich
 
@@ -31,13 +34,18 @@ der Wasser- und Schifffahrtsverwaltung des Bundes.
 1.  Hafenbetriebe,
 
 
-2.  Schiffsmeldedienste und
+2.  Schiffsmeldedienste,
 
 
 3.  für die Hafenwirtschaft tätige Dienstleister, insbesondere
     Schlepperbetriebe, Terminal- und Kaibetreiber, Festmacherbetriebe,
     Speditionen, Transportbetriebe, Schiffsausrüster, Schiffsmakler,
-    Reparaturbetriebe sowie weitere Servicebetriebe.
+    Reparaturbetriebe sowie weitere Servicebetriebe,
+
+
+4.  Einrichtungen, die Forschungsvorhaben durchführen, die von
+    öffentlichen Stellen beauftragt sind oder die im öffentlichen
+    Interesse liegen.
 
 
 
@@ -51,27 +59,39 @@ der in § 1 Absatz 3 genannten nichtöffentlichen Stellen auf deren
 Ersuchen übermitteln. Die Verantwortung für die Zulässigkeit der
 Übermittlung der Daten trägt die datenerhebende Stelle.
 
-(2) Die Übermittlung der Daten darf nur erfolgen, wenn dies der
-Erhaltung der Leistungsfähigkeit des deutschen Seehafens dient, für
-den die nichtöffentliche Stelle tätig ist. Die Leistungsfähigkeit
-eines Seehafens wird erhalten, wenn die übermittelten Daten zur
-Unterstützung des Hafenmanagements einschließlich der
-Anschlusslogistik oder zur besseren Organisation des Schiffsverkehrs
-im Hafen eingesetzt werden oder der sicheren Behandlung von Schiffen
-mit gefährlicher Ladung dienen.
+(2) Die Übermittlung der Daten an die in § 1 Absatz 3 Nummern 1 bis 3
+genannten Stellen darf nur erfolgen, wenn sie der Erhaltung der
+Leistungsfähigkeit des deutschen Seehafens dient, für den die
+nichtöffentliche Stelle tätig ist. Die Leistungsfähigkeit eines
+Seehafens wird erhalten, wenn die übermittelten Daten
+
+1.  zur Unterstützung des Hafenmanagements, einschließlich der
+    Anschlusslogistik oder zur besseren Organisation des Schiffsverkehrs
+    im Hafen eingesetzt werden, oder
+
+
+2.  der sicheren Behandlung von Schiffen mit gefährlicher Ladung dienen.
+
+
+
+Die Übermittlung der Daten an die in § 1 Absatz 3 Nummer 4 genannten
+Stellen darf nur erfolgen, wenn sie einem Forschungsvorhaben dient,
+dessen Ergebnisse der Erledigung von Aufgaben des Bundes gemäß § 1 des
+Seeaufgabengesetzes dienen sollen.
 
 (3) Die datenerhebende Stelle hat die nichtöffentliche Stelle bei der
 Übermittlung darauf hinzuweisen, dass eine Nutzung der Daten für einen
 anderen Zweck als den, für den sie übermittelt worden sind, unzulässig
 ist.
 
-(4) Die Übermittlung von personenbezogenen Daten nach Absatz 1 ist
-ausgeschlossen, wenn der Betroffene ein schutzwürdiges Interesse an
-dem Ausschluss der Übermittlung hat. Zur Ermöglichung der
-Geltendmachung eines schutzwürdigen Interesses an dem Ausschluss der
-Übermittlung, ist der Betroffene vor einer beabsichtigten Übermittlung
-der Daten von der datenerhebenden Stelle rechtzeitig zu
-benachrichtigen.
+(4) Die Übermittlung von personenbezogenen Daten nach Absatz 1 darf
+nur erfolgen, wenn sie zu den in Absatz 2 genannten Zwecken
+erforderlich ist. Sie ist ausgeschlossen, wenn die betroffene Person
+ein schutzwürdiges Interesse an dem Ausschluss der Übermittlung hat.
+Zur Ermöglichung der Geltendmachung eines schutzwürdigen Interesses an
+dem Ausschluss der Übermittlung ist die betroffene Person von einer
+beabsichtigten Übermittlung der Daten von der datenerhebenden Stelle
+rechtzeitig zu benachrichtigen.
 
 (5) Im Falle einer nachweislich zweckwidrigen Nutzung übermittelter
 Daten durch eine nichtöffentliche Stelle ist diese von der weiteren

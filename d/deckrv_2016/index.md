@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2016, 767
 
 Zuletzt geändert durch
-:   Art. 1 V v. 22.4.2021 I 842
+:   Art. 1 V v. 19.7.2024 I Nr. 250
 
 
 ## Eingangsformel
@@ -67,7 +67,7 @@ aufsichtsbehördlich genehmigten Tarife zugrunde liegen.
 (1) Bei Versicherungsverträgen mit Zinsgarantie, die auf Euro oder die
 nationale Währungseinheit eines an der Europäischen Wirtschafts- und
 Währungsunion teilnehmenden Mitgliedstaates lauten, wird der
-Höchstzinssatz für die Berechnung der Deckungsrückstellungen auf 0,25
+Höchstzinssatz für die Berechnung der Deckungsrückstellungen auf 1
 Prozent festgesetzt. Bei Verträgen, die auf andere Währungen lauten,
 setzt die Bundesanstalt für Finanzdienstleistungsaufsicht den
 Höchstzinssatz unter Berücksichtigung der Festlegungen dieser

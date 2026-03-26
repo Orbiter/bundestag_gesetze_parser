@@ -1,5 +1,5 @@
 ---
-Title: Gesetz über den Ladenschluß
+Title: Gesetz über den Ladenschluss
 jurabk: LadSchlG
 layout: default
 origslug: ladschlg
@@ -7,7 +7,7 @@ slug: ladschlg
 
 ---
 
-# Gesetz über den Ladenschluß (LadSchlG)
+# Gesetz über den Ladenschluss (LadSchlG)
 
 Ausfertigungsdatum
 :   1956-11-28
@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1956, 875
 
 Neugefasst durch
-:   Bek. v. 2. 6.2003 I 744;
+:   Bek. v. 2.6.2003 I 744;
 
 Zuletzt geändert durch
 :   Art. 430 V v. 31.8.2015 I 1474

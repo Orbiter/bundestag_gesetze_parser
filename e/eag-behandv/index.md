@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2021, 1841
 
+Geändert durch
+:   Art. 9 Abs. 6 G v. 30.9.2025 I Nr. 233
+
 [^F817032_01_BJNR184100021]:     Diese Verordnung dient der Umsetzung der Richtlinie 2012/19/EU des
     Europäischen Parlaments und des Rates vom 4. Juli 2012 über Elektro-
     und Elektronik-Altgeräte (ABl. L 197 vom 24.7.2012, S. 38).
@@ -258,11 +261,11 @@ Verteilung von staubförmigen Emissionen zu vermeiden.
 Vorbereitung zur Wiederverwendung zuzuführen oder zu recyceln.
 
 (2) Wenn eine Behandlung nach Absatz 1 nicht möglich oder zulässig
-ist, sind die entfernten Bauteile, Gemische und Stoffe in sonstiger
-Weise zu verwerten oder zu beseitigen, sofern diese Verordnung, das
-Batteriegesetz vom 25. Juni 2009 (BGBl. I S. 1582), das zuletzt durch
-Artikel 1 des Gesetzes vom 3. November 2020 (BGBl. I S. 2280) geändert
-worden ist, in der jeweils geltenden Fassung oder andere
+ist, sind die entfernten Bauteile, Gemische oder Stoffe in sonstiger
+Weise zu verwerten oder zu beseitigen, sofern diese Verordnung,
+Kapitel VIII der Verordnung (EU) 2023/1542 in der Fassung vom 12. Juli
+2023, das Batterierecht-Durchführungsgesetz vom 30. September 2025
+(BGBl. 2025 I Nr. 233) in der jeweils geltenden Fassung oder andere
 Rechtsvorschriften keine anderslautenden Anforderungen an die
 selektive Behandlung von diesen Bauteilen, Gemischen oder Stoffen
 stellen.

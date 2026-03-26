@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1981, 1457
 
 Zuletzt geändert durch
-:   Art. 5 G v. 20.5.2021 I 1194
+:   Art. 11 G v. 23.10.2024 I Nr. 324
 
 
 ## Eingangsformel
@@ -31,12 +31,17 @@ verordnet die Bundesregierung mit Zustimmung des Bundesrates:
 
 Die nach den §§ 23a, 23d und 24 des Atomgesetzes zuständigen Behörden
 erheben Kosten (Gebühren und Auslagen) nach § 21 des Atomgesetzes und
-nach dieser Verordnung. Die nach § 81 Satz 3, den §§ 184, 185, 186,
-187, 189 und 190 des Strahlenschutzgesetzes zuständigen Behörden
-erheben Kosten nach § 183 des Strahlenschutzgesetzes und nach dieser
+nach dieser Verordnung. Die nach § 81 Satz 3 des
+Strahlenschutzgesetzes und den §§ 184, 185, 186, 187, 189, 190 und
+190a des Strahlenschutzgesetzes zuständigen Behörden sowie die nach §
+184a des Strahlenschutzgesetzes zuständige Ethik-Kommission erheben
+Kosten nach § 183 des Strahlenschutzgesetzes und nach dieser
 Verordnung. Ergänzend gelten die Vorschriften des
 Verwaltungskostengesetzes in der bis zum 14. August 2013 geltenden
-Fassung.
+Fassung. § 8 des Verwaltungskostengesetzes in der bis zum 14. August
+2013 geltenden Fassung gilt nicht, wenn die nach § 184a des
+Strahlenschutzgesetzes zuständige Ethik-Kommission oder die nach
+§ 190a des Strahlenschutzgesetzes zuständige Behörde Kosten erhebt.
 
 
 ## § 2 Höhe der Gebühren
@@ -105,9 +110,21 @@ werden.
     Strahlenschutzgesetzes 50 Euro bis 50 000 Euro;
 
 
+1a. für die Erstellung der Stellungnahme nach § 36 des
+    Strahlenschutzgesetzes durch die nach § 184a des
+    Strahlenschutzgesetzes zuständige Ethik-Kommission 100 bis 18 000
+    Euro;
+
+
+1b. für wissenschaftliche Beratungen des Bundesamtes für Strahlenschutz im
+    Vorfeld der Stellung eines Antrags auf Genehmigung von Anwendungen
+    radioaktiver Stoffe oder ionisierender Strahlung am Menschen zum Zweck
+    der medizinischen Forschung 1 000 bis 18 000 Euro;
+
+
 2.  für sonstige Amtshandlungen einschließlich Prüfungen und
     Untersuchungen des Bundesamtes für Strahlenschutz, soweit es nach §
-    185 Absatz 1 Nummer 1 bis 8 und Absatz 2 Nummer 5 und 6 des
+    185 Absatz 1 Nummer 1, 3 bis 6 und 8 und Absatz 2 Nummer 5 und 6 des
     Strahlenschutzgesetzes zuständig ist, 50 Euro bis 2 Millionen Euro;
 
 
@@ -130,7 +147,12 @@ werden.
 
 6.  für Entscheidungen des Eisenbahn-Bundesamtes über Anträge nach § 27
     Absatz 1 des Strahlenschutzgesetzes, soweit es nach § 190 Satz 1 des
-    Strahlenschutzgesetzes zuständig ist, 50 Euro bis 25 000 Euro.
+    Strahlenschutzgesetzes zuständig ist, 50 Euro bis 25 000 Euro;
+
+
+7.  für Amtshandlungen des Bundesinstituts für Arzneimittel und
+    Medizinprodukte und des Paul-Ehrlich-Instituts, soweit diese nach §
+    190a des Strahlenschutzgesetzes zuständig sind, 100 bis 18 000 Euro.
 
 
 

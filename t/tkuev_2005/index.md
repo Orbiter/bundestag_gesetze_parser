@@ -20,7 +20,7 @@ Neugefasst durch
 :   Bek. v. 11.7.2017 I 2316;
 
 Zuletzt geändert durch
-:   Art. 6 Abs. 3 G v. 5.7.2021 I 2274
+:   Art. 11 G v. 9.1.2026 I Nr. 7
 
 Notifiziert gemäß der Richtlinie (EU) 2015/1535 des Europäischen
 Parlaments und des Rates vom 9. September 2015 über ein
@@ -116,9 +116,9 @@ Im Sinne dieser Verordnung ist
 
     b)  im Sinne des Teils 4 die Anordnung zur Erteilung von Auskünften über
         Verkehrsdaten nach § 100g in Verbindung mit § 101a Absatz 1 der
-        Strafprozessordnung, § 8a Absatz 1 Satz 1 Nummer 4 des
-        Bundesverfassungsschutzgesetzes, auch in Verbindung mit § 4a des MAD-
-        Gesetzes oder § 3 des BND-Gesetzes, § 52 des
+        Strafprozessordnung, § 20 Absatz 1 Satz 1 Nummer 5 des MAD-Gesetzes, §
+        8a Absatz 1 Satz 1 Nummer 4 des Bundesverfassungsschutzgesetzes, auch
+        in Verbindung mit § 3 des BND-Gesetzes, § 52 des
         Bundeskriminalamtgesetzes, § 77 des Zollfahndungsdienstgesetzes oder
         nach Landesrecht;
 
@@ -154,14 +154,14 @@ Im Sinne dieser Verordnung ist
     b)  im Sinne des Teils 4 die Stelle,
 
         aa) die nach § 101a Absatz 1 in Verbindung mit § 100a Absatz 4 Satz 1 der
-            Strafprozessordnung, § 8a Absatz 1 Satz 1 Nummer 4 des
-            Bundesverfassungsschutzgesetzes, auch in Verbindung mit § 4a des MAD-
-            Gesetzes oder § 3 des BND-Gesetzes, § 52 des
+            Strafprozessordnung, § 20 Absatz 1 Satz 1 Nummer 5 des MAD-Gesetzes, §
+            8a Absatz 1 Satz 1 Nummer 4 des Bundesverfassungsschutzgesetzes, auch
+            in Verbindung mit § 3 des BND-Gesetzes, § 52 des
             Bundeskriminalamtgesetzes, § 77 des Zollfahndungsdienstgesetzes oder
             nach Landesrecht auf Grund der jeweiligen Anordnung berechtigt ist,
             Auskunftsverlangen über nach den §§ 9 und 12 des Telekommunikation-
-            Telemedien-Datenschutz-Gesetzes erhobene Verkehrsdaten zu stellen,
-            oder
+            Digitale-Dienste-Datenschutz-Gesetzes erhobene Verkehrsdaten zu
+            stellen, oder
 
 
         bb) der nach § 177 Absatz 1 Nummer 1 oder 2 des Telekommunikationsgesetzes
@@ -1872,7 +1872,7 @@ einzurichten. Zu protokollieren sind:
 
 
 4.  die Angabe der Rechtsvorschrift (§§ 9 oder 12 des Telekommunikation-
-    Telemedien-Datenschutz-Gesetzes oder § 176 des
+    Digitale-Dienste-Datenschutz-Gesetzes oder § 176 des
     Telekommunikationsgesetzes), auf deren Grundlage die beauskunfteten
     Verkehrsdaten gespeichert wurden,
 
@@ -1891,15 +1891,15 @@ einzurichten. Zu protokollieren sind:
 
 Die ermittelten Verkehrsdaten dürfen nicht protokolliert werden. Satz
 1 gilt nicht für betrieblich erforderliche Zugriffe auf Daten, die
-nach den §§ 9 oder 12 des Telekommunikation-Telemedien-Datenschutz-
-Gesetzes gespeichert werden. Die Angaben nach Satz 3 Nummer 6 dürfen
-ausschließlich bei auf tatsächlichen Anhaltspunkten beruhenden
-Untersuchungen zur Aufklärung von Missbrauchs- oder Fehlerfällen
-verwendet werden. Im Übrigen gelten für die Protokollierung sowie für
-die Prüfung und Löschung der dafür erzeugten Protokolldaten § 16
-Absatz 2 und § 17 entsprechend mit der Maßgabe, dass abweichend von §
-17 Absatz 1 Satz 3 fünf vom Hundert der gestellten Auskunftsverlangen
-einer Prüfung zu unterziehen sind.
+nach den §§ 9 oder 12 des Telekommunikation-Digitale-Dienste-
+Datenschutz-Gesetzes gespeichert werden. Die Angaben nach Satz 3
+Nummer 6 dürfen ausschließlich bei auf tatsächlichen Anhaltspunkten
+beruhenden Untersuchungen zur Aufklärung von Missbrauchs- oder
+Fehlerfällen verwendet werden. Im Übrigen gelten für die
+Protokollierung sowie für die Prüfung und Löschung der dafür erzeugten
+Protokolldaten § 16 Absatz 2 und § 17 entsprechend mit der Maßgabe,
+dass abweichend von § 17 Absatz 1 Satz 3 fünf vom Hundert der
+gestellten Auskunftsverlangen einer Prüfung zu unterziehen sind.
 
 
 ## Teil 5 - Ergänzende technische Festlegungen, Übergangsvorschriften, Schlussbestimmungen

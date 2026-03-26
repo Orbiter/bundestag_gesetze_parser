@@ -15,7 +15,7 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2015, 286
 
-Stand: Ersetzt GO 1104-1-4 v. 15.12.1986 I 2529 (BVerfGGO 1986)
+Stand: Ersetzt Geschäftsordnung 1104-1-4 v. 15.12.1986 I 2529 (BVerfGGO 1986)
 
 ## Inhalt
 

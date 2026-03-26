@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 13.9.1984 I 1213;
 
 Zuletzt geändert durch
-:   Art. 2 G v. 3.6.2021 I 1471
+:   Art. 72 Abs. 6 G v. 23.10.2024 I Nr. 323
 
 
 ## Erster Abschnitt - Allgemeine Bestimmungen
@@ -489,17 +489,14 @@ die Sicherheit der Schiffahrt erfordert.
 
 #### § 16
 
-(1) Untersagt ein Seeamt einer Seelotsin oder einem Seelotsen
-vorübergehend die Ausübung der Befugnisse eines in § 9 Absatz 2 Nummer
-1 oder Absatz 4 Nummer 1 oder 2 genannten Befähigungszeugnisses oder
-wird das Befähigungszeugnis von der ausstellenden Behörde
-vorübergehend entzogen, ruhend gestellt oder vorläufig sichergestellt,
-so ist der Inhaberin oder dem Inhaber die Berufsausübung als Seelotsin
-oder Seelotse nach Anhörung der Bundeslotsenkammer von der
-Aufsichtsbehörde vorübergehend zu untersagen. Die Dauer der
-Untersagung durch die Aufsichtsbehörde soll der vom Seeamt
-festgelegten Dauer und muss dem Zeitraum des Ruhens oder der
-Sicherstellung entsprechen.
+(1) Wird ein in § 9 Absatz 2 Nummer 1 oder Absatz 4 Nummer 1 oder 2
+genanntes Befähigungszeugnis von der zuständigen Behörde für eine
+bestimmte Zeit vorübergehend entzogen, ruhend gestellt oder vorläufig
+sichergestellt, so ist der Inhaberin oder dem Inhaber die
+Berufsausübung als Seelotsin oder Seelotse nach Anhörung der
+Bundeslotsenkammer von der Aufsichtsbehörde vorübergehend zu
+untersagen. Die Dauer der Untersagung durch die Aufsichtsbehörde muss
+dem Zeitraum des Ruhens oder der Sicherstellung entsprechen.
 
 (2) Wird durch eine Seelotseignungsuntersuchung festgestellt, dass
 eine Seelotsin oder ein Seelotse oder eine Seelotsenanwärterin oder

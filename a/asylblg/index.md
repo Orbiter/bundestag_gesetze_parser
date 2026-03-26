@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 5.8.1997 I 2022;
 
 Zuletzt geändert durch
-:   Art. 3 G v. 21.2.2024 I Nr. 54
+:   Art. 10 G v. 22.12.2025 I Nr. 363
 
 
 ## § 1 Leistungsberechtigte
@@ -124,33 +124,50 @@ Behandlung in den Sätzen 1 und 2 gilt nicht, soweit eine
 erkennungsdienstliche Behandlung nach § 49 des Aufenthaltsgesetzes
 nicht vorgesehen ist.
 
-(4) Leistungsberechtigte nach Absatz 1 Nummer 5, denen bereits von
-einem anderen Mitgliedstaat der Europäischen Union oder von einem am
-Verteilmechanismus teilnehmenden Drittstaat im Sinne von § 1a Absatz 4
-Satz 1 internationaler Schutz gewährt worden ist, haben keinen
-Anspruch auf Leistungen nach diesem Gesetz, wenn der internationale
-Schutz fortbesteht. Hilfebedürftigen Ausländern, die Satz 1
-unterfallen, werden bis zur Ausreise, längstens jedoch für einen
-Zeitraum von zwei Wochen, einmalig innerhalb von zwei Jahren nur
-eingeschränkte Hilfen gewährt, um den Zeitraum bis zur Ausreise zu
-überbrücken (Überbrückungsleistungen); die Zweijahresfrist beginnt mit
-dem Erhalt der Überbrückungsleistungen nach Satz 2. Hierüber und über
-die Möglichkeit der Leistungen nach Satz 6 sind die
+(4) Leistungsberechtigte nach Absatz 1 Nummer 5,
+
+1.  denen bereits von einem anderen Mitgliedstaat der Europäischen Union
+    oder von einem am Verteilmechanismus teilnehmenden Drittstaat im Sinne
+    von § 1a Absatz 4 Satz 1 internationaler Schutz gewährt worden ist,
+    der fortbesteht, oder
+
+
+2.  deren Asylantrag durch eine Entscheidung des Bundesamtes für Migration
+    und Flüchtlinge nach § 29 Absatz 1 Nummer 1 in Verbindung mit § 31
+    Absatz 6 des Asylgesetzes als unzulässig abgelehnt wurde, für die eine
+    Abschiebung nach § 34a Absatz 1 Satz 1 zweite Alternative des
+    Asylgesetzes angeordnet wurde und für die nach der Feststellung des
+    Bundesamtes für Migration und Flüchtlinge die Ausreise rechtlich und
+    tatsächlich möglich ist, auch wenn die Entscheidung noch nicht
+    unanfechtbar ist,
+
+
+
+haben keinen Anspruch auf Leistungen nach diesem Gesetz.
+Hilfebedürftigen Ausländern, die Satz 1 unterfallen, werden bis zur
+Ausreise, längstens jedoch für einen Zeitraum von zwei Wochen,
+einmalig innerhalb von zwei Jahren nur eingeschränkte Hilfen gewährt,
+um den Zeitraum bis zur Ausreise zu überbrücken
+(Überbrückungsleistungen); die Zweijahresfrist beginnt mit dem Erhalt
+der Überbrückungsleistungen nach Satz 2. Hierüber und über den
+Ausnahmecharakter von Härtefallleistungen nach Satz 6 sind die
 Leistungsberechtigten zu unterrichten. Die Überbrückungsleistungen
 umfassen die Leistungen nach § 1a Absatz 1 und nach § 4 Absatz 1 Satz
-1 und Absatz 2. Sie sollen als Sachleistung erbracht werden. Soweit
-dies im Einzelfall besondere Umstände erfordern, werden
-Leistungsberechtigten nach Satz 2 zur Überwindung einer besonderen
-Härte andere Leistungen nach den §§ 3, 4 und 6 gewährt; ebenso sind
-Leistungen über einen Zeitraum von zwei Wochen hinaus zu erbringen,
-soweit dies im Einzelfall auf Grund besonderer Umstände zur
-Überwindung einer besonderen Härte und zur Deckung einer zeitlich
-befristeten Bedarfslage geboten ist. Neben den Überbrückungsleistungen
-werden auf Antrag auch die angemessenen Kosten der Rückreise
-übernommen. Satz 7 gilt entsprechend, soweit die Personen allein durch
-die angemessenen Kosten der Rückreise die in Satz 4 genannten Bedarfe
-nicht aus eigenen Mitteln oder mit Hilfe Dritter decken können. Die
-Leistung ist als Darlehen zu erbringen.
+1 und Absatz 2. Sie sollen als Sachleistung erbracht werden; die
+Gewährung von Geldleistungen ist ausgeschlossen. Soweit dies im
+Einzelfall besondere Umstände erfordern, werden Leistungsberechtigten
+nach Satz 2 zur Überwindung einer besonderen Härte andere Leistungen
+nach den § 3 Absatz 1 Satz 1 und § 4 oder zur Deckung besonderer
+Bedürfnisse von Kindern gewährt; ebenso sind Leistungen über einen
+Zeitraum von zwei Wochen hinaus zu erbringen, soweit dies im
+Einzelfall auf Grund besonderer Umstände zur Überwindung einer
+besonderen Härte und zur Deckung einer zeitlich befristeten
+Bedarfslage geboten ist. Neben den Überbrückungsleistungen werden auf
+Antrag auch die angemessenen Kosten der Rückreise übernommen. Satz 7
+gilt entsprechend, soweit die Personen allein durch die angemessenen
+Kosten der Rückreise die in Satz 4 genannten Bedarfe nicht aus eigenen
+Mitteln oder mit Hilfe Dritter decken können. Die Leistung ist als
+Darlehen zu erbringen.
 
 
 ## § 1a Anspruchseinschränkung
@@ -272,16 +289,6 @@ aufzubrauchen ist,
 und deshalb zu Unrecht Leistungen nach diesem Gesetz beziehen, haben
 nur Anspruch auf Leistungen entsprechend Absatz 1.
 
-(7) Leistungsberechtigte nach § 1 Absatz 1 Nummer 1 oder 5, deren
-Asylantrag durch eine Entscheidung des Bundesamtes für Migration und
-Flüchtlinge nach § 29 Absatz 1 Nummer 1 in Verbindung mit § 31 Absatz
-6 des Asylgesetzes als unzulässig abgelehnt wurde und für die eine
-Abschiebung nach § 34a Absatz 1 Satz 1 zweite Alternative des
-Asylgesetzes angeordnet wurde, erhalten nur Leistungen entsprechend
-Absatz 1, auch wenn die Entscheidung noch nicht unanfechtbar ist. Satz
-1 gilt nicht, sofern ein Gericht die aufschiebende Wirkung der Klage
-gegen die Abschiebungsanordnung angeordnet hat.
-
 
 ## § 2 Leistungen in besonderen Fällen
 
@@ -337,7 +344,12 @@ Anwendung, dass
 
 (2) Bei der Unterbringung von Leistungsberechtigten nach Absatz 1 in
 einer Gemeinschaftsunterkunft bestimmt die zuständige Behörde die Form
-der Leistung auf Grund der örtlichen Umstände.
+der Leistung auf Grund der örtlichen Umstände. Unabhängig von der Art
+der Unterbringung ist die Leistungserbringung auch in Form der
+Bezahlkarte möglich. Soweit einzelne Bedarfe des monatlichen
+Regelbedarfs entsprechend § 27a Absatz 2 Satz 1 des Zwölften Buches
+Sozialgesetzbuch nicht mittels der Bezahlkarte gedeckt werden können,
+sind diese als Geldleistung zu erbringen.
 
 (3) Minderjährige Kinder, die mit ihren Eltern oder einem Elternteil
 in einer Haushaltsgemeinschaft leben, erhalten Leistungen nach Absatz
@@ -357,30 +369,34 @@ Bedarf).
 (2) Bei einer Unterbringung in Aufnahmeeinrichtungen im Sinne von § 44
 Absatz 1 des Asylgesetzes wird der notwendige Bedarf durch
 Sachleistungen gedeckt. Kann Kleidung nicht geleistet werden, so kann
-sie in Form von Wertgutscheinen oder anderen vergleichbaren unbaren
-Abrechnungen gewährt werden. Gebrauchsgüter des Haushalts können
-leihweise zur Verfügung gestellt werden. Der notwendige persönliche
-Bedarf soll durch Sachleistungen gedeckt werden, soweit dies mit
-vertretbarem Verwaltungsaufwand möglich ist. Sind Sachleistungen für
-den notwendigen persönlichen Bedarf nicht mit vertretbarem
-Verwaltungsaufwand möglich, können auch Leistungen in Form von
-Wertgutscheinen, von anderen vergleichbaren unbaren Abrechnungen oder
-von Geldleistungen gewährt werden.
+sie in Form von Bezahlkarten, Wertgutscheinen oder anderen
+vergleichbaren unbaren Abrechnungen gewährt werden. Gebrauchsgüter des
+Haushalts können leihweise zur Verfügung gestellt werden. Der
+notwendige persönliche Bedarf soll durch Sachleistungen gedeckt
+werden, soweit dies mit vertretbarem Verwaltungsaufwand möglich ist.
+Sind Sachleistungen für den notwendigen persönlichen Bedarf nicht mit
+vertretbarem Verwaltungsaufwand möglich, können auch Leistungen in
+Form von Bezahlkarten, Wertgutscheinen, von anderen vergleichbaren
+unbaren Abrechnungen oder von Geldleistungen gewährt werden.
 
 (3) Bei einer Unterbringung außerhalb von Aufnahmeeinrichtungen im
-Sinne des § 44 Absatz 1 des Asylgesetzes sind vorbehaltlich des Satzes
-3 vorrangig Geldleistungen zur Deckung des notwendigen Bedarfs zu
-gewähren. Anstelle der Geldleistungen können, soweit es nach den
-Umständen erforderlich ist, zur Deckung des notwendigen Bedarfs
-Leistungen in Form von unbaren Abrechnungen, von Wertgutscheinen oder
-von Sachleistungen gewährt werden. Der Bedarf für Unterkunft, Heizung
-und Hausrat sowie für Wohnungsinstandhaltung und Haushaltsenergie
-wird, soweit notwendig und angemessen, gesondert als Geld- oder
-Sachleistung erbracht. Absatz 2 Satz 3 ist entsprechend anzuwenden.
-Der notwendige persönliche Bedarf ist vorbehaltlich des Satzes 6 durch
-Geldleistungen zu decken. In Gemeinschaftsunterkünften im Sinne von §
-53 des Asylgesetzes kann der notwendige persönliche Bedarf soweit wie
-möglich auch durch Sachleistungen gedeckt werden.
+Sinne des § 44 Absatz 1 des Asylgesetzes wird vorbehaltlich des Satzes
+2 der notwendige Bedarf durch Geld- oder Sachleistungen oder in Form
+von Bezahlkarten, Wertgutscheinen oder anderen unbaren Abrechnungen
+gedeckt. Der Bedarf für Unterkunft, Heizung und Hausrat sowie für
+Wohnungsinstandhaltung und Haushaltsenergie wird, soweit notwendig und
+angemessen, gesondert als Geld- oder Sachleistung oder mittels
+Bezahlkarte erbracht. Absatz 2 Satz 3 ist entsprechend anzuwenden. Der
+Bedarf für Unterkunft und Heizung kann abweichend von Satz 2 als
+Direktzahlungen entsprechend § 35a Absatz 3 des Zwölften Buches
+Sozialgesetzbuch an den Vermieter oder andere Empfangsberechtigte
+erfolgen. Der notwendige persönliche Bedarf ist vorbehaltlich der
+Sätze 6 und 7 in Form von Bezahlkarten oder durch Geldleistungen zu
+decken. Soweit der notwendige persönliche Bedarf oder der Bedarf für
+Haushaltsenergie nicht mittels der Bezahlkarte gedeckt werden können,
+sind diese als Geldleistung zu erbringen. In Gemeinschaftsunterkünften
+im Sinne von § 53 des Asylgesetzes kann der notwendige persönliche
+Bedarf soweit wie möglich auch durch Sachleistungen gedeckt werden.
 
 (4) Bedarfe für Bildung und Teilhabe am sozialen und kulturellen Leben
 in der Gemeinschaft werden bei Kindern, Jugendlichen und jungen
@@ -389,12 +405,14 @@ entsprechend den §§ 34, 34a und 34b des Zwölften Buches
 Sozialgesetzbuch gesondert berücksichtigt. Die Regelung des § 141
 Absatz 5 des Zwölften Buches Sozialgesetzbuch gilt entsprechend.
 
-(5) Leistungen in Geld oder Geldeswert sollen der oder dem
-Leistungsberechtigten oder einem volljährigen berechtigten Mitglied
-des Haushalts persönlich ausgehändigt werden. Stehen die Leistungen
+(5) Leistungen in Geld oder Geldeswert sollen an den
+Leistungsberechtigten oder an ein volljähriges berechtigtes Mitglied
+des Haushalts erfolgen. Jedes volljährige Haushaltsmitglied muss über
+den individuell zustehenden Leistungsumfang auf einer Bezahlkarte
+selbstständig und unabhängig verfügen können. Stehen die Leistungen
 nicht für einen vollen Monat zu, wird die Leistung anteilig erbracht;
 dabei wird der Monat mit 30 Tagen berechnet. Geldleistungen dürfen
-längstens einen Monat im Voraus erbracht werden. Von Satz 3 kann nicht
+längstens einen Monat im Voraus erbracht werden. Von Satz 4 kann nicht
 durch Landesrecht abgewichen werden.
 
 (6) (weggefallen)
@@ -756,7 +774,8 @@ des notwendigen Bedarfs nach § 3a Absatz 2, jeweils in Verbindung mit
 § 3a Absatz 4. Erhält eine leistungsberechtigte Person mindestens aus
 einer Tätigkeit Bezüge oder Einnahmen, die nach § 3 Nummer 12, 26, 26a
 oder 26b des Einkommensteuergesetzes steuerfrei sind, ist abweichend
-von Satz 1 ein Betrag von bis zu 250 Euro monatlich nicht als
+von Satz 1 ein Betrag von bis zu einem Zwölftel des in § 3 Nummer 26
+des Einkommensteuergesetzes genannten Betrags monatlich nicht als
 Einkommen zu berücksichtigen. Von den Einkommen nach Absatz 1 Satz 1
 sind ferner abzusetzen
 
@@ -776,11 +795,13 @@ sind ferner abzusetzen
 
 
 
-Übersteigt das Einkommen in den Fällen von Satz 2 den Betrag von 250
-Euro monatlich, findet Satz 3 Nummer 3 und 4 mit der Maßgabe
+Übersteigt das Einkommen in den Fällen von Satz 2 den Betrag von einem
+Zwölftel des in § 3 Nummer 26 des Einkommensteuergesetzes genannten
+Betrags monatlich, findet Satz 3 Nummer 3 und 4 mit der Maßgabe
 Anwendung, dass eine Absetzung der dort genannten Aufwendungen nur
 erfolgt, soweit die oder der Leistungsberechtigte nachweist, dass die
-Summe dieser Aufwendungen den Betrag von 250 Euro monatlich
+Summe dieser Aufwendungen den Betrag von einem Zwölftel des in § 3
+Nummer 26 des Einkommensteuergesetzes genannten Betrags monatlich
 übersteigt. Die Möglichkeit zur Absetzung der Beträge nach Satz 3 von
 Einkommen aus Erwerbstätigkeit bleibt unberührt.
 
@@ -997,7 +1018,8 @@ Aufenthaltsort zuständigen Behörde regelmäßig nur eine Reisebeihilfe
 zur Deckung des unabweisbaren Bedarfs für die Reise zu dem Ort gewährt
 werden, an dem sie entsprechend der Wohnsitzauflage ihren gewöhnlichen
 Aufenthalt zu nehmen haben. Die Leistungen nach den Sätzen 1 und 2
-können als Sach- oder Geldleistung erbracht werden.
+können als Sach- oder Geldleistung oder mittels Bezahlkarte erbracht
+werden.
 
 (2a) Leistungsberechtigte nach § 1 Absatz 1 Nummer 1a erhalten bis zur
 Ausstellung eines Ankunftsnachweises nach § 63a des Asylgesetzes nur
@@ -1314,7 +1336,7 @@ Minderjährige Leistungsberechtigte sowie Leistungsberechtigte, die das
 25\. Lebensjahr noch nicht vollendet haben, unverheiratet sind und mit
 mindestens einem Elternteil in einer Wohnung im Sinne von § 42a Absatz
 2 Satz 2 des Zwölften Buches Sozialgesetzbuch zusammenleben, haben
-Anspruch auf einen monatlichen Sofortzuschlag in Höhe von 20 Euro. Der
+Anspruch auf einen monatlichen Sofortzuschlag in Höhe von 25 Euro. Der
 Sofortzuschlag wird erstmalig für den Monat Juli 2022 erbracht.
 
 

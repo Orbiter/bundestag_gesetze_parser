@@ -16,7 +16,7 @@ Fundstelle
 :   RGBl: 1908, 305
 
 Zuletzt geändert durch
-:   Art. 33 G v. 11.12.2023 I Nr. 354
+:   Art. 6 G v. 16.1.2026 I Nr. 14
 
 
 ## Art 1 Altverträge, Allgemeine Versicherungsbedingungen
@@ -191,6 +191,14 @@ des Versicherungsvertragsgesetzes in der bis einschließlich 14. Juni
 2021 geltenden Fassung anzuwenden.
 
 
-## (XXXX) Art 9 bis 15 (weggefallen)
+## Art 9 Übergangsvorschrift zu § 7a Absatz 5 des Versicherungsvertragsgesetzes
+
+§ 7a Absatz 5 des Versicherungsvertragsgesetzes in der ab dem 1.
+Januar 2025 geltenden Fassung ist nur auf Restschuldversicherungen
+anzuwenden, die sich auf einen Allgemein-Verbraucherdarlehensvertrag
+beziehen, der nach dem 1. Januar 2025 abgeschlossen wurde.
+
+
+## (XXXX) Art 10 bis 15 (weggefallen)
 
 

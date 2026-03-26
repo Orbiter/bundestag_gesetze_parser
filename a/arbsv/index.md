@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1989, 1071
 
 Zuletzt geändert durch
-:   Art. 11 G v. 19.11.2004 I 2902
+:   Art. 2 V v. 17.12.2024 I Nr. 418
 
 
 ## Eingangsformel
@@ -213,8 +213,7 @@ benannter Vertreter oder eine persönlich benannte Vertreterin
     Gebiet die Agentur für Arbeit ihren Sitz hat,
 
 
-2.  der Standortverwaltung, in deren Bereich die Agentur für Arbeit ihren
-    Sitz hat,
+2.  des Bundesamtes für das Personalmanagement der Bundeswehr,
 
 
 3.  der Arbeitnehmer- sowie der Arbeitgebergruppe im Verwaltungsausschuss
@@ -273,12 +272,14 @@ benannter Vertreter oder eine persönlich benannte Vertreterin
 1.  der Länder, deren Gebiet zum Bezirk der Dienststelle gehören,
 
 
-2.  der Wehrbereichsverwaltung, in deren Zuständigkeitsbereich die
-    Dienststelle ihren Sitz hat,
+2.  des Bundesamtes für das Personalmanagement der Bundeswehr,
 
 
-3.  der Arbeitnehmer- sowie der Arbeitgebergruppe im Verwaltungsausschuss
-    der Dienststelle.
+3.  der Arbeitnehmer- sowie der Arbeitgebergruppe, die im Bezirk der
+    Dienststelle der Bundesagentur für Arbeit, die durch den Vorstand der
+    Bundesagentur für Arbeit mit der Wahrnehmung der Aufgaben nach § 7
+    Absatz 2 Satz 3 beauftragt ist, Beratungsfunktionen wahrnehmen, die
+    der Selbstverwaltung entsprechen.
 
 
 

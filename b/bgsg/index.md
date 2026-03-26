@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1972, 1834
 
 Zuletzt geändert durch
-:   Art. 24 V v. 19.6.2020 I 1328
+:   Art. 4 Abs. 1 G v. 17.12.2024 I Nr. 424
 
 §§ 1 bis 47 u. §§ 62 bis 74 aufgeh. durch
 :   Art. 3 Abs. 1 Satz 2 G v. 19.10.1994 I 2978 mWv 1.11.1994
@@ -289,8 +289,8 @@ folgender Maßgabe anzuwenden:
 
 2.  Der Grenzschutzsold gilt als Dienstbezug im Sinne der §§ 7 und 117 der
     Bundesdisziplinarordnung; für die Vollstreckung der Geldbuße gelten
-    außerdem § 47 Abs. 1, §§ 49 und 56 Abs. 1 der Wehrdisziplinarordnung
-    entsprechend.
+    außerdem § 49 Absatz 1, §§ 51 und 58 Absatz 1 der
+    Wehrdisziplinarordnung entsprechend.
 
 
 3.  Die Herabsetzung der Dienstbezeichnung darf nur im förmlichen

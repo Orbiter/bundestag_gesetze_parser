@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2019, 2010
 
+Geändert durch
+:   Art. 1 G v. 11.3.2026 I Nr. 69
+
 
 ## § 1 Anwendungsbereich
 

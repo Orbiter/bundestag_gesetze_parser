@@ -112,10 +112,6 @@ Schiedsstelle vorausgegangen ist, oder wenn seit der Anrufung der
 Schiedsstelle mehr als drei Monate verstrichen sind.
 
 
-## § 9a (weggefallen)
-
-
-
 ## § 10 (weggefallen)
 
 

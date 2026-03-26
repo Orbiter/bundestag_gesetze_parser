@@ -19,7 +19,10 @@ Neugefasst durch
 :   Bek. v. 1.2.1991 I 230;
 
 Zuletzt geändert durch
-:   Art. 31 G v. 22.12.2023 I Nr. 411
+:   Art. 36 G v. 2.12.2024 I Nr. 387
+
+Mittelbare änderung durch
+:   Art. 53 G v. 2.12.2024 I Nr. 387 ist berücksichtigt
 
 
 ## Erster Teil - Allgemeine Bewertungsvorschriften
@@ -356,10 +359,7 @@ anzusetzende Wert durch 18,6 geteilt wird.
 (1) Die besonderen Bewertungsvorschriften sind nach Maßgabe der
 jeweiligen Einzelsteuergesetze anzuwenden.
 
-(2) Die §§ 18 bis 94, 122 und 125 bis 132 gelten für die Grundsteuer
-und die §§ 121a und 133 zusätzlich für die Gewerbesteuer.
-
-(3) Soweit sich nicht aus den §§ 19 bis 150 etwas anderes ergibt,
+(2) Soweit sich nicht aus den §§ 20 bis 266 etwas anderes ergibt,
 finden neben diesen auch die Vorschriften des Ersten Teils des
 Gesetzes (§§ 1 bis 16) Anwendung. § 16 findet auf die
 Grunderwerbsteuer keine Anwendung.
@@ -370,13 +370,13 @@ Grunderwerbsteuer keine Anwendung.
 Das Vermögen, das nach den Vorschriften des Zweiten Teils dieses
 Gesetzes zu bewerten ist, umfaßt die folgenden Vermögensarten:
 
-1.  Land- und forstwirtschaftliches Vermögen (§§ 33 bis 67, § 31),
+1.  Land- und forstwirtschaftliches Vermögen,
 
 
-2.  Grundvermögen (§§ 68 bis 94, § 31),
+2.  Grundvermögen,
 
 
-3.  Betriebsvermögen (§§ 95 bis 109, § 31).
+3.  Betriebsvermögen.
 
 
 
@@ -390,276 +390,18 @@ Gesetzes zu bewerten ist, umfaßt die folgenden Vermögensarten:
 
 
 
-##### § 19 Feststellung von Einheitswerten
+##### § 19 (weggefallen)
 
-(1) Einheitswerte werden für inländischen Grundbesitz, und zwar für
-Betriebe der Land- und Forstwirtschaft (§§ 33, 48a und 51a), für
-Grundstücke (§§ 68 und 70) und für Betriebsgrundstücke (§ 99)
-festgestellt (§ 180 Abs. 1 Nr. 1 der Abgabenordnung).
 
-(2) (weggefallen)
+##### § 20 Abweichende Feststellung von Besteuerungsgrundlagen aus Billigkeitsgründen
 
-(3) In dem Feststellungsbescheid (§ 179 der Abgabenordnung) sind auch
-Feststellungen zu treffen
+Bei der Bewertung ist § 163 der Abgabenordnung nicht anzuwenden; dies
+gilt nicht für Übergangsregelungen, die die oberste Finanzbehörde
+eines Landes im Einvernehmen mit den obersten Finanzbehörden der
+übrigen Länder trifft.
 
-1.  über die Art der wirtschaftlichen Einheit und bei Grundstücken auch
-    über die Grundstücksart (§§ 72, 74 und 75) oder die
-    Grundstückshauptgruppe (§ 32 der weiter anzuwendenden
-    Durchführungsverordnung zum Reichsbewertungsgesetz vom 2. Februar
-    1935, RGBl. I S. 81, zuletzt geändert durch die Verordnung zur
-    Änderung der Durchführungsverordnung zum Vermögensteuergesetz, der
-    Durchführungsverordnung zum Reichsbewertungsgesetz und der
-    Aufbringungsumlage-Verordnung vom 8. Dezember 1944, RGBl. I S. 338);
 
-
-2.  über die Zurechnung der wirtschaftlichen Einheit und bei mehreren
-    Beteiligten über die Höhe ihrer Anteile.
-
-
-
-
-(4) Feststellungen nach den Absätzen 1 und 3 erfolgen nur, wenn und
-soweit sie für die Besteuerung von Bedeutung sind.
-
-
-##### § 20 Ermittlung des Einheitswerts
-
-Die Einheitswerte werden nach den Vorschriften dieses Abschnitts
-ermittelt. Bei der Ermittlung der Einheitswerte ist § 163 der
-Abgabenordnung nicht anzuwenden; dies gilt nicht für
-Übergangsregelungen, die die oberste Finanzbehörde eines Landes im
-Einvernehmen mit den obersten Finanzbehörden der übrigen Länder
-trifft.
-
-
-##### § 21 Hauptfeststellung
-
-(1) Die Einheitswerte werden in Zeitabständen von je sechs Jahren
-allgemein festgestellt (Hauptfeststellung).
-
-(2) Der Hauptfeststellung werden die Verhältnisse zu Beginn des
-Kalenderjahrs (Hauptfeststellungszeitpunkt) zugrunde gelegt. Die
-Vorschriften in § 35 Abs. 2 und den §§ 54 und 59 über die
-Zugrundelegung eines anderen Zeitpunkts bleiben unberührt.
-
-
-##### § 22 Fortschreibungen
-
-(1) Der Einheitswert wird neu festgestellt (Wertfortschreibung), wenn
-der in Deutscher Mark ermittelte und auf volle hundert Deutsche Mark
-abgerundete Wert, der sich für den Beginn eines Kalenderjahrs ergibt,
-von dem entsprechenden Wert des letzten Feststellungszeitpunkts nach
-oben um mehr als den zehnten Teil, mindestens aber um 5.000 Deutsche
-Mark, oder um mehr als 100.000 Deutsche Mark, nach unten um mehr als
-den zehnten Teil, mindestens aber um 500 Deutsche Mark, oder um mehr
-als 5.000 Deutsche Mark, abweicht.
-
-(2) Über die Art oder Zurechnung des Gegenstandes (§ 19 Abs. 3 Nr. 1
-und 2) wird eine neue Feststellung getroffen (Artfortschreibung oder
-Zurechnungsfortschreibung), wenn sie von der zuletzt getroffenen
-Feststellung abweicht und es für die Besteuerung von Bedeutung ist.
-
-(3) Eine Fortschreibung nach Absatz 1 oder Absatz 2 findet auch zur
-Beseitigung eines Fehlers der letzten Feststellung statt. § 176 der
-Abgabenordnung ist hierbei entsprechend anzuwenden. Dies gilt jedoch
-nur für die Feststellungszeitpunkte, die vor der Verkündung der
-maßgeblichen Entscheidung eines obersten Gerichts des Bundes liegen.
-
-(4) Eine Fortschreibung ist vorzunehmen, wenn dem Finanzamt bekannt
-wird, daß die Voraussetzungen für sie vorliegen. Der Fortschreibung
-werden vorbehaltlich des § 27 die Verhältnisse im
-Fortschreibungszeitpunkt zugrunde gelegt. Fortschreibungszeitpunkt ist
-
-1.  bei einer Änderung der tatsächlichen Verhältnisse der Beginn des
-    Kalenderjahrs, das auf die Änderung folgt;
-
-
-2.  in den Fällen des Absatzes 3 der Beginn des Kalenderjahrs, in dem der
-    Fehler dem Finanzamt bekannt wird, bei einer Erhöhung des
-    Einheitswerts jedoch frühestens der Beginn des Kalenderjahrs, in dem
-    der Feststellungsbescheid erteilt wird.
-
-
-
-Die Vorschriften in § 35 Abs. 2 und den §§ 54 und 59 über die
-Zugrundelegung eines anderen Zeitpunkts bleiben unberührt.
-
-
-##### § 23 Nachfeststellung
-
-(1) Für wirtschaftliche Einheiten, für die ein Einheitswert
-festzustellen ist, wird der Einheitswert nachträglich festgestellt
-(Nachfeststellung), wenn nach dem Hauptfeststellungszeitpunkt (§ 21
-Abs. 2)
-
-1.  die wirtschaftliche Einheit neu entsteht;
-
-
-2.  eine bereits bestehende wirtschaftliche Einheit erstmals zu einer
-    Steuer herangezogen werden soll.
-
-
-
-
-(2) Der Nachfeststellung werden vorbehaltlich des § 27 die
-Verhältnisse im Nachfeststellungszeitpunkt zugrunde gelegt.
-Nachfeststellungszeitpunkt ist in den Fällen des Absatzes 1 Nr. 1 der
-Beginn des Kalenderjahrs, das auf die Entstehung der wirtschaftlichen
-Einheit folgt, und in den Fällen des Absatzes 1 Nr. 2 der Beginn des
-Kalenderjahrs, in dem der Einheitswert erstmals der Besteuerung
-zugrunde gelegt wird. Die Vorschriften in § 35 Abs. 2 und den §§ 54
-und 59 über die Zugrundelegung eines anderen Zeitpunkts bleiben
-unberührt.
-
-
-##### § 24 Aufhebung des Einheitswerts
-
-(1) Der Einheitswert wird aufgehoben, wenn dem Finanzamt bekannt wird,
-daß
-
-1.  die wirtschaftliche Einheit wegfällt;
-
-
-2.  der Einheitswert der wirtschaftlichen Einheit infolge von
-    Befreiungsgründen der Besteuerung nicht mehr zugrunde gelegt wird.
-
-
-
-
-(2) Aufhebungszeitpunkt ist in den Fällen des Absatzes 1 Nr. 1 der
-Beginn des Kalenderjahrs, das auf den Wegfall der wirtschaftlichen
-Einheit folgt, und in den Fällen des Absatzes 1 Nr. 2 der Beginn des
-Kalenderjahrs, in dem der Einheitswert erstmals der Besteuerung nicht
-mehr zugrunde gelegt wird.
-
-
-##### § 24a Änderung von Feststellungsbescheiden
-
-Bescheide über Fortschreibungen oder Nachfeststellungen von
-Einheitswerten des Grundbesitzes können schon vor dem maßgebenden
-Feststellungszeitpunkt erteilt werden. Sie sind zu ändern oder
-aufzuheben, wenn sich bis zu diesem Zeitpunkt Änderungen ergeben, die
-zu einer abweichenden Feststellung führen.
-
-
-##### § 25 Nachholung einer Feststellung
-
-(1) Ist die Feststellungsfrist (§ 181 der Abgabenordnung) bereits
-abgelaufen, kann eine Fortschreibung (§ 22) oder Nachfeststellung (§
-23) unter Zugrundelegung der Verhältnisse vom Fortschreibungs- oder
-Nachfeststellungszeitpunkt mit Wirkung für eine späteren
-Feststellungszeitpunkt vorgenommen werden, für den diese Frist noch
-nicht abgelaufen ist. § 181 Abs. 5 der Abgabenordnung bleibt
-unberührt.
-
-(2) Absatz 1 ist bei der Aufhebung des Einheitswerts (§ 24)
-entsprechend anzuwenden.
-
-
-##### § 26 Umfang der wirtschaftlichen Einheit bei Ehegatten oder Lebenspartnern
-
-Die Zurechnung mehrerer Wirtschaftsgüter zu einer wirtschaftlichen
-Einheit (§ 2) wird beim Grundbesitz im Sinne der §§ 33 bis 94, 99 und
-125 bis 133 nicht dadurch ausgeschlossen, daß die Wirtschaftsgüter zum
-Teil dem einen, zum Teil dem anderen Ehegatten oder Lebenspartner
-gehören.
-
-
-##### § 27 Wertverhältnisse bei Fortschreibungen und Nachfeststellungen
-
-Bei Fortschreibungen und bei Nachfeststellungen der Einheitswerte für
-Grundbesitz sind die Wertverhältnisse im Hauptfeststellungszeitpunkt
-zugrunde zu legen.
-
-
-##### § 28 Erklärungspflicht
-
-(1) Erklärungen zur Feststellung des Einheitswerts sind auf jeden
-Hauptfeststellungszeitpunkt abzugeben.
-
-(2) Die Erklärungen sind innerhalb der Frist abzugeben, die das
-Bundesministerium der Finanzen im Einvernehmen mit den obersten
-Finanzbehörden der Länder bestimmt. Die Frist ist im Bundesanzeiger
-bekanntzumachen. Fordert die Finanzbehörde zur Abgabe einer Erklärung
-auf einen Hauptfeststellungszeitpunkt oder auf einen anderen
-Feststellungszeitpunkt besonders auf (§ 149 Abs. 1 Satz 2 der
-Abgabenordnung), hat sie eine besondere Frist zu bestimmen, die
-mindestens einen Monat betragen soll.
-
-(3) Erklärungspflichtig ist derjenige, dem Grundbesitz zuzurechnen
-ist. Er hat die Steuererklärung eigenhändig zu unterschreiben.
-
-
-##### § 29 Auskünfte, Erhebungen und Mitteilungen
-
-(1) Die Eigentümer von Grundbesitz haben der Finanzbehörde auf
-Anforderung alle Angaben zu machen, die sie für die Sammlung der
-Kauf-, Miet- und Pachtpreise braucht. Bei dieser Erklärung ist zu
-versichern, daß die Angaben nach bestem Wissen und Gewissen gemacht
-sind.
-
-(2) Die Finanzbehörden können zur Vorbereitung einer Hauptfeststellung
-und zur Durchführung von Feststellungen der Einheitswerte des
-Grundbesitzes örtliche Erhebungen über die Bewertungsgrundlagen
-anstellen. Das Grundrecht der Unverletzlichkeit der Wohnung (Artikel
-13 des Grundgesetzes) wird insoweit eingeschränkt.
-
-(3) Die nach Bundes- oder Landesrecht zuständigen Behörden haben den
-Finanzbehörden die rechtlichen und tatsächlichen Umstände mitzuteilen,
-die ihnen im Rahmen ihrer Aufgabenerfüllung bekannt geworden sind und
-die für die Feststellung von Einheitswerten des Grundbesitzes, für die
-Feststellung von Grundbesitzwerten oder für die Grundsteuer von
-Bedeutung sein können; mitzuteilen sind auch diejenigen Umstände, die
-für die Erbschaftsteuer oder die Grunderwerbsteuer von Bedeutung sein
-können, sofern die Finanzbehörden dies anordnen. Den Behörden stehen
-die Stellen gleich, die für die Sicherung der Zweckbestimmung der
-Wohnungen zuständig sind, die auf der Grundlage des Zweiten
-Wohnungsbaugesetzes, des Wohnungsbaugesetzes für das Saarland oder auf
-der Grundlage des Wohnraumförderungsgesetzes gefördert worden sind.
-
-(4) Die Grundbuchämter teilen den für die Feststellung des
-Einheitswerts und den für die Feststellung des Grundbesitzwerts
-zuständigen Finanzbehörden für die in Absatz 3 bezeichneten Zwecke mit
-
-1.  die Eintragung eines neuen Eigentümers oder Erbbauberechtigten sowie
-    bei einem anderen als rechtsgeschäftlichen Erwerb auch die Anschrift
-    des neuen Eigentümers oder Erbbauberechtigten; dies gilt nicht für die
-    Fälle des Erwerbs nach den Vorschriften des Zuordnungsrechts,
-
-
-2.  die Eintragung der Begründung von Wohnungseigentum oder Teileigentum,
-
-
-3.  die Eintragung der Begründung eines Erbbaurechts, Wohnungserbbaurechts
-    oder Teilerbbaurechts.
-
-
-
-In den Fällen der Nummern 2 und 3 ist gleichzeitig der Tag des
-Eingangs des Eintragungsantrags beim Grundbuchamt mitzuteilen. Bei
-einer Eintragung aufgrund Erbfolge ist das Jahr anzugeben, in dem der
-Erblasser verstorben ist. Die Mitteilungen sollen der Finanzbehörde
-über die für die Führung des Liegenschaftskatasters zuständige Behörde
-oder über eine sonstige Behörde, die das amtliche Verzeichnis der
-Grundstücke (§ 2 Abs. 2 der Grundbuchordnung) führt, zugeleitet
-werden.
-
-(5) Die mitteilungspflichtige Stelle hat die Betroffenen vom Inhalt
-der Mitteilung zu unterrichten. Eine Unterrichtung kann unterbleiben,
-soweit den Finanzbehörden Umstände aus dem Grundbuch, den Grundakten
-oder aus dem Liegenschaftskataster mitgeteilt werden.
-
-(6) Die nach den Absätzen 3 oder 4 verpflichteten Behörden und Stellen
-übermitteln die Mitteilungen den Finanzbehörden nach amtlich
-vorgeschriebenem Datensatz durch Datenfernübertragung. Die
-Grundbuchämter und die für die Führung des Liegenschaftskatasters
-zuständigen Behörden übermitteln die bei ihnen geführten Daten
-laufend, mindestens alle drei Monate.Das Bundesministerium der
-Finanzen legt im Einvernehmen mit den obersten Finanzbehörden der
-Länder und den obersten Vermessungs- und Katasterbehörden der Länder
-die Einzelheiten und den Beginn der elektronischen Übermittlung in
-einem Schreiben fest. Dieses Schreiben ist im Bundesanzeiger und im
-Bundessteuerblatt zu veröffentlichen.
+##### (XXXX) §§ 21 bis 29 (weggefallen)
 
 
 ##### § 30 Abrundung
@@ -683,13 +425,7 @@ und Zubehör zu berücksichtigen. Zahlungsmittel, Geldforderungen,
 Wertpapiere und Geldschulden sind nicht einzubeziehen.
 
 
-##### § 32 Bewertung von inländischem Sachvermögen
-
-Für die Bewertung des inländischen land- und forstwirtschaftlichen
-Vermögens, Grundvermögens und Betriebsvermögens gelten die
-Vorschriften der §§ 33 bis 109. Nach diesen Vorschriften sind auch die
-inländischen Teile einer wirtschaftlichen Einheit zu bewerten, die
-sich sowohl auf das Inland als auch auf das Ausland erstreckt.
+##### § 32 (weggefallen)
 
 
 #### B. - Land- und forstwirtschaftliches Vermögen
@@ -700,450 +436,7 @@ sich sowohl auf das Inland als auch auf das Ausland erstreckt.
 
 
 
-###### § 33 Begriff des land- und forstwirtschaftlichen Vermögens
-
-(1) Zum land- und forstwirtschaftlichen Vermögen gehören alle
-Wirtschaftsgüter, die einem Betrieb der Land- und Forstwirtschaft
-dauernd zu dienen bestimmt sind. Betrieb der Land- und Forstwirtschaft
-ist die wirtschaftliche Einheit des land- und forstwirtschaftlichen
-Vermögens.
-
-(2) Zu den Wirtschaftsgütern, die einem Betrieb der Land- und
-Forstwirtschaft dauernd zu dienen bestimmt sind, gehören insbesondere
-der Grund und Boden, die Wohn- und Wirtschaftsgebäude, die stehenden
-Betriebsmittel und ein normaler Bestand an umlaufenden
-Betriebsmitteln; als normaler Bestand gilt ein solcher, der zur
-gesicherten Fortführung des Betriebes erforderlich ist.
-
-(3) Zum land- und forstwirtschaftlichen Vermögen gehören nicht
-
-1.  Zahlungsmittel, Geldforderungen, Geschäftsguthaben und Wertpapiere,
-
-
-2.  Geldschulden,
-
-
-3.  über den normalen Bestand hinausgehende Bestände (Überbestände) an
-    umlaufenden Betriebsmitteln,
-
-
-4.  Tierbestände oder Zweige des Tierbestands und die hiermit
-    zusammenhängenden Wirtschaftsgüter (z. B. Gebäude und abgrenzbare
-    Gebäudeteile mit den dazugehörenden Flächen, Betriebsmittel), wenn die
-    Tiere weder nach § 51 oder § 51a zur landwirtschaftlichen Nutzung noch
-    nach § 62 zur sonstigen land- und forstwirtschaftlichen Nutzung
-    gehören. Die Zugehörigkeit der landwirtschaftlich genutzten Flächen
-    zum land- und forstwirtschaftlichen Vermögen wird hierdurch nicht
-    berührt.
-
-
-
-
-
-###### § 34 Betrieb der Land- und Forstwirtschaft
-
-(1) Ein Betrieb der Land- und Forstwirtschaft umfaßt
-
-1.  den Wirtschaftsteil,
-
-
-2.  den Wohnteil.
-
-
-
-
-(2) Der Wirtschaftsteil eines Betriebs der Land- und Forstwirtschaft
-umfaßt
-
-1.  die land- und forstwirtschaftlichen Nutzungen:
-
-    a)  die landwirtschaftliche Nutzung,
-
-
-    b)  die forstwirtschaftliche Nutzung,
-
-
-    c)  die weinbauliche Nutzung,
-
-
-    d)  die gärtnerische Nutzung,
-
-
-    e)  die sonstige land- und forstwirtschaftliche Nutzung;
-
-
-
-
-
-2.  die folgenden nicht zu einer Nutzung nach Nummer 1 gehörenden
-    Wirtschaftsgüter:
-
-    a)  Abbauland (§ 43),
-
-
-    b)  Geringstland (§ 44),
-
-
-    c)  Unland (§ 45);
-
-
-
-
-
-3.  die Nebenbetriebe (§ 42).
-
-
-
-
-(3) Der Wohnteil eines Betriebs der Land- und Forstwirtschaft umfaßt
-die Gebäude und Gebäudeteile, soweit sie dem Inhaber des Betriebs, den
-zu seinem Haushalt gehörenden Familienangehörigen und den Altenteilern
-zu Wohnzwecken dienen.
-
-(4) In den Betrieb sind auch dem Eigentümer des Grund und Bodens nicht
-gehörende Gebäude, die auf dem Grund und Boden des Betriebs stehen,
-und dem Eigentümer des Grund und Bodens nicht gehörende
-Betriebsmittel, die der Bewirtschaftung des Betriebs dienen,
-einzubeziehen.
-
-(5) Ein Anteil des Eigentümers eines Betriebs der Land- und
-Forstwirtschaft an einem Wirtschaftsgut ist in den Betrieb
-einzubeziehen, wenn es mit dem Betrieb zusammen genutzt wird.
-
-(6) In einen Betrieb der Land- und Forstwirtschaft, der von einer
-Gesellschaft oder Gemeinschaft des bürgerlichen Rechts betrieben wird,
-sind auch die Wirtschaftsgüter einzubeziehen, die einem oder mehreren
-Beteiligten gehören und dem Betrieb zu dienen bestimmt sind.
-
-(6a) Einen Betrieb der Land- und Forstwirtschaft bildet auch die
-gemeinschaftliche Tierhaltung (§ 51a) einschließlich der hiermit
-zusammenhängenden Wirtschaftsgüter.
-
-(7) Einen Betrieb der Land- und Forstwirtschaft bilden auch
-Stückländereien. Stückländereien sind einzelne land- und
-forstwirtschaftlich genutzte Flächen, bei denen die Wirtschaftsgebäude
-oder die Betriebsmittel oder beide Arten von Wirtschaftsgütern nicht
-dem Eigentümer des Grund und Boden gehören.
-
-
-###### § 35 Bewertungsstichtag
-
-(1) Für die Größe des Betriebs sowie für den Umfang und den Zustand
-der Gebäude und der stehenden Betriebsmittel sind die Verhältnisse im
-Feststellungszeitpunkt maßgebend.
-
-(2) Für die umlaufenden Betriebsmittel ist der Stand am Ende des
-Wirtschaftsjahres maßgebend, das dem Feststellungszeitpunkt
-vorangegangen ist.
-
-
-###### § 36 Bewertungsgrundsätze
-
-(1) Bei der Bewertung ist unbeschadet der Regelung, die in § 47 für
-den Wohnungswert getroffen ist, der Ertragswert zugrunde zu legen.
-
-(2) Bei der Ermittlung des Ertragswerts ist von der Ertragsfähigkeit
-auszugehen. Ertragsfähigkeit ist der bei ordnungsmäßiger und
-schuldenfreier Bewirtschaftung mit entlohnten fremden Arbeitskräften
-gemeinhin und nachhaltig erzielbare Reinertrag. Ertragswert ist das
-Achtzehnfache dieses Reinertrags.
-
-(3) Bei der Beurteilung der Ertragsfähigkeit sind die
-Ertragsbedingungen zu berücksichtigen, soweit sie nicht unwesentlich
-sind.
-
-
-###### § 37 Ermittlung des Ertragswerts
-
-(1) Der Ertragswert der Nutzungen wird durch ein vergleichendes
-Verfahren (§§ 38 bis 41) ermittelt. Das vergleichende Verfahren kann
-auch auf Nutzungsteile angewendet werden.
-
-(2) Kann ein vergleichendes Verfahren nicht durchgeführt werden, so
-ist der Ertragswert nach der Ertragsfähigkeit der Nutzung unmittelbar
-zu ermitteln (Einzelertragswertverfahren).
-
-
-###### § 38 Vergleichszahl, Ertragsbedingungen
-
-(1) Die Unterschiede der Ertragsfähigkeit der gleichen Nutzung in den
-verschiedenen Betrieben werden durch Vergleich der Ertragsbedingungen
-beurteilt und vorbehaltlich der §§ 55 und 62 durch Zahlen ausgedrückt,
-die dem Verhältnis der Reinerträge entsprechen (Vergleichszahlen).
-
-(2) Bei dem Vergleich der Ertragsbedingungen sind zugrunde zu legen
-
-1.  die tatsächlichen Verhältnisse für:
-
-    a)  die natürlichen Ertragsbedingungen, insbesondere Bodenbeschaffenheit,
-        Geländegestaltung, klimatische Verhältnisse,
-
-
-    b)  die folgenden wirtschaftlichen Ertragsbedingungen:
-
-        aa) innere Verkehrslage (Lage für die Bewirtschaftung der Betriebsfläche),
-
-
-        bb) äußere Verkehrslage (insbesondere Lage für die Anfuhr der
-            Betriebsmittel und die Abfuhr der Erzeugnisse),
-
-
-        cc) Betriebsgröße;
-
-
-
-
-
-
-
-
-2.  die in der Gegend als regelmäßig anzusehenden Verhältnisse für die in
-    Nummer 1 Buchstabe b nicht bezeichneten wirtschaftlichen
-    Ertragsbedingungen, insbesondere Preise und Löhne,
-    Betriebsorganisation, Betriebsmittel.
-
-
-
-
-(3) Bei Stückländereien sind die wirtschaftlichen Ertragsbedingungen
-nach Absatz 2 Nr. 1 Buchstabe b mit den regelmäßigen Verhältnissen der
-Gegend anzusetzen.
-
-
-###### § 39 Bewertungsstützpunkte
-
-(1) Zur Sicherung der Gleichmäßigkeit der Bewertung werden in
-einzelnen Betrieben mit gegendüblichen Ertragsbedingungen die
-Vergleichszahlen von Nutzungen und Nutzungsteilen vorweg ermittelt
-(Hauptbewertungsstützpunkte). Die Vergleichszahlen der
-Hauptbewertungsstützpunkte werden vom Bewertungsbeirat (§§ 63 bis 66)
-vorgeschlagen und durch Rechtsverordnung festgesetzt. Die
-Vergleichszahlen der Nutzungen und Nutzungsteile in den übrigen
-Betrieben werden durch Vergleich mit den Vergleichszahlen der
-Hauptbewertungsstützpunkte ermittelt. § 55 bleibt unberührt.
-
-(2) Die Hauptbewertungsstützpunkte können durch Landes-
-Bewertungsstützpunkte und Orts-Bewertungsstützpunkte als
-Bewertungsbeispiele ergänzt werden. Die Vergleichszahlen der Landes-
-Bewertungsstützpunkte werden vom Gutachterausschuß (§ 67), die
-Vergleichszahlen der Orts-Bewertungsstützpunkte von den
-Landesfinanzbehörden ermittelt. Die Vergleichszahlen der Landes-
-Bewertungsstützpunkte und Orts-Bewertungsstützpunkte können
-bekanntgegeben werden.
-
-(3) Zugepachtete Flächen, die zusammen mit einem Bewertungsstützpunkt
-bewirtschaftet werden, können bei der Ermittlung der Vergleichszahlen
-mit berücksichtigt werden. Bei der Feststellung des Einheitswerts
-eines Betriebs, der als Bewertungsstützpunkt dient, sind zugepachtete
-Flächen nicht zu berücksichtigen (§ 2 Abs. 2).
-
-
-###### § 40 Ermittlung des Vergleichswerts
-
-(1) Zum Hauptfeststellungszeitpunkt wird für die landwirtschaftliche,
-die weinbauliche und die gärtnerische Nutzung oder für deren Teile der
-100 Vergleichszahlen entsprechende Ertragswert vorbehaltlich Absatz 2
-durch besonderes Gesetz festgestellt. Aus diesem Ertragswert wird der
-Ertragswert für die einzelne Nutzung oder den Nutzungsteil in den
-Betrieben mit Hilfe der Vergleichszahlen abgeleitet (Vergleichswert).
-Der auf einen Hektar bezogene Vergleichswert ist der Hektarwert.
-
-(2) Für die Hauptfeststellung auf den Beginn des Kalenderjahres 1964
-betragen die 100 Vergleichszahlen entsprechenden Ertragswerte bei
-
-*    *   der landwirtschaftlichen Nutzung
-
-    *
-
-*    *
-    *   ohne Hopfen und Spargel
-
-    *   37,26 DM
-
-
-*    *
-    *   Hopfen
-
-    *   254,00 DM
-
-
-*    *
-    *   Spargel
-
-    *   76,50 DM
-
-
-*    *   der weinbaulichen Nutzung
-
-    *   200,00 DM
-
-
-*    *   den gärtnerischen Nutzungsteilen
-
-    *
-
-*    *
-    *   Gemüse-, Blumen- und Zierpflanzenbau
-
-    *   108,00 DM
-
-
-*    *
-    *   Obstbau
-
-    *   72,00 DM
-
-
-*    *
-    *   Baumschulen
-
-    *   221,40 DM.
-
-
-
-
-(3) Die Hoffläche und die Gebäudefläche des Betriebs sind in die
-einzelne Nutzung einzubeziehen, soweit sie ihr dienen. Hausgärten bis
-zur Größe von 10 Ar sind zur Hof- und Gebäudefläche zu rechnen.
-Wirtschaftswege, Hecken, Gräben, Grenzraine und dergleichen sind in
-die Nutzung einzubeziehen, zu der sie gehören; dies gilt auch für
-Wasserflächen, soweit sie nicht Unland sind oder zur sonstigen land-
-und forstwirtschaftlichen Nutzung (§ 62) gehören.
-
-(4) Das Finanzamt hat bei Vorliegen eines rechtlichen Interesses dem
-Steuerpflichtigen Bewertungsgrundlagen und Bewertungsergebnisse der
-Nutzung oder des Nutzungsteils von Bewertungsstützpunkten, die bei der
-Ermittlung der Vergleichswerte seines Betriebs herangezogen worden
-sind, anzugeben.
-
-(5) Zur Berücksichtigung der rückläufigen Reinerträge sind die nach
-den Absätzen 1 und 2 ermittelten Vergleichswerte für Hopfen um 80
-Prozent, für Spargel um 50 Prozent und für Obstbau um 60 Prozent zu
-vermindern; es ist jedoch jeweils mindestens ein Hektarwert von 1 200
-Deutsche Mark anzusetzen.
-
-
-###### § 41 Abschläge und Zuschläge
-
-(1) Ein Abschlag oder ein Zuschlag am Vergleichswert ist zu machen,
-
-1.  soweit die tatsächlichen Verhältnisse bei einer Nutzung oder einem
-    Nutzungsteil von den bei der Bewertung unterstellten regelmäßigen
-    Verhältnissen der Gegend (§ 38 Abs. 2 Nr. 2) um mehr als 20 Prozent
-    abweichen und
-
-
-2.  wenn die Abweichung eine Änderung des Vergleichswerts der Nutzung oder
-    des Nutzungsteils um mehr als den fünften Teil, mindestens aber um
-    1\.000 Deutsche Mark, oder um mehr als 10.000 Deutsche Mark bewirkt.
-
-
-
-
-(2) Der Abschlag oder der Zuschlag ist nach der durch die Abweichung
-bedingten Minderung oder Steigerung der Ertragsfähigkeit zu bemessen.
-
-(2a) Der Zuschlag wegen Abweichung des tatsächlichen Tierbestands von
-den unterstellten regelmäßigen Verhältnissen der Gegend ist bei
-Fortschreibungen (§ 22) oder Nachfeststellungen (§ 23) um 50 Prozent
-zu vermindern.
-
-(3) Bei Stückländereien sind weder Abschläge für fehlende
-Betriebsmittel beim Eigentümer des Grund und Bodens noch Zuschläge für
-Überbestand an diesen Wirtschaftsgütern bei deren Eigentümern zu
-machen.
-
-
-###### § 42 Nebenbetriebe
-
-(1) Nebenbetriebe sind Betriebe, die dem Hauptbetrieb zu dienen
-bestimmt sind und nicht einen selbständigen gewerblichen Betrieb
-darstellen.
-
-(2) Die Nebenbetriebe sind gesondert mit dem Einzelertragswert zu
-bewerten.
-
-
-###### § 43 Abbauland
-
-(1) Zum Abbauland gehören die Betriebsflächen, die durch Abbau der
-Bodensubstanz überwiegend für den Betrieb nutzbar gemacht werden
-(Sand-, Kies-, Lehmgruben, Steinbrüche, Torfstiche und dergleichen).
-
-(2) Das Abbauland ist gesondert mit dem Einzelertragswert zu bewerten.
-
-
-###### § 44 Geringstland
-
-(1) Zum Geringstland gehören die Betriebsflächen geringster
-Ertragsfähigkeit, für die nach dem Bodenschätzungsgesetz keine
-Wertzahlen festzustellen sind.
-
-(2) Geringstland ist mit einem Hektarwert von 50 Deutschen Mark zu
-bewerten.
-
-
-###### § 45 Unland
-
-(1) Zum Unland gehören die Betriebsflächen, die auch bei geordneter
-Wirtschaftsweise keinen Ertrag abwerfen können.
-
-(2) Unland wird nicht bewertet.
-
-
-###### § 46 Wirtschaftswert
-
-Aus den Vergleichswerten (§ 40 Abs. 1) und den Abschlägen und
-Zuschlägen (§ 41), aus den Einzelertragswerten sowie aus den Werten
-der nach den §§ 42 bis 44 gesondert zu bewertenden Wirtschaftsgüter
-wird der Wert für den Wirtschaftsteil (Wirtschaftswert) gebildet. Für
-seine Ermittlung gelten außer den Bestimmungen in den §§ 35 bis 45
-auch die besonderen Vorschriften in den §§ 50 bis 62.
-
-
-###### § 47 Wohnungswert
-
-Der Wert für den Wohnteil (Wohnungswert) wird nach den Vorschriften
-ermittelt, die beim Grundvermögen für die Bewertung der
-Mietwohngrundstücke im Ertragswertverfahren (§§ 71, 78 bis 82 und 91)
-gelten. Bei der Schätzung der üblichen Miete (§ 79 Abs. 2) sind die
-Besonderheiten, die sich aus der Lage der Gebäude oder Gebäudeteile im
-Betrieb ergeben, zu berücksichtigen. Der ermittelte Betrag ist um 15
-Prozent zu vermindern.
-
-
-###### § 48 Zusammensetzung des Einheitswerts
-
-Der Wirtschaftswert und der Wohnungswert bilden zusammen den
-Einheitswert des Betriebs.
-
-
-###### § 48a Einheitswert bestimmter intensiv genutzter Flächen
-
-Werden Betriebsflächen durch einen anderen Nutzungsberechtigten als
-den Eigentümer bewirtschaftet, so ist
-
-1.  bei der Sonderkultur Spargel (§ 52),
-
-
-2.  bei den gärtnerischen Nutzungsteilen Gemüse, Blumen- und
-    Zierpflanzenbau sowie Baumschulen (§ 61),
-
-
-3.  bei der Saatzucht (§ 62 Abs. 1 Nr. 6)
-
-
-
-der Unterschiedsbetrag zwischen dem für landwirtschaftliche Nutzung
-maßgebenden Vergleichswert und dem höheren Vergleichswert, der durch
-die unter den Nummern 1 bis 3 bezeichneten Nutzungen bedingt ist, bei
-der Feststellung des Einheitswerts des Eigentümers nicht zu
-berücksichtigen und für den Nutzungsberechtigten als selbständiger
-Einheitswert festzustellen. Ist ein Einheitswert für land- und
-forstwirtschaftliches Vermögen des Nutzungsberechtigten festzustellen,
-so ist der Unterschiedsbetrag in diesen Einheitswert einzubeziehen.
-Die Sätze 1 und 2 gelten nicht, wenn der Eigentümer die Flächen
-bereits intensiv im Sinne der Nummern 1 bis 3 genutzt hat.
+###### (XXXX) §§ 33 bis 48a (weggefallen)
 
 
 ###### § 49 (weggefallen)
@@ -1158,541 +451,42 @@ bereits intensiv im Sinne der Nummern 1 bis 3 genutzt hat.
 
 
 
-###### § 50 Ertragsbedingungen
-
-(1) Bei der Beurteilung der natürlichen Ertragsbedingungen (§ 38 Abs.
-2 Nr. 1 Buchstabe a) ist von den Ergebnissen der Bodenschätzung nach
-dem Bodenschätzungsgesetz auszugehen. Dies gilt auch für das
-Bodenartenverhältnis.
-
-(2) Ist durch die natürlichen Verhältnisse ein anderes als das in der
-betreffenden Gegend regelmäßige Kulturartenverhältnis bedingt, so ist
-abweichend von § 38 Abs. 2 Nr. 2 das tatsächliche
-Kulturartenverhältnis maßgebend.
-
-
-###### § 51 Tierbestände
-
-(1) (weggefallen)
-
-(1a) Für Feststellungszeitpunkte ab dem 1. Januar 1999 gehören
-Tierbestände in vollem Umfang zur landwirtschaftlichen Nutzung, wenn
-im Wirtschaftsjahr
-
-*    *   für die ersten 20 Hektar
-
-    *
-
-*    *
-    *   nicht mehr als 10 Vieheinheiten,
-
-
-*    *   für die nächsten 10 Hektar
-
-    *
-
-*    *
-    *   nicht mehr als 7 Vieheinheiten,
-
-
-*    *   für die nächsten 20 Hektar
-
-    *
-
-*    *
-    *   nicht mehr als 6 Vieheinheiten,
-
-
-*    *   für die nächsten 50 Hektar
-
-    *
-
-*    *
-    *   nicht mehr als 3 Vieheinheiten
-
-
-*    *   und für die weitere Fläche
-
-    *
-
-*    *
-    *   nicht mehr als 1,5 Vieheinheiten
-
-
-
-je Hektar der vom Inhaber des Betriebs regelmäßig landwirtschaftlich
-genutzten Flächen erzeugt oder gehalten werden. Die Tierbestände sind
-nach dem Futterbedarf in Vieheinheiten umzurechnen. Diese Zuordnung
-der Tierbestände steht einer Änderung der tatsächlichen Verhältnisse
-gleich, die im Kalenderjahr 1998 eingetreten ist; § 27 ist insoweit
-nicht anzuwenden.
-
-(2) Übersteigt die Anzahl der Vieheinheiten nachhaltig die in Absatz
-1a bezeichnete Grenze, so gehören nur die Zweige des Tierbestands zur
-landwirtschaftlichen Nutzung, deren Vieheinheiten zusammen diese
-Grenze nicht überschreiten. Zunächst sind mehr flächenabhängige Zweige
-des Tierbestands und danach weniger flächenabhängige Zweige des
-Tierbestands zur landwirtschaftlichen Nutzung zu rechnen. Innerhalb
-jeder dieser Gruppe sind zuerst Zweige des Tierbestands mit der
-geringeren Anzahl von Vieheinheiten und dann Zweige mit der größeren
-Anzahl von Vieheinheiten zur landwirtschaftlichen Nutzung zu rechnen.
-Der Tierbestand des einzelnen Zweiges wird nicht aufgeteilt.
-
-(3) Als Zweig des Tierbestands gilt bei jeder Tierart für sich
-
-1.  das Zugvieh,
-
-
-2.  das Zuchtvieh,
-
-
-3.  das Mastvieh,
-
-
-4.  das übrige Nutzvieh.
-
-
-
-Das Zuchtvieh einer Tierart gilt nur dann als besonderer Zweig des
-Tierbestands, wenn die erzeugten Jungtiere überwiegend zum Verkauf
-bestimmt sind. Ist das nicht der Fall, so ist das Zuchtvieh dem Zweig
-des Tierbestands zuzurechnen, dem es überwiegend dient.
-
-(4) Der Umrechnungsschlüssel für Tierbestände in Vieheinheiten sowie
-die Gruppen der mehr oder weniger flächenabhängigen Zweige des
-Tierbestands sind aus den Anlagen 1 und 2 zu entnehmen. Für die Zeit
-von einem nach dem 1. Januar 1964 liegenden
-Hauptfeststellungszeitpunkt an können der Umrechnungsschlüssel für
-Tierbestände in Vieheinheiten sowie die Gruppen der mehr oder weniger
-flächenabhängigen Zweige des Tierbestands durch Rechtsverordnung
-Änderungen der wirtschaftlichen Gegebenheiten, auf denen sie beruhen,
-angepaßt werden.
-
-(5) Die Absätze 1a bis 4 gelten nicht für Pelztiere. Pelztiere gehören
-nur dann zur landwirtschaftlichen Nutzung, wenn die erforderlichen
-Futtermittel überwiegend von den vom Inhaber des Betriebs
-landwirtschaftlich genutzten Flächen gewonnen sind.
-
-
-###### § 51a Gemeinschaftliche Tierhaltung
-
-(1) Zur landwirtschaftlichen Nutzung gehört auch die Tierzucht und
-Tierhaltung von Erwerbs- und Wirtschaftsgenossenschaften (§ 97 Abs. 1
-Nr. 2), von Gesellschaften, bei denen die Gesellschafter als
-Unternehmer (Mitunternehmer) anzusehen sind (§ 97 Abs. 1 Nr. 5), oder
-von Vereinen (§ 97 Abs. 2), wenn
-
-1.  alle Gesellschafter oder Mitglieder
-
-    a)  Inhaber eines Betriebs der Land- und Forstwirtschaft mit
-        selbstbewirtschafteten regelmäßig landwirtschaftlich genutzten Flächen
-        sind,
-
-
-    b)  nach dem Gesamtbild der Verhältnisse hauptberuflich Land- und
-        Forstwirte sind,
-
-
-    c)  Landwirte im Sinne des § 1 Abs. 2 des Gesetzes über die
-        Alterssicherung der Landwirte sind und dies durch eine Bescheinigung
-        der landwirtschaftlichen Alterskasse nachgewiesen wird und
-
-
-    d)  die sich nach § 51 Abs. 1a für sie ergebende Möglichkeit zur
-        landwirtschaftlichen Tiererzeugung oder Tierhaltung in Vieheinheiten
-        ganz oder teilweise auf die Genossenschaft, die Gesellschaft oder den
-        Verein übertragen haben;
-
-
-
-
-
-2.  die Anzahl der von der Genossenschaft, der Gesellschaft oder dem
-    Verein im Wirtschaftsjahr erzeugten oder gehaltenen Vieheinheiten
-    keine der nachfolgenden Grenzen nachhaltig überschreitet:
-
-    a)  die Summe der sich nach Nummer 1 Buchstabe d ergebenden Vieheinheiten
-        und
-
-
-    b)  die Summe der Vieheinheiten, die sich nach § 51 Abs. 1a auf der
-        Grundlage der Summe der von den Gesellschaftern oder Mitgliedern
-        regelmäßig landwirtschaftlich genutzten Flächen ergibt;
-
-
-
-
-
-3.  die Betriebe der Gesellschafter oder Mitglieder nicht mehr als 40 km
-    von der Produktionsstätte der Genossenschaft, der Gesellschaft oder
-    des Vereins entfernt liegen.
-
-
-
-Die Voraussetzungen der Nummer 1 Buchstabe d und der Nummer 2 sind
-durch besondere, laufend zu führende Verzeichnisse nachzuweisen.
-
-(2) Der Anwendung des Absatzes 1 steht es nicht entgegen, wenn die
-dort bezeichneten Genossenschaften, Gesellschaften oder Vereine die
-Tiererzeugung oder Tierhaltung ohne regelmäßig landwirtschaftlich
-genutzte Flächen betreiben.
-
-(3) Von den in Absatz 1 bezeichneten Genossenschaften, Gesellschaften
-oder Vereinen regelmäßig landwirtschaftlich genutzte Flächen sind bei
-der Ermittlung der nach Absatz 1 Nr. 2 maßgebenden Grenzen wie Flächen
-von Gesellschaftern oder Mitgliedern zu behandeln, die ihre
-Möglichkeit zur landwirtschaftlichen Tiererzeugung oder Tierhaltung im
-Sinne des Absatzes 1 Nr. 1 Buchstabe d auf die Genossenschaft, die
-Gesellschaft oder den Verein übertragen haben.
-
-(4) Bei dem einzelnen Gesellschafter oder Mitglied der in Absatz 1
-bezeichneten Genossenschaften, Gesellschaften oder Vereine ist § 51
-Abs. 1a mit der Maßgabe anzuwenden, daß die in seinem Betrieb
-erzeugten oder gehaltenen Vieheinheiten mit den Vieheinheiten
-zusammenzurechnen sind, die im Rahmen der nach Absatz 1 Nr. 1
-Buchstabe d übertragenen Möglichkeiten erzeugt oder gehalten werden.
-
-(5) Die Vorschriften des § 51 Abs. 2 bis 4 sind entsprechend
-anzuwenden.
-
-
-###### § 52 Sonderkulturen
-
-Hopfen, Spargel und andere Sonderkulturen sind als landwirtschaftliche
-Nutzungsteile (§ 37 Abs. 1) zu bewerten.
+###### (XXXX) §§ 50 bis 52 (weggefallen)
 
 
 ###### b) - Forstwirtschaftliche Nutzung
 
 
 
-###### § 53 Umlaufende Betriebsmittel
-
-Eingeschlagenes Holz gehört zum normalen Bestand an umlaufenden
-Betriebsmitteln, soweit es den jährlichen Nutzungssatz nicht
-übersteigt; bei Betrieben, die nicht jährlich einschlagen (aussetzende
-Betriebe), tritt an die Stelle des jährlichen Nutzungssatzes ein den
-Betriebsverhältnissen entsprechender mehrjähriger Nutzungssatz.
-
-
-###### § 54 Bewertungsstichtag
-
-Abweichend von § 35 Abs. 1 sind für den Umfang und den Zustand des
-Bestandes an nicht eingeschlagenem Holz die Verhältnisse am Ende des
-Wirtschaftsjahres zugrunde zu legen, das dem Feststellungszeitpunkt
-vorangegangen ist.
-
-
-###### § 55 Ermittlung des Vergleichswerts
-
-(1) Das vergleichende Verfahren ist auf Hochwald als Nutzungsteil (§
-37 Abs. 1) anzuwenden.
-
-(2) Die Ertragsfähigkeit des Hochwaldes wird vorweg für
-Nachhaltsbetriebe mit regelmäßigem Alters- oder
-Vorratsklassenverhältnis ermittelt und durch Normalwerte ausgedrückt.
-
-(3) Normalwert ist der für eine Holzart unter Berücksichtigung des
-Holzertrags auf einen Hektar bezogene Ertragswert eines
-Nachhaltsbetriebs mit regelmäßigem Alters- oder
-Vorratsklassenverhältnis. Die Normalwerte werden für Bewertungsgebiete
-vom Bewertungsbeirat vorgeschlagen und durch Rechtsverordnung
-festgesetzt. Der Normalwert beträgt für die Hauptfeststellung auf den
-Beginn des Kalenderjahres 1964 höchstens 3.200 Deutsche Mark (Fichte,
-Ertragsklasse I A, Bestockungsgrad 1,0).
-
-(4) Die Anteile der einzelnen Alters- oder Vorratsklassen an den
-Normalwerten werden durch Prozentsätze ausgedrückt. Für jede Alters-
-oder Vorratsklasse ergibt sich der Prozentsatz aus dem Verhältnis
-ihres Abtriebswerts zum Abtriebswert des Nachhaltsbetriebs mit
-regelmäßigem Alters- oder Vorratsklassenverhältnis. Die Prozentsätze
-werden einheitlich für alle Bewertungsgebiete durch Rechtsverordnung
-festgesetzt. Sie betragen für die Hauptfeststellung auf den Beginn des
-Kalenderjahres 1964 höchstens 260 Prozent der Normalwerte.
-
-(5) Ausgehend von den nach Absatz 3 festgesetzten Normalwerten wird
-für die forstwirtschaftliche Nutzung des einzelnen Betriebs der
-Ertragswert (Vergleichswert) abgeleitet. Dabei werden die Prozentsätze
-auf die Alters- oder Vorratsklassen angewendet.
-
-(6) Der Wert der einzelnen Alters- oder Vorratsklasse beträgt
-mindestens 50 Deutsche Mark je Hektar.
-
-(7) Mittelwald und Niederwald sind mit 50 Deutsche Mark je Hektar
-anzusetzen.
-
-(8) Zur Förderung der Gleichmäßigkeit der Bewertung wird, ausgehend
-von den Normalwerten des Bewertungsgebiets nach Absatz 3, durch den
-Bewertungsbeirat (§§ 63 bis 66) für den forstwirtschaftlichen
-Nutzungsteil Hochwald in einzelnen Betrieben mit gegendüblichen
-Ertragsbedingungen (Hauptbewertungsstützpunkte) der Vergleichswert
-vorgeschlagen und durch Rechtsverordnung festgesetzt.
-
-(9) Zur Berücksichtigung der rückläufigen Reinerträge sind die nach
-Absatz 5 ermittelten Ertragswerte (Vergleichswerte) um 40 Prozent zu
-vermindern; die Absätze 6 und 7 bleiben unberührt.
+###### (XXXX) §§ 53 bis 55 (weggefallen)
 
 
 ###### c) - Weinbauliche Nutzung
 
 
 
-###### § 56 Umlaufende Betriebsmittel
-
-(1) Bei ausbauenden Betrieben zählen die Vorräte an Weinen aus der
-letzten und der vorletzten Ernte vor dem Bewertungsstichtag zum
-normalen Bestand an umlaufenden Betriebsmitteln. Für die Weinvorräte
-aus der vorletzten Ernte vor dem Bewertungsstichtag gilt dies jedoch
-nur, soweit sie nicht auf Flaschen gefüllt sind.
-
-(2) Für Feststellungszeitpunkte ab dem 1. Januar 1996 zählen bei
-ausbauenden Betrieben die Vorräte an Weinen aus den Ernten der letzten
-fünf Jahre vor dem Bewertungsstichtag zum normalen Bestand an
-umlaufenden Betriebsmitteln. Diese Zuordnung der Weinvorräte steht
-einer Änderung der tatsächlichen Verhältnisse gleich, die im
-Kalenderjahr 1995 eingetreten ist; § 27 ist insoweit nicht anzuwenden.
-
-(3) Abschläge für Unterbestand an Weinvorräten sind nicht zu machen.
-
-
-###### § 57 Bewertungsstützpunkte
-
-Als Bewertungsstützpunkte dienen Weinbaulagen oder Teile von
-Weinbaulagen.
-
-
-###### § 58 Innere Verkehrslage
-
-Bei der Berücksichtigung der inneren Verkehrslage sind abweichend von
-§ 38 Abs. 2 Nr. 1 nicht die tatsächlichen Verhältnisse, sondern die in
-der Weinbaulage regelmäßigen Verhältnisse zugrunde zu legen; § 41 ist
-entsprechend anzuwenden.
+###### (XXXX) §§ 56 bis 58 (weggefallen)
 
 
 ###### d) - Gärtnerische Nutzung
 
 
 
-###### § 59 Bewertungsstichtag
-
-(1) Die durch Anbau von Baumschulgewächsen genutzte Betriebsfläche
-wird abweichend von § 35 Abs. 1 nach den Verhältnissen an dem 15.
-September bestimmt, der dem Feststellungszeitpunkt vorangegangen ist.
-
-(2) Die durch Anbau von Gemüse, Blumen und Zierpflanzen genutzte
-Betriebsfläche wird abweichend von § 35 Abs. 1 nach den Verhältnissen
-an dem 30. Juni bestimmt, der dem Feststellungszeitpunkt vorangegangen
-ist.
-
-
-###### § 60 Ertragsbedingungen
-
-(1) Bei der Beurteilung der natürlichen Ertragsbedingungen (§ 38 Abs.
-2 Nr. 1 Buchstabe a) ist von den Ergebnissen der Bodenschätzung nach
-dem Bodenschätzungsgesetz auszugehen.
-
-(2) Hinsichtlich der ertragsteigernden Anlagen, insbesondere der
-überdachten Anbauflächen, sind - abweichend von § 38 Abs. 2 Nr. 2 -
-die tatsächlichen Verhältnisse des Betriebs zugrunde zu legen.
-
-
-###### § 61 Anwendung des vergleichenden Verfahrens
-
-Das vergleichende Verfahren ist auf Gemüse-, Blumen- und
-Zierpflanzenbau, auf Obstbau und auf Baumschulen als Nutzungsteile (§
-37 Abs. 1 Satz 2) anzuwenden.
+###### (XXXX) §§ 59 bis 61 (weggefallen)
 
 
 ###### e) - Sonstige land- und forstwirtschaftliche Nutzung
 
 
 
-###### § 62 Arten und Bewertung der sonstigen land- und forstwirtschaftlichen Nutzung
-
-(1) Zur sonstigen land- und forstwirtschaftlichen Nutzung gehören
-insbesondere
-
-1.  die Binnenfischerei,
-
-
-2.  die Teichwirtschaft,
-
-
-3.  die Fischzucht für Binnenfischerei und Teichwirtschaft,
-
-
-4.  die Imkerei,
-
-
-5.  die Wanderschäferei,
-
-
-6.  die Saatzucht.
-
-
-
-
-(2) Für die Arten der sonstigen land- und forstwirtschaftlichen
-Nutzung werden im vergleichenden Verfahren abweichend von § 38 Abs. 1
-keine Vergleichszahlen, sondern unmittelbare Vergleichswerte
-ermittelt.
+###### § 62 (weggefallen)
 
 
 ##### III. - Bewertungsbeirat, Gutachterausschuß
 
 
 
-###### § 63 Bewertungsbeirat
-
-(1) Beim Bundesministerium der Finanzen wird ein Bewertungsbeirat
-gebildet.
-
-(2) Der Bewertungsbeirat gliedert sich in eine landwirtschaftliche
-Abteilung, eine forstwirtschaftliche Abteilung, eine Weinbauabteilung
-und eine Gartenbauabteilung. Die Gartenbauabteilung besteht aus den
-Unterabteilungen für Gemüse-, Blumen- und Zierpflanzenbau, für Obstbau
-und für Baumschulen.
-
-(3) (weggefallen)
-
-
-###### § 64 Mitglieder
-
-(1) Dem Bewertungsbeirat gehören an
-
-1.  in jeder Abteilung und Unterabteilung:
-
-    a)  ein Beamter des Bundesministeriums der Finanzen als Vorsitzender,
-
-
-    b)  ein Beamter des Bundesministeriums für Ernährung und Landwirtschaft;
-
-
-
-
-
-2.  in der landwirtschaftlichen Abteilung und in der forstwirtschaftlichen
-    Abteilung je zehn Mitglieder;
-
-
-3.  in der Weinbauabteilung acht Mitglieder;
-
-
-4.  in der Gartenbauabteilung vier Mitglieder mit allgemeiner Sachkunde,
-    zu denen für jede Unterabteilung drei weitere Mitglieder mit
-    besonderer Fachkenntnis hinzutreten.
-
-
-
-
-(2) Nach Bedarf können weitere Mitglieder berufen werden.
-
-(3) Die Mitglieder nach Absatz 1 Nr. 2 bis 4 und nach Absatz 2 werden
-auf Vorschlag der obersten Finanzbehörden der Länder durch das
-Bundesministerium der Finanzen im Einvernehmen mit dem
-Bundesministerium für Ernährung und Landwirtschaft berufen. Die
-Berufung kann mit Zustimmung der obersten Finanzbehörden der Länder
-zurückgenommen werden. Scheidet eines der nach Absatz 1 Nr. 2 bis 4
-berufenen Mitglieder aus, so ist ein neues Mitglied zu berufen. Die
-Mitglieder müssen sachkundig sein.
-
-(4) Die nach Absatz 3 berufenen Mitglieder haben bei den Verhandlungen
-des Bewertungsbeirats ohne Rücksicht auf Sonderinteressen nach bestem
-Wissen und Gewissen zu verfahren. Sie dürfen den Inhalt der
-Verhandlungen des Bewertungsbeirats sowie die Verhältnisse der
-Steuerpflichtigen, die ihnen im Zusammenhang mit ihrer Tätigkeit auf
-Grund dieses Gesetzes bekanntgeworden sind, nicht unbefugt offenbaren
-und Geheimnisse, insbesondere Betriebs- oder Geschäftsgeheimnisse,
-nicht unbefugt verwerten. Sie werden bei Beginn ihrer Tätigkeit von
-dem Vorsitzenden des Bewertungsbeirats durch Handschlag verpflichtet,
-diese Obliegenheiten gewissenhaft zu erfüllen. Über diese
-Verpflichtung ist eine Niederschrift aufzunehmen, die von dem
-Verpflichteten mit unterzeichnet wird. Auf Zuwiderhandlungen sind die
-Vorschriften über das Steuergeheimnis und die Strafbarkeit seiner
-Verletzung entsprechend anzuwenden.
-
-
-###### § 65 Aufgaben
-
-Der Bewertungsbeirat hat die Aufgabe, Vorschläge zu machen
-
-1.  für die durch besonderes Gesetz festzusetzenden Ertragswerte (§ 40
-    Abs. 1),
-
-
-2.  für die durch Rechtsverordnung festzusetzenden Vergleichszahlen (§ 39
-    Abs. 1) und Vergleichswerte (§ 55 Abs. 8) der
-    Hauptbewertungsstützpunkte,
-
-
-3.  für die durch Rechtsverordnung festzusetzenden Normalwerte der
-    forstwirtschaftlichen Nutzung für Bewertungsgebiete (§ 55 Abs. 3).
-
-
-
-
-
-###### § 66 Geschäftsführung
-
-(1) Der Vorsitzende führt die Geschäfte des Bewertungsbeirats und
-leitet die Verhandlungen. Das Bundesministerium der Finanzen kann eine
-Geschäftsordnung für den Bewertungsbeirat erlassen.
-
-(2) Die einzelnen Abteilungen und Unterabteilungen des
-Bewertungsbeirats sind beschlußfähig, wenn mindestens zwei Drittel der
-Mitglieder anwesend sind. Bei Abstimmung entscheidet die
-Stimmenmehrheit, bei Stimmengleichheit die Stimme des Vorsitzenden.
-
-(3) Der Bewertungsbeirat hat seinen Sitz am Sitz des
-Bundesministeriums der Finanzen. Er hat bei Durchführung seiner
-Aufgaben die Ermittlungsbefugnisse, die den Finanzämtern nach der
-Abgabenordnung zustehen.
-
-(4) Die Verhandlungen des Bewertungsbeirats sind nicht öffentlich. Der
-Bewertungsbeirat kann nach seinem Ermessen Sachverständige hören; § 64
-Abs. 4 gilt entsprechend.
-
-
-###### § 67 Gutachterausschuß
-
-(1) Zur Förderung der Gleichmäßigkeit der Bewertung des land- und
-forstwirtschaftlichen Vermögens in den Ländern, insbesondere durch
-Bewertung von Landes-Bewertungsstützpunkten, wird bei jeder
-Oberfinanzdirektion ein Gutachterausschuß gebildet. Bei jedem
-Gutachterausschuß ist eine landwirtschaftliche Abteilung zu bilden.
-Weitere Abteilungen können nach Bedarf entsprechend der Gliederung des
-Bewertungsbeirats (§ 63) gebildet werden.
-
-(2) Die landwirtschaftliche Abteilung des Gutachterausschusses
-übernimmt auch die Befugnisse des Landesschätzungsbeirats nach dem
-Bodenschätzungsgesetz.
-
-(3) Dem Gutachterausschuß oder jeder seiner Abteilungen gehören an
-
-1.  der Oberfinanzpräsident oder ein von ihm beauftragter Angehöriger
-    seiner Behörde als Vorsitzender,
-
-
-2.  ein von der für die Land- und Forstwirtschaft zuständigen obersten
-    Landesbehörde beauftragter Beamter,
-
-
-3.  fünf sachkundige Mitglieder, die durch die für die Finanzverwaltung
-    zuständige oberste Landesbehörde im Einvernehmen mit der für die Land-
-    und Forstwirtschaft zuständigen obersten Landesbehörde berufen werden.
-    Die Berufung kann zurückgenommen werden. § 64 Abs. 2 und 4 gilt
-    entsprechend. Die Landesregierungen werden ermächtigt, durch
-    Rechtsverordnung die zuständigen Behörden abweichend von Satz 1 zu
-    bestimmen. Sie können diese Ermächtigung auf oberste Landesbehörden
-    übertragen.
-
-
-
-
-(4) Der Vorsitzende führt die Geschäfte des Gutachterausschusses und
-leitet die Verhandlungen. Die Verhandlungen sind nicht öffentlich. Für
-die Beschlußfähigkeit und die Abstimmung gilt § 66 Abs. 2
-entsprechend.
+###### (XXXX) §§ 63 bis 67 (weggefallen)
 
 
 #### C. - Grundvermögen
@@ -1703,68 +497,7 @@ entsprechend.
 
 
 
-###### § 68 Begriff des Grundvermögens
-
-(1) Zum Grundvermögen gehören
-
-1.  der Grund und Boden, die Gebäude, die sonstigen Bestandteile und das
-    Zubehör,
-
-
-2.  das Erbbaurecht,
-
-
-3.  das Wohnungseigentum, Teileigentum, Wohnungserbbaurecht und
-    Teilerbbaurecht nach dem Wohnungseigentumsgesetz,
-
-
-
-soweit es sich nicht um land- und forstwirtschaftliches Vermögen (§
-33) oder um Betriebsgrundstücke (§ 99) handelt.
-
-(2) In das Grundvermögen sind nicht einzubeziehen
-
-1.  Bodenschätze,
-
-
-2.  die Maschinen und sonstigen Vorrichtungen aller Art, die zu einer
-    Betriebsanlage gehören (Betriebsvorrichtungen), auch wenn sie
-    wesentliche Bestandteile sind.
-
-
-
-Einzubeziehen sind jedoch die Verstärkungen von Decken und die nicht
-ausschließlich zu einer Betriebsanlage gehörenden Stützen und
-sonstigen Bauteile wie Mauervorlagen und Verstrebungen.
-
-
-###### § 69 Abgrenzung des Grundvermögens vom land- und forstwirtschaftlichen Vermögen
-
-(1) Land- und forstwirtschaftlich genutzte Flächen sind dem
-Grundvermögen zuzurechnen, wenn nach ihrer Lage, den im
-Feststellungszeitpunkt bestehenden Verwertungsmöglichkeiten oder den
-sonstigen Umständen anzunehmen ist, daß sie in absehbarer Zeit anderen
-als land- und forstwirtschaftlichen Zwecken, insbesondere als Bauland,
-Industrieland oder Land für Verkehrszwecke, dienen werden.
-
-(2) Bildet ein Betrieb der Land- und Forstwirtschaft die
-Existenzgrundlage des Betriebsinhabers, so sind dem Betriebsinhaber
-gehörende Flächen, die von einer Stelle aus ordnungsgemäß nachhaltig
-bewirtschaftet werden, dem Grundvermögen nur dann zuzurechnen, wenn
-mit großer Wahrscheinlichkeit anzunehmen ist, daß sie spätestens nach
-zwei Jahren anderen als land- und forstwirtschaftlichen Zwecken dienen
-werden.
-
-(3) Flächen sind stets dem Grundvermögen zuzurechnen, wenn sie in
-einem Bebauungsplan als Bauland festgesetzt sind, ihre sofortige
-Bebauung möglich ist und die Bebauung innerhalb des Plangebiets in
-benachbarten Bereichen begonnen hat oder schon durchgeführt ist. Satz
-1 gilt nicht für die Hofstelle und für andere Flächen in unmittelbarem
-räumlichem Zusammenhang mit der Hofstelle bis zu einer Größe von
-insgesamt einem Hektar.
-
-(4) Absatz 2 findet in den Fällen des § 55 Abs. 5 Satz 1 des
-Einkommensteuergesetzes keine Anwendung.
+###### (XXXX) §§ 68 und 69 (weggefallen)
 
 
 ###### § 70 Grundstück
@@ -1788,50 +521,14 @@ selbst wenn es wesentlicher Bestandteil des Grund und Bodens geworden
 ist.
 
 
-###### § 71 Gebäude und Gebäudeteile für den Zivilschutz
-
-Gebäude, Teile von Gebäuden und Anlagen, die zum Schutz der
-Bevölkerung sowie lebens- und verteidigungswichtiger Sachgüter vor der
-Wirkung von Angriffswaffen geschaffen worden sind, bleiben bei der
-Ermittlung des Einheitswerts außer Betracht, wenn sie im Frieden nicht
-oder nur gelegentlich oder geringfügig für andere Zwecke benutzt
-werden.
+###### § 71 (weggefallen)
 
 
 ##### II. - Unbebaute Grundstücke
 
 
 
-###### § 72 Begriff
-
-(1) Unbebaute Grundstücke sind Grundstücke, auf denen sich keine
-benutzbaren Gebäude befinden. Die Benutzbarkeit beginnt im Zeitpunkt
-der Bezugsfertigkeit. Gebäude sind als bezugsfertig anzusehen, wenn
-den zukünftigen Bewohnern oder sonstigen Benutzern zugemutet werden
-kann, sie zu benutzen; die Abnahme durch die Bauaufsichtsbehörde ist
-nicht entscheidend.
-
-(2) Befinden sich auf einem Grundstück Gebäude, deren Zweckbestimmung
-und Wert gegenüber der Zweckbestimmung und dem Wert des Grund und
-Bodens von untergeordneter Bedeutung sind, so gilt das Grundstück als
-unbebaut.
-
-(3) Als unbebautes Grundstück gilt auch ein Grundstück, auf dem
-infolge der Zerstörung oder des Verfalls der Gebäude auf die Dauer
-benutzbarer Raum nicht mehr vorhanden ist.
-
-
-###### § 73 Baureife Grundstücke
-
-(1) Innerhalb der unbebauten Grundstücke bilden die baureifen
-Grundstücke eine besondere Grundstücksart.
-
-(2) Baureife Grundstücke sind unbebaute Grundstücke, wenn sie in einem
-Bebauungsplan als Bauland festgesetzt sind, ihre sofortige Bebauung
-möglich ist und die Bebauung innerhalb des Plangebiets in benachbarten
-Bereichen begonnen hat oder schon durchgeführt ist. Zu den baureifen
-Grundstücken gehören nicht Grundstücke, die für den Gemeinbedarf
-vorgesehen sind.
+###### (XXXX) §§ 72 und 73 (weggefallen)
 
 
 ##### III. - Bebaute Grundstücke
@@ -1842,137 +539,7 @@ vorgesehen sind.
 
 
 
-###### § 74 Begriff
-
-Bebaute Grundstücke sind Grundstücke, auf denen sich benutzbare
-Gebäude befinden, mit Ausnahme der in § 72 Abs. 2 und 3 bezeichneten
-Grundstücke. Wird ein Gebäude in Bauabschnitten errichtet, so ist der
-fertiggestellte und bezugsfertige Teil als benutzbares Gebäude
-anzusehen.
-
-
-###### § 75 Grundstücksarten
-
-(1) Bei der Bewertung bebauter Grundstücke sind die folgenden
-Grundstücksarten zu unterscheiden:
-
-1.  Mietwohngrundstücke,
-
-
-2.  Geschäftsgrundstücke,
-
-
-3.  gemischtgenutzte Grundstücke,
-
-
-4.  Einfamilienhäuser,
-
-
-5.  Zweifamilienhäuser,
-
-
-6.  sonstige bebaute Grundstücke.
-
-
-
-
-(2) Mietwohngrundstücke sind Grundstücke, die zu mehr als achtzig
-Prozent, berechnet nach der Jahresrohmiete (§ 79), Wohnzwecken dienen
-mit Ausnahme der Einfamilienhäuser und Zweifamilienhäuser (Absätze 5
-und 6).
-
-(3) Geschäftsgrundstücke sind Grundstücke, die zu mehr als achtzig
-Prozent, berechnet nach der Jahresrohmiete (§ 79), eigenen oder
-fremden gewerblichen oder öffentlichen Zwecken dienen.
-
-(4) Gemischtgenutzte Grundstücke sind Grundstücke, die teils
-Wohnzwecken, teils eigenen oder fremden gewerblichen oder öffentlichen
-Zwecken dienen und nicht Mietwohngrundstücke, Geschäftsgrundstücke,
-Einfamilienhäuser oder Zweifamilienhäuser sind.
-
-(5) Einfamilienhäuser sind Wohngrundstücke, die nur eine Wohnung
-enthalten. Wohnungen des Hauspersonals (Pförtner, Heizer, Gärtner,
-Kraftwagenführer, Wächter usw.) sind nicht mitzurechnen. Eine zweite
-Wohnung steht, abgesehen von Satz 2, dem Begriff "Einfamilienhaus"
-entgegen, auch wenn sie von untergeordneter Bedeutung ist. Ein
-Grundstück gilt auch dann als Einfamilienhaus, wenn es zu gewerblichen
-oder öffentlichen Zwecken mitbenutzt wird und dadurch die Eigenart als
-Einfamilienhaus nicht wesentlich beeinträchtigt wird.
-
-(6) Zweifamilienhäuser sind Wohngrundstücke, die nur zwei Wohnungen
-enthalten. Die Sätze 2 bis 4 von Absatz 5 sind entsprechend
-anzuwenden.
-
-(7) Sonstige bebaute Grundstücke sind solche Grundstücke, die nicht
-unter die Absätze 2 bis 6 fallen.
-
-
-###### § 76 Bewertung
-
-(1) Der Wert des Grundstücks ist vorbehaltlich des Absatzes 3 im Wege
-des Ertragswertverfahrens (§§ 78 bis 82) zu ermitteln für
-
-1.  Mietwohngrundstücke,
-
-
-2.  Geschäftsgrundstücke,
-
-
-3.  gemischtgenutzte Grundstücke,
-
-
-4.  Einfamilienhäuser,
-
-
-5.  Zweifamilienhäuser.
-
-
-
-
-(2) Für die sonstigen bebauten Grundstücke ist der Wert im Wege des
-Sachwertverfahrens (§§ 83 bis 90) zu ermitteln.
-
-(3) Das Sachwertverfahren ist abweichend von Absatz 1 anzuwenden
-
-1.  bei Einfamilienhäusern und Zweifamilienhäusern, die sich durch
-    besondere Gestaltung oder Ausstattung wesentlich von den nach Absatz 1
-    zu bewertenden Einfamilienhäusern und Zweifamilienhäusern
-    unterscheiden;
-
-
-2.  bei solchen Gruppen von Geschäftsgrundstücken und in solchen
-    Einzelfällen bebauter Grundstücke der in § 75 Abs. 1 Nr. 1 bis 3
-    bezeichneten Grundstücksarten, für die weder eine Jahresrohmiete
-    ermittelt noch die übliche Miete nach § 79 Abs. 2 geschätzt werden
-    kann;
-
-
-3.  bei Grundstücken mit Behelfsbauten und bei Grundstücken mit Gebäuden
-    in einer Bauart oder Bauausführung, für die ein Vervielfältiger (§ 80)
-    in den Anlagen 3 bis 8 nicht bestimmt ist.
-
-
-
-
-
-###### § 77 Mindestwert
-
-[^BJNR010350934BJNE011002301]
-
-Der für ein bebautes Grundstück anzusetzende Wert darf nicht geringer
-sein als der Wert, mit dem der Grund und Boden allein als unbebautes
-Grundstück zu bewerten wäre. Müssen Gebäude oder Gebäudeteile wegen
-ihres baulichen Zustands abgebrochen werden, so sind die Abbruchkosten
-zu berücksichtigen.
-
------
-
-[^BJNR010350934BJNE011002301]:     Nach Artikel 7 des Steueränderungsgesetzes 1969 vom 18. August 1969
-    (BGBl. I S. 1211) ist § 77 im Hauptfeststellungszeitraum 1964 in
-    folgender Fassung anzuwenden:              "Der für ein bebautes
-    Grundstück anzusetzende Wert darf nicht geringer sein als 50 vom
-    Hundert des Werts, mit dem der Grund und Boden allein als unbebautes
-    Grundstück zu bewerten wäre."
+###### (XXXX) §§ 74 bis 77 (weggefallen)
 
 
 ###### b) - Verfahren
@@ -1983,451 +550,21 @@ zu berücksichtigen.
 
 
 
-###### § 78 Grundstückswert
-
-Der Grundstückswert umfaßt den Bodenwert, den Gebäudewert und den Wert
-der Außenanlagen. Er ergibt sich durch Anwendung eines
-Vervielfältigers (§ 80) auf die Jahresrohmiete (§ 79) unter
-Berücksichtigung der §§ 81 und 82.
-
-
-###### § 79 Jahresrohmiete
-
-(1) Jahresrohmiete ist das Gesamtentgelt, das die Mieter (Pächter) für
-die Benutzung des Grundstücks auf Grund vertraglicher Vereinbarungen
-nach dem Stand im Feststellungszeitpunkt für ein Jahr zu entrichten
-haben. Umlagen und alle sonstigen Leistungen des Mieters sind
-einzubeziehen. Zur Jahresrohmiete gehören auch Betriebskosten (z. B.
-Gebühren der Gemeinde), die durch die Gemeinde von den Mietern
-unmittelbar erhoben werden. Nicht einzubeziehen sind
-Untermietzuschläge, Kosten des Betriebs der zentralen Heizungs-,
-Warmwasserversorgungs- und Brennstoffversorgungsanlage sowie des
-Fahrstuhls, ferner alle Vergütungen für außergewöhnliche
-Nebenleistungen des Vermieters, die nicht die Raumnutzung betreffen
-(z. B. Bereitstellung von Wasserkraft, Dampfkraft, Preßluft,
-Kraftstrom und dergleichen), sowie Nebenleistungen des Vermieters, die
-nur einzelnen Mietern zugute kommen.
-
-(2) Statt des Betrags nach Absatz 1 gilt die übliche Miete als
-Jahresrohmiete für solche Grundstücke oder Grundstücksteile,
-
-1.  die eigengenutzt, ungenutzt, zu vorübergehendem Gebrauch oder
-    unentgeltlich überlassen sind,
-
-
-2.  die der Eigentümer dem Mieter zu einer um mehr als zwanzig Prozent von
-    der üblichen Miete abweichenden tatsächlichen Miete überlassen hat.
-
-
-
-Die übliche Miete ist in Anlehnung an die Jahresrohmiete zu schätzen,
-die für Räume gleicher oder ähnlicher Art, Lage und Ausstattung
-regelmäßig gezahlt wird.
-
-(3) (weggefallen)
-
-(4) (weggefallen)
-
-(5) Bei Fortschreibungen und Nachfeststellungen gelten für die Höhe
-der Miete die Wertverhältnisse im Hauptfeststellungszeitpunkt.
-
-
-###### § 80 Vervielfältiger
-
-(1) Die Zahl, mit der die Jahresrohmiete zu vervielfachen ist
-(Vervielfältiger), ist aus den Anlagen 3 bis 8 zu entnehmen. Der
-Vervielfältiger bestimmt sich nach der Grundstücksart, der Bauart und
-Bauausführung, dem Baujahr des Gebäudes sowie nach der Einwohnerzahl
-der Belegenheitsgemeinde im Hauptfeststellungszeitpunkt. Erstreckt
-sich ein Grundstück über mehrere Gemeinden, so ist
-Belegenheitsgemeinde die Gemeinde, in der der wertvollste Teil des
-Grundstücks belegen ist. Bei Umgemeindungen nach dem
-Hauptfeststellungszeitpunkt sind weiterhin die Einwohnerzahlen
-zugrunde zu legen, die für die betroffenen Gemeinden oder
-Gemeindeteile im Hauptfeststellungszeitpunkt maßgebend waren.
-
-(2) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung zu
-bestimmen, daß Gemeinden oder Gemeindeteile in eine andere
-Gemeindegrößenklasse eingegliedert werden, als es ihrer Einwohnerzahl
-entspricht, wenn die Vervielfältiger wegen der besonderen
-wirtschaftlichen Verhältnisse in diesen Gemeinden oder Gemeindeteilen
-abweichend festgesetzt werden müssen (z. B. in Kurorten und
-Randgemeinden).
-
-(3) Ist die Lebensdauer eines Gebäudes gegenüber der nach seiner
-Bauart und Bauausführung in Betracht kommenden Lebensdauer infolge
-baulicher Maßnahmen wesentlich verlängert oder infolge nicht
-behebbarer Baumängel und Bauschäden wesentlich verkürzt, so ist der
-Vervielfältiger nicht nach dem tatsächlichen Baujahr des Gebäudes,
-sondern nach dem um die entsprechende Zeit späteren oder früheren
-Baujahr zu ermitteln.
-
-(4) Befinden sich auf einem Grundstück Gebäude oder Gebäudeteile, die
-eine verschiedene Bauart oder Bauausführung aufweisen oder die in
-verschiedenen Jahren bezugsfertig geworden sind, so sind für die
-einzelnen Gebäude oder Gebäudeteile die nach der Bauart und
-Bauausführung sowie nach dem Baujahr maßgebenden Vervielfältiger
-anzuwenden. Können die Werte der einzelnen Gebäude oder Gebäudeteile
-nur schwer ermittelt werden, so kann für das ganze Grundstück ein
-Vervielfältiger nach einem durchschnittlichen Baujahr angewendet
-werden.
-
-
-###### § 81 Außergewöhnliche Grundsteuerbelastung
-
-Weicht im Hauptfeststellungszeitpunkt die Grundsteuerbelastung in
-einer Gemeinde erheblich von der in den Vervielfältigern
-berücksichtigten Grundsteuerbelastung ab, so sind die Grundstückswerte
-in diesen Gemeinden bis zu 10 Prozent zu ermäßigen oder zu erhöhen.
-Die Prozentsätze werden durch Rechtsverordnung bestimmt.
-
-
-###### § 82 Ermäßigung und Erhöhung
-
-(1) Liegen wertmindernde Umstände vor, die weder in der Höhe der
-Jahresrohmiete noch in der Höhe des Vervielfältigers berücksichtigt
-sind, so ist der sich nach den §§ 78 bis 81 ergebende Grundstückswert
-zu ermäßigen. Als solche Umstände kommen z. B. in Betracht
-
-1.  ungewöhnlich starke Beeinträchtigungen durch Lärm, Rauch oder Gerüche,
-
-
-2.  behebbare Baumängel und Bauschäden und
-
-
-3.  die Notwendigkeit baldigen Abbruchs.
-
-
-
-
-(2) Liegen werterhöhende Umstände vor, die in der Höhe der
-Jahresrohmiete nicht berücksichtigt sind, so ist der sich nach den §§
-78 bis 81 ergebende Grundstückswert zu erhöhen. Als solche Umstände
-kommen nur in Betracht
-
-1.  die Größe der nicht bebauten Fläche, wenn sich auf dem Grundstück
-    keine Hochhäuser befinden; ein Zuschlag unterbleibt, wenn die gesamte
-    Fläche bei Einfamilienhäusern oder Zweifamilienhäusern nicht mehr als
-    1\.500 qm, bei den übrigen Grundstücksarten nicht mehr als das
-    Fünffache der bebauten Fläche beträgt,
-
-
-2.  die nachhaltige Ausnutzung des Grundstücks für Reklamezwecke gegen
-    Entgelt.
-
-
-
-
-(3) Die Ermäßigung nach Absatz 1 Nr. 1 und 2 oder die Erhöhung nach
-Absatz 2 darf insgesamt dreißig Prozent des Grundstückswerts (§§ 78
-bis 81) nicht übersteigen. Treffen die Voraussetzungen für die
-Ermäßigung nach Absatz 1 Nr. 1 und 2 und für die Erhöhung nach Absatz
-2 zusammen, so ist der Höchstsatz nur auf das Ergebnis des Ausgleichs
-anzuwenden.
+###### (XXXX) §§ 78 bis 82 (weggefallen)
 
 
 ###### 2. - Sachwertverfahren
 
 
 
-###### § 83 Grundstückswert
-
-Bei der Ermittlung des Grundstückswertes ist vom Bodenwert (§ 84), vom
-Gebäudewert (§§ 85 bis 88) und vom Wert der Außenanlagen (§ 89)
-auszugehen (Ausgangswert). Der Ausgangswert ist an den gemeinen Wert
-anzugleichen (§ 90).
-
-
-###### § 84 Bodenwert
-
-Der Grund und Boden ist mit dem Wert anzusetzen, der sich ergeben
-würde, wenn das Grundstück unbebaut wäre.
-
-
-###### § 85 Gebäudewert
-
-Bei der Ermittlung des Gebäudewertes ist zunächst ein Wert auf der
-Grundlage von durchschnittlichen Herstellungskosten nach den
-Baupreisverhältnissen des Jahres 1958 zu errechnen. Dieser Wert ist
-nach den Baupreisverhältnissen im Hauptfeststellungszeitpunkt
-umzurechnen (Gebäudenormalherstellungswert). Der
-Gebäudenormalherstellungswert ist wegen des Alters des Gebäudes im
-Hauptfeststellungszeitpunkt (§ 86) und wegen etwa vorhandener
-baulicher Mängel und Schäden (§ 87) zu mindern (Gebäudesachwert). Der
-Gebäudesachwert kann in besonderen Fällen ermäßigt oder erhöht werden
-(§ 88).
-
-
-###### § 86 Wertminderung wegen Alters
-
-(1) Die Wertminderung wegen Alters bestimmt sich nach dem Alter des
-Gebäudes im Hauptfeststellungszeitpunkt und der gewöhnlichen
-Lebensdauer von Gebäuden gleicher Art und Nutzung. Sie ist in einem
-Prozentsatz des Gebäudenormalherstellungswertes auszudrücken. Dabei
-ist von einer gleichbleibenden jährlichen Wertminderung auszugehen.
-
-(2) Als Alter des Gebäudes gilt die Zeit zwischen dem Beginn des
-Jahres, in dem das Gebäude bezugsfertig geworden ist, und dem
-Hauptfeststellungszeitpunkt.
-
-(3) Als Wertminderung darf insgesamt kein höherer Betrag abgesetzt
-werden, als sich bei einem Alter von siebzig Prozent der Lebensdauer
-ergibt. Dieser Betrag kann nur überschritten werden, wenn eine
-außergewöhnliche Wertminderung vorliegt.
-
-(4) Ist die restliche Lebensdauer eines Gebäudes infolge baulicher
-Maßnahmen verlängert, so ist der nach dem tatsächlichen Alter
-errechnete Prozentsatz entsprechend zu mindern.
-
-
-###### § 87 Wertminderung wegen baulicher Mängel und Schäden
-
-Für bauliche Mängel und Schäden, die weder bei der Ermittlung des
-Gebäudenormalherstellungswertes noch bei der Wertminderung wegen
-Alters berücksichtigt worden sind, ist ein Abschlag zu machen. Die
-Höhe des Abschlags richtet sich nach Bedeutung und Ausmaß der Mängel
-und Schäden.
-
-
-###### § 88 Ermäßigung und Erhöhung
-
-(1) Der Gebäudesachwert kann ermäßigt oder erhöht werden, wenn
-Umstände tatsächlicher Art vorliegen, die bei seiner Ermittlung nicht
-berücksichtigt worden sind.
-
-(2) Eine Ermäßigung kann insbesondere in Betracht kommen, wenn Gebäude
-wegen der Lage des Grundstücks, wegen unorganischen Aufbaus oder
-wirtschaftlicher Überalterung in ihrem Wert gemindert sind.
-
-(3) Ein besonderer Zuschlag ist zu machen, wenn ein Grundstück
-nachhaltig gegen Entgelt für Reklamezwecke genutzt wird.
-
-
-###### § 89 Wert der Außenanlagen
-
-Der Wert der Außenanlagen (z. B. Umzäunungen, Wege- oder
-Platzbefestigungen) ist aus durchschnittlichen Herstellungskosten nach
-den Baupreisverhältnissen des Jahres 1958 zu errechnen und nach den
-Baupreisverhältnissen im Hauptfeststellungszeitpunkt umzurechnen.
-Dieser Wert ist wegen des Alters der Außenanlagen im
-Hauptfeststellungszeitpunkt und wegen etwaiger baulicher Mängel und
-Schäden zu mindern; die Vorschriften der §§ 86 bis 88 gelten
-sinngemäß.
-
-
-###### § 90 Angleichung an den gemeinen Wert
-
-(1) Der Ausgangswert (§ 83) ist durch Anwendung einer Wertzahl an den
-gemeinen Wert anzugleichen.
-
-(2) Die Wertzahlen werden durch Rechtsverordnung unter
-Berücksichtigung der wertbeeinflussenden Umstände, insbesondere der
-Zweckbestimmung und Verwendbarkeit der Grundstücke innerhalb
-bestimmter Wirtschaftszweige und der Gemeindegrößen, im Rahmen von 85
-bis 50 Prozent des Ausgangswertes festgesetzt. Dabei können für
-einzelne Grundstücksarten oder Grundstücksgruppen oder Untergruppen in
-bestimmten Gebieten, Gemeinden oder Gemeindeteilen besondere
-Wertzahlen festgesetzt werden, wenn es die örtlichen Verhältnisse auf
-dem Grundstücksmarkt erfordern.
+###### (XXXX) §§ 83 bis 90 (weggefallen)
 
 
 ##### IV. - Sondervorschriften
 
 
 
-###### § 91 Grundstücke im Zustand der Bebauung
-
-(1) Bei Grundstücken, die sich am Feststellungszeitpunkt im Zustand
-der Bebauung befinden, bleiben die nicht bezugsfertigen Gebäude oder
-Gebäudeteile (z. B. Anbauten oder Zubauten) bei der Ermittlung des
-Wertes außer Betracht.
-
-(2) (weggefallen)
-
-
-###### § 92 Erbbaurecht
-
-(1) Ist ein Grundstück mit einem Erbbaurecht belastet, so ist sowohl
-für die wirtschaftliche Einheit des Erbbaurechts als auch für die
-wirtschaftliche Einheit des belasteten Grundstücks jeweils ein
-Einheitswert festzustellen. Bei der Ermittlung der Einheitswerte ist
-von einem Gesamtwert auszugehen, der für den Grund und Boden
-einschließlich der Gebäude und Außenanlagen festzustellen wäre, wenn
-die Belastung nicht bestünde. Wird der Gesamtwert nach den
-Vorschriften über die Bewertung der bebauten Grundstücke ermittelt, so
-gilt jede wirtschaftliche Einheit als bebautes Grundstück der
-Grundstücksart, von der bei der Ermittlung des Gesamtwerts ausgegangen
-wird.
-
-(2) Beträgt die Dauer des Erbbaurechts in dem für die Bewertung
-maßgebenden Zeitpunkt noch 50 Jahre oder mehr, so entfällt der
-Gesamtwert (Absatz 1) allein auf die wirtschaftliche Einheit des
-Erbbaurechts.
-
-(3) Beträgt die Dauer des Erbbaurechts in dem für die Bewertung
-maßgebenden Zeitpunkt weniger als 50 Jahre, so ist der Gesamtwert
-(Absatz 1) entsprechend der restlichen Dauer des Erbbaurechts zu
-verteilen. Dabei entfallen auf
-
-1.  die wirtschaftliche Einheit des Erbbaurechts:
-
-    *        *   der Gebäudewert und ein Anteil am Bodenwert;
-            dieser beträgt bei einer Dauer des Erbbaurechts
-
-
-    *        *   unter 50 bis zu 40 Jahren
-
-        *   95 Prozent,
-
-
-    *        *   unter 40 bis zu 35 Jahren
-
-        *   90 Prozent,
-
-
-    *        *   unter 35 bis zu 30 Jahren
-
-        *   85 Prozent,
-
-
-    *        *   unter 30 bis zu 25 Jahren
-
-        *   80 Prozent,
-
-
-    *        *   unter 25 bis zu 20 Jahren
-
-        *   70 Prozent,
-
-
-    *        *   unter 20 bis zu 15 Jahren
-
-        *   60 Prozent,
-
-
-    *        *   unter 15 bis zu 10 Jahren
-
-        *   45 Prozent,
-
-
-    *        *   unter 10 bis zu 5 Jahren
-
-        *   25 Prozent,
-
-
-    *        *   unter 5 Jahren
-
-        *   0 Prozent;
-
-
-
-
-
-
-
-2.  die wirtschaftliche Einheit des belasteten Grundstücks:
-
-    der Anteil am Bodenwert, der nach Abzug des in Nummer 1 genannten
-    Anteils verbleibt.
-
-
-
-Abweichend von den Nummern 1 und 2 ist in die wirtschaftliche Einheit
-des belasteten Grundstücks ein Anteil am Gebäudewert einzubeziehen,
-wenn besondere Vereinbarungen es rechtfertigen. Das gilt insbesondere,
-wenn bei Erlöschen des Erbbaurechts durch Zeitablauf der Eigentümer
-des belasteten Grundstücks keine dem Gebäudewert entsprechende
-Entschädigung zu leisten hat. Geht das Eigentum an dem Gebäude bei
-Erlöschen des Erbbaurechts durch Zeitablauf entschädigungslos auf den
-Eigentümer des belasteten Grundstücks über, so ist der Gebäudewert
-entsprechend der in den Nummern 1 und 2 vorgesehenen Verteilung des
-Bodenwertes zu verteilen. Beträgt die Entschädigung für das Gebäude
-beim Übergang nur einen Teil des Gebäudewertes, so ist der dem
-Eigentümer des belasteten Grundstücks entschädigungslos zufallende
-Anteil entsprechend zu verteilen. Eine in der Höhe des Erbbauzinses
-zum Ausdruck kommende Entschädigung für den Gebäudewert bleibt außer
-Betracht. Der Wert der Außenanlagen wird wie der Gebäudewert
-behandelt.
-
-(4) Hat sich der Erbbauberechtigte durch Vertrag mit dem Eigentümer
-des belasteten Grundstücks zum Abbruch des Gebäudes bei Beendigung des
-Erbbaurechts verpflichtet, so ist dieser Umstand durch einen
-entsprechenden Abschlag zu berücksichtigen; der Abschlag unterbleibt,
-wenn vorauszusehen ist, daß das Gebäude trotz der Verpflichtung nicht
-abgebrochen werden wird.
-
-(5) Das Recht auf den Erbbauzins ist nicht als Bestandteil des
-Grundstücks und die Verpflichtung zur Zahlung des Erbbauzinses nicht
-bei der Bewertung des Erbbaurechts zu berücksichtigen.
-
-(6) Bei Wohnungserbbaurechten oder Teilerbbaurechten ist der
-Gesamtwert (Absatz 1) in gleicher Weise zu ermitteln, wie wenn es sich
-um Wohnungseigentum oder um Teileigentum handeln würde. Die Verteilung
-des Gesamtwertes erfolgt entsprechend Absatz 3.
-
-(7) Wertfortschreibungen für die wirtschaftlichen Einheiten des
-Erbbaurechts und des belasteten Grundstücks sind abweichend von § 22
-Abs. 1 nur vorzunehmen, wenn der Gesamtwert, der sich für den Beginn
-eines Kalenderjahres ergibt, vom Gesamtwert des letzten
-Feststellungszeitpunkts um das in § 22 Abs. 1 bezeichnete Ausmaß
-abweicht. § 30 ist entsprechend anzuwenden. Bei einer Änderung der
-Verteilung des Gesamtwerts nach Absatz 3 sind die Einheitswerte für
-die wirtschaftlichen Einheiten des Erbbaurechts und des belasteten
-Grundstücks ohne Beachtung von Wertfortschreibungsgrenzen
-fortzuschreiben.
-
-
-###### § 93 Wohnungseigentum und Teileigentum
-
-(1) Jedes Wohnungseigentum und Teileigentum bildet eine
-wirtschaftliche Einheit. Für die Bestimmung der Grundstücksart (§ 75)
-ist die Nutzung des auf das Wohnungseigentum und Teileigentum
-entfallenden Gebäudeteils maßgebend. Die Vorschriften der §§ 76 bis 91
-finden Anwendung, soweit sich nicht aus den Absätzen 2 und 3 etwas
-anderes ergibt.
-
-(2) Das zu mehr als achtzig Prozent Wohnzwecken dienende
-Wohnungseigentum ist im Wege des Ertragswertverfahrens nach den
-Vorschriften zu bewerten, die für Mietwohngrundstücke maßgebend sind.
-Wohnungseigentum, das zu nicht mehr als achtzig Prozent, aber zu nicht
-weniger als zwanzig Prozent Wohnzwecken dient, ist im Wege des
-Ertragswertverfahrens nach den Vorschriften zu bewerten, die für
-gemischtgenutzte Grundstücke maßgebend sind.
-
-(3) Entsprechen die im Grundbuch eingetragenen Miteigentumsanteile an
-dem gemeinschaftlichen Eigentum nicht dem Verhältnis der
-Jahresrohmiete zueinander, so kann dies bei der Feststellung des
-Wertes entsprechend berücksichtigt werden. Sind einzelne Räume, die im
-gemeinschaftlichen Eigentum stehen, vermietet, so ist ihr Wert nach
-den im Grundbuch eingetragenen Anteilen zu verteilen und bei den
-einzelnen wirtschaftlichen Einheiten zu erfassen.
-
-
-###### § 94 Gebäude auf fremdem Grund und Boden
-
-(1) Bei Gebäuden auf fremdem Grund und Boden ist der Bodenwert dem
-Eigentümer des Grund und Bodens und der Gebäudewert dem
-wirtschaftlichen Eigentümer des Gebäudes zuzurechnen. Außenanlagen (z.
-B. Umzäunungen, Wegebefestigungen), auf die sich das wirtschaftliche
-Eigentum am Gebäude erstreckt, sind unbeschadet der Vorschriften in §
-68 Abs. 2 in die wirtschaftliche Einheit des Gebäudes einzubeziehen.
-Für die Grundstücksart des Gebäudes ist § 75 maßgebend; der Grund und
-Boden, auf dem das Gebäude errichtet ist, gilt als bebautes Grundstück
-derselben Grundstücksart.
-
-(2) Für den Grund und Boden ist der Wert nach den für unbebaute
-Grundstücke geltenden Grundsätzen zu ermitteln; beeinträchtigt die
-Nutzungsbehinderung, welche sich aus dem Vorhandensein des Gebäudes
-ergibt, den Wert, so ist dies zu berücksichtigen.
-
-(3) Die Bewertung der Gebäude erfolgt nach § 76. Wird das Gebäude nach
-dem Ertragswertverfahren bewertet, so ist von dem sich nach den §§ 78
-bis 80 ergebenden Wert der auf den Grund und Boden entfallende Anteil
-abzuziehen. Ist vereinbart, daß das Gebäude nach Ablauf der Miet- oder
-Pachtzeit abzubrechen ist, so ist dieser Umstand durch einen
-entsprechenden Abschlag zu berücksichtigen; der Abschlag unterbleibt,
-wenn vorauszusehen ist, daß das Gebäude trotz der Verpflichtung nicht
-abgebrochen werden wird.
+###### (XXXX) §§ 91 bis 94 (weggefallen)
 
 
 #### D. - Betriebsvermögen
@@ -2502,7 +639,7 @@ Sitz im Inland haben:
 
 
 
-§ 34 Abs. 6a und § 51a bleiben unberührt.
+§ 160 Absatz 10 bleibt unberührt.
 
 (1a) Der gemeine Wert eines Anteils am Betriebsvermögen einer in § 97
 Abs. 1 Satz 1 Nr. 5 genannten Personengesellschaft ist wie folgt zu
@@ -2698,28 +835,16 @@ Zum Inlandsvermögen gehören:
 
 
 
-#### § 121a Sondervorschrift für die Anwendung der Einheitswerte 1964
-
-Während der Geltungsdauer der auf den Wertverhältnissen am 1. Januar
-1964 beruhenden Einheitswerte des Grundbesitzes sind Grundstücke (§
-70) und Betriebsgrundstücke im Sinne des § 99 Abs. 1 Nr. 1 für die
-Gewerbesteuer mit 140 vom Hundert des Einheitswerts anzusetzen.
+#### § 121a (weggefallen)
 
 
-#### § 122 Besondere Vorschriften für Berlin (West)
-
-§ 50 Abs. 1, § 60 Abs. 1 und § 67 gelten nicht für den Grundbesitz in
-Berlin (West). Bei der Beurteilung der natürlichen Ertragsbedingungen
-und des Bodenartenverhältnisses ist das Bodenschätzungsgesetz
-sinngemäß anzuwenden.
+#### § 122 (weggefallen)
 
 
 #### § 123 Ermächtigungen
 
 Die Bundesregierung wird ermächtigt, mit Zustimmung des Bundesrates
-die in § 12 Abs. 4, § 21 Abs. 1, § 39 Abs. 1, § 51 Abs. 4, § 55 Abs.
-3, 4 und 8, den §§ 81 und 90 Abs. 2 vorgesehenen Rechtsverordnungen zu
-erlassen.
+die in § 12 Absatz 4 Satz 3 vorgesehene Rechtsverordnung zu erlassen.
 
 
 #### § 124 (weggefallen)
@@ -2734,497 +859,14 @@ erlassen.
 
 
 
-##### § 125 Land- und forstwirtschaftliches Vermögen
-
-(1) Einheitswerte, die für Betriebe der Land- und Forstwirtschaft nach
-den Wertverhältnissen vom 1. Januar 1935 festgestellt worden sind,
-werden ab dem 1. Januar 1991 nicht mehr angewendet.
-
-(2) Anstelle der Einheitswerte für Betriebe der Land- und
-Forstwirtschaft werden abweichend von § 19 Abs. 1
-Ersatzwirtschaftswerte für das in Absatz 3 bezeichnete Vermögen
-ermittelt und ab 1. Januar 1991 der Besteuerung zugrunde gelegt. Der
-Bildung des Ersatzwirtschaftswerts ist abweichend von § 2 und § 34
-Abs. 1, 3 bis 6 und 7 eine Nutzungseinheit zugrunde zu legen, in die
-alle von derselben Person (Nutzer) regelmäßig selbstgenutzten
-Wirtschaftsgüter des land- und forstwirtschaftlichen Vermögens im
-Sinne des § 33 Abs. 2 einbezogen werden, auch wenn der Nutzer nicht
-Eigentümer ist. § 26 ist sinngemäß anzuwenden. Grundbesitz im Sinne
-des § 3 Abs. 1 Satz 1 Nr. 6 und Satz 2 des Grundsteuergesetzes wird
-bei der Bildung des Ersatzwirtschaftswerts nicht berücksichtigt.
-
-(3) Zum land- und forstwirtschaftlichen Vermögen gehören abweichend
-von § 33 Abs. 2 nicht die Wohngebäude einschließlich des dazugehörigen
-Grund und Bodens. Wohngrundstücke sind dem Grundvermögen zuzurechnen
-und nach den dafür geltenden Vorschriften zu bewerten.
-
-(4) Der Ersatzwirtschaftswert wird unter sinngemäßer Anwendung der §§
-35, 36, 38, 40, 42 bis 45, 50 bis 54, 56, 59, 60 Abs. 2 und § 62 in
-einem vereinfachten Verfahren ermittelt. Bei dem Vergleich der
-Ertragsbedingungen sind abweichend von § 38 Abs. 2 Nr. 1
-ausschließlich die in der Gegend als regelmäßig anzusehenden
-Verhältnisse zugrunde zu legen.
-
-(5) Für die Ermittlung des Ersatzwirtschaftswerts sind die
-Wertverhältnisse maßgebend, die bei der Hauptfeststellung der
-Einheitswerte des land- und forstwirtschaftlichen Vermögens in der
-Bundesrepublik Deutschland auf den 1. Januar 1964 zugrunde gelegt
-worden sind.
-
-(6) Aus den Vergleichszahlen der Nutzungen und Nutzungsteile,
-ausgenommen die forstwirtschaftliche Nutzung und die sonstige land-
-und forstwirtschaftliche Nutzung, werden unter Anwendung der
-Ertragswerte des § 40 die Ersatzvergleichswerte als Bestandteile des
-Ersatzwirtschaftswerts ermittelt. Für die Nutzungen und Nutzungsteile
-gelten die folgenden Vergleichszahlen:
-
-1.  Landwirtschaftliche Nutzung
-
-    *        *   a)
-
-        *   Landwirtschaftliche Nutzung ohne Hopfen und Spargel
-            Die landwirtschaftliche Vergleichszahl in 100 je Hektar errechnet sich
-            auf der Grundlage der Ergebnisse der Bodenschätzung unter
-            Berücksichtigung weiterer natürlicher und wirtschaftlicher
-            Ertragsbedingungen.
-
-        *
-
-    *        *   b)
-
-        *   Hopfen
-            Hopfenbau-Vergleichszahl je Ar
-
-        *   40
-
-
-    *        *   c)
-
-        *   Spargel
-            Spargelbau-Vergleichszahl je Ar
-
-        *   70
-
-
-
-
-
-2.  Weinbauliche Nutzung
-    Weinbau-Vergleichszahlen je Ar:
-
-    *        *   a)
-
-        *   Traubenerzeugung (Nichtausbau)
-
-        *   22
-
-
-    *        *   b)
-
-        *   Faßweinausbau
-
-        *   25
-
-
-    *        *   c)
-
-        *   Flaschenweinausbau
-
-        *   30
-
-
-
-
-
-3.  Gärtnerische Nutzung
-    Gartenbau-Vergleichszahlen je Ar:
-
-    *        *   a)
-
-        *   Nutzungsteil Gemüse-, Blumen- und Zierpflanzenbau:
-
-        *
-
-    *        *
-        *   aa)
-
-        *   Gemüsebau
-
-        *   50
-
-
-    *        *
-        *   bb)
-
-        *   Blumen- und Zierpflanzenbau
-
-        *   100
-
-
-    *        *   b)
-
-        *   Nutzungsteil Obstbau
-
-        *   50
-
-
-    *        *   c)
-
-        *   Nutzungsteil Baumschulen
-
-        *   60
-
-
-    *        *   d)
-
-        *   Für Nutzungsflächen unter Glas und Kunststoffplatten, ausgenommen
-            Niederglas, erhöhen sich die vorstehenden Vergleichszahlen bei
-
-        *
-
-    *        *
-        *   aa)
-
-        *   Gemüsebau
-
-        *
-
-    *        *
-        *
-        *   nicht heizbar
-
-        *   um das 6fache,
-
-
-    *        *
-        *
-        *   heizbar
-
-        *   um das 8fache,
-
-
-    *        *
-        *   bb)
-
-        *   Blumen- und Zierpflanzenbau, Baumschulen
-
-        *
-
-    *        *
-        *
-        *   nicht heizbar
-
-        *   um das 4fache,
-
-
-    *        *
-        *
-        *   heizbar
-
-        *   um das 8fache.
-
-
-
-
-
-
-
-(7) Für die folgenden Nutzungen werden unmittelbar
-Ersatzvergleichswerte angesetzt:
-
-1.  Forstwirtschaftliche Nutzung
-    Der Ersatzvergleichswert beträgt 125 Deutsche Mark je Hektar.
-
-
-2.  Sonstige land- und forstwirtschaftliche Nutzung
-    Der Ersatzvergleichswert beträgt bei
-
-    *        *   a)
-
-        *   Binnenfischerei
-
-        *   2 Deutsche Mark je kg des nachhaltigen Jahresfangs,
-
-
-    *        *   b)
-
-        *   Teichwirtschaft
-
-        *
-
-    *        *
-        *   aa) Forellenteichwirtschaft
-
-        *   20 000 Deutsche Mark je Hektar,
-
-
-    *        *
-        *   bb) übrige Teichwirtschaft
-
-        *   1 000 Deutsche Mark je Hektar,
-
-
-    *        *   c)
-
-        *   Fischzucht für Binnenfischerei und Teichwirtschaft
-
-        *
-
-    *        *
-        *   aa) für Forellenteichwirtschaft
-
-        *   30 000 Deutsche Mark je Hektar,
-
-
-    *        *
-        *   bb) für übrige Binnenfischerei und Teichwirtschaft
-
-        *   1 500 Deutsche Mark je Hektar,
-
-
-    *        *   d)
-
-        *   Imkerei
-
-        *   10 Deutsche Mark je Bienenkasten,
-
-
-    *        *   e)
-
-        *   Wanderschäferei
-
-        *   20 Deutsche Mark je Mutterschaft,
-
-
-    *        *   f)
-
-        *   Saatzucht
-
-        *   15 Prozent der nachhaltigen Jahreseinnahmen,
-
-
-    *        *   g)
-
-        *   Weihnachtsbaumkultur
-
-        *   3 000 Deutsche Mark je Hektar,
-
-
-    *        *   h)
-
-        *   Pilzanbau
-
-        *   25 Deutsche Mark je Quadratmeter,
-
-
-    *        *   i)
-
-        *   Besamungsstationen
-
-        *   20 Prozent der nachhaltigen Jahreseinnahmen.
-
-
-
-
-
-
-
-
-##### § 126 Geltung des Ersatzwirtschaftswerts
-
-(1) Der sich nach § 125 ergebende Ersatzwirtschaftswert gilt für die
-Grundsteuer; er wird im Steuermeßbetragsverfahren ermittelt. Für eine
-Neuveranlagung des Grundsteuermeßbetrags wegen Änderung des
-Ersatzwirtschaftswerts gilt § 22 Abs. 1 sinngemäß.
-
-(2) Für andere Steuern ist bei demjenigen, dem Wirtschaftsgüter des
-land- und forstwirtschaftlichen Vermögens zuzurechnen sind, der
-Ersatzwirtschaftswert oder ein entsprechender Anteil an diesem Wert
-anzusetzen. Die Eigentumsverhältnisse und der Anteil am
-Ersatzwirtschaftswert sind im Festsetzungsverfahren der jeweiligen
-Steuer zu ermitteln.
-
-
-##### § 127 Erklärung zum Ersatzwirtschaftswert
-
-(1) Der Nutzer des land- und forstwirtschaftlichen Vermögens (§ 125
-Abs. 2 Satz 2) hat dem Finanzamt, in dessen Bezirk das genutzte
-Vermögen oder sein wertvollster Teil liegt, eine Erklärung zum
-Ersatzwirtschaftswert abzugeben. Der Nutzer hat die Steuererklärung
-eigenhändig zu unterschreiben.
-
-(2) Die Erklärung ist erstmals für das Kalenderjahr 1991 nach den
-Verhältnissen zum 1. Januar 1991 abzugeben. § 28 Abs. 2 gilt
-entsprechend.
-
-
-##### § 128 Auskünfte, Erhebungen, Mitteilungen, Abrundung
-
-§ 29 und § 30 gelten bei der Ermittlung des Ersatzwirtschaftswerts
-sinngemäß.
+##### (XXXX) §§ 125 bis 128 (weggefallen)
 
 
 #### B. - Grundvermögen
 
 
 
-##### § 129 Grundvermögen
-
-(1) Für Grundstücke gelten die Einheitswerte, die nach den
-Wertverhältnissen am 1. Januar 1935 festgestellt sind oder noch
-festgestellt werden (Einheitswerte 1935).
-
-(2) Vorbehaltlich der §§ 129a bis 131 werden für die Ermittlung der
-Einheitswerte 1935 statt der §§ 27, 68 bis 94
-
-1.  §§ 10, 11 Abs. 1 und 2 und Abs. 3 Satz 2, §§ 50 bis 53 des
-    Bewertungsgesetzes der Deutschen Demokratischen Republik in der
-    Fassung vom 18. September 1970 (Sonderdruck Nr. 674 des
-    Gesetzblattes),
-
-
-2.  § 3a Abs. 1, §§ 32 bis 46 der Durchführungsverordnung zum
-    Reichsbewertungsgesetz vom 2. Februar 1935 (RGBl. I S. 81), zuletzt
-    geändert durch die Verordnung zur Änderung der Durchführungsverordnung
-    zum Vermögensteuergesetz, der Durchführungsverordnung zum
-    Reichsbewertungsgesetz und der Aufbringungsumlage-Verordnung vom 8.
-    Dezember 1944 (RGBl. I S. 338), und
-
-
-3.  die Rechtsverordnungen der Präsidenten der Landesfinanzämter über die
-    Bewertung bebauter Grundstücke vom 17. Dezember 1934
-    (Reichsministerialblatt S. 785 ff.), soweit Teile des in Artikel 3 des
-    Einigungsvertrages genannten Gebietes in ihrem Geltungsbereich liegen,
-
-
-
-weiter angewandt.
-
-
-##### § 129a Abschläge bei Bewertung mit einem Vielfachen der Jahresrohmiete
-
-(1) Ist eine Ermäßigung wegen des baulichen Zustandes des Gebäudes (§
-37 Abs. 1, 3 und 4 der weiter anzuwendenden Durchführungsverordnung
-zum Reichsbewertungsgesetz) zu gewähren, tritt der Höchstsatz 50
-Prozent anstelle des Höchstsatzes von 30 Prozent.
-
-(2) Der Wert eines Grundstücks, der sich aus dem Vielfachen der
-Jahresrohmiete ergibt, ist ohne Begrenzung auf 30 Prozent (§ 37 Abs. 3
-der weiter anzuwendenden Durchführungsverordnung zum
-Reichsbewertungsgesetz) zu ermäßigen, wenn die Notwendigkeit baldigen
-Abbruchs besteht. Gleiches gilt, wenn derjenige, der ein Gebäude auf
-fremdem Grund und Boden aufgrund eines Erbbaurechts errichtet hat,
-vertraglich zum vorzeitigen Abbruch verpflichtet ist.
-
-
-##### § 130 Nachkriegsbauten
-
-(1) Nachkriegsbauten sind Grundstücke mit Gebäuden, die nach dem 20.
-Juni 1948 bezugsfertig geworden sind.
-
-(2) Soweit Nachkriegsbauten mit einem Vielfachen der Jahresrohmiete zu
-bewerten sind, ist für Wohnraum die ab Bezugsfertigkeit preisrechtlich
-zulässige Miete als Jahresrohmiete vom 1. Januar 1935 anzusetzen. Sind
-Nachkriegsbauten nach dem 30. Juni 1990 bezugsfertig geworden, ist die
-Miete anzusetzen, die bei unverändertem Fortbestand der
-Mietpreisgesetzgebung ab Bezugsfertigkeit preisrechtlich zulässig
-gewesen wäre. Enthält die preisrechtlich zulässige Miete Bestandteile,
-die nicht zur Jahresrohmiete im Sinne von § 34 der weiter
-anzuwendenden Durchführungsverordnung zum Reichsbewertungsgesetz
-gehören, sind sie auszuscheiden.
-
-(3) Für Nachkriegsbauten der Mietwohngrundstücke, der
-gemischtgenutzten Grundstücke und der mit einem Vielfachen der
-Jahresrohmiete zu bewertenden Geschäftsgrundstücke gilt einheitlich
-der Vervielfältiger neun.
-
-
-##### § 131 Wohnungseigentum und Teileigentum, Wohnungserbbaurecht und Teilerbbaurecht
-
-(1) Jedes Wohnungseigentum und Teileigentum bildet eine
-wirtschaftliche Einheit. Für die Bestimmung der Grundstückshauptgruppe
-ist die Nutzung des auf das Wohnungseigentum und Teileigentum
-entfallenden Gebäudeteils maßgebend. Die Vorschriften zur Ermittlung
-der Einheitswerte 1935 bei bebauten Grundstücken finden Anwendung,
-soweit sich nicht aus den Absätzen 2 und 3 etwas anderes ergibt.
-
-(2) Das zu mehr als 80 Prozent Wohnzwecken dienende Wohnungseigentum
-ist mit dem Vielfachen der Jahresrohmiete nach den Vorschriften zu
-bewerten, die für Mietwohngrundstücke maßgebend sind.
-Wohnungseigentum, das zu nicht mehr als 80 Prozent, aber zu nicht
-weniger als 20 Prozent Wohnzwecken dient, ist mit dem Vielfachen der
-Jahresrohmiete nach den Vorschriften zu bewerten, die für
-gemischtgenutzte Grundstücke maßgebend sind.
-
-(3) Entsprechen die im Grundbuch eingetragenen Miteigentumsanteile an
-dem gemeinschaftlichen Eigentum nicht dem Verhältnis der
-Jahresrohmiete zueinander, so kann dies bei der Feststellung des
-Wertes entsprechend berücksichtigt werden. Sind einzelne Räume, die im
-gemeinschaftlichen Eigentum stehen, vermietet, so ist ihr Wert nach
-den im Grundbuch eingetragenen Anteilen zu verteilen und bei den
-einzelnen wirtschaftlichen Einheiten zu erfassen.
-
-(4) Bei Wohnungserbbaurechten oder Teilerbbaurechten gilt § 46 der
-weiter anzuwendenden Durchführungsverordnung zum
-Reichsbewertungsgesetz sinngemäß. Der Gesamtwert ist in gleicher Weise
-zu ermitteln, wie wenn es sich um Wohnungseigentum oder um
-Teileigentum handelte. Er ist auf den Wohnungserbbauberechtigten und
-den Bodeneigentümer entsprechend zu verteilen.
-
-
-##### § 132 Fortschreibung und Nachfeststellung der Einheitswerte 1935
-
-(1) Fortschreibungen und Nachfeststellungen der Einheitswerte 1935
-werden erstmals auf den 1. Januar 1991 vorgenommen, soweit sich aus
-den Absätzen 2 bis 4 nichts Abweichendes ergibt.
-
-(2) Für Mietwohngrundstücke und Einfamilienhäuser im Sinne des § 32
-der weiter anzuwendenden Durchführungsverordnung zum
-Reichsbewertungsgesetz unterbleibt eine Feststellung des Einheitswerts
-auf den 1. Januar 1991, wenn eine ab diesem Zeitpunkt wirksame
-Feststellung des Einheitswerts für die wirtschaftliche Einheit nicht
-vorliegt und der Einheitswert nur für die Festsetzung der Grundsteuer
-erforderlich wäre. Der Einheitswert für Mietwohngrundstücke und
-Einfamilienhäuser wird nachträglich auf einen späteren
-Feststellungszeitpunkt festgestellt, zu dem der Einheitswert erstmals
-für die Festsetzung anderer Steuern als der Grundsteuer erforderlich
-ist.
-
-(3) Wird für Grundstücke im Sinne des Absatzes 2 ein Einheitswert
-festgestellt, gilt er für die Grundsteuer von dem Kalenderjahr an, das
-der Bekanntgabe des Feststellungsbescheids folgt.
-
-(4) Änderungen der tatsächlichen Verhältnisse, die sich nur auf den
-Wert des Grundstücks auswirken, werden erst durch Fortschreibung auf
-den 1. Januar 1994 berücksichtigt, es sei denn, daß eine Feststellung
-des Einheitswerts zu einem früheren Zeitpunkt für die Festsetzung
-anderer Steuern als der Grundsteuer erforderlich ist.
-
-
-##### § 133 Sondervorschrift für die Anwendung der Einheitswerte 1935
-
-Die Einheitswerte 1935 der Betriebsgrundstücke sind für die
-Gewerbesteuer wie folgt anzusetzen:
-
-1.  Mietwohngrundstücke mit 100 Prozent des Einheitswerts 1935,
-
-
-2.  Geschäftsgrundstücke mit 400 Prozent des Einheitswerts 1935,
-
-
-3.  gemischtgenutzte Grundstücke, Einfamilienhäuser und sonstige bebaute
-    Grundstücke mit 250 Prozent des Einheitswerts 1935,
-
-
-4.  unbebaute Grundstücke mit 600 Prozent des Einheitswerts 1935.
-
-
-
-Bei Grundstücken im Zustand der Bebauung bestimmt sich die
-Grundstückshauptgruppe für den besonderen Einheitswert im Sinne des §
-33a Abs. 3 der weiter anzuwendenden Durchführungsverordnung zum
-Reichsbewertungsgesetz nach dem tatsächlichen Zustand, der nach
-Fertigstellung des Gebäudes besteht.
+##### (XXXX) §§ 129 bis 133 (weggefallen)
 
 
 #### C. - Betriebsvermögen
@@ -3235,21 +877,7 @@ Fertigstellung des Gebäudes besteht.
 
 
 
-##### § 137 Bilanzposten nach dem D-Markbilanzgesetz
-
-Nicht zum Betriebsvermögen gehören folgende Bilanzposten nach dem
-D-Markbilanzgesetz:
-
-1.  das Sonderverlustkonto,
-
-
-2.  das Kapitalentwertungskonto und
-
-
-3.  das Beteiligungsentwertungskonto.
-
-
-
+##### § 137 (weggefallen)
 
 
 ### Vierter Abschnitt - Vorschriften für die Bewertung von Grundbesitz für die Grunderwerbsteuer ab 1. Januar 1997
@@ -3260,368 +888,14 @@ D-Markbilanzgesetz:
 
 
 
-##### § 138 Feststellung von Grundbesitzwerten
-
-(1) Grundbesitzwerte werden unter Berücksichtigung der tatsächlichen
-Verhältnisse und der Wertverhältnisse zum Besteuerungszeitpunkt
-festgestellt. § 29 Abs. 2 und 3 gilt sinngemäß.
-
-(2) Für die wirtschaftlichen Einheiten des land- und
-forstwirtschaftlichen Vermögens und für Betriebsgrundstücke im Sinne
-des § 99 Abs. 1 Nr. 2 sind die Grundbesitzwerte unter Anwendung der §§
-139 bis 144 zu ermitteln.
-
-(3) Für die wirtschaftlichen Einheiten des Grundvermögens und für
-Betriebsgrundstücke im Sinne des § 99 Abs. 1 Nr. 1 sind die
-Grundbesitzwerte unter Anwendung der §§ 68, 69 und 99 Abs. 2 und der
-§§ 139 und 145 bis 150 zu ermitteln. § 70 gilt mit der Maßgabe, dass
-der Anteil des Eigentümers eines Grundstücks an anderem Grundvermögen
-(beispielsweise an gemeinschaftlichen Hofflächen oder Garagen)
-abweichend von Absatz 2 Satz 1 dieser Vorschrift in das Grundstück
-einzubeziehen ist, wenn der Anteil zusammen mit dem Grundstück genutzt
-wird. § 20 Satz 2 ist entsprechend anzuwenden.
-
-(4) Weist der Steuerpflichtige nach, dass der gemeine Wert der
-wirtschaftlichen Einheit im Besteuerungszeitpunkt niedriger ist als
-der nach den §§ 143, 145 bis 149 ermittelte Wert, ist der gemeine Wert
-als Grundbesitzwert festzustellen.
-
-
-##### § 139 Abrundung
-
-Die Grundbesitzwerte werden auf volle fünfhundert Euro nach unten
-abgerundet.
+##### (XXXX) §§ 138 und 139 (weggefallen)
 
 
 #### B. - Land- und forstwirtschaftliches Vermögen
 
 
 
-##### § 140 Wirtschaftliche Einheit und Umfang des land- und forstwirtschaftlichen Vermögens
-
-(1) Der Begriff der wirtschaftlichen Einheit und der Umfang des land-
-und forstwirtschaftlichen Vermögens richten sich nach § 33. Dazu
-gehören auch immaterielle Wirtschaftsgüter (zum Beispiel Brennrechte,
-Milchlieferrechte, Jagdrechte und Zuckerrübenlieferrechte), soweit sie
-einem Betrieb der Land- und Forstwirtschaft dauernd zu dienen bestimmt
-sind.
-
-(2) Zu den Geldschulden im Sinne des § 33 Abs. 3 Nr. 2 gehören auch
-Pensionsverpflichtungen.
-
-
-##### § 141 Umfang des Betriebs der Land- und Forstwirtschaft
-
-(1) Der Betrieb der Land- und Forstwirtschaft umfaßt
-
-1.  den Betriebsteil,
-
-
-2.  die Betriebswohnungen,
-
-
-3.  den Wohnteil.
-
-
-
-
-(2) Der Betriebsteil umfaßt den Wirtschaftsteil eines Betriebs der
-Land- und Forstwirtschaft (§ 34 Abs. 2), jedoch ohne die
-Betriebswohnungen (Absatz 3). § 34 Abs. 4 bis 7 ist bei der Ermittlung
-des Umfangs des Betriebsteils anzuwenden.
-
-(3) Betriebswohnungen sind Wohnungen einschließlich des dazugehörigen
-Grund und Bodens, die einem Betrieb der Land- und Forstwirtschaft zu
-dienen bestimmt, aber nicht dem Wohnteil zuzurechnen sind.
-
-(4) Der Wohnteil umfaßt die Gebäude und Gebäudeteile im Sinne des § 34
-Abs. 3 und den dazugehörigen Grund und Boden.
-
-
-##### § 142 Betriebswert
-
-(1) Der Wert des Betriebsteils (Betriebswert) wird unter sinngemäßer
-Anwendung der §§ 35 und 36 Abs. 1 und 2, der §§ 42, 43 und 44 Abs. 1
-und der §§ 45, 48a, 51, 53, 51a, 54, 56, 59 und 62 Abs. 1 ermittelt.
-Abweichend von § 36 Abs. 2 Satz 3 ist der Ertragswert das 18,6fache
-des Reinertrags.
-
-(2) Der Betriebswert setzt sich zusammen aus den Einzelertragswerten
-für Nebenbetriebe (§ 42), das Abbauland (§ 43), die gemeinschaftliche
-Tierhaltung (§ 51a) und die in Nummer 5 nicht genannten Nutzungsteile
-der sonstigen land- und forstwirtschaftlichen Nutzung sowie den
-folgenden Ertragswerten:
-
-1.  landwirtschaftliche Nutzung:
-
-
-
-
-*    *
-    *   a)
-
-    *   landwirtschaftliche Nutzung ohne Hopfen und Spargel:
-        Der Ertragswert ist auf der Grundlage der Ergebnisse der
-        Bodenschätzung nach dem Bodenschätzungsgesetz zu ermitteln. Er beträgt
-        0,35 Euro je Ertragsmesszahl;
-
-
-*    *
-    *   b)
-
-    *   Nutzungsteil Hopfen
-
-    *   57 Euro je Ar;
-
-
-*    *   c)
-
-    *   Nutzungsteil Spargel
-
-    *   76 Euro je Ar;
-
-
-*    *   2.
-
-    *   forstwirtschaftliche Nutzung:
-
-    *
-
-*    *   a)
-
-    *   Nutzungsgrößen bis zu 10 Hektar, Nichtwirtschaftswald, Baumartengruppe
-        Kiefer, Baumartengruppe Fichte bis zu 60 Jahren, Baumartengruppe Buche
-        und sonstiges Laubholz bis zu 100 Jahren und Eiche bis zu 140 Jahren
-
-    *   0,26 Euro je Ar;
-
-
-*    *   b)
-
-    *   Baumartengruppe Fichte über 60 Jahren bis zu 80 Jahren und Plenterwald
-
-    *   7,50 Euro je Ar;
-
-
-*    *   c)
-
-    *   Baumartengruppe Fichte über 80 bis zu 100 Jahren
-
-    *   15 Euro je Ar;
-
-
-*    *   d)
-
-    *   Baumartengruppe Fichte über 100 Jahre
-
-    *   20 Euro je Ar;
-
-
-*    *   e)
-
-    *   Baumartengruppe Buche und sonstiges Laubholz über 100 Jahre
-
-    *   5 Euro je Ar;
-
-
-*    *   f)
-
-    *   Eiche über 140 Jahre
-
-    *   10 Euro je Ar;
-
-
-*    *   3.
-
-    *   weinbauliche Nutzung:
-
-    *
-
-*    *   a)
-
-    *   Traubenerzeugung und Fassweinausbau:
-
-    *
-
-*    *   aa)
-
-    *   in den Weinbaugebieten Ahr, Franken und Württemberg
-
-    *   36 Euro je Ar;
-
-
-*    *   bb)
-
-    *   in den übrigen Weinbaugebieten
-
-    *   18 Euro je Ar;
-
-
-*    *   b)
-
-    *   Flaschenweinausbau:
-
-    *
-
-*    *   aa)
-
-    *   in den Weinbaugebieten Ahr, Baden, Franken, Rheingau und Württemberg
-
-    *   82 Euro je Ar;
-
-
-*    *   bb)
-
-    *   in den übrigen Weinbaugebieten
-
-    *   36 Euro je Ar;
-
-
-*    *   4.
-
-    *   gärtnerische Nutzung:
-
-    *
-
-*    *   a)
-
-    *   Nutzungsteil Gemüse-, Blumen- und Zierpflanzenbau:
-
-    *
-
-*    *   aa)
-
-    *   Gemüsebau:
-
-    *
-
-*    *   - Freilandflächen
-
-    *   56 Euro je Ar;
-
-
-*    *   - Flächen unter Glas und Kunststoffen
-
-    *   511 Euro je Ar;
-
-
-*    *   bb)
-
-    *   Blumen- und Zierpflanzenbau:
-
-    *
-
-*    *   - Freilandflächen
-
-    *   184 Euro je Ar;
-
-
-*    *   - beheizbare Flächen unter Glas und Kunststoffen
-
-    *   1.841 Euro je Ar;
-
-
-*    *   - nichtbeheizbare Flächen unter Glas und Kunststoffen
-
-    *   920 Euro je Ar;
-
-
-*    *   b)
-
-    *   Nutzungsteil Obstbau
-
-    *   20 Euro je Ar;
-
-
-*    *   c)
-
-    *   Nutzungsteil Baumschulen:
-
-    *
-
-*    *   - Freilandflächen
-
-    *   164 Euro je Ar;
-
-
-*    *   - Flächen unter Glas und Kunststoffen
-
-    *   1.329 Euro je Ar;
-
-
-*    *   5.
-
-    *   sonstige land- und forstwirtschaftliche Nutzung:
-
-    *
-
-*    *   a)
-
-    *   Nutzungsteil Wanderschäferei
-
-    *   10 Euro je Mutterschaf;
-
-
-*    *   b)
-
-    *   Nutzungsteil Weihnachtsbaumkultur
-
-    *   133 Euro je Ar;
-
-
-*    *   6.
-
-    *   Geringstland:
-
-    *
-
-*    *   Der Ertragswert für Geringstland beträgt
-
-    *   0,26 Euro je Ar.
-
-
-
-
-(3) Für die nach § 13a des Erbschaftsteuergesetzes begünstigten
-Betriebe der Land- und Forstwirtschaft kann beantragt werden, den
-Betriebswert abweichend von Absatz 2 Nr. 1 bis 6 insgesamt als
-Einzelertragswert zu ermitteln. Der Antrag ist bei Abgabe der
-Feststellungserklärung schriftlich zu stellen. Die dafür notwendigen
-Bewertungsgrundlagen sind vom Steuerpflichtigen nachzuweisen.
-
-(4) In den Fällen des § 34 Abs. 4 ist der Betriebswert nach § 19 Abs.
-3 Nr. 2 zu verteilen. Bei der Verteilung wird für einen anderen
-Beteiligten als den Eigentümer des Grund und Bodens ein Anteil nicht
-festgestellt, wenn er weniger als 500 Euro beträgt. Die Verteilung
-unterbleibt, wenn die Anteile der anderen Beteiligten zusammen weniger
-als 500 Euro betragen. In den Fällen des § 34 Abs. 6 gelten die Sätze
-1 bis 3 entsprechend. Soweit der Betriebswert des Eigentümers des
-Grund und Bodens unter Berücksichtigung von § 48a festgestellt ist,
-findet in den Fällen des § 34 Abs. 4 eine Verteilung nicht statt.
-
-
-##### § 143 Wert der Betriebswohnungen und des Wohnteils
-
-(1) Der Wert der Betriebswohnungen (§ 141 Abs. 3) und der Wert des
-Wohnteils (§ 141 Abs. 4) sind nach den Vorschriften zu ermitteln, die
-beim Grundvermögen für die Bewertung von Wohngrundstücken gelten (§§
-146 bis 150).
-
-(2) In den Fällen des § 146 Abs. 6 ist für die Betriebswohnungen und
-für den Wohnteil bei Vorliegen der Voraussetzungen des Absatzes 3
-jeweils höchstens das Fünffache der bebauten Fläche zugrunde zu legen.
-
-(3) Zur Berücksichtigung von Besonderheiten, die sich im Falle einer
-räumlichen Verbindung der Betriebswohnungen und des Wohnteils mit der
-Hofstelle ergeben, sind deren Werte (§§ 146 bis 149) jeweils um 15
-Prozent zu ermäßigen.
-
-
-##### § 144 Zusammensetzung des land- und forstwirtschaftlichen Grundbesitzwerts
-
-Der Betriebswert, der Wert der Betriebswohnungen und der Wert des
-Wohnteils bilden zusammen den land- und forstwirtschaftlichen
-Grundbesitzwert.
+##### (XXXX) §§ 140 bis 144 (weggefallen)
 
 
 #### C. - Grundvermögen
@@ -3632,275 +906,14 @@ Grundbesitzwert.
 
 
 
-###### § 145 Unbebaute Grundstücke
-
-(1) Unbebaute Grundstücke sind Grundstücke, auf denen sich keine
-benutzbaren Gebäude befinden. Die Benutzbarkeit beginnt im Zeitpunkt
-der Bezugsfertigkeit. Gebäude sind als bezugsfertig anzusehen, wenn
-den zukünftigen Bewohnern oder sonstigen Benutzern zugemutet werden
-kann, sie zu benutzen; die Abnahme durch die Bauaufsichtsbehörde ist
-nicht entscheidend.
-
-(2) Befinden sich auf dem Grundstück Gebäude, die auf Dauer keiner
-oder nur einer unbedeutenden Nutzung zugeführt werden können, gilt das
-Grundstück als unbebaut; als unbedeutend gilt eine Nutzung, wenn die
-hierfür erzielte Jahresmiete (§ 146 Abs. 2) oder die übliche Miete (§
-146 Abs. 3) weniger als 1 Prozent des nach Absatz 3 anzusetzenden
-Werts beträgt. Als unbebautes Grundstück gilt auch ein Grundstück, auf
-dem infolge der Zerstörung oder des Verfalls der Gebäude auf Dauer
-benutzbarer Raum nicht mehr vorhanden ist.
-
-(3) Der Wert eines unbebauten Grundstücks bestimmt sich regelmäßig
-nach seiner Fläche und dem um 20 Prozent ermäßigten Bodenrichtwert (§
-196 des Baugesetzbuchs in der jeweils geltenden Fassung). Die
-Bodenrichtwerte sind von den Gutachterausschüssen nach dem
-Baugesetzbuch zu ermitteln und den Finanzämtern mitzuteilen. Bei der
-Wertermittlung ist stets der Bodenrichtwert anzusetzen, der vom
-Gutachterausschuss zuletzt zu ermitteln war. Wird von den
-Gutachterausschüssen kein Bodenrichtwert ermittelt, ist der Bodenwert
-aus den Werten vergleichbarer Flächen abzuleiten und um 20 Prozent zu
-ermäßigen.
+###### § 145 (weggefallen)
 
 
 ##### II. - Bebaute Grundstücke
 
 
 
-###### § 146 Bebaute Grundstücke
-
-(1) Grundstücke, auf die die in § 145 Abs. 1 genannten Merkmale nicht
-zutreffen, sind bebaute Grundstücke.
-
-(2) Der Wert eines bebauten Grundstücks ist das 12,5fache der im
-Besteuerungszeitpunkt vereinbarten Jahresmiete, vermindert um die
-Wertminderung wegen des Alters des Gebäudes (Absatz 4). Jahresmiete
-ist das Gesamtentgelt, das die Mieter (Pächter) für die Nutzung der
-bebauten Grundstücke aufgrund vertraglicher Vereinbarungen für den
-Zeitraum von zwölf Monaten zu zahlen haben. Betriebskosten sind nicht
-einzubeziehen.
-
-(3) An die Stelle der Jahresmiete tritt die übliche Miete für solche
-Grundstücke oder Grundstücksteile,
-
-1.  die eigengenutzt, ungenutzt, zu vorübergehendem Gebrauch oder
-    unentgeltlich überlassen sind,
-
-
-2.  die der Eigentümer dem Mieter zu einer um mehr als 20 Prozent von der
-    üblichen Miete abweichenden tatsächlichen Miete überlassen hat.
-
-
-
-Die übliche Miete ist die Miete, die für nach Art, Lage, Größe,
-Ausstattung und Alter vergleichbare, nicht preisgebundene Grundstücke
-von fremden Mietern bezahlt wird; Betriebskosten (Absatz 2 Satz 3)
-sind hierbei nicht einzubeziehen. Ungewöhnliche oder persönliche
-Verhältnisse bleiben dabei außer Betracht.
-
-(4) Die Wertminderung wegen Alters des Gebäudes beträgt für jedes
-Jahr, das seit Bezugsfertigkeit des Gebäudes bis zum
-Besteuerungszeitpunkt vollendet worden ist, 0,5 Prozent, höchstens
-jedoch 25 Prozent des Werts nach den Absätzen 2 und 3. Sind nach
-Bezugsfertigkeit des Gebäudes bauliche Maßnahmen durchgeführt worden,
-die die gewöhnliche Nutzungsdauer des Gebäudes um mindestens 25 Jahre
-verlängert haben, ist bei der Wertminderung wegen Alters von einer der
-Verlängerung der gewöhnlichen Nutzungsdauer entsprechenden
-Bezugsfertigkeit auszugehen.
-
-(5) Enthält ein bebautes Grundstück, das ausschließlich Wohnzwecken
-dient, nicht mehr als zwei Wohnungen, ist der nach den Absätzen 1 bis
-4 ermittelte Wert um 20 Prozent zu erhöhen.
-
-(6) Der für ein bebautes Grundstück nach den Absätzen 2 bis 5
-anzusetzende Wert darf nicht geringer sein als der Wert, mit dem der
-Grund und Boden allein als unbebautes Grundstück nach § 145 Abs. 3 zu
-bewerten wäre.
-
-(7) Die Vorschriften gelten entsprechend für Wohnungseigentum und
-Teileigentum.
-
-
-###### § 147 Sonderfälle
-
-(1) Läßt sich für bebaute Grundstücke die übliche Miete (§ 146 Abs. 3)
-nicht ermitteln, bestimmt sich der Wert abweichend von § 146 nach der
-Summe des Werts des Grund und Bodens und des Werts der Gebäude. Dies
-gilt insbesondere, wenn die Gebäude zur Durchführung bestimmter
-Fertigungsverfahren, zu Spezialnutzungen oder zur Aufnahme bestimmter
-technischer Einrichtungen errichtet worden sind und nicht oder nur mit
-erheblichem Aufwand für andere Zwecke nutzbar gemacht werden können.
-
-(2) Der Wert des Grund und Bodens ist gemäß § 145 mit der Maßgabe zu
-ermitteln, daß an Stelle des in § 145 Abs. 3 vorgesehenen Abschlags
-von 20 Prozent ein solcher von 30 Prozent tritt. Der Wert der Gebäude
-bestimmt sich nach den ertragsteuerlichen Bewertungsvorschriften;
-maßgebend ist der Wert im Besteuerungszeitpunkt.
-
-
-###### § 148 Erbbaurecht
-
-(1) Ist das Grundstück mit einem Erbbaurecht belastet, ist bei der
-Ermittlung der Grundbesitzwerte für die wirtschaftliche Einheit des
-belasteten Grundstücks und für die wirtschaftliche Einheit des
-Erbbaurechts von dem Gesamtwert auszugehen, der sich für den Grund und
-Boden einschließlich der Gebäude vor Anwendung des § 139 ergäbe, wenn
-die Belastung nicht bestünde.
-
-(2) Der Wert des Grund und Bodens entfällt auf die wirtschaftliche
-Einheit des belasteten Grundstücks.
-
-(3) Der Gebäudewert entfällt allein auf die wirtschaftliche Einheit
-des Erbbaurechts, wenn die Dauer dieses Rechts im
-Besteuerungszeitpunkt mindestens 40 Jahre beträgt oder der Eigentümer
-des belasteten Grundstücks bei Erlöschen des Erbbaurechts durch
-Zeitablauf eine dem Wert des Gebäudes entsprechende Entschädigung zu
-leisten hat. Beträgt die Dauer des Erbbaurechts im
-Besteuerungszeitpunkt weniger als 40 Jahre und ist eine Entschädigung
-ausgeschlossen, ist der Gebäudewert zu verteilen. Dabei entfallen auf
-die wirtschaftliche Einheit des Erbbaurechts bei einer Dauer dieses
-Rechts von
-
-*    *   unter 40 bis zu 35 Jahren
-
-    *   90 Prozent
-
-
-*    *   unter 35 bis zu 30 Jahren
-
-    *   85 Prozent
-
-
-*    *   unter 30 bis zu 25 Jahren
-
-    *   80 Prozent
-
-
-*    *   unter 25 bis zu 20 Jahren
-
-    *   70 Prozent
-
-
-*    *   unter 20 bis zu 15 Jahren
-
-    *   60 Prozent
-
-
-*    *   unter 15 bis zu 10 Jahren
-
-    *   50 Prozent
-
-
-*    *   unter 10 bis zu 8 Jahren
-
-    *   40 Prozent
-
-
-*    *   unter 8 bis zu 7 Jahren
-
-    *   35 Prozent
-
-
-*    *   unter 7 bis zu 6 Jahren
-
-    *   30 Prozent
-
-
-*    *   unter 6 bis zu 5 Jahren
-
-    *   25 Prozent
-
-
-*    *   unter 5 bis zu 4 Jahren
-
-    *   20 Prozent
-
-
-*    *   unter 4 bis zu 3 Jahren
-
-    *   15 Prozent
-
-
-*    *   unter 3 bis zu 2 Jahren
-
-    *   10 Prozent
-
-
-*    *   unter 2 Jahren bis zu 1 Jahr
-
-    *   5 Prozent
-
-
-*    *   unter 1 Jahr
-
-    *   0 Prozent.
-
-
-
-Auf die wirtschaftliche Einheit des belasteten Grundstücks entfällt
-der verbleibende Teil des Gebäudewerts. Beträgt die Entschädigung für
-das Gebäude beim Übergang nur einen Teil des gemeinen Werts, ist der
-dem Eigentümer des belasteten Grundstücks entschädigungslos zufallende
-Anteil entsprechend zu verteilen. Eine in der Höhe des Erbbauzinses
-zum Ausdruck kommende Entschädigung für den gemeinen Wert des Gebäudes
-bleibt außer Betracht.
-
-(4) Bei den nach § 146 zu bewertenden Grundstücken beträgt der
-Gebäudewert 80 Prozent des nach § 146 Abs. 2 bis 5 ermittelten Werts;
-der verbleibende Teil des Gesamtwerts entspricht dem Wert des Grund
-und Bodens. Bei bebauten Grundstücken im Sinne des § 147 Abs. 1 ist
-der Wert des Grund und Bodens nach § 147 Abs. 2 Satz 1 und der
-Gebäudewert nach § 147 Abs. 2 Satz 2 zu ermitteln.
-
-(5) Für Wohnungserbbaurechte oder Teilerbbaurechte gelten die Absätze
-1 bis 4 entsprechend.
-
-(6) Das Recht auf den Erbbauzins wird weder als Bestandteil des
-Grundstücks noch als gesondertes Recht angesetzt; die Verpflichtung
-zur Zahlung des Erbbauzinses ist weder bei der Bewertung des
-Erbbaurechts noch als gesonderte Verpflichtung abzuziehen.
-
-
-###### § 148a Gebäude auf fremdem Grund und Boden
-
-(1) Bei Gebäuden auf fremdem Grund und Boden ist § 148 Abs. 1
-entsprechend anzuwenden. Der Bodenwert ist dem Eigentümer des Grund
-und Bodens, der Gebäudewert dem Eigentümer des Gebäudes zuzurechnen.
-
-(2) § 148 Abs. 4 und 6 ist entsprechend anzuwenden.
-
-
-###### § 149 Grundstücke im Zustand der Bebauung
-
-(1) Ein Grundstück im Zustand der Bebauung liegt vor, wenn mit den
-Bauarbeiten begonnen wurde und Gebäude oder Gebäudeteile noch nicht
-bezugsfertig sind. Der Zustand der Bebauung beginnt mit den
-Abgrabungen oder der Einbringung von Baustoffen, die zur planmäßigen
-Errichtung des Gebäudes führen.
-
-(2) Der Wert ist entsprechend § 146 unter Zugrundelegung der üblichen
-Miete zu ermitteln, die nach Bezugsfertigkeit des Gebäudes zu erzielen
-wäre. Von diesem Wert sind 80 Prozent als Gebäudewert anzusetzen. Dem
-Grundstückswert ohne Berücksichtigung der nicht bezugsfertigen Gebäude
-oder Gebäudeteile, ermittelt bei unbebauten Grundstücken nach § 145
-Abs. 3 und bei bereits bebauten Grundstücken nach § 146, sind die
-nicht bezugsfertigen Gebäude oder Gebäudeteile mit dem Betrag als
-Gebäudewert hinzuzurechnen, der dem Verhältnis der bis zum
-Besteuerungszeitpunkt entstandenen Herstellungskosten zu den gesamten
-Herstellungskosten entspricht. Dieser Wert darf den Wert des
-Grundstücks, der nach Bezugsfertigkeit des Gebäudes anzusetzen wäre,
-nicht übersteigen.
-
-(3) Ist die übliche Miete nicht zu ermitteln, ist der Wert
-entsprechend § 147 zu ermitteln.
-
-
-###### § 150 Gebäude und Gebäudeteile für den Zivilschutz
-
-Gebäude, Teile von Gebäuden und Anlagen, die wegen der in § 1 des
-Zivilschutzgesetzes bezeichneten Zwecke geschaffen worden sind und im
-Frieden nicht oder nur gelegentlich oder geringfügig für andere Zwecke
-benutzt werden, bleiben bei der Ermittlung des Grundstückswerts außer
-Betracht.
+###### (XXXX) §§ 146 bis 150 (weggefallen)
 
 
 ### Fünfter Abschnitt - Gesonderte Feststellungen
@@ -3911,7 +924,7 @@ Betracht.
 
 (1) Gesondert festzustellen (§ 179 der Abgabenordnung) sind
 
-1.  Grundbesitzwerte (§§ 138, 157),
+1.  Grundbesitzwerte (§ 157),
 
 
 2.  der Wert des Betriebsvermögens oder des Anteils am Betriebsvermögen
@@ -4029,19 +1042,19 @@ von der Kapitalgesellschaft die Abgabe einer Feststellungserklärung
 verlangen.
 
 (4) Der Erklärungspflichtige hat die Erklärung nach amtlich
-vorgeschriebenem Datensatz durch Datenfernübertragung zu übermitteln.
-Auf Antrag kann das Finanzamt zur Vermeidung unbilliger Härten auf
-eine elektronische Übermittlung verzichten; in diesem Fall ist die
-Erklärung nach amtlich vorgeschriebenem Vordruck abzugeben und vom
-Erklärungspflichtigen eigenhändig zu unterschreiben. Das
-Bundesministerium der Finanzen legt im Einvernehmen mit den obersten
-Finanzbehörden der Länder die Einzelheiten der elektronischen
-Übermittlung der Erklärungen für die Feststellungen nach § 151 Absatz
-1 Satz 1 Nummer 1 bis 4 und jeweils deren Beginn in einem Schreiben
-fest. Dieses Schreiben ist im Bundessteuerblatt zu veröffentlichen.
-Hat ein Erklärungspflichtiger eine Erklärung zur gesonderten
-Feststellung abgegeben, sind andere Beteiligte insoweit von der
-Erklärungspflicht befreit.
+vorgeschriebenem Datensatz über die amtlich bestimmte Schnittstelle
+elektronisch zu übermitteln. Auf Antrag kann das Finanzamt zur
+Vermeidung unbilliger Härten auf eine elektronische Übermittlung
+verzichten; in diesem Fall ist die Erklärung nach amtlich
+vorgeschriebenem Vordruck abzugeben und vom Erklärungspflichtigen
+eigenhändig zu unterschreiben. Das Bundesministerium der Finanzen legt
+im Einvernehmen mit den obersten Finanzbehörden der Länder die
+Einzelheiten der elektronischen Übermittlung der Erklärungen für die
+Feststellungen nach § 151 Absatz 1 Satz 1 Nummer 1 bis 4 und jeweils
+deren Beginn in einem Schreiben fest. Dieses Schreiben ist im
+Bundessteuerblatt zu veröffentlichen. Hat ein Erklärungspflichtiger
+eine Erklärung zur gesonderten Feststellung abgegeben, sind andere
+Beteiligte insoweit von der Erklärungspflicht befreit.
 
 (5) § 181 Abs. 1 und 5 der Abgabenordnung ist entsprechend anzuwenden.
 
@@ -4103,8 +1116,10 @@ jedem Beteiligten (§ 154 Abs. 1) zulässig.
 ##### § 157 Feststellung von Grundbesitzwerten, von Anteilswerten und von Betriebsvermögenswerten
 
 (1) Grundbesitzwerte werden unter Berücksichtigung der tatsächlichen
-Verhältnisse und der Wertverhältnisse zum Bewertungsstichtag
-festgestellt. § 29 Abs. 2 und 3 gilt sinngemäß.
+Verhältnisse und der Wertverhältnisse zum Bewertungsstichtag für
+inländischen Grundbesitz, und zwar für Betriebe der Land- und
+Forstwirtschaft, für Grundstücke und für Betriebsgrundstücke,
+festgestellt. § 229 gilt für die Grundbesitzbewertung sinngemäß.
 
 (2) Für die wirtschaftlichen Einheiten des land- und
 forstwirtschaftlichen Vermögens und für Betriebsgrundstücke im Sinne
@@ -4118,8 +1133,8 @@ ermitteln. § 70 gilt mit der Maßgabe, dass der Anteil des Eigentümers
 eines Grundstücks an anderem Grundvermögen (zum Beispiel an
 gemeinschaftlichen Hofflächen oder Garagen) abweichend von Absatz 2
 Satz 1 dieser Vorschrift in das Grundstück einzubeziehen ist, wenn der
-Anteil zusammen mit dem Grundstück genutzt wird. § 20 Satz 2 ist
-entsprechend anzuwenden.
+Anteil zusammen mit dem Grundstück genutzt wird. § 20 ist entsprechend
+anzuwenden.
 
 (4) Der Wert von Anteilen an Kapitalgesellschaften im Sinne des § 11
 Abs. 2 Satz 2 (Anteilswert) wird unter Berücksichtigung der
@@ -4158,7 +1173,18 @@ Betrieb der Land- und Forstwirtschaft in Form einer
 Personengesellschaft oder Gemeinschaft geführt, sind in die
 wirtschaftliche Einheit auch die Wirtschaftsgüter einzubeziehen, die
 einem oder mehreren Beteiligten gehören, wenn sie dem Betrieb der
-Land- und Forstwirtschaft auf Dauer zu dienen bestimmt sind.
+Land- und Forstwirtschaft auf Dauer zu dienen bestimmt sind. Wird der
+Betrieb der Land- und Forstwirtschaft oder werden Teile davon einem
+anderen Berechtigten zur Erzeugung von Pflanzen und Tieren sowie zur
+Verwertung der dadurch selbst gewonnenen Erzeugnisse überlassen, so
+gilt dies als Fortsetzung der land- und forstwirtschaftlichen
+Tätigkeit des Überlassenden. Der Einordnung als Betrieb der Land- und
+Forstwirtschaft steht nicht entgegen, dass er aus einer oder einzelnen
+land- und forstwirtschaftlich genutzten Flächen gebildet wird, bei
+denen die Wirtschaftsgebäude oder die Betriebsmittel oder beide Arten
+von Wirtschaftsgütern nicht dem Eigentümer des Grund und Bodens
+gehören und diese anderen Betrieben der Land- und Forstwirtschaft auf
+Dauer zu dienen bestimmt sind.
 
 (3) Zu den Wirtschaftsgütern, die der wirtschaftlichen Einheit Betrieb
 der Land- und Forstwirtschaft zu dienen bestimmt sind, gehören
@@ -4346,6 +1372,10 @@ zuzurechnen sind.
 die Gebäude und Gebäudeteile, die dem Inhaber des Betriebs, den zu
 seinem Haushalt gehörenden Familienangehörigen und den Altenteilern zu
 Wohnzwecken dienen.
+
+(10) Einen Betrieb der Land- und Forstwirtschaft bildet auch die
+gemeinschaftliche Tierhaltung (§ 13b des Einkommensteuergesetzes)
+einschließlich der hiermit zusammenhängenden Wirtschaftsgüter.
 
 
 ###### § 161 Bewertungsstichtag
@@ -4717,7 +1747,6 @@ Höhe der gesellschaftsrechtlichen Beteiligung aufzuteilen.
 (1) Tierbestände gehören in vollem Umfang zur landwirtschaftlichen
 Nutzung, wenn im Wirtschaftsjahr
 
-
 *    *   für die ersten 20 Hektar
 
     *   nicht mehr als 10 Vieheinheiten
@@ -4746,6 +1775,7 @@ Nutzung, wenn im Wirtschaftsjahr
 *    *   je Hektar der vom Inhaber des Betriebs regelmäßig landwirtschaftlich
         genutzten Flächen erzeugt oder gehalten werden. Die Tierbestände sind
         nach dem Futterbedarf in Vieheinheiten umzurechnen.
+
 
 
 
@@ -5166,10 +2196,7 @@ Bodenwert nach § 179 gesondert zu berücksichtigen. Anzuwenden sind die
 von den Gutachterausschüssen ermittelten Vergleichsfaktoren nach
 Maßgabe des § 177 Absatz 2 und 3.
 
-(3) Besonderheiten, insbesondere die den Wert beeinflussenden
-Belastungen privatrechtlicher und öffentlich-rechtlicher Art, werden
-im Vergleichswertverfahren nach den Absätzen 1 und 2 nicht
-berücksichtigt.
+(3) (weggefallen)
 
 
 ###### § 184 Bewertung im Ertragswertverfahren
@@ -5931,12 +2958,31 @@ sie für die Besteuerung von Bedeutung sind.
 
 ##### § 220 Ermittlung der Grundsteuerwerte
 
-Die Grundsteuerwerte werden nach den Vorschriften dieses Abschnitts
-ermittelt. Bei der Ermittlung der Grundsteuerwerte ist § 163 der
-Abgabenordnung nicht anzuwenden; hiervon unberührt bleiben
+(1) Die Grundsteuerwerte werden nach den Vorschriften dieses
+Abschnitts ermittelt. Bei der Ermittlung der Grundsteuerwerte ist §
+163 der Abgabenordnung nicht anzuwenden; hiervon unberührt bleiben
 Übergangsregelungen, die die oberste Finanzbehörde eines Landes im
 Einvernehmen mit den obersten Finanzbehörden der übrigen Länder
 trifft.
+
+(2) Der niedrigere gemeine Wert ist als Grundsteuerwert anzusetzen,
+wenn der Steuerpflichtige nachweist, dass der nach den Vorschriften
+dieses Abschnitts ermittelte Grundsteuerwert erheblich von dem
+gemeinen Wert der wirtschaftlichen Einheit im Feststellungszeitpunkt
+abweicht. Davon ist auszugehen, wenn der Grundsteuerwert den
+nachgewiesenen gemeinen Wert um mindestens 40 Prozent übersteigt. §
+198 Absatz 1 Satz 2 und Absatz 2 gilt entsprechend. Als Nachweis des
+niedrigeren gemeinen Werts kann auch ein im gewöhnlichen
+Geschäftsverkehr innerhalb eines Jahres vor oder nach dem
+Hauptfeststellungszeitpunkt zustande gekommener Kaufpreis über die zu
+bewertende wirtschaftliche Einheit dienen, wenn die maßgeblichen
+Verhältnisse hierfür gegenüber den Verhältnissen am
+Hauptfeststellungszeitpunkt unverändert sind. Nutzungsrechte und
+weitere grundstücksbezogene Rechte und Belastungen sind bei der
+Ermittlung des niedrigeren gemeinen Werts nur zu berücksichtigen,
+soweit sie nach Inhalt und Entstehung mit der Beschaffenheit der
+wirtschaftlichen Einheit zusammenhängen. Die §§ 227, 261 und 262
+bleiben unberührt.
 
 
 ##### § 221 Hauptfeststellung
@@ -6090,17 +3136,17 @@ einer Erklärung kann vom Bundesministerium der Finanzen im
 Einvernehmen mit den obersten Finanzbehörden der Länder durch
 öffentliche Bekanntmachung erfolgen.
 
-(2) Eine Änderung der tatsächlichen Verhältnisse, die sich auf die
-Höhe des Grundsteuerwerts, die Vermögensart oder die Grundstücksart
-auswirken oder zu einer erstmaligen Feststellung führen kann, ist auf
-den Beginn des folgenden Kalenderjahres anzuzeigen. Gleiches gilt,
-wenn das Eigentum oder das wirtschaftliche Eigentum an einem auf
-fremdem Grund und Boden errichteten Gebäude übergegangen ist. Die
-Frist für die Abgabe dieser Anzeige beträgt einen Monat und beginnt
-mit Ablauf des Kalenderjahres, in dem sich die tatsächlichen
-Verhältnisse geändert haben oder das Eigentum oder das wirtschaftliche
+(2) Änderungen der tatsächlichen Verhältnisse, die sich auf die Höhe
+des Grundsteuerwerts, die Vermögensart oder die Grundstücksart
+auswirken oder zu einer erstmaligen Feststellung führen können, sind
+auf den Beginn des folgenden Kalenderjahres zusammengefasst
+anzuzeigen. Gleiches gilt, wenn das Eigentum oder das wirtschaftliche
 Eigentum an einem auf fremdem Grund und Boden errichteten Gebäude
-übergegangen ist.
+übergegangen ist. Die Frist für die Abgabe dieser Anzeige beträgt drei
+Monate und beginnt mit Ablauf des Kalenderjahres, in dem sich die
+tatsächlichen Verhältnisse geändert haben oder das Eigentum oder das
+wirtschaftliche Eigentum an einem auf fremdem Grund und Boden
+errichteten Gebäude übergegangen ist.
 
 (3) Die Erklärung nach Absatz 1 und die Anzeige nach Absatz 2 sind
 abzugeben
@@ -6129,11 +3175,12 @@ Steuererklärungen im Sinne der Abgabenordnung, die eigenhändig zu
 unterschreiben sind.
 
 (6) Die Erklärungen nach Absatz 1 und die Anzeigen nach Absatz 2 sind
-nach amtlich vorgeschriebenem Datensatz durch Datenfernübertragung zu
-übermitteln. Auf Antrag kann die Finanzbehörde zur Vermeidung
-unbilliger Härten auf eine Übermittlung durch Datenfernübertragung
-verzichten. Für die Entscheidung über den Antrag gilt § 150 Absatz 8
-der Abgabenordnung.
+nach amtlich vorgeschriebenem Datensatz über die amtlich bestimmte
+Schnittstelle elektronisch zu übermitteln. Auf Antrag kann die
+Finanzbehörde zur Vermeidung unbilliger Härten auf eine elektronische
+Übermittlung über die amtlich bestimmte Schnittstelle verzichten. Für
+die Entscheidung über den Antrag gilt § 150 Absatz 8 der
+Abgabenordnung.
 
 
 ##### § 229 Auskünfte, Erhebungen und Mitteilungen
@@ -6873,8 +3920,8 @@ nicht berücksichtigt.
 (2) Die Bodenrichtwerte sind von den Gutachterausschüssen im Sinne der
 §§ 192 ff. des Baugesetzbuchs auf den Hauptfeststellungzeitpunkt zu
 ermitteln, zu veröffentlichen und nach amtlich vorgeschriebenem
-Datensatz durch Datenfernübertragung an die zuständigen Finanzbehörden
-zu übermitteln.
+Datensatz über die amtlich bestimmte Schnittstelle elektronisch an die
+zuständigen Finanzbehörden zu übermitteln.
 
 (3) Wird von den Gutachterausschüssen im Sinne der §§ 192 ff. des
 Baugesetzbuchs kein Bodenrichtwert ermittelt, ist der Wert des
@@ -7338,6 +4385,14 @@ zum 20. Dezember 2022 gültigen Fassung weiter anzuwenden.
 Artikels 19 des Gesetzes vom 16. Dezember 2022 (BGBl. I S. 2294) sind
 auf Bewertungsstichtage nach dem 31. Dezember 2022 anzuwenden.
 
+(15) § 158 Absatz 2 Satz 3 und 4 in der Fassung des Artikels 35 des
+Gesetzes vom 2. Dezember 2024 (BGBl. 2024 I Nr. 387) sind auf
+Bewertungsstichtage nach dem 6. Dezember 2024 anzuwenden.
+
+(16) Die Anlagen 21, 23 und 26 in der Fassung des Artikels 35 des
+Gesetzes vom 2. Dezember 2024 (BGBl. 2024 I Nr. 387) sind auf
+Bewertungsstichtage nach dem 31. Dezember 2024 anzuwenden.
+
 
 ### § 266 Erstmalige Anwendung des Siebenten Abschnitts des Zweiten Teils
 
@@ -7395,3350 +4450,8 @@ der bis zum 31. Dezember 2024 gültigen Fassung gebildet wurden, können
 weiterhin für Zwecke der Feststellung von Grundsteuerwerten nach den
 Regelungen des Siebenten Abschnitts zugrunde gelegt werden.
 
-(zu § 51)
 
-### Anlage 1 Umrechnungsschlüssel für Tierbestände in Vieheinheiten nach dem Futterbedarf
-
-(Fundstelle: BGBl. I 2011, 2619 - 2620)
-
-
-*    *   Tierart
-
-    *   1 Tier
-
-
-*    *   **Alpakas**
-
-    *   0,08
-
-    *   VE
-
-
-*    *
-    *
-    *
-
-*    *   **Damtiere**
-
-    *
-    *
-
-*    *   Damtiere unter 1 Jahr
-
-    *   0,04
-
-    *   VE
-
-
-*    *   Damtiere 1 Jahr und älter
-
-    *   0,08
-
-    *   VE
-
-
-*    *
-    *
-    *
-
-*    *   **Geflügel**
-
-    *
-    *
-
-*    *   Legehennen (einschließlich einer normalen Aufzucht zur Ergänzung des
-        Bestandes)
-
-    *   0,02
-
-    *   VE
-
-
-*    *   Legehennen aus zugekauften Junghennen
-
-    *   0,0183
-
-    *   VE
-
-
-*    *   Zuchtputen, -enten, -gänse
-
-    *   0,04
-
-    *   VE
-
-
-*    *
-    *
-    *
-
-*    *   **Kaninchen**
-
-    *
-    *
-
-*    *   Zucht- und Angorakaninchen
-
-    *   0,025
-
-    *   VE
-
-
-*    *
-    *
-    *
-
-*    *   **Lamas**
-
-    *   0,1
-
-    *   VE
-
-
-*    *
-    *
-    *
-
-*    *   **Pferde**
-
-    *
-    *
-
-*    *   Pferde unter 3 Jahren und Kleinpferde
-
-    *   0,7
-
-    *   VE
-
-
-*    *   Pferde 3 Jahre und älter
-
-    *   1,1
-
-    *   VE
-
-
-*    *
-    *
-    *
-
-*    *   **Rindvieh**
-
-    *
-    *
-
-*    *   Kälber und Jungvieh unter 1 Jahr (einschließlich Mastkälber,
-        Starterkälber und Fresser)
-
-    *   0,3
-
-    *   VE
-
-
-*    *   Jungvieh 1 bis 2 Jahre alt
-
-    *   0,7
-
-    *   VE
-
-
-*    *   Färsen (älter als 2 Jahre)
-
-    *   1
-
-    *   VE
-
-
-*    *   Masttiere (Mastdauer weniger als 1 Jahr)
-
-    *   1
-
-    *   VE
-
-
-*    *   Kühe (einschließlich Mutter- und Ammenkühe mit den dazugehörigen
-        Saugkälbern)
-
-    *   1
-
-    *   VE
-
-
-*    *   Zuchtbullen, Zugochsen
-
-    *   1,2
-
-    *   VE
-
-
-*    *
-    *
-    *
-
-*    *   **Schafe**
-
-    *
-    *
-
-*    *   Schafe unter 1 Jahr einschließlich Mastlämmer
-
-    *   0,05
-
-    *   VE
-
-
-*    *   Schafe 1 Jahr und älter
-
-    *   0,1
-
-    *   VE
-
-
-*    *
-    *
-    *
-
-*    *   **Schweine**
-
-    *
-    *
-
-*    *   Zuchtschweine (einschließlich Jungzuchtschweine über etwa 90 kg)
-
-    *   0,33
-
-    *   VE
-
-
-*    *
-    *
-    *
-
-*    *   **Strauße**
-
-    *
-    *
-
-*    *   Zuchttiere 14 Monate und älter
-
-    *   0,32
-
-    *   VE
-
-
-*    *   Jungtiere/Masttiere unter 14 Monate
-
-    *   0,25
-
-    *   VE
-
-
-*    *
-    *
-    *
-
-*    *   **Ziegen**
-
-    *   0,08
-
-    *   VE
-
-
-*    *
-    *
-    *
-
-*    *   **Geflügel**
-
-    *
-    *
-
-*    *   Jungmasthühner (bis zu 6 Durchgänge je Jahr – schwere Tiere)
-
-    *   0,0017
-
-    *   VE
-
-
-*    *   (mehr als 6 Durchgänge je Jahr – leichte Tiere)
-
-    *   0,0013
-
-    *   VE
-
-
-*    *   Junghennen
-
-    *   0,0017
-
-    *   VE
-
-
-*    *   Mastenten
-
-    *   0,0033
-
-    *   VE
-
-
-*    *   Mastenten in der Aufzuchtphase
-
-    *   0,0011
-
-    *   VE
-
-
-*    *   Mastenten in der Mastphase
-
-    *   0,0022
-
-    *   VE
-
-
-*    *   Mastputen aus selbst erzeugten Jungputen
-
-    *   0,0067
-
-    *   VE
-
-
-*    *   Mastputen aus zugekauften Jungputen
-
-    *   0,005
-
-    *   VE
-
-
-*    *   Jungputen (bis etwa 8 Wochen)
-
-    *   0,0017
-
-    *   VE
-
-
-*    *   Mastgänse
-
-    *   0,0067
-
-    *   VE
-
-
-*    *
-    *
-    *
-
-*    *   **Kaninchen**
-
-    *
-    *
-
-*    *   Mastkaninchen
-
-    *   0,0025
-
-    *   VE
-
-
-*    *
-    *
-    *
-
-*    *   **Rindvieh**
-
-    *
-    *
-
-*    *   Masttiere (Mastdauer 1 Jahr und mehr)
-
-    *   1
-
-    *   VE
-
-
-*    *
-    *
-    *
-
-*    *   **Schweine**
-
-    *
-    *
-
-*    *   Leichte Ferkel (bis etwa 12 kg)
-
-    *   0,01
-
-    *   VE
-
-
-*    *   Ferkel (über etwa 12 bis etwa 20 kg)
-
-    *   0,02
-
-    *   VE
-
-
-*    *   Schwere Ferkel und leichte Läufer (über etwa 20 bis etwa 30 kg)
-
-    *   0,04
-
-    *   VE
-
-
-*    *   Läufer (über etwa 30 bis etwa 45 kg)
-
-    *   0,06
-
-    *   VE
-
-
-*    *   Schwere Läufer (über etwa 45 bis etwa 60 kg)
-
-    *   0,08
-
-    *   VE
-
-
-*    *   Mastschweine
-
-    *   0,16
-
-    *   VE
-
-
-*    *   Jungzuchtschweine bis etwa 90 kg
-
-    *   0,12
-
-    *   VE
-
-
-
-
-### Anlage 2 Gruppen der Zweige des Tierbestands nach der Flächenabhängigkeit
-
-(Fundstelle: BGBl. I 1991, 263)
-
-
-*    *   1.
-
-    *   Mehr flächenabhängige Zweige des Tierbestands
-
-
-*    *   Pferdehaltung,
-
-
-*    *   Pferdezucht,
-
-
-*    *   Schafzucht,
-
-
-*    *   Schafhaltung,
-
-
-*    *   Rindviehzucht,
-
-
-*    *   Milchviehhaltung,
-
-
-*    *   Rindviehmast.
-
-
-*    *   2.
-
-    *   Weniger flächenabhängige Zweige des Tierbestands
-
-
-*    *   Schweinezucht,
-
-
-*    *   Schweinemast,
-
-
-*    *   Hühnerzucht,
-
-
-*    *   Entenzucht,
-
-
-*    *   Gänsezucht,
-
-
-*    *   Putenzucht,
-
-
-*    *   Legehennenhaltung,
-
-
-*    *   Junghühnermast,
-
-
-*    *   Entenmast,
-
-
-*    *   Gänsemast,
-
-
-*    *   Putenmast.
-
-
-
-
-Mietwohngrundstücke
-
-### Anlage 3 Vervielfältiger
-
-(Fundstelle des Originaltextes: BGBl. I 1991, 264)
-
-*    *
-        A.  bei Massivbauten mit Mauerwerk aus Ziegelsteinen, Natursteinen,
-            Kalksandsteinen, Schwemmsteinen oder ähnlichen Steinen sowie bei
-            Stahl- und Stahlbetonskelettbauten außer bei solchen Bauten, die unter
-            B fallen
-
-
-
-
-
-*    *
-
-*    *
-    *   Gemeindegrößenklassen
-
-
-*    *   bis 2.000
-
-    *   über
-        2\.000
-        bis
-        5\.000
-
-    *   über
-        5\.000
-        bis
-        10\.000
-
-    *   über
-        10\.000
-        bis
-        50\.000
-
-    *   über
-        50\.000
-        bis
-        100\.000
-
-    *   über
-        100\.000
-        bis
-        200\.000
-
-    *   über
-        200\.000
-        bis
-        500\.000
-
-    *   über
-        500\.000 Einwohner
-
-
-*    *   Altbauten
-
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-
-*    *   vor 1895
-
-    *   7,2
-
-    *   6,9
-
-    *   5,8
-
-    *   5,8
-
-    *   5,7
-
-    *   5,5
-
-    *   5,4
-
-    *   5,3
-
-
-*    *   1895 bis 1899
-
-    *   7,4
-
-    *   7,1
-
-    *   6,0
-
-    *   5,9
-
-    *   5,8
-
-    *   5,7
-
-    *   5,5
-
-    *   5,4
-
-
-*    *   1900 bis 1904
-
-    *   7,8
-
-    *   7,5
-
-    *   6,2
-
-    *   6,2
-
-    *   6,0
-
-    *   5,9
-
-    *   5,7
-
-    *   5,6
-
-
-*    *   1905 bis 1915
-
-    *   8,3
-
-    *   7,9
-
-    *   6,6
-
-    *   6,5
-
-    *   6,3
-
-    *   6,2
-
-    *   6,0
-
-    *   5,8
-
-
-*    *   1916 bis 31.3.1924
-
-    *   8,7
-
-    *   8,4
-
-    *   6,9
-
-    *   6,7
-
-    *   6,5
-
-    *   6,4
-
-    *   6,2
-
-    *   6,1
-
-
-*    *   Neubauten
-
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-
-*    *   1. 4.1924 bis 31.12.1934
-
-    *   9,8
-
-    *   9,5
-
-    *   8,3
-
-    *   8,2
-
-    *   8,0
-
-    *   7,8
-
-    *   7,7
-
-    *   7,5
-
-
-*    *   1. 1.1935 bis 20. 6.1948
-
-    *   10,2
-
-    *   9,8
-
-    *   8,6
-
-    *   8,4
-
-    *   8,2
-
-    *   8,0
-
-    *   7,9
-
-    *   7,7
-
-
-*    *   Nachkriegsbauten
-        nach dem
-
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-
-*    *   20. 6.1948
-
-    *   9,8
-
-    *   9,7
-
-    *   9,5
-
-    *   9,2
-
-    *   9,0
-
-    *   9,0
-
-    *   9,0
-
-    *   9,1
-
-
-*    *
-
-*    *
-        B.  bei Holzfachwerkbauten mit Ziegelsteinausmauerung, Gebäuden aus
-            großformatigen Bimsbetonplatten oder ähnlichen Platten sowie bei
-            anderen eingeschossigen massiven Gebäuden in leichter Bauausführung
-
-
-
-
-
-*    *
-
-*    *   Altbauten
-
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-
-*    *   vor 1908
-
-    *   6,6
-
-    *   6,3
-
-    *   5,3
-
-    *   5,4
-
-    *   5,3
-
-    *   5,2
-
-    *   5,1
-
-    *   5,0
-
-
-*    *   1908 bis 1915
-
-    *   6,9
-
-    *   6,6
-
-    *   5,6
-
-    *   5,6
-
-    *   5,5
-
-    *   5,4
-
-    *   5,3
-
-    *   5,1
-
-
-*    *   1916 bis 31.3.1924
-
-    *   7,7
-
-    *   7,4
-
-    *   6,1
-
-    *   6,1
-
-    *   6,0
-
-    *   5,8
-
-    *   5,7
-
-    *   5,5
-
-
-*    *   Neubauten
-
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-
-*    *   1. 4.1924 bis 31.12.1934
-
-    *   9,0
-
-    *   8,7
-
-    *   7,7
-
-    *   7,6
-
-    *   7,5
-
-    *   7,3
-
-    *   7,2
-
-    *   7,0
-
-
-*    *   1. 1.1935 bis 20. 6.1948
-
-    *   9,6
-
-    *   9,3
-
-    *   8,2
-
-    *   8,0
-
-    *   7,8
-
-    *   7,7
-
-    *   7,5
-
-    *   7,4
-
-
-*    *   Nachkriegsbauten
-        nach dem
-
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-
-*    *   20. 6.1948
-
-    *   9,5
-
-    *   9,4
-
-    *   9,2
-
-    *   8,9
-
-    *   8,7
-
-    *   8,7
-
-    *   8,7
-
-    *   8,8
-
-
-*    *
-
-*    *
-        C.  bei Holzfachwerkbauten mit Lehmausfachung und besonders haltbaren
-            Holzbauten mit massiven Fundamenten
-
-
-
-
-
-*    *
-
-*    *   Altbauten
-        vor dem
-
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-
-*    *   1. 4.1924
-
-    *   5,7
-
-    *   5,5
-
-    *   4,7
-
-    *   4,9
-
-    *   4,8
-
-    *   4,7
-
-    *   4,6
-
-    *   4,5
-
-
-*    *   Neubauten
-
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-
-*    *   1. 4.1924 bis 31.12.1934
-
-    *   7,3
-
-    *   7,0
-
-    *   6,4
-
-    *   6,4
-
-    *   6,3
-
-    *   6,2
-
-    *   6,1
-
-    *   6,0
-
-
-*    *   1. 1.1935 bis 20. 6.1948
-
-    *   8,5
-
-    *   8,2
-
-    *   7,3
-
-    *   7,2
-
-    *   7,1
-
-    *   7,0
-
-    *   6,8
-
-    *   6,7
-
-
-*    *   Nachkriegsbauten
-        nach dem
-
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-
-*    *   20. 6.1948
-
-    *   8,9
-
-    *   8,7
-
-    *   8,6
-
-    *   8,3
-
-    *   8,1
-
-    *   8,1
-
-    *   8,1
-
-    *   8,3
-
-
-
-
-Gemischtgenutzte Grundstücke mit einem gewerblichen Anteil an der
-Jahresrohmiete bis zu 50 v. H.
-
-### Anlage 4 Vervielfältiger
-
-(Fundstelle des Originaltextes: BGBl. I 1991, 265)
-
-*    *
-        A.  bei Massivbauten mit Mauerwerk aus Ziegelsteinen, Natursteinen,
-            Kalksandsteinen, Schwemmsteinen oder ähnlichen Steinen sowie bei
-            Stahl- und Stahlbetonskelettbauten außer bei solchen Bauten, die unter
-            B fallen
-
-
-
-
-
-*    *
-
-*    *
-    *   Gemeindegrößenklassen
-
-
-*    *   bis 2.000
-
-    *   über
-        2\.000
-        bis
-        5\.000
-
-    *   über
-        5\.000
-        bis
-        10\.000
-
-    *   über
-        10\.000
-        bis
-        50\.000
-
-    *   über
-        50\.000
-        bis
-        100\.000
-
-    *   über
-        100\.000
-        bis
-        200\.000
-
-    *   über
-        200\.000
-        bis
-        500\.000
-
-    *   über
-        500\.000 Einwohner
-
-
-*    *   Altbauten
-
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-
-*    *   vor 1895
-
-    *   7,6
-
-    *   7,3
-
-    *   6,4
-
-    *   6,4
-
-    *   6,1
-
-    *   6,0
-
-    *   5,9
-
-    *   6,1
-
-
-*    *   1895 bis 1899
-
-    *   7,8
-
-    *   7,6
-
-    *   6,6
-
-    *   6,5
-
-    *   6,3
-
-    *   6,2
-
-    *   6,0
-
-    *   6,3
-
-
-*    *   1900 bis 1904
-
-    *   8,2
-
-    *   7,9
-
-    *   6,9
-
-    *   6,8
-
-    *   6,5
-
-    *   6,4
-
-    *   6,3
-
-    *   6,4
-
-
-*    *   1905 bis 1915
-
-    *   8,7
-
-    *   8,4
-
-    *   7,2
-
-    *   7,1
-
-    *   6,8
-
-    *   6,7
-
-    *   6,5
-
-    *   6,7
-
-
-*    *   1916 bis 31.3.1924
-
-    *   9,1
-
-    *   8,8
-
-    *   7,6
-
-    *   7,4
-
-    *   7,1
-
-    *   6,9
-
-    *   6,8
-
-    *   6,9
-
-
-*    *   Neubauten
-
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-
-*    *   1. 4.1924 bis 31.12.1934
-
-    *   10,2
-
-    *   9,6
-
-    *   8,4
-
-    *   8,1
-
-    *   8,0
-
-    *   7,8
-
-    *   7,7
-
-    *   7,8
-
-
-*    *   1. 1.1935 bis 20. 6.1948
-
-    *   10,5
-
-    *   9,8
-
-    *   8,6
-
-    *   8,3
-
-    *   8,2
-
-    *   8,0
-
-    *   7,9
-
-    *   7,9
-
-
-*    *   Nachkriegsbauten
-        nach dem
-
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-
-*    *   20. 6.1948
-
-    *   9,9
-
-    *   9,6
-
-    *   9,2
-
-    *   9,1
-
-    *   9,0
-
-    *   9,0
-
-    *   9,0
-
-    *   9,0
-
-
-*    *
-
-*    *
-        B.  bei Holzfachwerkbauten mit Ziegelsteinausmauerung, Gebäuden aus
-            großformatigen Bimsbetonplatten oder ähnlichen Platten sowie bei
-            anderen eingeschossigen massiven Gebäuden in leichter Bauausführung
-
-
-
-
-
-*    *
-
-*    *   Altbauten
-
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-
-*    *   vor 1908
-
-    *   7,0
-
-    *   6,7
-
-    *   5,9
-
-    *   6,0
-
-    *   5,7
-
-    *   5,6
-
-    *   5,5
-
-    *   5,8
-
-
-*    *   1908 bis 1915
-
-    *   7,3
-
-    *   7,0
-
-    *   6,2
-
-    *   6,2
-
-    *   5,9
-
-    *   5,8
-
-    *   5,7
-
-    *   6,0
-
-
-*    *   1916 bis 31.3.1924
-
-    *   8,1
-
-    *   7,8
-
-    *   6,8
-
-    *   6,7
-
-    *   6,4
-
-    *   6,3
-
-    *   6,2
-
-    *   6,4
-
-
-*    *   Neubauten
-
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-
-*    *   1. 4.1924 bis 31.12.1934
-
-    *   9,3
-
-    *   8,8
-
-    *   7,7
-
-    *   7,6
-
-    *   7,5
-
-    *   7,3
-
-    *   7,2
-
-    *   7,3
-
-
-*    *   1. 1.1935 bis 20. 6.1948
-
-    *   9,9
-
-    *   9,3
-
-    *   8,2
-
-    *   8,0
-
-    *   7,8
-
-    *   7,7
-
-    *   7,5
-
-    *   7,6
-
-
-*    *   Nachkriegsbauten
-        nach dem
-
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-
-*    *   20. 6.1948
-
-    *   9,6
-
-    *   9,3
-
-    *   9,0
-
-    *   8,9
-
-    *   8,7
-
-    *   8,7
-
-    *   8,7
-
-    *   8,8
-
-
-*    *
-
-*    *
-        C.  bei Holzfachwerkbauten mit Lehmausfachung und besonders haltbaren
-            Holzbauten mit massiven Fundamenten
-
-
-
-
-
-*    *
-
-*    *   Altbauten
-        vor dem
-
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-
-*    *   1. 4.1924
-
-    *   6,1
-
-    *   5,9
-
-    *   5,2
-
-    *   5,4
-
-    *   5,2
-
-    *   5,1
-
-    *   5,0
-
-    *   5,4
-
-
-*    *   Neubauten
-
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-
-*    *   1. 4.1924 bis 31.12.1934
-
-    *   7,7
-
-    *   7,2
-
-    *   6,4
-
-    *   6,5
-
-    *   6,4
-
-    *   6,3
-
-    *   6,1
-
-    *   6,4
-
-
-*    *   1. 1.1935 bis 20. 6.1948
-
-    *   8,8
-
-    *   8,3
-
-    *   7,3
-
-    *   7,3
-
-    *   7,1
-
-    *   7,0
-
-    *   6,9
-
-    *   7,1
-
-
-*    *   Nachkriegsbauten
-        nach dem
-
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-
-*    *   20. 6.1948
-
-    *   9,0
-
-    *   8,7
-
-    *   8,4
-
-    *   8,4
-
-    *   8,2
-
-    *   8,2
-
-    *   8,2
-
-    *   8,4
-
-
-
-
-Gemischtgenutzte Grundstücke mit einem gewerblichen Anteil an der
-Jahresrohmiete von mehr als 50 v. H.
-
-### Anlage 5 Vervielfältiger
-
-(Fundstelle: BGBl. I 1991, 266)
-
-
-*    *   A.
-
-    *   bei Massivbauten mit Mauerwerk aus Ziegelsteinen, Natursteinen,
-        Kalksandsteinen, Schwemmsteinen oder ähnlichen Steinen sowie bei
-        Stahl- und Stahlbetonskelettbauten außer bei solchen Bauten, die unter
-        B fallen
-
-
-*    *
-    *   Gemeindegrößenklassen
-
-
-*    *   bis 2.000
-
-    *   über 2.000 bis 5.000
-
-    *   über 5.000 bis 10.000
-
-    *   über 10.000 bis 50.000
-
-    *   über 50.000 bis 100.000
-
-    *   über 100.000 bis 200.000
-
-    *   über 200.000 bis 500.000
-
-    *   über 500.000 Einwohner
-
-
-*    *   Altbauten
-
-
-*    *   vor 1895
-
-    *   7,6
-
-    *   7,2
-
-    *   6,4
-
-    *   6,6
-
-    *   6,4
-
-    *   6,4
-
-    *   6,4
-
-    *   6,4
-
-
-*    *   1895 bis 1899
-
-    *   7,8
-
-    *   7,4
-
-    *   6,6
-
-    *   6,8
-
-    *   6,5
-
-    *   6,5
-
-    *   6,5
-
-    *   6,5
-
-
-*    *   1900 bis 1904
-
-    *   8,2
-
-    *   7,8
-
-    *   6,8
-
-    *   7,0
-
-    *   6,7
-
-    *   6,7
-
-    *   6,7
-
-    *   6,7
-
-
-*    *   1905 bis 1915
-
-    *   8,6
-
-    *   8,2
-
-    *   7,1
-
-    *   7,2
-
-    *   7,0
-
-    *   7,0
-
-    *   7,0
-
-    *   7,0
-
-
-*    *   1916 bis 31.3.1924
-
-    *   9,0
-
-    *   8,6
-
-    *   7,4
-
-    *   7,5
-
-    *   7,2
-
-    *   7,2
-
-    *   7,2
-
-    *   7,2
-
-
-*    *   Neubauten
-
-
-*    *   1. 4.1924 bis 31.12.1934
-
-    *   9,7
-
-    *   9,1
-
-    *   8,0
-
-    *   8,1
-
-    *   7,9
-
-    *   7,9
-
-    *   7,9
-
-    *   7,9
-
-
-*    *   1. 1.1935 bis 20. 6.1948
-
-    *   10,0
-
-    *   9,4
-
-    *   8,2
-
-    *   8,3
-
-    *   8,1
-
-    *   8,1
-
-    *   8,1
-
-    *   8,1
-
-
-*    *   Nachkriegsbauten
-
-
-*    *   nach dem 20. 6.1948
-
-    *   9,6
-
-    *   9,3
-
-    *   8,9
-
-    *   8,9
-
-    *   8,7
-
-    *   8,8
-
-    *   8,8
-
-    *   8,8
-
-
-*    *   B.
-
-    *   bei Holzfachwerkbauten mit Ziegelsteinausmauerung, Gebäuden aus
-        großformatigen Bimsbetonplatten oder ähnlichen Platten sowie bei
-        anderen eingeschossigen massiven Gebäuden in leichter Bauausführung
-
-
-*    *   Altbauten
-
-
-*    *   vor 1908
-
-    *   7,0
-
-    *   6,7
-
-    *   6,0
-
-    *   6,3
-
-    *   6,1
-
-    *   6,1
-
-    *   6,1
-
-    *   6,1
-
-
-*    *   1908 bis 1915
-
-    *   7,3
-
-    *   7,0
-
-    *   6,2
-
-    *   6,5
-
-    *   6,2
-
-    *   6,2
-
-    *   6,2
-
-    *   6,2
-
-
-*    *   1916 bis 31.3.1924
-
-    *   8,1
-
-    *   7,7
-
-    *   6,7
-
-    *   6,9
-
-    *   6,7
-
-    *   6,7
-
-    *   6,7
-
-    *   6,7
-
-
-*    *   Neubauten
-
-
-*    *   1. 4.1924 bis 31.12.1934
-
-    *   9,0
-
-    *   8,4
-
-    *   7,5
-
-    *   7,6
-
-    *   7,5
-
-    *   7,5
-
-    *   7,5
-
-    *   7,5
-
-
-*    *   1. 1.1935 bis 20. 6.1948
-
-    *   9,5
-
-    *   8,9
-
-    *   7,8
-
-    *   7,9
-
-    *   7,8
-
-    *   7,8
-
-    *   7,8
-
-    *   7,8
-
-
-*    *   Nachkriegsbauten
-
-
-*    *   nach dem 20. 6.1948
-
-    *   9,3
-
-    *   9,0
-
-    *   8,6
-
-    *   8,7
-
-    *   8,5
-
-    *   8,6
-
-    *   8,6
-
-    *   8,6
-
-
-*    *   C.
-
-    *   bei Holzfachwerkbauten mit Lehmausfachung und besonders haltbaren
-        Holzbauten mit massiven Fundamenten
-
-
-*    *   Altbauten
-
-
-*    *   vor dem 1. 4.1924
-
-    *   6,2
-
-    *   5,9
-
-    *   5,5
-
-    *   5,8
-
-    *   5,6
-
-    *   5,6
-
-    *   5,6
-
-    *   5,6
-
-
-*    *   Neubauten
-
-
-*    *   1. 4.1924 bis 31.12.1934
-
-    *   7,4
-
-    *   7,0
-
-    *   6,4
-
-    *   6,7
-
-    *   6,5
-
-    *   6,5
-
-    *   6,5
-
-    *   6,5
-
-
-*    *   1. 1.1935 bis 20. 6.1948
-
-    *   8,5
-
-    *   8,0
-
-    *   7,2
-
-    *   7,3
-
-    *   7,2
-
-    *   7,2
-
-    *   7,2
-
-    *   7,2
-
-
-*    *   Nachkriegsbauten
-
-
-*    *   nach dem 20. 6.1948
-
-    *   8,8
-
-    *   8,5
-
-    *   8,1
-
-    *   8,2
-
-    *   8,1
-
-    *   8,2
-
-    *   8,2
-
-    *   8,2
-
-
-
-
-Geschäftsgrundstücke
-
-### Anlage 6 Vervielfältiger
-
-(Fundstelle des Originaltextes: BGBl. I 1991, 267)
-
-*    *
-        A.  bei Massivbauten mit Mauerwerk aus Ziegelsteinen, Natursteinen,
-            Kalksandsteinen, Schwemmsteinen oder ähnlichen Steinen sowie bei
-            Stahl- und Stahlbetonskelettbauten außer bei solchen Bauten, die unter
-            B fallen
-
-
-
-
-
-*    *
-
-*    *
-    *   Gemeindegrößenklassen
-
-
-*    *   bis
-        2\.000
-
-    *   über
-        2\.000
-        bis
-        5\.000
-
-    *   über
-        5\.000
-        bis
-        10\.000
-
-    *   über
-        10\.000
-        bis
-        50\.000
-
-    *   über
-        50\.000
-        bis
-        100\.000
-
-    *   über
-        100\.000
-        bis
-        200\.000
-
-    *   über
-        200\.000
-        bis
-        500\.000
-
-    *   über
-        500\.000
-        Einwohner
-
-
-*    *   Altbauten
-
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-
-*    *   vor 1895
-
-    *   7,8
-
-    *   7,5
-
-    *   6,7
-
-    *   6,9
-
-    *   6,8
-
-    *   6,8
-
-    *   6,8
-
-    *   6,8
-
-
-*    *   1895 bis 1899
-
-    *   8,0
-
-    *   7,7
-
-    *   6,9
-
-    *   7,0
-
-    *   7,0
-
-    *   7,0
-
-    *   7,0
-
-    *   7,0
-
-
-*    *   1900 bis 1904
-
-    *   8,3
-
-    *   7,9
-
-    *   7,1
-
-    *   7,2
-
-    *   7,1
-
-    *   7,1
-
-    *   7,1
-
-    *   7,1
-
-
-*    *   1905 bis 1915
-
-    *   8,7
-
-    *   8,3
-
-    *   7,4
-
-    *   7,5
-
-    *   7,4
-
-    *   7,4
-
-    *   7,4
-
-    *   7,4
-
-
-*    *   1916 bis 31.3.1924
-
-    *   9,0
-
-    *   8,6
-
-    *   7,7
-
-    *   7,8
-
-    *   7,6
-
-    *   7,6
-
-    *   7,6
-
-    *   7,6
-
-
-*    *   Neubauten
-
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-
-*    *   1. 4.1924 bis 31.12.1934
-
-    *   9,4
-
-    *   9,0
-
-    *   8,0
-
-    *   8,0
-
-    *   8,0
-
-    *   8,0
-
-    *   8,0
-
-    *   8,0
-
-
-*    *   1. 1.1935 bis 20. 6.1948
-
-    *   9,6
-
-    *   9,2
-
-    *   8,1
-
-    *   8,2
-
-    *   8,1
-
-    *   8,1
-
-    *   8,1
-
-    *   8,1
-
-
-*    *   Nachkriegsbauten
-        nach dem
-
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-
-*    *   20. 6.1948
-
-    *   9,4
-
-    *   9,2
-
-    *   9,0
-
-    *   9,0
-
-    *   8,9
-
-    *   8,9
-
-    *   8,9
-
-    *   8,9
-
-
-*    *
-
-*    *
-        B.  bei Holzfachwerkbauten mit Ziegelsteinausmauerung, Gebäuden aus
-            großformatigen Bimsbetonplatten oder ähnlichen Platten sowie bei
-            anderen eingeschossigen massiven Gebäuden in leichter Bauausführung
-
-
-
-
-
-*    *
-
-*    *   Altbauten
-
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-
-*    *   vor 1908
-
-    *   7,3
-
-    *   7,0
-
-    *   6,3
-
-    *   6,5
-
-    *   6,5
-
-    *   6,5
-
-    *   6,5
-
-    *   6,5
-
-
-*    *   1908 bis 1915
-
-    *   7,6
-
-    *   7,2
-
-    *   6,5
-
-    *   6,7
-
-    *   6,7
-
-    *   6,7
-
-    *   6,7
-
-    *   6,7
-
-
-*    *   1916 bis 31.3.1924
-
-    *   8,2
-
-    *   7,8
-
-    *   7,0
-
-    *   7,2
-
-    *   7,1
-
-    *   7,1
-
-    *   7,1
-
-    *   7,1
-
-
-*    *   Neubauten
-
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-
-*    *   1. 4.1924 bis 31.12.1934
-
-    *   8,8
-
-    *   8,4
-
-    *   7,5
-
-    *   7,6
-
-    *   7,6
-
-    *   7,6
-
-    *   7,6
-
-    *   7,6
-
-
-*    *   1. 1.1935 bis 20. 6.1948
-
-    *   9,2
-
-    *   8,8
-
-    *   7,8
-
-    *   7,9
-
-    *   7,8
-
-    *   7,8
-
-    *   7,8
-
-    *   7,8
-
-
-*    *   Nachkriegsbauten
-        nach dem
-
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-
-*    *   20. 6.1948
-
-    *   9,1
-
-    *   9,0
-
-    *   8,7
-
-    *   8,8
-
-    *   8,7
-
-    *   8,7
-
-    *   8,7
-
-    *   8,7
-
-
-*    *
-
-*    *
-        C.  bei Holzfachwerkbauten mit Lehmausfachung und besonders haltbaren
-            Holzbauten mit massiven Fundamenten
-
-
-
-
-
-*    *
-
-*    *   Altbauten
-        vor dem
-
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-
-*    *   1. 4.1924
-
-    *   6,6
-
-    *   6,3
-
-    *   5,7
-
-    *   6,0
-
-    *   6,1
-
-    *   6,1
-
-    *   6,1
-
-    *   6,1
-
-
-*    *   Neubauten
-
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-
-*    *   1. 4.1924 bis 31.12.1934
-
-    *   7,5
-
-    *   7,2
-
-    *   6,5
-
-    *   6,7
-
-    *   6,8
-
-    *   6,8
-
-    *   6,8
-
-    *   6,8
-
-
-*    *   1. 1.1935 bis 20. 6.1948
-
-    *   8,4
-
-    *   8,0
-
-    *   7,2
-
-    *   7,3
-
-    *   7,3
-
-    *   7,3
-
-    *   7,3
-
-    *   7,3
-
-
-*    *   Nachkriegsbauten
-        nach dem
-
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-
-*    *   20. 6.1948
-
-    *   8,7
-
-    *   8,6
-
-    *   8,3
-
-    *   8,4
-
-    *   8,3
-
-    *   8,3
-
-    *   8,4
-
-    *   8,4
-
-
-
-
-Einfamilienhäuser
-
-### Anlage 7 Vervielfältiger
-
-(Fundstelle: BGBl. I 1991, 268)
-
-
-*    *   A.
-
-    *   bei Massivbauten mit Mauerwerk aus Ziegelsteinen, Natursteinen,
-        Kalksandsteinen, Schwemmsteinen oder ähnlichen Steinen sowie bei
-        Stahl- und Stahlbetonskelettbauten außer bei solchen Bauten, die unter
-        B fallen
-
-
-*    *
-    *   Gemeindegrößenklassen
-
-
-*    *   bis 2.000
-
-    *   über 2.000 bis 5.000
-
-    *   über 5.000 bis 10.000
-
-    *   über 10.000 bis 50.000
-
-    *   über 50.000 bis 100.000
-
-    *   über 100.000 bis 200.000
-
-    *   über 200.000 bis 500.000
-
-    *   über 500.000 Einwohner
-
-
-*    *   Altbauten
-
-
-*    *   vor 1895
-
-    *   9,5
-
-    *   9,0
-
-    *   7,7
-
-    *   7,4
-
-    *   7,8
-
-    *   7,8
-
-    *   7,8
-
-    *   7,8
-
-
-*    *   1895 bis 1899
-
-    *   9,8
-
-    *   9,3
-
-    *   7,9
-
-    *   7,6
-
-    *   8,0
-
-    *   8,0
-
-    *   8,0
-
-    *   8,0
-
-
-*    *   1900 bis 1904
-
-    *   10,3
-
-    *   9,8
-
-    *   8,3
-
-    *   7,9
-
-    *   8,2
-
-    *   8,2
-
-    *   8,2
-
-    *   8,2
-
-
-*    *   1905 bis 1915
-
-    *   11,0
-
-    *   10,4
-
-    *   8,7
-
-    *   8,4
-
-    *   8,6
-
-    *   8,6
-
-    *   8,6
-
-    *   8,6
-
-
-*    *   1916 bis 31.3.1924
-
-    *   11,6
-
-    *   11,0
-
-    *   9,1
-
-    *   8,8
-
-    *   8,9
-
-    *   8,9
-
-    *   8,9
-
-    *   8,9
-
-
-*    *   Neubauten
-
-
-*    *   1. 4.1924 bis 31.12.1934
-
-    *   13,1
-
-    *   12,4
-
-    *   10,6
-
-    *   10,2
-
-    *   10,2
-
-    *   10,2
-
-    *   10,2
-
-    *   10,2
-
-
-*    *   1. 1.1935 bis 20. 6.1948
-
-    *   13,5
-
-    *   12,9
-
-    *   10,9
-
-    *   10,5
-
-    *   10,4
-
-    *   10,4
-
-    *   10,4
-
-    *   10,4
-
-
-*    *   Nachkriegsbauten
-
-
-*    *   nach dem 20. 6.1948
-
-    *   13,0
-
-    *   12,4
-
-    *   12,0
-
-    *   11,8
-
-    *   11,8
-
-    *   11,8
-
-    *   11,8
-
-    *   11,9
-
-
-*    *   B.
-
-    *   bei Holzfachwerkbauten mit Ziegelsteinausmauerung, Gebäuden aus
-        großformatigen Bimsbetonplatten oder ähnlichen Platten sowie bei
-        anderen eingeschossigen massiven Gebäuden in leichter Bauausführung
-
-
-*    *   Altbauten
-
-
-*    *   vor 1908
-
-    *   8,7
-
-    *   8,3
-
-    *   7,1
-
-    *   6,8
-
-    *   7,3
-
-    *   7,3
-
-    *   7,3
-
-    *   7,3
-
-
-*    *   1908 bis 1915
-
-    *   9,1
-
-    *   8,7
-
-    *   7,4
-
-    *   7,1
-
-    *   7,6
-
-    *   7,6
-
-    *   7,6
-
-    *   7,6
-
-
-*    *   1916 bis 31.3.1924
-
-    *   10,2
-
-    *   9,6
-
-    *   8,1
-
-    *   7,8
-
-    *   8,1
-
-    *   8,1
-
-    *   8,1
-
-    *   8,1
-
-
-*    *   Neubauten
-
-
-*    *   1. 4.1924 bis 31.12.1934
-
-    *   11,9
-
-    *   11,3
-
-    *   9,7
-
-    *   9,4
-
-    *   9,4
-
-    *   9,4
-
-    *   9,4
-
-    *   9,4
-
-
-*    *   1. 1.1935 bis 20. 6.1948
-
-    *   12,7
-
-    *   12,1
-
-    *   10,3
-
-    *   9,9
-
-    *   9,9
-
-    *   9,9
-
-    *   9,9
-
-    *   9,9
-
-
-*    *   Nachkriegsbauten
-
-
-*    *   nach dem 20. 6.1948
-
-    *   12,5
-
-    *   11,9
-
-    *   11,5
-
-    *   11,4
-
-    *   11,4
-
-    *   11,4
-
-    *   11,4
-
-    *   11,5
-
-
-*    *   C.
-
-    *   bei Holzfachwerkbauten mit Lehmausfachung und besonders haltbaren
-        Holzbauten mit massiven Fundamenten
-
-
-*    *   Altbauten
-
-
-*    *   vor dem 1. 4.1924
-
-    *   7,7
-
-    *   7,3
-
-    *   6,3
-
-    *   6,1
-
-    *   6,7
-
-    *   6,7
-
-    *   6,7
-
-    *   6,7
-
-
-*    *   Neubauten
-
-
-*    *   1. 4.1924 bis 31.12.1934
-
-    *   9,6
-
-    *   9,1
-
-    *   8,0
-
-    *   7,7
-
-    *   8,0
-
-    *   8,0
-
-    *   8,0
-
-    *   8,0
-
-
-*    *   1. 1.1935 bis 20. 6.1948
-
-    *   11,1
-
-    *   10,6
-
-    *   9,2
-
-    *   8,9
-
-    *   9,0
-
-    *   9,0
-
-    *   9,0
-
-    *   9,0
-
-
-*    *   Nachkriegsbauten
-
-
-*    *   nach dem 20. 6.1948
-
-    *   11,5
-
-    *   10,9
-
-    *   10,6
-
-    *   10,6
-
-    *   10,6
-
-    *   10,6
-
-    *   10,6
-
-    *   10,8
-
-
-
-
-Zweifamilienhäuser
-
-### Anlage 8 Vervielfältiger
-
-(Fundstelle: BGBl. I 1991, 269)
-
-
-*    *   A.
-
-    *   bei Massivbauten mit Mauerwerk aus Ziegelsteinen, Natursteinen,
-        Kalksandsteinen, Schwemmsteinen oder ähnlichen Steinen sowie bei
-        Stahl- und Stahlbetonskelettbauten außer bei solchen Bauten, die unter
-        B fallen
-
-
-*    *
-    *   Gemeindegrößenklassen
-
-
-*    *   bis 2.000
-
-    *   über 2.000 bis 5.000
-
-    *   über 5.000 bis 10.000
-
-    *   über 10.000 bis 50.000
-
-    *   über 50.000 bis 100.000
-
-    *   über 100.000 bis 200.000
-
-    *   über 200.000 bis 500.000
-
-    *   über 500.000 Einwohner
-
-
-*    *   Altbauten
-
-
-*    *   vor 1895
-
-    *   8,6
-
-    *   8,1
-
-    *   6,9
-
-    *   6,7
-
-    *   7,0
-
-    *   6,8
-
-    *   6,8
-
-    *   6,8
-
-
-*    *   1895 bis 1899
-
-    *   8,8
-
-    *   8,4
-
-    *   7,1
-
-    *   6,9
-
-    *   7,1
-
-    *   7,0
-
-    *   7,0
-
-    *   7,0
-
-
-*    *   1900 bis 1904
-
-    *   9,3
-
-    *   8,8
-
-    *   7,4
-
-    *   7,1
-
-    *   7,4
-
-    *   7,2
-
-    *   7,2
-
-    *   7,2
-
-
-*    *   1905 bis 1915
-
-    *   9,8
-
-    *   9,3
-
-    *   7,8
-
-    *   7,5
-
-    *   7,7
-
-    *   7,5
-
-    *   7,5
-
-    *   7,5
-
-
-*    *   1916 bis 31.3.1924
-
-    *   10,3
-
-    *   9,7
-
-    *   8,2
-
-    *   7,8
-
-    *   8,0
-
-    *   7,8
-
-    *   7,8
-
-    *   7,8
-
-
-*    *   Neubauten
-
-
-*    *   1. 4.1924 bis 31.12.1934
-
-    *   11,6
-
-    *   11,0
-
-    *   9,5
-
-    *   9,1
-
-    *   9,0
-
-    *   9,0
-
-    *   9,0
-
-    *   9,0
-
-
-*    *   1. 1.1935 bis 20. 6.1948
-
-    *   11,9
-
-    *   11,3
-
-    *   9,7
-
-    *   9,3
-
-    *   9,2
-
-    *   9,2
-
-    *   9,2
-
-    *   9,2
-
-
-*    *   Nachkriegsbauten
-
-
-*    *   nach dem 20. 6.1948
-
-    *   11,4
-
-    *   11,0
-
-    *   10,6
-
-    *   10,5
-
-    *   10,5
-
-    *   10,5
-
-    *   10,5
-
-    *   10,5
-
-
-*    *   B.
-
-    *   bei Holzfachwerkbauten mit Ziegelsteinausmauerung, Gebäuden aus
-        großformatigen Bimsbetonplatten oder ähnlichen Platten sowie bei
-        anderen eingeschossigen massiven Gebäuden in leichter Bauausführung
-
-
-*    *   Altbauten
-
-
-*    *   vor 1908
-
-    *   7,9
-
-    *   7,5
-
-    *   6,4
-
-    *   6,2
-
-    *   6,6
-
-    *   6,5
-
-    *   6,5
-
-    *   6,5
-
-
-*    *   1908 bis 1915
-
-    *   8,3
-
-    *   7,8
-
-    *   6,7
-
-    *   6,4
-
-    *   6,8
-
-    *   6,7
-
-    *   6,7
-
-    *   6,7
-
-
-*    *   1916 bis 31.3.1924
-
-    *   9,1
-
-    *   8,6
-
-    *   7,3
-
-    *   7,0
-
-    *   7,3
-
-    *   7,1
-
-    *   7,1
-
-    *   7,1
-
-
-*    *   Neubauten
-
-
-*    *   1. 4.1924 bis 31.12.1934
-
-    *   10,6
-
-    *   10,1
-
-    *   8,7
-
-    *   8,4
-
-    *   8,5
-
-    *   8,5
-
-    *   8,5
-
-    *   8,5
-
-
-*    *   1. 1.1935 bis 20. 6.1948
-
-    *   11,2
-
-    *   10,7
-
-    *   9,2
-
-    *   8,9
-
-    *   8,8
-
-    *   8,8
-
-    *   8,8
-
-    *   8,8
-
-
-*    *   Nachkriegsbauten
-
-
-*    *   nach dem 20. 6.1948
-
-    *   11,0
-
-    *   10,6
-
-    *   10,2
-
-    *   10,1
-
-    *   10,1
-
-    *   10,1
-
-    *   10,1
-
-    *   10,2
-
-
-*    *   C.
-
-    *   bei Holzfachwerkbauten mit Lehmausfachung und besonders haltbaren
-        Holzbauten mit massiven Fundamenten
-
-
-*    *   Altbauten
-
-
-*    *   vor dem 1. 4.1924
-
-    *   7,0
-
-    *   6,7
-
-    *   5,8
-
-    *   5,6
-
-    *   6,1
-
-    *   6,0
-
-    *   6,0
-
-    *   6,0
-
-
-*    *   Neubauten
-
-
-*    *   1. 4.1924 bis 31.12.1934
-
-    *   8,7
-
-    *   8,3
-
-    *   7,3
-
-    *   7,0
-
-    *   7,3
-
-    *   7,3
-
-    *   7,3
-
-    *   7,3
-
-
-*    *   1. 1.1935 bis 20. 6.1948
-
-    *   10,0
-
-    *   9,5
-
-    *   8,3
-
-    *   8,0
-
-    *   8,1
-
-    *   8,1
-
-    *   8,1
-
-    *   8,1
-
-
-*    *   Nachkriegsbauten
-
-
-*    *   nach dem 20. 6.1948
-
-    *   10,2
-
-    *   9,8
-
-    *   9,5
-
-    *   9,5
-
-    *   9,5
-
-    *   9,5
-
-    *   9,5
-
-    *   9,7
-
-
-
+### Anlage 1 bis 8 (weggefallen)
 
 
 ### Anlage 9 (weggefallen)
@@ -21071,2579 +14784,4483 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
 ### Anlage 21 Vervielfältiger
 
-(Fundstelle: BGBl. I 2008, 3066 - 3068)
+(Fundstelle: BGBl. 2024 I Nr. 387, S. 65 - 70)
 
 
-*    *   Restnutzungsdauer; Restlaufzeit des Erbbaurechts bzw. des
-        Nutzungsrechts (in Jahren)
+*    *   Restnut-
+        zungsdauer;
+        Restlaufzeit des Erbbaurechts bzw. des Nut-
+        zungsrechts
+        (in Jahren)
 
     *   Zinssatz
 
 
-*    *   3 %
+*    *   1,0 %
+
+    *   1,5 %
+
+    *   2,0 %
+
+    *   2,5 %
+
+    *   3,0 %
 
     *   3,5 %
 
-    *   4 %
+    *   4,0 %
 
     *   4,5 %
 
-    *   5 %
-
-    *   5,5 %
-
-    *   6 %
-
-    *   6,5 %
-
-    *   7 %
-
-    *   7,5 %
-
-    *   8 %
+    *   5,0 %
 
 
 *    *   1
 
-    *   0,97
+    *   0,9901
 
-    *   0,97
+    *   0,9852
 
-    *   0,96
+    *   0,9804
 
-    *   0,96
+    *   0,9756
 
-    *   0,95
+    *   0,9709
 
-    *   0,95
+    *   0,9662
 
-    *   0,94
+    *   0,9615
 
-    *   0,94
+    *   0,9569
 
-    *   0,93
-
-    *   0,93
-
-    *   0,93
+    *   0,9524
 
 
 *    *   2
 
-    *   1,91
+    *   1,9704
 
-    *   1,90
+    *   1,9559
 
-    *   1,89
+    *   1,9416
 
-    *   1,87
+    *   1,9274
 
-    *   1,86
+    *   1,9135
 
-    *   1,85
+    *   1,8997
 
-    *   1,83
+    *   1,8861
 
-    *   1,82
+    *   1,8727
 
-    *   1,81
-
-    *   1,80
-
-    *   1,78
+    *   1,8594
 
 
 *    *   3
 
-    *   2,83
+    *   2,9410
 
-    *   2,80
+    *   2,9122
 
-    *   2,78
+    *   2,8839
 
-    *   2,75
+    *   2,8560
 
-    *   2,72
+    *   2,8286
 
-    *   2,70
+    *   2,8016
 
-    *   2,67
+    *   2,7751
 
-    *   2,65
+    *   2,7490
 
-    *   2,62
-
-    *   2,60
-
-    *   2,58
+    *   2,7232
 
 
 *    *   4
 
-    *   3,72
+    *   3,9020
 
-    *   3,67
+    *   3,8544
 
-    *   3,63
+    *   3,8077
 
-    *   3,59
+    *   3,7620
 
-    *   3,55
+    *   3,7171
 
-    *   3,51
+    *   3,6731
 
-    *   3,47
+    *   3,6299
 
-    *   3,43
+    *   3,5875
 
-    *   3,39
-
-    *   3,35
-
-    *   3,31
+    *   3,5460
 
 
 *    *   5
 
-    *   4,58
+    *   4,8534
 
-    *   4,52
+    *   4,7826
 
-    *   4,45
+    *   4,7135
 
-    *   4,39
+    *   4,6458
 
-    *   4,33
+    *   4,5797
 
-    *   4,27
+    *   4,5151
 
-    *   4,21
+    *   4,4518
 
-    *   4,16
+    *   4,3900
 
-    *   4,10
-
-    *   4,05
-
-    *   3,99
+    *   4,3295
 
 
 *    *   6
 
-    *   5,42
+    *   5,7955
 
-    *   5,33
+    *   5,6972
 
-    *   5,24
+    *   5,6014
 
-    *   5,16
+    *   5,5081
 
-    *   5,08
+    *   5,4172
 
-    *   5,00
+    *   5,3286
 
-    *   4,92
+    *   5,2421
 
-    *   4,84
+    *   5,1579
 
-    *   4,77
-
-    *   4,69
-
-    *   4,62
+    *   5,0757
 
 
 *    *   7
 
-    *   6,23
+    *   6,7282
 
-    *   6,11
+    *   6,5982
 
-    *   6,00
+    *   6,4720
 
-    *   5,89
+    *   6,3494
 
-    *   5,79
+    *   6,2303
 
-    *   5,68
+    *   6,1145
 
-    *   5,58
+    *   6,0021
 
-    *   5,48
+    *   5,8927
 
-    *   5,39
-
-    *   5,30
-
-    *   5,21
+    *   5,7864
 
 
 *    *   8
 
-    *   7,02
+    *   7,6517
 
-    *   6,87
+    *   7,4859
 
-    *   6,73
+    *   7,3255
 
-    *   6,60
+    *   7,1701
 
-    *   6,46
+    *   7,0197
 
-    *   6,33
+    *   6,8740
 
-    *   6,21
+    *   6,7327
 
-    *   6,09
+    *   6,5959
 
-    *   5,97
-
-    *   5,86
-
-    *   5,75
+    *   6,4632
 
 
 *    *   9
 
-    *   7,79
+    *   8,5660
 
-    *   7,61
+    *   8,3605
 
-    *   7,44
+    *   8,1622
 
-    *   7,27
+    *   7,9709
 
-    *   7,11
+    *   7,7861
 
-    *   6,95
+    *   7,6077
 
-    *   6,80
+    *   7,4353
 
-    *   6,66
+    *   7,2688
 
-    *   6,52
-
-    *   6,38
-
-    *   6,25
+    *   7,1078
 
 
 *    *   10
 
-    *   8,53
+    *   9,4713
 
-    *   8,32
+    *   9,2222
 
-    *   8,11
+    *   8,9826
 
-    *   7,91
+    *   8,7521
 
-    *   7,72
+    *   8,5302
 
-    *   7,54
+    *   8,3166
 
-    *   7,36
+    *   8,1109
 
-    *   7,19
+    *   7,9127
 
-    *   7,02
-
-    *   6,86
-
-    *   6,71
+    *   7,7217
 
 
 *    *   11
 
-    *   9,25
+    *   10,3676
 
-    *   9,00
+    *   10,0711
 
-    *   8,76
+    *   9,7868
 
-    *   8,53
+    *   9,5142
 
-    *   8,31
+    *   9,2526
 
-    *   8,09
+    *   9,0016
 
-    *   7,89
+    *   8,7605
 
-    *   7,69
+    *   8,5289
 
-    *   7,50
-
-    *   7,32
-
-    *   7,14
+    *   8,3064
 
 
 *    *   12
 
-    *   9,95
+    *   11,2551
 
-    *   9,66
+    *   10,9075
 
-    *   9,39
+    *   10,5753
 
-    *   9,12
+    *   10,2578
 
-    *   8,86
+    *   9,9540
 
-    *   8,62
+    *   9,6633
 
-    *   8,38
+    *   9,3851
 
-    *   8,16
+    *   9,1186
 
-    *   7,94
-
-    *   7,74
-
-    *   7,54
+    *   8,8633
 
 
 *    *   13
 
-    *   10,63
+    *   12,1337
 
-    *   10,30
+    *   11,7315
 
-    *   9,99
+    *   11,3484
 
-    *   9,68
+    *   10,9832
 
-    *   9,39
+    *   10,6350
 
-    *   9,12
+    *   10,3027
 
-    *   8,85
+    *   9,9856
 
-    *   8,60
+    *   9,6829
 
-    *   8,36
-
-    *   8,13
-
-    *   7,90
+    *   9,3936
 
 
 *    *   14
 
-    *   11,30
+    *   13,0037
 
-    *   10,92
+    *   12,5434
 
-    *   10,56
+    *   12,1062
 
-    *   10,22
+    *   11,6909
 
-    *   9,90
+    *   11,2961
 
-    *   9,59
+    *   10,9205
 
-    *   9,29
+    *   10,5631
 
-    *   9,01
+    *   10,2228
 
-    *   8,75
-
-    *   8,49
-
-    *   8,24
+    *   9,8986
 
 
 *    *   15
 
-    *   11,94
+    *   13,8651
 
-    *   11,52
+    *   13,3432
 
-    *   11,12
+    *   12,8493
 
-    *   10,74
+    *   12,3814
 
-    *   10,38
+    *   11,9379
 
-    *   10,04
+    *   11,5174
 
-    *   9,71
+    *   11,1184
 
-    *   9,40
+    *   10,7395
 
-    *   9,11
-
-    *   8,83
-
-    *   8,56
+    *   10,3797
 
 
 *    *   16
 
-    *   12,56
+    *   14,7179
 
-    *   12,09
+    *   14,1313
 
-    *   11,65
+    *   13,5777
 
-    *   11,23
+    *   13,0550
 
-    *   10,84
+    *   12,5611
 
-    *   10,46
+    *   12,0941
 
-    *   10,11
+    *   11,6523
 
-    *   9,77
+    *   11,2340
 
-    *   9,45
-
-    *   9,14
-
-    *   8,85
+    *   10,8378
 
 
 *    *   17
 
-    *   13,17
+    *   15,5623
 
-    *   12,65
+    *   14,9076
 
-    *   12,17
+    *   14,2919
 
-    *   11,71
+    *   13,7122
 
-    *   11,27
+    *   13,1661
 
-    *   10,86
+    *   12,6513
 
-    *   10,48
+    *   12,1657
 
-    *   10,11
+    *   11,7072
 
-    *   9,76
-
-    *   9,43
-
-    *   9,12
+    *   11,2741
 
 
 *    *   18
 
-    *   13,75
+    *   16,3983
 
-    *   13,19
+    *   15,6726
 
-    *   12,66
+    *   14,9920
 
-    *   12,16
+    *   14,3534
 
-    *   11,69
+    *   13,7535
 
-    *   11,25
+    *   13,1897
 
-    *   10,83
+    *   12,6593
 
-    *   10,43
+    *   12,1600
 
-    *   10,06
-
-    *   9,71
-
-    *   9,37
+    *   11,6896
 
 
 *    *   19
 
-    *   14,32
+    *   17,2260
 
-    *   13,71
+    *   16,4262
 
-    *   13,13
+    *   15,6785
 
-    *   12,59
+    *   14,9789
 
-    *   12,09
+    *   14,3238
 
-    *   11,61
+    *   13,7098
 
-    *   11,16
+    *   13,1339
 
-    *   10,73
+    *   12,5933
 
-    *   10,34
-
-    *   9,96
-
-    *   9,60
+    *   12,0853
 
 
 *    *   20
 
-    *   14,88
+    *   18,0456
 
-    *   14,21
+    *   17,1686
 
-    *   13,59
+    *   16,3514
 
-    *   13,01
+    *   15,5892
 
-    *   12,46
+    *   14,8775
 
-    *   11,95
+    *   14,2124
 
-    *   11,47
+    *   13,5903
 
-    *   11,02
+    *   13,0079
 
-    *   10,59
-
-    *   10,19
-
-    *   9,82
+    *   12,4622
 
 
 *    *   21
 
-    *   15,42
+    *   18,8570
 
-    *   14,70
+    *   17,9001
 
-    *   14,03
+    *   17,0112
 
-    *   13,40
+    *   16,1845
 
-    *   12,82
+    *   15,4150
 
-    *   12,28
+    *   14,6980
 
-    *   11,76
+    *   14,0292
 
-    *   11,28
+    *   13,4047
 
-    *   10,84
-
-    *   10,41
-
-    *   10,02
+    *   12,8212
 
 
 *    *   22
 
-    *   15,94
+    *   19,6604
 
-    *   15,17
+    *   18,6208
 
-    *   14,45
+    *   17,6580
 
-    *   13,78
+    *   16,7654
 
-    *   13,16
+    *   15,9369
 
-    *   12,58
+    *   15,1671
 
-    *   12,04
+    *   14,4511
 
-    *   11,54
+    *   13,7844
 
-    *   11,06
-
-    *   10,62
-
-    *   10,20
+    *   13,1630
 
 
 *    *   23
 
-    *   16,44
+    *   20,4558
 
-    *   15,62
+    *   19,3309
 
-    *   14,86
+    *   18,2922
 
-    *   14,15
+    *   17,3321
 
-    *   13,49
+    *   16,4436
 
-    *   12,88
+    *   15,6204
 
-    *   12,30
+    *   14,8568
 
-    *   11,77
+    *   14,1478
 
-    *   11,27
-
-    *   10,81
-
-    *   10,37
+    *   13,4886
 
 
 *    *   24
 
-    *   16,94
+    *   21,2434
 
-    *   16,06
+    *   20,0304
 
-    *   15,25
+    *   18,9139
 
-    *   14,50
+    *   17,8850
 
-    *   13,80
+    *   16,9355
 
-    *   13,15
+    *   16,0584
 
-    *   12,55
+    *   15,2470
 
-    *   11,99
+    *   14,4955
 
-    *   11,47
-
-    *   10,98
-
-    *   10,53
+    *   13,7986
 
 
 *    *   25
 
-    *   17,41
+    *   22,0232
 
-    *   16,48
+    *   20,7196
 
-    *   15,62
+    *   19,5235
 
-    *   14,83
+    *   18,4244
 
-    *   14,09
+    *   17,4131
 
-    *   13,41
+    *   16,4815
 
-    *   12,78
+    *   15,6221
 
-    *   12,20
+    *   14,8282
 
-    *   11,65
-
-    *   11,15
-
-    *   10,67
+    *   14,0939
 
 
 *    *   26
 
-    *   17,88
+    *   22,7952
 
-    *   16,89
+    *   21,3986
 
-    *   15,98
+    *   20,1210
 
-    *   15,15
+    *   18,9506
 
-    *   14,38
+    *   17,8768
 
-    *   13,66
+    *   16,8904
 
-    *   13,00
+    *   15,9828
 
-    *   12,39
+    *   15,1466
 
-    *   11,83
-
-    *   11,30
-
-    *   10,81
+    *   14,3752
 
 
 *    *   27
 
-    *   18,33
+    *   23,5596
 
-    *   17,29
+    *   22,0676
 
-    *   16,33
+    *   20,7069
 
-    *   15,45
+    *   19,4640
 
-    *   14,64
+    *   18,3270
 
-    *   13,90
+    *   17,2854
 
-    *   13,21
+    *   16,3296
 
-    *   12,57
+    *   15,4513
 
-    *   11,99
-
-    *   11,44
-
-    *   10,94
+    *   14,6430
 
 
 *    *   28
 
-    *   18,76
+    *   24,3164
 
-    *   17,67
+    *   22,7267
 
-    *   16,66
+    *   21,2813
 
-    *   15,74
+    *   19,9649
 
-    *   14,90
+    *   18,7641
 
-    *   14,12
+    *   17,6670
 
-    *   13,41
+    *   16,6631
 
-    *   12,75
+    *   15,7429
 
-    *   12,14
-
-    *   11,57
-
-    *   11,05
+    *   14,8981
 
 
 *    *   29
 
-    *   19,19
+    *   25,0658
 
-    *   18,04
+    *   23,3761
 
-    *   16,98
+    *   21,8444
 
-    *   16,02
+    *   20,4535
 
-    *   15,14
+    *   19,1885
 
-    *   14,33
+    *   18,0358
 
-    *   13,59
+    *   16,9837
 
-    *   12,91
+    *   16,0219
 
-    *   12,28
-
-    *   11,70
-
-    *   11,16
+    *   15,1411
 
 
 *    *   30
 
-    *   19,60
+    *   25,8077
 
-    *   18,39
+    *   24,0158
 
-    *   17,29
+    *   22,3965
 
-    *   16,29
+    *   20,9303
 
-    *   15,37
+    *   19,6004
 
-    *   14,53
+    *   18,3920
 
-    *   13,76
+    *   17,2920
 
-    *   13,06
+    *   16,2889
 
-    *   12,41
-
-    *   11,81
-
-    *   11,26
+    *   15,3725
 
 
 *    *   31
 
-    *   20,00
+    *   26,5423
 
-    *   18,74
+    *   24,6461
 
-    *   17,59
+    *   22,9377
 
-    *   16,54
+    *   21,3954
 
-    *   15,59
+    *   20,0004
 
-    *   14,72
+    *   18,7363
 
-    *   13,93
+    *   17,5885
 
-    *   13,20
+    *   16,5444
 
-    *   12,53
-
-    *   11,92
-
-    *   11,35
+    *   15,5928
 
 
 *    *   32
 
-    *   20,39
+    *   27,2696
 
-    *   19,07
+    *   25,2671
 
-    *   17,87
+    *   23,4683
 
-    *   16,79
+    *   21,8492
 
-    *   15,80
+    *   20,3888
 
-    *   14,90
+    *   19,0689
 
-    *   14,08
+    *   17,8736
 
-    *   13,33
+    *   16,7889
 
-    *   12,65
-
-    *   12,02
-
-    *   11,43
+    *   15,8027
 
 
 *    *   33
 
-    *   20,77
+    *   27,9897
 
-    *   19,39
+    *   25,8790
 
-    *   18,15
+    *   23,9886
 
-    *   17,02
+    *   22,2919
 
-    *   16,00
+    *   20,7658
 
-    *   15,08
+    *   19,3902
 
-    *   14,23
+    *   18,1476
 
-    *   13,46
+    *   17,0229
 
-    *   12,75
-
-    *   12,11
-
-    *   11,51
+    *   16,0025
 
 
 *    *   34
 
-    *   21,13
+    *   28,7027
 
-    *   19,70
+    *   26,4817
 
-    *   18,41
+    *   24,4986
 
-    *   17,25
+    *   22,7238
 
-    *   16,19
+    *   21,1318
 
-    *   15,24
+    *   19,7007
 
-    *   14,37
+    *   18,4112
 
-    *   13,58
+    *   17,2468
 
-    *   12,85
-
-    *   12,19
-
-    *   11,59
+    *   16,1929
 
 
 *    *   35
 
-    *   21,49
+    *   29,4086
 
-    *   20,00
+    *   27,0756
 
-    *   18,66
+    *   24,9986
 
-    *   17,46
+    *   23,1452
 
-    *   16,37
+    *   21,4872
 
-    *   15,39
+    *   20,0007
 
-    *   14,50
+    *   18,6646
 
-    *   13,69
+    *   17,4610
 
-    *   12,95
-
-    *   12,27
-
-    *   11,65
+    *   16,3742
 
 
 *    *   36
 
-    *   21,83
+    *   30,1075
 
-    *   20,29
+    *   27,6607
 
-    *   18,91
+    *   25,4888
 
-    *   17,67
+    *   23,5563
 
-    *   16,55
+    *   21,8323
 
-    *   15,54
+    *   20,2905
 
-    *   14,62
+    *   18,9083
 
-    *   13,79
+    *   17,6660
 
-    *   13,04
-
-    *   12,35
-
-    *   11,72
+    *   16,5469
 
 
 *    *   37
 
-    *   22,17
+    *   30,7995
 
-    *   20,57
+    *   28,2371
 
-    *   19,14
+    *   25,9695
 
-    *   17,86
+    *   23,9573
 
-    *   16,71
+    *   22,1672
 
-    *   15,67
+    *   20,5705
 
-    *   14,74
+    *   19,1426
 
-    *   13,89
+    *   17,8622
 
-    *   13,12
-
-    *   12,42
-
-    *   11,78
+    *   16,7113
 
 
 *    *   38
 
-    *   22,49
+    *   31,4847
 
-    *   20,84
+    *   28,8051
 
-    *   19,37
+    *   26,4406
 
-    *   18,05
+    *   24,3486
 
-    *   16,87
+    *   22,4925
 
-    *   15,80
+    *   20,8411
 
-    *   14,85
+    *   19,3679
 
-    *   13,98
+    *   18,0500
 
-    *   13,19
-
-    *   12,48
-
-    *   11,83
+    *   16,8679
 
 
 *    *   39
 
-    *   22,81
+    *   32,1630
 
-    *   21,10
+    *   29,3646
 
-    *   19,58
+    *   26,9026
 
-    *   18,23
+    *   24,7303
 
-    *   17,02
+    *   22,8082
 
-    *   15,93
+    *   21,1025
 
-    *   14,95
+    *   19,5845
 
-    *   14,06
+    *   18,2297
 
-    *   13,26
-
-    *   12,54
-
-    *   11,88
+    *   17,0170
 
 
 *    *   40
 
-    *   23,11
+    *   32,8347
 
-    *   21,36
+    *   29,9158
 
-    *   19,79
+    *   27,3555
 
-    *   18,40
+    *   25,1028
 
-    *   17,16
+    *   23,1148
 
-    *   16,05
+    *   21,3551
 
-    *   15,05
+    *   19,7928
 
-    *   14,15
+    *   18,4016
 
-    *   13,33
-
-    *   12,59
-
-    *   11,92
+    *   17,1591
 
 
 *    *   41
 
-    *   23,41
+    *   33,4997
 
-    *   21,60
+    *   30,4590
 
-    *   19,99
+    *   27,7995
 
-    *   18,57
+    *   25,4661
 
-    *   17,29
+    *   23,4124
 
-    *   16,16
+    *   21,5991
 
-    *   15,14
+    *   19,9931
 
-    *   14,22
+    *   18,5661
 
-    *   13,39
-
-    *   12,65
-
-    *   11,97
+    *   17,2944
 
 
 *    *   42
 
-    *   23,70
+    *   34,1581
 
-    *   21,83
+    *   30,9941
 
-    *   20,19
+    *   28,2348
 
-    *   18,72
+    *   25,8206
 
-    *   17,42
+    *   23,7014
 
-    *   16,26
+    *   21,8349
 
-    *   15,22
+    *   20,1856
 
-    *   14,29
+    *   18,7235
 
-    *   13,45
-
-    *   12,69
-
-    *   12,01
+    *   17,4232
 
 
 *    *   43
 
-    *   23,98
+    *   34,8100
 
-    *   22,06
+    *   31,5212
 
-    *   20,37
+    *   28,6616
 
-    *   18,87
+    *   26,1664
 
-    *   17,55
+    *   23,9819
 
-    *   16,36
+    *   22,0627
 
-    *   15,31
+    *   20,3708
 
-    *   14,36
+    *   18,8742
 
-    *   13,51
-
-    *   12,74
-
-    *   12,04
+    *   17,5459
 
 
 *    *   44
 
-    *   24,25
+    *   35,4555
 
-    *   22,28
+    *   32,0406
 
-    *   20,55
+    *   29,0800
 
-    *   19,02
+    *   26,5038
 
-    *   17,66
+    *   24,2543
 
-    *   16,46
+    *   22,2828
 
-    *   15,38
+    *   20,5488
 
-    *   14,42
+    *   19,0184
 
-    *   13,56
-
-    *   12,78
-
-    *   12,08
+    *   17,6628
 
 
 *    *   45
 
-    *   24,52
+    *   36,0945
 
-    *   22,50
+    *   32,5523
 
-    *   20,72
+    *   29,4902
 
-    *   19,16
+    *   26,8330
 
-    *   17,77
+    *   24,5187
 
-    *   16,55
+    *   22,4955
 
-    *   15,46
+    *   20,7200
 
-    *   14,48
+    *   19,1563
 
-    *   13,61
-
-    *   12,82
-
-    *   12,11
+    *   17,7741
 
 
 *    *   46
 
-    *   24,78
+    *   36,7272
 
-    *   22,70
+    *   33,0565
 
-    *   20,88
+    *   29,8923
 
-    *   19,29
+    *   27,1542
 
-    *   17,88
+    *   24,7754
 
-    *   16,63
+    *   22,7009
 
-    *   15,52
+    *   20,8847
 
-    *   14,54
+    *   19,2884
 
-    *   13,65
-
-    *   12,85
-
-    *   12,14
+    *   17,8801
 
 
 *    *   47
 
-    *   25,02
+    *   37,3537
 
-    *   22,90
+    *   33,5532
 
-    *   21,04
+    *   30,2866
 
-    *   19,41
+    *   27,4675
 
-    *   17,98
+    *   25,0247
 
-    *   16,71
+    *   22,8994
 
-    *   15,59
+    *   21,0429
 
-    *   14,59
+    *   19,4147
 
-    *   13,69
-
-    *   12,89
-
-    *   12,16
+    *   17,9810
 
 
 *    *   48
 
-    *   25,27
+    *   37,9740
 
-    *   23,09
+    *   34,0426
 
-    *   21,20
+    *   30,6731
 
-    *   19,54
+    *   27,7732
 
-    *   18,08
+    *   25,2667
 
-    *   16,79
+    *   23,0912
 
-    *   15,65
+    *   21,1951
 
-    *   14,64
+    *   19,5356
 
-    *   13,73
-
-    *   12,92
-
-    *   12,19
+    *   18,0772
 
 
 *    *   49
 
-    *   25,50
+    *   38,5881
 
-    *   23,28
+    *   34,5247
 
-    *   21,34
+    *   31,0521
 
-    *   19,65
+    *   28,0714
 
-    *   18,17
+    *   25,5017
 
-    *   16,86
+    *   23,2766
 
-    *   15,71
+    *   21,3415
 
-    *   14,68
+    *   19,6513
 
-    *   13,77
-
-    *   12,95
-
-    *   12,21
+    *   18,1687
 
 
 *    *   50
 
-    *   25,73
+    *   39,1961
 
-    *   23,46
+    *   34,9997
 
-    *   21,48
+    *   31,4236
 
-    *   19,76
+    *   28,3623
 
-    *   18,26
+    *   25,7298
 
-    *   16,93
+    *   23,4556
 
-    *   15,76
+    *   21,4822
 
-    *   14,72
+    *   19,7620
 
-    *   13,80
-
-    *   12,97
-
-    *   12,23
+    *   18,2559
 
 
 *    *   51
 
-    *   25,95
+    *   39,7981
 
-    *   23,63
+    *   35,4677
 
-    *   21,62
+    *   31,7878
 
-    *   19,87
+    *   28,6462
 
-    *   18,34
+    *   25,9512
 
-    *   17,00
+    *   23,6286
 
-    *   15,81
+    *   21,6175
 
-    *   14,76
+    *   19,8680
 
-    *   13,83
-
-    *   13,00
-
-    *   12,25
+    *   18,3390
 
 
 *    *   52
 
-    *   26,17
+    *   40,3942
 
-    *   23,80
+    *   35,9287
 
-    *   21,75
+    *   32,1449
 
-    *   19,97
+    *   28,9231
 
-    *   18,42
+    *   26,1662
 
-    *   17,06
+    *   23,7958
 
-    *   15,86
+    *   21,7476
 
-    *   14,80
+    *   19,9693
 
-    *   13,86
-
-    *   13,02
-
-    *   12,27
+    *   18,4181
 
 
 *    *   53
 
-    *   26,37
+    *   40,9844
 
-    *   23,96
+    *   36,3830
 
-    *   21,87
+    *   32,4950
 
-    *   20,07
+    *   29,1932
 
-    *   18,49
+    *   26,3750
 
-    *   17,12
+    *   23,9573
 
-    *   15,91
+    *   21,8727
 
-    *   14,84
+    *   20,0663
 
-    *   13,89
-
-    *   13,04
-
-    *   12,29
+    *   18,4934
 
 
 *    *   54
 
-    *   26,58
+    *   41,5687
 
-    *   24,11
+    *   36,8305
 
-    *   21,99
+    *   32,8383
 
-    *   20,16
+    *   29,4568
 
-    *   18,57
+    *   26,5777
 
-    *   17,17
+    *   24,1133
 
-    *   15,95
+    *   21,9930
 
-    *   14,87
+    *   20,1592
 
-    *   13,92
-
-    *   13,06
-
-    *   12,30
+    *   18,5651
 
 
 *    *   55
 
-    *   26,77
+    *   42,1472
 
-    *   24,26
+    *   37,2715
 
-    *   22,11
+    *   33,1748
 
-    *   20,25
+    *   29,7140
 
-    *   18,63
+    *   26,7744
 
-    *   17,23
+    *   24,2641
 
-    *   15,99
+    *   22,1086
 
-    *   14,90
+    *   20,2480
 
-    *   13,94
-
-    *   13,08
-
-    *   12,32
+    *   18,6335
 
 
 *    *   56
 
-    *   26,97
+    *   42,7200
 
-    *   24,41
+    *   37,7059
 
-    *   22,22
+    *   33,5047
 
-    *   20,33
+    *   29,9649
 
-    *   18,70
+    *   26,9655
 
-    *   17,28
+    *   24,4097
 
-    *   16,03
+    *   22,2198
 
-    *   14,93
+    *   20,3330
 
-    *   13,96
-
-    *   13,10
-
-    *   12,33
+    *   18,6985
 
 
 *    *   57
 
-    *   27,15
+    *   43,2871
 
-    *   24,55
+    *   38,1339
 
-    *   22,33
+    *   33,8281
 
-    *   20,41
+    *   30,2096
 
-    *   18,76
+    *   27,1509
 
-    *   17,32
+    *   24,5504
 
-    *   16,06
+    *   22,3267
 
-    *   14,96
+    *   20,4144
 
-    *   13,98
-
-    *   13,12
-
-    *   12,34
+    *   18,7605
 
 
 *    *   58
 
-    *   27,33
+    *   43,8486
 
-    *   24,69
+    *   38,5555
 
-    *   22,43
+    *   34,1452
 
-    *   20,49
+    *   30,4484
 
-    *   18,82
+    *   27,3310
 
-    *   17,37
+    *   24,6864
 
-    *   16,10
+    *   22,4296
 
-    *   14,99
+    *   20,4922
 
-    *   14,00
-
-    *   13,13
-
-    *   12,36
+    *   18,8195
 
 
 *    *   59
 
-    *   27,51
+    *   44,4046
 
-    *   24,82
+    *   38,9710
 
-    *   22,53
+    *   34,4561
 
-    *   20,57
+    *   30,6814
 
-    *   18,88
+    *   27,5058
 
-    *   17,41
+    *   24,8178
 
-    *   16,13
+    *   22,5284
 
-    *   15,01
+    *   20,5667
 
-    *   14,02
-
-    *   13,15
-
-    *   12,37
+    *   18,8758
 
 
 *    *   60
 
-    *   27,68
+    *   44,9550
 
-    *   24,94
+    *   39,3803
 
-    *   22,62
+    *   34,7609
 
-    *   20,64
+    *   30,9087
 
-    *   18,93
+    *   27,6756
 
-    *   17,45
+    *   24,9447
 
-    *   16,16
+    *   22,6235
 
-    *   15,03
+    *   20,6380
 
-    *   14,04
-
-    *   13,16
-
-    *   12,38
+    *   18,9293
 
 
 *    *   61
 
-    *   27,84
+    *   45,5000
 
-    *   25,07
+    *   39,7835
 
-    *   22,71
+    *   35,0597
 
-    *   20,71
+    *   31,1304
 
-    *   18,98
+    *   27,8404
 
-    *   17,49
+    *   25,0674
 
-    *   16,19
+    *   22,7149
 
-    *   15,05
+    *   20,7062
 
-    *   14,06
-
-    *   13,17
-
-    *   12,39
+    *   18,9803
 
 
 *    *   62
 
-    *   28,00
+    *   46,0396
 
-    *   25,19
+    *   40,1808
 
-    *   22,80
+    *   35,3526
 
-    *   20,77
+    *   31,3467
 
-    *   19,03
+    *   28,0003
 
-    *   17,52
+    *   25,1859
 
-    *   16,22
+    *   22,8028
 
-    *   15,07
+    *   20,7715
 
-    *   14,07
-
-    *   13,18
-
-    *   12,39
+    *   19,0288
 
 
 *    *   63
 
-    *   28,16
+    *   46,5739
 
-    *   25,30
+    *   40,5722
 
-    *   22,89
+    *   35,6398
 
-    *   20,83
+    *   31,5578
 
-    *   19,08
+    *   28,1557
 
-    *   17,56
+    *   25,3004
 
-    *   16,24
+    *   22,8873
 
-    *   15,09
+    *   20,8340
 
-    *   14,08
-
-    *   13,19
-
-    *   12,40
+    *   19,0751
 
 
 *    *   64
 
-    *   28,31
+    *   47,1029
 
-    *   25,41
+    *   40,9579
 
-    *   22,97
+    *   35,9214
 
-    *   20,89
+    *   31,7637
 
-    *   19,12
+    *   28,3065
 
-    *   17,59
+    *   25,4110
 
-    *   16,27
+    *   22,9685
 
-    *   15,11
+    *   20,8938
 
-    *   14,10
-
-    *   13,20
-
-    *   12,41
+    *   19,1191
 
 
 *    *   65
 
-    *   28,45
+    *   47,6266
 
-    *   25,52
+    *   41,3378
 
-    *   23,05
+    *   36,1975
 
-    *   20,95
+    *   31,9646
 
-    *   19,16
+    *   28,4529
 
-    *   17,62
+    *   25,5178
 
-    *   16,29
+    *   23,0467
 
-    *   15,13
+    *   20,9510
 
-    *   14,11
-
-    *   13,21
-
-    *   12,42
+    *   19,1611
 
 
 *    *   66
 
-    *   28,60
+    *   48,1452
 
-    *   25,62
+    *   41,7121
 
-    *   23,12
+    *   36,4681
 
-    *   21,01
+    *   32,1606
 
-    *   19,20
+    *   28,5950
 
-    *   17,65
+    *   25,6211
 
-    *   16,31
+    *   23,1218
 
-    *   15,14
+    *   21,0057
 
-    *   14,12
-
-    *   13,22
-
-    *   12,42
+    *   19,2010
 
 
 *    *   67
 
-    *   28,73
+    *   48,6586
 
-    *   25,72
+    *   42,0809
 
-    *   23,19
+    *   36,7334
 
-    *   21,06
+    *   32,3518
 
-    *   19,24
+    *   28,7330
 
-    *   17,68
+    *   25,7209
 
-    *   16,33
+    *   23,1940
 
-    *   15,16
+    *   21,0581
 
-    *   14,13
-
-    *   13,23
-
-    *   12,43
+    *   19,2391
 
 
 *    *   68
 
-    *   28,87
+    *   49,1669
 
-    *   25,82
+    *   42,4442
 
-    *   23,26
+    *   36,9936
 
-    *   21,11
+    *   32,5383
 
-    *   19,28
+    *   28,8670
 
-    *   17,70
+    *   25,8173
 
-    *   16,35
+    *   23,2635
 
-    *   15,17
+    *   21,1082
 
-    *   14,14
-
-    *   13,24
-
-    *   12,43
+    *   19,2753
 
 
 *    *   69
 
-    *   29,00
+    *   49,6702
 
-    *   25,91
+    *   42,8022
 
-    *   23,33
+    *   37,2486
 
-    *   21,16
+    *   32,7203
 
-    *   19,31
+    *   28,9971
 
-    *   17,73
+    *   25,9104
 
-    *   16,37
+    *   23,3303
 
-    *   15,19
+    *   21,1562
 
-    *   14,15
-
-    *   13,24
-
-    *   12,44
+    *   19,3098
 
 
 *    *   70
 
-    *   29,12
+    *   50,1685
 
-    *   26,00
+    *   43,1549
 
-    *   23,39
+    *   37,4986
 
-    *   21,20
+    *   32,8979
 
-    *   19,34
+    *   29,1234
 
-    *   17,75
+    *   26,0004
 
-    *   16,38
+    *   23,3945
 
-    *   15,20
+    *   21,2021
 
-    *   14,16
-
-    *   13,25
-
-    *   12,44
+    *   19,3427
 
 
 *    *   71
 
-    *   29,25
+    *   50,6619
 
-    *   26,09
+    *   43,5023
 
-    *   23,46
+    *   37,7437
 
-    *   21,25
+    *   33,0711
 
-    *   19,37
+    *   29,2460
 
-    *   17,78
+    *   26,0873
 
-    *   16,40
+    *   23,4563
 
-    *   15,21
+    *   21,2460
 
-    *   14,17
-
-    *   13,25
-
-    *   12,45
+    *   19,3740
 
 
 *    *   72
 
-    *   29,37
+    *   51,1504
 
-    *   26,17
+    *   43,8447
 
-    *   23,52
+    *   37,9841
 
-    *   21,29
+    *   33,2401
 
-    *   19,40
+    *   29,3651
 
-    *   17,80
+    *   26,1713
 
-    *   16,42
+    *   23,5156
 
-    *   15,22
+    *   21,2881
 
-    *   14,18
-
-    *   13,26
-
-    *   12,45
+    *   19,4038
 
 
 *    *   73
 
-    *   29,48
+    *   51,6341
 
-    *   26,25
+    *   44,1819
 
-    *   23,57
+    *   38,2197
 
-    *   21,33
+    *   33,4050
 
-    *   19,43
+    *   29,4807
 
-    *   17,82
+    *   26,2525
 
-    *   16,43
+    *   23,5727
 
-    *   15,23
+    *   21,3283
 
-    *   14,18
-
-    *   13,27
-
-    *   12,45
+    *   19,4322
 
 
 *    *   74
 
-    *   29,59
+    *   52,1129
 
-    *   26,33
+    *   44,5142
 
-    *   23,63
+    *   38,4507
 
-    *   21,37
+    *   33,5658
 
-    *   19,46
+    *   29,5929
 
-    *   17,84
+    *   26,3309
 
-    *   16,44
+    *   23,6276
 
-    *   15,24
+    *   21,3668
 
-    *   14,19
-
-    *   13,27
-
-    *   12,46
+    *   19,4592
 
 
 *    *   75
 
-    *   29,70
+    *   52,5871
 
-    *   26,41
+    *   44,8416
 
-    *   23,68
+    *   38,6771
 
-    *   21,40
+    *   33,7227
 
-    *   19,48
+    *   29,7018
 
-    *   17,85
+    *   26,4067
 
-    *   16,46
+    *   23,6804
 
-    *   15,25
+    *   21,4036
 
-    *   14,20
-
-    *   13,27
-
-    *   12,46
+    *   19,4850
 
 
 *    *   76
 
-    *   29,81
+    *   53,0565
 
-    *   26,48
+    *   45,1641
 
-    *   23,73
+    *   38,8991
 
-    *   21,44
+    *   33,8758
 
-    *   19,51
+    *   29,8076
 
-    *   17,87
+    *   26,4799
 
-    *   16,47
+    *   23,7312
 
-    *   15,26
+    *   21,4389
 
-    *   14,20
-
-    *   13,28
-
-    *   12,46
+    *   19,5095
 
 
 *    *   77
 
-    *   29,91
+    *   53,5213
 
-    *   26,55
+    *   45,4819
 
-    *   23,78
+    *   39,1168
 
-    *   21,47
+    *   34,0252
 
-    *   19,53
+    *   29,9103
 
-    *   17,89
+    *   26,5506
 
-    *   16,48
+    *   23,7800
 
-    *   15,26
+    *   21,4726
 
-    *   14,21
-
-    *   13,28
-
-    *   12,47
+    *   19,5329
 
 
 *    *   78
 
-    *   30,01
+    *   53,9815
 
-    *   26,62
+    *   45,7950
 
-    *   23,83
+    *   39,3302
 
-    *   21,50
+    *   34,1709
 
-    *   19,56
+    *   30,0100
 
-    *   17,90
+    *   26,6190
 
-    *   16,49
+    *   23,8269
 
-    *   15,27
+    *   21,5049
 
-    *   14,21
-
-    *   13,29
-
-    *   12,47
+    *   19,5551
 
 
 *    *   79
 
-    *   30,11
+    *   54,4371
 
-    *   26,68
+    *   46,1034
 
-    *   23,87
+    *   39,5394
 
-    *   21,54
+    *   34,3131
 
-    *   19,58
+    *   30,1068
 
-    *   17,92
+    *   26,6850
 
-    *   16,50
+    *   23,8720
 
-    *   15,28
+    *   21,5358
 
-    *   14,22
-
-    *   13,29
-
-    *   12,47
+    *   19,5763
 
 
 *    *   80
 
-    *   30,20
+    *   54,8882
 
-    *   26,75
+    *   46,4073
 
-    *   23,92
+    *   39,7445
 
-    *   21,57
+    *   34,4518
 
-    *   19,60
+    *   30,2008
 
-    *   17,93
+    *   26,7488
 
-    *   16,51
+    *   23,9154
 
-    *   15,28
+    *   21,5653
 
-    *   14,22
-
-    *   13,29
-
-    *   12,47
+    *   19,5965
 
 
 *    *   81
 
-    *   30,29
+    *   55,3349
 
-    *   26,81
+    *   46,7067
 
-    *   23,96
+    *   39,9456
 
-    *   21,59
+    *   34,5871
 
-    *   19,62
+    *   30,2920
 
-    *   17,94
+    *   26,8104
 
-    *   16,52
+    *   23,9571
 
-    *   15,29
+    *   21,5936
 
-    *   14,23
-
-    *   13,30
-
-    *   12,48
+    *   19,6157
 
 
 *    *   82
 
-    *   30,38
+    *   55,7771
 
-    *   26,87
+    *   47,0017
 
-    *   24,00
+    *   40,1427
 
-    *   21,62
+    *   34,7192
 
-    *   19,63
+    *   30,3806
 
-    *   17,96
+    *   26,8700
 
-    *   16,53
+    *   23,9972
 
-    *   15,30
+    *   21,6207
 
-    *   14,23
-
-    *   13,30
-
-    *   12,48
+    *   19,6340
 
 
 *    *   83
 
-    *   30,47
+    *   56,2149
 
-    *   26,93
+    *   47,2923
 
-    *   24,04
+    *   40,3360
 
-    *   21,65
+    *   34,8480
 
-    *   19,65
+    *   30,4666
 
-    *   17,97
+    *   26,9275
 
-    *   16,53
+    *   24,0358
 
-    *   15,30
+    *   21,6466
 
-    *   14,23
-
-    *   13,30
-
-    *   12,48
+    *   19,6514
 
 
 *    *   84
 
-    *   30,55
+    *   56,6485
 
-    *   26,98
+    *   47,5786
 
-    *   24,07
+    *   40,5255
 
-    *   21,67
+    *   34,9736
 
-    *   19,67
+    *   30,5501
 
-    *   17,98
+    *   26,9831
 
-    *   16,54
+    *   24,0729
 
-    *   15,31
+    *   21,6714
 
-    *   14,24
-
-    *   13,30
-
-    *   12,48
+    *   19,6680
 
 
 *    *   85
 
-    *   30,63
+    *   57,0777
 
-    *   27,04
+    *   47,8607
 
-    *   24,11
+    *   40,7113
 
-    *   21,70
+    *   35,0962
 
-    *   19,68
+    *   30,6312
 
-    *   17,99
+    *   27,0368
 
-    *   16,55
+    *   24,1085
 
-    *   15,31
+    *   21,6951
 
-    *   14,24
-
-    *   13,30
-
-    *   12,48
+    *   19,6838
 
 
 *    *   86
 
-    *   30,71
+    *   57,5026
 
-    *   27,09
+    *   48,1386
 
-    *   24,14
+    *   40,8934
 
-    *   21,72
+    *   35,2158
 
-    *   19,70
+    *   30,7099
 
-    *   18,00
+    *   27,0887
 
-    *   16,56
+    *   24,1428
 
-    *   15,32
+    *   21,7178
 
-    *   14,24
-
-    *   13,31
-
-    *   12,48
+    *   19,6989
 
 
 *    *   87
 
-    *   30,79
+    *   57,9234
 
-    *   27,14
+    *   48,4125
 
-    *   24,18
+    *   41,0720
 
-    *   21,74
+    *   35,3325
 
-    *   19,71
+    *   30,7863
 
-    *   18,01
+    *   27,1388
 
-    *   16,56
+    *   24,1758
 
-    *   15,32
+    *   21,7395
 
-    *   14,25
-
-    *   13,31
-
-    *   12,48
+    *   19,7132
 
 
 *    *   88
 
-    *   30,86
+    *   58,3400
 
-    *   27,19
+    *   48,6822
 
-    *   24,21
+    *   41,2470
 
-    *   21,76
+    *   35,4463
 
-    *   19,73
+    *   30,8605
 
-    *   18,02
+    *   27,1873
 
-    *   16,57
+    *   24,2075
 
-    *   15,32
+    *   21,7603
 
-    *   14,25
-
-    *   13,31
-
-    *   12,49
+    *   19,7269
 
 
 *    *   89
 
-    *   30,93
+    *   58,7525
 
-    *   27,23
+    *   48,9480
 
-    *   24,24
+    *   41,4187
 
-    *   21,78
+    *   35,5574
 
-    *   19,74
+    *   30,9325
 
-    *   18,03
+    *   27,2341
 
-    *   16,57
+    *   24,2380
 
-    *   15,33
+    *   21,7802
 
-    *   14,25
-
-    *   13,31
-
-    *   12,49
+    *   19,7399
 
 
 *    *   90
 
-    *   31,00
+    *   59,1609
 
-    *   27,28
+    *   49,2099
 
-    *   24,27
+    *   41,5869
 
-    *   21,80
+    *   35,6658
 
-    *   19,75
+    *   31,0024
 
-    *   18,03
+    *   27,2793
 
-    *   16,58
+    *   24,2673
 
-    *   15,33
+    *   21,7992
 
-    *   14,25
-
-    *   13,31
-
-    *   12,49
+    *   19,7523
 
 
 *    *   91
 
-    *   31,07
+    *   59,5652
 
-    *   27,32
+    *   49,4678
 
-    *   24,30
+    *   41,7519
 
-    *   21,82
+    *   35,7715
 
-    *   19,76
+    *   31,0703
 
-    *   18,04
+    *   27,3230
 
-    *   16,58
+    *   24,2955
 
-    *   15,33
+    *   21,8175
 
-    *   14,26
-
-    *   13,31
-
-    *   12,49
+    *   19,7641
 
 
 *    *   92
 
-    *   31,14
+    *   59,9656
 
-    *   27,37
+    *   49,7220
 
-    *   24,32
+    *   41,9136
 
-    *   21,83
+    *   35,8746
 
-    *   19,78
+    *   31,1362
 
-    *   18,05
+    *   27,3652
 
-    *   16,59
+    *   24,3226
 
-    *   15,34
+    *   21,8349
 
-    *   14,26
-
-    *   13,32
-
-    *   12,49
+    *   19,7753
 
 
 *    *   93
 
-    *   31,20
+    *   60,3620
 
-    *   27,41
+    *   49,9724
 
-    *   24,35
+    *   42,0722
 
-    *   21,85
+    *   35,9752
 
-    *   19,79
+    *   31,2002
 
-    *   18,06
+    *   27,4060
 
-    *   16,59
+    *   24,3486
 
-    *   15,34
+    *   21,8516
 
-    *   14,26
-
-    *   13,32
-
-    *   12,49
+    *   19,7860
 
 
 *    *   94
 
-    *   31,26
+    *   60,7544
 
-    *   27,45
+    *   50,2191
 
-    *   24,37
+    *   42,2276
 
-    *   21,87
+    *   36,0734
 
-    *   19,80
+    *   31,2623
 
-    *   18,06
+    *   27,4454
 
-    *   16,60
+    *   24,3737
 
-    *   15,34
+    *   21,8675
 
-    *   14,26
-
-    *   13,32
-
-    *   12,49
+    *   19,7962
 
 
 *    *   95
 
-    *   31,32
+    *   61,1430
 
-    *   27,48
+    *   50,4622
 
-    *   24,40
+    *   42,3800
 
-    *   21,88
+    *   36,1692
 
-    *   19,81
+    *   31,3227
 
-    *   18,07
+    *   27,4835
 
-    *   16,60
+    *   24,3978
 
-    *   15,35
+    *   21,8828
 
-    *   14,26
-
-    *   13,32
-
-    *   12,49
+    *   19,8059
 
 
 *    *   96
 
-    *   31,38
+    *   61,5277
 
-    *   27,52
+    *   50,7017
 
-    *   24,42
+    *   42,5294
 
-    *   21,90
+    *   36,2626
 
-    *   19,82
+    *   31,3812
 
-    *   18,08
+    *   27,5203
 
-    *   16,60
+    *   24,4209
 
-    *   15,35
+    *   21,8974
 
-    *   14,26
-
-    *   13,32
-
-    *   12,49
+    *   19,8151
 
 
 *    *   97
 
-    *   31,44
+    *   61,9086
 
-    *   27,56
+    *   50,9376
 
-    *   24,44
+    *   42,6759
 
-    *   21,91
+    *   36,3538
 
-    *   19,82
+    *   31,4381
 
-    *   18,08
+    *   27,5558
 
-    *   16,61
+    *   24,4432
 
-    *   15,35
+    *   21,9114
 
-    *   14,27
-
-    *   13,32
-
-    *   12,49
+    *   19,8239
 
 
 *    *   98
 
-    *   31,49
+    *   62,2858
 
-    *   27,59
+    *   51,1701
 
-    *   24,46
+    *   42,8195
 
-    *   21,92
+    *   36,4427
 
-    *   19,83
+    *   31,4933
 
-    *   18,09
+    *   27,5902
 
-    *   16,61
+    *   24,4646
 
-    *   15,35
+    *   21,9248
 
-    *   14,27
-
-    *   13,32
-
-    *   12,49
+    *   19,8323
 
 
 *    *   99
 
-    *   31,55
+    *   62,6592
 
-    *   27,62
+    *   51,3991
 
-    *   24,49
+    *   42,9603
 
-    *   21,94
+    *   36,5295
 
-    *   19,84
+    *   31,5469
 
-    *   18,09
+    *   27,6234
 
-    *   16,61
+    *   24,4852
 
-    *   15,35
+    *   21,9376
 
-    *   14,27
-
-    *   13,32
-
-    *   12,49
+    *   19,8403
 
 
 *    *   100
 
-    *   31,60
+    *   63,0289
 
-    *   27,66
+    *   51,6247
 
-    *   24,50
+    *   43,0984
 
-    *   21,95
+    *   36,6141
 
-    *   19,85
+    *   31,5989
 
-    *   18,10
+    *   27,6554
 
-    *   16,62
+    *   24,5050
 
-    *   15,36
+    *   21,9499
 
-    *   14,27
-
-    *   13,32
-
-    *   12,49
+    *   19,8479
 
 
 
-In den Fällen anderer Zinssätze der Gutachterausschüsse ist der
-Vervielfältiger nach folgender Formel zu bilden:
+
+*    *   Restnut-
+        zungsdauer;
+        Restlaufzeit des Erbbaurechts bzw. des Nut-
+        zungsrechts
+        (in Jahren)
+
+    *   Zinssatz
 
 
-*    *
-    *
-    *
-    *
-    *
-    *   q = Zinsfaktor = 1 + p : 100
+*    *   5,5 %
+
+    *   6,0 %
+
+    *   6,5 %
+
+    *   7,0 %
+
+    *   7,5 %
+
+    *   8,0 %
+
+    *   8,5 %
+
+    *   9,0 %
+
+    *   9,5 %
+
+    *   10 %
 
 
-*    *   V (Vervielfältiger) =
+*    *   1
 
-    *   1
+    *   0,9479
 
-    *   ×
+    *   0,9434
 
-    *   q
-        n                      – 1
+    *   0,9390
 
-    *
-    *   p = Zinssatz
+    *   0,9346
 
+    *   0,9302
 
-*    *   q
-        n
+    *   0,9259
 
-    *   q                      – 1
+    *   0,9217
 
-    *
+    *   0,9174
 
-*    *
-    *
-    *
-    *
-    *
-    *   n = Restnutzungsdauer/Restlaufzeit
+    *   0,9132
+
+    *   0,9091
 
 
+*    *   2
+
+    *   1,8463
+
+    *   1,8334
+
+    *   1,8206
+
+    *   1,8080
+
+    *   1,7956
+
+    *   1,7833
+
+    *   1,7711
+
+    *   1,7591
+
+    *   1,7473
+
+    *   1,7355
+
+
+*    *   3
+
+    *   2,6979
+
+    *   2,6730
+
+    *   2,6485
+
+    *   2,6243
+
+    *   2,6005
+
+    *   2,5771
+
+    *   2,5540
+
+    *   2,5313
+
+    *   2,5089
+
+    *   2,4869
+
+
+*    *   4
+
+    *   3,5052
+
+    *   3,4651
+
+    *   3,4258
+
+    *   3,3872
+
+    *   3,3493
+
+    *   3,3121
+
+    *   3,2756
+
+    *   3,2397
+
+    *   3,2045
+
+    *   3,1699
+
+
+*    *   5
+
+    *   4,2703
+
+    *   4,2124
+
+    *   4,1557
+
+    *   4,1002
+
+    *   4,0459
+
+    *   3,9927
+
+    *   3,9406
+
+    *   3,8897
+
+    *   3,8397
+
+    *   3,7908
+
+
+*    *   6
+
+    *   4,9955
+
+    *   4,9173
+
+    *   4,8410
+
+    *   4,7665
+
+    *   4,6938
+
+    *   4,6229
+
+    *   4,5536
+
+    *   4,4859
+
+    *   4,4198
+
+    *   4,3553
+
+
+*    *   7
+
+    *   5,6830
+
+    *   5,5824
+
+    *   5,4845
+
+    *   5,3893
+
+    *   5,2966
+
+    *   5,2064
+
+    *   5,1185
+
+    *   5,0330
+
+    *   4,9496
+
+    *   4,8684
+
+
+*    *   8
+
+    *   6,3346
+
+    *   6,2098
+
+    *   6,0888
+
+    *   5,9713
+
+    *   5,8573
+
+    *   5,7466
+
+    *   5,6392
+
+    *   5,5348
+
+    *   5,4334
+
+    *   5,3349
+
+
+*    *   9
+
+    *   6,9522
+
+    *   6,8017
+
+    *   6,6561
+
+    *   6,5152
+
+    *   6,3789
+
+    *   6,2469
+
+    *   6,1191
+
+    *   5,9952
+
+    *   5,8753
+
+    *   5,7590
+
+
+*    *   10
+
+    *   7,5376
+
+    *   7,3601
+
+    *   7,1888
+
+    *   7,0236
+
+    *   6,8641
+
+    *   6,7101
+
+    *   6,5613
+
+    *   6,4177
+
+    *   6,2788
+
+    *   6,1446
+
+
+*    *   11
+
+    *   8,0925
+
+    *   7,8869
+
+    *   7,6890
+
+    *   7,4987
+
+    *   7,3154
+
+    *   7,1390
+
+    *   6,9690
+
+    *   6,8052
+
+    *   6,6473
+
+    *   6,4951
+
+
+*    *   12
+
+    *   8,6185
+
+    *   8,3838
+
+    *   8,1587
+
+    *   7,9427
+
+    *   7,7353
+
+    *   7,5361
+
+    *   7,3447
+
+    *   7,1607
+
+    *   6,9838
+
+    *   6,8137
+
+
+*    *   13
+
+    *   9,1171
+
+    *   8,8527
+
+    *   8,5997
+
+    *   8,3577
+
+    *   8,1258
+
+    *   7,9038
+
+    *   7,6910
+
+    *   7,4869
+
+    *   7,2912
+
+    *   7,1034
+
+
+*    *   14
+
+    *   9,5896
+
+    *   9,2950
+
+    *   9,0138
+
+    *   8,7455
+
+    *   8,4892
+
+    *   8,2442
+
+    *   8,0101
+
+    *   7,7862
+
+    *   7,5719
+
+    *   7,3667
+
+
+*    *   15
+
+    *   10,0376
+
+    *   9,7122
+
+    *   9,4027
+
+    *   9,1079
+
+    *   8,8271
+
+    *   8,5595
+
+    *   8,3042
+
+    *   8,0607
+
+    *   7,8282
+
+    *   7,6061
+
+
+*    *   16
+
+    *   10,4622
+
+    *   10,1059
+
+    *   9,7678
+
+    *   9,4466
+
+    *   9,1415
+
+    *   8,8514
+
+    *   8,5753
+
+    *   8,3126
+
+    *   8,0623
+
+    *   7,8237
+
+
+*    *   17
+
+    *   10,8646
+
+    *   10,4773
+
+    *   10,1106
+
+    *   9,7632
+
+    *   9,4340
+
+    *   9,1216
+
+    *   8,8252
+
+    *   8,5436
+
+    *   8,2760
+
+    *   8,0216
+
+
+*    *   18
+
+    *   11,2461
+
+    *   10,8276
+
+    *   10,4325
+
+    *   10,0591
+
+    *   9,7060
+
+    *   9,3719
+
+    *   9,0555
+
+    *   8,7556
+
+    *   8,4713
+
+    *   8,2014
+
+
+*    *   19
+
+    *   11,6077
+
+    *   11,1581
+
+    *   10,7347
+
+    *   10,3356
+
+    *   9,9591
+
+    *   9,6036
+
+    *   9,2677
+
+    *   8,9501
+
+    *   8,6496
+
+    *   8,3649
+
+
+*    *   20
+
+    *   11,9504
+
+    *   11,4699
+
+    *   11,0185
+
+    *   10,5940
+
+    *   10,1945
+
+    *   9,8181
+
+    *   9,4633
+
+    *   9,1285
+
+    *   8,8124
+
+    *   8,5136
+
+
+*    *   21
+
+    *   12,2752
+
+    *   11,7641
+
+    *   11,2850
+
+    *   10,8355
+
+    *   10,4135
+
+    *   10,0168
+
+    *   9,6436
+
+    *   9,2922
+
+    *   8,9611
+
+    *   8,6487
+
+
+*    *   22
+
+    *   12,5832
+
+    *   12,0416
+
+    *   11,5352
+
+    *   11,0612
+
+    *   10,6172
+
+    *   10,2007
+
+    *   9,8098
+
+    *   9,4424
+
+    *   9,0969
+
+    *   8,7715
+
+
+*    *   23
+
+    *   12,8750
+
+    *   12,3034
+
+    *   11,7701
+
+    *   11,2722
+
+    *   10,8067
+
+    *   10,3711
+
+    *   9,9629
+
+    *   9,5802
+
+    *   9,2209
+
+    *   8,8832
+
+
+*    *   24
+
+    *   13,1517
+
+    *   12,5504
+
+    *   11,9907
+
+    *   11,4693
+
+    *   10,9830
+
+    *   10,5288
+
+    *   10,1041
+
+    *   9,7066
+
+    *   9,3341
+
+    *   8,9847
+
+
+*    *   25
+
+    *   13,4139
+
+    *   12,7834
+
+    *   12,1979
+
+    *   11,6536
+
+    *   11,1469
+
+    *   10,6748
+
+    *   10,2342
+
+    *   9,8226
+
+    *   9,4376
+
+    *   9,0770
+
+
+*    *   26
+
+    *   13,6625
+
+    *   13,0032
+
+    *   12,3924
+
+    *   11,8258
+
+    *   11,2995
+
+    *   10,8100
+
+    *   10,3541
+
+    *   9,9290
+
+    *   9,5320
+
+    *   9,1609
+
+
+*    *   27
+
+    *   13,8981
+
+    *   13,2105
+
+    *   12,5750
+
+    *   11,9867
+
+    *   11,4414
+
+    *   10,9352
+
+    *   10,4646
+
+    *   10,0266
+
+    *   9,6183
+
+    *   9,2372
+
+
+*    *   28
+
+    *   14,1214
+
+    *   13,4062
+
+    *   12,7465
+
+    *   12,1371
+
+    *   11,5734
+
+    *   11,0511
+
+    *   10,5665
+
+    *   10,1161
+
+    *   9,6971
+
+    *   9,3066
+
+
+*    *   29
+
+    *   14,3331
+
+    *   13,5907
+
+    *   12,9075
+
+    *   12,2777
+
+    *   11,6962
+
+    *   11,1584
+
+    *   10,6603
+
+    *   10,1983
+
+    *   9,7690
+
+    *   9,3696
+
+
+*    *   30
+
+    *   14,5337
+
+    *   13,7648
+
+    *   13,0587
+
+    *   12,4090
+
+    *   11,8104
+
+    *   11,2578
+
+    *   10,7468
+
+    *   10,2737
+
+    *   9,8347
+
+    *   9,4269
+
+
+*    *   31
+
+    *   14,7239
+
+    *   13,9291
+
+    *   13,2006
+
+    *   12,5318
+
+    *   11,9166
+
+    *   11,3498
+
+    *   10,8266
+
+    *   10,3428
+
+    *   9,8947
+
+    *   9,4790
+
+
+*    *   32
+
+    *   14,9042
+
+    *   14,0840
+
+    *   13,3339
+
+    *   12,6466
+
+    *   12,0155
+
+    *   11,4350
+
+    *   10,9001
+
+    *   10,4062
+
+    *   9,9495
+
+    *   9,5264
+
+
+*    *   33
+
+    *   15,0751
+
+    *   14,2302
+
+    *   13,4591
+
+    *   12,7538
+
+    *   12,1074
+
+    *   11,5139
+
+    *   10,9678
+
+    *   10,4644
+
+    *   9,9996
+
+    *   9,5694
+
+
+*    *   34
+
+    *   15,2370
+
+    *   14,3681
+
+    *   13,5766
+
+    *   12,8540
+
+    *   12,1929
+
+    *   11,5869
+
+    *   11,0302
+
+    *   10,5178
+
+    *   10,0453
+
+    *   9,6086
+
+
+*    *   35
+
+    *   15,3906
+
+    *   14,4982
+
+    *   13,6870
+
+    *   12,9477
+
+    *   12,2725
+
+    *   11,6546
+
+    *   11,0878
+
+    *   10,5668
+
+    *   10,0870
+
+    *   9,6442
+
+
+*    *   36
+
+    *   15,5361
+
+    *   14,6210
+
+    *   13,7906
+
+    *   13,0352
+
+    *   12,3465
+
+    *   11,7172
+
+    *   11,1408
+
+    *   10,6118
+
+    *   10,1251
+
+    *   9,6765
+
+
+*    *   37
+
+    *   15,6740
+
+    *   14,7368
+
+    *   13,8879
+
+    *   13,1170
+
+    *   12,4154
+
+    *   11,7752
+
+    *   11,1897
+
+    *   10,6530
+
+    *   10,1599
+
+    *   9,7059
+
+
+*    *   38
+
+    *   15,8047
+
+    *   14,8460
+
+    *   13,9792
+
+    *   13,1935
+
+    *   12,4794
+
+    *   11,8289
+
+    *   11,2347
+
+    *   10,6908
+
+    *   10,1917
+
+    *   9,7327
+
+
+*    *   39
+
+    *   15,9287
+
+    *   14,9491
+
+    *   14,0650
+
+    *   13,2649
+
+    *   12,5390
+
+    *   11,8786
+
+    *   11,2763
+
+    *   10,7255
+
+    *   10,2207
+
+    *   9,7570
+
+
+*    *   40
+
+    *   16,0461
+
+    *   15,0463
+
+    *   14,1455
+
+    *   13,3317
+
+    *   12,5944
+
+    *   11,9246
+
+    *   11,3145
+
+    *   10,7574
+
+    *   10,2472
+
+    *   9,7791
+
+
+*    *   41
+
+    *   16,1575
+
+    *   15,1380
+
+    *   14,2212
+
+    *   13,3941
+
+    *   12,6460
+
+    *   11,9672
+
+    *   11,3498
+
+    *   10,7866
+
+    *   10,2715
+
+    *   9,7991
+
+
+*    *   42
+
+    *   16,2630
+
+    *   15,2245
+
+    *   14,2922
+
+    *   13,4524
+
+    *   12,6939
+
+    *   12,0067
+
+    *   11,3823
+
+    *   10,8134
+
+    *   10,2936
+
+    *   9,8174
+
+
+*    *   43
+
+    *   16,3630
+
+    *   15,3062
+
+    *   14,3588
+
+    *   13,5070
+
+    *   12,7385
+
+    *   12,0432
+
+    *   11,4123
+
+    *   10,8380
+
+    *   10,3138
+
+    *   9,8340
+
+
+*    *   44
+
+    *   16,4579
+
+    *   15,3832
+
+    *   14,4214
+
+    *   13,5579
+
+    *   12,7800
+
+    *   12,0771
+
+    *   11,4399
+
+    *   10,8605
+
+    *   10,3322
+
+    *   9,8491
+
+
+*    *   45
+
+    *   16,5477
+
+    *   15,4558
+
+    *   14,4802
+
+    *   13,6055
+
+    *   12,8186
+
+    *   12,1084
+
+    *   11,4653
+
+    *   10,8812
+
+    *   10,3490
+
+    *   9,8628
+
+
+*    *   46
+
+    *   16,6329
+
+    *   15,5244
+
+    *   14,5354
+
+    *   13,6500
+
+    *   12,8545
+
+    *   12,1374
+
+    *   11,4888
+
+    *   10,9002
+
+    *   10,3644
+
+    *   9,8753
+
+
+*    *   47
+
+    *   16,7137
+
+    *   15,5890
+
+    *   14,5873
+
+    *   13,6916
+
+    *   12,8879
+
+    *   12,1643
+
+    *   11,5104
+
+    *   10,9176
+
+    *   10,3785
+
+    *   9,8866
+
+
+*    *   48
+
+    *   16,7902
+
+    *   15,6500
+
+    *   14,6359
+
+    *   13,7305
+
+    *   12,9190
+
+    *   12,1891
+
+    *   11,5303
+
+    *   10,9336
+
+    *   10,3913
+
+    *   9,8969
+
+
+*    *   49
+
+    *   16,8628
+
+    *   15,7076
+
+    *   14,6816
+
+    *   13,7668
+
+    *   12,9479
+
+    *   12,2122
+
+    *   11,5487
+
+    *   10,9482
+
+    *   10,4030
+
+    *   9,9063
+
+
+*    *   50
+
+    *   16,9315
+
+    *   15,7619
+
+    *   14,7245
+
+    *   13,8007
+
+    *   12,9748
+
+    *   12,2335
+
+    *   11,5656
+
+    *   10,9617
+
+    *   10,4137
+
+    *   9,9148
+
+
+*    *   51
+
+    *   16,9967
+
+    *   15,8131
+
+    *   14,7648
+
+    *   13,8325
+
+    *   12,9998
+
+    *   12,2532
+
+    *   11,5812
+
+    *   10,9740
+
+    *   10,4235
+
+    *   9,9226
+
+
+*    *   52
+
+    *   17,0585
+
+    *   15,8614
+
+    *   14,8026
+
+    *   13,8621
+
+    *   13,0231
+
+    *   12,2715
+
+    *   11,5956
+
+    *   10,9853
+
+    *   10,4324
+
+    *   9,9296
+
+
+*    *   53
+
+    *   17,1170
+
+    *   15,9070
+
+    *   14,8382
+
+    *   13,8898
+
+    *   13,0447
+
+    *   12,2884
+
+    *   11,6088
+
+    *   10,9957
+
+    *   10,4405
+
+    *   9,9360
+
+
+*    *   54
+
+    *   17,1726
+
+    *   15,9500
+
+    *   14,8715
+
+    *   13,9157
+
+    *   13,0649
+
+    *   12,3041
+
+    *   11,6210
+
+    *   11,0053
+
+    *   10,4480
+
+    *   9,9418
+
+
+*    *   55
+
+    *   17,2252
+
+    *   15,9905
+
+    *   14,9028
+
+    *   13,9399
+
+    *   13,0836
+
+    *   12,3186
+
+    *   11,6323
+
+    *   11,0140
+
+    *   10,4548
+
+    *   9,9471
+
+
+*    *   56
+
+    *   17,2750
+
+    *   16,0288
+
+    *   14,9322
+
+    *   13,9626
+
+    *   13,1010
+
+    *   12,3321
+
+    *   11,6427
+
+    *   11,0220
+
+    *   10,4610
+
+    *   9,9519
+
+
+*    *   57
+
+    *   17,3223
+
+    *   16,0649
+
+    *   14,9598
+
+    *   13,9837
+
+    *   13,1172
+
+    *   12,3445
+
+    *   11,6522
+
+    *   11,0294
+
+    *   10,4667
+
+    *   9,9563
+
+
+*    *   58
+
+    *   17,3671
+
+    *   16,0990
+
+    *   14,9858
+
+    *   14,0035
+
+    *   13,1323
+
+    *   12,3560
+
+    *   11,6610
+
+    *   11,0361
+
+    *   10,4718
+
+    *   9,9603
+
+
+*    *   59
+
+    *   17,4096
+
+    *   16,1311
+
+    *   15,0101
+
+    *   14,0219
+
+    *   13,1463
+
+    *   12,3667
+
+    *   11,6692
+
+    *   11,0423
+
+    *   10,4766
+
+    *   9,9639
+
+
+*    *   60
+
+    *   17,4499
+
+    *   16,1614
+
+    *   15,0330
+
+    *   14,0392
+
+    *   13,1594
+
+    *   12,3766
+
+    *   11,6766
+
+    *   11,0480
+
+    *   10,4809
+
+    *   9,9672
+
+
+*    *   61
+
+    *   17,4880
+
+    *   16,1900
+
+    *   15,0544
+
+    *   14,0553
+
+    *   13,1715
+
+    *   12,3857
+
+    *   11,6835
+
+    *   11,0532
+
+    *   10,4848
+
+    *   9,9701
+
+
+*    *   62
+
+    *   17,5242
+
+    *   16,2170
+
+    *   15,0746
+
+    *   14,0704
+
+    *   13,1828
+
+    *   12,3942
+
+    *   11,6899
+
+    *   11,0580
+
+    *   10,4884
+
+    *   9,9729
+
+
+*    *   63
+
+    *   17,5585
+
+    *   16,2425
+
+    *   15,0935
+
+    *   14,0845
+
+    *   13,1933
+
+    *   12,4020
+
+    *   11,6958
+
+    *   11,0624
+
+    *   10,4917
+
+    *   9,9753
+
+
+*    *   64
+
+    *   17,5910
+
+    *   16,2665
+
+    *   15,1113
+
+    *   14,0976
+
+    *   13,2031
+
+    *   12,4093
+
+    *   11,7012
+
+    *   11,0664
+
+    *   10,4947
+
+    *   9,9776
+
+
+*    *   65
+
+    *   17,6218
+
+    *   16,2891
+
+    *   15,1280
+
+    *   14,1099
+
+    *   13,2122
+
+    *   12,4160
+
+    *   11,7061
+
+    *   11,0701
+
+    *   10,4975
+
+    *   9,9796
+
+
+*    *   66
+
+    *   17,6510
+
+    *   16,3105
+
+    *   15,1436
+
+    *   14,1214
+
+    *   13,2206
+
+    *   12,4222
+
+    *   11,7107
+
+    *   11,0735
+
+    *   10,5000
+
+    *   9,9815
+
+
+*    *   67
+
+    *   17,6786
+
+    *   16,3307
+
+    *   15,1583
+
+    *   14,1322
+
+    *   13,2285
+
+    *   12,4280
+
+    *   11,7150
+
+    *   11,0766
+
+    *   10,5022
+
+    *   9,9831
+
+
+*    *   68
+
+    *   17,7049
+
+    *   16,3497
+
+    *   15,1721
+
+    *   14,1422
+
+    *   13,2358
+
+    *   12,4333
+
+    *   11,7189
+
+    *   11,0794
+
+    *   10,5043
+
+    *   9,9847
+
+
+*    *   69
+
+    *   17,7297
+
+    *   16,3676
+
+    *   15,1851
+
+    *   14,1516
+
+    *   13,2426
+
+    *   12,4382
+
+    *   11,7224
+
+    *   11,0820
+
+    *   10,5062
+
+    *   9,9861
+
+
+*    *   70
+
+    *   17,7533
+
+    *   16,3845
+
+    *   15,1973
+
+    *   14,1604
+
+    *   13,2489
+
+    *   12,4428
+
+    *   11,7258
+
+    *   11,0844
+
+    *   10,5080
+
+    *   9,9873
+
+
+*    *   71
+
+    *   17,7756
+
+    *   16,4005
+
+    *   15,2087
+
+    *   14,1686
+
+    *   13,2548
+
+    *   12,4471
+
+    *   11,7288
+
+    *   11,0867
+
+    *   10,5096
+
+    *   9,9885
+
+
+*    *   72
+
+    *   17,7968
+
+    *   16,4156
+
+    *   15,2195
+
+    *   14,1763
+
+    *   13,2603
+
+    *   12,4510
+
+    *   11,7316
+
+    *   11,0887
+
+    *   10,5110
+
+    *   9,9895
+
+
+*    *   73
+
+    *   17,8169
+
+    *   16,4298
+
+    *   15,2295
+
+    *   14,1834
+
+    *   13,2654
+
+    *   12,4546
+
+    *   11,7342
+
+    *   11,0905
+
+    *   10,5124
+
+    *   9,9905
+
+
+*    *   74
+
+    *   17,8359
+
+    *   16,4432
+
+    *   15,2390
+
+    *   14,1901
+
+    *   13,2701
+
+    *   12,4580
+
+    *   11,7366
+
+    *   11,0922
+
+    *   10,5136
+
+    *   9,9914
+
+
+*    *   75
+
+    *   17,8539
+
+    *   16,4558
+
+    *   15,2479
+
+    *   14,1964
+
+    *   13,2745
+
+    *   12,4611
+
+    *   11,7388
+
+    *   11,0938
+
+    *   10,5147
+
+    *   9,9921
+
+
+*    *   76
+
+    *   17,8710
+
+    *   16,4678
+
+    *   15,2562
+
+    *   14,2022
+
+    *   13,2786
+
+    *   12,4640
+
+    *   11,7408
+
+    *   11,0952
+
+    *   10,5157
+
+    *   9,9929
+
+
+*    *   77
+
+    *   17,8872
+
+    *   16,4790
+
+    *   15,2641
+
+    *   14,2077
+
+    *   13,2825
+
+    *   12,4666
+
+    *   11,7427
+
+    *   11,0965
+
+    *   10,5166
+
+    *   9,9935
+
+
+*    *   78
+
+    *   17,9026
+
+    *   16,4897
+
+    *   15,2714
+
+    *   14,2128
+
+    *   13,2860
+
+    *   12,4691
+
+    *   11,7444
+
+    *   11,0977
+
+    *   10,5174
+
+    *   9,9941
+
+
+*    *   79
+
+    *   17,9172
+
+    *   16,4997
+
+    *   15,2783
+
+    *   14,2175
+
+    *   13,2893
+
+    *   12,4714
+
+    *   11,7460
+
+    *   11,0988
+
+    *   10,5182
+
+    *   9,9946
+
+
+*    *   80
+
+    *   17,9310
+
+    *   16,5091
+
+    *   15,2848
+
+    *   14,2220
+
+    *   13,2924
+
+    *   12,4735
+
+    *   11,7475
+
+    *   11,0998
+
+    *   10,5189
+
+    *   9,9951
+
+
+*    *   81
+
+    *   17,9440
+
+    *   16,5180
+
+    *   15,2909
+
+    *   14,2262
+
+    *   13,2952
+
+    *   12,4755
+
+    *   11,7488
+
+    *   11,1008
+
+    *   10,5196
+
+    *   9,9956
+
+
+*    *   82
+
+    *   17,9564
+
+    *   16,5265
+
+    *   15,2966
+
+    *   14,2301
+
+    *   13,2979
+
+    *   12,4773
+
+    *   11,7501
+
+    *   11,1016
+
+    *   10,5201
+
+    *   9,9960
+
+
+*    *   83
+
+    *   17,9682
+
+    *   16,5344
+
+    *   15,3020
+
+    *   14,2337
+
+    *   13,3004
+
+    *   12,4790
+
+    *   11,7512
+
+    *   11,1024
+
+    *   10,5207
+
+    *   9,9963
+
+
+*    *   84
+
+    *   17,9793
+
+    *   16,5419
+
+    *   15,3070
+
+    *   14,2371
+
+    *   13,3027
+
+    *   12,4805
+
+    *   11,7523
+
+    *   11,1031
+
+    *   10,5212
+
+    *   9,9967
+
+
+*    *   85
+
+    *   17,9899
+
+    *   16,5489
+
+    *   15,3118
+
+    *   14,2403
+
+    *   13,3048
+
+    *   12,4820
+
+    *   11,7532
+
+    *   11,1038
+
+    *   10,5216
+
+    *   9,9970
+
+
+*    *   86
+
+    *   17,9999
+
+    *   16,5556
+
+    *   15,3162
+
+    *   14,2433
+
+    *   13,3068
+
+    *   12,4833
+
+    *   11,7541
+
+    *   11,1044
+
+    *   10,5220
+
+    *   9,9972
+
+
+*    *   87
+
+    *   18,0094
+
+    *   16,5619
+
+    *   15,3204
+
+    *   14,2460
+
+    *   13,3087
+
+    *   12,4845
+
+    *   11,7550
+
+    *   11,1050
+
+    *   10,5224
+
+    *   9,9975
+
+
+*    *   88
+
+    *   18,0184
+
+    *   16,5678
+
+    *   15,3243
+
+    *   14,2486
+
+    *   13,3104
+
+    *   12,4857
+
+    *   11,7557
+
+    *   11,1055
+
+    *   10,5227
+
+    *   9,9977
+
+
+*    *   89
+
+    *   18,0269
+
+    *   16,5734
+
+    *   15,3280
+
+    *   14,2511
+
+    *   13,3120
+
+    *   12,4868
+
+    *   11,7564
+
+    *   11,1059
+
+    *   10,5230
+
+    *   9,9979
+
+
+*    *   90
+
+    *   18,0350
+
+    *   16,5787
+
+    *   15,3315
+
+    *   14,2533
+
+    *   13,3135
+
+    *   12,4877
+
+    *   11,7571
+
+    *   11,1064
+
+    *   10,5233
+
+    *   9,9981
+
+
+*    *   91
+
+    *   18,0426
+
+    *   16,5837
+
+    *   15,3347
+
+    *   14,2554
+
+    *   13,3149
+
+    *   12,4886
+
+    *   11,7577
+
+    *   11,1067
+
+    *   10,5236
+
+    *   9,9983
+
+
+*    *   92
+
+    *   18,0499
+
+    *   16,5884
+
+    *   15,3377
+
+    *   14,2574
+
+    *   13,3161
+
+    *   12,4895
+
+    *   11,7582
+
+    *   11,1071
+
+    *   10,5238
+
+    *   9,9984
+
+
+*    *   93
+
+    *   18,0567
+
+    *   16,5928
+
+    *   15,3406
+
+    *   14,2593
+
+    *   13,3173
+
+    *   12,4903
+
+    *   11,7587
+
+    *   11,1074
+
+    *   10,5240
+
+    *   9,9986
+
+
+*    *   94
+
+    *   18,0633
+
+    *   16,5970
+
+    *   15,3433
+
+    *   14,2610
+
+    *   13,3185
+
+    *   12,4910
+
+    *   11,7592
+
+    *   11,1077
+
+    *   10,5242
+
+    *   9,9987
+
+
+*    *   95
+
+    *   18,0694
+
+    *   16,6009
+
+    *   15,3458
+
+    *   14,2626
+
+    *   13,3195
+
+    *   12,4917
+
+    *   11,7596
+
+    *   11,1080
+
+    *   10,5244
+
+    *   9,9988
+
+
+*    *   96
+
+    *   18,0753
+
+    *   16,6047
+
+    *   15,3482
+
+    *   14,2641
+
+    *   13,3205
+
+    *   12,4923
+
+    *   11,7600
+
+    *   11,1083
+
+    *   10,5246
+
+    *   9,9989
+
+
+*    *   97
+
+    *   18,0809
+
+    *   16,6082
+
+    *   15,3504
+
+    *   14,2655
+
+    *   13,3214
+
+    *   12,4928
+
+    *   11,7604
+
+    *   11,1085
+
+    *   10,5247
+
+    *   9,9990
+
+
+*    *   98
+
+    *   18,0861
+
+    *   16,6115
+
+    *   15,3525
+
+    *   14,2669
+
+    *   13,3222
+
+    *   12,4934
+
+    *   11,7607
+
+    *   11,1087
+
+    *   10,5249
+
+    *   9,9991
+
+
+*    *   99
+
+    *   18,0911
+
+    *   16,6146
+
+    *   15,3545
+
+    *   14,2681
+
+    *   13,3230
+
+    *   12,4939
+
+    *   11,7610
+
+    *   11,1089
+
+    *   10,5250
+
+    *   9,9992
+
+
+*    *   100
+
+    *   18,0958
+
+    *   16,6175
+
+    *   15,3563
+
+    *   14,2693
+
+    *   13,3237
+
+    *   12,4943
+
+    *   11,7613
+
+    *   11,1091
+
+    *   10,5251
+
+    *   9,9993
+
+
+
+Berechnungsformel für die der Tabelle nicht zu entnehmenden
+Vervielfältiger (Barwertfaktoren für die Kapitalisierung):
+
+Vervielfältiger =
+![bgbl1_2024_j03870_0010.jpg](bgbl1_2024_j03870_0010.jpg)
+q = 1 + Zinssatz, wobei Zinssatz =
+![bgbl1_2024_j03870_0020.jpg](bgbl1_2024_j03870_0020.jpg)
+p = Zinsfuß
+
+n = Restnutzungsdauer / Restlaufzeit
+
+Das jeweilige Berechnungsergebnis ist kaufmännisch auf vier
+Nachkommastellen zu runden.
 
 (zu § 185 Absatz 3 Satz 3, § 190 Absatz 6 Satz 1 und 2)
 
@@ -23821,7 +19438,8 @@ Gestaltung den vorstehenden Gebäudearten zuzuordnen.
     *   **Verwaltungskosten (Basiswerte)**
 
 
-*    *   jährlich je Wohnung
+*    *[^bjnr010350934bjne027702123_01_BJNR010350934BJNE027702123]
+   jährlich je Wohnung
 
     *   230 Euro
 
@@ -23858,7 +19476,7 @@ Gestaltung den vorstehenden Gebäudearten zuzuordnen.
 
 *    *   **II.**
 
-    *   **Bewirtschaftungskosten für gewerbliche Nutzung**
+    *   **Bewirtschaftungskosten für Nichtwohnnutzung**
 
 
 *    *   **1.**
@@ -23897,6 +19515,12 @@ Gestaltung den vorstehenden Gebäudearten zuzuordnen.
         Nummer I.2
 
 
+*    *   jährlich je Garage oder ähnlichem Einstellplatz
+
+    *   100 Prozent der Instandhaltungskosten je Garage oder ähnlichem
+        Einstellplatz gemäß Nummer I.2
+
+
 *    *   **3.**
 
     *   **Mietausfallwagnis**
@@ -23913,13 +19537,16 @@ Die Anpassung der Basiswerte nach den Nummern I.1 und I.2 erfolgt
 jährlich mit dem Prozentsatz, um den sich der vom Statistischen
 Bundesamt festgestellte Verbraucherpreisindex für Deutschland für den
 Monat Oktober 2001 gegenüber demjenigen für den Monat Oktober des
-Jahres, das dem Stichtag der Ermittlung des Liegenschaftszinssatzes
-vorausgeht, erhöht oder verringert hat. Die Werte für die
-Instandhaltungskosten pro Quadratmeter sind auf eine Nachkommastelle
-und bei den Instandhaltungskosten pro Garage oder ähnlichem
-Einstellplatz sowie bei Verwaltungskosten kaufmännisch auf volle Euro
-zu runden.
+Jahres, das dem Bewertungsstichtag vorausgeht, erhöht oder verringert
+hat. Die Werte für die Instandhaltungskosten pro Quadratmeter sind auf
+eine Nachkommastelle und bei den Instandhaltungskosten pro Garage oder
+ähnlichem Einstellplatz sowie bei Verwaltungskosten kaufmännisch auf
+volle Euro zu runden.
 
+    Für Wohnräume, die keine Wohnungen im Sinne des § 181 Absatz 9
+    darstellen, sind als Verwaltungskosten 3 Prozent des hierauf
+    entfallenden jährlichen Rohertrages anzusetzen.
+[^bjnr010350934bjne027702123_01_BJNR010350934BJNE027702123]: 
 (zu § 190 Absatz 1 Satz 3 und Absatz 2 und Anlage 23)
 
 ### Anlage 24 Regelherstellungskosten
@@ -27113,44 +22740,51 @@ aufgeführten Bereich hinaus ist keine Extrapolation durchzuführen. Für
 Werte außerhalb des angegebenen Bereichs gilt der nächstgelegene
 vorläufige Sachwert oder Bodenrichtwert oder abgeleitete Bodenwert.
 
-(zu § 194 Abs. 3 Satz 2 und Abs. 4 sowie § 195 Abs. 3 Satz 2)
+(zu § 193 Absatz 5 Satz 3, § 194 Absatz 4 Satz 1 sowie § 195 Absatz 4
+Satz 3 und Absatz 6 Satz 1)
 
 ### Anlage 26 Abzinsungsfaktoren
 
-(Fundstelle: BGBl. I 2008, 3078 - 3080;
-bezüglich der einzelnen Änderungen vgl. Fußnote)
+(Fundstelle: BGBl. 2024 I Nr. 387, S. 71 - 76)
 
 
-*    *   Restlaufzeit des Erbbaurechts bzw.
-        des Nutzungsrechts (in Jahren)
+*    *   Restnut-
+        zungsdauer;
+        Restlaufzeit des Erbbaurechts bzw. des Nut-
+        zungsrechts
+        (in Jahren)
 
     *   Zinssatz
 
 
-*    *   3 %
+*    *   1,0 %
+
+    *   1,5 %
+
+    *   2,0 %
+
+    *   2,5 %
+
+    *   3,0 %
 
     *   3,5 %
 
-    *   4 %
+    *   4,0 %
 
     *   4,5 %
 
-    *   5 %
-
-    *   5,5 %
-
-    *   6 %
-
-    *   6,5 %
-
-    *   7 %
-
-    *   7,5 %
-
-    *   8 %
+    *   5,0 %
 
 
 *    *   1
+
+    *   0,9901
+
+    *   0,9852
+
+    *   0,9804
+
+    *   0,9756
 
     *   0,9709
 
@@ -27161,6 +22795,2120 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
     *   0,9569
 
     *   0,9524
+
+
+*    *   2
+
+    *   0,9803
+
+    *   0,9707
+
+    *   0,9612
+
+    *   0,9518
+
+    *   0,9426
+
+    *   0,9335
+
+    *   0,9246
+
+    *   0,9157
+
+    *   0,9070
+
+
+*    *   3
+
+    *   0,9706
+
+    *   0,9563
+
+    *   0,9423
+
+    *   0,9286
+
+    *   0,9151
+
+    *   0,9019
+
+    *   0,8890
+
+    *   0,8763
+
+    *   0,8638
+
+
+*    *   4
+
+    *   0,9610
+
+    *   0,9422
+
+    *   0,9238
+
+    *   0,9060
+
+    *   0,8885
+
+    *   0,8714
+
+    *   0,8548
+
+    *   0,8386
+
+    *   0,8227
+
+
+*    *   5
+
+    *   0,9515
+
+    *   0,9283
+
+    *   0,9057
+
+    *   0,8839
+
+    *   0,8626
+
+    *   0,8420
+
+    *   0,8219
+
+    *   0,8025
+
+    *   0,7835
+
+
+*    *   6
+
+    *   0,9420
+
+    *   0,9145
+
+    *   0,8880
+
+    *   0,8623
+
+    *   0,8375
+
+    *   0,8135
+
+    *   0,7903
+
+    *   0,7679
+
+    *   0,7462
+
+
+*    *   7
+
+    *   0,9327
+
+    *   0,9010
+
+    *   0,8706
+
+    *   0,8413
+
+    *   0,8131
+
+    *   0,7860
+
+    *   0,7599
+
+    *   0,7348
+
+    *   0,7107
+
+
+*    *   8
+
+    *   0,9235
+
+    *   0,8877
+
+    *   0,8535
+
+    *   0,8207
+
+    *   0,7894
+
+    *   0,7594
+
+    *   0,7307
+
+    *   0,7032
+
+    *   0,6768
+
+
+*    *   9
+
+    *   0,9143
+
+    *   0,8746
+
+    *   0,8368
+
+    *   0,8007
+
+    *   0,7664
+
+    *   0,7337
+
+    *   0,7026
+
+    *   0,6729
+
+    *   0,6446
+
+
+*    *   10
+
+    *   0,9053
+
+    *   0,8617
+
+    *   0,8203
+
+    *   0,7812
+
+    *   0,7441
+
+    *   0,7089
+
+    *   0,6756
+
+    *   0,6439
+
+    *   0,6139
+
+
+*    *   11
+
+    *   0,8963
+
+    *   0,8489
+
+    *   0,8043
+
+    *   0,7621
+
+    *   0,7224
+
+    *   0,6849
+
+    *   0,6496
+
+    *   0,6162
+
+    *   0,5847
+
+
+*    *   12
+
+    *   0,8874
+
+    *   0,8364
+
+    *   0,7885
+
+    *   0,7436
+
+    *   0,7014
+
+    *   0,6618
+
+    *   0,6246
+
+    *   0,5897
+
+    *   0,5568
+
+
+*    *   13
+
+    *   0,8787
+
+    *   0,8240
+
+    *   0,7730
+
+    *   0,7254
+
+    *   0,6810
+
+    *   0,6394
+
+    *   0,6006
+
+    *   0,5643
+
+    *   0,5303
+
+
+*    *   14
+
+    *   0,8700
+
+    *   0,8118
+
+    *   0,7579
+
+    *   0,7077
+
+    *   0,6611
+
+    *   0,6178
+
+    *   0,5775
+
+    *   0,5400
+
+    *   0,5051
+
+
+*    *   15
+
+    *   0,8613
+
+    *   0,7999
+
+    *   0,7430
+
+    *   0,6905
+
+    *   0,6419
+
+    *   0,5969
+
+    *   0,5553
+
+    *   0,5167
+
+    *   0,4810
+
+
+*    *   16
+
+    *   0,8528
+
+    *   0,7880
+
+    *   0,7284
+
+    *   0,6736
+
+    *   0,6232
+
+    *   0,5767
+
+    *   0,5339
+
+    *   0,4945
+
+    *   0,4581
+
+
+*    *   17
+
+    *   0,8444
+
+    *   0,7764
+
+    *   0,7142
+
+    *   0,6572
+
+    *   0,6050
+
+    *   0,5572
+
+    *   0,5134
+
+    *   0,4732
+
+    *   0,4363
+
+
+*    *   18
+
+    *   0,8360
+
+    *   0,7649
+
+    *   0,7002
+
+    *   0,6412
+
+    *   0,5874
+
+    *   0,5384
+
+    *   0,4936
+
+    *   0,4528
+
+    *   0,4155
+
+
+*    *   19
+
+    *   0,8277
+
+    *   0,7536
+
+    *   0,6864
+
+    *   0,6255
+
+    *   0,5703
+
+    *   0,5202
+
+    *   0,4746
+
+    *   0,4333
+
+    *   0,3957
+
+
+*    *   20
+
+    *   0,8195
+
+    *   0,7425
+
+    *   0,6730
+
+    *   0,6103
+
+    *   0,5537
+
+    *   0,5026
+
+    *   0,4564
+
+    *   0,4146
+
+    *   0,3769
+
+
+*    *   21
+
+    *   0,8114
+
+    *   0,7315
+
+    *   0,6598
+
+    *   0,5954
+
+    *   0,5375
+
+    *   0,4856
+
+    *   0,4388
+
+    *   0,3968
+
+    *   0,3589
+
+
+*    *   22
+
+    *   0,8034
+
+    *   0,7207
+
+    *   0,6468
+
+    *   0,5809
+
+    *   0,5219
+
+    *   0,4692
+
+    *   0,4220
+
+    *   0,3797
+
+    *   0,3418
+
+
+*    *   23
+
+    *   0,7954
+
+    *   0,7100
+
+    *   0,6342
+
+    *   0,5667
+
+    *   0,5067
+
+    *   0,4533
+
+    *   0,4057
+
+    *   0,3634
+
+    *   0,3256
+
+
+*    *   24
+
+    *   0,7876
+
+    *   0,6995
+
+    *   0,6217
+
+    *   0,5529
+
+    *   0,4919
+
+    *   0,4380
+
+    *   0,3901
+
+    *   0,3477
+
+    *   0,3101
+
+
+*    *   25
+
+    *   0,7798
+
+    *   0,6892
+
+    *   0,6095
+
+    *   0,5394
+
+    *   0,4776
+
+    *   0,4231
+
+    *   0,3751
+
+    *   0,3327
+
+    *   0,2953
+
+
+*    *   26
+
+    *   0,7720
+
+    *   0,6790
+
+    *   0,5976
+
+    *   0,5262
+
+    *   0,4637
+
+    *   0,4088
+
+    *   0,3607
+
+    *   0,3184
+
+    *   0,2812
+
+
+*    *   27
+
+    *   0,7644
+
+    *   0,6690
+
+    *   0,5859
+
+    *   0,5134
+
+    *   0,4502
+
+    *   0,3950
+
+    *   0,3468
+
+    *   0,3047
+
+    *   0,2678
+
+
+*    *   28
+
+    *   0,7568
+
+    *   0,6591
+
+    *   0,5744
+
+    *   0,5009
+
+    *   0,4371
+
+    *   0,3817
+
+    *   0,3335
+
+    *   0,2916
+
+    *   0,2551
+
+
+*    *   29
+
+    *   0,7493
+
+    *   0,6494
+
+    *   0,5631
+
+    *   0,4887
+
+    *   0,4243
+
+    *   0,3687
+
+    *   0,3207
+
+    *   0,2790
+
+    *   0,2429
+
+
+*    *   30
+
+    *   0,7419
+
+    *   0,6398
+
+    *   0,5521
+
+    *   0,4767
+
+    *   0,4120
+
+    *   0,3563
+
+    *   0,3083
+
+    *   0,2670
+
+    *   0,2314
+
+
+*    *   31
+
+    *   0,7346
+
+    *   0,6303
+
+    *   0,5412
+
+    *   0,4651
+
+    *   0,4000
+
+    *   0,3442
+
+    *   0,2965
+
+    *   0,2555
+
+    *   0,2204
+
+
+*    *   32
+
+    *   0,7273
+
+    *   0,6210
+
+    *   0,5306
+
+    *   0,4538
+
+    *   0,3883
+
+    *   0,3326
+
+    *   0,2851
+
+    *   0,2445
+
+    *   0,2099
+
+
+*    *   33
+
+    *   0,7201
+
+    *   0,6118
+
+    *   0,5202
+
+    *   0,4427
+
+    *   0,3770
+
+    *   0,3213
+
+    *   0,2741
+
+    *   0,2340
+
+    *   0,1999
+
+
+*    *   34
+
+    *   0,7130
+
+    *   0,6028
+
+    *   0,5100
+
+    *   0,4319
+
+    *   0,3660
+
+    *   0,3105
+
+    *   0,2636
+
+    *   0,2239
+
+    *   0,1904
+
+
+*    *   35
+
+    *   0,7059
+
+    *   0,5939
+
+    *   0,5000
+
+    *   0,4214
+
+    *   0,3554
+
+    *   0,3000
+
+    *   0,2534
+
+    *   0,2143
+
+    *   0,1813
+
+
+*    *   36
+
+    *   0,6989
+
+    *   0,5851
+
+    *   0,4902
+
+    *   0,4111
+
+    *   0,3450
+
+    *   0,2898
+
+    *   0,2437
+
+    *   0,2050
+
+    *   0,1727
+
+
+*    *   37
+
+    *   0,6920
+
+    *   0,5764
+
+    *   0,4806
+
+    *   0,4011
+
+    *   0,3350
+
+    *   0,2800
+
+    *   0,2343
+
+    *   0,1962
+
+    *   0,1644
+
+
+*    *   38
+
+    *   0,6852
+
+    *   0,5679
+
+    *   0,4712
+
+    *   0,3913
+
+    *   0,3252
+
+    *   0,2706
+
+    *   0,2253
+
+    *   0,1878
+
+    *   0,1566
+
+
+*    *   39
+
+    *   0,6784
+
+    *   0,5595
+
+    *   0,4619
+
+    *   0,3817
+
+    *   0,3158
+
+    *   0,2614
+
+    *   0,2166
+
+    *   0,1797
+
+    *   0,1491
+
+
+*    *   40
+
+    *   0,6717
+
+    *   0,5513
+
+    *   0,4529
+
+    *   0,3724
+
+    *   0,3066
+
+    *   0,2526
+
+    *   0,2083
+
+    *   0,1719
+
+    *   0,1420
+
+
+*    *   41
+
+    *   0,6650
+
+    *   0,5431
+
+    *   0,4440
+
+    *   0,3633
+
+    *   0,2976
+
+    *   0,2440
+
+    *   0,2003
+
+    *   0,1645
+
+    *   0,1353
+
+
+*    *   42
+
+    *   0,6584
+
+    *   0,5351
+
+    *   0,4353
+
+    *   0,3545
+
+    *   0,2890
+
+    *   0,2358
+
+    *   0,1926
+
+    *   0,1574
+
+    *   0,1288
+
+
+*    *   43
+
+    *   0,6519
+
+    *   0,5272
+
+    *   0,4268
+
+    *   0,3458
+
+    *   0,2805
+
+    *   0,2278
+
+    *   0,1852
+
+    *   0,1507
+
+    *   0,1227
+
+
+*    *   44
+
+    *   0,6454
+
+    *   0,5194
+
+    *   0,4184
+
+    *   0,3374
+
+    *   0,2724
+
+    *   0,2201
+
+    *   0,1780
+
+    *   0,1442
+
+    *   0,1169
+
+
+*    *   45
+
+    *   0,6391
+
+    *   0,5117
+
+    *   0,4102
+
+    *   0,3292
+
+    *   0,2644
+
+    *   0,2127
+
+    *   0,1712
+
+    *   0,1380
+
+    *   0,1113
+
+
+*    *   46
+
+    *   0,6327
+
+    *   0,5042
+
+    *   0,4022
+
+    *   0,3211
+
+    *   0,2567
+
+    *   0,2055
+
+    *   0,1646
+
+    *   0,1320
+
+    *   0,1060
+
+
+*    *   47
+
+    *   0,6265
+
+    *   0,4967
+
+    *   0,3943
+
+    *   0,3133
+
+    *   0,2493
+
+    *   0,1985
+
+    *   0,1583
+
+    *   0,1263
+
+    *   0,1009
+
+
+*    *   48
+
+    *   0,6203
+
+    *   0,4894
+
+    *   0,3865
+
+    *   0,3057
+
+    *   0,2420
+
+    *   0,1918
+
+    *   0,1522
+
+    *   0,1209
+
+    *   0,0961
+
+
+*    *   49
+
+    *   0,6141
+
+    *   0,4821
+
+    *   0,3790
+
+    *   0,2982
+
+    *   0,2350
+
+    *   0,1853
+
+    *   0,1463
+
+    *   0,1157
+
+    *   0,0916
+
+
+*    *   50
+
+    *   0,6080
+
+    *   0,4750
+
+    *   0,3715
+
+    *   0,2909
+
+    *   0,2281
+
+    *   0,1791
+
+    *   0,1407
+
+    *   0,1107
+
+    *   0,0872
+
+
+*    *   51
+
+    *   0,6020
+
+    *   0,4680
+
+    *   0,3642
+
+    *   0,2838
+
+    *   0,2215
+
+    *   0,1730
+
+    *   0,1353
+
+    *   0,1059
+
+    *   0,0831
+
+
+*    *   52
+
+    *   0,5961
+
+    *   0,4611
+
+    *   0,3571
+
+    *   0,2769
+
+    *   0,2150
+
+    *   0,1671
+
+    *   0,1301
+
+    *   0,1014
+
+    *   0,0791
+
+
+*    *   53
+
+    *   0,5902
+
+    *   0,4543
+
+    *   0,3501
+
+    *   0,2702
+
+    *   0,2088
+
+    *   0,1615
+
+    *   0,1251
+
+    *   0,0970
+
+    *   0,0753
+
+
+*    *   54
+
+    *   0,5843
+
+    *   0,4475
+
+    *   0,3432
+
+    *   0,2636
+
+    *   0,2027
+
+    *   0,1560
+
+    *   0,1203
+
+    *   0,0928
+
+    *   0,0717
+
+
+*    *   55
+
+    *   0,5785
+
+    *   0,4409
+
+    *   0,3365
+
+    *   0,2572
+
+    *   0,1968
+
+    *   0,1508
+
+    *   0,1157
+
+    *   0,0888
+
+    *   0,0683
+
+
+*    *   56
+
+    *   0,5728
+
+    *   0,4344
+
+    *   0,3299
+
+    *   0,2509
+
+    *   0,1910
+
+    *   0,1457
+
+    *   0,1112
+
+    *   0,0850
+
+    *   0,0651
+
+
+*    *   57
+
+    *   0,5671
+
+    *   0,4280
+
+    *   0,3234
+
+    *   0,2448
+
+    *   0,1855
+
+    *   0,1407
+
+    *   0,1069
+
+    *   0,0814
+
+    *   0,0620
+
+
+*    *   58
+
+    *   0,5615
+
+    *   0,4217
+
+    *   0,3171
+
+    *   0,2388
+
+    *   0,1801
+
+    *   0,1360
+
+    *   0,1028
+
+    *   0,0778
+
+    *   0,0590
+
+
+*    *   59
+
+    *   0,5560
+
+    *   0,4154
+
+    *   0,3109
+
+    *   0,2330
+
+    *   0,1748
+
+    *   0,1314
+
+    *   0,0989
+
+    *   0,0745
+
+    *   0,0562
+
+
+*    *   60
+
+    *   0,5504
+
+    *   0,4093
+
+    *   0,3048
+
+    *   0,2273
+
+    *   0,1697
+
+    *   0,1269
+
+    *   0,0951
+
+    *   0,0713
+
+    *   0,0535
+
+
+*    *   61
+
+    *   0,5450
+
+    *   0,4032
+
+    *   0,2988
+
+    *   0,2217
+
+    *   0,1648
+
+    *   0,1226
+
+    *   0,0914
+
+    *   0,0682
+
+    *   0,0510
+
+
+*    *   62
+
+    *   0,5396
+
+    *   0,3973
+
+    *   0,2929
+
+    *   0,2163
+
+    *   0,1600
+
+    *   0,1185
+
+    *   0,0879
+
+    *   0,0653
+
+    *   0,0486
+
+
+*    *   63
+
+    *   0,5343
+
+    *   0,3914
+
+    *   0,2872
+
+    *   0,2111
+
+    *   0,1553
+
+    *   0,1145
+
+    *   0,0845
+
+    *   0,0625
+
+    *   0,0462
+
+
+*    *   64
+
+    *   0,5290
+
+    *   0,3856
+
+    *   0,2816
+
+    *   0,2059
+
+    *   0,1508
+
+    *   0,1106
+
+    *   0,0813
+
+    *   0,0598
+
+    *   0,0440
+
+
+*    *   65
+
+    *   0,5237
+
+    *   0,3799
+
+    *   0,2761
+
+    *   0,2009
+
+    *   0,1464
+
+    *   0,1069
+
+    *   0,0781
+
+    *   0,0572
+
+    *   0,0419
+
+
+*    *   66
+
+    *   0,5185
+
+    *   0,3743
+
+    *   0,2706
+
+    *   0,1960
+
+    *   0,1421
+
+    *   0,1033
+
+    *   0,0751
+
+    *   0,0547
+
+    *   0,0399
+
+
+*    *   67
+
+    *   0,5134
+
+    *   0,3688
+
+    *   0,2653
+
+    *   0,1912
+
+    *   0,1380
+
+    *   0,0998
+
+    *   0,0722
+
+    *   0,0524
+
+    *   0,0380
+
+
+*    *   68
+
+    *   0,5083
+
+    *   0,3633
+
+    *   0,2601
+
+    *   0,1865
+
+    *   0,1340
+
+    *   0,0964
+
+    *   0,0695
+
+    *   0,0501
+
+    *   0,0362
+
+
+*    *   69
+
+    *   0,5033
+
+    *   0,3580
+
+    *   0,2550
+
+    *   0,1820
+
+    *   0,1301
+
+    *   0,0931
+
+    *   0,0668
+
+    *   0,0480
+
+    *   0,0345
+
+
+*    *   70
+
+    *   0,4983
+
+    *   0,3527
+
+    *   0,2500
+
+    *   0,1776
+
+    *   0,1263
+
+    *   0,0900
+
+    *   0,0642
+
+    *   0,0459
+
+    *   0,0329
+
+
+*    *   71
+
+    *   0,4934
+
+    *   0,3475
+
+    *   0,2451
+
+    *   0,1732
+
+    *   0,1226
+
+    *   0,0869
+
+    *   0,0617
+
+    *   0,0439
+
+    *   0,0313
+
+
+*    *   72
+
+    *   0,4885
+
+    *   0,3423
+
+    *   0,2403
+
+    *   0,1690
+
+    *   0,1190
+
+    *   0,0840
+
+    *   0,0594
+
+    *   0,0420
+
+    *   0,0298
+
+
+*    *   73
+
+    *   0,4837
+
+    *   0,3373
+
+    *   0,2356
+
+    *   0,1649
+
+    *   0,1156
+
+    *   0,0812
+
+    *   0,0571
+
+    *   0,0402
+
+    *   0,0284
+
+
+*    *   74
+
+    *   0,4789
+
+    *   0,3323
+
+    *   0,2310
+
+    *   0,1609
+
+    *   0,1122
+
+    *   0,0784
+
+    *   0,0549
+
+    *   0,0385
+
+    *   0,0270
+
+
+*    *   75
+
+    *   0,4741
+
+    *   0,3274
+
+    *   0,2265
+
+    *   0,1569
+
+    *   0,1089
+
+    *   0,0758
+
+    *   0,0528
+
+    *   0,0368
+
+    *   0,0258
+
+
+*    *   76
+
+    *   0,4694
+
+    *   0,3225
+
+    *   0,2220
+
+    *   0,1531
+
+    *   0,1058
+
+    *   0,0732
+
+    *   0,0508
+
+    *   0,0353
+
+    *   0,0245
+
+
+*    *   77
+
+    *   0,4648
+
+    *   0,3178
+
+    *   0,2177
+
+    *   0,1494
+
+    *   0,1027
+
+    *   0,0707
+
+    *   0,0488
+
+    *   0,0337
+
+    *   0,0234
+
+
+*    *   78
+
+    *   0,4602
+
+    *   0,3131
+
+    *   0,2134
+
+    *   0,1457
+
+    *   0,0997
+
+    *   0,0683
+
+    *   0,0469
+
+    *   0,0323
+
+    *   0,0222
+
+
+*    *   79
+
+    *   0,4556
+
+    *   0,3084
+
+    *   0,2092
+
+    *   0,1422
+
+    *   0,0968
+
+    *   0,0660
+
+    *   0,0451
+
+    *   0,0309
+
+    *   0,0212
+
+
+*    *   80
+
+    *   0,4511
+
+    *   0,3039
+
+    *   0,2051
+
+    *   0,1387
+
+    *   0,0940
+
+    *   0,0638
+
+    *   0,0434
+
+    *   0,0296
+
+    *   0,0202
+
+
+*    *   81
+
+    *   0,4467
+
+    *   0,2994
+
+    *   0,2011
+
+    *   0,1353
+
+    *   0,0912
+
+    *   0,0616
+
+    *   0,0417
+
+    *   0,0283
+
+    *   0,0192
+
+
+*    *   82
+
+    *   0,4422
+
+    *   0,2950
+
+    *   0,1971
+
+    *   0,1320
+
+    *   0,0886
+
+    *   0,0596
+
+    *   0,0401
+
+    *   0,0271
+
+    *   0,0183
+
+
+*    *   83
+
+    *   0,4379
+
+    *   0,2906
+
+    *   0,1933
+
+    *   0,1288
+
+    *   0,0860
+
+    *   0,0575
+
+    *   0,0386
+
+    *   0,0259
+
+    *   0,0174
+
+
+*    *   84
+
+    *   0,4335
+
+    *   0,2863
+
+    *   0,1895
+
+    *   0,1257
+
+    *   0,0835
+
+    *   0,0556
+
+    *   0,0371
+
+    *   0,0248
+
+    *   0,0166
+
+
+*    *   85
+
+    *   0,4292
+
+    *   0,2821
+
+    *   0,1858
+
+    *   0,1226
+
+    *   0,0811
+
+    *   0,0537
+
+    *   0,0357
+
+    *   0,0237
+
+    *   0,0158
+
+
+*    *   86
+
+    *   0,4250
+
+    *   0,2779
+
+    *   0,1821
+
+    *   0,1196
+
+    *   0,0787
+
+    *   0,0519
+
+    *   0,0343
+
+    *   0,0227
+
+    *   0,0151
+
+
+*    *   87
+
+    *   0,4208
+
+    *   0,2738
+
+    *   0,1786
+
+    *   0,1167
+
+    *   0,0764
+
+    *   0,0501
+
+    *   0,0330
+
+    *   0,0217
+
+    *   0,0143
+
+
+*    *   88
+
+    *   0,4166
+
+    *   0,2698
+
+    *   0,1751
+
+    *   0,1138
+
+    *   0,0742
+
+    *   0,0484
+
+    *   0,0317
+
+    *   0,0208
+
+    *   0,0137
+
+
+*    *   89
+
+    *   0,4125
+
+    *   0,2658
+
+    *   0,1716
+
+    *   0,1111
+
+    *   0,0720
+
+    *   0,0468
+
+    *   0,0305
+
+    *   0,0199
+
+    *   0,0130
+
+
+*    *   90
+
+    *   0,4084
+
+    *   0,2619
+
+    *   0,1683
+
+    *   0,1084
+
+    *   0,0699
+
+    *   0,0452
+
+    *   0,0293
+
+    *   0,0190
+
+    *   0,0124
+
+
+*    *   91
+
+    *   0,4043
+
+    *   0,2580
+
+    *   0,1650
+
+    *   0,1057
+
+    *   0,0679
+
+    *   0,0437
+
+    *   0,0282
+
+    *   0,0182
+
+    *   0,0118
+
+
+*    *   92
+
+    *   0,4003
+
+    *   0,2542
+
+    *   0,1617
+
+    *   0,1031
+
+    *   0,0659
+
+    *   0,0422
+
+    *   0,0271
+
+    *   0,0174
+
+    *   0,0112
+
+
+*    *   93
+
+    *   0,3964
+
+    *   0,2504
+
+    *   0,1586
+
+    *   0,1006
+
+    *   0,0640
+
+    *   0,0408
+
+    *   0,0261
+
+    *   0,0167
+
+    *   0,0107
+
+
+*    *   94
+
+    *   0,3925
+
+    *   0,2467
+
+    *   0,1554
+
+    *   0,0982
+
+    *   0,0621
+
+    *   0,0394
+
+    *   0,0251
+
+    *   0,0160
+
+    *   0,0102
+
+
+*    *   95
+
+    *   0,3886
+
+    *   0,2431
+
+    *   0,1524
+
+    *   0,0958
+
+    *   0,0603
+
+    *   0,0381
+
+    *   0,0241
+
+    *   0,0153
+
+    *   0,0097
+
+
+*    *   96
+
+    *   0,3847
+
+    *   0,2395
+
+    *   0,1494
+
+    *   0,0934
+
+    *   0,0586
+
+    *   0,0368
+
+    *   0,0232
+
+    *   0,0146
+
+    *   0,0092
+
+
+*    *   97
+
+    *   0,3809
+
+    *   0,2359
+
+    *   0,1465
+
+    *   0,0912
+
+    *   0,0569
+
+    *   0,0355
+
+    *   0,0223
+
+    *   0,0140
+
+    *   0,0088
+
+
+*    *   98
+
+    *   0,3771
+
+    *   0,2324
+
+    *   0,1436
+
+    *   0,0889
+
+    *   0,0552
+
+    *   0,0343
+
+    *   0,0214
+
+    *   0,0134
+
+    *   0,0084
+
+
+*    *   99
+
+    *   0,3734
+
+    *   0,2290
+
+    *   0,1408
+
+    *   0,0868
+
+    *   0,0536
+
+    *   0,0332
+
+    *   0,0206
+
+    *   0,0128
+
+    *   0,0080
+
+
+*    *   100
+
+    *   0,3697
+
+    *   0,2256
+
+    *   0,1380
+
+    *   0,0846
+
+    *   0,0520
+
+    *   0,0321
+
+    *   0,0198
+
+    *   0,0123
+
+    *   0,0076
+
+
+
+
+*    *   Restnut-
+        zungsdauer;
+        Restlaufzeit des Erbbaurechts bzw. des Nut-
+        zungsrechts
+        (in Jahren)
+
+    *   Zinssatz
+
+
+*    *   5,5 %
+
+    *   6,0 %
+
+    *   6,5 %
+
+    *   7,0 %
+
+    *   7,5 %
+
+    *   8,0 %
+
+    *   8,5 %
+
+    *   9,0 %
+
+    *   9,5 %
+
+    *   10 %
+
+
+*    *   1
 
     *   0,9479
 
@@ -27174,18 +24922,16 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
     *   0,9259
 
+    *   0,9217
+
+    *   0,9174
+
+    *   0,9132
+
+    *   0,9091
+
 
 *    *   2
-
-    *   0,9426
-
-    *   0,9335
-
-    *   0,9246
-
-    *   0,9157
-
-    *   0,9070
 
     *   0,8985
 
@@ -27199,18 +24945,16 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
     *   0,8573
 
+    *   0,8495
+
+    *   0,8417
+
+    *   0,8340
+
+    *   0,8264
+
 
 *    *   3
-
-    *   0,9151
-
-    *   0,9019
-
-    *   0,8890
-
-    *   0,8763
-
-    *   0,8638
 
     *   0,8516
 
@@ -27224,18 +24968,16 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
     *   0,7938
 
+    *   0,7829
+
+    *   0,7722
+
+    *   0,7617
+
+    *   0,7513
+
 
 *    *   4
-
-    *   0,8885
-
-    *   0,8714
-
-    *   0,8548
-
-    *   0,8386
-
-    *   0,8227
 
     *   0,8072
 
@@ -27249,18 +24991,16 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
     *   0,7350
 
+    *   0,7216
+
+    *   0,7084
+
+    *   0,6956
+
+    *   0,6830
+
 
 *    *   5
-
-    *   0,8626
-
-    *   0,8420
-
-    *   0,8219
-
-    *   0,8025
-
-    *   0,7835
 
     *   0,7651
 
@@ -27274,18 +25014,16 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
     *   0,6806
 
+    *   0,6650
+
+    *   0,6499
+
+    *   0,6352
+
+    *   0,6209
+
 
 *    *   6
-
-    *   0,8375
-
-    *   0,8135
-
-    *   0,7903
-
-    *   0,7679
-
-    *   0,7462
 
     *   0,7252
 
@@ -27299,18 +25037,16 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
     *   0,6302
 
+    *   0,6129
+
+    *   0,5963
+
+    *   0,5801
+
+    *   0,5645
+
 
 *    *   7
-
-    *   0,8131
-
-    *   0,7860
-
-    *   0,7599
-
-    *   0,7348
-
-    *   0,7107
 
     *   0,6874
 
@@ -27324,18 +25060,16 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
     *   0,5835
 
+    *   0,5649
+
+    *   0,5470
+
+    *   0,5298
+
+    *   0,5132
+
 
 *    *   8
-
-    *   0,7894
-
-    *   0,7594
-
-    *   0,7307
-
-    *   0,7032
-
-    *   0,6768
 
     *   0,6516
 
@@ -27349,18 +25083,16 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
     *   0,5403
 
+    *   0,5207
+
+    *   0,5019
+
+    *   0,4838
+
+    *   0,4665
+
 
 *    *   9
-
-    *   0,7664
-
-    *   0,7337
-
-    *   0,7026
-
-    *   0,6729
-
-    *   0,6446
 
     *   0,6176
 
@@ -27374,18 +25106,16 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
     *   0,5002
 
+    *   0,4799
+
+    *   0,4604
+
+    *   0,4418
+
+    *   0,4241
+
 
 *    *   10
-
-    *   0,7441
-
-    *   0,7089
-
-    *   0,6756
-
-    *   0,6439
-
-    *   0,6139
 
     *   0,5854
 
@@ -27399,18 +25129,16 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
     *   0,4632
 
+    *   0,4423
+
+    *   0,4224
+
+    *   0,4035
+
+    *   0,3855
+
 
 *    *   11
-
-    *   0,7224
-
-    *   0,6849
-
-    *   0,6496
-
-    *   0,6162
-
-    *   0,5847
 
     *   0,5549
 
@@ -27424,18 +25152,16 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
     *   0,4289
 
+    *   0,4076
+
+    *   0,3875
+
+    *   0,3685
+
+    *   0,3505
+
 
 *    *   12
-
-    *   0,7014
-
-    *   0,6618
-
-    *   0,6246
-
-    *   0,5897
-
-    *   0,5568
 
     *   0,5260
 
@@ -27449,18 +25175,16 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
     *   0,3971
 
+    *   0,3757
+
+    *   0,3555
+
+    *   0,3365
+
+    *   0,3186
+
 
 *    *   13
-
-    *   0,6810
-
-    *   0,6394
-
-    *   0,6006
-
-    *   0,5643
-
-    *   0,5303
 
     *   0,4986
 
@@ -27474,18 +25198,16 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
     *   0,3677
 
+    *   0,3463
+
+    *   0,3262
+
+    *   0,3073
+
+    *   0,2897
+
 
 *    *   14
-
-    *   0,6611
-
-    *   0,6178
-
-    *   0,5775
-
-    *   0,5400
-
-    *   0,5051
 
     *   0,4726
 
@@ -27499,18 +25221,16 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
     *   0,3405
 
+    *   0,3191
+
+    *   0,2992
+
+    *   0,2807
+
+    *   0,2633
+
 
 *    *   15
-
-    *   0,6419
-
-    *   0,5969
-
-    *   0,5553
-
-    *   0,5167
-
-    *   0,4810
 
     *   0,4479
 
@@ -27524,18 +25244,16 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
     *   0,3152
 
+    *   0,2941
+
+    *   0,2745
+
+    *   0,2563
+
+    *   0,2394
+
 
 *    *   16
-
-    *   0,6232
-
-    *   0,5767
-
-    *   0,5339
-
-    *   0,4945
-
-    *   0,4581
 
     *   0,4246
 
@@ -27549,18 +25267,16 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
     *   0,2919
 
+    *   0,2711
+
+    *   0,2519
+
+    *   0,2341
+
+    *   0,2176
+
 
 *    *   17
-
-    *   0,6050
-
-    *   0,5572
-
-    *   0,5134
-
-    *   0,4732
-
-    *   0,4363
 
     *   0,4024
 
@@ -27574,18 +25290,16 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
     *   0,2703
 
+    *   0,2499
+
+    *   0,2311
+
+    *   0,2138
+
+    *   0,1978
+
 
 *    *   18
-
-    *   0,5874
-
-    *   0,5384
-
-    *   0,4936
-
-    *   0,4528
-
-    *   0,4155
 
     *   0,3815
 
@@ -27599,18 +25313,16 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
     *   0,2502
 
+    *   0,2303
+
+    *   0,2120
+
+    *   0,1952
+
+    *   0,1799
+
 
 *    *   19
-
-    *   0,5703
-
-    *   0,5202
-
-    *   0,4746
-
-    *   0,4333
-
-    *   0,3957
 
     *   0,3616
 
@@ -27624,18 +25336,16 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
     *   0,2317
 
+    *   0,2122
+
+    *   0,1945
+
+    *   0,1783
+
+    *   0,1635
+
 
 *    *   20
-
-    *   0,5537
-
-    *   0,5026
-
-    *   0,4564
-
-    *   0,4146
-
-    *   0,3769
 
     *   0,3427
 
@@ -27649,18 +25359,16 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
     *   0,2145
 
+    *   0,1956
+
+    *   0,1784
+
+    *   0,1628
+
+    *   0,1486
+
 
 *    *   21
-
-    *   0,5375
-
-    *   0,4856
-
-    *   0,4388
-
-    *   0,3968
-
-    *   0,3589
 
     *   0,3249
 
@@ -27674,18 +25382,16 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
     *   0,1987
 
+    *   0,1803
+
+    *   0,1637
+
+    *   0,1487
+
+    *   0,1351
+
 
 *    *   22
-
-    *   0,5219
-
-    *   0,4692
-
-    *   0,4220
-
-    *   0,3797
-
-    *   0,3418
 
     *   0,3079
 
@@ -27699,18 +25405,16 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
     *   0,1839
 
+    *   0,1662
+
+    *   0,1502
+
+    *   0,1358
+
+    *   0,1228
+
 
 *    *   23
-
-    *   0,5067
-
-    *   0,4533
-
-    *   0,4057
-
-    *   0,3634
-
-    *   0,3256
 
     *   0,2919
 
@@ -27724,18 +25428,16 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
     *   0,1703
 
+    *   0,1531
+
+    *   0,1378
+
+    *   0,1240
+
+    *   0,1117
+
 
 *    *   24
-
-    *   0,4919
-
-    *   0,4380
-
-    *   0,3901
-
-    *   0,3477
-
-    *   0,3101
 
     *   0,2767
 
@@ -27749,18 +25451,16 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
     *   0,1577
 
+    *   0,1412
+
+    *   0,1264
+
+    *   0,1133
+
+    *   0,1015
+
 
 *    *   25
-
-    *   0,4776
-
-    *   0,4231
-
-    *   0,3751
-
-    *   0,3327
-
-    *   0,2953
 
     *   0,2622
 
@@ -27774,18 +25474,16 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
     *   0,1460
 
+    *   0,1301
+
+    *   0,1160
+
+    *   0,1034
+
+    *   0,0923
+
 
 *    *   26
-
-    *   0,4637
-
-    *   0,4088
-
-    *   0,3607
-
-    *   0,3184
-
-    *   0,2812
 
     *   0,2486
 
@@ -27799,18 +25497,16 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
     *   0,1352
 
+    *   0,1199
+
+    *   0,1064
+
+    *   0,0945
+
+    *   0,0839
+
 
 *    *   27
-
-    *   0,4502
-
-    *   0,3950
-
-    *   0,3468
-
-    *   0,3047
-
-    *   0,2678
 
     *   0,2356
 
@@ -27824,18 +25520,16 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
     *   0,1252
 
+    *   0,1105
+
+    *   0,0976
+
+    *   0,0863
+
+    *   0,0763
+
 
 *    *   28
-
-    *   0,4371
-
-    *   0,3817
-
-    *   0,3335
-
-    *   0,2916
-
-    *   0,2551
 
     *   0,2233
 
@@ -27849,18 +25543,16 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
     *   0,1159
 
+    *   0,1019
+
+    *   0,0895
+
+    *   0,0788
+
+    *   0,0693
+
 
 *    *   29
-
-    *   0,4243
-
-    *   0,3687
-
-    *   0,3207
-
-    *   0,2790
-
-    *   0,2429
 
     *   0,2117
 
@@ -27874,18 +25566,16 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
     *   0,1073
 
+    *   0,0939
+
+    *   0,0822
+
+    *   0,0719
+
+    *   0,0630
+
 
 *    *   30
-
-    *   0,4120
-
-    *   0,3563
-
-    *   0,3083
-
-    *   0,2670
-
-    *   0,2314
 
     *   0,2006
 
@@ -27899,18 +25589,16 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
     *   0,0994
 
+    *   0,0865
+
+    *   0,0754
+
+    *   0,0657
+
+    *   0,0573
+
 
 *    *   31
-
-    *   0,4000
-
-    *   0,3442
-
-    *   0,2965
-
-    *   0,2555
-
-    *   0,2204
 
     *   0,1902
 
@@ -27924,18 +25612,16 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
     *   0,0920
 
+    *   0,0797
+
+    *   0,0691
+
+    *   0,0600
+
+    *   0,0521
+
 
 *    *   32
-
-    *   0,3883
-
-    *   0,3326
-
-    *   0,2851
-
-    *   0,2445
-
-    *   0,2099
 
     *   0,1803
 
@@ -27949,18 +25635,16 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
     *   0,0852
 
+    *   0,0735
+
+    *   0,0634
+
+    *   0,0548
+
+    *   0,0474
+
 
 *    *   33
-
-    *   0,3770
-
-    *   0,3213
-
-    *   0,2741
-
-    *   0,2340
-
-    *   0,1999
 
     *   0,1709
 
@@ -27974,18 +25658,16 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
     *   0,0789
 
+    *   0,0677
+
+    *   0,0582
+
+    *   0,0500
+
+    *   0,0431
+
 
 *    *   34
-
-    *   0,3660
-
-    *   0,3105
-
-    *   0,2636
-
-    *   0,2239
-
-    *   0,1904
 
     *   0,1620
 
@@ -27999,18 +25681,16 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
     *   0,0730
 
+    *   0,0624
+
+    *   0,0534
+
+    *   0,0457
+
+    *   0,0391
+
 
 *    *   35
-
-    *   0,3554
-
-    *   0,3000
-
-    *   0,2534
-
-    *   0,2143
-
-    *   0,1813
 
     *   0,1535
 
@@ -28024,18 +25704,16 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
     *   0,0676
 
+    *   0,0575
+
+    *   0,0490
+
+    *   0,0417
+
+    *   0,0356
+
 
 *    *   36
-
-    *   0,3450
-
-    *   0,2898
-
-    *   0,2437
-
-    *   0,2050
-
-    *   0,1727
 
     *   0,1455
 
@@ -28049,18 +25727,16 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
     *   0,0626
 
+    *   0,0530
+
+    *   0,0449
+
+    *   0,0381
+
+    *   0,0323
+
 
 *    *   37
-
-    *   0,3350
-
-    *   0,2800
-
-    *   0,2343
-
-    *   0,1962
-
-    *   0,1644
 
     *   0,1379
 
@@ -28074,18 +25750,16 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
     *   0,0580
 
+    *   0,0489
+
+    *   0,0412
+
+    *   0,0348
+
+    *   0,0294
+
 
 *    *   38
-
-    *   0,3252
-
-    *   0,2706
-
-    *   0,2253
-
-    *   0,1878
-
-    *   0,1566
 
     *   0,1307
 
@@ -28099,18 +25773,16 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
     *   0,0537
 
+    *   0,0450
+
+    *   0,0378
+
+    *   0,0318
+
+    *   0,0267
+
 
 *    *   39
-
-    *   0,3158
-
-    *   0,2614
-
-    *   0,2166
-
-    *   0,1797
-
-    *   0,1491
 
     *   0,1239
 
@@ -28124,18 +25796,16 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
     *   0,0497
 
+    *   0,0415
+
+    *   0,0347
+
+    *   0,0290
+
+    *   0,0243
+
 
 *    *   40
-
-    *   0,3066
-
-    *   0,2526
-
-    *   0,2083
-
-    *   0,1719
-
-    *   0,1420
 
     *   0,1175
 
@@ -28149,18 +25819,16 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
     *   0,0460
 
+    *   0,0383
+
+    *   0,0318
+
+    *   0,0265
+
+    *   0,0221
+
 
 *    *   41
-
-    *   0,2976
-
-    *   0,2440
-
-    *   0,2003
-
-    *   0,1645
-
-    *   0,1353
 
     *   0,1113
 
@@ -28174,18 +25842,16 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
     *   0,0426
 
+    *   0,0353
+
+    *   0,0292
+
+    *   0,0242
+
+    *   0,0201
+
 
 *    *   42
-
-    *   0,2890
-
-    *   0,2358
-
-    *   0,1926
-
-    *   0,1574
-
-    *   0,1288
 
     *   0,1055
 
@@ -28199,18 +25865,16 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
     *   0,0395
 
+    *   0,0325
+
+    *   0,0268
+
+    *   0,0221
+
+    *   0,0183
+
 
 *    *   43
-
-    *   0,2805
-
-    *   0,2278
-
-    *   0,1852
-
-    *   0,1507
-
-    *   0,1227
 
     *   0,1000
 
@@ -28224,18 +25888,16 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
     *   0,0365
 
+    *   0,0300
+
+    *   0,0246
+
+    *   0,0202
+
+    *   0,0166
+
 
 *    *   44
-
-    *   0,2724
-
-    *   0,2201
-
-    *   0,1780
-
-    *   0,1442
-
-    *   0,1169
 
     *   0,0948
 
@@ -28249,18 +25911,16 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
     *   0,0338
 
+    *   0,0276
+
+    *   0,0226
+
+    *   0,0184
+
+    *   0,0151
+
 
 *    *   45
-
-    *   0,2644
-
-    *   0,2127
-
-    *   0,1712
-
-    *   0,1380
-
-    *   0,1113
 
     *   0,0899
 
@@ -28274,18 +25934,16 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
     *   0,0313
 
+    *   0,0254
+
+    *   0,0207
+
+    *   0,0168
+
+    *   0,0137
+
 
 *    *   46
-
-    *   0,2567
-
-    *   0,2055
-
-    *   0,1646
-
-    *   0,1320
-
-    *   0,1060
 
     *   0,0852
 
@@ -28299,18 +25957,16 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
     *   0,0290
 
+    *   0,0235
+
+    *   0,0190
+
+    *   0,0154
+
+    *   0,0125
+
 
 *    *   47
-
-    *   0,2493
-
-    *   0,1985
-
-    *   0,1583
-
-    *   0,1263
-
-    *   0,1009
 
     *   0,0807
 
@@ -28324,18 +25980,16 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
     *   0,0269
 
+    *   0,0216
+
+    *   0,0174
+
+    *   0,0140
+
+    *   0,0113
+
 
 *    *   48
-
-    *   0,2420
-
-    *   0,1918
-
-    *   0,1522
-
-    *   0,1209
-
-    *   0,0961
 
     *   0,0765
 
@@ -28349,18 +26003,16 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
     *   0,0249
 
+    *   0,0199
+
+    *   0,0160
+
+    *   0,0128
+
+    *   0,0103
+
 
 *    *   49
-
-    *   0,2350
-
-    *   0,1853
-
-    *   0,1463
-
-    *   0,1157
-
-    *   0,0916
 
     *   0,0725
 
@@ -28374,18 +26026,16 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
     *   0,0230
 
+    *   0,0184
+
+    *   0,0147
+
+    *   0,0117
+
+    *   0,0094
+
 
 *    *   50
-
-    *   0,2281
-
-    *   0,1791
-
-    *   0,1407
-
-    *   0,1107
-
-    *   0,0872
 
     *   0,0688
 
@@ -28399,18 +26049,16 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
     *   0,0213
 
+    *   0,0169
+
+    *   0,0134
+
+    *   0,0107
+
+    *   0,0085
+
 
 *    *   51
-
-    *   0,2215
-
-    *   0,1730
-
-    *   0,1353
-
-    *   0,1059
-
-    *   0,0831
 
     *   0,0652
 
@@ -28424,18 +26072,16 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
     *   0,0197
 
+    *   0,0156
+
+    *   0,0123
+
+    *   0,0098
+
+    *   0,0077
+
 
 *    *   52
-
-    *   0,2150
-
-    *   0,1671
-
-    *   0,1301
-
-    *   0,1014
-
-    *   0,0791
 
     *   0,0618
 
@@ -28449,18 +26095,16 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
     *   0,0183
 
+    *   0,0144
+
+    *   0,0113
+
+    *   0,0089
+
+    *   0,0070
+
 
 *    *   53
-
-    *   0,2088
-
-    *   0,1615
-
-    *   0,1251
-
-    *   0,0970
-
-    *   0,0753
 
     *   0,0586
 
@@ -28474,18 +26118,16 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
     *   0,0169
 
+    *   0,0133
+
+    *   0,0104
+
+    *   0,0081
+
+    *   0,0064
+
 
 *    *   54
-
-    *   0,2027
-
-    *   0,1560
-
-    *   0,1203
-
-    *   0,0928
-
-    *   0,0717
 
     *   0,0555
 
@@ -28499,18 +26141,16 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
     *   0,0157
 
+    *   0,0122
+
+    *   0,0095
+
+    *   0,0074
+
+    *   0,0058
+
 
 *    *   55
-
-    *   0,1968
-
-    *   0,1508
-
-    *   0,1157
-
-    *   0,0888
-
-    *   0,0683
 
     *   0,0526
 
@@ -28524,18 +26164,16 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
     *   0,0145
 
+    *   0,0113
+
+    *   0,0087
+
+    *   0,0068
+
+    *   0,0053
+
 
 *    *   56
-
-    *   0,1910
-
-    *   0,1457
-
-    *   0,1112
-
-    *   0,0850
-
-    *   0,0651
 
     *   0,0499
 
@@ -28549,18 +26187,16 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
     *   0,0134
 
+    *   0,0104
+
+    *   0,0080
+
+    *   0,0062
+
+    *   0,0048
+
 
 *    *   57
-
-    *   0,1855
-
-    *   0,1407
-
-    *   0,1069
-
-    *   0,0814
-
-    *   0,0620
 
     *   0,0473
 
@@ -28574,18 +26210,16 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
     *   0,0124
 
+    *   0,0096
+
+    *   0,0074
+
+    *   0,0057
+
+    *   0,0044
+
 
 *    *   58
-
-    *   0,1801
-
-    *   0,1360
-
-    *   0,1028
-
-    *   0,0778
-
-    *   0,0590
 
     *   0,0448
 
@@ -28599,18 +26233,16 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
     *   0,0115
 
+    *   0,0088
+
+    *   0,0067
+
+    *   0,0052
+
+    *   0,0040
+
 
 *    *   59
-
-    *   0,1748
-
-    *   0,1314
-
-    *   0,0989
-
-    *   0,0745
-
-    *   0,0562
 
     *   0,0425
 
@@ -28624,18 +26256,16 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
     *   0,0107
 
+    *   0,0081
+
+    *   0,0062
+
+    *   0,0047
+
+    *   0,0036
+
 
 *    *   60
-
-    *   0,1697
-
-    *   0,1269
-
-    *   0,0951
-
-    *   0,0713
-
-    *   0,0535
 
     *   0,0403
 
@@ -28649,18 +26279,16 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
     *   0,0099
 
+    *   0,0075
+
+    *   0,0057
+
+    *   0,0043
+
+    *   0,0033
+
 
 *    *   61
-
-    *   0,1648
-
-    *   0,1226
-
-    *   0,0914
-
-    *   0,0682
-
-    *   0,0510
 
     *   0,0382
 
@@ -28674,18 +26302,16 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
     *   0,0091
 
+    *   0,0069
+
+    *   0,0052
+
+    *   0,0039
+
+    *   0,0030
+
 
 *    *   62
-
-    *   0,1600
-
-    *   0,1185
-
-    *   0,0879
-
-    *   0,0653
-
-    *   0,0486
 
     *   0,0362
 
@@ -28699,18 +26325,16 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
     *   0,0085
 
+    *   0,0064
+
+    *   0,0048
+
+    *   0,0036
+
+    *   0,0027
+
 
 *    *   63
-
-    *   0,1553
-
-    *   0,1145
-
-    *   0,0845
-
-    *   0,0625
-
-    *   0,0462
 
     *   0,0343
 
@@ -28724,18 +26348,16 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
     *   0,0078
 
+    *   0,0059
+
+    *   0,0044
+
+    *   0,0033
+
+    *   0,0025
+
 
 *    *   64
-
-    *   0,1508
-
-    *   0,1106
-
-    *   0,0813
-
-    *   0,0598
-
-    *   0,0440
 
     *   0,0325
 
@@ -28749,18 +26371,16 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
     *   0,0073
 
+    *   0,0054
+
+    *   0,0040
+
+    *   0,0030
+
+    *   0,0022
+
 
 *    *   65
-
-    *   0,1464
-
-    *   0,1069
-
-    *   0,0781
-
-    *   0,0572
-
-    *   0,0419
 
     *   0,0308
 
@@ -28774,18 +26394,16 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
     *   0,0067
 
+    *   0,0050
+
+    *   0,0037
+
+    *   0,0027
+
+    *   0,0020
+
 
 *    *   66
-
-    *   0,1421
-
-    *   0,1033
-
-    *   0,0751
-
-    *   0,0547
-
-    *   0,0399
 
     *   0,0292
 
@@ -28799,18 +26417,16 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
     *   0,0062
 
+    *   0,0046
+
+    *   0,0034
+
+    *   0,0025
+
+    *   0,0019
+
 
 *    *   67
-
-    *   0,1380
-
-    *   0,0998
-
-    *   0,0722
-
-    *   0,0524
-
-    *   0,0380
 
     *   0,0277
 
@@ -28824,18 +26440,16 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
     *   0,0058
 
+    *   0,0042
+
+    *   0,0031
+
+    *   0,0023
+
+    *   0,0017
+
 
 *    *   68
-
-    *   0,1340
-
-    *   0,0964
-
-    *   0,0695
-
-    *   0,0501
-
-    *   0,0362
 
     *   0,0262
 
@@ -28849,18 +26463,16 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
     *   0,0053
 
+    *   0,0039
+
+    *   0,0029
+
+    *   0,0021
+
+    *   0,0015
+
 
 *    *   69
-
-    *   0,1301
-
-    *   0,0931
-
-    *   0,0668
-
-    *   0,0480
-
-    *   0,0345
 
     *   0,0249
 
@@ -28874,18 +26486,16 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
     *   0,0049
 
+    *   0,0036
+
+    *   0,0026
+
+    *   0,0019
+
+    *   0,0014
+
 
 *    *   70
-
-    *   0,1263
-
-    *   0,0900
-
-    *   0,0642
-
-    *   0,0459
-
-    *   0,0329
 
     *   0,0236
 
@@ -28899,18 +26509,16 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
     *   0,0046
 
+    *   0,0033
+
+    *   0,0024
+
+    *   0,0017
+
+    *   0,0013
+
 
 *    *   71
-
-    *   0,1226
-
-    *   0,0869
-
-    *   0,0617
-
-    *   0,0439
-
-    *   0,0313
 
     *   0,0223
 
@@ -28924,18 +26532,16 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
     *   0,0042
 
+    *   0,0031
+
+    *   0,0022
+
+    *   0,0016
+
+    *   0,0012
+
 
 *    *   72
-
-    *   0,1190
-
-    *   0,0840
-
-    *   0,0594
-
-    *   0,0420
-
-    *   0,0298
 
     *   0,0212
 
@@ -28949,18 +26555,16 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
     *   0,0039
 
+    *   0,0028
+
+    *   0,0020
+
+    *   0,0015
+
+    *   0,0010
+
 
 *    *   73
-
-    *   0,1156
-
-    *   0,0812
-
-    *   0,0571
-
-    *   0,0402
-
-    *   0,0284
 
     *   0,0201
 
@@ -28974,18 +26578,16 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
     *   0,0036
 
+    *   0,0026
+
+    *   0,0019
+
+    *   0,0013
+
+    *   0,0010
+
 
 *    *   74
-
-    *   0,1122
-
-    *   0,0784
-
-    *   0,0549
-
-    *   0,0385
-
-    *   0,0270
 
     *   0,0190
 
@@ -28999,18 +26601,16 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
     *   0,0034
 
+    *   0,0024
+
+    *   0,0017
+
+    *   0,0012
+
+    *   0,0009
+
 
 *    *   75
-
-    *   0,1089
-
-    *   0,0758
-
-    *   0,0528
-
-    *   0,0368
-
-    *   0,0258
 
     *   0,0180
 
@@ -29024,18 +26624,16 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
     *   0,0031
 
+    *   0,0022
+
+    *   0,0016
+
+    *   0,0011
+
+    *   0,0008
+
 
 *    *   76
-
-    *   0,1058
-
-    *   0,0732
-
-    *   0,0508
-
-    *   0,0353
-
-    *   0,0245
 
     *   0,0171
 
@@ -29049,18 +26647,16 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
     *   0,0029
 
+    *   0,0020
+
+    *   0,0014
+
+    *   0,0010
+
+    *   0,0007
+
 
 *    *   77
-
-    *   0,1027
-
-    *   0,0707
-
-    *   0,0488
-
-    *   0,0337
-
-    *   0,0234
 
     *   0,0162
 
@@ -29074,18 +26670,16 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
     *   0,0027
 
+    *   0,0019
+
+    *   0,0013
+
+    *   0,0009
+
+    *   0,0006
+
 
 *    *   78
-
-    *   0,0997
-
-    *   0,0683
-
-    *   0,0469
-
-    *   0,0323
-
-    *   0,0222
 
     *   0,0154
 
@@ -29099,18 +26693,16 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
     *   0,0025
 
+    *   0,0017
+
+    *   0,0012
+
+    *   0,0008
+
+    *   0,0006
+
 
 *    *   79
-
-    *   0,0968
-
-    *   0,0660
-
-    *   0,0451
-
-    *   0,0309
-
-    *   0,0212
 
     *   0,0146
 
@@ -29124,18 +26716,16 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
     *   0,0023
 
+    *   0,0016
+
+    *   0,0011
+
+    *   0,0008
+
+    *   0,0005
+
 
 *    *   80
-
-    *   0,0940
-
-    *   0,0638
-
-    *   0,0434
-
-    *   0,0296
-
-    *   0,0202
 
     *   0,0138
 
@@ -29149,18 +26739,16 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
     *   0,0021
 
+    *   0,0015
+
+    *   0,0010
+
+    *   0,0007
+
+    *   0,0005
+
 
 *    *   81
-
-    *   0,0912
-
-    *   0,0616
-
-    *   0,0417
-
-    *   0,0283
-
-    *   0,0192
 
     *   0,0131
 
@@ -29174,18 +26762,16 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
     *   0,0020
 
+    *   0,0013
+
+    *   0,0009
+
+    *   0,0006
+
+    *   0,0004
+
 
 *    *   82
-
-    *   0,0886
-
-    *   0,0596
-
-    *   0,0401
-
-    *   0,0271
-
-    *   0,0183
 
     *   0,0124
 
@@ -29199,18 +26785,16 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
     *   0,0018
 
+    *   0,0012
+
+    *   0,0009
+
+    *   0,0006
+
+    *   0,0004
+
 
 *    *   83
-
-    *   0,0860
-
-    *   0,0575
-
-    *   0,0386
-
-    *   0,0259
-
-    *   0,0174
 
     *   0,0118
 
@@ -29224,18 +26808,16 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
     *   0,0017
 
+    *   0,0011
+
+    *   0,0008
+
+    *   0,0005
+
+    *   0,0004
+
 
 *    *   84
-
-    *   0,0835
-
-    *   0,0556
-
-    *   0,0371
-
-    *   0,0248
-
-    *   0,0166
 
     *   0,0111
 
@@ -29249,18 +26831,16 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
     *   0,0016
 
+    *   0,0011
+
+    *   0,0007
+
+    *   0,0005
+
+    *   0,0003
+
 
 *    *   85
-
-    *   0,0811
-
-    *   0,0537
-
-    *   0,0357
-
-    *   0,0237
-
-    *   0,0158
 
     *   0,0106
 
@@ -29274,18 +26854,16 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
     *   0,0014
 
+    *   0,0010
+
+    *   0,0007
+
+    *   0,0004
+
+    *   0,0003
+
 
 *    *   86
-
-    *   0,0787
-
-    *   0,0519
-
-    *   0,0343
-
-    *   0,0227
-
-    *   0,0151
 
     *   0,0100
 
@@ -29299,18 +26877,16 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
     *   0,0013
 
+    *   0,0009
+
+    *   0,0006
+
+    *   0,0004
+
+    *   0,0003
+
 
 *    *   87
-
-    *   0,0764
-
-    *   0,0501
-
-    *   0,0330
-
-    *   0,0217
-
-    *   0,0143
 
     *   0,0095
 
@@ -29324,18 +26900,16 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
     *   0,0012
 
+    *   0,0008
+
+    *   0,0006
+
+    *   0,0004
+
+    *   0,0003
+
 
 *    *   88
-
-    *   0,0742
-
-    *   0,0484
-
-    *   0,0317
-
-    *   0,0208
-
-    *   0,0137
 
     *   0,0090
 
@@ -29349,18 +26923,16 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
     *   0,0011
 
+    *   0,0008
+
+    *   0,0005
+
+    *   0,0003
+
+    *   0,0002
+
 
 *    *   89
-
-    *   0,0720
-
-    *   0,0468
-
-    *   0,0305
-
-    *   0,0199
-
-    *   0,0130
 
     *   0,0085
 
@@ -29374,18 +26946,16 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
     *   0,0011
 
+    *   0,0007
+
+    *   0,0005
+
+    *   0,0003
+
+    *   0,0002
+
 
 *    *   90
-
-    *   0,0699
-
-    *   0,0452
-
-    *   0,0293
-
-    *   0,0190
-
-    *   0,0124
 
     *   0,0081
 
@@ -29399,18 +26969,16 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
     *   0,0010
 
+    *   0,0006
+
+    *   0,0004
+
+    *   0,0003
+
+    *   0,0002
+
 
 *    *   91
-
-    *   0,0679
-
-    *   0,0437
-
-    *   0,0282
-
-    *   0,0182
-
-    *   0,0118
 
     *   0,0077
 
@@ -29424,18 +26992,16 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
     *   0,0009
 
+    *   0,0006
+
+    *   0,0004
+
+    *   0,0003
+
+    *   0,0002
+
 
 *    *   92
-
-    *   0,0659
-
-    *   0,0422
-
-    *   0,0271
-
-    *   0,0174
-
-    *   0,0112
 
     *   0,0073
 
@@ -29449,18 +27015,16 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
     *   0,0008
 
+    *   0,0006
+
+    *   0,0004
+
+    *   0,0002
+
+    *   0,0002
+
 
 *    *   93
-
-    *   0,0640
-
-    *   0,0408
-
-    *   0,0261
-
-    *   0,0167
-
-    *   0,0107
 
     *   0,0069
 
@@ -29474,18 +27038,16 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
     *   0,0008
 
+    *   0,0005
+
+    *   0,0003
+
+    *   0,0002
+
+    *   0,0001
+
 
 *    *   94
-
-    *   0,0621
-
-    *   0,0394
-
-    *   0,0251
-
-    *   0,0160
-
-    *   0,0102
 
     *   0,0065
 
@@ -29499,18 +27061,16 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
     *   0,0007
 
+    *   0,0005
+
+    *   0,0003
+
+    *   0,0002
+
+    *   0,0001
+
 
 *    *   95
-
-    *   0,0603
-
-    *   0,0381
-
-    *   0,0241
-
-    *   0,0153
-
-    *   0,0097
 
     *   0,0062
 
@@ -29524,18 +27084,16 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
     *   0,0007
 
+    *   0,0004
+
+    *   0,0003
+
+    *   0,0002
+
+    *   0,0001
+
 
 *    *   96
-
-    *   0,0586
-
-    *   0,0368
-
-    *   0,0232
-
-    *   0,0146
-
-    *   0,0092
 
     *   0,0059
 
@@ -29549,18 +27107,16 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
     *   0,0006
 
+    *   0,0004
+
+    *   0,0003
+
+    *   0,0002
+
+    *   0,0001
+
 
 *    *   97
-
-    *   0,0569
-
-    *   0,0355
-
-    *   0,0223
-
-    *   0,0140
-
-    *   0,0088
 
     *   0,0056
 
@@ -29574,18 +27130,16 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
     *   0,0006
 
+    *   0,0004
+
+    *   0,0002
+
+    *   0,0002
+
+    *   0,0001
+
 
 *    *   98
-
-    *   0,0552
-
-    *   0,0343
-
-    *   0,0214
-
-    *   0,0134
-
-    *   0,0084
 
     *   0,0053
 
@@ -29599,18 +27153,16 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
     *   0,0005
 
+    *   0,0003
+
+    *   0,0002
+
+    *   0,0001
+
+    *   0,0001
+
 
 *    *   99
-
-    *   0,0536
-
-    *   0,0332
-
-    *   0,0206
-
-    *   0,0128
-
-    *   0,0080
 
     *   0,0050
 
@@ -29624,18 +27176,16 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
     *   0,0005
 
+    *   0,0003
+
+    *   0,0002
+
+    *   0,0001
+
+    *   0,0001
+
 
 *    *   100
-
-    *   0,0520
-
-    *   0,0321
-
-    *   0,0198
-
-    *   0,0123
-
-    *   0,0076
 
     *   0,0047
 
@@ -29649,32 +27199,29 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
     *   0,0005
 
+    *   0,0003
+
+    *   0,0002
+
+    *   0,0001
+
+    *   0,0001
 
 
-In den Fällen anderer Zinssätze der Gutachterausschüsse ist der
-Abzinsungsfaktor nach folgender Formel zu bilden:
 
+Berechnungsformel für die der Tabelle nicht zu entnehmenden
+Abzinsungsfaktoren (Barwertfaktoren für die Abzinsung):
 
-*    *   Abzinsungsfaktor =
+Abzinsungsfaktor =
+![bgbl1_2024_j03870_0030.jpg](bgbl1_2024_j03870_0030.jpg)
+q = 1 + Zinssatz, wobei Zinssatz =
+![bgbl1_2024_j03870_0040.jpg](bgbl1_2024_j03870_0040.jpg)
+p = Zinsfuß
 
-    *
-    *
-    *   q = Zinsfaktor = 1 + p : 100
+n = Restnutzungsdauer / Restlaufzeit
 
-
-*    *   1
-
-    *
-    *   p = Zinssatz
-
-
-*    *   q
-        n
-
-    *
-    *   n = Restlaufzeit
-
-
+Das jeweilige Berechnungsergebnis ist kaufmännisch auf vier
+Nachkommastellen zu runden.
 
 (zu § 237 Absatz 2)
 

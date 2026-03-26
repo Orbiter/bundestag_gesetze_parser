@@ -17,7 +17,7 @@ Fundstelle
 
 Stand: Ersetzt G 602-2 v. 16.8.2002 I 3202 (ZFdG)
 Zuletzt geändert durch
-:   Art. 7 G v. 19.12.2022 I 2632
+:   Art. 5 G v. 10.2.2026 I Nr. 39
 
 Dieses Gesetzes dient der Umsetzung der Richtlinie (EU) 2016/680 des
 Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz
@@ -166,11 +166,16 @@ Behörden der Zollverwaltung
 
 
 
-2.  für den Zollfahndungsdienst mit Verbänden und Institutionen und
+2.  für den Zollfahndungsdienst mit Verbänden und Institutionen,
 
 
 3.  mit den für den Staatsschutz zuständigen Stellen des Bundes und der
-    Länder,
+    Länder und
+
+
+4.  für die Behörden der Zollverwaltung für Auskünfte an andere
+    öffentliche Stellen zu dort durchgeführten Zuverlässigkeits- und
+    Sicherheitsüberprüfungen,
 
 
 
@@ -182,27 +187,19 @@ für Zwecke des Risikomanagements im Sinne des Absatzes 2 aus. Hierfür
 unterhält das Zollkriminalamt Informationssysteme nach Maßgabe
 internationaler Vereinbarungen und anderer Rechtsvorschriften.
 
-(8) Das Bundesministerium der Finanzen kann dem Zollkriminalamt
-Aufgaben übertragen bei der Anwendung des Rahmenbeschlusses
-2006/960/JI des Rates vom 18. Dezember 2006 über die Vereinfachung des
-Austauschs von Informationen und Erkenntnissen zwischen den
-Strafverfolgungsbehörden der Mitgliedstaaten der Europäischen Union
-(ABl. L 386 vom 29.12.2006, S. 89; L 75 vom 15.3.2007, S. 26). Die
-Übertragung bedarf des Einvernehmens aller obersten Finanzbehörden der
-Länder. Übertragbar sind Aufgaben zur Unterstützung des
-Geschäftsverkehrs zwischen
-
-1.  den mit der Steuerfahndung betrauten Dienststellen der
-    Landesfinanzbehörden und den Polizeibehörden oder
-
-
-2.  sonstigen für die Verhütung und Verfolgung von Straftaten zuständigen
-    Stellen eines Mitgliedstaates der Europäischen Union oder eines
-    Schengenassoziierten Staates im Sinne des § 91 Absatz 3 des Gesetzes
-    über die internationale Rechtshilfe in Strafsachen.
-
-
-
+(8) Das Zollkriminalamt ist benannte Strafverfolgungsbehörde gemäß
+Artikel 2 Absatz 2 der Richtlinie (EU) 2023/977. Absatz 7 bleibt
+unberührt. Das Zollkriminalamt hat der für die Bundesrepublik
+Deutschland gemäß Artikel 4 der Richtlinie (EU) 2023/977 benannten
+zentralen Kontaktstelle nach Maßgabe der entsprechend anzuwendenden
+§§ 117c und 117h der Abgabenordnung Informationen zu übermitteln,
+soweit dies zur Erfüllung der Aufgaben als zentrale Kontaktstelle
+gemäß Artikel 14 Absatz 2 der Richtlinie (EU) 2023/977 notwendig ist.
+Für ausgehende Ersuchen des Zollkriminalamtes um Übermittlung von
+Informationen einschließlich personenbezogener Daten zur Verfolgung
+von Straftaten an die zentralen Kontaktstellen anderer Mitgliedstaaten
+gelten die §§ 92f und 92g des Gesetzes über die internationale
+Rechtshilfe in Strafsachen. Im Übrigen gelten die §§ 24 und 24a.
 
 (9) Das Zollkriminalamt legt als Zentralstelle für den
 Zollfahndungsdienst angemessene technische und organisatorische
@@ -230,6 +227,32 @@ Absätzen 1 bis 7 und nach Absatz 9 sowie nach den §§ 4, 6 und 7
 (12) Das Zollkriminalamt kann auf Ersuchen von Finanzbehörden,
 Staatsanwaltschaften und Gerichten kriminaltechnische Gutachten
 erstellen.
+
+(13) Dem Zollkriminalamt obliegt es, als nationale Zentralstelle auf
+dem Gebiet der strafrechtlichen Sanktionsdurchsetzung darauf
+hinzuwirken, dass sich Strafverfolgungsbehörden und die für die
+Durchsetzung der vom Rat der Europäischen Union im Bereich der
+Gemeinsamen Außen- und Sicherheitspolitik beschlossenen
+wirtschaftlichen Sanktionsmaßnahmen zuständigen Behörden im Rahmen
+ihrer jeweiligen Zuständigkeiten und Befugnisse in Bezug auf das
+Sanktionsstrafrecht koordinieren und zusammenarbeiten. Dies umfasst
+insbesondere, dass die nationale Zentralstelle
+
+1.  auf die Verständigung über gemeinsame Prioritäten und auf ein
+    gemeinsames Verständnis der Verbindung zwischen strafrechtlicher und
+    verwaltungsrechtlicher Durchsetzung hinwirkt,
+
+
+2.  für strategische Zwecke der Auswertung und Analyse von Erkenntnissen
+    aus strafrechtlichen Ermittlungen den Informationsaustausch der
+    ermittlungsführenden Behörden im Rahmen ihrer jeweiligen Befugnisse
+    fördert und
+
+
+3.  bei einzelnen strafrechtlichen Ermittlungen berät.
+
+
+
 
 
 ### § 4 Verhütung und Verfolgung von Straftaten und Ordnungswidrigkeiten durch das Zollkriminalamt
@@ -493,18 +516,28 @@ privaten Rechts entsprechend.
 
 
 
+4.  auf dem Gebiet strafrechtlicher Sanktionsdurchsetzung auf die
+    Koordinierung und Zusammenarbeit der Strafverfolgungsbehörden und der
+    für die Durchsetzung der vom Rat der Europäischen Union im Bereich der
+    Gemeinsamen Außen- und Sicherheitspolitik beschlossenen
+    wirtschaftlichen Sanktionsmaßnahmen zuständigen Behörden im Rahmen
+    ihrer jeweiligen Zuständigkeit und Befugnisse in Bezug auf das
+    Sanktionsstrafrecht hinwirkt (§ 3 Absatz 13),
+
+
 
 Auskunft verlangen von demjenigen, der geschäftsmäßig
 Telekommunikationsdienste erbringt oder daran mitwirkt, über
 Bestandsdaten gemäß § 3 Nummer 6 des Telekommunikationsgesetzes und
 über die nach § 172 des Telekommunikationsgesetzes erhobenen Daten (§
 174 Absatz 1 Satz 1 des Telekommunikationsgesetzes), und von
-demjenigen, der geschäftsmäßig eigene oder fremde Telemedien zur
-Nutzung bereithält oder den Zugang zur Nutzung vermittelt, über
-Bestandsdaten gemäß § 2 Absatz 2 Nummer 2 des Telekommunikation-
-Telemedien-Datenschutz-Gesetzes (§ 22 Absatz 1 Satz 1 des
-Telekommunikation-Telemedien-Datenschutz-Gesetzes). Die Auskunft nach
-Satz 1 darf nur verlangt werden, sofern
+demjenigen, der geschäftsmäßig eigene oder fremde digitale Dienste
+nach § 1 Absatz 4 Nummer 1 des Digitale-Dienste-Gesetzes zur Nutzung
+bereithält oder den Zugang zur Nutzung vermittelt, über Bestandsdaten
+gemäß § 2 Absatz 2 Nummer 2 des Telekommunikation-Digitale-Dienste-
+Datenschutz-Gesetzes (§ 22 Absatz 1 Satz 1 des Telekommunikation-
+Telemedien-Datenschutz-Gesetzes). Die Auskunft nach Satz 1 darf nur
+verlangt werden, sofern
 
 1.  im Einzelfall zureichende tatsächliche Anhaltspunkte für eine Straftat
     vorliegen und die zu erhebenden Daten erforderlich sind,
@@ -587,8 +620,8 @@ gesetzlichen Voraussetzungen für die Nutzung der Daten vorliegen.
 einem bestimmten Zeitpunkt zugewiesenen Internetprotokoll-Adresse
 verlangt werden (§ 174 Absatz 1 Satz 3, § 177 Absatz 1 Nummer 3 des
 Telekommunikationsgesetzes und § 22 Absatz 1 Satz 3 und 4 des
-Telekommunikation-Telemedien-Datenschutz-Gesetzes). Dies gilt in den
-Fällen von
+Telekommunikation-Digitale-Dienste-Datenschutz-Gesetzes). Dies gilt in
+den Fällen von
 
 1.  Absatz 1 Satz 2 Nummer 2 Buchstabe a nur zum Schutz von Leib, Leben,
     Freiheit sowie sexueller Selbstbestimmung der Person, dem Bestand und
@@ -613,12 +646,12 @@ Fällen von
 
 Die Auskunft nach Absatz 1 anhand einer zu einem bestimmten Zeitpunkt
 zugewiesenen Internetprotokoll-Adresse nach § 22 Absatz 1 Satz 3 und 4
-des Telekommunikation-Telemedien-Datenschutz-Gesetzes darf darüber
-hinaus nur verlangt werden, wenn tatsächliche Anhaltspunkte dafür
-vorliegen, dass die betroffene Person Nutzer des Telemediendienstes
-ist, bei dem die Daten erhoben werden sollen. Die rechtlichen und
-tatsächlichen Grundlagen des Auskunftsverlangens sind aktenkundig zu
-machen.
+des Telekommunikation-Digitale-Dienste-Datenschutz-Gesetzes darf
+darüber hinaus nur verlangt werden, wenn tatsächliche Anhaltspunkte
+dafür vorliegen, dass die betroffene Person Nutzer des digitalen
+Dienstes ist, bei dem die Daten erhoben werden sollen. Die rechtlichen
+und tatsächlichen Grundlagen des Auskunftsverlangens sind aktenkundig
+zu machen.
 
 (4) Auskunftsverlangen nach Absatz 2 dürfen nur auf Antrag der Leitung
 oder der stellvertretenden Leitung des Zollkriminalamtes durch das
@@ -641,7 +674,7 @@ zu übermitteln.
 ##### § 11 Daten zu Verurteilten, Beschuldigten, Tatverdächtigen und sonstigen Anlasspersonen
 
 (1) Das Zollkriminalamt kann zur Erfüllung seiner Aufgaben nach § 3
-Absatz 1, 2 und 4, jeweils auch in Verbindung mit § 3 Absatz 11,
+Absatz 1, 2, 4 und 13, jeweils auch in Verbindung mit § 3 Absatz 11,
 personenbezogene Daten weiterverarbeiten von
 
 1.  Verurteilten,
@@ -761,7 +794,7 @@ wenn
 (1) Soweit dies zur Verhütung oder zur Vorsorge für die künftige
 Verfolgung einer Straftat mit erheblicher Bedeutung erforderlich ist,
 kann das Zollkriminalamt zur Erfüllung seiner Aufgaben nach § 3 Absatz
-1, 2 und 4, jeweils auch in Verbindung mit § 3 Absatz 11,
+1, 2, 4 und 13, jeweils auch in Verbindung mit § 3 Absatz 11,
 personenbezogene Daten von denjenigen Personen weiterverarbeiten, bei
 denen tatsächliche Anhaltspunkte dafür vorliegen, dass
 
@@ -807,9 +840,9 @@ Absatz 1 oder Absatz 2 erfüllt.
 
 ##### § 13 Daten zur Beobachtung bestimmter Verkehre
 
-Das Zollkriminalamt kann, soweit es zur Erfüllung seiner Aufgaben nach
-§ 3 Absatz 1 und 2, jeweils auch in Verbindung mit § 3 Absatz 11,
-erforderlich ist, personenbezogene Daten von Personen, die am
+(1) Das Zollkriminalamt kann, soweit es zur Erfüllung seiner Aufgaben
+nach § 3 Absatz 1, 2 und 13, jeweils auch in Verbindung mit § 3 Absatz
+11, erforderlich ist, personenbezogene Daten von Personen, die am
 innerstaatlichen, grenzüberschreitenden und internationalen Waren-,
 Kapital- und Dienstleistungsverkehr teilnehmen, verarbeiten. Das
 Zollkriminalamt kann hierzu verarbeiten:
@@ -829,9 +862,186 @@ der Zollverwaltung gespeichert sind, ist, mit Ausnahme von
 personenbezogenen Daten zur Bekämpfung der Schwarzarbeit und der
 illegalen Beschäftigung, zulässig, soweit die Verarbeitung zur
 Erfüllung der Aufgaben des Zollkriminalamtes nach § 3 Absatz 1 und 2,
-jeweils auch in Verbindung mit § 3 Absatz 11, erforderlich ist. § 88a
-der Abgabenordnung und § 67b des Zehnten Buches Sozialgesetzbuch
-bleiben unberührt.
+jeweils auch in Verbindung mit § 3 Absatz 11, erforderlich ist; § 30
+der Abgabenordnung steht einer Zweckänderung nicht entgegen. § 88a der
+Abgabenordnung und § 67b des Zehnten Buches Sozialgesetzbuch bleiben
+unberührt.
+
+(2) Das Zollkriminalamt darf bei der Verarbeitung personenbezogener
+Daten nach Absatz 1 zur Erfüllung seiner Aufgabe nach § 3 Absatz 2
+automationsgestützte Systeme einsetzen
+
+1.  zur Identifikation von Beteiligten und
+
+
+2.  bei der Bearbeitung von Verwaltungsvorgängen im Einzelfall zur
+    Bewertung des Risikos, dass die von Beteiligten gemachten oder
+    unterlassenen Angaben oder die den Beteiligten zuzurechnenden
+    Informationen von den tatsächlichen Gegebenheiten abweichen
+    (Vorgangsrisiko).
+
+
+
+
+(3) Eine Risikobewertung der beteiligten Personen über den zu
+bewertenden Einzelfall hinaus ist unzulässig. Folgende
+personenbezogene Daten dürfen in automationsgestützten Systemen nach
+Absatz 2 nicht verarbeitet werden:
+
+1.  besondere Kategorien personenbezogener Daten gemäß § 46 Nummer 14 des
+    Bundesdatenschutzgesetzes und nach Artikel 9 Absatz 1 der Verordnung
+    (EU) 2016/679 in der Fassung vom 27. April 2016,
+
+
+2.  Daten, die ursprünglich durch den Bundesnachrichtendienst, das
+    Bundesamt für Verfassungsschutz, die Verfassungsschutzbehörden der
+    Länder oder den Militärischen Abschirmdienst erhoben wurden,
+
+
+3.  Daten, die aus Maßnahmen nach den §§ 99, 100a bis 100c oder 100f bis
+    100i, 100k Absatz 1 Satz 2, § 110a oder 163f der Strafprozessordnung
+    erlangt wurden,
+
+
+4.  Daten, die aus Maßnahmen nach den §§ 47, 62, 72, 77 und 78 erlangt
+    wurden und
+
+
+5.  Daten aus Maßnahmen, die einen vergleichbar schwerwiegenden Eingriff
+    darstellen wie die in den Nummern 3 und 4 genannten Maßnahmen.
+
+
+
+Personenbezogene Daten aus allgemein zugänglichen Quellen und
+geschützten Bereichen sozialer Netzwerke dürfen nicht automatisiert in
+die Verarbeitung einbezogen werden.
+
+(4) Folgende Datenarten von am Vorgang beteiligten natürlichen oder
+juristischen Personen dürfen mittels automationsgestützter Systeme
+nach Absatz 2 verarbeitet werden:
+
+1.  zur Identifikation von Beteiligten
+
+    a)  Namen,
+
+
+    b)  Adressen,
+
+
+    c)  Geburtstag,
+
+
+    d)  Geburtsort,
+
+
+    e)  Geburtsland,
+
+
+    f)  Gründungsdatum,
+
+
+    g)  Zuordnung zu einer Kennzeichnung oder Legitimationsdokumente
+        einschließlich der ausstellenden öffentlichen Stelle,
+
+
+    h)  Telekommunikationsanschlüsse,
+
+
+    i)  Adressen für elektronische Post,
+
+
+    j)  Kontodaten,
+
+
+
+
+
+2.  zur Bewertung des Vorgangsrisikos
+
+    a)  Anmelde- oder Antragsdaten,
+
+
+    b)  Art und Häufigkeit von Anmeldungen und Anträgen,
+
+
+    c)  Urkunden,
+
+
+    d)  Feststellungen aus zurückliegenden Anmeldungen, Anträgen oder
+        Entscheidungen,
+
+
+    e)  Erkenntnisse aus Kontrollen, Steueraufsichtsmaßnahmen, Außenprüfungen,
+        Zahlungsverhalten, Vollstreckungsmaßnahmen, strafrechtliche
+        Erkenntnisse oder Erkenntnisse aus Ordnungswidrigkeitenverfahren sowie
+        Erlaubnisse, Zulassungen oder Bewilligungen, einschließlich deren
+        Änderung, Widerruf oder Aussetzung, sofern und soweit sich hieraus
+        Erkenntnisse eines erhöhten oder verringerten Vorgangsrisikos ergeben
+        können.
+
+
+
+
+
+
+
+(5) Durch den Einsatz automationsgestützter Systeme nach Absatz 2
+können durch die Zollverwaltung im Einzelfall zu bearbeitende
+Verwaltungsvorgänge unter Verwendung der Datenarten nach Absatz 4
+Nummer 2 hinsichtlich des Vorgangsrisikos bewertet werden. Zu diesem
+Zweck kann anlässlich eines Verwaltungsvorgangs für jeden Beteiligten
+das Risiko, dass die von ihm gemachten oder unterlassenen Angaben oder
+die ihm zuzurechnenden Informationen von den tatsächlichen
+Gegebenheiten abweichen (Beteiligtenrisiko), anhand der zu ihm
+vorliegenden Daten nach Absatz 4 Nummer 2 bewertet werden. Das
+Vorgangsrisiko wird für jeden angefragten Vorgang anhand des
+Beteiligtenrisikos aller Beteiligten ermittelt und nach § 3 Absatz 11
+den Behörden der Zollverwaltung mitgeteilt. Liegt ein erhebliches
+Vorgangsrisiko vor, scheidet eine automatisierte Verarbeitung des
+Verwaltungsvorgangs im Zielsystem aus. Auf die automationsgestützten
+Systeme ist § 88 Absatz 5 Satz 3 der Abgabenordnung entsprechend
+anzuwenden.
+
+(6) Das Zollkriminalamt darf zur Unterstützung der
+automationsgestützten Systeme nach Absatz 2 selbstlernende Systeme
+einsetzen. Das Anlernen der in Satz 1 genannten Systeme erfolgt auf
+Grundlage der Daten nach Absatz 4. Dabei gewährleistet das
+Zollkriminalamt, dass diese Systeme ausschließlich Vorschläge zur
+Anpassung oder Berechnung von Risiken erstellen. Diese Vorschläge sind
+vom Zollkriminalamt auf ihre Eignung zu überprüfen. Geeignet sind die
+Vorschläge nur dann, wenn sie nicht auf diskriminierenden oder
+verzerrenden Algorithmen beruhen. Entscheidungen über die Festlegung
+von Parametern zur Risikobewertung sind zu begründen. Der Einsatz
+automatisierter Systeme, die eigenständig Gefährlichkeitsaussagen über
+Personen treffen können, ist unzulässig.
+
+(7) Die Daten in den automationsgestützten Systemen nach Absatz 2 sind
+spätestens ein Jahr nach Ablauf des Kalenderjahres, in dem der
+Verwaltungsvorgang im Sinne des § 13 Absatz 2 Nummer 2 abgeschlossen
+wurde, zu löschen. Daten, die zu keinem Vorgangsrisiko führen, sind
+unverzüglich nach der maschinellen Risikobewertung in dem
+automationsgestützten System zu löschen.
+
+(8) Das Zollkriminalamt stellt durch organisatorische und technische
+Maßnahmen sicher, dass Daten nur gemäß ihrer rechtlichen
+Verwendbarkeit verarbeitet werden. Hierbei sind auch Begrenzungen der
+Zugriffsmöglichkeiten auf die automationsgestützten Systeme
+vorzusehen. Insbesondere ist sicherzustellen, dass ein Zugriff nur von
+einzelnen, entsprechend qualifizierten Bediensteten zur Erstellung und
+Pflege des Systems erfolgen kann. § 76 des Bundesdatenschutzgesetzes
+ist entsprechend anzuwenden.
+
+(9) Das Bundesministerium der Finanzen legt die Kriterien und
+Kategorien für die zu verarbeitenden Datenarten nach Absatz 4 Nummer
+2, die Datenarten und Datenquellen nach Absatz 6 sowie die
+Bewertungsmethoden nach Absatz 5 Satz 2 in einer Verwaltungsvorschrift
+fest. Die oder der Bundesbeauftragte für den Datenschutz und die
+Informationsfreiheit ist vor Erlass einer Verwaltungsvorschrift
+anzuhören. Die Verwaltungsvorschrift ist in der jeweils aktuellen
+Fassung im Bundesanzeiger zu veröffentlichen. Einzelheiten der
+Risikomanagementsysteme dürfen nicht veröffentlicht werden, soweit
+dies die Gleichmäßigkeit und Gesetzmäßigkeit der Besteuerung
+gefährdet.
 
 
 ##### § 14 Daten für Zwecke der Ausschreibung
@@ -1311,29 +1521,36 @@ eines Schengenassoziierten Staates (§ 91 Absatz 3 des Gesetzes über
 die internationale Rechtshilfe in Strafsachen).
 
 
-##### § 23 Datenübermittlung im internationalen Bereich
+##### § 22a Datenübermittlung im internationalen Bereich
 
 (1) Das Zollkriminalamt kann unter Beachtung der §§ 78 bis 80 des
-Bundesdatenschutzgesetzes an
-Zoll-,              Polizei- und Justizbehörden sowie an sonstige für
-die Verhütung oder Verfolgung von Straftaten zuständige öffentliche
-Stellen in anderen als in den in § 22 genannten Staaten sowie an
-andere als die in § 22 genannten zwischen- und überstaatlichen
-Stellen, die mit Aufgaben der Verhütung oder Verfolgung von Straftaten
-befasst sind, personenbezogene Daten übermitteln, soweit dies
-erforderlich ist
+Bundesdatenschutzgesetzes an Zoll-, Polizei- und Justizbehörden sowie
+an sonstige für die Verhütung oder Verfolgung von Straftaten
+zuständige öffentliche Stellen in anderen als in den in § 22 genannten
+Staaten sowie an andere als die in § 22 genannten zwischen- und
+überstaatlichen Stellen, die mit Aufgaben der Verhütung oder
+Verfolgung von Straftaten befasst sind, personenbezogene Daten
+übermitteln, soweit dies
 
-1.  zur Erfüllung einer ihm obliegenden Aufgabe,
-
-
-2.  zur Verfolgung von Straftaten und zur Strafvollstreckung nach Maßgabe
-    der Vorschriften über die internationale Rechtshilfe in
-    strafrechtlichen Angelegenheiten oder nach Maßgabe der Vorschriften
-    über die Zusammenarbeit mit dem Internationalen Strafgerichtshof oder
+1.  in anderen Rechtsvorschriften vorgesehen ist oder
 
 
-3.  zur Abwehr einer im Einzelfall bestehenden erheblichen Gefahr für die
-    öffentliche Sicherheit.
+2.  erforderlich ist
+
+    a)  zur Erfüllung einer ihm obliegenden Aufgabe,
+
+
+    b)  zur Verfolgung von Straftaten und zur Strafvollstreckung nach Maßgabe
+        der Vorschriften über die internationale Rechtshilfe in
+        strafrechtlichen Angelegenheiten oder nach Maßgabe der Vorschriften
+        über die Zusammenarbeit mit dem Internationalen Strafgerichtshof oder
+
+
+    c)  zur Abwehr einer im Einzelfall bestehenden erheblichen Gefahr für die
+        öffentliche Sicherheit.
+
+
+
 
 
 
@@ -1388,7 +1605,7 @@ dürfen, zu dem sie übermittelt worden sind. Ferner hat es der Stelle
 den beim Zollkriminalamt vorgesehenen Löschungszeitpunkt mitzuteilen.
 
 
-##### § 24 Übermittlungsverbote und Verweigerungsgründe
+##### § 23 Übermittlungsverbote und Verweigerungsgründe
 
 (1) Die Übermittlung personenbezogener Daten nach diesem
 Unterabschnitt unterbleibt, wenn
@@ -1439,10 +1656,117 @@ hinaus, wenn
 
 
 
-#### Unterabschnitt 3 - Steuerungsbefugnis der Zentralstelle
+#### Unterabschnitt 3 - Ausgehende Ersuchen des Zollkriminalamtes als benannte Strafverfolgungsbehörde nach Artikel 2 Absatz 2 der Richtlinie (EU) 2023/977
 
 
-##### § 25 Weisungsrecht
+##### § 24 Ersuchen an eine zentrale Kontaktstelle eines anderen Mitgliedstaates der Europäischen Union um Übermittlung von Informationen einschließlich personenbezogener Daten
+
+(1) Als benannte Strafverfolgungsbehörde nach Artikel 2 Absatz 2 der
+Richtlinie (EU) 2023/977 darf das Zollkriminalamt Ersuchen um
+Übermittlung von Informationen einschließlich personenbezogener Daten
+an eine nach Artikel 14 der Richtlinie (EU) 2023/977 benannte zentrale
+Kontaktstelle eines anderen Mitgliedstaates der Europäischen Union zum
+Zweck der Verhütung von Straftaten richten.
+
+(2) Ein Ersuchen nach Absatz 1 setzt objektive Anhaltspunkte dafür
+voraus, dass
+
+1.  die Übermittlung der Information zum Zweck der Verhütung einer
+    Straftat erforderlich und verhältnismäßig ist und
+
+
+2.  die angeforderten Informationen dem anderen Mitgliedstaat der
+    Europäischen Union zur Verfügung stehen.
+
+
+
+
+(3) Bei einem Ersuchen nach Absatz 1 ist anzugeben, ob das Ersuchen
+dringend ist, und bei Dringlichkeit sind die Gründe für diese zu
+nennen. Ein Informationsersuchen gilt als dringend, wenn unter
+Berücksichtigung aller relevanten Tatsachen und Umstände des
+betreffenden Sachverhaltes objektive Anhaltspunkte dafür vorliegen,
+dass
+
+1.  die angeforderten Informationen unerlässlich sind zur Abwehr einer
+    unmittelbaren und ernsthaften Gefahr für die öffentliche Sicherheit
+    eines Mitgliedstaates der Europäischen Union,
+
+
+2.  die angeforderten Informationen erforderlich sind, um eine
+    unmittelbare Gefahr für das Leben oder die körperliche Unversehrtheit
+    einer Person abzuwenden,
+
+
+3.  die angeforderten Informationen erforderlich sind für den Erlass eines
+    Beschlusses, der die Aufrechterhaltung restriktiver Maßnahmen bis hin
+    zu einem Freiheitsentzug umfassen könnte, oder
+
+
+4.  die unmittelbare Gefahr besteht, dass die Informationen an Relevanz
+    verlieren, wenn sie nicht umgehend zur Verfügung gestellt werden, und
+    die Informationen als wichtig für die Untersuchung von Straftaten
+    anzusehen sind.
+
+
+
+
+(4) Im Übrigen muss ein Ersuchen nach Absatz 1 Angaben zu Folgendem
+enthalten:
+
+1.  eine Präzisierung der angeforderten Informationen, die so detailliert
+    ist, wie dies unter den gegebenen Umständen in angemessener Weise
+    möglich ist,
+
+
+2.  die Beschreibung des Sachverhaltes der dem Ersuchen zugrunde liegenden
+    Straftat,
+
+
+3.  die Benennung des Zwecks, zu dem die Informationen erbeten werden,
+
+
+4.  Einzelheiten zur Identität der betroffenen Person, sofern sich das
+    Ersuchen auf eine bekannte Person bezieht,
+
+
+5.  soweit angemessen, eine Erläuterung des Zusammenhangs zwischen dem
+    Zweck, zu dem die Informationen angefordert werden, und allen weiteren
+    natürlichen oder juristischen Personen oder Organisationen, auf die
+    sich die Informationen beziehen,
+
+
+6.  etwaige Beschränkungen einer Verwendung der in dem Ersuchen
+    enthaltenen Informationen zu anderen Zwecken als denen, für die sie
+    übermittelt wurden.
+
+
+
+
+(5) Ein Ersuchen nach Absatz 1 ist in einer der Sprachen zu
+übermitteln, die in der von diesem anderen Mitgliedstaat der
+Europäischen Union nach Artikel 11 der Richtlinie (EU) 2023/977
+erstellten Liste aufgeführt sind.
+
+(6) Eine Kopie eines Ersuchens nach Absatz 1 wird auch der für die
+Bundesrepublik Deutschland nach Artikel 14 der Richtlinie (EU)
+2023/977 benannten zentralen Kontaktstelle übermittelt.
+
+
+##### § 24a Ersuchen um Informationsübermittlung an Schengen-assoziierte Staaten
+
+§ 24 gilt für die Übermittlung von Ersuchen an nach Artikel 14 der
+Richtlinie (EU) 2023/977 benannte zentrale Kontaktstellen von Staaten,
+die die Bestimmungen des Schengen-Besitzstandes aufgrund eines
+Assoziierungsabkommens mit der Europäischen Union über die Umsetzung,
+Anwendung und Entwicklung des Schengen-Besitzstandes anwenden,
+entsprechend.
+
+
+#### Unterabschnitt 4 - Steuerungsbefugnis der Zentralstelle
+
+
+##### § 25 Übermittlungsverbote und Verweigerungsgründe
 
 (1) Das Zollkriminalamt kann den Zollfahndungsämtern zur Erfüllung
 deren Aufgaben fachliche Weisungen erteilen.
@@ -1583,10 +1907,11 @@ verlangen von demjenigen, der geschäftsmäßig
     174 Absatz 1 Satz 1 des Telekommunikationsgesetzes), oder
 
 
-2.  eigene oder fremde Telemedien zur Nutzung bereithält oder den Zugang
-    zur Nutzung vermittelt, über Bestandsdaten gemäß § 2 Absatz 2 Nummer 2
-    des Telekommunikation-Telemedien-Datenschutz-Gesetzes (§ 22 Absatz 1
-    Satz 1 und § 23 des Telekommunikation-Telemedien-Datenschutz-
+2.  eigene oder fremde digitale Dienste nach § 1 Absatz 4 Nummer 1 des
+    Digitale-Dienste-Gesetzes zur Nutzung bereithält oder den Zugang zur
+    Nutzung vermittelt, über Bestandsdaten gemäß § 2 Absatz 2 Nummer 2 des
+    Telekommunikation-Digitale-Dienste-Datenschutz-Gesetzes (§ 22 Absatz 1
+    Satz 1 und § 23 des Telekommunikation-Digitale-Dienste-Datenschutz-
     Gesetzes).
 
 
@@ -1640,10 +1965,11 @@ Absatz 2 Auskunft verlangen von demjenigen, der geschäftsmäßig
     174 Absatz 1 Satz 1 des Telekommunikationsgesetzes), oder
 
 
-2.  eigene oder fremde Telemedien zur Nutzung bereithält oder den Zugang
-    zur Nutzung vermittelt, über Bestandsdaten gemäß § 2 Absatz 2 Nummer 2
-    des Telekommunikation-Telemedien-Datenschutz-Gesetzes (§ 22 Absatz 1
-    Satz 1 und § 23 des Telekommunikation-Telemedien-Datenschutz-
+2.  eigene oder fremde digitale Dienste nach § 1 Absatz 4 Nummer 1 des
+    Digitale-Dienste-Gesetzes zur Nutzung bereithält oder den Zugang zur
+    Nutzung vermittelt, über Bestandsdaten gemäß § 2 Absatz 2 Nummer 2 des
+    Telekommunikation-Digitale-Dienste-Datenschutz-Gesetzes (§ 22 Absatz 1
+    Satz 1 und § 23 des Telekommunikation-Digitale-Dienste-Datenschutz-
     Gesetzes).
 
 
@@ -1696,24 +2022,24 @@ getrennt eingesetzt werden, geschützt wird, darf die Auskunft nur
 verlangt werden, wenn im Einzelfall die gesetzlichen Voraussetzungen
 für die Nutzung der Daten vorliegen. Bezieht sich das
 Auskunftsverlangen auf nach § 2 Absatz 2 Nummer 2 des
-Telekommunikation-Telemedien-Datenschutz-Gesetzes erhobene Passwörter
-oder andere Daten, mittels derer der Zugriff auf Endgeräte oder auf
-Speichereinrichtungen, die in diesen Endgeräten oder hiervon räumlich
-getrennt eingesetzt werden, geschützt wird (§ 23 Absatz 1 des
-Telekommunikation-Telemedien-Datenschutz-Gesetzes), darf die Auskunft
-nur verlangt werden zur Abwehr einer konkreten Gefahr für Leib, Leben,
-Freiheit oder die sexuelle Selbstbestimmung einer Person, für den
-Bestand des Bundes oder eines Landes sowie Güter der Allgemeinheit,
-deren Bedrohung die Grundlagen der Existenz der Menschen berührt, und
-wenn die gesetzlichen Voraussetzungen für die Nutzung der Daten
-vorliegen.
+Telekommunikation-Digitale-Dienste-Datenschutz-Gesetzes erhobene
+Passwörter oder andere Daten, mittels derer der Zugriff auf Endgeräte
+oder auf Speichereinrichtungen, die in diesen Endgeräten oder hiervon
+räumlich getrennt eingesetzt werden, geschützt wird (§ 23 Absatz 1 des
+Telekommunikation-Digitale-Dienste-Datenschutz-Gesetzes), darf die
+Auskunft nur verlangt werden zur Abwehr einer konkreten Gefahr für
+Leib, Leben, Freiheit oder die sexuelle Selbstbestimmung einer Person,
+für den Bestand des Bundes oder eines Landes sowie Güter der
+Allgemeinheit, deren Bedrohung die Grundlagen der Existenz der
+Menschen berührt, und wenn die gesetzlichen Voraussetzungen für die
+Nutzung der Daten vorliegen.
 
 (4) Die Auskunft nach den Absätzen 1 bis 3 darf auch anhand einer zu
 einem bestimmten Zeitpunkt zugewiesenen Internetprotokoll-Adresse
 verlangt werden (§ 174 Absatz 1 Satz 3, § 177 Absatz 1 Nummer 3 des
 Telekommunikationsgesetzes und § 22 Absatz 1 Satz 3 und 4 des
-Telekommunikation-Telemedien-Datenschutz-Gesetzes). Dies gilt in den
-Fällen von
+Telekommunikation-Digitale-Dienste-Datenschutz-Gesetzes). Dies gilt in
+den Fällen von
 
 1.  Absatz 1 Satz 2 Nummer 1 sowie Absatz 2 Satz 2 Nummer 1 nur zum Schutz
     von Leib, Leben, Freiheit sowie sexueller Selbstbestimmung der Person,
@@ -1740,11 +2066,12 @@ Fällen von
 Absatz 3 Satz 2 bleibt unberührt. Die Auskunft nach den Absätzen 1 bis
 3 anhand einer zu einem bestimmten Zeitpunkt zugewiesenen
 Internetprotokoll-Adresse nach § 22 Absatz 1 Satz 3 und 4 des
-Telekommunikation-Telemedien-Datenschutz-Gesetzes darf darüber hinaus
-nur verlangt werden, wenn tatsächliche Anhaltspunkte dafür vorliegen,
-dass die betroffene Person Nutzer des Telemediendienstes ist, bei dem
-die Daten erhoben werden sollen. Die rechtlichen und tatsächlichen
-Grundlagen des Auskunftsverlangens sind aktenkundig zu machen.
+Telekommunikation-Digitale-Dienste-Datenschutz-Gesetzes darf darüber
+hinaus nur verlangt werden, wenn tatsächliche Anhaltspunkte dafür
+vorliegen, dass die betroffene Person Nutzer des digitalen Dienstes
+ist, bei dem die Daten erhoben werden sollen. Die rechtlichen und
+tatsächlichen Grundlagen des Auskunftsverlangens sind aktenkundig zu
+machen.
 
 (5) Der aufgrund eines Auskunftsverlangens Verpflichtete hat die zur
 Auskunftserteilung erforderlichen Daten unverzüglich und vollständig
@@ -3805,7 +4132,7 @@ konkrete Anhaltspunkte ergeben, dass jemand als Täter oder Teilnehmer
     auch in Verbindung mit § 129b Absatz 1, den §§ 130, 146, 151 bis 152a,
     211, 212, 232a Absatz 1 bis 5, den §§ 232b, 239a, 239b, 249 bis 251,
     255, 261, 305a, 306 bis 306c, 307 Absatz 1 bis 3, § 308 Absatz 1 bis
-    4, § 309 Absatz 1 bis 5, den §§ 313, 314, 315 Absatz 1, 3 oder Absatz
+    5, § 309 Absatz 1 bis 5, den §§ 313, 314, 315 Absatz 1, 3 oder Absatz
     4, § 315b Absatz 3, den §§ 316a, 316b Absatz 1 oder 3 oder § 316c
     Absatz 1 oder 3 des Strafgesetzbuches begehen will oder begeht,
 
@@ -3978,20 +4305,21 @@ Stelle, an die die Daten übermittelt werden, darauf hinzuweisen, dass
 
 (1) Das Zollkriminalamt kann unter den Voraussetzungen des § 72 Absatz
 1, 2 oder Absatz 4 auch ohne Wissen des Betroffenen Verkehrsdaten (§§
-9 und 12 des Telekommunikation-Telemedien-Datenschutz-Gesetzes) bei
-denjenigen erheben, die geschäftsmäßig Telekommunikationsdienste
+9 und 12 des Telekommunikation-Digitale-Dienste-Datenschutz-Gesetzes)
+bei denjenigen erheben, die geschäftsmäßig Telekommunikationsdienste
 erbringen oder daran mitwirken, soweit die Erhebung für die
 Erforschung des Sachverhalts oder die Ermittlung des Aufenthaltsortes
 der betroffenen Person erforderlich ist. Die Erhebung von
 Standortdaten in Echtzeit ist zulässig.
 
 (2) Das Zollkriminalamt kann unter den Voraussetzungen des Absatzes 1
-von denjenigen, die geschäftsmäßig eigene oder fremde Telemedien zur
-Nutzung bereithalten oder den Zugang zur Nutzung vermitteln, Auskunft
-über Nutzungsdaten (§ 2 Absatz 2 Nummer 3 des Telekommunikation-
-Telemedien-Datenschutz-Gesetzes) verlangen. Die Auskunft darf auch
-über zukünftige Nutzungsdaten angeordnet werden. Der Diensteanbieter
-hat die Nutzungsdaten dem Zollkriminalamt unverzüglich auf dem vom
+von denjenigen, die geschäftsmäßig eigene oder fremde digitale Dienste
+nach § 1 Absatz 4 Nummer 1 des Digitale-Dienste-Gesetzes zur Nutzung
+bereithalten oder den Zugang zur Nutzung vermitteln, Auskunft über
+Nutzungsdaten (§ 2 Absatz 2 Nummer 3 des Telekommunikation-Digitale-
+Dienste-Datenschutz-Gesetzes) verlangen. Die Auskunft darf auch über
+zukünftige Nutzungsdaten angeordnet werden. Der Diensteanbieter hat
+die Nutzungsdaten dem Zollkriminalamt unverzüglich auf dem vom
 Zollkriminalamt bestimmten Weg zu übermitteln.
 
 (3) § 74 gilt entsprechend mit der Maßgabe, dass sich die Maßnahme nur

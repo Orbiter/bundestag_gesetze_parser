@@ -16,10 +16,7 @@ Fundstelle
 :   RGBl: 1897, 437
 
 Zuletzt geändert durch
-:   Art. 30 G v. 27.3.2024 I Nr. 108
-
-Änderung durch
-:   Art. 3 G v. 11.4.2024 I Nr. 120 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 G v. 23.10.2024 I Nr. 323
 
 
 ## Erster Abschnitt - Einführung des Handelsgesetzbuchs
@@ -2306,10 +2303,6 @@ gemacht werden.
 
 
 
-## Vierundfünfzigster Abschnitt - Übergangsvorschrift zum Zweiten Gesetz zur Änderung des DWD-Gesetzes sowie zur Änderung handelsrechtlicher Vorschriften
-
-
-
 ### Art 92
 
 § 241a Satz 1 des Handelsgesetzbuchs in der ab dem 28. März 2024
@@ -2318,6 +2311,10 @@ beginnende Geschäftsjahr anzuwenden. § 241a Satz 1 des
 Handelsgesetzbuchs in der bis zum 28. März 2024 geltenden Fassung ist
 letztmals auf das vor dem 1. Januar 2024 beginnende Geschäftsjahr
 anzuwenden.
+
+
+## Vierundfünfzigster Abschnitt - Übergangsvorschrift zum Zweiten Gesetz zur Änderung des DWD-Gesetzes sowie zur Änderung handelsrechtlicher Vorschriften
+
 
 
 ### Art 93
@@ -2342,4 +2339,57 @@ Vorschriften in der bis einschließlich 16. April 2024 geltenden
 Fassung letztmals auf Jahres- und Konzernabschlüsse, Lageberichte
 sowie Konzernlageberichte für das vor dem 1. Januar 2023 beginnende
 Geschäftsjahr anzuwenden.
+
+
+## Fünfundfünfzigster Abschnitt - Übergangsvorschrift zum Gesetz zur Einführung der elektronischen Akte in der Justiz und zur weiteren Förderung des elektronischen Rechtsverkehrs
+
+
+
+### Art 94
+
+Dokumente und Aktenteile, die nach den Verschlusssachenanweisungen des
+Bundes oder der Länder als Verschlusssache höher als VS-NUR FÜR DEN
+DIENSTGEBRAUCH eingestuft sind, dürfen bis zum 31. Dezember 2035
+abweichend von § 335 Absatz 2a und § 335a Absatz 4 des
+Handelsgesetzbuchs in Papierform erstellt, geführt und übermittelt
+werden. Dokumente und Aktenteile, die nach den
+Verschlusssachenanweisungen des Bundes oder der Länder als
+Verschlusssache VS-NUR FÜR DEN DIENSTGEBRAUCH eingestuft sind, dürfen
+bis zum 31. Dezember 2035 abweichend von § 335 Absatz 2a und § 335a
+Absatz 4 des Handelsgesetzbuchs in Papierform übermittelt werden. Die
+für die Handhabung von Verschlusssachen geltenden
+Geheimschutzvorschriften bleiben unberührt.
+
+
+## Sechsundfünfzigster Abschnitt - Übergangsvorschrift zum Vierten Bürokratieentlastungsgesetz
+
+
+
+### Art 95
+
+§ 257 Absatz 4 des Handelsgesetzbuchs in der ab dem 1. Januar 2025
+geltenden Fassung ist vorbehaltlich des Satzes 2 erstmals auf
+Unterlagen anzuwenden, deren Aufbewahrungsfrist nach § 257 Absatz 4
+des Handelsgesetzbuchs in der bis einschließlich 31. Dezember 2024
+geltenden Fassung noch nicht abgelaufen ist. Abweichend von Satz 1 ist
+bei Personen oder Gesellschaften, die
+
+1.  Institute im Sinne des § 1 Absatz 1b des Kreditwesengesetzes sind,
+    einschließlich Zweigstellen nach § 53 des Kreditwesengesetzes,
+
+
+2.  der Aufsicht nach § 1 Absatz 1 des Versicherungsaufsichtsgesetzes
+    unterliegen oder
+
+
+3.  Wertpapierinstitute im Sinne des § 2 Absatz 1 des
+    Wertpapierinstitutsgesetzes sind,
+
+
+
+§ 257 Absatz 4 des Handelsgesetzbuchs in der ab dem 1. Januar 2025
+geltenden Fassung erstmals auf Unterlagen anzuwenden, deren
+Aufbewahrungsfrist nach § 257 Absatz 4 des Handelsgesetzbuchs in der
+bis einschließlich 31. Dezember 2024 geltenden Fassung am 1. Januar
+2026 noch nicht abgelaufen ist.
 

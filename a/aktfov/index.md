@@ -32,7 +32,6 @@ worden ist, verordnet das Bundesministerium der Justiz:
 (1) Das Aktionärsforum ist Teil des Bundesanzeigers und ist jedenfalls
 über die Internetseiten
 
-
 *    *   www.bundesanzeiger.de,
         www.unternehmensregister.de und
         www.aktionaersforum.de

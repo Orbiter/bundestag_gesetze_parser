@@ -20,7 +20,7 @@ Neugefasst durch
 :   Bek. v. 22.2.2006 I 438;
 
 Zuletzt geändert durch
-:   Art. 1 G v. 3.6.2021 I 1401
+:   Art. 1 G v. 28.11.2024 I Nr. 377
 
 
 ## § 1 Anordnung als Bundesstatistik
@@ -43,8 +43,10 @@ als Bundesstatistiken durchgeführt:
     (Personalstandstatistik),
 
 
-5.  die Statistik über die Empfänger von Versorgungsbezügen
-    (Versorgungsempfängerstatistik).
+5.  die Statistik über die Empfängerinnen und Empfänger von
+    Versorgungsbezügen sowie Altersgeldberechtigten und
+    Hinterbliebenenaltersgeldberechtigten (Versorgungsempfänger- und
+    Altersgeldstatistik).
 
 
 6.  (weggefallen)
@@ -238,10 +240,7 @@ nach § 2 Absatz 2 Satz 1 Nummer 1 und 2 folgende Erhebungsmerkmale:
     h)  die Einnahmen von und Zahlungen an Verwaltungen;
 
 
-    i)  die Aufnahme und die Tilgung von Kreditmarktmitteln;
-
-
-    j)  die Kassenkredite.
+    i)  die Aufnahme und die Tilgung von Kreditmarktmitteln.
 
 
 
@@ -269,6 +268,10 @@ nach § 2 Absatz 2 Satz 1 Nummer 3 folgende Erhebungsmerkmale:
             Erträge und Aufwendungen der Ergebnisrechnung nach Arten und
             Produktgruppen entsprechend der für die Finanzstatistik maßgeblichen
             geltenden Systematik und Ansatz- und Bewertungsvorschriften;
+
+
+        cc) den Status der erfassten Ein- und Auszahlungen, der Vermögensrechnung
+            und der Ergebnisrechnung;
 
 
 
@@ -498,6 +501,10 @@ Erhebungsmerkmale:
         geltenden Systematik und Ansatz- und Bewertungsvorschriften;
 
 
+    c)  den Status der erfassten Ein- und Auszahlungen, der Vermögensrechnung
+        und der Ergebnisrechnung;
+
+
 
 
 
@@ -590,12 +597,13 @@ Die Statistik nach § 1 Nummer 3 erfasst
         dem Jahr der Fälligkeit zu unterteilen ist;
 
 
-    d)  die Summe der Bürgschaften und die berichtigte Summe der Bürgschaften
-        des Vorjahres, wobei jeweils nach Bürgschaftsnehmern zu unterteilen
-        ist, sowie der Garantien und sonstigen Gewährleistungen und die
-        berichtigte Summe der Garantien und sonstigen Gewährleistungen des
-        Vorjahres, wobei jeweils nach den unterschiedlichen Begünstigten aus
-        der Garantie oder Gewährleistung zu unterteilen ist;
+    d)  die Summe der Bürgschaften, Garantien und sonstigen Gewährleistungen,
+        die Summe der neu im Berichtsjahr gewährten Bürgschaften, Garantien
+        und sonstigen Gewährleistungen und die berichtigte Summe der
+        Bürgschaften, Garantien und sonstigen Gewährleistungen des Vorjahres,
+        wobei bei den Bürgschaften jeweils nach Bürgschaftsnehmern und bei den
+        Garantien und sonstigen Gewährleistungen jeweils nach den aus der
+        Garantie oder Gewährleistung Begünstigten zu unterteilen ist;
 
 
     e)  die Schuldenaufnahmen und Schuldentilgungen im Laufe des Jahres für
@@ -611,11 +619,22 @@ Die Statistik nach § 1 Nummer 3 erfasst
 
 
     g)  die Verbindlichkeiten aus Lieferungen und Leistungen und erhaltene
-        Anzahlungen nach Laufzeiten;
+        Anzahlungen nach Laufzeiten, wobei bei den Verbindlichkeiten und
+        Anzahlungen mit einer Laufzeit von über einem Jahr anzugeben ist, ob
+        deren Gläubiger dem Sektor Staat zugerechnet werden;
 
 
-    h)  die Schuldenübernahmen nach Schuldarten, wobei nach Schuldnern zu
-        unterteilen ist;
+    h)  die Schuldenübernahmen nach Schuldarten und jeweils unterteilt nach
+        Schuldnern, wobei die Schuldenübernahmen von garantierten Schulden
+        nach Schuldarten und jeweils nach Schuldnern, die nach den
+        Definitionen im Anhang A der Verordnung (EU) Nr. 549/2013 in der
+        jeweils geltenden Fassung dem öffentlichen Sektor und nicht dem Sektor
+        Staat zugerechnet werden, und Schuldnern, die Kreditinstituten in
+        öffentlich-rechtlicher oder privater Rechtsform und nach den
+        Definitionen im Anhang A der Verordnung (EU) Nr. 549/2013 in der
+        jeweils geltenden Fassung staatlich kontrolliert sind und dem Sektor
+        Finanzielle Kapitalgesellschaften zugerechnet werden, zu unterteilen
+        sind;
 
 
     i)  den Stand der Finanzaktiva, wie sie im Anhang A der Verordnung (EU)
@@ -712,7 +731,7 @@ Absätze 2 bis 7.
 
 (2) Bei den Erhebungseinheiten nach § 2 Absatz 2 Satz 1 Nummer 1 bis 3
 und bei rechtlich unselbständigen Erhebungseinheiten nach Absatz 3
-Satz 1 Nummer 2:
+Satz 1 Nummer 2 werden erfasst:
 
 1.  Geburtsmonat und -jahr,
 
@@ -729,14 +748,17 @@ Satz 1 Nummer 2:
     Bezügebestandteilen,
 
 
-5.  Dienst- oder Arbeitsort sowie bei den in einem unmittelbaren
-    Dienstverhältnis stehenden Personen den Wohnort,
+5.  Dienst- oder Arbeitsort nach dem jeweiligen Schlüssel im
+    Gemeindeverzeichnis, bei den in einem unmittelbaren Dienstverhältnis
+    stehenden Personen der Wohnort nach dem jeweiligen Schlüssel im
+    Gemeindeverzeichnis oder der Gemeindename mit Postleitzahl der
+    Wohnanschrift, bei Orten im Ausland die Angaben hierzu,
 
 
 6.  bei den Erhebungseinheiten nach § 2 Absatz 2 Satz 1 Nummer 1 und
     Absatz 3 Satz 1 Nummer 2 Satz 2, sofern es sich um rechtlich
     unselbständige Stellen des Bundes handelt und soweit die Beschäftigten
-    in einem unmittelbaren Dienstverhältnis stehen, zusätzlich den Monat
+    in einem unmittelbaren Dienstverhältnis stehen, zusätzlich der Monat
     und das Jahr, ab dem Zuweisungen zum Versorgungsfonds des Bundes
     geleistet werden,
 
@@ -768,22 +790,25 @@ Satz 1 Nummer 2:
 
 
 (3) Bei den Erhebungseinheiten nach § 2 Absatz 2 Satz 1 Nummer 4 und
-Absatz 3 Satz 1 Nummer 1:
+Absatz 3 Satz 1 Nummer 1 werden erfasst:
 
 1.  die Erhebungsmerkmale nach Absatz 2 Nummer 1 bis 4,
 
 
-2.  Dienst- oder Arbeitsort sowie bei den in einem unmittelbaren
-    Dienstverhältnis stehenden Personen und bei Dienstordnungsangestellten
-    einschließlich derer, die sich in einem Berufsausbildungsverhältnis
-    befinden, den Wohnort.
+2.  Dienst- oder Arbeitsort nach dem jeweiligen Schlüssel im
+    Gemeindeverzeichnis, bei den in einem unmittelbaren Dienstverhältnis
+    stehenden Personen und bei Dienstordnungsangestellten einschließlich
+    derer, die sich in einem Berufsausbildungsverhältnis befinden, der
+    Wohnort nach dem jeweiligen Schlüssel im Gemeindeverzeichnis oder der
+    Gemeindename mit Postleitzahl der Wohnanschrift, bei Orten im Ausland
+    die Angaben hierzu.
 
 
 
 
 (4) Bei den Erhebungseinheiten nach § 2 Absatz 3 Satz 1 Nummer 2,
 sofern es sich um eine rechtlich selbständige Stelle handelt, und bei
-den Erhebungseinheiten nach § 2 Absatz 5:
+den Erhebungseinheiten nach § 2 Absatz 5 werden erfasst:
 
 1.  die Erhebungsmerkmale nach Absatz 2 Nummer 1 bis 4,
 
@@ -792,15 +817,15 @@ den Erhebungseinheiten nach § 2 Absatz 5:
 
 
 3.  bei Einrichtungen, die der Aufsicht des Bundes oder der Länder
-    unterstehen, den Aufgabenbereich,
+    unterstehen, der Aufgabenbereich,
 
 
-4.  bei Zweckverbänden und anderen kommunalen Einrichtungen den
+4.  bei Zweckverbänden und anderen kommunalen Einrichtungen der
     Aufgabenbereich oder die Produktgruppe,
 
 
 5.  bei Einrichtungen für Forschung und Entwicklung und den Instituten an
-    Hochschulen zusätzlich den Bildungsabschluss, die Staatsangehörigkeit,
+    Hochschulen zusätzlich der Bildungsabschluss, die Staatsangehörigkeit,
     die Art der Beschäftigung und das Wissenschaftsgebiet.
 
 
@@ -808,8 +833,8 @@ den Erhebungseinheiten nach § 2 Absatz 5:
 
 (5) Bei den Erhebungseinheiten nach § 2 Absatz 6 Nummer 1,
 insbesondere den Postnachfolgeunternehmen nach § 38 in Verbindung mit
-den §§ 1 und 2 des Postpersonalrechtsgesetzes bei den in einem
-unmittelbaren Dienstverhältnis stehenden Beschäftigten:
+den §§ 1 und 2 des Postpersonalrechtsgesetzes, werden bei den in einem
+unmittelbaren Dienstverhältnis stehenden Beschäftigten erfasst:
 
 1.  die Erhebungsmerkmale nach Absatz 2 Nummer 1 und 2,
 
@@ -822,7 +847,10 @@ unmittelbaren Dienstverhältnis stehenden Beschäftigten:
     Familienzuschlags und Bruttobezüge im Berichtsmonat,
 
 
-4.  Dienst- und Wohnort.
+4.  Dienst- und Wohnort nach dem jeweiligen Schlüssel im
+    Gemeindeverzeichnis oder bei dem Wohnort der Gemeindename mit
+    Postleitzahl der Wohnanschrift, bei Orten im Ausland die Angaben
+    hierzu.
 
 
 
@@ -839,7 +867,9 @@ Erhebungsmerkmale erfasst:
     Berufsausbildungsverhältnisses,
 
 
-3.  Arbeitsort.
+3.  Arbeitsort nach dem jeweiligen Schlüssel im Gemeindeverzeichnis oder
+    der Gemeindename mit Postleitzahl der Arbeitsanschrift, bei einem Ort
+    im Ausland die Angabe hierzu.
 
 
 
@@ -858,7 +888,8 @@ Berufsausbildungsverhältnis stehenden Beschäftigten erfasst:
 2.  Einstufung,
 
 
-3.  Arbeitsort,
+3.  Arbeitsort nach dem jeweiligen Schlüssel im Gemeindeverzeichnis, bei
+    einem Ort im Ausland die Angabe hierzu,
 
 
 4.  Bildungsabschluss oder angestrebter Bildungsabschluss,
@@ -881,13 +912,14 @@ von Einzeldaten. Die Angaben zu den Erhebungsmerkmalen nach Absatz 6
 werden in Form von Summendaten erfasst.
 
 
-## § 7 Versorgungsempfängerstatistik
+## § 7 Versorgungsempfänger- und Altersgeldstatistik
 
-Die Statistik nach § 1 Nr. 5 erfasst bei den Erhebungseinheiten nach §
-2 Absatz 2 bis 7 jährlich zum Stichtag 1. Januar die Empfängerinnen
-und Empfänger von Versorgungsbezügen nach Beamten- und
-Soldatenversorgungsrecht sowie beamtenrechtlichen Grundsätzen nach
-folgenden Erhebungsmerkmalen:
+Die Statistik nach § 1 Nummer 5 erfasst bei den Erhebungseinheiten
+nach § 2 Absatz 2 bis 7 jährlich zum Stichtag 1. Januar die
+Empfängerinnen und Empfänger von Versorgungsbezügen sowie die
+Altersgeldberechtigten und die Hinterbliebenenaltersgeldberechtigten
+nach Beamten- und Soldatenversorgungsrecht, beamtenrechtlichen
+Grundsätzen sowie Altersgeldrecht nach folgenden Erhebungsmerkmalen:
 
 1.  Geburtsmonat und -jahr,
 
@@ -898,33 +930,39 @@ folgenden Erhebungsmerkmalen:
 3.  Art des früheren Dienstverhältnisses,
 
 
-4.  Rechtsgrundlage der Versorgung,
+4.  Rechtsgrundlage der Versorgung oder des Altersgeldes,
 
 
-5.  Art des Versorgungsanspruchs,
+5.  Art des Versorgungs- oder Altersgeldanspruchs,
 
 
 6.  Laufbahngruppe, Besoldungsgruppe,
 
 
-7.  Wohnort,
+7.  Wohnort nach dem jeweiligen Schlüssel im Gemeindeverzeichnis oder der
+    Gemeindename mit Postleitzahl der Wohnanschrift, bei einem Ort im
+    Ausland die Angabe hierzu,
 
 
-8.  Ruhegehaltssatz,
+8.  Ruhegehalts- oder Altersgeldsatz,
 
 
 9.  Bestandsveränderungen im Vorjahr, Grund für den Eintritt des
-    Versorgungsfalls, letzter Aufgabenbereich,
+    Versorgungsfalls einschließlich der Zahlungsaufnahme des Alters- und
+    Hinterbliebenenaltersgeldes, letzter Aufgabenbereich,
 
 
-10. Bruttoversorgungsbezüge des Vorjahres,
+10. Bruttoversorgungsbezüge, Bruttoaltersgeld und
+    Bruttohinterbliebenenaltersgeld des Vorjahres,
 
 
-11. Bruttoversorgungsbezüge im Berichtsmonat gegliedert nach
+11. Bruttoversorgungsbezüge, Bruttoaltersgeld und
+    Bruttohinterbliebenenaltersgeld im Berichtsmonat, gegliedert nach
     Bezügebestandteilen,
 
 
-12. Versorgungsabschläge bei vorzeitiger Versetzung in den Ruhestand,
+12. Versorgungsabschläge bei vorzeitiger Versetzung in den Ruhestand oder
+    Altersgeldabschlag bei vorzeitigem Bezug von Altersgeld,
 
 
 13. bei den Erhebungseinheiten nach § 2 Absatz 2 Nummer 1 auch nach dem

@@ -16,7 +16,7 @@ Fundstelle
 :   RGBl: 1895, 301
 
 Zuletzt geändert durch
-:   Art. 55 G v. 10.8.2021 I 3436
+:   Art. 1 V v. 2.12.2024 I Nr. 388
 
 
 ## Erster Abschnitt - Schiffseigner
@@ -232,21 +232,21 @@ Ansprüche im Sinne der §§ 5h und 5k handelt, wie folgt berechnet:
 
 1.  Für ein Fahrgastschiff oder ein anderes Schiff, das nach seiner
     Zweckbestimmung nicht der Beförderung von Gütern dient, sind, soweit
-    sich nicht aus den Nummern 3 und 4 etwas anderes ergibt, 400
+    sich nicht aus den Nummern 3 und 4 etwas anderes ergibt, 450
     Rechnungseinheiten je Kubikmeter Wasserverdrängung bei
     höchstzulässigem Tiefgang des Schiffes anzusetzen, bei Schiffen mit
-    eigener Antriebskraft vermehrt um 1 400 Rechnungseinheiten je Kilowatt
+    eigener Antriebskraft vermehrt um 1 576 Rechnungseinheiten je Kilowatt
     Leistungsfähigkeit der Antriebsmaschinen.
 
 
 2.  Für ein Schiff, das nach seiner Zweckbestimmung der Beförderung von
-    Gütern dient, sind 400 Rechnungseinheiten je Tonne Tragfähigkeit des
+    Gütern dient, sind 450 Rechnungseinheiten je Tonne Tragfähigkeit des
     Schiffs anzusetzen, bei Schiffen mit eigener Antriebskraft vermehrt um
-    1 400 Rechnungseinheiten je Kilowatt Leistungsfähigkeit der
+    1 576 Rechnungseinheiten je Kilowatt Leistungsfähigkeit der
     Antriebsmaschinen.
 
 
-3.  Für ein Schlepp- oder Schubboot sind 1 400 Rechnungseinheiten je
+3.  Für ein Schlepp- oder Schubboot sind 1 576 Rechnungseinheiten je
     Kilowatt Leistungsfähigkeit der Antriebsmaschinen anzusetzen.
 
 
@@ -261,7 +261,7 @@ Ansprüche im Sinne der §§ 5h und 5k handelt, wie folgt berechnet:
 (2) Für ein Schubboot, das im Zeitpunkt des haftungsbegründenden
 Ereignisses starr mit einem oder mehreren Schubleichtern zu einem
 Schubverband verbunden war, erhöht sich der für das Schubboot nach
-Absatz 1 Nr. 3 anzusetzende Betrag um 200 Rechnungseinheiten je Tonne
+Absatz 1 Nr. 3 anzusetzende Betrag um 225 Rechnungseinheiten je Tonne
 Tragfähigkeit der Schubleichter, soweit nicht das Schubboot für einen
 oder mehrere dieser Schubleichter Bergungsmaßnahmen erbracht hat.
 Erhöht sich der Haftungshöchstbetrag für das Schubboot nach Satz 1, so
@@ -277,11 +277,11 @@ Antriebskraft, das im Zeitpunkt des haftungsbegründenden Ereignisses
 mit einem oder mehreren Schiffen fest gekoppelt war, die nicht Anlagen
 oder Geräte im Sinne des Absatzes 1 Nr. 4 darstellen, sowie für die
 gekoppelten Schiffe, jedoch mit der Maßgabe, daß sich für das
-fortbewegende Schiff der nach Absatz 1 anzusetzende Betrag um 200
+fortbewegende Schiff der nach Absatz 1 anzusetzende Betrag um 225
 Rechnungseinheiten je Kubikmeter Wasserverdrängung oder je Tonne
 Tragfähigkeit der anderen Schiffe erhöht.
 
-(4) In jedem Falle beträgt der Haftungshöchstbetrag mindestens 400 000
+(4) In jedem Falle beträgt der Haftungshöchstbetrag mindestens 450 400
 Rechnungseinheiten, soweit es sich nicht um Leichter handelt, die nur
 zum Umladen in Häfen verwendet werden.
 
@@ -333,13 +333,13 @@ jeweils in der Bundesrepublik Deutschland in Kraft gesetzten Fassung.
 
 1.  für die Gesamtheit der aus demselben Ereignis entstandenen Ansprüche
     wegen Personenschäden das Doppelte der nach § 5e maßgebenden
-    Haftungshöchstbeträge, mindestens jedoch 10 Millionen
+    Haftungshöchstbeträge, mindestens jedoch 11,26 Millionen
     Rechnungseinheiten;
 
 
 2.  für die Gesamtheit der aus demselben Ereignis entstandenen Ansprüche
     wegen Sachschäden das Doppelte der nach § 5f maßgebenden
-    Haftungshöchstbeträge, mindestens jedoch 10 Millionen
+    Haftungshöchstbeträge, mindestens jedoch 11,26 Millionen
     Rechnungseinheiten.
 
 
@@ -364,9 +364,9 @@ Absatz 3 ist insoweit nicht anzuwenden.
 Abweichend von den §§ 5e, 5f Abs. 1 und § 5h kann ein Berger im Sinne
 von § 5c Abs. 1 Nr. 2 oder ein an Bord tätiger Lotse seine Haftung für
 die Gesamtheit der aus demselben Ereignis entstandenen Ansprüche wegen
-Personenschäden auf einen Haftungshöchstbetrag in Höhe von 400 000
+Personenschäden auf einen Haftungshöchstbetrag in Höhe von 450 400
 Rechnungseinheiten sowie für Ansprüche wegen Sachschäden auf einen
-Haftungshöchstbetrag in Höhe von 200 000 Rechnungseinheiten
+Haftungshöchstbetrag in Höhe von 225 200 Rechnungseinheiten
 beschränken. § 5f Abs. 2 und § 5g gelten entsprechend.
 
 
@@ -398,18 +398,18 @@ Haftungshöchstbetrag. Dieser steht ausschließlich zur Befriedigung von
 Ansprüchen der Reisenden zur Verfügung.
 
 (2) Der Haftungshöchstbetrag für Ansprüche wegen Personenschäden von
-Reisenden nach Absatz 1 beträgt 100 000 Rechnungseinheiten,
+Reisenden nach Absatz 1 beträgt 112 600 Rechnungseinheiten,
 multipliziert mit der Anzahl der Reisenden, die das Schiff nach dem
 Schiffszeugnis befördern darf. Ist die Anzahl der Reisenden, die
 befördert werden dürfen, nicht vorgegeben, so bestimmt sich der
 Haftungshöchstbetrag nach der Anzahl der Reisenden, die das Schiff im
 Zeitpunkt des haftungsbegründenden Ereignisses tatsächlich befördert
-hat. Der Haftungshöchstbetrag beträgt jedoch mindestens 2 Millionen
-Rechnungseinheiten.
+hat. Der Haftungshöchstbetrag beträgt jedoch mindestens 2,252
+Millionen Rechnungseinheiten.
 
 (3) Abweichend von Absatz 2 beträgt der Haftungshöchstbetrag für einen
 Berger im Sinne von § 5c Abs. 1 Nr. 2 oder einen an Bord tätigen
-Lotsen 2 Millionen Rechnungseinheiten.
+Lotsen 2,252 Millionen Rechnungseinheiten.
 
 
 ### § 5l

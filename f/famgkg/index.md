@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2008, 2586, 2666
 
 Zuletzt geändert durch
-:   Art. 6 G v. 10.8.2021 I 3424
+:   Art. 12 G v. 8.12.2025 I Nr. 318
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
@@ -538,60 +538,62 @@ wäre, wenn das Verfahren nur diese Teile betroffen hätte.
 ### § 28 Wertgebühren
 
 (1) Wenn sich die Gebühren nach dem Verfahrenswert richten, beträgt
-bei einem Verfahrenswert bis 500 Euro die Gebühr 38 Euro. Die Gebühr
+bei einem Verfahrenswert bis 500 Euro die Gebühr 40 Euro. Die Gebühr
 erhöht sich bei einem
 
-*    *   Verfahrenswert
-        bis … Euro
+*    *   Verfahrens-
+        wert
+        bis ... Euro
 
-    *   für jeden angefangenen
+    *   für jeden
+        angefangenen
         Betrag von
-        weiteren … Euro
+        weiteren ... Euro
 
     *   um
-        … Euro
+        ... Euro
 
 
 *    *   2 000
 
     *   500
 
-    *   20
+    *   21,00
 
 
 *    *   10 000
 
     *   1 000
 
-    *   21
+    *   22,50
 
 
 *    *   25 000
 
     *   3 000
 
-    *   29
+    *   30,50
 
 
 *    *   50 000
 
     *   5 000
 
-    *   38
+    *   40,50
 
 
 *    *   200 000
 
     *   15 000
 
-    *   132
+    *   140,00
 
 
 *    *   500 000
 
     *   30 000
 
-    *   198
+    *   210,00
 
 
 *    *   über
@@ -599,14 +601,16 @@ erhöht sich bei einem
 
     *   50 000
 
-    *   198
+    *   210,00
 
 
 
 Eine Gebührentabelle für Verfahrenswerte bis 500 000 Euro ist diesem
 Gesetz als Anlage 2 beigefügt.
 
-(2) Der Mindestbetrag einer Gebühr ist 15 Euro.
+(2) Der Mindestbetrag einer Gebühr ist 15 Euro. Gebühren werden auf
+den nächstliegenden Cent auf- oder abgerundet; 0,5 Cent werden
+aufgerundet.
 
 
 ### § 29 Einmalige Erhebung der Gebühren
@@ -828,7 +832,7 @@ Nettoeinkommen der Ehegatten einzusetzen.
 Familiensachen und in den Angelegenheiten der freiwilligen
 Gerichtsbarkeit genannte Kindschaftssachen Folgesachen, erhöht sich
 der Verfahrenswert nach § 43 für jede Kindschaftssache um 20 Prozent,
-höchstens um jeweils 4 000 Euro; eine Kindschaftssache ist auch dann
+höchstens um jeweils 5 000 Euro; eine Kindschaftssache ist auch dann
 als ein Gegenstand zu bewerten, wenn sie mehrere Kinder betrifft. Die
 Werte der übrigen Folgesachen werden hinzugerechnet. § 33 Abs. 1 Satz
 2 ist nicht anzuwenden.
@@ -862,7 +866,7 @@ berücksichtigen.
 
 
 
-betrifft, beträgt der Verfahrenswert 4 000 Euro.
+betrifft, beträgt der Verfahrenswert 5 000 Euro.
 
 (2) Eine Kindschaftssache nach Absatz 1 ist auch dann als ein
 Gegenstand zu bewerten, wenn sie mehrere Kinder betrifft.
@@ -895,7 +899,7 @@ an dem Gesamthandvermögen zu bemessen.
 
 (1) In Abstammungssachen nach § 169 Nr. 1 und 4 des Gesetzes über das
 Verfahren in Familiensachen und in den Angelegenheiten der
-freiwilligen Gerichtsbarkeit beträgt der Verfahrenswert 2 000 Euro, in
+freiwilligen Gerichtsbarkeit beträgt der Verfahrenswert 3 000 Euro, in
 den übrigen Abstammungssachen 1 000 Euro.
 
 (2) Ist der nach Absatz 1 bestimmte Wert nach den besonderen Umständen
@@ -907,10 +911,10 @@ niedrigeren Wert festsetzen.
 
 (1) In Ehewohnungssachen nach § 200 Absatz 1 Nummer 1 des Gesetzes
 über das Verfahren in Familiensachen und in den Angelegenheiten der
-freiwilligen Gerichtsbarkeit beträgt der Verfahrenswert 3 000 Euro, in
+freiwilligen Gerichtsbarkeit beträgt der Verfahrenswert 4 000 Euro, in
 Ehewohnungssachen nach § 200 Absatz 1 Nummer 2 des Gesetzes über das
 Verfahren in Familiensachen und in den Angelegenheiten der
-freiwilligen Gerichtsbarkeit 4 000 Euro.
+freiwilligen Gerichtsbarkeit 5 000 Euro.
 
 (2) In Haushaltssachen nach § 200 Absatz 2 Nummer 1 des Gesetzes über
 das Verfahren in Familiensachen und in den Angelegenheiten der
@@ -928,8 +932,8 @@ höheren oder einen niedrigeren Wert festsetzen.
 
 (1) In Gewaltschutzsachen nach § 1 des Gewaltschutzgesetzes und in
 Verfahren nach dem EU-Gewaltschutzverfahrensgesetz beträgt der
-Verfahrenswert 2 000 Euro, in Gewaltschutzsachen nach § 2 des
-Gewaltschutzgesetzes 3 000 Euro.
+Verfahrenswert 3 000 Euro, in Gewaltschutzsachen nach § 2 des
+Gewaltschutzgesetzes 4 000 Euro.
 
 (2) Ist der nach Absatz 1 bestimmte Wert nach den besonderen Umständen
 des Einzelfalls unbillig, kann das Gericht einen höheren oder einen
@@ -1071,7 +1075,7 @@ worden sind.
 
 (2) Gegen die Entscheidung des Familiengerichts über die Erinnerung
 findet die Beschwerde statt, wenn der Wert des Beschwerdegegenstands
-200 Euro übersteigt. Die Beschwerde ist auch zulässig, wenn sie das
+300 Euro übersteigt. Die Beschwerde ist auch zulässig, wenn sie das
 Familiengericht, das die angefochtene Entscheidung erlassen hat, wegen
 der grundsätzlichen Bedeutung der zur Entscheidung stehenden Frage in
 dem Beschluss zulässt.
@@ -1127,7 +1131,7 @@ gilt dies auch im Beschwerdeverfahren.
 (1) Gegen den Beschluss des Familiengerichts, durch den der
 Verfahrenswert für die Gerichtsgebühren festgesetzt worden ist (§ 55
 Abs. 2), findet die Beschwerde statt, wenn der Wert des
-Beschwerdegegenstands 200 Euro übersteigt. Die Beschwerde findet auch
+Beschwerdegegenstands 300 Euro übersteigt. Die Beschwerde findet auch
 statt, wenn sie das Familiengericht wegen der grundsätzlichen
 Bedeutung der zur Entscheidung stehenden Frage in dem Beschluss
 zulässt. Die Beschwerde ist nur zulässig, wenn sie innerhalb der in §
@@ -1136,7 +1140,7 @@ Verfahrenswert später als einen Monat vor Ablauf dieser Frist
 festgesetzt worden, kann sie noch innerhalb eines Monats nach
 Zustellung oder formloser Mitteilung des Festsetzungsbeschlusses
 eingelegt werden. Im Fall der formlosen Mitteilung gilt der Beschluss
-mit dem dritten Tag nach Aufgabe zur Post als bekannt gemacht. § 57
+mit dem vierten Tag nach Aufgabe zur Post als bekannt gemacht. § 57
 Abs. 3, 4 Satz 1, 2 und 4, Abs. 5 und 7 ist entsprechend anzuwenden.
 
 (2) War der Beschwerdeführer ohne sein Verschulden verhindert, die
@@ -1155,7 +1159,7 @@ Wiedereinsetzung nicht mehr beantragt werden.
 #### § 60 Beschwerde gegen die Auferlegung einer Verzögerungsgebühr
 
 Gegen den Beschluss des Familiengerichts nach § 32 findet die
-Beschwerde statt, wenn der Wert des Beschwerdegegenstands 200 Euro
+Beschwerde statt, wenn der Wert des Beschwerdegegenstands 300 Euro
 übersteigt oder das Familiengericht die Beschwerde wegen der
 grundsätzlichen Bedeutung in dem Beschluss der zur Entscheidung
 stehenden Frage zugelassen hat. § 57 Abs. 3, 4 Satz 1, 2 und 4, Abs.
@@ -1182,7 +1186,7 @@ Verletzung des rechtlichen Gehörs zu erheben; der Zeitpunkt der
 Kenntniserlangung ist glaubhaft zu machen. Nach Ablauf eines Jahres
 seit Bekanntmachung der angegriffenen Entscheidung kann die Rüge nicht
 mehr erhoben werden. Formlos mitgeteilte Entscheidungen gelten mit dem
-dritten Tage nach Aufgabe zur Post als bekannt gemacht. Die Rüge ist
+vierten Tag nach Aufgabe zur Post als bekannt gemacht. Die Rüge ist
 bei dem Gericht zu erheben, dessen Entscheidung angegriffen wird; § 57
 Abs. 4 Satz 1 und 2 gilt entsprechend. Die Rüge muss die angegriffene
 Entscheidung bezeichnen und das Vorliegen der in Absatz 1 Nr. 2
@@ -1235,10 +1239,10 @@ eingelegt worden ist.
 
 #### § 62a Bekanntmachung von Neufassungen
 
-Das Bundesministerium der Justiz und für Verbraucherschutz kann nach
-Änderungen den Wortlaut des Gesetzes feststellen und als Neufassung im
-Bundesgesetzblatt bekannt machen. Die Bekanntmachung muss auf diese
-Vorschrift Bezug nehmen und angeben
+Das Bundesministerium der Justiz kann nach Änderungen den Wortlaut des
+Gesetzes feststellen und als Neufassung im Bundesgesetzblatt bekannt
+machen. Die Bekanntmachung muss auf diese Vorschrift Bezug nehmen und
+angeben
 
 1.  den Stichtag, zu dem der Wortlaut festgestellt wird,
 
@@ -1274,6 +1278,21 @@ Bis zum Erlass landesrechtlicher Vorschriften über die Höhe des
 Haftkostenbeitrags, der von einem Gefangenen zu erheben ist, sind die
 Nummern 2008 und 2009 des Kostenverzeichnisses in der bis zum 27.
 Dezember 2010 geltenden Fassung anzuwenden.
+
+
+#### § 65 Übergangsvorschrift zum Gesetz zur Änderung des Zuständigkeitsstreitwerts der Amtsgerichte, zum Ausbau der Spezialisierung der Justiz in Zivilsachen sowie zur Änderung weiterer prozessualer Regelungen
+
+(1) Die §§ 57, 59 und 60 sind in ihrer bis einschließlich 31. Dezember
+2025 geltenden Fassung weiter anzuwenden in Verfahren, die vor dem 1.
+Januar 2026 anhängig geworden oder eingeleitet worden sind. Dies gilt
+nicht im Verfahren über ein Rechtsmittel, das nach dem 31. Dezember
+2025 eingelegt worden ist.
+
+(2) In Verfahren, in denen Jahresgebühren erhoben werden, und in allen
+übrigen Fällen, in denen Absatz 1 keine Anwendung findet, gelten für
+Kosten, die vor dem 1. Januar 2026 fällig geworden sind, die §§ 57, 59
+und 60 in ihrer bis einschließlich 31. Dezember 2025 geltenden
+Fassung.
 
 (zu § 3 Abs. 2)
 
@@ -1418,6 +1437,11 @@ der freiwilligen Gerichtsbarkeit**
 
     *   Unterabschnitt 2 Beschwerde gegen die Endentscheidung wegen des
         Hauptgegenstands
+
+
+    *   Unterabschnitt 3 Beschwerden gegen die Zurückweisung eines Antrags auf
+        Anordnung eines Arrests sowie in Verfahren nach der Verordnung (EU)
+        Nr. 655/2014
 
 
 
@@ -2042,10 +2066,8 @@ Gehör**
         2\. Kindschaftssachen nach § 151 Nr. 6 und 7 FamFG und
         3\. ein Verfahren, das Aufgaben nach dem Jugendgerichtsgesetz betrifft.
         (2) Von dem Minderjährigen werden Gebühren nach diesem Abschnitt nur
-        erhoben, wenn zum Zeitpunkt der Fälligkeit der jeweiligen Gebühr sein
-        Vermögen nach Abzug der Verbindlichkeiten mehr als 25 000 € beträgt;
-        der in § 90 Abs. 2 Nr. 8 des Zwölften Buches Sozialgesetzbuch genannte
-        Vermögenswert wird nicht mitgerechnet.
+        nach Maßgabe des § 1880 Abs. 2 i. V. m. § 1808 Abs. 2 Satz 1 und §
+        1813 Abs. 1 BGB erhoben. Maßgeblich ist der Zeitpunkt der Fälligkeit.
 
 
 *    *   Unterabschnitt 1
@@ -2068,7 +2090,7 @@ Gehör**
         2.  für die die Gebühr 1313 entsteht oder
 
 
-        3.  die mit der Anordnung einer Pflegschaft enden.
+        3.  die mit der Anordnung einer Vormundschaft oder Pflegschaft enden.
 
 
 
@@ -2090,7 +2112,7 @@ Gehör**
 *    *
     *   (1) Für die Gebühr wird das Vermögen des von der Maßnahme betroffenen
         Minderjährigen nur berücksichtigt, soweit es nach Abzug der
-        Verbindlichkeiten mehr als 25 000 € beträgt; der in § 90 Abs. 2 Nr. 8
+        Verbindlichkeiten mehr als 10 000 € beträgt; der in § 90 Abs. 2 Nr. 8
         des Zwölften Buches Sozialgesetzbuch genannte Vermögenswert wird nicht
         mitgerechnet. Ist Gegenstand der Maßnahme ein Teil des Vermögens, ist
         höchstens dieser Teil des Vermögens zu berücksichtigen.
@@ -2099,11 +2121,11 @@ Gehör**
         folgende Kalenderjahr wird nur eine Jahresgebühr erhoben.
         (3) Erstreckt sich eine Maßnahme auf mehrere Minderjährige, wird die
         Gebühr für jeden Minderjährigen besonders erhoben.
-        (4) Geht eine Pflegschaft in eine Vormundschaft über, handelt es sich
-        um ein einheitliches Verfahren.
+        (4) Geht eine Vormundschaft in eine Dauerpflegschaft oder eine
+        Pflegschaft in eine Vormundschaft über, handelt es sich um ein
+        einheitliches Verfahren.
         (5) Dauert die Vormundschaft oder Dauerpflegschaft nicht länger als
-        drei Monate, beträgt die Gebühr abweichend von dem in der
-        Gebührenspalte bestimmten Mindestbetrag 100,00 €.
+        drei Monate, beträgt die Gebühr 50,00 €.
 
     *   je angefangene
         5 000,00 €
@@ -2120,8 +2142,7 @@ Gehör**
         Dauerpflegschaft, die nicht unmittelbar das Vermögen oder Teile des
         Vermögens zum Gegenstand hat ..........
         Dauert die Dauerpflegschaft nicht länger als drei Monate, beträgt die
-        Gebühr abweichend von dem in der Gebührenspalte bestimmten
-        Mindestbetrag 100,00 €.
+        Gebühr 50,00 €.
 
     *   200,00 €
         – höchstens
@@ -2417,9 +2438,19 @@ Gehör**
 
 
 *    *
-    *   Die Gebühr entsteht nicht für Verfahren, die in den Rahmen einer
-        Vormundschaft oder Pflegschaft fallen, und für Verfahren, die eine
-        eine Kindschaftssache nach § 151 Nr. 6 und 7 FamFG betreffen.
+    *   Die Gebühr entsteht nicht für Verfahren,
+
+        1.  die in den Rahmen einer Vormundschaft oder Pflegschaft fallen,
+
+
+        2.  die eine Kindschaftssache nach § 151 Nr. 6 oder Nr. 7 FamFG betreffen
+            oder
+
+
+        3.  die mit der Anordnung einer Vormundschaft oder Pflegschaft enden.
+
+
+
 
     *
 
@@ -2534,6 +2565,38 @@ Gehör**
 
     *
 
+*    *   Unterabschnitt 3
+        Beschwerden gegen die Zurückweisung eines Antrags auf Anordnung eines
+        Arrests
+        sowie in Verfahren nach der Verordnung (EU) Nr. 655/2014
+
+
+*    *   1425
+
+    *   Verfahren über die Beschwerde
+
+    *
+
+*    *
+    *   1. gegen die Zurückweisung eines Antrags auf Anordnung eines Arrests
+        oder
+
+    *
+
+*    *
+    *   2. in Verfahren nach der Verordnung (EU) Nr. 655/2014 ..........
+
+    *   1,5
+
+
+*    *   1426
+
+    *   Beendigung des gesamten Verfahrens durch Zurücknahme der Beschwerde:
+        Die Gebühr 1425 ermäßigt sich auf ..........
+
+    *   0,5
+
+
 *    *   **Hauptabschnitt 5**
         **Besondere Gebühren**
 
@@ -2568,7 +2631,7 @@ Gehör**
     *   Anordnung von Zwangsmaßnahmen durch Beschluss nach § 35 FamFG:
         je Anordnung ..........
 
-    *   22,00 €
+    *   24,00 €
 
 
 *    *   1503
@@ -2592,17 +2655,25 @@ Gehör**
 *    *   1600
 
     *   Verfahren über den Antrag auf Erteilung einer weiteren vollstreckbaren
-        Ausfertigung (§ 733 ZPO) ..........
+        Ausfertigung (§ 733 ZPO) oder auf Erteilung einer vollstreckbaren
+        Ausfertigung für oder gegen einen Rechtsnachfolger (§ 727, auch i. V.
+        m. den §§ 728, 729, 738, 742, 744, 744a, 745 Abs. 2 oder § 749 ZPO)
+        ..........
 
-    *   22,00 €
+    *   24,00 €
 
 
 *    *
-    *   Die Gebühr wird für jede weitere vollstreckbare Ausfertigung gesondert
-        erhoben. Sind wegen desselben Anspruchs in einem Mahnverfahren gegen
-        mehrere Personen gesonderte Vollstreckungsbescheide erlassen worden
-        und werden hiervon gleichzeitig mehrere weitere vollstreckbare
-        Ausfertigungen beantragt, wird die Gebühr nur einmal erhoben.
+    *   (1) Die Gebühr wird für jede weitere vollstreckbare Ausfertigung
+        gesondert erhoben. Sind wegen desselben Anspruchs in einem
+        Mahnverfahren gegen mehrere Personen gesonderte
+        Vollstreckungsbescheide erlassen worden und werden hiervon
+        gleichzeitig mehrere weitere vollstreckbare Ausfertigungen beantragt,
+        wird die Gebühr nur einmal erhoben.
+        (2) In Verfahren über den Antrag auf Erteilung einer vollstreckbaren
+        Ausfertigung für oder gegen einen Rechtsnachfolger wird die Gebühr im
+        Fall der erstmaligen Erteilung einer vollstreckbaren Ausfertigung
+        nicht erhoben.
 
     *
 
@@ -2611,7 +2682,7 @@ Gehör**
     *   Anordnung der Vornahme einer vertretbaren Handlung durch einen Dritten
         ..........
 
-    *   22,00 €
+    *   24,00 €
 
 
 *    *   1602
@@ -2619,7 +2690,7 @@ Gehör**
     *   Anordnung von Zwangs- oder Ordnungsmitteln:
         je Anordnung ..........
 
-    *   22,00 €
+    *   24,00 €
 
 
 *    *
@@ -2635,7 +2706,7 @@ Gehör**
     *   Verfahren zur Abnahme einer eidesstattlichen Versicherung (§ 94 FamFG)
         ..........
 
-    *   35,00 €
+    *   38,00 €
 
 
 *    *
@@ -2691,7 +2762,7 @@ Gehör**
     *
 
 *    *
-    *   264,00 €
+    *   288,00 €
 
 
 *    *   1711
@@ -2701,7 +2772,7 @@ Gehör**
         Ausstellung des Formblatts oder der Bescheinigung nach § 71 Abs. 1 AUG
         ..........
 
-    *   17,00 €
+    *   19,00 €
 
 
 *    *   1712
@@ -2710,7 +2781,7 @@ Gehör**
         1079 ZPO und auf Aussetzung der Vollstreckung nach § 44f IntFamRVG
         ..........
 
-    *   22,00 €
+    *   24,00 €
 
 
 *    *   1713
@@ -2732,7 +2803,7 @@ Gehör**
 
 
 
-    *   66,00 €
+    *   72,00 €
 
 
 *    *   1714
@@ -2741,7 +2812,7 @@ Gehör**
         FamFG:
         Der Antrag wird zurückgewiesen ..........
 
-    *   264,00 €
+    *   288,00 €
 
 
 *    *   1715
@@ -2752,7 +2823,7 @@ Gehör**
         der Entscheidungsformel bekannt gegeben worden ist:
         Die Gebühr 1710 oder 1714 ermäßigt sich auf ..........
 
-    *   99,00 €
+    *   108,00 €
 
 
 *    *   Abschnitt 2 ****
@@ -2765,7 +2836,7 @@ Gehör**
     *   Verfahren über die Beschwerde oder Rechtsbeschwerde in den in den
         Nummern 1710, 1713 und 1714 genannten Verfahren ..........
 
-    *   396,00 €
+    *   432,00 €
 
 
 *    *   1721
@@ -2775,7 +2846,7 @@ Gehör**
         Begründung des Rechtsmittels bei Gericht eingegangen ist:
         Die Gebühr 1720 ermäßigt sich auf ..........
 
-    *   99,00 €
+    *   108,00 €
 
 
 *    *   1722
@@ -2784,7 +2855,7 @@ Gehör**
         Nummer 1721 erfüllt ist:
         Die Gebühr 1720 ermäßigt sich auf ..........
 
-    *   198,00 €
+    *   216,00 €
 
 
 *    *
@@ -2816,7 +2887,7 @@ Gehör**
 
         Die Beschwerde wird verworfen oder zurückgewiesen ..........
 
-    *   66,00 €
+    *   72,00 €
 
 
 *    *   **Hauptabschnitt 8**
@@ -2830,7 +2901,7 @@ Gehör**
         Die Rüge wird in vollem Umfang verworfen oder zurückgewiesen
         ..........
 
-    *   66,00 €
+    *   72,00 €
 
 
 *    *   **Hauptabschnitt 9**
@@ -2847,7 +2918,7 @@ Gehör**
         Abs. 2, § 99 Abs. 2, § 269 Abs. 5 oder § 494a Abs. 2 Satz 2 ZPO
         ..........
 
-    *   99,00 €
+    *   108,00 €
 
 
 *    *   1911
@@ -2855,7 +2926,7 @@ Gehör**
     *   Beendigung des gesamten Verfahrens ohne Endentscheidung:
         Die Gebühr 1910 ermäßigt sich auf ..........
 
-    *   66,00 €
+    *   72,00 €
 
 
 *    *
@@ -2875,7 +2946,7 @@ Gehör**
         nach anderen Vorschriften gebührenfrei ist:
         Die Beschwerde wird verworfen oder zurückgewiesen ..........
 
-    *   66,00 €
+    *   72,00 €
 
 
 *    *
@@ -2895,7 +2966,7 @@ Gehör**
         91a Abs. 1, § 99 Abs. 2, § 269 Abs. 4 oder § 494a Abs. 2 Satz 2 ZPO
         ..........
 
-    *   198,00 €
+    *   216,00 €
 
 
 *    *   1921
@@ -2905,7 +2976,7 @@ Gehör**
         der Rechtsbeschwerde bei Gericht eingegangen ist:
         Die Gebühr 1920 ermäßigt sich auf ..........
 
-    *   66,00 €
+    *   72,00 €
 
 
 *    *   1922
@@ -2916,7 +2987,7 @@ Gehör**
         Nummer 1921 erfüllt ist:
         Die Gebühr 1920 ermäßigt sich auf ..........
 
-    *   99,00 €
+    *   108,00 €
 
 
 *    *   1923
@@ -2925,7 +2996,7 @@ Gehör**
         nicht nach anderen Vorschriften gebührenfrei ist:
         Die Rechtsbeschwerde wird verworfen oder zurückgewiesen ..........
 
-    *   132,00 €
+    *   144,00 €
 
 
 *    *
@@ -2942,7 +3013,7 @@ Gehör**
         Rechtsbeschwerde oder des Antrags vor Ablauf des Tages, an dem die
         Endentscheidung der Geschäftsstelle übermittelt wird ..........
 
-    *   66,00 €
+    *   72,00 €
 
 
 *    *   Abschnitt 3 ****
@@ -2955,7 +3026,7 @@ Gehör**
         besonders aufgeführten Fällen:
         Wenn der Antrag abgelehnt wird ..........
 
-    *   66,00 €
+    *   72,00 €
 
 
 
@@ -2983,8 +3054,7 @@ Gehör**
         erhoben. In den in Vorbemerkung 1.3.1 Abs. 1 genannten Verfahren
         werden keine Auslagen erhoben; für Kindschaftssachen nach § 151 Nr. 6
         und 7 FamFG gilt dies auch im Verfahren über den Erlass einer
-        einstweiligen Anordnung. Die Sätze 1 und 2 gelten nicht für die
-        Auslagen 2013.
+        einstweiligen Anordnung.
         (4) Bei Handlungen durch das Vollstreckungs- oder Arrestgericht werden
         Auslagen nach dem GKG erhoben.
 
@@ -3236,27 +3306,22 @@ Gehör**
 
 *    *   2007
 
-    *   Auslagen für
+    *   Auslagen
 
-        1.  die Beförderung von Personen ..........
+    *
 
-
-
+*    *
+    *   1. der Beförderung von Personen ..........
 
     *   in voller Höhe
 
 
 *    *
-    *
-        2.  Zahlungen an mittellose Personen für die Reise zum Ort einer
-            Verhandlung oder Anhörung und für die Rückreise ..........
-
-
-
+    *   2. der Gewährung von Reiseentschädigungen für mittellose Personen,
+        soweit diese Kosten nicht Auslagen nach Nummer 2005 sind ..........
 
     *   bis zur Höhe der nach dem JVEG
-        an Zeugen zu
-        zahlenden Beträge
+        an Zeugen zu zahlenden Beträge
 
 
 *    *   2008
@@ -3328,12 +3393,6 @@ Gehör**
     *   in voller Höhe
 
 
-*    *
-    *   Die Beträge werden von dem Minderjährigen nur nach Maßgabe des § 1808
-        Abs. 2 Satz 1 und des § 1880 Abs. 2 BGB erhoben.
-
-    *
-
 *    *   2014
 
     *   An den Umgangspfleger sowie an Verfahrenspfleger nach § 9 Abs. 5
@@ -3343,14 +3402,6 @@ Gehör**
 
 
 *    *   2015
-
-    *   Pauschale für die Inanspruchnahme von Videokonferenzverbindung:
-        je Verfahren für jede angefangene halbe Stunde ..........
-
-    *   15,00 €
-
-
-*    *   2016
 
     *   Umsatzsteuer auf die Kosten
         Dies gilt nicht, wenn die Umsatzsteuer nach § 19 Abs. 1 UStG unerhoben
@@ -3363,17 +3414,17 @@ Gehör**
 
 #### Anlage 2 (zu § 28 Absatz 1 Satz 3)
 
-(Fundstelle: BGBl. I 2020, 3235)
+(Fundstelle: BGBl. 2025 I Nr. 109, S. 14)
 
 
-*    *   Verfahrens wert
+*    *   Verfahrenswert
         bis … €
 
     *   Gebühr
         … €
 
     *
-    *   Verfahrens wert
+    *   Verfahrenswert
         bis … €
 
     *   Gebühr
@@ -3382,212 +3433,212 @@ Gehör**
 
 *    *   **500**
 
-    *   38,00
+    *   40,00
 
     *
     *   **50 000**
 
-    *   601,00
+    *   638,00
 
 
 *    *   **1 000**
 
-    *   58,00
+    *   61,00
 
     *
     *   **65 000**
 
-    *   733,00
+    *   778,00
 
 
 *    *   **1 500**
 
-    *   78,00
+    *   82,00
 
     *
     *   **80 000**
 
-    *   865,00
+    *   918,00
 
 
 *    *   **2 000**
 
-    *   98,00
+    *   103,00
 
     *
     *   **95 000**
 
-    *   997,00
+    *   1 058,00
 
 
 *    *   **3 000**
 
-    *   119,00
+    *   125,50
 
     *
     *   **110 000**
 
-    *   1 129,00
+    *   1 198,00
 
 
 *    *   **4 000**
 
-    *   140,00
+    *   148,00
 
     *
     *   **125 000**
 
-    *   1 261,00
+    *   1 338,00
 
 
 *    *   **5 000**
 
-    *   161,00
+    *   170,50
 
     *
     *   **140 000**
 
-    *   1 393,00
+    *   1 478,00
 
 
 *    *   **6 000**
 
-    *   182,00
+    *   193,00
 
     *
     *   **155 000**
 
-    *   1 525,00
+    *   1 618,00
 
 
 *    *   **7 000**
 
-    *   203,00
+    *   215,50
 
     *
     *   **170 000**
 
-    *   1 657,00
+    *   1 758,00
 
 
 *    *   **8 000**
 
-    *   224,00
+    *   238,00
 
     *
     *   **185 000**
 
-    *   1 789,00
+    *   1 898,00
 
 
 *    *   **9 000**
 
-    *   245,00
+    *   260,50
 
     *
     *   **200 000**
 
-    *   1 921,00
+    *   2 038,00
 
 
 *    *   **10 000**
 
-    *   266,00
+    *   283,00
 
     *
     *   **230 000**
 
-    *   2 119,00
+    *   2 248,00
 
 
 *    *   **13 000**
 
-    *   295,00
+    *   313,50
 
     *
     *   **260 000**
 
-    *   2 317,00
+    *   2 458,00
 
 
 *    *   **16 000**
 
-    *   324,00
+    *   344,00
 
     *
     *   **290 000**
 
-    *   2 515,00
+    *   2 668,00
 
 
 *    *   **19 000**
 
-    *   353,00
+    *   374,50
 
     *
     *   **320 000**
 
-    *   2 713,00
+    *   2 878,00
 
 
 *    *   **22 000**
 
-    *   382,00
+    *   405,00
 
     *
     *   **350 000**
 
-    *   2 911,00
+    *   3 088,00
 
 
 *    *   **25 000**
 
-    *   411,00
+    *   435,50
 
     *
     *   **380 000**
 
-    *   3 109,00
+    *   3 298,00
 
 
 *    *   **30 000**
 
-    *   449,00
+    *   476,00
 
     *
     *   **410 000**
 
-    *   3 307,00
+    *   3 508,00
 
 
 *    *   **35 000**
 
-    *   487,00
+    *   516,50
 
     *
     *   **440 000**
 
-    *   3 505,00
+    *   3 718,00
 
 
 *    *   **40 000**
 
-    *   525,00
+    *   557,00
 
     *
     *   **470 000**
 
-    *   3 703,00
+    *   3 928,00
 
 
 *    *   **45 000**
 
-    *   563,00
+    *   597,50
 
     *
     *   **500 000**
 
-    *   3 901,00
+    *   4 138,00
 
 
 

@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2012, 1000
 
 Zuletzt geändert durch
-:   Art. 9 V v. 8.1.2020 I 27
+:   Art. 3 V v. 6.3.2025 I Nr. 78
 
 
 ## § 1 Anspruchsvoraussetzungen
@@ -126,7 +126,7 @@ Je Stunde der Gesamtzeit erhalten Vollzeitbeschäftigte
     *        *   der Besoldungsgruppen A 5
             bis A 8
 
-        *   14,00 Euro,
+        *   17,64 Euro,
 
 
 
@@ -136,7 +136,7 @@ Je Stunde der Gesamtzeit erhalten Vollzeitbeschäftigte
     *        *   der Besoldungsgruppen A 9
             bis A 12
 
-        *   18,00 Euro,
+        *   22,68 Euro,
 
 
 
@@ -145,7 +145,7 @@ Je Stunde der Gesamtzeit erhalten Vollzeitbeschäftigte
 3.
     *        *   der Besoldungsgruppe A 13
 
-        *   24,00 Euro,
+        *   30,24 Euro,
 
 
 
@@ -154,7 +154,7 @@ Je Stunde der Gesamtzeit erhalten Vollzeitbeschäftigte
 4.
     *        *   der Besoldungsgruppe A 14
 
-        *   26,00 Euro,
+        *   32,76 Euro,
 
 
 
@@ -164,7 +164,7 @@ Je Stunde der Gesamtzeit erhalten Vollzeitbeschäftigte
     *        *   der Besoldungsgruppen A 15
             und A 16
 
-        *   28,00 Euro.
+        *   35,28 Euro.
 
 
 

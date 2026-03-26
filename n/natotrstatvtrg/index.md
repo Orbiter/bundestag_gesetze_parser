@@ -377,7 +377,7 @@ genannten Frist beginnt mit der Freigabe der Sache; Artikel 6 Abs. 4
 Satz 2 ist entsprechend anzuwenden.
 
 
-#### Art 8
+#### Art 8 - 
 
 Zuständig ist die Verteidigungslastenverwaltung. Sie wird in
 bundeseigener Verwaltung mit eigenem Verwaltungsunterbau oder in einer
@@ -678,22 +678,6 @@ der Straße erforderlichen Bedingungen festzulegen.
 
 (2) Der Entscheidung über die Zustimmung hat eine Verhandlung mit den
 Beteiligten vorauszugehen.
-
-
-#### Art 23 - 
-
-Ist eine Straße, deren Baulastträger nicht der Bund ist, in das gemäß
-Artikel 57 Abs. 4 Buchstabe b des Zusatzabkommens zu vereinbarende
-Straßennetz einbezogen worden und ist wegen des Verkehrs mit
-Kraftfahrzeugen und Kraftfahrzeuganhängern, deren Abmessungen,
-Achslast, Gesamtgewicht oder Anzahl (Kolonnenverkehr) die nach dem
-deutschen Straßenverkehrsrecht geltenden Begrenzungen überschreiten,
-ein Ausbau oder ein erhöhter Aufwand für die Unterhaltung der Straße
-erforderlich, so erstattet der Bund dem Träger der Straßenbaulast die
-hierdurch entstehenden notwendigen Mehrkosten, sofern das
-Bundesministerium für Verkehr, Bau und Stadtentwicklung oder die von
-ihm bestimmten Stellen der Einbeziehung zugestimmt haben. Dabei ist
-die Ersparnis von Aufwendungen zu berücksichtigen.
 
 
 #### Art 23 - 

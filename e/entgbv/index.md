@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2012, 2712
 
 Zuletzt geändert durch
-:   Art. 30 G v. 20.12.2022 I 2759
+:   Art. 1 V v. 1.10.2024 I Nr. 297
 
 
 ## Eingangsformel
@@ -67,8 +67,11 @@ Arbeitnehmerin oder zum Arbeitnehmer zu enthalten:
     Gesamtsozialversicherungsbeitrag;
 
 
-9.  gegebenenfalls die Angabe, dass ein Beitragszuschlag für Kinderlose
-    nach § 55 Absatz 3 des Elften Buches Sozialgesetzbuch erhoben wird;
+9.  die Kennziffer 0 für den Beitragszuschlag für Kinderlose, die
+    Kennziffern 1 bis 5 für Beschäftigte entsprechend der Anzahl ihrer
+    Kinder, die nach § 55 Absatz 3 des Elften Buches Sozialgesetzbuch zu
+    berücksichtigen sind, sowie eine Kennziffer für Beschäftigte, für die
+    die Elterneigenschaft nachgewiesen ist;
 
 
 10. gegebenenfalls die Angabe, dass es sich um ein
@@ -119,9 +122,10 @@ darzustellen:
 
 
     d)  pauschal besteuerte Bezüge nach den §§ 37b, 40 Absatz 1 und 2, nach §
-        40a Absatz 2 und § 40b des Einkommensteuergesetzes jeweils nach ihrer
-        gesetzlichen Grundlage getrennt, als sonstiges Pauschalsteuerbrutto
-        alle weiteren pauschal besteuerten Bezüge;
+        40a Absatz 2 und § 40b sowie § 52 Absatz 40 des
+        Einkommensteuergesetzes jeweils nach ihrer gesetzlichen Grundlage
+        getrennt, als sonstiges Pauschalsteuerbrutto alle weiteren pauschal
+        besteuerten Bezüge;
 
 
 

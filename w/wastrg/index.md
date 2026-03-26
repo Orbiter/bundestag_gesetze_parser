@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 23.5.2007 I 962; 2008, 1980;
 
 Zuletzt geändert durch
-:   Art. 5 G v. 22.12.2023 I Nr. 409
+:   Art. 3 G v. 12.8.2025 I Nr. 189
 
 
 ## Abschnitt 1 - Bundeswasserstraßen
@@ -1295,7 +1295,7 @@ des Telekommunikationsgesetzes sind anzeigepflichtig, aber
 genehmigungsfrei. Ist eine strom- und schifffahrtspolizeiliche
 Genehmigung erforderlich, ersetzt die Anzeige den Antrag auf Erteilung
 dieser Genehmigung. Für die Erteilung der Genehmigung gelten § 11a
-Absatz 4 und 5 Satz 1 bis 6 sowie § 108 des Wasserhaushaltsgesetzes
+Absatz 4 bis 7 Satz 1 bis 5 sowie § 108 des Wasserhaushaltsgesetzes
 entsprechend, wenn es sich um eine Anlage zur Erzeugung von Energie
 aus erneuerbaren Quellen handelt.
 

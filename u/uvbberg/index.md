@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2013, 3836
 
 Zuletzt geändert durch
-:   Art. 30 G v. 20.8.2021 I 3932
+:   Art. 8 G v. 18.12.2024 I Nr. 423
 
 
 ## Abschnitt 1 - Errichtung
@@ -155,15 +155,17 @@ Arbeit und Soziales. Entstehende Kosten sind nicht zu erstatten.
 Erbringung der folgenden Leistungen übertragen:
 
 1.  Leistungen der medizinischen Versorgung nach Kapitel 3 Abschnitt 2
-    Unterabschnitt 1 und 2 des Soldatenentschädigungsgesetzes,
+    Unterabschnitt 1 und 2 und die Leistungen der Hilfsmittelversorgung
+    nach den Kapiteln 3 bis 5 für alle früheren Soldatinnen und Soldaten
+    nach § 31 Absatz 2 des Siebten Buches Sozialgesetzbuch,
 
 
 2.  Leistungen zur Teilhabe am Arbeitsleben nach Kapitel 4 des
-    Soldatenentschädigungsgesetzes,
+    Soldatenentschädigungsgesetzes für geschädigte Personen, die sich
+    nicht im Wehrdienstverhältnis befinden,
 
 
-3.  Leistungen der Wohnungshilfe nach § 33 Absatz 2 Nummer 2 des
-    Soldatenentschädigungsgesetzes und
+3.  Leistungen der Wohnungshilfe nach dem Soldatenentschädigungsgesetz und
 
 
 4.  Leistungen zur Teilhabe am Arbeitsleben nach § 46 des

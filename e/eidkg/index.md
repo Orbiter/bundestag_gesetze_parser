@@ -17,8 +17,9 @@ Fundstelle
 :   BGBl I: 2019, 846
 
 Zuletzt geändert durch
-:   Art. 3 G v. 8.10.2023 I Nr. 271
+:   Art. 6 G v. 23.10.2024 I Nr. 322
 
+Stand: Mittelbare Änderung gem. Art. 2 G v. 23.10.2024 I Nr. 322 ist berücksichtigt
 
 ## Abschnitt 1 - Allgemeine Vorschriften
 
@@ -269,11 +270,11 @@ ausgestellt, wenn sie
 1.  dem in § 1 Absatz 1 genannten Personenkreis unterfällt und
 
 
-2.  mindestens 16 Jahre alt ist.
+2.  mindestens 13 Jahre alt ist.
 
 
 
-Jugendliche, die mindestens 16 Jahre alt sind, dürfen
+Jugendliche, die mindestens 13 Jahre alt sind, dürfen
 Verfahrenshandlungen nach diesem Gesetz vornehmen.
 
 (2) In dem Antrag sind alle Tatsachen anzugeben, die zur Feststellung
@@ -572,7 +573,14 @@ Bearbeitungsvermerken ausschließlich folgende Daten enthalten:
 6.  Anschrift,
 
 
+6a. E-Mail-Adresse, sofern der Inhaber der eID-Karte in die Speicherung
+    einwilligt,
+
+
 7.  Staatsangehörigkeit,
+
+
+7a. Identifikationsnummer nach dem Identifikationsnummerngesetz,
 
 
 8.  Seriennummer,
@@ -627,10 +635,16 @@ unverzüglich
 1.  die eID-Karte vorzulegen, wenn eine Eintragung unrichtig ist,
 
 
-2.  die alte eID-Karte beim Empfang einer neuen eID-Karte abzugeben sowie
+2.  die alte eID-Karte beim Empfang einer neuen eID-Karte abzugeben,
 
 
-3.  den Verlust der eID-Karte und ihr Wiederauffinden anzuzeigen.
+3.  den Verlust der eID-Karte und ihr Wiederauffinden anzuzeigen sowie
+
+
+4.  im Falle der Ausgabe der eID-Karte im Wege des postalischen Versands
+    anzuzeigen, wenn die Sendung unbefugt geöffnet worden ist oder die
+    eID-Karte nicht enthält oder wenn die eID-Karte beschädigt ist oder
+    eine Angabe auf der eID-Karte unrichtig ist.
 
 
 

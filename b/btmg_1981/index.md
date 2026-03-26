@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 1.3.1994 I 358;
 
 Zuletzt geändert durch
-:   Art. 2 G v. 26.7.2023 I Nr. 204
-
-Änderung durch
-:   Art. 3 G v. 27.3.2024 I Nr. 109 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 V v. 19.12.2025 I Nr. 365
 
 
 ## Erster Abschnitt - Begriffsbestimmungen
@@ -1273,10 +1270,6 @@ Befugnisse zu.
 zugleich die besondere Verwaltungsdienststelle im Sinne der
 internationalen Suchtstoffübereinkommen.
 
-(2a) (weggefallen)
-
-(3) (weggefallen)
-
 
 ### § 20 Besondere Ermächtigung für den Spannungs- oder Verteidigungsfall
 
@@ -1437,9 +1430,6 @@ verweigern, deren Beantwortung ihn selbst oder einen seiner in § 383
 Abs. 1 Nr. 1 bis 3 der Zivilprozeßordnung bezeichneten Angehörigen der
 Gefahr strafgerichtlicher Verfolgung oder eines Verfahrens nach dem
 Gesetz über Ordnungswidrigkeiten aussetzen würde.
-
-
-### § 24a (weggefallen)
 
 
 ### § 25 (weggefallen)
@@ -3931,6 +3921,15 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   -
 
+    *   Bromazolam
+
+    *   8-Brom-1-methyl-6-phenyl-4
+        H                       -[1,2,4]triazol[4,3-a]
+        [1,4]benzodiazepin
+
+
+*    *   -
+
     *   Brorphin
 
     *   1-{1-[1-(4-Bromphenyl)ethyl]piperidin-4-yl}-1,3-dihydro-2H-
@@ -3959,6 +3958,17 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         H                       ,3
         H                       ,5
         H                       )-trion
+
+
+*    *   -
+
+    *   Butonitazen (Butoxynitazen)
+
+    *   N                       ,
+        N
+        -Diethyl-2-{2-[(4-butoxyphenyl)methyl]-5-nitro-
+        1
+        H                       -benzimidazol-1-yl}ethan-1-amin
 
 
 *    *   -
@@ -4105,7 +4115,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   -
 
-    *[^BJNR106810981BJNE008112116_1_BJNR106810981BJNE008120130]
+    *[^BJNR106810981BJNE008112116_1_BJNR106810981BJNE008122130]
    CUMYL-4CN-BINACA
         (SGT-78)
 
@@ -4270,6 +4280,15 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   3,4-Dimethylmethcathinon (3,4-DMMC)
 
     *   1-(3,4-Dimethylphenyl)-2-(methylamino)propan-1-on
+
+
+*    *   -
+
+    *   N                       ,
+        N                       -Dimethylpentylon
+        (Dipentylon, bk-DMBDP)
+
+    *   1-(1,3-Benzodioxol-5-yl)-2-(dimethylamino)pentan-1-on
 
 
 *    *   -
@@ -4463,6 +4482,17 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   -
 
+    *   Etomethazen (5-Methyl-Etodesnitazen,
+        5-Methyldesnitroetonitazen)
+
+    *   N                       ,
+        N
+        -Diethyl-2-{2-[(4-ethoxyphenyl)methyl]-5-methyl-1
+        H                       -benzimidazol-1-yl}ethan-1-amin
+
+
+*    *   -
+
     *   Etonitazepyn (
         N                       -Pyrrolidino Etonitazen)
 
@@ -4518,6 +4548,35 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   8-Brom-6-(2-fluorphenyl)-1-methyl-4
         H                       -[1,2,4]triazolo[4,3-
         a][1,4]benzodiazepin
+
+
+*    *   -
+
+    *   2-Fluordeschlorketamin
+        (2-Fluorketamin, 2-FDCK, 2-FL-2‘-OXO-PCM)
+
+    *   2-(2-Fluorphenyl)-2-(methylamino)cyclohexan-1-on
+
+
+*    *   -
+
+    *   Fluor-Etonitazen (Fluetonitazen,
+        F-Etonitazen, F-Eto, 2F-Eto, 2F-Etonitazen)
+
+    *   N,N
+        -Diethyl-2-(2-{[4-(2-fluorethoxy)phenyl]methyl}-
+        5-nitro-1
+        H                       -benzimidazol-1-yl)ethan-1-amin
+
+
+*    *   -
+
+    *   Fluor-Etonitazepyn (Fluetonitazepyn,
+        F-Etonitazepyn, N-Pyrrolidin-Fluetonitazen)
+
+    *   2-{[4-(2-Fluorethoxy)phenyl]methyl}-5-nitro-
+        1-[2-(pyrrolidin-1-yl)ethyl]-1
+        H                       -benzimidazol
 
 
 *    *   -
@@ -5525,7 +5584,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     Rahmenbeschlusses 2004/757/JI des Rates zur Aufnahme neuer
     psychoaktiver Substanzen in die Drogendefinition (ABl. L 66 vom
     7\.3.2019, S. 3) umgesetzt.
-[^BJNR106810981BJNE008112116_1_BJNR106810981BJNE008120130]: 
+[^BJNR106810981BJNE008112116_1_BJNR106810981BJNE008122130]: 
 (zu § 1 Abs. 1)
 
 ### Anlage III verkehrsfähige und verschreibungsfähige Betäubungsmittel
@@ -6706,6 +6765,23 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
+*    *   **Zuranolon**
+
+    *   –
+
+    *   1-[(3α,5β)-3-Hydroxy-3-methyl-20-oxo-19-norpregnan-21-yl]-1
+        H                       -pyrazol-4-carbonitril
+
+
+*    *
+        -   ausgenommen in Zubereitungen, die ohne einen weiteren Stoff der
+            Anlagen I bis III je abgeteilte Form bis zu 50 mg Zuranolon enthalten
+            -
+
+
+
+
+
 *    *
         -   die Salze und Molekülverbindungen der in dieser Anlage aufgeführten
             Stoffe, wenn sie nach den Erkenntnissen der medizinischen Wissenschaft
@@ -6716,7 +6792,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
             nicht
 
             a)  ohne am oder im menschlichen oder tierischen Körper angewendet zu
-                werden, ausschließlich diagnostischen der analytischen Zwecken dienen
+                werden, ausschließlich diagnostischen oder analytischen Zwecken dienen
                 und ihr Gehalt an einem oder mehreren Betäubungsmitteln, bei
                 Lyophilisaten und entsprechend zu verwendenden Stoffgemischen in der
                 gebrauchsfertigen Lösung, jeweils 0,01 vom Hundert nicht übersteigt

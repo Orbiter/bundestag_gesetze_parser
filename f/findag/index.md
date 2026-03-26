@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2002, 1310
 
 Zuletzt geändert durch
-:   Art. 22 G v. 11.12.2023 I Nr. 354
-
-Änderung durch
-:   Art. 4 G v. 22.12.2023 I Nr. 411 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 40 G v. 4.2.2026 I Nr. 33
 
 
 ## Erster Abschnitt - Errichtung, Aufsicht, Aufgaben
@@ -72,12 +69,11 @@ der Finanzen im Rahmen der ihm nach den Vorschriften der
 Anstaltssatzung obliegenden Aufsicht über die Versorgungsanstalt des
 Bundes und der Länder tätig. Das Nähere einschließlich des Beginns der
 Organleihe wird im Einvernehmen mit dem Bundesministerium des Innern
-und für Heimat in einer Verwaltungsvereinbarung zwischen dem
-Bundesministerium der Finanzen und der Bundesanstalt geregelt. Die
-Bundesanstalt nimmt außerdem die Aufgaben der Abwicklungsbehörde nach
-§ 3 Absatz 1 des Sanierungs- und Abwicklungsgesetzes sowie die ihr auf
-Grundlage des Restrukturierungsfondsgesetzes übertragenen Aufgaben
-wahr.
+in einer Verwaltungsvereinbarung zwischen dem Bundesministerium der
+Finanzen und der Bundesanstalt geregelt. Die Bundesanstalt nimmt
+außerdem die Aufgaben der Abwicklungsbehörde nach § 3 Absatz 1 des
+Sanierungs- und Abwicklungsgesetzes sowie die ihr auf Grundlage des
+Restrukturierungsfondsgesetzes übertragenen Aufgaben wahr.
 
 (1a) Die Bundesanstalt ist innerhalb ihres gesetzlichen Auftrags auch
 dem Schutz der kollektiven Verbraucherinteressen verpflichtet.
@@ -135,6 +131,23 @@ Bestimmungen sowie nach Maßgabe
 
 
 zusammen.
+
+(2a) Die Bundesanstalt stellt in dem nach Artikel 32 Absatz 1 Satz 1
+der Verordnung (EU) 2022/2554 des Europäischen Parlaments und des
+Rates vom 14. Dezember 2022 über die digitale operationale Resilienz
+im Finanzsektor und zur Änderung der Verordnungen (EG) Nr. 1060/2009,
+(EU) Nr. 648/2012, (EU) Nr. 600/2014, (EU) Nr. 909/2014 und (EU)
+2016/1011 (ABl. L 333 vom 27.12.2022, S. 1) eingerichteten
+Überwachungsforum den hochrangigen Vertreter nach Artikel 32 Absatz 4
+Buchstabe b der Verordnung (EU) 2022/2554. Vertreter der Bundesanstalt
+wirken in den gemeinsamen Untersuchungsteams nach Artikel 40 Absatz 1
+der Verordnung (EU) 2022/2554 mit.
+
+(2b) Landesbehörden, die zuständige Behörden nach Artikel 46 der
+Verordnung (EU) 2022/2554 sind, können zur Erfüllung ihrer
+Verpflichtungen nach Artikel 19 Absatz 6 Buchstabe a und c der
+Verordnung (EU) 2022/2554 bestehende IT-Verfahren der Bundesanstalt
+nutzen. Die Einzelheiten sind durch Verwaltungsvereinbarung zu regeln.
 
 (3) Bei der Durchführung ihrer Aufgaben kann sich die Bundesanstalt
 anderer Personen und Einrichtungen bedienen.
@@ -458,13 +471,15 @@ Bestimmungen aufzunehmen über
 
 (1) Die Bundesanstalt wird durch das Direktorium gesamtverantwortlich
 geleitet. Das Direktorium besteht aus einem Präsidenten oder einer
-Präsidentin sowie Exekutivdirektoren oder Exekutivdirektorinnen, von
-denen einer oder eine als Vizepräsident oder Vizepräsidentin ständiger
-Vertreter oder ständige Vertreterin des Präsidenten oder der
-Präsidentin ist. Das Direktorium beschließt ein Organisationsstatut,
-welches die Zuständigkeiten und Aufgaben innerhalb des Direktoriums
-festlegt. Das Organisationsstatut sowie dessen Änderungen sind dem
-Bundesministerium zur Genehmigung vorzulegen.
+Präsidentin sowie Exekutivdirektoren und Exekutivdirektorinnen, von
+denen einer oder eine im Benehmen mit dem Präsidenten oder der
+Präsidentin durch das Bundesministerium zum Vizepräsidenten oder zur
+Vizepräsidentin als ständiger Vertreter oder ständige Vertreterin des
+Präsidenten oder der Präsidentin ernannt werden kann. Das Direktorium
+beschließt ein Organisationsstatut, welches die Zuständigkeiten und
+Aufgaben innerhalb des Direktoriums festlegt. Das Organisationsstatut
+sowie dessen Änderungen sind dem Bundesministerium zur Genehmigung
+vorzulegen.
 
 (2) Das Direktorium berät unter dem Vorsitz des Präsidenten oder der
 Präsidentin. Es fasst seine Beschlüsse – auch im Falle von
@@ -505,20 +520,17 @@ Aufgabenbereiche zu berichten.
 
 2.  folgenden 14 weiteren Mitgliedern:
 
-    a)  einem Vertreter des Bundesministeriums für Wirtschaft und Klimaschutz,
+    a)  einem Vertreter des Bundesministeriums für Wirtschaft und Energie,
 
 
-    b)  einem Vertreter des Bundesministeriums der Justiz,
+    b)  zwei Vertretern des Bundesministeriums der Justiz und für
+        Verbraucherschutz,
 
 
-    c)  einem Vertreter des Bundesministeriums für Umwelt, Naturschutz,
-        nukleare Sicherheit und Verbraucherschutz,
+    c)  fünf Mitgliedern des Deutschen Bundestages und
 
 
-    d)  fünf Mitgliedern des Deutschen Bundestages und
-
-
-    e)  sechs Personen mit beruflicher Erfahrung oder besonderen Kenntnissen
+    d)  sechs Personen mit beruflicher Erfahrung oder besonderen Kenntnissen
         auf dem Gebiet des Kredit-, Finanzdienstleistungs-, Zahlungsdienste-,
         Investment-, Versicherungs-, Wertpapier- oder Bilanzwesens, die jedoch
         nicht der Bundesanstalt angehören dürfen.
@@ -543,15 +555,15 @@ Vorsitzenden, seines Stellvertreters oder des weiteren Mitglieds des
 Verwaltungsrats nach Absatz 3 Satz 1 Nummer 1 bestellt das
 Bundesministerium der Finanzen zwei weitere stellvertretende
 Mitglieder des Verwaltungsrats. Für jedes Mitglied des Verwaltungsrats
-nach Absatz 3 Satz 1 Nummer 2 Buchstabe a bis d ist für den Fall
+nach Absatz 3 Satz 1 Nummer 2 Buchstabe a bis c ist für den Fall
 seiner Verhinderung ein Stellvertreter zu benennen und durch das
 Bundesministerium zu bestellen. Die Mitglieder des Verwaltungsrats
 müssen die Voraussetzungen für die Wählbarkeit zum Deutschen Bundestag
 erfüllen. Vor Bestellung der Mitglieder nach Absatz 3 Satz 1 Nummer 2
-Buchstabe e sind die Verbände der Kredit- und Versicherungswirtschaft
+Buchstabe d sind die Verbände der Kredit- und Versicherungswirtschaft
 sowie der Kapitalverwaltungsgesellschaften anzuhören. Für drei dieser
 Mitglieder können die Verbände namentliche Vorschläge unterbreiten,
-die die Voraussetzungen des Absatz 3 Satz 1 Nummer 2 Buchstabe e
+die die Voraussetzungen des Absatz 3 Satz 1 Nummer 2 Buchstabe d
 erfüllen müssen.
 
 (6) Die Abgeordneten des Deutschen Bundestages werden vom Deutschen
@@ -574,21 +586,7 @@ ernannte Stellvertreter die Aufgaben. Die Absätze 1 bis 8 finden auf
 die stellvertretenden Mitglieder entsprechende Anwendung.
 
 
-### § 8 Fachbeirat
-
-(1) Bei der Bundesanstalt wird ein Fachbeirat gebildet. Er berät die
-Bundesanstalt bei der Erfüllung ihrer Aufgaben. Er kann auch
-Empfehlungen zur allgemeinen Weiterentwicklung der Aufsichtspraxis
-einbringen.
-
-(2) Der Fachbeirat besteht aus 24 Mitgliedern. Die Mitglieder des
-Fachbeirats werden durch das Bundesministerium bestellt. Im Fachbeirat
-sollen die Finanzwissenschaft, die Kredit- und
-Versicherungswirtschaft, die Deutsche Bundesbank und die
-Verbraucherschutzvereinigungen angemessen vertreten sein.
-
-(3) Der Fachbeirat wählt aus seinem Kreis einen Vorsitzenden. Der
-Fachbeirat gibt sich eine Geschäftsordnung.
+### § 8 (weggefallen)
 
 
 ### § 8a Verbraucherbeirat
@@ -598,12 +596,13 @@ berät die Bundesanstalt aus Verbrauchersicht bei der Erfüllung ihrer
 Aufsichtsaufgaben.
 
 (2) Der Verbraucherbeirat besteht aus zwölf Mitgliedern. Die
-Mitglieder des Verbraucherbeirats werden durch das Bundesministerium
-bestellt. Im Verbraucherbeirat sollen die Wissenschaft, Verbraucher-
-und Anlegerschutzorganisationen, Mitarbeiter außergerichtlicher
-Streitschlichtungssysteme sowie das Bundesministerium für Umwelt,
-Naturschutz, nukleare Sicherheit und Verbraucherschutz angemessen
-vertreten sein.
+Mitglieder des Verbraucherbeirats werden durch die Bundesanstalt im
+Einvernehmen mit dem Bundesministerium und im Benehmen mit dem
+Bundesministerium der Justiz und für Verbraucherschutz bestellt. Im
+Verbraucherbeirat sollen die Wissenschaft, Verbraucher- und
+Anlegerschutzorganisationen, Mitarbeiter außergerichtlicher
+Streitschlichtungssysteme sowie das Bundesministerium der Justiz und
+für Verbraucherschutz angemessen vertreten sein.
 
 (3) Der Verbraucherbeirat wählt aus seinem Kreis einen Vorsitzenden.
 Der Verbraucherbeirat gibt sich eine Geschäftsordnung.
@@ -711,6 +710,21 @@ Präsidentin. Der Präsident oder die Präsidentin kann seine oder ihre
 Befugnisse nach diesem Absatz auf ein oder mehrere Mitglieder des
 Direktoriums übertragen.
 
+(4) Die von einer Beamtin oder einem Beamten beantragte Entlassung
+kann aus dienstlichem Interesse bis zu sechs Monate über den
+beantragten Zeitpunkt hinaus aufgeschoben werden, auch wenn die
+Voraussetzungen des § 33 Absatz 2 des Bundesbeamtengesetzes nicht
+vorliegen.
+
+(5) Die Beamtinnen und Beamten sind verpflichtet, der Bundesanstalt
+spätestens mit dem Antrag auf Entlassung mitzuteilen, ob sie
+beabsichtigten, eine Erwerbstätigkeit oder sonstige Beschäftigung
+außerhalb des öffentlichen Dienstes, die mit ihrer dienstlichen
+Tätigkeit in den letzten fünf Jahren vor Beendigung des
+Beschäftigungsverhältnisses im Zusammenhang steht, aufzunehmen.
+Nachträgliche Änderungen sind mitzuteilen. Die Anzeigepflicht endet
+sechs Monate nach Entlassung aus dem Beamtenverhältnis.
+
 
 ### § 10 Angestellte, Arbeiter und Auszubildende
 
@@ -725,6 +739,24 @@ dies für die Durchführung der Aufgaben erforderlich ist. Satz 1 gilt
 für die sonstige Gewährung von über- oder außertariflichen Leistungen
 entsprechend.
 
+(3) Abweichend von § 34 Absatz 1 Satz 2 des Tarifvertrags für den
+öffentlichen Dienst oder den diesen Tarifvertrag ersetzenden
+Regelungen beträgt die Kündigungsfrist sechs Monate zum Schluss eines
+Kalendervierteljahres. Dies gilt auch für bestehende Verträge. Um eine
+verhältnismäßige Ausgestaltung im Einzelfall sicherzustellen, kann die
+Bundesanstalt auch kürzere Kündigungsfristen vereinbaren, wenn die
+ausgeübte Tätigkeit keine über die tarifvertragliche Regelung
+hinausgehende Frist erfordert.
+
+(4) Die Angestellten, Arbeiter und Auszubildenden sind verpflichtet,
+der Bundesanstalt spätestens mit der Kündigungserklärung mitzuteilen,
+ob sie beabsichtigen, eine Erwerbstätigkeit oder sonstige
+Beschäftigung außerhalb des öffentlichen Dienstes, die mit ihrer
+dienstlichen Tätigkeit in den letzten fünf Jahren vor Beendigung des
+Beschäftigungsverhältnisses im Zusammenhang steht, aufzunehmen.
+Nachträgliche Änderungen sind mitzuteilen. Die Anzeigepflicht nach
+Satz 2 endet sechs Monate nach Beendigung des Arbeitsverhältnisses.
+
 
 ### § 10a Stellenzulage
 
@@ -735,8 +767,8 @@ des Bundesbesoldungsgesetzes.
 
 (2) Die Bundesanstalt kann den Tarifbeschäftigten der Bundesanstalt
 mit Zustimmung des Bundesministeriums der Finanzen und des
-Bundesministeriums des Innern und für Heimat außertariflich eine
-entsprechende Zulage gewähren.
+Bundesministerium des Innern außertariflich eine entsprechende Zulage
+gewähren.
 
 
 ### § 10b Personalgewinnungs- und Personalbindungsprämie
@@ -757,7 +789,7 @@ der ihnen bei Wahrnehmung ihrer Aufgaben bekannt gewordenen Tatsachen
 entsprechend.
 
 
-### § 11a Private Finanzgeschäfte der Beschäftigten der Bundesanstalt
+### § 11a Regelungen zur Integrität; Verordnungsermächtigung
 
 (1) Beschäftigte der Bundesanstalt dürfen weder für eigene oder fremde
 Rechnung noch für einen anderen private Finanzgeschäfte in
@@ -792,6 +824,29 @@ Wertpapierdienstleister für Beschäftigte der Bundesanstalt im Rahmen
 einer Finanzportfolioverwaltung gemäß § 2 Absatz 8 Satz 1 Nummer 7 des
 Wertpapierhandelsgesetzes abgeschlossen werden.
 
+(1a) Das Bundesministerium kann durch Rechtsverordnung, die nicht der
+Zustimmung des Bundesrates bedarf, festlegen, welche privaten
+Finanzgeschäfte in Kryptowerte im Sinne des Artikels 3 Absatz 1 Nummer
+5 der Verordnung (EU) 2023/1114 des Europäischen Parlaments und des
+Rates vom 31. Mai 2023 über Märkte für Kryptowerte und zur Änderung
+der Verordnungen (EU) Nr. 1093/2010 und (EU) Nr. 1095/2010 sowie der
+Richtlinien 2013/36/EU und (EU) 2019/1937 (ABl. L 150 vom 9.6.2023, S.
+40) die Beschäftigten der Bundesanstalt weder für eigene oder fremde
+Rechnung noch für einen anderen tätigen dürfen, soweit aufgrund der
+Art der Geschäfte, der Transaktionen oder der Tätigkeit ein
+Interessenkonflikt durch solche privaten Finanzgeschäfte zu befürchten
+ist (Handelsverbote). In einer solchen Verordnung sind Ausnahmen für
+private Finanzgeschäfte, die durch gewerbliche Dienstleister für
+Beschäftigte der Bundesanstalt im Rahmen einer
+Finanzportfolioverwaltung im Sinne des Artikels 3 Absatz 1 Nummer 25
+der Verordnung (EU) 2023/1114 abgeschlossen werden, vorzusehen. In der
+Rechtsverordnung kann vorgesehen werden, dass der Bundesanstalt oder
+der von ihr beauftragten Person die Befugnis eingeräumt wird, durch
+Richtlinien nähere Konkretisierungen zu den in der Rechtsverordnung
+vorgenommenen Bestimmungen zu erlassen. Das Bundesministerium kann
+diese Ermächtigung durch Rechtsverordnung auf die Bundesanstalt
+übertragen.
+
 (2) Der Bundesanstalt oder der von ihr beauftragten Person wird die
 Befugnis eingeräumt, durch Richtlinien
 
@@ -804,19 +859,20 @@ Befugnis eingeräumt, durch Richtlinien
     und
 
 
-2.  Anzeigepflichten für Finanzinstrumente nach Absatz 1 Satz 1
-    vorzusehen, die Beschäftigte vor Inkrafttreten dieser Regelung oder
-    vor erstmaliger Anwendung dieser Regelung oder ohne ihr Zutun später
-    erlangen, sowie abweichend von Absatz 1 einen Genehmigungsvorbehalt
-    für deren Veräußerung.
+2.  Anzeigepflichten für Finanzinstrumente nach Absatz 1 Satz 1 und
+    Kryptowerte nach Absatz 1a vorzusehen, die Beschäftigte vor
+    Inkrafttreten dieser Regelung oder vor erstmaliger Anwendung dieser
+    Regelung oder ohne ihr Zutun später erlangen, sowie abweichend von
+    Absatz 1 einen Genehmigungsvorbehalt für deren Veräußerung.
 
 
 
 
 (3) Die Bundesanstalt muss über angemessene interne Kontrollverfahren
 verfügen, die geeignet sind, Verstößen der bei der Bundesanstalt
-Beschäftigten gegen die Verbote nach Absatz 1 oder Artikel 14 der
-Verordnung (EU) Nr. 596/2014 entgegenzuwirken.
+Beschäftigten gegen die Verbote nach den Absätzen 1 und 1a oder
+Artikel 14 der Verordnung (EU) Nr. 596/2014 oder gegen die Verbote
+nach Artikel 89 der Verordnung (EU) 2023/1114 entgegenzuwirken.
 
 (4) Beschäftigte sind verpflichtet, Geschäfte in Finanzinstrumenten im
 Sinne des Artikels 2 Absatz 1 Unterabsatz 1 der Verordnung (EU) Nr.
@@ -824,18 +880,94 @@ Sinne des Artikels 2 Absatz 1 Unterabsatz 1 der Verordnung (EU) Nr.
 Unterabsatz 2 Satz 1 der Verordnung (EU) Nr. 596/2014, die sie für
 eigene oder fremde Rechnung oder für einen anderen abgeschlossen
 haben, unverzüglich der Bundesanstalt oder der von ihr beauftragten
-Person schriftlich oder elektronisch anzuzeigen. Die Bundesanstalt
-oder die von ihr beauftragte Person kann Richtlinien zur Ausgestaltung
-der Anzeigepflicht, auch unter Einbeziehung der Vorgesetzten,
-erlassen. Die Bundesanstalt oder die von ihr beauftragte Person kann
-von den Beschäftigten die Erteilung von Auskünften und die Vorlage von
+Person schriftlich oder elektronisch anzuzeigen. Das Bundesministerium
+kann durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates
+bedarf, festlegen, welche privaten Finanzgeschäfte in Kryptowerten im
+Sinne des Artikels 3 Absatz 1 Nummer 5 der Verordnung (EU) 2023/1114
+die Beschäftigten der Bundesanstalt oder der von der Bundesanstalt
+beauftragten Person unverzüglich anzuzeigen haben. In der
+Rechtsverordnung kann vorgesehen werden, dass der Bundesanstalt oder
+der von ihr beauftragten Person die Befugnis eingeräumt wird, durch
+Richtlinien nähere Konkretisierungen zu erlassen. Das
+Bundesministerium kann diese Ermächtigung durch Rechtsverordnung auf
+die Bundesanstalt übertragen. Die Bundesanstalt oder die von ihr
+beauftragte Person kann Richtlinien zur Ausgestaltung der
+Anzeigepflicht, auch unter Einbeziehung der Vorgesetzten, erlassen.
+Die Bundesanstalt oder die von ihr beauftragte Person kann von den
+Beschäftigten die Erteilung von Auskünften und die Vorlage von
 Unterlagen über Geschäfte in Finanzinstrumenten im Sinne des Artikels
 2 Absatz 1 Unterabsatz 1 der Verordnung (EU) Nr. 596/2014 und
 Handlungen und Geschäfte im Sinne des Artikels 2 Absatz 1 Unterabsatz
 2 Satz 1 der Verordnung (EU) Nr. 596/2014 sowie über private
 Finanzgeschäfte gemäß Absatz 1 verlangen, die sie für eigene oder
 fremde Rechnung oder für einen anderen abgeschlossen haben. § 6 Absatz
-15 des Wertpapierhandelsgesetzes ist anzuwenden.
+15 des Wertpapierhandelsgesetzes ist anzuwenden. Die Bundesanstalt
+oder die von ihr beauftragte Person kann von den Beschäftigten die
+Erteilung von Auskünften und die Vorlage von Unterlagen über ihre
+privaten Finanzgeschäfte in Kryptowerten nach Absatz 1a verlangen, die
+diese für eigene oder fremde Rechnung oder für einen anderen
+abgeschlossen haben, soweit dies für die Prüfung der Bundesanstalt
+oder der von ihr beauftragten Person auf Interessenkonflikte notwendig
+ist.
+
+(5) Die Bundesanstalt muss angemessene interne Vorkehrungen treffen,
+die geeignet sind, Interessenkonflikten der Beschäftigten bei ihren
+dienstlichen Tätigkeiten mit ihren privaten Interessen im Hinblick auf
+ihre privaten Finanzgeschäfte entgegenzuwirken. Die Beschäftigten der
+Bundesanstalt sind zur Erteilung von Auskünften und zur Vorlage von
+Unterlagen über Finanzinstrumente nach Absatz 1 und Kryptowerte nach
+Absatz 1a und weitere Anlageprodukte nach Absatz 6 Satz 3 Nummer 1
+verpflichtet, soweit diese Pflichten nicht bereits in Absatz 4
+enthalten sind und es für die Prüfung der Bundesanstalt oder der von
+ihr beauftragten Person auf Interessenkonflikte notwendig ist. Der
+Bundesanstalt oder der von ihr beauftragten Person wird die Befugnis
+eingeräumt, durch Richtlinien Konkretisierungen zu den in der
+Rechtsverordnung vorgenommenen Bestimmungen vorzunehmen. § 6 Absatz 15
+des Wertpapierhandelsgesetzes ist anzuwenden.
+
+(6) Das Bundesministerium kann durch Rechtsverordnung, die nicht der
+Zustimmung des Bundesrates bedarf, die Rechtsverhältnisse der
+Beschäftigten der Bundesanstalt regeln, soweit die Bedürfnisse einer
+integren Allfinanzaufsicht es erfordern, insbesondere, um
+Marktmanipulation, Insidergeschäften, der Besorgnis der Befangenheit
+bei der Ausübung dienstlicher Tätigkeiten sowie der Ausnutzung
+dienstlicher Wissensvorsprünge zu privaten Zwecken entgegenzuwirken.
+Hierbei sind die Vorgaben der
+Leitlinie (EU) 2021/2556              der Europäischen Zentralbank vom
+2\. November 2021 zur Festlegung der Grundsätze des Ethikrahmens für
+den Einheitlichen Aufsichtsmechanismus (ABl. L 454 vom 17.12.2021, S.
+21) entsprechend umzusetzen. Es können Regelungen getroffen werden zu
+
+1.  der Ausweitung, Beschränkung und Ausgestaltung der Verbote nach Absatz
+    1 in Bezug auf betroffene Finanzinstrumente sowie weitere
+    Finanzanlageprodukte und
+
+
+2.  der Auferlegung von Verkaufspflichten hinsichtlich Finanzinstrumenten
+    nach Absatz 1 und Kryptowerten nach Absatz 1a sowie weiteren
+    Anlageprodukten nach Absatz 6 Satz 3 Nummer 1, soweit dies aufgrund
+    der Art der Tätigkeit der Beschäftigten wegen eines tatsächlichen oder
+    möglichen Interessenkonflikts unter Berücksichtigung der Belange der
+    Bundesanstalt erforderlich ist, wobei in der Rechtsverordnung
+    Kriterien festzulegen sind, die eine verhältnismäßige Ausgestaltung
+    durch vorrangige Prüfung von Alternativmaßnahmen und Gewährung von
+    angemessenen Fristen sicherstellen.
+
+
+
+In der Rechtsverordnung kann vorgesehen werden, dass der Bundesanstalt
+oder der von ihr beauftragten Person die Befugnis eingeräumt wird,
+durch Richtlinien nähere Konkretisierungen zu den in der
+Rechtsverordnung vorgenommenen Bestimmungen zu erlassen. Das
+Bundesministerium kann diese Ermächtigung durch Rechtsverordnung auf
+die Bundesanstalt übertragen.
+
+(7) In der Rechtsverordnung nach Absatz 6 kann für die Beamtinnen und
+Beamten der Bundesanstalt festgesetzt werden, dass die Beamtinnen und
+Beamten der Bundesanstalt zur Ausübung einer in § 100 Absatz 1 Nummer
+2 des Bundesbeamtengesetzes bezeichneten Nebentätigkeit der vorherigen
+Genehmigung bedürfen, soweit für sie ein Entgelt oder ein geldwerter
+Vorteil geleistet wird.
 
 
 ## Vierter Abschnitt - Haushaltsplan, Rechnungslegung, Deckung des Verwaltungsaufwands
@@ -901,7 +1033,22 @@ Kassenwirtschaft notwendigen Liquiditätshilfen als verzinsliches
 Darlehen nach Maßgabe des Haushaltsgesetzes. Die Höhe des Zinssatzes
 wird durch Vereinbarung zwischen dem Bund und der Bundesanstalt
 festgelegt. Das Darlehen ist so bald wie möglich zurückzuzahlen,
-spätestens jedoch mit dem Ende des Haushaltsjahres.
+spätestens jedoch mit dem Ende des folgenden Haushaltsjahres.
+
+(3) Überplanmäßige und außerplanmäßige Ausgaben oder
+Verpflichtungsermächtigungen der Bundesanstalt bedürfen der
+Einwilligung des Bundesministeriums; der Verwaltungsrat der
+Bundesanstalt ist unverzüglich zu unterrichten. Die Einwilligung darf
+nur im Falle eines unvorhergesehenen und unabweisbaren Bedarfs erteilt
+werden. Als unabweisbar ist ein Bedarf insbesondere nicht anzusehen,
+wenn nach Lage des Einzelfalls ein Nachtragshaushalt oder ein
+Beschluss des Verwaltungsrats nach § 9 Absatz 3 der Satzung der
+Bundesanstalt rechtzeitig herbeigeführt oder die Ausgabe oder
+Verpflichtung bis zum nächsten Haushalt zurückgestellt werden kann.
+Eines Nachtragshaushalts oder eines Beschlusses nach § 9 Absatz 3 der
+Satzung der Bundesanstalt bedarf es nicht, wenn im Einzelfall ein
+Betrag von 10 Millionen Euro nicht überschritten wird oder wenn
+Rechtsverpflichtungen zu erfüllen sind.
 
 
 ## Fünfter Abschnitt - Gebühren und Umlage, Zwangsmittel
@@ -1052,16 +1199,24 @@ spätestens jedoch mit dem Ende des Haushaltsjahres.
 
 12. durch eine aufgrund des § 107 Absatz 1 auch in Verbindung mit
     Maßnahmen nach § 107 Absatz 7 des Wertpapierhandelsgesetzes
-    vorgenommene Prüfung
+    vorgenommene Prüfung,
+
+
+13. durch die Bestellung eines Abwicklers nach § 9 Absatz 1 Satz 2 Nummer
+    2 oder § 13 Absatz 2 Satz 2 des Kryptomärkteaufsichtsgesetzes, durch
+    eine Bekanntmachung nach § 30 Satz 1 oder § 35 Absatz 2 Satz 1 des
+    Kryptomärkteaufsichtsgesetzes, durch eine aufgrund des § 20 Absatz 2
+    auch in Verbindung mit § 25 Absatz 2 des Kryptomärkteaufsichtsgesetzes
+    vorgenommene Prüfung,
 
 
 
-sind in den Fällen der Nummern 1, 1b, 2, 4, 7 und 9 bis 11 von dem
-Betroffenen, im Fall der Nummer 1a von der Kreditanstalt für
+sind in den Fällen der Nummern 1, 1b, 2, 4, 7 und 9 bis 11 sowie 13
+von dem Betroffenen, im Fall der Nummer 1a von der Kreditanstalt für
 Wiederaufbau, in den Fällen der Nummer 3 von dem zur Zusammenfassung
 verpflichteten Unternehmen, in den Fällen der Nummer 5 von dem
 registerführenden Unternehmen, in den Fällen der Nummer 6 von den in §
-22n Absatz 4 Satz 2 und 3 des Kreditwesengesetzes genannten
+22n Absatz 5 Satz 2 und 3 des Kreditwesengesetzes genannten
 Unternehmen, in den Fällen der Nummer 8 von den betroffenen
 Einrichtungen und in den Fällen der Nummer 12 durch die Unternehmen im
 Sinne des § 106 des Wertpapierhandelsgesetzes der Bundesanstalt
@@ -1174,8 +1329,8 @@ nach den maßgeblichen Aufsichtsgesetzen in die Zuständigkeit der
 Bundesanstalt fallen, getrennt zu ermitteln:
 
 1.  Kredit-, Finanzdienstleistungs-, Wertpapierinstituts-,
-    Zahlungsdienste- und inländisches Investmentwesen (Aufgabenbereich
-    Banken und sonstige Finanzdienstleistungen),
+    Zahlungsdienste-, Krypto- und inländisches Investmentwesen
+    (Aufgabenbereich Banken und sonstige Finanzdienstleistungen),
 
 
 2.  Versicherungswesen (Aufgabenbereich Versicherungen),
@@ -1190,7 +1345,7 @@ Bundesanstalt fallen, getrennt zu ermitteln:
     (EU) Nr. 806/2014 (Aufgabenbereich Abwicklung),
 
 
-5.  Bilanzkontrollemittenten (Aufgabenbereich Bilanzkontrolle)
+5.  Bilanzkontrollemittenten (Aufgabenbereich Bilanzkontrolle).
 
 
 
@@ -1286,7 +1441,8 @@ folgenden Gruppen zu erfolgen:
     9 oder 10 des Kreditwesengesetzes erbringen, Wertpapierinstitute,
     Institute im Sinne des § 1 Absatz 3 des
     Zahlungsdiensteaufsichtsgesetzes, die nach § 42 des
-    Zahlungsdiensteaufsichtsgesetzes tätigen Unternehmen,
+    Zahlungsdiensteaufsichtsgesetzes tätigen Unternehmen, Institute im
+    Sinne des § 2 Absatz 4 des Kryptomärkteaufsichtsgesetzes,
     Kreditdienstleistungsinstitute mit einer Erlaubnis nach § 10 Absatz 1
     Satz 1 des Kreditzweitmarktgesetzes sowie die Kreditanstalt für
     Wiederaufbau, wobei
@@ -1391,17 +1547,18 @@ in Absatz 1 genannten Gruppen angehört.
 
 
 (4) Die Umlagepflicht nach Absatz 2 entsteht mit Erteilung oder der
-Fiktion der Erlaubnis, mit der Registrierung oder im Fall einer
-Abwicklungsanstalt mit deren Errichtung. Sie endet in dem Jahr des
-Erlöschens der Erlaubnis, der Registrierung oder der Auflösung der
-Abwicklungsanstalt. Ändert sich im Laufe eines Umlagejahres der
-Erlaubnisumfang oder wird von der Aufsichtsbehörde im Sinne des § 1
-Absatz 5 des Kreditwesengesetzes eine Erlaubnis zum Betreiben eines
-anderen Geschäfts erteilt, wird der Umlagepflichtige nach Maßgabe der
-Regelungen zur Umlage herangezogen, die für das Geschäft gelten, auf
-das sich die zuletzt im Umlagejahr bestehende Erlaubnis bezieht. Die
-Umlagepflicht der Kreditanstalt für Wiederaufbau beginnt am 1. Januar
-2015 und endet mit Ende der Beaufsichtigung durch die Bundesanstalt.
+Fiktion der Erlaubnis oder der Zulassung, mit der Registrierung oder
+im Fall einer Abwicklungsanstalt mit deren Errichtung. Sie endet in
+dem Jahr des Erlöschens der Erlaubnis, der Registrierung oder der
+Auflösung der Abwicklungsanstalt. Ändert sich im Laufe eines
+Umlagejahres der Erlaubnisumfang oder wird von der Aufsichtsbehörde im
+Sinne des § 1 Absatz 5 des Kreditwesengesetzes eine Erlaubnis zum
+Betreiben eines anderen Geschäfts erteilt, wird der Umlagepflichtige
+nach Maßgabe der Regelungen zur Umlage herangezogen, die für das
+Geschäft gelten, auf das sich die zuletzt im Umlagejahr bestehende
+Erlaubnis bezieht. Die Umlagepflicht der Kreditanstalt für
+Wiederaufbau beginnt am 1. Januar 2015 und endet mit Ende der
+Beaufsichtigung durch die Bundesanstalt.
 
 
 ### § 16f Bemessungsgrundlagen der Umlage im Aufgabenbereich Banken und sonstige Finanzdienstleistungen
@@ -1470,9 +1627,10 @@ Banken und sonstige Finanzdienstleistungen ist zu bemessen:
 
 
     c)  die zu mehr als einem Fünftel bankgeschäfts-, finanzdienstleistungs-,
-        wertpapierinstituts-, zahlungsdienst-, e-Geld-geschäfts- oder
-        kreditdienstleistungsfremde Geschäfte betreiben, der dem Verhältnis
-        der erlaubnispflichtigen Geschäfte, Finanz- oder
+        wertpapierinstituts-, zahlungsdienst-, e-Geld-geschäfts-,
+        kreditdienstleistungsfremde Geschäfte oder kryptoemissions- oder
+        kryptowertedienstleistungsfremde Geschäfte betreiben, der dem
+        Verhältnis der erlaubnispflichtigen Geschäfte, Finanz- oder
         Kreditdienstleistungen zum Gesamtgeschäft entsprechende Bruchteil der
         Bilanzsumme,
 
@@ -1579,13 +1737,13 @@ sonstige Finanzdienstleistungen zu entrichtende Umlagebetrag beträgt
 
 1.  in der Gruppe Kredit- und Finanzdienstleistungsinstitute mindestens
 
-    a)  4 000 Euro für Kreditinstitute und für die Kreditanstalt für
+    a)  7 500 Euro für Kreditinstitute und für die Kreditanstalt für
         Wiederaufbau, bei einer nach § 16f ermittelten Bilanzsumme von 100
-        Millionen Euro oder weniger jedoch nur 3 500 Euro und für
-        Wohnungsunternehmen mit Spareinrichtung nur 2 500 Euro,
+        Millionen Euro oder weniger jedoch nur 6 500 Euro und für
+        Wohnungsunternehmen mit Spareinrichtung nur 4 500 Euro,
 
 
-    b)  3 500 Euro für
+    b)  6 500 Euro für
 
         aa) Finanzdienstleistungsinstitute mit einer Erlaubnis nach
 
@@ -1620,12 +1778,21 @@ sonstige Finanzdienstleistungen zu entrichtende Umlagebetrag beträgt
 
 
 
+        cc) Institute im Sinne des § 2 Absatz 4 Nummer 3 des
+            Kryptomärkteaufsichtsgesetzes mit einer Zulassung zum Erbringen von
+            Kryptowerte-Dienstleistungen nach Artikel 3 Absatz 1 Nummer 16 in
+            Verbindung mit Artikel 59 Absatz 1 Buchstabe a der Verordnung (EU)
+            2023/1114;
 
-    c)  2 500 Euro für
+
+
+
+
+    c)  4 500 Euro für
 
         aa) Finanzdienstleistungsinstitute mit einer Erlaubnis nach
 
-            aaa) § 1 Absatz 1a Satz 2 Nummer 6, 8 oder 11 des Kreditwesengesetzes, wenn
+            aaa) § 1 Absatz 1a Satz 2 Nummer 6 oder 11 des Kreditwesengesetzes, wenn
                 die Erlaubnis nicht die Befugnis umfasst, sich Eigentum oder Besitz an
                 Geldern, Wertpapieren oder Kryptowerten von Kunden zu verschaffen,
                 oder
@@ -1639,7 +1806,7 @@ sonstige Finanzdienstleistungen zu entrichtende Umlagebetrag beträgt
 
         bb) Wertpapierinstitute mit einer Erlaubnis nach
 
-            aaa) § 2 Absatz 2 Nummer 3, 5, 8 oder 9 des Wertpapierinstitutsgesetzes,
+            aaa) § 2 Absatz 2 Nummer 3, 5, 8 oder 9 des Wertpapierinstitutsgesetzes,
                 wenn die Erlaubnis nicht die Befugnis umfasst, sich Eigentum oder
                 Besitz an Geldern oder Wertpapieren von Kunden zu verschaffen, oder
 
@@ -1650,10 +1817,17 @@ sonstige Finanzdienstleistungen zu entrichtende Umlagebetrag beträgt
 
 
 
+        cc) Institute im Sinne des § 2 Absatz 4 Nummer 1 des
+            Kryptomärkteaufsichtsgesetzes mit einer Zulassung zum öffentlichen
+            Anbieten vermögenswertreferenzierter Token oder für die Beantragung
+            einer Zulassung zum Handel vermögenswertreferenzierter Token nach
+            Artikel 16 Absatz 1 Buchstabe a der Verordnung (EU) 2023/1114;
 
 
 
-    d)  1 300 Euro für Finanzdienstleistungsinstitute mit einer Erlaubnis nach
+
+
+    d)  2 500 Euro für Finanzdienstleistungsinstitute mit einer Erlaubnis nach
         § 1 Absatz 1a Satz 2 Nummer 5 oder 7 des Kreditwesengesetzes, für
         Institute im Sinne des § 1 Absatz 3 des
         Zahlungsdiensteaufsichtsgesetzes und für
@@ -1670,11 +1844,11 @@ sonstige Finanzdienstleistungen zu entrichtende Umlagebetrag beträgt
 
 
 2.  in der Gruppe Factoring- und Finanzierungsleasingunternehmen
-    mindestens 1 300 Euro,
+    mindestens 2 500 Euro,
 
 
 3.  in der Gruppe Kapitalverwaltungsgesellschaften und extern verwaltete
-    OGAW-Investmentaktiengesellschaften mindestens 7 500 Euro.
+    OGAW-Investmentaktiengesellschaften mindestens 14 000 Euro.
 
 
 
@@ -1682,40 +1856,40 @@ sonstige Finanzdienstleistungen zu entrichtende Umlagebetrag beträgt
 (2) Die Mindestumlagebeträge nach Absatz 1 Nummer 1 Buchstabe b bis d
 erhöhen sich
 
-1.  ab einer Bilanzsumme von 750 000 Euro auf 4 500 Euro,
+1.  ab einer Bilanzsumme von 750 000 Euro auf 8 500 Euro,
 
 
-2.  ab einer Bilanzsumme von 1 Million Euro auf 5 150 Euro,
+2.  ab einer Bilanzsumme von 1 Million Euro auf 9 500 Euro,
 
 
-3.  ab einer Bilanzsumme von 1,5 Millionen Euro auf 5 800 Euro,
+3.  ab einer Bilanzsumme von 1,5 Millionen Euro auf 11 000 Euro,
 
 
-4.  ab einer Bilanzsumme von 2 Millionen Euro auf 8 500 Euro,
+4.  ab einer Bilanzsumme von 2 Millionen Euro auf 16 000 Euro,
 
 
-5.  ab einer Bilanzsumme von 3 Millionen Euro auf 10 500 Euro,
+5.  ab einer Bilanzsumme von 3 Millionen Euro auf 20 000 Euro,
 
 
-6.  ab einer Bilanzsumme von 5 Millionen Euro auf 14 500 Euro,
+6.  ab einer Bilanzsumme von 5 Millionen Euro auf 27 500 Euro,
 
 
-7.  ab einer Bilanzsumme von 7,5 Millionen Euro auf 19 500 Euro,
+7.  ab einer Bilanzsumme von 7,5 Millionen Euro auf 37 000 Euro,
 
 
-8.  ab einer Bilanzsumme von 12,5 Millionen Euro auf 27 000 Euro,
+8.  ab einer Bilanzsumme von 12,5 Millionen Euro auf 51 000 Euro,
 
 
-9.  ab einer Bilanzsumme von 20 Millionen Euro auf 36 000 Euro,
+9.  ab einer Bilanzsumme von 20 Millionen Euro auf 68 000 Euro,
 
 
-10. ab einer Bilanzsumme von 30 Millionen Euro auf 44 000 Euro,
+10. ab einer Bilanzsumme von 30 Millionen Euro auf 83 000 Euro,
 
 
-11. ab einer Bilanzsumme von 50 Millionen Euro auf 54 000 Euro,
+11. ab einer Bilanzsumme von 50 Millionen Euro auf 102 000 Euro,
 
 
-12. ab einer Bilanzsumme von 100 Millionen Euro auf 100 000 Euro.
+12. ab einer Bilanzsumme von 100 Millionen Euro auf 189 000 Euro.
 
 
 
@@ -1749,7 +1923,7 @@ angefangenen Monate, in denen die Umlagepflicht bestand, zur Anzahl
 der Monate des Umlagejahres entspricht.
 
 (4) Der von jedem Umlagepflichtigen des Aufgabenbereichs
-Versicherungen zu entrichtende Umlagebetrag beträgt mindestens 250
+Versicherungen zu entrichtende Umlagebetrag beträgt mindestens 1 225
 Euro.
 
 
@@ -2033,7 +2207,7 @@ entsprechend anzuwenden.
 (6) Der von jedem Umlagepflichtigen der Gruppe
 Wertpapierdienstleistungsunternehmen und Anlageverwaltung sowie der
 Gruppe Emittenten zu entrichtende Umlagebetrag beträgt in jeder Gruppe
-mindestens 250 Euro.
+mindestens 1 200 Euro.
 
 (7) Das Bundesministerium der Finanzen wird ermächtigt, durch
 Rechtsverordnung ohne Zustimmung des Bundesrates näher zu bestimmen,
@@ -2057,7 +2231,7 @@ Jahresbeiträge gemäß § 12 Absatz 2 des Restrukturierungsfondsgesetzes
 für das Umlagejahr unter Berücksichtigung des Artikels 10 der
 Delegierten Verordnung (EU) 2015/63 erfolgte sowie die in § 1 Absatz 1
 und 2 der Restrukturierungsfondsverordnung genannten Institute zahlen
-einen Pauschalbetrag in Höhe von 250 Euro. Für die übrigen
+einen Pauschalbetrag in Höhe von 325 Euro. Für die übrigen
 umlagepflichtigen Institute wird der Umlagebetrag nach einem jährlich
 zu ermittelnden Verteilungsschlüssel bemessen. Der
 Verteilungsschlüssel in einem Umlagejahr bestimmt sich für diese
@@ -2077,10 +2251,10 @@ Restrukturierungsfondsgesetzes zu berechnen waren und die Daten zur
 Berechnung der Bilanzsumme, die in entsprechender Anwendung der
 Bestimmung des Artikels 5 der Delegierten Verordnung (EU) 2015/63
 angepasst wurde, nicht vorliegen, wird für das jeweilige Institut ein
-Pauschalbetrag in Höhe von 250 Euro erhoben. § 16f Absatz 1 Nummer 1
+Pauschalbetrag in Höhe von 325 Euro erhoben. § 16f Absatz 1 Nummer 1
 Satz 2, Absatz 2, 4 und 5 ist entsprechend anzuwenden. Der
 Umlagebetrag für jedes umlagepflichtige Institut beträgt mindestens
-250 Euro.
+325 Euro.
 
 
 ### § 16l Aufgabenbereich Bilanzkontrolle
@@ -2103,7 +2277,7 @@ an einer inländischen Börse zum Handel im regulierten Markt zugelassen
 sind.
 
 (3) Der von jedem Umlagepflichtigen des Aufgabenbereichs
-Bilanzkontrolle zu entrichtende Umlagebetrag beträgt mindestens 250
+Bilanzkontrolle zu entrichtende Umlagebetrag beträgt mindestens 1 050
 Euro.
 
 (4) Die inländischen Börsen haben der Bundesanstalt zur Festsetzung
@@ -2130,7 +2304,7 @@ Bundesanstalt für jeden Umlagepflichtigen den von diesem zu
 entrichtenden Umlagebetrag zu ermitteln.
 
 (3) Die Bundesanstalt hat den nach Absatz 2 ermittelten Umlagebetrag
-erstmalig innerhalb eines Jahres festzusetzen. Der Umlagebetrag ist
+erstmals innerhalb eines Jahres festzusetzen. Der Umlagebetrag ist
 kaufmännisch auf volle Euro zu runden. Eine vorherige Anhörung der
 Umlagepflichtigen ist nicht erforderlich.
 
@@ -2142,8 +2316,8 @@ bestimmt eine andere Art und Weise der Übermittlung. Sie sind
 verpflichtet, zu diesem Zweck das von der Bundesanstalt
 bereitgestellte elektronische Kommunikationsverfahren zu nutzen und
 hierfür den elektronischen Zugang einzurichten. Dies gilt auch für
-Verwaltungsakte, die nach § 4f elektronisch bekanntgegeben oder nach §
-4g elektronisch zugestellt werden.
+Verwaltungsakte, die nach § 4f elektronisch bekannt gegeben oder nach
+§ 4g elektronisch zugestellt werden.
 
 (5) Das Bundesministerium der Finanzen kann durch Rechtsverordnung,
 die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen
@@ -2207,13 +2381,9 @@ Verhältnisse des letzten abgerechneten Umlagejahres nach Maßgabe der
 die Verteilungsverhältnisse zwischen den Aufgabenbereichen und Gruppen
 sowie die Bemessungsgrundlagen für die einzelnen Umlagepflichtigen.
 
-(4) Die nach Absatz 1 festgesetzte Umlagevorauszahlung wird
-vorbehaltlich des Satzes 2 nach der Bekanntgabe der Festsetzung
-jeweils zu gleichen Teilen am 15. Januar und am 15. Juli fällig, wenn
-nicht die Bundesanstalt im Einzelfall einen anderen Zeitpunkt
-bestimmt. Auf Vorauszahlungspflichtige des Aufgabenbereichs Abwicklung
-ist Satz 1 mit der Maßgabe anzuwenden, dass die festgesetzte
-Umlagevorauszahlung am 15. Januar des Umlagejahres fällig wird.
+(4) Die Bundesanstalt bestimmt jährlich für jeden Aufgabenbereich und
+für jede Gruppe gesondert einen Fälligkeitstermin für die
+Umlagevorauszahlung.
 
 (5) Soweit der Umlagebetrag die Vorauszahlung voraussichtlich
 übersteigen wird, kann die Bundesanstalt für das laufende Umlagejahr
@@ -2603,10 +2773,11 @@ die Höhe der Säumniszuschläge und die Beitreibung sowie den
 Differenzausgleich zwischen Umlagevorauszahlung und Umlagefestsetzung,
 auch in Bezug auf Vorschusszahlungen gemäß § 342d Abs. 1 Satz 3 des
 Handelsgesetzbuchs, bestimmt das Bundesministerium einvernehmlich mit
-dem Bundesministerium der Justiz durch Rechtsverordnung. Die
-Rechtsverordnung kann auch Regelungen über die vorläufige Festsetzung
-des Umlagebetrags vorsehen. Das Bundesministerium kann die
-Ermächtigung mit Zustimmung des Bundesministeriums der Justiz durch
+dem Bundesministerium der Justiz und für Verbraucherschutz durch
+Rechtsverordnung. Die Rechtsverordnung kann auch Regelungen über die
+vorläufige Festsetzung des Umlagebetrags vorsehen. Das
+Bundesministerium kann die Ermächtigung mit Zustimmung des
+Bundesministeriums der Justiz und für Verbraucherschutz durch
 Rechtsverordnung auf die Bundesanstalt übertragen.
 
 (4) Bei erstmaliger Erhebung der Umlage sind auch die Kosten zu
@@ -2735,9 +2906,9 @@ Maßgaben:
     persönliche Zulage gewährt. Einzelheiten der Ausgestaltung, Berechnung
     und grundsätzlichen Abschmelzung dieser übertariflichen Zulage werden
     in einer gesonderten Regelung des Bundesministeriums der Finanzen, die
-    der Einwilligung des Bundesministeriums des Innern und für Heimat
-    bedarf, festgelegt. Im Falle einer Berufung in das Beamtenverhältnis
-    entfällt der Anspruch eines Beschäftigten auf Gewährung der Zulage.
+    der Einwilligung des Bundesministeriums des Innern bedarf, festgelegt.
+    Im Falle einer Berufung in das Beamtenverhältnis entfällt der Anspruch
+    eines Beschäftigten auf Gewährung der Zulage.
 
 
 
@@ -2843,10 +3014,9 @@ Maßgaben:
     eine persönliche Zulage gewährt. Einzelheiten der Ausgestaltung,
     Berechnung und grundsätzlichen Abschmelzung dieser übertariflichen
     Zulage werden in einer gesonderten Regelung des Bundesministeriums der
-    Finanzen, die der Einwilligung des Bundesministeriums des Innern und
-    für Heimat bedarf, festgelegt. Im Falle einer Berufung in das
-    Beamtenverhältnis entfällt der Anspruch eines Beschäftigten auf
-    Gewährung der Zulage.
+    Finanzen, die der Einwilligung des Bundesministeriums des Innern
+    bedarf, festgelegt. Im Falle einer Berufung in das Beamtenverhältnis
+    entfällt der Anspruch eines Beschäftigten auf Gewährung der Zulage.
 
 
 5.  Dienstort ist ab dem 1. Januar 2023 Frankfurt am Main; die
@@ -3181,6 +3351,10 @@ Umlagevorauszahlung 2022 anzuwenden.
 Satz 2 sowie § 16g Absatz 1 Nummer 1 Buchstabe d sind erstmals auf das
 Umlagejahr 2024 anzuwenden.
 
+(16) § 16e Absatz 1 und 4, § 16f Absatz 2 Satz 1 Nummer 1 Buchstabe c
+und die §§ 16g, 16h, 16j, 16k und 16l sind in der ab dem 1. Juli 2024
+geltenden Fassung erstmals auf das Umlagejahr 2024 anzuwenden.
+
 
 ### § 24 Übergangsbestimmungen zu Kosten, Haushalt und Umlageerhebung für den Aufgabenbereich Bilanzkontrolle
 
@@ -3195,15 +3369,31 @@ Absatz 1 des Handelsgesetzbuchs in der bis einschließlich 31. Dezember
 2021 geltenden Fassung als Prüfstelle anerkannten Einrichtung
 erforderlich sind und nach dem 31. Dezember 2021 anfallen, sind Kosten
 des Aufgabenbereiches Bilanzkontrolle im Sinne des § 16b in der ab dem
-1\. Juli 2021 geltenden Fassung. Eine vorhandene Investitionsrücklage
-im Sinne des § 17a in Verbindung mit § 12 Absatz 4 Satz 2 bei der nach
-§ 342b Absatz 1 des Handelsgesetzbuchs in der bis einschließlich 31.
-Dezember 2021 geltenden Fassung als Prüfstelle anerkannten Einrichtung
-ist zum 31. Dezember 2021 aufzulösen.
+1\. Juli 2021 geltenden Fassung. Für die Umlageabrechnung zieht die
+Bundesanstalt die durch sie an die nach § 342b Absatz 1 des
+Handelsgesetzbuchs in der bis einschließlich 31. Dezember 2021
+geltenden Fassung als Prüfstelle anerkannte Einrichtung nach Absatz 3
+Satz 3 geleistete Vorschusszahlung, welche mit der zu leistenden
+Ausgleichszahlung nach Absatz 5 oder 6 aus dem Vorjahr verrechnet
+wird, als angefallene Kosten der nach § 342b Absatz 1 des
+Handelsgesetzbuchs in der bis einschließlich 31. Dezember 2021
+geltenden Fassung als Prüfstelle anerkannten Einrichtung im Sinne des
+§ 16b heran. Abweichend von Satz 2 erfolgt für das Umlagejahr 2025 zur
+Ermittlung der Kosten im Sinne des § 16b eine Verrechnung der durch
+die Bundesanstalt an die nach § 342b Absatz 1 des Handelsgesetzbuchs
+in der bis einschließlich 31. Dezember 2021 geltenden Fassung als
+Prüfstelle anerkannte Einrichtung nach Absatz 3 Satz 3 geleisteten
+Vorschusszahlung nur mit solchen Ausgleichszahlungen aus den
+Vorjahren, welche bei den vorangegangenen Umlageabrechnungen noch
+keine Berücksichtigung gefunden haben. Eine vorhandene
+Investitionsrücklage im Sinne des § 17a in Verbindung mit § 12 Absatz
+4 Satz 2 bei der nach § 342b Absatz 1 des Handelsgesetzbuchs in der
+bis einschließlich 31. Dezember 2021 geltenden Fassung als Prüfstelle
+anerkannten Einrichtung ist zum 31. Dezember 2021 aufzulösen.
 
 (3) Die nach § 342b Absatz 1 des Handelsgesetzbuchs in der bis
 einschließlich 31. Dezember 2021 geltenden Fassung als Prüfstelle
-anerkannte Einrichtung hat über die zur Finanzierung der Kosten nach
+anerkannte Einrichtung hat über die zur Finanzierung ihrer Kosten nach
 Absatz 2 Satz 1 erforderlichen Mittel einen Wirtschaftsplan für das
 Folgejahr im Einvernehmen mit der Bundesanstalt aufzustellen. Der
 Wirtschaftsplan ist dem Bundesministerium der Finanzen zur Genehmigung
@@ -3214,24 +3404,29 @@ Umlagevorauszahlung vor. § 342d Satz 1 bis 3 des Handelsgesetzbuchs in
 der bis einschließlich 31. Dezember 2021 geltenden Fassung ist für das
 Haushaltsjahr 2022 nicht anzuwenden.
 
-(4) Nach Ende des Haushaltsjahres hat die nach § 342b Absatz 1 des
+(4) Nach Ende des Haushaltsjahres hat die nach § 342b Absatz 1 des
 Handelsgesetzbuchs in der bis einschließlich 31. Dezember 2021
-geltenden Fassung als Prüfstelle anerkannte Einrichtung ihren
-Jahresabschluss sowie eine von einem Wirtschaftsprüfer zu prüfende
-Einnahmen- und Ausgabenrechnung aufzustellen. Diese enthält die Kosten
-nach Absatz 2 Satz 1. Die Entlastung erteilt das zuständige Organ der
-nach § 342b Absatz 1 des Handelsgesetzbuchs in der bis einschließlich
-31\. Dezember 2021 geltenden Fassung als Prüfstelle anerkannten
-Einrichtung mit Zustimmung des Bundesministeriums der Finanzen.
+geltenden Fassung als Prüfstelle anerkannte Einrichtung eine von einem
+Wirtschaftsprüfer zu prüfende Einnahmen- und Ausgabenrechnung
+aufzustellen und der BaFin bis zum 30. April des auf das Umlagejahr
+folgenden Jahres vorzulegen. Diese enthält die Kosten der nach § 342b
+Absatz 1 des Handelsgesetzbuchs in der bis einschließlich 31. Dezember
+2021 geltenden Fassung als Prüfstelle anerkannten Einrichtung nach
+Absatz 2 Satz 1.
 
 (5) Ergibt sich, dass die gemäß Absatz 3 Satz 3 geleistete
-Vorschusszahlung nicht die Kosten gemäß Absatz 2 Satz 1 deckt, so hat
-die Bundesanstalt den insoweit entstandenen Fehlbetrag aus der von ihr
-eingezogenen Umlage gegenüber der Einrichtung, die nach § 342b Absatz
-1 des Handelsgesetzbuchs in der bis einschließlich 31. Dezember 2021
-geltenden Fassung als Prüfstelle anerkannt war, auszugleichen. Die
-Kosten nach Absatz 2 Satz 1 ergeben sich aus der gemäß Absatz 4 Satz 1
-und 2 zu erstellenden Einnahmen- und Ausgabenrechnung.
+Vorschusszahlung nicht die Kosten der nach § 342b Absatz 1 des
+Handelsgesetzbuchs in der bis einschließlich 31. Dezember 2021
+geltenden Fassung als Prüfstelle anerkannten Einrichtung gemäß Absatz
+2 Satz 1 deckt, so hat die Bundesanstalt den insoweit entstandenen
+Fehlbetrag aus der von ihr eingezogenen Umlage gegenüber der
+Einrichtung, die nach § 342b Absatz 1 des Handelsgesetzbuchs in der
+bis einschließlich 31. Dezember 2021 geltenden Fassung als Prüfstelle
+anerkannt war, auszugleichen. Die Kosten der nach § 342b Absatz 1 des
+Handelsgesetzbuchs in der bis einschließlich 31. Dezember 2021
+geltenden Fassung als Prüfstelle anerkannten Einrichtung nach Absatz 2
+Satz 1 ergeben sich aus der gemäß Absatz 4 Satz 1 und 2 zu
+erstellenden Einnahmen- und Ausgabenrechnung.
 
 (6) Die nach § 342b Absatz 1 des Handelsgesetzbuchs in der bis
 einschließlich 31. Dezember 2021 geltenden Fassung als Prüfstelle

@@ -17,7 +17,7 @@ Fundstelle
 :   BAnz: AT 27.03.2018 V2
 
 Zuletzt geändert durch
-:   Art. 3 V v. 27.11.2023 I Nr. 329
+:   Art. 2 V v. 20.10.2025 I Nr. 244
 
 
 ## Eingangsformel

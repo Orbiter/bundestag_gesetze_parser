@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2009, 2625
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 12 G v. 20.12.2022 I 2752
+:   Art. 47 G v. 23.10.2024 I Nr. 323
 
 
 ## § 1 Akkreditierung
@@ -119,10 +119,12 @@ anzuwenden.
 
 ## § 2 Aufgaben der Akkreditierungsstelle
 
-(1) Die Akkreditierungsstelle führt auf schriftlichen Antrag einer
+(1) Die Akkreditierungsstelle führt auf elektronischen Antrag einer
 Konformitätsbewertungsstelle Akkreditierungsverfahren gemäß Artikel 5
-der Verordnung (EG) Nr. 765/2008 durch. Sie wendet bei der
-Akkreditierung die nach § 5 Absatz 3 bekannt gemachten Regeln an.
+der Verordnung (EG) Nr. 765/2008 durch. Die Akkreditierungsstelle kann
+die Verwendung bestimmter elektronischer Formulare und Eingabemasken
+vorschreiben. Sie wendet bei der Akkreditierung die nach § 5 Absatz 3
+bekannt gemachten Regeln an.
 
 (2) Die Akkreditierungsstelle führt ein Verzeichnis der akkreditierten
 Konformitätsbewertungsstellen mit Angabe des fachlichen Umfangs und

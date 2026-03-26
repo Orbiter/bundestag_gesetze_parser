@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1973, 1321
 
-Geändert durch
-:   Art. 77 G v. 23.12.2003 I 2848
+Zuletzt geändert durch
+:   Art. 6 V v. 6.3.2025 I Nr. 78
 
 
 ## Eingangsformel
@@ -42,7 +42,8 @@ Arbeitsverhältnisses zuständig ist.
 
 § 32 Abs. 4 des Arbeitssicherstellungsgesetzes ist für Arbeitnehmer
 der Bundeswehr mit der Maßgabe anzuwenden, daß an die Stelle der
-Agentur für Arbeit die Standortverwaltung tritt.
+Agentur für Arbeit das Bundesamt für das Personalmanagement der
+Bundeswehr tritt.
 
 
 ## § 3

@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2013, 973, 1001 (3756)
 
 Zuletzt geändert durch
-:   Art. 15 G v. 10.8.2021 I 3436
+:   Art. 1 V v. 30.4.2025 I Nr. 126
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
@@ -115,14 +115,15 @@ Fachkunde und die erforderliche gerätetechnische Ausstattung liegt
 vor, wenn für die jeweiligen Prüfbereiche gemäß Anlage 1 den folgenden
 Normen genügt wird:
 
-1.  DIN EN ISO/IEC 17025, Ausgabe August 2005 mit Berichtigungen vom Mai
-    2007, sowie VDI-Richtlinie 4220, Ausgabe April 2011,
+1.  DIN EN ISO/IEC 17025, Ausgabe März 2018, sowie VDI-Richtlinie 4220
+    Blatt 1, Ausgabe November 2018,
 
 
-2.  VDI-Richtlinie 4208 Blatt 2, Ausgabe Oktober 2011, oder
+2.  VDI-Richtlinie 4208 Blatt 2, Ausgabe Januar 2020 mit Berichtigung vom
+    August 2021, oder
 
 
-3.  DIN 45688, Ausgabe April 2005.
+3.  DIN 45688, Ausgabe Juli 2014.
 
 
 
@@ -449,7 +450,8 @@ Anlage 1 belegen und die Ergebnisse der letzten zwei
 Ringversuchsteilnahmen dokumentieren. Abweichend von den Sätzen 1 und
 2 ist der Kompetenznachweis für den Prüfbereich des Tätigkeitsbereichs
 Gruppe III der Anlage 1 durch eine Bescheinigung gemäß Abschnitt 7 der
-VDI-Richtlinie 4208 Blatt 2, Ausgabe Oktober 2011, zu erbringen.
+VDI-Richtlinie 4208 Blatt 2, Ausgabe Januar 2020 mit Berichtigung vom
+August 2021, zu erbringen.
 
 (2) Sachverständige müssen dem Bekanntgabeantrag für jeden
 Prüfungsbereich nach Anlage 2, auf den sich der Antrag bezieht,
@@ -465,14 +467,25 @@ Antragsteller oder der Antragstellerin angefertigt wurden, müssen sie
 erkennen lassen, in welchen Teilen sie von dem Antragsteller oder der
 Antragstellerin angefertigt wurden.
 
-(3) Ungeachtet der Anforderungen des Absatzes 2 kann die zuständige
-Behörde ein Fachgespräch mit dem oder der bekannt zu gebenden
-Sachverständigen führen. Die gerätetechnische Ausstattung des oder der
-bekannt zu gebenden Sachverständigen kann vor Ort überprüft werden.
-Von einer Überprüfung vor Ort und einem Fachgespräch kann abgesehen
-werden, wenn eine Bekanntgabe für die betreffenden Prüfungsbereiche
-bereits besteht oder wegen Fristablaufs nicht mehr besteht und erneut
-beantragt wird.
+(2a) Zum Nachweis der für den Prüfungsbereich 10.2 der Anlage 2
+erforderlichen Kompetenzen im Bereich der Informationstechnologie (IT)
+hat die oder der Sachverständige dem Antrag auf Bekanntgabe anstelle
+von Arbeitsproben eine geeignete Personenzertifizierung beizufügen.
+Welche Personenzertifizierungen als dafür geeignet gelten, wird von
+den zuständigen Behörden im Einvernehmen mit dem Bundesamt für
+Sicherheit in der Informationstechnik festgelegt. Gegenüber der
+bekanntgebenden Stelle ist die Aufrechterhaltung der
+Personenzertifizierung für die Dauer der Bekanntgabe regelmäßig
+jeweils vor Ablauf der Personenzertifikate nachzuweisen.
+
+(3) Ungeachtet der Anforderungen der Absätze 2 und 2a kann die
+zuständige Behörde ein Fachgespräch mit dem oder der bekannt zu
+gebenden Sachverständigen führen. Die gerätetechnische Ausstattung des
+oder der bekannt zu gebenden Sachverständigen kann vor Ort überprüft
+werden. Von einer Überprüfung vor Ort und einem Fachgespräch kann
+abgesehen werden, wenn eine Bekanntgabe für die betreffenden
+Prüfungsbereiche bereits besteht oder wegen Fristablaufs nicht mehr
+besteht und erneut beantragt wird.
 
 
 ### § 14 Gleichwertigkeit von Befähigungsnachweisen aus anderen Mitgliedstaaten der Europäischen Union
@@ -522,9 +535,9 @@ befristen. Falls der Kompetenznachweis für einen kürzeren Zeitraum
 gilt, ist die Frist entsprechend zu verkürzen. Wird die Kompetenz
 durch Bescheinigung nach § 13 Absatz 1 Satz 3 nachgewiesen, erfolgt
 die Bekanntgabe für einen Zeitraum von fünf Jahren mit der Maßgabe,
-dass die nach der VDI-Richtlinie 4208 Blatt 2, Ausgabe Oktober 2011,
-alle zwei Jahre zu erbringende Bescheinigung unverzüglich der
-zuständigen Behörde vorzulegen ist.
+dass die nach der VDI-Richtlinie 4208 Blatt 2, Ausgabe Januar 2020 mit
+Berichtigung vom August 2021, alle zwei Jahre zu erbringende
+Bescheinigung unverzüglich der zuständigen Behörde vorzulegen ist.
 
 (2) Die Bekanntgabe von Sachverständigen ist auf längstens acht Jahre
 zu befristen.
@@ -597,8 +610,7 @@ Buchstabe B Zeile 5 Stoffbereich Sa.
 
 1.  für die Ermittlungen im Rahmen der Bekanntgabe ein
     Qualitätssicherungssystem auf der Grundlage der DIN EN ISO/IEC 17025,
-    Ausgabe 2005 mit Berichtigungen vom Mai 2007, zu betreiben und ständig
-    fortzuschreiben,
+    Ausgabe März 2018, zu betreiben und ständig fortzuschreiben,
 
 
 2.  sich vor Aufnahme der Tätigkeit in einem Land über länderspezifische
@@ -629,15 +641,16 @@ Buchstabe B Zeile 5 Stoffbereich Sa.
     worden sind,
 
 
-7.  zweimal im Bekanntgabezeitraum unter Einbeziehung aller Standorte
-    sowie des fachkundigen Personals dieser Standorte auf eigene Kosten
+7.  pro Prüfbereich, pro Standort und pro Bekanntgabezeitraum zweimal
+    unter Einbeziehung des fachkundigen Personals des jeweiligen
+    Standortes auf eigene Kosten
 
-    a)  an anerkannten Ringversuchen teilzunehmen, deren Veranstalter hierfür
-        eine Akkreditierung der Akkreditierungsstelle besitzen, oder
+    a)  an einem akkreditierten Ringversuch teilzunehmen, der durch die
+        obersten Immissionsschutzbehörden der Länder anerkannt ist, oder
 
 
     b)  an entsprechenden Maßnahmen zur Qualitätssicherung teilzunehmen, falls
-        keine Ringversuche angeboten werden,
+        keine Ringversuche nach Buchstabe a angeboten werden,
 
 
 
@@ -659,7 +672,7 @@ Buchstabe B Zeile 5 Stoffbereich Sa.
 (5) Abweichend von Absatz 4 Nummer 1 ist für den Prüfbereich des
 Tätigkeitsbereiches Gruppe III Nummer 1 der Anlage 1 ein
 Qualitätssicherungssystem auf der Grundlage der DIN EN ISO 9001,
-Ausgabe Dezember 2008, ausreichend.
+Ausgabe November 2015, ausreichend.
 
 (6) Bekannt gegebene Stellen müssen ihre Geschäftspolitik in Bezug auf
 Ermittlungen so ausrichten, dass sie bei der Wahrnehmung der Aufgaben
@@ -964,11 +977,13 @@ Stelle das Gebot der Einheit von Probenahme und Analytik; davon
 ausgenommen sind die besonders aufwändigen Messverfahren in den
 Stoffbereichen Sp und Sa.
 
-(zu § 2 Nummer 5, § 7 Nummer 2, § 12 Absatz 2 und § 13 Absatz 2)
+(zu § 2 Nummer 5, § 7 Nummer 2, § 12 Absatz 2, § 13 Absatz 2 und § 13
+Absatz 2a)
 
 ### Anlage 2 Prüfungsbereiche für Sachverständige
 
-(Fundstelle: BGBl. I 2013, 1009 - 1010)
+(Fundstelle: BGBl. I 2013, 1009 - 1010 bzgl. der einzelnen Änderungen
+vgl. Fußnote)
 
 Prüfungsbereiche ergeben sich aus der Kombination von Anlagenarten
 (A.) und Fachgebieten (B.).
@@ -1100,8 +1115,23 @@ Prüfungsbereiche ergeben sich aus der Kombination von Anlagenarten
 
     *   MSR-/Prozessleittechnik
 
+    *
+
+*    *   10.1
+
+    *   MSR-/Prozessleittechnik
+
     *   Mess-, Steuer- und Regeltechnik, Prozessleittechnik (hard- und
         softwaremäßige Ausführung, Betrieb und Prüfung von MSR-Technik/PLT)
+
+
+*    *   10.2
+
+    *   Prozessleittechnik – Cyber-Security
+
+    *   Informationstechnische Prüfung der Sicherheit von IT-
+        (Informationstechnologie) und OT- (operative Technologie) Systemen (z.
+        B. Schutz vor cyberphysischen Angriffen)
 
 
 *    *   11

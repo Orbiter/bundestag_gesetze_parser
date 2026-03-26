@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2021, 1717
 
-Geändert durch
-:   Art. 1 V v. 21.9.2021 I 4312
+Zuletzt geändert durch
+:   Art. 1 V v. 19.3.2025 I Nr. 90
 
 
 ## Eingangsformel
@@ -113,38 +113,15 @@ Absatz 2 zu erhebenden Auslagen umfassen jeweils auch die Kosten für
 die Festsetzung der Gebühren und Auslagen.
 
 
-## § 3 Übergangsregelungen
+## § 3 Übergangsregelung
 
-(1) Für die Erhebung von Gebühren und Auslagen für gebührenfähige
-Leistungen nach Abschnitt 4 der Anlage 1, die vor dem 1. Oktober 2019
-beantragt oder begonnen, aber noch nicht vollständig erbracht wurden,
-ist die bis einschließlich zum 30. September 2019 geltende
-Kostenverordnung zum Waffengesetz anzuwenden, soweit nicht die
-Anwendung dieser Verordnung für den Gebührenschuldner günstiger ist.
-Wurde die gebührenfähige Leistung in den Fällen des Satzes 1 nach dem
-1\. Oktober 2019 und vor dem 15. Juni 2021 vollständig erbracht, gilt
-Satz 1 entsprechend.
-
-(2) Für die Erhebung von Gebühren und Auslagen für gebührenfähige
-Leistungen nach Abschnitt 4 der Anlage 1, die in dem Zeitraum vom 1.
-Oktober 2019 bis zum 15. Juni 2021 beantragt oder begonnen, aber noch
-nicht vollständig erbracht wurden, ist diese Verordnung anzuwenden.
-Wurde die gebührenfähige Leistung nach Abschnitt 4 der Anlage 1 in dem
-Zeitraum vom 1. Oktober 2019 bis einschließlich 14. Juni 2021
-beantragt oder begonnen und auch vollständig erbracht, ist diese
-Verordnung nur anzuwenden, wenn auf die nachträgliche Erhebung von
-Gebühren und Auslagen vor Beginn der Leistungserbringung ausdrücklich
-hingewiesen wurde. Andernfalls ist die bis einschließlich zum 30.
-September 2019 geltende Kostenverordnung zum Waffengesetz anzuwenden,
-soweit nicht die Anwendung dieser Verordnung für den Gebührenschuldner
+Für die Erhebung von Gebühren und Auslagen für gebührenfähige
+Leistungen nach Abschnitt 1, 2, 3, 4, 5 und 6 der Anlage 1, die bis
+einschließlich 31. Mai 2025 beantragt oder begonnen, aber noch nicht
+vollständig erbracht wurden, sind die bis einschließlich 31. Mai 2025
+geltenden gebührenrechtlichen Regelungen weiter anzuwenden, soweit
+nicht die Anwendung dieser Verordnung für den Gebührenschuldner
 günstiger ist.
-
-(3) Für die Erhebung von Gebühren und Auslagen für gebührenfähige
-Leistungen nach Abschnitt 1, 2, 3, 5 und 6 der Anlage 1, die vor dem
-1\. Oktober 2021 beantragt oder begonnen, aber noch nicht vollständig
-erbracht wurden, sind die vor dem 1. Oktober 2021 geltenden
-gebührenrechtlichen Regelungen weiter anzuwenden, soweit nicht die
-Anwendung dieser Verordnung für den Gebührenschuldner günstiger ist.
 
 
 ## § 4 Inkrafttreten
@@ -155,53 +132,39 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 ## Anlage 1 Gebührenverzeichnis
 
-(Fundstelle: BGBl. I 2021, 4314 - 4315)
-
-## Inhaltsübersicht
-
-## Abschnitt 1
+(Fundstelle: BGBl. 2025 I Nr. 90, S. 1 – 3)
 
 
-Mess- und Eichgesetz (MessEG),
-## Mess- und Eichverordnung (MessEV)
+*    *   ## **Inhaltsübersicht**
 
+        **Abschnitt 1**
+        Mess- und Eichgesetz (MessEG),
+        ## Mess- und Eichverordnung (MessEV)
 
-## Abschnitt 2
+        **Abschnitt 2**
+        Gewerbeordnung (GewO),
+        ## Spielverordnung (SpielV)
 
+        **Abschnitt 3**
+        ## Medizinprodukterecht-Durchführungsgesetz (MPDG)
 
-Gewerbeordnung (GewO),
-## Spielverordnung (SpielV)
+        **Abschnitt 4**
+        Beschussgesetz (BeschG),
+        Beschussverordnung (BeschussV),
+        ## Waffengesetz (WaffG)
 
+        **Abschnitt 5**
+        ## Fertigpackungsverordnung (FPackV)
 
-
-## Abschnitt 3
-
-
-## Medizinprodukterecht-Durchführungsgesetz (MPDG)
-
-
-
-## Abschnitt 4
-
-Beschussgesetz (BeschG),
-Beschussverordnung (BeschussV),
-## Waffengesetz (WaffG)
+        **Abschnitt 6**
+        ## Verordnung über Heizkostenabrechnung (HeizkostenV)
 
 
 
-## Abschnitt 5
-
-## Fertigpackungsverordnung (FPackV)
-
-
-
-## Abschnitt 6
-
-## Verordnung über Heizkostenabrechnung (HeizkostenV)
 
 
 *    *   **Abschnitt 1**
-        Mess- und Eichgesetz (MessEG),
+        **Mess- und Eichgesetz (MessEG),**
         **Mess- und Eichverordnung (MessEV)**
 
 
@@ -233,18 +196,18 @@ Beschussverordnung (BeschussV),
 
     *   Grundgebühr pro Dosimeterbauart
 
-    *   612 Euro
+    *   639,00 Euro
 
 
 *    *   2.2
 
     *   Bestrahlung einer Dosimetersonde (E < 2 MeV)
 
-    *   102 Euro
+    *   106,50 Euro
 
 
 *    *   **Abschnitt 2**
-        Gewerbeordnung (GewO),
+        **Gewerbeordnung (GewO),**
         **Spielverordnung (SpielV)**
 
 
@@ -274,23 +237,23 @@ Beschussverordnung (BeschussV),
 *    *   2.1
 
     *   Erteilung von Zulassungsbelegen einschließlich der Zulassungszeichen
-        50 Stück
+        je 50 Stück
 
-    *   750 Euro
+    *   1 000,00 Euro
 
 
 *    *   2.2
 
     *   Erteilung von Zulassungsbelegen einschließlich der Zulassungszeichen
-        500 Stück
+        je 500 Stück
 
-    *   7 500 Euro
+    *   10 000,00 Euro
 
 
 *    *   3
 
-    *   Erstattung von Aufwendungen für beantragte Ergänzungsarbeiten nach §
-        15 Absatz 1 SpielV
+    *   Erstattung von Aufwendungen für beantragte Ergänzungsarbeiten nach
+        § 15 Absatz 1 SpielV
 
     *
 
@@ -299,7 +262,7 @@ Beschussverordnung (BeschussV),
     *   Erteilung eines Ersatzzulassungsbeleges einschließlich des
         Ersatzzulassungszeichens pro Stück
 
-    *   174 Euro
+    *   195,00 Euro
 
 
 *    *   **Abschnitt 3**
@@ -315,8 +278,8 @@ Beschussverordnung (BeschussV),
 
 *    *   1
 
-    *   Gutachterliche Bewertung von Medizinprodukten mit Messfunktion nach §
-        85 Absatz 4 Nummer 1 MPDG
+    *   Gutachterliche Bewertung von Medizinprodukten mit Messfunktion nach
+        § 85 Absatz 4 Nummer 1 MPDG
 
     *   Zeitgebühr
         nach Anlage 2
@@ -341,8 +304,8 @@ Beschussverordnung (BeschussV),
 
 
 *    *   **Abschnitt 4**
-        Beschussgesetz (BeschG),
-        Beschussverordnung (BeschussV),
+        **Beschussgesetz (BeschG),**
+        **Beschussverordnung (BeschussV),**
         **Waffengesetz (WaffG)**
 
 
@@ -367,8 +330,8 @@ Beschussverordnung (BeschussV),
 
 *    *   2
 
-    *   Ausnahmebewilligungen nach § 13 BeschG in Verbindung mit den §§ 7 und
-        8 BeschG
+    *   Ausnahmebewilligungen nach § 13 BeschG in Verbindung mit §§ 7 und 8
+        BeschG
 
     *   Zeitgebühr
         nach Anlage 2
@@ -379,7 +342,7 @@ Beschussverordnung (BeschussV),
     *   Zulassung der Bauart von Schussapparaten, Einsteckläufen und nicht der
         Beschusspflicht unterliegenden Feuerwaffen, Systemprüfungen von
         Schussapparaten und der in ihnen zu verwendenden Kartuschenmunition
-        nach § 20 Absatz 3 Satz 1 in Verbindung mit § 7 BeschG
+        nach § 20 Absatz 3 Satz 1 in Verbindung mit § 7 BeschG
 
     *   Zeitgebühr
         nach Anlage 2
@@ -409,7 +372,7 @@ Beschussverordnung (BeschussV),
 
 *    *   6
 
-    *   Prüfung der technischen Anforderungen von Gasböllern nach § 8 Absatz 4
+    *   Prüfung der technischen Anforderungen von Gasböllern nach § 8 Absatz 4
         BeschussV
 
     *   Zeitgebühr
@@ -420,8 +383,8 @@ Beschussverordnung (BeschussV),
 
     *   Maßnahmen nach § 11 BeschussV (Bauartzulassung für besondere
         Schusswaffen, pyrotechnische Munition und Schussapparate), u. a.
-        Geräte- und Systemprüfung sowie Erstellung von Prüfregeln nach § 11
-        Absatz 1 BeschussV, Zulassung von Ausnahmen nach § 11 Absatz 3
+        Geräte- und Systemprüfung sowie Erstellung von Prüfregeln nach § 11
+        Absatz 1 BeschussV, Zulassung von Ausnahmen nach § 11 Absatz 3
         BeschussV, Bestätigung der Anzeige und der Berechtigung zum Aufbringen
         des Kennzeichens nach § 11 Absatz 6 BeschussV
 
@@ -441,7 +404,7 @@ Beschussverordnung (BeschussV),
 
     *   Prüfung der Anforderungen an Reizstoffgeschosse, Reizstoffsprühgeräte
         und Reizstoffe sowie an Elektroimpulsgeräte nach § 15 in Verbindung
-        mit den Anlagen IV und V BeschussV
+        mit Anlagen IV und V BeschussV
 
     *   Zeitgebühr
         nach Anlage 2
@@ -485,7 +448,7 @@ Beschussverordnung (BeschussV),
 
     *   Entgegennahme von Anzeigen einer Marke nach § 24 Absatz 6 WaffG
 
-    *   200 Euro
+    *   215,00 Euro
 
 
 *    *   **Abschnitt 5**
@@ -503,10 +466,10 @@ Beschussverordnung (BeschussV),
 
     *   Erteilung von Herstellerzeichen für Maßbehältnis-Flaschen nach § 37
         Absatz 1 FPackV oder Verlangen von Änderungen eines beantragten
-        Herstellerzeichens nach § 37 Absatz 2 FPackV, einschließlich der
+        Herstellerzeichens nach § 37 Absatz 2 FPackV, einschließlich der
         Unterrichtung der zuständigen Stellen
 
-    *   232 Euro
+    *   260,00 Euro
 
 
 *    *   **Abschnitt 6**
@@ -530,27 +493,31 @@ Beschussverordnung (BeschussV),
 
 
 
+
 (zu § 2 Absatz 1 Satz 2)
 
 ## Anlage 2 Stundensätze
 
-(Fundstelle: BGBl. I 2021, 4315 - 4316)
+(Fundstelle: BGBl. 2025 I Nr. 90, S. 4 – 5)
 
 
-*    *   Themenbereich
+*    *   Themen-
+        bereich Nr.
+
+    *   Themenbereich Name
 
     *   Organisationseinheit
 
     *   Stundensatz
-        in Euro
 
 
-*    *   Themenbereich 1
-        Akustik, Ultraschall, Beschleunigung
+*    *   1
+
+    *   Akustik, Ultraschall, Beschleunigung
 
     *   Geschwindigkeit
 
-    *   160
+    *   172 Euro
 
 
 *    *   Schall
@@ -559,12 +526,13 @@ Beschussverordnung (BeschussV),
 *    *   Akustik und Dynamik
 
 
-*    *   Themenbereich 2
-        Durchfluss
+*    *   2
+
+    *   Durchfluss
 
     *   Gase
 
-    *   167
+    *   179 Euro
 
 
 *    *   Flüssigkeiten
@@ -573,12 +541,13 @@ Beschussverordnung (BeschussV),
 *    *   Wärme und Vakuum
 
 
-*    *   Themenbereich 3
-        Elektrizität und Magnetismus
+*    *   3
+
+    *   Elektrizität und Magnetismus
 
     *   Gleichstrom und Niederfrequenz
 
-    *   186
+    *   202 Euro
 
 
 *    *   Hochfrequenz und Felder
@@ -596,12 +565,13 @@ Beschussverordnung (BeschussV),
 *    *   Elektrische Quantenmetrologie
 
 
-*    *   Themenbereich 4
-        Ionisierende Strahlung
+*    *   4
+
+    *   Ionisierende Strahlung
 
     *   Radioaktivität
 
-    *   204
+    *   213 Euro
 
 
 *    *   Dosimetrie für Strahlentherapie und Röntgendiagnostik
@@ -613,15 +583,13 @@ Beschussverordnung (BeschussV),
 *    *   Neutronenstrahlung
 
 
-*    *   Strahlenwirkung
+*    *   5
 
-
-*    *   Themenbereich 5
-        Länge, dimensionelle Metrologie
+    *   Länge, dimensionelle Metrologie
 
     *   Bild- und Wellenoptik
 
-    *   169
+    *   189 Euro
 
 
 *    *   Quantenoptik und Längeneinheit
@@ -639,23 +607,25 @@ Beschussverordnung (BeschussV),
 *    *   Interferometrie an Maßverkörperungen
 
 
-*    *   Themenbereich 6
-        Masse und abgeleitete Größen
+*    *   6
+
+    *   Masse und abgeleitete Größen
 
     *   Masse
 
-    *   180
+    *   192 Euro
 
 
 *    *   Festkörpermechanik
 
 
-*    *   Themenbereich 7
-        Metrologie in der Chemie
+*    *   7
+
+    *   Metrologie in der Chemie
 
     *   Allgemeine und Anorganische Chemie
 
-    *   188
+    *   204 Euro
 
 
 *    *   Biochemie
@@ -667,12 +637,13 @@ Beschussverordnung (BeschussV),
 *    *   Analytische Chemie der Gasphase
 
 
-*    *   Themenbereich 8
-        Metrologie für die Medizin
+*    *   8
+
+    *   Metrologie für die Medizin
 
     *   Biomedizinische Magnetresonanz
 
-    *   176
+    *   184 Euro
 
 
 *    *   Biosignale
@@ -681,12 +652,13 @@ Beschussverordnung (BeschussV),
 *    *   Biomedizinische Optik
 
 
-*    *   Themenbereich 9
-        Radiometrie und Photometrie
+*    *   9
+
+    *   Radiometrie und Photometrie
 
     *   Photometrie und Spektroradiometrie
 
-    *   194
+    *   197 Euro
 
 
 *    *   Angewandte Radiometrie
@@ -698,12 +670,13 @@ Beschussverordnung (BeschussV),
 *    *   Röntgenmesstechnik mit Synchrotronstrahlung
 
 
-*    *   Themenbereich 10
-        Thermometrie
+*    *   10
+
+    *   Thermometrie
 
     *   Detektorradiometrie und Strahlungsthermometrie
 
-    *   176
+    *   188 Euro
 
 
 *    *   Temperatur
@@ -712,32 +685,40 @@ Beschussverordnung (BeschussV),
 *    *   Kryosensorik
 
 
-*    *   Themenbereich 11
-        Zeit und Frequenz
+*    *   11
 
     *   Zeit und Frequenz
 
-    *   156
+    *   Zeit und Frequenz
+
+    *   159 Euro
 
 
-*    *   Themenbereich 12
-        Metrologische Informationstechnik
+*    *   12
+
+    *   Metrologische Informationstechnik
 
     *   Mathematische Modellierung und Datenanalyse
 
-    *   147
+    *   179 Euro
 
 
 *    *   Metrologische Informationstechnik
 
 
-*    *   Themenbereich 13
-        Physikalische Sicherheitstechnik,
-        Explosionsschutz
+*    *   Metrologie für die digitale Transformation
+
+
+*    *   Quantentechnologie-Kompetenzzentrum
+
+
+*    *   13
+
+    *   Physikalische Sicherheitstechnik, Explosionsschutz
 
     *   Explosionsschutz in der Energietechnik
 
-    *   196
+    *   227 Euro
 
 
 *    *   Explosionsgeschützte Sensorik und Messtechnik
@@ -746,13 +727,22 @@ Beschussverordnung (BeschussV),
 *    *   Grundlagen des Explosionsschutzes
 
 
-*    *   Themenbereich 14
-        Sonstige Leistungen
+*    *   14
+
+    *   Sonstige Nutzleistungen
 
     *   Wissenschaftlicher Gerätebau und andere Organisationseinheiten ohne
-        bzw. mit geringer bis mittlerer technischer Ausstattung
+        technische Ausstattung bzw. mit geringer bis mittlerer technischer
+        Ausstattung
 
-    *   116
+    *   130 Euro
+
+
+*    *   Industrielles Messwesen
+
+
+*    *   Gesetzliches Messwesen und Konformitätsbewertung
+
 
 
 

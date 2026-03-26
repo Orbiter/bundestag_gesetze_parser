@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2002, 1248
 
 Geändert durch
-:   Art. 86 G v. 21. 6.2005 I 1818
+:   Art. 86 G v. 21.6.2005 I 1818
 
 Die Verpflichtungen aus der Richtlinie 98/34/EG des Europäischen
 Parlaments und des Rates vom 22. Juni 1998 über ein

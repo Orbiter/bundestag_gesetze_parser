@@ -16,7 +16,10 @@ Fundstelle
 :   BGBl I: 2017, 3892
 
 Zuletzt geändert durch
-:   Art. 1 V v. 13.7.2023 I Nr. 200
+:   Art. 4 G v. 18.12.2025 I Nr. 347
+
+Änderung durch
+:   Art. 2 V v. 23.12.2025 I Nr. 367 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 [^F801042_01_BJNR389200017]:     Diese Verordnung dient der Umsetzung der Richtlinie (EU) 2015/652 des
@@ -67,22 +70,21 @@ Bundes-Immissionsschutzgesetzes.
 ### § 2 Begriffsbestimmungen
 
 (1) Stromanbieter ist jedes Energieversorgungsunternehmen im Sinne des
-§ 3 Nummer 18 des Energiewirtschaftsgesetzes vom 7. Juli 2005 (BGBl. I
+§ 3 Nummer 39 des Energiewirtschaftsgesetzes vom 7. Juli 2005 (BGBl. I
 S. 1970, 3621), das zuletzt durch Artikel 2 Absatz 6 des Gesetzes vom
 20\. Juli 2017 (BGBl. I S. 2808; 2018 I S. 472) geändert worden ist,
 das elektrischen Strom an Letztverbraucher liefert.
 
 (2) Ein Straßenfahrzeug mit Elektroantrieb ist ein reines
-Batterieelektrofahrzeug oder ein von außen aufladbares
+Batterieelektrofahrzeug im Sinne des § 2 Nummer 2 des
+Elektromobilitätsgesetzes vom 5. Juni 2015 (BGBl. I S. 898), das
+zuletzt durch Artikel 2 Absatz 34 des Gesetzes vom 20. Dezember 2022
+(BGBl. I S. 2752) geändert worden ist, oder ein von außen aufladbares
 Hybridelektrofahrzeug der Klassen M 1 und N 1 im Sinne des § 2 Nummer
-1 der Ladesäulenverordnung vom 9. März 2016 (BGBl. I S. 457), die
-zuletzt durch Artikel 4 des Gesetzes vom 22. Mai 2023 (BGBl. 2023 I
-Nr. 133) geändert worden ist, in der jeweils geltenden Fassung.
+3 des Elektromobilitätsgesetzes.
 
 (3) Ein reines Batterieelektrofahrzeug ist ein Kraftfahrzeug im Sinne
-des § 2 Nummer 2 des Elektromobilitätsgesetzes vom 5. Juni 2015
-(BGBl. I S. 898), das zuletzt durch Artikel 2 Absatz 34 des Gesetzes
-vom 20. Dezember 2022 (BGBl. I S. 2752) geändert worden ist.
+des § 2 Nummer 2 des Elektromobilitätsgesetzes.
 
 (4) Nahrungs- und Futtermittelpflanzen sind Kulturpflanzen mit hohem
 Stärkegehalt, Zuckerpflanzen oder Ölpflanzen, die als Hauptkulturen
@@ -217,19 +219,60 @@ Biokraftstoffe.
 der Biokraftstoff-Nachhaltigkeitsverordnung.
 
 
-#### § 4a Regelungen für die Verpflichtungsjahre 2019 bis 2021
+#### § 4a Regelungen für die Verpflichtungsjahre 2024 bis 2027
 
-(1) Abweichend von § 37a Absatz 6 Satz 5 und Absatz 8 Satz 1 des
-Bundes-Immissionsschutzgesetzes können Treibhausgasminderungsmengen,
-die den nach § 37a Absatz 4 des Bundes-Immissionsschutzgesetzes
-festgelegten Prozentsatz im Verpflichtungsjahr 2019 übersteigen, nicht
-auf den Prozentsatz des Verpflichtungsjahres 2020 angerechnet werden.
+(1) Abweichend von § 37a Absatz 8 des Bundes-Immissionsschutzgesetzes
+können Treibhausgasminderungsmengen, die den nach § 37a Absatz 4 des
+Bundes-Immissionsschutzgesetzes festgelegten Prozentsatz im
+Verpflichtungsjahr 2024 übersteigen, nicht auf den Prozentsatz des
+Verpflichtungsjahres 2025 angerechnet werden. Ebenso können
+Treibhausgasminderungsmengen, die den festgelegten Prozentsatz im
+Verpflichtungsjahr 2025 übersteigen, nicht auf den Prozentsatz im
+Verpflichtungsjahr 2026 angerechnet werden.
 
-(2) Auf Antrag des Verpflichteten wird die Übererfüllung im
-Verpflichtungsjahr 2019 auf den Prozentsatz des Verpflichtungsjahres
-2021 angerechnet. § 37a Absatz 6 Satz 5 des Bundes-
-Immissionsschutzgesetzes gilt für diese Anrechnung entsprechend. Der
-Antrag ist bis zum 15. April 2020 zu stellen.
+(2) Abweichend von § 14 Absatz 4 Satz 1 können die Mengen an
+fortschrittlichen Biokraftstoffen, die im Verpflichtungsjahr 2024 den
+Mindestanteil nach § 14 Absatz 1 in Verbindung mit § 14 Absatz 2
+übersteigen, nicht auf den Mindestanteil an fortschrittlichen
+Biokraftstoffen des Verpflichtungsjahres 2025 angerechnet werden.
+Ebenso können Mengen an fortschrittlichen Biokraftstoffen, die den
+festgelegten Mindestanteil im Verpflichtungsjahr 2025 übersteigen,
+nicht auf den Mindestanteil im Verpflichtungsjahr 2026 angerechnet
+werden.
+
+(3) Auf Antrag des Verpflichteten wird die Übererfüllung von
+Treibhausgasminderungsmengen in den Verpflichtungsjahren 2024 und 2025
+auf den Prozentsatz des Verpflichtungsjahres 2027 angerechnet. Satz 1
+gilt für die Übererfüllungen von Mengen an fortschrittlichen
+Biokraftstoffen entsprechend. Die Anträge nach Satz 1 und 2 sind bis
+zum 15. April 2028 zu stellen.
+
+(4) Abweichend von § 37a Absatz 6 Satz 5 des Bundes-
+Immissionsschutzgesetzes können Verträge für das Verpflichtungsjahr
+2025 nicht durch Erfüllungsoptionen erfüllt werden, die im Jahr 2024
+in Verkehr gebracht wurden oder als in Verkehr gebracht gelten. Ebenso
+können Verträge für das Verpflichtungsjahr 2026 nicht durch
+Erfüllungsoptionen erfüllt werden, die im Jahr 2025 in Verkehr
+gebracht wurden oder als in Verkehr gebracht gelten.
+
+(5) Abweichend von § 14 Absatz 3 Satz 1 können Verträge nach § 37a
+Absatz 6 des Bundes-Immissionsschutzgesetztes für das
+Verpflichtungsjahr 2025 nicht durch Mengen an fortschrittlichen
+Biokraftstoffen erfüllt werden, die im Jahr 2024 in Verkehr gebracht
+wurden. Ebenso können Verträge für das Verpflichtungsjahr 2026 nicht
+durch Mengen an fortschrittlichen Biokraftstoffen erfüllt werden, die
+im Jahr 2025 in Verkehr gebracht wurden.
+
+(6) Verträge nach § 37a Absatz 6 des Bundes-Immissionsschutzgesetz für
+das Verpflichtungsjahr 2027 können abweichend von § 37a Absatz 6 Satz
+5 des Bundes-Immissionsschutzgesetzes auch mit in den
+Verpflichtungsjahren 2024 und 2025 in Verkehr gebrachten oder als in
+Verkehr gebracht geltenden Erfüllungsoptionen erfüllt werden, wenn die
+Erfüllungsoptionen nicht bereits Gegenstand eines Vertrages nach § 37a
+Absatz 6 des Bundes-Immissionsschutzgesetz waren und der Dritte in den
+Verpflichtungsjahren 2024 und 2025 nicht selbst Verpflichteter gewesen
+ist. Satz 1 gilt für Verträge über Mengen an fortschrittlichen
+Biokraftstoffen entsprechend.
 
 
 ### Abschnitt 2 - Straßenfahrzeuge mit Elektroantrieb
@@ -244,8 +287,8 @@ der Verpflichtung zur Minderung der Treibhausgasemissionen angerechnet
 werden, sofern die Entnahme im Steuergebiet des Stromsteuergesetzes
 erfolgte. Dritter im Sinne des § 37a Absatz 6 des Bundes-
 Immissionsschutzgesetzes ist der Betreiber eines Ladepunktes im Sinne
-des § 2 Nummer 8 der Ladesäulenverordnung oder eine von ihm bestimmte
-Person.
+des Artikel 2 Nummer 39 der Verordnung (EU) 2023/1804 oder eine von
+ihm bestimmte Person.
 
 (2) Die Bestimmung der Person als Dritter, die nicht der Betreiber des
 Ladepunktes ist, erfolgt durch eine Vereinbarung in Textform. In jedem
@@ -326,7 +369,8 @@ der Wert nach Absatz 4 verwendet.
 
 (1) Der Dritte führt für jedes Verpflichtungsjahr Aufzeichnungen über
 die einzelnen öffentlich zugänglichen Ladepunkte im Sinne von § 2
-Nummer 5 der Ladesäulenverordnung unter Angabe
+Nummer 2 der Ladesäulenverordnung vom 23. Dezember 2025 (BGBl. 2025 I
+Nr. 367) in der jeweils geltenden Fassung unter Angabe
 
 1.  des genauen Standortes, an dem sich der Ladepunkt befindet,
 
@@ -343,12 +387,12 @@ Nummer 5 der Ladesäulenverordnung unter Angabe
 Die zuständige Stelle nach § 20 Absatz 1 kann im Bundesanzeiger
 bekannt geben, welche weitere Angaben den Aufzeichnungen beizufügen
 sind, um nachzuweisen, dass es sich um einen öffentlich zugänglichen
-Ladepunkt im Sinne des § 2 Nummer 5 der Ladesäulenverordnung handelt.
+Ladepunkt im Sinne des § 2 Nummer 2 der Ladesäulenverordnung handelt.
 
 (2) Der Dritte fügt bei Aufbau und Außerbetriebnahme von Ladepunkten
 den Aufzeichnungen die Anzeige des Ladepunktbetreibers gegenüber der
 Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und
-Eisenbahnen gemäß § 5 Absatz 1 der Ladesäulenverordnung bei. Für
+Eisenbahnen gemäß § 4 Absatz 1 der Ladesäulenverordnung bei. Für
 bereits bestehende Ladepunkte ist die Anzeige, die zum Zeitpunkt des
 Aufbaus gegenüber der Bundesnetzagentur für Elektrizität, Gas,
 Telekommunikation, Post und Eisenbahnen abgegeben wurde, beizufügen.

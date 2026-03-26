@@ -16,10 +16,10 @@ Fundstelle
 :   BGBl I: 1965, 585
 
 Neugefasst durch
-:   Bek. v. 4. 3.1994 I 406;
+:   Bek. v. 4.3.1994 I 406;
 
 Zuletzt geändert durch
-:   Art. 34 G v. 11.12.2023 I Nr. 354
+:   Art. 51 G v. 2.12.2024 I Nr. 387
 
 
 ## § 1 Persönlicher Geltungsbereich
@@ -259,9 +259,8 @@ und des Absatzes 2 Satz 1, in denen neben der gewinnabhängigen
 Verzinsung eine gewinnunabhängige Mindestverzinsung zugesagt ist,
 setzt voraus, daß
 
-1.  der Aussteller in der Gewinnschuldverschreibung erklärt, die
-    gewinnunabhängige Mindestverzinsung werde im Regelfall die Hälfte der
-    Gesamtverzinsung nicht überschreiten, oder
+1.  die gewinnunabhängige Mindestverzinsung der Gewinnschuldverschreibung
+    im Regelfall die Hälfte der Gesamtverzinsung nicht überschreitet oder
 
 
 2.  die gewinnunabhängige Mindestverzinsung zum Zeitpunkt der Ausgabe der
@@ -1017,6 +1016,14 @@ diese mit der Anlage vermögenswirksamer Leistungen nach § 2 Abs. 1 Nr.
 (gegenstandslos)
 
 
+## § 16a Gleichstellung der Wertpapierinstitute
+
+Für die Anwendung der vorstehenden Vorschriften dieses Gesetzes sind
+Wertpapierinstitute im Sinne des Wertpapierinstitutsgesetzes den
+Kreditinstituten sowie den Kapitalverwaltungsgesellschaften im Sinne
+des Kapitalanlagegesetzbuchs gleichgestellt.
+
+
 ## § 17 Anwendungsvorschriften
 
 (1) Die vorstehenden Vorschriften dieses Gesetzes gelten vorbehaltlich
@@ -1144,6 +1151,10 @@ widersprochen.
 vom 11. Dezember 2023 (BGBl. 2023 I Nr. 354) ist erstmals für
 vermögenswirksame Leistungen anzuwenden, die nach dem 31. Dezember
 2023 angelegt werden.
+
+(18) § 16a ist rückwirkend ab Inkrafttreten des
+Wertpapierinstitutsgesetzes vom 12. Mai 2021 (BGBl. I S. 990)
+anzuwenden.
 
 
 ## § 18 Kündigung eines vor 1994 abgeschlossenen Anlagevertrags und der Mitgliedschaft in einer Genossenschaft oder Gesellschaft mit beschränkter Haftung

@@ -16,7 +16,7 @@ Fundstelle
 :   BAnz: AT 27.03.2018 V1
 
 Zuletzt geändert durch
-:   Art. 2 V v. 27.11.2023 I Nr. 329
+:   Art. 1 V v. 20.10.2025 I Nr. 244
 
 
 ## Eingangsformel
@@ -2565,7 +2565,7 @@ Straßenbenutzungsgebühren in der Union (ABl. L 91 vom 29.03.2019, S.
 europäischen elektronischen Mautdienstes, den Mindestinhalt der
 Vorgabe für das EETS-Gebiet, elektronische Schnittstellen und
 Anforderungen an Interoperabilitätskomponenten sowie zur Aufhebung der
-Entscheidung 2009/750/EG (ABl. L 43 vom 17.02.2020, S. 49), deren
+Entscheidung 2009/750/EG (ABl. L 43 vom 17.02.2020, S. 49), deren
 Umsetzung oder Durchführung in Deutschland durch das
 Bundesfernstraßenmautgesetz (BFStrMG) und das Mautsystemgesetz
 (MautSysG) erfolgt, legen einen Vergütungsanspruch des EETS-Anbieters
@@ -2605,9 +2605,12 @@ Dementsprechend beschreibt diese Anlage:
 Im EETS-Gebiet des BFStrMG ist ein Hauptdiensteanbieter im Sinne der
 Richtlinie (EU) 2019/520 tätig. Es handelt sich um die Toll Collect
 GmbH, die einen langfristigen Betreibervertrag mit dem Bundesamt für
-Logistik und Mobilität (BALM, ehemals Bundesamt für Güterverkehr, BAG)
-erfüllt und seit dem 01.09.2018 zu 100 % im Eigentum der
-Bundesrepublik Deutschland ist.
+Logistik und Mobilität (BALM) erfüllt und seit dem 1. September 2018
+zu 100 % im Eigentum der Bundesrepublik Deutschland ist.
+
+Diese Hinweise zum Vergütungsmodell beziehen sich auf die
+Vergütungsperiode 2026 bis 2027 (1. Januar 2026 bis 31. Dezember
+2027).
 
 ## **II. Prinzipien des Vergütungsmodells**
 
@@ -2619,16 +2622,9 @@ Vergütungsmodells werden im Rahmen der EETS-Gebietsvorgaben und des
 EETS-Zulassungsvertrags veröffentlicht.
 
 Die Vergütung erfolgt dabei für alle EETS-Anbieter nach derselben
-transparenten und diskriminierungsfreien Methode. Eine Unterscheidung
-wird lediglich in Bezug auf die Nutzung des Mauterhebungsdienstes
-(MED) vorgenommen. Bei diesem erfolgt die Berechnung der Maut für die
-Nutzer von EETS-Anbietern, einschließlich des Erkennungsprozesses zur
-Unterscheidung mautpflichtiger von nicht mautpflichtigen
-Streckenabschnitten und der Ermittlung der abschnittsbezogenen
-Erhebungsdaten und der Erstellung der Mautbuchungsnachweise, durch das
-BALM. Da der zu erbringende Leistungsumfang von EETS-Anbietern, die
-den MED nutzen, geringer ist, erfolgt hier eine entsprechend geringere
-Vergütung.
+transparenten und diskriminierungsfreien Methode. Ab dem 1. Januar
+2026 nutzen alle EETS-Anbieter den Mauterhebungsdienst (MED) gemäß § 4
+Absatz 3a BFStrMG.
 
 Das Verfahren für die Berechnung der Vergütung der EETS-Anbieter folgt
 dabei derselben Struktur wie die Vergütung vergleichbarer Dienste, die
@@ -2735,8 +2731,7 @@ im Vergütungsmodell ist es wesentlich, bestimmte Eigenschaften der
 Leistung zu ermitteln. Dabei wurde geprüft, ob die Leistung einen
 fixen oder variablen Aufwand verursacht. Sofern es sich um variablen
 Aufwand handelt, wurde ermittelt, mit welchem Parameter der Aufwand
-skaliert. Auch wurde ermittelt, inwiefern die Nutzung des MED Einfluss
-auf die Leistungserbringung hat.
+skaliert.
 
 3\. Bestimmung von Vergütungselementen:
 
@@ -2787,26 +2782,28 @@ Mautvolumens bzw. der abgerechneten Fahrleistung skalieren.
 
 Das Vergütungselement wird gezahlt in Abhängigkeit von der Höhe der im
 Betrachtungszeitraum wertgestellten Mautzahlungen abzüglich positiv
-beschiedener Erstattungsverlangen und Verzugszinsen.
+beschiedener Erstattungsverlangen und Verzugszinsen sowie von der Höhe
+der im Betrachtungszeitraum abgerechneten Fahrleistung.
 
 4\. Bonus für Erfassungsquote
 
 Variable Vergütung für die Überschreitung der vertraglich
 festgelegten, mindestens zu erreichenden Erfassungsquote.
 
-Gemäß Anlage 5 des EETS-Zulassungsvertrags muss der EETS-Anbieter eine
-Erfassungsquote von mindestens 99,500 % erreichen. Sofern der EETS-
+Gemäß Anlage 5 des EETS-Zulassungsvertrags muss der EETS-Anbieter
+mindestens eine bestimmte Erfassungsquote nach Abschnitt 3.1 der
+Anlage 5 des EETS-Zulassungsvertrags erreichen. Sofern der EETS-
 Anbieter im Betrachtungszeitraum diese Quote überschreitet, erhält er
-einen Bonus von 12,5 % der fiktiven Mauteinnahmen, die sich durch die
-höhere Erfassungsquote ergeben.
+einen Bonus in Form eines Anteils an den fiktiven Mauteinnahmen, die
+sich durch die höhere Erfassungsquote ergeben.
 
 Alle Leistungen der EETS-Anbieter wurden einem dieser
 Vergütungselemente zugeordnet (siehe Abschnitt V).
 
 Die Vergütung wird jeweils für eine Vergütungsperiode festgelegt. Die
 Vergütungsperiode gemäß Anlage 9 zum EETS-Zulassungsvertrag umfasst
-den Zeitraum vom 01.03.2023 bis 31.12.2025. Der Mauterheber wird eine
-Überprüfung und Festlegung der Vergütung für folgende
+den Zeitraum vom 1. Januar 2026 bis 31. Dezember 2027. Der Mauterheber
+wird eine Überprüfung und Festlegung der Vergütung für folgende
 Vergütungsperioden gemäß den Regelungen in Nummer 2 der Anlage 9 zum
 EETS-Zulassungsvertrag vornehmen.
 
@@ -2953,7 +2950,7 @@ Hauptdiensteanbieters herangezogen, da auch dessen Kosten für die
 Herleitung verwendet wurden.
 
 Das Entgelt automatisches Verfahren für die Vergütungsperiode ab dem
-01\.03.2023 wird gemäß dem Verfahren in Nummer 2.1 der Anlage 9 zum
+1\. Januar 2026 wird gemäß dem Verfahren in Nummer 2.1 der Anlage 9 zum
 EETS-Zulassungsvertrag indexiert.
 
 1\. Leistungen der Nutzeranmeldung/ -abmeldung/ -betreuung
@@ -3018,18 +3015,13 @@ Vergütung des Hauptdiensteanbieters, da sie vertraglich nicht
 verpflichtet sind, ein flächendeckendes Netz von Servicepartnern für
 Ein- und Ausbau sowie Überprüfung von Fahrzeuggeräten zu betreiben.
 
-3\. Fahrzeuggeräte/Erkennungsverfahren
+3\. Fahrzeuggeräte und Fahrzeuggeräte-Management
 
 Die Leistungen umfassen alle Aufwände für die Software der
 Fahrzeuggeräte einschließlich der notwendigen zentralseitigen Systeme
 für das Management der Fahrzeuggeräte einschließlich der dafür
 notwendigen Personalkosten. Weiterhin werden die Kosten der
-Mobilkommunikation der Fahrzeuggeräte erfasst. Auch gehen die Kosten
-für die IT-Systeme und die notwendigen Personalkosten für die
-Betreuung des Prozesses der Erkennung von mautpflichtigen Abschnitten
-auf Basis der erhobenen Positionsdaten sowie deren Tarifierung ein,
-wobei diese nur für EETS-Anbieter berücksichtigt werden, die den MED
-nicht nutzen.
+Mobilkommunikation der Fahrzeuggeräte erfasst.
 
 Die Höhe der Vergütung für die Software der Fahrzeuggeräte und
 zugehörigen zentralen Systeme wurde auf Basis der Implementierungs-
@@ -3060,22 +3052,6 @@ Fahrzeuggeräte-Kommunikationskosten, da die Fahrzeuggeräte des
 Hauptdiensteanbieters nur in Ausnahmefällen im Ausland kommunizieren
 müssen, während davon ausgegangen wird, dass Fahrzeuggeräte der EETS-
 Anbieter regelmäßig im Ausland kommunizieren müssen.
-
-Die Höhe der Vergütung für die IT-Systeme für den Prozess der
-Erkennung von mautpflichtigen Abschnitten wurde auf Basis der
-Implementierungs- und Betriebskosten des Hauptdiensteanbieters
-abgeschätzt. Die Implementierungskosten wurden über die angenommene
-Nutzungsdauer abgeschrieben.
-
-Auch wenn die Systeme für die Erkennung der mautpflichtigen
-Befahrungen im Grundsatz auch in anderen satellitenbasierten
-Mautsystemen eingesetzt werden können, gibt es jedoch eine Reihe
-spezieller Anforderungen im EETS-Gebiet BFStrMG wie zum Beispiel die
-Vorgabe einer Mauttabelle, Spezialfälle der Mauterhebung und
-Fahrtenbildungsregeln. Deshalb wird für letztere Leistungen kein
-Synergieeffekt in Ansatz gebracht. Der Mauterheber behält sich vor,
-insbesondere diesen Aspekt bei der regelmäßigen Aktualisierung des
-Vergütungsmodells zu überprüfen.
 
 4\. Mautabrechnung und Auskehr an den Mauterheber
 
@@ -3108,37 +3084,38 @@ Reports.
 
 Die Leistungen umfassen alle Aufwände der EETS-Anbieter für den
 Betrieb der geforderten technischen Schnittstellen zum System des
-Mauterhebers und für den Fall der Nutzung des MED auch zum System des
-Hauptdiensteanbieters. Die Erbringung der Leistungen erfordert dabei
-IT-Systeme (zum Beispiel eine Datenaustauschplattform) und Personal.
-Die Höhe der Vergütung wurde auf Basis der Implementierungs- und
-Betriebskosten des Hauptdiensteanbieters abgeschätzt. Die für die
-Vergütung herangezogenen Kosten des Hauptdiensteanbieters beinhalten
-auch die notwendigen Testkosten für die IT-Systeme vor ihrer
-Produktivsetzung. Die Implementierungskosten wurden über die
-angenommene Nutzungsdauer abgeschrieben.
+Mauterhebers und zum System des Hauptdiensteanbieters. Die Erbringung
+der Leistungen erfordert dabei IT-Systeme (zum Beispiel eine
+Datenaustauschplattform) und Personal. Die Höhe der Vergütung wurde
+auf Basis der Implementierungs- und Betriebskosten des
+Hauptdiensteanbieters abgeschätzt. Die für die Vergütung
+herangezogenen Kosten des Hauptdiensteanbieters beinhalten auch die
+notwendigen Testkosten für die IT-Systeme vor ihrer Produktivsetzung.
+Die Implementierungskosten wurden über die angenommene Nutzungsdauer
+abgeschrieben.
 
 Für die Nutzung der Back-Office-Kommunikation ist gemäß der
-Durchführungsverordnung (EU) 2020/204 zukünftig ein technischer
-Standard zu verwenden. Die technische Umsetzung im EETS-Gebiet BFStrMG
-ist bereits mit diesem technischen Standard kompatibel. Derzeit gibt
-es noch wesentliche Unterschiede in der Implementierung in den EETS-
-Gebieten. Es wird jedoch davon ausgegangen, dass zumindest die
-Umsetzung der Schnittstellen zur Unterstützung von satellitenbasierten
-Mautsystemen als Grundlage für die individuelle Implementierung in
-allen satellitenbasierten EETS-Gebieten genutzt werden kann. Deshalb
-erfolgt die Anwendung des Synergieeffekts in Höhe von 50 % in Bezug
-auf die Implementation und den Betrieb der Schnittstellen zum
-Mauterheber. Die EETS-Anbieter erhalten wegen spezifischer
-Anforderungen des Mauterhebers an die Schnittstellen und ihren Betrieb
-bei der Umsetzung des Datenaustauschs einen Aufschlag auf die
-Vergütung im Vergleich zu den Kosten des Hauptdiensteanbieters.
+Durchführungsverordnung (EU) 2020/204 ein technischer Standard zu
+verwenden. Die technische Umsetzung im EETS-Gebiet BFStrMG ist bereits
+mit diesem technischen Standard kompatibel. Derzeit gibt es noch
+wesentliche Unterschiede in der Implementierung in den EETS-Gebieten.
+Es wird jedoch davon ausgegangen, dass zumindest die Umsetzung der
+Schnittstellen zur Unterstützung von satellitenbasierten Mautsystemen
+als Grundlage für die individuelle Implementierung in allen
+satellitenbasierten EETS-Gebieten genutzt werden kann. Deshalb erfolgt
+die Anwendung des Synergieeffekts in Höhe von 50 % in Bezug auf die
+Implementation und den Betrieb der Schnittstellen zum Mauterheber. Die
+EETS-Anbieter erhalten wegen spezifischer Anforderungen des
+Mauterhebers an die Schnittstellen und ihren Betrieb bei der Umsetzung
+des Datenaustauschs einen Aufschlag auf die Vergütung im Vergleich zu
+den Kosten des Hauptdiensteanbieters.
 
-Für die Implementierung und den Betrieb der Schnittstellen zum MED
-erfolgt keine Anwendung des Synergieeffekts. Auch wenn die
-Schnittstellen auf technischen Standards basieren, ist die aktuelle
-Umsetzung im EETS-Gebiet BFStrMG noch neuartig und mit einer Reihe
-individueller Anforderungen verbunden.
+Für die Implementierung und den Betrieb der Schnittstellen zum System
+des Hauptdiensteanbieters für den MED erfolgt keine Anwendung des
+Synergieeffekts. Auch wenn die Schnittstellen auf technischen
+Standards basieren, ist die aktuelle Umsetzung im EETS-Gebiet BFStrMG
+noch neuartig und mit einer Reihe individueller Anforderungen
+verbunden.
 
 ## **V.1.3 Leistungen mit Zuordnung zum Nutzungs- und
 Zahlungsprovisionsentgelt**
@@ -3157,8 +3134,7 @@ allgemeinen Nutzerbetreuung sowie der Betreuung der Mautabrechnung
 entstehen, in Höhe der Kosten des Hauptdiensteanbieters. Dabei wurden
 auch ergänzende Personalkosten berücksichtigt, die für Prüfungen zur
 Bestimmung der CO
-2             -Emissionsklassen im Zusammenhang mit der kommenden
-Einführung einer CO
+2             -Emissionsklassen im Zusammenhang mit der CO
 2             -Maut erforderlich sind. Es wird davon ausgegangen, dass
 sich ein Teil der notwendigen Betreuung auf mautdomänenübergreifende
 Nutzeranfragen bezieht. Es wird deshalb der Synergieeffekt in Höhe von
@@ -3215,32 +3191,47 @@ wird.
 
 Der Aufwand des EETS-Anbieters für die Zahlungsabwicklung mit dem
 Nutzer ist abhängig vom abgerechneten Mautvolumen und dem genutzten
-Zahlungsmittel. Für die Bestimmung des Anteils des
-Zahlungsprovisionsentgelts wurden die prozentuale Verteilung der
-Zahlungsmittel beim Hauptdiensteanbieter und die jeweiligen
-Zahlungsprovisionen und damit verbundene Kosten zum Zeitpunkt des
-Inkrafttretens der Richtlinie (EU) 2019/520 herangezogen. Dabei wurden
-aus Gründen der Vergleichbarkeit ausschließlich „post payment“
-Zahlungsmittel des Hauptdiensteanbieters berücksichtigt. Das vom
-Hauptdiensteanbieter angebotene Guthabenverfahren bleibt
-unberücksichtigt. EETS-Anbieter erhalten einen Aufschlag auf die so
-ermittelten Kosten des Hauptdiensteanbieters, da die EETS-Anbieter im
-Gegensatz zum Hauptdiensteanbieter eine Bankgarantie für einen
-durchschnittlichen monatlichen Mautumsatz beibringen müssen. Sie
-übernehmen ebenfalls die Mautausfallhaftung für Nutzer für den Fall
-von fehlerhaft deklarierten statischen Fahrzeugparametern
-(einschließlich der CO
+Zahlungsmittel sowie der Höhe der abgerechneten Fahrleistung. Der
+Hauptdiensteanbieter hat ein europaweites offenes Zulassungsverfahren
+„Tankkarten-Akzeptanzverträge“ durchgeführt, um neue Akzeptanzverträge
+zum 1. September 2024 für die Abrechnung der Lkw-Maut beim
+Hauptdiensteanbieter abzuschließen. Das Ergebnis des Verfahrens wurde
+öffentlich bekannt gegeben (Supplement zum Amtsblatt der Europäischen
+Union S 67/2024 v. 04.04.2024, Nr. 198573-2024). Für die Bestimmung
+des Anteils des Zahlungsprovisionsentgelts wurden die entsprechend dem
+offenen Zulassungsverfahren „Tankkarten-Akzeptanzverträge“ des
+Hauptdiensteanbieters ab dem 1. September 2024 gültige
+Zahlungsprovision und die damit verbundenen Kosten für die technische
+Abwicklung der Zahlung (Payment Service Provider) herangezogen. Dabei
+wurden aus Gründen der Vergleichbarkeit mit den bei EETS-Anbietern
+weit überwiegend eingesetzten Tank- und Flottenkarten ausschließlich
+die Kosten dieses Zahlungsmittels des Hauptdiensteanbieters
+berücksichtigt. Die vom Hauptdiensteanbieter weiterhin angebotenen
+Verfahren wie Abrechnung über Kreditkarte, Lastschrift und das
+Guthabenverfahren bleiben unberücksichtigt. EETS-Anbieter erhalten
+einen Aufschlag auf die so ermittelten Kosten des
+Hauptdiensteanbieters, da die EETS-Anbieter im Gegensatz zum
+Hauptdiensteanbieter eine Bankgarantie für einen durchschnittlichen
+monatlichen Mautumsatz beibringen müssen. Sie übernehmen ebenfalls die
+Mautausfallhaftung für Nutzer für den Fall von fehlerhaft deklarierten
+statischen Fahrzeugparametern (einschließlich der CO
 2             -Emissionsklasse) sowie bei nachgewiesenen
 Mautverstößen, bei denen der Mauterheber Nacherhebungen nicht
 gegenüber dem Nutzer durchsetzen kann.
 
+Die Höhe der Fahrleistung wird auf Basis der im jeweiligen
+Betrachtungszeitraum aktiven Fahrzeuggeräte und der mit diesen
+Fahrzeuggeräten abgerechneten Fahrleistung in km ermittelt.
+
 ## **V.2 Vergütung für die Erreichung von Unternehmenszielen**
 
-Gemäß Anlage 5 des EETS-Zulassungsvertrags muss der EETS-Anbieter eine
-Erfassungsquote von mindestens 99,500 % erreichen. Sofern der EETS-
-Anbieter im Betrachtungszeitraum diese Quote überschreitet, erhält er
-einen Bonus von 12,5 % der fiktiven Mauteinnahmen, die sich durch die
-höhere Erfassungsquote ergeben.
+Mit der Einführung des Mauterhebungsdienstes wurde das Verfahren zur
+Messung der Erfassungsquote in Anlage 5 des EETS-Zulassungsvertrags
+angepasst. Der EETS-Anbieter muss mindestens eine bestimmte
+Erfassungsquote erreichen. Sofern der EETS-Anbieter im
+Betrachtungszeitraum diese Quote überschreitet, erhält er einen Bonus
+in Form eines Anteils an den fiktiven Mauteinnahmen, die sich durch
+die höhere Erfassungsquote ergeben.
 
 ## **V.3 Vergütung für Änderungsverlangen des Mauterhebers**
 

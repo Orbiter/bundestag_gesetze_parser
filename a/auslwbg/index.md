@@ -20,7 +20,7 @@ Zuletzt geändert durch
 :   Art. 203 V v. 31.8.2015 I 1474
 
 
-## (XXXX) Gliederung
+## Gliederung
 
 
 *    *   Abschnitt I

@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2016, 1730
 
 Zuletzt geändert durch
-:   Art. 25 G v. 27.3.2024 I Nr. 108
+:   Art. 28 G v. 4.2.2026 I Nr. 33
 
 Stand: Ersetzt G 610-6-15 v. 15.12.2003 I 2676, 2724 (InvStG)
 
@@ -29,10 +29,15 @@ Stand: Ersetzt G 610-6-15 v. 15.12.2003 I 2676, 2724 (InvStG)
 Anleger.
 
 (2) Investmentfonds sind Investmentvermögen nach § 1 Absatz 1 des
-Kapitalanlagegesetzbuchs. Für Zwecke dieses Gesetzes besteht keine
-Bindungswirkung an die aufsichtsrechtliche Entscheidung nach § 5
-Absatz 3 des Kapitalanlagegesetzbuches. Als Investmentfonds im Sinne
-dieses Gesetzes gelten auch
+Kapitalanlagegesetzbuchs. Wenn ein Investmentvermögen die
+Voraussetzungen nach § 1 Absatz 1 des Kapitalanlagegesetzbuchs
+erfüllt, ist es für die Qualifikation als Investmentfonds unschädlich,
+wenn das Investmentvermögen alle oder einen Teil der von ihm
+gehaltenen Vermögensgegenstände aktiv unternehmerisch bewirtschaftet.
+Für Zwecke dieses Gesetzes besteht keine Bindungswirkung an die
+aufsichtsrechtliche Entscheidung nach § 5 Absatz 3 des
+Kapitalanlagegesetzbuches. Als Investmentfonds im Sinne dieses
+Gesetzes gelten auch
 
 1.  Organismen für gemeinsame Anlagen, bei denen die Zahl der möglichen
     Anleger auf einen Anleger begrenzt ist, wenn die übrigen
@@ -242,8 +247,8 @@ Mindestanlage in Immobilien vor, gilt der Investmentanteil im Umfang
 dieses höheren Prozentsatzes als Immobilie. Anteile an Körperschaften,
 Personenvereinigungen oder Vermögensmassen, bei denen nach
 gesetzlichen Bestimmungen oder nach deren Anlagebedingungen das
-Bruttovermögen zu mindestens 75 Prozent aus unbeweglichem Vermögen
-besteht, gelten in Höhe von 75 Prozent des Wertes der Anteile als
+Bruttovermögen zu mindestens 65 Prozent aus unbeweglichem Vermögen
+besteht, gelten in Höhe von 65 Prozent des Wertes der Anteile als
 Immobilien, wenn die Körperschaften, Personenvereinigungen oder
 Vermögensmassen einer Ertragsbesteuerung in Höhe von mindestens 15
 Prozent unterliegen und nicht von ihr befreit sind oder wenn deren
@@ -366,7 +371,7 @@ Besteuerung des Investmentfonds zuständig
     Steuerabzug unterliegen,
 
 
-1a. das Finanzamt, das in den Fällen des § 6 Absatz 5 Satz 1 Nummer 1 in
+1a. das Finanzamt, das in den Fällen des § 6 Absatz 4 Satz 1 Nummer 4 in
     Verbindung mit § 49 Absatz 1 Nummer 2 Buchstabe e Doppelbuchstabe cc
     des Einkommensteuergesetzes für die Besteuerung der
     Kapitalgesellschaft nach § 20 Absatz 3 der Abgabenordnung zuständig
@@ -443,11 +448,15 @@ Einkünfte nach § 2 Nummer 1 des Körperschaftsteuergesetzes.
 (3) Inländische Beteiligungseinnahmen sind
 
 1.  Einnahmen nach § 43 Absatz 1 Satz 1 Nummer 1 und 1a des
-    Einkommensteuergesetzes und
+    Einkommensteuergesetzes,
 
 
 2.  Entgelte, Einnahmen und Bezüge nach § 2 Nummer 2 Buchstabe a bis c des
-    Körperschaftsteuergesetzes.
+    Körperschaftsteuergesetzes und
+
+
+3.  Einkünfte nach den Nummern 1 und 2, die über eine Personengesellschaft
+    erzielt werden.
 
 
 
@@ -457,11 +466,25 @@ Körperschaftsteuergesetzes sind entsprechend anzuwenden.
 (4) Inländische Immobilienerträge sind
 
 1.  Einkünfte aus der Vermietung und Verpachtung von im Inland belegenen
-    Grundstücken oder grundstücksgleichen Rechten und
+    Grundstücken oder grundstücksgleichen Rechten,
 
 
 2.  Gewinne aus der Veräußerung von im Inland belegenen Grundstücken oder
-    grundstücksgleichen Rechten.
+    grundstücksgleichen Rechten,
+
+
+3.  sonstige Einkünfte aus Vermietung und Verpachtung nach § 49 Absatz 1
+    Nummer 6 des Einkommensteuergesetzes,
+
+
+4.  Einkünfte nach § 49 Absatz 1 Nummer 2 Buchstabe e Doppelbuchstabe cc
+    des Einkommensteuergesetzes, unabhängig davon, ob die
+    Kapitalgesellschaft ihren Sitz oder ihre Geschäftsleitung im Inland
+    hat, und
+
+
+5.  Einkünfte nach den Nummern 1 bis 4, die über eine Personengesellschaft
+    erzielt werden.
 
 
 
@@ -473,38 +496,68 @@ Veräußerung mehr als zehn Jahre beträgt.
 
 (5) Sonstige inländische Einkünfte sind
 
-1.  Einkünfte nach § 49 Absatz 1 des Einkommensteuergesetzes; für
-    Einkünfte nach § 49 Absatz 1 Nummer 2 Buchstabe e Doppelbuchstabe cc
-    des Einkommensteuergesetzes gilt dies unabhängig davon, ob die
-    Kapitalgesellschaft ihren Sitz oder ihre Geschäftsleitung im Inland
-    hat. Ausgenommen sind Einkünfte nach § 49 Absatz 1 Nummer 2 Buchstabe
-    e Doppelbuchstabe aa und bb des Einkommensteuergesetzes, soweit sie
-    nicht von den Absätzen 3 oder 4 erfasst werden;
+1.  Einkünfte nach § 49 Absatz 1 des Einkommensteuergesetzes mit Ausnahme
+    der Einkünfte nach § 49 Absatz 1 Nummer 2 des Einkommensteuergesetzes,
+    soweit sie nicht von den Absätzen 3 oder 4 erfasst werden,
 
 
-2.  bei inländischen Investmentfonds in der Rechtsform einer
-    Investmentaktiengesellschaft darüber hinaus
-
-    a)  Einkünfte, die die Investmentaktiengesellschaft oder eines ihrer
-        Teilgesellschaftsvermögen aus der Verwaltung ihres Vermögens erzielt,
-        und
+2.  Einkünfte nach § 49 Absatz 1 Nummer 2 des Einkommensteuergesetzes mit
+    Ausnahme der Einkünfte nach § 49 Absatz 1 Nummer 2 Buchstabe e des
+    Einkommensteuergesetzes, soweit der Investmentfonds seine
+    Vermögensgegenstände aktiv unternehmerisch bewirtschaftet, und
 
 
-    b)  Einkünfte, die die Investmentaktiengesellschaft oder eines ihrer
-        Teilgesellschaftsvermögen aus der Nutzung ihres
-        Investmentbetriebsvermögens nach § 112 Absatz 2 Satz 1 des
-        Kapitalanlagegesetzbuchs erzielt.
+3.  bei inländischen Investmentfonds in der Rechtsform einer
+    Investmentaktiengesellschaft auch Einkünfte, welche die
+    Investmentaktiengesellschaft oder eines ihrer
+    Teilgesellschaftsvermögen erzielt aus
+
+    a)  der Verwaltung ihres Vermögens oder
 
 
-
+    b)  der Nutzung ihres Investmentbetriebsvermögens nach § 112 Absatz 2 Satz
+        1 des Kapitalanlagegesetzbuchs.
 
 
 
-Von gewerblichen Einkünften nach § 49 Absatz 1 Nummer 2 des
-Einkommensteuergesetzes ist nur auszugehen, wenn der Investmentfonds
-seine Vermögensgegenstände aktiv unternehmerisch bewirtschaftet. Satz
-2 gilt nicht für die Einkünfte nach § 49 Absatz 1 Nummer 2 Buchstabe e
-Doppelbuchstabe cc des Einkommensteuergesetzes.
+
+
+
+Soweit in den Einkünften nach Satz 1 Nummer 2 inländische
+Beteiligungseinnahmen und inländische Immobilienerträge enthalten
+sind, unterliegen diese der Besteuerung als sonstige inländische
+Einkünfte. Bei der Beteiligung an einer Mitunternehmerschaft liegt
+vorbehaltlich des Absatzes 5a Satz 1 Nummer 3 stets eine aktive
+unternehmerische Bewirtschaftung vor.
+
+(5a) Keine aktive unternehmerische Bewirtschaftung liegt vor, soweit
+ein Investmentfonds
+
+1.  Kredite ausschließlich an Personen vergibt, die keine Verbraucher nach
+    § 13 des Bürgerlichen Gesetzbuchs sind,
+
+
+2.  Beteiligungen an Kapitalgesellschaften unmittelbar hält, es sei denn,
+    die Beteiligungen werden mit der Absicht erworben, nach einer
+    kurzfristigen Haltedauer Veräußerungsgewinne zu erzielen, oder
+
+
+3.  Beteiligungen an gewerblich infizierten oder gewerblich geprägten
+    Personengesellschaften im Sinne des § 15 Absatz 3 des
+    Einkommensteuergesetzes unmittelbar hält und der Investmentfonds oder
+    die zuständige Finanzbehörde nachweist, dass die Einkünfte aus
+    vermögensverwaltenden Tätigkeiten der Personengesellschaften stammen.
+
+
+
+Wird in den Fällen des Satzes 1 Nummer 3 der Nachweis geführt, dass
+die Einkünfte aus einer vermögensverwaltenden Tätigkeit stammen,
+liegen sonstige inländische Einkünfte nach Absatz 5 Satz 1 Nummer 1
+vor, soweit die Einkünfte der Personengesellschaft ohne
+Berücksichtigung des § 15 Absatz 3 des Einkommensteuergesetzes solche
+im Sinne des § 49 Absatz 1 des Einkommensteuergesetzes mit Ausnahme
+des § 49 Absatz 1 Nummer 2 des Einkommensteuergesetzes wären und nicht
+von den Absätzen 3 oder 4 erfasst werden.
 
 (6) § 8b des Körperschaftsteuergesetzes ist nicht anzuwenden.
 
@@ -521,7 +574,8 @@ unterliegen, sind der Ansatz der Werbungskosten sowie eine Verrechnung
 mit negativen Einkünften ausgeschlossen. Weicht das Geschäftsjahr des
 Investmentfonds vom Kalenderjahr ab, gelten die Einkünfte des
 Investmentfonds als in dem Kalenderjahr bezogen, in dem sein
-Geschäftsjahr endet.
+Geschäftsjahr endet. Satz 3 ist nicht anzuwenden auf sonstige
+inländische Einkünfte nach Absatz 5 Satz 1 Nummer 2 und 3.
 
 (8) Nicht ausgeglichene negative Einkünfte sind in den folgenden
 Veranlagungszeiträumen abzuziehen. § 10d Absatz 4 des
@@ -542,7 +596,8 @@ erheben.
 
 (2) Soweit Einkünfte nach § 6 Absatz 2 einem Steuerabzug unterliegen,
 sind die Körperschaftsteuer und der Solidaritätszuschlag durch den
-Steuerabzug abgegolten.
+Steuerabzug abgegolten. Satz 1 ist nicht anzuwenden auf sonstige
+inländische Einkünfte nach § 6 Absatz 5 Satz 1 Nummer 2 und 3.
 
 (3) Absatz 1 ist nur anzuwenden, wenn der nach § 44 des
 Einkommensteuergesetzes zum Abzug der Kapitalertragsteuer
@@ -555,9 +610,10 @@ aufzuzeichnen.
 
 (4) Die Erteilung der Statusbescheinigung erfolgt auf Antrag, der nach
 amtlich vorgeschriebenem Muster zu stellen ist. Die Gültigkeit der
-Statusbescheinigung darf höchstens drei Jahre betragen. In der
-Statusbescheinigung ist anzugeben, ob der Investmentfonds unbeschränkt
-oder beschränkt körperschaftsteuerpflichtig ist. Die
+Statusbescheinigung darf bei erstmaliger Erteilung höchstens drei
+Jahre betragen; danach kann die Gültigkeit bis zu fünf Jahre betragen.
+In der Statusbescheinigung ist anzugeben, ob der Investmentfonds
+unbeschränkt oder beschränkt körperschaftsteuerpflichtig ist. Die
 Statusbescheinigung kann rückwirkend für einen Zeitraum von sechs
 Monaten vor der Antragstellung erteilt werden. Die zuständige
 Finanzbehörde kann die Statusbescheinigung jederzeit zurückfordern.
@@ -581,8 +637,9 @@ bereits erteilten Steuerbescheinigung erfolgen.
 
 #### § 8 Steuerbefreiung aufgrund steuerbegünstigter Anleger
 
-(1) Einkünfte nach § 6 Absatz 2 sind auf Antrag des Investmentfonds
-steuerbefreit, soweit
+(1) Einkünfte nach § 6 Absatz 2 mit Ausnahme der sonstigen
+inländischen Einkünfte nach § 6 Absatz 5 Satz 1 Nummer 2 und 3 sind
+auf Antrag des Investmentfonds steuerbefreit, soweit
 
 1.  an dem Investmentfonds Anleger, die die Voraussetzungen des § 44a
     Absatz 7 Satz 1 des Einkommensteuergesetzes erfüllen, oder
@@ -615,6 +672,10 @@ steuerbefreit, soweit an dem Investmentfonds beteiligt sind:
 
 
 
+Satz 1 ist auch auf sonstige inländische Einkünfte anzuwenden, die bei
+Vereinnahmung keinem Steuerabzug unterliegen; ausgenommen sind
+sonstige inländische Einkünfte nach § 6 Absatz 5 Satz 1 Nummer 2 und
+3\.
 
 (3) Bei Einkünften, die einem Steuerabzug unterliegen, richtet sich
 der Umfang der Steuerbefreiung nach dem Anteil, den die
@@ -630,14 +691,19 @@ Geschäftsjahres des Investmentfonds.
 voraus, dass der Investmentfonds die Voraussetzungen für eine
 Anrechenbarkeit von Kapitalertragsteuer nach § 36a des
 Einkommensteuergesetzes erfüllt. Die Steuerbefreiung nach Absatz 1
-Nummer 1 oder Absatz 2 setzt zudem voraus, dass
+Nummer 1 oder Absatz 2 setzt voraus, dass
 
 1.  der Anleger seit mindestens drei Monaten zivilrechtlicher und
-    wirtschaftlicher Eigentümer der Investmentanteile ist und
+    wirtschaftlicher Eigentümer der Investmentanteile ist,
 
 
 2.  keine Verpflichtung zur Übertragung der Anteile auf eine andere Person
-    besteht.
+    besteht und
+
+
+3.  kein Nießbrauch an den Investmenterträgen eingeräumt wurde und keine
+    sonstige Verpflichtung besteht, die Investmenterträge ganz oder
+    teilweise, unmittelbar oder mittelbar anderen Personen zu vergüten.
 
 
 
@@ -687,16 +753,21 @@ erworben oder veräußert wurden.
 
 #### § 10 Investmentfonds oder Anteilklassen für steuerbegünstigte Anleger; Nachweis der Steuerbefreiung
 
-(1) Investmentfonds oder Anteilklassen sind steuerbefreit, wenn sich
-nach den Anlagebedingungen nur steuerbegünstigte Anleger nach § 8
-Absatz 1 beteiligen dürfen. Inländische Beteiligungseinnahmen sind nur
-steuerbefreit, wenn der Investmentfonds die Voraussetzungen für eine
-Anrechenbarkeit der Kapitalertragsteuer nach § 36a des
-Einkommensteuergesetzes erfüllt.
+(1) Investmentfonds oder Anteilklassen sind vorbehaltlich der Sätze 2
+und 3 steuerbefreit, wenn sich nach den Anlagebedingungen nur
+steuerbegünstigte Anleger nach § 8 Absatz 1 beteiligen dürfen.
+Inländische Beteiligungseinnahmen sind nur steuerbefreit, wenn der
+Investmentfonds die Voraussetzungen für eine Anrechenbarkeit der
+Kapitalertragsteuer nach § 36a des Einkommensteuergesetzes erfüllt.
+Sonstige inländische Einkünfte nach § 6 Absatz 5 Satz 1 Nummer 2 und 3
+sind nicht steuerbefreit.
 
 (2) Inländische Immobilienerträge eines Investmentfonds oder einer
 Anteilklasse sind steuerbefreit, wenn sich nur steuerbegünstigte
-Anleger nach § 8 Absatz 1 oder 2 beteiligen dürfen.
+Anleger nach § 8 Absatz 1 oder 2 beteiligen dürfen. Satz 1 ist auch
+auf sonstige inländische Einkünfte anzuwenden, die bei Vereinnahmung
+keinem Steuerabzug unterliegen; ausgenommen sind sonstige inländische
+Einkünfte nach § 6 Absatz 5 Satz 1 Nummer 2 und 3.
 
 (3) Die Steuerbefreiung nach den Absätzen 1 und 2 setzt voraus, dass
 die Anlagebedingungen nur eine Rückgabe von Investmentanteilen an den
@@ -722,6 +793,13 @@ Investmentfonds nachzuweisen. Zum Nachweis der Steuerbefreiung hat
 (5) Bei der Auszahlung von Kapitalerträgen an steuerbefreite
 Investmentfonds oder Anteilklassen im Sinne des Absatzes 1 Satz 1 ist
 kein Steuerabzug vorzunehmen.
+
+(6) Wenn der Anleger die Voraussetzungen des § 8 Absatz 4 Satz 2
+Nummer 3 nicht erfüllt, hat der Anleger die auf seine
+Investmentanteile entfallenden inländischen Beteiligungseinnahmen,
+inländischen Immobilienerträge und sonstigen inländischen Einkünfte
+sowie die Investmenterträge nach § 16 Absatz 1 zu versteuern. § 36a
+Absatz 4 des Einkommensteuergesetzes ist entsprechend anzuwenden.
 
 
 #### § 11 Erstattung von Kapitalertragsteuer an Investmentfonds durch die Finanzbehörden
@@ -905,12 +983,30 @@ privaten Rechts nach § 2 Absatz 3 des Gewerbesteuergesetzes.
 
 
 
-Satz 1 Nummer 2 ist nicht auf Beteiligungen an Immobilien-
-Gesellschaften nach § 1 Absatz 19 Nummer 22 des
-Kapitalanlagegesetzbuchs anzuwenden.
+Satz 1 Nummer 2 ist nicht anzuwenden auf Beteiligungen an
+
+1.  Gesellschaften, deren Unternehmensgegenstand auf die Bewirtschaftung
+    von erneuerbaren Energien nach § 1 Absatz 19 Nummer 6a des
+    Kapitalanlagegesetzbuchs gerichtet ist,
+
+
+2.  Immobilien-Gesellschaften nach § 1 Absatz 19 Nummer 22 des
+    Kapitalanlagegesetzbuchs,
+
+
+3.  Infrastruktur-Projektgesellschaften nach § 1 Absatz 19 Nummer 23a des
+    Kapitalanlagegesetzbuchs und
+
+
+4.  ÖPP-Projektgesellschaften nach § 1 Absatz 19 Nummer 28 des
+    Kapitalanlagegesetzbuchs.
+
+
+
 
 (3) Die Voraussetzungen des Absatzes 2 gelten als erfüllt, wenn die
-Einnahmen aus einer aktiven unternehmerischen Bewirtschaftung in einem
+Einnahmen aus einer aktiven unternehmerischen Bewirtschaftung ohne die
+Einnahmen aus Beteiligungen nach Absatz 2 Satz 2 in einem
 Geschäftsjahr weniger als 5 Prozent der gesamten Einnahmen des
 Investmentfonds betragen.
 
@@ -997,7 +1093,7 @@ fortgeführten Anschaffungskosten unterschreitet. Maßgeblich für die
 Zwecke des Satzes 1 sind bei bestandsgeschützten Alt-Anteilen die
 fiktiven Anschaffungskosten nach § 56 Absatz 2 Satz 2 und 3. Im
 Übrigen ist auf die tatsächlichen Anschaffungskosten abzustellen. Satz
-1 ist höchstens für einen Zeitraum von fünf Kalenderjahren nach dem
+1 ist höchstens für einen Zeitraum von zehn Kalenderjahren nach dem
 Kalenderjahr, in dem die Abwicklung beginnt, anzuwenden.
 
 (2) Als Beginn der Abwicklung eines inländischen Investmentfonds gilt
@@ -1059,6 +1155,56 @@ Veräußerungserlös gilt der gemeine Wert der Investmentanteile zu dem
 Zeitpunkt, zu dem der Investmentfonds nicht mehr in den
 Anwendungsbereich fällt.
 
+(3) Soweit ein unbeschränkt Steuerpflichtiger seine Investmentanteile
+nicht im Betriebsvermögen hält, stehen der Veräußerung von
+Investmentanteilen zum gemeinen Wert gleich
+
+1.  die Beendigung der unbeschränkten Steuerpflicht des Anlegers infolge
+    der Aufgabe des Wohnsitzes oder des gewöhnlichen Aufenthalts,
+
+
+2.  die unentgeltliche Übertragung auf eine nicht unbeschränkt
+    steuerpflichtige Person sowie,
+
+
+3.  vorbehaltlich der Nummern 1 und 2, der Ausschluss oder die
+    Beschränkung des Besteuerungsrechts der Bundesrepublik Deutschland
+    hinsichtlich des Gewinns aus der Veräußerung der Investmentanteile.
+
+
+
+Satz 1 ist nur anzuwenden, wenn
+
+1.  die Summe der nach Absatz 1, § 22 und § 56 ermittelten
+    steuerpflichtigen Gewinne insgesamt positiv ist und
+
+
+2.  der Anleger
+
+    a)  innerhalb der letzten fünf Jahre vor der Veräußerung im Sinne des
+        Satzes 1 unmittelbar oder mittelbar mindestens 1 Prozent der
+        ausgegebenen Investmentanteile gehalten hat oder
+
+
+    b)  im Zeitpunkt der Veräußerung im Sinne des Satzes 1 unmittelbar oder
+        mittelbar Investmentanteile an dem Investmentfonds hält, deren
+        Anschaffungskosten mindestens 500 000 Euro betragen.
+
+
+
+
+
+
+§ 6 Absatz 1 Satz 2 und 3 sowie Absatz 2 bis 5 des Außensteuergesetzes
+und § 17 Absatz 1 Satz 4 sowie Absatz 2 Satz 3 bis 5 des
+Einkommensteuergesetzes sind entsprechend anzuwenden. Bei der
+entsprechenden Anwendung des § 6 Absatz 3 Satz 1 Nummer 2 und Absatz 4
+Satz 5 Nummer 5 des Außensteuergesetzes treten die Ausschüttungen nach
+§ 16 Absatz 1 Nummer 1 an die Stelle der Gewinnausschüttungen und die
+steuerfreien Kapitalrückzahlungen nach § 17 Absatz 1 an die Stelle der
+Einlagenrückgewähr. Im Fall des Satzes 1 ist keine Kapitalertragsteuer
+zu erheben.
+
 
 #### § 20 Teilfreistellung
 
@@ -1102,9 +1248,39 @@ Körperschaftsteuergesetzes zur Körperschaftsbesteuerung optiert haben.
 
 (4) Weist der Anleger nach, dass der Investmentfonds die Aktienfonds-
 oder Mischfonds-Kapitalbeteiligungsquote oder Immobilienfonds- oder
-Auslands-Immobilienfondsquote während des Geschäftsjahres tatsächlich
+Auslands-Immobilienfondsquote während des Kalenderjahres tatsächlich
 durchgehend überschritten hat, so ist die Teilfreistellung auf Antrag
-des Anlegers in der Veranlagung anzuwenden.
+des Anlegers in der Veranlagung anzuwenden. Wenn der Anleger in einem
+folgenden Veranlagungszeitraum Verluste in Höhe von mehr als 500 Euro
+aus der Veräußerung von Investmentanteilen erzielt oder
+Wertminderungen im Sinne von § 6 Absatz 1 Nummer 2 Satz 2 des
+Einkommensteuergesetzes von Investmentanteilen geltend macht, für die
+er zuvor den Nachweis nach Satz 1 erbracht hat, dann ist er
+verpflichtet, für den gesamten Besitzzeitraum die für die Prüfung der
+Voraussetzungen einer Teilfreistellung erforderlichen Informationen
+sowie die Rücknahmepreise zum jeweiligen Kalenderjahresende zu
+beschaffen und dem Finanzamt mit der Steuererklärung vorzulegen. Der
+Steuererklärung ist eine Steuerbescheinigung nach § 45a Absatz 2 des
+Einkommensteuergesetzes oder eine Verlustbescheinigung nach § 43a
+Absatz 3 Satz 4 des Einkommensteuergesetzes beizufügen, wenn Verluste
+aus der Veräußerung von Investmentanteilen erzielt werden, die von
+einer auszahlenden Stelle nach § 44 Absatz 1 Satz 4 des
+Einkommensteuergesetzes verwahrt oder verwaltet werden. Im Fall des
+Satzes 2 ist eine Veranlagung ungeachtet von § 46 Absatz 2 des
+Einkommensteuergesetzes vorzunehmen. Soweit der Anleger die
+Verpflichtung nach Satz 2 nicht erfüllt, kann das Finanzamt für den
+Verlust, der auf den gesamten Besitzzeitraum entfällt, den höchsten
+vom Anleger nachgewiesenen Teilfreistellungssatz anwenden.
+
+(4a) Das für die Veranlagung des Anlegers zuständige Finanzamt kann
+bei Verlusten aus der Veräußerung von Investmentanteilen oder bei
+Wertminderungen im Sinne von § 6 Absatz 1 Nummer 2 Satz 2 des
+Einkommensteuergesetzes von Investmentanteilen selbst im Rahmen der
+Veranlagung den Nachweis führen, dass der Investmentfonds die
+Aktienfonds- oder Mischfonds-Kapitalbeteiligungsquote oder
+Immobilienfonds- oder Auslands-Immobilienfondsquote während des
+Kalenderjahres tatsächlich durchgehend überschritten hat und die Höhe
+der Rücknahmepreise ermitteln.
 
 (5) Bei der Ermittlung des Gewerbeertrags nach § 7 des
 Gewerbesteuergesetzes sind die Freistellungen nach den Absätzen 1 bis
@@ -1136,9 +1312,9 @@ Voraussetzungen der Teilfreistellung weg, so gilt der Investmentanteil
 als veräußert und an dem Folgetag als angeschafft. Der
 Investmentanteil gilt mit Ablauf des Veranlagungszeitraums als
 veräußert, wenn der Anleger in dem Veranlagungszeitraum den Nachweis
-nach § 20 Absatz 4 erbringt und in dem folgenden Veranlagungszeitraum
-keinen Nachweis oder einen Nachweis für einen anderen
-Teilfreistellungssatz erbringt.
+nach § 20 Absatz 4 Satz 1 erbringt und für den folgenden
+Veranlagungszeitraum kein Nachweis oder ein Nachweis für einen anderen
+Teilfreistellungssatz erbracht wird.
 
 (2) Als Veräußerungserlös und Anschaffungskosten ist
 
@@ -1175,13 +1351,13 @@ der Wert vor der fiktiven Veräußerung überschritten wird.
 
 (3) Der Gewinn aus der fiktiven Veräußerung nach Absatz 1 gilt in dem
 Zeitpunkt als zugeflossen, in dem der Investmentanteil tatsächlich
-veräußert wird oder nach § 19 Absatz 2 als veräußert gilt. Der Gewinn
-aus der fiktiven Veräußerung nach Absatz 1 unterliegt dem gesonderten
-Steuertarif für Einkünfte aus Kapitalvermögen nach § 32d des
-Einkommensteuergesetzes, wenn im Zeitpunkt der fiktiven Veräußerung
-die Voraussetzungen für eine Besteuerung nach § 20 Absatz 1 Nummer 3
-des Einkommensteuergesetzes vorlagen und keine abweichende Zuordnung
-zu anderen Einkunftsarten nach § 20 Absatz 8 Satz 1 des
+veräußert wird oder nach § 19 Absatz 2 oder 3 als veräußert gilt. Der
+Gewinn aus der fiktiven Veräußerung nach Absatz 1 unterliegt dem
+gesonderten Steuertarif für Einkünfte aus Kapitalvermögen nach § 32d
+des Einkommensteuergesetzes, wenn im Zeitpunkt der fiktiven
+Veräußerung die Voraussetzungen für eine Besteuerung nach § 20 Absatz
+1 Nummer 3 des Einkommensteuergesetzes vorlagen und keine abweichende
+Zuordnung zu anderen Einkunftsarten nach § 20 Absatz 8 Satz 1 des
 Einkommensteuergesetzes vorzunehmen war.
 
 
@@ -1303,24 +1479,27 @@ Anlagepraxis nicht wesentlich gegen die nachfolgenden Voraussetzungen
         22 des Kapitalanlagegesetzbuchs,
 
 
-    g)  Betriebsvorrichtungen und andere Bewirtschaftungsgegenstände nach §
-        231 Absatz 3 des Kapitalanlagegesetzbuchs,
+    g)  Betriebsvorrichtungen und andere Gegenstände nach § 231 Absatz 3 des
+        Kapitalanlagegesetzbuchs,
 
 
-    h)  Investmentanteile an inländischen und ausländischen Organismen für
-        gemeinsame Kapitalanlagen in Wertpapieren sowie an inländischen und
-        ausländischen Investmentfonds, die die Voraussetzungen der Nummern 1
-        bis 7 erfüllen,
+    h)  Investmentanteile an inländischen oder ausländischen Investmentfonds
+        sowie Anteile an inländischen oder ausländischen Investmentvermögen
+        nach § 1 Absatz 1 des Kapitalanlagegesetzbuchs, die keine
+        Investmentfonds sind,
 
 
     i)  Spezial-Investmentanteile,
 
 
     j)  Beteiligungen an ÖPP-Projektgesellschaften nach § 1 Absatz 19 Nummer
-        28 des Kapitalanlagegesetzbuchs und an Infrastruktur-
-        Projektgesellschaften nach § 1 Absatz 19 Nummer 23a des
-        Kapitalanlagegesetzbuchs, wenn der Verkehrswert dieser Beteiligung
-        ermittelt werden kann,
+        28 des Kapitalanlagegesetzbuchs, an Infrastruktur-
+        Projektgesellschaften nach § 1 Absatz 19 Nummer 23a des
+        Kapitalanlagegesetzbuchs und an Gesellschaften, deren
+        Unternehmensgegenstand auf die Bewirtschaftung von erneuerbaren
+        Energien nach § 1 Absatz 19 Nummer 6a des Kapitalanlagegesetzbuchs
+        gerichtet ist, wenn der Verkehrswert dieser Beteiligung ermittelt
+        werden kann,
 
 
     k)  Edelmetalle,
@@ -1363,15 +1542,18 @@ Anlagepraxis nicht wesentlich gegen die nachfolgenden Voraussetzungen
     Kapitalgesellschaft. Dies gilt nicht für Beteiligungen eines
     Investmentfonds an
 
-    a)  Immobilien-Gesellschaften,
+    a)  Gesellschaften, deren Unternehmensgegenstand auf die Bewirtschaftung
+        von erneuerbaren Energien nach § 1 Absatz 19 Nummer 6a des
+        Kapitalanlagegesetzbuchs gerichtet ist,
 
 
-    b)  ÖPP-Projektgesellschaften und
+    b)  Immobilien-Gesellschaften,
 
 
-    c)  Gesellschaften, deren Unternehmensgegenstand auf die Erzeugung
-        erneuerbarer Energien nach § 3 Nummer 21 des Erneuerbare-Energien-
-        Gesetzes gerichtet ist.
+    c)  Infrastruktur-Projektgesellschaften und
+
+
+    d)  ÖPP-Projektgesellschaften.
 
 
 
@@ -1387,24 +1569,24 @@ Anlagepraxis nicht wesentlich gegen die nachfolgenden Voraussetzungen
 
 
 7a. Die Einnahmen aus einer aktiven unternehmerischen Bewirtschaftung im
-    Sinne des § 15 Absatz 2 Satz 1 Nummer 2 betragen in einem
+    Sinne des § 15 Absatz 2 Satz 1 Nummer 2 betragen in einem
     Geschäftsjahr weniger als 5 Prozent der gesamten Einnahmen des
-    Investmentfonds. Erzielt der Investmentfonds Einnahmen aus der
-    Erzeugung oder Lieferung von Strom, die im Zusammenhang mit der
-    Vermietung und Verpachtung von Immobilien stehen und
+    Investmentfonds. Unberücksichtigt für die Zwecke des Satzes 1 bleiben
+    Einnahmen aus
 
-    a)  aus dem Betrieb von Anlagen zur Stromerzeugung aus erneuerbaren
-        Energien im Sinne des § 3 Nummer 21 des Erneuerbare-Energien-Gesetzes
-        oder
-
-
-    b)  aus dem Betrieb von Ladestationen für Elektrofahrzeuge oder
-        Elektrofahrräder stammen,
+    a)  der Bewirtschaftung von erneuerbaren Energien nach § 1 Absatz 19
+        Nummer 6a des Kapitalanlagegesetzbuchs sowie aus der Bewirtschaftung
+        von Ladestationen für Elektromobilität, die jeweils im Zusammenhang
+        mit der Vermietung und Verpachtung von Immobilien stehen,
 
 
+    b)  Beteiligungen an Gesellschaften im Sinne des § 15 Absatz 2 Satz 2 und
 
-    erhöht sich die Grenze des Satzes 1 auf 20 Prozent, wenn die Grenze
-    des Satzes 1 nur durch diese Einnahmen überschritten wird.
+
+    c)  Investmentanteilen und Anteilen nach Nummer 4 Buchstabe h.
+
+
+
 
 
 8.  An dem Investmentfonds dürfen sich unmittelbar und mittelbar über
@@ -1571,7 +1753,9 @@ Investmentanteile an einem anderen Dach-Spezial-Investmentfonds hält.
 
 (5) Die Absätze 1 bis 4 gelten entsprechend für sonstige inländische
 Einkünfte eines Spezial-Investmentfonds, die bei Vereinnahmung durch
-den Spezial-Investmentfonds einem Steuerabzug unterliegen.
+den Spezial-Investmentfonds einem Steuerabzug unterliegen. Dies gilt
+nicht für sonstige inländische Einkünfte nach § 6 Absatz 5 Satz 1
+Nummer 2 und 3.
 
 
 #### § 31 Steuerabzug und Steueranrechnung bei Ausübung der Transparenzoption
@@ -1767,7 +1951,9 @@ Einkünfte, die bei Vereinnahmung keinem Steuerabzug unterliegen. Die
 sonstigen inländischen Einkünfte gelten bei beschränkt
 steuerpflichtigen Anlegern als unmittelbar bezogene Einkünfte nach dem
 Tatbestand des § 49 Absatz 1 des Einkommensteuergesetzes, der der
-Vereinnahmung durch den Spezial-Investmentfonds zugrunde lag.
+Vereinnahmung durch den Spezial-Investmentfonds zugrunde lag. Die
+Sätze 1 und 2 sind nicht anzuwenden auf sonstige inländische Einkünfte
+nach § 6 Absatz 5 Satz 1 Nummer 2 und 3.
 
 
 ### Abschnitt 2 - Besteuerung des Anlegers eines Spezial-Investmentfonds
@@ -1857,12 +2043,13 @@ Investmentfonds nicht zur Ausschüttung verwendet werden:
     steuerfrei thesaurierbaren Kapitalerträge,
 
 
-2.  Erträge aus der Vermietung und Verpachtung von Grundstücken und
-    grundstücksgleichen Rechten sowie Gewinne aus der Veräußerung von
+2.  Erträge aus Vermietung und Verpachtung im Sinne des § 21 des
+    Einkommensteuergesetzes sowie Gewinne aus der Veräußerung von
     Grundstücken und grundstücksgleichen Rechten und
 
 
-3.  sonstige Erträge.
+3.  sonstige Erträge mit Ausnahme der steuerfrei thesaurierbaren sonstigen
+    Erträge.
 
 
 
@@ -1890,7 +2077,19 @@ Steuerabzug, wenn die Transparenzoption nach § 30 wahrgenommen wurde.
 
 
 (3) Sonstige Erträge sind Einkünfte, die nicht unter die §§ 20, 21 und
-23 Absatz 1 Satz 1 Nummer 1 des Einkommensteuergesetzes fallen.
+23 Absatz 1 Satz 1 Nummer 1 des Einkommensteuergesetzes fallen. Zu den
+sonstigen Erträgen gehören auch Einkünfte aus der Veräußerung von
+anderen Wirtschaftsgütern im Sinne des § 23 Absatz 1 Satz 1 Nummer 2
+des Einkommensteuergesetzes, bei denen der Zeitraum zwischen
+Anschaffung und Veräußerung mehr als ein Jahr oder in den Fällen des §
+23 Absatz 1 Satz 1 Nummer 2 Satz 4 des Einkommensteuergesetzes mehr
+als zehn Jahre beträgt. Steuerfrei thesaurierbare sonstige Erträge
+sind Gewinne aus der Veräußerung von Währungen, bei denen die zugrunde
+liegenden obligatorischen Geschäfte eine zeitlich verzögerte Erfüllung
+vorsehen, die aber keine Termingeschäfte nach § 20 Absatz 2 Satz 1
+Nummer 3 des Einkommensteuergesetzes sind. Die Vorschriften betreffend
+die steuerfrei thesaurierbaren Kapitalerträge sind auf steuerfrei
+thesaurierbare sonstige Erträge entsprechend anzuwenden.
 
 (4) Die ausschüttungsgleichen Erträge sind nach § 37 mit der Maßgabe
 zu ermitteln, dass Einnahmen und Werbungskosten insoweit den Anlegern
@@ -1919,8 +2118,7 @@ des 15. Geschäftsjahres nach dem Geschäftsjahr der Vereinnahmung als
 ausschüttungsgleiche Erträge und zu diesem Zeitpunkt als zugeflossen,
 soweit sie die Verluste der Vorjahre übersteigen und nicht bis zum
 Ende des 15. Geschäftsjahres oder in den vorherigen Geschäftsjahren
-ausgeschüttet wurden. Absatz 4 ist auf die steuerfrei thesaurierbaren
-Kapitalerträge nicht anzuwenden.
+ausgeschüttet wurden.
 
 (6) Wird nicht spätestens vier Monate nach Ablauf des Geschäftsjahres
 des Spezial-Investmentfonds eine Ausschüttung der Erträge des
@@ -1935,7 +2133,9 @@ Investmentfonds entsprechend § 2 Absatz 2 Satz 1 Nummer 2 und § 23
 Absatz 3 des Einkommensteuergesetzes und gliedert sie nach den
 steuerlichen Wirkungen beim Anleger. Dabei sind insbesondere die
 Einkünfte gesondert auszuweisen, bei denen beim Anleger die Regelungen
-nach den §§ 42 bis 47 zur Anwendung kommen.
+nach den §§ 42 bis 47 zur Anwendung kommen. Hinzurechnungsbeträge nach
+§ 10 des Außensteuergesetzes sind nicht in die Ermittlung der
+Einkünfte nach Satz 1 einzubeziehen.
 
 (2) Spezial-Investmenterträge, die einem Dach-Spezial-Investmentfonds
 zufließen oder die als zugeflossen gelten, sind nach der Art der
@@ -2173,7 +2373,7 @@ ausgeschütteten oder ausschüttungsgleichen Erträge steuerfrei. Absatz
 4 Satz 2 ist entsprechend anzuwenden.
 
 
-#### § 43 Steuerbefreiung aufgrund von Abkommen zur Vermeidung der Doppelbesteuerung, der Hinzurechnungsbesteuerung und der Teilfreistellung
+#### § 43 Steuerbefreiung aufgrund von Abkommen zur Vermeidung der Doppelbesteuerung und der Teilfreistellung
 
 (1) Die ausgeschütteten und ausschüttungsgleichen Erträge sind bei der
 Veranlagung des Anlegers insoweit von der Bemessungsgrundlage der
@@ -2571,6 +2771,46 @@ Veräußerung von Spezial-Investmentanteilen sowie auf Verluste durch
 Ansatz des niedrigeren Teilwertes bei Spezial-Investmentanteilen
 entsprechend anzuwenden.
 
+(5) Soweit ein unbeschränkt Steuerpflichtiger seine Spezial-
+Investmentanteile nicht im Betriebsvermögen hält, stehen der
+Veräußerung von Spezial-Investmentanteilen zum gemeinen Wert gleich
+
+1.  die Beendigung der unbeschränkten Steuerpflicht des Anlegers infolge
+    der Aufgabe des Wohnsitzes oder des gewöhnlichen Aufenthalts,
+
+
+2.  die unentgeltliche Übertragung auf eine nicht unbeschränkt
+    steuerpflichtige Person sowie,
+
+
+3.  vorbehaltlich der Nummern 1 und 2, der Ausschluss oder die
+    Beschränkung des Besteuerungsrechts der Bundesrepublik Deutschland
+    hinsichtlich des Gewinns aus der Veräußerung der Spezial-
+    Investmentanteile.
+
+
+
+Satz 1 ist nur anzuwenden, wenn die Summe der nach Absatz 1 bis 3 und
+§ 56 ermittelten steuerpflichtigen Gewinne insgesamt positiv ist. § 6
+Absatz 1 Satz 2 und 3 sowie Absatz 2 bis 5 des Außensteuergesetzes und
+§ 17 Absatz 1 Satz 4 sowie Absatz 2 Satz 3 bis 5 des
+Einkommensteuergesetzes sind entsprechend anzuwenden. Bei der
+entsprechenden Anwendung des § 6 Absatz 3 Satz 1 Nummer 2 und Absatz 4
+Satz 5 Nummer 5 des Außensteuergesetzes treten die ausgeschütteten und
+ausschüttungsgleichen Erträge an die Stelle der Gewinnausschüttungen
+und die Substanzbeträge nach § 35 Absatz 5 an die Stelle der
+Einlagenrückgewähr. § 6 Absatz 3 Satz 1 des Außensteuergesetzes ist
+mit der Maßgabe anzuwenden, dass anstatt des Entfalls des
+Steueranspruchs aufgrund einer nur vorübergehenden Abwesenheit die
+nach den §§ 49 und 56 ermittelten Gewinne zu dem Zeitpunkt zu
+berücksichtigen ist, zu dem der Spezial-Investmentanteil tatsächlich
+veräußert wird oder nach § 52 Absatz 2 Satz 1 als veräußert gilt. Der
+Spezial-Investmentanteil gilt in den Fällen des Satzes 5 mit Beginn
+des auf die Veräußerung nach Satz 1 folgenden Tages zum gemeinen Wert
+als angeschafft. Im Fall des Satzes 1 ist keine Kapitalertragsteuer zu
+erheben. Der Anleger hat den Spezial-Investmentfonds unverzüglich über
+die Veräußerung nach Satz 1 und 5 zu informieren.
+
 
 #### § 50 Kapitalertragsteuer
 
@@ -2610,23 +2850,23 @@ festzustellen.
 
 (2) Eine Erklärung zur gesonderten und einheitlichen Feststellung der
 Besteuerungsgrundlagen ist der zuständigen Finanzbehörde innerhalb von
-vier Monaten nach Ablauf des Geschäftsjahres eines Spezial-
-Investmentfonds nach amtlich vorgeschriebenem Vordruck abzugeben. Wird
-innerhalb von vier Monaten nach Ablauf des Geschäftsjahres ein
-Beschluss über eine Ausschüttung gefasst, so ist die Erklärung
-innerhalb von vier Monaten nach dem Tag des Beschlusses abzugeben.
+acht Monaten nach Ablauf des Geschäftsjahres eines Spezial-
+Investmentfonds nach amtlich vorgeschriebenem Vordruck abzugeben. Für
+die Erklärung nach Satz 1 beträgt der Verspätungszuschlag nach § 152
+der Abgabenordnung für jeden angefangenen Monat der eingetretenen
+Verspätung 0,0625 Prozent der ausgeschütteten und
+ausschüttungsgleichen Erträge; dies gilt ungeachtet einer etwaigen
+Steuerbefreiung auf Anlegerebene.
 
 (3) Die Erklärung zur gesonderten und einheitlichen Feststellung hat
 abzugeben:
 
-1.  bei einem inländischen Spezial-Investmentfonds die
-    Kapitalverwaltungsgesellschaft, die inländische Betriebsstätte oder
-    Zweigniederlassung der ausländischen Verwaltungsgesellschaft oder die
-    inländische Verwahrstelle oder
+1.  bei einem inländischen Spezial-Investmentfonds der Spezial-
+    Investmentfonds oder
 
 
-2.  bei einem ausländischen Spezial-Investmentfonds die inländische oder
-    ausländische Verwaltungsgesellschaft oder der inländische Anleger.
+2.  bei einem ausländischen Spezial-Investmentfonds der Spezial-
+    Investmentfonds oder der inländische Anleger.
 
 
 
@@ -2665,7 +2905,31 @@ folgende Unterlagen beizufügen:
 (5) Die Erklärung zur gesonderten und einheitlichen Feststellung steht
 einer gesonderten und einheitlichen Feststellung unter dem Vorbehalt
 der Nachprüfung gemäß § 164 der Abgabenordnung gleich. Eine
-berichtigte Feststellungserklärung gilt als Antrag auf Änderung.
+berichtigte Feststellungserklärung gilt als Antrag auf Änderung. Alle
+Verwaltungsakte und Mitteilungen, die nach diesem Gesetz und der
+Abgabenordnung mit der gesonderten und einheitlichen Feststellung
+zusammenhängen, sind dem gesetzlichen Vertreter des Spezial-
+Investmentfonds in Vertretung der Feststellungsbeteiligten bekannt zu
+geben; bei der Bekanntgabe ist darauf hinzuweisen, dass die
+Bekanntgabe mit Wirkung für und gegen alle Feststellungsbeteiligten
+erfolgt. Ist einem Anleger kein Spezial-Investmentanteil mehr
+zuzurechnen oder bestehen zwischen dem Anleger und dem gesetzlichen
+Vertreter des Spezial-Investmentfonds ernstliche
+Meinungsverschiedenheiten, ist eine Einzelbekanntgabe nur
+erforderlich, soweit der Anleger der Bekanntgabe an den gesetzlichen
+Vertreter des Spezial-Investmentfonds gegenüber der Finanzbehörde vor
+Erlass der Verwaltungsakte oder Mitteilungen widersprochen hat. Ein
+Widerspruch nach Satz 4 wird der Finanzbehörde gegenüber erst wirksam,
+wenn er ihr zugeht. Ist nach Satz 4 eine Einzelbekanntgabe
+erforderlich, gilt § 183 Absatz 3 der Abgabenordnung entsprechend. Zur
+Einlegung von Rechtsbehelfen gegen Verwaltungsakte, die nach diesem
+Gesetz und der Abgabenordnung mit der gesonderten und einheitlichen
+Feststellung zusammenhängen, ist der gesetzliche Vertreter des
+Spezial-Investmentfonds befugt; § 352 Absatz 1 Nummer 4 und 5 der
+Abgabenordnung und § 48 Absatz 1 Nummer 4 und 5 der
+Finanzgerichtsordnung sind entsprechend anzuwenden. In den Fällen des
+Satzes 4 gelten § 352 Absatz 1 Nummer 3 der Abgabenordnung und § 48
+Absatz 1 Nummer 3 der Finanzgerichtsordnung entsprechend.
 
 
 ### Abschnitt 3 - Wegfall der Voraussetzungen eines Spezial-Investmentfonds
@@ -2896,8 +3160,8 @@ wenn der Gewinn einem Investmentfonds oder einem Spezial-
 Investmentfonds zuzurechnen ist.
 
 (3a) Für die Zwecke der Absätze 2 und 3 steht eine fiktive Veräußerung
-nach § 19 Absatz 2 oder § 52 Absatz 2 einer tatsächlichen Veräußerung
-gleich.
+nach § 19 Absatz 2 oder 3, § 49 Absatz 5 oder § 52 Absatz 2 einer
+tatsächlichen Veräußerung gleich.
 
 (4) Die inländische Stelle, die die Alt-Anteile verwahrt oder
 verwaltet, hat bis zum 31. Dezember 2020 Folgendes zu ermitteln und
@@ -3167,4 +3431,98 @@ I Nr. 108) ist erstmals für Geschäftsjahre anzuwenden, die nach dem
 31\. Dezember 2024 beginnen. § 2 Absatz 9a in der Fassung des Artikels
 25 des Gesetzes vom 27. März 2024 (BGBl. 2024 I Nr. 108) ist ab dem 1.
 Januar 2025 anzuwenden.
+
+(9) § 51 Absatz 5 Satz 3 bis 8 in der Fassung des Artikels 30 des
+Gesetzes vom 23. Oktober 2024 (BGBl. 2024 I Nr. 323) ist ab dem 1.
+Januar 2025 anzuwenden. § 51 Absatz 2 und 3 in der Fassung des
+Artikels 30 des Gesetzes vom 23. Oktober 2024 (BGBl. 2024 I Nr. 323)
+ist anzuwenden für Geschäftsjahre des Spezial-Investmentfonds, die
+nach dem 31. Dezember 2024 beginnen.
+
+(10) In der Fassung des Artikels 11 des Gesetzes vom 2. Dezember 2024
+(BGBl. 2024 I Nr. 387) sind anzuwenden:
+
+1.  § 17 Absatz 1 Satz 4 ab dem 6. Dezember 2024,
+
+
+2.  § 8 Absatz 4 Satz 2, § 10 Absatz 6, § 20 Absatz 4 und 4a, § 22 Absatz
+    1 Satz 2 und Absatz 3 Satz 1, § 36 Absatz 5 sowie § 56 Absatz 3a ab
+    dem 1. Januar 2025,
+
+
+3.  § 6 Absatz 4 Satz 1 auf Einkünfte, die einem Investmentfonds in einem
+    Geschäftsjahr zufließen, das nach dem 31. Dezember 2024 beginnt,
+
+
+4.  § 36 Absatz 1 Satz 1 Nummer 2 auf Einkünfte, die einem Spezial-
+    Investmentfonds in einem Geschäftsjahr zufließen, das nach dem 31.
+    Dezember 2024 beginnt,
+
+
+5.  § 36 Absatz 1 Satz 1 Nummer 3 und Absatz 3 Satz 3 auf Gewinne aus der
+    Veräußerung von Währungen mit zeitlich verzögerter Erfüllung, bei
+    denen der obligatorische Vertrag in Geschäftsjahren des Spezial-
+    Investmentfonds, die nach dem 31. Dezember 2024 beginnen,
+    rechtswirksam abgeschlossen wird,
+
+
+6.  § 36 Absatz 3 Satz 2 auf Veräußerungsgeschäfte, bei denen die
+    Wirtschaftsgüter in Geschäftsjahren des Spezial-Investmentfonds, die
+    nach dem 31. Dezember 2024 beginnen, aufgrund eines nach diesem
+    Zeitpunkt rechtswirksam abgeschlossenen obligatorischen Vertrags oder
+    gleichstehenden Rechtsakts angeschafft werden,
+
+
+7.  § 19 Absatz 3 erstmals auf Fälle, in denen die unbeschränkte
+    Steuerpflicht des Anlegers nach dem 31. Dezember 2024 endet, die
+    Investmentanteile nach dem 31. Dezember 2024 unentgeltlich übertragen
+    werden oder der Ausschluss oder die Beschränkung des
+    Besteuerungsrechts der Bundesrepublik Deutschland hinsichtlich des
+    Gewinns aus der Veräußerung der Investmentanteile nach dem 31.
+    Dezember 2024 eingetreten ist, und
+
+
+8.  § 49 Absatz 5 erstmals auf Fälle, in denen die unbeschränkte
+    Steuerpflicht des Anlegers nach dem 31. Dezember 2024 endet, die
+    Spezial-Investmentanteile nach dem 31. Dezember 2024 unentgeltlich
+    übertragen werden oder der Ausschluss oder die Beschränkung des
+    Besteuerungsrechts der Bundesrepublik Deutschland hinsichtlich des
+    Gewinns aus der Veräußerung der Spezial-Investmentanteile nach dem 31.
+    Dezember 2024 eingetreten ist.
+
+
+
+
+(11) In der Fassung des Artikels 28 des Gesetzes vom 4. Februar 2026
+(BGBl. 2026 I Nr. 33) sind anzuwenden:
+
+1.  § 1 Absatz 2 Satz 2, § 2 Absatz 9 Satz 6, § 7 Absatz 4 Satz 2 und § 26
+    Nummer 4 Buchstabe g, h und j, Nummer 6 Satz 2 und Nummer 7a ab dem
+    10\. Februar 2026,
+
+
+2.  § 4 Absatz 2 Nummer 1a, § 6 Absatz 3 Satz 1 Nummer 3, Absatz 4 Satz 1
+    Nummer 5, Absatz 5, 5a, und 7 Satz 5, § 7 Absatz 2 Satz 2, § 8 Absatz
+    1 und 2 Satz 2, § 10 Absatz 1 Satz 1 und 2 und Absatz 2 Satz 2, § 15
+    Absatz 2 Satz 2 und Absatz 3, § 30 Absatz 5 Satz 2 sowie § 33 Absatz 4
+    Satz 3 auf Einkünfte, die einem Investmentfonds oder einem Spezial-
+    Investmentfonds in einem Geschäftsjahr zufließen, das nach dem 9.
+    Februar 2026 beginnt, und
+
+
+3.  § 6 Absatz 4 Satz 1 Nummer 4 auf Einkünfte, die einem Investmentfonds
+    oder Spezial-Investmentfonds in einem Geschäftsjahr zufließen, das
+    nach dem 9. Februar 2026 beginnt, soweit die Gewinne aus der
+    Veräußerung von Anteilen im Sinne des § 49 Absatz 1 Nummer 2 Buchstabe
+    e Doppelbuchstabe cc des Einkommensteuergesetzes stammen, bei denen
+    die Veräußerung nach dem 27. März 2024 erfolgt und nur soweit den
+    Gewinnen nach dem 27. März 2024 eingetretene Wertveränderungen
+    zugrunde liegen.
+
+
+
+
+(11) § 37 Absatz 1 Satz 3 in der Fassung des Artikels 7 des Gesetzes
+vom 22. Dezember 2025 (BGBl. 2025 I Nr. 353) ist erstmals anzuwenden
+für Geschäftsjahre, die nach dem 23. Dezember 2025 beginnen.
 

@@ -17,12 +17,12 @@ Fundstelle
 :   BGBl I: 1974, 3473
 
 Neugefasst durch
-:   Bek. v. 19. 4.1990 I 917;
+:   Bek. v. 19.4.1990 I 917;
 
 Zuletzt geändert durch
 :   Art. 322 V v. 31.8.2015 I 1474
 
-Stand: Das G in der Fassung der Bekanntmachung v. 17.11.1980 I 2137 ist - mit Ausnahme der §§ 12, 13 Abs. 1 Nr. 5, Abs. 2 bis 4, 6 bis 9, § 15 und § 17 - mit dem Grundgesetz unvereinbar gem. BVerfGE v. 11.10.1994, 1995 I 93 - 2 BvR 633/86 - \*% Soweit es mit dem Grundgesetz unvereinbar ist, ist es längstens bis zum 31. Dezember 1995 weiter anzuwenden.
+Stand: Das G in der Fassung der Bekanntmachung v. 17.11.1980 I 2137 ist - mit Ausnahme der §§ 12, 13 Abs. 1 Nr. 5, Abs. 2 bis 4, 6 bis 9, § 15 und § 17 - mit dem Grundgesetz unvereinbar gem. BVerfGE v. 11.10.1994, 1995 I 93 - 2 BvR 633/86 - Soweit es mit dem Grundgesetz unvereinbar ist, ist es längstens bis zum 31. Dezember 1995 weiter anzuwenden.
 
 ## § 1 Bestimmung des Steinkohleneinsatzes
 

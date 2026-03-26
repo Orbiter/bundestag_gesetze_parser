@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 27.8.2002 I 3422, 4346;
 
 Zuletzt geändert durch
-:   Art. 10 G v. 8.10.2023 I Nr. 272
+:   Art. 62 G v. 4.2.2026 I Nr. 33
 
 
 ## Abschnitt 1 - Ansprüche bei Verbraucherrechts- und anderen Verstößen
@@ -106,18 +106,17 @@ insbesondere
 2.  die Vorschriften des Fernunterrichtsschutzgesetzes,
 
 
-3.  diejenigen Vorschriften des Telemediengesetzes, die das Verhältnis
-    zwischen Anbietern von elektronischen Informations- und
+3.  diejenigen Vorschriften des Digitale-Dienste-Gesetzes, die das
+    Verhältnis zwischen Anbietern von elektronischen Informations- und
     Kommunikationsdiensten und Verbrauchern regeln, die §§ 8, 9, 70, 74
     und 98 des Medienstaatsvertrags vom 14. bis 28. April 2020, die §§ 4,
     5, 5a, 5b und 6 des Jugendmedienschutz-Staatsvertrags vom 10. bis 27.
-    September 2002, die §§ 10 und 11 des Deutsche-Welle-Gesetzes und die
-    §§ 2, 3, 3b und 3e des Netzwerkdurchsetzungsgesetzes,
+    September 2002 und die §§ 10 und 11 des Deutsche-Welle-Gesetzes,
 
 
-4.  diejenigen Vorschriften des Telekommunikation-Telemedien-Datenschutz-
-    Gesetzes, die das Verhältnis zwischen Unternehmern und Verbrauchern
-    regeln,
+4.  diejenigen Vorschriften des Telekommunikation-Digitale-Dienste-
+    Datenschutz-Gesetzes, die das Verhältnis zwischen Unternehmern und
+    Verbrauchern regeln,
 
 
 5.  die Vorschriften des Arzneimittelgesetzes, die das Verhältnis zwischen
@@ -147,12 +146,7 @@ insbesondere
 
 
 12. § 2 Absatz 2 sowie die §§ 36 und 37 des
-    Verbraucherstreitbeilegungsgesetzes und Artikel 14 der Verordnung (EU)
-    Nr. 524/2013 des Europäischen Parlaments und des Rates vom 21. Mai
-    2013 über die Online-Beilegung verbraucherrechtlicher Streitigkeiten
-    und zur Änderung der Verordnung (EG) Nr. 2006/2004 und der Richtlinie
-    2009/22/EG (Verordnung über Online-Streitbeilegung in
-    Verbraucherangelegenheiten) (ABl. L 165 vom 18.6.2013, S. 1),
+    Verbraucherstreitbeilegungsgesetzes,
 
 
 13. die Vorschriften der Verordnung (EU) 2016/679 des Europäischen
@@ -1221,7 +1215,7 @@ entsprechend.
 
 Das Gericht hat vor einer Entscheidung in einem Verfahren über einen
 Anspruch nach § 2, das eine Zuwiderhandlung gegen ein
-Verbraucherschutzgesetz nach § 2 Absatz 2 Satz 1 Nummer 11 zum
+Verbraucherschutzgesetz nach § 2 Absatz 2 Nummer 13 und 14 zum
 Gegenstand hat, die zuständige inländische Datenschutzbehörde zu
 hören. Satz 1 ist nicht anzuwenden, wenn über einen Antrag auf Erlass
 einer einstweiligen Verfügung ohne mündliche Verhandlung entschieden
@@ -1234,14 +1228,15 @@ wird.
 
 ### § 13 Auskunftsanspruch der anspruchsberechtigten Stellen
 
-(1) Wer geschäftsmäßig Post-, Telekommunikations- oder
-Telemediendienste erbringt oder an der Erbringung solcher Dienste
-mitwirkt, hat anspruchsberechtigten Stellen nach § 3 Absatz 1 Satz 1
-auf deren Verlangen den Namen und die zustellfähige Anschrift eines an
-Post-, Telekommunikations- oder Telemediendiensten Beteiligten
-mitzuteilen, wenn diese Stellen schriftlich versichern, dass sie die
-Angaben zur Durchsetzung eines Anspruchs nach den §§ 1 bis 2b
-benötigen und nicht anderweitig beschaffen können.
+(1) Wer geschäftsmäßig Post-, Telekommunikations- oder digitale
+Dienste nach § 1 Absatz 4 Nummer 1 des Digitale-Dienste-Gesetzes
+erbringt oder an der Erbringung solcher Dienste mitwirkt, hat
+anspruchsberechtigten Stellen nach § 3 Absatz 1 Satz 1 auf deren
+Verlangen den Namen und die zustellfähige Anschrift eines an Post-,
+Telekommunikations- oder digitalen Diensten Beteiligten mitzuteilen,
+wenn diese Stellen schriftlich versichern, dass sie die Angaben zur
+Durchsetzung eines Anspruchs nach den §§ 1 bis 2b benötigen und nicht
+anderweitig beschaffen können.
 
 (2) Der Anspruch besteht nur, soweit die Auskunft ausschließlich
 anhand der bei dem Auskunftspflichtigen vorhandenen Bestandsdaten
@@ -1260,10 +1255,10 @@ hat.
 ### § 13a Auskunftsanspruch sonstiger Betroffener
 
 Wer von einem anderen Unterlassung der Lieferung unbestellter Sachen,
-der Erbringung unbestellter sonstiger Leistungen oder der Zusendung
-oder sonstiger Übermittlung unverlangter Werbung verlangen kann, hat
-die Ansprüche gemäß § 13 mit der Maßgabe, dass an die Stelle eines
-Anspruchs nach den §§ 1 bis 2b sein Anspruch auf Unterlassung nach
+der Erbringung unbestellter sonstiger Leistungen, der Zusendung oder
+der sonstigen Übermittlung unverlangter Werbung verlangen kann, hat
+den Anspruch gemäß § 13 mit der Maßgabe, dass an die Stelle eines
+Anspruchs nach den §§ 1 bis 2b sein Anspruch aus Unterlassung nach den
 allgemeinen Vorschriften tritt.
 
 
@@ -1298,8 +1293,8 @@ allgemeinen Vorschriften tritt.
         Rates vom 14. März 2012 zur Festlegung der technischen Vorschriften
         und der Geschäftsanforderungen für Überweisungen und Lastschriften in
         Euro und zur Änderung der Verordnung (EG) Nr. 924/2009 (ABl. L 94 vom
-        30\.3.2012, S. 22), die durch die Verordnung (EU) Nr. 248/2014 (ABl. L
-        84 vom 20.3.2014, S. 1) geändert worden ist,
+        30\.3.2012, S. 22), die zuletzt durch die Verordnung (EU) Nr. 2024/886
+        (ABl. L, 2024/886, 19.3.2024) geändert worden ist,
 
 
     d)  der Verordnung (EU) 2015/751 des Europäischen Parlaments und des Rates

@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2017, 2858
 
 Zuletzt geändert durch
-:   Art. 7 Abs. 2 G v. 11.4.2024 I Nr. 119
+:   Art. 1 V v. 11.12.2024 I Nr. 414
 
 
 ## Eingangsformel
@@ -57,8 +57,7 @@ unterliegen, haben der Bundesanstalt einen internen jährlichen Bericht
 vorzulegen, der sich aus folgenden Unterlagen zusammensetzt:
 
 1.  Bilanz und Gewinn- und Verlust-Rechnungen mit dem Inhalt nach den §§ 2
-    bis 7 innerhalb der Fristen des § 8 Absatz 1, 2, 3 Satz 1 oder Absatz
-    4,
+    bis 7 innerhalb der Fristen des § 8 Absatz 1, 2 Satz 1 oder Absatz 3,
 
 
 2.  formgebundene Erläuterungen mit dem Inhalt nach den §§ 9 bis 14
@@ -71,8 +70,8 @@ vorzulegen, der sich aus folgenden Unterlagen zusammensetzt:
 
 
 
-(2) Für die zu verwendenden Formblätter und Nachweisungen gelten die
-in Anlage 3 festgelegten Muster.
+(2) Für die zu verwendenden Formulare gelten die in Anlage 3
+festgelegten Muster.
 
 
 ### Abschnitt 2 - Bilanz und Gewinn- und Verlust-Rechnungen
@@ -83,11 +82,11 @@ in Anlage 3 festgelegten Muster.
 Die Versicherungsunternehmen haben ihre Bilanz und ihre Gewinn- und
 Verlust-Rechnung gegenüber der Bundesanstalt wie folgt darzustellen:
 
-1.  die Bilanz nach Formblatt 100,
+1.  die Bilanz nach Formular F.100.01,
 
 
 2.  die Gewinn- und Verlust-Rechnung für das gesamte Versicherungsgeschäft
-    nach Formblatt 200.
+    nach Formular F.200.01.
 
 
 
@@ -97,9 +96,9 @@ Verlust-Rechnung gegenüber der Bundesanstalt wie folgt darzustellen:
 
 (1) Lebens- und Krankenversicherungsunternehmen haben zusätzlich
 jeweils gesonderte versicherungstechnische Gewinn- und Verlust-
-Rechnungen nach Formblatt 200 aufzustellen, und zwar
+Rechnungen nach Formular F.200.01 aufzustellen, und zwar
 
-1.  bis einschließlich Seite 5 Zeile 26
+1.  bis einschließlich Zeile ZE1300
 
     a)  für das gesamte selbst abgeschlossene Versicherungsgeschäft,
 
@@ -110,7 +109,7 @@ Rechnungen nach Formblatt 200 aufzustellen, und zwar
 
 
 
-2.  bis einschließlich Seite 3 Zeile 17
+2.  bis einschließlich Zeile ZE0690
 
     a)  für das gesamte inländische und das im Wege des
         Dienstleistungsverkehrs gemäß § 57 Absatz 3 und 4 des
@@ -146,9 +145,9 @@ betragen.
 
 (1) Schaden- und Unfallversicherungsunternehmen haben zusätzlich
 jeweils gesonderte versicherungstechnische Gewinn- und Verlust-
-Rechnungen nach Formblatt 200 aufzustellen, und zwar
+Rechnungen nach Formular F.200.01 aufzustellen, und zwar
 
-1.  bis einschließlich Seite 5 Zeile 26
+1.  bis einschließlich Zeile ZE1300
 
     a)  für das gesamte selbst abgeschlossene Versicherungsgeschäft,
 
@@ -198,12 +197,16 @@ Rechnungen nach Formblatt 200 aufzustellen, und zwar
 
 
 
-    c)  für die selbst abgeschlossenen
+    c)  für folgende Versicherungsarten des selbst abgeschlossenen
+        Versicherungsgeschäfts:
 
         aa) Kraftfahrzeug-Haftpflichtversicherungen,
 
 
-        bb) Sonstigen Kraftfahrtversicherungen,
+        bb) Sonstige Kraftfahrtversicherungen,
+
+
+        cc) Cyberversicherungen Stand alone,
 
 
 
@@ -214,18 +217,22 @@ Rechnungen nach Formblatt 200 aufzustellen, und zwar
 
     e)  für jeden der unter Buchstabe b genannten Versicherungszweige sowie
         die Versicherungszweige Lebensversicherung und Krankenversicherung des
-        in Rückdeckung übernommenen Versicherungsgeschäfts;
+        in Rückdeckung übernommenen Versicherungsgeschäfts,
+
+
+    f)  für das in Rückdeckung übernommene Versicherungsgeschäft in der in
+        Buchstabe c Doppelbuchstabe cc genannten Versicherungsart;
 
 
 
 
 
-2.  bis einschließlich Seite 5 Zeile 26 für das selbst abgeschlossene und
-    für das in Rückdeckung übernommene Geschäft im Versicherungszweig
+2.  bis einschließlich Zeile ZE1300 für das selbst abgeschlossene und für
+    das in Rückdeckung übernommene Geschäft im Versicherungszweig
     „Sonstige Schadenversicherung“;
 
 
-3.  bis einschließlich Seite 3 Zeile 17
+3.  bis einschließlich Zeile ZE0690
 
     a)  für das gesamte inländische selbst abgeschlossene
         Versicherungsgeschäft,
@@ -285,7 +292,7 @@ Nummer 3 Buchstabe c und f.
 Versicherungsunternehmen, die im selbst abgeschlossenen
 Versicherungsgeschäft einen oder mehrere der Versicherungszweige
 betreiben, die in der Anlage 1 Abschnitt C unter den Kennzahlen 03 bis
-25 und 29 aufgeführt sind.
+26 und 29 aufgeführt sind.
 
 
 #### § 5 Gesonderte Gewinn- und Verlust-Rechnungen in besonderen Fällen
@@ -293,30 +300,31 @@ betreiben, die in der Anlage 1 Abschnitt C unter den Kennzahlen 03 bis
 (1) Lebensversicherungsunternehmen, die auch die selbst abgeschlossene
 Allgemeine Unfallversicherung betreiben, haben für diesen
 Versicherungszweig zusätzlich eine gesonderte versicherungstechnische
-Gewinn- und Verlust-Rechnung nach Formblatt 200 bis einschließlich
-Seite 5 Zeile 26 aufzustellen.
+Gewinn- und Verlust-Rechnung nach Formular F.200.01 bis einschließlich
+Zeile ZE1300 aufzustellen.
 
 (2) Schaden- und Unfallversicherungsunternehmen, die auch das selbst
 abgeschlossene Krankenversicherungsgeschäft betreiben, haben für
 diesen Versicherungszweig eine gesonderte Gewinn- und Verlust-Rechnung
-nach Formblatt 200 bis einschließlich Seite 5 Zeile 26 aufzustellen.
+nach Formular F.200.01 bis einschließlich Zeile ZE1300 aufzustellen.
 
 
 #### § 6 Gesonderte Gewinn- und Verlust-Rechnungen der Rückversicherungsunternehmen
 
 Rückversicherungsunternehmen haben zusätzlich jeweils gesonderte
-versicherungstechnische Gewinn- und Verlust-Rechnungen nach Formblatt
-200 aufzustellen, und zwar
+versicherungstechnische Gewinn- und Verlust-Rechnungen nach Formular
+F.200.01 aufzustellen, und zwar
 
-1.  bis einschließlich Seite 3 Zeile 17 für das gesamte von inländischen
+1.  bis einschließlich Zeile ZE0690 für das gesamte von inländischen
     Vorversicherern in Rückdeckung übernommene Versicherungsgeschäft;
 
 
-2.  bis einschließlich Seite 3 Zeile 17 für das gesamte von ausländischen
+2.  bis einschließlich Zeile ZE0690 für das gesamte von ausländischen
     Vorversicherern in Rückdeckung übernommene Versicherungsgeschäft;
 
 
-3.  bis einschließlich Seite 5 Zeile 26 für die folgenden
+3.  bis einschließlich Zeile ZE1300 für die Versicherungsart
+    Cyberversicherung Stand alone und für die folgenden
     Versicherungszweige:
 
     a)  Lebensversicherung,
@@ -355,8 +363,8 @@ versicherungstechnische Gewinn- und Verlust-Rechnungen nach Formblatt
 
 
 
-4.  bis einschließlich Seite 5 Zeile 26 für den Versicherungszweig
-    Sonstige Schadenversicherung.
+4.  bis einschließlich Zeile ZE1300 für den Versicherungszweig Sonstige
+    Schadenversicherung.
 
 
 
@@ -374,8 +382,8 @@ Versicherungsgeschäft ausscheidet. § 4 Absatz 2 gilt entsprechend.
 #### § 7 Gesonderte Gewinn- und Verlust-Rechnungen der Pensionskassen
 
 (1) Pensionskassen haben zusätzlich jeweils gesonderte
-versicherungstechnische Gewinn- und Verlust-Rechnungen nach Formblatt
-200 aufzustellen, und zwar bis einschließlich Seite 3 Zeile 17
+versicherungstechnische Gewinn- und Verlust-Rechnungen nach Formular
+F.200.01 aufzustellen, und zwar bis einschließlich Zeile ZE0690
 
 1.  für das gesamte inländische Versicherungsgeschäft,
 
@@ -392,17 +400,18 @@ versicherungstechnische Gewinn- und Verlust-Rechnungen nach Formblatt
 (2) § 3 Absatz 2 gilt entsprechend.
 
 
-#### § 8 Einzelheiten der Formblatteinreichung einschließlich einzuhaltender Fristen
+#### § 8 Fristen für die Einreichung
 
-(1) Die Formblätter 100 und 200 gemäß den §§ 2 bis 7 sind der
-Bundesanstalt in jeweils doppelter Ausfertigung spätestens fünf Monate
-nach Schluss des Geschäftsjahres einzureichen.
+(1) Die Formulare F.100.01 und F.200.01 gemäß den §§ 2 bis 7 sind der
+Bundesanstalt spätestens vier Monate nach Schluss des Geschäftsjahres
+einzureichen. Abweichend von Satz 1 haben kleine
+Versicherungsunternehmen im Sinne des § 211 des
+Versicherungsaufsichtsgesetzes, Pensionskassen, Sterbekassen und
+Rückversicherungsunternehmen in Abwicklung der Bundesanstalt diese
+Formulare spätestens fünf Monate nach Schluss des Geschäftsjahres
+einzureichen.
 
-(2) Für Erstversicherungsunternehmen verlängert sich die Frist um
-einen Monat, sofern sie für das vergangene Konzernabschlussjahr einen
-Konzernabschluss und einen Konzernlagebericht aufzustellen haben.
-
-(3) Für Rückversicherungsunternehmen sowie für Schaden- und
+(2) Für Rückversicherungsunternehmen sowie für Schaden- und
 Unfallversicherungsunternehmen, deren gebuchte Bruttobeiträge aus dem
 in Rückdeckung übernommenen Versicherungsgeschäft die gebuchten
 Bruttobeiträge aus dem selbst abgeschlossenen Versicherungsgeschäft
@@ -412,10 +421,10 @@ Unternehmen, die ihren Jahresabschluss innerhalb der für
 Erstversicherungsunternehmen nach § 341a Absatz 1 des
 Handelsgesetzbuchs einzuhaltenden Frist aufstellen.
 
-(4) Ergeben sich bis zur Feststellung des Jahresabschlusses
+(3) Ergeben sich bis zur Feststellung des Jahresabschlusses
 Abweichungen, sind der Bundesanstalt unverzüglich nach der
-Feststellung zusätzlich die insoweit berichtigten Formblätter 100 und
-200 in jeweils doppelter Ausfertigung einzureichen.
+Feststellung zusätzlich die insoweit berichtigten Formulare F.100.01
+und F.200.01 einzureichen.
 
 
 ### Abschnitt 3 - Formgebundene Erläuterungen
@@ -426,19 +435,19 @@ Feststellung zusätzlich die insoweit berichtigten Formblätter 100 und
 (1) Versicherungsunternehmen haben folgende formgebundene
 Erläuterungen zu erstellen:
 
-1.  Entwicklung der Kapitalanlagen gemäß Nachweisung 101,
+1.  Entwicklung der Kapitalanlagen gemäß Formular F.101.01,
 
 
-2.  Sicherungsvermögen und restliches Vermögen gemäß Nachweisung 103,
+2.  Sicherungsvermögen und restliches Vermögen gemäß Formular F.103.01,
 
 
 3.  Erträge aus den Kapitalanlagen und Aufwendungen für die Kapitalanlagen
-    gemäß Nachweisung 201,
+    gemäß Formular F.201.01,
 
 
 4.  Gliederung der in bestimmten Aufwandsposten der Gewinn- und Verlust-
     Rechnung ausgewiesenen Aufwendungen nach Aufwandsarten sowie Anzahl
-    der Beschäftigten gemäß Nachweisung 202.
+    der Beschäftigten gemäß Formular F.202.01.
 
 
 
@@ -456,7 +465,8 @@ Erläuterungen gemäß Absatz 1 Nummer 2.
 (4) Kleine Versicherungsunternehmen im Sinne des § 211 des
 Versicherungsaufsichtsgesetzes, Pensionskassen und Sterbekassen haben
 zusätzlich formgebundene Erläuterungen mit Angaben zu übernommenem und
-abgegebenem Versicherungsgeschäft gemäß Nachweisung 203 zu erstellen.
+abgegebenem Versicherungsgeschäft gemäß Formular F.203.01 zu
+erstellen.
 
 
 #### § 10 Zusätzliche formgebundene Erläuterungen der Lebensversicherungsunternehmen
@@ -464,19 +474,23 @@ abgegebenem Versicherungsgeschäft gemäß Nachweisung 203 zu erstellen.
 Lebensversicherungsunternehmen haben zusätzlich folgende formgebundene
 Erläuterungen zu erstellen:
 
-1.  Bewegung der Rückstellung für Beitragsrückerstattung gemäß
-    Nachweisungen 110 bis 113,
+1.  Bewegung der Rückstellung für Beitragsrückerstattung gemäß Formulare
+    F.110.01 bis F.113.01,
 
 
-2.  Bewegung des Bestands an Lebensversicherungen gemäß Nachweisungen 210
-    und 211,
+2.  Bewegung des Bestands an Lebensversicherungen gemäß Formulare F.210.01
+    und F.211.01,
 
 
-3.  Zusammensetzung der gebuchten Bruttobeiträge gemäß Nachweisung 212,
+3.  Zusammensetzung der gebuchten Bruttobeiträge gemäß Formular F.212.01,
 
 
-4.  Zerlegung des Rohergebnisses nach Ergebnisquellen gemäß Nachweisungen
-    213 bis 219.
+4.  Zerlegung des Rohergebnisses nach Ergebnisquellen gemäß Formular
+    F.213.01 bis F.219.01,
+
+
+5.  Liste der Abrechnungsverbände gemäß Formular F.030.01 und Liste der
+    Teilkollektivgruppen gemäß Formular F.030.02.
 
 
 
@@ -489,30 +503,34 @@ Erläuterungen zu erstellen:
 
 1.  Kapitalanlagen bei Mitglieds- und Trägerunternehmen sowie Forderungen
     an und Verbindlichkeiten gegenüber Mitglieds- und Trägerunternehmen
-    gemäß Nachweisung 120,
+    gemäß Formular F.120.01,
 
 
 2.  Bewegung der Rückstellung für erfolgsabhängige Beitragsrückerstattung
-    und Angaben zur Beteiligung an den Bewertungsreserven gemäß
-    Nachweisung 121,
+    und Angaben zur Beteiligung an den Bewertungsreserven gemäß Formular
+    F.121.01,
 
 
 3.  Bewegung des Bestands an Versorgungsberechtigten aus
     Pensionsversicherungen und weiteren Kapitalversicherungen gemäß
-    Nachweisung 220,
+    Formular F.220.01,
 
 
 4.  Bewegung des Bestands an Sterbegeld- und Zusatzversicherungen gemäß
-    Nachweisung 221,
+    Formular F.221.01,
 
 
 5.  Beiträge, Beiträge aus der Rückstellung für erfolgsabhängige
     Beitragsrückerstattung, Rückversicherungsbeiträge sowie
-    Deckungsrückstellung gemäß Nachweisung 222,
+    Deckungsrückstellung gemäß Formular F.222.01,
 
 
 6.  Angaben zum Auslandsgeschäft, gesondert für jeden Mitglied- und
-    Vertragsstaat, gemäß Nachweisung 265.
+    Vertragsstaat, gemäß Formular F.265.01,
+
+
+7.  Zerlegung des Rohergebnisses nach Ergebnisquellen bei Pensionskassen
+    gemäß Formular F.271.01.
 
 
 
@@ -523,15 +541,16 @@ Erläuterungen zu erstellen:
 (1) Krankenversicherungsunternehmen haben zusätzlich folgende
 formgebundene Erläuterungen zu erstellen:
 
-1.  Bewegung der Rückstellung für Beitragsrückerstattung gemäß Nachweisung
-    130,
+1.  Bewegung der Rückstellung für Beitragsrückerstattung gemäß Formular
+    F.130.01,
 
 
-2.  Bewegung des Bestands an Krankenversicherungen gemäß Nachweisung 230,
+2.  Bewegung des Bestands an Krankenversicherungen gemäß Formular
+    F.230.01,
 
 
-3.  Zerlegung des Rohergebnisses nach Ergebnisquellen gemäß Nachweisungen
-    231 bis 238.
+3.  Zerlegung des Rohergebnisses nach Ergebnisquellen gemäß Formulare
+    F.231.01 bis F.238.01.
 
 
 
@@ -550,20 +569,24 @@ folgende formgebundene Erläuterungen zu erstellen:
 
 1.  Bewegung des Bestands und Rückversicherung einzelner
     Versicherungszweige des selbst abgeschlossenen Versicherungsgeschäfts
-    gemäß Nachweisung 240,
+    gemäß Formular F.240.01,
 
 
 2.  Angaben zu den Versicherungsfällen, Rückstellungen und Aufwendungen
-    des selbst abgeschlossenen Versicherungsgeschäfts gemäß Nachweisung
-    242,
+    des selbst abgeschlossenen Versicherungsgeschäfts gemäß Formular
+    F.242.01,
 
 
 3.  Angaben zu bestimmten Versicherungsarten des selbst abgeschlossenen
-    inländischen Versicherungsgeschäfts gemäß Nachweisung 243,
+    inländischen Versicherungsgeschäfts gemäß Formular F.243.01,
 
 
 4.  Angaben zum selbst abgeschlossenen Transportversicherungsgeschäft
-    gemäß Nachweisung 246.
+    gemäß Formular F.246.01,
+
+
+5.  Angaben zum selbst abgeschlossenen Cyberversicherungsgeschäft gemäß
+    Formular F.247.01.
 
 
 
@@ -582,72 +605,74 @@ Rückversicherungsunternehmen haben zusätzlich formgebundene
 Erläuterungen mit Angaben zu den Beiträgen sowie zur Zusammensetzung
 und Abwicklung der Rückstellung für noch nicht abgewickelte
 Versicherungsfälle des in Rückdeckung übernommenen
-Versicherungsgeschäfts gemäß Nachweisung 252 zu erstellen.
+Versicherungsgeschäfts gemäß Formular F.252.01 zu erstellen.
 
 
 #### § 15 Fristen für die Einreichung
 
-(1) Die formgebundenen Erläuterungen gemäß den §§ 9 bis 14 sind der
-Bundesanstalt in jeweils doppelter Ausfertigung einzureichen
+(1) Die folgenden formgebundenen Erläuterungen gemäß den §§ 9 bis 14
+sind der Bundesanstalt spätestens vier Monate nach Schluss des
+Geschäftsjahres einzureichen:
 
-1.  spätestens fünf Monate nach Schluss des Geschäftsjahres
-
-    a)  von allen Versicherungsunternehmen die Nachweisungen 101, 103, 201 und
-        202, soweit sie zu erstellen sind,
-
-
-    b)  von den Lebensversicherungsunternehmen die Nachweisungen 210 bis 212,
+1.  die Formulare F.101.01, F.103.01, F.201.01 und F.202.01 von allen
+    Versicherungsunternehmen, soweit sie zu erstellen sind,
 
 
-    c)  von den Krankenversicherungsunternehmen die Nachweisung 230,
+2.  die Formulare F.210.01 bis F.212.01 von den
+    Lebensversicherungsunternehmen,
 
 
-    d)  von den kleinen Versicherungsunternehmen, den Pensionskassen und den
-        Sterbekassen die Nachweisung 203,
+3.  das Formular F.230.01 von den Krankenversicherungsunternehmen,
 
 
-    e)  von den Schaden- und Unfallversicherungsunternehmen die Nachweisung
-        240;
+4.  das Formular F.203.01 von den kleinen Versicherungsunternehmen, den
+    Pensionskassen und den Sterbekassen,
+
+
+5.  die Formulare F.240.01, F.242.01, F.243.01, F.246.01 und F.247.01 von
+    den Schaden- und Unfallversicherungsunternehmen,
+
+
+6.  das Formular F.252.01 von den Rückversicherungsunternehmen.
 
 
 
+Abweichend von Satz 1 haben kleine Versicherungsunternehmen im Sinne
+des § 211 des Versicherungsaufsichtsgesetzes, Pensionskassen,
+Sterbekassen und Rückversicherungsunternehmen in Abwicklung der
+Bundesanstalt diese Formulare spätestens fünf Monate nach Schluss des
+Geschäftsjahres einzureichen.
+
+(2) Die folgenden formgebundenen Erläuterungen gemäß den §§ 9 bis 14
+sind der Bundesanstalt spätestens sechs Monate nach Schluss des
+Geschäftsjahres einzureichen:
+
+1.  die Formulare F.110.01 bis F.113.01, F.213.01 bis F.219.01, F.030.01
+    und F.030.02 von den Lebensversicherungsunternehmen,
 
 
-2.  spätestens sechs Monate nach Schluss des Geschäftsjahres von den
-    Pensions- und Sterbekassen die Nachweisungen 120, 220, 221, 222 und
-    265;
+2.  die Formulare F.120.01, F.121.01, F.220.01, F.221.01, F.222.01,
+    F.265.01 von den Pensions- und Sterbekassen,
 
 
-3.  spätestens sieben Monate nach Schluss des Geschäftsjahres
-
-    a)  von den Lebensversicherungsunternehmen die Nachweisungen 110 bis 113
-        und 213 bis 219,
-
-
-    b)  von den Pensions- und Sterbekassen die Nachweisung 121,
-
-
-    c)  von den Krankenversicherungsunternehmen die Nachweisungen 130 und 231
-        bis 238,
-
-
-    d)  von den Schaden- und Unfallversicherungsunternehmen die Nachweisungen
-        242, 243 und 246,
-
-
-    e)  von den Rückversicherungsunternehmen die Nachweisung 252.
+3.  die Formulare F.130.01 und F.231.01 bis F.238.01 von den
+    Krankenversicherungsunternehmen.
 
 
 
 
+(3) Das Formular F.271.01 gemäß § 11 Nummer 7 ist der Bundesanstalt
+von den Pensionskassen spätestens sieben Monate nach Schluss des
+Geschäftsjahres einzureichen. Die in § 17 Satz 2 genannten
+Pensionskassen müssen das Formular F.271.01 nur für die Geschäftsjahre
+einreichen, für die sie auch ein versicherungsmathematisches Gutachten
+im Sinne von § 17 einreichen.
 
-
-
-(2) Für Rückversicherungsunternehmen gilt die gleiche Vorlagefrist wie
+(4) Für Rückversicherungsunternehmen gilt die gleiche Vorlagefrist wie
 für Erstversicherungsunternehmen, sofern sie den Jahresabschluss
 innerhalb der von Erstversicherungsunternehmen gemäß § 341a Absatz 1
 des Handelsgesetzbuchs einzuhaltenden Frist aufstellen; ansonsten
-verlängern sich die in Absatz 1 genannten Fristen um jeweils sechs
+verlängert sich die in Absatz 1 genannte Frist um jeweils sechs
 Monate, sofern der Abschlussstichtag der 31. Dezember ist.
 
 
@@ -656,19 +681,18 @@ Monate, sofern der Abschlussstichtag der 31. Dezember ist.
 
 #### § 16 Unterlagen aller Versicherungsunternehmen
 
-(1) Alle Versicherungsunternehmen haben der Bundesanstalt folgende
-Unterlagen einzureichen:
+(1) Alle Versicherungsunternehmen haben der Bundesanstalt eine
+elektronische Fassung der folgenden Unterlagen einzureichen:
 
-1.  jeweils unverzüglich nach der Aufstellung und in doppelter
-    Ausfertigung die in § 37 Absatz 1 des Versicherungsaufsichtsgesetzes
-    bezeichneten Unterlagen mit den nach dem Versicherungsaufsichtsgesetz
-    vorgeschriebenen versicherungsmathematischen Bestätigungen und der
-    nach § 128 Absatz 5 des Versicherungsaufsichtsgesetzes
-    vorgeschriebenen Bestätigung des Treuhänders für das
-    Sicherungsvermögen;
+1.  jeweils unverzüglich nach der Aufstellung die in § 37 Absatz 1 des
+    Versicherungsaufsichtsgesetzes bezeichneten Unterlagen mit den nach
+    dem Versicherungsaufsichtsgesetz vorgeschriebenen
+    versicherungsmathematischen Bestätigungen und der nach § 128 Absatz 5
+    des Versicherungsaufsichtsgesetzes vorgeschriebenen Bestätigung des
+    Treuhänders für das Sicherungsvermögen;
 
 
-2.  jeweils unverzüglich nach der Feststellung in doppelter Ausfertigung
+2.  jeweils unverzüglich nach der Feststellung
 
     a)  den Geschäftsbericht, zumindest bestehend aus
 
@@ -690,9 +714,9 @@ Unterlagen einzureichen:
 
 
 
-    b)  den Bericht des Abschlussprüfers mit den handschriftlich
-        unterzeichneten Bemerkungen des Vorstands und des Aufsichtsrats gemäß
-        § 37 Absatz 5 des Versicherungsaufsichtsgesetzes,
+    b)  den Bericht des Abschlussprüfers sowie die Bemerkungen des Vorstands
+        und des Aufsichtsrats gemäß § 37 Absatz 5 des
+        Versicherungsaufsichtsgesetzes,
 
 
     c)  den Bericht des Abschlussprüfers zu dem Bericht des Vorstands über die
@@ -707,27 +731,29 @@ Unterlagen einzureichen:
     obersten Vertretung, die den Jahresabschluss entgegengenommen hat,
 
     a)  den endgültigen Geschäftsbericht gemäß Nummer 2 Buchstabe a in der
-        Form, wie er der Hauptversammlung oder der Versammlung der obersten
-        Vertretung vorgelegt wurde, in einfacher Ausfertigung sowie in
-        elektronischer Form,
+        Fassung, wie er der Hauptversammlung oder der Versammlung der obersten
+        Vertretung vorgelegt wurde,
 
 
     b)  den Konzernabschluss und den Konzernlagebericht gemäß § 341i und §
-        341j des Handelsgesetzbuchs in einfacher Ausfertigung sowie in
-        elektronischer Form,
+        341j des Handelsgesetzbuchs,
 
 
     c)  den Bericht des Abschlussprüfers über die Prüfung des
         Konzernabschlusses und des Konzernlageberichts gemäß § 341k des
-        Handelsgesetzbuchs in einfacher Ausfertigung.
+        Handelsgesetzbuchs.
 
 
 
 
 
 
+Der Bestätigungsvermerk oder Vermerk nach Satz 1 Nummer 2 Buchstabe a
+Doppelbuchstabe aa sowie die Berichte nach Satz 1 Nummer 2 Buchstabe b
+und c sowie Nummer 3 Buchstabe c sind mit qualifizierter
+elektronischer Signatur des Abschlussprüfers einzureichen.
 
-(2) Die Ausfertigung des Geschäftsberichts gemäß Absatz 1 Nummer 3
+(2) Das Original des Geschäftsberichts gemäß Absatz 1 Satz 1 Nummer 3
 Buchstabe a ist handschriftlich zu unterzeichnen
 
 1.  vom Vorstand,
@@ -741,17 +767,21 @@ Buchstabe a ist handschriftlich zu unterzeichnen
 
 
 
-In der Ausfertigung ist ferner der Bericht des Aufsichtsrats oder des
-entsprechenden Organs von dessen Mitgliedern handschriftlich zu
-unterzeichnen.
+Im Original des Geschäftsberichts ist ferner der Bericht des
+Aufsichtsrats oder des entsprechenden Organs von dessen Mitgliedern
+handschriftlich zu unterzeichnen. Die handschriftliche Unterzeichnung
+nach den Sätzen 1 und 2 kann durch eine elektronische Form nach § 126a
+des Bürgerlichen Gesetzbuchs ersetzt werden. Für die an die
+Bundesanstalt zu übermittelnde elektronische Fassung ist ausreichend,
+wenn erkennbar ist, wer das Dokument im Original unterzeichnet hat.
 
 
 #### § 17 Versicherungsmathematische Gutachten der Pensions- und Sterbekassen
 
 Pensions- und Sterbekassen haben der Bundesanstalt spätestens sieben
-Monate nach Schluss des Geschäftsjahres in doppelter Ausfertigung
-zusätzlich ein versicherungsmathematisches Gutachten über den Einfluss
-der wesentlichen Gewinn- und Verlustquellen auf das Bilanzergebnis und
+Monate nach Schluss des Geschäftsjahres zusätzlich ein
+versicherungsmathematisches Gutachten über den Einfluss der
+wesentlichen Gewinn- und Verlustquellen auf das Bilanzergebnis und
 über die wesentlichen versicherungsmathematischen Annahmen, die der
 Berechnung der versicherungstechnischen Rückstellungen zugrunde
 liegen, einzureichen. Bei Pensions- und Sterbekassen, die kleinere
@@ -773,9 +803,10 @@ einen internen Bericht gemäß § 1 Absatz 1 vorzulegen, der zusätzlich
 ergänzende Unterlagen nach Maßgabe der Absätze 4 und 5 umfasst.
 
 (2) Auf Niederlassungen von Erstversicherungsunternehmen finden § 5
-Absatz 1, § 7 sowie § 16 Absatz 1 Nummer 2 und 3 und Absatz 2 keine
-Anwendung. Auf Niederlassungen von Rückversicherungsunternehmen findet
-§ 16 Absatz 1 Nummer 2 und 3 und Absatz 2 keine Anwendung.
+Absatz 1, § 7 sowie § 16 Absatz 1 Satz 1 Nummer 2 und 3 und Absatz 2
+keine Anwendung. Auf Niederlassungen von Rückversicherungsunternehmen
+findet § 16 Absatz 1 Satz 1 Nummer 2 und 3 und Absatz 2 keine
+Anwendung.
 
 (3) § 16 Absatz 1 Nummer 1 gilt mit der Maßgabe, dass
 
@@ -783,11 +814,10 @@ Anwendung. Auf Niederlassungen von Rückversicherungsunternehmen findet
     Abschlussprüfer, spätestens sieben Monate nach Schluss des
     Geschäftsjahres, folgende Unterlagen einzureichen sind:
 
-    a)  der Bericht des Abschlussprüfers in doppelter Ausfertigung,
+    a)  der Bericht des Abschlussprüfers,
 
 
-    b)  der endgültige Geschäftsbericht der Niederlassung in einfacher
-        Ausfertigung und in elektronischer Form;
+    b)  der endgültige Geschäftsbericht der Niederlassung;
 
 
 
@@ -820,21 +850,23 @@ Anwendung. Auf Niederlassungen von Rückversicherungsunternehmen findet
 Bundesanstalt für das gesamte Versicherungsgeschäft einzureichen
 
 1.  spätestens sieben Monate nach Schluss des Geschäftsjahres den im
-    Sitzland veröffentlichten Geschäftsbericht in doppelter Ausfertigung,
-    wobei mit Einwilligung der Bundesanstalt eine spätere Vorlage erfolgen
-    kann, wenn die Einhaltung der Frist infolge von im Sitzland geltenden
-    Bestimmungen nicht möglich ist,
+    Sitzland veröffentlichten Geschäftsbericht, wobei mit Einwilligung der
+    Bundesanstalt eine spätere Vorlage erfolgen kann, wenn die Einhaltung
+    der Frist infolge von im Sitzland geltenden Bestimmungen nicht möglich
+    ist,
 
 
 2.  spätestens neun Monate nach Schluss des Geschäftsjahres eine deutsche
-    Übersetzung des im Sitzland veröffentlichten Geschäftsberichts in
-    einfacher Ausfertigung sowie in elektronischer Form,
+    Übersetzung des im Sitzland veröffentlichten Geschäftsberichts, wobei
+    § 4j Absatz 1 des Finanzdienstleistungsaufsichtsgesetzes entsprechend
+    anzuwenden ist, sofern der Geschäftsbericht in englischer Sprache im
+    Sitzland veröffentlicht wurde,
 
 
-3.  spätestens neun Monate nach Schluss des Geschäftsjahres in einfacher
-    Ausfertigung den Bericht zur Erläuterung des Jahresabschlusses, der
-    nach den Vorschriften des Sitzlandes der Versicherungsaufsichtsbehörde
-    im Sitzland vorzulegen ist.
+3.  spätestens neun Monate nach Schluss des Geschäftsjahres den Bericht
+    zur Erläuterung des Jahresabschlusses, der nach den Vorschriften des
+    Sitzlandes der Versicherungsaufsichtsbehörde im Sitzland vorzulegen
+    ist.
 
 
 
@@ -855,32 +887,31 @@ vierteljährlich innerhalb der Frist nach § 20 die Angaben zur
 Geschäftsentwicklung mit den Inhalten nach Satz 2 vorzulegen. Die
 Berichterstattung erfolgt
 
-1.  gemäß Nachweisung 601 durch Lebensversicherungsunternehmen,
+1.  gemäß Formular F.601.01 durch Lebensversicherungsunternehmen,
 
 
-2.  gemäß Nachweisung 602 durch Pensionskassen,
+2.  gemäß Formular F.602.01 durch Pensionskassen,
 
 
-3.  gemäß Nachweisung 603 durch Krankenversicherungsunternehmen und
+3.  gemäß Formular F.603.01 durch Krankenversicherungsunternehmen und
 
 
-4.  gemäß Nachweisung 604 durch Schaden- und
+4.  gemäß Formular F.604.01 durch Schaden- und
     Unfallversicherungsunternehmen sowie durch
     Rückversicherungsunternehmen.
 
 
 
 
-(2) Für die Nachweisungen 601 bis 604 gelten die in Anlage 3
+(2) Für die Formulare F.601.01 bis F.604.01 gelten die in Anlage 3
 festgelegten Muster.
 
 
 ### § 20 Frist für die Einreichung
 
 Die vierteljährlichen Zwischenberichte gemäß § 19 sind der
-Bundesanstalt in jeweils doppelter Ausfertigung spätestens bis zum
-Ende des Monats einzureichen, der auf das jeweilige
-Berichtsvierteljahr folgt.
+Bundesanstalt spätestens bis zum Ende des Monats einzureichen, der auf
+das jeweilige Berichtsvierteljahr folgt.
 
 
 ## Kapitel 3 - Bestimmte kleinere Vereine
@@ -926,28 +957,28 @@ Bundesanstalt unterliegen:
 (1) Für die in § 21 genannten Versicherungsunternehmen gelten
 lediglich die §§ 1, 2, 8, 9 Absatz 1, 2 und 4, § 11 Nummer 1 bis 5, §
 12 Absatz 1 Nummer 1 und 2, § 13 Absatz 1 Nummer 1 und 2, § 15 Absatz
-1, § 16 Absatz 1 Nummer 1, 2 und 3 Buchstabe a und Absatz 2, § 17
-sowie die §§ 23 bis 27. Dabei gilt die Maßgabe, dass
+1 bis 3, § 16 Absatz 1 Satz 1 Nummer 1, 2, 3 Buchstabe a, Satz 2 und
+Absatz 2, § 17 sowie die §§ 23 bis 27. Dabei gilt die Maßgabe, dass
 
-1.  in den §§ 2 und 8 das Formblatt 300 an die Stelle des Formblatts 200
-    tritt,
-
-
-2.  in § 12 Absatz 1 Nummer 2 und in § 15 Absatz 1 Nummer 1 Buchstabe c
-    die Nachweisung 330 an die Stelle der Nachweisung 230 tritt und
+1.  in den §§ 2 und 8 das Formular F.300.01 an die Stelle des Formulars
+    F.200.01 tritt,
 
 
-3.  in § 13 Absatz 1 Nummer 2 und in § 15 Absatz 1 Nummer 3 Buchstabe d
-    die Nachweisung 342 an die Stelle der Nachweisung 242 tritt.
+2.  in § 12 Absatz 1 Nummer 2 und in § 15 Absatz 1 Satz 1 Nummer 3 das
+    Formular F.330.01 an die Stelle des Formulars F.230.01 tritt und
+
+
+3.  in § 13 Absatz 1 Nummer 2 und in § 15 Absatz 1 Satz 1 Nummer 5 das
+    Formular F.342.01 an die Stelle des Formulars F.242.01 tritt.
 
 
 
 
 (2) Schaden- und Unfallversicherungsvereine haben für das selbst
 abgeschlossene Versicherungsgeschäft zusätzlich gesonderte
-versicherungstechnische Gewinn- und Verlust-Rechnungen nach Formblatt
-300 aufzustellen, und zwar bis einschließlich Seite 3 Zeile 23 für den
-Versicherungszweig „Sonstige Schadenversicherung“ und für jeden
+versicherungstechnische Gewinn- und Verlust-Rechnungen nach Formular
+F.300.01 aufzustellen, und zwar bis einschließlich Zeile ZE0750 für
+den Versicherungszweig „Sonstige Schadenversicherung“ und für jeden
 Versicherungszweig, der in § 4 Absatz 1 Nummer 1 Buchstabe b genannt
 ist und
 
@@ -962,13 +993,13 @@ ist und
 § 4 Absatz 1 Satz 2 und Absatz 2 Satz 2 gilt entsprechend.
 
 
-## Kapitel 4 - Formblätter und Nachweisungen
+## Kapitel 4 - Ausfüllen der Formulare und Einreichung
 
 
 ### § 23 Kennzahlen und Versicherungszweige
 
-(1) Die auf den Formblättern und Nachweisungen zu setzenden Kennzahlen
-ergeben sich aus Anlage 1.
+(1) Die auf den Formularen zu setzenden Kennzahlen ergeben sich aus
+Anlage 1.
 
 (2) Als Versicherungszweige im Sinne dieser Verordnung gelten die in
 der Anlage 1 Abschnitt C als solche bezeichneten Versicherungen mit
@@ -986,14 +1017,139 @@ Unfallversicherungsunternehmen betriebenen Versicherungszweige hat die
 Kennzahl 30.
 
 
-### § 24 Anwendung der Formblätter und Nachweisungen
+### § 24 Anwendung der Formulare
 
-(1) Bei der Verwendung der Formblätter und Nachweisungen sind die sich
-aus Anlage 2 Abschnitt A und B ergebenden Anmerkungen und Abkürzungen
-zu beachten.
+(1) Bei der Verwendung der Formulare sind die sich aus Anlage 2
+Abschnitt A und B ergebenden Anmerkungen und Abkürzungen zu beachten.
 
-(2) Bei der Erstellung der Formblätter und Nachweisungen ist Anlage 2
-Abschnitt C zu beachten.
+(2) Bei der Erstellung der Formulare ist Anlage 2 Abschnitt C zu
+beachten.
+
+
+### § 24a Elektronische Einreichung
+
+(1) Der interne jährliche Bericht nach § 1 und der interne
+vierteljährliche Bericht nach § 19 sind der Bundesanstalt in
+elektronischer Form zu übermitteln.
+
+(2) Die Datenübermittlung erfolgt an die Melde- und
+Veröffentlichungsplattform (MVP-Portal) der Bundesanstalt. Unternehmen
+haben über das Internet Zugang zum MVP-Portal, nachdem sie sich bei
+der Bundesanstalt hierfür registriert haben.
+
+(3) Die Unternehmen haben die ordnungsgemäße Datenübermittlung durch
+Berücksichtigung der im MVP-Portal hinterlegten Informationen und
+Hinweise sicherzustellen.
+
+
+### § 24b Datenformate und Einreichungsvorgaben
+
+(1) Einreichungen müssen in einem maschinenlesbaren und
+maschinendurchsuchbaren Dateiformat erfolgen.
+
+(2) Ein Formular besteht aus quantitativen Informationen
+(quantitativer Formularteil) und gegebenenfalls einer Anlage mit
+ergänzenden verpflichtenden oder freiwilligen Angaben (qualitativer
+Formularteil). Der quantitative und der qualitative Formularteil sind
+in getrennten Meldedateien einzureichen. Der quantitative Formularteil
+ist auf Basis der von der Bundesanstalt auf ihrer Internetseite
+veröffentlichten aktuellen XBRL-Taxonomie einschließlich
+Basisinformationen und Angaben zum Berichtsumfang in einer Meldedatei
+einzureichen. Sofern die Bundesanstalt für diese Einreichung auf ihrer
+Internetseite auch ein anderes Format, das von ihr in XBRL konvertiert
+wird, anbietet, kann die Einreichung alternativ in diesem Format
+erfolgen.
+
+(3) Die Bundesanstalt veröffentlicht auf ihrer Internetseite
+
+1.  die für eine elektronische Dateneinreichung jeweils zu verwendenden
+    Datenformate,
+
+
+2.  die hinsichtlich Datenformat und Dateninhalt einzuhaltenden Prüfregeln
+    und Einreichungsregeln.
+
+
+
+
+
+### § 24c Zusammen einzureichende Formularteile
+
+(1) Die quantitativen Formularteile von Formularen mit gleicher
+Einreichungsfrist nach den §§ 8 und 15 und die qualitativen
+Formularteile von Formularen mit gleicher Einreichungsfrist nach den
+§§ 8 und 15 sind jeweils in einer Meldedatei zu übermitteln.
+
+(2) Bereits bei einem früheren Meldevorgang nach § 8 oder § 15 für das
+jeweilige Geschäftsjahr eingereichte quantitative Formularteile sind
+zusammen mit nach § 8 oder § 15 später einzureichenden quantitativen
+Formularteilen erneut in einer Meldedatei zu übermitteln. Bereits bei
+einem früheren Meldevorgang nach § 8 oder § 15 für das jeweilige
+Geschäftsjahr eingereichte qualitative Formularteile sind zusammen mit
+nach § 8 oder § 15 später einzureichenden qualitativen Formularteilen
+erneut in einer Meldedatei zu übermitteln.
+
+(3) Kleine Versicherungsunternehmen im Sinne von § 211 des
+Versicherungsaufsichtsgesetzes, Pensionskassen, Sterbekassen und
+Rückversicherungsunternehmen in Abwicklung haben
+
+1.  mit den nach Absatz 1 und 2 Satz 1 zu übermittelnden quantitativen
+    Formularteilen in der jeweiligen Meldedatei auch den quantitativen
+    Formularteil des Formulars nach § 19 der Kapitalausstattungs-
+    Verordnung für das jeweilige Geschäftsjahr zu übermitteln,
+
+
+2.  mit den nach Absatz 1 und 2 Satz 2 zu übermittelnden qualitativen
+    Formularteilen in der jeweiligen Meldedatei auch den qualitativen
+    Formularteil des Formulars nach § 19 der Kapitalausstattungs-
+    Verordnung für das jeweilige Geschäftsjahr zu übermitteln.
+
+
+
+§ 19 der Kapitalausstattungs-Verordnung bleibt unberührt.
+
+(4) Eine Meldedatei mit quantitativen Formularteilen und eine
+Meldedatei mit qualitativen Formularteilen können zusammen in einem
+Meldevorgang übermittelt werden.
+
+
+### § 24d Korrekturmeldungen
+
+(1) Muss ein quantitativer Formularteil eines Formulars nach § 1 nach
+Übermittlung korrigiert werden, ist dieser Formularteil unverzüglich
+nach Feststellung des Korrekturbedarfs berichtigt zusammen mit allen
+weiteren quantitativen Formularteilen von Formularen nach § 1 dieser
+Verordnung und nach § 19 der Kapitalausstattungs-Verordnung, die
+bisher in Bezug auf dieses Geschäftsjahr eingereicht wurden, in einer
+Meldedatei einzureichen.
+
+(2) Muss ein qualitativer Formularteil eines Formulars nach § 1 nach
+Übermittlung korrigiert werden, ist dieser Formularteil unverzüglich
+nach Feststellung des Korrekturbedarfs berichtigt zusammen mit allen
+weiteren qualitativen Formularteilen von Formularen nach § 1 dieser
+Verordnung und nach § 19 der Kapitalausstattungs-Verordnung, die
+bisher in Bezug auf dieses Geschäftsjahr eingereicht wurden, in einer
+Meldedatei einzureichen.
+
+(3) Muss der quantitative Formularteil oder der qualitative
+Formularteil eines internen vierteljährlichen Zwischenberichts nach
+Übermittlung korrigiert werden, ist der zu korrigierende quantitative
+oder qualitative Formularteil unverzüglich nach Feststellung des
+Korrekturbedarfs berichtigt in einer Meldedatei einzureichen.
+
+(4) Bezieht sich der Korrekturbedarf nur auf quantitative
+Formularteile oder nur auf qualitative Formularteile, bedarf es keiner
+erneuten Übermittlung der jeweils anderen Formularteile.
+
+
+### § 24e Zurückweisung von Daten
+
+(1) Die Bundesanstalt weist eine Meldedatei zurück, wenn Dateninhalte
+oder das Datenformat nicht den Vorgaben nach § 24b entsprechen.
+
+(2) Zurückgewiesene Datensätze gelten als nicht eingereicht. Die
+Zurückweisungsnachricht ist einschließlich der Angabe des
+Zurückweisungsgrundes im MVP-Portal abrufbar.
 
 
 ## Kapitel 5 - Ordnungswidrigkeiten
@@ -1062,6 +1218,12 @@ Versicherungsberichterstattungs-Verordnung in der bis zum 31. März
 Anlage 2 Abschnitt A und Abschnitt C Nummer 3 der
 Versicherungsberichterstattungs-Verordnung in der bis zum 31. März
 2016 geltenden Fassung anzuwenden.
+
+(5) Auf den internen jährlichen Bericht für ein Geschäftsjahr, das vor
+dem 1. Januar 2025 endet, und auf den internen vierteljährlichen
+Zwischenbericht für ein Berichtsvierteljahr, das vor dem 1. Januar
+2025 begonnen hat, ist die Versicherungsberichterstattungs-Verordnung
+in der bis zum 16. Dezember 2024 geltenden Fassung anzuwenden.
 
 (zu § 23)
 
@@ -1322,12 +1484,12 @@ Die regionale Herkunft des Versicherungsgeschäfts
 
 *    *   70
 
-    *   Europa
+    *   (weggefallen)
 
 
 *    *   71
 
-    *   Europäische Union (EU)
+    *   (weggefallen)
 
 
 *    *   72
@@ -1337,12 +1499,12 @@ Die regionale Herkunft des Versicherungsgeschäfts
 
 *    *   73
 
-    *   Teilnehmerstaaten der Wirtschafts- und Währungsunion (WWU)
+    *   (weggefallen)
 
 
 *    *   81
 
-    *   USA
+    *   (weggefallen)
 
 
 *    *   99
@@ -1442,6 +1604,15 @@ Die Zusammenfassung von Versicherungsarten
     *   19
 
 
+*    *   01.1.8
+
+    *   Paneuropäisches Privates Pensionsprodukt gemäß der Verordnung (EU)
+        2019/1238 in der Ansparphase
+        0
+
+    *   19
+
+
 *    *   **01.2**
 
     *   **Kollektivversicherung mit Überschussbeteiligung, bei der das
@@ -1495,6 +1666,15 @@ Die Zusammenfassung von Versicherungsarten
     *   Reine Beitragszusagen nach § 1 Absatz 2 Nummer 2a BetrAVG
 
     *   21
+
+
+*    *   01.2.7
+
+    *   Paneuropäisches Privates Pensionsprodukt gemäß der Verordnung (EU)
+        2019/1238 in der Ansparphase
+        0
+
+    *   19
 
 
 *    *   **01.3**
@@ -1582,6 +1762,15 @@ Die Zusammenfassung von Versicherungsarten
         Versicherungsnehmer getragen wird
 
     *   21
+
+
+*    *   01.4.6
+
+    *   Paneuropäisches Privates Pensionsprodukt gemäß der Verordnung (EU)
+        2019/1238 in der Ansparphase
+        0
+
+    *   19
 
 
 *    *   **01.5**
@@ -3323,6 +3512,28 @@ Die Zusammenfassung von Versicherungsarten
     *   **11**
 
 
+*    *   **26**
+
+    *   **Vz: Cyberversicherung (einschließlich der
+        Betriebsunterbrechungsversicherung aufgrund von Cybervorfällen)**
+
+    *   **9; 13; 16 d, e, f, i, k**
+
+
+*    *   **26.1**
+
+    *   **Cyberversicherung Stand alone**
+
+    *   **9; 13; 16 d, e, f, i, k**
+
+
+*    *   **26.2**
+
+    *   **Cyberversicherung Cyber-Zusatzdeckungen**
+
+    *   **9; 13; 16 d, e, f, i, k**
+
+
 *    *   **28**
 
     *   Vz: Sonstige Sachversicherung (09, 10, 11, 12, 15, 16, 17, 18, 21 und
@@ -3747,6 +3958,12 @@ _\_\__\_\__\_\__\_\__\_\_\_\_
 
 **Anmerkungen zum Abschnitt C**
 
+*    *   0
+
+    *   Verträge in der Auszahlungsphase sind in der passenden allgemeinen
+        Unterart (01.1.3, 01.2.4 oder 01.4.1) zu erfassen.
+
+
 *    *   1
 
     *   Hierzu zählen alle Landfahrzeuge, deren durch die Bauart bedingte
@@ -3829,14 +4046,13 @@ _\_\__\_\__\_\__\_\__\_\_\_\_
 
 ## Abschnitt D
 
-[^F799031_D_01_BJNR285800017BJNE003102128]
+[^F831945_1_BJNR285800017BJNE003103128]
 Bestandsgruppen
-[^F799031_D_02_BJNR285800017BJNE003102128]
-,
+[^F831945_2_BJNR285800017BJNE003103128]
 ##
 
 
-100[^F799031_D_03_BJNR285800017BJNE003102128]
+100[^F831945_3_BJNR285800017BJNE003103128]
  Inlandsgeschäft (einschließlich Dienstleistungsgeschäft)
 
     110 Einzelversicherung mit Überschussbeteiligung, bei der das Anlagerisiko
@@ -3853,7 +4069,7 @@ Bestandsgruppen
             Erlebensfallcharakter
 
 
-        114[^F799031_D_04_BJNR285800017BJNE003102128]
+        114[^F831945_4_BJNR285800017BJNE003103128]
  Berufsunfähigkeitsversicherung (einschließlich Berufsunfähigkeits-
             Zusatzversicherungen)
 
@@ -3867,6 +4083,11 @@ Bestandsgruppen
 
         117 Kapitalbildende Lebensversicherung mit überwiegendem
             Erlebensfallcharakter nach § 1 AltZertG
+
+
+        118[^F831945_5_BJNR285800017BJNE003103128]
+ Paneuropäisches Privates Pensionsprodukt gemäß der Verordnung (EU)
+            2019/1238 in der Ansparphase
 
 
 
@@ -3899,6 +4120,10 @@ Bestandsgruppen
         127 Reine Beitragszusagen nach § 1 Absatz 2 Nummer 2a BetrAVG
 
 
+        128 Paneuropäisches Privates Pensionsprodukt gemäß der Verordnung (EU)
+            2019/1238 in der Ansparphase
+
+
 
 
 
@@ -3922,10 +4147,16 @@ Bestandsgruppen
             Versicherungsnehmer getragen wird
 
 
+        136 Paneuropäisches Privates Pensionsprodukt gemäß der Verordnung (EU)
+            2019/1238, bei dem das Anlagerisiko vom Versicherungsnehmer getragen
+            wird, in der Ansparphase
 
 
 
-    140 Eigenkapital und sonstige Dienstleistungen einschließlich des
+
+
+    140[^F831945_6_BJNR285800017BJNE003103128]
+ Eigenkapital und sonstige Dienstleistungen einschließlich des
         Geschäfts der Verwaltung von Versorgungseinrichtungen
 
 
@@ -4046,7 +4277,7 @@ umschriebene Teilbestand mindestens 30 000 Risiken umfasst oder der
 rechnungsmäßige Ertrag mindestens 5 Prozent vom Gesamtertrag der
 jeweiligen Risikoart beträgt.
 
-[^F799031_D_01_BJNR285800017BJNE003102128]:     In den Bestandsgruppen sind von den Lebensversicherungsunternehmen die
+[^F831945_1_BJNR285800017BJNE003103128]:     In den Bestandsgruppen sind von den Lebensversicherungsunternehmen die
     Verträge zu erfassen, die                             a)
     nach dem 28. Juli 1994 abgeschlossen worden sind, aber weder unter
     Artikel 16 § 2 Satz 2 des Dritten Durchführungsgesetzes/EWG zum VAG
@@ -4063,7 +4294,7 @@ jeweiligen Risikoart beträgt.
 Unbeschadet der nachfolgenden Anmerkungen 2 und 4 ist die Aufteilung
 des hier zu erfassenden Bestands durch die Gliederung der
 Bestandsgruppen vorgegeben.
-[^F799031_D_02_BJNR285800017BJNE003102128]: Umfasst eine der nachfolgend genannten Bestandsgruppen weniger als
+[^F831945_2_BJNR285800017BJNE003103128]: Umfasst eine der nachfolgend genannten Bestandsgruppen weniger als
 10 000 Einzelverträge und beträgt die Bruttobeitragseinnahme einer
 dieser Bestandsgruppen weniger als 3 Prozent der gesamten
 Bruttobeitragseinnahme des hier zu erfassenden Bestands, kann sie wie
@@ -4092,7 +4323,7 @@ Aufsichtsbehörde in einem internen Bericht zu erläutern.
 Für Fremdwährungsversicherungen ist sicherzustellen, dass durch
 entsprechende Vorkehrungen jederzeit zumindest der Zinsverlauf
 getrennt ermittelt werden kann.
-[^F799031_D_03_BJNR285800017BJNE003102128]: Alternativ zu der vorgegebenen Einteilung können die
+[^F831945_3_BJNR285800017BJNE003103128]: Alternativ zu der vorgegebenen Einteilung können die
 Berufsunfähigkeits- und Pflegerenten-Zusatzversicherungen auch in der
 Bestandsgruppe der jeweiligen Hauptversicherung abgerechnet werden.
 Hierfür ist es notwendig, dass durch entsprechende Vorkehrungen
@@ -4100,19 +4331,27 @@ jederzeit zumindest der Risiko- und Zinsverlauf für diese
 Zusatzversicherungen ermittelt werden kann. Dieses Ergebnis ist auf
 Anfrage der Aufsichtsbehörde mitzuteilen. Anmerkung 2 bleibt hiervon
 unberührt.
-[^F799031_D_04_BJNR285800017BJNE003102128]: 
+[^F831945_4_BJNR285800017BJNE003103128]: Verträge von PEPP-Produkten in der Auszahlungsphase sind in der
+passenden allgemeinen Bestandsgruppe (113, 125 oder 131) zu erfassen.
+[^F831945_5_BJNR285800017BJNE003103128]: In der Bestandsgruppe 140 sind diejenigen Beträge zu verbuchen, die
+der Unternehmenssphäre zuzuordnen sind. Hierzu gehören insbesondere
+alle Aufwendungen und Erträge im Zusammenhang mit dem Eigenkapital,
+Dienstleistungen an Dritte einschließlich des Geschäftes der
+Verwaltung von Versorgungseinrichtungen und Ertragssteuern, soweit
+diese mit dem Jahresüberschuss in Zusammenhang stehen.
+[^F831945_6_BJNR285800017BJNE003103128]: 
 (zu § 24)
 
-### Anlage 2 Anwendung der Formblätter und Nachweisungen
+### Anlage 2 Anwendung der Formulare
 
-(Fundstelle: BGBl. I 2017, 2883 - 2912)
+(Fundstelle: BGBl. I 2017, 2883 - 2912, bzgl. der einzelnen Änderungen
+vgl. Fußnote)
 
 ## Abschnitt A
 
-## Anmerkungen zu den Formblättern und Nachweisungen
+## Anmerkungen zu den Formularen
 
-## **Nr. 1: Anmerkungen zum Formblatt 100**
-
+**Nr. 1: Formular F.100.01**
 
 1.  Die Angabe ist nur von Schaden- und Unfall-VU zu machen.
 
@@ -4126,9 +4365,9 @@ unberührt.
 3.  Diese Posten gelten nur für P/St.
 
 
-4.  An die Stelle des Aktivpostens 7 c „Eingefordertes, noch nicht
+4.  An die Stelle des Aktivpostens 7.3. „Eingefordertes, noch nicht
     eingezahltes Kapital“ tritt bei Versicherungsvereinen auf
-    Gegenseitigkeit der Aktivposten 7 c „Wechsel der Zeichner des
+    Gegenseitigkeit der Aktivposten 7.3. „Wechsel der Zeichner des
     Gründungsstocks“ und bei anderen Versicherungsunternehmen, die kein
     gezeichnetes Kapital haben, der den ausstehenden Einlagen auf das
     gezeichnete Kapital entsprechende Posten.
@@ -4180,15 +4419,16 @@ unberührt.
 
 10. Wird die Bilanz unter Berücksichtigung der teilweisen Verwendung des
     Jahresergebnisses aufgestellt, so treten an die Stelle der Posten in
-    den Zeilen 10 bis 13 die Posten in den Zeilen 14 bis 17.
+    den Zeilen ZE0620 bis ZE0650 die Posten in den Zeilen ZE0660 bis
+    ZE0690.
 
 
 11. Für P/St entfallen zu den Abschlussstichtagen, zu denen eine
     versicherungsmathematische Berechnung der DR nicht erfolgt, die
-    Angaben in den Zeilen 10 bis 17.
+    Angaben in den Zeilen ZE0620 bis ZE0690.
 
 
-12. Der Zusatz „laut versicherungsmathematischer Berechnung zum ...“ gilt
+12. Der Zusatz „laut versicherungsmathematischer Berechnung zum ... “ gilt
     nur für P/St.
 
 
@@ -4199,14 +4439,14 @@ unberührt.
 
 
 15. Verbindlichkeiten aus Hypotheken, Grund- und Rentenschulden sind nicht
-    hier, sondern im Passivposten 9 e auszuweisen.
+    hier, sondern im Passivposten 9.5. auszuweisen.
 
 
 16. Unter diesem Posten sind auch alle diejenigen Verbindlichkeiten aus
-    Darlehen auszuweisen, die nicht dem Passivposten 9 d
-    „Verbindlichkeiten gegenüber Kreditinstituten“ (Seite 5, Zeile 18,
-    Spalte 03) oder dem Passivposten 9 e „Verbindlichkeiten aus
-    Grundpfandrechten“ (Seite 5, Zeile 19, Spalte 03) zugeordnet werden
+    Darlehen auszuweisen, die nicht dem Passivposten 9.4.
+    „Verbindlichkeiten gegenüber Kreditinstituten“ (Zeile ZE1220, Spalte
+    SP0030) oder dem Passivposten 9.5. „Verbindlichkeiten aus
+    Grundpfandrechten“ (Zeile ZE1230, Spalte SP0030) zugeordnet werden
     können. Hierzu gehören beispielsweise auch die bestehenden
     Verbindlichkeiten aus in Anspruch genommenen Berlin-Darlehen gemäß §
     17 Berlinförderungsgesetz zur Finanzierung von Baumaßnahmen, sofern
@@ -4215,8 +4455,7 @@ unberührt.
 
 
 
-## **Nr. 2: Anmerkungen zum Formblatt 200**
-
+**Nr. 2: Formular F.200.01**
 
 1.  Diese nachrichtlichen Angaben sind nur in der gesonderten Gewinn- und
     Verlust-Rechnung für das selbst abgeschlossene Versicherungsgeschäft
@@ -4280,7 +4519,7 @@ unberührt.
 
 
 12. Die folgenden sonstigen Erträge sind nicht hier, sondern unter dem
-    Posten 1 a „gebuchte Bruttobeiträge“ auszuweisen:
+    Posten 1.1. „gebuchte Bruttobeiträge“ auszuweisen:
 
     a)  Eingänge aus abgeschriebenen oder stornierten Beitragsforderungen an
         die Versicherungsnehmer;
@@ -4304,7 +4543,7 @@ unberührt.
     a)  Die Abschreibungen von uneinbringlich gewordenen Beitragsforderungen
         an die Versicherungsnehmer sowie die Erhöhung der
         Pauschalwertberichtigung zu den Beitragsforderungen an die
-        Versicherungsnehmer sind von dem Posten 1 a „gebuchte Bruttobeiträge“
+        Versicherungsnehmer sind von dem Posten 1.1. „gebuchte Bruttobeiträge“
         abzusetzen.
 
 
@@ -4371,8 +4610,7 @@ unberührt.
 
 
 
-## **Nr. 3: Anmerkungen zum Formblatt 300**
-
+**Nr. 3: Formular F.300.01**
 
 1.  Dieser Posten gilt nur für das selbst abgeschlossene
     Versicherungsgeschäft in den Versicherungszweigen 01
@@ -4386,8 +4624,8 @@ unberührt.
 
 
 3.  Sofern das Transport-VG nach ZJ abgerechnet wird, sind unter dem
-    Posten 6 a die Aufwendungen für die VF des laufenden ZJ und unter dem
-    Posten 6 b die Aufwendungen für die VF vorhergehender ZJ auszuweisen.
+    Posten 6.1. die Aufwendungen für die VF des laufenden ZJ und unter dem
+    Posten 6b die Aufwendungen für die VF vorhergehender ZJ auszuweisen.
 
 
 4.  Dieser Posten gilt nicht für Krankenversicherungsunternehmen.
@@ -4400,7 +4638,7 @@ unberührt.
 
 
 6.  Die folgenden sonstigen Erträge sind nicht hier, sondern unter dem
-    Posten 1 a „gebuchte Bruttobeiträge“ auszuweisen:
+    Posten 1.1. „gebuchte Bruttobeiträge“ auszuweisen:
 
     a)  Eingänge aus abgeschriebenen oder stornierten Beitragsforderungen an
         die Versicherungsnehmer;
@@ -4461,8 +4699,7 @@ unberührt.
 
 
 
-## **Nr. 4: Anmerkungen zur Nachweisung 101**
-
+**Nr. 4: Formular F.101.01**
 
 1.  Für die Zuordnung zu den einzelnen Anlagearten gelten die Regelungen
     der RechVersV.
@@ -4472,8 +4709,8 @@ unberührt.
     Berichtszeitraums als Zugang oder Abgang auszuweisen.
 
 
-3.  Bei den Zuschreibungen (Seite 1, Zeile 25, Spalte 03) und
-    Abschreibungen (Seite 2, Zeile 25, Spalte 02) sind auch die nicht
+3.  Bei den Zuschreibungen (Zeile ZE0250, Spalte SP0030) und
+    Abschreibungen (Zeile ZE0250, Spalte SP0060) sind auch die nicht
     realisierten Gewinne und Verluste aus diesen Kapitalanlagen
     auszuweisen.
 
@@ -4499,8 +4736,7 @@ unberührt.
 
 
 
-## **Nr. 5: Anmerkungen zur Nachweisung 103**
-
+**Nr. 5: Formular F.103.01**
 
 1.  Die Kapitalanlagen für Rechnung und Risiko von Inhabern von
     Lebensversicherungspolicen, die versicherungstechnischen
@@ -4522,14 +4758,14 @@ unberührt.
     Verbindlichkeiten aus Hypotheken, Grund- und Rentenschulden.
 
 
-4.  In Spalte 04 sind einzutragen die RV-Anteile an den in § 125 Absatz 2
-    VAG genannten versicherungstechnischen Bruttorückstellungen, soweit
-    diesen keine Depotverbindlichkeiten für Versicherungen der in § 126
-    Absatz 3 und 4 Satz 1 VAG genannten Art gegenüberstehen.
+4.  In Spalte SP0040 sind einzutragen die RV-Anteile an den in § 125
+    Absatz 2 VAG genannten versicherungstechnischen Bruttorückstellungen,
+    soweit diesen keine Depotverbindlichkeiten für Versicherungen der in §
+    126 Absatz 3 und 4 Satz 1 VAG genannten Art gegenüberstehen.
 
 
-5.  Die Gesamtbeträge für die einzelnen Posten in Spalte 01 müssen mit den
-    jeweiligen Bilanzwerten übereinstimmen.
+5.  Die Gesamtbeträge für die einzelnen Posten in Spalte SP0010 müssen mit
+    den jeweiligen Bilanzwerten übereinstimmen.
 
 
 6.  Die Bilanzwerte der Grundstücke und grundstücksgleichen Rechte sind
@@ -4537,25 +4773,25 @@ unberührt.
     anzusetzen.
 
     Grundstücke und grundstücksgleiche Rechte, die zum Sicherungsvermögen
-    gehören, sind in Spalte 02 mit ihren Anrechnungswerten für das
+    gehören, sind in Spalte SP0020 mit ihren Anrechnungswerten für das
     Sicherungsvermögen anzusetzen. Wenn der Anrechnungswert geringer ist
     als der Bilanzwert, ist die Differenz als restliches Vermögen
     auszuweisen. Sofern der Anrechnungswert höher ist als der Bilanzwert,
-    ist die Differenz in Spalte 04 als Minusposten anzusetzen.
+    ist die Differenz in Spalte SP0040 als Minusposten anzusetzen.
 
 
 7.  In diesem Bilanzposten enthaltene rückständige Zins- und
-    Mietforderungen können in Spalte 02, alle übrigen sonstigen
-    Forderungen dürfen nur in Spalte 04 eingesetzt werden.
+    Mietforderungen können in Spalte SP0020, alle übrigen sonstigen
+    Forderungen dürfen nur in Spalte SP0040 eingesetzt werden.
 
 
 8.  In diesem Bilanzposten enthaltene vorausgezahlte
-    Versicherungsleistungen können in Spalte 02, alle übrigen sonstigen
-    Forderungen dürfen nur in Spalte 04 eingesetzt werden.
+    Versicherungsleistungen können in Spalte SP0020, alle übrigen
+    sonstigen Forderungen dürfen nur in Spalte SP0040 eingesetzt werden.
 
 
-9.  In der Spalte 02 sind die RV-Anteile im Sinne des § 126 Absatz 3 VAG
-    einzutragen.
+9.  In der Spalte SP0020 sind die RV-Anteile im Sinne des § 126 Absatz 3
+    VAG einzutragen.
 
 
 10. Dieser Posten entspricht der Summe der Aktivseite der Bilanz abzüglich
@@ -4565,16 +4801,15 @@ unberührt.
 
 
 
-## **Nr. 6: Anmerkungen zur Nachweisung 201**
-
+**Nr. 6: Formular F.201.01**
 
 1.  Für die Zuordnung zu den einzelnen Anlagearten gelten die Regelungen
     der RechVersV.
 
 
 2.  Hier sind auch die nicht realisierten Gewinne aus Kapitalanlagen in
-    Spalte 02 und die nicht realisierten Verluste aus Kapitalanlagen in
-    Spalte 04 zu berücksichtigen.
+    Spalte SP0020 und die nicht realisierten Verluste aus Kapitalanlagen
+    in Spalte SP0040 zu berücksichtigen.
 
 
 3.  Die Zuordnung zu den laufenden und übrigen Erträgen oder Aufwendungen
@@ -4596,14 +4831,13 @@ unberührt.
 
 
 
-## **Nr. 7: Anmerkungen zur Nachweisung 202**
-
+**Nr. 7: Formular F.202.01**
 
 1.  Die Summe der folgenden in der Gewinn- und Verlust-Rechnung
     ausgewiesenen funktionalen Aufwendungen (versicherungstechnische
     Rechnung) sowie sonstiger Aufwendungen im Rahmen der gewöhnlichen
     Geschäftstätigkeit ist auf die Posten des Personal- und Sachaufwands
-    der Nachweisung 202 aufzugliedern:
+    des Formulars F.202.01 aufzugliedern:
 
     a)  Regulierungsaufwendungen für Versicherungsfälle ohne Zahlungen für
         Versicherungsfälle an die Bezugsberechtigten und ohne Berücksichtigung
@@ -4648,7 +4882,7 @@ unberührt.
     Beteiligung des Arbeitgebers an den sozialen Abgaben des
     Arbeitnehmers. Ebenfalls nicht einzubeziehen sind Aufwendungen für
     Leiharbeitnehmer und freie Versicherungsvertreter sowie Mitglieder des
-    Aufsichtsrats (vgl. Unternummern 4, 7 und 8).
+    Aufsichtsrats (vgl.Unternummern 4, 7 und 8).
 
 
 3.  Gesetzliche und übrige Sozialaufwendungen: Arbeitgeberanteile zur
@@ -4690,8 +4924,7 @@ unberührt.
     Aufwendungen für die Regulierung von Versicherungsfällen, Rückkäufen,
     Rückgewährbeträgen und Austrittsvergütungen. Anzugeben sind weiterhin
     Aufwendungen für Leiharbeitnehmer, für Mieten, Pachten und Leasing,
-    für Bürobedarf und
-    IT-Dienstleistungen                    sowie Reise- und Werbeaufwand.
+    für Bürobedarf und IT-Dienstleistungen sowie Reise- und Werbeaufwand.
     Nicht anzugeben sind Investitionen in Sachanlagen und in immaterielle
     Vermögensgegenstände sowie die kalkulatorischen Mietaufwendungen für
     die eigengenutzten Grundstücke und Gebäude (vgl. Unternummer 8
@@ -4761,7 +4994,7 @@ unberührt.
     Geschäftsjahres angegeben werden.
 
 
-10. Berechnung der Vollzeiteinheiten (VZE) in Spalte 4: Summe der
+10. Berechnung der Vollzeiteinheiten (VZE) in Spalte SP0040: Summe der
     vertraglich vereinbarten Wochenarbeitsstunden aller
     Teilzeitbeschäftigten dividiert durch die geltende reguläre
     Wochenarbeitszeit eines Vollzeitbeschäftigten. Das Ergebnis ist
@@ -4777,10 +5010,9 @@ unberührt.
 
 
 
-## **Nr. 8: Anmerkungen zur Nachweisung 203**
+**Nr. 8: Formular F.203.01**
 
-
-1.  Die Nachweisung ist von Pensions- und Sterbekassen sowie von kleinen
+1.  Das Formular ist von Pensions- und Sterbekassen sowie von kleinen
     Versicherungsunternehmen im Sinne des § 211 VAG einzureichen, die
     Versicherungsgeschäft in Rückdeckung übernommen oder gegeben haben.
     Angaben zu einzelnen Unternehmen oder Maklern können unterbleiben,
@@ -4821,9 +5053,9 @@ unberührt.
     Abrechnungsverbindlichkeiten mit einem Minuszeichen (–) zu versehen.
 
 
-6.  Der Gesamtsaldo ergibt sich wie folgt: (Zeile 08 + Zeile 09 + Zeile
-    13) – (Zeile 10 + Zeile 12) +/– Zeile 14. Der sich ergebende Saldo ist
-    entsprechend Unternummer 5 zu kennzeichnen.
+6.  Der Gesamtsaldo ergibt sich wie folgt: (Zeile ZE0080 + Zeile ZE0090 +
+    Zeile ZE0130) – (Zeile ZE0100 + Zeile ZE0120) +/– Zeile ZE0140. Der
+    sich ergebende Saldo ist entsprechend Unternummer 5 zu kennzeichnen.
 
 
 7.  Die Rückversicherungsbeziehungen, über die berichtet wird, sind
@@ -4844,8 +5076,7 @@ unberührt.
 
 
 
-## **Nr. 9: Anmerkungen zur Nachweisung 110**
-
+**Nr. 9: Formular F.110.01**
 
 1.  Hier ist der Betrag der für die Zuteilung im Folgejahr innerhalb der
     RfB festgelegten deklarierten Überschussanteile zuzüglich des
@@ -4853,19 +5084,20 @@ unberührt.
     Direktgutschrift anzugeben.
 
 
-2.  Die Zusammensetzung dieses Postens ist in einer Anlage zu erläutern.
-    Eine Überführung der verzinslichen Ansammlung in die
+2.  Die Zusammensetzung dieses Postens ist in einer Anlage als Bestandteil
+    des qualitativen Formularteils gemäß § 24b Absatz 2 Satz 1 zu
+    erläutern. Eine Überführung der verzinslichen Ansammlung in die
     Deckungsrückstellung, die über die RfB geleitet wird (z. B. in der
     Rentenversicherung bei Rentenübergang), ist als sonstige
     Zuführung/sonstige Entnahme auszuweisen. Soweit der Aufwand für die
     Direktgutschrift durch eine erfolgswirksame Entnahme aus der RfB
     finanziert wurde, ist eine sonstige Entnahme zu zeigen; der
-    entsprechende sonstige versicherungstechnische Ertrag ist in
-    Nachweisung 219, Seite 5, Zeile 06 auszuweisen. In gleicher Weise sind
-    Entnahmen zu behandeln, die auf Grund des § 140 Absatz 1 Satz 2 VAG
-    erfolgen. Rückführungen aus dem kollektiven Teil der RfB, die auf
-    Grund des § 3 Absatz 4 RfBV zugunsten einzelner Teilbestände geleistet
-    werden, sind in Zeile 09 auszuweisen.
+    entsprechende sonstige versicherungstechnische Ertrag ist in Formular
+    F.219.01 Zeile ZE1100 auszuweisen. In gleicher Weise sind Entnahmen zu
+    behandeln, die auf Grund des § 140 Absatz 1 Satz 2 VAG erfolgen.
+    Rückführungen aus dem kollektiven Teil der RfB, die auf Grund des § 3
+    Absatz 4 RfBV zugunsten einzelner Teilbestände geleistet werden, sind
+    in Zeile ZE0090 auszuweisen.
 
 
 3.  Hier sind diejenigen Bewegungen zwischen der RfB des Neu- und
@@ -4881,7 +5113,8 @@ unberührt.
     der RfB zu entnehmen sind. Dabei sind auch Beträge zu berücksichtigen,
     die infolge versetzter oder verlängerter Deklarationszeiträume
     voraussichtlich nach dem Ende des folgenden Geschäftsjahres entnommen
-    werden; dieser Teilbetrag ist in einer Anlage zu nennen.
+    werden; dieser Teilbetrag ist in einer Anlage als Bestandteil des
+    qualitativen Formularteils gemäß § 24b Absatz 2 Satz 1 zu nennen.
 
 
 5.  Hier ist der Schlussüberschussanteilfonds nach Maßgabe des § 28 Absatz
@@ -4908,8 +5141,7 @@ unberührt.
 
 
 
-## **Nr. 10: Anmerkungen zur Nachweisung 111**
-
+**Nr. 10: Formular F.111.01**
 
 1.  Als Neubestand sind alle Verträge zu behandeln, die nicht als
     Altbestand zu qualifizieren sind. Als Altbestand sind alle nach von
@@ -4924,10 +5156,10 @@ unberührt.
     sind beim Altbestand zu erfassen, soweit dies bereits am 12. April
     2008 der Fall war.
 
-    Die Nw 111 ist für jede Bestandsgruppe des Neubestands gemäß Anlage 1
-    Abschnitt D mit Ausnahme der Bestandsgruppen 132 und 140 vorzulegen.
-    Für die Kennzeichnung der Bestandsgruppe ist die entsprechende
-    Kennzahl in der Kopfzeile der Nachweisung einzusetzen.
+    Das Formular ist für jede Bestandsgruppe des Neubestands gemäß Anlage
+    1 Abschnitt D mit Ausnahme der Bestandsgruppen 132 und 140 vorzulegen.
+    Für die Kennzeichnung der Bestandsgruppe ist Abschnitt C Ziffer 2.3 zu
+    beachten.
 
 
 2.  Hier ist der Betrag der für die Zuteilung im Folgejahr innerhalb der
@@ -4936,19 +5168,20 @@ unberührt.
     Direktgutschrift anzugeben.
 
 
-3.  Die Zusammensetzung dieses Postens ist in einer Anlage zu erläutern.
-    Eine Überführung der verzinslichen Ansammlung in die
+3.  Die Zusammensetzung dieses Postens ist in einer Anlage als Bestandteil
+    des qualitativen Formularteils gemäß § 24b Absatz 2 Satz 1 zu
+    erläutern. Eine Überführung der verzinslichen Ansammlung in die
     Deckungsrückstellung, die über die RfB geleitet wird (z. B. in der
     Rentenversicherung bei Rentenübergang), ist als sonstige
     Zuführung/sonstige Entnahme auszuweisen. Soweit der Aufwand für die
     Direktgutschrift durch eine erfolgswirksame Entnahme aus der RfB
     finanziert wurde, ist eine sonstige Entnahme zu zeigen; der
-    entsprechende sonstige versicherungstechnische Ertrag ist in
-    Nachweisung 219, Seite 5, Zeile 06 auszuweisen. In gleicher Weise sind
-    Entnahmen zu behandeln, die auf Grund des § 140 Absatz 1 Satz 2 VAG
-    erfolgen. Rückführungen aus dem kollektiven Teil der RfB, die auf
-    Grund des § 3 Absatz 4 RfBV zugunsten einzelner Teilbestände geleistet
-    werden, sind in Zeile 09 auszuweisen.
+    entsprechende sonstige versicherungstechnische Ertrag ist im Formular
+    F.219.01 Zeile ZE1100 auszuweisen. In gleicher Weise sind Entnahmen zu
+    behandeln, die auf Grund des § 140 Absatz 1 Satz 2 VAG erfolgen.
+    Rückführungen aus dem kollektiven Teil der RfB, die auf Grund des § 3
+    Absatz 4 RfBV zugunsten einzelner Teilbestände geleistet werden, sind
+    in Zeile ZE0090 auszuweisen.
 
 
 4.  Hier sind diejenigen Bewegungen zwischen der RfB des Neu- und
@@ -4964,30 +5197,30 @@ unberührt.
     der RfB zu entnehmen sind. Dabei sind auch Beträge zu berücksichtigen,
     die infolge versetzter oder verlängerter Deklarationszeiträume
     voraussichtlich nach dem Ende des folgenden Geschäftsjahres entnommen
-    werden; dieser Teilbetrag ist in einer Anlage zu nennen.
+    werden; dieser Teilbetrag ist in einer Anlage als Bestandteil des
+    qualitativen Formularteils gemäß § 24b Absatz 2 Satz 1 zu nennen.
 
 
 6.  Hier ist der Schlussüberschussanteilfonds nach Maßgabe des § 28 Absatz
     8 Nummer 2 Buchstabe e, f und g RechVersV anzugeben.
 
 
-7.  Hier sind die in Spalte 01 enthaltenen Beträge auszuweisen, die auf
-    die Mindestbeteiligung an den Bewertungsreserven und auf die
+7.  Hier sind die in Spalte SP0010 enthaltenen Beträge auszuweisen, die
+    auf die Mindestbeteiligung an den Bewertungsreserven und auf die
     Beteiligung an den Bewertungsreserven, die über die Mindestbeteiligung
     hinausgeht, entfallen. Ist eine Mindestbeteiligung nicht vorgesehen,
-    bleibt Spalte 02 leer.
+    bleibt Spalte SP0020 leer.
 
 
 8.  Soweit in der Rentenversicherung für die Überschussverwendungsform
     „Gewinnrente” innerhalb der RfB eine Teilrückstellung gebildet wird
-    (Gewinnrentenfonds), ist der in Spalte 01 enthaltene Betrag hier
+    (Gewinnrentenfonds), ist der in Spalte SP0010 enthaltene Betrag hier
     gesondert auszuweisen.
 
 
 
 
-## **Nr. 11: Anmerkungen zur Nachweisung 112**
-
+**Nr. 11: Formular F.112.01**
 
 1.  Als Altbestand sind alle nach von der Aufsichtsbehörde genehmigten
     Geschäftsplänen abgeschlossenen Verträge zu behandeln, die bis zum 28.
@@ -5001,18 +5234,16 @@ unberührt.
     soweit dies bereits am 12. April 2008 der Fall war. Alle anderen
     Verträge sind als Neubestand zu behandeln.
 
-    Die Nw 112 ist für jeden Abrechnungsverband des Altbestands sowie für
-    den gesamten Altbestand vorzulegen. Die Aufteilung des Altbestands in
-    Abrechnungsverbände ergibt sich aus dem von der Aufsichtsbehörde
+    Das Formular ist für jeden Abrechnungsverband des Altbestands sowie
+    für den gesamten Altbestand vorzulegen. Die Aufteilung des Altbestands
+    in Abrechnungsverbände ergibt sich aus dem von der Aufsichtsbehörde
     genehmigten Gesamtgeschäftsplan für die Überschussbeteiligung. Die
     Abrechnungsverbände sind fortlaufend zu nummerieren; der gesamte
-    Altbestand erhält die Nummer 099. Bei der erstmaligen Einreichung und
-    nach jeder Änderung der Aufteilung des Altbestands in
-    Abrechnungsverbände ist der Aufsichtsbehörde eine Liste mit der
-    Zuordnung der Abrechnungsverbände zu den fortlaufenden Nummern
-    einzureichen. Freiwerdende Nummern sind nicht neu zu belegen. Für die
-    Kennzeichnung des Abrechnungsverbands ist die fortlaufende Nummer in
-    der Kopfzeile der Nachweisung einzusetzen.
+    Altbestand erhält die Nummer 099. Freiwerdende Nummern sind nicht neu
+    zu belegen. Die Kennzeichnung des Abrechnungsverbands ist gemäß
+    Abschnitt C Ziffer 2.4 vorzunehmen. Mit dem Formular F.030.01 ist die
+    Liste mit der Zuordnung der Abrechnungsverbände (außer
+    Abrechnungsverband 099) zu den fortlaufenden Nummern einzureichen.
 
 
 2.  Hier ist der Betrag der für die Zuteilung im Folgejahr innerhalb der
@@ -5021,19 +5252,20 @@ unberührt.
     Direktgutschrift anzugeben.
 
 
-3.  Die Zusammensetzung dieses Postens ist in einer Anlage zu erläutern.
-    Eine Überführung der verzinslichen Ansammlung in die
+3.  Die Zusammensetzung dieses Postens ist in einer Anlage als Bestandteil
+    des qualitativen Formularteils gemäß § 24b Absatz 2 Satz 1 zu
+    erläutern. Eine Überführung der verzinslichen Ansammlung in die
     Deckungsrückstellung, die über die RfB geleitet wird (z. B. in der
     Rentenversicherung bei Rentenübergang), ist als sonstige
     Zuführung/sonstige Entnahme auszuweisen. Soweit der Aufwand für die
     Direktgutschrift durch eine erfolgswirksame Entnahme aus der RfB
     finanziert wurde, ist eine sonstige Entnahme zu zeigen; der
-    entsprechende sonstige versicherungstechnische Ertrag ist in
-    Nachweisung 219, Seite 5, Zeile 06 auszuweisen. In gleicher Weise sind
-    Entnahmen zu behandeln, die auf Grund des § 140 Absatz 1 Satz 2 VAG
-    erfolgen. Rückführungen aus dem kollektiven Teil der RfB, die auf
-    Grund des § 3 Absatz 4 RfBV zugunsten einzelner Teilbestände geleistet
-    werden, sind in Zeile 09 auszuweisen.
+    entsprechende sonstige versicherungstechnische Ertrag ist im Formular
+    F.219.01 Zeile ZE1100 auszuweisen. In gleicher Weise sind Entnahmen zu
+    behandeln, die auf Grund des § 140 Absatz 1 Satz 2 VAG erfolgen.
+    Rückführungen aus dem kollektiven Teil der RfB, die auf Grund des § 3
+    Absatz 4 RfBV zugunsten einzelner Teilbestände geleistet werden, sind
+    in Zeile ZE0090 auszuweisen.
 
 
 4.  Hier sind diejenigen Bewegungen zwischen der RfB des Neu- und
@@ -5049,32 +5281,32 @@ unberührt.
     der RfB zu entnehmen sind. Dabei sind auch Beträge zu berücksichtigen,
     die infolge versetzter oder verlängerter Deklarationszeiträume
     voraussichtlich nach dem Ende des folgenden Geschäftsjahres entnommen
-    werden; dieser Teilbetrag ist in einer Anlage zu nennen.
+    werden; dieser Teilbetrag ist in einer Anlage als Bestandteil des
+    qualitativen Formularteils gemäß § 24b Absatz 2 Satz 1 zu nennen.
 
 
 6.  Hier ist der Schlussüberschussanteilfonds nach Maßgabe des § 28 Absatz
     8 Nummer 2 Buchstabe e, f und g RechVersV anzugeben.
 
 
-7.  Hier sind die in Spalte 01 enthaltenen Beträge auszuweisen, die auf
-    die Mindestbeteiligung an den Bewertungsreserven und auf die
+7.  Hier sind die in Spalte SP0010 enthaltenen Beträge auszuweisen, die
+    auf die Mindestbeteiligung an den Bewertungsreserven und auf die
     Beteiligung an den Bewertungsreserven, die über die Mindestbeteiligung
     hinausgeht, entfallen. Ist eine Mindestbeteiligung nicht vorgesehen,
-    bleibt Spalte 02 leer.
+    bleibt Spalte SP0020 leer.
 
 
 8.  Soweit in der Rentenversicherung im Rahmen der
     Überschussverwendungsform „Gewinnrente“ innerhalb der RfB eine
     Teilrückstellung gebildet wird (Gewinnrentenfonds), ist der in Spalte
-    01 enthaltene Betrag hier gesondert auszuweisen.
+    SP0010 enthaltene Betrag hier gesondert auszuweisen.
 
 
 
 
-## **Nr. 12: Anmerkungen zur Nachweisung 113**
+**Nr. 12: Formular F.113.01**
 
-
-1.  Die Nachweisung ist für folgende Teilkollektivgruppen vorzulegen:
+1.  Das Formular ist für folgende Teilkollektivgruppen vorzulegen:
 
     a)  für den Bestand sämtlicher überschussberechtigter Verträge
         (Teilkollektivgruppe 399);
@@ -5090,15 +5322,16 @@ unberührt.
 
 
 
-    Die Abgrenzung der Teilkollektivgruppen nach den Buchstaben b und c
-    ist in einer Anlage zu erläutern. Eine Teilkollektivgruppe nach
+    Mit Formular F.030.02 ist die Abgrenzung der Teilkollektivgruppen nach
+    den Buchstaben b und c zu erläutern. Eine Teilkollektivgruppe nach
     Buchstabe c hat alle überschussberechtigten Verträge zu umfassen, die
     im Rahmen der §§ 3 und 4 RfBV zu demselben kollektiven Teil der RfB
     beitragen können. Die Teilkollektivgruppen nach Buchstabe c sind
     fortlaufend zu nummerieren, beginnend mit der Nummer 301. Frei
     werdende Nummern sind nicht neu zu belegen. Die für die
     Teilkollektivgruppen 300 bis 398 angegebenen Euro-Beträge addieren
-    sich zur Teilkollektivgruppe 399.
+    sich zur Teilkollektivgruppe 399. Die Kennzeichnung der
+    Teilkollektivgruppe ist gemäß Abschnitt C Ziffer 2.5 vorzunehmen.
 
 
 2.  Hier ist der Betrag der für die Zuteilung im Folgejahr innerhalb der
@@ -5114,23 +5347,25 @@ unberührt.
 
 4.  Die Prozentsätze sind aufgerundet als ganze Zahl anzugeben,
     beispielsweise „100“ für 100 Prozent. Für die Teilkollektivgruppen 300
-    und 399 ist in Zeile 04 formal die Zahl „100“ und in Zeile 05 formal
-    die Zahl „60“ einzutragen.
+    und 399 ist in Zeile ZE0040 formal die Dezimalzahl „1 000“ (für 100
+    Prozent) und in Zeile ZE0050 formal die Dezimalzahl „0.600“ (für 60
+    Prozent) zu verwenden.
 
 
-5.  Die Zusammensetzung dieses Postens ist in einer Anlage zu erläutern.
-    Eine Überführung der verzinslichen Ansammlung in die
+5.  Die Zusammensetzung dieses Postens ist in einer Anlage als Bestandteil
+    des qualitativen Formularteils gemäß § 24b Absatz 2 Satz 1 zu
+    erläutern. Eine Überführung der verzinslichen Ansammlung in die
     Deckungsrückstellung, die über die RfB geleitet wird (z. B. in der
     Rentenversicherung bei Rentenübergang), ist als sonstige
     Zuführung/sonstige Entnahme auszuweisen. Soweit der Aufwand für die
     Direktgutschrift durch eine erfolgswirksame Entnahme aus der RfB
     finanziert wurde, ist eine sonstige Entnahme zu zeigen; der
-    entsprechende sonstige versicherungstechnische Ertrag ist in
-    Nachweisung 219, Seite 5, Zeile 06 auszuweisen. In gleicher Weise sind
-    Entnahmen zu behandeln, die auf Grund des § 140 Absatz 1 Satz 2 VAG
-    erfolgen. Rückführungen aus dem kollektiven Teil der RfB, die auf
-    Grund des § 3 Absatz 4 RfBV zugunsten einzelner Teilbestände geleistet
-    werden, sind in Zeile 09 auszuweisen.
+    entsprechende sonstige versicherungstechnische Ertrag ist im Formular
+    F.219.01 Zeile ZE1100 auszuweisen. In gleicher Weise sind Entnahmen zu
+    behandeln, die auf Grund des § 140 Absatz 1 Satz 2 VAG erfolgen.
+    Rückführungen aus dem kollektiven Teil der RfB, die auf Grund des § 3
+    Absatz 4 RfBV zugunsten einzelner Teilbestände geleistet werden, sind
+    in Zeile ZE0090 auszuweisen.
 
 
 6.  Hier sind die Entnahmen aus der RfB anzugeben, die auf die Beteiligung
@@ -5143,9 +5378,10 @@ unberührt.
     Grund des § 3 Absatz 2 und 3 RfBV stattfinden. Mittelabflüsse sind mit
     einem negativen Vorzeichen zu versehen. Mittelzuflüsse sind ohne
     Vorzeichen anzugeben. Rückführungen aus dem kollektiven Teil der RfB
-    an die Teilbestände sind in einer Anlage zu erläutern; dabei ist
-    insbesondere auf den Grund der Rückführung und den verwendeten
-    Verteilungsschlüssel einzugehen.
+    an die Teilbestände sind in einer Anlage als Bestandteil des
+    qualitativen Formularteils gemäß § 24b Absatz 2 Satz 1 zu erläutern;
+    dabei ist insbesondere auf den Grund der Rückführung und den
+    verwendeten Verteilungsschlüssel einzugehen.
 
 
 8.  Hier sind die Beträge anzugeben, die auf Grund der Deklaration bzw.
@@ -5154,7 +5390,8 @@ unberührt.
     der RfB zu entnehmen sind. Dabei sind auch Beträge zu berücksichtigen,
     die infolge versetzter oder verlängerter Deklarationszeiträume
     voraussichtlich nach dem Ende des folgenden Geschäftsjahres entnommen
-    werden; dieser Teilbetrag ist in einer Anlage zu nennen.
+    werden; dieser Teilbetrag ist in einer Anlage als Bestandteil des
+    qualitativen Formularteils gemäß § 24b Absatz 2 Satz 1 zu nennen.
 
 
 9.  Hier ist der Schlussüberschussanteilfonds nach Maßgabe des § 28 Absatz
@@ -5175,32 +5412,30 @@ unberührt.
     2008 der Fall war.
 
 
-11. In den Zeilen 06 bis 19 der Spalte 04 ist die Bewegung des kollektiven
-    Teils der RfB, der der Teilkollektivgruppe zugeordnet ist,
+11. In den Zeilen ZE0060 bis ZE0190 der Spalte SP0040 ist die Bewegung des
+    kollektiven Teils der RfB, der der Teilkollektivgruppe zugeordnet ist,
     darzustellen.
 
 
 
 
-## **Nr. 13: Anmerkungen zur Nachweisung 210**
-
+**Nr. 13: Formular F.210.01**
 
 1.  Bei Mitversicherung sind von jedem der beteiligten Unternehmen die
     Anzahl der Versicherungsverhältnisse, der Beitrag und die
     Versicherungssumme jeweils anteilig anzugeben.
 
 
-2.  Die Nachweisung ist vorzulegen
+2.  Das Formular ist vorzulegen
 
-    a)  für den gesamten Versicherungszweig Lebensversicherung, wobei in der
-        Kopfzeile der Nachweisung im Feld „Vz“ die Kennzahl „01“ einzusetzen
-        ist;
+    a)  für den gesamten Versicherungszweig Lebensversicherung, wobei als
+        Kennzeichnung „Vz 01“ zu verwenden ist;
 
 
     b)  für jede betriebene Versicherungsart gemäß Anlage 1 Abschnitt C, wobei
-        in der Kopfzeile der Nachweisung im Feld „Va“ die Kennzahl der
-        jeweiligen Versicherungsart ohne die führende „0“ einzusetzen ist (für
-        die Einzel-Risikoversicherung beispielsweise „112“).
+        als Kennzeichnung „Va“ zuzüglich der Kennzahl der jeweiligen
+        Versicherungsart ohne die führende „0“ zu verwenden ist (für die
+        Einzel-Risikoversicherung beispielsweise „Va 112“).
 
 
 
@@ -5212,13 +5447,13 @@ unberührt.
     getragen wird), ist dieser Bestand am Anfang des Geschäftsjahres mit
     dem Kurswert sowohl am Ende des vorausgegangenen Geschäftsjahres als
     auch am Ende des Geschäftsjahres aufzuführen. Die Zu- und Abgänge sind
-    in den Spalten 02 und 03 mit dem Kurswert zum Ende des Geschäftsjahres
-    aufzuführen.
+    in den Spalten SP0020 und SP0030 mit dem Kurswert zum Ende des
+    Geschäftsjahres aufzuführen.
 
 
 4.  Als eingelöste Versicherungsscheine sind alle ausgefertigten
     Versicherungsscheine auszuweisen, soweit ihr Einlösungsbeitrag gezahlt
-    und in den in Fb 200 ausgewiesenen Beiträgen enthalten ist.
+    und in den im Formular ausgewiesenen Beiträgen enthalten ist.
     Versicherungsscheine, die im Vorjahr als eingelöst behandelt wurden
     und bei denen sich im Geschäftsjahr herausstellt, dass sie nicht
     eingelöst wurden (z. B. bei Rückbuchung einer Lastschrift), sind von
@@ -5251,7 +5486,7 @@ unberührt.
 
 
 9.  Endet die vereinbarte Beitragszahlungsdauer bereits vor dem Ablauf der
-    Versicherung, ist nur der Wegfall des Zahlbeitrags in Spalte 03 zu
+    Versicherung, ist nur der Wegfall des Zahlbeitrags in Spalte SP0030 zu
     berücksichtigen.
 
 
@@ -5262,7 +5497,7 @@ unberührt.
     vorgenommen worden sind.
 
 
-11. Hier sind alle Versicherungen anzugeben, für die in Spalte 03 kein
+11. Hier sind alle Versicherungen anzugeben, für die in Spalte SP0030 kein
     Zahlbeitrag auszuweisen ist.
 
 
@@ -5312,15 +5547,14 @@ unberührt.
 
 
 16. Soweit im Zugang Versicherungen gegen einmalige Beitragszahlung
-    enthalten sind, sind hier die in Fb 200 unter den gebuchten
+    enthalten sind, sind hier die im Formular unter den gebuchten
     Bruttobeiträgen ausgewiesenen Beträge einschließlich der Beitragsteile
     für Zusatzversicherungen anzugeben.
 
 
 
 
-## **Nr. 14: Anmerkungen zur Nachweisung 211**
-
+**Nr. 14: Formular F.211.01**
 
 1.  Bei Mitversicherung sind von jedem der beteiligten Unternehmen die
     Anzahl der Versicherungsverhältnisse, der Beitrag und die
@@ -5369,34 +5603,34 @@ unberührt.
 
 
 
-## **Nr. 15: Anmerkungen zur Nachweisung 213**
-
+**Nr. 15: Formular F.213.01**
 
 1.  Bei diesen Ergebnisquellen sind die im Wege der Direktgutschrift
     gutgebrachten Beträge nicht als rechnungsmäßiger Aufwand zu erfassen.
 
 
-2.  Fb 200 für das selbst abgeschlossene Versicherungsgeschäft, Seite 3,
-    Zeile 16.
+2.  Formular F.200.01 für das selbst abgeschlossene Versicherungsgeschäft,
+    Zeile ZE0680.
 
 
-3.  Fb 200 für das in Rückdeckung übernommene Versicherungsgeschäft, Seite
-    5, Zeile 26.
+3.  Formular F.200.01 für das in Rückdeckung übernommene
+    Versicherungsgeschäft, Zeile ZE1300.
 
 
-4.  Fb 200 für das gesamte Versicherungsgeschäft, Seite 7, Zeile 3
-    zuzüglich Zeile 10 zuzüglich Zeile 12.
+4.  Formular F.200.01 für das gesamte Versicherungsgeschäft, Zeile ZE1590
+    zuzüglich Zeile ZE1660 zuzüglich Zeile ZE1680.
 
 
-5.  Fb 200 für das selbst abgeschlossene Versicherungsgeschäft, Seite 1,
-    Zeile 04, Spalte 04.
+5.  Formular F.200.01 für das selbst abgeschlossene Versicherungsgeschäft,
+    Zeile ZE0040, Spalte SP0040.
 
 
-6.  Nw 210 für den gesamten Versicherungszweig Lebensversicherung, Zeile
-    21, Spalte 02.
+6.  Formular F.210.01 für den gesamten Versicherungszweig
+    Lebensversicherung, Zeile ZE0210, Spalte SP0020.
 
 
-7.  Fb 100, Seite 4, Zeile 05, Spalte 02 zuzüglich Zeile 23, Spalte 03.
+7.  Formular F.100.01, Zeile ZE0830, Spalte SP0020 zuzüglich Zeile ZE1010,
+    Spalte SP0030.
 
 
 8.  Als Neubestand sind alle Verträge zu behandeln, die nicht als
@@ -5419,8 +5653,7 @@ unberührt.
 
 
 
-## **Nr. 16: Anmerkungen zur Nachweisung 214**
-
+**Nr. 16: Formular F.214.01**
 
 1.  Als Neubestand sind alle Verträge zu behandeln, die nicht als
     Altbestand zu qualifizieren sind. Als Altbestand sind alle nach von
@@ -5435,12 +5668,11 @@ unberührt.
     sind beim Altbestand zu erfassen, soweit dies bereits am 12. April
     2008 der Fall war.
 
-    Die Nw 214 ist für jede Bestandsgruppe des Neubestands gemäß Anlage 1
-    Abschnitt D vorzulegen. Für die Kennzeichnung der Bestandsgruppe ist
-    die entsprechende Kennzahl in der Kopfzeile der Nachweisung
-    einzusetzen.
+    Das Formular ist für jede Bestandsgruppe des Neubestands gemäß Anlage
+    1 Abschnitt D vorzulegen. Für die Kennzeichnung der Bestandsgruppe ist
+    Abschnitt C Ziffer 2.3 zu beachten.
 
-    In den Zeilen 18 bis 26 sind die auf den jeweils dargestellten
+    In den Zeilen ZE0180 bis ZE0260 sind die auf den jeweils dargestellten
     Teilbestand entfallenden Teilbeträge anzugeben.
 
 
@@ -5448,31 +5680,32 @@ unberührt.
     gutgebrachten Beträge nicht als rechnungsmäßiger Aufwand zu erfassen.
 
 
-3.  Werden in der Nachweisung 215 in Zeile 11 die Spalten 02 und 03 nicht
-    ausgefüllt, bleiben hier die Spalten 02 und 03 ebenfalls leer.
+3.  Werden im Formular F.215.01 in Zeile ZE0110 die Spalten SP0020 und
+    SP0030 nicht ausgefüllt, bleiben hier die Spalten SP0020 und SP0030
+    ebenfalls leer.
 
 
-4.  Fb 200 für das selbst abgeschlossene Versicherungsgeschäft, Seite 3,
-    Zeile 16. Für die Bestandsgruppen 132 und 140 ist kein Betrag
+4.  Formular F.200.01 für das selbst abgeschlossene Versicherungsgeschäft,
+    Zeile ZE0680. Für die Bestandsgruppen 132 und 140 ist kein Betrag
     anzugeben, da diese keine überschussberechtigten Verträge enthalten
     und daher kein Anteil an der RfB existiert.
 
 
-5.  Fb 200 für das selbst abgeschlossene Versicherungsgeschäft, Seite 1,
-    Zeile 04, Spalte 04.
+5.  Formular F.200.01 für das selbst abgeschlossene Versicherungsgeschäft,
+    Zeile ZE0040, Spalte SP0040.
 
 
-6.  Nw 210 für den gesamten Versicherungszweig Lebensversicherung, Zeile
-    21, Spalte 02.
+6.  Formular F.210.01 für den gesamten Versicherungszweig
+    Lebensversicherung, Zeile ZE0210, Spalte SP0020.
 
 
-7.  Fb 100, Seite 4, Zeile 05, Spalte 02 zuzüglich Zeile 23, Spalte 03.
+7.  Formular F.100.01, Zeile ZE0830, Spalte SP0020 zuzüglich Zeile ZE1010,
+    Spalte SP0030.
 
 
 
 
-## **Nr. 17: Anmerkungen zur Nachweisung 215**
-
+**Nr. 17: Formular F.215.01**
 
 1.  Als Altbestand sind alle nach von der Aufsichtsbehörde genehmigten
     Geschäftsplänen abgeschlossenen Verträge zu behandeln, die bis zum 28.
@@ -5486,18 +5719,18 @@ unberührt.
     soweit dies bereits am 12. April 2008 der Fall war. Alle anderen
     Verträge sind als Neubestand zu behandeln.
 
-    Die Nw 215 ist für jeden Abrechnungsverband des Altbestands sowie für
-    den gesamten Altbestand vorzulegen. Die Aufteilung des Altbestands in
-    Abrechnungsverbände ergibt sich aus dem von der Aufsichtsbehörde
+    Das Formular ist für jeden Abrechnungsverband des Altbestands sowie
+    für den gesamten Altbestand vorzulegen. Die Aufteilung des Altbestands
+    in Abrechnungsverbände ergibt sich aus dem von der Aufsichtsbehörde
     genehmigten Gesamtgeschäftsplan für die Überschussbeteiligung. Die
     Abrechnungsverbände sind fortlaufend zu nummerieren; der gesamte
-    Altbestand erhält die Nummer 099. Bei der erstmaligen Einreichung und
-    nach jeder Änderung der Aufteilung des Altbestands in
-    Abrechnungsverbände ist der Aufsichtsbehörde eine Liste mit der
-    Zuordnung der Abrechnungsverbände zu den fortlaufenden Nummern
-    einzureichen. Freiwerdende Nummern sind nicht neu zu belegen.
+    Altbestand erhält die Nummer 099. Freiwerdende Nummern sind nicht neu
+    zu belegen. Die Kennzeichnung des Abrechnungsverbands ist gemäß
+    Abschnitt C Ziffer 2.4 vorzunehmen. Mit dem Formular F.030.01 ist die
+    Liste mit der Zuordnung der Abrechnungsverbände (außer
+    Abrechnungsverband 099) zu den fortlaufenden Nummern einzureichen.
 
-    In den Zeilen 18 bis 26 sind die auf den jeweils dargestellten
+    In den Zeilen ZE0180 bis ZE0260 sind die auf den jeweils dargestellten
     Teilbestand entfallenden Teilbeträge anzugeben.
 
 
@@ -5508,28 +5741,28 @@ unberührt.
 3.  Soweit für den Altbestand nach einer entsprechenden Regelung im
     Gesamtgeschäftsplan für die Überschussbeteiligung nur das
     Abschlusskostenergebnis auf die Abrechnungsverbände aufzuteilen ist,
-    brauchen die Spalten 02 und 03 nicht ausgefüllt zu werden.
+    brauchen die Spalten SP0020 und SP0030 nicht ausgefüllt zu werden.
 
 
-4.  Fb 200 für das selbst abgeschlossene Versicherungsgeschäft, Seite 3,
-    Zeile 16.
+4.  Formular F.200.01 für das selbst abgeschlossene Versicherungsgeschäft,
+    Zeile ZE0680.
 
 
-5.  Fb 200 für das selbst abgeschlossene Versicherungsgeschäft, Seite 1,
-    Zeile 04, Spalte 04.
+5.  Formular F.200.01 für das selbst abgeschlossene Versicherungsgeschäft,
+    Zeile ZE0040, Spalte SP0040.
 
 
-6.  Nw 210 für den gesamten Versicherungszweig Lebensversicherung, Zeile
-    21, Spalte 02.
+6.  Formular F.210.01 für den gesamten Versicherungszweig
+    Lebensversicherung, Zeile ZE0210, Spalte SP0020.
 
 
-7.  Fb 100, Seite 4, Zeile 05, Spalte 02 zuzüglich Zeile 23, Spalte 03.
+7.  Formular F.100.01, ZE0830, Spalte SP0020 zuzüglich Zeile ZE1010,
+    Spalte SP0030.
 
 
 
 
-## **Nr. 18: Anmerkungen zur Nachweisung 216**
-
+**Nr. 18: Formular F.216.01**
 
 1.  Die Zerlegung des Tarifbeitrags einer Versicherung in die Posten 1 bis
     8 hat anhand der Rechnungsgrundlagen zu erfolgen, die für die
@@ -5584,14 +5817,15 @@ unberührt.
     Beitragszuschlag auszuweisen. Dies gilt auch, wenn die
     Beitragszuschläge durch eine Anpassung der Rechnungsgrundlagen während
     der Vertragslaufzeit entstanden sind. In diesem Fall sind ab der
-    Anpassung in Zeile 04 der Normsparbeitrag und in Zeile 05 der
+    Anpassung in Zeile ZE0040 der Normsparbeitrag und in Zeile ZE0050 der
     Normrisikobeitrag auszuweisen, wie sie sich ergeben, wenn der Tarif
     ursprünglich mit den neuen Rechnungsgrundlagen kalkuliert worden wäre.
 
 
 8.  Unter „Sonstiges“ sind nur Beträge zu erfassen, deren Ausweis nicht
     bei einem anderen Posten vorgesehen ist. Die Beträge sind in jedem
-    Falle in einer Anlage zu erläutern.
+    Falle in einer Anlage als Bestandteil des qualitativen Formularteils
+    gemäß § 24b Absatz 2 Satz 1 zu erläutern.
 
 
 9.  Übersteigt bei Versicherungsbeginn der nach Unternummer 1 ermittelte
@@ -5618,13 +5852,12 @@ unberührt.
 
 
 
-## **Nr. 19: Anmerkungen zur Nachweisung 217**
-
+**Nr. 19: Formular F.217.01**
 
 1.  Der Posten betrifft eine Auffüllung der Deckungsrückstellung bei
     Versicherungsbeginn. Muss die Deckungsrückstellung während der
     Laufzeit auf Grund unzureichender Rechnungsgrundlagen aufgefüllt
-    werden, ist der betreffende Betrag nicht hier, sondern in Zeile 25
+    werden, ist der betreffende Betrag nicht hier, sondern in Zeile ZE0250
     auszuweisen.
 
 
@@ -5647,17 +5880,18 @@ unberührt.
     Auffüllungsbeträge für die Deckungsrückstellung, die während der
     Laufzeit der Versicherung auf Grund unzureichender Rechnungsgrundlagen
     erforderlich geworden sind, und die Veränderung der
-    Deckungsrückstellung in der fondsgebundenen Versicherung laut Fb 100,
-    Seite 4, Zeile 23, Spalte 03, soweit die Änderung durch die
+    Deckungsrückstellung in der fondsgebundenen Versicherung laut Formular
+    F.100.01, Zeile ZE1010, Spalte SP0030, soweit die Änderung durch die
     Fondsanlage bedingt ist. Der Posten ist in jedem Fall in einer Anlage
-    zu erläutern und nach der Herkunft der Beträge zahlenmäßig aufzulösen.
+    als Bestandteil des qualitativen Formularteils gemäß § 24b Absatz 2
+    Satz 1 zu erläutern und nach der Herkunft der Beträge zahlenmäßig
+    aufzulösen.
 
 
-6.  Fb 200 für das selbst abgeschlossene Versicherungsgeschäft,
-    Veränderung der Brutto-Deckungsrückstellung, Seite 1, Zeile 10 oder
-    Seite 2, Zeile 24, saldiert um die Veränderung noch nicht fälliger
-    Ansprüche an Versicherungsnehmer, Seite 1, Zeile 13 T oder Seite 3,
-    Zeile 12 T.
+6.  Formular F.200.01 für das selbst abgeschlossene Versicherungsgeschäft,
+    Veränderung der Brutto-Deckungsrückstellung, Zeile ZE0100 oder Zeile
+    ZE0500, saldiert um die Veränderung noch nicht fälliger Ansprüche an
+    Versicherungsnehmer, Zeile ZE0130 T oder Zeile ZE0640 T.
 
 
 7.  Als Neubestand sind alle Verträge zu behandeln, die nicht als
@@ -5676,26 +5910,25 @@ unberührt.
 
 
 
-## **Nr. 20: Anmerkungen zur Nachweisung 218**
-
+**Nr. 20: Formular F.218.01**
 
 1.  Die im Wege der Direktgutschrift gutgebrachten Beträge sind nicht als
     rechnungsmäßiger Aufwand zu erfassen.
 
 
-2.  Diese Nachweisung ist vorzulegen:
+2.  Das Formular ist vorzulegen:
 
-    a)  für den gesamten Versicherungszweig Lebensversicherung, wobei in der
-        Kopfzeile der Nachweisung im Feld „Vz“ die Kennzahl „01“ einzusetzen
-        ist;
+    a)  für den gesamten Versicherungszweig Lebensversicherung, wobei als
+        Kennzeichnung „Vz 01“ zu verwenden ist;
 
 
-    b)  für jede Risikoart gemäß Anlage 1 Abschnitt E, wobei in der Kopfzeile
-        der Nachweisung im Feld „Risikoart“ die dreistellige Kennzahl
-        einzusetzen ist.
+    b)  für jede Risikoart gemäß Anlage 1 Abschnitt E, wobei als Kennzeichnung
+        die dreistellige Kennzahl einzusetzen ist.
 
 
 
+
+    Für die Kennzeichnung ist Abschnitt C Ziffer 2.11 zu beachten.
 
 
 3.  Soweit Regulierungsaufwendungen mit dem Risiko in engem Zusammenhang
@@ -5714,8 +5947,9 @@ unberührt.
     beispielsweise Auffüllungsbeträge für die Deckungsrückstellung
     (Aufwand) auf Grund unzureichender biometrischer Rechnungsgrundlagen;
     eine spätere Auflösung der Auffüllung (Ertrag) ist gegebenenfalls als
-    Sonstiges in dieser Nachweisung zu erfassen. Der Posten ist in jedem
-    Fall in einer Anlage zu erläutern und nach der Herkunft der Beträge
+    Sonstiges in diesem Formular zu erfassen. Der Posten ist in jedem Fall
+    in einer Anlage als Bestandteil des qualitativen Formularteils gemäß §
+    24b Absatz 2 Satz 1 zu erläutern und nach der Herkunft der Beträge
     zahlenmäßig aufzulösen.
 
 
@@ -5735,8 +5969,7 @@ unberührt.
 
 
 
-## **Nr. 21: Anmerkungen zur Nachweisung 219**
-
+**Nr. 21: Formular F.219.01**
 
 1.  Die im Wege der Direktgutschrift gutgebrachten Beträge sind nicht als
     rechnungsmäßiger Aufwand zu erfassen.
@@ -5744,31 +5977,35 @@ unberührt.
 
 2.  Unter diesem Posten sind nur Beträge zu erfassen, deren Ausweis nicht
     bei einem anderen Posten vorgesehen ist. Der Posten ist in jedem Fall
-    in einer Anlage zu erläutern und nach der Herkunft der Beträge
+    in einer Anlage als Bestandteil des qualitativen Formularteils gemäß §
+    24b Absatz 2 Satz 1 zu erläutern und nach der Herkunft der Beträge
     zahlenmäßig aufzulösen.
 
 
 3.  Hier sind ausschließlich die rechnungsmäßigen Zinsen anzugeben, die
-    auf die Deckungsrückstellung gemäß Fb 100, Seite 4, Zeile 05, Spalte
-    02 entfallen. Die Veränderung der Deckungsrückstellung für die
-    Versicherungen, bei denen das Anlagerisiko von den
-    Versicherungsnehmern getragen wird (Fb 100, Seite 4, Zeile 23, Spalte
-    03), ist in Zeile 25 auszuweisen, soweit die Veränderung auf die
-    Erträge und Aufwendungen gemäß Nachweisung 201, Seite 1, Zeile 25
-    zurückzuführen ist; optional ist für den Teil der Veränderung der
-    Deckungsrückstellung, der durch laufende Erträge und Aufwendungen
-    bedingt ist, der Ausweis in Zeile 07 zulässig. Erhöhungen der
-    Deckungsrückstellungen wegen einer Senkung des Rechnungszinses oder
-    auf Grund des § 341f Absatz 2 HGB sind in Zeile 17 auszuweisen.
+    auf die Deckungsrückstellung gemäß Formular F.100.01, Zeile ZE0830,
+    Spalte SP0020 entfallen. Die Veränderung der Deckungsrückstellung für
+    die Versicherungen, bei denen das Anlagerisiko von den
+    Versicherungsnehmern getragen wird (Formular F.100.01, Zeile ZE1010,
+    Spalte SP0030), ist in Zeile ZE0250 auszuweisen, soweit die
+    Veränderung auf die Erträge und Aufwendungen gemäß Formular F.201.01,
+    Zeile ZE0250 zurückzuführen ist; optional ist für den Teil der
+    Veränderung der Deckungsrückstellung, der durch laufende Erträge und
+    Aufwendungen bedingt ist, der Ausweis in Zeile ZE0070 zulässig.
+    Erhöhungen der Deckungsrückstellungen wegen einer Senkung des
+    Rechnungszinses oder auf Grund des § 341f Absatz 2 HGB sind in Zeile
+    ZE0170 auszuweisen.
 
 
 4.  Übernimmt der Rückversicherer die Absicherung der rechnungsmäßigen
-    Zinsen laut Zeile 11, 14 und 17, sind die damit verbundenen
-    Aufwendungen und Erträge hier auszuweisen. Dazu zählen insbesondere
-    die vom Erstversicherer gezahlten Depotzinsen, die Vergütungen des
-    Rückversicherers und die vom Rückversicherer erhaltene Beteiligung an
-    den Gewinnen. Der Posten ist in jedem Fall in einer Anlage zu
-    erläutern und nach der Herkunft der Beträge zahlenmäßig aufzulösen.
+    Zinsen laut Zeile ZE0110, ZE0140 und ZE0170, sind die damit
+    verbundenen Aufwendungen und Erträge hier auszuweisen. Dazu zählen
+    insbesondere die vom Erstversicherer gezahlten Depotzinsen, die
+    Vergütungen des Rückversicherers und die vom Rückversicherer erhaltene
+    Beteiligung an den Gewinnen. Der Posten ist in jedem Fall in einer
+    Anlage als Bestandteil des qualitativen Formularteils gemäß § 24b
+    Absatz 2 Satz 1 zu erläutern und nach der Herkunft der Beträge
+    zahlenmäßig aufzulösen.
 
 
 5.  Als Neubestand sind alle Verträge zu behandeln, die nicht als
@@ -5793,20 +6030,20 @@ unberührt.
     stehen, so z. B. Aufwendungen für Gutachten bei Selbsttötung, bei
     Berufsunfähigkeit oder Pflegebedürftigkeit und zur Frage der
     Verletzung vorvertraglicher Anzeigepflichten, sind diese nicht hier,
-    sondern in Nachweisung 218, Zeile 06 auszuweisen.
+    sondern im Formular F.218.01, Zeile ZE0060 auszuweisen.
 
 
 8.  Die Aufteilung auf Sterblichkeits- und sonstiges Risiko hat der
-    Aufteilung in der Nachweisung 218 zu folgen.
+    Aufteilung im Formular F.218.01 zu folgen.
 
 
 9.  Das Ergebnis der Zinsabsicherung aus dem in Rückdeckung gegebenen
-    Versicherungsgeschäft ist nicht hier, sondern auf Seite 1 in Zeile 15
+    Versicherungsgeschäft ist nicht hier, sondern in Zeile ZE0150
     auszuweisen.
 
 
-10. Fb 200 für das selbst abgeschlossene Versicherungsgeschäft, Seite 5,
-    Zeile 11 abzüglich Nw 219, Seite 1, Zeile 15.
+10. Formular F.200.01 für das selbst abgeschlossene Versicherungsgeschäft,
+    Zeile ZE1150 abzüglich Formular F.219.01 Zeile ZE0150.
 
 
 11. Hier sind nur die Beträge abzurechnen, die nicht bei anderen
@@ -5818,10 +6055,25 @@ unberührt.
     damit verbundene Ertrag hier auszuweisen.
 
 
+13. Unter diesem Posten ist insbesondere die erhaltene Beteiligung an den
+    Sterblichkeitsgewinnen des Rückversicherers zu erfassen. Weitere
+    Beträge sind hier nur zu erfassen, sofern ihr Ausweis nicht bei einem
+    anderen Posten vorgesehen ist. Der Posten ist in jedem Fall in einer
+    Anlage gemäß § 24b Absatz 2 Satz 1 zu erläutern und nach der Herkunft
+    der Beiträge zahlenmäßig aufzulösen.
 
 
-## **Nr. 22: Anmerkungen zur Nachweisung 120**
+14. Hier ist insbesondere auch die erhaltene Beteiligung an Gewinnen des
+    Rückversicherers aus dem sonstigen Risiko zu erfassen.
 
+
+15. Hier ist insbesondere auch die erhaltene Beteiligung an Gewinnen des
+    Rückversicherers aus dem übrigen Ergebnis zu erfassen.
+
+
+
+
+**Nr. 22: Formular F.120.01**
 
 1.  Hierunter sind überwiegend von Mitglieds- und Trägerunternehmen
     genutzte Grundstücke auszuweisen.
@@ -5833,15 +6085,15 @@ unberührt.
 
 
 
-## **Nr. 23: Anmerkungen zur Nachweisung 121**
+**Nr. 23: Formular F.121.01**
+
+1.  Das Formular ist von P/St einzureichen, wobei Sterbekassen lediglich
+    ab Zeile ZE0550 einzureichen haben.
 
 
-1.  Die Nachweisung ist von P/St einzureichen, wobei Sterbekassen
-    lediglich die Seite 3 einzureichen haben.
-
-
-2.  Die Zusammensetzung dieses Postens ist in einer Anlage zu erläutern.
-    Eine Überführung der verzinslichen Ansammlung in die
+2.  Die Zusammensetzung dieses Postens ist in einer Anlage als Bestandteil
+    des qualitativen Formularteils gemäß § 24b Absatz 2 Satz 1 zu
+    erläutern. Eine Überführung der verzinslichen Ansammlung in die
     Deckungsrückstellung, die über die RfB geleitet wird (z. B. in der
     Rentenversicherung bei Rentenübergang), ist als sonstige
     Zuführung/sonstige Entnahme auszuweisen. Soweit der Aufwand für die
@@ -5850,7 +6102,7 @@ unberührt.
     Weise sind Entnahmen zu behandeln, die auf Grund des § 140 Absatz 1
     Satz 2 VAG erfolgen. Rückführungen aus dem kollektiven Teil der RfB,
     die auf Grund des § 3 Absatz 4 RfBV zugunsten einzelner Teilbestände
-    geleistet werden, sind in Zeile 12 auszuweisen.
+    geleistet werden, sind in Zeile ZE0120 auszuweisen.
 
 
 3.  Hier sind diejenigen Bewegungen zwischen der RfB des Neu- und
@@ -5867,7 +6119,8 @@ unberührt.
     sind. Dabei sind auch Beträge zu berücksichtigen, die infolge
     versetzter oder verlängerter Deklarationszeiträume voraussichtlich
     nach dem Ende des folgenden Geschäftsjahres entnommen werden; dieser
-    Teilbetrag ist in einer Anlage zu nennen.
+    Teilbetrag ist in einer Anlage als Bestandteil des qualitativen
+    Formularteils gemäß § 24b Absatz 2 Satz 1 zu nennen.
 
 
 5.  Hier sind die entsprechenden Teile des Schlussüberschussanteilsfonds
@@ -5877,15 +6130,15 @@ unberührt.
 
 6.  Hier ist die Beteiligung an den Bewertungsreserven im Geschäftsjahr
     anzugeben. Unter Buchstabe b ist sowohl die Mindestbeteiligung als
-    auch der darüber hinausgehende Betrag zu berücksichtigen.
+    auch der darüberhinausgehende Betrag zu berücksichtigen.
 
 
 7.  Als Neubestand sind alle nicht nach von der Aufsichtsbehörde
     genehmigten Geschäftsplänen abgeschlossenen Verträge zu behandeln. Als
     Altbestand sind alle nach von der Aufsichtsbehörde genehmigten
-    Geschäftsplänen abgeschlossenen Verträge zu behandeln. Spalte 04 ist
-    nur zu verwenden, wenn innerhalb der RfB mindestens ein kollektiver
-    Teil geführt wird.
+    Geschäftsplänen abgeschlossenen Verträge zu behandeln. Spalte SP0040
+    ist nur zu verwenden, wenn innerhalb der RfB mindestens ein
+    kollektiver Teil geführt wird.
 
 
 8.  Weitere Kapitalversicherung ist die Kapitalversicherung auf den
@@ -5904,10 +6157,9 @@ unberührt.
 
 
 
-## **Nr. 24: Anmerkungen zur Nachweisung 220**
+**Nr. 24: Formular F.220.01**
 
-
-1.  Die Nachweisung ist nur von Pensionskassen einzureichen.
+1.  Das Formular ist nur von Pensionskassen einzureichen.
 
     Die Angaben zur Anzahl beziehen sich auf die versorgungsberechtigten
     natürlichen Personen. Sind für eine Person mehrere Versicherungen
@@ -5919,8 +6171,8 @@ unberührt.
 2.  Zum Beispiel Reaktivierung, Wiederinkraftsetzung.
 
 
-3.  Die Davon-Vermerke der Zeilen 16 bis 26 beziehen sich jeweils auf den
-    Bestand am Ende des Geschäftsjahres in Zeile 14.
+3.  Die Davon-Vermerke der Zeilen ZE0160 bis ZE0260 beziehen sich jeweils
+    auf den Bestand am Ende des Geschäftsjahres in Zeile ZE0140.
 
 
 4.  Hier ist die Anzahl der Versorgungsanwärter anzugeben, für die keine
@@ -5976,26 +6228,25 @@ unberührt.
 15. Zum Beispiel Wiederinkraftsetzung sowie Erhöhung der Rente.
 
 
-16. Die Davon-Vermerke der Zeilen 17 bis 20 beziehen sich jeweils auf den
-    Bestand am Ende des Geschäftsjahres in Zeile 15.
+16. Die Davon-Vermerke der Zeilen ZE0430 bis ZE0460 beziehen sich jeweils
+    auf den Bestand am Ende des Geschäftsjahres in Zeile ZE0410.
 
 
 17. Einzusetzen ist hier der Betrag, der sich als zukünftige
     Dauerverpflichtung (entsprechend der Berechnung der DR) ergibt.
 
 
-18. Die Davon-Vermerke der Zeilen 17 bis 19 beziehen sich jeweils auf den
-    Bestand am Ende des Geschäftsjahres in Zeile 15.
+18. Die Davon-Vermerke der Zeilen ZE0690 bis ZE0710 beziehen sich jeweils
+    auf den Bestand am Ende des Geschäftsjahres in Zeile ZE0670.
 
 
 
 
-## **Nr. 25: Anmerkungen zur Nachweisung 221**
+**Nr. 25: Formular F.221.01**
 
+1.  Das Formular ist von allen Sterbekassen einzureichen.
 
-1.  Die Nachweisung ist von allen Sterbekassen einzureichen.
-
-    Von Pensionskassen ist die Nachweisung nur dann einzureichen, wenn sie
+    Von Pensionskassen ist das Formular nur dann einzureichen, wenn sie
     rechtlich selbständige Sterbegeldversicherungen abgeschlossen haben,
     deren Leistung keine Hinterbliebenenleistung einer
     Pensionsversicherung darstellt.
@@ -6005,8 +6256,8 @@ unberührt.
     Überschussbeteiligung.
 
 
-3.  Die Davon-Vermerke der Zeilen 18 bis 21 beziehen sich auf den Bestand
-    am Ende des Geschäftsjahres in Zeile 16.
+3.  Die Davon-Vermerke der Zeilen ZE0180 bis ZE0210 beziehen sich auf den
+    Bestand am Ende des Geschäftsjahres in Zeile ZE0160.
 
 
 4.  Als Neubestand sind alle nicht nach von der Aufsichtsbehörde
@@ -6033,12 +6284,11 @@ unberührt.
 
 
 
-## **Nr. 26: Anmerkungen zur Nachweisung 222**
+**Nr. 26: Formular F.222.01**
 
-
-1.  Die Nachweisung ist von P/St einzureichen, wobei Sterbekassen
-    lediglich die Seite 3 einzureichen haben. Bei den Beiträgen ist auf
-    die gebuchten Bruttobeiträge abzustellen.
+1.  Das Formular ist von P/St einzureichen, wobei Sterbekassen lediglich
+    die Seite 3 einzureichen haben. Bei den Beiträgen ist auf die
+    gebuchten Bruttobeiträge abzustellen.
 
 
 2.  Hier sind die Beiträge für Versicherungen auszuweisen, bei denen das
@@ -6078,10 +6328,9 @@ unberührt.
 
 
 
-## **Nr. 27: Anmerkungen zur Nachweisung 265**
+**Nr. 27: Formular F.265.01**
 
-
-1.  Diese Nachweisung ist von Pensionskassen vorzulegen
+1.  Dieses Formular ist von Pensionskassen vorzulegen
 
     a)  für das gesamte in den anderen Mitglied- und Vertragsstaaten
         betriebene Versicherungsgeschäft;
@@ -6091,8 +6340,9 @@ unberührt.
 
 
 
-    dabei ist in das Feld „Herkunft des VG“ jeweils die entsprechende
-    Kennzahl gemäß Anlage 1 Abschnitt B einzutragen.
+    dabei ist für die Kennzeichnung der Herkunft des VG jeweils die
+    entsprechende Kennzahl gemäß Anlage 1 Abschnitt B unter Beachtung von
+    Abschnitt C Ziffer 2.16 zu verwenden.
 
 
 2.  Einschließlich der Rückstellung für noch nicht abgewickelte Rückkäufe,
@@ -6101,21 +6351,57 @@ unberührt.
 
 
 
-## **Nr. 28: Anmerkungen zur Nachweisung 130**
+**Nr. 28: Formular F.271.01**
 
-Zusammen mit der Pflegepflichtversicherung ist der Anteil des
-Krankenversicherers an der „Gemeinschaft privater
-Versicherungsunternehmen zur Durchführung der Pflegeversicherung nach
-dem PflegeVG vom 26. Mai 1994 für die Mitglieder der
-Postbeamtenkrankenkasse und der Krankenversorgung der
-Bundesbahnbeamten (GPV)“ auszuweisen. Dies gilt sowohl für die
-Bestandsbewegung (Nachweisung 230) als auch für die Gewinnzerlegung
-(Nachweisungen 231 bis 238).
-
-## **Nr. 29: Anmerkungen zur Nachweisung 230**
+1.  Als Altbestand sind alle nach von der Aufsichtsbehörde genehmigten
+    Geschäftsplänen abgeschlossenen Verträge zu behandeln. Alle anderen
+    Verträge sind als Neubestand zu behandeln.
 
 
-1.  In einer Anlage sind hier zusätzlich die im Geschäftsjahr auf
+2.  Bei diesen Ergebnisquellen sind die im Wege der Direktgutschrift
+    gutgebrachten Beträge nicht als rechnungsmäßiger Aufwand zu erfassen.
+
+
+3.  Eintrittsgewinne oder -verluste entstehen, wenn die
+    Rechnungsgrundlagen der Tarifkalkulation nicht mit den
+    Rechnungsgrundlagen für die Deckungsrückstellung übereinstimmen. Dies
+    kann beispielsweise der Fall sein, wenn die Rechnungsgrundlagen für
+    die Berechnung der Deckungsrückstellung geändert worden sind und die
+    in der Tarifkalkulation verwendeten Rechnungsgrundlagen nicht
+    entsprechend angepasst wurden. Hier sind alle Eintrittsgewinne oder
+    -verluste anzugeben, insbesondere durch neue
+    Versicherungsverhältnisse, Erhöhungen bestehender Versicherungen und
+    laufende Einmalbeiträge.
+
+
+4.  Hier sind die Beträge anzugeben, die nicht bei anderen Ergebnisquellen
+    zu erfassen sind.
+
+
+5.  Der Rohüberschuss ergibt sich als Summe der vorstehenden
+    Ergebnisquellen.
+
+
+
+
+**Nr. 29: Formular F.130.01**
+
+1.  Zusammen mit der Pflegepflichtversicherung ist der Anteil des
+    Krankenversicherers an der „Gemeinschaft privater
+    Versicherungsunternehmen zur Durchführung der Pflegeversicherung nach
+    dem PflegeVG vom 26. Mai 1994 für die Mitglieder der
+    Postbeamtenkrankenkasse und der Krankenversorgung der
+    Bundesbahnbeamten (GPV)“ auszuweisen. Dies gilt sowohl für die
+    Bestandsbewegung (Formular F.230.01) als auch für die Gewinnzerlegung
+    (Formulare F.231.01 bis F.238.01).
+
+
+
+
+**Nr. 30: Formular F.230.01**
+
+1.  In einer Anlage als Bestandteil des qualitativen Formularteils gemäß §
+    24b Absatz 2 Satz 1 sind hier zusätzlich die im Geschäftsjahr auf
     Beitragserhöhungen zurückzuführenden Mehrbeiträge anzugeben. Zur
     Ermittlung der Mehrbeiträge sind die Beitragserhöhungen jeweils mit
     der sich aus dem genauen Veränderungszeitpunkt ergebenden Zahl der
@@ -6132,15 +6418,17 @@ Bestandsbewegung (Nachweisung 230) als auch für die Gewinnzerlegung
 
 3.  Unter diesem Posten sind Bewegungen zu erfassen, deren Ausweis nicht
     in einem anderen Posten vorgesehen ist. Die in diesen Posten
-    eingehenden Größen sind im Einzelnen in einer Anlage zu erläutern.
+    eingehenden Größen sind im Einzelnen in einer Anlage als Bestandteil
+    des qualitativen Formularteils gemäß § 24b Absatz 2 Satz 1 zu
+    erläutern.
 
 
-4.  In den Zeilen 21 bis 26 der Seite 1 sind Versicherungen gegen
+4.  In den Zeilen ZE0210 bis ZE0260 sind Versicherungen gegen
     Einmalbeitrag nicht zu berücksichtigen. Die Angabe des
     Versicherungsgeschäfts, auf das unmittelbare Abschlusskosten entfallen
-    (Zeilen 21 bis 23), erfolgt in Monats-Sollbeträgen in Euro. Unter dem
-    „Versicherungsgeschäft“ ist dabei neben dem Neugeschäft auch das auf
-    Grund von Vertragsänderungen Abschlusskosten verursachende
+    (Zeilen ZE0210 bis ZE0230), erfolgt in Monats-Sollbeträgen in Euro.
+    Unter dem „Versicherungsgeschäft“ ist dabei neben dem Neugeschäft auch
+    das auf Grund von Vertragsänderungen Abschlusskosten verursachende
     Versicherungsgeschäft zu erfassen.
 
 
@@ -6149,8 +6437,8 @@ Bestandsbewegung (Nachweisung 230) als auch für die Gewinnzerlegung
     oder die allgemeinen Krankenhausleistungen bis maximal 50 Prozent
     abgesichert sind. Falls ohne großen technischen Aufwand eine exakte
     Zuordnung nicht möglich ist, können einzelne Tarife aus dem Bereich
-    Beihilfeversicherung (mit Erstattungen über 50 Prozent) in Zeile 23
-    „Nicht-Beihilfeberechtigte“ erfasst werden.
+    Beihilfeversicherung (mit Erstattungen über 50 Prozent) in Zeile
+    ZE0490 „Nicht-Beihilfeberechtigte“ erfasst werden.
 
 
 6.  Eine Krankheitskostenvollversicherung liegt für eine Person dann und
@@ -6163,19 +6451,20 @@ Bestandsbewegung (Nachweisung 230) als auch für die Gewinnzerlegung
 
     Sofern Kombinationen selbständiger ambulanter und stationärer
     Krankheitskostenvollversicherungen Krankenhaustagegeldversicherungen
-    enthalten, ist die Prämie auf Seite 2 auf Spalte 01 und 03 aufzuteilen
-    und die Person auf Seite 6 sowohl in Spalte 01 als auch in Spalte 03
-    zu erfassen.
+    enthalten, ist die Prämie in den Zeilen ZE0280 bis ZE0490 auf Spalte
+    SP0010 und SP0030 aufzuteilen und die Person in den Zeilen ZE1320 bis
+    ZE1490 sowohl in Spalte SP0010 als auch in Spalte SP0030 zu erfassen.
 
 
 7.  Unselbständige Zusatzversicherungen (solche, die nicht ohne Haupttarif
     bestehen können) sind zusammen mit der Hauptversicherung zu erfassen
-    und auf den Seiten 5 bis 7 nicht selbständig zu zählen.
+    und in den Zeilen ZE1060 bis Zeile ZE1490 nicht selbständig zu zählen.
 
 
 8.  Hier sind Versicherungsarten zu erfassen, deren Ausweis nicht in einem
     anderen Posten vorgesehen ist. Die in diesen Posten eingehenden Größen
-    sind im Einzelnen in einer Anlage zu erläutern.
+    sind im Einzelnen in einer Anlage als Bestandteil des qualitativen
+    Formularteils gemäß § 24b Absatz 2 Satz 1 zu erläutern.
 
 
 9.  Hier sind auch die selbständigen Teilversicherungen, die jeweils das
@@ -6186,7 +6475,7 @@ Bestandsbewegung (Nachweisung 230) als auch für die Gewinnzerlegung
 10. Hier sind auch die Lohnfortzahlungsversicherungen zu erfassen.
 
 
-11. Bei der Erstellung der Nachweisung ist zu beachten, dass
+11. Bei der Erstellung des Formulars ist zu beachten, dass
     Zugänge/Veränderungen zum 1. Januar des Geschäftsjahres nicht im
     Bestand am Anfang des Geschäftsjahres enthalten sind, sondern unter
     Zugänge/
@@ -6198,21 +6487,23 @@ Bestandsbewegung (Nachweisung 230) als auch für die Gewinnzerlegung
     Geschäftsjahres gleich dem Endbestand des Vorjahres.
 
 
-12. In Spalte 01 der Seite 5 ist eine Person, die in mehreren
-    Versicherungsarten versichert ist, nur einmal zu zählen. Die
+12. In den Zeilen ZE01060 bis ZE1300 Spalte SP0010 ist eine Person, die in
+    mehreren Versicherungsarten versichert ist, nur einmal zu zählen. Die
     versicherten Personen bei Beihilfeablöse-, Auslands-, Restschuld- und
     Lohnfortzahlungsversicherungen werden nicht berücksichtigt.
 
 
 
 
-## **Nr. 30: Anmerkung zur Nachweisung 231**
+**Nr. 31: Formular F.231.01**
 
-Diese Position enthält außerdem den poolrelevanten Überschuss der
-Pflegepflichtversicherung.
+1.  Diese Position enthält außerdem den poolrelevanten Überschuss der
+    Pflegepflichtversicherung.
 
-## **Nr. 31: Anmerkungen zur Nachweisung 237**
 
+
+
+**Nr. 32: Formular F.237.01**
 
 1.  Diese Position enthält außerdem den poolrelevanten Überschuss der
     Pflegepflichtversicherung.
@@ -6231,8 +6522,7 @@ Pflegepflichtversicherung.
 
 
 
-## **Nr. 32: Anmerkungen zur Nachweisung 330**
-
+**Nr. 33: Formular F.330.01**
 
 1.  Eine Krankheitskostenvollversicherung liegt für eine Person dann und
     nur dann vor, wenn für diese Person bei dem Unternehmen auch die
@@ -6241,7 +6531,7 @@ Pflegepflichtversicherung.
     Differenzkosten zur GKV-Leistung handelt. Sofern Kombinationen
     selbständiger ambulanter und stationärer
     Krankheitskostenvollversicherungen Krankenhaustagegeldversicherungen
-    enthalten, sind diese stets in Spalte 03 auszuweisen.
+    enthalten, sind diese stets in Spalte SP0030 auszuweisen.
 
 
 2.  Unselbständige Zusatzversicherungen (solche, die nicht ohne Haupttarif
@@ -6251,7 +6541,8 @@ Pflegepflichtversicherung.
 
 3.  Hier sind Versicherungsarten zu erfassen, deren Ausweis nicht in einem
     anderen Posten vorgesehen ist. Die in diesen Posten eingehenden Größen
-    sind im Einzelnen in einer Anlage zu erläutern.
+    sind im Einzelnen in einer Anlage als Bestandteil des qualitativen
+    Formularteils gemäß § 24b Absatz 2 Satz 1 zu erläutern.
 
 
 4.  Hier sind auch die selbständigen Teilversicherungen, die jeweils das
@@ -6261,10 +6552,9 @@ Pflegepflichtversicherung.
 
 
 
-## **Nr. 33: Anmerkungen zur Nachweisung 240**
+**Nr. 34: Formular F.240.01**
 
-
-1.  Die Nachweisung ist aufzustellen
+1.  Das Formular ist aufzustellen
 
     a)  für jeden Vz des selbst abgeschlossenen VG, für den eine gesonderte
         versicherungstechnische GuV aufgestellt worden ist, wobei für die
@@ -6273,15 +6563,17 @@ Pflegepflichtversicherung.
         werden;
 
 
-    b)  für die Va „Kraftfahrzeug-Haftpflichtversicherung“ und „Sonstige
-        Kraftfahrtversicherung“, sofern für diese Va eine gesonderte
-        versicherungstechnische GuV aufgestellt worden ist;
+    b)  für die Va „Kraftfahrzeug-Haftpflichtversicherung“, „Sonstige
+        Kraftfahrtversicherung“ und „Cyberversicherungen Stand alone“, sofern
+        für diese Va eine gesonderte versicherungstechnische GuV aufgestellt
+        worden ist;
 
 
     c)  für das gesamte selbst abgeschlossene VG.
 
 
 
+    Für die Kennzeichnung ist Abschnitt C Ziffer 2.12 zu beachten.
 
 
 2.  Hier sind die Stückzahl und der Bestandsbeitrag der im Laufe des
@@ -6294,9 +6586,9 @@ Pflegepflichtversicherung.
 3.  Bestandsverminderungen sind mit einem Minuszeichen, Bestandserhöhungen
     mit einem Pluszeichen anzugeben. Es ist nur dann ein etwaiger Saldo
     aufzuführen, wenn sich im Berichtsjahr der Versicherungsbestand
-    geändert hat und dieser Umstand nicht bereits unter dem Posten 1 b
-    „echte Zugänge im GJ“ (Zeile 04) oder 1 c „echte Abgänge im GJ“ (Zeile
-    05) erfasst worden ist.
+    geändert hat und dieser Umstand nicht bereits unter dem Posten 1.2.
+    „echte Zugänge im GJ“ (Zeile ZE0040) oder 1.3. „echte Abgänge im GJ“
+    (Zeile ZE0050) erfasst worden ist.
 
 
 4.  Die Angaben sind nur für die Vz/Va mit den Kennzahlen 04, 05, 051, 055
@@ -6334,10 +6626,9 @@ Pflegepflichtversicherung.
 
 
 
-## **Nr. 34: Anmerkungen zur Nachweisung 242**
+**Nr. 35: Formular F.242.01**
 
-
-1.  Die Nachweisung ist aufzustellen
+1.  Das Formular ist aufzustellen
 
     a)  für jeden Vz des selbst abgeschlossenen VG, für den eine gesonderte
         versicherungstechnische GuV aufgestellt worden ist, wobei für die
@@ -6346,25 +6637,27 @@ Pflegepflichtversicherung.
         werden;
 
 
-    b)  für die Va „Kraftfahrzeug-Haftpflichtversicherung“ und „Sonstige
-        Kraftfahrtversicherung“, sofern für diese Va eine gesonderte
-        versicherungstechnische GuV aufgestellt worden ist;
+    b)  für die Va „Kraftfahrzeug-Haftpflichtversicherung“, „Sonstige
+        Kraftfahrtversicherung“ und „Cyberversicherungen Stand alone“, sofern
+        für diese Va eine gesonderte versicherungstechnische GuV aufgestellt
+        worden ist;
 
 
     c)  für das gesamte selbst abgeschlossene VG.
 
 
 
+    Für die Kennzeichnung ist Abschnitt C Ziffer 2.12 zu beachten.
 
 
 2.  Für die Transportversicherung entfallen die Angaben, sofern die
     Versicherungsfälle nicht vollständig angegeben werden können. Die
     Anzahl der am Ende des GJ noch nicht abgewickelten VJ-
-    Versicherungsfälle in Zeile 22 ergibt sich nur dann aus dem Saldo der
-    Stückzahlen aus Zeile 11 abzüglich Zeile 17, wenn sich die Anzahl der
-    am Ende des GJ noch unbekannten Spätschäden in Zeile 21 nicht auf
-    Grund einer Neueinschätzung verändert hat, sondern sich als Saldo aus
-    Zeile 10 und Zeile 12 ergibt.
+    Versicherungsfälle in Zeile ZE0220 ergibt sich nur dann aus dem Saldo
+    der Stückzahlen aus Zeile ZE0110 abzüglich Zeile ZE0170, wenn sich die
+    Anzahl der am Ende des GJ noch unbekannten Spätschäden in Zeile ZE0210
+    nicht auf Grund einer Neueinschätzung verändert hat, sondern sich als
+    Saldo aus Zeile ZE0100 und Zeile ZE0120 ergibt.
 
 
 3.  Wiederauflebende Schadenfälle (Schäden, die im Geschäftsjahr als
@@ -6373,11 +6666,11 @@ Pflegepflichtversicherung.
     Anspruchstellers oder Änderung der Rechtslage wieder aufgenommen
     werden) bei den im Geschäftsjahr abgewickelten und noch nicht
     abgewickelten VJ-Versicherungsfällen werden je nach Zuordnung entweder
-    als bekannter Versicherungsfall (Posten 1 b 5 oder 1 b 8, Zeile 14
-    bzw. Zeile 19) oder als bekannter Spätschaden (Posten 1 b 6 oder 1 b
-    9, Zeile 15 bzw. Zeile 20).
+    als bekannter Versicherungsfall (Posten 1.2.5. oder 1.2.8., Zeile
+    ZE0140 bzw. Zeile ZE0190) oder als bekannter Spätschaden (Posten
+    1\.2.6. oder 1.2.9., Zeile ZE0150 bzw. Zeile ZE0200).
 
-    Bei den bekannten Spätschäden (Zeile 20) werden auch die im
+    Bei den bekannten Spätschäden (Zeile ZE0200) werden auch die im
     Geschäftsjahr gemeldeten, noch nicht abgewickelten Versicherungsfälle
     des Vorjahres erfasst.
 
@@ -6415,28 +6708,28 @@ Pflegepflichtversicherung.
 
 
 10. Sofern Versicherungsfälle in die Renten-DR überführt worden sind, sind
-    die umzubuchenden Beträge in den Zeilen 13, 14 oder 16 als positive
-    Zahlungen und in Zeile 15 als negative Zahlungen zu erfassen. In Zeile
-    18 sind die erhaltenen Zahlungen aus Regressen, Provenues und
-    Teilungsabkommen einzusetzen, die im GJ auf die am Ende des VJ
-    berücksichtigten RPT-Forderungen aus abgewickelten VF eingegangen
-    sind.
+    die umzubuchenden Beträge in den Zeilen ZE0390, ZE0400 oder ZE0420 als
+    positive Zahlungen und in Zeile ZE0410 als negative Zahlungen zu
+    erfassen. In Zeile ZE0440 sind die erhaltenen Zahlungen aus Regressen,
+    Provenues und Teilungsabkommen einzusetzen, die im GJ auf die am Ende
+    des VJ berücksichtigten RPT-Forderungen aus abgewickelten VF
+    eingegangen sind.
 
 
 11. Das Abwicklungsergebnis für die einzelnen Schadenjahrgänge ergibt sich
-    durch den Abzug der Beträge in den Spalten 02 und 03 von denen in
-    Spalte 01. Unternummer 13 Satz 2 gilt entsprechend.
+    durch den Abzug der Beträge in den Spalten SP0020 und SP0030 von denen
+    in Spalte SP0010. Unternummer 13 Satz 2 gilt entsprechend.
 
 
-12. Die Abwicklungsergebnisse in den Zeilen 13 bis 19, Spalte 04 ergeben
-    sich wie folgt: Zeilen 13 bis 19, jeweils Spalte 01
-    zuzüglich/abzüglich Zeilen 13 bis 19, jeweils Spalte 02 abzüglich
-    Zeilen 13 bis 19, jeweils Spalte 03 und abzüglich Zeilen 03 bis 09,
-    jeweils Spalte 01. Abwicklungsgewinne sind mit einem Pluszeichen,
-    Abwicklungsverluste mit einem Minuszeichen anzugeben. Insbesondere bei
-    der Abwicklung der RPT-Forderungen ist darauf zu achten, dass in Zeile
-    18 Spalte 04 das sich rechnerisch ergebende Vorzeichen eingetragen
-    wird.
+12. Die Abwicklungsergebnisse in den Zeilen ZE0390 bis ZE0450, Spalte
+    SP0040 ergeben sich wie folgt: Zeilen ZE0390 bis ZE0450, jeweils
+    Spalte SP0010 zuzüglich/abzüglich Zeilen ZE0390 bis ZE0450, jeweils
+    Spalte SP0020 abzüglich Zeilen ZE0390 bis ZE0450, jeweils Spalte
+    SP0030 und abzüglich Zeilen ZE0390 bis ZE0450, jeweils Spalte SP0010.
+    Abwicklungsgewinne sind mit einem Pluszeichen, Abwicklungsverluste mit
+    einem Minuszeichen anzugeben. Insbesondere bei der Abwicklung der RPT-
+    Forderungen ist darauf zu achten, dass in Zeile ZE0440 Spalte SP0040
+    das sich rechnerisch ergebende Vorzeichen eingetragen wird.
 
 
 13. Für die Kraftfahrzeug-Haftpflichtversicherung und die
@@ -6466,8 +6759,9 @@ Pflegepflichtversicherung.
 
 
 16. Das Abwicklungsergebnis für die einzelnen Schadenjahrgänge ergibt sich
-    durch den Abzug der Beträge in den Spalten 02 und 03 von denen in
-    Spalte 01. Unternummer 13 Satz 2 gilt entsprechend.
+    durch den Abzug der Beträge in den Spalten SP0020 und SP0030 von denen
+    in Spalte SP0010 in den Zeilen ZE0550 bis ZE0660 des Formulars.
+    Unternummer 13 Satz 2 gilt entsprechend.
 
     Die Angaben für die einzelnen Schadenjahrgänge müssen die Abwicklung
     der Renten-Deckungsrückstellung enthalten.
@@ -6489,8 +6783,8 @@ Pflegepflichtversicherung.
 
 
 
-18. Das versicherungstechnische Bruttoergebnis ergibt sich aus Formblatt
-    200, Seite 3, Zeile 17.
+18. Das versicherungstechnische Bruttoergebnis ergibt sich aus Formular
+    F.200.01, Zeile ZE0690.
 
 
 19. Als vereinfachtes versicherungstechnisches Bruttoergebnis ist der
@@ -6505,11 +6799,10 @@ Pflegepflichtversicherung.
 
 
 
-## **Nr. 35: Anmerkungen zur Nachweisung 243**
+**Nr. 36: Formular F.243.01**
 
-
-1.  Die Nachweisung ist für folgende Va vorzulegen (vorausgesetzt, für den
-    Vz, dem sie angehören, ist eine Nachweisung 242 einzureichen):
+1.  Das Formular ist für folgende Va vorzulegen (vorausgesetzt, für den
+    Vz, dem sie angehören, ist ein Formular F.242.01 einzureichen):
 
     a)  Privathaftpflichtversicherung,
 
@@ -6532,6 +6825,8 @@ Pflegepflichtversicherung.
     Angaben nur mit einem unverhältnismäßig hohen Aufwand ermitteln
     lassen.
 
+    Für die Kennzeichnung ist Abschnitt C Ziffer 2.12 zu beachten.
+
 
 2.  Diese Angaben sind nur für folgende Va zu machen:
 
@@ -6546,8 +6841,7 @@ Pflegepflichtversicherung.
 
 
 
-## **Nr. 36: Anmerkungen zur Nachweisung 246**
-
+**Nr. 37: Formular F.246.01**
 
 1.  Hierzu gehören die See-, Binnensee- und Flussschifffahrts-
     Warenversicherung, die Luftfahrt-Warenversicherung sowie die Land-
@@ -6568,13 +6862,13 @@ Pflegepflichtversicherung.
     Transportversicherung betrieben werden und – wie in der
     Transportversicherung üblich – nach Schadenanfalljahren abgerechnet
     werden, sind diese Versicherungsarten bei den Angaben in den Zeilen
-    19, 20 und 21 zu berücksichtigen.
+    ZE0190, ZE0200 und ZE0210 zu berücksichtigen.
 
 
 4.  Die Angaben für die einzelnen Va der Transportversicherung mit
     gebuchten Bruttobeiträgen von nicht mehr als 125 000 Euro können in
-    den Sammelposten 1 f, 1 j und 1 r miterfasst werden, sofern sich diese
-    Angaben nur mit einem unverhältnismäßig hohen Aufwand ermitteln
+    den Sammelposten 1.6., 1.10. und 1.18. miterfasst werden, sofern sich
+    diese Angaben nur mit einem unverhältnismäßig hohen Aufwand ermitteln
     lassen.
 
 
@@ -6589,23 +6883,148 @@ Pflegepflichtversicherung.
 
 7.  Die Erträge und Aufwendungen im GJ sind gesondert für die einzelnen
     Zeichnungsjahre anzugeben. Die sonstigen Brutto-VBA sind im Verhältnis
-    der in den Zeilen 04 und 13 ausgewiesenen gebuchten Bruttobeiträge
+    der in den Zeilen ZE0300, Spalten SP 0010 bis SP0040 und ZE0300,
+    Spalten SP0050 bis SP0070 ausgewiesenen gebuchten Bruttobeiträge
     aufzuteilen. Dabei sind negative Nachverrechnungsbeiträge wie positive
     Beiträge zu behandeln.
 
 
 
 
-## **Nr. 37: Anmerkungen zur Nachweisung 252**
+**Nr. 38: Formular F.247.01**
+
+1.  Das Formular ist auszufüllen, wenn das Produkt Cyberversicherung
+    angeboten wird und die gebuchten Bruttobeiträge mehr als 125 000 Euro
+    betragen. Der Betrag bezieht sich auf die aggregierten gebuchten
+    Bruttobeiträge für Stand alone Inland, Stand alone Ausland, Cyber-
+    Zusatzdeckungen Inland und Cyber-Zusatzdeckungen Ausland im Formular
+    F.247.01.
 
 
-1.  Die Nachweisung ist aufzustellen
+2.  Die Cyberversicherung ist eine Versicherung, die affirmative
+    Cyberrisiken deckt. Affirmative Cyberrisiken umfassen alle Risiken,
+    die sich aus einer bewussten und expliziten formulierten
+    Deckungszusage für Schäden aus Cyberrisiken ergeben.
+
+    Die Angaben zur Cyberversicherung sind aufzuteilen nach Stand alone
+    und Cyber-Zusatzdeckungen (jeweils Inland, Ausland). Stand alone
+    entspricht dem spezifischen Produkt Cyberversicherung, bei dem die
+    Cyberdeckung eigenständig angeboten wird. Cyber-Zusatzdeckungen sind
+    diejenigen cyberspezifischen Add-on-Deckungen zu
+    Versicherungsverträgen, bei denen eine separate Bepreisung der
+    Cyberdeckung erfolgt.
+
+
+3.  Neben den Angaben zu der Anzahl der Verträge am Ende des
+    Geschäftsjahres sowie der Anzahl der Versicherungsfälle im
+    Geschäftsjahr sind Angaben in Form einer Kurz-GuV zu erstellen. Für
+    die Komponente „Ransomware“ werden weitergehende Angaben zu Zahlungen
+    und Anzahl der Versicherungsfälle (im Geschäftsjahr) gefordert, bei
+    denen es zu Lösegeldzahlungen gekommen ist. Die entsprechenden Angaben
+    zu Ransomware sind nur zu machen, sofern Lösegelder in der Police
+    explizit versichert sind. Zu melden sind zudem nur die jeweiligen
+    Lösegeldzahlungen und nicht der komplette Schadenaufwand.
+
+
+4.  Die Angaben zur Cyberversicherung sind aufzuteilen nach den
+    Kundengruppen Privat/KMU/Industrie und Gesamt. Privat entspricht dem
+    Produkt Cyberversicherung für private Haushalte bzw. Privatpersonen.
+    KMU entspricht dem Produkt Cyberversicherung für kleinst-, kleine und
+    mittlere Unternehmen, d. h. Unternehmen, die weniger als 250 Personen
+    beschäftigen und die entweder einen Jahresumsatz von höchstens 50 Mio.
+    EUR erzielen oder eine Jahresbilanzsumme von höchstens 43 Mio. EUR
+    besitzen (Orientierung an EU-Empfehlung 2003/361/EG). Industrie
+    entspricht dem Produkt Cyberversicherung für Unternehmen, die nicht zu
+    KMU zugeordnet werden, d. h. Unternehmen, die mehr als 249 Mitarbeiter
+    und einen Jahresumsatz von mehr als 50 Mio. EUR oder eine
+    Jahresbilanzsumme von mehr als 43 Mio. EUR besitzen.
+
+
+5.  Sofern die im Formular F.247.01 vorzunehmenden Angaben in der
+    erforderlichen Datengranularität beim Unternehmen nicht vorliegen und
+    die Ermittlung der Angaben unverhältnismäßig ist, können bei den
+    einzelnen Angaben Schätzungen zugrunde gelegt werden. Es ist darauf zu
+    achten, dass die Summenwerte für Stand alone u. a. mit den Formularen
+    F.200.01, F.240.01 und F.242.01 übereinstimmen.
+
+
+
+
+**Nr. 39: Formular F.342.01**
+
+1.  Das Formular ist aufzustellen
+
+    a)  für jeden Vz des selbst abgeschlossenen VG, für den eine gesonderte
+        versicherungstechnische GuV aufgestellt worden ist, wobei für die
+        „Sonstige Schadenversicherung“ (Vz 29) die gleichen Vz wie in der
+        gesonderten versicherungstechnischen GuV zusammengefasst ausgewiesen
+        werden;
+
+
+    b)  für das gesamte selbst abgeschlossene VG.
+
+
+
+    Für die Kennzeichnung ist Abschnitt C Ziffer 2.12 zu beachten.
+
+
+2.  Die ursprüngliche Zuordnung der VF zu den beiden Gruppen –
+    einzelbewertete VF oder gruppen-/pauschalbewertete VF – muss stets
+    beibehalten werden, d. h. auch dann, wenn aus einem
+    gruppen-/pauschalbewerteten VF ein einzelbewerteter VF wird.
+
+
+3.  Sofern das Transport-VG nach ZJ abgerechnet wird, ist hier die
+    Abwicklung der aus dem VJ übernommenen Teil-Brutto-SR für die
+    vorhergehenden Zeichnungsjahre darzustellen.
+
+
+4.  Hier sind die im GJ eingegangenen Nachverrechnungsbeiträge (ohne Abzug
+    von Courtagen und Provisionen) für frühere
+    Schadenjahrgänge/Zeichnungsjahre anzugeben.
+
+
+5.  Sofern das Transport-VG nach ZJ abgerechnet wird, sind hier die
+    Brutto-SR für die VF des laufenden ZJ anzugeben.
+
+
+6.  Erhöhungen der VJ-SR auf Grund von Währungskursänderungen sind mit
+    einem Pluszeichen, Verminderungen auf Grund von Währungskursänderungen
+    mit einem Minuszeichen anzugeben.
+
+
+7.  Sofern Versicherungsfälle in die Renten-DR überführt worden sind, sind
+    die umzubuchenden Beträge in den Zeilen ZE0130, ZE0140 oder ZE0160 als
+    positive Zahlungen und in Zeile ZE0150 als negative Zahlungen zu
+    erfassen. In Zeile ZE0180 sind die erhaltenen Zahlungen aus Regressen,
+    Provenues und Teilungsabkommen einzusetzen, die im GJ auf die am Ende
+    des VJ berücksichtigten RPT-Forderungen aus abgewickelten VF
+    eingegangen sind.
+
+
+8.  Die Abwicklungsergebnisse in den Zeilen ZE0130 bis ZE0190, Spalte
+    SP0040 ergeben sich wie folgt: Zeilen ZE0130 bis ZE0190, jeweils
+    Spalte SP0010 zuzüglich/abzüglich Zeilen ZE0130 bis ZE0190, jeweils
+    Spalte SP0020 abzüglich Zeilen ZE0130 bis ZE0190, jeweils Spalte
+    SP0030 und abzüglich Zeilen ZE0030 bis ZE0090, jeweils Spalte SP0010.
+    Abwicklungsgewinne sind mit einem Pluszeichen, Abwicklungsverluste mit
+    einem Minuszeichen anzugeben. Insbesondere bei der Abwicklung der RPT-
+    Forderungen ist darauf zu achten, dass in Zeile ZE0180 Spalte SP0040
+    das sich rechnerisch ergebende Vorzeichen eingetragen wird.
+
+
+
+
+**Nr. 40: Formular F.252.01**
+
+1.  Das Formular ist aufzustellen
 
     a)  für jeden Vz des in Rückdeckung übernommenen VG, für den eine
-        gesonderte versicherungstechnische GuV aufgestellt worden ist, wobei
-        für die „Sonstige Schadenversicherung“ (Vz 29) die gleichen Vz wie in
-        der gesonderten versicherungstechnischen GuV zusammengefasst
-        ausgewiesen werden;
+        gesonderte versicherungstechnische GuV aufgestellt worden ist, und die
+        Versicherungsart Cyberversicherung Stand alone, wobei für die
+        „Sonstige Schadenversicherung“ (Vz 29) die gleichen Vz wie in der
+        gesonderten versicherungstechnischen GuV zusammengefasst ausgewiesen
+        werden;
 
 
     b)  für das gesamte in Rückdeckung übernommene VG.
@@ -6613,7 +7032,7 @@ Pflegepflichtversicherung.
 
 
     Für den Versicherungszweig „Lebensversicherung“ entfallen die Angaben
-    auf Seite 3.
+    ab Zeile ZE0560.
 
 
 2.  Hier sind Finanzrückversicherungsverträge im Sinne des § 167 Absatz 1
@@ -6633,7 +7052,7 @@ Pflegepflichtversicherung.
 
 
 5.  Hier sind solche Verstärkungen aufzunehmen, die nicht bereits in
-    Posten 2 a oder 2 b enthalten sind. Dies sind z. B. pauschale
+    Posten 2.1. oder 2.2. enthalten sind. Dies sind z. B. pauschale
     Verstärkungen für bestimmte Großschadenereignisse, Sonderzuführungen
     aus dem allgemeinen Geschäft oder sonstige Zusatzreserven bei
     unzureichenden oder fehlenden Aufgaben der Vorversicherer.
@@ -6668,12 +7087,13 @@ Pflegepflichtversicherung.
 11. Der Wert ist um Schadenreserveaustritte zu bereinigen.
 
 
-12. Die Abwicklungsergebnisse in den Zeilen 14 bis 18 der Spalte 04
-    ergeben sich wie folgt: Spalte 01 Zeilen 14 bis 18 jeweils
-    zuzüglich/abzüglich gleiche Zeile in Spalte 02, abzüglich gleiche
-    Zeile in Spalte 03, abzüglich der entsprechenden Zeile aus Spalte 01
-    Zeilen 04 bis 08. Abwicklungsgewinne sind mit einem Pluszeichen,
-    Abwicklungsverluste mit einem Minuszeichen anzugeben.
+12. Die Abwicklungsergebnisse in den Zeilen ZE0400 bis ZE0440 der Spalte
+    SP0040 ergeben sich wie folgt: Spalte SP0010 Zeilen ZE0400 bis ZE440
+    jeweils zuzüglich/abzüglich gleiche Zeile in Spalte SP0020, abzüglich
+    gleiche Zeile in Spalte SP0030, abzüglich der entsprechenden Zeile aus
+    Spalte SP0010 Zeilen ZE0300 bis ZE0340. Abwicklungsgewinne sind mit
+    einem Pluszeichen, Abwicklungsverluste mit einem Minuszeichen
+    anzugeben.
 
 
 13. Für die Kraftfahrtversicherung und die Haftpflichtversicherung ist die
@@ -6697,123 +7117,16 @@ Pflegepflichtversicherung.
 
 
 15. Das Abwicklungsergebnis für die einzelnen Schadenjahrgänge ergibt sich
-    durch den Abzug der Beträge in den Spalten 02 und 03 von denen in
-    Spalte 01.
+    durch den Abzug der Beträge in den Spalten SP0020 und SP0030 von denen
+    in Spalte SP0010 in den Zeilen ZE0560 bis ZE0670.
 
 
 
 
-## **Nr. 38: Anmerkungen zur Nachweisung 342**
+**Nr. 41: Formular F.601.01**
 
-
-1.  Die Nachweisung ist aufzustellen
-
-    a)  für jeden Vz des selbst abgeschlossenen VG, für den eine gesonderte
-        versicherungstechnische GuV aufgestellt worden ist, wobei für die
-        „Sonstige Schadenversicherung“ (Vz 29) die gleichen Vz wie in der
-        gesonderten versicherungstechnischen GuV zusammengefasst ausgewiesen
-        werden;
-
-
-    b)  für das gesamte selbst abgeschlossene VG.
-
-
-
-
-
-2.  Die ursprüngliche Zuordnung der VF zu den beiden Gruppen –
-    einzelbewertete VF oder gruppen-/pauschalbewertete VF – muss stets
-    beibehalten werden, d. h. auch dann, wenn aus einem
-    gruppen-/pauschalbewerteten VF ein einzelbewerteter VF wird.
-
-
-3.  Sofern das Transport-VG nach ZJ abgerechnet wird, ist hier die
-    Abwicklung der aus dem VJ übernommenen Teil-Brutto-SR für die
-    vorhergehenden Zeichnungsjahre darzustellen.
-
-
-4.  Hier sind die im GJ eingegangenen Nachverrechnungsbeiträge (ohne Abzug
-    von Courtagen und Provisionen) für frühere
-    Schadenjahrgänge/Zeichnungsjahre anzugeben.
-
-
-5.  Sofern das Transport-VG nach ZJ abgerechnet wird, sind hier die
-    Brutto-SR für die VF des laufenden ZJ anzugeben.
-
-
-6.  Erhöhungen der VJ-SR auf Grund von Währungskursänderungen sind mit
-    einem Pluszeichen, Verminderungen auf Grund von Währungskursänderungen
-    mit einem Minuszeichen anzugeben.
-
-
-7.  Sofern Versicherungsfälle in die Renten-DR überführt worden sind, sind
-    die umzubuchenden Beträge in den Zeilen 13, 14 oder 16 als positive
-    Zahlungen und in Zeile 15 als negative Zahlungen zu erfassen. In Zeile
-    18 sind die erhaltenen Zahlungen aus Regressen, Provenues und
-    Teilungsabkommen einzusetzen, die im GJ auf die am Ende des VJ
-    berücksichtigten RPT-Forderungen aus abgewickelten VF eingegangen
-    sind.
-
-
-8.  Die Abwicklungsergebnisse in den Zeilen 13 bis 19, Spalte 04 ergeben
-    sich wie folgt: Zeilen 13 bis 19, jeweils Spalte 01
-    zuzüglich/abzüglich Zeilen 13 bis 19, jeweils Spalte 02 abzüglich
-    Zeilen 13 bis 19, jeweils Spalte 03 und abzüglich Zeilen 03 bis 09,
-    jeweils Spalte 01. Abwicklungsgewinne sind mit einem Pluszeichen,
-    Abwicklungsverluste mit einem Minuszeichen anzugeben. Insbesondere bei
-    der Abwicklung der RPT-Forderungen ist darauf zu achten, dass in Zeile
-    18 Spalte 04 das sich rechnerisch ergebende Vorzeichen eingetragen
-    wird.
-
-
-
-
-## **Nr. 39: Anmerkungen zur Nachweisung 601**
-
-
-1.  Im Feld „Berichtszeitraum“ sind für die einzelnen Stichtage unabhängig
-    vom Abschlussstichtag des Jahresabschlusses folgende Kennzahlen
-    anzugeben:
-
-    a)
-        *            *   zum 31. März:
-
-            *   1;
-
-
-
-
-
-    b)
-        *            *   zum 30. Juni:
-
-            *   2;
-
-
-
-
-
-    c)
-        *            *   zum 30. September:
-
-            *   3;
-
-
-
-
-
-    d)
-        *            *   zum 31. Dezember:
-
-            *   4.
-
-
-
-
-
-
-    In allen Datenfeldern sind grundsätzlich kumulierte Werte einzutragen,
-    d. h. es können die statistisch fortgeschriebenen Stückzahlen bzw. die
+1.  In allen Datenfeldern sind grundsätzlich kumulierte Werte einzutragen,
+    d. h. es können die statistisch fortgeschriebenen Stückzahlen bzw. die
     auf den entsprechenden Konten bis zum Quartalsende aufgelaufenen
     Beträge verwendet werden.
 
@@ -6825,52 +7138,10 @@ Pflegepflichtversicherung.
 
 
 
-## **Nr. 40: Anmerkungen zur Nachweisung 602**
+**Nr. 42: Formular F.602.01**
 
-
-1.  Im Feld „Berichtszeitraum“ sind für die einzelnen Stichtage unabhängig
-    vom Abschlussstichtag des Jahresabschlusses folgende Kennzahlen
-    anzugeben:
-
-    a)
-        *            *   zum 31. März:
-
-            *   1;
-
-
-
-
-
-    b)
-        *            *   zum 30. Juni:
-
-            *   2;
-
-
-
-
-
-    c)
-        *            *   zum 30. September:
-
-            *   3;
-
-
-
-
-
-    d)
-        *            *   zum 31. Dezember:
-
-            *   4.
-
-
-
-
-
-
-    In allen Datenfeldern sind grundsätzlich kumulierte Werte einzutragen,
-    d. h. es können die statistisch fortgeschriebenen Stückzahlen bzw. die
+1.  In allen Datenfeldern sind grundsätzlich kumulierte Werte einzutragen,
+    d. h. es können die statistisch fortgeschriebenen Stückzahlen bzw. die
     auf den entsprechenden Konten bis zum Quartalsende aufgelaufenen
     Beträge verwendet werden.
 
@@ -6902,59 +7173,16 @@ Pflegepflichtversicherung.
 
 
 
-## **Nr. 41: Anmerkungen zur Nachweisung 603**
+**Nr. 43: Formular F.603.01**
 
-
-1.  Im Feld „Berichtszeitraum“ sind für die einzelnen Stichtage unabhängig
-    vom Abschlussstichtag des Jahresabschlusses folgende Kennzahlen
-    anzugeben:
-
-    a)
-        *            *   zum 31. März:
-
-            *   1;
-
-
-
-
-
-    b)
-        *            *   zum 30. Juni:
-
-            *   2;
-
-
-
-
-
-    c)
-        *            *   zum 30. September:
-
-            *   3;
-
-
-
-
-
-    d)
-        *            *   zum 31. Dezember:
-
-            *   4.
-
-
-
-
-
-
-
-    In allen Datenfeldern sind grundsätzlich kumulierte Werte einzutragen,
-    d. h. es können die statistisch fortgeschriebenen Stückzahlen bzw. die
+1.  In allen Datenfeldern sind grundsätzlich kumulierte Werte einzutragen,
+    d. h. es können die statistisch fortgeschriebenen Stückzahlen bzw. die
     auf den entsprechenden Konten bis zum Quartalsende aufgelaufenen
     Beträge verwendet werden.
 
 
-2.  Die in der Nachweisung 230 als Versicherung gegen Einmalbetrag (Zeile
-    20) ausgewiesenen unterjährigen Versicherungen (z. B. kurzfristige
+2.  Die im Formular F.230.01 als Versicherung gegen Einmalbetrag (Zeile
+    ZE0200) ausgewiesenen unterjährigen Versicherungen (z. B. kurzfristige
     Auslandsreisekrankenversicherungen) sind hier nicht einzubeziehen.
 
     Bei Familienpolicen ohne genaue Festlegung der Anzahl der versicherten
@@ -6962,100 +7190,59 @@ Pflegepflichtversicherung.
     Versicherten auszugehen.
 
 
-3.  Unter dem Zugang in den Zeilen 03 und 04 werden auch Zugänge zum 1.
-    Januar des Geschäftsjahres erfasst. Kündigungen zum Ende des
-    Berichtsraumes werden noch als Bestand (Zeilen 06 und 07) mitgezählt.
+3.  Unter dem Zugang in den Zeilen ZE0030 und ZE0040 werden auch Zugänge
+    zum 1. Januar des Geschäftsjahres erfasst. Kündigungen zum Ende des
+    Berichtsraumes werden noch als Bestand (Zeilen ZE0060 und ZE0070)
+    mitgezählt.
 
-    Die Abgrenzung ist analog zu den entsprechenden Posten der Nachweisung
-    230, jeweils Zeile 04 vorzunehmen, d. h. ohne Umstufungen und
+    Die Abgrenzung ist analog zu den entsprechenden Posten des Formulars
+    F.230.01, jeweils Zeile ZE0040 vorzunehmen, d. h. ohne Umstufungen und
     Geburten.
 
 
 4.  Zu berücksichtigen sind hier auch die unterjährigen Versicherungen
-    gegen Einmalbetrag (z. B. kurzfristige
+    gegen Einmalbetrag (z. B. kurzfristige
     Auslandsreisekrankenversicherungen).
 
 
-5.  In den Zeilen 03 und 06 der Spalte 01 ist eine Person, die in mehreren
-    Versicherungsarten versichert ist, nur einmal zu zählen. Die
-    versicherten Personen bei Beihilfeablöse-, Auslands-, Restschuld- und
-    Lohnfortzahlungsversicherungen werden nicht berücksichtigt.
+5.  In den Zeilen ZE0030 und ZE0060 der Spalte SP0010 ist eine Person, die
+    in mehreren Versicherungsarten versichert ist, nur einmal zu zählen.
+    Die versicherten Personen bei Beihilfeablöse-, Auslands-, Restschuld-
+    und Lohnfortzahlungsversicherungen werden nicht berücksichtigt.
 
     Eine Person, die sowohl eine Krankheitskostenvollversicherung als auch
     eine andere Versicherung nach Art der Lebensversicherung abgeschlossen
-    hat, ist sowohl in Spalte 02 als auch in Spalte 03 zu erfassen, in
-    Spalte 01 jedoch nur einmal zu zählen. Der Gesamtbestand (Spalte 01)
-    ist daher in der Regel kleiner als die Summen der jeweiligen Spalten
-    02 bis 04.
+    hat, ist sowohl in Spalte SP0020 als auch in Spalte SP0030 zu
+    erfassen, in Spalte SP0010 jedoch nur einmal zu zählen. Der
+    Gesamtbestand (Spalte SP0010) ist daher in der Regel kleiner als die
+    Summen der jeweiligen Spalten SP0020 bis SP0040.
 
 
-6.  In Spalte 02 soll ausschließlich die Krankheitskostenvollversicherung
-    erfasst werden. Eine solche liegt für eine Person dann und nur dann
-    vor, wenn für diese Person bei dem Unternehmen auch die allgemeinen
-    Krankenhausleistungen versichert sind und es sich bei den allgemeinen
-    Krankenhausleistungen nicht um die Absicherung von Differenzkosten zur
-    GKV-Leistung handelt.
+6.  In Spalte SP0020 soll ausschließlich die
+    Krankheitskostenvollversicherung erfasst werden. Eine solche liegt für
+    eine Person dann und nur dann vor, wenn für diese Person bei dem
+    Unternehmen auch die allgemeinen Krankenhausleistungen versichert sind
+    und es sich bei den allgemeinen Krankenhausleistungen nicht um die
+    Absicherung von Differenzkosten zur GKV-Leistung handelt.
 
 
-7.  Hier sind die Summenversicherungen sowie die nicht in Spalte 02 zu
+7.  Hier sind die Summenversicherungen sowie die nicht in Spalte SP0020 zu
     erfassenden Krankheitskostenversicherungen zu berücksichtigen.
 
     Sofern eine Person mehrere „sonstige Versicherungen“ abgeschlossen
-    hat, ist diese Person in Spalte 03 nur einmal zu zählen. Ein Vergleich
-    mit der Nachweisung 230 ist nicht möglich, da diese Person dort
-    gegebenenfalls in mehreren Spalten erfasst werden muss. Der Endbestand
-    in Spalte 03 ist daher in der Regel kleiner als der angegebene
-    Endbestand in Spalte 01.
+    hat, ist diese Person in Spalte SP0030 nur einmal zu zählen. Ein
+    Vergleich mit dem Formular F.230.01 ist nicht möglich, da diese Person
+    dort gegebenenfalls in mehreren Spalten erfasst werden muss. Der
+    Endbestand in Spalte SP0030 ist daher in der Regel kleiner als der
+    angegebene Endbestand in Spalte SP0010.
 
 
 
 
-## **Nr. 42: Anmerkungen zur Nachweisung 604**
+**Nr. 44: Formular F.604.01**
 
-
-1.  Im Feld „Berichtszeitraum“ sind für die einzelnen Stichtage unabhängig
-    vom Abschlussstichtag des Jahresabschlusses folgende Kennzahlen
-    anzugeben:
-
-    a)
-        *            *   zum 31. März:
-
-            *   1;
-
-
-
-
-
-    b)
-        *            *   zum 30. Juni:
-
-            *   2;
-
-
-
-
-
-    c)
-        *            *   zum 30. September:
-
-            *   3;
-
-
-
-
-
-    d)
-        *            *   zum 31. Dezember:
-
-            *   4.
-
-
-
-
-
-
-    In allen Datenfeldern sind grundsätzlich kumulierte Werte einzutragen,
-    d. h. es können die statistisch fortgeschriebenen Stückzahlen bzw. die
+1.  In allen Datenfeldern sind grundsätzlich kumulierte Werte einzutragen,
+    d. h. es können die statistisch fortgeschriebenen Stückzahlen bzw. die
     auf den entsprechenden Konten bis zum Quartalsende aufgelaufenen
     Beträge verwendet werden.
 
@@ -7063,7 +7250,7 @@ Pflegepflichtversicherung.
 2.  Von den Schaden- und Unfall-VU sind nur Angaben über das selbst
     abgeschlossene VG zu machen. Rückversicherungsunternehmen haben nur
     über das in Rückdeckung übernommene VG zu berichten; für sie entfallen
-    die Angaben in den Zeilen 02, 04 und 05 sowie 11, 13 und 14.
+    die Angaben in den Zeilen ZE0020, ZE0040 und ZE0050.
 
 
 3.  Wenn das gesamte selbst abgeschlossene VG (Vz-Kz 30) bzw. das gesamte
@@ -7088,8 +7275,8 @@ Pflegepflichtversicherung.
 
 ## Abschnitt B
 
-Verzeichnis der in den Formblättern,
-## Nachweisungen und Anmerkungen verwendeten Abkürzungen
+## Verzeichnis der in den Formularen und Anmerkungen verwendeten
+Abkürzungen
 
 
 
@@ -7106,6 +7293,16 @@ Verzeichnis der in den Formblättern,
 *    *   AktG
 
     *   Aktiengesetz
+
+
+*    *   AltZertG
+
+    *   Altersvorsorgeverträge-Zertifizierungsgesetz
+
+
+*    *   Anm.
+
+    *   Anmerkung
 
 
 *    *   AP
@@ -7189,11 +7386,6 @@ Verzeichnis der in den Formblättern,
     *   Eigenkapital
 
 
-*    *   Fb
-
-    *   Formblatt
-
-
 *    *   GJ
 
     *   Geschäftsjahr(e, es)
@@ -7271,16 +7463,6 @@ Verzeichnis der in den Formblättern,
     *   Nachverrechnung(en)
 
 
-*    *   Nw
-
-    *   Nachweisung
-
-
-*    *   Pb
-
-    *   Prüfbuchstabe
-
-
 *    *   P/St
 
     *   Pensions- und Sterbekassen
@@ -7342,11 +7524,6 @@ Verzeichnis der in den Formblättern,
     *   Rückversicherungsunternehmen
 
 
-*    *   S.
-
-    *   Seite
-
-
 *    *   s. a. VG
 
     *   selbst abgeschlossenes Versicherungsgeschäft
@@ -7357,11 +7534,6 @@ Verzeichnis der in den Formblättern,
     *   selbst abgeschlossenes Versicherungsgeschäft
 
 
-*    *   Sp.
-
-    *   Spalte
-
-
 *    *   SR
 
     *   Rückstellung für noch nicht abgewickelte Versicherungsfälle
@@ -7370,11 +7542,6 @@ Verzeichnis der in den Formblättern,
 *    *   T
 
     *   Teilbetrag
-
-
-*    *   TsdEuro
-
-    *   Tausend Euro
 
 
 *    *   UBR
@@ -7437,6 +7604,11 @@ Verzeichnis der in den Formblättern,
     *   Versicherungsschein
 
 
+*    *   VU
+
+    *   Versicherungsunternehmen
+
+
 *    *   VVG
 
     *   Versicherungsvertragsgesetz
@@ -7452,11 +7624,6 @@ Verzeichnis der in den Formblättern,
     *   Versicherungszweig-Kennzahl
 
 
-*    *   Z.
-
-    *   Zeile(n)
-
-
 *    *   ZJ
 
     *   Zeichnungsjahr(e, es)
@@ -7466,1671 +7633,1203 @@ Verzeichnis der in den Formblättern,
 
 ## Abschnitt C
 
-## Bearbeitung der formgebundenen Erläuterungen
+## Weitere Formularvorgaben
 
 
-1.  Allgemeines ****
+**1.** **Allgemeines**
 
-    Die formgebundenen Erläuterungen nach den Formblättern und
-    Nachweisungen gemäß den §§ 2 bis 14, 19 und 22 sind entweder
-    elektronisch oder auf Papierformularen einzureichen.
 
+1.1 Datenpunkte vom Datentyp „Monetär“ sind in Euro anzugeben.
 
 
+1.2 Datenpunkte vom Datentyp „Prozentsatz“ sind mit vier Dezimalstellen
+    auszudrücken (z. B. der Prozentsatz 37,12 % ist mit 0.3712 anzugeben).
 
-2.  Elektronische Einreichung ****
 
-    Die Unternehmen haben die ordnungsgemäße Datenübermittlung durch
-    Berücksichtigung der am MVP-Portal hinterlegten Informationen und
-    Hinweise sicherzustellen. Bei der Datenerfassung und bei deren
-    Übermittlung an die BaFin sind die „Grundsätze für die Durchführung
-    regelmäßiger Datenübermittlungen an das Bundesaufsichtsamt für das
-    Versicherungswesen (Datenübermittlungsgrundsätze – DÜG)“ zu beachten.
+1.3 Alle Datenpunkte sind als positive Werte anzugeben, außer in den
+    folgenden Fällen:
 
+    a)  Die Datenpunkte sind in Bezug auf den natürlichen Betrag des Postens
+        von gegensätzlicher Art.
 
 
+    b)  Die Art des Datenpunktes ermöglicht das Melden positiver und negativer
+        Werte.
 
-3.  Papierformulare ****
 
+    c)  Nach Maßgabe der Hinweise in Anlage 2 Abschnitt A ist ein anderes
+        Meldeformat erforderlich.
 
-3.1 Formblätter und Nachweisungen auf Papierformularen werden in der BaFin
-    mit einem Schriftenlesesystem erfasst. Sie sind nach Prüfung durch die
-    BaFin (siehe Tz. 3.2.2.1) auf Endlospapier mit EDV-Druckern zu
-    erstellen.
 
 
-3.2 Die einzelnen Formularseiten sind zu vollständigen Formblättern oder
-    Nachweisungen zusammenzustellen.
 
 
-3.3 Von den Formblättern und Nachweisungen ist eine Ausfertigung als
-    Datenerfassungsbeleg vorgesehen. Hierfür ist stets das
-    Originalformular (keine Durchschriften und Kopien) zu verwenden.
-    Endlosformulare dürfen weder gefaltet noch mechanisch beschädigt sein.
+1.4 Datenpunkte, zu denen das Versicherungsunternehmen keine Angaben
+    machen kann, bleiben leer.
 
 
-3.4 Im Datenteil des Einzelformulars dürfen die in den Formularen der
-    Anlage 3 enthaltenen Operationszeichen (+, –, =, ( ), <) sowie Summen-
-    oder Gliederungsstriche nicht eingetragen werden.
+1.5 Sofern ergänzende Hinweise und Bemerkungen zu Formularen erforderlich
+    werden, sind diese als qualitativer Formularteil gemäß § 24b Absatz 2
+    Satz 1 einzureichen.
 
-    Vor dem erstmaligen Einsatz von Endlosformularen sind Musterausdrucke
-    für jede Seite der damit zu erstellenden Formblätter und Nachweisungen
-    der BaFin zur Prüfung vorzulegen.
 
+**2.** **Kopfzeilen**
 
-3.5 Von dem Endlospapier ist der gelochte Randstreifen zu entfernen. Die
-    einzelnen Blätter des Endlospapiers sind zu trennen.
+    Für die Befüllung der Kopfzeilenfelder sind die nachfolgend
+    aufgeführten Kennzeichnungen zu verwenden.
 
 
-3.6 Ausfüllen der Formulare
+2.1 Formular F.200.01
 
 
-3.6.1 Allgemeines
+2.1.1 Lebensversicherungsunternehmen
 
-    Die Datenfelder sind im farbig unterlegten Formular als Weißzonen
-    kenntlich gemacht. Außerhalb der Weißzonen dürfen keine Angaben
-    gemacht werden.
+    *        *   Fundstelle
 
-    Sofern ausnahmsweise ergänzende Hinweise und Bemerkungen zu
-    Formblättern und Nachweisungen erforderlich werden, sind sie auf einem
-    separaten Blatt beizufügen.
+        *   Art des VG
 
+        *   Form des VG
 
-3.6.2 Formularkopf
-
-    Bei der Erstellung der Formularköpfe der Formblätter und Nachweisungen
-    sind die in den Anmerkungen enthaltenen Hinweise zu einzelnen
-    Datenfeldern zu beachten. Bei den Datenfeldern, die auf allen oder
-    mehreren Formblättern und Nachweisungen identisch sind, ist Folgendes
-    zu beachten:
-
-
-3.6.2.1 Im Feld „Pb“ ist für Kontrollzwecke der zur Register-Nummer des
-    Versicherungsunternehmens gehörende Prüfbuchstabe anzugeben, der von
-    der BaFin vergeben wird.
-
-
-3.6.2.2 Im Feld „MMJJ“ ist der Abschlussstichtag durch die Monatsangabe in
-    Zahlen und durch die beiden letzten Ziffern der Jahreszahl zu
-    kennzeichnen (zum Beispiel: 31.12.2004 = 1204 oder 30.6.2005 = 0605).
-
-
-3.6.2.3 Die Felder „Form des VG“, „Va/Vz/VG“ und „Herkunft des VG“
-    kennzeichnen das in den Formblättern und Nachweisungen dargestellte
-    Versicherungsgeschäft. Bei der Kennzeichnung ist Folgendes zu
-    beachten:
-
-
-3.6.2.3.1 In den ersten Teil des Feldes „Form des VG“ sind einzusetzen für das
-
-    –   selbst abgeschlossene Versicherungsgeschäft die Kennzahl 1,
-
-
-    –   in Rückdeckung übernommene Versicherungsgeschäft die Kennzahl 4,
-
-
-    –   gesamte Versicherungsgeschäft die Kennzahl 7.
-
-
-
-
-
-3.6.2.3.2 Die Kennzahlen für die Felder „Va/Vz/VG“ (Formblatt 200, Nachweisungen
-    240 und 242), „Vz/VG“ (Formblatt 300, Nachweisung 252 und 342) oder
-    „Va“ (Nachweisung 243) ergeben sich aus Anlage 1 Abschnitt C.
-
-
-3.6.2.3.3 Die Kennzahlen für das Feld „Herkunft des VG“ ergeben sich aus Anlage
-    1 Abschnitt B. Das Feld befindet sich nur auf dem Formblatt 200 sowie
-    auf der Nachweisung 265.
-
-
-3.6.2.3.4 Aus den vorstehenden Ausführungen ergibt sich, dass in die Kopfzeile
-    der Formblätter 200 und 300 sowie der Nachweisungen 240, 242, 243,
-    252, 265 und 342 für Form des VG, Va/Vz/VG und/oder Herkunft des VG
-    folgende Kennzahlen einzusetzen sind:
-
-
-
-
-*    *   **Formblatt 200**
-
-    *   **Lebens- und Krankenversicherungsunternehmen**
-
-
-
-
-*    *   BerVersV
-
-    *   Fb 200 für:
-
-    *   Kennzahlen
-
-
-*    *   Form des VG
-
-    *   Va
-
-    *   Vz
-
-    *   VG
-
-    *   Herkunft des VG
-
-
-*    *   1. Feld
-
-    *   2. Feld
-
-    *   1. Feld
-
-    *   2. Feld
-
-    *   3. Feld
-
-    *   1. Feld
-
-    *   2. Feld
-
-
-*    *   § 2 Nr. 2
-
-    *   das gesamte VG
-
-    *   7
-
-    *
-    *
-    *
-    *   30
-
-    *   00
-
-    *
-
-*    *   § 3 Abs. 1 Nr. 1a
-
-    *   das gesamte selbst
-        abg. VG
-
-    *   1
-
-    *
-    *
-    *   01
-        02
-
-    *   30
-
-    *   00
-
-    *
-
-*    *   § 3 Abs. 1 Nr. 1b
-
-    *   das gesamte übernommene VG
-
-    *   4
-
-    *
-    *
-    *   01
-        02
-
-    *   30
-
-    *   00
-
-    *
-
-*    *   § 3 Abs. 1 Nr. 2a
-
-    *   das inländische selbst abg. und das im Wege des
-        Dienstleistungsverkehrs selbst abg. ausländische VG
-
-    *   1
-
-    *
-    *
-    *
-    *   30
-
-    *   01
-
-    *
-
-*    *   § 3 Abs. 1 Nr. 2b
-
-    *   das ausländische selbst abg. Niederlassungs-VG
-
-    *   1
-
-    *
-    *
-    *
-    *   30
-
-    *   99
-
-    *
-
-*    *   § 3 Abs. 1 Nr. 2c
-
-    *   das durch eine Niederlassung selbst abg. VG pro Land
-
-    *   1
-
-    *
-    *
-    *
-    *   30
-
-    *   21 bis
-        48, 51
-        bis 63
-
-    *
-
-*    *   § 5 Abs. 1
-
-    *   das selbst abg. Unfallversicherungsgeschäft
-
-    *   1
-
-    *
-    *
-    *   03
-
-    *
-    *   00
-
-    *
-
-
-
-*    *   **Formblatt 200**
-
-    *   **Schaden- und Unfallversicherungsunternehmen sowie
-        Rückversicherungsunternehmen**
-
-
-
-
-*    *   BerVersV
-
-    *   Fb 200 für:
-
-    *   Kennzahlen
-
-
-*    *   Form des VG
-
-    *   Va
-
-    *   Vz
-
-    *   VG
-
-    *   Herkunft des VG
-
-
-*    *   1. Feld
-
-    *   2. Feld
-
-    *   1. Feld
-
-    *   2. Feld
-
-    *   3. Feld
-
-    *   1. Feld
-
-    *   2. Feld
-
-
-*    *   § 2 Nr. 2
-
-    *   das gesamte VG
-
-    *   7
-
-    *
-    *
-    *
-    *   30
-
-    *   00
-
-    *
-
-*    *   § 4 Abs. 1 Nr. 1a
-
-    *   das gesamte selbst
-        abg. VG
-
-    *   1
-
-    *
-    *
-    *
-    *   30
-
-    *   00
-
-    *
-
-*    *   § 4 Abs. 1 Nr. 1b
-
-    *   die genannten Versicherungszweige des selbst abg. VG
-
-    *   1
-
-    *
-    *
-    *   02 bis 08, 13, 14, 19, 20, 24, 25, 28
-
-    *
-    *   00
-
-    *
-
-*    *   § 4 Abs. 1 Nr. 1c
-
-    *   die selbst abg. Kraftfahrt-Versicherungsarten
-
-    *   1
-
-    *
-    *   051
-        und
-        055
-
-    *
-    *
-    *   00
-
-    *
-
-*    *   § 4 Abs. 1 Nr. 1d
-
-    *   das gesamte übernommene VG
-
-    *   4
-
-    *
-    *
-    *
-    *   30
-
-    *   00
-
-    *
-
-*    *   § 4 Abs. 1 Nr. 1e
-
-    *   die Versicherungszweige des übernommenen VG, auf die verwiesen wird
-
-    *   4
-
-    *
-    *
-    *   02 bis 08, 13, 14, 19, 20, 24, 25, 28
-
-    *
-    *   00
-
-    *
-
-*    *   § 4 Abs. 1 Nr. 2
-
-    *   die Sonstige Schadenversicherung
-
-    *   1
-        4
-
-    *
-    *
-    *   29
-
-    *
-    *   00
-
-    *
-
-*    *   § 4 Abs. 1 Nr. 3a
-
-    *   das gesamte inländische
-        selbst abg. VG
-
-    *   1
-
-    *
-    *
-    *
-    *   30
-
-    *   01
-
-    *
-
-*    *   § 4 Abs. 1 Nr. 3b
-
-    *   das gesamte ausländische selbst abg. VG
-
-    *   1
-
-    *
-    *
-    *
-    *   30
-
-    *   99
-
-    *
-
-*    *   § 4 Abs. 1 Nr. 3c
-
-    *   das durch eine Niederlassung selbst abg. VG pro Land
-
-    *   1
-
-    *
-    *
-    *
-    *   30
-
-    *   21 bis 48, 51 bis 63
-
-    *
-
-*    *   § 4 Abs. 1 Nr. 3d
-
-    *   das übernommene inländische VG
-
-    *   4
-
-    *
-    *
-    *
-    *   30
-
-    *   01
-
-    *
-
-*    *   § 4 Abs. 1 Nr. 3e
-
-    *   das übernommene ausländische VG
-
-    *   4
-
-    *
-    *
-    *
-    *   30
-
-    *   99
-
-    *
-
-*    *   § 4 Abs. 1 Nr. 3f
-
-    *   die selbst abg. Unfallversicherungen mit Beitragsrückgewähr
-
-    *   1
-
-    *
-    *   038
-
-    *
-    *
-    *   00
-
-    *
-
-*    *   § 5 Abs. 2
-
-    *   das selbst abg.
-        Kranken-VG
-
-    *   1
-
-    *
-    *
-    *   02
-
-    *
-    *   00
-
-    *
-
-
-
-*    *   **Formblatt 200**
-
-    *   **Schaden- und Unfallversicherungsunternehmen sowie
-        Rückversicherungsunternehmen**
-
-
-
-
-*    *   BerVersV
-
-    *   Fb 200 für:
-
-    *   Kennzahlen
-
-
-*    *   Form des VG
-
-    *   Va
-
-    *   Vz
-
-    *   VG
-
-    *   Herkunft des VG
-
-
-*    *   1. Feld
-
-    *   2. Feld
-
-    *   1. Feld
-
-    *   2. Feld
-
-    *   3. Feld
-
-    *   1. Feld
-
-    *   2. Feld
-
-
-*    *   § 6 Satz 1 Nr. 1
-
-    *   das gesamte
-        übernommene
-        inländische VG
-
-    *   4
-
-    *
-    *
-    *
-    *   30
-
-    *   01
-
-    *
-
-*    *   § 6 Satz 1 Nr. 2
-
-    *   das gesamte
-        übernommene
-        ausländische VG
-
-    *   4
-
-    *
-    *
-    *
-    *   30
-
-    *   99
-
-    *
-
-*    *   § 6 Satz 1 Nr. 3 und Nr. 4
-
-    *   für jeden genannten
-        Versicherungszweig
-
-    *   4
-
-    *
-    *
-    *   01 bis 06, 08, 19, 20, 25, 28, 29
-
-    *
-    *   00
-
-    *
-
-
-
-*    *   **Formblatt 300**
-
-    *   **Bestimmte kleinere Vereine nach Kapitel 3 BerVersV**
-
-
-
-
-*    *   BerVersV
-
-    *   Fb 300 für:
-
-    *   Kennzahlen
-
-
-*    *   Form des VG
-
-    *   Va
-
-    *   Vz
-
-    *   VG
-
-
-*    *   1. Feld
-
-    *   2. Feld
-
-    *   1. Feld
-
-    *   2. Feld
-
-    *   3. Feld
-
-
-*    *   § 22 Abs. 1 Satz 2 Nr. 1
-
-    *   das gesamte VG
-
-    *   7
-
-    *
-    *
-    *
-    *   30
-
-
-*    *   § 22 Abs. 2
-
-    *   für jeden genannten Versicherungszweig
-
-    *   1
-
-    *
-    *
-    *   02 bis 08, 13, 14, 19, 20, 24, 25, 28, 29
-
-    *
-
-
-
-*    *   **Nachweisung 240 und 242**
-
-
-
-
-*    *   Anlage 2 BerVersV,
-        Abschnitt A Nr. 33
-
-    *   Nachweisung 240 für:
-
-    *   Kennzahlen
-
-
-*    *   Va
-
-    *   Vz
-
-    *   VG
-
-
-*    *   1. Feld
-
-    *   2. Feld
-
-    *   3. Feld
-
-
-*    *   Unternummer 1
-        Buchstabe a
-
-    *   die genannten einzelnen Vz des selbst abg. VG
-
-    *
-    *   02 bis 08, 13, 14, 19, 20, 24, 25, 28, 29
-
-    *
-
-*    *   Unternummer 1
-        Buchstabe b
-
-    *   die selbst abg. Kraftfahrtversicherungsarten
-
-    *   051
-        und
-        055
-
-    *
-    *
-
-*    *   Unternummer 1
-        Buchstabe c
-
-    *   das gesamte selbst abg. VG
-
-    *
-    *
-    *   30
-
-
-
-
-*    *   Anlage 2 BerVersV,
-        Abschnitt A Nr. 34
-
-    *   Nachweisung 242 für:
-
-    *   Kennzahlen
-
-
-*    *   Va
-
-    *   Vz
-
-    *   VG
-
-
-*    *   1. Feld
-
-    *   2. Feld
-
-    *   3. Feld
-
-
-*    *   Unternummer 1
-        Buchstabe a
-
-    *   Seite 1 bis 4 für die einzelnen Vz des selbst abg. VG
-
-    *
-    *   02 bis 08, 13, 14, 19, 20, 24, 25, 28, 29
-
-    *
-
-*    *   Unternummer 1
-        Buchstabe b
-
-    *   Seite 1 bis 4 für die selbst abg. Kraftfahrtversicherungsarten
-
-    *   051
-        und
-        055
-
-    *
-    *
-
-*    *   Unternummer 1
-        Buchstabe c
-
-    *   Seite 1 bis 4 für das gesamte selbst abg. VG
-
-    *
-    *
-    *   30
-
-
-
-
-*    *   **Nachweisung 243**
-
-
-
-
-*    *   Anlage 2 BerVersV,
-        Abschnitt A Nr. 35
-
-    *   Nachweisung 243 für:
-
-    *   Kennzahlen
-
-
-*    *   Va
-
-
-*    *   Unternummer 1
-
-    *   bestimmte Va des selbst abg. VG
-
-    *   041, 042, 081, 201, 202
-
-
-
-
-*    *   **Nachweisung 252 und 342**
-
-
-
-
-*    *   Anlage 2 BerVersV,
-        Abschnitt A Nr. 37
-
-    *   Nachweisung 252 für:
-
-    *   Kennzahlen
-
-
-*    *   Vz
-
-    *   VG
-
-
-*    *   1. Feld
-
-    *   2. Feld
-
-
-*    *   Unternummer 1
-        Buchstabe a
-
-    *   die genannten einzelnen Vz
-        des übernommenen VG
-
-    *   01 bis 06, 08, 19, 20, 25, 28, 29
-
-    *
-
-*    *   Unternummer 1
-        Buchstabe b
-
-    *   das gesamte übernommene VG
-
-    *
-    *   30
-
-
-
-
-*    *   Anlage 2 BerVersV,
-        Abschnitt A Nr. 38
-
-    *   Nachweisung 342 für:
-
-    *   Kennzahlen
-
-
-*    *   Vz
-
-    *   VG
-
-
-*    *   1. Feld
-
-    *   2. Feld
-
-
-*    *   Unternummer 1
-        Buchstabe a
-
-    *   die genannten einzelnen Vz
-        des selbst abg. VG
-
-    *   02 bis 08, 13, 14, 19, 20, 24, 25, 28, 29
-
-    *
-
-*    *   Unternummer 1
-        Buchstabe b
-
-    *   das gesamte selbst abg. VG
-
-    *
-    *   30
-
-
-
-
-*    *   **Nachweisung 265**
-
-
-
-
-*    *   Anlage 2 BerVersV,
-        Abschnitt A Nr. 27
-
-    *   Nachweisung 265 für:
-
-    *   Kennzahlen
-
-
-*    *   Herkunft des VG
-
-
-*    *   1. Feld
-
-    *   2. Feld
-
-
-*    *   Unternummer 1
-        Buchstabe a
-
-    *   das gesamte ausländische VG
-        (nur EWR)
-
-    *
-    *   72
-
-
-*    *   Unternummer 1
-        Buchstabe b
-
-    *   das ausländische VG pro Land
-        (nur EWR-Staaten)
-
-    *   21 bis 48, 51 bis 63
-
-    *
-
-
-
-3.6.2.3.5 Die verschiedenen Ausfertigungen der Formblätter 200 und 300 sowie der
-    Nachweisungen 240, 242, 252, 265 und 342 können in bestimmten Fällen
-    identische Datenteile enthalten. In derartigen Fällen sind die
-    Formblätter und Nachweisungen nicht mehrfach vorzulegen. Vielmehr sind
-    in der Kopfzeile des Formblatts oder der Nachweisung die Kennzahlen
-    für „Form des VG“, „Va/Vz/VG“ und/oder „Herkunft des VG“, die gemäß
-    der Teilziffer 3.6.2.3.4. die verschiedenen Ausfertigungen
-    kennzeichnen würden, miteinander zu kombinieren, d. h. sowohl
-    dieselben als auch unterschiedliche Kennzahlen in den einzelnen
-    Ausfertigungen sind auch in der kombinierten Kennzahlenzeile
-    anzubringen oder zu wiederholen.
-
-    Die Grundvoraussetzungen für identische Datenteile sind in folgenden
-    Fällen gegeben, bei denen die Kombination der Kennzahlenzeilen –
-    dargestellt am Beispiel des Formblatts 200 für die Schaden- und
-    Unfallversicherungsunternehmen – wie folgt vorzunehmen ist:
-
-
-
-
-*
-    *        *   Fall 1:
-
-        *   Es wird nur eine Form des VG, d. h. entweder nur das selbst
-            abgeschlossene oder nur das übernommene VG betrieben, so dass Form 1
-            oder Form 4 mit Form 7 identisch sind:
-
-
-
-
-    *        *   Formblatt Arten
-
-        *   Kennzahlen
-
-
-    *        *   Form des VG
-
-        *   Va
-
-        *   Vz
-
-        *   VG
+        *   Va/Vz/VG
 
         *   Herkunft des VG
 
 
-    *        *   1. Feld
+    *        *   § 2 Nr. 2
 
-        *   2. Feld
+        *   das gesamte VG
 
-        *   1. Feld
+        *   Form 7
 
-        *   2. Feld
+        *   VG 30
 
-        *   3. Feld
-
-        *   1. Feld
-
-        *   2. Feld
+        *   Herkunft 00
 
 
-    *        *   Formblatt 1
+    *        *   § 3 Abs. 1 Nr. 1 a)
 
-        *   7
+        *   das gesamte s. a. VG
 
-        *
-        *
-        *
-        *   30
+        *   Form 1
 
-        *   00
+        *   VG 30
 
-        *
-
-    *        *   Formblatt 2
-
-        *   1
-
-        *
-        *
-        *
-        *   30
-
-        *   00
-
-        *
-
-    *        *   Gemeinsames Formblatt
-
-        *   1
-
-        *   7
-
-        *
-        *
-        *   30
-
-        *   00
-
-        *
+        *   Herkunft 00
 
 
+    *        *   § 3 Abs. 1 Nr. 1 b)
+
+        *   das gesamte in Rückdeckung übernommene VG
+
+        *   Form 4
+
+        *   VG 30
+
+        *   Herkunft 00
 
 
-*
-    *        *   Fall 2:
+    *        *   § 3 Abs. 1 Nr. 2 a)
 
-        *   In der selbst abgeschlossenen Kraftfahrtversicherung wird nur eine Va
-            betrieben, so dass z. B. Va 051 mit dem Vz 05 identisch ist:
+        *   das gesamte inländische und das im Wege des Dienstleistungsverkehrs
+            selbst abgeschlossene ausländische VG
 
+        *   Form 1
 
+        *   VG 30
 
-
-    *        *   Formblatt Arten
-
-        *   Kennzahlen
+        *   Herkunft 01
 
 
-    *        *   Form des VG
+    *        *   § 3 Abs. 1 Nr. 2 b)
 
-        *   Va
+        *   das gesamte durch Niederlassungen im Ausland s. a. VG
 
-        *   Vz
+        *   Form 1
 
-        *   VG
+        *   VG 30
+
+        *   Herkunft 99
+
+
+    *        *   § 3 Abs. 1 Nr. 2 c)
+
+        *   das durch eine Niederlassung in einem anderen Mitglied- oder
+            Vertragsstaat s. a. VG
+
+        *   Form 1
+
+        *   VG 30
+
+        *   Herkunft 21 bis Herkunft 25, Herkunft 31 bis Herkunft 34, Herkunft 41,
+            Herkunft 42, Herkunft 44 bis Herkunft 48, Herkunft 51 bis Herkunft 63
+
+
+    *        *   § 5 Abs. 1
+
+        *   die selbst abgeschlossene Allgemeine Unfallversicherung
+
+        *   Form 1
+
+        *   Vz 03
+
+        *   Herkunft 00
+
+
+
+
+
+2.1.2 Krankenversicherungsunternehmen
+
+    *        *   Fundstelle
+
+        *   Art des VG
+
+        *   Form des VG
+
+        *   Va/Vz/VG
 
         *   Herkunft des VG
 
 
-    *        *   1. Feld
+    *        *   § 2 Nr. 2
 
-        *   2. Feld
+        *   das gesamte Versicherungsgeschäft
 
-        *   1. Feld
+        *   Form 7
 
-        *   2. Feld
+        *   VG 30
 
-        *   3. Feld
-
-        *   1. Feld
-
-        *   2. Feld
+        *   Herkunft 00
 
 
-    *        *   Formblatt 1
+    *        *   § 3 Abs. 1 Nr. 1 a)
 
-        *   1
+        *   das gesamte s. a. VG
 
-        *
-        *   051
+        *   Form 1
 
-        *
-        *
-        *   00
+        *   VG 30
 
-        *
-
-    *        *   Formblatt 2
-
-        *   1
-
-        *
-        *   05
-
-        *
-        *   00
-
-        *
-
-    *        *   Gemeinsames Formblatt
-
-        *   1
-
-        *
-        *   051
-
-        *   05
-
-        *
-        *   00
-
-        *
+        *   Herkunft 00
 
 
+    *        *   § 3 Abs. 1 Nr. 1 b)
+
+        *   das gesamte in Rückdeckung übernommene VG
+
+        *   Form 4
+
+        *   VG 30
+
+        *   Herkunft 00
 
 
-*
-    *        *   Fall 3:
+    *        *   § 3 Abs. 1 Nr. 2 a)
 
-        *   Im selbst abgeschlossenen und/oder übernommenen VG wird nur ein Vz
-            betrieben, so dass dieser mit dem gesamten VG identisch ist:
+        *   das gesamte inländische und das im Wege des Dienstleistungsverkehrs
+            selbst abgeschlossene ausländische VG
 
+        *   Form 1
 
+        *   VG 30
 
-
-    *        *   Formblatt Arten
-
-        *   Kennzahlen
+        *   Herkunft 01
 
 
-    *        *   Form des VG
+    *        *   § 3 Abs. 1 Nr. 2 b)
 
-        *   Va
+        *   das gesamte durch Niederlassungen im Ausland s. a. VG
 
-        *   Vz
+        *   Form 1
 
-        *   VG
+        *   VG 30
+
+        *   Herkunft 99
+
+
+    *        *   § 3 Abs. 1 Nr. 2 c)
+
+        *   das durch eine Niederlassung in einem anderen Mitglied- oder
+            Vertragsstaat s. a. VG
+
+        *   Form 1
+
+        *   VG 30
+
+        *   Herkunft 21 bis Herkunft 25, Herkunft 31 bis Herkunft 34, Herkunft 41,
+            Herkunft 42, Herkunft 44 bis Herkunft 48, Herkunft 51 bis Herkunft 63
+
+
+
+
+
+2.1.3 Schaden- und Unfallversicherungsunternehmen
+
+    *        *   Fundstelle
+
+        *   Art des VG
+
+        *   Form des VG
+
+        *   Va/Vz/VG
 
         *   Herkunft des VG
 
 
-    *        *   1. Feld
+    *        *   § 2 Nr. 2
 
-        *   2. Feld
+        *   das gesamte Versicherungsgeschäft
 
-        *   1. Feld
+        *   Form 7
 
-        *   2. Feld
+        *   VG 30
 
-        *   3. Feld
-
-        *   1. Feld
-
-        *   2. Feld
+        *   Herkunft 00
 
 
-    *        *   Formblatt 1
+    *        *   § 4 Abs. 1 Nr. 1 a)
 
-        *   1
+        *   das gesamte s. a. VG
 
-        *
-        *
-        *   07
+        *   Form 1
 
-        *
-        *   00
+        *   VG 30
 
-        *
-
-    *        *   Formblatt 2
-
-        *   1
-
-        *
-        *
-        *
-        *   30
-
-        *   00
-
-        *
-
-    *        *   Gemeinsames Formblatt
-
-        *   1
-
-        *
-        *
-        *   07
-
-        *   30
-
-        *   00
-
-        *
+        *   Herkunft 00
 
 
+    *        *   § 4 Abs. 1 Nr. 1 b)
+
+        *   die genannten Versicherungszweige des s. a. VG
+
+        *   Form 1
+
+        *   Vz 03 bis
+            Vz 08,
+            Vz 13 bis
+            Vz 14,
+            Vz 19 bis
+            Vz 20,
+            Vz 24 bis
+            Vz 25, Vz 28
+
+        *   Herkunft 00
 
 
-*
-    *        *   Fall 4:
+    *        *   § 4 Abs. 1 Nr. 1 c)
 
-        *   Das VG hat nur eine Herkunft, d. h. es besteht entweder nur aus
-            inländischem oder ausländischem VG, so dass Herkunft 01 oder Herkunft
-            99 mit Herkunft 00 identisch sind:
+        *   die genannten Versicherungsarten des s. a. VG
 
+        *   Form 1
 
+        *   Va 051,
+            Va 055,
+            Va 261
 
-
-    *        *   Formblatt Arten
-
-        *   Kennzahlen
+        *   Herkunft 00
 
 
-    *        *   Form des VG
+    *        *   § 4 Abs. 1 Nr. 1 d)
 
-        *   Va
+        *   gesamte in Rückdeckung übernommene VG
 
-        *   Vz
+        *   Form 4
 
-        *   VG
+        *   VG 30
+
+        *   Herkunft 00
+
+
+    *        *   § 4 Abs. 1 Nr. 1 e)
+
+        *   die genannten Versicherungszweige des in Rückdeckung übernommenen VG
+
+        *   Form 4
+
+        *   Vz 01 bis
+            Vz 08, Vz 13 bis Vz 14, Vz 19
+            bis Vz 20, Vz 24 bis
+            Vz 25, Vz 28
+
+        *   Herkunft 00
+
+
+    *        *   § 4 Abs. 1 Nr. 1 f)
+
+        *   die genannte Versicherungsart des in Rückdeckung genommenen VG
+
+        *   Form 4
+
+        *   Va 261
+
+        *   Herkunft 00
+
+
+    *        *   § 4 Abs. 1 Nr. 2
+
+        *   das selbst abgeschlossene und für das in Rückdeckung übernommene
+            Geschäft im Versicherungszweig „Sonstige Schadenversicherung“
+
+        *   Form 1, Form 4
+
+        *   Vz 29
+
+        *   Herkunft 00
+
+
+    *        *   § 4 Abs. 1 Nr. 3 a)
+
+        *   das gesamte inländische selbst abgeschlossene Versicherungsgeschäft
+
+        *   Form 1
+
+        *   VG 30
+
+        *   Herkunft 01
+
+
+    *        *   § 4 Abs. 1 Nr. 3 b)
+
+        *   das gesamte ausländische selbst abgeschlossene Versicherungsgeschäft
+
+        *   Form 1
+
+        *   VG 30
+
+        *   Herkunft 99
+
+
+    *        *   § 4 Abs. 1 Nr. 3 c)
+
+        *   jeweils das durch eine Niederlassung in einem anderen Mitglied- oder
+            Vertragsstaat selbst abgeschlossene Versicherungsgeschäft
+
+        *   Form 1
+
+        *   VG 30
+
+        *   Herkunft 21 bis Herkunft 25, Herkunft 31 bis Herkunft 34, Herkunft 41,
+            Herkunft 42, Herkunft 44 bis Herkunft 48, Herkunft 51 bis Herkunft 63
+
+
+    *        *   § 4 Abs. 1 Nr. 3 d)
+
+        *   das in Rückdeckung übernommene Versicherungsgeschäft inländischer
+            Vorversicherer
+
+        *   Form 4
+
+        *   VG 30
+
+        *   Herkunft 01
+
+
+    *        *   § 4 Abs. 1 Nr. 3 e)
+
+        *   das in Rückdeckung übernommene Versicherungsgeschäft ausländischer
+            Vorversicherer
+
+        *   Form 4
+
+        *   VG 30
+
+        *   Herkunft 99
+
+
+    *        *   § 4 Abs. 1 Nr. 3 f)
+
+        *   die selbst abgeschlossenen Unfallversicherungen mit Beitragsrückgewähr
+
+        *   Form 1
+
+        *   Va 038
+
+        *   Herkunft 00
+
+
+    *        *   § 5 Abs. 2
+
+        *   das selbst abgeschlossene Krankenversicherungsgeschäft
+
+        *   Form 1
+
+        *   Vz 02
+
+        *   Herkunft 00
+
+
+
+
+
+2.1.4 Rückversicherungsunternehmen
+
+    *        *   Fundstelle
+
+        *   Art des VG
+
+        *   Form des VG
+
+        *   Va/Vz/VG
 
         *   Herkunft des VG
 
 
-    *        *   1. Feld
+    *        *   § 2 Nr. 2
 
-        *   2. Feld
+        *   das gesamte Versicherungsgeschäft
 
-        *   1. Feld
+        *   Form 7
 
-        *   2. Feld
+        *   VG 30
 
-        *   3. Feld
-
-        *   1. Feld
-
-        *   2. Feld
+        *   Herkunft 00
 
 
-    *        *   Formblatt 1
+    *        *   § 6 S. 1 Nr. 1
 
-        *   1
+        *   das gesamte von inländischen Vorversicherern in Rückdeckung
+            übernommene Versicherungsgeschäft
 
-        *
-        *
-        *
-        *   30
+        *   Form 4
 
-        *   00
+        *   VG 30
 
-        *
-
-    *        *   Formblatt 2
-
-        *   1
-
-        *
-        *
-        *
-        *   30
-
-        *   01
-
-        *
-
-    *        *   Gemeinsames Formblatt
-
-        *   1
-
-        *
-        *
-        *
-        *   30
-
-        *   01
-
-        *   00
+        *   Herkunft 01
 
 
+    *        *   § 6 S. 1 Nr. 2
+
+        *   das gesamte von ausländischen Vorversicherern in Rückdeckung
+            übernommene Versicherungsgeschäft
+
+        *   Form 4
+
+        *   VG 30
+
+        *   Herkunft 99
+
+
+    *        *   § 6 S. 1 Nr. 3
+
+        *   für jeden genannten Versicherungszweig
+
+        *   Form 4
+
+        *   Vz 01 bis
+            Vz 06,
+            Vz 08,
+            Vz 19 bis
+            Vz 20,
+            Vz 25, Vz 28
+
+        *   Herkunft 00
+
+
+    *        *   § 6 S. 1 Nr. 3
+
+        *   die Versicherungsart „Cyberversicherung Stand alone“
+
+        *   Form 4
+
+        *   Va 261
+
+        *   Herkunft 00
+
+
+    *        *   § 6 S. 1 Nr. 4
+
+        *   der Versicherungszweig „Sonstige Schadenversicherung“
+
+        *   Form 4
+
+        *   Vz 29
+
+        *   Herkunft 00
 
 
 
-*
-    *        *   Fall 5:
-
-        *   Das ausländische selbst abgeschlossene VG besteht nur aus
-            Niederlassungsgeschäft in einem einzigen Mitgliedstaat oder in einem
-            anderen Vertragsstaat, so dass Herkunft 21 bis 60 mit Herkunft 99
-            identisch ist:
 
 
+2.1.5 Pensionskassen
 
+    *        *   Fundstelle
 
-    *        *   Formblatt Arten
+        *   Art des VG
 
-        *   Kennzahlen
+        *   Form des VG
 
-
-    *        *   Form des VG
-
-        *   Va
-
-        *   Vz
-
-        *   VG
+        *   Va/Vz/VG
 
         *   Herkunft des VG
 
 
-    *        *   1. Feld
+    *        *   § 2 Nr. 2
 
-        *   2. Feld
+        *   das gesamte Versicherungsgeschäft
 
-        *   1. Feld
+        *   Form 7
 
-        *   2. Feld
+        *   VG 30
 
-        *   3. Feld
-
-        *   1. Feld
-
-        *   2. Feld
+        *   Herkunft 00
 
 
-    *        *   Formblatt 1
+    *        *   § 7 Abs. 1 Nr. 1
 
-        *   1
+        *   das gesamte inländische Versicherungsgeschäft
 
-        *
-        *
-        *
-        *   30
+        *   Form 1
 
-        *   99
+        *   VG 30
 
-        *
+        *   Herkunft 01
 
-    *        *   Formblatt 2
 
-        *   1
+    *        *   § 7 Abs. 1 Nr. 2
 
-        *
-        *
-        *
-        *   30
+        *   das gesamte ausländische Versicherungsgeschäft
 
-        *   21
+        *   Form 1
 
-        *
+        *   VG 30
 
-    *        *   Gemeinsames Formblatt
+        *   Herkunft 99
 
-        *   1
 
-        *
-        *
-        *
-        *   30
+    *        *   § 7 Abs. 1 Nr. 3
 
-        *   21
+        *   jeweils für das in einem anderen Mitglied- oder Vertragsstaat
+            betriebene Versicherungsgeschäft
 
-        *   99
+        *   Form 1
+
+        *   VG 30
+
+        *   Herkunft 21 bis Herkunft 25, Herkunft 31 bis Herkunft 34, Herkunft 41,
+            Herkunft 42, Herkunft 44 bis Herkunft 48, Herkunft 51 bis Herkunft 63
 
 
 
 
 
-*   Aufbauend auf diesen fünf Grundvoraussetzungen gibt es noch andere
-    daraus abgeleitete Mehrfachkombinationsmöglichkeiten, von denen eine
-    weitere beispielhaft angeführt wird:
+2.1.6 Sterbekassen
 
+    *        *   Fundstelle
 
-    *        *   Fall 6:
+        *   Art des VG
 
-        *   Es wird ausschließlich inländisches selbst abgeschlossenes VG im Vz 07
-            betrieben:
+        *   Form des VG
 
-
-
-
-    *        *   Formblatt Arten
-
-        *   Kennzahlen
-
-
-    *        *   Form des VG
-
-        *   Va
-
-        *   Vz
-
-        *   VG
+        *   Va/Vz/VG
 
         *   Herkunft des VG
 
 
-    *        *   1. Feld
+    *        *   § 2 Nr. 2
 
-        *   2. Feld
+        *   das gesamte Versicherungsgeschäft
 
-        *   1. Feld
+        *   Form 7
 
-        *   2. Feld
+        *   VG 30
 
-        *   3. Feld
-
-        *   1. Feld
-
-        *   2. Feld
+        *   Herkunft 00
 
 
-    *        *   Formblatt 1
 
-        *   7
+
+
+2.2 Formular F.300.01
+
+
+2.2.1 Pensionskassen
+
+    *        *   Fundstelle
+
+        *   Art des VG
+
+        *   Form des VG
+
+        *   Vz/VG
+
+
+    *        *   § 22 Abs. 1 Satz 2 Nr. 1
+
+        *   das gesamte Versicherungsgeschäft
+
+        *   Form 7
+
+        *   VG 30
+
+
+
+
+
+2.2.2 Sterbekassen
+
+    *        *   Fundstelle
+
+        *   Art des VG
+
+        *   Form des VG
+
+        *   Vz/VG
+
+
+    *        *   § 22 Abs. 1 Satz 2 Nr. 1
+
+        *   das gesamte Versicherungsgeschäft
+
+        *   Form 7
+
+        *   VG 30
+
+
+
+
+
+2.2.3 Krankenversicherungsvereine
+
+    *        *   Fundstelle
+
+        *   Art des VG
+
+        *   Form des VG
+
+        *   Vz/VG
+
+
+    *        *   § 22 Abs. 1 Satz 2 Nr. 1
+
+        *   das gesamte Versicherungsgeschäft
+
+        *   Form 7
+
+        *   VG 30
+
+
+
+
+
+2.2.4 Schaden- und Unfallversicherungsvereine
+
+    *        *   Fundstelle
+
+        *   Art des VG
+
+        *   Form des VG
+
+        *   Vz/VG
+
+
+    *        *   § 22 Abs. 1 Satz 2 Nr. 1
+
+        *   das gesamte Versicherungsgeschäft
+
+        *   Form 7
+
+        *   VG 30
+
+
+    *        *   § 22 Abs. 2
+
+        *   das selbst abgeschlossene Geschäft im Versicherungszweig „Sonstige
+            Schadenversicherung“ und die weiteren genannten Versicherungszweige
+
+        *   Form 1
+
+        *   Vz 03 bis
+            Vz 08,
+            Vz 13 bis
+            Vz 14,
+            Vz 19 bis
+            Vz 20,
+            Vz 24 bis
+            Vz 25, Vz 28, Vz 29
+
+
+
+
+
+2.3 Formular F.203.01
+
+    *        *   Fundstelle
+
+        *   Beziehung
+
+        *   Rückversicherungsbeziehung
+
+
+    *        *   Anmerkung 7
+            zum Formular F.203.01
+
+        *   jede zu berichtende Rückversicherungsbeziehung
+
+        *   Rückversicherungsbeziehung 001 bis Rückversicherungsbeziehung 099
+
+
+
+
+
+2.4 Formular F.030.01
+
+    *        *   Fundstelle
+
+        *   Bestand
+
+        *   Nummer des Abrechnungsverbandes
+
+
+    *        *   § 10 Satz 1 Nr. 5
+
+        *   jeder Abrechnungsverband außer Abrechnungsverband 099
+
+        *   Abrechnungsverband 001 bis
+            Abrechnungsverband 098
+
+
+
+
+
+2.5 Formular F.030.02
+
+    *        *   Fundstelle
+
+        *   Bestand
+
+        *   Nummer der Teilkollektivgruppe
+
+
+    *        *   § 10 Satz 1 Nr. 5
+
+        *   jede Teilkollektivgruppe außer Teilkollektivgruppe 399
+
+        *   Teilkollektivgruppe 300 bis Teilkollektivgruppe 398
+
+
+
+
+
+2.6 Formular F.111.01
+
+    *        *   Fundstelle
+
+        *   Bestand
+
+        *   Bestandsgruppe
+
+
+    *        *   Anmerkung 1
+            zum Formular F.111.01
+
+        *   jede Bestandsgruppe des Neubestands gemäß Anlage 1 Abschnitt D mit
+            Ausnahme der Bestandsgruppen 132 und 140
+
+        *   Bestandsgruppe 100,
+            Bestandsgruppe 110 bis
+            Bestandsgruppe 118,
+            Bestandsgruppe 120 bis
+            Bestandsgruppe 128,
+            Bestandsgruppe 130,
+            Bestandsgruppe 131,
+            Bestandsgruppe 133 bis
+            Bestandsgruppe 136,
+            Bestandsgruppe 200,
+            Bestandsgruppe 221 bis
+            Bestandsgruppe 225,
+            Bestandsgruppe 231 bis
+            Bestandsgruppe 234,
+            Bestandsgruppe 241 bis
+            Bestandsgruppe 249,
+            Bestandsgruppe 251 bis
+            Bestandsgruppe 263,
+            Bestandsgruppe 280
+
+
+
+
+
+2.7 Formular F.112.01
+
+    *        *   Fundstelle
+
+        *   Bestand
+
+        *   Abrechnungsverband
+
+
+    *        *   Anmerkung 1
+            zum Formular F.112.01
+
+        *   jeder Abrechnungsverband des Altbestands sowie gesamter Altbestand
+
+        *   Abrechnungsverband 001 bis
+            Abrechnungsverband 099
+
+
+
+
+
+2.8 Formular F.113.01
+
+    *        *   Fundstelle
+
+        *   Bestand
+
+        *   Teilkollektivgruppe
+
+
+    *        *   Anmerkung 1 Satz 1 a) zum Formular F.113.01
+
+        *   für den Bestand sämtlicher überschussberechtigter Verträge
+
+        *   Teilkollektivgruppe 399
+
+
+    *        *   Anmerkung 1 Satz 1 b) zum Formular F.113.01
+
+        *   für den Bestand der überschussberechtigten Verträge, die nicht am
+            Verfahren zur Bildung eines kollektiven Teils der RfB teilnehmen
+
+        *   Teilkollektivgruppe 300
+
+
+    *        *   Anmerkung 1 Satz 1 c) und Satz 2 ff.
+            zum Formular F.113.01
+
+        *   für jeden Bestand von überschussberechtigten Verträgen, für den
+            innerhalb der RfB ein kollektiver Teil eingerichtet wird
+
+        *   Teilkollektivgruppe 301 bis Teilkollektivgruppe 398
+
+
+
+
+
+2.9 Formular F.210.01
+
+    *        *   Fundstelle
+
+        *   Art des VG
+
+        *   Risikoart
+
+        *   Vz
+
+
+    *        *   Anmerkung 2 Satz 1 a) zum Formular F.210.01
+
+        *   gesamter Versicherungszweig Lebensversicherung
 
         *
-        *
-        *
-        *   30
+        *   Vz 01
 
-        *   00
 
-        *
+    *        *   Anmerkung 2 Satz 1 b) zum Formular F.210.01
 
-    *        *   Formblatt 2
+        *   jede Risikoart gemäß Anlage 1 Abschnitt E
 
-        *   1
-
-        *
-        *
-        *
-        *   30
-
-        *   00
+        *   Va 111 bis
+            Va 118,
+            Va 121 bis
+            Va 127,
+            Va 131 bis
+            Va 135,
+            Va 141 bis
+            Va 146
 
         *
 
-    *        *   Formblatt 3
 
-        *   1
+
+
+2.10 Formular F.214.01
+
+    *        *   Fundstelle
+
+        *   Bestand
+
+        *   Bestandsgruppe
+
+
+    *        *   Anmerkung 1
+            zum Formular F.214.01
+
+        *   jede Bestandsgruppe des Neubestands gemäß Anlage 1 Abschnitt D
+
+        *   Bestandsgruppe 100,
+            Bestandsgruppe 110, bis
+            Bestandsgruppe 118,
+            Bestandsgruppe 120 bis
+            Bestandsgruppe 128,
+            Bestandsgruppe 130,
+            Bestandsgruppe 131 bis
+            Bestandsgruppe 136,
+            Bestandsgruppe 140,
+            Bestandsgruppe 200,
+            Bestandsgruppe 221 bis
+            Bestandsgruppe 225,
+            Bestandsgruppe 231 bis
+            Bestandsgruppe 234,
+            Bestandsgruppe 241 bis
+            Bestandsgruppe 249,
+            Bestandsgruppe 251 bis
+            Bestandsgruppe 263,
+            Bestandsgruppe 280
+
+
+
+
+
+2.11 Formular F.215.01
+
+    *        *   Fundstelle
+
+        *   Bestand
+
+        *   Bestandsgruppe
+
+
+    *        *   Anmerkung 1
+            zum Formular F.215.01
+
+        *   jeder Abrechnungsverband des Altbestands sowie gesamter Altbestand
+
+        *   Abrechnungsverband 001 bis
+            Abrechnungsverband 099
+
+
+
+
+
+2.12 Formular F.218.01
+
+    *        *   Fundstelle
+
+        *   Art des VG
+
+        *   Risikoart
+
+        *   Vz
+
+
+    *        *   Anmerkung 2 a)
+            zum Formular F.218.01
+
+        *   gesamter Versicherungszweig Lebensversicherung
 
         *
-        *
-        *
-        *   30
+        *   Vz 01
 
-        *   01
 
-        *
+    *        *   Anmerkung 2 b)
+            zum Formular F.218.01
 
-    *        *   Formblatt 4
+        *   jede Risikoart gemäß Anlage 1 Abschnitt E
 
-        *   1
-
-        *
-        *
-        *   07
-
-        *
-        *   00
+        *   Risikoart 110, Risikoart 121, Risikoart 122, Risikoart 210, Risikoart
+            221, Risikoart 222, Risikoart 300, Risikoart 400, Risikoart 510,
+            Risikoart 521, Risikoart 522, Risikoart 600, Risikoart 700, Risikoart
+            800, Risikoart 910, Risikoart 920
 
         *
 
-    *        *   Gemeinsames Formblatt
-
-        *   1
-
-        *   7
-
-        *
-        *   07
-
-        *   30
-
-        *   01
-
-        *   00
 
 
 
+2.13 Formular F.265.01
+
+    *        *   Fundstelle
+
+        *   Bestand
+
+        *   Herkunft des VG
 
 
+    *        *   Anmerkung 1 Satz 1 Buchstabe a)
+            zum Formular F.265.01
+
+        *   das gesamte in den anderen Mitglied- und Vertragsstaaten betriebene
+            Versicherungsgeschäft
+
+        *   Herkunft 72
 
 
-3.6.3 Zahlen
+    *        *   Anmerkung 1 Satz 1 Buchstabe b)
+            zum Formular F.265.01
 
+        *   jeweils für das in einem anderen Mitglied- oder Vertragsstaat
+            betriebene Versicherungsgeschäft
 
-3.6.3.1 Die Zahlenwerte sind ohne Leerzeichen in die Datenfelder einzutragen.
-    1000er Stellen sind durch einen Punkt zu trennen.
-
-
-3.6.3.2 Absolute Beträge sind ohne Dezimalstellen anzugeben. Unter 0,5 Euro
-    oder unter 500 Euro (bei TsdEuro) ist abzurunden und ansonsten
-    aufzurunden. Cent-Beträge oder Beträge unter 1 TsdEuro können jedoch
-    auch unter Verzicht auf die Rundung einfach weggelassen werden, sofern
-    die Auf- und Abrundung einen unverhältnismäßig hohen Aufwand
-    verursachen würde.
-
-
-3.6.3.3 Zwischensummen und Endsummen sind jeweils nicht durch Neuberechnung
-    aus den centlosen Euro-Beträgen und TsdEuro-Beträgen, sondern
-    ebenfalls durch Auf-/Abrundung oder – alternativ – Streichung der
-    Cent-Beträge oder Beträge unter 1 TsdEuro zu ermitteln.
-
-
-3.6.3.4 Relationen sind mit einer Dezimalstelle anzugeben, die durch ein Komma
-    anzuzeigen ist.
-
-
-3.6.3.5 Datenfelder, in denen das berichtende VU keine Angaben machen kann,
-    müssen frei bleiben. Eine zusätzliche Kennzeichnung, z. B. durch einen
-    Strich, darf nicht erfolgen.
-
-
-3.6.4 Vorzeichen
-
-    In den Formblättern und Nachweisungen sind vor bestimmten Datenfeldern
-    bereits Vorzeichen fest vorgegeben, die zur Kennzeichnung von Gewinn-
-    oder Verlustfeldern oder als Rechenzeichen dienen (siehe auch Tz.
-    3\.2.2.1). Im Übrigen sind die Beträge in den Formblättern und
-    Nachweisungen nicht mit Vorzeichen zu versehen. Folgende Ausnahmen
-    sind jedoch zu beachten:
-
-
-3.6.4.1 Positive oder negative Vorzeichen sind bei den Posten einzusetzen, die
-    alternativ Aufwendungen oder Erträge enthalten (Aufwendungen oder
-    Erträge aus der Abwicklung versicherungstechnischer Rückstellungen;
-    Aufwendungen oder Erträge aus der Veränderung versicherungstechnischer
-    Rückstellungen; außerordentliches Ergebnis).
-
-
-3.6.4.2 Negative Vorzeichen sind auch einzusetzen, wenn hohe Erträge aus der
-    Abwicklung versicherungstechnischer Rückstellungen der Vorjahre dazu
-    führen, dass versicherungstechnische Bruttoaufwendungen
-    (Bruttoaufwendungen für Versorgungsfälle; Bruttoaufwendungen für
-    Rückkäufe, Rückgewährbeträge und Austrittsvergütungen;
-    Bruttoaufwendungen für Beitragsrückerstattung) zu Erträgen werden oder
-    wenn versicherungstechnische Erträge aus dem in Rückdeckung gegebenen
-    Versicherungsgeschäft (Anteile der Rückversicherer an diesen
-    Bruttoaufwendungen) zu Aufwendungen werden.
-
-
-3.6.4.3 Negative Vorzeichen sind ferner einzusetzen, sofern auf Grund
-    besonderer Entwicklungen Ertragsposten ausnahmsweise zu Aufwandsposten
-    werden oder Aufwandsposten ausnahmsweise zu Ertragsposten werden.
-    Dieser Fall kann auch eintreten, wenn bestimmte Posten als Saldogröße
-    mehrerer Unterposten ermittelt werden und die abzuziehenden
-    Unterposten überwiegen.
-
-
-3.6.4.4 In den genannten Fällen sind die Vorzeichen (+ oder –) innerhalb des
-    Datenfeldes direkt vor dem Zahlenwert einzusetzen. Das kaufmännische
-    Minuszeichen (./.) darf nicht verwendet werden.
-
-
-3.6.5 Beispiele
-
-
-    *        *   falsch:
-
-        *   richtig:
-
-
-    *        *   238 184
-
-        *   238.184
-
-
-    *        *   155,344,783
-
-        *   155.344.783
-
-
-    *        *   + 3227896
-
-        *   + 3.227.896
-
-
-    *        *   - 788 532.70
-
-        *   - 788.533
-
-
-    *        *   15,236 %
-
-        *   15,2
+        *   Herkunft 21 bis Herkunft 25,
+            Herkunft 31 bis Herkunft 34,
+            Herkunft 41, Herkunft 42,
+            Herkunft 44 bis Herkunft 48,
+            Herkunft 51 bis Herkunft 63
 
 
 
 
 
-4.  Version ****
+2.14 Formular F.240.01
 
-    Die Unterlagen sind in Euro vorzulegen. Die Beträge sind in vollen
-    „Euro“ oder „TsdEuro“ anzugeben. In der Kopfzeile der Formblätter und
-    Nachweisungen ist in dem Feld „Version“ die Zahl „8“ einzusetzen.
+    *        *   Fundstelle
+
+        *   Bestand
+
+        *   Va/Vz/VG
+
+
+    *        *   Anmerkung 1 Satz 1 Buchstabe a)
+            zum Formular F.240.01
+
+        *   jeder genannter Vz
+
+        *   Vz 02 bis Vz 08, Vz 13, Vz 14, Vz 19, Vz 20, Vz 24, Vz 25, Vz 28, Vz
+            29
+
+
+    *        *   Anmerkung 1 Satz 1 Buchstabe a)
+            zum Formular F.240.01
+
+        *   jede genannte Va
+
+        *   Va 051, Va 055, Va 261
+
+
+    *        *   Anmerkung 1 Satz 1 Buchstabe a)
+            zum Formular F.240.01
+
+        *   das gesamte s. a. VG
+
+        *   VG 30
+
+
+
+
+
+2.15 Formular F.242.01
+
+    *        *   Fundstelle
+
+        *   Bestand
+
+        *   Va/Vz/VG
+
+
+    *        *   Anmerkung 1 Satz 1 Buchstabe a)
+            zum Formular F.242.01
+
+        *   jeder genannter Vz
+
+        *   Vz 02 bis Vz 08, Vz 13, Vz 14, Vz 19, Vz 20, Vz 24, Vz 25, Vz 28, Vz
+            29
+
+
+    *        *   Anmerkung 1 Satz 1 Buchstabe a)
+            zum Formular F.242.01
+
+        *   jede genannte Va
+
+        *   Va 051, Va 055, Va 261
+
+
+    *        *   Anmerkung 1 Satz 1 Buchstabe a)
+            zum Formular F.242.01
+
+        *   das gesamte s. a. VG
+
+        *   VG 30
+
+
+
+
+
+2.16 Formular F.243.01
+
+    *        *   Fundstelle
+
+        *   Bestand
+
+        *   Va
+
+
+    *        *   Anmerkung 1
+            zum Formular F.243.01
+
+        *   jede genannte Va
+
+        *   Va 041, Va 042, Va 081, Va 201,
+            Va 202
+
+
+
+
+
+2.17 Formular F.342.01
+
+    *        *   Fundstelle
+
+        *   Bestand
+
+        *   Vz/VG
+
+
+    *        *   Anmerkung 1 Satz 1 Buchstabe a)
+            zum Formular F.342.01
+
+        *   jeder genannter Vz
+
+        *   Vz 03 bis Vz 08, Vz 13, Vz 14, Vz 19, Vz 20, Vz 24, Vz 25, Vz 28, Vz
+            29
+
+
+    *        *   Anmerkung 1 Satz 1 Buchstabe a)
+            zum Formular F.342.01
+
+        *   das gesamte s. a. VG
+
+        *   VG 30
+
+
+
+
+
+2.18 Formular F.252.01
+
+    *        *   Fundstelle
+
+        *   Bestand
+
+        *   Va/Vz/VG
+
+
+    *        *   Anmerkung 1 Satz 1 Buchstabe a)
+            zum Formular F.252.01
+
+        *   jeder genannter Vz
+
+        *   Va 261, Vz 01 bis Vz 06, Vz 08,
+            Vz 19, Vz 20, Vz 25, Vz 28, Vz 29
+
+
+    *        *   Anmerkung 1 Satz 1 Buchstabe b)
+            zum Formular F.252.01
+
+        *   das gesamte in Rückdeckung übernommene VG
+
+        *   VG 30
+
+
+
 
 
 
 
 (zu § 1 Absatz 2 und § 19 Absatz 2)
 
-### Anlage 3 Formblätter und Nachweisungen
+### Anlage 3 Formulare
 
-(Fundstelle: BGBl. I 2017, 2913 - 3022)
-
-## Formblätter
-
-
-## Allgemeine formgebundene Erläuterungen
-
-
-## Zusätzliche formgebundene Erläuterungen der
-Lebensversicherungsunternehmen
-
-
-## Zusätzliche formgebundene Erläuterungen der Pensions- und
-Sterbekassen
-
-
-## Zusätzliche formgebundene Erläuterungen der
-Krankenversicherungsunternehmen
-
-
-## Zusätzliche formgebundene Erläuterungen der Schaden- und
-Unfallversicherungsunternehmen
-
-
-## Zusätzliche formgebundene Erläuterungen der
-Rückversicherungsunternehmen
-
-
-## Nachweisungen 601 bis 604
+(Fundstelle: BGBl. 2024 I Nr. 414, S. 48 - 171)
 
 

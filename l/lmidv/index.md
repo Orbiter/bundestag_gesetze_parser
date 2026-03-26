@@ -17,7 +17,10 @@ Fundstelle
 :   BGBl I: 2017, 2272
 
 Zuletzt geändert durch
-:   Art. 1 V v. 3.8.2023 I Nr. 209
+:   Art. 3 V v. 11.12.2024 I Nr. 411
+
+Änderung durch
+:   Art. 3 V v. 24.11.2025 I Nr. 280 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## § 1 Anwendungsbereich
@@ -198,22 +201,23 @@ informieren. Voraussetzung ist, dass
     Lebensmittels mitgeteilt werden,
 
 
-2.  eine schriftliche Aufzeichnung über die bei der Herstellung des
-    jeweiligen Lebensmittels verwendeten Zutaten und
+2.  eine schriftliche oder elektronische Aufzeichnung über die bei der
+    Herstellung des jeweiligen Lebensmittels verwendeten Zutaten und
     Verarbeitungshilfsstoffe im Sinne des Absatzes 2 vorliegt und
 
 
-3.  die schriftliche Aufzeichnung für die zuständige Behörde und auf
-    Nachfrage auch für die Endverbraucher leicht zugänglich ist.
+3.  die schriftliche oder elektronische Aufzeichnung für die zuständige
+    Behörde und auf Nachfrage auch für die Endverbraucher unmittelbar und
+    leicht zugänglich ist.
 
 
 
 Bei den betreffenden Lebensmitteln oder in einem Aushang in der
 Verkaufsstätte muss an gut sichtbarer Stelle, deutlich und gut lesbar
 darauf hingewiesen werden, dass die nach Absatz 2 erforderlichen
-Angaben mündlich bereitgestellt werden und eine schriftliche
-Aufzeichnung auf Nachfrage zugänglich ist. Absatz 3 Satz 6 gilt
-entsprechend.
+Angaben mündlich bereitgestellt werden und eine schriftliche oder
+elektronische Aufzeichnung auf Nachfrage zugänglich ist. Absatz 3 Satz
+6 gilt entsprechend.
 
 (5) (weggefallen)
 

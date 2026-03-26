@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2020, 2883
 
 Zuletzt geändert durch
-:   Art. 1 V v. 3.7.2023 I Nr. 177
+:   Art. 2 Abs. 8 V v. 11.3.2026 I Nr. 67
 
 Stand: Ersetzt V 2030-6-31 v. 2.2.2015 I 98, 100 (GKrimDVDV)
 
@@ -45,13 +45,6 @@ des Bundes sind
 Soweit im Folgenden nichts anderes bestimmt ist, werden die
 Vorbereitungsdienste an der Hochschule des Bundes für öffentliche
 Verwaltung (Hochschule) durchgeführt.
-
-
-### § 1a Allgemeine Voraussetzung für die Zulässigkeit von Abweichungen aus Anlass der COVID-19-Pandemie
-
-Von den bis zum 31. Dezember 2024 befristeten Sonderregelungen dieser
-Verordnung darf nur Gebrauch gemacht werden, wenn dies wegen der zur
-Bewältigung der COVID-19-Pandemie getroffenen Maßnahmen notwendig ist.
 
 
 ### § 2 Dienstbehörde
@@ -622,8 +615,8 @@ Das Studium hat insbesondere zum Ziel,
 
 ##### § 10 Dauer des Studiums
 
-(1) Das Studium dauert nach § 13 Absatz 1 Satz 1 der
-Bundeslaufbahnverordnung in der Regel sechs Semester.
+(1) Das Studium dauert nach § 16 Absatz 1 der Bundeslaufbahnverordnung
+in der Regel sechs Semester.
 
 (2) Das Studium ist so zu konzipieren, dass die Studierenden je
 Semester 30 Leistungspunkte nach dem Europäischen System zur
@@ -812,11 +805,11 @@ veröffentlicht und zudem in der jeweils geltenden Fassung in
 Papierform beim Prüfungsamt des Fachbereichs vorgehalten und
 archiviert.
 
-(4) Die Hochschule kann festlegen, dass bis zum 31. Dezember 2024
-Lehrveranstaltungen eines Moduls oder Teile von Lehrveranstaltungen
-eines Moduls in einen anderen Studienabschnitt verschoben werden. In
-den Zeitraum der Anfertigung der Bachelorarbeit dürfen jedoch keine
-Lehrveranstaltungen verschoben werden.
+(4) Die Hochschule kann festlegen, dass Lehrveranstaltungen eines
+Moduls oder Teile von Lehrveranstaltungen eines Moduls in einen
+anderen Studienabschnitt verschoben werden. In den Zeitraum der
+Anfertigung der Bachelorarbeit dürfen jedoch keine Lehrveranstaltungen
+verschoben werden.
 
 (5) Die Teilnahme an den Lehrveranstaltungen des Studiums ist
 verpflichtend.
@@ -846,8 +839,8 @@ Kriminalpolizeidienststelle einer Landespolizei durchgeführt. Das
 Modul der praxisintegrierenden Studien II wird beim Bundeskriminalamt
 durchgeführt.
 
-(3) Bis zum 31. Dezember 2024 können für alle Lehrveranstaltungen
-digitale Lehrformate genutzt werden.
+(3) Für alle Lehrveranstaltungen können digitale Formate genutzt
+werden.
 
 
 ##### § 14 Gestaltung und Organisation der Module der praxisintegrierenden Studien
@@ -1040,7 +1033,7 @@ durchgeführt werden.
 Modulprüfung abzulegen.
 
 (2) Die Modulprüfungen sollen spätestens eine Woche vor der
-Verteidigung der Bachelorarbeit abgeschlossen sein.
+Verteidigung der Thesis abgeschlossen sein.
 
 
 ##### § 23 Modulprüfungen in den fachtheoretischen Studienzeiten
@@ -1070,22 +1063,16 @@ Der mündliche Teil kann insbesondere durchgeführt werden in Form
 
 
 
-(1a) Bis zum 31. Dezember 2024
+(2) Soweit sich eine Prüfungsform hierfür eignet, können
+Prüfungsaufgaben elektronisch gestellt, bearbeitet und bewertet
+werden. Die Hochschule gewährleistet die Integrität und Authentizität
+der Daten und die automatische Protokollierung und stellt sicher, dass
+die Daten eindeutig identifiziert und unverwechselbar und dauerhaft
+den Studierenden zugeordnet werden können.
 
-1.  können Klausuren mit Unterstützung durch Informationstechnik
-    durchgeführt werden und
+(3) Eine Modulprüfung kann aus mehreren Teilprüfungen bestehen.
 
-
-2.  kann für die Durchführung von Präsentationen und Kurzvorträgen
-    Videokonferenztechnik genutzt werden, wenn dafür geeignete technische
-    Einrichtungen zur Verfügung stehen.
-
-
-
-
-(2) Eine Modulprüfung kann aus mehreren Teilprüfungen bestehen.
-
-(3) Näheres regelt das Modulhandbuch „Kriminalvollzugsdienst im
+(4) Näheres regelt das Modulhandbuch „Kriminalvollzugsdienst im
 Bundeskriminalamt“.
 
 
@@ -1427,11 +1414,11 @@ Stimmenthaltung ist nicht zulässig.
 
 (1) Die Verteidigung wird als Einzelprüfung durchgeführt.
 
-(1a) Bis zum 31. Dezember 2024 kann für die Durchführung der
-Verteidigung der Bachelorarbeit Videokonferenztechnik genutzt werden,
-wenn dafür geeignete technische Einrichtungen zur Verfügung stehen.
+(2) Für die Durchführung der Verteidigung kann Videokonferenztechnik
+genutzt werden, wenn dafür geeignete technische Einrichtungen zur
+Verfügung stehen.
 
-(2) Die Verteidigung besteht aus
+(3) Die Verteidigung besteht aus
 
 1.  einer Präsentation der Thesis und
 
@@ -1441,7 +1428,7 @@ wenn dafür geeignete technische Einrichtungen zur Verfügung stehen.
 
 
 
-(3) In der Präsentation soll die oder der Studierende nachweisen, dass
+(4) In der Präsentation soll die oder der Studierende nachweisen, dass
 sie oder er
 
 1.  gesichertes Wissen auf den Themengebieten besitzt, die in der Thesis
@@ -1455,7 +1442,7 @@ sie oder er
 
 Die Präsentation soll 15 Minuten dauern.
 
-(4) Im Anschluss an die Präsentation findet das Prüfungsgespräch
+(5) Im Anschluss an die Präsentation findet das Prüfungsgespräch
 statt. In ihm sollen Ziele, Methodik und Ergebnisse der Bachelorarbeit
 erörtert und begründet sowie weiterführende Bezüge zu anderen
 Wissensgebieten geprüft werden. Das Prüfungsgespräch soll 30 Minuten
@@ -2017,11 +2004,11 @@ Modulen durchgeführt:
 
 
 
-(1a) Die Hochschule kann festlegen, dass bis zum 31. Dezember 2024
-Lehrveranstaltungen eines Moduls oder Teile von Lehrveranstaltungen
-eines Moduls in ein anderes Modul verschoben werden.
+(2) Die Hochschule kann festlegen, dass Lehrveranstaltungen eines
+Moduls oder Teile von Lehrveranstaltungen eines Moduls in ein anderes
+Modul verschoben werden.
 
-(2) In den Modulen 1 bis 3 und 5 bis 8 werden fachtheoretische
+(3) In den Modulen 1 bis 3 und 5 bis 8 werden fachtheoretische
 polizeispezifische Kenntnisse vermittelt. Den Inhalt dieser Module
 sowie die weiteren Einzelheiten der Studieninhalte und des
 Studienverlaufs legt die Hochschule in dem Modulhandbuch
@@ -2031,7 +2018,7 @@ in der jeweils geltenden Fassung in Papierform beim Prüfungsamt des
 Fachbereichs vorgehalten und archiviert. Maßgeblich ist die Fassung,
 die bei Beginn der kriminalpolizeifachlichen Qualifizierung gilt.
 
-(3) Das Modul 4 dient der berufspraktischen Tätigkeit.
+(4) Das Modul 4 dient der berufspraktischen Tätigkeit.
 
 
 #### § 64 Durchführungsort
@@ -2072,7 +2059,7 @@ absolvieren, nämlich
 
 
 (3) Die Inhalte der modulbegleitenden Veranstaltungen richten sich
-nach dem Modulhandbuch „Cyberkriminalität“ nach § 63 Absatz 2.
+nach dem Modulhandbuch „Cyberkriminalität“ nach § 63 Absatz 3.
 
 
 #### § 67 Prüfung im Polizeitraining
@@ -2111,7 +2098,7 @@ ist
 
 (4) Die Prüfung wird mit „bestanden“ oder „nicht bestanden“ bewertet.
 Das Nähere regelt das Modulhandbuch „Cyberkriminalität“ nach § 63
-Absatz 2.
+Absatz 3.
 
 (5) Für die Teilnehmerin oder den Teilnehmer, die oder der die Prüfung
 bestanden hat, erstellt das Prüfungsamt beim Bundeskriminalamt einen
@@ -2165,10 +2152,10 @@ Verwendung im Bereich „Cyberkriminalität“ eine Modulprüfung abzulegen.
 
 (1) Jede Modulprüfung wird als Klausur durchgeführt.
 
-(1a) Bis zum 31. Dezember 2024 können die Klausuren mit Unterstützung
-durch Informationstechnik durchgeführt werden.
+(2) Die Klausuren können mit Unterstützung durch Informationstechnik
+durchgeführt werden.
 
-(2) Die Bearbeitungszeit beträgt für jede Klausur 240 Minuten.
+(3) Die Bearbeitungszeit beträgt für jede Klausur 240 Minuten.
 
 
 #### § 72 Kennzeichnung der Klausuren
@@ -2286,11 +2273,11 @@ Module 1 bis 3 und 5 bis 8.
 (1) Die mündliche Abschlussprüfung wird als Einzel- oder
 Gruppenprüfung durchgeführt.
 
-(1a) Bis zum 31. Dezember 2024 kann für die Durchführung der
-mündlichen Abschlussprüfung Videokonferenztechnik genutzt werden, wenn
-dafür geeignete technische Einrichtungen zur Verfügung stehen.
+(2) Für die Durchführung der mündlichen Abschlussprüfung kann
+Videokonferenztechnik genutzt werden, wenn dafür geeignete technische
+Einrichtungen zur Verfügung stehen.
 
-(2) Die mündliche Abschlussprüfung soll je Prüfling 30 Minuten dauern.
+(3) Die mündliche Abschlussprüfung soll je Prüfling 30 Minuten dauern.
 
 
 #### § 82 Protokoll zur mündlichen Abschlussprüfung
@@ -2642,11 +2629,11 @@ folgenden Modulen durchgeführt:
 
 
 
-(1a) Die Hochschule kann festlegen, dass bis zum 31. Dezember 2024
-Lehrveranstaltungen eines Moduls oder Teile von Lehrveranstaltungen
-eines Moduls in ein anderes Modul verschoben werden.
+(2) Die Hochschule kann festlegen, dass Lehrveranstaltungen eines
+Moduls oder Teile von Lehrveranstaltungen eines Moduls in ein anderes
+Modul verschoben werden.
 
-(2) In den Modulen 1 bis 3 und 5 bis 8 werden fachtheoretische
+(3) In den Modulen 1 bis 3 und 5 bis 8 werden fachtheoretische
 polizeispezifische Kenntnisse vermittelt. Der Inhalt dieser Module
 richtet sich nach dem Modulhandbuch „Ausbildungsverkürzung im
 Bundeskriminalamt“ in der Fassung, die bei Beginn der
@@ -2656,7 +2643,7 @@ der Internetseite des Bundeskriminalamts veröffentlicht und zudem in
 der jeweils geltenden Fassung in Papierform beim Prüfungsamt des
 Fachbereichs vorgehalten und archiviert.
 
-(3) In den Modulen 4 und 9 werden berufspraktische polizeispezifische
+(4) In den Modulen 4 und 9 werden berufspraktische polizeispezifische
 Fähigkeiten und Kenntnisse vermittelt.
 
 
@@ -2692,7 +2679,7 @@ Veranstaltungen absolvieren, nämlich
 
 (3) Die Inhalte der modulbegleitenden Veranstaltungen richten sich
 nach dem Modulhandbuch „Ausbildungsverkürzung im Bundeskriminalamt“
-nach § 98 Absatz 2.
+nach § 98 Absatz 3.
 
 
 #### § 101 Prüfung im Polizeitraining
@@ -2792,10 +2779,10 @@ Modulprüfung abzulegen.
 
 (1) Jede Modulprüfung wird als Klausur durchgeführt.
 
-(1a) Bis zum 31. Dezember 2024 können die Klausuren mit Unterstützung
-durch Informationstechnik durchgeführt werden.
+(2) Die Klausuren können mit Unterstützung durch Informationstechnik
+durchgeführt werden.
 
-(2) Die Bearbeitungszeit beträgt für jede Klausur 240 Minuten.
+(3) Die Bearbeitungszeit beträgt für jede Klausur 240 Minuten.
 
 
 #### § 106 Kennzeichnung der Klausuren
@@ -2911,11 +2898,11 @@ Module 1 bis 3 und 5 bis 8.
 (1) Die mündliche Abschlussprüfung wird als Einzel- oder
 Gruppenprüfung durchgeführt.
 
-(1a) Bis zum 31. Dezember 2024 kann für die Durchführung der
-mündlichen Abschlussprüfung Videokonferenztechnik genutzt werden, wenn
-dafür geeignete technische Einrichtungen zur Verfügung stehen.
+(2) Für die Durchführung der mündlichen Abschlussprüfung kann
+Videokonferenztechnik genutzt werden, wenn dafür geeignete technische
+Einrichtungen zur Verfügung stehen.
 
-(2) Die mündliche Abschlussprüfung soll je Prüfling 30 Minuten dauern.
+(3) Die mündliche Abschlussprüfung soll je Prüfling 30 Minuten dauern.
 
 
 #### § 116 Protokoll zur mündlichen Abschlussprüfung

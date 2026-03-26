@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2005, 1882
 
 Zuletzt geändert durch
-:   Art. 13 G v. 28.6.2023 I Nr. 172
+:   Art. 37 G v. 15.7.2024 I Nr. 236
 
 
 ## Abschnitt 1 - Lenk- und Ruhezeiten im nationalen Bereich
@@ -985,14 +985,11 @@ und der Anwendung der Verordnung (EU) Nr. 165/2014 ausgenommen:
 
 4.  Fahrzeuge oder Fahrzeugkombinationen mit einer zulässigen Höchstmasse
     von nicht mehr als 7,5 Tonnen, die von Postdienstleistern, die
-    Universaldienstleistungen im Sinne des § 1 Absatz 1 der Post-
-    Universaldienstleistungsverordnung vom 15. Dezember 1999 (BGBl. I S.
-    2418), die zuletzt durch Artikel 3 Absatz 26 des Gesetzes vom 7. Juli
-    2005 (BGBl. I S. 1970) geändert worden ist, in der jeweils geltenden
-    Fassung erbringen, in einem Umkreis von 100 Kilometern vom Standort
-    des Unternehmens zum Zwecke der Zustellung von Sendungen im Rahmen des
-    Universaldienstes verwendet werden, soweit das Lenken des Fahrzeugs
-    nicht die Haupttätigkeit des Fahrers darstellt,
+    Universaldienstleistungen im Sinne des § 16 Absatz 1 des Postgesetzes
+    in der jeweils geltenden Fassung erbringen, in einem Umkreis von 100
+    Kilometern vom Standort des Unternehmens zum Zwecke der Zustellung von
+    Sendungen im Rahmen des Universaldienstes verwendet werden, soweit das
+    Lenken des Fahrzeugs nicht die Haupttätigkeit des Fahrers darstellt,
 
 
 5.  Fahrzeuge, die ausschließlich auf Inseln mit einer Fläche von nicht
@@ -1728,10 +1725,6 @@ mindestens zwei Jahre lang aufbewahrt.
 
 
 ### § 24 (weggefallen)
-
-
-
-### § 24a (weggefallen)
 
 
 

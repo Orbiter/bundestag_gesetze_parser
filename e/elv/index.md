@@ -17,7 +17,10 @@ Fundstelle
 :   BGBl I: 1991, 2100
 
 Neugefasst durch
-:   Bek. v. 7.3.2018 I 366
+:   Bek. v. 7.3.2018 I 366;
+
+Geändert durch
+:   Art. 1 V v. 16.10.2024 I Nr. 315
 
 
 ## § 1 Begriffsbestimmung und Anwendungsbereich
@@ -82,27 +85,30 @@ verwendet werden.
 ## § 3 Höchstmengen
 
 Die in den Anlagen 2 und 3 aufgeführten Stoffe dürfen als
-Extraktionslösungsmittel bei dem gewerbsmäßigen Herstellen von
-Lebensmitteln, die dazu bestimmt sind, in den Verkehr gebracht zu
-werden, nur so verwendet werden, dass ihre Restgehalte in den
-Lebensmitteln die dort festgesetzten Höchstmengen nicht überschreiten.
+Extraktionslösungsmittel bei dem Herstellen von Lebensmitteln, die
+dazu bestimmt sind, in den Verkehr gebracht zu werden, nur so
+verwendet werden, dass ihre Restgehalte in den Lebensmitteln die dort
+festgesetzten Höchstmengen nicht überschreiten.
 
 
 ## § 4 Reinheitsanforderungen
 
-Die in den Anlagen 1 bis 3 aufgeführten Stoffe dürfen als
-Extraktionslösungsmittel bei dem gewerbsmäßigen Herstellen von
-Lebensmitteln, die dazu bestimmt sind, in den Verkehr gebracht zu
-werden, nur verwendet werden, wenn sie den Reinheitsanforderungen
-gemäß Anlage 4 entsprechen. Das Gleiche gilt für Ethanol.
+(1) Die in den Anlagen 1 bis 3 aufgeführten Stoffe dürfen als
+Extraktionslösungsmittel bei dem Herstellen von Lebensmitteln, die
+dazu bestimmt sind, in den Verkehr gebracht zu werden, nur verwendet
+werden, wenn sie den Reinheitsanforderungen gemäß Anlage 4
+entsprechen. Das Gleiche gilt für Ethanol.
+
+(2) Die in Anlage 2 bis 3 aufgeführten Extraktionslösungsmittel müssen
+den spezifischen Reinheitskriterien gemäß Anlage 5 entsprechen.
 
 
 ## § 5 Kennzeichnung
 
 (1) Die in den Anlagen 1 bis 3 aufgeführten Stoffe sowie Ethanol
 dürfen, sofern sie zur Verwendung als Extraktionslösungsmittel
-bestimmt sind, gewerbsmäßig nur in den Verkehr gebracht werden, wenn
-angegeben sind:
+bestimmt sind, nur in den Verkehr gebracht werden, wenn angegeben
+sind:
 
 1.  die Verkehrsbezeichnung des Stoffes gemäß den Anlagen, bei Ethanol die
     Verkehrsbezeichnung „Ethanol“,
@@ -135,29 +141,12 @@ und 5 genügt die Angabe in den Begleitpapieren.
 unberührt.
 
 
-## § 6 Straftaten und Ordnungswidrigkeiten
+## § 6 Ordnungswidrigkeiten
 
-(1) Nach § 59 Absatz 1 Nummer 21 Buchstabe a des Lebensmittel- und
-Futtermittelgesetzbuches wird bestraft, wer entgegen § 3 oder § 4 Satz
-1 Stoffe als Extraktionslösungsmittel verwendet.
-
-(2) Wer eine in Absatz 1 bezeichnete Handlung fahrlässig begeht,
-handelt nach § 60 Absatz 1 des Lebensmittel- und
-Futtermittelgesetzbuches ordnungswidrig.
-
-(3) Ordnungswidrig im Sinne des § 60 Absatz 2 Nummer 26 Buchstabe a
-des Lebensmittel- und Futtermittelgesetzbuches handelt, wer
-vorsätzlich oder fahrlässig
-
-1.  entgegen § 4 Satz 2 Ethanol verwendet oder
-
-
-2.  entgegen § 5 Absatz 1 in Verbindung mit Absatz 2 Satz 1 Stoffe als
-    Extraktionslösungsmittel in den Verkehr bringt, die nicht oder nicht
-    in der vorgeschriebenen Weise gekennzeichnet sind.
-
-
-
+Ordnungswidrig im Sinne des § 60 Absatz 2 Nummer 26 Buchstabe a des
+Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich
+oder fahrlässig entgegen § 5 Absatz 1 einen Stoff oder Ethanol in den
+Verkehr bringt.
 
 
 ## § 7 (Inkrafttreten)
@@ -186,7 +175,8 @@ Distickstoffmonoxid
 
 ## Anlage 2 Beschränkt verwendbare Extraktionslösungsmittel
 
-(Fundstelle: BGBl. I 2018, 370)
+(Fundstelle: BGBl. I 2018, 370
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *   Nr.
@@ -210,7 +200,7 @@ Distickstoffmonoxid
 
 *    *   1.
 
-    *[^F801547_01_BJNR021000991BJNE001306116]
+    *[^F801547_01_BJNR021000991BJNE001307125]
    Hexan
 
     *   Herstellung oder Fraktionierung von Fetten und Ölen und Herstellung
@@ -236,6 +226,31 @@ Distickstoffmonoxid
 
 *    *   2.
 
+    *   2-Methyloxolan
+
+    *   Herstellung oder Fraktionierung von Fetten und Ölen und Herstellung
+        von Kakaobutter
+
+    *   1 mg/kg im Fett oder Öl oder in der Kakaobutter
+
+
+*    *   Herstellung von entfetteten Proteinerzeugnissen und entfettetem Mehl
+
+    *   10 mg/kg im Lebensmittel, das die entfetteten Proteinerzeugnisse und
+        das entfettete Mehl enthält
+
+
+*    *   30 mg/kg in entfetteten Sojaerzeugnissen, wie sie an den
+        Endverbraucher verkauft werden
+
+
+*    *   Herstellung von entfetteten Getreidekeimen
+
+    *   5 mg/kg in entfetteten Getreidekeimen
+
+
+*    *   3.
+
     *   Methylacetat
 
     *   Extraktion von Koffein, Reizstoffen und Bitterstoffen aus Kaffee und
@@ -249,9 +264,9 @@ Distickstoffmonoxid
     *   1 mg/kg in Zucker
 
 
-*    *   3.
+*    *   4.
 
-    *[^F801547_02_BJNR021000991BJNE001306116]
+    *[^F801547_02_BJNR021000991BJNE001307125]
    Ethylmethylketon
 
     *   Fraktionierung von Fetten und Ölen
@@ -265,7 +280,7 @@ Distickstoffmonoxid
     *   20 mg/kg in Kaffee und Tee
 
 
-*    *   4.
+*    *   5.
 
     *   Dichlormethan
 
@@ -275,7 +290,7 @@ Distickstoffmonoxid
     *   2 mg/kg in geröstetem Kaffee und 5 mg/kg in Tee
 
 
-*    *   5.
+*    *   6.
 
     *   Methanol
 
@@ -284,7 +299,7 @@ Distickstoffmonoxid
     *   10 mg/kg
 
 
-*    *   6.
+*    *   7.
 
     *   Propan-2-ol
 
@@ -293,11 +308,11 @@ Distickstoffmonoxid
     *   10 mg/kg
 
 
-*    *   7.
+*    *   8.
 
     *   Dimethylether
 
-    *[^F801547_03_BJNR021000991BJNE001306116]
+    *[^F801547_03_BJNR021000991BJNE001307125]
    Herstellung von entfetteten Proteinerzeugnissen, einschließlich
         Gelatine
 
@@ -305,7 +320,7 @@ Distickstoffmonoxid
         einschließlich Gelatine
 
 
-*    *[^F801547_04_BJNR021000991BJNE001306116]
+*    *[^F801547_04_BJNR021000991BJNE001307125]
    Herstellung von Kollagen
         und Kollagenderivaten, ausgenommen Gelatine
 
@@ -317,20 +332,21 @@ Distickstoffmonoxid
     Kohlenwasserstoffen mit 6 Kohlenstoffatomen besteht und zwischen 64 °C
     und 70 °C destilliert. Die gleichzeitige Verwendung mit
     Ethylmethylketon ist nicht zulässig.
-[^F801547_01_BJNR021000991BJNE001306116]:     Die gleichzeitige Verwendung mit Hexan ist nicht zulässig.
-[^F801547_02_BJNR021000991BJNE001306116]:     Erzeugnisse im Sinne des Artikels 2 Nummer 3 in Verbindung mit Anhang
+[^F801547_01_BJNR021000991BJNE001307125]:     Die gleichzeitige Verwendung mit Hexan ist nicht zulässig.
+[^F801547_02_BJNR021000991BJNE001307125]:     Erzeugnisse im Sinne des Artikels 2 Nummer 3 in Verbindung mit Anhang
     I Nummer 7.7. der Verordnung (EG) Nr. 853/2004 des Europäischen
     Parlaments und des Rates vom 29. April 2004 mit spezifischen
     Hygienevorschriften für Lebensmittel tierischen Ursprungs (ABl. L 139
     vom 30.4.2004, S. 55).
-[^F801547_03_BJNR021000991BJNE001306116]:     Erzeugnisse im Sinne des Artikels 2 Nummer 3 in Verbindung mit Anhang
+[^F801547_03_BJNR021000991BJNE001307125]:     Erzeugnisse im Sinne des Artikels 2 Nummer 3 in Verbindung mit Anhang
     I Nummer 7.8. der Verordnung (EG) Nr. 853/2004.
-[^F801547_04_BJNR021000991BJNE001306116]: 
+[^F801547_04_BJNR021000991BJNE001307125]: 
 (zu § 2 Absatz 2 Nummer 3 und § 3)
 
 ## Anlage 3 Extraktionslösungsmittel für die Herstellung von Aromen aus natürlichen Aromaträgern
 
-(Fundstelle: BGBl. I 2018, 371)
+(Fundstelle: BGBl. I 2018, 371;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Für den vorgenannten Zweck dürfen außer den in § 2 Absatz 2 Nummer 1
 und Absatz 3 bezeichneten Stoffen die nachgenannten Stoffe verwendet
@@ -347,8 +363,14 @@ werden.
     *   2 mg/kg
 
 
-*    *[^F801547_11_BJNR021000991BJNE001406116]
+*    *[^F801547_11_BJNR021000991BJNE001407125]
    Hexan
+
+    *
+    *   1 mg/kg
+
+
+*    *   2-Methyloxolan
 
     *
     *   1 mg/kg
@@ -419,12 +441,13 @@ werden.
 
     Die gleichzeitige Verwendung von Hexan und Ethylmethylketon ist nicht
     zulässig.
-[^F801547_11_BJNR021000991BJNE001406116]: 
-(zu § 4 Satz 1 und 2)
+[^F801547_11_BJNR021000991BJNE001407125]: 
+(zu § 4 Absatz 1)
 
 ## Anlage 4 Reinheitskriterien für Extraktionslösungsmittel
 
-(Fundstelle: BGBl. I 2018, 372)
+(Fundstelle: BGBl. I 2018, 372
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *   Stoff
@@ -444,4 +467,43 @@ werden.
 Extraktionslösungsmittel dürfen auch keine toxikologisch bedenklichen
 Mengen anderer Stoffe enthalten. In einem Kilogramm Ethylmethylketon
 darf der Gehalt an n-Hexan nicht mehr als 50 Milligramm betragen.
+
+(zu § 4 Absatz 2)
+
+## Anlage 5 Spezifische Reinheitskriterien für die in Anlage 2 bis 3 aufgeführten Extraktionslösungsmittel
+
+(Fundstelle: BGBl. 2024 I Nr. 315, S. 2)
+
+
+*    *   **2-Methyloxolan**
+
+
+*    *   CAS-Nummer
+
+    *   96-47-9
+
+
+*    *   Gehalt
+
+    *   mindestens 99,9 % in der Trockenmasse
+
+
+*    *   **Reinheit**
+
+
+*    *   Furan
+
+    *   Höchstens 50 mg/kg (in der Trockenmasse)
+
+
+*    *   2-Methylfuran
+
+    *   Höchstens 500 mg/kg (in der Trockenmasse)
+
+
+*    *   Ethanol
+
+    *   Höchstens 450 mg/kg (in der Trockenmasse)
+
+
 

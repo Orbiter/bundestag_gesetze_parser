@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 19.2.1987 I 602;
 
 Zuletzt geändert durch
-:   Art. 5 G v. 14.3.2023 I Nr. 73
+:   Art. 21 G v. 22.12.2025 I Nr. 349
 
 
 ## Erster Teil - Allgemeine Vorschriften
@@ -1235,8 +1235,8 @@ der übermittelnden Stelle erforderlich ist für
 
 Gleiches gilt für die Behörden des Polizeidienstes, soweit dies die
 entsprechende Anwendung von § 480 Absatz 1 der Strafprozessordnung
-gestattet. Die §§ 478, 479 Absatz 1, 2, 5 Satz 1 und Absatz 6 sowie §
-480 Absatz 1 und 2 der Strafprozessordnung gelten sinngemäß.
+gestattet. Die §§ 478, 479 Absatz 1, 2 und 4 Satz 1 sowie Absatz 5 und
+§ 480 Absatz 1 und 2 der Strafprozessordnung gelten sinngemäß.
 
 (2) Die Übermittlung ist auch zulässig, wenn besondere Umstände des
 Einzelfalls die Übermittlung für die in § 14 Abs. 1 Nr. 4 bis 9 des
@@ -1310,7 +1310,7 @@ für verfahrensübergreifende Zwecke gelten die §§ 474 bis 476, 478 bis
     Strafverfahrens die Zwecke des Bußgeldverfahrens treten,
 
 
-4.  in § 479 Absatz 4 Nummer 2 der Strafprozessordnung an die Stelle der
+4.  in § 479 Absatz 3 Nummer 2 der Strafprozessordnung an die Stelle der
     Frist von zwei Jahren eine Frist von einem Jahr tritt und
 
 
@@ -2976,7 +2976,7 @@ der Antrag auf gerichtliche Entscheidung nach § 62 zulässig. In den
 Fällen der Nummern 1 und 2 ist der Antrag innerhalb von zwei Wochen
 nach Zustellung des Bescheides zu stellen; gegen die Entscheidung des
 Gerichts ist in den Fällen der Nummer 2 sofortige Beschwerde zulässig,
-wenn der Wert des Beschwerdegegenstandes zweihundert Euro übersteigt.
+wenn der Wert des Beschwerdegegenstandes 300 Euro übersteigt.
 
 (2) Für die Vollstreckung der Kosten des Bußgeldverfahrens gelten die
 §§ 89 und 90 Abs. 1 entsprechend.
@@ -3081,20 +3081,39 @@ des Bundes das Verfahren durchführt, sonst das Land.
 
 #### § 110a Elektronische Aktenführung; Verordnungsermächtigungen
 
-(1) Die Akten können elektronisch geführt werden. Die Bundesregierung
-und die Landesregierungen bestimmen jeweils für ihren Bereich durch
-Rechtsverordnung den Zeitpunkt, von dem an die Akten elektronisch
-geführt werden. Sie können die Einführung der elektronischen
-Aktenführung dabei auf einzelne Gerichte oder Behörden oder auf
-allgemein bestimmte Verfahren beschränken und bestimmen, dass Akten,
-die in Papierform angelegt wurden, auch nach Einführung der
-elektronischen Aktenführung in Papierform weitergeführt werden; wird
-von der Beschränkungsmöglichkeit Gebrauch gemacht, kann in der
+(1) Die Akten werden elektronisch geführt. Akten, die in Papierform
+angelegt wurden, können in Papierform weitergeführt werden. Sie können
+auch ab einem bestimmten Stichtag oder Ereignis in elektronischer Form
+weitergeführt werden. Der Beginn der Weiterführung der Akten in
+elektronischer Form ist aktenkundig zu machen.
+
+(1a) Die Bundesregierung und die Landesregierungen können jeweils für
+ihren Bereich durch Rechtsverordnung bestimmen, dass Akten abweichend
+von Absatz 1 Satz 1 und 2 bis einschließlich 31. Dezember 2026 in
+Papierform angelegt sowie von anderer Stelle bis einschließlich 31.
+Dezember 2026 übermittelte elektronische Akten in Papierform geführt
+oder weitergeführt werden. Die Bestimmung kann auf einzelne Gerichte
+oder Behörden oder allgemein bestimmte Verfahren beschränkt werden;
+wird von dieser Möglichkeit Gebrauch gemacht, so kann in der
 Rechtsverordnung bestimmt werden, dass durch Verwaltungsvorschrift,
 die öffentlich bekanntzumachen ist, geregelt wird, in welchen
-Verfahren die Akten elektronisch zu führen sind. Die Ermächtigung kann
-durch Rechtsverordnung auf die zuständigen Bundes- oder
-Landesministerien übertragen werden.
+Verfahren Akten in Papierform angelegt oder elektronisch übermittelte
+Akten in Papierform geführt oder weitergeführt werden. Die
+Rechtsverordnung der Bundesregierung bedarf nicht der Zustimmung des
+Bundesrates. Die Bundesregierung und die Landesregierungen können die
+in Satz 1 genannte Ermächtigung durch Rechtsverordnung auf die
+zuständigen Bundes- oder Landesministerien übertragen.
+
+(1b) Dokumente und Aktenteile, die nach den
+Verschlusssachenanweisungen des Bundes oder der Länder als
+Verschlusssache höher als VS-NUR FÜR DEN DIENSTGEBRAUCH eingestuft
+sind, dürfen bis zum 31. Dezember 2035 in Papierform erstellt, geführt
+und übermittelt werden. Dokumente und Aktenteile, die nach den
+Verschlusssachenanweisungen des Bundes oder der Länder als
+Verschlusssache VS-NUR FÜR DEN DIENSTGEBRAUCH eingestuft sind, dürfen
+bis zum 31. Dezember 2035 in Papierform übermittelt werden. Die für
+die Handhabung von Verschlusssachen geltenden Geheimschutzvorschriften
+bleiben unberührt.
 
 (2) Die Bundesregierung und die Landesregierungen bestimmen jeweils
 für ihren Bereich durch Rechtsverordnung die für die elektronische
@@ -3139,17 +3158,36 @@ ohne Zustimmung des Bundesrates auf die zuständigen Bundesministerien
 
 Im Übrigen gelten die §§ 32a, 32b und 32d bis 32f der
 Strafprozessordnung sowie die auf der Grundlage des § 32a Absatz 2
-Satz 2 und Absatz 4 Satz 1 Nummer 6, des § 32b Absatz 5 und des § 32f
+Satz 2 und Absatz 4 Satz 1 Nummer 5, des § 32b Absatz 5 und des § 32f
 Absatz 6 der Strafprozessordnung erlassenen Rechtsverordnungen
 entsprechend. Abweichend von § 32b Absatz 1 Satz 2 der
 Strafprozessordnung ist bei der automatisierten Herstellung eines zu
 signierenden elektronischen Dokuments statt seiner die begleitende
-Verfügung zu signieren. Abweichend von § 32e Absatz 4 Satz 1 der
-Strafprozessordnung müssen Ausgangsdokumente nicht gespeichert oder
-aufbewahrt werden, wenn die übertragenen Dokumente zusätzlich einen
-mit einer qualifizierten elektronischen Signatur versehenen Vermerk
-darüber enthalten, dass das Ausgangsdokument mit dem zur Akte zu
-nehmenden Dokument inhaltlich und bildlich übereinstimmt.
+Verfügung zu signieren. § 32d Satz 2 der Strafprozessordnung gilt mit
+der Maßgabe, dass Verteidiger und Rechtsanwälte
+
+1.  den Einspruch gegen den Bußgeldbescheid, seine Rücknahme und den
+    Verzicht auf den Einspruch,
+
+
+2.  die Rechtsbeschwerde, ihre Begründung und ihre Rücknahme,
+
+
+3.  den Antrag auf Zulassung der Rechtsbeschwerde, seine Begründung und
+    seine Rücknahme sowie
+
+
+4.  die Gegenerklärung
+
+
+
+als elektronisches Dokument übermitteln müssen. Abweichend von § 32e
+Absatz 4 Satz 1 der Strafprozessordnung müssen Ausgangsdokumente nicht
+gespeichert oder aufbewahrt werden, wenn die übertragenen Dokumente
+zusätzlich einen mit einer qualifizierten elektronischen Signatur
+versehenen Vermerk darüber enthalten, dass das Ausgangsdokument mit
+dem zur Akte zu nehmenden Dokument inhaltlich und bildlich
+übereinstimmt.
 
 
 ## Dritter Teil - Einzelne Ordnungswidrigkeiten
@@ -3673,6 +3711,11 @@ Hauptverhandlung abgesandt wird.
 (2) Die Zulässigkeit und die Zulassung von Rechtsmitteln richten sich
 nach dem Recht, das zu dem Zeitpunkt gilt, zu dem ein Urteil verkündet
 wird oder ein Beschluß bei der Geschäftsstelle eingeht.
+
+(2a) § 108 Absatz 1 Satz 2 ist in seiner bis einschließlich 31.
+Dezember 2025 geltenden Fassung weiter anzuwenden, wenn die
+anzufechtende Entscheidung bis einschließlich 31. Dezember 2025 bei
+der Geschäftsstelle eingeht.
 
 (3) Die Wiederaufnahme des Verfahrens richtet sich nach dem Recht, das
 zu dem Zeitpunkt gilt, zu dem ein Antrag bei Gericht eingeht.

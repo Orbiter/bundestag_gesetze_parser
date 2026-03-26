@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2007, 2942
 
 Zuletzt geändert durch
-:   Art. 1 V v. 13.2.2023 I Nr. 38
+:   Art. 1 V v. 20.8.2024 I Nr. 267
 
 
 ## Eingangsformel
@@ -81,10 +81,10 @@ Einnahmen sind nicht als Einkommen zu berücksichtigen:
     Euro monatlich nicht übersteigen,
 
 
-10. nach § 3 Nummer 11a oder 11b des Einkommensteuergesetzes steuerfrei
-    gewährte Leistungen aufgrund der COVID-19-Pandemie sowie den
-    Leistungen nach § 3 Nummer 11a des Einkommensteuergesetzes
-    entsprechende Zahlungen aus den Haushalten des Bundes und der Länder,
+10. eine Witwen- oder Witwerrente nach § 67 Nummer 5 und 6 des Sechsten
+    Buches Sozialgesetzbuch, soweit diese Rente bis zum Ende des dritten
+    Kalendermonats nach Ablauf des Monats, in dem der Ehegatte verstorben
+    ist, die anschließende Witwen- oder Witwerrente überschreitet,
 
 
 11. Verpflegung, die außerhalb der in den §§ 2, 3 und 4 Nummer 4 genannten
@@ -96,31 +96,11 @@ Einnahmen sind nicht als Einkommen zu berücksichtigen:
     Jugendweihe, soweit sie den Betrag von 3 100 Euro nicht überschreiten,
 
 
-13. die auf Grund eines Bundesprogramms gezahlten Außerordentlichen
-    Wirtschaftshilfen zur Abfederung von Einnahmeausfällen, die ab dem 2.
-    November 2020 infolge der vorübergehenden Schließung von Betrieben und
-    Einrichtungen entstanden sind (Novemberhilfe und Dezemberhilfe),
-
-
-14. die pauschalierten Betriebskostenzuschüsse, die auf Grund des
-    Förderelements „Neustarthilfe“ des Bundesprogramms Überbrückungshilfe
-    III gezahlt werden,
-
-
-15. Hilfen zur Beschaffung von Hygiene- oder Gesundheitsartikeln, die auf
+13. Hilfen zur Beschaffung von Hygiene- oder Gesundheitsartikeln, die auf
     Grund einer epidemischen Lage von nationaler Tragweite, die vom
     Deutschen Bundestag gemäß § 5 Absatz 1 Satz 1 des
     Infektionsschutzgesetzes festgestellt worden ist, aus Mitteln des
-    Bundes oder der Länder gezahlt werden,
-
-
-16. in der Zeit vom 1. Januar 2023 bis zum Ablauf des 30. Juni 2023
-    erzielte Einnahmen von Schülerinnen und Schülern allgemein- oder
-    berufsbildender Schulen, die das 25. Lebensjahr noch nicht vollendet
-    haben, aus Erwerbstätigkeiten, die in den Schulferien ausgeübt werden,
-    soweit diese einen Betrag in Höhe von 2 400 Euro kalenderjährlich
-    nicht überschreiten; dies gilt nicht für Schülerinnen und Schüler, die
-    einen Anspruch auf Ausbildungsvergütung haben.
+    Bundes oder der Länder gezahlt werden.
 
 
 
@@ -142,13 +122,14 @@ teilweise nicht als Einkommen zu berücksichtigen, wenn sie auf Grund
 eines in Ausübung der Wehrpflicht bei der Nationalen Volksarmee der
 ehemaligen Deutschen Demokratischen Republik erlittenen
 Gesundheitsschadens erbracht wird. Dabei bestimmt sich die Höhe des
-nicht zu berücksichtigenden Betrages nach der Höhe der Grundrente nach
-§ 31 des Bundesversorgungsgesetzes, die für den Grad der
-Schädigungsfolgen zu zahlen ist, der der jeweiligen Minderung der
-Erwerbsfähigkeit entspricht. Bei einer Minderung der Erwerbsfähigkeit
-um 20 Prozent beträgt der nicht zu berücksichtigende Betrag zwei
-Drittel, bei einer Minderung der Erwerbsfähigkeit um 10 Prozent ein
-Drittel der Mindestgrundrente nach dem Bundesversorgungsgesetz.
+nicht zu berücksichtigenden Betrages nach der Höhe der vergleichbaren
+monatlichen Entschädigungszahlung nach § 83 Absatz 1 des Vierzehnten
+Buches Sozialgesetzbuch, die für den Grad der Schädigungsfolgen zu
+zahlen ist, der der jeweiligen Minderung der Erwerbsfähigkeit
+entspricht. Bei einer Minderung der Erwerbsfähigkeit um 20 Prozent
+beträgt der nicht zu berücksichtigende Betrag zwei Drittel, bei einer
+Minderung der Erwerbsfähigkeit um 10 Prozent ein Drittel der
+Mindestgrundrente nach dem Vierzehnten Buch Sozialgesetzbuch.
 
 
 ## § 2 Berechnung des Einkommens aus nichtselbständiger Arbeit
@@ -200,10 +181,7 @@ Erwerbstätigkeit nach Satz 1 nur während eines Teils des
 Bewilligungszeitraums ausgeübt, ist das Einkommen nur für diesen
 Zeitraum zu berechnen.
 
-(1a) Nicht zu den Betriebseinnahmen zählen abweichend von Absatz 1
-Satz 2 die pauschalierten Betriebskostenzuschüsse, die auf Grund des
-Förderelements „Neustarthilfe“ des Bundesprogramms Überbrückungshilfe
-III gezahlt werden.
+(1a) (weggefallen)
 
 (2) Zur Berechnung des Einkommens sind von den Betriebseinnahmen die
 im Bewilligungszeitraum tatsächlich geleisteten notwendigen Ausgaben

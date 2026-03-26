@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1976, 881, 885 (1977 I 288)
 
 Zuletzt geändert durch
-:   Art. 25 G v. 20.11.2015 I 2010
+:   Art. 2 G v. 4.12.2024 I Nr. 395
 
 
 ## § 1 Verhältnis zum allgemeinen Verfahrensrecht
@@ -77,20 +77,18 @@ Landwirtschaftsgericht ohne Zuziehung ehrenamtlicher Richter.
 
 ## § 3a
 
-Das Finanzamt teilt dem Landwirtschaftsgericht den Wirtschaftswert
-eines Betriebs der Land- und Forstwirtschaft mit, wenn dieser nach
-Maßgabe einer Einheitswertfeststellung oder sonst auf Antrag
-vorgenommenen Ermittlung
+Das Finanzamt teilt dem Landwirtschaftsgericht den Grundsteuerwert für
+einen Betrieb der Land- und Forstwirtschaft mit, wenn dieser
 
-1.  sich von mindestens 5.000 Euro auf weniger als 5.000 Euro verringert
+1.  sich von mindestens 27 000 Euro auf weniger als 27 000 Euro verringert
     hat,
 
 
-2.  sich von weniger als 10.000 Euro auf mindestens 10.000 Euro erhöht hat
+2.  sich von weniger als 54 000 Euro auf mindestens 54 000 Euro erhöht hat
     oder
 
 
-3.  erstmals ermittelt worden ist und mindestens 10.000 Euro beträgt.
+3.  erstmals ermittelt worden ist und mindestens 54 000 Euro beträgt.
 
 
 

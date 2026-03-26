@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 23.1.2003 I 102;
 
 Zuletzt geändert durch
-:   Art. 1 G v. 4.12.2023 I Nr. 344
+:   Art. 2 G v. 15.7.2024 I Nr. 236
 
 Mittelbare änderung durch
 :   Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war
@@ -644,7 +644,7 @@ Geschäftsleitung im Inland hat der Behörde auf Verlangen innerhalb
 einer angemessenen Frist einen Empfangsbevollmächtigten im Inland zu
 benennen. Unterlässt er dies, gilt ein an ihn gerichtetes Schriftstück
 am siebenten Tage nach der Aufgabe zur Post und ein elektronisch
-übermitteltes Dokument am dritten Tage nach der Absendung als
+übermitteltes Dokument am vierten Tage nach der Absendung als
 zugegangen. Dies gilt nicht, wenn feststeht, dass das Dokument den
 Empfänger nicht oder zu einem späteren Zeitpunkt erreicht hat. Auf die
 Rechtsfolgen der Unterlassung ist der Beteiligte hinzuweisen.
@@ -1668,9 +1668,9 @@ Bevollmächtigter bestellt, so kann die Bekanntgabe ihm gegenüber
 vorgenommen werden.
 
 (2) Ein schriftlicher Verwaltungsakt, der im Inland durch die Post
-übermittelt wird, gilt am dritten Tag nach der Aufgabe zur Post als
+übermittelt wird, gilt am vierten Tag nach der Aufgabe zur Post als
 bekannt gegeben. Ein Verwaltungsakt, der im Inland oder in das Ausland
-elektronisch übermittelt wird, gilt am dritten Tag nach der Absendung
+elektronisch übermittelt wird, gilt am vierten Tag nach der Absendung
 als bekannt gegeben. Dies gilt nicht, wenn der Verwaltungsakt nicht
 oder zu einem späteren Zeitpunkt zugegangen ist; im Zweifel hat die
 Behörde den Zugang des Verwaltungsaktes und den Zeitpunkt des Zugangs

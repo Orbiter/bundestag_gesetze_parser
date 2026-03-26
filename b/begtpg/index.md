@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2005, 1970, 2009
 
 Zuletzt geändert durch
-:   Art. 3 G v. 16.7.2021 I 3026
+:   Art. 6 G v. 6.5.2024 I Nr. 149
 
 
 ## § 1 Rechtsform, Name
@@ -44,11 +44,15 @@ Bundesministeriums für Wirtschaft und Energie mit Sitz in Bonn.
 2.  des Telekommunikationsrechts,
 
 
-3.  des Postrechts sowie
+3.  des Postrechts,
 
 
 4.  des Rechts des Zuganges zur Eisenbahninfrastruktur nach Maßgabe des
-    Bundeseisenbahnverkehrsverwaltungsgesetzes
+    Bundeseisenbahnverkehrsverwaltungsgesetzes sowie
+
+
+5.  des Rechts der digitalen Dienste nach Maßgabe des Digitale-Dienste-
+    Gesetzes
 
 
 

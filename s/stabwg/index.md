@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2021, 2056
 
 Zuletzt geändert durch
-:   Art. 8 Abs. 2 G v. 20.12.2022 I 2730
+:   Art. 40 G v. 2.12.2024 I Nr. 387
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
@@ -288,12 +288,28 @@ mindern. Dies gilt nicht, soweit
 1.  die den Aufwendungen entsprechenden Erträge der unbeschränkten oder
     beschränkten Steuerpflicht nach den Vorschriften des
     Einkommensteuergesetzes, Körperschaftsteuergesetzes oder dieses
-    Gesetzes unterliegen; oder
+    Gesetzes unterliegen;
 
 
 2.  auf Grund der aus den Aufwendungen resultierenden Einnahmen ein
     Hinzurechnungsbetrag im Sinne des § 10 Absatz 1 Satz 1 des
-    Außensteuergesetzes anzusetzen ist.
+    Außensteuergesetzes anzusetzen ist; oder
+
+
+3.  die Aufwendungen stammen aus
+
+    a)  Inhaberschuldverschreibungen, die durch eine Globalurkunde verbrieft
+        und im Rahmen der Girosammelverwahrung bei einem Zentralverwahrer
+        verwahrt werden und mit diesen vergleichbare Schuldtitel, die an einer
+        anerkannten Börse im Sinne des § 138 Absatz 2 Satz 1 Nummer 3
+        Buchstabe b Satz 2 der Abgabenordnung handelbar sind; oder
+
+
+    b)  Versicherungs- oder Rückversicherungsleistungen. Dies gilt nicht für
+        Versicherungs- oder Rückversicherungsprämien.
+
+
+
 
 
 
@@ -501,6 +517,10 @@ anzuwenden.
 (1a) § 10 in der Fassung des Artikels 24 des Gesetzes vom 16. Dezember
 2022 (BGBl. I S. 2294) ist erstmals ab dem 1. Januar 2022 anzuwenden.
 
+(1b) § 8 in der Fassung des Artikels 40 des Gesetzes vom 2. Dezember
+2024 (BGBl. 2024 I Nr. 387) ist erstmals ab dem 1. Januar 2025
+anzuwenden.
+
 (2) Abweichend von Absatz 1 sind die Abschnitte 3 und 4 dieses
 Gesetzes in Bezug auf Steuerhoheitsgebiete, die am 1. Januar 2021
 nicht auf der im Amtsblatt der Europäischen Union veröffentlichten EU-
@@ -529,9 +549,13 @@ des Außensteuergesetzes in der am 30. Juni 2021 geltenden Fassung oder
 einer Betriebsstätte, die in einem Wirtschaftsjahr entstanden sind,
 das vor dem 1. Januar 2022 beginnt, ist § 9 vorbehaltlich der Absätze
 1 und 2 in der folgenden Fassung anzuwenden:
-"§ 9
-Verschärfte
-## Hinzurechnungsbesteuerung
+
+*    *   „§ 9
+        Verschärfte
+        ## Hinzurechnungsbesteuerung
+
+
+
 
 Sind unbeschränkt steuerpflichtige Personen an einer ausländischen
 Gesellschaft im Sinne des § 7 Absatz 1 des Außensteuergesetzes in der
@@ -565,6 +589,5 @@ Betriebsstätten eines unbeschränkt Steuerpflichtigen gilt § 20 Absatz
 Fassung mit der Maßgabe, dass dieser auf sämtliche Einkünfte der
 Betriebstätte anzuwenden ist; § 20 Absatz 2 Satz 2 des
 Außensteuergesetzes in der am 30. Juni 2021 geltenden Fassung ist
-nicht anzuwenden und Satz 3 gilt entsprechend."
-
+nicht anzuwenden und Satz 3 gilt entsprechend.“
 

@@ -15,7 +15,7 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1991, 58
 
-Stand: Zuletzt geändert Art. 3 G v. 14.6.2021 I 1802
+Stand: Zuletzt geändert Art. 6 G v. 12.8.2025 I Nr. 189
 
 
 ## Eingangsformel
@@ -106,7 +106,8 @@ Der Bundesrat hat zugestimmt.
 
 ## Anlage
 
-(Fundstelle: BGBl. I 1991, 58 [Anlagenband])
+(Fundstelle: BGBl. I 1991, 58 [Anlagenband];
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Anlage zur
 ## **Planzeichenverordnung 1990**
@@ -628,11 +629,30 @@ Anlage zur
 
 *    *   1.5.
 
+    *   Beschleunigungsgebiete für die Windenergie an Land
+        (§ 249c BauGB)
+
+    *
+    *        ![bgbl1_2025_j01890_0010.jpg](bgbl1_2025_j01890_0010.jpg)
+    *        ![bgbl1_2025_j01890_0020.jpg](bgbl1_2025_j01890_0020.jpg)
+    *        ![bgbl1_2025_j01890_0030.jpg](bgbl1_2025_j01890_0030.jpg)   Orange mittel
+
+
+*    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   1.6.
+
     *   Beschränkung der Zahl
         der Wohnungen
         (§ 9 Abs. 1 Nr. 6 BauGB)
 
-    *   Aus besonderen städebaulichen Gründen kann die höchst-
+    *   Aus besonderen
+        städtebaulichen                      Gründen kann die höchst-
         zulässige Zahl der Wohnungen in Wohngebäuden durch
         Ergänzungen der Planzeichen festgesetzt werden.
 

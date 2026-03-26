@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2013, 3386
 
 Zuletzt geändert durch
-:   Art. 71 G v. 20.8.2021 I 3932
+:   Art. 3 G v. 19.7.2024 I Nr. 247
 
 
 ## § 1 Geltungsbereich
@@ -239,7 +239,7 @@ entsprechend.
 (1) Altersgeldfähig ist die Dienstzeit, die der Beamte von der ersten
 Berufung in das Beamtenverhältnis an im Dienst eines öffentlich-
 rechtlichen Dienstherrn im Beamtenverhältnis zurückgelegt hat. Bei
-Berufssoldaten ist die Wehrdienstzeit nach § 2 Absatz 1 Satz 1 des
+Berufssoldaten ist die Wehrdienstzeit nach § 3 Satz 1 des
 Soldatenversorgungsgesetzes altersgeldfähig. § 6 Absatz 1 Satz 2 und
 Absatz 2 des Beamtenversorgungsgesetzes gilt entsprechend; § 6a des
 Beamtenversorgungsgesetzes ist mit der Maßgabe anzuwenden, dass der
@@ -263,7 +263,7 @@ des Soldatengesetzes gleich.
     Anwendung der §§ 8 und 9 des Beamtenversorgungsgesetzes,
 
 
-2.  gilt bei Berufssoldaten auch die Zeit nach § 64 Absatz 1 Satz 1 Nummer
+2.  gilt bei Berufssoldaten auch die Zeit nach § 92 Absatz 1 Satz 1 Nummer
     1 und 4 des Soldatenversorgungsgesetzes.
 
 
@@ -446,8 +446,9 @@ Altersgeldberechtigte die Regelaltersgrenze nach § 35 Satz 2 oder §
 
 
 3.  für Altersgeldberechtigte nach § 3 Absatz 3 Satz 2 71,75 Prozent der
-    altersgeldfähigen Dienstbezüge zuzüglich eines Betrages von monatlich
-    525 Euro.
+    altersgeldfähigen Dienstbezüge zuzüglich eines Betrages in Höhe von
+    vierzehn Zwölfteln der Geringfügigkeitsgrenze im Sinne des § 8 Absatz
+    1a des Vierten Buches Sozialgesetzbuch.
 
 
 

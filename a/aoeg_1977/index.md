@@ -16,9 +16,8 @@ Fundstelle
 :   BGBl I: 1976, 3341 (1977 I 667)
 
 Zuletzt geändert durch
-:   Art. 16 G v. 27.3.2024 I Nr. 108
+:   Art. 4 G v. 10.2.2026 I Nr. 39
 
-Stand: Bek. v. 12.10.2023 I Nr. 293 mWv 1.11.2023 ist berücksichtigt
 
 ## Erster Abschnitt - Änderung von Gesetzen auf dem Gebiet des Finanzwesens
 
@@ -39,6 +38,9 @@ Wertverhältnisse vom 1. Januar 1977 zugrunde liegen, sind erstmals
 anzuwenden bei der Feststellung von Einheitswerten der gewerblichen
 Betriebe auf den 1. Januar 1977 und bei der Festsetzung von Steuern,
 bei denen die Steuer nach dem 31. Dezember 1976 entsteht.
+
+(3) Die Absätze 1 und 2 sind letztmals anzuwenden für gesonderte
+Feststellungen auf den 1. Januar 2024.
 
 
 ### Art 8 bis 38 - 
@@ -157,6 +159,12 @@ e der Abgabenordnung in der Fassung des Artikels 27 des Gesetzes vom
 21\. Dezember 2020 (BGBl. I S. 3096) ist ab dem 1. Januar 2021
 anzuwenden.
 
+(15) § 122 Absatz 2 Nummer 1 und Absatz 2a, § 122a Absatz 4 und § 123
+Satz 2 der Abgabenordnung in der am 1. Januar 2025 geltenden Fassung
+sind auf alle Verwaltungsakte anzuwenden, die nach dem 31. Dezember
+2024 zur Post gegeben, elektronisch übermittelt oder elektronisch zum
+Abruf bereit gestellt werden.
+
 
 ### § 1a Steuerlich unschädliche Betätigungen
 
@@ -176,9 +184,13 @@ S. 1034) sind ab dem 1. Januar 2000 anzuwenden.
 
 ### § 1b Steuerpflichtige wirtschaftliche Geschäftsbetriebe
 
-§ 64 Abs. 6 der Abgabenordnung in der Fassung des Artikels 5 des
+(1) § 64 Absatz 6 der Abgabenordnung in der Fassung des Artikels 5 des
 Gesetzes vom 20. Dezember 2000 (BGBl. I S. 1850) ist ab dem 1. Januar
 2000 anzuwenden.
+
+(2) § 64 Absatz 3 der Abgabenordnung in der Fassung des Artikels 5 des
+Gesetzes vom 22. Dezember 2025 (BGBl. 2025 I Nr. 363) ist erstmals für
+den Veranlagungszeitraum 2026 anzuwenden.
 
 
 ### § 1c Krankenhäuser
@@ -293,19 +305,33 @@ geleistete Zahlungen anzuwenden.
 
 ### § 5 Zeitpunkt der Einführung des steuerlichen Identifikationsmerkmals
 
-Das Bundesministerium der Finanzen bestimmt durch Rechtsverordnung mit
-Zustimmung des Bundesrates den Zeitpunkt der Einführung des
+(1) Das Bundesministerium der Finanzen bestimmt durch Rechtsverordnung
+mit Zustimmung des Bundesrates den Zeitpunkt der Einführung des
 Identifikationsmerkmals nach § 139a Abs. 1 der Abgabenordnung. Die
 Festlegung der Zeitpunkte für die ausschließliche Verwendung des
 Identifikationsmerkmals im Bereich der Einfuhr- und Ausfuhrabgaben
 sowie der Verbrauchsteuern bedarf nicht der Zustimmung des
 Bundesrates.
 
+(2) Bis zur Bereitstellung eines maschinellen Anfrageverfahrens zur
+Wirtschafts-Identifikationsnummer sind Regelungen der Abgabenordnung
+oder anderer Gesetze, nach denen bei wirtschaftlich Tätigen die
+Wirtschafts-Identifikationsnummer zu erheben, aufzuzeichnen, anzugeben
+oder mitzuteilen ist, mit der Maßgabe anzuwenden, dass zur
+Identifizierung des betroffenen wirtschaftlich Tätigen weiterhin die
+Steuernummer ausreicht. § 154 Absatz 2c der Abgabenordnung ist bis zur
+Bereitstellung eines maschinellen Anfrageverfahrens zur Wirtschafts-
+Identifikationsnummer nicht anzuwenden, soweit das Kreditinstitut die
+Steuernummer eines wirtschaftlich Tätigen erhoben und aufgezeichnet
+hat. Das Bundesministerium der Finanzen gibt den Tag der erstmaligen
+Bereitstellung eines maschinellen Anfrageverfahrens zur Wirtschafts-
+Identifikationsnummer im Bundesgesetzblatt Teil I bekannt.
 
-### § 5a Identifikationsnummer
 
-§ 139b Absatz 8 der Abgabenordnung in der Fassung des Artikels 26 des
-Gesetzes vom 16. Dezember 2022 (BGBl. I S. 2294) ist ab dem Tag
+### § 5a Identifikationsnummer und Wirtschafts-Identifikationsnummer
+
+(1) § 139b Absatz 8 der Abgabenordnung in der Fassung des Artikels 26
+des Gesetzes vom 16. Dezember 2022 (BGBl. I S. 2294) ist ab dem Tag
 anzuwenden, an dem das Bundesministerium des Innern und für Heimat
 nach Artikel 22 Satz 3 des Gesetzes vom 28. März 2021 (BGBl. I S. 591)
 im Bundesgesetzblatt bekannt gibt, dass die technischen
@@ -318,6 +344,14 @@ Bearbeitungsmerkmale wird das Datum nach § 139b Absatz 6 Satz 1 Nummer
 11 der Abgabenordnung dem Bundeszentralamt für Steuern von den
 Meldebehörden im Rahmen einer Bestandsdatenlieferung einmalig
 mitgeteilt.
+
+(2) § 139b Absatz 3, 4a und 6 sowie § 139c Absatz 3, 4, 5 und 6a der
+Abgabenordnung in der Fassung des Artikels 8a Nummer 1 des Gesetzes
+vom 19. Juli 2024 (BGBl. 2024 I Nr. 245) sind ab dem Tag anzuwenden,
+der dem Tag folgt, an dem das Bundesministerium der Finanzen im
+Bundesgesetzblatt bekannt gibt, dass die technischen Voraussetzungen
+für die Verarbeitung des amtlichen Gemeindeschlüssels und des
+Altgerichts jeweils vorliegen.
 
 
 ### § 6 Zahlungszeitpunkt bei Scheckzahlung
@@ -478,7 +512,8 @@ Zuteilung von Steuermeßbeträgen. Bei der Einheitsbewertung tritt an
 die Stelle des Zeitpunkts der Entstehung des Steueranspruchs der
 Zeitpunkt, auf den die Hauptfeststellung, die Fortschreibung, die
 Nachfeststellung oder die Aufhebung eines Einheitswerts vorzunehmen
-ist.
+ist. Satz 2 ist letztmals anzuwenden für gesonderte Feststellungen auf
+den 1. Januar 2024.
 
 (3) Wenn die Schlußbesprechung oder die letzten Ermittlungen vor dem
 1\. Januar 1987 stattgefunden haben, beginnt der nach § 171 Abs. 4 Satz
@@ -578,7 +613,11 @@ die nach dem 31. Dezember 1994 beginnen. § 180 Absatz 1 Satz 2 der
 Abgabenordnung in der Fassung des Artikels 1 des Gesetzes vom 22.
 Dezember 2014 (BGBl. I S. 2417) ist erstmals auf
 Feststellungszeiträume anzuwenden, die nach dem 31. Dezember 2014
-beginnen.
+beginnen. § 180 Absatz 1 Satz 1 Nummer 1, § 181 Absatz 3 Satz 1 und 2
+und Absatz 4, § 182 Absatz 2 Satz 1 und § 183a Absatz 4 der
+Abgabenordnung in der am 1. Januar 2025 geltenden Fassung sind
+erstmals auf Feststellungszeitpunkte nach dem 31. Dezember 2024
+anzuwenden.
 
 
 ### § 10c Billigkeitsmaßnahmen bei der Festsetzung des Gewerbesteuermessbetrags
@@ -804,6 +843,14 @@ Anwendung des § 238 Absatz 1a der Abgabenordnung in der am 22. Juli
 (17) § 237 Absatz 6 der Abgabenordnung in der am 28. März 2024
 geltenden Fassung gilt für alle Haftungsansprüche, die nach dem 31.
 Dezember 2024 entstehen.
+
+(18) § 234 Absatz 1, § 236 Absatz 6 und § 239 Absatz 1 Satz 2 Nummer 4
+der Abgabenordnung in der am 6. Dezember 2024 geltenden Fassung gelten
+für alle Haftungsansprüche, die nach dem 31. Dezember 2024 entstehen.
+
+(19) § 235 Absatz 5 der Abgabenordnung gilt in allen Fällen, in denen
+Zinsen zu hinterzogenen Vorauszahlungen nach dem 6. Dezember 2024
+festgesetzt werden.
 
 
 ### § 16 Säumniszuschläge
@@ -1142,7 +1189,7 @@ Fassung nicht erfüllt sind.
 
 ### § 19a Aufbewahrungsfristen
 
-§ 147 Abs. 3 der Abgabenordnung in der Fassung des Artikels 2 des
+(1)§ 147 Abs. 3 der Abgabenordnung in der Fassung des Artikels 2 des
 Gesetzes vom 19. Dezember 1998 (BGBl. I S. 3816) gilt erstmals für
 Unterlagen, deren Aufbewahrungsfrist nach § 147 Abs. 3 der
 Abgabenordnung in der bis zum 23. Dezember 1998 geltenden Fassung noch
@@ -1151,6 +1198,30 @@ in der am 1. Januar 2017 geltenden Fassung gilt für alle
 Lieferscheine, deren Aufbewahrungsfrist nach § 147 Absatz 3 der
 Abgabenordnung in der bis zum 31. Dezember 2016 geltenden Fassung noch
 nicht abgelaufen ist.
+
+(2) § 147 Absatz 3 Satz 1 der Abgabenordnung in der ab dem 1. Januar
+2025 geltenden Fassung gilt vorbehaltlich des Absatzes 3 erstmals für
+alle Unterlagen, deren Aufbewahrungsfrist nach § 147 Absatz 3 der
+Abgabenordnung in der bis einschließlich 31. Dezember 2024 geltenden
+Fassung noch nicht abgelaufen ist.
+
+(3) Bei Steuerpflichtigen, die
+
+1.  Institute im Sinne des § 1 Absatz 1b des Kreditwesengesetzes sind,
+    einschließlich Zweigstellen nach § 53 des Kreditwesengesetzes,
+
+
+2.  der Aufsicht nach § 1 Absatz 1 des Versicherungsaufsichtsgesetzes
+    unterliegen oder
+
+
+3.  Wertpapierinstitute im Sinne des § 2 Absatz 1 des
+    Wertpapierinstitutsgesetzes sind,
+
+
+
+ist § 147 Absatz 3 Satz 1 der Abgabenordnung in der am 31. Dezember
+2024 geltenden Fassung abweichend von Absatz 2 anzuwenden.
 
 
 ### § 19b Zugriff auf datenverarbeitungsgestützte Buchführungssysteme
@@ -1384,13 +1455,25 @@ veröffentlichendes Schreiben. Bis zu diesem Zeitpunkt sind die
 Auskünfte im Sinne des § 138 Absatz 1b Satz 1 der Abgabenordnung nach
 amtlich vorgeschriebenem Vordruck zu erteilen.
 
+(5) § 175b Absatz 4 der Abgabenordnung in der am 6. Dezember 2024
+geltenden Fassung ist erstmals auf Verwaltungsakte anzuwenden, die
+nach dem 5. Dezember 2024 erlassen worden sind.
+
 
 ### § 28 Elektronische Bekanntgabe von Verwaltungsakten
 
-§ 87a Absatz 7 und 8, die §§ 122a und 169 Absatz 1 der Abgabenordnung
-in der am 1. Januar 2017 geltenden Fassung sind erstmals auf
-Verwaltungsakte anzuwenden, die nach dem 31. Dezember 2016 erlassen
-worden sind. § 8 Absatz 4 Satz 4 gilt entsprechend.
+(1) § 87a Absatz 7 und 8, die §§ 122a und 169 Absatz 1 der
+Abgabenordnung in der am 1. Januar 2017 geltenden Fassung sind
+erstmals auf Verwaltungsakte anzuwenden, die nach dem 31. Dezember
+2016 erlassen worden sind. § 8 Absatz 4 Satz 4 gilt entsprechend.
+
+(2) Die §§ 122a und 169 Absatz 1 Satz 3 Nummer 1 der Abgabenordnung in
+der am 1. Januar 2026 geltenden Fassung sind erstmals auf
+Verwaltungsakte anzuwenden, die nach dem 31. Dezember 2025 erlassen
+worden sind. Abweichend von Satz 1 ist § 122a Absatz 1 Satz 2 der
+Abgabenordnung in der am 1. Januar 2026 geltenden Fassung erstmalig
+auf Verwaltungsakte anzuwenden, die nach dem 31. Dezember 2026
+erlassen worden sind.
 
 
 ### § 29 Abweichende Festsetzung von Steuern aus Billigkeitsgründen
@@ -1733,31 +1816,29 @@ Fassung mit folgenden Maßgaben anzuwenden:
 (1) Die durch Artikel 3 des Gesetzes vom 20. Dezember 2022 (BGBl. I S.
 2730) geänderten Vorschriften der Abgabenordnung sind auf alle am 1.
 Januar 2023 anhängigen Verfahren anzuwenden, soweit in den Absätzen 2
-bis 4 nichts anderes bestimmt ist.
+bis 5 nichts anderes bestimmt ist.
 
-(2) § 3 Absatz 4 Nummer 3a, § 18 Absatz 1 Nummer 5, § 90 Absatz 3 Satz
-5 und 6 sowie Absatz 4 und 5, § 153 Absatz 4, § 162 Absatz 3 und 4, §
-171 Absatz 4, § 180 Absatz 1a, § 181 Absatz 1 Satz 4, § 197 Absatz 5,
-§ 199 Absatz 2 Satz 2 und 3, die §§ 200a, 202 Absatz 1 Satz 4 und
+(2) § 3 Absatz 4 Nummer 3a, § 18 Absatz 1 Nummer 5, § 153 Absatz 4, §
+162 Absatz 3, § 171 Absatz 4, § 180 Absatz 1a, § 181 Absatz 1 Satz 4,
+§ 197 Absatz 5, § 199 Absatz 2 Satz 2 und 3, die §§ 200a, 202 Absatz 1
+Satz 4 und Absatz 3 sowie § 204 Absatz 2 der Abgabenordnung in der am
+1\. Januar 2023 geltenden Fassung sind vorbehaltlich des Absatzes 3
+erstmals auf Steuern und Steuervergütungen anzuwenden, die nach dem
+31\. Dezember 2024 entstehen. Für Steuern und Steuervergütungen, die
+vor dem 1. Januar 2025 entstehen, sind § 162 Absatz 3, § 171 Absatz 4
+sowie § 204 der Abgabenordnung in der am 31. Dezember 2022 geltenden
+Fassung vorbehaltlich des Absatzes 3 weiterhin anzuwenden. Die Sätze 1
+und 2 gelten für gesonderte Feststellungen von Besteuerungsgrundlagen
+entsprechend.
+
+(3) § 3 Absatz 4 Nummer 3a, § 18 Absatz 1 Nummer 5, § 153 Absatz 4, §
+162 Absatz 3, § 180 Absatz 1a, § 181 Absatz 1 Satz 4, § 199 Absatz 2
+Satz 2 und 3, § 200a Absatz 1 bis 3 und 6, § 202 Absatz 1 Satz 4 und
 Absatz 3 sowie § 204 Absatz 2 der Abgabenordnung in der am 1. Januar
-2023 geltenden Fassung sind vorbehaltlich des Absatzes 3 erstmals auf
-Steuern und Steuervergütungen anzuwenden, die nach dem 31. Dezember
-2024 entstehen. Für Steuern und Steuervergütungen, die vor dem 1.
-Januar 2025 entstehen, sind § 90 Absatz 3 Satz 5 bis 11, § 162 Absatz
-3 und 4, § 171 Absatz 4 sowie § 204 der Abgabenordnung in der am 31.
-Dezember 2022 geltenden Fassung vorbehaltlich des Absatzes 3 weiterhin
-anzuwenden. Die Sätze 1 und 2 gelten für gesonderte Feststellungen von
-Besteuerungsgrundlagen entsprechend.
-
-(3) § 3 Absatz 4 Nummer 3a, § 18 Absatz 1 Nummer 5, § 90 Absatz 3 Satz
-5 und 6 sowie Absatz 4 und 5, § 153 Absatz 4, § 162 Absatz 3 und 4, §
-180 Absatz 1a, § 181 Absatz 1 Satz 4, § 199 Absatz 2 Satz 2 und 3, §
-200a Absatz 1 bis 3 und 6, § 202 Absatz 1 Satz 4 und Absatz 3 sowie §
-204 Absatz 2 der Abgabenordnung in der am 1. Januar 2023 geltenden
-Fassung sind abweichend von Absatz 2 auch für Steuern und
-Steuervergütungen anzuwenden, die vor dem 1. Januar 2025 entstehen,
-wenn für diese Steuern und Steuervergütungen nach dem 31. Dezember
-2024 eine Prüfungsanordnung nach § 196 der Abgabenordnung
+2023 geltenden Fassung sind abweichend von Absatz 2 auch für Steuern
+und Steuervergütungen anzuwenden, die vor dem 1. Januar 2025
+entstehen, wenn für diese Steuern und Steuervergütungen nach dem 31.
+Dezember 2024 eine Prüfungsanordnung nach § 196 der Abgabenordnung
 bekanntgegeben wurde. Satz 1 gilt für gesonderte Feststellungen von
 Besteuerungsgrundlagen entsprechend.
 
@@ -1775,6 +1856,12 @@ entstehen, wenn für diese Steuern und Steuervergütungen nach dem 31.
 Dezember 2024 eine Prüfungsanordnung nach § 196 der Abgabenordnung
 bekanntgegeben wurde. Die Sätze 1 bis 3 gelten für gesonderte
 Feststellungen von Besteuerungsgrundlagen entsprechend.
+
+(5) Die durch Artikel 3 Nummer 2 und 5 des Gesetzes vom 23. Oktober
+2024 (BGBl. 2024 I Nr. 323) geänderten §§ 90 und 162 Absatz 4 der
+Abgabenordnung sind ab dem 1. Januar 2025 anzuwenden. Bis zum 31.
+Dezember 2024 ist die am 31. Dezember 2022 geltende Fassung weiterhin
+anzuwenden.
 
 
 ### § 38 Erprobung alternativer Prüfungsmethoden
@@ -1863,6 +1950,27 @@ Feststellungszeiträume und Feststellungszeitpunkte vor dem 1. Januar
 2024 § 152 Absatz 4 Satz 3, § 181 Absatz 2 Satz 2 Nummer 1, die §§ 183
 und 352 der Abgabenordnung in der am 31. Dezember 2023 geltenden
 Fassung weiterhin anzuwenden.
+
+(6) Soweit für eine Körperschaft im Sinne des § 14b Absatz 1 Satz 2
+der Abgabenordnung in der am 1. Januar 2024 geltenden Fassung vor dem
+1\. Januar 2024 Verwaltungsakte ergangen sind, wirken diese
+Verwaltungsakte ab dem 1. Januar 2024 auch gegenüber der Körperschaft.
+Ab dem 1. Januar 2024 bestimmt sich das weitere Verfahren nach den ab
+dem 1. Januar 2024 geltenden Vorschriften der Abgabenordnung. Die
+Sätze 1 und 2 gelten für Verwaltungsakte, die nach dem 31. Dezember
+2023 und vor dem 1. Januar 2026 abweichend von § 14b der
+Abgabenordnung noch nach dem am 31. Dezember 2023 geltenden Recht
+bekannt gegeben wurden, entsprechend. Ist über einen Einspruch gegen
+einen vor dem 1. Januar 2024 wirksam gewordenen Verwaltungsakt nach
+dem 31. Dezember 2023 zu entscheiden, richtet sich das weitere
+Verfahren nach den ab dem 1. Januar 2024 geltenden Vorschriften der
+Abgabenordnung; dasselbe gilt für Einsprüche, die gegen
+Verwaltungsakte im Sinne des Satzes 3 eingelegt wurden.
+
+(7) § 14b Absatz 1 Satz 1 der Abgabenordnung in der am 6. Dezember
+2024 geltenden Fassung ist in allen Fällen anzuwenden, in denen der
+Anspruch aus dem Steuerschuldverhältnis nach dem 5. Dezember 2024
+entstanden ist.
 
 
 ### Art 97a - Überleitungsregelungen aus Anlaß der Herstellung der Einheit Deutschlands
@@ -1962,7 +2070,8 @@ Einigungsvertrages genannten Gebiet gilt folgendes:
 
 7.  Bei der Anwendung des § 141 Abs. 1 Nr. 3 tritt an die Stelle des
     Wirtschaftswerts der Ersatzwirtschaftswert (§ 125 des
-    Bewertungsgesetzes).
+    Bewertungsgesetzes). Satz 1 ist letztmals für gesonderte
+    Feststellungen auf den 1. Januar 2024 anzuwenden.
 
 
 8.  Die Vorschriften über verbindliche Zusagen auf Grund einer
@@ -2125,13 +2234,18 @@ nicht der Zustimmung des Bundesrates.
 -
 
 
-### Art 101 - Berlin-Klausel
+### Art 101 - Übergangsvorschrift zum Gesetz über den Informationsaustausch zwischen den Strafverfolgungsbehörden der Mitgliedstaaten der Europäischen Union
 
-Dieses Gesetz gilt nach Maßgabe des § 12 Abs. 1 und § 13 Abs. 1 des
-Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S.
-1) auch im Land Berlin. Rechtsverordnungen, die auf Grund dieses
-Gesetzes erlassen werden, gelten im Land Berlin nach § 14 des Dritten
-Überleitungsgesetzes.
+(1) § 383a der Abgabenordnung und § 11 der FATCA-USA-
+Umsetzungsverordnung in der am 14. Februar 2026 geltenden Fassung sind
+auf alle Handlungen oder Unterlassungen anzuwenden, die nach dem 13.
+Februar 2026 begangen werden.
+
+(2) § 379 Absatz 2 Nummer 1b der Abgabenordnung in der Fassung vom 18.
+Dezember 2013 und § 11 der FATCA-USA-Umsetzungsverordnung in der
+Fassung vom 29. Juli 2014 sind weiterhin anzuwenden, soweit die
+Handlungen oder Unterlassungen vor dem 14. Februar 2026 begangen
+wurden.
 
 
 ### Art 102 - Inkrafttreten

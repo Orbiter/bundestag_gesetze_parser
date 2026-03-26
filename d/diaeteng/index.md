@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1968, 334
 
 Zuletzt geändert durch
-:   Art. VIII G v. 18. 2.1977 I 297
+:   Art. VIII G v. 18.2.1977 I 297
 
 Dieses gesetz wurde mit einschränkung aufgeh. durch
 :   Art. I § 46 Abs. 1 Satz 2 G v. 18.2.1977 I 297

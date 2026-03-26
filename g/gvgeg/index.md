@@ -16,7 +16,7 @@ Fundstelle
 :   RGBl: 1877, 77
 
 Zuletzt geändert durch
-:   Art. 3 G v. 25.6.2021 I 2099
+:   Art. 2 G v. 8.12.2025 I Nr. 318
 
 
 ## Erster Abschnitt - Allgemeine Vorschriften
@@ -124,8 +124,8 @@ werden.
 
 ### § 10
 
-(1) Die allgemeinen sowie die in § 116 Abs. 1 Satz 2, §§ 124, 130 Abs.
-1 und § 181 Abs. 1 enthaltenen besonderen Vorschriften des
+(1) Die allgemeinen sowie die in § 116 Abs. 1 Satz 2, §§ 117, 124, 130
+Abs. 1 und § 181 Abs. 1 enthaltenen besonderen Vorschriften des
 Gerichtsverfassungsgesetzes finden auf die obersten Landesgerichte der
 ordentlichen Gerichtsbarkeit entsprechende Anwendung; ferner sind die
 Vorschriften der §§ 132, 138 des Gerichtsverfassungsgesetzes mit der
@@ -340,14 +340,19 @@ erforderlich ist für
 
 
     b)  um Straftaten gegen Vorschriften zum Schutz der Arbeitskraft oder zum
-        Schutz der Gesundheit von Arbeitnehmern handelt, oder
+        Schutz der Gesundheit von Arbeitnehmern handelt,
 
 
 
 
 
 9.  die Abwehr erheblicher Nachteile für Tiere und Pflanzen, Boden,
-    Wasser, Luft, Klima und Landschaft sowie das kulturelle Erbe.
+    Wasser, Luft, Klima und Landschaft sowie das kulturelle Erbe oder
+
+
+10. die Untersagung des Besitzes von Waffen oder Munition, deren Erwerb
+    nicht der Erlaubnis bedarf, sowie des Erwerbs solcher Waffen und
+    Munition.
 
 
 
@@ -1182,4 +1187,15 @@ Juli 2013 (BGBl. I S. 2586) weiter anzuwenden.
 
 § 169 Absatz 2 des Gerichtsverfassungsgesetzes findet keine Anwendung
 auf Verfahren, die am 18. April 2018 bereits anhängig sind.
+
+
+### § 44
+
+§ 23 Nummer 1 des Gerichtsverfassungsgesetzes ist auf Verfahren, die
+vor dem 1. Januar 2026 anhängig geworden sind, in der bis
+einschließlich 31. Dezember 2025 geltenden Fassung anzuwenden. § 23
+Nummer 2 Buchstabe e, § 71 Absatz 2 Nummer 7 bis 9, § 72a Absatz 1
+Nummer 8 sowie § 119a Absatz 1 Nummer 8 des
+Gerichtsverfassungsgesetzes finden keine Anwendung auf Verfahren, die
+vor dem 1. Januar 2026 anhängig geworden sind.
 

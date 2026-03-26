@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2014, 1383
 
 Zuletzt geändert durch
-:   Art. 3 V v. 12.5.2022 I 777
+:   Art. 9 G v. 3.2.2026 I Nr. 28
 
 [^F785641_01_BJNR138310014]:     Diese Verordnung dient der Umsetzung der Richtlinie 92/29/EWG des
     Rates vom 31. März 1992 über Mindestvorschriften für die Sicherheit
@@ -147,6 +147,15 @@ Inhabers des Seediensttauglichkeitszeugnisses auf dem Schiff zu
 verwahren und diesem bei Beendigung dessen Tätigkeit wieder
 auszuhändigen.
 
+(3) Jedes Besatzungsmitglied darf nur ein gültiges
+Seediensttauglichkeitszeugnis haben. Ist ein
+Seediensttauglichkeitszeugnis unbrauchbar geworden, verloren gegangen
+oder sonst abhandengekommen, hat der bisherige Inhaber den Verlust dem
+seeärztlichen Dienst unverzüglich anzuzeigen und glaubhaft zu machen.
+Auf Antrag stellt der seeärztliche Dienst eine Ersatzausfertigung aus.
+Ein unbrauchbar gewordenes oder wieder aufgefundenes Zeugnis ist dem
+seeärztlichen Dienst auszuhändigen.
+
 
 #### § 6 Einschränkungen der Seediensttauglichkeit
 
@@ -220,14 +229,11 @@ Widerspruchsführers nach der Reihenfolge der Liste hinzu.
 (3) Der Vorsitzende leitet das Verfahren des Widerspruchsausschusses.
 Er bestimmt den Termin zu einer mündlichen Verhandlung.
 
-(4) Der ärztliche Beisitzer darf die Untersuchung, auf deren Ergebnis
-die angefochtene Entscheidung beruht, nicht selbst vorgenommen haben.
-
-(5) Die Beisitzer aus der Berufsgruppe des Widerspruchsführers werden
+(4) Die Beisitzer aus der Berufsgruppe des Widerspruchsführers werden
 in entsprechender Anwendung des Justizvergütungs- und
 -entschädigungsgesetzes entschädigt.
 
-(6) Die Mitglieder des Widerspruchsausschusses sind zur
+(5) Die Mitglieder des Widerspruchsausschusses sind zur
 Verschwiegenheit über die in Ausübung des Amtes zur Kenntnis gelangten
 persönlichen Verhältnisse des Widerspruchsführers verpflichtet.
 
@@ -247,7 +253,8 @@ des Seearbeitsgesetzes liegen vor, wenn der Arzt
 
 3.  eine mindestens vierwöchige praktische Erfahrung auf einem Seeschiff
     und umfassende Kenntnisse der gesundheitlichen Anforderungen im
-    Schiffsdienst nachweist,
+    Schiffsdienst oder das Zertifikat der Bundesärztekammer über das
+    erfolgreiche Absolvieren des Curriculums „Maritime Medizin“ nachweist,
 
 
 4.  eine stationäre oder ambulante Tätigkeit über mindestens vier Jahre
@@ -322,10 +329,9 @@ Daten unverzüglich in das Seediensttauglichkeitsverzeichnis zu
 bleibt unberührt.
 
 (2) Auf Verlangen der untersuchten Person hat der zugelassene Arzt ihr
-nach Maßgabe des § 630g des Bürgerlichen Gesetzbuchs unverzüglich
-Einsicht in die sie betreffenden Untersuchungsunterlagen zu gewähren
-und Abschriften der Unterlagen gegen Erstattung der Kosten
-herauszugeben.
+nach Maßgabe des § 630g des Bürgerlichen Gesetzbuchs Einsicht in die
+sie betreffenden Untersuchungsunterlagen zu gewähren und Abschriften
+der Untersuchungsunterlagen herauszugeben.
 
 (3) Ärztliche Aufzeichnungen über Seediensttauglichkeitsuntersuchungen
 sind für die Dauer von zehn Jahren nach Abschluss der Untersuchungen
@@ -426,11 +432,19 @@ erforderliche Seediensttauglichkeit liegt vor, wenn er
 erfüllt.
 
 (2) Im Hinblick auf den Ausschluss einer Nachtblindheit muss die
-mesopische Sehschärfe mindestens die Kontrasteinstellung 1:2, für den
-Fall der Blendung die Kontrasteinstellung 1:2,7 erfüllen. Das
-Einhalten dieser Anforderung ist dem die
-Seediensttauglichkeitsuntersuchung vornehmenden Arzt durch die Vorlage
-einer Bescheinigung eines Augenarztes nachzuweisen.
+mesopische Sehschärfe mindestens die Kontrasteinstellung 1:5 ohne und
+mit Blendung erfüllen. Das Einhalten dieser Anforderung ist
+nachzuweisen durch Vorlage einer Bescheinigung
+
+1.  eines Augenarztes oder
+
+
+2.  eines nach § 9 zugelassenen Arztes, der eine Untersuchung der
+    Dämmerungssehschärfe zur Überprüfung des Ausschlusses einer
+    Nachtblindheit durchführen kann.
+
+
+
 
 (3) Abweichend von § 6 und der Anlage 1 Nummer 6.2 darf bei einem
 Kanalsteurer die Seediensttauglichkeit nur hinsichtlich der Dauer und
@@ -630,18 +644,15 @@ Berufsgenossenschaft folgende Nachweise erbringt:
     Anästhesiologie, Chirurgie oder Innere Medizin,
 
 
-3.  einen Nachweis der Zusatzbezeichnung „Notfallmedizin“ oder
-    Fachkundenachweis „Rettungsmedizin“,
+3.  einen Nachweis der Zusatzbezeichnung „Notfallmedizin“, Klinische Akut-
+    und Notfallmedizin oder Fachkundenachweis „Rettungsmedizin“,
 
 
 4.  einen Nachweis über mindestens vierwöchige praktische Erfahrungen auf
     einem Seeschiff und über umfassende Kenntnisse der gesundheitlichen
-    Anforderungen im Schiffsdienst,
-
-
-5.  einen Nachweis, dass er auf einem Kauffahrteischiff unter deutscher
-    Flagge als Schiffsarzt tätig werden wird oder tätig ist, insbesondere
-    einen Heuervertrag nach § 28 des Seearbeitsgesetzes.
+    Anforderungen im Schiffsdienst oder das Zertifikat der
+    Bundesärztekammer über das erfolgreiche Absolvieren des Curriculums
+    „Maritime Medizin“.
 
 
 
@@ -703,7 +714,8 @@ Die vorläufige Zulassung erlischt,
 
 ### Anlage 1 Anforderungen an die Seediensttauglichkeit
 
-(Fundstelle: BGBl. I 2014, 1389 - 1416)
+(Fundstelle: BGBl. I 2014, 1389 - 1416;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 ## Inhaltsübersicht
 
@@ -1642,15 +1654,8 @@ Die vorläufige Zulassung erlischt,
 
         *   Unvereinbar mit der zuverlässigen, sicheren und effektiven
             Durchführung von Routine- und Notfallaufgaben:
-
-            –   voraussichtlich vorüber-
-                gehend (T)
-
-
-            –   voraussichtlich dauerhaft (P)
-
-
-
+            — voraussichtlich vorübergehend (T)
+            – voraussichtlich dauerhaft (P)
 
         *   Kann einige, aber nicht alle Aufgaben oder Arbeiten in einigen, aber
             nicht in allen Gewässern wahrnehmen (R)
@@ -2088,8 +2093,8 @@ Die vorläufige Zulassung erlischt,
     *        *   F11–19
 
         *   **Drogenabhängigkeit/anhaltender Substanzmissbrauch**
-            schließt sowohl illegalen Drogenkonsum als auch Abhängigkeit von
-            verschriebenen Medikamenten ein
+            schließt sowohl Drogenkonsum als auch Abhängigkeit von verschriebenen
+            Medikamenten ein
             Verhaltensauffälligkeiten, fehlerhaftes Durchführen der
             Sicherheitsmaßnahmen, Sicherheitsverhalten
 
@@ -3374,7 +3379,7 @@ Die vorläufige Zulassung erlischt,
         *
         *
 
-    *        *[^F785641_02_BJNR138310014BJNE002400000]
+    *        *[^F785641_02_BJNR138310014BJNE002401119]
    O00–99
 
         *   **Schwangerschaft**
@@ -3382,17 +3387,12 @@ Die vorläufige Zulassung erlischt,
             Möglichkeit der Gefährdung von Mutter und Kind im Fall einer
             vorzeitigen Entbindung auf See
 
-        *   T – Endphase der Schwangerschaft und erste Zeit nach der Entbindung
-            Atypischer Verlauf einer Schwangerschaft, die eine hohe Kontrolldichte
-            erfordert
-
+        *
         *   R, L – Beurteilung des Einzelfalls bei leichten Einschränkungen. Es
             kann geprüft werden, ob in der Spätschwangerschaft ein Einsatz in
             küstennahen Gewässern möglich ist
 
-        *   Komplikationslose Schwangerschaft ohne weitere beeinträchtigende
-            Effekte – normalerweise bis zur 24. Woche
-
+        *
 
     *        *   **L00–99**
 
@@ -3779,12 +3779,13 @@ Die vorläufige Zulassung erlischt,
 
 
 
-    Entscheidungen müssen im Einklang mit der nationalen Praxis und
-    Gesetzgebung stehen (z. B. in Deutschland das Mutterschutzgesetz). Die
-    Schwangerschaft soll frühzeitig bekannt gegeben werden, sodass
-    nationale Empfehlungen hinsichtlich der vorgeburtlichen Versorgung und
-    Vorsorge wahrgenommen werden können.
-[^F785641_02_BJNR138310014BJNE002400000]: 
+[^F785641_02_BJNR138310014BJNE002401119]:     Nach dem Mutterschutzgesetz (MuSchG) dürfen Schwangere vor allem dann
+    nicht beschäftigt werden, wenn eine ärztliche Bescheinigung über ein
+    Beschäftigungsverbot vorliegt (§ 3 Absatz 1 MuSchG) oder bei Arbeiten,
+    bei denen die Schwangere schädlichen Einwirkungen (z. B.
+    gesundheitsgefährdende Stoffe, Erschütterungen, Lärm) ausgesetzt ist
+    (§ 4 MuSchG).
+
 (zu § 4 Absatz 1)
 
 ### Anlage 2 Durchführung der Seediensttauglichkeitsuntersuchungen
@@ -6541,7 +6542,8 @@ Verstauchungen und Zerrungen).
 
 ### Anlage 5 Anforderungen an Schulungsräume und medizinische Ausstattung zur Durchführung medizinischer Wiederholungslehrgänge
 
-(Fundstelle: BGBl. I 2014, 1430 - 1431)
+(Fundstelle: BGBl. I 2014, 1430 - 1431;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *   Inhalte
@@ -6623,7 +6625,8 @@ Verstauchungen und Zerrungen).
 
     *   X
 
-    *
+    *   X
+
 
 *    *
     *   Katheterisierungs-Simulator transurethrale Katheterisierung beim Mann
@@ -6830,7 +6833,7 @@ Verstauchungen und Zerrungen).
 
 *    *
     *
-    *   Einmal-Kunststoff-Katheter
+    *   Verweil-Katheter
 
     *   X
 
@@ -6923,11 +6926,12 @@ Verstauchungen und Zerrungen).
 
 *    *
     *
-    *   Wendl-Tubus
+    *   Tourniquet
 
     *   X
 
-    *
+    *   X
+
 
 *    *
     *

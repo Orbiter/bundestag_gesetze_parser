@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2021, 990
 
 Zuletzt geändert durch
-:   Art. 28 G v. 11.12.2023 I Nr. 354
-
-Änderung durch
-:   Art. 7 G v. 22.12.2023 I Nr. 411 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 45 G v. 4.2.2026 I Nr. 33
 
 
 ## Kapitel 1 - Allgemeine Vorschriften
@@ -110,13 +107,14 @@ erbringt.
         unter Einsatz des eigenen Kapitals (Market-Making),
 
 
-    b)  häufige organisierte und systematische Betreiben von Handel für eigene
-        Rechnung in erheblichem Umfang außerhalb eines organisierten Marktes
-        oder eines multilateralen oder organisierten Handelssystems, wenn
-        Kundenaufträge außerhalb eines geregelten Marktes oder eines
-        multilateralen oder organisierten Handelssystems ausgeführt werden,
-        ohne dass ein multilaterales Handelssystem betrieben wird
-        (systematische Internalisierung),
+    b)  häufige organisierte und systematische Betreiben von Handel mit
+        Aktien, Aktienzertifikaten, börsengehandelten Fonds, Zertifikaten und
+        anderen vergleichbaren Finanzinstrumenten für eigene Rechnung
+        außerhalb eines organisierten Marktes oder eines multilateralen oder
+        organisierten Handelssystems, wenn Kundenaufträge außerhalb eines
+        geregelten Marktes oder eines multilateralen oder organisierten
+        Handelssystems ausgeführt werden, ohne dass ein multilaterales
+        Handelssystem betrieben wird (systematische Internalisierung),
 
 
     c)  Anschaffen oder Veräußern von Finanzinstrumenten für eigene Rechnung
@@ -158,25 +156,15 @@ erbringt.
 
 
         auch ohne dass eine Dienstleistung für andere vorliegt
-        (Hochfrequenzhandel). Ob ein häufiger systematischer Handel im Sinne
-        der Nummer 10 Buchstabe b vorliegt, bemisst sich nach der Anzahl der
-        Geschäfte außerhalb eines Handelsplatzes im Sinne des § 2 Absatz 22
-        des Wertpapierhandelsgesetzes (OTC-Handel) mit einem Finanzinstrument
-        zur Ausführung von Kundenaufträgen, die für eigene Rechnung
-        durchgeführt werden. Ob ein Handel in erheblichem Umfang im Sinne der
-        Nummer 10 Buchstabe b vorliegt, bemisst sich entweder nach dem Anteil
-        des OTC-Handels an dem Gesamthandelsvolumen des Unternehmens in einem
-        bestimmten Finanzinstrument oder nach dem Verhältnis des OTC-Handels
-        des Unternehmens zum Gesamthandelsvolumen in einem bestimmten
-        Finanzinstrument in der Europäischen Union. Die Voraussetzungen der
-        systematischen Internalisierung sind erst dann erfüllt, wenn sowohl
-        die in den Artikeln 12 bis 17 der Delegierten Verordnung (EU) 2017/565
-        bestimmte Obergrenze für häufigen systematischen Handel als auch die
-        dort bestimmte einschlägige Obergrenze für den Handel in erheblichem
-        Umfang überschritten wird oder wenn ein Unternehmen sich freiwillig
-        den für die systematische Internalisierung geltenden Regelungen
-        unterworfen und einen entsprechenden Erlaubnisantrag bei der
-        Bundesanstalt gestellt hat.
+        (Hochfrequenzhandel). Die Voraussetzungen der systematischen
+        Internalisierung nach Satz 1 Nummer 10 Buchstabe b sind auch dann
+        erfüllt, wenn ein Unternehmen sich freiwillig den für die
+        systematische Internalisierung geltenden Regelungen unterworfen und
+        eine Erlaubnis zum Betreiben der systematischen Internalisierung bei
+        der Bundesanstalt beantragt hat. Dies gilt auch für die systematische
+        Internalisierung von Schuldverschreibungen, strukturierten
+        Finanzprodukten und Emissionszertifikaten sowie von den in Artikel 8a
+        Absatz 2 Satz 1 der Verordnung (EU) Nr. 600/2014 genannten Derivaten.
 
 
 
@@ -187,15 +175,15 @@ erbringt.
 (3) Wertpapiernebendienstleistungen im Sinne dieses Gesetzes sind
 
 1.  die Verwahrung und die Verwaltung von Finanzinstrumenten mit Ausnahme
-    von Rechnungseinheiten und Kryptowerten für andere, einschließlich
-    Depotverwahrung und verbundener Dienstleistungen wie Cash Management
-    oder die Verwaltung von Sicherheiten mit Ausnahme der Bereitstellung
-    und Führung von Wertpapierkonten auf oberster Ebene (zentrale
-    Kontenführung) gemäß Abschnitt A Nummer 2 des Anhangs zur Verordnung
-    (EU) Nr. 909/2014 des Europäischen Parlaments und des Rates vom 23.
-    Juli 2014 zur Verbesserung der Wertpapierlieferungen und -abrechnungen
-    in der Europäischen Union und über Zentralverwahrer sowie zur Änderung
-    der Richtlinien 98/26/EG und 2014/65/EU und der Verordnung (EU) Nr.
+    von Rechnungseinheiten für andere, einschließlich Depotverwahrung und
+    verbundener Dienstleistungen wie Cash Management oder die Verwaltung
+    von Sicherheiten mit Ausnahme der Bereitstellung und Führung von
+    Wertpapierkonten auf oberster Ebene (zentrale Kontenführung) gemäß
+    Abschnitt A Nummer 2 des Anhangs zur Verordnung (EU) Nr. 909/2014 des
+    Europäischen Parlaments und des Rates vom 23. Juli 2014 zur
+    Verbesserung der Wertpapierlieferungen und -abrechnungen in der
+    Europäischen Union und über Zentralverwahrer sowie zur Änderung der
+    Richtlinien 98/26/EG und 2014/65/EU und der Verordnung (EU) Nr.
     236/2012 (ABl. L 257 vom 28.8.2014, S. 1; L 349 vom 21.12.2016, S. 5),
     die zuletzt durch die Verordnung (EU) 2016/1033 (ABl. L 175 vom
     30\.6.2016, S. 1) geändert worden ist,
@@ -247,12 +235,63 @@ erbringt.
 
 1.  die Verwahrung und die Verwaltung von Wertpapieren ausschließlich für
     alternative Investmentfonds (AIF) im Sinne des § 1 Absatz 3 des
-    Kapitalanlagegesetzbuchs (eingeschränktes Verwahrgeschäft) und
+    Kapitalanlagegesetzbuchs (eingeschränktes Verwahrgeschäft),
 
 
 2.  die Vermittlung von Einlagengeschäften mit Unternehmen mit Sitz
     außerhalb des Europäischen Wirtschaftsraumes
-    (Drittstaateneinlagenvermittlung).
+    (Drittstaateneinlagenvermittlung),
+
+
+
+
+3.  die Verwahrung, Verwaltung und Sicherung kryptografischer Instrumente
+    oder die Sicherung privater kryptografischer Schlüssel für andere, die
+    dazu dienen, kryptografische Instrumente, Kryptowertpapiere im Sinne
+    des § 4 Absatz 3 des Gesetzes über elektronische Wertpapiere oder
+    Kryptofondsanteile im Sinne des § 1 Satz 2 der Verordnung über
+    Kryptofondsanteile, zu speichern oder darüber zu verfügen
+    (qualifiziertes Kryptoverwahrgeschäft) und
+
+
+
+
+4.  die Führung eines Kryptowertpapierregisters nach § 16 des Gesetzes
+    über elektronische Wertpapiere (Kryptowertpapierregisterführung).
+
+
+
+Kryptografische Instrumente im Sinne dieses Gesetzes sind digitale
+Darstellungen eines Wertes, der von keiner Zentralbank oder
+öffentlichen Stelle emittiert wurde oder garantiert wird und nicht den
+gesetzlichen Status einer Währung oder von Geld besitzt, aber von
+natürlichen oder juristischen Personen aufgrund einer Vereinbarung
+oder tatsächlichen Übung als Tausch- oder Zahlungsmittel akzeptiert
+wird oder Anlagezwecken dient und der auf elektronischem Wege
+übertragen, gespeichert und gehandelt werden kann. Keine
+kryptografischen Instrumente im Sinne dieses Gesetzes ist oder sind
+
+1.  E-Geld im Sinne des § 1 Absatz 2 Satz 3 des
+    Zahlungsdiensteaufsichtsgesetzes,
+
+
+2.  monetäre Werte, die die Vorgaben nach § 2 Absatz 1 Nummer 10 des
+    Zahlungsdiensteaufsichtsgesetzes erfüllen oder nur für
+    Zahlungsvorgänge im Sinne des § 2 Absatz 1 Nummer 11 des
+    Zahlungsdiensteaufsichtsgesetzes eingesetzt werden,
+
+
+3.  Kryptowerte im Sinne des Artikels 3 Absatz 1 Nummer 5 der Verordnung
+    (EU) 2023/1114 des Europäischen Parlaments und des Rates vom 31. Mai
+    2023 über Märkte für Kryptowerte und zur Änderung der Verordnungen
+    (EU) Nr. 1093/2010 und (EU) Nr. 1095/2010 sowie der Richtlinien
+    2013/36/EU und (EU) 2019/1937 (ABl. L 150 vom 9.6.2023, S. 40), die
+    durch die Verordnung (EU) 2023/2869 (ABl. L, 2023/2869, 20.12.2023)
+    geändert worden ist, im Anwendungsbereich der Verordnung (EU)
+    2023/1114,
+
+
+4.  Wertpapiere im Sinne des Depotgesetzes.
 
 
 
@@ -304,8 +343,7 @@ erbringt.
     werden dürfen (Emissionszertifikate),
 
 
-10. Kryptowerte im Sinne des § 1 Absatz 11 Satz 4 und 5 des
-    Kreditwesengesetzes sowie
+10. (weggefallen)
 
 
 11. für Schwarmfinanzierungszwecke nach Artikel 2 Absatz 1 Buchstabe n der
@@ -342,8 +380,14 @@ Ausnahme von Zahlungsinstrumenten.
 
 
     b)  Devisen, soweit das Geschäft nicht die Voraussetzungen des Artikels 10
-        der Delegierten Verordnung (EU) 2017/565 erfüllt, oder
-        Rechnungseinheiten,
+        der Delegierten Verordnung (EU) 2017/565 erfüllt, Rechnungseinheiten
+        oder Kryptowerte im Sinne des Artikels 3 Absatz 1 Nummer 5 der
+        Verordnung (EU) 2023/1114 des Europäischen Parlaments und des Rates
+        vom 31. Mai 2023 über Märkte für Kryptowerte und zur Änderung der
+        Verordnungen (EU) Nr. 1093/2010 und (EU) Nr. 1095/2010 sowie der
+        Richtlinien 2013/36/EU und (EU) 2019/1937 (ABl. L 150 vom 9.6.2023, S.
+        40), ohne Kryptowerte nach Artikel 4 Absatz 3 Buchstabe c der
+        Verordnung (EU) 2023/1114,
 
 
     c)  Zinssätze oder andere Erträge,
@@ -543,7 +587,7 @@ verpflichtet ist, die Verordnung (EU) 575/2013 anzuwenden.
 (20) Aufnahmevertragsstaat eines Wertpapierinstituts ist der
 Vertragsstaat, in dem das Wertpapierinstitut eine Zweigniederlassung
 unterhält oder Wertpapierdienstleistungen im Wege des
-grenzüberschreitenden Dienstleistungsverkehrs erbringt;
+grenzüberschreitenden Dienstleistungsverkehrs erbringt.
 
 (21) Systemrisiko im Sinne dieses Gesetzes ist das Risiko einer
 Störung des Finanzsystems mit möglicherweise schwerwiegenden negativen
@@ -1002,14 +1046,26 @@ Investmentholdinggesellschaften und gemischte
 Finanzholdinggesellschaften nach den Vorschriften dieses Gesetzes, den
 dazu erlassenen Rechtsverordnungen, der Verordnung (EU) 2019/2033 und
 der auf der Grundlage der Verordnung (EU) 2019/2033 und der Richtlinie
-(EU) 2019/2034 erlassenen Rechtsakte aus. Die Bundesanstalt ist die
-zuständige Behörde gemäß Artikel 4 Absatz 1 Satz 1 der Richtlinie (EU)
-2019/2034. Die Bundesanstalt hat Missständen im Wertpapierwesen
+(EU) 2019/2034 erlassenen Rechtsakte sowie der Verordnung (EU)
+2022/2554 des Europäischen Parlaments und des Rates vom 14. Dezember
+2022 über die digitale operationale Resilienz im Finanzsektor und zur
+Änderung der Verordnung (EG) Nr. 1060/2009, (EU) Nr. 648/2012, (EU)
+Nr. 600/2014, (EU) Nr. 909/2014 und (EU) 2016/1011 (ABl. L 333 vom
+27\.12.2022, S. 1) in der jeweils geltenden Fassung und der auf der
+Grundlage der Verordnung (EU) 2022/2554 erlassenen Rechtsakte aus. Die
+Bundesanstalt ist die zuständige Behörde gemäß Artikel 4 Absatz 1 Satz
+1 der Richtlinie (EU) 2019/2034 und nach Artikel 46 der Verordnung
+(EU) 2022/2554. Die Bundesanstalt hat Missständen im Wertpapierwesen
 entgegenzuwirken, welche die Sicherheit der anvertrauten
 Vermögenswerte gefährden, die ordnungsmäßige Durchführung der
 erbrachten Wertpapierdienstleistungen, Wertpapiernebendienstleistungen
 oder Nebengeschäfte beeinträchtigen oder erhebliche Nachteile für die
-Gesamtwirtschaft herbeiführen könnten.
+Gesamtwirtschaft herbeiführen könnten. Die Bundesanstalt und die
+Deutsche Bundesbank arbeiten bei der Durchführung der Aufgaben nach
+den Artikeln 26 und 27 der Verordnung (EU) 2022/2554 zusammen. Die
+Deutsche Bundesbank nimmt die operativen Aufgaben nach den Artikeln 26
+und 27 der Verordnung (EU) 2022/2554 wahr. § 7 Absatz 3 und 4 des
+Kreditwesengesetzes gilt entsprechend.
 
 (2) Die Bundesanstalt kann im Rahmen der ihr gesetzlich zugewiesenen
 Aufgaben gegenüber Wertpapierinstituten und anderen betroffenen
@@ -1129,20 +1185,59 @@ Sitzung das Wort ergreifen. Die Betroffenen haben Handlungen nach den
 Sätzen 1 und 2 zu dulden.
 
 
+#### § 5a Besondere Befugnisse nach der Verordnung (EU) 2022/2554
+
+(1) Die Bundesanstalt kann bei Verstößen gegen die Verordnung (EU)
+2022/2554 unbeschadet sonstiger in diesem Gesetz geregelter Befugnisse
+im Einzelfall Anordnungen treffen, die geeignet und erforderlich sind,
+um die Einhaltung der Vorgaben der Verordnung (EU) 2022/2554
+sicherzustellen. Insbesondere kann sie gegenüber einem Institut
+anordnen,
+
+1.  das gegen diese Verordnung verstoßende Verhalten zu unterlassen und
+    von einer Wiederholung abzusehen,
+
+
+2.  Praktiken oder Verhaltensweisen, die den Bestimmungen der Verordnung
+    zuwiderlaufen, vorübergehend oder dauerhaft einzustellen und nicht zu
+    wiederholen,
+
+
+3.  sicherzustellen, dass weiterhin die rechtlichen Vorgaben erfüllt
+    werden, und
+
+
+4.  Korrektur- und Abhilfemaßnahmen vorzunehmen.
+
+
+
+
+(2) Die Bundesanstalt und die Deutsche Bundesbank können
+Untersuchungen über die Einhaltung der Vorgaben der Verordnung (EU)
+2022/2554 im Anwendungsbereich dieses Gesetzes vornehmen. Unbeschadet
+sonstiger in diesem Gesetz geregelter Befugnisse kann die
+Bundesanstalt zu diesem Zweck Mitglieder der Organe eines Instituts zu
+einer Befragung vorladen, damit diese mündliche oder schriftliche
+Erklärungen zu Sachverhalten oder Unterlagen abgeben, die mit
+Gegenstand und Zweck der Untersuchung in Zusammenhang stehen, und die
+mündlichen Erklärungen aufzeichnen. § 5 Absatz 6 gilt entsprechend.
+Die Bundesanstalt kann die Durchführung der Befragung auf die Deutsche
+Bundesbank übertragen.
+
+
 #### § 6 Sofortige Vollziehbarkeit
 
 Widerspruch und Anfechtungsklage gegen Maßnahmen der Bundesanstalt
 einschließlich der Androhung und Festsetzung von Zwangsmitteln auf der
-Grundlage des § 5 Absatz 2 bis 7, des § 7 Absatz 1 Satz 2 und Absatz
-3, des § 10 Absatz 2, 4 und 6, des § 18 Absatz 2 Nummer 2, 3 und
-Absatz 3, des § 19 Absatz 2, des § 20 Absatz 6, der §§ 22, 23, 25 und
-26 Absatz 1 und 2, des § 27 Absatz 3, des § 33 Absatz 3 Satz 2, Absatz
-4 und 5 Satz 2, § 39 Absatz 3, des § 40 Absatz 3, des § 43 Absatz 3
-Satz 2, des § 48 Absatz 2 bis 5, der §§ 49, 51, 54, 56 Absatz 2, der
-§§ 60 und 62 Absatz 2, der §§ 63 und 70 Absatz 4, des § 71 Absatz 3,
-des § 77 Absatz 1 Satz 2, 4 und 5, des § 79 Absatz 1 und 2, des § 80
-Absatz 1 und 2 sowie des § 81 Absatz 2 haben keine aufschiebende
-Wirkung.
+Grundlage des § 5 Absatz 2 bis 7, des § 5a, des § 7 Absatz 1 Satz 2
+und Absatz 3, des § 10 Absatz 2, 4 und 6, des § 18 Absatz 2 Nummer 2,
+3 und Absatz 3, des § 19 Absatz 2, des § 20 Absatz 6, der §§ 22, 23,
+25 und 26 Absatz 1 und 2, des § 27 Absatz 3, des § 33 Absatz 3 Satz 2,
+Absatz 4 und 5 Satz 2, § 39 Absatz 3, des § 40 Absatz 3, des § 43
+Absatz 3 Satz 2, des § 48 Absatz 2 bis 5, der §§ 49, 51, 54, 56 Absatz
+2, der §§ 60 und 62 Absatz 2, der §§ 63 und 70 Absatz 4, des § 77
+Absatz 1 Satz 2, 4 und 5, des § 79 Absatz 1 und 2, des § 80 Absatz 1
+und 2 sowie des § 81 Absatz 2 haben keine aufschiebende Wirkung.
 
 
 #### § 7 Grenzüberschreitende Auskünfte und Prüfungen
@@ -1502,15 +1597,16 @@ geändert worden ist, Verwaltungsvereinbarungen über den
 Informationsaustausch mit den zuständigen Behörden aus Drittstaaten
 abschließen, die für die nachstehenden Aufgaben zuständig sind:
 
-1.  die Beaufsichtigung von Wertpapierinstituten und Finanzmärkten,
-    einschließlich der Beaufsichtigung von Finanzunternehmen, die für die
-    Tätigkeit als zentrale Gegenparteien zugelassen sind, sofern die
-    zentralen Gegenparteien nach Artikel 25 der Verordnung (EU) Nr.
-    648/2012 des Europäischen Parlaments und des Rates vom 4. Juli 2012
-    über OTC-Derivate, zentrale Gegenparteien und Transaktionsregister
-    (ABl. L 201 vom 27.7.2012, S. 1; L 321 vom 30.11.2013, S. 6), die
-    zuletzt durch die Verordnung (EU) 2019/2099 (ABl. L 322 vom
-    12\.12.2019, S. 1) geändert worden ist, anerkannt wurden,
+1.  die Beaufsichtigung von Wertpapierinstituten, Finanzinstituten und
+    Finanzmärkten, einschließlich der Beaufsichtigung von
+    Finanzunternehmen, die für die Tätigkeit als zentrale Gegenparteien
+    zugelassen sind, sofern die zentralen Gegenparteien nach Artikel 25
+    der Verordnung (EU) Nr. 648/2012 des Europäischen Parlaments und des
+    Rates vom 4. Juli 2012 über OTC-Derivate, zentrale Gegenparteien und
+    Transaktionsregister (ABl. L 201 vom 27.7.2012, S. 1; L 321 vom
+    30\.11.2013, S. 6), die zuletzt durch die Verordnung (EU) 2019/2099
+    (ABl. L 322 vom 12.12.2019, S. 1) geändert worden ist, anerkannt
+    wurden,
 
 
 2.  Abwicklungen, Insolvenzverfahren und ähnliche Verfahren bei
@@ -1522,12 +1618,13 @@ abschließen, die für die nachstehenden Aufgaben zuständig sind:
     Stellen,
 
 
-4.  die Durchführung von Pflichtprüfungen bei Wertpapierinstituten oder
-    Einrichtungen, die Sicherungssysteme verwalten,
+4.  die Durchführung von Pflichtprüfungen bei Wertpapierinstituten,
+    Finanzinstituten oder Einrichtungen, die Sicherungssysteme verwalten,
 
 
 5.  die Beaufsichtigung der Personen, die die Pflichtprüfung der
-    Rechnungslegungsunterlagen von Wertpapierinstituten vornehmen,
+    Rechnungslegungsunterlagen von Wertpapierinstituten oder
+    Finanzinstituten vornehmen,
 
 
 6.  die Beaufsichtigung der an den Märkten für Emissionszertifikate
@@ -1996,6 +2093,15 @@ Seite des Registers gestattet werden. Wird der schreibende Zugriff
 gestattet, ist das Unternehmen für die Richtigkeit und Aktualität der
 Seite verantwortlich.
 
+(5a) Ein Unternehmen mit Sitz in einem Drittstaat bedarf für das
+Betreiben des Eigenhandels im Sinne des § 2 Absatz 2 Nummer 10
+Buchstabe a keiner schriftlichen Erlaubnis nach Absatz 1, wenn es den
+Eigenhandel als Mitglied einer Börse oder als Teilnehmer eines
+Handelsplatzes betreibt; dies gilt bis zu einer Entscheidung der
+Europäischen Wertpapier- und Marktaufsichtsbehörde über eine
+Eintragung des Unternehmens in das Register nach Artikel 48 der
+Verordnung (EU) Nr. 600/2014.
+
 (6) Einer Erlaubnis der Bundesanstalt bedarf es auch, wenn ein
 Wertpapierinstitut, dem eine Erlaubnis nach Absatz 1 erteilt wurde,
 eigene Finanzinstrumente vertreibt, soweit dies nicht als Erbringen
@@ -2003,7 +2109,7 @@ einer Wertpapierdienstleistung oder als Betreiben des Eigengeschäfts
 nach Absatz 3 unter Erlaubnisvorbehalt steht. Absatz 1 erster Halbsatz
 gilt entsprechend.
 
-(7) Eine Erlaubnis nach Absatz 1, Absatz 4 oder Absatz 5 kann nicht
+(7) Eine Erlaubnis nach Absatz 1, Absatz 3 oder Absatz 4 kann nicht
 mit einer Erlaubnis nach § 32 des Kreditwesengesetzes, nach § 10
 Absatz 1 oder § 11 Absatz 1 des Zahlungsdiensteaufsichtsgesetzes, nach
 § 8 des Versicherungsaufsichtsgesetzes oder nach § 20 des
@@ -2011,6 +2117,11 @@ Kapitalanlagegesetzbuchs oder mit einer Registrierung nach § 34 Absatz
 1 des Zahlungsdiensteaufsichtsgesetzes verbunden werden. Für
 Wertpapierinstitute tritt die Pflicht der Erlaubnis nach § 32 des
 Kreditwesengesetzes hinter die Erlaubnis nach diesem Gesetz zurück.
+Abweichend von Satz 1 kann eine Erlaubnis nach Absatz 1 mit einer
+Erlaubnis nach § 11 des Zahlungsdiensteaufsichtsgesetzes verbunden
+werden, wenn es dem Wertpapierinstitut nach Artikel 60 Absatz 3 der
+Verordnung (EU) 2023/1114 gestattet ist, Kryptowerte-Dienstleistungen
+anzubieten.
 
 (8) Eine Erlaubnis kann mit Auflagen versehen werden, die sich im
 Rahmen des mit diesem Gesetz verfolgten Zwecks halten müssen.
@@ -2102,8 +2213,9 @@ Ermächtigung durch Rechtsverordnung auf die Bundesanstalt übertragen.
 
 
     c)  das eine Erlaubnis für die Verwahrung und Verwaltung im Sinne des § 2
-        Absatz 3 Nummer 1, das Wertpapierkreditgeschäft, das eingeschränkte
-        Verwahrgeschäft oder das Eigengeschäft nach § 15 Absatz 4 beantragt,
+        Absatz 3 Nummer 1, das Wertpapierkreditgeschäft im Sinne des § 2
+        Absatz 3 Nummer 2, das eingeschränkte Verwahrgeschäft im Sinne des § 2
+        Absatz 4 Nummer 1 oder das Eigengeschäft nach § 15 Absatz 4 beantragt,
 
 
 
@@ -2340,12 +2452,12 @@ des Verwaltungsverfahrensgesetzes aufheben, wenn
 
 4.  das Wertpapierinstitut schwerwiegend, wiederholt oder systematisch
     gegen Bestimmungen dieses Gesetzes, des Geldwäschegesetzes, des
-    Wertpapierhandelsgesetzes, der Verordnung (EU)
-    2015/847                    des Europäischen Parlaments und des Rates
-    vom 20. Mai 2015 über die Übermittlung von Angaben bei Geldtransfers
-    und zur Aufhebung der Verordnung (EU) Nr. 1781/2006 (ABl. L 141 vom
-    5\.6.2015, S. 1), die zuletzt durch die Verordnung (EU) 2019/2175 (ABl.
-    L 334 vom 27.12.2019, S. 1) geändert worden ist, oder die zur
+    Wertpapierhandelsgesetzes, der Verordnung (EU) 2023/1113 des
+    Europäischen Parlaments und des Rates vom 31. Mai 2023 über die
+    Übermittlung von Angaben bei Geldtransfers und Transfers bestimmter
+    Kryptowerte und zur Änderung der Richtlinie (EU) 2015/849 (ABl. L 150
+    vom 9.6.2023, S. 1), die zuletzt durch die Verordnung (EU) 2019/2175
+    (ABl. L 334 vom 27.12.2019, S. 1) geändert worden ist, oder die zur
     Durchführung dieser Gesetze erlassenen Verordnungen oder vollziehbaren
     Anordnungen verstoßen hat;
 
@@ -2535,7 +2647,7 @@ Bundesanstalt, statt die Erlaubnis aufzuheben,
 
 
 (2) Im Falle eines Verstoßes gegen Vorschriften des Kapitels 4 dieses
-Gesetzes oder die Verordnung (EU) 2015/847 kann die Bundesanstalt dem
+Gesetzes oder die Verordnung (EU) 2023/1113 kann die Bundesanstalt dem
 verantwortlichen Geschäftsleiter eines Wertpapierinstituts die
 Aufnahme und Ausübung einer Tätigkeit bei Verpflichteten nach § 2
 Absatz 1 des Geldwäschegesetzes untersagen.
@@ -2655,7 +2767,7 @@ die Aufnahme und Ausübung einer Tätigkeit als Geschäftsleiter bei
 einem Wertpapierinstitut in der Rechtsform einer juristischen Person
 dauerhaft untersagen. § 22 Absatz 1 und 4 bleibt unberührt. Im Falle
 eines Verstoßes gegen die §§ 25i, 25k oder 25m des Kreditwesengesetzes
-oder gegen die Verordnung (EU) 2015/847 kann die Bundesanstalt auch
+oder gegen die Verordnung (EU) 2023/1113 kann die Bundesanstalt auch
 einer für den Verstoß verantwortlichen natürlichen Person, die zum
 Zeitpunkt des Verstoßes nicht Geschäftsleiter war, vorübergehend für
 einen Zeitraum von bis zu zwei Jahren die Aufnahme und Ausübung einer
@@ -3230,7 +3342,7 @@ Einem Wertpapierinstitut sind verboten:
 
 (1) Abschnitt 1 dieses Kapitels findet mit Ausnahme der §§ 38, 40, 41
 Nummer 1 bis 3, von § 43 Absatz 1, § 45 Absatz 1 Satz 1, 2 und 3
-Nummer 1 und 4 auf Kleine Wertpapierinstitute keine Anwendung.
+Nummer 1, 3 und 4 auf Kleine Wertpapierinstitute keine Anwendung.
 
 (2) War ein Kleines Wertpapierinstitut zuvor als Mittleres
 Wertpapierinstitut eingestuft, kommen die ausschließlich für Mittlere
@@ -4888,6 +5000,28 @@ Investmentholdinggesellschaft oder gemischte Finanzholdinggesellschaft
 anwenden.
 
 
+### Abschnitt 6 - Besondere Vorgaben bei qualifizierter Kryptoverwahrung
+
+
+#### § 69a Vermögenstrennung
+
+(1) Ein Institut, das das qualifizierte Kryptoverwahrgeschäft
+betreibt, hat sicherzustellen, dass die kryptografischen Instrumente
+und privaten kryptographischen Schlüssel der Kunden getrennt von den
+kryptografischen Instrumenten und privaten kryptographischen
+Schlüsseln des Instituts verwahrt werden. Werden kryptografische
+Instrumente mehrerer Kunden gebündelt verwahrt (gemeinschaftliche
+Verwahrung), so ist sicherzustellen, dass sich die den einzelnen
+Kunden zustehenden Anteile am gemeinschaftlich verwahrten
+Gesamtbestand jederzeit bestimmen lassen.
+
+(2) Das Institut hat sicherzustellen, dass über die verwahrten
+kryptografischen Instrumente und privaten kryptographischen Schlüssel
+des Kunden ohne dessen ausdrückliche Einwilligung nicht für eigene
+Rechnung des Instituts oder für Rechnung einer anderen Person verfügt
+werden kann.
+
+
 ## Kapitel 6 - Europäischer Pass, Zweigniederlassung und grenzüberschreitender Dienstleistungsverkehr
 
 
@@ -5011,18 +5145,11 @@ mindestens einer Wertpapierdienstleistung angezeigt werden. Nähere
 Bestimmungen ergeben sich aus der Delegierten Verordnung (EU)
 2017/1018 und der Durchführungsverordnung (EU) 2017/2382.
 
-(3) Hat die Bundesanstalt keine Anhaltspunkte, die Zweifel an der
-Angemessenheit der Organisationsstruktur und der Finanzlage des
-Wertpapierinstituts begründen, übermittelt sie die Angaben nach Absatz
-1 innerhalb eines Monats nach Eingang der Anzeige der zuständigen
-Stelle des Aufnahmevertragsstaates. Das Wertpapierinstitut hat die
-Unterrichtung der zuständigen Stelle des Aufnahmemitgliedstaates
-innerhalb dieser Frist abzuwarten, bevor es seine Tätigkeit in dem
-Aufnahmevertragsstaat aufnimmt. Leitet die Bundesanstalt die Angaben
-nach Absatz 1 nicht an die zuständigen Stellen des
-Aufnahmevertragsstaates weiter, teilt die Bundesanstalt dem
-Wertpapierinstitut innerhalb von einem Monat nach Eingang sämtlicher
-Angaben nach Absatz 1 die Gründe dafür mit.
+(3) Die Bundesanstalt leitet diese Angaben innerhalb eines Monats nach
+Erhalt an die zuständige Stelle des Aufnahmevertragsstaates weiter.
+Das Wertpapierinstitut kann dann im Aufnahmemitgliedstaat die
+betreffenden Wertpapierdienstleistungen und Anlagetätigkeiten
+erbringen.
 
 (4) Beabsichtigt der Betreiber eines multilateralen oder organisierten
 Handelssystems, Handelsteilnehmern in anderen Staaten einen
@@ -5271,7 +5398,7 @@ Anzeigepflichten und Anforderungen erfüllt hat:
     den Artikeln 54 und 55 der Verordnung (EU) 2019/2033,
 
 
-2.  die Anforderungen der §§ 38 bis 46, soweit diese auf das
+2.  die Anforderungen der §§ 38 bis 46 und 69a, soweit diese auf das
     Wertpapierinstitut anwendbar sind,
 
 
@@ -5311,14 +5438,30 @@ Anzeigepflichten und Anforderungen erfüllt hat:
 
 
     f)  den Artikeln 5 bis 9, 18 bis 26, 27 Absatz 1 und 4 sowie nach Artikel
-        43 Absatz 5 und 6 der Verordnung (EU) 2017/2402 und
+        43 Absatz 5 und 6 der Verordnung (EU) 2017/2402,
 
 
     g)  den Artikeln 3 bis 11 der Verordnung (EU) 2022/858 des Europäischen
         Parlaments und des Rates vom 30. Mai 2022 über eine Pilotregelung für
         auf Distributed-Ledger-Technologie basierende Marktinfrastrukturen und
         zur Änderung der Verordnungen (EU) Nr. 600/2014 und (EU) Nr. 909/2014
-        sowie der Richtlinie 2014/65/EU (ABl. L 151 vom 2.6.2022, S. 1).
+        sowie der Richtlinie 2014/65/EU (ABl. L 151 vom 2.6.2022, S. 1),
+
+
+
+
+    h)  den Artikeln 5 bis 14, 16 bis 19, 23 bis 25, 28 bis 30 und 45 Absatz 3
+        der Verordnung (EU) 2022/2554, auch in Verbindung mit einer
+        delegierten Verordnung nach den Artikeln 15, 16, 20, 28 oder Artikel
+        30 der Verordnung (EU) 2022/2554,
+
+
+
+
+    i)  § 5 Absatz 1 und 2 sowie den §§ 7 bis 11 und 16 bis 22 des Gesetzes
+        über elektronische Wertpapiere, auch in Verbindung mit einer
+        Rechtsverordnung nach § 23 des Gesetzes über elektronische
+        Wertpapiere.
 
 
 
@@ -5476,7 +5619,9 @@ Erlaubnis nach § 15 Absatz 4 Satz 1.
 sind auf Verlangen der Bundesanstalt zusätzlich in englischer Sprache
 vorzulegen. Die Bundesanstalt kann gestatten, dass die Unterlagen oder
 Teile davon ausschließlich in englischer Sprache erstellt und
-vorgelegt werden.
+vorgelegt werden. Sofern die Bundesanstalt eine Vorlage in beiden
+Sprachen verlangt, ist allein die deutschsprachige Fassung rechtlich
+maßgeblich.
 
 (2) Anträge nach der Verordnung (EU) 2022/858 sind der Bundesanstalt
 elektronisch zu übermitteln. Datenformat und Übermittlungsweg sind von
@@ -5640,6 +5785,31 @@ Wertpapierinstitut eingegangen ist und deren Erstattung die
 Bundesanstalt nach Absatz 2 Satz 2 angeordnet hat.
 
 
+### § 81a Zuordnung verwahrter kryptografischer Instrumente; Kosten der Aussonderung
+
+(1) Das im Rahmen eines qualifizierten Kryptoverwahrgeschäfts für
+einen Kunden verwahrte kryptografische Instrument gilt als dem Kunden
+gehörig. Das gilt nicht, wenn der Kunde die Einwilligung zu
+Verfügungen über den verwahrten Wert für Rechnung des Instituts oder
+Dritter erteilt hat.
+
+(2) Absatz 1 gilt im Rahmen eines qualifizierten
+Kryptoverwahrgeschäfts entsprechend für den dem Kunden zustehenden
+Anteil an kryptografischen Instrumenten in gemeinschaftlicher
+Verwahrung sowie für isoliert verwahrte private kryptographische
+Schlüssel.
+
+(3) Stimmt der Kunde im Insolvenzverfahren über das Vermögen des
+Instituts einer Aussonderung im Wege der Übertragung des vom Institut
+verwahrten Gesamtbestands auf ein vom Insolvenzverwalter bestimmtes
+Institut, welches das qualifizierte Kryptoverwahrgeschäft betreibt,
+nicht zu, trägt er die Kosten der Aussonderung. Dies gilt nicht, wenn
+die Bedingungen, zu denen das andere Institut eine Fortführung des
+Verwahrverhältnisses anbietet, für den Kunden unzumutbar sind. Die
+Sätze 1 und 2 sind auf die Übertragung wesentlicher Teile des
+verwahrten Gesamtbestands entsprechend anzuwenden.
+
+
 ## Kapitel 9 - Straf- und Bußgeldvorschriften, öffentliche Bekanntmachung und Mitteilungen in Strafsachen
 
 
@@ -5781,6 +5951,15 @@ er
 
 
 
+
+(4a) Zuwiderhandlungen gegen die Verordnung (EU) 2022/2554 des
+Europäischen Parlaments und des Rates vom 14. Dezember 2022 über die
+digitale operationale Resilienz im Finanzsektor und zur Änderung der
+Verordnungen (EG) Nr. 1060/2009, (EU) Nr. 648/2012, (EU) Nr. 600/2014,
+(EU) Nr. 909/2014 und (EU) 2016/1011 (ABl. L 333 vom 27.12.2022, S. 1)
+durch Personen im Anwendungsbereich dieses Gesetzes können nach § 56
+Absatz 5e und 6 Nummer 1 und 2 des Kreditwesengesetzes geahndet
+werden.
 
 (5) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer 3
 bis 5 Buchstabe a, Nummer 6, 8 und 9 und der Absätze 2 und 4 mit einer
@@ -5940,6 +6119,55 @@ Verwaltungssanktionen und -maßnahmen sowie über alle gegen diese
 Sanktionen und Maßnahmen eingelegten Rechtsmittel und deren Ausgang.
 
 
+### § 84a Bekanntmachung von Maßnahmen und Sanktionen wegen Verstößen gegen die Verordnung (EU) 2022/2554
+
+(1) Die Bundesanstalt macht Entscheidungen über bestandskräftige
+Maßnahmen und unanfechtbar gewordene Bußgeldentscheidungen, die wegen
+Verstößen gegen die Verordnung (EU) 2022/2554 oder die jeweils darauf
+basierenden delegierten Rechtsakte erlassen wurden, auf ihrer
+Internetseite unverzüglich bekannt.
+
+(2) In der Bekanntmachung benennt die Bundesanstalt die Vorschrift,
+gegen die verstoßen wurde, und die für den Verstoß verantwortliche
+natürliche oder juristische Person oder Personenvereinigung.
+
+(3) Ist die Bekanntmachung der Identität einer von der Entscheidung
+betroffenen juristischen Person oder der personenbezogenen Daten einer
+natürlichen Person unverhältnismäßig oder würde die Bekanntmachung
+laufende Ermittlungen oder die Stabilität der Finanzmärkte gefährden,
+so
+
+1.  schiebt die Bundesanstalt die Bekanntmachung der Entscheidung auf, bis
+    die Gründe für das Aufschieben weggefallen sind,
+
+
+2.  macht die Bundesanstalt die Entscheidung ohne Nennung der Identität
+    oder der personenbezogenen Daten bekannt, wenn hierdurch ein wirksamer
+    Schutz der Identität oder der betreffenden personenbezogenen Daten
+    gewährleistet ist, oder
+
+
+3.  macht die Bundesanstalt die Entscheidung nicht bekannt, wenn eine
+    Bekanntmachung nach den Nummern 1 und 2 nicht ausreichend wäre, um
+    sicherzustellen, dass
+
+    a)  die Stabilität der Finanzmärkte nicht gefährdet wird oder
+
+
+    b)  die Verhältnismäßigkeit der Bekanntmachung gewahrt bleibt.
+
+
+
+
+
+
+
+(4) Eine Bekanntmachung nach Absatz 1 ist spätestens fünf Jahre nach
+ihrer Bekanntmachung zu löschen. Abweichend von Satz 1 sind
+personenbezogene Daten zu löschen, sobald ihre Bekanntmachung nicht
+mehr erforderlich ist.
+
+
 ### § 85 Beteiligung der Bundesanstalt und Mitteilungen in Strafsachen
 
 (1) Das Gericht, die Strafverfolgungs- oder die
@@ -6034,4 +6262,11 @@ Wertpapiernebendienstleistung nach § 2 Absatz 3 Nummer 1 unter den in
 § 15 Absatz 2 genannten Voraussetzungen ab diesem Zeitpunkt als
 erteilt. Die bisherige Erlaubnis nach § 32 des Kreditwesengesetzes für
 das Depotgeschäft wird zugleich gegenstandslos.
+
+
+### § 87 Übergangsvorschrift zum Finanzmarktdigitalisierungsgesetz
+
+§ 78 Absatz 1 Satz 3 Nummer 5 ist erstmals anzuwenden auf
+Rechnungslegungsunterlagen für ein nach dem 31. Dezember 2024
+beginnendes Geschäftsjahr.
 

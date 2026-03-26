@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2004, 3675
 
 Zuletzt geändert durch
-:   Art. 8 G v. 19.6.2023 I Nr. 154
+:   Art. 20 G v. 23.10.2024 I Nr. 323
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
@@ -267,7 +267,7 @@ Eintragung und Bekanntmachung der SE im neuen Sitzstaat tritt.
 (1) Verlegt eine SE nach Maßgabe von Artikel 8 der Verordnung ihren
 Sitz, ist den Gläubigern der Gesellschaft, wenn sie binnen zwei
 Monaten nach dem Tag, an dem der Verlegungsplan offen gelegt worden
-ist, ihren Anspruch nach Grund und Höhe schriftlich anmelden,
+ist, ihren Anspruch nach Grund und Höhe in Textform anmelden,
 Sicherheit zu leisten, soweit sie nicht Befriedigung verlangen können.
 Dieses Recht steht den Gläubigern jedoch nur zu, wenn sie glaubhaft
 machen, dass durch die Sitzverlegung die Erfüllung ihrer Forderungen
@@ -498,17 +498,17 @@ mehr als 3 Millionen Euro hat der Verwaltungsrat jedoch aus mindestens
 drei Personen zu bestehen. Die Höchstzahl der Mitglieder des
 Verwaltungsrats beträgt bei Gesellschaften mit einem Grundkapital
 
-*    *   bis zu 1.500.000 Euro
+*    *   bis zu 1 500 000 Euro
 
     *   neun,
 
 
-*    *   von mehr als 1.500.000 Euro
+*    *   von mehr als 1 500 000 Euro
 
     *   fünfzehn,
 
 
-*    *   von mehr als 10.000.000 Euro
+*    *   von mehr als 10 000 000 Euro
 
     *   einundzwanzig.
 

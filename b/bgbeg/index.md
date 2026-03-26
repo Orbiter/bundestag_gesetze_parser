@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 21.9.1994 I 2494; 1997, 1061;
 
 Zuletzt geändert durch
-:   Art. 3 G v. 11.12.2023 I Nr. 354
+:   Art. 3 G v. 3.2.2026 I Nr. 28
 
 
 ## Erster Teil - Allgemeine Vorschriften
@@ -193,6 +193,21 @@ wird. Die einmal erlangte Geschäftsfähigkeit wird durch einen Wechsel
 des gewöhnlichen Aufenthalts nicht beeinträchtigt.
 
 
+###### Art 7a - Geschlechtszugehörigkeit
+
+(1) Die Geschlechtszugehörigkeit einer Person unterliegt dem Recht des
+Staates, dem die Person angehört.
+
+(2) Eine Person mit gewöhnlichem Aufenthalt im Inland kann für die
+Änderung der Geschlechtszugehörigkeit deutsches Recht wählen. Gleiches
+gilt für einen Namenswechsel unter den Voraussetzungen oder im
+Zusammenhang mit der Änderung der Geschlechtszugehörigkeit.
+
+(3) Erklärungen zur Wahl nach Absatz 2 müssen öffentlich beglaubigt
+werden; sie können auch von den Standesbeamten beglaubigt oder
+beurkundet werden.
+
+
 ###### Art 8 - Gewillkürte Stellvertretung
 
 (1) Auf die gewillkürte Stellvertretung ist das vom Vollmachtgeber vor
@@ -263,30 +278,27 @@ Interesse besteht.
 
 ###### Art 10 - Name
 
-(1) Der Name einer Person unterliegt dem Recht des Staates, dem die
-Person angehört.
+(1) Der Name einer Person unterliegt den Sachvorschriften des Staates,
+in dem sie ihren gewöhnlichen Aufenthalt hat.
 
-(2) Ehegatten können bei oder nach der Eheschließung gegenüber dem
-Standesamt ihren künftig zu führenden Namen wählen
+(2) Ehegatten können bei oder nach der Eheschließung durch Erklärung
+gegenüber dem Standesamt ihren künftig zu führenden Namen nach dem
+Recht eines Staates wählen,
 
-1.  nach dem Recht eines Staates, dem einer der Ehegatten angehört,
-    ungeachtet des Artikels 5 Abs. 1, oder
+1.  dem einer von ihnen angehört oder
 
 
-2.  nach deutschem Recht, wenn einer von ihnen seinen gewöhnlichen
-    Aufenthalt im Inland hat.
+2.  in dem einer von ihnen seinen gewöhnlichen Aufenthalt hat.
 
 
 
 Nach der Eheschließung abgegebene Erklärungen müssen öffentlich
-beglaubigt werden. Für die Auswirkungen der Wahl auf den Namen eines
-Kindes ist § 1617c des Bürgerlichen Gesetzbuchs sinngemäß anzuwenden.
+beglaubigt werden.
 
-(3) Der Inhaber der Sorge kann gegenüber dem Standesamt bestimmen, daß
-ein Kind den Familiennamen erhalten soll
+(3) Der Inhaber der elterlichen Sorge kann durch Erklärung gegenüber
+dem Standesamt bestimmen, dass ein Kind den Namen erhalten soll
 
-1.  nach dem Recht eines Staates, dem ein Elternteil angehört, ungeachtet
-    des Artikels 5 Abs. 1,
+1.  nach dem Recht des Staates, dem ein Elternteil oder das Kind angehört,
 
 
 2.  nach deutschem Recht, wenn ein Elternteil seinen gewöhnlichen
@@ -300,7 +312,13 @@ ein Kind den Familiennamen erhalten soll
 Nach der Beurkundung der Geburt abgegebene Erklärungen müssen
 öffentlich beglaubigt werden.
 
-(4) (weggefallen)
+(4) Im Übrigen kann eine Person durch Erklärung gegenüber dem
+Standesamt für ihren Namen das Recht des Staates wählen, dem sie
+angehört. Die Erklärung muss öffentlich beglaubigt werden.
+
+(5) Artikel 5 Absatz 1 findet bei der Rechtswahl keine Anwendung. Für
+die Auswirkungen der Wahl nach Absatz 2 oder 4 auf den Namen eines
+Kindes ist § 1617c des Bürgerlichen Gesetzbuchs sinngemäß anzuwenden.
 
 
 ###### Art 11 - Form von Rechtsgeschäften
@@ -619,10 +637,9 @@ achtzehnte Lebensjahr vollendet hatte.
 
 Die Erforderlichkeit und die Erteilung der Zustimmung des Kindes und
 einer Person, zu der das Kind in einem familienrechtlichen Verhältnis
-steht, zu einer Abstammungserklärung oder einer Namenserteilung
-unterliegen zusätzlich dem Recht des Staates, dem das Kind angehört.
-Soweit es zum Wohl des Kindes erforderlich ist, ist statt dessen das
-deutsche Recht anzuwenden.
+steht, zu einer Abstammungserklärung unterliegen zusätzlich dem Recht
+des Staates, dem das Kind angehört. Soweit es zum Wohl des Kindes
+erforderlich ist, ist statt dessen das deutsche Recht anzuwenden.
 
 
 ###### Art 24 - Vormundschaft, Betreuung und Pflegschaft
@@ -1086,15 +1103,17 @@ Eheschließung oder bei der Begründung der Lebenspartnerschaft
 gegenüber einem deutschen Standesamt abgegeben werden.
 
 
-##### Art 48 - Wahl eines in einem anderen Mitgliedstaat der Europäischen Union erworbenen Namens
+##### Art 48 - Namenswahl
 
 Unterliegt der Name einer Person deutschem Recht, so kann sie durch
-Erklärung gegenüber dem Standesamt den während eines gewöhnlichen
-Aufenthalts in einem anderen Mitgliedstaat der Europäischen Union
-erworbenen und dort in ein Personenstandsregister eingetragenen Namen
-wählen, sofern dies nicht mit wesentlichen Grundsätzen des deutschen
-Rechts offensichtlich unvereinbar ist. Die Namenswahl wirkt zurück auf
-den Zeitpunkt der Eintragung in das Personenstandsregister des anderen
+Erklärung gegenüber dem Standesamt den Namen wählen, der in einem
+Mitgliedstaat der Europäischen Union in ein Personenstandsregister
+eingetragen ist, wenn die Person bei der Eintragung ihren gewöhnlichen
+Aufenthalt in diesem Mitgliedstaat hatte oder wenn sie diesem
+Mitgliedstaat angehört, ungeachtet des Artikels 5 Absatz 1. Die
+Namenswahl ist unzulässig, sofern sie mit wesentlichen Grundsätzen des
+deutschen Rechts unvereinbar ist. Die Namenswahl wirkt zurück auf den
+Zeitpunkt der Eintragung in das Personenstandsregister des anderen
 Mitgliedstaats, es sei denn, die Person erklärt ausdrücklich, dass die
 Namenswahl nur für die Zukunft wirken soll. Die Erklärung muss
 öffentlich beglaubigt oder beurkundet werden. Artikel 47 Absatz 1 und
@@ -4499,6 +4518,124 @@ ist, ist § 310 des Bürgerlichen Gesetzesbuchs in der bis
 einschließlich 14. Dezember 2023 geltenden Fassung weiter anzuwenden.
 
 
+#### § 67 Überleitungsvorschrift zum Gesetz zur Änderung des Ehenamens- und Geburtsnamensrechts und des Internationalen Namensrechts
+
+(1) Ehegatten, die am 1. Mai 2025 bereits einen Ehenamen führen,
+können
+
+1.  ihren Ehenamen durch Wahl eines aus den Namen beider Ehegatten
+    gebildeten Doppelnamens nach § 1355 Absatz 2 Satz 1 Nummer 3 in
+    Verbindung mit Satz 2, Absatz 3 Nummer 2, Absatz 4 Satz 2 des
+    Bürgerlichen Gesetzbuchs neu bestimmen oder
+
+
+2.  die Bestimmung des Ehenamens durch Erklärung gegenüber dem Standesamt,
+    die öffentlich zu beglaubigen ist, widerrufen.
+
+
+
+In den Fällen des Satzes 1 Nummer 2 können Ehegatten den Geburtsnamen
+ihrer minderjährigen Kinder nach Absatz 2 neu bestimmen. Ein
+volljähriges Kind kann seinen Geburtsnamen entsprechend § 1617d Absatz
+3 Satz 1 Nummer 2, Satz 2 des Bürgerlichen Gesetzbuchs neu bestimmen;
+§ 1617c Absatz 3 gilt entsprechend.
+
+(2) Der Geburtsname vor dem 1. Mai 2025 geborener minderjähriger
+Kinder von Eltern ohne Ehenamen kann durch Wahl eines aus den Namen
+beider Elternteile gebildeten Doppelnamens nach § 1617 Absatz 1 Satz 1
+Nummer 2 in Verbindung mit Satz 2, Absatz 2 Nummer 2, Absatz 3 und 5
+des Bürgerlichen Gesetzbuchs, auch in Verbindung mit den §§ 1617a und
+1617b des Bürgerlichen Gesetzbuchs, neu bestimmt werden. Hat das Kind
+das fünfte Lebensjahr vollendet, so bedarf die Neubestimmung seines
+Geburtsnamens seiner Einwilligung. Für die Einwilligung gilt § 1617c
+Absatz 1 Satz 2 und 3 des Bürgerlichen Gesetzbuchs entsprechend.
+
+(3) § 1617e Absatz 4 des Bürgerlichen Gesetzbuchs ist auf Kinder
+anzuwenden, die
+
+1.  vor dem 1. Mai 2025 nach § 1618 des Bürgerlichen Gesetzbuchs oder vor
+    dem 1. Juli 1970 nach § 1706 des Bürgerlichen Gesetzbuchs in den
+    jeweils geltenden Fassungen einbenannt wurden oder
+
+
+2.  vor dem 2. Oktober 1990 nach § 65 des Familiengesetzbuchs der
+    Deutschen Demokratischen Republik vom 20. Dezember 1965 (GBl. 1966 I
+    Nr. 1 S. 1) in der jeweils geltenden Fassung einbenannt wurden.
+
+
+
+
+(4) Der Geburtsname vor dem 1. Mai 2025 geborener minderjähriger
+Kinder, die der friesischen Volksgruppe oder der dänischen Minderheit
+angehören, kann nach den §§ 1617g und 1617h des Bürgerlichen
+Gesetzbuchs neu bestimmt werden. Absatz 2 Satz 2 und 3 gilt
+entsprechend.
+
+(5) § 1617 Absatz 5 des Bürgerlichen Gesetzbuchs gilt für nach dem 30.
+April 2025 geborene Kinder mit der Maßgabe, dass für sie auch ein
+Doppelname bestimmt werden kann, der aus dem Namen des vorgeborenen
+Kindes der Eltern und dem Namen desjenigen Elternteils gebildet wird,
+dessen Name nicht zum Geburtsnamen des vorgeborenen Kindes bestimmt
+wurde.
+
+(6) Eine vor dem 1. Mai 2025 gemäß § 1767 des Bürgerlichen Gesetzbuchs
+angenommene Person kann den vor dem Ausspruch der Annahme geführten
+Namen zum Geburtsnamen bestimmen oder aus dem vor dem Ausspruch der
+Annahme geführten Namen und dem Familiennamen der annehmenden Person
+einen Doppelnamen zum Geburtsnamen bestimmen; § 1617 Absatz 1 Satz 2
+und Absatz 2 Nummer 2 des Bürgerlichen Gesetzbuchs gilt entsprechend.
+Die Erklärung ist gegenüber dem Standesamt abzugeben; sie muss
+öffentlich beglaubigt werden.
+
+(7) Hat eine Person vor dem 1. Mai 2025 nach Artikel 47 Absatz 1 ihren
+Familiennamen bestimmt, so kann sie diesen nach Artikel 47 durch
+Bildung eines Doppelnamens aus ihren ursprünglichen Namen neu
+bestimmen.
+
+(8) Auf vor dem 1. Mai 2025 abgeschlossene Vorgänge bleibt das
+bisherige Internationale Privatrecht anwendbar.
+
+
+#### § 68 Überleitungsvorschrift zum Gesetz zum Schutz Minderjähriger bei Auslandsehen
+
+Auf vor dem 1. Juli 2024 erfolgte Verfügungen eines nicht wirksam
+Verheirateten über sein Vermögen im Ganzen oder über
+Haushaltsgegenstände und auf Verpflichtungen zu solchen Verfügungen
+finden im Fall der Heilung der Ehe nach § 1305 Absatz 2 des
+Bürgerlichen Gesetzbuchs die §§ 1365 und 1369 des Bürgerlichen
+Gesetzbuchs keine Anwendung.
+
+
+#### § 69 Übergangsvorschrift zum Gesetz zur Zulassung virtueller Wohnungseigentümerversammlungen, zur Erleichterung des Einsatzes von Steckersolargeräten und zur Übertragbarkeit beschränkter persönlicher Dienstbarkeiten für Erneuerbare-Energien-Anlagen
+
+§ 1092 Absatz 3 Satz 1 des Bürgerlichen Gesetzbuchs in der seit dem
+17\. Oktober 2024 geltenden Fassung ist nur auf beschränkte persönliche
+Dienstbarkeiten anzuwenden, für die die Eintragungsbewilligung nach
+dem 17. Oktober 2024 notariell beurkundet oder öffentlich beglaubigt
+wird.
+
+
+#### § 70 Übergangsvorschrift zum Schriftformerfordernis bei Gewerbemiet- und Landpachtverträgen
+
+(1) Auf Mietverhältnisse gemäß § 578 des Bürgerlichen Gesetzbuchs, die
+vor dem 1. Januar 2025 entstanden sind, ist § 578 Absatz 1 des
+Bürgerlichen Gesetzbuchs in der bis einschließlich 31. Dezember 2024
+geltenden Fassung bis einschließlich 1. Januar 2026 weiter anzuwenden.
+Abweichend von Satz 1 ist auf Mietverhältnisse nach Satz 1, deren
+Änderung ab dem 1. Januar 2025 vereinbart wird, bereits ab dem
+Zeitpunkt der Änderungsvereinbarung § 578 des Bürgerlichen Gesetzbuchs
+in der Fassung vom 1. Januar 2025 anzuwenden.
+
+(2) Auf Landpachtverhältnisse gemäß § 585a des Bürgerlichen
+Gesetzbuchs, die vor dem 1. Januar 2025 entstanden sind, ist § 585a
+des Bürgerlichen Gesetzbuchs in der bis einschließlich 31. Dezember
+2024 geltenden Fassung bis einschließlich 1. Juli 2026 weiter
+anzuwenden. Abweichend von Satz 1 ist auf Landpachtverhältnisse nach
+Satz 1, deren Änderung ab dem 1. Januar 2025 vereinbart wird, bereits
+ab dem Zeitpunkt der Änderungsvereinbarung § 585a des Bürgerlichen
+Gesetzbuchs in der Fassung vom 1. Januar 2025 anzuwenden.
+
+
 ## Sechster Teil - Inkrafttreten und Übergangsrecht aus Anlaß der Einführung des Bürgerlichen Gesetzbuchs und dieses Einführungsgesetzes in dem in Art 3 des Einigungsvertrages genannten Gebiet
 
 
@@ -7605,7 +7742,7 @@ Durchsetzungsmaßnahme nach Artikel 21 der Verordnung (EU) 2017/2394
 geahndet werden.
 
 (4) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des
-Gesetzes über Ordnungswidrigkeiten ist das Umweltbundesamt.
+Gesetzes über Ordnungswidrigkeiten ist das Bundesamt für Justiz.
 
 
 #### Art 247 - Informationspflichten bei Verbraucherdarlehensverträgen, entgeltlichen Finanzierungshilfen und Darlehensvermittlungsverträgen
@@ -8429,11 +8566,11 @@ werden.
 Verbraucherdarlehensverträgen oder deren Vermittlung durch gebundene
 Darlehensvermittler gemäß § 655a Absatz 3 Satz 3 des Bürgerlichen
 Gesetzbuchs anbieten, stellen für Standardgeschäfte nach § 675a des
-Bürgerlichen Gesetzbuchs schriftlich, in geeigneten Fällen auch
-elektronisch, unentgeltlich Informationen über Entgelte und Auslagen
-der Geschäftsbesorgung zur Verfügung, soweit nicht eine
-Preisfestsetzung nach § 315 des Bürgerlichen Gesetzbuchs erfolgt oder
-die Entgelte und Auslagen gesetzlich verbindlich geregelt sind.
+Bürgerlichen Gesetzbuchs in Textform unentgeltlich Informationen über
+Entgelte und Auslagen der Geschäftsbesorgung zur Verfügung, soweit
+nicht eine Preisfestsetzung nach § 315 des Bürgerlichen Gesetzbuchs
+erfolgt oder die Entgelte und Auslagen gesetzlich verbindlich geregelt
+sind.
 
 (2) Die Informationen nach Absatz 1 müssen zumindest folgende Angaben
 enthalten:
@@ -8531,12 +8668,11 @@ Bürgerlichen Gesetzbuchs angeboten wird.
 von Überziehungsmöglichkeiten gemäß § 504 des Bürgerlichen Gesetzbuchs
 oder deren Vermittlung durch gebundene Darlehensvermittler gemäß §
 655a Absatz 3 Satz 3 des Bürgerlichen Gesetzbuchs anbieten, stellen
-für Standardgeschäfte nach § 675a des Bürgerlichen Gesetzbuchs
-schriftlich, in geeigneten Fällen auch elektronisch, unentgeltlich
-Informationen über Entgelte und Auslagen der Geschäftsbesorgung zur
-Verfügung, soweit nicht eine Preisfestsetzung nach § 315 des
-Bürgerlichen Gesetzbuchs erfolgt oder die Entgelte und Auslagen
-gesetzlich verbindlich geregelt sind.
+für Standardgeschäfte nach § 675a des Bürgerlichen Gesetzbuchs in
+Textform unentgeltlich Informationen über Entgelte und Auslagen der
+Geschäftsbesorgung zur Verfügung, soweit nicht eine Preisfestsetzung
+nach § 315 des Bürgerlichen Gesetzbuchs erfolgt oder die Entgelte und
+Auslagen gesetzlich verbindlich geregelt sind.
 
 (2) Der Sollzinssatz, der für die Überziehungsmöglichkeit berechnet
 wird, ist in den nach Absatz 1 zur Verfügung zu stellenden

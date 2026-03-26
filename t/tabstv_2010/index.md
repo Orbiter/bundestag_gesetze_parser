@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2009, 3262, 3263
 
 Zuletzt geändert durch
-:   Art. 6 G v. 24.10.2022 I 1838
+:   Art. 1 V v. 17.6.2024 I Nr. 204
 
 
 ## Abschnitt 1 - Allgemeines
@@ -1442,9 +1442,7 @@ auf Bruchteile eines Gramms lauten. Bei Substituten für Tabakwaren
 sind bei Packungsinhalten bis zu 5 Milliliter nur Packungen zulässig,
 deren Inhalte auf nicht mehr als eine Dezimalstelle lauten. Andere
 Packungen sind nur zulässig, wenn deren Inhalte nicht auf Bruchteile
-eines Milliliters lauten. Für Wasserpfeifentabak nach § 1 Absatz 2b
-des Gesetzes sind nur Packungen mit einer Menge bis zu 25 Gramm
-zulässig.
+eines Milliliters lauten.
 
 (5) Die Packungen dürfen unterteilt sein. Allseitige Verpackungen von
 Teilmengen sind jedoch nur zulässig für

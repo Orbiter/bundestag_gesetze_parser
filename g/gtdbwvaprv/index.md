@@ -1,6 +1,6 @@
 ---
-Title: Verordnung über die Ausbildung und Prüfung für den gehobenen technischen Dienst
-  in der Bundeswehrverwaltung – Fachrichtung Wehrtechnik –
+Title: Verordnung über den Vorbereitungsdienst für den gehobenen technischen Verwaltungsdienst
+  in der Bundeswehrverwaltung im Verwendungsbereich Wehrtechnik
 jurabk: GtDBWVAPrV
 layout: default
 origslug: gtdbwvaprv
@@ -8,7 +8,7 @@ slug: gtdbwvaprv
 
 ---
 
-# Verordnung über die Ausbildung und Prüfung für den gehobenen technischen Dienst in der Bundeswehrverwaltung – Fachrichtung Wehrtechnik – (GtDBWVAPrV)
+# Verordnung über den Vorbereitungsdienst für den gehobenen technischen Verwaltungsdienst in der Bundeswehrverwaltung im Verwendungsbereich Wehrtechnik (GtDBWVAPrV)
 
 Ausfertigungsdatum
 :   2009-10-02
@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2009, 3240 (3692)
 
 Zuletzt geändert durch
-:   Art. 63 G v. 20.8.2021 I 3932
+:   Art. 2 Abs. 12 V v. 11.3.2026 I Nr. 67
 
 
 ## Eingangsformel
@@ -35,7 +35,7 @@ verordnet das Bundesministerium der Verteidigung:
 ### § 1 Ziel, Bestandteile und Schwerpunkte des Vorbereitungsdienstes
 
 (1) Ziel des Vorbereitungsdienstes ist es, die für eine vielseitige
-Verwendung in der Fachrichtung Wehrtechnik des gehobenen technischen
+Verwendung im Verwendungsbereich Wehrtechnik des gehobenen technischen
 Verwaltungsdienstes der Bundeswehr erforderlichen allgemeinen und
 wehrtechnischen Kenntnisse und Fähigkeiten zu vermitteln.
 
@@ -94,243 +94,384 @@ Der Vorbereitungsdienst besteht aus
 
 
 
-### § 3 Schwerbehinderte und diesen gleichgestellte behinderte Menschen
+### § 3 Dauer des Vorbereitungsdienstes
 
-(1) Schwerbehinderten und diesen gleichgestellten behinderten Menschen
-werden im Auswahlverfahren sowie für die Erbringung von
-Leistungsnachweisen und für die Teilnahme an Prüfungen Erleichterungen
-gewährt, die ihrer Behinderung angemessen sind. Hierauf sind sie durch
-die Einstellungsbehörde rechtzeitig hinzuweisen. Art und Umfang der
-Erleichterungen sind mit ihnen und der Schwerbehindertenvertretung
-rechtzeitig zu erörtern, sofern dies zeitlich möglich ist. Die
-Erleichterungen dürfen nicht dazu führen, dass die Anforderungen
-herabgesetzt werden.
-
-(2) Im Auswahlverfahren wird die Schwerbehindertenvertretung nicht
-beteiligt, wenn der schwerbehinderte oder gleichgestellte behinderte
-Mensch eine Beteiligung nicht wünscht.
-
-(3) Entscheidungen über Prüfungserleichterungen trifft das
-Prüfungsamt.
-
-(4) Bei Prüfungen durch eine kooperierende Hochschuleinrichtung sind
-die Absätze 1 bis 3 nur insoweit anzuwenden, als diese den
-Bestimmungen der Hochschuleinrichtung nicht widersprechen.
-
-
-## Kapitel 2 - Zulassung und Einstellung
-
-
-### § 4 Einstellungsbehörde
-
-Einstellungsbehörde ist das Bundesamt für Wehrtechnik und Beschaffung.
-Es ist zuständig für die Ausschreibung, die Durchführung des
-Auswahlverfahrens, die Einstellung und die Betreuung der Anwärterinnen
-und Anwärter. Es entscheidet über die Verlängerung oder Verkürzung des
-Vorbereitungsdienstes (§§ 15 und 16 der Bundeslaufbahnverordnung).
-
-
-### § 5 Einstellungsvoraussetzungen
-
-In den Vorbereitungsdienst kann eingestellt werden, wer
-
-1.  die gesetzlichen Voraussetzungen für die Berufung in das
-    Beamtenverhältnis erfüllt und
-
-
-2.  die Zugangsberechtigung für eine mit der Einstellungsbehörde
-    kooperierende Hochschuleinrichtung nachweist oder einen Bachelor- oder
-    einen gleichwertigen Abschluss in einem Studienfach besitzt, das einem
-    der Fachgebiete nach § 1 Absatz 3 zugeordnet werden kann.
-
-
-
-
-
-### § 6 Ausschreibung, Bewerbung
-
-(1) Bewerberinnen und Bewerber werden durch Stellenausschreibung
-ermittelt.
-
-(2) Bewerbungen sind an die Einstellungsbehörde zu richten. Der
-Bewerbung sind beizufügen:
-
-1.  ein tabellarischer Lebenslauf,
-
-
-2.  eine Kopie des Schulabschlusszeugnisses, das die
-    Hochschulzugangsberechtigung nachweist, oder, wenn ein solcher
-    Nachweis noch nicht vorliegt, Kopien der letzten zwei Schulzeugnisse
-    oder
-
-
-3.  eine Kopie des Abschlusszeugnisses des mit einem Bachelor- oder einem
-    gleichwertigen Abschluss abgeschlossenen Hochschulstudiums oder, wenn
-    ein solcher Nachweis noch nicht vorliegt, Kopien der Nachweise der
-    bisher erbrachten Studienleistungen sowie
-
-
-4.  gegebenenfalls
-
-    a)  eine Erläuterung der Inhalte des abgeschlossenen Studiums, zum
-        Beispiel ein Diploma Supplement,
-
-
-    b)  eine Einverständniserklärung der gesetzlichen Vertreterin oder des
-        gesetzlichen Vertreters, falls die sich bewerbende Person nicht
-        volljährig ist,
-
-
-    c)  eine Kopie des Schwerbehindertenausweises, des Bescheides über die
-        Eigenschaft als schwerbehinderter Mensch oder des Bescheides über die
-        Gleichstellung eines behinderten Menschen mit einem schwerbehinderten
-        Menschen,
-
-
-    d)  eine Kopie des Zulassungs- oder Eingliederungsscheins oder der
-        Bestätigung nach § 10 Absatz 4 des Soldatenversorgungsgesetzes,
-
-
-    e)  Kopien der Zeugnisse, die bei Beendigung des Grundwehrdienstes und
-        nach Wehrübungen erteilt wurden, und
-
-
-    f)  Kopien der Zeugnisse beruflicher Tätigkeiten.
-
-
-
-
-
-
-
-
-### § 7 Auswahlverfahren
-
-(1) Vor der Entscheidung über die Einstellung in den
-Vorbereitungsdienst wird in einem Auswahlverfahren festgestellt, ob
-die Bewerberinnen und Bewerber auf Grund ihrer Kenntnisse, Fähigkeiten
-und persönlichen Eigenschaften für den Vorbereitungsdienst geeignet
-sind.
-
-(2) Zum Auswahlverfahren wird zugelassen, wer nach den eingereichten
-Unterlagen die in der Ausschreibung bestimmten Voraussetzungen
-erfüllt. Die Zahl der am Auswahlverfahren Teilnehmenden kann auf das
-Dreifache der Zahl der Ausbildungsplätze im jeweiligen Fachgebiet
-beschränkt werden. Dabei wird zugelassen, wer nach den eingereichten
-Unterlagen am besten geeignet ist. Hierbei ist zu berücksichtigen,
-dass je nach Art und Inhalt des Ausbildungsgangs Zeugnisnoten
-unterschiedlich zu bewerten sind. Daneben werden schwerbehinderte und
-diesen gleichgestellte behinderte Menschen sowie ehemalige Soldatinnen
-auf Zeit und Soldaten auf Zeit mit Eingliederungs- oder
-Zulassungsschein zum Auswahlverfahren zugelassen, wenn sie die in der
-Ausschreibung genannten Voraussetzungen erfüllen.
-
-(3) Das Auswahlverfahren wird bei der Einstellungsbehörde von einer
-Auswahlkommission durchgeführt und besteht aus einem schriftlichen und
-einem mündlichen Teil. Bei Auswahlverfahren für einen
-Vorbereitungsdienst nach § 2 Nummer 1 ist für jedes Fachgebiet
-mindestens eine Auswahlkommission zu bilden.
-
-(4) Die Auswahlkommission besteht aus
-
-1.  einer Beamtin oder einem Beamten des höheren technischen
-    Verwaltungsdienstes als Vorsitzender oder Vorsitzendem,
-
-
-2.  einer Beamtin oder einem Beamten des gehobenen technischen
-    Verwaltungsdienstes als Beisitzender oder Beisitzendem,
-
-
-3.  einer Beamtin oder einem Beamten des höheren oder gehobenen
-    nichttechnischen Verwaltungsdienstes als Beisitzender oder
-    Beisitzendem und
-
-
-4.  einer Psychologin oder einem Psychologen als Beisitzender oder
-    Beisitzendem.
-
-
-
-Die Mitglieder der Auswahlkommission sind unabhängig und nicht
-weisungsgebunden. Die Auswahlkommission entscheidet mit
-Stimmenmehrheit. Bei Stimmengleichheit gibt die Stimme der oder des
-Vorsitzenden den Ausschlag. Stimmenthaltung ist nicht zulässig. Werden
-mehrere Kommissionen eingerichtet, sind gleiche Auswahlmaßstäbe
-sicherzustellen. Eine ausreichende Anzahl von Ersatzmitgliedern ist zu
-bestellen.
-
-(5) Die Auswahlkommission bewertet die Ergebnisse und legt für jedes
-Auswahlverfahren eine Rangfolge der geeigneten Bewerberinnen und
-Bewerber fest. Sind mehrere Auswahlkommissionen für ein Fachgebiet
-eingerichtet, wird eine Rangfolge aller Bewerberinnen und Bewerber
-dieses Fachgebiets festgelegt.
-
-(6) Die Mitglieder und Ersatzmitglieder der Auswahlkommission werden
-von der Einstellungsbehörde und dem Bundesamt für
-Informationsmanagement und Informationstechnik der Bundeswehr für die
-Dauer von fünf Jahren bestellt; Wiederbestellung ist zulässig. Die
-Psychologin oder der Psychologe wird vom Bundesministerium der
-Verteidigung bestellt, wenn sie oder er nicht der Einstellungsbehörde
-angehört.
-
-
-### § 8 Einstellung in den Vorbereitungsdienst
-
-(1) Vor der Einstellung haben die Bewerberinnen und Bewerber dafür zu
-sorgen, dass die Einstellungsbehörde folgende Unterlagen erhält:
-
-1.  ein aktuelles amtsärztliches Gesundheitszeugnis oder ein aktuelles
-    Gesundheitszeugnis einer beamteten Vertrauensärztin, eines beamteten
-    Vertrauensarztes, einer Personalärztin oder eines Personalarztes, in
-    dem auch zur Beamtendiensttauglichkeit Stellung genommen wird,
-
-
-2.  eine Ausfertigung der Geburtsurkunde, auf Verlangen auch einen
-    Nachweis der Staatsangehörigkeit,
-
-
-3.  gegebenenfalls eine Ausfertigung der Eheurkunde oder der
-    Lebenspartnerschaftsurkunde und Ausfertigungen der Geburtsurkunden der
-    Kinder,
-
-
-4.  ein Führungszeugnis nach § 30 Absatz 5 des
-    Bundeszentralregistergesetzes zur Vorlage bei der Einstellungsbehörde
-    und
-
-
-5.  eine Erklärung der Bewerberin oder des Bewerbers darüber, ob sie oder
-    er
-
-    a)  in einem Ermittlungs- oder sonstigen Strafverfahren beschuldigt wird
-        und
-
-
-    b)  in geordneten wirtschaftlichen Verhältnissen lebt.
-
-
-
-
-
-
-Die Kosten des Gesundheitszeugnisses trägt die Einstellungsbehörde.
-Statt die Kosten zu übernehmen, kann die Bundeswehrverwaltung die
-Einstellungsuntersuchung selbst vornehmen.
-
-(2) Bei einem Vorbereitungsdienst nach § 2 Nummer 2 ist von den
-Bewerberinnen und Bewerbern ein Vorpraktikum zu verlangen, wenn die
-Studien- und Prüfungsordnung der mit der Einstellungsbehörde
-kooperierenden Hochschuleinrichtung dies vorschreibt.
-
-
-### § 9 Dauer des Vorbereitungsdienstes
-
-(1) Der Vorbereitungsdienst nach § 2 Nummer 1 soll die Mindestdauer
-von einem Jahr (§ 13 Absatz 2 Satz 1 der Bundeslaufbahnverordnung)
-nicht überschreiten.
+(1) Der Vorbereitungsdienst nach § 2 Nummer 1 dauert in der Regel
+zwölf Monate.
 
 (2) Der Vorbereitungsdienst nach § 2 Nummer 2 dauert in der Regel 42
 Monate.
+
+
+### § 4 Nachteilsausgleich
+
+(1) Menschen mit Beeinträchtigungen, die die Umsetzung der
+nachzuweisenden Kenntnisse und Fähigkeiten einschränken, wird im
+Auswahlverfahren sowie bei Leistungsnachweisen und Prüfungen auf
+Antrag ein angemessener Nachteilsausgleich gewährt. Die nach Absatz 2
+zuständige Stelle weist rechtzeitig auf die Möglichkeit des
+Nachteilsausgleichs hin.
+
+(2) Über die Gewährung eines Nachteilsausgleichs entscheidet
+
+1.  im Auswahlverfahren die Einstellungsbehörde,
+
+
+2.  in der fachtheoretischen Ausbildung das Bildungszentrum der
+    Bundeswehr,
+
+
+3.  in der berufspraktischen Ausbildung die Ausbildungsleitung und
+
+
+4.  in der Laufbahnprüfung das Prüfungsamt.
+
+
+
+
+(3) Art und Umfang des Nachteilsausgleichs sind mit der betroffenen
+Person rechtzeitig zu erörtern.
+
+(4) Ist ein schwerbehinderter Mensch oder ein gleichgestellter
+behinderter Mensch betroffen, so ist in die Erörterung auch die
+Schwerbehindertenvertretung einzubeziehen.
+
+(5) Ein Nachteilsausgleich darf nicht dazu führen, dass die
+inhaltlichen Anforderungen herabgesetzt werden.
+
+
+## Kapitel 2 - Auswahlverfahren und Einstellung
+
+
+### § 5 Einstellungsbehörde und personalbearbeitende Dienststelle
+
+(1) Einstellungsbehörde und personalbearbeitende Dienststelle ist das
+Bundesamt für das Personalmanagement der Bundeswehr.
+
+(2) Die Einstellungsbehörde ist zuständig für die Auswahl, Einstellung
+und Betreuung der Anwärterinnen und Anwärter. Sie entscheidet über die
+Verlängerung und Verkürzung des Vorbereitungsdienstes.
+
+(3) Die Einstellungsbehörde kann Aufgaben, für die sie im Rahmen von
+Auswahl und Einstellung zuständig ist, auf eine nachgeordnete Behörde
+übertragen.
+
+
+### § 6 Beschäftigungsdienststelle
+
+Beschäftigungsdienststelle der Anwärterinnen und Anwärter ist das
+Bundesamt für Ausrüstung, Informationstechnik und Nutzung der
+Bundeswehr.
+
+
+### § 7 Auswahlverfahren und Zulassung zum Auswahlverfahren
+
+(1) Über die Einstellung in den Vorbereitungsdienst entscheidet die
+Einstellungsbehörde auf der Grundlage eines Auswahlverfahrens. In dem
+Auswahlverfahren wird festgestellt, ob die Bewerberinnen und Bewerber
+aufgrund ihrer Kenntnisse, Fähigkeiten und persönlichen Eigenschaften
+für den Vorbereitungsdienst geeignet und befähigt sind.
+
+(2) Wird nach § 11 Absatz 4 der Bundeslaufbahnverordnung die Zahl der
+am Auswahlverfahren Teilnehmenden beschränkt, so werden
+schwerbehinderte Menschen und gleichgestellte behinderte Menschen
+sowie frühere Soldatinnen auf Zeit und frühere Soldaten auf Zeit mit
+Eingliederungs- oder Zulassungsschein zusätzlich und ohne Beschränkung
+zum Auswahlverfahren zugelassen, wenn sie die in der Ausschreibung
+genannten Voraussetzungen erfüllen.
+
+(3) Wer nicht zum Auswahlverfahren zugelassen wird, erhält eine
+schriftliche oder elektronische Ablehnung. Elektronisch eingereichte
+Bewerbungsunterlagen werden spätestens sechs Monate nach der Ablehnung
+endgültig gelöscht. Nicht elektronisch eingereichte
+Bewerbungsunterlagen sowie Ausdrucke elektronisch eingereichter
+Bewerbungsunterlagen werden spätestens nach Ablauf dieser Frist
+vernichtet. Originaldokumente werden auf Wunsch zurückgesandt.
+
+
+### § 8 Anforderungen im Auswahlverfahren
+
+(1) Die Eignung und Befähigung wird im Auswahlverfahren anhand von
+Eignungsmerkmalen festgestellt.
+
+(2) Die Eignungsmerkmale decken die folgenden Kompetenzbereiche ab:
+
+1.  Selbstkompetenz,
+
+
+2.  Methodenkompetenz,
+
+
+3.  Fachkompetenz,
+
+
+4.  Sozialkompetenz sowie
+
+
+5.  Führungs- und Managementkompetenz.
+
+
+
+
+(3) Die Feststellung erfolgt mit Hilfe von Auswahlinstrumenten. Der
+Einsatz kann durch Informationstechnologie unterstützt werden.
+
+
+### § 9 Auswahlkommission
+
+(1) Die Einstellungsbehörde richtet eine Auswahlkommission ein. Bei
+Bedarf können mehrere Auswahlkommissionen eingerichtet werden. Die
+Einstellungsbehörde stellt sicher, dass alle Auswahlkommissionen
+dieselben Bewertungs- und Auswahlmaßstäbe anlegen.
+
+(2) Eine Auswahlkommission besteht aus einer oder einem Vorsitzenden
+und weiteren Mitgliedern.
+
+(3) Die Mitglieder einer Auswahlkommission sind hauptamtlich tätig
+oder werden für fünf Jahre bestellt. Wiederbestellung ist zulässig.
+Die Einstellungsbehörde bestellt eine hinreichende Zahl von
+Ersatzmitgliedern.
+
+(4) Die Mitglieder der Auswahlkommission sind bei ihren Entscheidungen
+unabhängig und nicht weisungsgebunden.
+
+(5) Die Auswahlkommission entscheidet mit Stimmenmehrheit.
+Stimmenthaltung ist nicht zulässig. Bei Stimmengleichheit gibt die
+Stimme der oder des Vorsitzenden den Ausschlag.
+
+(6) Die Gleichstellungsbeauftragte darf am Auswahlverfahren und an den
+anschließenden Beratungen der Auswahlkommission teilnehmen. Sie ist
+nicht stimmberechtigt.
+
+
+### § 9a Ergänzende Festlegungen
+
+(1) Die Einstellungsbehörde legt ergänzend fest:
+
+1.  die Eignungsmerkmale und ihre Definition,
+
+
+2.  die Zuordnung der Eignungsmerkmale zu den Kompetenzbereichen,
+
+
+3.  die Auswahlinstrumente, die im Auswahlverfahren eingesetzt werden,
+
+
+4.  die Zuordnung der Auswahlinstrumente zu den Eignungsmerkmalen,
+
+
+5.  die Einzelheiten der Besetzung der Auswahlkommission,
+
+
+6.  die Bewertungs- und Gewichtungssystematik sowie
+
+
+7.  das Mindestergebnis für das Bestehen des Auswahlverfahrens und zudem,
+    für welche Eignungsmerkmale oder für welche Gruppen von
+    Eignungsmerkmalen Mindestergebnisse verlangt werden.
+
+
+
+
+(2) Jedes Eignungsmerkmal soll durch mindestens zwei
+Auswahlinstrumente erfasst werden.
+
+(3) Die ergänzenden Festlegungen werden im Gemeinsamen
+Ministerialblatt veröffentlicht. Maßgeblich ist jeweils die Fassung,
+die bei Beginn des Auswahlverfahrens gilt.
+
+
+### § 9b Bestandteile des Auswahlverfahrens
+
+Das Auswahlverfahren besteht aus
+
+1.  einem schriftlichen Teil und
+
+
+2.  einem mündlichen Teil.
+
+
+
+
+
+### § 9c Schriftlicher Teil des Auswahlverfahrens
+
+(1) Im schriftlichen Teil des Auswahlverfahrens sind höchstens vier
+der folgenden Auswahlinstrumente einzusetzen:
+
+1.  Aufsatz,
+
+
+2.  Leistungstest,
+
+
+3.  Persönlichkeitstest,
+
+
+4.  Simulationsaufgabe und
+
+
+5.  biographischer Fragebogen.
+
+
+
+
+(2) Der schriftliche Teil des Auswahlverfahrens dauert in der Regel
+einen halben Arbeitstag.
+
+
+### § 9d Zulassung zum mündlichen Teil des Auswahlverfahrens
+
+(1) Zum mündlichen Teil des Auswahlverfahrens wird zugelassen, wer bei
+den Eignungsmerkmalen, die ausschließlich im schriftlichen Teil
+bewertet werden, mindestens das festgelegte Mindestergebnis erreicht
+hat.
+
+(2) Schwerbehinderte Bewerberinnen und Bewerber sowie gleichgestellte
+behinderte Bewerberinnen und Bewerber werden zum mündlichen Teil des
+Auswahlverfahrens zugelassen, wenn sie am schriftlichen Teil
+teilgenommen haben.
+
+
+### § 9e Mündlicher Teil des Auswahlverfahrens
+
+(1) Im mündlichen Teil des Auswahlverfahrens sind höchstens vier der
+folgenden Auswahlinstrumente einzusetzen:
+
+1.  halbstrukturiertes Interview,
+
+
+2.  Referat,
+
+
+3.  Präsentation,
+
+
+4.  Gruppenaufgaben und
+
+
+5.  Gruppendiskussion.
+
+
+
+
+(2) Der mündliche Teil des Auswahlverfahrens dauert in der Regel einen
+halben Arbeitstag.
+
+(3) Am mündlichen Teil des Auswahlverfahrens kann ein Mitglied des
+Personalrats teilnehmen.
+
+(4) Wenn eine schwerbehinderte Bewerberin oder ein schwerbehinderter
+Bewerber oder eine gleichgestellte behinderte Bewerberin oder ein
+gleichgestellter behinderter Bewerber am mündlichen Teil des
+Auswahlverfahrens teilnimmt, kann die Schwerbehindertenvertretung am
+mündlichen Teil des Auswahlverfahrens und an den Beratungen der
+Auswahlkommission teilnehmen. Dies gilt nicht, wenn die Bewerberin
+oder der Bewerber der Teilnahme der Schwerbehindertenvertretung
+ausdrücklich widerspricht.
+
+(5) Hat eine schwerbehinderte Bewerberin oder ein schwerbehinderter
+Bewerber oder eine gleichgestellte behinderte Bewerberin oder ein
+gleichgestellter behinderter Bewerber im schriftlichen Teil des
+Auswahlverfahrens das Mindestergebnis für ein Eignungsmerkmal, das
+ausschließlich im schriftlichen Teil bewertet wird, nicht erreicht,
+wird dieses Eignungsmerkmal für diese Bewerberin oder diesen Bewerber
+auch im mündlichen Teil des Auswahlverfahrens bewertet.
+
+
+### § 9f Bewertung der Eignungsmerkmale
+
+(1) Die Auswahlkommission bewertet für jedes Eignungsmerkmal die mit
+den verschiedenen Auswahlinstrumenten erfassten Leistungen und fasst
+sie zu einem Gesamtergebnis für das Eignungsmerkmal zusammen.
+
+(2) Bei der Bewertung von Leistungen im schriftlichen Teil des
+Auswahlverfahrens kann sich die Auswahlkommission durch
+Informationstechnologie und durch dafür qualifizierte Beschäftigte
+unterstützen lassen. Die Bewertungsentscheidungen dürfen nicht
+ausschließlich auf eine automatisierte Auswertung gestützt werden.
+
+
+### § 9g Gesamtergebnis und Rangfolge
+
+(1) Für die Bewerberinnen und Bewerber, die an beiden Teilen des
+Auswahlverfahrens teilgenommen haben, ermittelt die Auswahlkommission
+das Gesamtergebnis des Auswahlverfahrens gemäß der von der
+Einstellungsbehörde festgelegten Bewertungs- und
+Gewichtungssystematik.
+
+(2) Sofern die Einstellungsbehörde in ihrer Gewichtungssystematik
+keine unterschiedliche Gewichtung der Gesamtergebnisse der einzelnen
+Eignungsmerkmale festgelegt hat, gehen die Gesamtergebnisse der
+einzelnen Eignungsmerkmale mit gleichem Gewicht in das Gesamtergebnis
+des Auswahlverfahrens ein.
+
+(3) Das Auswahlverfahren hat bestanden, wer mindestens die
+Mindestergebnisse für einzelne Eignungsmerkmale, die Mindestergebnisse
+für Gruppen von Eignungsmerkmalen und das Mindestergebnis für das
+Bestehen des Auswahlverfahrens erreicht hat.
+
+(4) Anhand der ermittelten Gesamtergebnisse legt die
+Einstellungsbehörde für jedes wehrtechnische Fachgebiet eine Rangfolge
+der Bewerberinnen und Bewerber fest, die das Auswahlverfahren
+bestanden haben. Hat eine schwerbehinderte Bewerberin oder ein
+schwerbehinderter Bewerber oder eine gleichgestellte Bewerberin oder
+ein gleichgestellter Bewerber das gleiche Gesamtergebnis wie eine
+andere Bewerberin oder ein anderer Bewerber, so wird sie oder er in
+der Rangfolge vor der anderen Bewerberin oder dem anderen Bewerber
+geführt, wenn nicht in der Person der anderen Bewerberin oder des
+anderen Bewerbers liegende Gründe überwiegen.
+
+
+### § 9h Einstellung in den Vorbereitungsdienst
+
+(1) In den Vorbereitungsdienst für den gehobenen technischen
+Verwaltungsdienst in der Bundeswehrverwaltung im Verwendungsbereich
+Wehrtechnik kann eingestellt werden, wer
+
+1.  bei einem Vorbereitungsdienst
+
+    a)  nach § 2 Nummer 1 einen Bachelor- oder einen gleichwertigen Abschluss
+        in einem Studienfach besitzt, das einem der Fachgebiete nach § 1
+        Absatz 3 zugeordnet werden kann, oder
+
+
+    b)  nach § 2 Nummer 3
+
+        aa) die Zugangsberechtigung für eine mit der Einstellungsbehörde
+            kooperierende Hochschule nachweist und
+
+
+        bb) ein Vorpraktikum absolviert hat, das in der Studien- und
+            Prüfungsordnung der mit der Einstellungsbehörde kooperierenden
+            Hochschule vorgeschrieben ist,
+
+
+
+
+
+
+
+
+2.  das Auswahlverfahren bestanden hat und
+
+
+3.  die gesundheitlichen Anforderungen des gehobenen technischen
+    Verwaltungsdienstes im Verwendungsbereich Wehrtechnik erfüllt.
+
+
+
+
+(2) Ob jemand die gesundheitlichen Anforderungen erfüllt, wird durch
+eine ärztliche Untersuchung der Einstellungsbehörde festgestellt.
+Alternativ kann die Einstellungsbehörde ein amtsärztliches Gutachten
+anfordern. Sie trägt die hierfür entstehenden Kosten.
+
+(3) Über die Einstellung der Bewerberinnen und Bewerber entscheidet
+die Einstellungsbehörde auf der Grundlage der Rangfolge nach dem
+Auswahlverfahren.
+
+(4) Im Falle der Ablehnung gilt § 7 Absatz 3 entsprechend.
 
 
 ## Kapitel 3 - Berufspraktische Studienzeit
@@ -345,21 +486,21 @@ Ausbildungsabschnitte vorzusehen:
 1.  Lehrgang „Aufgaben und Organisation der Bundeswehr und Statusfragen“,
 
 
-2.  Vorstellung der Verwendungsmöglichkeiten in der Fachrichtung
-    Wehrtechnik des gehobenen technischen Verwaltungsdienstes,
+2.  Vorstellung der Verwendungsmöglichkeiten
+    im Verwendungsbereich                    Wehrtechnik des gehobenen
+    technischen Verwaltungsdienstes,
 
 
 3.  Lehrgang „Allgemeine Wehrtechnik“,
 
 
-4.  Lehrgang „Technisches Projektmanagement“,
+4.  Lehrgang „Wirtschaftlichkeit im Projektmanagement“,
 
 
-5.  Lehrgang „Wirtschaftlichkeit im Projektmanagement“,
+5.  Lehrgang „Technisches Projektmanagement“,
 
 
-6.  Lehrgang „Fachtechnische Grundlagen einzelner wehrtechnischer
-    Fachgebiete“,
+6.  Lehrgang „Fachtechnik einzelner wehrtechnischer Fachgebiete“,
 
 
 7.  Lehrgang „Rechtsgrundlagen in der Praxis“ und
@@ -370,14 +511,12 @@ Ausbildungsabschnitte vorzusehen:
 
 
 
-(2) Die Lehrgänge nach Absatz 1 werden an der Bundesakademie für
-Wehrverwaltung und Wehrtechnik und an einer
-Bundeswehrverwaltungsschule durchgeführt. Sie vermitteln
-Spezialkenntnisse, die für die Laufbahn des gehobenen technischen
-Verwaltungsdienstes erforderlich sind und über die im Studium
-vermittelten Kenntnisse hinausgehen. Die Lehrgänge können auch an
-einer mit der Einstellungsbehörde kooperierenden Hochschuleinrichtung
-durchgeführt werden.
+(2) Die Lehrgänge nach Absatz 1 werden am Bildungszentrum der
+Bundeswehr durchgeführt. Sie vermitteln Spezialkenntnisse, die für die
+Laufbahn des gehobenen technischen Verwaltungsdienstes erforderlich
+sind und über die im Studium vermittelten Kenntnisse hinausgehen. Die
+Lehrgänge können auch an einer mit der Einstellungsbehörde
+kooperierenden Hochschuleinrichtung durchgeführt werden.
 
 (3) Die Reihenfolge und die Dauer der einzelnen Ausbildungsabschnitte
 ergeben sich aus dem Ausbildungsplan nach § 17 Absatz 2 Satz 3. Die
@@ -386,17 +525,33 @@ Ausbildungsabschnitte können durch Exkursionen ergänzt werden.
 
 ### § 11 Lehrgang „Aufgaben und Organisation der Bundeswehr und Statusfragen“
 
-Die Anwärterinnen und Anwärter werden mit den Rechten und Pflichten
-der Beamtinnen und Beamten vertraut gemacht. Sie erhalten einen
-Überblick über das Beamten-, Besoldungs-, Reisekosten-, Umzugs- und
-Beihilferecht sowie über die Aufgaben und die Organisation der
-Bundeswehr, insbesondere des Rüstungsbereichs, über deren rechtliche
-Grundlagen sowie über Arbeitsabläufe. Die Anwärterinnen und Anwärter
-sollen am Ende des Lehrgangs über ein Grundwissen verfügen, auf dem
-die weitere Ausbildung aufbaut. Einzelheiten regelt der Lehrplan.
+Im Lehrgang „Aufgaben und Organisation der Bundeswehr und
+Statusfragen“ werden die Anwärterinnen und Anwärter mit den Rechten
+und Pflichten der Beamtinnen und Beamten vertraut gemacht. Ihnen wird
+ein Überblick vermittelt über
+
+1.  das Besoldungsrecht,
 
 
-### § 12 Vorstellung der Verwendungsmöglichkeiten der Fachrichtung Wehrtechnik des gehobenen technischen Verwaltungsdienstes
+2.  das Reisekostenrecht,
+
+
+3.  das Umzugskostenrecht,
+
+
+4.  das Beihilferecht und
+
+
+5.  die Vorschriften zur Korruptionsprävention.
+
+
+
+Zudem wird ihnen ihr Arbeitsumfeld in der Bundeswehr mit den
+zugehörigen Organisationsbereichen und Arbeitsabläufen vorgestellt.
+Einzelheiten regelt der Lehrplan.
+
+
+### § 12 Vorstellung der Verwendungsmöglichkeiten im Verwendungsbereich Wehrtechnik des gehobenen technischen Verwaltungsdienstes
 
 Die Anwärterinnen und Anwärter werden bei Dienststellen des
 Rüstungsbereichs in deren Organisation, Aufgaben und Ausstattung
@@ -405,24 +560,39 @@ Einsatzmöglichkeiten im Rüstungsbereich auf. Einzelheiten regelt der
 Ausbildungsplan.
 
 
-### § 13 Lehrgänge „Allgemeine Wehrtechnik“, „Technisches Projektmanagement“ und „Wirtschaftlichkeit im Projektmanagement“
+### § 13 Lehrgänge „Allgemeine Wehrtechnik“, „Wirtschaftlichkeit im Projektmanagement“ und „Technisches Projektmanagement“
 
-(1) Im Lehrgang „Allgemeine Wehrtechnik“ werden den Anwärterinnen und
-Anwärtern fachgebietsübergreifende wehrtechnische Inhalte,
-sicherheitspolitische Aspekte und allgemeine bundeswehrspezifische
-Themen vermittelt.
+(1) Im Lehrgang „Allgemeine Wehrtechnik“ wird den Anwärterinnen und
+Anwärtern ein Überblick vermittelt über
 
-(2) Im Lehrgang „Technisches Projektmanagement“ werden die
-Anwärterinnen und Anwärter mit den allgemeinen Grundlagen des
-technischen Projektmanagements im Rüstungsbereich sowie den
-bundeswehrspezifischen Verfahren und Methoden des Projektmanagements
-vertraut gemacht.
+1.  die Wehrtechnik,
 
-(3) Im Lehrgang „Wirtschaftlichkeit im Projektmanagement“ werden den
-Anwärterinnen und Anwärtern aufgabenspezifisch Grundkenntnisse der
-Betriebs- und Volkswirtschaftslehre, Kenntnisse der verschiedenen
-Methoden und Verfahren der Wirtschaftlichkeitsbetrachtungen und
-Grundkenntnisse im Haushaltsrecht vermittelt.
+
+2.  die Aufgaben und die Organisation der Bundeswehr sowie
+
+
+3.  die Sicherheitspolitik.
+
+
+
+
+(2) Im Lehrgang „Wirtschaftlichkeit im Projektmanagement“ werden die
+Anwärterinnen und Anwärter in die Lage versetzt, die
+volkswirtschaftlichen und betriebswirtschaftlichen Zusammenhänge in
+den Projekten einschließlich der haushalts-, vergabe- und
+preisrechtlichen Aspekte einschätzen und bewerten zu können.
+
+(3) Im Lehrgang „Technisches Projektmanagement“ werden den
+Anwärterinnen und Anwärtern vermittelt
+
+1.  die grundlegenden Methoden des Projektmanagements und
+
+
+2.  die Bedarfsermittlungs-, Bedarfsdeckungs- und Nutzungsverfahren in der
+    Bundeswehr.
+
+
+
 
 (4) Die Anwärterinnen und Anwärter werden befähigt, die allgemeinen
 fachgebietsübergreifenden Aufgaben im Bereich der Wehrtechnik sowie
@@ -430,83 +600,13 @@ Funktionen im technischen Projektmanagement wahrzunehmen. Einzelheiten
 regelt der jeweilige Lehrplan.
 
 
-### § 14 Lehrgang „Fachtechnische Grundlagen einzelner wehrtechnischer Fachgebiete“
+### § 14 Lehrgang „Fachtechnik einzelner wehrtechnischer Fachgebiete“
 
-Behandelt werden im Wesentlichen:
-
-1.  im Fachgebiet Kraftfahr- und Gerätewesen:
-
-    a)  wehrtechnische Besonderheiten bei Fahrzeugen, Anlagen und Geräten,
-
-
-    b)  Baugruppen, Betrieb und Sonderfragen,
-
-
-
-
-
-2.  im Fachgebiet Luft- und Raumfahrtwesen:
-
-    a)  militärische Fluggeräte,
-
-
-    b)  Bord- und Bodenausrüstung für militärische Fluggeräte,
-        Zulassungswesen,
-
-
-
-
-
-3.  im Fachgebiet Schiffbau und Schiffsmaschinenbau:
-
-    a)  Entwurf und Konstruktion von Marineschiffen,
-
-
-    b)  schiffstechnische Anlagen, Waffen- und Führungsanlagen, Sondergebiete
-        bei dem Entstehungsgang und bei der Nutzung von Wehrmaterial See,
-
-
-
-
-
-4.  im Fachgebiet Informationstechnik und Elektronik:
-
-    a)  Informationsgewinnung und Informationsübertragung,
-
-
-    b)  Informationsverarbeitung und Systemtechnik,
-
-
-
-
-
-5.  im Fachgebiet Elektrotechnik und Elektroenergiewesen:
-
-    a)  wehrtechnische Forderungen, Energieversorgung, Regelung und Steuerung,
-
-
-    b)  elektrische Anlagen in Waffensystemen,
-
-
-
-
-
-6.  im Fachgebiet Systembewaffnung und Effektoren:
-
-    a)  Systembewaffnung,
-
-
-    b)  Effektoren.
-
-
-
-
-
-
-Die Anwärterinnen und Anwärter werden befähigt, die im
-Ingenieurstudium erworbenen Kenntnisse, ergänzt um die Besonderheiten
-der Wehrtechnik, in ihrem wehrtechnischen Fachgebiet anzuwenden.
-Einzelheiten regelt der Lehrplan.
+Im Lehrgang „Fachtechnik einzelner wehrtechnischer Fachgebiete“ wird
+das Wissen, das von den Anwärterinnen und Anwärtern im
+Hochschulstudium erworben worden ist, erweitert und vertieft durch die
+Vermittlung der theoretischen Grundlagen und Anwendungen in einem der
+wehrtechnischen Fachgebiete. Einzelheiten regelt der Lehrplan.
 
 
 ### § 15 Lehrgang „Rechtsgrundlagen in der Praxis“
@@ -518,23 +618,35 @@ vermittelt. Einzelheiten regelt der Lehrplan.
 
 ### § 16 Praktische Ausbildung
 
-(1) Die Anwärterinnen und Anwärter sollen in der Einstellungsbehörde,
-im Bundesamt für Informationsmanagement und Informationstechnik der
-Bundeswehr sowie bei den jeweils nachgeordneten wehrtechnischen oder
-wehrwissenschaftlichen Dienststellen ihre im Studium erworbenen
-Kenntnisse praktisch anwenden. Der Schwerpunkt liegt hierbei auf der
-vorgesehenen Erstverwendung der Anwärterinnen und Anwärter. Sie sollen
-ihr Wissen um wehrtechnische sowie wirtschaftliche Kenntnisse
-ergänzen. Das in den Lehrgängen erworbene Wissen soll interdisziplinär
-in der Praxis angewandt und vertieft werden. Die Anwärterinnen und
-Anwärter werden mit den besonderen Belangen der Bundeswehrverwaltung
-vertraut gemacht. Sie werden zur selbständigen und
-eigenverantwortlichen Arbeit angeleitet. Außerdem dient die praktische
-Ausbildung dem Erwerb praktischer Kenntnisse in Verwaltungs- und
-Haushaltsangelegenheiten sowie im Vergabe- und Vertragsrecht. Die
-Inhalte der praktischen Ausbildung regelt der Ausbildungsrahmenplan,
-den die Einstellungsbehörde erstellt. Dieser bedarf der Zustimmung des
-Bundesministeriums der Verteidigung.
+(1) In der praktischen Ausbildung sollen die Anwärterinnen und
+Anwärter ihre Kenntnisse, die sie im Hochschulstudium erworben haben,
+in den Dienststellen des Geschäftsbereichs des Bundesministeriums der
+Verteidigung anwenden, insbesondere in den Dienststellen
+
+1.  des Organisationsbereichs Ausrüstung, Informationstechnik und Nutzung,
+
+
+2.  des Organisationsbereichs Cyber- und Informationsraum sowie
+
+
+3.  des Organisationsbereichs Infrastruktur, Umweltschutz und
+    Dienstleistungen.
+
+
+
+Der Schwerpunkt liegt hierbei auf der vorgesehenen Erstverwendung der
+Anwärterinnen und Anwärter. Sie sollen ihr Wissen um wehrtechnische
+sowie wirtschaftliche Kenntnisse ergänzen. Das in den Lehrgängen
+erworbene Wissen soll interdisziplinär in der Praxis angewandt und
+vertieft werden. Die Anwärterinnen und Anwärter werden mit den
+besonderen Belangen der Bundeswehrverwaltung vertraut gemacht. Sie
+werden zur selbständigen und eigenverantwortlichen Arbeit angeleitet.
+Außerdem dient die praktische Ausbildung dem Erwerb praktischer
+Kenntnisse in Verwaltungs- und Haushaltsangelegenheiten sowie im
+Vergabe- und Vertragsrecht. Die Inhalte der praktischen Ausbildung
+regelt der Ausbildungsrahmenplan, den die Einstellungsbehörde
+erstellt. Dieser bedarf der Zustimmung des Bundesministeriums der
+Verteidigung.
 
 (2) Die Einstellungsbehörde kann vorsehen, dass die praktische
 Ausbildung teilweise auch bei anderen in- oder ausländischen
@@ -559,17 +671,21 @@ jeden Anwärter einen individuellen Ausbildungsplan für die gesamte
 Ausbildung, aus dem sich die Ausbildungsstellen und der zeitliche
 Ablauf der Ausbildung ergeben.
 
-(3) Die Einstellungsbehörde bestellt für alle Ausbildungsdienststellen
-Beamtinnen oder Beamte des höheren technischen Verwaltungsdienstes als
-Ausbildungsbeauftragte. Die Ausbildungsbeauftragten sind in
-erforderlichem Umfang von anderen Aufgaben freizustellen. Sie lenken
-und überwachen die Ausbildung der Anwärterinnen und Anwärter ihres
-Bereichs und stellen im Benehmen mit der Ausbildungsleitung und der
-jeweiligen Dienststellenleitung eine sorgfältige Ausbildung sicher.
-Die Ausbildungsbeauftragten beraten die Anwärterinnen und Anwärter
-sowie die Ausbilderinnen und Ausbilder in Fragen der Ausbildung und
-führen Besprechungen mit ihnen durch. Die Besprechungen finden zu
-Beginn, in der Mitte und am Ende eines jeden praktischen
+(3) Die Ausbildungsdienststellen bestellen eine Beamtin oder einen
+Beamten des höheren technischen Verwaltungsdienstes im
+Verwendungsbereich Wehrtechnik als Ausbildungsbeauftragte oder
+Ausbildungsbeauftragten. In Ausbildungsdienststellen ohne Beamtinnen
+oder Beamte dieser Laufbahn wird die Funktion von einer Beamtin oder
+einem Beamten des gehobenen technischen Verwaltungsdienstes im
+Verwendungsbereich Wehrtechnik ausgeübt. Die Ausbildungsbeauftragten
+sind in erforderlichem Umfang von anderen Aufgaben freizustellen. Sie
+lenken und überwachen die Ausbildung der Anwärterinnen und Anwärter
+ihres Bereichs und stellen im Benehmen mit der Ausbildungsleitung und
+der jeweiligen Dienststellenleitung eine sorgfältige Ausbildung
+sicher. Die Ausbildungsbeauftragten beraten die Anwärterinnen und
+Anwärter sowie die Ausbilderinnen und Ausbilder in Fragen der
+Ausbildung und führen Besprechungen mit ihnen durch. Die Besprechungen
+finden zu Beginn, in der Mitte und am Ende eines jeden praktischen
 Ausbildungsabschnitts sowie bei Bedarf statt; sie sind schriftlich
 oder elektronisch zu dokumentieren.
 
@@ -635,7 +751,7 @@ aufstellt. Die §§ 10 bis 16 gelten entsprechend, sofern die Inhalte
 nicht bereits in das Bachelorstudium eingeflossen sind.
 
 (3) Die praktische Ausbildung findet grundsätzlich in Dienststellen
-der Bundeswehrverwaltung statt. § 17 ist entsprechend anzuwenden. Die
+der Bundeswehr statt. § 17 ist entsprechend anzuwenden. Die
 Anwärterinnen und Anwärter werden während des Vorbereitungsdienstes
 einer Ausbildungsdienststelle zugewiesen. Einzelheiten regelt der
 Ausbildungsrahmenplan.
@@ -665,15 +781,13 @@ Hochschuleinrichtung zu berücksichtigen.
 
 ### § 22 Prüfungsamt
 
-(1) Das beim Bundesministerium der Verteidigung eingerichtete
-Prüfungsamt führt die Laufbahnprüfung durch. Es ist verantwortlich für
-die Entwicklung und die Beachtung einheitlicher Bewertungsmaßstäbe und
-vollzieht die Entscheidungen der Prüfungskommission.
+(1) Das Prüfungsamt beim Bildungszentrum der Bundeswehr führt die
+Laufbahnprüfung durch. Es ist verantwortlich für die Entwicklung und
+die Beachtung einheitlicher Bewertungsmaßstäbe und vollzieht die
+Entscheidungen der Prüfungskommission.
 
-(2) Das Prüfungsamt kann durch Erlass insbesondere organisatorische
-Aufgaben im Zusammenhang mit der Durchführung der Laufbahnprüfung auf
-die Einstellungsbehörde und die zentralen Lehrinstitute der
-Bundeswehrverwaltung übertragen.
+(2) Einzelne Aufgaben können vom Prüfungsamt auf andere Dienststellen
+übertragen werden.
 
 (3) Die kooperierende Hochschuleinrichtung führt die Modulprüfungen
 des Bachelorstudiums nach § 18 Absatz 2 durch, bewertet die
@@ -699,20 +813,24 @@ Kommissionen eingerichtet werden, wenn dies erforderlich ist wegen
 
 
 
-Die Beachtung einheitlicher Bewertungsmaßstäbe ist zu gewährleisten.
-Das Prüfungsamt bestellt die Mitglieder und Ersatzmitglieder der
-Prüfungskommissionen. Die Spitzenorganisationen der Gewerkschaften und
-der Berufsverbände des öffentlichen Dienstes können Mitglieder
-vorschlagen. Die Mitglieder und Ersatzmitglieder werden für die Dauer
-von höchstens fünf Jahren bestellt; Wiederbestellung ist zulässig.
+Werden mehrere Prüfungskommissionen für die schriftlichen
+Aufsichtsarbeiten oder die mündliche Prüfung eingerichtet, so kann das
+Prüfungsamt eine Beamtin oder einen Beamten des höheren technischen
+Verwaltungsdienstes im Verwendungsbereich Wehrtechnik mit der Leitung
+dieses Teils der Laufbahnprüfung beauftragen.Die Beachtung
+einheitlicher Bewertungsmaßstäbe ist zu gewährleisten. Das Prüfungsamt
+bestellt die Mitglieder und Ersatzmitglieder der Prüfungskommissionen.
+Die Spitzenorganisationen der Gewerkschaften und der Berufsverbände
+des öffentlichen Dienstes können Mitglieder vorschlagen. Die
+Mitglieder und Ersatzmitglieder werden für die Dauer von höchstens
+fünf Jahren bestellt; Wiederbestellung ist zulässig.
 
 (2) Mitglieder einer Prüfungskommission für die Bewertung der
 schriftlichen Aufsichtsarbeiten sind
 
-1.  eine Lehrkraft der Bundesakademie für Wehrverwaltung und Wehrtechnik
-    oder eine Beamtin oder ein Beamter des höheren technischen
-    Verwaltungsdienstes als Vorsitzende oder Vorsitzender (Erstprüferin
-    oder Erstprüfer) und
+1.  eine Lehrkraft des Bildungszentrums der Bundeswehr oder eine Beamtin
+    oder ein Beamter des höheren technischen Verwaltungsdienstes als
+    Vorsitzende oder Vorsitzender (Erstprüferin oder Erstprüfer) und
 
 
 2.  eine Beamtin oder ein Beamter des höheren oder gehobenen technischen
@@ -778,9 +896,9 @@ Prüfungen nach Satz 1 bestanden sind.
 (4) Die Prüfung nach Absatz 2 ist nichtöffentlich. Angehörige des
 Prüfungsamtes können teilnehmen. Das Prüfungsamt kann gestatten, dass
 andere mit der Ausbildung von Anwärterinnen und Anwärtern für den
-gehobenen technischen Dienst in der Bundeswehrverwaltung befasste
-Personen während der mündlichen Prüfung anwesend sind. Auf Wunsch von
-schwerbehinderten und diesen gleichgestellten behinderten
+gehobenen technischen Verwaltungsdienst in der Bundeswehrverwaltung
+befasste Personen während der mündlichen Prüfung anwesend sind. Auf
+Wunsch von schwerbehinderten und diesen gleichgestellten behinderten
 Anwärterinnen und Anwärtern kann während ihrer mündlichen Prüfung die
 Schwerbehindertenvertretung anwesend sein. Bei der Beratung über die
 Bewertung der Prüfungsleistungen dürfen nur die Mitglieder der
@@ -805,9 +923,13 @@ rechtzeitig informiert werden.
 
 (1) Die schriftlichen Aufsichtsarbeiten sind während der
 berufspraktischen Studienzeit anzufertigen. Die Aufgaben der
-Aufsichtsarbeiten bestimmt das Prüfungsamt auf Vorschlag der
-Einstellungsbehörde; die Lehrabteilungen der Bundesakademie für
-Wehrverwaltung und Wehrtechnik unterstützen die Erarbeitung.
+Aufsichtsarbeiten bestimmt das Prüfungsamt auf Vorschlag des
+Bundesamts für Ausrüstung, Informationstechnik und Nutzung der
+Bundeswehr. Bundesoberbehörden und höhere Kommandobehörden im
+Geschäftsbereich des Bundesministeriums der Verteidigung können dem
+Bundesamt für Ausrüstung, Informationstechnik und Nutzung der
+Bundeswehr Aufgabenvorschläge unterbreiten. Das Bildungszentrum der
+Bundeswehr unterstützt die Erarbeitung der Aufgaben.
 
 (2) Jeweils eine Aufgabe der Aufsichtsarbeiten ist aus
 
@@ -816,8 +938,8 @@ Wehrverwaltung und Wehrtechnik unterstützen die Erarbeitung.
     Absatz 1 bis 3) und
 
 
-2.  dem Prüfungsgebiet „Fachtechnische Grundlagen einzelner
-    wehrtechnischer Fachgebiete“ (§ 14)
+2.  dem Prüfungsgebiet „Fachtechnik einzelner wehrtechnischer Fachgebiete“
+    (§ 14)
 
 
 
@@ -836,15 +958,13 @@ Kennziffern und Namen erstellt, die geheim zu halten ist. Die
 Aufsichtsarbeiten bekannt gegeben werden.
 
 (6) Die Aufsichtführenden haben die Zeitpunkte des Beginns, der
-Unterbrechung und der Abgabe der Arbeit sowie in Anspruch genommene
-Prüfungserleichterungen und etwaige besondere Vorkommnisse schriftlich
-oder elektronisch zu dokumentieren.
+Unterbrechung und der Abgabe der Arbeit sowie gegebenenfalls in
+Anspruch genommenen Nachteilsausgleich und etwaige besondere
+Vorkommnisse schriftlich oder elektronisch zu dokumentieren.
 
 (7) Die Prüfungskommission bewertet die Aufsichtsarbeiten. Die
-Einteilung der Erstprüferin oder des Erstprüfers nimmt die
-Bundesakademie für Wehrverwaltung und Wehrtechnik vor. Die Einteilung
-der Zweitprüferin oder des Zweitprüfers nimmt die Einstellungsbehörde
-vor.
+Einteilung, wer Erstprüferin oder Erstprüfer und wer Zweitprüferin
+oder Zweitprüfer ist, nimmt das Prüfungsamt vor.
 
 (8) Jede Aufsichtsarbeit wird von zwei Prüfenden unabhängig
 voneinander nach einem vorab von ihnen gemeinsam festgelegten
@@ -875,17 +995,20 @@ Projekten und Aufgaben der Ausbildungsdienststelle innerhalb einer
 vorgegebenen Zeit fähig ist. Die Ergebnisse der Arbeit und ihre
 Bewertung durch die Prüfungskommission sind schriftlich zu
 dokumentieren. Die Praxisarbeit ist den Prüfenden (Absatz 5) im Rahmen
-einer Präsentation vorzustellen.
+einer Präsentation vorzustellen. Die Präsentation soll innerhalb einer
+Woche nach Abgabe der Praxisarbeit erfolgen.
 
-(2) Das Thema der Praxisarbeit wird von der Ausbildungsleitung
-bestimmt und ausgegeben. Die Anwärterinnen und Anwärter können
-gegenüber der Ausbildungsleitung Themenwünsche äußern.
+(2) Das Thema der Praxisarbeit wird vom Prüfungsamt festgelegt und
+ausgegeben. Für das Thema macht die Ausbildungsdienststelle, die von
+der Ausbildungsleitung zur Betreuung der Arbeit bestimmt ist, einen
+Vorschlag. Die Anwärterin oder der Anwärter kann für die eigene
+Praxisarbeit Themenwünsche äußern.
 
 (3) Die Praxisarbeit ist innerhalb von vier Wochen nach Aushändigung
 des Themas anzufertigen und der oder dem Ausbildungsbeauftragten
-vorzulegen. Liegen triftige Gründe vor, kann die Ausbildungsleitung
-die Frist auf schriftlichen oder elektronischen Antrag um höchstens
-zwei Wochen verlängern. Der Antrag ist unverzüglich zu stellen. Bei
+vorzulegen. Liegen triftige Gründe vor, kann die das Prüfungsamt die
+Frist auf schriftlichen oder elektronischen Antrag um höchstens zwei
+Wochen verlängern. Der Antrag ist unverzüglich zu stellen. Bei
 längerer Verhinderung ist ersatzweise eine neue Aufgabe zu stellen.
 
 (4) Die Praxisarbeit ist ohne fremde Hilfe anzufertigen; alle
@@ -1257,10 +1380,10 @@ Prüfungszeugnis zurückzugeben.
 (1) Eine Ausfertigung des Laufbahnprüfungszeugnisses ist mit den
 Aufsichtsarbeiten, der Dokumentation der Praxisarbeit und der
 schriftlichen Dokumentation der Laufbahnprüfung zu den Prüfungsakten
-zu nehmen. Die Prüfungsakten werden bei der Bundesakademie für
-Wehrverwaltung und Wehrtechnik mindestens fünf Jahre nach Beendigung
-des Vorbereitungsdienstes aufbewahrt. Sie sind spätestens zehn Jahre
-nach Beendigung des Vorbereitungsdienstes zu vernichten.
+zu nehmen. Die Prüfungsakten werden beim Prüfungsamt oder bei einer
+von ihm beauftragten Stelle mindestens fünf Jahre nach Beendigung des
+Vorbereitungsdienstes aufbewahrt. Sie sind spätestens zehn Jahre nach
+Beendigung des Vorbereitungsdienstes zu vernichten.
 
 (2) Die Anwärterinnen und Anwärter können nach Abschluss der
 mündlichen Prüfung Einsicht in die sie betreffenden Teile der
@@ -1271,17 +1394,17 @@ Prüfungsakten nehmen.
 
 (1) Wer Prüfungsteile nach § 24 Absatz 2 nicht bestanden hat, kann
 diese innerhalb von drei Monaten nach Mitteilung des Ergebnisses
-einmal wiederholen; das Prüfungsamt kann in begründeten Fällen eine
-zweite Wiederholung zulassen. Eine Wiederholung ist ausgeschlossen,
-wenn die Prüfungskommission eine Empfehlung nach Absatz 2 Satz 1
-ausspricht.
+einmal wiederholen; das Bundesministerium der Verteidigung kann in
+begründeten Fällen eine zweite Wiederholung zulassen.
 
 (2) Empfiehlt die Prüfungskommission bei der Festsetzung der
 Prüfungsergebnisse die Wiederholung einzelner Ausbildungsabschnitte,
 sind hierfür angemessene Fristen festzulegen und der Ausbildungsplan
-neu aufzustellen. Die bei der Wiederholung erreichten Rangpunkte und
-Noten ersetzen die bisherigen. Der Vorbereitungsdienst wird bis zum
-Ablauf der Wiederholungsfrist verlängert.
+neu aufzustellen. Die Prüfung kann wiederholt werden, nachdem die zur
+Wiederholung empfohlenen Ausbildungsabschnitte erneut absolviert
+worden sind. Die bei der Wiederholung erreichten Rangpunkte und Noten
+ersetzen die bisherigen. Der Vorbereitungsdienst wird bis zum Ablauf
+der Wiederholungsfrist verlängert.
 
 (3) Die Wiederholung von Prüfungen an einer kooperierenden
 Hochschuleinrichtung richtet sich nach der Studien- und
@@ -1295,39 +1418,40 @@ Prüfungsordnung.
 
 (1) Die Einstellungsbehörde gibt in einer Ausschreibung die
 Auswahlverfahren für den Aufstieg bekannt. Es können Auswahlverfahren
-für die Teilnahme am Vorbereitungsdienst nach § 2 Nummer 2, für die
-Teilnahme an einer fachspezifischen Qualifizierung nach § 38 der
+für die Teilnahme am Vorbereitungsdienst nach § 2 Nummer 2, für die
+Teilnahme an einer fachspezifischen Qualifizierung nach § 46 der
 Bundeslaufbahnverordnung und für die Teilnahme an
-Hochschulausbildungen nach § 39 der Bundeslaufbahnverordnung
+Hochschulausbildungen nach § 47 der Bundeslaufbahnverordnung
 durchgeführt werden. Auf die Durchführung des an einem zentralen
-Lehrinstitut stattfindenden Auswahlverfahrens ist § 7 entsprechend
-anzuwenden. Über die Zulassung zum Aufstieg entscheidet die
-personalbearbeitende Dienststelle. Dabei ist das Ergebnis des
+Lehrinstitut stattfindenden Auswahlverfahrens ist sind die §§ 7 bis 9g
+entsprechend anzuwenden. Über die Zulassung zum Aufstieg entscheidet
+die personalbearbeitende Dienststelle. Dabei ist das Ergebnis des
 Auswahlverfahrens zu berücksichtigen.
 
 (2) Die Einstellungsbehörde gestaltet die berufspraktische Einführung
-nach § 39 Absatz 2 der Bundeslaufbahnverordnung.
+nach § 48 Absatz 1 der Bundeslaufbahnverordnung.
 
 
 ## Kapitel 7 - Sonstige Vorschriften
 
 
-### § 38 Übergangsregelung
+### § 38 Übergangsvorschrift
 
-(1) Anwärterinnen und Anwärter, die ihren Vorbereitungsdienst vor dem
-14\. September 2009 begonnen haben, setzen ihn nach den bisher
-geltenden Bestimmungen fort. Aufstiegsbeamtinnen und Aufstiegsbeamte,
-die ihre Aufstiegsausbildung vor dem 14. September 2009 begonnen
-haben, setzen sie nach den bisher geltenden Bestimmungen fort.
-
-(2) Wird die Übergangsregelung des § 54 Absatz 2 Satz 1 der
-Bundeslaufbahnverordnung in der bis zum 26. Januar 2017 geltenden
-Fassung in Anspruch genommen, sind die §§ 24 bis 29 und 44 bis 50 der
-Verordnung über die Laufbahn, Ausbildung und Prüfung für den gehobenen
+Die Verordnung über die Ausbildung und Prüfung für den gehobenen
 technischen Dienst in der Bundeswehrverwaltung – Fachrichtung
-Wehrtechnik – vom 6. März 2002 (BGBl. I S. 1097), die zuletzt durch
-Artikel 3 Absatz 27 der Verordnung vom 12. Februar 2009 (BGBl. I S.
-320) geändert worden ist, weiter anzuwenden.
+Wehrtechnik – vom 2. Oktober 2009 (BGBl. I S. 3240, 3692), die zuletzt
+durch Artikel 63 des Gesetzes vom 20. August 2021 (BGBl. I S. 3932)
+geändert worden ist, ist weiter anzuwenden
+
+1.  auf Auswahlverfahren, die vor dem 1. August 2024 begonnen wurden, und
+
+
+2.  auf Anwärterinnen und Anwärter sowie Aufstiegsbeamtinnen und
+    Aufstiegsbeamte, die den Vorbereitungsdienst vor dem 1. August 2024
+    begonnen haben.
+
+
+
 
 
 ### § 39 Inkrafttreten, Außerkrafttreten

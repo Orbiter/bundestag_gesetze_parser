@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2016, 3234
 
 Zuletzt geändert durch
-:   Art. 6 G v. 22.12.2023 I Nr. 412
+:   Art. 13 G v. 16.1.2026 I Nr. 14
 
 
 ## Teil 1 - Regelungen für Menschen mit Behinderungen und von Behinderung bedrohte Menschen
@@ -182,8 +182,8 @@ sein:
     Leistungen nach § 5 Nummer 1 und 3,
 
 
-5.  die Träger der Sozialen Entschädigung für Leistungen nach § 5 Nummer 1
-    bis 5,
+5.  die Träger der Sozialen Entschädigung und der Träger der
+    Soldatenentschädigung für Leistungen nach § 5 Nummer 1 bis 5
 
 
 6.  die Träger der öffentlichen Jugendhilfe für Leistungen nach § 5 Nummer
@@ -198,20 +198,6 @@ sein:
 
 (2) Die Rehabilitationsträger nehmen ihre Aufgaben selbständig und
 eigenverantwortlich wahr.
-
-(3) Die Bundesagentur für Arbeit ist auch Rehabilitationsträger für
-die Leistungen zur Teilhabe am Arbeitsleben für erwerbsfähige
-Leistungsberechtigte mit Behinderungen im Sinne des Zweiten Buches,
-sofern nicht ein anderer Rehabilitationsträger zuständig ist. Die
-Zuständigkeit der Jobcenter nach § 6d des Zweiten Buches für die
-Leistungen zur beruflichen Teilhabe von Menschen mit Behinderungen
-nach § 16 Absatz 1 des Zweiten Buches bleibt unberührt. Die
-Bundesagentur für Arbeit stellt den Rehabilitationsbedarf fest. Sie
-beteiligt das zuständige Jobcenter nach § 19 Absatz 1 Satz 2 und berät
-das Jobcenter zu den von ihm zu erbringenden Leistungen zur Teilhabe
-am Arbeitsleben nach § 16 Absatz 1 Satz 3 des Zweiten Buches. Das
-Jobcenter entscheidet über diese Leistungen innerhalb der in Kapitel 4
-genannten Fristen.
 
 
 #### § 7 Vorbehalt abweichender Regelungen
@@ -288,11 +274,10 @@ der sozialen Pflegeversicherung bei der Sicherung des Vorrangs von
 Rehabilitation vor Pflege nach den §§ 18a und 31 des Elften Buches
 bleiben unberührt.
 
-(4) Absatz 1 gilt auch für die Jobcenter im Rahmen ihrer Zuständigkeit
-für Leistungen zur beruflichen Teilhabe nach § 6 Absatz 3 mit der
-Maßgabe, dass sie mögliche Rehabilitationsbedarfe erkennen und auf
-eine Antragstellung beim voraussichtlich zuständigen
-Rehabilitationsträger hinwirken sollen.
+(4) Absatz 1 gilt auch für die Jobcenter mit der Maßgabe, dass sie
+mögliche Rehabilitationsbedarfe erkennen und auf eine Antragstellung
+beim voraussichtlich zuständigen Rehabilitationsträger hinwirken
+sollen.
 
 
 #### § 10 Sicherung der Erwerbsfähigkeit
@@ -397,11 +382,10 @@ Arbeitgeber und an andere Rehabilitationsträger vermitteln. Für die
 Zusammenarbeit der Ansprechstellen gilt § 15 Absatz 3 des Ersten
 Buches entsprechend.
 
-(2) Absatz 1 gilt auch für Jobcenter im Rahmen ihrer Zuständigkeit für
-Leistungen zur beruflichen Teilhabe nach § 6 Absatz 3, für die
-Integrationsämter in Bezug auf Leistungen und sonstige Hilfen für
-schwerbehinderte Menschen nach Teil 3 und für die Pflegekassen als
-Träger der sozialen Pflegeversicherung nach dem Elften Buch.
+(2) Absatz 1 gilt auch für Jobcenter, für die Integrationsämter in
+Bezug auf Leistungen und sonstige Hilfen für schwerbehinderte Menschen
+nach Teil 3 und für die Pflegekassen als Träger der sozialen
+Pflegeversicherung nach dem Elften Buch.
 
 (3) Die Rehabilitationsträger, Integrationsämter und Pflegekassen
 können die Informationsangebote durch ihre Verbände und Vereinigungen
@@ -633,8 +617,9 @@ bei anderen Rehabilitationsträgern eingetretenen Leistungsbefreiung
 ergibt.
 
 (6) Für den Erstattungsanspruch des Trägers der Eingliederungshilfe,
-der öffentlichen Jugendhilfe und der Sozialen Entschädigung gilt § 108
-Absatz 2 des Zehnten Buches entsprechend.
+der öffentlichen Jugendhilfe, der Sozialen Entschädigung und der
+Soldatenentschädigung gilt § 108 Absatz 2 des Zehnten Buches
+entsprechend.
 
 
 #### § 17 Begutachtung
@@ -745,9 +730,11 @@ der Selbstbeschaffung noch keine Entscheidung vor, richtet sich der
 Anspruch gegen den leistenden Rehabilitationsträger.
 
 (7) Die Absätze 1 bis 5 gelten nicht für die Träger der
-Eingliederungshilfe, der öffentlichen Jugendhilfe und der Sozialen
+Eingliederungshilfe, der öffentlichen Jugendhilfe, der Sozialen
 Entschädigung, soweit dieser Leistungen zur Teilhabe nach § 62 Satz 1
-Nummer 1 bis 3 des Vierzehnten Buches erbringt.
+Nummer 1 bis 3 des Vierzehnten Buches erbringt, sowie der
+Soldatenentschädigung, soweit dieser Leistungen nach den Kapiteln 4
+und 5 des Soldatenentschädigungsgesetzes erbringt.
 
 
 #### § 19 Teilhabeplan
@@ -912,7 +899,11 @@ die Vorschriften für den Hilfeplan nach den §§ 36, 36b und 37c des
 Achten Buches ergänzend. Ist der Träger der Sozialen Entschädigung der
 für die Durchführung des Teilhabeplanverfahrens verantwortliche
 Rehabilitationsträger, gelten für ihn die Vorschriften für das
-Fallmanagement nach § 30 des Vierzehnten Buches ergänzend.
+Fallmanagement nach § 30 des Vierzehnten Buches ergänzend. Ist der
+Träger der Soldatenentschädigung der für die Durchführung des
+Teilhabeplanverfahrens verantwortliche Rehabilitationsträger, gelten
+für ihn die Vorschriften für das Fallmanagement nach dem
+Soldatenentschädigungsgesetz ergänzend.
 
 
 #### § 22 Einbeziehung anderer öffentlicher Stellen
@@ -1221,13 +1212,15 @@ erbracht. Das Persönliche Budget kann auch nicht trägerübergreifend
 von einem einzelnen Leistungsträger erbracht werden. Budgetfähig sind
 auch die neben den Leistungen nach Satz 1 erforderlichen Leistungen
 der Krankenkassen und der Pflegekassen, Leistungen der Träger der
-Unfallversicherung bei Pflegebedürftigkeit Leistungen der Träger der
+Unfallversicherung bei Pflegebedürftigkeit, Leistungen der Träger der
 Sozialen Entschädigung zur Krankenbehandlung, bei Pflegebedürftigkeit
-und zur Weiterführung des Haushalts sowie Hilfe zur Pflege der
-Sozialhilfe, die sich auf alltägliche und regelmäßig wiederkehrende
-Bedarfe beziehen und als Geldleistungen oder durch Gutscheine erbracht
-werden können. An die Entscheidung sind die Leistungsberechtigten für
-die Dauer von sechs Monaten gebunden.
+und zur Weiterführung des Haushalts, Leistungen des Trägers der
+Soldatenentschädigung zur medizinischen Versorgung und bei
+Pflegebedürftigkeit sowie Hilfe zur Pflege der Sozialhilfe, die sich
+auf alltägliche und regelmäßig wiederkehrende Bedarfe beziehen und als
+Geldleistungen oder durch Gutscheine erbracht werden können. An die
+Entscheidung sind die Leistungsberechtigten für die Dauer von sechs
+Monaten gebunden.
 
 (2) Persönliche Budgets werden in der Regel als Geldleistung
 ausgeführt, bei laufenden Leistungen monatlich. In begründeten Fällen
@@ -1249,12 +1242,12 @@ unberührt.
 Persönlichen Budgets beantragt, ist der nach § 14 leistende
 Rehabilitationsträger für die Durchführung des Verfahrens zuständig.
 Satz 1 findet entsprechend Anwendung auf die Pflegekassen und die
-Integrationsämter sowie auf die Träger der Sozialen Entschädigung,
-soweit diese Leistungen nach Absatz 1 Satz 5 erbringen. Enthält das
-Persönliche Budget Leistungen, für die der Leistungsträger nach den
-Sätzen 1 und 2 nicht Leistungsträger nach § 6 Absatz 1 sein kann,
-leitet er den Antrag insoweit unverzüglich dem nach seiner Auffassung
-zuständigen Leistungsträger nach § 15 zu.
+Integrationsämter sowie auf die Träger der Sozialen Entschädigung und
+der Soldatenentschädigung, soweit diese Leistungen nach Absatz 1 Satz
+5 erbringen. Enthält das Persönliche Budget Leistungen, für die der
+Leistungsträger nach den Sätzen 1 und 2 nicht Leistungsträger nach § 6
+Absatz 1 sein kann, leitet er den Antrag insoweit unverzüglich dem
+nach seiner Auffassung zuständigen Leistungsträger nach § 15 zu.
 
 (4) Der Leistungsträger nach Absatz 3 und die Leistungsberechtigten
 schließen zur Umsetzung des Persönlichen Budgets eine Zielvereinbarung
@@ -2818,11 +2811,15 @@ einer anerkannten Werkstatt für behinderte Menschen erbringen
 
 
 3.  die Träger der Rentenversicherung unter den Voraussetzungen der §§ 11
-    bis 13 des Sechsten Buches und
+    bis 13 des Sechsten Buches,
 
 
 4.  die Träger der Sozialen Entschädigung unter den Voraussetzungen der §§
-    63 und 64 des Vierzehnten Buches.
+    63 und 64 des Vierzehnten Buches und
+
+
+5.  der Träger der Soldatenentschädigung unter den Voraussetzungen des
+    Kapitels 4 des Soldatenentschädigungsgesetzes.
 
 
 
@@ -2836,6 +2833,10 @@ behinderte Menschen erbringen
 
 2.  die Träger der Sozialen Entschädigung unter den Voraussetzungen des §
     63 des Vierzehnten Buches,
+
+
+2a. der Träger der Soldatenentschädigung unter den Voraussetzungen des
+    Kapitels 4 des Soldatenentschädigungsgesetzes,
 
 
 3.  die Träger der öffentlichen Jugendhilfe unter den Voraussetzungen des
@@ -2867,8 +2868,9 @@ nach § 57 haben, sowie für die Leistung des Budgets für Arbeit.
 am Arbeitsleben der in § 6 Absatz 1 Nummer 1 bis 5 genannten
 Rehabilitationsträger werden ergänzt durch
 
-1.  Krankengeld, Krankengeld der Sozialen Entschädigung, Verletztengeld,
-    Übergangsgeld, Ausbildungsgeld oder Unterhaltsbeihilfe,
+1.  Krankengeld, Krankengeld der Sozialen Entschädigung, Krankengeld der
+    Soldatenentschädigung, Verletztengeld, Übergangsgeld, Ausbildungsgeld
+    oder Unterhaltsbeihilfe,
 
 
 2.  Beiträge und Beitragszuschüsse
@@ -2947,7 +2949,12 @@ leisten
 
 
 4.  die Träger der Sozialen Entschädigung Krankengeld der Sozialen
-    Entschädigung nach Maßgabe des § 47 des Vierzehnten Buches.
+    Entschädigung nach Maßgabe des § 47 des Vierzehnten Buches,
+
+
+5.  Krankengeld der Soldatenentschädigung: der Träger der
+    Soldatenentschädigung nach Maßgabe des § 19 des
+    Soldatenentschädigungsgesetzes.
 
 
 
@@ -2968,7 +2975,11 @@ leisten Übergangsgeld
 
 
 4.  die Träger der Sozialen Entschädigung nach Maßgabe dieses Buches und
-    des § 64 des Vierzehnten Buches.
+    des § 64 des Vierzehnten Buches,
+
+
+5.  der Träger der Soldatenentschädigung nach Maßgabe dieses Buches und
+    des § 30 des Soldatenentschädigungsgesetzes.
 
 
 
@@ -3003,9 +3014,10 @@ leisten
 
 
 (6) Das Krankengeld, das Krankengeld der Sozialen Entschädigung, das
-Verletztengeld und das Übergangsgeld werden für Kalendertage gezahlt;
-wird die Leistung für einen ganzen Kalendermonat gezahlt, so wird
-dieser mit 30 Tagen angesetzt.
+Krankengeld der Soldatenentschädigung, das Verletztengeld und das
+Übergangsgeld werden für Kalendertage gezahlt; wird die Leistung für
+einen ganzen Kalendermonat gezahlt, so wird dieser mit 30 Tagen
+angesetzt.
 
 
 #### § 66 Höhe und Berechnung des Übergangsgelds
@@ -3049,7 +3061,9 @@ Leisten Träger der Sozialen Entschädigung nach dem Vierzehnten Buch
 Übergangsgeld, beträgt das Übergangsgeld 80 Prozent der
 Berechnungsgrundlage, wenn die Leistungsempfänger eine der
 Voraussetzungen von Satz 3 Nummer 1 erfüllen, und im Übrigen 70
-Prozent der Berechnungsgrundlage.
+Prozent der Berechnungsgrundlage. Die Höhe des Übergangsgeldes nach
+dem Soldatenentschädigungsgesetz richtet sich nach § 30 Absatz 2 des
+Soldatenentschädigungsgesetzes.
 
 (2) Das Nettoarbeitsentgelt nach Absatz 1 Satz 1 berechnet sich, indem
 der Anteil am Nettoarbeitsentgelt, der sich aus dem kalendertäglichen
@@ -3179,23 +3193,25 @@ Kalendermonat vor dem Beginn der Leistung gilt.
 #### § 69 Kontinuität der Bemessungsgrundlage
 
 Haben Leistungsempfänger Krankengeld, Verletztengeld, Krankengeld der
-Sozialen Entschädigung oder Übergangsgeld bezogen und wird im
-Anschluss daran eine Leistung zur medizinischen Rehabilitation oder
-zur Teilhabe am Arbeitsleben ausgeführt, so wird bei der Berechnung
-der diese Leistungen ergänzenden Leistung zum Lebensunterhalt von dem
-bisher zugrunde gelegten Arbeitsentgelt ausgegangen; es gilt die für
-den Rehabilitationsträger jeweils geltende Beitragsbemessungsgrenze.
+Sozialen Entschädigung, Krankengeld der Soldatenentschädigung oder
+Übergangsgeld bezogen und wird im Anschluss daran eine Leistung zur
+medizinischen Rehabilitation oder zur Teilhabe am Arbeitsleben
+ausgeführt, so wird bei der Berechnung der diese Leistungen
+ergänzenden Leistung zum Lebensunterhalt von dem bisher zugrunde
+gelegten Arbeitsentgelt ausgegangen; es gilt die für den
+Rehabilitationsträger jeweils geltende Beitragsbemessungsgrenze.
 
 
 #### § 70 Anpassung der Entgeltersatzleistungen
 
 (1) Die Berechnungsgrundlage, die dem Krankengeld, dem Krankengeld der
-Sozialen Entschädigung, dem Verletztengeld und dem Übergangsgeld
-zugrunde liegt, wird jeweils nach Ablauf eines Jahres ab dem Ende des
-Bemessungszeitraums an die Entwicklung der Bruttoarbeitsentgelte
-angepasst und zwar entsprechend der Veränderung der Bruttolöhne und
--gehälter je Arbeitnehmer (§ 68 Absatz 2 Satz 1 des Sechsten Buches)
-vom vorvergangenen zum vergangenen Kalenderjahr.
+Sozialen Entschädigung, dem Krankengeld der Soldatenentschädigung, dem
+Verletztengeld und dem Übergangsgeld zugrunde liegt, wird jeweils nach
+Ablauf eines Jahres ab dem Ende des Bemessungszeitraums an die
+Entwicklung der Bruttoarbeitsentgelte angepasst und zwar entsprechend
+der Veränderung der Bruttolöhne und -gehälter je Arbeitnehmer (§ 68
+Absatz 2 Satz 1 des Sechsten Buches) vom vorvergangenen zum
+vergangenen Kalenderjahr.
 
 (2) Der Anpassungsfaktor wird errechnet, indem die Bruttolöhne und
 -gehälter je Arbeitnehmer für das vergangene Kalenderjahr durch die
@@ -3219,9 +3235,10 @@ weitere Leistungen zur Teilhabe am Arbeitsleben erforderlich, während
 derer dem Grunde nach Anspruch auf Übergangsgeld besteht, und können
 diese Leistungen aus Gründen, die die Leistungsempfänger nicht zu
 vertreten haben, nicht unmittelbar anschließend durchgeführt werden,
-werden das Verletztengeld, das Krankengeld der Sozialen Entschädigung
-oder das Übergangsgeld für diese Zeit weitergezahlt. Voraussetzung für
-die Weiterzahlung ist, dass
+werden das Verletztengeld, das Krankengeld der Sozialen Entschädigung,
+das Krankengeld der Soldatenentschädigung oder das Übergangsgeld für
+diese Zeit weitergezahlt. Voraussetzung für die Weiterzahlung ist,
+dass
 
 1.  die Leistungsempfänger arbeitsunfähig sind und keinen Anspruch auf
     Krankengeld mehr haben oder
@@ -6221,8 +6238,25 @@ Neufeststellung unanfechtbar geworden ist.
 #### § 153 Verordnungsermächtigung
 
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
-Zustimmung des Bundesrates nähere Vorschriften über die Gestaltung der
-Ausweise, ihre Gültigkeit und das Verwaltungsverfahren zu erlassen.
+Zustimmung des Bundesrates nähere Vorschriften zu erlassen über
+
+1.  das Format, die Gestaltung und die Gültigkeit der Ausweise nach § 152
+    Absatz 5,
+
+
+2.  das Format, die Ausstellung, die Gestaltung und die Gültigkeit von
+    Ausweisen für Menschen mit Behinderungen nach dem gemeinsamen
+    einheitlichen Muster der Europäischen Union,
+
+
+3.  das entsprechende Verwaltungsverfahren sowie
+
+
+4.  die Anerkennung der Ausweise nach Nummer 2, die von einem anderen
+    Mitgliedstaat ausgestellt worden sind.
+
+
+
 
 (2) Das Bundesministerium für Arbeit und Soziales wird ermächtigt,
 durch Rechtsverordnung mit Zustimmung des Bundesrates die Grundsätze
@@ -7518,8 +7552,9 @@ Bezirks- und Hauptschwerbehindertenvertretung sowie für die
 Schwerbehindertenvertretung der obersten Dienstbehörde, wenn bei einer
 mehrstufigen Verwaltung Stufenvertretungen nicht gewählt sind. Die
 nach Satz 2 zuständige Schwerbehindertenvertretung ist auch in
-persönlichen Angelegenheiten schwerbehinderter Menschen, über die eine
-übergeordnete Dienststelle entscheidet, zuständig; sie gibt der
+Angelegenheiten, die einen einzelnen oder die schwerbehinderten
+Menschen als Gruppe berühren und über die eine übergeordnete
+Dienststelle entscheidet, zuständig; sie gibt der
 Schwerbehindertenvertretung der Dienststelle, die den
 schwerbehinderten Menschen beschäftigt, Gelegenheit zur Äußerung. Satz
 3 gilt nicht in den Fällen, in denen der Personalrat der
@@ -9770,20 +9805,5 @@ Behinderungen nach § 8 Nummer 4 des Zwölften Buches bestimmt sind.
 zu zahlenden Ausgleichsabgabe gilt nicht als Neubestimmung der
 Ausgleichsabgabe im Sinne des § 160 Absatz 3 Satz 2.
 
-(
-10             ) Für Personen, die Leistungen nach dem
-Soldatenversorgungsgesetz in der Fassung der Bekanntmachung vom 16.
-September 2009 (BGBl. I S. 3054), das zuletzt durch Artikel 19 des
-Gesetzes vom 4. August 2019 (BGBl. I S. 1147) geändert worden ist, in
-Verbindung mit dem Bundesversorgungsgesetz in der Fassung der
-Bekanntmachung vom 22. Januar 1982 (BGBl. I S. 21), das zuletzt durch
-Artikel 1 der Verordnung vom 13. Juni 2019 (BGBl. I S. 793) geändert
-worden ist, erhalten, gelten die Vorschriften des § 6 Absatz 1 Nummer
-5, des § 16 Absatz 6, des § 18 Absatz 7, des § 63 Absatz 1 Nummer 4
-und Absatz 2 Nummer 2, des § 64 Absatz 1 Nummer 1 und Absatz 2 Satz 2,
-des § 65 Absatz 1 Nummer 4, Absatz 2 Nummer 4, Absatz 5 Nummer 2,
-Absatz 6 und 7, des § 66 Absatz 1 Satz 4, der §§ 69, 70 Absatz 1, des
-§ 71 Absatz 1 Satz 1, des § 152 Absatz 1 Satz 1 und 4, des § 228
-Absatz 4 Nummer 2 und des § 241 Absatz 5 in der am 31. Dezember 2023
-geltenden Fassung weiter.
+(10) (weggefallen)
 

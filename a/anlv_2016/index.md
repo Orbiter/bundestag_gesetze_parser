@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2016, 769
 
 Zuletzt geändert durch
-:   Art. 4 Abs. 10 G v. 10.7.2020 I 1633
+:   Art. 62 Abs. 9 G v. 4.2.2026 I Nr. 33
 
 
 ## Eingangsformel
@@ -335,7 +335,7 @@ Versicherungsunternehmen bestimmt die Aufsichtsbehörde.
         Kapitalanlagegesetzbuchs,
 
         aa) die direkt oder indirekt in Vermögensgegenstände nach § 261 Absatz 1
-            Nummer 4 des Kapitalanlagegesetzbuchs, eigenkapitalähnliche
+            Nummer 2 und 4 des Kapitalanlagegesetzbuchs, eigenkapitalähnliche
             Instrumente sowie andere Instrumente der Unternehmensfinanzierung
             investieren und
 
@@ -390,9 +390,11 @@ Versicherungsunternehmen bestimmt die Aufsichtsbehörde.
         inländischen geschlossenen Publikums-AIF im Sinne des § 1 Absatz 3 in
         Verbindung mit Absatz 6 Satz 2 des Kapitalanlagegesetzbuchs,
 
-        aa) die direkt oder indirekt in Vermögensgegenstände nach § 231 Absatz 1
-            Satz 1 Nummer 1 bis 6 sowie § 235 Absatz 1 des
-            Kapitalanlagegesetzbuchs investieren und
+        aa) die direkt oder indirekt investieren in Vermögensgegenstände nach §
+            231 Absatz 1 Satz 1 Nummer 1 bis 6, 8 und Absatz 3 sowie § 235 Absatz
+            1 des Kapitalanlagegesetzbuchs und in Liquiditätsanlagen, die
+            näherungsweise den Anforderungen des § 253 Absatz 1 Satz 1 des
+            Kapitalanlagegesetzbuchs entsprechen, und
 
 
         bb) die von einer Kapitalverwaltungsgesellschaft verwaltet werden, die
@@ -513,11 +515,15 @@ Versicherungsunternehmen bestimmt die Aufsichtsbehörde.
 
 
 
-(2) Nach Maßgabe des § 3 Absatz 2 Nummer 4 kann das Sicherungsvermögen
-darüber hinaus in Anlagen angelegt werden, die in Absatz 1 nicht
-genannt sind, die Voraussetzungen nach Absatz 1 nicht erfüllen oder
-die Begrenzungen des § 3 Absatz 2 Nummer 1 bis 3, Absatz 3 bis 5
-übersteigen (Öffnungsklausel).
+(2) Das Sicherungsvermögen kann darüber hinaus in Anlagen angelegt
+werden, die in Absatz 1 nicht genannt sind, die Voraussetzungen nach
+Absatz 1 nicht erfüllen oder die Begrenzungen des § 3 Absatz 2 Nummer
+1 bis 3, Absatz 3 bis 5 und § 4 Absatz 1 bis 4 übersteigen
+(Öffnungsklausel). Im Rahmen der Öffnungsklausel nach Satz 1 angelegte
+Anlagen sind insgesamt auf 5 Prozent des Sicherungsvermögens
+beschränkt; unter Wahrung der Belange der Versicherten kann diese
+Anlagegrenze mit Genehmigung der Aufsichtsbehörde bis auf 10 Prozent
+des Sicherungsvermögens erhöht werden.
 
 (3) Die Aufsichtsbehörde kann dem Versicherungsunternehmen auch
 Anlagen in Vermögenswerten, die in den vorangehenden Absätzen nicht
@@ -580,22 +586,14 @@ erstreckt, sind auf ein vorsichtiges Maß zu beschränken.
 
 
 3.  direkte und indirekte Anlagen nach § 2 Absatz 1 Nummer 4 Buchstabe c
-    dürfen 5 Prozent des Sicherungsvermögens nicht übersteigen;
-
-
-4.  im Rahmen der Öffnungsklausel nach § 2 Absatz 2 angelegte Anlagen sind
-    auf 5 Prozent des Sicherungsvermögens beschränkt; unter Wahrung der
-    Belange der Versicherten kann diese Anlagegrenze mit Genehmigung der
-    Aufsichtsbehörde bis auf 10 Prozent des Sicherungsvermögens erhöht
-    werden; die Begrenzung auf 1 Prozent des Sicherungsvermögens in § 4
-    Absatz 4 bleibt unberührt.
+    dürfen 5 Prozent des Sicherungsvermögens nicht übersteigen.
 
 
 
 
 (3) Direkte und indirekte Anlagen nach § 2 Absatz 1 Nummer 9, 12 und
 13 dürfen zusammen mit Anlagen, die den Quoten des Absatzes 2 Nummer 2
-und 3 unterliegen, insgesamt 35 Prozent des Sicherungsvermögens nicht
+und 3 unterliegen, insgesamt 40 Prozent des Sicherungsvermögens nicht
 übersteigen. Auf diese Quote sind auch Anlagen nach § 2 Absatz 1
 Nummer 2 Buchstabe a anzurechnen, soweit Anlagen nach § 2 Absatz 1
 Nummer 12 Gegenstand der Wertpapierdarlehen sind. Innerhalb der Quote
@@ -630,6 +628,14 @@ Prozent des Sicherungsvermögens herabsetzen, wenn es zur Wahrung der
 Belange der Versicherten erforderlich ist. Die gleiche Befugnis steht
 der Aufsichtsbehörde im Falle des § 135 Absatz 1 erste Alternative des
 Versicherungsaufsichtsgesetzes zu.
+
+(7) Direkte und indirekte Anlagen zur Finanzierung von
+Infrastrukturanlagen und Infrastrukturunternehmen werden im Umfang von
+bis zu 5 Prozent des Sicherungsvermögens nicht auf die Quoten nach den
+Absätzen 1 bis 6 angerechnet. Anlagen nach Satz 1 müssen nach § 2
+zulässig sein und der Errichtung, dem Ausbau, der Sanierung, der
+Erhaltung, dem Bereitstellen, dem Halten, dem Betreiben oder dem
+Bewirtschaften von Infrastruktur dienen.
 
 
 ## § 4 Streuung

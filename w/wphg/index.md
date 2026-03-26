@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 9.9.1998 I 2708;
 
 Zuletzt geändert durch
-:   Art. 5 G v. 11.12.2023 I Nr. 354
+:   Art. 9 G v. 4.2.2026 I Nr. 33
 
 Art. 1 dient auch der Umsetzung der Richtlinie 88/627/EWG des Rates
 der Europäischen Gemeinschaften vom 12. Dezember 1988 über die bei
@@ -146,7 +146,16 @@ der Vorschriften betreffend Insidergeschäfte (ABl. EG Nr. L 334/30).
         Fassung,
 
 
-    k)  der Verordnung (EU) 2019/2088 des Europäischen Parlaments und des
+    k)  der Verordnung (EU) 2017/1129 des Europäischen Parlaments und des
+        Rates vom 14. Juni 2017 über den Prospekt, der beim öffentlichen
+        Angebot von Wertpapieren oder bei deren Zulassung zum Handel an einem
+        geregelten Markt zu veröffentlichen ist und zur Aufhebung der
+        Richtlinie 2003/71/EG (ABl. L 168 vom 30.6.2017, S. 12), die zuletzt
+        durch die Verordnung (EU) 2023/2869 (ABl. L 2023/2869, 20.12.2023)
+        geändert worden ist, in der jeweils geltenden Fassung,
+
+
+    l)  der Verordnung (EU) 2019/2088 des Europäischen Parlaments und des
         Rates vom 27. November 2019 über nachhaltigkeitsbezogene
         Offenlegungspflichten im Finanzdienstleistungssektor (ABl. L 317 vom
         9\.12.2019, S. 1), die durch die Verordnung (EU) 2020/852 (ABl. L 198
@@ -155,13 +164,13 @@ der Vorschriften betreffend Insidergeschäfte (ABl. EG Nr. L 334/30).
         Finanzportfolioverwaltung betreiben,
 
 
-    k)  der Verordnung (EU) 2019/1238 des Europäischen Parlaments und des
+    m)  der Verordnung (EU) 2019/1238 des Europäischen Parlaments und des
         Rates vom 20. Juni 2019 über ein Paneuropäisches Privates
         Pensionsprodukt (PEPP) (ABl. L 198 vom 25.7.2019, S. 1) in der jeweils
         geltenden Fassung,
 
 
-    l)  der Verordnung (EU) 2020/852 des Europäischen Parlaments und des Rates
+    n)  der Verordnung (EU) 2020/852 des Europäischen Parlaments und des Rates
         vom 18. Juni 2020 über die Einrichtung eines Rahmens zur Erleichterung
         nachhaltiger Investitionen und zur Änderung der Verordnung (EU)
         2019/2088 (ABl. L 198 vom 22.6.2020, S. 13), sofern es sich um
@@ -169,11 +178,50 @@ der Vorschriften betreffend Insidergeschäfte (ABl. EG Nr. L 334/30).
         Finanzportfolioverwaltung betreiben,
 
 
-    l)  der Verordnung (EU) 2020/1503 des Europäischen Parlaments und des
+    o)  der Verordnung (EU) 2020/1503 des Europäischen Parlaments und des
         Rates vom 7. Oktober 2020 über Europäische
         Schwarmfinanzierungsdienstleister für Unternehmen und zur Änderung der
         Verordnung (EU) 2017/1129 und der Richtlinie (EU) 2019/1937 (ABl. L
-        347 vom 20.10.2020, S. 1) in der jeweils geltenden Fassung.
+        347 vom 20.10.2020, S. 1) in der jeweils geltenden Fassung,
+
+
+    p)  der Delegierten Verordnungen und Durchführungsverordnungen der
+        Europäischen Kommission zur Richtlinie 2014/65/EU des Europäischen
+        Parlaments und des Rates vom 15. Mai 2014 über Märkte für
+        Finanzinstrumente sowie zur Änderung der Richtlinien 2002/92/EG und
+        2011/61/EU (ABl. L 173 vom 12.6.2014, S. 349; L 74 vom 18.3.2015, S.
+        38; L 188 vom 13.7.2016, S. 28; L 273 vom 8.10.2016, S. 35; L 64 vom
+        10\.3.2017, S. 116; L 278 vom 27.10.2017, S. 56), die zuletzt durch die
+        Verordnung (EU) 2022/858 (ABl. L 151 vom 2.6.2022, S. 1) geändert
+        worden ist, in der jeweils geltenden Fassung,
+
+
+    q)  der Delegierten Verordnungen und Durchführungsverordnungen der
+        Europäischen Kommission zur Richtlinie 2004/109/EG des Europäischen
+        Parlaments und des Rates vom 15. Dezember 2004 zur Harmonisierung der
+        Transparenzanforderungen in Bezug auf Informationen über Emittenten,
+        deren Wertpapiere zum Handel auf einem geregelten Markt zugelassen
+        sind, und zur Änderung der Richtlinie 2001/34/EG (ABl. L 390 vom
+        31\.12.2004, S. 38), die zuletzt durch die Richtlinie (EU) 2022/2464
+        (ABl. L 322 vom 16.12.2022, S. 15) geändert worden ist, in der jeweils
+        geltenden Fassung und
+
+
+    r)  der Verordnung (EU) 2022/2554 des Europäischen Parlaments und des
+        Rates vom 14. Dezember 2022 über die digitale operationale Resilienz
+        im Finanzsektor und zur Änderung der Verordnungen (EG) Nr. 1060/2009,
+        (EU) Nr. 648/2012, (EU) Nr. 600/2014, (EU) Nr. 909/2014 und (EU)
+        2016/1011 (ABl. L 333 vom 27.12.2022, S. 1) in der jeweils geltenden
+        Fassung,
+
+
+    s)  der Verordnung (EU) 2023/2631 des Europäischen Parlaments und des
+        Rates vom 22. November 2023 über europäische grüne Anleihen sowie
+        fakultative Offenlegungen zu als ökologisch nachhaltig vermarkteten
+        Anleihen und zu an Nachhaltigkeitsziele geknüpften Anleihen (ABl. L,
+        2023/2631, 30.11.2023), die durch die Verordnung (EU) 2023/2869 (ABl.
+        L, 2023/2869, 20.12.2023) geändert worden ist, in der jeweils
+        geltenden Fassung.
 
 
 
@@ -283,8 +331,14 @@ es sei denn, es handelt sich um Zahlungsinstrumente.
 
 
     b)  Devisen, soweit das Geschäft nicht die in Artikel 10 der Delegierten
-        Verordnung (EU) 2017/565 genannten Voraussetzungen erfüllt, oder
-        Rechnungseinheiten,
+        Verordnung (EU) 2017/565 genannten Voraussetzungen erfüllt,
+        Rechnungseinheiten oder Kryptowerte im Sinne des Artikels 3 Absatz 1
+        Nummer 5 der Verordnung (EU) 2023/1114 des Europäischen Parlaments und
+        des Rates vom 31. Mai 2023 über Märkte für Kryptowerte und zur
+        Änderung der Verordnungen (EU) Nr. 1093/2010 und (EU) Nr. 1095/2010
+        sowie der Richtlinien 2013/36/EU und (EU) 2019/1937 (ABl. L 150 vom
+        9\.6.2023, S. 40) ohne Kryptowerte nach Artikel 4 Absatz 3 Buchstabe c
+        der Verordnung (EU) 2023/1114
 
 
     c)  Zinssätze oder andere Erträge,
@@ -426,13 +480,14 @@ Nr. 596/2014.
         unter Einsatz des eigenen Kapitals (Market-Making),
 
 
-    b)  häufige organisierte und systematische Betreiben von Handel für eigene
-        Rechnung in erheblichem Umfang außerhalb eines organisierten Marktes
-        oder eines multilateralen oder organisierten Handelssystems, wenn
-        Kundenaufträge außerhalb eines geregelten Marktes oder eines
-        multilateralen oder organisierten Handelssystems ausgeführt werden,
-        ohne dass ein multilaterales Handelssystem betrieben wird
-        (systematische Internalisierung),
+    b)  häufige organisierte und systematische Betreiben von Handel mit
+        Aktien, Aktienzertifikaten, börsengehandelten Fonds, Zertifikaten und
+        anderen vergleichbaren Finanzinstrumenten für eigene Rechnung
+        außerhalb eines organisierten Marktes oder eines multilateralen oder
+        organisierten Handelssystems, wenn Kundenaufträge außerhalb eines
+        geregelten Marktes oder eines multilateralen oder organisierten
+        Handelssystems ausgeführt werden, ohne dass ein multilaterales
+        Handelssystem betrieben wird (systematische Internalisierung),
 
 
     c)  Anschaffen oder Veräußern von Finanzinstrumenten für eigene Rechnung
@@ -502,28 +557,17 @@ Das Finanzkommissionsgeschäft, der Eigenhandel und die
 Abschlussvermittlung umfassen den Abschluss von Vereinbarungen über
 den Verkauf von Finanzinstrumenten, die von einem
 Wertpapierdienstleistungsunternehmen oder einem Kreditinstitut
-ausgegeben werden, im Zeitpunkt ihrer Emission. Ob ein häufiger
-systematischer Handel vorliegt, bemisst sich nach der Zahl der
-Geschäfte außerhalb eines Handelsplatzes (OTC-Handel) mit einem
-Finanzinstrument zur Ausführung von Kundenaufträgen, die von dem
-Wertpapierdienstleistungsunternehmen für eigene Rechnung durchgeführt
-werden. Ob ein Handel in erheblichem Umfang vorliegt, bemisst sich
-entweder nach dem Anteil des OTC-Handels an dem Gesamthandelsvolumen
-des Wertpapierdienstleistungsunternehmens in einem bestimmten
-Finanzinstrument oder nach dem Verhältnis des OTC-Handels des
-Wertpapierdienstleistungsunternehmens zum Gesamthandelsvolumen in
-einem bestimmten Finanzinstrument in der Europäischen Union; nähere
-Bestimmungen enthalten die Artikel 12 bis 17 der Delegierten
-Verordnung (EU) 2017/565. Die Voraussetzungen der systematischen
-Internalisierung sind erst dann erfüllt, wenn sowohl die Obergrenze
-für den häufigen systematischen Handel als auch die Obergrenze für den
-Handel in erheblichem Umfang überschritten werden oder wenn ein
-Unternehmen sich freiwillig den für die systematische Internalisierung
-geltenden Regelungen unterworfen und eine Erlaubnis zum Betreiben der
-systematischen Internalisierung bei der Bundesanstalt beantragt hat.
-Als Wertpapierdienstleistung gilt auch die Anschaffung und Veräußerung
-von Finanzinstrumenten für eigene Rechnung, die keine Dienstleistung
-für andere im Sinne des Satzes 1 Nr. 2 darstellt (Eigengeschäft). Der
+ausgegeben werden, im Zeitpunkt ihrer Emission. Ein Unternehmen kann
+sich freiwillig den für die systematische Internalisierung geltenden
+Regelungen unterwerfen und eine Erlaubnis zum Betreiben der
+systematischen Internalisierung bei der Bundesanstalt beantragen. Dies
+gilt auch für die systematische Internalisierung von
+Schuldverschreibungen, strukturierten Finanzprodukten und
+Emissionszertifikaten sowie von den in Artikel 8a Absatz 2 Satz 1 der
+Verordnung (EU) Nr. 600/2014 genannten Derivaten. Als
+Wertpapierdienstleistung gilt auch die Anschaffung und Veräußerung von
+Finanzinstrumenten für eigene Rechnung, die keine Dienstleistung für
+andere im Sinne des Satzes 1 Nr. 2 darstellt (Eigengeschäft). Der
 Finanzportfolioverwaltung gleichgestellt ist hinsichtlich der §§ 63
 bis 83 und 85 bis 92 dieses Gesetzes sowie des Artikels 20 Absatz 1
 der Verordnung (EU) Nr. 596/2014, des Artikels 26 der Verordnung (EU)
@@ -568,7 +612,7 @@ Satz 2 Nummer 11 des Kreditwesengesetzes.
     stehen,
 
 
-7.  Dienstleistungen, die sich auf einen Basiswert im Sinne des Absatzes 2
+7.  Dienstleistungen, die sich auf einen Basiswert im Sinne des Absatzes 3
     Nr. 2 oder Nr. 5 beziehen und im Zusammenhang mit
     Wertpapierdienstleistungen oder Wertpapiernebendienstleistungen
     stehen.
@@ -666,11 +710,7 @@ Herkunftsstaat ist, sind
     Europäischen Union oder einem anderen Vertragsstaat des Abkommens über
     den Europäischen Wirtschaftsraum zugelassen sind, soweit sie in diesem
     anderen Staat Veröffentlichungs- und Mitteilungspflichten nach Maßgabe
-    der Richtlinie 2004/109/EG des Europäischen Parlaments und des Rates
-    vom 15. Dezember 2004 zur Harmonisierung der Transparenzanforderungen
-    in Bezug auf Informationen über Emittenten, deren Wertpapiere zum
-    Handel auf einem geregelten Markt zugelassen sind, und zur Änderung
-    der Richtlinie 2001/34/EG (ABl. EU Nr. L 390 S. 38) unterliegen, und
+    der Richtlinie 2004/109/EG unterliegen, und
 
 
 2.  Emittenten, für die nicht die Bundesrepublik Deutschland, sondern ein
@@ -825,10 +865,9 @@ Rates vom 25. Oktober 2011 über die Integrität und Transparenz des
 Energiegroßhandelsmarkts (ABl. L 326 vom 8.12.2011, S. 1), sowie der
 Artikel 5 und 6 der Delegierten Verordnung (EU) 2017/565.
 
-(21) Multilaterales System im Sinne dieses Gesetzes ist ein System
-oder ein Mechanismus, der die Interessen einer Vielzahl Dritter am
-Kauf und Verkauf von Finanzinstrumenten innerhalb des Systems
-zusammenführt.
+(21) Multilaterales System im Sinne dieses Gesetzes ist ein
+multilaterales System im Sinne des Artikels 2 Absatz 1 Nummer 11 der
+Verordnung (EU) Nr. 600/2014.
 
 (22) Handelsplatz im Sinne dieses Gesetzes ist ein organisierter
 Markt, ein multilaterales Handelssystem oder ein organisiertes
@@ -1153,6 +1192,10 @@ Artikels 4 Nummer 1 der Verordnung (EU) Nr. 1286/2014.
 (49) PRIIP im Sinne dieses Gesetzes ist ein Produkt im Sinne des
 Artikels 4 Nummer 3 der Verordnung (EU) Nr. 1286/2014.
 
+(50) Benannte veröffentlichende Einrichtung im Sinne dieses Gesetzes
+ist eine benannte veröffentlichende Einrichtung im Sinne des Artikels
+2 Absatz 1 Nummer 16a der Verordnung (EU) Nr. 600/2014.
+
 
 ### § 2a Unzuverlässigkeit von sanktionierten Personen
 
@@ -1235,12 +1278,15 @@ fällt.
     ausschließlich die Anlageberatung und die Anlagevermittlung zwischen
     Kunden und
 
-    a)  Instituten im Sinne des Kreditwesengesetzes,
+    a)  Instituten im Sinne des Kreditwesengesetzes oder Wertpapierinstituten
+        im Sinne des Wertpapierinstitutsgesetzes,
 
 
     b)  Instituten oder Finanzunternehmen mit Sitz in einem anderen Staat des
         Europäischen Wirtschaftsraums, die die Voraussetzungen nach § 53b Abs.
-        1 Satz 1 oder Abs. 7 des Kreditwesengesetzes erfüllen,
+        1 Satz 1 oder Abs. 7 des Kreditwesengesetzes erfüllen, oder
+        Wertpapierinstituten nach § 73 Absatz 1 Satz 1 oder § 74 Absatz 1 des
+        Wertpapierinstitutsgesetzes,
 
 
     c)  Unternehmen, die aufgrund einer Rechtsverordnung nach § 53c des
@@ -1291,9 +1337,10 @@ fällt.
     Erbringung dieser Finanzdienstleistungen Eigentum oder Besitz an
     Geldern oder Anteilen von Kunden zu verschaffen, es sei denn, das
     Unternehmen beantragt und erhält eine entsprechende Erlaubnis nach §
-    32 Abs. 1 des Kreditwesengesetzes; Anteile oder Aktien an Hedgefonds
-    im Sinne des § 283 des Kapitalanlagegesetzbuchs gelten nicht als
-    Anteile an Investmentvermögen im Sinne dieser Vorschrift,
+    32 Absatz 1 des Kreditwesengesetzes oder § 15 Absatz 1 des
+    Wertpapierinstitutsgesetzes; Anteile oder Aktien an Hedgefonds im
+    Sinne des § 283 des Kapitalanlagegesetzbuchs gelten nicht als Anteile
+    an Investmentvermögen im Sinne dieser Vorschrift,
 
 
 8.  Unternehmen, die bezüglich Warenderivaten, Emissionszertifikaten oder
@@ -1395,13 +1442,12 @@ fällt.
 
 
     b)  die Unternehmen sind entweder Mitglied oder Teilnehmer eines
-        organisierten Marktes oder multilateralen Handelssystems oder haben
-        einen direkten elektronischen Zugang zu einem Handelsplatz, mit
-        Ausnahme von nichtfinanziellen Stellen, die an einem Handelsplatz
-        Geschäfte tätigen, die in objektiv messbarer Weise die direkt mit der
-        Geschäftstätigkeit oder dem Liquiditäts- und Finanzmanagement
-        verbundenen Risiken dieser nichtfinanziellen Stellen oder ihrer
-        Gruppen verringern,
+        organisierten Marktes oder eines multilateralen Handelssystems, mit
+        Ausnahme von nichtfinanziellen Stellen, die an einem Handelsplatz zum
+        Zweck des Liquiditätsmanagements Geschäfte tätigen oder die in
+        objektiv messbarer Weise die direkt mit der Geschäftstätigkeit oder
+        dem Liquiditäts- und Finanzmanagement verbundenen Risiken dieser
+        nichtfinanziellen Stellen oder ihrer Gruppen verringern,
 
 
     c)  die Unternehmen wenden eine hochfrequente algorithmische
@@ -1502,7 +1548,8 @@ Unternehmen, die die Voraussetzungen des Satzes 1 Nummer 9 und 10
 erfüllen, haben dies der Bundesanstalt jährlich anzuzeigen.
 
 (2) Ein Unternehmen, das als vertraglich gebundener Vermittler im
-Sinne des § 2 Absatz 10 Satz 1 des Kreditwesengesetzes als
+Sinne des § 2 Absatz 10 Satz 1 des Kreditwesengesetzes oder des § 3
+Absatz 2 Satz 1 des Wertpapierinstitutsgesetzes als
 Wertpapierdienstleistung nur die Anlagevermittlung, das Platzieren von
 Finanzinstrumenten ohne feste Übernahmeverpflichtung oder
 Anlageberatung erbringt, gilt nicht als
@@ -1620,7 +1667,7 @@ zur Wahl des Herkunftsstaates erlassen.
 
 ### § 5 Veröffentlichung des Herkunftsstaates; Verordnungsermächtigung
 
-(1) Ein Emittent, dessen Herkunftsstaat nach § 2 Absatz 11 Nummer 1
+(1) Ein Emittent, dessen Herkunftsstaat nach § 2 Absatz 13 Nummer 1
 Buchstabe a die Bundesrepublik Deutschland ist oder der nach § 4
 Absatz 1 oder Absatz 2 die Bundesrepublik Deutschland als
 Herkunftsstaat wählt, hat dies unverzüglich zu veröffentlichen.
@@ -1684,20 +1731,24 @@ beseitigen oder zu verhindern.
 (2) Die Bundesanstalt überwacht im Rahmen der ihr jeweils zugewiesenen
 Zuständigkeit die Einhaltung der Verbote und Gebote dieses Gesetzes,
 der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen, der in §
-1 Absatz 1 Nummer 8 aufgeführten europäischen Verordnungen
-einschließlich der auf Grund dieser Verordnungen erlassenen
-delegierten Rechtsakte und Durchführungsrechtsakte der Europäischen
-Kommission. Sie kann Anordnungen treffen, die zu ihrer Durchsetzung
-geeignet und erforderlich sind. Sie kann insbesondere auf ihrer
-Internetseite öffentlich Warnungen aussprechen, soweit dies für die
-Erfüllung ihrer Aufgaben erforderlich ist. Sie kann den Handel mit
-einzelnen oder mehreren Finanzinstrumenten vorübergehend untersagen
-oder die Aussetzung des Handels in einzelnen oder mehreren
-Finanzinstrumenten an Märkten, an denen Finanzinstrumente gehandelt
-werden, anordnen, soweit dies zur Durchsetzung der Verbote und Gebote
-dieses Gesetzes, der Verordnung (EU) Nr. 596/2014 oder der Verordnung
-(EU) Nr. 600/2014 oder zur Beseitigung oder Verhinderung von
-Missständen nach Absatz 1 geboten ist.
+1 Absatz 1 Nummer 8 aufgeführten europäischen Rechtsakte
+einschließlich der auf Grund dieser Rechtsakte erlassenen delegierten
+Rechtsakte und Durchführungsrechtsakte der Europäischen Kommission.
+Sie kann Anordnungen treffen, die zu ihrer Durchsetzung geeignet und
+erforderlich sind. Sie kann insbesondere auf ihrer Internetseite
+öffentlich Warnungen aussprechen, soweit dies für die Erfüllung ihrer
+Aufgaben erforderlich ist. Sie kann den Handel mit einzelnen oder
+mehreren Finanzinstrumenten vorübergehend untersagen oder die
+Aussetzung des Handels in einzelnen oder mehreren Finanzinstrumenten
+an Märkten, an denen Finanzinstrumente gehandelt werden, anordnen,
+soweit dies zur Durchsetzung der Verbote und Gebote dieses Gesetzes,
+der Verordnung (EU) Nr. 596/2014 oder der Verordnung (EU) Nr. 600/2014
+oder zur Beseitigung oder Verhinderung von Missständen nach Absatz 1
+geboten ist. Im Falle eines Verstoßes gegen Verbote oder Gebote nach
+Satz 1 kann sie vorübergehend oder dauerhaft die Unterlassung der den
+Verstoß begründenden Handlungen oder Verhaltensweisen verlangen sowie
+die zur Verhinderung der Wiederholung dieses Verstoßes erforderlichen
+Maßnahmen anordnen.
 
 (2a) Hat die Bundesanstalt einen hinreichend begründeten Verdacht,
 dass gegen Bestimmungen der Verordnung (EU) 2017/1129 des Europäischen
@@ -1742,7 +1793,75 @@ organisierten Handelssystems die Aussetzung des Handels verlangen,
 wenn der Handel angesichts der Lage des Emittenten den
 Anlegerinteressen abträglich wäre.
 
-(2b) Verhängt die Bundesanstalt nach Artikel 42 der Verordnung (EU)
+(2b) Hat die Bundesanstalt Anhaltspunkte dafür, dass ein Emittent im
+Sinne des Artikels 1 Buchstabe a der Verordnung (EU) 2023/2631 oder
+eine Verbriefungszweckgesellschaft im Sinne des Artikels 2 Nummer 2
+der Verordnung (EU) 2017/2402 des Europäischen Parlaments und des
+Rates vom 12. Dezember 2017 zur Festlegung eines allgemeinen Rahmens
+für Verbriefungen und zur Schaffung eines spezifischen Rahmens für
+einfache, transparente und standardisierte Verbriefung und zur
+Änderung der Richtlinien 2009/65/EG, 2009/138/EG, 2011/61/EU und der
+Verordnungen (EG) Nr. 1060/2009 und (EU) Nr. 648/2012 (ABl. L 347 vom
+28\.12.2017, S. 35), die zuletzt durch die Verordnung (EU) 2021/557
+(ABl. L 116 vom 6.4.2021, S. 1) geändert worden ist, oder ein
+Originator im Sinne des Artikels 2 Nummer 3 der Verordnung (EU)
+2017/2402 gegen Bestimmungen in Titel II Kapitel 2, Artikel 18 oder
+Artikel 19 der Verordnung (EU) 2023/2631 verstoßen hat, kann sie die
+
+1.  Zulassung der betreffenden Anleihe zum Handel an einem geregelten
+    Markt oder
+
+
+2.  den Handel
+
+    a)  an einem geregelten Markt,
+
+
+    b)  an einem multilateralen Handelssystem oder
+
+
+    c)  an einem organisierten Handelssystem
+
+
+
+
+
+
+für jeweils höchstens zehn aufeinanderfolgende Arbeitstage aussetzen
+oder gegenüber den Betreibern der betreffenden geregelten Märkte oder
+Handelssysteme die Aussetzung des Handels für einen entsprechenden
+Zeitraum anordnen.
+
+(2c) Hat die Bundesanstalt Anhaltspunkte dafür, dass ein Emittent im
+Sinne des Artikels 1 Buchstabe a der Verordnung (EU) 2023/2631 oder
+eine Verbriefungszweckgesellschaft im Sinne des Artikels 2 Nummer 2
+der Verordnung (EU) 2017/2402 oder ein Originator im Sinne des
+Artikels 2 Nummer 3 der Verordnung (EU) 2017/2402 gegen Bestimmungen
+in Titel II Kapitel 2, Artikel 18 oder Artikel 19 der Verordnung (EU)
+2023/2631 verstößt, so kann sie
+
+1.  die Zulassung der betreffenden Anleihe zum Handel an einem geregelten
+    Markt oder
+
+
+2.  den Handel
+
+    a)  an einem geregelten Markt,
+
+
+    b)  an einem multilateralen Handelssystem oder
+
+
+    c)  an einem organisierten Handelssystem
+
+
+
+
+
+
+untersagen.
+
+(2d) Verhängt die Bundesanstalt nach Artikel 42 der Verordnung (EU)
 Nr. 600/2014 oder die Europäische Wertpapier- und
 Marktaufsichtsbehörde nach Artikel 40 der Verordnung (EU) Nr. 600/2014
 ein Verbot oder eine Beschränkung, so kann die Bundesanstalt zudem
@@ -1750,27 +1869,44 @@ anordnen, dass die Zulassung zum Handel an einem geregelten Markt
 ausgesetzt oder eingeschränkt wird, solange dieses Verbot oder diese
 Beschränkungen gelten.
 
-(2c) In Ausübung der in Absatz 2 Satz 4 und den Absätzen 2a und 2b
-genannten Befugnisse kann sie Anordnungen auch gegenüber einem
+(2e) In Ausübung der in Absatz 2 Satz 4 und den Absätzen 2a, 2b, 2c
+und 2d genannten Befugnisse kann sie Anordnungen auch gegenüber einem
 öffentlich-rechtlichen Rechtsträger oder gegenüber einer Börse
 erlassen.
 
-(2d) Die Bundesanstalt kann den Vertrieb oder Verkauf von
+(2f) Die Bundesanstalt kann den Vertrieb oder Verkauf von
 Finanzinstrumenten oder strukturierten Einlagen aussetzen, wenn ein
 Wertpapierdienstleistungsunternehmen kein wirksames
 Produktfreigabeverfahren nach § 80 Absatz 9 entwickelt hat oder
 anwendet oder in anderer Weise gegen § 80 Absatz 1 Satz 2 Nummer 2
 oder Absatz 9 bis 11 verstoßen hat.
 
+(2g) Die Befugnisse der Bundesanstalt nach den Absätzen 2b und 2c
+gelten nicht gegenüber Emittenten europäischer grüner Anleihen, die
+unter Artikel 1 Absatz 2 Buchstabe b und d der Verordnung (EU)
+2017/1129 fallen.
+
+(2h) Die Bundesanstalt kann
+
+1.  die Öffentlichkeit warnen oder
+
+
+2.  die Verbreitung von emittentenfinanzierten Analysen durch
+    Wertpapierdienstleistungsunternehmen aussetzen,
+
+
+
+wenn emittentengesponserte Analysen nicht im Einklang mit den nach
+Artikel 24 Absatz 3c der Richtlinie 2014/65/EU erlassenen technischen
+Regulierungsstandards (EU-Verhaltenskodex für emittentengesponserte
+Analysen) erstellt wurden.
+
 (3) Die Bundesanstalt kann von jedermann Auskünfte, die Vorlage von
 Unterlagen oder sonstigen Daten und die Überlassung von Kopien
 verlangen sowie Personen laden und vernehmen, um
 
-1.  zu überwachen, ob die Verbote oder Gebote dieses Gesetzes oder der
-    Verordnung (EU) Nr. 596/2014, der Verordnung (EU) Nr. 600/2014, der
-    Verordnung (EU) Nr. 1286/2014, der Verordnung (EU) 2015/2365, der
-    Verordnung (EU) 2016/1011, der Verordnung (EU) 2019/1238 eingehalten
-    werden, oder
+1.  zu überwachen, ob die Verbote oder Gebote der in § 1 Absatz 1 Nummer 8
+    aufgeführten Rechtsvorschriften eingehalten werden, oder
 
 
 2.  zu prüfen, ob die Voraussetzungen für eine Maßnahme nach § 15 dieses
@@ -1824,74 +1960,41 @@ unterliegt, von den wichtigsten Verfahren zur Überprüfung der Risiken
 und Einhaltung der Vorgaben des § 80 sowie von Einzelheiten über seine
 Systemprüfung verlangen.
 
+(4a) Unbeschadet der Befugnisse der zuständigen Börsenaufsichtsbehörde
+nach § 3 Absatz 4 Satz 1 und 2 des Börsengesetzes und unbeschadet des
+§ 8 Absatz 1 des Börsengesetzes kann die Bundesanstalt für die Zwecke
+des Artikels 25a der Verordnung (EU) Nr. 596/2014 von einer Börse im
+Sinne von § 2 des Börsengesetzes mit erheblicher grenzüberschreitender
+Dimension die laufende Übermittlung von Aufzeichnungen nach Artikel 25
+Absatz 2 der Verordnung (EU) Nr. 600/2014 verlangen. Beantragt eine
+zuständige Behörde eines Mitgliedstaates der Europäischen Union bei
+der Bundesanstalt Daten nach Artikel 25a Absatz 4 der Verordnung Nr.
+596/2014 von einer Börse im Sinne von § 2 des Börsengesetzes mit
+grenzüberschreitender Dimension, so fordert die Bundesanstalt diese
+Daten von der betreffenden Börse zeitnah, spätestens jedoch vier
+Arbeitstage nach dem Datum des Antrags an. Die Bundesanstalt stellt
+die angeforderten Daten der zuständigen Behörde, die den Antrag nach
+Satz 2 zuerst gestellt hat, sobald wie möglich, spätestens jedoch
+innerhalb der Frist zur Verfügung, die durch einen technischen
+Durchführungsstandard nach Artikel 25a Absatz 6 Buchstabe c der
+Verordnung (EU) Nr. 596/2014 festgelegt wird.
+
 (5) Die Bundesanstalt ist unbeschadet des § 3 Absatz 5, 11 und 12
 sowie des § 15 Absatz 7 des Börsengesetzes zuständige Behörde im Sinne
 des Artikels 22 der Verordnung (EU) Nr. 596/2014 und im Sinne des
 Artikels 2 Absatz 1 Nummer 18 der Verordnung (EU) Nr. 600/2014. Die
 Bundesanstalt ist zuständige Behörde für die Zwecke des Artikels 25
-Absatz 4 Buchstabe a Unterabsatz 3 der Richtlinie 2014/65/EU des
-Europäischen Parlaments und des Rates vom 15. Mai 2014 über Märkte für
-Finanzinstrumente sowie zur Änderung der Richtlinien 2002/92/EG und
-2011/61/EU (ABl. L 173 vom 12.6.2014, S. 349; L 74 vom 18.3.2015, S.
-38; L 188 vom 13.7.2016, S. 28; L 273 vom 8.10.2016, S. 35; L 64 vom
-10\.3.2017, S. 116; L 278 vom 27.10.2017, S. 56), die zuletzt durch die
-Richtlinie (EU) 2016/1034 (ABl. L 175 vom 30.6.2016, S. 8) geändert
-worden ist, in der jeweils geltenden Fassung.
+Absatz 4 Buchstabe a Unterabsatz 3 der Richtlinie 2014/65/EU. Die
+Bundesanstalt ist zuständige Behörde im Sinne des Artikels 21a Absatz
+1 der Verordnung (EU) Nr. 600/2014.
 
-(6) Im Falle eines Verstoßes gegen
-
-1.  Vorschriften des Abschnitts 3 dieses Gesetzes sowie die zur
-    Durchführung dieser Vorschriften erlassenen Rechtsverordnungen,
-
-
-2.  Vorschriften der Verordnung (EU) Nr. 596/2014, insbesondere gegen
-    deren Artikel 4 und 14 bis 21, sowie die auf Grundlage dieser Artikel
-    erlassenen delegierten Rechtsakte und Durchführungsrechtsakte der
-    Europäischen Kommission,
-
-
-3.  Vorschriften der Abschnitte 9 bis 11 dieses Gesetzes sowie die zur
-    Durchführung dieser Vorschriften erlassenen Rechtsverordnungen,
-
-
-4.  Vorschriften der Verordnung (EU) Nr. 600/2014, insbesondere die in den
-    Titeln II bis VI enthaltenen Artikel sowie die auf Grundlage dieser
-    Artikel erlassenen delegierten Rechtsakte und Durchführungsrechtsakte
-    der Europäischen Kommission,
-
-
-5.  die Artikel 4 und 15 der Verordnung (EU) 2015/2365 sowie die auf
-    Grundlage des Artikels 4 erlassenen delegierten Rechtsakte und
-    Durchführungsrechtsakte der Europäischen Kommission,
-
-
-6.  Vorschriften der Verordnung (EU) 2016/1011 sowie die auf deren
-    Grundlage erlassenen delegierten Rechtsakte und
-    Durchführungsrechtsakte der Europäischen Kommission,
-
-
-6a. Vorschriften, auf die in § 120a Absatz 1 und 2 Bezug genommen wird,
-
-
-6b. die in Artikel 39 Absatz 1 Satz 2 Buchstabe a der Verordnung (EU)
-    2020/1503 in Bezug genommenen Artikel sowie die auf deren Grundlage
-    erlassenen delegierten Rechtsakte und Durchführungsrechtsakte der
-    Europäischen Kommission oder
-
-
-7.  eine Anordnung der Bundesanstalt, die sich auf eine der in den Nummern
-    1 bis 6a genannte Vorschrift bezieht,
-
-
-
-kann die Bundesanstalt zur Verhinderung weiterer Verstöße für einen
-Zeitraum von bis zu zwei Jahren die Einstellung der den Verstoß
-begründenden Handlungen oder Verhaltensweisen verlangen. Bei Verstößen
-gegen die in Satz 1 Nummer 3, 4 und 6a genannten Vorschriften sowie
-gegen Anordnungen der Bundesanstalt, die sich hierauf beziehen, kann
-sie verlangen, dass die den Verstoß begründenden Handlungen oder
-Verhaltensweisen dauerhaft eingestellt werden sowie deren Wiederholung
-verhindern.
+(6) Die Bundesanstalt ist zuständige Behörde nach Artikel 46 der
+Verordnung (EU) 2022/2554. Bei der Durchführung der Artikel 26 und 27
+der Verordnung (EU) 2022/2554 wirkt die Bundesanstalt mit der
+Deutschen Bundesbank zusammen. Die Deutsche Bundesbank nimmt die
+operativen Aufgaben nach den Artikeln 26 und 27 der Verordnung (EU)
+2022/2554 wahr. § 7 Absatz 3 und 4 des Kreditwesengesetzes gilt
+entsprechend.
 
 (7) Die Bundesanstalt kann es einer natürlichen Person, die
 verantwortlich ist für einen Verstoß gegen die Artikel 14, 15, 16
@@ -1906,20 +2009,21 @@ genannten Finanzinstrumenten und Produkten zu tätigen.
 (8) Die Bundesanstalt kann einer Person, die bei einem von der
 Bundesanstalt beaufsichtigten Unternehmen tätig ist, für einen
 Zeitraum von bis zu zwei Jahren die Ausübung der Berufstätigkeit
-untersagen, wenn diese Person vorsätzlich gegen eine der in Absatz 6
-Satz 1 Nummer 1 bis 4 und 6 genannten Vorschriften oder gegen eine
-Anordnung der Bundesanstalt, die sich auf diese Vorschriften bezieht,
-verstoßen hat und dieses Verhalten trotz Verwarnung durch die
-Bundesanstalt fortsetzt. Bei einem Verstoß gegen eine der in Absatz 6
-Satz 1 Nummer 5 und 6a genannten Vorschriften oder eine sich auf diese
-Vorschriften beziehende Anordnung der Bundesanstalt kann die
-Bundesanstalt einer Person für einen Zeitraum von bis zu zwei Jahren
-die Wahrnehmung von Führungsaufgaben untersagen, wenn diese den
-Verstoß vorsätzlich begangen hat und das Verhalten trotz Verwarnung
-durch die Bundesanstalt fortsetzt.
+untersagen, wenn diese Person gegen eine der in § 1 Absatz 1 Nummer 8
+genannten Vorschriften oder gegen eine Anordnung der Bundesanstalt,
+die sich auf diese Vorschriften bezieht, vorsätzlich verstoßen hat
+oder dagegen nach Verwarnung durch die Bundesanstalt erneut verstoßen
+hat. Bei einem Verstoß gegen eine der in § 1 Absatz 1 Nummer 8
+genannten Vorschriften oder eine sich auf diese Vorschriften
+beziehende Anordnung der Bundesanstalt kann die Bundesanstalt überdies
+einer Person die Wahrnehmung von Führungsaufgaben untersagen. Ist die
+Aufnahme oder Ausübung der Tätigkeit nach Satz 2 unbefristet untersagt
+worden, kann der Betroffene frühestens nach zwei Jahren nach
+Bestandskraft der Untersagung deren Aufhebung beantragen; die §§ 48
+und 49 des Verwaltungsverfahrensgesetzes bleiben unberührt.
 
-(9) Bei einem Verstoß gegen eine der in Absatz 6 Satz 1 Nummer 1 bis 5
-und 6b genannten Vorschriften oder eine vollziehbare Anordnung der
+(9) Bei einem Verstoß gegen eine der in § 1 Absatz 1 Nummer 8
+genannten Vorschriften oder eine vollziehbare Anordnung der
 Bundesanstalt, die sich auf diese Vorschriften bezieht, kann die
 Bundesanstalt auf ihrer Internetseite eine Warnung unter Nennung der
 natürlichen oder juristischen Person oder der Personenvereinigung, die
@@ -1927,11 +2031,15 @@ den Verstoß begangen hat, sowie der Art des Verstoßes veröffentlichen.
 § 125 Absatz 3 und 5 gilt entsprechend.
 
 (10) Die Bundesanstalt kann es einem
-Wertpapierdienstleistungsunternehmen, das gegen eine der in Absatz 6
-Satz 1 Nummer 3 und 4 genannten Vorschriften oder gegen eine
-vollziehbare Anordnung der Bundesanstalt, die sich auf diese
-Vorschriften bezieht, verstoßen hat, für einen Zeitraum von bis zu
-drei Monaten untersagen, am Handel eines Handelsplatzes teilzunehmen.
+Wertpapierdienstleistungsunternehmen, das gegen Vorschriften der
+Abschnitte 9 bis 11 dieses Gesetzes sowie der zur Durchführung dieser
+Vorschriften erlassenen Rechtsverordnungen, Vorschriften der
+Verordnung (EU) Nr. 600/2014 sowie der auf Grundlage dieser Artikel
+erlassenen delegierten Rechtsakte und Durchführungsrechtsakte der
+Europäischen Kommission oder gegen eine vollziehbare Anordnung der
+Bundesanstalt, die sich auf diese Vorschriften bezieht, verstoßen hat,
+für einen Zeitraum von bis zu drei Monaten untersagen, am Handel eines
+Handelsplatzes teilzunehmen.
 
 (11) Während der üblichen Arbeitszeit ist Bediensteten der
 Bundesanstalt und den von ihr beauftragten Personen, soweit dies zur
@@ -1971,13 +2079,16 @@ Verfolgung von Verstößen gegen die Verordnung (EU) 2016/1011 geboten
 ist.
 
 (13) Die Bundesanstalt kann die Beschlagnahme von Vermögenswerten
-beantragen, soweit dies zur Durchsetzung der Verbote und Gebote der in
-Absatz 6 Satz 1 Nummer 3, 4 und 6 genannten Vorschriften und der
-Verordnung (EU) Nr. 596/2014 geboten ist. Maßnahmen nach Satz 1 sind
-durch den Richter anzuordnen. Zuständig ist das Amtsgericht Frankfurt
-am Main. Gegen eine richterliche Entscheidung ist die Beschwerde
-zulässig; die §§ 306 bis 310 und 311a der Strafprozessordnung gelten
-entsprechend.
+beantragen, soweit dies zur Durchsetzung der Verbote und Gebote der
+der Verordnung (EU) Nr. 596/2014, der Verordnung (EU) Nr. 600/2014,
+der Verordnung (EU) 2016/1011, der jeweils auf ihrer Grundlage
+erlassenen delegierten Rechtsakte und Durchführungsrechtsakte der
+Europäischen Kommission oder der Abschnitte 9 bis 11 dieses Gesetzes
+sowie der zur Durchführung dieser Vorschriften erlassenen
+Rechtsverordnungen geboten ist. Maßnahmen nach Satz 1 sind durch den
+Richter anzuordnen. Zuständig ist das Amtsgericht Frankfurt am Main.
+Gegen eine richterliche Entscheidung ist die Beschwerde zulässig; die
+§§ 306 bis 310 und 311a der Strafprozessordnung gelten entsprechend.
 
 (14) Die Bundesanstalt kann eine nach den Vorschriften dieses Gesetzes
 oder nach der Verordnung (EU) Nr. 596/2014 gebotene Veröffentlichung
@@ -2008,19 +2119,23 @@ anderer sachverständiger Personen und Einrichtungen bedienen.
 
 (1) Die Bundesanstalt kann von einem Telekommunikationsbetreiber die
 Herausgabe von in dessen Besitz befindlichen bereits existierenden
-Verkehrsdaten im Sinne der §§ 9 und 12 des Telekommunikation-
-Telemedien-Datenschutz-Gesetzes verlangen, wenn bestimmte Tatsachen
-den Verdacht begründen, dass jemand gegen Artikel 14 oder 15 der
-Verordnung (EU) Nr. 596/2014 oder eine der in § 6 Absatz 6 Satz 1
-Nummer 3 und 4 genannten Vorschriften verstoßen hat, soweit dies zur
-Erforschung des Sachverhalts erforderlich ist. § 100a Absatz 3 und 4,
-§ 100e Absatz 1, 3 und 5 Satz 1 der Strafprozessordnung gelten
-entsprechend mit der Maßgabe, dass die Bundesanstalt antragsberechtigt
-ist. Zuständig ist das Amtsgericht Frankfurt am Main. Gegen die
-richterliche Entscheidung ist die Beschwerde zulässig; die §§ 306 bis
-310 und 311a der Strafprozessordnung gelten entsprechend. Das
-Briefgeheimnis sowie das Post- und Fernmeldegeheimnis nach Artikel 10
-des Grundgesetzes werden insoweit eingeschränkt.
+Verkehrsdaten im Sinne der §§ 9 und 12 des Telekommunikation-Digitale-
+Dienste-Datenschutz-Gesetzes verlangen, wenn bestimmte Tatsachen den
+Verdacht begründen, dass jemand gegen Artikel 14 oder 15 der
+Verordnung (EU) Nr. 596/2014 gegen Vorschriften der Verordnung (EU)
+Nr. 600/2014, auf ihrer Grundlage erlassene delegierte Rechtsakte und
+Durchführungsrechtsakte der Europäischen Kommission oder gegen
+Vorschriften der Abschnitte 9 bis 11 dieses Gesetzes sowie die zur
+Durchführung dieser Vorschriften erlassenen Rechtsverordnungen
+verstoßen hat, soweit dies zur Erforschung des Sachverhalts
+erforderlich ist. § 100a Absatz 3 und 4, § 100e Absatz 1, 3 und 5 Satz
+1 der Strafprozessordnung gelten entsprechend mit der Maßgabe, dass
+die Bundesanstalt antragsberechtigt ist. Zuständig ist das Amtsgericht
+Frankfurt am Main. Gegen die richterliche Entscheidung ist die
+Beschwerde zulässig; die §§ 306 bis 310 und 311a der
+Strafprozessordnung gelten entsprechend. Das Briefgeheimnis sowie das
+Post- und Fernmeldegeheimnis nach Artikel 10 des Grundgesetzes werden
+insoweit eingeschränkt.
 
 (2) Die Bundesanstalt kann von Wertpapierdienstleistungsunternehmen,
 Datenbereitstellungsdiensten, Kreditinstituten im Sinne des Artikels 4
@@ -2036,19 +2151,22 @@ existierenden
 2.  elektronischen Mitteilungen oder
 
 
-3.  Verkehrsdaten im Sinne der §§ 9 und 12 des Telekommunikation-
-    Telemedien-Datenschutz-Gesetzes,
+3.  Verkehrsdaten im Sinne der §§ 9 und 12 des Telekommunikation-Digitale-
+    Dienste-Datenschutz-Gesetzes,
 
 
 
 die sich im Besitz dieser Unternehmen befinden, verlangen, soweit dies
 auf Grund von Anhaltspunkten für die Überwachung der Einhaltung eines
-Verbots nach den Artikeln 14 und 15 der Verordnung (EU) Nr. 596/2014
-oder einer in § 6 Absatz 6 Satz 1 Nummer 3 und 4 genannten
-Vorschriften oder eines Verbots oder Gebots nach der Verordnung (EU)
-2016/1011 erforderlich ist. Das Briefgeheimnis sowie das Post- und
-Fernmeldegeheimnis nach Artikel 10 des Grundgesetzes werden insoweit
-eingeschränkt.
+Verbots oder Gebots nach den Artikeln 14 und 15 der Verordnung (EU)
+Nr. 596/2014, nach der Verordnung (EU) Nr. 600/2014 sowie den auf
+ihrer Grundlage erlassenen delegierten Rechtsakten und
+Durchführungsrechtsakten der Europäischen Kommission, nach der
+Verordnung (EU) 2016/1011 oder nach Vorschriften der Abschnitte 9 bis
+11 dieses Gesetzes sowie den zur Durchführung dieser Vorschriften
+erlassenen Rechtsverordnungen erforderlich ist. Das Briefgeheimnis
+sowie das Post- und Fernmeldegeheimnis nach Artikel 10 des
+Grundgesetzes werden insoweit eingeschränkt.
 
 
 ### § 8 Übermittlung und Herausgabe marktbezogener Daten; Verordnungsermächtigung
@@ -2094,13 +2212,17 @@ Bundesanstalt übertragen.
 
 (1) Die Bundesanstalt kann von jedermann verlangen, die Größe der
 Positionen oder offenen Forderungen in Finanzinstrumenten zu
-verringern, soweit dies zur Durchsetzung der Verbote und Gebote der in
-§ 6 Absatz 6 Satz 1 Nummer 3 und 4 genannten Vorschriften geboten ist.
+verringern, soweit dies zur Durchsetzung der Verbote und Gebote der
+Verordnung (EU) Nr. 600/2014, der auf ihrer Grundlage erlassenen
+delegierten Rechtsakte und Durchführungsrechtsakte der Europäischen
+Kommission oder der Vorschriften der Abschnitte 9 bis 11 dieses
+Gesetzes sowie der zur Durchführung dieser Vorschriften erlassenen
+Rechtsverordnungen geboten ist.
 
 (2) Die Bundesanstalt kann für jedermann die Möglichkeit einschränken,
 eine Position in Warenderivaten einzugehen, soweit dies zur
-Durchsetzung der Verbote und Gebote der in § 6 Absatz 6 Satz 1 Nummer
-3 und 4 genannten Vorschriften erforderlich ist.
+Durchsetzung der Verbote und Gebote der in Absatz 1 genannten
+Vorschriften erforderlich ist.
 
 
 ### § 10 Besondere Befugnisse nach der Verordnung (EU) Nr. 1286/2014, der Verordnung (EU) 2016/1011, der Verordnung (EU) 2019/2088, der Verordnung (EU) 2020/852 und der Verordnung (EU) 2020/1503
@@ -2149,13 +2271,13 @@ oder Personenvereinigungen zu, die über ein PRIIP beraten, es
 verkaufen oder Hersteller von PRIIP sind.
 
 (2) Außer für Versicherungsunternehmen unter Landesaufsicht ist die
-Bundesanstalt zuständige Behörde im Sinne des Artikels 40 Absatz 1 der
-Verordnung (EU) 2016/1011. Sie überwacht die Einhaltung der Verbote
-und Gebote der Verordnung (EU) 2016/1011 sowie der delegierten
-Rechtsakte und Durchführungsrechtsakte der Europäischen Kommission,
-die auf der Grundlage dieser Verordnung erlassen worden sind, und kann
-Anordnungen treffen, die zu ihrer Durchsetzung geeignet und
-erforderlich sind. Insbesondere kann sie
+Bundesanstalt zuständige Behörde im Sinne des Artikels 23b Absatz 7
+und des Artikels 40 Absatz 1 der Verordnung (EU) 2016/1011. Sie
+überwacht die Einhaltung der Verbote und Gebote der Verordnung (EU)
+2016/1011 sowie der delegierten Rechtsakte und Durchführungsrechtsakte
+der Europäischen Kommission, die auf der Grundlage dieser Verordnung
+erlassen worden sind, und kann Anordnungen treffen, die zu ihrer
+Durchsetzung geeignet und erforderlich sind. Insbesondere kann sie
 
 1.  Maßnahmen zur korrekten Information der Öffentlichkeit über die
     Bereitstellung eines Referenzwertes treffen und Richtigstellungen
@@ -2175,8 +2297,8 @@ erforderlich sind. Insbesondere kann sie
     Verordnung (EU) 2016/1011 oder gegen eine vollziehbare Anordnung der
     Bundesanstalt, die im Zusammenhang mit einer Untersuchung betreffend
     die Einhaltung der Pflichten nach dieser Verordnung gemäß Nummer 1
-    oder 2, § 6 Absatz 3 Satz 4, Absatz 6 Satz 1, Absatz 8, 11 bis 13, § 7
-    Absatz 2 ergangen ist
+    oder 2, § 6 Absatz 2, 3 Satz 4, Absatz 8, 11 bis 13, § 7 Absatz 2
+    ergangen ist
 
     a)  von einem beaufsichtigten Unternehmen im Sinne des Artikels 3 Absatz 1
         Nummer 17 dieser Verordnung eine dauerhafte Einstellung der den
@@ -2304,6 +2426,48 @@ erforderlich sind. Insbesondere kann die Bundesanstalt
 
 
 
+### § 10a Besondere Befugnisse nach der Verordnung (EU) 2022/2554
+
+(1) Die Bundesanstalt kann bei Verstößen gegen die Verordnung (EU)
+2022/2554 unbeschadet sonstiger in diesem Gesetz geregelter Befugnisse
+im Einzelfall Anordnungen treffen, die geeignet und erforderlich sind,
+um die Einhaltung der Vorgaben der Verordnung (EU) 2022/2554
+sicherzustellen. Insbesondere kann sie gegenüber einem
+Wertpapierdienstleistungsunternehmen oder einem
+Schwarmfinanzierungsdienstleister im Sinne des Artikels 2 Absatz 1
+Buchstabe e der Verordnung (EU) 2020/1503 anordnen,
+
+1.  das gegen diese Verordnung verstoßende Verhalten zu unterlassen und
+    von einer Wiederholung abzusehen,
+
+
+2.  Praktiken oder Verhaltensweisen, die den Bestimmungen der Verordnung
+    zuwiderlaufen, vorübergehend oder dauerhaft einzustellen und nicht zu
+    wiederholen,
+
+
+3.  sicherzustellen, dass weiterhin die rechtlichen Vorgaben erfüllt
+    werden, und
+
+
+4.  Korrektur- und Abhilfemaßnahmen vorzunehmen.
+
+
+
+
+(2) Die Bundesanstalt kann Untersuchungen über die Einhaltung der
+Vorgaben der Verordnung (EU) 2022/2554 im Anwendungsbereich dieses
+Gesetzes vornehmen. Unbeschadet sonstiger in diesem Gesetz geregelter
+Befugnisse kann die Bundesanstalt zu diesem Zweck Mitglieder der
+Organe eines Wertpapierdienstleistungsunternehmens oder eines
+Schwarmfinanzierungsdienstleisters im Sinne des Artikels 2 Absatz 1
+Buchstabe e der Verordnung (EU) 2020/1503 zu einer Befragung vorladen,
+damit diese mündliche oder schriftliche Erklärungen zu Sachverhalten
+oder Unterlagen abgeben, die mit Gegenstand und Zweck der Untersuchung
+in Zusammenhang stehen, und die mündlichen Erklärungen aufzeichnen. §
+6 Absatz 15 gilt entsprechend.
+
+
 ### § 11 Anzeige straftatbegründender Tatsachen
 
 Die Bundesanstalt hat Tatsachen, die den Verdacht einer Straftat nach
@@ -2338,7 +2502,7 @@ Ermittlungsverfahren nicht in Kenntnis setzen.
 ### § 13 Sofortiger Vollzug
 
 Widerspruch und Anfechtungsklage gegen Maßnahmen nach § 6 Absatz 1 bis
-13 und den §§ 7 bis 10 und 54 Absatz 1 einschließlich der Androhung
+13 und den §§ 7 bis 10a und 54 Absatz 1 einschließlich der Androhung
 und der Festsetzung von Zwangsmitteln haben keine aufschiebende
 Wirkung.
 
@@ -2354,7 +2518,7 @@ Bundesanstalt vorübergehend
 
 1.  den Handel mit einzelnen oder mehreren Finanzinstrumenten untersagen,
     insbesondere ein Verbot des Erwerbs von Rechten aus Währungsderivaten
-    im Sinne des § 2 Absatz 2 Nummer 1 Buchstabe b, d oder e anordnen,
+    im Sinne des § 2 Absatz 3 Nummer 1 Buchstabe b, d oder e anordnen,
     deren Wert sich unmittelbar oder mittelbar vom Devisenpreis des Euro
     ableitet, soweit zu erwarten ist, dass der Marktwert dieser Rechte bei
     einem Kursrückgang des Euro steigt, und wenn der Erwerb der Rechte
@@ -2802,6 +2966,16 @@ Absatz 4 des Börsengesetzes und die Aufhebung einer Erlaubnis nach § 4
 Absatz 5 des Börsengesetzes oder nach den Vorschriften der
 Verwaltungsverfahrensgesetze der Länder.
 
+(4) Die Bundesanstalt übermittelt der Europäischen Wertpapier- und
+Marktaufsichtsbehörde und den zuständigen Behörden der anderen
+Mitgliedstaaten der Europäischen Union und der Vertragsstaaten des
+Abkommens über den Europäischen Wirtschaftsraum die nach § 72 Absatz 6
+dieses Gesetzes, § 7 Absatz 5 Satz 5 des Börsengesetzes sowie § 8
+Absatz 4a des Börsengesetzes übermittelten Informationen. Im Falle von
+Anhaltspunkten für Verstöße gegen die Vorschriften der Verordnung (EU)
+Nr. 596/2014 übermittelt die Bundesanstalt Informationen erst dann,
+wenn sie von einem Verstoß überzeugt ist.
+
 
 ### § 20 Zusammenarbeit mit der Europäischen Kommission im Rahmen des Energiewirtschaftsgesetzes
 
@@ -2917,15 +3091,17 @@ jedoch nicht anzuwenden, soweit Tatsachen betroffen sind,
 
 (1) Die Bundesanstalt ist zuständige Behörde im Sinne der Artikel 26
 und 27 der Verordnung (EU) Nr. 600/2014. Dies gilt insbesondere auch
-für die Mitteilung von Referenzdaten, die von Handelsplätzen nach
-Artikel 27 Absatz 1 der Verordnung (EU) Nr. 600/2014 zu übermitteln
-sind. Sie ist zuständig für die Übermittlung von Mitteilungen nach
-Artikel 26 Absatz 1 der Verordnung (EU) Nr. 600/2014 an die zuständige
-Behörde eines anderen Mitgliedstaates oder eines anderen
-Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum,
-wenn sich in diesem Staat der unter Liquiditätsaspekten relevanteste
-Markt für das gemeldete Finanzinstrument im Sinne des Artikels 26
-Absatz 1 der Verordnung (EU) Nr. 600/2014 befindet.
+für die Mitteilung von Referenzdaten, die von Handelsplätzen und
+benannten veröffentlichenden Einrichtungen nach Artikel 27 Absatz 1
+der Verordnung (EU) Nr. 600/2014 an die Europäische Wertpapier- und
+Marktaufsichtsbehörde zu übermitteln sind. Sie ist zuständig für die
+Übermittlung von Mitteilungen nach Artikel 26 Absatz 1 der Verordnung
+(EU) Nr. 600/2014 an die zuständige Behörde eines anderen
+Mitgliedstaates oder eines anderen Vertragsstaates des Abkommens über
+den Europäischen Wirtschaftsraum, wenn sich in diesem Staat der unter
+Liquiditätsaspekten relevanteste Markt für das gemeldete
+Finanzinstrument im Sinne des Artikels 26 Absatz 1 der Verordnung (EU)
+Nr. 600/2014 befindet.
 
 (2) Ein inländischer Handelsplatz, der im Namen eines
 Wertpapierdienstleistungsunternehmens Meldungen nach Artikel 26 Absatz
@@ -3296,14 +3472,14 @@ Rechtsverordnung auf die Bundesanstalt übertragen.
 (1) Kapitalgesellschaften, die weder kleine Kapitalgesellschaften im
 Sinne des § 267 Absatz 1 des Handelsgesetzbuchs noch finanzielle
 Gegenparteien im Sinne des Artikels 2 Nummer 8 der Verordnung (EU) Nr.
-648/2012 sind und die im abgelaufenen Geschäftsjahr entweder
+648/2012 sind und die im abgelaufenen Geschäftsjahr
 
 1.  OTC-Derivate im Sinne des Artikels 2 Nummer 7 der Verordnung (EU) Nr.
-    648/2012 mit einem Gesamtnominalvolumen von mehr als 100 Millionen
-    Euro oder
+    648/2012 mit einem Gesamtnominalvolumen von mehr als 200 Millionen
+    Euro und
 
 
-2.  mehr als 100 OTC-Derivatekontrakte im Sinne des Artikels 2 Nummer 7
+2.  mehr als 200 OTC-Derivatekontrakte im Sinne des Artikels 2 Nummer 7
     der Verordnung (EU) Nr. 648/2012
 
 
@@ -3563,34 +3739,49 @@ bürgerlichen Rechts auf Grund von Verträgen oder unerlaubten
 Handlungen erhoben werden können, bleiben unberührt.
 
 
-### § 32f Überwachung und Prüfung der Pflichten nach der Verordnung (EU) 2020/1503; Verordnungsermächtigung
+### § 32f Überwachung und Prüfung der Pflichten der Schwarmfinanzierungsdienstleister nach der Verordnung (EU) 2020/1503 und nach der Verordnung (EU) 2022/2554; Verordnungsermächtigung
 
-(1) Die Bundesanstalt kann zur Überwachung der Einhaltung der
-Pflichten nach der Verordnung (EU) 2020/1503 in der jeweils geltenden
-Fassung auch ohne besonderen Anlass Prüfungen bei den
+(1) Die Bundesanstalt kann zur Überwachung der Einhaltung
+
+1.  der Pflichten nach der Verordnung (EU) 2020/1503 in der jeweils
+    geltenden Fassung und
+
+
+2.  der Vorgaben nach den Artikeln 5 bis 14, 16 bis 19, 23 bis 25, 28 bis
+    30 und 45 Absatz 3 der Verordnung (EU) 2022/2554, auch in Verbindung
+    mit einer Delegierten Verordnung nach den Artikeln 15, 16, 20, 28 oder
+    Artikel 30 der Verordnung (EU) 2022/2554, sofern im Einzelfall eine
+    Prüfung dieser Vorschriften nicht auch nach § 78 Absatz 1 des
+    Wertpapierinstitutsgesetzes oder § 29 des Kreditwesengesetzes zu
+    erfolgen hat,
+
+
+
+auch ohne besonderen Anlass Prüfungen bei den
 Schwarmfinanzierungsdienstleistern im Sinne des Artikels 2 Absatz 1
-Buchstabe e der Verordnung (EU) 2020/1503 bei den Unternehmen, mit
+Buchstabe e der Verordnung (EU) 2020/1503, bei den Unternehmen, mit
 denen eine Auslagerungsvereinbarung besteht oder bestand, und bei
 sonstigen zur Durchführung eingeschalteten dritten Personen oder
 Unternehmen vornehmen.
 
 (2) Unbeschadet des Absatzes 1 ist einmal jährlich durch einen
 geeigneten Prüfer zu prüfen, ob die Schwarmfinanzierungsdienstleister
-die nach der Verordnung (EU) 2020/1503 einzuhaltenden Pflichten
-erfüllen. Die Bundesanstalt kann auf Antrag von der jährlichen Prüfung
-ganz oder teilweise unter Berücksichtigung der Art und des Umfangs der
-betriebenen Geschäfte absehen. Der Schwarmfinanzierungsdienstleister
-hat den geeigneten Prüfer spätestens zum Ablauf desjenigen
-Geschäftsjahres zu bestellen, auf das sich die Prüfung erstreckt. Bei
-Schwarmfinanzierungsdienstleistern, die einem genossenschaftlichen
-Prüfungsverband angehören oder durch die Prüfungsstelle eines
-Sparkassen- und Giroverbandes geprüft werden, wird die Prüfung durch
-den zuständigen Prüfungsverband oder die zuständige Prüfungsstelle,
-soweit hinsichtlich Letzterer das Landesrecht dies vorsieht,
-vorgenommen. Geeignete Prüfer sind darüber hinaus Wirtschaftsprüfer,
-vereidigte Buchprüfer sowie Wirtschaftsprüfungs- und
-Buchprüfungsgesellschaften, die hinsichtlich des Prüfungsgegenstandes
-über ausreichende Kenntnisse verfügen.
+die nach der Verordnung (EU) 2020/1503 einzuhaltenden Pflichten sowie
+die in Absatz 1 Nummer 2 angeführten Vorgaben nach der Verordnung (EU)
+2022/2554 erfüllen. Die Bundesanstalt kann auf Antrag von der
+jährlichen Prüfung ganz oder teilweise unter Berücksichtigung der Art
+und des Umfangs der betriebenen Geschäfte absehen. Der
+Schwarmfinanzierungsdienstleister hat den geeigneten Prüfer spätestens
+zum Ablauf desjenigen Geschäftsjahres zu bestellen, auf das sich die
+Prüfung erstreckt. Bei Schwarmfinanzierungsdienstleistern, die einem
+genossenschaftlichen Prüfungsverband angehören oder durch die
+Prüfungsstelle eines Sparkassen- und Giroverbandes geprüft werden,
+wird die Prüfung durch den zuständigen Prüfungsverband oder die
+zuständige Prüfungsstelle, soweit hinsichtlich Letzterer das
+Landesrecht dies vorsieht, vorgenommen. Geeignete Prüfer sind darüber
+hinaus Wirtschaftsprüfer, vereidigte Buchprüfer sowie
+Wirtschaftsprüfungs- und Buchprüfungsgesellschaften, die hinsichtlich
+des Prüfungsgegenstandes über ausreichende Kenntnisse verfügen.
 
 (3) Über die Prüfung nach Absatz 2 ist ein Prüfungsbericht zu
 erstellen und auf Anforderung der Bundesanstalt vorzulegen. Die
@@ -3602,9 +3793,13 @@ unverzüglich nach Beendigung der Prüfung einzureichen.
 
 (4) Der Schwarmfinanzierungsdienstleister hat vor Erteilung des
 Prüfungsauftrags der Bundesanstalt den Prüfer anzuzeigen. Die
-Bundesanstalt kann innerhalb eines Monats nach Zugang der Anzeige die
-Bestellung eines anderen Prüfers verlangen, wenn dies zur Erreichung
-des Prüfungszweckes geboten ist. Die Sätze 1 und 2 gelten nicht für
+Bundesanstalt kann innerhalb von zwei Monaten nach Zugang der Anzeige
+die Bestellung eines anderen Prüfers verlangen, wenn dies zur
+Erreichung des Prüfungszweckes geboten ist. Die Bestellung eines
+anderen Prüfers ist in der Regel zur Erreichung des Prüfungszwecks
+geboten, wenn ein Schwarmfinanzierungsdienstleister der Bundesanstalt
+für mindestens elf aufeinanderfolgende Geschäftsjahre denselben Prüfer
+angezeigt hat. Die Sätze 1 bis 3 gelten nicht für
 Schwarmfinanzierungsdienstleister, die einem genossenschaftlichen
 Prüfungsverband angehören oder durch die Prüfungsstelle eines
 Sparkassen- und Giroverbandes geprüft werden.
@@ -4012,14 +4207,12 @@ die nicht der Zustimmung des Bundesrates bedarf,
 
 
 (8) Die Berechnung der Stimmrechte, die nach den Absätzen 1 und 5
-nicht zu berücksichtigen sind, bestimmt sich nach den in Artikel 9
-Absatz 6b und Artikel 13 Absatz 4 der Richtlinie 2004/109/EG des
-Europäischen Parlaments und des Rates vom 15. Dezember 2004 zur
-Harmonisierung der Transparenzanforderungen in Bezug auf Informationen
-über Emittenten, deren Wertpapiere zum Handel auf einem geregelten
-Markt zugelassen sind, und zur Änderung der Richtlinie 2001/34/EG
-(ABl. L 390 vom 31.12.2004, S. 38) benannten technischen
-Regulierungsstandards.
+nicht zu berücksichtigen sind, bestimmt sich nach der Delegierten
+Verordnung (EU) 2015/761 der Kommission vom 17. Dezember 2014 zur
+Ergänzung der Richtlinie 2004/109/EG des Europäischen Parlaments und
+des Rates im Hinblick auf bestimmte technische Regulierungsstandards
+für bedeutende Beteiligungen (ABl. L 120 vom 13.5.2015, S. 2) in der
+jeweils geltenden Fassung.
 
 
 ### § 37 Mitteilung durch Mutterunternehmen; Verordnungsermächtigung
@@ -4096,16 +4289,11 @@ Instrument ausschließlich einen Barausgleich vor, ist die Anzahl der
 Stimmrechte abweichend von Satz 1 auf einer Delta-angepassten Basis zu
 berechnen, wobei die nominale Anzahl der zugrunde liegenden Aktien mit
 dem Delta des Instruments zu multiplizieren ist. Die Einzelheiten der
-Berechnung bestimmen sich nach den in Artikel 13 Absatz 1a der
-Richtlinie 2004/109/EG des Europäischen Parlaments und des Rates vom
-15\. Dezember 2004 zur Harmonisierung der Transparenzanforderungen in
-Bezug auf Informationen über Emittenten, deren Wertpapiere zum Handel
-auf einem geregelten Markt zugelassen sind, und zur Änderung der
-Richtlinie 2001/34/EG (ABl. L 390 vom 31.12.2004, S. 38) benannten
-technischen Regulierungsstandards. Bei Instrumenten, die sich auf
-einen Aktienkorb oder einen Index beziehen, bestimmt sich die
-Berechnung ebenfalls nach den technischen Regulierungsstandards gemäß
-Satz 2.
+Berechnung bestimmen sich nach der Delegierten Verordnung (EU)
+2015/761 in der jeweils geltenden Fassung. Bei Instrumenten, die sich
+auf einen Aktienkorb oder einen Index beziehen, bestimmt sich die
+Berechnung ebenfalls nach den technischen Regulierungsstandards nach
+Satz 3.
 
 (4) Beziehen sich verschiedene der in Absatz 1 genannten Instrumente
 auf Aktien desselben Emittenten, sind die Stimmrechte aus diesen
@@ -4745,15 +4933,15 @@ unterrichten die Bundesanstalt über nach Satz 1 erhebliche Änderungen
 an ihrem Handelsplatz.
 
 (6) Der Betreiber eines multilateralen oder organisierten
-Handelssystems, an dem Warenderivate gehandelt werden, muss Verfahren
-zur Überwachung der Einhaltung der nach den Absätzen 1 bis 5 und § 55
-festgelegten Positionslimits (Positionsmanagementkontrollen)
-einrichten. Diese müssen transparent und diskriminierungsfrei
-ausgestaltet werden, festlegen, wie sie anzuwenden sind und der Art
-und Zusammensetzung der Marktteilnehmer sowie deren Nutzung der zum
-Handel zugelassenen Kontrakte Rechnung tragen. Im Rahmen von
-Kontrollen nach den Sätzen 1 und 2 hat der Betreiber eines
-Handelsplatzes insbesondere sicherzustellen, dass er das Recht hat,
+Handelssystems, an dem Warenderivate oder Derivate von
+Emissionszertifikaten gehandelt werden, muss Verfahren zur laufenden
+Überwachung von Positionen einrichten (Positionsmanagementkontrollen).
+Diese müssen transparent und diskriminierungsfrei ausgestaltet werden,
+festlegen, wie sie anzuwenden sind und der Art und Zusammensetzung der
+Marktteilnehmer sowie deren Nutzung der zum Handel zugelassenen
+Kontrakte Rechnung tragen. Im Rahmen von Kontrollen nach den Sätzen 1
+und 2 hat der Betreiber eines Handelsplatzes insbesondere
+sicherzustellen, dass er das Recht hat,
 
 1.  die offenen Kontraktpositionen jeder Person zu überwachen,
 
@@ -4923,15 +5111,16 @@ nicht für Wertpapiere im Sinne des § 2 Absatz 1 Nummer 3 Buchstabe b,
 die mit Waren oder Basiswerten im Sinne des § 2 Absatz 3 Nummer 2 in
 Verbindung stehen.
 
-(2) Der Betreiber eines Handelsplatzes, an dem Warenderivate,
-Emissionszertifikate oder Derivate davon gehandelt werden, muss
-wöchentlich eine Aufstellung der aggregierten Positionen in den
-verschiedenen an dem Handelsplatz gehandelten Warenderivaten oder
-Emissionszertifikaten oder Derivaten davon, die von Personenkategorien
-nach Satz 4 in diesen Finanzinstrumenten gehalten werden,
-veröffentlichen und der Bundesanstalt sowie der Europäischen
-Wertpapier- und Marktaufsichtsbehörde übermitteln. Die Aufstellung
-muss enthalten:
+(2) Der Betreiber eines Handelsplatzes, an dem Warenderivate oder
+Derivate von Emissionszertifikaten gehandelt werden, muss wöchentlich
+eine Aufstellung der betreffenden aggregierten Positionen, die von
+Personenkategorien nach Satz 4 in diesen Finanzinstrumenten gehalten
+werden, veröffentlichen und der Bundesanstalt sowie der Europäischen
+Wertpapier- und Marktaufsichtsbehörde übermitteln; wenn am
+Handelsplatz auch Optionen auf diese Finanzinstrumente gehandelt
+werden, sind zwei Aufstellungen zu veröffentlichen und zu übermitteln,
+von denen eine diese Optionen nicht berücksichtigt. Die Aufstellung
+muss jeweils enthalten:
 
 1.  die Zahl der Kauf- und Verkaufspositionen, aufgeteilt nach den in den
     Sätzen 4 und 5 genannten Kategorien,
@@ -4973,39 +5162,37 @@ Kategorien zuzuordnen:
 
 
 
-Im Falle eines Emissionszertifikats oder eines Derivats davon ist
-ergänzend zu Satz 4 eine weitere Kategorie für Betreiber mit der
-Verpflichtung zur Einhaltung der Anforderungen der Richtlinie
-2003/87/EG bei Emissionszertifikaten oder Derivaten davon zu bilden.
-Die Pflicht nach Satz 1 gilt nur für Warenderivate,
-Emissionszertifikate und Derivate davon, bei denen die in Artikel 83
-der Delegierten Verordnung (EU) 2017/565 festgelegten Mindestschwellen
-überschritten werden.
+Im Fall eines Derivats von Emissionszertifikaten ist ergänzend zu Satz
+4 eine weitere Kategorie für Betreiber mit der Verpflichtung zur
+Einhaltung der Anforderungen der Richtlinie 2003/87/EG bei Derivaten
+von Emissionszertifikaten zu bilden. Die Pflicht nach Satz 1 gilt nur
+für Warenderivate und Derivate von Emissionszertifikaten, bei denen
+die in Artikel 83 der Delegierten Verordnung (EU) 2017/565
+festgelegten Mindestschwellen überschritten werden.
 
-(3) Betreiber eines Handelsplatzes, an dem Warenderivate,
-Emissionszertifikate oder Derivate davon gehandelt werden, müssen der
-Bundesanstalt darüber hinaus einmal täglich eine vollständige
-Aufstellung der Positionen aller Mitglieder oder Teilnehmer an diesem
-Handelsplatz sowie deren Kunden und der Kunden dieser Kunden bis zum
-Endkunden in Warenderivaten, Emissionszertifikaten oder Derivaten
-davon übermitteln.
+(3) Betreiber eines Handelsplatzes, an dem Warenderivate oder Derivate
+von Emissionszertifikaten gehandelt werden, müssen der Bundesanstalt
+darüber hinaus einmal täglich eine vollständige Aufstellung der
+Positionen aller Mitglieder oder Teilnehmer an diesem Handelsplatz
+sowie deren Kunden und der Kunden dieser Kunden bis zum Endkunden in
+Warenderivaten oder Derivaten von Emissionszertifikaten übermitteln.
 
 (4) Wertpapierdienstleistungsunternehmen, die außerhalb eines
-Handelsplatzes mit Warenderivaten, Emissionszertifikaten oder
-Derivaten davon handeln, die auch an einem Handelsplatz gehandelt
-werden, sind verpflichtet, der in Satz 2 genannten Behörde mindestens
-einmal täglich eine vollständige Aufstellung ihrer Positionen in
-diesen Finanzinstrumenten und in wirtschaftlich gleichwertigen OTC-
-Kontrakten sowie der entsprechenden Positionen ihrer Kunden und der
-Kunden dieser Kunden bis zum Endkunden gemäß Artikel 26 der Verordnung
-(EU) Nr. 600/2014 oder Artikel 8 der Verordnung (EU) Nr. 1227/2011 zu
-übermitteln. Die Aufstellung nach Satz 1 ist zu übermitteln
+Handelsplatzes mit Warenderivaten oder Derivaten von
+Emissionszertifikaten handeln, die auch an einem Handelsplatz
+gehandelt werden, sind verpflichtet, der in Satz 2 genannten Behörde
+mindestens einmal täglich eine vollständige Aufstellung ihrer
+Positionen in wirtschaftlich gleichwertigen OTC-Kontrakten sowie der
+entsprechenden Positionen ihrer Kunden und der Kunden dieser Kunden
+bis zum Endkunden gemäß Artikel 26 der Verordnung (EU) Nr. 600/2014
+oder Artikel 8 der Verordnung (EU) Nr. 1227/2011 zu übermitteln. Die
+Aufstellung nach Satz 1 ist zu übermitteln
 
 1.  der zentralen zuständigen Behörde im Sinne des § 55 Absatz 1 oder
 
 
-2.  der zuständigen Behörde des Handelsplatzes, an dem die Warenderivate,
-    Emissionszertifikate oder Derivate davon gehandelt werden, falls es
+2.  der zuständigen Behörde des Handelsplatzes, an dem die Warenderivate
+    oder Derivate von Emissionszertifikaten gehandelt werden, falls es
     keine zentrale zuständige Behörde gibt.
 
 
@@ -5461,6 +5648,38 @@ Bundesministerium der Finanzen kann die Ermächtigung durch
 Rechtsverordnung auf die Bundesanstalt übertragen.
 
 
+### § 63a Besondere Verhaltens- und Informationsregeln für die Nutzung und Verbreitung von Analysen und emittentenfinanzierten Analysen
+
+(1) Vom Wertpapierdienstleistungsunternehmen oder von einem Dritten
+erstellte Analysen, die das Wertpapierdienstleistungsunternehmen nutzt
+oder an Kunden oder potenzielle Kunden verbreitet, müssen redlich und
+eindeutig sein und dürfen nicht irreführend sein. Analysen nach Satz 1
+müssen eindeutig als solche erkennbar sein, es sei denn, sie sind auf
+Grund der Vorgaben dieses Gesetzes oder der Delegierten Verordnung
+(EU) 2017/565 als Marketingmitteilung zu kennzeichnen.
+
+(2) Ein Wertpapierdienstleistungsunternehmen stellt sicher, dass
+Analysen, die ganz oder teilweise durch Emittenten finanziert wurden,
+nur dann als „emittentenfinanzierte Analysen“ gekennzeichnet werden,
+wenn diese in Einhaltung des nach Artikel 24 Absatz 3c der Richtlinie
+2014/65/EU erlassenen technischen Regulierungsstandards („EU-
+Verhaltenskodex für emittentenfinanzierte Analysen“) erstellt wurden.
+Als solche gekennzeichnete „emittentenfinanzierte Analysen“ müssen auf
+der Vorderseite in klarer und deutlicher Weise darauf hinweisen, dass
+sie in Einhaltung des „EU-Verhaltenskodex für emittentenfinanzierte
+Analysen“ erstellt wurden. Alle anderen ganz oder teilweise durch
+Emittenten finanzierte Analysen, bei denen der EU-Verhaltenskodex für
+„emittentenfinanzierte Analysen“ nicht eingehalten wurden, sind
+eindeutig als Marketingmitteilungen zu kennzeichnen.
+
+(3) Ein Wertpapierdienstleistungsunternehmen, das
+emittentenfinanzierte Analysen erstellt oder verbreitet, muss
+geeignete Vorkehrungen treffen, um zu gewährleisten, dass die Analysen
+den Vorgaben der Absätze 1 und 2 entsprechen und unter Einhaltung des
+„EU-Verhaltenskodex für emittentenfinanzierte Analysen“ erstellt
+wurden.
+
+
 ### § 64 Besondere Verhaltensregeln bei der Erbringung von Anlageberatung und Finanzportfolioverwaltung; Verordnungsermächtigung
 
 (1) Erbringt ein Wertpapierdienstleistungsunternehmen Anlageberatung,
@@ -5618,21 +5837,16 @@ Geeignetheit geltenden Pflichten regeln die Artikel 54 und 55 der
 Delegierten Verordnung (EU) 2017/565. Näheres zur Geeignetheit von
 Verbriefungen und den im Zusammenhang mit der Beurteilung der
 Geeignetheit geltenden Pflichten regelt Artikel 3 der Verordnung (EU)
-2017/2402 des Europäischen Parlaments und des Rates vom 12. Dezember
-2017 zur Festlegung eines allgemeinen Rahmens für Verbriefungen und
-zur Schaffung eines spezifischen Rahmens für einfache, transparente
-und standardisierte Verbriefung und zur Änderung der Richtlinien
-2009/65/EG, 2009/138/EG, 2011/61/EU und der Verordnungen (EG) Nr.
-1060/2009 und (EU) Nr. 648/2012 (ABl. L 347 vom 28.12.2017, S. 35).
-Erbringt ein Wertpapierdienstleistungsunternehmen eine Anlageberatung,
-bei der verbundene Produkte oder Dienstleistungen im Sinne des § 63
-Absatz 9 empfohlen werden, gilt Satz 2 für das gesamte verbundene
-Geschäft entsprechend. Erbringen Wertpapierdienstleistungsunternehmen
-entweder Anlageberatung oder Finanzportfolioverwaltung, die eine
-Umschichtung von Finanzinstrumenten umfassen, so haben sie die
-notwendigen Informationen über die Investition des Kunden einzuholen
-und die Kosten und den Nutzen der Umschichtung von Finanzinstrumenten
-zu analysieren. Satz 6 gilt nicht für Dienstleistungen, die gegenüber
+2017/2402. Erbringt ein Wertpapierdienstleistungsunternehmen eine
+Anlageberatung, bei der verbundene Produkte oder Dienstleistungen im
+Sinne des § 63 Absatz 9 empfohlen werden, gilt Satz 2 für das gesamte
+verbundene Geschäft entsprechend. Erbringen
+Wertpapierdienstleistungsunternehmen entweder Anlageberatung oder
+Finanzportfolioverwaltung, die eine Umschichtung von
+Finanzinstrumenten umfassen, so haben sie die notwendigen
+Informationen über die Investition des Kunden einzuholen und die
+Kosten und den Nutzen der Umschichtung von Finanzinstrumenten zu
+analysieren. Satz 6 gilt nicht für Dienstleistungen, die gegenüber
 professionellen Kunden erbracht werden, es sei denn, diese Kunden
 setzen das Wertpapierdienstleistungsunternehmen entweder in
 elektronischer Form oder in schriftlicher Form darüber in Kenntnis,
@@ -5898,44 +6112,8 @@ Unrichtigkeit der Kundenangaben ist ihm bekannt oder infolge grober
 Fahrlässigkeit unbekannt.
 
 
-### § 65a Selbstauskunft bei der Vermittlung des Vertragsschlusses über Wertpapiere im Sinne des § 6 des Wertpapierprospektgesetzes
+### § 65a (weggefallen)
 
-(1) Ein Wertpapierdienstleistungsunternehmen hat vor der Vermittlung
-des Vertragsschlusses über Wertpapiere im Sinne des § 6 des
-Wertpapierprospektgesetzes von dem nicht qualifizierten Anleger eine
-Selbstauskunft über dessen Vermögen oder dessen Einkommen in dem
-Umfang einzuholen, wie dies erforderlich ist, um prüfen zu können, ob
-der Gesamtbetrag der Wertpapiere, die von dem nicht qualifizierten
-Anleger erworben werden, folgende Beträge nicht übersteigt:
-
-1.  10 000 Euro, sofern der jeweilige nicht qualifizierte Anleger nach
-    seiner Selbstauskunft über ein frei verfügbares Vermögen in Form von
-    Bankguthaben und Finanzinstrumenten von mindestens 100 000 Euro
-    verfügt, oder
-
-
-2.  den zweifachen Betrag des durchschnittlichen monatlichen
-    Nettoeinkommens des jeweiligen nicht qualifizierten Anlegers,
-    höchstens jedoch 25 000 Euro Euro.
-
-
-
-Satz 1 gilt nicht, wenn der Gesamtbetrag der Wertpapiere, die von dem
-nicht qualifizierten Anleger erworben werden, 1 000 Euro nicht
-überschreitet. Ein Wertpapierdienstleistungsunternehmen darf einen
-Vertragsschluss über Wertpapiere im Sinne des § 6 des
-Wertpapierprospektgesetzes nur vermitteln, wenn es geprüft hat, dass
-der Gesamtbetrag der Wertpapiere, die von dem nicht qualifizierten
-Anleger erworben werden, 1 000 Euro oder die in Satz 1 genannten
-Beträge nicht übersteigt.
-
-(2) Soweit die in Absatz 1 genannten Informationen auf Angaben des
-nicht qualifizierten Anlegers beruhen, hat das
-Wertpapierdienstleistungsunternehmen die Fehlerhaftigkeit oder
-Unvollständigkeit der Angaben seines nicht qualifizierten Anlegers
-nicht zu vertreten, es sei denn, die Unvollständigkeit oder
-Unrichtigkeit der Angaben des nicht qualifizierten Anlegers ist ihm
-bekannt oder infolge grober Fahrlässigkeit unbekannt.
 
 
 ### § 65b Veräußerung nachrangiger berücksichtigungsfähiger Verbindlichkeiten und relevanter Kapitalinstrumente an Privatkunden
@@ -6145,8 +6323,8 @@ den Eigenhandel sowie damit in direktem Zusammenhang stehende
 Wertpapiernebendienstleistungen gegenüber geeigneten Gegenparteien
 erbringen, sind nicht an die Vorgaben von § 63 Absatz 1, 3 bis 10, 12
 Satz 1 und 2, § 64 Absatz 1 Satz 1, Absatz 3 bis 8, § 69 Absatz 1, der
-§§ 70, 82, 83 Absatz 2 und § 87 Absatz 1 und 2 gebunden. Satz 1 ist
-nicht anwendbar, sofern die geeignete Gegenpartei mit dem
+§§ 70, 82, 83 Absatz 2 und § 87 Absatz 2 gebunden. Satz 1 ist nicht
+anwendbar, sofern die geeignete Gegenpartei mit dem
 Wertpapierdienstleistungsunternehmen für alle oder für einzelne
 Geschäfte vereinbart hat, als professioneller Kunde oder als
 Privatkunde behandelt zu werden. Wertpapierdienstleistungsunternehmen
@@ -6353,27 +6531,35 @@ ohne Ausweis einer separaten Gebühr für Analysen und jede
 Wertpapierdienstleistung, durch die Aufträge von Kunden ausgeführt
 werden, zulässig, wenn
 
-1.  vor der Erbringung der Ausführungs- oder Analysedienstleistungen eine
-    Vereinbarung zwischen dem Wertpapierdienstleistungsunternehmen und dem
-    Analyseanbieter getroffen wurde, in der festgelegt ist, welcher Teil
-    der kombinierten Gebühren oder gemeinsamen Zahlungen für Ausführungs-
-    und Analysedienstleistungen auf Analysedienstleistungen entfallen,
+1.  eine Vereinbarung zwischen dem Wertpapierdienstleistungsunternehmen
+    und dem Drittanbieter von Ausführungsdienstleistungen und Analysen
+    getroffen wurde, in der eine Vergütungsmethode festgelegt ist, die
+    beinhaltet, wie die Gesamtkosten der Analysen bei der Bestimmung der
+    Gesamtkosten der Wertpapierdienstleistungen berücksichtigt werden,
 
 
-2.  die Analysen annehmende Wertpapierdienstleistungsunternehmen seine
-    Kunden über die gemeinsamen Zahlungen für Ausführungs- und
-    Analysedienstleistungen informiert, die an die Drittanbieter von
-    Analysen geleistet werden, und
+2.  das die Analysen annehmende Wertpapierdienstleistungsunternehmen
+
+    a)  seine Kunden über seine Entscheidung, Ausführungsdienstleistungen und
+        Analysen separat oder gemeinsam zu bezahlen, informiert,
 
 
-3.  die Analysen, für welche die kombinierten Gebühren geleistet werden
-    oder die gemeinsame Zahlung erfolgt, Emittenten betreffen, die in den
-    36 Monaten vor der Bereitstellung der Analysen eine
-    Marktkapitalisierung von 1 Milliarde Euro nicht überschritten haben,
-    ausgedrückt durch die Notierungen am Ende der Jahre, in denen sie an
-    einem Handelsplatz notiert sind oder waren, oder durch das
-    Eigenkapital für die Geschäftsjahre, in denen sie nicht an einem
-    Handelsplatz notiert waren.
+    b)  seinen Kunden seine Grundsätze zur Bezahlung von Analyse- und
+        Ausführungsdienstleistungen zur Verfügung stellt, einschließlich der
+        Art von Informationen, die das Wertpapierdienstleistungsunternehmen
+        nach der gewählten Zahlungsmethode zur Verfügung stellen kann, und,
+        soweit relevant, einschließlich der Informationen über Maßnahmen, wie
+        das Wertpapierdienstleistungsunternehmen aus der gemeinsamen Bezahlung
+        potenziell entstehende Interessenkonflikte vermeidet oder regelt, und
+
+
+
+
+
+3.  das Wertpapierdienstleistungsunternehmen die verwendeten Analysen
+    jährlich hinsichtlich ihrer Qualität, ihrer Nutzbarkeit und ihres
+    Werts sowie auch dahingehend bewertet, ob die verwendeten Analysen zu
+    besseren Anlageentscheidungen beitragen können.
 
 
 
@@ -6394,7 +6580,23 @@ Grundlage neuer oder bereits vorhandener Informationen
 Schlussfolgerungen gezogen werden, die genutzt werden könnten, um eine
 Anlagestrategie zu begründen, und die für die Entscheidungen, die das
 Wertpapierinstitut für die die Analysegebühr entrichtenden Kunden
-trifft, relevant und von Nutzen sein könnten.
+trifft, relevant und von Nutzen sein könnten. Nicht als Analysen
+gelten Handelskommentare und andere maßgeschneiderte
+Handelsberatungsdienstleistungen, die unmittelbar mit der Ausführung
+eines Geschäfts in Finanzinstrumenten verbunden sind. Das
+Wertpapierpapierdienstleistungsunternehmen führt Buch über die
+Gesamtkosten, die den ihnen bereitgestellten Analysen Dritter
+zuzurechnen sind, soweit es Kenntnis von diesen Kosten hat. Diese
+Informationen werden den Kunden der Wertpapierfirma auf Anfrage
+jährlich zur Verfügung gestellt.
+
+(6b) Die Bereitstellung von Analysen stellt keine Zuwendung dar, wenn
+der Analyseanbieter weder Ausführungsdienstleistungen erbringt noch
+Teil einer Gruppe ist, zu der auch ein
+Wertpapierdienstleistungsunternehmen gehört, das Ausführungs- oder
+Vermittlungsdienstleistungen anbietet. In solchen Fällen muss das
+Wertpapierdienstleistungsunternehmen die Anforderung nach Absatz 6a
+Satz 1 Nummer 3 erfüllen.
 
 (7) Gebühren und Entgelte, die die Erbringung von
 Wertpapierdienstleistungen erst ermöglichen oder dafür notwendig sind,
@@ -6601,11 +6803,17 @@ Handelssystems ist dazu verpflichtet,
 13. sicherzustellen, dass das multilaterale oder organisierte
     Handelssystem über mindestens drei aktive Mitglieder oder Nutzer
     verfügt, denen es jeweils möglich ist, mit allen übrigen Mitgliedern
-    und Nutzern zum Zwecke der Preisbildung zu interagieren.
+    und Nutzern zum Zwecke der Preisbildung zu interagieren;
+
+
+14. sicherzustellen, dass die in Artikel 22b der Verordnung (EU) Nr.
+    600/2014 festgelegten Standards für die Datenqualität, einschließlich
+    der in den nach Artikel 22b Absatz 3 der Verordnung (EU) Nr. 600/2014
+    erlassenen technischen Regulierungsstandards, erfüllt werden.
 
 
 
-§ 5 Absatz 4a, die §§ 22a, 26c und 26d des Börsengesetzes gelten
+§ 5 Absatz 4a, die §§ 26c und 26d des Börsengesetzes gelten
 entsprechend.
 
 (2) Die Gebührenstrukturen, einschließlich der Ausführungsgebühren,
@@ -6649,14 +6857,7 @@ Handelssystems hat der Bundesanstalt schwerwiegende Verstöße gegen die
 Handelsregeln, Störungen der Marktintegrität und Anhaltspunkte für
 einen Verstoß gegen die Vorschriften der Verordnung (EU) Nr. 596/2014
 unverzüglich mitzuteilen und diese bei ihren Untersuchungen umfassend
-zu unterstützen. Die Bundesanstalt hat die Informationen nach Satz 1
-der Europäischen Wertpapier- und Marktaufsichtsbehörde und den
-zuständigen Behörden der anderen Mitgliedstaaten und der
-Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum zu
-übermitteln. Im Falle von Anhaltspunkten für Verstöße gegen die
-Vorschriften der Verordnung (EU) Nr. 596/2014 übermittelt die
-Bundesanstalt Informationen erst dann, wenn sie von einem Verstoß
-überzeugt ist.
+zu unterstützen.
 
 (7) Darüber hinaus hat der Betreiber eines multilateralen oder
 organisierten Handelssystems der Bundesanstalt unverzüglich
@@ -6885,10 +7086,11 @@ Handelssystem abgeschlossen wurden.
 
 ### § 76 KMU-Wachstumsmärkte; Verordnungsermächtigung
 
-(1) Der Betreiber eines multilateralen Handelssystems kann dieses bei
-der Bundesanstalt als Wachstumsmarkt für kleine und mittlere
-Unternehmen (KMU-Wachstumsmarkt) registrieren lassen, sofern folgende
-Anforderungen erfüllt sind:
+(1) Der Betreiber eines multilateralen Handelssystems kann dieses oder
+ein Segment des multilateralen Handelssystems bei der Bundesanstalt
+als Wachstumsmarkt für kleine und mittlere Unternehmen (KMU-
+Wachstumsmarkt) registrieren lassen, sofern folgende Anforderungen
+erfüllt sind:
 
 1.  bei mindestens 50 Prozent der Emittenten, deren Finanzinstrumente zum
     Handel auf dem multilateralen Handelssystem zugelassen sind, handelt
@@ -6942,21 +7144,59 @@ Anforderungen erfüllt sind:
 Die Möglichkeit des Betreibers, zusätzliche Anforderungen festzulegen,
 bleibt unberührt.
 
+(1a) Handelt es sich bei dem KMU-Wachstumsmarkt um ein Segment eines
+multilateralen Handelssystems, so sind zusätzlich zu den in Absatz 1
+genannten Vorrausetzungen die folgenden Anforderungen zu erfüllen:
+
+1.  das als KMU-Wachstumsmarkt registrierte Segment des multilateralen
+    Handelssystems ist eindeutig von den anderen vom Betreiber des
+    multilateralen Handelssystems betriebenen Marktsegmenten getrennt;
+    insbesondere trägt das Segment einen anderen Namen, besitzt ein
+    anderes Regelwerk, verwendet eine andere Marketingstrategie, weist
+    eine andere Medienpräsenz auf und besitzt eine spezifisch zugewiesene
+    Handelsplatz-Identifikationsnummer;
+
+
+2.  die in dem speziellen KMU-Wachstumsmarktsegment getätigten Geschäfte
+    sind klar von anderem Marktgeschehen innerhalb der anderen Segmente
+    des multilateralen Handelssystems zu unterscheiden und
+
+
+3.  auf Ersuchen der Bundesanstalt werden vom multilateralen Handelssystem
+    ein umfassendes Verzeichnis der in dem betreffenden KMU-
+    Wachstumsmarktsegment notierten Instrumente sowie alle von der
+    zuständigen Behörde gegebenenfalls angeforderten Informationen über
+    die Funktionsweise des KMU-Wachstumsmarktsegments vorgelegt.
+
+
+
+
+(1b) Für den Fall, dass der Emittent die Einbeziehung von Wertpapieren
+zum Handel an dem KMU-Wachstumsmarkt kündigt, findet § 39 Absatz 2 bis
+6 des Börsengesetzes entsprechende Anwendung, sofern er nicht die
+Zulassung dieser Wertpapiere zum Handel im organisierten Markt
+beantragt.
+
 (2) Die Bundesanstalt hebt die Registrierung eines KMU-
 Wachstumsmarktes auf, wenn dessen Betreiber dies beantragt oder wenn
-die Voraussetzungen für eine Registrierung nach Absatz 1 nicht mehr
-vorliegen. Die Bundesanstalt unterrichtet die Europäische Wertpapier-
-und Marktaufsichtsbehörde unverzüglich über die Registrierung eines
-KMU-Wachstumsmarktes und über deren Aufhebung.
+die Voraussetzungen für eine Registrierung nach Absatz 1 oder Absatz
+1a nicht mehr vorliegen. Die Bundesanstalt unterrichtet die
+Europäische Wertpapier- und Marktaufsichtsbehörde unverzüglich über
+die Registrierung eines KMU-Wachstumsmarktes und über deren Aufhebung.
 
 (3) Ein Finanzinstrument, das zum Handel an einem KMU-Wachstumsmarkt
-zugelassen ist, kann nur dann in einem anderen KMU-Wachstumsmarkt
-gehandelt werden, wenn der Emittent des Finanzinstruments hierüber
-unterrichtet wurde und dem nicht widersprochen hat. In einem solchen
-Fall entstehen dem Emittenten im Hinblick auf diesen anderen KMU-
-Wachstumsmarkt keine Verpflichtungen in Bezug auf die
-Unternehmensführung und -kontrolle oder erstmalige, laufende oder
-punktuelle Veröffentlichungspflichten.
+zugelassen ist, kann nur dann in einem anderen Handelsplatz gehandelt
+werden, wenn der Emittent des Finanzinstruments hierüber unterrichtet
+wurde und dem nicht widersprochen hat. Handelt es sich bei dem anderen
+Handelsplatz um einen KMU-Wachstumsmarkt, entstehen dem Emittenten im
+Hinblick auf diesen anderen KMU-Wachstumsmarkt keine Verpflichtungen
+in Bezug auf die Unternehmensführung und -kontrolle oder erstmalige,
+laufende oder punktuelle Veröffentlichungspflichten. Handelt es sich
+bei dem anderen Handelsplatz nicht um einen KMU-Wachstumsmarkt, so ist
+der Emittent im Hinblick auf diesen Handelsplatz über etwaige
+Verpflichtungen in Bezug auf die Unternehmensführung und -kontrolle
+oder in Bezug auf erstmalige, laufende oder punktuelle
+Veröffentlichungen, denen er unterliegen wird, zu unterrichten.
 
 (4) Das Bundesministerium der Finanzen kann durch Rechtsverordnung,
 die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen
@@ -7077,7 +7317,12 @@ Wertpapierinstitutsgesetzes einhalten. Darüber hinaus muss es
 
 1.  angemessene Vorkehrungen treffen, um die Kontinuität und
     Regelmäßigkeit der Wertpapierdienstleistungen und
-    Wertpapiernebendienstleistungen zu gewährleisten;
+    Wertpapiernebendienstleistungen zu gewährleisten; zu diesem Zweck
+    greift es auf geeignete und verhältnismäßige Systeme, einschließlich
+    der nach Artikel 7 der Verordnung (EU) 2022/2554 eingerichteten und
+    verwalteten Systeme der Informations- und Kommunikationstechnologie
+    (IKT), sowie auf geeignete und verhältnismäßige Ressourcen und
+    Verfahren zurück;
 
 
 2.  auf Dauer wirksame Vorkehrungen für angemessene Maßnahmen treffen, um
@@ -7102,16 +7347,17 @@ Wertpapierinstitutsgesetzes einhalten. Darüber hinaus muss es
     überwachen, dass Kundeninteressen nicht beeinträchtigt werden;
 
 
-4.  über solide Sicherheitsmechanismen verfügen, die die Sicherheit und
+4.  über solide Sicherheitsmechanismen zur Erfüllung der Vorgaben der
+    Verordnung (EU) 2022/2554 verfügen, die die Sicherheit und
     Authentifizierung der Informationsübermittlungswege gewährleisten, das
     Risiko der Datenverfälschung und des unberechtigten Zugriffs
-    minimieren und verhindern, dass Informationen bekannt werden, so dass
+    minimieren und verhindern, dass Informationen bekannt werden, sodass
     die Vertraulichkeit der Daten jederzeit gewährleistet ist.
 
 
 
 Nähere Bestimmungen zur Organisation der
-Wertpapierdienstleistungsunternehmen enthalten die Artikel 21 bis 26
+Wertpapierdienstleistungsunternehmen enthält Kapitel II Abschnitt 1
 der Delegierten Verordnung (EU) 2017/565.
 
 (2) Ein Wertpapierdienstleistungsunternehmen muss zusätzlich die in
@@ -7131,9 +7377,10 @@ Wertpapierdienstleistungsunternehmen, das algorithmischen Handel
 betreibt, muss über Systeme und Risikokontrollen verfügen, die
 sicherstellen, dass
 
-1.  seine Handelssysteme belastbar sind, über ausreichende Kapazitäten
-    verfügen und angemessenen Handelsschwellen und Handelsobergrenzen
-    unterliegen;
+1.  seine Handelssysteme entsprechend den Vorgaben in Kapitel II der
+    Verordnung (EU) 2022/2554 belastbar sind, über ausreichende
+    Kapazitäten verfügen und angemessenen Handelsschwellen und
+    Handelsobergrenzen unterliegen;
 
 
 2.  die Übermittlung von fehlerhaften Aufträgen oder eine Funktionsweise
@@ -7149,10 +7396,16 @@ sicherstellen, dass
 
 
 Ein Wertpapierdienstleistungsunternehmen, das algorithmischen Handel
-betreibt, muss ferner über wirksame Notfallvorkehrungen verfügen, um
-mit unvorgesehenen Störungen in seinen Handelssystemen umzugehen, und
-sicherstellen, dass seine Systeme vollständig geprüft sind und
-ordnungsgemäß überwacht werden. Das
+betreibt, muss ferner über wirksame Vorkehrungen zur Fortführung der
+Geschäftstätigkeiten, einschließlich der nach Artikel 11 der
+Verordnung (EU) 2022/2554 aufgestellten IKT-
+Geschäftsfortführungsleitlinie und -pläne sowie IKT-Reaktions- und
+-Wiederherstellungspläne, verfügen, um mit jeglichen Störungen in
+ihren Handelssystemen umzugehen und sicherzustellen, dass ihre Systeme
+vollständig getestet sind und ordnungsgemäß überwacht werden, damit
+die in diesem Absatz festgelegten allgemeinen Vorgaben und die in den
+Kapiteln II und IV der Verordnung (EU) 2022/2554 festgelegten
+spezifischen Vorgaben erfüllt werden. Das
 Wertpapierdienstleistungsunternehmen zeigt der Bundesanstalt und den
 zuständigen Behörden des Handelsplatzes, dessen Mitglied oder
 Teilnehmer es ist, an, dass es algorithmischen Handel betreibt.
@@ -7434,9 +7687,7 @@ Kunden für den Kauf oder Verkauf von Finanzinstrumenten im Sinne des §
 2 Absatz 8 Satz 1 Nummer 1 bis 3 ausführt, muss
 
 1.  alle hinreichenden Vorkehrungen treffen, insbesondere Grundsätze zur
-    Auftragsausführung festlegen und regelmäßig, insbesondere unter
-    Berücksichtigung der nach den Absätzen 9 bis 12 und § 26e des
-    Börsengesetzes veröffentlichten Informationen, überprüfen, um das
+    Auftragsausführung festlegen und regelmäßig überprüfen, um das
     bestmögliche Ergebnis für seine Kunden zu erreichen und
 
 
@@ -7525,47 +7776,12 @@ einen bestimmten Handelsplatz oder Ausführungsplatz weder eine
 Vergütung noch einen Rabatt oder einen nichtmonetären Vorteil
 annehmen, wenn dies einen Verstoß gegen die Anforderungen nach § 63
 Absatz 1 bis 7 und 9, § 64 Absatz 1 und 5, den §§ 70, 80 Absatz 1 Satz
-2 Nummer 2, Absatz 9 bis 11 oder die Absätze 1 bis 4 darstellen würde.
+2 Nummer 2, Absatz 9 bis 11 oder die Absätze 1 bis 4 dieses Gesetzes
+oder Artikel 39a der Verordnung (EU) Nr. 600/2014 darstellen würde.
 
-(9) Das Wertpapierdienstleistungsunternehmen muss einmal jährlich für
-jede Gattung von Finanzinstrumenten die fünf Ausführungsplätze, die
-ausgehend vom Handelsvolumen am wichtigsten sind, auf denen es
-Kundenaufträge im Vorjahr ausgeführt hat, und Informationen über die
-erreichte Ausführungsqualität zusammenfassen und nach den Vorgaben der
-Delegierten Verordnung (EU) 2017/576 der Kommission vom 8. Juni 2016
-zur Ergänzung der Richtlinie 2014/65/EU des Europäischen Parlaments
-und des Rates durch technische Regulierungsstandards für die jährliche
-Veröffentlichung von Informationen durch Wertpapierfirmen zur
-Identität von Handelsplätzen und zur Qualität der Ausführung (ABl. L
-87 vom 31.3.2017, S. 166), in der jeweils geltenden Fassung,
-veröffentlichen.
-
-(10) Vorbehaltlich des § 26e des Börsengesetzes müssen Handelsplätze
-und systematische Internalisierer für jedes Finanzinstrument, das der
-Handelspflicht nach Artikel 23 oder Artikel 28 der Verordnung (EU) Nr.
-600/2014 unterliegt, mindestens einmal jährlich gebührenfrei
-Informationen über die Ausführungsqualität von Aufträgen
-veröffentlichen.
-
-(11) Vorbehaltlich des § 26e des Börsengesetzes müssen
-Ausführungsplätze für jedes Finanzinstrument, das nicht von Absatz 10
-erfasst wird, mindestens einmal jährlich gebührenfrei Informationen
-über die Ausführungsqualität von Aufträgen veröffentlichen.
-
-(12) Die Veröffentlichungen nach den Absätzen 10 und 11 müssen
-ausführliche Angaben zum Preis, zu den mit einer Auftragsausführung
-verbundenen Kosten, der Geschwindigkeit und der Wahrscheinlichkeit der
-Ausführung sowie der Abwicklung eines Auftrags in den einzelnen
-Finanzinstrumenten enthalten. Das Nähere regelt die Delegierte
-Verordnung (EU) 2017/575 der Kommission vom 8. Juni 2016 zur Ergänzung
-der Richtlinie 2014/65/EU des Europäischen Parlaments und des Rates
-über Märkte für Finanzinstrumente durch technische
-Regulierungsstandards bezüglich der Daten, die Ausführungsplätze zur
-Qualität der Ausführung von Geschäften veröffentlichen müssen (ABl. L
-87 vom 31.3.2017, S. 152), in der jeweils geltenden Fassung.
-
-(13) Nähere Bestimmungen ergeben sich aus der Delegierten Verordnung
-(EU) 2017/565, insbesondere zu
+(9) Nähere Bestimmungen ergeben sich aus den nach Artikel 27 Absatz 10
+der Richtlinie 2014/65/EU erlassenen technischen Regulierungsstandards
+sowie aus der Delegierten Verordnung (EU) 2017/565, insbesondere zu
 
 1.  der Aufstellung der Ausführungsgrundsätze nach den Absätzen 1 bis 5
     aus Artikel 64,
@@ -7661,9 +7877,9 @@ regelt Artikel 76 der Delegierten Verordnung (EU) 2017/565.
 (6) Erteilt der Kunde dem Wertpapierdienstleistungsunternehmen seinen
 Auftrag im Rahmen eines persönlichen Gesprächs, hat das
 Wertpapierdienstleistungsunternehmen die Erteilung des Auftrags
-mittels eines dauerhaften Datenträgers zu dokumentieren. Zu diesem
-Zweck dürfen auch schriftliche Protokolle oder Vermerke über den
-Inhalt des persönlichen Gesprächs angefertigt werden. Erteilt der
+unverzüglich mittels eines dauerhaften Datenträgers zu dokumentieren.
+Zu diesem Zweck dürfen auch schriftliche Protokolle oder Vermerke über
+den Inhalt des persönlichen Gesprächs angefertigt werden. Erteilt der
 Kunde seinen Auftrag auf andere Art und Weise, müssen solche
 Mitteilungen auf einem dauerhaften Datenträger erfolgen. Näheres
 regelt Artikel 76 Absatz 9 der Delegierten Verordnung (EU) 2017/565.
@@ -7693,7 +7909,11 @@ Voraussetzungen, insbesondere zur Erfüllung eines Kundenauftrags, der
 Anforderung durch die Bundesanstalt oder eine andere Aufsichts- oder
 eine Strafverfolgungsbehörde und nur durch einen oder mehrere vom
 Wertpapierdienstleistungsunternehmen gesondert zu benennende
-Mitarbeiter ausgewertet werden.
+Mitarbeiter ausgewertet werden. Eine Auswertung der Aufzeichnungen
+darf darüber hinaus nur durch einen nach § 89 Absatz 1 beauftragten
+Prüfer, die Bundesanstalt oder deren Beauftragte oder eine andere
+Aufsichts- oder Strafverfolgungsbehörde oder deren Beauftragte im
+Rahmen ihrer jeweiligen Zuständigkeit erfolgen.
 
 (10) Das Bundesministerium der Finanzen kann durch Rechtsverordnung,
 die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen
@@ -7719,18 +7939,14 @@ damit das Darlehen ausgezahlt, refinanziert oder abgelöst werden kann.
 
 ### § 84 Vermögensverwahrung und Finanzsicherheiten; Verordnungsermächtigung
 
-(1) Ein Wertpapierdienstleistungsunternehmen, das nicht über eine
-Erlaubnis für das Einlagengeschäft nach § 1 Absatz 1 Satz 2 Nummer 1
-des Kreditwesengesetzes verfügt und das Gelder von Kunden hält, hat
-geeignete Vorkehrungen zu treffen, um die Rechte der Kunden zu
-schützen und zu verhindern, dass die Gelder des Kunden ohne dessen
+(1) Ein Wertpapierdienstleistungsunternehmen, das Gelder von Kunden
+hält, hat geeignete Vorkehrungen zu treffen, um die Rechte der Kunden
+zu schützen und zu verhindern, dass die Gelder des Kunden ohne dessen
 ausdrückliche Zustimmung für eigene Rechnung oder für Rechnung einer
 anderen Person verwendet werden.
 
-(2) Ein Wertpapierdienstleistungsunternehmen, das über keine Erlaubnis
-für das Einlagengeschäft im Sinne des § 1 Abs. 1 Satz 2 Nr. 1 des
-Kreditwesengesetzes verfügt, hat Kundengelder, die es im Zusammenhang
-mit einer Wertpapierdienstleistung oder einer
+(2) Ein Wertpapierdienstleistungsunternehmen hat Kundengelder, die es
+im Zusammenhang mit einer Wertpapierdienstleistung oder einer
 Wertpapiernebendienstleistung entgegennimmt, unverzüglich getrennt von
 den Geldern des Unternehmens und von anderen Kundengeldern auf
 Treuhandkonten bei solchen Kreditinstituten, Unternehmen im Sinne des
@@ -7741,15 +7957,15 @@ qualifizierten Geldmarktfonds zu verwahren, bis die Gelder zum
 vereinbarten Zweck verwendet werden. Der Kunde kann im Wege
 individueller Vertragsabrede hinsichtlich der Trennung der
 Kundengelder voneinander anderweitige Weisung erteilen, wenn er über
-den mit der Trennung der Kundengelder verfolgten Schutzweck informiert
-wurde. Zur Verwahrung bei einem qualifizierten Geldmarktfonds hat das
-Wertpapierdienstleistungsunternehmen die vorherige Zustimmung des
-Kunden einzuholen. Die Zustimmung ist nur dann wirksam, wenn das
-Wertpapierdienstleistungsunternehmen den Kunden vor Erteilung der
-Zustimmung darüber unterrichtet hat, dass die bei dem qualifizierten
-Geldmarktfonds verwahrten Gelder nicht entsprechend den
-Schutzstandards dieses Gesetzes und nicht entsprechend der Verordnung
-zur Konkretisierung der Verhaltensregeln und
+den mit der Trennung der Kundengelder verfolgten Schutzzweck
+informiert wurde. Zur Verwahrung bei einem qualifizierten
+Geldmarktfonds hat das Wertpapierdienstleistungsunternehmen die
+vorherige Zustimmung des Kunden einzuholen. Die Zustimmung ist nur
+dann wirksam, wenn das Wertpapierdienstleistungsunternehmen den Kunden
+vor Erteilung der Zustimmung darüber unterrichtet hat, dass die bei
+dem qualifizierten Geldmarktfonds verwahrten Gelder nicht entsprechend
+den Schutzstandards dieses Gesetzes und nicht entsprechend der
+Verordnung zur Konkretisierung der Verhaltensregeln und
 Organisationsanforderungen für Wertpapierdienstleistungsunternehmen
 gehalten werden. Das Wertpapierdienstleistungsunternehmen hat dem
 verwahrenden Institut vor der Verwahrung offen zu legen, dass die
@@ -7777,6 +7993,12 @@ Wertpapierdienstleistungsunternehmen hält, unverhältnismäßig ist. Das
 Wertpapierdienstleistungsunternehmen überprüft die nach Satz 2
 durchgeführte Bewertung jährlich und leitet der Bundesanstalt seine
 Ausgangsbewertung sowie die überprüften Bewertungen zur Prüfung zu.
+
+(3a) Die Absätze 1 bis 3 gelten nicht für Gelder von Kunden, die
+Wertpapierdienstleistungsunternehmen, die über eine Erlaubnis für das
+Einlagengeschäft im Sinne des § 1 Absatz 1 Satz 2 Nummer 1 des
+Kreditwesengesetzes verfügen, im Rahmen des Einlagengeschäfts nach dem
+Kreditwesengesetz halten.
 
 (4) Ein Wertpapierdienstleistungsunternehmen, das Finanzinstrumente
 von Kunden hält, hat geeignete Vorkehrungen zu treffen, um die
@@ -7945,43 +8167,6 @@ oder der Hauptniederlassung.
 (1) Ein Wertpapierdienstleistungsunternehmen darf einen Mitarbeiter
 nur dann mit der Anlageberatung betrauen, wenn dieser sachkundig ist
 und über die für die Tätigkeit erforderliche Zuverlässigkeit verfügt.
-Das Wertpapierdienstleistungsunternehmen muss der Bundesanstalt
-
-1.  den Mitarbeiter und,
-
-
-2.  sofern das Wertpapierdienstleistungsunternehmen über
-    Vertriebsbeauftragte im Sinne des Absatzes 4 verfügt, den auf Grund
-    der Organisation des Wertpapierdienstleistungsunternehmens für den
-    Mitarbeiter unmittelbar zuständigen Vertriebsbeauftragten
-
-
-
-anzeigen, bevor der Mitarbeiter die Tätigkeit nach Satz 1 aufnimmt.
-Ändern sich die von dem Wertpapierdienstleistungsunternehmen nach Satz
-2 angezeigten Verhältnisse, sind die neuen Verhältnisse unverzüglich
-der Bundesanstalt anzuzeigen. Ferner sind der Bundesanstalt, wenn auf
-Grund der Tätigkeit des Mitarbeiters eine oder mehrere Beschwerden im
-Sinne des Artikels 26 der Delegierten Verordnung (EU) 2017/565 durch
-Privatkunden gegenüber dem Wertpapierdienstleistungsunternehmen
-erhoben werden,
-
-1.  jede Beschwerde,
-
-
-2.  der Name des Mitarbeiters, auf Grund dessen Tätigkeit die Beschwerde
-    erhoben wird, sowie,
-
-
-3.  sofern das Wertpapierdienstleistungsunternehmen mehrere Zweigstellen,
-    Zweigniederlassungen oder sonstige Organisationseinheiten hat, die
-    Zweigstelle, Zweigniederlassung oder Organisationseinheit, welcher der
-    Mitarbeiter zugeordnet ist oder für welche er überwiegend oder in der
-    Regel die nach Satz 1 anzuzeigende Tätigkeit ausübt,
-
-
-
-anzuzeigen.
 
 (2) Ein Wertpapierdienstleistungsunternehmen darf einen Mitarbeiter
 nur dann damit betrauen, Kunden über Finanzinstrumente, strukturierte
@@ -7999,12 +8184,7 @@ Zuverlässigkeit verfügt.
 mit der Ausgestaltung, Umsetzung oder Überwachung von
 Vertriebsvorgaben im Sinne des § 80 Absatz 1 Satz 2 Nummer 3 nur dann
 betrauen (Vertriebsbeauftragter), wenn dieser sachkundig ist und über
-die für die Tätigkeit erforderliche Zuverlässigkeit verfügt. Das
-Wertpapierdienstleistungsunternehmen muss der Bundesanstalt den
-Mitarbeiter anzeigen, bevor dieser die Tätigkeit nach Satz 1 aufnimmt.
-Ändern sich die von dem Wertpapierdienstleistungsunternehmen nach Satz
-2 angezeigten Verhältnisse, sind die neuen Verhältnisse unverzüglich
-der Bundesanstalt anzuzeigen.
+die für die Tätigkeit erforderliche Zuverlässigkeit verfügt.
 
 (5) Ein Wertpapierdienstleistungsunternehmen darf einen Mitarbeiter
 nur dann mit der Verantwortlichkeit für die Compliance-Funktion im
@@ -8012,34 +8192,54 @@ Sinne des Artikels 22 Absatz 2 der Delegierten Verordnung (EU)
 2017/565 und für die Berichte an die Geschäftsleitung nach Artikel 25
 Absatz 2 der Delegierten Verordnung (EU) 2017/565 betrauen
 (Compliance-Beauftragter), wenn dieser sachkundig ist und über die für
-die Tätigkeit erforderliche Zuverlässigkeit verfügt. Das
-Wertpapierdienstleistungsunternehmen muss der Bundesanstalt den
-Mitarbeiter anzeigen, bevor der Mitarbeiter die Tätigkeit nach Satz 1
-aufnimmt. Ändern sich die von dem Wertpapierdienstleistungsunternehmen
-nach Satz 2 angezeigten Verhältnisse, sind die neuen Verhältnisse
-unverzüglich der Bundesanstalt anzuzeigen.
+die Tätigkeit erforderliche Zuverlässigkeit verfügt.
 
 (6) Liegen Tatsachen vor, aus denen sich ergibt, dass ein Mitarbeiter
+nach den Absätzen 1 bis 5
 
-1.  nicht oder nicht mehr die Anforderungen nach Absatz 1 Satz 1, Absatz
-    2, 3, 4 Satz 1, jeweils auch in Verbindung mit § 96, oder Absatz 5
-    Satz 1 erfüllt, kann die Bundesanstalt unbeschadet ihrer Befugnisse
-    nach § 6 dem Wertpapierdienstleistungsunternehmen untersagen, den
-    Mitarbeiter in der angezeigten Tätigkeit einzusetzen, solange dieser
-    die gesetzlichen Anforderungen nicht erfüllt, oder
+1.  nicht oder nicht mehr die Anforderungen nach den Absätzen 1 bis 4,
+    jeweils auch in Verbindung mit § 96, oder Absatz 5 erfüllt, kann die
+    Bundesanstalt unbeschadet ihrer Befugnisse nach § 6 dem
+    Wertpapierdienstleistungsunternehmen untersagen, den Mitarbeiter in
+    der jeweils betroffenen Tätigkeit einzusetzen, solange dieser die
+    gesetzlichen Anforderungen nicht erfüllt, oder
 
 
-2.  gegen Bestimmungen dieses Abschnittes verstoßen hat, deren Einhaltung
-    bei der Durchführung seiner Tätigkeit zu beachten sind, kann die
-    Bundesanstalt unbeschadet ihrer Befugnisse nach § 6
+2.  gegen
 
-    a)  das Wertpapierdienstleistungsunternehmen und den Mitarbeiter verwarnen
+    a)  Vorschriften der Abschnitte 3 und 9 bis 11 dieses Gesetzes sowie zur
+        Durchführung dieser Vorschriften erlassene Rechtsverordnungen,
+
+
+    b)  Vorschriften der Verordnung (EU) Nr. 596/2014, insbesondere deren
+        Artikel 4 und 14 bis 21, sowie die auf Grundlage dieser Artikel
+        erlassenen delegierten Rechtsakte und Durchführungsrechtsakte der
+        Europäischen Kommission,
+
+
+    c)  Vorschriften der Verordnung (EU) Nr. 600/2014, insbesondere die in den
+        Titeln II bis VI enthaltenen Artikel sowie die auf Grundlage dieser
+        Artikel erlassenen delegierten Rechtsakte und Durchführungsrechtsakte
+        der Europäischen Kommission, oder
+
+
+    d)  Vorschriften der Verordnung (EU) 2016/1011 sowie die auf deren
+        Grundlage erlassenen delegierten Rechtsakte und
+        Durchführungsvorschriften der Europäischen Kommission
+
+
+
+    verstoßen hat, deren Einhaltung bei der Durchführung seiner Tätigkeit
+    zu beachten ist, kann die Bundesanstalt unbeschadet ihrer Befugnisse
+    nach § 6
+
+    e)  das Wertpapierdienstleistungsunternehmen und den Mitarbeiter verwarnen
         oder
 
 
-    b)  dem Wertpapierdienstleistungsunternehmen für eine Dauer von bis zu
-        zwei Jahren untersagen, den Mitarbeiter in der angezeigten Tätigkeit
-        einzusetzen.
+    f)  dem Wertpapierdienstleistungsunternehmen für eine Dauer von bis zu
+        zwei Jahren untersagen, den Mitarbeiter in der jeweils betroffenen
+        Tätigkeit einzusetzen.
 
 
 
@@ -8049,17 +8249,14 @@ unverzüglich der Bundesanstalt anzuzeigen.
 Die Bundesanstalt kann unanfechtbar gewordene Anordnungen im Sinne des
 Satzes 1 auf ihrer Internetseite öffentlich bekannt machen, es sei
 denn, diese Veröffentlichung wäre geeignet, den berechtigten
-Interessen des Unternehmens zu schaden. Die öffentliche Bekanntmachung
-nach Satz 2 hat ohne Nennung des Namens des betroffenen Mitarbeiters
-zu erfolgen. Widerspruch und Anfechtungsklage gegen Maßnahmen nach
-Satz 1 haben keine aufschiebende Wirkung.
+Interessen des Wertpapierdienstleistungsunternehmens zu schaden. Die
+öffentliche Bekanntmachung nach Satz 2 hat ohne Nennung des Namens des
+betroffenen Mitarbeiters zu erfolgen. Widerspruch und Anfechtungsklage
+gegen Maßnahmen nach Satz 1 haben keine aufschiebende Wirkung.
 
-(7) Die Bundesanstalt führt über die nach den Absätzen 1, 4 und 5
-anzuzeigenden Mitarbeiter sowie die ihnen zugeordneten
-Beschwerdeanzeigen nach Absatz 1 und die ihre Tätigkeit betreffenden
-Anordnungen nach Absatz 6 eine interne Datenbank.
+(7) (wegegfallen)
 
-(8) Die Absätze 1 bis 7 sind nicht anzuwenden auf diejenigen
+(8) Die Absätze 1 bis 6 sind nicht anzuwenden auf diejenigen
 Mitarbeiter eines Wertpapierdienstleistungsunternehmens, die
 ausschließlich in einer Zweigniederlassung im Sinne des § 24a des
 Kreditwesengesetzes oder in mehreren solcher Zweigniederlassungen
@@ -8067,31 +8264,11 @@ tätig sind.
 
 (9) Das Bundesministerium der Finanzen kann durch Rechtsverordnung,
 die nicht der Zustimmung des Bundesrates bedarf, die näheren
-Anforderungen an
-
-1.  den Inhalt, die Art, die Sprache, den Umfang und die Form der Anzeigen
-    nach den Absätzen 1, 4 oder 5,
-
-
-2.  die Sachkunde und die Zuverlässigkeit nach Absatz 1 Satz 1, den
-    Absätzen 2, 3, 4 Satz 1, jeweils auch in Verbindung mit § 96, sowie
-    Absatz 5 Satz 1 sowie
-
-
-3.  den Inhalt der Datenbank nach Absatz 7 und die Dauer der Speicherung
-    der Einträge
-
-
-
-einschließlich des jeweiligen Verfahrens regeln. In der
-Rechtsverordnung nach Satz 1 kann insbesondere bestimmt werden, dass
-dem jeweiligen Wertpapierdienstleistungsunternehmen ein schreibender
-Zugriff auf die für das Unternehmen einzurichtenden Einträge in die
-Datenbank nach Absatz 7 eingeräumt und ihm die Verantwortlichkeit für
-die Richtigkeit und Aktualität dieser Einträge übertragen wird. Das
-Bundesministerium der Finanzen kann die Ermächtigung durch
-Rechtsverordnung ohne Zustimmung des Bundesrates auf die Bundesanstalt
-übertragen.
+Anforderungen an die Sachkunde und die Zuverlässigkeit nach den
+Absätzen 1 bis 4, jeweils auch in Verbindung mit § 96, sowie nach
+Absatz 5 regeln. Das Bundesministerium der Finanzen kann die
+Ermächtigung durch Rechtsverordnung ohne Zustimmung des Bundesrates
+auf die Bundesanstalt übertragen.
 
 (10) Die Absätze 1 bis 3 gelten nicht für Immobiliar-
 Verbraucherdarlehensverträge, die an die Vorbedingung geknüpft sind,
@@ -8131,9 +8308,9 @@ abgelöst werden kann.
         Regulierungsstandards,
 
 
-    b)  den Artikeln 3 bis 15, 17, 18, 20 bis 23, 25, 27 und 31 der Verordnung
-        (EU) Nr. 600/2014, auch in Verbindung mit gemäß diesen Artikeln
-        erlassenen technischen Regulierungsstandards,
+    b)  den Artikeln 3 bis 15, 17, 18, 20 bis 23, 25, 27, 31 und 39a der
+        Verordnung (EU) Nr. 600/2014, auch in Verbindung mit gemäß diesen
+        Artikeln erlassenen technischen Regulierungsstandards,
 
 
     c)  der Delegierten Verordnung (EU) 2017/565,
@@ -8159,10 +8336,12 @@ abgelöst werden kann.
 in der jeweils geltenden Fassung, auch ohne besonderen Anlass
 Prüfungen vornehmen bei den Wertpapierdienstleistungsunternehmen, den
 mit diesen verbundenen Unternehmen, den Zweigniederlassungen im Sinne
-des § 53b des Kreditwesengesetzes, den Unternehmen, mit denen eine
+des § 53b des Kreditwesengesetzes oder des § 73 des
+Wertpapierinstitutsgesetzes, den Unternehmen, mit denen eine
 Auslagerungsvereinbarung im Sinne des § 25b des Kreditwesengesetzes
-besteht oder bestand, und sonstigen zur Durchführung eingeschalteten
-dritten Personen oder Unternehmen.
+oder des § 40 des Wertpapierinstitutsgesetzes besteht oder bestand,
+und sonstigen zur Durchführung eingeschalteten dritten Personen oder
+Unternehmen.
 
 (2) Die Bundesanstalt kann zur Überwachung der Einhaltung der in
 diesem Abschnitt geregelten Pflichten Auskünfte und die Vorlage von
@@ -8180,7 +8359,8 @@ Pflichten nach diesem Gesetz, zu gewährleisten unmittelbar treffen
 gegenüber
 
 1.  Unternehmen, mit denen eine Auslagerungsvereinbarung im Sinne des §
-    25b des Kreditwesengesetzes besteht oder bestanden hat, und
+    25b des Kreditwesengesetzes oder des § 40 des
+    Wertpapierinstitutsgesetzes besteht oder bestanden hat, und
 
 
 2.  sonstigen zur Durchführung eingeschalteten dritten Personen oder
@@ -8230,9 +8410,9 @@ Prüfer zu prüfen, ob die folgenden Pflichten eingehalten werden:
         Regulierungsstandards,
 
 
-    b)  den Artikeln 3 bis 15, 17, 18, 20 bis 23, 25, 27 und 31 der Verordnung
-        (EU) Nr. 600/2014, auch in Verbindung mit den gemäß diesen Artikeln
-        erlassenen technischen Regulierungsstandards,
+    b)  den Artikeln 3 bis 15, 17, 18, 20 bis 23, 25, 27, 31 und 39a der
+        Verordnung (EU) Nr. 600/2014, auch in Verbindung mit den gemäß diesen
+        Artikeln erlassenen technischen Regulierungsstandards,
 
 
     c)  der Delegierten Verordnung (EU) 2017/565,
@@ -8289,24 +8469,26 @@ Prüfungen nach Absatz 1 Satz 5 von genossenschaftlichen
 Prüfungsverbänden oder Prüfungsstellen von Sparkassen- und
 Giroverbänden durchgeführt werden, haben über die Prüfung nach Absatz
 1 einen Prüfungsbericht zu erstellen und auf Anforderung der
-Bundesanstalt oder der Deutschen Bundesbank der Bundesanstalt und der
-Deutschen Bundesbank einzureichen. Die wesentlichen Prüfungsergebnisse
-sind in einem Fragebogen zusammenzufassen, der dem Prüfungsbericht
-beizufügen ist. Der Fragebogen ist auch dann bei der Bundesanstalt und
-der zuständigen Hauptverwaltung der Deutschen Bundesbank einzureichen,
-wenn ein Prüfungsbericht nach Satz 1 nicht angefordert wird. Der
-Prüfer hat den Fragebogen unverzüglich nach Beendigung der Prüfung
-einzureichen.
+Bundesanstalt bei ihr einzureichen. Die wesentlichen
+Prüfungsergebnisse sind in einem Fragebogen zusammenzufassen, der dem
+Prüfungsbericht beizufügen ist. Der Fragebogen ist auch dann bei der
+Bundesanstalt einzureichen, wenn ein Prüfungsbericht nach Satz 1 nicht
+angefordert wird. Der Prüfer hat den Fragebogen unverzüglich nach
+Beendigung der Prüfung einzureichen.
 
 (3) Das Wertpapierdienstleistungsunternehmen hat vor Erteilung des
 Prüfungsauftrags der Bundesanstalt den Prüfer anzuzeigen. Die
-Bundesanstalt kann innerhalb eines Monats nach Zugang der Anzeige die
-Bestellung eines anderen Prüfers verlangen, wenn dies zur Erreichung
-des Prüfungszweckes geboten ist; Widerspruch und Anfechtungsklage
-hiergegen haben keine aufschiebende Wirkung. Die Sätze 1 und 2 gelten
-nicht für Kreditinstitute, die einem genossenschaftlichen
-Prüfungsverband angehören oder durch die Prüfungsstelle eines
-Sparkassen- und Giroverbandes geprüft werden.
+Bundesanstalt kann innerhalb von zwei Monaten nach Zugang der Anzeige
+die Bestellung eines anderen Prüfers verlangen, wenn dies zur
+Erreichung des Prüfungszwecks geboten ist. Die Bestellung eines
+anderen Prüfers ist in der Regel zur Erreichung des Prüfungszwecks
+geboten, wenn ein Wertpapierdienstleistungsunternehmen der
+Bundesanstalt für mindestens elf aufeinanderfolgende Geschäftsjahre
+denselben Prüfer angezeigt hat. Widerspruch und Anfechtungsklage gegen
+eine Maßnahme nach Satz 2 haben keine aufschiebende Wirkung. Die Sätze
+1 bis 4 gelten nicht für Wertpapierdienstleistungsunternehmen, die
+einem genossenschaftlichen Prüfungsverband angehören oder durch die
+Prüfungsstelle eines Sparkassen- und Giroverbandes geprüft werden.
 
 (4) Die Bundesanstalt kann gegenüber dem
 Wertpapierdienstleistungsunternehmen Bestimmungen über den Inhalt der
@@ -8342,48 +8524,51 @@ Bundesanstalt übertragen.
 (1) Die in diesem Abschnitt und den Artikeln 14 bis 26 der Verordnung
 (EU) Nr. 600/2014 geregelten Rechte und Pflichten sind mit Ausnahme
 von § 63 Absatz 2, den §§ 72 bis 78, 80 Absatz 1 bis 6 und 9 bis 13,
-den §§ 81, 84 bis § 87 Absatz 1 Satz 2 bis 4 und Absatz 3 bis 8
-entsprechend anzuwenden auf Zweigniederlassungen und vertraglich
-gebundene Vermittler mit Sitz oder gewöhnlichem Aufenthalt im Inland
-im Sinne des § 53b des Kreditwesengesetzes, die
+den §§ 81, 84 bis 86 und 87 Absatz 3 bis 8 entsprechend anzuwenden auf
+Zweigniederlassungen und vertraglich gebundene Vermittler mit Sitz
+oder gewöhnlichem Aufenthalt im Inland im Sinne des § 53b des
+Kreditwesengesetzes oder des § 73 des Wertpapierinstitutsgesetzes, die
 Wertpapierdienstleistungen erbringen. Ein Unternehmen mit Sitz in
 einem anderen Mitgliedstaat der Europäischen Union oder in einem
 anderen Vertragsstaat des Abkommens über den Europäischen
 Wirtschaftsraum, das Wertpapierdienstleistungen allein oder zusammen
 mit Wertpapiernebendienstleistungen erbringt und das beabsichtigt, im
 Inland eine Zweigniederlassung im Sinne des § 53b des
-Kreditwesengesetzes zu errichten, ist von der Bundesanstalt innerhalb
-der in § 53b Absatz 2 Satz 1 des Kreditwesengesetzes bestimmten Frist
-auf die Meldepflichten nach § 22 und die nach Satz 1 für die
-Zweigniederlassung geltenden Rechte und Pflichten hinzuweisen.
+Kreditwesengesetzes oder des § 73 des Wertpapierinstitutsgesetzes zu
+errichten, ist von der Bundesanstalt innerhalb der in § 53b Absatz 2
+Satz 1 des Kreditwesengesetzes bestimmten Frist auf die Meldepflichten
+nach § 22 und die nach Satz 1 für die Zweigniederlassung geltenden
+Rechte und Pflichten hinzuweisen.
 
-(2) Die Bundesanstalt kann von der Zweigniederlassung Änderungen der
-getroffenen Vorkehrungen zur Einhaltung der für sie geltenden
-Pflichten verlangen, soweit die Änderungen notwendig und
-verhältnismäßig sind, um der Bundesanstalt die Prüfung der Einhaltung
-der Pflichten zu ermöglichen. Stellt die Bundesanstalt fest, dass das
-Unternehmen die nach Absatz 1 Satz 1 für seine Zweigniederlassung
-geltenden Pflichten nicht beachtet, fordert es das Unternehmen auf,
-seine Verpflichtungen innerhalb einer von der Bundesanstalt zu
-bestimmenden Frist zu erfüllen. Kommt das Unternehmen der Aufforderung
-nicht nach, trifft die Bundesanstalt alle geeigneten Maßnahmen, um die
-Erfüllung der Verpflichtungen sicherzustellen und unterrichtet die
-zuständigen Behörden des Herkunftsmitgliedstaates über die Art der
-getroffenen Maßnahmen. Falls das betroffene Unternehmen den Mangel
-nicht behebt, kann die Bundesanstalt nach Unterrichtung der
-zuständigen Behörde des Herkunftsmitgliedstaates alle Maßnahmen
-ergreifen, um weitere Verstöße zu verhindern oder zu ahnden. Soweit
-erforderlich, kann die Bundesanstalt dem betroffenen Unternehmen die
-Durchführung neuer Geschäfte im Inland untersagen. Die Bundesanstalt
-unterrichtet die Europäische Kommission und die Europäische
-Wertpapier- und Marktaufsichtsbehörde unverzüglich von Maßnahmen nach
-den Sätzen 4 und 5.
+(2) Die Bundesanstalt kann von der Zweigniederlassung oder dem
+vertraglich gebundenen Vermittler Änderungen der getroffenen
+Vorkehrungen zur Einhaltung der für sie geltenden Pflichten verlangen,
+soweit die Änderungen notwendig und verhältnismäßig sind, um der
+Bundesanstalt die Prüfung der Einhaltung der Pflichten zu ermöglichen.
+Stellt die Bundesanstalt fest, dass das Unternehmen die nach Absatz 1
+Satz 1 für seine Zweigniederlassung oder seinen vertraglich gebundenen
+Vermittler geltenden Pflichten nicht beachtet, fordert es das
+Unternehmen auf, seine Verpflichtungen innerhalb einer von der
+Bundesanstalt zu bestimmenden Frist zu erfüllen. Kommt das Unternehmen
+der Aufforderung nicht nach, trifft die Bundesanstalt alle geeigneten
+Maßnahmen, um die Erfüllung der Verpflichtungen sicherzustellen und
+unterrichtet die zuständigen Behörden des Herkunftsmitgliedstaates
+über die Art der getroffenen Maßnahmen. Falls das betroffene
+Unternehmen den Mangel nicht behebt, kann die Bundesanstalt nach
+Unterrichtung der zuständigen Behörde des Herkunftsmitgliedstaates
+alle Maßnahmen ergreifen, um weitere Verstöße zu verhindern oder zu
+ahnden. Soweit erforderlich, kann die Bundesanstalt dem betroffenen
+Unternehmen die Durchführung neuer Geschäfte im Inland untersagen. Die
+Bundesanstalt unterrichtet die Europäische Kommission und die
+Europäische Wertpapier- und Marktaufsichtsbehörde unverzüglich von
+Maßnahmen nach den Sätzen 4 und 5.
 
 (3) Stellt die Bundesanstalt fest, dass ein Unternehmen im Sinne des
 Absatzes 1 Satz 2, das im Inland eine Zweigniederlassung errichtet
-hat, gegen andere als die in Absatz 1 Satz 1 genannten Bestimmungen
-dieses Gesetzes oder entsprechende ausländische Vorschriften verstößt,
-so teilt sie dies der zuständigen Stelle des Herkunftsmitgliedstaates
+oder einen vertraglich gebundenen Vermittler herangezogen hat, gegen
+andere als die in Absatz 1 Satz 1 genannten Bestimmungen dieses
+Gesetzes oder entsprechende ausländische Vorschriften verstößt, so
+teilt sie dies der zuständigen Stelle des Herkunftsmitgliedstaates
 nach Maßgabe des § 18 Absatz 8 Satz 1 mit. Sind die daraufhin
 getroffenen Maßnahmen der zuständigen Behörde des
 Herkunftsmitgliedstaates unzureichend oder verstößt das Unternehmen
@@ -8428,22 +8613,27 @@ Nr. 1095/2010 um Hilfe ersuchen.
 
 ### § 91 Unternehmen mit Sitz in einem Drittstaat
 
-Vorbehaltlich der Regelungen in Titel VIII der Verordnung (EU) Nr.
+(1) Vorbehaltlich der Regelungen in Titel VIII der Verordnung (EU) Nr.
 600/2014 kann die Bundesanstalt im Einzelfall bestimmen, dass auf ein
 Unternehmen mit Sitz in einem Drittstaat, das im Inland im Wege des
 grenzüberschreitenden Dienstleistungsverkehrs gewerbsmäßig oder in
 einem Umfang, der einen in kaufmännischer Weise eingerichteten
 Geschäftsbetrieb erfordert, Wertpapierdienstleistungen erbringen will,
 § 63 Absatz 2, die §§ 72 bis 78, 80 Absatz 1 bis 6 sowie 9 bis 13, die
-§§ 81, 84 bis 87 Absatz 1 Satz 2 bis 4 und Absatz 3 bis 8 dieses
-Gesetzes nicht anzuwenden sind, solange das Unternehmen im Hinblick
-auf seine im Inland betriebenen Wertpapierdienstleistungen wegen
-seiner Aufsicht durch die zuständige Herkunftsstaatsbehörde insoweit
-nicht zusätzlich der Aufsicht durch die Bundesanstalt bedarf. Die
-Befreiung kann mit Auflagen verbunden werden, insbesondere mit der
-Auflage, dass das Unternehmen eine Überwachung und Prüfung der
-Einhaltung der Vorschriften ermöglicht, die den §§ 6 bis 15, 88 und 89
-gleichwertig ist.
+§§ 81, 84 bis 86 und 87 Absatz 3 bis 8 dieses Gesetzes nicht
+anzuwenden sind, solange das Unternehmen im Hinblick auf seine im
+Inland betriebenen Wertpapierdienstleistungen wegen seiner Aufsicht
+durch die zuständige Herkunftsstaatsbehörde insoweit nicht zusätzlich
+der Aufsicht durch die Bundesanstalt bedarf. Die Befreiung kann mit
+Auflagen verbunden werden, insbesondere mit der Auflage, dass das
+Unternehmen eine Überwachung und Prüfung der Einhaltung der
+Vorschriften ermöglicht, die den §§ 6 bis 15, 88 und 89 gleichwertig
+ist.
+
+(2) Für ein Unternehmen mit Sitz in einem Drittstaat, das nach § 32
+Absatz 1g des Kreditwesengesetzes oder nach § 15 Absatz 5a des
+Wertpapierinstitutsgesetzes keiner Erlaubnis bedarf, findet der elfte
+Abschnitt dieses Gesetzes keine Anwendung.
 
 
 ### § 92 Werbung der Wertpapierdienstleistungsunternehmen
@@ -8492,9 +8682,11 @@ Anlageberatung erbringen wollen.
 Antrag in das Register Unabhängiger Honorar-Anlageberater einzutragen,
 wenn es
 
-1.  eine Erlaubnis nach § 32 des Kreditwesengesetzes besitzt oder
-    Zweigniederlassung eines Unternehmens nach § 53b Absatz 1 Satz 1 und 2
-    oder Absatz 7 des Kreditwesengesetzes ist,
+1.  eine Erlaubnis nach § 32 des Kreditwesengesetzes oder nach § 15 des
+    Wertpapierinstitutsgesetzes besitzt oder Zweigniederlassung eines
+    Unternehmens nach § 53b Absatz 1 Satz 1 und 2 oder Absatz 7 des
+    Kreditwesengesetzes oder nach § 73 Absatz 1 des
+    Wertpapierinstitutsgesetzes ist,
 
 
 2.  die Anlageberatung im Sinne des § 2 Absatz 8 Satz 1 Nummer 10
@@ -8525,8 +8717,9 @@ Honorar-Anlageberater zu löschen, wenn
 
 
 2.  die Erlaubnis eines Wertpapierdienstleistungsunternehmens nach § 32
-    des Kreditwesengesetzes insgesamt oder die Erlaubnis zum Erbringen der
-    Anlageberatung erlischt oder aufgehoben wird.
+    des Kreditwesengesetzes oder nach § 15 des Wertpapierinstitutsgesetzes
+    insgesamt oder die Erlaubnis zum Erbringen der Anlageberatung erlischt
+    oder aufgehoben wird.
 
 
 
@@ -8591,27 +8784,25 @@ Honorar-Anlageberater nach § 93 tritt.
 
 ### § 95 Ausnahmen
 
-§ 63 Absatz 1 und 3 bis 7 und 9, § 56 Absatz 1 sowie der §§ 69, 70 und
-82 gelten nicht für Geschäfte, die an organisierten Märkten oder in
-multilateralen Handelssystemen zwischen
-Wertpapierdienstleistungsunternehmen oder zwischen diesen und
-sonstigen Mitgliedern oder Teilnehmern dieser Märkte oder Systeme
-geschlossen werden. Wird ein Geschäft im Sinne des Satzes 1 in
-Ausführung eines Kundenauftrags abgeschlossen, muss das
-Wertpapierdienstleistungsunternehmen jedoch den Verpflichtungen des §§
-63 Absatz 1 und 3 bis 7 und 9, § 56 Absatz 1 sowie der §§ 69, 70 und
-82 gegenüber dem Kunden nachkommen.
+§ 63 Absatz 1, 3 bis 7 und 9 sowie die §§ 69, 70 und 82 gelten nicht
+für Geschäfte, die an organisierten Märkten oder in multilateralen
+Handelssystemen zwischen Wertpapierdienstleistungsunternehmen oder
+zwischen diesen und sonstigen Mitgliedern oder Teilnehmern dieser
+Märkte oder Systeme geschlossen werden. Wird ein Geschäft im Sinne des
+Satzes 1 in Ausführung eines Kundenauftrags abgeschlossen, muss das
+Wertpapierdienstleistungsunternehmen jedoch den Verpflichtungen des §
+63 Absatz 1, 3 bis 7 und 9 sowie der §§ 69, 70 und 82 gegenüber dem
+Kunden nachkommen.
 
 
 ### § 96 Strukturierte Einlagen
 
 Die §§ 63 und 64, mit Ausnahme von § 64 Absatz 2, § 67 Absatz 4, die
 §§ 68 bis 71, 80 Absatz 1 Satz 2 Nummer 2 und 3 und Absatz 7 bis 13, §
-81 Absatz 1 bis 4, § 83 Absatz 1 und 2, § 87 Absatz 1 Satz 1, Absatz
-2, 3, 4 Satz 1 und Absatz 6 sind auf
-Wertpapierdienstleistungsunternehmen und Kreditinstitute entsprechend
-anzuwenden, wenn sie strukturierte Einlagen verkaufen oder über diese
-beraten.
+81 Absatz 1 bis 4, § 83 Absatz 1 und 2, § 87 Absatz 1 bis 4 und 6 sind
+auf Wertpapierdienstleistungsunternehmen und Kreditinstitute
+entsprechend anzuwenden, wenn sie strukturierte Einlagen verkaufen
+oder über diese beraten.
 
 
 ## Abschnitt 12 - Haftung für falsche und unterlassene Kapitalmarktinformationen
@@ -8758,145 +8949,20 @@ Finanztermingeschäften sind nur verbindlich, wenn beide Vertragsteile
 Kaufleute oder juristische Personen des öffentlichen Rechts sind.
 
 
-## Abschnitt 15 - Märkte für Finanzinstrumente mit Sitz außerhalb der Europäischen Union
+## Abschnitt 15 - (weggefallen)
 
 
 
-### § 102 Erlaubnis; Verordnungsermächtigung
-
-(1) Vorbehaltlich der Regelungen in Titel VIII der Verordnung (EU) Nr.
-600/2014 sowie von Beschlüssen der Europäischen Kommission gemäß
-Artikel 25 Absatz 4 Unterabsatz 3 der Richtlinie 2014/65/EU und
-Artikel 28 Absatz 4 Unterabsatz 1 der Verordnung (EU) Nr. 600/2014
-bedürfen Märkte für Finanzinstrumente mit Sitz im Ausland, die keine
-Handelsplätze im Sinne dieses Gesetzes sind, oder ihre Betreiber der
-Erlaubnis der Bundesanstalt, wenn sie Handelsteilnehmern mit Sitz im
-Inland über ein elektronisches Handelssystem einen unmittelbaren
-Marktzugang gewähren und sie diesbezüglich nicht einer
-Erlaubnispflicht nach dem Kreditwesengesetz unterliegen. Der
-Erlaubnisantrag muss enthalten:
-
-1.  Name und Anschrift der Geschäftsleitung des Marktes oder des
-    Betreibers,
+### § 102 (weggefallen)
 
 
-2.  Angaben, die für die Beurteilung der Zuverlässigkeit der
-    Geschäftsleitung erforderlich sind,
+### § 103 (weggefallen)
 
 
-3.  einen Geschäftsplan, aus dem die Art des geplanten Marktzugangs für
-    die Handelsteilnehmer, der organisatorische Aufbau und die internen
-    Kontrollverfahren des Marktes hervorgehen,
+### § 104 (weggefallen)
 
 
-4.  Name und Anschrift eines Zustellungsbevollmächtigten im Inland,
-
-
-5.  die Angabe der für die Überwachung des Marktes und seiner
-    Handelsteilnehmer zuständigen Stellen des Herkunftsstaates und deren
-    Überwachungs- und Eingriffskompetenzen,
-
-
-6.  die Angabe der Art der Finanzinstrumente, die von den
-    Handelsteilnehmern über den unmittelbaren Marktzugang gehandelt werden
-    sollen, sowie
-
-
-7.  Namen und Anschrift der Handelsteilnehmer mit Sitz im Inland, denen
-    der unmittelbare Marktzugang gewährt werden soll.
-
-
-
-Das Nähere über die nach Satz 2 erforderlichen Angaben und
-vorzulegenden Unterlagen bestimmt das Bundesministerium der Finanzen
-durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates
-bedarf. Das Bundesministerium der Finanzen kann die Ermächtigung durch
-Rechtsverordnung auf die Bundesanstalt für
-Finanzdienstleistungsaufsicht übertragen.
-
-(2) Die Bundesanstalt kann die Erlaubnis unter Auflagen erteilen, die
-sich im Rahmen des mit diesem Gesetz verfolgten Zweckes halten müssen.
-Vor Erteilung der Erlaubnis gibt die Bundesanstalt den
-Börsenaufsichtsbehörden der Länder Gelegenheit, innerhalb von vier
-Wochen zum Antrag Stellung zu nehmen.
-
-(3) Die Bundesanstalt hat die Erlaubnis im Bundesanzeiger bekannt zu
-machen.
-
-(4) Wird der Austritt des Vereinigten Königreichs Großbritannien und
-Nordirland aus der Europäischen Union wirksam, ohne dass bis zu diesem
-Zeitpunkt ein Austrittsabkommen im Sinne von Artikel 50 Absatz 2 Satz
-2 des Vertrages über die Europäische Union in Kraft getreten ist, so
-kann die Bundesanstalt zur Vermeidung von Nachteilen für die
-Funktionsfähigkeit oder die Stabilität der Finanzmärkte anordnen, dass
-Märkte für Finanzinstrumente mit Sitz im Vereinigten Königreich
-Großbritannien und Nordirland, die zum Zeitpunkt des Austritts des
-Vereinigten Königreichs Großbritannien und Nordirland aus der
-Europäischen Union als Handelsplätze im Register der Europäischen
-Wertpapier- und Marktaufsichtsbehörde verzeichnet sind, für einen
-Übergangszeitraum nach dem Austritt als Handelsplätze im Sinne dieses
-Gesetzes gelten. Der im Zeitpunkt des Austritts beginnende
-Übergangszeitraum darf eine Dauer von 21 Monaten nicht überschreiten.
-Die Anordnung kann auch durch Allgemeinverfügung ohne vorherige
-Anhörung getroffen und öffentlich bekannt gegeben werden.
-
-
-### § 103 Versagung der Erlaubnis
-
-Die Erlaubnis ist zu versagen, wenn
-
-1.  Tatsachen vorliegen, aus denen sich ergibt, dass die Geschäftsleitung
-    nicht zuverlässig ist,
-
-
-2.  Handelsteilnehmern mit Sitz im Inland der unmittelbare Marktzugang
-    gewährt werden soll, die nicht die Voraussetzungen des § 19 Abs. 2 des
-    Börsengesetzes erfüllen,
-
-
-3.  die Überwachung des Marktes oder der Anlegerschutz im Herkunftsstaat
-    nicht dem deutschen Recht gleichwertig ist oder
-
-
-4.  der Informationsaustausch mit den für die Überwachung des Marktes
-    zuständigen Stellen des Herkunftsstaates nicht gewährleistet
-    erscheint.
-
-
-
-
-
-### § 104 Aufhebung der Erlaubnis
-
-(1) Die Bundesanstalt kann die Erlaubnis außer nach den Vorschriften
-des Verwaltungsverfahrensgesetzes aufheben, wenn
-
-1.  ihr Tatsachen bekannt werden, welche die Versagung der Erlaubnis nach
-    § 103 rechtfertigen würden, oder
-
-
-2.  der Markt oder sein Betreiber nachhaltig gegen Bestimmungen dieses
-    Gesetzes, der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen,
-    der in § 1 Absatz 1 Nummer 8 aufgeführten europäischen Verordnungen
-    einschließlich der hierzu erlassenen delegierten Rechtsakte und
-    Durchführungsrechtsakte sowie auf Grund dieser Rechtsvorschriften
-    erlassenen Anordnungen verstoßen hat.
-
-
-
-
-(2) Die Bundesanstalt hat die Aufhebung der Erlaubnis im
-Bundesanzeiger bekannt zu machen.
-
-
-### § 105 Untersagung
-
-Die Bundesanstalt kann Handelsteilnehmern mit Sitz im Inland, die
-Wertpapierdienstleistungen im Inland erbringen, untersagen, Aufträge
-für Kunden über ein elektronisches Handelssystem eines ausländischen
-Marktes auszuführen, wenn diese Märkte oder ihre Betreiber
-Handelsteilnehmern im Inland einen unmittelbaren Marktzugang über
-dieses elektronische Handelssystem ohne Erlaubnis gewähren.
+### § 105 (weggefallen)
 
 
 ## Abschnitt 16 - Überwachung von Unternehmensabschlüssen, Veröffentlichung von Finanzberichten
@@ -8936,22 +9002,22 @@ entsprechen:
 
 
 
-#### § 107 Anordnung einer Prüfung der Rechnungslegung und Ermittlungsbefugnisse der Bundesanstalt
+#### § 107 Einleitung einer Prüfung der Rechnungslegung und Ermittlungsbefugnisse der Bundesanstalt
 
-(1) Die Bundesanstalt ordnet eine Prüfung der Rechnungslegung an,
+(1) Die Bundesanstalt leitet eine Prüfung der Rechnungslegung ein,
 soweit konkrete Anhaltspunkte für einen Verstoß gegen
-Rechnungslegungsvorschriften vorliegen; die Anordnung unterbleibt,
+Rechnungslegungsvorschriften vorliegen; die Einleitung unterbleibt,
 wenn ein öffentliches Interesse an der Klärung offensichtlich nicht
 besteht. Die Bundesanstalt kann eine Prüfung der Rechnungslegung auch
-dann anordnen, wenn sie eine Prüfung nach § 44 Absatz 1 Satz 2 des
-Kreditwesengesetzes, nach § 14 Satz 2 des Kapitalanlagegesetzbuchs
-oder nach § 306 Absatz 1 Nummer 1 des Versicherungsaufsichtsgesetzes
-durchführt oder durchgeführt hat und die Prüfungen denselben
-Gegenstand betreffen. Die Bundesanstalt kann eine Prüfung der
-Rechnungslegung auch ohne besonderen Anlass anordnen
-(stichprobenartige Prüfung). Der Umfang der einzelnen Prüfung soll in
-der Prüfungsanordnung festgelegt werden. Geprüft werden nur folgende
-Abschlüsse und Berichte:
+dann einleiten, wenn sie eine Prüfung nach § 44 Absatz 1 Satz 2 des
+Kreditwesengesetzes, nach § 14 Satz 2 des Kapitalanlagegesetzbuchs,
+nach § 5 Absatz 4 Satz 2 des Wertpapierinstitutsgesetzes, nach § 19
+Absatz 1 Satz 2 des Zahlungsdiensteaufsichtsgesetzes oder nach § 306
+Absatz 1 Nummer 1 des Versicherungsaufsichtsgesetzes durchführt oder
+durchgeführt hat und die Prüfungen denselben Gegenstand betreffen. Die
+Bundesanstalt kann eine Prüfung der Rechnungslegung auch ohne
+besonderen Anlass einleiten (stichprobenartige Prüfung). Geprüft
+werden nur folgende Abschlüsse und Berichte:
 
 1.  der zuletzt festgestellte Jahresabschluss und der zugehörige
     Lagebericht,
@@ -8982,34 +9048,36 @@ Abschlüsse und Berichte:
 
 
 
-Ordnet die Bundesanstalt eine Prüfung der Rechnungslegung an, so kann
-sie ihre Anordnung unter Nennung des betroffenen Unternehmens und den
-Grund für die Anordnung auf ihrer Internetseite bekannt machen, soweit
-hieran ein öffentliches Interesse besteht. Die Bekanntmachung des
-Grunds für die Anordnung darf keine personenbezogenen Daten enthalten.
-Auf die Prüfung des verkürzten Abschlusses und des zugehörigen
-Zwischenlageberichts sowie des Zahlungsberichts und
-Konzernzahlungsberichts ist Satz 2 nicht anzuwenden. Die Prüfung kann
-trotz Wegfalls der Zulassung der Wertpapiere zum Handel im
-organisierten Markt fortgesetzt werden, insbesondere dann, wenn
-Gegenstand der Prüfung ein Fehler ist, an dessen Bekanntmachung ein
-öffentliches Interesse besteht. Die Bekanntmachung nach Satz 6 ist
-außerdem unverzüglich der das Unternehmensregister führenden Stelle
-zur Einstellung in das Unternehmensregister zu übermitteln.
+Leitet die Bundesanstalt eine Prüfung der Rechnungslegung ein, so kann
+sie dies unter Nennung des betroffenen Unternehmens und des Grundes
+für die Einleitung der Prüfung auf ihrer Internetseite bekannt machen,
+soweit hieran ein öffentliches Interesse besteht; leitet die
+Bundesanstalt eine Prüfung nach Satz 1 ein, soll eine Bekanntmachung
+erfolgen. Die Bekanntmachung des Grunds für die Einleitung darf keine
+personenbezogenen Daten enthalten. Auf die Prüfung des verkürzten
+Abschlusses und des zugehörigen Zwischenlageberichts sowie des
+Zahlungsberichts und Konzernzahlungsberichts ist Satz 3 nicht
+anzuwenden. Die Prüfung kann trotz Wegfalls der Zulassung der
+Wertpapiere zum Handel im organisierten Markt fortgesetzt werden,
+insbesondere dann, wenn Gegenstand der Prüfung ein Fehler ist, an
+dessen Bekanntmachung ein öffentliches Interesse besteht. Die
+Bekanntmachung nach Satz 5 ist außerdem unverzüglich der das
+Unternehmensregister führenden Stelle zur Einstellung in das
+Unternehmensregister zu übermitteln.
 
 (2) Prüfungsgegenstand können auch die Abschlüsse und Berichte sein,
 die die beiden Geschäftsjahre zum Gegenstand haben, die dem
-Geschäftsjahr vorausgehen, auf das Absatz 1 Satz 5 Bezug nimmt; eine
+Geschäftsjahr vorausgehen, auf das Absatz 1 Satz 4 Bezug nimmt; eine
 stichprobenartige Prüfung ist hierbei nicht zulässig.
 
 (3) Eine Prüfung des Jahresabschlusses und des zugehörigen
 Lageberichts durch die Bundesanstalt findet nicht statt, solange eine
-Klage auf Nichtigkeit gemäß § 256 Abs. 7 des Aktiengesetzes anhängig
-ist. Wenn nach § 142 Abs. 1 oder Abs. 2 oder § 258 Abs. 1 des
-Aktiengesetzes ein Sonderprüfer bestellt worden ist, findet eine
-Prüfung ebenfalls nicht statt, soweit der Gegenstand der
-Sonderprüfung, der Prüfungsbericht oder eine gerichtliche Entscheidung
-über die abschließenden Feststellungen der Sonderprüfer nach § 260 des
+Klage auf Nichtigkeit gemäß § 256 Absatz 7 des Aktiengesetzes anhängig
+ist. Wenn nach § 142 Absatz 2 oder § 258 Absatz 1 des Aktiengesetzes
+ein Sonderprüfer bestellt worden ist, findet eine Prüfung ebenfalls
+nicht statt, soweit der Gegenstand der Sonderprüfung, der
+Prüfungsbericht oder eine gerichtliche Entscheidung über die
+abschließenden Feststellungen der Sonderprüfer nach § 260 des
 Aktiengesetzes reichen.
 
 (4) Bei der Durchführung der Prüfung kann sich die Bundesanstalt
@@ -9039,11 +9107,11 @@ und in einem von ihr bestimmten Format verlangen. Die Bundesanstalt
 kann die nach Satz 1 Verpflichteten laden und vernehmen. Die Sätze 1
 bis 4 gelten auch für die nach den Vorschriften des Handelsgesetzbuchs
 in den Konzernabschluss einzubeziehenden Tochterunternehmen. Die
-Befugnisse den Sätzen 1 und 4 gelten gegenüber jedermann, wenn die
-Voraussetzungen des Absatzes 1 Satz 1 vorliegen. Soweit im Rahmen von
-Auskunfts- oder Vorlageverlangen nach Satz 1, auch in Verbindung mit
-Satz 5 oder Satz 6, oder im Rahmen von Vernehmungen nach Satz 4, auch
-in Verbindung mit Satz 5 oder Satz 6, erforderlich, haben die
+Befugnisse nach den Sätzen 1 und 4 gelten gegenüber jedermann, wenn
+die Voraussetzungen des Absatzes 1 Satz 1 vorliegen. Soweit im Rahmen
+von Auskunfts- oder Vorlageverlangen nach Satz 1, auch in Verbindung
+mit Satz 5 oder Satz 6, oder im Rahmen von Vernehmungen nach Satz 4,
+auch in Verbindung mit Satz 5 oder Satz 6, erforderlich, haben die
 ersuchten Unternehmen oder Personen auch personenbezogene Daten
 gegenüber der Bundesanstalt oder den Personen offenzulegen, derer sich
 die Bundesanstalt bei der Durchführung ihrer Aufgaben bedient. Die
@@ -9252,9 +9320,9 @@ Abs. 1 der Verwaltungsgerichtsordnung entsprechend, soweit in diesem
 Abschnitt nichts Abweichendes geregelt ist.
 
 (2) Der Widerspruch gegen Maßnahmen der Bundesanstalt nach § 107
-Absatz 1 Satz 1, 2 und 6 sowie Absatz 5 bis 8 sowie § 109 Absatz 1 und
-2 Satz 1 und 4 einschließlich der Androhung und der Festsetzung von
-Zwangsmitteln hat keine aufschiebende Wirkung.
+Absatz 5 bis 7 sowie § 109 Absatz 1 und 2 Satz 4 einschließlich der
+Androhung und der Festsetzung von Zwangsmitteln hat keine
+aufschiebende Wirkung.
 
 
 #### § 113 Beschwerde
@@ -9908,7 +9976,8 @@ bis zu zwei Jahren oder Geldstrafe.
 
 
 3.  entgegen § 25 in Verbindung mit Artikel 15 der Verordnung (EU) Nr.
-    596/2014 eine Marktmanipulation begeht,
+    596/2014 in der Fassung vom 23. Oktober 2024 eine Marktmanipulation
+    begeht,
 
 
 4.  entgegen
@@ -10129,7 +10198,18 @@ geändert worden ist, verstößt, indem er vorsätzlich oder leichtfertig
     oder nicht in der vorgeschriebenen Weise cleart,
 
 
-1a. entgegen Artikel 4a Absatz 1 Unterabsatz 2 Buchstabe a eine
+1a. entgegen Artikel 4 Absatz 3a Satz 1 in Verbindung mit dem Anhang der
+    Delegierten Verordnung (EU) 2021/1456 der Kommission vom 2. Juni 2021
+    zur Ergänzung der Verordnung (EU) Nr. 648/2012 des Europäischen
+    Parlaments und des Rates mittels Festlegung der Voraussetzungen, unter
+    denen die handelsüblichen Bedingungen von Clearingdiensten für OTC-
+    Derivate als fair, angemessen, diskriminierungsfrei und transparent
+    anzusehen sind (ABl. L 317 vom 8.9.2021, S. 1), einen Clearingdienst
+    in Bezug auf einen OTC-Derivatekontrakt nach Artikel 4 Absatz 1 nicht
+    richtig erbringt,
+
+
+1b. entgegen Artikel 4a Absatz 1 Unterabsatz 2 Buchstabe a eine
     Unterrichtung nicht oder nicht rechtzeitig vornimmt,
 
 
@@ -10189,12 +10269,8 @@ geändert worden ist, verstößt, indem er vorsätzlich oder leichtfertig
 
 3.  als Betreiber eines inländischen Handelsplatzes, der im Namen eines
     Wertpapierdienstleistungsunternehmens Meldungen nach Artikel 26 Absatz
-    1 der Verordnung (EU) Nr. 600/2014 des Europäischen Parlaments und des
-    Rates vom 15. Mai 2014 über Märkte für Finanzinstrumente und zur
-    Änderung der Verordnung (EU) Nr. 648/2012 (ABl. L 173 vom 12.6.2014,
-    S. 84; L 6 vom 10.1.2015, S. 6; L 270 vom 15.10.2015, S. 4), die
-    zuletzt durch die Verordnung (EU) 2016/1033 (ABl. L 175 vom 30.6.2016,
-    S. 1) geändert worden ist, vornimmt,
+    1 der Verordnung (EU) 600/2014 in der Fassung vom 23. Oktober 2024
+    vornimmt,
 
     a)  entgegen § 22 Absatz 2 Satz 1 dort genannte Sicherheitsmaßnahmen nicht
         einrichtet oder
@@ -10229,8 +10305,6 @@ geändert worden ist, verstößt, indem er vorsätzlich oder leichtfertig
 
 9.  entgegen § 57 Absatz 1 eine Meldung nicht, nicht richtig, nicht
     vollständig oder nicht rechtzeitig vornimmt,
-
-
 
 
 10. bis 26. (weggefallen)
@@ -10381,8 +10455,7 @@ geändert worden ist, verstößt, indem er vorsätzlich oder leichtfertig
     nach § 64 Absatz 10 Nummer 3, eine Zuwendung annimmt oder behält,
 
 
-45a. entgegen § 65 Absatz 1 Satz 3 oder § 65a Absatz 1 Satz 3 einen
-    Vertragsschluss vermittelt,
+45a. entgegen § 65 Absatz 1 Satz 3 einen Vertragsschluss vermittelt,
 
 
 46. entgegen § 63 Absatz 10 Satz 1, auch in Verbindung mit Satz 2, jeweils
@@ -10787,20 +10860,10 @@ geändert worden ist, verstößt, indem er vorsätzlich oder leichtfertig
     monetären Vorteil annimmt,
 
 
-120. entgegen § 82 Absatz 9, auch in Verbindung mit einem technischen
-    Regulierungsstandard nach Artikel 27 Absatz 10 Buchstabe b der
-    Richtlinie 2014/65/EU, eine dort genannte Veröffentlichung nicht
-    mindestens einmal jährlich vornimmt,
+120. (weggefallen)
 
 
-121. als Betreiber eines Handelsplatzes oder als systematischer
-    Internalisierer, vorbehaltlich der Regelung zu § 26e des
-    Börsengesetzes, entgegen § 82 Absatz 10, auch in Verbindung mit einer
-    delegierten Verordnung nach Artikel 27 Absatz 9 sowie einem
-    technischen Regulierungsstandard nach Artikel 27 Absatz 10 Buchstabe a
-    der Richtlinie
-    2014/65/EU,                    eine dort genannte Veröffentlichung
-    nicht mindestens einmal jährlich vornimmt,
+121. (weggefallen)
 
 
 122. als Betreiber eines Ausführungsplatzes, vorbehaltlich der Regelung zu
@@ -10838,6 +10901,18 @@ geändert worden ist, verstößt, indem er vorsätzlich oder leichtfertig
     nach § 83 Absatz 3 Satz 1 informiert,
 
 
+126a. entgegen § 83 Absatz 6 Satz 1, auch in Verbindung mit einer
+    Rechtsverordnung nach § 83 Absatz 10, eine Dokumentation nicht, nicht
+    richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder
+    nicht rechtzeitig vornimmt,
+
+
+126b. entgegen § 83 Absatz 8 Satz 1 in Verbindung mit einer Rechtsverordnung
+    nach § 83 Absatz 10 Satz 1, jeweils auch in Verbindung mit § 83 Absatz
+    8 Satz 4, eine Aufzeichnung nicht oder nicht für die vorgesehene Dauer
+    aufbewahrt,
+
+
 127. entgegen § 84 Absatz 1 Satz 1 oder Absatz 4 Satz 1 keine geeigneten
     Vorkehrungen trifft, um die Rechte der Kunden an ihnen gehörenden
     Finanzinstrumenten oder Geldern zu schützen und zu verhindern, dass
@@ -10873,26 +10948,12 @@ geändert worden ist, verstößt, indem er vorsätzlich oder leichtfertig
     anderen Kunden nutzt,
 
 
-134. entgegen § 87 Absatz 1 Satz 1, Absatz 2, 3, 4 Satz 1 oder Absatz 5
-    Satz 1, jeweils auch in Verbindung mit einer Rechtsverordnung nach §
-    87 Absatz 9 Satz 1 Nummer 2, einen Mitarbeiter mit einer dort
-    genannten Tätigkeit betraut,
+134. entgegen § 87 Absatz 1 bis 4 oder 5, jeweils auch in Verbindung mit
+    einer Rechtsverordnung nach § 87 Absatz 9, einen Mitarbeiter mit einer
+    dort genannten Tätigkeit betraut oder
 
 
-135. entgegen
-
-    a)  § 87 Absatz 1 Satz 2 oder Satz 3, Absatz 4 Satz 2 oder Satz 3 oder
-        Absatz 5 Satz 2 oder Satz 3, jeweils auch in Verbindung mit einer
-        Rechtsverordnung nach § 87 Absatz 9 Satz 1 Nummer 1, oder
-
-
-    b)  § 87 Absatz 1 Satz 4 in Verbindung mit einer Rechtsverordnung nach §
-        87 Absatz 9 Satz 1 Nummer 1
-
-
-
-    eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht
-    rechtzeitig erstattet oder
+135. (weggefallen)
 
 
 136. (weggefallen)
@@ -10903,13 +10964,9 @@ geändert worden ist, verstößt, indem er vorsätzlich oder leichtfertig
 
 
 
-(9) Ordnungswidrig handelt, wer gegen die Verordnung (EU) Nr. 600/2014
-des Europäischen Parlaments und des Rates vom 15. Mai 2014 über Märkte
-für Finanzinstrumente und zur Änderung der Verordnung (EU) Nr.
-648/2012 (ABl. L 173 vom 12.6.2014, S. 84; L 6 vom 10.1.2015, S. 6; L
-270 vom 15.10.2015, S. 4; L 278 vom 27.10.2017, S. 54), die zuletzt
-durch die Verordnung (EU) 2019/2175 (ABl. L 334 vom 27.12.2019, S. 1)
-geändert worden ist, verstößt, indem er vorsätzlich oder leichtfertig
+(9) Ordnungswidrig handelt, wer gegen die Verordnung (EU) 600/2014 in
+der Fassung vom 23. Oktober 2024 verstößt, indem er vorsätzlich oder
+leichtfertig
 
 1.  als Wertpapierdienstleistungsunternehmen im Sinne dieses Gesetzes
     entgegen
@@ -10920,20 +10977,17 @@ geändert worden ist, verstößt, indem er vorsätzlich oder leichtfertig
     b)  Artikel 6 Absatz 1,
 
 
-    c)  Artikel 8 Absatz 1 Satz 2,
+    c)  Artikel 8a Absatz 1 oder 2,
 
 
-    d)  Artikel 8 Absatz 4 Satz 2,
+    d)  Artikel 8b Absatz 1,
 
 
-    e)  Artikel 10 Absatz 1,
+    e)  Artikel 10 Absatz 1 oder
 
 
     f)  Artikel 11 Absatz 3 Unterabsatz 3 in Verbindung mit Artikel 10 Absatz
-        1,
-
-
-    g)  Artikel 31 Absatz 2
+        1
 
 
 
@@ -10953,6 +11007,15 @@ geändert worden ist, verstößt, indem er vorsätzlich oder leichtfertig
 
     nicht in der dort beschriebenen Weise Zugang zu den betreffenden
     Systemen gewährt,
+
+
+2a. entgegen Artikel 5 Absatz 1 Satz 1 in Verbindung mit Satz 2 eine dort
+    genannte Ausnahme nicht oder nicht rechtzeitig aussetzt,
+
+
+2b. entgegen Artikel 5 Absatz 7 ein dort genanntes System oder ein dort
+    genanntes Verfahren nicht oder nicht unverzüglich nach
+    Betriebsaufnahme eines Handelsplatzes einrichtet,
 
 
 3.  als Wertpapierdienstleistungsunternehmen im Sinne dieses Gesetzes
@@ -10978,26 +11041,23 @@ geändert worden ist, verstößt, indem er vorsätzlich oder leichtfertig
         vorgeschriebenen Weise oder nicht rechtzeitig hinweist,
 
 
-    b)  Artikel 11 Absatz 1 Unterabsatz 3 Satz 1 auf geplante Regelungen für
-        eine Veröffentlichung nicht, nicht richtig, nicht vollständig, nicht
-        in der vorgeschriebenen Weise oder nicht rechtzeitig hinweist,
+    b)  Artikel 11 Absatz 1 Unterabsatz 2 Satz 1 oder Artikel 11a Absatz 1
+        Unterabsatz 2 Satz 1 einen Hinweis nicht, nicht richtig, nicht
+        vollständig oder nicht unverzüglich nach Feststehen einer dort
+        genannten Regelung gibt,
 
 
-    c)  Artikel 12 Absatz 1 eine Information nicht, nicht richtig, nicht
-        vollständig, nicht in der vorgeschriebenen Weise oder nicht
-        rechtzeitig offenlegt,
+    c)  Artikel 11 Absatz 1a Unterabsatz 2, Absatz 1b Unterabsatz 2 oder
+        Absatz 3 Unterabsatz 4 oder Artikel 11a Absatz 1 Unterabsatz 4 eine
+        Veröffentlichung nicht oder nicht rechtzeitig vornimmt,
 
 
-    d)  Artikel 13 Absatz 1 Satz 1 in Verbindung mit Satz 2 eine Angabe oder
-        Information nicht, nicht richtig, nicht in der vorgeschriebenen Weise
-        oder nicht rechtzeitig offenlegt oder bereitstellt oder keinen
-        diskriminierungsfreien Zugang zu den Informationen sicherstellt,
+    d)  Artikel 13 Absatz 2 eine dort genannte Information nicht, nicht
+        vollständig oder nicht rechtzeitig zur Verfügung stellt,
 
 
-    e)  Artikel 14 Absatz 1 Unterabsatz 1 in Verbindung mit Artikel 14 Absatz
-        3, 4, 5 und Artikel 15 Absatz 1 Unterabsatz 1 eine Kursofferte nicht,
-        nicht vollständig, nicht in der vorgeschriebenen Weise, nicht
-        rechtzeitig oder nicht im vorgeschriebenen Umfang offenlegt,
+    e)  Artikel 14 Absatz 1 Unterabsatz 1 eine Kursofferte nicht richtig oder
+        nicht vollständig offenlegt,
 
 
     f)  Artikel 25 Absatz 2 Satz 1 die betreffenden Daten eines Auftrags
@@ -11058,7 +11118,11 @@ geändert worden ist, verstößt, indem er vorsätzlich oder leichtfertig
 
 
     s)  Artikel 36 Absatz 3 Satz 5 einen Zugang nicht oder nicht rechtzeitig
-        ermöglicht,
+        ermöglicht oder
+
+
+    t)  Artikel 39a Absatz 1 eine Rückvergütung für die Weiterleitung von
+        Wertpapieraufträgen annimmt,
 
 
 
@@ -11087,28 +11151,7 @@ geändert worden ist, verstößt, indem er vorsätzlich oder leichtfertig
     Standards für den Zugang zu Kursofferten verfügt,
 
 
-9.  entgegen Artikel 18 Absatz 1 in Verbindung mit Artikel 18 Absatz 9
-    eine dort genannte Kursofferte nicht veröffentlicht,
-
-
-10. entgegen Artikel 18 Absatz 2 Satz 1 in Verbindung mit Artikel 18
-    Absatz 9 keine Kursofferte macht,
-
-
-11. entgegen Artikel 18 Absatz 5 Satz 1 eine Kursofferte nicht zugänglich
-    macht,
-
-
-12. entgegen Artikel 18 Absatz 6 Unterabsatz 1 nicht eine Verpflichtung
-    zum Abschluss eines Geschäfts mit einem anderen Kunden eingeht,
-
-
-13. als systematischer Internalisierer entgegen Artikel 18 Absatz 8 die
-    dort vorgeschriebene Bekanntmachung nicht oder nicht in der dort
-    vorgeschriebenen Weise vornimmt,
-
-
-14. entgegen
+9.  entgegen
 
     a)  Artikel 20 Absatz 1 Satz 1 in Verbindung mit Artikel 20 Absatz 1 Satz
         2 und Absatz 2,
@@ -11124,64 +11167,95 @@ geändert worden ist, verstößt, indem er vorsätzlich oder leichtfertig
     Weise vornimmt,
 
 
-15. als Wertpapierdienstleistungsunternehmen, als genehmigtes
+10. als Wertpapierdienstleistungsunternehmen, als genehmigtes
     Veröffentlichungssystem oder als Bereitsteller konsolidierter
     Datenträger entgegen Artikel 22 Absatz 2 erforderliche Daten nicht
     während eines ausreichenden Zeitraums speichert,
 
 
-16. entgegen Artikel 23 Absatz 1 ein Handelsgeschäft außerhalb der dort
+11. entgegen Artikel 22a Absatz 1 Satz 1 Daten nicht, nicht richtig, nicht
+    vollständig, nicht in der dort vorgeschriebenen Weise oder nicht bis
+    zum dort vorgegebenen Zeitpunkt übermittelt,
+
+
+12. entgegen Artikel 23 Absatz 1 ein Handelsgeschäft außerhalb der dort
     genannten Handelssysteme tätigt,
 
 
-17. entgegen Artikel 25 Absatz 1 Satz 1 die betreffenden Daten eines
+13. entgegen Artikel 25 Absatz 1 Satz 1 die betreffenden Daten eines
     Auftrags oder eines Geschäfts nicht, nicht richtig, nicht vollständig
     oder nicht in der vorgeschriebenen Weise aufzeichnet oder
     aufgezeichnete Daten nicht für mindestens fünf Jahre zur Verfügung der
     zuständigen Behörde hält,
 
 
-18. entgegen Artikel 26 Absatz 1 Unterabsatz 1, auch in Verbindung mit
+14. entgegen Artikel 26 Absatz 1 Unterabsatz 1, auch in Verbindung mit
     Artikel 26 Absatz 4 Satz 2, eine Meldung nicht, nicht richtig, nicht
     vollständig, nicht in der vorgeschriebenen Weise oder nicht
     rechtzeitig vornimmt,
 
 
-19. entgegen Artikel 26 Absatz 4 Satz 1 einem übermittelten Auftrag nicht
+15. entgegen Artikel 26 Absatz 4 Satz 1 einem übermittelten Auftrag nicht
     sämtliche Einzelheiten beifügt,
 
 
-20. als genehmigter Meldemechanismus oder als Betreiber eines
+16. als genehmigter Meldemechanismus oder als Betreiber eines
     Handelsplatzes entgegen Artikel 26 Absatz 7 Unterabsatz 1 eine Meldung
     nicht, nicht richtig oder nicht vollständig übermittelt,
 
 
-21. als Betreiber eines Handelsplatzes im Sinne des Artikels 4 Absatz 1
+17. als Betreiber eines Handelsplatzes im Sinne des Artikels 4 Absatz 1
     Nummer 24 entgegen Artikel 26 Absatz 5 eine Meldung nicht, nicht
     richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder
     nicht rechtzeitig vornimmt,
 
 
-22. als Wertpapierdienstleistungsunternehmen, systematischer
-    Internalisierer oder Betreiber eines Handelsplatzes entgegen Artikel
-    27 Absatz 1 Unterabsatz 1, 2 oder 3 Satz 2 identifizierende
-    Referenzdaten in Bezug auf ein Finanzinstrument nicht, nicht richtig,
-    nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht
-    rechtzeitig zur Verfügung stellt oder aktualisiert,
+18. entgegen Artikel 27 Absatz 1 Unterabsatz 1 oder 3, jeweils in
+    Verbindung mit Artikel 2 der Delegierten Verordnung (EU) 2017/585 in
+    der Fassung vom 14. Juli 2016, dort genannte Daten nicht, nicht
+    richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder
+    nicht rechtzeitig übermittelt,
 
 
-22a. entgegen Artikel 27g Absatz 1 Satz 2 eine Information nicht, nicht
+19. als Datenbereitstellungsdienstleister nach Artikel 2 Absatz 1 Nummer
+    36a, der die Ausnahmekriterien nach Artikel 2 Absatz 1 der Delegierten
+    Verordnung (EU) 2022/466 der Kommission vom 17. Dezember 2021 zur
+    Ergänzung der des Europäischen Parlaments und des Rates durch
+    Festlegung von Kriterien für die Ausnahme von dem Grundsatz der
+    Beaufsichtigung genehmigter Veröffentlichungssysteme und genehmigter
+    Meldemechanismen durch die Europäische Wertpapier- und
+    Marktaufsichtsbehörde (ABl. L 96 vom 24.3.2022, S. 1) erfüllt,
+
+    a)  entgegen Artikel 27f Absatz 2 eine Mitteilung nicht richtig, nicht
+        vollständig, oder nicht vor Aufnahme der Tätigkeit als Mitglied des
+        Leitungsorgans oder nicht vor einer Veränderung der Zusammensetzung
+        des Leitungsorgans macht,
+
+
+    b)  entgegen Artikel 27f Absatz 3 die Umsetzung einer dort genannten
+        Unternehmensführungsregelung nicht überwacht,
+
+
+
+
+
+20. entgegen Artikel 27g Absatz 1 Satz 2 eine Information nicht, nicht
     richtig, nicht vollständig oder nicht rechtzeitig zur Verfügung
     stellt,
 
 
-22b. entgegen Artikel 27g Absatz 3 Satz 2 oder Artikel 27i Absatz 2 Satz 2
+21. entgegen Artikel 27g Absatz 3 Satz 2 oder Artikel 27i Absatz 2 Satz 2
     eine Information nicht richtig behandelt,
 
 
-23. entgegen Artikel 28 Absatz 1, auch in Verbindung mit Artikel 28 Absatz
-    2 Unterabsatz 1, ein Geschäft an einem anderen als den dort
-    bezeichneten Plätzen abschließt,
+22. als Person nach Artikel 2 Absatz 1 Nummer 36 der, die die
+    Ausnahmekriterien nach Artikel 2 Absatz 1 der Delegierten Verordnung
+    (EU) 2022/466 erfüllt, entgegen Artikel 27i Absatz 2 Satz 1 eine dort
+    genannte Vorkehrung nicht beibehält,
+
+
+23. entgegen Artikel 28 Absatz 1 ein Geschäft an einem anderen als den
+    dort bezeichneten Plätzen abschließt,
 
 
 24. als zentrale Gegenpartei im Sinne des Artikels 2 Absatz 1 der
@@ -11222,48 +11296,60 @@ geändert worden ist, verstößt, indem er vorsätzlich oder leichtfertig
 
 (9a) Ordnungswidrig handelt, wer vorsätzlich oder leichtfertig als
 Person nach Artikel 2 Absatz 1 Nummer 34 der Verordnung (EU) Nr.
-600/2014
+600/2014 in der Fassung vom 23. Oktober 2024, die die
+Ausnahmekriterien nach Artikel 2 Absatz 1 der Delegierten Verordnung
+(EU) 2022/466 erfüllt,
 
 1.  nicht dafür sorgt, dass sie über Grundsätze und Vorkehrungen nach
     Artikel 27g Absatz 1 Satz 1 der Verordnung (EU) Nr. 600/2014 verfügt,
 
 
-2.  nicht über die in Artikel 27g Absatz 4 Satz 2 oder Artikel 27i Absatz
-    3 Satz 2 der Verordnung (EU) Nr. 600/2014 genannten Mittel und
+2.  nicht über die in Artikel 27g Absatz 4 Satz 2 der Verordnung (EU) Nr.
+    600/2014 in der Fassung vom 23. Oktober 2024 genannten Mittel und
     Notfallsysteme verfügt,
 
 
 3.  nicht in der Lage ist, Informationen in der in Artikel 27g Absatz 1
-    Satz 3 der Verordnung (EU) Nr. 600/2014 vorgeschriebenen Weise zu
-    verbreiten,
+    Satz 3 der Verordnung (EU) Nr. 600/2014 in der Fassung vom 23. Oktober
+    2024 vorgeschriebenen Weise zu verbreiten,
 
 
 4.  nicht die in Artikel 27g Absatz 3 Satz 1 der Verordnung (EU) Nr.
-    600/2014 genannten Vorkehrungen trifft und beibehält,
+    600/2014 in der Fassung vom 23. Oktober 2024 genannten Vorkehrungen
+    trifft und beibehält,
 
 
-5.  nicht die in Artikel 27g Absatz 4 Satz 1 oder Artikel 27i Absatz 3
-    Satz 1 der Verordnung (EU) Nr. 600/2014 genannten Mechanismen
+5.  nicht die in Artikel 27g Absatz 4 Satz 1 der Verordnung (EU) Nr.
+    600/2014 in der Fassung vom 23. Oktober 2024 genannten Mechanismen
     einrichtet,
 
 
-6.  nicht über die in Artikel 27g Absatz 4 Satz 2 oder Artikel 27i Absatz
-    3 Satz 2 der Verordnung (EU) Nr. 600/2014 genannten Ressourcen und
-    Notfallsysteme verfügt,
+6.  nicht über die in Artikel 27g Absatz 4 Satz 2 der Verordnung (EU) Nr.
+    600/2014 in der Fassung vom 23. Oktober 2024 genannten Ressourcen und
+    Notfallsysteme verfügt oder
 
 
 7.  nicht über die in Artikel 27g Absatz 5 der Verordnung (EU) Nr.
-    600/2014 genannten Systeme verfügt,
+    600/2014 in der Fassung vom 23. Oktober 2024 genannten Systeme
+    verfügt.
 
 
-8.  nicht über die in Artikel 27i Absatz 1 der Verordnung (EU) Nr.
-    600/2014 genannten Grundsätze und Vorkehrungen zu deren Einhaltung
-    verfügt,
 
 
-9.  nicht die in Artikel 27i Absatz 2 der Verordnung (EU) Nr. 600/2014
-    genannten Vorkehrungen trifft oder nicht über die in Artikel 27i
-    Absatz 4 genannten Systeme verfügt.
+(9b) Ordnungswidrig handelt, wer vorsätzlich oder leichtfertig als
+Person nach Artikel 2 Absatz 1 Nummer 36 der Verordnung (EU) Nr.
+600/2014 in der Fassung vom 23. Oktober 2024, die die
+Ausnahmekriterien nach Artikel 2 Absatz 1 der Delegierten Verordnung
+(EU) 2022/466 erfüllt,
+
+1.  nicht dafür sorgt, dass sie über Grundsätze und Vorkehrungen nach
+    Artikel 27i Absatz 1 der Verordnung (EU) Nr. 600/2014 in der Fassung
+    vom 23. Oktober 2024 verfügt, oder
+
+
+2.  nicht dafür sorgt, dass sie über die in Artikel 27i Absatz 3 Satz 2
+    der Verordnung (EU) Nr. 600/2014 in der Fassung vom 23. Oktober 2024
+    genannten Ressourcen und Notfallsysteme verfügt.
 
 
 
@@ -11719,16 +11805,19 @@ leichtfertig
 
 1.  einer vollziehbaren Anordnung nach
 
-    a)  § 6 Absatz 2a oder 2b,
+    a)  § 6 Absatz 2a oder Absatz 2d,
 
 
-    b)  § 6 Absatz 3 Satz 1,
+    b)  § 6 Absatz 2b oder 2c,
 
 
-    c)  § 87 Absatz 6 Satz 1 Nummer 1 oder Nummer 2 Buchstabe b,
+    c)  § 6 Absatz 3 Satz 1,
 
 
-    d)  § 92 Absatz 1
+    d)  § 87 Absatz 6 Satz 1 Nummer 1 oder Nummer 2 Buchstabe b,
+
+
+    e)  § 92 Absatz 1
 
 
 
@@ -11775,7 +11864,8 @@ Absatz 1 zuwiderhandelt.
 bezeichnete Handlung leichtfertig begeht.
 
 (15) Ordnungswidrig handelt, wer gegen die Verordnung (EU) Nr.
-596/2014 verstößt, indem er vorsätzlich oder leichtfertig
+596/2014 in der Fassung vom 23. Oktober 2024 verstößt, indem er
+vorsätzlich oder leichtfertig
 
 1.  als Handelsplatzbetreiber entgegen Artikel 4 identifizierende
     Referenzdaten in Bezug auf ein Finanzinstrument nicht, nicht richtig,
@@ -11807,6 +11897,11 @@ bezeichnete Handlung leichtfertig begeht.
     rechtzeitig bekannt gibt,
 
 
+6a. entgegen Artikel 17 Absatz 1a die Geheimhaltung einer
+    Insiderinformation nicht oder nicht für die vorgeschriebene Dauer
+    gewährleistet,
+
+
 7.  entgegen Artikel 17 Absatz 1 Unterabsatz 2 Satz 1 eine
     Veröffentlichung nicht sicherstellt,
 
@@ -11822,7 +11917,7 @@ bezeichnete Handlung leichtfertig begeht.
     nicht mindestens fünf Jahre lang auf der betreffenden Website anzeigt,
 
 
-10. entgegen Artikel 17 Absatz 4 Unterabsatz 3 Satz 1 die zuständige
+10. entgegen Artikel 17 Absatz 4 Unterabsatz 2 Satz 1 die zuständige
     Behörde nicht, nicht richtig, nicht vollständig, nicht in der
     vorgeschriebenen Weise oder nicht rechtzeitig über den Aufschub einer
     Offenlegung informiert oder den Aufschub einer Offenlegung nicht,
@@ -12137,10 +12232,10 @@ wirtschaftlichen Vorteils geahndet werden. Der wirtschaftliche Vorteil
 umfasst erzielte Gewinne und vermiedene Verluste und kann geschätzt
 werden.
 
-(23) Gesamtumsatz im Sinne des Absatzes 17 Satz 2 Nummer 2, des
-Absatzes 18 Satz 2 Nummer 1 und 2, des Absatzes 19 Satz 2, des
-Absatzes 20 Satz 2, des Absatzes 21 Satz 2, des Absatzes 22 Satz 2 und
-des Absatzes 22a Satz 2 ist
+(23) Gesamtumsatz im Sinne des Absatzes 17 Satz 2 Nummer 2, der
+Absätze 18b und 18c, des Absatzes 19 Satz 2, des Absatzes 20 Satz 2,
+des Absatzes 21 Satz 2, des Absatzes 22 Satz 2 und des Absatzes 22a
+Satz 2 ist
 
 1.  im Falle von Kreditinstituten, Zahlungsinstituten,
     Finanzdienstleistungsinstituten und Wertpapierinstituten im Sinne des
@@ -12186,17 +12281,17 @@ geschätzt werden.
 
 (24) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 2 Nummer 2
 Buchstabe f bis h, Nummer 2b und 4 Buchstabe c, Nummer 10 und 15 sowie
-des Absatzes 6 Nummer 3 bis 5 sowie des Absatzes 7 Nummer 5, 8 und 9
-mit einer Geldbuße bis zu fünfhunderttausend Euro, in den Fällen des
+des Absatzes 6 Nummer 3 bis 5 sowie des Absatzes 7 Nummer 1b, 5, 8 und
+9 mit einer Geldbuße bis zu fünfhunderttausend Euro, in den Fällen des
 Absatzes 1 Nummer 2 und 3, des Absatzes 2 Nummer 1, 2 Buchstabe a, b
 und k bis n, Nummer 2a, 14a und 16, des Absatzes 4 Nummer 5, des
 Absatzes 6 Nummer 1 und 2, des Absatzes 7 Nummer 1, 3 und 4 und des
-Absatzes 12 Nummer 1 Buchstabe b mit einer Geldbuße bis zu
+Absatzes 12 Nummer 1 Buchstabe c mit einer Geldbuße bis zu
 zweihunderttausend Euro, in den Fällen des Absatzes 1 Nummer 4, des
-Absatzes 2 Nummer 6 bis 8, 11 bis 13, des Absatzes 7 Nummer 2, 6 und 7
-und des Absatzes 12 Nummer 1 Buchstabe c mit einer Geldbuße bis zu
-hunderttausend Euro, in den übrigen Fällen mit einer Geldbuße bis zu
-fünfzigtausend Euro geahndet werden.
+Absatzes 2 Nummer 6 bis 8, 11 bis 13, des Absatzes 7 Nummer 1a, 2, 6
+und 7 und des Absatzes 12 Nummer 1 Buchstabe d mit einer Geldbuße bis
+zu hunderttausend Euro, in den übrigen Fällen mit einer Geldbuße bis
+zu fünfzigtausend Euro geahndet werden.
 
 (25) § 17 Absatz 2 des Gesetzes über Ordnungswidrigkeiten ist nicht
 anzuwenden bei Verstößen gegen Gebote und Verbote, die in den Absätzen
@@ -12231,7 +12326,134 @@ Tatbestände zu bezeichnen, die als Ordnungswidrigkeit nach Absatz 2
 Nummer 16 geahndet werden können.
 
 
-### § 120a Bußgeldvorschriften zur Verordnung (EU) 2019/1238
+### § 120a Bußgeldvorschriften zur Delegierten Verordnung (EU) Nr. 149/2013
+
+(1) Ordnungswidrig handelt, wer gegen die Delegierte Verordnung (EU)
+Nr. 149/2013 der Kommission vom 19. Dezember 2012 zur Ergänzung der
+Verordnung (EU) Nr. 648/2012 des Europäischen Parlaments und des Rates
+im Hinblick auf technische Regulierungsstandards für indirekte
+Clearingvereinbarungen, die Clearingpflicht, das öffentliche Register,
+den Zugang zu einem Handelsplatz, nichtfinanzielle Gegenparteien und
+Risikominderungstechniken für nicht durch eine CCP geclearte OTC-
+Derivatekontrakte (ABl. L 52 vom 23.2.2013, S. 11), die zuletzt durch
+die Delegierte Verordnung (EU) 2022/2310 (ABl. L 307 vom 28.11.2022,
+S. 29) geändert worden ist, verstößt, indem er vorsätzlich oder
+leichtfertig
+
+1.  entgegen Artikel 2 Absatz 1 Buchstabe a, Artikel 5a Absatz 1
+    Unterabsatz 1 Buchstabe a oder Artikel 5b Absatz 1 Unterabsatz 1
+    Buchstabe a, b oder Buchstabe c eine indirekte Clearingdienstleistung
+    erbringt,
+
+
+2.  entgegen Artikel 2 Absatz 2 Unterabsatz 1, Artikel 5a Absatz 1
+    Unterabsatz 1 Buchstabe b oder Artikel 5b Absatz 1 Unterabsatz 1
+    Buchstabe d eine Clearingvereinbarung nicht, nicht richtig, nicht
+    vollständig oder nicht vor Erbringung des indirekten Clearingdienstes
+    schließt,
+
+
+3.  entgegen Artikel 4 Absatz 3 Satz 1 eine dort genannte Information
+    nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig
+    übermittelt,
+
+
+4.  entgegen Artikel 4 Absatz 4 ein dort genanntes Konto nicht oder nicht
+    vor Erbringung der Clearingdienstleistungen eröffnet oder nicht
+    unterhält,
+
+
+5.  entgegen Artikel 4 Absatz 5 in Verbindung mit Absatz 6 Buchstabe a
+    oder Absatz 7 Buchstabe a oder Buchstabe c ein dort genanntes
+    Verfahren nicht oder nicht vor Erbringung der Clearingdienstleistungen
+    einrichtet,
+
+
+6.  entgegen Artikel 5 Absatz 1 eine dort genannte Wahl nicht richtig
+    bietet oder nicht sicherstellt, dass ein dort genannter Kunde
+    informiert ist,
+
+
+7.  entgegen Artikel 5 Absatz 3 eine Aufzeichnung oder ein
+    Abrechnungskonto nicht richtig führt,
+
+
+8.  entgegen Artikel 5 Absatz 7 eine dort genannte Kondition nicht oder
+    nicht rechtzeitig in die Clearingvereinbarung aufnimmt oder
+
+
+9.  entgegen Artikel 5 Absatz 9 eine dort genannte Vorkehrung nicht oder
+    nicht vor Erbringung der Clearingdienstleistungen trifft.
+
+
+
+
+(2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu
+hunderttausend Euro geahndet werden.
+
+
+### § 120b Bußgeldvorschriften zur Delegierten Verordnung (EU) 2017/2154
+
+(1) Ordnungswidrig handelt, wer gegen die Delegierte Verordnung (EU)
+2017/2154 der Kommission vom 22. September 2017 zur Ergänzung der
+Verordnung (EU) Nr. 600/2014 des Europäischen Parlaments und des Rates
+durch technische Regulierungsstandards für indirekte
+Clearingvereinbarungen (ABl. L 304 vom 21.11.2017, S. 6) verstößt,
+indem er vorsätzlich oder leichtfertig
+
+1.  entgegen Artikel 2 Absatz 1 Buchstabe a, Artikel 6 Absatz 1
+    Unterabsatz 1 Buchstabe a oder Artikel 7 Absatz 1 Unterabsatz 1
+    Buchstabe a, b oder Buchstabe c einen indirekten Clearingdienst
+    erbringt,
+
+
+2.  entgegen Artikel 2 Absatz 2 Unterabsatz 1, Artikel 6 Absatz 1
+    Unterabsatz 1 Buchstabe b oder Artikel 7 Absatz 1 Unterabsatz 1
+    Buchstabe d eine Clearingvereinbarung nicht, nicht richtig, nicht
+    vollständig oder nicht vor der Erbringung des indirekten
+    Clearingdienstes schließt,
+
+
+3.  entgegen Artikel 4 Absatz 3 Satz 1 eine dort genannte Information
+    nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig
+    übermittelt,
+
+
+4.  entgegen Artikel 4 Absatz 4 ein dort genanntes Konto nicht oder nicht
+    vor Erbringung der Clearingdienstleistungen eröffnet oder nicht
+    unterhält,
+
+
+5.  entgegen Artikel 4 Absatz 5 in Verbindung mit Absatz 6 Buchstabe a
+    oder Absatz 7 Buchstabe a oder Buchstabe c ein dort genanntes
+    Verfahren nicht oder nicht vor Erbringung der Clearingdienstleistungen
+    einrichtet,
+
+
+6.  entgegen Artikel 5 Absatz 1 eine dort genannte Wahl nicht richtig
+    bietet oder nicht sicherstellt, dass ein dort genannter Kunde
+    informiert ist,
+
+
+7.  entgegen Artikel 5 Absatz 3 eine Aufzeichnung oder ein
+    Abrechnungskonto nicht richtig führt,
+
+
+8.  entgegen Artikel 5 Absatz 7 eine dort genannte Kondition nicht oder
+    nicht rechtzeitig in die Clearingvereinbarung aufnimmt oder
+
+
+9.  entgegen Artikel 5 Absatz 9 eine dort genannte Vorkehrung nicht oder
+    nicht vor Erbringung der Clearingdienstleistungen trifft.
+
+
+
+
+(2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu
+hunderttausend Euro geahndet werden.
+
+
+### § 120c Bußgeldvorschriften zur Verordnung (EU) 2019/1238
 
 (1) Ordnungswidrig handelt, wer gegen die Verordnung (EU) 2019/1238
 des Europäischen Parlaments und des Rates vom 20. Juni 2019 über ein
@@ -12414,7 +12636,7 @@ lässt.
 (6) § 120 Absatz 23 und 26 gilt entsprechend.
 
 
-### § 120b Bußgeldvorschriften zur Verordnung (EU) 2020/1503
+### § 120d Bußgeldvorschriften zur Verordnung (EU) 2020/1503
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder leichtfertig entgegen
 Artikel 18 Absatz 1 der Verordnung (EU) 2020/1503 des Europäischen
@@ -12595,6 +12817,18 @@ soweit sich dieser beziffern lässt.
 (6) § 120 Absatz 23 und 26 gilt entsprechend.
 
 
+### § 120e Bußgeldvorschriften zur Verordnung (EU) 2022/2554
+
+Zuwiderhandlungen gegen die Verordnung (EU) 2022/2554 des Europäischen
+Parlaments und des Rates vom 14. Dezember 2022 über die digitale
+operationale Resilienz im Finanzsektor und zur Änderung der
+Verordnungen (EG) Nr. 1060/2009, (EU) Nr. 648/2012, (EU) Nr. 600/2014,
+(EU) Nr. 909/2014 und (EU) 2016/1011 (ABl. L 333 vom 27.12.2022, S. 1)
+durch Personen im Anwendungsbereich dieses Gesetzes können nach § 56
+Absatz 5e und 6 Nummer 1 und 2 des Kreditwesengesetzes geahndet
+werden.
+
+
 ### § 121 Zuständige Verwaltungsbehörde
 
 Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über
@@ -12737,7 +12971,7 @@ personenbezogene Daten zu löschen, sobald ihre Bekanntmachung nicht
 mehr erforderlich ist.
 
 
-### § 125 Bekanntmachung von Maßnahmen und Sanktionen wegen Verstößen gegen die Verordnung (EU) Nr. 596/2014, die Verordnung (EU) 2015/2365 und die Verordnung (EU) 2016/1011
+### § 125 Bekanntmachung von Maßnahmen und Sanktionen wegen Verstößen gegen die Verordnung (EU) Nr. 596/2014, die Verordnung (EU) 2015/2365, die Verordnung (EU) 2016/1011 und die Verordnung (EU) 2022/2554
 
 (1) Die Bundesanstalt macht Entscheidungen über Maßnahmen und
 Sanktionen, die wegen Verstößen nach den Artikeln 14, 15, 16 Absatz 1
@@ -12751,7 +12985,12 @@ bekannt. Dies gilt nicht für Entscheidungen über Ermittlungsmaßnahmen.
 
 (2) In der Bekanntmachung benennt die Bundesanstalt die Vorschrift,
 gegen die verstoßen wurde, und die für den Verstoß verantwortliche
-natürliche oder juristische Person oder Personenvereinigung.
+natürliche oder juristische Person oder Personenvereinigung. Die
+Bundesanstalt macht bestandskräftige Maßnahmen und unanfechtbar
+gewordene Bußgeldentscheidungen, die wegen Verstößen gegen die
+Verordnung (EU) 2022/2554 oder die jeweils darauf basierenden
+delegierten Rechtsakte erlassen wurden, auf ihrer Internetseite
+unverzüglich bekannt.
 
 (3) Ist die Bekanntmachung der Identität einer von der Entscheidung
 betroffenen juristischen Person oder der personenbezogenen Daten einer
@@ -13190,6 +13429,13 @@ worden ist.
 Geldbuße bis zu zweihunderttausend Euro geahndet werden.
 
 
+### § 130a Anwendungsbestimmung für § 32a Absatz 1 Satz 1
+
+§ 32 Absatz 1 Satz 1 in der Fassung des Gesetzes vom 4. Februar 2026
+(BGBl. 2026 I Nr. 33) ist erstmals auf das Geschäftsjahr anzuwenden,
+das nach dem 10. Februar 2026 beginnt.
+
+
 ### § 131 Übergangsregelung für die Verjährung von Ersatzansprüchen nach § 37a der bis zum 4. August 2009 gültigen Fassung dieses Gesetzes
 
 § 37a in der bis zum 4. August 2009 geltenden Fassung ist auf
@@ -13343,6 +13589,15 @@ und Marktaufsichtsbehörde mit, für welche C.6-Energiederivatkontrakte
 Ausnahmen nach den Absätzen 1 und 2 gewährt worden sind.
 
 
+### § 138a Übergangsregelung zur Verordnung (EU) Nr. 600/2014
+
+Das in Artikel 39a Absatz 1 der Verordnung (EU) Nr. 600/2014 geregelte
+Verbot von Zuwendungen für die Weiterleitung von Kundenaufträgen
+findet auf Wertpapierdienstleistungsunternehmen mit Sitz im Inland bei
+der Erbringung von Wertpapierdienstleistungen an Kunden im Inland bis
+zum 30. Juni 2026 keine Anwendung.
+
+
 ### § 139 Übergangsvorschriften zum Gesetz zur weiteren Ausführung der EU-Prospektverordnung und zur Änderung von Finanzmarktgesetzen
 
 (1) § 76 Absatz 1 Satz 1 Nummer 3 in der bis zum 20. Juli 2019
@@ -13390,15 +13645,17 @@ anzuwenden.
 
 (3) Die nach § 342b Absatz 1 des Handelsgesetzbuchs in der bis
 einschließlich 31. Dezember 2021 geltenden Fassung als Prüfstelle
-anerkannte Einrichtung gewährt der Bundesanstalt auf Verlangen
-Einsicht in bei ihr vorhandene Unterlagen zu Prüfungen, die spätestens
-bis zum 31. Dezember 2021 abgeschlossen sind, und übermittelt der
-Bundesanstalt eine physische oder elektronische Ausfertigung von
-Unterlagen, deren Vernichtung oder Löschung sie beabsichtigt. Die
-Absicht ist der Bundesanstalt anzuzeigen. Die Bundesanstalt hat die
-Rechte nach Satz 1 nur, wenn das Unternehmen, auf das sich die
-Unterlagen beziehen, zustimmt oder ein überwiegendes öffentliches
-Interesse an der Einsichtnahme oder Übermittlung besteht.
+anerkannte Einrichtung gewährt bis zum 31. Dezember 2031 der
+Bundesanstalt auf Verlangen Einsicht in bei ihr vorhandene Unterlagen
+zu Prüfungen, die spätestens bis zum 31. Dezember 2021 abgeschlossen
+sind, und übermittelt der Bundesanstalt eine physische oder
+elektronische Ausfertigung von Unterlagen, deren Vernichtung oder
+Löschung sie vor dem Ablauf von zehn Jahren nach dem jeweiligen
+Abschluss der Prüfung beabsichtigt. Die Absicht ist der Bundesanstalt
+anzuzeigen. Die Bundesanstalt hat die Rechte nach Satz 1 nur, wenn das
+Unternehmen, auf das sich die Unterlagen beziehen, zustimmt oder ein
+überwiegendes öffentliches Interesse an der Einsichtnahme oder
+Übermittlung besteht.
 
 
 ### § 142 Übergangsvorschriften für das Schwarmfinanzierung-Begleitgesetz

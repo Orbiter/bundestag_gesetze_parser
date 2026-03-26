@@ -17,16 +17,16 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2018, 1398, 1552
 
-Geändert durch
-:   Art. 1 Nr. 18 V v. 5.1.2022 I 2
+Zuletzt geändert durch
+:   Art. 1 Nr. 18 V v. 14.10.2025 I Nr. 242
 
 
 ## (XXXX)
 
 (Fundstelle: BGBl. I 2018, 1552 - 1553)
 
-## **Zone 3**
 
+## **Zone 3**
 
 *    *   Wasserstraße
 
@@ -45,8 +45,8 @@ Geändert durch
 
 
 
-## **Zone 4**
 
+## **Zone 4**
 
 *    *   Wasserstraße
 
@@ -120,6 +120,11 @@ Geändert durch
 
 
 
+
+
+*    *   Mosel
+
+    *   Von der deutsch-französischen Grenze bei Apach bis zum Rhein
 
 
 *    *   Müritz-Elde-Wasserstraße
@@ -262,6 +267,7 @@ Geändert durch
 
 
         –   Großer Wannsee
+
 
 
 

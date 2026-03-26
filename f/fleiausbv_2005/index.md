@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2005, 898
 
 Geändert durch
-:   Art. 1 V v. 30.12.2016, 2017 I 37
+:   Art. 1 V v. 30.12.2016; 2017 I 37
 
 
 

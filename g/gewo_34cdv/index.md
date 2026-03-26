@@ -17,10 +17,10 @@ Fundstelle
 :   BGBl I: 1974, 1314
 
 Neugefasst durch
-:   Bek. v. 7.11.1990 I 2479;
+:   Bek. v. 7.11.1990 I 2479
 
 Zuletzt geändert durch
-:   Art. 1 V v. 9.5.2018 I 550
+:   Art. 14 V v. 11.12.2024 I Nr. 411
 
 
 ## § 1 Anwendungsbereich
@@ -42,9 +42,9 @@ Gewerbetreibende, die
 
 
 2.  als Wohnimmobilienverwalter nach § 34c Absatz 1 Satz 1 Nummer 4 der
-    Gewerbeordnung tätig sind, mit Ausnahme der §§ 9, 11, 15 bis 15b, 18
-    Absatz 1 Nummer 6, 8, 11, 11a, Absatz 2 und 3 und
-    § 19.
+    Gewerbeordnung tätig sind, mit Ausnahme der §§ 11, 15 bis 15b, 18
+    Absatz 1 Nummer 7, 9, 10 Absatz 2 und 3 und
+    § 19                   .
 
 
 
@@ -420,16 +420,8 @@ den Vermögenswerten des Auftraggebers eine Leistung zu einem Festpreis
 zu erbringen hat.
 
 
-## § 9 Anzeigepflicht
+## § 9 (weggefallen)
 
-Der Gewerbetreibende hat der zuständigen Behörde die jeweils mit der
-Leitung des Betriebes oder einer Zweigniederlassung beauftragten
-Personen unverzüglich anzuzeigen. Dies gilt bei juristischen Personen
-auch für die nach Gesetz, Satzung oder Gesellschaftsvertrag jeweils
-zur Vertretung berufenen Personen. In der Anzeige sind Name,
-Geburtsname, sofern er vom Namen abweicht, Vornamen,
-Staatsangehörigkeit, Geburtstag, Geburtsort und Anschrift der
-betreffenden Personen anzugeben.
 
 
 ## § 10 Buchführungspflicht
@@ -925,43 +917,36 @@ handelt, wer
     Vermögensverwaltung zuwiderhandelt,
 
 
-6.  entgegen § 9 die Anzeige nicht, nicht richtig, nicht vollständig oder
-    nicht rechtzeitig erstattet,
-
-
-7.  entgegen § 10 Abs. 1 bis 5 erforderliche Aufzeichnungen nicht, nicht
+6.  entgegen § 10 Abs. 1 bis 5 erforderliche Aufzeichnungen nicht, nicht
     richtig, nicht vollständig, nicht ordnungsgemäß oder nicht rechtzeitig
     macht oder Unterlagen oder Belege nicht oder nicht übersichtlich
     sammelt,
 
 
-8.  entgegen § 11 Satz 1 Nummer 1, 2 oder 3 dem Auftraggeber die dort
+7.  entgegen § 11 Satz 1 Nummer 1, 2 oder 3 dem Auftraggeber die dort
     bezeichneten Angaben nicht, nicht richtig, nicht vollständig oder
     nicht rechtzeitig mitteilt,
 
 
-9.  (weggefallen)
-
-
-10. entgegen § 14 Abs. 1 Satz 1 Geschäftsunterlagen nicht während der
+8.  entgegen § 14 Abs. 1 Satz 1 Geschäftsunterlagen nicht während der
     vorgeschriebenen Frist aufbewahrt,
 
 
-11. entgegen § 15b Absatz 2 Satz 3 einen Nachweis oder eine Unterlage
+9.  entgegen § 15b Absatz 2 Satz 3 einen Nachweis oder eine Unterlage
     nicht oder nicht mindestens fünf Jahre aufbewahrt,
 
 
-11a. einer vollziehbaren Anordnung nach § 15b Absatz 3 Satz 1
+10. einer vollziehbaren Anordnung nach § 15b Absatz 3 Satz 1
     zuwiderhandelt,
 
 
-12. entgegen § 16 Abs. 1 Satz 1 oder 2 einen Prüfungsbericht nicht, nicht
+11. entgegen § 16 Abs. 1 Satz 1 oder 2 einen Prüfungsbericht nicht, nicht
     richtig, nicht vollständig oder nicht rechtzeitig oder eine dort
     genannte Erklärung nicht, nicht richtig oder nicht rechtzeitig vorlegt
     oder
 
 
-13. den Duldungs- oder Mitwirkungspflichten des § 17 Abs. 1 nicht, nicht
+12. den Duldungs- oder Mitwirkungspflichten des § 17 Abs. 1 nicht, nicht
     ausreichend oder nicht rechtzeitig nachkommt.
 
 
@@ -986,13 +971,13 @@ Geltungsbereich der Gewerbeordnung vorübergehend selbständig eine
 Tätigkeit
 
 1.  nach § 34c Absatz 1 Satz 1 Nummer 1 oder Nummer 3 der Gewerbeordnung
-    aus, sind die §§ 8 bis 11, 14 bis 17, 18 Absatz 1 Nummer 6 bis 13,
+    aus, sind die §§ 8 bis 11, 14 bis 17, 18 Absatz 1 Nummer 7 bis 12,
     jeweils auch in Verbindung mit § 18 Absatz 2 und 3,
 
 
 2.  nach § 34c Absatz 1 Satz 1 Nummer 4 der Gewerbeordnung aus, sind die
-    §§ 9, 11, 15 bis 15b, 18 Absatz 1 Nummer 6, 8, 11, 11a, jeweils auch
-    in Verbindung mit § 18 Absatz 2 und 3
+    §§ 11, 15 bis 15b, 18 Absatz 1 Nummer 7, 9, 10, jeweils auch in
+    Verbindung mit § 18 Absatz 2 und 3
 
 
 
@@ -1002,13 +987,13 @@ entsprechend.
 (2) In den Fällen
 
 1.  des § 34c Absatz 1 Satz 1 Nummer 1 oder Nummer 3 der Gewerbeordnung
-    sind die §§ 2, 4 bis 8, 10 bis 18 Absatz 1 Nummer 1, 2, 4, 5 und 7 bis
-    13, jeweils auch in Verbindung mit § 18 Absatz 2 und 3,
+    sind die §§ 2, 4 bis 8, 10 bis 18 Absatz 1 Nummer 1, 2, 4, 5 und 6 bis
+    12, jeweils auch in Verbindung mit § 18 Absatz 2 und 3,
 
 
-2.  des § 34c Absatz 1 Satz 1 Nummer 4 der Gewerbeordnung sind die §§ 9,
-    11, 15 bis 15b, 18 Absatz 1 Nummer 6, 8, 11, 11a, jeweils auch in
-    Verbindung mit § 18 Absatz 2 und 3
+2.  des § 34c Absatz 1 Satz 1 Nummer 4 der Gewerbeordnung sind die §§ 11,
+    15 bis 15b, 18 Absatz 1 Nummer 7, 9, 10, jeweils auch in Verbindung
+    mit § 18 Absatz 2 und 3
 
 
 
@@ -1039,7 +1024,8 @@ Vorschriften abwickeln.
 
 ## Anlage 1 (zu § 15b Absatz 1)
 
-(Fundstelle: BGBl. I 2018, 552 — 554)
+(Fundstelle: BGBl. I 2018, 552 — 554
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 ## **A. Inhaltliche Anforderungen an die Weiterbildung für
 Immobilienmakler**
@@ -1126,7 +1112,7 @@ Immobilienmakler**
 3.8.1 Dienstleistungs-Informationspflichten-Verordnung
 
 
-3.8.2 Telemediengesetz
+3.8.2 Digitale-Dienste-Gesetz
 
 
 3.8.3 Preisangabenverordnung
@@ -1282,7 +1268,7 @@ Wohnimmobilienverwalter**
 2.12.1 Dienstleistungs-Informationspflichten-Verordnung
 
 
-2.12.2 Telemediengesetz
+2.12.2 Digitale-Dienste-Gesetz
 
 
 2.12.3 Preisangabenverordnung

@@ -119,7 +119,7 @@ Buches Sozialgesetzbuch für das Jahr 2015 beträgt 49 500 Euro.
 Die Anlage 10 zum Sechsten Buch Sozialgesetzbuch wird wie folgt
 ergänzt:
 
-*    *   Jahr
+*    *   „Jahr
 
     *   Umrechnungswert
 
@@ -136,8 +136,7 @@ ergänzt:
 *    *   2015
 
     *
-    *   1,1717
-        .
+    *   1,1717“
 
 
 

@@ -18,7 +18,7 @@ Fundstelle
 :   BGBl I: 2004, 718, 776
 
 Zuletzt geändert durch
-:   Art. 17 G v. 25.6.2021 I 2154
+:   Art. 13 G v. 8.12.2025 I Nr. 318
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
@@ -30,7 +30,8 @@ Zuletzt geändert durch
 (1) Dieses Gesetz regelt
 
 1.  die Vergütung der Sachverständigen, Dolmetscherinnen, Dolmetscher,
-    Übersetzerinnen und Übersetzer, die von dem Gericht, der
+    Übersetzerinnen, Übersetzer und der Protokollpersonen nach § 613
+    Absatz 2 der Zivilprozessordnung, die von dem Gericht, der
     Staatsanwaltschaft, der Finanzbehörde in den Fällen, in denen diese
     das Ermittlungsverfahren selbstständig durchführt, der
     Verwaltungsbehörde im Verfahren nach dem Gesetz über
@@ -65,8 +66,8 @@ wenn sie ein Gutachten in Erfüllung ihrer Dienstaufgaben erstatten,
 vertreten oder erläutern.
 
 (3) Einer Heranziehung durch die Staatsanwaltschaft oder durch die
-Finanzbehörde in den Fällen des Absatzes 1 Satz 1 Nr. 1 steht eine
-Heranziehung durch die Polizei oder eine andere
+Finanzbehörde in den Fällen des Absatzes 1 Satz 1 Nummer 1 und 3 steht
+eine Heranziehung durch die Polizei oder eine andere
 Strafverfolgungsbehörde im Auftrag oder mit vorheriger Billigung der
 Staatsanwaltschaft oder der Finanzbehörde gleich. Satz 1 gilt im
 Verfahren der Verwaltungsbehörde nach dem Gesetz über
@@ -157,6 +158,13 @@ Entschädigung verjährt in drei Jahren nach Ablauf des Kalenderjahrs,
 in dem die Zahlung erfolgt ist. § 5 Abs. 3 des Gerichtskostengesetzes
 gilt entsprechend.
 
+(5) Im Fall des § 1 Absatz 3 ist der Anspruch bei der heranziehenden
+Polizei oder der anderen heranziehenden Strafverfolgungsbehörde
+geltend zu machen. Erfolgt die Heranziehung des Berechtigten durch
+eine zentrale Kontaktstelle (Absatz 2 der Allgemeinen Vorbemerkung der
+Anlage 3), ist der Anspruch auf Entschädigung bei dieser geltend zu
+machen.
+
 
 ### § 3 Vorschuss
 
@@ -217,7 +225,7 @@ gilt § 62 des Gesetzes über Ordnungswidrigkeiten.
 
 (3) Gegen den Beschluss nach Absatz 1 können der Berechtige und die
 Staatskasse Beschwerde einlegen, wenn der Wert des
-Beschwerdegegenstands 200 Euro übersteigt oder wenn sie das Gericht,
+Beschwerdegegenstands 300 Euro übersteigt oder wenn sie das Gericht,
 das die angefochtene Entscheidung erlassen hat, wegen der
 grundsätzlichen Bedeutung der zur Entscheidung stehenden Frage in dem
 Beschluss zulässt.
@@ -283,7 +291,7 @@ Verletzung des rechtlichen Gehörs zu erheben; der Zeitpunkt der
 Kenntniserlangung ist glaubhaft zu machen. Nach Ablauf eines Jahres
 seit Bekanntmachung der angegriffenen Entscheidung kann die Rüge nicht
 mehr erhoben werden. Formlos mitgeteilte Entscheidungen gelten mit dem
-dritten Tage nach Aufgabe zur Post als bekannt gemacht. Die Rüge ist
+vierten Tag nach Aufgabe zur Post als bekannt gemacht. Die Rüge ist
 bei dem Gericht zu erheben, dessen Entscheidung angegriffen wird; § 4
 Abs. 6 Satz 1 und 2 gilt entsprechend. Die Rüge muss die angegriffene
 Entscheidung bezeichnen und das Vorliegen der in Absatz 1 Nr. 2
@@ -482,7 +490,7 @@ berechtigen, es sei denn, er hat die Unterlassung nicht zu vertreten.
 (2) Der Berechtigte erhält eine Vergütung nur insoweit, als seine
 Leistung bestimmungsgemäß verwertbar ist, wenn er
 
-1.  gegen die Verpflichtung aus § 407a Absatz 1 bis 4 Satz 1 der
+1.  gegen die Verpflichtung aus § 407a Absatz 1, 3 und 4 Satz 1 der
     Zivilprozessordnung verstoßen hat, es sei denn, er hat den Verstoß
     nicht zu vertreten;
 
@@ -549,7 +557,7 @@ nach billigem Ermessen zu bestimmen.
 (3) Für die Festsetzung des Stundensatzes nach Absatz 2 gilt § 4
 entsprechend mit der Maßgabe, dass die Beschwerde gegen die
 Festsetzung auch dann zulässig ist, wenn der Wert des
-Beschwerdegegenstands 200 Euro nicht übersteigt. Die Beschwerde ist
+Beschwerdegegenstands 300 Euro nicht übersteigt. Die Beschwerde ist
 nur zulässig, solange der Anspruch auf Vergütung noch nicht geltend
 gemacht worden ist.
 
@@ -558,9 +566,9 @@ die Eröffnung eines Insolvenzverfahrens vorliegt und welche Aussichten
 für eine Fortführung des Unternehmens des Schuldners bestehen, beträgt
 120 Euro je Stunde. Ist der Sachverständige zugleich der vorläufige
 Insolvenzverwalter oder der vorläufige Sachwalter, so beträgt sein
-Honorar 95 Euro je Stunde.
+Honorar 110 Euro je Stunde.
 
-(5) Das Honorar des Dolmetschers beträgt für jede Stunde 85 Euro. Der
+(5) Das Honorar des Dolmetschers beträgt für jede Stunde 93 Euro. Der
 Dolmetscher erhält im Fall der Aufhebung eines Termins, zu dem er
 geladen war, eine Ausfallentschädigung, wenn
 
@@ -586,6 +594,9 @@ das Honorar um 20 Prozent, wenn die heranziehende Stelle feststellt,
 dass es notwendig ist, die Leistung zu dieser Zeit zu erbringen. § 8
 Absatz 2 Satz 2 gilt sinngemäß.
 
+(7) Die nach § 613 Absatz 2 der Zivilprozessordnung hinzugezogene
+Protokollperson erhält eine Vergütung wie ein Dolmetscher.
+
 
 ### § 10 Honorar für besondere Leistungen
 
@@ -607,22 +618,22 @@ Gebührenordnung für Ärzte gelten entsprechend; im Übrigen bleiben die
 
 (3) Soweit für die Erbringung einer Leistung nach Absatz 1 oder Absatz
 2 zusätzliche Zeit erforderlich ist, beträgt das Honorar für jede
-Stunde der zusätzlichen Zeit 80 Euro.
+Stunde der zusätzlichen Zeit 87 Euro.
 
 
 ### § 11 Honorar für Übersetzer
 
-(1) Das Honorar für eine Übersetzung beträgt 1,80 Euro für jeweils
+(1) Das Honorar für eine Übersetzung beträgt 1,95 Euro für jeweils
 angefangene 55 Anschläge des schriftlichen Textes, wenn der Text dem
 Übersetzer in editierbarer elektronischer Form zur Verfügung gestellt
-wird (Grundhonorar). Andernfalls beträgt das Honorar 1,95 Euro für
+wird (Grundhonorar). Andernfalls beträgt das Honorar 2,15 Euro für
 jeweils angefangene 55 Anschläge (erhöhtes Honorar). Ist die
 Übersetzung wegen der besonderen Umstände des Einzelfalls besonders
 erschwert, insbesondere wegen der häufigen Verwendung von
 Fachausdrücken, der schweren Lesbarkeit des Textes, einer besonderen
 Eilbedürftigkeit oder weil es sich um eine in der Bundesrepublik
 Deutschland selten vorkommende Fremdsprache handelt, so beträgt das
-Grundhonorar 1,95 Euro und das erhöhte Honorar 2,10 Euro.
+Grundhonorar 2,15 Euro und das erhöhte Honorar 2,30 Euro.
 
 (2) Maßgebend für die Anzahl der Anschläge ist der Text in der
 Zielsprache. Werden jedoch nur in der Ausgangssprache lateinische
@@ -756,10 +767,10 @@ und 4 sind nicht anzuwenden. Die Anhörung der übrigen Beteiligten des
 Musterverfahrens kann dadurch ersetzt werden, dass die Vergütungshöhe,
 für die die Zustimmung des Gerichts erteilt werden soll, öffentlich
 bekannt gemacht wird. Die öffentliche Bekanntmachung wird durch
-Eintragung in das Klageregister nach § 4 des Kapitalanleger-
-Musterverfahrensgesetzes bewirkt. Zwischen der öffentlichen
-Bekanntmachung und der Entscheidung über die Zustimmung müssen
-mindestens vier Wochen liegen.
+Eintragung in das Musterverfahrensregister nach § 5 des
+Kapitalanleger-Musterverfahrensgesetzes bewirkt. Zwischen der
+öffentlichen Bekanntmachung und der Entscheidung über die Zustimmung
+müssen mindestens vier Wochen liegen.
 
 (6) Schuldet nach den kostenrechtlichen Vorschriften keine Partei oder
 kein Beteiligter die Vergütung, haften die Parteien oder Beteiligten,
@@ -970,8 +981,9 @@ Entschädigungen bestimmt sind, bemisst sich die Entschädigung
 ausschließlich nach dieser Anlage.
 
 (2) Dritte, die aufgrund einer gerichtlichen Anordnung nach § 142 Abs.
-1 Satz 1 oder § 144 Abs. 1 der Zivilprozessordnung Urkunden, sonstige
-Unterlagen oder andere Gegenstände vorlegen oder deren
+1 Satz 1 oder § 144 Abs. 1 der Zivilprozessordnung oder nach § 17
+Absatz 1 oder 2 des Kapitalanleger-Musterverfahrensgesetzes Urkunden,
+sonstige Unterlagen oder andere Gegenstände vorlegen oder deren
 Inaugenscheinnahme dulden, sowie Dritte, die aufgrund eines
 Beweiszwecken dienenden Ersuchens der Strafverfolgungs- oder
 Verfolgungsbehörde
@@ -1043,26 +1055,20 @@ gilt auch, wenn Vorschriften geändert werden, auf die dieses Gesetz
 verweist.
 
 
-### § 25 Übergangsvorschrift aus Anlass des Inkrafttretens dieses Gesetzes
+### § 25 Übergangsvorschrift zum Gesetz zur Änderung des Zuständigkeitsstreitwerts der Amtsgerichte, zum Ausbau der Spezialisierung der Justiz in Zivilsachen sowie zur Änderung weiterer prozessualer Regelungen
 
-Das Gesetz über die Entschädigung der ehrenamtlichen Richter in der
-Fassung der Bekanntmachung vom 1. Oktober 1969 (BGBl. I S. 1753),
-zuletzt geändert durch Artikel 1 Abs. 4 des Gesetzes vom 22. Februar
-2002 (BGBl. I S. 981), und das Gesetz über die Entschädigung von
-Zeugen und Sachverständigen in der Fassung der Bekanntmachung vom 1.
-Oktober 1969 (BGBl. I S. 1756), zuletzt geändert durch Artikel 1 Abs.
-5 des Gesetzes vom 22. Februar 2002 (BGBl. I S. 981), sowie
-Verweisungen auf diese Gesetze sind weiter anzuwenden, wenn der
-Auftrag an den Sachverständigen, Dolmetscher oder Übersetzer vor dem
-1\. Juli 2004 erteilt oder der Berechtigte vor diesem Zeitpunkt
-herangezogen worden ist. Satz 1 gilt für Heranziehungen vor dem 1.
-Juli 2004 auch dann, wenn der Berechtigte in derselben Rechtssache
-auch nach dem 1. Juli 2004 herangezogen worden ist.
+Die §§ 4 und 9 sind in ihrer bis einschließlich 31. Dezember 2025
+geltenden Fassung weiter anzuwenden, wenn der Auftrag an den
+Sachverständigen, Dolmetscher oder Übersetzer vor dem 1. Januar 2026
+erteilt oder der Berechtigte vor diesem Zeitpunkt herangezogen worden
+ist. Dies gilt auch dann, wenn der Berechtigte in derselben
+Rechtssache auch nach dem 1. Januar 2026 herangezogen worden ist.
 
 
 ### Anlage 1 (zu § 9 Absatz 1 Satz 1)
 
-(Fundstelle: BGBl. I 2020, 3241 - 3244)
+(Fundstelle: BGBl. I 2020, 3241 - 3244; bzgl. der einzelnen Änderungen
+vgl. Fußnote)
 
 ## Teil 1
 
@@ -1079,21 +1085,21 @@ auch nach dem 1. Juli 2004 herangezogen worden ist.
 
     *   Abfallstoffe einschließlich Altfahrzeuge und -geräte
 
-    *   115
+    *   125
 
 
 *    *   2
 
     *   Akustik, Lärmschutz
 
-    *   95
+    *   104
 
 
 *    *   3
 
     *   Altlasten und Bodenschutz
 
-    *   85
+    *   93
 
 
 *    *   4
@@ -1107,49 +1113,49 @@ auch nach dem 1. Juli 2004 herangezogen worden ist.
 
     *   Planung
 
-    *   105
+    *   114
 
 
 *    *   4.2
 
     *   handwerklich-technische Ausführung
 
-    *   95
+    *   104
 
 
 *    *   4.3
 
     *   Schadensfeststellung und -ursachenermittlung
 
-    *   105
+    *   114
 
 
 *    *   4.4
 
     *   Bauprodukte
 
-    *   105
+    *   114
 
 
 *    *   4.5
 
     *   Bauvertragswesen, Baubetrieb und Abrechnung von Bauleistungen
 
-    *   105
+    *   114
 
 
 *    *   4.6
 
     *   Geotechnik, Erd- und Grundbau
 
-    *   100
+    *   109
 
 
 *    *   5
 
     *   Berufskunde, Tätigkeitsanalyse und Expositionsermittlung
 
-    *   105
+    *   114
 
 
 *    *   6
@@ -1163,56 +1169,56 @@ auch nach dem 1. Juli 2004 herangezogen worden ist.
     *   Unternehmensbewertung, Betriebsunterbrechungs- und
         -verlagerungsschäden
 
-    *   135
+    *   147
 
 
 *    *   6.2
 
     *   Besteuerung
 
-    *   110
+    *   120
 
 
 *    *   6.3
 
     *   Rechnungswesen
 
-    *   105
+    *   114
 
 
 *    *   6.4
 
     *   Honorarabrechnungen von Steuerberatern
 
-    *   105
+    *   114
 
 
 *    *   7
 
     *   Bewertung von Immobilien und Rechten an Immobilien
 
-    *   115
+    *   125
 
 
 *    *   8
 
     *   Brandursachenermittlung
 
-    *   110
+    *   120
 
 
 *    *   9
 
     *   Briefmarken, Medaillen und Münzen
 
-    *   95
+    *   104
 
 
 *    *   10
 
     *   Einbauküchen
 
-    *   90
+    *   98
 
 
 *    *   11
@@ -1225,98 +1231,98 @@ auch nach dem 1. Juli 2004 herangezogen worden ist.
 
     *   Elektronik (insbesondere Mess-, Steuerungs- und Regelungselektronik)
 
-    *   120
+    *   131
 
 
 *    *   11.2
 
     *   Elektrotechnische Anlagen und Geräte
 
-    *   115
+    *   125
 
 
 *    *   11.3
 
     *   Kommunikations- und Informationstechnik
 
-    *   115
+    *   125
 
 
 *    *   11.4
 
     *   Informatik
 
-    *   125
+    *   136
 
 
 *    *   11.5
 
     *   Datenermittlung und -aufbereitung
 
-    *   125
+    *   136
 
 
 *    *   12
 
     *   Emissionen und Immissionen
 
-    *   95
+    *   104
 
 
 *    *   13
 
     *   Fahrzeugbau
 
-    *   100
+    *   109
 
 
 *    *   14
 
     *   Garten- und Landschaftsbau einschließlich Sportanlagenbau
 
-    *   90
+    *   98
 
 
 *    *   15
 
     *   Gesundheitshandwerke
 
-    *   85
+    *   93
 
 
 *    *   16
 
     *   Grafisches Gewerbe
 
-    *   115
+    *   125
 
 
 *    *   17
 
     *   Handschriften- und Dokumentenuntersuchung
 
-    *   105
+    *   114
 
 
 *    *   18
 
     *   Hausrat
 
-    *   110
+    *   120
 
 
 *    *   19
 
     *   Honorarabrechnungen von Architekten, Ingenieuren und Stadtplanern
 
-    *   145
+    *   158
 
 
 *    *   20
 
     *   Kältetechnik
 
-    *   120
+    *   131
 
 
 *    *   21
@@ -1329,28 +1335,28 @@ auch nach dem 1. Juli 2004 herangezogen worden ist.
 
     *   Kraftfahrzeugschäden und -bewertung
 
-    *   120
+    *   131
 
 
 *    *   21.2
 
     *   Kfz-Elektronik
 
-    *   95
+    *   104
 
 
 *    *   22
 
     *   Kunst und Antiquitäten
 
-    *   85
+    *   93
 
 
 *    *   23
 
     *   Lebensmittelchemie und -technologie
 
-    *   135
+    *   147
 
 
 *    *   24
@@ -1363,105 +1369,105 @@ auch nach dem 1. Juli 2004 herangezogen worden ist.
 
     *   Photovoltaikanlagen
 
-    *   110
+    *   120
 
 
 *    *   24.2
 
     *   Windkraftanlagen
 
-    *   120
+    *   131
 
 
 *    *   24.3
 
     *   Solarthermieanlagen
 
-    *   110
+    *   120
 
 
 *    *   24.4
 
     *   Maschinen und Anlagen im Übrigen
 
-    *   130
+    *   142
 
 
 *    *   25
 
     *   Medizintechnik und Medizinprodukte
 
-    *   105
+    *   114
 
 
 *    *   26
 
     *   Mieten und Pachten
 
-    *   115
+    *   125
 
 
 *    *   27
 
     *   Möbel und Inneneinrichtung
 
-    *   90
+    *   98
 
 
 *    *   28
 
     *   Musikinstrumente
 
-    *   80
+    *   87
 
 
 *    *   29
 
     *   Schiffe und Wassersportfahrzeuge
 
-    *   95
+    *   104
 
 
 *    *   30
 
     *   Schmuck, Juwelen, Perlen, Gold- und Silberwaren
 
-    *   85
+    *   93
 
 
 *    *   31
 
     *   Schweiß- und Fügetechnik
 
-    *   95
+    *   104
 
 
 *    *   32
 
     *   Spedition, Transport, Lagerwirtschaft und Ladungssicherung
 
-    *   90
+    *   98
 
 
 *    *   33
 
     *   Sprengtechnik
 
-    *   90
+    *   98
 
 
 *    *   34
 
     *   Textilien, Leder und Pelze
 
-    *   70
+    *   76
 
 
 *    *   35
 
     *   Tiere – Bewertung, Haltung, Tierschutz und Zucht
 
-    *   85
+    *   93
 
 
 *    *   36
@@ -1472,37 +1478,30 @@ auch nach dem 1. Juli 2004 herangezogen worden ist.
 
 *    *   36.1
 
-    *   bei Luftfahrzeugen
+    *   im Freizeit- und Sportbereich
 
-    *   100
+    *   104
 
 
 *    *   36.2
 
-    *   bei sonstigen Fahrzeugen
+    *   bei Fahrzeugen, außer Luftfahrzeugen
 
-    *   155
+    *   169
 
 
 *    *   36.3
 
     *   bei Arbeitsunfällen
 
-    *   125
-
-
-*    *   36.4
-
-    *   im Freizeit- und Sportbereich
-
-    *   95
+    *   136
 
 
 *    *   37
 
     *   Verkehrsregelungs- und Verkehrsüberwachungstechnik
 
-    *   135
+    *   147
 
 
 *    *   38
@@ -1515,21 +1514,21 @@ auch nach dem 1. Juli 2004 herangezogen worden ist.
 
     *   Vermessungstechnik
 
-    *   80
+    *   87
 
 
 *    *   38.2
 
     *   Vermessungs- und Katasterwesen im Übrigen
 
-    *   100
+    *   109
 
 
 *    *   39
 
     *   Waffen und Munition
 
-    *   85
+    *   93
 
 
 
@@ -1550,7 +1549,7 @@ auch nach dem 1. Juli 2004 herangezogen worden ist.
     *   Einfache gutachtliche Beurteilungen ohne Kausalitätsfeststellungen,
         insbesondere
 
-    *   80
+    *   87
 
 
 *    *
@@ -1583,7 +1582,7 @@ auch nach dem 1. Juli 2004 herangezogen worden ist.
         medizinischer Verlaufsprognose und mit durchschnittlichem
         Schwierigkeitsgrad, insbesondere Gutachten
 
-    *   90
+    *   98
 
 
 *    *
@@ -1665,7 +1664,7 @@ auch nach dem 1. Juli 2004 herangezogen worden ist.
         und/oder Beurteilung der Prognose und/oder Beurteilung strittiger
         Kausalitätsfragen), insbesondere Gutachten
 
-    *   120
+    *   131
 
 
 *    *
@@ -1820,14 +1819,7 @@ auch nach dem 1. Juli 2004 herangezogen worden ist.
     *   zu rechtsmedizinischen, toxikologischen oder spurenkundlichen
         Fragestellungen im Zusammenhang mit einer abschließenden
         Todesursachenklärung, mit ärztlichen Behandlungsfehlern oder mit einer
-        Beurteilung der Schuldfähigkeit,
-
-    *
-
-*    *
-    *   22.
-
-    *   in Verfahren nach dem Transsexuellengesetz.
+        Beurteilung der Schuldfähigkeit.
 
     *
 
@@ -2342,87 +2334,81 @@ auch nach dem 1. Juli 2004 herangezogen worden ist.
 
 
 
-### Anlage 3 (zu § 23 Abs. 1)
+### Anlage 3 (zu § 23 Absatz 1)
 
-(Fundstelle: BGBl. I 2009, 995 - 997;
-bzgl. der einzelnen Änderungen vgl. Fußnote)
+(Fundstelle: BGBl. 2025 I Nr. 109, S. 22 – 24)
 
 
 *    *   Nr.
 
-    *
     *   Tätigkeit
 
     *   Höhe
 
 
 *    *   Allgemeine Vorbemerkung:
-        (1) Die Entschädigung nach dieser Anlage schließt alle mit der
+        (1) Die Entschädigung nach dieser Anlage schließt alle mit der
         Erledigung des Ersuchens der Strafverfolgungsbehörde verbundenen
         Tätigkeiten des Telekommunikationsunternehmens sowie etwa anfallende
         sonstige Aufwendungen (§ 7 JVEG) ein.
-        (2) Für Leistungen, die die Strafverfolgungsbehörden über eine
+        (2) Für Leistungen, die die Strafverfolgungsbehörden über eine
         zentrale Kontaktstelle des Generalbundesanwalts, des
         Bundeskriminalamtes, der Bundespolizei oder des Zollkriminalamtes oder
-        über entsprechende für ein Bundesland oder für mehrere Bundesländer
-        zuständige Kontaktstellen anfordern und abrechnen, ermäßigen sich die
-        Entschädigungsbeträge nach den Nummern 100, 101, 300 bis 321 und 400
-        bis 402 um 20 Prozent, wenn bei der Anforderung darauf hingewiesen
-        worden ist, dass es sich bei der anfordernden Stelle um eine zentrale
-        Kontaktstelle handelt.
+        über entsprechende für ein Land oder für mehrere Länder zuständige
+        Kontaktstellen anfordern und abrechnen, ermäßigen sich die
+        Entschädigungsbeträge nach den Nummern 100, 101, 200 bis 202, 300 bis
+        308 und 400 bis 402 um 20 Prozent.
+        (3) Eine Entschädigung nach dieser Anlage wird auch dann gewährt, wenn
+        das verpflichtete Telekommunikationsunternehmen zugleich Verletzter
+        der verfahrensgegenständlichen Straftat ist.
 
 
-*    *   **Abschnitt 1**
-        **Überwachung der Telekommunikation**
+*    *   Abschnitt 1
+        Überwachung der Telekommunikation ****
 
 
 *    *   Vorbemerkung 1:
-        (1) Die Vorschriften dieses Abschnitts gelten für die Heranziehung im
+        (1) Die Vorschriften dieses Abschnitts gelten für die Heranziehung im
         Zusammenhang mit Funktionsprüfungen der Aufzeichnungs- und
         Auswertungseinrichtungen der berechtigten Stellen entsprechend.
-        (2) Leitungskosten werden nur entschädigt, wenn die betreffende
+        (2) Leitungskosten werden nur entschädigt, wenn die betreffende
         Leitung innerhalb des Überwachungszeitraums mindestens einmal zur
         Übermittlung überwachter Telekommunikation an die
-        Strafverfolgungsbehörde genutzt worden ist.
-        (3) Für die Überwachung eines Voice-over-IP-Anschlusses oder eines
-        Zugangs zu einem elektronischen Postfach richtet sich die
-        Entschädigung für die Leitungskosten nach den Nummern 102 bis 104.
-        Dies gilt auch für die Überwachung eines Mobilfunkanschlusses, es sei
-        denn, dass auch die Überwachung des über diesen Anschluss
-        abgewickelten Datenverkehrs angeordnet worden ist und für die
-        Übermittlung von Daten Leitungen mit Übertragungsgeschwindigkeiten von
-        mehr als 144 kbit/s genutzt werden müssen und auch genutzt worden
-        sind. In diesem Fall richtet sich die Entschädigung einheitlich nach
-        den Nummern 111 bis 113.
+        Strafverfolgungsbehörde genutzt worden ist. Die Entschädigung erfolgt
+        für den gesamten Überwachungszeitraum.
+        (3) Für die Überwachung eines Zugangs zu einem elektronischen Postfach
+        oder eines Anschlusses ohne Internetzugang richtet sich die
+        Entschädigung für die Leitungskosten nach den Nummern 102 bis 104. Für
+        die Überwachung eines Internetzugangsanschlusses richtet sich die
+        Entschädigung nach den Nummern 105 bis 107. Unter die Nummern 105 bis
+        107 fallen sowohl festnetzbezogene Internetzugangsanschlüsse als auch
+        die zur Erbringung des Internetzugangsdienstes genutzten
+        Mobilfunkanschlüsse sowie hierfür genutzte drahtlose Anschlüsse in
+        lokalen Netzwerken.
+        (4) Auslandskopfüberwachungen werden gesondert entschädigt.
 
 
 *    *   100
 
     *   Umsetzung einer Anordnung zur Überwachung der Telekommunikation,
         unabhängig von der Zahl der dem Anschluss zugeordneten Kennungen:
-        je Anschluss..........
-
-    *   100,00 €
-
-
-*    *
-    *   Mit der Entschädigung ist auch der Aufwand für die Abschaltung der
+        je Anschluss
+        Mit der Entschädigung ist auch der Aufwand für die Abschaltung der
         Maßnahme entgolten.
 
-    *
+    *   95,00 €
+
 
 *    *   101
 
     *   Verlängerung einer Maßnahme zur Überwachung der Telekommunikation oder
         Umschaltung einer solchen Maßnahme auf Veranlassung der
         Strafverfolgungsbehörde auf einen anderen Anschluss dieser Stelle
-        ..........
 
-    *   35,00 €
+    *   45,00 €
 
 
-*    *
-    *   Leitungskosten für die Übermittlung der zu überwachenden
+*    *   Leitungskosten für die Übermittlung der zu überwachenden
         Telekommunikation:
         für jeden überwachten Anschluss,
 
@@ -2430,148 +2416,86 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   102
 
-    *   –
+    *   – wenn die Überwachungsmaßnahme nicht länger als eine Woche dauert
 
-    *   wenn die Überwachungsmaßnahme nicht länger als eine Woche dauert
-        ..........
-
-    *   24,00 €
+    *   25,00 €
 
 
 *    *   103
 
-    *   –
+    *   – wenn die Überwachungsmaßnahme länger als eine Woche, jedoch nicht
+        länger als zwei Wochen dauert
 
-    *   wenn die Überwachungsmaßnahme länger als eine Woche, jedoch nicht
-        länger als zwei Wochen dauert ..........
-
-    *   42,00 €
+    *   43,00 €
 
 
 *    *   104
 
-    *   –
+    *   – wenn die Überwachungsmaßnahme länger als zwei Wochen dauert:
+        je angefangenem Monat
 
-    *   wenn die Überwachungsmaßnahme länger als zwei Wochen dauert:
-        je angefangenen Monat ..........
-
-    *   75,00 €
+    *   77,00 €
 
 
 *    *
-    *   Der überwachte Anschluss ist ein ISDN-Basisanschluss:
+    *   Der überwachte Anschluss dient der Erbringung eines
+        Internetzugangsdienstes:
 
     *
 
 *    *   105
 
-    *   –
+    *   – Die Entschädigung nach Nummer 102 beträgt
 
-    *   Die Entschädigung nach Nummer 102 beträgt ..........
-
-    *   40,00 €
+    *   78,00 €
 
 
 *    *   106
 
-    *   –
+    *   – Die Entschädigung nach Nummer 103 beträgt
 
-    *   Die Entschädigung nach Nummer 103 beträgt ..........
-
-    *   70,00 €
+    *   133,00 €
 
 
 *    *   107
 
-    *   –
+    *   – Die Entschädigung nach Nummer 104 beträgt
 
-    *   Die Entschädigung nach Nummer 104 beträgt ..........
-
-    *   125,00 €
+    *   241,00 €
 
 
-*    *
-    *   Der überwachte Anschluss ist ein ISDN-Primärmultiplexanschluss:
-
-    *
-
-*    *   108
-
-    *   –
-
-    *   Die Entschädigung nach Nummer 102 beträgt ..........
-
-    *   490,00 €
+*    *   Abschnitt 2
+        Auskünfte über Bestandsdaten und Daten für Ersuchen der
+        Sicherheitsbehörden ****
 
 
-*    *   109
-
-    *   –
-
-    *   Die Entschädigung nach Nummer 103 beträgt ..........
-
-    *   855,00 €
-
-
-*    *   110
-
-    *   –
-
-    *   Die Entschädigung nach Nummer 104 beträgt ..........
-
-    *   1 525,00 €
-
-
-*    *
-    *   Der überwachte Anschluss ist ein digitaler Teilnehmeranschluss mit
-        einer Übertragungsgeschwindigkeit von mehr als 144 kbit/s, aber kein
-        ISDN-Primärmultiplexanschluss:
-
-    *
-
-*    *   111
-
-    *   –
-
-    *   Die Entschädigung nach Nummer 102 beträgt ..........
-
-    *   65,00 €
-
-
-*    *   112
-
-    *   –
-
-    *   Die Entschädigung nach Nummer 103 beträgt ..........
-
-    *   110,00 €
-
-
-*    *   113
-
-    *   –
-
-    *   Die Entschädigung nach Nummer 104 beträgt ..........
-
-    *   200,00 €
-
-
-*    *   **Abschnitt 2**
-        **Auskünfte über Bestandsdaten**
+*    *   Vorbemerkung 2:
+        Beinhalten die beauskunfteten Daten mehrere Rufnummern, Kennungen oder
+        sonstige Bestandsdaten, die demselben Vertrag des Betroffenen mit dem
+        angefragten Telekommunikationsunternehmen zugeordnet sind, handelt es
+        sich nur um einen einzigen Kundendatensatz.
 
 
 *    *   200
 
     *   Auskunft über Bestandsdaten nach § 3 Nr. 6 TKG, sofern
-        1\. die Auskunft nicht über das automatisierte Auskunftsverfahren nach
+
+    *
+
+*    *
+    *   1. die Auskunft nicht über das automatisierte Auskunftsverfahren nach
         § 173 TKG erteilt werden kann und die Unmöglichkeit der
         Auskunftserteilung auf diesem Wege nicht vom Unternehmen zu vertreten
         ist und
-        2\. für die Erteilung der Auskunft nicht auf Verkehrsdaten
-        zurückgegriffen werden muss:
-        je angefragten Kundendatensatz ..........
 
-    *   18,00 €
+    *
+
+*    *
+    *   2. für die Erteilung der Auskunft nicht auf Verkehrsdaten
+        zurückgegriffen werden muss:
+        je angefragtem Kundendatensatz
+
+    *   25,00 €
 
 
 *    *   201
@@ -2579,9 +2503,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Auskunft über Bestandsdaten, zu deren Erteilung auf Verkehrsdaten
         zurückgegriffen werden muss:
         für bis zu 10 in demselben Verfahren gleichzeitig angefragte
-        Kennungen, die der Auskunftserteilung zugrunde liegen ..........
+        Kennungen, die der Auskunftserteilung zugrunde liegen
 
-    *   35,00 €
+    *   45,00 €
 
 
 *    *
@@ -2593,23 +2517,26 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   202
 
-    *   Es muss auf Verkehrsdaten nach § 176 Abs. 2 bis 4 TKG zurückgegriffen
-        werden:
-        Die Pauschale 201 beträgt ..........
+    *   Auskunft über Daten für Ersuchen der Sicherheitsbehörden nach § 172
+        TKG, sofern die Auskunft nicht über das automatisierte
+        Auskunftsverfahren nach § 173 TKG erteilt werden kann und die
+        Unmöglichkeit der Auskunftserteilung auf diesem Wege nicht vom
+        Unternehmen zu vertreten ist:
+        je angefragtem Kundendatensatz
 
-    *   40,00 €
+    *   15,00 €
 
 
-*    *   **Abschnitt 3**
-        **Auskünfte über Verkehrsdaten**
+*    *   Abschnitt 3
+        Auskünfte über Verkehrsdaten ****
 
 
 *    *   300
 
     *   Auskunft über gespeicherte Verkehrsdaten:
-        für jede Kennung, die der Auskunftserteilung zugrunde liegt ..........
+        für jede Kennung, die der Auskunftserteilung zugrunde liegt
 
-    *   30,00 €
+    *   25,00 €
 
 
 *    *
@@ -2620,233 +2547,63 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   301
 
-    *   Für die Auskunft muss auf Verkehrsdaten nach § 176 Abs. 2 bis 4 TKG
-        zurückgegriffen werden:
-        Die Pauschale 300 beträgt ..........
-
-    *   35,00 €
-
-
-*    *   302
-
     *   Die Auskunft wird im Fall der Nummer 300 aufgrund eines einheitlichen
         Ersuchens auch oder ausschließlich für künftig anfallende
         Verkehrsdaten zu bestimmten Zeitpunkten erteilt:
         für die zweite und jede weitere in dem Ersuchen verlangte Teilauskunft
-        ..........
 
     *   10,00 €
 
 
-*    *   303
-
-    *   Auskunft über gespeicherte Verkehrsdaten zu Verbindungen, die zu einer
-        bestimmten Zieladresse hergestellt wurden, durch Suche in allen
-        Datensätzen der abgehenden Verbindungen eines Betreibers
-        (Zielwahlsuche):
-        je Zieladresse ..........
-
-    *   90,00 €
-
-
-*    *
-    *   Die Mitteilung der Standortdaten der Zieladresse ist mit abgegolten.
-
-    *
-
-*    *   304
-
-    *   Für die Auskunft muss auf Verkehrsdaten nach § 176 Abs. 2 bis 4 TKG
-        zurückgegriffen werden:
-        Die Pauschale 303 beträgt ..........
-
-    *   110,00 €
-
-
-*    *   305
-
-    *   Die Auskunft wird im Fall der Nummer 303 aufgrund eines einheitlichen
-        Ersuchens auch oder ausschließlich für künftig anfallende
-        Verkehrsdaten zu bestimmten Zeitpunkten erteilt:
-        für die zweite und jede weitere in dem Ersuchen verlangte Teilauskunft
-        ..........
-
-    *   70,00 €
-
-
-*    *   306
+*    *   302
 
     *   Auskunft über gespeicherte Verkehrsdaten für eine von der
         Strafverfolgungsbehörde benannte Funkzelle (Funkzellenabfrage)
-        ..........
 
-    *   30,00 €
-
-
-*    *   307
-
-    *   Für die Auskunft muss auf Verkehrsdaten nach § 176 Abs. 2 bis 4 TKG
-        zurückgegriffen werden:
-        Die Pauschale 306 beträgt ..........
-
-    *   35,00 €
+    *   40,00 €
 
 
-*    *   308
+*    *   303
 
     *   Auskunft über gespeicherte Verkehrsdaten für mehr als eine von der
         Strafverfolgungsbehörde benannte Funkzelle:
-        Die Pauschale 306 erhöht sich für jede weitere Funkzelle um ..........
-
-    *   4,00 €
-
-
-*    *   309
-
-    *   Auskunft über gespeicherte Verkehrsdaten für mehr als eine von der
-        Strafverfolgungsbehörde benannte Funkzelle und für die Auskunft muss
-        auf Verkehrsdaten nach § 176 Abs. 2 bis 4 TKG zurückgegriffen werden:
-        Die Pauschale 306 erhöht sich für jede weitere Funkzelle um ..........
+        Die Pauschale 302 erhöht sich für jede weitere Funkzelle um
 
     *   5,00 €
 
 
-*    *   310
+*    *   304
 
     *   Auskunft über gespeicherte Verkehrsdaten in Fällen, in denen lediglich
         Ort und Zeitraum bekannt sind:
-        Die Abfrage erfolgt für einen bestimmten, durch eine Adresse
-        bezeichneten Standort ..........
+        Die Abfrage erfolgt für einen durch eine Adresse bezeichneten Standort
 
-    *   60,00 €
-
-
-*    *   311
-
-    *   Für die Auskunft muss auf Verkehrsdaten nach § 176 Abs. 2 bis 4 TKG
-        zurückgegriffen werden:
-        Die Pauschale 310 beträgt ..........
-
-    *   70,00 €
+    *   75,00 €
 
 
-*    *
+*    *   305
+
     *   Die Auskunft erfolgt für eine Fläche:
-
-    *
-
-*    *   312
-
-    *   –
-
-    *   Die Entfernung der am weitesten voneinander entfernten Punkte beträgt
-        nicht mehr als 10 Kilometer:
-        Die Pauschale 310 beträgt ..........
+        Die Pauschale 304 beträgt
 
     *   190,00 €
 
 
-*    *   313
-
-    *   –
-
-    *   Die Entfernung der am weitesten voneinander entfernten Punkte beträgt
-        mehr als 10, aber nicht mehr als 25 Kilometer:
-        Die Pauschale 310 beträgt ..........
-
-    *   490,00 €
-
-
-*    *   314
-
-    *   –
-
-    *   Die Entfernung der am weitesten voneinander entfernten Punkte beträgt
-        mehr als 25, aber nicht mehr als 45 Kilometer:
-        Die Pauschale 310 beträgt ..........
-
-    *   930,00 €
-
-
-*    *
-    *   Liegen die am weitesten voneinander entfernten Punkte mehr als 45
-        Kilometer auseinander, ist für den darüber hinausgehenden Abstand die
-        Entschädigung nach den Nummern 312 bis 314 gesondert zu berechnen.
-
-    *
-
-*    *
-    *   Die Auskunft erfolgt für eine Fläche und es muss auf Verkehrsdaten
-        nach § 176 Abs. 2 bis 4 TKG zurückgegriffen werden:
-
-    *
-
-*    *   315
-
-    *   –
-
-    *   Die Entfernung der am weitesten voneinander entfernten Punkte beträgt
-        nicht mehr als 10 Kilometer:
-        Die Pauschale 310 beträgt ..........
-
-    *   230,00 €
-
-
-*    *   316
-
-    *   –
-
-    *   Die Entfernung der am weitesten voneinander entfernten Punkte beträgt
-        mehr als 10, aber nicht mehr als 25 Kilometer:
-        Die Pauschale 310 beträgt ..........
-
-    *   590,00 €
-
-
-*    *   317
-
-    *   –
-
-    *   Die Entfernung der am weitesten voneinander entfernten Punkte beträgt
-        mehr als 25, aber nicht mehr als 45 Kilometer:
-        Die Pauschale 310 beträgt ..........
-
-    *   1 120,00 €
-
-
-*    *
-    *   Liegen die am weitesten voneinander entfernten Punkte mehr als 45
-        Kilometer auseinander, ist für den darüber hinausgehenden Abstand die
-        Entschädigung nach den Nummern 315 bis 317 gesondert zu berechnen.
-
-    *
-
-*    *   318
+*    *   306
 
     *   Die Auskunft erfolgt für eine bestimmte Wegstrecke:
-        Die Pauschale 310 beträgt für jeweils angefangene 10 Kilometer Länge
-        ..........
+        Die Pauschale 304 beträgt für jeweils angefangene 10 Kilometer Länge
 
-    *   110,00 €
-
-
-*    *   319
-
-    *   Die Auskunft erfolgt für eine bestimmte Wegstrecke und es muss auf
-        Verkehrsdaten nach § 176 Abs. 2 bis 4 TKG zurückgegriffen werden:
-        Die Pauschale 310 beträgt für jeweils angefangene 10 Kilometer Länge
-        ..........
-
-    *   130,00 €
+    *   65,00 €
 
 
-*    *   320
+*    *   307
 
     *   Umsetzung einer Anordnung zur Übermittlung künftig anfallender
         Verkehrsdaten in Echtzeit:
-        je Anschluss ..........
+        je Anschluss
 
-    *   100,00 €
+    *   95,00 €
 
 
 *    *
@@ -2856,83 +2613,71 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   321
+*    *   308
 
-    *   Verlängerung der Maßnahme im Fall der Nummer 320 ..........
+    *   Verlängerung der Maßnahme im Fall der Nummer 307
 
-    *   35,00 €
+    *   45,00 €
 
 
 *    *
     *   Leitungskosten für die Übermittlung der Verkehrsdaten in den Fällen
-        der Nummern 320 und 321:
+        der Nummern 307 und 308:
 
     *
 
-*    *   322
+*    *   309
 
-    *   –
+    *   – wenn die angeordnete Übermittlung nicht länger als eine Woche dauert
 
-    *   wenn die angeordnete Übermittlung nicht länger als eine Woche dauert
-        ..........
-
-    *   8,00 €
+    *   9,00 €
 
 
-*    *   323
+*    *   310
 
-    *   –
+    *   – wenn die angeordnete Übermittlung länger als eine Woche, aber nicht
+        länger als zwei Wochen dauert
 
-    *   wenn die angeordnete Übermittlung länger als eine Woche, aber nicht
-        länger als zwei Wochen dauert ..........
-
-    *   14,00 €
+    *   18,00 €
 
 
-*    *   324
+*    *   311
 
-    *   –
+    *   – wenn die angeordnete Übermittlung länger als zwei Wochen dauert:
+        je angefangenem Monat
 
-    *   wenn die angeordnete Übermittlung länger als zwei Wochen dauert:
-        je angefangenen Monat ..........
-
-    *   25,00 €
+    *   36,00 €
 
 
-*    *   325
-
-    *   Übermittlung der Verkehrsdaten auf einem Datenträger ..........
-
-    *   10,00 €
-
-
-*    *   **Abschnitt 4**
-        **Sonstige Auskünfte**
+*    *   Abschnitt 4
+        Sonstige Auskünfte ****
 
 
 *    *   400
 
-    *   Auskunft über den letzten dem Netz bekannten Standort eines
-        Mobiltelefons (Standortabfrage) ..........
+    *   Auskunft über den letzten dem Netz bekannten Standort eines mobilen
+        Endgeräts oder über die postalische Adresse eines festnetzbasierten
+        Anschlusses, auch anhand der IP-Adresse (Standortabfrage)
 
-    *   90,00 €
+    *   85,00 €
 
 
 *    *   401
 
-    *   Im Fall der Nummer 400 muss auf Verkehrsdaten nach § 176 Abs. 2 bis 4
-        TKG zurückgegriffen werden:
-        Die Pauschale 400 beträgt ..........
+    *   Auskunft über die Struktur von Funkzellen:
+        je Funkzelle
 
-    *   110,00 €
+    *   185,00 €
 
 
 *    *   402
 
-    *   Auskunft über die Struktur von Funkzellen:
-        je Funkzelle ..........
+    *   Auskunft über Daten, mittels derer der Zugriff auf Endgeräte oder
+        Speichereinrichtungen geschützt wird, die in diesen Endgeräten oder
+        hiervon räumlich getrennt eingesetzt werden (§ 174 Abs. 1 Satz 2 TKG):
+        je Datum
 
-    *   35,00 €
+    *   15,00 €
 
 
 

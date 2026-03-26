@@ -16,13 +16,7 @@ Fundstelle
 :   BGBl I: 2015, 434
 
 Zuletzt geändert durch
-:   Art. 31 G v. 11.12.2023 I Nr. 354
-
-Änderung durch
-:   Art. 14 G v. 22.12.2023 I Nr. 411 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 3 G v. 11.4.2024 I Nr. 119 ist berücksichtigt
+:   Art. 56 G v. 4.2.2026 I Nr. 33
 
 Dieses Gesetz dient der Umsetzung der Richtlinie 2009/138/EG des
 Europäischen Parlaments und des Rates vom 25. November 2009 betreffend
@@ -80,9 +74,9 @@ Erreichen einer Mindestverzinsung abgeben.
 öffentlichen Dienstes oder der Kirchen, die ausschließlich die
 Alters-, Invaliditäts- oder Hinterbliebenenversorgung zum Gegenstand
 haben, gelten nur § 12 Absatz 1, die §§ 13, 37 Absatz 1, § 38 Absatz
-1, die §§ 39, 47 Nummer 12 sowie die §§ 294 bis 298, 300, 302, 305 bis
-307, §§ 310 bis 312 und 314. Für die nach Landesrecht errichteten und
-der Landesaufsicht unterliegenden Versicherungsunternehmen kann das
+1, § 39 sowie die §§ 294 bis 298, 300, 302, 305 bis 307, §§ 310 bis
+312 und 314. Für die nach Landesrecht errichteten und der
+Landesaufsicht unterliegenden Versicherungsunternehmen kann das
 Landesrecht Abweichendes bestimmen.
 
 (4) Für Einrichtungen der in § 140 Absatz 1 des Siebten Buches
@@ -887,7 +881,7 @@ Rückstellungen nach dem Handelsgesetzbuch abzugeben.
     Unternehmen hinweisen;
 
 
-4.  für Pflichtversicherungen die allgemeinen Versicherungsbedingungen;
+4.  (weggefallen)
 
 
 5.  für die Krankenversicherung im Sinne des § 146 Absatz 1
@@ -2381,7 +2375,7 @@ Anzeigepflichten und Anforderungen erfüllt hat:
     Nr. 600/2014 des Europäischen Parlaments und des Rates vom 15. Mai
     2014 über Märkte für Finanzinstrumente und zur Änderung der Verordnung
     (EU) Nr. 648/2012 (ABl. L 173 vom 12.6.2014, S. 84; L 6 vom 10.1.2015,
-    S. 6; L 270 vom 15.10.2015, S. 4) und
+    S. 6; L 270 vom 15.10.2015, S. 4),
 
 
 8.  die Anforderungen nach den Artikeln 5 bis 9, 18 bis 26, 26b bis 26e,
@@ -2404,7 +2398,17 @@ Anzeigepflichten und Anforderungen erfüllt hat:
     (EU) 2020/852 des Europäischen Parlamentes und des Rates vom 18. Juni
     2020 über die Einrichtung eines Rahmens zur Erleichterung nachhaltiger
     Investitionen und zur Änderung der Verordnung (EU) 2019/2088 (ABl. L
-    198 vom 22.6.2020, S. 13).
+    198 vom 22.6.2020, S. 13) und
+
+
+10. die Vorgaben nach den Artikeln 5 bis 14, 16 bis 19, 23 bis 25, 28 bis
+    30 und 45 Absatz 3 der Verordnung (EU) 2022/2554 des Europäischen
+    Parlaments und des Rates vom 14. Dezember 2022 über die digitale
+    operationale Resilienz im Finanzsektor und zur Änderung der
+    Verordnungen (EG) Nr. 1060/2009, (EU) Nr. 648/2012, (EU) Nr. 600/2014,
+    (EU) Nr. 909/2014 und (EU) 2016/1011 (ABl. L 333 vom 27.12.2022, S.
+    1), auch in Verbindung mit einer Delegierten Verordnung nach Artikel
+    15, 16, 20, 28 oder Artikel 30 der Verordnung (EU) 2022/2554.
 
 
 
@@ -3107,7 +3111,7 @@ Folgendes anzuzeigen:
 
 
 9.  nach Vertragsschluss eingetretene wesentliche Umstände in Bezug auf
-    wichtige ausgegliederte Funktionen und Versicherungstätigkeiten,
+    wichtige ausgegliederte Funktionen und Versicherungstätigkeiten und
 
 
 10. die mittelbare oder unmittelbare Absicherung von Schadenrisiken oder
@@ -3117,24 +3121,7 @@ Folgendes anzuzeigen:
     dabei sind der Emissionsprospekt, die dem Risikotransfer zugrunde
     liegenden vertraglichen Regelungen sowie eine Aufstellung der
     identifizierten Risiken der Transaktion für das
-    Versicherungsunternehmen beizufügen,
-
-
-11. wenn es sich um ein Erstversicherungsunternehmen handelt, den Erwerb
-    von Beteiligungen, bei Beteiligungen in Aktien oder sonstigen Anteilen
-    jedoch nur, wenn die Beteiligung 10 Prozent des Nennkapitals der
-    fremden Gesellschaft übersteigt; dabei werden Beteiligungen mehrerer
-    zu einem Konzern im Sinne des § 18 des Aktiengesetzes gehörender
-    Versicherungsunternehmen und des herrschenden Unternehmens an einer
-    Gesellschaft zusammengerechnet,
-
-
-12. wenn es sich um ein Erstversicherungsunternehmen handelt, Anlagen bei
-    einem im Sinne des § 15 des Aktiengesetzes verbundenen Unternehmen und
-
-
-13. bei Pflichtversicherungen die beabsichtigte Verwendung neuer oder
-    geänderter allgemeiner Versicherungsbedingungen unter deren Beifügung.
+    Versicherungsunternehmen beizufügen.
 
 
 
@@ -3181,7 +3168,8 @@ gewerbsmäßig tätigen Versicherungsvermittlern, die
 
 
 dürfen die Versicherungsunternehmen nur zusammenarbeiten, wenn diese
-Versicherungsvermittler die in Satz 1 genannten Voraussetzungen
+Versicherungsvermittler die in Satz 1 genannten Voraussetzungen sowie
+die für sie geltenden Anforderungen der Verordnung (EU) 2022/2554
 erfüllen. Die Angemessenheit der Qualifikation richtet sich nach den
 Anforderungen im Zusammenhang mit den von ihnen vertriebenen
 Produkten. Die Sätze 1 bis 3 gelten nicht für Personen im Sinne von §
@@ -3933,11 +3921,10 @@ des Herkunftsstaats der Bundesanstalt die in Artikel 148 Absatz 1 und
 2 der Richtlinie 2009/138/EG bezeichneten Angaben übermittelt und das
 Unternehmen hiervon in Kenntnis gesetzt hat.
 
-(4) Der Betrieb der Krankenversicherung im Sinne des § 146 Absatz 1
-sowie von Pflichtversicherungen in den in den Absätzen 2 und 3
-bezeichneten Fällen ist erst zulässig, wenn das Unternehmen der
-Bundesanstalt die allgemeinen Versicherungsbedingungen eingereicht
-hat.
+(4) Der Betrieb der Krankenversicherung im Sinne des § 146 Absatz 1 in
+den in den Absätzen 2 und 3 bezeichneten Fällen ist erst zulässig,
+wenn das Unternehmen der Bundesanstalt die allgemeinen
+Versicherungsbedingungen eingereicht hat.
 
 (5) Die Bundesanstalt unterrichtet die Aufsichtsbehörden der anderen
 Mitglied- oder Vertragsstaaten fortlaufend über solche
@@ -6222,7 +6209,7 @@ den Bilanzwerten folgender Beträge entsprechen:
 
 
 6.  der als Prämie eingenommenen Beträge, die ein Versicherungsunternehmen
-    zu erstatten hat, wenn ein Versicherungsvertrag oder ein in § 2 Absatz
+    zu erstatten hat, wenn ein Versicherungsvertrag oder ein in § 1 Absatz
     2 genanntes Geschäft nicht zustande gekommen ist oder aufgehoben
     wurde.
 
@@ -6414,9 +6401,9 @@ soll ein Gegenstand im Vermögensverzeichnis gelöscht werden, so genügt
 es, dass der Treuhänder neben oder unter den Löschungsvermerk seinen
 Namen schreibt.
 
-(4) Der Treuhänder kann jederzeit die Bücher und Schriften des
-Versicherungsunternehmens einsehen, soweit sie sich auf das
-Sicherungsvermögen beziehen.
+(4) Der Treuhänder kann jederzeit die elektronischen und schriftlichen
+Unterlagen des Versicherungsunternehmens einsehen, soweit sie sich auf
+das Sicherungsvermögen beziehen.
 
 
 ##### § 130 Entnahme aus dem Sicherungsvermögen
@@ -7658,7 +7645,8 @@ Für die Berechnung der Deckungsrückstellung von Renten in der
 Allgemeinen Haftpflichtversicherung, der Kraftfahrzeug-
 Haftpflichtversicherung, der Kraftfahrt-Unfallversicherung sowie der
 Allgemeinen Unfallversicherung ohne Rückgewähr der Prämie sind § 141
-Absatz 1 bis 3, 5 und 6 sowie § 145 Absatz 4 entsprechend anzuwenden.
+Absatz 1 bis 3, 5 und 6 Nummer 1 sowie § 145 Absatz 4 entsprechend
+anzuwenden.
 
 
 ##### § 163 Schadenregulierungsbeauftragte in der Kraftfahrzeug-Haftpflichtversicherung
@@ -8360,10 +8348,16 @@ Vertretung zu bestimmen.
 
 #### § 193 Verlustrücklage
 
-Die Satzung hat zu bestimmen, dass zur Deckung eines außergewöhnlichen
-Verlusts aus dem Geschäftsbetrieb eine Rücklage (Verlustrücklage,
-Reservefonds) zu bilden ist, welche Beträge jährlich zurückzulegen
-sind und welchen Mindestbetrag die Rücklage erreichen muss.
+(1) Die Satzung hat zu bestimmen, dass zur Deckung eines
+außergewöhnlichen Verlusts aus dem Geschäftsbetrieb eine Rücklage
+(Verlustrücklage, Reservefonds) zu bilden ist, welche Beträge jährlich
+zurückzulegen sind und welchen Mindestbetrag die Rücklage erreichen
+muss.
+
+(2) Die Satzung kann vorsehen, dass die oberste Vertretung eine
+Entnahme aus der Verlustrücklage beschließen kann, die zugunsten der
+Mitglieder oder der Versicherten verwendet wird. Der Beschluss bedarf
+der Genehmigung der Aufsichtsbehörde.
 
 
 #### § 194 Überschussverwendung
@@ -9145,7 +9139,7 @@ Eigenmitteln nur zuzurechnen, wenn
     werden muss,
 
 
-3.  es nur mit Zustimmung der Aufsicht zurückgezahlt werden kann,
+3.  es nur mit Zustimmung der Aufsichtsbehörde zurückgezahlt werden kann,
 
 
 4.  der Emissionsvertrag dem Versicherungsunternehmen jederzeit erlaubt,
@@ -9504,7 +9498,7 @@ Rechnung. Er ermittelt unverzüglich den für die vollständige Bedeckung
 der Verpflichtungen aus den Versicherungsverträgen erforderlichen
 Betrag und stellt geeignete qualifizierte Vermögensgegenstände bereit.
 § 15 Absatz 1, § 23 Absatz 1 und 2 bis 6, § 26 Absatz 2, 5 und 6, § 28
-Absatz 2 sowie die §§ 30, 32, 47 Nummer 8 bis 11, § 88 Absatz 3, die
+Absatz 2 sowie die §§ 30, 32, 47 Nummer 8 bis 10, § 88 Absatz 3, die
 §§ 124, 138, 139, 141, 142, 143 zweiter Halbsatz, die §§ 146 bis 160
 und 336 sowie die auf Grundlage des § 39 Absatz 1 Satz 1 Nummer 1 bis
 4, 6 und 7 erlassenen Rechtsverordnungen gelten insoweit entsprechend.
@@ -9652,7 +9646,7 @@ entsprechend Anwendung:
     dieser Personen bezieht, und
 
 
-10. § 47 Nummer 5 bis 7 und 12.
+10. § 47 Nummer 5 bis 7.
 
 
 
@@ -9885,9 +9879,12 @@ ist und das
 
 
 2.  Leistungen grundsätzlich erst ab dem Zeitpunkt des Wegfalls des
-    Erwerbseinkommens vorsieht; soweit das Erwerbseinkommen teilweise
-    wegfällt, können die allgemeinen Versicherungsbedingungen anteilige
-    Leistungen vorsehen,
+    Erwerbseinkommens oder der Inanspruchnahme einer Vollrente nach § 42
+    Absatz 1 des Sechsten Buches Sozialgesetzbuch gewährt, wobei die
+    allgemeinen Versicherungsbedingungen vorsehen können, dass Leistungen
+    bereits dann erbracht werden, wenn das Erwerbseinkommen teilweise
+    weggefallen ist oder eine Teilrente nach § 42 Absatz 1 des Sechsten
+    Buches Sozialgesetzbuch bezogen wird,
 
 
 3.  Leistungen im Todesfall nur an Hinterbliebene erbringen darf, wobei
@@ -9995,8 +9992,8 @@ Bescheid genannten Zeitpunkt in Kraft getreten sind, ist § 234 Absatz
 
 (1) Für Pensionskassen gilt § 341k des Handelsgesetzbuchs; § 36 Absatz
 2 findet keine Anwendung. § 1 Absatz 2 Satz 4, § 35 Absatz 2, § 37
-Absatz 2, die §§ 40 bis 42 und 48 Absatz 2a, die §§ 52 bis 56, 141
-Absatz 5 Satz 2 und § 144 gelten nicht.
+Absatz 2, die §§ 40 bis 42 und 48 Absatz 2 Satz 1 und Absatz 2a, die
+§§ 52 bis 56, 141 Absatz 5 Satz 2 und § 144 gelten nicht.
 
 (2) Die allgemeinen Versicherungsbedingungen gehören zum Geschäftsplan
 als Bestandteil nach § 9 Absatz 2 Nummer 2. Das
@@ -10496,6 +10493,75 @@ Einzelfall auf Antrag vorübergehend gestattet.
 aufgegliedert in Neuanlagen und Bestände, zu berichten. Die Pflichten
 nach § 126 Absatz 2 bleiben unberührt.
 
+(4) Entgegen § 127 Absatz 1 Satz 1 ist eine vorübergehende
+Unterdeckung des Sicherungsvermögens zulässig, wenn
+
+1.  die Satzung eine Bestimmung enthält, die eine Unterdeckung gestattet,
+
+
+2.  die Unterdeckung 10 Prozent des Mindestumfangs des Sicherungsvermögens
+    nach § 125 Absatz 2 nicht übersteigt und
+
+
+3.  die Pensionskasse mit einem oder mehreren Arbeitgebern oder Dritten
+    einen Sicherungsvermögensplan nach Absatz 5 vereinbart hat und der
+    Sicherungsvermögensplan von der Aufsichtsbehörde genehmigt ist.
+
+
+
+Eine Bestimmung nach Satz 1 Nummer 1 kann nur dann in die Satzung
+aufgenommen werden, wenn diese eine Vorschrift enthält, nach der
+Versicherungsansprüche gekürzt werden dürfen. Die Bestimmung kann
+bestandswirksam in die Satzung aufgenommen werden.
+
+(5) Ein Plan zur Wiederherstellung der Bedeckung des Mindestumfangs
+des Sicherungsvermögens und zur Sicherstellung der Solvabilität
+(Sicherungsvermögensplan) muss darlegen, wie nach Eintritt einer
+Unterdeckung
+
+1.  die Bedeckung des Mindestumfangs des Sicherungsvermögens innerhalb
+    eines angemessenen Zeitraums, der zehn Jahre nicht überschreiten darf,
+    erreicht werden soll und
+
+
+2.  sichergestellt wird, dass die Solvabilitäts- und die
+    Mindestkapitalanforderung stets eingehalten werden.
+
+
+
+Außerdem muss der Sicherungsvermögensplan eine rechtsverbindliche
+Zusage der beteiligten Arbeitgeber und Dritten enthalten, dass sie die
+zur Durchführung des Sicherungsvermögensplans erforderlichen
+finanziellen Mittel zur Verfügung stellen. Bei der Erstellung des
+Sicherungsvermögensplans ist die besondere Situation der Pensionskasse
+zu berücksichtigen, insbesondere die Struktur ihrer Aktiva und
+Passiva, ihr Risikoprofil, ihr Liquiditätsplan, das Altersprofil der
+Versicherten sowie gegebenenfalls die Tatsache, dass es sich um ein
+neu geschaffenes System handelt. Der Sicherungsvermögensplan bedarf
+der Genehmigung durch die Aufsichtsbehörde.
+
+(6) Die Pensionskasse hat einen bestehenden Sicherungsvermögensplan
+mindestens jährlich zu überprüfen. Stellt sie fest, dass seine
+Durchführung gefährdet sein könnte, unterrichtet sie unverzüglich die
+Aufsichtsbehörde. Nach Eintritt einer Unterdeckung teilt die
+Pensionskasse der Aufsichtsbehörde mit, wie hoch die Unterdeckung ist
+sowie an welchen Stichtagen und in welcher Höhe Zahlungen der
+beteiligten Arbeitgeber und Dritten erfolgen, und berichtet regelmäßig
+über den Stand der Wiederherstellung der Bedeckung.
+
+(7) Führt die Pensionskasse Versorgungszusagen durch, die vom
+Versicherungsschutz des § 7 des Betriebsrentengesetzes erfasst sind,
+hat sie dem Träger der Insolvenzsicherung einen vereinbarten
+Sicherungsvermögensplan bei Eintritt einer Unterdeckung unverzüglich
+zur Kenntnis zu geben.
+
+(8) Die Aufsichtsbehörde kann insbesondere dann eine Änderung des
+Sicherungsvermögensplans verlangen oder dessen Genehmigung widerrufen,
+wenn die Erfüllbarkeit der Verpflichtungen der Pensionskasse nicht
+mehr als auf Dauer gewährleistet angesehen werden kann oder nicht
+länger die Annahme gerechtfertigt ist, dass die Solvabilitäts- und die
+Mindestkapitalanforderung stets eingehalten werden.
+
 
 #### Abschnitt 4 - Informationspflichten gegenüber Versorgungsanwärtern und Versorgungsempfängern
 
@@ -10844,35 +10910,39 @@ Versorgungseinrichtung, die
 
 
 4.  verpflichtet ist, die Altersversorgungsleistung als lebenslange
-    Zahlung oder als Einmalkapitalzahlung zu erbringen.
+    Zahlung, als Einmalkapitalzahlung oder als Kapitalzahlung in Raten zu
+    erbringen.
 
 
 
 Eine lebenslange Zahlung im Sinne des Satzes 1 Nummer 4 kann mit einem
-teilweisen oder vollständigen Kapitalwahlrecht verbunden werden.
-Pensionsfonds dürfen auch Sterbegeldzahlungen an Hinterbliebene
-erbringen, wobei das Sterbegeld begrenzt ist auf die Höhe der
-gewöhnlichen Bestattungskosten.
+teilweisen oder vollständigen Kapitalwahlrecht verbunden werden; die
+Auszahlung des Kapitals kann als Einmalkapitalzahlung oder als
+Kapitalzahlung in Raten vorgesehen werden. Pensionsfonds dürfen auch
+Sterbegeldzahlungen an Dritte erbringen, wobei das Sterbegeld begrenzt
+ist auf die Höhe der gewöhnlichen Bestattungskosten.
 
 (2) Pensionsfonds können Altersversorgungsleistungen abweichend von
 Absatz 1 Satz 1 Nummer 4 erbringen, solange Beitragszahlungen durch
-den Arbeitgeber auch in der Rentenbezugszeit vorgesehen sind. Ein
-fester Termin für das Zahlungsende darf nicht vorgesehen werden. Satz
-1 gilt nicht für Zusagen im Sinne des § 1 Absatz 2 Nummer 2 des
+den Arbeitgeber auch in der Rentenbezugszeit oder während einer
+Kapitalzahlung in Raten vorgesehen sind. Ein fester Termin für das
+Ende der Beitragszahlungen darf nicht vorgesehen werden. Satz 1 gilt
+nicht für Zusagen im Sinne des § 1 Absatz 2 Nummer 2 des
 Betriebsrentengesetzes.
 
 (3) Bei Zusagen im Sinne des § 1 Absatz 2 Nummer 2 des
-Betriebsrentengesetzes können Pensionsfonds lebenslange Zahlungen als
-Altersversorgungsleistungen abweichend von Absatz 1 Satz 1 Nummer 4
-erbringen, wenn
+Betriebsrentengesetzes können Pensionsfonds lebenslange Zahlungen und
+Raten von Kapitalzahlungen als Altersversorgungsleistungen abweichend
+von Absatz 1 Satz 1 Nummer 4 erbringen, wenn
 
 1.  die zuständigen Tarifvertragsparteien zustimmen,
 
 
-2.  der Pensionsplan eine lebenslange Zahlung sowie eine Mindesthöhe
-    dieser lebenslangen Zahlung (Mindesthöhe) zur Auszahlung des nach § 1
-    Absatz 2 Nummer 2 des Betriebsrentengesetzes zur Verfügung zu
-    stellenden Versorgungskapitals vorsieht,
+2.  der Pensionsplan eine lebenslange Zahlung oder eine Kapitalzahlung in
+    Raten sowie eine Mindesthöhe der lebenslangen Zahlung oder der Raten
+    der Kapitalzahlung zur Auszahlung des nach § 1 Absatz 2 Nummer 2 des
+    Betriebsrentengesetzes zur Verfügung zu stellenden Versorgungskapitals
+    vorsieht,
 
 
 3.  eine planmäßige Verwendung dieses Versorgungskapitals sowie der darauf
@@ -10904,7 +10974,9 @@ erlassen zu
 
 
 2.  Vorschriften für die Ermittlung und Anpassung der lebenslangen Zahlung
-    sowie für die Ermittlung der Mindesthöhe,
+    oder der Raten einer Kapitalzahlung sowie für die Ermittlung der
+    Mindesthöhe der lebenslangen Zahlung oder der Raten der
+    Kapitalzahlung,
 
 
 3.  Form und Inhalt der Zusage des Arbeitgebers, selbst für die Erbringung
@@ -10942,9 +11014,9 @@ Bedingungen zur planmäßigen Leistungserbringung im Versorgungsfall.
 
 (2) Nicht anwendbar sind § 8 Absatz 2, § 10 Absatz 4, § 13 Absatz 2, §
 125 Absatz 5 und 6, § 139 Absatz 3 und 4, die §§ 210, 232 und 233, 234
-Absatz 3 Satz 1, 2 und 4 sowie Absatz 5 und 6, die §§ 234i und 234j
-Absatz 1, die §§ 235 und 312 Absatz 4 Satz 1, 3 und 4 sowie Absatz 5
-Satz 2 und § 313.
+Absatz 3 Satz 1, 2 und 4 sowie Absatz 5 bis 7, die §§ 234i und 234j
+Absatz 1 und 4 bis 8, die §§ 235 und 312 Absatz 4 Satz 1, 3 und 4
+sowie Absatz 5 Satz 2 und § 313.
 
 (3) Die Erlaubnis zum Geschäftsbetrieb darf nur Aktiengesellschaften
 einschließlich der Europäischen Gesellschaft und Pensionsfondsvereinen
@@ -11114,8 +11186,7 @@ unterliegen, durch Rechtsverordnung Vorschriften zu erlassen über
     Nummer 1 bis 7 sowie weitere durch diese Verordnung zugelassene
     Anlageformen sowie die Festlegungen im Pensionsplan hinsichtlich des
     Anlagerisikos und des Trägers dieses Risikos zu berücksichtigen sind,
-    sowie über Beschränkungen von Anlagen beim Trägerunternehmen; Artikel
-    18 der Richtlinie 2003/41/EG ist zu beachten;
+    sowie über Beschränkungen von Anlagen beim Trägerunternehmen;
 
 
 9.  die Berechnung und die Höhe der Solvabilitätskapitalanforderung, den
@@ -11196,9 +11267,9 @@ Geschäftstätigkeit angemessen sind. Sie kann verlangen, dass für das
 zu betreibende Altersversorgungssystem ein gesondertes
 Sicherungsvermögen einzurichten ist. Auf die grenzüberschreitende
 Geschäftstätigkeit einer Pensionskasse ist § 232 Absatz 1 Nummer 2 und
-3 nicht anzuwenden. Im Fall eines Pensionsfonds sind § 236 Absatz 1
-Satz 1 Nummer 2 bis 4 und Satz 2 sowie Absatz 2 und § 239 Absatz 3 und
-4 nicht anzuwenden.
+3 sowie § 234j Absatz 4 bis 8 nicht anzuwenden. Im Fall eines
+Pensionsfonds sind § 236 Absatz 1 Satz 1 Nummer 2 bis 4 und Satz 2
+sowie Absatz 2 und § 239 Absatz 3 und 4 nicht anzuwenden.
 
 (2) Sobald die Anzeige nach Absatz 1 Satz 1 und 2 vollständig
 vorliegt, entscheidet die Aufsichtsbehörde innerhalb von drei Monaten,
@@ -11821,10 +11892,11 @@ Versicherungsunternehmens oder einer anderen Versicherungs-
 Holdinggesellschaft oder gemischten Finanzholding-Gesellschaft mit
 Sitz in einem Mitglied- oder Vertragsstaat, so sind die §§ 250 bis 287
 sowie 293 Absatz 1, § 298 Absatz 1 und 2, § 305 Absatz 1 Nummer 1 und
-§ 306 Absatz 1 Nummer 1 nur auf Ebene der obersten Muttergesellschaft
-anzuwenden, die ein Versicherungsunternehmen oder eine Versicherungs-
-Holdinggesellschaft oder eine gemischte Finanzholding-Gesellschaft mit
-Sitz in einem Mitglied- oder Vertragsstaat ist.
+§ 306 Absatz 1 Satz 1 Nummer 1 nur auf Ebene der obersten
+Muttergesellschaft anzuwenden, die ein Versicherungsunternehmen oder
+eine Versicherungs-Holdinggesellschaft oder eine gemischte
+Finanzholding-Gesellschaft mit Sitz in einem Mitglied- oder
+Vertragsstaat ist.
 
 (2) Ist die in Absatz 1 genannte oberste Muttergesellschaft, die ein
 Versicherungsunternehmen oder eine Versicherungs-Holdinggesellschaft
@@ -11858,7 +11930,7 @@ Vertragsstaaten. Die Gruppenaufsichtsbehörde unterrichtet das
 Aufsichtskollegium (§ 283) gemäß Artikel 248 Absatz 1 Buchstabe a der
 Richtlinie 2009/138/EG. Vorbehaltlich der Absätze 2 bis 6 sind die §§
 250 bis 287 sowie § 293 Absatz 1, § 298 Absatz 1 und 2, § 305 Absatz 1
-Nummer 1 und § 306 Absatz 1 Nummer 1 entsprechend anzuwenden.
+Nummer 1 und § 306 Absatz 1 Satz 1 Nummer 1 entsprechend anzuwenden.
 
 (2) Die Aufsichtsbehörde kann eine Beschränkung der Gruppenaufsicht
 auf einzelne Vorschriften der §§ 250 bis 275 bei dem obersten
@@ -11935,7 +12007,7 @@ Mutterunternehmens im Sinne des § 248 keine Gruppenaufsicht statt.
 
 (1) Die Solvabilität der Gruppe wird nach Maßgabe der Absätze 2 und 3,
 der §§ 275 bis 287 sowie 293 Absatz 1, § 298 Absatz 1 und 2, § 305
-Absatz 1 Nummer 1 und § 306 Absatz 1 Nummer 1 überwacht.
+Absatz 1 Nummer 1 und § 306 Absatz 1 Satz 1 Nummer 1 überwacht.
 Vermögenswerte und Verbindlichkeiten werden nach § 74 bewertet.
 
 (2) In dem in § 245 Absatz 2 Nummer 1 genannten Fall haben die
@@ -13503,7 +13575,7 @@ Beaufsichtigung festgestellt worden, erkennt die Aufsichtsbehörde die
 im Drittstaat durchgeführte Gruppenaufsicht als verbindlich an.
 
 (2) Die §§ 279 bis 287, 293 Absatz 1, § 298 Absatz 1, § 305 Absatz 1
-Nummer 1, § 306 Absatz 1 Nummer 1 und § 309 gelten bei der
+Nummer 1, § 306 Absatz 1 Satz 1 Nummer 1 und § 309 gelten bei der
 Zusammenarbeit mit den Aufsichtsbehörden des Drittstaats entsprechend.
 
 
@@ -13598,9 +13670,14 @@ anzuwenden.
 Finanzholding-Gesellschaften gelten neben dem Absatz 3 die §§ 4, 16
 bis 26, 29, 30, 32, 47 Nummer 1, 2 und 5 bis 7, die §§ 303, 305, 306,
 310 und 333 sowie die Vorschriften einer Rechtsverordnung nach § 310a
-entsprechend; § 299 bleibt unberührt. Für Unternehmen, die auch das
-Erst- oder Rückversicherungsgeschäft betreiben, gelten neben Absatz 2
-nur die Vorschriften über die Beaufsichtigung von Erst- oder
+entsprechend; § 299 bleibt unberührt. Die §§ 17 und 18 sind nicht
+anzuwenden, sofern zugleich die Absicht des Erwerbs, der Erhöhung, der
+Aufgabe oder der Verringerung einer bedeutenden Beteiligung an einem
+Versicherungsunternehmen besteht oder unabsichtlich eine bedeutende
+Beteiligung an einem Versicherungsunternehmen erworben, erhöht,
+aufgegeben oder verringert wurde. Für Unternehmen, die auch das Erst-
+oder Rückversicherungsgeschäft betreiben, gelten neben Absatz 2 nur
+die Vorschriften über die Beaufsichtigung von Erst- oder
 Rückversicherungsunternehmen.
 
 (2) In den Fällen des § 287 kann die Aufsichtsbehörde die
@@ -13617,6 +13694,16 @@ Erwerb und das Halten unmittelbarer oder mittelbarer Beteiligungen an
 Erst- oder Rückversicherungsunternehmen oder Pensionsfonds ist und die
 nicht bereits der Aufsicht nach diesem Gesetz unterliegen, gelten die
 Absätze 1 bis 3 entsprechend.
+
+(5) Für Versicherungs-Holdinggesellschaften nach § 7 Nummer 31 und für
+Unternehmen nach Absatz 4 gelten die Vorgaben der Verordnung (EU)
+2022/2554, die Vorgaben der auf Grundlage der Verordnung (EU)
+2022/2554 erlassenen Rechtsakte sowie die Bestimmungen dieses
+Gesetzes, die auf Vorgaben der Verordnung (EU) 2022/2554 verweisen.
+Anstelle der Artikel 5 bis 15 der Verordnung (EU) 2022/2554 gilt der
+vereinfachte Informations- und Kommunikationstechnologien-
+Risikomanagementrahmen (IKT-Risikomanagementrahmen) nach Artikel 16
+der Verordnung (EU) 2022/2554.
 
 
 ## Teil 6 - Aufsicht: Aufgaben und allgemeine Befugnisse, Organisation
@@ -13731,6 +13818,17 @@ Aufsicht nach diesem Gesetz unterliegenden Unternehmen auch
     Verordnung (EU) 2017/2402 einbezogenen Unternehmen,
 
 
+4a. zuständige Behörde im Sinne des Artikels 44 Absatz 2 der Verordnung
+    (EU) 2023/2631 des Europäischen Parlaments und des Rates vom 22.
+    November 2023 über europäische grüne Anleihen sowie fakultative
+    Offenlegungen zu als ökologisch nachhaltig vermarkteten Anleihen und
+    zu an Nachhaltigkeitsziele geknüpften Anleihen (ABl. L, 2023/2631,
+    30\.11.2023), die durch die Verordnung (EU) 2023/2869 (ABl. L,
+    2023/2869, 20.12.2023) geändert worden ist, für die in den
+    Geltungsbereich der Verordnung (EU) 2023/2631 einbezogenen
+    Originatoren,
+
+
 5.  zuständige Behörde im Sinne des Artikels 14 der Verordnung (EU)
     2019/2088,
 
@@ -13741,7 +13839,10 @@ Aufsicht nach diesem Gesetz unterliegenden Unternehmen auch
 
 7.  zuständige Behörde im Sinne des Artikels 2 Nummer 18 der Verordnung
     (EU) 2019/1238 für die in den Geltungsbereich der Verordnung (EU)
-    2019/1238 einbezogenen Unternehmen.
+    2019/1238 einbezogenen Unternehmen,
+
+
+8.  zuständige Behörde im Sinne der Verordnung (EU) 2022/2554.
 
 
 
@@ -13752,6 +13853,13 @@ und zur Änderung der Richtlinien 2008/48/EG und 2013/36/EU und der
 Verordnung (EU) Nr. 1093/2010 (ABl. L 60 vom 28.2.2014, S. 34; L 47
 vom 20.2.2015, S. 34; L 246 vom 23.9.2015, S. 11) für die von ihr
 beaufsichtigten Unternehmen.
+
+(3) Die nach Absatz 1 Nummer 8 zuständige Behörde wirkt bei der
+Durchführung der Artikel 26 und 27 der Verordnung (EU) 2022/2554 mit
+der Deutschen Bundesbank zusammen. Die Deutsche Bundesbank nimmt die
+operativen Aufgaben nach den Artikeln 26 und 27 der Verordnung (EU)
+2022/2554 wahr. § 7 Absatz 3 und 4 des Kreditwesengesetzes gilt
+entsprechend.
 
 
 #### § 296 Grundsatz der Verhältnismäßigkeit
@@ -14822,6 +14930,44 @@ meldet, dass seine Verbriefungen die Anforderungen der Artikel 19 bis
 Verordnung erfüllen.
 
 
+#### § 308d Besondere Befugnisse nach der Verordnung (EU) 2022/2554
+
+(1) Die Aufsichtsbehörde kann bei Verstößen gegen die Verordnung (EU)
+2022/2554 unbeschadet sonstiger in diesem Gesetz geregelter Befugnisse
+im Einzelfall Anordnungen treffen, die geeignet und erforderlich sind,
+um die Einhaltung der Vorgaben der Verordnung (EU) 2022/2554 im
+Geltungsbereich dieses Gesetzes sicherzustellen. Sie kann gegenüber
+einem Versicherungsunternehmen insbesondere anordnen,
+
+1.  das gegen diese Verordnung verstoßende Verhalten zu unterlassen und
+    von einer Wiederholung abzusehen,
+
+
+2.  Praktiken oder Verhaltensweisen, die den Bestimmungen der Verordnung
+    zuwiderlaufen, vorübergehend oder dauerhaft einzustellen und nicht zu
+    wiederholen,
+
+
+3.  sicherzustellen, dass weiterhin die rechtlichen Vorgaben erfüllt
+    werden, und
+
+
+4.  Korrektur- und Abhilfemaßnahmen vorzunehmen.
+
+
+
+
+(2) Die Aufsichtsbehörde kann Untersuchungen über die Einhaltung der
+Vorgaben der Verordnung (EU) 2022/2554 im Anwendungsbereich dieses
+Gesetzes vornehmen. Unbeschadet sonstiger in diesem Gesetz geregelter
+Befugnisse kann die Aufsichtsbehörde zu diesem Zweck Mitglieder der
+Organe eines Versicherungsunternehmens zu einer Befragung vorladen,
+damit diese mündliche oder schriftliche Erklärungen zu Sachverhalten
+oder Unterlagen abgeben, die mit Gegenstand und Zweck der Untersuchung
+in Zusammenhang stehen, und die mündlichen Erklärungen aufzeichnen. §
+305 Absatz 5 gilt entsprechend.
+
+
 #### § 309 Verschwiegenheitspflicht
 
 (1) Die bei den Versicherungsaufsichtsbehörden beschäftigten oder von
@@ -15030,14 +15176,14 @@ Nebenbestimmungen versehen werden.
 Entscheidungen der Aufsichtsbehörde einschließlich der Androhung und
 Festsetzung von Zwangsmitteln nach § 18 Absatz 1 und 2, den §§ 19, 20,
 25 Absatz 4 Satz 1 und 2, den §§ 36, 66a, 127 Absatz 2, § 133 Absatz 1
-und 2, § 134 Absatz 7, § 135 Absatz 3, § 137 Absatz 2, den dem § 264
-sowie nach § 298 Absatz 1 und 2 und § 299 Nummer 1, diese in
-Verbindung mit § 8 Absatz 1 oder § 15 Absatz 1 und 2 oder § 23 oder §
-294 Absatz 6 oder § 295, nach § 298 Absatz 3, den §§ 301, 303 Absatz
-2, § 304 Absatz 3 Nummer 2 und Absatz 4 Satz 2, § 305 Absatz 1 bis 4
-und 6, den §§ 306, 307 Absatz 1 sowie den §§ 308, 308b, 312 und 314
-haben keine aufschiebende Wirkung. Widerspruch und Anfechtungsklage
-gegen Maßnahmen und Entscheidungen der Aufsichtsbehörde nach Artikel 6
+und 2, § 134 Absatz 7, § 135 Absatz 3, § 137 Absatz 2, § 264 sowie
+nach § 298 Absatz 1 und 2 und § 299 Nummer 1, diese in Verbindung mit
+§ 8 Absatz 1 oder § 15 Absatz 1 und 2 oder § 23 oder § 294 Absatz 6
+oder § 295, nach § 298 Absatz 3, den §§ 301, 303 Absatz 2, § 304
+Absatz 3 Nummer 2 und Absatz 4 Satz 2, § 305 Absatz 1 bis 4 und 6, den
+§§ 306, 307 Absatz 1 sowie den §§ 308, 308b, 308d, 312 und 314 haben
+keine aufschiebende Wirkung. Widerspruch und Anfechtungsklage gegen
+Maßnahmen und Entscheidungen der Aufsichtsbehörde nach Artikel 6
 Absatz 4, Artikel 8 Absatz 1 oder Artikel 63 der Verordnung (EU)
 2019/1238 sowie gegen die Androhung und Festsetzung von Zwangsmitteln
 gegen diese Maßnahmen und Entscheidungen haben keine aufschiebende
@@ -15432,7 +15578,7 @@ personenbezogene Daten zu löschen, sobald die Bekanntmachung nicht
 mehr erforderlich ist.
 
 
-#### § 319a Bekanntmachung von Maßnahmen und Sanktionen wegen Verstößen gegen die Verordnung (EU) 2015/2365, die Verordnung (EU) 2016/1011 oder die Verordnung (EU) 2017/2402
+#### § 319a Bekanntmachung von Maßnahmen und Sanktionen wegen Verstößen gegen die Verordnung (EU) 2015/2365, die Verordnung (EU) 2016/1011, die Verordnung (EU) 2017/2402 oder die Verordnung (EU) 2022/2554
 
 (1) Die Aufsichtsbehörde macht Entscheidungen über Maßnahmen und
 Sanktionen, die wegen Verstößen gegen die Verordnung (EU) 2015/2365
@@ -15440,7 +15586,12 @@ oder die Verordnung (EU) 2016/1011 oder auf diesen Verordnungen
 basierende delegierte Rechtsakte erlassen wurden, auf ihrer
 Internetseite unverzüglich nach Unterrichtung der natürlichen oder
 juristischen Person, gegen die die Maßnahme oder Sanktion verhängt
-wurde, bekannt.
+wurde, bekannt. Die Aufsichtsbehörde macht Entscheidungen über
+bestandskräftige Maßnahmen und unanfechtbar gewordene
+Bußgeldentscheidungen, die wegen Verstößen gegen die Verordnung (EU)
+2022/2554 oder gegen die jeweils darauf basierenden delegierten
+Rechtsakte erlassen wurden, auf ihrer Internetseite unverzüglich
+öffentlich bekannt.
 
 (2) In der Bekanntmachung benennt die Aufsichtsbehörde die Vorschrift,
 gegen die verstoßen wurde, und die für den Verstoß verantwortliche
@@ -15701,7 +15852,7 @@ Niederlassung durch eigenes Personal oder durch Beauftragte Prüfungen
 des Geschäftsbetriebs vorzunehmen; § 305 Absatz 5 und § 306 Absatz 5
 sind entsprechend anzuwenden. Die Bundesanstalt leistet auf Verlangen
 Amtshilfe. Die Bediensteten der Aufsichtsbehörde und von ihr
-entsprechend § 306 Absatz 1 Nummer 3 an der Prüfung beteiligte
+entsprechend § 306 Absatz 1 Satz 1 Nummer 3 an der Prüfung beteiligte
 Personen dürfen die Geschäftsräume des Versicherungsunternehmens
 betreten. Das Grundrecht auf Unverletzlichkeit der Wohnung (Artikel 13
 Absatz 1 des Grundgesetzes) wird insoweit eingeschränkt.
@@ -15743,11 +15894,11 @@ Bundesanstalt bewirkt.
 ##### § 329 Zusammenarbeit mit der Europäischen Aufsichtsbehörde für das Versicherungswesen und die betriebliche Altersversorgung
 
 (1) Die Aufsichtsbehörde arbeitet gemäß der Verordnung (EU) Nr.
-1094/2010 für die Zwecke der Richtlinien 2009/138/EG und 2003/41/EG
-mit der Europäischen Aufsichtsbehörde für das Versicherungswesen und
-die betriebliche Altersversorgung zusammen. Sie berücksichtigt so weit
-wie möglich deren Leitlinien und Empfehlungen und begründet eventuelle
-Abweichungen.
+1094/2010 für die Zwecke der Richtlinien 2009/138/EG und (EU)
+2016/2341 mit der Europäischen Aufsichtsbehörde für das
+Versicherungswesen und die betriebliche Altersversorgung zusammen. Sie
+berücksichtigt so weit wie möglich deren Leitlinien und Empfehlungen
+und begründet eventuelle Abweichungen.
 
 (2) Die Aufsichtsbehörde übermittelt jährlich folgende Angaben an die
 Europäische Aufsichtsbehörde für das Versicherungswesen und die
@@ -15818,7 +15969,7 @@ Jahre, der Behörde mit.
 das Versicherungswesen und die betriebliche Altersversorgung gemäß
 Artikel 35 der Verordnung (EU) Nr. 1094/2010 auf Verlangen
 unverzüglich alle für die Erfüllung ihrer Aufgaben auf Grund der
-Richtlinie 2003/41/EG und der Verordnung (EU) Nr. 1094/2010
+Richtlinie (EU) 2016/2341 und der Verordnung (EU) Nr. 1094/2010
 erforderlichen Informationen zur Verfügung. Unbeschadet des Artikels
 35 der Verordnung (EU) Nr. 1094/2010 stellt die Aufsichtsbehörde auf
 Ersuchen der Europäischen Aufsichtsbehörde für das Versicherungswesen
@@ -15941,7 +16092,7 @@ bestraft, wer
 
 2.  entgegen § 61 Absatz 2 Satz 2 oder Satz 5, Absatz 3 oder Absatz 4 eine
     dort genannte Geschäftstätigkeit aufnimmt, erweitert oder ändert oder
-    eine Krankenversicherung oder eine Pflichtversicherung betreibt.
+    eine Krankenversicherung betreibt.
 
 
 
@@ -16577,6 +16728,15 @@ Europäischen Parlaments und des Rates vom 20. Juni 2019 über ein
 Paneuropäisches Privates Pensionsprodukt (PEPP) (ABl. L 198 vom
 25\.7.2019, S. 1) durch Personen im Anwendungsbereich dieses Gesetzes
 können nach § 120a des Wertpapierhandelsgesetzes geahndet werden.
+
+(4m) Zuwiderhandlungen gegen die Verordnung (EU) 2022/2554 des
+Europäischen Parlaments und des Rates vom 14. Dezember 2022 über die
+digitale operationale Resilienz im Finanzsektor und zur Änderung der
+Verordnungen (EG) Nr. 1060/2009, (EU) Nr. 648/2012, (EU) Nr. 600/2014,
+(EU) Nr. 909/2014 und (EU) 2016/1011 (ABl. L 333 vom 27.12.2022, S. 1)
+durch Personen im Anwendungsbereich dieses Gesetzes können nach § 56
+Absatz 5e und 6 Nummer 1 und 2 des Kreditwesengesetzes geahndet
+werden.
 
 (5) Die Ordnungswidrigkeit kann in den Fällen der Absätze 4e und 4h
 bis 4k mit einer Geldbuße bis zu fünf Millionen Euro, in den Fällen
@@ -17622,6 +17782,13 @@ Vertretung entsprechend § 118a des Aktiengesetzes abgehalten wird.
 des Aktiengesetzes in der ab dem 27. Juli 2022 geltenden Fassung sind
 erstmals auf oberste Vertretungen anzuwenden, die ab dem 27. Juli 2022
 einberufen werden.
+
+
+### § 360 Übergangsvorschrift zum Finanzmarktdigitalisierungsgesetz
+
+§ 35 Absatz 1 Satz 1 Nummer 10 ist erstmals anzuwenden auf
+Rechnungslegungsunterlagen für ein nach dem 31. Dezember 2024
+beginnendes Geschäftsjahr.
 
 
 ### Anlage 1 Einteilung der Risiken nach Sparten

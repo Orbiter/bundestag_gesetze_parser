@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2001, 1142
 
 Zuletzt geändert durch
-:   Art. 12 Abs. 1 G v. 21.12.2020 I 3229
+:   Art. 2 G v. 20.12.2024 I Nr. 440
 
 
 ## § 1 Einsetzung
@@ -711,7 +711,7 @@ setzt der Präsident oder die Präsidentin des Bundestages fest.
 ## § 36 Gerichtliche Zuständigkeiten
 
 (1) Zuständiges Gericht für Streitigkeiten nach diesem Gesetz ist der
-Bundesgerichtshof, soweit Artikel 93 des Grundgesetzes sowie § 13 des
+Bundesgerichtshof, soweit Artikel 94 des Grundgesetzes sowie § 13 des
 Bundesverfassungsgerichtsgesetzes und die Vorschriften dieses Gesetzes
 nichts Abweichendes bestimmen.
 

@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2016, 326
 
-Geändert durch
-:   Art. 3 G v. 30.11.2019 I 1942
+Zuletzt geändert durch
+:   Art. 17 G v. 8.12.2025 I Nr. 318
 
 [^BJNR032600016_01]:     Diese Verordnung dient der Umsetzung der Richtlinie 2013/11/EU des
     Europäischen Parlaments und des Rates vom 21. Mai 2013 über die
@@ -153,9 +153,7 @@ Informationen leicht zugänglich auf ihrer Webseite:
 
 
 8.  die Verknüpfung per Link auf die Webseite der Europäischen Kommission
-    mit der Liste der Verbraucherschlichtungsstellen sowie die Verknüpfung
-    per Link auf die Webseite zu der Europäischen Plattform zur Online-
-    Streitbeilegung.
+    mit der Liste der Verbraucherschlichtungsstellen.
 
 
 

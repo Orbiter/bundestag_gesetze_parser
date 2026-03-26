@@ -18,7 +18,7 @@ Fundstelle
 :   BGBl I: 2006, 1584
 
 Zuletzt geändert durch
-:   Art. 1 V v. 25.11.2022 I 2111
+:   Art. 1 V v. 26.11.2024 I Nr. 371
 
 
 
@@ -42,49 +42,42 @@ Bundesdisziplinargesetzes) der Beamtinnen und Beamten
 1.  der Bundesagentur für Arbeit mit Ausnahme der Geschäftsführerinnen und
     Geschäftsführer der Zentrale und der Mitglieder der Geschäftsführungen
     der Regionaldirektionen auf den Vorstand der Bundesagentur für Arbeit,
-    der diese Befugnisse auf die Geschäftsführerin oder den
-    Geschäftsführer Personal der Zentrale, die Vorsitzenden der
-    Geschäftsführungen der Regionaldirektionen oder die Leiterinnen und
-    Leiter der besonderen Dienststellen weiter übertragen kann,
 
 
 2.  der Deutschen Rentenversicherung Bund mit Ausnahme der Präsidentin
     oder des Präsidenten und der übrigen Mitglieder des Direktoriums auf
     den Vorstand der Deutschen Rentenversicherung Bund, der diese
-    Befugnisse auf die Präsidentin oder den Präsidenten oder das
-    Direktorium weiter übertragen kann,
+    Befugnisse auf die Präsidentin oder den Präsidenten oder ein anderes
+    Mitglied des Direktoriums weiter übertragen kann,
 
 
 3.  der Deutschen Rentenversicherung Knappschaft-Bahn-See mit Ausnahme der
-    Ersten Direktorin oder des Ersten Direktors und der übrigen Mitglieder
-    der Geschäftsführung auf den Vorstand der Deutschen Rentenversicherung
-    Knappschaft-Bahn-See, der diese Befugnisse auf die Erste Direktorin
-    oder den Ersten Direktor oder die Geschäftsführung weiter übertragen
-    kann,
+    Mitglieder der Geschäftsführung und der Beamtinnen und Beamten der
+    Künstlersozialkasse auf den Vorstand der Deutschen Rentenversicherung
+    Knappschaft-Bahn-See, der diese Befugnisse auf ein Mitglied der
+    Geschäftsführung weiter übertragen kann,
 
 
-4.  der Unfallversicherung Bund und Bahn mit Ausnahme der Ersten
-    Direktorin oder des Ersten Direktors und ihre oder seine Vertreterin
-    oder ihre und sein Vertreter, soweit nicht Beamtinnen und Beamte der
-    Künstlersozialkasse betroffen sind, auf den Vorstand der
-    Unfallversicherung Bund und Bahn, der diese Befugnisse auf die Erste
-    Direktorin oder den Ersten Direktor weiter übertragen kann,
+4.  der Künstlersozialkasse mit Ausnahme der oder des für die
+    Künstlersozialkasse zuständigen Abteilungsleiterin oder
+    Abteilungsleiters auf die Vorsitzende oder den Vorsitzenden der
+    Geschäftsführung der Deutschen Rentenversicherung Knappschaft-Bahn-
+    See, die oder der diese Befugnisse auf ein anderes Mitglied der
+    Geschäftsführung weiter übertragen kann,
 
 
-5.  der Künstlersozialkasse mit Ausnahme der Vertreterin oder des
-    Vertreters der Ersten Direktorin oder des Ersten Direktors in
-    Angelegenheiten der Künstlersozialversicherung auf die Erste
-    Direktorin oder den Ersten Direktor der Unfallversicherung Bund und
-    Bahn,
+5.  der Unfallversicherung Bund und Bahn mit Ausnahme der
+    Geschäftsführerin oder des Geschäftsführers und ihrer oder seiner
+    Vertreterin oder ihres und seines Vertreters auf den Vorstand der
+    Unfallversicherung Bund und Bahn, der diese Befugnisse auf die
+    Geschäftsführerin oder den Geschäftsführer weiter übertragen kann,
 
 
 6.  der Sozialversicherung für Landwirtschaft, Forsten und Gartenbau mit
-    Ausnahme der Vorsitzenden oder des Vorsitzenden der Geschäftsführung
-    und die übrigen Mitglieder der Geschäftsführung auf den Vorstand der
+    Ausnahme der Mitglieder der Geschäftsführung auf den Vorstand der
     Sozialversicherung für Landwirtschaft, Forsten und Gartenbau, der
-    diese Befugnisse auf die Vorsitzende oder den Vorsitzenden der
-    Geschäftsführung oder ein weiteres Mitglied der Geschäftsführung
-    weiter übertragen kann,
+    diese Befugnisse auf ein Mitglied der Geschäftsführung weiter
+    übertragen kann,
 
 
 7.  den in Anlage 1 des Siebten Buches Sozialgesetzbuch aufgeführten
@@ -160,8 +153,8 @@ Dienstvorgesetzte im Sinne des Bundesdisziplinargesetzes sind
         Arbeit und Soziales,
 
 
-    b)  für die Abteilungsleiterinnen und Abteilungsleiter das Direktorium der
-        Deutschen Rentenversicherung Bund und
+    b)  für die Abteilungsleiterinnen und Abteilungsleiter die Präsidentin
+        oder der Präsident der Deutschen Rentenversicherung Bund und
 
 
     c)  für die übrigen Beamtinnen und Beamten die Abteilungsleiterin oder der
@@ -173,14 +166,15 @@ Dienstvorgesetzte im Sinne des Bundesdisziplinargesetzes sind
 
 3.  bei der Deutschen Rentenversicherung Knappschaft-Bahn-See
 
-    a)  für die Erste Direktorin oder den Ersten Direktor und die übrigen
-        Mitglieder der Geschäftsführung die Bundesministerin oder der
-        Bundesminister für Arbeit und Soziales,
+    a)  für die Mitglieder der Geschäftsführung und die oder den für die
+        Künstlersozialkasse zuständige Abteilungsleiterin oder zuständigen
+        Abteilungsleiter die Bundesministerin oder der Bundesminister für
+        Arbeit und Soziales,
 
 
-    b)  für die Abteilungsleiterinnen und Abteilungsleiter die
-        Geschäftsführung der Deutschen Rentenversicherung Knappschaft-Bahn-See
-        und
+    b)  für die übrigen Abteilungsleiterinnen und Abteilungsleiter die oder
+        der Vorsitzende der Geschäftsführung der Deutschen Rentenversicherung
+        Knappschaft-Bahn-See und
 
 
     c)  für die übrigen Beamtinnen und Beamten die Abteilungsleiterin oder der
@@ -193,16 +187,13 @@ Dienstvorgesetzte im Sinne des Bundesdisziplinargesetzes sind
 
 4.  bei der Unfallversicherung Bund und Bahn
 
-    a)  für die Erste Direktorin oder den Ersten Direktor, ihre oder seine
-        Vertreterin oder ihren oder seinen Vertreter sowie für die Vertreterin
-        oder den Vertreter der Ersten Direktorin oder des Ersten Direktors in
-        Angelegenheiten der Künstlersozialversicherung die Bundesministerin
-        oder der Bundesminister für Arbeit und Soziales und
+    a)  für die Geschäftsführerin oder den Geschäftsführer, ihre oder seine
+        Vertreterin oder ihren oder seinen Vertreter die Bundesministerin oder
+        der Bundesminister für Arbeit und Soziales und
 
 
-    b)  für die übrigen Beamtinnen und Beamten einschließlich der Beamtinnen
-        und Beamten der Künstlersozialkasse die Erste Direktorin oder der
-        Erste Direktor;
+    b)  für die übrigen Beamtinnen und Beamten die Geschäftsführerin oder der
+        Geschäftsführer der Unfallversicherung Bund und Bahn;
 
 
 
@@ -210,13 +201,13 @@ Dienstvorgesetzte im Sinne des Bundesdisziplinargesetzes sind
 
 5.  bei der Sozialversicherung für Landwirtschaft, Forsten und Gartenbau
 
-    a)  für die Vorsitzende oder den Vorsitzenden der Geschäftsführung und die
-        übrigen Mitglieder der Geschäftsführung die Bundesministerin oder der
+    a)  für die Mitglieder der Geschäftsführung die Bundesministerin oder der
         Bundesminister für Arbeit und Soziales und
 
 
     b)  für die übrigen Beamtinnen und Beamten die Vorsitzende oder der
-        Vorsitzende der Geschäftsführung;
+        Vorsitzende der Geschäftsführung der Sozialversicherung für
+        Landwirtschaft, Forsten und Gartenbau;
 
 
 
@@ -303,8 +294,8 @@ Höhere Dienstvorgesetzte im Sinne des Bundesdisziplinargesetzes sind
         Deutschen Rentenversicherung Bund und
 
 
-    c)  für die übrigen Beamtinnen und Beamten das Direktorium der Deutschen
-        Rentenversicherung Bund;
+    c)  für die übrigen Beamtinnen und Beamten die Präsidentin oder der
+        Präsident der Deutschen Rentenversicherung Bund;
 
 
 
@@ -312,17 +303,19 @@ Höhere Dienstvorgesetzte im Sinne des Bundesdisziplinargesetzes sind
 
 3.  bei der Deutschen Rentenversicherung Knappschaft-Bahn-See
 
-    a)  für die Erste Direktorin oder den Ersten Direktor und die übrigen
-        Mitglieder der Geschäftsführung die Bundesministerin oder der
-        Bundesminister für Arbeit und Soziales,
+    a)  für die Mitglieder der Geschäftsführung und die für die
+        Künstlersozialkasse zuständige Abteilungsleiterin oder den zuständigen
+        Abteilungsleiter die Bundesministerin oder der Bundesminister für
+        Arbeit und Soziales,
 
 
-    b)  für die Abteilungsleiterinnen und Abteilungsleiter der Vorstand der
-        Deutschen Rentenversicherung Knappschaft-Bahn-See und
+    b)  für die übrigen Abteilungsleiterinnen und Abteilungsleiter der
+        Vorstand der Deutschen Rentenversicherung Knappschaft-Bahn-See und
 
 
-    c)  für die übrigen Beamtinnen und Beamten die Geschäftsführung der
-        Deutschen Rentenversicherung Knappschaft-Bahn-See;
+    c)  für die übrigen Beamtinnen und Beamten die oder der Vorsitzende der
+        Geschäftsführung der Deutschen Rentenversicherung Knappschaft-Bahn-
+        See;
 
 
 
@@ -330,19 +323,13 @@ Höhere Dienstvorgesetzte im Sinne des Bundesdisziplinargesetzes sind
 
 4.  bei der Unfallversicherung Bund und Bahn
 
-    a)  für die Erste Direktorin oder den Ersten Direktor, ihre oder seine
-        Vertreterin oder ihren oder seinen Vertreter sowie für die Vertreterin
-        oder den Vertreter der Ersten Direktorin oder des Ersten Direktors in
-        Angelegenheiten der Künstlersozialversicherung die Bundesministerin
-        oder der Bundesminister für Arbeit und Soziales,
+    a)  für die Geschäftsführerin oder den Geschäftsführer, ihre oder seine
+        Vertreterin oder ihren oder seinen Vertreter die Bundesministerin oder
+        der Bundesminister für Arbeit und Soziales,
 
 
-    b)  für die Beamtinnen und Beamten, ausgenommen die Beamtinnen und Beamten
-        der Künstlersozialkasse, der Vorstand und
-
-
-    c)  für die Beamtinnen und Beamten der Künstlersozialkasse die Erste
-        Direktorin oder der Erste Direktor;
+    b)  für die übrigen Beamtinnen und Beamten der Vorstand der
+        Unfallversicherung Bund und Bahn;
 
 
 
@@ -350,12 +337,12 @@ Höhere Dienstvorgesetzte im Sinne des Bundesdisziplinargesetzes sind
 
 5.  bei der Sozialversicherung für Landwirtschaft, Forsten und Gartenbau
 
-    a)  für die Vorsitzende oder den Vorsitzenden der Geschäftsführung und die
-        übrigen Mitglieder der Geschäftsführung die Bundesministerin oder der
+    a)  für die Mitglieder der Geschäftsführung die Bundesministerin oder der
         Bundesminister für Arbeit und Soziales und
 
 
-    b)  für die übrigen Beamtinnen und Beamten der Vorstand;
+    b)  für die übrigen Beamtinnen und Beamten der Vorstand der
+        Sozialversicherung für Landwirtschaft, Forsten und Gartenbau;
 
 
 

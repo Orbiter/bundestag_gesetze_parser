@@ -20,7 +20,7 @@ Geändert durch
 :   Art. 9 § 3 G v. 9.6.1998 I 1242
 
 
-## (XXXX)
+## Eingangsformel
 
 Die Hohen Vertragschließenden Seiten -
 dank der Tatsache, daß in der Deutschen Demokratischen Republik im

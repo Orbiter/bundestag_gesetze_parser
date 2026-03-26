@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2009, 160
 
 Zuletzt geändert durch
-:   Art. 6 G v. 20.12.2023 I Nr. 389
+:   Art. 8 G v. 11.1.2026 I Nr. 6
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
@@ -164,10 +164,10 @@ Erfüllung der Pflichten nach § 61 Absatz 2 nicht vereinbar sind.
 Deutscher im Sinne des Artikels 116 Absatz 1 des Grundgesetzes in ein
 Beamtenverhältnis berufen werden.
 
-(3) Das Bundesministerium des Innern, für Bau und Heimat kann
-Ausnahmen von Absatz 1 Nr. 1 und Absatz 2 zulassen, wenn für die
-Berufung der Beamtin oder des Beamten ein dringendes dienstliches
-Bedürfnis besteht.
+(3) Das Bundesministerium des Innern und für Heimat kann Ausnahmen von
+Absatz 1 Nr. 1 und Absatz 2 zulassen, wenn für die Berufung der
+Beamtin oder des Beamten ein dringendes dienstliches Bedürfnis
+besteht.
 
 
 ### § 8 Stellenausschreibung
@@ -603,9 +603,9 @@ anerkannt werden.
 (2) Die deutsche Sprache muss in dem für die Wahrnehmung der Aufgaben
 der Laufbahn erforderlichen Maß beherrscht werden.
 
-(3) Das Bundesministerium des Innern, für Bau und Heimat wird
-ermächtigt, durch Rechtsverordnung die Voraussetzungen und das
-Verfahren der Anerkennung zu bestimmen.
+(3) Das Bundesministerium des Innern und für Heimat wird ermächtigt,
+durch Rechtsverordnung die Voraussetzungen und das Verfahren der
+Anerkennung zu bestimmen.
 
 (4) Das Berufsqualifikationsfeststellungsgesetz findet mit Ausnahme
 des § 12 Absatz 5 Satz 2 und des § 17 keine Anwendung.
@@ -636,12 +636,17 @@ Beamten sind regelmäßig, mindestens jedoch alle drei Jahre, zu
 beurteilen. Sie sind zusätzlich zu beurteilen, wenn es die
 dienstlichen oder persönlichen Verhältnisse erfordern.
 
-(2) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung
+(2) In der dienstlichen Beurteilung sind die fachliche Leistung der
+Beamtin oder des Beamten nachvollziehbar darzustellen sowie Eignung
+und Befähigung einzuschätzen. Am Schluss der dienstlichen Beurteilung
+ist ein zusammenfassendes Gesamturteil abzugeben.
+
+(3) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung
 Grundsätze für dienstliche Beurteilungen sowie für das
 Beurteilungsverfahren zu regeln, insbesondere über
 
-1.  den Inhalt der Beurteilung, beispielsweise die Festlegung von zu
-    beurteilenden Merkmalen von Eignung, Befähigung und fachlicher
+1.  den weiteren Inhalt der Beurteilung, beispielsweise die Festlegung von
+    zu beurteilenden Merkmalen von Eignung, Befähigung und fachlicher
     Leistung,
 
 
@@ -847,7 +852,8 @@ und die Vorbereitungsdienste zu erlassen, insbesondere Vorschriften
 
 
 3.  die Rahmenregelungen für Auswahlverfahren für die Einstellung in einen
-    Vorbereitungsdienst,
+    Vorbereitungsdienst, insbesondere den Einsatz von
+    Informationstechnologie und von Videokonferenztechnik,
 
 
 4.  die Anrechnung von Zeiten auf den Vorbereitungsdienst und die
@@ -897,7 +903,7 @@ Rechtsverordnung obersten Dienstbehörden übertragen.
 ## Abschnitt 4 - Abordnung, Versetzung und Zuweisung
 
 
-### § 27 Abordnung
+### § 27 Abordnung; Verordnungsermächtigungen
 
 (1) Eine Abordnung ist die vorübergehende Übertragung einer dem Amt
 der Beamtin oder des Beamten entsprechenden Tätigkeit bei einer
@@ -944,6 +950,31 @@ Versorgung.
 
 (6) Die Verpflichtung zur Zahlung der Besoldung hat auch der
 Dienstherr, zu dem die Abordnung erfolgt ist.
+
+(7) Die Bundesministerien werden ermächtigt, durch Rechtsverordnung
+ohne Zustimmung des Bundesrates für ihren jeweiligen Geschäftsbereich
+zu regeln, dass der Bedarf an befristet von Dritten überlassenem
+Personal insgesamt oder für bestimmte Bereiche ausschließlich gedeckt
+wird durch Abordnungen von
+
+1.  Beamten,
+
+
+2.  Richtern und
+
+
+3.  sonstigen Personen, die in einem öffentlich-rechtlichen
+    Dienstverhältnis stehen.
+
+
+
+Die Bundesregierung wird ermächtigt, durch Rechtsverordnung ohne
+Zustimmung des Bundesrates die Bedarfe weiterer oberster
+Bundesbehörden nach Satz 1 zu regeln, wenn diese jeweils ein
+entsprechendes Bedürfnis dargetan haben. Die Bundesregierung kann die
+in Satz 2 genannte Ermächtigung durch Rechtsverordnung auf oberste
+Bundesbehörden für eine Regelung hinsichtlich ihres jeweils eigenen
+Bedarfs übertragen.
 
 
 ### § 28 Versetzung
@@ -2451,10 +2482,10 @@ den Hintergrund zu drängen. Religiös oder weltanschaulich konnotierte
 Merkmale des Erscheinungsbilds nach Satz 2 können nur dann
 eingeschränkt oder untersagt werden, wenn sie objektiv geeignet sind,
 das Vertrauen in die neutrale Amtsführung der Beamtin oder des Beamten
-zu beeinträchtigen. Das Bundesministerium des Innern, für Bau und
-Heimat, das Bundesministerium der Finanzen sowie das Bundesministerium
-der Justiz und für Verbraucherschutz werden ermächtigt, jeweils für
-ihren Geschäftsbereich die Einzelheiten zu den Sätzen 2 bis 4 durch
+zu beeinträchtigen. Das Bundesministerium des Innern und für Heimat,
+das Bundesministerium der Finanzen sowie das Bundesministerium der
+Justiz und für Verbraucherschutz werden ermächtigt, jeweils für ihren
+Geschäftsbereich die Einzelheiten zu den Sätzen 2 bis 4 durch
 Rechtsverordnung zu regeln. Die Verhüllung des Gesichts bei der
 Ausübung des Dienstes oder bei einer Tätigkeit mit unmittelbarem
 Dienstbezug ist stets unzulässig, es sei denn, dienstliche oder
@@ -2821,11 +2852,11 @@ Mutterschutzgesetzes entsprechend.
 (2) Die Bundesregierung regelt durch Rechtsverordnung die der Eigenart
 des öffentlichen Dienstes entsprechende Anwendung der Vorschriften des
 Bundeselterngeld- und Elternzeitgesetzes über die Elternzeit auf
-Beamtinnen und Beamte. Das Bundesministerium des Innern, für Bau und
-Heimat kann in den Fällen des Artikels 91 Absatz 2 Satz 1 und des
-Artikels 115f Absatz 1 Nummer 1 des Grundgesetzes den Anspruch auf
-Elternzeit für Polizeivollzugsbeamtinnen und Polizeivollzugsbeamte in
-der Bundespolizei aus zwingenden Gründen der inneren Sicherheit
+Beamtinnen und Beamte. Das Bundesministerium des Innern und für Heimat
+kann in den Fällen des Artikels 91 Absatz 2 Satz 1 und des Artikels
+115f Absatz 1 Nummer 1 des Grundgesetzes den Anspruch auf Elternzeit
+für Polizeivollzugsbeamtinnen und Polizeivollzugsbeamte in der
+Bundespolizei aus zwingenden Gründen der inneren Sicherheit
 ausschließen oder einschränken.
 
 (3) Das Jugendarbeitsschutzgesetz gilt für jugendliche Beamtinnen und
@@ -2933,7 +2964,7 @@ Beihilfeleistungen erbracht hat. Satz 1 gilt für den Anspruch gegen
 eine Abrechnungsstelle der Leistungserbringerin oder des
 Leistungserbringers entsprechend.
 
-(6) Das Bundesministerium des Innern, für Bau und Heimat regelt im
+(6) Das Bundesministerium des Innern und für Heimat regelt im
 Einvernehmen mit dem Auswärtigen Amt, dem Bundesministerium der
 Finanzen, dem Bundesministerium der Verteidigung und dem
 Bundesministerium für Gesundheit durch Rechtsverordnung ohne
@@ -2984,6 +3015,66 @@ unter anderem vorgesehen werden:
 
 
 
+#### § 80a Beihilferechtliche Verfahrenserleichterungen
+
+(1) Hat die für die Gewährung der Beihilfe zuständige Stelle nicht
+innerhalb von vier Wochen nach Eingang des Beihilfeantrags über den
+Antrag entschieden, so gilt die beantragte Aufwendung mit Ablauf
+dieser Frist als erstattungsfähig. Die beantragte Aufwendung gilt
+nicht als erstattungsfähig,
+
+1.  wenn grundsätzlich eine vorherige Anerkennung der Aufwendung
+    erforderlich ist und die Anerkennung zum Zeitpunkt des Eingangs des
+    Beihilfeantrags nicht erfolgt ist, oder
+
+
+2.  wenn und soweit kein Anspruch auf Erstattung der beantragten
+    Aufwendung bestanden hätte und die beihilfeberechtigte Person dies
+    wusste oder infolge grober Außerachtlassung der gebotenen Sorgfalt
+    nicht wusste.
+
+
+
+Soweit beantragte Aufwendungen als erstattungsfähig gelten, soll die
+zuständige Stelle den Festsetzungsbescheid innerhalb von zwei Jahren
+ab Bekanntgabe überprüfen. Bei Überzahlungen widerruft sie den
+Bescheid mit Wirkung für die Vergangenheit. Die Festsetzungsstelle hat
+auf die Rückzahlungspflicht als Folge eines Widerrufs im
+Festsetzungsbescheid hinzuweisen.
+
+(2) Die Festsetzungsstelle kann bei der elektronischen
+Datenverarbeitung für Zwecke einer unverzüglichen und gleichmäßigen
+Belegprüfung und Festsetzung automationsgestützte Systeme
+(Risikomanagementsysteme) einsetzen, dabei ist der Grundsatz der
+Wirtschaftlichkeit und Sparsamkeit zu beachten. Das
+Risikomanagementsystem muss mindestens
+
+1.  sicherstellen, dass gegenüber einer vollständig manuellen Prüfung
+    keine Entscheidung zu Lasten der beihilfeberechtigten Person erfolgt,
+
+
+2.  durch Zufallsauswahl eine hinreichende Anzahl von Fällen zur
+    umfassenden Prüfung durch beihilfebearbeitende Personen bereitstellen,
+
+
+3.  die Prüfung der bereitgestellten Fälle auf die rechtmäßige Festsetzung
+    der geltend gemachten Aufwendungen durch eine beihilfebearbeitende
+    Person sicherstellen,
+
+
+4.  die Möglichkeit bieten, dass beihilfebearbeitende Personen Fälle für
+    eine umfassende Prüfung auswählen können und
+
+
+5.  die regelmäßige Überprüfung des Risikomanagementsystems auf seine
+    Zielerfüllung durch die Festsetzungsstelle ermöglichen.
+
+
+
+Einzelheiten des Risikomanagementsystems dürfen nicht veröffentlicht
+werden.
+
+
 #### § 81 Reisekosten
 
 (1) Beamtinnen und Beamte erhalten die notwendigen Kosten einer
@@ -3001,8 +3092,8 @@ und abweichende Regelungen für besondere Fälle getroffen werden.
 
 (3) Für Reisen nach Absatz 1 im oder in das Ausland sowie vom Ausland
 in das Inland (Auslandsdienstreisen) kann das Bundesministerium des
-Innern, für Bau und Heimat im Einvernehmen mit dem Auswärtigen Amt,
-dem Bundesministerium der Verteidigung und dem Bundesministerium der
+Innern und für Heimat im Einvernehmen mit dem Auswärtigen Amt, dem
+Bundesministerium der Verteidigung und dem Bundesministerium der
 Finanzen durch Rechtsverordnung abweichende Vorschriften erlassen.
 Dazu gehören die Anordnung und Genehmigung von Dienstreisen sowie der
 Umfang der Reisekostenvergütung einschließlich zusätzlich zu
@@ -3044,8 +3135,8 @@ und abweichende Regelungen für besondere Fälle getroffen werden.
 
 (3) Für Umzüge nach Absatz 1 im oder in das Ausland sowie aus dem
 Ausland in das Inland (Auslandsumzüge) kann das Auswärtige Amt im
-Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat,
-dem Bundesministerium der Verteidigung und dem Bundesministerium der
+Einvernehmen mit dem Bundesministerium des Innern und für Heimat, dem
+Bundesministerium der Verteidigung und dem Bundesministerium der
 Finanzen durch Rechtsverordnung abweichende Vorschriften zur
 Umzugskostenvergütung erlassen, soweit die besonderen Bedürfnisse des
 Auslandsdienstes und die besonderen Verhältnisse im Ausland es
@@ -3078,12 +3169,12 @@ für besondere Fälle getroffen werden.
 
 (4) Für Maßnahmen nach Absatz 1 im oder in das Ausland sowie vom
 Ausland in das Inland kann das Auswärtige Amt im Einvernehmen mit dem
-Bundesministerium des Innern, für Bau und Heimat, dem
-Bundesministerium der Verteidigung und dem Bundesministerium der
-Finanzen durch Rechtsverordnung abweichende Vorschriften zu
-Trennungsgeld und Reisebeihilfen für Familienheimfahrten erlassen,
-soweit die besonderen Bedürfnisse des Auslandsdienstes und die
-besonderen Verhältnisse im Ausland es erfordern.
+Bundesministerium des Innern und für Heimat, dem Bundesministerium der
+Verteidigung und dem Bundesministerium der Finanzen durch
+Rechtsverordnung abweichende Vorschriften zu Trennungsgeld und
+Reisebeihilfen für Familienheimfahrten erlassen, soweit die besonderen
+Bedürfnisse des Auslandsdienstes und die besonderen Verhältnisse im
+Ausland es erfordern.
 
 
 #### § 84 Jubiläumszuwendung
@@ -3168,12 +3259,14 @@ zwingende dienstliche Verhältnisse dies erfordern und sich die
 Mehrarbeit auf Ausnahmefälle beschränkt. Werden sie durch eine
 dienstlich angeordnete oder genehmigte Mehrarbeit mehr als fünf
 Stunden im Monat über die regelmäßige Arbeitszeit hinaus beansprucht,
-ist ihnen innerhalb eines Jahres für die Mehrarbeit, die sie über die
-regelmäßige Arbeitszeit hinaus leisten, entsprechende Dienstbefreiung
-zu gewähren. Bei Teilzeitbeschäftigung sind die fünf Stunden anteilig
-zu kürzen. Ist die Dienstbefreiung aus zwingenden dienstlichen Gründen
-nicht möglich, können Beamtinnen und Beamte in Besoldungsgruppen mit
-aufsteigenden Gehältern eine Vergütung erhalten.
+ist ihnen innerhalb einer Ausschlussfrist von einem Jahr für die
+Mehrarbeit, die sie über die regelmäßige Arbeitszeit hinaus leisten,
+entsprechende Dienstbefreiung zu gewähren. Bei Teilzeitbeschäftigung
+sind die fünf Stunden anteilig zu kürzen. Der Dienstherr kann die
+Dienstbefreiung einseitig anordnen. Ist die Dienstbefreiung aus
+zwingenden dienstlichen Gründen nicht möglich, können Beamtinnen und
+Beamte in Besoldungsgruppen mit aufsteigenden Gehältern eine Vergütung
+erhalten.
 
 
 #### § 89 Erholungsurlaub
@@ -3496,7 +3589,7 @@ wenn diese Quote durch die Altersteilzeitverhältnisse nach Satz 1 und
 den Absätzen 1 bis 3 ausgeschöpft ist oder der Bewilligung dienstliche
 Belange entgegenstehen.
 
-(5) Das Bundesministerium des Innern, für Bau und Heimat regelt im
+(5) Das Bundesministerium des Innern und für Heimat regelt im
 Einvernehmen mit dem Bundesministerium der Finanzen durch
 Rechtsverordnung die Einzelheiten der Altersteilzeitbewilligung,
 insbesondere die Festlegung der Restrukturierungs- und
@@ -3881,12 +3974,13 @@ nicht eingehalten, so kann die zuständige Behörde die Aufnahme der
 Tätigkeit oder Beschäftigung bis zur Dauer von höchstens einem Monat
 vorläufig untersagen.
 
-(5) Ruhestandsbeamtinnen oder Ruhestandsbeamte, bei denen in den
-letzten fünf Jahren vor Beendigung des Beamtenverhältnisses eine
+(5) Ruhestandsbeamtinnen oder Ruhestandsbeamte, die in den letzten
+fünf Jahren vor Beendigung des Beamtenverhältnisses betraut gewesen
+sind mit mindestens einer sicherheitsempfindlichen Tätigkeit, die eine
 erweiterte Sicherheitsüberprüfung mit Sicherheitsermittlungen nach §
-10 des Sicherheitsüberprüfungsgesetzes durchgeführt wurde, bedürfen
-für die Aufnahme einer Erwerbstätigkeit oder sonstigen Beschäftigung
-für eine fremde Macht oder einen ihrer Mittelsmänner der vorherigen
+10 des Sicherheitsüberprüfungsgesetzes erfordert, bedürfen für die
+Aufnahme einer Erwerbstätigkeit oder sonstigen Beschäftigung für eine
+fremde Macht oder einen ihrer Mittelsmänner der vorherigen
 Genehmigung, sofern die beabsichtigte Erwerbstätigkeit oder sonstige
 Beschäftigung einen Bezug zu sicherheitsempfindlichen Belangen
 aufweist. Die Pflicht zur Einholung einer Genehmigung endet
@@ -4433,7 +4527,7 @@ stellvertretenden Mitgliedern.
 Bundesrechnungshofes oder der Präsident des Bundesrechnungshofes als
 Vorsitzende oder Vorsitzender und die Leiterin der
 Dienstrechtsabteilung oder der Leiter der Dienstrechtsabteilung des
-Bundesministeriums des Innern, für Bau und Heimat. Nichtständige
+Bundesministeriums des Innern und für Heimat. Nichtständige
 ordentliche Mitglieder sind die Leiterinnen der Zentralabteilungen und
 Leiter der Zentralabteilungen von zwei anderen obersten Bundesbehörden
 und vier weitere Beamtinnen und Beamte des Bundes. Stellvertretende
@@ -4444,23 +4538,23 @@ Bundesbehörden sowie vier weitere Beamtinnen oder Beamte des Bundes.
 
 (3) Die nichtständigen ordentlichen Mitglieder sowie die
 stellvertretenden Mitglieder werden von der Bundespräsidentin oder vom
-Bundespräsidenten auf Vorschlag der Bundesministerin des Innern, für
-Bau und Heimat oder des Bundesministers des Innern, für Bau und Heimat
-für die Dauer von vier Jahren bestellt, davon vier ordentliche und
-vier stellvertretende Mitglieder aufgrund einer Benennung durch die
+Bundespräsidenten auf Vorschlag der Bundesministerin des Innern und
+für Heimat oder des Bundesministers des Innern und für Heimat für die
+Dauer von vier Jahren bestellt, davon vier ordentliche und vier
+stellvertretende Mitglieder aufgrund einer Benennung durch die
 Spitzenorganisationen der zuständigen Gewerkschaften.
 
 (4) Der Bundespersonalausschuss wird zur Durchführung seiner Aufgaben
-durch eine Geschäftsstelle im Bundesministerium des Innern, für Bau
-und Heimat unterstützt.
+durch eine Geschäftsstelle im Bundesministerium des Innern und für
+Heimat unterstützt.
 
 
 ### § 121 Rechtsstellung der Mitglieder
 
 Die Dienstaufsicht über die Mitglieder des Bundespersonalausschusses
-führt im Auftrag der Bundesregierung die Bundesministerin des Innern,
-für Bau und Heimat oder der Bundesminister des Innern, für Bau und
-Heimat mit folgenden Maßgaben:
+führt im Auftrag der Bundesregierung die Bundesministerin des Innern
+und für Heimat oder der Bundesminister des Innern und für Heimat mit
+folgenden Maßgaben:
 
 1.  Die Mitglieder des Bundespersonalausschusses sind unabhängig und nur
     dem Gesetz unterworfen. Sie dürfen wegen ihrer Tätigkeit weder
@@ -4587,7 +4681,7 @@ untersteht.
 
 (2) Besteht die oberste Dienstbehörde nicht mehr und ist eine andere
 Dienstbehörde nicht bestimmt, tritt an ihre Stelle das
-Bundesministerium des Innern, für Bau und Heimat.
+Bundesministerium des Innern und für Heimat.
 
 (3) Die oberste Dienstbehörde kann die Vertretung durch eine
 allgemeine Anordnung anderen Behörden übertragen. Die Anordnung ist im
@@ -4860,6 +4954,90 @@ Professoren, Juniorprofessorinnen, Juniorprofessoren sowie
 Hochschuldozentinnen und Hochschuldozenten entsprechend.
 
 
+### § 132a Ermächtigungen zum Erlass von Verordnungen zur Lehrverpflichtung des hauptberuflichen wissenschaftlichen Personals der Hochschulen
+
+(1) Das Bundesministerium der Verteidigung wird ermächtigt, zur
+Lehrverpflichtung des hauptberuflichen wissenschaftlichen Personals
+der Universitäten der Bundeswehr eine Rechtsverordnung zu erlassen,
+die der Zustimmung des Bundesrates nicht bedarf, und in der es
+insbesondere Regelungen trifft
+
+1.  zum Umfang der Lehrverpflichtung,
+
+
+2.  zu den Anrechnungs- und Ermäßigungstatbeständen und
+
+
+3.  zu den Nebenpflichten, die mit der Lehrverpflichtung verbunden sind.
+
+
+
+
+(2) Das Bundesministerium des Innern und für Heimat erlässt durch
+Rechtsverordnung, die der Zustimmung des Bundesrates nicht bedarf,
+allgemeine Vorschriften zur Lehrverpflichtung des hauptberuflichen
+wissenschaftlichen Personals der Hochschule des Bundes für öffentliche
+Verwaltung (allgemeine Lehrverpflichtungsverordnung), insbesondere
+
+1.  zum Umfang der Lehrverpflichtung,
+
+
+2.  zu den Anrechnungs- und Ermäßigungstatbeständen und
+
+
+3.  zu den Nebenpflichten, die mit der Lehrverpflichtung verbunden sind.
+
+
+
+Soweit das Bundeskanzleramt und die Bundesministerien für einen
+Fachbereich oder den Zentralen Lehrbereich zuständig sind, sind sie
+ins Benehmen zu setzen.
+
+(3) Für jeden Fachbereich und für den Zentralen Lehrbereich der
+Hochschule des Bundes für öffentliche Verwaltung sind durch
+Rechtsverordnung, die der Zustimmung des Bundesrats nicht bedarf,
+besondere Vorschriften zur Lehrverpflichtung des jeweiligen
+hauptberuflichen wissenschaftlichen Personals zu erlassen (besondere
+Lehrverpflichtungsverordnungen), insbesondere
+
+1.  zu den konkreten Dienstaufgaben,
+
+
+2.  zur Anrechnung laufbahnrechtlicher Prüfungsleistungen,
+
+
+3.  zur Gewährung von Ermäßigungen auf die Lehrverpflichtung sowie
+
+
+4.  zum Verfahren bei Über- und Unterschreitung der Lehrverpflichtung.
+
+
+
+Eine Abweichung von den Regelungen der allgemeinen
+Lehrverpflichtungsverordnung oder eine nähere Ausgestaltung dieser
+Regelungen in besonderen Lehrverpflichtungsverordnungen ist nur
+zulässig, soweit die allgemeine Lehrverpflichtungsverordnung dies
+ausdrücklich vorsieht.
+
+(4) Zuständig für den Erlass einer besonderen
+Lehrverpflichtungsverordnung sind die Bundesministerien und das
+Bundeskanzleramt jeweils einzeln oder zu mehreren gemeinsam, soweit
+sie für den jeweiligen Fachbereich oder Zentralen Lehrbereich
+zuständig sind, im Benehmen mit dem Bundesministerium des Innern und
+für Heimat.
+
+(5) Das Bundesministerium für Arbeit und Soziales kann seine
+Befugnisse zum Erlass einer besonderen Lehrverpflichtungsverordnung
+durch Rechtsverordnung, die der Zustimmung des Bundesrates nicht
+bedarf, jeweils auf den Vorstand der Deutschen Rentenversicherung
+Bund, den Vorstand der Deutschen Rentenversicherung Knappschaft-Bahn-
+See oder den Vorstand der Sozialversicherung für Landwirtschaft,
+Forsten und Gartenbau übertragen. Die Rechtsverordnungen der Vorstände
+bedürfen des Einvernehmens mit dem Bundesministerium für Arbeit und
+Soziales und des Benehmens mit dem Bundesministerium des Innern und
+für Heimat.
+
+
 ### § 133 Ehrenbeamtinnen und Ehrenbeamte
 
 (1) Für Ehrenbeamtinnen und Ehrenbeamte nach § 6 Abs. 5 gelten die
@@ -5129,8 +5307,8 @@ Zustimmung des Bundesrates.
 
 (2) Die zur Durchführung dieses Gesetzes und der auf Grund dieses
 Gesetzes erlassenen Rechtsverordnungen erforderlichen allgemeinen
-Verwaltungsvorschriften erlässt das Bundesministerium des Innern, für
-Bau und Heimat, soweit dieses Gesetz nichts anderes bestimmt.
+Verwaltungsvorschriften erlässt das Bundesministerium des Innern und
+für Heimat, soweit dieses Gesetz nichts anderes bestimmt.
 
 
 ### § 146 Öffentlich-rechtliche Religionsgesellschaften

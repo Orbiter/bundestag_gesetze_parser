@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 1998, 74, 80
 
 Zuletzt geändert durch
-:   Art. 7d G v. 19.7.2023 I Nr. 197
-
-Änderung durch
-:   Art. 4 G v. 27.3.2024 I Nr. 109 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 V v. 14.2.2025 I Nr. 37
 
 
 ## § 1 Grundsätze
@@ -504,10 +501,9 @@ ausgehändigt wird.
 
 ## § 5a Verschreiben von Substitutionsmitteln mit dem Stoff Diamorphin
 
-(1) Zur Behandlung einer schweren Opioidabhängigkeit können zur
-Substitution zugelassene Arzneimittel mit dem Stoff Diamorphin
-verschrieben werden. Der substituierende Arzt darf diese Arzneimittel
-nur verschreiben, wenn
+(1) Zur Behandlung einer schweren Opioidabhängigkeit kann der
+substituierende Arzt zugelassene Arzneimittel mit dem Stoff Diamorphin
+oder dessen Zubereitungen verschreiben, wenn
 
 1.  er ein suchtmedizinisch qualifizierter Arzt ist und sich seine
     suchtmedizinische Qualifikation auf die Behandlung mit Diamorphin
@@ -516,24 +512,36 @@ nur verschreiben, wenn
     war,
 
 
-2.  bei dem Patienten eine seit mindestens fünf Jahren bestehende
-    Opioidabhängigkeit verbunden mit schwerwiegenden somatischen und
-    psychischen Störungen bei derzeit überwiegend intravenösem Konsum
-    vorliegt,
+2.  die Opioidabhängigkeit des Patienten seit mindestens zwei Jahren
+    besteht,
 
 
-3.  ein Nachweis über zwei erfolglos beendete Behandlungen der
-    Opioidabhängigkeit vorliegt, von denen mindestens eine eine
-    sechsmonatige Behandlung nach § 5 sein muss, und
+3.  der Patient erhebliche Defizite in medizinischer, psychologischer oder
+    sozialer Hinsicht aufweist, die jeweils auf den Missbrauch von
+    unerlaubt erworbenen oder erlangten Opioiden zurückzuführen sind,
 
 
-4.  der Patient das 23. Lebensjahr vollendet hat.
+4.  Nachweise über Behandlungen der Opioidabhängigkeit mit einem in § 5
+    Absatz 6 Satz 1 genannten Substitutionsmittel vorliegen, die über
+    einen Zeitraum von insgesamt mindestens sechs Monaten durchgeführt
+    wurden und sich als nicht geeignet oder als erfolgslos erwiesen haben,
+    und
+
+
+5.  der Patient das 18. Lebensjahr vollendet hat.
 
 
 
-§ 5 Absatz 1, 2, 3 Satz 2, Absatz 6 Satz 3 und Absatz 11 gilt
-entsprechend. Die Verschreibung darf der Arzt nur einem
-pharmazeutischen Unternehmer vorlegen.
+Einem Patienten, der das 18. Lebensjahr, jedoch noch nicht das 23.
+Lebensjahr vollendet hat, dürfen zur Behandlung einer schweren
+Opioidabhängigkeit zugelassene Arzneimittel mit dem Stoff Diamorphin
+oder dessen Zubereitungen nur verschrieben werden, wenn neben dem
+substituierenden Arzt ein weiterer suchtmedizinisch qualifizierter
+Arzt, der nicht derselben Einrichtung angehört, das Vorliegen der in
+Satz 1 genannten Voraussetzungen bestätigt hat. § 5 Absatz 1, 2, 3
+Satz 2, Absatz 6 Satz 3 und Absatz 11 gilt entsprechend. Die
+Verschreibung darf der Arzt nur einem pharmazeutischen Unternehmer
+vorlegen.
 
 (2) Die Behandlung mit Diamorphin darf nur in Einrichtungen
 durchgeführt werden, denen eine Erlaubnis durch die zuständige
@@ -571,7 +579,7 @@ der Einrichtung angehört, eingeholt wird. Ergibt diese Überprüfung,
 dass die Voraussetzungen für die Behandlung nicht mehr gegeben sind,
 ist die diamorphingestützte Behandlung zu beenden.
 
-(5) Die Absätze 1 bis 4 und § 5 Absatz 11 sind entsprechend
+(5) Die Absätze 1 bis 4 und § 5 Absatz 10 sind entsprechend
 anzuwenden, wenn Diamorphin aus dem Bestand des Praxis- oder
 Stationsbedarfs nach Absatz 3 Satz 1 verabreicht oder zum
 unmittelbaren Verbrauch überlassen wird.

@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1985, 774
 
 Zuletzt geändert durch
-:   Art. 1 V v. 28.6.2023 I Nr. 173
+:   Art. 1 V v. 23.6.2025 I Nr. 149
 
 
 ## Eingangsformel
@@ -54,7 +54,7 @@ beiden Fahrtrichtungen:
     *   A 1
 
     *   vom Autobahndreieck Erfttal über Autobahnkreuz Leverkusen-West,
-        Wuppertal, Kamener Kreuz, Münster bis Anschlussstelle Lohne/Dinklage
+        Wuppertal, Kamener Kreuz, Münster bis Kreuz Lotte/Osnabrück
 
 
 *    *   2
@@ -102,7 +102,7 @@ beiden Fahrtrichtungen:
     *   A 7
 
     *   von Anschlussstelle Schleswig/Jagel bis Autobahndreieck Bordesholm,
-        von Anschlussstelle Soltau-Süd bis Anschlussstelle Göttingen-Nord, von
+        von Anschlussstelle Soltau-Süd bis Autobahnkreuz Hannover-Ost, von
         Autobahndreieck Schweinfurt/Werneck über Autobahnkreuz Biebelried,
         Autobahnkreuz Ulm/Elchingen und Autobahndreieck Allgäu bis zum
         Autobahnende Bundesgrenze Füssen
@@ -151,13 +151,20 @@ beiden Fahrtrichtungen:
 
 *    *   13
 
+    *   A 67
+
+    *   von Darmstädter Kreuz bis Viernheimer Dreieck
+
+
+*    *   14
+
     *   A 81
 
     *   von der Anschlussstelle Stuttgart-Zuffenhausen bis Anschlussstelle
         Gärtringen
 
 
-*    *   14
+*    *   15
 
     *   A 92
 
@@ -166,14 +173,14 @@ beiden Fahrtrichtungen:
         Erding
 
 
-*    *   15
+*    *   16
 
     *   A 93
 
     *   von Autobahndreieck Inntal bis Anschlussstelle Reischenhart
 
 
-*    *   16
+*    *   17
 
     *   A 99
 
@@ -183,21 +190,21 @@ beiden Fahrtrichtungen:
         München-Süd sowie Autobahndreieck München/Eschenried
 
 
-*    *   17
+*    *   18
 
     *   A 831
 
     *   von Anschlussstelle Stuttgart-Vaihingen bis Autobahnkreuz Stuttgart
 
 
-*    *   18
+*    *   19
 
     *   A 980
 
     *   von Autobahnkreuz Allgäu bis Anschlussstelle Waltenhofen
 
 
-*    *   19
+*    *   20
 
     *   A 995
 
@@ -244,19 +251,19 @@ außerhalb geschlossener Ortschaften in beiden Fahrtrichtungen:
 2.  des öffentlichen Straßendiensts der Verwaltung,
 
 
-3.  der Feuerwehr und des Katastrophenschutzes, soweit die Voraussetzungen
-    des § 35 Abs. 4 der Straßenverkehrs-Ordnung vorliegen,
+3.  der Feuerwehr und des Zivil- und Katastrophenschutzes, soweit die
+    Voraussetzungen des § 35 Abs. 4 der Straßenverkehrs-Ordnung vorliegen,
 
 
-4.  der Bundeswehr sowie der von der Bundeswehr beauftragten gewerblichen
-    Transportdienstunternehmen, soweit das für Fragen des Verkehrs und
-    Transports und der Logistik zuständige Kommando ein dringendes
-    Erfordernis festgestellt hat,
+4.  der Bundeswehr sowie der von ihr beauftragten gewerblichen
+    Transportdienstunternehmen im Falle militärischer Erfordernisse,
 
 
 5.  der Truppen der nichtdeutschen Vertragsstaaten des
-    Nordatlantikvertrages und der Mitgliedstaaten der Europäischen Union
-    im Falle dringender militärischer Erfordernisse,
+    Nordatlantikvertrages, der Mitgliedstaaten der Europäischen Union und
+    weiterer verbündeter Streitkräfte sowie der von den jeweiligen Truppen
+    beauftragten gewerblichen Transportdienstunternehmen im Falle
+    militärischer Erfordernisse,
 
 
 6.  die auf Grundlage des Bundesleistungsgesetzes, des

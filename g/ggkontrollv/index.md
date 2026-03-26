@@ -600,7 +600,7 @@ Fundstelle des Originaltextes: BGBl. I 2005, S. 3110
 
 *    *   2.
 
-    *   Anzahl der festgestellten Verstöße nach  Gefahrenkategorie 2)
+    *   Anzahl der festgestellten Verstöße nach Gefahrenkategorie 2)
 
     *   2.1
 

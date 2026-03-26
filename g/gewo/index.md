@@ -19,13 +19,7 @@ Neugefasst durch
 :   Bek. v. 22.2.1999 I 202
 
 Zuletzt geändert durch
-:   Art. 11 G v. 28.6.2023 I Nr. 172
-
-Änderung durch
-:   Art. 8 G v. 22.12.2023 I Nr. 411 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 5 G v. 17.1.2024 I Nr. 12 ist berücksichtigt
+:   Art. 34 G v. 4.2.2026 I Nr. 33
 
 
 ## Titel I - Allgemeine Bestimmungen
@@ -1448,9 +1442,15 @@ gilt, wenn
 
 
 
-Steht die Aufgabe des Betriebes eindeutig fest und ist die Abmeldung
-nicht innerhalb eines angemessenen Zeitraums erfolgt, kann die Behörde
-die Abmeldung von Amts wegen vornehmen.
+Erfolgt die Aufgabe des Betriebes im Zusammenhang mit dessen Verlegung
+in einen anderen Meldebezirk, ist dies ausschließlich gegenüber der
+für die Gewerbeanmeldung nach Satz 1 zuständigen Behörde anzuzeigen;
+diese übermittelt die Daten aus der Gewerbeanzeige unverzüglich an die
+für die Gewerbeabmeldung nach Satz 2 Nummer 3 zuständige Behörde;
+Absatz 8 bleibt unberührt. Steht die Aufgabe des Betriebes eindeutig
+fest und ist die Abmeldung nicht innerhalb eines angemessenen
+Zeitraums erfolgt, kann die Behörde die Abmeldung von Amts wegen
+vornehmen.
 
 (2) Absatz 1 gilt auch für den Handel mit Arzneimitteln, mit Losen von
 Lotterien und Ausspielungen sowie mit Bezugs- und Anteilscheinen auf
@@ -1706,12 +1706,9 @@ der nach § 12 Abs. 1 des Bundesstatistikgesetzes vorgesehenen Prüfung
 auswerten. Ferner dürfen sie nähere Angaben zu der angemeldeten
 Tätigkeit unmittelbar bei den Auskunftspflichtigen erfragen, soweit
 die gemeldete Tätigkeit sonst den Wirtschaftszweigen nach Anhang I der
-Verordnung (EG) Nr. 1893/2006 des Europäischen Parlaments und des
-Rates vom 20. Dezember 2006 zur Aufstellung der statistischen
-Systematik der Wirtschaftszweige NACE Revision 2 und zur Änderung der
-Verordnung (EWG) Nr. 3037/90 des Rates sowie einiger Verordnungen der
-EG über bestimmte Bereiche der Statistik (ABl. EU Nr. L 393 S. 1) in
-der jeweils geltenden Fassung nicht zugeordnet werden kann.
+Verordnung (EG) Nr. 1893/2006 in Verbindung mit der vom Statistischen
+Bundesamt daraus erstellten Klassifikation der Wirtschaftszweige nicht
+zugeordnet werden kann.
 
 (14) Das Bundesministerium für Wirtschaft und Klimaschutz erlässt mit
 Zustimmung des Bundesrates durch Rechtsverordnung zur Gewährleistung
@@ -3569,6 +3566,17 @@ Bekanntmachung zu löschen. Abweichend von Satz 4 sind personenbezogene
 Daten zu löschen, sobald ihre Bekanntmachung nicht mehr erforderlich
 ist.
 
+(11a) Die zuständige Behörde nach Absatz 13 macht jede nicht mehr
+anfechtbare Entscheidung, die wegen Verstoßes gegen die Verordnung
+(EU) 2022/2554 des Europäischen Parlaments und des Rates vom 14.
+Dezember 2022 über die digitale operationale Resilienz im Finanzsektor
+und zur Änderung der Verordnungen (EG) Nr. 1060/2009, (EU) Nr.
+648/2012, (EU) Nr. 600/2014, (EU) Nr. 909/2014 und (EU) 2016/1011
+(ABl. L 333 vom 27.12.2022, S. 1) oder die jeweils darauf basierenden
+delegierten Rechtsakte erlassen wurde, unverzüglich auf ihrer
+Internetseite öffentlich bekannt. Absatz 11 Satz 2 bis 5 gilt
+entsprechend.
+
 (12) Die Industrie- und Handelskammern richten Verfahren ein zur
 Annahme von Meldungen über mögliche oder tatsächliche Verstöße gegen
 die zur Umsetzung der Richtlinie (EU) 2016/97 ergangenen Vorschriften,
@@ -3579,6 +3587,35 @@ Meldungen können auch anonym abgegeben werden. § 4 Absatz 2 sowie die
 Schutzmaßnahmen für hinweisgebende Personen im Sinne des § 1 des
 Hinweisgeberschutzgesetzes richten sich nach dessen Abschnitten 3 und
 4\.
+
+(13) Die zuständige Industrie- und Handelskammer überwacht die
+Einhaltung der Verordnung (EU)
+2022/2554              durch Gewerbetreibende nach den Absätzen 1, 2
+und 6, die 250 oder mehr Personen beschäftigen und einen Jahresumsatz
+von mehr als 50 Millionen Euro oder eine Jahresbilanzsumme von mehr
+als 43 Millionen Euro aufweisen. Sie kann im Einzelfall Anordnungen
+treffen, die geeignet und erforderlich sind, um die Einhaltung der
+Vorgaben der Verordnung (EU) 2022/2554 sicherzustellen; § 29 ist auf
+Gewerbetreibende nach Satz 1 in Verbindung mit Absatz 6 entsprechend
+anzuwenden. Bei der Durchführung ihrer Aufgaben kann sich die
+zuständige Industrie- und Handelskammer anderer Personen und
+Einrichtungen bedienen. Die zuständige Industrie- und Handelskammer
+ist außerdem befugt, Gewerbetreibende im Sinne des Satzes 1 und
+Gewerbetreibende, bei denen Tatsachen die Annahme rechtfertigen, dass
+ein Gewerbe im Sinne des Satzes 1 ausgeübt wird, auf deren Kosten
+durch einen von ihr bestimmten geeigneten Prüfer überprüfen zu lassen.
+Der Prüfungsbericht muss einen Vermerk darüber enthalten, ob Verstöße
+des Gewerbetreibenden festgestellt worden sind. Verstöße sind in dem
+Vermerk aufzuzeigen. Der Prüfer hat den Vermerk mit Angabe von Ort und
+Datum zu unterzeichnen, wobei die elektronische Namenswiedergabe
+genügt. Geeignete Prüfer sind Personen, die auf Grund ihrer Vorbildung
+und Erfahrung in der Lage sind, eine ordnungsgemäße Prüfung in dem
+jeweiligen Gewerbebetrieb durchzuführen, sowie deren Zusammenschlüsse.
+Ungeeignet für eine Prüfung sind Personen, bei denen die Besorgnis der
+Befangenheit besteht. Soweit Gewerbetreibende nach Satz 1 über eine
+Erlaubnis nach § 32 Absatz 1 des Kreditwesengesetzes verfügen, ist für
+Aufgaben nach der Verordnung (EU) 2022/2554 ausschließlich die
+Bundesanstalt für Finanzdienstleistungsaufsicht zuständig.
 
 
 ##### § 34e Verordnungsermächtigung
@@ -3709,17 +3746,18 @@ gegenüber dem Prüfer sowie das Verfahren bei Meinungsverschiedenheiten
 zwischen dem Prüfer und dem Versicherungsvermittler, geregelt werden.
 
 (3) In der Rechtsverordnung nach Absatz 1 Satz 1 kann ferner bestimmt
-werden, dass die Einhaltung der Vorschriften über die wirtschaftliche
-Unabhängigkeit des Versicherungsberaters auf seine Kosten regelmäßig
-oder aus besonderem Anlass zu überprüfen und der zuständigen Behörde
-der Prüfungsbericht vorzulegen ist, soweit es zur wirksamen
-Überwachung erforderlich ist; hierbei können die Einzelheiten der
-Prüfung, insbesondere deren Anlass, Zeitpunkt und Häufigkeit, die
-Auswahl, Bestellung und Abberufung der Prüfer, deren Rechte, Pflichten
-und Verantwortlichkeit, der Inhalt des Prüfberichts, die
-Verpflichtungen des Versicherungsberaters gegenüber dem Prüfer sowie
-das Verfahren bei Meinungsverschiedenheiten zwischen dem Prüfer und
-dem Versicherungsberater, geregelt werden. Zur Überwachung der
+werden, dass die Einhaltung der Vorschriften nach § 34d Absatz 13
+sowie über die wirtschaftliche Unabhängigkeit des
+Versicherungsberaters jeweils auf seine Kosten regelmäßig oder aus
+besonderem Anlass zu überprüfen und der zuständigen Behörde der
+Prüfungsbericht vorzulegen ist, soweit es zur wirksamen Überwachung
+erforderlich ist; hierbei können die Einzelheiten der Prüfung,
+insbesondere deren Anlass, Zeitpunkt und Häufigkeit, die Auswahl,
+Bestellung und Abberufung der Prüfer, deren Rechte, Pflichten und
+Verantwortlichkeit, der Inhalt des Prüfberichts, die Verpflichtungen
+des Versicherungsberaters gegenüber dem Prüfer sowie das Verfahren bei
+Meinungsverschiedenheiten zwischen dem Prüfer und dem
+Versicherungsberater, geregelt werden. Zur Überwachung der
 wirtschaftlichen Unabhängigkeit kann in der Rechtsverordnung bestimmt
 werden, dass der Versicherungsberater über die Einnahmen aus seiner
 Tätigkeit Aufzeichnungen zu führen hat.
@@ -4866,7 +4904,7 @@ anderes bestimmt ist.
 Wer als Gewerbetreibender auf Grund des § 55a Abs. 1 Nr. 3, 9 oder 10
 einer Reisegewerbekarte nicht bedarf, hat den Beginn des Gewerbes der
 zuständigen Behörde anzuzeigen, soweit er sein Gewerbe nicht bereits
-nach § 14 Abs. 1 bis 3 anzumelden hat. § 14 Absatz 1 Satz 2 und 3,
+nach § 14 Abs. 1 bis 3 anzumelden hat. § 14 Absatz 1 Satz 2 bis 4,
 Absatz 4 bis 12, § 15 Absatz 1 und die Rechtsverordnung nach § 14
 Absatz 14 gelten entsprechend.
 
@@ -5684,8 +5722,8 @@ keine Merkmale oder Formulierungen enthalten, die den Zweck haben,
 eine andere als aus der äußeren Form oder aus dem Wortlaut
 ersichtliche Aussage über den Arbeitnehmer zu treffen.
 
-(3) Die Erteilung des Zeugnisses in elektronischer Form ist
-ausgeschlossen.
+(3) Das Zeugnis kann mit Einwilligung des Arbeitnehmers in
+elektronischer Form erteilt werden.
 
 
 #### § 110 Wettbewerbsverbot
@@ -5799,10 +5837,12 @@ Ordnung zulässig. Das Grundrecht der Unverletzlichkeit der Wohnung
 zuständigen Landesbehörden konkrete Anhaltspunkte für
 
 1.  eine Beschäftigung oder Tätigkeit von Ausländern ohne erforderlichen
-    Aufenthaltstitel nach § 4 Abs. 3 des Aufenthaltsgesetzes, eine
+    Aufenthaltstitel nach § 4a Absatz 5 Satz 1 des Aufenthaltsgesetzes,
+    eine Erlaubnis oder Berechtigung nach § 4a Absatz 5 Satz 2 in
+    Verbindung mit Absatz 4 des Aufenthaltsgesetzes, eine
     Aufenthaltsgestattung oder eine Duldung, die zur Ausübung der
-    Beschäftigung berechtigen, oder eine Genehmigung nach § 284 Abs. 1 des
-    Dritten Buches Sozialgesetzbuch,
+    Beschäftigung berechtigen, oder eine Genehmigung nach § 284 Absatz 1
+    des Dritten Buches Sozialgesetzbuch,
 
 
 2.  Verstöße gegen die Mitwirkungspflicht nach § 60 Abs. 1 Satz 1 Nr. 2
@@ -5813,7 +5853,7 @@ zuständigen Landesbehörden konkrete Anhaltspunkte für
     Asylbewerberleistungsgesetzes,
 
 
-3.  Verstöße gegen das Gesetz zur Bekämpfung der Schwarzarbeit,
+3.  Verstöße gegen das Schwarzarbeitsbekämpfungsgesetz,
 
 
 4.  Verstöße gegen das Arbeitnehmerüberlassungsgesetz,
@@ -5830,10 +5870,20 @@ zuständigen Landesbehörden konkrete Anhaltspunkte für
 7.  Verstöße gegen die Steuergesetze,
 
 
+8.  Verstöße gegen das Gesetz zur Sicherung von Arbeitnehmerrechten in der
+    Fleischwirtschaft,
 
-unterrichten sie die für die Verfolgung und Ahndung der Verstöße nach
-den Nummern 1 bis 7 zuständigen Behörden, die Träger der Sozialhilfe
-sowie die Behörden nach § 71 des Aufenthaltsgesetzes.
+
+9.  Verstöße gegen das Mindestlohngesetz,
+
+
+10. Verstöße gegen das Arbeitnehmer-Entsendegesetz,
+
+
+
+unterrichten sie die für die Verfolgung und Ahndung der Verstöße
+jeweils zuständigen Behörden und, soweit erforderlich, die Träger der
+Sozialhilfe sowie die Behörden nach § 71 des Aufenthaltsgesetzes.
 
 (8) In den Fällen des Absatzes 7 arbeiten die für den Arbeitsschutz
 zuständigen Landesbehörden insbesondere mit folgenden Behörden
@@ -5849,9 +5899,9 @@ zusammen:
 3.  den Trägern der Unfallversicherung,
 
 
-4.  den nach Landesrecht für die Verfolgung und Ahndung von Verstößen
-    gegen das Gesetz zur Bekämpfung der Schwarzarbeit zuständigen
-    Behörden,
+4.  den nach Landesrecht für die Verfolgung und Ahndung von
+    Ordnungswidrigkeiten nach dem Schwarzarbeitsbekämpfungsgesetz
+    zuständigen Behörden,
 
 
 5.  den in § 71 des Aufenthaltsgesetzes genannten Behörden,
@@ -6508,6 +6558,47 @@ fünfhunderttausend Euro geahndet werden. § 30 Absatz 2 Satz 3 des
 Gesetzes über Ordnungswidrigkeiten ist anzuwenden.
 
 
+### § 147d Verletzung von Vorschriften über die digitale operationale Resilienz durch Versicherungsvermittler nach § 34d Absatz 1, Versicherungsberater nach § 34d Absatz 2 und Versicherungsvermittler in Nebentätigkeit nach § 34d Absatz 6
+
+(1) Ordnungswidrig handelt, wer als Person im Anwendungsbereich dieses
+Gesetzes gegen die Verordnung (EU) 2022/2554 des Europäischen
+Parlaments und des Rates vom 14. Dezember 2022 über die digitale
+operationale Resilienz im Finanzsektor und zur Änderung der
+Verordnungen (EG) Nr. 1060/2009, (EU)
+Nr. 648/2012,              (EU) Nr. 600/2014, (EU) Nr. 909/2014 und
+(EU) 2016/1011 (ABl. L 333 vom 27.12.2022, S. 1) verstößt, indem er
+vorsätzlich oder fahrlässig,
+
+1.  einer vollziehbaren Anordnung nach Artikel 6 Absatz 5 Satz 3, Artikel
+    28 Absatz 3 Unterabsatz 4 oder Artikel 42 Absatz 6 Satz 1
+    zuwiderhandelt,
+
+
+2.  entgegen Artikel 19 Absatz 4 der zuständigen Behörde dort genannte
+    Meldung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig
+    vorlegt,
+
+
+3.  entgegen Artikel 28 Absatz 3 Unterabsatz 3 der zuständigen Behörde
+    einen Bericht nicht, nicht richtig, nicht vollständig oder nicht
+    rechtzeitig erstattet,
+
+
+4.  entgegen Artikel 28 Absatz 3 Unterabsatz 5 der zuständigen Behörde die
+    Unterrichtung nicht, nicht richtig, nicht vollständig oder nicht
+    rechtzeitig übermittelt oder
+
+
+5.  entgegen Artikel 45 Absatz 3 eine Mitteilung nicht, nicht richtig,
+    nicht vollständig oder nicht rechtzeitig vornimmt.
+
+
+
+
+(2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu
+fünfhunderttausend Euro geahndet werden.
+
+
 ### § 148 Strafbare Verletzung gewerberechtlicher Vorschriften
 
 Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird
@@ -6721,8 +6812,10 @@ Unternehmung, auf öffentliche Bestellung und Vereidigung nach § 36,
 auf Erteilung eines Befähigungsscheins nach § 20 des
 Sprengstoffgesetzes oder zur Überprüfung der Zuverlässigkeit nach § 38
 Abs. 1 kann die Auskunft auch zur Vorlage bei einer Behörde beantragt
-werden. Wird die Auskunft zur Vorlage bei einer Behörde beantragt, ist
-sie der Behörde unmittelbar zu übersenden.
+werden. Dies gilt auch für Zwecke einer Zuverlässigkeitsüberprüfung
+durch die Bundesanstalt für Finanzdienstleistungsaufsicht. Wird die
+Auskunft zur Vorlage bei einer Behörde beantragt, ist sie der Behörde
+unmittelbar zu übersenden.
 
 
 ### § 150a Auskunft an Behörden oder öffentliche Auftraggeber
@@ -6736,8 +6829,8 @@ sie der Behörde unmittelbar zu übersenden.
 
     b)  in § 404 Abs. 1, 2 Nr. 3 des Dritten Buches Sozialgesetzbuch, in § 8
         Abs. 1 des Schwarzarbeitsbekämpfungsgesetzes, § 21 Absatz 1 Nummer 1
-        bis 8, 10 und 11 sowie Absatz 2 des Mindestlohngesetzes, in § 23
-        Absatz 1 Nummer 1 bis 9 und 11 sowie Absatz 2 des Arbeitnehmer-
+        bis 10, 12 und 13 sowie Absatz 2 des Mindestlohngesetzes, in § 23
+        Absatz 1 Nummer 1 bis 11 und 13 sowie Absatz 2 des Arbeitnehmer-
         Entsendegesetzes und in § 16 Abs. 1 bis 2 des
         Arbeitnehmerüberlassungsgesetzes
 
@@ -6772,21 +6865,12 @@ sie der Behörde unmittelbar zu übersenden.
     Verwaltungsvorschriften, insoweit nur in anonymisierter Form,
 
 
-4.  die Vorbereitung von vergaberechtlichen Entscheidungen über
-    strafgerichtliche Verurteilungen und Bußgeldentscheidungen nach § 21
-    Abs. 1 des Schwarzarbeitsbekämpfungsgesetzes, § 21 Absatz 1 und 2 des
-    Mindestlohngesetzes,                    § 5 Absatz 1 oder 2 des
-    Arbeitnehmer-Entsendegesetzes in der bis zum 23. April 2009 geltenden
-    Fassung, § 23 Abs. 1 und 2 des
-    Arbeitnehmer-Entsendegesetzes                    und § 81 Absatz 1 bis
-    3 des Gesetzes gegen Wettbewerbsbeschränkungen,
+4.  (weggefallen)
 
 
 
-erteilt. Auskunftsberechtigt sind die Behörden und öffentlichen
-Auftraggeber im Sinne des § 99 des Gesetzes gegen
-Wettbewerbsbeschränkungen, denen die in Satz 1 bezeichneten Aufgaben
-obliegen.
+erteilt. Auskunftsberechtigt sind die Behörden, denen die in Satz 1
+bezeichneten Aufgaben obliegen.
 
 (2) Auskünfte aus dem Register werden ferner
 
@@ -6822,10 +6906,17 @@ obliegen.
 6.  den Verfassungsschutzbehörden des Bundes und der Länder, dem
     Bundesnachrichtendienst und dem Militärischen Abschirmdienst für die
     diesen Behörden übertragenen Sicherheitsaufgaben nach dem
-    Sicherheitsüberprüfungsgesetz des Bundes,
+    Sicherheitsüberprüfungsgesetz des Bundes oder einer entsprechenden
+    landesrechtlichen Vorschrift,
 
 
-7.  der Zentralstelle für Sanktionsdurchsetzung
+7.  der Zentralstelle für Sanktionsdurchsetzung,
+
+
+8.  der Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post
+    und Eisenbahnen zur Wahrnehmung ihrer Aufgaben nach Kapitel 2 des
+    Postgesetzes über die in § 149 Absatz 2 Satz 1 Nummer 3 bezeichneten
+    Eintragungen
 
 
 
@@ -6985,7 +7076,7 @@ Verfahren gilt § 150 Absatz 2 bis 4 entsprechend.
 (1) Erfolgt die Antragstellung abweichend von § 150 Absatz 2 oder
 Absatz 3 elektronisch, ist der Antrag unter Nutzung des im Internet
 angebotenen Zugangs unmittelbar bei der Registerbehörde oder über das
-Nutzerkonto nach § 3 Absatz 2 Satz 1 des Onlinezugangsgesetzes zu
+Nutzerkonto nach § 3 Absatz 1 Satz 1 des Onlinezugangsgesetzes zu
 stellen. Der Antragsteller kann sich bei der Antragstellung nicht
 durch einen Bevollmächtigten vertreten lassen. Handelt der
 Antragsteller als gesetzlicher Vertreter, hat er seine

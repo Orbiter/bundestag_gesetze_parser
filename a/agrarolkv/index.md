@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2021, 4655
 
-Geändert durch
-:   Art. 2 V v. 9.3.2023 I Nr. 61 mWv 15.3.2023
+Zuletzt geändert durch
+:   Art. 1 V v. 15.4.2025 I Nr. 115
 
 
 ## Eingangsformel
@@ -94,11 +94,11 @@ anerkannt werden.
 
 (4) Für Erzeugnisbereiche außerhalb des Absatzes 1, für die eine
 Anerkennung von Agrarorganisationen nach anderen Vorschriften
-vorgesehen ist, gelten Teil 1, § 33 Absatz 1, 2 und 3 Nummer 1, § 34
-und, soweit die Durchführung des Agrarorganisationenrechts betroffen
-ist, die §§ 32 und 33 Absatz 3 Nummer 2 und 3 dieser Verordnung nicht,
-soweit nicht in anderen Rechtsvorschriften etwas Abweichendes bestimmt
-ist.
+vorgesehen ist, gelten Teil 1, § 33 Absatz 1, 2 und 3 Nummer 1 und 2,
+§ 34 und, soweit die Durchführung des Agrarorganisationenrechts
+betroffen ist, die §§ 32 und 33 Absatz 3 Nummer 3 und 4 dieser
+Verordnung nicht, soweit nicht in anderen Rechtsvorschriften etwas
+Abweichendes bestimmt ist.
 
 
 #### § 2 Grundsatz der Anerkennung
@@ -981,7 +981,7 @@ Soweit das Unionsrecht nicht anerkannte Erzeugerorganisationen
 erfasst, gelten die §§ 26 und 32 entsprechend.
 
 
-## Teil 2 - Geschäftsbeziehungen in der Lebensmittellieferkette
+## Teil 2 - Geschäftsbeziehungen in der Agrar-, Fischerei- und Lebensmittellieferkette
 
 
 ### § 30 Beschwerdeverfahren
@@ -1003,13 +1003,6 @@ elf Monaten, über das Ergebnis der Beschwerde. Ist im Einzelfall eine
 abschließende Bewertung innerhalb des nach Satz 1 vorgegebenen
 Zeitraums nicht möglich, erteilt sie ihr oder ihm eine
 Zwischennachricht.
-
-(4) Über die Erteilung des Einvernehmens nach § 28 Absatz 2 Satz 1 des
-Agrarorganisationen-und-Lieferketten-Gesetzes entscheidet das
-Bundeskartellamt innerhalb von einem Monat, nachdem ihm die
-Durchsetzungsbehörde den Entwurf der Entscheidung und die
-entscheidungserheblichen Informationen im Sinne des § 28 Absatz 2 Satz
-4 des Agrarorganisationen-und-Lieferketten-Gesetzes übermittelt hat.
 
 
 ### § 31 Jahresbericht
@@ -1064,11 +1057,17 @@ insbesondere
 
 
 
+Die Durchsetzungsbehörde kann Zeugen verpflichten, zur Sache
+auszusagen, und Sachverständige verpflichten, ein Gutachten zu
+erstatten, sofern dies zur Überwachung der Vorgaben über
+Geschäftsbeziehungen in der Agrar-, Fischerei- und
+Lebensmittellieferkette erforderlich ist.
 
 (2) Die Agrarorganisation, der Käufer und der Lieferant sind
 verpflichtet,
 
-1.  die in Absatz 1 Nummer 1 bis 4 genannten Handlungen zu dulden und
+1.  die in Absatz 1 Satz 1 Nummer 1 bis 4 genannten Handlungen zu dulden
+    und
 
 
 2.  bei Maßnahmen nach Absatz 1 mitzuwirken, insbesondere auf Verlangen
@@ -1087,6 +1086,35 @@ selbst oder einen ihrer in § 383 Absatz 1 Nummer 1 bis 3 der
 Zivilprozessordnung bezeichneten Angehörigen der Gefahr
 strafgerichtlicher Verfolgung oder eines Verfahrens nach dem Gesetz
 über Ordnungswidrigkeiten aussetzen würde.
+
+
+### § 32a Zeugen- und Sachverständigenvernehmung
+
+(1) Für den Beweis durch Zeugen und Sachverständige gemäß § 32 Absatz
+1 Satz 2 sind die §§ 376 bis 378, 380 bis 387, 390, 395 bis 397, 398
+Absatz 1 und die §§ 401, 402, 404, 404a, 406 bis 409 und 411 bis 414
+der Zivilprozessordnung sinngemäß anzuwenden; Haft darf nicht verhängt
+werden. Für die Entscheidung über die Beschwerde ist das gemäß § 32
+Absatz 1 des Agrarorganisationen-und-Lieferketten-Gesetzes zuständige
+Gericht zuständig. § 32 Absatz 3 bleibt durch Satz 1 unberührt.
+
+(2) Die Zeugenaussage soll schriftlich protokolliert werden. Das
+Protokoll soll Ort und Tag der Vernehmung, die Namen der bei der
+Zeugenvernehmung anwesenden Personen sowie die Unterschrift der mit
+der Vernehmung beauftragten Person und, wenn ein Urkundsbeamter
+zugezogen ist, auch die Unterschrift von diesem enthalten.
+
+(3) Das Protokoll ist dem Zeugen zur Genehmigung vorzulesen oder zur
+eigenen Durchsicht vorzulegen. Die Genehmigung soll schriftlich
+erfolgen. Eine mündlich erteilte Genehmigung ist zu vermerken.
+
+(4) Bei der Vernehmung von Sachverständigen sind die Absätze 2 und 3
+entsprechend anzuwenden.
+
+(5) Die Durchsetzungsbehörde kann das Amtsgericht um die Beeidigung
+von Zeugen ersuchen, wenn sie die Beeidigung zur Herbeiführung einer
+wahrheitsgemäßen Aussage für notwendig erachtet. Über die Beeidigung
+entscheidet das Gericht.
 
 
 ### § 33 Ordnungswidrigkeiten
@@ -1128,16 +1156,16 @@ oder fahrlässig
     aufbewahrt,
 
 
-2.  entgegen § 32 Absatz 2 Nummer 1 eine dort genannte Handlung nicht
-    duldet,
+2.  entgegen § 28 Absatz 2 Satz 1 eine Mitteilung nicht, nicht richtig,
+    nicht vollständig oder nicht rechtzeitig macht,
 
 
-3.  entgegen § 32 Absatz 2 Nummer 2 bei einer dort genannten Maßnahme
-    nicht mitwirkt oder
+3.  entgegen § 32 Absatz 2 Nummer 1 eine dort genannte Handlung nicht
+    duldet oder
 
 
-4.  entgegen § 28 Absatz 2 Satz 1 die dort genannten Informationen nicht,
-    nicht vollständig oder nicht rechtzeitig mitteilt.
+4.  entgegen § 32 Absatz 2 Nummer 2 bei einer dort genannten Maßnahme
+    nicht mitwirkt.
 
 
 
@@ -1189,7 +1217,8 @@ Der Bundesrat hat zugestimmt.
 
 ### Anlage Ergänzungen von Erzeugnisbereichen und weitere Erzeugnisbereiche
 
-(Fundstelle: BGBl. I 2021, 4665 - 4666)
+(Fundstelle: BGBl. I 2021, 4665 - 4666; bzgl. der einzelnen Änderungen
+vgl. Fußnote)
 
 
 
@@ -1202,10 +1231,11 @@ Der Bundesrat hat zugestimmt.
     *   Im Folgenden meint KN-Code eine Position im Rahmen der Verordnung
         (EWG) Nr. 2658/87 des Rates vom 23. Juli 1987 über die zolltarifliche
         und statistische Nomenklatur sowie den Gemeinsamen Zolltarif (ABl. L
-        256 vom 7.9.1987, S. 1), die zuletzt durch die Durchführungsverordnung
-        (EU) 2020/2159 der Kommission vom 16. Dezember 2020 (ABl. L 431 vom
-        21\.12.2020, S. 34) geändert worden ist, in der jeweils geltenden
-        Fassung.
+        256 vom 7.9.1987, S. 1; L 341 vom 3.12.1987, S. 38; L 378 vom
+        31\.12.1987, S. 120; L 130 vom 26.5.1988, S. 42; ABl. L 151 vom
+        8\.6.2016, S. 22), die zuletzt durch die Durchführungsverordnung (EU)
+        2024/2717 (ABl. L 2024/2717 vom 25.10.2024) geändert worden ist, in
+        der jeweils geltenden Fassung.
 
     *
 

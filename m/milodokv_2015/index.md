@@ -39,14 +39,14 @@ Erstellen und Bereithalten von Dokumenten nach § 17 Absatz 1 und 2 des
 Mindestlohngesetzes werden vorbehaltlich des Absatzes 3 dahingehend
 eingeschränkt, dass sie nicht gelten für Arbeitnehmer und
 Arbeitnehmerinnen, deren verstetigtes regelmäßiges Monatsentgelt
-brutto 4 319 Euro überschreitet. Für die Ermittlung des verstetigten
+brutto 4 461 Euro überschreitet. Für die Ermittlung des verstetigten
 Monatsentgelts sind ungeachtet ihrer Anrechenbarkeit auf den
 gesetzlichen Mindestlohnanspruch nach den §§ 1 und 20 des
 Mindestlohngesetzes sämtliche verstetigte monatliche Zahlungen des
 Arbeitgebers zu berücksichtigen, die regelmäßiges monatliches
 Arbeitsentgelt sind. Satz 1 und Satz 2 gelten entsprechend für
 Arbeitnehmer und Arbeitnehmerinnen, deren verstetigtes regelmäßiges
-Monatsentgelt brutto 2 879 Euro überschreitet, wenn der Arbeitgeber
+Monatsentgelt brutto 2 974 Euro überschreitet, wenn der Arbeitgeber
 dieses Monatsentgelt für die letzten vollen zwölf Monate nachweislich
 gezahlt hat; Zeiten ohne Anspruch auf Arbeitsentgelt bleiben bei der
 Berechnung des Zeitraums von zwölf Monaten unberücksichtigt.

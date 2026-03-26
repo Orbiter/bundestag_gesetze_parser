@@ -16,13 +16,13 @@ Fundstelle
 :   BGBl I: 1974, 1505
 
 Zuletzt geändert durch
-:   Art. 17 G v. 24.6.2022 I 959
+:   Art. 4 G v. 30.9.2025 I Nr. 233
 
 
 ## § 1
 
-(1) Im Geschäftsbereich des Bundesministeriums für Umwelt, Naturschutz
-nukleare Sicherheit und Verbraucherschutz ist eine selbständige
+(1) Im Geschäftsbereich des Bundesministeriums für Umwelt,
+Klimaschutz, Naturschutz und nukleare Sicherheit ist eine selbständige
 Bundesoberbehörde unter der Bezeichnung "Umweltbundesamt" errichtet.
 
 (2) Das Umweltbundesamt hat seinen Sitz in Dessau.
@@ -33,14 +33,13 @@ Bundesoberbehörde unter der Bezeichnung "Umweltbundesamt" errichtet.
 ## § 2
 
 (1) Das Umweltbundesamt erledigt in eigener Zuständigkeit
-Verwaltungsaufgaben auf dem Gebiet der Umwelt, der gesundheitlichen
-Belange des Umweltschutzessowie des Verbraucherschutzes und der
-Verbraucherrechtsdurchsetzung, die ihm durch dieses Gesetz oder andere
+Verwaltungsaufgaben auf dem Gebiet der Umwelt und der gesundheitlichen
+Belange des Umweltschutzes, die ihm durch dieses Gesetz oder andere
 Bundesgesetze zugewiesen werden. Das Umweltbundesamt hat insbesondere
 folgende Aufgaben:
 
-1.  Wissenschaftliche Unterstützung des Bundesministeriums Umwelt,
-    Naturschutz nukleare Sicherheit und Verbraucherschutz in allen
+1.  Wissenschaftliche Unterstützung des Bundesministeriums für Umwelt,
+    Klimaschutz, Naturschutz und nukleare Sicherheit in allen
     Angelegenheiten des Immissions- und Bodenschutzes, der Abfall- und
     Wasserwirtschaft, der gesundheitlichen Belange des Umweltschutzes,
     insbesondere bei der Erarbeitung von Rechts- und
@@ -65,24 +64,24 @@ wissenschaftliche Forschung auf den in Absatz 1 genannten Gebieten.
 
 (3) Ferner können Verwaltungsaufgaben des Bundes auf den in Absatz 1
 genannten Gebieten mit Zustimmung des Bundesministeriums für Umwelt,
-Naturschutz nukleare Sicherheit und Verbraucherschutz dem
-Umweltbundesamt zur Erledigung in eigener Zuständigkeit zugewiesen
-werden, sofern die Übertragung solcher Aufgaben auf andere
-Bundesbehörden durch Bundesgesetz zugelassen ist oder wird.
+Klimaschutz, Naturschutz und nukleare Sicherheit dem Umweltbundesamt
+zur Erledigung in eigener Zuständigkeit zugewiesen werden, sofern die
+Übertragung solcher Aufgaben auf andere Bundesbehörden durch
+Bundesgesetz zugelassen ist oder wird.
 
 (4) Das Umweltbundesamt erledigt als beauftragte Behörde, soweit keine
 andere Zuständigkeit gesetzlich festgelegt ist, Verwaltungsaufgaben
 des Bundes auf den in Absatz 1 genannten Gebieten, mit deren
-Durchführung es vom Bundesministerium für Umwelt, Naturschutz nukleare
-Sicherheit und Verbraucherschutz oder mit seiner Zustimmung von der
+Durchführung es vom Bundesministerium für Umwelt, Klimaschutz,
+Naturschutz und nukleare Sicherheit oder mit seiner Zustimmung von der
 sachlich zuständigen obersten Bundesbehörde beauftragt wird.
 
 
 ## § 3
 
 Soweit im Umweltbundesamt Aufgaben aus einem anderen Geschäftsbereich
-als dem des Bundesministeriums für Umwelt, Naturschutz nukleare
-Sicherheit und Verbraucherschutz erledigt werden, steht das fachliche
+als dem des Bundesministeriums für Umwelt, Klimaschutz, Naturschutz
+und nukleare Sicherheit erledigt werden, steht das fachliche
 Weisungsrecht der sachlich zuständigen obersten Bundesbehörde zu.
 
 

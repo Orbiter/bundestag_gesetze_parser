@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 25.9.2001 I 2518
 
 Zuletzt geändert durch
-:   Art. 6d G v. 16.9.2022 I 1454
+:   Art. 1 G v. 19.7.2024 I Nr. 248
 
 § 21a idF d. Art. 1 Nr. 51 G v. 23.7.2001 I 1852 dient der Umsetzung
 des Artikels 6 der Richtlinie 2001/23/EG des Rates vom 12. März 2001
@@ -1110,7 +1110,16 @@ einschließlich eines Zeitraums von einem Jahr nach Beendigung der
 Amtszeit nicht geringer bemessen werden als das Arbeitsentgelt
 vergleichbarer Arbeitnehmer mit betriebsüblicher beruflicher
 Entwicklung. Dies gilt auch für allgemeine Zuwendungen des
-Arbeitgebers.
+Arbeitgebers. Zur Bestimmung der vergleichbaren Arbeitnehmer nach Satz
+1 ist auf den Zeitpunkt der Übernahme des Betriebsratsamtes
+abzustellen, soweit nicht ein sachlicher Grund für eine spätere
+Neubestimmung vorliegt. Arbeitgeber und Betriebsrat können in einer
+Betriebsvereinbarung ein Verfahren zur Festlegung vergleichbarer
+Arbeitnehmer regeln. Die Konkretisierung der Vergleichbarkeit in einer
+solchen Betriebsvereinbarung kann nur auf grobe Fehlerhaftigkeit
+überprüft werden; Gleiches gilt für die Festlegung der
+Vergleichspersonen, soweit sie einvernehmlich zwischen Arbeitgeber und
+Betriebsrat erfolgt und in Textform dokumentiert ist.
 
 (5) Soweit nicht zwingende betriebliche Notwendigkeiten
 entgegenstehen, dürfen Mitglieder des Betriebsrats einschließlich
@@ -2246,6 +2255,12 @@ Beschwerdestelle (§ 86) sowie Auskunftspersonen (§ 80 Absatz 2 Satz 4)
 dürfen in der Ausübung ihrer Tätigkeit nicht gestört oder behindert
 werden. Sie dürfen wegen ihrer Tätigkeit nicht benachteiligt oder
 begünstigt werden; dies gilt auch für ihre berufliche Entwicklung.
+Eine Begünstigung oder Benachteiligung liegt im Hinblick auf das
+gezahlte Arbeitsentgelt nicht vor, wenn das Mitglied einer in Satz 1
+genannten Vertretung in seiner Person die für die Gewährung des
+Arbeitsentgelts erforderlichen betrieblichen Anforderungen und
+Kriterien erfüllt und die Festlegung nicht ermessensfehlerhaft
+erfolgt.
 
 
 #### § 78a Schutz Auszubildender in besonderen Fällen

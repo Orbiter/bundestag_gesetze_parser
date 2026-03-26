@@ -16,13 +16,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2013, 4145
 
-Stand: Ersetzt V 7833-3-13 v. 4.11.1999 I 2156
 Zuletzt geändert durch
-:   Art. 142 G v. 29.3.2017 I 626
+:   Art. 2 V v. 11.8.2021 I 3570
 
-Änderung durch
-:   Art. 2 V v. 11.8.2021 I 3570 (Nr. 54) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
+Stand: Ersetzt V 7833-3-13 v. 4.11.1999 I 2156
 
 ## § 1 Meldeverfahren
 
@@ -101,7 +98,8 @@ gelten.
 
 ## Anlage (zu § 1 Absatz 2) Meldung von in Tierversuchen verwendeten Wirbeltieren oder Kopffüßern oder nach § 4 Absatz 3 des Tierschutzgesetzes verwendeten Wirbeltieren für das Jahr: \_\_\__\_\_
 
-(Fundstelle: BGBl. I 2013, 4147 - 4152)
+(Fundstelle: BGBl. I 2013, 4147 - 4152;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *   **A**

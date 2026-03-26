@@ -16,10 +16,10 @@ Fundstelle
 :   BGBl I: 1995, 1250, 1378 (1996 I 714)
 
 Neugefasst durch
-:   Bek. v. 28.1.2009 I 142, 3177
+:   Bek. v. 28.1.2009 I 142, 3177;
 
 Zuletzt geändert durch
-:   Art. 10 G v. 16.12.2022 I 2328
+:   Art. 19 G v. 22.12.2025 I Nr. 355
 
 
 ## Erster Abschnitt - Leistungen
@@ -95,17 +95,20 @@ nur, wenn er
         Absatz 1 des Aufenthaltsgesetzes zum Zweck der Beschäftigung als Au-
         Pair oder zum Zweck der Saisonbeschäftigung, nach § 19e des
         Aufenthaltsgesetzes zum Zweck der Teilnahme an einem Europäischen
-        Freiwilligendienst oder nach § 20 Absatz 1 und 2 des
-        Aufenthaltsgesetzes zur Arbeitsplatzsuche erteilt,
+        Freiwilligendienst oder nach § 20a Absatz 5 Satz 1 des
+        Aufenthaltsgesetzes zur Suche nach einer Erwerbstätigkeit oder nach
+        Maßnahmen zur Anerkennung ausländischer Berufsqualifikationen erteilt,
 
 
     b)  nach § 16b des Aufenthaltsgesetzes zum Zweck eines Studiums, nach §
         16d des Aufenthaltsgesetzes für Maßnahmen zur Anerkennung
-        ausländischer Berufsqualifikationen oder nach § 20 Absatz 3 des
-        Aufenthaltsgesetzes zur Arbeitsplatzsuche erteilt und er ist weder
-        erwerbstätig noch nimmt er Elternzeit nach § 15 des Bundeselterngeld-
-        und Elternzeitgesetzes oder laufende Geldleistungen nach dem Dritten
-        Buch Sozialgesetzbuch in Anspruch,
+        ausländischer Berufsqualifikationen, nach § 20 des Aufenthaltsgesetzes
+        zur Suche nach einer Erwerbstätigkeit oder nach § 20a Absatz 5 Satz 2
+        des Aufenthaltsgesetzes zur Suche nach einer Erwerbstätigkeit oder
+        nach Maßnahmen zur Anerkennung ausländischer Berufsqualifikationen
+        erteilt und er ist weder erwerbstätig noch nimmt er Elternzeit nach §
+        15 des Bundeselterngeld- und Elternzeitgesetzes oder laufende
+        Geldleistungen nach dem Dritten Buch Sozialgesetzbuch in Anspruch,
 
 
     c)  nach § 23 Absatz 1 des Aufenthaltsgesetzes wegen eines Krieges in
@@ -380,9 +383,12 @@ ist, nachzuholen ist.
 
 ### § 6 Höhe des Kindergeldes
 
-(1) Das Kindergeld beträgt monatlich für jedes Kind 250 Euro.
+(1) Das Kindergeld beträgt monatlich für jedes Kind 259 Euro.
 
-(2) (weggefallen)
+(2) Werden die Freibeträge für Kinder nach § 31 Satz 1 in Verbindung
+mit § 32 Absatz 6 Satz 1 des Einkommensteuergesetzes angehoben, wird
+das Kindergeld entsprechend erhöht. Das Kindergeld ist dabei auf volle
+Euro kaufmännisch zu runden.
 
 (3) Darüber hinaus wird für jedes Kind, für das für den Monat Juli
 2022 ein Anspruch auf Kindergeld besteht, für den Monat Juli 2022 ein
@@ -457,7 +463,7 @@ Mindestunterhaltsverordnung maßgeblich. Als Höchstbetrag des
 Kinderzuschlags in dem jeweiligen Kalenderjahr gilt der Betrag, der
 sich zu Beginn des Jahres nach den Sätzen 1 und 2 ergibt, mindestens
 jedoch ein Betrag in Höhe des Vorjahres. Der Betrag nach Satz 3 erhöht
-sich ab 1. Juli 2022 um einen Sofortzuschlag in Höhe von 20 Euro.
+sich um einen Sofortzuschlag in Höhe von 25 Euro.
 
 (3) Ausgehend vom Höchstbetrag mindert sich der jeweilige
 Kinderzuschlag, wenn das Kind nach den §§ 11 bis 12 des Zweiten Buches
@@ -648,10 +654,22 @@ Angelegenheit aus.
 
 ### § 7a Datenübermittlung
 
-Die Träger der Leistungen nach § 6b und die Träger der Grundsicherung
-für Arbeitsuchende teilen sich alle Tatsachen mit, die für die
-Erbringung und Abrechnung der Leistungen nach § 6b dieses Gesetzes und
-§ 28 des Zweiten Buches Sozialgesetzbuch erforderlich sind.
+(1) Die Träger der Leistungen nach § 6b und die Träger der
+Grundsicherung für Arbeitsuchende teilen sich alle Tatsachen mit, die
+für die Erbringung und Abrechnung der Leistungen nach § 6b dieses
+Gesetzes und § 28 des Zweiten Buches Sozialgesetzbuch erforderlich
+sind.
+
+(2) Die zuständige Familienkasse übermittelt dem Bundeszentralamt für
+Steuern unter den Vorgaben des § 139b Absatz 10 Satz 2 und 3 der
+Abgabenordnung die internationale Bankkontonummer (IBAN), bei
+ausländischen Kreditinstituten auch den internationalen Banken-
+Identifizierungsschlüssel (BIC), des Kontos, auf welches das
+Kindergeld zuletzt ausgezahlt worden ist. Ist in den Fällen des Satzes
+1 der Familienkasse die Identifikationsnummer nicht bekannt, darf sie
+diese Identifikationsnummer unter Angabe der in § 139b Absatz 3 der
+Abgabenordnung genannten Daten beim Bundeszentralamt für Steuern
+abfragen.
 
 
 ### § 7b Automatisiertes Abrufverfahren
@@ -724,21 +742,27 @@ angemessene Frist zur Erfüllung der Pflicht setzen.
 (2) Auszuzahlende Beträge sind auf Euro abzurunden, und zwar unter 50
 Cent nach unten, sonst nach oben.
 
-(3) § 45 Absatz 3 des Zehnten Buches Sozialgesetzbuch findet keine
+(3) Abweichend von § 47 Absatz 1 des Ersten Buches Sozialgesetzbuch
+werden das sozialrechtliche Kindergeld und der Kinderzuschlag
+ausschließlich auf das angegebene Konto bei einem Geldinstitut, für
+das die Verordnung (EU) Nr. 260/2012 gilt, überwiesen. Die Überweisung
+erfolgt kostenfrei.
+
+(4) § 45 Absatz 3 des Zehnten Buches Sozialgesetzbuch findet keine
 Anwendung.
 
-(4) Ein rechtswidriger nicht begünstigender Verwaltungsakt ist
+(5) Ein rechtswidriger nicht begünstigender Verwaltungsakt ist
 abweichend von § 44 Absatz 1 des Zehnten Buches Sozialgesetzbuch für
 die Zukunft zurückzunehmen; er kann ganz oder teilweise auch für die
 Vergangenheit zurückgenommen werden.
 
-(5) Wird ein Verwaltungsakt über die Bewilligung von Kinderzuschlag
+(6) Wird ein Verwaltungsakt über die Bewilligung von Kinderzuschlag
 aufgehoben, sind bereits erbrachte Leistungen abweichend von § 50
 Absatz 1 des Zehnten Buches Sozialgesetzbuch nicht zu erstatten,
 soweit der Bezug von Kinderzuschlag den Anspruch auf Leistungen nach
 dem Zweiten Buch Sozialgesetzbuch ausschließt oder mindert.
 
-(6) Entsprechend anwendbar sind die Vorschriften des Dritten Buches
+(7) Entsprechend anwendbar sind die Vorschriften des Dritten Buches
 Sozialgesetzbuch über
 
 1.  die Aufhebung von Verwaltungsakten (§ 330 Absatz 2, 3 Satz 1) sowie
@@ -789,12 +813,17 @@ Kindergeld und Kinderzuschlag einheitlich einer anderen Familienkasse
 die für die Durchführung zuständigen Behörden.
 
 
-### § 14 Bescheid
+### § 14 Bescheid, Bekanntgabe von Verwaltungsakten durch Bereitstellung zum Datenabruf
 
-Wird der Antrag auf Kindergeld, Kinderzuschlag oder Leistungen für
+(1) Wird der Antrag auf Kindergeld, Kinderzuschlag oder Leistungen für
 Bildung und Teilhabe abgelehnt, ist ein Bescheid zu erteilen. Das
-Gleiche gilt, wenn das Kindergeld, Kinderzuschlag oder Leistungen für
-Bildung und Teilhabe entzogen werden.
+Gleiche gilt, wenn das Kindergeld, der Kinderzuschlag oder die
+Leistungen für Bildung und Teilhabe entzogen werden.
+
+(2) Abweichend von § 37 Absatz 2a des Zehnten Buches Sozialgesetzbuch
+gilt für die Bekanntgabe von elektronischen Verwaltungsakten zum
+Kindergeld und zum Kinderzuschlag § 9 Absatz 1 des
+Onlinezugangsgesetzes.
 
 
 ### § 15 Rechtsweg
@@ -1028,7 +1057,10 @@ anzuwenden, die Zeiträume betreffen, die nach dem 31. Dezember 2019
 beginnen. § 1 Absatz 3 Nummer 2 Buchstabe c in der Fassung des
 Artikels 5 Nummer 1 des Gesetzes vom 23. Mai 2022 (BGBl. I S. 760) ist
 für Entscheidungen anzuwenden, die Zeiträume betreffen, die nach dem
-31\. Mai 2022 beginnen.
+31\. Mai 2022 beginnen. § 1 Absatz 3 Satz 1 Nummer 2 in der Fassung des
+Artikels 42 des Gesetzes vom 2. Dezember 2024 (BGBl. 2024 I Nr. 387)
+ist für Entscheidungen anzuwenden, die Zeiträume betreffen, die nach
+dem 31. Mai 2024 beginnen.
 
 
 ### § 21 Sondervorschrift zur Steuerfreistellung des Existenzminimums eines Kindes in den Veranlagungszeiträumen 1983 bis 1995 durch Kindergeld

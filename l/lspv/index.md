@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1993, 2428
 
 Zuletzt geändert durch
-:   Art. 1 V v. 27.1.2016 I 157
+:   Art. 8 V v. 24.6.2024 I Nr. 215
 
 
 ## Eingangsformel
@@ -82,18 +82,22 @@ das Bundesministerium für Ernährung und Landwirtschaft.
 
 ## § 3 Einspruchsverfahren
 
-(1) Ein Einspruch nach Artikel 51 Absatz 1 Unterabsatz 2 der
-Verordnung (EU) Nr. 1151/2012 des Europäischen Parlaments und des
-Rates vom 21. November 2012 über Qualitätsregelungen für
-Agrarerzeugnisse und Lebensmittel (ABl. L 343 vom 14.12.2012, S. 1) in
-der jeweils geltenden Fassung ist unter Verwendung des in Anhang III
-der Durchführungsverordnung (EU) Nr. 668/2014 vorgegebenen Musters bei
-der Bundesanstalt einzureichen.
+(1) Ein Einspruch nach Artikel 61 Absatz 2 der Verordnung (EU)
+2024/1143 des Europäischen Parlaments und des Rates vom 11. April 2024
+über geografische Angaben für Wein, Spirituosen und
+landwirtschaftliche Erzeugnisse und über garantiert traditionelle
+Spezialitäten und fakultative Qualitätsangaben für landwirtschaftliche
+Erzeugnisse sowie zur Änderung der Verordnungen (EU) Nr. 1308/2013,
+(EU) 2019/787 und (EU) 2019/1753 und zur Aufhebung der Verordnung (EU)
+Nr. 1151/2012 (ABl. L, 2024/1143, 23.4.2024) in der jeweils geltenden
+Fassung ist unter Verwendung des in Anhang III der
+Durchführungsverordnung (EU) Nr. 668/2014 vorgegebenen Musters bei der
+Bundesanstalt einzureichen.
 
 (2) Fordert die Europäische Kommission wegen eines Einspruches nach
 Absatz 1 zur Einigung mit einem anderen Mitgliedstaat der Europäischen
-Union nach Artikel 51 Absatz 3 der Verordnung (EU) Nr. 1151/2012 auf,
-so ist der betreffende Einspruchsführer durch die Bundesanstalt
+Union nach Artikel 61 Absatz 4 der Verordnung (EU) 2024/1143 auf, so
+ist der betreffende Einspruchsführer durch die Bundesanstalt
 angemessen zu beteiligen.
 
 (3) Absatz 2 gilt im Falle eines nach § 1 Abs. 1 gestellten und an die
@@ -113,8 +117,16 @@ einzureichen. § 1 Absatz 2 bis 4 und die §§ 2 und 3 sind entsprechend
 anzuwenden.
 
 
-## § 5 (weggefallen)
+## § 5 Übergangsregelung aus Anlass der Verordnung (EU) 2024/1143
 
+Soweit nach den in den Artikeln 90 und 91 der Verordnung (EU)
+2024/1143 enthaltenen Übergangsbestimmungen Vorschriften der
+Verordnung (EU) Nr. 1151/2012 des Europäischen Parlaments und des
+Rates vom 21. November 2012 über Qualitätsregelungen für
+Agrarerzeugnisse und Lebensmittel (ABl. L 343 vom 14.12.2012, S. 1) in
+ihrer jeweils in Bezug genommenen Fassung weiterhin Anwendung finden,
+ist § 5 Absatz 1 und 2 in der bis zum 27. Juni 2024 geltenden Fassung
+weiter anzuwenden.
 
 
 ## § 6 Inkrafttreten

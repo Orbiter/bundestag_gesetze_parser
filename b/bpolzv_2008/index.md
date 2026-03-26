@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2008, 250
 
 Zuletzt geändert durch
-:   Art. 28 V v. 19.6.2020 I 1328
+:   Art. 10 G v. 25.10.2024 I Nr. 332
 
 Stand: Ersetzt V v. 28.6.2005 I 1870 mWv 1.3.2008
 
@@ -72,7 +72,10 @@ sachlich zuständig:
         Rechtsverordnung bestimmte Bundespolizeibehörde verwiesen wird,
 
 
-    g)  § 1 Absatz 1 des Rechtsextremismus-Datei-Gesetzes;
+    g)  § 1 Absatz 1 des Rechtsextremismus-Datei-Gesetzes,
+
+
+    h)  § 5 Absatz 5 und § 6 Absatz 1 des Waffengesetzes;
 
 
 

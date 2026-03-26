@@ -15,7 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1998, 1998
 
-Stand: Zuletzt geändert Art. 11 G v. 11.12.2018 I 2338
+Zuletzt geändert durch
+:   Art. 15 G v. 2.12.2024 I Nr. 387
+
 
 ## Abschnitt 1 - Unmittelbare Steuerberechtigung
 
@@ -272,15 +274,15 @@ auf die verbleibende Körperschaftsteuer.
 
 (7) Körperschaften im Sinne des § 2 Absatz 1 haben für jeden
 Veranlagungszeitraum eine Erklärung zur Zerlegung der
-Körperschaftsteuer nach amtlich vorgeschriebenem Datensatz durch
-Datenfernübertragung zu übermitteln. Auf Antrag kann die Finanzbehörde
-zur Vermeidung unbilliger Härten auf eine elektronische Übermittlung
-verzichten. In diesem Fall ist die Erklärung nach amtlich
-vorgeschriebenem Vordruck abzugeben und vom gesetzlichen Vertreter des
-Steuerpflichtigen eigenhändig zu unterschreiben. Eine Körperschaft ist
-auch dann verpflichtet eine Erklärung zur Zerlegung der
-Körperschaftsteuer zu übermitteln, wenn sie hierzu vom zuständigen
-Finanzamt aufgefordert wird.
+Körperschaftsteuer nach amtlich vorgeschriebenem Datensatz über die
+amtlich bestimmte Schnittstelle elektronisch zu übermitteln. Auf
+Antrag kann die Finanzbehörde zur Vermeidung unbilliger Härten auf
+eine elektronische Übermittlung verzichten. In diesem Fall ist die
+Erklärung nach amtlich vorgeschriebenem Vordruck abzugeben und vom
+gesetzlichen Vertreter des Steuerpflichtigen eigenhändig zu
+unterschreiben. Eine Körperschaft ist auch dann verpflichtet eine
+Erklärung zur Zerlegung der Körperschaftsteuer zu übermitteln, wenn
+sie hierzu vom zuständigen Finanzamt aufgefordert wird.
 
 
 ## Abschnitt 3 - Zerlegung der Lohnsteuer

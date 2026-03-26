@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1981, 1442
 
 Zuletzt geändert durch
-:   Art. 1 V v. 10.6.2022 I 877
+:   Art. 5 V v. 19.12.2025 I Nr. 372
 
 
 ## Eingangsformel
@@ -53,35 +53,20 @@ sinngemäßer Anwendung der Vorschriften dieser Verordnung zu bemessen.
 
 ### § 3 Auslagen
 
-(1) Mit den Gebühren werden auch die allgemeinen Geschäftskosten
-entgolten.
-
-(2) Der Anspruch auf Zahlung der auf die Vergütung entfallenden
-Umsatzsteuer und auf Ersatz für Post- und
-Telekommunikationsdienstleistungen zu zahlende Entgelte, der
-Dokumentenpauschale und der Reisekosten bestimmt sich nach den §§ 15
-bis 20.
+Mit den Gebühren werden auch die allgemeinen Geschäftskosten
+entgolten. Soweit im Dritten Abschnitt nichts anderes bestimmt ist,
+kann der Steuerberater Ersatz der entstandenen Aufwendungen (§ 675 in
+Verbindung mit § 670 des Bürgerlichen Gesetzbuchs) verlangen.
 
 
-### § 4 Vereinbarung der Vergütung
+### § 4 Vergütungsvereinbarung
 
-(1) Aus einer Vereinbarung kann der Steuerberater eine höhere als die
-gesetzliche Vergütung nur fordern, wenn die Erklärung des
-Auftraggebers in Textform abgegeben ist. Ist das Schriftstück nicht
-vom Auftraggeber verfasst, muss
-
-1.  das Schriftstück als Vergütungsvereinbarung oder in vergleichbarer
-    Weise bezeichnet sein,
-
-
-2.  das Schriftstück von anderen Vereinbarungen mit Ausnahme der
-    Auftragserteilung deutlich abgesetzt sein und darf nicht in der
-    Vollmacht enthalten sein.
-
-
-
-Art und Umfang des Auftrags nach Satz 2 sind zu bezeichnen. Hat der
-Auftraggeber freiwillig und ohne Vorbehalt geleistet, kann er das
+(1) Eine Vereinbarung über die Vergütung bedarf der Textform. Sie muss
+als Vergütungsvereinbarung oder in vergleichbarer Weise bezeichnet
+werden, von anderen Vereinbarungen mit Ausnahme der Auftragserteilung
+deutlich abgesetzt sein und darf nicht in der Vollmacht enthalten
+sein. Art und Umfang des Auftrags nach Satz 2 sind zu bezeichnen. Hat
+der Auftraggeber freiwillig und ohne Vorbehalt geleistet, kann er das
 Geleistete nicht deshalb zurückfordern, weil seine Erklärung den
 Vorschriften der Sätze 1 bis 3 nicht entspricht.
 
@@ -90,15 +75,26 @@ Umstände unangemessen hoch, so kann sie im Rechtsstreit auf den
 angemessenen Betrag bis zur Höhe der sich aus dieser Verordnung
 ergebenden Vergütung herabgesetzt werden.
 
-(3) In außergerichtlichen Angelegenheiten kann eine niedrigere als die
-gesetzliche Vergütung unter den Formerfordernissen des Absatzes 1
-vereinbart werden. Sie muss in einem angemessenen Verhältnis zu der
-Leistung, der Verantwortung und dem Haftungsrisiko des Steuerberaters
-stehen.
-
-(4) Der Steuerberater hat den Auftraggeber in Textform darauf
+(3) Der Steuerberater hat den Auftraggeber in Textform darauf
 hinzuweisen, dass eine höhere oder niedrigere als die gesetzliche
 Vergütung in Textform vereinbart werden kann.
+
+
+### § 4a Unterschreiten der gesetzlichen Vergütung
+
+In außergerichtlichen Angelegenheiten kann eine niedrigere als die
+gesetzliche Vergütung vereinbart werden. Sie muss in einem
+angemessenen Verhältnis zu Leistung, Verantwortung und Haftungsrisiko
+des Steuerberaters stehen.
+
+
+### § 4b Fehlerhafte Vergütungsvereinbarung
+
+Aus einer Vergütungsvereinbarung, die nicht den Anforderungen des § 4
+Absatz 1 Satz 1 und 2 entspricht, kann der Steuerberater keine höhere
+als die gesetzliche Vergütung fordern. Die Vorschriften des
+bürgerlichen Rechts über die ungerechtfertigte Bereicherung bleiben
+unberührt.
 
 
 ### § 5 Mehrere Steuerberater
@@ -135,11 +131,9 @@ angemessenen Vorschuß fordern.
 
 ### § 9 Berechnung
 
-(1) Der Steuerberater kann die Vergütung nur auf Grund einer dem
-Auftraggeber mitgeteilten Berechnung einfordern. Die Berechnung ist
-von dem Steuerberater zu unterzeichnen oder vorbehaltlich der
-Zustimmung des Auftraggebers in Textform zu erstellen. Die Zustimmung
-muss nicht für jede Berechnung einzeln erteilt werden. Der Lauf der
+(1) Der Steuerberater kann die Vergütung nur aufgrund einer von ihm
+oder auf seine Veranlassung dem Auftraggeber mitgeteilten Berechnung
+fordern; die Berechnung bedarf der Textform. Der Lauf der
 Verjährungsfrist ist von der Mitteilung der Berechnung nicht abhängig.
 
 (2) In der Berechnung sind die Beträge der einzelnen Gebühren und
@@ -229,50 +223,14 @@ Die Zeitgebühr ist zu berechnen
 
 
 2.  wenn keine genügenden Anhaltspunkte für eine Schätzung des
-    Gegenstandswerts vorliegen; dies gilt nicht für Tätigkeiten nach § 23
-    sowie für die Vertretung im außergerichtlichen Rechtsbehelfsverfahren
-    (§ 40), im Verwaltungsvollstreckungsverfahren (§ 44) und in
-    gerichtlichen und anderen Verfahren (§§ 45, 46).
+    Gegenstandswerts vorliegen; dies gilt nicht für Tätigkeiten nach § 23.
 
 
 
-Sie beträgt 30 bis 75 Euro je angefangene halbe Stunde.
+Sie beträgt 16,50 bis 41 Euro je angefangene viertel Stunde.
 
 
-### § 14 Pauschalvergütung
-
-(1) Für einzelne oder mehrere für denselben Auftraggeber laufend
-auszuführende Tätigkeiten kann der Steuerberater eine
-Pauschalvergütung vereinbaren. Die Vereinbarung ist in Textform und
-für einen Zeitraum von mindestens einem Jahr zu treffen. In der
-Vereinbarung sind die vom Steuerberater zu übernehmenden Tätigkeiten
-und die Zeiträume, für die sie geleistet werden, im einzelnen
-aufzuführen.
-
-(2) Die Vereinbarung einer Pauschalvergütung ist ausgeschlossen für
-
-1.  die Anfertigung nicht mindestens jährlich wiederkehrender
-    Steuererklärungen;
-
-
-2.  die Ausarbeitung von schriftlichen Gutachten (§ 22);
-
-
-3.  die in § 23 genannten Tätigkeiten;
-
-
-4.  die Teilnahme an Prüfungen (§ 29);
-
-
-5.  die Beratung und Vertretung im außergerichtlichen
-    Rechtsbehelfsverfahren (§ 40), im Verwaltungsvollstreckungsverfahren
-    (§ 44) und in gerichtlichen und anderen Verfahren (§ 45).
-
-
-
-
-(3) Der Gebührenanteil der Pauschalvergütung muß in einem angemessenen
-Verhältnis zur Leistung des Steuerberaters stehen.
+### § 14 (weggefallen)
 
 
 ## Dritter Abschnitt - Umsatzsteuer, Ersatz von Auslagen
@@ -301,36 +259,38 @@ Angelegenheit jedoch höchstens 20 Euro.
 
 (1) Der Steuerberater erhält eine Dokumentenpauschale
 
-1.  für Ablichtungen
+1.  für Kopien und Ausdrucke
 
-    a) aus Behörden- und Gerichtsakten, soweit deren Herstellung zur
-    sachgerechten Bearbeitung der Angelegenheit geboten war,
+    a)  aus Behörden- und Gerichtsakten, soweit deren Herstellung zur
+        sachgerechten Bearbeitung der Angelegenheit geboten war,
+
 
     b)  zur Mitteilung an Gegner oder Beteiligte und Verfahrensbevollmächtigte
-        auf Grund einer Rechtsvorschrift oder nach Aufforderung durch das
+        aufgrund einer Rechtsvorschrift oder nach Aufforderung durch das
         Gericht, die Behörde oder die sonst das Verfahren führende Stelle,
-        soweit hierfür mehr als 100 Ablichtungen zu fertigen waren,
+        soweit hierfür mehr als 100 Seiten zu fertigen waren,
 
 
     c)  zur notwendigen Unterrichtung des Auftraggebers, soweit hierfür mehr
-        als 100 Ablichtungen zu fertigen waren,
+        als 100 Seiten zu fertigen waren,
 
 
     d)  in sonstigen Fällen nur, wenn sie im Einverständnis mit dem
-        Auftraggeber zusätzlich, auch zur Unterrichtung Dritter, angefertigt
-        worden sind und
+        Auftraggeber, auch zur Unterrichtung Dritter, angefertigt worden sind
+        und
 
 
 
 
 
-2.  für die Überlassung elektronischer Dokumente an Stelle der in Nummer 1
-    Buchstabe d genannten Ablichtungen.
+2.  für die Überlassung von elektronischen Dateien oder deren
+    Bereitstellung zum Abruf anstelle der in Nummer 1 Buchstabe d
+    genannten Kopien und Ausdrucke.
 
 
 
 Eine Übermittlung durch den Steuerberater per Telefax steht der
-Herstellung einer Ablichtung gleich.
+Herstellung einer Kopie gleich.
 
 (2) Die Höhe der Dokumentenpauschale bemisst sich nach den für die
 Dokumentenpauschale im Vergütungsverzeichnis zum
@@ -365,8 +325,8 @@ oder die Wohnung des Steuerberaters befindet.
 
 
 (3) Als Tage- und Abwesenheitsgeld erhält der Steuerberater bei einer
-Geschäftsreise von nicht mehr als 4 Stunden 25 Euro, von mehr als 4
-bis 8 Stunden 40 Euro und von mehr als 8 Stunden 70 Euro; bei
+Geschäftsreise von nicht mehr als 4 Stunden 30 Euro, von mehr als 4
+bis 8 Stunden 50 Euro und von mehr als 8 Stunden 80 Euro; bei
 Auslandsreisen kann zu diesen Beträgen ein Zuschlag von 50 Prozent
 berechnet werden. Die Übernachtungskosten sind in Höhe der
 tatsächlichen Aufwendungen zu erstatten, soweit sie angemessen sind.
@@ -414,16 +374,20 @@ bestimmen sich nach Teil 2 Abschnitt 1 des Vergütungsverzeichnisses
 zum Rechtsanwaltsvergütungsgesetz.
 
 
-### § 22 Gutachten
+### § 22 Gutachten und Antrag auf verbindliche Auskunft
 
-Für die Ausarbeitung eines schriftlichen Gutachtens mit eingehender
-Begründung erhält der Steuerberater eine Gebühr von 10 Zehnteln bis 30
-Zehntel der vollen Gebühr nach Tabelle A (Anlage 1).
+(1) Für die Ausarbeitung eines schriftlichen Gutachtens mit
+eingehender Begründung erhält der Steuerberater eine Gebühr von 10/10
+bis 30/10 der vollen Gebühr nach Tabelle A (Anlage 1). Satz 1 gilt für
+einen Antrag auf verbindliche Auskunft entsprechend.
+
+(2) Betreffen die Tätigkeiten nach Absatz 1 denselben Gegenstand, ist
+nur eine Tätigkeit maßgebend.
 
 
 ### § 23 Sonstige Einzeltätigkeiten
 
-Die Gebühr beträgt für
+(1) Die Gebühr beträgt für
 
 *    *   1.
 
@@ -506,6 +470,17 @@ den Nummern 1 bis 10 denselben Gegenstand betreffen, ist nur eine
 Tätigkeit maßgebend, und zwar die mit dem höchsten oberen
 Gebührenrahmen.
 
+(2) Für eine Mitteilung nach § 146a Absatz 4 der Abgabenordnung erhält
+der Steuerberater für das erste elektronische Aufzeichnungssystem
+einer Betriebsstätte 10 bis 30 Euro. Für jedes weitere elektronische
+Aufzeichnungssystem derselben Betriebsstätte erhält der Steuerberater
+5 bis 20 Euro. Sofern mit der Mitteilung nach § 146a Absatz 4 der
+Abgabenordnung lediglich ein oder mehrere elektronische
+Aufzeichnungssysteme oder eine oder mehrere Betriebsstätten abgemeldet
+werden, erhält der Steuerberater hierfür nur eine Gebühr nach Satz 1
+unabhängig davon, wie viele elektronische Aufzeichnungssysteme oder
+Betriebsstätten abgemeldet werden.
+
 
 ### § 24 Steuererklärungen
 
@@ -554,9 +529,17 @@ Gebührenrahmen.
 
 *    *   4.
 
-    *   (weggefallen)
+    *   der Mindeststeuererklärung
+        einer vollen Gebühr nach Tabelle A (Anlage 1);
+        Gegenstandswert ist 1 Prozent des Mindeststeuer-Gewinns oder des
+        Mindeststeuer-Verlusts im Sinne des § 15 des Mindeststeuergesetzes,
+        jedoch mindestens 16 000 Euro;
 
-    *
+    *   1                       /
+        10                        bis
+        8                       /
+        10
+
 
 *    *   5.
 
@@ -862,67 +845,59 @@ Gebührenrahmen.
 
 
 
-(2) Für die Ermittlung der Zugewinnausgleichsforderung nach § 5 des
+(2) Entsteht im Fall des Absatzes 1 Nummer 4 zusätzlich eine Gebühr
+für die Anfertigung eines Mindeststeuer-Berichts derselben
+Unternehmensgruppe, ist die Gebühr für die Anfertigung eines
+Mindeststeuer-Berichts bis zur Hälfte der Gebühr für die Anfertigung
+der Mindeststeuererklärung auf die Gebühr für die Anfertigung der
+Mindeststeuererklärung anzurechnen.
+
+(3) Für die Ermittlung der Zugewinnausgleichsforderung nach § 5 des
 Erbschaftsteuer- und Schenkungsteuergesetzes erhält der Steuerberater
 5 Zehntel bis 15 Zehntel einer vollen Gebühr nach Tabelle A (Anlage
 1); Gegenstandswert ist der ermittelte Betrag, jedoch mindestens
 12 500 Euro.
 
-(3) Für einen Antrag auf Lohnsteuer-Ermäßigung (Antrag auf Eintragung
+(4) Für einen Antrag auf Lohnsteuer-Ermäßigung (Antrag auf Eintragung
 von Freibeträgen) erhält der Steuerberater 1/20 bis 4/20 einer vollen
 Gebühr nach Tabelle A (Anlage 1); Gegenstandswert ist der
 voraussichtliche Jahresarbeitslohn; er beträgt mindestens 4 500 Euro.
 
-(4) Der Steuerberater erhält die Zeitgebühr
+(5) Der Steuerberater erhält die Zeitgebühr für
 
-1.  (weggefallen)
-
-
-2.  für Arbeiten zur Feststellung des verrechenbaren Verlustes gemäß § 15a
-    des Einkommensteuergesetzes;
+1.  die Anfertigung einer Mitteilung nach § 138 Absatz 2 der
+    Abgabenordnung,
 
 
-3.  für die Anfertigung einer Meldung über die Beteiligung an
-    ausländischen Körperschaften, Vermögensmassen und
-    Personenvereinigungen und an ausländischen Personengesellschaften;
+2.  Arbeiten zur Feststellung des verrechenbaren Verlustes nach § 15a des
+    Einkommensteuergesetzes,
 
 
-4.  (weggefallen)
+3.  die Berechnung des Begünstigungsgewinns im Sinne des § 34a Absatz 1
+    Satz 1 des Einkommensteuergesetzes (Begünstigung der nicht entnommenen
+    Gewinne),
 
 
-5.  für sonstige Anträge und Meldungen nach dem Einkommensteuergesetz;
+4.  einen sonstigen Antrag und eine sonstige Meldung nach dem
+    Einkommensteuergesetz,
 
 
-6.  (weggefallen)
+5.  die Anfertigung eines Mindeststeuer-Berichts nach den §§ 75 und 76 des
+    Mindeststeuergesetzes,
 
 
-7.  (weggefallen)
+6.  die Überwachung und Meldung der Lohnsumme im Sinne des § 13a Absatz 3
+    in Verbindung mit Absatz 7 Satz 1 des Erbschaftsteuer- und
+    Schenkungsteuergesetzes sowie der Behaltensfrist im Sinne des § 13a
+    Absatz 6 in Verbindung mit Absatz 7 Satz 2 des Erbschaftsteuer- und
+    Schenkungsteuergesetzes,
 
 
-8.  (weggefallen)
+7.  eine Anzeige nach § 30 des Erbschaftsteuer- und
+    Schenkungsteuergesetzes,
 
 
-9.  (weggefallen)
-
-
-10. (weggefallen)
-
-
-11. (weggefallen)
-
-
-12. (weggefallen)
-
-
-13. für die Überwachung und Meldung der Lohnsumme sowie der Behaltensfrist
-    im Sinne von § 13a Absatz 1 in Verbindung mit Absatz 6 Satz 1, Absatz
-    5 in Verbindung mit Absatz 6 Satz 2 des Erbschaftsteuer- und
-    Schenkungsteuergesetzes;
-
-
-14. für die Berechnung des Begünstigungsgewinnes im Sinne von § 34a Absatz
-    1 Satz 1 des Einkommensteuergesetzes (Begünstigung der nicht
-    entnommenen Gewinne).
+8.  eine Meldung nach der Fahrzeuglieferungs-Meldepflichtverordnung.
 
 
 
@@ -1121,8 +1096,26 @@ vollen Gebühr nach Tabelle C (Anlage 3).
 
 
 
-   (6) Gegenstandswert ist der jeweils höchste Betrag, der sich aus dem
-Jahresumsatz oder aus der Summe des Aufwandes ergibt.
+   (6) Gegenstandswert ist der jeweils höhere Betrag, der sich
+
+1.  in den Fällen der Gewinnermittlung nach § 4 Absatz 1, auch in
+    Verbindung mit § 5 Absatz 1, des Einkommensteuergesetzes aus der Summe
+    des Aufwands oder aus dem Jahresumsatz ergibt, wobei Jahresumsatz die
+    Summe der Umsatzerlöse zuzüglich sonstiger betrieblicher Erträge,
+    sonstiger Zinsen und vergleichbarer Erträge ist,
+
+
+2.  in den Fällen der Gewinnermittlung nach § 4 Absatz 3 des
+    Einkommensteuergesetzes aus der Summe der Betriebseinnahmen oder der
+    Summe der Betriebsausgaben ergibt, oder
+
+
+3.  in den Fällen der Überschussermittlung nach § 2 Absatz 2 Nummer 2 des
+    Einkommensteuergesetzes aus der Summe der Einnahmen oder der Summe der
+    Werbungskosten ergibt.
+
+
+
 
 (7) Für die Hilfeleistung bei sonstigen Tätigkeiten im Zusammenhang
 mit der Buchführung oder dem Führen steuerlicher Aufzeichnungen erhält
@@ -1135,25 +1128,25 @@ die Umsatzsteuervoranmeldung (§ 24 Abs. 1 Nr. 7) abgegolten.
 ### § 34 Lohnbuchführung
 
 (1) Für die erstmalige Einrichtung von Lohnkonten und die Aufnahme der
-Stammdaten erhält der Steuerberater eine Gebühr von 5 bis 18 Euro je
+Stammdaten erhält der Steuerberater eine Gebühr von 6 bis 19 Euro je
 Arbeitnehmer.
 
 (2) Für die Führung von Lohnkonten und die Anfertigung der
-Lohnabrechnung erhält der Steuerberater eine Gebühr von 5 bis 28 Euro
+Lohnabrechnung erhält der Steuerberater eine Gebühr von 6 bis 30 Euro
 je Arbeitnehmer und Abrechnungszeitraum.
 
 (3) Für die Führung von Lohnkonten und die Anfertigung der
 Lohnabrechnung nach vom Auftraggeber erstellten Buchungsunterlagen
-erhält der Steuerberater eine Gebühr von 2 bis 9 Euro je Arbeitnehmer
-und Abrechnungszeitraum.
+erhält der Steuerberater eine Gebühr von 2,50 bis 9,50 Euro je
+Arbeitnehmer und Abrechnungszeitraum.
 
 (4) Für die Führung von Lohnkonten und die Anfertigung der
 Lohnabrechnung nach vom Auftraggeber erstellten Eingaben für die
 Datenverarbeitung und mit beim Auftraggeber eingesetzten
 Datenverarbeitungsprogrammen des Steuerberaters erhält der
 Steuerberater neben der Vergütung für die Datenverarbeitung und für
-den Einsatz der Datenverarbeitungsprogramme eine Gebühr von 1 bis 4
-Euro je Arbeitnehmer und Abrechnungszeitraum.
+den Einsatz der Datenverarbeitungsprogramme eine Gebühr von 1,20 bis
+4,20 Euro je Arbeitnehmer und Abrechnungszeitraum.
 
 (5) Für die Hilfeleistung bei sonstigen Tätigkeiten im Zusammenhang
 mit dem Lohnsteuerabzug und der Lohnbuchführung erhält der
@@ -1578,107 +1571,40 @@ der tatsächlich genutzten Flächen anzusetzen.
 Umsatzsteuervoranmeldungen (§ 24 Abs. 1 Nr. 7) abgegolten.
 
 
-## Sechster Abschnitt - Gebühren für die Vertretung im außergerichtlichen Rechtsbehelfsverfahren und im Verwaltungsvollstreckungsverfahren
+## Sechster Abschnitt - Vergütung für die Vertretung in außergerichtlichen Rechtsbehelfsverfahren, gerichtlichen und anderen Verfahren
 
 
 
-### § 40 Verfahren vor den Verwaltungsbehörden
+### § 40 Anwendung des Rechtsanwaltsvergütungsgesetzes
 
-Auf die Vergütung des Steuerberaters für Verfahren vor den
-Verwaltungsbehörden sind die Vorschriften des
-Rechtsanwaltsvergütungsgesetzes sinngemäß anzuwenden.
-
-
-### § 41 (weggefallen)
-
--
-
-
-### § 42 (weggefallen)
-
--
+Die Vorschriften des Rechtsanwaltsvergütungsgesetzes finden auf die
+Vergütung von Steuerberatern für die Vertretung in außergerichtlichen
+Rechtsbehelfsverfahren vor den Verwaltungsbehörden, in
+Verwaltungsvollstreckungsverfahren, in Verfahren vor den Gerichten der
+Finanzgerichtsbarkeit, der Sozialgerichtsbarkeit und der
+Verwaltungsgerichtsbarkeit, in Strafverfahren, in berufsgerichtlichen
+Verfahren, in Bußgeldverfahren und in Gnadensachen sinngemäße
+Anwendung. Dies gilt auch für die Vergütung des im Wege der
+Prozesskostenhilfe beigeordneten Steuerberaters.
 
 
-### § 43 (weggefallen)
-
--
-
-
-### § 44 Verwaltungsvollstreckungsverfahren
-
-Auf die Vergütung des Steuerberaters im
-Verwaltungsvollstreckungsverfahren sind die Vorschriften des
-Rechtsanwaltsvergütungsgesetzes sinngemäß anzuwenden.
-
-
-## Siebenter Abschnitt - Gerichtliche und andere Verfahren
+## Siebenter Abschnitt - Übergangsvorschrift
 
 
 
-### § 45 Vergütung in gerichtlichen und anderen Verfahren
-
-Auf die Vergütung des Steuerberaters im Verfahren vor den Gerichten
-der Finanzgerichtsbarkeit, der Sozialgerichtsbarkeit und der
-Verwaltungsgerichtsbarkeit, im Strafverfahren, berufsgerichtlichen
-Verfahren, Bußgeldverfahren und in Gnadensachen sind die Vorschriften
-des Rechtsanwaltsvergütungsgesetzes sinngemäß anzuwenden.
-
-
-### § 46 Vergütung bei Prozeßkostenhilfe
-
-Für die Vergütung des im Wege der Prozeßkostenhilfe beigeordneten
-Steuerberaters gelten die Vorschriften des
-Rechtsanwaltsvergütungsgesetzes sinngemäß.
-
-
-## Achter Abschnitt - Übergangs- und Schlußvorschriften
-
-
-
-### § 47 Anwendung
-
-(1) Diese Verordnung ist erstmals anzuwenden auf
-
-1.  Angelegenheiten, mit deren Bearbeitung nach dem Inkrafttreten dieser
-    Verordnung begonnen wird,
-
-
-2.  die Vertretung in Verfahren vor Verwaltungsbehörden, wenn das
-    Verfahren nach Inkrafttreten dieser Verordnung beginnt.
-
-
-
-
-(2) Hat der Steuerberater vor der Verkündung der Verordnung mit dem
-Auftraggeber schriftliche Vereinbarungen getroffen, die den
-Vorschriften dieser Verordnung nicht entsprechen, so ist insoweit
-diese Verordnung spätestens zwei Jahre nach ihrem Inkrafttreten
-anzuwenden.
-
-
-### § 47a Übergangsvorschrift für Änderungen dieser Verordnung
+### § 41 Berechnung der Vergütung bei Änderungen dieser Verordnung
 
 Die Vergütung ist nach bisherigem Recht zu berechnen, wenn der Auftrag
 zur Erledigung der Angelegenheit vor dem Inkrafttreten einer Änderung
-der Verordnung erteilt worden ist. Hat der Steuerberater mit dem
-Auftraggeber schriftliche Vereinbarungen über auszuführende
+dieser Verordnung erteilt worden ist. Hat der Steuerberater mit dem
+Auftraggeber in Textform eine Vereinbarung über auszuführende
 Tätigkeiten mit einer Geltungsdauer von mindestens einem Jahr
-getroffen oder eine Pauschalvergütung im Sinne des § 14 vereinbart und
-tritt während der Geltungsdauer dieser Vereinbarung eine Änderung der
-Verordnung in Kraft, so ist die Vergütung bis zum Ablauf des Jahres,
-in dem eine Änderung der Verordnung in Kraft tritt, nach bisherigem
-Recht zu berechnen. Die Sätze 1 und 2 gelten auch, wenn Vorschriften
-geändert werden, auf die diese Verordnung verweist.
-
-
-### § 48
-
--
-
-
-### § 49 Inkrafttreten
-
-Diese Verordnung tritt am 1. April 1982 in Kraft.
+getroffen und tritt während der Geltungsdauer dieser Vereinbarung eine
+Änderung dieser Verordnung in Kraft, so ist die Vergütung abweichend
+von Satz 1 nur bis zum Ablauf des Jahres, in dem die Änderung der
+Verordnung in Kraft getreten ist, nach bisherigem Recht zu berechnen.
+Die Sätze 1 und 2 gelten auch, wenn Vorschriften geändert werden, auf
+die diese Verordnung verweist.
 
 
 ### Schlußformel
@@ -1689,265 +1615,266 @@ Tabelle A
 
 ### Anlage 1 (Beratungstabelle)
 
-(Fundstelle: BGBl. I 2020, 1499 - 1500)
+(Fundstelle: BGBl. 2025 I Nr. 105, S. 5 – 6)
 
 
 *    *   Gegenstandswert bis … Euro
 
     *   Volle Gebühr (
-        10                     /10) Euro
+        10                     /
+        10                     ) Euro
 
 
 *    *   300
 
-    *   29
+    *   31
 
 
 *    *   600
 
-    *   53
+    *   56
 
 
 *    *   900
 
-    *   76
+    *   81
 
 
 *    *   1 200
 
-    *   100
+    *   106
 
 
 *    *   1 500
 
-    *   123
+    *   130
 
 
 *    *   2 000
 
-    *   157
+    *   166
 
 
 *    *   2 500
 
-    *   189
+    *   200
 
 
 *    *   3 000
 
-    *   222
+    *   235
 
 
 *    *   3 500
 
-    *   255
+    *   270
 
 
 *    *   4 000
 
-    *   288
+    *   305
 
 
 *    *   4 500
 
-    *   321
+    *   340
 
 
 *    *   5 000
 
-    *   354
+    *   375
 
 
 *    *   6 000
 
-    *   398
+    *   422
 
 
 *    *   7 000
 
-    *   441
+    *   467
 
 
 *    *   8 000
 
-    *   485
+    *   514
 
 
 *    *   9 000
 
-    *   528
+    *   560
 
 
 *    *   10 000
 
-    *   571
+    *   605
 
 
 *    *   13 000
 
-    *   618
+    *   655
 
 
 *    *   16 000
 
-    *   665
+    *   705
 
 
 *    *   19 000
 
-    *   712
+    *   755
 
 
 *    *   22 000
 
-    *   759
+    *   805
 
 
 *    *   25 000
 
-    *   806
+    *   854
 
 
 *    *   30 000
 
-    *   892
+    *   946
 
 
 *    *   35 000
 
-    *   977
+    *   1 036
 
 
 *    *   40 000
 
-    *   1 061
+    *   1 125
 
 
 *    *   45 000
 
-    *   1 146
+    *   1 215
 
 
 *    *   50 000
 
-    *   1 230
+    *   1 304
 
 
 *    *   65 000
 
-    *   1 320
+    *   1 399
 
 
 *    *   80 000
 
-    *   1 411
+    *   1 496
 
 
 *    *   95 000
 
-    *   1 502
+    *   1 592
 
 
 *    *   110 000
 
-    *   1 593
+    *   1 689
 
 
 *    *   125 000
 
-    *   1 683
+    *   1 784
 
 
 *    *   140 000
 
-    *   1 773
+    *   1 879
 
 
 *    *   155 000
 
-    *   1 864
+    *   1 976
 
 
 *    *   170 000
 
-    *   1 954
+    *   2 071
 
 
 *    *   185 000
 
-    *   2 045
+    *   2 168
 
 
 *    *   200 000
 
-    *   2 136
+    *   2 264
 
 
 *    *   230 000
 
-    *   2 275
+    *   2 412
 
 
 *    *   260 000
 
-    *   2 414
+    *   2 559
 
 
 *    *   290 000
 
-    *   2 552
+    *   2 705
 
 
 *    *   320 000
 
-    *   2 697
+    *   2 859
 
 
 *    *   350 000
 
-    *   2 760
+    *   2 926
 
 
 *    *   380 000
 
-    *   2 821
+    *   2 990
 
 
 *    *   410 000
 
-    *   2 882
+    *   3 055
 
 
 *    *   440 000
 
-    *   2 939
+    *   3 115
 
 
 *    *   470 000
 
-    *   2 995
+    *   3 175
 
 
 *    *   500 000
 
-    *   3 051
+    *   3 234
 
 
 *    *   550 000
 
-    *   3 132
+    *   3 320
 
 
 *    *   600 000
 
-    *   3 211
+    *   3 404
 
 
 *    *   vom Mehrbetrag
         bis 5 000 000 Euro
         je angefangene 50 000 Euro
 
-    *   141
+    *   149
 
 
 *    *   vom Mehrbetrag
@@ -1955,14 +1882,14 @@ Tabelle A
         bis 25 000 000 Euro
         je angefangene 50 000 Euro
 
-    *   106
+    *   112
 
 
 *    *   vom Mehrbetrag
         über 25 000 000 Euro
         je angefangene 50 000 Euro
 
-    *   83
+    *   88
 
 
 
@@ -1970,325 +1897,326 @@ Tabelle B
 
 ### Anlage 2 (Abschlusstabelle)
 
-(Fundstelle: BGBl. I 2020, 1501 - 1502)
+(Fundstelle: BGBl. 2025 I Nr. 105, S. 7 - 8)
 
 
 *    *   Gegenstandswert bis … Euro
 
     *   Volle Gebühr (
-        10                     /10) Euro
+        10                       /
+        10                       ) Euro
 
 
 *    *   3 000
 
-    *   46
+    *   49
 
 
 *    *   3 500
 
-    *   54
+    *   57
 
 
 *    *   4 000
 
-    *   64
+    *   68
 
 
 *    *   4 500
 
-    *   72
+    *   76
 
 
 *    *   5 000
 
-    *   81
+    *   86
 
 
 *    *   6 000
 
-    *   91
+    *   96
 
 
 *    *   7 000
 
-    *   99
+    *   105
 
 
 *    *   8 000
 
-    *   109
+    *   116
 
 
 *    *   9 000
 
-    *   114
+    *   121
 
 
 *    *   10 000
 
-    *   120
+    *   127
 
 
 *    *   12 500
 
-    *   126
+    *   134
 
 
 *    *   15 000
 
-    *   142
+    *   151
 
 
 *    *   17 500
 
-    *   157
+    *   166
 
 
 *    *   20 000
 
-    *   168
+    *   178
 
 
 *    *   22 500
 
-    *   180
+    *   191
 
 
 *    *   25 000
 
-    *   190
+    *   201
 
 
 *    *   37 500
 
-    *   203
+    *   215
 
 
 *    *   50 000
 
-    *   248
+    *   263
 
 
 *    *   62 500
 
-    *   286
+    *   303
 
 
 *    *   75 000
 
-    *   319
+    *   338
 
 
 *    *   87 500
 
-    *   333
+    *   353
 
 
 *    *   100 000
 
-    *   348
+    *   369
 
 
 *    *   125 000
 
-    *   399
+    *   423
 
 
 *    *   150 000
 
-    *   444
+    *   471
 
 
 *    *   175 000
 
-    *   483
+    *   512
 
 
 *    *   200 000
 
-    *   517
+    *   548
 
 
 *    *   225 000
 
-    *   549
+    *   582
 
 
 *    *   250 000
 
-    *   578
+    *   613
 
 
 *    *   300 000
 
-    *   605
+    *   641
 
 
 *    *   350 000
 
-    *   657
+    *   696
 
 
 *    *   400 000
 
-    *   704
+    *   746
 
 
 *    *   450 000
 
-    *   746
+    *   791
 
 
 *    *   500 000
 
-    *   785
+    *   832
 
 
 *    *   625 000
 
-    *   822
+    *   871
 
 
 *    *   750 000
 
-    *   913
+    *   968
 
 
 *    *   875 000
 
-    *   991
+    *   1 050
 
 
 *    *   1 000 000
 
-    *   1 062
+    *   1 126
 
 
 *    *   1 250 000
 
-    *   1 126
+    *   1 194
 
 
 *    *   1 500 000
 
-    *   1 249
+    *   1 324
 
 
 *    *   1 750 000
 
-    *   1 357
+    *   1 438
 
 
 *    *   2 000 000
 
-    *   1 455
+    *   1 542
 
 
 *    *   2 250 000
 
-    *   1 542
+    *   1 635
 
 
 *    *   2 500 000
 
-    *   1 621
+    *   1 718
 
 
 *    *   3 000 000
 
-    *   1 695
+    *   1 797
 
 
 *    *   3 500 000
 
-    *   1 841
+    *   1 951
 
 
 *    *   4 000 000
 
-    *   1 971
+    *   2 089
 
 
 *    *   4 500 000
 
-    *   2 089
+    *   2 214
 
 
 *    *   5 000 000
 
-    *   2 196
+    *   2 328
 
 
 *    *   7 500 000
 
-    *   2 566
+    *   2 720
 
 
 *    *   10 000 000
 
-    *   2 983
+    *   3 162
 
 
 *    *   12 500 000
 
-    *   3 321
+    *   3 520
 
 
 *    *   15 000 000
 
-    *   3 603
+    *   3 819
 
 
 *    *   17 500 000
 
-    *   3 843
+    *   4 074
 
 
 *    *   20 000 000
 
-    *   4 050
+    *   4 293
 
 
 *    *   22 500 000
 
-    *   4 314
+    *   4 573
 
 
 *    *   25 000 000
 
-    *   4 558
+    *   4 831
 
 
 *    *   30 000 000
 
-    *   5 014
+    *   5 315
 
 
 *    *   35 000 000
 
-    *   5 433
+    *   5 759
 
 
 *    *   40 000 000
 
-    *   5 823
+    *   6 172
 
 
 *    *   45 000 000
 
-    *   6 187
+    *   6 558
 
 
 *    *   50 000 000
 
-    *   6 532
+    *   6 923
 
 
 *    *   vom Mehrbetrag
         bis 125 000 000 Euro
         je angefangene 5 000 000 Euro
 
-    *   258
+    *   273
 
 
 *    *   vom Mehrbetrag
@@ -2296,14 +2224,15 @@ Tabelle B
         bis 250 000 000 Euro
         je angefangene 12 500 000 Euro
 
-    *   450
+    *   477
 
 
 *    *   vom Mehrbetrag
         über 250 000 000 Euro
         je angefangene 25 000 000 Euro
 
-    *   642
+    *   681
+
 
 
 
@@ -2311,142 +2240,144 @@ Tabelle C
 
 ### Anlage 3 (Buchführungstabelle)
 
-(Fundstelle: BGBl. I 2020, 1503)
+(Fundstelle: BGBl. 2025 I Nr. 105, S. 9)
 
 
 *    *   Gegenstandswert bis … Euro
 
     *   Volle Gebühr (
-        10                     /10) Euro
+        10                       /
+        10                       ) Euro
 
 
 *    *   15 000
 
-    *   68
+    *   72
 
 
 *    *   17 500
 
-    *   75
+    *   80
 
 
 *    *   20 000
 
-    *   83
+    *   88
 
 
 *    *   22 500
 
-    *   88
+    *   93
 
 
 *    *   25 000
 
-    *   95
+    *   101
 
 
 *    *   30 000
 
-    *   102
+    *   108
 
 
 *    *   35 000
 
-    *   110
+    *   117
 
 
 *    *   40 000
 
-    *   115
+    *   122
 
 
 *    *   45 000
 
-    *   122
+    *   129
 
 
 *    *   50 000
 
-    *   130
+    *   138
 
 
 *    *   62 500
 
-    *   137
+    *   145
 
 
 *    *   75 000
 
-    *   149
+    *   158
 
 
 *    *   87 500
 
-    *   164
+    *   174
 
 
 *    *   100 000
 
-    *   177
+    *   188
 
 
 *    *   125 000
 
-    *   197
+    *   209
 
 
 *    *   150 000
 
-    *   217
+    *   230
 
 
 *    *   200 000
 
-    *   259
+    *   275
 
 
 *    *   250 000
 
-    *   299
+    *   317
 
 
 *    *   300 000
 
-    *   339
+    *   359
 
 
 *    *   350 000
 
-    *   381
+    *   404
 
 
 *    *   400 000
 
-    *   416
+    *   441
 
 
 *    *   450 000
 
-    *   448
+    *   475
 
 
 *    *   500 000
 
-    *   483
+    *   512
 
 
 *    *   vom Mehrbetrag
         über 500 000 Euro
         je angefangene 50 000 Euro
 
-    *   34
+    *   36
+
 
 
 
 
 ### Anlage 4 Tabelle D
 
-(Fundstelle: BGBl. I 2020, 1504 - 1507)
+(Fundstelle: BGBl. 2025 Nr. 105, S. 10 - 14)
 
 Teil a
 ## (Landwirtschaftliche Tabelle – Betriebsfläche)
@@ -2455,362 +2386,363 @@ Teil a
 *    *   Betriebsfläche bis … Hektar
 
     *   Volle Gebühr (
-        10                     /10) Euro
+        10                     /
+        10                     ) Euro
 
 
 *    *   40
 
-    *   348
+    *   369
 
 
 *    *   45
 
-    *   373
+    *   395
 
 
 *    *   50
 
-    *   396
+    *   420
 
 
 *    *   55
 
-    *   419
+    *   444
 
 
 *    *   60
 
-    *   441
+    *   467
 
 
 *    *   65
 
-    *   461
+    *   489
 
 
 *    *   70
 
-    *   479
+    *   508
 
 
 *    *   75
 
-    *   497
+    *   527
 
 
 *    *   80
 
-    *   514
+    *   545
 
 
 *    *   85
 
-    *   530
+    *   562
 
 
 *    *   90
 
-    *   543
+    *   576
 
 
 *    *   95
 
-    *   556
+    *   589
 
 
 *    *   100
 
-    *   567
+    *   601
 
 
 *    *   110
 
-    *   595
+    *   631
 
 
 *    *   120
 
-    *   622
+    *   659
 
 
 *    *   130
 
-    *   648
+    *   687
 
 
 *    *   140
 
-    *   674
+    *   714
 
 
 *    *   150
 
-    *   700
+    *   742
 
 
 *    *   160
 
-    *   725
+    *   769
 
 
 *    *   170
 
-    *   748
+    *   793
 
 
 *    *   180
 
-    *   772
+    *   818
 
 
 *    *   190
 
-    *   794
+    *   842
 
 
 *    *   200
 
-    *   816
+    *   865
 
 
 *    *   210
 
-    *   838
+    *   888
 
 
 *    *   220
 
-    *   859
+    *   911
 
 
 *    *   230
 
-    *   879
+    *   932
 
 
 *    *   240
 
-    *   898
+    *   952
 
 
 *    *   250
 
-    *   917
+    *   972
 
 
 *    *   260
 
-    *   936
+    *   992
 
 
 *    *   270
 
-    *   954
+    *   1 011
 
 
 *    *   280
 
-    *   970
+    *   1 028
 
 
 *    *   290
 
-    *   987
+    *   1 046
 
 
 *    *   300
 
-    *   1 002
+    *   1 062
 
 
 *    *   320
 
-    *   1 035
+    *   1 097
 
 
 *    *   340
 
-    *   1 067
+    *   1 131
 
 
 *    *   360
 
-    *   1 100
+    *   1 166
 
 
 *    *   380
 
-    *   1 130
+    *   1 198
 
 
 *    *   400
 
-    *   1 160
+    *   1 229
 
 
 *    *   420
 
-    *   1 191
+    *   1 262
 
 
 *    *   440
 
-    *   1 220
+    *   1 293
 
 
 *    *   460
 
-    *   1 248
+    *   1 323
 
 
 *    *   480
 
-    *   1 275
+    *   1 352
 
 
 *    *   500
 
-    *   1 301
+    *   1 379
 
 
 *    *   520
 
-    *   1 329
+    *   1 409
 
 
 *    *   540
 
-    *   1 355
+    *   1 436
 
 
 *    *   560
 
-    *   1 380
+    *   1 463
 
 
 *    *   580
 
-    *   1 404
+    *   1 488
 
 
 *    *   600
 
-    *   1 429
+    *   1 515
 
 
 *    *   620
 
-    *   1 453
+    *   1 540
 
 
 *    *   640
 
-    *   1 475
+    *   1 564
 
 
 *    *   660
 
-    *   1 497
+    *   1 587
 
 
 *    *   680
 
-    *   1 519
+    *   1 610
 
 
 *    *   700
 
-    *   1 538
+    *   1 630
 
 
 *    *   750
 
-    *   1 586
+    *   1 681
 
 
 *    *   800
 
-    *   1 628
+    *   1 726
 
 
 *    *   850
 
-    *   1 664
+    *   1 764
 
 
 *    *   900
 
-    *   1 695
+    *   1 797
 
 
 *    *   950
 
-    *   1 719
+    *   1 822
 
 
 *    *   1 000
 
-    *   1 738
+    *   1 843
 
 
 *    *   2 000 je ha
 
-    *   1,59 mehr
+    *   1,69 mehr
 
 
 *    *   3 000 je ha
 
-    *   1,44 mehr
+    *   1,53 mehr
 
 
 *    *   4 000 je ha
 
-    *   1,30 mehr
+    *   1,38 mehr
 
 
 *    *   5 000 je ha
 
-    *   1,15 mehr
+    *   1,22 mehr
 
 
 *    *   6 000 je ha
 
-    *   1,01 mehr
+    *   1,07 mehr
 
 
 *    *   7 000 je ha
 
-    *   0,87 mehr
+    *   0,92 mehr
 
 
 *    *   8 000 je ha
 
-    *   0,72 mehr
+    *   0,76 mehr
 
 
 *    *   9 000 je ha
 
-    *   0,57 mehr
+    *   0,60 mehr
 
 
 *    *   10 000 je ha
 
-    *   0,43 mehr
+    *   0,46 mehr
 
 
 *    *   11 000 je ha
 
-    *   0,28 mehr
+    *   0,30 mehr
 
 
 *    *   12 000 je ha
 
-    *   0,15 mehr
+    *   0,16 mehr
 
 
 *    *   ab 12 000 je ha
 
-    *   0,15 mehr
+    *   0,16 mehr
 
 
 
@@ -2822,439 +2754,440 @@ Teil b
         § 39 Absatz 5 bis … Euro
 
     *   Volle Gebühr (
-        10                     /10) Euro
+        10                     /
+        10                     ) Euro
 
 
 *    *   40 000
 
-    *   362
+    *   384
 
 
 *    *   42 500
 
-    *   380
+    *   403
 
 
 *    *   45 000
 
-    *   398
+    *   422
 
 
 *    *   47 500
 
-    *   417
+    *   442
 
 
 *    *   50 000
 
-    *   433
+    *   459
 
 
 *    *   55 000
 
-    *   469
+    *   497
 
 
 *    *   60 000
 
-    *   503
+    *   533
 
 
 *    *   65 000
 
-    *   539
+    *   571
 
 
 *    *   70 000
 
-    *   571
+    *   605
 
 
 *    *   75 000
 
-    *   606
+    *   642
 
 
 *    *   80 000
 
-    *   640
+    *   678
 
 
 *    *   85 000
 
-    *   673
+    *   713
 
 
 *    *   90 000
 
-    *   706
+    *   748
 
 
 *    *   95 000
 
-    *   738
+    *   782
 
 
 *    *   100 000
 
-    *   771
+    *   817
 
 
 *    *   105 000
 
-    *   802
+    *   850
 
 
 *    *   110 000
 
-    *   833
+    *   883
 
 
 *    *   115 000
 
-    *   866
+    *   918
 
 
 *    *   120 000
 
-    *   897
+    *   951
 
 
 *    *   125 000
 
-    *   927
+    *   983
 
 
 *    *   130 000
 
-    *   959
+    *   1 017
 
 
 *    *   135 000
 
-    *   989
+    *   1 048
 
 
 *    *   140 000
 
-    *   1 020
+    *   1 081
 
 
 *    *   145 000
 
-    *   1 051
+    *   1 114
 
 
 *    *   150 000
 
-    *   1 081
+    *   1 146
 
 
 *    *   155 000
 
-    *   1 111
+    *   1 178
 
 
 *    *   160 000
 
-    *   1 141
+    *   1 209
 
 
 *    *   165 000
 
-    *   1 172
+    *   1 242
 
 
 *    *   170 000
 
-    *   1 201
+    *   1 273
 
 
 *    *   175 000
 
-    *   1 230
+    *   1 304
 
 
 *    *   180 000
 
-    *   1 260
+    *   1 336
 
 
 *    *   185 000
 
-    *   1 289
+    *   1 366
 
 
 *    *   190 000
 
-    *   1 318
+    *   1 397
 
 
 *    *   195 000
 
-    *   1 347
+    *   1 428
 
 
 *    *   200 000
 
-    *   1 376
+    *   1 459
 
 
 *    *   205 000
 
-    *   1 406
+    *   1 490
 
 
 *    *   210 000
 
-    *   1 434
+    *   1 520
 
 
 *    *   215 000
 
-    *   1 462
+    *   1 550
 
 
 *    *   220 000
 
-    *   1 491
+    *   1 580
 
 
 *    *   225 000
 
-    *   1 520
+    *   1 611
 
 
 *    *   230 000
 
-    *   1 547
+    *   1 640
 
 
 *    *   235 000
 
-    *   1 575
+    *   1 670
 
 
 *    *   240 000
 
-    *   1 603
+    *   1 699
 
 
 *    *   245 000
 
-    *   1 630
+    *   1 728
 
 
 *    *   250 000
 
-    *   1 656
+    *   1 755
 
 
 *    *   255 000
 
-    *   1 684
+    *   1 785
 
 
 *    *   260 000
 
-    *   1 712
+    *   1 815
 
 
 *    *   265 000
 
-    *   1 738
+    *   1 842
 
 
 *    *   270 000
 
-    *   1 765
+    *   1 871
 
 
 *    *   275 000
 
-    *   1 791
+    *   1 898
 
 
 *    *   280 000
 
-    *   1 817
+    *   1 926
 
 
 *    *   285 000
 
-    *   1 842
+    *   1 953
 
 
 *    *   290 000
 
-    *   1 868
+    *   1 980
 
 
 *    *   295 000
 
-    *   1 894
+    *   2 008
 
 
 *    *   300 000
 
-    *   1 919
+    *   2 034
 
 
 *    *   305 000
 
-    *   1 943
+    *   2 060
 
 
 *    *   310 000
 
-    *   1 968
+    *   2 086
 
 
 *    *   315 000
 
-    *   1 991
+    *   2 110
 
 
 *    *   320 000
 
-    *   2 015
+    *   2 136
 
 
 *    *   325 000
 
-    *   2 038
+    *   2 160
 
 
 *    *   330 000
 
-    *   2 062
+    *   2 186
 
 
 *    *   335 000
 
-    *   2 084
+    *   2 209
 
 
 *    *   340 000
 
-    *   2 107
+    *   2 233
 
 
 *    *   345 000
 
-    *   2 129
+    *   2 257
 
 
 *    *   350 000
 
-    *   2 149
+    *   2 278
 
 
 *    *   355 000
 
-    *   2 172
+    *   2 302
 
 
 *    *   360 000
 
-    *   2 193
+    *   2 325
 
 
 *    *   365 000
 
-    *   2 213
+    *   2 346
 
 
 *    *   370 000
 
-    *   2 234
+    *   2 368
 
 
 *    *   375 000
 
-    *   2 255
+    *   2 390
 
 
 *    *   380 000
 
-    *   2 268
+    *   2 404
 
 
 *    *   385 000
 
-    *   2 295
+    *   2 432
 
 
 *    *   390 000
 
-    *   2 313
+    *   2 452
 
 
 *    *   395 000
 
-    *   2 332
+    *   2 472
 
 
 *    *   400 000
 
-    *   2 351
+    *   2 492
 
 
 *    *   410 000
 
-    *   2 388
+    *   2 531
 
 
 *    *   420 000
 
-    *   2 424
+    *   2 569
 
 
 *    *   430 000
 
-    *   2 461
+    *   2 609
 
 
 *    *   440 000
 
-    *   2 495
+    *   2 645
 
 
 *    *   450 000
 
-    *   2 530
+    *   2 682
 
 
 *    *   460 000
 
-    *   2 564
+    *   2 718
 
 
 *    *   470 000
 
-    *   2 596
+    *   2 752
 
 
 *    *   480 000
 
-    *   2 629
+    *   2 787
 
 
 *    *   490 000
 
-    *   2 658
+    *   2 817
 
 
 *    *   500 000
 
-    *   2 687
+    *   2 848
 
 
 *    *   vom Mehrbetrag
         über 500 000 Euro
         je angefangene 50 000 Euro
 
-    *   156
+    *   165
 
 
 

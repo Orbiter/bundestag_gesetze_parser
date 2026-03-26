@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2000, 1270
 
 Zuletzt geändert durch
-:   Art. 19 G v. 22.12.2023 I Nr. 408
-
-Mittelbare änderung durch
-:   Art. 14 Nr. 2 G v. 22.12.2023 I Nr. 408 ist berücksichtigt
+:   Art. 12 G v. 28.10.2025 I Nr. 259
 
 
 ## Eingangsformel
@@ -252,8 +249,8 @@ gehört, an dem die Anti-D-Immunprophylaxe durchgeführt wurde.
 
 (3) Den in Absatz 2 bezeichneten Ländern werden für Leistungen nach §
 3 Absatz 2 in Verbindung mit Absatz 1 sowie in Verbindung mit § 7a, §§
-4 und 13 Abs. 1 und Abs. 2 vom Bund 50 vom Hundert und von den Ländern
-Baden-Württemberg, Bayern, Bremen, Hamburg, Hessen, Niedersachsen,
+4 und 13 Absatz 1 vom Bund 50 vom Hundert und von den Ländern Baden-
+Württemberg, Bayern, Bremen, Hamburg, Hessen, Niedersachsen,
 Nordrhein-Westfalen, Rheinland-Pfalz, Saarland und Schleswig-Holstein
 12,4 vom Hundert der entstandenen Kosten erstattet. Das
 Anteilsverhältnis unter den zur Erstattung verpflichteten Ländern wird

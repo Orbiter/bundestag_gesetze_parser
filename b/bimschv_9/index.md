@@ -16,17 +16,17 @@ Fundstelle
 :   BGBl I: 1977, 274
 
 Neugefasst durch
-:   Bek v. 29.5.1992 I 1001;
+:   Bek. v. 29.5.1992 I 1001;
 
 Zuletzt geändert durch
-:   Art. 10 G v. 22.3.2023 I Nr. 88
+:   Art. 4 G v. 3.7.2024 I Nr. 225
 
 
 ## Erster Teil - Allgemeine Vorschriften
 
 
 
-### Erster Abschnitt - Anwendungsbereich, Antrag und Unterlagen
+### Erster Abschnitt - Anwendungsbereich, Antrag, Unterlagen und Projektmanager
 
 
 
@@ -214,6 +214,61 @@ Zusammenwirken zumindest mit denjenigen Zulassungsbehörden und mit
 derjenigen für Naturschutz und Landschaftspflege zuständigen Behörde
 wahr, deren Aufgabenbereich durch das UVP-pflichtige Vorhaben berührt
 wird.
+
+
+#### § 2b Projektmanager
+
+(1) Die Genehmigungsbehörde soll in jeder Stufe des Verfahrens einen
+Dritten als Projektmanager, der als Verwaltungshelfer beschäftigt
+werden kann, auf Antrag oder mit Zustimmung des Vorhabenträgers und
+auf dessen Kosten mit der Vorbereitung und Durchführung von
+Verfahrensschritten beauftragen. Dies kann insbesondere folgende
+Verfahrensschritte umfassen:
+
+1.  Die Erstellung von Verfahrensleitplänen unter Bestimmung von
+    Verfahrensabschnitten und Zwischenterminen,
+
+
+2.  die Fristenkontrolle,
+
+
+3.  die Koordinierung von erforderlichen Sachverständigengutachten,
+
+
+4.  das Qualitätsmanagement der Anträge und Unterlagen der Vorhabenträger,
+
+
+5.  die erste Auswertung der eingereichten Stellungnahmen,
+
+
+6.  die organisatorische Vorbereitung eines Erörterungstermins,
+
+
+7.  die Leitung des Erörterungstermins,
+
+
+8.  den Entwurf der Niederschrift nach § 19,
+
+
+9.  den Entwurf der Entscheidung nach § 20 sowie
+
+
+10. die Prüfung der Vollständigkeit der Unterlagen nach § 7.
+
+
+
+
+(2) Die Entscheidung nach § 20 trifft allein die Genehmigungsbehörde.
+
+(3) Stimmt der Träger des Vorhabens zu, kann die Genehmigungsbehörde
+bei der Beauftragung des Projektmanagers mit diesem vereinbaren, dass
+die Zahlungspflicht unmittelbar zwischen Vorhabenträger und
+Projektmanager entsteht und eine Abrechnung zwischen diesen erfolgt.
+Der Projektmanager ist verpflichtet, die Abrechnungsunterlagen
+ebenfalls der Genehmigungsbehörde zu übermitteln. Die
+Genehmigungsbehörde prüft, ob die vom Projektmanager abgerechneten
+Leistungen dem jeweiligen Auftrag entsprechen, und teilt dem
+Vorhabenträger das Ergebnis dieser Prüfung unverzüglich mit.
 
 
 #### § 3 Antragsinhalt
@@ -676,10 +731,12 @@ Auswirkungen der anderen kumulierenden Vorhaben auf die in § 1a
 genannten Schutzgüter als Vorbelastung zu berücksichtigen.
 
 
-#### § 5 Vordrucke
+#### § 5 Vordrucke und elektronische Dateiformate
 
 Die Genehmigungsbehörde kann die Verwendung von Vordrucken für den
-Antrag und die Unterlagen verlangen.
+Antrag und die Unterlagen verlangen. Bei elektronischer Antragstellung
+kann die zuständige oberste Landesbehörde oder die nach Landesrecht zu
+bestimmende Behörde das Datenformat festlegen.
 
 
 #### § 6 Eingangsbestätigung
@@ -692,27 +749,43 @@ bestätigen.
 #### § 7 Prüfung der Vollständigkeit, Verfahrensablauf
 
 (1) Die Genehmigungsbehörde hat nach Eingang des Antrags und der
-Unterlagen unverzüglich, in der Regel innerhalb eines Monats, zu
-prüfen, ob der Antrag den Anforderungen des § 3 und die Unterlagen den
-Anforderungen der §§ 4 bis 4e entsprechen. Die zuständige Behörde kann
-die Frist in begründeten Ausnahmefällen einmal um zwei Wochen
-verlängern. Sind der Antrag oder die Unterlagen nicht vollständig, so
-hat die Genehmigungsbehörde den Antragsteller unverzüglich
-aufzufordern, den Antrag oder die Unterlagen innerhalb einer
-angemessenen Frist zu ergänzen. Teilprüfungen sind auch vor Vorlage
-der vollständigen Unterlagen vorzunehmen, soweit dies nach den bereits
-vorliegenden Unterlagen möglich ist. Die Behörde kann zulassen, dass
-Unterlagen, deren Einzelheiten für die Beurteilung der
+Unterlagen unverzüglich, innerhalb eines Monats, zu prüfen, ob der
+Antrag den Anforderungen des § 3 und die Unterlagen den Anforderungen
+der §§ 4 bis 4e entsprechen. Die zuständige Behörde kann die Frist in
+begründeten Ausnahmefällen einmal um zwei Wochen verlängern. Sind der
+Antrag oder die Unterlagen nicht vollständig, so hat die
+Genehmigungsbehörde den Antragsteller unverzüglich aufzufordern, den
+Antrag oder die Unterlagen innerhalb einer angemessenen Frist zu
+ergänzen. Die Genehmigungsfrist nach § 10 Absatz 6a Satz 1 des Bundes-
+Immissionsschutzgesetzes beginnt mit Ablauf der Frist nach Satz 1 oder
+Satz 2 oder, sofern die Behörde nach Satz 3 den Antragsteller zur
+Ergänzung aufgefordert hat, mit Eingang der von der Behörde erstmalig
+nachgeforderten Unterlagen, an zu laufen. Teilprüfungen sind auch vor
+Vorlage der vollständigen Unterlagen vorzunehmen, soweit dies nach den
+bereits vorliegenden Unterlagen möglich ist. Die Behörde soll
+zulassen, dass Unterlagen, deren Einzelheiten für die Beurteilung der
 Genehmigungsfähigkeit der Anlage als solcher nicht unmittelbar von
 Bedeutung sind, insbesondere den Bericht über den Ausgangszustand nach
 § 10 Absatz 1a des Bundes-Immissionsschutzgesetzes, bis zum Beginn der
 Errichtung oder der Inbetriebnahme der Anlage nachgereicht werden
-können.
+können. Dies gilt auch für die Bestätigung des Entsorgungsweges durch
+einen potenziellen Entsorger, soweit diese für die
+Genehmigungsfähigkeit nicht unmittelbar von Bedeutung ist.
 
 (2) Sind die Unterlagen vollständig, hat die Genehmigungsbehörde den
-Antragsteller über die voraussichtlich zu beteiligenden Behörden und
-den geplanten zeitlichen Ablauf des Genehmigungsverfahrens zu
-unterrichten.
+Antragsteller hierüber unter Angabe des Datums der Vollständigkeit und
+über die voraussichtlich zu beteiligenden Behörden und den geplanten
+zeitlichen Ablauf des Genehmigungsverfahrens zu unterrichten.
+Unterlagen sind vollständig, wenn die Unterlagen in einer Weise
+prüffähig sind, dass sie sich zu allen rechtlich relevanten Aspekten
+des Vorhabens verhalten, und die Behörde in die Lage versetzen, den
+Antrag unter Berücksichtigung dieser Vorgaben näher zu prüfen.
+Fachliche Einwände und Nachfragen stehen der Vollständigkeit nicht
+entgegen, sofern die betreffende Unterlage eine fachliche Prüfung
+überhaupt ermöglicht. Das Vollständigkeitsdatum ist der Tag, an dem
+die letzte Unterlage, die für das Erreichen der Vollständigkeit im
+Sinne der Sätze 1 und 2 erforderlich ist, schriftlich oder
+elektronisch bei der Behörde eingegangen ist.
 
 
 ### Zweiter Abschnitt - Beteiligung Dritter
@@ -721,19 +794,17 @@ unterrichten.
 
 #### § 8 Bekanntmachung des Vorhabens
 
-(1) Sind die zur Auslegung (§ 10 Absatz 1) erforderlichen Unterlagen
-vollständig, so hat die Genehmigungsbehörde das Vorhaben in ihrem
-amtlichen Veröffentlichungsblatt und außerdem entweder im Internet
-oder in örtlichen Tageszeitungen, die im Bereich des Standorts der
-Anlage verbreitet sind, öffentlich bekanntzumachen. Eine zusätzliche
-Bekanntmachung und Auslegung ist, auch in den Fällen der §§ 22 und 23,
-nur nach Maßgabe des Absatzes 2 erforderlich. Bei UVP-pflichtigen
-Anlagen erfolgt die Bekanntmachung durch die Genehmigungsbehörde auch
-über das jeweilige zentrale Internetportal nach § 20 Absatz 1 des
-Gesetzes über die Umweltverträglichkeitsprüfung; dabei gelten die
-Vorgaben der UVP-Portale-Verordnung vom 11. November 2020 (BGBl. I S.
-2428) entsprechend. Maßgeblich ist der Inhalt der ausgelegten
-Unterlagen.
+(1) Sind die zur Auslegung nach § 10 Absatz 1 erforderlichen
+Unterlagen vollständig, so hat die Genehmigungsbehörde das Vorhaben in
+ihrem amtlichen Veröffentlichungsblatt und auf ihrer Internetseite
+öffentlich bekannt zu machen. Eine zusätzliche Bekanntmachung und
+Auslegung ist, auch in den Fällen der §§ 22 und 23, nur nach Maßgabe
+des Absatzes 2 erforderlich. Bei UVP-pflichtigen Anlagen erfolgt die
+Bekanntmachung durch die Genehmigungsbehörde auch über das jeweilige
+zentrale Internetportal nach § 20 Absatz 1 des Gesetzes über die
+Umweltverträglichkeitsprüfung; dabei gelten die Vorgaben der UVP-
+Portale-Verordnung vom 11. November 2020 (BGBl. I S. 2428)
+entsprechend.
 
 (2) Wird das Vorhaben während eines Vorbescheidsverfahrens, nach
 Erteilung eines Vorbescheides oder während des Genehmigungsverfahrens
@@ -789,49 +860,59 @@ zusätzlich folgende Angaben enthalten:
 
 
 (2) Zwischen der Bekanntmachung des Vorhabens und dem Beginn der
-Auslegungsfrist soll eine Woche liegen; maßgebend ist dabei der
-voraussichtliche Tag der Ausgabe des Veröffentlichungsblattes oder der
-Tageszeitung, die zuletzt erscheint.
+Auslegungsfrist soll eine Woche liegen; maßgebend ist dabei der Tag
+der zeitlich letzten Veröffentlichung nach § 10 Absatz 3 Satz 1 des
+Bundes-Immissionsschutzgesetzes.
 
 
 #### § 10 Auslegung von Antrag und Unterlagen; Veröffentlichung des UVP-Berichts
 
-(1) Bei der Genehmigungsbehörde und, soweit erforderlich, bei einer
-geeigneten Stelle in der Nähe des Standorts des Vorhabens sind der
-Antrag sowie die beigefügten Unterlagen auszulegen, die die Angaben
-über die Auswirkungen der Anlage auf die Nachbarschaft und die
-Allgemeinheit enthalten. Darüber hinaus sind, soweit vorhanden, die
-entscheidungserheblichen sonstigen der Genehmigungsbehörde
-vorliegenden behördlichen Unterlagen zu dem Vorhaben auszulegen, die
-Angaben über die Auswirkungen der Anlage auf die Nachbarschaft und die
+(1) Bei der Genehmigungsbehörde sind der Antrag sowie die beigefügten
+Unterlagen auszulegen, die die Angaben über die Auswirkungen der
+Anlage auf die Nachbarschaft und die Allgemeinheit enthalten. Darüber
+hinaus sind, soweit vorhanden, die entscheidungserheblichen sonstigen
+der Genehmigungsbehörde vorliegenden behördlichen Unterlagen zu dem
+Vorhaben auszulegen, die Angaben über die Auswirkungen der Anlage auf
+die Nachbarschaft und die Allgemeinheit oder Empfehlungen zur
+Begrenzung dieser Auswirkungen enthalten. Die Auslegung ist dadurch zu
+bewirken, dass die Dokumente auf einer Internetseite der zuständigen
+Behörde zugänglich gemacht werden. Auf Verlangen eines Beteiligten
+wird ihm eine leicht zu erreichende Zugangsmöglichkeit zur Verfügung
+gestellt. Der Vorhabenträger kann der Veröffentlichung im Internet
+widersprechen, soweit er die Gefährdung von Betriebs- oder
+Geschäftsgeheimnissen oder wichtiger Sicherheitsbelange befürchtet; in
+diesem Fall muss die Behörde eine andere Form der Veröffentlichung
+wählen. Die Behörde kann verlangen, dass die Dokumente, die für die
+Auslegung einzureichen sind, in einem verkehrsüblichen elektronischen
+Format eingereicht werden. Verfügt die Genehmigungsbehörde bis zur
+Entscheidung über den Genehmigungsantrag über zusätzliche behördliche
+Stellungnahmen oder von ihr angeforderte Unterlagen, die Angaben über
+die Auswirkungen der Anlage auf die Nachbarschaft und die
 Allgemeinheit oder Empfehlungen zur Begrenzung dieser Auswirkungen
-enthalten. Verfügt die Genehmigungsbehörde bis zur Entscheidung über
-den Genehmigungsantrag über zusätzliche behördliche Stellungnahmen
-oder von ihr angeforderte Unterlagen, die Angaben über die
-Auswirkungen der Anlage auf die Nachbarschaft und die Allgemeinheit
-oder Empfehlungen zur Begrenzung dieser Auswirkungen enthalten, sind
-diese der Öffentlichkeit nach den Bestimmungen des Bundes und der
-Länder über den Zugang zu Umweltinformationen zugänglich zu machen.
-Betrifft das Vorhaben eine UVP-pflichtige Anlage, so ist auch der vom
-Antragsteller zur Durchführung einer Umweltverträglichkeitsprüfung
-zusätzlich beigefügte UVP-Bericht nach § 4e auszulegen; ferner sind
-der Antrag und die Unterlagen auch in den Gemeinden auszulegen, in
-denen sich das Vorhaben voraussichtlich auswirkt. Soweit eine
-Auslegung der Unterlagen nach § 4b Absatz 1 und 2 zu einer Störung im
-Sinne des § 4b Absatz 3 führen kann, ist an Stelle dieser Unterlagen
-die Darstellung nach § 4b Absatz 3 auszulegen. In den Antrag und die
-Unterlagen nach den Sätzen 1, 2 und 4 sowie in die Darstellung nach §
-4b Absatz 3 ist während der Dienststunden Einsicht zu gewähren. Bei
-UVP-pflichtigen Vorhaben hat der Träger des Vorhabens den UVP-Bericht
-sowie die das Vorhaben betreffenden entscheidungserheblichen Berichte
-und Empfehlungen, die der Genehmigungsbehörde zum Zeitpunkt des
-Beginns des Beteiligungsverfahrens vorgelegen haben, auch elektronisch
-vorzulegen. § 8 Absatz 1 Satz 3 und 4 gilt bei UVP-pflichtigen
-Vorhaben für diese Unterlagen entsprechend.
+enthalten, sind diese der Öffentlichkeit nach den Bestimmungen des
+Bundes und der Länder über den Zugang zu Umweltinformationen
+zugänglich zu machen. Betrifft das Vorhaben eine UVP-pflichtige
+Anlage, so ist auch der vom Antragsteller zur Durchführung einer
+Umweltverträglichkeitsprüfung zusätzlich beigefügte UVP-Bericht nach §
+4e auszulegen; ferner sind der Antrag und die Unterlagen auch in den
+Gemeinden auszulegen, in denen sich das Vorhaben voraussichtlich
+auswirkt. Soweit eine Auslegung der Unterlagen nach § 4b Absatz 1 und
+2 zu einer Störung im Sinne des § 4b Absatz 3 führen kann, ist an
+Stelle dieser Unterlagen die Darstellung nach § 4b Absatz 3
+auszulegen. In den Antrag und die Unterlagen nach den Sätzen 1, 2 und
+4 sowie in die Darstellung nach § 4b Absatz 3 ist während der
+Dienststunden Einsicht zu gewähren. Bei UVP-pflichtigen Vorhaben hat
+der Träger des Vorhabens den UVP-Bericht sowie die das Vorhaben
+betreffenden entscheidungserheblichen Berichte und Empfehlungen, die
+der Genehmigungsbehörde zum Zeitpunkt des Beginns des
+Beteiligungsverfahrens vorgelegen haben, auch elektronisch vorzulegen.
+§ 8 Absatz 1 Satz 3 gilt bei UVP-pflichtigen Vorhaben für diese
+Unterlagen entsprechend.
 
-(2) Auf Anforderung eines Dritten ist diesem eine Abschrift oder
-Vervielfältigung der Kurzbeschreibung nach § 4 Absatz 3 Satz 1 zu
-überlassen.
+(2) Auf Anforderung eines Dritten ist diesem eine elektronische
+Fassung der Kurzbeschreibung nach § 4 Absatz 3 Satz 1 zu überlassen.
+In begründeten Einzelfällen kann ein Ausdruck der Kurzbeschreibung
+bereitgestellt werden.
 
 (3) Soweit Unterlagen Geschäfts- oder Betriebsgeheimnisse enthalten,
 ist an ihrer Stelle die Inhaltsdarstellung nach § 10 Absatz 2 Satz 2
@@ -904,10 +985,9 @@ den Bestimmungen über den Zugang zu Umweltinformationen zugänglich.
 
 #### § 12 Einwendungen
 
-(1) Einwendungen können bei der Genehmigungsbehörde oder bei der
-Stelle erhoben werden, bei der Antrag und Unterlagen zur Einsicht
-ausliegen. Bei UVP-pflichtigen Vorhaben gilt eine Einwendungsfrist von
-einem Monat nach Ablauf der Auslegungsfrist. Nach Ablauf der
+(1) Einwendungen können bei der Genehmigungsbehörde erhoben werden.
+Bei UVP-pflichtigen Vorhaben gilt eine Einwendungsfrist von einem
+Monat nach Ablauf der Auslegungsfrist. Nach Ablauf der
 Einwendungsfrist entscheidet die Genehmigungsbehörde unter
 Berücksichtigung von § 14, ob im Genehmigungsverfahren ein
 Erörterungstermin nach § 10 Absatz 6 des Bundes-
@@ -1010,15 +1090,32 @@ Gerichten zu verweisen.
 
 
 3.  ausschließlich Einwendungen erhoben worden sind, die auf besonderen
-    privatrechtlichen Titeln beruhen oder
+    privatrechtlichen Titeln beruhen,
 
 
 4.  die erhobenen Einwendungen nach der Einschätzung der Behörde keiner
-    Erörterung bedürfen.
+    Erörterung bedürfen oder
+
+
+5.  der Vorhabenträger die Durchführung eines Erörterungstermins nicht
+    beantragt und die Genehmigungsbehörde nicht im Einzelfall die
+    Durchführung für geboten hält.
 
 
 
-Das gilt auch für UVP-pflichtige Anlagen.
+In den Fällen des Absatzes 1 Satz 1 Nummer 5 soll der
+Erörterungstermin spätestens vier Wochen nach Ablauf der
+Einwendungsfrist nach § 10 Absatz 3 Satz 8 des Bundes-
+Immissionsschutzgesetzes durchgeführt werden. Auf einen
+Erörterungstermin soll verzichtet werden bei der Errichtung oder
+Änderung von Windenergieanlagen an Land, bei der Errichtung oder
+Änderung von Anlagen zur Herstellung von Wasserstoff aus erneuerbaren
+Energien und bei der Errichtung oder Änderung von Anlagen zur
+Speicherung von Wasserstoff aus erneuerbaren Energien, die im
+unmittelbar räumlichen Zusammenhang mit Anlagen zur Herstellung von
+Wasserstoff aus erneuerbaren Energien stehen, wenn nicht der
+Antragsteller diesen beantragt. Die Sätze 1 bis 3 gelten auch für UVP-
+pflichtige Anlagen.
 
 (2) Der Antragsteller ist vom Wegfall des Termins zu unterrichten.
 
@@ -1370,8 +1467,8 @@ Angaben enthalten über
 Immissionsschutzgesetzes ist die Entscheidung über den Antrag
 öffentlich bekannt zu machen, wenn das Verfahren mit
 Öffentlichkeitsbeteiligung durchgeführt wurde oder der Träger des
-Vorhabens dies beantragt. § 10 Absatz 8 Satz 2 und 3 des Bundes-
-Immissionsschutzgesetzes gelten entsprechend. In der öffentlichen
+Vorhabens dies beantragt. § 10 Absatz 8 Satz 2 bis 6 des Bundes-
+Immissionsschutzgesetzes gilt entsprechend. In der öffentlichen
 Bekanntmachung ist anzugeben, wo und wann der Bescheid und seine
 Begründung eingesehen werden können.
 
